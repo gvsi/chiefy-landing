@@ -77,10 +77,7 @@ React should only be used as a last resort for complex stateful logic.
 - Optimize for Core Web Vitals (LCP, CLS, INP)
 - Test impact on Lighthouse scores before committing
 
-**General:**
-- Write clean, maintainable code
 - Follow accessibility standards (semantic HTML, ARIA)
-- See root `../AGENTS.md` (or `CLAUDE.md`/`GEMINI.md`) for shared principles across all repos
 
 ## Verification
 Before claiming a task is done:
