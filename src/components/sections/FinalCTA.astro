@@ -1,5 +1,12 @@
 ---
 import { APP_URL } from "../../utils/constants";
+
+type Props = {
+    ctaHeadline?: string;
+    ctaSubline?: string;
+};
+
+const { ctaHeadline, ctaSubline } = Astro.props;
 ---
 
 <section id="getstarted" class="final-cta" aria-label="Get started" data-cta-section>
@@ -13,11 +20,16 @@ import { APP_URL } from "../../utils/constants";
             <div class="cta-card__inner">
                 <header class="cta-header">
                     <h2 class="cta-title">
-                        Get 4 hours back.<br />Every week.
+                        {ctaHeadline ? (
+                            ctaHeadline.split("\n").map((line, i, arr) => (
+                                <>{line}{i < arr.length - 1 && <br />}</>
+                            ))
+                        ) : (
+                            <>Get 4 hours back.<br />Every week.</>
+                        )}
                     </h2>
                     <p class="cta-subtitle">
-                        Join the professionals who start their day with clarity, not chaos.
-                        Your free trial is waiting.
+                        {ctaSubline || "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting."}
                     </p>
                 </header>
 

@@ -1,5 +1,17 @@
 ---
+type AgentData = {
+    userMessage: string;
+    agentResponse: string;
+    followUp?: string;
+    followUpResponse?: string;
+};
 
+type Props = {
+    agent?: AgentData;
+    agentSubtitle?: string;
+};
+
+const { agent, agentSubtitle } = Astro.props;
 ---
 
 <section id="intelligence" class="agent-showcase" aria-label="AI email intelligence and assistant" data-agent-section>
@@ -18,7 +30,7 @@
             </div>
             <h2 class="agent-title">Ask anything about your email</h2>
             <p class="agent-subtitle">
-                Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.
+                {agentSubtitle || "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly."}
             </p>
         </header>
 
@@ -46,82 +58,89 @@
                     <div class="chat-body">
                         <div class="message user-message">
                             <div class="message-content">
-                                Can you find the Stripe invoice sent by Accounting?
+                                {agent ? agent.userMessage : "Can you find the Stripe invoice sent by Accounting?"}
                             </div>
                         </div>
 
                         <div class="processing-state">
                             <div class="processing-line"></div>
-                            <span class="processing-text"
-                                >Searching inbox...</span
-                            >
+                            <span class="processing-text">Searching inbox...</span>
                         </div>
 
                         <div class="message agent-message">
                             <div class="message-content">
-                                <div class="agent-response-header">
-                                    <svg
-                                        class="check-icon"
-                                        width="14"
-                                        height="14"
-                                        viewBox="0 0 24 24"
-                                        fill="none"
-                                        stroke="currentColor"
-                                        stroke-width="3"
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                    >
-                                        <polyline points="20 6 9 17 4 12"
-                                        ></polyline>
-                                    </svg>
-                                    <span class="typing-text typing-line-1">Found 2 emails from Stripe</span>
-                                </div>
-                                <p>
-                                    <span class="typing-text typing-line-2">I found the receipt for <strong>$29.00 USD</strong> from Oct 24th.</span>
-                                </p>
-
-                                <div class="attachment-card">
-                                    <div class="file-icon">
-                                        <svg
-                                            width="16"
-                                            height="16"
-                                            viewBox="0 0 24 24"
-                                            fill="none"
-                                            stroke="currentColor"
-                                            stroke-width="2"
-                                        >
-                                            <path
-                                                d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"
-                                            ></path>
-                                            <polyline points="14 2 14 8 20 8"
-                                            ></polyline>
-                                            <line x1="16" y1="13" x2="8" y2="13"
-                                            ></line>
-                                            <line x1="16" y1="17" x2="8" y2="17"
-                                            ></line>
-                                            <polyline points="10 9 9 9 8 9"
-                                            ></polyline>
-                                        </svg>
-                                    </div>
-                                    <div class="file-info">
-                                        <span class="file-name"
-                                            >invoice_oct24.pdf</span
-                                        >
-                                        <span class="file-size">142 KB</span>
-                                    </div>
-                                </div>
+                                {agent ? (
+                                    <p>
+                                        <span class="typing-text typing-line-1">{agent.agentResponse}</span>
+                                    </p>
+                                ) : (
+                                    <>
+                                        <div class="agent-response-header">
+                                            <svg
+                                                class="check-icon"
+                                                width="14"
+                                                height="14"
+                                                viewBox="0 0 24 24"
+                                                fill="none"
+                                                stroke="currentColor"
+                                                stroke-width="3"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            >
+                                                <polyline points="20 6 9 17 4 12"></polyline>
+                                            </svg>
+                                            <span class="typing-text typing-line-1">Found 2 emails from Stripe</span>
+                                        </div>
+                                        <p>
+                                            <span class="typing-text typing-line-2">I found the receipt for <strong>$29.00 USD</strong> from Oct 24th.</span>
+                                        </p>
+                                        <div class="attachment-card">
+                                            <div class="file-icon">
+                                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                                                    <polyline points="14 2 14 8 20 8"></polyline>
+                                                    <line x1="16" y1="13" x2="8" y2="13"></line>
+                                                    <line x1="16" y1="17" x2="8" y2="17"></line>
+                                                    <polyline points="10 9 9 9 8 9"></polyline>
+                                                </svg>
+                                            </div>
+                                            <div class="file-info">
+                                                <span class="file-name">invoice_oct24.pdf</span>
+                                                <span class="file-size">142 KB</span>
+                                            </div>
+                                        </div>
+                                    </>
+                                )}
                             </div>
                         </div>
+
+                        {agent?.followUp && (
+                            <>
+                                <div class="message user-message follow-up-message">
+                                    <div class="message-content">
+                                        {agent.followUp}
+                                    </div>
+                                </div>
+
+                                {agent.followUpResponse && (
+                                    <div class="message agent-message follow-up-response">
+                                        <div class="message-content">
+                                            <p>
+                                                <span class="typing-text typing-line-3">{agent.followUpResponse}</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                )}
+                            </>
+                        )}
                     </div>
 
-                    <div class="suggestions-container">
-                        <button class="suggestion-chip" data-action="draft"
-                            >Draft a reply</button
-                        >
-                        <button class="suggestion-chip" data-action="calendar"
-                            >Find time to meet</button
-                        >
-                    </div>
+                    {!agent && (
+                        <div class="suggestions-container">
+                            <button class="suggestion-chip" data-action="draft">Draft a reply</button>
+                            <button class="suggestion-chip" data-action="calendar">Find time to meet</button>
+                        </div>
+                    )}
 
                     <div class="input-area">
                         <div class="input-placeholder">Ask anything...</div>
@@ -395,15 +414,22 @@
 
     .chat-body :global(.agent-message) {
         align-self: flex-start;
-        /* No background for agent, just text or subtle border? Let's go subtle border */
         background: transparent;
-        border-left: 2px solid #2dd4bf; /* Teal accent line */
+        border-left: 2px solid #2dd4bf;
         padding-left: 16px;
         padding-top: 0;
         padding-bottom: 0;
         border-radius: 0;
         color: var(--duet-fg);
         animation: msgSlideIn 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) 2.5s forwards;
+    }
+
+    .chat-body :global(.follow-up-message) {
+        animation: msgSlideIn 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) 3.5s forwards;
+    }
+
+    .chat-body :global(.follow-up-response) {
+        animation: msgSlideIn 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) 4.5s forwards;
     }
 
     .chat-body :global(.agent-response-header) {
@@ -687,8 +713,8 @@
 
     .typing-line-3 {
         --typing-delay: 4.2s;
-        --typing-duration: 0.7s;
-        --typing-steps: 30;
+        --typing-duration: 1.2s;
+        --typing-steps: 50;
     }
 
     .in-view .typing-text {

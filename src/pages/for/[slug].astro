@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Nav from "../../components/nav/Nav.astro";
+import Hero from "../../components/sections/Hero.astro";
+import HeroBackground from "../../components/sections/HeroBackground.astro";
+import InboxHeroMockup from "../../components/sections/InboxHeroMockup.astro";
+import MathSection from "../../components/sections/MathSection.astro";
+import CategorizationShowcase from "../../components/sections/CategorizationShowcase.astro";
+import DraftShowcase from "../../components/sections/DraftShowcase.astro";
+import AgentChatShowcase from "../../components/sections/AgentChatShowcase.astro";
+import ShowcaseContainer from "../../components/sections/ShowcaseContainer.astro";
+import Testimonials from "../../components/sections/Testimonials.astro";
+import Pricing from "../../components/sections/Pricing.astro";
+import FAQ from "../../components/sections/FAQ.astro";
+import FinalCTA from "../../components/sections/FinalCTA.astro";
+import Footer from "../../components/sections/Footer.astro";
+
+export async function getStaticPaths() {
+    const jsonFiles = import.meta.glob("../../data/verticals/*.json", { eager: true });
+
+    return Object.entries(jsonFiles).map(([, mod]) => {
+        const data = (mod as { default: Record<string, unknown> }).default;
+        const slug = (data as { slug: string }).slug;
+        return {
+            params: { slug },
+            props: { data },
+        };
+    });
+}
+
+const { data } = Astro.props;
+---
+
+<BaseLayout
+    title={data.pageTitle}
+    description={data.metaDescription}
+    canonicalPath={`/for/${data.slug}`}
+    ogImagePath="/og.jpg"
+>
+    <Nav />
+    <main class="relative isolate">
+        <HeroBackground />
+        <Hero heroHeadline={data.heroHeadline} heroSubline={data.heroSubline} heroBadge={data.heroBadge}>
+            <div class="mt-10 w-full">
+                <InboxHeroMockup inboxEmails={data.inboxEmails} autodraft={data.autodraft} />
+            </div>
+        </Hero>
+        <MathSection
+            pricePerBooking={data.math.pricePerBooking}
+            bookingUnit={data.math.bookingUnit}
+            lostPerMonth={data.math.lostPerMonth}
+            monthlyLoss={data.math.monthlyLoss}
+            punchline={data.math.punchline}
+        />
+        <ShowcaseContainer>
+            <CategorizationShowcase categorizationEmails={data.categorizationEmails} categorizationSubtitle={data.categorizationSubtitle} />
+            <DraftShowcase draft={data.draft} draftSubtitle={data.draftSubtitle} />
+            <AgentChatShowcase agent={data.agent} agentSubtitle={data.agentSubtitle} />
+        </ShowcaseContainer>
+        <Testimonials verticalTestimonials={data.testimonials} testimonialsTitle={data.testimonialsTitle} />
+        <Pricing pricingNote={data.pricingNote} />
+        <FAQ verticalFaqs={data.verticalFaqs} />
+    </main>
+    <FinalCTA ctaHeadline={data.ctaHeadline} ctaSubline={data.ctaSubline} />
+    <Footer />
+</BaseLayout>

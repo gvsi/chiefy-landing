@@ -1,0 +1,266 @@
+---
+type Props = {
+    pricePerBooking: string;
+    bookingUnit: string;
+    lostPerMonth: string;
+    monthlyLoss: string;
+    punchline: string;
+};
+
+const { pricePerBooking, bookingUnit, lostPerMonth, monthlyLoss, punchline } = Astro.props;
+---
+
+<section class="math-section" aria-label="Return on investment" data-math-section>
+    <div class="math-outer">
+        <div class="math-card">
+            <div class="math-card__border" aria-hidden="true"></div>
+
+            <div class="math-card__inner">
+                <div class="math-label">
+                    <span class="math-label__dot" aria-hidden="true"></span>
+                    <span>The math</span>
+                </div>
+
+                <p class="math-narrative">
+                    At <strong>{pricePerBooking}</strong> per {bookingUnit}, losing just <strong>{lostPerMonth}</strong> to slow replies&nbsp;=
+                </p>
+
+                <div class="math-loss">
+                    <span class="math-loss__amount">{monthlyLoss}</span>
+                    <span class="math-loss__suffix">/mo gone</span>
+                </div>
+
+                <div class="math-divider" aria-hidden="true">
+                    <span class="math-divider__line"></span>
+                    <span class="math-divider__vs">vs</span>
+                    <span class="math-divider__line"></span>
+                </div>
+
+                <div class="math-duet">
+                    <span class="math-duet__label">Duet</span>
+                    <span class="math-duet__price">$30/mo</span>
+                </div>
+
+                <p class="math-punchline">{punchline}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .math-section {
+        padding: 64px 24px;
+        position: relative;
+        z-index: 1;
+    }
+
+    .math-outer {
+        max-width: 480px;
+        margin: 0 auto;
+    }
+
+    /* ── Card ── */
+    .math-card {
+        position: relative;
+        border-radius: 20px;
+        overflow: hidden;
+    }
+
+    .math-card__border {
+        position: absolute;
+        inset: 0;
+        border-radius: 20px;
+        padding: 1px;
+        background: linear-gradient(
+            160deg,
+            rgba(255, 255, 255, 0.12) 0%,
+            rgba(255, 255, 255, 0.04) 40%,
+            rgba(239, 68, 68, 0.15) 70%,
+            rgba(255, 255, 255, 0.06) 100%
+        );
+        -webkit-mask:
+            linear-gradient(#fff 0 0) content-box,
+            linear-gradient(#fff 0 0);
+        -webkit-mask-composite: xor;
+        mask-composite: exclude;
+        pointer-events: none;
+    }
+
+    :global(html[data-theme="light"]) .math-card__border {
+        background: linear-gradient(
+            160deg,
+            rgba(0, 0, 0, 0.08) 0%,
+            rgba(0, 0, 0, 0.04) 40%,
+            rgba(220, 38, 38, 0.2) 70%,
+            rgba(0, 0, 0, 0.06) 100%
+        );
+    }
+
+    .math-card__inner {
+        padding: 40px 36px 36px;
+        background: rgba(20, 20, 24, 0.6);
+        backdrop-filter: blur(24px) saturate(1.2);
+        -webkit-backdrop-filter: blur(24px) saturate(1.2);
+        border-radius: 20px;
+        text-align: center;
+    }
+
+    :global(html[data-theme="light"]) .math-card__inner {
+        background: rgba(255, 255, 255, 0.7);
+        backdrop-filter: blur(20px) saturate(1.3);
+        -webkit-backdrop-filter: blur(20px) saturate(1.3);
+        box-shadow:
+            0 4px 24px rgba(0, 0, 0, 0.06),
+            inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    }
+
+    /* ── Label ── */
+    .math-label {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 24px;
+        font-family: var(--font-sans);
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--duet-muted);
+    }
+
+    .math-label__dot {
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: #ef4444;
+        box-shadow: 0 0 8px rgba(239, 68, 68, 0.4);
+    }
+
+    :global(html[data-theme="light"]) .math-label__dot {
+        background: #dc2626;
+        box-shadow: 0 0 8px rgba(220, 38, 38, 0.3);
+    }
+
+    /* ── Narrative ── */
+    .math-narrative {
+        margin: 0 0 20px;
+        font-family: var(--font-sans);
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.6;
+        color: var(--prose-text);
+        text-wrap: pretty;
+    }
+
+    .math-narrative strong {
+        font-weight: 700;
+        color: var(--prose-heading);
+    }
+
+    /* ── Loss amount ── */
+    .math-loss {
+        display: flex;
+        align-items: baseline;
+        justify-content: center;
+        gap: 6px;
+        margin-bottom: 24px;
+    }
+
+    .math-loss__amount {
+        font-family: var(--font-serif);
+        font-size: 48px;
+        font-weight: 500;
+        letter-spacing: -0.03em;
+        line-height: 1;
+        color: #f87171;
+    }
+
+    :global(html[data-theme="light"]) .math-loss__amount {
+        color: #dc2626;
+    }
+
+    .math-loss__suffix {
+        font-family: var(--font-sans);
+        font-size: 16px;
+        font-weight: 500;
+        color: var(--duet-muted);
+    }
+
+    /* ── Divider ── */
+    .math-divider {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin: 0 auto 24px;
+        max-width: 240px;
+    }
+
+    .math-divider__line {
+        flex: 1;
+        height: 1px;
+        background: var(--duet-border-editorial);
+    }
+
+    .math-divider__vs {
+        font-family: var(--font-sans);
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--duet-muted);
+        opacity: 0.6;
+    }
+
+    /* ── Duet cost ── */
+    .math-duet {
+        display: flex;
+        align-items: baseline;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 20px;
+    }
+
+    .math-duet__label {
+        font-family: var(--font-sans);
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--duet-muted);
+    }
+
+    .math-duet__price {
+        font-family: var(--font-serif);
+        font-size: 28px;
+        font-weight: 500;
+        letter-spacing: -0.02em;
+        line-height: 1;
+        color: var(--prose-heading);
+    }
+
+    /* ── Punchline ── */
+    .math-punchline {
+        margin: 0;
+        padding-top: 20px;
+        border-top: 1px solid var(--duet-border-editorial);
+        font-family: var(--font-serif);
+        font-size: 15px;
+        font-weight: 500;
+        font-style: italic;
+        line-height: 1.5;
+        color: var(--duet-muted);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 639px) {
+        .math-card__inner {
+            padding: 32px 24px 28px;
+        }
+
+        .math-loss__amount {
+            font-size: 40px;
+        }
+
+        .math-duet__price {
+            font-size: 24px;
+        }
+    }
+</style>
