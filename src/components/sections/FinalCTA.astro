@@ -19,7 +19,15 @@ const { ctaHeadline, ctaSubline } = Astro.props;
         <div class="cta-card">
             <div class="cta-card__inner">
                 <header class="cta-header">
-                    <h2 class="cta-title" set:html={ctaHeadline ? ctaHeadline.replace(/\n/g, '<br />') : 'Get 4 hours back.<br />Every week.'} />
+                    <h2 class="cta-title">
+                        {ctaHeadline ? (
+                            ctaHeadline.split("\n").map((line, i, arr) => (
+                                <>{line}{i < arr.length - 1 && <br />}</>
+                            ))
+                        ) : (
+                            <>Get 4 hours back.<br />Every week.</>
+                        )}
+                    </h2>
                     <p class="cta-subtitle">
                         {ctaSubline || "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting."}
                     </p>

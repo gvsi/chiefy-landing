@@ -15,6 +15,11 @@ type Props = {
 };
 
 const { draft, draftSubtitle } = Astro.props;
+
+// Find which line contains the highlight text (if any)
+const highlightLineIndex = draft?.highlightText
+    ? draft.lines.findIndex((line) => line.includes(draft.highlightText))
+    : -1;
 ---
 
 <section
@@ -96,11 +101,13 @@ const { draft, draftSubtitle } = Astro.props;
                                                 const lineNum = index + 1;
                                                 const isSignature = index === draft.lines.length - 1;
                                                 const lineClass = isSignature ? `draft-line line-${lineNum} draft-signature` : `draft-line line-${lineNum}`;
-                                                if (index === 1 && draft.highlightText) {
-                                                    const parts = line.split(draft.highlightText);
+                                                if (index === highlightLineIndex && draft.highlightText) {
+                                                    const hlPos = line.indexOf(draft.highlightText);
+                                                    const before = line.slice(0, hlPos);
+                                                    const after = line.slice(hlPos + draft.highlightText.length);
                                                     return (
                                                         <p class={lineClass}>
-                                                            <span class="typing-text">{parts[0]}<span class="highlight-text">{draft.highlightText}</span>{parts[1] || ""}</span>
+                                                            <span class="typing-text">{before}<span class="highlight-text">{draft.highlightText}</span>{after}</span>
                                                         </p>
                                                     );
                                                 }
@@ -167,14 +174,43 @@ const { draft, draftSubtitle } = Astro.props;
                             <span>Personalized Draft</span>
                         </div>
                         <ul class="tooltip-features">
-                            {(draft?.tooltipFeatures || ["Knows your calendar", "Drafts in your voice", "Knows context through memory", "Learns over time"]).map((feature) => (
-                                <li class="feature-item">
-                                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
-                                        <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"></path>
-                                    </svg>
-                                    <span>{feature}</span>
-                                </li>
-                            ))}
+                            {draft?.tooltipFeatures ? (
+                                draft.tooltipFeatures.map((feature) => (
+                                    <li class="feature-item">
+                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                                            <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"></path>
+                                        </svg>
+                                        <span>{feature}</span>
+                                    </li>
+                                ))
+                            ) : (
+                                <>
+                                    <li class="feature-item">
+                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                                            <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z"></path>
+                                        </svg>
+                                        <span>Knows your calendar</span>
+                                    </li>
+                                    <li class="feature-item">
+                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                                            <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"></path>
+                                        </svg>
+                                        <span>Drafts in your voice</span>
+                                    </li>
+                                    <li class="feature-item">
+                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                                            <path d="M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7z"></path>
+                                        </svg>
+                                        <span>Knows context through memory</span>
+                                    </li>
+                                    <li class="feature-item">
+                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                                            <path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6h-6z"></path>
+                                        </svg>
+                                        <span>Learns over time</span>
+                                    </li>
+                                </>
+                            )}
                         </ul>
                     </div>
                 </div>

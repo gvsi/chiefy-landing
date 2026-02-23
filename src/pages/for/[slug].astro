@@ -18,7 +18,7 @@ import Footer from "../../components/sections/Footer.astro";
 export async function getStaticPaths() {
     const jsonFiles = import.meta.glob("../../data/verticals/*.json", { eager: true });
 
-    return Object.entries(jsonFiles).map(([path, mod]) => {
+    return Object.entries(jsonFiles).map(([, mod]) => {
         const data = (mod as { default: Record<string, unknown> }).default;
         const slug = (data as { slug: string }).slug;
         return {

@@ -91,7 +91,7 @@ const logoByName = new Map(
             <ul class="home-testimonials__track" role="list">
                 {
                     repeatedTestimonials.map((testimonial, index) => {
-                        const logo = logoByName.get(testimonial.logoName);
+                        const logo = testimonial.logoName ? logoByName.get(testimonial.logoName) : undefined;
                         const isDuplicate = index >= TESTIMONIALS.length;
 
                         return (
@@ -113,7 +113,7 @@ const logoByName = new Map(
         >
             {
                 TESTIMONIALS.map((testimonial) => {
-                    const logo = logoByName.get(testimonial.logoName);
+                    const logo = testimonial.logoName ? logoByName.get(testimonial.logoName) : undefined;
 
                     return (
                         <TestimonialCard {testimonial} {logo} />
