@@ -1,5 +1,20 @@
 ---
+type DraftData = {
+    to: string;
+    subject: string;
+    originalFrom: string;
+    originalText: string;
+    lines: string[];
+    highlightText: string;
+    tooltipFeatures: string[];
+};
 
+type Props = {
+    draft?: DraftData;
+    draftSubtitle?: string;
+};
+
+const { draft, draftSubtitle } = Astro.props;
 ---
 
 <section
@@ -21,7 +36,7 @@
             </div>
             <h2 class="draft-title">Duet drafts in your voice</h2>
             <p class="draft-subtitle">
-                Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.
+                {draftSubtitle || "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds."}
             </p>
         </header>
 
@@ -43,28 +58,19 @@
                             <div class="compose-body">
                                 <div class="compose-field">
                                     <span class="field-label">To:</span>
-                                    <span class="field-value"
-                                        >alex.rivera@techcorp.io</span
-                                    >
+                                    <span class="field-value">{draft ? draft.to : "alex.rivera@techcorp.io"}</span>
                                 </div>
                                 <div class="compose-field">
                                     <span class="field-label">Subject:</span>
-                                    <span class="field-value"
-                                        >Re: Quick sync this week?</span
-                                    >
+                                    <span class="field-value">{draft ? draft.subject : "Re: Quick sync this week?"}</span>
                                 </div>
 
                                 <div class="original-preview">
                                     <div class="preview-header">
-                                        <span class="preview-label"
-                                            >Alex Rivera wrote:</span
-                                        >
+                                        <span class="preview-label">{draft ? draft.originalFrom : "Alex Rivera wrote:"}</span>
                                     </div>
                                     <p class="preview-text">
-                                        Hey! Would love to catch up on the
-                                        roadmap changes. Are you free for a
-                                        30-min call this week? Let me know what
-                                        works for you.
+                                        {draft ? draft.originalText : "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you."}
                                     </p>
                                 </div>
 
@@ -85,34 +91,41 @@
                                     </div>
 
                                     <div class="draft-text-container">
-                                        <p class="draft-line line-1">
-                                            <span class="typing-text"
-                                                >Hey Alex!</span
-                                            >
-                                        </p>
-                                        <p class="draft-line line-2">
-                                            <span class="typing-text"
-                                                >Would love to sync on the
-                                                roadmap. <span
-                                                    class="highlight-text"
-                                                    >I'm free Thursday 2-4pm or
-                                                    Friday morning</span
-                                                > — either works great for me.</span
-                                            >
-                                        </p>
-                                        <p class="draft-line line-3">
-                                            <span class="typing-text"
-                                                >Let me know what suits you best
-                                                and I'll send over an invite.</span
-                                            >
-                                        </p>
-                                        <p
-                                            class="draft-line line-4 draft-signature"
-                                        >
-                                            <span class="typing-text"
-                                                >Thanks!&nbsp;&nbsp;</span
-                                            >
-                                        </p>
+                                        {draft ? (
+                                            draft.lines.map((line, index) => {
+                                                const lineNum = index + 1;
+                                                const isSignature = index === draft.lines.length - 1;
+                                                const lineClass = isSignature ? `draft-line line-${lineNum} draft-signature` : `draft-line line-${lineNum}`;
+                                                if (index === 1 && draft.highlightText) {
+                                                    const parts = line.split(draft.highlightText);
+                                                    return (
+                                                        <p class={lineClass}>
+                                                            <span class="typing-text">{parts[0]}<span class="highlight-text">{draft.highlightText}</span>{parts[1] || ""}</span>
+                                                        </p>
+                                                    );
+                                                }
+                                                return (
+                                                    <p class={lineClass}>
+                                                        <span class="typing-text">{line}</span>
+                                                    </p>
+                                                );
+                                            })
+                                        ) : (
+                                            <>
+                                                <p class="draft-line line-1">
+                                                    <span class="typing-text">Hey Alex!</span>
+                                                </p>
+                                                <p class="draft-line line-2">
+                                                    <span class="typing-text">Would love to sync on the roadmap. <span class="highlight-text">I'm free Thursday 2-4pm or Friday morning</span> — either works great for me.</span>
+                                                </p>
+                                                <p class="draft-line line-3">
+                                                    <span class="typing-text">Let me know what suits you best and I'll send over an invite.</span>
+                                                </p>
+                                                <p class="draft-line line-4 draft-signature">
+                                                    <span class="typing-text">Thanks!&nbsp;&nbsp;</span>
+                                                </p>
+                                            </>
+                                        )}
                                     </div>
                                 </div>
 
@@ -154,58 +167,14 @@
                             <span>Personalized Draft</span>
                         </div>
                         <ul class="tooltip-features">
-                            <li class="feature-item">
-                                <svg
-                                    width="12"
-                                    height="12"
-                                    viewBox="0 0 24 24"
-                                    fill="currentColor"
-                                >
-                                    <path
-                                        d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z"
-                                    ></path>
-                                </svg>
-                                <span>Knows your calendar</span>
-                            </li>
-                            <li class="feature-item">
-                                <svg
-                                    width="12"
-                                    height="12"
-                                    viewBox="0 0 24 24"
-                                    fill="currentColor"
-                                >
-                                    <path
-                                        d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"
-                                    ></path>
-                                </svg>
-                                <span>Drafts in your voice</span>
-                            </li>
-                            <li class="feature-item">
-                                <svg
-                                    width="12"
-                                    height="12"
-                                    viewBox="0 0 24 24"
-                                    fill="currentColor"
-                                >
-                                    <path
-                                        d="M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7z"
-                                    ></path>
-                                </svg>
-                                <span>Knows context through memory</span>
-                            </li>
-                            <li class="feature-item">
-                                <svg
-                                    width="12"
-                                    height="12"
-                                    viewBox="0 0 24 24"
-                                    fill="currentColor"
-                                >
-                                    <path
-                                        d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6h-6z"
-                                    ></path>
-                                </svg>
-                                <span>Learns over time</span>
-                            </li>
+                            {(draft?.tooltipFeatures || ["Knows your calendar", "Drafts in your voice", "Knows context through memory", "Learns over time"]).map((feature) => (
+                                <li class="feature-item">
+                                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"></path>
+                                    </svg>
+                                    <span>{feature}</span>
+                                </li>
+                            ))}
                         </ul>
                     </div>
                 </div>

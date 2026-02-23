@@ -3,12 +3,23 @@ import { SUPPORT_MAILTO } from "../../utils/constants";
 
 /**
  * FAQ Section
- * 
+ *
  * Refined editorial design with serif headlines,
  * soft borders, and frosted glass transparency.
  */
 
-const faqs = [
+type FAQItem = {
+    question: string;
+    answer: string;
+};
+
+type Props = {
+    verticalFaqs?: FAQItem[];
+};
+
+const { verticalFaqs } = Astro.props;
+
+const faqs: FAQItem[] = [
     {
         question: "How does Duet Mail protect my email data?",
         answer: "Your security is our top priority. We use OAuth 2.0 for secure authentication, process emails in Gmail's secure environment, and never store your email content. All processing happens in real-time through Gmail's API, and we undergo Google's annual CASA security assessment to maintain the highest security standards.",
@@ -30,6 +41,8 @@ const faqs = [
         answer: "Currently, Duet Mail works exclusively with Gmail and Google Workspace accounts. We will be adding support for other email providers, including Outlook and Apple Mail in the future.",
     },
 ];
+
+const allFaqs = verticalFaqs ? [...faqs, ...verticalFaqs] : faqs;
 ---
 
 <section id="faq" class="faq" aria-label="Frequently asked questions">
@@ -56,7 +69,7 @@ const faqs = [
             </div>
 
             <div class="faq__list">
-                {faqs.map((item, index) => (
+                {allFaqs.map((item, index) => (
                     <details class="faq__item" data-index={index}>
                         <summary class="faq__summary">
                             <div class="faq__summary-left">

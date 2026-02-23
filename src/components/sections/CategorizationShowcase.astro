@@ -1,5 +1,20 @@
 ---
+type CatEmail = {
+    from: string;
+    avatarLetter: string;
+    avatarColor: string;
+    subject: string;
+    preview?: string;
+    pill: string;
+    pillColor: string;
+};
 
+type Props = {
+    categorizationEmails?: CatEmail[];
+    categorizationSubtitle?: string;
+};
+
+const { categorizationEmails, categorizationSubtitle } = Astro.props;
 ---
 
 <section
@@ -23,7 +38,7 @@
             </div>
             <h2 class="categorization-title">Duet organizes your inbox</h2>
             <p class="categorization-subtitle">
-                Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.
+                {categorizationSubtitle || "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait."}
             </p>
         </header>
 
@@ -75,169 +90,112 @@
 
                         <div class="window-body">
                             <div class="emails">
-                                <div class="email email-1">
-                                    <div class="avatar avatar-teal">S</div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span
-                                                class="email-from email-from-strong"
-                                                >Sarah Chen</span
-                                            >
-                                            <span class="pill pill-red"
-                                                >Action Needed</span
-                                            >
-                                            <span class="email-time"
-                                                >2:34 PM</span
-                                            >
+                                {categorizationEmails ? (
+                                    categorizationEmails.map((email, index) => {
+                                        const num = index + 1;
+                                        const avatarClass = `avatar avatar-${email.avatarColor}`;
+                                        const fromClass = index === 0 ? "email-from email-from-strong" : index === 1 ? "email-from" : index === 2 ? "email-from email-from-dim" : "email-from email-from-faint";
+                                        const subjectClass = index === 0 ? "email-subject email-subject-strong" : index === 1 ? "email-subject" : index === 2 ? "email-subject email-subject-dim" : "email-subject email-subject-faint";
+                                        const timeClass = index === 0 ? "email-time" : "email-time email-time-dim";
+                                        const times = ["2:34 PM", "11:05 AM", "9:22 AM", "Yesterday", "Dec 20"];
+                                        return (
+                                            <div class={`email email-${num}`}>
+                                                <div class={avatarClass}>{email.avatarLetter}</div>
+                                                <div class="email-content">
+                                                    <div class="email-top">
+                                                        <span class={fromClass}>{email.from}</span>
+                                                        <span class={`pill pill-${email.pillColor}`}>{email.pill}</span>
+                                                        <span class={timeClass}>{times[index] || ""}</span>
+                                                    </div>
+                                                    <div class={subjectClass}>{email.subject}</div>
+                                                    {email.preview && index === 0 && (
+                                                        <div class="email-preview">{email.preview}</div>
+                                                    )}
+                                                </div>
+                                            </div>
+                                        );
+                                    })
+                                ) : (
+                                    <>
+                                        <div class="email email-1">
+                                            <div class="avatar avatar-teal">S</div>
+                                            <div class="email-content">
+                                                <div class="email-top">
+                                                    <span class="email-from email-from-strong">Sarah Chen</span>
+                                                    <span class="pill pill-red">Action Needed</span>
+                                                    <span class="email-time">2:34 PM</span>
+                                                </div>
+                                                <div class="email-subject email-subject-strong">
+                                                    Q4 Budget Review Request
+                                                </div>
+                                                <div class="email-preview">
+                                                    The finalized numbers are attached.
+                                                    Please review by EOD.
+                                                </div>
+                                            </div>
                                         </div>
-                                        <div
-                                            class="email-subject email-subject-strong"
-                                        >
-                                            Q4 Budget Review Request
-                                        </div>
-                                        <div class="email-preview">
-                                            The finalized numbers are attached.
-                                            Please review by EOD.
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="email email-2">
-                                    <div class="avatar avatar-blue">M</div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span class="email-from"
-                                                >Michael Torres</span
-                                            >
-                                            <span class="pill pill-blue"
-                                                >Meeting</span
-                                            >
-                                            <span
-                                                class="email-time email-time-dim"
-                                                >11:05 AM</span
-                                            >
+                                        <div class="email email-2">
+                                            <div class="avatar avatar-blue">M</div>
+                                            <div class="email-content">
+                                                <div class="email-top">
+                                                    <span class="email-from">Michael Torres</span>
+                                                    <span class="pill pill-blue">Meeting</span>
+                                                    <span class="email-time email-time-dim">11:05 AM</span>
+                                                </div>
+                                                <div class="email-subject">
+                                                    Team standup tomorrow at 10am
+                                                </div>
+                                            </div>
                                         </div>
-                                        <div class="email-subject">
-                                            Team standup tomorrow at 10am
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="email email-3">
-                                    <div class="avatar avatar-purple">D</div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span
-                                                class="email-from email-from-dim"
-                                                >Design Team</span
-                                            >
-                                            <span class="pill pill-amber"
-                                                >FYI</span
-                                            >
-                                            <span
-                                                class="email-time email-time-dim"
-                                                >9:22 AM</span
-                                            >
+                                        <div class="email email-3">
+                                            <div class="avatar avatar-purple">D</div>
+                                            <div class="email-content">
+                                                <div class="email-top">
+                                                    <span class="email-from email-from-dim">Design Team</span>
+                                                    <span class="pill pill-amber">FYI</span>
+                                                    <span class="email-time email-time-dim">9:22 AM</span>
+                                                </div>
+                                                <div class="email-subject email-subject-dim">
+                                                    New brand guidelines published
+                                                </div>
+                                            </div>
                                         </div>
-                                        <div
-                                            class="email-subject email-subject-dim"
-                                        >
-                                            New brand guidelines published
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="email email-4">
-                                    <div class="avatar avatar-icon">
-                                        <svg
-                                            width="14"
-                                            height="14"
-                                            viewBox="0 0 24 24"
-                                            fill="none"
-                                            stroke="currentColor"
-                                            stroke-width="2"
-                                            ><path
-                                                d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"
-                                            ></path><line
-                                                x1="16"
-                                                y1="8"
-                                                x2="2"
-                                                y2="22"></line><line
-                                                x1="17.5"
-                                                y1="15"
-                                                x2="9"
-                                                y2="15"></line></svg
-                                        >
-                                    </div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span
-                                                class="email-from email-from-faint"
-                                                >Stripe</span
-                                            >
-                                            <span class="pill pill-lavender"
-                                                >Promotions</span
-                                            >
-                                            <span
-                                                class="email-time email-time-faint"
-                                                >Yesterday</span
-                                            >
+                                        <div class="email email-4">
+                                            <div class="avatar avatar-icon">
+                                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"></path><line x1="16" y1="8" x2="2" y2="22"></line><line x1="17.5" y1="15" x2="9" y2="15"></line></svg>
+                                            </div>
+                                            <div class="email-content">
+                                                <div class="email-top">
+                                                    <span class="email-from email-from-faint">Stripe</span>
+                                                    <span class="pill pill-lavender">Promotions</span>
+                                                    <span class="email-time email-time-faint">Yesterday</span>
+                                                </div>
+                                                <div class="email-subject email-subject-faint">
+                                                    Your monthly statement is ready
+                                                </div>
+                                            </div>
                                         </div>
-                                        <div
-                                            class="email-subject email-subject-faint"
-                                        >
-                                            Your monthly statement is ready
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="email email-5">
-                                    <div class="avatar avatar-icon">
-                                        <svg
-                                            width="14"
-                                            height="14"
-                                            viewBox="0 0 24 24"
-                                            fill="none"
-                                            stroke="currentColor"
-                                            stroke-width="2"
-                                            ><rect
-                                                x="3"
-                                                y="3"
-                                                width="18"
-                                                height="18"
-                                                rx="2"
-                                                ry="2"></rect><line
-                                                x1="3"
-                                                y1="9"
-                                                x2="21"
-                                                y2="9"></line><line
-                                                x1="9"
-                                                y1="21"
-                                                x2="9"
-                                                y2="9"></line></svg
-                                        >
-                                    </div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span
-                                                class="email-from email-from-ghost"
-                                                >Newsletter</span
-                                            >
-                                            <span class="pill pill-lavender"
-                                                >Promotions</span
-                                            >
-                                            <span
-                                                class="email-time email-time-ghost"
-                                                >Dec 20</span
-                                            >
+                                        <div class="email email-5">
+                                            <div class="avatar avatar-icon">
+                                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>
+                                            </div>
+                                            <div class="email-content">
+                                                <div class="email-top">
+                                                    <span class="email-from email-from-ghost">Newsletter</span>
+                                                    <span class="pill pill-lavender">Promotions</span>
+                                                    <span class="email-time email-time-ghost">Dec 20</span>
+                                                </div>
+                                                <div class="email-subject email-subject-ghost">
+                                                    Weekly digest
+                                                </div>
+                                            </div>
                                         </div>
-                                        <div
-                                            class="email-subject email-subject-ghost"
-                                        >
-                                            Weekly digest
-                                        </div>
-                                    </div>
-                                </div>
+                                    </>
+                                )}
                             </div>
                         </div>
                     </div>

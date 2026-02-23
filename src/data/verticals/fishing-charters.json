@@ -1,0 +1,185 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
+  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
+
+  "heroBadge": "Trusted by 500+ charter captains",
+  "heroHeadline": "Your email assistant while you're on the water",
+  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Availability July 12 for 4 people?",
+      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+      "pill": "To Respond",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "What should we bring?",
+      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike & Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Need to reschedule to Sunday",
+      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
+      "pill": "Booking",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "New review for your listing",
+      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+
+  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "charter",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "One saved booking pays for a year of Duet."
+  },
+
+  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
+
+  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
+
+  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Availability July 12 for 4 people?",
+      "preview": "We're a group of 4 looking to book a fishing trip...",
+      "pill": "Respond Now",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Booking confirmed — Saturday 7AM",
+      "pill": "Booked",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "What should we bring on Saturday?",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Your weekly booking summary",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "West Marine",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Spring sale — 20% off tackle",
+      "pill": "Promotions",
+      "pillColor": "lavender"
+    }
+  ],
+
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Availability July 12 for 4 people?",
+    "originalFrom": "Sarah M. wrote:",
+    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "lines": [
+      "Hey Sarah!",
+      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
+      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
+      "Want me to lock it in?"
+    ],
+    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "tooltipFeatures": [
+      "Knows your pricing & availability",
+      "Drafts in your voice",
+      "Includes trip details automatically",
+      "Learns over time"
+    ]
+  },
+
+  "agent": {
+    "userMessage": "Which days are still open next week?",
+    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
+    "followUp": "Draft a reply to Sarah with the July 12 availability",
+    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+  },
+
+  "testimonialsTitle": "Loved by charter captains",
+  "testimonials": [
+    {
+      "name": "Captain Mike D.",
+      "title": "Offshore Charter Captain, FL",
+      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah & Tom K.",
+      "title": "Family Charter Business, OR",
+      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Inshore Fishing Guide, TX",
+      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Charter Office Manager, HI",
+      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Deep Sea Charters, NC",
+      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "avatarKey": "francesca"
+    }
+  ],
+
+  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
+  "ctaSubline": "Start your free trial. Connect Gmail in 30 seconds.",
+
+  "verticalFaqs": [
+    {
+      "question": "Does Duet work for booking and availability emails?",
+      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+    },
+    {
+      "question": "I'm on the water all day. Can I use Duet from my phone?",
+      "answer": "Yes. Duet works inside Gmail, so it works wherever Gmail works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+    }
+  ],
+
+  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+}

@@ -3,11 +3,17 @@ import { APP_URL, SUPPORT_MAILTO } from "../../utils/constants";
 
 /**
  * Pricing Section - Floating Cards with Depth
- * 
+ *
  * Three cards that appear to float at different depths using
  * layered shadows and subtle transforms. Creates a sense of
  * premium dimensionality and spatial hierarchy.
  */
+
+type Props = {
+    pricingNote?: string;
+};
+
+const { pricingNote } = Astro.props;
 
 type Billing = "annual" | "monthly";
 
@@ -234,6 +240,10 @@ const plans: Plan[] = [
                     </article>
                 ))}
             </div>
+
+            {pricingNote && (
+                <p class="pricing__vertical-note">{pricingNote}</p>
+            )}
         </fieldset>
     </div>
 </section>
@@ -766,6 +776,14 @@ const plans: Plan[] = [
 
     #billing-monthly:checked ~ .pricing__cards .price[data-billing="annual"] {
         display: none;
+    }
+
+    .pricing__vertical-note {
+        margin: 12px 0 0;
+        font-family: var(--font-sans);
+        font-size: 14px;
+        color: var(--duet-muted);
+        text-align: center;
     }
 
     @media (prefers-reduced-motion: reduce) {
