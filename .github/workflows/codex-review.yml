@@ -109,7 +109,7 @@ jobs:
       pull-requests: read
       issues: read
     outputs:
-      final_message: ${{ steps.codex.outputs.final-message }}
+      final_message: ${{ steps.filter.outputs.final_message }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -121,7 +121,7 @@ jobs:
         run: git fetch origin ${{ github.event.pull_request.base.ref }}
 
       - name: Run Codex Code Review (gpt-5.3-codex)
-        id: codex
+        id: codex_53
         uses: openai/codex-action@v1
         with:
           openai-api-key: ${{ secrets.AZURE_OPENAI_API_KEY }}
@@ -129,6 +129,11 @@ jobs:
           model: gpt-5.3-codex
           effort: xhigh
           prompt: |
+            IMPORTANT:
+            - Output ONLY the final review. No progress updates, no narration.
+            - The first non-empty line MUST start with: **Summary**:
+            - Then include the remaining sections exactly as specified under "Output Format".
+
             Review ONLY the changes introduced by this pull request — do NOT review the entire codebase.
 
             PR Title: ${{ github.event.pull_request.title }}
@@ -198,6 +203,27 @@ jobs:
 
             If there are no issues, say so clearly. Be specific with file and line references.
             Every criticism must include a suggested fix.
+
+      - name: Filter Codex Output (gpt-5.3-codex)
+        id: filter
+        env:
+          CODEX_FINAL_MESSAGE: ${{ steps.codex_53.outputs.final-message }}
+        run: |
+          set -euo pipefail
+
+          first_non_empty="$(printf '%s\n' "$CODEX_FINAL_MESSAGE" | awk 'NF {print; exit}' || true)"
+
+          if [[ "$first_non_empty" == '**Summary**'* ]]; then
+            delimiter="EOF_$(date +%s)_$RANDOM"
+            {
+              echo "final_message<<$delimiter"
+              echo "$CODEX_FINAL_MESSAGE"
+              echo "$delimiter"
+            } >> "$GITHUB_OUTPUT"
+          else
+            # Skip posting if the model returned an incomplete/non-review message.
+            echo "final_message=" >> "$GITHUB_OUTPUT"
+          fi
 
   post_feedback:
     runs-on: ubuntu-latest
