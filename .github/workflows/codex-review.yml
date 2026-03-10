@@ -225,6 +225,129 @@ jobs:
             echo "final_message=" >> "$GITHUB_OUTPUT"
           fi
 
+  codex_54:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+      issues: read
+    outputs:
+      final_message: ${{ steps.filter.outputs.final_message }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Fetch base branch
+        run: git fetch origin ${{ github.event.pull_request.base.ref }}
+
+      - name: Run Codex Code Review (gpt-5.4)
+        id: codex_54
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.AZURE_OPENAI_API_KEY }}
+          responses-api-endpoint: https://me-m9ubezmx-eastus2.openai.azure.com/openai/v1/responses
+          model: gpt-5.4
+          effort: xhigh
+          prompt: |
+            IMPORTANT:
+            - Output ONLY the final review. No progress updates, no narration.
+            - The first non-empty line MUST start with: **Summary**:
+            - Then include the remaining sections exactly as specified under "Output Format".
+
+            Review ONLY the changes introduced by this pull request — do NOT review the entire codebase.
+
+            PR Title: ${{ github.event.pull_request.title }}
+            PR Description: ${{ github.event.pull_request.body }}
+
+            Base branch: origin/${{ github.event.pull_request.base.ref }}
+            Head SHA: ${{ github.event.pull_request.head.sha }}
+
+            To see the changes, run: git diff origin/${{ github.event.pull_request.base.ref }}...HEAD
+
+            ## Review Guidelines
+
+            Only report issues you are highly confident about. Do not speculate or flag
+            hypothetical problems. If a finding is uncertain, omit it. Prioritize a short,
+            actionable review over an exhaustive one — fewer high-quality findings are better
+            than many low-confidence ones.
+
+            Do NOT run tests — a separate CI job handles that. Focus on static analysis of
+            the diff only.
+
+            Analyze the diff across these dimensions:
+
+            ### 1. Correctness & Logic
+            - Verify the code accomplishes its intended purpose
+            - Identify logical errors, off-by-one errors, and incorrect assumptions
+            - Check edge cases and boundary conditions
+            - Validate error handling covers failure scenarios
+            - Ensure async operations are properly awaited and errors propagated
+
+            ### 2. Security
+            - Identify potential vulnerabilities (injection, XSS, CSRF, etc.)
+            - Check for proper input validation and sanitization
+            - Verify sensitive data handling (tokens, credentials, PII)
+            - Look for hardcoded secrets or credentials
+
+            ### 3. Performance
+            - Identify inefficient algorithms or data structures
+            - Look for N+1 query problems or unnecessary database calls
+            - Check for missing memoization or caching opportunities
+            - Identify potential memory leaks or resource exhaustion
+
+            ### 4. Code Quality & Maintainability
+            - Evaluate adherence to DRY principles
+            - Check for appropriate abstraction levels
+            - Verify naming conventions are clear and consistent
+            - Look for overly complex logic that could be simplified
+
+            ### 5. Testing Considerations (do not execute tests)
+            - Identify untested code paths in the changes
+            - Suggest specific test cases that should be added
+
+            ## Output Format
+
+            **Summary**: 1-2 sentence overall assessment.
+
+            **Critical Issues** (must fix):
+            - Bugs, security vulnerabilities, or breaking issues with file/line references and suggested fixes
+
+            **Recommendations** (should fix):
+            - Improvements with explanations and example code when helpful
+
+            **Minor Suggestions** (optional):
+            - Style preferences or alternative approaches
+
+            **Strengths**:
+            - Good patterns and practices worth acknowledging
+
+            If there are no issues, say so clearly. Be specific with file and line references.
+            Every criticism must include a suggested fix.
+
+      - name: Filter Codex Output (gpt-5.4)
+        id: filter
+        env:
+          CODEX_FINAL_MESSAGE: ${{ steps.codex_54.outputs.final-message }}
+        run: |
+          set -euo pipefail
+
+          first_non_empty="$(printf '%s\n' "$CODEX_FINAL_MESSAGE" | awk 'NF {print; exit}' || true)"
+
+          if [[ "$first_non_empty" == '**Summary**'* ]]; then
+            delimiter="EOF_$(date +%s)_$RANDOM"
+            {
+              echo "final_message<<$delimiter"
+              echo "$CODEX_FINAL_MESSAGE"
+              echo "$delimiter"
+            } >> "$GITHUB_OUTPUT"
+          else
+            # Skip posting if the model returned an incomplete/non-review message.
+            echo "final_message=" >> "$GITHUB_OUTPUT"
+          fi
+
   post_feedback:
     runs-on: ubuntu-latest
     needs: codex
@@ -267,4 +390,26 @@ jobs:
               repo: context.repo.repo,
               issue_number: context.payload.pull_request.number,
               body: `## Codex Review (gpt-5.3-codex)\n\n${process.env.CODEX_FINAL_MESSAGE}`,
+            });
+
+  post_feedback_54:
+    runs-on: ubuntu-latest
+    needs: codex_54
+    if: needs.codex_54.outputs.final_message != ''
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Post Codex Review Comment (gpt-5.4)
+        uses: actions/github-script@v7
+        env:
+          CODEX_FINAL_MESSAGE: ${{ needs.codex_54.outputs.final_message }}
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.pull_request.number,
+              body: `## Codex Review (gpt-5.4)\n\n${process.env.CODEX_FINAL_MESSAGE}`,
             });
