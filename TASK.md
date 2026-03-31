@@ -62,7 +62,7 @@ src/
 
 Identical to `index.astro` EXCEPT:
 - `Logos` replaced by `MathSection`
-- Outlook waitlist CTA hidden (only shows on homepage)
+- Both Gmail and Outlook CTAs render on all pages
 - All components receive vertical data props
 
 ```astro
@@ -101,7 +101,7 @@ All props are optional. When absent, components render their homepage defaults.
 | `heroHeadline` | `string` | Static `<h1>` instead of rotating "chief of staff for..." |
 | `heroSubline` | `string` | Replaces "Save 4+ hours every week on email" |
 
-When `heroHeadline` is set, the Outlook waitlist CTA is hidden (only "Start with Gmail" shows).
+Both Gmail and Outlook CTAs render regardless of whether `heroHeadline` is set.
 
 ### `InboxHeroMockup.astro`
 | Prop | Type | Effect |

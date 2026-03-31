@@ -22,7 +22,7 @@ const { verticalFaqs } = Astro.props;
 const faqs: FAQItem[] = [
     {
         question: "How does Duet Mail protect my email data?",
-        answer: "Your security is our top priority. We use OAuth 2.0 for secure authentication, process emails in Gmail's secure environment, and never store your email content. All processing happens in real-time through Gmail's API, and we undergo Google's annual CASA security assessment to maintain the highest security standards.",
+        answer: "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. We undergo Google's annual CASA security assessment to maintain the highest security standards.",
     },
     {
         question: "How does the email summary feature work?",
@@ -30,15 +30,15 @@ const faqs: FAQItem[] = [
     },
     {
         question: "What permissions does Duet Mail need?",
-        answer: "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account settings.",
+        answer: "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings.",
     },
     {
         question: "What's included in the free trial?",
-        answer: "The 14-day free trial includes full free tool access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Just sign in with Google to start saving time on email management.",
+        answer: "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management.",
     },
     {
         question: "Can I use Duet Mail with other email providers?",
-        answer: "Currently, Duet Mail works exclusively with Gmail and Google Workspace accounts. We will be adding support for other email providers, including Outlook and Apple Mail in the future.",
+        answer: "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started.",
     },
 ];
 
