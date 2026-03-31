@@ -1,6 +1,7 @@
 # [ARCHIVED] Home Page Migration Plan (`/`)
 
 > **Note:** This document is preserved for historical reference. The migration from Framer to Astro was successfully completed in January 2025.
+> **Update (2025-07):** CTAs have been updated to dual-provider (Gmail + Outlook). The "Join Outlook waitlist" CTA is now "Start with Outlook" and both CTAs point to `/auth`.
 
 Pseudocode / approach:
 - Rebuild `https://duetmail.com/` as **static HTML** (Astro SSG) with **near‑zero JS**

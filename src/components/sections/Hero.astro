@@ -1,5 +1,5 @@
 ---
-import { APP_URL, OUTLOOK_WAITLIST_URL } from "../../utils/constants";
+import { GMAIL_START_URL, OUTLOOK_START_URL } from "../../utils/constants";
 
 type Props = {
     heroHeadline?: string;
@@ -34,7 +34,7 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
                     class="online-dot h-2 w-2 rounded-full bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.4)]"
                 ></span>
                 <span class="font-sans font-medium"
-                    >{heroBadge || "Now available for Gmail"}</span
+                    >{heroBadge || "Now available for Gmail and Outlook"}</span
                 >
             </div>
 
@@ -84,7 +84,38 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
             <div
                 class="cta-row mt-0 flex w-full flex-col items-stretch justify-center gap-3 sm:flex-row sm:items-center sm:gap-4"
             >
-                <a class="cta cta-primary" href={APP_URL}>
+                <a class="cta cta-primary" href={GMAIL_START_URL}>
+                    <span class="cta-icon" aria-hidden="true">
+                        <svg
+                            width="20"
+                            height="15"
+                            viewBox="52 42 88 66"
+                            fill="none"
+                        >
+                            <path
+                                fill="#4285f4"
+                                d="M58 108h14V74L52 59v43c0 3.32 2.69 6 6 6"></path>
+                            <path
+                                fill="#34a853"
+                                d="M120 108h14c3.32 0 6-2.69 6-6V59l-20 15"></path>
+                            <path
+                                fill="#fbbc04"
+                                d="M120 48v26l20-15v-8c0-7.42-8.47-11.65-14.4-7.2"></path>
+                            <path
+                                fill="#ea4335"
+                                d="M72 74V48l24 18 24-18v26L96 92"></path>
+                            <path
+                                fill="#c5221f"
+                                d="M52 51v8l20 15V48l-5.6-4.2c-5.94-4.45-14.4-.22-14.4 7.2"></path>
+                        </svg>
+                    </span>
+                    <span class="relative z-10">Start with Gmail</span>
+                </a>
+
+                <a
+                    class="cta cta-secondary"
+                    href={OUTLOOK_START_URL}
+                >
                     <span class="cta-icon" aria-hidden="true">
                         <svg
                             width="18"
@@ -93,51 +124,21 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
                             fill="none"
                         >
                             <path
-                                d="M17.64 9.20456C17.64 8.56637 17.5827 7.95274 17.4764 7.36365H9V10.845H13.8436C13.635 11.97 13.0009 12.9232 12.0477 13.5614V15.8196H14.9564C16.6582 14.2527 17.64 11.9455 17.64 9.20456Z"
-                                fill="#4285F4"></path>
+                                d="M10.5 8.4V16.2L18 14.7V3.3L10.5 1.8V8.4Z"
+                                fill="#0A78D6"></path>
                             <path
-                                d="M9 18C11.43 18 13.4673 17.1941 14.9564 15.8195L12.0477 13.5614C11.2418 14.1014 10.2109 14.4205 9 14.4205C6.65591 14.4205 4.67182 12.8373 3.96409 10.71H0.957275V13.0418C2.43818 15.9832 5.48182 18 9 18Z"
-                                fill="#34A853"></path>
+                                d="M10.5 8.4H18V3.3L10.5 1.8V8.4Z"
+                                fill="#28A8EA"></path>
                             <path
-                                d="M3.96409 10.71C3.78409 10.17 3.68182 9.59318 3.68182 9C3.68182 8.40682 3.78409 7.83 3.96409 7.29V4.95818H0.957275C0.347727 6.17318 0 7.54773 0 9C0 10.4523 0.347727 11.8268 0.957275 13.0418L3.96409 10.71Z"
-                                fill="#FBBC05"></path>
+                                d="M0 3.6V14.4L10.5 16.8V1.2L0 3.6Z"
+                                fill="#0364B8"></path>
                             <path
-                                d="M9 3.57955C10.3214 3.57955 11.5077 4.03364 12.4405 4.92545L14.9891 2.37682C13.4632 0.953182 11.4259 0 9 0C5.48182 0 2.43818 2.01682 0.957275 4.95818L3.96409 7.29C4.67182 5.16273 6.65591 3.57955 9 3.57955Z"
-                                fill="#EA4335"></path>
+                                d="M5.25 6.6C3.59 6.6 2.25 7.94 2.25 9.6C2.25 11.26 3.59 12.6 5.25 12.6C6.91 12.6 8.25 11.26 8.25 9.6C8.25 7.94 6.91 6.6 5.25 6.6ZM5.25 11.1C4.42 11.1 3.75 10.43 3.75 9.6C3.75 8.77 4.42 8.1 5.25 8.1C6.08 8.1 6.75 8.77 6.75 9.6C6.75 10.43 6.08 11.1 5.25 11.1Z"
+                                fill="white"></path>
                         </svg>
                     </span>
-                    <span class="relative z-10">Start with Gmail</span>
+                    <span>Start with Outlook</span>
                 </a>
-
-                {!heroHeadline && (
-                    <a
-                        class="cta cta-secondary"
-                        href={OUTLOOK_WAITLIST_URL}
-                    >
-                        <span class="cta-icon" aria-hidden="true">
-                            <svg
-                                width="18"
-                                height="18"
-                                viewBox="0 0 18 18"
-                                fill="none"
-                            >
-                                <path
-                                    d="M10.5 8.4V16.2L18 14.7V3.3L10.5 1.8V8.4Z"
-                                    fill="#0A78D6"></path>
-                                <path
-                                    d="M10.5 8.4H18V3.3L10.5 1.8V8.4Z"
-                                    fill="#28A8EA"></path>
-                                <path
-                                    d="M0 3.6V14.4L10.5 16.8V1.2L0 3.6Z"
-                                    fill="#0364B8"></path>
-                                <path
-                                    d="M5.25 6.6C3.59 6.6 2.25 7.94 2.25 9.6C2.25 11.26 3.59 12.6 5.25 12.6C6.91 12.6 8.25 11.26 8.25 9.6C8.25 7.94 6.91 6.6 5.25 6.6ZM5.25 11.1C4.42 11.1 3.75 10.43 3.75 9.6C3.75 8.77 4.42 8.1 5.25 8.1C6.08 8.1 6.75 8.77 6.75 9.6C6.75 10.43 6.08 11.1 5.25 11.1Z"
-                                    fill="white"></path>
-                            </svg>
-                        </span>
-                        <span>Join Outlook waitlist</span>
-                    </a>
-                )}
             </div>
 
             <div
