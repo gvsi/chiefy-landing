@@ -1,6 +1,6 @@
 ---
 import ThemeToggle from "../ui/ThemeToggle.astro";
-import { APP_URL } from "../../utils/constants";
+import { AUTH_CHOOSER_URL } from "../../utils/constants";
 ---
 
 <header class="site-nav fixed inset-x-0 top-0 z-50 backdrop-blur-[8px]">
@@ -46,7 +46,7 @@ import { APP_URL } from "../../utils/constants";
 
         <div class="flex items-center gap-3">
             <ThemeToggle />
-            <a class="nav-cta" href={APP_URL}>Get started</a>
+            <a class="nav-cta" href={AUTH_CHOOSER_URL}>Choose Gmail or Outlook</a>
 
             <details class="mobile-menu md:hidden" data-mobile-menu>
                 <summary

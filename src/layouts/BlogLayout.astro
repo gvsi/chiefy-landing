@@ -3,7 +3,7 @@ import BaseLayout from "./BaseLayout.astro"
 import Nav from "../components/nav/Nav.astro"
 import Footer from "../components/sections/Footer.astro"
 import { calculateReadingTime, formatReadingTime } from "../utils/readingTime"
-import { APP_URL } from "../utils/constants"
+import { AUTH_CHOOSER_URL } from "../utils/constants"
 
 type Props = {
     title: string
@@ -214,8 +214,8 @@ const extraHeadHtml = metaLines.join("\n") + "\n" + jsonLdScript
                     <p class="article-cta-text">
                         Join thousands of professionals who've reclaimed their time with AI-powered email management.
                     </p>
-                    <a href={APP_URL} class="article-cta-button">
-                        Start your free trial
+                    <a href={AUTH_CHOOSER_URL} class="article-cta-button">
+                        Choose Gmail or Outlook
                     </a>
                 </div>
 
