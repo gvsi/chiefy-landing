@@ -1501,18 +1501,21 @@ const { inboxEmails, autodraft } = Astro.props;
     }
 
     @media (prefers-reduced-motion: reduce) {
+        .provider-badge-cycle {
+            width: auto !important;
+            height: auto !important;
+            flex: 0 0 auto !important;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
         .provider-badge-chip {
+            position: static !important;
             animation: none !important;
+            opacity: 1 !important;
             filter: none !important;
             transform: none !important;
-        }
-
-        .provider-badge-primary {
-            opacity: 1 !important;
-        }
-
-        .provider-badge-secondary {
-            opacity: 0 !important;
         }
 
         [data-animate],
