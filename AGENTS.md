@@ -55,6 +55,10 @@ React should only be used as a last resort for complex stateful logic.
 - **Destination:** CTAs are simple static links to `https://app.duetmail.com`.
 - **No OAuth:** Do NOT implement Google OAuth popups or complex auth flows on this landing page. Keep it static.
 
+## Internationalization and Marketing Copy
+
+The root `../AGENTS.md` owns the required i18n reading list. Keep marketing claims consistent with Chrome Web Store and product copy; do not add localized landing-page support without a scoped locale/SEO plan.
+
 ## Directory Structure
 - `src/layouts/`: Base HTML wrappers (SEO, global scripts).
 - `src/pages/`: Astro routes (file-based routing).
