@@ -17,6 +17,7 @@ const bootstrapLocalePrefixes = new Set(
 const excludeBootstrapLocaleUrls = (pageUrl) => {
     const pathname = new URL(pageUrl).pathname
     const firstSegment = pathname.split("/").filter(Boolean)[0]
+    if (firstSegment === "i18n-qa") return false
     return !firstSegment || !bootstrapLocalePrefixes.has(firstSegment)
 }
 

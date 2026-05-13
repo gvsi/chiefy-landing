@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { mkdirSync, readdirSync, statSync, writeFileSync } from "node:fs"
+import { mkdirSync, readdirSync, rmSync, statSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import process from "node:process"
 import { spawnSync } from "node:child_process"
@@ -45,6 +45,7 @@ function writeStamp(name, data) {
 }
 
 const startedAt = new Date().toISOString()
+rmSync(path.join(stampDir, "build-complete.json"), { force: true })
 writeStamp("build-start.json", {
     startedAt,
     sourceMtimeMax: sourceMtimeMax(),
@@ -63,5 +64,14 @@ writeStamp("build-end.json", {
     command: "astro build",
     exitCode: result.status ?? 1,
 })
+
+if (result.status === 0) {
+    writeStamp("build-complete.json", {
+        startedAt,
+        completedAt: new Date().toISOString(),
+        sourceMtimeMax: sourceMtimeMax(),
+        command: "astro build",
+    })
+}
 
 process.exit(result.status ?? 1)

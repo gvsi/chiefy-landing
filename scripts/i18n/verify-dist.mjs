@@ -23,6 +23,69 @@ function readDist(relativePath) {
     return readFileSync(path.join(distRoot, relativePath), "utf8")
 }
 
+function readJson(relativePath) {
+    try {
+        return JSON.parse(read(relativePath))
+    } catch (error) {
+        fail(`Invalid JSON in ${relativePath}: ${error.message}`)
+    }
+}
+
+function walkMtimeMax(relativePath) {
+    const absolutePath = path.join(repoRoot, relativePath)
+    if (!existsSync(absolutePath)) return 0
+
+    const stat = statSync(absolutePath)
+    if (!stat.isDirectory()) return stat.mtimeMs
+
+    if (["dist", ".astro", ".i18n-build", ".i18n-packets", ".wrangler", "node_modules"].includes(path.basename(absolutePath))) {
+        return 0
+    }
+
+    return Math.max(0, ...readdirSync(absolutePath).map((entry) => walkMtimeMax(path.join(relativePath, entry))))
+}
+
+function sourceMtimeMax() {
+    return Math.max(
+        ...[
+            "astro.config.mjs",
+            "package.json",
+            "pnpm-lock.yaml",
+            "tsconfig.json",
+            "functions/tsconfig.json",
+            "src",
+            "public",
+            "functions",
+        ].map(walkMtimeMax),
+    )
+}
+
+function assertFreshBuildStamp() {
+    if (!existsSync(path.join(repoRoot, ".i18n-build/build-complete.json"))) {
+        fail("Missing .i18n-build/build-complete.json; run pnpm i18n:build before pnpm i18n:verify:dist")
+    }
+
+    const stamp = readJson(".i18n-build/build-complete.json")
+    if (stamp.command !== "astro build") {
+        fail(`Unexpected build command in .i18n-build/build-complete.json: ${stamp.command}`)
+    }
+    const startedAt = Date.parse(stamp.startedAt)
+    const completedAt = Date.parse(stamp.completedAt)
+    if (!Number.isFinite(startedAt) || !Number.isFinite(completedAt)) {
+        fail(".i18n-build/build-complete.json has invalid startedAt/completedAt timestamps")
+    }
+    if (completedAt < startedAt) {
+        fail(".i18n-build/build-complete.json has completedAt before startedAt")
+    }
+    if (typeof stamp.sourceMtimeMax !== "number") {
+        fail(".i18n-build/build-complete.json has invalid sourceMtimeMax")
+    }
+    const currentSourceMtimeMax = sourceMtimeMax()
+    if (currentSourceMtimeMax > stamp.sourceMtimeMax + 1) {
+        fail("Source files changed after the stamped i18n build; rerun pnpm i18n:build")
+    }
+}
+
 function normalizeWhitespace(value) {
     return value.replace(/\s+/gu, " ").trim()
 }
@@ -288,6 +351,9 @@ function assertSitemapBootstrapState() {
         if (/https:\/\/duetmail\.com\/en(?:\/|<|"|$)/u.test(xml)) {
             fail(`Sitemap contains /en URL: ${relativePath}`)
         }
+        if (/https:\/\/duetmail\.com\/i18n-qa(?:\/|<|"|$)/u.test(xml)) {
+            fail(`Sitemap contains pseudo-locale QA URL: ${relativePath}`)
+        }
         if (/<xhtml:link\b/u.test(xml)) {
             fail(`Sitemap contains localized alternate links before translation activation: ${relativePath}`)
         }
@@ -299,6 +365,7 @@ function assertSitemapBootstrapState() {
 
 try {
     if (!existsSync(distRoot)) fail("dist/ is missing; run pnpm build or pnpm i18n:build first")
+    assertFreshBuildStamp()
     assertCopiedRoutesManifest()
     assertEnglishRouteJsonLdMatrix()
     assertCanonicalUrls()

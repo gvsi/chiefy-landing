@@ -40,5 +40,7 @@ jobs:
           pnpm functions:check
           pnpm functions:build
 
-      - name: Build
-        run: pnpm build
+      - name: Build and verify rendered i18n output
+        run: |
+          pnpm i18n:build
+          pnpm i18n:verify:dist
