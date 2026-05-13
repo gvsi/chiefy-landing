@@ -2,17 +2,38 @@
 import "../styles/global.css";
 import gtmHeadHtml from "../snippets/gtm-head.html?raw";
 import gtmNoscriptHtml from "../snippets/gtm-noscript.html?raw";
+import {
+    DEFAULT_LOCALE,
+    OPEN_GRAPH_LOCALES,
+    isRuntimeLocale,
+    type Locale,
+    type RenderLocale,
+} from "../i18n/locales";
+import type { AlternateLink } from "../i18n/routing";
 
 type Props = {
     title: string;
     description: string;
     canonicalPath: string;
     ogImagePath: string;
+    locale: RenderLocale;
+    alternates: AlternateLink[];
     extraHeadHtml?: string;
     ogType?: "website" | "article";
+    robotsDirectives?: string;
 };
 
-const { title, description, canonicalPath, ogImagePath, extraHeadHtml, ogType = "website" } =
+const {
+    title,
+    description,
+    canonicalPath,
+    ogImagePath,
+    locale = DEFAULT_LOCALE,
+    alternates = [],
+    extraHeadHtml,
+    ogType = "website",
+    robotsDirectives,
+} =
     Astro.props;
 
 // Ensure canonical path does NOT have a trailing slash to match Astro's trailingSlash: "never" config
@@ -22,10 +43,11 @@ const normalizedPath = (() => {
 })();
 const canonicalUrl = new URL(normalizedPath, Astro.site).toString();
 const ogImageUrl = new URL(ogImagePath, Astro.site).toString();
+const runtimeOgLocale = isRuntimeLocale(locale) ? locale : undefined;
 ---
 
 <!doctype html>
-<html lang="en-US" data-theme="light">
+<html lang={locale} data-theme="light">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width" />
@@ -63,8 +85,12 @@ const ogImageUrl = new URL(ogImagePath, Astro.site).toString();
 
         <title>{title}</title>
         <meta name="description" content={description} />
+        {robotsDirectives ? <meta name="robots" content={robotsDirectives} /> : null}
 
         <link rel="canonical" href={canonicalUrl} />
+        {alternates.map((alternate) => (
+            <link rel="alternate" hreflang={alternate.locale} href={alternate.href} />
+        ))}
 
         <link rel="icon" href="/favicon.svg" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -80,6 +106,18 @@ const ogImageUrl = new URL(ogImagePath, Astro.site).toString();
         <meta property="og:description" content={description} />
         <meta property="og:image" content={ogImageUrl} />
         <meta property="og:url" content={canonicalUrl} />
+        {runtimeOgLocale && <meta property="og:locale" content={OPEN_GRAPH_LOCALES[runtimeOgLocale]} />}
+        {runtimeOgLocale &&
+            alternates
+                .filter(
+                    (alternate): alternate is AlternateLink & { locale: Locale } =>
+                        alternate.locale !== "x-default" &&
+                        alternate.locale !== locale &&
+                        isRuntimeLocale(alternate.locale),
+                )
+                .map((alternate) => (
+                    <meta property="og:locale:alternate" content={OPEN_GRAPH_LOCALES[alternate.locale]} />
+                ))}
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@DuetMailApp" />

@@ -35,24 +35,29 @@ export function localizedUrl(site: URL, locale: Locale, input: RouteInput): stri
     return new URL(localizedPath(locale, input), site).toString()
 }
 
+function resolveSite(site: URL | undefined): URL {
+    return site ?? new URL("https://duetmail.com")
+}
+
 export function routeLocaleFromSegment(raw: string): Locale | null {
     if ((SUPPORTED_LOCALES as readonly string[]).includes(raw)) return raw as Locale
     return null
 }
 
 export function alternateLinks(
-    site: URL,
+    site: URL | undefined,
     input: RouteInput,
     locales: readonly Locale[] = SUPPORTED_LOCALES,
 ): AlternateLink[] {
+    const resolvedSite = resolveSite(site)
     const alternates = locales.map((locale) => ({
         locale,
-        href: localizedUrl(site, locale, input),
+        href: localizedUrl(resolvedSite, locale, input),
     }))
-    return [...alternates, { locale: "x-default", href: localizedUrl(site, DEFAULT_LOCALE, input) }]
+    return [...alternates, { locale: "x-default", href: localizedUrl(resolvedSite, DEFAULT_LOCALE, input) }]
 }
 
-export function englishOnlyAlternates(site: URL, input: RouteInput): AlternateLink[] {
+export function englishOnlyAlternates(site: URL | undefined, input: RouteInput): AlternateLink[] {
     return alternateLinks(site, input, [DEFAULT_LOCALE])
 }
 

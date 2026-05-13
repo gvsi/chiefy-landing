@@ -4,6 +4,7 @@ import path from "node:path"
 import process from "node:process"
 import { fileURLToPath } from "node:url"
 import { spawnSync } from "node:child_process"
+import vm from "node:vm"
 
 const repoRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)))
 const args = process.argv.slice(2)
@@ -119,6 +120,93 @@ function assertBootstrapUrlsLocalized(relativePath) {
     }
 }
 
+function assertReadingTimePluralMessages(locale, messages) {
+    const categories = new Intl.PluralRules(locale).resolvedOptions().pluralCategories
+    for (const category of categories) {
+        const key = `readingTime.${category}`
+        if (typeof messages[key] !== "string") {
+            fail(`Missing reading-time plural message ${key} for ${locale}`)
+        }
+    }
+}
+
+function assertEnglishReadingTimePluralSuperset(messages) {
+    for (const category of ["zero", "one", "two", "few", "many", "other"]) {
+        const key = `readingTime.${category}`
+        if (typeof messages[key] !== "string") {
+            fail(`English messages must expose reading-time plural superset key: ${key}`)
+        }
+    }
+}
+
+async function loadReadingTimeModuleForSmoke() {
+    const source = readText("src/utils/readingTime.ts")
+    const requiredExports = [
+        "calculateReadingTimeForLocale",
+        "formatReadingTimeForLocale",
+        "formatDate",
+    ]
+    for (const exportName of requiredExports) {
+        if (!source.includes(`function ${exportName}`)) {
+            fail(`src/utils/readingTime.ts missing required export: ${exportName}`)
+        }
+    }
+    if (!source.includes("Intl.Segmenter")) {
+        fail("src/utils/readingTime.ts must use Intl.Segmenter for locale-aware word segmentation")
+    }
+
+    const ts = await import("typescript")
+    const sourceWithoutImports = source.replace(/^import\s+.+$/gm, "")
+    const compiled = ts.transpileModule(
+        `const t = (messages, key, values = {}) => {
+            const template = messages[key]
+            if (typeof template !== "string") throw new Error("missing " + key)
+            return template.replace(/\\{([A-Za-z0-9_]+)\\}/g, (match, token) =>
+                Object.prototype.hasOwnProperty.call(values, token) ? String(values[token]) : match)
+        }\n${sourceWithoutImports}`,
+        {
+            compilerOptions: {
+                module: ts.ModuleKind.CommonJS,
+                target: ts.ScriptTarget.ES2022,
+            },
+        },
+    )
+    const sandbox = {
+        exports: {},
+        Intl,
+        Math,
+        Object,
+        RegExp,
+        String,
+    }
+    vm.runInNewContext(compiled.outputText, sandbox, {
+        filename: "src/utils/readingTime.ts",
+    })
+    return sandbox.exports
+}
+
+async function assertReadingTimeSmokeChecks() {
+    const readingTime = await loadReadingTimeModuleForSmoke()
+    if (typeof readingTime.calculateReadingTimeForLocale !== "function") {
+        fail("calculateReadingTimeForLocale is not executable")
+    }
+    const samples = {
+        ja: "これは日本語の文章です。メールの内容をすばやく確認できます。".repeat(90),
+        th: "นี่คือข้อความภาษาไทยสำหรับทดสอบการอ่านอีเมลอย่างรวดเร็ว".repeat(100),
+        "zh-Hans": "这是中文内容用于测试邮件阅读时间的本地化计算。".repeat(100),
+    }
+    for (const [locale, sample] of Object.entries(samples)) {
+        const minutes = readingTime.calculateReadingTimeForLocale(sample, locale)
+        const whitespaceOnlyMinutes = Math.max(1, Math.ceil(sample.split(/\s+/).filter(Boolean).length / 238))
+        if (minutes < 1) {
+            fail(`Reading-time smoke sample returned less than one minute for ${locale}`)
+        }
+        if (minutes <= whitespaceOnlyMinutes) {
+            fail(`Reading-time smoke sample did not exceed whitespace-only count for ${locale}`)
+        }
+    }
+}
+
 function assertPackageScripts() {
     const packageJson = readJson("package.json")
     const requiredScripts = [
@@ -146,6 +234,52 @@ function assertPackageScripts() {
     for (const script of requiredScripts) {
         if (!packageJson.scripts?.[script]) fail(`Missing package script: ${script}`)
     }
+}
+
+async function assertTask4UtilityLayer(locales) {
+    assertFile("src/i18n/messages/schema.ts")
+    assertFile("src/i18n/content.ts")
+    assertFile("src/i18n/jsonLd.ts")
+
+    const englishMessages = readJson("src/i18n/messages/en.json")
+    assertEnglishReadingTimePluralSuperset(englishMessages)
+    for (const locale of locales) {
+        assertReadingTimePluralMessages(locale, readJson(`src/i18n/messages/${locale}.json`))
+    }
+
+    const schemaSource = readText("src/i18n/messages/schema.ts")
+    for (const expected of ["getMessages", "type Messages", "function t"]) {
+        if (!schemaSource.includes(expected)) fail(`src/i18n/messages/schema.ts missing ${expected}`)
+    }
+
+    const contentSource = readText("src/i18n/content.ts")
+    for (const expected of [
+        "getHomeContent",
+        "getLegalContent",
+        "getVerticalContent",
+        "getAllVerticalContent",
+        "getBlogPost",
+        "getAllBlogPosts",
+        "getRouteTranslationState",
+        "robotsForTranslationState",
+    ]) {
+        if (!contentSource.includes(`function ${expected}`)) {
+            fail(`src/i18n/content.ts missing required export: ${expected}`)
+        }
+    }
+    if (!contentSource.includes('query: "?raw"') || !/getCollection\(\s*["']blog["']/u.test(contentSource)) {
+        fail("src/i18n/content.ts must raw-load legal HTML and use getCollection(\"blog\") for blog posts")
+    }
+    if (!contentSource.includes("translationStatus") || !contentSource.includes("bootstrap-en")) {
+        fail("src/i18n/content.ts must inspect bootstrap translation markers")
+    }
+
+    const jsonLdSource = readText("src/i18n/jsonLd.ts")
+    for (const expected of ["serializeJsonLd", "escapeHtmlAttribute", "jsonLdScript", "\\\\u003c"]) {
+        if (!jsonLdSource.includes(expected)) fail(`src/i18n/jsonLd.ts missing ${expected}`)
+    }
+
+    await assertReadingTimeSmokeChecks()
 }
 
 function assertLocaleContract() {
@@ -201,7 +335,7 @@ function assertContractsPhase() {
     runNodeScript("scripts/i18n/redirect-contracts.mjs", ["--check"])
 }
 
-function assertSourceContentFiles({ complete }) {
+async function assertSourceContentFiles({ complete }) {
     const localeSource = readJson("src/i18n/locales.source.json")
     const locales = localeScope ?? localeSource.runtime_locales
     const legalPages = ["cookies", "disclaimer", "privacy", "terms"]
@@ -276,9 +410,12 @@ function assertSourceContentFiles({ complete }) {
         if (locale === localeSource.default_locale) {
             if ("translationStatus" in messages) fail("English messages must not have translationStatus")
             if ("translationStatus" in home) fail("English home content must not have translationStatus")
-        } else {
+        } else if (!complete) {
             if (messages.translationStatus !== "bootstrap-en") fail(`Missing bootstrap marker in messages: ${locale}`)
             if (home.translationStatus !== "bootstrap-en") fail(`Missing bootstrap marker in home content: ${locale}`)
+        } else {
+            if ("translationStatus" in messages) fail(`Bootstrap marker remains in complete mode: src/i18n/messages/${locale}.json`)
+            if ("translationStatus" in home) fail(`Bootstrap marker remains in complete mode: src/i18n/content/home/${locale}.json`)
         }
 
         for (const page of legalPages) {
@@ -289,10 +426,18 @@ function assertSourceContentFiles({ complete }) {
             if (/<p\b[^>]*>\s*Last updated:/iu.test(legal)) {
                 fail(`Copied legal file still has visible Last updated paragraph: ${locale}/${page}`)
             }
-            const expectedPrefix = locale === localeSource.default_locale
-                ? /^<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u
-                : /^<!-- translationStatus: bootstrap-en -->\n<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u
-            if (!expectedPrefix.test(legal)) {
+            if (locale === localeSource.default_locale) {
+                if (!/^<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u.test(legal)) {
+                    fail(`Legal file has invalid metadata comments: ${locale}/${page}`)
+                }
+            } else if (complete) {
+                if (/^<!-- translationStatus: bootstrap-en -->/u.test(legal) || legal.includes("translationStatus: bootstrap-en")) {
+                    fail(`Bootstrap marker remains in complete mode: src/i18n/content/legal/${locale}/${page}.html`)
+                }
+                if (!/^<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u.test(legal)) {
+                    fail(`Legal file has invalid metadata comments: ${locale}/${page}`)
+                }
+            } else if (!/^<!-- translationStatus: bootstrap-en -->\n<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u.test(legal)) {
                 fail(`Legal file has invalid metadata comments: ${locale}/${page}`)
             }
         }
@@ -304,8 +449,10 @@ function assertSourceContentFiles({ complete }) {
             const vertical = readJson(`src/i18n/content/verticals/${locale}/${file}`)
             if (locale === localeSource.default_locale) {
                 if ("translationStatus" in vertical) fail(`English vertical must not have translationStatus: ${file}`)
-            } else if (vertical.translationStatus !== "bootstrap-en") {
+            } else if (!complete && vertical.translationStatus !== "bootstrap-en") {
                 fail(`Missing bootstrap marker in vertical: ${locale}/${file}`)
+            } else if (complete && "translationStatus" in vertical) {
+                fail(`Bootstrap marker remains in complete mode: src/i18n/content/verticals/${locale}/${file}`)
             }
             if (vertical.slug !== path.basename(file, ".json")) {
                 fail(`Localized vertical slug must match English filename: ${locale}/${file}`)
@@ -321,21 +468,28 @@ function assertSourceContentFiles({ complete }) {
             const marker = frontmatterValue(frontmatter, "translationStatus")
             if (locale === localeSource.default_locale) {
                 if (marker) fail(`English blog post must not have translationStatus: ${file}`)
-            } else if (marker !== "bootstrap-en") {
+            } else if (!complete && marker !== "bootstrap-en") {
                 fail(`Missing bootstrap marker in blog post: ${locale}/${file}`)
+            } else if (complete && (marker || readText(relativePath).includes("translationStatus: bootstrap-en"))) {
+                fail(`Bootstrap marker remains in complete mode: ${relativePath}`)
             }
         }
     }
 
     const distPath = path.join(repoRoot, "dist")
     if (existsSync(distPath)) {
-        for (const file of englishBlogFiles) {
-            const relativePath = `src/content/blog/en/${file}`
-            const { frontmatter } = parseMarkdownFrontmatter(readText(relativePath), relativePath)
-            if (frontmatterValue(frontmatter, "draft") === "true") {
-                const slug = path.basename(file, ".md")
-                if (existsSync(path.join(repoRoot, `dist/blog/${slug}.html`))) {
-                    fail(`Draft blog post was built: ${slug}`)
+        for (const locale of locales) {
+            for (const file of englishBlogFiles) {
+                const relativePath = `src/content/blog/${locale}/${file}`
+                const { frontmatter } = parseMarkdownFrontmatter(readText(relativePath), relativePath)
+                if (frontmatterValue(frontmatter, "draft") === "true") {
+                    const slug = path.basename(file, ".md")
+                    const routePath = locale === localeSource.default_locale
+                        ? `dist/blog/${slug}.html`
+                        : `dist/${locale}/blog/${slug}.html`
+                    if (existsSync(path.join(repoRoot, routePath))) {
+                        fail(`Draft blog post was built: ${locale}/${slug}`)
+                    }
                 }
             }
         }
@@ -345,14 +499,21 @@ function assertSourceContentFiles({ complete }) {
         const checkedFiles = locales.flatMap((locale) => [
             `src/i18n/messages/${locale}.json`,
             `src/i18n/content/home/${locale}.json`,
+            ...legalPages.map((page) => `src/i18n/content/legal/${locale}/${page}.html`),
+            ...verticalFiles.map((file) => `src/i18n/content/verticals/${locale}/${file}`),
+            ...englishBlogFiles.map((file) => `src/content/blog/${locale}/${file}`),
         ])
         for (const relativePath of checkedFiles) {
             const content = readFileSync(path.join(repoRoot, relativePath), "utf8")
-            if (localeSource.default_locale !== path.basename(relativePath, ".json") && content.includes("bootstrap-en")) {
+            const nonDefault = !relativePath.includes(`/${localeSource.default_locale}/`) &&
+                !relativePath.endsWith(`/${localeSource.default_locale}.json`)
+            if (nonDefault && content.includes("bootstrap-en")) {
                 fail(`Bootstrap marker remains in complete mode: ${relativePath}`)
             }
         }
     }
+
+    await assertTask4UtilityLayer(locales)
 }
 
 try {
@@ -364,7 +525,7 @@ try {
         assertContractsPhase()
     } else {
         assertContractsPhase()
-        assertSourceContentFiles({ complete: mode === "complete" })
+        await assertSourceContentFiles({ complete: mode === "complete" })
     }
     console.log(`i18n verification passed (${mode}${phase ? `:${phase}` : ""})`)
 } catch (error) {

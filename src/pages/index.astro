@@ -14,11 +14,81 @@ import Pricing from "../components/sections/Pricing.astro";
 import FAQ from "../components/sections/FAQ.astro";
 import FinalCTA from "../components/sections/FinalCTA.astro";
 import Footer from "../components/sections/Footer.astro";
-import homeJsonLdHtml from "../snippets/home-jsonld.html?raw";
+import { DEFAULT_LOCALE } from "../i18n/locales";
+import { englishOnlyAlternates } from "../i18n/routing";
+import { getHomeContent, getRouteTranslationState, robotsForTranslationState } from "../i18n/content";
+import { getMessages } from "../i18n/messages/schema";
+import { jsonLdScript } from "../i18n/jsonLd";
 
-const title = "Duet Mail | AI Email Assistant for Gmail and Outlook";
-const description =
-    "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly.";
+const locale = DEFAULT_LOCALE;
+const messages = getMessages(locale);
+const home = getHomeContent(locale);
+const homeMeta = home.meta as { title: string; description: string };
+const title = homeMeta.title;
+const description = homeMeta.description;
+const alternates = englishOnlyAlternates(Astro.site, { kind: "home" });
+const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "home", locale }));
+const homeUrl = new URL("/", Astro.site).toString();
+const jsonLd = home.jsonLd as Record<string, any>;
+const faqItems = Array.isArray(jsonLd.faq) ? jsonLd.faq : [];
+const extraHeadHtml = [
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        inLanguage: locale,
+        name: jsonLd.websiteName,
+        alternateName: jsonLd.websiteAlternateName,
+        url: homeUrl,
+    }),
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        inLanguage: locale,
+        name: jsonLd.organizationName,
+        url: homeUrl,
+        logo: jsonLd.urls?.logo,
+        sameAs: jsonLd.urls?.sameAs,
+        contactPoint: {
+            "@type": "ContactPoint",
+            contactType: jsonLd.organizationContactType,
+        },
+    }),
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        inLanguage: locale,
+        name: jsonLd.softwareName,
+        description: jsonLd.softwareDescription,
+        applicationCategory: jsonLd.applicationCategory,
+        operatingSystem: jsonLd.operatingSystem,
+        browserRequirements: jsonLd.browserRequirements,
+        featureList: jsonLd.featureList,
+        image: jsonLd.urls?.screenshot,
+        offers: jsonLd.offers,
+        aggregateRating: jsonLd.aggregateRating,
+    }),
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        inLanguage: locale,
+        mainEntity: faqItems.map((item: any) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+                "@type": "Answer",
+                text: item.answer,
+            },
+        })),
+    }),
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        inLanguage: locale,
+        name: title,
+        description,
+        url: homeUrl,
+    }),
+].join("\n");
 ---
 
 <BaseLayout
@@ -26,9 +96,12 @@ const description =
     description={description}
     canonicalPath="/"
     ogImagePath="/og.jpg"
-    extraHeadHtml={homeJsonLdHtml}
+    locale={locale}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
+    extraHeadHtml={extraHeadHtml}
 >
-    <Nav />
+    <Nav locale={locale} messages={messages} alternates={alternates} />
     <main class="relative isolate">
         <HeroBackground />
         <Hero>
@@ -47,5 +120,5 @@ const description =
         <FAQ />
     </main>
     <FinalCTA />
-    <Footer />
+    <Footer locale={locale} messages={messages} />
 </BaseLayout>

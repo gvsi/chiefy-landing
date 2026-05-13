@@ -1,4 +1,7 @@
 ---
+import type { Locale } from "../../i18n/locales";
+import type { Messages } from "../../i18n/messages/schema";
+
 type FooterLink = {
     label: string;
     href: string;
@@ -8,6 +11,11 @@ type FooterLink = {
 type FooterGroup = {
     title: string;
     links: FooterLink[];
+};
+
+type Props = {
+    locale?: Locale;
+    messages?: Messages;
 };
 
 const year = new Date().getFullYear();
