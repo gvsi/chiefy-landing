@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail izjādēm un izjāžu gidiem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz izjāžu operatoriem uz rezervāciju e-pastiem atbildēt uzreiz — pat esot seglos. AI sagatavotas atbildes ar jūsu cenām, jātnieku prasībām un balss toni.",
+  "heroBadge": "Uzticas 300+ izjāžu gidi",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr esat takā",
+  "heroSubline": "Duet apgūst jūsu izjāžu veidus, cenas, jātnieku prasības un taku apstākļus — un sagatavo e-pasta atbildes, lai lēnas reakcijas dēļ nezaudētu nevienu rezervāciju.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "Grupas rezervācija 6 personām — sestdienas rītā?",
+      "preview": "Sveiki! Esam 6 cilvēku ģimene (2 pieaugušie, 4 bērni vecumā 8–14 gadi) un labprāt rezervētu izjādi šo sestdienas rītu. Vai jums ir pieejams laiks? Kāda ir cena par personu?",
+      "pill": "Jāatbild",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Jautājums par svara ierobežojumu",
+      "preview": "Sveiki, vēlos rezervēt izjādi, bet vispirms gribēju pajautāt par jūsu svara prasībām. Es sveru ap 260 lbs — vai tas būs šķērslis...",
+      "pill": "Jautājums",
       "pillColor": "amber"
     },
     {
       "from": "Amy & Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Saulrieta izjāde jubilejai?",
+      "preview": "Nākamajā nedēļas nogalē svinam 10. gadadienu un Instagram redzējām jūsu saulrieta izjādi. Vai piektdienas vakarā tā ir pieejama? Vai ir kādi īpaši piedāvājumi...",
+      "pill": "Rezervācija",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Jauna atsauksme par jūsu ierakstu",
+      "preview": "Ceļotājs nesen novērtēja jūsu uzņēmumu. Skatiet, ko viņš rakstīja, un atbildiet...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Sveika, Jessica! Sestdienas rīts 6 personām ir pieejams. Mūsu izjādes maksā $100/personai un ilgst apmēram 90 minūtes pa ieleju. Bērni no 8 gadu vecuma ir laipni gaidīti — jūsu gadījumā viss der. Nepieciešami slēgti apavi, un mēs nodrošinām ķiveres. Vai vēlaties, lai rezervēju jums 9 AM izjādi?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "izjāde",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Viena saglabāta grupas izjāde sedz vairāk nekā divu gadu Duet izmaksas."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet automātiski marķē katru e-pastu, lai jūs vispirms redzētu rezervāciju pieprasījumus, pēc tam jātnieku jautājumus, bet liekais nekad netraucētu. Vairs nekādu pazaudētu grupu pieprasījumu zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu izjāžu veidus, cenas un prasības. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar informāciju par taku, cenām un piemērotu apģērbu. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šajā nedēļas nogalē ir brīvas izjādes?\" \"Sagatavo atbildi Jessica ar sestdienas pieejamību.\" Duet pārzina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "Grupas rezervācija 6 personām — sestdienas rītā?",
+      "preview": "Esam 6 cilvēku ģimene un vēlamies rezervēt izjādi...",
+      "pill": "Atbildēt tagad",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Re: Saulrieta izjāde apstiprināta — piektdien 5:30 PM",
+      "pill": "Rezervēts",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Svara ierobežojums un pieredzes prasības?",
+      "pill": "Jautājums",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Jūsu iknedēļas rezervāciju kopsavilkums",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Tractor Supply",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Pavasara izpārdošana — 15% atlaide barībai un zirglietām",
+      "pill": "Akcijas",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: Grupas rezervācija 6 personām — sestdienas rītā?",
+    "originalFrom": "Jessica T. rakstīja:",
+    "originalText": "Sveiki! Esam 6 cilvēku ģimene (2 pieaugušie, 4 bērni vecumā 8–14 gadi) un labprāt rezervētu izjādi šo sestdienas rītu. Vai jums ir pieejams laiks? Kāda ir cena par personu?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Sveika, Jessica!",
+      "Sestdienas rīts 6 personām ir pilnīgi brīvs. Izjādes maksā $100/personai un ilgst apmēram 90 minūtes pa ieleju. Bērni no 8 gadu vecuma ir laipni gaidīti, tāpēc visa jūsu grupa var piedalīties.",
+      "Nepieciešami slēgti apavi — vislabāk zābaki. Mēs nodrošinām ķiveres un katram jātniekam piemeklējam zirgu pēc auguma un pieredzes. Iepriekšēja jāšanas pieredze nav vajadzīga.",
+      "Vai vēlaties, lai rezervēju jums 9 AM izjādi?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "Sestdienas rīts 6 personām ir pilnīgi brīvs. Izjādes maksā $100/personai",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Zina jūsu cenas un pieejamību",
+      "Raksta jūsu balss tonī",
+      "Automātiski iekļauj jātnieku prasības",
+      "Laika gaitā mācās"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Vai šajā nedēļas nogalē ir brīvas izjādes? Un kādi laikapstākļi gaidāmi?",
+    "agentResponse": "Pēc jūsu kalendāra jums ir brīvi laiki sestdien 9 AM un 2 PM, kā arī svētdien 10 AM. Sestdien prognoze rāda 72°F un sauli — ideāli laikapstākļi izjādei. Svētdien pēcpusdienā ir 40% lietus iespējamība, tāpēc rīta laiks ir drošāka izvēle. Vai vēlaties, lai sagatavoju atbildes uz gaidošajiem pieprasījumiem ar šiem laikiem?",
+    "followUp": "Sagatavo atbildi Jessica ar sestdienas pieejamību",
+    "followUpResponse": "Gatavs! Sagatavoju atbildi Jessica, apstiprinot sestdienu 9 AM 6 jātniekiem par $100/personai. Tajā iekļautas jūsu standarta prasības jātniekiem un norādes, ko vilkt. Gatavs pārskatīšanai un nosūtīšanai."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Izjāžu operatoru iecienīts",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "Rančo īpašnieks un izjāžu gids, MT",
+      "quote": "Esmu takā 6 stundas dienā bez mobilā sakaru pārklājuma. Kamēr atgriezos un varēju atbildēt, puse cilvēku jau bija rezervējuši citur. Tagad Duet sagatavo atbildes ar manām cenām un izjāžu informāciju — es tikai pārskatu un nosūtu, kad atgriežos stallī.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "title": "Izjāžu tūru operators, AZ",
+      "quote": "Mēs saņemam desmitiem e-pastu ar vieniem un tiem pašiem jautājumiem — svara ierobežojumi, ko vilkt, vecuma prasības. Duet ar visu tiek galā, un atbildes izklausās tieši kā es. Mani viesi pat nenojauš, ka tas ir AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "Izjāžu gids, CO",
+      "quote": "Sezonas kulminācija mani nogurdināja. 30+ e-pasti dienā papildus izjāžu vadīšanai. Duet atšķir rezervāciju pieprasījumus no liekā un sagatavo atbildes, kurās ir iekļauts viss — cenas, ko ņemt līdzi, pilnīgi viss. Es atguvu savus vakarus.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "Jāšanas instruktore un rezervāciju vadītāja, TX",
+      "quote": "Mēs piedāvājam saulrieta izjādes, rīta izjādes un privātstundas — katrai ir atšķirīgas cenas un prasības. Duet to visu apguva nedēļas laikā. Tas katru reizi sagatavo pareizo atbildi pareizajam izjādes veidam.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "title": "Ģimenes rančo un izjādes, CA",
+      "quote": "Visgrūtākie bija jutīgie e-pasti — kad kāds jautā, vai nav par smagu, vai vai bērns ir pietiekami vecs. Duet atbild tikpat rūpīgi, kā to darītu es. Profesionāli, laipni un precīzi. Jau tas vien ir tā vērts.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Pavadiet dienu ar zirgiem,\nnevis savā iesūtnē.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet savu iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Kā Duet apstrādā jutīgus jautājumus par svaru vai pieredzes prasībām?",
+      "answer": "Duet apgūst jūsu konkrētās politikas un atdarina jūsu toni. Kad kāds jautā par svara ierobežojumiem vai pieredzes prasībām, tas atbild profesionāli un sirsnīgi — sniedzot vajadzīgo informāciju bez neveiklības. Jūs vienreiz nosakāt toni, un Duet to konsekventi ievēro, lai katrs viesis justos cienīts."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Vai Duet var apstrādāt grupu rezervācijas ar atšķirīgām jātnieku vajadzībām?",
+      "answer": "Jā. Duet apgūst jūsu izjāžu veidus, grupu lielumus, minimālo vecumu un visas konkrētam jātniekam nepieciešamās prasības. Kad ģimene vai grupa e-pastā jautā par rezervāciju, tas sagatavo atbildi ar cenu visai grupai, informāciju, kas jāzina katram jātniekam, un pieejamajiem laikiem. Jūs pārskatāt un nosūtāt — bez liekas sarakstes."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "Pie cenas 100 $/personai 6 cilvēku grupai viena ietaupīta izjāde sedz Pro izmaksas vairāk nekā diviem gadiem."
 }

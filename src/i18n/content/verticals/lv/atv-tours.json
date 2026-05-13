@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail ATV un UTV tūrēm | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz ATV un UTV tūru gidiem uzreiz atbildēt uz rezervācijas e-pastiem — pat atrodoties trasē. AI sagatavotas atbildes ar jūsu cenām, prasībām un saziņas stilu.",
+  "heroBadge": "Uzticas vairāk nekā 200 tūru gidu",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr esat trasē",
+  "heroSubline": "Duet apgūst jūsu tūru veidus, cenas un braucēju prasības — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "Pieejamība sestdien 4 tehnikas vienībām?",
+      "preview": "Sveiki! Esam 4 cilvēku grupa un vēlamies šo sestdien rezervēt vadītu ATV tūri. Vai jums ir vieta? Kāda ir cena par tehnikas vienību?",
+      "pill": "Jāatbild",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "Apdrošināšanas prasības?",
+      "preview": "Sveiki, mēs ņemsim līdzi savus UTV. Vai mums jāuzrāda civiltiesiskās atbildības apdrošināšanas apliecinājums? Kāds segums jums nepieciešams...",
+      "pill": "Jautājums",
       "pillColor": "amber"
     },
     {
       "from": "The Hendersons",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "Kura taka iesācējiem?",
+      "preview": "Mēs nekad iepriekš neesam braukuši ar ATV. Kuru tūres maršrutu jūs ieteiktu ģimenei ar diviem pusaudžiem? Vai jūs nodrošināt...",
+      "pill": "Rezervācija",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Jauna atsauksme par jūsu ierakstu",
+      "preview": "Ceļotājs nesen atsaucās par jūsu uzņēmumu. Skatiet, ko viņš teica, un atbildiet...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "Sveika, Rachel! Sestdien ir brīvs, un varam bez problēmām uzņemt 4 tehnikas vienības. Tūres maksā $200 par tehnikas vienību un ilgst aptuveni 6–8 stundas. Tiekamies plkst. 9:00 takas sākumā — nosūtīšu norādes, kad rezervācija būs apstiprināta. Ķiveres un aizsargbrilles nodrošinām. Vai vēlaties, lai rezervēju jums vietu?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "grupa (4 tehnikas vienības)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Viena saglabāta grupas rezervācija apmaksā Duet uz gadu."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam apdrošināšanas jautājumus, bet troksni — nekad. Vairs nekādu palaistu grupu pieprasījumu, kas aprakti zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu tūru maršrutus, cenas un braucēju prasības. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar brauciena informāciju, cenām un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šai nedēļas nogalei ir rezervētas kādas grupas?\" \"Sagatavo atbildi Rachel ar sestdienas pieejamību.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "Pieejamība sestdien 4 tehnikas vienībām?",
+      "preview": "Esam 4 cilvēku grupa un vēlamies rezervēt vadītu ATV tūri...",
+      "pill": "Atbildēt tagad",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Re: Rezervācija apstiprināta — sestdien plkst. 9:00",
+      "pill": "Rezervēts",
       "pillColor": "blue"
     },
     {
       "from": "The Hendersons",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "Ko mums vilkt trasē?",
+      "pill": "Jautājums",
       "pillColor": "amber"
     },
     {
       "from": "Yelp for Business",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
+      "subject": "Jūsu iknedēļas biznesa atjauninājums",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Rocky Mountain ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "Pavasara izpārdošana — 25% atlaide detaļām",
+      "pill": "Akcijas",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: Pieejamība sestdien 4 tehnikas vienībām?",
+    "originalFrom": "Rachel W. rakstīja:",
+    "originalText": "Sveiki! Esam 4 cilvēku grupa un vēlamies šo sestdien rezervēt vadītu ATV tūri. Vai jums ir vieta? Kāda ir cena par tehnikas vienību?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Sveika, Rachel!",
+      "Sestdien 4 tehnikas vienībām ir pilnībā brīvs. Tūres maksā $200 par tehnikas vienību un ilgst 6–8 stundas, sākot plkst. 9:00 no takas sākuma.",
+      "Ķiveres un aizsargbrilles tiek nodrošinātas — vienkārši velciet garās bikses un slēgtus apavus, kā arī paņemiet ūdeni un saules aizsargkrēmu. Tikšanās vietu un norādes nosūtīšu, kad rezervācija būs apstiprināta.",
+      "Vai vēlaties, lai rezervēju jums vietu?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Sestdien 4 tehnikas vienībām ir pilnībā brīvs. Tūres maksā $200 par tehnikas vienību",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Pārzina jūsu cenas un tūru maršrutus",
+      "Raksta melnrakstus jūsu stilā",
+      "Automātiski iekļauj braucēju prasības",
+      "Laika gaitā mācās"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "Vai šai nedēļas nogalei ir rezervētas kādas grupas?",
+    "agentResponse": "Pamatojoties uz jūsu iesūtni, jums ir apstiprināta 6 cilvēku grupa sestdien plkst. 9:00 un pāris rezervēts svētdienas rītam. Sestdienas pēcpusdiena un svētdienas pēcpusdiena joprojām ir brīvas. Vai vēlaties, lai sagatavoju atbildi uz neizskatītajiem pieprasījumiem ar šiem brīvajiem laikiem?",
+    "followUp": "Sagatavo atbildi Rachel ar sestdienas pieejamību",
+    "followUpResponse": "Gatavs! Es sagatavoju atbildi Rachel, apstiprinot sestdienu 4 tehnikas vienībām par $200 katrai. Tajā iekļauta jūsu standarta tikšanās vieta, ekipējuma informācija un apģērba ieteikumi. Gatavs pārskatīšanai un nosūtīšanai."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "Tūru gidu un operatoru iecienīts",
   "testimonials": [
     {
       "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "title": "ATV gids, Dienvidjūta",
+      "quote": "Es vadu 8 stundu tūres pa kanjoniem bez jebkāda mobilā pārklājuma. Kad atgriezos, puse manu rezervācijas e-pastu jau bija atdzisuši. Duet sagatavo atbildes ar manām cenām un taku informāciju — dienas beigās es tās tikai pārskatu.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "title": "UTV tūru operatore, Kolorādo",
+      "quote": "Mēs rīkojam tūres 7 dienas nedēļā, un apdrošināšanas un atteikuma veidlapu jautājumi vien jau aizņēma manus rītus. Duet tiek galā ar visu — braucēju prasībām, vecuma ierobežojumiem, to, kas jāņem līdzi. Izklausās tieši kā es.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "title": "Jeep tūru gids, Moab",
+      "quote": "Cilvēki raksta, jautājot, kura taka ir piemērota viņu grupai, kāds pieredzes līmenis vajadzīgs, vai bērni drīkst braukt. Tie paši 5 jautājumi atkal un atkal. Duet precīzi atbild uz katru.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "quote": "Katru vakaru pavadīju vairāk nekā stundu, atbildot uz tiem pašiem pieejamības jautājumiem. Tagad Duet sagatavo atbildes, kamēr esmu trasē. Mans atbildes laiks samazinājās no stundām līdz minūtēm.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "quote": "Mums daudz ģimeņu jautā par iesācēju takām un vecuma prasībām. Duet apguva visas mūsu tūru iespējas un katrā atbildē iesaka pareizo. Klienti nevar pateikt atšķirību.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Pavadiet sezonas karstāko laiku trasē,\nnevis iesūtnē.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Vai Duet apstrādā apdrošināšanas un atteikuma veidlapu jautājumus?",
+      "answer": "Jā. Duet apgūst jūsu braucēju prasības — civiltiesiskās atbildības apdrošināšanu, vecuma ierobežojumus, atteikuma veidlapu informāciju un to, kas braucējiem jāņem līdzi. Kad kāds e-pastā jautā, kas nepieciešams pirms tūres, Duet sagatavo pilnu atbildi ar visu konkrēto informāciju. Jūs pārskatāt un pieskaraties sūtīšanai."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Es visu dienu esmu trasē bez mobilā pārklājuma. Kā Duet palīdz?",
+      "answer": "Tieši tāpēc gidi mīl Duet. Kamēr jūs vadāt 6–8 stundu tūri bez signāla, rezervācijas pieprasījumi krājas. Duet sagatavo atbildes uz katru no tiem — cenas, pieejamību, tikšanās vietu, ko vilkt. Kad atgriežaties, pārskatāt melnrakstus un nosūtāt. Lielākā daļa gidu mums saka, ka sezonas karstākajā laikā tas ietaupa 1–2 stundas e-pasta darba dienā."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "Ja cena ir $200 par transportlīdzekli, viena noturēta 4 cilvēku grupa sedz Pro izmaksas vairāk nekā gadam."
 }

@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail suņu pajūgu ekskursijām | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz suņu pajūgu vadītājiem uz rezervācijas e-pastiem atbildēt uzreiz — pat esot trasē. AI sagatavotas atbildes ar jūsu ekskursiju veidiem, cenām, noteikumiem un saziņas stilu.",
+  "heroBadge": "Uzticas vairāk nekā 200 suņu pajūgu vadītāju",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr esat trasē",
+  "heroSubline": "Duet apgūst jūsu ekskursiju veidus, cenas, laikapstākļu noteikumus un papildpakalpojumus — un sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "Ziemeļblāzma + suņu pajūgs 4 personām?",
+      "preview": "Sveiki! Mana 4 cilvēku ģimene janvārī apmeklēs Fērbenksu. Vai piedāvājat kombinētu paketi ar suņu pajūgu un ziemeļblāzmas vērošanu? Kāda ir cena?",
+      "pill": "Jāatbild",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Ko mums vilkt mugurā?",
+      "preview": "Mums sestdien ir rezervēta 2 stundu pajūga vadīšanas pieredze. Ko mums vilkt mugurā? Vai jūs nodrošināt ekipējumu, vai mums jāņem savs...",
+      "pill": "Jautājums",
       "pillColor": "amber"
     },
     {
       "from": "Kim & Brian L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "Bērni 5 un 8 gadus veci — vai viņi var vadīt pajūgu?",
+      "preview": "Mēs ņemsim līdzi divus bērnus (5 un 8). Vai viņi var braukt kamanās vai arī tiešām palīdzēt vadīt pajūgu? Un vai suņi labi sadzīvo ar maziem bērniem...",
+      "pill": "Rezervācija",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Jauna atsauksme par jūsu ierakstu",
+      "preview": "Ceļotājs nesen novērtēja jūsu uzņēmumu. Skatiet, ko viņš rakstīja, un atbildiet...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "Sveika, Rachel! Mēs labprāt uzņemtu jūsu ģimeni. Mūsu ziemeļblāzmas + pajūga kombinētā pakete maksā $175/personai — jūs saņemsiet 1,5 stundu braucienu kamanās pa takām krēslā, pēc tam karstu kakao pie ugunskura, kamēr gaidīsim ziemeļblāzmu. Viss aukstam laikam paredzētais ekipējums ir nodrošināts. Bērniem līdz 12 gadu vecumam cena ir $125. Vai vēlaties, lai rezervēju jums vietas janvārī?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "tour",
+    "bookingUnit": "ekskursija",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Divas saglabātas rezervācijas apmaksā Duet uz gadu."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus, bet nekad — lieku troksni. Vairs nekādu nepamanītu ekskursiju pieprasījumu, kas paslēpies zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu ekskursiju veidus, cenas un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar paketes informāciju, ieteikumiem, ko vilkt, un papildpakalpojumiem. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šajā nedēļas nogalē ir kādas rezervācijas?\" \"Sagatavo atbildi par ziemeļblāzmas kombinēto paketi.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "Ziemeļblāzma + suņu pajūgs 4 personām?",
+      "preview": "Mana 4 cilvēku ģimene janvārī apmeklēs Fērbenksu...",
+      "pill": "Atbildēt tagad",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "Re: Rezervācija apstiprināta — sestdien 1PM",
+      "pill": "Rezervēts",
       "pillColor": "blue"
     },
     {
       "from": "Kim L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "Vai mūsu bērni (5 un 8) var braukt līdzi?",
+      "pill": "Jautājums",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Jūsu iknedēļas rezervāciju kopsavilkums",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Alaska Gear Co.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "Ziemas izpārdošana — 30% atlaide pajūga iejūgiem",
+      "pill": "Akcijas",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "Re: Ziemeļblāzma + suņu pajūgs 4 personām?",
+    "originalFrom": "Rachel T. rakstīja:",
+    "originalText": "Sveiki! Mana 4 cilvēku ģimene janvārī apmeklēs Fērbenksu. Vai piedāvājat kombinētu paketi ar suņu pajūgu un ziemeļblāzmas vērošanu? Kāda ir cena?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "Sveika, Rachel!",
+      "Mūsu ziemeļblāzmas + pajūga kombinētā pakete maksā $175/personai — 1,5 stundu brauciens kamanās krēslā, pēc tam karsts kakao un ziemeļblāzmas vērošana pie ugunskura. Bērniem līdz 12 gadu vecumam cena ir $125.",
+      "Viss aukstam laikam paredzētais ekipējums ir nodrošināts (zābaki, kombinezoni, cimdi, sejas maskas). Zem tā vienkārši ģērbieties siltās kārtās.",
+      "Vai vēlaties, lai rezervēju jūsu 4 cilvēku ģimeni janvārim?"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "Ziemeļblāzmas + pajūga kombinētā pakete maksā $175/personai — 1,5 stundu brauciens kamanās",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "Pārzina jūsu ekskursiju veidus un cenas",
+      "Raksta melnrakstus jūsu balsī",
+      "Iekļauj ekipējuma un papildpakalpojumu informāciju",
+      "Laika gaitā mācās"
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "Vai šajā nedēļas nogalē ir gaidāmas rezervācijas? Laikapstākļi izskatās nenoteikti.",
+    "agentResponse": "Šajā nedēļas nogalē jums ir rezervētas 3 ekskursijas: audzētavas apmeklējums sestdien plkst. 10 AM (2 viesi), 2 stundu pajūga vadīšanas pieredze sestdien plkst. 1 PM (4 viesi) un ziemeļblāzmas kombinētā pakete svētdien plkst. 4 PM (6 viesi). Svētdienas grupa jautāja par atcelšanas noteikumiem. Vai vēlaties, lai sagatavoju laikapstākļu jaunumu visām trim?",
+    "followUp": "Sagatavo laikapstākļu jaunumu svētdienas ziemeļblāzmas grupai",
+    "followUpResponse": "Gatavs! Es sagatavoju atbildi svētdienas ziemeļblāzmas grupai, informējot, ka jūs sekojat apstākļiem un apstiprināsiet līdz sestdienas vakaram. Tajā iekļauti jūsu pārcelšanas noteikumi un alternatīvi datumi. Gatavs pārskatīšanai un nosūtīšanai."
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "Suņu pajūgu vadītāju un ekskursiju operatoru iecienīts",
   "testimonials": [
     {
       "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "title": "Suņu pajūgu ekskursiju operators, AK",
+      "quote": "Es pavadu trasē 6 stundas dienā bez jebkāda mobilā pārklājuma. Līdz brīdim, kad atgriezos, puse rezervācijas pieprasījumu jau bija aizgājusi pie cita pakalpojumu sniedzēja. Duet sagatavo atbildes ar manas ekskursijas informāciju un cenām — viesi saņem atbildi minūtēs, nevis stundās.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
-      "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "title": "Audzētavas un pajūgu ekskursiju īpašniece, AK",
+      "quote": "Mēs piedāvājam audzētavas apmeklējumus, braucienus ar pajūgu un ziemeļblāzmas kombinētās paketes — katram e-pastam vajadzīga cita atbilde. Duet nedēļas laikā saprata visus trīs ekskursiju veidus un tagad katru reizi sagatavo atbildes, kas atbilst pareizajai paketei.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "title": "Suņu pajūgu gids, MN",
+      "quote": "Agrāk katru vakaru pavadīju, atbildot uz tiem pašiem jautājumiem par to, ko vilkt, vecuma ierobežojumiem un suņiem. Duet tiek galā ar to visu. Es atgriežos mājās no trases, un viss jau ir sagatavots un gaida.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
-      "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "title": "Ziemeļblāzmas un pajūgu ekskursiju operatore, AK",
+      "quote": "Ziemā laikapstākļu dēļ atcelšanas notiek nepārtraukti. Duet sagatavo pārcelšanas atbildes ar mūsu noteikumiem un alternatīviem datumiem, vēl pirms man ir iespēja pārbaudīt telefonu. Viesiem patīk ātrā atbilde.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "quote": "Vecāki vienmēr jautā, vai viņu bērni var vadīt pajūgu, vai suņi ir draudzīgi, ko vilkt mugurā — tie paši 10 jautājumi. Duet iemācījās katru atbildi un sagatavo tās perfekti. Tas ir kā klonēt sevi e-pastam.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Pavadiet ziemu trasē ar saviem suņiem,\nnevis iesūtnē.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "Kā Duet apstrādā laikapstākļu dēļ atceltas ekskursijas un neskaidrību par ziemeļblāzmu?",
+      "answer": "Duet apgūst jūsu atcelšanas un pārcelšanas noteikumus. Kad viesis raksta par bažām saistībā ar laikapstākļiem vai ziemeļblāzmas redzamību, tas sagatavo atbildi ar jūsu noteikumiem, alternatīviem datumiem un jebkuru būtisku informāciju — piemēram, ka sekojat apstākļiem un apstiprināsiet tuvāk ekskursijai. Jūs pārskatāt un nosūtāt."
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "Es piedāvāju vairākus ekskursiju veidus ar atšķirīgām cenām un papildpakalpojumiem. Vai Duet spēj tos atšķirt?",
+      "answer": "Jā. Duet apgūst katru jūsu ekskursiju veidu — audzētavas apmeklējumus, pajūga vadīšanas pieredzes, ziemeļblāzmas kombinētās paketes, fotografēšanas papildpakalpojumus, transporta paketes — kopā ar to cenām, ilgumu un iekļauto. Kad pienāk pieprasījums, tas piemeklē pareizo ekskursiju un sagatavo atbildi ar korektu informāciju."
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "Pie $150 par tūri divas saglabātas rezervācijas sedz vairāk nekā gada Pro izmaksas."
 }
