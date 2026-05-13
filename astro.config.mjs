@@ -9,17 +9,8 @@ const localeSource = JSON.parse(
 )
 
 const sitemapLocales = Object.fromEntries(
-    localeSource.source_locale ? [[localeSource.source_locale, localeSource.source_locale]] : [["en", "en"]],
+    localeSource.runtime_locales.map((locale) => [locale, locale]),
 )
-const bootstrapLocalePrefixes = new Set(
-    localeSource.runtime_locales.filter((locale) => locale !== localeSource.source_locale),
-)
-const excludeBootstrapLocaleUrls = (pageUrl) => {
-    const pathname = new URL(pageUrl).pathname
-    const firstSegment = pathname.split("/").filter(Boolean)[0]
-    if (firstSegment === "i18n-qa") return false
-    return !firstSegment || !bootstrapLocalePrefixes.has(firstSegment)
-}
 
 export default defineConfig({
     output: "static",
@@ -30,7 +21,6 @@ export default defineConfig({
     },
     integrations: [
         sitemap({
-            filter: excludeBootstrapLocaleUrls,
             i18n: {
                 defaultLocale: "en",
                 locales: sitemapLocales,

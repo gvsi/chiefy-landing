@@ -373,6 +373,10 @@ function assertSitemapBootstrapState() {
     const sitemapFiles = listFiles(distRoot, ".xml")
         .filter((filePath) => path.basename(filePath).startsWith("sitemap"))
     const localePattern = nonDefaultLocales.map((locale) => locale.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|")
+    const bootstrapLocales = nonDefaultLocales.filter((locale) => localeHasBootstrap(locale))
+    const translationActivationComplete = bootstrapLocales.length === 0
+    const locLocales = new Set()
+    const alternateLocales = new Set()
     for (const filePath of sitemapFiles) {
         const relativePath = path.relative(repoRoot, filePath)
         const xml = readFileSync(filePath, "utf8")
@@ -382,11 +386,34 @@ function assertSitemapBootstrapState() {
         if (/https:\/\/duetmail\.com\/i18n-qa(?:\/|<|"|$)/u.test(xml)) {
             fail(`Sitemap contains pseudo-locale QA URL: ${relativePath}`)
         }
-        if (/<xhtml:link\b/u.test(xml)) {
-            fail(`Sitemap contains localized alternate links before translation activation: ${relativePath}`)
+        if (!translationActivationComplete) {
+            if (/<xhtml:link\b/u.test(xml)) {
+                fail(`Sitemap contains localized alternate links before translation activation: ${relativePath}`)
+            }
+            if (localePattern && new RegExp(`<loc>https://duetmail\\.com/(?:${localePattern})(?:/|<)`, "u").test(xml)) {
+                fail(`Sitemap contains non-default locale URL before translation activation: ${relativePath}`)
+            }
+            continue
         }
-        if (localePattern && new RegExp(`<loc>https://duetmail\\.com/(?:${localePattern})(?:/|<)`, "u").test(xml)) {
-            fail(`Sitemap contains non-default locale URL before translation activation: ${relativePath}`)
+
+        for (const locale of nonDefaultLocales) {
+            if (new RegExp(`<loc>https://duetmail\\.com/${locale.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?:/|<)`, "u").test(xml)) {
+                locLocales.add(locale)
+            }
+            if (new RegExp(`<xhtml:link\\b[^>]*hreflang="${locale.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}"`, "u").test(xml)) {
+                alternateLocales.add(locale)
+            }
+        }
+    }
+
+    if (translationActivationComplete) {
+        for (const locale of nonDefaultLocales) {
+            if (!locLocales.has(locale)) {
+                fail(`Sitemap is missing localized <loc> entries after translation activation: ${locale}`)
+            }
+            if (!alternateLocales.has(locale)) {
+                fail(`Sitemap is missing localized alternate links after translation activation: ${locale}`)
+            }
         }
     }
 }

@@ -4,7 +4,7 @@ import Nav from "../../components/nav/Nav.astro"
 import Footer from "../../components/sections/Footer.astro"
 import { calculateReadingTimeForLocale, formatDate, formatReadingTimeForLocale } from "../../utils/readingTime"
 import { DEFAULT_LOCALE } from "../../i18n/locales"
-import { englishOnlyAlternates, localizedPath } from "../../i18n/routing"
+import { alternateLinks, localizedPath } from "../../i18n/routing"
 import { getAllBlogPosts, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content"
 import { getMessages, t } from "../../i18n/messages/schema"
 import { jsonLdScript } from "../../i18n/jsonLd"
@@ -25,7 +25,7 @@ const title = t(messages, "blog.pages.index.title")
 const description = t(messages, "blog.pages.index.description")
 const canonicalPath = localizedPath(locale, { kind: "blogIndex" })
 const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
-const alternates = englishOnlyAlternates(Astro.site, { kind: "blogIndex" })
+const alternates = alternateLinks(Astro.site, { kind: "blogIndex" })
 const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "blogIndex", locale }))
 const homeUrl = new URL(localizedPath(locale, { kind: "home" }), Astro.site).toString()
 const extraHeadHtml = [

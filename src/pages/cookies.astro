@@ -1,7 +1,7 @@
 ---
 import LegalLayout from "../layouts/LegalLayout.astro"
 import { DEFAULT_LOCALE } from "../i18n/locales"
-import { englishOnlyAlternates, localizedPath } from "../i18n/routing"
+import { alternateLinks, localizedPath } from "../i18n/routing"
 import { getLegalContent, getRouteTranslationState, robotsForTranslationState } from "../i18n/content"
 import { getMessages, t } from "../i18n/messages/schema"
 
@@ -12,7 +12,7 @@ const contentHtml = getLegalContent(locale, page)
 const title = t(messages, "legal.pages.cookies.title")
 const description = t(messages, "legal.pages.cookies.description")
 const canonicalPath = localizedPath(locale, { kind: "legal", page })
-const alternates = englishOnlyAlternates(Astro.site, { kind: "legal", page })
+const alternates = alternateLinks(Astro.site, { kind: "legal", page })
 const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "legal", locale, page }))
 ---
 
