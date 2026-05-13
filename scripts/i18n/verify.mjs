@@ -5,6 +5,7 @@ import process from "node:process"
 import { fileURLToPath } from "node:url"
 import { spawnSync } from "node:child_process"
 import vm from "node:vm"
+import * as parse5 from "parse5"
 
 const repoRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)))
 const args = process.argv.slice(2)
@@ -70,6 +71,63 @@ function normalizeText(content) {
 
 function normalizeLegalContent(content) {
     return normalizeText(content).replace(/\n{2,}/g, "\n")
+}
+
+function visitHtmlNodes(node, visitor) {
+    visitor(node)
+    for (const child of node.childNodes ?? []) visitHtmlNodes(child, visitor)
+}
+
+function getHtmlAttr(node, name) {
+    return node.attrs?.find((attr) => attr.name === name)?.value
+}
+
+function assertBalancedLegalTags(relativePath, html) {
+    for (const tag of ["a", "h1", "h2", "h3", "h4", "li", "p", "strong", "ul"]) {
+        const openingCount = [...html.matchAll(new RegExp(`<${tag}(?:\\s|>|/)`, "giu"))].length
+        const closingCount = [...html.matchAll(new RegExp(`</${tag}>`, "giu"))].length
+        if (openingCount !== closingCount) {
+            fail(`Unbalanced <${tag}> tags in ${relativePath}: ${openingCount} opening, ${closingCount} closing`)
+        }
+    }
+}
+
+function assertLegalHtmlStructure(relativePath, content) {
+    if (/<ahref=/iu.test(content)) {
+        fail(`Malformed collapsed anchor tag in ${relativePath}`)
+    }
+    if (/href=["']duetmail\.com["']/iu.test(content)) {
+        fail(`Legal file must use an explicit HTTPS URL for duetmail.com: ${relativePath}`)
+    }
+
+    const html = stripLeadingMetadataComments(content).trim()
+    if (!/^<h1\b[^>]*>[\s\S]*?<\/h1>/iu.test(html)) {
+        fail(`Legal file must start with a closed h1 after metadata: ${relativePath}`)
+    }
+    assertBalancedLegalTags(relativePath, html)
+
+    const parseErrors = []
+    const fragment = parse5.parseFragment(html, {
+        onParseError(error) {
+            parseErrors.push(error)
+        },
+    })
+    if (parseErrors.length > 0) {
+        const summary = parseErrors
+            .slice(0, 5)
+            .map((error) => `${error.code}${error.startLine ? `:${error.startLine}:${error.startCol}` : ""}`)
+            .join(", ")
+        fail(`Legal HTML parse errors in ${relativePath}: ${summary}`)
+    }
+
+    visitHtmlNodes(fragment, (node) => {
+        if (node.tagName !== "a") return
+        const href = getHtmlAttr(node, "href")
+        if (!href) fail(`Legal anchor missing href in ${relativePath}`)
+        if (href === "duetmail.com") {
+            fail(`Legal anchor must use https://duetmail.com in ${relativePath}`)
+        }
+    })
 }
 
 function parseMarkdownFrontmatter(content, relativePath) {
@@ -423,6 +481,7 @@ async function assertSourceContentFiles({ complete }) {
                 assertBootstrapUrlsLocalized(`src/i18n/content/legal/${locale}/${page}.html`)
             }
             const legal = readText(`src/i18n/content/legal/${locale}/${page}.html`)
+            assertLegalHtmlStructure(`src/i18n/content/legal/${locale}/${page}.html`, legal)
             if (/<p\b[^>]*>\s*Last updated:/iu.test(legal)) {
                 fail(`Copied legal file still has visible Last updated paragraph: ${locale}/${page}`)
             }

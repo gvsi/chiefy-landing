@@ -105,7 +105,7 @@ function canonicalizeLocaleTag(raw) {
     return { kind: "candidate", tag: canonical.join("-"), parts: canonical }
 }
 
-export function resolveRuntimeLocale(raw) {
+function resolveKnownRuntimeLocale(raw) {
     const normalized = canonicalizeLocaleTag(raw)
     if (normalized.kind !== "candidate") return null
 
@@ -118,14 +118,18 @@ export function resolveRuntimeLocale(raw) {
         if (SUPPORTED_LOCALES.has(candidate)) return candidate
         if (ALIASES[candidate] && SUPPORTED_LOCALES.has(ALIASES[candidate])) return ALIASES[candidate]
     }
-    return DEFAULT_LOCALE
+    return null
+}
+
+export function resolveRuntimeLocale(raw) {
+    return resolveKnownRuntimeLocale(raw) ?? DEFAULT_LOCALE
 }
 
 function canonicalLocalePrefixedPath(pathname) {
     const parts = pathname.split("/")
     const first = parts[1]
     if (!first) return pathname
-    const resolvedLocale = resolveRuntimeLocale(first)
+    const resolvedLocale = resolveKnownRuntimeLocale(first)
     if (!resolvedLocale) return pathname
 
     const canonicalFirstSegment = SUPPORTED_LOCALES.has(first) ? first : null

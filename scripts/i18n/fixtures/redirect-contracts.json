@@ -38,6 +38,48 @@
       "location": "https://duetmail.com/blog/example"
     },
     {
+      "name": "Default locale vertical route passes through",
+      "input": "https://duetmail.com/for/dive-shops",
+      "status": 200,
+      "location": null
+    },
+    {
+      "name": "Default locale vertical horseback route passes through",
+      "input": "https://duetmail.com/for/horseback-rides",
+      "status": 200,
+      "location": null
+    },
+    {
+      "name": "Default locale vertical route trailing slash canonicalizes",
+      "input": "https://duetmail.com/for/dive-shops/",
+      "status": 301,
+      "location": "https://duetmail.com/for/dive-shops"
+    },
+    {
+      "name": "Default locale prefix strips before vertical route",
+      "input": "https://duetmail.com/en/for/horseback-rides",
+      "status": 301,
+      "location": "https://duetmail.com/for/horseback-rides"
+    },
+    {
+      "name": "Default locale vertical index passes through",
+      "input": "https://duetmail.com/for",
+      "status": 200,
+      "location": null
+    },
+    {
+      "name": "Unknown locale-like top level segment passes through",
+      "input": "https://duetmail.com/zz/privacy",
+      "status": 200,
+      "location": null
+    },
+    {
+      "name": "Short non-locale route segment passes through",
+      "input": "https://duetmail.com/ai",
+      "status": 200,
+      "location": null
+    },
+    {
       "name": "Pseudo locale is rejected before fallback",
       "input": "https://duetmail.com/en-XA/privacy",
       "status": 200,
