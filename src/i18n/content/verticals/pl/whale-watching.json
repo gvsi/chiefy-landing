@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail dla wycieczek z obserwacją wielorybów | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga kapitanom obserwującym wieloryby natychmiast odpowiadać na e-maile dotyczące rezerwacji – nawet z wody. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły wycieczki, ceny i głos.",
+  "heroBadge": "Zaufali mu 300+ kapitanowie wycieczek",
+  "heroHeadline": "Twój asystent e-mail podczas polowania na wieloryby",
+  "heroSubline": "Duet poznaje harmonogram wycieczek, ceny i głos, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji na wodzie.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "Grupa 8 — dostępność w czerwcu 14?",
+      "preview": "Cześć! Jesteśmy rodziną 8 odwiedzającą tydzień. Czy masz miejsce na poranną wycieczkę w czerwcu 14? Jaka jest cena za osobę i czy jest odpowiednia dla dzieci?",
+      "pill": "Aby odpowiedzieć",
       "pillColor": "red"
     },
     {
       "from": "James & Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "Ceny czarteru prywatnego?",
+      "preview": "Chcielibyśmy zarezerwować prywatną wycieczkę z obserwacją wielorybów na naszą rocznicę. Jaki jest koszt prywatnego czarteru 2 na godziny tylko dla nas dwojga...",
+      "pill": "Wysoka wartość",
       "pillColor": "amber"
     },
     {
       "from": "Cruise Port Desk",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "Zmiana harmonogramu — Coral Princess przybędzie 1 godzinę wcześniej",
+      "preview": "Uwaga: jutrzejszy przyjazd Coral Princess został przeniesiony z 10 AM na 9 AM. Proszę odpowiednio dostosować odbiór wycieczek do portu...",
+      "pill": "Pilny",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Nowa recenzja Twojego wpisu",
+      "preview": "Podróżny niedawno ocenił Twoją firmę. Zobacz, co mieli do powiedzenia i odpowiedz...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "Hej Rachel! Czerwiec Poranna wycieczka 14 ma miejsce na 8. Wycieczki kosztują $125/person, dzieci 4-12 za pół ceny. Wypływamy o 9 AM z portu i kursujemy około 2.5 godzin. Dostarczona lornetka — wystarczy zabrać ze sobą warstwy ochronne i krem ​​​​przeciwsłoneczny. Chcesz, żebym zarezerwował miejsca na 8?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "grupa wycieczkowa",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Jedna zapisana rezerwacja grupowa płaci za rok Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności wyświetlane są prośby o rezerwację, w drugiej kolejności zmiany rozkładu statków wycieczkowych, a hałas nigdy. Nigdy więcej nie przegapisz prywatnego zapytania dotyczącego czarteru ukrytego pod alertami serwisu TripAdvisor.",
+  "draftSubtitle": "Duet poznaje godziny wycieczek, ceny i zasady. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź z informacją o dostępności, zawartości i tym, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Ile miejsc zostało na sobotnią poranną wycieczkę?” „Napisz odpowiedź dla Rachel, podając dostępność”. Duet zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "Grupa 8 — dostępność w czerwcu 14?",
+      "preview": "Jesteśmy rodziną 8 przyjezdną na tydzień...",
+      "pill": "Odpowiedz teraz",
       "pillColor": "red"
     },
     {
       "from": "James L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Re: Potwierdzono prywatny czarter — sobota 14:00",
+      "pill": "Zarezerwowano",
       "pillColor": "blue"
     },
     {
       "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "Czy jutrzejsza trasa się odbędzie? Wiatr wydaje się wzburzony",
+      "pill": "Pytanie",
       "pillColor": "amber"
     },
     {
       "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
+      "subject": "Dzienne podsumowanie rezerwacji — 3 nowe rezerwacje",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Marine Supply Co.",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "Letni prześwit — 15% poza sprzętem ochronnym",
+      "pill": "Promocje",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
+    "subject": "Re: Grupa 8 — dostępność w czerwcu 14?",
     "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "originalText": "Cześć! Jesteśmy rodziną 8 odwiedzającą tydzień. Czy masz miejsce na poranną wycieczkę w czerwcu 14? Jaka jest cena za osobę i czy jest odpowiednia dla dzieci?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Hej Rachel!",
+      "Czerwiec Poranna wycieczka 14 ma mnóstwo miejsca dla 8. Bilety kosztują $125/person, dzieci 4-12 za pół ceny. Wyruszamy o 9 AM i wracamy około 11:30.",
+      "Zapewniona lornetka i sprzęt przeciwdeszczowy — wystarczy zabrać ze sobą ciepłą odzież i krem ​​​​przeciwsłoneczny. Dzieci uwielbiają to miejsce na tarasie widokowym.",
+      "Chcesz, żebym zablokował spoty 8?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "Czerwiec Poranna wycieczka 14 ma mnóstwo miejsca dla 8. Bilety: $125/person",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Zna godziny i ceny wycieczek",
+      "Wersje robocze w Twoim głosie",
+      "Obejmuje to, co należy zabrać ze sobą automatycznie",
+      "Uczy się z czasem"
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "Ile zostało miejsc na sobotnią poranną wycieczkę?",
+    "agentResponse": "Bazując na Twoich rezerwacjach, na sobotnią wycieczkę 9 AM zajęto 18 z 44 miejsc — 26 jest nadal otwarte. Popołudniowa wycieczka jest prawie pełna w 40 w 44. Czy chcesz, żebym przygotował odpowiedź na wszelkie oczekujące zapytania dotyczące dostępności w sobotę rano?",
+    "followUp": "Przygotuj odpowiedź dla Rachel potwierdzającą czerwiec 14 dla gości 8",
+    "followUpResponse": "Gotowe! Napisałem odpowiedź do Rachel, potwierdzającą poranną wycieczkę 14 w czerwcu dla gości 8 w $125/person. Obejmuje czas odlotu, ofertę i co zabrać ze sobą. Gotowe do przejrzenia i wysłania."
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "Uwielbiany przez kapitanów obserwujących wieloryby",
   "testimonials": [
     {
       "name": "Captain Dave H.",
-      "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "title": "Organizator wycieczek po dzikiej przyrodzie, AK",
+      "quote": "Pasażerowie statków wycieczkowych potrzebują szybkich odpowiedzi — mają tylko 6 godzin w porcie. Kiedyś traciłem prywatne czartery, ponieważ byłem na wodzie, kiedy nadeszło zapytanie. Teraz Duet przygotowuje odpowiedzi z moimi cenami i szczegółami odbioru, zanim jeszcze zacumuję.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
-      "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "title": "Rodzinna obserwacja wielorybów, Kalifornia",
+      "quote": "W sezonie humbaków organizujemy dwie wycieczki dziennie, a liczba e-maili jest nierealna. „Czy zobaczymy wieloryby?” „W co mam się ubrać?” „Czy jutro jest odwołane?” Duet odpowiada na powtarzające się pytania, a my skupiamy się na wycieczkach.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "title": "Ocean Excursion, HI",
+      "quote": "Co wieczór odpowiadałem na te same pytania 10 — ceny, zawartość pakietu, wskazówki dotyczące choroby morskiej, ograniczenia wiekowe dzieci. Duet nauczył się tego wszystkiego w pierwszym tygodniu. Mój czas odpowiedzi wzrósł z 8 godzin do 8 minut.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "title": "Menedżer rezerwacji, Pacific NW",
+      "quote": "Najgorsze są odwołania związane z pogodą — ludzie korzystający z 30 potrzebują natychmiastowej zmiany rezerwacji, a ja muszę pogodzić się z rozmowami telefonicznymi. Duet przygotowuje spersonalizowane e-maile dotyczące zmiany terminu dla każdego gościa. To, co kiedyś zajmowało mi 2 godzin, teraz zajmuje 15 minut.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "quote": "Jesteśmy firmą dwuosobową — ja jestem kapitanem, ona zajmuje się logistyką. W szczycie sezonu spędzała 3 godziny dziennie na korzystaniu z poczty elektronicznej. Duet skrócił to do 30 minut. Teraz naprawdę odzyskuje wieczory.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Spędź sezon wielorybniczy na wodzie,\nnie w Twojej skrzynce odbiorczej.",
+  "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Czy Duet obsługuje odwołania pogodowe i zmiany rozkładów statków wycieczkowych?",
+      "answer": "Tak. Jeśli anulujesz wycieczkę ze względu na pogodę lub zmianę godziny przybycia statku wycieczkowego, możesz jednokrotnie poinformować o tym Duet, a ona przygotuje spersonalizowaną zmianę terminu lub zaktualizuje e-maile dla każdego gościa, którego to dotyczy. Koniec z kopiowaniem i wklejaniem tej samej wiadomości 30 razy. Każda odpowiedź zawiera pierwotne dane rezerwacji gościa i dostępne alternatywy."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "Ciągle dostajemy te same pytania: „czy zobaczymy wieloryby?”, „w co mam się ubrać?”, „czy to jest w porządku dla dzieci?” Czy Duet sobie z tym poradzi?",
+      "answer": "Właśnie tam błyszczy Duet. Uczy się standardowych odpowiedzi – jakie gatunki zwykle widujesz, co zabrać ze sobą, zasady dotyczące wieku, wskazówki dotyczące choroby morskiej, godziny odlotów – i natychmiast przygotowuje kompletne odpowiedzi. Sprawdzasz i wysyłasz. Większość kapitanów mówi nam 80%, że w ich skrzynce odbiorczej znajdują się te same pytania 10, a Duet obsługuje je wszystkie."
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "W $125/person jedna zaoszczędzona grupa 6 płaci za ponad rok Pro."
 }
