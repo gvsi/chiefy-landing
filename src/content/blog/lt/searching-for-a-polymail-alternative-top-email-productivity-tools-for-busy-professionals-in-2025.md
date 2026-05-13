@@ -1,185 +1,184 @@
 ---
-title: "Searching for a Polymail Alternative? Top Email Productivity Tools for Busy Professionals in 2025"
-description: "Searching for a Polymail alternative? Compare Superhuman, Missive, Spark, Shortwave, and Duet Mail for AI email productivity."
+title: "Ieškote Polymail alternatyvos? Geriausi el. pašto produktyvumo įrankiai užimtiems specialistams 2025 m."
+description: "Ieškote Polymail alternatyvos? Palyginkite Superhuman, Missive, Spark, Shortwave ir Duet Mail DI el. pašto produktyvumui."
 publishedAt: 2025-08-21
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Tools", "Email"]
+tags: ["DI", "Produktyvumas", "Įrankiai", "El. paštas"]
 draft: false
-translationStatus: bootstrap-en
 ---
 
-Does your inbox feel less like a communication tool and more like a digital treadmill you can never seem to get off? You spend hours sorting, replying, and desperately trying to stay afloat, only for the tide of new messages to wash over you again. It's a universal feeling in today's hyper-connected world.
+Ar jūsų gautieji labiau primena ne komunikacijos įrankį, o skaitmeninį bėgimo takelį, nuo kurio niekaip nepavyksta nulipti? Valandas rūšiuojate, atsakinėjate ir desperatiškai bandote išsilaikyti paviršiuje, tik tam, kad naujų žinučių banga vėl jus užlietų. Šiandienos hiperprisijungusiame pasaulyje tai beveik visuotinis jausmas.
 
-Many professionals turned to tools like [Polymail](https://polymail.io/), seeking refuge through features like email tracking, templates, and scheduling. It offered a step up from basic clients. But the quest for something _better_, a true **Polymail alternative** that genuinely tames the chaos, is more common than ever. And the stakes are high. Consider this: the average office worker receives a staggering **121 emails daily** and spends nearly **28% of their entire workweek just managing email**. This isn't just an annoyance; it's a colossal drain on productivity, focus, and even well-being.
+Daug specialistų kreipėsi į tokius įrankius kaip [Polymail](https://polymail.io/), ieškodami palengvėjimo per el. laiškų sekimo, šablonų ir planavimo funkcijas. Tai buvo žingsnis aukščiau už bazinius klientus. Tačiau paieška kažko _geresnio_, tikros **Polymail alternatyvos**, kuri iš tiesų sutramdo chaosą, šiandien dažnesnė nei bet kada. Statymai dideli. Pagalvokite: vidutinis biuro darbuotojas gauna įspūdingus **121 el. laišką per dieną** ir beveik **28% visos darbo savaitės praleidžia vien tvarkydamas el. paštą**. Tai nėra tik nepatogumas; tai milžiniškas produktyvumo, dėmesio ir net savijautos nutekėjimas.
 
-Fortunately, the email landscape has evolved dramatically, especially with the rise of artificial intelligence. This post explores the top Polymail alternatives making waves in 2025, focusing on how they leverage smart features, particularly AI, to address the core pain points of busy professionals, freelancers, and agile teams. Let's find the tool that helps you reclaim your time.
+Laimei, el. pašto įrankių aplinka smarkiai pasikeitė, ypač iškilus dirbtiniam intelektui. Šiame įraše apžvelgiamos 2025 m. dėmesio sulaukiančios geriausios Polymail alternatyvos, daugiausia žiūrint į tai, kaip jos pasitelkia išmanias funkcijas, ypač DI, spręsdamos pagrindinius užimtų specialistų, laisvai samdomų darbuotojų ir lanksčių komandų skausmo taškus. Raskime įrankį, kuris padės susigrąžinti laiką.
 
-## Why Look Beyond Polymail? Common User Pain Points
+## Kodėl verta žiūrėti toliau nei Polymail? Dažni naudotojų skausmo taškai
 
-Polymail certainly brought value with its focus on sales and professional productivity, offering features like email tracking, message templates, send later functionality, contact profiles, and tools for team collaboration. However, no tool is perfect, and several common reasons drive users to search for alternatives:
+Polymail tikrai suteikė vertės, orientuodamasis į pardavimų ir profesionalų produktyvumą bei siūlydamas tokias funkcijas kaip el. laiškų sekimas, žinučių šablonai, siuntimas vėliau, kontaktų profiliai ir komandinio bendradarbiavimo įrankiai. Vis dėlto tobulų įrankių nėra, o kelios dažnos priežastys skatina naudotojus ieškoti alternatyvų:
 
-- **The Price Tag:** With plans ranging from roughly $10 to $49 per user per month and no free tier available, Polymail's cost can be a significant factor, especially for freelancers, small startups, or those comparing it to increasingly powerful, budget-friendly options. Users have explicitly noted the price feels high, sometimes rivaling premium competitors like Superhuman without necessarily offering the same level of perceived value.
+- **Kaina:** Planai svyruoja maždaug nuo 10 iki 49 USD vienam naudotojui per mėnesį ir nėra nemokamo lygio, todėl Polymail kaina gali būti reikšmingas veiksnys, ypač laisvai samdomiems darbuotojams, mažiems startuoliams ar tiems, kurie lygina jį su vis galingesnėmis, biudžetui draugiškomis alternatyvomis. Naudotojai tiesiogiai pažymi, kad kaina atrodo aukšta, kartais artima premium konkurentams, tokiems kaip Superhuman, nebūtinai suteikiant tą patį suvokiamos vertės lygį.
 
-- **Platform Gaps:** The long-standing absence of a dedicated Android application is a major sticking point for users needing seamless access across all their devices. Some users also find the Windows application lacks the polish of its macOS counterpart, creating an inconsistent experience.
+- **Platformų spragos:** Ilgalaikis specialios Android programos nebuvimas yra didelė kliūtis naudotojams, kuriems reikia sklandžios prieigos visuose įrenginiuose. Kai kurie naudotojai taip pat mano, kad Windows programa stokoja macOS versijos išbaigtumo, todėl patirtis tampa nevienoda.
 
-- **User Experience Hiccups:** For a tool designed to boost productivity, bugs and performance issues can be deal-breakers. Users have reported instances of slowness, frustrating syncing problems, UI glitches, and difficulties with core functions like refreshing the inbox or reliably archiving messages.
+- **Naudojimo patirties nesklandumai:** Įrankiui, kuris sukurtas produktyvumui didinti, klaidos ir našumo problemos gali būti lemiamos. Naudotojai mini lėtumo atvejus, erzinančias sinchronizavimo problemas, UI trikdžius ir sunkumus su pagrindinėmis funkcijomis, tokiomis kaip gautųjų atnaujinimas ar patikimas laiškų archyvavimas.
 
-- **Evolving Needs & Feature Gaps:** The email productivity space is advancing rapidly, particularly with AI. Users may find Polymail's feature set, while solid, hasn't kept pace. They might seek more sophisticated AI for tasks like intelligent inbox triage, truly personalized draft generation, or deeper integrations with their other essential tools. Privacy concerns or the desire for a smoother path to "Inbox Zero" also motivate the search.
+- **Kintantys poreikiai ir funkcijų spragos:** El. pašto produktyvumo erdvė sparčiai juda į priekį, ypač su DI. Naudotojai gali pastebėti, kad Polymail funkcijų rinkinys, nors ir solidus, nespėjo paskui naujus poreikius. Jie gali ieškoti pažangesnio DI tokioms užduotims kaip išmani gautųjų atranka, tikrai suasmenintas juodraščių generavimas ar gilesnės integracijos su kitais būtinais įrankiais. Privatumo klausimai arba noras sklandžiau pasiekti „Inbox Zero“ taip pat skatina paieškas.
 
-- **Billing and Support Concerns:** Isolated reports of difficulties with billing or canceling subscriptions can erode user trust and prompt a move to platforms perceived as more transparent or responsive.
+- **Sąskaitų ir pagalbos rūpesčiai:** Pavieniai pranešimai apie sunkumus su atsiskaitymu ar prenumeratos atšaukimu gali mažinti naudotojų pasitikėjimą ir paskatinti pereiti prie platformų, kurios atrodo skaidresnės ar greičiau reaguojančios.
 
-These factors combined – cost, platform limitations, user experience friction, and the pull of more modern, AI-driven features – create a compelling case for exploring the current market of Polymail alternatives. The demand isn't just for _different_, but for _smarter_ email management.
+Šie veiksniai kartu - kaina, platformų ribotumai, naudojimo patirties trintis ir modernesnių DI funkcijų trauka - sukuria rimtą pagrindą tyrinėti dabartinę Polymail alternatyvų rinką. Paklausa yra ne tik _kitokiam_, bet ir _išmanesniam_ el. pašto valdymui.
 
-## The Rise of AI in Taming the Inbox
+## DI iškilimas gautiesiems sutramdyti
 
-The sheer scale of email communication is mind-boggling. Projections estimate over **375 billion emails will be sent **_**daily* i**_**n 2025**. Manually sorting, prioritizing, and responding to this deluge is simply unsustainable for anyone trying to do focused, high-impact work.
+El. pašto komunikacijos mastas sunkiai suvokiamas. Prognozuojama, kad 2025 m. **kasdien bus išsiunčiama daugiau nei 375 mlrd. el. laiškų**. Rankomis rūšiuoti, prioritetizuoti ir atsakinėti į tokį srautą tiesiog neįmanoma tvariai tiems, kurie bando atlikti sutelktą, didelės vertės darbą.
 
-This is where Artificial Intelligence steps in. Modern email productivity tools are increasingly integrating AI not as a flashy add-on, but as a fundamental component for managing email overload. An [AI email assistant](https://www.microsoft.com/en-us/microsoft-365/outlook/ai-email-assistant) is essentially software designed to help you regain control by intelligently organizing messages, suggesting replies, highlighting priorities, drafting emails, and automating repetitive tasks.
+Čia įsitraukia dirbtinis intelektas. Šiuolaikiniai el. pašto produktyvumo įrankiai vis dažniau integruoja DI ne kaip blizgų priedą, o kaip esminį komponentą el. pašto perkrovai valdyti. [DI el. pašto asistentas](https://www.microsoft.com/en-us/microsoft-365/outlook/ai-email-assistant) iš esmės yra programinė įranga, skirta padėti susigrąžinti kontrolę išmaniai organizuojant žinutes, siūlant atsakymus, išryškinant prioritetus, rengiant juodraščius ir automatizuojant pasikartojančias užduotis.
 
-Here are key AI capabilities transforming the email experience:
+Štai pagrindinės DI galimybės, keičiančios el. pašto patirtį:
 
-- **Intelligent Triage & Prioritization:** Forget chronological chaos. AI analyzes incoming emails based on sender, content, urgency, and your past behavior to automatically surface what truly needs your attention – urgent requests, messages requiring action, or communications from key contacts. Features like focused dashboards or AI-powered folders cut through the noise, directly addressing the reality that, according to [SaneBox research](https://blog.sanebox.com/2016/02/18/email-overload-research-statistics-sanebox/), **only about 38% of the average inbox contains important emails**.
+- **Išmani atranka ir prioritetai:** Pamirškite chronologinį chaosą. DI analizuoja gaunamus laiškus pagal siuntėją, turinį, skubą ir ankstesnį jūsų elgesį, kad automatiškai iškeltų tai, kam iš tiesų reikia dėmesio: skubius prašymus, veiksmų reikalaujančias žinutes ar komunikaciją iš svarbių kontaktų. Tokios funkcijos kaip sutelkti skydeliai ar DI paremti aplankai prasiskverbia pro triukšmą, tiesiogiai atliepdami realybę, kad, remiantis [SaneBox tyrimu](https://blog.sanebox.com/2016/02/18/email-overload-research-statistics-sanebox/), **tik apie 38% vidutinių gautųjų sudaro svarbūs laiškai**.
 
-- **AI-Powered Drafting & Replies:** Staring at a blank reply window? AI can generate context-aware suggestions or even complete drafts based on the email thread or simple prompts, slashing composition time. Some advanced tools even learn your unique writing style and vocabulary, ensuring replies sound authentically like you.
+- **DI paremti juodraščiai ir atsakymai:** Tuščias atsakymo langas nebeturi stabdyti. DI gali generuoti kontekstą suprantančius pasiūlymus ar net pilnus juodraščius pagal el. laiško giją arba paprastas užklausas, smarkiai sutrumpindamas rašymo laiką. Kai kurie pažangūs įrankiai net mokosi unikalaus jūsų rašymo stiliaus ir žodyno, kad atsakymai skambėtų autentiškai kaip jūs.
 
-- **Smart Summarization:** Drowning in long email chains? AI can condense complex discussions into concise bullet points, highlighting key decisions and action items. This allows you to grasp the context instantly without rereading pages of history.
+- **Išmanios santraukos:** Skęstate ilgose el. laiškų grandinėse? DI gali sutraukti sudėtingas diskusijas į glaustus punktus, išryškindamas pagrindinius sprendimus ir veiksmų punktus. Taip kontekstą perprantate akimirksniu, neperskaitydami puslapių istorijos.
 
-- **Contextual Awareness & Automation:** Beyond simple tasks, AI can understand relationships, track project details mentioned in past emails, automate follow-up reminders, or even help manage meeting scheduling based on your calendar and the email's content.
+- **Kontekstinis suvokimas ir automatizacija:** Be paprastų užduočių, DI gali suprasti santykius, sekti ankstesniuose laiškuose paminėtas projekto detales, automatizuoti priminimus dėl tolesnių veiksmų arba net padėti derinti susitikimų laikus pagal kalendorių ir laiško turinį.
 
-The impact on productivity is significant. Every email interruption takes an average of **64 seconds to recover from**. AI triage minimizes these unnecessary checks. Furthermore, the constant context switching between email and other tasks can take **up to 23 minutes to fully refocus**. AI assistants help reduce this mental friction by handling routine tasks and surfacing what matters, allowing you to dedicate more time to valuable work. The very definition of a valuable email tool is shifting from simply managing features like tracking or templates to actively automating and augmenting your entire email workflow through intelligent assistance.
+Poveikis produktyvumui reikšmingas. Po kiekvieno el. pašto pertraukimo atsigauti vidutiniškai reikia **64 sekundžių**. DI atranka sumažina šiuos nereikalingus patikrinimus. Be to, nuolatinis konteksto keitimas tarp el. pašto ir kitų užduočių gali reikalauti **iki 23 minučių visiškai susitelkti iš naujo**. DI asistentai padeda mažinti šią protinę trintį tvarkydami rutinines užduotis ir iškeldami tai, kas svarbu, kad daugiau laiko galėtumėte skirti vertingam darbui. Pats vertingo el. pašto įrankio apibrėžimas keičiasi: nuo funkcijų, tokių kaip sekimas ar šablonai, valdymo link aktyvaus visos el. pašto darbo eigos automatizavimo ir sustiprinimo išmania pagalba.
 
-## Top Polymail Alternatives for Enhanced Productivity in 2025
+## Geriausios Polymail alternatyvos didesniam produktyvumui 2025 m.
 
-The market is brimming with powerful contenders. Here’s a look at some of the leading Polymail alternatives, each offering a distinct approach to email productivity:
+Rinkoje gausu stiprių kandidatų. Štai keli pirmaujantys Polymail pakaitalai, kiekvienas siūlantis savitą požiūrį į el. pašto produktyvumą:
 
-### Superhuman: The Need for Speed (at a Price)
+### Superhuman: greičio poreikis už kainą
 
-- **Core Focus:** Built from the ground up for speed and efficiency, heavily emphasizing keyboard shortcuts to help users fly through their inbox. The goal is to make email processing feel effortless, aiming to save users significant time weekly.
+- **Pagrindinis dėmesys:** Sukurtas nuo pagrindų greičiui ir efektyvumui, ypač pabrėžiant klaviatūros trumpinius, kad naudotojai per gautuosius judėtų itin greitai. Tikslas - kad el. pašto tvarkymas jaustųsi lengvas ir kas savaitę taupytų daug laiko.
 
-- **Key Features:** Blazing-fast interface, Split Inbox for automatic sorting, advanced AI (summarization, drafting, natural language search, automated workflows like follow-ups), reminders, snippets (reusable text blocks), read statuses, integrated calendar view.
+- **Pagrindinės funkcijos:** Itin greita sąsaja, Split Inbox automatiniam rūšiavimui, pažangus DI (santraukos, juodraščiai, natūralios kalbos paieška, automatizuotos darbo eigos, pvz., priminimai), priminimai, snippets (daugkartinio naudojimo teksto blokai), perskaitymo būsenos, integruotas kalendoriaus vaizdas.
 
-- **AI Angle:** AI is deeply integrated, learning your voice for drafts, enabling powerful semantic search ("find that email about the Q3 budget"), and automating tasks. AI summaries appear automatically.
+- **DI kampas:** DI giliai integruotas: jis mokosi jūsų balso juodraščiams, leidžia galingą semantinę paiešką („rask tą laišką apie Q3 biudžetą“) ir automatizuoja užduotis. DI santraukos rodomos automatiškai.
 
-- **Target Audience:** High-volume email users (executives, sales pros, founders) who prioritize raw speed and efficiency and operate within the Gmail or Outlook ecosystems. Often appeals to tech-savvy productivity enthusiasts.
+- **Tikslinė auditorija:** Didelės apimties el. pašto naudotojai (vadovai, pardavimų specialistai, įkūrėjai), kuriems svarbus grynas greitis ir efektyvumas bei kurie dirba Gmail arba Outlook ekosistemose. Dažnai patrauklu technologiškai išprususiems produktyvumo entuziastams.
 
-- **Platforms:** Gmail & Microsoft Outlook accounts only. Available on Mac, iOS, Android, and as a Chrome extension.
+- **Platformos:** Tik Gmail ir Microsoft Outlook paskyros. Veikia Mac, iOS, Android ir kaip Chrome plėtinys.
 
-- **Pricing:** Premium only, starting at $30/user/month ($25/user/month billed annually). No traditional free trial, though sometimes month-long trials are offered via referrals.
+- **Kainodara:** Tik premium, nuo 30 USD/naudotojui/mėn. (25 USD/naudotojui/mėn. mokant kasmet). Tradicinio nemokamo bandymo nėra, nors kartais per rekomendacijas siūlomi mėnesio bandymai.
 
-- **Considerations:** The high price is the most significant hurdle. Limited email provider support excludes many users. The keyboard-centric approach has a learning curve.
+- **Į ką atsižvelgti:** Aukšta kaina yra didžiausia kliūtis. Ribotas el. pašto tiekėjų palaikymas atmeta daug naudotojų. Į klaviatūrą orientuotas požiūris turi mokymosi kreivę.
 
-### Missive: Collaboration Powerhouse
+### Missive: bendradarbiavimo galiūnas
 
-- **Core Focus:** Designed as a central hub for team communication and collaboration, extending beyond email to include SMS, social media messages, and internal chat. Ideal for managing shared inboxes (e.g., support@, sales@).
+- **Pagrindinis dėmesys:** Sukurtas kaip centrinis komandinės komunikacijos ir bendradarbiavimo centras, apimantis ne tik el. paštą, bet ir SMS, socialinių tinklų žinutes bei vidinį pokalbį. Idealiai tinka bendriems gautiesiems valdyti, pavyzdžiui, support@ ar sales@.
 
-- **Key Features:** Robust shared inbox functionality, internal commenting within email threads, task assignment and tracking, collaborative real-time drafting, customizable rules for workflow automation, extensive integrations with CRM and project management tools.
+- **Pagrindinės funkcijos:** Tvirta bendrų gautųjų funkcija, vidiniai komentarai el. laiškų gijose, užduočių priskyrimas ir sekimas, bendras realaus laiko juodraščių rengimas, pritaikomos darbo eigos automatizavimo taisyklės, plačios integracijos su CRM ir projektų valdymo įrankiais.
 
-- **AI Angle:** Integrates AI capabilities for drafting replies, summarizing conversations, translating messages, and enhancing automation rules.
+- **DI kampas:** Integruoja DI galimybes atsakymų juodraščiams, pokalbių santraukoms, žinučių vertimui ir automatizavimo taisyklių tobulinimui.
 
-- **Target Audience:** Teams needing to manage shared communication channels efficiently, businesses focused on customer support or sales collaboration, organizations looking for a unified communication platform.
+- **Tikslinė auditorija:** Komandos, kurioms reikia efektyviai valdyti bendrus komunikacijos kanalus, klientų aptarnavimo ar pardavimų bendradarbiavimą akcentuojantys verslai, organizacijos, ieškančios vieningos komunikacijos platformos.
 
-- **Platforms:** Available on Mac, Windows, Web, iOS, and Android. Supports Gmail, Outlook, and other IMAP accounts.
+- **Platformos:** Veikia Mac, Windows, Web, iOS ir Android. Palaiko Gmail, Outlook ir kitas IMAP paskyras.
 
-- **Pricing:** Offers a tiered structure: Free (up to 3 users, 15-day message history), Starter ($14/user/mo annually), Productive ($24/user/mo annually), Business ($36/user/mo annually). Generally considered good value, especially compared to competitors like Front.
+- **Kainodara:** Siūlo kelių lygių struktūrą: Free (iki 3 naudotojų, 15 dienų žinučių istorija), Starter (14 USD/naudotojui/mėn. mokant kasmet), Productive (24 USD/naudotojui/mėn. mokant kasmet), Business (36 USD/naudotojui/mėn. mokant kasmet). Paprastai laikoma gera verte, ypač lyginant su tokiais konkurentais kaip Front.
 
-- **Considerations:** May be overly complex for individuals or teams with simple needs. Some users report that search performance can depend on the connected email server's speed.
+- **Į ką atsižvelgti:** Gali būti per sudėtinga individualiems naudotojams ar paprastų poreikių komandoms. Kai kurie naudotojai mini, kad paieškos našumas gali priklausyti nuo prijungto el. pašto serverio greičio.
 
-### Spark Mail: The Feature-Rich All-Rounder
+### Spark Mail: funkcijų turtingas universalas
 
-- **Core Focus:** Aims to provide a balanced experience, enhancing individual email productivity with a clean interface while offering solid team collaboration features and broad platform compatibility.
+- **Pagrindinis dėmesys:** Siekia subalansuotos patirties, gerindamas individualų el. pašto produktyvumą švaria sąsaja, kartu siūlydamas solidžias komandinio bendradarbiavimo funkcijas ir platų platformų suderinamumą.
 
-- **Key Features:** Smart Inbox (prioritizes important emails), Gatekeeper (screens new senders), Send Later, Snooze, Reminders, Unified Inbox for multiple accounts, Command Center for quick actions, Team features like shared inboxes (Gmail only currently), commenting, and assignments.
+- **Pagrindinės funkcijos:** Smart Inbox (prioritetizuoja svarbius laiškus), Gatekeeper (tikrina naujus siuntėjus), Send Later, Snooze, Reminders, Unified Inbox kelioms paskyroms, Command Center greitiems veiksmams, komandinės funkcijos kaip bendri gautieji (šiuo metu tik Gmail), komentavimas ir priskyrimai.
 
-- **AI Angle:** Offers Spark +AI on paid plans, providing email summarization, drafting assistance (Compose +AI), and translation capabilities.
+- **DI kampas:** Mokamuose planuose siūlo Spark +AI, suteikiantį el. laiškų santraukas, juodraščių pagalbą (Compose +AI) ir vertimo galimybes.
 
-- **Target Audience:** Individuals looking for a significant upgrade from native email clients (Gmail, Outlook, Apple Mail) without a hefty price tag, users needing apps across multiple operating systems, and teams requiring basic collaboration tools.
+- **Tikslinė auditorija:** Žmonės, norintys reikšmingo atnaujinimo nuo vietinių el. pašto klientų (Gmail, Outlook, Apple Mail) be didelės kainos, naudotojai, kuriems reikia programų skirtingose operacinėse sistemose, ir komandos, kurioms reikia bazinių bendradarbiavimo įrankių.
 
-- **Platforms:** Excellent cross-platform support: Mac, Windows, iOS, Android, and even Apple Watch. Works with Gmail, Outlook, iCloud, Yahoo, Exchange, and general IMAP accounts.
+- **Platformos:** Puikus kelių platformų palaikymas: Mac, Windows, iOS, Android ir net Apple Watch. Veikia su Gmail, Outlook, iCloud, Yahoo, Exchange ir bendromis IMAP paskyromis.
 
-- **Pricing:** Offers a very capable Free tier (includes most core features but adds a "Sent with Spark" signature). Paid plans include Premium Individual (\~$4.99/month annually) and Premium Teams (\~$6.99/user/month annually).
+- **Kainodara:** Siūlo pajėgų Free lygį (įtraukta dauguma pagrindinių funkcijų, bet pridedamas parašas „Sent with Spark“). Mokami planai: Premium Individual (\~4,99 USD/mėn. mokant kasmet) ir Premium Teams (\~6,99 USD/naudotojui/mėn. mokant kasmet).
 
-- **Considerations:** Team collaboration features are less extensive than Missive's. AI functionality requires a paid subscription. Power users might find Superhuman's interface and speed optimizations more compelling.
+- **Į ką atsižvelgti:** Komandinio bendradarbiavimo funkcijos mažiau plačios nei Missive. DI funkcionalumui reikia mokamos prenumeratos. Galingiems naudotojams Superhuman sąsaja ir greičio optimizacijos gali atrodyti patrauklesnės.
 
-### Shortwave: AI-Driven Organization for Gmail
+### Shortwave: DI paremta Gmail organizacija
 
-- **Core Focus:** Leverages AI heavily to automatically organize the inbox and streamline workflows, specifically tailored for Gmail and Google Workspace users. Draws inspiration from the beloved (and defunct) Google Inbox.
+- **Pagrindinis dėmesys:** Stipriai pasitelkia DI automatiniam gautųjų organizavimui ir darbo eigų supaprastinimui, specialiai Gmail ir Google Workspace naudotojams. Įkvėpimo semiasi iš mėgto, bet jau nebeveikiančio Google Inbox.
 
-- **Key Features:** AI-powered Triage (automatically bundles newsletters, notifications, etc.), AI Summaries at the top of emails, AI Drafting that learns your voice, powerful AI Search using natural language, AI-assisted Scheduling, Snooze, Pinning, converting emails to Todos, Team Collaboration (shared threads, comments, assignments).
+- **Pagrindinės funkcijos:** DI paremta atranka (automatiškai grupuoja naujienlaiškius, pranešimus ir pan.), DI santraukos el. laiškų viršuje, DI juodraščiai, mokantys jūsų balso, galinga DI paieška natūralia kalba, DI padedamas planavimas, Snooze, prisegimas, el. laiškų pavertimas Todo, komandinės funkcijos (bendros gijos, komentarai, priskyrimai).
 
-- **AI Angle:** AI is not just a feature; it's woven into the core experience, aiming to proactively manage email and reduce manual effort.
+- **DI kampas:** DI nėra tik funkcija; jis įaustas į pagrindinę patirtį, siekiant proaktyviai valdyti el. paštą ir mažinti rankinį darbą.
 
-- **Target Audience:** Heavy Gmail/Google Workspace users, individuals and teams who want maximum AI assistance with inbox organization and management, those nostalgic for Google Inbox.
+- **Tikslinė auditorija:** Aktyvūs Gmail/Google Workspace naudotojai, žmonės ir komandos, norintys maksimalios DI pagalbos gautųjų organizavimui ir valdymui, taip pat tie, kurie ilgisi Google Inbox.
 
-- **Platforms:** Available on Web, iOS, Android. Offers Progressive Web App (PWA) shortcuts for Mac and Windows desktop use. Exclusively for Gmail and Google Workspace accounts.
+- **Platformos:** Veikia Web, iOS, Android. Siūlo progresyviosios žiniatinklio programos (PWA) sparčiuosius klavišus Mac ir Windows darbalaukio naudojimui. Skirta tik Gmail ir Google Workspace paskyroms.
 
-- **Pricing:** Tiered pricing: Free (limited to 90 days of history, basic AI, includes "Sent with Shortwave" signature), Personal ($7/mo annually), Pro ($14/mo annually), Business ($24/mo annually), Premier ($36/mo annually). More affordable entry point than Superhuman.
+- **Kainodara:** Keli lygiai: Free (ribojama iki 90 dienų istorijos, bazinis DI, įtrauktas „Sent with Shortwave“ parašas), Personal (7 USD/mėn. mokant kasmet), Pro (14 USD/mėn. mokant kasmet), Business (24 USD/mėn. mokant kasmet), Premier (36 USD/mėn. mokant kasmet). Prieinamesnė pradžia nei Superhuman.
 
-- **Considerations:** Limited to the Google ecosystem. The free plan's limitations (especially the mandatory signature and short history) make it less viable for professional use. Some advanced AI features might require familiarization.
+- **Į ką atsižvelgti:** Ribojama Google ekosistema. Nemokamo plano apribojimai, ypač privalomas parašas ir trumpa istorija, daro jį mažiau tinkamą profesionaliam naudojimui. Kai kurioms pažangioms DI funkcijoms gali reikėti priprasti.
 
-### Duet Mail: Personalized AI Efficiency for Gmail Users
+### Duet Mail: suasmenintas DI efektyvumas Gmail naudotojams
 
-- **Core Focus:** Acts as an intelligent AI assistant specifically designed for Gmail, prioritizing learning the user's unique communication style to save hours while maintaining authenticity. It focuses on reducing inbox stress through smart prioritization and context-aware assistance.
+- **Pagrindinis dėmesys:** Veikia kaip išmanus DI asistentas, specialiai sukurtas Gmail, prioritetą teikiantis unikalaus naudotojo komunikacijos stiliaus mokymuisi, kad taupytų valandas ir išlaikytų autentiškumą. Jis orientuotas į gautųjų streso mažinimą per išmanų prioritetų nustatymą ir kontekstą suprantančią pagalbą.
 
-- **Key Features (Leveraging Product Description):**
+- **Pagrindinės funkcijos (remiantis produkto aprašymu):**
 
-  - **AI Triage & Focused Dashboard:** Goes beyond a simple chronological list. AI intelligently analyzes emails for urgency, required actions, and decisions needed, surfacing these critical items in a dedicated dashboard. This directly combats the daily grind of sorting through that average of 121 emails.
+  - **DI atranka ir sutelktas skydelis:** Peržengia paprastą chronologinį sąrašą. DI išmaniai analizuoja laiškus pagal skubą, reikalingus veiksmus ir būtinus sprendimus, iškeldamas šiuos kritinius punktus specialiame skydelyje. Tai tiesiogiai kovoja su kasdieniu darbu rūšiuojant vidutiniškai 121 laišką.
 
-  - **Authentic AI Drafting & Voice Learning:** This is a standout. Duet Mail analyzes your past sent emails to grasp your specific tone, vocabulary, and stylistic nuances. It then suggests multiple draft options that genuinely reflect your voice, not a generic AI's. This tackles the common frustration with robotic-sounding AI replies and meets the need for personalization.
+  - **Autentiškas DI juodraščių rengimas ir balso mokymasis:** Tai išskirtinė savybė. Duet Mail analizuoja anksčiau jūsų išsiųstus laiškus, kad suprastų konkretų toną, žodyną ir stilistinius niuansus. Tada pasiūlo kelis juodraščių variantus, kurie iš tiesų atspindi jūsų balsą, o ne bendrinį DI. Tai sprendžia dažną nusivylimą robotiškais DI atsakymais ir atliepia suasmeninimo poreikį.
 
-  - **Smart Summarization & Contextual Awareness:** Effectively condenses lengthy email threads into actionable summaries. Crucially, it remembers context about projects and relationships mentioned in previous interactions, ensuring summaries and draft suggestions are highly relevant and informed. This saves significant time catching up on complex conversations.
+  - **Išmanios santraukos ir kontekstinis suvokimas:** Veiksmingai sutraukia ilgas el. laiškų gijas į veiksmingas santraukas. Svarbiausia, jis prisimena ankstesnėse sąveikose paminėtą projektų ir santykių kontekstą, todėl santraukos ir juodraščių pasiūlymai tampa labai aktualūs ir informuoti. Tai taupo daug laiko pasivejant sudėtingus pokalbius.
 
-- **AI Angle:** AI is central, but with a strong emphasis on personalization and context. It aims to be less of a tool and more of an assistant that understands you, your work, and your relationships.
+- **DI kampas:** DI yra centrinis, bet su stipriu dėmesiu suasmeninimui ir kontekstui. Jis siekia būti mažiau įrankis ir labiau asistentas, suprantantis jus, jūsų darbą ir santykius.
 
-- **Target Audience:** Ideal for busy professionals, freelancers, consultants, marketers, and startup teams operating within the Gmail ecosystem. Particularly relevant for those drowning in high email volume, needing to generate personalized replies quickly, and wanting assurance that critical tasks or decisions aren't buried in the clutter. Fits well with Duet Mail target personas 1, 2, 4, and 5.
+- **Tikslinė auditorija:** Idealiai tinka užimtiems specialistams, laisvai samdomiems darbuotojams, konsultantams, rinkodaros specialistams ir startuolių komandoms, dirbančioms Gmail ekosistemoje. Ypač aktualu tiems, kurie skęsta dideliame el. laiškų kiekyje, turi greitai generuoti suasmenintus atsakymus ir nori užtikrinti, kad kritinės užduotys ar sprendimai nepasimestų netvarkoje. Gerai atitinka Duet Mail tikslines personas 1, 2, 4 ir 5.
 
-- **Platforms:** Available on the Web and as a Chrome Extension, integrating seamlessly with Gmail.
+- **Platformos:** Veikia žiniatinklyje ir kaip Chrome plėtinys, sklandžiai integruojamas su Gmail.
 
-- **Pricing:** Positioned as a premium tool focused on delivering significant time savings and stress reduction. (Specific pricing details omitted as not provided in source material).
+- **Kainodara:** Pozicionuojamas kaip premium įrankis, orientuotas į reikšmingą laiko taupymą ir streso mažinimą. (Konkrečios kainos nepateiktos šaltinio medžiagoje).
 
-- **Subtle Promotion:** For Gmail users overwhelmed by volume and seeking an AI assistant that truly understands them, tools like [Duet Mail](https://duetmail.com/lt) offer a compelling solution. Its focus on learning your voice and prioritizing what matters can significantly reduce email friction.
+- **Subtili reklama:** Gmail naudotojams, kuriuos slegia apimtis ir kurie ieško DI asistento, iš tiesų juos suprantančio, tokie įrankiai kaip [Duet Mail](https://duetmail.com/lt) siūlo patrauklų sprendimą. Dėmesys jūsų balso mokymuisi ir svarbių dalykų prioritetizavimui gali reikšmingai sumažinti el. pašto trintį.
 
-- **Considerations:** Currently focused on the Gmail ecosystem. Its strengths lie in individual and small team productivity enhancement through personalized AI, rather than the broad, cross-channel team management features seen in tools like Missive.
+- **Į ką atsižvelgti:** Šiuo metu orientuotas į Gmail ekosistemą. Jo stiprybės yra individualaus ir mažų komandų produktyvumo didinimas per suasmenintą DI, o ne plačios, kelių kanalų komandinio valdymo funkcijos, matomos tokiuose įrankiuose kaip Missive.
 
-This variety underscores that the "best" Polymail alternative isn't one-size-fits-all. It depends entirely on identifying your biggest email frustrations and matching them to the tool designed to solve them most effectively.
+Ši įvairovė parodo, kad „geriausia“ Polymail alternatyva nėra vienas sprendimas visiems. Viskas priklauso nuo didžiausių el. pašto nusivylimų nustatymo ir jų suderinimo su įrankiu, sukurtu juos spręsti veiksmingiausiai.
 
-## Feature Comparison: Finding Your Polymail Alternative
+## Funkcijų palyginimas: kaip rasti Polymail alternatyvą
 
-Choosing the right email tool requires looking closely at how key features, pricing, and platform support align with your needs. This table provides a side-by-side comparison to help you quickly identify potential fits:
+Renkantis tinkamą el. pašto įrankį svarbu atidžiai pažiūrėti, kaip pagrindinės funkcijos, kainodara ir platformų palaikymas atitinka jūsų poreikius. Ši lentelė pateikia palyginimą šalia, kad greitai atpažintumėte galimus variantus:
 
-| Feature/Aspect      | Polymail                             | Superhuman                                | Missive                                | Spark Mail                                | Shortwave                            | Duet Mail (Gmail)                                     |
+| Funkcija / aspektas | Polymail                             | Superhuman                                | Missive                                | Spark Mail                                | Shortwave                            | Duet Mail (Gmail)                                     |
 | ------------------- | ------------------------------------ | ----------------------------------------- | -------------------------------------- | ----------------------------------------- | ------------------------------------ | ----------------------------------------------------- |
-| **Primary Focus**   | Sales/Prof. Productivity             | Speed & Efficiency                        | Team Collaboration Hub                 | All-Rounder, Accessibility                | AI Org. (Gmail)                      | Personalized AI Assistant                             |
-| **Starting Price**  | \~$13/user/mo (Paid Only)            | $30/user/mo (Paid Only)                   | Free Tier / $14/user/mo                | Free Tier / \~$5/user/mo                  | Free Tier / $7/user/mo               | (Position as Premium)                                 |
-| **Platforms**       | Web, macOS, Win, iOS (No Android)    | Gmail/Outlook Only; Multi-platform Apps   | Multi-platform Apps; IMAP Support      | Multi-platform Apps; IMAP Support         | Gmail Only; Multi-platform Apps      | Web, Chrome Ext (Gmail)                               |
-| **Key AI Features** | Basic Tracking/Insights              | Adv. Drafting, Summary, Search, Workflows | Drafting, Summary, Rules               | Drafting, Summary (Paid)                  | Deep Org., Drafting, Summary, Search | AI Triage, Authentic Drafting, Summary, Context Aware |
-| **Collaboration**   | Team Features (Templates, Analytics) | Basic Sharing, Comments                   | Extensive (Shared Inbox, Chat, Assign) | Moderate (Shared Inbox - Gmail, Comments) | Moderate (Shared Threads, Comments)  | Individual/Small Team Focus                           |
-| **Unique Strength** | Established Tracking/Sales Features  | Blazing Speed, Keyboard Focus             | Cross-Channel Team Hub                 | Free Tier, Broad Support                  | Deep AI Inbox Org.                   | Voice Learning, AI Triage                             |
-| **Key Limitation**  | No Android, Cost, Aging AI?          | Price, Gmail/Outlook Only                 | Can be complex for solo use            | Team features less robust                 | Gmail Only, Free Limits              | Gmail Only                                            |
+| **Pagrindinis dėmesys** | Pardavimai / prof. produktyvumas | Greitis ir efektyvumas                    | Komandinio bendradarbiavimo centras    | Universalumas, prieinamumas               | DI organizavimas (Gmail)             | Suasmenintas DI asistentas                            |
+| **Pradinė kaina**   | \~13 USD/naud./mėn. (tik mokama)    | 30 USD/naud./mėn. (tik mokama)            | Nemokamas lygis / 14 USD/naud./mėn.    | Nemokamas lygis / \~5 USD/naud./mėn.      | Nemokamas lygis / 7 USD/naud./mėn.   | (Pozicionuojamas kaip premium)                        |
+| **Platformos**      | Web, macOS, Win, iOS (be Android)   | Tik Gmail/Outlook; kelios platformos      | Kelių platformų programos; IMAP        | Kelių platformų programos; IMAP           | Tik Gmail; kelių platformų programos | Web, Chrome plėtinys (Gmail)                          |
+| **Pagrindinės DI funkcijos** | Bazinis sekimas/įžvalgos       | Paž. juodraščiai, santraukos, paieška, darbo eigos | Juodraščiai, santraukos, taisyklės | Juodraščiai, santraukos (mokama)          | Gili organizacija, juodraščiai, santraukos, paieška | DI atranka, autentiški juodraščiai, santraukos, kontekstas |
+| **Bendradarbiavimas** | Komandinės funkcijos (šablonai, analitika) | Bazinis dalijimasis, komentarai      | Platus (bendri gautieji, pokalbiai, priskyrimas) | Vidutinis (bendri gautieji - Gmail, komentarai) | Vidutinis (bendros gijos, komentarai) | Individualus / mažų komandų dėmesys                  |
+| **Išskirtinė stiprybė** | Įsitvirtinusios sekimo / pardavimų funkcijos | Itin didelis greitis, klaviatūros dėmesys | Kelių kanalų komandos centras | Nemokamas lygis, platus palaikymas        | Gili DI gautųjų organizacija         | Balso mokymasis, DI atranka                           |
+| **Pagrindinis ribojimas** | Nėra Android, kaina, senstantis DI? | Kaina, tik Gmail/Outlook              | Gali būti sudėtinga solo naudojimui    | Komandinės funkcijos mažiau tvirtos       | Tik Gmail, nemokamo plano ribos      | Tik Gmail                                             |
 
-This table highlights the trade-offs. Polymail offers established features but faces limitations. Superhuman offers speed at a high cost. Missive excels in team collaboration. Spark provides broad access and a free tier. Shortwave doubles down on AI organization for Gmail. Duet Mail focuses on personalized AI assistance within Gmail.
+Ši lentelė išryškina kompromisus. Polymail siūlo įsitvirtinusias funkcijas, bet turi ribojimų. Superhuman siūlo greitį už aukštą kainą. Missive išsiskiria komandos bendradarbiavimu. Spark suteikia platų prieinamumą ir nemokamą lygį. Shortwave stipriai remiasi DI organizavimu Gmail aplinkoje. Duet Mail sutelkia dėmesį į suasmenintą DI pagalbą Gmail.
 
-## How to Choose the Right Email Tool for You
+## Kaip pasirinkti tinkamą el. pašto įrankį sau
 
-Navigating these options can feel overwhelming, but the "best" Polymail alternative is the one that solves your most significant email challenges. Here’s a quick guide based on common priorities:
+Šios galimybės gali atrodyti slegiančios, bet „geriausia“ Polymail alternatyva yra ta, kuri sprendžia didžiausius jūsų el. pašto iššūkius. Štai trumpas gidas pagal dažnus prioritetus:
 
-- **If you crave SPEED above all else (and use Gmail/Outlook):** [Superhuman](https://superhuman.com/)'s keyboard-driven interface and performance optimizations might justify the premium price. This often resonates with executives and productivity enthusiasts willing to invest in shaving seconds off every action.
+- **Jei labiausiai trokštate GREIČIO (ir naudojate Gmail/Outlook):** [Superhuman](https://superhuman.com/) klaviatūra valdoma sąsaja ir našumo optimizacijos gali pateisinti premium kainą. Tai dažnai tinka vadovams ir produktyvumo entuziastams, pasirengusiems investuoti, kad sutaupytų sekundes kiekviename veiksme.
 
-- **If TEAM COLLABORATION is paramount (managing shared inboxes like support@ or sales@, needing internal chat):** [Missive](https://missiveapp.com/) provides the most comprehensive suite of tools designed specifically for team workflows and cross-channel communication. Ideal for startups and customer-facing teams.
+- **Jei KOMANDINIS BENDRADARBIAVIMAS svarbiausias (bendri gautieji, tokie kaip support@ ar sales@, vidinis pokalbis):** [Missive](https://missiveapp.com/) suteikia išsamiausią įrankių rinkinį, sukurtą specialiai komandinėms darbo eigoms ir kelių kanalų komunikacijai. Idealu startuoliams ir su klientais dirbančioms komandoms.
 
-- **If you need a FREE or AFFORDABLE option with solid features and support for various platforms and email providers:** [Spark Mail](https://sparkmailapp.com/) offers an excellent starting point with its generous free tier and broad compatibility. Great for freelancers or those testing the waters of advanced email clients.
+- **Jei reikia NEMOKAMO arba ĮPERKAMO varianto su solidžiomis funkcijomis ir skirtingų platformų bei el. pašto tiekėjų palaikymu:** [Spark Mail](https://sparkmailapp.com/) yra puikus pradžios taškas dėl dosnaus nemokamo lygio ir plataus suderinamumo. Tinka laisvai samdomiems darbuotojams arba tiems, kurie tik išbando pažangesnius el. pašto klientus.
 
-- **If you're deeply embedded in the GMAIL/GOOGLE WORKSPACE ecosystem and want AI to proactively ORGANIZE your inbox:** [Shortwave](https://www.shortwave.com/)'s intense focus on AI-driven bundling, filtering, and summarization is highly compelling. Appeals to knowledge workers and tech enthusiasts in the Google sphere.
+- **Jei esate giliai GMAIL/GOOGLE WORKSPACE ekosistemoje ir norite, kad DI proaktyviai ORGANIZUOTŲ gautuosius:** [Shortwave](https://www.shortwave.com/) intensyvus dėmesys DI paremtam grupavimui, filtravimui ir santraukoms labai patrauklus. Tinka žinių darbuotojams ir technologijų entuziastams Google aplinkoje.
 
-- **If you're a GMAIL user seeking a truly PERSONALIZED AI assistant that learns your voice, intelligently prioritizes your inbox, and helps you respond authentically faster:** Duet Mail's unique focus on voice learning and AI triage offers a powerful way to reduce email workload while maintaining your personal touch. Perfect for busy professionals, consultants, and marketers who value efficiency and authenticity.
+- **Jei esate GMAIL naudotojas, ieškantis tikrai SUASMENINTO DI asistento, kuris mokosi jūsų balso, išmaniai prioritetizuoja gautuosius ir padeda greičiau atsakyti autentiškai:** Duet Mail išskirtinis dėmesys balso mokymuisi ir DI atrankai siūlo galingą būdą sumažinti el. pašto krūvį išlaikant asmeninį prisilietimą. Puikiai tinka užimtiems specialistams, konsultantams ir rinkodaros specialistams, vertinantiems efektyvumą ir autentiškumą.
 
-_Ask yourself_: What's my biggest email bottleneck? Is it the sheer volume, the time spent drafting replies, collaborating with my team, or simply finding what I need? What's my budget? Which email provider and devices do I use? Answering these questions will guide you to the alternative best suited to transform your relationship with email.
+_Paklauskite savęs_: koks mano didžiausias el. pašto butelio kakliukas? Ar tai apimtis, laikas, praleidžiamas rašant atsakymus, bendradarbiavimas su komanda, ar tiesiog tai, kad nerandu, ko reikia? Koks mano biudžetas? Kokį el. pašto tiekėją ir įrenginius naudoju? Atsakymai į šiuos klausimus nuves prie alternatyvos, geriausiai tinkančios pakeisti jūsų santykį su el. paštu.
 
-## Conclusion: Reclaim Your Time, Choose Your Assistant
+## Išvada: susigrąžinkite laiką, pasirinkite asistentą
 
-Email overload is more than just an annoyance; it's a significant drain on productivity, costing individuals hours each week and organizations billions in lost focus. While tools like Polymail offered early solutions, the demands of the modern inbox and the capabilities of new technologies, especially AI, have paved the way for more powerful alternatives.
+El. pašto perkrova yra daugiau nei nepatogumas; tai reikšmingas produktyvumo nuostolis, kainuojantis žmonėms valandas kiekvieną savaitę, o organizacijoms - milijardus prarasto dėmesio. Nors tokie įrankiai kaip Polymail pasiūlė ankstyvus sprendimus, šiuolaikinių gautųjų reikalavimai ir naujų technologijų, ypač DI, galimybės atvėrė kelią galingesnėms alternatyvoms.
 
-From the lightning speed of Superhuman and the collaborative prowess of Missive to the accessibility of Spark, the AI organization of Shortwave, and the personalized assistance of Duet Mail, there's a solution designed to tackle specific email pain points. These tools leverage intelligent features like AI triage, smart drafting, and automated summarization to move beyond simple management towards actively reducing cognitive load and reclaiming valuable time.
+Nuo žaibiško Superhuman greičio ir Missive bendradarbiavimo galios iki Spark prieinamumo, Shortwave DI organizacijos ir suasmenintos Duet Mail pagalbos - yra sprendimas, sukurtas konkretiems el. pašto skausmo taškams. Šie įrankiai naudoja išmanias funkcijas, tokias kaip DI atranka, išmanūs juodraščiai ir automatinės santraukos, kad pereitų nuo paprasto valdymo prie aktyvaus kognityvinės naštos mažinimo ir brangaus laiko susigrąžinimo.
 
-The perfect email client isn't about having the most features; it's about finding the right set of features that seamlessly integrate into your workflow, solve your biggest frustrations, and ultimately give you back control over your day.
+Tobulas el. pašto klientas nėra tas, kuris turi daugiausia funkcijų; tai tas, kurio funkcijų rinkinys sklandžiai įsilieja į jūsų darbo eigą, sprendžia didžiausius nusivylimus ir galiausiai grąžina jums dienos kontrolę.
 
-Ready to ditch the email dread and find an assistant that works for you? Explore the options that resonate most with your needs. If personalized AI efficiency, authentic communication, and intelligent prioritization within Gmail sound like the key to unlocking your productivity, consider learning more about how tools like [Duet Mail](https://duetmail.com/lt) can act as your intelligent email co-pilot. Choose wisely, and transform your inbox from a source of stress into a streamlined engine for getting things done.
+Pasirengę atsisakyti el. pašto nerimo ir rasti asistentą, kuris dirba jums? Išnagrinėkite variantus, labiausiai atitinkančius jūsų poreikius. Jei suasmenintas DI efektyvumas, autentiška komunikacija ir išmanus prioritetų nustatymas Gmail aplinkoje skamba kaip raktas į produktyvumą, verta sužinoti daugiau apie tai, kaip tokie įrankiai kaip [Duet Mail](https://duetmail.com/lt) gali veikti kaip jūsų išmanus el. pašto antrasis pilotas. Rinkitės apgalvotai ir paverskite gautuosius iš streso šaltinio į tvarkingą darbų atlikimo variklį.

@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mailšunų kinkinių ekskursijoms |AIEl. pašto padėjėjas",
+  "metaDescription": "Duet Mailpadeda lankytojams akimirksniu atsakyti į rezervavimo el. laiškus – net ir iš tako.AIparengti atsakymai su jūsų kelionių tipais, kainomis, politika ir balsu.",
+  "heroBadge": "Pasitiki 200+ mushers",
+  "heroHeadline": "Jūsų el. pašto asistentas, kai esate kelyje",
+  "heroSubline": "Duetsužino jūsų kelionių tipus, kainas, oro sąlygas ir priedus – tada parengia atsakymų el. laiškus juodraščius, kad niekada neprarastumėte užsakymo dėl lėto atsakymo.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "Aurora + šunų kinkinių derinys 4 asmenims?",
+      "preview": "Sveiki! Mano 4 asmenų šeima sausio mėnesį lankosi Fairbanks. Ar siūlote kombinuotą paketą su šunų rogėmis ir auroros apžiūra? Kokia kaina?",
+      "pill": "Atsakyti",
       "pillColor": "red"
     },
     {
-      "from": "James W.",
+      "from": "Jamesas W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Ką turėtume dėvėti?",
+      "preview": "Esame užsisakę 2 valandų košės patirtį šeštadienį. Ką turėtume dėvėti? Ar parūpinate įrangą, ar mums reikia atsivežti savo...",
+      "pill": "Klausimas",
       "pillColor": "amber"
     },
     {
-      "from": "Kim & Brian L.",
+      "from": "Kimas ir Brianas L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "5 ir 8 metų vaikai – ar jie gali susimaišyti?",
+      "preview": "Atsivežame du vaikus (5 ir 8). Ar jie gali važiuoti rogutėmis ar iš tikrųjų padėti košės? Taip pat ar šunims gerai sekasi su mažais vaikais...",
+      "pill": "Užsakymas",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Nauja jūsų įrašo apžvalga",
+      "preview": "Keliautojas neseniai peržiūrėjo jūsų įmonę. Pažiūrėkite, ką jie turėjo pasakyti, ir atsakykite...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "Ei, Rachel! Norėtume priimti jūsų šeimą. Mūsų Aurora + Mush Combo kaina 175 USD asmeniui – 1,5 valandos pasivažinėsite rogutėmis takais sutemus, tada karštą kakavą prie laužo, kol laukiame šviesų. Suteikiama visa šalto oro įranga. 12 metų ir jaunesni vaikai kainuoja 125 USD. Norite, kad užsakyčiau jus sausio mėnesiui?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "tour",
+    "bookingUnit": "turas",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Už du išsaugotus užsakymus mokamaDuetmetus."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duetautomatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, po to klausimus, o triukšmą niekada. Daugiau netrūksta kelionės užklausos, paslėptos poTripAdvisorįspėjimais.",
+  "draftSubtitle": "Duetsužino jūsų kelionių tipus, kainas ir toną. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia pakuotės informacija, ką dėvėti ir priedais. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "\"Ar yra užsakymų šį savaitgalį?\" „Paruoškite atsakymą apie auroros derinį“.Duetžino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "Aurora + šunų kinkinių derinys 4 asmenims?",
+      "preview": "Mano 4 asmenų šeima sausio mėnesį lankosi Fairbankse...",
+      "pill": "Atsakykite dabar",
       "pillColor": "red"
     },
     {
-      "from": "James W.",
+      "from": "Jamesas W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "Re: Užsakymas patvirtintas – šeštadienį 13 val",
+      "pill": "Užsakyta",
       "pillColor": "blue"
     },
     {
       "from": "Kim L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "Ar mūsų vaikai (5 ir 8) gali važiuoti kartu?",
+      "pill": "Klausimas",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "Viatorius",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Jūsų savaitės užsakymo suvestinė",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Alaska Gear Co.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "Žiemos išpardavimas – 30% nuolaida pakinktams",
+      "pill": "Akcijos",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "Re: Aurora + šunų kinkinių derinys 4?",
+    "originalFrom": "Rachel T. rašė:",
+    "originalText": "Sveiki! Mano 4 asmenų šeima sausio mėnesį lankosi Fairbanks. Ar siūlote kombinuotą paketą su šunų rogėmis ir auroros apžiūra? Kokia kaina?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "Ei, Rachel!",
+      "Mūsų Aurora + Mush Combo kaina 175 USD asmeniui – 1,5 valandos pasivažinėjimas rogutėmis prieblandoje, po to karšta kakava ir auroros apžiūra prie laužo. 12 metų ir jaunesni vaikai kainuoja 125 USD.",
+      "Suteikiama visa šalto oro apranga (batai, seilinukai, pirštinės, veido kaukės). Tiesiog apsirenkite šiltais sluoksniais apačioje.",
+      "Norite, kad užsakyčiau jūsų 4 asmenų šeimą sausio mėnesiui?"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "„Aurora + Mush Combo“ kainuoja 175 USD asmeniui – 1,5 valandos pasivažinėjimas rogutėmis",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "Žino jūsų kelionių tipus ir kainas",
+      "Juodraščiai jūsų balse",
+      "Apima įrangos ir priedų detales",
+      "Laikui bėgant išmoksta"
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "Ar bus užsakymų šį savaitgalį? Oras atrodo prastas.",
+    "agentResponse": "Šį savaitgalį užsisakėte 3 ekskursijas: apsilankymas veislyne šeštadienį 10 val. (2 svečiai), 2 valandų trukmės košė šeštadienį 1PM(4 svečiai) ir auroros derinys sekmadienį 4PM(6 svečiai). Sekmadienio grupė paklausė apie atšaukimo politiką. Norite, kad pateikčiau visų trijų orų naujinį?",
+    "followUp": "Paruoškite sekmadienio auroros grupės orų naujinimą",
+    "followUpResponse": "Atlikta! Aš parengiau atsakymą sekmadienio auroros grupei, pranešdamas, kad stebite sąlygas ir patvirtinsiu iki šeštadienio vakaro. Tai apima jūsų planavimo keitimo politiką ir alternatyvias datas. Paruošta peržiūrėti ir išsiųsti."
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "Mėgsta mushers ir kelionių organizatoriai",
   "testimonials": [
     {
-      "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "name": "Ryanas H.",
+      "title": "Šunų rogių kelionių organizatorius, AK",
+      "quote": "Esu kelyje 6 valandas per parą ir naudoju nulinę mobiliojo ryšio paslaugą. Tuo metu, kai grįžau, pusė užsakymų užklausų nukeliavo į kitą aprangą.Duetatsakymų juodraščiai su išsamia mano kelionių informacija ir kainomis – svečiai atsakys per kelias minutes, o ne valandas.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "quote": "Siūlome apsilankymus veislyne, pasivažinėjimą košės ir auroros derinius – į kiekvieną el. laišką reikia kitokio atsakymo.Duetper savaitę išsiaiškino visus tris kelionių tipus ir dabar kiekvieną kartą rengia atsakymų juodraščius, atitinkančius reikiamą paketą.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "name": "Travisas B.",
+      "title": "Šunų kinkinių vadovas, MN",
+      "quote": "Kiekvieną vakarą praleisdavau atsakydamas į tuos pačius klausimus apie tai, ką dėvėti, amžiaus ribas ir šunis.Duettvarko visa tai. Grįžtu namo iš tako, viskas paruošta ir laukia.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "quote": "Žiemą oro sąlygų atšaukimai yra nuolatiniai.Duetparengia planavimo atsakymų juodraščius su mūsų politika ir alternatyviomis datomis, kol aš net neturiu galimybės patikrinti savo telefono. Svečiams patinka greitas atsakymas.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
-      "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "title": "Šeimos šunų kinkinių nuotykiai, CO",
+      "quote": "Tėvai visada klausia, ar jų vaikai gali muštis, ar šunys draugiški, ką dėvėti – tie patys 10 klausimų.Duetišmoko kiekvieną atsakymą ir puikiai juos parengia. Tai tarsi savęs klonavimas el. paštui.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Praleiskite žiemą takelyje su savo šunimis,\nne jūsų pašto dėžutėje.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "KaipDuetelgiasi su oro atšaukimais ir auroros neapibrėžtumu?",
+      "answer": "Duetsužino jūsų atšaukimo ir tvarkaraščio keitimo politiką. Kai svečias siunčia el. laiškus apie susirūpinimą keliančius orus ar auroros matomumą, jis parengia atsakymo juodraštį su jūsų politika, alternatyviomis datomis ir bet kokia svarbia informacija, pvz., stebėjimo sąlygomis ir patvirtinimu arčiau kelionės. Jūs peržiūrite ir siunčiate."
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "Siūlau kelių tipų keliones su skirtingomis kainomis ir priedais. ArDuetgali juos išlaikyti tiesiai?",
+      "answer": "Taip.Duetsužino apie kiekvieną jūsų kelionių tipą – apsilankymus veislyne, košės patirtį, auroros derinius, fotografijos priedus, transportavimo paketus – kartu su jų kainomis, trukme ir tuo, kas įskaičiuota. Kai gaunama užklausa, ji atitinka tinkamą apžvalgą ir parengia atsakymo juodraštį su teisinga informacija."
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "Už 150 USD už kelionę už du išsaugotus užsakymus sumokama daugiau nei už metusPro."
 }

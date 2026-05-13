@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mailpasiplaukiojimui karšto oro balionu |AIEl. pašto padėjėjas",
+  "metaDescription": "Duet Mailpadeda oro balionų pilotams akimirksniu atsakyti į rezervacijos el. laiškus – net ir saulėtekio metu.AIparengti atsakymai su jūsų kainodara, orų politika ir balsu.",
+  "heroBadge": "Pasitiki daugiau nei 200 oro balionų pilotų",
+  "heroHeadline": "Jūsų el. pašto asistentas, kai esate ore",
+  "heroSubline": "Duetsužino jūsų skrydžių tvarkaraščius, kainas ir oro sąlygas – tada parengia atsakymų el. paštu juodraščius, kad niekada neprarastumėte užsakymo, kai paleisite saulei tekant.",
   "inboxEmails": [
     {
-      "from": "Rachel & Dan T.",
+      "from": "Rachel ir Danas T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Ar yra saulėtekio skrydis 2 asmenims – šeštadienis?",
+      "preview": "Sveiki! Mes su vyru lankome savo jubiliejų ir norėtume šį šeštadienį užsisakyti kelionę saulėtekio balionu. Ar turite vietos? Kokia kaina vienam asmeniui?",
+      "pill": "Atsakyti",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "Kevinas L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "Ar skrisime rytoj? Vėjo prognozės atrodo apytiksliai",
+      "preview": "Esame rezervuoti rytojaus rytui, bet orų programėlė rodo 15 mylių per valandą gūsius. Ar vis dar skrendame, ar turėtume planuoti kitą laiką...",
+      "pill": "Klausimas",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark P.",
+      "from": "Jennifer ir Markas P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "Privatus skrydis už pasiūlymą – kaina?",
+      "preview": "Noriu nustebinti savo merginą privačiu pasiplaukiojimu oro balionu ir pasipiršti skrydžio metu. Kiek kainuoja privatus skrydis ir ar galite padėti koordinuoti...",
+      "pill": "Užsakymas",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "Ką turėtume dėvėti? Kur susitinkame?",
+      "preview": "Esame rezervuoti sekmadienio rytui. Ką turėtume dėvėti ir kur tiksliai yra susitikimo vieta? Be to, kiek laiko trunka visa patirtis...",
+      "pill": "Klausimas",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Sveiki, Rachel! Šeštadienį dirba 2. Saulėtekio skrydžiai prasideda apie 6.15 val. – tikslų laiką ir susitikimo vietą patvirtinsime išvakarėse, atsižvelgdami į vėjus. Tai 250 USD asmeniui ir apima maždaug valandą buvimą ore ir šampano tostą po nusileidimo. Apsirenkite sluoksniais ir avėkite uždarus batus. Nori, kad rezervuočiau tavo vietas?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "skrydis",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "Vienas sutaupytas skrydis sumokamasDuetmetus."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duetautomatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, po to – klausimus apie orą, o triukšmą – niekada. Nebereikia praleisti užklausos apie skrydį, paslėptą po informacinių biuletenių įspėjimais.",
+  "draftSubtitle": "Duetsužino jūsų kainodarą, orų politiką ir toną. Pasiekus užsakymo užklausą, pateikiamas išsamus atsakymo juodraštis su skrydžio informacija, susitikimo informacija ir tuo, ką dėvėti. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "\"Kas rytojaus manifeste?\" „Ar galimi atšaukimai dėl oro sąlygų?Duetžino jūsų gautuosius ir kalendorių – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Ar yra saulėtekio skrydis 2 asmenims – šeštadienis?",
+      "preview": "Su vyru norėtume užsisakyti kelionę saulėtekio balionu...",
+      "pill": "Atsakykite dabar",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "Kevinas L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: Užsakymas patvirtintas – sekmadienį 6:15 val",
+      "pill": "Užsakyta",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "Ką turėtume dėvėti skrydžio metu?",
+      "pill": "Klausimas",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "Nauja jūsų įrašo apžvalga",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Balloon Federation",
+      "from": "Oro balionų federacija",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
+      "subject": "Kovo mėnesio saugos biuletenis ir atnaujinimo priminimas",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: Saulėtekio skrydis 2 asmenims – ar yra šeštadienis?",
+    "originalFrom": "Rachel T. rašė:",
+    "originalText": "Sveiki! Mes su vyru lankome savo jubiliejų ir norėtume šį šeštadienį užsisakyti kelionę saulėtekio balionu. Ar turite vietos? Kokia kaina vienam asmeniui?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Sveiki, Rachel!",
+      "Šeštadienis yra atviras 2 asmenims. Skrydžiai su saulėtekiu kainuoja 250 USD/asm. Į kainą įskaičiuota maždaug valanda buvimo ore ir tostas su šampanu po nusileidimo.",
+      "Pradedame apie 6.15 val. – Tikslų susitikimo laiką ir vietą atsiųsiu vakare, atsižvelgdami į vėjo sąlygas. Apsirenkite sluoksniais ir avėkite uždarus batus.",
+      "Su jubiliejumi! Nori, kad rezervuočiau tavo vietas?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Šeštadienis yra atviras 2 asmenims. Saulėtekio skrydžiai kainuoja 250 USD/asm",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Žino jūsų kainas ir skrydžių tvarkaraštį",
+      "Juodraščiai jūsų balse",
+      "Automatiškai įtraukiama išsami susitikimo informacija",
+      "Laikui bėgant išmoksta"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Kas yra rytojaus manifeste ir kaip atrodo orai?",
+    "agentResponse": "Rytojaus saulėtekio skrydis turi 6 keleivius, užsakytus 2 rezervacijose: Thompsono vakarėlyje (4) ir Lee poroje (2). Dabartinė prognozė rodo, kad vėjo greitis yra 4 mylių per valandą, o dangus – giedras starto metu. Atšaukimo el. laiškų dar nėra. Norite, kad atsiųsčiau susitikimo vietos patvirtinimus?",
+    "followUp": "Taip, siųskite patvirtinimus abiem pusėms su susitikimo laiku 6:15 val",
+    "followUpResponse": "Atlikta! 6:15 ryto paleidimo lauke parengiau susitikimo vietos patvirtinimus ir Thompsonams, ir Leesams, ką dėvėti ir nurodymus. Paruošta peržiūrėti ir išsiųsti."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Mėgsta oro balionų pilotai ir operatoriai",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "Kapitonas Mike'as L.",
+      "title": "Oro baliono pilotas, MN",
+      "quote": "Esu vieno žmogaus operacija – skraidau, įgula, atsakau į el. Išskyrus 5 val. ryto, aš išpučiu, neatsakau.Duetrengia atsakymų juodraščius į kiekvieną „ar skrisime rytoj?“ žinutę per naktį. Atsibundu, patikrinu orą ir paspaudžiu siųsti.",
       "avatarKey": "michael"
     },
     {
-      "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "name": "Shannon ir Jake B.",
+      "title": "Kelionės oro balionais ištisus metus, UT",
+      "quote": "Kasdien gauname tuos pačius 10 klausimų. Ką apsirengti, kur susitikti, ką daryti, jei pučia vėjas.Duetvisa tai sužinojo ir dabar sukuria puikių atsakymų juodraščius. Nuo valandos el. laiškų kiekvieną vakarą perėjome iki penkių minučių.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "name": "Carlosas R.",
+      "title": "Saulėtekio skrydžių operatorius, AZ",
+      "quote": "Sezono metu 4-6 skrydžiai per savaitę ir kiekvienas keleivis siunčia el. laiškus bent du kartus prieš skrydį.Duetsprendžia klausimus prieš skrydį, kad galėčiau sutelkti dėmesį į tai, kad žmonėms būtų suteiktas geriausias jų gyvenimo rytas.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "„Balloon Company“ bendrasavininkis, NM",
+      "quote": "Orų atšaukimai sugadino visą mano dieną – 8 keleiviams visiems reikėjo asmeninių el. laiškų dėl planavimo. DabarDuetparengia visus juodraščius, įtraukdami mūsų rezervavimo keitimo politiką. Sutaupo valandų atšaukimo rytais.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "name": "Marija D.",
+      "title": "Skrydžio oro balionu operacijos, CO",
+      "quote": "Siūlomiems skrydžiams reikia tiek daug koordinavimo pirmyn ir atgal.Duetsuprato, kaip mes juos tvarkome – laiką, kodinius žodžius, šampano sąranką. Ji rengia atsakymų juodraščius, kuriuos vos turiu paliesti.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Praleiskite rytą danguje,\nne jūsų pašto dėžutėje.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "KaipDuettvarko orų atšaukimo el. laiškus?",
+      "answer": "Duetsužino jūsų atšaukimo ir rezervavimo iš naujo taisykles. Kai atšaukiate skrydį dėl oro sąlygų, kiekvienam nukentėjusiam keleiviui galite parengti asmeninius el. laiškus dėl planavimo keitimo – su jūsų politika, galimomis datomis ir jūsų tonu. Jūs peržiūrite ir siunčiate. Tai, kas anksčiau užtrukdavo valandą individualiems atsakymams, trunka kelias minutes."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "ArDuetgali susidoroti su „ar skrisime rytoj“? laiškų, kurie užplūsta kiekvieną vakarą?",
+      "answer": "Taip – ​​tai vienas dažniausių el. laiškų, apie kuriuos mums pasakoja balionų operatoriai.Duetsužino apie jūsų oro sąlygas ir parengia įtikinamų atsakymų juodraščius, paaiškinančius jūsų sprendimo procesą, kada skambinsite paskutinį kartą ir ko tikėtis. Kai ryte patvirtinsite eiti/neeiti, naujinimų juodraštis gali būti pateiktas visiems manifeste."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "250 USD asmeniui su 4 keleiviais vienam skrydžiui už vieną sutaupytą užsakymą sumokama daugiau neiPrometus."
 }

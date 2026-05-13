@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mailnardymo parduotuvėms |AIEl. pašto padėjėjas",
+  "metaDescription": "Duet Mailpadeda nardymo parduotuvių savininkams irPADIinstruktoriams nedelsiant atsakyti į sertifikavimo užklausas, kelionių užsakymus ir klausimus apie įrangą – net ir po vandeniu.",
+  "heroBadge": "Pasitiki daugiau nei 300 nardymo operatorių",
+  "heroHeadline": "Jūsų el. pašto asistentas, kai esate po vandeniu",
+  "heroSubline": "Duetsužino jūsų nardymo vietas, sertifikavimo reikalavimus, kainas ir balsą – tada parengia el. pašto atsakymų juodraščius, kad niekada neprarastumėte užsakymo būdami laive.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "Atviro vandens sertifikatas – ar yra?",
+      "preview": "Sveiki! Aš lankausi pirmąją rugpjūčio savaitę ir noriu gauti Open Water sertifikatą. Kiek dienų tai trunka ir kas įskaičiuota?",
+      "pill": "Atsakyti",
       "pillColor": "red"
     },
     {
-      "from": "Kevin & Amy L.",
+      "from": "Kevinas ir Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "6 asmenų grupė nardymui su 2 tankais šeštadienį",
+      "preview": "Turime 6 sertifikuotus narus ir norime šį šeštadienį užsisakyti rytinį nardymą 2 tankais. Ar turite vietos? Kokia kaina vienam asmeniui...",
+      "pill": "Užsakymas",
       "pillColor": "blue"
     },
     {
-      "from": "Jason M.",
+      "from": "Jasonas M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "BCDnuoma savaitgaliui?",
+      "preview": "Ei, aš esu sertifikuotas, bet keliauju lengvai. Ar nuomojate BCD ir reguliatorius? Man jų reikėtų nuo penktadienio iki sekmadienio...",
+      "pill": "Klausimas",
       "pillColor": "amber"
     },
     {
-      "from": "PADI eLearning",
+      "from": "PADIel. mokymasis",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
+      "subject": "Studentų siuntimas: Rachel Torres",
+      "preview": "Studentas baigė el. mokymąsi ir pasirinko jūsų nardymo centrą, skirtą mokymams uždarame ir atvirame vandenyje...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "Ei, Rachel! Norėtume gauti sertifikatą. Atviro vandens kursas trunka 3 dienas - vieną dieną baseine ir dvi dienas nardymo vandenyne. Visa įranga yra įtraukta. Rugpjūtis atviras. Norite rezervuoti vietą pirmai savaitei?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
-    "lostPerMonth": "3 trips (6 divers each)",
+    "bookingUnit": "nardyti",
+    "lostPerMonth": "3 kelionės (po 6 narus)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "Už vieną išsaugotą grupinį nardymą per metus mokamaDuet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duetautomatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite sertifikavimo užklausas ir nardymo užsakymus, antra – klausimus apie įrangą irPADIįspės, kai būsite pasiruošę. Nebereikia grupinio užsakymo, paslėpto įrangos informaciniuose biuleteniuose.",
+  "draftSubtitle": "Duetsužino apie jūsų nardymo vietas, sertifikatų reikalavimus ir kainas. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia kelionės informacija, kas įtraukta ir ką atsinešti. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "\"Kiek narų yra užsakyta šeštadieniui?\" „Atsakymo projektas Rachelei, kai pasiekiamas atviras vanduo“.Duetžino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "Atviro vandens sertifikatas – ar yra?",
+      "preview": "Aš lankausi pirmąją rugpjūčio savaitę ir noriu gauti sertifikatą...",
+      "pill": "Atsakykite dabar",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "Kevinas L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Re: Užsakymas patvirtintas – šeštadienis nardymas 2 tankais",
+      "pill": "Užsakyta",
       "pillColor": "blue"
     },
     {
-      "from": "Jason M.",
+      "from": "Jasonas M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "BCDir reguliatoriaus nuoma šį savaitgalį?",
+      "pill": "Klausimas",
       "pillColor": "amber"
     },
     {
       "from": "DiveBuddy",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
+      "subject": "Nauja apžvalga apie jūsų įrašą",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Dive Gear Express",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Vasaros išpardavimas – 25% nuolaida hidrokostiumams",
+      "pill": "Akcijos",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "Re: Atviro vandens sertifikatas – ar yra?",
+    "originalFrom": "Rachel T. rašė:",
+    "originalText": "Sveiki! Aš lankausi pirmąją rugpjūčio savaitę ir noriu gauti Open Water sertifikatą. Kiek dienų tai trunka ir kas įskaičiuota?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "Ei, Rachel!",
+      "Norėtume gauti sertifikatą!PADIOpen Water kursas trunka 3 dienas – vienas baseino seansas ir du nardymai vandenyne mūsų rife. Visa įranga yra įtraukta.",
+      "Rugpjūtis šiuo metu atviras. Dauguma studentų pradeda pirmadienį, todėl baigia trečiadienį.",
+      "Nori rezervuoti vietą?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "PADIAtviro vandens kursas trunka 3 dienas",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "Žino jūsų kursus ir kainas",
+      "Juodraščiai jūsų balse",
+      "Automatiškai įtraukiami sertifikato reikalavimai",
+      "Laikui bėgant išmoksta"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "Kiek narų užsakyta šeštadieniui?",
+    "agentResponse": "Remiantis gautaisiais, turite 8 narus, patvirtintus šeštadienio rytiniam nardymui 2 tankais – Kevino 6 žmonių grupė ir 2 individualūs užsakymai. Jūs taip pat laukiate Jasono užklausos dėl įrangos nuomos tai pačiai kelionei. Nori, kad parašyčiau atsakymo projektą?",
+    "followUp": "Paruoškite atsakymą Rachelei su išsamia atviro vandens kurso informacija",
+    "followUpResponse": "Atlikta! Parašiau Reičelei atsakymą, patvirtinantį 3 dienųPADIatviro vandens kursą su baseinu ir nardymu vandenyne. Jame minimas rugpjūčio mėn. prieinamumas ir jūsų standartinės įrangos politika. Paruošta peržiūrėti ir išsiųsti."
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "Mėgsta nardymo operatorių",
   "testimonials": [
     {
-      "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "name": "Kapitonas Mike'as T.",
+      "title": "Nardymo valties kapitonas, FL",
+      "quote": "Nuo penktadienio iki sekmadienio plaukioju laivais, o pirmadienį parduotuvė dirba tik kelias valandas. Kol esu po vandeniu, daugėja klausimų dėl sertifikavimo ir kelionių užklausų.Duetpateikia atsakymų juodraščius su mano kainomis, nardymo vietomis ir tuo, kas įtraukta – peržiūriu juos tarp nardymų.",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "name": "Jen ir Mark S.",
+      "title": "PADINardymo centras, HI",
+      "quote": "Tuose pačiuose laivuose nardome, nardome ir stebime banginius. El. laiškų įvairovė yra beprotiška – klausimai apie sertifikatus, grupiniai užsakymai, įrangos nuoma, orų patikrinimai.Duetsurūšiuoja viską ir parengia atsakymų juodraščius, kurie žino skirtumą. Absoliutus gelbėtojas.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "name": "Džeikas R.",
+      "title": "Nuolaužų nardymo chartijos, FL",
+      "quote": "Pusė mano el. laiškų yra „kokio sertifikato man reikia nardymui su nuolaužomis?“ o kita pusė yra \"ar man reikia savo įrangos?\"Duetabu valdo autopilotą. Mano atsakymo laikas svyravo nuo valandų iki minučių.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "title": "Nardymo parduotuvės savininkas, CA",
+      "quote": "Vasarą per dieną gauname daugiau nei 30 el. laiškų apie kursus, kelionių prieinamumą ir įrangą. Prarasdavau užsakymus parduotuvėms, kurios atsakydavo greičiau. DabarDuetrengia viską, o aš tiesiog paspaudžiu siųsti tarp pamokų.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "title": "Nardymo instruktorius ir vadovas, NC",
+      "quote": "Rytais vedu kursus, o po pietų – nardymo vedlį. Tiesiogiai nėra laiko atsakyti į el.Duetsužinojo apie mano kursų tvarkaraštį, kainas ir net mano atšaukimo politiką. Klientai negali pasakyti skirtumo.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Praleisk dienas po vandeniu,\nnėra palaidotas jūsų pašto dėžutėje.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "ArDuetsupranta sertifikavimo lygius ir kurso reikalavimus?",
+      "answer": "Taip.Duetmokosi konkrečių jūsų kursų – Open Water, Advanced, Rescue, Divemaster – kartu su būtinomis sąlygomis, trukme, kainomis ir tuo, kas įskaičiuota. Kai kas nors klausia, kaip gauti sertifikatą,Duetparengia atsakymo juodraštį, nurodydamas tinkamą kurso informaciją, tvarkaraštį ir kitus veiksmus. Jūs peržiūrite ir siunčiate."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Visą dieną esu laive arba po vandeniu. Ar galiu naudotiDuetiš savo telefono?",
+      "answer": "Taip.Duetveikia suGmailirOutlook, todėl veikia visur, kur veikia el. paštas, įskaitant telefoną. Juodraščiai automatiškai rodomi gautuosiuose. Tarp nardymo ar grįžimo prie doko peržiūrite ir siunčiate vienu bakstelėjimu. Dauguma nardymo operatorių mums sako, kad sezono piko metu jie sutaupo 1–2 valandas el. pašto laiko per dieną."
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "150 USD už nardymą su 6 asmenų grupe, viena sutaupyta kelionė kainuoja daugiau nei metusPro."
 }

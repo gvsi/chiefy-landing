@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mailuž žvejybos chartiją |AIEl. pašto padėjėjas",
+  "metaDescription": "Duet Mailpadeda žvejybos užsakomųjų skrydžių kapitonams akimirksniu atsakyti į rezervavimo el. laiškus – net iš vandens.AIparengtus atsakymus su jūsų kainodara, politika ir balsu.",
+  "heroBadge": "Pasitiki daugiau nei 500 užsakomųjų kapitonų",
+  "heroHeadline": "Jūsų el. pašto asistentas, kai esate ant vandens",
+  "heroSubline": "Duetsužino jūsų kainas, politiką ir balsą – tada parengia el. pašto atsakymų juodraščius, kad niekada neprarastumėte užsakymo dėl lėto atsakymo.",
   "inboxEmails": [
     {
-      "from": "Sarah M.",
+      "from": "Sara M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "Laisvas liepos 12 d. 4 asmenims?",
+      "preview": "Sveiki! Mes esame 4 žmonių grupė, norime užsisakyti žvejybos kelionę liepos 12 d. Ar turite laisvų vietų? Kokia visos dienos kaina?",
+      "pill": "Atsakyti",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "Davidas K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Ką turėtume atnešti?",
+      "preview": "Sveiki, mes rezervuoti šeštadieniui. Greitas klausimas – ką turėtume atsinešti? Ar suteikiate meškeres ir reikmenis, ar turėtume atsinešti savo...",
+      "pill": "Klausimas",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "Mike'as ir Lisa R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Reikia perkelti į sekmadienį",
+      "preview": "Atsiprašome už pavėluotą pranešimą, bet šeštadienį orų prognozės atrodo apytiksliai. Ar galime vietoj to pereiti į sekmadienį? Tuo pačiu metu...",
+      "pill": "Užsakymas",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Nauja jūsų įrašo apžvalga",
+      "preview": "Keliautojas neseniai peržiūrėjo jūsų įmonę. Pažiūrėkite, ką jie turėjo pasakyti, ir atsakykite...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Ei, Sara! Liepos 12 d. dirba 4. Visos dienos kelionės vyksta 8 valandas, nuo 6 val. Į kainą įskaičiuotos visos meškerės, reikmenys, masalas ir licencijos – tiesiog pasiimkite kremą nuo saulės, vandens ir aušintuvą savo laimikiui. Nori, kad užrakinčiau?",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "chartija",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "Už vieną išsaugotą užsakymą sumokamaDuetmetus."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duetautomatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, po to klausimus, o triukšmą niekada. Daugiau netrūksta kelionės užklausos, paslėptos poTripAdvisorįspėjimais.",
+  "draftSubtitle": "Duetsužino jūsų kainodarą, politiką ir toną. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia kelionės informacija, kainomis ir tuo, ką atsinešti. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "„Kokios dienos atidarytos kitą savaitę? „Atsakymo projektas Sarai su pasiekiamumu“.Duetžino jūsų gautuosius ir kalendorių – tiesiog paklauskite.",
   "categorizationEmails": [
     {
-      "from": "Sarah M.",
+      "from": "Sara M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "Laisvas liepos 12 d. 4 asmenims?",
+      "preview": "Esame 4 žmonių grupė, norime užsisakyti kelionę į žvejybą...",
+      "pill": "Atsakykite dabar",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "Davidas K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: Užsakymas patvirtintas – šeštadienį 7 val",
+      "pill": "Užsakyta",
       "pillColor": "blue"
     },
     {
-      "from": "Mike R.",
+      "from": "Mike'as R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Ką turėtume atsinešti šeštadienį?",
+      "pill": "Klausimas",
       "pillColor": "amber"
     },
     {
       "from": "FishingBooker",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Jūsų savaitės užsakymo suvestinė",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "West Marine",
+      "from": "Vakarų jūrų pėstininkas",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "Pavasario išpardavimas – 20% nuolaida reikmenims",
+      "pill": "Akcijos",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: Prieinamumas liepos 12 d. 4 žmonėms?",
+    "originalFrom": "Sarah M. rašė:",
+    "originalText": "Sveiki! Mes esame 4 žmonių grupė, norime užsisakyti žvejybos kelionę liepos 12 d. Ar turite laisvų vietų? Kokia visos dienos kaina?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "Ei, Sara!",
+      "Liepos 12 d. yra atvira 4 žmonėms. Visos dienos kelionės kainuoja 500 USD ir trunka 8 valandas nuo 6 val. iš prieplaukos.",
+      "Į kainą įskaičiuoti visi įrankiai, masalas ir žvejybos licencijos – tiesiog pasiimkite kremą nuo saulės ir aušintuvą.",
+      "Nori, kad užrakinčiau?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "Liepos 12 d. dirba 4. Visos dienos kelionės kainuoja 500 USD",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "Žino jūsų kainas ir prieinamumą",
+      "Juodraščiai jūsų balse",
+      "Automatiškai įtraukiama kelionės informacija",
+      "Laikui bėgant išmoksta"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Kurios dienos dar bus atviros kitą savaitę?",
+    "agentResponse": "Remiantis jūsų kalendoriumi, kitos savaitės antradienį, ketvirtadienį ir šeštadienį turite darbo vietų. Pirmadienis ir trečiadienis yra visiškai rezervuoti (po 2 užsakomuosius reisus). Norite, kad šiomis datomis parašyčiau atsakymą į visus laukiančius klausimus?",
+    "followUp": "Sudarykite atsakymo Sarah projektą, nurodydami liepos 12 d",
+    "followUpResponse": "Atlikta! Parašiau atsakymą Sarai, patvirtinantį liepos 12 d. 4 svečiams už 500 USD. Tai apima jūsų standartinę kelionės informaciją ir susitikimo vietą. Paruošta peržiūrėti ir išsiųsti."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Mėgsta užsakomųjų skrydžių kapitonai",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
+      "name": "Kapitonas Mike'as D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "quote": "Piko sezono metu prarasčiau 2–3 užsakymus per savaitę vien todėl, kad negalėjau pakankamai greitai atsakyti iš laivo.Duetparengia atsakymų juodraščius su mano kainodara ir išsamia kelionės informacija – tarp gaudymų tiesiog paspaudžiau siųsti.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "Sara ir Tomas K.",
+      "title": "Šeimos chartijos verslas, ARBA",
+      "quote": "Plaukiame dviem laivais, o el. laiškų skaičius vasarą yra beprotiškas.Duetsurūšiuoja užsakymo užklausas iš visų kitų ir parengia atsakymų juodraščius, kurie skamba lygiai taip pat, kaip mes. Absoliutus žaidimo keitiklis.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "name": "Džeikas R.",
+      "title": "Pakrantės žvejybos vadovas, Teksasas",
+      "quote": "Kiekvieną vakarą praleisdavau valandą laiko atsakydamas į tuos pačius prieinamumo klausimus. Dabar tai tvarkoDuet. Mano atsakymo laikas truko nuo valandų iki minučių ir nuo to laiko nepraradau užsakymo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "title": "Chartijos biuro vadovas, HI",
+      "quote": "Tvarkyti elektroninius laiškus 4 kapitonams buvo visu etatu.Duetviską suskirsto į kategorijas ir parengia atsakymų juodraščius, nurodydamas tinkamą valtį, tinkamą kainą, tinkamą kapitoną. Lyg turėčiau kitą mane.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Andrea S.",
       "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "quote": "Skeptiškai žiūrėjo, kadAIgali tvarkyti žvejybos užsakomuosius el. Tačiau sužinojome apie mūsų kelionių tipus, kas įskaičiuota, netgi atšaukimo politiką. Klientai negali pasakyti skirtumo.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Praleiskite piką ant vandens,\nne jūsų pašto dėžutėje.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "ArDuettinka rezervavimo ir užimtumo el. laiškams?",
+      "answer": "absoliučiai.Duetsužino jūsų kelionių tipus, kainas, prieinamumą ir politiką. Kai gaunama užsakymo užklausa, jame parengiamas išsamus atsakymas su reikiama informacija – kaina, kas įtraukta, susitikimo vieta, ką atsinešti. Jūs peržiūrite ir bakstelėkite siųsti."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Aš visą dieną ant vandens. Ar galiu naudotiDuetiš savo telefono?",
+      "answer": "Taip.Duetveikia suGmailirOutlook, todėl veikia visur, kur veikia el. paštas, įskaitant telefoną. Juodraščiai pasirodo automatiškai. Tarp gaudynių peržiūrite ir išsiunčiate vienu bakstelėjimu. Dauguma kapitonų mums sako, kad sezono piko metu jie sutaupo 1–2 valandas el. laiškų per dieną."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "500 USD už užsakomąją reisą, už vieną išsaugotą užsakymą sumokama daugiau nei už metusPro."
 }

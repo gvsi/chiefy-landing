@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ landscape designers",
-  "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail kraštovaizdžio dizaineriams | DI el. pašto asistentas",
+  "metaDescription": "Duet Mail padeda kraštovaizdžio dizaineriams akimirksniu atsakyti į klientų el. laiškus — net būnant objekte. DI parengti atsakymai su jūsų projekto detalėmis, kainomis ir tonu.",
+  "heroBadge": "Pasitiki 300+ kraštovaizdžio dizainerių",
+  "heroHeadline": "Jūsų el. pašto asistentas, kol dirbate objekte",
+  "heroSubline": "Duet išmoksta jūsų projekto detales, augalų paletes, kainodarą ir procesą — tada parengia el. laiškų atsakymus, kad dėl lėto atsakymo neprarastumėte kliento.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
-      "pill": "To Respond",
+      "subject": "Kiemo pertvarkymas — ar konsultacija nemokama?",
+      "preview": "Sveiki! Neseniai nusipirkome namą Westlake ir kiemas yra visiškai tuščia drobė. Norėtume pilno pertvarkymo su vietiniais augalais ir terasa. Ar priimate naujų klientų?",
+      "pill": "Reikia atsakyti",
       "pillColor": "red"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "preview": "Hey, we're ready to start trenching on Monday. Can you send over the irrigation layout and head specs so we can order materials this week?",
-      "pill": "Contractor",
+      "subject": "Miller projekto drėkinimo specifikacijos?",
+      "preview": "Sveiki, pirmadienį esame pasiruošę pradėti tranšėjų kasimą. Ar galite atsiųsti drėkinimo išdėstymą ir galvučių specifikacijas, kad galėtume šią savaitę užsisakyti medžiagas?",
+      "pill": "Rangovas",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Quick question about the plant selections",
-      "preview": "We love the design! Just wondering — can we swap the Japanese maple for something with more fall color? Also, is the lavender deer-resistant?",
-      "pill": "Client",
+      "subject": "Greitas klausimas apie augalų parinkimą",
+      "preview": "Mums labai patinka dizainas! Tik norėjome pasiteirauti — ar galime japoninį klevą pakeisti kuo nors, kas rudenį būtų spalvingesnis? Taip pat, ar levandos yra atsparios elniams?",
+      "pill": "Klientas",
       "pillColor": "blue"
     },
     {
       "from": "Valley View Nursery",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "preview": "Your order of 24 gallon shrubs, 6 specimen trees, and ground cover flats is ready. Pickup available Mon–Sat 7AM–4PM...",
-      "pill": "Supplier",
+      "subject": "Užsakymas #4821 paruoštas atsiimti",
+      "preview": "Jūsų 24 galonų krūmų, 6 pavyzdinių medžių ir žemės dangos daigų užsakymas paruoštas. Atsiimti galima pirmad.–šešt. 7:00–16:00...",
+      "pill": "Tiekėjas",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+  "autodraft": "Sveika, Rachel! Mielai padėčiau su jūsų kiemu. Šiuo metu pirmines konsultacijas rezervuoju 2–3 savaičių laikotarpiui. Pirmasis apsilankymas yra 90 minučių trukmės vietoje atliekamas įvertinimas — apžiūrėsiu sklypą, atliksiu matavimus ir aptarsiu jūsų viziją. Nuo to ir pradedu kurdamas koncepcinį planą. Norite, kad įtraukčiau jus į kalendorių?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "project",
+    "bookingUnit": "projektas",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Duet."
+    "punchline": "Vienas išsaugotas projektas atsiperka Duet metams."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+  "categorizationSubtitle": "Duet automatiškai sužymi kiekvieną el. laišką, kad pirmiausia matytumėte naujas konsultacijų užklausas, po to klientų patvirtinimus, o tiekėjų triukšmas niekada neužgožtų svarbiausių laiškų. Daugiau nebereikės praleisti potencialaus kliento, pasimetusio tarp medelyno užsakymų patvirtinimų.",
+  "draftSubtitle": "Duet išmoksta jūsų kainodarą, procesą ir toną. Kai gaunama konsultacijos užklausa, jis parengia visą atsakymą su jūsų prieinamumu, ko tikėtis ir kokie tolesni žingsniai. Jūs peržiūrite ir išsiunčiate.",
+  "agentSubtitle": "\"Kokia Henderson projekto eiga?\" \"Kurie klientai laukia plano patvirtinimo?\" Duet žino jūsų gautuosius ir projektus — tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "We just bought a home and the backyard is a blank slate...",
-      "pill": "New Inquiry",
+      "subject": "Kiemo pertvarkymas — ar konsultacija nemokama?",
+      "preview": "Neseniai nusipirkome namą, o kiemas yra visiškai tuščia drobė...",
+      "pill": "Nauja užklausa",
       "pillColor": "red"
     },
     {
       "from": "Jennifer L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Re: Final design — we're ready to approve!",
-      "pill": "Client Approval",
+      "subject": "Re: Galutinis dizainas — esame pasiruošę patvirtinti!",
+      "pill": "Kliento patvirtinimas",
       "pillColor": "blue"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "pill": "Contractor",
+      "subject": "Miller projekto drėkinimo specifikacijos?",
+      "pill": "Rangovas",
       "pillColor": "amber"
     },
     {
       "from": "Valley View Nursery",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "pill": "Supplier",
+      "subject": "Užsakymas #4821 paruoštas atsiimti",
+      "pill": "Tiekėjas",
       "pillColor": "lavender"
     },
     {
       "from": "QuickBooks",
       "avatarLetter": "Q",
       "avatarColor": "lavender",
-      "subject": "Invoice #1047 viewed by client",
-      "pill": "Invoice",
+      "subject": "Klientas peržiūrėjo sąskaitą faktūrą #1047",
+      "pill": "Sąskaita faktūra",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Backyard redesign — free for a consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "subject": "Re: Kiemo pertvarkymas — ar konsultacija nemokama?",
+    "originalFrom": "Rachel T. rašė:",
+    "originalText": "Sveiki! Neseniai nusipirkome namą Westlake ir kiemas yra visiškai tuščia drobė. Norėtume pilno pertvarkymo su vietiniais augalais ir terasa. Ar priimate naujų klientų?",
     "lines": [
-      "Hi Rachel!",
-      "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
-      "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
-      "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
+      "Sveika, Rachel!",
+      "Sveikinu įsigijus naują namą — visiškai tuščias kiemas iš tiesų yra svajonių projektas. Tikrai priimu naujų klientų.",
+      "Mano procesas prasideda 90 minučių vietoje atliekama konsultacija, kurios metu apžiūriu sklypą, atlieku matavimus ir aptariu jūsų tikslus. Nuo to kuriu koncepcinį planą su augalų dizainu, kietųjų dangų išdėstymu ir etapiniu biudžetu.",
+      "Turiu laisvų laikų per artimiausias 2–3 savaites. Norite, kad atsiųsčiau kelias galimas datas?"
     ],
-    "highlightText": "My process starts with a 90-minute on-site consultation",
+    "highlightText": "Mano procesas prasideda 90 minučių vietoje atliekama konsultacija",
     "tooltipFeatures": [
-      "Knows your design process & pricing",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "Žino jūsų dizaino procesą ir kainodarą",
+      "Parengia juodraščius jūsų tonu",
+      "Automatiškai įtraukia konsultacijos detales",
+      "Mokosi laikui bėgant"
     ]
   },
   "agent": {
-    "userMessage": "Which clients are still waiting on plan approval?",
-    "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
-    "followUp": "Draft a follow-up to Jennifer about the plan approval",
-    "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
+    "userMessage": "Kurie klientai vis dar laukia plano patvirtinimo?",
+    "agentResponse": "Remiantis jūsų neseniai gautais el. laiškais, du klientai vis dar laukia patvirtinimo: Jennifer & Mark L. (kiemo pertvarkymas — galutiniai planai išsiųsti prieš 4 dienas, kol kas atsakymo nėra) ir Cohenai (priekinio kiemo vietinių augalų konversija — pakoreguotas planas išsiųstas praėjusią savaitę). Ar norite, kad vienam iš jų parengčiau mandagų priminimą?",
+    "followUp": "Parenk priminimą Jennifer apie plano patvirtinimą",
+    "followUpResponse": "Atlikta! Parengiau draugišką pasitikslinimą Jennifer, klausdamas, ar ji ir Mark turėjo progą peržiūrėti galutinius planus, ir primindamas, kad galite trumpai prisijungti prie skambučio ir aptarti augalų parinkimą. Paruošta peržiūrėti ir išsiųsti."
   },
-  "testimonialsTitle": "Loved by landscape designers",
+  "testimonialsTitle": "Mėgstamas kraštovaizdžio dizainerių",
   "testimonials": [
     {
       "name": "Michael S.",
-      "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "title": "Kraštovaizdžio architektas, Austin TX",
+      "quote": "Pavasarį aš 8 valandas per dieną būnu objekte, atlieku vertinimus ir prižiūriu montavimą. Naujos konsultacijų užklausos gulėdavo dienomis. Dabar Duet per kelias minutes atsako mano procesu ir prieinamumu. Užsakiau 3 projektus, kuriuos tikrai būčiau praradęs.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
-      "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "title": "Sodo dizainerė, Portland OR",
+      "quote": "Koordinavimas tarp kietųjų dangų brigadų, drėkinimo sistemų montuotojų ir klientų sukuria absurdiškai daug el. laiškų. Duet viską surūšiuoja ir parengia atsakymus su tinkamomis projekto detalėmis. Tai tarsi turėti studijos vadovą.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "title": "Kraštovaizdžio dizaino studijos savininkas, Denver CO",
+      "quote": "Anksčiau kiekvieną vakarą po darbo objekte praleisdavau pasivydamas el. laiškus. Tie patys klausimai — kainos, procesas, laikas. Duet susitvarko su viskuo. Mano atsakymo laikas sutrumpėjo nuo dienų iki minučių, o sandorių užbaigimo rodiklis smarkiai išaugo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
-      "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "title": "Gyvenamųjų namų kraštovaizdžio dizainerė, Scottsdale AZ",
+      "quote": "Mano klientai daug klausia apie augalų parinkimą ir priežiūrą. Duet išmoko mano augalų paletes ir priežiūros instrukcijas bei parengia atsakymus, kuriuos man beveik nereikia taisyti. Klientams atrodo, kad esu neįtikėtinai greita.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "title": "Vietinių augalų kraštovaizdžio dizainerė, Raleigh NC",
+      "quote": "Prarasdavau naujus klientus, nes negalėdavau atsakyti būdama iki kelių įsisukusi į sodinimo montavimą. Duet parengia konsultacijų atsakymus su mano tiksliu procesu, kainomis ir tuo, ko tikėtis. Jis atsipirko jau pirmą savaitę.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Praleiskite dienas kurdami kraštovaizdžius,\no ne pasivejant el. paštą.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "Ar Duet gali susidoroti su pavasario antplūdžiu, kai konsultacijų užklausos ima kauptis?",
+      "answer": "Būtent tada Duet ir atsiskleidžia. Per jūsų intensyviausią sezoną kiekviena nauja užklausa gauna greitą, išsamų atsakymą su jūsų procesu, terminais ir prieinamumu — net jei visą dieną būnate objekte. Daugiau nebereikės prarasti pavasario potencialių klientų vien todėl, kad negalėjote atsakyti iki 21 val."
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
-      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "Koordinuoju darbą su keliomis lauko brigadomis. Ar Duet padeda su tuo?",
+      "answer": "Taip. Duet išmoksta jūsų projektus ir su jais susijusius rangovus — kietųjų dangų, drėkinimo, sodinimo brigadas, medelynus. Jis atskiria rangovų el. laiškus nuo klientų el. laiškų ir gali parengti atsakymus su konkretaus projekto detalėmis, pvz., specifikacijomis, terminais ir medžiagomis. Jūs išlaikote visų brigadų kontrolę be gautųjų chaoso."
     }
   ],
-  "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
+  "pricingNote": "Esant $8,000/projektas, vienas išsaugotas klientas atsiperka Pro metams."
 }

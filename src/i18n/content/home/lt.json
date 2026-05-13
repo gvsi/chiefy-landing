@@ -1,163 +1,162 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail|AIEl. pašto asistentas, skirtasGmailirOutlook",
+    "description": "Duet MailAIel. pašto asistentas apibendrina el. laiškus, rengia atsakymų juodraščius ir tvarko gautuosius. Veikia suGmailirOutlook. Sutaupykite daugiau nei 4 valandas per savaitę."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Dabar galimaGmailirOutlook",
+    "headlinePrefix": "Jūsų ",
+    "headlineHighlight": "štabo viršininkas",
+    "headlineSuffix": " už",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "rūšiuojant el",
+      "rengiant atsakymus",
+      "planavimas",
+      "rasti atsakymus"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "Sutaupykite daugiau nei 4 valandas kiekvieną savaitę el. paštu",
+    "primaryCta": "Pradėkite nuoGmail",
+    "secondaryCta": "Pradėkite nuoOutlook",
+    "trialNote": "Nemokamas 14 dienų bandomasis laikotarpis",
+    "cancelNote": "Atšaukti bet kada"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Momentinis skirstymas į kategorijas",
+      "AImaitinami atsakymai"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Gautieji",
     "providers": [
       "Gmail",
       "Outlook"
     ],
     "emailTimes": [
-      "3:42 PM",
-      "2:18 PM",
-      "10:05 AM",
-      "Yesterday"
+      "3:42PM",
+      "2:18PM",
+      "10:05 val",
+      "vakar"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Automatinis juodraštis",
     "emails": [
       {
-        "from": "Alex Rivera",
+        "from": "Aleksas Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Re: Produkto pristatymo laikas",
+        "preview": "Ei! Norėjau patikrinti paleidimo išteklius. Ar vis dar ruošiamės kitą savaitę...",
+        "pill": "Atsakyti"
       },
       {
-        "from": "Emma Park",
+        "from": "Emmos parkas",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Greitas sinchronizavimas šią popietę?",
+        "preview": "Norėčiau susipažinti su plano atnaujinimais. Ar tu laisvas apie 16 val...",
+        "pill": "Susitikimas"
       },
       {
-        "from": "Marketing",
+        "from": "Rinkodara",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
+        "subject": "Kampanijos rezultatai paruošti",
         "pill": "FYI"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Jūsų parduotuvė paruošta juodajam penktadieniui",
+        "pill": "Akcijos"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Sveiki Aleksai! Taip, mes einame kelyje. Projektavimo komanda vakar baigė naudoti išteklius ir šiandien išsiųsiu galutinius failus ikiEOD."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "Klientų logotipai",
+    "headingPrefix": "Pasitiki žvelgiant į ateitį",
+    "headingHighlight": " profesionalai ir komandos ",
+    "headingSuffix": "visame pasaulyje"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "Savybės",
+    "eyebrow": "Jūsų gautieji, įkrauti",
+    "title": "Jūsų gautieji neturėtų priklausyti jūsų dienai",
+    "subtitle": "Paverskite chaosą aiškumu naudodamiAI, kuri iš tikrųjų jus patraukia.\nSutaupykite 3 ir daugiau valandų kiekvieną savaitę naudodami išmaniausią el. pašto asistentą, skirtąGmailirOutlook.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "El. pašto juodraščiai, kurie skamba kaip jūs",
+        "description": "Duet AIel. laiškų rašytojas paruošia svarbiausių el. laiškų juodraščius. Jis išmoksta jūsų toną ir rašymo stilių.",
+        "ariaLabel": "El. pašto juodraščiai, kurie skamba kaip jūs",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "Parašiau šaltą laišką, pritaikytą Jonui",
+          "sampleText": "AIvamzdynai yra būtini kuriant tvirtas, keičiamo dydžio ir efektyviasAIsistemas.",
+          "readyToSend": "Pasiruošę siųsti?",
+          "remindFollowUp": "Priminti man sekti."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "Momentinės santraukos ir veiksmo elementai",
+        "description": "Gaukite TL;DR ir veiksmų elementus iš el. pašto turinio per kelias sekundes. Gautuosiuose nebereikia skaityti romanų.",
+        "ariaLabel": "Momentinės santraukos ir veiksmų elementai",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "Aš siūlau mums ",
+          "sentenceHighlight": "susitikti kitą savaitę",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "Naujas veiksmo elementas",
+          "actionLead": "Jūsų kalendoriuje radau šias nemokamas vietas",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "Antradienį, 10 val",
+            "Ketvirtadienį, 14 val",
+            "Penktadienį, 9 val"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Rasti daugiau",
+          "primaryButton": "Siųsti"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "Protingi priminimai",
+        "description": "Nustatykite ir pamirškite.Duet AIprisimena sekti, kai kiti neatsako, todėl niekas neiškrenta.",
+        "ariaLabel": "Išmanūs priminimai",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "AI-Galimi išmanieji priminimai",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Tolesni veiksmai",
               "value": "12",
-              "unit": "emails"
+              "unit": "laiškus"
             },
             {
-              "label": "To reply",
+              "label": "Norėdami atsakyti",
               "value": "2",
-              "unit": "emails"
+              "unit": "laiškus"
             },
             {
-              "label": "Completed",
+              "label": "Baigta",
               "value": "3",
-              "unit": "action items"
+              "unit": "veiksmo elementai"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Atlikite rašymo užduotis",
+              "time": "prieš 2 dienas"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Projekto integracija",
+              "time": "prieš 12 valandų"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Sekite",
+            "Perplanuoti?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "Sutelkite dėmesį į tai, kas svarbu",
+        "description": "Išmanusis skirstymas į kategorijas pirmiausia pateikia svarbiausius el. laiškus ir suskirsto el. laiškus į temas. El. pašto valdymas dar niekada nebuvo toks paprastas.",
+        "ariaLabel": "Susikoncentruokite į tai, kas svarbu",
         "mockCopy": {
           "analyzing": "ANALYZING"
         }
@@ -165,285 +164,285 @@
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "El. pašto tvarkymas ir išmaniųjų gautųjų skirstymas į kategorijas",
+    "badge": "Organizacija",
+    "title": "Duettvarko gautuosius",
+    "subtitle": "Automatinis skirstymas į kategorijas filtruoja triukšmą ir atskleidžia tai, kas svarbu. Akimirksniu pamatysite, ką reikia imtis, kas tikFYIir kas gali palaukti.",
+    "windowTitle": "Gautieji",
     "providers": [
       "Gmail",
       "Outlook"
     ],
     "emailTimes": [
-      "2:34 PM",
-      "11:05 AM",
-      "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "2:34PM",
+      "11:05 val",
+      "9:22 val",
+      "vakar",
+      "Gruodžio 20 d"
     ],
     "emails": [
       {
-        "from": "Sarah Chen",
+        "from": "Sara Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "4 ketvirčio biudžeto peržiūros užklausa",
+        "preview": "Galutiniai skaičiai pridedami. Prašome peržiūrėti ikiEOD.",
+        "pill": "Reikalingas veiksmas"
       },
       {
-        "from": "Michael Torres",
+        "from": "Michaelas Torresas",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Komandos rikiuotė rytoj 10 val",
+        "pill": "Susitikimas"
       },
       {
-        "from": "Design Team",
+        "from": "Dizaino komanda",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
+        "subject": "Paskelbtos naujos prekės ženklo gairės",
         "pill": "FYI"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Jūsų mėnesio ataskaita paruošta",
+        "pill": "Akcijos"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "Naujienlaiškis",
+        "subject": "Savaitinė santrauka",
+        "pill": "Akcijos"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "AIel. laiškų rengimas ir atsakymų generavimas",
+    "badge": "Rengimas",
+    "title": "Duetjuodraščiai jūsų balsu",
+    "subtitle": "Duetišmoksta, kaip rašote, ir parengia jūsų toną atitinkančius atsakymų juodraščius. Peržiūrėkite, prireikus pakoreguokite ir išsiųskite per kelias sekundes.",
+    "windowTitle": "Nauja žinutė",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "Kam:",
+      "subject": "Tema:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: Greitas sinchronizavimas šią savaitę?",
+      "originalFrom": "Alex Rivera rašė:",
+      "originalText": "Ei! Norėtųsi suspėti apie plano pokyčius. Ar turite laisvą 30 minučių pokalbį šią savaitę? Praneškite man, kas jums tinka.",
+      "badge": "Sukurta automatiškai",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Ei, Aleksai!",
+        "Norėtųsi sinchronizuoti pagal planą. Ketvirtadienį esu laisvas 14–16 val. arba penktadienio rytą – man tai puikiai tinka.",
+        "Leiskite man žinoti, kas jums labiausiai tinka ir aš atsiųsiu kvietimą.",
+        "Ačiū!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Esu laisvas ketvirtadienį 14-16 val. arba penktadienio rytą",
       "actions": [
-        "Send",
-        "Edit"
+        "Siųsti",
+        "Redaguoti"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Asmeninis juodraštis",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Žino jūsų kalendorių",
+        "Juodraščiai jūsų balse",
+        "Kontekstą pažįsta per atmintį",
+        "Laikui bėgant išmoksta"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "AIel. pašto žvalgyba ir asistentas",
+    "badge": "Intelektas",
+    "title": "Paklauskite bet ko apie savo el",
+    "subtitle": "PaprašykiteDuetrasti el. laiškų, patikrinti kalendorių arba atsakymo juodraštį. Jis supranta jūsų gautuosius ir iš karto atsako.",
+    "windowTitle": "DuetAgentas",
+    "onlineLabel": "Prisijungę",
+    "initialUserMessage": "Ar galite rasti Buhalterijos atsiųstąStripesąskaitą faktūrą?",
+    "processingText": "Ieškoma gautuosiuose...",
+    "foundHeader": "Rasti 2 el. laiškai nuoStripe",
+    "foundBody": "Radau kvitą už 29,00 USDUSDnuo spalio 24 d.",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"
     },
     "suggestions": [
       {
-        "action": "draft",
-        "label": "Draft a reply"
+        "action": "juodraštis",
+        "label": "Sudarykite atsakymo projektą"
       },
       {
-        "action": "calendar",
-        "label": "Find time to meet"
+        "action": "kalendorius",
+        "label": "Raskite laiko susitikti"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Paklausk bet ko...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "Apdorojama...",
+      "processingDraft": "Generuojamas juodraštis...",
+      "processingCalendar": "Tikrinamas pasiekiamumas...",
+      "draftIntro": "Štai atsakymo į apskaitą projektas:",
+      "draftHeader": "Juodraštis: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Sveiki komanda,",
+        "PridedameStripespalio mėnesio sąskaitą faktūrą (29,00 USD).",
+        "Praneškite man, jei jums reikia dar ko nors.",
+        "Geriausia,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "Siųsti el",
+        "Redaguoti"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "Rytoj turite 3 laisvas vietas:",
       "calendarSlots": [
         {
-          "time": "9:30 AM",
+          "time": "9:30 val",
           "duration": "30 min"
         },
         {
-          "time": "2:00 PM",
+          "time": "2:00PM",
           "duration": "30 min"
         },
         {
-          "time": "4:30 PM",
+          "time": "4:30PM",
           "duration": "30 min"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Taip pat parašyti atsakymą?",
+        "calendarAfterDraft": "Taip pat planuoti tolesnį tyrimą?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "Atsiliepimai",
+    "scrollingAriaLabel": "Slenkantys atsiliepimai",
+    "eyebrow": "Atsiliepimai",
+    "title": "Mėgsta užimtų profesionalų",
+    "subtitle": "Tikri žmonės. Tikras pašto dėžutė laimi.",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "Laisvai samdomas darbuotojas",
+        "quote": "Verta kiekvieno cento. Laikas, kurį sutaupau el. paštu, mokamasDuet Mail10 kartų daugiau. Dabar neįsivaizduoju darbo be jo.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
-        "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "name": "Michaelas R.",
+        "title": "Pardavimų vadovas",
+        "quote": "Momentinės ilgų el. pašto gijų santraukos yra tiesiog stebuklingos, todėl patogios vartotojui. Mano klientai mano, kad esu antžmogis.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
-        "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "name": "Džonis S.",
+        "title": "Verslininkas",
+        "quote": "Skeptiškai žiūrėjau į dirbtinio intelekto naudojimą mano el. Dabar tai lyg turėti puikų vadovo padėjėją. Neįsivaizduoju grįžti atgal.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "konsultantas",
+        "quote": "Kaip konsultantui svarbi kiekviena minutė.Duet Mailne tik sutaupo laiko, bet ir pagerina ryšį el. paštu.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
-        "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "name": "Sara T.",
+        "title": "rinkodaros direktorius",
+        "quote": "Galiausiai,AIpašto asistentas, kuris iš tikrųjų išmoksta rašyti. Momentiniai atsakymai tokie konkretūs, kad mano komanda manė, kad dirbu vidurnaktį.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "ariaLabel": "Kainodara",
+    "eyebrow": "Kainodara",
+    "heading": "Paprasta kaina, galinga pašto dėžutė",
+    "subheading": "Pradėkite nemokamai, atnaujinkite bet kada. Atšaukti bet kada.",
+    "billingLegend": "Atsiskaitymo ritmas",
+    "billingAnnual": "Metinis",
+    "billingMonthly": "Kas mėnesį",
+    "savingsTag": "Sutaupykite 33%",
+    "priceCadence": "/mėn",
+    "perUserSuffix": "/vartotojas",
+    "annualBillingSuffix": "(sąskaita išrašoma kasmet)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Saugus atsiskaitymas perStripe",
+      "Atšaukti bet kada"
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "name": "Pagrindinis",
+        "description": "Visiems, kuriems įdomu, kaip atrodo išmanesnis pašto dėžutė. Įsipareigojimų nereikia.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "Momentinės santraukos",
+            "description": "Supraskite bet kurios temos esmę"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "AIJuodraščiai",
+            "description": "Atsakymų skonis jūsų balse"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "Išmanieji gautieji",
+            "description": "Pradėti pagrindinė organizacija"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "DuetAsistentas",
+            "description": "IšbandykiteAIasistentą"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "PasirinkiteGmailarbaOutlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "14 dienų nemokama bandomoji versija",
+        "description": "Profesionalams, norintiems gilesnio automatizavimo, integracijų ir gautųjų, kurie tikrai žino, kaip dirbate.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "Išmanieji gautieji",
+            "description": "El. laiškai automatiškai surūšiuojami į išmaniąsias kategorijas",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "AIJuodraščiai",
+            "description": "Atsakymai parašyti jūsų balsu, paruošti siųsti",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "DuetAsistentas",
+            "description": "Kalbėkite, kad rastumėte, sukurtumėte, tvarkytumėte ir daugiau",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "Kalendoriaus integravimas",
+            "description": "Planuokite, peržiūrėkite ir valdykite įvykius gautuosiuose"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "Momentinės santraukos",
+            "description": "Išsiaiškinkite bet kurio siūlo ar priedo esmę"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Išmanieji priminimai",
+            "description": "Tolesni veiksmai atsiranda automatiškai, todėl niekas neslysta"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "Prioritetinis palaikymas",
+            "description": "Tikri žmonės, greiti atsakymai"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "PasirinkiteGmailarbaOutlook",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "Įmonė",
+        "description": "Organizacijoms, kurioms reikia įmonės lygio masto, specialaus palaikymo ir tinkintų darbo eigų. Geriausiai tinka 50+ komandoms.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,149 +450,149 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "ViskasPro",
+            "description": "Visos funkcijos įtrauktos"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Dedikuotas palaikymas",
+            "description": "Asmeninės sąskaitos valdytojas"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "Komandos analizė",
+            "description": "Jūsų organizacijos įžvalgos"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Bendrinamos darbo eigos",
+            "description": "Šablonai ir automatizavimas komandoms"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Susisiekite su pardavimais",
+        "ctaNote": "Galimos individualios kainos"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
+    "ariaLabel": "Dažnai užduodami klausimai",
     "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "headingPrefix": "Dažni klausimai, ",
+    "headingAccent": "atsakė",
     "contactDecorative": "?",
     "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
-    "footerBrand": "DUET MAIL",
+    "contactHeading": "Vis dar turite klausimų?",
+    "contactCta": "Susisiekite →",
+    "footerBrand": "DUETMAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "KaipDuet Mailapsaugo mano el. pašto duomenis?",
+        "answer": "Jūsų saugumas yra mūsų prioritetas. Naudojame OAuth 2.0 saugiam autentifikavimui suGoogleirMicrosoft. El. pašto turinys ramybės būsenoje šifruojamas naudojant kliento lauko lygio šifravimą, o mes laikomės mažiausios prieigos prieAPIprivilegijos. Siekdami integruotiGoogle, atliekameGooglemetinįCASAsaugos įvertinimą."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Kaip veikia el. pašto suvestinės funkcija?",
+        "answer": "Duet Mailnaudoja pažangiusAI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Kokių leidimų reikiaDuet Mail?",
+        "answer": "Duet Mailreikalinga prieiga prie jūsų el. laiškų, kad būtų galima teikti santraukas, išgauti veiksmų elementus, generuoti turinį ir siųsti el. laiškus. Mes tik prašome leidimų, kurių mums tikrai reikia. Šiuos leidimus galite bet kada peržiūrėti ir atšaukti savoGooglepaskyros arbaMicrosoftpaskyros nustatymuose."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Kas įtraukta į nemokamą bandomąją versiją?",
+        "answer": "14 dienų nemokama bandomoji versija apima visišką prieigą prie visųProfunkcijų: neribotų el. laiškų santraukų, veiksmo elementų ištraukimo,AIel. laiškų rašymo programos (el. laiškų ir juodraščių generavimas be jokių apribojimų) ir tinkintų el. pašto šablonų. Prisijunkite naudodamiGooglearbaMicrosoft, kad sutaupytumėte laiko el. pašto tvarkymui."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Ar galiu naudotiDuet Mailsu kitais el. pašto paslaugų teikėjais?",
+        "answer": "Duet MailpalaikoGmail,GoogleWorkspace irMicrosoftOutlook. Jei norite pradėti, prisijunkite naudodami savoGooglearbaMicrosoftpaskyrą."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Pradėkite",
+    "headline": "Atgal 4 valandas.\nKiekvieną savaitę.",
+    "subline": "Prisijunkite prie profesionalų, kurie savo dieną pradeda aiškiai, o ne chaosu. Jūsų nemokama bandomoji versija laukia.",
+    "primaryCta": "Pradėkite nuoGmail",
+    "secondaryCta": "Pradėkite nuoOutlook",
+    "note": "14 dienų nemokama bandomoji versija · Atšaukti bet kada",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "GoogleCASA-įvertinta",
+      "Užšifruota ramybės būsenoje",
+      "Saugus OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "Svetainės poraštė",
+    "brandIconAlt": "Duet Mailpiktogramą",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "tagline": "Duet Mail—AIel. pašto asistentas, kuris kiekvieną savaitę taupo valandas",
+    "copyrightTemplate": "Duet Mail©{year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Naršyti",
         "links": [
           {
-            "label": "Organization",
-            "href": "/lt#organization"
+            "label": "Organizacija",
+            "href": "/#organizacija"
           },
           {
-            "label": "Drafting",
-            "href": "/lt#drafting"
+            "label": "Rengimas",
+            "href": "/#rada"
           },
           {
-            "label": "Intelligence",
-            "href": "/lt#intelligence"
+            "label": "Intelektas",
+            "href": "/#intelektas"
           },
           {
-            "label": "Chrome Extension",
+            "label": "ChromePlėtinys",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "Klientai",
         "links": [
           {
-            "label": "Pricing",
-            "href": "/lt#pricing"
+            "label": "Kainodara",
+            "href": "/#kainodara"
           },
           {
-            "label": "Testimonials",
-            "href": "/lt#testimonials"
+            "label": "Atsiliepimai",
+            "href": "/#atsiliepimai"
           },
           {
             "label": "FAQ",
-            "href": "/lt#faq"
+            "href": "/#faq"
           }
         ]
       },
       {
-        "title": "Legal",
+        "title": "Teisinė",
         "links": [
           {
-            "label": "Privacy",
+            "label": "Privatumas",
             "href": "/lt/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Sąlygos",
             "href": "/lt/terms"
           },
           {
-            "label": "Cookies",
+            "label": "Slapukai",
             "href": "/lt/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Atsisakymas",
             "href": "/lt/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "Prisijunkite",
         "links": [
           {
-            "label": "Blog",
+            "label": "Dienoraštis",
             "href": "/lt/blog"
           },
           {
@@ -621,50 +620,50 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
-    "dividerLabel": "vs",
+    "ariaLabel": "Investicijų grąža",
+    "label": "Matematika",
+    "narrativeTemplate": "{pricePerBooking}už{bookingUnit}, prarandama tik{lostPerMonth}dėl lėtų atsakymų =",
+    "lossSuffix": "/mo dingo",
+    "dividerLabel": "prieš",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet-AIEl. pašto asistentas, skirtasGmailirOutlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Pagalba klientams",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
-    "applicationCategory": "CommunicationApplication",
+    "softwareDescription": "AIel. pašto asistentas, skirtasGmailirOutlook, kuris automatiškai apibendrina el. laiškus, rengia atsakymų juodraščius jūsų balsu ir tvarko gautuosius, kad sutaupytumėte valandų kiekvieną savaitę.",
+    "applicationCategory": "Komunikacijos programa",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Išmanusis el. pašto organizavimas ir skirstymas į kategorijas",
+      "AIvaldomas el. laiškų piešimas jūsų balsu",
+      "Išmanusis el. pašto asistentas su kalendoriaus integracija",
+      "Automatinės el. pašto santraukos ir veiksmų elementai",
+      "Išmanūs priminimai tolesniems veiksmams"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Pagrindinis planas",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Nemokamas planas su momentinėmis suvestinėmis,AIjuodraščiais ir išmaniaisiais gautaisiais"
       },
       {
-        "name": "Pro Plan",
+        "name": "ProPlanas",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "Visiška prieiga su išmaniųjų gautųjų kategorizavimu,AIjuodraščiais, asistentu ir kalendoriaus integravimu"
       }
     ],
     "aggregateRating": {
       "ratingValue": "4.8",
       "ratingCount": "853"
     },
-    "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "operatingSystem": "Žiniatinklis",
+    "browserRequirements": "Reikia JavaScript. Veikia suGmail,GoogleWorkspace irMicrosoftOutlook.",
     "urls": {
       "site": "https://duetmail.com/lt",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "KaipDuet Mailapsaugo mano el. pašto duomenis?",
+        "answer": "Jūsų saugumas yra mūsų prioritetas. Naudojame OAuth 2.0 saugiam autentifikavimui suGoogleirMicrosoft. El. pašto turinys ramybės būsenoje šifruojamas naudojant kliento lauko lygio šifravimą, o mes laikomės mažiausios prieigos prieAPIprivilegijos. Siekdami integruotiGoogle, atliekameGooglemetinįCASAsaugos įvertinimą."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Kaip veikia el. pašto suvestinės funkcija?",
+        "answer": "Duet Mailnaudoja pažangiusAI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Kokių leidimų reikiaDuet Mail?",
+        "answer": "Duet Mailreikalinga prieiga prie jūsų el. laiškų, kad būtų galima teikti santraukas, išgauti veiksmų elementus, generuoti turinį ir siųsti el. laiškus. Mes tik prašome leidimų, kurių mums tikrai reikia. Šiuos leidimus galite bet kada peržiūrėti ir atšaukti savoGooglepaskyros arbaMicrosoftpaskyros nustatymuose."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Kas įtraukta į nemokamą bandomąją versiją?",
+        "answer": "14 dienų nemokama bandomoji versija apima visišką prieigą prie visųProfunkcijų: neribotų el. laiškų santraukų, veiksmo elementų ištraukimo,AIel. laiškų rašymo programos (el. laiškų ir juodraščių generavimas be jokių apribojimų) ir tinkintų el. pašto šablonų. Prisijunkite naudodamiGooglearbaMicrosoft, kad sutaupytumėte laiko el. pašto tvarkymui."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Ar galiu naudotiDuet Mailsu kitais el. pašto paslaugų teikėjais?",
+        "answer": "Duet MailpalaikoGmail,GoogleWorkspace irMicrosoftOutlook. Jei norite pradėti, prisijunkite naudodami savoGooglearbaMicrosoftpaskyrą."
       }
     ]
   }

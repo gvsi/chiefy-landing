@@ -1,171 +1,170 @@
 ---
-title: "Unpacking Gmail Summarization Features"
-description: "Struggling with email overload? Explore Gmail's summarization features powered by Gemini, understand their pros & cons, and see if they're enough."
+title: "Gmail santraukų funkcijų išskaidymas"
+description: "Vargina el. pašto perkrova? Susipažinkite su Gemini paremtomis Gmail santraukų funkcijomis, jų privalumais ir trūkumais, ir įvertinkite, ar jų pakanka."
 publishedAt: 2025-09-26
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Email Summarization"]
+tags: ["DI", "Gmail", "El. pašto santraukos"]
 draft: false
-translationStatus: bootstrap-en
 ---
 
-Remember that feeling? You step away for a meeting, grab a quick coffee, or even just blink, and suddenly your inbox has ballooned. Another dozen emails demanding attention, decisions, or simply adding to the digital noise. If you’re nodding along, you're not alone. The sheer volume of email is a modern workplace reality, often leaving busy professionals, freelancers, and even startup founders feeling buried.
+Prisimenate tą jausmą? Išeinate į susitikimą, greitai pasiimate kavos ar net tik mirktelite, ir staiga gautieji išsipučia. Dar keliolika laiškų reikalauja dėmesio, sprendimų arba tiesiog prisideda prie skaitmeninio triukšmo. Jei linksite galva, jūs ne vieni. Milžiniškas el. pašto kiekis yra šiuolaikinės darbo vietos realybė, dėl kurios užimti specialistai, laisvai samdomi darbuotojai ir net startuolių įkūrėjai dažnai jaučiasi užversti.
 
-Studies reveal the staggering scale: in 2024, an estimated [361 billion emails are sent *daily*](https://www.dragapp.com/blog/email-statistics/), a number projected to climb towards 400 billion by 2027. Professionals report spending hours each day just managing their inbox – time that could be spent on strategic thinking, deep work, or connecting with clients and colleagues. It's no wonder we're all searching for smarter ways to manage the deluge.
+Tyrimai atskleidžia įspūdingą mastą: 2024 m. kasdien išsiunčiama apie [361 mlrd. el. laiškų](https://www.dragapp.com/blog/email-statistics/), o iki 2027 m. šis skaičius turėtų priartėti prie 400 mlrd. Specialistai teigia kasdien praleidžiantys valandas vien tvarkydami gautuosius - laiką, kurį būtų galima skirti strateginiam mąstymui, giliam darbui arba ryšiui su klientais ir kolegomis. Nenuostabu, kad visi ieškome išmanesnių būdų suvaldyti šį srautą.
 
-Enter Artificial Intelligence. Google, aiming to alleviate this pressure point for its millions of Gmail users, has integrated its powerful Gemini AI directly into the platform. One of the most talked-about features? Email summarization. The promise is enticing: let AI distill those lengthy threads into digestible snippets, saving you precious time and mental energy. But does it live up to the hype? Is it the silver bullet for inbox overload? Let's dive in.
+Čia atsiranda dirbtinis intelektas. Google, siekdama sumažinti šį spaudimą milijonams Gmail naudotojų, tiesiai į platformą integravo savo galingą Gemini DI. Viena labiausiai aptariamų funkcijų? El. laiškų santraukos. Pažadas patrauklus: leiskite DI sutraukti ilgas gijas į lengvai perprantamas ištraukas, taupydami brangų laiką ir protinę energiją. Bet ar tai pateisina lūkesčius? Ar tai stebuklingas sprendimas gautųjų perkrovai? Pažvelkime giliau.
 
-## The Digital Deluge: Why Email Summarization Isn't Just Nice-to-Have
+## Skaitmeninis antplūdis: kodėl el. laiškų santraukos nėra tik malonus priedas
 
-Before we dissect Gmail's specific tools, let's underscore *why* summarization matters so much. It's not just about convenience; it's about reclaiming productivity and focus.
+Prieš nagrinėdami konkrečius Gmail įrankius, verta pabrėžti, *kodėl* santraukos tokios svarbios. Tai ne vien patogumas; tai produktyvumo ir dėmesio susigrąžinimas.
 
-Consider these figures:
+Apsvarstykite šiuos skaičius:
 
-- The average office worker receives around [121 emails per day](https://blog.beehiiv.com/p/time-spent-on-email-statistics).
+- Vidutinis biuro darbuotojas gauna apie [121 el. laišką per dieną](https://blog.beehiiv.com/p/time-spent-on-email-statistics).
 
-- Knowledge workers spend roughly **2.6 hours daily** on email, amounting to nearly 30% of a typical workday, according to a [Harvard study](https://blog.beehiiv.com/p/time-spent-on-email-statistics).
+- Žinių darbuotojai el. paštui kasdien skiria maždaug **2,6 valandos**, o tai sudaro beveik 30% įprastos darbo dienos, remiantis [Harvard tyrimu](https://blog.beehiiv.com/p/time-spent-on-email-statistics).
 
-- It can take up to [25 minutes to regain focus](https://mailsuite.com/blog/mastering-email-productivity-track-and-minimize-your-inbox-hours/) after an email interruption.
+- Po el. pašto pertraukimo gali prireikti iki [25 minučių susigrąžinti dėmesį](https://mailsuite.com/blog/mastering-email-productivity-track-and-minimize-your-inbox-hours/).
 
-This constant barrage leads to:
+Šis nuolatinis spaudimas lemia:
 
-- **Lost Productivity:** Time spent wading through non-essential information or deciphering long threads is time *not* spent on core tasks.
+- **Prarastą produktyvumą:** Laikas, praleistas naršant nereikšmingą informaciją ar aiškinantis ilgas gijas, yra laikas, *neskirtas* pagrindinėms užduotims.
 
-- **Cognitive Overload:** Juggling multiple conversations and trying to retain context across dozens of emails is mentally exhausting.
+- **Kognityvinę perkrovą:** Bandymas vienu metu sekti kelis pokalbius ir išlaikyti kontekstą per dešimtis laiškų psichologiškai išvargina.
 
-- **Missed Opportunities:** Important action items or critical decisions can easily get buried under the sheer volume.
+- **Praleistas galimybes:** Svarbūs veiksmų punktai ar kritiniai sprendimai lengvai pasimeta didžiulėje apimtyje.
 
-- **Increased Stress:** The feeling of constantly being behind on email contributes significantly to workplace stress and burnout.
+- **Padidėjusį stresą:** Nuolatinis jausmas, kad vėluojate su el. paštu, smarkiai prisideda prie streso darbe ir perdegimo.
 
-AI summarization tools aim to tackle these issues head-on by quickly extracting the essence of communication, allowing you to prioritize effectively and stay informed without getting lost in the weeds. Studies on AI in the workplace, like those highlighted by the [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), show tangible productivity boosts when AI assists with tasks like summarization and information retrieval.
+DI santraukų įrankiai siekia tiesiogiai spręsti šias problemas greitai ištraukdami komunikacijos esmę, kad galėtumėte veiksmingai nustatyti prioritetus ir išlikti informuoti nepasiklysdami detalėse. Tyrimai apie DI darbo vietoje, pavyzdžiui, apžvelgti [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), rodo apčiuopiamą produktyvumo augimą, kai DI padeda atlikti tokias užduotis kaip santraukų rengimas ir informacijos paieška.
 
-![Infographic illustrating the problem of email overload with key statistics](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+![Infografikas, iliustruojantis el. pašto perkrovos problemą su svarbia statistika](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
-The sheer volume of daily emails highlights the need for efficient management tools.
+Didžiulis kasdienių el. laiškų kiekis parodo efektyvių valdymo įrankių poreikį.
 
-## Meet Gemini in Gmail: Google's Native Summarization Feature
+## Susipažinkite su Gemini Gmail aplinkoje: vietinė Google santraukų funkcija
 
-Recognizing the email overload pain point, Google has woven its Gemini AI capabilities directly into Gmail. The most prominent feature aimed at tackling long threads is the **"Summarize this email"** function.
+Atpažinusi el. pašto perkrovos problemą, Google į Gmail tiesiogiai įpynė Gemini DI galimybes. Ryškiausia funkcija, skirta ilgoms gijoms tvarkyti, yra **„Summarize this email“**.
 
-### What is it and How Does it Work?
+### Kas tai yra ir kaip veikia?
 
-Powered by Google's Gemini large language models, this feature analyzes the content of an email thread (typically requiring [more than two replies](https://support.google.com/mail/answer/14199860?hl=en\&co=GENIE.Platform%3DDesktop)) and generates a concise summary. This summary often appears as bullet points or a short paragraph highlighting the key takeaways, decisions, or action items discussed.
+Ši Google Gemini didžiaisiais kalbos modeliais paremta funkcija analizuoja el. laiškų gijos turinį (paprastai reikia [daugiau nei dviejų atsakymų](https://support.google.com/mail/answer/14199860?hl=en\&co=GENIE.Platform%3DDesktop)) ir sugeneruoja glaustą santrauką. Ji dažnai pateikiama punktais arba trumpu paragrafu, išryškinančiu pagrindines išvadas, sprendimus ar aptartus veiksmų punktus.
 
-The goal is to give you the gist of the conversation quickly, allowing you to decide if you need to dive deeper or if the summary provides enough context to move on. Think of it as AI-powered CliffsNotes for your inbox.
+Tikslas - greitai pateikti pokalbio esmę, kad galėtumėte nuspręsti, ar reikia gilintis toliau, ar santraukos pakanka judėti pirmyn. Tai tarsi DI paremtos CliffsNotes jūsų gautiesiems.
 
-### Where Can You Find It?
+### Kur ją rasti?
 
-Accessing the feature depends on your interface:
+Prieiga prie funkcijos priklauso nuo sąsajos:
 
-- **Web Interface:** Look for a button labeled "Summarize this email" appearing directly beneath the subject line of an eligible email thread. Alternatively, you can open the "Ask Gemini" side panel (usually via a sparkle icon in the top right) and either click a suggested prompt like "What's this email about?" or type your own request like "Summarize this thread."
+- **Žiniatinklio sąsaja:** Ieškokite mygtuko „Summarize this email“, kuris rodomas tiesiai po tinkamos el. laiškų gijos temos eilute. Taip pat galite atidaryti „Ask Gemini“ šoninį skydelį (dažniausiai per blizgesio piktogramą viršuje dešinėje) ir spustelėti siūlomą užklausą, pavyzdžiui, „What's this email about?“, arba įrašyti savo prašymą, pavyzdžiui, „Summarize this thread.“
 
-- **Mobile App (Android/iOS):** Similar to the web, a "Summarize this email" button may appear under the subject. Tapping it typically brings up the summary in a dedicated Gemini sheet or panel. You can also often access summarization and other AI features via the Gemini icon in the app's top bar.
+- **Mobilioji programa (Android/iOS):** Panašiai kaip žiniatinklyje, po tema gali pasirodyti mygtukas „Summarize this email“. Bakstelėjus jį, santrauka paprastai atsidaro specialiame Gemini lape arba skydelyje. Santraukas ir kitas DI funkcijas dažnai galima pasiekti ir per Gemini piktogramą programos viršutinėje juostoje.
 
-![Gmail email view highlighting the 'Summarize this email' button below the subject line](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+![Gmail el. laiško vaizdas, kuriame po temos eilute paryškintas mygtukas „Summarize this email“](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
-Gmail's native summarization feature is accessible via a button directly within email threads.
+Vietinė Gmail santraukų funkcija pasiekiama per mygtuką tiesiai el. laiškų gijose.
 
-### Who Gets Access?
+### Kas gauna prieigą?
 
-This isn't (yet) a standard feature for all free Gmail accounts. Access to Gemini features in Gmail, including summarization, is typically available to:
+Tai (kol kas) nėra standartinė funkcija visoms nemokamoms Gmail paskyroms. Prieiga prie Gemini funkcijų Gmail, įskaitant santraukas, paprastai suteikiama:
 
-- Users with eligible [Google Workspace](https://support.google.com/chat/answer/13952129?hl=en,gmail\&ref_topic=15550128) business or enterprise plans (where it's now often included).
+- Naudotojams su tinkamais [Google Workspace](https://support.google.com/chat/answer/13952129?hl=en,gmail\&ref_topic=15550128) verslo ar įmonių planais (kur ji dabar dažnai įtraukta).
 
-- Subscribers to [Google One AI Premium](https://one.google.com/about/plans) personal plans.
+- [Google One AI Premium](https://one.google.com/about/plans) asmeninių planų prenumeratoriams.
 
-Availability started rolling out more broadly from mid-2024, so if you fall into one of these categories, you should see the features appearing in your Gmail interface.
+Prieinamumas plačiau pradėtas diegti nuo 2024 m. vidurio, todėl jei patenkate į vieną iš šių kategorijų, funkcijos turėtų atsirasti jūsų Gmail sąsajoje.
 
-## The Good, The Bad, and The AI: Pros and Cons of Gmail Summarization
+## Gerosios, blogosios ir DI pusės: Gmail santraukų privalumai ir trūkumai
 
-Having AI summarize your emails sounds fantastic, but like any technology, it comes with strengths and weaknesses. Based on user reports, reviews, and Google's own documentation, here's a balanced look:
+Skamba puikiai, kai DI apibendrina jūsų el. laiškus, bet kaip ir kiekviena technologija, tai turi stiprybių ir silpnybių. Remiantis naudotojų atsiliepimais, apžvalgomis ir pačios Google dokumentacija, štai subalansuotas vaizdas:
 
-### The Upside (Pros):
+### Privalumai:
 
-- **Significant Time Savings:** This is the primary benefit. Quickly grasping the core message of a long thread without reading every single reply can save substantial time, especially when catching up after being away.
+- **Reikšmingas laiko taupymas:** Tai pagrindinė nauda. Greitai suprasti ilgos gijos esmę neskaitant kiekvieno atsakymo gali sutaupyti daug laiko, ypač vejantis po pertraukos.
 
-- **Improved Focus:** By getting the key points upfront, you can better prioritize which emails need a detailed read and which can be actioned or archived based on the summary.
+- **Geresnis susitelkimas:** Iš anksto gavę pagrindinius punktus, galite lengviau nuspręsti, kuriuos laiškus reikia skaityti detaliai, o kuriuos galima tvarkyti arba archyvuoti remiantis santrauka.
 
-- **Reduced Cognitive Load:** AI takes on the mental effort of processing and synthesizing lengthy conversations, freeing up your brainpower for more complex tasks. [Research suggests](https://www.akooda.co/blog/ai-summarization) AI summarization helps reduce this mental clutter.
+- **Mažesnė kognityvinė našta:** DI perima protinį ilgų pokalbių apdorojimą ir sintezę, atlaisvindamas jūsų dėmesį sudėtingesnėms užduotims. [Tyrimai rodo](https://www.akooda.co/blog/ai-summarization), kad DI santraukos padeda sumažinti šią protinę netvarką.
 
-- **Action Item Identification:** Gemini can often identify and highlight tasks or questions directed at you within the thread.
+- **Veiksmų punktų atpažinimas:** Gemini dažnai gali atpažinti ir išryškinti gijoje jums skirtas užduotis ar klausimus.
 
-- **Seamless Integration:** Being built directly into Gmail means there's no need for external tools or copy-pasting – it works within your existing workflow.
+- **Sklandi integracija:** Kadangi funkcija įdiegta tiesiai Gmail, nereikia išorinių įrankių ar kopijavimo ir įklijavimo - ji veikia esamoje darbo eigoje.
 
-### The Downside (Cons):
+### Trūkumai:
 
-- **Accuracy Isn't Guaranteed:** AI can misunderstand nuance, sarcasm, or context. Summaries might occasionally miss crucial details or even misrepresent the conversation's tone or key decisions. Google itself [warns that AI features may suggest inaccurate information](https://support.google.com/mail/answer/14199860?hl=en\&co=GENIE.Platform%3DDesktop). Always treat summaries with a degree of caution, especially for critical communications.
+- **Tikslumas negarantuotas:** DI gali nesuprasti niuansų, sarkazmo ar konteksto. Santraukos kartais gali praleisti svarbias detales arba net klaidingai perteikti pokalbio toną ar pagrindinius sprendimus. Pati Google [įspėja, kad DI funkcijos gali siūlyti netikslią informaciją](https://support.google.com/mail/answer/14199860?hl=en\&co=GENIE.Platform%3DDesktop). Visada vertinkite santraukas atsargiai, ypač kritinei komunikacijai.
 
-- **Loss of Nuance & Tone:** A summary might convey the facts but miss the underlying sentiment, relationship dynamics, or subtle cues present in the original messages.
+- **Niuansų ir tono praradimas:** Santrauka gali perteikti faktus, bet praleisti emocinį atspalvį, santykių dinamiką ar subtilius signalus, esančius originaliuose laiškuose.
 
-- **Generic Output:** AI-generated summaries (and especially AI-drafted replies) can sometimes sound robotic or lack the personalization needed for effective communication, as noted in [some analyses](https://originality.ai/blog/what-is-gemini-in-gmail).
+- **Bendrinis rezultatas:** DI sugeneruotos santraukos, o ypač DI parašyti atsakymai, kartais gali skambėti robotiškai arba stokoti suasmeninimo, reikalingo veiksmingai komunikacijai, kaip pažymėta [kai kuriose analizėse](https://originality.ai/blog/what-is-gemini-in-gmail).
 
-- **Privacy Concerns:** While Google emphasizes data security within Workspace, the process involves AI analyzing your email content. Some users remain wary about data handling, retention (reviewed data can be kept for years), and the potential for [unintended data access](https://mashable.com/article/google-gemini-privacy-concerns), despite Google's assurances.
+- **Privatumo klausimai:** Nors Google pabrėžia duomenų saugumą Workspace aplinkoje, procesas reiškia, kad DI analizuoja jūsų el. laiškų turinį. Kai kurie naudotojai vis dar atsargiai vertina duomenų tvarkymą, saugojimą (peržiūrėti duomenys gali būti saugomi metų metus) ir galimą [netyčinę prieigą prie duomenų](https://mashable.com/article/google-gemini-privacy-concerns), nepaisant Google patikinimų.
 
-- **Limited Control & Customization:** You generally can't fine-tune *how* Gmail summarizes (e.g., length, focus). Furthermore, disabling the "Summarize" button often requires turning off [broader "smart features,"](https://ca.news.yahoo.com/latest-gmail-includes-1-risky-221406536.html) which might remove other functions you find useful.
+- **Ribota kontrolė ir pritaikymas:** Paprastai negalite tiksliai nustatyti, *kaip* Gmail apibendrina, pavyzdžiui, ilgio ar dėmesio krypties. Be to, norint išjungti „Summarize“ mygtuką, dažnai reikia išjungti [platesnes „smart features“ funkcijas](https://ca.news.yahoo.com/latest-gmail-includes-1-risky-221406536.html), o tai gali pašalinti ir kitas jums naudingas galimybes.
 
-- **Potential for Over-Reliance:** Relying solely on summaries without occasionally diving into the details could lead to misunderstandings or missing critical context over time.
+- **Perdėto pasikliovimo rizika:** Jei remsitės vien santraukomis ir kartais nesigilinsite į detales, ilgainiui galite neteisingai suprasti situaciją arba praleisti svarbų kontekstą.
 
-## Getting the Most Out of Gmail Summaries: Practical Tips
+## Kaip geriausiai išnaudoti Gmail santraukas: praktiniai patarimai
 
-So, you have access to Gmail's summarization. How can you use it effectively without falling prey to its pitfalls?
+Tarkime, turite prieigą prie Gmail santraukų. Kaip jas naudoti veiksmingai ir nepakliūti į spąstus?
 
-- **Use it for Triage:** Treat summaries as a first pass to quickly understand the topic and urgency of long threads. Use them to decide *what* needs your full attention next.
+- **Naudokite atrankai:** Santraukas vertinkite kaip pirmą praėjimą, kad greitai suprastumėte ilgos gijos temą ir skubą. Naudokite jas nuspręsti, *kam* toliau reikia viso jūsų dėmesio.
 
-- **Verify Critical Information:** If a summary mentions specific decisions, deadlines, or data points that are important, take a moment to skim the original thread or relevant message to confirm accuracy. Don't rely solely on the AI for high-stakes information.
+- **Tikrinkite kritinę informaciją:** Jei santraukoje minimi konkretūs sprendimai, terminai ar svarbūs duomenys, trumpai peržvelkite originalią giją ar atitinkamą žinutę, kad patvirtintumėte tikslumą. Aukštos svarbos informacijai nepasikliaukite vien DI.
 
-- **Prompt Specifically (Side Panel):** When using the "Ask Gemini" side panel, be specific in your prompts. Instead of just "Summarize," try "Summarize the key decisions made in this thread" or "List the action items assigned to me from this conversation."
+- **Formuluokite konkrečias užklausas (šoniniame skydelyje):** Naudodami „Ask Gemini“ šoninį skydelį, būkite konkretūs. Vietoje vien „Summarize“ pabandykite „Summarize the key decisions made in this thread“ arba „List the action items assigned to me from this conversation.“
 
-- **Provide Feedback:** Use the "Good suggestion" / "Bad suggestion" (thumbs up/down) options. This helps Google improve the feature over time, even if it doesn't fix an inaccurate summary immediately.
+- **Pateikite grįžtamąjį ryšį:** Naudokite „Good suggestion“ / „Bad suggestion“ (nykščio aukštyn/žemyn) pasirinkimus. Tai padeda Google laikui bėgant gerinti funkciją, net jei netiksli santrauka iškart nepataisoma.
 
-- **Don't Use for Sensitive Content:** Given the ongoing privacy discussions and the nature of AI processing, it's wise to avoid using the summarization feature on emails containing highly confidential or sensitive personal/business information.
+- **Nenaudokite jautriam turiniui:** Atsižvelgiant į vykstančias privatumo diskusijas ir DI apdorojimo pobūdį, protinga vengti santraukų funkcijos el. laiškams, kuriuose yra labai konfidencialios ar jautrios asmeninės/verslo informacijos.
 
-- **Remember the Context:** Keep in mind that the AI lacks the full context of your relationships, project history, or unspoken team dynamics. Interpret summaries through the lens of your own knowledge.
+- **Atsiminkite kontekstą:** Turėkite omenyje, kad DI neturi viso jūsų santykių, projekto istorijos ar neišsakytos komandos dinamikos konteksto. Santraukas interpretuokite remdamiesi savo žiniomis.
 
-## Beyond Summaries: Other AI Helpers in Your Gmail
+## Daugiau nei santraukos: kiti DI pagalbininkai Gmail aplinkoje
 
-While direct thread summarization is a major feature, Gemini's influence extends to other helpful (and related) capabilities within Gmail:
+Nors tiesioginės gijų santraukos yra svarbi funkcija, Gemini įtaka Gmail apima ir kitas naudingas bei susijusias galimybes:
 
-- **Contextual Smart Replies:** An evolution of the basic "Smart Reply," this feature [uses Gemini to analyze the email's context](https://blog.google/products/gmail/how-to-use-gemini-gmail-app/) and suggest more detailed, nuanced, and fully formed reply options. You might see suggestions labeled like "Request more info," "Confirm schedule," or "Politely decline."
+- **Kontekstiniai išmanūs atsakymai:** Tai bazinės „Smart Reply“ funkcijos evoliucija, kuri [naudoja Gemini el. laiško kontekstui analizuoti](https://blog.google/products/gmail/how-to-use-gemini-gmail-app/) ir siūlo detalesnius, niuansuotesnius bei pilnai suformuluotus atsakymų variantus. Galite matyti tokius pasiūlymus kaip „Request more info“, „Confirm schedule“ arba „Politely decline.“
 
-- **Help Me Write:** This allows you to provide a prompt, and Gemini will draft an entire email for you. It can also help refine your own drafts (e.g., make more formal, shorten, elaborate). Useful, but again, prone to sounding generic if not carefully reviewed and personalized.
+- **Help Me Write:** Ši funkcija leidžia pateikti užklausą, o Gemini parašo visą el. laiško juodraštį. Ji taip pat gali padėti patobulinti jūsų pačių juodraščius, pavyzdžiui, padaryti formalesnius, sutrumpinti ar išplėsti. Naudinga, bet vėlgi gali skambėti bendrinai, jei nėra atidžiai peržiūrėta ir suasmeninta.
 
-- **Gmail Q\&A (Mobile):** You can ask Gemini questions about your inbox directly, like "What time is my flight?" or "Find emails from \[sender] about \[project]." It searches your emails to provide answers.
+- **Gmail Q\&A (mobiliajame):** Galite tiesiogiai klausti Gemini apie savo gautuosius, pavyzdžiui, „What time is my flight?“ arba „Find emails from \[sender] about \[project].“ Jis ieško jūsų laiškuose ir pateikia atsakymus.
 
-- **Summary Cards:** These are slightly different. They automatically appear at the top of your inbox for specific email types like [orders, travel, events, or bills](https://support.google.com/mail/answer/15195630?hl=en), pulling out key data (like tracking numbers or flight times) and providing action buttons. It's data extraction more than body text summarization.
+- **Santraukų kortelės:** Jos šiek tiek kitokios. Jos automatiškai pasirodo gautųjų viršuje tam tikrų tipų el. laiškams, pavyzdžiui, [užsakymams, kelionėms, renginiams ar sąskaitoms](https://support.google.com/mail/answer/15195630?hl=en), ištraukia pagrindinius duomenis (pvz., sekimo numerius ar skrydžių laikus) ir pateikia veiksmų mygtukus. Tai labiau duomenų ištraukimas nei laiško teksto santrauka.
 
-## The Competitive Landscape: Gmail vs. Outlook vs. Specialized Tools
+## Konkurencinė aplinka: Gmail, Outlook ir specializuoti įrankiai
 
-Gmail isn't alone in leveraging AI for email productivity. Microsoft's Copilot offers similar summarization and drafting capabilities within Outlook and the broader Microsoft 365 suite. Comparisons often highlight that [Copilot might currently have slightly more mature integration across *all* Office apps](https://plusai.com/blog/microsoft-copilot-vs-google-gemini), while Gemini benefits from Google's vast data ecosystem and AI research. The best choice often depends on which ecosystem (Google Workspace vs. Microsoft 365) you primarily operate in.
+Gmail nėra vienintelis, naudojantis DI el. pašto produktyvumui. Microsoft Copilot siūlo panašias santraukų ir juodraščių funkcijas Outlook ir platesniame Microsoft 365 rinkinyje. Palyginimuose dažnai pažymima, kad [Copilot šiuo metu gali turėti šiek tiek brandesnę integraciją per *visas* Office programas](https://plusai.com/blog/microsoft-copilot-vs-google-gemini), o Gemini turi naudos iš didžiulės Google duomenų ekosistemos ir DI tyrimų. Geriausias pasirinkimas dažnai priklauso nuo to, kurioje ekosistemoje (Google Workspace ar Microsoft 365) daugiausia dirbate.
 
-Beyond these integrated giants, a growing market of third-party AI email assistants exists. Tools like [Superhuman, Shortwave, SaneBox, and others](https://zapier.com/blog/best-ai-email-assistant/) offer various approaches, sometimes focusing on specific niches like extreme speed, advanced filtering, team collaboration, or enhanced privacy features.
+Šalia šių integruotų gigantų egzistuoja auganti trečiųjų šalių DI el. pašto asistentų rinka. Tokie įrankiai kaip [Superhuman, Shortwave, SaneBox ir kiti](https://zapier.com/blog/best-ai-email-assistant/) siūlo įvairius požiūrius, kartais sutelkdami dėmesį į konkrečias nišas, pavyzdžiui, ypatingą greitį, pažangų filtravimą, komandinį bendradarbiavimą ar stipresnes privatumo funkcijas.
 
-This is where solutions like [Duet Mail](https://duetmail.com/lt) carve out their space. While native tools offer basic summarization, they might lack the sophistication needed for complex workflows or maintaining a truly personal touch. Dedicated assistants often focus on solving specific pain points that integrated tools might only partially address.
+Čia savo vietą randa tokie sprendimai kaip [Duet Mail](https://duetmail.com/lt). Nors vietiniai įrankiai siūlo bazines santraukas, jiems gali trūkti rafinuotumo, reikalingo sudėtingoms darbo eigoms arba tikrai asmeniniam tonui išlaikyti. Specializuoti asistentai dažnai sutelkia dėmesį į konkrečių skausmo taškų sprendimą, kuriuos integruoti įrankiai gali spręsti tik iš dalies.
 
-## Is Gmail's Native Summarization Enough for You?
+## Ar vietinių Gmail santraukų jums pakanka?
 
-Gmail's Gemini-powered summarization is undoubtedly a step forward in managing email overload. For users needing occasional help catching up on long threads or getting a quick overview, it can be a valuable time-saver.
+Gemini paremta Gmail santraukų funkcija neabejotinai yra žingsnis į priekį valdant el. pašto perkrovą. Naudotojams, kuriems kartais reikia pagalbos pasivyti ilgas gijas arba greitai gauti apžvalgą, ji gali būti vertingas laiko taupymo būdas.
 
-However, it might fall short if you require:
+Tačiau jos gali nepakakti, jei jums reikia:
 
-- **Deeper Contextual Understanding:** Native summaries might miss nuances tied to specific projects or relationships if that context isn't explicitly stated in the recent replies.
+- **Gilesnio kontekstinio supratimo:** Vietinės santraukos gali praleisti niuansus, susijusius su konkrečiais projektais ar santykiais, jei tas kontekstas aiškiai nepaminėtas naujausiuose atsakymuose.
 
-- **Consistent Accuracy & Reliability:** If you need summaries you can trust implicitly for critical decision-making, the inherent variability of current AI models might be a concern.
+- **Nuoseklaus tikslumo ir patikimumo:** Jei kritiniams sprendimams reikia santraukų, kuriomis galite pasitikėti beveik be išlygų, dabartinių DI modelių kintamumas gali kelti rūpesčių.
 
-- **Maintaining Your Authentic Voice:** While "Help me write" exists, ensuring AI drafts consistently sound *like you* requires significant oversight with generic tools.
+- **Autentiško balso išlaikymo:** Nors „Help me write“ egzistuoja, užtikrinti, kad DI juodraščiai nuosekliai skambėtų *kaip jūs*, su bendriniais įrankiais reikia daug priežiūros.
 
-- **Advanced Inbox Triage:** Basic summarization doesn't solve the problem of prioritizing *which* emails to even look at first. Identifying truly urgent items needing action or decisions still requires manual sifting.
+- **Pažangios gautųjų atrankos:** Bazinė santrauka neišsprendžia problemos, *kuriuos* laiškus pirmiausia verta apskritai žiūrėti. Tikrai skubių, veiksmo ar sprendimo reikalaujančių laiškų atpažinimas vis dar reikalauja rankinio sijojimo.
 
-- **Enhanced Privacy Controls:** If you're uncomfortable with the data handling practices of large platforms or need stricter privacy for sensitive communications.
+- **Stipresnių privatumo valdiklių:** Jei jums nepatogios didelių platformų duomenų tvarkymo praktikos arba jautriai komunikacijai reikia griežtesnio privatumo.
 
-This is where exploring specialized solutions becomes relevant. For instance, tools like [Duet Mail](https://duetmail.com/lt) are designed specifically to address these gaps. Features like AI Triage go beyond summarization to actively identify and surface urgent emails requiring action or decisions in a focused dashboard. Its Authentic AI Drafting learns *your* unique writing style from *your* past emails, generating replies that maintain your personal voice. Furthermore, its Smart Summarization is coupled with Contextual Awareness, remembering past interactions and project details to provide more informed and relevant summaries.
+Čia tampa aktualu tyrinėti specializuotus sprendimus. Pavyzdžiui, tokie įrankiai kaip [Duet Mail](https://duetmail.com/lt) sukurti būtent šioms spragoms spręsti. Tokios funkcijos kaip DI atranka peržengia santraukų ribas ir aktyviai atpažįsta bei sutelktame skydelyje iškelia skubius laiškus, kuriems reikia veiksmo ar sprendimo. Jo autentiškas DI juodraščių rengimas mokosi *jūsų* unikalaus rašymo stiliaus iš *jūsų* ankstesnių laiškų, generuodamas atsakymus, išlaikančius asmeninį balsą. Be to, išmanios santraukos derinamos su kontekstiniu suvokimu, prisimenant ankstesnes sąveikas ir projekto detales, kad santraukos būtų informuotesnės ir aktualesnės.
 
-If you find Gmail's native features helpful but still struggle with inbox chaos, prioritizing the truly important messages, or spending too much time editing AI drafts to sound like yourself, investigating a dedicated AI email assistant could be the next step in optimizing your workflow.
+Jei Gmail vietinės funkcijos jums naudingos, bet vis dar kovojate su gautųjų chaosu, tikrai svarbių žinučių prioritetais arba per daug laiko praleidžiate taisydami DI juodraščius, kad jie skambėtų kaip jūs, specializuotas DI el. pašto asistentas gali būti kitas žingsnis optimizuojant darbo eigą.
 
-## Conclusion: Embracing AI, Mindfully
+## Išvada: priimkite DI apgalvotai
 
-Gmail's integration of Gemini AI, particularly its summarization features, represents a significant attempt to combat the ever-growing challenge of email overload. It offers tangible benefits in time savings and focus for many users within the Google ecosystem. Understanding how it works, its capabilities, and, crucially, its limitations is key to leveraging it effectively.
+Gmail integruotas Gemini DI, ypač jo santraukų funkcijos, yra reikšmingas bandymas kovoti su vis augančiu el. pašto perkrovos iššūkiu. Daugeliui Google ekosistemos naudotojų jis suteikia apčiuopiamos naudos laiko taupymo ir dėmesio prasme. Norint veiksmingai juo naudotis, svarbu suprasti, kaip jis veikia, kokios jo galimybės ir, svarbiausia, kokie jo ribojimai.
 
-However, it's not a magic wand. Concerns about accuracy, context, privacy, and maintaining a personal touch remain valid. For professionals, freelancers, and teams demanding higher levels of efficiency, reliability, and personalization, the native features might only be part of the solution.
+Tačiau tai nėra stebuklinga lazdelė. Rūpesčiai dėl tikslumo, konteksto, privatumo ir asmeniško tono išlaikymo išlieka pagrįsti. Specialistams, laisvai samdomiems darbuotojams ir komandoms, kurioms reikia aukštesnio efektyvumo, patikimumo ir suasmeninimo lygio, vietinės funkcijos gali būti tik dalis sprendimo.
 
-Ultimately, the best approach involves using the available tools wisely. Experiment with Gmail's summarization, provide feedback, and be mindful of its constraints. And if you find yourself hitting the limits of what integrated AI can offer, don't hesitate to explore specialized solutions designed to provide deeper context, more authentic assistance, and truly intelligent inbox management.
+Galiausiai geriausias kelias - išmintingai naudoti prieinamus įrankius. Eksperimentuokite su Gmail santraukomis, teikite grįžtamąjį ryšį ir nepamirškite jų ribų. O jei pasieksite integruoto DI galimybių ribą, verta pažvelgti į specializuotus sprendimus, sukurtus gilesniam kontekstui, autentiškesnei pagalbai ir tikrai išmaniajam gautųjų valdymui.
 
-Ready to experience email management that understands context and sounds like you? [Discover how Duet Mail’s intelligent features can transform your inbox today.](https://duetmail.com/lt)
+Pasirengę patirti el. pašto valdymą, kuris supranta kontekstą ir skamba kaip jūs? [Sužinokite, kaip išmanios Duet Mail funkcijos gali pakeisti jūsų gautuosius jau šiandien.](https://duetmail.com/lt)
