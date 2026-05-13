@@ -140,6 +140,39 @@ function assertEnglishRouteJsonLdMatrix() {
     }
 }
 
+function htmlRoutePath(relativePath) {
+    if (relativePath === "index.html") return "/"
+    const withoutExtension = relativePath.replace(/\.html$/u, "")
+    return `/${withoutExtension}`
+}
+
+function canonicalLinks(document) {
+    return collectElements(document, "link")
+        .filter((node) => getAttr(node, "rel") === "canonical")
+        .map((node) => getAttr(node, "href") ?? "")
+}
+
+function assertCanonicalUrls() {
+    for (const filePath of listFiles(distRoot, ".html")) {
+        const relativePath = path.relative(distRoot, filePath)
+        if (relativePath.startsWith("i18n-qa/")) continue
+
+        const { document } = parseHtmlFile(relativePath)
+        const canonicals = canonicalLinks(document)
+        if (canonicals.length !== 1) {
+            fail(`Expected exactly one canonical link in dist/${relativePath}, found ${canonicals.length}`)
+        }
+
+        const expected = new URL(htmlRoutePath(relativePath), "https://duetmail.com").toString()
+        if (canonicals[0] !== expected) {
+            fail(`Wrong canonical URL in dist/${relativePath}: expected ${expected}, got ${canonicals[0]}`)
+        }
+        if (/https:\/\/duetmail\.com\/en(?:\/|$)/u.test(canonicals[0])) {
+            fail(`Canonical URL leaked /en in dist/${relativePath}: ${canonicals[0]}`)
+        }
+    }
+}
+
 function legalRouteInfo(relativePath) {
     const parts = relativePath.split("/")
     const file = parts.at(-1)
@@ -268,6 +301,7 @@ try {
     if (!existsSync(distRoot)) fail("dist/ is missing; run pnpm build or pnpm i18n:build first")
     assertCopiedRoutesManifest()
     assertEnglishRouteJsonLdMatrix()
+    assertCanonicalUrls()
     assertLegalRenderedDates()
     assertBootstrapRobotsState()
     assertNoBootstrapLocaleAlternates()

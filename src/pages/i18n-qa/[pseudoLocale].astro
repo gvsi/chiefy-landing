@@ -1,0 +1,72 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Nav from "../../components/nav/Nav.astro";
+import Hero from "../../components/sections/Hero.astro";
+import HeroBackground from "../../components/sections/HeroBackground.astro";
+import InboxHeroMockup from "../../components/sections/InboxHeroMockup.astro";
+import Logos from "../../components/sections/Logos.astro";
+import CategorizationShowcase from "../../components/sections/CategorizationShowcase.astro";
+import DraftShowcase from "../../components/sections/DraftShowcase.astro";
+import AgentChatShowcase from "../../components/sections/AgentChatShowcase.astro";
+import ShowcaseContainer from "../../components/sections/ShowcaseContainer.astro";
+import Testimonials from "../../components/sections/Testimonials.astro";
+import Pricing from "../../components/sections/Pricing.astro";
+import FAQ from "../../components/sections/FAQ.astro";
+import FinalCTA from "../../components/sections/FinalCTA.astro";
+import Footer from "../../components/sections/Footer.astro";
+import process from "node:process";
+import { DEFAULT_LOCALE, PSEUDO_LOCALES, type Locale, type PseudoLocale } from "../../i18n/locales";
+import { englishOnlyAlternates } from "../../i18n/routing";
+import { getHomeContent } from "../../i18n/content";
+import { getMessages } from "../../i18n/messages/schema";
+
+export function getStaticPaths() {
+    if (process.env.DUET_LANDING_ENABLE_PSEUDO_QA !== "1") return [];
+    return PSEUDO_LOCALES.map((pseudoLocale) => ({
+        params: { pseudoLocale },
+        props: { pseudoLocale },
+    }));
+}
+
+const { pseudoLocale } = Astro.props as { pseudoLocale: PseudoLocale };
+const renderLocale: PseudoLocale = pseudoLocale;
+const routeLocale: Locale = DEFAULT_LOCALE;
+const messages = getMessages(renderLocale);
+const home = getHomeContent(renderLocale);
+const homeSections = home as any;
+const homeMeta = home.meta as { title: string; description: string };
+const title = homeMeta.title;
+const description = homeMeta.description;
+const alternates = englishOnlyAlternates(Astro.site, { kind: "home" });
+---
+
+<BaseLayout
+    title={title}
+    description={description}
+    canonicalPath={`/i18n-qa/${renderLocale}`}
+    ogImagePath="/og.jpg"
+    locale={renderLocale}
+    alternates={alternates}
+    robotsDirectives="noindex,noarchive"
+>
+    <Nav locale={routeLocale} messages={messages} alternates={alternates} />
+    <main class="relative isolate">
+        <HeroBackground />
+        <Hero hero={homeSections.hero}>
+            <div class="mt-10 w-full">
+                <InboxHeroMockup inboxHeroMockup={homeSections.inboxHeroMockup} />
+            </div>
+        </Hero>
+        <Logos logos={homeSections.logos} />
+        <ShowcaseContainer>
+            <CategorizationShowcase categorizationShowcase={homeSections.categorizationShowcase} />
+            <DraftShowcase draftShowcase={homeSections.draftShowcase} />
+            <AgentChatShowcase agentChatShowcase={homeSections.agentChatShowcase} />
+        </ShowcaseContainer>
+        <Testimonials testimonials={homeSections.testimonials} />
+        <Pricing pricing={homeSections.pricing} />
+        <FAQ faq={homeSections.faq} />
+    </main>
+    <FinalCTA finalCta={homeSections.finalCta} />
+    <Footer locale={routeLocale} messages={messages} />
+</BaseLayout>

@@ -3,5 +3,5 @@
   "compilerOptions": {
     "types": ["astro/client"]
   },
-  "exclude": ["functions/**/*", ".wrangler/**/*"]
+  "exclude": ["functions/**/*", ".wrangler/**/*", "dist/**/*"]
 }

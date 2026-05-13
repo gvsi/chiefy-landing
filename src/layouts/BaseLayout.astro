@@ -44,6 +44,12 @@ const normalizedPath = (() => {
 const canonicalUrl = new URL(normalizedPath, Astro.site).toString();
 const ogImageUrl = new URL(ogImagePath, Astro.site).toString();
 const runtimeOgLocale = isRuntimeLocale(locale) ? locale : undefined;
+const runtimeAlternateLocales = alternates.filter(
+    (alternate): alternate is AlternateLink & { locale: Locale } =>
+        alternate.locale !== "x-default" && isRuntimeLocale(alternate.locale),
+);
+const shouldEmitOgLocaleAlternates =
+    runtimeAlternateLocales.length > 1 && !robotsDirectives?.includes("noindex");
 ---
 
 <!doctype html>
@@ -108,13 +114,9 @@ const runtimeOgLocale = isRuntimeLocale(locale) ? locale : undefined;
         <meta property="og:url" content={canonicalUrl} />
         {runtimeOgLocale && <meta property="og:locale" content={OPEN_GRAPH_LOCALES[runtimeOgLocale]} />}
         {runtimeOgLocale &&
-            alternates
-                .filter(
-                    (alternate): alternate is AlternateLink & { locale: Locale } =>
-                        alternate.locale !== "x-default" &&
-                        alternate.locale !== locale &&
-                        isRuntimeLocale(alternate.locale),
-                )
+            shouldEmitOgLocaleAlternates &&
+            runtimeAlternateLocales
+                .filter((alternate) => alternate.locale !== locale)
                 .map((alternate) => (
                     <meta property="og:locale:alternate" content={OPEN_GRAPH_LOCALES[alternate.locale]} />
                 ))}

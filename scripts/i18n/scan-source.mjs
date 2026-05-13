@@ -33,6 +33,7 @@ const ignoredFragments = [
     "Escape",
     "Roboto, Helvetica, Arial",
     "replace(",
+    "satisfies readonly",
 ]
 const ignoredExactValues = new Set([
     "Article",
@@ -62,6 +63,7 @@ const ignoredValuePatterns = [
     /Astro\.site/,
     /Invalid .* metadata/,
     /Missing .* metadata/,
+    /Unsupported .* page/,
     /^Upwork$/,
     /^Airtable$/,
     /^Trello$/,
