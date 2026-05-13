@@ -1,406 +1,405 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | AI Email Assistant Gmail:lle ja Outlook:lle",
+    "description": "Duet Mail:n AI-sähköpostiapuri tekee yhteenvedon sähköposteista, luonnostelee vastauksia ja järjestää postilaatikkosi. Toimii Gmail:n ja Outlook:n kanssa. Säästä yli 4 tuntia viikossa."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Nyt saatavilla Gmail:lle ja Outlook:lle",
+    "headlinePrefix": "Sinun ",
+    "headlineHighlight": "esikuntapäällikkö",
+    "headlineSuffix": " varten",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "lajittelusähköposti",
+      "luonnosteluvastaukset",
+      "-aikataulu",
+      "löytää vastauksia"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "Säästä yli 4 tuntia joka viikko sähköpostitse",
+    "primaryCta": "Aloita Gmail:stä",
+    "secondaryCta": "Aloita Outlook:stä",
+    "trialNote": "Ilmainen 14 päivän kokeilu",
+    "cancelNote": "Peruuta milloin tahansa"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Instant luokittelu",
+      "AI-tehoiset vastaukset"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Saapuneet",
     "providers": [
       "Gmail",
       "Outlook"
     ],
     "emailTimes": [
-      "3:42 PM",
-      "2:18 PM",
+      "15:42",
+      "14:18",
       "10:05 AM",
-      "Yesterday"
+      "Eilen"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Automaattinen luonnos",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Re: Tuotteen julkaisun aikajana",
+        "preview": "Hei! Halusin tarkistaa laukaisuresurssit. Ollaanko vielä raiteilla ensi viikolla...",
+        "pill": "Vastaus"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Nopea synkronointi tänä iltapäivänä?",
+        "preview": "Haluaisin seurata tiekartan päivityksiä. Oletko vapaa noin klo 16...",
+        "pill": "-kokous"
       },
       {
-        "from": "Marketing",
+        "from": "Markkinointi",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
+        "subject": "-kampanjan tulokset valmiina",
         "pill": "FYI"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Myymäläsi on valmis Black Fridayta varten",
+        "pill": "tarjoukset"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Hei Alex! Kyllä, olemme oikeilla jäljillä. Suunnittelutiimi viimeisteli resurssit eilen ja lähetän lopulliset tiedostot EOD:ltä tänään."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "Asiakkaiden logot",
+    "headingPrefix": "Tulevaisuuteen katsova luottaa",
+    "headingHighlight": " ammattilaisia ja tiimejä ",
+    "headingSuffix": "maailmanlaajuisesti"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": ":n ominaisuudet",
+    "eyebrow": "Saapuneet, ladattu",
+    "title": "Postilaatikkosi ei saisi omistaa päivääsi",
+    "subtitle": "Muuta kaaos selkeydeksi AI:llä, joka todella saa sinut.\nSäästä yli 3 tuntia viikossa Gmail:n ja Outlook:n älykkäimmällä sähköpostiavustajalla.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "Sähköpostiluonnokset, jotka kuulostavat sinulta",
+        "description": "Duet AI sähköpostikirjoittaja valmistelee luonnoksia tärkeimmille sähköposteillesi. Se oppii sävysi ja kirjoitustyylisi.",
+        "ariaLabel": "Sähköpostiluonnokset, jotka kuulostavat sinulta",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "Laadi Johnille henkilökohtaisen kylmän sähköpostin",
+          "sampleText": "AI-putkistot ovat välttämättömiä kestävien, skaalautuvien ja tehokkaiden AI-järjestelmien rakentamisessa.",
+          "readyToSend": "Oletko valmis lähettämään?",
+          "remindFollowUp": "Muistuta minua seuraamaan."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "Instant yhteenvedot ja toimintokohteet",
+        "description": "Hanki TL;DR ja toimintokohteet sähköpostisi sisällöstä sekunneissa. Et enää lue romaaneja postilaatikossasi.",
+        "ariaLabel": "Välittömät yhteenvedot ja toimintokohteet",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "Ehdotan meitä ",
+          "sentenceHighlight": "kokoontuu ensi viikolla",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "Uusi toimintokohde",
+          "actionLead": "Löysin nämä ilmaiset paikat kalenteristasi",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "tiistaina, klo 10",
+            "torstaina klo 14",
+            "perjantaina klo 9"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Etsi lisää",
+          "primaryButton": "Lähetä"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "Älykkäät muistutukset",
+        "description": "Aseta se ja unohda se. Duet AI muistaa seurata, kun muut eivät vastaa, joten mikään ei putoa halkeamien läpi.",
+        "ariaLabel": "Älykkäät muistutukset",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "AI-tehoiset älykkäät muistutukset",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Seuranta",
               "value": "12",
-              "unit": "emails"
+              "unit": "sähköpostit"
             },
             {
-              "label": "To reply",
+              "label": "Vastataksesi",
               "value": "2",
-              "unit": "emails"
+              "unit": "sähköpostit"
             },
             {
-              "label": "Completed",
+              "label": "Valmis",
               "value": "3",
-              "unit": "action items"
+              "unit": "toimintakohteet"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Suorita kirjoitustehtävät",
+              "time": "2 päivää sitten"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "-projektin integrointi",
+              "time": "12 tuntia sitten"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Seuraa",
+            "aikataulu?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "Keskity olennaiseen",
+        "description": "Älykäs luokittelu tuo esiin tärkeimmät sähköpostisi ensin ja luokittelee sähköpostit aiheisiin. Sähköpostin hallinta ei ole koskaan ollut helpompaa.",
+        "ariaLabel": "Keskity olennaiseen",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "ANALYSOINTI"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "Sähköpostin järjestäminen ja älykäs postilaatikon luokittelu",
+    "badge": "Organisaatio",
+    "title": "Duet järjestää postilaatikkosi",
+    "subtitle": "Automaattinen luokittelu suodattaa melun ja pinnat tärkeimmät. Näet heti, mikä vaatii toimia, mikä on vain tiedoksi ja mikä voi odottaa.",
+    "windowTitle": "Saapuneet",
     "providers": [
       "Gmail",
       "Outlook"
     ],
     "emailTimes": [
-      "2:34 PM",
+      "14:34",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "Eilen",
+      "20. joulukuuta"
     ],
     "emails": [
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "Q4 -budjetin tarkistuspyyntö",
+        "preview": "Lopulliset numerot ovat liitteenä. Tarkista EOD.",
+        "pill": "Toimenpiteitä tarvitaan"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Team standup huomenna klo 10",
+        "pill": "-kokous"
       },
       {
         "from": "Design Team",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
+        "subject": "Uudet brändiohjeet julkaistu",
         "pill": "FYI"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Kuukausitiliottosi on valmis",
+        "pill": "tarjoukset"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "Uutiskirje",
+        "subject": "Viikoittainen yhteenveto",
+        "pill": "tarjoukset"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "AI sähköpostin luonnos ja vastausten luominen",
+    "badge": "Luonnos",
+    "title": "Duet-luonnokset äänessäsi",
+    "subtitle": "Duet oppii, kuinka kirjoitat, ja laatii vastaukset, jotka vastaavat sävyäsi. Tarkista, säädä tarvittaessa ja lähetä sekunneissa.",
+    "windowTitle": "Uusi viesti",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "Vastaanottaja:",
+      "subject": "Aihe:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: Nopea synkronointi tällä viikolla?",
+      "originalFrom": "Alex Rivera kirjoitti:",
+      "originalText": "Hei! Olisi kiva seurata tiekartan muutoksia. Oletko vapaa 30 minuutin puheluun tällä viikolla? Kerro minulle, mikä toimii sinulle.",
+      "badge": "Automaattinen luonnos",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Hei Alex!",
+        "Haluaisin synkronoida tiekartan kanssa. Olen vapaa torstaina klo 14-16 tai perjantaiaamuna – kumpikin sopii minulle hyvin.",
+        "Kerro minulle, mikä sopii sinulle parhaiten, niin lähetän kutsun.",
+        "Kiitos!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Olen vapaa torstaina klo 14-16 tai perjantaiaamuna",
       "actions": [
-        "Send",
+        "Lähetä",
         "Edit"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Henkilökohtainen luonnos",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Tuntee kalenterisi",
+        "Luonnokset äänessäsi",
+        "Tietää kontekstin muistin kautta",
+        "Oppii ajan myötä"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
+    "ariaLabel": "AI sähköpostiäly ja avustaja",
+    "badge": "älykkyys",
+    "title": "Kysy mitä tahansa sähköpostistasi",
+    "subtitle": "Pyydä Duetia etsimään sähköpostit, tarkistamaan kalenterisi tai luonnostelemaan vastaus. Se ymmärtää postilaatikkosi ja vastaa välittömästi.",
     "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "onlineLabel": "verkossa",
+    "initialUserMessage": "Löydätkö kirjanpidon lähettämän Stripe-laskun?",
+    "processingText": "Haetaan postilaatikkoa...",
+    "foundHeader": "Löytyi 2 sähköpostiviestiä käyttäjältä Stripe",
+    "foundBody": "Löysin kuitin $29.00 USD:stä 24.10.",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
-      "fileSize": "142 KB"
+      "fileSize": "142 kt"
     },
     "suggestions": [
       {
-        "action": "draft",
-        "label": "Draft a reply"
+        "action": "luonnos",
+        "label": "Luonnostele vastaus"
       },
       {
-        "action": "calendar",
-        "label": "Find time to meet"
+        "action": "kalenteri",
+        "label": "Löydä aikaa tavata"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Kysy mitä tahansa...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "Käsitellään...",
+      "processingDraft": "Luodaan luonnosta...",
+      "processingCalendar": "Tarkistetaan saatavuutta...",
+      "draftIntro": "Tässä vastausluonnos kirjanpitoon:",
+      "draftHeader": "Luonnos: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Hei tiimi,",
+        "Liitteenä on lokakuun Stripe-lasku (29,00 dollaria).",
+        "Kerro minulle, jos tarvitset jotain muuta.",
+        "paras,"
       ],
       "draftActions": [
-        "Send Email",
+        "Lähetä sähköpostia",
         "Edit"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "Sinulla on 3 paikkaa avoinna huomenna:",
       "calendarSlots": [
         {
-          "time": "9:30 AM",
+          "time": "klo 9.30",
           "duration": "30 min"
         },
         {
-          "time": "2:00 PM",
+          "time": "14:00",
           "duration": "30 min"
         },
         {
-          "time": "4:30 PM",
+          "time": "16:30",
           "duration": "30 min"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Laadi myös vastaus?",
+        "calendarAfterDraft": "Varataanko myös seuranta?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "suosittelut",
+    "scrollingAriaLabel": "Rullaavat suosittelut",
+    "eyebrow": "suosittelut",
+    "title": "Kiireisten ammattilaisten rakastama",
+    "subtitle": "Oikeita ihmisiä. Oikea postilaatikko voittaa.",
     "items": [
       {
         "name": "Francesca T.",
         "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "quote": "Jokaisen pennin arvoinen. Aika, jonka säästän sähköpostissa, maksaa Duet Mail:n 10x enemmän. En voisi kuvitella työskentelyä ilman sitä nyt.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "myyntipäällikkö",
+        "quote": "Pitkien sähköpostisäikeiden välittömät yhteenvedot ovat puhdasta taikuutta ja niin käyttäjäystävällisiä. Asiakkaani mielestä olen yli-ihminen.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "Yrittäjä",
+        "quote": "suhtautui skeptisesti tekoälyn käyttöön sähköposteissani. Nyt on kuin sinulla olisi loistava johtajaassistentti. Ei voi kuvitella paluuta.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "konsultti",
+        "quote": "Konsulttina jokainen minuutti on tärkeä. Duet Mail ei vain säästä aikaa – se tekee sähköpostiviestinnästäni terävämpää.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
         "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "title": "markkinointijohtaja",
+        "quote": "Lopuksi AI-postiavustaja, joka todella oppii kirjoittamaan. Välittömät vastaukset ovat niin osuvia, että tiimini luuli, että olin töissä keskiyöllä.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "ariaLabel": "Hinnoittelu",
+    "eyebrow": "Hinnoittelu",
+    "heading": "Yksinkertainen hinnoittelu, tehokas postilaatikko",
+    "subheading": "Aloita ilmaiseksi, päivitä milloin tahansa. Peruuta milloin tahansa.",
+    "billingLegend": "Laskutusnopeus\nVuosittainen",
+    "billingAnnual": "",
+    "billingMonthly": "kuukausittain",
+    "savingsTag": "Säästä 33 %",
+    "priceCadence": "/fi/month",
+    "perUserSuffix": "/fi/user",
+    "annualBillingSuffix": "(laskutetaan vuosittain)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Suojattu kassalla Stripe:n kautta",
+      "Peruuta milloin tahansa"
     ],
     "plans": [
       {
         "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "description": "Kaikille, jotka haluavat tietää, miltä älykkäämpi postilaatikko tuntuu. Ei vaadi sitoutumista.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "välittömät yhteenvedot",
+            "description": "Ymmärrä minkä tahansa säikeen ydin"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "AI Luonnokset",
+            "description": "Maku vastauksista äänessäsi"
           },
           {
             "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "description": "Perusorganisaatio alkaa"
           },
           {
             "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "description": "Kokeile AI-avustajaa"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Valitse Gmail tai Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "14 päivän ilmainen kokeilu",
+        "description": "Ammattilaisille, jotka haluavat syvempää automaatiota, integraatioita ja postilaatikkoa, joka todella tietää, miten työskentelet.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
@@ -408,42 +407,42 @@
         "features": [
           {
             "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "description": "Sähköpostit lajitellaan automaattisesti älykkäisiin luokkiin",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "AI Luonnokset",
+            "description": "Äänelläsi kirjoitetut vastaukset valmiina lähetettäväksi",
             "highlight": true
           },
           {
             "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "description": "Chatilla voit etsiä, luonnostella, järjestää ja paljon muuta",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "kalenterin integrointi",
+            "description": "Ajoita, tarkastele ja hallinnoi tapahtumia postilaatikostasi"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "välittömät yhteenvedot",
+            "description": "Opi minkä tahansa langan tai liitteen ydin"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Älykkäät muistutukset",
+            "description": "Seurannat nousevat pintaan automaattisesti, joten mikään ei luista"
           },
           {
             "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "description": "Todelliset ihmiset, nopeat vastaukset"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Valitse Gmail tai Outlook",
         "featured": true
       },
       {
         "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "description": "Organisaatioille, jotka tarvitsevat yritystason mittakaavan, erityistä tukea ja mukautettuja työnkulkuja. Paras 50+ joukkueille.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,36 +450,36 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Kaikki Pro:ssä",
+            "description": "Kaikki ominaisuudet mukana"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Dedikoitu tuki",
+            "description": "Henkilökohtainen tilivastaava"
           },
           {
             "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "description": "Näkemyksiä organisaatiostasi"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Jaetut työnkulut",
+            "description": "Mallit ja automaatio tiimeille"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Ota yhteyttä myyntiin",
+        "ctaNote": "Mukautettu hinnoittelu saatavilla"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
+    "ariaLabel": "Usein kysytyt kysymykset",
     "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "headingPrefix": "Yleisiä kysymyksiä, ",
+    "headingAccent": "vastasi",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
+    "contactLabel": "YHTEYSTIEDOT",
+    "contactHeading": "Onko sinulla vielä kysyttävää?",
+    "contactCta": "Ota yhteyttä →",
     "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
@@ -488,78 +487,78 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Miten Duet Mail suojaa sähköpostitietojani?",
+        "answer": "Turvallisuutesi on meille tärkeintä. Käytämme OAuth 2.0:aa turvalliseen todentamiseen sekä Google:n että Microsoft:n kanssa. Sähköpostin sisältö salataan lepotilassa asiakaspuolen kenttätason salauksella, ja noudatamme API-pääsyn pienimmän etuoikeuden periaatetta. Google-integraatiota varten käymme läpi Google:n vuotuisen CASA-turvaarvioinnin."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Miten sähköpostiyhteenvetotoiminto toimii?",
+        "answer": "Duet Mail käyttää kehittynyttä AI:ää sähköpostiviestien ketjujen analysointiin ja tiiviin yleiskatsauksen luomiseen, joka korostaa tärkeimmät kohdat, päätökset ja toimintakohteet. Tämä auttaa sinua ymmärtämään kontekstin nopeasti lukematta koko säiettä."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Mitä käyttöoikeuksia Duet Mail tarvitsee?",
+        "answer": "Duet Mail vaatii pääsyn sähköposteihisi yhteenvetojen, toimintokohteiden poimimiseen, sisällön luomiseen ja sähköpostien lähettämiseen. Pyydämme vain välttämättömät luvat. Voit tarkistaa ja peruuttaa nämä luvat milloin tahansa Google-tilisi tai Microsoft-tilin asetuksista."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Mitä ilmainen kokeilu sisältää?",
+        "answer": "14 päivän ilmainen kokeilu sisältää täyden pääsyn kaikkiin Pro:n ominaisuuksiin: rajattomat sähköpostiyhteenvedot, toimintokohteiden poimiminen, AI-sähköpostikirjoitin (sähköpostien ja luonnosten luominen ilman rajoituksia) ja mukautetut sähköpostimallit. Kirjaudu sisään Google:llä tai Microsoft:llä, niin voit säästää aikaa sähköpostin hallinnassa."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Voinko käyttää Duet Mail:tä muiden sähköpostipalveluntarjoajien kanssa?",
+        "answer": "Duet Mail tukee Gmail-, Google Workspace- ja Microsoft Outlook -malleja. Aloita kirjautumalla sisään Google- tai Microsoft-tililläsi."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Aloita",
+    "headline": "Saat 4 tuntia takaisin.\nJoka viikko.",
+    "subline": "Liity ammattilaisiin, jotka aloittavat päivänsä selkeästi, eivät kaaoksella. Ilmainen kokeilujaksosi odottaa.",
+    "primaryCta": "Aloita Gmail:stä",
+    "secondaryCta": "Aloita Outlook:stä",
+    "note": "14 päivän ilmainen kokeiluversio · Peru milloin tahansa",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
+      "Google CASA-arvioitu",
+      "Salattu levossa",
       "Secure OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "Sivuston alatunniste",
+    "brandIconAlt": "Duet Mail-kuvake",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — AI Email Assistant, joka säästää tuntejasi joka viikko",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Tutustu",
         "links": [
           {
-            "label": "Organization",
+            "label": "Organisaatio",
             "href": "/fi#organization"
           },
           {
-            "label": "Drafting",
+            "label": "Luonnos",
             "href": "/fi#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "älykkyys",
             "href": "/fi#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Chrome-laajennus",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "asiakkaat",
         "links": [
           {
-            "label": "Pricing",
+            "label": "Hinnoittelu",
             "href": "/fi#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "suosittelut",
             "href": "/fi#testimonials"
           },
           {
@@ -569,31 +568,31 @@
         ]
       },
       {
-        "title": "Legal",
+        "title": "Laillinen",
         "links": [
           {
-            "label": "Privacy",
+            "label": "Tietosuoja",
             "href": "/fi/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Ehdot",
             "href": "/fi/terms"
           },
           {
-            "label": "Cookies",
+            "label": "Evästeet",
             "href": "/fi/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Vastuuvapauslauseke",
             "href": "/fi/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "-liitäntä\nTuote",
         "links": [
           {
-            "label": "Blog",
+            "label": "blogi",
             "href": "/fi/blog"
           },
           {
@@ -621,42 +620,42 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
+    "ariaLabel": "Sijoitetun pääoman tuotto",
+    "label": "Matematiikka",
+    "narrativeTemplate": "{pricePerBooking} per {bookingUnit}, menettäen vain {lostPerMonth}:n hitaille vastauksille =",
+    "lossSuffix": "/fi/mo gone",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Duetti",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - AI Sähköpostiapuri Gmail:lle ja Outlook:lle",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Asiakastuki",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
-    "applicationCategory": "CommunicationApplication",
+    "softwareDescription": "AI-sähköpostiavustaja Gmail:lle ja Outlook:lle, joka tekee automaattisesti yhteenvedon sähköposteista, luonnostelee vastauksia äänelläsi ja järjestää postilaatikkosi tuntien säästämiseksi joka viikko.",
+    "applicationCategory": "viestintäsovellus",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Älykäs sähköpostin järjestäminen ja luokittelu",
+      "AI-käyttöinen sähköpostin luonnos äänelläsi",
+      "Älykäs sähköpostiavustaja kalenteriintegraatiolla",
+      "Automaattiset sähköpostiyhteenvedot ja toimintokohteet",
+      "Älykkäät muistutukset seurantaan"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "-perussuunnitelma",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Ilmainen paketti, jossa on välittömät yhteenvedot, AI-luonnokset ja älykäs postilaatikko"
       },
       {
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "Täysi pääsy älykkään postilaatikon luokittelun, AI-luonnoksen, avustajan ja kalenterin integroinnin avulla"
       }
     ],
     "aggregateRating": {
@@ -664,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "Vaatii JavaScriptin. Toimii Gmail:n, Google Workspacen ja Microsoft Outlook:n kanssa.",
     "urls": {
       "site": "https://duetmail.com/fi",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Kuinka Duet Mail suojaa sähköpostitietojani?",
+        "answer": "Turvallisuutesi on meille tärkeintä. Käytämme OAuth 2.0:aa turvalliseen todentamiseen sekä Google:n että Microsoft:n kanssa. Sähköpostin sisältö salataan lepotilassa asiakaspuolen kenttätason salauksella, ja noudatamme API-pääsyn pienimmän etuoikeuden periaatetta. Google-integraatiota varten käymme läpi Google:n vuotuisen CASA-turvaarvioinnin."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Miten sähköpostiyhteenvetotoiminto toimii?",
+        "answer": "Duet Mail käyttää kehittynyttä AI:ää sähköpostiviestien ketjujen analysointiin ja tiiviin yleiskatsauksen luomiseen, joka korostaa tärkeimmät kohdat, päätökset ja toiminnot. Tämä auttaa sinua ymmärtämään kontekstin nopeasti lukematta koko säiettä."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Mitä käyttöoikeuksia Duet Mail tarvitsee?",
+        "answer": "Duet Mail vaatii pääsyn sähköposteihisi yhteenvetojen laatimiseen, toimintokohteiden poimimiseen, sisällön luomiseen ja sähköpostien lähettämiseen. Pyydämme vain välttämättömät luvat. Voit tarkistaa ja peruuttaa nämä luvat milloin tahansa Google-tilisi tai Microsoft-tilin asetuksista."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Mitä ilmainen kokeilu sisältää?",
+        "answer": "14 päivän ilmainen kokeilu sisältää täyden pääsyn kaikkiin Pro:n ominaisuuksiin: rajattomat sähköpostiyhteenvedot, toimintokohteiden poimiminen, AI-sähköpostikirjoitin (sähköpostien ja luonnosten luominen ilman rajoituksia) ja mukautetut sähköpostimallit. Kirjaudu sisään Google:llä tai Microsoft:llä, niin voit säästää aikaa sähköpostin hallinnassa."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Voinko käyttää Duet Mail:tä muiden sähköpostipalveluntarjoajien kanssa?",
+        "answer": "Duet Mail tukee Gmail-, Google Workspace- ja Microsoft Outlook -malleja. Aloita kirjautumalla sisään Google- tai Microsoft-tililläsi."
       }
     ]
   }

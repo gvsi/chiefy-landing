@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail Whale-katselukierroksille | AI sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa valaita tarkkailevia kapteeneja vastaamaan varaussähköposteihin välittömästi – jopa vedestä. AI:n muotoillut vastaukset, joissa on kiertueesi tiedot, hinnat ja ääni.",
+  "heroBadge": "Yli 300 kiertueen kapteenin luottama",
+  "heroHeadline": "Sähköpostiavustajasi, kun olet tarkkailemassa valaita",
+  "heroSubline": "Duet oppii kiertueaikataulusi, hinnoittelusi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta ollessasi vesillä.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "8 hengen ryhmä — saatavuus 14. kesäkuuta?",
+      "preview": "Hei! Olemme 8-henkinen perhe vierailemassa viikon ajan. Onko sinulla tilaa aamukiertueelle 14. kesäkuuta? Mikä on hinta per henkilö ja sopiiko se lapsille?",
+      "pill": "Vastaus",
       "pillColor": "red"
     },
     {
       "from": "James & Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "Yksityinen charter-hinnoittelu?",
+      "preview": "Haluaisimme varata yksityisen valaiden katselukierroksen vuosipäivämme kunniaksi. Mitä maksaa 2 tunnin yksityinen charter vain meille kahdelle...",
+      "pill": "Korkea arvo",
       "pillColor": "amber"
     },
     {
       "from": "Cruise Port Desk",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "Aikataulumuutos — Coral Princess saapuu tunnin etuajassa",
+      "preview": "Huomio: huomisen Coral Princessin saapuminen on siirretty kello 10:stä yhdeksään. Säädä mahdollisia satamaretkien noutoja vastaavasti...",
+      "pill": "Kiireellinen",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Uusi arvostelu yrityksellesi",
+      "preview": "Matkustaja arvosteli äskettäin yrityksesi. Katso mitä heillä oli sanottavaa ja vastaa...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "Hei Rachel! 14.6.aamukierroksella on tilaa 8:lle. Retket 125€/hlö, lapset 4-12v puoleen hintaan. Lähdemme satamasta klo 9 ja ajamme noin 2,5 tuntia. Mukana kiikarit – tuo vain kerrokset ja aurinkovoidetta. Haluatko, että varaan 8 paikkaa?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "kiertueryhmä",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Yksi tallennettu ryhmävaraus maksaa Duetin vuoden."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, risteilyalusten aikataulumuutokset toiseksi ja melu ei koskaan. Enää ei puutu yksityistä tilauskyselyä TripAdvisor-hälytysten alle.",
+  "draftSubtitle": "Duet oppii kiertueaikasi, hinnoittelusi ja käytäntösi. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on saatavuus, mitä sisältyy ja mitä tuoda. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Kuinka monta paikkaa on jäljellä lauantain aamukiertueella?\" \"Luonnos vastaus Rachelille saatavuuden mukaan.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "8 hengen ryhmä – saatavuus 14. kesäkuuta?",
+      "preview": "Olemme 8-henkinen perhe vierailemassa viikon ajan...",
+      "pill": "Vastaa nyt",
       "pillColor": "red"
     },
     {
       "from": "James L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Re: Yksityinen charter vahvistettu - lauantai klo 14.00",
+      "pill": "varattu",
       "pillColor": "blue"
     },
     {
       "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "Käykö huominen kiertue? Tuuli näyttää kovalta",
+      "pill": "Kysymys",
       "pillColor": "amber"
     },
     {
       "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
+      "subject": "Päivittäinen varausyhteenveto — 3 uutta varausta",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Marine Supply Co.",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "Kesävara — 15 % alennus turvavarusteista",
+      "pill": "tarjoukset",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Re: Ryhmä 8 — saatavuus 14. kesäkuuta?",
+    "originalFrom": "Rachel T. kirjoitti:",
+    "originalText": "Hei! Olemme 8-henkinen perhe vierailemassa viikon ajan. Onko sinulla tilaa aamukiertueelle 14. kesäkuuta? Mikä on hinta per henkilö ja sopiiko se lapsille?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Hei Rachel!",
+      "14. kesäkuuta aamukierroksella on tilaa 8:lle. Liput 125€/hlö, lapset 4-12v puoleen hintaan. Lähdemme klo 9 ja palaamme noin klo 11.30.",
+      "Mukana kiikarit ja sadevarusteet – tuo vain lämpimät kerrokset ja aurinkovoidetta. Lapset rakastavat sitä näköalatasanteella.",
+      "Haluatko, että lukitun 8 kohtaan?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "14. kesäkuuta aamukierroksella on runsaasti tilaa 8:lle. Liput 125 dollaria/hlö",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Tietää kiertueaikasi ja hinnoittelusi",
+      "Luonnokset äänessäsi",
+      "Sisältää mitä tuodaan automaattisesti",
+      "Oppii ajan myötä"
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "Kuinka monta paikkaa on jäljellä lauantain aamukierrokselle?",
+    "agentResponse": "Varaustesi perusteella lauantain klo 9.00-kiertueella on 18 paikasta 44 täytettynä – 26 vielä avoinna. Iltapäiväkierros on melkein täynnä klo 40/44. Haluatko minun laativan vastauksen kaikkiin odottaviin tiedusteluihin lauantaiaamuna saatavuudella?",
+    "followUp": "Laadi vastaus Rachelille ja vahvista 14. kesäkuuta kahdeksalle hengelle",
+    "followUpResponse": "Valmis! Kirjoitin Rachelille vastauksen, jossa vahvistettiin 14. kesäkuuta aamukierros 8 vieraalle hintaan 125 dollaria/henkilö. Se sisältää lähtöajan, mitä tarjotaan ja mitä tuoda. Valmiina tarkastettavaksi ja lähetettäväksi."
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "Valaiden katselukapteenit rakastavat",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
+      "name": "kapteeni Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "quote": "Risteilyalusten matkustajat tarvitsevat vastauksia nopeasti – heillä on vain 6 tuntia satamassa. Aiemmin menetin yksityiset charterit, koska olin vesillä, kun tiedustelu tuli sisään. Nyt Duet vastaa hinnoittelu- ja noutotietoihini ennen kuin edes telakoitun.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "quote": "Järjestämme kaksi kierrosta päivässä ryhäselän aikana ja sähköpostien määrä on epätodellista. \"Nähdäänkö valaita?\" \"Mitä minun pitäisi laittaa päälleni?\" \"Onko huominen peruttu?\" Duetti käsittelee toistuvia kysymyksiä ja keskitymme kierroksiin.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
+      "name": "kapteeni Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "quote": "Vastasin samaan 10 kysymykseen joka ilta – hinnat, mitä sisältyy hintaan, merisairausvinkkejä, lasten ikärajat. Duet oppi kaiken ensimmäisen viikon aikana. Vastausaikani oli 8 tunnista 8 minuuttiin.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "title": "Varauspäällikkö, Pacific NW",
+      "quote": "Sään peruutukset ovat pahimpia – 30 ihmistä tarvitsee uudelleenvarauksen kerralla, ja minä jongleerin puheluilla. Duet luonnostelee henkilökohtaisia ​​sähköpostiviestejä jokaiselle vieraalle. Se mikä minulla kesti ennen 2 tuntia, kestää nyt 15 minuuttia.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "quote": "Olemme kahden hengen operaatio – minä kapteeni, hän hoitaa logistiikan. Sesonkiaikana hän vietti 3 tuntia yössä sähköpostin parissa. Duetti leikkasi sen 30 minuuttiin. Hän todella saa iltansa takaisin nyt.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Vietä valaskausi vedessä,\nei postilaatikossasi.",
+  "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Käsitteleekö Duet sään peruutuksia ja risteilyalusten aikataulumuutoksia?",
+      "answer": "Kyllä. Kun peruutat kiertueen sään tai risteilyaluksen saapumisajan muutosten vuoksi, voit kertoa Duetille kerran ja se laatii henkilökohtaisen aikataulun tai päivittää sähköpostit jokaiselle asiakkaalle. Ei enää saman viestin kopioimista ja liittämistä 30 kertaa. Jokainen vastaus sisältää vieraan alkuperäiset varaustiedot ja käytettävissä olevat vaihtoehdot."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "Saamme jatkuvasti samoja kysymyksiä – 'nähdäänkö valaita?', 'mitä minun pitäisi pukea?', 'sopiiko se lapsille?' Pystyykö Duet käsittelemään niitä?",
+      "answer": "Duet loistaa juuri siellä. Se oppii tavalliset vastauksesi – lajit, joita tyypillisesti näet, mitä ottaa mukaan, ikäsäännöt, merisairausvinkit, lähtöajat – ja laatii täydelliset vastaukset välittömästi. Tarkistat ja lähetät. Useimmat kapteenit kertovat meille, että 80 % heidän postilaatikostaan ​​on samat 10 kysymystä, ja Duet käsittelee ne kaikki."
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "Hinta 125 dollaria/henkilö, yksi säästetty 6 hengen ryhmä maksaa yli vuoden Pro:n."
 }
