@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { existsSync, readFileSync } from "node:fs"
+import { existsSync, readdirSync, readFileSync } from "node:fs"
 import path from "node:path"
 import process from "node:process"
 import { fileURLToPath } from "node:url"
@@ -29,6 +29,10 @@ function readJson(relativePath) {
     return JSON.parse(readFileSync(path.join(repoRoot, relativePath), "utf8"))
 }
 
+function readText(relativePath) {
+    return readFileSync(path.join(repoRoot, relativePath), "utf8")
+}
+
 function runNodeScript(relativePath, scriptArgs = []) {
     const result = spawnSync(process.execPath, [path.join(repoRoot, relativePath), ...scriptArgs], {
         cwd: repoRoot,
@@ -43,6 +47,58 @@ function runNodeScript(relativePath, scriptArgs = []) {
 
 function assertFile(relativePath) {
     if (!existsSync(path.join(repoRoot, relativePath))) fail(`Missing required file: ${relativePath}`)
+}
+
+function listFiles(relativePath, extension) {
+    const directory = path.join(repoRoot, relativePath)
+    if (!existsSync(directory)) fail(`Missing required directory: ${relativePath}`)
+    return readdirSync(directory).filter((file) => file.endsWith(extension)).sort()
+}
+
+function stripLeadingMetadataComments(content) {
+    return content.replace(/^(\s*<!--\s*(?:translationStatus|lastUpdated):[\s\S]*?-->\s*)+/u, "")
+}
+
+function stripVisibleLastUpdated(content) {
+    return content.replace(/<p\b[^>]*>\s*Last updated:[\s\S]*?<\/p>\s*/iu, "")
+}
+
+function normalizeText(content) {
+    return content.replace(/\r\n/g, "\n").trim()
+}
+
+function normalizeLegalContent(content) {
+    return normalizeText(content).replace(/\n{2,}/g, "\n")
+}
+
+function parseMarkdownFrontmatter(content, relativePath) {
+    if (!content.startsWith("---\n")) fail(`Markdown missing frontmatter: ${relativePath}`)
+    const end = content.indexOf("\n---", 4)
+    if (end === -1) fail(`Markdown missing closing frontmatter: ${relativePath}`)
+    const frontmatter = content.slice(4, end)
+    const body = content.slice(end + "\n---".length)
+    return { frontmatter, body }
+}
+
+function frontmatterValue(frontmatter, key) {
+    const match = frontmatter.match(new RegExp(`^${key}:\\s*(.+)$`, "m"))
+    return match?.[1]?.trim()
+}
+
+function assertNoDuplicateTopLevelJsonKeys(relativePath) {
+    const content = readText(relativePath)
+    const keys = new Set()
+    const duplicates = new Set()
+    const keyPattern = /^\s*"([^"]+)":/gm
+    for (const match of content.matchAll(keyPattern)) {
+        const key = match[1]
+        if (keys.has(key)) duplicates.add(key)
+        keys.add(key)
+    }
+    if (duplicates.size > 0) {
+        fail(`Duplicate JSON keys in ${relativePath}: ${[...duplicates].sort().join(", ")}`)
+    }
+    readJson(relativePath)
 }
 
 function assertPackageScripts() {
@@ -130,13 +186,140 @@ function assertContractsPhase() {
 function assertSourceContentFiles({ complete }) {
     const localeSource = readJson("src/i18n/locales.source.json")
     const locales = localeScope ?? localeSource.runtime_locales
+    const legalPages = ["cookies", "disclaimer", "privacy", "terms"]
+    const verticalFiles = listFiles("src/data/verticals", ".json")
+    const englishBlogFiles = listFiles("src/content/blog/en", ".md")
+
+    assertNoDuplicateTopLevelJsonKeys("src/i18n/messages/en.json")
+
     for (const locale of locales) {
         assertFile(`src/i18n/messages/${locale}.json`)
         assertFile(`src/i18n/content/home/${locale}.json`)
-        for (const page of ["cookies", "disclaimer", "privacy", "terms"]) {
+        for (const page of legalPages) {
             assertFile(`src/i18n/content/legal/${locale}/${page}.html`)
         }
+        for (const file of verticalFiles) {
+            assertFile(`src/i18n/content/verticals/${locale}/${file}`)
+        }
+        for (const file of englishBlogFiles) {
+            assertFile(`src/content/blog/${locale}/${file}`)
+        }
     }
+
+    const flatBlogFiles = readdirSync(path.join(repoRoot, "src/content/blog"))
+        .filter((file) => file.endsWith(".md"))
+        .sort()
+    if (flatBlogFiles.length > 0) {
+        for (const file of flatBlogFiles) {
+            const legacy = readText(`src/content/blog/${file}`)
+            const copied = readText(`src/content/blog/en/${file}`)
+            if (normalizeText(legacy) !== normalizeText(copied)) {
+                fail(`English blog copy differs from legacy flat source: ${file}`)
+            }
+        }
+    }
+
+    for (const page of legalPages) {
+        const legacy = normalizeLegalContent(stripVisibleLastUpdated(readText(`src/snippets/legal/${page}.html`)))
+        const copied = normalizeLegalContent(stripVisibleLastUpdated(stripLeadingMetadataComments(readText(`src/i18n/content/legal/en/${page}.html`))))
+        if (legacy !== copied) {
+            fail(`English legal copy differs from legacy snippet: ${page}`)
+        }
+        if (!/^<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u.test(readText(`src/i18n/content/legal/en/${page}.html`))) {
+            fail(`English legal file missing leading lastUpdated comment: ${page}`)
+        }
+    }
+
+    for (const file of verticalFiles) {
+        const legacy = readJson(`src/data/verticals/${file}`)
+        const copied = readJson(`src/i18n/content/verticals/en/${file}`)
+        if (JSON.stringify(legacy) !== JSON.stringify(copied)) {
+            fail(`English vertical JSON differs from legacy source: ${file}`)
+        }
+        if (copied.slug !== path.basename(file, ".json")) {
+            fail(`Vertical slug must match filename: ${file}`)
+        }
+    }
+
+    const supportedLocaleSet = new Set(localeSource.runtime_locales)
+    const blogDirs = readdirSync(path.join(repoRoot, "src/content/blog"), { withFileTypes: true })
+        .filter((entry) => entry.isDirectory())
+        .map((entry) => entry.name)
+        .sort()
+    for (const locale of locales) {
+        if (!blogDirs.includes(locale)) fail(`Missing blog locale directory with canonical casing: ${locale}`)
+    }
+    for (const directory of blogDirs) {
+        if (!supportedLocaleSet.has(directory)) fail(`Unexpected blog locale directory: ${directory}`)
+    }
+
+    const contentConfig = readText("src/content.config.ts")
+    if (!contentConfig.includes("generateId") || !contentConfig.includes('entry.replace(/\\.md$/, "")')) {
+        fail("Blog collection must preserve locale directory casing with glob generateId")
+    }
+
+    for (const locale of locales) {
+        const messages = readJson(`src/i18n/messages/${locale}.json`)
+        const home = readJson(`src/i18n/content/home/${locale}.json`)
+        if (locale === localeSource.default_locale) {
+            if ("translationStatus" in messages) fail("English messages must not have translationStatus")
+            if ("translationStatus" in home) fail("English home content must not have translationStatus")
+        } else {
+            if (messages.translationStatus !== "bootstrap-en") fail(`Missing bootstrap marker in messages: ${locale}`)
+            if (home.translationStatus !== "bootstrap-en") fail(`Missing bootstrap marker in home content: ${locale}`)
+        }
+
+        for (const page of legalPages) {
+            const legal = readText(`src/i18n/content/legal/${locale}/${page}.html`)
+            if (/<p\b[^>]*>\s*Last updated:/iu.test(legal)) {
+                fail(`Copied legal file still has visible Last updated paragraph: ${locale}/${page}`)
+            }
+            const expectedPrefix = locale === localeSource.default_locale
+                ? /^<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u
+                : /^<!-- translationStatus: bootstrap-en -->\n<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u
+            if (!expectedPrefix.test(legal)) {
+                fail(`Legal file has invalid metadata comments: ${locale}/${page}`)
+            }
+        }
+
+        for (const file of verticalFiles) {
+            const vertical = readJson(`src/i18n/content/verticals/${locale}/${file}`)
+            if (locale === localeSource.default_locale) {
+                if ("translationStatus" in vertical) fail(`English vertical must not have translationStatus: ${file}`)
+            } else if (vertical.translationStatus !== "bootstrap-en") {
+                fail(`Missing bootstrap marker in vertical: ${locale}/${file}`)
+            }
+            if (vertical.slug !== path.basename(file, ".json")) {
+                fail(`Localized vertical slug must match English filename: ${locale}/${file}`)
+            }
+        }
+
+        for (const file of englishBlogFiles) {
+            const relativePath = `src/content/blog/${locale}/${file}`
+            const { frontmatter } = parseMarkdownFrontmatter(readText(relativePath), relativePath)
+            const marker = frontmatterValue(frontmatter, "translationStatus")
+            if (locale === localeSource.default_locale) {
+                if (marker) fail(`English blog post must not have translationStatus: ${file}`)
+            } else if (marker !== "bootstrap-en") {
+                fail(`Missing bootstrap marker in blog post: ${locale}/${file}`)
+            }
+        }
+    }
+
+    const distPath = path.join(repoRoot, "dist")
+    if (existsSync(distPath)) {
+        for (const file of englishBlogFiles) {
+            const relativePath = `src/content/blog/en/${file}`
+            const { frontmatter } = parseMarkdownFrontmatter(readText(relativePath), relativePath)
+            if (frontmatterValue(frontmatter, "draft") === "true") {
+                const slug = path.basename(file, ".md")
+                if (existsSync(path.join(repoRoot, `dist/blog/${slug}.html`))) {
+                    fail(`Draft blog post was built: ${slug}`)
+                }
+            }
+        }
+    }
+
     if (complete) {
         const checkedFiles = locales.flatMap((locale) => [
             `src/i18n/messages/${locale}.json`,

@@ -5,7 +5,10 @@ import Nav from "../../components/nav/Nav.astro"
 import Footer from "../../components/sections/Footer.astro"
 import { calculateReadingTime, formatReadingTime } from "../../utils/readingTime"
 
-const posts = await getCollection("blog", ({ data }) => !data.draft)
+const posts = await getCollection(
+    "blog",
+    ({ id, data }) => id.startsWith("en/") && !data.draft,
+)
 const sortedPosts = posts.sort(
     (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
 )
@@ -14,7 +17,7 @@ const sortedPosts = posts.sort(
 const postsWithReadingTime = await Promise.all(
     sortedPosts.map(async (post) => {
         const readingTime = calculateReadingTime(post.body || "")
-        return { ...post, readingTime }
+        return { ...post, readingTime, routeSlug: post.id.replace(/^en\//, "") }
     })
 )
 
@@ -74,7 +77,7 @@ function getIssueNumber(index: number, total: number): string {
                         <section class="blog-featured">
                             <article class="blog-featured-article">
                                 <a
-                                    href={`/blog/${postsWithReadingTime[0].id}`}
+                                    href={`/blog/${postsWithReadingTime[0].routeSlug}`}
                                     class="blog-featured-link"
                                 >
                                     {postsWithReadingTime[0].data.coverImage && (
@@ -134,7 +137,7 @@ function getIssueNumber(index: number, total: number): string {
                             <div class="blog-grid">
                                 {postsWithReadingTime.slice(1).map((post, index) => (
                                     <article class="blog-card">
-                                        <a href={`/blog/${post.id}`} class="blog-card-link">
+                                        <a href={`/blog/${post.routeSlug}`} class="blog-card-link">
                                             {post.data.coverImage && (
                                                 <figure class="blog-card-image-wrapper">
                                                     <img
