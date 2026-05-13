@@ -101,6 +101,24 @@ function assertNoDuplicateTopLevelJsonKeys(relativePath) {
     readJson(relativePath)
 }
 
+function containsUnlocalizedSameOriginRoute(content) {
+    const routePathPattern = String.raw`(\/(?:blog|privacy|terms|cookies|disclaimer|for)(?:[/?#][^\s)"'<]*|(?=[\s)"'<]|$)))`
+    const patterns = [
+        new RegExp(String.raw`https:\/\/duetmail\.com${routePathPattern}`, "gu"),
+        new RegExp(String.raw`(?:\]\(|href=["']|["'])${routePathPattern}`, "gu"),
+    ]
+    return patterns.some((pattern) =>
+        [...content.matchAll(pattern)].some((match) => !match[1].startsWith("/blog/images/")),
+    )
+}
+
+function assertBootstrapUrlsLocalized(relativePath) {
+    const content = readText(relativePath)
+    if (containsUnlocalizedSameOriginRoute(content)) {
+        fail(`Non-default bootstrap file contains unlocalized same-origin route URL: ${relativePath}`)
+    }
+}
+
 function assertPackageScripts() {
     const packageJson = readJson("package.json")
     const requiredScripts = [
@@ -210,13 +228,7 @@ function assertSourceContentFiles({ complete }) {
         .filter((file) => file.endsWith(".md"))
         .sort()
     if (flatBlogFiles.length > 0) {
-        for (const file of flatBlogFiles) {
-            const legacy = readText(`src/content/blog/${file}`)
-            const copied = readText(`src/content/blog/en/${file}`)
-            if (normalizeText(legacy) !== normalizeText(copied)) {
-                fail(`English blog copy differs from legacy flat source: ${file}`)
-            }
-        }
+        fail(`Flat root blog posts remain after locale migration: ${flatBlogFiles.join(", ")}`)
     }
 
     for (const page of legalPages) {
@@ -270,6 +282,9 @@ function assertSourceContentFiles({ complete }) {
         }
 
         for (const page of legalPages) {
+            if (locale !== localeSource.default_locale) {
+                assertBootstrapUrlsLocalized(`src/i18n/content/legal/${locale}/${page}.html`)
+            }
             const legal = readText(`src/i18n/content/legal/${locale}/${page}.html`)
             if (/<p\b[^>]*>\s*Last updated:/iu.test(legal)) {
                 fail(`Copied legal file still has visible Last updated paragraph: ${locale}/${page}`)
@@ -283,6 +298,9 @@ function assertSourceContentFiles({ complete }) {
         }
 
         for (const file of verticalFiles) {
+            if (locale !== localeSource.default_locale) {
+                assertBootstrapUrlsLocalized(`src/i18n/content/verticals/${locale}/${file}`)
+            }
             const vertical = readJson(`src/i18n/content/verticals/${locale}/${file}`)
             if (locale === localeSource.default_locale) {
                 if ("translationStatus" in vertical) fail(`English vertical must not have translationStatus: ${file}`)
@@ -296,6 +314,9 @@ function assertSourceContentFiles({ complete }) {
 
         for (const file of englishBlogFiles) {
             const relativePath = `src/content/blog/${locale}/${file}`
+            if (locale !== localeSource.default_locale) {
+                assertBootstrapUrlsLocalized(relativePath)
+            }
             const { frontmatter } = parseMarkdownFrontmatter(readText(relativePath), relativePath)
             const marker = frontmatterValue(frontmatter, "translationStatus")
             if (locale === localeSource.default_locale) {
