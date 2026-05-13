@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "కస్టమ్ జ్యువెలర్స్ కోసం Duet Mail | AI ఇమెయిల్ అసిస్టెంట్",
+  "metaDescription": "Duet Mail వర్క్‌బెంచ్‌లో ఉన్నప్పుడు కూడా సంప్రదింపుల అభ్యర్థనలు, డిజైన్ ఆమోదాలు మరియు టైమ్‌లైన్ ప్రశ్నలకు తక్షణమే ప్రతిస్పందించడానికి అనుకూల ఆభరణాలు సహాయం చేస్తుంది. మీ ప్రక్రియ, ధర మరియు వాయిస్‌తో AI-డ్రాఫ్టెడ్ ప్రత్యుత్తరాలు.",
+  "heroBadge": "300+ నగల డిజైనర్లచే విశ్వసించబడింది",
+  "heroHeadline": "మీరు బెంచ్‌లో ఉన్నప్పుడు మీ ఇమెయిల్ అసిస్టెంట్",
+  "heroSubline": "Duet మీ డిజైన్ ప్రాసెస్, మెటీరియల్స్, ధర మరియు టైమ్‌లైన్‌లను నేర్చుకుంటుంది — ఆపై ఇమెయిల్ ప్రత్యుత్తరాలను డ్రాఫ్ట్ చేస్తుంది కాబట్టి మీరు నెమ్మదిగా ప్రతిస్పందనకు అనుకూల క్లయింట్‌ను ఎప్పటికీ కోల్పోరు.",
   "inboxEmails": [
     {
-      "from": "Rachel & David T.",
+      "from": "రాచెల్ & డేవిడ్ టి.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "కస్టమ్ ఎంగేజ్‌మెంట్ రింగ్ కన్సల్టేషన్?",
+      "preview": "హాయ్! నా భాగస్వామి మరియు నేను అనుకూల ఎంగేజ్‌మెంట్ రింగ్ పట్ల ఆసక్తి కలిగి ఉన్నాము. మేము ఉపయోగించడానికి ఇష్టపడే కుటుంబ వారసత్వ వజ్రం మా వద్ద ఉంది. మీరు ఈ నెలలో సంప్రదింపుల కోసం అందుబాటులో ఉన్నారా?",
+      "pill": "ప్రతిస్పందించడానికి",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "అమండా ఎస్.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "Re: 3D మోడల్ — మేము సెట్టింగ్‌ను సర్దుబాటు చేయగలమా?",
+      "preview": "మొత్తం డిజైన్‌ను ఇష్టపడండి! కానీ మేము సెట్టింగ్‌లో తక్కువ ప్రొఫైల్‌ను ప్రయత్నించవచ్చా? నేను ఆలోచిస్తున్న శైలి యొక్క ఫోటోను జోడించాను. అలాగే, ప్లాటినమ్‌కి మారడం వల్ల కాలక్రమం మారుతుంది...",
+      "pill": "పునర్విమర్శ",
       "pillColor": "amber"
     },
     {
-      "from": "James K.",
+      "from": "జేమ్స్ కె.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
-      "pill": "Status",
+      "subject": "వివాహ బ్యాండ్‌లపై టైమ్‌లైన్ అప్‌డేట్?",
+      "preview": "హే! మా మ్యాచింగ్ వెడ్డింగ్ బ్యాండ్‌లను తనిఖీ చేస్తున్నాము. మే 18న పెళ్లి జరగనుంది, మేము ఇంకా ట్రాక్‌లోనే ఉన్నామని నిర్ధారించుకోవాలనుకుంటున్నాను. మీరు శీఘ్ర నవీకరణను పంపగలరా...",
+      "pill": "స్థితి",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "ది నాట్",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
+      "subject": "మీ దుకాణం ముందరిపై కొత్త సమీక్ష",
+      "preview": "ఒక జంట ఇటీవల ది నాట్‌లో మీ వ్యాపారాన్ని సమీక్షించారు. వారు ఏం మాట్లాడారో చూడండి మరియు స్పందించండి...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "హాయ్ రాచెల్! మీ కుటుంబ వజ్రం చుట్టూ ఉంగరాన్ని డిజైన్ చేయడంలో మీకు సహాయం చేయడానికి నేను ఇష్టపడతాను — ఇది నాకు ఇష్టమైన వాటిలో ఒకటి. నాకు ఈ నెలలో మంగళవారం మరియు గురువారం మధ్యాహ్నం ఓపెనింగ్స్ ఉన్నాయి. రాయి మరియు ఏదైనా ప్రేరణ ఫోటోలను తీసుకురండి. సంప్రదింపులు దాదాపు గంటసేపు జరుగుతాయి మరియు ఎటువంటి బాధ్యత లేదు. నేను మీ కోసం సమయం కేటాయించాలనుకుంటున్నారా?",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "కస్టమ్ ముక్క",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "సేవ్ చేసిన ఒక క్లయింట్ నాలుగు సంవత్సరాలకు పైగా Duet కోసం చెల్లిస్తారు."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet ప్రతి ఇమెయిల్‌ను స్వయంచాలకంగా ట్యాగ్ చేస్తుంది కాబట్టి మీరు ముందుగా కొత్త సంప్రదింపు అభ్యర్థనలు, రెండవ డిజైన్ ఆమోదాలు మరియు విక్రేత వార్తాలేఖలను ఎప్పటికీ చూడలేరు. సప్లయర్ ప్రోమోల క్రింద పూడ్చిపెట్టిన $5,000 విచారణను కోల్పోరు.",
+  "draftSubtitle": "Duet మీ ప్రక్రియ, పదార్థాలు, ధర మరియు వాయిస్‌ని నేర్చుకుంటుంది. సంప్రదింపు అభ్యర్థన ల్యాండ్ అయినప్పుడు, అది మీ లభ్యత, ఏమి తీసుకురావాలి మరియు మీ ప్రాసెస్ ఎలా పని చేస్తుంది అనే వాటితో పూర్తి ప్రత్యుత్తరాన్ని రూపొందిస్తుంది. మీరు సమీక్షించి పంపండి.",
+  "agentSubtitle": "\"అమండా ఉంగరంతో మనం ఎక్కడ ఉన్నాము?\" \"జేమ్స్ కోసం టైమ్‌లైన్ అప్‌డేట్‌ను రూపొందించండి.\" Duetకి ప్రతి క్లయింట్ థ్రెడ్ తెలుసు — అడగండి.",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "రాచెల్ టి.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "కస్టమ్ ఎంగేజ్‌మెంట్ రింగ్ కన్సల్టేషన్?",
+      "preview": "నా భాగస్వామి మరియు నేను కస్టమ్ రింగ్ పట్ల ఆసక్తి కలిగి ఉన్నాము...",
+      "pill": "కొత్త విచారణ",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "అమండా ఎస్.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "Re: 3D మోడల్ v2 — ఖచ్చితంగా ఉంది!",
+      "pill": "డిజైన్ ఆమోదం",
       "pillColor": "blue"
     },
     {
-      "from": "James K.",
+      "from": "జేమ్స్ కె.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "బ్యాండ్‌లు సిద్ధంగా ఉన్నాయి - మనం ఎప్పుడు ఎంచుకోవచ్చు?",
+      "pill": "పికప్ కోసం సిద్ధంగా ఉంది",
       "pillColor": "amber"
     },
     {
-      "from": "Emily W.",
+      "from": "ఎమిలీ W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "ప్ర: సంప్రదింపుల తదుపరి — స్కెచ్‌లను ఇష్టపడండి",
+      "pill": "సంప్రదింపులు",
       "pillColor": "amber"
     },
     {
-      "from": "Rio Grande Supply",
+      "from": "రియో గ్రాండే సరఫరా",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "స్ప్రింగ్ సేల్ — ప్లాటినం ఫలితాలపై 15% తగ్గింపు",
+      "pill": "విక్రేత/సరఫరాదారు",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "ప్ర: కస్టమ్ ఎంగేజ్‌మెంట్ రింగ్ కన్సల్టేషన్?",
+    "originalFrom": "రాచెల్ T. రాశారు:",
+    "originalText": "హాయ్! నా భాగస్వామి మరియు నేను అనుకూల ఎంగేజ్‌మెంట్ రింగ్ పట్ల ఆసక్తి కలిగి ఉన్నాము. మేము ఉపయోగించడానికి ఇష్టపడే కుటుంబ వారసత్వ వజ్రం మా వద్ద ఉంది. మీరు ఈ నెలలో సంప్రదింపుల కోసం అందుబాటులో ఉన్నారా?",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "హాయ్ రాచెల్!",
+      "మీ కుటుంబ డైమండ్ చుట్టూ ప్రత్యేకంగా ఏదైనా డిజైన్ చేయడంలో మీకు సహాయం చేయాలనుకుంటున్నాను. నాకు ఈ నెలలో మంగళవారం మరియు గురువారం మధ్యాహ్నం ఓపెనింగ్స్ ఉన్నాయి.",
+      "రాయి మరియు ఏదైనా ప్రేరణ ఫోటోలను తీసుకురండి — Pinterest బోర్డులు, స్క్రీన్‌షాట్‌లు, ఏదైనా సహాయం చేస్తుంది. సంప్రదింపులు దాదాపు గంటసేపు జరుగుతాయి మరియు ఎటువంటి బాధ్యత లేదు.",
+      "అక్కడ నుండి, ప్రక్రియ సాధారణంగా ఉంటుంది: స్కెచ్, 3D మోడల్, పునర్విమర్శలు, తర్వాత ఉత్పత్తిలో 3-4 వారాలు. నేను మీ కోసం సమయం కేటాయించాలనుకుంటున్నారా?"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "స్కెచ్, 3D మోడల్, పునర్విమర్శలు, తర్వాత 3-4 వారాలు ఉత్పత్తి",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "మీ ప్రాసెస్ & టైమ్‌లైన్ తెలుసు",
+      "మీ వాయిస్‌లో చిత్తుప్రతులు",
+      "స్వయంచాలకంగా సంప్రదింపుల వివరాలను కలిగి ఉంటుంది",
+      "కాలక్రమేణా నేర్చుకుంటుంది"
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "అమండా ఎంగేజ్‌మెంట్ రింగ్‌తో మనం ఎక్కడ ఉన్నాము?",
+    "agentResponse": "అమండా ఫిబ్రవరి 14న 3D మోడల్ (v2)ని ఆమోదించారు. మీరు 3 వారాల అంచనాతో ఫిబ్రవరి 16న ఉత్పత్తి ప్రారంభమవుతుందని నిర్ధారించారు. అది మార్చి 9 నాటికి పూర్తవుతుంది. ఆమె చివరి ఇమెయిల్ చెక్కే ఎంపికల గురించి అడుగుతోంది — దానికి ఇంకా సమాధానం లేదు. నేను ప్రత్యుత్తరాన్ని రూపొందించాలనుకుంటున్నారా?",
+    "followUp": "వివాహ బ్యాండ్‌ల గురించి జేమ్స్ కోసం టైమ్‌లైన్ అప్‌డేట్‌ను రూపొందించండి",
+    "followUpResponse": "పూర్తయింది! నేను జేమ్స్‌కి తన మ్యాచింగ్ వెడ్డింగ్ బ్యాండ్‌లు తుది మెరుగులు దిద్దినట్లు ధృవీకరిస్తూ ఒక ప్రత్యుత్తరాన్ని రూపొందించాను మరియు మే 18న అతని వివాహానికి చాలా ముందుగానే మార్చి 7వ తేదీ శుక్రవారం నాటికి పికప్ చేయడానికి సిద్ధంగా ఉంటాను. సమీక్షించి పంపడానికి సిద్ధంగా ఉంది."
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "జ్యువెలరీ డిజైనర్లు ఇష్టపడతారు",
   "testimonials": [
     {
-      "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "name": "మార్కో ఆర్.",
+      "title": "కస్టమ్ జ్యువెలరీ డిజైనర్, LA",
+      "quote": "ప్రతి కస్టమ్ ముక్క వారాలలో 10-15 ఇమెయిల్‌లను ఉత్పత్తి చేస్తుంది. 8 మంది క్రియాశీల క్లయింట్‌లతో గుణించండి మరియు నేను మునిగిపోతున్నాను. Duet డ్రాఫ్ట్‌ల డిజైన్ అప్‌డేట్ ప్రత్యుత్తరాలు, సంప్రదింపుల నిర్ధారణలు, టైమ్‌లైన్ సమాధానాలు — అన్నీ నా వాయిస్‌లో ఉన్నాయి. నేను కాస్టింగ్‌ల మధ్య సమీక్షించాను మరియు పంపు నొక్కండి.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "name": "సారా ఎల్.",
+      "title": "గోల్డ్‌స్మిత్ & స్టూడియో యజమాని, బ్రూక్లిన్",
+      "quote": "నేను ప్రతిస్పందించడానికి 3 రోజుల సమయం తీసుకున్నందున నేను $7,000 ఎంగేజ్‌మెంట్ రింగ్ కమీషన్‌ను కోల్పోయాను — జంట 2 గంటల్లో ప్రత్యుత్తరం ఇచ్చిన వారి వద్దకు వెళ్లారు. Duet నుండి, నా ప్రతిస్పందన సమయం 30 నిమిషాల కంటే తక్కువ. మళ్లీ అలా జరగలేదు.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "name": "డానీ కె.",
+      "title": "బెంచ్ జ్యువెలర్, చికాగో",
+      "quote": "నేను చేతిలో టార్చ్‌తో రోజుకు 8 గంటలు బెంచ్‌లో ఉంటాను. సంప్రదింపు ప్రత్యుత్తరాన్ని టైప్ చేయడానికి నేను మిడ్-సోల్డర్‌ని ఆపలేను. నేను పని చేస్తున్నప్పుడు Duet ప్రతిదీ డ్రాఫ్ట్ చేస్తుంది — నేను నా ఫోన్‌ని చూసాను, ఆమోదించాను, పూర్తి చేసాను.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "name": "అలెసియా ఎం.",
+      "title": "బ్రైడల్ జ్యువెలరీ డిజైనర్, ఆస్టిన్",
+      "quote": "ఎంగేజ్‌మెంట్ సీజన్‌లో నాకు వారానికి 20+ సంప్రదింపు అభ్యర్థనలు వస్తాయి. Duet నా మొత్తం ప్రక్రియను నేర్చుకున్నాను - మెటీరియల్‌లు, టైమ్‌లైన్‌లు, ధరల శ్రేణులు, ఏమి తీసుకురావాలి. నేను సవరించాల్సిన అవసరం లేని ప్రత్యుత్తరాలను ఇది డ్రాఫ్ట్ చేస్తుంది. నవంబర్ నుండి ఫిబ్రవరి వరకు సంపూర్ణ లైఫ్‌సేవర్.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "name": "నినా సి.",
+      "title": "కస్టమ్ రింగ్ స్పెషలిస్ట్, పోర్ట్‌ల్యాండ్",
+      "quote": "3D పునర్విమర్శ ఇమెయిల్‌లు నా సాయంత్రాలను తినేవి. క్లయింట్ అభిప్రాయాన్ని పంపుతుంది, నేను అప్‌డేట్‌ను ఐదుసార్లు ముందుకు వెనుకకు డ్రాఫ్ట్ చేస్తాను. ఇప్పుడు Duet సాధారణ ప్రత్యుత్తరాలను నిర్వహిస్తుంది మరియు నేను డిజైన్ నిర్ణయాల కోసం మాత్రమే అడుగు పెట్టాను. నేను నా రాత్రులను తిరిగి పొందాను.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "నగలు సృష్టించడం కోసం మీ రోజులు గడపండి,\nదాని గురించి ఇమెయిల్‌లకు సమాధానం ఇవ్వడం లేదు.",
+  "ctaSubline": "మీ ఉచిత ట్రయల్‌ని ప్రారంభించండి. 30 సెకన్లలో మీ ఇన్‌బాక్స్‌ని కనెక్ట్ చేయండి.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Duet సూచన ఫోటోలు మరియు డిజైన్ జోడింపులతో ఇమెయిల్‌లను నిర్వహించగలదా?",
+      "answer": "అవును. Duet జోడింపులతో సహా పూర్తి ఇమెయిల్ థ్రెడ్‌ను చూస్తుంది, కాబట్టి క్లయింట్ ప్రేరణ ఫోటోలు లేదా డిజైన్ ఫీడ్‌బ్యాక్‌ను పంపినప్పుడు సందర్భాన్ని అర్థం చేసుకుంటుంది. ఇది చిత్రాలను తిరిగి వివరించదు, కానీ క్లయింట్ ఇప్పుడే రిఫరెన్స్ ఫోటోలు మరియు డ్రాఫ్ట్‌లను సముచితమైన ప్రత్యుత్తరాన్ని పంపినట్లు దానికి తెలుసు - రసీదుని నిర్ధారించడం, డిజైన్ గురించి ప్రశ్నలను స్పష్టం చేయడం లేదా మీ సాధారణ వర్క్‌ఫ్లో ఆధారంగా తదుపరి దశలను అందించడం."
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "నా అనుకూల ప్రాజెక్ట్‌లు 10+ సందేశాలతో పొడవైన ఇమెయిల్ థ్రెడ్‌లను కలిగి ఉన్నాయి. Duet వాటిని అనుసరించగలదా?",
+      "answer": "సరిగ్గా అక్కడే Duet ప్రకాశిస్తుంది. ఇది మొత్తం థ్రెడ్ చరిత్రను చదువుతుంది - సంప్రదింపు గమనికలు, డిజైన్ పునర్విమర్శలు, మెటీరియల్ ఎంపికలు, టైమ్‌లైన్ అప్‌డేట్‌లు - కాబట్టి ప్రతి ముసాయిదా ప్రత్యుత్తరానికి పూర్తి సందర్భం ఉంటుంది. ఒక క్లయింట్ 'నా రింగ్ యొక్క స్థితి ఏమిటి?' అని అడిగినప్పుడు ఇమెయిల్ #14లో, Duetకి ఏ రింగ్ తెలుసు, అది ఏ దశలో ఉంది మరియు ఖచ్చితమైన నవీకరణను రూపొందించింది. ఇకపై మీరే 3 నెలల ఇమెయిల్‌లను మళ్లీ చదవాల్సిన అవసరం లేదు."
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "$5,000/పీస్ వద్ద, ఒక సేవ్ చేయబడిన కమీషన్ నాలుగు సంవత్సరాల Pro కోసం చెల్లిస్తుంది."
 }

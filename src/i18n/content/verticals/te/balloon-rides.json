@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "హాట్ ఎయిర్ బెలూన్ రైడ్‌ల కోసం Duet Mail | AI ఇమెయిల్ అసిస్టెంట్",
+  "metaDescription": "Duet Mail బెలూన్ పైలట్‌లు బుకింగ్ ఇమెయిల్‌లకు తక్షణమే ప్రతిస్పందించడంలో సహాయపడుతుంది — సూర్యోదయ విమానాల సమయంలో కూడా. మీ ధర, వాతావరణ విధానాలు మరియు వాయిస్‌తో AI-డ్రాఫ్టెడ్ ప్రత్యుత్తరాలు.",
+  "heroBadge": "200+ బెలూన్ పైలట్‌లచే విశ్వసించబడింది",
+  "heroHeadline": "మీరు గాలిలో ఉన్నప్పుడు మీ ఇమెయిల్ అసిస్టెంట్",
+  "heroSubline": "Duet మీ విమాన షెడ్యూల్‌లు, ధర మరియు వాతావరణ విధానాలను నేర్చుకుంటుంది — ఆపై ఇమెయిల్ ప్రత్యుత్తరాలను డ్రాఫ్ట్ చేస్తుంది కాబట్టి మీరు సూర్యోదయ సమయంలో ప్రారంభించేటప్పుడు బుకింగ్‌ను ఎప్పటికీ కోల్పోరు.",
   "inboxEmails": [
     {
-      "from": "Rachel & Dan T.",
+      "from": "రాచెల్ & డాన్ టి.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "2కి సూర్యోదయ విమానం — శనివారం అందుబాటులో ఉందా?",
+      "preview": "హాయ్! నా భర్త మరియు నేను మా వార్షికోత్సవం కోసం సందర్శిస్తున్నాము మరియు ఈ శనివారం సూర్యోదయ బెలూన్ రైడ్‌ని బుక్ చేసుకోవాలనుకుంటున్నాము. మీకు స్థలం ఉందా? ఒక వ్యక్తికి ఎంత ఖర్చు అవుతుంది?",
+      "pill": "ప్రతిస్పందించడానికి",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "కెవిన్ ఎల్.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "మనం రేపు ఎగురుతామా? గాలి సూచన కఠినమైనదిగా కనిపిస్తోంది",
+      "preview": "మేము రేపు ఉదయం కోసం బుక్ చేసాము కానీ వాతావరణ యాప్ 15 mph గాలులను చూపుతోంది. మేము ఇంకా విమానాలు నడుపుతున్నామా లేదా మళ్లీ షెడ్యూల్ చేయడానికి ప్లాన్ చేయాలా...",
+      "pill": "ప్రశ్న",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark P.",
+      "from": "జెన్నిఫర్ & మార్క్ పి.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "ప్రతిపాదన కోసం ప్రైవేట్ ఫ్లైట్ — ధర?",
+      "preview": "నేను నా స్నేహితురాలిని ప్రైవేట్ బెలూన్ రైడ్‌తో సర్ప్రైజ్ చేయాలనుకుంటున్నాను మరియు ఫ్లైట్ సమయంలో ప్రపోజ్ చేయాలనుకుంటున్నాను. ప్రైవేట్ ఫ్లైట్ ఎంత మరియు మీరు సమన్వయం చేయడంలో సహాయపడగలరు...",
+      "pill": "బుకింగ్",
       "pillColor": "blue"
     },
     {
-      "from": "Amy S.",
+      "from": "అమీ ఎస్.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "మనం ఏమి ధరించాలి? మనం ఎక్కడ కలుస్తాము?",
+      "preview": "మేము ఆదివారం ఉదయం కోసం బుక్ చేసాము. మనం ఏమి ధరించాలి మరియు సమావేశ స్థానం సరిగ్గా ఎక్కడ ఉంది? అలాగే, మొత్తం అనుభవం ఎంత సమయం పడుతుంది...",
+      "pill": "ప్రశ్న",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "హాయ్ రాచెల్! శనివారం 2 గంటల వరకు తెరిచి ఉంటుంది. సూర్యోదయ విమానాలు ఉదయం 6:15 గంటలకు ప్రారంభమవుతాయి — గాలుల ఆధారంగా మేము ఖచ్చితమైన సమయాన్ని మరియు సమావేశ స్థానాన్ని ముందు సాయంత్రం నిర్ధారిస్తాము. ఇది $250/వ్యక్తి మరియు ల్యాండింగ్ తర్వాత దాదాపు ఒక గంట గాలితో పాటు షాంపైన్ టోస్ట్‌ను కలిగి ఉంటుంది. లేయర్‌లలో దుస్తులు ధరించండి మరియు మూసి-కాలి బూట్లు ధరించండి. నేను మీ స్థలాలను రిజర్వ్ చేయాలనుకుంటున్నారా?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "విమానము",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "సేవ్ చేయబడిన ఒక విమానం సంవత్సరానికి Duet చెల్లిస్తుంది."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet ప్రతి ఇమెయిల్‌ను స్వయంచాలకంగా ట్యాగ్ చేస్తుంది కాబట్టి మీరు ముందుగా బుకింగ్ అభ్యర్థనలు, రెండవది వాతావరణ ప్రశ్నలు మరియు శబ్దం ఎప్పుడూ చూడలేరు. వార్తాలేఖ హెచ్చరికల కింద పూడ్చిపెట్టిన విమాన విచారణను కోల్పోరు.",
+  "draftSubtitle": "Duet మీ ధర, వాతావరణ విధానాలు మరియు స్వరాన్ని నేర్చుకుంటుంది. బుకింగ్ విచారణ హిట్ అయినప్పుడు, అది విమాన వివరాలు, సమావేశ సమాచారం మరియు ఏమి ధరించాలి అనే వివరాలతో పూర్తి ప్రత్యుత్తరాన్ని రూపొందిస్తుంది. మీరు సమీక్షించి పంపండి.",
+  "agentSubtitle": "\"రేపటి మానిఫెస్ట్‌లో ఎవరున్నారు?\" \"రీషెడ్యూల్ చేయడానికి ఏవైనా వాతావరణ రద్దు ఉందా?\" Duetకి మీ ఇన్‌బాక్స్ మరియు క్యాలెండర్ తెలుసు — అడగండి.",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "రాచెల్ టి.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "2కి సూర్యోదయ విమానం — శనివారం అందుబాటులో ఉందా?",
+      "preview": "నా భర్త మరియు నేను సూర్యోదయ బెలూన్ రైడ్‌ని బుక్ చేసుకోవాలనుకుంటున్నాము...",
+      "pill": "ఇప్పుడు ప్రతిస్పందించండి",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "కెవిన్ ఎల్.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: బుకింగ్ నిర్ధారించబడింది — ఆదివారం 6:15 AM",
+      "pill": "బుక్ చేసుకున్నారు",
       "pillColor": "blue"
     },
     {
-      "from": "Amy S.",
+      "from": "అమీ ఎస్.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "ఫ్లైట్ కోసం మనం ఏమి ధరించాలి?",
+      "pill": "ప్రశ్న",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "మీ జాబితా కోసం కొత్త సమీక్ష",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Balloon Federation",
+      "from": "బెలూన్ ఫెడరేషన్",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
+      "subject": "మార్చి భద్రతా బులెటిన్ & పునరుద్ధరణ రిమైండర్",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: 2కి సన్‌రైజ్ ఫ్లైట్ — శనివారం అందుబాటులో ఉందా?",
+    "originalFrom": "రాచెల్ T. రాశారు:",
+    "originalText": "హాయ్! నా భర్త మరియు నేను మా వార్షికోత్సవం కోసం సందర్శిస్తున్నాము మరియు ఈ శనివారం సూర్యోదయ బెలూన్ రైడ్‌ని బుక్ చేసుకోవాలనుకుంటున్నాము. మీకు స్థలం ఉందా? ఒక వ్యక్తికి ఎంత ఖర్చు అవుతుంది?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "హాయ్ రాచెల్!",
+      "శనివారం 2 వరకు తెరిచి ఉంటుంది. సూర్యోదయ విమానాలు $250/వ్యక్తి మరియు ల్యాండింగ్ తర్వాత ఒక గంట పాటు షాంపైన్ టోస్ట్‌ని కలిగి ఉంటాయి.",
+      "మేము ఉదయం 6:15 గంటలకు ప్రారంభిస్తాము — గాలి పరిస్థితుల ఆధారంగా మీ ఖచ్చితమైన సమావేశ సమయాన్ని మరియు ప్రదేశాన్ని ముందు సాయంత్రం పంపుతాను. లేయర్‌లలో దుస్తులు ధరించండి మరియు మూసి-కాలి బూట్లు ధరించండి.",
+      "వార్షికోత్సవ శుభాకాంక్షలు! నేను మీ స్థలాలను రిజర్వ్ చేయాలనుకుంటున్నారా?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "శనివారం 2 వరకు తెరిచి ఉంటుంది. సూర్యోదయ విమానాలు $250/వ్యక్తి",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "మీ ధర & విమాన షెడ్యూల్ తెలుసు",
+      "మీ వాయిస్‌లో చిత్తుప్రతులు",
+      "సమావేశ వివరాలను ఆటోమేటిక్‌గా చేర్చుతుంది",
+      "కాలక్రమేణా నేర్చుకుంటుంది"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "రేపటి మానిఫెస్ట్‌లో ఎవరు ఉన్నారు మరియు వాతావరణం ఎలా ఉంది?",
+    "agentResponse": "రేపటి సూర్యోదయ విమానంలో 2 రిజర్వేషన్లలో 6 మంది ప్రయాణికులు బుక్ చేసుకున్నారు: థాంప్సన్ పార్టీ (4) మరియు లీ జంట (2). ప్రస్తుత సూచన ప్రయోగ సమయంలో 4 mph వేగంతో ప్రశాంత గాలులు మరియు స్పష్టమైన ఆకాశం చూపిస్తుంది. రద్దు ఇమెయిల్‌లు ఇంకా లేవు. నేను మీటింగ్ పాయింట్ నిర్ధారణలను పంపాలనుకుంటున్నారా?",
+    "followUp": "అవును, 6:15 AM సమావేశ సమయంతో రెండు పార్టీలకు నిర్ధారణలను పంపండి",
+    "followUpResponse": "పూర్తయింది! నేను లాంచ్ ఫీల్డ్‌లో ఉదయం 6:15 గంటలకు థాంప్సన్స్ మరియు లీస్ రెండింటికీ మీటింగ్ పాయింట్ కన్ఫర్మేషన్‌లను రూపొందించాను, ఏమి ధరించాలి మరియు దిశలు. సమీక్షించి పంపడానికి సిద్ధంగా ఉంది."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "బెలూన్ పైలట్లు & ఆపరేటర్లు ఇష్టపడతారు",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "కెప్టెన్ మైక్ ఎల్.",
+      "title": "బెలూన్ పైలట్, MN",
+      "quote": "నేను వన్ మ్యాన్ ఆపరేషన్ — నేను ఎగురుతాను, నేను సిబ్బంది, నేను ఇమెయిల్‌లకు సమాధానం ఇస్తాను. ఉదయం 5 గంటలకు తప్ప నేను పెంచుతున్నాను, ప్రత్యుత్తరం ఇవ్వడం లేదు. Duet ప్రతి 'మేము రేపు ఎగురుతామా?'కి ప్రతిస్పందనలను డ్రాఫ్ట్ చేస్తుంది. రాత్రిపూట సందేశం. నేను మేల్కొన్నాను, వాతావరణాన్ని తనిఖీ చేసి, పంపు నొక్కండి.",
       "avatarKey": "michael"
     },
     {
-      "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "name": "షానన్ & జేక్ బి.",
+      "title": "సంవత్సరం పొడవునా బెలూన్ పర్యటనలు, UT",
+      "quote": "మనకు ప్రతిరోజూ ఒకే 10 ప్రశ్నలు వస్తాయి. ఏం వేసుకోవాలి, ఎక్కడ కలవాలి, గాలి వీస్తే ఏం చేయాలి. Duet వాటన్నింటినీ నేర్చుకుంది మరియు ఇప్పుడు ఖచ్చితమైన ప్రత్యుత్తరాలను రూపొందించింది. మేము ప్రతి రాత్రి ఒక గంట ఇమెయిల్‌ల నుండి ఐదు నిమిషాల వరకు వెళ్లాము.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "name": "కార్లోస్ ఆర్.",
+      "title": "సన్‌రైజ్ ఫ్లైట్ ఆపరేటర్, AZ",
+      "quote": "పీక్ సీజన్ అంటే వారానికి 4-6 విమానాలు మరియు ప్రతి ప్రయాణీకుడు విమానానికి ముందు కనీసం రెండుసార్లు ఇమెయిల్ పంపుతారు. Duet ప్రీ-ఫ్లైట్ ప్రశ్నలను నిర్వహిస్తుంది కాబట్టి నేను ప్రజలకు వారి జీవితంలో అత్యుత్తమ ఉదయం అందించడంపై దృష్టి పెట్టగలను.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "name": "లిసా W.",
+      "title": "బెలూన్ కంపెనీ సహ యజమాని, NM",
+      "quote": "వాతావరణ రద్దులు నా రోజంతా నాశనం చేశాయి — 8 మంది ప్రయాణికులకు వ్యక్తిగత రీషెడ్యూలింగ్ ఇమెయిల్‌లు అవసరం. ఇప్పుడు Duet మా రీబుకింగ్ విధానంతో కూడిన ప్రతి ఒక్కటి డ్రాఫ్ట్ చేస్తుంది. రద్దు చేసే ఉదయం నాకు గంటలను ఆదా చేస్తుంది.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "name": "మరియా డి.",
+      "title": "బెలూన్ రైడ్ ఆపరేషన్స్, CO",
+      "quote": "ప్రతిపాదన విమానాలకు చాలా ముందుకు మరియు వెనుకకు సమన్వయం అవసరం. Duet మేము వాటిని ఎలా నిర్వహిస్తాము - సమయం, కోడ్‌వర్డ్‌లు, షాంపైన్ సెటప్. నేను టచ్ చేయవలసిన ప్రత్యుత్తరాలను ఇది డ్రాఫ్ట్ చేస్తుంది.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "మీ ఉదయం ఆకాశంలో గడపండి,\nమీ ఇన్‌బాక్స్‌లో లేదు.",
+  "ctaSubline": "మీ ఉచిత ట్రయల్‌ని ప్రారంభించండి. 30 సెకన్లలో మీ ఇన్‌బాక్స్‌ని కనెక్ట్ చేయండి.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Duet వాతావరణ రద్దు ఇమెయిల్‌లను ఎలా నిర్వహిస్తుంది?",
+      "answer": "Duet మీ రద్దు మరియు రీబుకింగ్ విధానాలను తెలుసుకుంటుంది. మీరు వాతావరణం కారణంగా విమానాన్ని రద్దు చేసినప్పుడు, అది మీ పాలసీ, అందుబాటులో ఉన్న తేదీలు మరియు మీ టోన్‌తో ప్రభావితమైన ప్రతి ప్రయాణీకునికి వ్యక్తిగతీకరించిన రీషెడ్యూలింగ్ ఇమెయిల్‌లను డ్రాఫ్ట్ చేయగలదు. మీరు సమీక్షించి పంపండి. ఒక గంట వ్యక్తిగత ప్రత్యుత్తరాలకు నిమిషాల సమయం పడుతుంది."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Duet 'మేము రేపు ఎగురుతామా?' ప్రతి సాయంత్రం వరదలు వచ్చే ఇమెయిల్‌లు?",
+      "answer": "అవును — బెలూన్ ఆపరేటర్లు మాకు చెప్పే అత్యంత సాధారణ ఇమెయిల్‌లలో ఇది ఒకటి. Duet మీ వాతావరణ విధానాలను నేర్చుకుంటుంది మరియు మీ నిర్ణయ ప్రక్రియ, మీరు ఎప్పుడు చివరి కాల్ చేస్తారు మరియు ఏమి ఆశించాలో వివరించే భరోసా ఇచ్చే ప్రత్యుత్తరాలను డ్రాఫ్ట్ చేస్తుంది. మీరు ఉదయం వెళ్లడాన్ని/నో-గోను నిర్ధారించిన తర్వాత, అది మానిఫెస్ట్‌లోని ప్రతి ఒక్కరికీ అప్‌డేట్‌లను రూపొందించగలదు."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "$250/ఒక విమానానికి 4 మంది ప్రయాణీకులు ఉన్న వ్యక్తి వద్ద, ఒక సేవ్ బుకింగ్ ఒక సంవత్సరానికి పైగా Pro చెల్లిస్తుంది."
 }

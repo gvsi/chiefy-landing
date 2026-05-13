@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
-  "heroBadge": "Trusted by 400+ interior designers",
-  "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "ఇంటీరియర్ డిజైనర్ల కోసం Duet Mail | AI ఇమెయిల్ అసిస్టెంట్",
+  "metaDescription": "Duet Mail ఇంటీరియర్ డిజైనర్‌లకు క్లయింట్ ఇమెయిల్‌లు, కాంట్రాక్టర్ కోఆర్డినేషన్ మరియు వెండర్ ఆర్డర్‌లను నిర్వహించడంలో సహాయపడుతుంది — జాబ్ సైట్ నుండి కూడా. మీ ప్రాజెక్ట్ వివరాలు, ప్రాధాన్యతలు మరియు వాయిస్‌తో AI-డ్రాఫ్టెడ్ ప్రత్యుత్తరాలు.",
+  "heroBadge": "400+ ఇంటీరియర్ డిజైనర్లచే విశ్వసించబడింది",
+  "heroHeadline": "మీరు క్లయింట్‌లతో ఆన్-సైట్‌లో ఉన్నప్పుడు మీ ఇమెయిల్ అసిస్టెంట్",
+  "heroSubline": "Duet మీ వెండర్ కాంటాక్ట్‌లు, ప్రాజెక్ట్ వివరాలు మరియు క్లయింట్ ప్రాధాన్యతలను నేర్చుకుంటుంది — ఆపై ఇమెయిల్ ప్రత్యుత్తరాలను డ్రాఫ్ట్ చేస్తుంది కాబట్టి మీరు నెమ్మదిగా ప్రతిస్పందనకు క్లయింట్‌ను ఎప్పటికీ కోల్పోరు.",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "రాచెల్ టి.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "వంటగది పునర్నిర్మాణం — ప్రారంభ సంప్రదింపులు?",
+      "preview": "హాయ్! మేము ఇప్పుడే వెస్ట్‌లేక్‌లో ఒక ఇంటిని కొనుగోలు చేసాము మరియు వంటగదిని పూర్తిగా తిరిగి చేయాలనుకుంటున్నాము. కొత్త ప్రాజెక్టులు తీసుకుంటున్నారా? మీ ప్రక్రియ ఎలా ఉంటుంది?",
+      "pill": "ప్రతిస్పందించడానికి",
       "pillColor": "red"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "టోనీస్ టైల్ & స్టోన్",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "ప్ర: బ్యాక్‌స్ప్లాష్ టైల్ లీడ్ టైమ్ అప్‌డేట్",
+      "preview": "గిడ్డంగి నుండి ఇప్పుడే విన్నాను - కలకట్టా హెక్స్ టైల్ 3 వారాలు బ్యాక్‌ఆర్డర్ చేయబడింది. నేను మీ ఆర్డర్‌ని ఉంచాలనుకుంటున్నాను లేదా ప్రత్యామ్నాయాలను చూడాలనుకుంటున్నాను...",
+      "pill": "విక్రేత ఆర్డర్",
       "pillColor": "amber"
     },
     {
-      "from": "Mark L. — Electrician",
+      "from": "మార్క్ L. - ఎలక్ట్రీషియన్",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "వైరింగ్ పూర్తయింది - ఫిక్చర్ ఇన్‌స్టాల్ కోసం సిద్ధంగా ఉంది",
+      "preview": "అన్ని రఫ్-ఇన్ వైరింగ్ మాస్టర్ బెడ్‌రూమ్ మరియు లివింగ్ రూమ్‌లో పూర్తయింది. మీ...",
+      "pill": "కాంట్రాక్టర్",
       "pillColor": "blue"
     },
     {
-      "from": "Karen & Steve W.",
+      "from": "కరెన్ & స్టీవ్ W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "ఫాబ్రిక్ నమూనాలపై ఆలోచనలు?",
+      "preview": "మీరు వదిలిపెట్టిన మూడు ఫాబ్రిక్ ఆప్షన్‌లను మేము చూశాము మరియు మేము 'ఓట్‌మీల్'లో నార వైపు మొగ్గు చూపుతున్నాము కానీ గోడ రంగుకు వ్యతిరేకంగా చూడాలనుకుంటున్నాము...",
+      "pill": "క్లయింట్ ఆమోదం",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "హాయ్ రాచెల్! నేను మీ వెస్ట్‌లేక్ వంటగది గురించి మరింత తెలుసుకోవాలనుకుంటున్నాను. నేను ప్రస్తుతం వచ్చే నెల సంప్రదింపులను బుక్ చేస్తున్నాను. నా ప్రాసెస్ ఇంటిలో సందర్శనతో మొదలవుతుంది, ఇక్కడ మేము మీ దృష్టి, బడ్జెట్ మరియు టైమ్‌లైన్ ద్వారా నడుస్తాము - ఆపై నేను మెటీరియల్ ఎంపికలతో డిజైన్ కాన్సెప్ట్‌ను రూపొందించాను. ఇంట్లో కలిసే సమయాన్ని ఏర్పాటు చేయాలనుకుంటున్నారా?",
   "math": {
     "pricePerBooking": "$10,000",
-    "bookingUnit": "project",
+    "bookingUnit": "ప్రాజెక్ట్",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Duet."
+    "punchline": "సేవ్ చేయబడిన ఒక క్లయింట్ Duet సంవత్సరాలకు చెల్లిస్తారు."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+  "categorizationSubtitle": "Duet ప్రతి ఇమెయిల్‌ను స్వయంచాలకంగా ట్యాగ్ చేస్తుంది కాబట్టి మీరు ముందుగా కొత్త క్లయింట్ విచారణలు, రెండవసారి పెండింగ్‌లో ఉన్న ఆమోదాలు మరియు విక్రేత వార్తాలేఖలను ఎప్పటికీ చూడలేరు. ట్రేడ్ షో ప్రమోషన్‌ల కింద పూడ్చిన డిజైన్ కన్సల్టేషన్‌ను కోల్పోరు.",
+  "draftSubtitle": "Duet మీ ప్రక్రియ, ప్రాజెక్ట్ వివరాలు మరియు స్వరాన్ని నేర్చుకుంటుంది. కొత్త విచారణ లేదా క్లయింట్ ప్రశ్న వచ్చినప్పుడు, అది మీ లభ్యత, తదుపరి దశలు మరియు ప్రాజెక్ట్ ప్రత్యేకతలతో పూర్తి ప్రత్యుత్తరాన్ని రూపొందిస్తుంది. మీరు సమీక్షించి పంపండి.",
+  "agentSubtitle": "\"హెండర్సన్ ప్రాజెక్ట్ స్థితి ఏమిటి?\" \"ఏ అనుమతులు ఇంకా పెండింగ్‌లో ఉన్నాయి?\" Duetకి మీ ఇన్‌బాక్స్ మరియు ప్రతి ప్రాజెక్ట్ థ్రెడ్ తెలుసు — అడగండి.",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "రాచెల్ టి.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "వంటగది పునర్నిర్మాణం — ప్రారంభ సంప్రదింపులు?",
+      "preview": "మేము ఇప్పుడే ఇంటిని కొనుగోలు చేసాము మరియు వంటగదిని మళ్లీ చేయాలనుకుంటున్నాము...",
+      "pill": "కొత్త విచారణ",
       "pillColor": "red"
     },
     {
-      "from": "Karen W.",
+      "from": "కరెన్ W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "Re: ఫాబ్రిక్ నమూనాలు — వోట్మీల్ నారతో వెళుతున్నాయి",
+      "pill": "క్లయింట్ ఆమోదం",
       "pillColor": "blue"
     },
     {
-      "from": "Mark L.",
+      "from": "మార్క్ ఎల్.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "వైరింగ్ పూర్తయింది - ఫిక్చర్ ఇన్‌స్టాల్ కోసం సిద్ధంగా ఉంది",
+      "pill": "కాంట్రాక్టర్",
       "pillColor": "amber"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "టోనీస్ టైల్ & స్టోన్",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "ఆర్డర్ #4821 రవాణా చేయబడింది — డెలివరీ గురువారం",
+      "pill": "విక్రేత ఆర్డర్",
       "pillColor": "lavender"
     },
     {
-      "from": "Design Within Reach",
+      "from": "చేరువలో డిజైన్",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "వాణిజ్య కార్యక్రమం — వసంత పొదుపు ఈవెంట్",
+      "pill": "ప్రమోషన్లు",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "Re: వంటగది పునర్నిర్మాణం — ప్రారంభ సంప్రదింపులు?",
+    "originalFrom": "రాచెల్ T. రాశారు:",
+    "originalText": "హాయ్! మేము ఇప్పుడే వెస్ట్‌లేక్‌లో ఒక ఇంటిని కొనుగోలు చేసాము మరియు వంటగదిని పూర్తిగా తిరిగి చేయాలనుకుంటున్నాము. కొత్త ప్రాజెక్టులు తీసుకుంటున్నారా? మీ ప్రక్రియ ఎలా ఉంటుంది?",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "హాయ్ రాచెల్!",
+      "కొత్త ఇంటికి అభినందనలు! నేను మీ వంటగదిలో సహాయం చేయాలనుకుంటున్నాను. నేను ప్రస్తుతం వచ్చే నెల సంప్రదింపులను బుక్ చేస్తున్నాను.",
+      "మీ విజన్, బడ్జెట్ మరియు టైమ్‌లైన్ ద్వారా నడవడానికి నా ప్రాసెస్ ఇంటిలోని సందర్శనతో ప్రారంభమవుతుంది. అక్కడ నుండి నేను మెటీరియల్ ఎంపికలు మరియు వివరణాత్మక ప్రతిపాదనతో డిజైన్ భావనను ఉంచాను.",
+      "ఇంట్లో కలిసే సమయాన్ని ఏర్పాటు చేయాలనుకుంటున్నారా?"
     ],
-    "highlightText": "I'm currently booking consultations for next month.",
+    "highlightText": "నేను ప్రస్తుతం వచ్చే నెల సంప్రదింపులను బుక్ చేస్తున్నాను.",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "మీ ప్రక్రియ & లభ్యత తెలుసు",
+      "మీ వాయిస్‌లో చిత్తుప్రతులు",
+      "స్వయంచాలకంగా తదుపరి దశలను కలిగి ఉంటుంది",
+      "కాలక్రమేణా నేర్చుకుంటుంది"
     ]
   },
   "agent": {
-    "userMessage": "What approvals are still pending on the Henderson project?",
-    "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
-    "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
-    "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
+    "userMessage": "హెండర్సన్ ప్రాజెక్ట్‌పై ఇంకా ఏ అనుమతులు పెండింగ్‌లో ఉన్నాయి?",
+    "agentResponse": "హెండర్సన్‌లతో మీ ఇమెయిల్ థ్రెడ్‌ల ఆధారంగా, రెండు అంశాలు ఇప్పటికీ ఆమోదం పెండింగ్‌లో ఉన్నాయి: మాస్టర్ బాత్ వానిటీ (మీరు మంగళవారం పునరుద్ధరణ హార్డ్‌వేర్ ఎంపికలను పంపారు) మరియు లివింగ్ రూమ్ డ్రేపరీ ఫాబ్రిక్ (నమూనాలు గత వారం పంపిణీ చేయబడ్డాయి). కరెన్ డైనింగ్ రూమ్ కోసం పెయింట్ షీన్ గురించి కూడా అడిగారు కానీ మీ సిఫార్సుకు ఇంకా స్పందించలేదు. నేను ఫాలో-అప్‌ని డ్రాఫ్ట్ చేయాలనుకుంటున్నారా?",
+    "followUp": "వానిటీ మరియు ఫాబ్రిక్ ఎంపికల గురించి కరెన్‌కి సున్నితమైన ఫాలో-అప్‌ను రూపొందించండి",
+    "followUpResponse": "పూర్తయింది! వానిటీ మరియు డ్రేపరీ ఎంపికలపై కరెన్ చెక్ ఇన్ చేయడానికి నేను ఫాలో-అప్‌ని రూపొందించాను, వ్యానిటీకి 6 వారాల లీడ్ టైమ్ ఉందని పేర్కొన్నందున, త్వరలో నిర్ణయం తీసుకుంటే ప్రాజెక్ట్ షెడ్యూల్‌లో ఉంచబడుతుంది. సమీక్షించి పంపడానికి సిద్ధంగా ఉంది."
   },
-  "testimonialsTitle": "Loved by interior designers",
+  "testimonialsTitle": "ఇంటీరియర్ డిజైనర్లు ఇష్టపడతారు",
   "testimonials": [
     {
-      "name": "Michael R.",
-      "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
+      "name": "మైఖేల్ ఆర్.",
+      "title": "ప్రిన్సిపల్ డిజైనర్, ఆస్టిన్ TX",
+      "quote": "పెయింటర్లు, ఎలక్ట్రీషియన్లు మరియు టైల్ ఇన్‌స్టాలర్‌లను సమన్వయం చేస్తూ నేను రోజుకు 6 గంటలు ఆన్-సైట్‌లో ఉన్నాను. ఇంతలో మరో ముగ్గురు క్లయింట్లు తమ ప్రాజెక్ట్‌ల గురించి ఇమెయిల్ చేస్తున్నారు. Duet చిత్తుప్రతులు సరైన ప్రాజెక్ట్ వివరాలతో ప్రత్యుత్తరాలు — నేను సైట్ సందర్శనల మధ్య సమీక్షిస్తాను.",
       "avatarKey": "michael"
     },
     {
-      "name": "Francesca D.",
-      "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "name": "ఫ్రాన్సిస్కా డి.",
+      "title": "రెసిడెన్షియల్ ఇంటీరియర్ డిజైనర్, చికాగో",
+      "quote": "నేను సేకరణ ఇమెయిల్‌లు మరియు కాంట్రాక్టర్ షెడ్యూలింగ్‌లో పాతిపెట్టినందున క్లయింట్ విచారణలు రోజుల తరబడి కూర్చునేవి. ఇప్పుడు Duet నా ప్రక్రియ మరియు లభ్యతతో నిమిషాల్లో కొత్త లీడ్‌లకు ప్రతిస్పందిస్తుంది. నేను ఈ త్రైమాసికంలో 4 అదనపు ప్రాజెక్ట్‌లను బుక్ చేసాను.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Johnny M.",
-      "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "name": "జానీ ఎం.",
+      "title": "డిజైన్ స్టూడియో యజమాని, నాష్విల్లే",
+      "quote": "12 యాక్టివ్ ప్రాజెక్ట్‌ల కోసం ఇమెయిల్‌లను నిర్వహించడం నన్ను చంపుతోంది. Duet అన్నింటినీ వర్గీకరిస్తుంది — కొత్త విచారణలు, పెండింగ్‌లో ఉన్న ఆమోదాలు, విక్రేత ఆర్డర్‌లు, కాంట్రాక్టర్ అప్‌డేట్‌లు — కాబట్టి ముందుగా నా దృష్టికి ఏది అవసరమో నాకు తెలుసు.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer S.",
-      "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "name": "జెన్నిఫర్ ఎస్.",
+      "title": "ఇంటీరియర్ డెకరేటర్, శాన్ డియాగో",
+      "quote": "ఇన్‌స్టాల్ చేసే వారాల్లో నేను తగినంత వేగంగా స్పందించలేనందున నేను సంభావ్య క్లయింట్‌లను కోల్పోతున్నాను. Duet నా సంప్రదింపు ప్రక్రియ, ధరల నిర్మాణం, నా డిజైన్ శైలిని నేను ఎలా వివరిస్తున్నానో కూడా నేర్చుకున్నాను. ఇది AI-సహాయకమని ఖాతాదారులకు తెలియదు.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sarah K.",
-      "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "name": "సారా కె.",
+      "title": "కమర్షియల్ ఇంటీరియర్ డిజైనర్, డెన్వర్",
+      "quote": "విక్రేత లీడ్ టైమ్‌లు, కాంట్రాక్టర్ షెడ్యూల్‌లు మరియు క్లయింట్ పునర్విమర్శ అభ్యర్థనల మధ్య, నా ఇన్‌బాక్స్ గందరగోళంగా ఉంది. Duet అన్నింటినీ క్రమబద్ధీకరిస్తుంది మరియు పెండింగ్‌లో ఉన్న ఆమోదాలపై ఫాలో-అప్‌లను డ్రాఫ్ట్ చేస్తుంది. ఇది ఎప్పుడూ నిద్రపోని ప్రాజెక్ట్ కోఆర్డినేటర్ వంటిది.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "అందమైన ప్రదేశాలను సృష్టించడానికి మీ రోజులు గడపండి,\nమీ ఇన్‌బాక్స్‌లో పాతిపెట్టబడలేదు.",
+  "ctaSubline": "మీ ఉచిత ట్రయల్‌ని ప్రారంభించండి. 30 సెకన్లలో మీ ఇన్‌బాక్స్‌ని కనెక్ట్ చేయండి.",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
-      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "నేను ఒకేసారి 8-10 ప్రాజెక్ట్‌లను మోసగిస్తాను. Duet వాటిని నేరుగా ఉంచగలదా?",
+      "answer": "అవును. Duet ప్రతి క్లయింట్ మరియు ప్రాజెక్ట్‌కు ప్రతి ఇమెయిల్ థ్రెడ్‌ను ట్రాక్ చేస్తుంది. మీరు హెండర్సన్ వంటగది లేదా పార్క్ అవెన్యూ కార్యాలయం గురించి అడిగినప్పుడు, ఇది అన్ని సంబంధిత సంభాషణల నుండి సందర్భాన్ని లాగుతుంది - విక్రేత ఆర్డర్‌లు, కాంట్రాక్టర్ అప్‌డేట్‌లు, క్లయింట్ ఆమోదాలు - కాబట్టి మీ ప్రత్యుత్తరాలు ఎల్లప్పుడూ ఖచ్చితమైనవి మరియు ప్రాజెక్ట్-నిర్దిష్టంగా ఉంటాయి. ఏ క్లయింట్ కోసం ఏ టైల్‌ని కలపడం లేదు."
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
-      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "నేను చాలా మంది కాంట్రాక్టర్లు మరియు విక్రేతలతో సమన్వయం చేస్తున్నాను. Duet దానికి సహాయం చేస్తుందా?",
+      "answer": "ఖచ్చితంగా. Duet మీ కాంట్రాక్టర్ పరిచయాలు, విక్రేత ప్రతినిధులు మరియు మీ ప్రాజెక్ట్‌లలో ప్రతి ట్రేడ్ పాత్ర యొక్క సందర్భాన్ని నేర్చుకుంటుంది. మీ ఎలక్ట్రీషియన్ రఫ్-ఇన్ పూర్తి చేసిన తర్వాత, Duet తదుపరి దశను నిర్ధారిస్తూ ప్రత్యుత్తరాన్ని రూపొందించవచ్చు లేదా ఫిక్చర్ ఇన్‌స్టాలర్‌లో లూప్ చేయవచ్చు. మీరు పట్టణం అంతటా మరొక జాబ్ సైట్‌లో ఉన్నప్పుడు కూడా ఇది వర్క్‌ఫ్లో కదిలేలా చేస్తుంది."
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
+  "pricingNote": "$10,000/ప్రాజెక్ట్‌లో, సేవ్ చేయబడిన ఒక క్లయింట్ Duet Pro సంవత్సరాలకు చెల్లిస్తారు."
 }

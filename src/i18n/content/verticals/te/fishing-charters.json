@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "ఫిషింగ్ చార్టర్ల కోసం Duet Mail | AI ఇమెయిల్ అసిస్టెంట్",
+  "metaDescription": "Duet Mail ఫిషింగ్ చార్టర్ కెప్టెన్‌లు తక్షణమే బుకింగ్ ఇమెయిల్‌లకు ప్రతిస్పందించడంలో సహాయపడుతుంది — నీటి నుండి కూడా. మీ ధర, విధానాలు మరియు వాయిస్‌తో AI-డ్రాఫ్టెడ్ ప్రత్యుత్తరాలు.",
+  "heroBadge": "500+ చార్టర్ కెప్టెన్లచే విశ్వసించబడింది",
+  "heroHeadline": "మీరు నీటిలో ఉన్నప్పుడు మీ ఇమెయిల్ అసిస్టెంట్",
+  "heroSubline": "Duet మీ ధర, విధానాలు మరియు వాయిస్‌ని నేర్చుకుంటుంది — ఆపై ఇమెయిల్ ప్రత్యుత్తరాలను డ్రాఫ్ట్ చేస్తుంది కాబట్టి మీరు నెమ్మదిగా ప్రతిస్పందనకు బుకింగ్‌ను ఎప్పటికీ కోల్పోరు.",
   "inboxEmails": [
     {
-      "from": "Sarah M.",
+      "from": "సారా ఎం.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "4 మందికి జూలై 12న లభ్యత?",
+      "preview": "హాయ్! మేము జూలై 12న ఫిషింగ్ ట్రిప్‌ని బుక్ చేయాలనుకుంటున్న 4 మంది బృందం. మీకు అందుబాటులో ఉందా? పూర్తి రోజు ధర ఎంత?",
+      "pill": "ప్రతిస్పందించడానికి",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "డేవిడ్ కె.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "మనం ఏమి తీసుకురావాలి?",
+      "preview": "హే, మేము శనివారం కోసం బుక్ చేసాము. త్వరిత ప్రశ్న - మనం ఏమి తీసుకురావాలి? మీరు రాడ్లు మరియు టాకిల్ అందిస్తారా లేదా మేము మా స్వంతంగా తీసుకురావాలా...",
+      "pill": "ప్రశ్న",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "మైక్ & లిసా ఆర్.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "ఆదివారం వరకు రీషెడ్యూల్ చేయాలి",
+      "preview": "ఆలస్యంగా నోటీసు ఇచ్చినందుకు క్షమించండి కానీ శనివారం వాతావరణ సూచన కరుకుగా కనిపిస్తోంది. దానికి బదులు మనం ఆదివారం వెళ్లవచ్చా? అదే సమయంలో...",
+      "pill": "బుకింగ్",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "మీ జాబితా కోసం కొత్త సమీక్ష",
+      "preview": "ఒక ప్రయాణికుడు ఇటీవల మీ వ్యాపారాన్ని సమీక్షించారు. వారు ఏం మాట్లాడారో చూడండి మరియు స్పందించండి...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "హే సారా! జూలై 12 4 వరకు తెరిచి ఉంటుంది. పూర్తి-రోజు పర్యటనలు 8 గంటల పాటు నడుస్తాయి, ఉదయం 6 గంటలకు ప్రారంభమవుతాయి. అన్ని రాడ్‌లు, టాకిల్, ఎర మరియు లైసెన్స్‌లు చేర్చబడ్డాయి - మీ క్యాచ్ కోసం కేవలం సన్‌స్క్రీన్, నీరు మరియు కూలర్‌ను తీసుకురండి. నేను దాన్ని లాక్ చేయాలనుకుంటున్నారా?",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "చార్టర్",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "ఒక సేవ్ చేయబడిన బుకింగ్ Duet సంవత్సరానికి చెల్లిస్తుంది."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet ప్రతి ఇమెయిల్‌ను స్వయంచాలకంగా ట్యాగ్ చేస్తుంది కాబట్టి మీరు ముందుగా బుకింగ్ అభ్యర్థనలు, రెండవ ప్రశ్నలు మరియు శబ్దం ఎప్పుడూ చూడలేరు. TripAdvisor హెచ్చరికల క్రింద పూడ్చిన ట్రిప్ విచారణను కోల్పోరు.",
+  "draftSubtitle": "Duet మీ ధర, విధానాలు మరియు స్వరాన్ని నేర్చుకుంటుంది. బుకింగ్ విచారణ హిట్ అయినప్పుడు, అది పర్యటన వివరాలు, ధర మరియు ఏమి తీసుకురావాలనే దానితో పూర్తి ప్రత్యుత్తరాన్ని రూపొందిస్తుంది. మీరు సమీక్షించి పంపండి.",
+  "agentSubtitle": "\"వచ్చే వారం ఏ రోజులు తెరిచి ఉంటాయి?\" \"లభ్యతతో సారాకు ప్రత్యుత్తరాన్ని రూపొందించండి.\" Duetకి మీ ఇన్‌బాక్స్ మరియు క్యాలెండర్ తెలుసు — అడగండి.",
   "categorizationEmails": [
     {
-      "from": "Sarah M.",
+      "from": "సారా ఎం.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "4 మందికి జూలై 12న లభ్యత?",
+      "preview": "మేము ఫిషింగ్ ట్రిప్‌ని బుక్ చేసుకోవడానికి చూస్తున్న 4 మంది బృందం...",
+      "pill": "ఇప్పుడు ప్రతిస్పందించండి",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "డేవిడ్ కె.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: బుకింగ్ నిర్ధారించబడింది — శనివారం 7AM",
+      "pill": "బుక్ చేసుకున్నారు",
       "pillColor": "blue"
     },
     {
-      "from": "Mike R.",
+      "from": "మైక్ ఆర్.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "శనివారం ఏమి తీసుకురావాలి?",
+      "pill": "ప్రశ్న",
       "pillColor": "amber"
     },
     {
-      "from": "FishingBooker",
+      "from": "ఫిషింగ్బుకర్",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "మీ వారపు బుకింగ్ సారాంశం",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "West Marine",
+      "from": "వెస్ట్ మెరైన్",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "స్ప్రింగ్ సేల్ — 20% ఆఫ్ ట్యాకిల్",
+      "pill": "ప్రమోషన్లు",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: 4 వ్యక్తులకు జూలై 12 లభ్యత?",
+    "originalFrom": "సారా M. రాశారు:",
+    "originalText": "హాయ్! మేము జూలై 12న ఫిషింగ్ ట్రిప్‌ని బుక్ చేయాలనుకుంటున్న 4 మంది బృందం. మీకు అందుబాటులో ఉందా? పూర్తి రోజు ధర ఎంత?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "హే సారా!",
+      "జూలై 12 4 వరకు తెరిచి ఉంటుంది. పూర్తి-రోజు పర్యటనలు $500 మరియు మెరీనా నుండి ఉదయం 6 గంటలకు ప్రారంభమై 8 గంటలు నడుస్తాయి.",
+      "అన్ని గేర్, ఎర మరియు ఫిషింగ్ లైసెన్స్‌లు చేర్చబడ్డాయి - కేవలం సన్‌స్క్రీన్ మరియు కూలర్‌ని తీసుకురండి.",
+      "నేను దాన్ని లాక్ చేయాలనుకుంటున్నారా?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "జూలై 12 4 వరకు తెరవబడి ఉంటుంది. పూర్తి-రోజు పర్యటనలు $500",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "మీ ధర & లభ్యత తెలుసు",
+      "మీ వాయిస్‌లో చిత్తుప్రతులు",
+      "స్వయంచాలకంగా పర్యటన వివరాలను కలిగి ఉంటుంది",
+      "కాలక్రమేణా నేర్చుకుంటుంది"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "వచ్చే వారం ఇంకా ఏ రోజులు తెరిచి ఉంటాయి?",
+    "agentResponse": "మీ క్యాలెండర్ ఆధారంగా, మీకు వచ్చే వారం మంగళవారం, గురువారం మరియు శనివారం ఓపెనింగ్‌లు ఉన్నాయి. సోమవారం మరియు బుధవారం పూర్తిగా బుక్ చేయబడ్డాయి (ఒక్కొక్కటి 2 చార్టర్లు). ఈ తేదీలతో ఏవైనా పెండింగ్‌లో ఉన్న విచారణలకు నేను ప్రతిస్పందనను రూపొందించాలనుకుంటున్నారా?",
+    "followUp": "జూలై 12 లభ్యతతో సారాకు ప్రత్యుత్తరాన్ని రూపొందించండి",
+    "followUpResponse": "పూర్తయింది! నేను $500.లో 4 మంది అతిథుల కోసం జూలై 12న ధృవీకరిస్తూ సారాకు ఒక ప్రత్యుత్తరాన్ని రూపొందించాను, ఇందులో మీ ప్రామాణిక పర్యటన వివరాలు మరియు మీటింగ్ లొకేషన్ ఉన్నాయి. సమీక్షించి పంపడానికి సిద్ధంగా ఉంది."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "చార్టర్ కెప్టెన్లచే ప్రేమించబడింది",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "కెప్టెన్ మైక్ డి.",
+      "title": "ఆఫ్‌షోర్ చార్టర్ కెప్టెన్, FL",
+      "quote": "పీక్ సీజన్‌లో నేను బోట్ నుండి తగినంత వేగంగా ప్రత్యుత్తరం ఇవ్వలేనందున నేను వారానికి 2-3 బుకింగ్‌లను కోల్పోతాను. Duet నా ధర మరియు పర్యటన వివరాలతో ప్రతిస్పందనలను చిత్తుప్రతి చేస్తుంది — నేను క్యాచ్‌ల మధ్య పంపు నొక్కండి.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "సారా & టామ్ కె.",
+      "title": "కుటుంబ చార్టర్ వ్యాపారం, OR",
+      "quote": "మేము రెండు పడవలను నడుపుతాము మరియు వేసవిలో ఇమెయిల్ వాల్యూమ్ పిచ్చిగా ఉంటుంది. Duet అన్నిటి నుండి బుకింగ్ అభ్యర్థనలను క్రమబద్ధీకరిస్తుంది మరియు చిత్తుప్రతుల ప్రత్యుత్తరాలను ఖచ్చితంగా మనలానే వినిపిస్తుంది. సంపూర్ణ గేమ్ ఛేంజర్.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "name": "జేక్ ఆర్.",
+      "title": "ఇన్‌షోర్ ఫిషింగ్ గైడ్, TX",
+      "quote": "నేను అదే లభ్యత ప్రశ్నలకు సమాధానమివ్వడానికి ప్రతి రాత్రి ఒక గంట గడిపాను. ఇప్పుడు Duet దీన్ని నిర్వహిస్తుంది. నా ప్రతిస్పందన సమయం గంటల నుండి నిమిషాలకు వెళ్లింది మరియు అప్పటి నుండి నేను బుకింగ్‌ను కోల్పోలేదు.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "name": "లిసా ఎం.",
+      "title": "చార్టర్ ఆఫీస్ మేనేజర్, HI",
+      "quote": "4 మంది కెప్టెన్‌ల కోసం ఇమెయిల్‌లను నిర్వహించడం పూర్తి సమయం ఉద్యోగం. Duet ప్రతిదానిని వర్గీకరిస్తుంది మరియు సరైన పడవ, సరైన ధర, సరైన కెప్టెన్‌తో ప్రత్యుత్తరాలను డ్రాఫ్ట్ చేస్తుంది. నేను మరొకరిని కలిగి ఉన్నట్లే.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Andrea S.",
-      "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "name": "ఆండ్రియా ఎస్.",
+      "title": "డీప్ సీ చార్టర్స్, NC",
+      "quote": "AI ఫిషింగ్ చార్టర్ ఇమెయిల్‌లను నిర్వహించగలదనే సందేహం ఉంది. కానీ అది మా ట్రిప్ రకాలు, ఏమి చేర్చబడిందో, మా రద్దు విధానాన్ని కూడా తెలుసుకుంది. క్లయింట్లు తేడా చెప్పలేరు.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "నీటిపై పీక్ సీజన్ గడపండి,\nమీ ఇన్‌బాక్స్‌లో లేదు.",
+  "ctaSubline": "మీ ఉచిత ట్రయల్‌ని ప్రారంభించండి. 30 సెకన్లలో మీ ఇన్‌బాక్స్‌ని కనెక్ట్ చేయండి.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "బుకింగ్ మరియు లభ్యత ఇమెయిల్‌ల కోసం Duet పని చేస్తుందా?",
+      "answer": "ఖచ్చితంగా. Duet మీ పర్యటన రకాలు, ధర, లభ్యత మరియు విధానాలను తెలుసుకుంటుంది. బుకింగ్ విచారణ వచ్చినప్పుడు, అది సరైన వివరాలతో పూర్తి ప్రతిస్పందనను రూపొందిస్తుంది — ధర, ఏమి చేర్చబడింది, సమావేశ స్థానం, ఏమి తీసుకురావాలి. మీరు సమీక్షించి, పంపు నొక్కండి."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "నేను రోజంతా నీటిపైనే ఉన్నాను. నేను నా ఫోన్ నుండి Duetని ఉపయోగించవచ్చా?",
+      "answer": "అవును. Duet Gmail మరియు Outlookతో పని చేస్తుంది, కనుక ఇది మీ ఫోన్‌తో సహా మీ ఇమెయిల్ పని చేసే చోట పని చేస్తుంది. చిత్తుప్రతులు స్వయంచాలకంగా కనిపిస్తాయి. క్యాచ్‌ల మధ్య, మీరు ఒక్క ట్యాప్‌తో రివ్యూ చేసి పంపండి. పీక్ సీజన్‌లో ఇది రోజుకు 1-2 గంటల ఇమెయిల్ సమయాన్ని ఆదా చేస్తుందని చాలా మంది కెప్టెన్‌లు మాకు చెప్పారు."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "$500/చార్టర్‌లో, ఒక సేవ్ చేయబడిన బుకింగ్ Pro సంవత్సరానికి పైగా చెల్లిస్తుంది."
 }

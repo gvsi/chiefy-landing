@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "ATV & UTV పర్యటనల కోసం Duet Mail | AI ఇమెయిల్ అసిస్టెంట్",
+  "metaDescription": "Duet Mail ATV మరియు UTV టూర్ గైడ్‌లు ట్రయిల్ నుండి కూడా - తక్షణమే బుకింగ్ ఇమెయిల్‌లకు ప్రతిస్పందించడంలో సహాయపడుతుంది. మీ ధర, అవసరాలు మరియు వాయిస్‌తో AI-డ్రాఫ్టెడ్ ప్రత్యుత్తరాలు.",
+  "heroBadge": "200+ టూర్ గైడ్‌లచే విశ్వసించబడింది",
+  "heroHeadline": "మీరు ట్రయిల్‌లో ఉన్నప్పుడు మీ ఇమెయిల్ అసిస్టెంట్",
+  "heroSubline": "Duet మీ పర్యటన రకాలు, ధర మరియు రైడర్ అవసరాలను నేర్చుకుంటుంది — ఆపై ఇమెయిల్ ప్రత్యుత్తరాలను డ్రాఫ్ట్ చేస్తుంది కాబట్టి మీరు నెమ్మదిగా ప్రతిస్పందనకు బుకింగ్‌ను ఎప్పటికీ కోల్పోరు.",
   "inboxEmails": [
     {
-      "from": "Rachel W.",
+      "from": "రాచెల్ W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "4 యంత్రాలకు శనివారం లభ్యత?",
+      "preview": "హాయ్! మేము ఈ శనివారం గైడెడ్ ATV టూర్‌ను బుక్ చేయాలనుకుంటున్న 4 మంది బృందం. మీకు గది ఉందా? ఒక్కో యంత్రానికి ధర ఎంత?",
+      "pill": "ప్రతిస్పందించడానికి",
       "pillColor": "red"
     },
     {
-      "from": "Jason P.",
+      "from": "జాసన్ పి.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "బీమా అవసరాలు?",
+      "preview": "హే, మేము మా స్వంత UTVలను తీసుకువస్తున్నాము. మేము బాధ్యత బీమా రుజువును చూపించాలా? మీకు ఎలాంటి కవరేజ్ అవసరం...",
+      "pill": "ప్రశ్న",
       "pillColor": "amber"
     },
     {
-      "from": "The Hendersons",
+      "from": "ది హెండర్సన్స్",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "ప్రారంభకులకు ఏ మార్గం?",
+      "preview": "మేము ఇంతకు ముందు ATV రైడింగ్ చేయలేదు. ఇద్దరు యువకులు ఉన్న కుటుంబానికి మీరు ఏ పర్యటన మార్గాన్ని సిఫార్సు చేస్తారు? మీరు అందిస్తారా...",
+      "pill": "బుకింగ్",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "మీ జాబితా కోసం కొత్త సమీక్ష",
+      "preview": "ఒక ప్రయాణికుడు ఇటీవల మీ వ్యాపారాన్ని సమీక్షించారు. వారు ఏం మాట్లాడారో చూడండి మరియు స్పందించండి...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "హే రాచెల్! శనివారం తెరిచి ఉంది మరియు మేము 4 యంత్రాలు తీసుకోవచ్చు సమస్య లేదు. పర్యటనలు ఒక యంత్రానికి $200 మరియు దాదాపు 6-8 గంటలు నడుస్తాయి. మేము ట్రైల్ హెడ్ వద్ద ఉదయం 9 గంటలకు కలుస్తాము — మీరు నిర్ధారించిన తర్వాత నేను దిశలను పంపుతాను. హెల్మెట్లు, గాగుల్స్ అందించారు. నేను మిమ్మల్ని లాక్ చేయాలనుకుంటున్నారా?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "సమూహం (4 యంత్రాలు)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "ఒక సేవ్ చేయబడిన గ్రూప్ బుకింగ్ Duet సంవత్సరానికి చెల్లిస్తుంది."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet ప్రతి ఇమెయిల్‌ను స్వయంచాలకంగా ట్యాగ్ చేస్తుంది, తద్వారా మీరు ముందుగా బుకింగ్ అభ్యర్థనలు, రెండవ బీమా ప్రశ్నలు మరియు శబ్దం ఎప్పుడూ చూడలేరు. TripAdvisor హెచ్చరికల క్రింద పూడ్చిన సమూహ విచారణను కోల్పోరు.",
+  "draftSubtitle": "Duet మీ పర్యటన మార్గాలు, ధర మరియు రైడర్ అవసరాలను నేర్చుకుంటుంది. బుకింగ్ విచారణ హిట్ అయినప్పుడు, అది పర్యటన వివరాలు, ధర మరియు ఏమి తీసుకురావాలనే దానితో పూర్తి ప్రత్యుత్తరాన్ని రూపొందిస్తుంది. మీరు సమీక్షించి పంపండి.",
+  "agentSubtitle": "\"ఈ వారాంతంలో ఏవైనా గ్రూపులు బుక్ చేశారా?\" \"శనివారం లభ్యతతో రాచెల్‌కి ప్రత్యుత్తరాన్ని రూపొందించండి.\" Duetకి మీ ఇన్‌బాక్స్ మరియు షెడ్యూల్ తెలుసు — అడగండి.",
   "categorizationEmails": [
     {
-      "from": "Rachel W.",
+      "from": "రాచెల్ W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "4 యంత్రాలకు శనివారం లభ్యత?",
+      "preview": "మేము గైడెడ్ ATV టూర్‌ని బుక్ చేయాలనుకుంటున్న 4 మంది బృందం...",
+      "pill": "ఇప్పుడు ప్రతిస్పందించండి",
       "pillColor": "red"
     },
     {
-      "from": "Jason P.",
+      "from": "జాసన్ పి.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Re: బుకింగ్ నిర్ధారించబడింది — శనివారం 9 AM",
+      "pill": "బుక్ చేసుకున్నారు",
       "pillColor": "blue"
     },
     {
-      "from": "The Hendersons",
+      "from": "ది హెండర్సన్స్",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "కాలిబాటలో మనం ఏమి ధరించాలి?",
+      "pill": "ప్రశ్న",
       "pillColor": "amber"
     },
     {
-      "from": "Yelp for Business",
+      "from": "వ్యాపారం కోసం Yelp",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
+      "subject": "మీ వారపు వ్యాపార నవీకరణ",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Rocky Mountain ATV",
+      "from": "రాకీ మౌంటైన్ ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "స్ప్రింగ్ క్లియరెన్స్ - భాగాలపై 25% తగ్గింపు",
+      "pill": "ప్రమోషన్లు",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: శనివారం 4 యంత్రాలు అందుబాటులో ఉన్నాయా?",
+    "originalFrom": "రాచెల్ W. రాశారు:",
+    "originalText": "హాయ్! మేము ఈ శనివారం గైడెడ్ ATV టూర్‌ను బుక్ చేయాలనుకుంటున్న 4 మంది బృందం. మీకు గది ఉందా? ఒక్కో యంత్రానికి ధర ఎంత?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "హే రాచెల్!",
+      "శనివారం 4 యంత్రాల కోసం విస్తృతంగా తెరిచి ఉంది. పర్యటనలు ఒక యంత్రానికి $200 మరియు ట్రైల్‌హెడ్ నుండి ఉదయం 9 గంటలకు ప్రారంభమై 6-8 గంటలు నడుస్తాయి.",
+      "హెల్మెట్‌లు మరియు గాగుల్స్ అందించబడతాయి - పొడవాటి ప్యాంటు, మూసి-కాలి బూట్లు ధరించండి మరియు నీరు మరియు సన్‌స్క్రీన్‌ని తీసుకురండి. మీరు నిర్ధారించిన తర్వాత నేను మీటింగ్ పాయింట్ మరియు దిశలను పంపుతాను.",
+      "నేను మిమ్మల్ని లాక్ చేయాలనుకుంటున్నారా?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "శనివారం 4 యంత్రాల కోసం విస్తృతంగా తెరిచి ఉంది. పర్యటనలు ఒక్కో యంత్రానికి $200",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "మీ ధర & పర్యటన మార్గాలు తెలుసు",
+      "మీ వాయిస్‌లో చిత్తుప్రతులు",
+      "ఆటోమేటిక్‌గా రైడర్ అవసరాలు ఉంటాయి",
+      "కాలక్రమేణా నేర్చుకుంటుంది"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "ఈ వారాంతంలో ఏవైనా సమూహాలు బుక్ చేశారా?",
+    "agentResponse": "మీ ఇన్‌బాక్స్ ఆధారంగా, మీరు 6 మందితో కూడిన గ్రూప్‌ని శనివారం ఉదయం 9 గంటలకు నిర్ధారించారు మరియు ఒక జంట ఆదివారం ఉదయం కోసం బుక్ చేసుకున్నారు. శనివారం మధ్యాహ్నం మరియు ఆదివారం మధ్యాహ్నం ఇప్పటికీ తెరిచి ఉంటుంది. ఆ ఓపెనింగ్‌లతో ఏవైనా పెండింగ్‌లో ఉన్న విచారణలకు నేను ప్రత్యుత్తరాన్ని రూపొందించాలనుకుంటున్నారా?",
+    "followUp": "శనివారం లభ్యతతో రాచెల్‌కు ప్రత్యుత్తరాన్ని రూపొందించండి",
+    "followUpResponse": "పూర్తయింది! నేను $200లో 4 మెషీన్‌ల కోసం శనివారం ధృవీకరిస్తూ రాచెల్‌కి ఒక ప్రత్యుత్తరాన్ని రూపొందించాను. ఇది మీ ప్రామాణిక సమావేశ స్థానం, గేర్ సమాచారం మరియు ఏమి ధరించాలి. సమీక్షించి పంపడానికి సిద్ధంగా ఉంది."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "టూర్ గైడ్‌లు మరియు ఆపరేటర్లు ఇష్టపడతారు",
   "testimonials": [
     {
-      "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "name": "మైక్ డి.",
+      "title": "ATV గైడ్, సదరన్ ఉటా",
+      "quote": "నేను జీరో సెల్ సర్వీస్‌తో కాన్యన్‌ల గుండా 8 గంటల పర్యటనలను నిర్వహిస్తాను. నేను తిరిగి వచ్చే సమయానికి, నా బుకింగ్ ఇమెయిల్‌లు సగం చల్లబడ్డాయి. Duet నా ధర మరియు ట్రయల్ సమాచారంతో ప్రతిస్పందనలను డ్రాఫ్ట్ చేస్తుంది — నేను వాటిని రోజు చివరిలో సమీక్షిస్తాను.",
       "avatarKey": "michael"
     },
     {
-      "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "name": "తారా ఎం.",
+      "title": "UTV టూర్ ఆపరేటర్, కొలరాడో",
+      "quote": "మేము వారానికి 7 రోజులు పర్యటనలు నిర్వహిస్తాము మరియు భీమా మరియు మినహాయింపు ప్రశ్నలు మాత్రమే నా ఉదయాన్నే తినేస్తున్నాయి. Duet వాటన్నింటిని నిర్వహిస్తుంది — రైడర్ అవసరాలు, వయస్సు పరిమితులు, ఏమి తీసుకురావాలి. సరిగ్గా నాలాగే అనిపిస్తోంది.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "name": "జేక్ ఆర్.",
+      "title": "జీప్ టూర్ గైడ్, మోయాబ్",
+      "quote": "వ్యక్తులు తమ సమూహానికి ఏ ట్రయల్ సరైనది, వారికి ఎలాంటి అనుభవం అవసరం, పిల్లలు రైడ్ చేయగలరా అని అడుగుతూ ఇమెయిల్ పంపుతారు. పైగా అదే 5 ప్రశ్నలు. Duet వాటిలో ప్రతి ఒక్కటి గోర్లు.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Nicole S.",
-      "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "name": "నికోల్ ఎస్.",
+      "title": "ఆఫ్-రోడ్ అడ్వెంచర్స్, AZ",
+      "quote": "నేను ప్రతి రాత్రి ఒక గంటకు పైగా అదే లభ్యత ప్రశ్నలకు సమాధానమిస్తున్నాను. ఇప్పుడు నేను ట్రయల్‌లో ఉన్నప్పుడు Duet డ్రాఫ్ట్‌లు ప్రత్యుత్తరాలు. నా ప్రతిస్పందన సమయం గంటల నుండి నిమిషాల వరకు సాగింది.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Amanda K.",
-      "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "name": "అమండా కె.",
+      "title": "కుటుంబ ATV పర్యటనలు, సెడోనా",
+      "quote": "మేము బిగినర్స్ ట్రయల్స్ మరియు వయస్సు అవసరాల గురించి చాలా కుటుంబాలు అడుగుతున్నాము. Duet మా అన్ని టూర్ ఎంపికలను నేర్చుకుంది మరియు ప్రతి ప్రత్యుత్తరంలో సరైనదాన్ని సిఫార్సు చేస్తోంది. క్లయింట్లు తేడా చెప్పలేరు.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "కాలిబాటలో పీక్ సీజన్ గడపండి,\nమీ ఇన్‌బాక్స్‌లో లేదు.",
+  "ctaSubline": "మీ ఉచిత ట్రయల్‌ని ప్రారంభించండి. 30 సెకన్లలో మీ ఇన్‌బాక్స్‌ని కనెక్ట్ చేయండి.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Duet బీమా మరియు మాఫీ ప్రశ్నలను నిర్వహిస్తుందా?",
+      "answer": "అవును. Duet మీ రైడర్ అవసరాలను నేర్చుకుంటుంది — బాధ్యత బీమా, వయస్సు పరిమితులు, మినహాయింపు వివరాలు, రైడర్‌లు ఏమి తీసుకురావాలి. ఎవరైనా తమ పర్యటనకు ముందు తమకు ఏమి కావాలో కోరుతూ ఇమెయిల్‌లు పంపినప్పుడు, Duet అన్ని ప్రత్యేకతలతో పూర్తి ప్రతిస్పందనను రూపొందించింది. మీరు సమీక్షించి, పంపు నొక్కండి."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "నేను సెల్ సర్వీస్ లేకుండా రోజంతా కాలిబాటలో ఉన్నాను. Duet ఎలా సహాయపడుతుంది?",
+      "answer": "అందుకే గైడ్‌లు Duetని ఇష్టపడతారు. మీరు సిగ్నల్ లేకుండా 6-8 గంటల టూర్‌ను లీడ్ చేస్తున్నప్పుడు, బుకింగ్ ఎంక్వైరీలు పోగు అవుతాయి. Duet డ్రాఫ్ట్‌లు వాటిలో ప్రతిదానికి ప్రత్యుత్తరాలు - ధర, లభ్యత, సమావేశ స్థానం, ఏమి ధరించాలి. మీరు తిరిగి వచ్చినప్పుడు, మీరు డ్రాఫ్ట్‌లను సమీక్షించి పంపండి. చాలా మంది గైడ్‌లు పీక్ సీజన్‌లో రోజుకు 1-2 గంటల ఇమెయిల్ సమయాన్ని ఆదా చేస్తాయని మాకు చెప్పారు."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "$200/మెషిన్‌లో, సేవ్ చేయబడిన 4 మంది సమూహం Pro సంవత్సరానికి పైగా చెల్లిస్తుంది."
 }
