@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ surf instructors",
-  "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "सर्फ शाळा आणि पॅडलबोर्ड ऑपरेटरसाठी Duet Mail | AI ईमेल सहाय्यक",
+  "metaDescription": "Duet Mail सर्फ प्रशिक्षक आणि पॅडलबोर्ड ऑपरेटरना बुकिंग ईमेल्सना तत्काळ उत्तर द्यायला मदत करते — शिकवत असतानाही. तुमच्या धडेप्रकार, किंमत आणि शैलीनुसार AI-तयार प्रतिसाद.",
+  "heroBadge": "300+ सर्फ प्रशिक्षकांचा विश्वास",
+  "heroHeadline": "पाण्यावर शिकवत असताना तुमचा ईमेल सहाय्यक",
+  "heroSubline": "Duet तुमचे धडेप्रकार, किंमत आणि परिस्थिती शिकतो — मग ईमेल प्रतिसादांचे मसुदे तयार करतो, त्यामुळे मंद प्रतिसादामुळे तुमची बुकिंग कधीही जात नाही.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
-      "pill": "To Respond",
+      "subject": "शनिवारी 6 जणांचा ग्रुप धडा?",
+      "preview": "नमस्कार! या वीकेंडला भेटायला येणारे 6 मित्रांचा ग्रुप माझ्याकडे आहे. शनिवारी सकाळी ग्रुप सर्फ धड्यासाठी उपलब्धता आहे का? किंमत काय असेल?",
+      "pill": "उत्तर द्यायचे",
       "pillColor": "red"
     },
     {
       "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "School field trip — 25 students, May 15",
-      "preview": "We're looking to book a surf day for our 5th grade class of 25 students. Do you offer school group rates? We'd need wetsuits and boards provided...",
-      "pill": "Booking",
+      "subject": "शाळेची सहल — 25 विद्यार्थी, 15 मे",
+      "preview": "आम्ही आमच्या 5वीच्या वर्गातील 25 विद्यार्थ्यांसाठी सर्फ डे बुक करू इच्छितो. तुम्ही शाळा गटांसाठी दर देता का? आम्हाला वेटसूट आणि बोर्ड्स पुरवावे लागतील...",
+      "pill": "बुकिंग",
       "pillColor": "blue"
     },
     {
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Paddleboard rental + delivery?",
-      "preview": "Do you rent SUP boards by the hour? We're staying at the beach house on Elm St — any chance you deliver? What's included...",
-      "pill": "Question",
+      "subject": "पॅडलबोर्ड भाडे + डिलिव्हरी?",
+      "preview": "तुम्ही SUP बोर्ड्स तासाने भाड्याने देता का? आम्ही Elm St वरील बीच हाऊसमध्ये थांबलो आहोत — डिलिव्हरीची शक्यता आहे का? यात काय समाविष्ट आहे...",
+      "pill": "प्रश्न",
       "pillColor": "amber"
     },
     {
       "from": "Nicole B.",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Conditions for tomorrow morning?",
-      "preview": "We're booked for 9 AM tomorrow but the forecast looks windy. Will the lesson still go ahead? Should we bring anything extra...",
-      "pill": "FYI",
+      "subject": "उद्या सकाळच्या परिस्थिती?",
+      "preview": "आमची 9 AM ची बुकिंग आहे, पण अंदाज वाऱ्याचा दिसतो. धडा तरीही होईल का? काही अतिरिक्त आणायचे का...",
+      "pill": "माहितीसाठी",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+  "autodraft": "हाय Rachel! शनिवारी सकाळी 6 जणांसाठी स्लॉट उपलब्ध आहे. ग्रुप धडे 2 तासांचे असतात आणि 9 AM ला सुरू होतात. बोर्ड्स, वेटसूट्स आणि रॅश गार्ड्स सर्व समाविष्ट आहेत — फक्त सनस्क्रीन आणि टॉवेल आणा. प्रति व्यक्ती $90 आहे. मी तुमचा ग्रुप नोंदवू का?",
   "math": {
     "pricePerBooking": "$90",
-    "bookingUnit": "lesson",
+    "bookingUnit": "धडा",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "दोन वाचवलेल्या बुकिंग्जमुळे Duet चे वर्षभराचे खर्च भरून निघतात."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet प्रत्येक ईमेलला आपोआप टॅग करतो, त्यामुळे तुम्हाला आधी धड्यांची बुकिंग्ज, मग प्रश्न, आणि बाकीचा गोंधळ कधीच दिसत नाही. Yelp अलर्ट्सखाली लपलेली शाळेच्या गटाची चौकशी चुकण्याचा प्रश्नच नाही.",
+  "draftSubtitle": "Duet तुमचे धडेप्रकार, ग्रुप दर आणि शैली शिकतो. बुकिंगची चौकशी आली की उपलब्धता, काय समाविष्ट आहे, आणि काय आणायचे यासह संपूर्ण उत्तराचा मसुदा तयार करतो. तुम्ही पाहा आणि पाठवा.",
+  "agentSubtitle": "\"या आठवड्यात काही ग्रुप बुकिंग्ज आहेत का?\" \"शाळेसाठी उपलब्धतेचा प्रतिसाद मसुदा करा.\" Duet ला तुमचा इनबॉक्स आणि वेळापत्रक माहीत आहे — फक्त विचारा.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "I have a group of 6 friends visiting for the weekend...",
-      "pill": "Respond Now",
+      "subject": "शनिवारी 6 जणांचा ग्रुप धडा?",
+      "preview": "या वीकेंडला भेटायला येणारे 6 मित्रांचा ग्रुप माझ्याकडे आहे...",
+      "pill": "आता उत्तर द्या",
       "pillColor": "red"
     },
     {
       "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Field trip confirmed — May 15, 25 students",
-      "pill": "Booked",
+      "subject": "Re: सहल निश्चित — 15 मे, 25 विद्यार्थी",
+      "pill": "बुक झाले",
       "pillColor": "blue"
     },
     {
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Do you rent paddleboards by the hour?",
-      "pill": "Question",
+      "subject": "तुम्ही पॅडलबोर्ड्स तासाने भाड्याने देता का?",
+      "pill": "प्रश्न",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "pill": "FYI",
+      "subject": "तुमच्या लिस्टिंगसाठी नवीन पुनरावलोकन",
+      "pill": "माहितीसाठी",
       "pillColor": "lavender"
     },
     {
       "from": "Surf Warehouse",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 30% off wetsuits",
-      "pill": "Promotions",
+      "subject": "सॅल्मर सेल — वेटसूट्सवर 30% सूट",
+      "pill": "प्रमोशन्स",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group lesson for 6 on Saturday?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
+    "subject": "Re: शनिवारी 6 जणांचा ग्रुप धडा?",
+    "originalFrom": "Rachel T. यांनी लिहिले:",
+    "originalText": "नमस्कार! या वीकेंडला भेटायला येणारे 6 मित्रांचा ग्रुप माझ्याकडे आहे. शनिवारी सकाळी ग्रुप सर्फ धड्यासाठी उपलब्धता आहे का? किंमत काय असेल?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "हाय Rachel!",
+      "शनिवारी सकाळी 6 जणांसाठी पूर्ण उपलब्धता आहे. ग्रुप धडे प्रत्येकी $90 आहेत आणि मुख्य बीचवर 9 AM पासून 2 तास चालतात.",
+      "बोर्ड्स, वेटसूट्स आणि रॅश गार्ड्स सर्व समाविष्ट आहेत — फक्त सनस्क्रीन, पाणी, आणि टॉवेल आणा. पूर्वानुभवाची गरज नाही.",
+      "मी तुमचा ग्रुप नोंदवू का?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "शनिवारी सकाळी 6 जणांसाठी पूर्ण उपलब्धता आहे. ग्रुप धडे प्रत्येकी $90 आहेत",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "तुमचे धडेप्रकार आणि किंमत ओळखतो",
+      "तुमच्या शैलीत मसुदा तयार करतो",
+      "काय दिले जाते ते आपोआप समाविष्ट करतो",
+      "हळूहळू शिकतो"
     ]
   },
   "agent": {
-    "userMessage": "Any group bookings coming up this week?",
-    "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
-    "followUp": "Draft a reply to the school confirming the field trip details",
-    "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
+    "userMessage": "या आठवड्यात काही ग्रुप बुकिंग्ज आहेत का?",
+    "agentResponse": "या आठवड्यात तुमच्याकडे दोन ग्रुप बुकिंग्ज आहेत: शनिवारी Rachel T. (6 जण, 9 AM) आणि बुधवारी Westside Elementary (25 विद्यार्थी, 10 AM सहल). तसेच James P. कडून पॅडलबोर्ड भाड्याबद्दल एक प्रलंबित चौकशी आहे. मी प्रतिसादाचा मसुदा तयार करू का?",
+    "followUp": "शाळेला सहलीचे तपशील निश्चित करून प्रतिसादाचा मसुदा तयार करा",
+    "followUpResponse": "झाले! मी Westside Elementary साठी 15 मे रोजी 25 विद्यार्थ्यांसाठी 10 AM ची पुष्टी करणारा प्रतिसादाचा मसुदा तयार केला आहे. त्यात तुमचा शाळा-गट दर, काय पुरवले जाते, परवानगीपत्राच्या अटी, आणि तुमचे रद्दीकरण धोरण समाविष्ट आहे. पाहून पाठवण्यासाठी तयार."
   },
-  "testimonialsTitle": "Loved by surf instructors",
+  "testimonialsTitle": "सर्फ प्रशिक्षकांना आवडलेले",
   "testimonials": [
     {
       "name": "Coach Mike T.",
-      "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
+      "title": "सर्फ स्कूल मालक, CA",
+      "quote": "मी दिवसाला 6 तास पाण्यात शिकवत असतो. ईमेल पाहेपर्यंत अर्ध्या बुकिंग्ज कुणीतरी दुसऱ्याला मिळालेल्या असायच्या. आता Duet माझ्या किंमत आणि उपलब्धतेनुसार प्रतिसादांचे मसुदे तयार करतो — मी फक्त सत्रांमध्ये पाहतो.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
-      "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "title": "पॅडलबोर्ड धडे आणि भाडे, HI",
+      "quote": "आम्ही एकाच इनबॉक्समधून धडे आणि बोर्ड भाड्याने देतो. Duet ने लगेच फरक ओळखला — भाड्याच्या प्रश्नांना भाड्याची उत्तरे, धड्यांच्या चौकशींना धड्यांचे तपशील. जणू रिसेप्शन डेस्कच आहे.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
-      "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "title": "सर्फ प्रशिक्षक, FL",
+      "quote": "शाळेच्या गटाच्या बुकिंग्जसाठी 10 ईमेल्सची देवघेव लागत होती. आता Duet पहिल्या प्रतिसादाचा मसुदा ग्रुप दर, काय समाविष्ट आहे, आणि परवानगीपत्रासह तयार करतो. पूर्ण थ्रेड अर्ध्यावर आणतो.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
-      "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
+      "title": "SUP टूर आणि धडे, OR",
+      "quote": "पीक सीझन मला त्रास देत होता — परिस्थिती, किंमत, काय आणायचे यावर दिवसाला 30 ईमेल्स. तीच पाच प्रश्नं पुन्हा पुन्हा. Duet ते सगळं हाताळतो आणि ते अगदी माझ्यासारखेच वाटतात.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "title": "किड्स सर्फ कॅम्प संचालक, SC",
+      "quote": "पालक सर्वात लांब ईमेल्स पाठवतात. कॅम्पच्या तारखा, अॅलर्जी, कौशल्य पातळी, पिकअप वेळा. Duet सविस्तर प्रतिसादांचे मसुदे तयार करतो जे सगळं कव्हर करतात, त्यामुळे समुद्रकिनारी पूर्ण दिवसानंतर रात्री 10 वाजता मला परिच्छेद टाइप करावे लागत नाहीत.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "तुमचा उन्हाळा लाटांमध्ये घालवा,\nइनबॉक्समध्ये नाही.",
+  "ctaSubline": "तुमची मोफत चाचणी सुरू करा. 30 सेकंदांत तुमचा इनबॉक्स जोडा.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle different lesson types and equipment rentals?",
-      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "Duet वेगवेगळ्या धड्यांचे प्रकार आणि उपकरण भाडे हाताळतो का?",
+      "answer": "हो. Duet तुमच्या सर्व सेवा शिकतो — खासगी धडे, ग्रुप धडे, किड्स कॅम्प, बोर्ड भाडे, SUP टूर. चौकशी आली की तो योग्य किंमत, कालावधी, काय समाविष्ट आहे, आणि काय आणायचे यासह प्रतिसादाचा मसुदा तयार करतो. शाळेच्या गटाचा ईमेल आणि खासगी धड्याची बुकिंग यांना वेगळे तपशील लागतात, हे त्याला माहीत असते."
     },
     {
-      "question": "What about weather and conditions questions?",
-      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "question": "हवामान आणि परिस्थितीविषयीचे प्रश्न काय?",
+      "answer": "Duet तुम्ही साधारणपणे परिस्थितीविषयक ईमेल्स कसे हाताळता ते शिकतो — रद्दीकरण, वेळ बदल, आणि तुम्ही कोणत्या परिस्थितीत शिकवता याबाबतची तुमची धोरणे. कोणी धडा होईल का असे विचारले, तर Duet तुमच्या नेहमीच्या शैलीत आणि धोरणानुसार प्रतिसादाचा मसुदा तयार करतो. तुम्ही पाहा आणि काही सेकंदांत पाठवा."
     }
   ],
-  "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
+  "pricingNote": "$90/धडा दराने, दोन वाचवलेल्या बुकिंग्जमुळे Pro चे वर्षभरापेक्षा जास्त खर्च भरून निघतो."
 }

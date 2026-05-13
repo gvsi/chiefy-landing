@@ -1,33 +1,32 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | Gmail आणि Outlook साठी AI ईमेल सहाय्यक",
+    "description": "Duet Mail चा AI ईमेल सहाय्यक ईमेल्सचा सारांश देतो, प्रत्युत्तरांची रूपरेषा तयार करतो आणि तुमचा इनबॉक्स व्यवस्थित करतो. Gmail आणि Outlook सोबत कार्य करते. दर आठवड्याला 4+ तास वाचवा."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "आता Gmail आणि Outlook साठी उपलब्ध",
+    "headlinePrefix": "तुमचे ",
+    "headlineHighlight": "मुख्य सहाय्यक",
+    "headlineSuffix": " म्हणून",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "ईमेलचे वर्गीकरण",
+      "प्रत्युत्तरांची रूपरेषा तयार करणे",
+      "वेळापत्रक ठरवणे",
+      "उत्तरे शोधणे"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "ईमेलवर दर आठवड्याला 4+ तास वाचवा",
+    "primaryCta": "Gmail ने सुरू करा",
+    "secondaryCta": "Outlook ने सुरू करा",
+    "trialNote": "14 दिवसांची मोफत चाचणी",
+    "cancelNote": "कधीही रद्द करा"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "तात्काळ वर्गीकरण",
+      "AI-आधारित प्रत्युत्तरे"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "इनबॉक्स",
     "providers": [
       "Gmail",
       "Outlook"
@@ -36,140 +35,140 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "काल"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "ऑटो-ड्राफ्ट",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
         "subject": "Re: Product Launch Timeline",
         "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "pill": "उत्तर द्यायचे"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
         "subject": "Quick sync this afternoon?",
         "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "pill": "बैठक"
       },
       {
         "from": "Marketing",
         "avatarLetter": "M",
         "subject": "Campaign Results Ready",
-        "pill": "FYI"
+        "pill": "माहितीसाठी"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
         "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "pill": "प्रमोशन्स"
       }
     ],
     "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "ग्राहकांचे लोगो",
+    "headingPrefix": "दूरदृष्टी असलेल्या ",
+    "headingHighlight": " व्यावसायिक आणि संघ ",
+    "headingSuffix": "यांच्याकडून जगभर विश्वासार्ह"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "वैशिष्ट्ये",
+    "eyebrow": "तुमचा इनबॉक्स, अधिक सक्षम",
+    "title": "तुमच्या इनबॉक्सने तुमचा दिवस व्यापू नये",
+    "subtitle": "गोंधळातून स्पष्टता निर्माण करा, प्रत्यक्षात तुम्हाला समजणाऱ्या AI सोबत.\nGmail आणि Outlook साठी सर्वात स्मार्ट ईमेल सहाय्यकाने दर आठवड्याला 3+ तास वाचवा.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "तुमच्यासारखे वाटणारे ईमेल ड्राफ्ट",
+        "description": "Duet AI email writer तुमच्या सर्वात महत्त्वाच्या ईमेलसाठी ड्राफ्ट तयार करतो. तो तुमचा टोन आणि लेखनशैली शिकतो.",
+        "ariaLabel": "तुमच्यासारखे वाटणारे ईमेल ड्राफ्ट",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "मी John साठी वैयक्तिकृत कोल्ड ईमेल तयार केला आहे",
+          "sampleText": "भक्कम, विस्तारक्षम आणि कार्यक्षम AI प्रणाली तयार करण्यासाठी AI पाइपलाइन्स अत्यावश्यक आहेत.",
+          "readyToSend": "पाठवण्यासाठी तयार?",
+          "remindFollowUp": "मला फॉलो-अपची आठवण करून द्या."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "तात्काळ सारांश आणि कृती आयटम",
+        "description": "तुमच्या ईमेलमधील TL;DR आणि कृती आयटम सेकंदांत मिळवा. इनबॉक्समध्ये कादंबऱ्या वाचण्याची गरज नाही.",
+        "ariaLabel": "तात्काळ सारांश आणि कृती आयटम",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "मी सुचवतो की आपण ",
+          "sentenceHighlight": "पुढच्या आठवड्यात भेटू",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "नवा कृती आयटम",
+          "actionLead": "तुमच्या कॅलेंडरमधील ही मोकळी वेळ शोधली आहे",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "मंगळवार, सकाळी 10 वाजता",
+            "गुरुवार, दुपारी 2 वाजता",
+            "शुक्रवार, सकाळी 9 वाजता"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "आणखी शोधा",
+          "primaryButton": "पाठवा"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "बुद्धिमान आठवणी",
+        "description": "एकदा सेट करा आणि विसरून जा. इतरांनी उत्तर न दिल्यास Duet AI फॉलो-अपची आठवण करून देतो, त्यामुळे काहीही सुटत नाही.",
+        "ariaLabel": "बुद्धिमान आठवणी",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "AI-सक्षम स्मार्ट आठवणी",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "फॉलो-अप",
               "value": "12",
-              "unit": "emails"
+              "unit": "ईमेल्स"
             },
             {
-              "label": "To reply",
+              "label": "उत्तर द्यायचे",
               "value": "2",
-              "unit": "emails"
+              "unit": "ईमेल्स"
             },
             {
-              "label": "Completed",
+              "label": "पूर्ण",
               "value": "3",
-              "unit": "action items"
+              "unit": "कृती आयटम"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "लेखन कामे पूर्ण करा",
+              "time": "2 दिवसांपूर्वी"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "प्रकल्प एकत्रीकरण",
+              "time": "12 तासांपूर्वी"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "फॉलो करा",
+            "पुन्हा वेळ ठरवा?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "महत्त्वाच्या गोष्टींवर लक्ष केंद्रित करा",
+        "description": "स्मार्ट वर्गीकरण तुमचे सर्वात महत्त्वाचे ईमेल आधी दाखवते आणि ईमेल्सना विषयांमध्ये वर्गीकृत करते. ईमेल व्यवस्थापन इतके सोपे कधीच नव्हते.",
+        "ariaLabel": "महत्त्वाच्या गोष्टींवर लक्ष केंद्रित करा",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "विश्लेषण करत आहे"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "ईमेल आयोजन आणि स्मार्ट इनबॉक्स वर्गीकरण",
+    "badge": "संघटन",
+    "title": "Duet तुमचा इनबॉक्स व्यवस्थित करतो",
+    "subtitle": "स्वयंचलित वर्गीकरण गोंधळ दूर करते आणि महत्त्वाच्या गोष्टी पुढे आणते. काय कृतीसाठी आहे, काय फक्त माहितीसाठी आहे, आणि काय थांबू शकते ते त्वरित पाहा.",
+    "windowTitle": "इनबॉक्स",
     "providers": [
       "Gmail",
       "Outlook"
@@ -178,8 +177,8 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "काल",
+      "20 डिसें"
     ],
     "emails": [
       {
@@ -187,48 +186,48 @@
         "avatarLetter": "S",
         "subject": "Q4 Budget Review Request",
         "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "pill": "कृती आवश्यक"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
         "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "pill": "बैठक"
       },
       {
         "from": "Design Team",
         "avatarLetter": "D",
         "subject": "New brand guidelines published",
-        "pill": "FYI"
+        "pill": "माहितीसाठी"
       },
       {
         "from": "Stripe",
         "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "pill": "प्रमोशन्स"
       },
       {
         "from": "Newsletter",
         "subject": "Weekly digest",
-        "pill": "Promotions"
+        "pill": "प्रमोशन्स"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "AI ईमेल ड्राफ्टिंग आणि प्रत्युत्तर निर्मिती",
+    "badge": "ड्राफ्टिंग",
+    "title": "Duet तुमच्या आवाजात ड्राफ्ट तयार करतो",
+    "subtitle": "Duet तुम्ही कसे लिहिता ते शिकतो आणि तुमच्या टोनशी जुळणारी प्रत्युत्तरे तयार करतो. पुनरावलोकन करा, गरज असल्यास बदला, आणि सेकंदांत पाठवा.",
+    "windowTitle": "नवा संदेश",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "प्रति:",
+      "subject": "विषय:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
       "subject": "Re: Quick sync this week?",
       "originalFrom": "Alex Rivera wrote:",
       "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "badge": "ऑटो-ड्राफ्टेड",
       "lines": [
         "Hey Alex!",
         "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
@@ -237,29 +236,29 @@
       ],
       "highlightText": "I'm free Thursday 2-4pm or Friday morning",
       "actions": [
-        "Send",
-        "Edit"
+        "पाठवा",
+        "संपादित करा"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "वैयक्तिकृत ड्राफ्ट",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "तुमचा कॅलेंडर जाणतो",
+        "तुमच्या आवाजात ड्राफ्ट तयार करतो",
+        "स्मृतीद्वारे संदर्भ जाणतो",
+        "कालांतराने शिकतो"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
+    "ariaLabel": "AI ईमेल बुद्धिमत्ता आणि सहाय्यक",
+    "badge": "बुद्धिमत्ता",
+    "title": "तुमच्या ईमेलबद्दल काहीही विचारा",
+    "subtitle": "Duet ला ईमेल शोधायला, तुमचा कॅलेंडर तपासायला, किंवा प्रत्युत्तर तयार करायला सांगा. तो तुमचा इनबॉक्स समजतो आणि त्वरित उत्तर देतो.",
     "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "onlineLabel": "ऑनलाइन",
+    "initialUserMessage": "Accounting ने पाठवलेले Stripe चे बिल शोधू शकता का?",
+    "processingText": "इनबॉक्समध्ये शोधत आहे...",
+    "foundHeader": "Stripe कडून 2 ईमेल सापडले",
+    "foundBody": "मला Oct 24th चे $29.00 USD चे पावतीपत्र सापडले.",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"
@@ -267,20 +266,20 @@
     "suggestions": [
       {
         "action": "draft",
-        "label": "Draft a reply"
+        "label": "प्रत्युत्तर तयार करा"
       },
       {
         "action": "calendar",
-        "label": "Find time to meet"
+        "label": "भेटण्याची वेळ शोधा"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "काहीही विचारा...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "प्रक्रिया करत आहे...",
+      "processingDraft": "ड्राफ्ट तयार करत आहे...",
+      "processingCalendar": "उपलब्धता तपासत आहे...",
+      "draftIntro": "Accounting साठी प्रत्युत्तराचा ड्राफ्ट इथे आहे:",
+      "draftHeader": "ड्राफ्ट: accounting@company.com",
       "draftLines": [
         "Hi Team,",
         "Please find attached the Stripe invoice for October ($29.00).",
@@ -288,162 +287,162 @@
         "Best,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "ईमेल पाठवा",
+        "संपादित करा"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "उद्या 3 मोकळ्या वेळा आहेत:",
       "calendarSlots": [
         {
           "time": "9:30 AM",
-          "duration": "30 min"
+          "duration": "30 मिनिटे"
         },
         {
           "time": "2:00 PM",
-          "duration": "30 min"
+          "duration": "30 मिनिटे"
         },
         {
           "time": "4:30 PM",
-          "duration": "30 min"
+          "duration": "30 मिनिटे"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "प्रत्युत्तरही तयार करायचे?",
+        "calendarAfterDraft": "फॉलो-अपही ठरवायचा?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "प्रशंसापत्रे",
+    "scrollingAriaLabel": "स्क्रोल होणारी प्रशंसापत्रे",
+    "eyebrow": "प्रशंसापत्रे",
+    "title": "व्यस्त व्यावसायिकांना आवडलेले",
+    "subtitle": "खरे लोक. खरे इनबॉक्स यश.",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "फ्रीलान्सर",
+        "quote": "प्रत्येक पैशाचे मूल्य आहे. ईमेलवर वाचलेला वेळ Duet Mail ची किंमत 10 पट भरतो. आता याशिवाय काम करण्याची कल्पनाच करू शकत नाही.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "विक्री कार्यकारी",
+        "quote": "लांब ईमेल साखळ्यांचे त्वरित सारांश खरोखर जादूसारखे आहेत, आणि वापरण्यासही खूप सोपे. माझे ग्राहक मला अतिमानवी समजतात.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "उद्योजक",
+        "quote": "माझ्या ईमेलसाठी कृत्रिम बुद्धिमत्ता वापरण्याबाबत साशंक होतो. आता ते एखादा हुशार कार्यकारी सहाय्यक असल्यासारखे वाटते. पुन्हा मागे जाण्याची कल्पना करू शकत नाही.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "सल्लागार",
+        "quote": "सल्लागार म्हणून प्रत्येक मिनिट महत्त्वाचे असते. Duet Mail फक्त वेळ वाचवत नाही—ते माझे ईमेल संवाद अधिक नेमके करते.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
         "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "title": "मार्केटिंग संचालक",
+        "quote": "शेवटी, असा AI मेल सहाय्यक जो प्रत्यक्षात मी कसे लिहिते ते शिकतो. त्वरित प्रत्युत्तरे इतकी अचूक असतात की माझ्या टीमला वाटले मी मध्यरात्री काम करत होते.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "ariaLabel": "किंमत",
+    "eyebrow": "किंमत",
+    "heading": "सोपे मूल्यनिर्धारण, शक्तिशाली इनबॉक्स",
+    "subheading": "मोफत सुरू करा, कधीही अपग्रेड करा. हवे तेव्हा रद्द करा.",
+    "billingLegend": "बिलिंग कालावधी",
+    "billingAnnual": "वार्षिक",
+    "billingMonthly": "मासिक",
+    "savingsTag": "33% वाचवा",
+    "priceCadence": "/महिना",
+    "perUserSuffix": "/वापरकर्ता",
+    "annualBillingSuffix": "(वार्षिक बिलिंग)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Stripe द्वारे सुरक्षित चेकआउट",
+      "कधीही रद्द करा"
     ],
     "plans": [
       {
         "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
-        "priceLabel": "Free",
+        "description": "ज्यांना स्मार्ट इनबॉक्स कसा वाटतो ते जाणून घ्यायचे आहे त्यांच्यासाठी. कोणतेही बंधन नाही.",
+        "priceLabel": "मोफत",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "तात्काळ सारांश",
+            "description": "कोणत्याही थ्रेडचा सारांश मिळवा"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "AI ड्राफ्ट्स",
+            "description": "तुमच्या आवाजातील प्रत्युत्तरांची झलक"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "स्मार्ट इनबॉक्स",
+            "description": "सुरुवातीसाठी मूलभूत संघटन"
           },
           {
             "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "description": "AI सहाय्यक वापरून पाहा"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Gmail किंवा Outlook निवडा"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "14 दिवसांची मोफत चाचणी",
+        "description": "अधिक खोल ऑटोमेशन, एकत्रीकरणे, आणि तुमची कामाची पद्धत खरोखर समजणारा इनबॉक्स हवा असलेल्या व्यावसायिकांसाठी.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "स्मार्ट इनबॉक्स",
+            "description": "ईमेल्स आपोआप स्मार्ट श्रेणींमध्ये वर्गीकृत",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "AI ड्राफ्ट्स",
+            "description": "तुमच्या आवाजात लिहिलेली, पाठवण्यासाठी तयार प्रत्युत्तरे",
             "highlight": true
           },
           {
             "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "description": "शोधण्यासाठी, ड्राफ्ट करण्यासाठी, संघटित करण्यासाठी आणि अधिकसाठी चॅट करा",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "कॅलेंडर एकत्रीकरण",
+            "description": "तुमच्या इनबॉक्समधून कार्यक्रम वेळापत्रक करा, पाहा आणि व्यवस्थापित करा"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "तात्काळ सारांश",
+            "description": "कोणत्याही थ्रेड किंवा संलग्नकाचा सारांश मिळवा"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "स्मार्ट आठवणी",
+            "description": "फॉलो-अप्स आपोआप पुढे येतात, त्यामुळे काहीही सुटत नाही"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "प्राथमिकता समर्थन",
+            "description": "खरे लोक, जलद प्रतिसाद"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Gmail किंवा Outlook निवडा",
         "featured": true
       },
       {
         "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "description": "एंटरप्राइझ-स्तरीय स्केल, समर्पित समर्थन, आणि सानुकूल वर्कफ्लोजची गरज असलेल्या संस्थांसाठी. 50+ सदस्यांच्या संघांसाठी सर्वोत्तम.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,36 +450,36 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Pro मधील सर्वकाही",
+            "description": "सर्व वैशिष्ट्ये समाविष्ट"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "समर्पित समर्थन",
+            "description": "वैयक्तिक खाते व्यवस्थापक"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "संघ विश्लेषण",
+            "description": "तुमच्या संस्थेतील अंतर्दृष्टी"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "सामायिक वर्कफ्लोज",
+            "description": "संघांसाठी टेम्पलेट्स आणि ऑटोमेशन्स"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "विक्री टीमशी संपर्क साधा",
+        "ctaNote": "सानुकूल किंमत उपलब्ध"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
+    "ariaLabel": "वारंवार विचारले जाणारे प्रश्न",
     "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "headingPrefix": "सामान्य प्रश्न, ",
+    "headingAccent": "उत्तर दिलेले",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
+    "contactLabel": "संपर्क",
+    "contactHeading": "आणखी प्रश्न आहेत?",
+    "contactCta": "संपर्क साधा →",
     "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
@@ -488,60 +487,60 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail माझे ईमेल डेटा कसे संरक्षित करते?",
+        "answer": "तुमची सुरक्षा ही आमची सर्वोच्च प्राथमिकता आहे. Google आणि Microsoft दोन्हींसोबत सुरक्षित प्रमाणीकरणासाठी आम्ही OAuth 2.0 वापरतो. ईमेल मजकूर client-side field-level encryption वापरून rest मध्ये encrypted असतो, आणि API access साठी आम्ही least privilege तत्त्वाचे पालन करतो. आमच्या Google integration साठी, आम्ही Google चे वार्षिक CASA security assessment पूर्ण करतो."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "ईमेल सारांश वैशिष्ट्य कसे कार्य करते?",
+        "answer": "Duet Mail प्रगत AI चा वापर करून तुमच्या ईमेल थ्रेड्सचे विश्लेषण करते आणि महत्त्वाचे मुद्दे, निर्णय, आणि कृती आयटम अधोरेखित करणारा संक्षिप्त आढावा तयार करते. यामुळे संपूर्ण थ्रेड न वाचता तुम्ही संदर्भ लवकर समजू शकता."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail ला कोणत्या परवानग्या लागतात?",
+        "answer": "सारांश देण्यासाठी, कृती आयटम काढण्यासाठी, मजकूर तयार करण्यासाठी आणि तुमचे ईमेल पाठवण्यासाठी Duet Mail ला तुमच्या ईमेल्सचा प्रवेश लागतो. आम्ही फक्त अत्यावश्यक परवानग्याच मागतो. तुम्ही या परवानग्या कधीही तुमच्या Google Account किंवा Microsoft Account सेटिंग्जमध्ये पाहू आणि रद्द करू शकता."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "मोफत चाचणीत काय समाविष्ट आहे?",
+        "answer": "14 दिवसांच्या मोफत चाचणीत सर्व Pro वैशिष्ट्यांचा पूर्ण प्रवेश आहे: अमर्यादित ईमेल सारांश, कृती आयटम काढणे, AI email writer (मर्यादेशिवाय ईमेल्स आणि ड्राफ्ट तयार करणे), आणि सानुकूल ईमेल टेम्पलेट्स. ईमेल व्यवस्थापनावर वेळ वाचवायला Google किंवा Microsoft ने साइन इन करा."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "मी Duet Mail इतर ईमेल प्रदात्यांसोबत वापरू शकतो का?",
+        "answer": "Duet Mail Gmail, Google Workspace, आणि Microsoft Outlook ला समर्थन देते. सुरुवात करण्यासाठी तुमच्या Google किंवा Microsoft खात्याने साइन इन करा."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "सुरुवात करा",
+    "headline": "4 तास परत मिळवा.\nदर आठवड्याला.",
+    "subline": "स्पष्टतेने दिवस सुरू करणाऱ्या, गोंधळाने नाही, अशा व्यावसायिकांमध्ये सामील व्हा. तुमची मोफत चाचणी तयार आहे.",
+    "primaryCta": "Gmail ने सुरू करा",
+    "secondaryCta": "Outlook ने सुरू करा",
+    "note": "14 दिवसांची मोफत चाचणी · कधीही रद्द करा",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Google CASA-मूल्यांकित",
+      "rest मध्ये encrypted",
+      "सुरक्षित OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "साइट फूटर",
+    "brandIconAlt": "Duet Mail चिन्ह",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — AI ईमेल सहाय्यक जो दर आठवड्याला तुमचे तास वाचवतो",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "अन्वेषण करा",
         "links": [
           {
-            "label": "Organization",
+            "label": "संघटन",
             "href": "/mr#organization"
           },
           {
-            "label": "Drafting",
+            "label": "ड्राफ्टिंग",
             "href": "/mr#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "बुद्धिमत्ता",
             "href": "/mr#intelligence"
           },
           {
@@ -552,14 +551,14 @@
         ]
       },
       {
-        "title": "Customers",
+        "title": "ग्राहक",
         "links": [
           {
-            "label": "Pricing",
+            "label": "किंमत",
             "href": "/mr#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "प्रशंसापत्रे",
             "href": "/mr#testimonials"
           },
           {
@@ -569,31 +568,31 @@
         ]
       },
       {
-        "title": "Legal",
+        "title": "कायदेशीर",
         "links": [
           {
-            "label": "Privacy",
+            "label": "गोपनीयता",
             "href": "/mr/privacy"
           },
           {
-            "label": "Terms",
+            "label": "अटी",
             "href": "/mr/terms"
           },
           {
-            "label": "Cookies",
+            "label": "कुकीज",
             "href": "/mr/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "अस्वीकरण",
             "href": "/mr/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "जोडा",
         "links": [
           {
-            "label": "Blog",
+            "label": "ब्लॉग",
             "href": "/mr/blog"
           },
           {
@@ -621,42 +620,42 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
-    "dividerLabel": "vs",
+    "ariaLabel": "गुंतवणुकीवरील परतावा",
+    "label": "गणित",
+    "narrativeTemplate": "{pricePerBooking} प्रति {bookingUnit} प्रमाणे, मंद प्रत्युत्तरांमुळे फक्त {lostPerMonth} गमावणे =",
+    "lossSuffix": "/महिना गमावले",
+    "dividerLabel": "वि.",
     "duetLabel": "Duet",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/महिना"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - Gmail आणि Outlook साठी AI ईमेल सहाय्यक",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "ग्राहक समर्थन",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
+    "softwareDescription": "Gmail आणि Outlook साठी AI ईमेल सहाय्यक जो आपोआप ईमेल्सचा सारांश देतो, तुमच्या आवाजात प्रत्युत्तरे तयार करतो, आणि दर आठवड्याला तास वाचवण्यासाठी तुमचा इनबॉक्स व्यवस्थित करतो.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "स्मार्ट ईमेल संघटन आणि वर्गीकरण",
+      "तुमच्या आवाजात AI-आधारित ईमेल ड्राफ्टिंग",
+      "कॅलेंडर एकत्रीकरणासह बुद्धिमान ईमेल सहाय्यक",
+      "स्वयंचलित ईमेल सारांश आणि कृती आयटम",
+      "फॉलो-अपसाठी स्मार्ट आठवणी"
     ],
     "offers": [
       {
         "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "तात्काळ सारांश, AI ड्राफ्ट्स, आणि स्मार्ट इनबॉक्स असलेली मोफत योजना"
       },
       {
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "स्मार्ट इनबॉक्स वर्गीकरण, AI ड्राफ्ट्स, सहाय्यक, आणि कॅलेंडर एकत्रीकरणासह पूर्ण प्रवेश"
       }
     ],
     "aggregateRating": {
@@ -664,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "JavaScript आवश्यक आहे. Gmail, Google Workspace, आणि Microsoft Outlook सोबत कार्य करते.",
     "urls": {
       "site": "https://duetmail.com/mr",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail माझे ईमेल डेटा कसे संरक्षित करते?",
+        "answer": "तुमची सुरक्षा ही आमची सर्वोच्च प्राथमिकता आहे. Google आणि Microsoft दोन्हींसोबत सुरक्षित प्रमाणीकरणासाठी आम्ही OAuth 2.0 वापरतो. ईमेल मजकूर client-side field-level encryption वापरून rest मध्ये encrypted असतो, आणि API access साठी आम्ही least privilege तत्त्वाचे पालन करतो. आमच्या Google integration साठी, आम्ही Google चे वार्षिक CASA security assessment पूर्ण करतो."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "ईमेल सारांश वैशिष्ट्य कसे कार्य करते?",
+        "answer": "Duet Mail प्रगत AI चा वापर करून तुमच्या ईमेल थ्रेड्सचे विश्लेषण करते आणि महत्त्वाचे मुद्दे, निर्णय, आणि कृती आयटम अधोरेखित करणारा संक्षिप्त आढावा तयार करते. यामुळे संपूर्ण थ्रेड न वाचता तुम्ही संदर्भ लवकर समजू शकता."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail ला कोणत्या परवानग्या लागतात?",
+        "answer": "सारांश देण्यासाठी, कृती आयटम काढण्यासाठी, मजकूर तयार करण्यासाठी आणि तुमचे ईमेल पाठवण्यासाठी Duet Mail ला तुमच्या ईमेल्सचा प्रवेश लागतो. आम्ही फक्त अत्यावश्यक परवानग्याच मागतो. तुम्ही या परवानग्या कधीही तुमच्या Google Account किंवा Microsoft Account सेटिंग्जमध्ये पाहू आणि रद्द करू शकता."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "मोफत चाचणीत काय समाविष्ट आहे?",
+        "answer": "14 दिवसांच्या मोफत चाचणीत सर्व Pro वैशिष्ट्यांचा पूर्ण प्रवेश आहे: अमर्यादित ईमेल सारांश, कृती आयटम काढणे, AI email writer (मर्यादेशिवाय ईमेल्स आणि ड्राफ्ट तयार करणे), आणि सानुकूल ईमेल टेम्पलेट्स. ईमेल व्यवस्थापनावर वेळ वाचवायला Google किंवा Microsoft ने साइन इन करा."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "मी Duet Mail इतर ईमेल प्रदात्यांसोबत वापरू शकतो का?",
+        "answer": "Duet Mail Gmail, Google Workspace, आणि Microsoft Outlook ला समर्थन देते. सुरुवात करण्यासाठी तुमच्या Google किंवा Microsoft खात्याने साइन इन करा."
       }
     ]
   }
