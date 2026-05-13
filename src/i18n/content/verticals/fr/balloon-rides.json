@@ -1,27 +1,26 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail pour les vols en montgolfière | Assistant e-mail IA",
+  "metaDescription": "Duet Mail aide les pilotes de montgolfière à répondre instantanément aux e-mails de réservation — même pendant les vols au lever du soleil. Des réponses rédigées par l’IA avec vos tarifs, vos politiques météo et votre ton.",
+  "heroBadge": "Approuvé par plus de 200 pilotes de montgolfière",
+  "heroHeadline": "Votre assistant e-mail pendant que vous êtes en l’air",
+  "heroSubline": "Duet apprend vos horaires de vol, vos tarifs et vos politiques météo — puis rédige les réponses aux e-mails pour que vous ne perdiez jamais une réservation pendant un décollage au lever du soleil.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Vol au lever du soleil pour 2 — disponible samedi ?",
+      "preview": "Bonjour ! Mon mari et moi sommes de passage pour notre anniversaire et aimerions réserver un vol en montgolfière au lever du soleil ce samedi. Avez-vous de la place ? Quel est le prix par personne ?",
+      "pill": "À répondre",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
+      "subject": "Volons-nous demain ? Les prévisions de vent ont l’air mauvaises",
+      "preview": "Nous sommes réservés pour demain matin, mais l’application météo annonce des rafales à 15 mph. Volons-nous toujours ou devons-nous prévoir un report...",
       "pill": "Question",
       "pillColor": "amber"
     },
@@ -29,55 +28,55 @@
       "from": "Jennifer & Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "Vol privé pour une demande en mariage — tarifs ?",
+      "preview": "Je veux faire une surprise à ma copine avec un vol privé en montgolfière et faire ma demande pendant le vol. Combien coûte un vol privé et pouvez-vous aider à coordonner...",
+      "pill": "Réservation",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
+      "subject": "Que devons-nous porter ? Où doit-on se retrouver ?",
+      "preview": "Nous sommes réservés pour dimanche matin. Que devons-nous porter et où se trouve exactement le point de rendez-vous ? Et combien de temps dure l’expérience au total...",
       "pill": "Question",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Bonjour Rachel ! Samedi est disponible pour 2 personnes. Les vols au lever du soleil décollent vers 6:15 AM — nous confirmerons l’heure exacte et le lieu de rendez-vous la veille au soir en fonction des vents. C’est 250 $/personne et cela inclut environ une heure en l’air, puis un toast au champagne après l’atterrissage. Habillez-vous en couches et portez des chaussures fermées. Souhaitez-vous que je réserve vos places ?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "vol",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "Un seul vol réservé rembourse une année de Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet attribue automatiquement des libellés à chaque e-mail pour que vous voyiez d’abord les demandes de réservation, ensuite les questions sur la météo, et jamais le bruit. Plus de demande de vol perdue au milieu des alertes de newsletters.",
+  "draftSubtitle": "Duet apprend vos tarifs, vos politiques météo et votre ton. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du vol, les infos de rendez-vous et quoi porter. Vous relisez et envoyez.",
+  "agentSubtitle": "« Qui est sur le manifeste de demain ? » « Des annulations météo à reprogrammer ? » Duet connaît votre boîte de réception et votre calendrier — demandez simplement.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Vol au lever du soleil pour 2 — disponible samedi ?",
+      "preview": "Mon mari et moi aimerions réserver un vol en montgolfière au lever du soleil...",
+      "pill": "Répondre maintenant",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re : Réservation confirmée — dimanche 6 h 15",
+      "pill": "Réservé",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
+      "subject": "Que devons-nous porter pour le vol ?",
       "pill": "Question",
       "pillColor": "amber"
     },
@@ -85,88 +84,88 @@
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "pill": "FYI",
+      "subject": "Nouvel avis pour votre annonce",
+      "pill": "Info",
       "pillColor": "lavender"
     },
     {
       "from": "Balloon Federation",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
-      "pill": "FYI",
+      "subject": "Bulletin de sécurité de mars & rappel de renouvellement",
+      "pill": "Info",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
+    "subject": "Re : Vol au lever du soleil pour 2 — disponible samedi ?",
     "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "originalText": "Bonjour ! Mon mari et moi sommes en visite pour notre anniversaire et nous aimerions réserver un vol en montgolfière au lever du soleil ce samedi. Avez-vous de la place ? Quel est le prix par personne ?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Bonjour Rachel !",
+      "Samedi est largement disponible pour 2. Les vols au lever du soleil sont à 250 $/personne et incluent environ une heure de vol ainsi qu’un toast au champagne après l’atterrissage.",
+      "Nous décollons vers 6 h 15 — je vous enverrai votre heure et votre lieu de rendez-vous exacts la veille au soir, en fonction des conditions de vent. Habillez-vous en couches et portez des chaussures fermées.",
+      "Joyeux anniversaire ! Voulez-vous que je réserve vos places ?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Samedi est totalement disponible pour 2 personnes. Les vols au lever du soleil sont à 250 $/personne",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Connaît vos tarifs et votre programme de vols",
+      "Rédige dans votre style",
+      "Inclut automatiquement les détails de la réunion",
+      "Apprend au fil du temps"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Qui figure sur la liste de vol de demain et quel temps est prévu ?",
+    "agentResponse": "Le vol au lever du soleil de demain a 6 passagers réservés sur 2 réservations : le groupe Thompson (4) et le couple Lee (2). Les prévisions actuelles annoncent des vents calmes à 4 mph et un ciel dégagé au moment du décollage. Aucun e-mail d’annulation pour le moment. Voulez-vous que j’envoie les confirmations du point de rendez-vous ?",
+    "followUp": "Oui, envoie les confirmations aux deux groupes avec l’heure de rendez-vous à 6h15",
+    "followUpResponse": "C’est fait ! J’ai rédigé les confirmations du point de rendez-vous pour les Thompson et les Lee avec 6h15 au champ de décollage, quoi porter et les indications. Prêt à relire et à envoyer."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Apprécié des pilotes et opérateurs de montgolfière",
   "testimonials": [
     {
       "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "title": "Pilote de montgolfière, MN",
+      "quote": "Je travaille seul : je pilote, je fais l’assistance au sol, je réponds aux e-mails. Sauf à 5 h du matin, je gonfle, je ne réponds pas. Duet rédige des réponses à chaque message du type « volons-nous demain ? » pendant la nuit. Je me réveille, je vérifie la météo et j’envoie.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "title": "Tours en montgolfière toute l’année, UT",
+      "quote": "On reçoit les mêmes 10 questions chaque jour. Quoi porter, où se retrouver, que faire s’il y a du vent. Duet a tout appris et rédige maintenant des réponses parfaites. On est passés d’une heure d’e-mails chaque soir à cinq minutes.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "title": "Exploitant de vols au lever du soleil, AZ",
+      "quote": "La haute saison, c’est 4 à 6 vols par semaine et chaque passager envoie au moins deux e-mails avant le vol. Duet gère les questions avant le vol pour que je puisse me concentrer sur offrir aux gens la meilleure matinée de leur vie.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "Copropriétaire d’une société de montgolfières, NM",
+      "quote": "Les annulations météo gâchaient toute ma journée : 8 passagers avaient tous besoin d’e-mails de reprogrammation personnalisés. Maintenant, Duet rédige chacun d’eux avec notre politique de report incluse. Ça me fait gagner des heures les matins d’annulation.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "title": "Exploitation de vols en montgolfière, CO",
+      "quote": "Les vols de proposition demandent énormément d’aller-retour pour tout coordonner. Duet a compris notre façon de les gérer : le timing, les mots-code, la mise en place du champagne. Il rédige des réponses que je n’ai presque pas besoin de retoucher.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Passez vos matinées dans le ciel,\npas dans votre boîte de réception.",
+  "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Comment Duet gère-t-il les e-mails d’annulation liés à la météo ?",
+      "answer": "Duet apprend vos politiques d’annulation et de reprogrammation. Lorsque vous annulez un vol en raison de la météo, il peut rédiger des e-mails de reprogrammation personnalisés pour chaque passager concerné — avec votre politique, les dates disponibles et votre ton. Vous relisez et envoyez. Ce qui prenait une heure de réponses individuelles ne prend plus que quelques minutes."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Duet peut-il gérer les e-mails « volerons-nous demain ? » qui affluent chaque soir ?",
+      "answer": "Oui — c’est l’un des e-mails les plus courants dont les exploitants de montgolfières nous parlent. Duet apprend vos politiques météo et rédige des réponses rassurantes qui expliquent votre processus de décision, quand vous prendrez la décision finale et à quoi s’attendre. Une fois que vous confirmez le feu vert ou le non-feu vert le matin, il peut rédiger des mises à jour pour toutes les personnes sur le manifeste."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "À 250 $/personne avec 4 passagers par vol, une seule réservation économisée paie plus d’un an de Pro."
 }
