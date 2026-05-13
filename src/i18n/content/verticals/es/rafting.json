@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mail para proveedores de rafting y kayak | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los guías de rafting y a los proveedores de kayak a responder las consultas sobre viajes al instante, incluso desde el río. Respuestas redactadas por IA con los detalles de su viaje, precios y voz.",
+  "heroBadge": "Con la confianza de más de 200 guías fluviales",
+  "heroHeadline": "Tu asistente de correo electrónico mientras estás en el río",
+  "heroSubline": "Duet aprende tus tipos de viaje, precios y listas de equipo y luego redacta respuestas a consultas de reserva para que los clientes obtengan respuestas mientras corres rápidos.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "¿Viaje en balsa de día completo para 6 personas el 9 de agosto?",
+      "preview": "¡Hola! Somos una familia de 6 personas que visitamos en agosto y queremos reservar un viaje de rafting de un día completo el día 9. ¿Cuál es el precio por persona y qué nivel de experiencia necesitamos?",
+      "pill": "Para responder",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Viaje de varios días: ¿qué está incluido?",
+      "preview": "Somos un grupo de 4 personas que miramos tu expedición de 3 días. ¿Están incluidas las comidas, el equipo de campamento y las bolsas secas o debemos traer las nuestras...",
+      "pill": "Pregunta",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel & Mark S.",
+      "from": "Raquel y Mark S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "Niños de 8 y 10 años: ¿lo suficientemente seguros?",
+      "preview": "Nos encantaría hacer el viaje de medio día, pero nuestros hijos tienen 8 y 10 años. ¿La sección Clase II es apropiada para su edad? ¿Cuál es el mínimo...?",
+      "pill": "Pregunta",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Nueva reseña para tu anuncio",
+      "preview": "Un viajero revisó recientemente su negocio. Vea lo que tenían que decir y responda...",
+      "pill": "Para su información",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "Hola Jennifer! El 9 de agosto está abierto para 6 personas. Los viajes de día completo cuestan $ 150 por persona y duran aproximadamente 7 horas; llegamos a las 8:30 a.m. No se necesita experiencia, nuestros guías se encargan de todo. Se incluyen chalecos salvavidas, cascos, bolsas impermeables y un almuerzo junto al río. Solo trae protector solar, zapatos para el agua y ropa que no te importe mojar. ¿Quieres que reserve tus lugares?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "persona",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "Dos reservas guardadas pagan por un año completo de Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que las consultas sobre viajes aparezcan primero, las preguntas sobre equipos en segundo lugar y el ruido de las promociones desaparezca. Ya no te perderás una reserva de grupo enterrada bajo alertas TripAdvisor.",
+  "draftSubtitle": "Duet aprende sus tipos de viaje, clases de rápidos, listas de equipos y política de cancelación. Cuando llega una consulta de reserva, redacta una respuesta completa con todo lo que el cliente necesita. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Hay algún lugar disponible durante el día completo del sábado?\" \"Redacta una respuesta a Jennifer con disponibilidad\". Duet conoce tu bandeja de entrada y tu horario, solo pregúntale.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "¿Viaje en balsa de día completo para 6 personas el 9 de agosto?",
+      "preview": "Somos una familia de 6 personas que visitamos en agosto y queremos reservar...",
+      "pill": "Responder ahora",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "Re: Expedición de 3 días confirmada — 15 de agosto",
+      "pill": "Reservado",
       "pillColor": "blue"
     },
     {
-      "from": "Rachel S.",
+      "from": "Raquel S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "¿Están bien los niños de 8 y 10 años para la Clase II?",
+      "pill": "Pregunta",
       "pillColor": "amber"
     },
     {
-      "from": "The Flybook",
+      "from": "El libro de vuelo",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Su resumen de reserva semanal",
+      "pill": "Para su información",
       "pillColor": "lavender"
     },
     {
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "Oferta de fin de temporada: 30% de descuento en trajes secos",
+      "pill": "Promociones",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: ¿Viaje en balsa de día completo para 6 personas el 9 de agosto?",
+    "originalFrom": "Jennifer W. escribió:",
+    "originalText": "¡Hola! Somos una familia de 6 personas que visitamos en agosto y queremos reservar un viaje de rafting de un día completo el día 9. ¿Cuál es el precio por persona y qué nivel de experiencia necesitamos?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "Hola Jennifer!",
+      "El 9 de agosto está abierto para 6 personas. Los viajes de día completo cuestan $ 150 por persona y duran aproximadamente 7 horas; nos reunimos en el lugar de llegada a las 8:30 a.m.",
+      "No se necesita experiencia. Se incluyen PFD, cascos, bolsas impermeables y un almuerzo junto al río; solo traiga protector solar y zapatos para el agua.",
+      "¿Quieres que reserve tus lugares?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "El 9 de agosto está abierto para 6 personas. Los viajes de día completo cuestan $150 por persona.",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "Conoce los tipos y precios de tu viaje",
+      "Borradores en tu voz",
+      "Incluye listas de equipo automáticamente.",
+      "Aprende con el tiempo"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "¿Algún lugar libre en el viaje de día completo del sábado?",
+    "agentResponse": "Al día completo del sábado le quedan 4 plazas de 10. También tienes una carrera de medio día por la mañana que está completamente reservada y una salida de varios días el domingo con 2 plazas abiertas. ¿Quieres que redacte una respuesta a alguna consulta pendiente con la disponibilidad del sábado?",
+    "followUp": "Redacte una respuesta a Jennifer con la disponibilidad del 9 de agosto.",
+    "followUpResponse": "¡Listo! Redacté una respuesta a Jennifer confirmando el 9 de agosto para 6 invitados a $150 por persona. Incluye los detalles de su viaje estándar, la lista de equipo y el lugar de la reunión. Listo para revisar y enviar."
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "Amado por guías y proveedores de ríos.",
   "testimonials": [
     {
-      "name": "Ryan M.",
-      "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "name": "ryan m.",
+      "title": "Rafting Outfitter, Colorado, EE.UU.",
+      "quote": "Durante la temporada alta estoy en el río 6 días a la semana. Cuando volví a leer los correos electrónicos, la mitad de los grupos ya habían reservado con otra persona. Ahora Duet redacta respuestas con detalles del viaje y precios mientras estoy en el lugar de instalación.",
       "avatarKey": "michael"
     },
     {
-      "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "name": "katie l.",
+      "title": "Tours en kayak y SUP, O",
+      "quote": "Cada cliente hace las mismas cinco preguntas: precios, qué traer, nivel de habilidad, tamaño del grupo y política de cancelación. Duet aprendió todo durante la primera semana. Pasé de una hora de correos electrónicos todas las noches a cinco minutos de revisión de borradores.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "name": "Marco P.",
+      "title": "Guía de expedición de varios días, AK",
+      "quote": "Realizo viajes de 5 días sin servicio celular. Antes de Duet, todas las consultas quedaron sin respuesta hasta que regresé a la ciudad. Ahora los clientes reciben una respuesta detallada en cuestión de minutos y yo confirmo cuando salgo del río.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "name": "elena r.",
+      "title": "Gerente de oficina de River Adventures, Virginia Occidental",
+      "quote": "Administro reservas para tres guías en cuatro tipos de viajes. Duet clasifica cada correo electrónico por urgencia y redacta respuestas con el viaje correcto, el precio correcto y la lista de equipo correcta. Es como clonarme a mí mismo.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sophia K.",
+      "name": "sofia k.",
       "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "quote": "Estábamos escépticos de que la IA pudiera manejar correos electrónicos específicos de rafting. Pero recogió nuestras descripciones de Clase III frente a Clase IV, edades mínimas e incluso nuestra política de kayak con salida húmeda. Los clientes creen que están hablando con nosotros.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Pasar el verano en el río\nno ponerse al día con el correo electrónico.",
+  "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "¿Duet maneja cotizaciones de viajes personalizados y consultas sobre expediciones de varios días?",
+      "answer": "Sí. Duet conoce la programación completa de su viaje (flotaciones de medio día, rápidos de un día completo, expediciones de varios días) junto con los precios, lo que está incluido, las edades mínimas y los niveles de dificultad. Cuando alguien pregunta sobre un viaje de 3 días para 6, redacta una respuesta completa con los detalles correctos. Usted revisa, modifica si es necesario y envía."
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "Estoy fuera de la red en viajes de varios días. ¿Duet todavía funciona?",
+      "answer": "Ese es exactamente el problema que resuelve Duet. Mientras estás en el río sin señal, Duet drafts responde a cada consulta que llega. Cuando vuelves a estar dentro del alcance, tus drafts están esperando: solo revísalos y envíalos. La mayoría de los guías nos dicen que elimina el retraso que solían afrontar después de cada viaje de varios días."
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "A $150 por persona, dos reservaciones guardadas cubren un año completo de Pro."
 }
