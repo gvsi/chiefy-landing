@@ -1,33 +1,32 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | AI Gmail 和 Outlook 的电子邮件助手",
+    "description": "Duet Mail 的 AI 电子邮件助手可汇总电子邮件、起草回复并整理您的收件箱。适用于 Gmail 和 Outlook。每周节省 4 小时以上。"
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "现在适用于 Gmail 和 Outlook",
+    "headlinePrefix": "你的 ",
+    "headlineHighlight": "参谋长",
+    "headlineSuffix": " 为了",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "排序电子邮件",
+      "起草答复",
+      "调度",
+      "寻找答案"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "每周节省 4 个多小时的电子邮件处理时间",
+    "primaryCta": "从Gmail开始",
+    "secondaryCta": "从Outlook开始",
+    "trialNote": "14 天免费试用",
+    "cancelNote": "随时取消"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "即时分类",
+      "AI动力回复"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "收件箱",
     "providers": [
       "Gmail",
       "Outlook"
@@ -36,128 +35,128 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "昨天"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "自动草稿",
     "emails": [
       {
-        "from": "Alex Rivera",
+        "from": "亚历克斯·里维拉",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "回复：Pro管道启动时间表",
+        "preview": "嘿！想要检查启动资产。下周我们还在计划吗？",
+        "pill": "回应"
       },
       {
-        "from": "Emma Park",
+        "from": "艾玛·帕克",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "今天下午快速同步吗？",
+        "preview": "很想了解路线图的更新。下午4点左右有空吗...",
+        "pill": "会议"
       },
       {
-        "from": "Marketing",
+        "from": "营销",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
+        "subject": "活动结果已准备就绪",
         "pill": "FYI"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "您的商店已准备好迎接黑色星期五",
+        "pill": "Pro动作"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "嗨亚历克斯！是的，我们正在步入正轨。设计团队昨天完成了资产，我将在今天EOD之前发送最终文件。"
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "客户标志",
+    "headingPrefix": "深受前瞻性人士信赖",
+    "headingHighlight": " 专业人士和团队 ",
+    "headingSuffix": "全世界"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "特点",
+    "eyebrow": "您的收件箱已充满电",
+    "title": "你的收件箱不应该拥有你的一天",
+    "subtitle": "使用 AI 将混乱转化为清晰，真正帮助您。\n使用最智能的电子邮件助手 Gmail 和 Outlook 每周可节省 3 个多小时。",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "听起来像“您”的电子邮件草稿",
+        "description": "Duet AI 电子邮件撰写者为您最重要的电子邮件准备草稿。它可以学习您的语气和写作风格。",
+        "ariaLabel": "听起来像您的电子邮件草稿",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "我为约翰起草了一封个性化的冷电子邮件",
+          "sampleText": "AI 管道对于构建稳健、可扩展且高效的 AI 系统至关重要。",
+          "readyToSend": "准备好发送了吗？",
+          "remindFollowUp": "提醒我跟进。"
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "即时总结和行动项目",
+        "description": "在几秒钟内从您的电子邮件内容中获取 TL;DR 和操作项。不再阅读收件箱中的小说。",
+        "ariaLabel": "即时总结和行动项目",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "我建议我们 ",
+          "sentenceHighlight": "下周见面",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "新行动项目",
+          "actionLead": "我在你的日历中找到了这些空闲时段",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "周二上午 10 点",
+            "周四下午 2 点",
+            "星期五，上午 9 点"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "查找更多",
+          "primaryButton": "发送"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "智能提醒",
+        "description": "设置好后就可以忘记它。 DuetAI记得在其他人没有回复时跟进，这样就不会遗漏任何内容。",
+        "ariaLabel": "智能提醒",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "AI-支持智能提醒",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "跟进",
               "value": "12",
-              "unit": "emails"
+              "unit": "电子邮件"
             },
             {
-              "label": "To reply",
+              "label": "回复",
               "value": "2",
-              "unit": "emails"
+              "unit": "电子邮件"
             },
             {
-              "label": "Completed",
+              "label": "已完成",
               "value": "3",
-              "unit": "action items"
+              "unit": "行动项目"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "完成写作任务",
+              "time": "2天前"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Pro项目整合",
+              "time": "12 小时前"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "关注",
+            "重新安排？"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "专注于重要的事情",
+        "description": "智能分类首先显示您最重要的电子邮件，并将电子邮件按主题分类。电子邮件管理从未如此简单。",
+        "ariaLabel": "专注于重要的事情",
         "mockCopy": {
           "analyzing": "ANALYZING"
         }
@@ -165,11 +164,11 @@
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "电子邮件组织和智能收件箱分类",
+    "badge": "组织机构",
+    "title": "Duet 整理您的收件箱",
+    "subtitle": "自动分类可以过滤噪音并显示重要内容。立即查看哪些内容需要采取行动，哪些内容只需 FYI，哪些内容可以等待。",
+    "windowTitle": "收件箱",
     "providers": [
       "Gmail",
       "Outlook"
@@ -178,272 +177,272 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "昨天",
+      "12月20日"
     ],
     "emails": [
       {
-        "from": "Sarah Chen",
+        "from": "萨拉·陈",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "Q4 预算审查请求",
+        "preview": "最终确定的数字附后。请EOD审核。",
+        "pill": "需要采取行动"
       },
       {
-        "from": "Michael Torres",
+        "from": "迈克尔·托雷斯",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "明天上午 10 点团队站立会议",
+        "pill": "会议"
       },
       {
-        "from": "Design Team",
+        "from": "设计团队",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
+        "subject": "新品牌指南发布",
         "pill": "FYI"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "您的月结单已准备好",
+        "pill": "Pro动作"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "时事通讯",
+        "subject": "每周摘要",
+        "pill": "Pro动作"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "AI 电子邮件起草和回复生成",
+    "badge": "起草",
+    "title": "Duet 用你的声音草稿",
+    "subtitle": "Duet 学习您的写作方式并起草符合您语气的回复。查看并根据需要进行调整，然后在几秒钟内发送。",
+    "windowTitle": "新消息",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "至：",
+      "subject": "主题："
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "回复：本周快速同步？",
+      "originalFrom": "亚历克斯·里维拉写道：",
+      "originalText": "嘿！很乐意赶上路线图的变化。这周你有空打个 30 分钟的电话吗？让我知道什么对你有用。",
+      "badge": "自动起草",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "嘿亚历克斯！",
+        "希望在路线图上同步。我周四下午 2 点至 4 点或周五早上有空——两者都适合我。",
+        "让我知道什么最适合您，我会发送邀请。",
+        "谢谢！  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "我周四下午 2-4 点或周五早上有空",
       "actions": [
-        "Send",
-        "Edit"
+        "发送",
+        "编辑"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "个性化草稿",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "了解您的日历",
+        "你的声音中的草稿",
+        "通过记忆了解上下文",
+        "随着时间的推移学习"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "AI 邮件智能与助手",
+    "badge": "情报",
+    "title": "询问任何有关您的电子邮件的问题",
+    "subtitle": "请 Duet 查找电子邮件、查看日历或起草回复。它了解您的收件箱并立即回复。",
+    "windowTitle": "Duet 代理",
+    "onlineLabel": "在线",
+    "initialUserMessage": "您能找到会计发送的Stripe发票吗？",
+    "processingText": "正在搜索收件箱...",
+    "foundHeader": "找到 2 封来自 Stripe 的电子邮件",
+    "foundBody": "我找到了10月24日的$29.00USD的收据。",
     "attachment": {
-      "fileName": "invoice_oct24.pdf",
+      "fileName": "发票_oct24.pdf",
       "fileSize": "142 KB"
     },
     "suggestions": [
       {
-        "action": "draft",
-        "label": "Draft a reply"
+        "action": "草案",
+        "label": "起草回复"
       },
       {
-        "action": "calendar",
-        "label": "Find time to meet"
+        "action": "日历",
+        "label": "找时间见面"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "有什么问...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "Pro停止...",
+      "processingDraft": "正在生成草稿...",
+      "processingCalendar": "正在检查可用性...",
+      "draftIntro": "以下是对会计的回复草稿：",
+      "draftHeader": "草稿：accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "嗨，团队，",
+        "请查收附件 10 月份 ($29.00) 的Stripe 发票。",
+        "如果您还需要什么，请告诉我。",
+        "最好的，"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "发送电子邮件",
+        "编辑"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "明天还有 3 个空位：",
       "calendarSlots": [
         {
           "time": "9:30 AM",
-          "duration": "30 min"
+          "duration": "30分钟"
         },
         {
           "time": "2:00 PM",
-          "duration": "30 min"
+          "duration": "30分钟"
         },
         {
           "time": "4:30 PM",
-          "duration": "30 min"
+          "duration": "30分钟"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "还起草回复吗？",
+        "calendarAfterDraft": "还安排后续行动吗？"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "感言",
+    "scrollingAriaLabel": "滚动推荐",
+    "eyebrow": "感言",
+    "title": "深受忙碌的专业人士的喜爱",
+    "subtitle": "真实的人。真正的收件箱获胜。",
     "items": [
       {
-        "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "name": "弗朗西斯卡·T.",
+        "title": "自由职业者",
+        "quote": "每一分钱都值得。我在电子邮件上节省的时间相当于 Duet Mail 10 倍以上。无法想象现在没有它的工作。",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
-        "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "name": "迈克尔·R。",
+        "title": "销售主管",
+        "quote": "长电子邮件线程的即时摘要是纯粹的魔法，而且非常用户友好。我的客户认为我是超人。",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
-        "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "name": "约翰尼·S。",
+        "title": "企业家",
+        "quote": "对我的电子邮件使用人工智能持怀疑态度。现在，这就像拥有一位出色的行政助理。无法想象回去。",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
-        "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "name": "詹妮弗·L。",
+        "title": "顾问",
+        "quote": "作为一名顾问，每一分钟都很重要。 Duet Mail 不仅节省了我的时间，还让我的电子邮件沟通更加顺畅。",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
-        "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "name": "莎拉·T。",
+        "title": "营销总监",
+        "quote": "最后，一个 AI 邮件助手可以真正学习我的写作方式。即时回复非常准确，我的团队还以为我在半夜工作。",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
+    "ariaLabel": "定价",
+    "eyebrow": "定价",
+    "heading": "简单的定价，强大的收件箱",
+    "subheading": "免费开始，随时升级。随时取消。",
+    "billingLegend": "计费节奏",
+    "billingAnnual": "年度",
+    "billingMonthly": "每月",
+    "savingsTag": "节省 33%",
     "priceCadence": "/month",
     "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "annualBillingSuffix": "（按年计费）",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "通过Stripe安全结账",
+      "随时取消"
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "name": "基础",
+        "description": "对于任何好奇智能收件箱是什么样的人。无需承诺。",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "即时摘要",
+            "description": "获取任何主题的要点"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "AI 草稿",
+            "description": "尝尝你声音里的回复"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "智能收件箱",
+            "description": "启动的基本组织"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "Duet 助理",
+            "description": "试试AI助手"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "选择Gmail或Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "14 天免费试用",
+        "description": "适合想要更深入的自动化、集成和真正了解您工作方式的收件箱的专业人士。",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "智能收件箱",
+            "description": "电子邮件自动分类为智能类别",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "AI 草稿",
+            "description": "用您的声音写下回复，准备发送",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "Duet 助理",
+            "description": "聊天以查找、起草、组织等",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "日历整合",
+            "description": "从收件箱安排、查看和管理事件"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "即时摘要",
+            "description": "获取任何主题或附件的要点"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "智能提醒",
+            "description": "后续行动会自动出现，因此不会有任何遗漏"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "优先支持",
+            "description": "真人，快速反应"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "选择Gmail或Outlook",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "企业",
+        "description": "适合需要企业级规模、专门支持和自定义工作流程的组织。最适合 50 人以上的团队。",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,36 +450,36 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "一切都在Pro",
+            "description": "包含所有功能"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "专门的支持",
+            "description": "个人客户经理"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "团队分析",
+            "description": "整个组织的见解"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "共享工作流程",
+            "description": "团队模板和自动化"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "联系销售人员",
+        "ctaNote": "提供定制定价"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
+    "ariaLabel": "常见问题",
     "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "headingPrefix": "常见问题， ",
+    "headingAccent": "回答了",
     "contactDecorative": "?",
     "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
+    "contactHeading": "还有疑问吗？",
+    "contactCta": "联系我们 →",
     "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
@@ -488,78 +487,78 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail 如何保护我的电子邮件数据？",
+        "answer": "您的安全是我们的首要任务。我们使用 OAuth 2.0 与 Google 和 Microsoft 进行安全身份验证。电子邮件内容使用客户端字段级加密进行静态加密，并且我们遵循 API 访问的最小权限原则。对于我们的Google集成，我们接受Google的年度CASA安全评估。"
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "电子邮件摘要功能如何工作？",
+        "answer": "Duet Mail 使用高级 AI 分析您的电子邮件线程并生成简洁的概述，突出显示关键点、决策和行动项目。这可以帮助您快速理解上下文，而无需阅读整个线程。"
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail需要什么权限？",
+        "answer": "Duet Mail 需要访问您的电子邮件以提供摘要、提取操作项、生成内容和发送电子邮件。我们只请求我们绝对需要的权限。您可以随时在Google帐户或Microsoft帐户设置中查看和撤销这些权限。"
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "免费试用包含哪些内容？",
+        "answer": "14 天免费试用包括完全访问所有 Pro 功能：无限制的电子邮件摘要、操作项提取、AI 电子邮件编写器（无任何限制地生成电子邮件和草稿）以及自定义电子邮件模板。使用 Google 或 Microsoft 登录，开始节省电子邮件管理时间。"
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "我可以将 Duet Mail 与其他电子邮件提供商一起使用吗？",
+        "answer": "Duet Mail支持Gmail、Google Workspace和MicrosoftOutlook。使用您的 Google 或 Microsoft 帐户登录即可开始。"
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "开始使用",
+    "headline": "4小时回来。\n每个星期。",
+    "subline": "加入专业人士的行列，以清晰的方式开始新的一天，而不是混乱。您的免费试用正在等待。",
+    "primaryCta": "从Gmail开始",
+    "secondaryCta": "从Outlook开始",
+    "note": "14 天免费试用·随时取消",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Google CASA-评估",
+      "静态时加密",
+      "安全 OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "网站页脚",
+    "brandIconAlt": "Duet Mail图标",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — AI 电子邮件助手，每周为您节省时间",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "探索",
         "links": [
           {
-            "label": "Organization",
+            "label": "组织机构",
             "href": "/zh-Hans#organization"
           },
           {
-            "label": "Drafting",
+            "label": "起草",
             "href": "/zh-Hans#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "情报",
             "href": "/zh-Hans#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Chrome 扩展程序",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "客户",
         "links": [
           {
-            "label": "Pricing",
+            "label": "定价",
             "href": "/zh-Hans#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "感言",
             "href": "/zh-Hans#testimonials"
           },
           {
@@ -569,31 +568,31 @@
         ]
       },
       {
-        "title": "Legal",
+        "title": "法律",
         "links": [
           {
-            "label": "Privacy",
+            "label": "隐私",
             "href": "/zh-Hans/privacy"
           },
           {
-            "label": "Terms",
+            "label": "条款",
             "href": "/zh-Hans/terms"
           },
           {
-            "label": "Cookies",
+            "label": "饼干",
             "href": "/zh-Hans/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "免责声明",
             "href": "/zh-Hans/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "连接",
         "links": [
           {
-            "label": "Blog",
+            "label": "博客",
             "href": "/zh-Hans/blog"
           },
           {
@@ -612,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Startup Fame",
+            "label": "创业名声",
             "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
@@ -621,54 +620,54 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
+    "ariaLabel": "投资回报率",
+    "label": "数学",
+    "narrativeTemplate": "每 {bookingUnit} {pricePerBooking}，由于回复缓慢而仅损失 {lostPerMonth} =",
     "lossSuffix": "/mo gone",
-    "dividerLabel": "vs",
+    "dividerLabel": "与",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - AI Gmail 和 Outlook 的电子邮件助手",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "客户支持",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
-    "applicationCategory": "CommunicationApplication",
+    "softwareDescription": "AI Gmail 和 Outlook 的电子邮件助手，可自动汇总电子邮件、用语音起草回复并整理收件箱，每周节省时间。",
+    "applicationCategory": "通讯应用",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "智能电子邮件组织和分类",
+      "AI 支持用您的声音起草电子邮件",
+      "集成日历的智能电子邮件助手",
+      "自动电子邮件摘要和操作项",
+      "智能提醒跟进"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "基本计划",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "免费计划，包含即时摘要、AI 草稿和智能收件箱"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro 计划",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "完全访问智能收件箱分类、AI草稿、助手和日历集成"
       }
     ],
     "aggregateRating": {
       "ratingValue": "4.8",
       "ratingCount": "853"
     },
-    "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "operatingSystem": "网络",
+    "browserRequirements": "需要 JavaScript。适用于 Gmail、Google Workspace 和 Microsoft Outlook。",
     "urls": {
       "site": "https://duetmail.com/zh-Hans",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
+      "logo": "https://duetmail.com/zh-Hans/favicon.svg",
+      "screenshot": "https://duetmail.com/zh-Hans/og.jpg",
       "sameAs": [
         "https://www.linkedin.com/company/duetmail",
         "https://x.com/DuetMailApp",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail 如何保护我的电子邮件数据？",
+        "answer": "您的安全是我们的首要任务。我们使用 OAuth 2.0 与 Google 和 Microsoft 进行安全身份验证。电子邮件内容使用客户端字段级加密进行静态加密，并且我们遵循 API 访问的最小权限原则。对于我们的Google集成，我们接受Google的年度CASA安全评估。"
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "电子邮件摘要功能如何工作？",
+        "answer": "Duet Mail 使用高级 AI 分析您的电子邮件线程并生成简洁的概述，突出显示关键点、决策和行动项目。这可以帮助您快速理解上下文，而无需阅读整个线程。"
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail需要什么权限？",
+        "answer": "Duet Mail 需要访问您的电子邮件以提供摘要、提取操作项、生成内容和发送电子邮件。我们只请求我们绝对需要的权限。您可以随时在Google帐户或Microsoft帐户设置中查看和撤销这些权限。"
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "免费试用包含哪些内容？",
+        "answer": "14 天免费试用包括完全访问所有 Pro 功能：无限制的电子邮件摘要、操作项提取、AI 电子邮件编写器（无任何限制地生成电子邮件和草稿）以及自定义电子邮件模板。使用 Google 或 Microsoft 登录，开始节省电子邮件管理时间。"
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "我可以将 Duet Mail 与其他电子邮件提供商一起使用吗？",
+        "answer": "Duet Mail支持Gmail、Google Workspace和MicrosoftOutlook。使用您的 Google 或 Microsoft 帐户登录即可开始。"
       }
     ]
   }

@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail ATV 和 UTV 旅游 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助 ATV 和 UTV 导游即时回复预订电子邮件 - 即使在步道上也是如此。 AI-起草回复，其中包含您的定价、要求和声音。",
+  "heroBadge": "受到 200 多名导游的信赖",
+  "heroHeadline": "您旅途中的电子邮件助手",
+  "heroSubline": "Duet 了解您的旅行类型、定价和乘客要求，然后起草电子邮件回复，这样您就不会因为响应缓慢而失去预订。",
   "inboxEmails": [
     {
-      "from": "Rachel W.",
+      "from": "雷切尔·W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "周六有 4 台机器吗？",
+      "preview": "嗨！我们一行 4 人希望预订本周六的 ATV 导游之旅。你有房间吗？每台机器的价格是多少？",
+      "pill": "回应",
       "pillColor": "red"
     },
     {
-      "from": "Jason P.",
+      "from": "杰森·P。",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "保险要求？",
+      "preview": "嘿，我们带着自己的UTV。我们需要出示责任保险证明吗？您需要什么样的保险...",
+      "pill": "问题",
       "pillColor": "amber"
     },
     {
-      "from": "The Hendersons",
+      "from": "亨德森一家",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "哪条路线适合初学者？",
+      "preview": "我们以前从未骑过ATV。对于有两个青少年的家庭，您会推荐哪条旅游路线？你提供...",
+      "pill": "预订",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "对您的列表的新评论",
+      "preview": "一位旅行者最近评价了您的商家。看看他们怎么说并回应......",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "嘿雷切尔！周六开放，我们可以带 4 台机器没问题。每台机器的游览费用为 $200，游览时间约为 6-8 小时。我们于 9 AM 在步道起点集合 — 确认后我会向您发送路线。提供头盔和护目镜。要我把你锁在里面吗？",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "组（4台）",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "保存的团体预订可支付一年的Duet。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到预订请求，其次看到保险问题，而永远不会看到噪音。不再错过隐藏在 TripAdvisor 警报下的群组查询。",
+  "draftSubtitle": "Duet 了解您的旅游路线、价格和乘客要求。当收到预订查询时，它会起草一份完整的回复，其中包含旅行详细信息、价格和携带的物品。您审阅并发送。",
+  "agentSubtitle": "“这个周末有团体预定吗？” “起草一份给雷切尔的回复，周六有空。” Duet 了解您的收件箱和日程安排 - 只需询问即可。",
   "categorizationEmails": [
     {
-      "from": "Rachel W.",
+      "from": "雷切尔·W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "周六有 4 台机器吗？",
+      "preview": "我们一行 4 人希望预订 ATV 导游服务......",
+      "pill": "立即回复",
       "pillColor": "red"
     },
     {
-      "from": "Jason P.",
+      "from": "杰森·P。",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "回复：预订已确认 - 周六 9 AM",
+      "pill": "已预订",
       "pillColor": "blue"
     },
     {
-      "from": "The Hendersons",
+      "from": "亨德森一家",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "徒步旅行时我们应该穿什么？",
+      "pill": "问题",
       "pillColor": "amber"
     },
     {
       "from": "Yelp for Business",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
+      "subject": "您的每周业务更新",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Rocky Mountain ATV",
+      "from": "落基山 ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "弹簧间隙 — 零件 25% 折扣",
+      "pill": "Pro动作",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "回复：周六有 4 台机器吗？",
+    "originalFrom": "雷切尔·W.写道：",
+    "originalText": "嗨！我们一行 4 人希望预订本周六的 ATV 导游之旅。你有房间吗？每台机器的价格是多少？",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "嘿雷切尔！",
+      "周六对 4 台机器开放。每台机器的游览费用为 $200，运行时间为 6-8 小时，从 9 AM 从步道起点出发。",
+      "提供头盔和护目镜——只需穿长裤、不露趾鞋，并带上水和防晒霜。一旦您确认，我会发送集合地点和路线。",
+      "要我把你锁在里面吗？"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "周六对 4 台机器开放。每台机器的游览费用为 $200",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "了解您的定价和旅游路线",
+      "你的声音中的草稿",
+      "自动包含骑手要求",
+      "随着时间的推移学习"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "这个周末有团体预定吗？",
+    "agentResponse": "根据您的收件箱，您确认了周六 9 AM 的 6 人团体，以及周日早上的一对夫妇。周六下午和周日下午照常营业。想要我针对这些职位空缺的任何悬而未决的询问起草一份答复吗？",
+    "followUp": "起草一份给 Rachel 的回复，周六有空",
+    "followUpResponse": "完成！我起草了一份给 Rachel 的回复，确认周六购买 4 台机器，每台机器的价格为 $200。它包括您的标准会议地点、装备信息以及着装。准备审查并发送。"
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "深受导游和经营者的喜爱",
   "testimonials": [
     {
-      "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "name": "迈克·D.",
+      "title": "ATV 指南，犹他州南部",
+      "quote": "我在零手机服务的情况下带领 8 小时的峡谷之旅。当我回来时，我的预订电子邮件有一半已经失效了。 Duet 起草包含我的定价和路线信息的回复 - 我只是在一天结束时查看它们。",
       "avatarKey": "michael"
     },
     {
-      "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "name": "塔拉·M。",
+      "title": "UTV 旅行社，科罗拉多州",
+      "quote": "我们每周 7 天进行旅行，仅保险和豁免问题就耗尽了我的早上时间。 Duet 处理所有事宜 — 骑手要求、年龄限制、携带物品。听起来和我一模一样。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "name": "杰克·R。",
+      "title": "吉普车导游，摩押",
+      "quote": "人们通过电子邮件询问哪条路线适合他们的团队、他们需要什么经验水平、孩子是否可以骑行。一遍又一遍地问同样的5个问题。 Duet钉住了每一个。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Nicole S.",
-      "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "name": "妮可·S。",
+      "title": "越野冒险，AZ",
+      "quote": "我每天晚上都要花一个多小时来回答同样的可用性问题。现在Duet在我外出时起草回复。我的回复时间从几小时缩短到几分钟。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Amanda K.",
-      "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "name": "阿曼达·K.",
+      "title": "家庭ATV旅游，塞多纳",
+      "quote": "我们收到很多家庭询问初学者路线和年龄要求。 Duet 了解了我们所有的旅游选项，并在每次回复中推荐合适的旅游选项。客户无法区分。",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "在步道上度过旺季，\n不在您的收件箱中。",
+  "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Duet 处理保险和豁免问题吗？",
+      "answer": "是的。 Duet 了解您的骑手要求 - 责任保险、年龄限制、豁免详细信息、骑手需要携带什么。当有人在旅行前通过电子邮件询问他们需要什么时，Duet 会起草一份包含所有具体细节的完整回复。您查看并点击发送。"
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "我整天都在路上，没有手机服务。 Duet 有什么帮助？",
+      "answer": "这正是导游喜爱Duet的原因。当您在没有信号的情况下进行 6 至 8 小时的旅行时，预订查询就会堆积如山。 Duet 起草对每一项的回复——价格、可用性、会议地点、穿什么。当您回来时，您会审阅草稿并发送。大多数导游告诉我们，在旺季期间，这可以每天为他们节省 1-2 小时的电子邮件时间。"
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "在 $200/machine 时，节省下来的 4 人团体支付一年多的费用为 Pro。"
 }

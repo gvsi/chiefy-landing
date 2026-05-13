@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mail 適用於漂流和皮划艇裝備商 | AI 郵件助手",
+  "metaDescription": "Duet Mail 幫助漂流嚮導和皮划艇裝備商立即回應旅行查詢——即使是在河上。 AI 起草的回覆包含您的行程詳細資訊、價格和語音。",
+  "heroBadge": "受到 200 多名河流導遊的信賴",
+  "heroHeadline": "當您在河上時您的電子郵件助手",
+  "heroSubline": "Duet 會了解您的旅行類型、定價和裝備清單，然後起草對預訂查詢的回复，以便客戶在您急流勇進時獲得答案。",
   "inboxEmails": [
     {
-      "from": "Jennifer W.",
+      "from": "珍妮佛·W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "8 月 9 日 6 人全日漂流之旅？",
+      "preview": "嗨！我們一家六口八月來訪，想預訂 9 日的全日漂流之旅。每人的價格是多少？我們需要什麼經驗水平？",
+      "pill": "回應",
       "pillColor": "red"
     },
     {
-      "from": "Brian T.",
+      "from": "布萊恩·T。",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "多日遊－包含什麼？",
+      "preview": "我們是一個 4 人小組，正在研究您為期 3 天的探險活動。是否包含膳食、露營裝備和乾燥袋，還是我們需要自備...",
+      "pill": "問題",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel & Mark S.",
+      "from": "雷切爾和馬克·S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "8 歲和 10 歲的孩子—夠安全嗎？",
+      "preview": "我們很想參加半日遊，但我們的孩子分別是 8 歲和 10 歲。 II 級部分適合他們的年齡嗎？最低是多少...",
+      "pill": "問題",
       "pillColor": "amber"
     },
     {
-      "from": "TripAdvisor",
+      "from": "到到網",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "對您的清單的新評論",
+      "preview": "一位旅客最近評價了您的商家。看看他們怎麼說並回應...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "嘿珍妮佛！ 8 月 9 日開放 6 人。全日遊價格為 150 美元/人，行程約 7 小時 - 我們於上午 8:30 出發。無需經驗，我們的導遊會處理一切。 PFD、頭盔、乾燥袋和河邊午餐均包含在內。只需帶上防曬霜、水鞋和不介意弄濕的衣服即可。要我幫你預留位置嗎？",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "人",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "兩次保存的預訂可支付全年 Duet。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，因此行程查詢首先出現，裝備問題其次，促銷噪音就會消失。再也不會因為 TripAdvisor 提醒而錯過團體預訂了。",
+  "draftSubtitle": "Duet 會了解您的旅行類型、急流等級、裝備清單和取消政策。當收到預訂查詢時，它會起草一份完整的回复，其中包含客戶所需的一切。您審閱並發送。",
+  "agentSubtitle": "「週六全天還有空位嗎？」 「請起草一份給詹妮弗的答复，並有空。」Duet 了解您的收件匣和日程安排 — 只需詢問即可。",
   "categorizationEmails": [
     {
-      "from": "Jennifer W.",
+      "from": "珍妮佛·W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "8 月 9 日 6 人全日漂流之旅？",
+      "preview": "我們一家六口八月來訪，想要預訂...",
+      "pill": "立即回覆",
       "pillColor": "red"
     },
     {
-      "from": "Brian T.",
+      "from": "布萊恩·T。",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "回覆：3 天的探險已確認 - 8 月 15 日",
+      "pill": "已預訂",
       "pillColor": "blue"
     },
     {
-      "from": "Rachel S.",
+      "from": "雷切爾·S。",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "8歲和10歲的孩子可以參加II級課程嗎？",
+      "pill": "問題",
       "pillColor": "amber"
     },
     {
-      "from": "The Flybook",
+      "from": "飛書",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "您的每週預訂摘要",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "NRS",
+      "from": "國家研究局",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "季末促銷 — 乾式潛水衣 30% 折扣",
+      "pill": "Pro運動",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "回覆: 8 月 9 日 6 人全日漂流之旅？",
+    "originalFrom": "珍妮佛W.寫道：",
+    "originalText": "嗨！我們一家六口八月來訪，想預訂 9 日的全日漂流之旅。每人的價格是多少？我們需要什麼經驗水平？",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "嘿珍妮佛！",
+      "8 月 9 日對 6 人開放。全日遊價格為 150 美元/人，行程約 7 小時 - 我們於上午 8:30 在出發點集合。",
+      "無需經驗。 PFD、頭盔、乾燥袋和河邊午餐都包括在內——只需帶上防曬霜和水鞋即可。",
+      "要我幫你預留位置嗎？"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "8 月 9 日對 6 人開放。全日遊 150 美元/人",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "了解您的旅行類型和定價",
+      "你的聲音中的草稿",
+      "自動包含齒輪列表",
+      "隨著時間的推移學習"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "週六全日遊還有空位嗎？",
+    "agentResponse": "週六全天的 10 個名額中還剩 4 個。您也可以參加半天晨跑，但已滿員；週日的多日出發，還有 2 個名額空缺。想要我在周六有空的情況下起草對任何待處理詢問的答复嗎？",
+    "followUp": "起草對 Jennifer 的回复，說明 8 月 9 日有空",
+    "followUpResponse": "完成！我起草了一份給 Jennifer 的回复，確認 8 月 9 日接待 6 位客人，價格為每人 150 美元。它包括您的標準旅行詳細資訊、裝備清單和集合地點。準備審查並發送。"
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "深受河流導遊和旅行用品商的喜愛",
   "testimonials": [
     {
-      "name": "Ryan M.",
-      "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "name": "瑞恩·M。",
+      "title": "科羅拉多州漂流用品店",
+      "quote": "在旺季期間，我每週有 6 天都在河上。當我回覆電子郵件時，一半的團體已經與其他人預訂了。現在，當我投入時，Duet 會起草包含行程詳細資訊和定價的回應。",
       "avatarKey": "michael"
     },
     {
-      "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "name": "凱蒂L。",
+      "title": "皮划艇和 SUP 之旅，俄勒岡州",
+      "quote": "每位顧客都會問同樣的五個問題──定價、攜帶什麼、技能水準、團體規模、取消政策。 Duet 在第一週就學會了這一切。我從每晚一個小時的電子郵件變成了花五分鐘審查草稿。",
       "avatarKey": "sarah"
     },
     {
-      "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "name": "馬庫斯·P。",
+      "title": "多日探險指南，AK",
+      "quote": "我進行了 5 天的旅行，手機服務為零。在 Duet 之前，每個詢問都沒有得到答复，直到我回到城裡。現在，客戶可以在幾分鐘內收到詳細的回复，當我離開河流時我會進行確認。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "name": "埃琳娜·R。",
+      "title": "西維吉尼亞州河流探險辦公室經理",
+      "quote": "我管理四種旅行類型的三位導遊的預訂。 Duet 按緊急程度對每封電子郵件進行分類，並草擬回复，其中包含正確的行程、正確的價格和正確的裝備清單。這就像克隆我自己。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sophia K.",
-      "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "name": "索菲亞·K.",
+      "title": "愛達荷白水漂流公司",
+      "quote": "我們懷疑 AI 能否處理特定於漂流的電子郵件。但它記錄了我們的 III 級與 IV 級描述、最低年齡，甚至是我們的濕出口皮划艇政策。客戶認為他們正在與我們交談。",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "在河邊度過夏天，\n沒趕上電子郵件。",
+  "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "Duet 是否處理客製化旅遊報價和多日探險查詢？",
+      "answer": "是的。 Duet 了解您的完整旅行陣容 - 半天漂流、全天急流、多日探險 - 以及價格、包含內容、最低年齡和難度級別。當有人詢問 6 人的 3 天旅行時，它會起草一份包含正確詳細資訊的完整回應。您進行審查，根據需要進行調整，然後發送。"
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "我在多日旅行中脫離電網。 Duet 還能用嗎？",
+      "answer": "這正是 Duet 解決的問題。當您在河牌圈沒有訊號時，Duet 草稿會回覆收到的每個詢問。當您回到範圍內時，您的草稿正在等待 — 只需查看並發送即可。大多數導遊告訴我們，這消除了他們過去在每次多日旅行後面臨的積壓情況。"
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "每人 150 美元，兩次保存的預訂可支付全年 Pro。"
 }

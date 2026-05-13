@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ surf instructors",
-  "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "適合衝浪學校和槳板操作員的 Duet Mail | AI 郵件助手",
+  "metaDescription": "Duet Mail 幫助衝浪教練和槳板操作員即時回覆預訂電子郵件 - 即使在教學時也是如此。 AI 起草的回覆包含您的課程類型、定價和語音。",
+  "heroBadge": "受到 300 多名衝浪教練的信賴",
+  "heroHeadline": "您在水上教學時的電子郵件助手",
+  "heroSubline": "Duet 了解您的課程類型、定價和條件，然後起草電子郵件回复，這樣您就不會因響應緩慢而失去預訂。",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
-      "pill": "To Respond",
+      "subject": "週六六人小組課？",
+      "preview": "嗨！我有一群 6 位朋友來度過週末。週六早上您有空參加團體衝浪課程嗎？定價是多少？",
+      "pill": "回應",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary",
+      "from": "西區小學",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "School field trip — 25 students, May 15",
-      "preview": "We're looking to book a surf day for our 5th grade class of 25 students. Do you offer school group rates? We'd need wetsuits and boards provided...",
-      "pill": "Booking",
+      "subject": "學校實地考察－25 名學生，5 月 15 日",
+      "preview": "我們正在為五年級 25 名學生預訂衝浪日。你們有提供學校團體價格嗎？我們需要提供潛水衣和衝浪板...",
+      "pill": "預訂",
       "pillColor": "blue"
     },
     {
-      "from": "James P.",
+      "from": "詹姆斯P。",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Paddleboard rental + delivery?",
-      "preview": "Do you rent SUP boards by the hour? We're staying at the beach house on Elm St — any chance you deliver? What's included...",
-      "pill": "Question",
+      "subject": "槳板租賃+送貨？",
+      "preview": "你們按小時租用 SUP 衝浪板嗎？我們住在埃爾姆街的海濱別墅——你有機會送貨嗎？包含什麼...",
+      "pill": "問題",
       "pillColor": "amber"
     },
     {
-      "from": "Nicole B.",
+      "from": "妮可B.",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Conditions for tomorrow morning?",
-      "preview": "We're booked for 9 AM tomorrow but the forecast looks windy. Will the lesson still go ahead? Should we bring anything extra...",
+      "subject": "明天早上的情況？",
+      "preview": "我們預定了明天上午 9 點，但天氣預報看起來有風。課程還會繼續嗎？需要帶什麼額外的東西嗎...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+  "autodraft": "嘿雷切爾！週六早上 6 點開放。團體課程從上午 9 點開始，為期 2 小時。衝浪板、潛水衣和防疹衣都包含在內——只需帶上防曬霜和毛巾即可。每人 90 美元。要我把你們的小組鎖起來嗎？",
   "math": {
     "pricePerBooking": "$90",
-    "bookingUnit": "lesson",
+    "bookingUnit": "教訓",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "兩次保存的預訂可支付一年的 Duet。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，以便您首先看到課程預訂，其次是看到問題，而永遠不會看到噪音。不再錯過 Yelp 警報下隱藏的學校團體查詢。",
+  "draftSubtitle": "Duet 可了解您的課程類型、團體定價和語調。當收到預訂查詢時，它會起草一份完整的回复，其中包含可用性、包含的內容以及需要攜帶的內容。您審閱並發送。",
+  "agentSubtitle": "「這週有團體預訂嗎？」 「起草一份給學校的答复，並有空。」Duet 了解您的收件匣和日程安排 — 只需詢問即可。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "I have a group of 6 friends visiting for the weekend...",
-      "pill": "Respond Now",
+      "subject": "週六六人小組課？",
+      "preview": "我有一群 6 位朋友來度過週末...",
+      "pill": "立即回覆",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary",
+      "from": "西區小學",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Field trip confirmed — May 15, 25 students",
-      "pill": "Booked",
+      "subject": "回覆：實地考察已確認 - 5 月 15 日，25 名學生",
+      "pill": "已預訂",
       "pillColor": "blue"
     },
     {
-      "from": "James P.",
+      "from": "詹姆斯P。",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Do you rent paddleboards by the hour?",
-      "pill": "Question",
+      "subject": "你們按小時租用槳板嗎？",
+      "pill": "問題",
       "pillColor": "amber"
     },
     {
-      "from": "TripAdvisor",
+      "from": "到到網",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "對您的清單的新評論",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Surf Warehouse",
+      "from": "衝浪倉庫",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 30% off wetsuits",
-      "pill": "Promotions",
+      "subject": "夏季促銷 — 潛水衣 30% 折扣",
+      "pill": "Pro運動",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group lesson for 6 on Saturday?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
+    "subject": "回覆: 週六六人小組課？",
+    "originalFrom": "雷切爾·T.寫道：",
+    "originalText": "嗨！我有一群 6 位朋友來度過週末。週六早上您有空參加團體衝浪課程嗎？定價是多少？",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "嘿雷切爾！",
+      "週六早上 6 人開放。團體課程每人 90 美元，上午 9 點在主海灘開始，時長 2 小時。",
+      "衝浪板、潛水衣和防疹衣都包含在內——只需帶上防曬霜、水和毛巾即可。無需經驗。",
+      "要我把你們的小組鎖起來嗎？"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "週六早上對 6 人開放。團體課程價格為 90 美元/人",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "了解您的課程類型和定價",
+      "你的聲音中的草稿",
+      "包括自動提供的內容",
+      "隨著時間的推移學習"
     ]
   },
   "agent": {
-    "userMessage": "Any group bookings coming up this week?",
-    "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
-    "followUp": "Draft a reply to the school confirming the field trip details",
-    "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
+    "userMessage": "本周有團體預約嗎？",
+    "agentResponse": "本週您有兩個團體預訂：週六的 Rachel T.（6 人，上午 9 點）和周三的 Westside Elementary（25 名學生，上午 10 點實地考察）。您還有 James P. 關於槳板租賃的待詢問。要我起草回覆嗎？",
+    "followUp": "起草給學校的回复，確認實地考察的詳細信息",
+    "followUpResponse": "完成！我起草了一份給 Westside Elementary 的回复，確認 5 月 15 日上午 10 點為 25 名學生提供服務。它包括您的學校團體費率、所提供的內容、許可證要求以及您的取消政策。準備審查並發送。"
   },
-  "testimonialsTitle": "Loved by surf instructors",
+  "testimonialsTitle": "深受衝浪教練的喜愛",
   "testimonials": [
     {
-      "name": "Coach Mike T.",
-      "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
+      "name": "教練邁克·T.",
+      "title": "加州衝浪學校所有者",
+      "quote": "我每天在水中教學6小時。當我查看電子郵件時，一半的預訂已經轉給了其他人。現在，Duet 起草回复，其中包含我的定價和可用性 - 我只是在會議之間進行查看。",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "name": "珍和馬克·S.",
+      "title": "槳板課程和租賃，夏威夷",
+      "quote": "我們透過同一個收件匣提供課程和租賃服務。 Duet 立即找出了差異 - 租賃問題獲得租賃答案，課程查詢獲得課程詳細資訊。就像有一個前台一樣。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Danny R.",
-      "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "name": "丹尼R。",
+      "title": "佛羅裡達州衝浪教練",
+      "quote": "學校團體預訂過去需要來回發送 10 封電子郵件。現在，Duet 起草第一份回复，其中包含團體費率、所含內容以及許可單。將整根線切成兩半。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Fran C.",
-      "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
+      "name": "弗蘭C.",
+      "title": "SUP 遊覽和課程，或",
+      "quote": "旺季簡直要了我的命——每天要收到 30 封關於條件、價格和要帶什麼的電子郵件。同樣的五個問題一遍又一遍。 Duet 可以處理所有這些，而且它們聽起來和我一模一樣。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Sarah K.",
-      "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "name": "莎拉·K.",
+      "title": "SC 兒童衝浪營總監",
+      "quote": "父母發送最長的電子郵件。營隊日期、過敏、技能等級、接送時間。 Duet 起草了涵蓋所有內容的詳細回复，因此我不會在海灘度過一整天後在晚上 10 點打字段落。",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "在海浪中度過你的夏天，\n不在您的收件匣中。",
+  "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle different lesson types and equipment rentals?",
-      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "Duet 是否處理不同的課程類型和設備租賃？",
+      "answer": "是的。 Duet 可以學習您的所有課程 - 私人課程、團體課程、兒童營、衝浪板租賃、SUP 遊覽。當收到詢問時，它會起草一份回复，其中包含正確的價格、持續時間、包含的內容以及需要攜帶的內容。它知道學校團體電子郵件需要與私人課程預訂不同的詳細資訊。"
     },
     {
-      "question": "What about weather and conditions questions?",
-      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "question": "關於天氣和條件問題呢？",
+      "answer": "Duet 了解您通常如何處理條件電子郵件 - 您關於取消、重新安排的政策以及您在什麼條件下授課。當有人透過電子郵件詢問他們的課程是否繼續進行時，Duet 會起草符合您通常語氣和政策的回應。您可以在幾秒鐘內查看並發送。"
     }
   ],
-  "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
+  "pricingNote": "每節課 90 美元，兩次保存的預訂可支付一年多的 Pro。"
 }

@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ landscape designers",
-  "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "景觀設計師的 Duet Mail | AI 郵件助手",
+  "metaDescription": "Duet Mail 幫助景觀設計師即時回覆客戶電子郵件——甚至是在現場。 AI 起草的回覆包含您的專案詳細資訊、定價和語音。",
+  "heroBadge": "受到 300 多位景觀設計師的信賴",
+  "heroHeadline": "您在現場時的電子郵件助手",
+  "heroSubline": "Duet 了解您的專案詳細資訊、植物調色板、定價和流程，然後起草電子郵件回复，這樣您就不會因響應緩慢而失去客戶。",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
-      "pill": "To Respond",
+      "subject": "後院重新設計－免費諮詢？",
+      "preview": "嗨！我們剛在西湖買了一棟房子，後院還是一片空白。我們希望進行全面的重新設計，包括本地植物和庭院。您正在接待新客戶嗎？",
+      "pill": "回應",
       "pillColor": "red"
     },
     {
-      "from": "Dan W. — Hardscape Co.",
+      "from": "丹·W.——硬景觀公司",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "preview": "Hey, we're ready to start trenching on Monday. Can you send over the irrigation layout and head specs so we can order materials this week?",
-      "pill": "Contractor",
+      "subject": "米勒專案的灌溉規格？",
+      "preview": "嘿，我們準備好週一開始挖溝了。您能否發送灌溉佈局和噴頭規格，以便我們本周可以訂購材料？",
+      "pill": "承包商",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark L.",
+      "from": "珍妮佛和馬克 L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Quick question about the plant selections",
-      "preview": "We love the design! Just wondering — can we swap the Japanese maple for something with more fall color? Also, is the lavender deer-resistant?",
-      "pill": "Client",
+      "subject": "關於植物選擇的快速問題",
+      "preview": "我們喜歡這個設計！只是想知道——我們可以把日本楓樹換成秋天顏色更濃的東西嗎？另外，薰衣草鹿有抗性嗎？",
+      "pill": "客戶",
       "pillColor": "blue"
     },
     {
-      "from": "Valley View Nursery",
+      "from": "谷景苗圃",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "preview": "Your order of 24 gallon shrubs, 6 specimen trees, and ground cover flats is ready. Pickup available Mon–Sat 7AM–4PM...",
-      "pill": "Supplier",
+      "subject": "訂單#4821 準備取貨",
+      "preview": "您訂購的 24 加侖灌木、6 棵標本樹和地被植物都已準備好。週一至週六上午 7 點至下午 4 點可取貨...",
+      "pill": "供應商",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+  "autodraft": "嗨，雷切爾！我很樂意幫忙打理你的後院。我目前正在預訂 2-3 週後的初步諮詢。第一次訪問是 90 分鐘的現場評估 - 我將在物業中漫步、進行測量並討論您的願景。從那裡我制定了一個概念計劃。想讓我把你列入日曆嗎？",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "project",
+    "bookingUnit": "專案",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Duet."
+    "punchline": "一個保存的項目可支付 Duet 多年的費用。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，以便您首先看到新的諮詢請求，其次看到客戶批准，而永遠不會看到供應商噪音。不再遺漏埋在苗圃訂單確認中的線索。",
+  "draftSubtitle": "Duet 了解您的定價、流程和語氣。當收到諮詢請求時，它會起草一份完整的回复，其中包含您的空閒時間、期望內容以及後續步驟。您審閱並發送。",
+  "agentSubtitle": "“亨德森專案的時間表是什麼？” “哪些客戶正在等待計劃批准？” Duet 了解您的收件匣和專案 - 只需詢問即可。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "We just bought a home and the backyard is a blank slate...",
-      "pill": "New Inquiry",
+      "subject": "後院重新設計－免費諮詢？",
+      "preview": "我們剛買了房子，後院還是一片空白…",
+      "pill": "新詢價",
       "pillColor": "red"
     },
     {
-      "from": "Jennifer L.",
+      "from": "詹妮弗·L。",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Re: Final design — we're ready to approve!",
-      "pill": "Client Approval",
+      "subject": "回覆：最終設計 - 我們已準備好批准！",
+      "pill": "客戶認可",
       "pillColor": "blue"
     },
     {
-      "from": "Dan W. — Hardscape Co.",
+      "from": "丹·W.——硬景觀公司",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "pill": "Contractor",
+      "subject": "米勒專案的灌溉規格？",
+      "pill": "承包商",
       "pillColor": "amber"
     },
     {
-      "from": "Valley View Nursery",
+      "from": "谷景苗圃",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "pill": "Supplier",
+      "subject": "訂單#4821 準備取貨",
+      "pill": "供應商",
       "pillColor": "lavender"
     },
     {
-      "from": "QuickBooks",
+      "from": "快書",
       "avatarLetter": "Q",
       "avatarColor": "lavender",
-      "subject": "Invoice #1047 viewed by client",
-      "pill": "Invoice",
+      "subject": "客戶查看的發票 #1047",
+      "pill": "發票",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Backyard redesign — free for a consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "subject": "回覆：後院重新設計－免費諮詢？",
+    "originalFrom": "雷切爾·T.寫道：",
+    "originalText": "嗨！我們剛在西湖買了一棟房子，後院還是一片空白。我們希望進行全面的重新設計，包括本地植物和庭院。您正在接待新客戶嗎？",
     "lines": [
-      "Hi Rachel!",
-      "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
-      "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
-      "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
+      "嗨，雷切爾！",
+      "恭喜你有了新家——一個空白的石板後院確實是一個夢想的項目。我絕對會吸引新客戶。",
+      "我的流程從 90 分鐘的現場諮詢開始，我會在房子裡走動，進行測量，並討論您的目標。在此基礎上，我制定了一個概念計劃，包括種植設計、硬景觀佈局和分階段預算。",
+      "我在接下來的 2-3 週內有職位空缺。想要我發送一些可用的日期嗎？"
     ],
-    "highlightText": "My process starts with a 90-minute on-site consultation",
+    "highlightText": "我的流程從 90 分鐘的現場諮詢開始",
     "tooltipFeatures": [
-      "Knows your design process & pricing",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "了解您的設計流程和定價",
+      "你的聲音中的草稿",
+      "自動包含諮詢詳細信息",
+      "隨著時間的推移學習"
     ]
   },
   "agent": {
-    "userMessage": "Which clients are still waiting on plan approval?",
-    "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
-    "followUp": "Draft a follow-up to Jennifer about the plan approval",
-    "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
+    "userMessage": "哪些客戶仍在等待計畫批准？",
+    "agentResponse": "根據您最近的電子郵件，有兩位客戶正在等待批准：Jennifer & Mark L.（後院重新設計 - 4 天前發送最終計劃，尚未回复）和 Cohens（前院原生改造 - 上週發送修改後的計劃）。想要我起草一份溫和的後續行動嗎？",
+    "followUp": "起草一份關於計劃批准的後續報告給詹妮弗",
+    "followUpResponse": "完成！我起草了一份友好的報告給詹妮弗，詢問她和馬克是否有機會審查最終計劃，並提醒她你可以快速打電話來了解工廠的選擇。準備審查並發送。"
   },
-  "testimonialsTitle": "Loved by landscape designers",
+  "testimonialsTitle": "深受景觀設計師喜愛",
   "testimonials": [
     {
-      "name": "Michael S.",
-      "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "name": "邁克爾·S。",
+      "title": "景觀設計師，德克薩斯州奧斯汀",
+      "quote": "春季期間，我每天 8 小時在現場進行評估和安裝監督。新的諮詢請求將等待數天。現在，Duet 在幾分鐘內回覆了我的流程和可用性。我已經預訂了 3 個我肯定會失去的項目。",
       "avatarKey": "michael"
     },
     {
-      "name": "Francesca G.",
-      "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "name": "弗朗西斯卡·G.",
+      "title": "花園設計師，俄勒岡州波特蘭",
+      "quote": "硬景觀工作人員、灌溉安裝人員和客戶之間的協調會產生大量電子郵件。 Duet 對所有內容進行排序並起草包含正確項目詳細資訊的回應。這就像有一個工作室經理。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Johnny M.",
-      "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "name": "強尼M.",
+      "title": "景觀設計工作室所有者，科羅拉多州丹佛市",
+      "quote": "我曾經每天晚上在實地工作結束後都會花時間處理電子郵件。同樣的問題——定價、流程、時間表。 Duet 可以處理這一切。我的回覆時間從幾天縮短到幾分鐘，而且我的成交率也大大提高了。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer R.",
-      "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "name": "詹妮弗·R。",
+      "title": "住宅景觀設計師，亞利桑那州斯科茨代爾",
+      "quote": "我的客戶提出了很多有關設備選擇和維護的問題。 Duet 學習了我的植物調色板和護理說明以及我幾乎不需要編輯的草稿回复。客戶認為我的反應非常靈敏。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sarah K.",
-      "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "name": "莎拉·K.",
+      "title": "本土植物景觀設計師，北卡羅來納州羅利",
+      "quote": "我正在失去新客戶，因為當我忙於種植安裝時無法回覆。 Duet 起草諮詢回复，其中包含我的確切流程、定價和預期。第一周就收回了成本。",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "花時間創造風景，\n沒趕上電子郵件。",
+  "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "當諮詢請求堆積如山時，Duet 能否應付春季高峰？",
+      "answer": "這正是 Duet 的閃光點。在您最繁忙的季節，即使您整天都在現場，每個新的詢問都會得到快速、詳細的答复，包括您的流程、時間表和可用性。不再因為晚上 9 點前無法回覆而失去春季線索。"
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
-      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "我與多個戶外工作人員進行協調。 Duet 對此有幫助嗎？",
+      "answer": "是的。 Duet 了解您的專案和所涉及的承包商 - 硬景觀、灌溉、種植人員、苗圃。它將承包商電子郵件與客戶電子郵件分開分類，並可以起草包含項目特定詳細資訊（如規格、時間表和材料）的回應。您可以隨時掌握所有工作人員的情況，而不會出現收件匣混亂的情況。"
     }
   ],
-  "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
+  "pricingNote": "以每個項目 8,000 美元的價格，節省的客戶可以支付多年的 Pro。"
 }

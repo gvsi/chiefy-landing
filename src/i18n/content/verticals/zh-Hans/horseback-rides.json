@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
+  "pageTitle": "Duet Mail 骑马和步道指南 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助越野骑行运营商即时回复预订电子邮件——甚至在车座上也是如此。 AI-起草回复，其中包含您的定价、骑手要求和声音。",
   "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
+  "heroHeadline": "您旅途中的电子邮件助手",
   "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
   "inboxEmails": [
     {
-      "from": "Jessica T.",
+      "from": "杰西卡·T。",
       "avatarLetter": "J",
       "avatarColor": "pink",
       "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "preview": "嗨！我们是一个 6 口之家（2 名成人，4 名 8-14 岁的孩子），很想在本周六早上预订一次越野骑行。您有空吗？一个人的价格是多少？",
+      "pill": "回应",
       "pillColor": "red"
     },
     {
-      "from": "Brian L.",
+      "from": "布莱恩·L。",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "体重限制问题",
+      "preview": "嘿，我有兴趣预订行程，但想先询问一下您的体重要求。我大约 260 磅——这会是一个问题吗？",
+      "pill": "问题",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "艾米和丹·W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
       "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "preview": "下周末我们将庆祝成立 10 周年，并在 Instagram 看到了您的日落骑行。周五晚上有空吗？有什么特别的套餐吗...",
+      "pill": "预订",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "对您的列表的新评论",
+      "preview": "一位旅行者最近评价了您的商家。看看他们怎么说并回应......",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "嘿杰西卡！周六早上 6 点开放。我们的越野骑行路线为 $100/person，穿越山谷约 90 分钟。欢迎 8 岁以上的孩子 - 你们所有人都可以出发。需要穿脚趾鞋，我们提供头盔。要我为您预订 9 AM 的行程吗？",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "骑",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "一次节省的团体乘车费用可支付两年多的Duet。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到预订请求，其次看到乘客问题，而永远不会出现噪音。不再错过隐藏在 TripAdvisor 警报下的群组查询。",
+  "draftSubtitle": "Duet 了解您的乘车类型、价格和要求。当收到预订查询时，它会起草一份完整的回复，其中包含路线详细信息、价格和着装。您审阅并发送。",
+  "agentSubtitle": "“这个周末有开放的游乐设施吗？” “起草一份给杰西卡的回复，周六有空。” Duet 了解您的收件箱和日历 - 只需询问即可。",
   "categorizationEmails": [
     {
-      "from": "Jessica T.",
+      "from": "杰西卡·T。",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "周六早上 6 人团体预订？",
+      "preview": "我们一家六口想要预订越野骑行......",
+      "pill": "立即回复",
       "pillColor": "red"
     },
     {
-      "from": "Amy W.",
+      "from": "艾米·W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "回复：日落骑行已确认 - 周五5:30 PM",
+      "pill": "已预订",
       "pillColor": "blue"
     },
     {
-      "from": "Brian L.",
+      "from": "布莱恩·L。",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "体重限制和经验要求？",
+      "pill": "问题",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "维阿托",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "您的每周预订摘要",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "拖拉机供应",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "春季促销 — 饲料和大头钉 15% 折扣",
+      "pill": "Pro动作",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "回复：周六早上 6 人团体预订？",
+    "originalFrom": "杰西卡·T.写道：",
+    "originalText": "嗨！我们是一个 6 口之家（2 名成人，4 名 8-14 岁的孩子），很想在本周六早上预订一次越野骑行。您有空吗？一个人的价格是多少？",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "嘿杰西卡！",
+      "周六早上 6 点开放。步道骑行费用为 $100/person，穿越山谷约 90 分钟。欢迎 8 岁及以上的儿童，因此您的整个团队都可以出发。",
+      "需要穿不露趾的鞋子——靴子是最好的。我们提供头盔，并根据体型和经验为每位骑手匹配马匹。无需事先有骑行经验。",
+      "想让我锁定你 9 AM 的行程吗？"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "周六早上 6 点开放。越野骑行费用为 $100/person",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "了解您的定价和供货情况",
+      "你的声音中的草稿",
+      "自动包含骑手要求",
+      "随着时间的推移学习"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "这个周末有开放的游乐设施吗？另外，天气怎么样？",
+    "agentResponse": "根据您的日历，周六开放时间为 9 AM 和 2 PM，周日开放时间为 10 AM。周六预计气温为 72°F，天气晴朗，是完美的骑行天气。周日下午有 40% 的机会下雨，因此上午时段是更安全的选择。希望我在这些时间起草对任何悬而未决的询问的答复吗？",
+    "followUp": "起草一份给杰西卡的回复，说明周六有空",
+    "followUpResponse": "完成！我起草了一份给 Jessica 的回复，确认周六 9 AM 为 6 名骑手在 $100/person 服务。它包括您的标准骑手要求和着装。准备审查并发送。"
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "深受越野骑行运营商的喜爱",
   "testimonials": [
     {
-      "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "name": "杰克·H.",
+      "title": "牧场主和步道指南，MT",
+      "quote": "我每天要在路上走 6 个小时，而且没有手机信号。当我回来回复时，一半的人已经在其他地方预订了。现在Duet起草包含我的定价和乘车详细信息的回复——我只是在回到谷仓时查看并发送。",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "name": "玛丽亚·C.",
+      "title": "骑马旅游经营者，AZ",
+      "quote": "我们收到数十封电子邮件询问同样的问题——体重限制、穿什么、年龄要求。 Duet 处理所有这一切，而且回复听起来和我一模一样。我的客人不知道这是AI。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "name": "泰勒·S。",
+      "title": "越野骑行指南，CO",
+      "quote": "旺季快要杀了我。除了跑步骑行之外，每天还会发送 30 多封电子邮件。 Duet 从噪音中对预订请求进行排序，并起草回复，其中包括所有内容 - 价格、要携带的物品、批次。我又回到了夜晚。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Rachel M.",
+      "name": "雷切尔·M。",
       "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "quote": "我们提供日落骑行、早晨骑行和私人课程——每种都有不同的价格和要求。 Duet learned all of it in a week.它每次都会为正确的骑行类型起草正确的回复。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Diane K.",
+      "name": "黛安·K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "quote": "敏感电子邮件是最糟糕的——有人询问他们是否太重，或者他们的孩子是否足够大。 Duet 像我一样小心地对待那些人。 Professional, kind, and accurate.仅此一点就值得了。",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Spend the day with the horses,\n不在您的收件箱中。",
+  "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Duet 如何处理有关体重或经验要求的敏感问题？",
+      "answer": "Duet 了解您的具体政策并反映您的语气。当有人询问体重限制或经验要求时，它会专业而热情地回应——分享他们需要的信息，而不会让他们感到尴尬。您一旦定下基调，Duet就会始终如一地遵循，让每位客人都感到受到尊重。"
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Duet可以处理不同乘客需求的团体预订吗？",
+      "answer": "是的。 Duet 了解您的骑行类型、团体规模、最低年龄以及任何骑手特定要求。当一个家庭或团体通过电子邮件发送有关预订的信息时，它会起草一份回复，其中涵盖整个团体的价格、每个乘客需要了解的内容以及可用的时段。您审阅并发送——无需来回。"
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "对于 6 人团体，按 $100/person 计算，节省的一次乘车费用可支付两年多的 Pro。"
 }

@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "適合訂製珠寶商的 Duet Mail | AI 郵件助手",
+  "metaDescription": "Duet Mail 幫助訂製珠寶商即時回應諮詢請求、設計批准和時間表問題——即使在工作台上也是如此。 AI 起草的回覆包含您的流程、定價和語音。",
+  "heroBadge": "受到 300 多位珠寶設計師的信賴",
+  "heroHeadline": "當您坐在替補席上時，您的電子郵件助手",
+  "heroSubline": "Duet 了解您的設計流程、材料、定價和時間表，然後起草電子郵件回复，這樣您就不會因為響應緩慢而失去定制客戶。",
   "inboxEmails": [
     {
-      "from": "Rachel & David T.",
+      "from": "雷切爾和大衛 T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "訂製訂婚戒指諮詢？",
+      "preview": "嗨！我和我的伴侶對訂製訂婚戒指感興趣。我們有一顆我們很想使用的傳家鑽石。這個月您有時間進行諮詢嗎？",
+      "pill": "回應",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "阿曼達·S。",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "回覆：3D 模型 - 我們可以調整設定嗎？",
+      "preview": "喜歡整體設計！但我們可以在設定上嘗試低調一點嗎？我附上了一張我想要的風格的照片。另外，改用白金會改變時間線嗎？",
+      "pill": "修訂版",
       "pillColor": "amber"
     },
     {
-      "from": "James K.",
+      "from": "詹姆斯K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
-      "pill": "Status",
+      "subject": "婚戒的時間表有更新嗎？",
+      "preview": "嘿！只是檢查一下我們配套的結婚戒指。婚禮將於 5 月 18 日舉行，我想確保我們一切順利。你能發送一個快速更新嗎...",
+      "pill": "狀態",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "結",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
+      "subject": "您的店面有新評論",
+      "preview": "一對夫婦最近在 The Knot 上評論了您的業務。看看他們怎麼說並回應...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "嗨，雷切爾！我很樂意幫助您圍繞您的家庭鑽石設計戒指 - 這是我最喜歡做的事情之一。這個月我星期二和星期四下午都有空缺。帶上石頭和任何靈感照片。諮詢時間大約為一個小時，並且沒有任何義務。要我留個時間給你嗎？",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "訂製件",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "一位節省下來的客戶支付了四年多的 Duet。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，以便您首先看到新的諮詢請求，其次是設計批准，而永遠不會看到供應商新聞通訊。不再錯過供應商促銷中隱藏的 5,000 美元詢價。",
+  "draftSubtitle": "Duet 了解您的流程、材料、定價和語音。當收到諮詢請求時，它會起草一份完整的答复，其中包含您的空閒時間、需要攜帶的物品以及流程的運作方式。您審閱並發送。",
+  "agentSubtitle": "“阿曼達的戒指在哪裡？” “為詹姆斯起草一個時間表更新。” Duet 知道每個客戶端線程——只需詢問即可。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "訂製訂婚戒指諮詢？",
+      "preview": "我和我的伴侶對訂製戒指感興趣...",
+      "pill": "新詢價",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "阿曼達·S。",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "回覆：3D 模型 v2 — 看起來很完美！",
+      "pill": "設計批准",
       "pillColor": "blue"
     },
     {
-      "from": "James K.",
+      "from": "詹姆斯K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "樂團已經準備好了——我們什麼時候可以接班？",
+      "pill": "準備取貨",
       "pillColor": "amber"
     },
     {
-      "from": "Emily W.",
+      "from": "艾米麗·W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "回覆：諮詢跟進——喜歡草圖",
+      "pill": "諮詢",
       "pillColor": "amber"
     },
     {
-      "from": "Rio Grande Supply",
+      "from": "格蘭德河供應",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "春季促銷 — 鉑金發現品 15% 折扣",
+      "pill": "供應商/供應商",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "回覆：訂製訂婚戒指諮詢？",
+    "originalFrom": "雷切爾·T.寫道：",
+    "originalText": "嗨！我和我的伴侶對訂製訂婚戒指感興趣。我們有一顆我們很想使用的傳家鑽石。這個月您有時間進行諮詢嗎？",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "嗨，雷切爾！",
+      "我很樂意幫助您圍繞您的家庭鑽石設計一些特別的東西。這個月我星期二和星期四下午都有空缺。",
+      "帶上石頭和任何靈感照片——Pinterest 圖板、螢幕截圖，任何有幫助的東西。諮詢時間大約為一個小時，並且沒有任何義務。",
+      "從那時起，流程通常是：草圖、3D 模型、修改，然後是 3-4 週的生產。要我留個時間給你嗎？"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "草圖、3D 模型、修改，然後進行 3-4 週的製作",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "了解您的流程和時間表",
+      "你的聲音中的草稿",
+      "自動包含諮詢詳細信息",
+      "隨著時間的推移學習"
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "阿曼達的訂婚戒指在哪裡？",
+    "agentResponse": "Amanda 於 2 月 14 日批准了 3D 模型 (v2)。您確認於 2 月 16 日開始生產，預計需要 3 週時間。這預計在 3 月 9 日左右完成。她的上一封電子郵件詢問了雕刻選項 - 仍然沒有得到答复。要我起草回覆嗎？",
+    "followUp": "為詹姆斯起草有關結婚戒指的時間表更新",
+    "followUpResponse": "完成！我起草了一份給 James 的回复，確認他的配套結婚戒指已完成最後的打磨，並將在 3 月 7 日星期五之前準備好領取，遠遠早於他 5 月 18 日的婚禮。準備審查並發送。"
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "深受珠寶設計師喜愛",
   "testimonials": [
     {
-      "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "name": "馬可·R。",
+      "title": "訂製珠寶設計師，洛杉磯",
+      "quote": "每件定製作品在幾週內都會產生 10-15 封電子郵件。乘以 8 個活躍客戶，我就快被淹死了。 Duet 起草設計更新回覆、諮詢確認、時間表答案 — 全部由我的聲音完成。我在試鏡之間進行審查並點擊發送。",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "name": "莎拉L。",
+      "title": "布魯克林金匠和工作室所有者",
+      "quote": "我失去了 7,000 美元的訂婚戒指佣金，因為我花了 3 天的時間才回复——這對夫婦去找了一個在 2 小時內回复的人。自 Duet 以來，我的回應時間低於 30 分鐘。這種事再也沒有發生過。",
       "avatarKey": "sarah"
     },
     {
-      "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "name": "丹尼·K.",
+      "title": "台式珠寶商，芝加哥",
+      "quote": "我手裡拿著手電筒，每天在板凳上工作 8 小時。我無法停止中焊打出諮詢回覆。 Duet 在我工作時起草所有內容 - 我看了一眼我的手機，批准，完成。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "name": "阿萊西婭·M。",
+      "title": "新娘珠寶設計師，奧斯汀",
+      "quote": "在訂婚季節，我每週收到 20 多個諮詢請求。 Duet 了解了我的整個流程——材料、時間表、定價等級、要帶什麼。它起草了我幾乎不需要編輯的回應。從十一月到二月絕對是救星。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "name": "尼娜·C.",
+      "title": "訂製戒指專家，波特蘭",
+      "quote": "3D 修訂電子郵件過去常常佔用我的晚上時間。客戶發送回饋，我起草更新，來回五次。現在 Duet 處理例行回复，我只參與設計決策。我又恢復了我的夜晚。",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "花時間創作珠寶，\n不回覆有關此事的電子郵件。",
+  "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Duet 可以處理帶有參考照片和設計附件的電子郵件嗎？",
+      "answer": "是的。 Duet 可以看到包括附件在內的完整電子郵件線程，因此當客戶發送靈感照片或設計回饋時，它可以了解上下文。它不會描述圖片，但它知道客戶剛剛發送了參考照片並起草了適當的回應——確認收到，詢問有關設計的澄清問題，或根據您通常的工作流程提供後續步驟。"
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "我的自訂項目有很長的電子郵件線程，其中包含 10 多個訊息。 Duet 可以遵循這些嗎？",
+      "answer": "這正是 Duet 的閃光點。它讀取整個線程歷史記錄 - 諮詢筆記、設計修訂、材料選擇、時間表更新 - 因此每個起草的回應都有完整的上下文。當客戶詢問「我的戒指狀態如何？」時在電子郵件 #14 中，Duet 知道哪個環、處於哪個階段，並起草準確的更新。不再需要自己重新閱讀 3 個月的電子郵件。"
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "每件 5,000 美元，節省的佣金可支付四年多的 Pro。"
 }

@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail 適用於潛水店 | AI 郵件助手",
+  "metaDescription": "Duet Mail 幫助潛水店老闆和 PADI 教練即時回覆認證查詢、旅行預訂和裝備問題 - 即使在水下也是如此。",
+  "heroBadge": "受到 300 多家潛水業者的信賴",
+  "heroHeadline": "您在水下時的電子郵件助手",
+  "heroSubline": "Duet 了解您的潛水地點、認證要求、定價和語音，然後起草電子郵件回复，這樣您在船上時就不會丟失預訂。",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "開放水域認證—可用性？",
+      "preview": "嗨！我將在八月的第一周來訪，想要獲得我的開放水域證書。需要多少天以及包含什麼？",
+      "pill": "回應",
       "pillColor": "red"
     },
     {
-      "from": "Kevin & Amy L.",
+      "from": "凱文和艾米 L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "週六 6 人一組進行 2 瓶潛水",
+      "preview": "我們有 6 名經過認證的潛水員，想要預訂本週六早上的 2 罐潛水。你有空間嗎？人均價格是多少...",
+      "pill": "預訂",
       "pillColor": "blue"
     },
     {
-      "from": "Jason M.",
+      "from": "傑森·M。",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "週末出租 BCD？",
+      "preview": "嘿，我已獲得認證，但要輕裝上陣。你們有租用 BCD 和調節器嗎？我周五到週日都需要它們......",
+      "pill": "問題",
       "pillColor": "amber"
     },
     {
-      "from": "PADI eLearning",
+      "from": "PADI 線上學習",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
+      "subject": "學生推薦：雷切爾·托雷斯",
+      "preview": "一名學生已完成線上學習並選擇了您的潛水中心進行封閉水域和開放水域訓練...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "嘿雷切爾！我們很樂意為您提供認證。開放水域課程為期 3 天，其中一天是泳池課程，兩天是海洋潛水。所有裝備均包含在內。八月是敞開的。想要我預訂第一週的位置嗎？",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
-    "lostPerMonth": "3 trips (6 divers each)",
+    "bookingUnit": "潛水",
+    "lostPerMonth": "3 次行程（每次 6 位潛水員）",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "保存一次團體潛水可支付一年的 Duet。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，以便您首先看到認證查詢和潛水預訂，其次看到裝備問題，並在您準備好時看到 PADI 警報。不再錯過埋在設備通訊中的團體預約。",
+  "draftSubtitle": "Duet 了解您的潛水地點、證書要求和定價。當收到預訂查詢時，它會起草一份完整的回复，其中包含旅行詳細資訊、包含的內容以及需要攜帶的物品。您審閱並發送。",
+  "agentSubtitle": "“週六有多少潛水員被預訂了？” “起草一份給雷切爾的回复，說明開放水域的可用性。” Duet 了解您的收件箱和日程安排 — 只需詢問即可。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "開放水域認證—可用性？",
+      "preview": "我將在八月的第一周訪問並希望獲得認證......",
+      "pill": "立即回覆",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "凱文L。",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "回覆：預訂已確認 — 週六 2 罐潛水",
+      "pill": "已預訂",
       "pillColor": "blue"
     },
     {
-      "from": "Jason M.",
+      "from": "傑森·M。",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "本週末出租 BCD 和調節器？",
+      "pill": "問題",
       "pillColor": "amber"
     },
     {
-      "from": "DiveBuddy",
+      "from": "潛水夥伴",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
+      "subject": "對您的房源進行新審核",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Dive Gear Express",
+      "from": "潛水裝備快遞",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "夏季促銷 — 潛水衣 25% 折扣",
+      "pill": "Pro運動",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "回覆：開放水域認證－可用性？",
+    "originalFrom": "雷切爾·T.寫道：",
+    "originalText": "嗨！我將在八月的第一周來訪，想要獲得我的開放水域證書。需要多少天以及包含什麼？",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "嘿雷切爾！",
+      "我們很樂意為您提供認證！ PADI 開放水域課程為期 3 天——一場泳池課程和兩次在我們的珊瑚礁上進行的海洋潛水。所有裝備均包含在內。",
+      "八月現在已經敞開了。大多數學生在周一開始，因此他們在周三完成。",
+      "要我預留位置嗎？"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "PADI 開放水域課程為期 3 天",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "了解您的課程和定價",
+      "你的聲音中的草稿",
+      "自動包含證書要求",
+      "隨著時間的推移學習"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "週六預訂了多少名潛水員？",
+    "agentResponse": "根據您的收件匣，您已確認 8 名潛水員參加週六早上的 2 次氣瓶潛水——Kevin 的 6 人小組加上 2 名個人預訂。您還有 Jason 提出的關於同一行程的裝備租賃的待處理詢問。要我起草回覆嗎？",
+    "followUp": "起草一份給 Rachel 的回复，其中包含開放水域課程的詳細信息",
+    "followUpResponse": "完成！我起草了一份給 Rachel 的回复，確認為期 3 天的 PADI 開放水域課程，包括泳池和海洋潛水。它提到了八月份的可用性和您的標準裝備包含保單。準備審查並發送。"
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "深受潛水員喜愛",
   "testimonials": [
     {
-      "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "name": "麥克·T 船長",
+      "title": "潛水船船長，佛羅裡達州",
+      "quote": "我周五到週日進行乘船旅行，而商店週一隻營業幾個小時。當我在水下時，認證問題和旅行查詢堆積如山。 Duet 起草回复，其中包含我的定價、潛水地點以及所包含的內容 - 我在潛水之間查看它們。",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "name": "珍和馬克·S.",
+      "title": "夏威夷 PADI 潛水中心",
+      "quote": "我們在同一條船上進行潛水、浮潛之旅和賞鯨活動。電子郵件種類繁多——證書問題、團體預訂、裝備租賃、天氣檢查。 Duet 對所有內容進行排序，並起草了解差異的回應。絕對的救星。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "name": "傑克R。",
+      "title": "佛羅裡達州沉船潛水憲章",
+      "quote": "我的一半電子郵件都是「沉船潛水需要什麼認證？」另一半是「我需要自己的裝備嗎？」Duet 在自動駕駛儀上處理這兩種情況。我的回覆時間從幾小時縮短到幾分鐘。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "name": "弗朗西斯卡·D.",
+      "title": "加州潛水店老闆",
+      "quote": "在夏季期間，我們每天會收到 30 多封有關課程、旅行可用性和設備的電子郵件。我的預訂逐漸被那些回覆速度更快的商店搶走了。現在 Duet 起草了所有內容，我只需在班級之間點擊發送即可。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "name": "莎拉·K.",
+      "title": "潛水教練和指南，北卡羅來納州",
+      "quote": "我上午教授課程，下午指導潛水。確實沒有時間回覆電子郵件。 Duet 了解了我的課程安排、定價，甚至我的取消政策。客戶無法區分。",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "在水下度過你的日子，\n沒有埋在你的收件匣裡。",
+  "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Duet 了解認證等級和課程要求嗎？",
+      "answer": "是的。 Duet 學習您的特定課程 - 開放水域、高級、救援、潛水長 - 以及先決條件、持續時間、價格以及包含的內容。當有人詢問如何獲得認證時，Duet 會起草一份回复，其中包含正確的課程詳細資訊、時間表和後續步驟。您審閱並發送。"
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "我整天都在船上或水下。我可以透過手機使用 Duet 嗎？",
+      "answer": "是的。 Duet 可與 Gmail 和 Outlook 配合使用，因此無論您的電子郵件在哪裡，它都可以工作 — 包括您的手機。草稿會自動出現在您的收件匣中。在潛水之間或返回碼頭時，您只需輕輕一按即可查看並發送。大多數潛水業者告訴我們，在旺季期間，這可以為他們每天節省 1-2 小時的電子郵件時間。"
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "6 人團體每次潛水 150 美元，一次節省的行程可支付超過一年的 Pro。"
 }

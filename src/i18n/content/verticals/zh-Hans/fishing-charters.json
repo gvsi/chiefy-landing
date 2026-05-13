@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail 钓鱼包船 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助渔船船长即时回复预订电子邮件——甚至在水中也是如此。 AI-起草回复，其中包含您的定价、政策和声音。",
+  "heroBadge": "受到 500 多名包机船长的信赖",
+  "heroHeadline": "您在水上时的电子邮件助手",
+  "heroSubline": "Duet 了解您的定价、政策和声音，然后起草电子邮件回复，这样您就不会因响应缓慢而失去预订。",
   "inboxEmails": [
     {
-      "from": "Sarah M.",
+      "from": "莎拉·M。",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "7 月 12 日可以入住 4 人吗？",
+      "preview": "嗨！我们一行 4 人希望预订 7 月 12 日的钓鱼之旅。您有空吗？一整天的价格是多少？",
+      "pill": "回应",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "大卫·K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "我们应该带什么？",
+      "preview": "嘿，我们周六预定了。快速提问——我们应该带什么？你们提供钓竿和钓具还是我们应该自带...",
+      "pill": "问题",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "迈克和丽莎 R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "需要改期到周日",
+      "preview": "很抱歉通知晚了，但周六的天气预报看起来很糟糕。我们可以改到周日吗？同一时间...",
+      "pill": "预订",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "对您的列表的新评论",
+      "preview": "一位旅行者最近评价了您的商家。看看他们怎么说并回应......",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "嘿莎拉！ 7 月 12 日开放 4 小时。全日行程 8 小时，从 6 AM 出发。包括所有鱼竿、钓具、鱼饵和许可证——只需为您的捕获物携带防晒霜、水和冷却器即可。要我把它锁起来吗？",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "宪章",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "保存的预订可支付一年 Duet 的费用。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到预订请求，其次看到问题，而永远不会看到噪音。不再错过隐藏在 TripAdvisor 警报下的行程查询。",
+  "draftSubtitle": "Duet 了解您的定价、政策和语气。当收到预订查询时，它会起草一份完整的回复，其中包含旅行详细信息、价格和携带的物品。您审阅并发送。",
+  "agentSubtitle": "“下周哪几天开门？” “请起草一份给莎拉的答复，并有空。” Duet 了解您的收件箱和日历 - 只需询问即可。",
   "categorizationEmails": [
     {
-      "from": "Sarah M.",
+      "from": "莎拉·M。",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "7 月 12 日可以入住 4 人吗？",
+      "preview": "我们一行 4 人想要预订钓鱼之旅......",
+      "pill": "立即回复",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "大卫·K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "回复：预订已确认 - 周六上午 7 点",
+      "pill": "已预订",
       "pillColor": "blue"
     },
     {
-      "from": "Mike R.",
+      "from": "迈克·R。",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "周六我们应该带什么？",
+      "pill": "问题",
       "pillColor": "amber"
     },
     {
-      "from": "FishingBooker",
+      "from": "钓鱼预订者",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "您的每周预订摘要",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "West Marine",
+      "from": "西海军陆战队",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "春季促销 — 钓具 20% 折扣",
+      "pill": "Pro动作",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "回复: 7 月 12 日可以入住 4 人吗？",
+    "originalFrom": "莎拉·M.写道：",
+    "originalText": "你好！我们一行 4 人希望预订 7 月 12 日的钓鱼之旅。您有空吗？一整天的价格是多少？",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "嘿莎拉！",
+      "7 月 12 日对 4 人开放。全日游时间为 $500，从 6 AM 从码头出发，运行 8 小时。",
+      "包括所有装备、鱼饵和钓鱼许可证——只需带上防晒霜和冷却器即可。",
+      "要我把它锁起来吗？"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "7月12日4人开放。全日游$500",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "了解您的定价和供货情况",
+      "你的声音中的草稿",
+      "自动包含行程详细信息",
+      "随着时间的推移学习"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "下周哪几天还营业？",
+    "agentResponse": "根据您的日历，您下周周二、周四和周六都有空缺职位。周一和周三均已订满（各 2 个包机）。希望我针对这些日期的任何未决询问起草答复吗？",
+    "followUp": "起草对 Sarah 的回复，说明 7 月 12 日有空",
+    "followUpResponse": "完成！我起草了一封给 Sarah 的回复，确认 7 月 12 日为 4 位客人，地址为$500。它包括您的标准旅行详细信息和集合地点。准备审查并发送。"
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "深受包机船长的喜爱",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "迈克·D船长",
+      "title": "近海包机船长，FL",
+      "quote": "在旺季期间，我每周会失去 2-3 个预订，只是因为我无法在船上足够快地回复。 Duet 起草包含我的定价和旅行详细信息的回复 - 我只需在两次捕获之间点击发送即可。",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "莎拉和汤姆·K.",
+      "title": "家庭包机业务，OR",
+      "quote": "我们经营两艘船，夏天的电子邮件量非常大。 Duet 将预订请求与其他所有内容进行排序，并草拟听起来与我们一模一样的回复。绝对的游戏规则改变者。",
       "avatarKey": "sarah"
     },
     {
-      "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "name": "杰克·R。",
+      "title": "近海钓鱼指南，TX",
+      "quote": "我每天晚上都会花一个小时回答相同的可用性问题。现在Duet处理它。我的回复时间从几小时缩短到几分钟，从那以后我就没有丢失任何预订。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "name": "丽莎·M。",
+      "title": "包机办公室经理，HI",
+      "quote": "管理 4 位队长的电子邮件是一项全职工作。 Duet 对所有内容进行分类，并以合适的船、合适的价格和合适的船长起草回复。就像拥有了另一个我。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Andrea S.",
-      "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "name": "安德里亚·S。",
+      "title": "深海租船，NC",
+      "quote": "对 AI 能否处理钓鱼包机电子邮件表示怀疑。但它了解了我们的旅行类型、包含的内容，甚至我们的取消政策。客户无法区分。",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "水上度过旺季，\n不在您的收件箱中。",
+  "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Duet 适用于预订和空房情况电子邮件吗？",
+      "answer": "绝对地。 Duet 了解您的旅行类型、价格、可用性和政策。当收到预订查询时，它会起草一份完整的回复，其中包含正确的详细信息——价格、包含的内容、会议地点、需要携带的物品。您查看并点击发送。"
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "我一整天都在水里我可以通过手机使用Duet吗？",
+      "answer": "是的。 Duet 可与 Gmail 和 Outlook 配合使用，因此无论您的电子邮件有效，它都可以使用 — 包括您的手机。草稿会自动出现。在两次捕获之间，您可以一键查看和发送。大多数船长告诉我们，在旺季期间，这可以为他们每天节省 1-2 小时的电子邮件时间。"
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "在$500/charter，保存的预订可支付超过一年的Pro。"
 }

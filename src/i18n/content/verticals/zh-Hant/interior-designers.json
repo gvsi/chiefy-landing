@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
-  "heroBadge": "Trusted by 400+ interior designers",
-  "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "室內設計師的 Duet Mail | AI 郵件助手",
+  "metaDescription": "Duet Mail 幫助室內設計師甚至在工作現場管理客戶電子郵件、承包商協調和供應商訂單。 AI 起草的回覆包含您的專案詳細資訊、偏好和聲音。",
+  "heroBadge": "受到 400 多名室內設計師的信賴",
+  "heroHeadline": "當您在現場與客戶交流時，您的電子郵件助手",
+  "heroSubline": "Duet 會了解您的供應商聯絡人、專案詳細資訊和客戶偏好，然後起草電子郵件回复，這樣您就不會因響應緩慢而失去客戶。",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "廚房裝修－初步諮詢？",
+      "preview": "嗨！我們剛在西湖買了一棟房子，想徹底重做廚房。您正在進行新專案嗎？您的流程是什麼樣的？",
+      "pill": "回應",
       "pillColor": "red"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "托尼的瓷磚和石材",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "回覆：後擋板瓷磚交貨時間更新",
+      "preview": "剛收到倉庫的回覆 — Calacatta 六角磁磚已缺貨 3 週。希望我保留您的訂單或考慮其他選項...",
+      "pill": "供應商訂單",
       "pillColor": "amber"
     },
     {
-      "from": "Mark L. — Electrician",
+      "from": "馬克 L. — 電工",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "接線完成－準備安裝夾具",
+      "preview": "所有粗佈線均在主臥室和客廳完成。每當您...時，我們都會為您安裝壁燈和吊燈。",
+      "pill": "承包商",
       "pillColor": "blue"
     },
     {
-      "from": "Karen & Steve W.",
+      "from": "凱倫和史蒂夫W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "對布料樣品有什麼想法嗎？",
+      "preview": "我們查看了您留下的三種面料選擇，我們傾向於“燕麥色”中的亞麻布，但希望看到它與牆壁顏色的對比...",
+      "pill": "客戶認可",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "嗨，雷切爾！我很想了解更多關於你們西湖廚房的資訊。我目前正在預訂下個月的諮詢。我的流程從上門拜訪開始，我們會了解您的願景、預算和時間表，然後我將設計概念與材料選擇結合。想約定在家見面的時間嗎？",
   "math": {
     "pricePerBooking": "$10,000",
-    "bookingUnit": "project",
+    "bookingUnit": "專案",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Duet."
+    "punchline": "一位節省下來的客戶支付多年的 Duet。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，以便您首先看到新客戶詢問，其次看到待批准的內容，而永遠不會看到供應商新聞通訊。不再錯過隱藏在貿易展促銷活動中的設計諮詢。",
+  "draftSubtitle": "Duet 了解您的流程、專案細節和語氣。當出現新的詢問或客戶問題時，它會起草一份完整的答复，其中包含您的空閒時間、後續步驟和專案細節。您審閱並發送。",
+  "agentSubtitle": "“亨德森專案進度如何？” “哪些審批仍在等待中？” Duet 了解您的收件匣和每個專案線程 - 只需詢問即可。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "雷切爾·T。",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "廚房裝修－初步諮詢？",
+      "preview": "我們剛買了房子，想重新裝潢廚房...",
+      "pill": "新詢價",
       "pillColor": "red"
     },
     {
-      "from": "Karen W.",
+      "from": "凱倫·W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "回覆：布料樣品－搭配燕麥亞麻",
+      "pill": "客戶認可",
       "pillColor": "blue"
     },
     {
-      "from": "Mark L.",
+      "from": "馬克L。",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "接線完成－準備安裝夾具",
+      "pill": "承包商",
       "pillColor": "amber"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "托尼的瓷磚和石材",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "訂單 #4821 已出貨 — 週四交貨",
+      "pill": "供應商訂單",
       "pillColor": "lavender"
     },
     {
-      "from": "Design Within Reach",
+      "from": "觸手可及的設計",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "貿易計畫－春季儲蓄活動",
+      "pill": "Pro運動",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "回覆：廚房裝修－初步諮詢？",
+    "originalFrom": "雷切爾·T.寫道：",
+    "originalText": "嗨！我們剛在西湖買了一棟房子，想徹底重做廚房。您正在進行新專案嗎？您的流程是什麼樣的？",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "嗨，雷切爾！",
+      "恭喜喬遷新家！我很樂意幫您打理廚房。我目前正在預訂下個月的諮詢。",
+      "我的流程從上門拜訪開始，了解您的願景、預算和時間表。從那裡我將設計理念與材料選擇和詳細的建議結合在一起。",
+      "想約定在家見面的時間嗎？"
     ],
-    "highlightText": "I'm currently booking consultations for next month.",
+    "highlightText": "我目前正在預訂下個月的諮詢。",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "了解您的流程和可用性",
+      "你的聲音中的草稿",
+      "自動包括後續步驟",
+      "隨著時間的推移學習"
     ]
   },
   "agent": {
-    "userMessage": "What approvals are still pending on the Henderson project?",
-    "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
-    "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
-    "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
+    "userMessage": "亨德森計畫仍有哪些待批准？",
+    "agentResponse": "根據您與亨德森一家的電子郵件線索，有兩個項目仍在等待批准：主浴室梳妝台（您在周二發送了恢復硬件選項）和客廳窗簾織物（樣品已於上週交付）。凱倫也詢問了餐廳的油漆光澤問題，但尚未回覆您的建議。要我起草一份後續文件嗎？",
+    "followUp": "向凱倫起草一份關於梳妝台和布料選擇的溫和後續行動",
+    "followUpResponse": "完成！我起草了一份凱倫檢查梳妝台和窗簾選擇的後續文件，提到梳妝台有 6 週的交付時間，因此很快就會做出決定，以使專案按計劃進行。準備審查並發送。"
   },
-  "testimonialsTitle": "Loved by interior designers",
+  "testimonialsTitle": "深受室內設計師喜愛",
   "testimonials": [
     {
-      "name": "Michael R.",
-      "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
+      "name": "邁克爾R。",
+      "title": "首席設計師，德克薩斯州奧斯汀",
+      "quote": "我每天在現場工作 6 小時，協調油漆工、電工和瓷磚安裝工。與此同時，另外三個客戶正在透過電子郵件談論他們的專案。 Duet 起草包含正確項目詳細資訊的回應 - 我只是在現場訪問之間進行審查。",
       "avatarKey": "michael"
     },
     {
-      "name": "Francesca D.",
-      "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "name": "弗朗西斯卡·D.",
+      "title": "住宅室內設計師，芝加哥",
+      "quote": "客戶的詢問過去常常需要等待好幾天，因為我忙於採購電子郵件和承包商日程安排。現在，Duet 透過我的流程和可用性在幾分鐘內回應新的潛在客戶。本季我預訂了 4 個額外項目。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Johnny M.",
-      "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "name": "強尼M.",
+      "title": "設計工作室所有者，納許維爾",
+      "quote": "管理 12 個正在進行的專案的電子郵件讓我很累。 Duet 對所有內容進行分類 - 新查詢、待批准、供應商訂單、承包商更新 - 因此我確切地知道首先需要注意什麼。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer S.",
-      "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "name": "詹妮弗·S。",
+      "title": "室內裝潢師，聖地牙哥",
+      "quote": "我正在失去潛在客戶，因為我在安裝週期間無法足夠快地做出回應。 Duet 了解了我的顧問流程、定價結構，甚至我如何描述我的設計風格。客戶不知道它是由 AI 輔助的。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sarah K.",
-      "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "name": "莎拉·K.",
+      "title": "商業室內設計師，丹佛",
+      "quote": "在供應商交貨時間、承包商時間表和客戶修改請求之間，我的收件匣一片混亂。 Duet 對所有內容進行排序，並起草待批准的後續文件。這就像有一個從不睡覺的專案協調員。",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "花時間創造美麗的空間，\n沒有埋在你的收件匣裡。",
+  "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
-      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "我同時處理 8-10 個項目。 Duet 能讓它們保持直線嗎？",
+      "answer": "是的。 Duet 追蹤每個客戶和專案的每個電子郵件線程。當您詢問亨德森廚房或公園大道辦公室時，它會從所有相關對話中提取上下文（供應商訂單、承包商更新、客戶批准），因此您的答覆始終準確且針對特定項目。不會混淆哪個圖塊適合哪個客戶。"
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
-      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "我與許多承包商和供應商進行協調。 Duet 對此有幫助嗎？",
+      "answer": "絕對的。 Duet 了解您的承包商聯絡人、供應商代表以及每個行業在專案中的角色背景。當您的電工透過電子郵件發送初步完成後，Duet 可以起草回复，確認燈具安裝程序中的下一步或循環。即使您跨越城鎮到另一個工作地點，它也能保持工作流程順利進行。"
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
+  "pricingNote": "以每個項目 10,000 美元計算，一位客戶只需支付 Duet Pro 多年的費用。"
 }
