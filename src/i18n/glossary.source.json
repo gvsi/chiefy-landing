@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "locked_terms": [
+    "Duet Mail",
+    "Duet",
+    "Gmail",
+    "Outlook",
+    "Google",
+    "Microsoft",
+    "Smart Drafts",
+    "Stripe",
+    "Pro"
+  ],
+  "provider_terms": ["Gmail", "Outlook", "Google", "Microsoft", "Stripe"],
+  "claim_sensitive_terms": [
+    "billing",
+    "compliance",
+    "pricing",
+    "privacy",
+    "security",
+    "trial"
+  ]
+}

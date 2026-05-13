@@ -15,11 +15,13 @@ import FAQ from "../../components/sections/FAQ.astro";
 import FinalCTA from "../../components/sections/FinalCTA.astro";
 import Footer from "../../components/sections/Footer.astro";
 
+type VerticalPageData = Record<string, any>;
+
 export async function getStaticPaths() {
     const jsonFiles = import.meta.glob("../../data/verticals/*.json", { eager: true });
 
     return Object.entries(jsonFiles).map(([, mod]) => {
-        const data = (mod as { default: Record<string, unknown> }).default;
+        const data = (mod as { default: VerticalPageData }).default;
         const slug = (data as { slug: string }).slug;
         return {
             params: { slug },
@@ -28,7 +30,7 @@ export async function getStaticPaths() {
     });
 }
 
-const { data } = Astro.props;
+const { data } = Astro.props as { data: VerticalPageData };
 ---
 
 <BaseLayout

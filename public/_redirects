@@ -1,14 +1,2 @@
-# Canonical URLs: no trailing slash (except /)
-#
-# This site uses Astro `build.format: "file"` so each route is emitted as
-# `*.html` (e.g. `/terms.html`). Cloudflare Pages will serve extensionless URLs
-# from matching HTML files and redirect `/terms.html -> /terms` by default, so
-# we only need to canonicalize trailing-slash variants back to the clean URL.
-
-/terms/ /terms 301
-/privacy/ /privacy 301
-/cookies/ /cookies 301
-/disclaimer/ /disclaimer 301
-
-/blog/ /blog 301
-/blog/*/ /blog/:splat 301
+# HTML-route canonicalization lives in functions/redirectCore.mjs because
+# Cloudflare Pages _redirects rules are bypassed for paths handled by Functions.

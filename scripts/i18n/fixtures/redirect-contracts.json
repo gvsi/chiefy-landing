@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "redirects": [
+    {
+      "name": "Portuguese base alias preserves query",
+      "input": "https://duetmail.com/pt?utm_source=x",
+      "status": 301,
+      "location": "https://duetmail.com/pt-BR?utm_source=x"
+    },
+    {
+      "name": "English regional alias and trailing slash preserve query",
+      "input": "https://duetmail.com/en-US/privacy/?ref=partner",
+      "status": 301,
+      "location": "https://duetmail.com/privacy?ref=partner"
+    },
+    {
+      "name": "Chinese regional alias preserves blog slug and query",
+      "input": "https://duetmail.com/zh-CN/blog/how-to-use-ai?utm_campaign=test",
+      "status": 301,
+      "location": "https://duetmail.com/zh-Hans/blog/how-to-use-ai?utm_campaign=test"
+    },
+    {
+      "name": "Localized generated html page preserves query",
+      "input": "https://duetmail.com/de/privacy.html?ref=partner",
+      "status": 301,
+      "location": "https://duetmail.com/de/privacy?ref=partner"
+    },
+    {
+      "name": "Default locale generated html canonicalizes to root",
+      "input": "https://duetmail.com/en.html",
+      "status": 301,
+      "location": "https://duetmail.com/"
+    },
+    {
+      "name": "Default locale blog canonicalizes to unprefixed",
+      "input": "https://duetmail.com/en/blog/example",
+      "status": 301,
+      "location": "https://duetmail.com/blog/example"
+    },
+    {
+      "name": "Pseudo locale is rejected before fallback",
+      "input": "https://duetmail.com/en-XA/privacy",
+      "status": 200,
+      "location": null
+    },
+    {
+      "name": "Malformed locale prefix is not redirected",
+      "input": "https://duetmail.com/pt-***/privacy",
+      "status": 200,
+      "location": null
+    },
+    {
+      "name": "Norwegian alias canonicalizes to nb",
+      "input": "https://duetmail.com/no/privacy",
+      "status": 301,
+      "location": "https://duetmail.com/nb/privacy"
+    },
+    {
+      "name": "Underscore locale variant canonicalizes",
+      "input": "https://duetmail.com/zh_Hant_TW/privacy",
+      "status": 301,
+      "location": "https://duetmail.com/zh-Hant/privacy"
+    },
+    {
+      "name": "Extension tail is stripped before matching",
+      "input": "https://duetmail.com/de-DE-u-hc-h23/privacy",
+      "status": 301,
+      "location": "https://duetmail.com/de/privacy"
+    },
+    {
+      "name": "Known blog route trailing slash canonicalizes",
+      "input": "https://duetmail.com/blog/example/",
+      "status": 301,
+      "location": "https://duetmail.com/blog/example"
+    },
+    {
+      "name": "Localized known route passes through with headers",
+      "input": "https://duetmail.com/de",
+      "status": 200,
+      "location": null
+    }
+  ]
+}

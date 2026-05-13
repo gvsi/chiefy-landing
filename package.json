@@ -11,6 +11,26 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
+    "check": "astro check",
+    "functions:types": "wrangler types --path ./functions/types.d.ts",
+    "functions:types:check": "wrangler types --path ./functions/types.d.ts --check",
+    "functions:check": "tsc --noEmit --project functions/tsconfig.json",
+    "functions:build": "mkdir -p .wrangler/pages-functions && wrangler pages functions build functions --project-directory . --outdir .wrangler/pages-functions --output-routes-path .wrangler/pages-functions/_routes.json && node scripts/i18n/redirect-contracts.mjs --check-functions-build",
+    "i18n:sync-locales": "node scripts/i18n/sync-locales.mjs",
+    "i18n:sync-locales:write": "node scripts/i18n/sync-locales.mjs --from-root --write",
+    "i18n:sync-locales:root-check": "node scripts/i18n/sync-locales.mjs --from-root --check",
+    "i18n:sync-glossary": "node scripts/i18n/sync-glossary.mjs",
+    "i18n:sync-glossary:write": "node scripts/i18n/sync-glossary.mjs --from-root --write",
+    "i18n:sync-glossary:root-check": "node scripts/i18n/sync-glossary.mjs --from-root --check",
+    "i18n:verify": "node scripts/i18n/verify.mjs --mode=complete",
+    "i18n:verify:contracts": "node scripts/i18n/verify.mjs --mode=source --phase=contracts",
+    "i18n:verify:source": "node scripts/i18n/verify.mjs --mode=source",
+    "i18n:build": "node scripts/i18n/build.mjs",
+    "i18n:verify:dist": "node scripts/i18n/verify-dist.mjs",
+    "i18n:scan-source": "node scripts/i18n/scan-source.mjs",
+    "i18n:pseudo": "node scripts/i18n/pseudo.mjs",
+    "i18n:packets": "node scripts/i18n/translation-packets.mjs",
+    "i18n:redirects": "node scripts/i18n/redirect-contracts.mjs --check",
     "email:gifs": "node scripts/email-gifs/capture-email-gifs.mjs"
   },
   "dependencies": {
@@ -18,10 +38,13 @@
     "astro": "5.16.6"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.9",
     "@fontsource-variable/domine": "5.2.8",
     "@fontsource-variable/manrope": "5.2.8",
     "@tailwindcss/vite": "4.1.18",
+    "parse5": "^8.0.1",
     "tailwindcss": "4.1.18",
-    "typescript": "5.9.2"
+    "typescript": "5.9.2",
+    "wrangler": "^4.90.1"
   }
 }
