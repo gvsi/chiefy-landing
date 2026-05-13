@@ -1,33 +1,32 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | AI-асистент для Gmail і Outlook",
+    "description": "AI-асистент Duet Mail для електронної пошти підсумовує листи, готує відповіді й упорядковує вхідні. Працює з Gmail і Outlook. Заощаджуйте 4+ години щотижня."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Тепер доступно для Gmail і Outlook",
+    "headlinePrefix": "Ваш ",
+    "headlineHighlight": "керівник апарату",
+    "headlineSuffix": " для",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "сортування пошти",
+      "підготовки відповідей",
+      "планування",
+      "пошуку відповідей"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "Заощаджуйте 4+ години щотижня на електронній пошті",
+    "primaryCta": "Почати з Gmail",
+    "secondaryCta": "Почати з Outlook",
+    "trialNote": "Безкоштовна 14-денна пробна версія",
+    "cancelNote": "Скасувати можна будь-коли"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Миттєва категоризація",
+      "Відповіді на основі AI"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Вхідні",
     "providers": [
       "Gmail",
       "Outlook"
@@ -36,140 +35,140 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "Учора"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Авточернетка",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Re: Графік запуску продукту",
+        "preview": "Привіт! Хотів перевірити матеріали для запуску. Ми все ще встигаємо на наступний тиждень...",
+        "pill": "Відповісти"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Коротко синхронізуємося сьогодні після обіду?",
+        "preview": "Хотілося б обговорити оновлення дорожньої карти. Ви вільні близько 16:00...",
+        "pill": "Зустріч"
       },
       {
         "from": "Marketing",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
-        "pill": "FYI"
+        "subject": "Результати кампанії готові",
+        "pill": "До відома"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Ваш магазин готовий до Black Friday",
+        "pill": "Промоакції"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Привіт, Alex! Так, ми в графіку. Дизайн-команда вчора завершила матеріали, і я надішлю фінальні файли до кінця сьогоднішнього дня."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "Логотипи клієнтів",
+    "headingPrefix": "Duet Mail довіряють прогресивні",
+    "headingHighlight": " професіонали й команди ",
+    "headingSuffix": "у всьому світі"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "Функції",
+    "eyebrow": "Ваші вхідні з новими можливостями",
+    "title": "Ваші вхідні не мають керувати вашим днем",
+    "subtitle": "Перетворіть хаос на ясність за допомогою AI, який справді вас розуміє.\nЗаощаджуйте 3+ години щотижня з найрозумнішим поштовим асистентом для Gmail і Outlook.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "Чернетки листів, які звучать як ви",
+        "description": "AI-редактор листів Duet готує чернетки для ваших найважливіших листів. Він вивчає ваш тон і стиль письма.",
+        "ariaLabel": "Чернетки листів, які звучать як ви",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "Я підготував персоналізований холодний лист для John",
+          "sampleText": "AI-пайплайни важливі для створення надійних, масштабованих та ефективних AI-систем.",
+          "readyToSend": "Готово до надсилання?",
+          "remindFollowUp": "Нагадай мені зробити фоллоу-ап."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "Миттєві підсумки й задачі",
+        "description": "Отримуйте короткий зміст і задачі з листів за секунди. Більше не потрібно читати романи у вхідних.",
+        "ariaLabel": "Миттєві підсумки й задачі",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "Пропоную нам ",
+          "sentenceHighlight": "зустрітися наступного тижня",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "Нова задача",
+          "actionLead": "Я знайшов ці вільні слоти у вашому календарі",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "Вівторок о 10:00",
+            "Четвер о 14:00",
+            "П'ятниця о 9:00"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Знайти ще",
+          "primaryButton": "Надіслати"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "Розумні нагадування",
+        "description": "Налаштуйте й не тримайте це в голові. Duet AI пам'ятає про фоллоу-апи, коли інші не відповідають, тож нічого не губиться.",
+        "ariaLabel": "Розумні нагадування",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "Розумні нагадування на основі AI",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Фоллоу-ап",
               "value": "12",
-              "unit": "emails"
+              "unit": "листів"
             },
             {
-              "label": "To reply",
+              "label": "Відповісти",
               "value": "2",
-              "unit": "emails"
+              "unit": "листи"
             },
             {
-              "label": "Completed",
+              "label": "Завершено",
               "value": "3",
-              "unit": "action items"
+              "unit": "задачі"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Завершити письмові задачі",
+              "time": "2 дні тому"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Інтеграція проєкту",
+              "time": "12 годин тому"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Стежити",
+            "Перенести?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "Зосередьтеся на важливому",
+        "description": "Розумна категоризація спершу показує найважливіші листи й групує пошту за темами. Керувати поштою ще ніколи не було простіше.",
+        "ariaLabel": "Зосередьтеся на важливому",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "АНАЛІЗ"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "Організація пошти й розумна категоризація вхідних",
+    "badge": "Організація",
+    "title": "Duet упорядковує ваші вхідні",
+    "subtitle": "Автоматична категоризація відфільтровує шум і показує важливе. Одразу бачите, що потребує дії, що просто до відома, а що може зачекати.",
+    "windowTitle": "Вхідні",
     "providers": [
       "Gmail",
       "Outlook"
@@ -178,88 +177,88 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "Учора",
+      "20 груд."
     ],
     "emails": [
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "Запит на перегляд бюджету Q4",
+        "preview": "Фінальні цифри у вкладенні. Будь ласка, перегляньте до кінця дня.",
+        "pill": "Потрібна дія"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Командний стендап завтра о 10:00",
+        "pill": "Зустріч"
       },
       {
         "from": "Design Team",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
-        "pill": "FYI"
+        "subject": "Опубліковано нові бренд-гайдлайни",
+        "pill": "До відома"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Ваш щомісячний звіт готовий",
+        "pill": "Промоакції"
       },
       {
         "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "subject": "Щотижневий дайджест",
+        "pill": "Промоакції"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "Підготовка листів і відповідей за допомогою AI",
+    "badge": "Чернетки",
+    "title": "Duet готує чернетки у вашому голосі",
+    "subtitle": "Duet вивчає, як ви пишете, і готує відповіді, що відповідають вашому тону. Перегляньте, за потреби відредагуйте й надішліть за секунди.",
+    "windowTitle": "Нове повідомлення",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "Кому:",
+      "subject": "Тема:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: Коротка синхронізація цього тижня?",
+      "originalFrom": "Alex Rivera написав:",
+      "originalText": "Привіт! Хотів би обговорити зміни в дорожній карті. Ви вільні для 30-хвилинного дзвінка цього тижня? Дайте знати, що вам підходить.",
+      "badge": "Авточернетка",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Привіт, Alex!",
+        "Із радістю синхронізуюся щодо дорожньої карти. Я вільний у четвер з 14:00 до 16:00 або в п'ятницю вранці — обидва варіанти мені підходять.",
+        "Дайте знати, що вам зручніше, і я надішлю запрошення.",
+        "Дякую!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Я вільний у четвер з 14:00 до 16:00 або в п'ятницю вранці",
       "actions": [
-        "Send",
-        "Edit"
+        "Надіслати",
+        "Редагувати"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Персоналізована чернетка",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Знає ваш календар",
+        "Готує чернетки у вашому голосі",
+        "Знає контекст завдяки пам'яті",
+        "Навчається з часом"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "AI-інтелект і асистент для електронної пошти",
+    "badge": "Інтелект",
+    "title": "Запитуйте будь-що про свою пошту",
+    "subtitle": "Попросіть Duet знайти листи, перевірити календар або підготувати відповідь. Він розуміє ваші вхідні й відповідає миттєво.",
+    "windowTitle": "Агент Duet",
+    "onlineLabel": "Онлайн",
+    "initialUserMessage": "Можеш знайти інвойс Stripe, який надіслала бухгалтерія?",
+    "processingText": "Пошук у вхідних...",
+    "foundHeader": "Знайдено 2 листи від Stripe",
+    "foundBody": "Я знайшов квитанцію на $29.00 USD від 24 жовтня.",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"
@@ -267,31 +266,31 @@
     "suggestions": [
       {
         "action": "draft",
-        "label": "Draft a reply"
+        "label": "Підготувати відповідь"
       },
       {
         "action": "calendar",
-        "label": "Find time to meet"
+        "label": "Знайти час для зустрічі"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Запитайте будь-що...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
+      "processingDefault": "Обробка...",
+      "processingDraft": "Генерую чернетку...",
+      "processingCalendar": "Перевіряю доступність...",
+      "draftIntro": "Ось чернетка відповіді для бухгалтерії:",
       "draftHeader": "Draft: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Привіт, команда,",
+        "У вкладенні інвойс Stripe за жовтень ($29.00).",
+        "Дайте знати, якщо потрібно щось іще.",
+        "З повагою,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "Надіслати лист",
+        "Редагувати"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "У вас завтра є 3 вільні слоти:",
       "calendarSlots": [
         {
           "time": "9:30 AM",
@@ -307,143 +306,143 @@
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Також підготувати відповідь?",
+        "calendarAfterDraft": "Також запланувати фоллоу-ап?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "Відгуки",
+    "scrollingAriaLabel": "Прокручувані відгуки",
+    "eyebrow": "Відгуки",
+    "title": "Його люблять зайняті професіонали",
+    "subtitle": "Реальні люди. Реальні перемоги над вхідними.",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "Фрилансерка",
+        "quote": "Вартий кожної копійки. Час, який я заощаджую на пошті, окупає Duet Mail удесятеро. Тепер не уявляю роботу без нього.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "Керівник із продажів",
+        "quote": "Миттєві підсумки довгих ланцюжків листів — це просто магія, і все дуже зручно. Клієнти думають, що я надлюдина.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "Підприємець",
+        "quote": "Я скептично ставився до використання штучного інтелекту для своєї пошти. Тепер це як мати блискучого executive assistant. Не уявляю повернення назад.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "Консультантка",
+        "quote": "Як консультантці, мені важлива кожна хвилина. Duet Mail не просто заощаджує час — він робить мою поштову комунікацію чіткішою.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
         "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "title": "Директорка з маркетингу",
+        "quote": "Нарешті AI-поштовий асистент, який справді вчиться писати як я. Миттєві відповіді настільки точні, що команда думала, ніби я працюю опівночі.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "ariaLabel": "Ціни",
+    "eyebrow": "Ціни",
+    "heading": "Прості ціни, потужні вхідні",
+    "subheading": "Почніть безкоштовно, оновлюйтеся будь-коли. Скасовуйте коли завгодно.",
+    "billingLegend": "Періодичність оплати",
+    "billingAnnual": "Щорічно",
+    "billingMonthly": "Щомісяця",
+    "savingsTag": "Економія 33%",
+    "priceCadence": "/місяць",
+    "perUserSuffix": "/користувач",
+    "annualBillingSuffix": "(оплата щороку)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Безпечна оплата через Stripe",
+      "Скасувати можна будь-коли"
     ],
     "plans": [
       {
         "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "description": "Для всіх, кому цікаво, якими можуть бути розумніші вхідні. Без зобов'язань.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "Миттєві підсумки",
+            "description": "Отримуйте суть будь-якого ланцюжка"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "AI-чернетки",
+            "description": "Спробуйте відповіді у своєму голосі"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "Розумні вхідні",
+            "description": "Базова організація для старту"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "Асистент Duet",
+            "description": "Спробуйте AI-асистента"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Вибрати Gmail або Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "14-денна безкоштовна пробна версія",
+        "description": "Для професіоналів, яким потрібні глибша автоматизація, інтеграції та вхідні, що справді знають, як ви працюєте.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "Розумні вхідні",
+            "description": "Листи автоматично сортуються за розумними категоріями",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "AI-чернетки",
+            "description": "Відповіді написані вашим голосом і готові до надсилання",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "Асистент Duet",
+            "description": "Чат для пошуку, чернеток, організації та іншого",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "Інтеграція з календарем",
+            "description": "Плануйте, переглядайте й керуйте подіями зі своїх вхідних"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "Миттєві підсумки",
+            "description": "Отримуйте суть будь-якого ланцюжка або вкладення"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Розумні нагадування",
+            "description": "Фоллоу-апи з'являються автоматично, щоб нічого не загубилося"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "Пріоритетна підтримка",
+            "description": "Реальні люди, швидкі відповіді"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Вибрати Gmail або Outlook",
         "featured": true
       },
       {
         "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "description": "Для організацій, яким потрібні масштаб корпоративного рівня, виділена підтримка та кастомні робочі процеси. Найкраще для команд від 50 людей.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,36 +450,36 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Усе з Pro",
+            "description": "Усі функції включено"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Виділена підтримка",
+            "description": "Персональний менеджер акаунта"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "Командна аналітика",
+            "description": "Інсайти по всій організації"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Спільні робочі процеси",
+            "description": "Шаблони й автоматизації для команд"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Зв'язатися з відділом продажів",
+        "ctaNote": "Доступні індивідуальні ціни"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
-    "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "ariaLabel": "Поширені запитання",
+    "eyebrow": "Поширені запитання",
+    "headingPrefix": "Поширені запитання, ",
+    "headingAccent": "відповіді",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
+    "contactLabel": "КОНТАКТ",
+    "contactHeading": "Залишилися запитання?",
+    "contactCta": "Зв'язатися →",
     "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
@@ -488,112 +487,112 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Як Duet Mail захищає мої поштові дані?",
+        "answer": "Ваша безпека — наш головний пріоритет. Ми використовуємо OAuth 2.0 для безпечної автентифікації з Google і Microsoft. Вміст листів шифрується в стані спокою за допомогою клієнтського шифрування на рівні полів, а для доступу до API ми дотримуємося принципу найменших привілеїв. Для нашої інтеграції з Google ми проходимо щорічне оцінювання безпеки Google CASA."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Як працює функція підсумків листів?",
+        "answer": "Duet Mail використовує просунутий AI, щоб аналізувати ланцюжки листів і створювати стислий огляд із ключовими пунктами, рішеннями та задачами. Це допомагає швидко зрозуміти контекст без читання всього ланцюжка."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Які дозволи потрібні Duet Mail?",
+        "answer": "Duet Mail потребує доступу до ваших листів, щоб надавати підсумки, витягувати задачі, генерувати контент і надсилати ваші листи. Ми запитуємо лише дозволи, які справді потрібні. Ви можете переглянути й відкликати ці дозволи будь-коли в налаштуваннях свого Google Account або Microsoft Account."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Що входить у безкоштовну пробну версію?",
+        "answer": "14-денна безкоштовна пробна версія включає повний доступ до всіх функцій Pro: необмежені підсумки листів, витягування задач, AI-редактор листів (генерування листів і чернеток без обмежень) та кастомні шаблони листів. Увійдіть через Google або Microsoft, щоб почати заощаджувати час на керуванні поштою."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Чи можу я використовувати Duet Mail з іншими поштовими провайдерами?",
+        "answer": "Duet Mail підтримує Gmail, Google Workspace і Microsoft Outlook. Увійдіть через свій обліковий запис Google або Microsoft, щоб почати."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Почати",
+    "headline": "Поверніть собі 4 години.\nЩотижня.",
+    "subline": "Приєднуйтеся до професіоналів, які починають день із ясності, а не хаосу. Ваша безкоштовна пробна версія чекає.",
+    "primaryCta": "Почати з Gmail",
+    "secondaryCta": "Почати з Outlook",
+    "note": "14-денна безкоштовна пробна версія · Скасувати можна будь-коли",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Оцінено за Google CASA",
+      "Зашифровано в стані спокою",
+      "Безпечний OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "Футер сайту",
+    "brandIconAlt": "Іконка Duet Mail",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — AI-асистент для пошти, який заощаджує вам години щотижня",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Огляд",
         "links": [
           {
-            "label": "Organization",
+            "label": "Організація",
             "href": "/uk#organization"
           },
           {
-            "label": "Drafting",
+            "label": "Чернетки",
             "href": "/uk#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "Інтелект",
             "href": "/uk#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Розширення Chrome",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "Клієнти",
         "links": [
           {
-            "label": "Pricing",
+            "label": "Ціни",
             "href": "/uk#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "Відгуки",
             "href": "/uk#testimonials"
           },
           {
-            "label": "FAQ",
+            "label": "Поширені запитання",
             "href": "/uk#faq"
           }
         ]
       },
       {
-        "title": "Legal",
+        "title": "Юридичне",
         "links": [
           {
-            "label": "Privacy",
+            "label": "Конфіденційність",
             "href": "/uk/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Умови",
             "href": "/uk/terms"
           },
           {
-            "label": "Cookies",
+            "label": "Файли cookie",
             "href": "/uk/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Застереження",
             "href": "/uk/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "Зв'язок",
         "links": [
           {
-            "label": "Blog",
+            "label": "Блог",
             "href": "/uk/blog"
           },
           {
@@ -621,42 +620,42 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
+    "ariaLabel": "Окупність інвестицій",
+    "label": "Розрахунок",
+    "narrativeTemplate": "Якщо {bookingUnit} коштує {pricePerBooking}, втрата лише {lostPerMonth} через повільні відповіді =",
+    "lossSuffix": "/міс втрачено",
     "dividerLabel": "vs",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
-  "jsonLd": {
+    "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - AI-асистент для Gmail і Outlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Підтримка клієнтів",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
+    "softwareDescription": "AI-асистент для Gmail і Outlook, який автоматично підсумовує листи, готує відповіді вашим голосом і впорядковує вхідні, щоб заощаджувати години щотижня.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Розумна організація й категоризація пошти",
+      "Підготовка листів вашим голосом за допомогою AI",
+      "Інтелектуальний поштовий асистент з інтеграцією календаря",
+      "Автоматичні підсумки листів і задачі",
+      "Розумні нагадування для фоллоу-апів"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "План Basic",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Безкоштовний план із миттєвими підсумками, AI-чернетками та розумними вхідними"
       },
       {
-        "name": "Pro Plan",
+        "name": "План Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "Повний доступ із розумною категоризацією вхідних, AI-чернетками, асистентом та інтеграцією календаря"
       }
     ],
     "aggregateRating": {
@@ -664,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "Потребує JavaScript. Працює з Gmail, Google Workspace і Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/uk",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Як Duet Mail захищає мої поштові дані?",
+        "answer": "Ваша безпека — наш головний пріоритет. Ми використовуємо OAuth 2.0 для безпечної автентифікації з Google і Microsoft. Вміст листів шифрується в стані спокою за допомогою клієнтського шифрування на рівні полів, а для доступу до API ми дотримуємося принципу найменших привілеїв. Для нашої інтеграції з Google ми проходимо щорічне оцінювання безпеки Google CASA."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Як працює функція підсумків листів?",
+        "answer": "Duet Mail використовує просунутий AI, щоб аналізувати ланцюжки листів і створювати стислий огляд із ключовими пунктами, рішеннями та задачами. Це допомагає швидко зрозуміти контекст без читання всього ланцюжка."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Які дозволи потрібні Duet Mail?",
+        "answer": "Duet Mail потребує доступу до ваших листів, щоб надавати підсумки, витягувати задачі, генерувати контент і надсилати ваші листи. Ми запитуємо лише дозволи, які справді потрібні. Ви можете переглянути й відкликати ці дозволи будь-коли в налаштуваннях свого Google Account або Microsoft Account."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Що входить у безкоштовну пробну версію?",
+        "answer": "14-денна безкоштовна пробна версія включає повний доступ до всіх функцій Pro: необмежені підсумки листів, витягування задач, AI-редактор листів (генерування листів і чернеток без обмежень) та кастомні шаблони листів. Увійдіть через Google або Microsoft, щоб почати заощаджувати час на керуванні поштою."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Чи можу я використовувати Duet Mail з іншими поштовими провайдерами?",
+        "answer": "Duet Mail підтримує Gmail, Google Workspace і Microsoft Outlook. Увійдіть через свій обліковий запис Google або Microsoft, щоб почати."
       }
     ]
   }

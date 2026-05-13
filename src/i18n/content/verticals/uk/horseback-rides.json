@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail для кінних прогулянок і trail-гідів | AI-асистент для пошти",
+  "metaDescription": "Duet Mail допомагає операторам кінних прогулянок миттєво відповідати на листи про бронювання — навіть із сідла. AI-чернетки відповідей із вашими цінами, вимогами до вершників і голосом.",
+  "heroBadge": "Йому довіряють 300+ trail-гідів",
+  "heroHeadline": "Ваш поштовий асистент, поки ви на маршруті",
+  "heroSubline": "Duet вивчає типи ваших поїздок, ціни, вимоги до вершників і стан маршрутів, а потім готує чернетки відповідей, щоб ви не втрачали бронювання через повільну відповідь.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "Групове бронювання для 6 — суботній ранок?",
+      "preview": "Привіт! Ми сім'я з 6 людей (2 дорослих, 4 дітей віком 8-14) і хотіли б забронювати кінну прогулянку цієї суботи вранці. Є місця? Яка ціна за людину?",
+      "pill": "Відповісти",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Питання про обмеження ваги",
+      "preview": "Привіт, я хочу забронювати поїздку, але спершу хотів запитати про ваші вимоги до ваги. Я приблизно 260 фунтів — це буде проблемою...",
+      "pill": "Запитання",
       "pillColor": "amber"
     },
     {
       "from": "Amy & Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Західна прогулянка на річницю?",
+      "preview": "Ми святкуємо 10-ту річницю наступних вихідних і побачили вашу західну прогулянку в Instagram. Чи доступна вона в п'ятницю ввечері? Є спеціальні пакети...",
+      "pill": "Бронювання",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Новий відгук про ваш профіль",
+      "preview": "Мандрівник нещодавно залишив відгук про ваш бізнес. Перегляньте, що він написав, і відповідайте...",
+      "pill": "До відома",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Привіт, Jessica! У суботу вранці є місце для 6. Наші trail rides коштують $100/людина й тривають приблизно 90 хвилин долиною. Діти від 8 років можуть їхати — усі ваші підходять. Потрібне закрите взуття, шоломи ми надаємо. Забронювати вам поїздку о 9:00?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "прогулянка",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Одна збережена групова прогулянка оплачує понад два роки Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet автоматично позначає кожен лист, щоб ви спершу бачили запити на бронювання, потім питання вершників, а шум — ніколи. Більше жодних пропущених групових запитів, похованих під сповіщеннями TripAdvisor.",
+  "draftSubtitle": "Duet вивчає типи ваших поїздок, ціни й вимоги. Коли надходить запит на бронювання, він готує повну відповідь із деталями маршруту, цінами та тим, що вдягнути. Ви переглядаєте й надсилаєте.",
+  "agentSubtitle": "\"Є вільні прогулянки на ці вихідні?\" \"Підготуй відповідь Jessica із доступністю на суботу.\" Duet знає ваші вхідні й календар — просто запитайте.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "Групове бронювання для 6 — суботній ранок?",
+      "preview": "Ми сім'я з 6 людей і хочемо забронювати кінну прогулянку...",
+      "pill": "Відповісти зараз",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Re: Західну прогулянку підтверджено — п'ятниця 17:30",
+      "pill": "Заброньовано",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Обмеження ваги й вимоги до досвіду?",
+      "pill": "Запитання",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Ваш щотижневий підсумок бронювань",
+      "pill": "До відома",
       "pillColor": "lavender"
     },
     {
       "from": "Tractor Supply",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Весняний розпродаж — знижка 15% на корм і амуніцію",
+      "pill": "Промоакції",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: Групове бронювання для 6 — суботній ранок?",
+    "originalFrom": "Jessica T. написала:",
+    "originalText": "Привіт! Ми сім'я з 6 людей (2 дорослих, 4 дітей віком 8-14) і хотіли б забронювати кінну прогулянку цієї суботи вранці. Є місця? Яка ціна за людину?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Привіт, Jessica!",
+      "У суботу вранці є достатньо місця для 6. Trail rides коштують $100/людина й тривають приблизно 90 хвилин долиною. Діти від 8 років можуть їхати, тож уся ваша компанія підходить.",
+      "Закрите взуття обов'язкове — найкраще чоботи. Ми надаємо шоломи й підбираємо коня кожному вершнику за розміром і досвідом. Попередній досвід верхової їзди не потрібен.",
+      "Забронювати вам поїздку о 9:00?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "У суботу вранці є достатньо місця для 6. Trail rides коштують $100/людина",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Знає ваші ціни й доступність",
+      "Готує чернетки у вашому голосі",
+      "Автоматично додає вимоги до вершників",
+      "Навчається з часом"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Є вільні прогулянки на ці вихідні? І яка погода?",
+    "agentResponse": "За вашим календарем, є вільні слоти в суботу о 9:00 і 14:00, а також у неділю о 10:00. Прогноз на суботу: 72°F і сонячно — ідеальна погода для їзди. На неділю показує 40% імовірності дощу після обіду, тож ранковий слот безпечніший. Підготувати відповіді на очікувані запити з цими часами?",
+    "followUp": "Підготуй відповідь Jessica із доступністю на суботу",
+    "followUpResponse": "Готово! Я підготував відповідь Jessica із підтвердженням суботи о 9:00 для 6 вершників по $100/людина. Додав ваші стандартні вимоги до вершників і що вдягнути. Готово до перегляду й надсилання."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Його люблять оператори кінних прогулянок",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "Власник ранчо й trail-гід, MT",
+      "quote": "Я на маршруті 6 годин на день без зв'язку. Коли повертався відповісти, половина людей уже бронювала деінде. Тепер Duet готує відповіді з моїми цінами й деталями поїздки — я просто переглядаю й надсилаю, коли повертаюся до стайні.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "title": "Операторка кінних турів, AZ",
+      "quote": "Ми отримуємо десятки листів із тим самим — обмеження ваги, що вдягнути, вікові вимоги. Duet бере все це на себе, і відповіді звучать точно як я. Мої гості не знають, що це AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "Гід кінних прогулянок, CO",
+      "quote": "Пік сезону мене виснажував. 30+ листів на день поверх самих прогулянок. Duet відділяє запити на бронювання від шуму й готує відповіді з усім — цінами, що взяти, усім списком. Я повернув собі вечори.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "Інструкторка верхової їзди й менеджерка бронювань, TX",
+      "quote": "Ми проводимо західні прогулянки, ранкові поїздки й приватні уроки — кожен формат має різні ціни й вимоги. Duet вивчив усе це за тиждень. Він щоразу готує правильну відповідь для правильного типу поїздки.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "title": "Сімейне ранчо й кінні прогулянки, CA",
+      "quote": "Найважчими були делікатні листи — хтось питає, чи не надто важкий, або чи достатньо доросла дитина. Duet відповідає з тією ж турботою, що й я. Професійно, доброзичливо й точно. Уже лише це того варте.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Проводьте день із кіньми,\nа не у вхідних.",
+  "ctaSubline": "Почніть безкоштовну пробну версію. Підключіть пошту за 30 секунд.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Як Duet обробляє делікатні питання про вагу або вимоги до досвіду?",
+      "answer": "Duet вивчає ваші конкретні правила й віддзеркалює ваш тон. Коли хтось питає про обмеження ваги або вимоги до досвіду, він відповідає професійно й тепло — надає потрібну інформацію без ніяковості. Ви один раз задаєте тон, і Duet послідовно його дотримується, щоб кожен гість почувався з повагою."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Чи може Duet обробляти групові бронювання з різними потребами вершників?",
+      "answer": "Так. Duet вивчає типи ваших поїздок, розміри груп, мінімальний вік і будь-які вимоги до конкретних вершників. Коли сім'я або група пише про бронювання, він готує відповідь із ціною для всієї групи, тим, що має знати кожен вершник, і доступними слотами. Ви переглядаєте й надсилаєте — без зайвого листування."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "За $100/людина для групи з 6 одна збережена прогулянка оплачує понад два роки Pro."
 }

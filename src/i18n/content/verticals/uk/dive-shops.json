@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail для дайв-центрів | AI-асистент для пошти",
+  "metaDescription": "Duet Mail допомагає власникам дайв-центрів і PADI-інструкторам миттєво відповідати на запити про сертифікацію, бронювання поїздок і питання про спорядження — навіть з-під води.",
+  "heroBadge": "Йому довіряють 300+ дайв-операторів",
+  "heroHeadline": "Ваш поштовий асистент, поки ви під водою",
+  "heroSubline": "Duet вивчає ваші дайв-сайти, вимоги сертифікації, ціни й голос, а потім готує чернетки відповідей, щоб ви не втрачали бронювання, поки ви на човні.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "Сертифікація Open Water — є місця?",
+      "preview": "Привіт! Я приїжджаю в перший тиждень серпня й хочу отримати сертифікат Open Water. Скільки днів це займає і що включено?",
+      "pill": "Відповісти",
       "pillColor": "red"
     },
     {
       "from": "Kevin & Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "Група з 6 на 2-танковий дайв у суботу",
+      "preview": "У нас 6 сертифікованих дайверів, і ми хочемо забронювати ранковий 2-танковий дайв цієї суботи. Є місця? Яка ціна за людину...",
+      "pill": "Бронювання",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "Оренда BCD на вихідні?",
+      "preview": "Привіт, я сертифікований, але подорожую налегке. Ви здаєте в оренду BCD і регулятори? Потрібні з п'ятниці по неділю...",
+      "pill": "Запитання",
       "pillColor": "amber"
     },
     {
       "from": "PADI eLearning",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
-      "pill": "FYI",
+      "subject": "Реферал студента: Rachel Torres",
+      "preview": "Студент завершив eLearning і вибрав ваш дайв-центр для тренувань у закритій та відкритій воді...",
+      "pill": "До відома",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "Привіт, Rachel! Із радістю допоможемо вам сертифікуватися. Курс Open Water триває 3 дні — один день занять у басейні й два дні океанських занурень. Усе спорядження включено. У серпні поки багато місць. Зарезервувати місце на перший тиждень?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
-    "lostPerMonth": "3 trips (6 divers each)",
+    "bookingUnit": "дайв",
+    "lostPerMonth": "3 поїздки (по 6 дайверів)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "Один збережений груповий дайв оплачує рік Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet автоматично позначає кожен лист, щоб ви спершу бачили запити про сертифікацію та бронювання дайвів, потім питання про спорядження, а сповіщення PADI — коли будете готові. Більше жодних пропущених групових бронювань, похованих під розсилками про обладнання.",
+  "draftSubtitle": "Duet вивчає ваші дайв-сайти, вимоги сертифікації й ціни. Коли надходить запит на бронювання, він готує повну відповідь із деталями поїздки, тим, що включено, і що взяти. Ви переглядаєте й надсилаєте.",
+  "agentSubtitle": "\"Скільки дайверів заброньовано на суботу?\" \"Підготуй відповідь Rachel з доступністю Open Water.\" Duet знає ваші вхідні й розклад — просто запитайте.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "Сертифікація Open Water — є місця?",
+      "preview": "Я приїжджаю в перший тиждень серпня й хочу сертифікуватися...",
+      "pill": "Відповісти зараз",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Re: Бронювання підтверджено — суботній 2-танковий дайв",
+      "pill": "Заброньовано",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "Оренда BCD і регулятора на ці вихідні?",
+      "pill": "Запитання",
       "pillColor": "amber"
     },
     {
       "from": "DiveBuddy",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
-      "pill": "FYI",
+      "subject": "Новий відгук про ваш профіль",
+      "pill": "До відома",
       "pillColor": "lavender"
     },
     {
       "from": "Dive Gear Express",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Літній розпродаж — знижка 25% на гідрокостюми",
+      "pill": "Промоакції",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "Re: Сертифікація Open Water — є місця?",
+    "originalFrom": "Rachel T. написала:",
+    "originalText": "Привіт! Я приїжджаю в перший тиждень серпня й хочу отримати сертифікат Open Water. Скільки днів це займає і що включено?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "Привіт, Rachel!",
+      "Із радістю допоможемо вам сертифікуватися! Курс PADI Open Water триває 3 дні — одне заняття в басейні й два океанські занурення на нашому рифі. Усе спорядження включено.",
+      "У серпні зараз багато доступних місць. Більшість студентів починають у понеділок, щоб завершити до середи.",
+      "Зарезервувати вам місце?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "Курс PADI Open Water триває 3 дні",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "Знає ваші курси й ціни",
+      "Готує чернетки у вашому голосі",
+      "Автоматично додає вимоги сертифікації",
+      "Навчається з часом"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "Скільки дайверів заброньовано на суботу?",
+    "agentResponse": "За вашими вхідними, на суботній ранковий 2-танковий дайв підтверджено 8 дайверів — група Kevin із 6 людей і 2 індивідуальні бронювання. Також є очікуваний запит від Jason щодо оренди спорядження для тієї самої поїздки. Підготувати відповідь?",
+    "followUp": "Підготуй відповідь Rachel з деталями курсу Open Water",
+    "followUpResponse": "Готово! Я підготував відповідь Rachel із підтвердженням 3-денного курсу PADI Open Water із басейном і океанськими зануреннями. Згадано доступність у серпні й вашу стандартну політику включеного спорядження. Готово до перегляду й надсилання."
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "Його люблять дайв-оператори",
   "testimonials": [
     {
       "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "title": "Капітан дайв-човна, FL",
+      "quote": "Я воджу човни з п'ятниці по неділю, а магазин відкритий лише кілька годин у понеділок. Питання про сертифікацію й поїздки накопичуються, поки я під водою. Duet готує відповіді з моїми цінами, дайв-сайтами й тим, що включено — я переглядаю їх між зануреннями.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "quote": "Ми проводимо дайви, снорклінг-тури й спостереження за китами з тих самих човнів. Різноманіття листів шалене — сертифікація, групові бронювання, оренда спорядження, перевірки погоди. Duet усе сортує й готує відповіді, які знають різницю. Абсолютний порятунок.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "title": "Чартери з wreck diving, FL",
+      "quote": "Половина моїх листів — \"яка сертифікація потрібна для занурень до затонулих об'єктів?\", інша половина — \"чи потрібне власне спорядження?\" Duet обробляє обидва типи на автопілоті. Час відповіді скоротився з годин до хвилин.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "title": "Власниця дайв-центру, CA",
+      "quote": "Влітку ми отримуємо 30+ листів на день про курси, доступність поїздок і обладнання. Я втрачала бронювання на користь магазинів, які відповідали швидше. Тепер Duet готує все, а я просто надсилаю між заняттями.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "title": "Дайв-інструкторка й гід, NC",
+      "quote": "Я викладаю курси вранці й проводжу дайви після обіду. Часу відповідати на пошту буквально немає. Duet вивчив мій розклад курсів, ціни й навіть політику скасування. Клієнти не помічають різниці.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Проводьте дні під водою,\nа не похованими у вхідних.",
+  "ctaSubline": "Почніть безкоштовну пробну версію. Підключіть пошту за 30 секунд.",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Чи розуміє Duet рівні сертифікації й вимоги курсів?",
+      "answer": "Так. Duet вивчає ваші конкретні курси — Open Water, Advanced, Rescue, Divemaster — разом із передумовами, тривалістю, цінами й тим, що включено. Коли хтось питає про сертифікацію, Duet готує відповідь із правильними деталями курсу, розкладом і наступними кроками. Ви переглядаєте й надсилаєте."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Я весь день на човні або під водою. Чи можна користуватися Duet із телефона?",
+      "answer": "Так. Duet працює з Gmail і Outlook, тож працює всюди, де працює ваша пошта — включно з телефоном. Чернетки автоматично з'являються у ваших вхідних. Між зануреннями або на причалі ви переглядаєте й надсилаєте одним дотиком. Більшість дайв-операторів кажуть, що це заощаджує їм 1-2 години роботи з поштою на день у пік сезону."
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "За $150/дайв із групою з 6 людей одна збережена поїздка оплачує понад рік Pro."
 }

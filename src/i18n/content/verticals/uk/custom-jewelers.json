@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "Duet Mail для ювелірів на замовлення | AI-асистент для пошти",
+  "metaDescription": "Duet Mail допомагає ювелірам на замовлення миттєво відповідати на запити про консультації, затвердження дизайну й питання щодо строків — навіть за верстаком. AI-чернетки відповідей із вашим процесом, цінами та голосом.",
+  "heroBadge": "Йому довіряють 300+ дизайнерів прикрас",
+  "heroHeadline": "Ваш поштовий асистент, поки ви за верстаком",
+  "heroSubline": "Duet вивчає ваш дизайн-процес, матеріали, ціни й строки, а потім готує чернетки відповідей, щоб ви не втрачали клієнта на індивідуальне замовлення через повільну відповідь.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "Консультація щодо індивідуальної обручки?",
+      "preview": "Привіт! Ми з партнером зацікавлені в обручці на замовлення. У нас є родинний діамант, який хотіли б використати. Чи є у вас час на консультацію цього місяця?",
+      "pill": "Відповісти",
       "pillColor": "red"
     },
     {
       "from": "Amanda S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "Re: 3D-модель — можна змінити оправу?",
+      "preview": "Загальний дизайн дуже подобається! Але чи можемо спробувати нижчий профіль оправи? Я прикріпила фото стилю, про який думаю. І чи зміниться строк, якщо перейти на платину...",
+      "pill": "Правка",
       "pillColor": "amber"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
-      "pill": "Status",
+      "subject": "Оновлення щодо строків для весільних каблучок?",
+      "preview": "Привіт! Хочу уточнити щодо наших парних весільних каблучок. Весілля 18 травня, і я хочу переконатися, що ми в графіку. Можете швидко оновити...",
+      "pill": "Статус",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Новий відгук у вашому профілі",
+      "preview": "Пара нещодавно залишила відгук про ваш бізнес на The Knot. Перегляньте, що вони написали, і відповідайте...",
+      "pill": "До відома",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "Привіт, Rachel! Із радістю допоможу створити каблучку навколо вашого родинного діаманта — це одна з моїх улюблених задач. У мене є вільний час у вівторок і четвер після обіду цього місяця. Візьміть камінь і будь-які фото для натхнення. Консультація триває близько години й ні до чого не зобов'язує. Забронювати для вас час?",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "виріб на замовлення",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "Один збережений клієнт оплачує понад чотири роки Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet автоматично позначає кожен лист, щоб ви спершу бачили нові запити на консультацію, потім затвердження дизайну, а розсилки постачальників — ніколи. Більше жодних пропущених запитів на $5,000, похованих під промо від постачальників.",
+  "draftSubtitle": "Duet вивчає ваш процес, матеріали, ціни й голос. Коли надходить запит на консультацію, він готує повну відповідь із вашою доступністю, тим, що взяти, і тим, як працює процес. Ви переглядаєте й надсилаєте.",
+  "agentSubtitle": "\"На якому етапі каблучка Amanda?\" \"Підготуй оновлення строків для James.\" Duet знає кожен клієнтський ланцюжок — просто запитайте.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "Консультація щодо індивідуальної обручки?",
+      "preview": "Ми з партнером зацікавлені в каблучці на замовлення...",
+      "pill": "Новий запит",
       "pillColor": "red"
     },
     {
       "from": "Amanda S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "Re: 3D-модель v2 — виглядає ідеально!",
+      "pill": "Затвердження дизайну",
       "pillColor": "blue"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "Каблучки готові — коли можна забрати?",
+      "pill": "Готово до отримання",
       "pillColor": "amber"
     },
     {
       "from": "Emily W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "Re: Підсумки консультації — ескізи чудові",
+      "pill": "Консультація",
       "pillColor": "amber"
     },
     {
       "from": "Rio Grande Supply",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "Весняний розпродаж — знижка 15% на платинову фурнітуру",
+      "pill": "Постачальник",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "Re: Консультація щодо індивідуальної обручки?",
+    "originalFrom": "Rachel T. написала:",
+    "originalText": "Привіт! Ми з партнером зацікавлені в обручці на замовлення. У нас є родинний діамант, який хотіли б використати. Чи є у вас час на консультацію цього місяця?",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "Привіт, Rachel!",
+      "Із радістю допоможу створити щось особливе навколо вашого родинного діаманта. У мене є вільний час у вівторок і четвер після обіду цього місяця.",
+      "Візьміть камінь і будь-які фото для натхнення — дошки Pinterest, скриншоти, усе допоможе. Консультація триває близько години й ні до чого не зобов'язує.",
+      "Далі процес зазвичай такий: ескіз, 3D-модель, правки, потім 3-4 тижні виробництва. Забронювати для вас час?"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "ескіз, 3D-модель, правки, потім 3-4 тижні виробництва",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "Знає ваш процес і строки",
+      "Готує чернетки у вашому голосі",
+      "Автоматично додає деталі консультації",
+      "Навчається з часом"
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "На якому етапі обручка Amanda?",
+    "agentResponse": "Amanda затвердила 3D-модель (v2) 14 лютого. Ви підтвердили початок виробництва 16 лютого з орієнтовним строком 3 тижні. Це означає завершення приблизно 9 березня. Її останній лист був про варіанти гравіювання — він ще без відповіді. Підготувати відповідь?",
+    "followUp": "Підготуй оновлення строків для James щодо весільних каблучок",
+    "followUpResponse": "Готово! Я підготував відповідь James із підтвердженням, що його парні весільні каблучки на фінальному поліруванні й будуть готові до отримання до п'ятниці, 7 березня — задовго до весілля 18 травня. Готово до перегляду й надсилання."
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "Його люблять дизайнери прикрас",
   "testimonials": [
     {
       "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "title": "Дизайнер прикрас на замовлення, LA",
+      "quote": "Кожен індивідуальний виріб створює 10-15 листів протягом тижнів. Помножте це на 8 активних клієнтів — і я тонув. Duet готує відповіді про оновлення дизайну, підтвердження консультацій, строки — усе моїм голосом. Я переглядаю між литтями й надсилаю.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "title": "Золотарка й власниця студії, Brooklyn",
+      "quote": "Я втратила комісію на обручку за $7,000, бо відповідала 3 дні — пара пішла до того, хто відповів за 2 години. З Duet мій час відповіді менше 30 хвилин. Таке більше не повторювалося.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "title": "Ювелір за верстаком, Chicago",
+      "quote": "Я 8 годин на день за верстаком із пальником у руці. Не можу зупиняти пайку, щоб набирати відповідь на консультацію. Duet готує все, поки я працюю — я дивлюся в телефон, підтверджую, готово.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "title": "Дизайнерка весільних прикрас, Austin",
+      "quote": "У сезон заручин я отримую 20+ запитів на консультацію на тиждень. Duet вивчив увесь мій процес — матеріали, строки, рівні цін, що взяти. Він готує відповіді, які майже не треба редагувати. Абсолютний порятунок із листопада по лютий.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "title": "Спеціалістка з каблучок на замовлення, Portland",
+      "quote": "Листи про 3D-правки забирали мої вечори. Клієнт надсилає фідбек, я пишу оновлення, і так п'ять разів туди-сюди. Тепер Duet бере рутинні відповіді на себе, а я втручаюся лише для дизайнерських рішень. Я повернула собі вечори.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Проводьте дні, створюючи прикраси,\nа не відповідаючи на листи про них.",
+  "ctaSubline": "Почніть безкоштовну пробну версію. Підключіть пошту за 30 секунд.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Чи може Duet обробляти листи з референсами й дизайн-вкладеннями?",
+      "answer": "Так. Duet бачить увесь ланцюжок листів, включно з вкладеннями, тож розуміє контекст, коли клієнт надсилає фото для натхнення або фідбек щодо дизайну. Він не описуватиме зображення у відповіді, але знатиме, що клієнт щойно надіслав референси, і підготує доречну відповідь — підтвердить отримання, поставить уточнювальні питання про дизайн або запропонує наступні кроки за вашим звичним процесом."
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "У моїх індивідуальних проєктах довгі ланцюжки з 10+ листів. Чи може Duet їх відстежувати?",
+      "answer": "Саме тут Duet особливо корисний. Він читає всю історію ланцюжка — нотатки з консультації, правки дизайну, вибір матеріалів, оновлення строків — тому кожна чернетка відповіді має повний контекст. Коли клієнт у 14-му листі питає \"який статус моєї каблучки?\", Duet знає, про яку каблучку йдеться, на якому вона етапі, і готує точне оновлення. Більше не потрібно самостійно перечитувати 3 місяці листів."
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "За $5,000/виріб одна збережена комісія оплачує понад чотири роки Pro."
 }
