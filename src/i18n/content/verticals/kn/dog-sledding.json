@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "ಡಾಗ್ ಸ್ಲೆಡ್ ಟೂರ್‌ಗಳಿಗಾಗಿ Duet Mail | AI ಇಮೇಲ್ ಸಹಾಯಕ",
+  "metaDescription": "Duet Mail ಮುಷರ್‌ಗಳಿಗೆ ಇಮೇಲ್‌ಗಳನ್ನು ಬುಕಿಂಗ್ ಮಾಡಲು ತಕ್ಷಣವೇ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ - ಟ್ರಯಲ್‌ನಿಂದಲೂ ಸಹ. ನಿಮ್ಮ ಪ್ರವಾಸದ ಪ್ರಕಾರಗಳು, ಬೆಲೆಗಳು, ನೀತಿಗಳು ಮತ್ತು ಧ್ವನಿಯೊಂದಿಗೆ AI- ಕರಡು ಪ್ರತ್ಯುತ್ತರಗಳು.",
+  "heroBadge": "200+ ಮುಷರ್‌ಗಳಿಂದ ನಂಬಲಾಗಿದೆ",
+  "heroHeadline": "ನೀವು ಹಾದಿಯಲ್ಲಿರುವಾಗ ನಿಮ್ಮ ಇಮೇಲ್ ಸಹಾಯಕ",
+  "heroSubline": "Duet ನಿಮ್ಮ ಪ್ರವಾಸದ ಪ್ರಕಾರಗಳು, ಬೆಲೆ, ಹವಾಮಾನ ನೀತಿಗಳು ಮತ್ತು ಆಡ್-ಆನ್‌ಗಳನ್ನು ಕಲಿಯುತ್ತದೆ - ನಂತರ ಇಮೇಲ್ ಪ್ರತ್ಯುತ್ತರಗಳನ್ನು ಡ್ರಾಫ್ಟ್ ಮಾಡುತ್ತದೆ ಆದ್ದರಿಂದ ನೀವು ನಿಧಾನ ಪ್ರತಿಕ್ರಿಯೆಗೆ ಬುಕಿಂಗ್ ಅನ್ನು ಎಂದಿಗೂ ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "4 ಗಾಗಿ ಅರೋರಾ + ಡಾಗ್ ಸ್ಲೆಡ್ ಕಾಂಬೊ?",
+      "preview": "ನಮಸ್ತೆ! ನನ್ನ 4 ಜನರ ಕುಟುಂಬ ಜನವರಿಯಲ್ಲಿ ಫೇರ್‌ಬ್ಯಾಂಕ್ಸ್‌ಗೆ ಭೇಟಿ ನೀಡುತ್ತಿದೆ. ಡಾಗ್ ಸ್ಲೆಡ್ಡಿಂಗ್ ಮತ್ತು ಅರೋರಾ ವೀಕ್ಷಣೆಯೊಂದಿಗೆ ನೀವು ಕಾಂಬೊ ಪ್ಯಾಕೇಜ್ ಅನ್ನು ನೀಡುತ್ತೀರಾ? ಬೆಲೆ ಎಷ್ಟು?",
+      "pill": "ಪ್ರತಿಕ್ರಿಯಿಸಲು",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "ನಾವು ಏನು ಧರಿಸಬೇಕು?",
+      "preview": "ಶನಿವಾರದ 2-ಗಂಟೆಯ ಮುಶ್ ಅನುಭವಕ್ಕಾಗಿ ನಾವು ಕಾಯ್ದಿರಿಸಿದ್ದೇವೆ. ನಾವು ಏನು ಧರಿಸಬೇಕು? ನೀವು ಗೇರ್ ಒದಗಿಸುತ್ತೀರಾ ಅಥವಾ ನಾವು ನಮ್ಮದೇ ಆದದನ್ನು ತರಬೇಕೇ...",
+      "pill": "ಪ್ರಶ್ನೆ",
       "pillColor": "amber"
     },
     {
       "from": "Kim & Brian L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "5 ಮತ್ತು 8 ವರ್ಷ ವಯಸ್ಸಿನ ಮಕ್ಕಳು - ಅವರು ಮುಶ್ ಮಾಡಬಹುದೇ?",
+      "preview": "ನಾವು ನಮ್ಮ ಇಬ್ಬರು ಮಕ್ಕಳನ್ನು (5 ಮತ್ತು 8) ಕರೆತರುತ್ತಿದ್ದೇವೆ. ಅವರು ಸ್ಲೆಡ್‌ನಲ್ಲಿ ಸವಾರಿ ಮಾಡಬಹುದೇ ಅಥವಾ ನಿಜವಾಗಿಯೂ ಮುಶ್‌ಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ? ಹಾಗೆಯೇ ನಾಯಿಗಳು ಚಿಕ್ಕ ಮಕ್ಕಳೊಂದಿಗೆ ಚೆನ್ನಾಗಿ ವರ್ತಿಸುತ್ತವೆಯೇ...",
+      "pill": "ಬುಕಿಂಗ್",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "ನಿಮ್ಮ ಪಟ್ಟಿಗಾಗಿ ಹೊಸ ವಿಮರ್ಶೆ",
+      "preview": "ಪ್ರಯಾಣಿಕರೊಬ್ಬರು ಇತ್ತೀಚೆಗೆ ನಿಮ್ಮ ವ್ಯಾಪಾರವನ್ನು ಪರಿಶೀಲಿಸಿದ್ದಾರೆ. ಅವರು ಏನು ಹೇಳುತ್ತಾರೆಂದು ನೋಡಿ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯಿಸಿ ...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "ಹೇ ರಾಚೆಲ್! ನಿಮ್ಮ ಕುಟುಂಬವನ್ನು ಹೋಸ್ಟ್ ಮಾಡಲು ನಾವು ಇಷ್ಟಪಡುತ್ತೇವೆ. ನಮ್ಮ Aurora + Mush Combo $175/ವ್ಯಕ್ತಿ - ನೀವು ಮುಸ್ಸಂಜೆಯಲ್ಲಿ ಟ್ರೇಲ್ಸ್ ಮೂಲಕ 1.5-ಗಂಟೆಗಳ ಸ್ಲೆಡ್ ರೈಡ್ ಅನ್ನು ಪಡೆಯುತ್ತೀರಿ, ನಂತರ ನಾವು ದೀಪಗಳಿಗಾಗಿ ಕಾಯುತ್ತಿರುವಾಗ ಬೆಂಕಿಯಿಂದ ಬಿಸಿಯಾದ ಕೋಕೋ. ಎಲ್ಲಾ ಶೀತ-ವಾತಾವರಣ ಗೇರ್ ಒದಗಿಸಲಾಗಿದೆ. 12 ಮತ್ತು ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ವಯಸ್ಸಿನ ಮಕ್ಕಳು $125. ಜನವರಿಗೆ ನಾನು ನಿಮ್ಮನ್ನು ಬುಕ್ ಮಾಡಲು ಬಯಸುವಿರಾ?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "tour",
+    "bookingUnit": "ಪ್ರವಾಸ",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "ಎರಡು ಉಳಿಸಿದ ಬುಕಿಂಗ್‌ಗಳು ಒಂದು ವರ್ಷದ ಡ್ಯುಯೆಟ್‌ಗೆ ಪಾವತಿಸುತ್ತವೆ."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರತಿ ಇಮೇಲ್ ಅನ್ನು ಟ್ಯಾಗ್ ಮಾಡುತ್ತದೆ ಆದ್ದರಿಂದ ನೀವು ಮೊದಲು ಬುಕಿಂಗ್ ವಿನಂತಿಗಳನ್ನು ನೋಡುತ್ತೀರಿ, ಪ್ರಶ್ನೆಗಳು ಎರಡನೆಯದು ಮತ್ತು ಶಬ್ದ ಎಂದಿಗೂ. TripAdvisor ಎಚ್ಚರಿಕೆಗಳ ಅಡಿಯಲ್ಲಿ ಸಮಾಧಿ ಮಾಡಲಾದ ಪ್ರವಾಸದ ವಿಚಾರಣೆಯನ್ನು ಇನ್ನು ಮುಂದೆ ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ.",
+  "draftSubtitle": "Duet ನಿಮ್ಮ ಪ್ರವಾಸದ ಪ್ರಕಾರಗಳು, ಬೆಲೆ ಮತ್ತು ಟೋನ್ ಅನ್ನು ಕಲಿಯುತ್ತದೆ. ಬುಕಿಂಗ್ ವಿಚಾರಣೆಯು ಹೊಡೆದಾಗ, ಪ್ಯಾಕೇಜ್ ವಿವರಗಳು, ಏನು ಧರಿಸಬೇಕು ಮತ್ತು ಆಡ್-ಆನ್‌ಗಳೊಂದಿಗೆ ಸಂಪೂರ್ಣ ಪ್ರತ್ಯುತ್ತರವನ್ನು ಅದು ರಚಿಸುತ್ತದೆ. ನೀವು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಕಳುಹಿಸಿ.",
+  "agentSubtitle": "\"ಈ ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವುದೇ ಬುಕಿಂಗ್ ಇದೆಯೇ?\" \"ಅರೋರಾ ಕಾಂಬೊ ಬಗ್ಗೆ ಕರಡು ಉತ್ತರ.\" Duet ನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್ ಮತ್ತು ವೇಳಾಪಟ್ಟಿಯನ್ನು ತಿಳಿದಿದೆ - ಕೇಳಿ.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "4 ಗಾಗಿ ಅರೋರಾ + ಡಾಗ್ ಸ್ಲೆಡ್ ಕಾಂಬೊ?",
+      "preview": "ನನ್ನ 4 ಜನರ ಕುಟುಂಬ ಜನವರಿಯಲ್ಲಿ ಫೇರ್‌ಬ್ಯಾಂಕ್ಸ್‌ಗೆ ಭೇಟಿ ನೀಡುತ್ತಿದೆ...",
+      "pill": "ಈಗ ಪ್ರತಿಕ್ರಿಯಿಸಿ",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "ಮರು: ಬುಕಿಂಗ್ ದೃಢಪಡಿಸಲಾಗಿದೆ - ಶನಿವಾರ ಮಧ್ಯಾಹ್ನ 1 ಗಂಟೆಗೆ",
+      "pill": "ಬುಕ್ ಮಾಡಲಾಗಿದೆ",
       "pillColor": "blue"
     },
     {
       "from": "Kim L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "ನಮ್ಮ ಮಕ್ಕಳು (5 ಮತ್ತು 8) ಜೊತೆಗೆ ಸವಾರಿ ಮಾಡಬಹುದೇ?",
+      "pill": "ಪ್ರಶ್ನೆ",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "ನಿಮ್ಮ ಸಾಪ್ತಾಹಿಕ ಬುಕಿಂಗ್ ಸಾರಾಂಶ",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Alaska Gear Co.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "ಚಳಿಗಾಲದ ಮಾರಾಟ - ಮಶಿಂಗ್ ಸರಂಜಾಮುಗಳ ಮೇಲೆ 30% ರಿಯಾಯಿತಿ",
+      "pill": "ಪ್ರಚಾರಗಳು",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "ಮರು: 4 ಗಾಗಿ ಅರೋರಾ + ಡಾಗ್ ಸ್ಲೆಡ್ ಕಾಂಬೊ?",
+    "originalFrom": "ರಾಚೆಲ್ ಟಿ. ಬರೆದರು:",
+    "originalText": "ನಮಸ್ತೆ! ನನ್ನ 4 ಜನರ ಕುಟುಂಬ ಜನವರಿಯಲ್ಲಿ ಫೇರ್‌ಬ್ಯಾಂಕ್ಸ್‌ಗೆ ಭೇಟಿ ನೀಡುತ್ತಿದೆ. ಡಾಗ್ ಸ್ಲೆಡ್ಡಿಂಗ್ ಮತ್ತು ಅರೋರಾ ವೀಕ್ಷಣೆಯೊಂದಿಗೆ ನೀವು ಕಾಂಬೊ ಪ್ಯಾಕೇಜ್ ಅನ್ನು ನೀಡುತ್ತೀರಾ? ಬೆಲೆ ಎಷ್ಟು?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "ಹೇ ರಾಚೆಲ್!",
+      "ನಮ್ಮ Aurora + Mush Combo $175/ವ್ಯಕ್ತಿ - ಮುಸ್ಸಂಜೆಯಲ್ಲಿ 1.5-ಗಂಟೆಗಳ ಸ್ಲೆಡ್ ರೈಡ್ ನಂತರ ಬಿಸಿ ಕೋಕೋ ಮತ್ತು ಬೆಂಕಿಯ ಅರೋರಾ ವೀಕ್ಷಣೆ. 12 ಮತ್ತು ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ವಯಸ್ಸಿನ ಮಕ್ಕಳು $125.",
+      "ಎಲ್ಲಾ ಶೀತ-ಹವಾಮಾನದ ಗೇರ್ಗಳನ್ನು ಒದಗಿಸಲಾಗಿದೆ (ಬೂಟುಗಳು, ಬಿಬ್ಗಳು, ಕೈಗವಸುಗಳು, ಮುಖವಾಡಗಳು). ಕೇವಲ ಕೆಳಗೆ ಬೆಚ್ಚಗಿನ ಪದರಗಳಲ್ಲಿ ಉಡುಗೆ.",
+      "ಜನವರಿಗೆ ನಿಮ್ಮ 4 ಜನರ ಕುಟುಂಬವನ್ನು ನಾನು ಬುಕ್ ಮಾಡಲು ಬಯಸುವಿರಾ?"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "ಅರೋರಾ + ಮುಶ್ ಕಾಂಬೊ ಒಬ್ಬ ವ್ಯಕ್ತಿಗೆ $175 - 1.5-ಗಂಟೆಗಳ ಸ್ಲೆಡ್ ರೈಡ್",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "ನಿಮ್ಮ ಪ್ರವಾಸದ ಪ್ರಕಾರಗಳು ಮತ್ತು ಬೆಲೆಗಳನ್ನು ತಿಳಿದಿದೆ",
+      "ನಿಮ್ಮ ಧ್ವನಿಯಲ್ಲಿ ಕರಡುಗಳು",
+      "ಗೇರ್ ಮತ್ತು ಆಡ್-ಆನ್ ವಿವರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ",
+      "ಕಾಲಾಂತರದಲ್ಲಿ ಕಲಿಯುತ್ತಾನೆ"
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "ಈ ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವುದೇ ಬುಕಿಂಗ್‌ಗಳು ಬರಲಿವೆಯೇ? ಹವಾಮಾನವು ಹದಗೆಟ್ಟಂತೆ ಕಾಣುತ್ತದೆ.",
+    "agentResponse": "ಈ ವಾರಾಂತ್ಯದಲ್ಲಿ ನೀವು 3 ಪ್ರವಾಸಗಳನ್ನು ಬುಕ್ ಮಾಡಿದ್ದೀರಿ: ಶನಿವಾರ ಬೆಳಗ್ಗೆ 10 ಗಂಟೆಗೆ ಕೆನಲ್ ಭೇಟಿ (2 ಅತಿಥಿಗಳು), ಶನಿವಾರ ಮಧ್ಯಾಹ್ನ 1 ಗಂಟೆಗೆ 2-ಗಂಟೆಗಳ ಮುಶ್ ಅನುಭವ (4 ಅತಿಥಿಗಳು), ಮತ್ತು ಭಾನುವಾರ ಸಂಜೆ 4 ಗಂಟೆಗೆ ಅರೋರಾ ಕಾಂಬೊ (6 ಅತಿಥಿಗಳು). ಭಾನುವಾರ ಗುಂಪು ರದ್ದತಿ ನೀತಿಯ ಬಗ್ಗೆ ಕೇಳಿದೆ. ನಾನು ಮೂರಕ್ಕೂ ಹವಾಮಾನ ಅಪ್‌ಡೇಟ್ ಅನ್ನು ಕರಡು ಮಾಡಬೇಕೆ?",
+    "followUp": "ಭಾನುವಾರದ ಅರೋರಾ ಗುಂಪಿಗೆ ಹವಾಮಾನ ನವೀಕರಣವನ್ನು ರಚಿಸಿ",
+    "followUpResponse": "ಮುಗಿದಿದೆ! ನಾನು ಭಾನುವಾರದ ಅರೋರಾ ಗುಂಪಿಗೆ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸಿದ್ದೇನೆ ಮತ್ತು ನೀವು ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುತ್ತಿದ್ದೀರಿ ಎಂದು ಅವರಿಗೆ ತಿಳಿಸುತ್ತೇನೆ ಮತ್ತು ಶನಿವಾರ ಸಂಜೆಯೊಳಗೆ ದೃಢೀಕರಿಸುತ್ತೇನೆ. ಇದು ನಿಮ್ಮ ಮರುಹೊಂದಿಕೆ ನೀತಿ ಮತ್ತು ಪರ್ಯಾಯ ದಿನಾಂಕಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಕಳುಹಿಸಲು ಸಿದ್ಧವಾಗಿದೆ."
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "ಮುಷರ್‌ಗಳು ಮತ್ತು ಪ್ರವಾಸ ನಿರ್ವಾಹಕರು ಪ್ರೀತಿಸುತ್ತಾರೆ",
   "testimonials": [
     {
       "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "title": "ಸ್ಲೆಡ್ ಡಾಗ್ ಟೂರ್ ಆಪರೇಟರ್, ಎಕೆ",
+      "quote": "ನಾನು ಶೂನ್ಯ ಸೆಲ್ ಸೇವೆಯೊಂದಿಗೆ ದಿನಕ್ಕೆ 6 ಗಂಟೆಗಳ ಕಾಲ ಜಾಡು ಹಿಡಿದಿದ್ದೇನೆ. ನಾನು ಹಿಂತಿರುಗುವ ಹೊತ್ತಿಗೆ, ಅರ್ಧದಷ್ಟು ಬುಕಿಂಗ್ ವಿಚಾರಣೆಗಳು ಮತ್ತೊಂದು ಉಡುಪಿಗೆ ಹೋಗಿದ್ದವು. Duet ಡ್ರಾಫ್ಟ್‌ಗಳು ನನ್ನ ಪ್ರವಾಸದ ವಿವರಗಳು ಮತ್ತು ಬೆಲೆಗಳೊಂದಿಗೆ ಪ್ರತ್ಯುತ್ತರ ನೀಡುತ್ತವೆ - ಅತಿಥಿಗಳು ನಿಮಿಷಗಳಲ್ಲಿ ಕೇಳುತ್ತಾರೆ, ಗಂಟೆಗಳಲ್ಲಿ ಅಲ್ಲ.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
-      "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "title": "ಕೆನಲ್ ಮತ್ತು ಮುಶ್ ಟೂರ್ ಮಾಲೀಕರು, ಎಕೆ",
+      "quote": "ನಾವು ಕೆನಲ್ ಭೇಟಿಗಳು, ಮಶ್ ರೈಡ್‌ಗಳು ಮತ್ತು ಅರೋರಾ ಕಾಂಬೊಗಳನ್ನು ನೀಡುತ್ತೇವೆ - ಪ್ರತಿ ಇಮೇಲ್‌ಗೆ ವಿಭಿನ್ನ ಉತ್ತರದ ಅಗತ್ಯವಿದೆ. Duet ಒಂದು ವಾರದಲ್ಲಿ ಎಲ್ಲಾ ಮೂರು ಪ್ರವಾಸದ ಪ್ರಕಾರಗಳನ್ನು ಕಂಡುಹಿಡಿದಿದೆ ಮತ್ತು ಈಗ ಪ್ರತಿ ಬಾರಿ ಸರಿಯಾದ ಪ್ಯಾಕೇಜ್‌ಗೆ ಹೊಂದಿಕೆಯಾಗುವ ಕರಡು ಉತ್ತರಗಳು.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "title": "ಡಾಗ್ ಸ್ಲೆಡ್ ಗೈಡ್, MN",
+      "quote": "ಏನು ಧರಿಸಬೇಕು, ವಯಸ್ಸಿನ ಮಿತಿಗಳು ಮತ್ತು ನಾಯಿಗಳ ಬಗ್ಗೆ ಅದೇ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಲು ನಾನು ಪ್ರತಿದಿನ ಸಂಜೆ ಕಳೆಯುತ್ತಿದ್ದೆ. Duet ಎಲ್ಲವನ್ನೂ ನಿಭಾಯಿಸುತ್ತದೆ. ನಾನು ಟ್ರಯಲ್‌ನಿಂದ ಮನೆಗೆ ಬರುತ್ತೇನೆ ಮತ್ತು ಎಲ್ಲವನ್ನೂ ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ ಮತ್ತು ಕಾಯುತ್ತಿದ್ದೇನೆ.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
-      "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "title": "ಅರೋರಾ ಮತ್ತು ಸ್ಲೆಡ್ ಟೂರ್ ಆಪರೇಟರ್, ಎಕೆ",
+      "quote": "ಚಳಿಗಾಲದಲ್ಲಿ ಹವಾಮಾನ ರದ್ದತಿ ನಿರಂತರವಾಗಿರುತ್ತದೆ. Duet ಡ್ರಾಫ್ಟ್‌ಗಳು ನಮ್ಮ ನೀತಿಯೊಂದಿಗೆ ಪ್ರತ್ಯುತ್ತರಗಳನ್ನು ಮರುಹೊಂದಿಸುತ್ತವೆ ಮತ್ತು ನನ್ನ ಫೋನ್ ಅನ್ನು ಪರಿಶೀಲಿಸುವ ಅವಕಾಶವನ್ನು ನಾನು ಪಡೆಯುವ ಮೊದಲು ಪರ್ಯಾಯ ದಿನಾಂಕಗಳು. ಅತಿಥಿಗಳು ವೇಗದ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಇಷ್ಟಪಡುತ್ತಾರೆ.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
-      "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "title": "ಫ್ಯಾಮಿಲಿ ಡಾಗ್ ಸ್ಲೆಡ್ ಅಡ್ವೆಂಚರ್ಸ್, CO",
+      "quote": "ಪಾಲಕರು ಯಾವಾಗಲೂ ತಮ್ಮ ಮಕ್ಕಳು ಮುಶ್ ಮಾಡಬಹುದೇ ಎಂದು ಕೇಳುತ್ತಾರೆ, ನಾಯಿಗಳು ಸ್ನೇಹಪರವಾಗಿದ್ದರೆ, ಏನು ಧರಿಸಬೇಕು - ಅದೇ 10 ಪ್ರಶ್ನೆಗಳು. Duet ಪ್ರತಿ ಉತ್ತರವನ್ನು ಕಲಿತು ಅವುಗಳನ್ನು ಪರಿಪೂರ್ಣವಾಗಿ ರಚಿಸುತ್ತದೆ. ಇದು ಇಮೇಲ್‌ಗಾಗಿ ನಾನೇ ಕ್ಲೋನ್ ಮಾಡಿದಂತಿದೆ.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ನಿಮ್ಮ ನಾಯಿಗಳೊಂದಿಗೆ ಚಳಿಗಾಲದಲ್ಲಿ ಜಾಡು ಕಳೆಯಿರಿ,\nನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಇಲ್ಲ.",
+  "ctaSubline": "ನಿಮ್ಮ ಉಚಿತ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಿ. 30 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "ಹವಾಮಾನ ರದ್ದತಿ ಮತ್ತು ಅರೋರಾ ಅನಿಶ್ಚಿತತೆಯನ್ನು Duet ಹೇಗೆ ನಿರ್ವಹಿಸುತ್ತದೆ?",
+      "answer": "Duet ನಿಮ್ಮ ರದ್ದತಿ ಮತ್ತು ಮರುಹೊಂದಿಕೆ ನೀತಿಗಳನ್ನು ಕಲಿಯುತ್ತದೆ. ಹವಾಮಾನ ಕಾಳಜಿ ಅಥವಾ ಅರೋರಾ ಗೋಚರತೆಯ ಬಗ್ಗೆ ಅತಿಥಿ ಇಮೇಲ್ ಮಾಡಿದಾಗ, ಅದು ನಿಮ್ಮ ನೀತಿ, ಪರ್ಯಾಯ ದಿನಾಂಕಗಳು ಮತ್ತು ಯಾವುದೇ ಸಂಬಂಧಿತ ವಿವರಗಳೊಂದಿಗೆ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸುತ್ತದೆ - ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುವುದು ಮತ್ತು ಪ್ರವಾಸದ ಹತ್ತಿರ ದೃಢೀಕರಿಸುವುದು. ನೀವು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಕಳುಹಿಸಿ."
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "ನಾನು ವಿಭಿನ್ನ ಬೆಲೆಗಳು ಮತ್ತು ಆಡ್-ಆನ್‌ಗಳೊಂದಿಗೆ ಬಹು ಪ್ರವಾಸದ ಪ್ರಕಾರಗಳನ್ನು ನೀಡುತ್ತೇನೆ. Duet ಅವುಗಳನ್ನು ನೇರವಾಗಿ ಇರಿಸಬಹುದೇ?",
+      "answer": "ಹೌದು. Duet ನಿಮ್ಮ ಪ್ರತಿಯೊಂದು ಪ್ರವಾಸದ ಪ್ರಕಾರಗಳನ್ನು ಕಲಿಯುತ್ತದೆ - ಕೆನಲ್ ಭೇಟಿಗಳು, ಮುಶ್ ಅನುಭವಗಳು, ಅರೋರಾ ಕಾಂಬೊಗಳು, ಛಾಯಾಗ್ರಹಣ ಆಡ್-ಆನ್‌ಗಳು, ಸಾರಿಗೆ ಪ್ಯಾಕೇಜ್‌ಗಳು - ಅವುಗಳ ಬೆಲೆ, ಅವಧಿ ಮತ್ತು ಏನನ್ನು ಒಳಗೊಂಡಿದೆ. ವಿಚಾರಣೆ ಬಂದಾಗ, ಅದು ಸರಿಯಾದ ಪ್ರವಾಸಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ ಮತ್ತು ಸರಿಯಾದ ವಿವರಗಳೊಂದಿಗೆ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸುತ್ತದೆ."
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "$150/ಪ್ರವಾಸದಲ್ಲಿ, ಎರಡು ಉಳಿಸಿದ ಬುಕಿಂಗ್‌ಗಳು ಒಂದು ವರ್ಷದ ಪ್ರೊಗೆ ಪಾವತಿಸುತ್ತವೆ."
 }

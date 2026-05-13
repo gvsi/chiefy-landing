@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "ಕುದುರೆ ಸವಾರಿ ಮತ್ತು ಟ್ರಯಲ್ ಗೈಡ್‌ಗಳಿಗಾಗಿ Duet Mail | AI ಇಮೇಲ್ ಸಹಾಯಕ",
+  "metaDescription": "Duet Mail ಟ್ರಯಲ್ ರೈಡ್ ಆಪರೇಟರ್‌ಗಳಿಗೆ ತಕ್ಷಣವೇ ಬುಕ್ಕಿಂಗ್ ಇಮೇಲ್‌ಗಳಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ - ಸ್ಯಾಡಲ್‌ನಿಂದ ಕೂಡ. ನಿಮ್ಮ ಬೆಲೆ, ರೈಡರ್ ಅವಶ್ಯಕತೆಗಳು ಮತ್ತು ಧ್ವನಿಯೊಂದಿಗೆ AI- ಕರಡು ಪ್ರತ್ಯುತ್ತರಗಳು.",
+  "heroBadge": "300+ ಟ್ರಯಲ್ ಗೈಡ್‌ಗಳಿಂದ ನಂಬಲಾಗಿದೆ",
+  "heroHeadline": "ನೀವು ಹಾದಿಯಲ್ಲಿರುವಾಗ ನಿಮ್ಮ ಇಮೇಲ್ ಸಹಾಯಕ",
+  "heroSubline": "Duet ನಿಮ್ಮ ರೈಡ್ ಪ್ರಕಾರಗಳು, ಬೆಲೆ, ರೈಡರ್ ಅವಶ್ಯಕತೆಗಳು ಮತ್ತು ಟ್ರಯಲ್ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಕಲಿಯುತ್ತದೆ - ನಂತರ ಇಮೇಲ್ ಪ್ರತ್ಯುತ್ತರಗಳನ್ನು ಡ್ರಾಫ್ಟ್ ಮಾಡುತ್ತದೆ ಆದ್ದರಿಂದ ನೀವು ನಿಧಾನ ಪ್ರತಿಕ್ರಿಯೆಗೆ ಬುಕಿಂಗ್ ಅನ್ನು ಎಂದಿಗೂ ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "6 ಕ್ಕೆ ಗುಂಪು ಬುಕಿಂಗ್ — ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ?",
+      "preview": "ನಮಸ್ತೆ! ನಾವು 6 (2 ವಯಸ್ಕರು, 4 ಮಕ್ಕಳು ವಯಸ್ಸಿನ 8-14) ಕುಟುಂಬವಾಗಿದ್ದೇವೆ ಮತ್ತು ಈ ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ ಟ್ರಯಲ್ ರೈಡ್ ಅನ್ನು ಬುಕ್ ಮಾಡಲು ಇಷ್ಟಪಡುತ್ತೇವೆ. ನಿಮ್ಮಲ್ಲಿ ಲಭ್ಯತೆ ಇದೆಯೇ? ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ಬೆಲೆ ಎಷ್ಟು?",
+      "pill": "ಪ್ರತಿಕ್ರಿಯಿಸಲು",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "ತೂಕ ಮಿತಿ ಪ್ರಶ್ನೆ",
+      "preview": "ಹೇ, ನಾನು ರೈಡ್ ಅನ್ನು ಬುಕ್ ಮಾಡಲು ಆಸಕ್ತಿ ಹೊಂದಿದ್ದೇನೆ ಆದರೆ ಮೊದಲು ನಿಮ್ಮ ತೂಕದ ಅವಶ್ಯಕತೆಗಳ ಬಗ್ಗೆ ಕೇಳಲು ಬಯಸುತ್ತೇನೆ. ನಾನು ಸುಮಾರು 260 ಪೌಂಡ್ ಆಗಿದ್ದೇನೆ - ಅದು ಸಮಸ್ಯೆಯಾಗಲಿದೆಯೇ...",
+      "pill": "ಪ್ರಶ್ನೆ",
       "pillColor": "amber"
     },
     {
       "from": "Amy & Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "ವಾರ್ಷಿಕೋತ್ಸವಕ್ಕಾಗಿ ಸೂರ್ಯಾಸ್ತದ ಸವಾರಿ?",
+      "preview": "ನಾವು ಮುಂದಿನ ವಾರಾಂತ್ಯದಲ್ಲಿ ನಮ್ಮ 10 ನೇ ವಾರ್ಷಿಕೋತ್ಸವವನ್ನು ಆಚರಿಸುತ್ತಿದ್ದೇವೆ ಮತ್ತು Instagram ನಲ್ಲಿ ನಿಮ್ಮ ಸೂರ್ಯಾಸ್ತದ ಸವಾರಿಯನ್ನು ನೋಡಿದ್ದೇವೆ. ಇದು ಶುಕ್ರವಾರ ಸಂಜೆ ಲಭ್ಯವಿದೆಯೇ? ಯಾವುದೇ ವಿಶೇಷ ಪ್ಯಾಕೇಜ್‌ಗಳು...",
+      "pill": "ಬುಕಿಂಗ್",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "ನಿಮ್ಮ ಪಟ್ಟಿಗಾಗಿ ಹೊಸ ವಿಮರ್ಶೆ",
+      "preview": "ಪ್ರಯಾಣಿಕರೊಬ್ಬರು ಇತ್ತೀಚೆಗೆ ನಿಮ್ಮ ವ್ಯಾಪಾರವನ್ನು ಪರಿಶೀಲಿಸಿದ್ದಾರೆ. ಅವರು ಏನು ಹೇಳುತ್ತಾರೆಂದು ನೋಡಿ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯಿಸಿ ...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "ಹೇ ಜೆಸ್ಸಿಕಾ! ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ 6 ಕ್ಕೆ ತೆರೆದಿರುತ್ತದೆ. ನಮ್ಮ ಟ್ರಯಲ್ ರೈಡ್‌ಗಳು $100/ವ್ಯಕ್ತಿಗೆ ಮತ್ತು ಸುಮಾರು 90 ನಿಮಿಷಗಳ ಕಾಲ ಕಣಿವೆಯ ಮೂಲಕ ಸಾಗುತ್ತವೆ. 8 ವರ್ಷಕ್ಕಿಂತ ಮೇಲ್ಪಟ್ಟ ಮಕ್ಕಳಿಗೆ ಸ್ವಾಗತ - ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಹೋಗಲು ಉತ್ತಮವಾಗಿದೆ. ಮುಚ್ಚಿದ ಟೋ ಶೂಗಳು ಅಗತ್ಯವಿದೆ, ಮತ್ತು ನಾವು ಹೆಲ್ಮೆಟ್ಗಳನ್ನು ಒದಗಿಸುತ್ತೇವೆ. 9 AM ರೈಡ್‌ಗಾಗಿ ನಾನು ನಿಮ್ಮನ್ನು ಬುಕ್ ಮಾಡಲು ಬಯಸುವಿರಾ?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "ಸವಾರಿ",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "ಒಂದು ಉಳಿಸಿದ ಗುಂಪು ಸವಾರಿಯು ಎರಡು ವರ್ಷಗಳ ಡ್ಯುಯೆಟ್‌ಗೆ ಪಾವತಿಸುತ್ತದೆ."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet ಪ್ರತಿ ಇಮೇಲ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಟ್ಯಾಗ್ ಮಾಡುತ್ತದೆ ಆದ್ದರಿಂದ ನೀವು ಮೊದಲು ಬುಕಿಂಗ್ ವಿನಂತಿಗಳನ್ನು ನೋಡುತ್ತೀರಿ, ರೈಡರ್ ಪ್ರಶ್ನೆಗಳು ಎರಡನೆಯದಾಗಿ ಮತ್ತು ಶಬ್ದ ಎಂದಿಗೂ. TripAdvisor ಎಚ್ಚರಿಕೆಗಳ ಅಡಿಯಲ್ಲಿ ಸಮಾಧಿ ಮಾಡಿದ ಗುಂಪು ವಿಚಾರಣೆಯನ್ನು ಇನ್ನು ಮುಂದೆ ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ.",
+  "draftSubtitle": "Duet ನಿಮ್ಮ ರೈಡ್ ಪ್ರಕಾರಗಳು, ಬೆಲೆ ಮತ್ತು ಅವಶ್ಯಕತೆಗಳನ್ನು ಕಲಿಯುತ್ತದೆ. ಬುಕಿಂಗ್ ವಿಚಾರಣೆಯು ಹೊಡೆದಾಗ, ಇದು ಟ್ರಯಲ್ ವಿವರಗಳು, ಬೆಲೆ ಮತ್ತು ಏನು ಧರಿಸಬೇಕು ಎಂಬ ಸಂಪೂರ್ಣ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸುತ್ತದೆ. ನೀವು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಕಳುಹಿಸಿ.",
+  "agentSubtitle": "\"ಈ ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವುದೇ ಸವಾರಿಗಳು ತೆರೆದಿವೆಯೇ?\" \"ಶನಿವಾರದ ಲಭ್ಯತೆಯೊಂದಿಗೆ ಜೆಸ್ಸಿಕಾಗೆ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸಿ.\" Duet ಗೆ ನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್ ಮತ್ತು ಕ್ಯಾಲೆಂಡರ್ ತಿಳಿದಿದೆ - ಕೇಳಿ.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "6 ಕ್ಕೆ ಗುಂಪು ಬುಕಿಂಗ್ — ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ?",
+      "preview": "ನಾವು 6 ಜನರ ಕುಟುಂಬವು ಟ್ರಯಲ್ ರೈಡ್ ಅನ್ನು ಬುಕ್ ಮಾಡಲು ನೋಡುತ್ತಿದ್ದೇವೆ...",
+      "pill": "ಈಗ ಪ್ರತಿಕ್ರಿಯಿಸಿ",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "ಮರು: ಸೂರ್ಯಾಸ್ತದ ಸವಾರಿ ದೃಢೀಕರಿಸಲ್ಪಟ್ಟಿದೆ — ಶುಕ್ರವಾರ 5:30 PM",
+      "pill": "ಬುಕ್ ಮಾಡಲಾಗಿದೆ",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "ತೂಕ ಮಿತಿ ಮತ್ತು ಅನುಭವದ ಅವಶ್ಯಕತೆಗಳು?",
+      "pill": "ಪ್ರಶ್ನೆ",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "ನಿಮ್ಮ ಸಾಪ್ತಾಹಿಕ ಬುಕಿಂಗ್ ಸಾರಾಂಶ",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Tractor Supply",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "ಸ್ಪ್ರಿಂಗ್ ಸೇಲ್ - 15% ಫೀಡ್ ಮತ್ತು ಟ್ಯಾಕ್",
+      "pill": "ಪ್ರಚಾರಗಳು",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "ಮರು: 6 ಕ್ಕೆ ಗುಂಪು ಬುಕಿಂಗ್ — ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ?",
+    "originalFrom": "ಜೆಸ್ಸಿಕಾ T. ಬರೆದರು:",
+    "originalText": "ನಮಸ್ತೆ! ನಾವು 6 (2 ವಯಸ್ಕರು, 4 ಮಕ್ಕಳು ವಯಸ್ಸಿನ 8-14) ಕುಟುಂಬವಾಗಿದ್ದೇವೆ ಮತ್ತು ಈ ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ ಟ್ರಯಲ್ ರೈಡ್ ಅನ್ನು ಬುಕ್ ಮಾಡಲು ಇಷ್ಟಪಡುತ್ತೇವೆ. ನಿಮ್ಮಲ್ಲಿ ಲಭ್ಯತೆ ಇದೆಯೇ? ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ಬೆಲೆ ಎಷ್ಟು?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "ಹೇ ಜೆಸ್ಸಿಕಾ!",
+      "ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ 6 ಕ್ಕೆ ವಿಶಾಲವಾಗಿ ತೆರೆದಿರುತ್ತದೆ. ಟ್ರಯಲ್ ರೈಡ್‌ಗಳು $100/ವ್ಯಕ್ತಿಗೆ ಮತ್ತು ಕಣಿವೆಯ ಮೂಲಕ ಸುಮಾರು 90 ನಿಮಿಷಗಳವರೆಗೆ ಚಲಿಸುತ್ತವೆ. 8 ಮತ್ತು ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ವಯಸ್ಸಿನ ಮಕ್ಕಳಿಗೆ ಸ್ವಾಗತ, ಆದ್ದರಿಂದ ನಿಮ್ಮ ಇಡೀ ಸಿಬ್ಬಂದಿ ಹೋಗಲು ಉತ್ತಮವಾಗಿದೆ.",
+      "ಮುಚ್ಚಿದ ಬೂಟುಗಳು ಅಗತ್ಯವಿದೆ - ಬೂಟುಗಳು ಉತ್ತಮವಾಗಿವೆ. ನಾವು ಹೆಲ್ಮೆಟ್‌ಗಳನ್ನು ಒದಗಿಸುತ್ತೇವೆ ಮತ್ತು ಗಾತ್ರ ಮತ್ತು ಅನುಭವದ ಆಧಾರದ ಮೇಲೆ ಪ್ರತಿ ಸವಾರನನ್ನು ಕುದುರೆಗೆ ಹೊಂದಿಸುತ್ತೇವೆ. ಯಾವುದೇ ಪೂರ್ವ ಸವಾರಿ ಅನುಭವದ ಅಗತ್ಯವಿಲ್ಲ.",
+      "ನಾನು 9 AM ರೈಡ್‌ಗಾಗಿ ನಿಮ್ಮನ್ನು ಲಾಕ್ ಮಾಡಬೇಕೆ?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ 6 ಕ್ಕೆ ವಿಶಾಲವಾಗಿ ತೆರೆದಿರುತ್ತದೆ. ಟ್ರಯಲ್ ರೈಡ್‌ಗಳು $100/ವ್ಯಕ್ತಿ",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "ನಿಮ್ಮ ಬೆಲೆ ಮತ್ತು ಲಭ್ಯತೆಯನ್ನು ತಿಳಿದಿದೆ",
+      "ನಿಮ್ಮ ಧ್ವನಿಯಲ್ಲಿ ಕರಡುಗಳು",
+      "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ರೈಡರ್ ಅವಶ್ಯಕತೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ",
+      "ಕಾಲಾಂತರದಲ್ಲಿ ಕಲಿಯುತ್ತಾನೆ"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "ಈ ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವುದೇ ಸವಾರಿಗಳು ತೆರೆದಿವೆಯೇ? ಅಲ್ಲದೆ, ಹವಾಮಾನ ಹೇಗಿದೆ?",
+    "agentResponse": "ನಿಮ್ಮ ಕ್ಯಾಲೆಂಡರ್ ಅನ್ನು ಆಧರಿಸಿ, ನೀವು ಶನಿವಾರ ಬೆಳಗ್ಗೆ 9 ಮತ್ತು ಮಧ್ಯಾಹ್ನ 2 ಗಂಟೆಗೆ ಮತ್ತು ಭಾನುವಾರ ಬೆಳಗ್ಗೆ 10 ಗಂಟೆಗೆ ತೆರೆಯುವಿರಿ. ಶನಿವಾರದ ಮುನ್ಸೂಚನೆಯು 72°F ಮತ್ತು ಬಿಸಿಲು - ಪರಿಪೂರ್ಣ ಸವಾರಿ ಹವಾಮಾನ. ಭಾನುವಾರ ಮಧ್ಯಾಹ್ನದ ಮಳೆಯ 40% ಸಾಧ್ಯತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಬೆಳಗಿನ ಸ್ಲಾಟ್ ಸುರಕ್ಷಿತ ಪಂತವಾಗಿದೆ. ಈ ಸಮಯಗಳೊಂದಿಗೆ ಯಾವುದೇ ಬಾಕಿ ಇರುವ ವಿಚಾರಣೆಗಳಿಗೆ ನಾನು ಕರಡು ಉತ್ತರಗಳನ್ನು ಬರೆಯಲು ಬಯಸುವಿರಾ?",
+    "followUp": "ಶನಿವಾರದ ಲಭ್ಯತೆಯೊಂದಿಗೆ ಜೆಸ್ಸಿಕಾಗೆ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸಿ",
+    "followUpResponse": "ಮುಗಿದಿದೆ! ನಾನು ಜೆಸ್ಸಿಕಾಗೆ ಶನಿವಾರ ಬೆಳಗ್ಗೆ 9 ಗಂಟೆಗೆ 6 ಸವಾರರಿಗೆ $100/ವ್ಯಕ್ತಿಗೆ ದೃಢೀಕರಿಸುವ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸಿದ್ದೇನೆ. ಇದು ನಿಮ್ಮ ಸ್ಟ್ಯಾಂಡರ್ಡ್ ರೈಡರ್ ಅವಶ್ಯಕತೆಗಳನ್ನು ಮತ್ತು ಏನು ಧರಿಸಬೇಕೆಂದು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಕಳುಹಿಸಲು ಸಿದ್ಧವಾಗಿದೆ."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "ಟ್ರಯಲ್ ರೈಡ್ ನಿರ್ವಾಹಕರು ಪ್ರೀತಿಸುತ್ತಾರೆ",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "ರಾಂಚ್ ಮಾಲೀಕರು ಮತ್ತು ಟ್ರಯಲ್ ಗೈಡ್, MT",
+      "quote": "ಯಾವುದೇ ಸೆಲ್ ಸೇವೆಯಿಲ್ಲದೆ ನಾನು ದಿನಕ್ಕೆ 6 ಗಂಟೆಗಳ ಕಾಲ ಟ್ರಯಲ್‌ನಲ್ಲಿದ್ದೇನೆ. ನಾನು ಉತ್ತರಿಸಲು ಹಿಂತಿರುಗುವ ಹೊತ್ತಿಗೆ ಅರ್ಧದಷ್ಟು ಜನರು ಬೇರೆಡೆ ಬುಕ್ ಮಾಡಿದ್ದರು. ಈಗ Duet ನನ್ನ ಬೆಲೆ ಮತ್ತು ರೈಡ್ ವಿವರಗಳೊಂದಿಗೆ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಡ್ರಾಫ್ಟ್ ಮಾಡುತ್ತದೆ - ನಾನು ಬಾರ್ನ್‌ಗೆ ಹಿಂತಿರುಗಿದಾಗ ನಾನು ಪರಿಶೀಲಿಸುತ್ತೇನೆ ಮತ್ತು ಕಳುಹಿಸುತ್ತೇನೆ.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "title": "ಹಾರ್ಸ್ಬ್ಯಾಕ್ ಟೂರ್ ಆಪರೇಟರ್, AZ",
+      "quote": "ತೂಕದ ಮಿತಿಗಳು, ಏನು ಧರಿಸಬೇಕು, ವಯಸ್ಸಿನ ಅವಶ್ಯಕತೆಗಳು - ಒಂದೇ ವಿಷಯವನ್ನು ಕೇಳುವ ಡಜನ್ಗಟ್ಟಲೆ ಇಮೇಲ್‌ಗಳನ್ನು ನಾವು ಪಡೆಯುತ್ತೇವೆ. Duet ಎಲ್ಲವನ್ನೂ ನಿಭಾಯಿಸುತ್ತದೆ ಮತ್ತು ಪ್ರತ್ಯುತ್ತರಗಳು ನನ್ನಂತೆಯೇ ಧ್ವನಿಸುತ್ತದೆ. ನನ್ನ ಅತಿಥಿಗಳಿಗೆ ಇದು AI ಎಂದು ತಿಳಿದಿರುವುದಿಲ್ಲ.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "ಟ್ರಯಲ್ ರೈಡ್ ಗೈಡ್, CO",
+      "quote": "ಪೀಕ್ ಸೀಸನ್ ನನ್ನನ್ನು ಕೊಲ್ಲುತ್ತಿತ್ತು. ಚಾಲನೆಯಲ್ಲಿರುವ ರೈಡ್‌ಗಳ ಮೇಲೆ ದಿನಕ್ಕೆ 30+ ಇಮೇಲ್‌ಗಳು. Duet ಶಬ್ದದಿಂದ ಬುಕಿಂಗ್ ವಿನಂತಿಗಳನ್ನು ವಿಂಗಡಿಸುತ್ತದೆ ಮತ್ತು ಡ್ರಾಫ್ಟ್ ಪ್ರತ್ಯುತ್ತರಗಳು ಎಲ್ಲವನ್ನೂ ಒಳಗೊಂಡಿರುತ್ತದೆ - ಬೆಲೆ, ಏನು ತರಬೇಕು, ಬಹಳಷ್ಟು. ನಾನು ನನ್ನ ಸಂಜೆಯನ್ನು ಮರಳಿ ಪಡೆದಿದ್ದೇನೆ.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "ರೈಡಿಂಗ್ ಬೋಧಕ ಮತ್ತು ಬುಕಿಂಗ್ ಮ್ಯಾನೇಜರ್, TX",
+      "quote": "ನಾವು ಸೂರ್ಯಾಸ್ತದ ಸವಾರಿಗಳು, ಬೆಳಗಿನ ಸವಾರಿಗಳು ಮತ್ತು ಖಾಸಗಿ ಪಾಠಗಳನ್ನು ನಡೆಸುತ್ತೇವೆ - ಪ್ರತಿಯೊಂದೂ ವಿಭಿನ್ನ ಬೆಲೆಗಳು ಮತ್ತು ಅವಶ್ಯಕತೆಗಳೊಂದಿಗೆ. Duet ಒಂದು ವಾರದಲ್ಲಿ ಎಲ್ಲವನ್ನೂ ಕಲಿತಿದೆ. ಇದು ಪ್ರತಿ ಬಾರಿ ಸರಿಯಾದ ರೈಡ್ ಪ್ರಕಾರಕ್ಕೆ ಸರಿಯಾದ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸುತ್ತದೆ.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "title": "ಫ್ಯಾಮಿಲಿ ರಾಂಚ್ ಮತ್ತು ಟ್ರಯಲ್ ರೈಡ್ಸ್, CA",
+      "quote": "ಸಂವೇದನಾಶೀಲ ಇಮೇಲ್‌ಗಳು ಅತ್ಯಂತ ಕೆಟ್ಟದಾಗಿದೆ - ಯಾರಾದರೂ ಅವರು ತುಂಬಾ ಭಾರವಾಗಿದ್ದಾರೆಯೇ ಅಥವಾ ಅವರ ಮಗುವಿಗೆ ಸಾಕಷ್ಟು ವಯಸ್ಸಾಗಿದೆಯೇ ಎಂದು ಕೇಳುತ್ತಾರೆ. Duet ನಾನು ಮಾಡುವ ಅದೇ ಕಾಳಜಿಯನ್ನು ಹೊಂದಿರುವವರನ್ನು ನಿಭಾಯಿಸುತ್ತದೆ. ವೃತ್ತಿಪರ, ರೀತಿಯ ಮತ್ತು ನಿಖರ. ಅದು ಮಾತ್ರ ಯೋಗ್ಯವಾಗಿದೆ.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ಕುದುರೆಗಳೊಂದಿಗೆ ದಿನ ಕಳೆಯಿರಿ,\nನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಇಲ್ಲ.",
+  "ctaSubline": "ನಿಮ್ಮ ಉಚಿತ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಿ. 30 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "ತೂಕ ಅಥವಾ ಅನುಭವದ ಅವಶ್ಯಕತೆಗಳ ಕುರಿತು ಸೂಕ್ಷ್ಮ ಪ್ರಶ್ನೆಗಳನ್ನು Duet ಹೇಗೆ ನಿರ್ವಹಿಸುತ್ತದೆ?",
+      "answer": "Duet ನಿಮ್ಮ ನಿರ್ದಿಷ್ಟ ನೀತಿಗಳನ್ನು ಕಲಿಯುತ್ತದೆ ಮತ್ತು ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ತೂಕದ ಮಿತಿಗಳು ಅಥವಾ ಅನುಭವದ ಅವಶ್ಯಕತೆಗಳ ಬಗ್ಗೆ ಯಾರಾದರೂ ಕೇಳಿದಾಗ, ಅದು ವೃತ್ತಿಪರವಾಗಿ ಮತ್ತು ಉತ್ಸಾಹದಿಂದ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತದೆ - ಅವರಿಗೆ ಅಗತ್ಯವಿರುವ ಮಾಹಿತಿಯನ್ನು ವಿಚಿತ್ರವಾಗಿ ಮಾಡದೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ. ನೀವು ಟೋನ್ ಅನ್ನು ಒಮ್ಮೆ ಹೊಂದಿಸಿ ಮತ್ತು Duet ಅದನ್ನು ಸ್ಥಿರವಾಗಿ ಅನುಸರಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಪ್ರತಿ ಅತಿಥಿಯು ಗೌರವಾನ್ವಿತ ಭಾವನೆಯನ್ನು ಅನುಭವಿಸುತ್ತದೆ."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Duet ವಿಭಿನ್ನ ರೈಡರ್ ಅಗತ್ಯಗಳೊಂದಿಗೆ ಗುಂಪು ಬುಕಿಂಗ್ ಅನ್ನು ನಿಭಾಯಿಸಬಹುದೇ?",
+      "answer": "ಹೌದು. Duet ನಿಮ್ಮ ರೈಡ್ ಪ್ರಕಾರಗಳು, ಗುಂಪಿನ ಗಾತ್ರಗಳು, ವಯಸ್ಸಿನ ಕನಿಷ್ಠ ಮತ್ತು ಯಾವುದೇ ರೈಡರ್-ನಿರ್ದಿಷ್ಟ ಅವಶ್ಯಕತೆಗಳನ್ನು ಕಲಿಯುತ್ತದೆ. ಬುಕಿಂಗ್ ಕುರಿತು ಕುಟುಂಬ ಅಥವಾ ಗುಂಪು ಇಮೇಲ್ ಮಾಡಿದಾಗ, ಅದು ಪೂರ್ಣ ಗುಂಪಿನ ಬೆಲೆ, ಪ್ರತಿ ಸವಾರನು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದದ್ದು ಮತ್ತು ಲಭ್ಯವಿರುವ ಸಮಯದ ಸ್ಲಾಟ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸುತ್ತದೆ. ನೀವು ವಿಮರ್ಶಿಸಿ ಮತ್ತು ಕಳುಹಿಸಿ - ಹಿಂದೆ-ಮುಂದೆ ಅಗತ್ಯವಿಲ್ಲ."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "6 ಜನರ ಗುಂಪಿಗೆ $100/ವ್ಯಕ್ತಿಗೆ, ಒಂದು ಉಳಿಸಿದ ರೈಡ್ ಎರಡು ವರ್ಷಗಳ ಪ್ರೊಗೆ ಪಾವತಿಸುತ್ತದೆ."
 }

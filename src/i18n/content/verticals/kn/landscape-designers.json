@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ landscape designers",
-  "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್ ಡಿಸೈನರ್‌ಗಳಿಗಾಗಿ Duet Mail | AI ಇಮೇಲ್ ಸಹಾಯಕ",
+  "metaDescription": "Duet Mail ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್ ವಿನ್ಯಾಸಕರು ಕ್ಲೈಂಟ್ ಇಮೇಲ್‌ಗಳಿಗೆ ತಕ್ಷಣವೇ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ - ಕ್ಷೇತ್ರದಿಂದ ಕೂಡ. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ವಿವರಗಳು, ಬೆಲೆ ಮತ್ತು ಧ್ವನಿಯೊಂದಿಗೆ AI- ಕರಡು ಪ್ರತ್ಯುತ್ತರಗಳು.",
+  "heroBadge": "300+ ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್ ವಿನ್ಯಾಸಕರು ನಂಬಿದ್ದಾರೆ",
+  "heroHeadline": "ನೀವು ಕ್ಷೇತ್ರದಲ್ಲಿ ಇರುವಾಗ ನಿಮ್ಮ ಇಮೇಲ್ ಸಹಾಯಕ",
+  "heroSubline": "Duet ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ವಿವರಗಳು, ಪ್ಲಾಂಟ್ ಪ್ಯಾಲೆಟ್‌ಗಳು, ಬೆಲೆ ಮತ್ತು ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕಲಿಯುತ್ತದೆ - ನಂತರ ಇಮೇಲ್ ಪ್ರತ್ಯುತ್ತರಗಳನ್ನು ಡ್ರಾಫ್ಟ್ ಮಾಡುತ್ತದೆ ಆದ್ದರಿಂದ ನೀವು ನಿಧಾನ ಪ್ರತಿಕ್ರಿಯೆಗೆ ಕ್ಲೈಂಟ್ ಅನ್ನು ಎಂದಿಗೂ ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
-      "pill": "To Respond",
+      "subject": "ಹಿಂಭಾಗದ ಮರುವಿನ್ಯಾಸ — ಸಮಾಲೋಚನೆಗಾಗಿ ಉಚಿತವೇ?",
+      "preview": "ನಮಸ್ತೆ! ನಾವು ವೆಸ್ಟ್‌ಲೇಕ್‌ನಲ್ಲಿ ಮನೆಯನ್ನು ಖರೀದಿಸಿದ್ದೇವೆ ಮತ್ತು ಹಿತ್ತಲಿನಲ್ಲಿ ಖಾಲಿ ಸ್ಲೇಟ್ ಆಗಿದೆ. ಸ್ಥಳೀಯ ನೆಡುವಿಕೆ ಮತ್ತು ಒಳಾಂಗಣದೊಂದಿಗೆ ಪೂರ್ಣ ಮರುವಿನ್ಯಾಸವನ್ನು ನಾವು ಇಷ್ಟಪಡುತ್ತೇವೆ. ನೀವು ಹೊಸ ಗ್ರಾಹಕರನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
+      "pill": "ಪ್ರತಿಕ್ರಿಯಿಸಲು",
       "pillColor": "red"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "preview": "Hey, we're ready to start trenching on Monday. Can you send over the irrigation layout and head specs so we can order materials this week?",
-      "pill": "Contractor",
+      "subject": "ಮಿಲ್ಲರ್ ಯೋಜನೆಗೆ ನೀರಾವರಿ ಸ್ಪೆಕ್ಸ್?",
+      "preview": "ಹೇ, ನಾವು ಸೋಮವಾರ ಕಂದಕವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಿದ್ಧರಿದ್ದೇವೆ. ನೀರಾವರಿ ಲೇಔಟ್ ಮತ್ತು ಹೆಡ್ ಸ್ಪೆಕ್ಸ್ ಅನ್ನು ನೀವು ಕಳುಹಿಸಬಹುದೇ, ಆದ್ದರಿಂದ ನಾವು ಈ ವಾರ ವಸ್ತುಗಳನ್ನು ಆರ್ಡರ್ ಮಾಡಬಹುದು?",
+      "pill": "ಗುತ್ತಿಗೆದಾರ",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Quick question about the plant selections",
-      "preview": "We love the design! Just wondering — can we swap the Japanese maple for something with more fall color? Also, is the lavender deer-resistant?",
-      "pill": "Client",
+      "subject": "ಸಸ್ಯ ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ತ್ವರಿತ ಪ್ರಶ್ನೆ",
+      "preview": "ನಾವು ವಿನ್ಯಾಸವನ್ನು ಪ್ರೀತಿಸುತ್ತೇವೆ! ಕೇವಲ ಆಶ್ಚರ್ಯವಾಗುತ್ತಿದೆ - ಹೆಚ್ಚು ಪತನದ ಬಣ್ಣದೊಂದಿಗೆ ನಾವು ಜಪಾನಿನ ಮೇಪಲ್ ಅನ್ನು ಬದಲಾಯಿಸಬಹುದೇ? ಅಲ್ಲದೆ, ಲ್ಯಾವೆಂಡರ್ ಜಿಂಕೆ-ನಿರೋಧಕವಾಗಿದೆಯೇ?",
+      "pill": "ಗ್ರಾಹಕ",
       "pillColor": "blue"
     },
     {
       "from": "Valley View Nursery",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "preview": "Your order of 24 gallon shrubs, 6 specimen trees, and ground cover flats is ready. Pickup available Mon–Sat 7AM–4PM...",
-      "pill": "Supplier",
+      "subject": "ಆರ್ಡರ್ #4821 ಪಿಕಪ್‌ಗೆ ಸಿದ್ಧವಾಗಿದೆ",
+      "preview": "24 ಗ್ಯಾಲನ್ ಪೊದೆಗಳು, 6 ಮಾದರಿ ಮರಗಳು ಮತ್ತು ನೆಲದ ಕವರ್ ಫ್ಲಾಟ್‌ಗಳ ನಿಮ್ಮ ಆರ್ಡರ್ ಸಿದ್ಧವಾಗಿದೆ. ಪಿಕಪ್ ಲಭ್ಯವಿದೆ ಸೋಮ-ಶನಿ 7AM-4PM...",
+      "pill": "ಪೂರೈಕೆದಾರ",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+  "autodraft": "ಹಾಯ್ ರಾಚೆಲ್! ನಿಮ್ಮ ಹಿತ್ತಲಿನಲ್ಲಿ ಸಹಾಯ ಮಾಡಲು ನಾನು ಇಷ್ಟಪಡುತ್ತೇನೆ. ನಾನು ಪ್ರಸ್ತುತ 2-3 ವಾರಗಳಲ್ಲಿ ಆರಂಭಿಕ ಸಮಾಲೋಚನೆಗಳನ್ನು ಕಾಯ್ದಿರಿಸುತ್ತಿದ್ದೇನೆ. ಮೊದಲ ಭೇಟಿಯು 90 ನಿಮಿಷಗಳ ಆನ್-ಸೈಟ್ ಮೌಲ್ಯಮಾಪನವಾಗಿದೆ - ನಾನು ಆಸ್ತಿಯನ್ನು ನಡೆಸುತ್ತೇನೆ, ಅಳತೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇನೆ ಮತ್ತು ನಿಮ್ಮ ದೃಷ್ಟಿಯನ್ನು ಚರ್ಚಿಸುತ್ತೇನೆ. ಅಲ್ಲಿಂದ ನಾನು ಒಂದು ಪರಿಕಲ್ಪನೆಯ ಯೋಜನೆ ಹಾಕಿದೆ. ನಾನು ನಿಮ್ಮನ್ನು ಕ್ಯಾಲೆಂಡರ್‌ನಲ್ಲಿ ಸೇರಿಸಲು ಬಯಸುವಿರಾ?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "project",
+    "bookingUnit": "ಯೋಜನೆ",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Duet."
+    "punchline": "ಒಂದು ಉಳಿಸಿದ ಯೋಜನೆಯು ಡ್ಯುಯೆಟ್ ವರ್ಷಗಳವರೆಗೆ ಪಾವತಿಸುತ್ತದೆ."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+  "categorizationSubtitle": "Duet ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರತಿ ಇಮೇಲ್ ಅನ್ನು ಟ್ಯಾಗ್ ಮಾಡುತ್ತದೆ ಆದ್ದರಿಂದ ನೀವು ಮೊದಲು ಹೊಸ ಸಮಾಲೋಚನೆ ವಿನಂತಿಗಳನ್ನು ನೋಡುತ್ತೀರಿ, ಕ್ಲೈಂಟ್ ಅನುಮೋದನೆಗಳು ಎರಡನೆಯದಾಗಿ ಮತ್ತು ಪೂರೈಕೆದಾರರ ಶಬ್ದ ಎಂದಿಗೂ ಕಾಣಿಸುವುದಿಲ್ಲ. ನರ್ಸರಿ ಆರ್ಡರ್ ದೃಢೀಕರಣಗಳ ಅಡಿಯಲ್ಲಿ ಹೂತುಹೋಗಿರುವ ಸೀಸವನ್ನು ಇನ್ನು ಮುಂದೆ ಕಾಣೆಯಾಗಿದೆ.",
+  "draftSubtitle": "Duet ನಿಮ್ಮ ಬೆಲೆ, ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಟೋನ್ ಅನ್ನು ಕಲಿಯುತ್ತದೆ. ಸಮಾಲೋಚನೆಯ ವಿನಂತಿಯು ಹೊಡೆದಾಗ, ಅದು ನಿಮ್ಮ ಲಭ್ಯತೆ, ಏನನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು ಮತ್ತು ಮುಂದಿನ ಹಂತಗಳೊಂದಿಗೆ ಸಂಪೂರ್ಣ ಪ್ರತ್ಯುತ್ತರವನ್ನು ರಚಿಸುತ್ತದೆ. ನೀವು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಕಳುಹಿಸಿ.",
+  "agentSubtitle": "\"ಹೆಂಡರ್ಸನ್ ಯೋಜನೆಯಲ್ಲಿ ಟೈಮ್‌ಲೈನ್ ಏನು?\" \"ಯಾವ ಗ್ರಾಹಕರು ಯೋಜನೆಯ ಅನುಮೋದನೆಗಾಗಿ ಕಾಯುತ್ತಿದ್ದಾರೆ?\" Duet ನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್ ಮತ್ತು ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ತಿಳಿದಿದೆ - ಕೇಳಿ.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "We just bought a home and the backyard is a blank slate...",
-      "pill": "New Inquiry",
+      "subject": "ಹಿಂಭಾಗದ ಮರುವಿನ್ಯಾಸ — ಸಮಾಲೋಚನೆಗಾಗಿ ಉಚಿತವೇ?",
+      "preview": "ನಾವು ಈಗಷ್ಟೇ ಮನೆಯನ್ನು ಖರೀದಿಸಿದ್ದೇವೆ ಮತ್ತು ಹಿತ್ತಲು ಖಾಲಿ ಸ್ಲೇಟ್ ಆಗಿದೆ...",
+      "pill": "ಹೊಸ ವಿಚಾರಣೆ",
       "pillColor": "red"
     },
     {
       "from": "Jennifer L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Re: Final design — we're ready to approve!",
-      "pill": "Client Approval",
+      "subject": "ಮರು: ಅಂತಿಮ ವಿನ್ಯಾಸ — ನಾವು ಅನುಮೋದಿಸಲು ಸಿದ್ಧರಿದ್ದೇವೆ!",
+      "pill": "ಗ್ರಾಹಕರ ಅನುಮೋದನೆ",
       "pillColor": "blue"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "pill": "Contractor",
+      "subject": "ಮಿಲ್ಲರ್ ಯೋಜನೆಗೆ ನೀರಾವರಿ ಸ್ಪೆಕ್ಸ್?",
+      "pill": "ಗುತ್ತಿಗೆದಾರ",
       "pillColor": "amber"
     },
     {
       "from": "Valley View Nursery",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "pill": "Supplier",
+      "subject": "ಆರ್ಡರ್ #4821 ಪಿಕಪ್‌ಗೆ ಸಿದ್ಧವಾಗಿದೆ",
+      "pill": "ಪೂರೈಕೆದಾರ",
       "pillColor": "lavender"
     },
     {
       "from": "QuickBooks",
       "avatarLetter": "Q",
       "avatarColor": "lavender",
-      "subject": "Invoice #1047 viewed by client",
-      "pill": "Invoice",
+      "subject": "ಸರಕುಪಟ್ಟಿ #1047 ಅನ್ನು ಕ್ಲೈಂಟ್ ವೀಕ್ಷಿಸಿದ್ದಾರೆ",
+      "pill": "ಸರಕುಪಟ್ಟಿ",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Backyard redesign — free for a consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "subject": "ಮರು: ಹಿಂಭಾಗದ ಮರುವಿನ್ಯಾಸ — ಸಮಾಲೋಚನೆಗಾಗಿ ಉಚಿತವೇ?",
+    "originalFrom": "ರಾಚೆಲ್ ಟಿ. ಬರೆದರು:",
+    "originalText": "ನಮಸ್ತೆ! ನಾವು ವೆಸ್ಟ್‌ಲೇಕ್‌ನಲ್ಲಿ ಮನೆಯನ್ನು ಖರೀದಿಸಿದ್ದೇವೆ ಮತ್ತು ಹಿತ್ತಲಿನಲ್ಲಿ ಖಾಲಿ ಸ್ಲೇಟ್ ಆಗಿದೆ. ಸ್ಥಳೀಯ ನೆಡುವಿಕೆ ಮತ್ತು ಒಳಾಂಗಣದೊಂದಿಗೆ ಪೂರ್ಣ ಮರುವಿನ್ಯಾಸವನ್ನು ನಾವು ಇಷ್ಟಪಡುತ್ತೇವೆ. ನೀವು ಹೊಸ ಗ್ರಾಹಕರನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
     "lines": [
-      "Hi Rachel!",
-      "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
-      "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
-      "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
+      "ಹಾಯ್ ರಾಚೆಲ್!",
+      "ಹೊಸ ಮನೆಗೆ ಅಭಿನಂದನೆಗಳು — ಒಂದು ಖಾಲಿ ಸ್ಲೇಟ್ ಹಿತ್ತಲಿನಲ್ಲಿ ಪ್ರಾಮಾಣಿಕವಾಗಿ ಕನಸಿನ ಯೋಜನೆಯಾಗಿದೆ. ನಾನು ಸಂಪೂರ್ಣವಾಗಿ ಹೊಸ ಗ್ರಾಹಕರನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ.",
+      "ನನ್ನ ಪ್ರಕ್ರಿಯೆಯು 90 ನಿಮಿಷಗಳ ಆನ್-ಸೈಟ್ ಸಮಾಲೋಚನೆಯೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ, ಅಲ್ಲಿ ನಾನು ಆಸ್ತಿಯನ್ನು ನಡೆಸುತ್ತೇನೆ, ಅಳತೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇನೆ ಮತ್ತು ನಿಮ್ಮ ಗುರಿಗಳ ಮೂಲಕ ಮಾತನಾಡುತ್ತೇನೆ. ಅಲ್ಲಿಂದ ನಾನು ನೆಟ್ಟ ವಿನ್ಯಾಸ, ಹಾರ್ಡ್‌ಸ್ಕೇಪ್ ವಿನ್ಯಾಸ ಮತ್ತು ಹಂತ ಹಂತದ ಬಜೆಟ್‌ನೊಂದಿಗೆ ಪರಿಕಲ್ಪನೆಯ ಯೋಜನೆಯನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತೇನೆ.",
+      "ಮುಂದಿನ 2-3 ವಾರಗಳಲ್ಲಿ ನಾನು ತೆರೆಯುವಿಕೆಯನ್ನು ಹೊಂದಿದ್ದೇನೆ. ಲಭ್ಯವಿರುವ ಕೆಲವು ದಿನಾಂಕಗಳನ್ನು ನಾನು ಕಳುಹಿಸಲು ಬಯಸುವಿರಾ?"
     ],
-    "highlightText": "My process starts with a 90-minute on-site consultation",
+    "highlightText": "ನನ್ನ ಪ್ರಕ್ರಿಯೆಯು 90 ನಿಮಿಷಗಳ ಆನ್-ಸೈಟ್ ಸಮಾಲೋಚನೆಯೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ",
     "tooltipFeatures": [
-      "Knows your design process & pricing",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "ನಿಮ್ಮ ವಿನ್ಯಾಸ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಬೆಲೆಯನ್ನು ತಿಳಿದಿದೆ",
+      "ನಿಮ್ಮ ಧ್ವನಿಯಲ್ಲಿ ಕರಡುಗಳು",
+      "ಸಮಾಲೋಚನೆ ವಿವರಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಳಗೊಂಡಿದೆ",
+      "ಕಾಲಾಂತರದಲ್ಲಿ ಕಲಿಯುತ್ತಾನೆ"
     ]
   },
   "agent": {
-    "userMessage": "Which clients are still waiting on plan approval?",
-    "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
-    "followUp": "Draft a follow-up to Jennifer about the plan approval",
-    "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
+    "userMessage": "ಯಾವ ಗ್ರಾಹಕರು ಇನ್ನೂ ಯೋಜನೆಯ ಅನುಮೋದನೆಗಾಗಿ ಕಾಯುತ್ತಿದ್ದಾರೆ?",
+    "agentResponse": "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಇಮೇಲ್‌ಗಳನ್ನು ಆಧರಿಸಿ, ಇಬ್ಬರು ಕ್ಲೈಂಟ್‌ಗಳು ಅನುಮೋದನೆಗೆ ಬಾಕಿ ಉಳಿದಿವೆ: ಜೆನ್ನಿಫರ್ ಮತ್ತು ಮಾರ್ಕ್ ಎಲ್. (ಹಿತ್ತಲಿನ ಮರುವಿನ್ಯಾಸ - ಅಂತಿಮ ಯೋಜನೆಗಳನ್ನು 4 ದಿನಗಳ ಹಿಂದೆ ಕಳುಹಿಸಲಾಗಿದೆ, ಇನ್ನೂ ಉತ್ತರವಿಲ್ಲ) ಮತ್ತು ಕೋಹೆನ್ಸ್ (ಮುಂಭಾಗದ ಅಂಗಳ ಸ್ಥಳೀಯ ಪರಿವರ್ತನೆ - ಕಳೆದ ವಾರ ಪರಿಷ್ಕೃತ ಯೋಜನೆಯನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ). ಯಾವುದಾದರೂ ಒಂದು ಮೃದುವಾದ ಫಾಲೋ-ಅಪ್ ಅನ್ನು ನಾನು ರೂಪಿಸಲು ಬಯಸುವಿರಾ?",
+    "followUp": "ಯೋಜನೆಯ ಅನುಮೋದನೆಯ ಕುರಿತು ಜೆನ್ನಿಫರ್‌ಗೆ ಫಾಲೋ-ಅಪ್ ಅನ್ನು ರಚಿಸಿ",
+    "followUpResponse": "ಮುಗಿದಿದೆ! ಅಂತಿಮ ಯೋಜನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ಜೆನ್ನಿಫರ್ ಮತ್ತು ಮಾರ್ಕ್‌ಗೆ ಅವಕಾಶವಿದೆಯೇ ಎಂದು ಕೇಳಲು ನಾನು ಸ್ನೇಹಪರ ಚೆಕ್-ಇನ್ ಅನ್ನು ರಚಿಸಿದ್ದೇನೆ ಮತ್ತು ಸಸ್ಯದ ಆಯ್ಕೆಗಳ ಮೂಲಕ ನಡೆಯಲು ನೀವು ತ್ವರಿತ ಕರೆಯಲ್ಲಿ ಹಾಪ್ ಮಾಡಬಹುದು ಎಂದು ಅವರಿಗೆ ನೆನಪಿಸುತ್ತೇನೆ. ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಕಳುಹಿಸಲು ಸಿದ್ಧವಾಗಿದೆ."
   },
-  "testimonialsTitle": "Loved by landscape designers",
+  "testimonialsTitle": "ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್ ವಿನ್ಯಾಸಕರು ಪ್ರೀತಿಸುತ್ತಾರೆ",
   "testimonials": [
     {
       "name": "Michael S.",
-      "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "title": "ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್ ಆರ್ಕಿಟೆಕ್ಟ್, ಆಸ್ಟಿನ್ TX",
+      "quote": "ವಸಂತಕಾಲದಲ್ಲಿ ನಾನು ಸೈಟ್‌ನಲ್ಲಿ ದಿನಕ್ಕೆ 8 ಗಂಟೆಗಳ ಕಾಲ ಮೌಲ್ಯಮಾಪನಗಳನ್ನು ಮಾಡುತ್ತೇನೆ ಮತ್ತು ಮೇಲ್ವಿಚಾರಣೆಯನ್ನು ಸ್ಥಾಪಿಸುತ್ತೇನೆ. ಹೊಸ ಸಮಾಲೋಚನೆ ವಿನಂತಿಗಳು ದಿನಗಳವರೆಗೆ ಕುಳಿತುಕೊಳ್ಳುತ್ತವೆ. ಈಗ Duet ನನ್ನ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಲಭ್ಯತೆಯೊಂದಿಗೆ ನಿಮಿಷಗಳಲ್ಲಿ ಪ್ರತ್ಯುತ್ತರಿಸುತ್ತದೆ. ನಾನು 3 ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಬುಕ್ ಮಾಡಿದ್ದೇನೆ, ನಾನು ಖಂಡಿತವಾಗಿಯೂ ಕಳೆದುಕೊಳ್ಳುತ್ತೇನೆ.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
-      "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "title": "ಗಾರ್ಡನ್ ಡಿಸೈನರ್, ಪೋರ್ಟ್ಲ್ಯಾಂಡ್ ಅಥವಾ",
+      "quote": "ಹಾರ್ಡ್‌ಸ್ಕೇಪ್ ಸಿಬ್ಬಂದಿಗಳು, ನೀರಾವರಿ ಸ್ಥಾಪಕರು ಮತ್ತು ಕ್ಲೈಂಟ್‌ಗಳ ನಡುವಿನ ಸಮನ್ವಯವು ಅಸಂಬದ್ಧ ಪ್ರಮಾಣದ ಇಮೇಲ್ ಅನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ. Duet ಎಲ್ಲವನ್ನೂ ವಿಂಗಡಿಸುತ್ತದೆ ಮತ್ತು ಸರಿಯಾದ ಯೋಜನೆಯ ವಿವರಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಕರಡು ಪ್ರತ್ಯುತ್ತರಗಳನ್ನು ನೀಡುತ್ತದೆ. ಇದು ಸ್ಟುಡಿಯೋ ಮ್ಯಾನೇಜರ್ ಇದ್ದಂತೆ.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "title": "ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್ ಡಿಸೈನ್ ಸ್ಟುಡಿಯೋ ಮಾಲೀಕರು, ಡೆನ್ವರ್ CO",
+      "quote": "ನಾನು ಪ್ರತಿದಿನ ಸಂಜೆ ಕ್ಷೇತ್ರಕಾರ್ಯದ ನಂತರ ಇಮೇಲ್‌ಗಳನ್ನು ಹಿಡಿಯುತ್ತಿದ್ದೆ. ಅದೇ ಪ್ರಶ್ನೆಗಳು - ಬೆಲೆ, ಪ್ರಕ್ರಿಯೆ, ಟೈಮ್‌ಲೈನ್. Duet ಎಲ್ಲವನ್ನೂ ನಿಭಾಯಿಸುತ್ತದೆ. ನನ್ನ ಪ್ರತಿಕ್ರಿಯೆ ಸಮಯವು ದಿನಗಳಿಂದ ನಿಮಿಷಗಳಿಗೆ ಹೋಯಿತು ಮತ್ತು ನನ್ನ ನಿಕಟ ದರವು ಹೆಚ್ಚಾಗಿದೆ.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
-      "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "title": "ರೆಸಿಡೆನ್ಶಿಯಲ್ ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್ ಡಿಸೈನರ್, ಸ್ಕಾಟ್ಸ್‌ಡೇಲ್ AZ",
+      "quote": "ನನ್ನ ಗ್ರಾಹಕರು ಸಸ್ಯ ಆಯ್ಕೆಗಳು ಮತ್ತು ನಿರ್ವಹಣೆಯ ಬಗ್ಗೆ ಬಹಳಷ್ಟು ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುತ್ತಾರೆ. Duet ನನ್ನ ಪ್ಲಾಂಟ್ ಪ್ಯಾಲೆಟ್‌ಗಳು ಮತ್ತು ಆರೈಕೆ ಸೂಚನೆಗಳು ಮತ್ತು ಡ್ರಾಫ್ಟ್‌ಗಳ ಪ್ರತ್ಯುತ್ತರಗಳನ್ನು ನಾನು ಸಂಪಾದಿಸುವ ಅಗತ್ಯವಿಲ್ಲ ಎಂದು ಕಲಿತಿದೆ. ನಾನು ನಂಬಲಾಗದಷ್ಟು ಸ್ಪಂದಿಸುತ್ತಿದ್ದೇನೆ ಎಂದು ಗ್ರಾಹಕರು ಭಾವಿಸುತ್ತಾರೆ.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "title": "ಸ್ಥಳೀಯ ಸಸ್ಯ ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್ ಡಿಸೈನರ್, ರೇಲಿ NC",
+      "quote": "ನಾನು ಹೊಸ ಕ್ಲೈಂಟ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ ಏಕೆಂದರೆ ನಾನು ನೆಟ್ಟ ಇನ್‌ಸ್ಟಾಲ್‌ನಲ್ಲಿ ಮೊಣಕಾಲು ಆಳವಾಗಿದ್ದಾಗ ನಾನು ಉತ್ತರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. Duet ನನ್ನ ನಿಖರವಾದ ಪ್ರಕ್ರಿಯೆ, ಬೆಲೆ ಮತ್ತು ಏನನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು ಎಂಬ ಸಮಾಲೋಚನೆಯ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಕರಡು ಮಾಡುತ್ತದೆ. ಇದು ಮೊದಲ ವಾರ ಸ್ವತಃ ಪಾವತಿಸಿತು.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ಭೂದೃಶ್ಯಗಳನ್ನು ರಚಿಸಲು ನಿಮ್ಮ ದಿನಗಳನ್ನು ಕಳೆಯಿರಿ,\nಇಮೇಲ್‌ನಲ್ಲಿ ಹಿಡಿಯುತ್ತಿಲ್ಲ.",
+  "ctaSubline": "ನಿಮ್ಮ ಉಚಿತ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಿ. 30 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "ಸಮಾಲೋಚನೆಯ ವಿನಂತಿಗಳು ರಾಶಿಯಾದಾಗ Duet ಸ್ಪ್ರಿಂಗ್ ರಶ್ ಅನ್ನು ನಿಭಾಯಿಸಬಹುದೇ?",
+      "answer": "ಆಗ ನಿಖರವಾಗಿ Duet ಹೊಳೆಯುತ್ತದೆ. ನಿಮ್ಮ ಅತ್ಯಂತ ಜನನಿಬಿಡ ಋತುವಿನಲ್ಲಿ, ಪ್ರತಿ ಹೊಸ ವಿಚಾರಣೆಯು ನಿಮ್ಮ ಪ್ರಕ್ರಿಯೆ, ಟೈಮ್‌ಲೈನ್ ಮತ್ತು ಲಭ್ಯತೆಯೊಂದಿಗೆ ವೇಗವಾದ, ವಿವರವಾದ ಪ್ರತ್ಯುತ್ತರವನ್ನು ಪಡೆಯುತ್ತದೆ - ನೀವು ಇಡೀ ದಿನ ಸೈಟ್‌ನಲ್ಲಿರುವಾಗಲೂ ಸಹ. ಇನ್ನು ಸ್ಪ್ರಿಂಗ್ ಲೀಡ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ ಏಕೆಂದರೆ ರಾತ್ರಿ 9 ಗಂಟೆಯವರೆಗೆ ನೀವು ಅವುಗಳನ್ನು ಮರಳಿ ಪಡೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
-      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "ನಾನು ಅನೇಕ ಹೊರಾಂಗಣ ಸಿಬ್ಬಂದಿಗಳೊಂದಿಗೆ ಸಮನ್ವಯಗೊಳಿಸುತ್ತೇನೆ. Duet ಅದಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತದೆಯೇ?",
+      "answer": "ಹೌದು. Duet ನಿಮ್ಮ ಯೋಜನೆಗಳು ಮತ್ತು ಒಳಗೊಂಡಿರುವ ಗುತ್ತಿಗೆದಾರರನ್ನು ಕಲಿಯುತ್ತದೆ - ಹಾರ್ಡ್‌ಸ್ಕೇಪ್, ನೀರಾವರಿ, ನೆಟ್ಟ ಸಿಬ್ಬಂದಿಗಳು, ನರ್ಸರಿಗಳು. ಇದು ಗುತ್ತಿಗೆದಾರ ಇಮೇಲ್‌ಗಳನ್ನು ಕ್ಲೈಂಟ್ ಇಮೇಲ್‌ಗಳಿಂದ ಪ್ರತ್ಯೇಕವಾಗಿ ವರ್ಗೀಕರಿಸುತ್ತದೆ ಮತ್ತು ಸ್ಪೆಕ್ಸ್, ಟೈಮ್‌ಲೈನ್‌ಗಳು ಮತ್ತು ಸಾಮಗ್ರಿಗಳಂತಹ ಪ್ರಾಜೆಕ್ಟ್-ನಿರ್ದಿಷ್ಟ ವಿವರಗಳೊಂದಿಗೆ ಕರಡು ಪ್ರತ್ಯುತ್ತರಗಳನ್ನು ಮಾಡಬಹುದು. ಇನ್‌ಬಾಕ್ಸ್ ಗೊಂದಲವಿಲ್ಲದೆ ನೀವು ಪ್ರತಿಯೊಬ್ಬ ಸಿಬ್ಬಂದಿಯ ಮೇಲೆ ಇರುತ್ತೀರಿ."
     }
   ],
-  "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
+  "pricingNote": "$8,000/ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ, ಒಬ್ಬ ಉಳಿಸಿದ ಕ್ಲೈಂಟ್ ಪ್ರೊ ವರ್ಷಗಳವರೆಗೆ ಪಾವತಿಸುತ್ತದೆ."
 }
