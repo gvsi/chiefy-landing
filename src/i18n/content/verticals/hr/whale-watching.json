@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail za obilaske promatranja kitova | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže kapetanima koji promatraju kitove da odmah odgovore na e-poruke s rezervacijama — čak i iz vode. Odgovori koje je izradila umjetna inteligencija s detaljima o vašoj turi, cijenama i glasom.",
+  "heroBadge": "Vjeruje mu više od 300 kapetana putovanja",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste vani i promatrate kitove",
+  "heroSubline": "Duet saznaje vaš raspored izleta, cijene i glas — zatim sastavlja odgovore e-poštom tako da nikada ne izgubite rezervaciju dok ste na vodi.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "Grupa od 8 — dostupnost 14. lipnja?",
+      "preview": "Bok! Mi smo osmeročlana obitelj koja nas je posjetila tjedan dana. Imate li mjesta na jutarnjoj turneji 14. lipnja? Koja je cijena po osobi i je li u redu za djecu?",
+      "pill": "Odgovoriti",
       "pillColor": "red"
     },
     {
       "from": "James & Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "Cijene privatnog najma?",
+      "preview": "Voljeli bismo rezervirati privatno putovanje promatranja kitova za našu godišnjicu. Kolika je cijena 2-satnog privatnog najma za samo nas dvoje...",
+      "pill": "Visoka vrijednost",
       "pillColor": "amber"
     },
     {
       "from": "Cruise Port Desk",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "Promjena rasporeda — Coral Princess stiže 1 sat ranije",
+      "preview": "Upozorenje: sutrašnji dolazak princeze koralja pomaknut je s 10 ujutro na 9 ujutro. Molimo prilagodite sve izlete u luci u skladu s tim...",
+      "pill": "Hitno",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Nova recenzija vašeg unosa",
+      "preview": "Putnik je nedavno pregledao vašu tvrtku. Pogledajte što su imali za reći i odgovorite...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "Hej Rachel! Jutarnji obilazak 14. lipnja ima mjesta za 8. Obilasci su 125 USD po osobi, djeca od 4 do 12 godina u pola cijene. Krećemo u 9 ujutro iz luke i trčimo oko 2,5 sata. Dalekozor je osiguran - samo ponesite slojeve i kremu za sunčanje. Želite li da rezerviram 8 mjesta?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "turistička grupa",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Jedna spremljena grupna rezervacija plaća godinu dana Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahtjeve za rezervaciju, zatim promjene rasporeda brodova za krstarenje, a nikad buku. Nema više propuštanja privatnog upita o najmu zakopanog pod TripAdvisor upozorenjima.",
+  "draftSubtitle": "Duet saznaje vaše vrijeme putovanja, cijene i pravila. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s dostupnošću, što je uključeno i što ponijeti. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Koliko je mjesta ostalo na subotnjem jutarnjem obilasku?\" \"Nacrtajte odgovor Rachel s dostupnošću.\" Duet zna vašu pristiglu poštu i raspored — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "Grupa od 8 — dostupnost 14. lipnja?",
+      "preview": "Mi smo osmeročlana obitelj u posjetu tjedan dana...",
+      "pill": "Odgovorite sada",
       "pillColor": "red"
     },
     {
       "from": "James L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Re: Privatni čarter potvrđen — subota 14:00",
+      "pill": "Rezervirano",
       "pillColor": "blue"
     },
     {
       "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "Hoće li se održati sutrašnja turneja? Vjetar izgleda grubo",
+      "pill": "Pitanje",
       "pillColor": "amber"
     },
     {
       "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
+      "subject": "Dnevni sažetak rezervacija — 3 nove rezervacije",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Marine Supply Co.",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "Ljeto – 15% popusta na sigurnosnu opremu",
+      "pill": "Promaknuća",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Re: Grupa od 8 — dostupnost 14. lipnja?",
+    "originalFrom": "Rachel T. je napisala:",
+    "originalText": "Bok! Mi smo osmeročlana obitelj koja nas je posjetila tjedan dana. Imate li mjesta na jutarnjoj turneji 14. lipnja? Koja je cijena po osobi i je li u redu za djecu?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Hej Rachel!",
+      "Jutarnji obilazak 14. lipnja ima dovoljno mjesta za 8. Ulaznice su 125 USD po osobi, djeca od 4 do 12 godina u pola cijene. Krećemo u 9 sati, a vraćamo se oko 11:30.",
+      "Dalekozor i kišna oprema su osigurani — samo ponesite tople slojeve i kremu za sunčanje. Djeca vole to gore na vidikovcu.",
+      "Želite li da zaključam 8 mjesta?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "Jutarnji obilazak 14. lipnja ima dovoljno mjesta za 8. Ulaznice su 125 USD po osobi",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Zna vaše vrijeme putovanja i cijene",
+      "Propuh u tvom glasu",
+      "Uključuje ono što se automatski donosi",
+      "Uči s vremenom"
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "Koliko je mjesta ostalo na subotnjoj jutarnjoj turneji?",
+    "agentResponse": "Na temelju vaših rezervacija, obilazak u subotu u 9 ujutro ima 18 od 44 popunjena mjesta — 26 je još uvijek otvoreno. Poslijepodnevni obilazak je skoro pun na 40 od ​​44. Želite li da napišem odgovor na sve upite na čekanju s dostupnošću u subotu ujutro?",
+    "followUp": "Nacrtajte odgovor Rachel potvrđujući 14. lipnja za 8 gostiju",
+    "followUpResponse": "Gotovo! Napisao sam odgovor Rachel u kojem potvrđujem jutarnji obilazak 14. lipnja za 8 gostiju po cijeni od 125 USD po osobi. To uključuje vrijeme polaska, što se nudi i što ponijeti. Spremno za pregled i slanje."
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "Vole ga kapetani koji promatraju kitove",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
-      "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "name": "Kapetan Dave H.",
+      "title": "Turoperator za divlje životinje, AK",
+      "quote": "Putnici s kruzera trebaju odgovore brzo — imaju samo 6 sati u luci. Prije sam gubio privatne čartere jer sam bio na vodi kad je stigao upit. Sada Duet nacrte odgovora s mojim cijenama i pojedinostima o preuzimanju prije nego što uopće pristanem.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria & Luis R.",
-      "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "name": "Marija i Luis R.",
+      "title": "Obiteljsko promatranje kitova, CA",
+      "quote": "Vodimo dva obilaska dnevno tijekom sezone grbavaca i količina e-pošte je nestvarna. 'Hoćemo li vidjeti kitove?' 'Što da obučem?' 'Je li sutra otkazan?' Duet rješava pitanja koja se ponavljaju, a mi se fokusiramo na obilaske.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "name": "Kapetan Ben T.",
+      "title": "Oceanski izleti, HI",
+      "quote": "Odgovarao sam na istih 10 pitanja svake večeri — cijene, što je uključeno, savjeti za morsku bolest, dobne granice za djecu. Duet je sve naučio u prvom tjednu. Vrijeme mojeg odgovora pošlo je s 8 sati na 8 minuta.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "title": "Voditelj rezervacija, Pacific NW",
+      "quote": "Otkazivanja zbog vremenskih prilika su najgora — 30 ljudi treba ponovno rezervirati odjednom, a ja žongliram telefonskim pozivima. Duet izrađuje personalizirane e-poruke o ponovnom rasporedu za svakog gosta. Za što mi je prije trebalo 2 sata, sada mi treba 15 minuta.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
-      "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "title": "Obilasci divljim životinjama malim brodom, prije Krista",
+      "quote": "Mi smo operacija od dvije osobe - ja kapetan, ona vodi logistiku. Tijekom vrhunca sezone provodila je 3 sata dnevno na e-poštu. Duet skratio je to na 30 minuta. Sada zapravo dobiva svoje večeri natrag.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Provedite sezonu kitova na vodi,\nne u tvoj sandučić.",
+  "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Obrađuje li Duet otkazivanje vremenskih prilika i promjene rasporeda brodova za krstarenje?",
+      "answer": "Da. Kada otkažete turneju zbog vremenskih uvjeta ili pomicanja vremena dolaska broda za krstarenje, možete jednom reći Duet i on će izraditi prilagođeni pomaknuti raspored ili ažurirati e-poštu za svakog pogođenog gosta. Nema više kopiranja i lijepljenja iste poruke 30 puta. Svaki odgovor uključuje izvorne pojedinosti gostove rezervacije i dostupne alternative."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "Stalno dobivamo ista pitanja — 'hoćemo li vidjeti kitove?', 'što da obučem?', 'je li to u redu za djecu?' Može li se Duet nositi s tim?",
+      "answer": "Upravo tu blista Duet. Uči vaše standardne odgovore - vrste koje obično viđate, što ponijeti, dobna pravila, savjete za morsku bolest, vremena polaska - i trenutno sastavlja potpune odgovore. Vi pregledate i pošaljete. Većina kapetana nam kaže da je 80% njihove pristigle pošte istih 10 pitanja, a Duet rješava sva njih."
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "Za 125 USD po osobi, jedna spremljena grupa od 6 plaća više od godinu dana Pro."
 }

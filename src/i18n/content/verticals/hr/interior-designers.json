@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
-  "heroBadge": "Trusted by 400+ interior designers",
-  "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail za dizajnere interijera | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže dizajnerima interijera upravljati e-poštom klijenata, koordinacijom izvođača i narudžbama dobavljača — čak i s gradilišta. Odgovori izrađeni AI s detaljima vašeg projekta, preferencijama i glasom.",
+  "heroBadge": "Vjeruje mu više od 400 dizajnera interijera",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na licu mjesta s klijentima",
+  "heroSubline": "Duet saznaje vaše kontakte dobavljača, pojedinosti o projektu i preferencije klijenata — zatim sastavlja skice odgovora e-poštom kako nikada ne biste izgubili klijenta zbog sporog odgovora.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "Renoviranje kuhinje — prve konzultacije?",
+      "preview": "Bok! Upravo smo kupili kuću u Westlakeu i želimo potpuno preurediti kuhinju. Prihvaćate li nove projekte? Kako izgleda vaš proces?",
+      "pill": "Odgovoriti",
       "pillColor": "red"
     },
     {
       "from": "Tony's Tile & Stone",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "Odg: Ažuriranje vremena izvedbe backsplash pločica",
+      "preview": "Upravo su se javili iz skladišta — Calacatta šesterokutna pločica nije u narudžbi još 3 tjedna. Želite da zadržim vašu narudžbu ili pogledam alternative...",
+      "pill": "Narudžba dobavljača",
       "pillColor": "amber"
     },
     {
       "from": "Mark L. — Electrician",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "Ožičenje obavljeno — spremno za ugradnju uređaja",
+      "preview": "Sve grube instalacije su završene u glavnoj spavaćoj sobi i dnevnoj sobi. Mi smo spremni za ugradnju svijećnjaka i lustera kad god...",
+      "pill": "Izvođač",
       "pillColor": "blue"
     },
     {
       "from": "Karen & Steve W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "Što mislite o uzorcima tkanina?",
+      "preview": "Pogledali smo tri opcije tkanine koje ste ostavili i skloni smo lanu u boji 'Zobena kaša', ali želimo ga vidjeti u odnosu na boju zida...",
+      "pill": "Odobrenje klijenta",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "Bok Rachel! Volio bih čuti više o vašoj Westlake kuhinji. Trenutno rezerviram konzultacije za sljedeći mjesec. Moj proces počinje kućnim posjetom gdje prolazimo kroz vašu viziju, proračun i vremenski okvir — zatim sastavljam koncept dizajna s odabirom materijala. Želite li dogovoriti vrijeme za sastanak kod kuće?",
   "math": {
     "pricePerBooking": "$10,000",
-    "bookingUnit": "project",
+    "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Duet."
+    "punchline": "Jedan spremljeni klijent plaća godine Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite upite novih klijenata, zatim čekaju odobrenja, a nikada biltene dobavljača. Nema više propuštanja savjetovanja o dizajnu zakopanog ispod promocija sajmova.",
+  "draftSubtitle": "Duet uči vaš proces, detalje projekta i ton. Kada dođe novi upit ili pitanje klijenta, sastavlja potpuni odgovor s vašom dostupnošću, sljedećim koracima i specifičnostima projekta. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Kakav je status projekta Henderson?\" \"Koja su odobrenja još u tijeku?\" Duet zna vašu pristiglu poštu i svaku nit projekta — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "Renoviranje kuhinje — prve konzultacije?",
+      "preview": "Upravo smo kupili kuću i želimo preurediti kuhinju...",
+      "pill": "Novi upit",
       "pillColor": "red"
     },
     {
       "from": "Karen W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "Re: Uzorci tkanina — ide uz posteljinu od zobene kaše",
+      "pill": "Odobrenje klijenta",
       "pillColor": "blue"
     },
     {
       "from": "Mark L.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "Ožičenje obavljeno — spremno za ugradnju uređaja",
+      "pill": "Izvođač",
       "pillColor": "amber"
     },
     {
       "from": "Tony's Tile & Stone",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "Narudžba #4821 otpremljena — dostava u četvrtak",
+      "pill": "Narudžba dobavljača",
       "pillColor": "lavender"
     },
     {
       "from": "Design Within Reach",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "Trgovački program — proljetna štednja",
+      "pill": "Promaknuća",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "Re: Renoviranje kuhinje — prve konzultacije?",
+    "originalFrom": "Rachel T. je napisala:",
+    "originalText": "Bok! Upravo smo kupili kuću u Westlakeu i želimo potpuno preurediti kuhinju. Prihvaćate li nove projekte? Kako izgleda vaš proces?",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "Bok Rachel!",
+      "Čestitamo na novom domu! Volio bih pomoći s vašom kuhinjom. Trenutno rezerviram konzultacije za sljedeći mjesec.",
+      "Moj proces započinje kućnim posjetom kako bih prošao kroz vašu viziju, proračun i vremenski okvir. Odatle sam sastavio koncept dizajna s odabirom materijala i detaljnim prijedlogom.",
+      "Želite li dogovoriti vrijeme za sastanak kod kuće?"
     ],
-    "highlightText": "I'm currently booking consultations for next month.",
+    "highlightText": "Trenutno rezerviram konzultacije za sljedeći mjesec.",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "Poznaje vaš proces i dostupnost",
+      "Propuh u tvom glasu",
+      "Automatski uključuje sljedeće korake",
+      "Uči s vremenom"
     ]
   },
   "agent": {
-    "userMessage": "What approvals are still pending on the Henderson project?",
-    "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
-    "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
-    "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
+    "userMessage": "Koja su odobrenja još u čekanju za projekt Henderson?",
+    "agentResponse": "Na temelju vaših razgovora putem e-pošte s Hendersonovima, dvije stavke još čekaju odobrenje: glavni umivaonik za kupaonicu (poslali ste opcije hardvera za restauraciju u utorak) i tkanina za draperije dnevne sobe (uzorci su isporučeni prošli tjedan). Karen je također pitala o sjaju boje za blagovaonicu, ali još nije odgovorila na vašu preporuku. Želite li da napravim nastavak?",
+    "followUp": "Nacrtajte nježan nastavak Karen o taštini i izboru tkanina",
+    "followUpResponse": "Gotovo! Napravio sam nastavak nakon što je Karen provjerila izbor kozmetičkih kozmetičkih ukrasa i zastora, spomenuvši da kozmetički kozmetički pribor ima rok od 6 tjedana, tako da će skora odluka zadržati projekt u skladu s rasporedom. Spremno za pregled i slanje."
   },
-  "testimonialsTitle": "Loved by interior designers",
+  "testimonialsTitle": "Vole ga dizajneri interijera",
   "testimonials": [
     {
       "name": "Michael R.",
-      "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
+      "title": "Glavni dizajner, Austin TX",
+      "quote": "Na gradilištu sam 6 sati dnevno koordinirajući molere, električare i postavljače pločica. U međuvremenu tri druga klijenta šalju e-poštu o svojim projektima. Duet sastavlja odgovore s pravim detaljima projekta — samo pregledavam između posjeta web-mjestu.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
-      "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "title": "Dizajner stambenog interijera, Chicago",
+      "quote": "Upiti klijenata znali su trajati danima jer sam bio zatrpan e-poštom o nabavi i rasporedom izvođača. Sada Duet odgovara na nove potencijalne klijente u nekoliko minuta s mojim postupkom i dostupnošću. Rezervirao sam 4 dodatna projekta u ovom kvartalu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "title": "Vlasnik dizajnerskog studija, Nashville",
+      "quote": "Ubijalo me upravljanje e-poštom za 12 aktivnih projekata. Duet kategorizira sve - nove upite, odobrenja na čekanju, narudžbe dobavljača, ažuriranja izvođača - tako da točno znam što prvo treba moju pozornost.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
-      "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "title": "Dekorater interijera, San Diego",
+      "quote": "Gubio sam potencijalne klijente jer nisam mogao dovoljno brzo odgovoriti tijekom tjedana instalacije. Duet je naučio moj proces savjetovanja, strukturu cijena, čak i kako opisujem svoj stil dizajna. Klijenti nemaju pojma da je potpomognut umjetnom inteligencijom.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "title": "Komercijalni dizajner interijera, Denver",
+      "quote": "Između vremena isporuke dobavljača, rasporeda izvođača i zahtjeva klijenata za revizijom, moj sandučić je bio kaos. Duet to sve razvrstava i priprema nacrte za daljnja odobrenja na čekanju. To je kao da imate koordinatora projekta koji nikad ne spava.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Provodite dane stvarajući prekrasne prostore,\nnije zakopano u vašoj pristigloj pošti.",
+  "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
-      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "Žongliram s 8-10 projekata odjednom. Može li ih Duet držati ispravnima?",
+      "answer": "Da. Duet prati svaku nit e-pošte po klijentu i projektu. Kada pitate o Henderson kuhinji ili uredu Park Avenue, izvlači kontekst iz svih povezanih razgovora - narudžbe dobavljača, ažuriranja izvođača, odobrenja klijenata - tako da su vaši odgovori uvijek točni i specifični za projekt. Nema miješanja koja je pločica za kojeg klijenta."
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
-      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "Koordiniram s mnogim izvođačima i dobavljačima. Pomaže li Duet u tome?",
+      "answer": "Apsolutno. Duet uči kontakte vaših izvođača, predstavnike dobavljača i kontekst uloge svake trgovine u vašim projektima. Kada vaš električar pošalje e-poruku da je grubo uvođenje obavljeno, Duet može napisati odgovor koji potvrđuje sljedeći korak ili petlju u instalateru uređaja. Održava tijek rada u pokretu čak i kada ste na drugom kraju grada na drugom radilištu."
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
+  "pricingNote": "Uz 10.000 USD po projektu, jedan spremljeni klijent plaća godine Duet Pro."
 }
