@@ -23,6 +23,7 @@ import { jsonLdScript } from "../i18n/jsonLd";
 const locale = DEFAULT_LOCALE;
 const messages = getMessages(locale);
 const home = getHomeContent(locale);
+const homeSections = home as any;
 const homeMeta = home.meta as { title: string; description: string };
 const title = homeMeta.title;
 const description = homeMeta.description;
@@ -104,21 +105,21 @@ const extraHeadHtml = [
     <Nav locale={locale} messages={messages} alternates={alternates} />
     <main class="relative isolate">
         <HeroBackground />
-        <Hero>
+        <Hero hero={homeSections.hero}>
             <div class="mt-10 w-full">
-                <InboxHeroMockup />
+                <InboxHeroMockup inboxHeroMockup={homeSections.inboxHeroMockup} />
             </div>
         </Hero>
-        <Logos />
+        <Logos logos={homeSections.logos} />
         <ShowcaseContainer>
-            <CategorizationShowcase />
-            <DraftShowcase />
-            <AgentChatShowcase />
+            <CategorizationShowcase categorizationShowcase={homeSections.categorizationShowcase} />
+            <DraftShowcase draftShowcase={homeSections.draftShowcase} />
+            <AgentChatShowcase agentChatShowcase={homeSections.agentChatShowcase} />
         </ShowcaseContainer>
-        <Testimonials />
-        <Pricing />
-        <FAQ />
+        <Testimonials testimonials={homeSections.testimonials} />
+        <Pricing pricing={homeSections.pricing} />
+        <FAQ faq={homeSections.faq} />
     </main>
-    <FinalCTA />
+    <FinalCTA finalCta={homeSections.finalCta} />
     <Footer locale={locale} messages={messages} />
 </BaseLayout>

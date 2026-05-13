@@ -1,73 +1,87 @@
 ---
 import type { Locale } from "../../i18n/locales";
-import type { Messages } from "../../i18n/messages/schema";
+import { localizedPath } from "../../i18n/routing";
+import { t, type Messages } from "../../i18n/messages/schema";
 
 type FooterLink = {
-    label: string;
+    id: string;
+    labelKey: string;
     href: string;
     external?: boolean;
 };
 
 type FooterGroup = {
-    title: string;
+    id: string;
+    titleKey: string;
     links: FooterLink[];
 };
 
 type Props = {
-    locale?: Locale;
-    messages?: Messages;
+    locale: Locale;
+    messages: Messages;
 };
 
+const { locale, messages } = Astro.props;
 const year = new Date().getFullYear();
+const homePath = localizedPath(locale, { kind: "home" });
+const anchor = (id: string) => `${homePath}#${id}`;
 
 const groups: FooterGroup[] = [
     {
-        title: "Explore",
+        id: "explore",
+        titleKey: "footer.explore",
         links: [
-            { label: "Organization", href: "/#organization" },
-            { label: "Drafting", href: "/#drafting" },
-            { label: "Intelligence", href: "/#intelligence" },
+            { id: "organization", labelKey: "nav.organization", href: anchor("organization") },
+            { id: "drafting", labelKey: "nav.drafting", href: anchor("drafting") },
+            { id: "intelligence", labelKey: "nav.intelligence", href: anchor("intelligence") },
             {
-                label: "Chrome Extension",
+                id: "chrome-extension",
+                labelKey: "footer.chromeExtension",
                 href: "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
                 external: true,
             },
         ],
     },
     {
-        title: "Customers",
+        id: "customers",
+        titleKey: "footer.customers",
         links: [
-            { label: "Pricing", href: "/#pricing" },
-            { label: "Testimonials", href: "/#testimonials" },
-            { label: "FAQ", href: "/#faq" },
+            { id: "pricing", labelKey: "nav.pricing", href: anchor("pricing") },
+            { id: "testimonials", labelKey: "nav.testimonials", href: anchor("testimonials") },
+            { id: "faq", labelKey: "nav.faq", href: anchor("faq") },
         ],
     },
     {
-        title: "Legal",
+        id: "legal",
+        titleKey: "footer.legal",
         links: [
-            { label: "Privacy", href: "/privacy" },
-            { label: "Terms", href: "/terms" },
-            { label: "Cookies", href: "/cookies" },
-            { label: "Disclaimer", href: "/disclaimer" },
+            { id: "privacy", labelKey: "legalNav.privacy", href: localizedPath(locale, { kind: "legal", page: "privacy" }) },
+            { id: "terms", labelKey: "legalNav.terms", href: localizedPath(locale, { kind: "legal", page: "terms" }) },
+            { id: "cookies", labelKey: "legalNav.cookies", href: localizedPath(locale, { kind: "legal", page: "cookies" }) },
+            { id: "disclaimer", labelKey: "legalNav.disclaimer", href: localizedPath(locale, { kind: "legal", page: "disclaimer" }) },
         ],
     },
     {
-        title: "Connect",
+        id: "connect",
+        titleKey: "footer.connect",
         links: [
-            { label: "Blog", href: "/blog" },
+            { id: "blog", labelKey: "nav.blog", href: localizedPath(locale, { kind: "blogIndex" }) },
             {
-                label: "LinkedIn",
+                id: "linkedin",
+                labelKey: "footer.linkedin",
                 href: "https://www.linkedin.com/company/duetmail",
                 external: true,
             },
-            { label: "X", href: "https://x.com/DuetMailApp", external: true },
+            { id: "x", labelKey: "footer.x", href: "https://x.com/DuetMailApp", external: true },
             {
-                label: "Instagram",
+                id: "instagram",
+                labelKey: "footer.instagram",
                 href: "https://www.instagram.com/duetmail/",
                 external: true,
             },
             {
-                label: "Startup Fame",
+                id: "startup-fame",
+                labelKey: "footer.startupFame",
                 href: "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
                 external: true,
             },
@@ -76,17 +90,17 @@ const groups: FooterGroup[] = [
 ];
 ---
 
-<footer aria-label="Site footer" class="site-footer">
+<footer aria-label={t(messages, "site.footerAria")} class="site-footer">
     <div class="mx-auto max-w-6xl px-6 py-20 md:px-10">
         <div class="flex flex-col gap-14 lg:flex-row lg:gap-10">
             <div class="footer-brand">
-                <a href="/" class="flex items-center gap-2">
+                <a href={homePath} class="flex items-center gap-2">
                     <img
                         src="/favicon.svg"
                         width="27"
                         height="27"
                         class="h-[27px] w-[27px]"
-                        alt="Duet Mail icon"
+                        alt=""
                         decoding="async"
                     />
                     <img
@@ -108,11 +122,12 @@ const groups: FooterGroup[] = [
                 </a>
 
                 <p class="footer-tagline mt-5 mb-0 max-w-sm text-pretty">
-                    Duet Mail — The AI Email Assistant that saves you hours
-                    every week
+                    {t(messages, "footer.tagline")}
                 </p>
 
-                <p class="footer-copyright mt-10 mb-0">Duet Mail © {year}</p>
+                <p class="footer-copyright mt-10 mb-0">
+                    {t(messages, "footer.copyright", { year })}
+                </p>
             </div>
 
             <div
@@ -121,13 +136,13 @@ const groups: FooterGroup[] = [
                 {
                     groups.map((group) => (
                         <nav
-                            aria-labelledby={`footer-${group.title.toLowerCase()}`}
+                            aria-labelledby={`footer-${group.id}`}
                         >
                             <h2
-                                id={`footer-${group.title.toLowerCase()}`}
+                                id={`footer-${group.id}`}
                                 class="footer-heading m-0"
                             >
-                                {group.title}
+                                {t(messages, group.titleKey)}
                             </h2>
 
                             <ul class="mt-5 flex flex-col gap-3" role="list">
@@ -147,7 +162,7 @@ const groups: FooterGroup[] = [
                                                     : undefined
                                             }
                                         >
-                                            {link.label}
+                                            {t(messages, link.labelKey)}
                                         </a>
                                     </li>
                                 ))}

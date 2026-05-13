@@ -2,28 +2,45 @@
 type InboxEmail = {
     from: string;
     avatarLetter: string;
-    avatarColor: string;
+    avatarColor?: string;
     subject: string;
     preview?: string;
     pill: string;
-    pillColor: string;
+    pillColor?: string;
+};
+
+type InboxHeroMockupContent = {
+    ariaHidden: boolean;
+    callouts: string[];
+    windowTitle: string;
+    providers: string[];
+    emailTimes: string[];
+    autodraftLabel: string;
+    emails: InboxEmail[];
+    autodraft: string;
 };
 
 type Props = {
+    inboxHeroMockup: InboxHeroMockupContent;
     inboxEmails?: InboxEmail[];
     autodraft?: string;
 };
 
-const { inboxEmails, autodraft } = Astro.props;
+const { inboxHeroMockup, inboxEmails, autodraft } = Astro.props;
+
+const emails = inboxEmails ?? inboxHeroMockup.emails;
+const resolvedAutodraft = autodraft ?? inboxHeroMockup.autodraft;
+const avatarColors = ["pink", "blue", "purple", "lavender"];
+const pillColors = ["red", "blue", "amber", "lavender"];
 ---
 
-<div class="inbox-mockup" aria-hidden="true" data-inbox-mockup>
+<div class="inbox-mockup" aria-hidden={inboxHeroMockup.ariaHidden ? "true" : undefined} data-inbox-mockup>
     <div class="ambient-glow"></div>
 
     <div class="window-wrapper">
         <div class="callout callout-top-right">
             <span class="callout-emoji" aria-hidden="true">⚡</span>
-            <span>Instant categorization</span>
+            <span>{inboxHeroMockup.callouts[0]}</span>
         </div>
 
         <div class="window-frame">
@@ -46,7 +63,7 @@ const { inboxEmails, autodraft } = Astro.props;
                         <span class="traffic-dot traffic-green"></span>
                     </div>
 
-                    <div class="window-title">Inbox</div>
+                    <div class="window-title">{inboxHeroMockup.windowTitle}</div>
 
                     <div class="window-badge">
                         <div class="provider-badge-cycle">
@@ -80,7 +97,7 @@ const { inboxEmails, autodraft } = Astro.props;
                                         d="M52 51v8l20 15V48l-5.6-4.2c-5.94-4.45-14.4-.22-14.4 7.2"
                                     ></path>
                                 </svg>
-                                <span>Gmail</span>
+                                <span>{inboxHeroMockup.providers[0]}</span>
                             </span>
 
                             <span class="provider-badge-chip provider-badge-secondary">
@@ -109,7 +126,7 @@ const { inboxEmails, autodraft } = Astro.props;
                                         fill="white"
                                     ></path>
                                 </svg>
-                                <span>Outlook</span>
+                                <span>{inboxHeroMockup.providers[1]}</span>
                             </span>
                         </div>
                     </div>
@@ -161,24 +178,23 @@ const { inboxEmails, autodraft } = Astro.props;
                     </div>
 
                     <div class="emails">
-                        {inboxEmails ? (
-                            inboxEmails.map((email, index) => {
+                        {
+                            emails.map((email, index) => {
                                 const num = index + 1;
                                 const isFirst = index === 0;
                                 const fromClass = index === 0 ? "email-from email-from-strong" : index === 1 ? "email-from" : index === 2 ? "email-from email-from-dim" : "email-from email-from-faint";
                                 const subjectClass = index === 0 ? "email-subject email-subject-strong" : index === 1 ? "email-subject" : index === 2 ? "email-subject email-subject-dim" : "email-subject email-subject-faint";
                                 const timeClass = index === 0 ? "email-time" : "email-time email-time-dim";
+                                const avatarColor = email.avatarColor ?? avatarColors[index] ?? avatarColors[avatarColors.length - 1];
+                                const pillColor = email.pillColor ?? pillColors[index] ?? pillColors[pillColors.length - 1];
                                 return (
                                     <div class={`email email-${num}`}>
-                                        <div class={`avatar avatar-${email.avatarColor}`}>{email.avatarLetter}</div>
+                                        <div class={`avatar avatar-${avatarColor}`}>{email.avatarLetter}</div>
                                         <div class="email-content">
                                             <div class="email-top">
                                                 <span class={fromClass}>{email.from}</span>
-                                                <span class={`pill pill-${email.pillColor}`}>{email.pill}</span>
-                                                {index === 0 && <span class={timeClass}>3:42 PM</span>}
-                                                {index === 1 && <span class={timeClass}>2:18 PM</span>}
-                                                {index === 2 && <span class={timeClass}>10:05 AM</span>}
-                                                {index === 3 && <span class={timeClass}>Yesterday</span>}
+                                                <span class={`pill pill-${pillColor}`}>{email.pill}</span>
+                                                <span class={timeClass}>{inboxHeroMockup.emailTimes[index]}</span>
                                             </div>
                                             <div class={subjectClass}>{email.subject}</div>
                                             {email.preview && isFirst && (
@@ -187,14 +203,14 @@ const { inboxEmails, autodraft } = Astro.props;
                                             {email.preview && !isFirst && index === 1 && (
                                                 <div class="email-preview email-preview-dim">{email.preview}</div>
                                             )}
-                                            {isFirst && autodraft && (
+                                            {isFirst && resolvedAutodraft && (
                                                 <div class="autodraft">
                                                     <div class="autodraft-label">
-                                                        <span>Autodraft</span>
+                                                        <span>{inboxHeroMockup.autodraftLabel}</span>
                                                         <span class="autodraft-dot"></span>
                                                     </div>
                                                     <div class="autodraft-text">
-                                                        <span class="typing-line">{autodraft}</span>
+                                                        <span class="typing-line">{resolvedAutodraft}</span>
                                                     </div>
                                                 </div>
                                             )}
@@ -202,95 +218,7 @@ const { inboxEmails, autodraft } = Astro.props;
                                     </div>
                                 );
                             })
-                        ) : (
-                            <>
-                                <div class="email email-1">
-                                    <div class="avatar avatar-pink">A</div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span class="email-from email-from-strong">
-                                                Alex Rivera
-                                            </span>
-                                            <span class="pill pill-red">To Respond</span>
-                                            <span class="email-time">3:42 PM</span>
-                                        </div>
-                                        <div class="email-subject email-subject-strong">
-                                            Re: Product Launch Timeline
-                                        </div>
-                                        <div class="email-preview">
-                                            Hey! Wanted to check in on the launch
-                                            assets. Are we still on track for next
-                                            week...
-                                        </div>
-                                        <div class="autodraft">
-                                            <div class="autodraft-label">
-                                                <span>Autodraft</span>
-                                                <span class="autodraft-dot"></span>
-                                            </div>
-                                            <div class="autodraft-text">
-                                                <span class="typing-line">Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today.</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="email email-2">
-                                    <div class="avatar avatar-blue">E</div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span class="email-from">Emma Park</span>
-                                            <span class="pill pill-blue">Meeting</span>
-                                            <span class="email-time email-time-dim">
-                                                2:18 PM
-                                            </span>
-                                        </div>
-                                        <div class="email-subject">
-                                            Quick sync this afternoon?
-                                        </div>
-                                        <div class="email-preview email-preview-dim">
-                                            Would love to catch up on the roadmap
-                                            updates. Are you free around 4pm...
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="email email-3">
-                                    <div class="avatar avatar-purple">M</div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span class="email-from email-from-dim">
-                                                Marketing
-                                            </span>
-                                            <span class="pill pill-amber">FYI</span>
-                                            <span class="email-time email-time-dim">
-                                                10:05 AM
-                                            </span>
-                                        </div>
-                                        <div class="email-subject email-subject-dim">
-                                            Campaign Results Ready
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="email email-4">
-                                    <div class="avatar avatar-lavender">S</div>
-                                    <div class="email-content">
-                                        <div class="email-top">
-                                            <span class="email-from email-from-faint">
-                                                Shopify
-                                            </span>
-                                            <span class="pill pill-lavender">Promotions</span>
-                                            <span class="email-time email-time-dim">
-                                                Yesterday
-                                            </span>
-                                        </div>
-                                        <div class="email-subject email-subject-faint">
-                                            Your store is ready for Black Friday
-                                        </div>
-                                    </div>
-                                </div>
-                            </>
-                        )}
+                        }
                     </div>
                 </div>
             </div>
@@ -300,7 +228,7 @@ const { inboxEmails, autodraft } = Astro.props;
             <span class="callout-emoji callout-emoji-purple" aria-hidden="true"
                 >✨</span
             >
-            <span>AI-powered replies</span>
+            <span>{inboxHeroMockup.callouts[1]}</span>
         </div>
     </div>
 </div>

@@ -23,6 +23,59 @@ const ignoredFragments = [
     "stroke",
     "fill",
     "currentColor",
+    "@context",
+    "@type",
+    "schema.org",
+    "font-family",
+    "DOMContentLoaded",
+    "Content-Type",
+    "User-agent",
+    "Escape",
+    "Roboto, Helvetica, Arial",
+    "replace(",
+]
+const ignoredExactValues = new Set([
+    "Article",
+    "Answer",
+    "Blog",
+    "BreadcrumbList",
+    "CollectionPage",
+    "ContactPoint",
+    "FAQPage",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Question",
+    "SoftwareApplication",
+    "WebPage",
+    "WebSite",
+    "Duet Mail Team",
+    "@DuetMailApp",
+    "AUTH_CHOOSER_URL",
+    "HOME_LOGOS.length ?",
+    "= HOME_LOGOS.length ?",
+    "TESTIMONIALS.length;",
+    "= TESTIMONIALS.length;",
+    ": AUTH_CHOOSER_URL;",
+])
+const ignoredValuePatterns = [
+    /Astro\.site/,
+    /Last updated:/,
+    /Invalid .* metadata/,
+    /Missing .* metadata/,
+    /^Upwork$/,
+    /^Airtable$/,
+    /^Trello$/,
+    /^Wise$/,
+    /^Fiverr$/,
+    /^Ahrefs$/,
+    /Variable$/,
+    /^Segoe UI$/,
+    /^SF Pro Display$/,
+    /^Roboto$/,
+    /^Helvetica$/,
+    /^Arial$/,
+    /^Georgia$/,
 ]
 
 function listFiles(dir, out = []) {
@@ -42,6 +95,8 @@ function likelyUserString(value) {
     if (trimmed.length < 4) return false
     if (!/[A-Za-z]/.test(trimmed)) return false
     if (allowedTerms.has(trimmed)) return false
+    if (ignoredExactValues.has(trimmed)) return false
+    if (ignoredValuePatterns.some((pattern) => pattern.test(trimmed))) return false
     if (/^[a-z0-9_.:-]+$/.test(trimmed)) return false
     if (/^https?:\/\//.test(trimmed) || trimmed.startsWith("/") || trimmed.startsWith("#")) return false
     return true

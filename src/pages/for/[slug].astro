@@ -16,13 +16,15 @@ import FinalCTA from "../../components/sections/FinalCTA.astro";
 import Footer from "../../components/sections/Footer.astro";
 import { DEFAULT_LOCALE } from "../../i18n/locales";
 import { englishOnlyAlternates, localizedPath } from "../../i18n/routing";
-import { getAllVerticalContent, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content";
+import { getAllVerticalContent, getHomeContent, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content";
 import { getMessages, t } from "../../i18n/messages/schema";
 import { jsonLdScript } from "../../i18n/jsonLd";
 
 type VerticalPageData = Record<string, any>;
 const locale = DEFAULT_LOCALE;
 const messages = getMessages(locale);
+const home = getHomeContent(locale);
+const homeSections = home as any;
 
 export async function getStaticPaths() {
     const verticals = getAllVerticalContent(DEFAULT_LOCALE) as VerticalPageData[];
@@ -85,12 +87,13 @@ const extraHeadHtml = [
     <Nav locale={locale} messages={messages} alternates={alternates} />
     <main class="relative isolate">
         <HeroBackground />
-        <Hero heroHeadline={data.heroHeadline} heroSubline={data.heroSubline} heroBadge={data.heroBadge}>
+        <Hero hero={homeSections.hero} heroHeadline={data.heroHeadline} heroSubline={data.heroSubline} heroBadge={data.heroBadge}>
             <div class="mt-10 w-full">
-                <InboxHeroMockup inboxEmails={data.inboxEmails} autodraft={data.autodraft} />
+                <InboxHeroMockup inboxHeroMockup={homeSections.inboxHeroMockup} inboxEmails={data.inboxEmails} autodraft={data.autodraft} />
             </div>
         </Hero>
         <MathSection
+            messages={messages}
             pricePerBooking={data.math.pricePerBooking}
             bookingUnit={data.math.bookingUnit}
             lostPerMonth={data.math.lostPerMonth}
@@ -98,14 +101,14 @@ const extraHeadHtml = [
             punchline={data.math.punchline}
         />
         <ShowcaseContainer>
-            <CategorizationShowcase categorizationEmails={data.categorizationEmails} categorizationSubtitle={data.categorizationSubtitle} />
-            <DraftShowcase draft={data.draft} draftSubtitle={data.draftSubtitle} />
-            <AgentChatShowcase agent={data.agent} agentSubtitle={data.agentSubtitle} />
+            <CategorizationShowcase categorizationShowcase={homeSections.categorizationShowcase} categorizationEmails={data.categorizationEmails} categorizationSubtitle={data.categorizationSubtitle} />
+            <DraftShowcase draftShowcase={homeSections.draftShowcase} draft={data.draft} draftSubtitle={data.draftSubtitle} />
+            <AgentChatShowcase agentChatShowcase={homeSections.agentChatShowcase} agent={data.agent} agentSubtitle={data.agentSubtitle} />
         </ShowcaseContainer>
-        <Testimonials verticalTestimonials={data.testimonials} testimonialsTitle={data.testimonialsTitle} />
-        <Pricing pricingNote={data.pricingNote} />
-        <FAQ verticalFaqs={data.verticalFaqs} />
+        <Testimonials testimonials={homeSections.testimonials} verticalTestimonials={data.testimonials} testimonialsTitle={data.testimonialsTitle} />
+        <Pricing pricing={homeSections.pricing} pricingNote={data.pricingNote} />
+        <FAQ faq={homeSections.faq} verticalFaqs={data.verticalFaqs} />
     </main>
-    <FinalCTA ctaHeadline={data.ctaHeadline} ctaSubline={data.ctaSubline} />
+    <FinalCTA finalCta={homeSections.finalCta} ctaHeadline={data.ctaHeadline} ctaSubline={data.ctaSubline} />
     <Footer locale={locale} messages={messages} />
 </BaseLayout>

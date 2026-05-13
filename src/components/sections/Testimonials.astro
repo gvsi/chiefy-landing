@@ -18,53 +18,23 @@ type VerticalTestimonial = {
 };
 
 type Props = {
+    testimonials: {
+        ariaLabel: string;
+        scrollingAriaLabel: string;
+        eyebrow: string;
+        title: string;
+        subtitle: string;
+        items: Testimonial[];
+    };
     verticalTestimonials?: VerticalTestimonial[];
     testimonialsTitle?: string;
 };
 
-const { verticalTestimonials, testimonialsTitle } = Astro.props;
-
-const DEFAULT_TESTIMONIALS: Testimonial[] = [
-    {
-        name: "Francesca T.",
-        title: "Freelancer",
-        quote: "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
-        logoName: "Airtable",
-        avatarKey: "francesca",
-    },
-    {
-        name: "Michael R.",
-        title: "Sales Executive",
-        quote: "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
-        logoName: "Upwork",
-        avatarKey: "michael",
-    },
-    {
-        name: "Johnny S.",
-        title: "Entrepreneur",
-        quote: "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
-        logoName: "Fiverr",
-        avatarKey: "johnny",
-    },
-    {
-        name: "Jennifer L.",
-        title: "Consultant",
-        quote: "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
-        logoName: "Ahrefs",
-        avatarKey: "jennifer",
-    },
-    {
-        name: "Sarah T.",
-        title: "Marketing Director",
-        quote: "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
-        logoName: "Wise",
-        avatarKey: "sarah",
-    },
-];
+const { testimonials, verticalTestimonials, testimonialsTitle } = Astro.props;
 
 const TESTIMONIALS: Testimonial[] = verticalTestimonials
     ? verticalTestimonials.map((t) => ({ name: t.name, title: t.title, quote: t.quote, avatarKey: t.avatarKey }))
-    : DEFAULT_TESTIMONIALS;
+    : testimonials.items;
 
 const repeatedTestimonials = [...TESTIMONIALS, ...TESTIMONIALS];
 const logoByName = new Map(
@@ -72,21 +42,21 @@ const logoByName = new Map(
 );
 ---
 
-<section id="testimonials" class="home-testimonials" aria-label="Testimonials">
+<section id="testimonials" class="home-testimonials" aria-label={testimonials.ariaLabel}>
     <div class="mx-auto max-w-6xl px-6 md:px-10">
         <header class="home-testimonials__header">
-            <p class="home-testimonials__pill">Testimonials</p>
+            <p class="home-testimonials__pill">{testimonials.eyebrow}</p>
             <h2 class="home-testimonials__title">
-                {testimonialsTitle || "Loved by busy professionals"}
+                {testimonialsTitle ?? testimonials.title}
             </h2>
             <p class="home-testimonials__subtitle">
-                Real people. Real inbox wins.
+                {testimonials.subtitle}
             </p>
         </header>
 
         <div
             class="home-testimonials__ticker"
-            aria-label="Scrolling testimonials"
+            aria-label={testimonials.scrollingAriaLabel}
         >
             <ul class="home-testimonials__track" role="list">
                 {
@@ -109,7 +79,7 @@ const logoByName = new Map(
         <ul
             class="home-testimonials__grid"
             role="list"
-            aria-label="Testimonials"
+            aria-label={testimonials.ariaLabel}
         >
             {
                 TESTIMONIALS.map((testimonial) => {
