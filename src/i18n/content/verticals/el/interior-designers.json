@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
-  "heroBadge": "Trusted by 400+ interior designers",
-  "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail για διακοσμητές εσωτερικών χώρων | AI Βοηθός Email\n",
+  "metaDescription": "Το Duet Mail βοηθά τους σχεδιαστές εσωτερικών χώρων να διαχειρίζονται τα email των πελατών, τον συντονισμό των εργολάβων και τις παραγγελίες προμηθευτών — ακόμη και από το εργοτάξιο. Απαντήσεις που έχουν συνταχθεί από AI με τις λεπτομέρειες του έργου σας, τις προτιμήσεις και τη φωνή σας.\n",
+  "heroBadge": "Εμπιστεύονται 400+ σχεδιαστές εσωτερικών χώρων\n",
+  "heroHeadline": "Ο βοηθός email σας ενώ βρίσκεστε στο χώρο με πελάτες\n",
+  "heroSubline": "Το Duet μαθαίνει τις επαφές του προμηθευτή σας, τις λεπτομέρειες του έργου και τις προτιμήσεις πελατών — στη συνέχεια συντάσσει πρόχειρες απαντήσεις μέσω email, ώστε να μην χάσετε ποτέ έναν πελάτη σε μια αργή απόκριση.\n",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "Ανακαίνιση κουζίνας — αρχική διαβούλευση;\n",
+      "preview": "Γεια σου! Μόλις αγοράσαμε ένα σπίτι στο Westlake και θέλουμε να ξαναφτιάξουμε την κουζίνα. Αναλαμβάνετε νέα έργα; Πώς μοιάζει η διαδικασία σας;\n",
+      "pill": "Για να απαντήσετε\n",
       "pillColor": "red"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "Tony's Tile & Stone\n",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "Απ.: Ενημέρωση χρόνου παράδοσης πλακιδίων Backsplash\n",
+      "preview": "Μόλις το έμαθα από την αποθήκη — το εξάγωνο πλακίδιο Calacatta έχει παραγγελθεί ξανά για 3 εβδομάδες. Θέλετε να κρατήσω την παραγγελία σας ή να κοιτάξω εναλλακτικές...\n",
+      "pill": "Παραγγελία Πωλητή\n",
       "pillColor": "amber"
     },
     {
-      "from": "Mark L. — Electrician",
+      "from": "Mark L. — Ηλεκτρολόγος\n",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "Η καλωδίωση ολοκληρώθηκε — έτοιμη για εγκατάσταση του εξαρτήματος\n",
+      "preview": "Όλες οι σκληρές καλωδιώσεις έχουν ολοκληρωθεί στο κύριο υπνοδωμάτιο και στο σαλόνι. Είμαστε ξεκάθαροι για την εγκατάσταση του απλίκου και του πολυελαίου όποτε σας...\n",
+      "pill": "Ανάδοχος\n",
       "pillColor": "blue"
     },
     {
-      "from": "Karen & Steve W.",
+      "from": "Karen & Steve W.\n",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "Σκέψεις για τα δείγματα υφασμάτων;\n",
+      "preview": "Εξετάσαμε τις τρεις επιλογές υφασμάτων που αφήσατε και κλίνουμε προς το λινό στο \"Oatmeal\", αλλά θέλουμε να το δούμε στο χρώμα του τοίχου...\n",
+      "pill": "Έγκριση Πελάτη\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "Γεια σου Ρέιτσελ! Θα ήθελα πολύ να ακούσω περισσότερα για την κουζίνα σας στο Westlake. Προς το παρόν κάνω κράτηση για διαβουλεύσεις για τον επόμενο μήνα. Η διαδικασία μου ξεκινά με μια επίσκεψη στο σπίτι, όπου εξετάζουμε το όραμα, τον προϋπολογισμό και το χρονοδιάγραμμά σας — στη συνέχεια συνθέτω μια ιδέα σχεδιασμού με επιλογές υλικών. Θέλετε να ορίσετε μια ώρα για να συναντηθούμε στο σπίτι;\n",
   "math": {
     "pricePerBooking": "$10,000",
-    "bookingUnit": "project",
+    "bookingUnit": "έργο\n",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Duet."
+    "punchline": "Ένας αποθηκευμένος πελάτης πληρώνει για χρόνια Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+  "categorizationSubtitle": "Το Duet προσθέτει αυτόματα ετικέτες σε κάθε email, ώστε να βλέπετε πρώτα τα νέα ερωτήματα πελατών, μετά τις εκκρεμείς εγκρίσεις και τα ενημερωτικά δελτία προμηθευτών ποτέ. Δεν θα χάσετε πλέον μια διαβούλευση σχεδιασμού που θαφτεί κάτω από τις προωθητικές ενέργειες της εμπορικής έκθεσης.\n",
+  "draftSubtitle": "Το Duet μαθαίνει τη διαδικασία, τις λεπτομέρειες του έργου και τον τόνο. Όταν εμφανίζεται μια νέα ερώτηση ή ερώτηση πελάτη, συντάσσει μια πλήρη απάντηση με τη διαθεσιμότητά σας, τα επόμενα βήματα και τις λεπτομέρειες του έργου. Εσείς εξετάζετε και στέλνετε.\n",
+  "agentSubtitle": "\"Ποια είναι η κατάσταση στο έργο Henderson;\" \"Ποιες εγκρίσεις εκκρεμούν ακόμη;\" Το Duet γνωρίζει τα εισερχόμενά σας και κάθε νήμα έργου — απλώς ρωτήστε.\n",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "Ανακαίνιση κουζίνας — αρχική διαβούλευση;\n",
+      "preview": "Μόλις αγοράσαμε ένα σπίτι και θέλουμε να ξαναφτιάξουμε την κουζίνα...\n",
+      "pill": "Νέα Έρευνα\n",
       "pillColor": "red"
     },
     {
-      "from": "Karen W.",
+      "from": "Κάρεν Γ.\n",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "Απάντηση: Δείγματα υφασμάτων — συνδυάζονται με λευκά είδη Oatmeal\n",
+      "pill": "Έγκριση Πελάτη\n",
       "pillColor": "blue"
     },
     {
-      "from": "Mark L.",
+      "from": "Mark L.\n",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "Η καλωδίωση ολοκληρώθηκε — έτοιμη για εγκατάσταση του εξαρτήματος\n",
+      "pill": "Ανάδοχος\n",
       "pillColor": "amber"
     },
     {
       "from": "Tony's Tile & Stone",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "Παραγγελία #4821 αποστέλλεται — παράδοση Πέμπτη\n",
+      "pill": "Παραγγελία Πωλητή\n",
       "pillColor": "lavender"
     },
     {
-      "from": "Design Within Reach",
+      "from": "Σχεδιασμός εντός προσβάσεως\n",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "Εμπορικό πρόγραμμα — εκδήλωση αποταμίευσης άνοιξης\n",
+      "pill": "Προσφορές\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "What approvals are still pending on the Henderson project?",
-    "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
-    "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
-    "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
+    "userMessage": "Ποιες εγκρίσεις εκκρεμούν ακόμη για το έργο Henderson;\n",
+    "agentResponse": "Βάσει των μηνυμάτων ηλεκτρονικού ταχυδρομείου σας με τους Hendersons, δύο στοιχεία εκκρεμούν ακόμη για έγκριση: ο κύριος νιπτήρας μπάνιου (στείλατε τις επιλογές Restoration Hardware την Τρίτη) και το ύφασμα υφασμάτων σαλονιού (τα δείγματα παραδόθηκαν την περασμένη εβδομάδα). Η Κάρεν ρώτησε επίσης για τη γυαλάδα βαφής για την τραπεζαρία, αλλά δεν έχει απαντήσει ακόμα στη σύστασή σας. Θέλετε να συντάξω μια συνέχεια;\n",
+    "followUp": "Σχεδιάστε μια απαλή συνέχεια στην Karen σχετικά με τις επιλογές νεσεσέρ και υφασμάτων\n",
+    "followUpResponse": "Έγινε! Συνέταξα μια συνέχεια στην Karen που έκανε check-in για τις επιλογές ματαιοδοξίας και υφασμάτων, αναφέροντας ότι το νεσεσέρ έχει χρόνο παράδοσης 6 εβδομάδων, επομένως μια απόφαση σύντομα θα κρατούσε το έργο εντός του χρονοδιαγράμματος. Έτοιμο για έλεγχο και αποστολή.\n"
   },
-  "testimonialsTitle": "Loved by interior designers",
+  "testimonialsTitle": "Αγαπήθηκε από διακοσμητές εσωτερικών χώρων\n",
   "testimonials": [
     {
-      "name": "Michael R.",
-      "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
+      "name": "Μάικλ Ρ.\n",
+      "title": "Κύριος Σχεδιαστής, Austin TX\n",
+      "quote": "Είμαι επί τόπου 6 ώρες την ημέρα και συντονίζω βαφείς, ηλεκτρολόγους και εγκαταστάτες πλακιδίων. Εν τω μεταξύ, τρεις άλλοι πελάτες στέλνουν email για τα έργα τους. Το Duet συντάσσει προσχέδια απαντήσεις με τις σωστές λεπτομέρειες του έργου — Απλώς εξετάζω μεταξύ των επισκέψεων στον ιστότοπο.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Francesca D.",
-      "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "name": "Φραντσέσκα Δ.\n",
+      "title": "Σχεδιαστής εσωτερικών χώρων κατοικιών, Σικάγο\n",
+      "quote": "Τα ερωτήματα των πελατών κάθονταν για μέρες επειδή ήμουν θαμμένος στα email προμηθειών και στον προγραμματισμό των εργολάβων. Τώρα το Duet ανταποκρίνεται σε νέους πελάτες σε λίγα λεπτά με τη διαδικασία και τη διαθεσιμότητά μου. Έχω κλείσει 4 επιπλέον έργα αυτό το τρίμηνο.\n",
       "avatarKey": "francesca"
     },
     {
-      "name": "Johnny M.",
-      "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "name": "Τζόνι Μ.\n",
+      "title": "Ιδιοκτήτης Design Studio, Νάσβιλ\n",
+      "quote": "Η διαχείριση email για 12 ενεργά έργα με σκότωνε. Το Duet κατηγοριοποιεί τα πάντα — νέα ερωτήματα, εκκρεμείς εγκρίσεις, παραγγελίες προμηθευτών, ενημερώσεις εργολάβων — ώστε να ξέρω ακριβώς τι χρειάζεται πρώτα την προσοχή μου.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer S.",
-      "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "name": "Τζένιφερ Σ.\n",
+      "title": "Διακοσμητής εσωτερικών χώρων, Σαν Ντιέγκο\n",
+      "quote": "Έχανα πιθανούς πελάτες επειδή δεν μπορούσα να ανταποκριθώ αρκετά γρήγορα κατά τη διάρκεια των εβδομάδων εγκατάστασης. Το Duet έμαθε τη διαδικασία διαβούλευσης, τη δομή τιμολόγησης, ακόμη και το πώς περιγράφω το σχεδιαστικό μου στυλ. Οι πελάτες δεν έχουν ιδέα ότι υποστηρίζεται από AI.\n",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sarah K.",
-      "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "name": "Σάρα Κ.\n",
+      "title": "Εμπορικός Σχεδιαστής Εσωτερικών Χώρων, Ντένβερ\n",
+      "quote": "Ανάμεσα σε χρόνους παράδοσης προμηθευτών, χρονοδιαγράμματα εργολάβων και αιτήματα αναθεώρησης πελατών, τα εισερχόμενά μου ήταν χάος. Το Duet τα ταξινομεί όλα και συντάσσει προσχέδια παρακολούθησης για εκκρεμείς εγκρίσεις. Είναι σαν να έχεις έναν συντονιστή έργου που δεν κοιμάται ποτέ.\n",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Περάστε τις μέρες σας δημιουργώντας όμορφους χώρους,\nδεν είναι θαμμένο στα εισερχόμενά σας.\n",
+  "ctaSubline": "Ξεκινήστε τη δωρεάν δοκιμή σας. Συνδέστε τα εισερχόμενά σας σε 30 δευτερόλεπτα.\n",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
-      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "Κάνω ταχυδακτυλουργικά 8-10 έργα ταυτόχρονα. Μπορεί το Duet να τα κρατήσει ίσια;\n",
+      "answer": "Ναι. Το Duet παρακολουθεί κάθε νήμα email ανά πελάτη και έργο. Όταν ρωτάτε για την κουζίνα της Henderson ή το γραφείο της Park Avenue, αντλεί το πλαίσιο από όλες τις σχετικές συνομιλίες — παραγγελίες προμηθευτών, ενημερώσεις εργολάβων, εγκρίσεις πελατών — ώστε οι απαντήσεις σας να είναι πάντα ακριβείς και να αφορούν συγκεκριμένο έργο. Δεν υπάρχει καμία ανάμειξη ποιο πλακίδιο ήταν για ποιον πελάτη.\n"
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
-      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "Συντονίζομαι με πολλούς εργολάβους και πωλητές. Το Duet βοηθά σε αυτό;",
+      "answer": "Απολύτως. Το Duet μαθαίνει τις επαφές του εργολάβου σας, τους αντιπροσώπους των προμηθευτών σας και το πλαίσιο του ρόλου κάθε συναλλαγής στα έργα σας. Όταν ο ηλεκτρολόγος σας στείλει email ότι έχει ολοκληρωθεί η πρόβλεψη, το Duet μπορεί να συντάξει μια απάντηση που επιβεβαιώνει το επόμενο βήμα ή να κάνει βρόχο στο πρόγραμμα εγκατάστασης εξαρτημάτων. Διατηρεί τη ροή εργασιών σε κίνηση ακόμα και όταν βρίσκεστε στην πόλη σε άλλη τοποθεσία εργασίας.\n"
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
+  "pricingNote": "Με 10.000 $/έργο, ένας αποθηκευμένος πελάτης πληρώνει για χρόνια Duet Pro."
 }

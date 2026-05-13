@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ landscape designers",
-  "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail για σχεδιαστές τοπίου | AI Βοηθός Email\n",
+  "metaDescription": "Το Duet Mail βοηθά τους σχεδιαστές τοπίου να ανταποκρίνονται στα email των πελατών άμεσα — ακόμη και από το πεδίο. Απαντήσεις που έχουν συνταχθεί από AI με τις λεπτομέρειες του έργου σας, την τιμολόγηση και τη φωνή σας.\n",
+  "heroBadge": "Εμπιστεύονται 300+ σχεδιαστές τοπίου\n",
+  "heroHeadline": "Ο βοηθός email σας ενώ βρίσκεστε στο πεδίο\n",
+  "heroSubline": "Το Duet μαθαίνει τις λεπτομέρειες του έργου σας, τις παλέτες των εγκαταστάσεων, την τιμολόγηση και τη διαδικασία — στη συνέχεια συντάσσει πρόχειρες απαντήσεις μέσω email, ώστε να μην χάσετε ποτέ έναν πελάτη σε μια αργή απόκριση.\n",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
-      "pill": "To Respond",
+      "subject": "Επανασχεδιασμός πίσω αυλής — δωρεάν για διαβούλευση;\n",
+      "preview": "Γεια σου! Μόλις αγοράσαμε ένα σπίτι στο Westlake και η πίσω αυλή είναι λευκή πλάκα. Θα θέλαμε έναν πλήρη επανασχεδιασμό με εγγενείς φυτεύσεις και αίθριο. Παίρνετε νέους πελάτες;\n",
+      "pill": "Για να απαντήσετε\n",
       "pillColor": "red"
     },
     {
-      "from": "Dan W. — Hardscape Co.",
+      "from": "Dan W. — Hardscape Co.\n",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "preview": "Hey, we're ready to start trenching on Monday. Can you send over the irrigation layout and head specs so we can order materials this week?",
-      "pill": "Contractor",
+      "subject": "Προδιαγραφές άρδευσης για το έργο Miller;\n",
+      "preview": "Γεια, είμαστε έτοιμοι να ξεκινήσουμε τη χάραξη τάφρων τη Δευτέρα. Μπορείτε να στείλετε τη διάταξη άρδευσης και τις προδιαγραφές κεφαλής, ώστε να παραγγείλουμε υλικά αυτήν την εβδομάδα;\n",
+      "pill": "Ανάδοχος\n",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark L.",
+      "from": "Jennifer & Mark L.\n",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Quick question about the plant selections",
-      "preview": "We love the design! Just wondering — can we swap the Japanese maple for something with more fall color? Also, is the lavender deer-resistant?",
-      "pill": "Client",
+      "subject": "Γρήγορη ερώτηση σχετικά με τις επιλογές φυτών\n",
+      "preview": "Αγαπάμε το σχέδιο! Απλώς αναρωτιέμαι — μπορούμε να ανταλλάξουμε το ιαπωνικό σφενδάμι με κάτι με πιο φθινοπωρινό χρώμα; Επίσης, το ελάφι της λεβάντας είναι ανθεκτικό;\n",
+      "pill": "πελάτη\n",
       "pillColor": "blue"
     },
     {
-      "from": "Valley View Nursery",
+      "from": "Φυτώριο με θέα στην κοιλάδα\n",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "preview": "Your order of 24 gallon shrubs, 6 specimen trees, and ground cover flats is ready. Pickup available Mon–Sat 7AM–4PM...",
-      "pill": "Supplier",
+      "subject": "Παραγγελία #4821 έτοιμη για παραλαβή\n",
+      "preview": "Η παραγγελία σας για θάμνους 24 γαλονιών, 6 δέντρα δειγμάτων και εδαφοκάλυψη είναι έτοιμη. Διατίθεται παραλαβή από Δευτέρα έως Σαβ 7 π.μ. έως 16:00...\n",
+      "pill": "Προμηθευτής\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+  "autodraft": "Γεια σου Ρέιτσελ! Θα ήθελα να βοηθήσω με την αυλή σας. Αυτήν τη στιγμή κάνω κράτηση για πρώτες διαβουλεύσεις για 2-3 εβδομάδες. Η πρώτη επίσκεψη είναι μια επιτόπια αξιολόγηση διάρκειας 90 λεπτών — θα περπατήσω στην ιδιοκτησία, θα κάνω μετρήσεις και θα συζητήσω το όραμά σας. Από εκεί έφτιαξα ένα σχέδιο ιδέας. Θέλετε να σας βάλω στο ημερολόγιο;\n",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "project",
+    "bookingUnit": "έργο\n",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Duet."
+    "punchline": "Ένα αποθηκευμένο έργο πληρώνει για χρόνια Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+  "categorizationSubtitle": "Το Duet προσθέτει αυτόματα ετικέτες σε κάθε email, ώστε να βλέπετε πρώτα νέα αιτήματα διαβούλευσης, μετά τις εγκρίσεις πελατών και ποτέ τον θόρυβο του προμηθευτή. Δεν λείπει άλλο ένα μόλυβδο θαμμένο στις επιβεβαιώσεις παραγγελιών φυτωρίου.\n",
+  "draftSubtitle": "Το Duet μαθαίνει την τιμολόγηση, τη διαδικασία και τον τόνο σας. Όταν έρχεται ένα αίτημα διαβούλευσης, συντάσσει μια πλήρη απάντηση με τη διαθεσιμότητά σας, τι να περιμένετε και τα επόμενα βήματα. Εσείς εξετάζετε και στέλνετε.\n",
+  "agentSubtitle": "\"Ποιο είναι το χρονοδιάγραμμα για το έργο Henderson;\" \"Ποιοι πελάτες περιμένουν την έγκριση του σχεδίου;\" Το Duet γνωρίζει τα εισερχόμενα και τα έργα σας — απλώς ρωτήστε.\n",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "We just bought a home and the backyard is a blank slate...",
-      "pill": "New Inquiry",
+      "subject": "Επανασχεδιασμός πίσω αυλής — δωρεάν για διαβούλευση;\n",
+      "preview": "Μόλις αγοράσαμε ένα σπίτι και η πίσω αυλή είναι λευκή πλάκα...\n",
+      "pill": "Νέα Έρευνα\n",
       "pillColor": "red"
     },
     {
-      "from": "Jennifer L.",
+      "from": "Τζένιφερ Λ.\n",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Re: Final design — we're ready to approve!",
-      "pill": "Client Approval",
+      "subject": "Re: Τελικός σχεδιασμός — είμαστε έτοιμοι να εγκρίνουμε!\n",
+      "pill": "Έγκριση Πελάτη\n",
       "pillColor": "blue"
     },
     {
-      "from": "Dan W. — Hardscape Co.",
+      "from": "Dan W. — Hardscape Co.\n",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "pill": "Contractor",
+      "subject": "Προδιαγραφές άρδευσης για το έργο Miller;\n",
+      "pill": "Ανάδοχος\n",
       "pillColor": "amber"
     },
     {
-      "from": "Valley View Nursery",
+      "from": "Φυτώριο με θέα στην κοιλάδα\n",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "pill": "Supplier",
+      "subject": "Παραγγελία #4821 έτοιμη για παραλαβή\n",
+      "pill": "Προμηθευτής\n",
       "pillColor": "lavender"
     },
     {
-      "from": "QuickBooks",
+      "from": "QuickBooks\n",
       "avatarLetter": "Q",
       "avatarColor": "lavender",
-      "subject": "Invoice #1047 viewed by client",
-      "pill": "Invoice",
+      "subject": "Το τιμολόγιο #1047 προβλήθηκε από τον πελάτη\n",
+      "pill": "Τιμολόγιο",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Which clients are still waiting on plan approval?",
-    "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
-    "followUp": "Draft a follow-up to Jennifer about the plan approval",
-    "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
+    "userMessage": "Ποιοι πελάτες περιμένουν ακόμη την έγκριση του σχεδίου;\n",
+    "agentResponse": "Βάσει των πρόσφατων μηνυμάτων ηλεκτρονικού ταχυδρομείου σας, δύο πελάτες εκκρεμούν έγκριση: η Jennifer & Mark L. (επανασχεδιασμός της πίσω αυλής — εστάλησαν τα τελικά σχέδια πριν από 4 ημέρες, δεν υπάρχει ακόμη απάντηση) και οι Cohens (εγγενής μετατροπή στην πρώτη αυλή — εστάλη αναθεωρημένο σχέδιο την περασμένη εβδομάδα). Θέλετε να συντάξω μια ήπια συνέχεια σε ένα από τα δύο;\n",
+    "followUp": "Σχεδιάστε μια συνέχεια στην Jennifer σχετικά με την έγκριση του σχεδίου\n",
+    "followUpResponse": "Έγινε! Έκανα ένα φιλικό check-in στην Jennifer, ρωτώντας της εάν αυτή και ο Mark είχαν την ευκαιρία να αναθεωρήσουν τα τελικά σχέδια και υπενθυμίζοντάς της ότι μπορείτε να κάνετε μια γρήγορη κλήση για να διαβάσετε τις επιλογές των φυτών. Έτοιμο για έλεγχο και αποστολή.\n"
   },
-  "testimonialsTitle": "Loved by landscape designers",
+  "testimonialsTitle": "Αγαπήθηκε από σχεδιαστές τοπίου\n",
   "testimonials": [
     {
-      "name": "Michael S.",
-      "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "name": "Μάικλ Σ.\n",
+      "title": "Αρχιτέκτονας Τοπίου, Austin TX\n",
+      "quote": "Κατά τη διάρκεια της άνοιξης βρίσκομαι επί τόπου 8 ώρες την ημέρα κάνοντας αξιολογήσεις και εγκαθιστώ επίβλεψη. Τα νέα αιτήματα διαβούλευσης θα ισχύουν για μέρες. Τώρα το Duet απαντά με τη διαδικασία και τη διαθεσιμότητά μου μέσα σε λίγα λεπτά. Έχω κλείσει 3 έργα που σίγουρα θα έχανα.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Francesca G.",
-      "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "name": "Φραντσέσκα Γ.\n",
+      "title": "Garden Designer, Portland OR\n",
+      "quote": "Ο συντονισμός μεταξύ των συνεργείων hardscape, των εγκαταστατών άρδευσης και των πελατών δημιουργεί έναν παράλογο όγκο email. Το Duet τα ταξινομεί όλα και συντάσσει προσχέδια απαντήσεων που περιλαμβάνουν τις σωστές λεπτομέρειες του έργου. Είναι σαν να έχεις διευθυντή στούντιο.\n",
       "avatarKey": "francesca"
     },
     {
-      "name": "Johnny M.",
-      "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "name": "Τζόνι Μ.\n",
+      "title": "Ιδιοκτήτης Studio Design Landscape, Denver CO\n",
+      "quote": "Συνήθιζα να περνώ κάθε απόγευμα μετά την επιτόπια εργασία, εντοπίζοντας μηνύματα ηλεκτρονικού ταχυδρομείου. Ίδιες ερωτήσεις — τιμολόγηση, διαδικασία, χρονοδιάγραμμα. Το Duet χειρίζεται όλα αυτά. Ο χρόνος απόκρισής μου πήγε από μέρες σε λεπτά και το ποσοστό κλεισίματός μου είναι πολύ υψηλό.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer R.",
-      "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "name": "Τζένιφερ Ρ.\n",
+      "title": "Σχεδιαστής οικιστικών τοπίων, Scottsdale AZ\n",
+      "quote": "Οι πελάτες μου κάνουν πολλές ερωτήσεις σχετικά με τις επιλογές φυτών και τη συντήρηση. Το Duet έμαθε τις παλέτες των φυτών μου και τις οδηγίες φροντίδας και συντάσσει απαντήσεις που δεν χρειάζεται να επεξεργαστώ. Οι πελάτες πιστεύουν ότι ανταποκρίνομαι απίστευτα.\n",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sarah K.",
-      "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "name": "Σάρα Κ.\n",
+      "title": "Native Plant Landscape Designer, Raleigh NC\n",
+      "quote": "Έχανα νέους πελάτες γιατί δεν μπορούσα να απαντήσω όσο ήμουν μέχρι το γόνατο σε μια εγκατάσταση φύτευσης. Το Duet συντάσσει προσχέδια απαντήσεων διαβούλευσης με την ακριβή διαδικασία, την τιμολόγηση και το τι να περιμένω. Πλήρωσε την πρώτη εβδομάδα.\n",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Περάστε τις μέρες σας δημιουργώντας τοπία,\nδεν προλαβαίνω το email.\n",
+  "ctaSubline": "Ξεκινήστε τη δωρεάν δοκιμή σας. Συνδέστε τα εισερχόμενά σας σε 30 δευτερόλεπτα.\n",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "Μπορεί το Duet να χειριστεί την ανοιξιάτικη βιασύνη όταν συσσωρεύονται αιτήματα διαβούλευσης;\n",
+      "answer": "Τότε ακριβώς λάμπει το Duet. Κατά τη διάρκεια της πιο πολυσύχναστης σεζόν, κάθε νέα έρευνα λαμβάνει μια γρήγορη, λεπτομερή απάντηση με τη διαδικασία, το χρονοδιάγραμμα και τη διαθεσιμότητά σας — ακόμα και όταν βρίσκεστε στο χώρο όλη την ημέρα. Δεν θα χάνετε πλέον ανοιξιάτικες απαγωγές γιατί δεν μπορούσατε να τους επιστρέψετε μέχρι τις 9 μ.μ.\n"
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
-      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "Συντονίζομαι με πολλαπλά συνεργεία εξωτερικού χώρου. Το Duet βοηθά σε αυτό;\n",
+      "answer": "Ναι. Το Duet μαθαίνει τα έργα σας και τους εμπλεκόμενους εργολάβους — hardscape, άρδευση, συνεργεία φύτευσης, φυτώρια. Κατηγοριοποιεί τα email των εργολάβων ξεχωριστά από τα email πελατών και μπορεί να συντάξει απαντήσεις με λεπτομέρειες σχετικά με το έργο, όπως προδιαγραφές, χρονοδιαγράμματα και υλικά. Παραμένετε στην κορυφή κάθε πληρώματος χωρίς το χάος των εισερχομένων."
     }
   ],
-  "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
+  "pricingNote": "Με 8.000 $/έργο, ένας αποθηκευμένος πελάτης πληρώνει για χρόνια Pro."
 }

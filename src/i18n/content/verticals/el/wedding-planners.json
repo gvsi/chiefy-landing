@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail for Wedding Planners | AI Email Assistant",
-  "metaDescription": "Duet Mail helps wedding planners respond to client and vendor emails instantly — even from venue walkthroughs. AI-drafted replies with your packages, vendor contacts, and voice.",
-  "heroBadge": "Trusted by 400+ wedding planners",
-  "heroHeadline": "Your email assistant while you're on-site at the venue",
-  "heroSubline": "Duet learns your vendor contacts, packages, and client preferences — then drafts email replies so couples never wait while you're coordinating on the ground.",
+  "pageTitle": "Duet Mail για διοργανωτές γάμου | AI Βοηθός Email\n",
+  "metaDescription": "Το Duet Mail βοηθά τους διοργανωτές γάμου να ανταποκρίνονται στα email των πελατών και των προμηθευτών άμεσα — ακόμα και από τις οδηγίες του χώρου. Απαντήσεις που έχουν συνταχθεί από AI με τα πακέτα, τις επαφές του προμηθευτή και τη φωνή σας.\n",
+  "heroBadge": "Εμπιστεύονται 400+ διοργανωτές γάμου\n",
+  "heroHeadline": "Ο βοηθός ηλεκτρονικού ταχυδρομείου σας ενώ βρίσκεστε στον χώρο του ξενοδοχείου\n",
+  "heroSubline": "Το Duet μαθαίνει τις επαφές, τα πακέτα και τις προτιμήσεις των πελατών σας με τον προμηθευτή σας — στη συνέχεια συντάσσει πρόχειρες απαντήσεις μέσω email, ώστε τα ζευγάρια να μην περιμένουν ποτέ όσο εσείς συντονίζεστε στο έδαφος.\n",
   "inboxEmails": [
     {
-      "from": "Emily & James W.",
+      "from": "Emily & James W.\n",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages...",
-      "pill": "To Respond",
+      "subject": "Διαθεσιμότητα για γάμο στις 20 Σεπτεμβρίου;\n",
+      "preview": "Γεια σου! Μόλις αρραβωνιαστήκαμε και κοιτάμε έναν γάμο στις 20 Σεπτεμβρίου για περίπου 120 καλεσμένους. Έχετε διαθεσιμότητα; Ποια είναι τα πακέτα σας...\n",
+      "pill": "Για να απαντήσετε\n",
       "pillColor": "red"
     },
     {
-      "from": "Bella Rosa Florals",
+      "from": "Bella Rosa Florals\n",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "preview": "Here are the three centerpiece options we discussed. The garden roses came in beautifully. Let me know which direction the couple wants to go...",
-      "pill": "Vendor",
+      "subject": "Re: Thompson wedding — κεντρικές μακέτες\n",
+      "preview": "Εδώ είναι οι τρεις βασικές επιλογές που συζητήσαμε. Τα τριαντάφυλλα του κήπου μπήκαν όμορφα. Πείτε μου ποια κατεύθυνση θέλει να πάει το ζευγάρι...\n",
+      "pill": "Πωλητής\n",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel K.",
+      "from": "Ρέιτσελ Κ.\n",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Freaking out about the seating chart",
-      "preview": "I know we finalized the chart last week but my mom just RSVPd 4 extra people and I have no idea where to put them. Can we move some tables around...",
-      "pill": "Client",
+      "subject": "Τρομοκρατημένος με τον πίνακα θέσεων\n",
+      "preview": "Ξέρω ότι οριστικοποιήσαμε το γράφημα την περασμένη εβδομάδα, αλλά η μαμά μου μόλις ζήτησε 4 επιπλέον άτομα και δεν έχω ιδέα πού να τα βάλω. Μπορούμε να μετακινήσουμε μερικά τραπέζια...\n",
+      "pill": "πελάτη\n",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "Ο Κόμβος\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
-      "preview": "A couple has requested more information about your services. View details and respond...",
-      "pill": "FYI",
+      "subject": "Νέα έρευνα από την καταχώρισή σας\n",
+      "preview": "Ένα ζευγάρι ζήτησε περισσότερες πληροφορίες σχετικά με τις υπηρεσίες σας. Δείτε λεπτομέρειες και απαντήστε...\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Emily & James — congratulations on your engagement! September 20th is available and 120 guests is a perfect size. I offer full planning, partial planning, and day-of coordination packages. I'd love to set up a complimentary consultation to learn your vision. Are you free for a quick call this week?",
+  "autodraft": "Γεια σου Emily & James — συγχαρητήρια για τον αρραβώνα σου! Η 20η Σεπτεμβρίου είναι διαθέσιμη και 120 άτομα είναι ένα τέλειο μέγεθος. Προσφέρω πλήρη προγραμματισμό, μερικό προγραμματισμό και πακέτα συντονισμού ημέρας. Θα ήθελα πολύ να οργανώσω μια δωρεάν διαβούλευση για να μάθω το όραμά σας. Είστε ελεύθεροι για μια γρήγορη κλήση αυτή την εβδομάδα;\n",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "wedding",
+    "bookingUnit": "γάμος\n",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved client pays for over 20 years of Duet."
+    "punchline": "Ένας αποθηκευμένος πελάτης πληρώνει για περισσότερα από 20 χρόνια Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new couple inquiries first, vendor confirmations second, and newsletter noise never. No more missing a booking request buried under Knot alerts.",
-  "draftSubtitle": "Duet learns your packages, preferred vendors, and tone. When a couple inquires, it drafts a warm, complete reply with your availability and next steps. You review and send.",
-  "agentSubtitle": "\"What vendor emails came in for the Thompson wedding?\" \"Draft a timeline update to all vendors for Saturday.\" Duet knows your inbox and clients — just ask.",
+  "categorizationSubtitle": "Το Duet προσθέτει αυτόματα ετικέτες σε κάθε email, ώστε να βλέπετε πρώτα νέα ερωτήματα για ζευγάρια, μετά τις επιβεβαιώσεις προμηθευτών και ποτέ το θόρυβο του ενημερωτικού δελτίου. Δεν θα χάσετε πλέον ένα αίτημα κράτησης που είναι θαμμένο στις ειδοποιήσεις Knot.\n",
+  "draftSubtitle": "Το Duet μαθαίνει τα πακέτα, τους προτιμώμενους προμηθευτές και τον τόνο σας. Όταν ένα ζευγάρι ρωτά, συντάσσει μια θερμή, ολοκληρωμένη απάντηση με τη διαθεσιμότητά σας και τα επόμενα βήματα. Εσείς εξετάζετε και στέλνετε.\n",
+  "agentSubtitle": "\"Τι emails πωλητών ήρθαν για τον γάμο της Thompson;\" \"Σχέδιο ενημέρωσης χρονοδιαγράμματος για όλους τους προμηθευτές για το Σάββατο.\" Το Duet γνωρίζει τα εισερχόμενα και τους πελάτες σας — απλώς ρωτήστε.\n",
   "categorizationEmails": [
     {
-      "from": "Emily & James W.",
+      "from": "Emily & James W.\n",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "We just got engaged and are looking at September 20th...",
-      "pill": "Respond Now",
+      "subject": "Διαθεσιμότητα για γάμο στις 20 Σεπτεμβρίου;\n",
+      "preview": "Μόλις αρραβωνιαστήκαμε και κοιτάμε 20 Σεπτεμβρίου...\n",
+      "pill": "Απαντήστε τώρα\n",
       "pillColor": "red"
     },
     {
-      "from": "Bella Rosa Florals",
+      "from": "Bella Rosa Florals\n",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "pill": "Vendor",
+      "subject": "Re: Thompson wedding — κεντρικές μακέτες\n",
+      "pill": "Πωλητής\n",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel K.",
+      "from": "Ρέιτσελ Κ.\n",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Re: Seating chart — final version attached",
-      "pill": "Client",
+      "subject": "Απ: Πίνακας θέσεων — επισυνάπτεται η τελική έκδοση\n",
+      "pill": "πελάτη\n",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "Ο Κόμβος\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
-      "pill": "FYI",
+      "subject": "Νέα έρευνα από την καταχώρισή σας\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     },
     {
-      "from": "Minted",
+      "from": "Κοπή\n",
       "avatarLetter": "M",
       "avatarColor": "lavender",
       "subject": "20% off save-the-dates this week",
-      "pill": "Promotions",
+      "pill": "Προσφορές\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "What vendor emails came in for the Thompson wedding this week?",
-    "agentResponse": "You received 4 vendor emails for the Thompson wedding this week: Bella Rosa Florals sent centerpiece mockups (awaiting couple's pick), Lakeside Venue confirmed the ceremony rehearsal for Friday at 4 PM, DJ Marco sent the updated song list, and Sweet Layers Bakery needs final cake flavor by Wednesday. Want me to draft replies to any of these?",
-    "followUp": "Draft a reply to Bella Rosa with the couple's pick — Option B, the garden roses",
-    "followUpResponse": "Done! I drafted a reply to Bella Rosa Florals confirming Option B — the garden rose centerpieces for the Thompson wedding. It includes a note to proceed with the full order for 14 tables. Ready to review and send."
+    "userMessage": "Ποια email πωλητών ήρθαν για τον γάμο της Thompson αυτή την εβδομάδα;",
+    "agentResponse": "Λάβατε 4 email πωλητών για τον γάμο της Thompson αυτήν την εβδομάδα: η Bella Rosa Florals έστειλε κεντρικές μακέτες (αναμένοντας την επιλογή του ζευγαριού), το Lakeside Venue επιβεβαίωσε την πρόβα της τελετής για την Παρασκευή στις 4 μ.μ., ο DJ Marco έστειλε την ενημερωμένη λίστα τραγουδιών και το Sweet Layers Bakery χρειάζεται την τελευταία γεύση κέικ μέχρι την Τετάρτη. Θέλετε να συντάξω απαντήσεις σε οποιοδήποτε από αυτά;\n",
+    "followUp": "Σχεδιάστε μια απάντηση στην Bella Rosa με την επιλογή του ζευγαριού — Επιλογή Β, τα τριαντάφυλλα στον κήπο\n",
+    "followUpResponse": "Έγινε! Συνέταξα μια απάντηση στην Bella Rosa Florals επιβεβαιώνοντας την Επιλογή Β - τα κεντρικά τριαντάφυλλα κήπου για τον γάμο της Thompson. Περιλαμβάνει μια σημείωση για να προχωρήσετε στην πλήρη παραγγελία για 14 τραπέζια. Έτοιμο για έλεγχο και αποστολή.\n"
   },
-  "testimonialsTitle": "Loved by wedding planners",
+  "testimonialsTitle": "Αγαπήθηκε από τους διοργανωτές γάμου\n",
   "testimonials": [
     {
-      "name": "Francesca M.",
-      "title": "Boutique Wedding Planner, CO",
-      "quote": "I'm at mountain venues with zero cell service half my week. Meanwhile couples are emailing me about timelines and vendor questions. Duet drafts replies with my exact packages and tone — I review them when I'm back in range.",
+      "name": "Φραντσέσκα Μ.\n",
+      "title": "Boutique Wedding Planner, CO\n",
+      "quote": "Είμαι σε ορεινούς χώρους με μηδενική υπηρεσία κινητής τηλεφωνίας τη μισή μου εβδομάδα. Εν τω μεταξύ, τα ζευγάρια μου στέλνουν email για χρονοδιαγράμματα και ερωτήσεις προμηθευτών. Το Duet συντάσσει απαντήσεις με τα ακριβή πακέτα και τον τόνο μου — τα εξετάζω όταν επιστρέψω στην εμβέλεια.\n",
       "avatarKey": "francesca"
     },
     {
-      "name": "Michael T.",
-      "title": "Full-Service Wedding Planner, CA",
-      "quote": "Coordinating 10+ vendors per wedding means my inbox is a war zone during peak season. Duet categorizes vendor emails separately from client emails and drafts follow-ups I'd have written myself. I actually sleep now.",
+      "name": "Μάικλ Τ.\n",
+      "title": "Full-Service Wedding Planner, CA\n",
+      "quote": "Ο συντονισμός 10+ πωλητών ανά γάμο σημαίνει ότι τα εισερχόμενά μου είναι εμπόλεμη ζώνη κατά την περίοδο αιχμής. Το Duet κατηγοριοποιεί τα μηνύματα ηλεκτρονικού ταχυδρομείου προμηθευτών ξεχωριστά από τα μηνύματα ηλεκτρονικού ταχυδρομείου πελατών και συντάσσει προσχέδια παρακολούθησης που θα είχα γράψει ο ίδιος. Πραγματικά κοιμάμαι τώρα.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah L.",
-      "title": "Day-of Coordinator, TX",
-      "quote": "On wedding days I'm unavailable for 14 hours straight. New inquiries used to sit unanswered until Monday. Now Duet handles them instantly and I've booked 3 extra weddings this quarter from faster response times alone.",
+      "name": "Σάρα Λ.\n",
+      "title": "Day-of Coordinator, TX\n",
+      "quote": "Τις ημέρες του γάμου δεν είμαι διαθέσιμος για 14 ώρες συνεχόμενα. Τα νέα ερωτήματα έμεναν αναπάντητα μέχρι τη Δευτέρα. Τώρα το Duet τα χειρίζεται άμεσα και έχω κλείσει 3 επιπλέον γάμους αυτό το τρίμηνο μόνο από ταχύτερους χρόνους απόκρισης.\n",
       "avatarKey": "sarah"
     },
     {
-      "name": "Johnny R.",
-      "title": "Destination Wedding Planner, HI",
-      "quote": "My couples fly in from all over the world and email at all hours. Duet learned my FAQ answers — venue logistics, local vendors, what to expect — and drafts replies that sound exactly like me. Clients have no idea.",
+      "name": "Τζόνι Ρ.\n",
+      "title": "Προορισμός Wedding Planner, HI\n",
+      "quote": "Τα ζευγάρια μου πετούν από όλο τον κόσμο και στέλνουν email όλες τις ώρες. Το Duet έμαθε τις απαντήσεις μου στις Συχνές Ερωτήσεις — logistics χώρου, τοπικοί προμηθευτές, τι να περιμένουμε — και συντάσσει προσχέδια απαντήσεις που ακούγονται ακριβώς όπως εμένα. Οι πελάτες δεν έχουν ιδέα.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer A.",
-      "title": "Wedding & Event Planner, NY",
-      "quote": "I was spending 2 hours every night answering the same package and availability questions. Duet handles the repetitive stuff so I can focus on the creative work I actually love. It paid for itself in the first week.",
+      "name": "Τζένιφερ Α.\n",
+      "title": "Wedding & Event Planner, NY\n",
+      "quote": "Περνούσα 2 ώρες κάθε βράδυ απαντώντας στο ίδιο πακέτο και ερωτήσεις διαθεσιμότητας. Το Duet χειρίζεται τα επαναλαμβανόμενα πράγματα, ώστε να μπορώ να επικεντρωθώ στη δημιουργική δουλειά που πραγματικά αγαπώ. Πλήρωσε τον εαυτό του την πρώτη εβδομάδα.\n",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Be present at the ceremony,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Να είστε παρόντες στην τελετή,\nδεν είναι θαμμένο στα εισερχόμενά σας.\n",
+  "ctaSubline": "Ξεκινήστε τη δωρεάν δοκιμή σας. Συνδέστε τα εισερχόμενά σας σε 30 δευτερόλεπτα.\n",
   "verticalFaqs": [
     {
-      "question": "Does Duet work with all the vendor coordination emails?",
-      "answer": "Yes. Duet learns your vendor contacts, preferred vendors, and how you communicate with each one. It categorizes vendor emails by wedding and drafts replies with the right details — confirmations, follow-ups, timeline updates. You review and send. It handles florists, caterers, venues, DJs, photographers, and every other vendor in your rolodex."
+      "question": "Λειτουργεί το Duet με όλα τα μηνύματα ηλεκτρονικού ταχυδρομείου συντονισμού προμηθευτών;\n",
+      "answer": "Ναι. Το Duet μαθαίνει τις επαφές του προμηθευτή σας, τους προτιμώμενους προμηθευτές και τον τρόπο επικοινωνίας με τον καθένα. Κατηγοριοποιεί τα email των προμηθευτών ανά γάμο και συντάσσει τις απαντήσεις με τις σωστές λεπτομέρειες — επιβεβαιώσεις, επακόλουθες ενέργειες, ενημερώσεις χρονοδιαγράμματος. Εσείς εξετάζετε και στέλνετε. Διαχειρίζεται ανθοπωλεία, catering, χώρους εκδηλώσεων, DJs, φωτογράφους και κάθε άλλο πωλητή στο rolodex σας.\n"
     },
     {
-      "question": "I'm on-site at weddings and venues all day. Will I miss new inquiries?",
-      "answer": "That's exactly what Duet solves. When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps. You review and send whenever you're free — even from your phone between events. Most planners tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Είμαι επί τόπου σε γάμους και χώρους όλη μέρα. Θα χάσω νέες έρευνες;",
+      "answer": "Αυτό ακριβώς λύνει το Duet. Όταν ένα ζευγάρι στέλνει email ρωτώντας σχετικά με τη διαθεσιμότητα ή τα πακέτα ενώ συντονίζετε επιτόπου, το Duet συντάσσει μια θερμή, επαγγελματική απάντηση με την πραγματική σας διαθεσιμότητα και τα επόμενα βήματα. Ελέγχετε και στέλνετε όποτε είστε ελεύθεροι — ακόμα και από το τηλέφωνό σας μεταξύ των εκδηλώσεων. Οι περισσότεροι σχεδιαστές μας λένε ότι τους εξοικονομεί 1-2 ώρες χρόνο email την ημέρα κατά την περίοδο αιχμής.\n"
     }
   ],
-  "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."
+  "pricingNote": "Με 8.000 $/γάμο, ένας αποθηκευμένος πελάτης πληρώνει για περισσότερα από 20 χρόνια Pro."
 }

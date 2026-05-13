@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail για εκδρομές με έλκηθρο σκυλιών | AI Βοηθός Email\n",
+  "metaDescription": "Το Duet Mail βοηθά τους χρήστες να ανταποκρίνονται στα email κράτησης άμεσα — ακόμα και από το μονοπάτι. Απαντήσεις που έχουν συνταχθεί από AI με τους τύπους περιήγησης, τις τιμές, τις πολιτικές και τη φωνή σας.\n",
+  "heroBadge": "Εμπιστεύονται 200+ μασέρ\n",
+  "heroHeadline": "Ο βοηθός email σας ενώ είστε στο μονοπάτι\n",
+  "heroSubline": "Το Duet μαθαίνει τους τύπους περιηγήσεων, τις τιμές, τις πολιτικές καιρού και τα πρόσθετα — στη συνέχεια συντάσσει πρόχειρες απαντήσεις μέσω email, ώστε να μην χάσετε ποτέ μια κράτηση λόγω αργής απόκρισης.\n",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "Συνδυασμός έλκηθρου Aurora + σκύλου για 4;\n",
+      "preview": "Γεια σου! Η 4μελής οικογένειά μου επισκέπτεται το Fairbanks τον Ιανουάριο. Προσφέρετε ένα σύνθετο πακέτο με έλκηθρο σκύλου και θέαση σέλας; Ποια είναι η τιμή;\n",
+      "pill": "Για να απαντήσετε\n",
       "pillColor": "red"
     },
     {
-      "from": "James W.",
+      "from": "James W.\n",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Τι να φορέσουμε;\n",
+      "preview": "Έχουμε κάνει κράτηση για την 2ωρη εμπειρία μούχλας το Σάββατο. Τι να φορέσουμε; Παρέχετε εξοπλισμό ή πρέπει να φέρουμε το δικό μας...\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "Kim & Brian L.",
+      "from": "Kim & Brian L.\n",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "Παιδιά ηλικίας 5 και 8 ετών — μπορούν να χυλώσουν;\n",
+      "preview": "Φέρνουμε τα δύο παιδιά μας (5 και 8). Μπορούν να οδηγήσουν στο έλκηθρο ή πραγματικά να βοηθήσουν στο χυλό; Επίσης τα σκυλιά τα πάνε καλά με τα μικρά παιδιά...\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "TripAdvisor\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Νέα κριτική για την καταχώρισή σας\n",
+      "preview": "Ένας ταξιδιώτης αξιολόγησε πρόσφατα την επιχείρησή σας. Δείτε τι είπαν και απαντήστε...\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "Γεια σου Ρέιτσελ! Θα θέλαμε να φιλοξενήσουμε την οικογένειά σας. Το Aurora + Mush Combo μας κοστίζει 175 $/άτομο — έχετε μια βόλτα με έλκηθρο 1,5 ώρας στα μονοπάτια το σούρουπο και μετά ζεστό κακάο δίπλα στη φωτιά όσο περιμένουμε τα φώτα. Παρέχεται όλος ο εξοπλισμός για το κρύο. Τα παιδιά 12 ετών και κάτω κοστίζουν 125 $. Θέλετε να σας κάνω κράτηση για τον Ιανουάριο;\n",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "tour",
+    "bookingUnit": "περιοδεία\n",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Δύο αποθηκευμένες κρατήσεις πληρώνουν για ένα έτος Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Το Duet προσθέτει αυτόματα ετικέτες σε κάθε email, ώστε να βλέπετε πρώτα τα αιτήματα κράτησης, μετά τις ερωτήσεις και το noise never. Δεν θα χάσετε άλλο μια έρευνα περιήγησης που θαφτεί κάτω από τις ειδοποιήσεις του TripAdvisor.\n",
+  "draftSubtitle": "Το Duet μαθαίνει τους τύπους, τις τιμές και τον τόνο της περιοδείας σας. Όταν εμφανίζεται μια ερώτηση κράτησης, συντάσσει μια πλήρη απάντηση με λεπτομέρειες πακέτου, τι να φορέσετε και πρόσθετα. Εσείς εξετάζετε και στέλνετε.\n",
+  "agentSubtitle": "\"Κάθε κράτηση αυτό το Σαββατοκύριακο;\" \"Σχέδιο απάντησης σχετικά με τον συνδυασμό σέλας.\" Το Duet γνωρίζει τα εισερχόμενα και το πρόγραμμά σας — απλώς ρωτήστε.\n",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "Συνδυασμός έλκηθρου Aurora + σκύλου για 4;\n",
+      "preview": "Η 4μελής οικογένειά μου επισκέπτεται το Fairbanks τον Ιανουάριο...\n",
+      "pill": "Απαντήστε τώρα\n",
       "pillColor": "red"
     },
     {
-      "from": "James W.",
+      "from": "James W.\n",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "Απάντηση: Η κράτηση επιβεβαιώθηκε — Σάββατο 13:00\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "Kim L.",
+      "from": "Kim L.\n",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "Μπορούν τα παιδιά μας (5 και 8) να οδηγήσουν μαζί;\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "Viator\n",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Περίληψη της εβδομαδιαίας κράτησής σας\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     },
     {
-      "from": "Alaska Gear Co.",
+      "from": "Alaska Gear Co.\n",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "Χειμερινές εκπτώσεις — 30% έκπτωση στις ιμάντες χυλώματος\n",
+      "pill": "Προσφορές\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "Έρχονται κρατήσεις αυτό το Σαββατοκύριακο; Ο καιρός φαίνεται άβολος.\n",
+    "agentResponse": "Έχετε κλείσει 3 εκδρομές αυτό το Σαββατοκύριακο: μια επίσκεψη σε ρείθρο το Σάββατο στις 10 π.μ. (2 άτομα), μια 2ωρη εμπειρία μούχλας το Σάββατο στη 1 μ.μ. (4 άτομα) και μια κομπίνα σέλας την Κυριακή στις 4 μ.μ. (6 άτομα). Η ομάδα της Κυριακής ρώτησε για την πολιτική ακύρωσης. Θέλετε να συντάξω μια ενημέρωση καιρού και για τα τρία;",
+    "followUp": "Σχεδιάστε μια ενημέρωση για τον καιρό στο ομαδικό aurora της Κυριακής\n",
+    "followUpResponse": "Έγινε! Συνέταξα μια απάντηση στην ομάδα του Κυριακάτικου σέλας, ενημερώνοντάς τους ότι παρακολουθείτε τις συνθήκες και θα επιβεβαιώσει μέχρι το Σάββατο το απόγευμα. Περιλαμβάνει την πολιτική αναπρογραμματισμού και εναλλακτικές ημερομηνίες. Έτοιμο για έλεγχο και αποστολή.\n"
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "Αγαπημένος από mushers και tour operators\n",
   "testimonials": [
     {
-      "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "name": "Ράιαν Χ.\n",
+      "title": "Sled Dog Tour Operator, AK\n",
+      "quote": "Είμαι στο μονοπάτι 6 ώρες την ημέρα με μηδενική υπηρεσία κινητής τηλεφωνίας. Μέχρι να επιστρέψω, οι μισές ερωτήσεις κράτησης είχαν πάει σε άλλη στολή. Το Duet απαντά πρόχειρα με τις λεπτομέρειες της περιοδείας μου και την τιμολόγηση — οι επισκέπτες ακούν σε λίγα λεπτά και όχι σε ώρες.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Megan K.",
-      "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "name": "Μέγκαν Κ.\n",
+      "title": "Kennel & Mush Tour Owner, AK\n",
+      "quote": "Προσφέρουμε επισκέψεις σε ρείθρο, βόλτες με χύμα και συνδυασμούς σέλας — κάθε email χρειάζεται διαφορετική απάντηση. Το Duet ανακάλυψε και τους τρεις τύπους περιοδειών σε μια εβδομάδα και τώρα συντάσσει πρόχειρες απαντήσεις που ταιριάζουν με το σωστό πακέτο κάθε φορά.\n",
       "avatarKey": "sarah"
     },
     {
-      "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "name": "Τράβις Β.\n",
+      "title": "Οδηγός έλκηθρου σκύλου, MN\n",
+      "quote": "Περνούσα κάθε απόγευμα απαντώντας στις ίδιες ερωτήσεις σχετικά με το τι να φορέσω, τα όρια ηλικίας και τα σκυλιά. Το Duet χειρίζεται όλα αυτά. Γυρνάω σπίτι από το μονοπάτι και όλα έχουν ετοιμαστεί και περιμένουν.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Annika S.",
-      "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "name": "Άνικα Σ.\n",
+      "title": "Aurora & Sled Tour Operator, AK\n",
+      "quote": "Οι ακυρώσεις του καιρού είναι συνεχείς τον χειμώνα. Το Duet συντάσσει πρόχειρα επαναπρογραμματίζοντας απαντήσεις με την πολιτική μας και εναλλακτικές ημερομηνίες προτού καν έχω την ευκαιρία να ελέγξω το τηλέφωνό μου. Στους επισκέπτες αρέσει η γρήγορη απόκριση.\n",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Cara D.",
-      "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "name": "Κάρα Δ.\n",
+      "title": "Family Dog Sled Adventures, CO\n",
+      "quote": "Οι γονείς πάντα ρωτούν αν τα παιδιά τους μπορούν να λυγίσουν, αν τα σκυλιά είναι φιλικά, τι να φορέσουν - οι ίδιες 10 ερωτήσεις. Το Duet έμαθε κάθε απάντηση και τις συντάσσει τέλεια. Είναι σαν να κλωνοποιώ τον εαυτό μου για email.\n",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Περάστε το χειμώνα στο μονοπάτι με τα σκυλιά σας,\nόχι στα εισερχόμενά σας.\n",
+  "ctaSubline": "Ξεκινήστε τη δωρεάν δοκιμή σας. Συνδέστε τα εισερχόμενά σας σε 30 δευτερόλεπτα.\n",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "Πώς χειρίζεται το Duet τις ακυρώσεις καιρού και την αβεβαιότητα σέλας;\n",
+      "answer": "Το Duet μαθαίνει τις πολιτικές ακύρωσης και επαναπρογραμματισμού. Όταν ένας επισκέπτης στέλνει μήνυμα ηλεκτρονικού ταχυδρομείου σχετικά με τις καιρικές συνθήκες ή την ορατότητα της σέλας, συντάσσει μια απάντηση με την πολιτική σας, εναλλακτικές ημερομηνίες και τυχόν σχετικές λεπτομέρειες — όπως η παρακολούθηση των συνθηκών και η επιβεβαίωση πιο κοντά στην περιοδεία. Εσείς εξετάζετε και στέλνετε.\n"
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "Προσφέρω πολλούς τύπους περιηγήσεων με διαφορετικές τιμές και πρόσθετα. Μπορεί το Duet να τα κρατήσει ίσια;\n",
+      "answer": "Ναι. Το Duet μαθαίνει κάθε έναν από τους τύπους περιοδείας σας — επισκέψεις σε ρείθρο, εμπειρίες μελιού, συνδυασμούς σέλας, πρόσθετα φωτογραφίας, πακέτα μεταφοράς — μαζί με την τιμολόγηση, τη διάρκεια και το τι περιλαμβάνει. Όταν έρχεται μια ερώτηση, ταιριάζει με τη σωστή περιήγηση και συντάσσει μια απάντηση με τις σωστές λεπτομέρειες.\n"
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "Με 150 $/περιοδεία, δύο αποθηκευμένες κρατήσεις πληρώνουν για περισσότερο από ένα χρόνο Pro."
 }

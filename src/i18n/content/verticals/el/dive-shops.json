@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail για Καταδύσεις | AI Βοηθός Email\n",
+  "metaDescription": "Το Duet Mail βοηθά τους ιδιοκτήτες καταδυτικών καταστημάτων και τους εκπαιδευτές PADI να απαντούν άμεσα σε αιτήματα πιστοποίησης, σε κρατήσεις ταξιδιών και σε ερωτήσεις εξοπλισμού — ακόμη και από υποβρύχια.\n",
+  "heroBadge": "Εμπιστεύονται 300+ χειριστές καταδύσεων\n",
+  "heroHeadline": "Ο βοηθός email σας ενώ βρίσκεστε κάτω από το νερό\n",
+  "heroSubline": "Το Duet μαθαίνει τις τοποθεσίες κατάδυσης, τις απαιτήσεις πιστοποίησης, τις τιμές και τη φωνή σας — στη συνέχεια συντάσσει προσχέδια απαντήσεων μέσω email, ώστε να μην χάσετε ποτέ μια κράτηση ενώ βρίσκεστε στο σκάφος.\n",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "Πιστοποίηση Open Water — διαθεσιμότητα;\n",
+      "preview": "Γεια σου! Επισκέπτομαι την πρώτη εβδομάδα του Αυγούστου και θέλω να πάρω το πιστοποιητικό Open Water. Πόσες μέρες χρειάζονται και τι περιλαμβάνει;\n",
+      "pill": "Για να απαντήσετε\n",
       "pillColor": "red"
     },
     {
-      "from": "Kevin & Amy L.",
+      "from": "Kevin & Amy L.\n",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "Ομάδα 6 για κατάδυση 2 τανκς το Σάββατο\n",
+      "preview": "Έχουμε 6 πιστοποιημένους δύτες και θέλουμε να κλείσουμε μια πρωινή κατάδυση με 2 άρματα μάχης αυτό το Σάββατο. Έχεις χώρο; Ποια είναι η τιμή ανά άτομο...\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "Jason M.",
+      "from": "Jason M.\n",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "Ενοικίαση BCD για το Σαββατοκύριακο;\n",
+      "preview": "Γεια, είμαι πιστοποιημένος, αλλά ταξιδεύω ελαφριά. Ενοικιάζετε BCD και ρυθμιστές; Θα τα χρειαζόμουν Παρασκευή με Κυριακή...\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "PADI eLearning",
+      "from": "PADI eLearning\n",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
-      "pill": "FYI",
+      "subject": "Παραπομπή μαθητή: Rachel Torres\n",
+      "preview": "Ένας μαθητής ολοκλήρωσε το eLearning του και επέλεξε το καταδυτικό σας κέντρο για εκπαίδευση σε περιορισμένο και ανοιχτό νερό...\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "Γεια σου Ρέιτσελ! Θα θέλαμε να σας πάρουμε την πιστοποίηση. Το μάθημα Open Water διαρκεί 3 ημέρες — μία ημέρα περιόδων πισίνας και δύο ημέρες καταδύσεων στον ωκεανό. Περιλαμβάνεται όλος ο εξοπλισμός. Ο Αύγουστος είναι ορθάνοιχτος. Θέλετε να κάνω κράτηση θέσης για εκείνη την πρώτη εβδομάδα;\n",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
+    "bookingUnit": "βουτιά\n",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "Μια αποθηκευμένη ομαδική κατάδυση πληρώνει για ένα χρόνο Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Το Duet προσθέτει αυτόματα ετικέτες σε κάθε email, ώστε να βλέπετε πρώτα τα ερωτήματα για την πιστοποίηση και τις κρατήσεις κατάδυσης, μετά τις ερωτήσεις σχετικά με τον εξοπλισμό και τις ειδοποιήσεις PADI όταν είστε έτοιμοι. Δεν θα λείπει άλλο μια ομαδική κράτηση που βρίσκεται κάτω από τα ενημερωτικά δελτία εξοπλισμού.\n",
+  "draftSubtitle": "Το Duet μαθαίνει τις τοποθεσίες κατάδυσης, τις απαιτήσεις πιστοποιητικών και την τιμολόγηση. Όταν εμφανίζεται μια ερώτηση κράτησης, συντάσσει μια πλήρη απάντηση με λεπτομέρειες ταξιδιού, τι περιλαμβάνει και τι πρέπει να φέρει. Εσείς εξετάζετε και στέλνετε.\n",
+  "agentSubtitle": "\"Πόσοι δύτες έχουν κρατηθεί για το Σάββατο;\" \"Σχέδιο απάντησης στη Rachel με διαθεσιμότητα Open Water.\" Το Duet γνωρίζει τα εισερχόμενα και το πρόγραμμά σας — απλώς ρωτήστε.\n",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "Πιστοποίηση Open Water — διαθεσιμότητα;\n",
+      "preview": "Επισκέπτομαι την πρώτη εβδομάδα του Αυγούστου και θέλω να πάρω πιστοποίηση...\n",
+      "pill": "Απαντήστε τώρα\n",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "Κέβιν Λ.\n",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Απάντηση: Η κράτηση επιβεβαιώθηκε — Σάββατο κατάδυση με 2 τανκς\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "Jason M.",
+      "from": "Jason M.\n",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "Ενοικίαση BCD και ρυθμιστή αυτό το Σαββατοκύριακο;\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "DiveBuddy",
+      "from": "DiveBuddy\n",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
-      "pill": "FYI",
+      "subject": "Νέα κριτική στην καταχώρισή σας\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     },
     {
-      "from": "Dive Gear Express",
+      "from": "Dive Gear Express\n",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Καλοκαιρινές εκπτώσεις — 25% έκπτωση στα ρούχα\n",
+      "pill": "Προσφορές\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "Πόσοι δύτες έχουν κάνει κράτηση για το Σάββατο;",
+    "agentResponse": "Με βάση τα εισερχόμενά σας, έχετε επιβεβαιώσει 8 δύτες για την πρωινή κατάδυση με 2 τανκς του Σαββάτου — η ομάδα Kevin's 6 συν 2 μεμονωμένες κρατήσεις. Έχετε επίσης μια εκκρεμή ερώτηση από τον Jason σχετικά με την ενοικίαση εργαλείων για το ίδιο ταξίδι. Θέλετε να συντάξω μια απάντηση;\n",
+    "followUp": "Σχεδιάστε μια απάντηση στη Rachel με τις λεπτομέρειες του μαθήματος Open Water\n",
+    "followUpResponse": "Έγινε! Συνέταξα μια απάντηση στη Ρέιτσελ επιβεβαιώνοντας την 3ήμερη πορεία PADI Open Water με καταδύσεις στην πισίνα και στον ωκεανό. Αναφέρει τη διαθεσιμότητα τον Αύγουστο και την πολιτική σας που περιλαμβάνεται στον τυπικό εξοπλισμό. Έτοιμο για έλεγχο και αποστολή.\n"
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "Αγαπήθηκε από τους χειριστές καταδύσεων\n",
   "testimonials": [
     {
-      "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "name": "Ο καπετάνιος Μάικ Τ.\n",
+      "title": "Dive Boat Captain, FL\n",
+      "quote": "Κάνω εκδρομές με πλοίο από Παρασκευή έως Κυριακή και το κατάστημα είναι ανοιχτό μόνο λίγες ώρες τη Δευτέρα. Οι ερωτήσεις πιστοποίησης και τα ταξίδια συσσωρεύονται ενώ βρίσκομαι κάτω από το νερό. Το Duet συντάσσει πρόχειρες απαντήσεις με τις τιμές μου, τους ιστότοπους καταδύσεων και ό,τι περιλαμβάνεται — τις εξετάζω μεταξύ των καταδύσεων.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "name": "Jen & Mark S.\n",
+      "title": "PADI Dive Center, HI\n",
+      "quote": "Κάνουμε καταδύσεις, περιηγήσεις με αναπνευστήρα και παρακολουθούμε τις φάλαινες από τα ίδια σκάφη. Η ποικιλία των email είναι τρελή — ερωτήσεις πιστοποιητικών, ομαδικές κρατήσεις, ενοικιάσεις εργαλείων, έλεγχοι καιρού. Το Duet τα ταξινομεί όλα και συντάσσει προσχέδια απαντήσεις που γνωρίζουν τη διαφορά. Απόλυτη σωτηρία.\n",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "name": "Τζέικ Ρ.\n",
+      "title": "Wreck Diving Charters, FL\n",
+      "quote": "Τα μισά email μου είναι \"τι πιστοποίηση χρειάζομαι για τις καταδύσεις στο ναυάγιο;\" και οι άλλοι μισοί είναι \"χρειάζομαι τον δικό μου εξοπλισμό;\" Το Duet χειρίζεται και τα δύο σε αυτόματο πιλότο. Ο χρόνος απόκρισής μου πήγε από ώρες σε λεπτά.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "name": "Φραντσέσκα Δ.\n",
+      "title": "Ιδιοκτήτης Dive Shop, CA\n",
+      "quote": "Κατά τη διάρκεια του καλοκαιριού λαμβάνουμε 30+ email την ημέρα σχετικά με μαθήματα, διαθεσιμότητα ταξιδιών και εξοπλισμό. Έχανα κρατήσεις σε καταστήματα που απαντούσαν πιο γρήγορα. Τώρα το Duet συντάσσει τα πάντα και πατάω αποστολή μεταξύ των τάξεων.\n",
       "avatarKey": "francesca"
     },
     {
-      "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "name": "Σάρα Κ.\n",
+      "title": "Dive Instructor & Guide, NC\n",
+      "quote": "Διδάσκω μαθήματα το πρωί και καθοδηγώ καταδύσεις το απόγευμα. Δεν υπάρχει κυριολεκτικά χρόνος για να απαντήσετε στο email. Το Duet έμαθε το πρόγραμμα μαθημάτων μου, τις τιμές, ακόμη και την πολιτική ακύρωσης. Οι πελάτες δεν μπορούν να διακρίνουν τη διαφορά.\n",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Περάστε τις μέρες σας κάτω από το νερό,\nδεν είναι θαμμένο στα εισερχόμενά σας.\n",
+  "ctaSubline": "Ξεκινήστε τη δωρεάν δοκιμή σας. Συνδέστε τα εισερχόμενά σας σε 30 δευτερόλεπτα.\n",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Κατανοεί το Duet τα επίπεδα πιστοποίησης και τις απαιτήσεις μαθημάτων;\n",
+      "answer": "Ναι. Το Duet μαθαίνει τα συγκεκριμένα μαθήματα σας — Open Water, Advanced, Rescue, Divemaster — μαζί με προαπαιτούμενα, διάρκεια, τιμολόγηση και τι περιλαμβάνει. Όταν κάποιος ρωτά για την απόκτηση πιστοποίησης, το Duet συντάσσει μια απάντηση με τις σωστές λεπτομέρειες μαθημάτων, το πρόγραμμα και τα επόμενα βήματα. Εσείς εξετάζετε και στέλνετε.\n"
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Είμαι στο σκάφος ή κάτω από το νερό όλη μέρα. Μπορώ να χρησιμοποιήσω το Duet από το τηλέφωνό μου;\n",
+      "answer": "Ναι. Το Duet λειτουργεί με τα Gmail και Outlook, επομένως λειτουργεί οπουδήποτε λειτουργεί το email σας — συμπεριλαμβανομένου του τηλεφώνου σας. Τα πρόχειρα εμφανίζονται αυτόματα στα εισερχόμενά σας. Μεταξύ των καταδύσεων ή της επιστροφής στην αποβάθρα, εξετάζετε και στέλνετε με ένα πάτημα. Οι περισσότεροι χειριστές καταδύσεων μας λένε ότι τους εξοικονομεί 1-2 ώρες χρόνο email την ημέρα κατά την περίοδο αιχμής.\n"
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "Με 150 $/κατάδυση με μια ομάδα 6 ατόμων, ένα αποθηκευμένο ταξίδι πληρώνει για περισσότερο από ένα χρόνο Pro."
 }

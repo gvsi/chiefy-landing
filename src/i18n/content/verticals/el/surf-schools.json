@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ surf instructors",
-  "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail για Surf Schools & Paddleboard Operators | AI Βοηθός Email\n",
+  "metaDescription": "Το Duet Mail βοηθά τους εκπαιδευτές σερφ και τους χειριστές του paddleboard να ανταποκρίνονται άμεσα στα email κράτησης — ακόμα και όταν διδάσκουν. Απαντήσεις που έχουν συνταχθεί από AI με τους τύπους μαθημάτων, την τιμολόγηση και τη φωνή σας.\n",
+  "heroBadge": "Εμπιστεύονται 300+ εκπαιδευτές σερφ\n",
+  "heroHeadline": "Ο βοηθός του email σας ενώ διδάσκετε στο νερό\n",
+  "heroSubline": "Το Duet μαθαίνει τους τύπους των μαθημάτων, τις τιμές και τις συνθήκες σας — στη συνέχεια συντάσσει πρόχειρες απαντήσεις μέσω email, ώστε να μην χάσετε ποτέ μια κράτηση λόγω αργής απόκρισης.\n",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
-      "pill": "To Respond",
+      "subject": "Ομαδικό μάθημα για 6 το Σάββατο;\n",
+      "preview": "Γεια σου! Έχω μια ομάδα 6 φίλων που επισκέπτονται για το Σαββατοκύριακο. Έχετε διαθεσιμότητα για ομαδικό μάθημα surf το πρωί του Σαββάτου; Ποια είναι η τιμολόγηση;\n",
+      "pill": "Για να απαντήσετε\n",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary",
+      "from": "Westside Elementary\n",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "School field trip — 25 students, May 15",
-      "preview": "We're looking to book a surf day for our 5th grade class of 25 students. Do you offer school group rates? We'd need wetsuits and boards provided...",
-      "pill": "Booking",
+      "subject": "Σχολική εκδρομή — 25 μαθητές, 15 Μαΐου\n",
+      "preview": "Θέλουμε να κλείσουμε μια μέρα σερφ για την τάξη μας στην 5η τάξη με 25 μαθητές. Προσφέρετε τιμές σχολικών ομάδων; Χρειαζόμαστε στολές και σανίδες...\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "James P.",
+      "from": "Τζέιμς Π.\n",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Paddleboard rental + delivery?",
-      "preview": "Do you rent SUP boards by the hour? We're staying at the beach house on Elm St — any chance you deliver? What's included...",
-      "pill": "Question",
+      "subject": "Ενοικίαση Paddleboard + παράδοση;\n",
+      "preview": "Ενοικιάζετε σανίδες SUP ανά ώρα; Μένουμε στο παραλιακό σπίτι στην Elm St — υπάρχει περίπτωση να παραδώσετε; Τι περιλαμβάνεται...\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "Nicole B.",
+      "from": "Νικόλ Β.\n",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Conditions for tomorrow morning?",
-      "preview": "We're booked for 9 AM tomorrow but the forecast looks windy. Will the lesson still go ahead? Should we bring anything extra...",
-      "pill": "FYI",
+      "subject": "Προϋποθέσεις για αύριο το πρωί;\n",
+      "preview": "Έχουμε κάνει κράτηση για τις 9 π.μ. αύριο, αλλά η πρόγνωση φαίνεται θυελλώδης. Θα συνεχιστεί το μάθημα; Να φέρουμε κάτι επιπλέον...\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+  "autodraft": "Γεια σου Ρέιτσελ! Το πρωί του Σαββάτου είναι ανοιχτό για τις 6. Τα ομαδικά μαθήματα πραγματοποιούνται 2 ώρες ξεκινώντας από τις 9 π.μ. Περιλαμβάνονται σανίδες, ρούχα και προστατευτικά για εξανθήματα — φέρτε απλώς αντηλιακό και μια πετσέτα. Είναι $90 ανά άτομο. Θέλετε να κλειδώσω την ομάδα σας;\n",
   "math": {
     "pricePerBooking": "$90",
-    "bookingUnit": "lesson",
+    "bookingUnit": "μάθημα\n",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Δύο αποθηκευμένες κρατήσεις πληρώνουν για ένα έτος Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Το Duet προσθέτει αυτόματα ετικέτες σε κάθε email, ώστε να βλέπετε πρώτα τις κρατήσεις μαθημάτων, μετά τις ερωτήσεις και το noise never. Δεν θα λείπει άλλο μια έρευνα σχολικής ομάδας που θαφτεί κάτω από ειδοποιήσεις Yelp.\n",
+  "draftSubtitle": "Το Duet μαθαίνει τους τύπους μαθημάτων, την ομαδική τιμολόγηση και τον τόνο. Όταν εμφανίζεται μια ερώτηση κράτησης, συντάσσει μια πλήρη απάντηση με τη διαθεσιμότητα, τι περιλαμβάνει και τι πρέπει να φέρει. Εσείς εξετάζετε και στέλνετε.\n",
+  "agentSubtitle": "\"Υπάρχουν ομαδικές κρατήσεις αυτή την εβδομάδα;\" \"Σχέδιο απάντησης στο σχολείο με διαθεσιμότητα.\" Το Duet γνωρίζει τα εισερχόμενα και το πρόγραμμά σας — απλώς ρωτήστε.\n",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Ρέιτσελ Τ.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "I have a group of 6 friends visiting for the weekend...",
-      "pill": "Respond Now",
+      "subject": "Ομαδικό μάθημα για 6 το Σάββατο;\n",
+      "preview": "Έχω μια ομάδα 6 φίλων που επισκέπτονται για το Σαββατοκύριακο...\n",
+      "pill": "Απαντήστε τώρα\n",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary",
+      "from": "Westside Elementary\n",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Field trip confirmed — May 15, 25 students",
-      "pill": "Booked",
+      "subject": "Απάντηση: Επιβεβαιώθηκε η εκδρομή — 15 Μαΐου, 25 μαθητές\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "James P.",
+      "from": "Τζέιμς Π.\n",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Do you rent paddleboards by the hour?",
-      "pill": "Question",
+      "subject": "Ενοικιάζετε κωπηλάτες με την ώρα;\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "TripAdvisor",
+      "from": "TripAdvisor\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "pill": "FYI",
+      "subject": "Νέα κριτική για την καταχώρισή σας\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     },
     {
-      "from": "Surf Warehouse",
+      "from": "Αποθήκη Surf\n",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 30% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Καλοκαιρινές εκπτώσεις — 30% έκπτωση στα ρούχα\n",
+      "pill": "Προσφορές\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Any group bookings coming up this week?",
-    "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
-    "followUp": "Draft a reply to the school confirming the field trip details",
-    "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
+    "userMessage": "Υπάρχουν ομαδικές κρατήσεις αυτή την εβδομάδα;\n",
+    "agentResponse": "Έχετε δύο ομαδικές κρατήσεις αυτήν την εβδομάδα: Rachel T. το Σάββατο (6 άτομα, 9 π.μ.) και Westside Elementary την Τετάρτη (25 μαθητές, 10 π.μ. εκδρομή). Έχετε επίσης μια εκκρεμή ερώτηση από τον James P. σχετικά με τις ενοικιάσεις paddleboard. Θέλετε να συντάξω μια απάντηση;\n",
+    "followUp": "Σχεδιάστε μια απάντηση στο σχολείο επιβεβαιώνοντας τις λεπτομέρειες της εκδρομής",
+    "followUpResponse": "Γινώμενος! Συνέταξα μια απάντηση στο Westside Elementary επιβεβαιώνοντας τις 15 Μαΐου για 25 μαθητές στις 10 π.μ. Περιλαμβάνει την τιμή της σχολικής ομάδας σας, το τι παρέχεται, τις απαιτήσεις του δελτίου άδειας και την πολιτική ακύρωσης. Έτοιμο για έλεγχο και αποστολή.\n"
   },
-  "testimonialsTitle": "Loved by surf instructors",
+  "testimonialsTitle": "Αγαπημένος από τους εκπαιδευτές surf\n",
   "testimonials": [
     {
-      "name": "Coach Mike T.",
-      "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
+      "name": "Ο προπονητής Μάικ Τ.\n",
+      "title": "Ιδιοκτήτης Σχολής Surf, CA\n",
+      "quote": "Είμαι στο νερό διδάσκοντας 6 ώρες την ημέρα. Μέχρι να ελέγξω το email, οι μισές κρατήσεις είχαν πάει σε κάποιον άλλο. Τώρα το Duet συντάσσει προσχέδια απαντήσεις με την τιμολόγηση και τη διαθεσιμότητά μου — απλώς εξετάζω μεταξύ των συνεδριών.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "name": "Jen & Mark S.\n",
+      "title": "Paddleboard Lessons & Rentals, HI\n",
+      "quote": "Κάνουμε μαθήματα και ενοικιάσεις επιβίβασης από τα ίδια εισερχόμενα. Το Duet κατάλαβε τη διαφορά αμέσως — οι ερωτήσεις ενοικίασης λαμβάνουν απαντήσεις για ενοικίαση, οι ερωτήσεις μαθημάτων λαμβάνουν λεπτομέρειες μαθήματος. Είναι σαν να έχεις ρεσεψιόν.\n",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Danny R.",
-      "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "name": "Ντάνι Ρ.\n",
+      "title": "Surf Instructor, FL\n",
+      "quote": "Οι σχολικές ομαδικές κρατήσεις συνήθιζαν να λαμβάνουν 10 email πέρα δώθε. Τώρα το Duet συντάσσει την πρώτη απάντηση με τις ομαδικές τιμές, τι περιλαμβάνεται και το δελτίο άδειας. Κόβει όλη την κλωστή στη μέση.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Fran C.",
-      "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
+      "name": "Φραν Σ.\n",
+      "title": "SUP Tours & Lessons, OR\n",
+      "quote": "Η περίοδος αιχμής με σκότωνε — 30 email την ημέρα σχετικά με τις συνθήκες, τις τιμές, τι να φέρω. Οι ίδιες πέντε ερωτήσεις ξανά και ξανά. Το Duet χειρίζεται όλα αυτά και ακούγονται ακριβώς όπως εγώ.\n",
       "avatarKey": "francesca"
     },
     {
-      "name": "Sarah K.",
-      "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "name": "Σάρα Κ.\n",
+      "title": "Kids Surf Camp Διευθυντής, SC\n",
+      "quote": "Οι γονείς στέλνουν τα μεγαλύτερα email. Ημερομηνίες κατασκήνωσης, αλλεργίες, επίπεδα δεξιοτήτων, ώρες παραλαβής. Το Duet συντάσσει λεπτομερείς απαντήσεις που καλύπτουν τα πάντα, επομένως δεν πληκτρολογώ παραγράφους στις 10 μ.μ. μετά από μια ολόκληρη μέρα στην παραλία.\n",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Περάστε το καλοκαίρι σας στα κύματα,\nόχι στα εισερχόμενά σας.\n",
+  "ctaSubline": "Ξεκινήστε τη δωρεάν δοκιμή σας. Συνδέστε τα εισερχόμενά σας σε 30 δευτερόλεπτα.\n",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle different lesson types and equipment rentals?",
-      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "Το Duet χειρίζεται διαφορετικούς τύπους μαθημάτων και ενοικιάσεις εξοπλισμού;\n",
+      "answer": "Ναι. Το Duet μαθαίνει όλες τις προσφορές σας — ιδιαίτερα μαθήματα, ομαδικά μαθήματα, παιδικές κατασκηνώσεις, ενοικιάσεις σανίδων, περιηγήσεις SUP. Όταν έρχεται μια ερώτηση, συντάσσει μια απάντηση με τη σωστή τιμολόγηση, διάρκεια, τι περιλαμβάνεται και τι πρέπει να φέρει. Γνωρίζει ότι ένα email σχολικής ομάδας χρειάζεται διαφορετικές λεπτομέρειες από μια κράτηση ιδιωτικού μαθήματος.\n"
     },
     {
-      "question": "What about weather and conditions questions?",
-      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "question": "Τι γίνεται με τις ερωτήσεις για τον καιρό και τις συνθήκες;\n",
+      "answer": "Το Duet μαθαίνει πώς χειρίζεστε συνήθως τα μηνύματα ηλεκτρονικού ταχυδρομείου με όρους — τις πολιτικές σας για ακυρώσεις, επαναπρογραμματισμό και ποιες συνθήκες διδάσκετε. Όταν κάποιος στέλνει email ρωτώντας εάν το μάθημά του θα συνεχιστεί, το Duet συντάσσει μια απάντηση που ταιριάζει με τον συνήθη τόνο και την πολιτική σας. Ελέγχεις και στέλνεις σε δευτερόλεπτα.\n"
     }
   ],
-  "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
+  "pricingNote": "Με 90 $/μάθημα, δύο αποθηκευμένες κρατήσεις πληρώνουν για πάνω από ένα χρόνο Pro."
 }

@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail за риболовни чартъри | AI Имейл асистент",
+  "metaDescription": "Duet Mail помага на капитаните на риболовни чартъри да отговарят на имейли за резервации незабавно - дори от водата. Отговори, изготвени от AI, с вашите цени, правила и глас.",
+  "heroBadge": "Доверен от над 500 капитани на чартърни кораби",
+  "heroHeadline": "Вашият имейл асистент, докато сте на вода",
+  "heroSubline": "Duet научава вашите цени, политики и начин на общуване — след което изготвя чернови на имейл отговори, така че никога да не загубите резервация поради бавен отговор.",
   "inboxEmails": [
     {
-      "from": "Sarah M.",
+      "from": "Сара М.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "Наличност на 12 юли за 4 души?",
+      "preview": "Здравейте! Ние сме група от 4 души, които искат да резервират риболовен излет на 12 юли. Имате ли свободни места? Каква е цената за цял ден?",
+      "pill": "Да отговоря",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "Дейвид К.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Какво трябва да донесем?",
+      "preview": "Здравейте, резервирали сме за събота. Бърз въпрос - какво да си вземем? Осигурявате ли въдици и принадлежности или трябва да си носим свои...",
+      "pill": "Въпрос",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "Майк и Лиса Р.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Трябва да се пренасрочи за неделя",
+      "preview": "Извинявам се за късното известие, но прогнозата за времето изглежда лоша за събота. Можем ли да се преместим в неделя? По същото време...",
+      "pill": "Резервация",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Нов отзив за вашата обява",
+      "preview": "Наскоро един пътешественик написа отзив за вашия бизнес. Вижте какво е казал и отговорил...",
+      "pill": "За ваша информация",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Здравей, Сара! 12 юли е отворен за 4 души. Целодневните екскурзии са с продължителност 8 часа, започвайки в 6 сутринта. Всички въдици, принадлежности, стръв и лицензи са включени — просто си донесете слънцезащитен крем, вода и хладилна чанта за улова си. Искате ли да го заключа?",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "чартър",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "Една запазена резервация покрива годишната цена на Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet автоматично маркира всеки имейл, така че първо виждате заявките за резервация, после въпросите и никога шума. Край на пропускането на запитване за пътуване, скрито под известията на TripAdvisor.",
+  "draftSubtitle": "Duet научава вашите цени, правила и тон. Когато получите запитване за резервация, изготвя пълен отговор с подробности за пътуването, цени и какво да донесете. Вие преглеждате и изпращате.",
+  "agentSubtitle": "„Кои дни са отворени следващата седмица?“ „Напишете отговор до Сара с информация за наличността.“ Duet познава вашата пощенска кутия и календар — просто попитайте.",
   "categorizationEmails": [
     {
-      "from": "Sarah M.",
+      "from": "Сара М.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "Наличност на 12 юли за 4 души?",
+      "preview": "Ние сме група от 4 души, които искат да резервират риболовен излет...",
+      "pill": "Отговорете сега",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "Дейвид К.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: Потвърдена резервация — събота, 7:00 ч.",
+      "pill": "Резервирано",
       "pillColor": "blue"
     },
     {
-      "from": "Mike R.",
+      "from": "Майк Р.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Какво да си вземем в събота?",
+      "pill": "Въпрос",
       "pillColor": "amber"
     },
     {
-      "from": "FishingBooker",
+      "from": "Риболов Букър",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Вашето седмично обобщение на резервациите",
+      "pill": "За ваша информация",
       "pillColor": "lavender"
     },
     {
-      "from": "West Marine",
+      "from": "Уест Марин",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "Пролетна разпродажба — 20% отстъпка от такъми",
+      "pill": "Промоции",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: Наличност на 12 юли за 4 души?",
+    "originalFrom": "Сара М. написа:",
+    "originalText": "Здравейте! Ние сме група от 4 души, които искат да резервират риболовен излет на 12 юли. Имате ли свободни места? Каква е цената за цял ден?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "Хей, Сара!",
+      "12 юли е отворен за 4 души. Целодневните екскурзии са 500 долара и са с продължителност 8 часа, започвайки в 6 сутринта от пристанището.",
+      "Всички принадлежности, стръв и лицензи за риболов са включени - просто си носете слънцезащитен крем и охладител.",
+      "Искаш ли да го заключа?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "12 юли е отворен за 4 души. Целодневните екскурзии са на цена от $500.",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "Знае вашите цени и наличност",
+      "Чернови в гласа ви",
+      "Включва автоматично подробности за пътуването",
+      "Учи се с времето"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Кои дни са все още отворени следващата седмица?",
+    "agentResponse": "Според вашия календар, имате свободни места във вторник, четвъртък и събота следващата седмица. Понеделник и сряда са напълно резервирани (по 2 чартъра всеки). Искате ли да изготвя отговор на всички висящи запитвания с тези дати?",
+    "followUp": "Напишете отговор до Сара с наличността на 12 юли",
+    "followUpResponse": "Готово! Написах отговор до Сара, потвърждаващ резервацията на 12 юли за 4 гости на цена от $500. Той включва стандартните подробности за пътуването ви и мястото на срещата. Готов е за преглед и изпращане."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Обичан от капитаните на чартърни кораби",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "Капитан Майк Д.",
+      "title": "Капитан на офшорни чартъри, Флорида",
+      "quote": "През пиковия сезон губех по 2-3 резервации седмично, само защото не можех да отговарям достатъчно бързо от лодката. Duet изготвя отговори с моите цени и подробности за пътуването — аз просто натисках „изпрати“ между уловите.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "Сара и Том К.",
+      "title": "Семеен чартърен бизнес, Орегон",
+      "quote": "Управляваме две лодки и обемът на имейлите през лятото е невероятен. Duet сортира заявките за резервация от всичко останало и изготвя отговори, които звучат точно като нас. Абсолютна революция.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "name": "Джейк Р.",
+      "title": "Ръководство за крайбрежен риболов, Тексас",
+      "quote": "Прекарвах по един час всяка вечер в отговаряне на едни и същи въпроси за наличност. Сега Duet се справя с това. Времето ми за отговор се увеличи от часове на минути и оттогава не съм загубил резервация.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "name": "Лиза М.",
+      "title": "Мениджър на чартърен офис, Хавай",
+      "quote": "Управлението на имейли за 4 капитани беше работа на пълен работен ден. Duet категоризира всичко и изготвя отговори с правилната лодка, правилната цена, правилния капитан. Все едно имаш друго „аз“.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Andrea S.",
-      "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "name": "Андреа С.",
+      "title": "Дийп Сий Чартърс, Северна Каролина",
+      "quote": "Бях скептичен, че AI може да обработва имейли за риболовни чартъри. Но той научи видовете ни пътувания, какво е включено, дори политиката ни за анулиране. Клиентите не могат да видят разликата.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Прекарайте пиковия сезон край водата, а не във входящата си поща.",
+  "ctaSubline": "Започнете безплатния си пробен период. Свържете входящата си поща за 30 секунди.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Работи ли Duet за имейли за резервации и наличност?",
+      "answer": "Абсолютно. Duet научава вашите видове пътувания, цени, наличност и правила. Когато постъпи запитване за резервация, системата изготвя пълен отговор с точните подробности – цени, какво е включено, място на срещата, какво да донесете. Вие преглеждате и натискате „изпрати“."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Цял ден съм във водата. Мога ли да използвам Duet от телефона си?",
+      "answer": "Да. Duet работи със Gmail и Outlook, така че работи навсякъде, където работи имейлът ви — включително телефонът ви. Черновите се показват автоматично. Между уловите преглеждате и изпращате с едно докосване. Повечето капитани ни казват, че това им спестява 1-2 часа време за имейли на ден по време на пиковия сезон."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "При цена от $500/чартър, една запазена резервация покрива над една година Pro."
 }

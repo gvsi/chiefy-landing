@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail για βόλτες με άλογα και οδηγούς μονοπατιών | AI Βοηθός Email\n",
+  "metaDescription": "Το Duet Mail βοηθά τους χειριστές trail ride να ανταποκρίνονται στα email κράτησης άμεσα — ακόμα και από τη σέλα. Απαντήσεις που συντάχθηκαν από AI με την τιμολόγηση, τις απαιτήσεις αναβάτη και τη φωνή σας.\n",
+  "heroBadge": "Εμπιστεύονται 300+ οδηγοί μονοπατιών\n",
+  "heroHeadline": "Ο βοηθός email σας ενώ είστε στο μονοπάτι\n",
+  "heroSubline": "Το Duet μαθαίνει τους τύπους διαδρομής, τις τιμές, τις απαιτήσεις αναβάτη και τις συνθήκες διαδρομής — στη συνέχεια συντάσσει πρόχειρες απαντήσεις μέσω email, ώστε να μην χάσετε ποτέ μια κράτηση λόγω αργής απόκρισης.\n",
   "inboxEmails": [
     {
-      "from": "Jessica T.",
+      "from": "Τζέσικα Τ.\n",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "Ομαδική κράτηση για 6 — Σάββατο πρωί;\n",
+      "preview": "Γεια σου! Είμαστε μια οικογένεια 6 ατόμων (2 ενήλικες, 4 παιδιά ηλικίας 8-14 ετών) και θα θέλαμε να κλείσουμε μια βόλτα με το μονοπάτι αυτό το πρωί του Σαββάτου. Έχετε διαθεσιμότητα; Ποια είναι η τιμή ανά άτομο;\n",
+      "pill": "Για να απαντήσετε\n",
       "pillColor": "red"
     },
     {
-      "from": "Brian L.",
+      "from": "Μπράιαν Λ.\n",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Ερώτηση ορίου βάρους\n",
+      "preview": "Γεια, ενδιαφέρομαι να κάνω κράτηση για μια διαδρομή, αλλά ήθελα να ρωτήσω πρώτα τις απαιτήσεις βάρους σας. Είμαι περίπου 260 λίβρες — θα είναι πρόβλημα...\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "Έιμι & Νταν Γου.\n",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Βόλτα στο ηλιοβασίλεμα για επέτειο;\n",
+      "preview": "Γιορτάζουμε τη 10η επέτειό μας το επόμενο Σαββατοκύριακο και είδαμε τη βόλτα σας στο ηλιοβασίλεμα στο Instagram. Είναι διαθέσιμο Παρασκευή βράδυ; Τυχόν ειδικά πακέτα...\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "TripAdvisor\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Νέα κριτική για την καταχώρισή σας\n",
+      "preview": "Ένας ταξιδιώτης αξιολόγησε πρόσφατα την επιχείρησή σας. Δείτε τι είπαν και απαντήστε...\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Γεια σου Τζέσικα! Το πρωί του Σαββάτου είναι ανοιχτό για 6. Οι διαδρομές μας στο μονοπάτι κοστίζουν 100 $/άτομο και διαρκούν περίπου 90 λεπτά μέσα από την κοιλάδα. Τα παιδιά 8+ είναι ευπρόσδεκτα — όλα τα δικά σας είναι καλά να ξεκινήσετε. Απαιτούνται κλειστά παπούτσια και παρέχουμε κράνη. Θέλετε να σας κάνω κράτηση για τη διαδρομή στις 9 π.μ.;\n",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "βόλτα\n",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Μια αποθηκευμένη ομαδική διαδρομή πληρώνει για περισσότερα από δύο χρόνια Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Το Duet προσθέτει αυτόματα ετικέτες σε κάθε email, ώστε να βλέπετε πρώτα τα αιτήματα κράτησης, μετά τις ερωτήσεις των αναβατών και το noise never. Δεν θα χάσετε πλέον μια ομαδική έρευνα που θαφτεί κάτω από τις ειδοποιήσεις του TripAdvisor.\n",
+  "draftSubtitle": "Το Duet μαθαίνει τους τύπους διαδρομής, τις τιμές και τις απαιτήσεις σας. Όταν εμφανίζεται μια ερώτηση κράτησης, συντάσσει μια πλήρη απάντηση με λεπτομέρειες διαδρομής, τιμές και τι να φορέσετε. Εσείς εξετάζετε και στέλνετε.\n",
+  "agentSubtitle": "\"Κάποια βόλτα ανοιχτά αυτό το Σαββατοκύριακο;\" \"Σχέδιο απάντησης στην Τζέσικα με διαθεσιμότητα το Σάββατο.\" Το Duet γνωρίζει τα εισερχόμενα και το ημερολόγιό σας — απλώς ρωτήστε.\n",
   "categorizationEmails": [
     {
-      "from": "Jessica T.",
+      "from": "Τζέσικα Τ.\n",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "Ομαδική κράτηση για 6 — Σάββατο πρωί;\n",
+      "preview": "Είμαστε μια οικογένεια 6 ατόμων που επιθυμούμε να κλείσουμε μια διαδρομή με μονοπάτι...\n",
+      "pill": "Απαντήστε τώρα\n",
       "pillColor": "red"
     },
     {
-      "from": "Amy W.",
+      "from": "Amy W.\n",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Απάντηση: Η διαδρομή στο ηλιοβασίλεμα επιβεβαιώθηκε — Παρασκευή 5:30 μ.μ\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "Brian L.",
+      "from": "Μπράιαν Λ.\n",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Όριο βάρους και απαιτήσεις εμπειρίας;\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "Viator\n",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Περίληψη της εβδομαδιαίας κράτησής σας\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "Προμήθεια τρακτέρ\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Ανοιξιάτικες εκπτώσεις — 15% έκπτωση σε ζωοτροφές και κόλλα\n",
+      "pill": "Προσφορές\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Ανοίγει κανείς αυτό το Σαββατοκύριακο; Επίσης, πώς είναι ο καιρός;\n",
+    "agentResponse": "Με βάση το ημερολόγιό σας, έχετε εγκαίνια Σάββατο στις 9 π.μ. και 2 μ.μ. και την Κυριακή στις 10 π.μ. Η πρόγνωση του Σαββάτου είναι 72°F και ηλιοφάνεια — τέλειος καιρός για ιππασία. Η Κυριακή δείχνει 40% πιθανότητα απογευματινής βροχής, επομένως η πρωινή κουλοχέρη είναι το πιο ασφαλές στοίχημα. Θέλετε να συντάξω απαντήσεις σε τυχόν εκκρεμείς ερωτήσεις με αυτούς τους χρόνους;\n",
+    "followUp": "Σχεδιάστε μια απάντηση στην Jessica με τη διαθεσιμότητα του Σαββάτου",
+    "followUpResponse": "Γινώμενος! Συνέταξα μια απάντηση στην Jessica επιβεβαιώνοντας το Σάββατο στις 9 π.μ. για 6 αναβάτες με $100/άτομο. Περιλαμβάνει τις τυπικές απαιτήσεις του αναβάτη σας και τι να φορέσετε. Έτοιμο για έλεγχο και αποστολή.\n"
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Αγαπήθηκε από τους χειριστές μονοπατιών\n",
   "testimonials": [
     {
-      "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "name": "Τζέικ Χ.\n",
+      "title": "Ranch Owner & Trail Guide, MT\n",
+      "quote": "Είμαι έξω στο μονοπάτι 6 ώρες την ημέρα χωρίς υπηρεσία κινητής τηλεφωνίας. Μέχρι να επιστρέψω για να απαντήσω, οι μισοί άνθρωποι είχαν κάνει κράτηση κάπου αλλού. Τώρα το Duet συντάσσει προσχέδια απαντήσεων με τις λεπτομέρειες τιμολόγησης και διαδρομής — Απλώς εξετάζω και στέλνω όταν επιστρέψω στον αχυρώνα.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "name": "Μαρία Γ.\n",
+      "title": "Τουριστικός πράκτορας με άλογα, AZ\n",
+      "quote": "Λαμβάνουμε δεκάδες email που ρωτούν το ίδιο πράγμα - όρια βάρους, τι να φορέσουμε, απαιτήσεις ηλικίας. Το Duet τα χειρίζεται όλα και οι απαντήσεις ακούγονται ακριβώς όπως εγώ. Οι καλεσμένοι μου δεν έχουν ιδέα ότι είναι AI.\n",
       "avatarKey": "francesca"
     },
     {
-      "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "name": "Τάιλερ Σ.\n",
+      "title": "Trail Ride Guide, CO\n",
+      "quote": "Η περίοδος αιχμής με σκότωνε. 30+ email την ημέρα εκτός από τις διαδρομές τρεξίματος. Το Duet ταξινομεί τα αιτήματα κράτησης από το θόρυβο και συντάσσει απαντήσεις που περιλαμβάνουν τα πάντα — τιμές, τι να φέρετε, την παρτίδα. Γύρισα τα βράδια μου πίσω.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "name": "Ρέιτσελ Μ.\n",
+      "title": "Εκπαιδευτής Ιππασίας & Υπεύθυνος Κρατήσεων, Τέξας\n",
+      "quote": "Κάνουμε βόλτες με το ηλιοβασίλεμα, πρωινές βόλτες και ιδιαίτερα μαθήματα — το καθένα με διαφορετικές τιμές και απαιτήσεις. Το Duet τα έμαθε όλα σε μια εβδομάδα. Συντάσσει τη σωστή απάντηση για τον σωστό τύπο διαδρομής κάθε φορά.\n",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "name": "Νταϊάν Κ.\n",
+      "title": "Family Ranch & Trail Rides, CA\n",
+      "quote": "Τα ευαίσθητα email ήταν τα χειρότερα — κάποιος ρωτούσε αν είναι πολύ βαριά ή αν το παιδί του είναι αρκετά μεγάλο. Το Duet χειρίζεται αυτούς με την ίδια προσοχή που θα έκανα. Επαγγελματίας, ευγενικός και ακριβής. Αυτό και μόνο αξίζει.\n",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Περάστε τη μέρα με τα άλογα,\nόχι στα εισερχόμενά σας.\n",
+  "ctaSubline": "Ξεκινήστε τη δωρεάν δοκιμή σας. Συνδέστε τα εισερχόμενά σας σε 30 δευτερόλεπτα.\n",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Πώς χειρίζεται το Duet ευαίσθητες ερωτήσεις σχετικά με τις απαιτήσεις βάρους ή εμπειρίας;\n",
+      "answer": "Το Duet μαθαίνει τις συγκεκριμένες πολιτικές σας και αντικατοπτρίζει τον τόνο σας. Όταν κάποιος ρωτά για τα όρια βάρους ή τις απαιτήσεις εμπειρίας, απαντά επαγγελματικά και θερμά — μοιράζεται τις πληροφορίες που χρειάζεται χωρίς να το κάνει άβολο. Ρυθμίζετε τον τόνο μία φορά και το Duet τον ακολουθεί με συνέπεια, έτσι ώστε κάθε επισκέπτης να αισθάνεται σεβασμό.\n"
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Μπορεί το Duet να χειριστεί ομαδικές κρατήσεις με διαφορετικές ανάγκες αναβατών;\n",
+      "answer": "Ναι. Το Duet μαθαίνει τους τύπους οδήγησης, τα μεγέθη των ομάδων, τα ελάχιστα όρια ηλικίας και τυχόν απαιτήσεις που αφορούν τον αναβάτη. Όταν μια οικογένεια ή μια ομάδα στέλνει email σχετικά με την κράτηση, συντάσσει μια απάντηση που καλύπτει την τιμολόγηση για την πλήρη ομάδα, όσα πρέπει να γνωρίζει κάθε αναβάτης και τις διαθέσιμες χρονοθυρίδες. Ελέγχετε και στέλνετε — δεν χρειάζεται μπρος-πίσω.\n"
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "Με 100 $/άτομο για μια ομάδα 6 ατόμων, μια εξοικονομημένη διαδρομή πληρώνει για περισσότερα από δύο χρόνια Pro."
 }

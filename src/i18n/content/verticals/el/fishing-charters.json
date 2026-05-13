@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail για ναυλώσεις αλιείας | AI Βοηθός Email\n",
+  "metaDescription": "Το Duet Mail βοηθά τους καπετάνιους ναύλωσης ψαρέματος να ανταποκρίνονται στα email κράτησης άμεσα — ακόμα και από το νερό. Απαντήσεις που έχουν συνταχθεί από AI με τις τιμές, τις πολιτικές και τη φωνή σας.\n",
+  "heroBadge": "Εμπιστεύονται 500+ καπετάνιοι ναύλωσης\n",
+  "heroHeadline": "Ο βοηθός email σας ενώ βρίσκεστε στο νερό\n",
+  "heroSubline": "Το Duet μαθαίνει τις τιμές, τις πολιτικές και τη φωνή σας — στη συνέχεια συντάσσει πρόχειρες απαντήσεις μέσω email, ώστε να μην χάσετε ποτέ μια κράτηση λόγω αργής απόκρισης.\n",
   "inboxEmails": [
     {
-      "from": "Sarah M.",
+      "from": "Σάρα Μ.\n",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "Διαθεσιμότητα 12 Ιουλίου για 4 άτομα;\n",
+      "preview": "Γεια σου! Είμαστε μια ομάδα 4 ατόμων που επιθυμούμε να κλείσουμε ένα ταξίδι για ψάρεμα στις 12 Ιουλίου. Έχετε διαθεσιμότητα; Ποια είναι η τιμή για μια ολόκληρη μέρα;\n",
+      "pill": "Για να απαντήσετε\n",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "Ντέιβιντ Κ.\n",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Τι να φέρουμε;\n",
+      "preview": "Γεια, έχουμε κάνει κράτηση για το Σάββατο. Γρήγορη ερώτηση - τι πρέπει να φέρουμε; Παρέχετε καλάμια και τάκλιν ή πρέπει να φέρουμε τα δικά μας...\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "Mike & Lisa R.\n",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Χρειάζεται αλλαγή για την Κυριακή\n",
+      "preview": "Συγγνώμη για την καθυστερημένη ειδοποίηση, αλλά η πρόγνωση του καιρού φαίνεται άσχημη το Σάββατο. Μπορούμε να μετακομίσουμε στην Κυριακή; Την ίδια ώρα...\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "TripAdvisor\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Νέα κριτική για την καταχώρισή σας\n",
+      "preview": "Ένας ταξιδιώτης αξιολόγησε πρόσφατα την επιχείρησή σας. Δείτε τι είπαν και απαντήστε...\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Γεια σου Σάρα! Στις 12 Ιουλίου είναι ανοιχτό για 4. Τα ολοήμερα ταξίδια διαρκούν 8 ώρες, ξεκινώντας στις 6 π.μ. Περιλαμβάνονται όλες οι ράβδοι, τα εργαλεία, το δόλωμα και οι άδειες — φέρτε απλώς αντηλιακό, νερό και ένα ψυγείο για τα αλιεύματά σας. Θέλετε να το κλειδώσω;\n",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "ναύλωση\n",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "Μια αποθηκευμένη κράτηση πληρώνει για ένα έτος Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Το Duet προσθέτει αυτόματα ετικέτες σε κάθε email, ώστε να βλέπετε πρώτα τα αιτήματα κράτησης, μετά τις ερωτήσεις και το noise never. Δεν θα χάσετε πλέον μια έρευνα ταξιδιού που θαφτεί κάτω από τις ειδοποιήσεις του TripAdvisor.\n",
+  "draftSubtitle": "Το Duet μαθαίνει τις τιμές, τις πολιτικές και τον τόνο σας. Όταν εμφανίζεται μια ερώτηση κράτησης, συντάσσει μια πλήρη απάντηση με λεπτομέρειες ταξιδιού, τιμές και τι να φέρει. Εσείς εξετάζετε και στέλνετε.\n",
+  "agentSubtitle": "«Ποιες μέρες είναι ανοιχτές την επόμενη εβδομάδα;» \"Σχέδιο απάντησης στη Σάρα με διαθεσιμότητα.\" Το Duet γνωρίζει τα εισερχόμενα και το ημερολόγιό σας — απλώς ρωτήστε.\n",
   "categorizationEmails": [
     {
-      "from": "Sarah M.",
+      "from": "Σάρα Μ.\n",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "Διαθεσιμότητα 12 Ιουλίου για 4 άτομα;\n",
+      "preview": "Είμαστε μια ομάδα 4 ατόμων που ψάχνουμε να κλείσουμε ένα ταξίδι για ψάρεμα...\n",
+      "pill": "Απαντήστε τώρα\n",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "Ντέιβιντ Κ.\n",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Απάντηση: Η κράτηση επιβεβαιώθηκε — Σάββατο 7 π.μ\n",
+      "pill": "Κράτηση\n",
       "pillColor": "blue"
     },
     {
-      "from": "Mike R.",
+      "from": "Μάικ Ρ.\n",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Τι να φέρουμε το Σάββατο;\n",
+      "pill": "Ερώτηση\n",
       "pillColor": "amber"
     },
     {
-      "from": "FishingBooker",
+      "from": "FishingBooker\n",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Περίληψη της εβδομαδιαίας κράτησής σας\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     },
     {
-      "from": "West Marine",
+      "from": "West Marine\n",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "Ανοιξιάτικες εκπτώσεις — 20% έκπτωση στα σκευάσματα\n",
+      "pill": "Προσφορές\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Ποιες μέρες παραμένουν ανοιχτές την επόμενη εβδομάδα;\n",
+    "agentResponse": "Με βάση το ημερολόγιό σας, έχετε ανοίγματα την Τρίτη, την Πέμπτη και το Σάββατο την επόμενη εβδομάδα. Δευτέρα και Τετάρτη είναι πλήρως κρατημένες (2 ναυλώσεις η καθεμία). Θέλετε να συντάξω μια απάντηση σε τυχόν εκκρεμείς ερωτήσεις με αυτές τις ημερομηνίες;\n",
+    "followUp": "Σχεδιάστε μια απάντηση στη Σάρα με τη διαθεσιμότητα της 12ης Ιουλίου\n",
+    "followUpResponse": "Έγινε! Συνέταξα μια απάντηση στη Σάρα επιβεβαιώνοντας στις 12 Ιουλίου για 4 επισκέπτες στα 500 $. Περιλαμβάνει τις τυπικές λεπτομέρειες του ταξιδιού σας και την τοποθεσία συνάντησης. Έτοιμο για έλεγχο και αποστολή.\n"
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Αγαπημένος από τους καπετάνιους\n",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "Ο καπετάνιος Mike D.",
+      "title": "Offshore Charter Captain, FL\n",
+      "quote": "Κατά τη διάρκεια της περιόδου αιχμής θα έχανα 2-3 κρατήσεις την εβδομάδα μόνο και μόνο επειδή δεν μπορούσα να απαντήσω αρκετά γρήγορα από το σκάφος. Το Duet συντάσσει προσχέδια απαντήσεων με τα στοιχεία τιμολόγησης και ταξιδιού μου — μόλις πάτησα αποστολή μεταξύ των αλιευμάτων.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "Σάρα & Τομ Κ.\n",
+      "title": "Family Charter Business, OR\n",
+      "quote": "Τρέχουμε δύο βάρκες και ο όγκος των email κατά τη διάρκεια του καλοκαιριού είναι τρελός. Το Duet ταξινομεί τα αιτήματα κράτησης από οτιδήποτε άλλο και συντάσσει προσχέδια απαντήσεις που ακούγονται ακριβώς όπως εμείς. Απόλυτη αλλαγή παιχνιδιού.\n",
       "avatarKey": "sarah"
     },
     {
-      "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "name": "Τζέικ Ρ.\n",
+      "title": "Οδηγός παράκτιας αλιείας, Τέξας\n",
+      "quote": "Περνούσα μια ώρα κάθε βράδυ απαντώντας στις ίδιες ερωτήσεις διαθεσιμότητας. Τώρα το χειρίζεται το Duet. Ο χρόνος απόκρισής μου πήγε από ώρες σε λεπτά και έκτοτε δεν έχω χάσει κράτηση.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "name": "Λίζα Μ.\n",
+      "title": "Charter Office Manager, HI\n",
+      "quote": "Η διαχείριση email για 4 καπετάνιους ήταν μια δουλειά πλήρους απασχόλησης. Το Duet κατηγοριοποιεί τα πάντα και συντάσσει απαντήσεις με το σωστό σκάφος, τη σωστή τιμή, τον σωστό καπετάνιο. Είναι σαν να έχω ένα άλλο εγώ.\n",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Andrea S.",
-      "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "name": "Ανδρέα Σ.\n",
+      "title": "Deep Sea Charters, NC\n",
+      "quote": "Ήταν δύσπιστος ότι το AI θα μπορούσε να χειριστεί μηνύματα ηλεκτρονικού ταχυδρομείου για ναύλωση αλιείας. Αλλά έμαθε τους τύπους ταξιδιών μας, τι περιλαμβάνει, ακόμη και την πολιτική ακύρωσης. Οι πελάτες δεν μπορούν να διακρίνουν τη διαφορά.\n",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Περάστε την περίοδο αιχμής στο νερό,\nόχι στα εισερχόμενά σας.\n",
+  "ctaSubline": "Ξεκινήστε τη δωρεάν δοκιμή σας. Συνδέστε τα εισερχόμενά σας σε 30 δευτερόλεπτα.\n",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Λειτουργεί το Duet για μηνύματα ηλεκτρονικού ταχυδρομείου κρατήσεων και διαθεσιμότητας;\n",
+      "answer": "Απολύτως. Το Duet μαθαίνει τους τύπους, τις τιμές, τη διαθεσιμότητα και τις πολιτικές ταξιδιού σας. Όταν έρχεται μια ερώτηση κράτησης, συντάσσει μια πλήρη απάντηση με τις σωστές λεπτομέρειες — τιμολόγηση, τι περιλαμβάνεται, τοποθεσία συνάντησης, τι να φέρετε. Ελέγχεις και πατάς αποστολή.\n"
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Είμαι όλη μέρα στο νερό. Μπορώ να χρησιμοποιήσω το Duet από το τηλέφωνό μου;\n",
+      "answer": "Ναι. Το Duet λειτουργεί με τα Gmail και Outlook, επομένως λειτουργεί οπουδήποτε λειτουργεί το email σας — συμπεριλαμβανομένου του τηλεφώνου σας. Τα πρόχειρα εμφανίζονται αυτόματα. Μεταξύ των αλιευμάτων, ελέγχετε και στέλνετε με ένα πάτημα. Οι περισσότεροι καπετάνιοι μας λένε ότι τους εξοικονομεί 1-2 ώρες χρόνο email την ημέρα κατά την περίοδο αιχμής.\n"
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "Με 500 $/τσάρτερ, μια αποθηκευμένη κράτηση πληρώνει για πάνω από ένα χρόνο Pro."
 }
