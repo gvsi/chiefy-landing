@@ -84,6 +84,7 @@ function assertFreshBuildStamp() {
     if (currentSourceMtimeMax > stamp.sourceMtimeMax + 1) {
         fail("Source files changed after the stamped i18n build; rerun pnpm i18n:build")
     }
+    return { startedAt }
 }
 
 function normalizeWhitespace(value) {
@@ -107,6 +108,33 @@ function listFiles(dir, suffix, out = []) {
         else if (absolutePath.endsWith(suffix)) out.push(absolutePath)
     }
     return out
+}
+
+function listAllFiles(dir, out = []) {
+    if (!existsSync(dir)) return out
+    for (const entry of readdirSync(dir)) {
+        const absolutePath = path.join(dir, entry)
+        const stat = statSync(absolutePath)
+        if (stat.isDirectory()) listAllFiles(absolutePath, out)
+        else out.push(absolutePath)
+    }
+    return out
+}
+
+function assertDistFresh(startedAt) {
+    const distFiles = listAllFiles(distRoot)
+    if (distFiles.length === 0) fail("dist/ contains no files; run pnpm i18n:build first")
+
+    const newestDistMtime = Math.max(...distFiles.map((filePath) => statSync(filePath).mtimeMs))
+    if (newestDistMtime + 1 < startedAt) {
+        fail("dist/ is older than the stamped i18n build; rerun pnpm i18n:build")
+    }
+}
+
+function assertNoPseudoQaRouteInProductionDist() {
+    if (existsSync(path.join(distRoot, "i18n-qa/en-XA.html"))) {
+        fail("Production dist contains pseudo-locale QA route: dist/i18n-qa/en-XA.html")
+    }
 }
 
 function getAttr(node, name) {
@@ -365,7 +393,9 @@ function assertSitemapBootstrapState() {
 
 try {
     if (!existsSync(distRoot)) fail("dist/ is missing; run pnpm build or pnpm i18n:build first")
-    assertFreshBuildStamp()
+    const buildStamp = assertFreshBuildStamp()
+    assertDistFresh(buildStamp.startedAt)
+    assertNoPseudoQaRouteInProductionDist()
     assertCopiedRoutesManifest()
     assertEnglishRouteJsonLdMatrix()
     assertCanonicalUrls()
