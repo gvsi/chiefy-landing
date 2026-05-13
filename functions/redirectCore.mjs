@@ -56,10 +56,7 @@ function stripHtmlExtension(pathname) {
 
 function canonicalizeHomepageIndex(pathname) {
     const parts = pathname.split("/").filter(Boolean)
-    if (parts.length === 1 && parts[0] === "index") return "/"
-    if (parts.length === 2 && SUPPORTED_LOCALES.has(parts[0]) && parts[1] === "index") {
-        return `/${parts[0]}`
-    }
+    if (parts.at(-1) === "index") return parts.length === 1 ? "/" : `/${parts.slice(0, -1).join("/")}`
     return pathname
 }
 

@@ -135,6 +135,9 @@ const legalEnglishLeftoverPhrases = [
     "Contact Us",
     "Your California Privacy Rights",
     "Policy as Required by California Online Privacy Protection Act",
+    "All About Cookies",
+    "All About\n    Cookies",
+    "समानीका0नी",
 ]
 
 function assertNoHighVisibilityEnglishLegalLeftovers(relativePath, content) {
@@ -168,6 +171,14 @@ function assertMessageQualityContracts(locale, messages, englishMessages) {
         if (messages[key] === englishMessages[key]) {
             fail(`High-visibility message still equals English for ${locale}: ${key}`)
         }
+    }
+}
+
+function assertLocalizedSeoValue(locale, relativePath, fieldName, localizedValue, englishValue) {
+    if (locale === "en") return
+    if (typeof localizedValue !== "string" || typeof englishValue !== "string") return
+    if (localizedValue.trim() === englishValue.trim()) {
+        fail(`High-visibility SEO field still equals English for ${locale}: ${relativePath} ${fieldName}`)
     }
 }
 
@@ -528,6 +539,9 @@ async function assertSourceContentFiles({ complete }) {
         const messages = readJson(`src/i18n/messages/${locale}.json`)
         assertMessageQualityContracts(locale, messages, englishMessages)
         const home = readJson(`src/i18n/content/home/${locale}.json`)
+        const englishHome = readJson("src/i18n/content/home/en.json")
+        assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.title", home.meta?.title, englishHome.meta?.title)
+        assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.description", home.meta?.description, englishHome.meta?.description)
         if (locale === localeSource.default_locale) {
             if ("translationStatus" in messages) fail("English messages must not have translationStatus")
             if ("translationStatus" in home) fail("English home content must not have translationStatus")
@@ -572,6 +586,9 @@ async function assertSourceContentFiles({ complete }) {
                 assertBootstrapUrlsLocalized(`src/i18n/content/verticals/${locale}/${file}`)
             }
             const vertical = readJson(`src/i18n/content/verticals/${locale}/${file}`)
+            const englishVertical = readJson(`src/i18n/content/verticals/en/${file}`)
+            assertLocalizedSeoValue(locale, `src/i18n/content/verticals/${locale}/${file}`, "pageTitle", vertical.pageTitle, englishVertical.pageTitle)
+            assertLocalizedSeoValue(locale, `src/i18n/content/verticals/${locale}/${file}`, "metaDescription", vertical.metaDescription, englishVertical.metaDescription)
             if (locale === localeSource.default_locale) {
                 if ("translationStatus" in vertical) fail(`English vertical must not have translationStatus: ${file}`)
             } else if (!complete && vertical.translationStatus !== "bootstrap-en") {
@@ -590,6 +607,9 @@ async function assertSourceContentFiles({ complete }) {
                 assertBootstrapUrlsLocalized(relativePath)
             }
             const { frontmatter } = parseMarkdownFrontmatter(readText(relativePath), relativePath)
+            const { frontmatter: englishFrontmatter } = parseMarkdownFrontmatter(readText(`src/content/blog/en/${file}`), `src/content/blog/en/${file}`)
+            assertLocalizedSeoValue(locale, relativePath, "title", frontmatterValue(frontmatter, "title")?.replace(/^"|"$/g, ""), frontmatterValue(englishFrontmatter, "title")?.replace(/^"|"$/g, ""))
+            assertLocalizedSeoValue(locale, relativePath, "description", frontmatterValue(frontmatter, "description")?.replace(/^"|"$/g, ""), frontmatterValue(englishFrontmatter, "description")?.replace(/^"|"$/g, ""))
             const marker = frontmatterValue(frontmatter, "translationStatus")
             if (locale === localeSource.default_locale) {
                 if (marker) fail(`English blog post must not have translationStatus: ${file}`)

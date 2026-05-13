@@ -1,5 +1,5 @@
 ---
-title: "Unpacking Gmail Summarization Features"
+title: "深入了解 Gmail 摘要功能"
 description: "Struggling with email overload?探索由 Gemini 提供支持的 Gmail 的摘要功能，了解它们的优缺点，并看看它们是否足够。"
 publishedAt: 2025-09-26
 author: "Duet Mail团队"

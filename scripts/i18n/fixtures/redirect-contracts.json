@@ -140,6 +140,24 @@
       "location": "https://duetmail.com/blog/example"
     },
     {
+      "name": "Generated blog index html canonicalizes to blog index",
+      "input": "https://duetmail.com/blog/index.html?ref=partner",
+      "status": 301,
+      "location": "https://duetmail.com/blog?ref=partner"
+    },
+    {
+      "name": "Localized generated blog index html canonicalizes to localized blog index",
+      "input": "https://duetmail.com/fr/blog/index.html",
+      "status": 301,
+      "location": "https://duetmail.com/fr/blog"
+    },
+    {
+      "name": "Default locale generated blog index html canonicalizes to unprefixed blog index",
+      "input": "https://duetmail.com/en/blog/index.html",
+      "status": 301,
+      "location": "https://duetmail.com/blog"
+    },
+    {
       "name": "Localized known route passes through with headers",
       "input": "https://duetmail.com/de",
       "status": 200,
