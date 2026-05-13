@@ -1,27 +1,26 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail for Wedding Planners | AI Email Assistant",
-  "metaDescription": "Duet Mail helps wedding planners respond to client and vendor emails instantly — even from venue walkthroughs. AI-drafted replies with your packages, vendor contacts, and voice.",
-  "heroBadge": "Trusted by 400+ wedding planners",
-  "heroHeadline": "Your email assistant while you're on-site at the venue",
-  "heroSubline": "Duet learns your vendor contacts, packages, and client preferences — then drafts email replies so couples never wait while you're coordinating on the ground.",
+  "pageTitle": "Duet Mail untuk Perancang Perkahwinan | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu perancang perkahwinan membalas e-mel pelanggan dan vendor dengan segera — walaupun dari sesi lawatan lokasi. Balasan draf AI dengan pakej anda, kenalan vendor, dan suara anda.",
+  "heroBadge": "Dipercayai oleh 400+ perancang perkahwinan",
+  "heroHeadline": "Pembantu e-mel anda semasa anda berada di lokasi acara",
+  "heroSubline": "Duet mempelajari kenalan vendor, pakej, dan keutamaan pelanggan anda — kemudian menyediakan draf balasan e-mel supaya pasangan tidak perlu menunggu semasa anda menyelaras di lapangan.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages...",
-      "pill": "To Respond",
+      "subject": "Ketersediaan untuk majlis kahwin 20 Sept?",
+      "preview": "Hai! Kami baru sahaja bertunang dan sedang mencari majlis kahwin pada 20 September untuk kira-kira 120 tetamu. Adakah anda ada kekosongan? Apakah pakej anda...",
+      "pill": "Untuk Dibalas",
       "pillColor": "red"
     },
     {
       "from": "Bella Rosa Florals",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "preview": "Here are the three centerpiece options we discussed. The garden roses came in beautifully. Let me know which direction the couple wants to go...",
+      "subject": "Re: Majlis kahwin Thompson — contoh susun atur tengah meja",
+      "preview": "Ini tiga pilihan tengah meja yang kita bincangkan. Mawar taman datang dengan cantik. Beritahu saya hala tuju yang pasangan itu mahu ambil...",
       "pill": "Vendor",
       "pillColor": "amber"
     },
@@ -29,47 +28,47 @@
       "from": "Rachel K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Freaking out about the seating chart",
-      "preview": "I know we finalized the chart last week but my mom just RSVPd 4 extra people and I have no idea where to put them. Can we move some tables around...",
-      "pill": "Client",
+      "subject": "Panik tentang carta tempat duduk",
+      "preview": "Saya tahu kita sudah memuktamadkan carta itu minggu lepas tetapi ibu saya baru sahaja RSVP untuk 4 orang tambahan dan saya langsung tak tahu nak letak mereka di mana. Bolehkah kita alihkan beberapa meja...",
+      "pill": "Pelanggan",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
-      "preview": "A couple has requested more information about your services. View details and respond...",
+      "subject": "Pertanyaan baharu daripada penyenaraian anda",
+      "preview": "Seorang pasangan telah meminta maklumat lanjut tentang perkhidmatan anda. Lihat butiran dan balas...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Emily & James — congratulations on your engagement! September 20th is available and 120 guests is a perfect size. I offer full planning, partial planning, and day-of coordination packages. I'd love to set up a complimentary consultation to learn your vision. Are you free for a quick call this week?",
+  "autodraft": "Hai Emily & James — tahniah atas pertunangan anda! 20 September masih tersedia dan 120 tetamu ialah saiz yang sesuai. Saya menawarkan pakej perancangan penuh, perancangan sebahagian, dan penyelarasan hari acara. Saya amat berbesar hati untuk menetapkan sesi konsultasi percuma bagi memahami visi anda. Adakah anda lapang untuk panggilan ringkas minggu ini?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "wedding",
+    "bookingUnit": "majlis kahwin",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved client pays for over 20 years of Duet."
+    "punchline": "Seorang klien yang dijimatkan membayar untuk lebih 20 tahun Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new couple inquiries first, vendor confirmations second, and newsletter noise never. No more missing a booking request buried under Knot alerts.",
-  "draftSubtitle": "Duet learns your packages, preferred vendors, and tone. When a couple inquires, it drafts a warm, complete reply with your availability and next steps. You review and send.",
-  "agentSubtitle": "\"What vendor emails came in for the Thompson wedding?\" \"Draft a timeline update to all vendors for Saturday.\" Duet knows your inbox and clients — just ask.",
+  "categorizationSubtitle": "Duet secara automatik menanda setiap e-mel supaya anda melihat pertanyaan pasangan baharu dahulu, pengesahan vendor kedua, dan bunyi bising surat berita tidak pernah. Tiada lagi terlepas permintaan tempahan yang tersorok di bawah notifikasi Knot.",
+  "draftSubtitle": "Duet mempelajari pakej anda, vendor pilihan, dan nada anda. Apabila seorang pasangan membuat pertanyaan, ia menyediakan draf balasan yang mesra dan lengkap dengan ketersediaan anda serta langkah seterusnya. Anda semak dan hantar.",
+  "agentSubtitle": "\"E-mel vendor apa yang masuk untuk majlis kahwin Thompson?\" \"Buat draf kemas kini garis masa kepada semua vendor untuk hari Sabtu.\" Duet tahu peti masuk dan pelanggan anda — cuma tanya saja.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "We just got engaged and are looking at September 20th...",
-      "pill": "Respond Now",
+      "subject": "Ketersediaan untuk majlis kahwin 20 Sept?",
+      "preview": "Kami baru sahaja bertunang dan sedang melihat 20 September...",
+      "pill": "Balas Sekarang",
       "pillColor": "red"
     },
     {
       "from": "Bella Rosa Florals",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
+      "subject": "Re: Majlis perkahwinan Thompson — mockup hiasan tengah meja",
       "pill": "Vendor",
       "pillColor": "amber"
     },
@@ -77,15 +76,15 @@
       "from": "Rachel K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Re: Seating chart — final version attached",
-      "pill": "Client",
+      "subject": "Re: Carta tempat duduk — versi akhir dilampirkan",
+      "pill": "Pelanggan",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
+      "subject": "Pertanyaan baharu daripada penyenaraian anda",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Minted",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "20% off save-the-dates this week",
-      "pill": "Promotions",
+      "subject": "Diskaun 20% untuk save-the-dates minggu ini",
+      "pill": "Promosi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "emily.james.w@email.com",
-    "subject": "Re: Availability for Sept 20 wedding?",
-    "originalFrom": "Emily & James W. wrote:",
-    "originalText": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages and pricing?",
+    "subject": "Re: Ketersediaan untuk perkahwinan 20 Sept?",
+    "originalFrom": "Emily & James W. menulis:",
+    "originalText": "Hai! Kami baru sahaja bertunang dan sedang melihat perkahwinan pada 20 September untuk kira-kira 120 tetamu. Adakah anda ada ketersediaan? Apakah pakej dan harga anda?",
     "lines": [
-      "Hi Emily & James — congratulations!",
-      "September 20th is available and 120 guests is a wonderful size. I offer full planning, partial planning, and day-of coordination packages starting at $3,500.",
-      "I'd love to set up a complimentary consultation to hear your vision and walk you through which package fits best.",
-      "Are you free for a call this week?"
+      "Hai Emily & James — tahniah!",
+      "20 September tersedia dan 120 tetamu adalah jumlah yang sangat sesuai. Saya menawarkan pakej perancangan penuh, perancangan separa, dan penyelarasan pada hari majlis bermula dari $3,500.",
+      "Saya berbesar hati untuk menjadualkan konsultasi percuma bagi mendengar visi anda dan menerangkan pakej yang paling sesuai.",
+      "Adakah anda lapang untuk panggilan minggu ini?"
     ],
-    "highlightText": "September 20th is available and 120 guests is a wonderful size",
+    "highlightText": "20 September tersedia dan 120 tetamu adalah jumlah yang sangat sesuai",
     "tooltipFeatures": [
-      "Knows your packages & availability",
-      "Drafts in your voice",
-      "Includes consultation next steps",
-      "Learns your client preferences"
+      "Tahu pakej & ketersediaan anda",
+      "Merangka draf dengan suara anda",
+      "Termasuk langkah seterusnya untuk konsultasi",
+      "Mempelajari keutamaan pelanggan anda"
     ]
   },
   "agent": {
-    "userMessage": "What vendor emails came in for the Thompson wedding this week?",
-    "agentResponse": "You received 4 vendor emails for the Thompson wedding this week: Bella Rosa Florals sent centerpiece mockups (awaiting couple's pick), Lakeside Venue confirmed the ceremony rehearsal for Friday at 4 PM, DJ Marco sent the updated song list, and Sweet Layers Bakery needs final cake flavor by Wednesday. Want me to draft replies to any of these?",
-    "followUp": "Draft a reply to Bella Rosa with the couple's pick — Option B, the garden roses",
-    "followUpResponse": "Done! I drafted a reply to Bella Rosa Florals confirming Option B — the garden rose centerpieces for the Thompson wedding. It includes a note to proceed with the full order for 14 tables. Ready to review and send."
+    "userMessage": "Emel vendor apa yang masuk untuk majlis perkahwinan Thompson minggu ini?",
+    "agentResponse": "Anda menerima 4 emel vendor untuk majlis perkahwinan Thompson minggu ini: Bella Rosa Florals menghantar mockup hiasan tengah meja (menunggu pilihan pasangan), Lakeside Venue mengesahkan latihan upacara pada hari Jumaat jam 4 petang, DJ Marco menghantar senarai lagu yang dikemas kini, dan Sweet Layers Bakery memerlukan pilihan akhir perisa kek sebelum hari Rabu. Mahu saya drafkan balasan kepada mana-mana satu daripada ini?",
+    "followUp": "Drafkan balasan kepada Bella Rosa dengan pilihan pasangan — Pilihan B, mawar taman",
+    "followUpResponse": "Selesai! Saya telah draf balasan kepada Bella Rosa Florals yang mengesahkan Pilihan B — susunan tengah meja mawar taman untuk majlis kahwin Thompson. Ia termasuk nota untuk meneruskan pesanan penuh bagi 14 meja. Sedia untuk disemak dan dihantar."
   },
-  "testimonialsTitle": "Loved by wedding planners",
+  "testimonialsTitle": "Disukai oleh perancang perkahwinan",
   "testimonials": [
     {
       "name": "Francesca M.",
-      "title": "Boutique Wedding Planner, CO",
-      "quote": "I'm at mountain venues with zero cell service half my week. Meanwhile couples are emailing me about timelines and vendor questions. Duet drafts replies with my exact packages and tone — I review them when I'm back in range.",
+      "title": "Perancang Perkahwinan Butik, CO",
+      "quote": "Saya berada di lokasi gunung tanpa liputan selular sepanjang separuh minggu saya. Pada masa yang sama, pasangan pengantin menghantar e-mel kepada saya tentang garis masa dan soalan vendor. Duet draf balasan dengan pakej dan nada saya yang tepat — saya semak semula apabila saya kembali ada liputan.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
-      "title": "Full-Service Wedding Planner, CA",
-      "quote": "Coordinating 10+ vendors per wedding means my inbox is a war zone during peak season. Duet categorizes vendor emails separately from client emails and drafts follow-ups I'd have written myself. I actually sleep now.",
+      "title": "Perancang Perkahwinan Perkhidmatan Penuh, CA",
+      "quote": "Menyelaraskan 10+ vendor bagi setiap perkahwinan bermaksud peti masuk saya seperti zon perang semasa musim puncak. Duet mengkategorikan e-mel vendor secara berasingan daripada e-mel klien dan mendraf susulan yang saya sendiri akan tulis. Sekarang saya betul-betul boleh tidur.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
-      "title": "Day-of Coordinator, TX",
-      "quote": "On wedding days I'm unavailable for 14 hours straight. New inquiries used to sit unanswered until Monday. Now Duet handles them instantly and I've booked 3 extra weddings this quarter from faster response times alone.",
+      "title": "Penyelaras Hari-H, TX",
+      "quote": "Pada hari perkahwinan, saya tidak tersedia selama 14 jam berturut-turut. Pertanyaan baharu dulu dibiarkan tanpa jawapan hingga hari Isnin. Kini Duet menguruskannya serta-merta dan saya telah menempah 3 perkahwinan tambahan suku ini hanya daripada masa tindak balas yang lebih pantas.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
-      "title": "Destination Wedding Planner, HI",
-      "quote": "My couples fly in from all over the world and email at all hours. Duet learned my FAQ answers — venue logistics, local vendors, what to expect — and drafts replies that sound exactly like me. Clients have no idea.",
+      "title": "Perancang Perkahwinan Destinasi, HI",
+      "quote": "Pasangan saya datang dari seluruh dunia dan menghantar e-mel pada semua waktu. Duet telah mempelajari jawapan FAQ saya — logistik lokasi, vendor tempatan, apa yang perlu dijangka — dan mendraf balasan yang kedengaran tepat seperti saya. Klien langsung tidak tahu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
-      "title": "Wedding & Event Planner, NY",
-      "quote": "I was spending 2 hours every night answering the same package and availability questions. Duet handles the repetitive stuff so I can focus on the creative work I actually love. It paid for itself in the first week.",
+      "title": "Perancang Perkahwinan & Acara, NY",
+      "quote": "Saya menghabiskan 2 jam setiap malam menjawab soalan pakej dan ketersediaan yang sama. Duet mengurus perkara berulang supaya saya boleh fokus pada kerja kreatif yang benar-benar saya suka. Ia telah membayar sendiri dalam minggu pertama.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Be present at the ceremony,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Hadir sepenuhnya di majlis,\nbukan terkubur dalam peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work with all the vendor coordination emails?",
-      "answer": "Yes. Duet learns your vendor contacts, preferred vendors, and how you communicate with each one. It categorizes vendor emails by wedding and drafts replies with the right details — confirmations, follow-ups, timeline updates. You review and send. It handles florists, caterers, venues, DJs, photographers, and every other vendor in your rolodex."
+      "question": "Adakah Duet berfungsi dengan semua e-mel penyelarasan vendor?",
+      "answer": "Ya. Duet mempelajari kenalan vendor anda, vendor pilihan, dan cara anda berkomunikasi dengan setiap satu. Ia mengkategorikan e-mel vendor mengikut perkahwinan dan mendraf balasan dengan butiran yang tepat — pengesahan, susulan, kemas kini garis masa. Anda semak dan hantar. Ia mengurus floris, katering, tempat acara, DJ, jurugambar, dan setiap vendor lain dalam rolodeks anda."
     },
     {
-      "question": "I'm on-site at weddings and venues all day. Will I miss new inquiries?",
-      "answer": "That's exactly what Duet solves. When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps. You review and send whenever you're free — even from your phone between events. Most planners tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Saya berada di lokasi perkahwinan dan tempat acara sepanjang hari. Adakah saya akan terlepas pertanyaan baharu?",
+      "answer": "Itulah בדיוק yang Duet selesaikan. Apabila pasangan menghantar e-mel bertanya tentang ketersediaan atau pakej semasa anda menyelaras di lokasi, Duet mendraf balasan yang mesra dan profesional dengan ketersediaan sebenar anda serta langkah seterusnya. Anda semak dan hantar bila-bila masa anda lapang — walaupun dari telefon anda di antara acara. Kebanyakan perancang memberitahu kami ia menjimatkan 1-2 jam masa e-mel sehari semasa musim puncak."
     }
   ],
-  "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."
+  "pricingNote": "Pada $8,000/perkahwinan, seorang klien yang dijimatkan sudah membayar lebih 20 tahun Pro."
 }

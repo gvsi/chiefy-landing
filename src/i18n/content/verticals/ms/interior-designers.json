@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
-  "heroBadge": "Trusted by 400+ interior designers",
-  "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail untuk Pereka Dalaman | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu pereka dalaman mengurus e-mel klien, penyelarasan kontraktor, dan pesanan vendor — walaupun dari tapak projek. Balasan draf AI dengan butiran projek, keutamaan, dan gaya anda.",
+  "heroBadge": "Dipercayai oleh 400+ pereka dalaman",
+  "heroHeadline": "Pembantu e-mel anda semasa anda berada di lokasi bersama klien",
+  "heroSubline": "Duet mempelajari kontak vendor anda, butiran projek, dan keutamaan klien — kemudian menyediakan draf balasan e-mel supaya anda tidak kehilangan klien kerana respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "Pengubahsuaian dapur — perundingan awal?",
+      "preview": "Hai! Kami baru saja membeli rumah di Westlake dan mahu ubah suai sepenuhnya dapur. Adakah anda sedang mengambil projek baharu? Bagaimana proses anda?",
+      "pill": "Untuk Dibalas",
       "pillColor": "red"
     },
     {
       "from": "Tony's Tile & Stone",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "Re: Kemas kini tempoh siap petak backsplash",
+      "preview": "Baru sahaja dapat maklum balas daripada gudang — jubin heks Calacatta telah kehabisan stok selama 3 minggu. Mahu saya simpan pesanan anda atau lihat alternatif...",
+      "pill": "Pesanan Vendor",
       "pillColor": "amber"
     },
     {
-      "from": "Mark L. — Electrician",
+      "from": "Mark L. — Juruelektrik",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "Pendawaian selesai — sedia untuk pemasangan lekapan",
+      "preview": "Semua pendawaian kasar telah siap di bilik tidur utama dan ruang tamu. Kami sedia untuk pemasangan sconce dan chandelier bila-bila masa anda...",
+      "pill": "Kontraktor",
       "pillColor": "blue"
     },
     {
       "from": "Karen & Steve W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "Apa pendapat tentang sampel fabrik?",
+      "preview": "Kami telah melihat tiga pilihan fabrik yang anda tinggalkan dan kami cenderung kepada linen dalam 'Oatmeal' tetapi mahu melihatnya bersama warna dinding...",
+      "pill": "Kelulusan Klien",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "Hai Rachel! Saya ingin tahu lebih lanjut tentang dapur Westlake anda. Saya sedang membuka tempahan konsultasi untuk bulan depan. Proses saya bermula dengan lawatan ke rumah di mana kita meneliti visi, bajet, dan garis masa anda — kemudian saya sediakan konsep reka bentuk dengan pilihan bahan. Mahu kita tetapkan masa untuk berjumpa di rumah?",
   "math": {
     "pricePerBooking": "$10,000",
-    "bookingUnit": "project",
+    "bookingUnit": "projek",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Duet."
+    "punchline": "Satu klien yang terselamat menjana pulangan untuk Duet selama bertahun-tahun."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+  "categorizationSubtitle": "Duet menandakan secara automatik setiap e-mel supaya anda melihat pertanyaan klien baharu dahulu, kelulusan yang tertunggak kedua, dan surat berita vendor tidak sekali-kali. Tiada lagi terlepas sesi perundingan reka bentuk yang tersembunyi di bawah promosi pameran perdagangan.",
+  "draftSubtitle": "Duet mempelajari proses anda, butiran projek, dan nada. Apabila pertanyaan baharu atau soalan klien masuk, ia menyediakan draf balasan lengkap dengan ketersediaan anda, langkah seterusnya, dan butiran projek. Anda semak dan hantar.",
+  "agentSubtitle": "\"Apakah status projek Henderson?\" \"Kelulusan mana yang masih tertunggak?\" Duet mengetahui peti masuk anda dan setiap utas projek — tanya sahaja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "Dapur diubah suai — perundingan awal?",
+      "preview": "Kami baru sahaja membeli rumah dan mahu ubah suai sepenuhnya dapur...",
+      "pill": "Pertanyaan Baharu",
       "pillColor": "red"
     },
     {
       "from": "Karen W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "Re: Sampel fabrik — memilih linen Oatmeal",
+      "pill": "Kelulusan Klien",
       "pillColor": "blue"
     },
     {
       "from": "Mark L.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "Pendawaian selesai — sedia untuk pemasangan lekapan",
+      "pill": "Kontraktor",
       "pillColor": "amber"
     },
     {
       "from": "Tony's Tile & Stone",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "Pesanan #4821 dihantar — penghantaran Khamis",
+      "pill": "Pesanan Pembekal",
       "pillColor": "lavender"
     },
     {
       "from": "Design Within Reach",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "Program perdagangan — acara penjimatan musim bunga",
+      "pill": "Promosi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "Re: Dapur diubah suai — perundingan awal?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Kami baru sahaja membeli rumah di Westlake dan mahu mengubah suai sepenuhnya dapur. Adakah anda menerima projek baharu? Bagaimana rupa proses anda?",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "Hai Rachel!",
+      "Tahniah atas rumah baharu! Saya berbesar hati untuk membantu dengan dapur anda. Saya kini sedang menjadualkan perundingan untuk bulan hadapan.",
+      "Proses saya bermula dengan lawatan ke rumah untuk meneliti visi, bajet dan garis masa anda. Dari situ, saya akan menyediakan konsep reka bentuk bersama pilihan bahan dan cadangan terperinci.",
+      "Nak tetapkan masa untuk bertemu di rumah?"
     ],
-    "highlightText": "I'm currently booking consultations for next month.",
+    "highlightText": "Saya kini sedang menjadualkan perundingan untuk bulan hadapan.",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "Tahu proses & ketersediaan anda",
+      "Menghasilkan draf dalam suara anda",
+      "Menambah langkah seterusnya secara automatik",
+      "Belajar dari semasa ke semasa"
     ]
   },
   "agent": {
-    "userMessage": "What approvals are still pending on the Henderson project?",
-    "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
-    "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
-    "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
+    "userMessage": "Apakah kelulusan yang masih belum selesai untuk projek Henderson?",
+    "agentResponse": "Berdasarkan utas e-mel anda dengan keluarga Henderson, masih ada dua perkara yang belum diluluskan: vanity bilik mandi utama (anda menghantar pilihan Restoration Hardware pada hari Selasa) dan fabrik langsir ruang tamu (sampel telah dihantar minggu lepas). Karen juga bertanya tentang kilauan cat untuk ruang makan tetapi belum membalas cadangan anda lagi. Nak saya drafkan susulan?",
+    "followUp": "Drafkan susulan yang lembut kepada Karen tentang pilihan vanity dan fabrik",
+    "followUpResponse": "Selesai! Saya telah drafkan susulan kepada Karen untuk menanyakan keadaan pilihan vanity dan langsir, sambil menyebut bahawa vanity mempunyai tempoh penghantaran 6 minggu jadi keputusan segera akan membantu memastikan projek kekal mengikut jadual. Sedia untuk disemak dan dihantar."
   },
-  "testimonialsTitle": "Loved by interior designers",
+  "testimonialsTitle": "Disukai oleh pereka dalaman",
   "testimonials": [
     {
       "name": "Michael R.",
-      "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
+      "title": "Pereka Utama, Austin TX",
+      "quote": "Saya berada di tapak 6 jam sehari menyelaras pelukis, juruelektrik, dan pemasang jubin. Pada masa yang sama tiga lagi pelanggan menghantar e-mel tentang projek mereka. Duet menyusun draf balasan dengan butiran projek yang tepat — saya hanya semak antara lawatan tapak.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
-      "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "title": "Pereka Dalaman Kediaman, Chicago",
+      "quote": "Pertanyaan pelanggan dulu terbiar berhari-hari kerana saya tenggelam dalam e-mel perolehan dan penjadualan kontraktor. Kini Duet membalas petunjuk baharu dalam beberapa minit dengan proses dan ketersediaan saya. Saya telah menempah 4 projek tambahan pada suku ini.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "title": "Pemilik Studio Reka Bentuk, Nashville",
+      "quote": "Mengurus e-mel bagi 12 projek aktif memang sangat membebankan saya. Duet mengkategorikan semuanya — pertanyaan baharu, kelulusan yang belum selesai, pesanan vendor, kemas kini kontraktor — jadi saya tahu dengan tepat apa yang perlu diberi perhatian dahulu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
-      "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "title": "Penghias Dalaman, San Diego",
+      "quote": "Saya kehilangan bakal pelanggan kerana tidak dapat membalas dengan cukup cepat semasa minggu pemasangan. Duet mempelajari proses konsultasi saya, struktur harga, malah cara saya menerangkan gaya reka bentuk saya. Pelanggan langsung tidak tahu ia dibantu AI.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "title": "Pereka Dalaman Komersial, Denver",
+      "quote": "Di antara tempoh penghantaran vendor, jadual kontraktor, dan permintaan semakan pelanggan, peti masuk saya memang kucar-kacir. Duet menyusun semuanya dan menyediakan draf susulan untuk kelulusan yang belum selesai. Rasanya seperti mempunyai penyelaras projek yang tidak pernah tidur.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Luangkan hari anda untuk mencipta ruang yang indah,\nbukan tenggelam dalam peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
-      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "Saya mengurus 8-10 projek serentak. Bolehkah Duet memastikan semuanya teratur?",
+      "answer": "Ya. Duet menjejaki setiap utas e-mel bagi setiap pelanggan dan projek. Apabila anda bertanya tentang dapur Henderson atau pejabat Park Avenue, ia mengambil konteks daripada semua perbualan berkaitan — pesanan vendor, kemas kini kontraktor, kelulusan pelanggan — supaya balasan anda sentiasa tepat dan khusus untuk projek. Tiada kekeliruan tentang jubin mana untuk pelanggan yang mana."
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
-      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "Saya menyelaras dengan ramai kontraktor dan vendor. Adakah Duet membantu dengan itu?",
+      "answer": "Sudah tentu. Duet mempelajari kenalan kontraktor anda, wakil vendor, dan konteks peranan setiap bidang kerja dalam projek anda. Apabila juruelektrik anda menghantar emel bahawa kerja pemasangan kasar telah selesai, Duet boleh menyediakan draf balasan yang mengesahkan langkah seterusnya atau menghubungi pemasang kelengkapan. Ia memastikan aliran kerja terus bergerak walaupun anda berada di lokasi kerja lain di seberang bandar."
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
+  "pricingNote": "Pada $10,000/projek, seorang pelanggan yang diselamatkan sudah membayar Duet Pro selama bertahun-tahun."
 }

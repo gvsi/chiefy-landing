@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail untuk Tunggangan Kuda & Pemandu Laluan | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu pengendali tunggangan laluan membalas e-mel tempahan dengan serta-merta — walaupun dari atas pelana. Balasan draf AI dengan harga anda, keperluan penunggang, dan suara anda.",
+  "heroBadge": "Dipercayai oleh 300+ pemandu laluan",
+  "heroHeadline": "Pembantu e-mel anda semasa anda di laluan",
+  "heroSubline": "Duet mempelajari jenis tunggangan, harga, keperluan penunggang, dan keadaan laluan anda — kemudian menyediakan draf balasan e-mel supaya anda tidak kehilangan tempahan akibat respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "Tempahan kumpulan untuk 6 — pagi Sabtu?",
+      "preview": "Hai! Kami sebuah keluarga seramai 6 orang (2 dewasa, 4 kanak-kanak berumur 8-14) dan ingin menempah tunggangan laluan pada pagi Sabtu ini. Adakah anda ada kekosongan? Berapakah harga seorang?",
+      "pill": "Perlu Dibalas",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Soalan had berat",
+      "preview": "Hai, saya berminat untuk menempah tunggangan tetapi ingin bertanya tentang keperluan berat anda dahulu. Berat saya sekitar 260 lbs — adakah itu akan menjadi masalah...",
+      "pill": "Soalan",
       "pillColor": "amber"
     },
     {
       "from": "Amy & Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Tunggangan matahari terbenam untuk ulang tahun?",
+      "preview": "Kami sedang meraikan ulang tahun ke-10 kami hujung minggu depan dan nampak tunggangan matahari terbenam anda di Instagram. Adakah ia tersedia pada petang Jumaat? Ada pakej khas...",
+      "pill": "Tempahan",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Ulasan baharu untuk penyenaraian anda",
+      "preview": "Seorang pengembara baru-baru ini telah mengulas perniagaan anda. Lihat apa yang mereka katakan dan balas...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Hai Jessica! Pagi Sabtu masih kosong untuk 6 orang. Tunggangan laluan kami ialah $100/orang dan mengambil masa kira-kira 90 minit melalui lembah. Kanak-kanak berumur 8+ dialu-alukan — semuanya sesuai. Kasut bertutup wajib, dan kami menyediakan topi keledar. Mahu saya tempahkan anda untuk tunggangan pukul 9 pagi?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "tunggangan",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Satu tunggangan kumpulan yang berjaya menjimatkan membayar Duet selama lebih dua tahun."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet secara automatik menandai setiap e-mel supaya anda melihat permintaan tempahan dahulu, soalan penunggang kedua, dan selebihnya tidak terlepas. Tidak lagi terlepas pertanyaan kumpulan yang terkubur di bawah amaran TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari jenis tunggangan, harga, dan keperluan anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran laluan, harga, dan pakaian yang perlu dipakai. Anda semak dan hantar.",
+  "agentSubtitle": "\"Ada tunggangan yang tersedia hujung minggu ini?\" \"Sediakan draf balasan kepada Jessica dengan kekosongan pada hari Sabtu.\" Duet mengenali peti masuk dan kalendar anda — tanya sahaja.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "Tempahan kumpulan untuk 6 — pagi Sabtu?",
+      "preview": "Kami sebuah keluarga 6 orang sedang mencari untuk menempah tunggangan denai...",
+      "pill": "Balas Sekarang",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Balas: Sahkan tunggangan matahari terbenam — Jumaat 5:30 PM",
+      "pill": "Ditempah",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Had berat dan keperluan pengalaman?",
+      "pill": "Soalan",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Ringkasan tempahan mingguan anda",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Tractor Supply",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Jualan musim bunga — 15% diskaun makanan ternakan & kelengkapan",
+      "pill": "Promosi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Balas: Tempahan berkumpulan untuk 6 — pagi Sabtu?",
+    "originalFrom": "Jessica T. menulis:",
+    "originalText": "Hai! Kami sebuah keluarga 6 orang (2 dewasa, 4 kanak-kanak berumur 8-14) dan ingin menempah tunggangan denai pada pagi Sabtu ini. Adakah anda ada kekosongan? Berapakah harga seorang?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Hei Jessica!",
+      "Pagi Sabtu masih kosong untuk 6 orang. Tunggangan denai ialah $100/orang dan mengambil masa kira-kira 90 minit melalui lembah. Kanak-kanak berumur 8 tahun ke atas dialu-alukan, jadi seluruh kumpulan anda boleh teruskan.",
+      "Kasut bertutup diperlukan — but adalah yang terbaik. Kami menyediakan topi keledar dan memadankan setiap penunggang dengan kuda berdasarkan saiz dan pengalaman. Tiada pengalaman menunggang diperlukan.",
+      "Mahukah anda saya sahkan tempahan anda untuk tunggangan pukul 9 AM?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "Pagi Sabtu masih kosong untuk 6 orang. Tunggangan denai ialah $100/orang",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Tahu harga & ketersediaan anda",
+      "Menghasilkan draf dalam suara anda",
+      "Secara automatik termasuk keperluan penunggang",
+      "Belajar dari semasa ke semasa"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Ada tunggangan yang kosong hujung minggu ini? Juga, bagaimana cuaca?",
+    "agentResponse": "Berdasarkan kalendar anda, anda ada kekosongan pada Sabtu jam 9 AM dan 2 PM, serta Ahad jam 10 AM. Ramalan cuaca Sabtu ialah 72°F dan cerah — cuaca yang sempurna untuk menunggang. Ahad menunjukkan 40% kemungkinan hujan pada sebelah petang, jadi slot pagi adalah pilihan yang lebih selamat. Mahukah saya drafkan balasan kepada mana-mana pertanyaan yang belum dijawab dengan waktu-waktu ini?",
+    "followUp": "Drafkan balasan kepada Jessica dengan ketersediaan pada hari Sabtu",
+    "followUpResponse": "Selesai! Saya telah menyediakan draf balasan kepada Jessica yang mengesahkan hari Sabtu jam 9 pagi untuk 6 penunggang pada harga $100/orang. Ia merangkumi keperluan standard penunggang anda dan pakaian yang sesuai. Sedia untuk disemak dan dihantar."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Disukai oleh pengendali tunggangan denai",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "Pemilik Ladang & Pemandu Denai, MT",
+      "quote": "Saya berada di denai 6 jam sehari tanpa perkhidmatan telefon bimbit. Apabila saya kembali untuk membalas, separuh daripada mereka sudah menempah di tempat lain. Kini Duet menyediakan draf balasan dengan harga dan butiran tunggangan saya — saya hanya semak dan hantar apabila saya kembali ke kandang.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "title": "Pengendali Lawatan Menunggang Kuda, AZ",
+      "quote": "Kami menerima berpuluh-puluh e-mel yang menanyakan perkara yang sama — had berat, pakaian yang perlu dipakai, keperluan umur. Duet mengendalikan semuanya dan balasannya kedengaran sama seperti saya. Para tetamu saya langsung tidak tahu ia AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "Pemandu Tunggangan Denai, CO",
+      "quote": "Musim puncak benar-benar membebankan saya. 30+ e-mel sehari di samping mengendalikan tunggangan. Duet menyusun permintaan tempahan daripada gangguan dan menyediakan draf balasan yang merangkumi semuanya — harga, apa yang perlu dibawa, dan sebagainya. Saya dapat kembali menikmati waktu petang saya.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "Pengajar Menunggang & Pengurus Tempahan, TX",
+      "quote": "Kami mengendalikan tunggangan senja, tunggangan pagi, dan pelajaran persendirian — setiap satunya dengan harga dan keperluan yang berbeza. Duet mempelajari semuanya dalam seminggu. Ia menyediakan draf balasan yang tepat untuk jenis tunggangan yang tepat setiap kali.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "title": "Ladang Keluarga & Tunggangan Denai, CA",
+      "quote": "E-mel sensitif adalah yang paling sukar — seseorang bertanya sama ada berat mereka terlalu tinggi, atau sama ada anak mereka cukup umur. Duet mengendalikannya dengan penuh perhatian seperti yang saya lakukan. Profesional, mesra, dan tepat. Itu sahaja sudah berbaloi.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Luangkan hari anda bersama kuda,\nbukan di peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Bagaimana Duet menangani soalan sensitif tentang berat atau keperluan pengalaman?",
+      "answer": "Duet mempelajari polisi khusus anda dan meniru nada anda. Apabila seseorang bertanya tentang had berat atau keperluan pengalaman, ia membalas secara profesional dan mesra — berkongsi maklumat yang mereka perlukan tanpa menjadikannya janggal. Anda menetapkan nada sekali dan Duet mengikutinya secara konsisten, jadi setiap tetamu berasa dihormati."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Bolehkah Duet mengendalikan tempahan kumpulan dengan keperluan penunggang yang berbeza?",
+      "answer": "Ya. Duet mempelajari jenis tunggangan anda, saiz kumpulan, umur minimum, dan sebarang keperluan khusus penunggang. Apabila keluarga atau kumpulan menghantar e-mel tentang tempahan, ia menyediakan draf balasan yang merangkumi harga untuk keseluruhan kumpulan, perkara yang perlu diketahui oleh setiap penunggang, dan slot masa yang tersedia. Anda semak dan hantar — tiada perlu berbalas-balas."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "Pada $100/orang untuk kumpulan 6, satu tunggangan yang berjaya dijimatkan membayar lebih daripada dua tahun Pro."
 }
