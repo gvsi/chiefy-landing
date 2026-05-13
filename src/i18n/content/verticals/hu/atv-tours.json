@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail ATV és UTV túrákhoz | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít az ATV- és UTV-túravezetőknek, hogy azonnal válaszoljanak a foglalási e-mailekre – akár a nyomvonalról is. AI által összeállított válaszok az Ön árával, követelményeivel és hangjával.",
+  "heroBadge": "Több mint 200 idegenvezető megbízható",
+  "heroHeadline": "Az e-mail asszisztens, amíg úton van",
+  "heroSubline": "A Duet megtanulja az Ön túratípusait, árait és versenyzői követelményeit – majd e-mail-válaszokat készít, így Ön soha nem veszít el egy foglalást a lassú válasz miatt.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "Elérhetőség szombaton 4 gépre?",
+      "preview": "Szia! 4 fős csoport vagyunk, akik egy vezetett ATV-s túrát szeretnénk lefoglalni erre a szombatra. Van hely? Mi az ára gépenként?",
+      "pill": "Válaszolni",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "Biztosítási követelmények?",
+      "preview": "Hé, hozzuk a saját UTV-ket. Felelősségbiztosítást kell igazolnunk? Milyen fedezetre van szüksége...",
+      "pill": "Kérdés",
       "pillColor": "amber"
     },
     {
-      "from": "The Hendersons",
+      "from": "Hendersonék",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "Melyik pálya kezdőknek?",
+      "preview": "Még soha nem lovagoltunk ATV-vel. Melyik túraútvonalat ajánlaná egy két tinédzseres családnak? Biztosítasz...",
+      "pill": "Foglalás",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Új vélemény az adatlapodról",
+      "preview": "Egy utazó nemrégiben véleményezte vállalkozását. Nézd meg, mit mondtak, és válaszolj...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "Szia Rachel! Szombat nyitva van és 4 gépet tudunk elvinni gond nélkül. A túrák gépenként 200 dollárba kerülnek, és körülbelül 6-8 óráig tartanak. Reggel 9-kor találkozunk a nyomvonalnál – küldök útbaigazítást, amint megerősítetted. Sisak és védőszemüveg biztosított. Akarod, hogy bezárjalak?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "csoport (4 gép)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Egy elmentett csoportos foglalás egy év Duettért fizet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kérelmeket látja, másodsorban a biztosítási kérdéseket, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá rejtett csoportos megkeresés.",
+  "draftSubtitle": "A Duet megtanulja a túra útvonalait, az árakat és a versenyzői követelményeket. Amikor egy foglalási kérdés érkezik, teljes választ készít az utazás részleteiről, az árakról és arról, hogy mit vigyen magával. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Lefoglaltak csoportokat erre a hétvégére? \"Választervezet Rachelnek szombati elérhetőséggel.\" A Duet ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "Elérhetőség szombaton 4 gépre?",
+      "preview": "4 fős csoport vagyunk, akik egy vezetett ATV-s túrát szeretnénk lefoglalni...",
+      "pill": "Válaszoljon most",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Re: Foglalás megerősítve – szombat 9:00",
+      "pill": "Lefoglalt",
       "pillColor": "blue"
     },
     {
-      "from": "The Hendersons",
+      "from": "Hendersonék",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "Mit viseljünk a pályán?",
+      "pill": "Kérdés",
       "pillColor": "amber"
     },
     {
       "from": "Yelp for Business",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
+      "subject": "Az Ön heti üzleti frissítése",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Rocky Mountain ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "Rugóhézag – 25% kedvezmény az alkatrészekre",
+      "pill": "Promozgások",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: Elérhetőség szombaton 4 gépre?",
+    "originalFrom": "Rachel W. írta:",
+    "originalText": "Szia! 4 fős csoport vagyunk, akik egy vezetett ATV-s túrát szeretnénk lefoglalni erre a szombatra. Van hely? Mi az ára gépenként?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Szia Rachel!",
+      "Szombaton 4 gép áll nyitva. A túrák gépenként 200 dollárba kerülnek, és 6-8 óráig tartanak reggel 9-től a nyomvonaltól.",
+      "Sisakok és védőszemüvegek biztosítottak – csak viseljen hosszú nadrágot, zárt cipőt, és vigyen magával vizet és fényvédőt. Megerősítést követően elküldöm a találkozási pontot és az útbaigazítást.",
+      "Akarod, hogy bezárjalak?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Szombaton 4 gép áll nyitva. A túrák ára gépenként 200 dollár",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Ismeri az árakat és az utazási útvonalakat",
+      "Piszkozatok a hangodban",
+      "A lovas követelményeket automatikusan tartalmazza",
+      "Idővel tanul"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "Lefoglaltak csoportokat erre a hétvégére?",
+    "agentResponse": "Beérkezett üzenetei alapján 6 fős csoportja van szombaton reggel 9-kor, és egy pár foglalt vasárnap reggelre. Szombat délután és vasárnap délután továbbra is nyitva tart. Akarod, hogy válaszoljak minden függőben lévő kérdésre ezekkel a nyitásokkal kapcsolatban?",
+    "followUp": "Válasz tervezete Rachelnek szombati elérhetőséggel",
+    "followUpResponse": "Kész! Írtam egy választ Rachelnek, amelyben megerősítettem szombatonként 4 gépet, egyenként 200 dollárért. Tartalmazza a szokásos találkozóhelyet, a felszerelés adatait és a viseletet. Áttekintésre és küldésre kész."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "Szeretik az idegenvezetők és az üzemeltetők",
   "testimonials": [
     {
       "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "title": "ATV Guide, Dél-Utah",
+      "quote": "8 órás túrákat vezetek a kanyonokon keresztül nulla cellás szolgáltatással. Mire visszaértem, a foglalási e-mailjeim fele lehűlt. A Duet válaszokat készít az árakkal és a nyomvonalammal kapcsolatos információimmal – csak a nap végén nézem át őket.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "title": "UTV utazásszervező, Colorado",
+      "quote": "A hét 7 napján túrákat szervezünk, és egyedül a biztosítási és lemondási kérdések felemésztették a reggeleimet. A Duett mindent elintéz – versenyzői követelmények, korhatárok, mit vigyen magával. Pontosan úgy hangzik, mint én.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "title": "Jeep idegenvezető, Moab",
+      "quote": "Az emberek e-mailben kérdezik, hogy melyik útvonal a megfelelő a csoportjuk számára, milyen tapasztalati szintre van szükségük, és hogy a gyerekek tudnak-e lovagolni. Ugyanaz az 5 kérdés újra és újra. A duett mindegyiket leszögezi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "quote": "Minden este több mint egy órát töltöttem ugyanazon elérhetőségi kérdések megválaszolásával. Most a Duet piszkozatai válaszolnak, amíg kint vagyok a nyomon. A válaszidőm órákról percekre változott.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
-      "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "title": "Családi ATV Tours, Sedona",
+      "quote": "Nagyon sok család kérdezi a kezdő pályákról és az életkori követelményekről. A Duet megismerte az összes túralehetőségünket, és minden válaszában a megfelelőt ajánlja. Az ügyfelek nem tudnak különbséget tenni.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Töltsd a csúcsszezont a pályán,\nnem a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "A Duet kezeli a biztosítási és lemondási kérdéseket?",
+      "answer": "Igen. A Duet megismeri a lovas követelményeit – felelősségbiztosítást, korhatárokat, lemondási adatokat, és azt, hogy mit kell hozniuk a versenyzőknek. Amikor valaki e-mailben megkérdezi, mire van szüksége a turné előtt, a Duet teljes választ készít az összes részlettel. Áttekinti, és megérinti a küldést."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Egész nap nyomon vagyok, mobilszolgálat nélkül. Hogyan segít a Duet?",
+      "answer": "A kalauzok pontosan ezért szeretik a Duettet. Amíg 6-8 órás túrát vezetsz jelzés nélkül, felhalmozódnak a foglalási kérdések. A Duet drafts mindegyikre válaszol – árak, elérhetőség, találkozó helye, viselet. Amikor visszatér, átnézi a piszkozatokat, és elküldi. A legtöbb kalauz azt mondja, hogy a csúcsszezonban napi 1-2 óra e-mail-időt takarít meg."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "200 dollár/gép áron egy megtakarított 4 fős csoport több mint egy év Pro-t fizet."
 }

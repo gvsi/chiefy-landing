@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mail rafting- és kajakfelszerelések számára | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a raftingvezetőknek és a kajakosoknak, hogy azonnal válaszoljanak az utazással kapcsolatos kérdésekre – akár a folyóból is. AI által összeállított válaszok az utazás részleteivel, árával és hangjával.",
+  "heroBadge": "Több mint 200 folyókalauz megbízható",
+  "heroHeadline": "Az e-mail asszisztens a folyón",
+  "heroSubline": "A Duet megtanulja az Ön utazási típusait, árait és felszerelési listáit – majd válaszokat készít a foglalási kérdésekre, így az ügyfelek válaszokat kapnak, miközben Ön zuhogót fut.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "Egész napos tutajtúra 6-ra augusztus 9-én?",
+      "preview": "Szia! 6 tagú család vagyunk, aki augusztusban látogat el, és 9-én egy egész napos raftingot szeretnénk lefoglalni. Mennyi az ár személyenként és milyen tapasztalati szintre van szükségünk?",
+      "pill": "Válaszolni",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Többnapos kirándulás – mit tartalmaz az ár?",
+      "preview": "4 fős csoport vagyunk, akik a 3 napos expedíciót nézik. Az étkezés, a kempingfelszerelés és a szárazzsákok benne vannak, vagy hozzunk magunkkal...",
+      "pill": "Kérdés",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel & Mark S.",
+      "from": "Rachel és Mark S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "8 és 10 éves gyerekek – elég biztonságos?",
+      "preview": "Szívesen megtennénk a félnapos kirándulást, de a gyerekeink 8 és 10 évesek. A II. osztályú rész megfelel az életkoruknak? Mi a minimum...",
+      "pill": "Kérdés",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Új vélemény az adatlapodról",
+      "preview": "Egy utazó nemrégiben véleményezte vállalkozását. Nézd meg, mit mondtak, és válaszolj...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "Szia Jennifer! Augusztus 9-én 6 óra nyitva tart. Az egész napos kirándulások ára 150 USD/fő, és körülbelül 7 óráig tart – reggel 8:30-kor indulunk. Tapasztalat nem szükséges, vezetőink mindent megoldanak. Az ár tartalmazza a PFD-ket, a sisakokat, a száraztáskákat és a folyóparti ebédet. Csak vigyen magával fényvédőt, vízcipőt és olyan ruhát, amitől nem bánja, ha elázik. Akarod, hogy lefoglaljam a helyeidet?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "személy",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "Két megtakarított foglalás egy teljes évi Duettért fizet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "A Duet automatikusan megcímkéz minden e-mailt, így először az utazási kérdések jelennek meg, a második a felszerelés kérdése, és eltűnik a promóciós zaj. Többé nem hiányzik a TripAdvisor riasztások alá rejtett csoportos foglalás.",
+  "draftSubtitle": "A Duet megtanulja az utazás típusait, a zuhatag osztályokat, a felszerelések listáját és a lemondási szabályokat. Amikor egy foglalási lekérdezés érkezik, teljes választ készít, amely tartalmazza mindazt, amire az ügyfélnek szüksége van. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Van szabad hely a szombati egész napon? \"Választervezet Jennifernek az elérhetőséggel.\" A Duet ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "Egész napos tutajtúra 6-ra augusztus 9-én?",
+      "preview": "6 tagú család vagyunk augusztusban, és szeretnénk foglalni...",
+      "pill": "Válaszoljon most",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "Re: 3 napos expedíció megerősítve – augusztus 15",
+      "pill": "Lefoglalt",
       "pillColor": "blue"
     },
     {
       "from": "Rachel S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "A 8 és 10 éves gyerekek megfelelnek a II. osztálynak?",
+      "pill": "Kérdés",
       "pillColor": "amber"
     },
     {
-      "from": "The Flybook",
+      "from": "A Flybook",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Az Ön heti foglalási összefoglalója",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "Szezonvégi akció – 30% kedvezmény a szárazruhákra",
+      "pill": "Promozgások",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: Egész napos tutajtúra 6-ra augusztus 9-én?",
+    "originalFrom": "Jennifer W. írta:",
+    "originalText": "Szia! 6 tagú család vagyunk, aki augusztusban látogat el, és 9-én egy egész napos raftingot szeretnénk lefoglalni. Mennyi az ár személyenként és milyen tapasztalati szintre van szükségünk?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "Szia Jennifer!",
+      "Augusztus 9. 6-ra nyitva. Az egész napos utak ára 150 dollár/fő, és körülbelül 7 órás – reggel 8:30-kor találkozunk a kikötőben.",
+      "Nem szükséges tapasztalat. Az ár tartalmazza a PFD-ket, a sisakokat, a száraztáskákat és a folyóparti ebédet – csak vigyen magával fényvédőt és vízcipőt.",
+      "Akarod, hogy lefoglaljam a helyeidet?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "Augusztus 9. 6-ra nyitva. Az egész napos kirándulások ára 150 USD/fő",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "Ismeri az utazás típusait és árait",
+      "Piszkozatok a hangodban",
+      "Automatikusan tartalmazza a felszerelési listákat",
+      "Idővel tanul"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "Van még szabad hely a szombati egész napos kiránduláson?",
+    "agentResponse": "A szombati egész napra 4 hely maradt a 10-ből. Van még egy félnapos délelőtti futás, amely teljesen le van foglalva, és egy többnapos indulás vasárnap, 2 szabad hellyel. Szeretne válaszolni minden függőben lévő kérdésre a szombati elérhetőséggel?",
+    "followUp": "Írjon választ Jennifernek az augusztus 9-i elérhetőséggel",
+    "followUpResponse": "Kész! Választ fogalmaztam meg Jennifernek, amelyben augusztus 9-ét erősítettem meg 6 vendég számára 150 USD/fő áron. Tartalmazza a szokásos utazási adatokat, a felszereléslistát és a találkozó helyét. Áttekintésre és küldésre kész."
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "Szeretik a folyami idegenvezetők és outfitterek",
   "testimonials": [
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "quote": "A főszezonban heti 6 napot a folyón vagyok. Mire visszatértem az e-mailekhez, a csoportok fele már foglalt valaki másnál. Most a Duet piszkozatai választ adnak az utazás részleteivel és az árakkal kapcsolatban, amíg a bevezetésnél vagyok.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "quote": "Minden ügyfél ugyanazt az öt kérdést teszi fel – ár, mit vigyen magával, képzettségi szint, csoportlétszám, lemondási feltételek. A Duet az első héten mindent megtanult. A minden este egy órányi e-mailezésről átmentem a piszkozatok áttekintésére öt percre.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "title": "Többnapos expedíciós útmutató, AK",
+      "quote": "5 napos utakat futok nulla cellás szolgáltatással. A Duet előtt minden kérdés megválaszolatlan maradt, amíg vissza nem értem a városba. Mostantól az ügyfelek perceken belül részletes választ kapnak, én pedig megerősítem, amikor leszállok a folyóról.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "title": "River Adventures irodavezető, WV",
+      "quote": "Három idegenvezetőnek kezelem a foglalásokat négy utazástípusra vonatkozóan. A Duet minden e-mailt sürgősség szerint kategorizál, és válaszpiszkozatokat készít a megfelelő utazással, a megfelelő áron, a megfelelő felszereléslistával. Mintha klónoznám magam.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sophia K.",
       "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "quote": "Szkeptikusak voltunk, hogy a mesterséges intelligencia kezelje a rafting-specifikus e-maileket. Ám átvette a III. osztály és a IV. osztály leírását, a korhatárt, még a vizes kajakra vonatkozó irányelvünket is. Az ügyfelek azt hiszik, hogy hozzánk beszélnek.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Töltsd a nyarat a folyón,\nnem utoléri az e-mailt.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "A Duet kezeli az egyéni utazási árajánlatokat és a többnapos expedícióval kapcsolatos megkereséseket?",
+      "answer": "Igen. A Duet megtanulja az Ön teljes útvonalát – félnapos lebegéseket, egész napos zuhatagokat, többnapos expedíciókat –, valamint az árakat, a benne foglaltakat, a minimális életkort és a nehézségi szintet. Ha valaki egy 3 napos utazásról kérdez 6 főért, teljes választ készít a megfelelő részletekkel. Átnézed, módosítod, ha kell, és elküldöd."
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "Nem vagyok hálózaton a többnapos utazásokon. Működik még a Duet?",
+      "answer": "Pontosan ezt a problémát oldja meg a Duet. Amíg a folyón tartózkodik jel nélkül, a Duet piszkozatai minden beérkező megkeresésre válaszolnak. Amikor ismét hatótávolságon belül van, a piszkozatok várnak – csak nézze át és küldje el. A legtöbb idegenvezető azt mondja, hogy ez megszünteti a lemaradást, amellyel minden többnapos utazás után szembesülni szokott."
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "150 USD/fő áron két megtakarított foglalás fedezi a Pro teljes évét."
 }
