@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
-  "heroBadge": "Trusted by 400+ interior designers",
-  "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mailfor interiørdesignere | AI e-postassistent",
+  "metaDescription": "Duet Mailhjelper interiørdesignere med å administrere klient-e-poster, entreprenørkoordinering og leverandørordrer – selv fra arbeidsplassen. AI-utkastede svar med prosjektdetaljer, preferanser og stemme.",
+  "heroBadge": "Godkjent av 400+ interiørdesignere",
+  "heroHeadline": "Din e-postassistent mens du er på stedet med klienter",
+  "heroSubline": "Duetlærer leverandørkontaktene dine, prosjektdetaljer og klientpreferanser – og lager deretter utkast til e-postsvar slik at du aldri mister en klient på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "Oppussing av kjøkken — førstegangskonsultasjon?",
+      "preview": "Hei! Vi har nettopp kjøpt et hjem i Westlake og ønsker å gjøre om kjøkkenet fullstendig. Tar du på deg nye prosjekter? Hvordan ser prosessen din ut?",
+      "pill": "Å svare",
       "pillColor": "red"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "Tonys fliser og stein",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "Re: Oppdatering av ledetid for Backsplash-fliser",
+      "preview": "Akkurat hørt fra lageret - Calacatta hex-flisen er restordret 3 uker. Vil at jeg skal holde bestillingen din eller se på alternativer...",
+      "pill": "Leverandørbestilling",
       "pillColor": "amber"
     },
     {
-      "from": "Mark L. — Electrician",
+      "from": "Mark L. — Elektriker",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "Kabling ferdig - klar for armaturinstallasjon",
+      "preview": "All grovinnføring er ferdig i hovedsoverom og stue. Vi er klare for montering av lampetten og lysekronen når din...",
+      "pill": "Entreprenør",
       "pillColor": "blue"
     },
     {
-      "from": "Karen & Steve W.",
+      "from": "Karen og Steve W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "Tanker om stoffprøvene?",
+      "preview": "Vi så på de tre stoffalternativene du la igjen, og vi lener oss mot linen i \"Havregryn\", men ønsker å se det mot veggfargen...",
+      "pill": "Kundegodkjenning",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "Hei Rachel! Jeg vil gjerne høre mer om Westlake-kjøkkenet ditt. Jeg bestiller nå konsultasjoner for neste måned. Prosessen min starter med et hjemmebesøk der vi går gjennom visjonen, budsjettet og tidslinjen din – så setter jeg sammen et designkonsept med materialvalg. Vil du avtale en tid for å møtes hjemme?",
   "math": {
     "pricePerBooking": "$10,000",
-    "bookingUnit": "project",
+    "bookingUnit": "prosjekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Duet."
+    "punchline": "Én lagret klient betaler for mange år medDuet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+  "categorizationSubtitle": "Duetmerker automatisk hver e-post slik at du ser nye kundehenvendelser først, venter på godkjenninger etter det, og leverandørens nyhetsbrev aldri. Ikke mer mangler en designkonsultasjon begravet under vareutstillingskampanjer.",
+  "draftSubtitle": "Duetlærer prosessen din, prosjektdetaljer og tone. Når en ny forespørsel eller kundespørsmål treffer, utarbeider den et fullstendig svar med tilgjengelighet, neste trinn og prosjektspesifikasjoner. Du anmelder og sender.",
+  "agentSubtitle": "\"Hva er status på Henderson-prosjektet?\" \"Hvilke godkjenninger venter fortsatt?\"Duetkjenner innboksen din og hver prosjekttråd – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "Oppussing av kjøkken — førstegangskonsultasjon?",
+      "preview": "Vi har nettopp kjøpt et hjem og ønsker å gjøre om kjøkkenet...",
+      "pill": "Ny henvendelse",
       "pillColor": "red"
     },
     {
       "from": "Karen W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "Re: Stoffprøver — med havregryn",
+      "pill": "Kundegodkjenning",
       "pillColor": "blue"
     },
     {
       "from": "Mark L.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "Kabling ferdig - klar for armaturinstallasjon",
+      "pill": "Entreprenør",
       "pillColor": "amber"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "Tonys fliser og stein",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "Bestilling #4821 sendt — levering torsdag",
+      "pill": "Leverandørbestilling",
       "pillColor": "lavender"
     },
     {
-      "from": "Design Within Reach",
+      "from": "Design innen rekkevidde",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "Handelsprogram — vårens sparebegivenhet",
+      "pill": "Probevegelser",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "Re: Oppussing av kjøkken — førstegangskonsultasjon?",
+    "originalFrom": "Rachel T. skrev:",
+    "originalText": "Hei! Vi har nettopp kjøpt et hjem i Westlake og ønsker å gjøre om kjøkkenet fullstendig. Tar du på deg nye prosjekter? Hvordan ser prosessen din ut?",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "Hei Rachel!",
+      "Gratulerer med nytt hjem! Jeg vil gjerne hjelpe med kjøkkenet ditt. Jeg bestiller nå konsultasjoner for neste måned.",
+      "Prosessen min starter med et hjemmebesøk for å gå gjennom din visjon, budsjett og tidslinje. Derfra satte jeg sammen et designkonsept med materialvalg og et detaljert forslag.",
+      "Vil du avtale en tid for å møtes hjemme?"
     ],
-    "highlightText": "I'm currently booking consultations for next month.",
+    "highlightText": "Jeg bestiller nå konsultasjoner for neste måned.",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "Kjenner prosessen og tilgjengeligheten din",
+      "Utkast i stemmen din",
+      "Inkluderer neste trinn automatisk",
+      "Lærer over tid"
     ]
   },
   "agent": {
-    "userMessage": "What approvals are still pending on the Henderson project?",
-    "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
-    "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
-    "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
+    "userMessage": "Hvilke godkjenninger venter fortsatt på Henderson-prosjektet?",
+    "agentResponse": "Basert på e-posttrådene dine med Hendersons, venter to gjenstander fortsatt på godkjenning: hovedbadeskapet (du sendte alternativene for restaurering av maskinvare på tirsdag) og draperistoffet i stuen (prøver ble levert forrige uke). Karen spurte også om malingsglans for spisestuen, men har ikke svart på anbefalingen din ennå. Vil du at jeg skal lage et utkast til en oppfølging?",
+    "followUp": "Lag en skånsom oppfølging til Karen om valg av forfengelighet og stoff",
+    "followUpResponse": "Ferdig! Jeg utarbeidet en oppfølging av Karen som sjekket inn på valgene for forfengelighet og draperier, og nevner at forfengeligheten har 6 ukers ledetid, så en beslutning snart ville holde prosjektet i rute. Klar til å vurdere og sende."
   },
-  "testimonialsTitle": "Loved by interior designers",
+  "testimonialsTitle": "Elsket av interiørdesignere",
   "testimonials": [
     {
       "name": "Michael R.",
-      "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
+      "title": "Hoveddesigner, Austin TX",
+      "quote": "Jeg er på stedet 6 timer i døgnet og koordinerer malere, elektrikere og flisinstallatører. I mellomtiden sender tre andre kunder e-post om prosjektene sine.Duetutkast til svar med de riktige prosjektdetaljene – jeg gjennomgår bare mellom besøkene på nettstedet.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
-      "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "title": "Interiørdesigner for boliger, Chicago",
+      "quote": "Kundeforespørsler pleide å sitte i flere dager fordi jeg ble begravet i anskaffelses-e-poster og entreprenørplanlegging. Nå svarerDuetpå nye kundeemner i løpet av minutter med min prosess og tilgjengelighet. Jeg har bestilt 4 ekstra prosjekter dette kvartalet.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "title": "Eier av designstudio, Nashville",
+      "quote": "Å administrere e-poster for 12 aktive prosjekter tok livet av meg.Duetkategoriserer alt – nye henvendelser, ventende godkjenninger, leverandørordrer, entreprenøroppdateringer – så jeg vet nøyaktig hva som trenger min oppmerksomhet først.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
-      "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "title": "Interiørdekoratør, San Diego",
+      "quote": "Jeg mistet potensielle kunder fordi jeg ikke kunne svare raskt nok under installasjonsukene.Duetlærte konsultasjonsprosessen min, prisstrukturen, til og med hvordan jeg beskriver designstilen min. Klienter aner ikke at det er AI-assistert.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "title": "Kommersiell interiørdesigner, Denver",
+      "quote": "Mellom leverandørens ledetider, entreprenørplaner og revisjonsforespørsler fra kunder var innboksen min kaos.Duetsorterer det hele og lager utkast til oppfølging av ventende godkjenninger. Det er som å ha en prosjektkoordinator som aldri sover.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Bruk dagene på å skape vakre rom,\nikke begravd i innboksen din.",
+  "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
-      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "Jeg sjonglerer 8-10 prosjekter på en gang. KanDuetholde dem rett?",
+      "answer": "Ja.Duetsporer hver e-posttråd per klient og prosjekt. Når du spør om Henderson-kjøkkenet eller Park Avenue-kontoret, henter det konteksten fra alle relaterte samtaler – leverandørordrer, entreprenøroppdateringer, klientgodkjenninger – slik at svarene dine alltid er nøyaktige og prosjektspesifikke. Ingen forveksling hvilken flis som var for hvilken klient."
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
-      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "Jeg koordinerer med mange entreprenører og leverandører. HjelperDuetmed det?",
+      "answer": "Absolutt.Duetlærer dine entreprenørkontakter, leverandørrepresentanter og konteksten for hver bransje rolle i prosjektene dine. Når elektrikeren din sender en e-post om at inngrepet er gjort, kanDuetlage et utkast som bekrefter neste trinn eller løkke i fixturinstallasjonsprogrammet. Det holder arbeidsflyten i bevegelse selv når du er på andre siden av byen på et annet arbeidssted."
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
+  "pricingNote": "Til $10 000/prosjekt betaler én lagret klient for år medDuetPro."
 }

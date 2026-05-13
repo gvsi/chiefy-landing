@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail for ATV- og UTV-turer | AI e-postassistent",
+  "metaDescription": "Duet Mail hjelper ATV- og UTV-turguider med å svare på bestillings-e-poster umiddelbart - selv fra stien. AI-utkast til svar med priser, krav og stemme.",
+  "heroBadge": "Godkjent av 200+ reiseledere",
+  "heroHeadline": "Din e-postassistent mens du er på sporet",
+  "heroSubline": "Duet lærer dine turtyper, priser og krav til ryttere – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "Tilgjengelighet lørdag for 4 maskiner?",
+      "preview": "Hei! Vi er en gruppe på 4 som ønsker å bestille en guidet ATV-tur denne lørdagen. Har du plass? Hva er prisen per maskin?",
+      "pill": "Å svare",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "Krav til forsikring?",
+      "preview": "Hei, vi tar med våre egne UTV-er. Trenger vi å vise bevis på ansvarsforsikring? Hva slags dekning trenger du...",
+      "pill": "Spørsmål",
       "pillColor": "amber"
     },
     {
-      "from": "The Hendersons",
+      "from": "Hendersons",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "Hvilken løype for nybegynnere?",
+      "preview": "Vi har aldri kjørt ATV før. Hvilken turrute vil du anbefale for en familie med to tenåringer? Gir du...",
+      "pill": "Bestilling",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Ny anmeldelse av oppføringen din",
+      "preview": "En reisende har nylig anmeldt bedriften din. Se hva de hadde å si og svar...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "Hei Rachel! Lørdag er åpen og vi kan ta 4 maskiner uten problem. Turer koster $200 per maskin og varer i ca. 6-8 timer. Vi møtes kl. 09.00 ved stien — jeg sender veibeskrivelse når du er bekreftet. Hjelm og briller følger med. Vil du at jeg skal låse deg inne?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "gruppe (4 maskiner)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "En lagret gruppebestilling betaler for et år med Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser bestillingsforespørsler først, forsikringsspørsmål dernest og aldri støy. Ikke mer mangler en gruppeforespørsel begravet under TripAdvisor-varsler.",
+  "draftSubtitle": "Duet lærer turrutene dine, priser og rytterkrav. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med reisedetaljer, priser og hva du skal ta med. Du anmelder og sender.",
+  "agentSubtitle": "\"Noen grupper som er bestilt denne helgen?\" \"Sett utkast til et svar til Rachel med tilgjengelighet på lørdag.\" Duet kjenner innboksen og timeplanen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "Tilgjengelighet lørdag for 4 maskiner?",
+      "preview": "Vi er en gruppe på 4 som ønsker å bestille en guidet ATV-tur...",
+      "pill": "Svar nå",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Re: Bestilling bekreftet - lørdag kl. 09.00",
+      "pill": "Bestilt",
       "pillColor": "blue"
     },
     {
-      "from": "The Hendersons",
+      "from": "Hendersons",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "Hva skal vi ha på oss i løypa?",
+      "pill": "Spørsmål",
       "pillColor": "amber"
     },
     {
-      "from": "Yelp for Business",
+      "from": "Yelp for bedrifter",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
+      "subject": "Din ukentlige bedriftsoppdatering",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Rocky Mountain ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "Fjærklaring — 25 % rabatt på deler",
+      "pill": "Probevegelser",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: Tilgjengelighet lørdag for 4 maskiner?",
+    "originalFrom": "Rachel W. skrev:",
+    "originalText": "Hei! Vi er en gruppe på 4 som ønsker å bestille en guidet ATV-tur denne lørdagen. Har du plass? Hva er prisen per maskin?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Hei Rachel!",
+      "Lørdag er det vidåpent for 4 maskiner. Turer koster $200 per maskin og varer 6-8 timer fra kl. 09.00 fra stihodet.",
+      "Hjelmer og briller er inkludert - bare bruk lange bukser, lukkede sko og ta med vann og solkrem. Jeg sender møtepunktet og veibeskrivelsen når du er bekreftet.",
+      "Vil du at jeg skal låse deg inne?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Lørdag er det vidåpent for 4 maskiner. Turer koster $200 per maskin",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Kjenner dine priser og turruter",
+      "Utkast i stemmen din",
+      "Inkluderer rytterkrav automatisk",
+      "Lærer over tid"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "Noen grupper som er bestilt denne helgen?",
+    "agentResponse": "Basert på innboksen din har du en gruppe på 6 bekreftet for lørdag kl. 9 og et par bestilt til søndag morgen. Lørdag ettermiddag og søndag ettermiddag er fortsatt åpne. Vil du at jeg skal skrive et svar på eventuelle ventende henvendelser med disse åpningene?",
+    "followUp": "Lag utkast til et svar til Rachel med tilgjengelighet på lørdag",
+    "followUpResponse": "Ferdig! Jeg utarbeidet et svar til Rachel som bekreftet lørdag for 4 maskiner til $200 hver. Det inkluderer standard møtested, utstyrsinformasjon og hva du skal ha på deg. Klar til å vurdere og sende."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "Elsket av reiseledere og operatører",
   "testimonials": [
     {
       "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "title": "ATV Guide, Sør-Utah",
+      "quote": "Jeg leder 8-timers turer gjennom canyons med null celleservice. Da jeg kom tilbake, var halvparten av bestillings-e-postene mine blitt kalde. Duet utarbeider svar med pris- og løypeinformasjonen min – jeg vurderer dem bare på slutten av dagen.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "title": "UTV turoperatør, Colorado",
+      "quote": "Vi kjører turer 7 dager i uken, og spørsmålene om forsikring og frafall alene spiste opp morgenene mine. Duet håndterer alt - rytterkrav, aldersbegrensninger, hva du skal ta med. Høres akkurat ut som meg.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "quote": "Folk sender e-post og spør hvilken løype som er riktig for gruppen deres, hvilket erfaringsnivå de trenger, om barna kan sykle. De samme 5 spørsmålene om og om igjen. Duett negler hver og en av dem.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "quote": "Jeg brukte over en time hver natt på å svare på de samme tilgjengelighetsspørsmålene. Nå lager Duet svar mens jeg er ute i løypa. Svartiden min gikk fra timer til minutter.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
-      "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "title": "Familie-ATV-turer, Sedona",
+      "quote": "Vi får mange familier som spør om nybegynnerløyper og alderskrav. Duet lærte alle turalternativene våre og anbefaler den rette i hvert svar. Kunder kan ikke se forskjell.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tilbring høysesongen på stien,\nikke i innboksen din.",
+  "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Håndterer Duet forsikrings- og frafallsspørsmål?",
+      "answer": "Ja. Duet lærer dine rytterkrav – ansvarsforsikring, aldersbegrensninger, frafallsdetaljer, hva ryttere trenger å ta med. Når noen sender en e-post og spør hva de trenger før turen, lager Duet et komplett svar med alle detaljene. Du anmelder og trykker på send."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Jeg er på sporet hele dagen uten mobiltjeneste. Hvordan hjelper Duet?",
+      "answer": "Det er nettopp derfor guider elsker Duet. Mens du leder en 6-8 timers tur uten signal, hoper det seg opp bookingforespørsler. Duet-utkast svarer til hver og en av dem - priser, tilgjengelighet, møtested, hva du skal ha på deg. Når du kommer tilbake, går du gjennom utkastene og sender. De fleste guider forteller oss at det sparer dem 1-2 timer med e-posttid per dag i høysesongen."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "Med $200/maskin betaler en lagret gruppe på 4 for over et år med Pro."
 }

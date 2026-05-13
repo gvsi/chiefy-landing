@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mailfor rafting- og kajakkutstyr | AI e-postassistent",
+  "metaDescription": "Duet Mailhjelper raftingguider og kajakkutstyrere med å svare på turforespørsler umiddelbart - selv fra elven. AI-utkastede svar med reisedetaljer, priser og stemme.",
+  "heroBadge": "Godkjent av 200+ elveguider",
+  "heroHeadline": "Din e-postassistent mens du er på elven",
+  "heroSubline": "Duetlærer reisetypene, prisene og utstyrslistene dine – og utarbeider deretter svar på bestillingsforespørsler slik at kundene får svar mens du kjører stryk.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "Heldags flåtetur for 6 9. august?",
+      "preview": "Hei! Vi er en familie på 6 på besøk i august og ønsker å bestille en heldags raftingtur den 9. Hva er prisen per person og hvilket erfaringsnivå trenger vi?",
+      "pill": "Å svare",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Flerdagers tur – hva er inkludert?",
+      "preview": "Vi er en gruppe på 4 som ser på din 3-dagers ekspedisjon. Er måltider, campingutstyr og tørre poser inkludert, eller må vi ta med eget...",
+      "pill": "Spørsmål",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel & Mark S.",
+      "from": "Rachel og Mark S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "Barn i alderen 8 og 10 år - trygge nok?",
+      "preview": "Vi vil gjerne ta en halvdagstur, men barna våre er 8 og 10. Er klasse II-delen passende for deres alder? Hva er minimum...",
+      "pill": "Spørsmål",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Ny anmeldelse av oppføringen din",
+      "preview": "En reisende har nylig anmeldt bedriften din. Se hva de hadde å si og svar...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "Hei Jennifer! 9. august er åpent for 6. Heldagsturer koster $150/person og varer i ca. 7 timer — vi legger inn klokken 08:30. Ingen erfaring nødvendig, guidene våre håndterer alt. PFD-er, hjelmer, tørre poser og en lunsj ved elven er inkludert. Bare ta med solkrem, vannsko og klær du ikke har noe imot å bli våt. Vil du at jeg skal reservere plasser?",
   "math": {
     "pricePerBooking": "$150",
     "bookingUnit": "person",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "To lagrede bestillinger betaler for et helt år påDuet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duetmerker automatisk hver e-post så turforespørsler dukker opp først, girspørsmål deretter, og reklamestøy forsvinner. Ikke mer mangler en gruppebestilling begravet under TripAdvisor-varsler.",
+  "draftSubtitle": "Duetlærer turtypene dine, strykklasser, utstyrslister og avbestillingsregler. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med alt kunden trenger. Du anmelder og sender.",
+  "agentSubtitle": "\"Noen åpne plasser på lørdagens heldag?\" \"Utkast et svar til Jennifer med tilgjengelighet.\"Duetkjenner innboksen og timeplanen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "Heldags flåtetur for 6 9. august?",
+      "preview": "Vi er en familie på 6 som besøker i august og ønsker å bestille...",
+      "pill": "Svar nå",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "Re: 3-dagers ekspedisjon bekreftet — 15. august",
+      "pill": "Bestilt",
       "pillColor": "blue"
     },
     {
       "from": "Rachel S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "Er barn i alderen 8 og 10 ok for klasse II?",
+      "pill": "Spørsmål",
       "pillColor": "amber"
     },
     {
       "from": "The Flybook",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Ditt ukentlige bestillingssammendrag",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "Salg på slutten av sesongen — 30 % rabatt på tørrdrakter",
+      "pill": "Probevegelser",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: Heldags flåtetur for 6 9. august?",
+    "originalFrom": "Jennifer W. skrev:",
+    "originalText": "Hei! Vi er en familie på 6 på besøk i august og ønsker å bestille en heldags raftingtur den 9. Hva er prisen per person og hvilket erfaringsnivå trenger vi?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "Hei Jennifer!",
+      "9. august er åpent for 6. Heldagsturer koster 150 USD/person og varer i ca. 7 timer – vi møtes ved innkjøringen kl. 8:30.",
+      "Ingen erfaring nødvendig. PFD-er, hjelmer, tørre poser og en lunsj ved elven er inkludert - bare ta med solkrem og vannsko.",
+      "Vil du at jeg skal reservere plasser?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "9. august er åpent for 6. Heldagsturer koster $150/person",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "Kjenner dine reisetyper og priser",
+      "Utkast i stemmen din",
+      "Inkluderer automatisk girlister",
+      "Lærer over tid"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "Noen ledige plasser på lørdagens heldagstur?",
+    "agentResponse": "Lørdagens heldag har 4 plasser igjen av 10. Du har også et halvdags morgenløp som er fullbooket og en flerdagers avgang på søndag med 2 plasser åpne. Vil du at jeg skal skrive et svar på eventuelle ventende henvendelser med tilgjengelighet på lørdag?",
+    "followUp": "Lag utkast til et svar til Jennifer med tilgjengelighet 9. august",
+    "followUpResponse": "Ferdig! Jeg utarbeidet et svar til Jennifer som bekreftet 9. august for 6 gjester til $150/person. Den inkluderer standard reisedetaljer, utstyrsliste og møtested. Klar til å vurdere og sende."
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "Elsket av elveguider og outfitters",
   "testimonials": [
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "quote": "I høysesongen er jeg på elven 6 dager i uken. Da jeg kom tilbake til e-postene, hadde halvparten av gruppene allerede bestilt hos noen andre. Nå lagerDuetutkast til svar med reisedetaljer og priser mens jeg er ved innleveringen.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "title": "Kajakk- og SUP-turer, OR",
+      "quote": "Hver kunde stiller de samme fem spørsmålene - pris, hva du skal ta med, ferdighetsnivå, gruppestørrelse, avbestillingsregler.Duetlærte alt den første uken. Jeg gikk fra en time med e-poster hver kveld til fem minutter med gjennomgang av utkast.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "title": "Flerdagers ekspedisjonsguide, AK",
+      "quote": "Jeg kjører 5-dagers turer med null celleservice. FørDuetvar alle henvendelser ubesvart til jeg var tilbake i byen. Nå får kundene et detaljert svar i løpet av minutter, og jeg bekrefter når jeg er ute av elven.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "title": "River Adventures kontorsjef, WV",
+      "quote": "Jeg administrerer bestillinger for tre guider på tvers av fire turtyper.Duetkategoriserer hver e-post etter hastegrad og utkast til svar med riktig reise, riktig pris, riktig utstyrsliste. Det er som å klone meg selv.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sophia K.",
       "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "quote": "Vi var skeptiske til at AI kunne håndtere raftingspesifikke e-poster. Men den fanget opp våre beskrivelser av klasse III vs. klasse IV, aldersminimum, til og med våre retningslinjer for kajakker med våt utgang. Kundene tror de snakker til oss.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tilbring sommeren på elven,\nikke fanger opp på e-post.",
+  "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "HåndtererDuettilpassede reisetilbud og flerdagers ekspedisjonsforespørsler?",
+      "answer": "Ja.Duetlærer hele turen din – halvdags flyter, heldags stryk, flerdagers ekspedisjoner – sammen med priser, hva som er inkludert, aldersminimum og vanskelighetsgrader. Når noen spør om en 3-dagers tur for 6, utarbeider den et fullstendig svar med de riktige detaljene. Du vurderer, justerer om nødvendig og sender."
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "Jeg er off-grid på flerdagers turer. FungererDuetfortsatt?",
+      "answer": "Det er akkurat det problemetDuetløser. Mens du er på elven uten signal,Duetskriver utkast på hver henvendelse som kommer inn. Når du er tilbake innen rekkevidde, venter utkastene dine – bare gjennomgå og send. De fleste guider forteller oss at det eliminerer etterslepet de pleide å møte etter hver flerdagers tur."
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "For $150/person dekker to lagrede bestillinger et helt år påPro."
 }
