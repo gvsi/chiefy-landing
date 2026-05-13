@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail para passeios de ATV e UTV | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda guias de passeios de ATV e UTV a responder emails de reserva instantaneamente — até na trilha. Respostas redigidas por IA com seus preços, requisitos e tom.",
+  "heroBadge": "Usado por mais de 200 guias de passeio",
+  "heroHeadline": "Seu assistente de e-mail enquanto você está na trilha",
+  "heroSubline": "O Duet aprende seus tipos de passeio, preços e requisitos para participantes — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "Disponibilidade no sábado para 4 máquinas?",
+      "preview": "Oi! Somos um grupo de 4 querendo reservar um passeio guiado de ATV neste sábado. Vocês têm vaga? Qual é o preço por máquina?",
+      "pill": "Responder",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "Requisitos de seguro?",
+      "preview": "Oi, vamos levar nossos próprios UTVs. Precisamos apresentar comprovante de seguro de responsabilidade civil? Que tipo de cobertura vocês exigem...",
+      "pill": "Pergunta",
       "pillColor": "amber"
     },
     {
       "from": "The Hendersons",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "Qual trilha para iniciantes?",
+      "preview": "Nunca andamos de ATV antes. Qual rota de passeio você recomendaria para uma família com dois adolescentes? Vocês fornecem...",
+      "pill": "Reserva",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Nova avaliação para sua página",
+      "preview": "Um viajante avaliou recentemente sua empresa. Veja o que ele disse e responda...",
+      "pill": "Info",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "Oi Rachel! Sábado está aberto e podemos receber 4 máquinas sem problema. Os passeios custam $200 por máquina e duram cerca de 6-8 horas. Nos encontramos às 9 AM no início da trilha — eu envio as instruções quando você confirmar. Capacetes e óculos de proteção inclusos. Quer que eu reserve para você?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "grupo (4 máquinas)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Uma reserva de grupo recuperada paga um ano de Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver pedidos de reserva primeiro, perguntas sobre seguro em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Duet aprende suas rotas de passeio, preços e requisitos para participantes. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da atividade, preço e o que levar. Você revisa e envia.",
+  "agentSubtitle": "\"Algum grupo reservado para este fim de semana?\" \"Redija uma resposta para Rachel com a disponibilidade de sábado.\" O Duet conhece sua caixa de entrada e sua agenda — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "Disponibilidade no sábado para 4 máquinas?",
+      "preview": "Somos um grupo de 4 querendo reservar um passeio guiado de ATV...",
+      "pill": "Responder agora",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Re: Reserva confirmada — sábado 9 AM",
+      "pill": "Reservado",
       "pillColor": "blue"
     },
     {
       "from": "The Hendersons",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "O que devemos vestir na trilha?",
+      "pill": "Pergunta",
       "pillColor": "amber"
     },
     {
       "from": "Yelp for Business",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
-      "pill": "FYI",
+      "subject": "Atualização semanal da sua empresa",
+      "pill": "Info",
       "pillColor": "lavender"
     },
     {
       "from": "Rocky Mountain ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "Liquidação de primavera — 25% de desconto em peças",
+      "pill": "Promoções",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: Disponibilidade no sábado para 4 máquinas?",
+    "originalFrom": "Rachel W. escreveu:",
+    "originalText": "Oi! Somos um grupo de 4 querendo reservar um passeio guiado de ATV neste sábado. Vocês têm vaga? Qual é o preço por máquina?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Oi Rachel!",
+      "Sábado está totalmente disponível para 4 máquinas. Os passeios custam $200 por máquina e duram 6-8 horas, saindo às 9 AM do início da trilha.",
+      "Capacetes e óculos de proteção estão inclusos — basta usar calça comprida, sapatos fechados e levar água e protetor solar. Eu envio o ponto de encontro e as instruções quando você confirmar.",
+      "Quer que eu reserve para você?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Sábado está totalmente disponível para 4 máquinas. Os passeios custam $200 por máquina",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Conhece seus preços e rotas de passeio",
+      "Redige no seu tom de voz",
+      "Inclui automaticamente os requisitos para participantes",
+      "Aprende com o tempo"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "Algum grupo reservado para este fim de semana?",
+    "agentResponse": "Com base na sua caixa de entrada, você tem um grupo de 6 confirmado para sábado às 9 AM e um casal reservado para domingo de manhã. Sábado à tarde e domingo à tarde ainda estão disponíveis. Quer que eu redija uma resposta para alguma consulta pendente com esses horários?",
+    "followUp": "Redija uma resposta para Rachel com a disponibilidade de sábado",
+    "followUpResponse": "Pronto! Redigi uma resposta para Rachel confirmando sábado para 4 máquinas a $200 cada. Ela inclui seu ponto de encontro padrão, informações sobre equipamentos e o que vestir. Pronta para revisar e enviar."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "Adorado por guias e operadores de passeios",
   "testimonials": [
     {
       "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "title": "Guia de ATV, Southern Utah",
+      "quote": "Eu conduzo passeios de 8 horas pelos cânions sem nenhum sinal de celular. Quando eu voltava, metade dos emails de reserva já tinha esfriado. O Duet redige respostas com meus preços e informações de trilha — eu só reviso no fim do dia.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "title": "Operadora de passeios de UTV, Colorado",
+      "quote": "Fazemos passeios 7 dias por semana, e só as perguntas sobre seguro e termos já tomavam minhas manhãs. O Duet cuida de tudo — requisitos para participantes, restrições de idade, o que levar. Soa exatamente como eu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "title": "Guia de passeios de Jeep, Moab",
+      "quote": "As pessoas escrevem perguntando qual trilha é melhor para o grupo, que nível de experiência precisam, se crianças podem ir. As mesmas 5 perguntas sem parar. O Duet acerta todas.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "quote": "Eu passava mais de uma hora toda noite respondendo às mesmas perguntas de disponibilidade. Agora o Duet redige respostas enquanto estou na trilha. Meu tempo de resposta caiu de horas para minutos.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "quote": "Recebemos muitas famílias perguntando sobre trilhas para iniciantes e requisitos de idade. O Duet aprendeu todas as nossas opções de passeio e recomenda a certa em cada resposta. Os clientes não percebem diferença.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Passe a alta temporada na trilha,\nnão na sua caixa de entrada.",
+  "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "O Duet responde perguntas sobre seguro e termos de responsabilidade?",
+      "answer": "Sim. O Duet aprende seus requisitos para participantes — seguro de responsabilidade civil, restrições de idade, detalhes de termos e o que os clientes precisam levar. Quando alguém escreve perguntando o que precisa antes do passeio, o Duet redige uma resposta completa com todos os detalhes. Você revisa e toca em enviar."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Fico na trilha o dia todo sem sinal de celular. Como o Duet ajuda?",
+      "answer": "É exatamente por isso que guias adoram o Duet. Enquanto você conduz um passeio de 6-8 horas sem sinal, as consultas de reserva se acumulam. O Duet redige respostas para todas elas — preços, disponibilidade, ponto de encontro, o que vestir. Quando você volta, revisa os rascunhos e envia. A maioria dos guias nos diz que economiza 1-2 horas de email por dia durante a alta temporada."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "Com $200/máquina, um grupo de 4 recuperado paga mais de um ano de Pro."
 }
