@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail koerarakendi ekskursioonidele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab musheritel broneerimismeilidele koheselt vastata – isegi rajalt. Tehisintellekti koostatud vastused koos teie reisitüüpide, hinnakujunduse, eeskirjade ja häälega.",
+  "heroBadge": "Usaldab 200+ musherit",
+  "heroHeadline": "Teie e-posti assistent, kui olete teel",
+  "heroSubline": "Duet õpib tundma teie ekskursioonide tüüpe, hindu, ilmaeeskirju ja lisandmooduleid – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi broneeringut aeglase vastuse tõttu.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "Aurora + koerarakendi kombinatsioon 4-le?",
+      "preview": "Tere! Minu 4-liikmeline pere külastab jaanuaris Fairbanksi. Kas pakute kombineeritud paketti koos koerakelgusõidu ja auroravaatamisega? Mis on hind?",
+      "pill": "Et vastata",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Mida me peaksime kandma?",
+      "preview": "Oleme broneeritud laupäevaseks 2-tunniseks pudrukogemuseks. Mida me peaksime kandma? Kas annad varustuse kaasa või peame kaasa võtma oma...",
+      "pill": "küsimus",
       "pillColor": "amber"
     },
     {
-      "from": "Kim & Brian L.",
+      "from": "Kim ja Brian L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "5- ja 8-aastased lapsed – kas nad saavad pudruks minna?",
+      "preview": "Toome oma kaks last (5 ja 8). Kas nad saavad kelguga sõita või tegelikult pudrule kaasa aidata? Kas koerad saavad ka väikeste lastega hästi hakkama...",
+      "pill": "Broneerimine",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Uus arvustus teie kirje kohta",
+      "preview": "Üks reisija hindas hiljuti teie ettevõtet. Vaadake, mis neil öelda oli, ja vastake...",
+      "pill": "Teadmiseks",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "Tere Rachel! Meile meeldiks teie perekonda võõrustada. Meie Aurora + Mush Combo on $175/person – saate õhtuhämaruses 1,5-tunnise kelgusõidu radadel, seejärel tulede ootamise ajal kuuma kakaod lõkke ääres. Kõik külma ilma varustus on olemas. 12-aastased ja nooremad lapsed on $125. Kas ma broneerin sind jaanuariks?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "tour",
+    "bookingUnit": "ringreis",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Kaks salvestatud broneeringut maksavad aasta Duet eest."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet märgistab automaatselt kõik meilid, nii et näete kõigepealt broneerimistaotlusi, seejärel küsimusi ja mitte kunagi müra. Enam ei puudu TripAdvisor märguannete alla mattunud ringreisipäring.",
+  "draftSubtitle": "Duet õpib teie ringkäigu tüübid, hinnakujunduse ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos paketi üksikasjade, kandmise ja lisandmoodulitega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kas sellel nädalavahetusel on broneeringuid?\" \"Koostage vastus aurorakombo kohta.\" Duet teab teie postkasti ja ajakava – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "Aurora + koerarakendi kombinatsioon 4-le?",
+      "preview": "Minu 4-liikmeline pere külastab jaanuaris Fairbanksi...",
+      "pill": "Vasta kohe",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "Re: Broneering kinnitatud - laupäeval kell 13.00",
+      "pill": "Broneeritud",
       "pillColor": "blue"
     },
     {
       "from": "Kim L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "Kas meie lapsed (5 ja 8) saavad kaasa sõita?",
+      "pill": "küsimus",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Teie iganädalane broneeringu kokkuvõte",
+      "pill": "Teadmiseks",
       "pillColor": "lavender"
     },
     {
       "from": "Alaska Gear Co.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "Talvine allahindlus – 30% allahindlus rakmed",
+      "pill": "Proliigutusi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "Re: Aurora + koerarakendi kombinatsioon 4-le?",
+    "originalFrom": "Rachel T. kirjutas:",
+    "originalText": "Tere! Minu 4-liikmeline pere külastab jaanuaris Fairbanksi. Kas pakute kombineeritud paketti koos koerakelgusõidu ja auroravaatamisega? Mis on hind?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "Tere Rachel!",
+      "Meie Aurora + Mush Combo on $175/person – 1,5-tunnine kelgusõit õhtuhämaruses, millele järgneb kuum kakao ja lõkke ääres aurora vaatamine. 12-aastased ja nooremad lapsed on $125.",
+      "Kaasas kogu külma ilma varustus (saapad, pudipõlled, kindad, näomaskid). Lihtsalt riietuge soojade kihtidena.",
+      "Kas ma broneerin teie 4-liikmelise pere jaanuariks?"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "Aurora + Mush Combo on $175/person – 1,5-tunnine kelgusõit",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "Teab teie reisitüüpe ja hindu",
+      "Mustandid teie hääles",
+      "Sisaldab käiku ja lisadetaile",
+      "Õpib aja jooksul"
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "Kas sellel nädalavahetusel on broneeringuid tulemas? Ilm tundub nigel.",
+    "agentResponse": "Sellel nädalavahetusel on broneeritud 3 ekskursiooni: kennelikülastus laupäeval kell 10.00 (2 külalist), 2-tunnine pudruelamus laupäeval kell 13.00 (4 külalist) ja aurorakombinatsioon pühapäeval kell 16.00 (6 külalist). Pühapäevane grupp küsis tühistamisreeglite kohta. Kas soovite, et koostaksin ilmateate kõigi kolme kohta?",
+    "followUp": "Koostage pühapäevase aurora rühma ilmateade",
+    "followUpResponse": "Valmis! Koostasin pühapäevasele aurorarühmale vastuse, andes neile teada, et jälgite tingimusi ja kinnitan laupäeva õhtuks. See sisaldab teie ajakava muutmise poliitikat ja alternatiivseid kuupäevi. Ülevaatamiseks ja saatmiseks valmis."
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "Armastasid musherid ja reisikorraldajad",
   "testimonials": [
     {
       "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "title": "Kelgukoerte reisikorraldaja, AK",
+      "quote": "Olen 6 tundi päevas zero cell servicega teel. Selleks ajaks, kui ma tagasi jõudsin, olid pooled broneeringupäringud läinud teise riietuse juurde. Duet koostab vastused koos minu ringreisi üksikasjade ja hindadega – külalised kuulevad vastust minutite, mitte tundide pärast.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "quote": "Pakume kennelikülastusi, pudrusõite ja aurorakombeid – iga e-kiri vajab erinevat vastust. Duet selgitas nädalaga välja kõik kolm reisitüüpi ja koostab nüüd iga kord õigele paketile vastavad vastused.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "title": "Koerakelgujuht, MN",
+      "quote": "Varem kulutasin igal õhtul samadele küsimustele, mida kanda, vanusepiiranguid ja koeri puudutavad. Duet tegeleb selle kõigega. Jõuan rajalt koju ja kõik on valmis ja ootab.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "quote": "Ilmastiku tühistamised on talvel pidevad. Duet koostab meie eeskirjade ja alternatiivsete kuupäevadega vastuste ajakava muutmise mustandid, enne kui ma saan oma telefoni kontrollida. Külalistele meeldib kiire reageerimine.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
-      "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "title": "Perekonna koerarakendi seiklused, CO",
+      "quote": "Vanemad küsivad alati, kas nende lapsed oskavad pudrutada, kas koerad on sõbralikud, mida selga panna – samad 10 küsimust. Duet õppis iga vastuse ära ja koostab need suurepäraselt. See on nagu enda kloonimine meili jaoks.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Veeda talv oma koertega rajal,\nmitte teie postkastis.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "Kuidas Duet tegeleb ilmastiku tühistamise ja aurora ebakindlusega?",
+      "answer": "Duet saab teada teie tühistamise ja ajastamise reeglitest. Kui külaline saadab meili ilmaprobleemide või aurora nähtavuse kohta, koostab ta vastuse koos teie poliitika, alternatiivsete kuupäevade ja kõigi asjakohaste üksikasjadega, nagu tingimuste jälgimine ja ringkäigule lähemale jõudmise kinnitamine. Vaatad üle ja saadad."
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "Pakun mitut tüüpi ekskursioone erinevate hindade ja lisandmoodulitega. Kas Duet suudab neid sirgena hoida?",
+      "answer": "Jah. Duet õpib tundma kõiki teie ekskursioonitüüpe – kennelikülastusi, pudrukogemusi, aurorakombinatsioone, fotograafia lisandmooduleid, transpordipakette – koos nende hinna, kestuse ja hinnakujundusega. Kui päring saabub, vastab see õigele ringkäigule ja koostab õigete üksikasjadega vastuse."
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "Kell $150/tour maksavad kaks salvestatud broneeringut rohkem kui aasta Pro eest."
 }

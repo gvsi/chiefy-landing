@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail ratsasõitudele ja matkajuhtidele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab matkakorraldajatel broneerimiskirjadele koheselt vastata – isegi sadulast. Tehisintellekti koostatud vastused teie hinnakujunduse, sõitja nõuete ja häälega.",
+  "heroBadge": "Usaldab üle 300 matkajuhi",
+  "heroHeadline": "Teie e-posti assistent, kui olete teel",
+  "heroSubline": "Duet saab teada teie sõidutüübid, hinnad, sõitja nõuded ja rajatingimused – seejärel koostab meilivastused, et te ei kaota kunagi broneeringut aeglase vastuse tõttu.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "Grupi broneerimine kuuele – laupäeva hommikul?",
+      "preview": "Tere! Oleme 6-liikmeline perekond (2 täiskasvanut, 4 last vanuses 8–14 aastat) ja sooviksime broneerida selle laupäeva hommikuse matka. Kas teil on saadavust? Mis on hind inimese kohta?",
+      "pill": "Et vastata",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Kaalupiirangu küsimus",
+      "preview": "Tere, olen huvitatud sõidu broneerimisest, kuid soovisin kõigepealt küsida teie kaalunõuete kohta. Ma kaalun umbes 260 naela – kas see on probleem...",
+      "pill": "küsimus",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "Amy ja Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Päikeseloojangusõit aastapäevaks?",
+      "preview": "Tähistame järgmisel nädalavahetusel oma 10. aastapäeva ja nägime teie päikeseloojangut Instagramis. Kas see on saadaval reede õhtul? Kõik eripakid...",
+      "pill": "Broneerimine",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Uus arvustus teie kirje kohta",
+      "preview": "Üks reisija hindas hiljuti teie ettevõtet. Vaadake, mis neil öelda oli, ja vastake...",
+      "pill": "Teadmiseks",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Tere Jessica! Laupäeva hommik on avatud 6. Meie matkarajad on $100/person ja kulgevad umbes 90 minutit läbi oru. 8+ lapsed on teretulnud – kõik teie omad on valmis. Nõutavad kinnise ninaga jalanõud ja pakume kiivreid. Kas ma broneerin teid kella 9.00 sõiduks?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "sõitma",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Üks säästetud grupisõit maksab rohkem kui kahe aasta Duet eest."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet märgistab automaatselt kõik meilid, nii et näete kõigepealt broneerimistaotlusi, teiseks sõitjate küsimusi ja mitte kunagi müra. Enam ei puudu TripAdvisor märguannete alla mattunud rühmapäring.",
+  "draftSubtitle": "Duet saab teada teie sõidutüübid, hinnad ja nõuded. Kui broneeringupäring saabub, koostab see täieliku vastuse koos raja üksikasjade, hinnakujunduse ja kandmisega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kas sel nädalavahetusel on sõidud avatud?\" \"Jessicale vastuse mustand, kui see on saadaval laupäeval.\" Duet teab teie postkasti ja kalendrit – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "Grupi broneerimine kuuele – laupäeva hommikul?",
+      "preview": "Oleme 6-liikmeline perekond, kes soovib broneerida matkaraja...",
+      "pill": "Vasta kohe",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Re: Päikeseloojangusõit kinnitatud – reede 5:30 PM",
+      "pill": "Broneeritud",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Kaalupiirang ja kogemusnõuded?",
+      "pill": "küsimus",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Teie iganädalane broneeringu kokkuvõte",
+      "pill": "Teadmiseks",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "Traktorivarustus",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Kevadmüük – 15% allahindlus feed & tack",
+      "pill": "Proliigutusi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: Grupi broneerimine 6-le — laupäeva hommikul?",
+    "originalFrom": "Jessica T. kirjutas:",
+    "originalText": "Tere! Oleme 6-liikmeline perekond (2 täiskasvanut, 4 last vanuses 8–14 aastat) ja sooviksime broneerida selle laupäeva hommikuse matka. Kas teil on saadavust? Mis on hind inimese kohta?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Tere Jessica!",
+      "Laupäeva hommik on avatud 6 jaoks. Matkarajad on $100/person ja kulgevad umbes 90 minutit läbi oru. Oodatud on 8-aastased ja vanemad lapsed, nii et kogu teie meeskond on valmis minema.",
+      "Nõutavad on kinnise ninaga kingad – parimad on saapad. Pakume kiivreid ja sobitame iga ratsanik hobuse suuruse ja kogemuse põhjal. Eelnev ratsutamiskogemus pole vajalik.",
+      "Kas ma panen teid kella 9.00 sõidu ajaks luku taha?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "Laupäeva hommik on avatud kuuele. Rajasõidud on $100/person",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Teab teie hindu ja saadavust",
+      "Mustandid teie hääles",
+      "Sisaldab automaatselt sõitja nõudeid",
+      "Õpib aja jooksul"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Kas sel nädalavahetusel on sõite avatud? Lisaks, milline ilm välja näeb?",
+    "agentResponse": "Teie kalendri järgi on teil avatud laupäeval kell 9.00 ja 14.00 ning pühapäeval kell 10.00. Laupäevane prognoos on 72 °F ja päikesepaisteline - ideaalne sõiduilm. Pühapäeval on pärastlõunase vihma tõenäosus 40%, seega on hommikune pesa turvalisem panus. Kas soovite, et koostaksin vastused kõikidele pooleliolevatele päringutele nende kellaaegadega?",
+    "followUp": "Koostage Jessicale vastus, mis on saadaval laupäeval",
+    "followUpResponse": "Valmis! Koostasin Jessicale vastuse, milles kinnitasin laupäeva kell 9 $100/person 6 ratturi jaoks. See sisaldab teie standardseid ratturi nõudeid ja seda, mida kanda. Ülevaatamiseks ja saatmiseks valmis."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Armastasid matkakorraldajad",
   "testimonials": [
     {
       "name": "Jake H.",
       "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "quote": "Olen väljas 6 tundi päevas ilma mobiiliteenuseta. Selleks ajaks, kui ma vastama jõudsin, olid pooled inimesed kuskil mujal broneerinud. Nüüd koostab Duet vastused koos minu hinna- ja sõiduandmetega – ma lihtsalt vaatan üle ja saadan, kui lauta tagasi jõuan.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "quote": "Saame kümneid e-kirju, kus küsitakse sama – kaalupiirangud, mida selga panna, vanusenõuded. Duet tegeleb selle kõigega ja vastused kõlavad täpselt nagu mina. Minu külalistel pole aimugi, et see on AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "quote": "Tipphooaeg tappis mind. 30+ meili päevas lisaks jooksusõitudele. Duet sorteerib broneerimistaotlused mürast ja koostab vastused, mis sisaldavad kõike – hinnakujundust, kaasa võtmist, partiid. Sain oma õhtud tagasi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "Ratsutamisõpetaja ja broneerimisjuht, TX",
+      "quote": "Korraldame päikeseloojangusõite, hommikusõite ja eratunde – igaühel on erinevad hinnad ja nõuded. Duet õppis selle kõik nädalaga selgeks. See koostab iga kord õige vastuse õige sõidutüübi jaoks.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "quote": "Tundlikud meilid olid kõige hullemad – keegi küsis, kas need on liiga rasked või kas nende laps on piisavalt vana. Duet tegeleb nendega sama hoolikalt kui mina. Proprofessionaalne, lahke ja täpne. Ainuüksi see on seda väärt.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Veeda päev hobustega,\nmitte teie postkastis.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Kuidas Duet käsitleb tundlikke küsimusi kehakaalu või kogemuste kohta?",
+      "answer": "Duet õpib tundma teie konkreetseid eeskirju ja peegeldab teie tooni. Kui keegi küsib kaalupiirangute või kogemuste nõuete kohta, vastab see professionaalselt ja soojalt – jagab vajalikku teavet ilma seda ebamugavaks muutmata. Määrate tooni üks kord ja Duet järgib seda järjekindlalt, nii et iga külaline tunneb end austatuna."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Kas Duet saab hakkama erinevate sõitjate vajadustega rühmabroneeringutega?",
+      "answer": "Jah. Duet saab teada teie sõidutüübid, grupi suurused, vanuse alammäärad ja kõik sõitjapõhised nõuded. Kui perekond või grupp saadab broneeringu kohta meili, koostab ta vastuse mustandi, mis hõlmab kogu grupi hindu, seda, mida iga sõitja peab teadma, ja saadaolevaid aegu. Vaatate üle ja saadate – edasi-tagasi pole vaja."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "$100/person 6-liikmelise grupi puhul maksab üks säästetud sõit rohkem kui kahe aasta Pro eest."
 }

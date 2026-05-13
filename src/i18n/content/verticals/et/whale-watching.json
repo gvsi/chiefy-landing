@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail vaalavaatlustuuridele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab vaalavaatluskaptenitel broneerimiskirjadele koheselt vastata – isegi veest. Tehisintellekti koostatud vastused koos teie ringkäigu üksikasjade, hindade ja häälega.",
+  "heroBadge": "Usaldab 300+ reisikaptenit",
+  "heroHeadline": "Teie e-posti assistent, kui olete vaalu märkamas",
+  "heroSubline": "Duet saab teada teie ringreisi ajakava, hinnad ja hääle – seejärel koostab meilivastuste mustandid, et te ei kaotaks kunagi broneeringut, kui olete vee peal.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "8-liikmeline rühm — saadavus 14. juuni?",
+      "preview": "Tere! Oleme 8-liikmeline pere, kes külastab nädala. Kas teil on 14. juuni hommikusele ringreisile ruumi? Mis on hind inimese kohta ja kas see sobib lastele?",
+      "pill": "Et vastata",
       "pillColor": "red"
     },
     {
-      "from": "James & Kathy L.",
+      "from": "James ja Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "Privaatsed tšarterreisid?",
+      "preview": "Sooviksime oma juubeliks privaatset vaalavaatlusretke broneerida. Kui palju maksab 2-tunnine eratšarter meile kahele...",
+      "pill": "Kõrge väärtus",
       "pillColor": "amber"
     },
     {
-      "from": "Cruise Port Desk",
+      "from": "Kruiisisadama töölaud",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "Ajakava muutus – Coral Princess saabub 1 tund varem",
+      "preview": "Ettevaatust: homne Coral Princessi saabumine on viidud kella 10-lt hommikul kella 9-le. Palun kohandage kõiki sadamareisi pealevõtmisi vastavalt...",
+      "pill": "Kiireloomuline",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Uus arvustus teie kirje kohta",
+      "preview": "Üks reisija hindas hiljuti teie ettevõtet. Vaadake, mis neil öelda oli, ja vastake...",
+      "pill": "Teadmiseks",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "Tere Rachel! 14. juuni hommikutuuril on ruumi 8-le. Ekskursioonid on $125/person, lapsed 4-12 aastased poole hinnaga. Väljume kell 9 hommikul sadamast ja sõidame umbes 2,5 tundi. Binokkel on kaasas – võtke kaasa vaid kihid ja päikesekaitsekreem. Tahad, et broneerin 8 kohta?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "reisigrupp",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Üks salvestatud grupibroneering maksab Duet aasta eest."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet märgistab automaatselt kõik meilid, nii et näete esmalt broneerimistaotlusi, seejärel kruiisilaevade ajakava muudatusi ja mitte kunagi müra. Enam ei puudu TripAdvisor hoiatusteadete alla mattunud privaatne tšarterreisipäring.",
+  "draftSubtitle": "Duet saab teada teie ringreisi ajad, hinnad ja eeskirjad. Kui broneeringupäring saabub, koostab see täieliku vastuse koos saadavuse, kaasasoleva ja kaasavõetava teabega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Mitu kohta on jäänud laupäeva hommikusele tuurile?\" \"Vastuse mustand Rachelile saadavuse korral.\" Duet teab teie postkasti ja ajakava – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "8-liikmeline rühm — saadavus 14. juuni?",
+      "preview": "Oleme 8-liikmeline pere, kes külastab nädala...",
+      "pill": "Vasta kohe",
       "pillColor": "red"
     },
     {
       "from": "James L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Re: Eraharta kinnitatud - laupäeval kell 14.00",
+      "pill": "Broneeritud",
       "pillColor": "blue"
     },
     {
       "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "Kas homne tuur läheb? Tuul tundub karm",
+      "pill": "küsimus",
       "pillColor": "amber"
     },
     {
       "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
-      "pill": "FYI",
+      "subject": "Igapäevane broneeringu kokkuvõte – 3 uut broneeringut",
+      "pill": "Teadmiseks",
       "pillColor": "lavender"
     },
     {
       "from": "Marine Supply Co.",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "Suvine kliirens – turvavarustus 15% soodsamalt",
+      "pill": "Proliigutusi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Re: 8-liikmeline rühm — saadavus 14. juuni?",
+    "originalFrom": "Rachel T. kirjutas:",
+    "originalText": "Tere! Oleme 8-liikmeline pere, kes külastab nädala. Kas teil on 14. juuni hommikusele ringreisile ruumi? Mis on hind inimese kohta ja kas see sobib lastele?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Tere Rachel!",
+      "14. juuni hommikutuuril on ruumi 8-le. Piletid on $125/person, 4-12-aastased lapsed poole hinnaga. Väljume kell 9.00 ja tagasi umbes 11.30.",
+      "Kaasas binokkel ja vihmavarustus – võtke kaasa lihtsalt soojad kihid ja päikesekaitsekreem. Lastele meeldib see vaateplatvormil istuda.",
+      "Kas soovite, et ma lukustaksin 8 kohta?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "14. juuni hommikutuuril on ruumi 8-le. Piletid on $125/person",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Teab teie reisiaegu ja hindu",
+      "Mustandid teie hääles",
+      "Sisaldab seda, mida automaatselt kaasa võtta",
+      "Õpib aja jooksul"
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "Mitu kohta on jäänud laupäeva hommikusele tuurile?",
+    "agentResponse": "Teie broneeringute põhjal on laupäevasel 9:00 ringreisil 44-st 18 kohast täidetud – 26 on veel avatud. Pärastlõunane ringkäik on peaaegu täis kell 40/44. Kas soovite, et ma vastaksin kõikidele pooleliolevatele päringutele laupäeva hommikuse saadavuse korral?",
+    "followUp": "Koostage Rachelile vastus, kinnitades 14. juuni 8 külalisele",
+    "followUpResponse": "Valmis! Koostasin Rachelile vastuse, milles kinnitasin 14. juuni hommikuse ringreisi 8 külalisele kell $125/person. See sisaldab väljumisaega, pakutavat ja kaasavõetavat. Ülevaatamiseks ja saatmiseks valmis."
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "Armastasid vaalavaatluskaptenid",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
+      "name": "Kapten Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "quote": "Kruiisilaevareisijad vajavad kiiresti vastuseid – neil on sadamas vaid 6 tundi. Varem kaotasin eratšarterreisid, kuna olin päringu saabudes vee peal. Nüüd koostab Duet vastused minu hinnakujunduse ja pealevõtmise üksikasjadega enne, kui ma dokki saan.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria & Luis R.",
+      "name": "Maria ja Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "quote": "Teeme küüruhooajal kaks tuuri päevas ja meilide maht on ebareaalne. \"Kas me näeme vaalu?\" \"Mida ma peaksin kandma?\" \"Kas homne on ära jäänud?\" Duet tegeleb korduvate küsimustega ja meie keskendume ringkäikudele.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "name": "Kapten Ben T.",
+      "title": "Ookeaniekskursioonid, HI",
+      "quote": "Vastasin igal õhtul samale kümnele küsimusele – hinnad, hinnad, merehaiguse näpunäited, laste vanusepiirangud. Duet õppis seda kõike esimesel nädalal. Minu reageerimisaeg läks 8 tunnilt 8 minutile.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "title": "Broneerimisjuht, Vaikse ookeani loodeosa",
+      "quote": "Ilmastiku tühistamised on kõige hullemad — 30 inimest vajab korraga ümberbroneerimist ja mina žongleerin telefonikõnedega. Duet koostab iga külalise jaoks isikupärastatud ajakava muutmise e-kirjad. See, mis mul varem võttis 2 tundi, võtab nüüd 15 minutit.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jess & Nate P.",
+      "name": "Jess ja Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "quote": "Oleme kahe inimese operatsioon – mina kapten, tema juhib logistikat. Tipphooajal veetis ta 3 tundi öösel meilile. Duet lõikas selle 30 minutiks. Ta saab tegelikult oma õhtud nüüd tagasi.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "veeta vaalahooaega vee peal,\nmitte teie postkastis.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Kas Duet tegeleb ilmateate tühistamiste ja kruiisilaevade ajakava muudatustega?",
+      "answer": "Jah. Kui tühistate ringreisi ilmastikuolude või ristluslaeva saabumisaja nihke tõttu, saate Duetile ühe korra teatada ja see koostab iga mõjutatud külalise jaoks isikupärastatud ajakava või värskendab meilisõnumeid. Enam pole vaja sama sõnumit 30 korda kopeerida ja kleepida. Iga vastus sisaldab külalise esialgseid broneeringu üksikasju ja saadaolevaid alternatiive."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "Meile esitatakse pidevalt samu küsimusi - \"kas me näeme vaalu?\", \"Mida ma peaksin selga panema?\", \"Kas see sobib lastele?\" Kas Duet saab nendega hakkama?",
+      "answer": "Täpselt seal särab Duet. See õpib selgeks teie standardvastused – liigid, mida tavaliselt näete, mida kaasa võtta, vanusepoliitika, merehaiguse näpunäited, väljumisajad – ja koostab koheselt täielikud vastused. Vaatad üle ja saadad. Enamik kapteneid ütleb meile, et 80% nende postkastist on samad 10 küsimust ja Duet käsitleb neid kõiki."
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "Kell $125/person maksab üks säästetud 6-liikmeline grupp rohkem kui aasta Proi eest."
 }

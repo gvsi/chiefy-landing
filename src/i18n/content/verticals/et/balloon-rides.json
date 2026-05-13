@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail kuumaõhupalliga sõitmiseks | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab õhupallipilootidel broneerimismeilidele koheselt vastata – isegi päikesetõusu lendude ajal. Tehisintellekti koostatud vastused teie hinnakujunduse, ilmapoliitika ja häälega.",
+  "heroBadge": "Usaldab üle 200 õhupallipiloodi",
+  "heroHeadline": "Teie meiliassistent õhus viibimise ajal",
+  "heroSubline": "Duet saab teada teie lennugraafikud, hinna- ja ilmapoliitika – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi broneeringut, kui lendate päikesetõusu ajal.",
   "inboxEmails": [
     {
-      "from": "Rachel & Dan T.",
+      "from": "Rachel ja Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Päikesetõusu lend kahele – kas laupäev on saadaval?",
+      "preview": "Tere! Mu abikaasa ja mina oleme oma aastapäeva puhul külas ja tahaksime hea meelega broneerida sel laupäeval päikesetõusu õhupallisõidu. Kas teil on ruumi? Mis maksab inimese kohta?",
+      "pill": "Et vastata",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "Kas lendame homme? Tuuleprognoos näib karm",
+      "preview": "Oleme homseks hommikuks broneeritud, kuid ilmarakendus näitab puhanguti 15 miili tunnis. Kas me ikka lendame või peaksime plaanima lennuaegu muuta...",
+      "pill": "küsimus",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark P.",
+      "from": "Jennifer ja Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "Eralend ettepaneku tegemiseks – hinnakujundus?",
+      "preview": "Tahan üllatada oma sõbrannat privaatse õhupallisõiduga ja teha lennu ajal abieluettepaneku. Kui palju maksab eralend ja kas saate aidata koordineerida...",
+      "pill": "Broneerimine",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "Mida me peaksime kandma? Kus me kohtume?",
+      "preview": "Oleme broneeritud pühapäeva hommikuks. Mida peaksime selga panema ja kus täpselt kohtumispunkt on? Samuti, kui kaua kogu kogemus aega võtab...",
+      "pill": "küsimus",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Tere Rachel! Laupäeval on avatud 2. Päikesetõusulennud algavad 6:15 AM paiku — täpse aja ja kohtumise koha kinnitame tuulte põhjal eelmisel õhtul. See on $250/person ja sisaldab umbes tund aega õhus viibimist ja šampanjaröstsaia pärast maandumist. Riietuge kihiti ja kandke kinniseid kingi. Kas soovite, et ma broneeriksin teie kohad?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "lendu",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "Üks säästetud lend maksab aasta Duet eest."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et näete kõigepealt broneerimistaotlusi, teiseks ilmateateid ja mitte kunagi müra. Enam ei jää enam uudiskirja märguannete alla mattunud lennupäringust ilma.",
+  "draftSubtitle": "Duet saab teada teie hinnakujunduse, ilmapoliitika ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos lennu üksikasjade, koosoleku teabe ja sellega, mida selga panna. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kes on homsel manifestil?\" \"Kas ilmateate tühistamist tuleb ajastada?\" Duet teab teie postkasti ja kalendrit – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Päikesetõusu lend kahele – kas laupäev on saadaval?",
+      "preview": "Tahaksime abikaasaga broneerida õhupallisõidu päikesetõusul...",
+      "pill": "Vasta kohe",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: Broneering kinnitatud – pühapäeval 6:15 AM",
+      "pill": "Broneeritud",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "Mida peaksime lennul kandma?",
+      "pill": "küsimus",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "pill": "FYI",
+      "subject": "Uus arvustus teie kirje kohta",
+      "pill": "Teadmiseks",
       "pillColor": "lavender"
     },
     {
-      "from": "Balloon Federation",
+      "from": "Õhupalliliit",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
-      "pill": "FYI",
+      "subject": "Märtsi ohutusbülletään ja uuendamise meeldetuletus",
+      "pill": "Teadmiseks",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: Päikesetõusu lend kahele – kas laupäev on saadaval?",
+    "originalFrom": "Rachel T. kirjutas:",
+    "originalText": "Tere! Mu abikaasa ja mina oleme oma aastapäeva puhul külas ja tahaksime hea meelega broneerida sel laupäeval päikesetõusu õhupallisõidu. Kas teil on ruumi? Mis maksab inimese kohta?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Tere Rachel!",
+      "Laupäev on avatud kahele inimesele. Päikesetõusulennud on $250/person ja hõlmavad umbes tund aega õhus viibimist ja peale maandumist šampanjaröstsaia.",
+      "Käivitame 6:15 AM paiku — saadan teie täpse kohtumise aja ja koha eelmisel õhtul tuuleolude põhjal. Riietuge kihiti ja kandke kinniseid kingi.",
+      "Head aastapäeva! Kas soovite, et ma broneeriksin teie kohad?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Laupäev on avatud kahele. Päikesetõusu lennud on $250/person",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Teab teie hindu ja lennugraafikut",
+      "Mustandid teie hääles",
+      "Sisaldab automaatselt koosoleku üksikasju",
+      "Õpib aja jooksul"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Kes on homsel manifestil ja milline on ilm?",
+    "agentResponse": "Homsel päikesetõusulennul on broneeritud 6 reisijat kahe broneeringu vahel: Thompsoni pidu (4) ja Lee paar (2). Praegune prognoos näitab tuulevaikset kiirust 4 miili tunnis ja selget taevast stardiajal. Tühistamismeile veel pole. Kas ma saadan kohtumiskoha kinnitused?",
+    "followUp": "Jah, saatke mõlemale poolele kinnitused 6:15 AM koosoleku ajaga",
+    "followUpResponse": "Valmis! Koostasin nii Thompsonidele kui ka Leesidele 6:15 AM-iga stardiväljakul kohtumispunkti kinnitused, mida selga panna ja juhised. Ülevaatamiseks ja saatmiseks valmis."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Armastasid õhupallipiloodid ja -operaatorid",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "Kapten Mike L.",
+      "title": "Õhupallipiloot, MN",
+      "quote": "Olen ühemeheoperatsioon – lendan, meeskonnatööna, vastan meilidele. Välja arvatud kell 5:00, ma paisun, ei vasta. Duet koostab vastused igale küsimusele \"kas lendame homme?\" sõnum üleöö. Ärkan üles, vaatan ilma ja vajutan Saada.",
       "avatarKey": "michael"
     },
     {
-      "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "name": "Shannon ja Jake B.",
+      "title": "Aastaringsed õhupallireisid, TÜ",
+      "quote": "Iga päev saame samad 10 küsimust. Mida selga panna, kus kohtuda, mis siis, kui on tuuline. Duet õppis seda kõike ja koostab nüüd täiuslikke vastuseid. Igaõhtune tund meilide saatmisest läks viie minutini.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "title": "Päikesetõusu lennuoperaator, AZ",
+      "quote": "Kõrghooaeg tähendab 4-6 lendu nädalas ja iga reisija saadab vähemalt kaks korda enne lendu meili. Duet tegeleb lennueelsete küsimustega, et saaksin keskenduda inimestele nende elu parima hommiku pakkumisele.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "Balloon Company kaasomanik, NM",
+      "quote": "Ilmastikust tingitud tühistamised rikkusid kogu mu päeva – 8 reisijat vajasid isiklikke ajakava muutmise e-kirju. Nüüd koostab Duet kõik mustandid meie ümberbroneerimispoliitikaga. Säästab mul tunde tühistamishommikute pealt.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "quote": "Propostilennud vajavad nii palju edasi-tagasi koordineerimist. Duet sai aru, kuidas me nendega tegeleme – ajastus, koodsõnad, šampanja seadistus. See koostab vastused, mida ma vaevu puudutama pean.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Veeda oma hommikud taevas,\nmitte teie postkastis.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Kuidas Duet käsitleb ilmateate tühistamise e-kirju?",
+      "answer": "Duet saab teada teie tühistamise ja ümberbroneerimise eeskirjad. Kui tühistate lennu ilmastikuolude tõttu, saab see koostada igale mõjutatud reisijale isikupärastatud ajakava muutmise e-kirjad koos teie poliitika, saadaolevate kuupäevade ja teie tooniga. Vaatad üle ja saadad. See, mis varem võttis üksikute vastuste saamiseks tund aega, võtab minuteid."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Kas Duet saab hakkama küsimusega \"kas lendame homme?\" meilid, mis igal õhtul üle ujuvad?",
+      "answer": "Jah – see on üks levinumaid e-kirju, millest õhupallioperaatorid meile räägivad. Duet õpib tundma teie ilmapoliitikat ja koostab rahustavaid vastuseid, mis selgitavad teie otsustusprotsessi, millal teete viimase kõne ja mida oodata. Kui kinnitate hommikul mineku/keelamise, saab see kõigi manifestis olevate värskenduste mustandid."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "$250/person 4 reisijaga lennu kohta maksab üks salvestatud broneering rohkem kui aasta Pro eest."
 }
