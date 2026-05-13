@@ -1,33 +1,32 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | AI E-poštni pomočnik za Gmail in Outlook",
+    "description": "E-poštni pomočnik Duet Mail z umetno inteligenco povzema e-poštna sporočila, osnutke odgovorov in organizira vašo mapo »Prejeto«. Deluje z Gmail in Outlook. Prihranite 4+ ure tedensko."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Zdaj na voljo za Gmail in Outlook",
+    "headlinePrefix": "Vaš",
+    "headlineHighlight": "vodja štaba",
+    "headlineSuffix": "za",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "razvrščanje e-pošte",
+      "pisanje odgovorov",
+      "razporejanje",
+      "iskanje odgovorov"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "Prihranite 4+ ure vsak teden na e-pošti",
+    "primaryCta": "Začni z Gmail",
+    "secondaryCta": "Začni z Outlook",
+    "trialNote": "Brezplačna 14-dnevna preizkusna različica",
+    "cancelNote": "Prekliči kadar koli"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Takojšnja kategorizacija",
+      "Odgovori, ki jih poganja AI"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Prejeto",
     "providers": [
       "Gmail",
       "Outlook"
@@ -36,140 +35,140 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "včeraj"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Samodejni osnutek",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Re: Časovnica lansiranja izdelka",
+        "preview": "hej Želel sem preveriti zagonska sredstva. Smo še na pravi poti za naslednji teden...",
+        "pill": "Odzvati se"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Hitra sinhronizacija danes popoldne?",
+        "preview": "Rad bi spremljal posodobitve načrta. Ste prosti okrog 16h...",
+        "pill": "Srečanje"
       },
       {
-        "from": "Marketing",
+        "from": "Trženje",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
+        "subject": "Rezultati kampanje pripravljeni",
         "pill": "FYI"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Vaša trgovina je pripravljena na črni petek",
+        "pill": "Promocije"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Živjo Alex! Ja, smo na dobri poti. Oblikovalska skupina je včeraj dokončala sredstva in danes bom poslal končne datoteke z EOD."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "Logotipi strank",
+    "headingPrefix": "Zaupanja vreden v prihodnost",
+    "headingHighlight": "strokovnjaki in ekipe",
+    "headingSuffix": "po vsem svetu"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "Lastnosti",
+    "eyebrow": "Vaša mapa »Prejeto«, napolnjena",
+    "title": "Vaš nabiralnik ne sme biti lastnik vašega dneva",
+    "subtitle": "Spremenite kaos v jasnost z umetno inteligenco, ki vas dejansko dobi.\nPrihranite 3+ ure vsak teden z najpametnejšim e-poštnim pomočnikom za Gmail in Outlook.",
     "cards": [
       {
-        "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "id": "osnutki",
+        "title": "Pošljite osnutke, ki zvenijo kot vi",
+        "description": "Duet AI pisec e-pošte pripravi osnutke za vaša najpomembnejša e-poštna sporočila. Nauči se vašega tona in stilov pisanja.",
+        "ariaLabel": "Pošljite osnutke, ki zvenijo kot vi",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "Napisal sem hladno e-pošto, prilagojeno Johnu",
+          "sampleText": "Cevovodi AI so bistveni za gradnjo robustnih, razširljivih in učinkovitih sistemov AI.",
+          "readyToSend": "Ste pripravljeni na pošiljanje?",
+          "remindFollowUp": "Opomni me, naj nadaljujem."
         }
       },
       {
-        "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "id": "povzetki",
+        "title": "Takojšnji povzetki in akcijski elementi",
+        "description": "V nekaj sekundah pridobite TL;DR in elemente dejanj iz vsebine vaše e-pošte. Nič več branja romanov v vašem nabiralniku.",
+        "ariaLabel": "Takojšnji povzetki in dejanja",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "Predlagam, da",
+          "sentenceHighlight": "srečamo naslednji teden",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "Nova akcijska postavka",
+          "actionLead": "V tvojem koledarju sem našel te proste igralne avtomate",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "Torek, ob 10h",
+            "Četrtek, ob 14. uri",
+            "petek, 9"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Poišči več",
+          "primaryButton": "Pošlji"
         }
       },
       {
-        "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "id": "opomniki",
+        "title": "Inteligentni opomniki",
+        "description": "Nastavite in pozabite. Duet AI se spomni, da sledi, ko se drugi ne odzovejo, tako da nič ne pade skozi razpoke.",
+        "ariaLabel": "Inteligentni opomniki",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "Pametni opomniki, ki jih poganja AI",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Nadaljevanje",
               "value": "12",
-              "unit": "emails"
+              "unit": "e-poštna sporočila"
             },
             {
-              "label": "To reply",
+              "label": "za odgovor",
               "value": "2",
-              "unit": "emails"
+              "unit": "e-poštna sporočila"
             },
             {
-              "label": "Completed",
+              "label": "Dokončano",
               "value": "3",
-              "unit": "action items"
+              "unit": "akcijski predmeti"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Dokončajte pisne naloge",
+              "time": "2 dni nazaj"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Integracija projekta",
+              "time": "pred 12 urami"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Sledi",
+            "Prestaviti?"
           ]
         }
       },
       {
-        "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "id": "fokus",
+        "title": "Osredotočite se na tisto, kar je pomembno",
+        "description": "Pametna kategorizacija najprej prikaže vaša najpomembnejša e-poštna sporočila in jih razvrsti v teme. Upravljanje e-pošte še nikoli ni bilo lažje.",
+        "ariaLabel": "Osredotočite se na tisto, kar je pomembno",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "ANALIZIRANJE"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "Organizacija e-pošte in pametna kategorizacija prejetih sporočil",
+    "badge": "Organizacija",
+    "title": "Duet organizira vašo mapo »Prejeto«.",
+    "subtitle": "Samodejna kategorizacija filtrira hrup in površine, ki so pomembne. Takoj si oglejte, kaj potrebuje ukrepanje, kaj je samo v vaši bližini in kaj lahko počaka.",
+    "windowTitle": "Prejeto",
     "providers": [
       "Gmail",
       "Outlook"
@@ -178,120 +177,120 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "včeraj",
+      "20. dec"
     ],
     "emails": [
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "Zahteva za pregled proračuna v četrtem četrtletju",
+        "preview": "Končne številke so priložene. Prosimo, da pregledate EOD.",
+        "pill": "Potrebno ukrepanje"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Jutri ob 10. uri bo nastop ekip",
+        "pill": "Srečanje"
       },
       {
-        "from": "Design Team",
+        "from": "Oblikovalska ekipa",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
+        "subject": "Objavljene nove smernice blagovne znamke",
         "pill": "FYI"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Vaš mesečni izpisek je pripravljen",
+        "pill": "Promocije"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "Glasilo",
+        "subject": "Tedenski povzetek",
+        "pill": "Promocije"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "AI pisanje e-pošte in generiranje odgovorov",
+    "badge": "Osnutek",
+    "title": "Duet osnutki v tvojem glasu",
+    "subtitle": "Duet se nauči, kako pišete, in pripravi odgovore, ki ustrezajo vašemu tonu. Preglejte, po potrebi prilagodite in pošljite v nekaj sekundah.",
+    "windowTitle": "Novo sporočilo",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "Za:",
+      "subject": "Zadeva:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: Hitra sinhronizacija ta teden?",
+      "originalFrom": "Alex Rivera je napisal/a:",
+      "originalText": "hej Rad bi dohitel spremembe načrta. Ste ta teden prosti za 30-minutni klic? Povejte mi, kaj vam ustreza.",
+      "badge": "Samodejno pripravljeno",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Živjo Alex!",
+        "Rad bi sinhroniziral na zemljevidu. Prost sem v četrtek od 14.00 do 16.00 ali v petek zjutraj – oboje mi odlično ustreza.",
+        "Povejte mi, kaj vam najbolj ustreza, in poslala vam bom povabilo.",
+        "hvala"
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Prost sem v četrtek od 14. do 16. ure ali v petek zjutraj",
       "actions": [
-        "Send",
-        "Edit"
+        "Pošlji",
+        "Uredi"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Prilagojeni osnutek",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Pozna vaš koledar",
+        "Osnutki v tvojem glasu",
+        "Prek spomina pozna kontekst",
+        "Sčasoma se uči"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
+    "ariaLabel": "AI e-poštna inteligenca in pomočnik",
+    "badge": "Inteligenca",
+    "title": "Vprašajte kar koli o svoji e-pošti",
+    "subtitle": "Prosite Duet, da poišče e-pošto, preveri vaš koledar ali pripravi odgovor. Razume vašo mapo »Prejeto« in takoj odgovori.",
     "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "onlineLabel": "Na spletu",
+    "initialUserMessage": "Ali najdete Stripe račun, ki ga je poslalo računovodstvo?",
+    "processingText": "Iskanje mape »Prejeto« ...",
+    "foundHeader": "Najdena 2 e-poštna sporočila od Stripe",
+    "foundBody": "Našel sem račun za 29,00 USD od 24. oktobra.",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"
     },
     "suggestions": [
       {
-        "action": "draft",
-        "label": "Draft a reply"
+        "action": "osnutek",
+        "label": "Osnutek odgovora"
       },
       {
-        "action": "calendar",
-        "label": "Find time to meet"
+        "action": "koledar",
+        "label": "Poiščite čas za srečanje"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Vprašaj karkoli...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "Obdelava ...",
+      "processingDraft": "Ustvarjanje osnutka ...",
+      "processingCalendar": "Preverjanje razpoložljivosti ...",
+      "draftIntro": "Tukaj je osnutek odgovora računovodstvu:",
+      "draftHeader": "Osnutek: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Živjo ekipa,",
+        "V prilogi najdete Stripe račun za oktober (29,00 USD).",
+        "Povejte mi, če potrebujete še kaj.",
+        "najboljše,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "Pošlji e-pošto",
+        "Uredi"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "Jutri imate odprta 3 mesta:",
       "calendarSlots": [
         {
           "time": "9:30 AM",
@@ -307,143 +306,143 @@
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Tudi osnutek odgovora?",
+        "calendarAfterDraft": "Načrtovati tudi spremljanje?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "Pričevanja",
+    "scrollingAriaLabel": "Pomikanje po pričevanjih",
+    "eyebrow": "Pričevanja",
+    "title": "Obožujejo zaposleni strokovnjaki",
+    "subtitle": "Pravi ljudje. Pravi nabiralnik zmaga.",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "svobodnjak",
+        "quote": "Vredno vsakega penija. Čas, ki ga prihranim pri e-pošti, se za Duet Mail izplača 10-krat več. Zdaj si ne morem predstavljati dela brez tega.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "Vodja prodaje",
+        "quote": "Takojšnji povzetki dolgih e-poštnih niti so čista čarovnija in tako uporabniku prijazni. Moje stranke mislijo, da sem nadčlovek.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "Podjetnik",
+        "quote": "Bil sem skeptičen do uporabe umetne inteligence za moja e-poštna sporočila. Zdaj je tako, kot če bi imeli briljantnega izvršnega pomočnika. Ne predstavljam si vrnitve.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "Svetovalec",
+        "quote": "Kot svetovalec šteje vsaka minuta. Duet Mail mi ne prihrani le časa, temveč naredi mojo e-poštno komunikacijo ostrejšo.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
-        "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "name": "Sara T.",
+        "title": "Direktor marketinga",
+        "quote": "Končno poštni pomočnik z umetno inteligenco, ki se dejansko nauči, kako pišem. Takojšnji odgovori so tako na mestu, da je moja ekipa mislila, da delam ob polnoči.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
+    "ariaLabel": "Cene",
+    "eyebrow": "Cene",
+    "heading": "Preprosto določanje cen, zmogljiv nabiralnik",
+    "subheading": "Začnite brezplačno, kadar koli nadgradite. Prekliči kadar koli.",
+    "billingLegend": "Kadenca zaračunavanja",
+    "billingAnnual": "Letna",
+    "billingMonthly": "Mesečno",
+    "savingsTag": "Prihranite 33%",
     "priceCadence": "/month",
     "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "annualBillingSuffix": "(zaračunano letno)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Varna blagajna prek Stripe",
+      "Prekliči kadar koli"
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "name": "Osnovno",
+        "description": "Za vse, ki vas zanima, kakšen je občutek pametnejše mape »Prejeto«. Obveza ni potrebna.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "Takojšnji povzetki",
+            "description": "Spoznajte bistvo katere koli teme"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "Osnutki AI",
+            "description": "Okus odgovorov v tvojem glasu"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "Pametni nabiralnik",
+            "description": "Osnovna organizacija za začetek"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "Duet Pomočnik",
+            "description": "Preizkusite pomočnika AI"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Izberite Gmail ali Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "14-dnevni brezplačni preizkus",
+        "description": "Za strokovnjake, ki želijo globljo avtomatizacijo, integracije in mapo »Prejeto«, ki resnično ve, kako delate.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "Pametni nabiralnik",
+            "description": "E-poštna sporočila so samodejno razvrščena v pametne kategorije",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "Osnutki AI",
+            "description": "Odgovori, napisani z vašim glasom, pripravljeni za pošiljanje",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "Duet Pomočnik",
+            "description": "Klepetajte za iskanje, osnutke, organiziranje in drugo",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "Integracija koledarja",
+            "description": "Načrtujte, si oglejte in upravljajte dogodke iz mape »Prejeto«."
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "Takojšnji povzetki",
+            "description": "Spoznajte bistvo katere koli niti ali priloge"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Pametni opomniki",
+            "description": "Slednje se samodejno površijo, tako da nič ne zdrsne"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "Prednostna podpora",
+            "description": "Pravi ljudje, hitri odzivi"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Izberite Gmail ali Outlook",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "Podjetje",
+        "description": "Za organizacije, ki potrebujejo obseg podjetja, namensko podporo in poteke dela po meri. Najboljše za ekipe 50+.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,146 +450,146 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Vse v Pro",
+            "description": "Vključene so vse funkcije"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Namenska podpora",
+            "description": "Upravitelj osebnega računa"
           },
           {
             "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "description": "Vpogled v vašo organizacijo"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Delovni tokovi v skupni rabi",
+            "description": "Predloge in avtomatizacije za ekipe"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Obrnite se na prodajo",
+        "ctaNote": "Na voljo so cene po meri"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
-    "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "ariaLabel": "Pogosta vprašanja",
+    "eyebrow": "pogosta vprašanja",
+    "headingPrefix": "Pogosta vprašanja,",
+    "headingAccent": "odgovoril",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
-    "footerBrand": "DUET MAIL",
-    "footerLabel": "FAQ",
+    "contactLabel": "KONTAKT",
+    "contactHeading": "Imate še vprašanja?",
+    "contactCta": "Stopite v stik →",
+    "footerBrand": "DUETNA POŠTA",
+    "footerLabel": "pogosta vprašanja",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Kako Duet Mail ščiti moje e-poštne podatke?",
+        "answer": "Vaša varnost je naša glavna prioriteta. OAuth 2.0 uporabljamo za varno avtentikacijo z Google in Microsoft. E-poštna vsebina je v mirovanju šifrirana s šifriranjem na ravni polja na strani odjemalca in upoštevamo načelo najmanjših privilegijev za dostop API. Za našo integracijo Google opravimo letno varnostno oceno CASA Google."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Kako deluje funkcija e-poštnega povzetka?",
+        "answer": "Duet Mail uporablja napredno umetno inteligenco za analizo vaših e-poštnih niti in ustvarjanje jedrnatega pregleda, ki poudarja ključne točke, odločitve in elemente dejanj. To vam pomaga hitro razumeti kontekst, ne da bi prebrali celotno nit."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Kakšna dovoljenja potrebuje Duet Mail?",
+        "answer": "Duet Mail zahteva dostop do vaših e-poštnih sporočil za zagotavljanje povzetkov, pridobivanje elementov dejanj, ustvarjanje vsebine in pošiljanje vaših e-poštnih sporočil. Zahtevamo samo dovoljenja, ki jih nujno potrebujemo. Ta dovoljenja lahko kadar koli pregledate in prekličete v nastavitvah računa Google ali Microsoft."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Kaj je vključeno v brezplačno preskusno obdobje?",
+        "answer": "14-dnevna brezplačna preskusna različica vključuje popoln dostop do vseh funkcij Pro: neomejenih e-poštnih povzetkov, ekstrakcije elementov dejanja, pisatelja e-pošte z umetno inteligenco (ustvarjanje e-poštnih sporočil in osnutkov brez kakršnih koli omejitev) in predloge e-pošte po meri. Prijavite se z Google ali Microsoft, da začnete prihraniti čas pri upravljanju e-pošte."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Ali lahko uporabljam Duet Mail z drugimi ponudniki e-pošte?",
+        "answer": "Duet Mail podpira Gmail, Google Workspace in Microsoft Outlook. Za začetek se prijavite s svojim računom Google ali Microsoft."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Začnite",
+    "headline": "Pridobite 4 ure nazaj.\nVsak teden.",
+    "subline": "Pridružite se strokovnjakom, ki svoj dan začnejo z jasnostjo in ne kaosom. Vaš brezplačni preizkus čaka.",
+    "primaryCta": "Začni z Gmail",
+    "secondaryCta": "Začni z Outlook",
+    "note": "14-dnevno brezplačno preskusno obdobje · Prekličite kadar koli",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Google Ocenjeno s CASA",
+      "Šifrirano v mirovanju",
+      "Varen OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "Noga spletnega mesta",
+    "brandIconAlt": "Duet Mail ikona",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — E-poštni pomočnik z umetno inteligenco, ki vam vsak teden prihrani ure",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Raziščite",
         "links": [
           {
-            "label": "Organization",
-            "href": "/sl#organization"
+            "label": "Organizacija",
+            "href": "/#organization"
           },
           {
-            "label": "Drafting",
-            "href": "/sl#drafting"
+            "label": "Osnutek",
+            "href": "/#drafting"
           },
           {
-            "label": "Intelligence",
-            "href": "/sl#intelligence"
+            "label": "Inteligenca",
+            "href": "/#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Chrome Razširitev",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "Stranke",
         "links": [
           {
-            "label": "Pricing",
-            "href": "/sl#pricing"
+            "label": "Cene",
+            "href": "/#pricing"
           },
           {
-            "label": "Testimonials",
-            "href": "/sl#testimonials"
+            "label": "Pričevanja",
+            "href": "/#testimonials"
           },
           {
-            "label": "FAQ",
-            "href": "/sl#faq"
+            "label": "pogosta vprašanja",
+            "href": "/#faq"
           }
         ]
       },
       {
-        "title": "Legal",
+        "title": "Pravno",
         "links": [
           {
-            "label": "Privacy",
+            "label": "Zasebnost",
             "href": "/sl/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Pogoji",
             "href": "/sl/terms"
           },
           {
-            "label": "Cookies",
+            "label": "Piškotki",
             "href": "/sl/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Zavrnitev odgovornosti",
             "href": "/sl/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "Povežite se",
         "links": [
           {
             "label": "Blog",
@@ -621,52 +620,52 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
+    "ariaLabel": "Donosnost naložbe",
+    "label": "Matematika",
+    "narrativeTemplate": "Pri {pricePerBooking} na {bookingUnit}, izguba samo {lostPerMonth} zaradi počasnih odgovorov =",
+    "lossSuffix": "/mo ni več",
     "dividerLabel": "vs",
     "duetLabel": "Duet",
-    "duetPrice": "$30/mo"
+    "duetPrice": "30 USD/mesec"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - AI e-poštni pomočnik za Gmail in Outlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Podpora uporabnikom",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
+    "softwareDescription": "E-poštni pomočnik z umetno inteligenco za Gmail in Outlook, ki samodejno povzema e-poštna sporočila, pripravlja osnutke odgovorov z vašim glasom in organizira vašo mapo »Prejeto«, da prihranite ure vsak teden.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Pametna organizacija in kategorizacija elektronske pošte",
+      "Pisanje e-pošte z umetno inteligenco z vašim glasom",
+      "Inteligentni e-poštni pomočnik z integracijo koledarja",
+      "Samodejni e-poštni povzetki in dejanja",
+      "Pametni opomniki za nadaljnja dejanja"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Osnovni načrt",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Brezplačen načrt s takojšnjimi povzetki, osnutki z umetno inteligenco in pametnim nabiralnikom"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro Načrt",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "unitText": "MESEC",
+        "description": "Popoln dostop s pametno kategorizacijo nabiralnika, osnutki AI, pomočnikom in integracijo koledarja"
       }
     ],
     "aggregateRating": {
       "ratingValue": "4.8",
       "ratingCount": "853"
     },
-    "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "operatingSystem": "Splet",
+    "browserRequirements": "Potreben je JavaScript. Deluje z Gmail, Google Workspace in Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/sl",
+      "site": "/sl/",
       "logo": "https://duetmail.com/favicon.svg",
       "screenshot": "https://duetmail.com/og.jpg",
       "sameAs": [
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Kako Duet Mail ščiti moje e-poštne podatke?",
+        "answer": "Vaša varnost je naša glavna prioriteta. OAuth 2.0 uporabljamo za varno avtentikacijo z Google in Microsoft. E-poštna vsebina je v mirovanju šifrirana s šifriranjem na ravni polja na strani odjemalca in upoštevamo načelo najmanjših privilegijev za dostop API. Za našo integracijo Google opravimo letno varnostno oceno CASA Google."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Kako deluje funkcija e-poštnega povzetka?",
+        "answer": "Duet Mail uporablja napredno umetno inteligenco za analizo vaših e-poštnih niti in ustvarjanje jedrnatega pregleda, ki poudarja ključne točke, odločitve in elemente dejanj. To vam pomaga hitro razumeti kontekst, ne da bi prebrali celotno nit."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Kakšna dovoljenja potrebuje Duet Mail?",
+        "answer": "Duet Mail zahteva dostop do vaših e-poštnih sporočil za zagotavljanje povzetkov, pridobivanje elementov dejanj, ustvarjanje vsebine in pošiljanje vaših e-poštnih sporočil. Zahtevamo samo dovoljenja, ki jih nujno potrebujemo. Ta dovoljenja lahko kadar koli pregledate in prekličete v nastavitvah računa Google ali Microsoft."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Kaj je vključeno v brezplačno preskusno obdobje?",
+        "answer": "14-dnevna brezplačna preskusna različica vključuje popoln dostop do vseh funkcij Pro: neomejenih e-poštnih povzetkov, ekstrakcije elementov dejanja, pisatelja e-pošte z umetno inteligenco (ustvarjanje e-poštnih sporočil in osnutkov brez kakršnih koli omejitev) in predloge e-pošte po meri. Prijavite se z Google ali Microsoft, da začnete prihraniti čas pri upravljanju e-pošte."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Ali lahko uporabljam Duet Mail z drugimi ponudniki e-pošte?",
+        "answer": "Duet Mail podpira Gmail, Google Workspace in Microsoft Outlook. Za začetek se prijavite s svojim računom Google ali Microsoft."
       }
     ]
   }
