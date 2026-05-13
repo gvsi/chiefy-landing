@@ -60,7 +60,6 @@ const ignoredExactValues = new Set([
 ])
 const ignoredValuePatterns = [
     /Astro\.site/,
-    /Last updated:/,
     /Invalid .* metadata/,
     /Missing .* metadata/,
     /^Upwork$/,

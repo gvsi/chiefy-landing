@@ -75,20 +75,6 @@ const withoutTitle = (() => {
     }
 })()
 
-const withoutUpdated = (() => {
-    const match = withoutTitle.html.match(
-        new RegExp("<p\\b[^>]*>[\\s\\S]*?Last updated:[\\s\\S]*?</p>", "i")
-    )
-    if (!match) return { updatedAtText: undefined, html: withoutTitle.html }
-
-    const updatedAtText = stripTags(match[0])
-
-    return {
-        updatedAtText,
-        html: withoutTitle.html.replace(match[0], ""),
-    }
-})()
-
 const pageTitle =
     withoutTitle.titleText ??
     title.replace(/\u00a0/g, " ").replace(/\\s*-\\s*Duet Mail\\s*$/i, "").trim()
@@ -101,13 +87,10 @@ const updatedAtDate = (() => {
         }
         return date
     }
-    if (withoutUpdated.updatedAtText) return undefined
     throw new Error(`Missing legal lastUpdated metadata for ${canonicalPath}`)
 })()
-const updatedAt = updatedAtDate
-    ? t(messages, "legal.lastUpdated", { date: formatDate(updatedAtDate, locale) })
-    : withoutUpdated.updatedAtText
-const bodyHtml = withoutUpdated.html.trim()
+const updatedAt = t(messages, "legal.lastUpdated", { date: formatDate(updatedAtDate, locale) })
+const bodyHtml = withoutTitle.html.trim()
 const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
