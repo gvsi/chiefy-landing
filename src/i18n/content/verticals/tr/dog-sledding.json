@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail Köpek Kızak Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, köpek kızakçılarına rezervasyon e-postalarına anında, hatta parkurdayken bile yanıt vermelerine yardımcı olur. AI tarafından hazırlanan yanıtlar, tur türlerinizi, fiyatlandırmanızı, politikalarınızı ve ses tonunuzu içerir.",
+  "heroBadge": "200'den fazla köpek kızağı sürücüsü tarafından güvenilen",
+  "heroHeadline": "Yolda olduğunuz süre boyunca e-posta asistanınız",
+  "heroSubline": "Duet tur türlerinizi, fiyatlandırmanızı, hava durumu politikalarınızı ve ek hizmetlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonunuzu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "Aurora + köpek kızağı kombinasyonu 4 kişi için mi?",
+      "preview": "Merhaba! Ocak ayında 4 kişilik ailemizle Fairbanks'ı ziyaret edeceğiz. Köpek kızaklarıyla gezinti ve kuzey ışıklarını izlemeyi içeren kombine bir paketiniz var mı? Fiyatı nedir?",
+      "pill": "Yanıtlamak için",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Ne giymeliyiz?",
+      "preview": "Cumartesi günü 2 saatlik köpek kızağı deneyimi için rezervasyon yaptırdık. Ne giymeliyiz? Ekipman sağlıyor musunuz yoksa kendi ekipmanımızı mı getirmemiz gerekiyor?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
-      "from": "Kim & Brian L.",
+      "from": "Kim ve Brian L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "5 ve 8 yaşındaki çocuklar - kızarma yapabilirler mi?",
+      "preview": "İki çocuğumuzla (5 ve 8 yaşında) geliyoruz. Kızakta binebilirler mi veya kızak çekmeye yardımcı olabilirler mi? Ayrıca köpekler küçük çocuklarla iyi geçinir mi?",
+      "pill": "Rezervasyon",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "Merhaba Rachel! Ailenizi ağırlamaktan mutluluk duyarız. Aurora + Mantar Kombinasyonumuz kişi başı $175 — gün batımında patikalarda 1,5 saatlik kızak yolculuğunun ardından, ışıkları beklerken ateş başında sıcak kakao keyfi yapıyorsunuz. Tüm soğuk hava ekipmanları sağlanmaktadır. 12 yaş ve altı çocuklar $125. Sizi Ocak ayı için rezerve etmemi ister misiniz?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "tour",
+    "bookingUnit": "tur",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Kaydedilen iki rezervasyon, Duet'ın bir yıllık ücretini karşılar."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra soruları ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan tur taleplerini kaçırma derdine son.",
+  "draftSubtitle": "Duet tur türlerinizi, fiyatlandırmanızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, paket detayları, ne giyileceği ve ek hizmetler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta sonu için rezervasyonunuz var mı?\" \"Kuzey ışıkları kombinasyonu hakkında bir yanıt taslağı hazırlayın.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "Aurora + köpek kızağı kombinasyonu 4 kişi için mi?",
+      "preview": "Dört kişilik ailemle Ocak ayında Fairbanks'ı ziyaret edeceğiz...",
+      "pill": "Şimdi Yanıt Verin",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "Konu: Rezervasyon onaylandı — Cumartesi 13:00",
+      "pill": "Rezervasyon yapıldı",
       "pillColor": "blue"
     },
     {
       "from": "Kim L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "Çocuklarımız (5 ve 8 yaşında) bizimle birlikte binebilir mi?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Haftalık rezervasyon özetiniz",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     },
     {
-      "from": "Alaska Gear Co.",
+      "from": "Alaska Gear Şirketi",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "Kış indirimi — Kızak koşum takımlarında %30 indirim",
+      "pill": "Promosyonlar",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "Konu: Aurora + 4 kişilik köpek kızağı kombinasyonu?",
+    "originalFrom": "Rachel T. şöyle yazdı:",
+    "originalText": "Merhaba! Ocak ayında 4 kişilik ailemizle Fairbanks'ı ziyaret edeceğiz. Köpek kızaklarıyla gezinti ve kuzey ışıklarını izlemeyi içeren kombine bir paketiniz var mı? Fiyatı nedir?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "Merhaba Rachel!",
+      "Aurora + Mantar Kombinasyonumuz kişi başı $175'dır — alacakaranlıkta 1,5 saatlik kızak yolculuğunun ardından ateş başında sıcak kakao ve aurora izleme. 12 yaş ve altı çocuklar $125'dır.",
+      "Soğuk hava koşullarına uygun tüm ekipmanlar (botlar, tulumlar, eldivenler, yüz maskeleri) sağlanmaktadır. Sadece altına kat kat sıcak giysiler giymeniz yeterli.",
+      "Ocak ayı için 4 kişilik ailenizin rezervasyonunu yapmamı ister misiniz?"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "Aurora + Mush Kombinasyonu kişi başı $175 — 1,5 saatlik kızak yolculuğu",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "Tur türlerinizi ve fiyatlandırmanızı biliyor.",
+      "Sesinizdeki taslaklar",
+      "Ekipman ve ek detayları içerir.",
+      "Zamanla öğrenir."
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "Bu hafta sonu için rezervasyonunuz var mı? Hava durumu belirsiz görünüyor.",
+    "agentResponse": "Bu hafta sonu için 3 tur rezervasyonu yaptırdınız: Cumartesi saat 10:00'da köpek kulübesi ziyareti (2 kişi), Cumartesi saat 13:00'te 2 saatlik köpek kızağı deneyimi (4 kişi) ve Pazar saat 16:00'da kuzey ışıkları kombinasyonu (6 kişi). Pazar günü grubu iptal politikası hakkında bilgi istedi. Her üç tur için de hava durumu güncellemesi hazırlamamı ister misiniz?",
+    "followUp": "Pazar günü aurora grubu için bir hava durumu güncellemesi taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Pazar günü kutup ışıkları grubuna, koşulları takip ettiğinizi ve Cumartesi akşamına kadar onaylayacağınızı bildiren bir yanıt taslağı hazırladım. Yeniden planlama politikanız ve alternatif tarihler de taslakta yer alıyor. Gözden geçirmeye ve göndermeye hazır."
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "Köpek kızakçıları ve tur operatörleri tarafından çok seviliyor.",
   "testimonials": [
     {
       "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "title": "Alaska'da Kızak Köpeği Tur Operatörü",
+      "quote": "Günde 6 saat boyunca hiç telefon çekmeyen yollardayım. Geri döndüğümde, rezervasyon taleplerinin yarısı başka bir firmaya gitmiş oluyor. Duet tur detaylarım ve fiyatlandırmamla ilgili taslak yanıtlar gönderiyor; misafirler saatler değil, dakikalar içinde geri dönüş alıyorlar.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
-      "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "title": "Köpek Kulübesi ve Köpek Turu Sahibi, AK",
+      "quote": "Köpek kulübesi ziyaretleri, kızak gezileri ve kuzey ışıkları kombinasyonları sunuyoruz; her e-postaya farklı bir yanıt gerekiyor. Duet bir hafta içinde üç tur türünün de nasıl işlediğini çözdü ve artık her seferinde doğru pakete uyan yanıtlar hazırlıyor.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "title": "Köpek Kızak Rehberi, MN",
+      "quote": "Eskiden her akşam ne giyeceğim, yaş sınırları ve köpekler hakkında aynı soruları cevaplamakla geçirirdim. Duet bunların hepsini hallediyor. Patikadan eve döndüğümde her şey hazırlanmış ve beni bekliyor oluyor.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
-      "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "title": "Aurora ve Kızak Tur Operatörü, AK",
+      "quote": "Kış aylarında hava koşulları nedeniyle iptaller sürekli oluyor. Duet daha telefonumu kontrol etme fırsatı bulamadan politikamızı ve alternatif tarihleri ​​içeren yeniden planlama yanıtlarını taslak halinde gönderiyor. Misafirler hızlı yanıtı çok seviyor.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
-      "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "title": "Aile Köpek Kızak Maceraları, CO",
+      "quote": "Ebeveynler her zaman çocuklarının köpek kızağı sürebileceklerini, köpeklerin dost canlısı olup olmadığını, ne giyeceklerini soruyorlar - aynı 10 soru. Duet her cevabı öğrendi ve mükemmel bir şekilde taslak haline getiriyor. Sanki kendimi e-posta için kopyalamış gibiyim.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Kışınızı köpeklerinizle birlikte doğa yürüyüşü yaparak geçirin,\ne-posta kutunuzda değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "Duet hava koşullarından kaynaklanan iptaller ve kutup ışıkları belirsizliğiyle nasıl başa çıkıyor?",
+      "answer": "Duet iptal ve yeniden planlama politikalarınızı öğrenir. Bir misafir hava durumu veya kutup ışıklarının görünürlüğüyle ilgili endişelerini e-postayla ilettiğinde, politikanızı, alternatif tarihleri ​​ve ilgili ayrıntıları (örneğin, koşulları izleme ve tura daha yakın bir zamanda teyit etme) içeren bir yanıt taslağı oluşturur. Siz de inceleyip gönderirsiniz."
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "Farklı fiyatlandırma ve ek seçeneklere sahip çeşitli tur türleri sunuyorum. Duet bunları birbirinden ayırt edebilir mi?",
+      "answer": "Evet. Duet, köpek kulübesi ziyaretleri, kızakla gezinti deneyimleri, kuzey ışıkları kombinasyonları, fotoğrafçılık eklentileri, ulaşım paketleri gibi her tur türünüzü fiyatlandırması, süresi ve içeriğiyle birlikte öğrenir. Bir talep geldiğinde, doğru turu eşleştirir ve doğru ayrıntılarla bir yanıt taslağı oluşturur."
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "$150/tour adresinde, iki kayıtlı rezervasyon Pro'in bir yıldan fazla süren ücretini karşılıyor."
 }

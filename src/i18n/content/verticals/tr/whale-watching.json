@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail Balina Gözlem Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, balina gözlemi kaptanlarının rezervasyon e-postalarına anında, hatta sudayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, tur detaylarınızı, fiyatlandırmanızı ve sesinizi içerir.",
+  "heroBadge": "300'den fazla tur kaptanı tarafından güvenilen",
+  "heroHeadline": "Balina gözlemine çıktığınız sırada e-posta asistanınız.",
+  "heroSubline": "Duet tur programınızı, fiyatlarınızı ve sesinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece siz denizdeyken hiçbir rezervasyonu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "8 kişilik grup — 14 Haziran'da müsaitlik var mı?",
+      "preview": "Merhaba! 8 kişilik bir aile olarak bir haftalığına ziyarete geldik. 14 Haziran sabah turunda yeriniz var mı? Kişi başı fiyatı ne kadar ve çocuklar için uygun mu?",
+      "pill": "Yanıtlamak için",
       "pillColor": "red"
     },
     {
-      "from": "James & Kathy L.",
+      "from": "James ve Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "Özel tekne kiralama fiyatları?",
+      "preview": "Evlilik yıldönümümüz için özel bir balina gözlem turu rezervasyonu yaptırmak istiyoruz. Sadece ikimiz için 2 saatlik özel bir turun maliyeti ne kadar?",
+      "pill": "Yüksek Değer",
       "pillColor": "amber"
     },
     {
-      "from": "Cruise Port Desk",
+      "from": "Kruvaziyer Limanı Masası",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "Program değişikliği — Coral Princess 1 saat erken geliyor",
+      "preview": "Önemli duyuru: Yarınki Coral Princess gemisinin varış saati 10:00'dan 09:00'a alındı. Lütfen liman gezisi rezervasyonlarınızı buna göre ayarlayın...",
+      "pill": "Acil",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "Merhaba Rachel! 14 Haziran sabah turunda 8 kişilik yerimiz var. Turlar kişi başı $125, 4-12 yaş arası çocuklar yarı fiyatına. Limandan saat 9'da hareket ediyoruz ve yaklaşık 2,5 saat sürüyor. Dürbün sağlanıyor - sadece kat kat giysiler ve güneş kremi getirin. 8 kişilik yer ayırtmamı ister misiniz?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "tur grubu",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Kaydedilen tek bir grup rezervasyonu, Duet'ın bir yıllık ücretini karşılar."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon taleplerini, sonra kruvaziyer gemisi program değişikliklerini ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan özel bir charter sorgusunu kaçırma derdine son.",
+  "draftSubtitle": "Duet tur saatlerinizi, fiyatlarınızı ve politikalarınızı öğrenir. Bir rezervasyon talebi geldiğinde, müsaitlik durumunu, nelerin dahil olduğunu ve yanınızda ne getirmeniz gerektiğini içeren eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Cumartesi sabahı turunda kaç yer kaldı?\" \"Rachel'a müsaitlik durumunuzu belirten bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "8 kişilik grup — 14 Haziran'da müsaitlik var mı?",
+      "preview": "Sekiz kişilik bir aile olarak bir haftalığına ziyarete geldik...",
+      "pill": "Şimdi Yanıt Verin",
       "pillColor": "red"
     },
     {
       "from": "James L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Konu: Özel tekne turu onaylandı — Cumartesi 14:00",
+      "pill": "Rezervasyon yapıldı",
       "pillColor": "blue"
     },
     {
       "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "Yarınki tur gerçekleşecek mi? Rüzgar sert görünüyor.",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
       "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
-      "pill": "FYI",
+      "subject": "Günlük rezervasyon özeti — 3 yeni rezervasyon",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     },
     {
-      "from": "Marine Supply Co.",
+      "from": "Denizcilik Malzemeleri Şirketi",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "Yaz indirimi — güvenlik ekipmanlarında %15 indirim",
+      "pill": "Promosyonlar",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Konu: 8 kişilik grup — 14 Haziran'da müsaitlik var mı?",
+    "originalFrom": "Rachel T. şöyle yazdı:",
+    "originalText": "Merhaba! 8 kişilik bir aile olarak bir haftalığına ziyarete geldik. 14 Haziran sabah turunda yeriniz var mı? Kişi başı fiyatı ne kadar ve çocuklar için uygun mu?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Merhaba Rachel!",
+      "14 Haziran sabah turunda 8 kişi için bolca yer var. Biletler kişi başı $125, 4-12 yaş arası çocuklar yarı fiyatına. Saat 9:00'da hareket edip yaklaşık 11:30'da geri dönüyoruz.",
+      "Dürbün ve yağmurluk sağlanıyor; sadece yanınıza sıcak tutacak kıyafetler ve güneş kremi alın. Çocuklar gözlem güvertesinde çok eğleniyorlar.",
+      "8 kişilik yer ayırtmamı ister misiniz?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "14 Haziran sabah turunda 8 kişi için bolca yer var. Biletler kişi başı $125.",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Tur saatlerinizi ve fiyatlarınızı biliyor.",
+      "Sesinizdeki taslaklar",
+      "Ne getirmeniz gerektiğini otomatik olarak içerir.",
+      "Zamanla öğrenir."
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "Cumartesi sabahı yapılacak turda kaç yer kaldı?",
+    "agentResponse": "Rezervasyonlarınıza göre, Cumartesi sabah 9'daki turda 44 kişilik yerin 18'i dolmuş durumda, 26 yer hala boş. Öğleden sonraki tur ise 44 kişilik yerin 40'ı dolu, yani neredeyse tamamen dolmuş. Cumartesi sabahı müsaitlik durumuyla ilgili bekleyen sorularınıza yanıt yazmamı ister misiniz?",
+    "followUp": "Rachel'a 14 Haziran'da 8 misafir için rezervasyonu teyit eden bir yanıt taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Rachel'a 14 Haziran sabahı 8 kişilik tur için $125/kişi ücretini teyit eden bir yanıt taslağı hazırladım. Kalkış saati, sağlananlar ve yanınızda getirmeniz gerekenler de dahil. Gözden geçirmeye ve göndermeye hazır."
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "Balina gözlem kaptanları tarafından çok seviliyor.",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
-      "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "name": "Kaptan Dave H.",
+      "title": "Vahşi Yaşam Tur Operatörü, Alaska",
+      "quote": "Yolcu gemisi yolcularının hızlı cevaplara ihtiyacı var; limanda sadece 6 saatleri var. Eskiden özel tekne kiralama taleplerini kaçırıyordum çünkü talep geldiğinde denizde oluyordum. Şimdi ise Duet daha limana yanaşmadan önce fiyatlandırma ve alma detaylarımı içeren yanıt taslaklarını hazırlıyor.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria & Luis R.",
-      "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "name": "Maria ve Luis R.",
+      "title": "Aile Balina Gözlemi, Kaliforniya",
+      "quote": "Balina sezonunda günde iki tur düzenliyoruz ve e-posta trafiği inanılmaz derecede yoğun. 'Balina görecek miyiz?' 'Ne giymeliyim?' 'Yarınki tur iptal mi oldu?' Duet tekrarlayan soruları yanıtlıyor ve biz de turlara odaklanıyoruz.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "name": "Kaptan Ben T.",
+      "title": "Okyanus Gezileri, HI",
+      "quote": "Her gece aynı 10 soruyu yanıtlıyordum: fiyatlandırma, nelerin dahil olduğu, deniz tutması ipuçları, çocuk yaş sınırları. Duet bunların hepsini ilk haftada öğrendi. Yanıt sürem 8 saatten 8 dakikaya indi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "title": "Rezervasyon Müdürü, Pasifik Kuzeybatı",
+      "quote": "Hava koşulları nedeniyle iptaller en kötüsü — aynı anda 30 kişinin rezervasyonunu yeniden ayarlamam gerekiyor ve ben telefon görüşmeleriyle boğuşuyorum. Duet her misafir için kişiselleştirilmiş yeniden planlama e-postaları hazırlıyor. Eskiden 2 saatimi alan iş şimdi 15 dakika sürüyor.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jess & Nate P.",
-      "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "name": "Jess ve Nate P.",
+      "title": "Küçük Tekneyle Vahşi Yaşam Turları, Britanya Kolombiyası",
+      "quote": "Biz iki kişilik bir ekibiz; ben kaptanım, o da lojistikten sorumlu. Yoğun sezonda geceleri 3 saatini e-postalara ayırıyordu. Duet bunu 30 dakikaya indirdi. Artık akşamlarını geri kazanabiliyor.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Balina sezonunu denizde geçirin,\ne-posta kutunuzda değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Duet hava koşullarından kaynaklanan iptalleri ve yolcu gemisi sefer saati değişikliklerini ele alıyor mu?",
+      "answer": "Evet. Hava koşulları veya kruvaziyer gemisinin varış saati değişiklikleri nedeniyle bir turu iptal ettiğinizde, Duet'a bir kez bildirmeniz yeterlidir ve bu, etkilenen her misafir için kişiselleştirilmiş yeniden planlama veya güncelleme e-postaları hazırlar. Artık aynı mesajı 30 kez kopyalayıp yapıştırmanıza gerek yok. Her yanıt, misafirin orijinal rezervasyon ayrıntılarını ve mevcut alternatifleri içerir."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "Sürekli aynı soruları alıyoruz: 'Balina görebilecek miyiz?', 'Ne giymeliyim?', 'Çocuklar için uygun mu?' Duet bunlarla başa çıkabilir mi?",
+      "answer": "İşte tam da bu noktada Duet öne çıkıyor. Genellikle gördüğünüz türler, yanınızda getirmeniz gerekenler, yaş politikaları, deniz tutması ipuçları, kalkış saatleri gibi standart cevaplarınızı öğreniyor ve anında eksiksiz yanıtlar taslağı hazırlıyor. Siz de gözden geçirip gönderiyorsunuz. Çoğu kaptan bize gelen kutularının %80'inin aynı 10 sorudan oluştuğunu ve Duet'nin bunların hepsini hallettiğini söylüyor."
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "Kişi başı $125 ile, 6 kişilik bir grup tasarruf yaparak bir yıldan fazla süredir Pro'in masrafını karşılıyor."
 }

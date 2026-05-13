@@ -1,265 +1,264 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | AI Gmail ve Outlook için E-posta Yardımcısı",
+    "description": "Duet Mail'ın AI e-posta asistanı, e-postaları özetler, yanıt taslakları oluşturur ve gelen kutunuzu düzenler. Gmail ve Outlook ile birlikte çalışır. Haftada 4 saatten fazla zaman tasarrufu sağlar."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Artık Gmail ve Outlook için kullanılabilir.",
+    "headlinePrefix": "Senin ",
+    "headlineHighlight": "genelkurmay başkanı",
+    "headlineSuffix": " için",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "e-postaları sıralama",
+      "yanıt taslağı hazırlama",
+      "planlama",
+      "cevap bulmak"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "E-postalarınızda her hafta 4 saatten fazla tasarruf edin.",
+    "primaryCta": "Gmail ile başlayın.",
+    "secondaryCta": "Outlook ile başlayın.",
+    "trialNote": "14 günlük ücretsiz deneme",
+    "cancelNote": "İstediğiniz zaman iptal edebilirsiniz."
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Anlık kategorizasyon",
+      "AI-güçlendirilmiş yanıtlar"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Gelen Kutusu",
     "providers": [
       "Gmail",
       "Outlook"
     ],
     "emailTimes": [
-      "3:42 PM",
-      "2:18 PM",
-      "10:05 AM",
-      "Yesterday"
+      "15:42",
+      "14:18",
+      "10:05 ÖÖ",
+      "Dün"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Otomatik taslak",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Konu: Ürün Lansman Zaman Çizelgesi",
+        "preview": "Merhaba! Lansman materyalleriyle ilgili son durumu öğrenmek istedim. Gelecek hafta için planlarımız hala geçerli mi...?",
+        "pill": "Yanıtlamak için"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Bu öğleden sonra hızlı bir senkronizasyon yapalım mı?",
+        "preview": "Yol haritası güncellemeleri hakkında bilgi almak isterim. Saat 16:00 civarında müsait misiniz?",
+        "pill": "Toplantı"
       },
       {
-        "from": "Marketing",
+        "from": "Pazarlama",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
-        "pill": "FYI"
+        "subject": "Kampanya Sonuçları Hazır",
+        "pill": "Bilginize"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Mağazanız Kara Cuma'ya hazır.",
+        "pill": "Promosyonlar"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Merhaba Alex! Evet, işler yolunda gidiyor. Tasarım ekibi dün görselleri tamamladı ve son dosyaları bugün gün sonuna kadar göndereceğim."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "Müşteri logoları",
+    "headingPrefix": "İleri görüşlüler tarafından güvenilen",
+    "headingHighlight": "profesyoneller ve ekipler",
+    "headingSuffix": "dünya çapında"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "Özellikler",
+    "eyebrow": "Gelen Kutunuz, Güçlendirilmiş",
+    "title": "E-posta kutunuz gününüzü ele geçirmemeli.",
+    "subtitle": "AI ile kaosu netliğe dönüştürün, gerçekten size yardımcı oluyor.\nGmail ve Outlook için en akıllı e-posta asistanı ile her hafta 3+ saat tasarruf edin.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "Sizin tarzınıza uygun e-posta taslakları",
+        "description": "Duet AI e-posta yazıcısı, en önemli e-postalarınız için taslaklar hazırlar. Üslubunuzu ve yazım tarzınızı öğrenir.",
+        "ariaLabel": "Sizin gibi ses çıkaran e-posta taslakları",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "John için kişiselleştirilmiş bir \"soğuk tanıtım e-postası\" taslağı hazırladım.",
+          "sampleText": "AI işlem hatları, sağlam, ölçeklenebilir ve verimli AI sistemler oluşturmak için gereklidir.",
+          "readyToSend": "Göndermeye hazır mısınız?",
+          "remindFollowUp": "Bana takip etmemi hatırlat."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "Anlık Özetler ve Eylem Maddeleri",
+        "description": "E-postalarınızın içeriğinden özet ve yapılacak işleri saniyeler içinde alın. Artık gelen kutunuzda roman okumanıza gerek yok.",
+        "ariaLabel": "Anlık özetler ve eylem maddeleri",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
-          "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "sentencePrefix": "Önerim şudur ki...",
+          "sentenceHighlight": "gelecek hafta görüşelim",
+          "sentenceSuffix": "?",
+          "actionTitle": "Yeni Eylem Maddesi",
+          "actionLead": "Takviminizde bu boş zaman dilimlerini buldum.",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "Salı, saat 10:00'da",
+            "Perşembe, saat 14:00'te",
+            "Cuma, sabah 9"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Daha fazlasını bulun",
+          "primaryButton": "Göndermek"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "Akıllı Hatırlatıcılar",
+        "description": "Bir kere ayarlayın ve unutun. Duet AI, diğerleri yanıt vermediğinde takip etmeyi hatırlıyor, böylece hiçbir şey gözden kaçmıyor.",
+        "ariaLabel": "Akıllı hatırlatıcılar",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "AI-Powered Akıllı Hatırlatıcılar",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Takip etmek",
               "value": "12",
-              "unit": "emails"
+              "unit": "e-postalar"
             },
             {
-              "label": "To reply",
+              "label": "Yanıtlamak için",
               "value": "2",
-              "unit": "emails"
+              "unit": "e-postalar"
             },
             {
-              "label": "Completed",
+              "label": "Tamamlanmış",
               "value": "3",
-              "unit": "action items"
+              "unit": "eylem maddeleri"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Yazma görevlerini tamamlayın",
+              "time": "2 gün önce"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Proje Entegrasyonu",
+              "time": "12 saat önce"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Takip etmek",
+            "Yeniden planlayalım mı?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "Önemli Olan Şeylere Odaklanın",
+        "description": "Akıllı kategorizasyon, en önemli e-postalarınızı ilk önce gösterir ve e-postaları konulara göre sınıflandırır. E-posta yönetimi hiç bu kadar kolay olmamıştı.",
+        "ariaLabel": "Önemli olan şeylere odaklanın.",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "ANALİZ ETMEK"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "E-posta organizasyonu ve akıllı gelen kutusu kategorizasyonu",
+    "badge": "Organizasyon",
+    "title": "Duet gelen kutunuzu düzenler",
+    "subtitle": "Otomatik kategorizasyon, gereksiz bilgileri filtreleyerek önemli olanları ortaya çıkarır. Neyin harekete geçilmesi gerektiğini, neyin sadece bilgi amaçlı olduğunu ve neyin bekleyebileceğini anında görün.",
+    "windowTitle": "Gelen Kutusu",
     "providers": [
       "Gmail",
       "Outlook"
     ],
     "emailTimes": [
-      "2:34 PM",
-      "11:05 AM",
-      "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "14:34",
+      "11:05 ÖÖ",
+      "09:22",
+      "Dün",
+      "20 Aralık"
     ],
     "emails": [
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "4. Çeyrek Bütçe İnceleme Talebi",
+        "preview": "Kesinleşmiş rakamlar ektedir. Lütfen gün sonuna kadar inceleyiniz.",
+        "pill": "Harekete Geçilmesi Gerekiyor"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Yarın sabah saat 10'da ekip toplantısı.",
+        "pill": "Toplantı"
       },
       {
-        "from": "Design Team",
+        "from": "Tasarım Ekibi",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
-        "pill": "FYI"
+        "subject": "Yeni marka kılavuzları yayınlandı.",
+        "pill": "Bilginize"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Aylık ekstreniz hazır.",
+        "pill": "Promosyonlar"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "Bülten",
+        "subject": "Haftalık özet",
+        "pill": "Promosyonlar"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "AI e-posta taslağı oluşturma ve yanıt üretme",
+    "badge": "Taslak hazırlama",
+    "title": "Duet sesinizdeki taslaklar",
+    "subtitle": "Duet, yazma tarzınızı öğrenir ve üslubunuza uygun yanıt taslakları oluşturur. Gözden geçirin, gerekirse ayarlayın ve saniyeler içinde gönderin.",
+    "windowTitle": "Yeni Mesaj",
     "fieldLabels": {
       "to": "To:",
-      "subject": "Subject:"
+      "subject": "Ders:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Konu: Bu hafta hızlı senkronizasyon mu?",
+      "originalFrom": "Alex Rivera şunları yazdı:",
+      "originalText": "Merhaba! Yol haritasındaki değişiklikler hakkında bilgi almak isterim. Bu hafta 30 dakikalık bir görüşme için müsait misiniz? Size uygun olan zamanı bana bildirin.",
+      "badge": "Otomatik taslak",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Merhaba Alex!",
+        "Yol haritası konusunda görüşmeyi çok isterim. Perşembe 14:00-16:00 arası veya Cuma sabahı müsaitim; ikisi de benim için uygun.",
+        "Size en uygun olanı bana bildirin, ben de size davetiye göndereyim.",
+        "Teşekkürler!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Perşembe 14:00-16:00 arası veya Cuma sabahı müsaitim.",
       "actions": [
-        "Send",
-        "Edit"
+        "Göndermek",
+        "Düzenlemek"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Kişiselleştirilmiş Taslak",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Takviminizi biliyor.",
+        "Sesinizdeki taslaklar",
+        "Bağlamı hafıza yoluyla bilir.",
+        "Zamanla öğrenir."
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "AI e-posta zekası ve asistanı",
+    "badge": "İstihbarat",
+    "title": "E-postanızla ilgili her şeyi sorabilirsiniz.",
+    "subtitle": "Duet'dan e-postaları bulmasını, takviminizi kontrol etmesini veya bir yanıt taslağı hazırlamasını isteyin. Gelen kutunuzu anlar ve anında yanıt verir.",
+    "windowTitle": "Duet Ajan",
+    "onlineLabel": "Çevrimiçi",
+    "initialUserMessage": "Muhasebe departmanı tarafından gönderilen Stripe numaralı faturayı bulabilir misiniz?",
+    "processingText": "Gelen kutusunda arama yapılıyor...",
+    "foundHeader": "Stripe adresinden 2 e-posta bulundu.",
+    "foundBody": "24 Ekim tarihli $29.00 USD tutarındaki makbuzu buldum.",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"
@@ -267,183 +266,183 @@
     "suggestions": [
       {
         "action": "draft",
-        "label": "Draft a reply"
+        "label": "Bir yanıt taslağı hazırlayın."
       },
       {
         "action": "calendar",
-        "label": "Find time to meet"
+        "label": "Buluşmak için zaman bulun"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Aklınıza gelen her şeyi sorabilirsiniz...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "İşleme...",
+      "processingDraft": "Taslak oluşturuluyor...",
+      "processingCalendar": "Müsaitlik kontrolü yapılıyor...",
+      "draftIntro": "Muhasebe departmanına yazılacak yanıt taslağı şöyledir:",
+      "draftHeader": "Taslak: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Merhaba ekip,",
+        "Ekim ayına ait Stripe faturasını ($29.00) ekte bulabilirsiniz.",
+        "Başka bir şeye ihtiyacınız olursa bana bildirin.",
+        "En iyi,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "E-posta gönder",
+        "Düzenlemek"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "Yarın için 3 boş yeriniz var:",
       "calendarSlots": [
         {
-          "time": "9:30 AM",
+          "time": "09:30",
           "duration": "30 min"
         },
         {
-          "time": "2:00 PM",
+          "time": "14:00",
           "duration": "30 min"
         },
         {
-          "time": "4:30 PM",
+          "time": "16:30",
           "duration": "30 min"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Yanıt taslağını da sen mi yazacaksın?",
+        "calendarAfterDraft": "Bir de takip randevusu planlayabilir misiniz?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "Müşteri Yorumları",
+    "scrollingAriaLabel": "Referansları kaydırarak görüntüleyin",
+    "eyebrow": "Müşteri Yorumları",
+    "title": "Yoğun iş temposuna sahip profesyoneller tarafından çok seviliyor.",
+    "subtitle": "Gerçek insanlar. Gerçek gelen kutusu kazanır.",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "Serbest çalışan",
+        "quote": "Her kuruşuna değer. E-postada tasarruf ettiğim zaman, Duet Mail'ın maliyetini 10 kat fazlasıyla karşılıyor. Artık onsuz çalışmayı hayal bile edemiyorum.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "Satış Yöneticisi",
+        "quote": "Uzun e-posta yazışmalarının anlık özetleri gerçekten harika ve kullanımı çok kolay. Müşterilerim beni insanüstü sanıyor.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "Girişimci",
+        "quote": "E-postalarımda yapay zekâ kullanımına şüpheyle yaklaşıyordum. Şimdi ise, sanki harika bir yönetici asistanım varmış gibi hissediyorum. Geri dönmeyi hayal bile edemiyorum.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "Danışman",
+        "quote": "Bir danışman olarak her dakika önemlidir. Duet Mail sadece zaman kazandırmakla kalmıyor, e-posta iletişimimi de daha verimli hale getiriyor.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
         "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "title": "Pazarlama Direktörü",
+        "quote": "Sonunda, yazma tarzımı gerçekten öğrenen bir e-posta asistanı! Anlık yanıtlar o kadar isabetli ki, ekibim gece yarısı çalıştığımı sandı.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "ariaLabel": "Fiyatlandırma",
+    "eyebrow": "Fiyatlandırma",
+    "heading": "Basit fiyatlandırma, güçlü gelen kutusu",
+    "subheading": "Ücretsiz başlayın, istediğiniz zaman yükseltin. İstediğiniz zaman iptal edin.",
+    "billingLegend": "Faturalama ritmi",
+    "billingAnnual": "Yıllık",
+    "billingMonthly": "Aylık",
+    "savingsTag": "%33 tasarruf edin",
+    "priceCadence": "/ay",
+    "perUserSuffix": "/kullanıcı",
+    "annualBillingSuffix": "(yıllık olarak faturalandırılır)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Stripe aracılığıyla güvenli ödeme.",
+      "İstediğiniz zaman iptal edebilirsiniz."
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "name": "Temel",
+        "description": "Daha akıllı bir e-posta kutusunun nasıl bir his verdiğini merak eden herkes için. Herhangi bir taahhüt gerektirmez.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "Anlık Özetler",
+            "description": "Herhangi bir konunun özünü kavrayın."
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "AI Taslaklar",
+            "description": "Ses tonunuzdaki cevapların bir tadı"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "Akıllı Gelen Kutusu",
+            "description": "Başlangıç ​​için temel organizasyon"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "Duet Asistan",
+            "description": "AI asistanını deneyin"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Gmail veya Outlook'ı seçin."
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "14 günlük ücretsiz deneme",
+        "description": "Daha gelişmiş otomasyon, entegrasyonlar ve çalışma şeklinizi gerçekten bilen bir gelen kutusu isteyen profesyoneller için.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "Akıllı Gelen Kutusu",
+            "description": "E-postalar otomatik olarak akıllı kategorilere ayrıldı.",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "AI Taslaklar",
+            "description": "Yanıtlar sizin sesinizle yazılmış, göndermeye hazır.",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "Duet Asistan",
+            "description": "Aramak, taslak oluşturmak, düzenlemek ve daha fazlası için sohbet edin",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "Takvim Entegrasyonu",
+            "description": "Etkinlikleri e-posta kutunuzdan planlayın, görüntüleyin ve yönetin."
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "Anlık Özetler",
+            "description": "Herhangi bir konu başlığının veya ekteki içeriğin özünü kavrayın."
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Akıllı Hatırlatıcılar",
+            "description": "Takip işlemleri otomatik olarak ortaya çıkar, böylece hiçbir şey gözden kaçmaz."
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "Öncelikli Destek",
+            "description": "Gerçek insanlar, hızlı yanıtlar"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Gmail veya Outlook'ı seçin.",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "Girişim",
+        "description": "Kurumsal ölçekte kapasiteye, özel desteğe ve özel iş akışlarına ihtiyaç duyan kuruluşlar için idealdir. 50'den fazla kişiden oluşan ekipler için mükemmeldir.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,146 +450,146 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Pro'daki her şey",
+            "description": "Tüm özellikler dahildir."
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Özel Destek",
+            "description": "Kişisel hesap yöneticisi"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "Takım Analitiği",
+            "description": "Kuruluşunuz genelinde içgörüler"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Paylaşılan İş Akışları",
+            "description": "Takımlar için şablonlar ve otomasyonlar"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Satış ekibiyle iletişime geçin.",
+        "ctaNote": "Özel fiyatlandırma seçenekleri mevcuttur."
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
-    "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "ariaLabel": "Sıkça sorulan sorular",
+    "eyebrow": "SSS",
+    "headingPrefix": "Sıkça sorulan sorular,",
+    "headingAccent": "cevaplandı",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
-    "footerBrand": "DUET MAIL",
-    "footerLabel": "FAQ",
+    "contactLabel": "TEMAS ETMEK",
+    "contactHeading": "Hâlâ sorularınız mı var?",
+    "contactCta": "İletişime geçin →",
+    "footerBrand": "DÜET POSTA",
+    "footerLabel": "SSS",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail e-posta verilerimi nasıl koruyor?",
+        "answer": "Güvenliğiniz bizim önceliğimizdir. Hem Google hem de Microsoft ile güvenli kimlik doğrulama için OAuth 2.0 kullanıyoruz. E-posta içeriği, istemci tarafı alan düzeyinde şifreleme kullanılarak bekleme durumundayken şifrelenir ve API erişimi için en az ayrıcalık ilkesini izliyoruz. Google entegrasyonumuz için, Google'ün yıllık CASA güvenlik değerlendirmesinden geçiyoruz."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "E-posta özetleme özelliği nasıl çalışır?",
+        "answer": "Duet Mail, e-posta yazışmalarınızı analiz etmek ve önemli noktaları, kararları ve eylem maddelerini vurgulayan özlü bir özet oluşturmak için gelişmiş AI özelliğini kullanır. Bu, tüm yazışmaları okumadan bağlamı hızlıca anlamanıza yardımcı olur."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail hangi izinlere ihtiyaç duyuyor?",
+        "answer": "Duet Mail, özetler sunmak, eylem öğelerini çıkarmak, içerik oluşturmak ve e-postalarınızı göndermek için e-postalarınıza erişim gerektirir. Yalnızca kesinlikle ihtiyaç duyduğumuz izinleri talep ediyoruz. Bu izinleri istediğiniz zaman Google Account veya Microsoft Account ayarlarınızda inceleyebilir ve iptal edebilirsiniz."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Ücretsiz deneme sürümüne neler dahildir?",
+        "answer": "14 günlük ücretsiz deneme sürümü, tüm Pro özelliklerine tam erişim içerir: sınırsız e-posta özetleri, eylem öğesi çıkarma, AI e-posta yazıcısı (sınırsız e-posta ve taslak oluşturma) ve özel e-posta şablonları. E-posta yönetiminde zamandan tasarruf etmeye başlamak için Google veya Microsoft ile giriş yapın."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Duet Mail ifadesini diğer e-posta sağlayıcılarıyla da kullanabilir miyim?",
+        "answer": "Duet Mail, Gmail, Google Workspace ve Microsoft Outlook sürümlerini desteklemektedir. Başlamak için Google veya Microsoft hesabınızla giriş yapın."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Başlayın",
+    "headline": "Haftada 4 saat kazanın.\n\nHer hafta.",
+    "subline": "Güne karmaşayla değil, netlikle başlayan profesyonellere katılın. Ücretsiz deneme sürümünüz sizi bekliyor.",
+    "primaryCta": "Gmail ile başlayın.",
+    "secondaryCta": "Outlook ile başlayın.",
+    "note": "14 günlük ücretsiz deneme · İstediğiniz zaman iptal edebilirsiniz",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Google CASA-değerlendirildi",
+      "Veriler bekleme durumundayken şifrelenmiştir.",
+      "Güvenli OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "Site altbilgisi",
+    "brandIconAlt": "Duet Mail simgesi",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — Her hafta size saatler kazandıran AI E-posta Asistanı",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Keşfetmek",
         "links": [
           {
-            "label": "Organization",
-            "href": "/tr#organization"
+            "label": "Organizasyon",
+            "href": "/tr/#organization"
           },
           {
-            "label": "Drafting",
-            "href": "/tr#drafting"
+            "label": "Taslak hazırlama",
+            "href": "/tr/#drafting"
           },
           {
-            "label": "Intelligence",
-            "href": "/tr#intelligence"
+            "label": "İstihbarat",
+            "href": "/tr/#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Chrome Uzantısı",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "Müşteriler",
         "links": [
           {
-            "label": "Pricing",
-            "href": "/tr#pricing"
+            "label": "Fiyatlandırma",
+            "href": "/tr/#pricing"
           },
           {
-            "label": "Testimonials",
-            "href": "/tr#testimonials"
+            "label": "Müşteri Yorumları",
+            "href": "/tr/#testimonials"
           },
           {
-            "label": "FAQ",
-            "href": "/tr#faq"
+            "label": "SSS",
+            "href": "/tr/#faq"
           }
         ]
       },
       {
-        "title": "Legal",
+        "title": "Yasal",
         "links": [
           {
-            "label": "Privacy",
+            "label": "Mahremiyet",
             "href": "/tr/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Şartlar",
             "href": "/tr/terms"
           },
           {
-            "label": "Cookies",
+            "label": "Çerezler",
             "href": "/tr/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Yasal Uyarı",
             "href": "/tr/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "Bağlamak",
         "links": [
           {
             "label": "Blog",
@@ -621,42 +620,42 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
+    "ariaLabel": "yatırım getirisi",
+    "label": "Matematik",
+    "narrativeTemplate": "{pricePerBooking}'da {bookingUnit} başına, yavaş yanıtlar nedeniyle sadece {lostPerMonth} kaybediliyor =",
+    "lossSuffix": "/mo gitti",
     "dividerLabel": "vs",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - AI Gmail ve Outlook için E-posta Yardımcısı",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Müşteri Desteği",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
+    "softwareDescription": "AI, Gmail ve Outlook için e-postaları otomatik olarak özetleyen, yanıt taslaklarını sizin sesinizle hazırlayan ve gelen kutunuzu düzenleyerek her hafta saatlerce zamandan tasarruf etmenizi sağlayan bir e-posta asistanıdır.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Akıllı e-posta organizasyonu ve kategorizasyonu",
+      "AI destekli, kendi sesinizle e-posta taslağı oluşturma",
+      "Takvim entegrasyonlu akıllı e-posta asistanı",
+      "Otomatik e-posta özetleri ve yapılacak işler",
+      "Takip işlemleri için akıllı hatırlatıcılar"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Temel Plan",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Anında özetler, taslaklar ve akıllı gelen kutusu içeren ücretsiz plan."
       },
       {
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "Akıllı gelen kutusu kategorizasyonu, taslaklar, asistan ve takvim entegrasyonu ile tam erişim."
       }
     ],
     "aggregateRating": {
@@ -664,9 +663,9 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "JavaScript gerektirir. Gmail, Google Workspace ve Microsoft Outlook ile çalışır.",
     "urls": {
-      "site": "https://duetmail.com/tr",
+      "site": "https://duetmail.com/",
       "logo": "https://duetmail.com/favicon.svg",
       "screenshot": "https://duetmail.com/og.jpg",
       "sameAs": [
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail e-posta verilerimi nasıl koruyor?",
+        "answer": "Güvenliğiniz bizim önceliğimizdir. Hem Google hem de Microsoft ile güvenli kimlik doğrulama için OAuth 2.0 kullanıyoruz. E-posta içeriği, istemci tarafı alan düzeyinde şifreleme kullanılarak bekleme durumundayken şifrelenir ve API erişimi için en az ayrıcalık ilkesini izliyoruz. Google entegrasyonumuz için, Google'ün yıllık CASA güvenlik değerlendirmesinden geçiyoruz."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "E-posta özetleme özelliği nasıl çalışır?",
+        "answer": "Duet Mail, e-posta yazışmalarınızı analiz etmek ve önemli noktaları, kararları ve eylem maddelerini vurgulayan özlü bir özet oluşturmak için gelişmiş AI özelliğini kullanır. Bu, tüm yazışmaları okumadan bağlamı hızlıca anlamanıza yardımcı olur."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail hangi izinlere ihtiyaç duyuyor?",
+        "answer": "Duet Mail, özetler sunmak, eylem öğelerini çıkarmak, içerik oluşturmak ve e-postalarınızı göndermek için e-postalarınıza erişim gerektirir. Yalnızca kesinlikle ihtiyaç duyduğumuz izinleri talep ediyoruz. Bu izinleri istediğiniz zaman Google Account veya Microsoft Account ayarlarınızda inceleyebilir ve iptal edebilirsiniz."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Ücretsiz deneme sürümüne neler dahildir?",
+        "answer": "14 günlük ücretsiz deneme sürümü, tüm Pro özelliklerine tam erişim içerir: sınırsız e-posta özetleri, eylem öğesi çıkarma, AI e-posta yazıcısı (sınırsız e-posta ve taslak oluşturma) ve özel e-posta şablonları. E-posta yönetiminde zamandan tasarruf etmeye başlamak için Google veya Microsoft ile giriş yapın."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Duet Mail ifadesini diğer e-posta sağlayıcılarıyla da kullanabilir miyim?",
+        "answer": "Duet Mail, Gmail, Google Workspace ve Microsoft Outlook sürümlerini desteklemektedir. Başlamak için Google veya Microsoft hesabınızla giriş yapın."
       }
     ]
   }

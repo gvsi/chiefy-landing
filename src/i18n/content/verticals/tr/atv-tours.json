@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail ATV ve UTV Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, ATV ve UTV tur rehberlerinin rezervasyon e-postalarına anında, hatta yolda bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, gereksinimleriniz ve ses tonunuzla birlikte gelir.",
+  "heroBadge": "200'den fazla tur rehberi tarafından güvenilen",
+  "heroHeadline": "Yolda olduğunuz süre boyunca e-posta asistanınız",
+  "heroSubline": "Duet tur türlerinizi, fiyatlandırmanızı ve yolcu gereksinimlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "Cumartesi günü 4 makine için müsaitlik var mı?",
+      "preview": "Merhaba! Cumartesi günü rehberli ATV turuna katılmak isteyen 4 kişilik bir grubuz. Yeriniz var mı? ATV başına fiyat nedir?",
+      "pill": "Yanıtlamak için",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "Sigorta şartları nelerdir?",
+      "preview": "Merhaba, kendi UTV'lerimizi getiriyoruz. Sorumluluk sigortası belgesi göstermemiz gerekiyor mu? Ne tür bir sigorta kapsamına ihtiyacınız var...?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
-      "from": "The Hendersons",
+      "from": "Hendersonlar",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "Yeni başlayanlar için hangi parkur uygun?",
+      "preview": "Daha önce hiç ATV kullanmadık. İki genci olan bir aile için hangi tur rotasını önerirsiniz? ATV hizmeti sağlıyor musunuz...?",
+      "pill": "Rezervasyon",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "Merhaba Rachel! Cumartesi müsait ve 4 makineyi rahatlıkla alabiliriz. Turlar makine başına $200 ve yaklaşık 6-8 saat sürüyor. Saat 9'da parkurun başlangıç ​​noktasında buluşuyoruz - onaylandıktan sonra yol tarifini göndereceğim. Kask ve gözlük sağlanıyor. Sizi kilit altına almamı ister misiniz?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "grup (4 makine)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Kaydedilen tek bir grup rezervasyonu, Duet'ın bir yıllık ücretini karşılar."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon taleplerini, sonra sigorta sorularını ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan grup sorgularını kaçırma derdine son.",
+  "draftSubtitle": "Duet tur rotalarınızı, fiyatlandırmanızı ve sürücü gereksinimlerinizi öğrenir. Bir rezervasyon talebi geldiğinde, gezi detayları, fiyatlandırma ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta sonu için rezervasyon yaptırmış grup var mı?\" \"Cumartesi müsaitliğiyle ilgili olarak Rachel'a bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "Cumartesi günü 4 makine için müsaitlik var mı?",
+      "preview": "Dört kişilik bir grup olarak rehberli ATV turu rezervasyonu yaptırmak istiyoruz...",
+      "pill": "Şimdi Yanıt Verin",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Konu: Rezervasyon onaylandı — Cumartesi sabah 9",
+      "pill": "Rezervasyon yapıldı",
       "pillColor": "blue"
     },
     {
-      "from": "The Hendersons",
+      "from": "Hendersonlar",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "Yürüyüş parkurunda ne giymeliyiz?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
-      "from": "Yelp for Business",
+      "from": "Yelp İşletmeler için",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
-      "pill": "FYI",
+      "subject": "Haftalık iş dünyası güncellemeniz",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     },
     {
-      "from": "Rocky Mountain ATV",
+      "from": "Kayalık Dağ ATV'si",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "Bahar indirimleri — Parçalarda %25 indirim",
+      "pill": "Promosyonlar",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Konu: Cumartesi günü 4 makine için müsaitlik durumu?",
+    "originalFrom": "Rachel W. şunları yazdı:",
+    "originalText": "Merhaba! Cumartesi günü rehberli ATV turuna katılmak isteyen 4 kişilik bir grubuz. Yeriniz var mı? ATV başına fiyat nedir?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Merhaba Rachel!",
+      "Cumartesi günü 4 makine için tamamen müsait. Turlar makine başına $200 olup, başlangıç ​​noktasından saat 9:00'da başlayarak 6-8 saat sürmektedir.",
+      "Kask ve gözlük temin edilecektir; sadece uzun pantolon, kapalı ayakkabı giyin ve yanınızda su ve güneş kremi getirin. Onaylandıktan sonra buluşma noktasını ve yol tarifini göndereceğim.",
+      "Seni içeri kilitlememi ister misin?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Cumartesi günü 4 makine için tamamen müsait. Turlar makine başına $200 ücretlidir.",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Fiyatlandırmanızı ve tur rotalarınızı biliyor.",
+      "Sesinizdeki taslaklar",
+      "Sürücü gereksinimlerini otomatik olarak içerir.",
+      "Zamanla öğrenir."
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "Bu hafta sonu için grup rezervasyonu yapılmış mı?",
+    "agentResponse": "Gelen kutunuza göre, Cumartesi sabah 9'da 6 kişilik bir grup ve Pazar sabahı için de birkaç kişi rezervasyonu yapılmış. Cumartesi ve Pazar öğleden sonraları hala müsait. Bu müsaitlik durumlarıyla ilgili bekleyen sorulara yanıt taslağı hazırlamamı ister misiniz?",
+    "followUp": "Rachel'a cumartesi günü müsaitliğimi belirten bir yanıt taslağı gönderin.",
+    "followUpResponse": "Tamam! Rachel'a Cumartesi günü $200 adresinde her biri 4 makine için buluşmayı teyit eden bir yanıt taslağı hazırladım. Standart buluşma yeri, ekipman bilgileri ve ne giyeceğiniz de dahil. Gözden geçirmeye ve göndermeye hazır."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "Tur rehberleri ve operatörleri tarafından çok seviliyor.",
   "testimonials": [
     {
       "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "title": "ATV Rehberi, Güney Utah",
+      "quote": "Cep telefonu çekmeyen kanyonlarda 8 saatlik turlar düzenliyorum. Geri döndüğümde, rezervasyon e-postalarımın yarısı artık cevapsız kalmış oluyor. Duet fiyatlandırma ve rota bilgileriyle birlikte yanıt taslaklarını hazırlıyor; ben de gün sonunda bunları inceliyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "title": "UTV Tur Operatörü, Colorado",
+      "quote": "Haftanın 7 günü turlar düzenliyoruz ve sadece sigorta ve feragatname soruları bile sabahlarımı tüketiyordu. Duet bunların hepsini hallediyor - sürücü gereksinimleri, yaş sınırlamaları, ne getirilmesi gerektiği. Tam da bana benziyor.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "title": "Moab'da Jeep Tur Rehberi",
+      "quote": "İnsanlar hangi parkurun grupları için uygun olduğunu, hangi deneyim seviyesine ihtiyaç duyduklarını, çocukların binip binemeyeceğini soran e-postalar gönderiyorlar. Sürekli aynı 5 soru. Duet bunların hepsine mükemmel bir şekilde cevap veriyor.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
-      "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "title": "Arazi Maceraları, AZ",
+      "quote": "Her gece aynı müsaitlik sorularını yanıtlamak için bir saatten fazla zaman harcıyordum. Şimdi Duet ben yürüyüşteyken yanıt taslaklarını hazırlıyor. Yanıt sürem saatlerden dakikalara indi.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
-      "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "title": "Aile ATV Turları, Sedona",
+      "quote": "Birçok aile bize başlangıç ​​seviyesi parkurları ve yaş sınırları hakkında sorular soruyor. Duet tüm tur seçeneklerimizi öğrendi ve her yanıtında doğru olanı öneriyor. Müşteriler aradaki farkı anlayamıyor.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "En yoğun sezonu patikalarda geçirin,\ne-posta kutunuzda değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Duet sigorta ve feragatname sorularıyla ilgileniyor mu?",
+      "answer": "Evet. Duet, sürücü gereksinimlerinizi öğrenir: sorumluluk sigortası, yaş sınırlamaları, feragatname detayları, sürücülerin yanlarında getirmeleri gerekenler. Birisi tur öncesinde neye ihtiyaç duyduklarını soran bir e-posta gönderdiğinde, Duet tüm ayrıntıları içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönder düğmesine basarsınız."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Bütün gün yoldayım ve hiç telefon çekmiyor. Duet nasıl yardımcı olabilir?",
+      "answer": "İşte rehberlerin Duet'ı sevmesinin tam nedeni bu. Sinyal olmayan 6-8 saatlik bir turda rehberlik ederken, rezervasyon talepleri birikiyor. Duet bunların her birine taslak yanıtlar hazırlıyor - fiyatlandırma, müsaitlik, buluşma yeri, ne giyileceği. Geri döndüğünüzde taslakları gözden geçirip gönderiyorsunuz. Çoğu rehber bize bunun yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladığını söylüyor."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "$200/makinesinde, kaydedilen 4 kişilik bir grup, Pro'in bir yıldan fazla süren masrafını karşılıyor."
 }

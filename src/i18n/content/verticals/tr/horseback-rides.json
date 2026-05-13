@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail Atlı Geziler ve Patika Rehberleri için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, atlı gezi operatörlerinin rezervasyon e-postalarına anında, hatta at sırtındayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, binici gereksinimleriniz ve ses tonunuzla birlikte gelir.",
+  "heroBadge": "300'den fazla doğa yürüyüşü rehberi tarafından güvenilen marka.",
+  "heroHeadline": "Yolda olduğunuz süre boyunca e-posta asistanınız",
+  "heroSubline": "Duet sürüş türlerinizi, fiyatlandırmanızı, sürücü gereksinimlerinizi ve parkur koşullarını öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "6 kişilik grup rezervasyonu — Cumartesi sabahı?",
+      "preview": "Merhaba! 6 kişilik bir aileyiz (2 yetişkin, 8-14 yaş arası 4 çocuk) ve bu Cumartesi sabahı bir atlı gezintiye çıkmak istiyoruz. Müsaitliğiniz var mı? Kişi başı fiyat nedir?",
+      "pill": "Yanıtlamak için",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Ağırlık sınırı sorusu",
+      "preview": "Merhaba, araç kiralama hizmeti almak istiyorum ancak öncelikle ağırlık gereksinimleriniz hakkında bilgi almak istedim. Yaklaşık 118 kg ağırlığındayım, bu bir sorun teşkil eder mi?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "Amy ve Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Yıldönümü için gün batımı turu mu?",
+      "preview": "Gelecek hafta sonu 10. yıl dönümümüzü kutluyoruz ve Instagram'daki gün batımı turunuzu gördük. Cuma akşamı müsait mi? Özel paketleriniz var mı?",
+      "pill": "Rezervasyon",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Merhaba Jessica! Cumartesi sabahı 6 kişilik kontenjanımız var. Atlı turlarımız kişi başı 0,5 ABD doları ve vadide yaklaşık 90 dakika sürüyor. 8 yaş ve üzeri çocuklar katılabilir, tüm çocuklarınız da gelebilir. Kapalı ayakkabı giymek zorunludur ve kaskları biz sağlıyoruz. Sizi sabah 9'daki tura kaydetmemi ister misiniz?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "sürmek",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Bir grup sürüşünden elde edilen tasarruf, iki yıldan fazla süren Duet masrafını karşılıyor."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra sürücü sorularını ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan grup sorularını kaçırma derdine son.",
+  "draftSubtitle": "Duet sürüş türlerinizi, fiyatlandırmayı ve gereksinimlerinizi öğrenir. Bir rezervasyon talebi geldiğinde, parkur detayları, fiyatlandırma ve ne giyileceğiyle ilgili eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta sonu müsait olan var mı?\" \"Cumartesi müsaitliğiyle ilgili olarak Jessica'ya bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "6 kişilik grup rezervasyonu — Cumartesi sabahı?",
+      "preview": "Altı kişilik bir aile olarak atlı gezi rezervasyonu yaptırmak istiyoruz...",
+      "pill": "Şimdi Yanıt Verin",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Konu: Gün batımı turu onaylandı — Cuma 17:30",
+      "pill": "Rezervasyon yapıldı",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Ağırlık sınırı ve deneyim şartları nelerdir?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Haftalık rezervasyon özetiniz",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "Traktör Tedarik",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Bahar indirimi — yem ve ekipmanlarda %15 indirim",
+      "pill": "Promosyonlar",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Konu: Cumartesi sabahı için 6 kişilik grup rezervasyonu?",
+    "originalFrom": "Jessica T. şöyle yazdı:",
+    "originalText": "Merhaba! 6 kişilik bir aileyiz (2 yetişkin, 8-14 yaş arası 4 çocuk) ve bu Cumartesi sabahı bir atlı gezintiye çıkmak istiyoruz. Müsaitliğiniz var mı? Kişi başı fiyat nedir?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Merhaba Jessica!",
+      "Cumartesi sabahı saat 6 için müsait. Atlı geziler kişi başı $100 olup vadide yaklaşık 90 dakika sürmektedir. 8 yaş ve üzeri çocuklar da katılabilir, yani tüm ekibiniz hazır.",
+      "Kapalı burunlu ayakkabılar zorunludur; botlar en iyisidir. Kask sağlıyoruz ve her biniciyi boyutuna ve deneyimine göre bir ata eşleştiriyoruz. Daha önce binicilik deneyimi gerekmez.",
+      "Sabah 9'daki yolculuk için seni kilitlememi ister misin?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "Cumartesi sabahı saat 6 için tamamen müsait. Atlı geziler kişi başı $100.",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Fiyatlandırmanızı ve müsaitlik durumunuzu biliyor.",
+      "Sesinizdeki taslaklar",
+      "Sürücü gereksinimlerini otomatik olarak içerir.",
+      "Zamanla öğrenir."
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Bu hafta sonu açık olan eğlence parkı var mı? Ayrıca, hava nasıl olacak?",
+    "agentResponse": "Takviminize göre, Cumartesi günü saat 9:00 ve 14:00'te, Pazar günü ise saat 10:00'da müsaitlikleriniz var. Cumartesi günü hava tahmini 22°C ve güneşli; mükemmel bir sürüş havası. Pazar günü öğleden sonra yağmur yağma olasılığı %40, bu nedenle sabah saatleri daha güvenli bir seçenek. Bu saatleri kullanarak bekleyen sorulara yanıt taslağı hazırlamamı ister misiniz?",
+    "followUp": "Jessica'ya cumartesi günü müsaitliğinizi belirten bir yanıt taslağı gönderin.",
+    "followUpResponse": "Tamam! Jessica'ya Cumartesi sabah 9'da $100/kişi ücretiyle 6 kişi için buluşmayı teyit eden bir yanıt taslağı hazırladım. Standart binici gereksinimlerinizi ve ne giyeceğinizi içeriyor. Gözden geçirmeye ve göndermeye hazır."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Atlı tur operatörleri tarafından çok seviliyor.",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "Çiftlik Sahibi ve Patika Rehberi, MT",
+      "quote": "Günde 6 saat boyunca cep telefonu çekmeyen yollardayım. Cevap vermek için geri döndüğümde, insanların yarısı başka bir yere rezervasyon yaptırmıştı bile. Şimdi Duet fiyatlandırma ve sürüş detaylarımla birlikte yanıt taslaklarını hazırlıyor; ben de ahıra döndüğümde gözden geçirip gönderiyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "title": "Atlı Tur Operatörü, Arizona",
+      "quote": "Aynı şeyi soran düzinelerce e-posta alıyoruz - ağırlık sınırları, ne giyileceği, yaş şartları. Duet bunların hepsini hallediyor ve yanıtlar tıpkı benim gibi geliyor. Misafirlerim bunun AI olduğunu bilmiyorlar bile.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "Atlı Gezi Rehberi, CO",
+      "quote": "Yoğun sezon beni mahvediyordu. Günde 30'dan fazla e-postaya cevap vermenin yanı sıra, turlar da düzenliyordum. Duet rezervasyon taleplerini gereksiz olanlardan ayırıyor ve her şeyi içeren yanıtlar hazırlıyor - fiyatlandırma, ne getirilmesi gerektiği, her şey. Akşamlarımı geri kazandım.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "Binicilik Eğitmeni ve Rezervasyon Yöneticisi, Teksas",
+      "quote": "Gün batımı turları, sabah turları ve özel dersler düzenliyoruz; her birinin fiyatlandırması ve gereksinimleri farklı. Duet bunların hepsini bir haftada öğrendi. Her seferinde doğru tur türü için doğru cevabı hazırlıyor.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "title": "Aile Çiftliği ve Atlı Geziler, Kaliforniya",
+      "quote": "Hassas konularla ilgili e-postalar en kötüsüydü; biri çok ağır olup olmadığını veya çocuğunun yeterince büyük olup olmadığını soruyordu. Duet bu tür e-postaları da benim gibi özenle ele alıyor. Profesyonel, nazik ve doğru. Sadece bu bile yeterli.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Günü atlarla geçirin,\ne-posta kutunuzda değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Duet, kilo veya deneyim gereksinimleriyle ilgili hassas soruları nasıl ele alıyor?",
+      "answer": "Duet, sizin özel politikalarınızı öğrenir ve sizin üslubunuzu yansıtır. Birisi ağırlık sınırları veya deneyim gereksinimleri hakkında soru sorduğunda, profesyonel ve sıcak bir şekilde yanıt verir; ihtiyaç duydukları bilgiyi garip bir durum yaratmadan paylaşır. Siz bir kez üslubu belirlersiniz ve Duet bunu tutarlı bir şekilde takip eder, böylece her misafir saygı gördüğünü hisseder."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Duet farklı sürücü ihtiyaçlarına sahip grup rezervasyonlarını yönetebilir mi?",
+      "answer": "Evet. Duet sürüş türlerinizi, grup büyüklüklerinizi, yaş sınırlarınızı ve her bir yolcuya özel gereksinimlerinizi öğrenir. Bir aile veya grup rezervasyon için e-posta gönderdiğinde, tüm grup için fiyatlandırmayı, her bir yolcunun bilmesi gerekenleri ve müsait zaman dilimlerini kapsayan bir yanıt taslağı oluşturur. Siz incelersiniz ve gönderirsiniz; karşılıklı yazışma gerekmez."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "6 kişilik bir grup için kişi başı $100 fiyatıyla, bir yolculuk tasarrufu iki yıldan fazla Pro ücretini karşılıyor."
 }

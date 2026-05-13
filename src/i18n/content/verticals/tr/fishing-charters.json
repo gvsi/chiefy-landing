@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail Balıkçılık Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, balıkçılık turu kaptanlarının rezervasyon e-postalarına anında, hatta sudayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, politikalarınız ve ses tonunuzla birlikte gelir.",
+  "heroBadge": "500'den fazla tekne kaptanı tarafından güvenilen",
+  "heroHeadline": "Denizde olduğunuz süre boyunca e-posta asistanınız.",
+  "heroSubline": "Duet fiyatlandırmanızı, politikalarınızı ve ses tonunuzu öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "12 Temmuz için 4 kişilik yer mevcut mu?",
+      "preview": "Merhaba! 12 Temmuz'da balık tutma gezisi rezervasyonu yaptırmak isteyen 4 kişilik bir grubuz. Müsaitliğiniz var mı? Tam gün için fiyat nedir?",
+      "pill": "Yanıtlamak için",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Yanımızda ne getirmeliyiz?",
+      "preview": "Merhaba, Cumartesi için rezervasyon yaptırdık. Kısa bir sorum var: Ne getirmeliyiz? Olta ve ekipman sağlıyor musunuz yoksa kendi ekipmanlarımızı mı getirmeliyiz?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "Mike ve Lisa R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Pazar gününe ertelememiz gerekiyor.",
+      "preview": "Geç haber verdiğim için özür dilerim ama cumartesi günü hava tahminleri kötü görünüyor. Pazar gününe alabilir miyiz? Saat aynı olsun...",
+      "pill": "Rezervasyon",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Merhaba Sarah! 12 Temmuz'da 4 kişilik yerimiz var. Tam gün süren turlar 8 saat sürüyor ve sabah 6'da başlıyor. Tüm olta takımları, yemler ve lisanslar dahil; sadece güneş kremi, su ve yakaladığınız balıklar için bir soğutucu getirmeniz yeterli. Rezervasyonu kesinleştirmemi ister misin?",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "tüzük",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "Kaydedilen tek bir rezervasyon, Duet'ın bir yıllık ücretini karşılar."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra soruları ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan bir seyahat sorgusunu kaçırma derdine son.",
+  "draftSubtitle": "Duet fiyatlandırmanızı, politikalarınızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, seyahat detayları, fiyatlandırma ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Gelecek hafta hangi günler müsait?\" \"Sarah'ya müsaitlik durumunuzu belirten bir yanıt taslağı yazın.\" Duet gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "12 Temmuz için 4 kişilik yer mevcut mu?",
+      "preview": "Dört kişilik bir grup olarak balık avı gezisi rezervasyonu yaptırmak istiyoruz...",
+      "pill": "Şimdi Yanıt Verin",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Konu: Rezervasyon onaylandı — Cumartesi sabah 7",
+      "pill": "Rezervasyon yapıldı",
       "pillColor": "blue"
     },
     {
       "from": "Mike R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Cumartesi günü yanımızda ne getirmeliyiz?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
       "from": "FishingBooker",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Haftalık rezervasyon özetiniz",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     },
     {
-      "from": "West Marine",
+      "from": "Batı Denizciliği",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "Bahar indirimi — Balıkçılık malzemelerinde %20 indirim",
+      "pill": "Promosyonlar",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Konu: 12 Temmuz için 4 kişilik yer müsaitliği?",
+    "originalFrom": "Sarah M. şöyle yazdı:",
+    "originalText": "Merhaba! 12 Temmuz'da balık tutma gezisi rezervasyonu yaptırmak isteyen 4 kişilik bir grubuz. Müsaitliğiniz var mı? Tam gün için fiyat nedir?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "Merhaba Sarah!",
+      "12 Temmuz için 4 kişilik kontenjan tamamen açık. Tam gün süren turlar $500 olup, marinadan sabah 6'da başlayarak 8 saat sürmektedir.",
+      "Tüm ekipman, yem ve balıkçılık lisansları dahildir; sadece güneş kremi ve soğutucu getirmeniz yeterli.",
+      "Kilitlememi ister misin?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "12 Temmuz için 4 kişilik kontenjan tamamen açık. Tam günlük geziler $500",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "Fiyatlandırmanızı ve müsaitlik durumunuzu biliyor.",
+      "Sesinizdeki taslaklar",
+      "Seyahat detaylarını otomatik olarak içerir.",
+      "Zamanla öğrenir."
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Gelecek hafta hangi günler hala açık?",
+    "agentResponse": "Takviminize göre, önümüzdeki hafta Salı, Perşembe ve Cumartesi günleri müsaitliğiniz var. Pazartesi ve Çarşamba günleri ise tamamen dolu (her gün 2 kiralama). Bu tarihlerle ilgili bekleyen sorulara yanıt taslağı hazırlamamı ister misiniz?",
+    "followUp": "Sarah'ya 12 Temmuz'daki müsaitlik durumunu içeren bir yanıt taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Sarah'ya 12 Temmuz'da $500 adresinde 4 misafir için onay içeren bir yanıt taslağı hazırladım. Standart seyahat detaylarınızı ve buluşma yerinizi içeriyor. Gözden geçirmeye ve göndermeye hazır."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Tekne kaptanları tarafından çok seviliyor.",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "Kaptan Mike D.",
+      "title": "Açık Deniz Tekne Kiralama Kaptanı, FL",
+      "quote": "Yoğun sezonda, tekneden yeterince hızlı yanıt veremediğim için haftada 2-3 rezervasyon kaybediyordum. Duet fiyatlandırma ve gezi detaylarımla birlikte yanıt taslaklarını hazırlıyor; ben de balık avı arasında gönder tuşuna basıyorum.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "Sarah ve Tom K.",
+      "title": "Aile Şirketi, Oregon",
+      "quote": "İki teknemiz var ve yaz aylarında e-posta trafiği inanılmaz derecede yoğun oluyor. Duet rezervasyon taleplerini diğerlerinden ayırıyor ve tam olarak bizim tarzımıza uygun yanıtlar hazırlıyor. Gerçekten oyunun kurallarını değiştiriyor.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "title": "Kıyı Balıkçılığı Rehberi, Teksas",
+      "quote": "Her gece aynı müsaitlik sorularını yanıtlamak için bir saat harcıyordum. Şimdi Duet hallediyor. Yanıt sürem saatlerden dakikalara indi ve o zamandan beri hiçbir rezervasyon kaybetmedim.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "title": "Kiralama Ofisi Müdürü, HI",
+      "quote": "4 kaptanın e-postalarını yönetmek tam zamanlı bir işti. Duet her şeyi kategorize ediyor ve doğru tekne, doğru fiyat, doğru kaptan ile yanıt taslakları hazırlıyor. Sanki bir tane daha ben varmış gibi.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Andrea S.",
-      "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "title": "Derin Deniz Kiralama Şirketleri, NC",
+      "quote": "Bir AI'ın balıkçılık turu e-postalarını işleyebileceğinden şüphe duyuyordum. Ancak tur türlerimizi, nelerin dahil olduğunu, hatta iptal politikamızı bile öğrendi. Müşteriler hiçbir fark göremiyor.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Sezonun en yoğun dönemini e-posta kutunuzda değil, suda geçirin.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Duet rezervasyon ve müsaitlik e-postaları için çalışıyor mu?",
+      "answer": "Kesinlikle. Duet seyahat türlerinizi, fiyatlandırmayı, müsaitliği ve politikalarınızı öğrenir. Bir rezervasyon talebi geldiğinde, doğru ayrıntılarla (fiyatlandırma, nelerin dahil olduğu, buluşma yeri, yanınızda getirmeniz gerekenler) eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönder düğmesine basarsınız."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Bütün gün sudayım. Telefonumdan Duet kullanabilir miyim?",
+      "answer": "Evet. Duet, Gmail ve Outlook ile birlikte çalışır, bu nedenle e-postanızın çalıştığı her yerde (telefonunuz dahil) çalışır. Taslaklar otomatik olarak görünür. Yakalamalar arasında, tek dokunuşla gözden geçirip gönderebilirsiniz. Çoğu kaptan, yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladıklarını söylüyor."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "$500/charter adresinde, kaydedilen tek bir rezervasyon Pro'in bir yıldan fazla süren ücretini karşılıyor."
 }

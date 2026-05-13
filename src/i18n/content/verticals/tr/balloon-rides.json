@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail Sıcak Hava Balonu Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail balon pilotlarının rezervasyon e-postalarına anında yanıt vermesine yardımcı olur; hatta gün doğumu uçuşları sırasında bile. AI tarafından hazırlanan yanıtlar fiyatlandırmanız, hava durumu politikalarınız ve ses tonunuzu içerir.",
+  "heroBadge": "200'den fazla balon pilotu tarafından güvenilen bir marka.",
+  "heroHeadline": "Uçaktayken e-posta asistanınız.",
+  "heroSubline": "Duet uçuş programlarınızı, fiyatlandırmanızı ve hava durumu politikalarınızı öğrenir ve ardından gün doğumuyla birlikte kalkış yaparken hiçbir rezervasyonunuzu kaybetmemeniz için e-posta yanıtları taslağı hazırlar.",
   "inboxEmails": [
     {
-      "from": "Rachel & Dan T.",
+      "from": "Rachel ve Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Cumartesi günü için 2 kişilik gün doğumu uçuşu mevcut mu?",
+      "preview": "Merhaba! Eşimle birlikte evlilik yıldönümümüz için ziyarete geliyoruz ve bu Cumartesi gün doğumu balon turuna katılmak istiyoruz. Yeriniz var mı? Kişi başı fiyatı ne kadar?",
+      "pill": "Yanıtlamak için",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "Yarın uçacak mıyız? Rüzgar tahmini olumsuz görünüyor.",
+      "preview": "Yarın sabah için rezervasyonumuz var ancak hava durumu uygulaması saatte 24 kilometreye varan rüzgar gösteriyor. Yine de uçabilir miyiz yoksa yeniden planlamamız mı gerekiyor?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark P.",
+      "from": "Jennifer ve Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "Evlilik teklifi için özel uçak bileti — fiyatı ne kadar?",
+      "preview": "Kız arkadaşıma özel bir balon turuyla sürpriz yapmak ve uçuş sırasında evlenme teklifi etmek istiyorum. Özel bir uçuşun fiyatı ne kadar ve koordinasyon konusunda yardımcı olabilir misiniz?",
+      "pill": "Rezervasyon",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "Ne giyeceğiz? Nerede buluşacağız?",
+      "preview": "Pazar sabahı için rezervasyon yaptırdık. Ne giymeliyiz ve buluşma noktası tam olarak nerede? Ayrıca, tüm etkinlik ne kadar sürüyor...?",
+      "pill": "Soru",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Merhaba Rachel! Cumartesi günü 2 kişilik yerimiz var. Gün doğumu uçuşları sabah 6:15 civarında başlıyor; kesin saati ve buluşma yerini rüzgarlara göre bir önceki akşam teyit edeceğiz. Kişi başı $250 ücreti var ve yaklaşık bir saatlik uçuş süresi ile inişten sonra şampanya kadeh kaldırma törenini içeriyor. Kat kat giyinin ve kapalı ayakkabı giyin. Yerlerinizi ayırtmamı ister misiniz?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "uçuş",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "Bir uçuş bileti tasarrufu, bir yıllık Duet ücretini karşılar."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet, her e-postayı otomatik olarak etiketleyerek önce rezervasyon taleplerini, sonra hava durumu sorularını ve asla gereksiz mesajları görmenizi sağlar. Artık bülten uyarılarının altında kalan uçuş sorgularını kaçırmayacaksınız.",
+  "draftSubtitle": "Duet fiyatlandırmanızı, hava durumu politikalarınızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, uçuş detayları, toplantı bilgileri ve ne giyileceği gibi bilgileri içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Yarınki programda kimler var?\" \"Hava koşulları nedeniyle iptal edilen ve yeniden planlanması gereken bir etkinlik var mı?\" Duet gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Cumartesi günü için 2 kişilik gün doğumu uçuşu mevcut mu?",
+      "preview": "Eşimle birlikte gün doğumu balon turu rezervasyonu yaptırmayı çok isterdik...",
+      "pill": "Şimdi Yanıt Verin",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Konu: Rezervasyon onaylandı — Pazar 06:15",
+      "pill": "Rezervasyon yapıldı",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "Uçuş için ne giymeliyiz?",
+      "pill": "Soru",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "pill": "FYI",
+      "subject": "İlanınız için yeni yorum",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     },
     {
-      "from": "Balloon Federation",
+      "from": "Balon Federasyonu",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
-      "pill": "FYI",
+      "subject": "Mart ayı güvenlik bülteni ve yenileme hatırlatması",
+      "pill": "Bilginize",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Konu: Cumartesi günü için müsait olan 2 kişilik Sunrise uçuşu?",
+    "originalFrom": "Rachel T. şöyle yazdı:",
+    "originalText": "Merhaba! Eşimle birlikte evlilik yıldönümümüz için ziyarete geliyoruz ve bu Cumartesi gün doğumu balon turuna katılmak istiyoruz. Yeriniz var mı? Kişi başı fiyatı ne kadar?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Merhaba Rachel!",
+      "Cumartesi günü 2 kişilik yerimiz tamamen müsait. Gün doğumu uçuşları kişi başı $250 olup, yaklaşık bir saatlik uçuş süresini ve inişten sonra şampanya kadeh kaldırmayı içermektedir.",
+      "Sabah 6:15 civarında yola çıkıyoruz; rüzgar koşullarına bağlı olarak kesin buluşma saatinizi ve yerinizi bir önceki akşam size bildireceğim. Kat kat giyinin ve kapalı ayakkabı giyin.",
+      "Yıldönümünüz kutlu olsun! Yerlerinizi ayırtmamı ister misiniz?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Cumartesi günü 2 kişilik yer tamamen müsait. Gün doğumu uçuşları kişi başı $250.",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Fiyatlandırmanızı ve uçuş programınızı biliyor.",
+      "Sesinizdeki taslaklar",
+      "Toplantı detaylarını otomatik olarak içerir.",
+      "Zamanla öğrenir."
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Yarınki programda kimler var ve hava nasıl olacak?",
+    "agentResponse": "Yarınki gün doğumu uçuşuna 2 rezervasyonda toplam 6 yolcu kaydedildi: Thompson ailesi (4) ve Lee çifti (2). Mevcut hava tahmini, kalkış saatinde 4 mph hızında sakin rüzgarlar ve açık gökyüzü gösteriyor. Henüz iptal e-postası gelmedi. Buluşma noktası onaylarını göndermemi ister misiniz?",
+    "followUp": "Evet, her iki tarafa da sabah 6:15'teki toplantı saatini belirten onay e-postası gönderin.",
+    "followUpResponse": "Tamam! Hem Thompson'lara hem de Lee'lere fırlatma alanında saat 06:15'te buluşma, ne giyecekleri ve yol tarifi içeren buluşma noktası teyitlerini hazırladım. Gözden geçirmeye ve göndermeye hazır."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Balon pilotları ve operatörleri tarafından çok seviliyor.",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "Kaptan Mike L.",
+      "title": "Balon Pilotu, MN",
+      "quote": "Tek kişilik bir operasyonum var — uçuruyorum, mürettebatı yönetiyorum, e-postaları yanıtlıyorum. Ancak sabah 5'te yanıt vermek yerine şişirme işlemi yapıyorum. Duet, \"yarın uçacak mıyız?\" mesajlarına gece boyunca taslak yanıtlar hazırlıyor. Ben uyanıyorum, hava durumunu kontrol ediyorum ve gönder tuşuna basıyorum.",
       "avatarKey": "michael"
     },
     {
-      "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "name": "Shannon ve Jake B.",
+      "title": "Utah'ta Yıl Boyu Balon Turları",
+      "quote": "Her gün aynı 10 soruyu alıyoruz. Ne giyeceğiz, nerede buluşacağız, rüzgarlı olursa ne olacak? Duet bunların hepsini öğrendi ve artık mükemmel cevaplar hazırlıyor. Her gece bir saat süren e-posta yazışmalarından beş dakikaya indik.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "title": "Sunrise Uçuş Operatörü, AZ",
+      "quote": "Yoğun sezon demek haftada 4-6 uçuş demek ve her yolcu uçuş öncesinde en az iki kez e-posta gönderiyor. Duet uçuş öncesi soruları yanıtlıyor, böylece ben de insanlara hayatlarının en güzel sabahını yaşatmaya odaklanabiliyorum.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "Balon Şirketi Ortak Sahibi, NM",
+      "quote": "Hava koşulları nedeniyle iptaller eskiden tüm günümü mahvediyordu; 8 yolcunun her birine ayrı ayrı yeniden planlama e-postaları yazmam gerekiyordu. Şimdi Duet her birine yeniden rezervasyon politikamızı da içeren bir taslak hazırlıyor. Bu sayede iptallerin olduğu sabahlar saatlerce zamandan tasarruf ediyorum.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "title": "Balon Turu İşletmeleri, CO",
+      "quote": "Evlilik teklifi uçuşları çok fazla karşılıklı koordinasyon gerektiriyor. Duet bizim bunları nasıl ele aldığımızı – zamanlamayı, şifreleri, şampanya hazırlığını – fark etti. Benim neredeyse hiç dokunmama gerek kalmadan yanıt taslakları hazırlıyor.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Sabahlarınızı gökyüzünde geçirin,\ne-posta kutunuzda değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Duet hava durumu nedeniyle iptal edilen e-postaları nasıl ele alıyor?",
+      "answer": "Duet iptal ve yeniden rezervasyon politikalarınızı öğrenir. Hava koşulları nedeniyle bir uçuşu iptal ettiğinizde, etkilenen her yolcuya kişiselleştirilmiş yeniden planlama e-postaları taslağı hazırlayabilir; bu e-postalar politikanızı, müsait tarihleri ​​ve üslubunuzu içerir. Siz de gözden geçirip gönderirsiniz. Eskiden bir saat süren bireysel yanıtlar artık dakikalar içinde işleme alınır."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Duet her akşam yağan \"yarın uçacak mıyız?\" e-postalarıyla başa çıkabilir mi?",
+      "answer": "Evet, bu balon operatörlerinin bize en sık anlattığı e-postalardan biri. Duet hava durumu politikalarınızı öğreniyor ve karar verme sürecinizi, nihai kararı ne zaman vereceğinizi ve neler bekleyeceğinizi açıklayan güven verici yanıtlar hazırlıyor. Sabah onayınızı verdikten sonra, listedeki herkese güncellemeler gönderebiliyor."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "Uçuş başına 4 yolcu ile kişi başı $250 fiyatıyla, kaydedilen tek bir rezervasyon Pro'in bir yıldan fazla süren masrafını karşılıyor."
 }
