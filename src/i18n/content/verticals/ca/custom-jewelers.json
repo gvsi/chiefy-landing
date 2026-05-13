@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "Duet Mail per a joiers personalitzats | AI Assistent de correu electrònic\n",
+  "metaDescription": "Duet Mail ajuda els joiers personalitzats a respondre a les sol·licituds de consulta, aprovacions de disseny i preguntes de cronologia a l'instant, fins i tot mentre estan al banc de treball. Respostes redactades per AI amb el vostre procés, preus i veu.\n",
+  "heroBadge": "Amb la confiança de més de 300 dissenyadors de joieria\n",
+  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al banc\n",
+  "heroSubline": "Duet aprèn el procés de disseny, els materials, els preus i les cronologies; després redacta les respostes per correu electrònic perquè no perdis mai un client personalitzat per una resposta lenta.\n",
   "inboxEmails": [
     {
-      "from": "Rachel & David T.",
+      "from": "Rachel i David T.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "Consulta d'anell de compromís personalitzat?\n",
+      "preview": "Hola! La meva parella i jo estem interessats en un anell de compromís personalitzat. Tenim un diamant d'herència familiar que ens agradaria utilitzar. Tens disponibilitat per a una consulta aquest mes?\n",
+      "pill": "Per respondre\n",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "Amanda S.\n",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "Re: Model 3D: podem ajustar la configuració?\n",
+      "preview": "M'encanta el disseny general! Però podríem provar un perfil més baix a l'escenari? Us adjunto una foto de l'estil que estic pensant. A més, canviar a platí canviaria la línia de temps...\n",
+      "pill": "Revisió\n",
       "pillColor": "amber"
     },
     {
-      "from": "James K.",
+      "from": "James K.\n",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
-      "pill": "Status",
+      "subject": "Actualització de la cronologia de les bandes de noces?\n",
+      "preview": "Ei! Només comprovem les nostres bandes de casament a joc. El casament és el 18 de maig i vull assegurar-me que encara anem per bon camí. Pots enviar una actualització ràpida...\n",
+      "pill": "Estat\n",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "El Nus\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Nova ressenya a la teva botiga\n",
+      "preview": "Recentment, una parella ha revisat el vostre negoci a The Knot. Mireu què havien de dir i respondre...\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "Hola Raquel! M'encantaria ajudar-vos a dissenyar un anell al voltant del diamant de la vostra família: aquesta és una de les coses que més m'agraden fer. Tinc obertures els dimarts i dijous a la tarda aquest mes. Porta la pedra i qualsevol foto d'inspiració. Les consultes duren aproximadament una hora i no hi ha cap compromís. Vols que et dediqui una estona?\n",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "peça personalitzada\n",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "Un client desat paga més de quatre anys de Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de consulta noves, les aprovacions de dissenys en segon lloc i mai els butlletins de proveïdors. Ja no us perdeu una consulta de 5.000 dòlars enterrada sota promocions de proveïdors.\n",
+  "draftSubtitle": "Duet aprèn el vostre procés, materials, preus i veu. Quan arriba una sol·licitud de consulta, redacta una resposta completa amb la vostra disponibilitat, què heu de portar i com funciona el vostre procés. Tu revisa i envia.\n",
+  "agentSubtitle": "\"On som amb l'anell de l'Amanda?\" \"Esborra una actualització de la cronologia per a James\". Duet coneix tots els fils del client; només cal que pregunteu.\n",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "Raquel T.\n",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "Consulta d'anell de compromís personalitzat?\n",
+      "preview": "La meva parella i jo estem interessats en un anell personalitzat...\n",
+      "pill": "Nova consulta\n",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "Amanda S.\n",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "Re: model 3D v2: sembla perfecte!\n",
+      "pill": "Aprovació del disseny\n",
       "pillColor": "blue"
     },
     {
-      "from": "James K.",
+      "from": "James K.\n",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "Les bandes estan a punt, quan ho podem recollir?\n",
+      "pill": "A punt per a la recollida\n",
       "pillColor": "amber"
     },
     {
       "from": "Emily W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "Re: Seguiment de la consulta: m'encanten els esbossos\n",
+      "pill": "Consulta\n",
       "pillColor": "amber"
     },
     {
-      "from": "Rio Grande Supply",
+      "from": "Subministrament de Rio Gran\n",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "Rebaixes de primavera: 15% de descompte en peces de platí\n",
+      "pill": "Proveïdor/Proveïdor\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "On som amb l'anell de compromís de l'Amanda?\n",
+    "agentResponse": "L'Amanda va aprovar el model 3D (v2) el 14 de febrer. Vau confirmar l'inici de la producció el 16 de febrer amb una estimació de 3 setmanes. Això s'acaba al voltant del 9 de març. El seu darrer correu electrònic preguntava sobre les opcions de gravat; encara no s'ha contestat. Vols que redacti una resposta?\n",
+    "followUp": "Elabora una actualització de la cronologia per a James sobre les bandes de noces\n",
+    "followUpResponse": "Fet! Vaig redactar una resposta a James confirmant que les seves bandes de noces coincidents estan en acabat i estaran a punt per a la recollida el divendres 7 de març, molt abans del seu casament el 18 de maig. A punt per revisar i enviar.\n"
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "Estimat pels dissenyadors de joieria\n",
   "testimonials": [
     {
-      "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "name": "Marco R.\n",
+      "title": "Dissenyador de joies personalitzades, LA\n",
+      "quote": "Cada peça personalitzada genera entre 10 i 15 correus electrònics durant setmanes. Multipliqui això per 8 clients actius i m'estava ofegant. Duet redacta respostes d'actualització del disseny, confirmacions de consultes, respostes de cronologia, tot a la meva veu. Reviso entre càstings i premeu enviar.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "name": "Sarah L.\n",
+      "title": "Goldsmith & Studio Owner, Brooklyn\n",
+      "quote": "Vaig perdre una comissió d'anell de compromís de 7.000 dòlars perquè vaig trigar 3 dies a respondre: la parella va anar a algú que va respondre en 2 hores. Des de Duet, el meu temps de resposta és inferior a 30 minuts. Això no ha tornat a passar.\n",
       "avatarKey": "sarah"
     },
     {
-      "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "name": "Danny K.\n",
+      "title": "Bench Jeweller, Chicago\n",
+      "quote": "Estic al banc 8 hores al dia amb una torxa a la mà. No puc aturar la soldadura mitjana per escriure una resposta de consulta. Duet ho redacta tot mentre treballo: miro el meu telèfon, aprovo, he fet.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "name": "Alessia M.\n",
+      "title": "Dissenyador de joies de núvia, Austin\n",
+      "quote": "Durant la temporada de compromís, rebo més de 20 sol·licituds de consulta a la setmana. Duet vaig aprendre tot el meu procés: materials, terminis, nivells de preus, què he de portar. Esborra respostes que amb prou feines necessito editar. Salvavides absolut de novembre a febrer.\n",
       "avatarKey": "francesca"
     },
     {
-      "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "name": "Nina C.\n",
+      "title": "Especialista en anell personalitzat, Portland\n",
+      "quote": "Els correus electrònics de revisió 3D solien menjar-me les nits. El client envia comentaris, jo redacto l'actualització, d'anada i tornada cinc vegades. Ara Duet s'encarrega de les respostes rutinàries i només interveno per a les decisions de disseny. Vaig recuperar les nits.\n",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Passeu els vostres dies creant joies,\nno responent correus electrònics al respecte.\n",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.\n",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Duet pot gestionar correus electrònics amb fotos de referència i fitxers adjunts de disseny?\n",
+      "answer": "Sí. Duet veu el fil de correu electrònic complet, inclosos els fitxers adjunts, de manera que entén el context quan un client envia fotos d'inspiració o comentaris de disseny. No descriurà les imatges de nou, però sap que un client acaba d'enviar fotos de referència i redacta una resposta adequada: confirmant la recepció, fent preguntes clarificadores sobre el disseny o proporcionant els passos següents basats en el vostre flux de treball habitual.\n"
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "Els meus projectes personalitzats tenen fils de correu electrònic llargs amb més de 10 missatges. Duet els pot seguir?",
+      "answer": "Aquí és exactament on brilla Duet. Llegeix tot l'historial del fil (notes de consulta, revisions de disseny, eleccions de materials, actualitzacions de cronologia), de manera que cada resposta redactada té un context complet. Quan un client pregunta \"Quin és l'estat del meu anell?\" al correu electrònic núm. 14, Duet sap quin anell, en quina fase es troba i elabora una actualització precisa. No més tornar a llegir 3 mesos de correus electrònics tu mateix.\n"
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "Amb 5.000 dòlars per peça, una comissió estalviada paga més de quatre anys de Pro."
 }

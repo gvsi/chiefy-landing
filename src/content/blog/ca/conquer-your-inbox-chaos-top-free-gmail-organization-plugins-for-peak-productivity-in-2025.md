@@ -1,163 +1,227 @@
 ---
-title: "Conquer Your Inbox Chaos: Top Free Gmail Organization Plugins for Peak Productivity in 2025"
-description: "Tired of Gmail chaos? Discover the top free Gmail organization plugins for 2025 to manage email overload, visualize workflows, and boost productivity."
+title: "Conquereix el teu caos a la safata d'entrada: els millors connectors d'organització Gmail gratuïts per a una productivitat màxima el 2025\n"
+description: "Cansat del caos Gmail? Descobriu els millors complements d'organització Gmail gratuïts per al 2025 per gestionar la sobrecàrrega de correu electrònic, visualitzar els fluxos de treball i augmentar la productivitat.\n"
 publishedAt: 2025-07-27
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Inbox Management"]
+tags: ["AI","Gmail","Productivitat\n","Gestió de la safata d'entrada"]
 draft: false
-translationStatus: bootstrap-en
 ---
 
-Does opening your Gmail feel less like checking messages and more like facing a digital tsunami? That sinking feeling as the unread count climbs is familiar to many. The average office worker now receives a staggering **121 emails every single day**. It's not just you; it's a modern workplace reality.
+Obrir el vostre Gmail és menys com comprovar missatges i més com afrontar un tsunami digital? Aquesta sensació d'enfonsament a mesura que augmenta el recompte no llegit és familiar per a molts. El treballador d'oficina mitjà ara rep un impressionant **121 correus electrònics cada dia**. No ets només tu; és una realitat moderna del lloc de treball.
 
-This constant influx isn't just annoying; it's a significant drain on productivity. Professionals dedicate roughly **28% of their workweek – about 13 hours** – simply reading and responding to emails. Worse still, each email interruption shatters focus. Research shows it takes an average of **64 seconds to fully regain concentration** after checking an email, regardless of its importance. This constant context-switching between your inbox and focused work sabotages deep thinking and amplifies stress. For knowledge workers, busy professionals, freelancers juggling clients, and startup teams wearing multiple hats, this cognitive cost is immense.
 
-While Gmail offers native tools like labels and filters, they often aren't enough to stem the tide. Thankfully, a host of free plugins and extensions can supercharge your Gmail, offering specialized tools to help you visualize workflows, manage tasks, control timing, and declutter your digital space – all without costing a dime. Let's explore some of the best free options to help you regain control and boost your productivity in 2025.
+Aquesta afluència constant no és només molesta; és una pèrdua important de productivitat. Els professionals dediquen aproximadament el **28% de la seva setmana laboral (unes 13 hores**) simplement llegint i responent correus electrònics. Pitjor encara, cada interrupció del correu electrònic trenca el focus. Les investigacions mostren que es necessita una mitjana de **64 segons per recuperar completament la concentració** després de comprovar un correu electrònic, independentment de la seva importància. Aquest canvi de context constant entre la safata d'entrada i el treball centrat saboteja el pensament profund i augmenta l'estrès. Per als treballadors del coneixement, els professionals ocupats, els autònoms que fan malabars amb clients i els equips d'inici que porten diversos barrets, aquest cost cognitiu és immens.
 
-## Beyond Labels & Filters: Why Free Gmail Plugins Are a Productivity Power-Up
 
-Gmail's built-in features – labels, filters, even the AI-powered Priority Inbox – provide a decent foundation for organization. You can tag messages, automatically sort recurring emails, and let Google surface what it _thinks_ is important. For moderate email volume, this might suffice.
+Tot i que Gmail ofereix eines natives com etiquetes i filtres, sovint no són suficients per frenar la marea. Afortunadament, una gran quantitat de connectors i extensions gratuïts poden sobrealimentar el vostre Gmail, oferint eines especialitzades per ajudar-vos a visualitzar els fluxos de treball, gestionar tasques, controlar el temps i desordenar el vostre espai digital, tot sense costar un cèntim. Explorem algunes de les millors opcions gratuïtes per ajudar-vos a recuperar el control i augmentar la vostra productivitat el 2025.
 
-However, for professionals managing high-volume inboxes, multiple complex projects, or diverse client communications, relying solely on native tools quickly becomes overwhelming. Manually applying labels to hundreds of emails, crafting intricate filter rules that constantly need updating, and finding that Priority Inbox still misses crucial items is a common frustration. The sheer time spent _managing_ the system can negate the organizational benefits.
 
-This is where free Gmail plugins and extensions shine. They act as specialized power-ups, integrating directly into your Gmail interface to tackle specific organizational challenges far more effectively than native tools alone. Think of them as adding targeted superpowers – transforming your inbox from a passive repository into an active command center. The widespread availability and use of these tools underscore a clear need among users for capabilities beyond what Gmail offers out-of-the-box, particularly for those whose roles demand high levels of email efficiency.
+## Més enllà d'etiquetes i filtres: per què els connectors Gmail gratuïts són un augment de la productivitat
 
-Before diving in, it's helpful to understand the slight difference: **Add-ons** typically work across platforms (web, mobile Gmail apps) and often appear in the right-hand side panel. **Extensions** are usually browser-specific (most commonly for Chrome) and can modify the Gmail interface more deeply, but generally don't work on mobile apps. Always check compatibility for your needs!
 
-## Top Free Gmail Organization Plugins to Tame Your Inbox in 2025
+Les funcions integrades de Gmail (etiquetes, filtres, fins i tot la safata d'entrada prioritària alimentada per AI) proporcionen una base decent per a l'organització. Podeu etiquetar missatges, ordenar automàticament els correus electrònics recurrents i deixar que Google aparegui allò que _creu_ que és important. Per a un volum de correu electrònic moderat, això podria ser suficient.
 
-We've sifted through the options to highlight some of the most effective, well-regarded, and currently maintained free plugins focused on core organizational needs. Remember: before installing _any_ third-party tool, review the permissions it requests and its privacy policy.
 
-### Sortd: Visualize Your Workflow with Kanban in Gmail
+Tanmateix, per als professionals que gestionen safates d'entrada de gran volum, múltiples projectes complexos o diverses comunicacions amb clients, confiar únicament en eines natives es converteix ràpidament en aclaparador. L'aplicació manual d'etiquetes a centenars de correus electrònics, l'elaboració de regles de filtre complexes que necessiten actualitzar-se constantment i trobar que Priority Inbox encara perd elements crucials és una frustració comuna. El gran temps dedicat a _gestionar_ el sistema pot negar els beneficis organitzatius.
 
-**Concept:** If you're a visual thinker or manage projects heavily reliant on email communication (like sales pipelines or client onboarding), Sortd is compelling. It transforms your standard inbox view into a dynamic, Trello-style Kanban board, allowing you to drag-and-drop emails as tasks into customizable columns.
 
-**Free Plan Features:** The free "Starter" plan provides the core Kanban experience. You can drag emails to turn them into task cards, organize them on a personal board plus one additional custom board, use a day planner view, and set due dates or reminders.
+Aquí és on brillen els complements i extensions Gmail gratuïts. Actuen com a potenciadors especialitzats, integrant-se directament a la vostra interfície Gmail per abordar reptes organitzatius específics amb molta més eficàcia que les eines natives soles. Penseu en ells com afegir superpoders dirigits: transformar la vostra safata d'entrada d'un dipòsit passiu a un centre de comandaments actiu. La disponibilitat i l'ús generalitzats d'aquestes eines subratllen una clara necessitat entre els usuaris de capacitats més enllà del que Gmail ofereix de manera immediata, especialment per a aquells els rols dels quals exigeixen alts nivells d'eficiència del correu electrònic.
 
-**UI/Setup:** Sortd integrates directly into Gmail, offering a toggle between the standard view and its board layout. Setup involves installing the extension and connecting your Gmail account, which users generally find straightforward.
 
-![Sortd plugin interface showing Gmail inbox transformed into a visual Kanban board with drag-and-drop email task cards](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+Abans de submergir-se, és útil entendre la petita diferència: els **complements** solen funcionar en diferents plataformes (web, aplicacions mòbils Gmail) i sovint apareixen al tauler de la dreta. Les **extensions** solen ser específiques del navegador (el més habitual per a Chrome) i poden modificar la interfície Gmail amb més profunditat, però generalment no funcionen a les aplicacions mòbils. Comproveu sempre la compatibilitat segons les vostres necessitats!
 
-**Pros:** Fantastic for visualizing workflow stages and managing email-centric tasks without constantly switching to a separate project management tool. Renaming subject lines and adding notes directly to email-tasks is also useful.
+## Els millors connectors d'organització Gmail gratuïts per domar la vostra safata d'entrada el 2025
 
-**Free Plan Limitations:** The free plan's limitations are significant for ongoing use. You're restricted to just 4 lists per board, a maximum of 50 incomplete tasks across your team (20 per list), and critically, only a **30-day activity history**. This makes tracking progress on anything beyond very short-term tasks difficult. Furthermore, the free plan lacks all team collaboration features (like shared boards or shared mailboxes), custom fields, and offers very limited automation capabilities. The mobile app experience is also reported to be less functional than the desktop version, and you still need to manually drag emails onto boards; there are no automatic filtering options to do this. Essentially, the free plan provides a strong visual taste but is best suited for basic, individual task management derived from recent emails.
 
-### Todoist for Gmail: Turn Emails into Actionable Tasks
+Hem examinat les opcions per destacar alguns dels complements gratuïts més efectius, ben considerats i que es mantenen actualment centrats en les necessitats organitzatives bàsiques. Recordeu: abans d'instal·lar _qualsevol_ eina de tercers, reviseu els permisos que sol·licita i la seva política de privadesa.
 
-**Concept:** For those who live by their to-do list, the Todoist for Gmail integration is a popular choice. It connects Gmail directly to the powerful Todoist task management app, letting you quickly convert actionable emails into tasks within your Todoist system.
 
-**Free Plan Features (Todoist itself):** Todoist's free plan is quite generous for individual use, offering up to 5 active projects, collaboration with up to 5 people per project, core task management (including subtasks), list and Kanban board views, and the ability to use labels and filters (up to 3). The free Gmail integration (available as both an add-on and extension) allows you to click an icon to turn the currently open email into a Todoist task, automatically including a link back to the original email.
+### Sortd: visualitzeu el vostre flux de treball amb Kanban a Gmail
 
-**UI/Setup:** The integration adds a Todoist icon to your Gmail interface (either in the top toolbar or the right-hand side panel). Clicking this opens a small panel where you can quickly add the email as a task. Setup requires installing the add-on/extension and authorizing access to your Todoist account.
 
-![Todoist for Gmail integration panel showing how to convert an email into a task with due date and project selection](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**Concepte:** si sou un pensador visual o gestioneu projectes que depenen molt de la comunicació per correu electrònic (com ara canalitzacions de vendes o incorporació de clients), Sortd és convincent. Transforma la vista estàndard de la safata d'entrada en un tauler Kanban dinàmic d'estil Trello, que us permet arrossegar i deixar anar correus electrònics com a tasques en columnes personalitzables.
 
-**Pros:** Provides a seamless bridge between your communication hub (Gmail) and your task management system (Todoist). Leverages Todoist's excellent features like natural language date input and reliable cross-platform syncing. It's a great way to achieve "inbox zero" by moving actionable items out of the inbox and into a dedicated task list.
 
-**Free Plan Limitations (Todoist & Integration):** The main drawback lies in the limitations of the _free Todoist plan itself_. It restricts you to 5 projects and 5 collaborators, offers only one week of activity history, and, most importantly, **does not include reminders**. This significantly impacts its utility for time-sensitive tasks spawned from emails. The Gmail integration, while convenient for capture, is also quite basic. User reviews frequently mention the inability to add labels, assign tasks to specific project sections, set precise due dates (beyond basic options), or add comments directly from the Gmail interface – often requiring you to open the main Todoist app to flesh out the task details. Some users also report occasional bugs or sluggish performance with the integration itself. Therefore, the free integration acts primarily as a quick capture mechanism, pushing the actual organizing and management work (and its limitations) onto the main Todoist platform.
+**Funcions del pla gratuït:** El pla gratuït "Starter" ofereix l'experiència bàsica de Kanban. Podeu arrossegar els correus electrònics per convertir-los en targetes de tasques, organitzar-los en un tauler personal més un tauler personalitzat addicional, utilitzar una vista del planificador diari i establir dates de venciment o recordatoris.
 
-### Right Inbox (Free Tier): Master Timing with Scheduling & Reminders
 
-**Concept:** Right Inbox focuses on enhancing Gmail with features centered around timing, follow-up, and efficiency. It adds capabilities like scheduling emails to send later, setting reminders on important messages, using email templates, and basic email tracking. This is particularly useful for sales professionals coordinating across time zones, freelancers managing client expectations, or anyone wanting finer control over when emails land and ensuring important conversations don't get forgotten.
+**UI/Configuració:** Sortd s'integra directament a Gmail, oferint una commutació entre la vista estàndard i la seva disposició del tauler. La configuració consisteix a instal·lar l'extensió i connectar el vostre compte Gmail, que els usuaris solen trobar senzill.
 
-**Free Plan Features:** The free plan offers access to Send Later, Email Reminders, Email Tracking, Email Templates, and Private Notes. However, this access comes with **very strict monthly usage limits**. Sources consistently report these limits are low, typically around **5 to 10 actions per month** distributed across these features (e.g., 5 tracked emails per month, or 10 combined reminders/notes/send laters).
 
-**UI/Setup:** Right Inbox integrates smoothly by adding buttons and options directly into the Gmail compose window (for scheduling, templates, signatures) and the main interface (for reminders). Installation via the Chrome Web Store is simple.
+![Interfície del connector Sortd que mostra la safata d'entrada Gmail transformada en un tauler Kanban visual amb targetes de tasques de correu electrònic arrossegant i deixant anar](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
-**Pros:** Adds genuinely useful functionality that many wish were native to Gmail. The "Send Later" feature includes helpful time zone support, automatically detecting the recipient's location. Email reminders are a simple but effective way to prevent critical follow-ups from slipping through the cracks.
 
-**Free Plan Limitations:** The **extremely low monthly usage caps** are the biggest drawback, effectively making the free plan a limited trial rather than a sustainable solution for active users. Anyone relying on these features regularly will likely hit the monthly limit within days. Features like recurring emails are generally reserved for paid plans. Some users also report encountering frequent marketing pop-ups in the free version and finding parts of the interface less than intuitive. The free plan is designed to demonstrate value but strongly incentivizes upgrading for consistent use.
+**Pros:** Fantàstic per visualitzar les etapes del flux de treball i gestionar tasques centrades en el correu electrònic sense canviar constantment a una eina de gestió de projectes independent. També és útil canviar el nom de les línies d'assumpte i afegir notes directament a les tasques de correu electrònic.
 
-### Honorable Mentions: Decluttering & Unsubscribing (Use with Caution!)
 
-**Concept:** Tools like Trimbox and Unroll.me promise a quick fix for overwhelming inboxes by making it easy to unsubscribe from mailing lists and bulk-delete old, unwanted emails.
+**Limitacions del pla gratuït:** Les limitacions del pla gratuït són importants per a l'ús continuat. Esteu limitat a només 4 llistes per tauler, un màxim de 50 tasques incompletes al vostre equip (20 per llista) i, sobretot, només un **historial d'activitats de 30 dies**. Això dificulta el seguiment del progrés en qualsevol cosa més enllà de les tasques a molt curt termini. A més, el pla gratuït no té totes les funcions de col·laboració en equip (com ara taulers compartits o bústies de correu compartides), camps personalitzats i ofereix capacitats d'automatització molt limitades. També s'informa que l'experiència de l'aplicació per a mòbils és menys funcional que la versió d'escriptori, i encara heu d'arrossegar els correus electrònics manualment als taulers; no hi ha opcions de filtratge automàtic per fer-ho. Essencialment, el pla gratuït ofereix un gust visual fort, però és el més adequat per a la gestió bàsica i individual de tasques derivades dels correus electrònics recents.
+
+
+### Todoist per a Gmail: converteix els correus electrònics en tasques accionables
+
+
+**Concepte:** Per a aquells que viuen segons la seva llista de tasques pendents, la integració de Todoist per a Gmail és una opció popular. Connecta Gmail directament a la potent aplicació de gestió de tasques Todoist, la qual cosa us permet convertir ràpidament els correus electrònics accionables en tasques dins del vostre sistema Todoist.
+
+**Funcions del pla gratuït (todoist mateix):** El pla gratuït de Todoist és bastant generós per a ús individual, que ofereix fins a 5 projectes actius, col·laboració amb fins a 5 persones per projecte, gestió de tasques bàsiques (incloses les subtasques), vistes de llista i tauler Kanban i la possibilitat d'utilitzar etiquetes i filtres (fins a 3). La integració gratuïta Gmail (disponible tant com a complement com a extensió) us permet fer clic en una icona per convertir el correu electrònic obert actualment en una tasca de Todoist, incloent automàticament un enllaç al correu electrònic original.
+
+
+**UI/Configuració:** La integració afegeix una icona de Todoist a la vostra interfície Gmail (ja sigui a la barra d'eines superior o al tauler lateral dret). Si feu clic a això, s'obre un petit tauler on podeu afegir ràpidament el correu electrònic com a tasca. La configuració requereix instal·lar el complement/extensió i autoritzar l'accés al vostre compte de Todoist.
+
+
+![Todoist per al panell d'integració Gmail que mostra com convertir un correu electrònic en una tasca amb data de venciment i selecció de projectes](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+
+
+**Pros:** Ofereix un pont perfecte entre el vostre centre de comunicació (Gmail) i el vostre sistema de gestió de tasques (Todoist). Aprofita les excel·lents funcions de Todoist, com ara l'entrada de dates en llenguatge natural i una sincronització fiable entre plataformes. És una manera fantàstica d'aconseguir la "safata d'entrada zero" movent els elements accionables fora de la safata d'entrada i a una llista de tasques dedicada.
+
+
+**Limitacions del pla gratuït (Todoist i integració):** El principal inconvenient rau en les limitacions del _pla de Todoist gratuït en si_. Et restringeix a 5 projectes i 5 col·laboradors, ofereix només una setmana d'historial d'activitats i, el més important, **no inclou recordatoris**. Això afecta significativament la seva utilitat per a les tasques sensibles al temps generades dels correus electrònics. La integració Gmail, tot i que és convenient per a la captura, també és força bàsica. Les revisions d'usuaris esmenten sovint la incapacitat d'afegir etiquetes, assignar tasques a seccions específiques del projecte, establir dates de venciment precises (més enllà de les opcions bàsiques) o afegir comentaris directament des de la interfície Gmail, que sovint requereixen que obriu l'aplicació principal de Todoist per concretar els detalls de la tasca. Alguns usuaris també informen d'errors ocasionals o rendiment lent amb la pròpia integració. Per tant, la integració gratuïta actua principalment com un mecanisme de captura ràpida, empenyent el treball real d'organització i gestió (i les seves limitacions) a la plataforma principal de Todoist.
+
+
+### Safata d'entrada dreta (nivell gratuït): cronometratge principal amb programació i recordatoris
+
+
+**Concepte:** Right Inbox se centra a millorar Gmail amb funcions centrades en el temps, el seguiment i l'eficiència. Afegeix capacitats com ara programar correus electrònics per enviar-los més tard, configurar recordatoris de missatges importants, utilitzar plantilles de correu electrònic i un seguiment bàsic de correu electrònic. Això és especialment útil per als professionals de vendes que es coordinen entre zones horàries, els autònoms que gestionen les expectatives dels clients o qualsevol persona que vulgui un control més detallat sobre quan arriben els correus electrònics i garantir que les converses importants no s'oblidin.
+
+**Funcions del pla gratuït:** el pla gratuït ofereix accés a Enviar més tard, recordatoris per correu electrònic, seguiment de correu electrònic, plantilles de correu electrònic i notes privades. Tanmateix, aquest accés inclou **límits d'ús mensual molt estrictes**. Les fonts informen constantment que aquests límits són baixos, normalment entre **5 i 10 accions al mes** distribuïdes entre aquestes funcions (p. ex., 5 correus electrònics de seguiment al mes o 10 recordatoris/notes/enviament combinats més tard).
+
+
+**UI/Configuració:** Right Inbox s'integra sense problemes afegint botons i opcions directament a la finestra de redacció Gmail (per a la programació, plantilles, signatures) i la interfície principal (per a recordatoris). La instal·lació mitjançant el Chrome Web Store és senzilla.
+
+
+**Pros:** Afegeix una funcionalitat realment útil que molts voldrien que fossin natives de Gmail. La funció "Envia més tard" inclou un suport útil per a la zona horària, que detecta automàticament la ubicació del destinatari. Els recordatoris per correu electrònic són una manera senzilla però eficaç d'evitar que els seguiments crítics es llisquin entre les esquerdes.
+
+
+**Limitacions del pla gratuït:** Els **límits d'ús mensual extremadament baixos** són el major inconvenient, ja que fan que el pla gratuït sigui una prova limitada en lloc d'una solució sostenible per als usuaris actius. Qualsevol persona que confiï amb aquestes funcions amb regularitat probablement assoleixi el límit mensual en qüestió de dies. Funcions com els correus electrònics recurrents es reserven generalment per als plans de pagament. Alguns usuaris també informen que es troben amb finestres emergents de màrqueting freqüents a la versió gratuïta i que troben parts de la interfície menys que intuïtives. El pla gratuït està dissenyat per demostrar el valor, però incentiva fortament l'actualització per a un ús coherent.
+
+
+### Mencions d'honor: desordenar i cancel·lar la subscripció (utilitza amb precaució!)
+
+
+**Concepte:** Eines com Trimbox i Unroll.me prometen una solució ràpida per a les bústies d'entrada aclaparadores, ja que facilita la cancel·lació de la subscripció a les llistes de correu i l'eliminació massiva de correus electrònics antics no desitjats.
+
 
 - **Trimbox:**
 
-  - **Features (Free Trial):** Offers a free trial allowing you to "unsubscribe" from about 10 mailing lists and perform unlimited bulk deletions. It integrates via a Chrome extension and also boasts an AI email writing assistant.
 
-  - **Limitations/Concerns:** Crucially, Trimbox **doesn't actually unsubscribe** you from mailing lists. Instead, it creates filters within your Gmail settings to automatically send future emails from those senders directly to your Trash folder. This means you're still subscribed, and the sender still has your email address. The most seamless experience (extension/web) is limited to Gmail. The free trial is restrictive, and full pricing details aren't readily available on their site. While generally considered safe (storing most data locally), its privacy policy notes data sharing with OpenAI if you use the AI features.
+- **Característiques (prova gratuïta):** Ofereix una prova gratuïta que us permet "cancel·lar la subscripció" d'unes 10 llistes de correu i realitzar supressions massives il·limitades. S'integra mitjançant una extensió Chrome i també compta amb un assistent d'escriptura de correu electrònic AI.
+
+
+- **Limitacions/Preocupacions:** De manera crucial, Trimbox **en realitat no us cancel·la la subscripció** de les llistes de correu. En lloc d'això, crea filtres a la configuració de Gmail per enviar automàticament futurs correus electrònics d'aquests remitents directament a la carpeta Paperera. Això vol dir que encara esteu subscrit i que el remitent encara té la vostra adreça de correu electrònic. L'experiència més perfecta (extensió/web) es limita a Gmail. La prova gratuïta és restrictiva i els detalls de preus complets no estan disponibles al seu lloc. Tot i que generalment es considera segura (emmagatzema la majoria de dades localment), la seva política de privadesa assenyala l'ús compartit de dades amb OpenAI si utilitzeu les funcions AI.
+
 
 - **Unroll.me:**
 
-  - **Features (Free):** Scans your inbox to identify subscriptions, lets you "unsubscribe" (which, like Trimbox, means filtering/hiding), and can bundle remaining newsletters into a single daily or weekly digest email called the "Rollup".
 
-  - **Limitations/Concerns:** **Significant privacy concerns** are the major red flag here. Unroll.me has a documented history of **selling anonymized user data derived from commercial emails** (like purchase receipts) to third parties for market research. Their current privacy policy still outlines the collection of commercial email data and the potential for selling or sharing it. Like Trimbox, it doesn't perform true unsubscribes. It's also unavailable in the EU due to GDPR non-compliance, and its functionality is quite limited beyond the core unsubscribe/rollup feature.
+- **Funcions (gratuïtes):** escaneja la vostra safata d'entrada per identificar les subscripcions, us permet "cancel·lar la subscripció" (que, com Trimbox, significa filtrar/amagar) i pot agrupar els butlletins de notícies restants en un únic correu electrònic de resum diari o setmanal anomenat "Acumulació".
 
-While the promise of a instantly clean inbox is tempting, these tools require careful consideration. The filtering approach used by both means you remain subscribed, potentially leaving you vulnerable in data breaches and not truly reducing the email sent to you. Unroll.me's business model based on user data is a serious privacy trade-off. These tools primarily address the symptom (a cluttered inbox) rather than the underlying need for better workflow management and prioritization.
+- **Limitacions/Preocupacions:** **Les preocupacions importants de privadesa** són la bandera vermella principal aquí. Unroll.me té un historial documentat de **venda de dades d'usuari anònimes derivades de correus electrònics comercials** (com els rebuts de compra) a tercers per a estudis de mercat. La seva política de privadesa actual encara descriu la recopilació de dades de correu electrònic comercial i el potencial de vendre-les o compartir-les. Igual que Trimbox, no realitza cancel·lacions reals. Tampoc no està disponible a la UE a causa de l'incompliment del GDPR, i la seva funcionalitat és força limitada més enllà de la funció bàsica de cancel·lació/acumulació.
 
-## The Catch with "Free": Understanding the Limitations & Trade-offs
 
-Free Gmail plugins offer undeniable value, providing access to enhanced organizational features without upfront cost. However, it's crucial to understand the inherent limitations and trade-offs:
+Tot i que la promesa d'una safata d'entrada neta a l'instant és temptadora, aquestes eines requereixen una consideració acurada. L'enfocament de filtrat utilitzat per tots dos significa que continueu subscrit, la qual cosa us pot deixar vulnerable a les infraccions de dades i no redueix realment el correu electrònic que us enviem. El model de negoci de Unroll.me basat en les dades de l'usuari és un seriós compromís de privadesa. Aquestes eines aborden principalment el símptoma (una safata d'entrada desordenada) en lloc de la necessitat subjacent d'una millor gestió i priorització del flux de treball.
 
-- **The Freemium Ladder:** Most of these tools operate on a freemium model. The free tier is designed to give you a taste of the functionality but intentionally restricts key features – imposing usage caps (Right Inbox), limiting history (Sortd), withholding core features like reminders (Todoist), or restricting collaboration. The goal is often to demonstrate value and encourage upgrades to paid plans for full functionality.
 
-- **Manual Effort Often Remains:** While plugins can help organize, they don't eliminate the manual work entirely. You still need to drag emails onto boards in Sortd, switch to the main app to fully detail tasks in Todoist, carefully manage your limited monthly actions in Right Inbox's free tier, or deal with the consequences of filtering instead of truly unsubscribing with decluttering tools. They structure the chaos but don't fundamentally reduce the cognitive load required to process and act on each message.
+## The Catch with "Free": entendre les limitacions i els compromisos
 
-- **The Privacy Equation:** Granting third-party access to your inbox requires diligence. Always scrutinize the permissions requested and read the privacy policy. How is your data used? Is it stored securely? Is it anonymized and sold? Some "free" services, like Unroll.me, explicitly monetize user data. You must decide if the convenience offered is worth the potential privacy implications.
 
-- **Patchwork Problems:** Free plugins typically excel at solving _one specific_ organizational problem (visualization, task linking, timing). Addressing multiple pain points might require installing several different plugins, which can lead to potential conflicts, slow down Gmail performance, or create a disjointed user experience.
+Els complements Gmail gratuïts ofereixen un valor innegable, proporcionant accés a funcions organitzatives millorades sense cost inicial. Tanmateix, és crucial entendre les limitacions inherents i els compromisos:
 
-Ultimately, free plugins are excellent starting points for improving Gmail organization. They can provide immediate relief for specific frustrations. However, for busy professionals facing persistent email overload, these tools often act as helpful band-aids rather than a complete cure, improving structure but not fundamentally altering the time and mental energy demanded by constant inbox management.
 
-## Level Up Your Inbox: When AI Assistance Makes Sense
+- **The Freemium Ladder:** La majoria d'aquestes eines funcionen amb un model freemium. El nivell gratuït està dissenyat per donar-vos una idea de la funcionalitat, però restringeix intencionadament les funcions clau: imposar límits d'ús (safata d'entrada dreta), limitar l'historial (Sortd), retenir funcions bàsiques com recordatoris (Todoist) o restringir la col·laboració. Sovint, l'objectiu és demostrar el valor i fomentar les actualitzacions dels plans de pagament per a una funcionalitat completa.
 
-Recognizing the limitations of manual organization and basic plugins, a new category of tools has emerged: AI-powered email assistants. These aim to bridge the gap by leveraging artificial intelligence to tackle the core challenges of email overload more effectively – specifically, the lack of intelligent automation, deep prioritization, and contextual understanding.
 
-Here's how AI offers an advantage over traditional free plugins:
+- **Sovint roman l'esforç manual:** Tot i que els connectors poden ajudar a organitzar-se, no eliminen del tot el treball manual. Encara heu d'arrossegar els correus electrònics als taulers de Sortd, canviar a l'aplicació principal per detallar completament les tasques a Todoist, gestionar acuradament les vostres accions mensuals limitades al nivell gratuït de Right Inbox o fer front a les conseqüències del filtratge en lloc de cancel·lar-vos realment amb eines de desordenació. Estructuren el caos però no redueixen fonamentalment la càrrega cognitiva necessària per processar i actuar sobre cada missatge.
 
-- **Intelligent Triage:** Free plugins might help you _manually_ sort emails (like Sortd) or rely on basic filters. AI assistants can analyze the content, sender reputation, and conversation history of incoming emails to _automatically_ identify and surface messages that genuinely require urgent attention, decisions, or actions. This moves beyond simple sorting to intelligent prioritization.
 
-  - _Duet Mail Integration:_ This directly addresses the manual effort required even with visual tools or complex filter setups. For instance, [Duet Mail](https://duetmail.com/ca) analyzes incoming mail to pinpoint urgent items, necessary actions, and required decisions, presenting them clearly in a Focused Dashboard. This automatically cuts through the noise, saving you the mental energy of sorting. (Duet Mail Info)
+- **L'equació de privadesa:** per concedir accés de tercers a la vostra safata d'entrada requereix diligència. Reviseu sempre els permisos sol·licitats i llegiu la política de privadesa. Com s'utilitzen les teves dades? S'emmagatzema de manera segura? Està anònim i es ven? Alguns serveis "gratuïts", com Unroll.me, monetitzen explícitament les dades dels usuaris. Heu de decidir si la comoditat que ofereix val la pena les possibles implicacions de privadesa.
 
-- **Contextual Understanding & Summarization:** While a plugin like Todoist might link an email to a task, it doesn't summarize the conversation. AI assistants can condense lengthy email threads into concise summaries, highlighting key decisions and action items. They can also maintain contextual awareness, remembering details about specific projects or relationships mentioned in past emails.
 
-  - _Duet Mail Integration:_ Instead of just providing a link back to a potentially long email thread, AI tools offer deeper context. [Duet Mail](https://duetmail.com/ca) automatically boils down complex conversations and remembers relevant project or relationship history, allowing you to grasp the situation instantly without rereading entire threads. (Duet Mail Info)
+- **Problemes de patchwork:** Els connectors gratuïts solen resoldre un problema organitzatiu específic (visualització, enllaç de tasques, sincronització). Abordar diversos punts dolorosos pot requerir la instal·lació de diversos connectors diferents, cosa que pot provocar possibles conflictes, alentir el rendiment de Gmail o crear una experiència d'usuari inconnexa.
 
-- **Efficient & Authentic Drafting:** Free template tools (like Right Inbox's limited offering) save typing but often result in generic messages. Advanced AI assistants can learn your unique writing style, tone, and vocabulary from your past sent emails.
+En definitiva, els connectors gratuïts són excel·lents punts de partida per millorar l'organització Gmail. Poden proporcionar un alleujament immediat per a frustracions específiques. Tanmateix, per als professionals ocupats que s'enfronten a una sobrecàrrega de correu electrònic persistent, aquestes eines sovint actuen com a cures útils en lloc d'una cura completa, millorant l'estructura però sense alterar fonamentalment el temps i l'energia mental que requereix la gestió constant de la safata d'entrada.
 
-  - _Duet Mail Integration:_ This goes far beyond basic templates. [Duet Mail's Authentic AI Drafting](https://duetmail.com/ca) analyzes your communication patterns to suggest multiple reply options that genuinely sound like _you_. This maintains your personal touch and professionalism while dramatically accelerating response times for routine emails. (Duet Mail Info)
 
-The key difference is a shift in paradigm. Free plugins help you _manage_ the existing email flow more effectively through better organization. AI assistants aim to fundamentally _reduce_ the cognitive effort and time investment required for email management by automating intelligent prioritization, summarization, and drafting. They tackle the root causes of email fatigue – the constant decision-making, context-switching, and composition time – in a way that simpler tools cannot.
+## Augmenta la teva safata d'entrada: quan l'assistència AI tingui sentit
 
-## Quick Guide: Choosing Your Free Gmail Organizer
 
-To help you navigate the options, here’s a summary of the top free tools discussed:
+Reconeixent les limitacions de l'organització manual i els complements bàsics, ha sorgit una nova categoria d'eines: els assistents de correu electrònic basats en AI. Aquests tenen com a objectiu superar la bretxa aprofitant la intel·ligència artificial per abordar els reptes bàsics de la sobrecàrrega de correu electrònic amb més eficàcia, concretament, la manca d'automatització intel·ligent, la priorització profunda i la comprensió contextual.
 
-| Feature Focus          | Tool              | Key Free Feature                                   | Ideal User                                     | Major Free Limitation                                       | Privacy Note            |
-| ---------------------- | ----------------- | -------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------- | ----------------------- |
-| **Visual Workflow**    | Sortd             | Kanban board view in Gmail (1 personal + 1 extra)  | Visual thinkers, basic project/task tracking   | 30-day history, limited tasks/lists, no collaboration       | Standard (Check policy) |
-| **Task Management**    | Todoist for Gmail | Convert emails to tasks (links back to email)      | Existing Todoist users, task-centric workflows | **No reminders** in free Todoist, limited Gmail integration | Standard (Check policy) |
-| **Timing & Follow-up** | Right Inbox       | Scheduling, Reminders, Basic Tracking              | Occasional scheduling/reminders needed         | **Very low monthly limits** (5-10 actions), pop-ups         | Standard (Check policy) |
-| **Decluttering**       | Trimbox           | One-click "unsubscribe" (filter), bulk delete      | Quick inbox cleanup needed                     | Doesn't truly unsubscribe (uses filters), limited trial     | Check AI data use       |
-| **Decluttering**       | Unroll.me         | Subscription rollup digest, "unsubscribe" (filter) | Consolidating newsletters                      | **Sells anonymized user data**, doesn't truly unsubscribe   | **High Concern**        |
 
-## Frequently Asked Questions (FAQ)
+Així és com AI ofereix un avantatge respecte als complements gratuïts tradicionals:
 
-- **Q1: Are Gmail extensions and add-ons safe to use?**
 
-  - **A:** Generally, yes, especially if you download them from official sources like the Chrome Web Store or Google Workspace Marketplace. **However, vigilance is key.** Always review the permissions an extension or add-on requests before installing. Does it need access to _all_ your data constantly, or only when you actively use it? Read the developer's privacy policy. Be particularly cautious with tools demanding broad access, especially free ones, as some may monetize user data. Reputable developers prioritize security and transparency.
+- **Triatge intel·ligent:** Els connectors gratuïts us poden ajudar a ordenar els correus electrònics _manualment_ (com Sortd) o a confiar en filtres bàsics. Els assistents de AI poden analitzar el contingut, la reputació del remitent i l'historial de converses dels correus electrònics entrants per identificar _automàticament_ i mostrar missatges que realment requereixen atenció, decisions o accions urgents. Això va més enllà de la simple classificació a la priorització intel·ligent.
 
-- **Q2: Do these plugins read the content of my emails?**
 
-  - **A:** Many organizational plugins _must_ read email content to perform their function. For example, Sortd needs to display email content on its boards, Todoist needs to read the subject/body to create a task, and AI tools need content access to summarize or draft replies. This access is inherent to their purpose. The critical factor is understanding _how_ that data is processed, stored, and protected. Always consult the tool's privacy policy. Tools focused on privacy, like Duet Mail, emphasize secure data handling.
+- _Integració de Duet Mail:_ Això aborda directament l'esforç manual necessari fins i tot amb eines visuals o configuracions complexes de filtres. Per exemple, [Duet Mail](https://duetmail.com/) analitza el correu entrant per identificar elements urgents, accions necessàries i decisions necessàries, presentant-los clarament en un tauler de control centrat. Això talla automàticament el soroll, estalviant-vos l'energia mental de classificar. (Informació Duet Mail)
 
-- **Q3: Will these free plugins work on my phone (Gmail app)?**
 
-  - **A:** It varies. **Gmail Add-ons**, which often appear in the right-hand sidebar on desktop, are designed to work across the web interface and the official Gmail mobile apps (iOS/Android). **Chrome Extensions**, however, typically modify the browser experience and only function within Chrome on a desktop or laptop; they won't work inside the standalone Gmail mobile app. Always check the specific tool's description – for instance, Sortd offers a mobile app, but users report it's less functional than the desktop version, while the Todoist add-on is designed to work on mobile.
+- **Comprensió i resum del context:** tot i que un connector com Todoist pot enllaçar un correu electrònic a una tasca, no resumeix la conversa. Els assistents AI poden condensar llargs fils de correu electrònic en resums concisos, destacant les decisions clau i els elements d'acció. També poden mantenir la consciència contextual, recordant detalls sobre projectes o relacions concrets esmentats en correus electrònics anteriors.
 
-- **Q4: Can I use multiple Gmail organization plugins at once?**
 
-  - **A:** While technically possible, it's generally not advisable. Running multiple extensions that modify Gmail's interface or processes can lead to conflicts, slow down your browser significantly, or create a confusing user experience. It's usually more effective to identify your primary email pain points and choose the one or two plugins that best address those specific needs, rather than trying to layer multiple tools.
+- _Integració de Duet Mail:_ en lloc de proporcionar només un enllaç a un fil de correu electrònic potencialment llarg, les eines AI ofereixen un context més profund. [Duet Mail](https://duetmail.com/) resumeix automàticament les converses complexes i recorda l'historial rellevant del projecte o la relació, cosa que us permet comprendre la situació a l'instant sense tornar a llegir fils sencers. (Informació Duet Mail)
 
-## Conclusion: From Inbox Chaos to Calm Control
 
-The relentless flood of email doesn't have to drown your productivity or peace of mind. Free Gmail organization plugins offer accessible and often powerful ways to start imposing order, whether through visual workflows like Sortd, task integration like Todoist for Gmail, or enhanced timing controls like Right Inbox. They provide tangible improvements over Gmail's native capabilities.
+- **Esborrany autèntic i eficient:** Les eines de plantilles gratuïtes (com l'oferta limitada de Right Inbox) estalvien la mecanografia, però sovint donen lloc a missatges genèrics. Els assistents avançats de AI poden aprendre el vostre estil d'escriptura, el to i el vocabulari únics dels vostres correus electrònics passats.
 
-However, "free" often comes with trade-offs. Be mindful of usage limitations, the manual effort that might still be required, and, crucially, the privacy implications of granting third-party access to your inbox. These tools are excellent starting points and can significantly help manage the symptoms of email overload, but for professionals dealing with high volumes and complexity, they might not provide a complete cure.
 
-The best approach? Identify your single biggest email frustration – Is it visualization? Task tracking? Timing? Decluttering? – and experiment with the most relevant free tool from our list. See if it makes a difference in your daily workflow.
+- _Integració de Duet Mail:_ Això va molt més enllà de les plantilles bàsiques. [L'esborrany AI autèntic de Duet Mail](https://duetmail.com/) analitza els vostres patrons de comunicació per suggerir diverses opcions de resposta que sonen realment com _vosaltres_. Això manté el vostre toc personal i professionalitat alhora que accelera dràsticament els temps de resposta per als correus electrònics habituals. (Informació Duet Mail)
 
-Take the first step towards inbox sanity today by trying one of these free organizers. If you discover that you need deeper automation, truly intelligent prioritization, and a seamless assistant that learns your unique style to help you reclaim hours each week, explore how AI-powered solutions like [**Duet Mail**](https://duetmail.com/ca) can elevate your email management and allow you to focus on the work that truly matters.
+La diferència clau és un canvi de paradigma. Els connectors gratuïts us ajuden a _gestionar_ el flux de correu electrònic existent de manera més eficaç mitjançant una millor organització. Els assistents AI tenen com a objectiu _reduir_ fonamentalment l'esforç cognitiu i la inversió de temps necessaris per a la gestió del correu electrònic mitjançant l'automatització de la priorització, el resum i la redacció intel·ligents. Aborden les causes arrels del cansament del correu electrònic: la presa de decisions constant, el canvi de context i el temps de composició, d'una manera que les eines més senzilles no poden fer.
 
-Found this guide helpful? Share it with colleagues or friends also battling the email beast!
+
+## Guia ràpida: escollir el vostre organitzador Gmail gratuït
+
+
+Per ajudar-vos a navegar per les opcions, aquí teniu un resum de les principals eines gratuïtes comentades:
+
+
+| Enfocament de les funcions | Eina | Funció sense clau | Usuari ideal | Limitació lliure major | Nota de privadesa |
+| ---------------------- | ----------------- | -------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------- | ----------------------- |
+| **Flux de treball visual** | Ordenar | Vista de tauler Kanban a Gmail (1 personal + 1 addicional) | Pensadors visuals, seguiment bàsic de projectes/tasques | Història de 30 dies, tasques/llistes limitades, sense col·laboració | Estàndard (Consulta la política) |
+| **Gestió de tasques** | Todoist per a Gmail | Converteix correus electrònics en tasques (enllaços de tornada al correu electrònic) | Usuaris de Todoist existents, fluxos de treball centrats en tasques | **Sense recordatoris** a Todoist gratuït, integració limitada de Gmail | Estàndard (Consulta la política) |
+| **Temps i seguiment** | Safata d'entrada dreta | Programació, recordatoris, seguiment bàsic | Es necessiten programacions/recordatoris ocasionals | **Límits mensuals molt baixos** (5-10 accions), finestres emergents | Estàndard (Consulta la política) |
+| **Desordenar** | Trimbox | Un clic "cancel·la la subscripció" (filtre), eliminació massiva | Neteja ràpida de la safata d'entrada | No es cancel·la realment la subscripció (utilitza filtres), prova limitada | Comproveu l'ús de dades AI |
+| **Desordenar** | Unroll.me | Resum de subscripcions, "cancel·la la subscripció" (filtre) | Consolidació de butlletins | **Ven dades d'usuari anònimes**, no es cancel·la realment la subscripció | **Alta preocupació** |
+
+
+## Preguntes freqüents (FAQ)
+
+
+- **P1: Les extensions i els complements Gmail són segurs d'utilitzar?**
+
+
+- **R:** En general, sí, sobretot si els descarregueu de fonts oficials com Chrome Web Store o Google Workspace Marketplace. **No obstant això, la vigilància és clau.** Reviseu sempre els permisos d'una extensió o sol·licituds de complements abans d'instal·lar-los. Necessita accés a _totes_ les teves dades constantment o només quan les fas servir activament? Llegeix la política de privadesa del desenvolupador. Aneu especialment amb compte amb les eines que exigeixen un accés ampli, especialment les gratuïtes, ja que algunes poden monetitzar les dades dels usuaris. Els desenvolupadors de renom prioritzen la seguretat i la transparència.
+
+
+- **P2: aquests connectors llegeixen el contingut dels meus correus electrònics?**
+
+- **A:** Molts connectors organitzatius _han de_ llegir el contingut del correu electrònic per dur a terme la seva funció. Per exemple, Sortd ha de mostrar contingut de correu electrònic als seus taulers, Todoist ha de llegir l'assumpte/cos per crear una tasca i les eines AI necessiten accés al contingut per resumir o esborrar respostes. Aquest accés és inherent al seu propòsit. El factor crític és entendre _com_ es processen, s'emmagatzemen i es protegeixen les dades. Consulteu sempre la política de privadesa de l'eina. Les eines centrades en la privadesa, com Duet Mail, posen l'accent en el maneig de dades segur.
+
+
+- **P3: funcionaran aquests connectors gratuïts al meu telèfon (aplicació Gmail)?**
+
+
+- **A:** Varia. Els **complements Gmail**, que sovint apareixen a la barra lateral dreta de l'escriptori, estan dissenyats per funcionar a la interfície web i a les aplicacions mòbils oficials Gmail (iOS/Android). Les **Chrome Extensions**, però, solen modificar l'experiència del navegador i només funcionen dins de Chrome en un ordinador o portàtil; no funcionaran dins de l'aplicació mòbil autònoma Gmail. Comproveu sempre la descripció de l'eina específica; per exemple, Sortd ofereix una aplicació mòbil, però els usuaris informen que és menys funcional que la versió d'escriptori, mentre que el complement de Todoist està dissenyat per funcionar al mòbil.
+
+
+- **P4: Puc utilitzar diversos connectors d'organització Gmail alhora?**
+
+
+- **A:** Tot i que tècnicament és possible, en general no és aconsellable. L'execució de diverses extensions que modifiquen la interfície o els processos de Gmail pot provocar conflictes, alentir significativament el navegador o crear una experiència d'usuari confusa. En general, és més eficaç identificar els vostres principals problemes de correu electrònic i triar un o dos connectors que millor s'adaptin a aquestes necessitats específiques, en lloc d'intentar posar diverses eines en capes.
+
+
+## Conclusió: del caos de la safata d'entrada al control de la calma
+
+
+L'allau implacable de correu electrònic no ha d'ofegar la vostra productivitat o tranquil·litat. Els complements d'organització Gmail gratuïts ofereixen maneres accessibles i sovint potents de començar a imposar l'ordre, ja sigui mitjançant fluxos de treball visuals com Sortd, integració de tasques com Todoist per a Gmail o controls de temps millorats com Right Inbox. Proporcionen millores tangibles sobre les capacitats natives de Gmail.
+
+
+No obstant això, "lliure" sovint ve amb intercanvis. Tingueu en compte les limitacions d'ús, l'esforç manual que encara es pot requerir i, sobretot, les implicacions de privadesa de concedir accés de tercers a la vostra safata d'entrada. Aquestes eines són excel·lents punts de partida i poden ajudar significativament a gestionar els símptomes de la sobrecàrrega de correu electrònic, però per als professionals que tracten amb grans volums i complexitat, és possible que no proporcionin una cura completa.
+
+
+El millor enfocament? Identifiqueu la vostra frustració de correu electrònic més gran: és visualització? Seguiment de tasques? El temps? Desordenar? - i experimentar amb l'eina gratuïta més rellevant de la nostra llista. Mireu si marca la diferència en el vostre flux de treball diari.
+
+Fes el primer pas cap a la safata d'entrada avui provant un d'aquests organitzadors gratuïts. Si descobreixes que necessites una automatització més profunda, una priorització realment intel·ligent i un assistent perfecte que aprengui el teu estil únic per ajudar-te a recuperar hores cada setmana, explora com les solucions basades en AI com [**Duet Mail**](https://duetmail.com/) poden millorar la gestió del teu correu electrònic i permetre't centrar-te en la feina que realment importa.
+
+
+Heu trobat útil aquesta guia? Comparteix-ho amb companys o amics que també lluiten contra la bèstia del correu electrònic!

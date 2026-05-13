@@ -1,100 +1,99 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail per Lloguers de Pesca | AI Assistent de correu electrònic\n",
+  "metaDescription": "Duet Mail ajuda els capitans de xàrter de pesca a respondre als correus electrònics de reserva a l'instant, fins i tot des de l'aigua. Respostes redactades per AI amb els vostres preus, polítiques i veu.\n",
+  "heroBadge": "Confia en més de 500 capitans charter\n",
+  "heroHeadline": "El teu assistent de correu electrònic mentre estàs a l'aigua\n",
+  "heroSubline": "Duet coneix els vostres preus, les vostres polítiques i la vostra veu; després redacta esborranys de respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.\n",
   "inboxEmails": [
     {
-      "from": "Sarah M.",
+      "from": "Sara M.\n",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "Disponibilitat el 12 de juliol per a 4 persones?\n",
+      "preview": "Hola! Som un grup de 4 persones que busquem reservar una sortida de pesca el 12 de juliol. Tens disponibilitat? Quin és el preu per un dia sencer?\n",
+      "pill": "Per respondre\n",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "David K.\n",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Què hem de portar?\n",
+      "preview": "Hola, estem reservats per dissabte. Pregunta ràpida: què hem de portar? Proporcioneu canyes i material o hem de portar els nostres...\n",
+      "pill": "Pregunta\n",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "Mike i Lisa R.\n",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Cal reprogramar a diumenge\n",
+      "preview": "Disculpeu l'avís tardà, però el pronòstic meteorològic sembla difícil dissabte. En canvi, podem passar a diumenge? al mateix temps...\n",
+      "pill": "Reserva\n",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "TripAdvisor\n",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Nova ressenya per a la teva fitxa\n",
+      "preview": "Un viatger ha fet una opinió recent sobre el teu negoci. Mireu què havien de dir i respondre...\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Hola Sarah! El 12 de juliol està obert per a 4. Els viatges de dia sencer tenen una durada de 8 hores, a partir de les 6 del matí. S'inclouen totes les canyes, material, esquer i llicències; només cal que porteu protector solar, aigua i una nevera per a la vostra captura. Vols que el tanqui?\n",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "carta\n",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "Una reserva desada paga un any de Duet.\n"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, les preguntes en segon lloc i el soroll mai. Ja no et perdis una consulta de viatge soterrada sota les alertes de TripAdvisor.\n",
+  "draftSubtitle": "Duet coneix els vostres preus, polítiques i to. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, els preus i què cal portar. Tu revisa i envia.\n",
+  "agentSubtitle": "\"Quins dies estan oberts la setmana vinent?\" \"Esborra una resposta a la Sarah amb disponibilitat\". Duet coneix la vostra safata d'entrada i el vostre calendari; només cal que ho pregunteu.\n",
   "categorizationEmails": [
     {
-      "from": "Sarah M.",
+      "from": "Sara M.\n",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "Disponibilitat el 12 de juliol per a 4 persones?\n",
+      "preview": "Som un grup de 4 que busquem reservar una sortida de pesca...\n",
+      "pill": "Respon ara\n",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "David K.\n",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: Reserva confirmada: dissabte a les 7 del matí\n",
+      "pill": "Reservat\n",
       "pillColor": "blue"
     },
     {
-      "from": "Mike R.",
+      "from": "Mike R.\n",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Què hem de portar dissabte?\n",
+      "pill": "Pregunta\n",
       "pillColor": "amber"
     },
     {
-      "from": "FishingBooker",
+      "from": "FishingBooker\n",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Resum de la teva reserva setmanal\n",
+      "pill": "FYI\n",
       "pillColor": "lavender"
     },
     {
-      "from": "West Marine",
+      "from": "Marina Occidental\n",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "Rebaixes de primavera: 20% de descompte en material\n",
+      "pill": "Promocions\n",
       "pillColor": "lavender"
     }
   ],
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Quins dies encara estan oberts la setmana vinent?\n",
+    "agentResponse": "Segons el vostre calendari, teniu obertures els dimarts, dijous i dissabte de la setmana vinent. Dilluns i dimecres estan complets (2 charters cadascun). Vols que redacti una resposta a qualsevol consulta pendent amb aquestes dates?\n",
+    "followUp": "Esborralleu una resposta a Sarah amb la disponibilitat del 12 de juliol\n",
+    "followUpResponse": "Fet! Vaig redactar una resposta a la Sarah confirmant el 12 de juliol per a 4 convidats a 500 $. Inclou els detalls del vostre viatge estàndard i la ubicació de la reunió. A punt per revisar i enviar.\n"
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Estimat pels capitans charter\n",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "El capità Mike D.",
+      "title": "Offshore Charter Captain, FL\n",
+      "quote": "Durant la temporada alta, perdria 2-3 reserves a la setmana només perquè no podia respondre amb prou rapidesa des del vaixell. Duet redacta les respostes amb els meus preus i els detalls del viatge: acabo de prémer enviar entre captures.\n",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "Sarah i Tom K.\n",
+      "title": "Family Charter Business, OR\n",
+      "quote": "Tenim dos vaixells i el volum de correu electrònic durant l'estiu és boig. Duet classifica les sol·licituds de reserva de tota la resta i redacta respostes que sonen exactament com nosaltres. Un canvi de joc absolut.\n",
       "avatarKey": "sarah"
     },
     {
-      "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "name": "Jake R.\n",
+      "title": "Guia de pesca de baix cost, TX\n",
+      "quote": "Em passava una hora cada nit responent les mateixes preguntes de disponibilitat. Ara Duet ho gestiona. El meu temps de resposta va passar d'hores a minuts i des d'aleshores no he perdut cap reserva.\n",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "name": "Lisa M.\n",
+      "title": "Charter Office Manager, HI\n",
+      "quote": "La gestió de correus electrònics per a 4 capitans era una feina a temps complet. Duet ho classifica tot i redacta respostes amb el vaixell adequat, el preu correcte i el capità adequat. És com tenir un altre jo.\n",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Andrea S.",
-      "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "name": "Andrea S.\n",
+      "title": "Deep Sea Charters, NC\n",
+      "quote": "Era escèptic que un AI pogués gestionar correus electrònics de lloguer de pesca. Però va conèixer els nostres tipus de viatge, què s'inclou, fins i tot la nostra política de cancel·lació. Els clients no poden notar la diferència.\n",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Passa la temporada alta a l'aigua,\nno a la teva safata d'entrada.\n",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.\n",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Duet funciona per als correus electrònics de reserves i disponibilitat?\n",
+      "answer": "Absolutament. Duet coneix els tipus de viatge, els preus, la disponibilitat i les polítiques. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls adequats: preus, què s'inclou, lloc de la reunió, què cal portar. Revisa i toca envia.\n"
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Estic tot el dia a l'aigua. Puc utilitzar Duet des del meu telèfon?\n",
+      "answer": "Sí. Duet funciona amb Gmail i Outlook, de manera que funciona allà on funcioni el vostre correu electrònic, inclòs el telèfon. Els esborranys apareixen automàticament. Entre les captures, reviseu i envieu amb un sol toc. La majoria dels capitans ens diuen que els estalvia entre 1 i 2 hores de correu electrònic al dia durant la temporada alta.\n"
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "Amb 500 $ per xàrter, una reserva desada paga més d'un any de Pro."
 }

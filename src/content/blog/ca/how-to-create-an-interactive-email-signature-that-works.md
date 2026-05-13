@@ -1,144 +1,202 @@
 ---
-title: "How to Create an Interactive Email Signature That Works"
-description: "Learn how to create an interactive email signature to boost engagement, branding & leads. Step-by-step guide for freelancers & startups"
+title: "Com crear una signatura de correu electrònic interactiva que funcioni\n"
+description: "Apreneu a crear una signatura de correu electrònic interactiva per augmentar el compromís, la marca i els clients potencials. Guia pas a pas per a autònoms i startups"
 publishedAt: 2025-06-18
 author: "Duet Mail Team"
-tags: ["AI", "Email"]
+tags: ["AI","Correu electrònic"]
 draft: false
-translationStatus: bootstrap-en
 ---
 
-Let’s face it: as a freelancer or startup founder, every email you send is a potential touchpoint, a mini-marketing opportunity. But are you making the most of that valuable digital real estate at the bottom of your message? A static signature with just your name and number is functional, sure. But an **interactive email signature**? That’s a game-changer.
+Admetem-ho: com a autònom o fundador d'una startup, cada correu electrònic que envieu és un potencial punt de contacte, una oportunitat de minimàrqueting. Però, estàs aprofitant al màxim aquest valuós patrimoni digital al final del teu missatge? Una signatura estàtica amb només el vostre nom i número és funcional, és clar. Però una **signatura de correu electrònic interactiu**? Això és un canvi de joc.
 
-Think of it as your digital business card, supercharged. It’s not just contact info; it’s a dynamic tool to boost your brand, drive traffic, generate leads, and look incredibly professional while doing it. In a world where [64% of small businesses use email](https://www.cognism.com/blog/email-marketing-statistics) to connect with customers and [email generates $36 for every $1 spent](https://snov.io/blog/email-marketing-statistics/), optimizing every part of your message, including the signature, is crucial. Ready to transform your sign-off from an afterthought into an asset? Let's dive in.
 
-## What Exactly is an Interactive Email Signature (And Why Should You Care)?
+Penseu-hi com la vostra targeta de visita digital, sobrecarregada. No és només informació de contacte; és una eina dinàmica per potenciar la teva marca, generar trànsit, generar contactes i semblar increïblement professional mentre ho fas. En un món on [el 64% de les petites empreses utilitzen el correu electrònic](https://www.cognism.com/blog/email-marketing-statistics) per connectar amb els clients i [el correu electrònic genera 36 $ per cada $ 1 gastat](https://snov.io/blog/email-marketing-statistics/), optimitzar cada part del missatge, inclosa la signatura, és crucial. Estàs preparat per transformar el teu tancament d'una idea posterior en un actiu? Submergem-nos.
 
-Unlike a traditional, static signature (just plain text), an interactive email signature incorporates clickable elements designed to engage the recipient. This could include:
 
-- Clickable phone numbers and email addresses
+## Què és exactament una signatura de correu electrònic interactiu (i per què us hauria de preocupar)?
 
-- Links to your website, portfolio, or specific landing pages
 
-- Social media icons linking directly to your profiles
+A diferència d'una signatura estàtica tradicional (només text senzill), una signatura de correu electrònic interactiva incorpora elements que es poden fer clic dissenyats per atraure el destinatari. Això podria incloure:
 
-- Call-to-Action (CTA) buttons or banners (e.g., "Book a Meeting," "Download My Guide," "See My Work")
 
-- Your logo or a professional headshot (often clickable)
+- Números de telèfon i adreces de correu electrònic que es poden fer clic
 
-The goal? To make it effortless for recipients to take the next step, whatever that may be. For freelancers and small teams, the benefits are tangible:
 
-- **Enhanced Professionalism & Credibility:** A well-designed signature signals attention to detail and builds trust. [Consistent branding enhances credibility](https://quickmail.com/role-of-email-signatures-in-brand-awareness).
+- Enllaços al vostre lloc web, cartera o pàgines de destinació específiques
 
-- **Increased Brand Awareness:** Every email reinforces your brand identity with logos and consistent styling. [Consistent brand presentation can increase revenue](https://exclaimer.com/blog/maximizing-marketing-roi-personalized-email-signatures/) significantly.
 
-- **Lead Generation:** Direct links to scheduling tools or lead magnets turn your signature into a passive lead generator. [Surveys show lead generation (18.8%)](https://mysignature.io/blog/email-signature-statistics/) is a top reason businesses use professional signatures.
+- Icones de xarxes socials que enllacen directament als vostres perfils
 
-- **Drive Traffic & Engagement:** Easily direct recipients to your website, blog, portfolio, or social channels.
 
-- **Cost-Effective Marketing:** Leverage the emails you're already sending as a free marketing channel.
+- Botons o bàners de crida a l'acció (p. ex., "Reserva una reunió", "Descarrega la meva guia", "Veure la meva feina")
 
-## Key Interactive Elements That Pack a Punch
 
-Not all interactive elements are created equal. Here are some proven winners for freelancers and startups:
+- El vostre logotip o una fotografia de cap professional (sovint es pot fer clic)
 
-- **Essential Contact Info (Clickable!):** Make your phone number (\`tel:\`) and email address (\`mailto:\`) clickable for seamless mobile interaction.
 
-- **Website/Portfolio Link:** A direct link to your main site or, even better, your portfolio is non-negotiable.
+L'objectiu? Perquè els destinataris facin el següent pas sense esforç, sigui quin sigui. Per als autònoms i els petits equips, els avantatges són tangibles:
 
-- **Social Media Icons:** Include icons only for platforms where you are active and professional. [Using recognizable icons saves space](https://signature.email/blog/social-media-icons-for-email-signatures) and is more visually appealing than text links. LinkedIn, and perhaps a portfolio site like Behance or a relevant Instagram, often make sense.
 
-- **Call-to-Action (CTA):** This is where the magic happens. Use clear, action-oriented text.
+- **Professionalitat i credibilitat millorades:** Una signatura ben dissenyada indica l'atenció als detalls i genera confiança. [La marca coherent millora la credibilitat](https://quickmail.com/role-of-email-signatures-in-brand-awareness).
 
-  - **Buttons:** Stand out visually. [Buttons can increase conversion rates significantly](https://newoldstamp.com/blog/the-ultimate-guide-to-email-signature-call-to-action/) compared to text links. Examples: "Book a Free Consultation," "Get a Quote," "View Case Study."
 
-  - **Banners:** Visually appealing graphics promoting an event, a special offer, or a key piece of content.
+- **Més consciència de marca:** Cada correu electrònic reforça la vostra identitat de marca amb logotips i un estil coherent. [La presentació coherent de la marca pot augmentar els ingressos](https://exclaimer.com/blog/maximizing-marketing-roi-personalized-email-signatures/) significativament.
 
-  - **Text Links:** Simple but effective. Example: "Schedule a quick chat here."
 
-- **Scheduling Link:** Integrate directly with tools like Calendly. Adding a "[Schedule Meeting" button or link](https://www.bybrand.io/blog/schedule-meeting-email-signature/) removes friction for booking calls.
+- **Generació de contactes:** enllaços directes a eines de programació o imants de plom converteixen la vostra signatura en un generador de contactes passiu. [Les enquestes mostren que la generació de contactes (18,8%)](https://mysignature.io/blog/email-signature-statistics/) és una de les principals raons per les quals les empreses utilitzen signatures professionals.
 
-- **Logo or Headshot:** Adds personality and brand recognition. Make it clickable, linking to your website. Use a high-quality, professional image.
 
-![Example of a simple professional email signature for a freelancer with clickable contact info and social links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Gentiu el trànsit i la implicació:** dirigiu fàcilment els destinataris al vostre lloc web, bloc, cartera o canals socials.
 
-Keep it clean: A simple signature with essential contact info and key social links.
 
-## How to Create Your Interactive Masterpiece: Generators vs. DIY HTML
+- **Màrqueting rendible:** Aprofiteu els correus electrònics que ja esteu enviant com a canal de màrqueting gratuït.
 
-You have two main paths to creating your interactive signature:
 
-1. **Email Signature Generators:** Tools specifically designed for creating professional signatures.
+## Elements interactius clau que donen força
 
-2. **Manual HTML Coding:** Building the signature yourself using HTML and inline CSS.
 
-Which is right for you? Let's compare:
+No tots els elements interactius es creen iguals. Aquests són alguns dels guanyadors provats per a autònoms i startups:
 
-| Feature             | Email Signature Generators (e.g., [MySignature](https://mysignature.io/), [WiseStamp](https://www.wisestamp.com/)) | Manual HTML Coding                                      |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| **Ease of Use**     | Very High (No coding required, visual editors, templates)                                                          | Low (Requires HTML/CSS knowledge)                       |
-| **Customization**   | High (Many templates & options, some limits)                                                                       | Total (Complete control over design)                    |
-| **Time Investment** | Low (Minutes to create)                                                                                            | High (Hours, plus testing time)                         |
-| **Compatibility**   | Generally Good (Designed for cross-client compatibility)                                                           | Requires extensive testing across email clients/devices |
-| **Features**        | Templates, analytics, banner campaigns, central management (often paid)                                            | Limited only by HTML/CSS email constraints              |
-| **Cost**            | Free tiers available (often with branding); Paid plans for more features/users                                     | Free (if you have the skills)                           |
 
-**Recommendation for Freelancers & Startups:** Unless you're comfortable with HTML and rigorous testing, starting with a reputable **email signature generator** is highly recommended. Tools like [MySignature](https://mysignature.io/) (noted as good for freelancers/small teams) or [WiseStamp](https://www.wisestamp.com/) offer free or affordable plans with professional templates, easy customization (including CTAs and banners), and built-in compatibility checks. [HubSpot also offers a popular free generator](https://www.hubspot.com/email-signature-generator) for simpler needs.
+- **Informació de contacte essencial (s'hi pot fer clic!):** Feu clic al vostre número de telèfon (\`tel:\) and email address (\`mailto:\`) per a una interacció mòbil perfecta.
 
-![Screenshot of an email signature generator tool interface showing templates and customization options](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
-Tools like MySignature and WiseStamp offer templates and simple customization.
+- **Enllaç al lloc web/cartera:** Un enllaç directe al vostre lloc principal o, encara millor, la vostra cartera no és negociable.
 
-**For the DIY Crowd:** If you choose manual HTML, remember that email clients render HTML very differently. Use inline CSS for styling, and keep your code clean. Test relentlessly using tools like Litmus or Email on Acid, or at least across major clients like Gmail, Outlook (various versions), and Apple Mail. You can find [basic HTML signature templates online](https://www.freelancermap.com/blog/create-professional-email-signature/) to get started, and resources like [Exclaimer offer free social icons](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) and guidance.
+- **Icones de xarxes socials:** Incloeu icones només per a plataformes on sou actiu i professional. [L'ús d'icones reconeixibles estalvia espai](https://signature.email/blog/social-media-icons-for-email-signatures) i és més atractiu visualment que els enllaços de text. LinkedIn, i potser un lloc de cartera com Behance o un Instagram rellevant, sovint tenen sentit.
 
-Here's a very basic HTML structure for a clickable link:
 
-And for a clickable social icon (assuming you have hosted the image):
+- **Crida a l'acció (CTA):** Aquí és on passa la màgia. Utilitzeu text clar i orientat a l'acció.
 
-### Best Practices for Impact and Deliverability
 
-Creating an interactive signature is only half the battle. Ensuring it looks great everywhere and doesn't land your emails in spam folders is crucial.
+- **Botons:** Destaquen visualment. [Els botons poden augmentar significativament les taxes de conversió](https://newoldstamp.com/blog/the-ultimate-guide-to-email-signature-call-to-action/) en comparació amb els enllaços de text. Exemples: "Reservi una consulta gratuïta", "Obteniu un pressupost", "Veure un cas pràctic".
 
-#### Design & Content Best Practices:
 
-- **Keep it Simple & Clean:** Avoid clutter. Prioritize essential information. Use whitespace effectively.
+- **Bàners:** gràfics visualment atractius que promocionen un esdeveniment, una oferta especial o un contingut clau.
 
-- **Mobile-First Design:** [Optimize for mobile readability](https://newoldstamp.com/blog/email-signature-best-practices-creative-ideas-beautiful-examples-design-hints-and-free-tools-to-use-now/). Ensure links and buttons are easily tappable with enough space around them. Keep the width generally under 600px.
 
-- **Brand Consistency:** Use your brand colors and fonts (stick to [web-safe fonts](https://www.mailerlite.com/blog/email-signature-best-practices) like Arial, Helvetica, Verdana, Georgia for broad compatibility).
+- **Enllaços de text:** Simple però efectiu. Exemple: "Programeu una xerrada ràpida aquí".
 
-- **Hierarchy:** Make your name and title prominent. Guide the eye logically through the information.
 
-- **Image Optimization:** Use high-quality but small file size images (ideally under 100kb total signature weight). Host images reliably (don't embed unless necessary, as it increases email size). Always use descriptive \`alt\` text for accessibility and if images are blocked.
+- **Enllaç de programació:** Integrar directament amb eines com Calendly. Afegir un botó o enllaç "[Programar reunió"](https://www.bybrand.io/blog/schedule-meeting-email-signature/) elimina la fricció per reservar trucades.
 
-- **Limit Elements:** Don't include *every* social profile. Stick to 3-4 relevant ones. One strong CTA is usually better than multiple weak ones.
 
-![Comparison showing an email signature rendering correctly on both desktop and mobile screens](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Logotip o fotografia al cap:** Afegeix personalitat i reconeixement de marca. Feu-lo clicable, enllaçant al vostre lloc web. Utilitzeu una imatge professional d'alta qualitat.
 
-Mobile matters: Ensure your signature looks great and functions well on all devices.
 
-### Technical & Deliverability Best Practices:
+![Exemple d'una signatura de correu electrònic professional senzilla per a un autònom amb informació de contacte on es pot fer clic i enllaços socials](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
-- **Use Clean HTML:** If coding manually, use simple table layouts and inline CSS. Avoid messy code copied from Word, as this [can cause rendering issues and trigger spam filters](https://newoldstamp.com/blog/most-popular-ways-to-create-an-email-signature/).
 
-- **Avoid Spam Triggers:** While the signature alone rarely causes spam issues, poorly implemented ones can contribute. Avoid excessive images, too many links (especially using spammy text like "Click Here!"), broken links, or overly complex code. A good balance of text and images is key. [Email Signature Rescue notes that improper HTML or large images](https://www.emailsignaturerescue.com/blog/why-does-my-email-signature-make-my-emails-get-caught-in-spam-filters) are common culprits.
+Mantingueu-lo net: una signatura senzilla amb informació de contacte essencial i enllaços socials clau.
 
-- **Test, Test, Test:** Preview your signature across different email clients (Gmail, Outlook, Apple Mail) and devices (desktop, mobile, tablet). Check how it looks in dark mode.
 
-- **Ensure DNS Records are Set:** Though not signature-specific, having correct SPF, DKIM, and DMARC records for your domain is vital for overall email deliverability.
+## Com crear la teva obra mestra interactiva: generadors vs. DIY HTML
 
-## Making Interactions Count: Beyond the Click
 
-An interactive signature is designed to spark action – a click, a call, a booking. But what happens next? Managing the follow-ups efficiently and maintaining that professional image is crucial.
+Teniu dues vies principals per crear la vostra signatura interactiva:
 
-This is where integrating your signature strategy with smart email management tools can make a difference. When leads start clicking that "Book a Meeting" link generated by your awesome signature, you need a system to handle the subsequent scheduling and communication smoothly. Similarly, maintaining the professional tone set by your signature in every follow-up email is key to building relationships.
 
-Tools designed for email productivity, like [Duet Mail](https://duetmail.com/ca), can help bridge this gap. Imagine getting AI assistance to draft prompt, personalized replies that maintain your unique voice after someone interacts with your signature's CTA. Duet Mail's features like **AI Triage** can help surface important replies generated from signature interactions, while its **Authentic AI Drafting** ensures your follow-ups sound just like you, preserving the professionalism your signature projects. It turns the engagement sparked by your signature into well-managed, productive conversations.
+1. **Generadors de signatures de correu electrònic:** Eines dissenyades específicament per crear signatures professionals.
 
-## Ready to Activate Your Signature?
 
-Your email signature is more than just a sign-off; it's a powerful, cost-effective tool waiting to be activated. By incorporating interactive elements thoughtfully and following design best practices, you can transform it into a consistent source of brand reinforcement, traffic, and leads.
+2. **Codificació manual HTML:** Creeu la signatura vosaltres mateixos amb HTML i CSS en línia.
 
-Whether you opt for a user-friendly generator or decide to code it yourself, the key is to create something professional, functional, and aligned with your goals. Start small – add a clickable website link and your most important social profile. Test it out. Then, consider adding a clear call-to-action or a scheduling link. Track your results if possible ([many generators offer analytics](https://mysignature.io/blog/email-signature-statistics/)) and refine.
 
-Take a few minutes today to upgrade your email signature. It’s a small change that can make a big difference in how potential clients and collaborators perceive you and interact with your brand.
+Quin és adequat per a tu? Comparem:
+
+| Característica | Generadors de signatures de correu electrònic (p. ex., [MySignature](https://mysignature.io/), [WiseStamp](https://www.wisestamp.com/)) | Codificació manual HTML |
+| ------------------- | ----------------------------------------------------------------------------------------------------| ------------------------------------------------------- |
+| **Fàcil d'utilitzar** | Molt alt (no requereix codificació, editors visuals, plantilles) | Baix (Requereix coneixements HTML/CSS) |
+| **Personalització** | Alt (Moltes plantilles i opcions, alguns límits) | Total (Control total sobre el disseny) |
+| **Inversió de temps** | Baix (Minuts per crear) | Alt (Hores, més temps de prova) |
+| **Compatibilitat** | Generalment bé (dissenyat per a la compatibilitat entre clients) | Requereix proves exhaustives en clients/dispositius de correu electrònic |
+| **Característiques** | Plantilles, analítiques, campanyes de banners, gestió central (sovint de pagament) | Limitat només per les restriccions de correu electrònic HTML/CSS |
+| **Cost** | Nivells gratuïts disponibles (sovint amb marca); Plans de pagament per a més funcions/usuaris | Gratuït (si tens les habilitats) |
+
+
+**Recomanació per a autònoms i startups:** tret que us sentiu còmode amb HTML i proves rigoroses, es recomana començar amb un **generador de signatures de correu electrònic** de bona reputació. Eines com [MySignature](https://mysignature.io/) (com a bona per a autònoms/equips petits) o [WiseStamp](https://www.wisestamp.com/) ofereixen plans gratuïts o assequibles amb plantilles professionals, personalització fàcil (inclosos CTA i bàners) i comprovacions de compatibilitat integrades. [HubSpot també ofereix un popular generador gratuït](https://www.hubspot.com/email-signature-generator) per a necessitats més senzilles.
+
+
+![Captura de pantalla d'una interfície d'eina generadora de signatures de correu electrònic que mostra plantilles i opcions de personalització](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+
+
+Eines com MySignature i WiseStamp ofereixen plantilles i personalització senzilla.
+
+
+**Per a la multitud de bricolatge:** Si trieu HTML manual, recordeu que els clients de correu electrònic representen HTML de manera molt diferent. Utilitzeu CSS en línia per a l'estil i manteniu el vostre codi net. Proveu sense parar amb eines com Litmus o Email on Acid, o almenys en clients importants com Gmail, Outlook (diverses versions) i Apple Mail. Podeu trobar [plantilles de signatura HTML bàsiques en línia](https://www.freelancermap.com/blog/create-professional-email-signature/) per començar i recursos com [Exclaimer ofereix icones socials gratuïtes](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) i orientació.
+
+
+Aquí teniu una estructura HTML molt bàsica per a un enllaç en què es pot fer clic:
+
+
+I per a una icona social clicable (suposant que heu allotjat la imatge):
+
+
+### Millors pràctiques per a l'impacte i la capacitat de lliurament
+
+
+Crear una signatura interactiva és només la meitat de la batalla. Assegurar-se que es vegi genial a tot arreu i que els vostres correus electrònics no arribin a les carpetes de correu brossa és crucial.
+
+
+#### Bones pràctiques de disseny i contingut:
+
+- **Mantingueu-lo senzill i net:** eviteu el desordre. Prioritzar la informació essencial. Utilitzeu els espais en blanc de manera eficaç.
+
+
+- **Mobile-First Design:** [Optimitzar per a la llegibilitat mòbil](https://newoldstamp.com/blog/email-signature-best-practices-creative-ideas-beautiful-examples-design-hints-and-free-tools-to-use-now/). Assegureu-vos que els enllaços i els botons es puguin tocar fàcilment amb prou espai al seu voltant. Mantingueu l'amplada generalment inferior a 600 píxels.
+
+
+- **Consistència de la marca:** Utilitzeu els colors i els tipus de lletra de la vostra marca (adheriu-vos a [tipus de lletra segurs per a web](https://www.mailerlite.com/blog/email-signature-best-practices) com Arial, Helvetica, Verdana, Georgia per a una àmplia compatibilitat).
+
+
+- **Jerarquia:** destaca el teu nom i títol. Guia l'ull lògicament a través de la informació.
+
+
+- **Optimització de la imatge:** Utilitzeu imatges de fitxer d'alta qualitat però de mida petita (idealment menys de 100 kb de pes total de la signatura). Allotjament d'imatges de manera fiable (no incrustar tret que sigui necessari, ja que augmenta la mida del correu electrònic). Feu servir sempre el text descriptiu \`alt\` per a l'accessibilitat i si les imatges estan bloquejades.
+
+
+- **Elements límit:** No inclogueu *cada* perfil social. Aneu amb 3-4 rellevants. Un CTA fort sol ser millor que diversos CTA febles.
+
+
+![Comparació que mostra la representació correcta d'una signatura de correu electrònic tant a les pantalles d'escriptori com a mòbils](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+
+
+El mòbil és important: assegureu-vos que la vostra signatura tingui un aspecte fantàstic i funcioni bé en tots els dispositius.
+
+
+### Bones pràctiques tècniques i de lliurament:
+
+
+- **Utilitzeu Clean HTML:** Si feu servir manualment, utilitzeu dissenys de taula senzills i CSS en línia. Eviteu codi desordenat copiat de Word, ja que això [pot provocar problemes de renderització i activar filtres de correu brossa](https://newoldstamp.com/blog/most-popular-ways-to-create-an-email-signature/).
+
+
+- **Evita els activadors de correu brossa:** si bé la signatura per si sola rarament causa problemes de correu brossa, les mal implementades poden contribuir. Eviteu l'excés d'imatges, massa enllaços (especialment utilitzant text brossa com "Feu clic aquí!"), enllaços trencats o codi massa complex. Un bon equilibri de text i imatges és clau. [Email Signature Rescue assenyala que HTML inadequades o imatges grans](https://www.emailsignaturerescue.com/blog/why-does-my-email-signature-make-my-emails-get-caught-in-spam-filters) són culpables habituals.
+
+
+- **Prova, prova, prova:** previsualitza la teva signatura en diferents clients de correu electrònic (Gmail, Outlook, Apple Mail) i dispositius (escriptori, mòbil, tauleta). Comproveu com es veu en mode fosc.
+
+
+- **Assegureu-vos que els registres DNS estiguin establerts:** encara que no sigui específic de la signatura, tenir els registres SPF, DKIM i DMARC correctes per al vostre domini és vital per a l'entrega global del correu electrònic.
+
+
+## Fer que les interaccions comptin: més enllà del clic
+
+
+Una signatura interactiva està dissenyada per provocar acció: un clic, una trucada, una reserva. Però què passa després? Gestionar els seguiments de manera eficient i mantenir aquesta imatge professional és fonamental.
+
+
+Aquí és on integrar la vostra estratègia de signatura amb eines intel·ligents de gestió de correu electrònic pot marcar la diferència. Quan els clients potencials comencen a fer clic a l'enllaç "Reserva una reunió" generat per la teva signatura fantàstica, necessites un sistema per gestionar la programació i la comunicació posteriors sense problemes. De la mateixa manera, mantenir el to professional marcat per la vostra signatura a cada correu electrònic de seguiment és clau per establir relacions.
+
+Les eines dissenyades per a la productivitat del correu electrònic, com ara [Duet Mail](https://duetmail.com/), poden ajudar a superar aquesta bretxa. Imagineu-vos rebre ajuda de AI per redactar respostes personalitzades i sol·licitades que mantinguin la vostra veu única després que algú interaccioni amb la CTA de la vostra signatura. Les funcions de Duet Mail com **AI Triage** poden ajudar a emergir respostes importants generades a partir de les interaccions de signatura, mentre que el seu **Authentic AI Drafting** garanteix que els vostres seguiments sonin igual que vosaltres, preservant la professionalitat dels vostres projectes de signatura. Converteix el compromís generat per la teva signatura en converses productives i ben gestionades.
+
+
+## Preparat per activar la teva signatura?
+
+
+La vostra signatura de correu electrònic és més que una simple signatura; és una eina potent i rendible a l'espera de ser activada. Si incorporeu elements interactius de manera reflexiva i seguiu les millors pràctiques de disseny, podeu transformar-lo en una font coherent de reforç de marca, trànsit i clients potencials.
+
+
+Tant si opteu per un generador fàcil d'utilitzar com si decidiu codificar-lo vosaltres mateixos, la clau és crear quelcom professional, funcional i alineat amb els vostres objectius. Comenceu petit: afegiu un enllaç a un lloc web on es pugui fer clic i el vostre perfil social més important. Prova-ho. A continuació, considereu afegir una crida a l'acció clara o un enllaç de programació. Feu un seguiment dels vostres resultats si és possible ([molts generadors ofereixen analítiques](https://mysignature.io/blog/email-signature-statistics/)) i perfeccioneu-los.
+
+
+Preneu-vos uns minuts avui per actualitzar la vostra signatura de correu electrònic. És un petit canvi que pot marcar una gran diferència en la manera com els clients potencials i els col·laboradors et perceben i interactuen amb la teva marca.
