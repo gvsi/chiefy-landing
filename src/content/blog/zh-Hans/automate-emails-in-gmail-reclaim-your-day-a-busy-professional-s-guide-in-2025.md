@@ -3,7 +3,7 @@ title: "在 Gmail 自动化电子邮件并重新开始您的一天：2025 年忙
 description: "别再淹没在你的收件箱里了！了解如何使用内置功能、扩展程序和 AI 助手在 Gmail 中自动处理电子邮件，以节省时间并提高工作效率"
 publishedAt: 2025-11-16
 author: "Duet Mail团队"
-tags: ["AI", "Gmail", "Pro导电率", "自动化"]
+tags: ["AI", "Gmail", "生产力", "自动化"]
 draft: false
 ---
 

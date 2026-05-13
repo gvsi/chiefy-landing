@@ -17,7 +17,7 @@ draft: false
 
 不断收到新电子邮件不仅令人烦恼，而且令人烦恼。这极大地降低了生产力和幸福感。统计数据描绘了一幅鲜明的图景：普通上班族每天收到的电子邮件数量惊人[121 至 126 封](https://www.dragapp.com/zh-Hans/blog/email-statistics/)。在全球范围内，预计 2023 年每天发送和接收 [3,470 亿封电子邮件](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/)，预计这一数字还会攀升。
 
-管理这场洪水造成了沉重的损失。 Pro专业人士表示，他们大约花费了[每周工作时间的 28%](https://inboxdone.com/psychology-of-email-overload/) – 相当于 11-13 个小时 – 只是管理电子邮件。这种在任务和收件箱之间不断切换并不是没有后果的。研究表明，在检查电子邮件等中断后，需要 [23 分钟才能重新集中注意力](https://www.selectsoftwarereviews.com/zh-Hans/blog/employee-productivity-statistics)。
+管理这场洪水造成了沉重的损失。 专业人士表示，他们大约花费了[每周工作时间的 28%](https://inboxdone.com/psychology-of-email-overload/) – 相当于 11-13 个小时 – 只是管理电子邮件。这种在任务和收件箱之间不断切换并不是没有后果的。研究表明，在检查电子邮件等中断后，需要 [23 分钟才能重新集中注意力](https://www.selectsoftwarereviews.com/zh-Hans/blog/employee-productivity-statistics)。
 
 其影响超出了损失的时间。电子邮件超载始终与压力、焦虑和倦怠的增加有关。 [心理学前沿](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) 引用的一项调查发现，[66% 的美国人表示由于收到的电子邮件数量巨大而感到压力](https://inboxdone.com/psychology-of-email-overload/)。这种持续的压力会导致决策疲劳，甚至会对工作满意度产生负面影响，让你更难专注于战略性、高价值的工作。
 
@@ -31,7 +31,7 @@ draft: false
 
 ### AI 电子邮件管理如何运作？
 
-AI 电子邮件管理的核心是使用**机器学习 (ML)** 和 **自然语言 Processing (NLP)** 等先进技术来像人类助手一样理解您的电子邮件并与之交互，而且速度更快。 AI 不是从严格的规则中学习，而是从模式中学习：
+AI 电子邮件管理的核心是使用**机器学习 (ML)** 和 **自然语言处理 (NLP)** 等先进技术来像人类助手一样理解您的电子邮件并与之交互，而且速度更快。 AI 不是从严格的规则中学习，而是从模式中学习：
 
 - **它分析内容：** AI 阅读并理解电子邮件中的上下文、紧迫性和情绪。
 

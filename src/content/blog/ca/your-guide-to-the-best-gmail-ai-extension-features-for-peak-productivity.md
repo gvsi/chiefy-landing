@@ -1,9 +1,9 @@
 ---
-title: "La vostra guia per a les millors funcions d'extensió Gmail AI per a una productivitat màxima\n"
+title: "La vostra guia per a les millors funcions d'extensió Gmail AI per a una productivitat màxima"
 description: "Descobriu com una extensió Gmail AI utilitza funcions com ara la redacció intel·ligent, el resum i el triatge per superar la sobrecàrrega de correu electrònic i augmentar la productivitat."
 publishedAt: 2025-04-15
 author: "Duet Mail Team"
-tags: ["AI","Gmail","Productivitat\n","Eines"]
+tags: ["AI","Gmail","Productivitat","Eines"]
 draft: false
 ---
 

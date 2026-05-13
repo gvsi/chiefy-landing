@@ -3,7 +3,7 @@ title: "Przyspiesz swój workflow: najlepsze biznesowe rozszerzenia do Gmaila dl
 description: "Odkryj najlepsze biznesowe rozszerzenia do Gmaila w 2025 roku dla produktywności, CRM, wsparcia AI i nie tylko. Odzyskaj swój czas!"
 publishedAt: 2025-06-30
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Tools"]
+tags: ["AI", "Gmail", "Produktywność", "Narzędzia"]
 draft: false
 ---
 

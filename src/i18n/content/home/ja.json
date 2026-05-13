@@ -215,7 +215,7 @@
   "draftShowcase": {
     "ariaLabel": "AI 電子メールの作成と返信の生成",
     "badge": "製図",
-    "title": "あなたの声でデュエットドラフト",
+    "title": "あなたの声でDuetドラフト",
     "subtitle": "Duet はあなたの書き方を学習し、あなたの口調に合った返信の下書きを作成します。 確認して必要に応じて調整し、数秒で送信します。",
     "windowTitle": "新しいメッセージ",
     "fieldLabels": {
@@ -253,7 +253,7 @@
     "badge": "知能",
     "title": "メールについて何でも質問してください",
     "subtitle": "Duet にメールの検索、カレンダーの確認、返信の下書きを依頼します。 あなたの受信箱を理解し、即座に応答します。",
-    "windowTitle": "デュエットエージェント",
+    "windowTitle": "Duetエージェント",
     "onlineLabel": "オンライン",
     "initialUserMessage": "経理部門から送信された Stripe 請求書を見つけられますか?",
     "processingText": "受信トレイを検索しています...",
@@ -390,7 +390,7 @@
             "description": "始めるための基本編成"
           },
           {
-            "title": "デュエットアシスタント",
+            "title": "Duetアシスタント",
             "description": "AI アシスタントを試してみる"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "デュエットアシスタント",
+            "title": "Duetアシスタント",
             "description": "チャットして検索、下書き、整理などを行う",
             "highlight": true
           },
@@ -480,7 +480,7 @@
     "contactLabel": "接触",
     "contactHeading": "まだ質問がありますか?",
     "contactCta": "お問い合わせ→",
-    "footerBrand": "デュエットメール",
+    "footerBrand": "Duet Mail",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
@@ -623,9 +623,9 @@
     "ariaLabel": "投資収益率",
     "label": "数学",
     "narrativeTemplate": "{bookingUnit} あたり {pricePerBooking} では、返信が遅いために失われるのは {lostPerMonth} だけです =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/mo",
     "dividerLabel": "vs",
-    "duetLabel": "デュエット",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
@@ -654,7 +654,7 @@
         "name": "Pro 計画",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "月",
+        "unitText": "MONTH",
         "description": "スマートな受信箱の分類、AI 下書き、アシスタント、カレンダーの統合によるフルアクセス"
       }
     ],

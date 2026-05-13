@@ -3,7 +3,7 @@ title: "તમારા વર્કફ્લોને વધુ સક્ષમ
 description: "ઉત્પાદકતા, CRM, AI સહાય અને વધુ માટે 2025ના શ્રેષ્ઠ Gmail બિઝનેસ એક્સ્ટેન્શન્સ શોધો. તમારો સમય પાછો મેળવો!"
 publishedAt: 2025-06-30
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Tools"]
+tags: ["AI", "Gmail", "ઉત્પાદકતા", "ટૂલ્સ"]
 draft: false
 ---
 

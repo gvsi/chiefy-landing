@@ -116,7 +116,7 @@ Hivi ndivyo AI inatoa faida juu ya programu-jalizi za jadi za bure:
 
 - **Uandishi Bora na Halisi:** Zana za violezo bila malipo (kama toleo pungufu la Right Inbox) huhifadhi kuandika lakini mara nyingi husababisha ujumbe wa jumla. Wasaidizi wa hali ya juu wa AI wanaweza kujifunza mtindo wako wa kipekee wa uandishi, sauti na msamiati kutoka kwa barua pepe ulizotuma hapo awali.
 
-  - _Duet Mail Integration:_ Hii inaenda mbali zaidi ya violezo vya msingi. [Uandishi Halisi wa AI wa Duet Mail](https://duetmail.com/sw) huchanganua mifumo yako ya mawasiliano ili kupendekeza chaguo nyingi za kujibu ambazo zinasikika kama _you_. Hii hudumisha mguso wako wa kibinafsi na taaluma huku ikiharakisha sana nyakati za majibu kwa barua pepe za kawaida. (Maelezo ya Duet Mail)
+  - _Duet Mail Integration:_ Hii inaenda mbali zaidi ya violezo vya msingi. [Uandishi Halisi wa AI wa Duet Mail](https://duetmail.com/sw) huchanganua mifumo yako ya mawasiliano ili kupendekeza chaguo nyingi za kujibu ambazo zinasikika kama _wewe_. Hii hudumisha mguso wako wa kibinafsi na taaluma huku ikiharakisha sana nyakati za majibu kwa barua pepe za kawaida. (Maelezo ya Duet Mail)
 
 Tofauti kuu ni mabadiliko katika dhana. Programu-jalizi zisizolipishwa hukusaidia _kudhibiti_ mtiririko wa barua pepe uliopo kwa ufanisi zaidi kupitia upangaji bora. Visaidizi vya AI vinalenga _kupunguza_ juhudi za utambuzi na uwekezaji wa wakati unaohitajika kwa usimamizi wa barua pepe kwa kuweka kipaumbele kiotomatiki, muhtasari na uandishi. Wanashughulikia sababu kuu za uchovu wa barua pepe - kufanya maamuzi kila mara, kubadilisha muktadha na wakati wa utunzi - kwa njia ambayo zana rahisi haziwezi.
 

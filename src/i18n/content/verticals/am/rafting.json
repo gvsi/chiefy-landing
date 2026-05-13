@@ -103,17 +103,17 @@
     "originalFrom": "ጄኒፈር ወ.",
     "originalText": "ሰላም! እኛ በኦገስት ውስጥ የ6 ጎብኝዎች ቤተሰብ ነን እና በ9ኛው ቀን የሙሉ ቀን የራፍቲንግ ጉዞ ማስያዝ እንፈልጋለን። ለአንድ ሰው ዋጋው ስንት ነው እና ምን አይነት የልምድ ደረጃ ያስፈልገናል?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "ሰላም Jennifer!",
+      "ኦገስት 9 ለ6 ሰዎች ሙሉ በሙሉ ክፍት ነው። ሙሉ-ቀን ጉዞዎች $150/ሰው ናቸው እና ወደ 7 ሰዓት ይቆያሉ — በ8:30 AM በመግቢያው ቦታ እንገናኛለን።",
+      "ልምድ አያስፈልግም። PFDs፣ የራስ ቁር፣ ደረቅ ቦርሳዎች እና የወንዝ ዳር ምሳ ሁሉም ተካትተዋል — የፀሐይ መከላከያ እና የውሃ ጫማዎች ብቻ ይዘው ይምጡ።",
+      "ቦታዎችዎን እንዳስይዝ?"
     ],
     "highlightText": "ኦገስት 9 ለ6 ሰፊ ክፍት ነው። የሙሉ ቀን ጉዞዎች በሰዎች 150 ዶላር ናቸው።",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "የጉዞ አይነቶችዎን እና ዋጋዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የመሳሪያ ዝርዝሮችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

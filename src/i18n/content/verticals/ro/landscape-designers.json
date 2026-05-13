@@ -3,7 +3,7 @@
   "pageTitle": "Duet Mail pentru designeri de peisaj | AI Asistent de e-mail",
   "metaDescription": "Duet Mail îi ajută pe designerii de peisaj să răspundă instantaneu la e-mailurile clienților, chiar și din teren. Răspunsuri redactate de AI cu detaliile proiectului, prețurile și vocea.",
   "heroBadge": "De încredere de peste 300 de designeri de peisaj",
-  "heroHeadline": "Asistentul dvs. de e-mail în timp ce vă aflați pe teren",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe teren",
   "heroSubline": "Duet învață detaliile proiectului, paletele plantelor, prețurile și procesele - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată un client din cauza unui răspuns lent.",
   "inboxEmails": [
     {
@@ -38,12 +38,12 @@
       "avatarLetter": "V",
       "avatarColor": "lavender",
       "subject": "Comanda #4821 gata de ridicare",
-      "preview": "Comanda dvs. de arbuști de 24 de galoane, 6 exemplare de copaci și apartamente de acoperire a solului este gata. Preluare disponibilă de luni până sâmbătă între 7:00 și 16:00...",
+      "preview": "Comanda ta de arbuști de 24 de galoane, 6 exemplare de copaci și apartamente de acoperire a solului este gata. Preluare disponibilă de luni până sâmbătă între 7:00 și 16:00...",
       "pill": "Furnizor",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Bună Rachel! Mi-ar plăcea să vă ajut cu curtea din spate. În prezent, rezerv consultații inițiale după 2-3 săptămâni. Prima vizită este o evaluare la fața locului de 90 de minute - voi merge pe jos pe proprietate, voi face măsurători și voi discuta despre viziunea dvs. De acolo am alcătuit un plan conceptual. Vrei să te pun în calendar?",
+  "autodraft": "Bună Rachel! Mi-ar plăcea să te ajut cu curtea din spate. În prezent, rezerv consultații inițiale după 2-3 săptămâni. Prima vizită este o evaluare la fața locului de 90 de minute - voi merge pe proprietate, voi face măsurători și voi discuta despre viziunea ta. De acolo alcătuiesc un plan conceptual. Vrei să te pun în calendar?",
   "math": {
     "pricePerBooking": "$8,000",
     "bookingUnit": "proiect",
@@ -52,8 +52,8 @@
     "punchline": "Un proiect salvat plătește ani de Duet."
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi noile cereri de consultare, apoi aprobările clienților și niciodată zgomotul furnizorului. Nu mai lipsește un plumb îngropat sub confirmările comenzilor de pepinieră.",
-  "draftSubtitle": "Duet învață prețurile, procesul și tonul dvs. Când o solicitare de consultare ajunge, aceasta redactează un răspuns complet cu disponibilitatea dvs., la ce să vă așteptați și pașii următori. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Care este cronologia proiectului Henderson?” „Care clienți așteaptă aprobarea planului?” Duet vă cunoaște căsuța de e-mail și proiectele dvs. - doar întrebați.",
+  "draftSubtitle": "Duet învață prețurile, procesul și tonul tău. Când o solicitare de consultare ajunge, aceasta redactează un răspuns complet cu disponibilitatea ta, la ce să se aștepte și pașii următori. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Care este cronologia proiectului Henderson?” „Care clienți așteaptă aprobarea planului?” Duet îți cunoaște căsuța de e-mail și proiectele - doar întreabă.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -119,7 +119,7 @@
   "agent": {
     "userMessage": "Ce clienți mai așteaptă aprobarea planului?",
     "agentResponse": "Pe baza e-mailurilor tale recente, doi clienți sunt în așteptarea aprobării: Jennifer și Mark L. (reproiectarea curții din spate - au trimis planuri finale cu 4 zile în urmă, fără răspuns încă) și Cohens (conversie nativă în curte din față - a trimis planul revizuit săptămâna trecută). Vrei să redactez o continuare blândă pentru oricare dintre ele?",
-    "followUp": "Redactați o continuare pentru Jennifer cu privire la aprobarea planului",
+    "followUp": "Redactează o continuare pentru Jennifer cu privire la aprobarea planului",
     "followUpResponse": "Făcut! I-am întocmit un check-in prietenesc pentru Jennifer, întrebându-i dacă ea și Mark au avut ocazia să revizuiască planurile finale și reamintindu-i că poți să apelezi rapid la un apel pentru a parcurge selecția plantelor. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Iubit de designerii de peisaj",
@@ -155,16 +155,16 @@
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Petreceți-vă zilele creând peisaje,\nnu ajung din urmă cu e-mailul.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece-ți zilele creând peisaje,\nnu recuperând e-mailuri.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Poate Duet să facă față goanei de primăvară când cererile de consultare se adună?",
-      "answer": "Exact atunci strălucește Duet. În timpul sezonului dvs. cel mai aglomerat, fiecare întrebare nouă primește un răspuns rapid și detaliat cu procesul, calendarul și disponibilitatea dvs. - chiar și atunci când sunteți la fața locului toată ziua. Nu mai pierdeți leaduri de primăvară pentru că nu puteați reveni la ele până la ora 21.00."
+      "answer": "Exact atunci strălucește Duet. În timpul sezonului tău cel mai aglomerat, fiecare întrebare nouă primește un răspuns rapid și detaliat cu procesul, calendarul și disponibilitatea ta - chiar și atunci când ești la fața locului toată ziua. Nu mai pierzi leaduri de primăvară pentru că nu puteai reveni la ele până la ora 21.00."
     },
     {
       "question": "Coordonez cu mai multe echipe în aer liber. Duet ajută la asta?",
-      "answer": "Da. Duet învață proiectele dvs. și antreprenorii implicați - peisaj, irigații, echipe de plantare, pepiniere. Clasifică e-mailurile contractorului separat de e-mailurile clienților și poate redacta răspunsuri cu detalii specifice proiectului, cum ar fi specificații, calendare și materiale. Rămâneți în fruntea fiecărui echipaj fără haosul în căsuța de e-mail."
+      "answer": "Da. Duet învață proiectele tale și antreprenorii implicați - peisaj, irigații, echipe de plantare, pepiniere. Clasifică e-mailurile contractorului separat de e-mailurile clienților și poate redacta răspunsuri cu detalii specifice proiectului, cum ar fi specificații, calendare și materiale. Rămâi la curent cu fiecare echipaj fără haosul din căsuța de e-mail."
     }
   ],
   "pricingNote": "La 8.000 USD/proiect, un client salvat plătește pentru ani de Pro."

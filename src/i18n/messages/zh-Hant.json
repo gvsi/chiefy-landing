@@ -42,7 +42,7 @@
   "math.aria": "投資回報",
   "math.label": "計算方式",
   "math.narrativeTemplate": "以每 {bookingUnit} {pricePerBooking} 計，因回覆遲緩而損失僅 {lostPerMonth} =",
-  "math.lossSuffix": "/mo gone",
+  "math.lossSuffix": "/mo",
   "math.vs": "對比",
   "math.duetLabel": "Duet",
   "math.duetPrice": "$30/mo",

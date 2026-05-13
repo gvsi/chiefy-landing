@@ -1,9 +1,9 @@
 ---
-title: "Conquereix el teu caos a la safata d'entrada: els millors connectors d'organització Gmail gratuïts per a una productivitat màxima el 2025\n"
-description: "Cansat del caos Gmail? Descobriu els millors complements d'organització Gmail gratuïts per al 2025 per gestionar la sobrecàrrega de correu electrònic, visualitzar els fluxos de treball i augmentar la productivitat.\n"
+title: "Conquereix el teu caos a la safata d'entrada: els millors connectors d'organització Gmail gratuïts per a una productivitat màxima el 2025"
+description: "Cansat del caos Gmail? Descobriu els millors complements d'organització Gmail gratuïts per al 2025 per gestionar la sobrecàrrega de correu electrònic, visualitzar els fluxos de treball i augmentar la productivitat."
 publishedAt: 2025-07-27
 author: "Duet Mail Team"
-tags: ["AI","Gmail","Productivitat\n","Gestió de la safata d'entrada"]
+tags: ["AI","Gmail","Productivitat","Gestió de la safata d'entrada"]
 draft: false
 ---
 

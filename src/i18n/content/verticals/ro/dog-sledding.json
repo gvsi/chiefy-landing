@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
   "pageTitle": "Duet Mail pentru excursii cu sania de câini | Asistent de e-mail AI",
-  "metaDescription": "Duet Mail îi ajută pe mushers să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu tipurile de tur, prețurile, politicile și vocea dvs.",
+  "metaDescription": "Duet Mail îi ajută pe mushers să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu tipurile tale de tur, prețurile, politicile și vocea ta.",
   "heroBadge": "Au încredere de peste 200 de mushers",
-  "heroHeadline": "Asistentul dvs. de e-mail în timp ce sunteți pe drum",
-  "heroSubline": "Duet învață tipurile de tur, prețurile, politicile meteorologice și suplimentele dvs. - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare la un răspuns lent.",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe traseu",
+  "heroSubline": "Duet învață tipurile de tur, prețurile, politicile meteo și suplimentele tale - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -37,13 +37,13 @@
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "O nouă recenzie pentru înregistrarea dvs",
-      "preview": "Un călător a evaluat recent afacerea dvs. Vezi ce au de spus și răspund...",
+      "subject": "O nouă recenzie pentru listarea ta",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hei Rachel! Ne-ar plăcea să vă găzduim familia. Combinația noastră Aurora + Mush costă 175 USD/persoană - aveți o plimbare de 1,5 ore cu sania prin poteci la amurg, apoi cacao fierbinte lângă foc în timp ce așteptăm luminile. Toate echipamentele pentru vreme rece sunt furnizate. Copiii cu vârsta de până la 12 ani costă 125 USD. Vrei să te rezerv pentru ianuarie?",
+  "autodraft": "Hei Rachel! Ne-ar plăcea să găzduim familia ta. Combinația noastră Aurora + Mush costă 175 USD/persoană - include o plimbare de 1,5 ore cu sania prin poteci la amurg, apoi cacao fierbinte lângă foc în timp ce așteptăm luminile. Toate echipamentele pentru vreme rece sunt furnizate. Copiii cu vârsta de până la 12 ani costă 125 USD. Vrei să te rezerv pentru ianuarie?",
   "math": {
     "pricePerBooking": "$150",
     "bookingUnit": "tur",
@@ -51,9 +51,9 @@
     "monthlyLoss": "$750",
     "punchline": "Două rezervări salvate plătesc pentru un an de Duet."
   },
-  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările în al doilea rând și zgomotul niciodată. Nu mai ratați o întrebare despre tur îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Duet învață tipurile de tur, prețurile și tonul dvs. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu detalii despre pachet, ce să poarte și suplimente. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Aveți rezervări în acest weekend? „Elaborați un răspuns despre combinația de aurore”. Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vezi mai întâi cererile de rezervare, apoi întrebările și niciodată zgomotul. Nu mai ratezi o întrebare despre tur îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet învață tipurile de tur, prețurile și tonul tău. Când ajunge o solicitare de rezervare, redactează un răspuns complet cu detalii despre pachet, ce să poarte și suplimente. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Ai rezervări în acest weekend?” „Redactează un răspuns despre combinația de aurore.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -84,7 +84,7 @@
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Rezumatul săptămânal al rezervării dvs",
+      "subject": "Rezumatul săptămânal al rezervărilor tale",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -110,7 +110,7 @@
     ],
     "highlightText": "Aurora + Mush Combo costă 175 USD/persoană - o plimbare cu sania de 1,5 ore",
     "tooltipFeatures": [
-      "Cunoaște tipurile de tur și prețurile dvs",
+      "Cunoaște tipurile tale de tur și prețurile",
       "Ciorne în vocea ta",
       "Include echipament și detalii suplimentare",
       "Învață în timp"
@@ -118,8 +118,8 @@
   },
   "agent": {
     "userMessage": "Urmează rezervări în acest weekend? Vremea pare nesigură.",
-    "agentResponse": "Aveți 3 excursii rezervate în acest weekend: o vizită la canisa sâmbătă la ora 10:00 (2 oaspeți), o experiență de mush de 2 ore sâmbătă la ora 13:00 (4 persoane) și un combo cu aurora duminică la ora 16:00 (6 invitați). Grupul de duminică a întrebat despre politica de anulare. Vrei să scriu o actualizare meteo pentru toate trei?",
-    "followUp": "Creați o actualizare meteo pentru grupul de aurore de duminică",
+    "agentResponse": "Ai 3 excursii rezervate în acest weekend: o vizită la canisa sâmbătă la ora 10:00 (2 oaspeți), o experiență de mush de 2 ore sâmbătă la ora 13:00 (4 persoane) și un combo cu aurora duminică la ora 16:00 (6 invitați). Grupul de duminică a întrebat despre politica de anulare. Vrei să scriu o actualizare meteo pentru toate trei?",
+    "followUp": "Creează o actualizare meteo pentru grupul de aurore de duminică",
     "followUpResponse": "Făcut! Am redactat un răspuns pentru grupul Aurora de duminică, anunțându-i că monitorizați condițiile și le voi confirma până sâmbătă seara. Include politica de reprogramare și date alternative. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Iubit de mushers și touroperatori",
@@ -155,16 +155,16 @@
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Petrece iarna pe traseu cu câinii tăi,\nnu în căsuța dvs. de e-mail.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece iarna pe traseu cu câinii tăi,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Cum gestionează Duet anulările meteo și incertitudinea aurorelor?",
-      "answer": "Duet află politicile dvs. de anulare și reprogramare. Când un oaspete trimite e-mailuri despre probleme legate de vreme sau de vizibilitatea aurorelor, acesta redactează un răspuns cu politica dvs., date alternative și orice detalii relevante - cum ar fi monitorizarea condițiilor și confirmarea mai aproape de tur. Tu revizuiești și trimiți."
+      "answer": "Duet află politicile tale de anulare și reprogramare. Când un oaspete trimite e-mailuri despre probleme legate de vreme sau de vizibilitatea aurorelor, redactează un răspuns cu politica ta, date alternative și orice detalii relevante - cum ar fi monitorizarea condițiilor și confirmarea mai aproape de tur. Tu revizuiești și trimiți."
     },
     {
       "question": "Ofer mai multe tipuri de tur cu prețuri și suplimente diferite. Duet le poate menține drept?",
-      "answer": "Da. Duet învață fiecare dintre tipurile dvs. de tur - vizite la canisa, experiențe cu ciuperci, combinații de aurore, suplimente de fotografie, pachete de transport - împreună cu prețurile, durata și ceea ce este inclus. Când vine o întrebare, aceasta se potrivește cu turul potrivit și redactează un răspuns cu detaliile corecte."
+      "answer": "Da. Duet învață fiecare dintre tipurile tale de tur - vizite la canisa, experiențe de mushing, combinații de aurore, suplimente de fotografie, pachete de transport - împreună cu prețurile, durata și ceea ce este inclus. Când vine o întrebare, se potrivește cu turul potrivit și redactează un răspuns cu detaliile corecte."
     }
   ],
   "pricingNote": "La 150 USD/tur, două rezervări salvate plătesc pentru peste un an de Pro."

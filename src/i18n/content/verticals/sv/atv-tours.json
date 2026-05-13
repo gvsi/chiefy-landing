@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mailför ATV & UTV Tours | AI e-postassistent",
-  "metaDescription": "Duet Mailhjälper ATV- och UTV-reseguider att svara på bokningsmeddelanden direkt - även från leden. AI-utkastade svar med dina priser, krav och röst.",
+  "pageTitle": "Duet Mail för ATV & UTV Tours | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper ATV- och UTV-reseguider att svara på bokningsmeddelanden direkt - även från leden. AI-utkastade svar med dina priser, krav och röst.",
   "heroBadge": "Betrodd av 200+ reseguider",
   "heroHeadline": "Din e-postassistent när du är på spåren",
-  "heroSubline": "Duetlär sig dina turnétyper, prissättning och krav på ryttare – förbereder sedan e-postsvar så att du aldrig förlorar en bokning på grund av ett långsamt svar.",
+  "heroSubline": "Duet lär sig dina turnétyper, prissättning och krav på ryttare – förbereder sedan e-postsvar så att du aldrig förlorar en bokning på grund av ett långsamt svar.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grupp (4 maskiner)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "En sparad gruppbokning betalar för ett år avDuet."
+    "punchline": "En sparad gruppbokning betalar för ett år av Duet."
   },
-  "categorizationSubtitle": "Duettaggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, försäkringsfrågor sedan och aldrig buller. Du saknar inte längre en gruppförfrågan begravd under TripAdvisor-varningar.",
-  "draftSubtitle": "Duetlär sig dina turrutter, prissättning och krav på ryttare. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med reseinformation, priser och vad du ska ta med. Du granskar och skickar.",
-  "agentSubtitle": "\"Några grupper bokade för denna helg?\" \"Skapa ett svar till Rachel med tillgänglighet på lördag.\"Duetkänner till din inkorg och schema — fråga bara.",
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, försäkringsfrågor sedan och aldrig buller. Du saknar inte längre en gruppförfrågan begravd under TripAdvisor-varningar.",
+  "draftSubtitle": "Duet lär sig dina turrutter, prissättning och krav på ryttare. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med reseinformation, priser och vad du ska ta med. Du granskar och skickar.",
+  "agentSubtitle": "\"Några grupper bokade för denna helg?\" \"Skapa ett svar till Rachel med tillgänglighet på lördag.\"Duet känner till din inkorg och schema — fråga bara.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "ATV Guide, södra Utah",
-      "quote": "Jag leder 8-timmarsturer genom kanjonerna med noll cellservice. När jag kom tillbaka hade hälften av mina bokningsmeddelanden blivit kalla.Duetskriver utkast till svar med mina priser och spårinformation — jag granskar dem bara i slutet av dagen.",
+      "quote": "Jag leder 8-timmarsturer genom kanjonerna med noll cellservice. När jag kom tillbaka hade hälften av mina bokningsmeddelanden blivit kalla.Duet skriver utkast till svar med mina priser och spårinformation — jag granskar dem bara i slutet av dagen.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV-researrangör, Colorado",
-      "quote": "Vi kör turer 7 dagar i veckan och bara frågorna om försäkring och undantag äter upp mina morgnar.Duethanterar allt - krav på ryttare, åldersbegränsningar, vad man ska ta med sig. Låter precis som jag.",
+      "quote": "Vi kör turer 7 dagar i veckan och bara frågorna om försäkring och undantag äter upp mina morgnar.Duet hanterar allt - krav på ryttare, åldersbegränsningar, vad man ska ta med sig. Låter precis som jag.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "Människor skickar e-post och frågar vilket spår som är rätt för deras grupp, vilken erfarenhetsnivå de behöver, om barn kan åka. Samma 5 frågor om och om igen.Duetspikar varenda en av dem.",
+      "quote": "Människor skickar e-post och frågar vilket spår som är rätt för deras grupp, vilken erfarenhetsnivå de behöver, om barn kan åka. Samma 5 frågor om och om igen.Duet spikar varenda en av dem.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Jag spenderade över en timme varje natt på att svara på samma tillgänglighetsfrågor. Nu skriverDuetsvar medan jag är ute på leden. Min svarstid gick från timmar till minuter.",
+      "quote": "Jag spenderade över en timme varje natt på att svara på samma tillgänglighetsfrågor. Nu skriver Duet svar medan jag är ute på leden. Min svarstid gick från timmar till minuter.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Familj ATV Tours, Sedona",
-      "quote": "Vi får många familjer som frågar om nybörjarspår och ålderskrav.Duetlärde sig alla våra turnéalternativ och rekommenderar den rätta i varje svar. Kunder kan inte se skillnad.",
+      "quote": "Vi får många familjer som frågar om nybörjarspår och ålderskrav.Duet lärde sig alla våra turnéalternativ och rekommenderar den rätta i varje svar. Kunder kan inte se skillnad.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "HanterarDuetförsäkrings- och undantagsfrågor?",
-      "answer": "Ja.Duetlär sig dina ryttares krav – ansvarsförsäkring, åldersbegränsningar, information om undantag, vad ryttare behöver ta med sig. När någon skickar e-post och frågar vad de behöver före sin turné, skaparDuetett komplett svar med alla detaljer. Du granskar och trycker på skicka."
+      "question": "Hanterar Duet försäkrings- och undantagsfrågor?",
+      "answer": "Ja. Duet lär sig dina ryttares krav – ansvarsförsäkring, åldersbegränsningar, information om undantag, vad ryttare behöver ta med sig. När någon skickar e-post och frågar vad de behöver före sin turné, skapar Duet ett komplett svar med alla detaljer. Du granskar och trycker på skicka."
     },
     {
-      "question": "Jag är på spåren hela dagen utan mobiltjänst. Hur hjälperDuet?",
-      "answer": "Det är precis därför guider älskarDuet. Medan du leder en 6-8 timmar lång rundtur utan signal, hopar sig bokningsförfrågningar.Duetutkast till svar till var och en av dem - prissättning, tillgänglighet, mötesplats, vad man ska ha på sig. När du kommer tillbaka granskar du utkasten och skickar. De flesta guider säger att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
+      "question": "Jag är på spåren hela dagen utan mobiltjänst. Hur hjälper Duet?",
+      "answer": "Det är precis därför guider älskar Duet. Medan du leder en 6-8 timmar lång rundtur utan signal, hopar sig bokningsförfrågningar.Duet utkast till svar till var och en av dem - prissättning, tillgänglighet, mötesplats, vad man ska ha på sig. När du kommer tillbaka granskar du utkasten och skickar. De flesta guider säger att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
     }
   ],
   "pricingNote": "För $200/maskin betalar en sparad grupp på 4 för över ett år avPro."

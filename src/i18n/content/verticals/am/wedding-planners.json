@@ -103,17 +103,17 @@
     "originalFrom": "ኤሚሊ እና ጄምስ ወ.",
     "originalText": "ሃይ! አሁን ተጫጭተናል እና ለ120 ለሚሆኑ እንግዶች የሴፕቴምበር 20 ሰርግ እየተመለከትን ነው። ተደራሽነት አለህ? የእርስዎ ጥቅሎች እና ዋጋ ምንድን ናቸው?",
     "lines": [
-      "Hi Emily & James — congratulations!",
-      "September 20th is available and 120 guests is a wonderful size. I offer full planning, partial planning, and day-of coordination packages starting at $3,500.",
-      "I'd love to set up a complimentary consultation to hear your vision and walk you through which package fits best.",
-      "Are you free for a call this week?"
+      "ሰላም Emily እና James — እንኳን ደስ አላችሁ!",
+      "ሴፕቴምበር 20 ይገኛል እና 120 እንግዶች ጥሩ መጠን ነው። ከ$3,500 ጀምሮ ሙሉ እቅድ፣ ከፊል እቅድ እና የቀን-ማስተባበሪያ ጥቅሎችን አቀርባለሁ።",
+      "ራዕያችሁን ለመስማት እና የትኛው ጥቅል በጣም እንደሚስማማ ለማሳየት ነፃ ምክክር ማዘጋጀት ደስ ይለኛል።",
+      "በዚህ ሳምንት ለጥሪ ነፃ ናችሁ?"
     ],
     "highlightText": "ሴፕቴምበር 20 ይገኛል እና 120 እንግዶች በጣም ጥሩ መጠን ነው።",
     "tooltipFeatures": [
-      "Knows your packages & availability",
-      "Drafts in your voice",
-      "Includes consultation next steps",
-      "Learns your client preferences"
+      "ጥቅሎችዎን እና ተገኝነትዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የምክክር ቀጣይ እርምጃዎችን ያካትታል",
+      "የደንበኛዎን ምርጫዎች ይማራል"
     ]
   },
   "agent": {

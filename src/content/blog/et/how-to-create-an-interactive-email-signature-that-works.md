@@ -57,9 +57,7 @@ Kõik interaktiivsed elemendid ei ole võrdsed. Siin on mõned vabakutseliste ja
 
 - **Ajastamise link:** integreerige otse selliste tööriistadega nagu Calendly. Nupu „[Koosoleku ajakava”] või lingi lisamine (https://www.bybrand.io/blog/schedule-meeting-email-signature/) eemaldab kõnede broneerimisel tekkinud hõõrdumise.
 
-- **Logo või peapilt:** lisab isikupära ja brändi tuntust. Muutke see klõpsatavaks, lingiks teie veebisaidile. Kasutage kvaliteetset professionaalset pilti.
-
-![Näide lihtsast professionaalsest meiliallkirjast vabakutselisele koos klõpsatava kontaktteabe ja suhtluslinkidega](https://www.bybrand.io/blog/schedule-meeting-email-signature/)
+- **Logo või peapilt:** lisab isikupära ja brändi tuntust. Muutke see klõpsatavaks, lingiks teie veebisaidile. Kasutage kvaliteetset professionaalset pilti.![Näide lihtsast professionaalsest meiliallkirjast vabakutselisele koos klõpsatava kontaktteabe ja suhtluslinkidega](https://www.bybrand.io/blog/schedule-meeting-email-signature/)
 
 Hoidke see puhtana: lihtne allkiri olulise kontaktteabe ja peamiste sotsiaalsete linkidega.
 
@@ -73,7 +71,7 @@ Interaktiivse allkirja loomiseks on kaks peamist võimalust:
 
 Milline on teie jaoks õige? Võrdleme:
 
-| Funktsioon             | Meiliallkirjade generaatorid (nt [MySignature](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png), [WiseStamp](https://mysignature.io/)) | Manuaalne HTML-kodeerimine                                      |
+| Funktsioon             | Meiliallkirjade generaatorid (nt [MySignature](https://mysignature.io/), [WiseStamp](https://www.wisestamp.com/)) | Manuaalne HTML-kodeerimine                                      |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
 | **Kasutuslihtsus**     | Väga kõrge (kodeerimine pole vajalik, visuaalsed redaktorid, mallid)                                                          | Madal (nõuab HTML-i/CSS-i teadmisi)                       |
 | **Kohandamine**   | Kõrge (palju malle ja valikuid, mõned piirangud)                                                                       | Kokku (täielik kontroll disaini üle)                    |
@@ -82,13 +80,11 @@ Milline on teie jaoks õige? Võrdleme:
 | **Omadused**        | Mallid, analüüs, bännerikampaaniad, keskhaldus (sageli tasuline)                                            | Piiratud ainult HTML/CSS-i meilipiirangutega              |
 | **Kulu**            | Saadaval tasuta tasemed (sageli koos kaubamärgiga); Tasulised plaanid rohkemate funktsioonide/kasutajate jaoks                                     | Tasuta (kui teil on oskused)                           |
 
-**Soovitus vabakutselistele ja alustavatele ettevõtetele:** kui te ei tunne HTML-i ja ranget testimist, on tungivalt soovitatav alustada maineka **e-posti allkirjade generaatoriga**. Sellised tööriistad nagu [MySignature](https://www.wisestamp.com/) (selleks peetakse head vabakutselistele/väikestele meeskondadele) või [WiseStamp](https://mysignature.io/) pakuvad tasuta või taskukohaseid plaane koos professionaalsete mallidega, lihtsa kohandamise (sh CTA-d ja bännerid) ja sisseehitatud ühilduvuskontrolliga. [HubSpot pakub lihtsamate vajaduste jaoks ka populaarset tasuta generaatorit](https://www.wisestamp.com/).
-
-![Ekraanipilt meiliallkirjade generaatori tööriista liidesest, mis näitab malle ja kohandamisvalikuid](https://www.hubspot.com/email-signature-generator)
+**Soovitus vabakutselistele ja alustavatele ettevõtetele:** kui te ei tunne HTML-i ja ranget testimist, on tungivalt soovitatav alustada maineka **e-posti allkirjade generaatoriga**. Sellised tööriistad nagu [MySignature](https://mysignature.io/) (selleks peetakse head vabakutselistele/väikestele meeskondadele) või [WiseStamp](https://www.wisestamp.com/) pakuvad tasuta või taskukohaseid plaane koos professionaalsete mallidega, lihtsa kohandamise (sh CTA-d ja bännerid) ja sisseehitatud ühilduvuskontrolliga. [HubSpot pakub lihtsamate vajaduste jaoks ka populaarset tasuta generaatorit](https://www.hubspot.com/email-signature-generator).![Ekraanipilt meiliallkirjade generaatori tööriista liidesest, mis näitab malle ja kohandamisvalikuid](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Sellised tööriistad nagu MySignature ja WiseStamp pakuvad malle ja lihtsat kohandamist.
 
-**Isetegijate jaoks:** kui valite käsitsi HTML-i, pidage meeles, et meilikliendid renderdavad HTML-i väga erinevalt. Kasutage stiili kujundamiseks tekstisisest CSS-i ja hoidke oma kood puhtana. Testige järeleandmatult, kasutades selliseid tööriistu nagu Litmus või Email on Acid, või vähemalt suurtes klientides nagu Gmail, Outlook (erinevad versioonid) ja Apple Mail. Alustamiseks leiate veebist [põhilised HTML-i allkirjamallid](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png) ning ressursse, nagu [Exclaimer, pakub tasuta sotsiaalseid ikoone](https://www.freelancermap.com/blog/create-professional-email-signature/) ja juhiseid.
+**Isetegijate jaoks:** kui valite käsitsi HTML-i, pidage meeles, et meilikliendid renderdavad HTML-i väga erinevalt. Kasutage stiili kujundamiseks tekstisisest CSS-i ja hoidke oma kood puhtana. Testige järeleandmatult, kasutades selliseid tööriistu nagu Litmus või Email on Acid, või vähemalt suurtes klientides nagu Gmail, Outlook (erinevad versioonid) ja Apple Mail. Alustamiseks leiate veebist [põhilised HTML-i allkirjamallid](https://www.freelancermap.com/blog/create-professional-email-signature/) ning ressursse, nagu [Exclaimer, pakub tasuta sotsiaalseid ikoone](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) ja juhiseid.
 
 Siin on klikitava lingi väga lihtne HTML-struktuur:
 
@@ -102,25 +98,23 @@ Interaktiivse allkirja loomine on vaid pool võitu. Väga oluline on tagada, et 
 
 - **Hoidke see lihtne ja puhas:** vältige segadust. Eelistage olulist teavet. Kasutage tõhusalt tühikuid.
 
-- **Mobile-First Design:** [Optimeeri mobiilse loetavuse jaoks](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/). Veenduge, et lingid ja nupud oleksid kergesti puudutatavad ning nende ümber piisavalt ruumi. Hoidke laius üldiselt alla 600 piksli.
+- **Mobile-First Design:** [Optimeeri mobiilse loetavuse jaoks](https://newoldstamp.com/blog/email-signature-best-practices-creative-ideas-beautiful-examples-design-hints-and-free-tools-to-use-now/). Veenduge, et lingid ja nupud oleksid kergesti puudutatavad ning nende ümber piisavalt ruumi. Hoidke laius üldiselt alla 600 piksli.
 
-- **Brändi järjepidevus:** kasutage oma brändi värve ja fonte (laia ühilduvuse tagamiseks pidage kinni [veebikindlatest fondidest](https://newoldstamp.com/blog/email-signature-best-practices-creative-ideas-beautiful-examples-design-hints-and-free-tools-to-use-now/), nagu Arial, Helvetica, Verdana, Georgia).
+- **Brändi järjepidevus:** kasutage oma brändi värve ja fonte (laia ühilduvuse tagamiseks pidage kinni [veebikindlatest fondidest](https://www.mailerlite.com/blog/email-signature-best-practices), nagu Arial, Helvetica, Verdana, Georgia).
 
 - **Hierarhia:** muutke oma nimi ja tiitel silmapaistvaks. Juhtige silm loogiliselt läbi teabe.
 
 - **Pildi optimeerimine:** kasutage kvaliteetseid, kuid väikese failisuurusega pilte (ideaaljuhul alla 100 kb allkirja kogukaalu). Hostige pilte usaldusväärselt (ärge manustage, kui see pole vajalik, kuna see suurendab meili suurust). Juurdepääsetavuse ja piltide blokeerimise korral kasutage alati kirjeldavat \`alt\` teksti.
 
-- **Limit Elements:** ärge kaasake *kõiki* suhtlusprofiile. Pidage kinni 3-4 asjakohasest. Üks tugev CTA on tavaliselt parem kui mitu nõrka.
-
-![Võrdlus, mis näitab e-posti allkirja korrektset renderdamist nii lauaarvuti kui ka mobiiliekraanil](https://www.mailerlite.com/blog/email-signature-best-practices)
+- **Limit Elements:** ärge kaasake *kõiki* suhtlusprofiile. Pidage kinni 3-4 asjakohasest. Üks tugev CTA on tavaliselt parem kui mitu nõrka.![Võrdlus, mis näitab e-posti allkirja korrektset renderdamist nii lauaarvuti kui ka mobiiliekraanil](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobiil on oluline: veenduge, et teie allkiri näeks hea välja ja töötaks hästi kõigis seadmetes.
 
 ### Tehnilised ja tarnitavad parimad tavad:
 
-- **Kasutage puhast HTML-i:** käsitsi kodeerimisel kasutage lihtsaid tabelipaigutusi ja tekstisisest CSS-i. Vältige Wordist kopeeritud segast koodi, kuna see [võib põhjustada renderdusprobleeme ja käivitada rämpspostifiltrid](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png).
+- **Kasutage puhast HTML-i:** käsitsi kodeerimisel kasutage lihtsaid tabelipaigutusi ja tekstisisest CSS-i. Vältige Wordist kopeeritud segast koodi, kuna see [võib põhjustada renderdusprobleeme ja käivitada rämpspostifiltrid](https://newoldstamp.com/blog/most-popular-ways-to-create-an-email-signature/).
 
-- **Vältige rämpsposti käivitajaid:** kuigi ainuüksi allkiri põhjustab harva rämpspostiprobleeme, võivad kaasa aidata ka halvasti rakendatud allkirjad. Vältige liigseid pilte, liiga palju linke (eriti kasutades rämpsteksti, näiteks "Klõpsake siia!"), katkisi linke või liiga keerulist koodi. Oluline on teksti ja piltide hea tasakaal. [Meilisignatuuri päästmine märgib, et vale HTML või suured pildid](https://newoldstamp.com/blog/most-popular-ways-to-create-an-email-signature/) on tavalised süüdlased.
+- **Vältige rämpsposti käivitajaid:** kuigi ainuüksi allkiri põhjustab harva rämpspostiprobleeme, võivad kaasa aidata ka halvasti rakendatud allkirjad. Vältige liigseid pilte, liiga palju linke (eriti kasutades rämpsteksti, näiteks "Klõpsake siia!"), katkisi linke või liiga keerulist koodi. Oluline on teksti ja piltide hea tasakaal. [Email Signature Rescue märgib, et vale HTML või suured pildid](https://www.emailsignaturerescue.com/blog/why-does-my-email-signature-make-my-emails-get-caught-in-spam-filters) on tavalised süüdlased.
 
 - **Testi, testi, testi:** vaadake oma allkirja eelvaadet erinevates meiliklientides (Gmail, Outlook, Apple Mail) ja seadmetes (laua-, mobiil-, tahvelarvuti). Kontrollige, kuidas see pimedas režiimis välja näeb.
 
@@ -132,7 +126,7 @@ Interaktiivne allkiri on loodud selleks, et käivitada tegevus – klõps, kõne
 
 Siin võib oma allkirjastrateegia integreerimine nutikate meilihaldustööriistadega muuta. Kui müügivihjed hakkavad klõpsama teie suurepärase allkirjaga loodud lingil „Broneeri kohtumine”, vajate süsteemi, mis haldab sujuvat ajakava ja suhtlust. Samamoodi on suhete loomisel võtmetähtsusega professionaalse tooni säilitamine, mille annab teie allkiri igas järelmeilis.
 
-E-posti tootlikkuse jaoks loodud tööriistad, nagu [Duet Mail](https://www.emailsignaturerescue.com/blog/why-does-my-email-signature-make-my-emails-get-caught-in-spam-filters), võivad aidata seda lõhet ületada. Kujutage ette, et saate tehisintellekti abi viipete, isikupärastatud vastuste koostamiseks, mis säilitavad teie ainulaadse hääle pärast seda, kui keegi teie allkirja CTA-ga suhtleb. Duet Maili funktsioonid, nagu **AI Triage**, võivad aidata esile tuua olulisi vastuseid, mis on genereeritud signatuuride koostoimetest, samas kui selle **Autentsed tehisintellekti koostamine** tagab, et teie järelmeetmed kõlavad täpselt nagu teie, säilitades teie signatuuriprojektide professionaalsuse. See muudab teie allkirjast alguse saanud kihlumise hästi juhitud ja produktiivseteks vestlusteks.
+E-posti tootlikkuse jaoks loodud tööriistad, nagu [Duet Mail](https://www.emailsignaturerescue.com/blog/why-does-my-email-signature-make-my-emails-get-caught-in-spam-filters), võivad aidata seda lõhet ületada. Kujutage ette, et saate tehisintellekti abi viipete, isikupärastatud vastuste koostamiseks, mis säilitavad teie ainulaadse hääle pärast seda, kui keegi teie allkirja CTA-ga suhtleb. Duet Mail i funktsioonid, nagu **AI Triage**, võivad aidata esile tuua olulisi vastuseid, mis on genereeritud signatuuride koostoimetest, samas kui selle **Autentsed tehisintellekti koostamine** tagab, et teie järelmeetmed kõlavad täpselt nagu teie, säilitades teie signatuuriprojektide professionaalsuse. See muudab teie allkirjast alguse saanud kihlumise hästi juhitud ja produktiivseteks vestlusteks.
 
 ## Kas olete valmis oma allkirja aktiveerima?
 

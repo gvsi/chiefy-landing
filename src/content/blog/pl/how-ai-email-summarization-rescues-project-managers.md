@@ -3,7 +3,7 @@ title: "Jak podsumowywanie e-maili przez AI ratuje kierowników projektów"
 description: "Toniesz w mailach? Dowiedz się, jak podsumowywanie e-maili przez AI pomaga kierownikom projektów oszczędzać czas, śledzić decyzje i ograniczać chaos w skrzynce odbiorczej. Zwiększ swoją produktywność już dziś!"
 publishedAt: 2025-09-21
 author: "Duet Mail Team"
-tags: ["AI", "Email Summarization", "Inbox Management"]
+tags: ["AI", "Podsumowywanie e-maili", "Zarządzanie skrzynką odbiorczą"]
 draft: false
 ---
 

@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ቲ ጻፈ፡-",
     "originalText": "ሰላም! እኔና ባለቤቴ የዓመታችንን በዓል እየጎበኘን ነው እናም በዚህ ቅዳሜ የፀሐይ መውጫ ፊኛ ግልቢያ ለመያዝ እንፈልጋለን። ቦታ አለህ? ለአንድ ሰው ምን ዋጋ አለው?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "ሰላም Rachel!",
+      "ቅዳሜ ለ2 ሰዎች ክፍት ነው። የፀሐይ መውጫ በረራዎች $250/ሰው ናቸው እና ከመውረድ በኋላ የሻምፓኝ ቶስት ጋር በአየር ውስጥ ወደ አንድ ሰዓት ያካትታሉ።",
+      "በ6:15 AM አካባቢ እንነሳለን — በነፋስ ሁኔታ መሰረት ትክክለኛውን የመገናኛ ሰዓት እና ቦታ ከዚያ ቀደም ምሽት እልካለሁ። በተደራራቢ ልብስ ይልበሱ እና የተዘጉ ጫማዎችን ያድርጉ።",
+      "መልካም ዓመታዊ በዓል! ቦታዎችዎን እንዳስይዝ?"
     ],
     "highlightText": "ቅዳሜ ለ 2 ሰፊ ክፍት ነው. በፀሐይ መውጫ በረራዎች $ 250 / ሰው ነው",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "ዋጋዎን እና የበረራ መርሃ ግብርዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የመገናኛ ዝርዝሮችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

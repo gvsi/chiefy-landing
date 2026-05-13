@@ -4,7 +4,7 @@
   "metaDescription": "Duet Mail îi ajută pe căpitanii de observare a balenelor să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri redactate de AI cu detaliile turului, prețurile și vocea.",
   "heroBadge": "Au încredere de peste 300 de căpitani de turneu",
   "heroHeadline": "Asistentul tău de e-mail în timp ce vezi balene",
-  "heroSubline": "Duet vă învață programul turului, prețurile și vocea, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare în timp ce sunteți pe apă.",
+  "heroSubline": "Duet îți învață programul turului, prețurile și vocea, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare în timp ce ești pe apă.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -37,8 +37,8 @@
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "O nouă recenzie pentru înregistrarea dvs",
-      "preview": "Un călător a evaluat recent afacerea dvs. Vezi ce au de spus și răspund...",
+      "subject": "O nouă recenzie pentru înregistrarea ta",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
@@ -52,8 +52,8 @@
     "punchline": "O rezervare de grup salvată plătește pentru un an de Duet."
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, programul navelor de croazieră se schimbă în al doilea rând și zgomotul niciodată. Nu mai lipsește o anchetă de charter privată îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Duet află orele turneelor, prețurile și politicile dvs. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Câte locuri au mai rămas în turneul de sâmbătă dimineață?” „Elaborați un răspuns pentru Rachel cu disponibilitate.” Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
+  "draftSubtitle": "Duet află orele turneelor, prețurile și politicile tale. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Câte locuri au mai rămas în turneul de sâmbătă dimineață?” „Redactează un răspuns pentru Rachel cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -118,8 +118,8 @@
   },
   "agent": {
     "userMessage": "Câte locuri au mai rămas în turul de sâmbătă dimineață?",
-    "agentResponse": "Pe baza rezervărilor dvs., turul de sâmbătă de la 9:00 are 18 din 44 de locuri ocupate - 26 încă deschise. Turul de după-amiază este aproape plin la 40 din 44. Doriți să redactez un răspuns la orice întrebări în așteptare cu disponibilitatea sâmbătă dimineața?",
-    "followUp": "Scrieți un răspuns pentru Rachel, confirmând data de 14 iunie pentru 8 invitați",
+    "agentResponse": "Pe baza rezervărilor tale, turul de sâmbătă de la 9:00 are 18 din 44 de locuri ocupate - 26 încă deschise. Turul de după-amiază este aproape plin la 40 din 44. Vrei să redactez un răspuns la orice întrebări în așteptare cu disponibilitatea sâmbătă dimineața?",
+    "followUp": "Scrie un răspuns pentru Rachel, confirmând data de 14 iunie pentru 8 invitați",
     "followUpResponse": "Făcut! Am redactat un răspuns pentru Rachel, confirmând turul de dimineață de 14 iunie pentru 8 invitați la 125 USD/persoană. Include ora de plecare, ceea ce este furnizat și ce trebuie adus. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Îndrăgit de căpitanii de observare a balenelor",
@@ -155,8 +155,8 @@
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Petrece sezonul balenelor pe apă,\nnu în căsuța dvs. de e-mail.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece sezonul balenelor pe apă,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Duet se ocupă de anulările meteo și modificările programului navelor de croazieră?",

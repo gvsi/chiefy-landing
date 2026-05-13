@@ -82,7 +82,7 @@ Gmail አብነቶችን (የታሸጉ ምላሾች) በመጠቀም ተደጋ�
 
 ### Pro ጠቃሚ ምክር፡ የኢሜል ተለዋጭ ስሞችን ('+' አድራሻን) ከማጣሪያዎች ጋር መጠቀም
 
-ብዙም ያልታወቀ የGmail ተንኮል ተለዋጭ ስሞችን እየተጠቀመ ነው። የመደመር ምልክት (\`+\`) በማንኛውም ቃል ከ \`@\` በፊት በኢሜል አድራሻዎ ውስጥ ማከል ይችላሉ (ለምሳሌ ፣ \`yourname+newsletters\@gmail.com\` ፣ \`yourname+billing\@gmail.com\`)። ወደ እነዚህ ተለዋጭ ስሞች የተላኩ ኢሜይሎች አሁንም በዋናው የገቢ መልእክት ሳጥንዎ ውስጥ ይመጣሉ፣ ነገር ግን ልዩ የሆነው አድራሻ ኃይለኛ ማጣሪያን ይፈቅዳል። ለምሳሌ \`To: yourname+newsletters\@gmail.com\` ለተላከ ማንኛውም ነገር ማጣሪያ ይፍጠሩ እና የ"ዜና መጽሄቶችን" መለያ በራስ-ሰር ይተግብሩ እና በማህደር ያስቀምጡት። ይህ በ[Reddit](https://www.reddit.com/r/google/comments/fbdd9/what_awesome_gmail_filters_are_you_using_that/) እና እንደ [Spin.AI](https://spin.ai/blog/gmail-tutorial-tips-tricks/) ባሉ የቴክኖሎጂ ብሎጎች ላይ በተጠቃሚዎች እንደተገለፀው ምዝገባዎችን እና ምዝገባዎችን በራስ ሰር ለመደርደር በሚያስደንቅ ሁኔታ ጠቃሚ ነው።
+ብዙም ያልታወቀ የGmail ተንኮል ተለዋጭ ስሞችን እየተጠቀመ ነው። የመደመር ምልክት (\`+\`) በማንኛውም ቃል ከ \`@\` በፊት በኢሜል አድራሻዎ ውስጥ ማከል ይችላሉ (ለምሳሌ ፣ \`yourname+newsletters\@gmail.com\` ፣ \`yourname+billing\@gmail.com\`)። ወደ እነዚህ ተለዋጭ ስሞች የተላኩ ኢሜይሎች አሁንም በዋናው የገቢ መልእክት ሳጥንዎ ውስጥ ይመጣሉ፣ ነገር ግን ልዩ የሆነው አድራሻ ኃይለኛ ማጣሪያን ይፈቅዳል። ለምሳሌ \`To: yourname+newsletters\@gmail.com\` ለተላከ ማንኛውም ነገር ማጣሪያ ይፍጠሩ እና የ"ዜና መጽሄቶችን" መለያ በራስ-ሰር ይተግብሩ እና በማህደር ያስቀምጡት። ይህ በ[Reddit](https://www.reddit.com/r/google/comments/fbdd9/what_awesome_gmail_filters_are_እርስዎ_using_that/) እና እንደ [Spin.AI](https://spin.ai/blog/gmail-tutorial-tips-tricks/) ባሉ የቴክኖሎጂ ብሎጎች ላይ በተጠቃሚዎች እንደተገለፀው ምዝገባዎችን እና ምዝገባዎችን በራስ ሰር ለመደርደር በሚያስደንቅ ሁኔታ ጠቃሚ ነው።
 
 ## ደረጃ 2፡ ከፍተኛ ኃይል መሙላት Gmail ከሶስተኛ ወገን ቅጥያዎች ጋር
 

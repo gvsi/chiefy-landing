@@ -3,7 +3,7 @@ title: "10+ el. pašto automatizavimo pavyzdžių, padėsiančių susigrąžinti
 description: "Atraskite praktiškus el. pašto automatizavimo pavyzdžius rūšiavimui, atsakymams, priminimams ir kt. Padidinkite produktyvumą pasitelkdami šiuos 2025 m. patarimus ir įrankius."
 publishedAt: 2025-04-07
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Automation", "Email"]
+tags: ["DI", "Produktyvumas", "Automatizavimas", "El. paštas"]
 draft: false
 ---
 
@@ -111,9 +111,7 @@ Tokie įrankiai kaip [Gmelius](https://gmelius.com/blog/benefits-of-email-automa
 
 Tenka tvarkytis su ilgomis el. laiškų gijomis ar ataskaitomis? DI keičia tai, kaip mes suvokiame šią informaciją. DI įrankiai gali automatiškai apibendrinti ilgus laiškus ar visą giją, išskirdami pagrindinius punktus, sprendimus ir veiksmų užduotis. [Superhuman](https://superhuman.com/ai) siūlo automatinės santraukos funkciją, o tokie įrankiai kaip Microsoft Copilot Outlook taip pat teikia apibendrinimą. Tokios platformos kaip [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) ir [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) siūlo specializuotus DI santraukų įrankius.
 
-Tai sutaupo nepaprastai daug laiko, kai reikia greitai susigaudyti sudėtinguose pokalbiuose. [Duet Mail įtraukia **Išmanųjį apibendrinimą** su kontekstiniu suvokimu](https://duetmail.com/lt), o tai reiškia, kad jis ne tik sutrumpina ilgas gijas, bet ir prisimena anksčiau minėtas projekto ir santykių detales, užtikrindamas, kad santraukos būtų itin aktualios ir pritaikomos veiksmams.
-
-![Screenshot showing Duet Mail's smart email summarization feature condensing a long email thread into key points and action items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Tai sutaupo nepaprastai daug laiko, kai reikia greitai susigaudyti sudėtinguose pokalbiuose. [Duet Mail įtraukia **Išmanųjį apibendrinimą** su kontekstiniu suvokimu](https://duetmail.com/lt), o tai reiškia, kad jis ne tik sutrumpina ilgas gijas, bet ir prisimena anksčiau minėtas projekto ir santykių detales, užtikrindamas, kad santraukos būtų itin aktualios ir pritaikomos veiksmams.![Screenshot showing Duet Mails smart email summarization feature condensing a long email thread into key points and action items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## Automatizavimo galia skaičiais
 

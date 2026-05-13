@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mailtil rideture og sporguider | AI e-mail-assistent",
-  "metaDescription": "Duet Mailhjælper trail ride-operatører med at reagere på booking-e-mails med det samme - selv fra sadlen. AI-udkastede svar med dine priser, krav til rytter og stemme.",
+  "pageTitle": "Duet Mail til rideture og sporguider | AI-e-mail-assistent",
+  "metaDescription": "Duet Mail hjælper trail ride-operatører med at reagere på booking-e-mails med det samme - selv fra sadlen. AI-udkastede svar med dine priser, krav til rytter og stemme.",
   "heroBadge": "Betroet af 300+ stiguider",
   "heroHeadline": "Din e-mail-assistent, mens du er på sporet",
-  "heroSubline": "Duetlærer dine køretyper, priser, rytterkrav og sporforhold – og udarbejder derefter e-mailsvar, så du aldrig mister en reservation på grund af et langsomt svar.",
+  "heroSubline": "Duet lærer dine køretyper, priser, rytterkrav og sporforhold – og udarbejder derefter e-mailsvar, så du aldrig mister en reservation på grund af et langsomt svar.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ride",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Én gemt gruppetur betaler for over to årsDuet."
+    "punchline": "Én gemt gruppetur betaler for over to års Duet."
   },
-  "categorizationSubtitle": "Duettagger automatisk hver e-mail, så du først ser reservationsanmodninger, dernæst rytterspørgsmål og aldrig støj. Ikke længere mangler en gruppeforespørgsel, der er begravet under TripAdvisor-alarmer.",
-  "draftSubtitle": "Duetlærer dine køretyper, priser og krav. Når en reservationsforespørgsel rammer, udarbejder den et komplet svar med spordetaljer, priser og hvad man skal have på. Du anmelder og sender.",
-  "agentSubtitle": "\"Er der nogen forlystelser åbne i weekenden?\" \"Skriv et udkast til et svar til Jessica med tilgængelighed på lørdag.\"Duetkender din indbakke og kalender - bare spørg.",
+  "categorizationSubtitle": "Duet tagger automatisk hver e-mail, så du først ser reservationsanmodninger, dernæst rytterspørgsmål og aldrig støj. Ikke længere mangler en gruppeforespørgsel, der er begravet under TripAdvisor-alarmer.",
+  "draftSubtitle": "Duet lærer dine køretyper, priser og krav. Når en reservationsforespørgsel rammer, udarbejder den et komplet svar med spordetaljer, priser og hvad man skal have på. Du anmelder og sender.",
+  "agentSubtitle": "\"Er der nogen forlystelser åbne i weekenden?\" \"Skriv et udkast til et svar til Jessica med tilgængelighed på lørdag.\"Duet kender din indbakke og kalender - bare spørg.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Ranch Ejer & Trail Guide, MT",
-      "quote": "Jeg er ude på sporet 6 timer om dagen uden mobilservice. Da jeg kom tilbage for at svare, havde halvdelen reserveret et andet sted. Nu udarbejderDuetsvar med mine priser og kørselsdetaljer - jeg gennemgår og sender bare, når jeg kommer tilbage til stalden.",
+      "quote": "Jeg er ude på sporet 6 timer om dagen uden mobilservice. Da jeg kom tilbage for at svare, havde halvdelen reserveret et andet sted. Nu udarbejder Duet svar med mine priser og kørselsdetaljer - jeg gennemgår og sender bare, når jeg kommer tilbage til stalden.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Hesterejsearrangør, AZ",
-      "quote": "Vi får snesevis af e-mails, der spørger om det samme – vægtgrænser, hvad man skal have på, alderskrav.Duetklarer det hele, og svarene lyder præcis som mig. Mine gæster aner ikke, at det er AI.",
+      "quote": "Vi får snesevis af e-mails, der spørger om det samme – vægtgrænser, hvad man skal have på, alderskrav.Duet klarer det hele, og svarene lyder præcis som mig. Mine gæster aner ikke, at det er AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Højsæsonen dræbte mig. 30+ e-mails om dagen oven på løbeture.Duetsorterer reservationsanmodningerne fra støjen og udkast til svar, der inkluderer alt - priser, hvad man skal medbringe, partiet. Jeg fik mine aftener tilbage.",
+      "quote": "Højsæsonen dræbte mig. 30+ e-mails om dagen oven på løbeture.Duet sorterer reservationsanmodningerne fra støjen og udkast til svar, der inkluderer alt - priser, hvad man skal medbringe, partiet. Jeg fik mine aftener tilbage.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Rideinstruktør & Booking Manager, TX",
-      "quote": "Vi kører solnedgangsture, morgenture og privatlektioner - hver med forskellige priser og krav.Duetlærte det hele på en uge. Den udarbejder det rigtige svar for den rigtige køretype hver gang.",
+      "quote": "Vi kører solnedgangsture, morgenture og privatlektioner - hver med forskellige priser og krav.Duet lærte det hele på en uge. Den udarbejder det rigtige svar for den rigtige køretype hver gang.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "De følsomme e-mails var de værste - nogen spurgte, om de er for tunge, eller om deres barn er gammel nok.Duethåndterer dem med samme omhu, som jeg ville.Proprofessionel, venlig og præcis. Det alene er det værd.",
+      "quote": "De følsomme e-mails var de værste - nogen spurgte, om de er for tunge, eller om deres barn er gammel nok.Duet håndterer dem med samme omhu, som jeg ville.Professionel, venlig og præcis. Det alene er det værd.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Tilslut din indbakke på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Hvordan håndtererDuetfølsomme spørgsmål om vægt eller erfaringskrav?",
-      "answer": "Duetlærer dine specifikke politikker og afspejler din tone. Når nogen spørger om vægtgrænser eller erfaringskrav, reagerer de professionelt og varmt - deler den information, de har brug for, uden at gøre det besværligt. Du sætter tonen én gang, ogDuetfølger den konsekvent, så enhver gæst føler sig respekteret."
+      "question": "Hvordan håndterer Duet følsomme spørgsmål om vægt eller erfaringskrav?",
+      "answer": "Duet lærer dine specifikke politikker og afspejler din tone. Når nogen spørger om vægtgrænser eller erfaringskrav, reagerer de professionelt og varmt - deler den information, de har brug for, uden at gøre det besværligt. Du sætter tonen én gang, og Duet følger den konsekvent, så enhver gæst føler sig respekteret."
     },
     {
-      "question": "KanDuethåndtere gruppebookinger med forskellige rytterbehov?",
-      "answer": "Ja.Duetlærer dine ridetyper, gruppestørrelser, aldersminimum og eventuelle rytterspecifikke krav. Når en familie eller gruppe sender e-mails om booking, udarbejder den et svar, der dækker priser for hele gruppen, hvad hver rytter har brug for at vide og tilgængelige tidsrum. Du gennemgår og sender - ingen frem og tilbage nødvendig."
+      "question": "Kan Duet håndtere gruppebookinger med forskellige rytterbehov?",
+      "answer": "Ja. Duet lærer dine ridetyper, gruppestørrelser, aldersminimum og eventuelle rytterspecifikke krav. Når en familie eller gruppe sender e-mails om booking, udarbejder den et svar, der dækker priser for hele gruppen, hvad hver rytter har brug for at vide og tilgængelige tidsrum. Du gennemgår og sender - ingen frem og tilbage nødvendig."
     }
   ],
   "pricingNote": "Ved 100 USD/person for en gruppe på 6 betaler én sparet tur for over to år medPro."

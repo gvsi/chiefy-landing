@@ -19,9 +19,7 @@ Het constante pingen van nieuwe e-mails is niet alleen vervelend; het is een aan
 
 Het beheersen van deze overstroming eist een zware tol.Proprofessionals geven aan dat ze ongeveer [28% van hun werkweek](https://inboxdone.com/psychology-of-email-overload/) – wat overeenkomt met 11-13 uur – besteden aan het beheren van e-mails. Dit constante schakelen tussen taken en de inbox blijft niet zonder gevolgen. Uit onderzoek blijkt dat het meer dan [23 minuten duurt om de focus terug te krijgen](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) na een onderbreking, zoals het checken van e-mail.
 
-De impact reikt verder dan verloren tijd. Overbelasting van e-mail wordt consequent in verband gebracht met verhoogde stress, angst en burn-out. Uit een door [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) aangehaald onderzoek bleek dat [66% van de Amerikanen aangeeft zich gestrest te voelen](https://inboxdone.com/psychology-of-email-overload/) vanwege de enorme hoeveelheid e-mails die ze ontvangen. Deze constante druk draagt ​​bij aan beslissingsmoeheid en kan zelfs een negatieve invloed hebben op de arbeidstevredenheid, waardoor het moeilijker wordt om zich te concentreren op strategisch, hoogwaardig werk.
-
-![Infographic met statistieken over het dagelijkse e-mailvolume en de tijd die wordt besteed aan het beheren van e-mail](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+De impact reikt verder dan verloren tijd. Overbelasting van e-mail wordt consequent in verband gebracht met verhoogde stress, angst en burn-out. Uit een door [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) aangehaald onderzoek bleek dat [66% van de Amerikanen aangeeft zich gestrest te voelen](https://inboxdone.com/psychology-of-email-overload/) vanwege de enorme hoeveelheid e-mails die ze ontvangen. Deze constante druk draagt ​​bij aan beslissingsmoeheid en kan zelfs een negatieve invloed hebben op de arbeidstevredenheid, waardoor het moeilijker wordt om zich te concentreren op strategisch, hoogwaardig werk.![Infographic met statistieken over het dagelijkse e-mailvolume en de tijd die wordt besteed aan het beheren van e-mail](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
 De gemiddelde professional ontvangt dagelijks ruim 120 e-mails, wat uren waardevolle werktijd kost.
 
@@ -150,7 +148,7 @@ De markt voor AI-e-mailassistenten groeit snel. Het selecteren van de juiste too
 
 Hoe goed past de tool in uw bestaande opstelling? De meeste toonaangevende assistenten bieden integraties:
 
-- **E-mailclients:** Zoek naar speciale [Outlookadd-ins](https://appsource.microsoft.com/en-cy/product/office/WA200005168?tab=Overview) of [Gmailextensies/add-ons](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) voor naadloze werking in uw primaire inbox.
+- **E-mailclients:** Zoek naar speciale [Outlook add-ins](https://appsource.microsoft.com/en-cy/product/office/WA200005168?tab=Overview) of [Gmail extensies/add-ons](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) voor naadloze werking in uw primaire inbox.
 
 - **Andere platforms:** Controleer of deze compatibel zijn met uw agenda, CRM (zoals Salesforce of HubSpot), projectbeheertools (zoals Asana of Trello) en communicatieplatforms (zoals Slack).
 

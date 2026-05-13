@@ -1,9 +1,9 @@
 ---
-title: "Pārvariet iesūtnes haosu: labākie bezmaksas Gmail organizācijas spraudņi maksimālai Pro produktivitātei 2025. gadā"
+title: "Pārvariet iesūtnes haosu: labākie bezmaksas Gmail organizācijas spraudņi maksimālai produktivitātei 2025. gadā"
 description: "Apnicis Gmail haoss? Atklājiet labākos bezmaksas Gmail organizācijas spraudņus 2025. gadam, lai pārvaldītu e-pasta pārslodzi, vizualizētu darbplūsmas un palielinātu produktivitāti."
 publishedAt: 2025-07-27
 author: "Duet Mail Team"
-tags: ["Mākslīgais intelekts", "Gmail", "Proproduktivitāte", "Ienākošo ziņojumu pārvaldība"]
+tags: ["Mākslīgais intelekts", "Gmail", "Produktivitāte", "Ienākošo ziņojumu pārvaldība"]
 draft: false
 ---
 
@@ -33,9 +33,7 @@ Esam rūpīgi izvērtējuši piedāvātās iespējas, lai izceltu dažus no vise
 
 **Bezmaksas plāna funkcijas:** Bezmaksas “Starter” plāns nodrošina pamata Kanban pieredzi. Varat vilkt e-pastus, lai tos pārvērstu uzdevumu kartītēs, kārtot tos personīgajā tāfelē un vienā papildu pielāgotā tāfelē, izmantot dienas plānotāja skatu un iestatīt izpildes datumus vai atgādinājumus.
 
-**Lietotāja saskarne/iestatīšana:** Sortd tieši integrējas ar Gmail, piedāvājot pārslēgšanos starp standarta skatu un tā tāfeles izkārtojumu. Iestatīšana ietver paplašinājuma instalēšanu un Gmail konta pievienošanu, ko lietotāji parasti uzskata par vienkāršu.
-
-![Sortd spraudņa saskarne, kurā redzama Gmail iesūtne, kas pārveidota par vizuālu Kanban tāfeli ar velkšanas un nomešanas e-pasta uzdevumu kartītēm.](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**Lietotāja saskarne/iestatīšana:** Sortd tieši integrējas ar Gmail, piedāvājot pārslēgšanos starp standarta skatu un tā tāfeles izkārtojumu. Iestatīšana ietver paplašinājuma instalēšanu un Gmail konta pievienošanu, ko lietotāji parasti uzskata par vienkāršu.![Sortd spraudņa saskarne, kurā redzama Gmail iesūtne, kas pārveidota par vizuālu Kanban tāfeli ar velkšanas un nomešanas e-pasta uzdevumu kartītēm.](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Pros:** Lieliski piemērots darbplūsmas posmu vizualizēšanai un ar e-pastu saistītu uzdevumu pārvaldībai, nepārtraukti nepārslēdzoties uz atsevišķu projektu vadības rīku. Noderīga ir arī temata rindiņu pārdēvēšana un piezīmju pievienošana tieši e-pasta uzdevumiem.
 
@@ -47,9 +45,7 @@ Esam rūpīgi izvērtējuši piedāvātās iespējas, lai izceltu dažus no vise
 
 **Bezmaksas plāna funkcijas (pats Todoist):** Todoist bezmaksas plāns ir diezgan dāsns individuālai lietošanai, piedāvājot līdz 5 aktīviem projektiem, sadarbību ar līdz pat 5 cilvēkiem katrā projektā, pamata uzdevumu pārvaldību (ieskaitot apakšuzdevumus), saraksta un Kanban tāfeles skatus, kā arī iespēju izmantot etiķetes un filtrus (līdz 3). Bezmaksas Gmail integrācija (pieejama gan kā papildinājums, gan paplašinājums) ļauj noklikšķināt uz ikonas, lai pašlaik atvērto e-pastu pārvērstu par Todoist uzdevumu, automātiski iekļaujot saiti atpakaļ uz sākotnējo e-pastu.
 
-**Lietotāja saskarne/iestatīšana:** Integrācija pievieno Todoist ikonu jūsu Gmail saskarnei (augšējā rīkjoslā vai labajā sānu panelī). Noklikšķinot uz tās, tiek atvērts neliels panelis, kurā varat ātri pievienot e-pastu kā uzdevumu. Iestatīšanai ir jāinstalē papildinājums/paplašinājums un jāautorizē piekļuve jūsu Todoist kontam.
-
-![Todoist integrācijas panelim Gmail, kurā parādīts, kā e-pastu pārvērst par uzdevumu ar izpildes datumu un projekta atlasi.](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**Lietotāja saskarne/iestatīšana:** Integrācija pievieno Todoist ikonu jūsu Gmail saskarnei (augšējā rīkjoslā vai labajā sānu panelī). Noklikšķinot uz tās, tiek atvērts neliels panelis, kurā varat ātri pievienot e-pastu kā uzdevumu. Iestatīšanai ir jāinstalē papildinājums/paplašinājums un jāautorizē piekļuve jūsu Todoist kontam.![Todoist integrācijas panelim Gmail, kurā parādīts, kā e-pastu pārvērst par uzdevumu ar izpildes datumu un projekta atlasi.](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Pros:** Pro nodrošina nemanāmu saikni starp jūsu saziņas centru (Gmail) un jūsu uzdevumu pārvaldības sistēmu (Todoist). Izmanto Todoist lieliskās funkcijas, piemēram, datuma ievadi dabiskā valodā un uzticamu starpplatformu sinhronizāciju. Tas ir lielisks veids, kā panākt "nulles iesūtnes", pārvietojot rīcības vienumus no iesūtnes uz īpašu uzdevumu sarakstu.
 

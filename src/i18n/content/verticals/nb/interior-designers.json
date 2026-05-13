@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mailfor interiørdesignere | AI e-postassistent",
-  "metaDescription": "Duet Mailhjelper interiørdesignere med å administrere klient-e-poster, entreprenørkoordinering og leverandørordrer – selv fra arbeidsplassen. AI-utkastede svar med prosjektdetaljer, preferanser og stemme.",
+  "pageTitle": "Duet Mail for interiørdesignere | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper interiørdesignere med å administrere klient-e-poster, entreprenørkoordinering og leverandørordrer – selv fra arbeidsplassen. AI-utkastede svar med prosjektdetaljer, preferanser og stemme.",
   "heroBadge": "Godkjent av 400+ interiørdesignere",
   "heroHeadline": "Din e-postassistent mens du er på stedet med klienter",
-  "heroSubline": "Duetlærer leverandørkontaktene dine, prosjektdetaljer og klientpreferanser – og lager deretter utkast til e-postsvar slik at du aldri mister en klient på grunn av treg respons.",
+  "heroSubline": "Duet lærer leverandørkontaktene dine, prosjektdetaljer og klientpreferanser – og lager deretter utkast til e-postsvar slik at du aldri mister en klient på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "prosjekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Én lagret klient betaler for mange år medDuet."
+    "punchline": "Én lagret klient betaler for mange år med Duet."
   },
-  "categorizationSubtitle": "Duetmerker automatisk hver e-post slik at du ser nye kundehenvendelser først, venter på godkjenninger etter det, og leverandørens nyhetsbrev aldri. Ikke mer mangler en designkonsultasjon begravet under vareutstillingskampanjer.",
-  "draftSubtitle": "Duetlærer prosessen din, prosjektdetaljer og tone. Når en ny forespørsel eller kundespørsmål treffer, utarbeider den et fullstendig svar med tilgjengelighet, neste trinn og prosjektspesifikasjoner. Du anmelder og sender.",
-  "agentSubtitle": "\"Hva er status på Henderson-prosjektet?\" \"Hvilke godkjenninger venter fortsatt?\"Duetkjenner innboksen din og hver prosjekttråd – bare spør.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser nye kundehenvendelser først, venter på godkjenninger etter det, og leverandørens nyhetsbrev aldri. Ikke mer mangler en designkonsultasjon begravet under vareutstillingskampanjer.",
+  "draftSubtitle": "Duet lærer prosessen din, prosjektdetaljer og tone. Når en ny forespørsel eller kundespørsmål treffer, utarbeider den et fullstendig svar med tilgjengelighet, neste trinn og prosjektspesifikasjoner. Du anmelder og sender.",
+  "agentSubtitle": "\"Hva er status på Henderson-prosjektet?\" \"Hvilke godkjenninger venter fortsatt?\"Duet kjenner innboksen din og hver prosjekttråd – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Hoveddesigner, Austin TX",
-      "quote": "Jeg er på stedet 6 timer i døgnet og koordinerer malere, elektrikere og flisinstallatører. I mellomtiden sender tre andre kunder e-post om prosjektene sine.Duetutkast til svar med de riktige prosjektdetaljene – jeg gjennomgår bare mellom besøkene på nettstedet.",
+      "quote": "Jeg er på stedet 6 timer i døgnet og koordinerer malere, elektrikere og flisinstallatører. I mellomtiden sender tre andre kunder e-post om prosjektene sine.Duet utkast til svar med de riktige prosjektdetaljene – jeg gjennomgår bare mellom besøkene på nettstedet.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Interiørdesigner for boliger, Chicago",
-      "quote": "Kundeforespørsler pleide å sitte i flere dager fordi jeg ble begravet i anskaffelses-e-poster og entreprenørplanlegging. Nå svarerDuetpå nye kundeemner i løpet av minutter med min prosess og tilgjengelighet. Jeg har bestilt 4 ekstra prosjekter dette kvartalet.",
+      "quote": "Kundeforespørsler pleide å sitte i flere dager fordi jeg ble begravet i anskaffelses-e-poster og entreprenørplanlegging. Nå svarer Duet på nye kundeemner i løpet av minutter med min prosess og tilgjengelighet. Jeg har bestilt 4 ekstra prosjekter dette kvartalet.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Eier av designstudio, Nashville",
-      "quote": "Å administrere e-poster for 12 aktive prosjekter tok livet av meg.Duetkategoriserer alt – nye henvendelser, ventende godkjenninger, leverandørordrer, entreprenøroppdateringer – så jeg vet nøyaktig hva som trenger min oppmerksomhet først.",
+      "quote": "Å administrere e-poster for 12 aktive prosjekter tok livet av meg.Duet kategoriserer alt – nye henvendelser, ventende godkjenninger, leverandørordrer, entreprenøroppdateringer – så jeg vet nøyaktig hva som trenger min oppmerksomhet først.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Interiørdekoratør, San Diego",
-      "quote": "Jeg mistet potensielle kunder fordi jeg ikke kunne svare raskt nok under installasjonsukene.Duetlærte konsultasjonsprosessen min, prisstrukturen, til og med hvordan jeg beskriver designstilen min. Klienter aner ikke at det er AI-assistert.",
+      "quote": "Jeg mistet potensielle kunder fordi jeg ikke kunne svare raskt nok under installasjonsukene.Duet lærte konsultasjonsprosessen min, prisstrukturen, til og med hvordan jeg beskriver designstilen min. Klienter aner ikke at det er AI-assistert.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Kommersiell interiørdesigner, Denver",
-      "quote": "Mellom leverandørens ledetider, entreprenørplaner og revisjonsforespørsler fra kunder var innboksen min kaos.Duetsorterer det hele og lager utkast til oppfølging av ventende godkjenninger. Det er som å ha en prosjektkoordinator som aldri sover.",
+      "quote": "Mellom leverandørens ledetider, entreprenørplaner og revisjonsforespørsler fra kunder var innboksen min kaos.Duet sorterer det hele og lager utkast til oppfølging av ventende godkjenninger. Det er som å ha en prosjektkoordinator som aldri sover.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Jeg sjonglerer 8-10 prosjekter på en gang. KanDuetholde dem rett?",
-      "answer": "Ja.Duetsporer hver e-posttråd per klient og prosjekt. Når du spør om Henderson-kjøkkenet eller Park Avenue-kontoret, henter det konteksten fra alle relaterte samtaler – leverandørordrer, entreprenøroppdateringer, klientgodkjenninger – slik at svarene dine alltid er nøyaktige og prosjektspesifikke. Ingen forveksling hvilken flis som var for hvilken klient."
+      "question": "Jeg sjonglerer 8-10 prosjekter på en gang. Kan Duet holde dem rett?",
+      "answer": "Ja. Duet sporer hver e-posttråd per klient og prosjekt. Når du spør om Henderson-kjøkkenet eller Park Avenue-kontoret, henter det konteksten fra alle relaterte samtaler – leverandørordrer, entreprenøroppdateringer, klientgodkjenninger – slik at svarene dine alltid er nøyaktige og prosjektspesifikke. Ingen forveksling hvilken flis som var for hvilken klient."
     },
     {
-      "question": "Jeg koordinerer med mange entreprenører og leverandører. HjelperDuetmed det?",
-      "answer": "Absolutt.Duetlærer dine entreprenørkontakter, leverandørrepresentanter og konteksten for hver bransje rolle i prosjektene dine. Når elektrikeren din sender en e-post om at inngrepet er gjort, kanDuetlage et utkast som bekrefter neste trinn eller løkke i fixturinstallasjonsprogrammet. Det holder arbeidsflyten i bevegelse selv når du er på andre siden av byen på et annet arbeidssted."
+      "question": "Jeg koordinerer med mange entreprenører og leverandører. Hjelper Duet med det?",
+      "answer": "Absolutt.Duet lærer dine entreprenørkontakter, leverandørrepresentanter og konteksten for hver bransje rolle i prosjektene dine. Når elektrikeren din sender en e-post om at inngrepet er gjort, kan Duet lage et utkast som bekrefter neste trinn eller løkke i fixturinstallasjonsprogrammet. Det holder arbeidsflyten i bevegelse selv når du er på andre siden av byen på et annet arbeidssted."
     }
   ],
-  "pricingNote": "Til $10 000/prosjekt betaler én lagret klient for år medDuetPro."
+  "pricingNote": "Til $10 000/prosjekt betaler én lagret klient for år med Duet Pro."
 }

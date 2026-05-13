@@ -1,6 +1,6 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail kalastus chartereihin | AI sähköpostiavustaja",
+  "pageTitle": "Duet Mail kalastus chartereihin | AI-sähköpostiavustaja",
   "metaDescription": "Duet Mail auttaa kalastuksen charter-kapteeneja vastaamaan varaussähköposteihin välittömästi – jopa vedestä. AI-muotoiltuja vastauksia, joissa on hintasi, käytäntösi ja äänesi.",
   "heroBadge": "Yli 500 charter-kapteenin luottama",
   "heroHeadline": "Sähköpostiavustajasi ollessasi vesillä",
@@ -49,7 +49,7 @@
     "bookingUnit": "",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Yksi tallennettu varaus maksaa Duetin vuoden."
+    "punchline": "Yksi tallennettu varaus maksaa Duet in vuoden."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt matkakysely ei enää jää huomaamatta.",
   "draftSubtitle": "Duet oppii hinnoittelusi, käytäntösi ja sävysi. Kun varauskysely osuu, se laatii täydellisen vastauksen matkan yksityiskohdista, hinnoittelusta ja mukaan otettavasta. Tarkistat ja lähetät.",
@@ -163,8 +163,8 @@
       "answer": "Ehdottomasti. Duet oppii matkatyypit, hinnat, saatavuuden ja käytännöt. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on oikeat tiedot – hinnat, mitä sisältyy hintaan, kokouspaikka, mitä tuoda. Tarkistat ja napautat lähetä."
     },
     {
-      "question": "Olen vedessä koko päivän. Voinko käyttää Duetia puhelimellani?",
-      "answer": "Kyllä. Duet toimii Gmail:n ja Outlook:n kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset tulevat näkyviin automaattisesti. Saaliiden välillä tarkistat ja lähetät yhdellä napautuksella. Useimmat kapteenit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+      "question": "Olen vedessä koko päivän. Voinko käyttää Duet ia puhelimellani?",
+      "answer": "Kyllä. Duet toimii Gmailin ja Outlookin kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset tulevat näkyviin automaattisesti. Saaliiden välillä tarkistat ja lähetät yhdellä napautuksella. Useimmat kapteenit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
     }
   ],
   "pricingNote": "Hinta 500 $/ charter, yksi tallennettu varaus maksaa yli vuoden Pro."

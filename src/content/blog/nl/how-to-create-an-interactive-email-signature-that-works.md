@@ -57,9 +57,7 @@ Niet alle interactieve elementen zijn gelijk gemaakt. Hier zijn enkele bewezen w
 
 - **Planningslink:** Direct integreren met tools zoals Calendly. Door een knop of link [Vergadering plannen](https://www.bybrand.io/blog/schedule-meeting-email-signature/) toe te voegen, wordt de wrijving bij het boeken van gesprekken weggenomen.
 
-- **Logo of portretfoto:** Voegt persoonlijkheid en merkherkenning toe. Maak het klikbaar en link naar uw website. Gebruik een professionele afbeelding van hoge kwaliteit.
-
-![Voorbeeld van een eenvoudige professionele e-mailhandtekening voor een freelancer met klikbare contactgegevens en sociale links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logo of portretfoto:** Voegt persoonlijkheid en merkherkenning toe. Maak het klikbaar en link naar uw website. Gebruik een professionele afbeelding van hoge kwaliteit.![Voorbeeld van een eenvoudige professionele e-mailhandtekening voor een freelancer met klikbare contactgegevens en sociale links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Houd het overzichtelijk: een eenvoudige handtekening met essentiële contactgegevens en belangrijke sociale links.
 
@@ -82,13 +80,11 @@ Welke past bij jou? Laten we vergelijken:
 | **Kenmerken** | Templates, analytics, bannercampagnes, centraal beheer (vaak betaald) | Alleen beperkt door HTML/CSS-e-mailbeperkingen |
 | **Kosten** | Gratis niveaus beschikbaar (vaak met branding); Betaalde abonnementen voor meer functies/gebruikers | Gratis (als je over de vaardigheden beschikt) |
 
-**Aanbeveling voor freelancers en startups:** Tenzij u vertrouwd bent met HTML en rigoureus testen, wordt het ten zeerste aanbevolen om te beginnen met een gerenommeerde **generator voor e-mailhandtekeningen**. Tools zoals [MySignature](https://mysignature.io/) (gekend als goed voor freelancers/kleine teams) of [WiseStamp](https://www.wisestamp.com/) bieden gratis of betaalbare abonnementen met professionele sjablonen, eenvoudige aanpassingen (inclusief CTA's en banners) en ingebouwde compatibiliteitscontroles. [HubSpot biedt ook een populaire gratis generator](https://www.hubspot.com/email-signature-generator) voor eenvoudigere behoeften.
-
-![Schermopname van een interface voor het genereren van e-mailhandtekeningen met sjablonen en aanpassingsopties](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Aanbeveling voor freelancers en startups:** Tenzij u vertrouwd bent met HTML en rigoureus testen, wordt het ten zeerste aanbevolen om te beginnen met een gerenommeerde **generator voor e-mailhandtekeningen**. Tools zoals [MySignature](https://mysignature.io/) (gekend als goed voor freelancers/kleine teams) of [WiseStamp](https://www.wisestamp.com/) bieden gratis of betaalbare abonnementen met professionele sjablonen, eenvoudige aanpassingen (inclusief CTA's en banners) en ingebouwde compatibiliteitscontroles. [HubSpot biedt ook een populaire gratis generator](https://www.hubspot.com/email-signature-generator) voor eenvoudigere behoeften.![Schermopname van een interface voor het genereren van e-mailhandtekeningen met sjablonen en aanpassingsopties](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Tools zoals MySignature en WiseStamp bieden sjablonen en eenvoudige aanpassingen.
 
-**Voor de doe-het-zelvers:** Als u voor handmatige HTML kiest, onthoud dan dat e-mailclients HTML heel anders weergeven. Gebruik inline CSS voor styling en houd uw code schoon. Test meedogenloos met tools als Litmus of Email on Acid, of in ieder geval bij grote klanten zoalsGmail,Outlook(verschillende versies) en Apple Mail. U kunt [basissjablonen voor HTML-handtekeningen online](https://www.freelancermap.com/blog/create-professional-email-signature/) vinden om aan de slag te gaan, en bronnen zoals [Exclaimer bieden gratis sociale pictogrammen](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) en begeleiding.
+**Voor de doe-het-zelvers:** Als u voor handmatige HTML kiest, onthoud dan dat e-mailclients HTML heel anders weergeven. Gebruik inline CSS voor styling en houd uw code schoon. Test meedogenloos met tools als Litmus of Email on Acid, of in ieder geval bij grote klanten zoals Gmail,Outlook(verschillende versies) en Apple Mail. U kunt [basissjablonen voor HTML-handtekeningen online](https://www.freelancermap.com/blog/create-professional-email-signature/) vinden om aan de slag te gaan, en bronnen zoals [Exclaimer bieden gratis sociale pictogrammen](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) en begeleiding.
 
 Hier is een zeer eenvoudige HTML-structuur voor een klikbare link:
 
@@ -110,9 +106,7 @@ Het creëren van een interactieve handtekening is slechts het halve werk. Het is
 
 - **Beeldoptimalisatie:** Gebruik afbeeldingen van hoge kwaliteit maar met een kleine bestandsgrootte (idealiter minder dan 100 kb totaal handtekeninggewicht). Host afbeeldingen op een betrouwbare manier (niet insluiten tenzij nodig, omdat dit de e-mailgrootte vergroot). Gebruik altijd beschrijvende 'alt'-tekst voor toegankelijkheid en als afbeeldingen zijn geblokkeerd.
 
-- **Limietelementen:** Neem niet *elk* sociaal profiel op. Houd het bij 3-4 relevante. Eén sterke CTA is meestal beter dan meerdere zwakke.
-
-![Vergelijking waarbij een e-mailhandtekening correct wordt weergegeven op zowel desktop- als mobiele schermen](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Limietelementen:** Neem niet *elk* sociaal profiel op. Houd het bij 3-4 relevante. Eén sterke CTA is meestal beter dan meerdere zwakke.![Vergelijking waarbij een e-mailhandtekening correct wordt weergegeven op zowel desktop- als mobiele schermen](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobiel is belangrijk: zorg ervoor dat uw handtekening er goed uitziet en goed functioneert op alle apparaten.
 
@@ -132,7 +126,7 @@ Een interactieve handtekening is ontworpen om actie uit te lokken: een klik, een
 
 Dit is waar het integreren van uw handtekeningstrategie met slimme e-mailbeheertools een verschil kan maken. Wanneer leads op de link 'Boek een vergadering' klikken die wordt gegenereerd door uw geweldige handtekening, heeft u een systeem nodig om de daaropvolgende planning en communicatie soepel af te handelen. Op dezelfde manier is het handhaven van de professionele toon die wordt bepaald door uw handtekening in elke vervolg-e-mail de sleutel tot het opbouwen van relaties.
 
-Tools die zijn ontworpen voor e-mailproductiviteit, zoals [Duet Mail](https://duetmail.com/nl), kunnen deze kloof helpen overbruggen. Stel je voor dat je AI-hulp krijgt om snelle, gepersonaliseerde antwoorden op te stellen die je unieke stem behouden nadat iemand interactie heeft gehad met de CTA van je handtekening. De functies vanDuet Mail, zoals **AI Triage**, kunnen helpen belangrijke antwoorden naar voren te brengen die zijn gegenereerd op basis van handtekeninginteracties, terwijl de **Authentieke AI Drafting** ervoor zorgt dat uw vervolgacties net zo klinken als u, waardoor de professionaliteit van uw handtekeningprojecten behouden blijft. Het zet de betrokkenheid die door uw handtekening wordt opgewekt, om in goed beheerde, productieve gesprekken.
+Tools die zijn ontworpen voor e-mailproductiviteit, zoals [Duet Mail](https://duetmail.com/nl), kunnen deze kloof helpen overbruggen. Stel je voor dat je AI-hulp krijgt om snelle, gepersonaliseerde antwoorden op te stellen die je unieke stem behouden nadat iemand interactie heeft gehad met de CTA van je handtekening. De functies van Duet Mail, zoals **AI Triage**, kunnen helpen belangrijke antwoorden naar voren te brengen die zijn gegenereerd op basis van handtekeninginteracties, terwijl de **Authentieke AI Drafting** ervoor zorgt dat uw vervolgacties net zo klinken als u, waardoor de professionaliteit van uw handtekeningprojecten behouden blijft. Het zet de betrokkenheid die door uw handtekening wordt opgewekt, om in goed beheerde, productieve gesprekken.
 
 ## Klaar om uw handtekening te activeren?
 

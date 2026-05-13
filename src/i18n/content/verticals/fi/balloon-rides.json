@@ -1,6 +1,6 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail kuumailmapallomatkoille | AI sähköpostiavustaja",
+  "pageTitle": "Duet Mail kuumailmapallomatkoille | AI-sähköpostiavustaja",
   "metaDescription": "Duet Mail auttaa ilmapallolentäjiä vastaamaan varaussähköposteihin välittömästi – jopa auringonnousun lentojen aikana. AI-luonnolliset vastaukset hinnoilla, sääkäytännöilläsi ja äänelläsi.",
   "heroBadge": "Yli 200 ilmapallolentäjän luottama",
   "heroHeadline": "Sähköpostiavustajasi ollessasi ilmassa",
@@ -49,7 +49,7 @@
     "bookingUnit": "",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Yksi säästetty lento maksaa Duetin vuoden."
+    "punchline": "Yksi säästetty lento maksaa Duet in vuoden."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, sääkysymykset sitten ja melu ei koskaan. Uutiskirjehälytysten alle haudottua lentokyselyä ei enää kaipaa.",
   "draftSubtitle": "Duet oppii hinnoittelusi, sääkäytäntösi ja äänesi. Kun varauskysely saapuu, se luonnostelee täydellisen vastauksen, joka sisältää lennon tiedot, kokoustiedot ja pukeutumisen. Tarkistat ja lähetät.",

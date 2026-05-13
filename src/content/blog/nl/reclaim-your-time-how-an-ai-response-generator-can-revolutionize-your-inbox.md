@@ -77,7 +77,7 @@ Dit is vaak het meest directe en impactvolle voordeel. Door repetitieve taken te
 
 - Uit onderzoek onder medewerkers van de klantenondersteuning is gebleken dat toegang tot AI-ondersteuning [de productiviteit met gemiddeld 14% verhoogde](https://www.cfodive.com/news/ai-boosts-productivity-nber-case-study-generative-workforce/649110/), gemeten aan de hand van de problemen die per uur worden opgelost.
 
-- Bedrijven die tools alsMicrosoft365 Copilot implementeren, hebben aanzienlijke tijdbesparingen gerapporteerd. Zo bespaarden [werknemers van de Campari Group ongeveer twee uur per week](https://blogs.microsoft.com/blog/2025/03/10/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/), en SPAR schatte de besparingen gelijk aan de productie van vier voltijdwerknemers.
+- Bedrijven die tools als Microsoft 365 Copilot implementeren, hebben aanzienlijke tijdbesparingen gerapporteerd. Zo bespaarden [werknemers van de Campari Group ongeveer twee uur per week](https://blogs.microsoft.com/blog/2025/03/10/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/), en SPAR schatte de besparingen gelijk aan de productie van vier voltijdwerknemers.
 
 Stel je eens voor wat je zou kunnen doen met een paar uur extra vrije tijd per week.
 
@@ -127,7 +127,7 @@ Een AI-tool toegang geven tot uw inbox brengt inherent vertrouwen en potentiële
 
 - **Encryptie:** Gegevens moeten zowel tijdens de overdracht als in rust worden gecodeerd.
 
-- **Gegevensbeheer:** Beleid waarin staat dat uw gegevens niet worden gebruikt om fundamentele AI-modellen te trainen (zoals beweerd door [Microsoftvoor Copilot](https://www.microsoft.com/en-us/microsoft-365/outlook/ai-email-assistant)). Zoek naar gebruikersopties en opt-outopties.
+- **Gegevensbeheer:** Beleid waarin staat dat uw gegevens niet worden gebruikt om fundamentele AI-modellen te trainen (zoals beweerd door [Microsoft voor Copilot](https://www.microsoft.com/en-us/microsoft-365/outlook/ai-email-assistant)). Zoek naar gebruikersopties en opt-outopties.
 
 - **Compliance:** Naleving van standaarden zoalsGDPR,SOC 2.
 
@@ -147,11 +147,11 @@ De markt voor AI-e-mailtools breidt zich snel uit. Hoe kies je de juiste voor jo
 
 **Integratie en workflow:** Bedenk hoe de tool in uw bestaande workflow past.
 
-- **Geïntegreerde assistenten:** Tools die rechtstreeks binnen uw e-mailclient werken (bijvoorbeeld als een Chrome-extensie voorGmailof eenOutlookadd-in) bieden naadloosheid en verminderen het wisselen van context. Ze hebben vaak betere toegang tot de context van e-mailthreads.
+- **Geïntegreerde assistenten:** Tools die rechtstreeks binnen uw e-mailclient werken (bijvoorbeeld als een Chrome-extensie voor Gmail of een Outlook add-in) bieden naadloosheid en verminderen het wisselen van context. Ze hebben vaak betere toegang tot de context van e-mailthreads.
 
 - **Zelfstandige apps:** Deze bieden mogelijk bredere functies, maar vereisen mogelijk kopiëren/plakken of werken in een apart venster, waardoor de stroom mogelijk wordt verstoord, tenzij ze een uitstekende browserintegratie hebben.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Schermafbeelding met een voorbeeld van een AI-e-mailassistent geïntegreerd in deGmail-interface, met suggesties., bijschrift:Geïntegreerde AI-assistenten werken rechtstreeks binnen uw bestaande e-mailclient voor een soepelere workflow.]
+\[url:placeholder_screenshot_integrated_ai; alt_text:Schermafbeelding met een voorbeeld van een AI-e-mailassistent geïntegreerd in de Gmail-interface, met suggesties., bijschrift:Geïntegreerde AI-assistenten werken rechtstreeks binnen uw bestaande e-mailclient voor een soepelere workflow.]
 
 **Checklist belangrijkste functies:** Evalueer tools op basis van de functies die voor u het belangrijkst zijn:
 

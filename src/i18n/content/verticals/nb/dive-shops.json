@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mailfor dykkebutikker | AI e-postassistent",
-  "metaDescription": "Duet Mailhjelper dykkebutikkeiere og PADI-instruktører med å svare på sertifiseringsforespørsler, reisebestillinger og utstyrsspørsmål umiddelbart - selv fra undervannsoperasjoner.",
+  "pageTitle": "Duet Mail for dykkebutikker | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper dykkebutikkeiere og PADI-instruktører med å svare på sertifiseringsforespørsler, reisebestillinger og utstyrsspørsmål umiddelbart - selv fra undervannsoperasjoner.",
   "heroBadge": "Godkjent av 300+ dykkeoperatører",
   "heroHeadline": "Din e-postassistent mens du er under vann",
-  "heroSubline": "Duetlærer dykkestedene dine, sertifiseringskravene, prisene og stemmen din – og lager utkast til e-postsvar slik at du aldri mister en bestilling mens du er på båten.",
+  "heroSubline": "Duet lærer dykkestedene dine, sertifiseringskravene, prisene og stemmen din – og lager utkast til e-postsvar slik at du aldri mister en bestilling mens du er på båten.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "dykke",
     "lostPerMonth": "3 turer (6 dykkere hver)",
     "monthlyLoss": "$2,700",
-    "punchline": "Ett lagret gruppedykk betaler for et år medDuet."
+    "punchline": "Ett lagret gruppedykk betaler for et år med Duet."
   },
-  "categorizationSubtitle": "Duetmerker automatisk hver e-post slik at du ser sertifiseringsforespørsler og dykkebestillinger først, utstyrsspørsmål etterpå, og PADI-varsler når du er klar. Ikke mer mangler en gruppebestilling begravet under utstyrsnyhetsbrev.",
-  "draftSubtitle": "Duetlærer dykkestedene dine, sertifikatkrav og priser. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med reisedetaljer, hva som er inkludert og hva du skal ta med. Du anmelder og sender.",
-  "agentSubtitle": "\"Hvor mange dykkere er booket til lørdag?\" \"Utkast et svar til Rachel med tilgjengelighet av Open Water.\"Duetkjenner innboksen og timeplanen din – bare spør.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser sertifiseringsforespørsler og dykkebestillinger først, utstyrsspørsmål etterpå, og PADI-varsler når du er klar. Ikke mer mangler en gruppebestilling begravet under utstyrsnyhetsbrev.",
+  "draftSubtitle": "Duet lærer dykkestedene dine, sertifikatkrav og priser. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med reisedetaljer, hva som er inkludert og hva du skal ta med. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvor mange dykkere er booket til lørdag?\" \"Utkast et svar til Rachel med tilgjengelighet av Open Water.\"Duet kjenner innboksen og timeplanen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kaptein Mike T.",
       "title": "Dykkebåtkaptein, FL",
-      "quote": "Jeg kjører båtturer fredag til søndag og butikken er bare åpen noen timer på mandag. Sertifiseringsspørsmål og turforespørsler hoper seg opp mens jeg er under vann.Duetutkast til svar med mine priser, dykkesteder og hva som er inkludert – jeg vurderer dem mellom dykkene.",
+      "quote": "Jeg kjører båtturer fredag til søndag og butikken er bare åpen noen timer på mandag. Sertifiseringsspørsmål og turforespørsler hoper seg opp mens jeg er under vann.Duet utkast til svar med mine priser, dykkesteder og hva som er inkludert – jeg vurderer dem mellom dykkene.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen og Mark S.",
       "title": "PADI dykkesenter, HI",
-      "quote": "Vi kjører dykk, snorkleturer og hvalklokker fra de samme båtene. E-postvarianten er vanvittig - sertifikatspørsmål, gruppebestillinger, leie av utstyr, værsjekker.Duetsorterer det hele og utarbeider svar som kjenner forskjellen. Absolutt livredder.",
+      "quote": "Vi kjører dykk, snorkleturer og hvalklokker fra de samme båtene. E-postvarianten er vanvittig - sertifikatspørsmål, gruppebestillinger, leie av utstyr, værsjekker.Duet sorterer det hele og utarbeider svar som kjenner forskjellen. Absolutt livredder.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "Halvparten av e-postene mine er \"hvilken sertifisering trenger jeg for vrakdykkene?\" og den andre halvparten er \"trenger jeg mitt eget utstyr?\"Duethåndterer begge på autopilot. Svartiden min gikk fra timer til minutter.",
+      "quote": "Halvparten av e-postene mine er \"hvilken sertifisering trenger jeg for vrakdykkene?\" og den andre halvparten er \"trenger jeg mitt eget utstyr?\"Duet håndterer begge på autopilot. Svartiden min gikk fra timer til minutter.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Dykkerbutikkeier, CA",
-      "quote": "Om sommeren får vi 30+ e-poster om dagen om kurs, turtilgjengelighet og utstyr. Jeg mistet bestillinger til butikker som svarte raskere. Nå leggerDuetutkast til alt, og jeg trykker bare på send mellom klassene.",
+      "quote": "Om sommeren får vi 30+ e-poster om dagen om kurs, turtilgjengelighet og utstyr. Jeg mistet bestillinger til butikker som svarte raskere. Nå legger Duet utkast til alt, og jeg trykker bare på send mellom klassene.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Dykkeinstruktør og guide, NC",
-      "quote": "Jeg underviser i kurs om morgenen og guider dykk om ettermiddagen. Det er bokstavelig talt ikke tid til å svare på e-post.Duetlærte kursplanen min, priser, til og med avbestillingsreglene mine. Kunder kan ikke se forskjell.",
+      "quote": "Jeg underviser i kurs om morgenen og guider dykk om ettermiddagen. Det er bokstavelig talt ikke tid til å svare på e-post.Duet lærte kursplanen min, priser, til og med avbestillingsreglene mine. Kunder kan ikke se forskjell.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "ForstårDuetsertifiseringsnivåer og kurskrav?",
-      "answer": "Ja.Duetlærer dine spesifikke kurs – Open Water, Advanced, Rescue, Divemaster – sammen med forutsetninger, varighet, priser og hva som er inkludert. Når noen spør om å bli sertifisert, utarbeiderDuetet svar med de riktige kursdetaljene, timeplanen og neste trinn. Du anmelder og sender."
+      "question": "Forstår Duet sertifiseringsnivåer og kurskrav?",
+      "answer": "Ja. Duet lærer dine spesifikke kurs – Open Water, Advanced, Rescue, Divemaster – sammen med forutsetninger, varighet, priser og hva som er inkludert. Når noen spør om å bli sertifisert, utarbeider Duet et svar med de riktige kursdetaljene, timeplanen og neste trinn. Du anmelder og sender."
     },
     {
-      "question": "Jeg er på båten eller under vann hele dagen. Kan jeg brukeDuetfra telefonen min?",
-      "answer": "Ja.Duetfungerer medGmailogOutlook, så det fungerer uansett hvor e-posten din fungerer – inkludert telefonen. Utkast vises automatisk i innboksen din. Mellom dykk eller tilbake ved kaien, vurderer og sender du med ett trykk. De fleste dykkeoperatører forteller oss at det sparer dem 1-2 timer med e-posttid per dag i høysesongen."
+      "question": "Jeg er på båten eller under vann hele dagen. Kan jeg bruke Duet fra telefonen min?",
+      "answer": "Ja. Duet fungerer med Gmail og Outlook, så det fungerer uansett hvor e-posten din fungerer – inkludert telefonen. Utkast vises automatisk i innboksen din. Mellom dykk eller tilbake ved kaien, vurderer og sender du med ett trykk. De fleste dykkeoperatører forteller oss at det sparer dem 1-2 timer med e-posttid per dag i høysesongen."
     }
   ],
   "pricingNote": "For $150/dykk med en gruppe på 6, betaler én lagret tur for over ett år medPro."

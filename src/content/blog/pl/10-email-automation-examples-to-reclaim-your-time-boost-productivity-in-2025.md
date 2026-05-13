@@ -3,7 +3,7 @@ title: "10+ przykładów automatyzacji e-maili, które pozwolą odzyskać czas i
 description: "Odkryj praktyczne przykłady automatyzacji e-maili do sortowania, odpowiedzi, follow-upów i nie tylko. Zwiększ produktywność dzięki tym wskazówkom i narzędziom na 2025 rok."
 publishedAt: 2025-04-07
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Automation", "Email"]
+tags: ["AI", "Produktywność", "Automatyzacja", "E-mail"]
 draft: false
 ---
 

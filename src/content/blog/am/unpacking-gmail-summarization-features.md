@@ -20,7 +20,7 @@ draft: false
 
 እነዚህን አሃዞች አስቡባቸው፡-
 
-- አማካይ የቢሮ ሰራተኛ ወደ [121 ኢሜይሎች በቀን] (https://blog.beehiiv.com/p/time-spent-on-email-statistics) ይቀበላል።
+- አማካይ የቢሮ ሰራተኛ ወደ [121 ኢሜይሎች በቀን](https://blog.beehiiv.com/p/time-spent-on-email-statistics) ይቀበላል።
 
 - የእውቀት ሰራተኞች በየቀኑ **2.6 ሰአታት** በኢሜል ያሳልፋሉ፣ ይህም ከመደበኛ የስራ ቀን 30% የሚጠጋ ነው፣ በ[ሃርቫርድ ጥናት](https://blog.beehiiv.com/p/time-spent-on-email-statistics)።
 

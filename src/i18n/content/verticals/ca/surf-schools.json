@@ -1,99 +1,99 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail per a escoles de surf i operadors de paddleboard | AI Assistent de correu electrònic\n",
-  "metaDescription": "Duet Mail ajuda els instructors de surf i els operadors de paddleboard a respondre als correus electrònics de reserva a l'instant, fins i tot mentre ensenya. Respostes redactades per AI amb els tipus de lliçons, els preus i la veu.\n",
-  "heroBadge": "Amb la confiança de més de 300 instructors de surf\n",
-  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu ensenyant a l'aigua\n",
-  "heroSubline": "Duet aprèn els tipus de lliçons, els preus i les condicions; després redacta esborranys de respostes per correu electrònic perquè mai perdis una reserva per una resposta lenta.\n",
+  "pageTitle": "Duet Mail per a escoles de surf i operadors de paddleboard | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els instructors de surf i els operadors de paddleboard a respondre als correus electrònics de reserva a l'instant, fins i tot mentre ensenya. Respostes redactades per AI amb els tipus de lliçons, els preus i la veu.",
+  "heroBadge": "Amb la confiança de més de 300 instructors de surf",
+  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu ensenyant a l'aigua",
+  "heroSubline": "Duet aprèn els tipus de lliçons, els preus i les condicions; després redacta esborranys de respostes per correu electrònic perquè mai perdis una reserva per una resposta lenta.",
   "inboxEmails": [
     {
-      "from": "Raquel T.\n",
+      "from": "Raquel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Lliçó grupal per a 6 dissabtes?\n",
-      "preview": "Hola! Tinc un grup de 6 amics de visita el cap de setmana. Tens disponibilitat per a una classe de surf grupal dissabte al matí? Quin és el preu?\n",
-      "pill": "Per respondre\n",
+      "subject": "Lliçó grupal per a 6 dissabtes?",
+      "preview": "Hola! Tinc un grup de 6 amics de visita el cap de setmana. Tens disponibilitat per a una classe de surf grupal dissabte al matí? Quin és el preu?",
+      "pill": "Per respondre",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary\n",
+      "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Sortida escolar — 25 alumnes, 15 de maig\n",
-      "preview": "Estem buscant reservar un dia de surf per a la nostra classe de 5è de 25 alumnes. Ofereix tarifes per a grups escolars? Necessitarem vestits de neoprè i taules...\n",
-      "pill": "Reserva\n",
+      "subject": "Sortida escolar — 25 alumnes, 15 de maig",
+      "preview": "Estem buscant reservar un dia de surf per a la nostra classe de 5è de 25 alumnes. Ofereix tarifes per a grups escolars? Necessitarem vestits de neoprè i taules...",
+      "pill": "Reserva",
       "pillColor": "blue"
     },
     {
-      "from": "James P.\n",
+      "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Lloguer de paddleboard + lliurament?\n",
-      "preview": "Llogueu taules de SUP per hores? Ens allotgem a la casa de platja a Elm St; hi ha possibilitat de lliurar-lo? Què inclou...\n",
-      "pill": "Pregunta\n",
+      "subject": "Lloguer de paddleboard + lliurament?",
+      "preview": "Llogueu taules de SUP per hores? Ens allotgem a la casa de platja a Elm St; hi ha possibilitat de lliurar-lo? Què inclou...",
+      "pill": "Pregunta",
       "pillColor": "amber"
     },
     {
-      "from": "Nicole B.\n",
+      "from": "Nicole B.",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Condicions per demà al matí?\n",
-      "preview": "Estem reservats per demà a les 9 del matí, però el pronòstic sembla ventós. La lliçó continuarà endavant? Hem de portar alguna cosa més...\n",
-      "pill": "FYI\n",
+      "subject": "Condicions per demà al matí?",
+      "preview": "Estem reservats per demà a les 9 del matí, però el pronòstic sembla ventós. La lliçó continuarà endavant? Hem de portar alguna cosa més...",
+      "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hola Rachel! Dissabte al matí és obert per a 6. Les classes col·lectives tenen una durada de 2 hores a partir de les 9 del matí. S'inclouen taules, vestits de neoprè i protectors contra l'erupció, només cal portar crema solar i una tovallola. Són 90 dòlars per persona. Vols que tanqui el teu grup?\n",
+  "autodraft": "Hola Rachel! Dissabte al matí és obert per a 6. Les classes col·lectives tenen una durada de 2 hores a partir de les 9 del matí. S'inclouen taules, vestits de neoprè i protectors contra l'erupció, només cal portar crema solar i una tovallola. Són 90 dòlars per persona. Vols que tanqui el teu grup?",
   "math": {
     "pricePerBooking": "$90",
-    "bookingUnit": "lliçó\n",
+    "bookingUnit": "lliçó",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Dues reserves desades paguen un any de Duet.\n"
+    "punchline": "Dues reserves desades paguen un any de Duet."
   },
-  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les reserves de lliçons, les preguntes en segon lloc i el soroll mai. Ja no us perdeu una consulta de grup escolar soterrada sota les alertes de Yelp.\n",
-  "draftSubtitle": "Duet aprèn els tipus de lliçons, els preus de grup i el to. Quan arriba una consulta de reserva, redacta una resposta completa amb disponibilitat, què s'inclou i què cal portar. Tu revisa i envia.\n",
-  "agentSubtitle": "\"Alguna reserva de grup aquesta setmana?\" \"Esborrar una resposta a l'escola amb disponibilitat\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.\n",
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les reserves de lliçons, les preguntes en segon lloc i el soroll mai. Ja no us perdeu una consulta de grup escolar soterrada sota les alertes de Yelp.",
+  "draftSubtitle": "Duet aprèn els tipus de lliçons, els preus de grup i el to. Quan arriba una consulta de reserva, redacta una resposta completa amb disponibilitat, què s'inclou i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Alguna reserva de grup aquesta setmana?\" \"Esborrar una resposta a l'escola amb disponibilitat\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
-      "from": "Raquel T.\n",
+      "from": "Raquel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Lliçó grupal per a 6 dissabtes?\n",
-      "preview": "Tinc un grup de 6 amics de visita pel cap de setmana...\n",
-      "pill": "Respon ara\n",
+      "subject": "Lliçó grupal per a 6 dissabtes?",
+      "preview": "Tinc un grup de 6 amics de visita pel cap de setmana...",
+      "pill": "Respon ara",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary\n",
+      "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Sortida confirmada — 15 de maig, 25 estudiants\n",
-      "pill": "Reservat\n",
+      "subject": "Re: Sortida confirmada — 15 de maig, 25 estudiants",
+      "pill": "Reservat",
       "pillColor": "blue"
     },
     {
-      "from": "James P.\n",
+      "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Llogueu taules de pàdel per hores?\n",
-      "pill": "Pregunta\n",
+      "subject": "Llogueu taules de pàdel per hores?",
+      "pill": "Pregunta",
       "pillColor": "amber"
     },
     {
-      "from": "TripAdvisor\n",
+      "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Nova ressenya per a la teva fitxa\n",
-      "pill": "FYI\n",
+      "subject": "Nova ressenya per a la teva fitxa",
+      "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Magatzem de surf\n",
+      "from": "Magatzem de surf",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Rebaixes d'estiu: 30% de descompte en vestits de neoprè\n",
-      "pill": "Promocions\n",
+      "subject": "Rebaixes d'estiu: 30% de descompte en vestits de neoprè",
+      "pill": "Promocions",
       "pillColor": "lavender"
     }
   ],
@@ -103,68 +103,68 @@
     "originalFrom": "Rachel T. wrote:",
     "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "Hola Rachel!",
+      "Dissabte al matí està totalment disponible per a 6. Les classes de grup costen 90 $ per persona i duren 2 hores, amb inici a les 9 del matí a la platja principal.",
+      "Taules, vestits de neoprè i samarretes de protecció estan inclosos; només cal portar protector solar, aigua i una tovallola. No cal experiència.",
+      "Vols que reservi el teu grup?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "Dissabte al matí està totalment disponible per a 6. Les classes de grup costen 90 $ per persona",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "Coneix les teves classes i preus",
+      "Redacta amb la teva veu",
+      "Inclou equipament i condicions",
+      "Aprèn amb el temps"
     ]
   },
   "agent": {
-    "userMessage": "Hi ha alguna reserva de grup aquesta setmana?\n",
-    "agentResponse": "Teniu dues reserves de grup aquesta setmana: Rachel T. dissabte (6 persones, 9:00) i Westside Elementary el dimecres (25 estudiants, excursió a les 10:00). També teniu una consulta pendent de James P. sobre el lloguer de paddleboard. Vols que redacti una resposta?\n",
+    "userMessage": "Hi ha alguna reserva de grup aquesta setmana?",
+    "agentResponse": "Teniu dues reserves de grup aquesta setmana: Rachel T. dissabte (6 persones, 9:00) i Westside Elementary el dimecres (25 estudiants, excursió a les 10:00). També teniu una consulta pendent de James P. sobre el lloguer de paddleboard. Vols que redacti una resposta?",
     "followUp": "Elaborar una resposta a l'escola confirmant els detalls de la sortida",
-    "followUpResponse": "Fet! Vaig redactar una resposta a Westside Elementary confirmant el 15 de maig per a 25 estudiants a les 10 del matí. Inclou la tarifa del grup escolar, el que s'ofereix, els requisits de l'autorització i la política de cancel·lació. A punt per revisar i enviar.\n"
+    "followUpResponse": "Fet! Vaig redactar una resposta a Westside Elementary confirmant el 15 de maig per a 25 estudiants a les 10 del matí. Inclou la tarifa del grup escolar, el que s'ofereix, els requisits de l'autorització i la política de cancel·lació. A punt per revisar i enviar."
   },
-  "testimonialsTitle": "Estimat pels instructors de surf\n",
+  "testimonialsTitle": "Estimat pels instructors de surf",
   "testimonials": [
     {
-      "name": "L'entrenador Mike T.\n",
-      "title": "Propietari de l'escola de surf, CA\n",
-      "quote": "Estic a l'aigua ensenyant 6 hores al dia. Quan vaig comprovar el correu electrònic, la meitat de les reserves havien anat a una altra persona. Ara Duet redacta les respostes amb el meu preu i la meva disponibilitat; només reviso entre sessions.\n",
+      "name": "L'entrenador Mike T.",
+      "title": "Propietari de l'escola de surf, CA",
+      "quote": "Estic a l'aigua ensenyant 6 hores al dia. Quan vaig comprovar el correu electrònic, la meitat de les reserves havien anat a una altra persona. Ara Duet redacta les respostes amb el meu preu i la meva disponibilitat; només reviso entre sessions.",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen i Mark S.\n",
-      "title": "Lliçons i lloguers de paddleboard, HI\n",
-      "quote": "Oferim classes i lloguer de pensió des de la mateixa safata d'entrada. Duet va descobrir la diferència a l'instant: les preguntes de lloguer obtenen respostes, les consultes de lliçons obtenen detalls de la lliçó. És com tenir una recepció.\n",
+      "name": "Jen i Mark S.",
+      "title": "Lliçons i lloguers de paddleboard, HI",
+      "quote": "Oferim classes i lloguer de pensió des de la mateixa safata d'entrada. Duet va descobrir la diferència a l'instant: les preguntes de lloguer obtenen respostes, les consultes de lliçons obtenen detalls de la lliçó. És com tenir una recepció.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Danny R.\n",
-      "title": "Instructor de surf, FL\n",
-      "quote": "Les reserves de grups escolars solien rebre 10 correus electrònics d'anada i tornada. Ara, Duet redacta la primera resposta amb les tarifes de grup, el que s'inclou i el full de permís. Talla tot el fil per la meitat.\n",
+      "name": "Danny R.",
+      "title": "Instructor de surf, FL",
+      "quote": "Les reserves de grups escolars solien rebre 10 correus electrònics d'anada i tornada. Ara, Duet redacta la primera resposta amb les tarifes de grup, el que s'inclou i el full de permís. Talla tot el fil per la meitat.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Fran C.\n",
-      "title": "SUP Tours & Classes, OR\n",
-      "quote": "La temporada alta m'estava matant: 30 correus electrònics al dia sobre condicions, preus, què cal portar. Les mateixes cinc preguntes una i altra vegada. Duet els gestiona tots i sonen exactament com jo.\n",
+      "name": "Fran C.",
+      "title": "SUP Tours & Classes, OR",
+      "quote": "La temporada alta m'estava matant: 30 correus electrònics al dia sobre condicions, preus, què cal portar. Les mateixes cinc preguntes una i altra vegada. Duet els gestiona tots i sonen exactament com jo.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Sarah K.\n",
-      "title": "Director de Kids Surf Camp, SC\n",
-      "quote": "Els pares envien els correus electrònics més llargs. Dates del campament, al·lèrgies, nivells d'habilitat, hores de recollida. Duet redacta respostes detallades que ho cobreixen tot, així que no estic escrivint paràgrafs a les 22:00 després d'un dia sencer a la platja.\n",
+      "name": "Sarah K.",
+      "title": "Director de Kids Surf Camp, SC",
+      "quote": "Els pares envien els correus electrònics més llargs. Dates del campament, al·lèrgies, nivells d'habilitat, hores de recollida. Duet redacta respostes detallades que ho cobreixen tot, així que no estic escrivint paràgrafs a les 22:00 després d'un dia sencer a la platja.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Passa l'estiu entre les onades,\nno a la teva safata d'entrada.\n",
-  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.\n",
+  "ctaHeadline": "Passa l'estiu entre les onades,\nno a la teva safata d'entrada.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Duet gestiona diferents tipus de lliçons i lloguer d'equips?\n",
-      "answer": "Sí. Duet aprèn totes les teves ofertes: classes privades, classes en grup, colònies infantils, lloguer de taules, excursions SUP. Quan arriba una consulta, redacta una resposta amb el preu correcte, la durada, què s'inclou i què cal portar. Sap que un correu electrònic d'un grup escolar necessita detalls diferents de la reserva d'una lliçó privada.\n"
+      "question": "Duet gestiona diferents tipus de lliçons i lloguer d'equips?",
+      "answer": "Sí. Duet aprèn totes les teves ofertes: classes privades, classes en grup, colònies infantils, lloguer de taules, excursions SUP. Quan arriba una consulta, redacta una resposta amb el preu correcte, la durada, què s'inclou i què cal portar. Sap que un correu electrònic d'un grup escolar necessita detalls diferents de la reserva d'una lliçó privada."
     },
     {
-      "question": "Què passa amb les preguntes sobre el temps i les condicions?\n",
-      "answer": "Duet s'assabenta de com gestioneu normalment els correus electrònics de condicions: les vostres polítiques sobre cancel·lacions, reprogramacions i quines condicions ensenyeu. Quan algú envia un correu electrònic preguntant-se si la lliçó continuarà, Duet redacta una resposta que coincideix amb el vostre to i política habituals. Revisa i envia en qüestió de segons.\n"
+      "question": "Què passa amb les preguntes sobre el temps i les condicions?",
+      "answer": "Duet s'assabenta de com gestioneu normalment els correus electrònics de condicions: les vostres polítiques sobre cancel·lacions, reprogramacions i quines condicions ensenyeu. Quan algú envia un correu electrònic preguntant-se si la lliçó continuarà, Duet redacta una resposta que coincideix amb el vostre to i política habituals. Revisa i envia en qüestió de segons."
     }
   ],
   "pricingNote": "Amb 90 dòlars per lliçó, dues reserves desades paguen més d'un any de Pro."

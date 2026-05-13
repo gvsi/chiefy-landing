@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
   "pageTitle": "Duet Mail pentru designeri de interior | AI Asistent de e-mail",
-  "metaDescription": "Duet Mail îi ajută pe designerii de interior să gestioneze e-mailurile clienților, coordonarea contractanților și comenzile furnizorilor, chiar și de la șantier. Răspunsuri redactate de AI cu detaliile proiectului, preferințele și vocea dvs.",
+  "metaDescription": "Duet Mail îi ajută pe designerii de interior să gestioneze e-mailurile clienților, coordonarea contractanților și comenzile furnizorilor, chiar și de la șantier. Răspunsuri redactate de AI cu detaliile proiectului, preferințele și vocea ta.",
   "heroBadge": "Încrederea a peste 400 de designeri de interior",
-  "heroHeadline": "Asistentul dvs. de e-mail în timp ce sunteți la fața locului cu clienții",
-  "heroSubline": "Duet învață contactele furnizorului dvs., detaliile proiectului și preferințele clienților, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată un client din cauza unui răspuns lent.",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești la fața locului cu clienții",
+  "heroSubline": "Duet învață contactele furnizorilor tăi, detaliile proiectului și preferințele clienților, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată un client din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -43,7 +43,7 @@
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Bună Rachel! Mi-ar plăcea să aud mai multe despre bucătăria ta din Westlake. Momentan rezerv consultații pentru luna viitoare. Procesul meu începe cu o vizită la domiciliu în care trecem prin viziunea, bugetul și cronologia dvs. - apoi am pus la punct un concept de design cu selecții de materiale. Doriți să stabiliți o oră de întâlnire la casă?",
+  "autodraft": "Bună Rachel! Mi-ar plăcea să aud mai multe despre bucătăria ta din Westlake. Momentan rezerv consultații pentru luna viitoare. Procesul meu începe cu o vizită la domiciliu în care trecem prin viziunea, bugetul și cronologia ta - apoi pun la punct un concept de design cu selecții de materiale. Vrei să stabilim o oră de întâlnire la casă?",
   "math": {
     "pricePerBooking": "$10,000",
     "bookingUnit": "proiect",
@@ -52,8 +52,8 @@
     "punchline": "Un client salvat plătește pentru ani de Duet."
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi întrebările clienților noi, apoi aprobările în așteptare, iar buletinele informative ale furnizorilor niciodată. Nu mai lipsește o consultație de design îngropată sub promoțiile expoziționale.",
-  "draftSubtitle": "Duet vă învață procesul, detaliile proiectului și tonul. Când apare o nouă întrebare sau o întrebare a clientului, acesta redactează un răspuns complet cu disponibilitatea dvs., pașii următori și detaliile proiectului. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Care este starea proiectului Henderson? „Ce aprobări sunt încă în așteptare?” Duet vă cunoaște căsuța de e-mail și fiecare fir de discuție al proiectului - trebuie doar să întrebați.",
+  "draftSubtitle": "Duet îți învață procesul, detaliile proiectului și tonul. Când apare o nouă întrebare sau o întrebare a clientului, acesta redactează un răspuns complet cu disponibilitatea ta, pașii următori și detaliile proiectului. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Care este starea proiectului Henderson? „Ce aprobări sunt încă în așteptare?” Duet îți cunoaște căsuța de e-mail și fiecare fir de discuție al proiectului - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -104,9 +104,9 @@
     "originalText": "Hi! Tocmai am cumpărat o casă în Westlake și vrem să refacem complet bucătăria. Te apuci de proiecte noi? Cum arată procesul tău?",
     "lines": [
       "Bună Rachel!",
-      "Felicitări pentru noua casă! Mi-ar plăcea să vă ajut cu bucătăria. Momentan rezerv consultații pentru luna viitoare.",
-      "Procesul meu începe cu o vizită la domiciliu pentru a vă prezenta viziunea, bugetul și cronologia. De acolo am pus la punct un concept de design cu selecții de materiale și o propunere detaliată.",
-      "Doriți să stabiliți o oră de întâlnire la casă?"
+      "Felicitări pentru noua casă! Mi-ar plăcea să te ajut cu bucătăria. Momentan rezerv consultații pentru luna viitoare.",
+      "Procesul meu începe cu o vizită la domiciliu pentru a-ți înțelege viziunea, bugetul și cronologia. De acolo pun la punct un concept de design cu selecții de materiale și o propunere detaliată.",
+      "Vrei să stabilim o oră de întâlnire la casă?"
     ],
     "highlightText": "Momentan rezerv consultații pentru luna viitoare.",
     "tooltipFeatures": [
@@ -118,8 +118,8 @@
   },
   "agent": {
     "userMessage": "Ce aprobări sunt încă în așteptare pentru proiectul Henderson?",
-    "agentResponse": "Pe baza firelor dvs. de e-mail cu familia Henderson, două articole sunt încă în așteptarea aprobării: chiuveta de baie principală (ați trimis opțiunile Hardware pentru restaurare marți) și țesătura pentru draperii pentru sufragerie (probele au fost livrate săptămâna trecută). Karen a întrebat și despre strălucirea vopselei pentru sufragerie, dar nu a răspuns încă la recomandarea ta. Vrei să redactez o continuare?",
-    "followUp": "Redactați o continuare blândă pentru Karen despre selecția de articole de toaletă și țesături",
+    "agentResponse": "Pe baza firelor tale de e-mail cu familia Henderson, două articole sunt încă în așteptarea aprobării: chiuveta de baie principală (ai trimis opțiunile Hardware pentru restaurare marți) și țesătura pentru draperii pentru sufragerie (probele au fost livrate săptămâna trecută). Karen a întrebat și despre strălucirea vopselei pentru sufragerie, dar nu a răspuns încă la recomandarea ta. Vrei să redactez o continuare?",
+    "followUp": "Redactează o continuare blândă pentru Karen despre selecția de articole de toaletă și țesături",
     "followUpResponse": "Făcut! Am redactat o continuare a lui Karen care a verificat selecțiile de vană și draperii, menționând că vanitatea are un termen de livrare de 6 săptămâni, astfel încât o decizie în curând ar menține proiectul în termen. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Iubit de designerii de interior",
@@ -155,16 +155,16 @@
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Petrece-ți zilele creând spații frumoase,\nnu este îngropat în căsuța dvs. de e-mail.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece-ți zilele creând spații frumoase,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Jonglez cu 8-10 proiecte deodată. Poate Duet să le țină drepte?",
-      "answer": "Da. Duet urmărește fiecare fir de e-mail pentru fiecare client și proiect. Când întrebați despre bucătăria Henderson sau biroul din Park Avenue, acesta extrage contextul din toate conversațiile conexe - comenzile furnizorilor, actualizările contractorilor, aprobările clienților - astfel încât răspunsurile dvs. să fie întotdeauna exacte și specifice proiectului. Fără confuzie ce plăci a fost pentru care client."
+      "answer": "Da. Duet urmărește fiecare fir de e-mail pentru fiecare client și proiect. Când întrebi despre bucătăria Henderson sau biroul din Park Avenue, acesta extrage contextul din toate conversațiile conexe - comenzile furnizorilor, actualizările contractorilor, aprobările clienților - astfel încât răspunsurile tale să fie întotdeauna exacte și specifice proiectului. Fără confuzie ce plăci au fost pentru care client."
     },
     {
       "question": "Coordonez cu o mulțime de antreprenori și vânzători. Duet ajută la asta?",
-      "answer": "Absolut. Duet învață contactele contractanților dvs., reprezentanții furnizorilor și contextul rolului fiecărei afaceri în proiectele dvs. Când electricianul dvs. trimite prin e-mail că s-a terminat, Duet poate redacta un răspuns care confirmă următorul pas sau bucla în programul de instalare. Menține fluxul de lucru în mișcare chiar și atunci când vă aflați în oraș la un alt șantier."
+      "answer": "Absolut. Duet învață contactele contractanților tăi, reprezentanții furnizorilor și contextul rolului fiecărei afaceri în proiectele tale. Când electricianul tău trimite prin e-mail că s-a terminat, Duet poate redacta un răspuns care confirmă următorul pas sau include instalatorul de corpuri de iluminat. Menține fluxul de lucru în mișcare chiar și atunci când ești în oraș la un alt șantier."
     }
   ],
   "pricingNote": "La 10.000 USD/proiect, un client salvat plătește pentru ani de Duet Pro."

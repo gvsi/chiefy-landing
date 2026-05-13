@@ -24,7 +24,7 @@
     "ariaHidden": true,
     "callouts": [
       "即时分类",
-      "AI动力回复"
+      "AI 驱动回复"
     ],
     "windowTitle": "收件箱",
     "providers": [
@@ -42,7 +42,7 @@
       {
         "from": "亚历克斯·里维拉",
         "avatarLetter": "A",
-        "subject": "回复：Pro管道启动时间表",
+        "subject": "回复：产品发布时间表",
         "preview": "嘿！想要检查启动资产。下周我们还在计划吗？",
         "pill": "回应"
       },
@@ -63,7 +63,7 @@
         "from": "Shopify",
         "avatarLetter": "S",
         "subject": "您的商店已准备好迎接黑色星期五",
-        "pill": "Pro动作"
+        "pill": "促销"
       }
     ],
     "autodraft": "嗨亚历克斯！是的，我们正在步入正轨。设计团队昨天完成了资产，我将在今天EOD之前发送最终文件。"
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "智能提醒",
-        "description": "设置好后就可以忘记它。 DuetAI记得在其他人没有回复时跟进，这样就不会遗漏任何内容。",
+        "description": "设置好后就可以忘记它。 Duet AI记得在其他人没有回复时跟进，这样就不会遗漏任何内容。",
         "ariaLabel": "智能提醒",
         "mockCopy": {
           "header": "AI-支持智能提醒",
@@ -142,7 +142,7 @@
               "time": "2天前"
             },
             {
-              "title": "Pro项目整合",
+              "title": "项目整合",
               "time": "12 小时前"
             }
           ],
@@ -203,12 +203,12 @@
       {
         "from": "Stripe",
         "subject": "您的月结单已准备好",
-        "pill": "Pro动作"
+        "pill": "促销"
       },
       {
         "from": "时事通讯",
         "subject": "每周摘要",
-        "pill": "Pro动作"
+        "pill": "促销"
       }
     ]
   },
@@ -253,7 +253,7 @@
     "badge": "情报",
     "title": "询问任何有关您的电子邮件的问题",
     "subtitle": "请 Duet 查找电子邮件、查看日历或起草回复。它了解您的收件箱并立即回复。",
-    "windowTitle": "Duet 代理",
+    "windowTitle": "Duet Agent",
     "onlineLabel": "在线",
     "initialUserMessage": "您能找到会计发送的Stripe发票吗？",
     "processingText": "正在搜索收件箱...",
@@ -275,7 +275,7 @@
     ],
     "inputPlaceholder": "有什么问...",
     "dynamicResponses": {
-      "processingDefault": "Pro停止...",
+      "processingDefault": "处理中...",
       "processingDraft": "正在生成草稿...",
       "processingCalendar": "正在检查可用性...",
       "draftIntro": "以下是对会计的回复草稿：",
@@ -390,7 +390,7 @@
             "description": "启动的基本组织"
           },
           {
-            "title": "Duet 助理",
+            "title": "Duet Assistant",
             "description": "试试AI助手"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet 助理",
+            "title": "Duet Assistant",
             "description": "聊天以查找、起草、组织等",
             "highlight": true
           },
@@ -450,7 +450,7 @@
         "perUser": true,
         "features": [
           {
-            "title": "一切都在Pro",
+            "title": "一切都在 Pro 中",
             "description": "包含所有功能"
           },
           {
@@ -623,7 +623,7 @@
     "ariaLabel": "投资回报率",
     "label": "数学",
     "narrativeTemplate": "每 {bookingUnit} {pricePerBooking}，由于回复缓慢而仅损失 {lostPerMonth} =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/mo",
     "dividerLabel": "与",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"

@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Backyard redesign — free for a consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "subject": "Re: বাড়ির পিছনের অংশের নতুন নকশা — পরামর্শের জন্য বিনামূল্যে?",
+    "originalFrom": "Rachel T. লিখেছেন:",
+    "originalText": "হ্যালো! আমরা সম্প্রতি Westlake-এ একটি বাড়ি কিনেছি এবং এর পেছনের উঠোনটি একদম ফাঁকা। আমরা দেশীয় গাছপালা ও একটি প্যাটিও সহ এটিকে সম্পূর্ণ নতুনভাবে ডিজাইন করতে চাই। আপনারা কি নতুন গ্রাহক নিচ্ছেন?",
     "lines": [
-      "Hi Rachel!",
-      "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
-      "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
-      "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
+      "হাই Rachel!",
+      "নতুন বাড়ির জন্য অভিনন্দন — সত্যি বলতে, একেবারে গোছানো একটি উঠোন পাওয়াটা স্বপ্নের মতো। আমি অবশ্যই নতুন ক্লায়েন্ট নিচ্ছি।",
+      "আমার প্রক্রিয়াটি ৯০ মিনিটের একটি সরেজমিন পরামর্শ সভার মাধ্যমে শুরু হয়, যেখানে আমি সম্পত্তিটি ঘুরে দেখি, পরিমাপ নিই এবং আপনার লক্ষ্যগুলো নিয়ে আলোচনা করি। সেখান থেকে আমি বৃক্ষরোপণ নকশা, কাঠামোগত বিন্যাস এবং একটি পর্যায়ক্রমিক বাজেট সহ একটি ধারণাগত পরিকল্পনা তৈরি করি।",
+      "আগামী ২-৩ সপ্তাহের মধ্যে আমার কিছু খালি সময় আছে। আপনি কি আমাকে কিছু সম্ভাব্য তারিখ পাঠাতে পারবেন?"
     ],
-    "highlightText": "My process starts with a 90-minute on-site consultation",
+    "highlightText": "আমার প্রক্রিয়াটি ৯০ মিনিটের একটি অন-সাইট পরামর্শের মাধ্যমে শুরু হয়।",
     "tooltipFeatures": [
-      "Knows your design process & pricing",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "আপনার ডিজাইন প্রক্রিয়া ও মূল্য নির্ধারণ সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "পরামর্শের বিবরণ স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

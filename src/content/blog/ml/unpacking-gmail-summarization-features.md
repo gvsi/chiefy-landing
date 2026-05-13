@@ -3,7 +3,7 @@ title: "Gmail സംഗ്രഹ സവിശേഷതകൾ അൺപാക്�
 description: "ഇമെയിൽ ഓവർലോഡുമായി മല്ലിടുകയാണോ? ജെമിനി നൽകുന്ന Gmail-യുടെ സംഗ്രഹ സവിശേഷതകൾ പര്യവേക്ഷണം ചെയ്യുക, അവയുടെ ഗുണദോഷങ്ങൾ മനസ്സിലാക്കുക, അവ മതിയോ എന്ന് നോക്കുക."
 publishedAt: 2025-09-26
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Email Summarization"]
+tags: ["AI", "Gmail", "ഇമെയിൽ സംഗ്രഹം"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "如何使用 AI 和適用於 Gmail 的 GPT 並重新開始您的一天"
 description: "了解如何使用 Gmail 的 GPT 來克服電子郵件過載問題。探索用於起草、總結和分類的 AI 工具，以提高工作效率並節省時間。"
 publishedAt: 2025-06-10
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Pro生產力", "電子郵件"]
+tags: ["AI", "Gmail", "生產力", "電子郵件"]
 draft: false
 ---
 電子郵件收件匣是持續壓力的來源嗎？永不停止的數位跑步機？對許多人來說，這是一種熟悉的感覺。專業人士平均每天花費很大一部分時間（根據一些估計約為 [**28%**](https://autogmail.com/chatgpt-gmail)）——只是管理電子郵件。 [**每天有數十億條訊息在網路上傳播**](https://www.emailtooltester.com/en/blog/email-usage-statistics/)（預計到 2027 年，這一數字將超過 [每天 4000 億條](https://www.dragapp.com/blog/email-statistics/)），難怪許多人感到不知所措。人們經常在早上第一件事就是檢查電子郵件，甚至在工作開始之前。手動篩選、排序和回應正在成為一種不可持續的負擔。
@@ -18,13 +18,13 @@ draft: false
 
 這種整合有多種方式發生：
 
-- **原生 Gmail 功能 (**[**Gemini**](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264)**)：** Google 已將自己的 AI，稱為 **Gemini**（之前為 Duet PHX0000X PHXHP中，包括Gmail。 「[幫助我寫作](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid)」等功能允許用戶根據提示生成電子郵件草稿，而智能撰寫則提供預測文本建議作為一種類型，而智能回复則提供快速、基於上下文的響應選項。值得注意的是，存取全套 Gemini 功能通常需要付費 [Google Workspace](https://workspace.google.com/) 或 [Google One AI Premium](https://one.google.com/ai-premium) 訂閱。雖然方便，但這些本機工具的早期版本有時在功能上落後於專用解決方案。
+- **原生 Gmail 功能 (**[**Gemini**](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264)**)：** Google 已將自己的 AI（稱為 **Gemini**，先前稱為 Duet AI）直接整合到包括 Gmail 在內的 Google Workspace 中。 「[幫助我寫作](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid)」等功能允許使用者根據提示生成電子郵件草稿，而智能撰寫則提供預測文本建議作為一種類型，而智能回覆則提供快速、基於上下文的響應選項。值得注意的是，存取全套 Gemini 功能通常需要付費 [Google Workspace](https://workspace.google.com/) 或 [Google One AI Premium](https://one.google.com/ai-premium) 訂閱。雖然方便，但這些本機工具的早期版本有時在功能上落後於專用解決方案。
 
 - **(**[**瀏覽器擴充**](https://www.popai.pro/resources/20-best-chatgpt-chrome-extensions-for-2025/)**)：** 這些通常透過([Chrome Web Store](https://ttms.com/12-most-useful-chatgpt-plugins-in-2025/))（或其他瀏覽器的類似儲存庫）安裝，並將 AI 功能覆蓋到標準 Gmail 介面上。常見的範例包括 ([ChatGPT Writer](https://www.wps.ai/blog/7-best-chatgpt-chrome-extensions/)) 等擴展，它們直接在撰寫視窗或電子郵件線程視圖中提供由 ChatGPT 支援的起草、摘要或回應產生。它們提供特定的功能，而不需要全新的電子郵件環境。
 
-- [**Google Workspace 附加元件**](https://workspace.google.com/marketplace)**:** 從 Google Workspace Marketplace 安裝，這些附加元件通常出現在 Gmail 側邊欄或整合到撰寫視窗中。 ([GPT for Gmail™](https://workspace.google.com/marketplace/app/gpt_for_gmail/802100925247)) 或 [Klart AI Mail Assistant](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) 等工具提供可在 Gmail 工作區中直接存取的 PHXHP0009XHP 功能。
+- [**Google Workspace 附加元件**](https://workspace.google.com/marketplace)**:** 從 Google Workspace Marketplace 安裝，這些附加元件通常出現在 Gmail 側邊欄或整合到撰寫視窗中。 ([GPT for Gmail™](https://workspace.google.com/marketplace/app/gpt_for_gmail/802100925247)) 或 [Klart AI Mail Assistant](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) 等工具提供可在 Gmail 工作區中直接存取的 AI 功能。
 
-- **專用 AI 電子郵件助理/用戶端：** 此類別包括連接到使用者 Gmail 帳戶但提供包含高級 AI 功能的獨特介面的獨立應用程式或專用電子郵件用戶端。例如([Super human](https://superhuman.com/))、([Shortwave](https://www.shortwave.com/))、([SaneBox](https://www.sanebox.com/))、[Flowrite]( https://www.flowrite.com/)、[Missive](https://missiveapp.com/)和[**Duet Mail**](https://duetmail.com/zh-Hant)通常注重速度、深度AI學習（例如了解寫作風格）和全面的工作流程集成，通常需要支付高級訂閱費用。
+- **專用 AI 電子郵件助理/使用者端：** 此類別包括連接到使用者 Gmail 帳戶但提供包含高級 AI 功能的獨特介面的獨立應用程式或專用電子郵件使用者端。例如([Super human](https://superhuman.com/))、([Shortwave](https://www.shortwave.com/))、([SaneBox](https://www.sanebox.com/))、[Flowrite]( https://www.flowrite.com/)、[Missive](https://missiveapp.com/)和[**Duet Mail**](https://duetmail.com/zh-Hant)通常注重速度、深度AI學習（例如了解寫作風格）和全面的工作流程整合，通常需要支付高級訂閱費用。
 
 這些不同的整合方法允許 AI 執行 Gmail 內的多項核心功能：
 
@@ -44,17 +44,17 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 
 **Problem：** 盯著空白的撰寫窗口，尤其是例行、正式或重複的電子郵件，會消耗寶貴的時間和精力。任何人都可能遭遇寫作障礙，減緩重要的溝通速度。
 
-**AI 解決方案：** AI 擅長克服「空白頁」問題。它可以根據簡單的提示生成完整的電子郵件草稿，建議對傳入訊息進行智慧回复，並透過調整語氣（正式化、休閒化）、長度（縮短、闡述）或清晰度來完善現有文字。這對於撰寫銷售推廣、會議後發送跟進、禮貌拒絕或回答常見問題等任務非常有用。
+**AI 解決方案：** AI 擅長克服「空白頁」問題。它可以根據簡單的提示生成完整的電子郵件草稿，建議對傳入訊息進行智慧回覆，並透過調整語氣（正式化、休閒化）、長度（縮短、闡述）或清晰度來完善現有文字。這對於撰寫銷售推廣、會議後發送跟進、禮貌拒絕或回答常見問題等任務非常有用。
 
 **真實性挑戰：** 對許多人來說，一個主要的猶豫是擔心聽起來很普通、缺乏個性或機械化。有效的溝通依賴個人風格。值得慶幸的是，更複雜的 AI 電子郵件工具旨在直接解決此問題。他們利用科技學習使用者獨特的寫作風格、語調、詞彙，甚至句子結構。此學習過程通常涉及分析使用者的[先前發送的電子郵件](https://gmelius.com/blog/ultimate-guide-to-artificial-intelligence-ai-for-emails) 並根據對 AI 產生的草稿提供的編輯和回饋進行調整。
 
-保持真實的聲音至關重要。這就是專門為此設計的工具的閃光點。例如，像 [**Duet Mail**](https://duetmail.com/zh-Hant) 這樣的平台強調**真實的 AI 起草**，分析過去的通訊以產生真正聽起來像用戶的建議。雖然許多工具提供基本的繪圖功能，但生成文字的_品質_和_真實性_正在成為關鍵的區別因素。大量投資於學習使用者風格的工具正在解決採用的主要障礙，超越單純的速度提供個人化的效率。
+保持真實的聲音至關重要。這就是專門為此設計的工具的閃光點。例如，像 [**Duet Mail**](https://duetmail.com/zh-Hant) 這樣的平台強調**真實的 AI 起草**，分析過去的通訊以產生真正聽起來像使用者的建議。雖然許多工具提供基本的繪圖功能，但生成文字的_品質_和_真實性_正在成為關鍵的區別因素。大量投資於學習使用者風格的工具正在解決採用的主要障礙，超越單純的速度提供個人化的效率。
 
 **Pro 真實性提示：** 獲得最佳結果通常取決於提供清晰的說明。有效的提示是具體的，提供有關接收者和目的的上下文，定義所需的語氣（例如，“友好但專業”、“簡潔而緊急”），提供首選措辭的示例，並涉及迭代 - 完善 AI 的輸出，直到感覺正確為止。
 
 ### 透過 AI 匯總克服資訊過載
 
-**Problem：** 我們都曾經遇到過這種情況——度假歸來後收到堆積如山的未讀電子郵件，或者打開一個包含數十條回复的項目線程。僅僅為了了解當前狀態而費力地進行冗長的交流或密集的附件會消耗寶貴的時間，並增加丟失關鍵資訊的風險。
+**Problem：** 我們都曾經遇到過這種情況——度假歸來後收到堆積如山的未讀電子郵件，或者打開一個包含數十條回覆的項目線程。僅僅為了了解當前狀態而費力地進行冗長的交流或密集的附件會消耗寶貴的時間，並增加丟失關鍵資訊的風險。
 
 **AI 解決方案：** AI 電子郵件助理就像個人簡報工具。他們可以自動分析長電子郵件對話、附加文件（如 PDF 或 Word 文件），甚至會議記錄並將其壓縮為簡短易懂的摘要。至關重要的是，他們擅長從噪音中提取訊號——識別做出的關鍵決策、突出的行動項目、提出的重要問題以及提到的最後期限。
 
@@ -62,7 +62,7 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 
 **用例：** 此功能對於在離開後快速跟上進度、了解複雜問題的上下文而無需重讀整個歷史記錄或與需要循環的團隊成員有效共享對話要點而言非常寶貴。
 
-快速掌握要點至關重要。 AI 工具可以充當簡報助理。有些平台，例如 [**Duet Mail**](https://duetmail.com/zh-Hant)，不僅提供**智慧摘要**，還保持**上下文感知**。這意味著 AI 會記住先前互動中提到的項目和關係的詳細信息，使摘要更加相關和富有洞察力。這超越了簡單的文字縮短，走向了真正的合成。 AI 保留過去電子郵件的上下文，甚至從其他平台提取相關資訊（如會議記錄或專案更新），可提供顯著更多的價值，從而實現更快、更明智的決策。
+快速掌握要點至關重要。 AI 工具可以充當簡報助理。有些平台，例如 [**Duet Mail**](https://duetmail.com/zh-Hant)，不僅提供**智慧摘要**，還保持**上下文感知**。這意味著 AI 會記住先前互動中提到的項目和關係的詳細資訊，使摘要更加相關和富有洞察力。這超越了簡單的文字縮短，走向了真正的合成。 AI 保留過去電子郵件的上下文，甚至從其他平台提取相關資訊（如會議記錄或專案更新），可提供顯著更多的價值，從而實現更快、更明智的決策。
 
 ### 透過智慧分類避免收件匣混亂
 
@@ -74,9 +74,9 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 
 - **優先標誌/標籤：** 反白顯示重要或需要立即採取行動的電子郵件。
 
-- **摘要：** Pro提供批次在一起的低優先級電子郵件的摘要。
+- **摘要：** 提供批次在一起的低優先級電子郵件的摘要。
 
-**好處：**根本性的轉變是從不斷地「管理」收件匣噪音轉向主動「採取行動」真正重要的事情。用戶可以將注意力集中在 AI 識別為需要採取行動或做出決定的電子郵件上，而不是對最新通知做出反應。
+**好處：**根本性的轉變是從不斷地「管理」收件匣噪音轉向主動「採取行動」真正重要的事情。使用者可以將注意力集中在 AI 識別為需要採取行動或做出決定的電子郵件上，而不是對最新通知做出反應。
 
 想像一下收件匣顯示_現在_需要注意的內容。這就是 AI 分類的力量。 [**Duet Mail**](https://duetmail.com/zh-Hant) 等工具提供 **AI 分類和重點儀表板**，而不是按時間順序排列的混亂提要。該系統可以智慧地分析電子郵件的緊急程度、所需的操作或決策，並清晰地呈現它們，以便使用者可以立即消除噪音並有效地集中精力。這代表了從被動的電子郵件檢查到主動、優先的參與的範式轉變，顯著減少了認知負荷並提高了有意義的生產力。
 
@@ -90,7 +90,7 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 
 - **所需功能：** 該工具是否擅長起草、總結、分類、團隊協作或組合？
 
-- **整合方法：** 它是本機功能、瀏覽器擴充功能、工作區附加元件還是單獨的電子郵件用戶端？它與 Gmail 和其他工具（日曆、CRM）的整合程度如何？
+- **整合方法：** 它是本機功能、瀏覽器擴充功能、工作區附加元件還是單獨的電子郵件使用者端？它與 Gmail 和其他工具（日曆、CRM）的整合程度如何？
 
 - **成本：** 是免費、免費增值、一次性購買還是訂閱（每位使用者或統一費率）？
 
@@ -105,19 +105,19 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 | [**Gmail 中的 Gemini**](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid) |本機（內建於 Gmail）|One AI Premium | Google Workspace 使用者 |依賴[Google 強大的安全基礎架構](https://workspace.google.com/security/) |
 | **(**[**瀏覽器擴充**](https://www.popai.pro/resources/20-best-chatgpt-chrome-extensions-for-2025/)**)** (例如，([ChatGPT Writer](https://www.wps.ai/blog/7-best-chatgpt-chrome-extensions/))) |瀏覽器擴充功能（例如 Chrome）|起草、總結、產生回應（因擴充功能而異）|通常是免費增值或低成本訂閱 |上而無需更改客戶端的使用者 |多變的;檢查各個擴展策略（例如，（[Gmail™ 隱私權聲明的 GPT](https://workspace.google.com/marketplace/app/gpt_for_gmail/802100925247))）|
 | [**AI 收件匣整理器**](https://www.usemotion.com/blog/best-ai-email-assistant)（例如，([SaneBox](https://www.sanebox.com/))) |透過 API 連線的附加元件/服務 |分類、過濾（智慧型資料夾）、暫停、摘要（摘要）| 電腦程式設定自動化（通常根據功能性/收件者的順序） | API 連線；處理電子郵件資料進行排序（檢查政策；可以使用資料進行訓練）|
-| [**專用 AI 助手**](https://www.lindy.ai/blog/ai-email-assistant)（例如，[Duet Mail](https://duetmail.com/zh-Hant)）|單獨的客戶端或深度集成（擴展/附加）|起草（通常帶有風格學習）、總結、分類、高級工作流程 |驅動的工作流程的專業人士/團隊 |各不相同；查看具體政策（Duet Mail強調隱私）|
+| [**專用 AI 助手**](https://www.lindy.ai/blog/ai-email-assistant)（例如，[Duet Mail](https://duetmail.com/zh-Hant)）|單獨的客戶端或深度整合（擴展/附加）|起草（通常帶有風格學習）、總結、分類、高級工作流程 |驅動的工作流程的專業人士/團隊 |各不相同；查看具體政策（Duet Mail強調隱私）|
 
 此表說明，選擇不僅僅是選擇工具，而是選擇正確的工具類型。自由工作者可能會發現簡單的起草擴展就足夠了，而大批量的專業人士或團隊可能會從提供全面分類和工作流程自動化的專用助理中受益更多。
 
 ### 房間裡的大象：隱私與安全
 
-可以理解的是，授予 AI 工具存取潛在敏感電子郵件通訊的權限會引起擔憂。絕大多數用戶對 AI 和隱私表示擔憂，特別是在電子郵件掃描方面。
+可以理解的是，授予 AI 工具存取潛在敏感電子郵件通訊的權限會引起擔憂。絕大多數使用者對 AI 和隱私表示擔憂，特別是在電子郵件掃描方面。
 
 主要風險包括：
 
 - **資料外洩：** 如果 AI 模型在沒有適當保護措施的情況下直接從使用者電子郵件內容中學習，則機密業務資訊或個人詳細資料可能會因模型漏洞或出現在其他使用者的輸出中而無意中洩露。 ([三星透過 ChatGPT 的原始碼](https://www.strac.io/blog/ai-data-security)) 的意外洩漏是一個警示。
 
-- **未經授權的存取：** AI 工具本身或其連接點（如 [身份驗證令牌](https://www.pillar.security/blog/the-security-risks-of-model-context-protocol-mcp)）的妥協可能會授予攻擊者存取用戶的整個電子郵件歷史記錄的權限，甚至允許他們冒充用戶發送電子郵件。
+- **未經授權的存取：** AI 工具本身或其連接點（如 [身份驗證令牌](https://www.pillar.security/blog/the-security-risks-of-model-context-protocol-mcp)）的妥協可能會授予攻擊者存取使用者的整個電子郵件歷史記錄的權限，甚至允許他們冒充使用者發送電子郵件。
 
 - **合規性問題：** 工具必須符合資料隱私法規，例如([GDPR](https://autogmail.com/ai-email-automation-and-data-privacy-laws)) 和 CCPA，這些法規要求使用者同意、透明度和資料安全措施。
 
@@ -125,7 +125,7 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 
 為了減輕這些風險，使用者應採用最佳實務：
 
-- **檢視 Providers：** 選擇具有透明隱私權政策的信譽良好的供應商，明確說明如何收集、使用、儲存和保護資料。
+- **檢視 供應商：** 選擇具有透明隱私權政策的信譽良好的供應商，明確說明如何收集、使用、儲存和保護資料。
 
 - **檢視權限：** 確切了解 AI 工具需要什麼等級的存取權限。它需要閱讀所有電子郵件，還是只閱讀正在處理的電子郵件？盡可能限制權限。
 
@@ -137,7 +137,7 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 
 **圖像佔位符Google 圖像查詢：** 電子郵件安全最佳實踐資訊圖表**替代文字：** 說明電子郵件安全最佳實踐（例如強密碼、MFA 和檢查權限）的資訊圖表。 **說明：** 使用 AI 工具時，遵循電子郵件安全最佳實務至關重要。
 
-評估工具時，請注意其安全狀況。例如，像 [**Duet Mail**](https://duetmail.com/zh-Hant) 這樣的解決方案強調了他們對平台隱私和安全的承諾，這是建立信任的關鍵因素。隨著 AI 整合的加深，強調強大的安全性和清晰的資料處理的供應商可能會贏得更大的用戶信心。
+評估工具時，請注意其安全狀況。例如，像 [**Duet Mail**](https://duetmail.com/zh-Hant) 這樣的解決方案強調了他們對平台隱私和安全的承諾，這是建立信任的關鍵因素。隨著 AI 整合的加深，強調強大的安全性和清晰的資料處理的供應商可能會贏得更大的使用者信心。
 
 ### 準確度和避免「AI 幻覺」陷阱
 
@@ -161,7 +161,7 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 
 以下是一些實際的出發點：
 
-1. **探索本機功能：** 對於使用 Google Workspace 的用戶，啟動和試驗內建 [Gemini 功能](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid)（例如「幫助我寫作」）是一種感受 AI 幫助的低摩擦方式。
+1. **探索本機功能：** 對於使用 Google Workspace 的使用者，啟動和試驗內建 [Gemini 功能](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid)（例如「幫助我寫作」）是一種感受 AI 幫助的低摩擦方式。
 
 2. **嘗試免費試用或方案：** 許多信譽良好的擴充功能和助手提供免費版本或試用期。確定電子郵件最大的痛點——起草速度、收件匣組織、總結長線程——並找到專門設計來解決這些問題的工具。
 

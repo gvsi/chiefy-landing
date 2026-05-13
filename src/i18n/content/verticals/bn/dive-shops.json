@@ -39,7 +39,7 @@
       "avatarColor": "lavender",
       "subject": "ছাত্র রেফারেল: Rachel Torres",
       "preview": "একজন ছাত্র তাদের ই-লার্নিং সম্পন্ন করেছে এবং সীমাবদ্ধ এবং উন্মুক্ত জল প্রশিক্ষণের জন্য আপনার ডাইভ সেন্টার বেছে নিয়েছে...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -85,7 +85,7 @@
       "avatarLetter": "D",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকায় নতুন পর্যালোচনা",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "Re: Open Water সার্টিফিকেশন — প্রাপ্যতা?",
+    "originalFrom": "Rachel T. লিখেছেন:",
+    "originalText": "হ্যালো! আমি আগস্টের প্রথম সপ্তাহে আসছি এবং আমার Open Water সার্টিফিকেটটি নিতে চাই। এতে কত দিন সময় লাগে এবং এর মধ্যে কী কী অন্তর্ভুক্ত আছে?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "এই Rachel!",
+      "আমরা আপনাকে সার্টিফাইড করতে পারলে আনন্দিত হব! PADI Open Water কোর্সটি ৩ দিনের — একটি পুল সেশন এবং আমাদের রিফে দুটি ওশান ডাইভ। সমস্ত সরঞ্জাম অন্তর্ভুক্ত।",
+      "এই মুহূর্তে আগস্ট মাসটা একদম ফাঁকা। বেশিরভাগ ছাত্রছাত্রী সোমবার থেকে শুরু করে বুধবারের মধ্যে শেষ করে ফেলে।",
+      "আপনি কি চান আমি আপনার জন্য একটি জায়গা সংরক্ষণ করে রাখি?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "PADI Open Water কোর্সটি ৩ দিন ধরে চলে।",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "আপনার কোর্স ও মূল্য সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "সার্টিফিকেটের প্রয়োজনীয়তা স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

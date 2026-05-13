@@ -3,7 +3,7 @@ title: "Gmail साठी AI आणि GPT कसे वापरायचे �
 description: "ईमेलचा भार कमी करण्यासाठी Gmail साठी GPT कसे वापरायचे ते शिका. उत्पादकता वाढवण्यासाठी आणि वेळ वाचवण्यासाठी ड्राफ्टिंग, सारांश आणि triage साठी AI साधने एक्सप्लोर करा."
 publishedAt: 2025-06-10
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Email"]
+tags: ["AI", "Gmail", "उत्पादकता", "ईमेल"]
 draft: false
 ---
 

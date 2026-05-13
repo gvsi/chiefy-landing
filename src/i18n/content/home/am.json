@@ -9,10 +9,10 @@
     "headlineHighlight": "የሰራተኞች አለቃ",
     "headlineSuffix": " ለ",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "ኢሜይል መደርደር",
+      "ምላሾችን መረቀቅ",
+      "ጊዜ መያዝ",
+      "መልሶችን መፈለግ"
     ],
     "subline": "በየሳምንቱ በኢሜል 4+ ሰዓታት ይቆጥቡ",
     "primaryCta": "በGmail ይጀምሩ",
@@ -23,8 +23,8 @@
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "ፈጣን ምደባ",
+      "በAI የሚደገፉ ምላሾች"
     ],
     "windowTitle": "የገቢ መልእክት ሳጥን",
     "providers": [
@@ -35,7 +35,7 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "ትናንት"
     ],
     "autodraftLabel": "አውቶማቲክ",
     "emails": [
@@ -229,22 +229,22 @@
       "originalText": "ሄይ! የፍኖተ ካርታ ለውጦችን መከታተል እፈልጋለሁ። በዚህ ሳምንት ለ30 ደቂቃ ጥሪ ነፃ ነዎት? የሚጠቅምህን አሳውቀኝ።",
       "badge": "በራስ ሰር ተዘጋጅቷል።",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "ሰላም Alex!",
+        "ስለ roadmap መለዋወጦች መነጋገር ደስ ይለኛል። ሐሙስ ከ2-4pm ወይም ዓርብ ጠዋት ነፃ ነኝ — ሁለቱም ለእኔ ይስማማሉ።",
+        "ለእርስዎ የሚስማማውን ይንገሩኝ፣ ግብዣ እልካለሁ።",
+        "አመሰግናለሁ!  "
       ],
       "highlightText": "ሐሙስ 2-4pm ወይም አርብ ጥዋት ነፃ ነኝ",
       "actions": [
         "ላክ",
-        "Edit"
+        "አርትዕ"
       ],
       "tooltipTitle": "ለግል የተበጀ ረቂቅ",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "የቀን መቁጠሪያዎን ያውቃል",
+        "በድምፅዎ ረቂቆችን ይጽፋል",
+        "በማስታወሻ በኩል አውድን ያውቃል",
+        "ከጊዜ ጋር ይማራል"
       ]
     }
   },
@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "ረቂቅ",
+        "action": "draft",
         "label": "ምላሽ አዘጋጅ"
       },
       {
-        "action": "የቀን መቁጠሪያ",
+        "action": "calendar",
         "label": "ለመገናኘት ጊዜ ያግኙ"
       }
     ],
@@ -281,14 +281,14 @@
       "draftIntro": "ለሂሳብ አያያዝ ረቂቅ ምላሽ እነሆ፡-",
       "draftHeader": "ረቂቅ፡ accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "ሰላም ቡድን፣",
+        "እባክዎ የኦክቶበር የStripe ደረሰኝ ($29.00) ተያይዞ ያግኙ።",
+        "ሌላ ማንኛውም ነገር ካስፈለገዎት ያሳውቁኝ።",
+        "ከሰላምታ ጋር፣"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "ኢሜይል ላክ",
+        "አርትዕ"
       ],
       "calendarIntro": "ነገ ክፍት የሆኑ 3 ቦታዎች አሉዎት፡-",
       "calendarSlots": [
@@ -364,18 +364,18 @@
     "billingAnnual": "አመታዊ",
     "billingMonthly": "ወርሃዊ",
     "savingsTag": "33% ይቆጥቡ",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/ወር",
+    "perUserSuffix": "/ተጠቃሚ",
     "annualBillingSuffix": "(በዓመት የሚከፈል)",
     "trustItems": [
-      "Secure checkout via Stripe",
+      "በStripe በኩል ደህንነቱ የተጠበቀ ክፍያ",
       "በማንኛውም ጊዜ ይሰርዙ"
     ],
     "plans": [
       {
         "name": "መሰረታዊ",
         "description": "ብልህ የሆነ የገቢ መልእክት ሳጥን ምን እንደሚሰማው ለማወቅ ለሚፈልግ ለማንኛውም ሰው። ቁርጠኝነት አያስፈልግም።",
-        "priceLabel": "Free",
+        "priceLabel": "ነፃ",
         "features": [
           {
             "title": "ፈጣን ማጠቃለያዎች",
@@ -517,8 +517,8 @@
     "note": "የ14-ቀን ነጻ ሙከራ · በማንኛውም ጊዜ ይሰርዙ",
     "trustItems": [
       "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "በማከማቻ ጊዜ የተመሰጠረ",
+      "ደህንነቱ የተጠበቀ OAuth 2.0"
     ]
   },
   "footer": {
@@ -533,15 +533,15 @@
         "links": [
           {
             "label": "ድርጅት",
-            "href": "/#organization"
+          "href": "/am#organization"
           },
           {
             "label": "ረቂቅ",
-            "href": "/#drafting"
+          "href": "/am#drafting"
           },
           {
             "label": "ብልህነት",
-            "href": "/#intelligence"
+          "href": "/am#intelligence"
           },
           {
             "label": "Chrome ቅጥያ",
@@ -555,15 +555,15 @@
         "links": [
           {
             "label": "የዋጋ አሰጣጥ",
-            "href": "/#pricing"
+          "href": "/am#pricing"
           },
           {
             "label": "ምስክርነቶች",
-            "href": "/#testimonials"
+          "href": "/am#testimonials"
           },
           {
             "label": "የሚጠየቁ ጥያቄዎች",
-            "href": "/#faq"
+          "href": "/am#faq"
           }
         ]
       },
@@ -572,19 +572,19 @@
         "links": [
           {
             "label": "ግላዊነት",
-            "href": "/privacy"
+          "href": "/am/privacy"
           },
           {
             "label": "ውሎች",
-            "href": "/terms"
+          "href": "/am/terms"
           },
           {
             "label": "ኩኪዎች",
-            "href": "/cookies"
+          "href": "/am/cookies"
           },
           {
             "label": "ማስተባበያ",
-            "href": "/disclaimer"
+          "href": "/am/disclaimer"
           }
         ]
       },
@@ -593,7 +593,7 @@
         "links": [
           {
             "label": "ብሎግ",
-            "href": "/blog"
+          "href": "/am/blog"
           },
           {
             "label": "LinkedIn",
@@ -637,23 +637,23 @@
     "softwareDescription": "የAI ኢሜይል ረዳት ለGmail እና Outlook ኢሜይሎችን በራስ-ሰር የሚያጠቃልል፣ረቂቆች በድምጽዎ ምላሽ ይሰጣሉ እና በየሳምንቱ ሰዓታት ለመቆጠብ የገቢ መልእክት ሳጥንዎን ያደራጃል።",
     "applicationCategory": "የግንኙነት መተግበሪያ",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "ብልጥ የኢሜይል አደረጃጀት እና ምደባ",
+      "በAI የሚደገፍ በድምፅዎ የኢሜይል ረቂቅ",
+      "ከቀን መቁጠሪያ ውህደት ጋር ብልህ የኢሜይል ረዳት",
+      "ራስ-ሰር የኢሜይል ማጠቃለያዎች እና የድርጊት ንጥሎች",
+      "ለክትትል ብልጥ ማስታወሻዎች"
     ],
     "offers": [
       {
         "name": "መሰረታዊ እቅድ",
         "price": "0",
-        "priceCurrency": "የአሜሪካ ዶላር",
+        "priceCurrency": "USD",
         "description": "ነፃ እቅድ በቅጽበት ማጠቃለያዎች፣ AI ረቂቆች እና ብልጥ የገቢ መልእክት ሳጥን"
       },
       {
         "name": "Pro ዕቅድ",
         "price": "19.99",
-        "priceCurrency": "የአሜሪካ ዶላር",
+        "priceCurrency": "USD",
         "unitText": "ወር",
         "description": "ሙሉ መዳረሻ ከብልጥ የገቢ መልእክት ሳጥን ምድብ ፣ AI ረቂቆች ፣ ረዳት እና የቀን መቁጠሪያ ውህደት ጋር"
       }

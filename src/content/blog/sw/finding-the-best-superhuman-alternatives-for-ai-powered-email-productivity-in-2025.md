@@ -46,7 +46,7 @@ Hapa ndipo wasaidizi wa barua pepe wa AI huingia, wakitoa suluhu zinazolengwa kw
 
 ### **Majaribio Mahiri na Uwekaji Kipaumbele: Kupata Mawimbi kwenye Kelele**
 
-Badala ya kupanga mwenyewe kupitia mfululizo wa mafuriko, wasaidizi wa AI huchanganua barua pepe zinazoingia kulingana na sifa ya mtumaji, maneno muhimu, muundo wa maudhui, na tabia ya mtumiaji iliyojifunza ili kuelezea kiotomati kile kinachohitaji kuzingatiwa. Fikiria vipengele kama vile [Lebo za Kiotomatiki] (https://superhuman.com/ai), [Shortwave](https://www.shortwave.com/)(https://www.shortwave.com/) zenye akili, [Spark Mail](https://sparkmailapp.com/) za https://sparkmailapp.com/, au uchujaji wa hali ya juu katika [SaneBox](XQZ3ZX). Upangaji huu wa busara ni muhimu. Badala ya kupepeta kwa mikono, AI hufanya kazi kama mlinda lango, ikipunguza kwa kiasi kikubwa mzigo wa utambuzi wa kuamua nini cha kushughulikia baadaye. Hapa ndipo zana kama vile [**Duet Mail**](https://duetmail.com/sw) hufaulu, kwa kutumia AI Triage kutambua kiotomatiki vitu vya dharura, vitendo vinavyohitajika au maamuzi yanayohitajika, ukiyawasilisha kwa uwazi ili ushughulikie mambo muhimu kwanza.
+Badala ya kupanga mwenyewe kupitia mfululizo wa mafuriko, wasaidizi wa AI huchanganua barua pepe zinazoingia kulingana na sifa ya mtumaji, maneno muhimu, muundo wa maudhui, na tabia ya mtumiaji iliyojifunza ili kuelezea kiotomati kile kinachohitaji kuzingatiwa. Fikiria vipengele kama vile [Lebo za Kiotomatiki](https://superhuman.com/ai), upangaji mahiri wa [Shortwave](https://www.shortwave.com/), [Spark Mail](https://sparkmailapp.com/), au uchujaji wa hali ya juu katika [SaneBox](https://www.sanebox.com/). Upangaji huu wa busara ni muhimu. Badala ya kupepeta kwa mikono, AI hufanya kazi kama mlinda lango, ikipunguza kwa kiasi kikubwa mzigo wa utambuzi wa kuamua nini cha kushughulikia baadaye. Hapa ndipo zana kama vile [**Duet Mail**](https://duetmail.com/sw) hufaulu, kwa kutumia AI Triage kutambua kiotomatiki vitu vya dharura, vitendo vinavyohitajika au maamuzi yanayohitajika, ukiyawasilisha kwa uwazi ili ushughulikie mambo muhimu kwanza.
 
 ![Dashibodi ya Duet Mail inayoonyesha AI ikizipa kipaumbele barua pepe kulingana na uharaka na vitendo vinavyohitajika](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
@@ -55,7 +55,7 @@ Ujaribio unaoendeshwa na Duet Mail AI huweka barua pepe muhimu, kupunguza wakati
 ### **Uandishi Halisi wa AI: Sauti Yako, Iliyokuzwa**
 
 Kujibu haraka mara kwa mara kunamaanisha kujinyima utu, na kusababisha majibu ya jumla ambayo yanaweza kuhisi sio ya utu.18 Kizazi kijacho cha watayarishaji wa AI hushughulikia hili kwa kujifunza mtindo wako wa kipekee wa mawasiliano - sauti yako, msamiati, misemo, na hata kiwango cha kawaida unachopendelea - moja kwa moja kutoka kwa barua pepe zako zilizotumwa hapo awali. Uwezo wa Superhuman ["andika kwa sauti yangu"](https://superhuman.com/ai) ni mfano bora, na vipengele sawa vinavyolenga uhalisi hupatikana katika zana kama vile [Canary Mail](https://canarymail.io/) na \
-[Shortwave](https://www.shortwave.com). Lengo sio kasi tu, lakini kasi ya kweli. Ingawa vijisehemu husaidia, kuonekana kama _you_ katika majibu yanayotokana na AI ni muhimu kwa kudumisha uhusiano. Kuzingatia huku kwa ujifunzaji wa sauti halisi ni nguvu kuu ya wasaidizi kama vile [**Duet Mail**](https://duetmail.com/sw), kuhakikisha ufanisi haulipi gharama ya mtu binafsi.
+[Shortwave](https://www.shortwave.com). Lengo sio kasi tu, lakini kasi ya kweli. Ingawa vijisehemu husaidia, kuonekana kama _wewe_ katika majibu yanayotokana na AI ni muhimu kwa kudumisha uhusiano. Kuzingatia huku kwa ujifunzaji wa sauti halisi ni nguvu kuu ya wasaidizi kama vile [**Duet Mail**](https://duetmail.com/sw), kuhakikisha ufanisi haulipi gharama ya mtu binafsi.
 
 ### **Muhtasari na Muktadha wa Papo Hapo: Fikia Bila Kukamata Zs**
 
@@ -93,9 +93,9 @@ Soko linajaa wateja wabunifu wa barua pepe wanaotumia AI. Hapa kuna mwonekano wa
 
 - **Sifa Muhimu za AI:** Huangazia [Msaidizi wa AI](https://www.shortwave.com/) kwa muhtasari wa mazungumzo, kuandaa majibu (kujifunza mtindo wako), kutafuta kwa kutumia lugha asilia, usaidizi wa kuratibu na mapendekezo mahiri ya kukamilisha kiotomatiki kulingana na historia ya barua pepe. Mipango inayolipishwa hufungua vichungi vya AI na uchanganuzi wa viambatisho.
 
-- **Sifa Zingine Zinazovutia:** Mtazamo wake mkuu wa shirika unahusisha(https\://www\.shortwave.com/) (kuweka barua pepe sawia kama vile majarida au masasisho), Gawanya Kikasha ili kutazamwa umakini, na uwezo wa kubadilisha barua pepe kuwa Todo zinazofuatiliwa. Mipango inayolipishwa huongeza vipengele vya timu kama vile maoni, kazi na lebo zinazoshirikiwa.
+- **Sifa Zingine Zinazovutia:** Mtazamo wake mkuu wa shirika unahusisha kuweka barua pepe zinazofanana pamoja, kama vile majarida au masasisho, Gawanya Kikasha ili kutazamwa umakini, na uwezo wa kubadilisha barua pepe kuwa Todo zinazofuatiliwa. Mipango inayolipishwa huongeza vipengele vya timu kama vile maoni, kazi na lebo zinazoshirikiwa.
 
-- **Bei na Hadhira:** Inatoa [tija isiyolipishwa] (https://www.shortwave.com/pricing/) inayofanya kazi. Mpango wa Pro huanza kwa $14/kiti/mwezi (hutozwa kila mwaka). Inafaa kwa watumiaji wa nguvu wa Gmail na timu zinazotafuta shirika la hali ya juu linaloendeshwa na AI.
+- **Bei na Hadhira:** Inatoa [tija isiyolipishwa](https://www.shortwave.com/pricing/) inayofanya kazi. Mpango wa Pro huanza kwa $14/kiti/mwezi (hutozwa kila mwaka). Inafaa kwa watumiaji wa nguvu wa Gmail na timu zinazotafuta shirika la hali ya juu linaloendeshwa na AI.
 
 - **Faida na Hasara:** AI bora kabisa ya kupanga na muhtasari wa kikasha pokezi, pamoja na mpango muhimu usiolipishwa. Vikwazo kuu ni upatanifu wake wa Gmail-pekee na ukweli kwamba toleo lake la eneo-kazi ni Programu ya Wavuti inayoendelea (PWA) badala ya programu asilia. Watumiaji wengine pia kumbuka AI mara kwa mara inahitaji uthibitishaji.
 
@@ -131,7 +131,7 @@ Jedwali hili linaonyesha kuwa mbadala "bora" inategemea vipaumbele vya mtu binaf
 
 Kuchagua mteja wa barua pepe ni chaguo la kibinafsi, linaloathiriwa sana na mtiririko wako wa kazi, tabia na vipaumbele. Ukiwa na chaguzi nyingi zinazoweza kuendeshwa na AI, unapataje inayofaa zaidi? Fikia uamuzi kwa utaratibu:
 
-1. **Fafanua Bajeti Yako:** Je, upo tayari kutumia kiasi gani kihalisi kila mwezi au mwaka kwenye zana ya barua pepe? Superhuman inakaa kwenye mwisho wa [premium] (https://superhuman.com/pricing). Njia mbadala kama vile Spark Mail, Shortwave, na [Canary](https://canarymail.io/pricing) hutoa viwango vya bure au bei ya chini sana ya kuanzia.24 Amua ikiwa faida za tija za zana inayolipishwa zitahalalisha gharama ya _you_.
+1. **Fafanua Bajeti Yako:** Je, upo tayari kutumia kiasi gani kihalisi kila mwezi au mwaka kwenye zana ya barua pepe? Superhuman inakaa kwenye mwisho wa [premium](https://superhuman.com/pricing). Njia mbadala kama vile Spark Mail, Shortwave, na [Canary](https://canarymail.io/pricing) hutoa viwango vya bure au bei ya chini sana ya kuanzia. Amua ikiwa faida za tija za zana inayolipishwa zitahalalisha gharama kwako.
 
 2. **Tambua Pointi zako za Msingi za Maumivu & AI ya Lazima-Uwe nayo:** Ni nini kinachokukatisha tamaa zaidi kuhusu barua pepe? Je! ni kiasi kikubwa (tafuta Ujaribio / Uwekaji Kipaumbele wa AI)? Muda uliotumika kuandika majibu (utangulize Uandishi Halisi wa AI)? Ugumu wa kupata habari (zingatia Utafutaji wa AI)? Je, unapotea katika nyuzi ndefu (Muhtasari wa thamani wa AI)? Orodhesha kero zako 3 kuu na uzipange kwa uwezo maalum wa AI unaotolewa na kila mbadala. Mchakato wa uamuzi unabadilika zaidi ya vipengele vya msingi hadi kutathmini _akili_ na _muunganisho wa mtiririko wa kazi_ unaotolewa.
 

@@ -3,7 +3,7 @@ title: "Jak korzystać z AI i GPT w Gmailu, by odzyskać swój dzień"
 description: "Dowiedz się, jak używać GPT w Gmailu, aby pokonać zalew wiadomości. Poznaj narzędzia AI do tworzenia szkiców, streszczania i triage, które zwiększają produktywność i oszczędzają czas."
 publishedAt: 2025-06-10
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Email"]
+tags: ["AI", "Gmail", "Produktywność", "E-mail"]
 draft: false
 ---
 

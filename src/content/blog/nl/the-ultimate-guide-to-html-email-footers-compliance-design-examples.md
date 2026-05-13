@@ -25,7 +25,7 @@ Waarom kostbare tijd besteden aan deze kleine ruimte? De voordelen zijn aanzienl
 
 - **Engagement en navigatie:**Probied gemakkelijke toegang tot sociale-mediaprofielen, websitelinks, voorkeurscentra of zelfs secundaire call-to-actions (zoals het downloaden van een app).
 
-- **Bezorgbaarheid:**ProPerly opgemaakte voetteksten met vereiste elementen helpen e-mailclients (zoalsGmail,Outlook) te signaleren dat uw e-mails geen spam zijn.
+- **Bezorgbaarheid:**ProPerly opgemaakte voetteksten met vereiste elementen helpen e-mailclients (zoals Gmail,Outlook) te signaleren dat uw e-mails geen spam zijn.
 
 ## De must-haves: essentiële elementen voor elke e-mailvoettekst
 
@@ -60,9 +60,7 @@ Omdat [een aanzienlijk deel van de e-mails wordt geopend op mobiele apparaten](h
 
 - Maak links en knoppen groot genoeg om gemakkelijk te kunnen tikken (minimaal 44x44 pixels).
 
-- Test uw voettekst op verschillende apparaten en e-mailclients met behulp van tools zoals [Litmus](https://www.litmus.com/) of [Email on Acid](https://www.emailonacid.com/).
-
-![Vergelijking naast elkaar die laat zien hoe een goed ontworpen e-mailvoettekst de lay-out aanpast van desktopweergave naar mobiele weergave](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Test uw voettekst op verschillende apparaten en e-mailclients met behulp van tools zoals [Litmus](https://www.litmus.com/) of [Email on Acid](https://www.emailonacid.com/).![Vergelijking naast elkaar die laat zien hoe een goed ontworpen e-mailvoettekst de lay-out aanpast van desktopweergave naar mobiele weergave](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Zorg ervoor dat uw voettekst er geweldig uitziet en perfect functioneert op elk schermformaat.
 
@@ -122,4 +120,4 @@ Uw HTML-e-mailvoettekst is misschien het laatste wat ontvangers zien, maar het z
 
 Het schept vertrouwen, versterkt uw merk, zorgt voor compliance en biedt nuttige navigatie voor uw publiek. Neem even de tijd om uw huidige e-mailvoettekst te bekijken. Is het conform? Is het duidelijk? Is het mobielvriendelijk? Het maken van deze kleine verbeteringen kan een grote impact hebben op hoe uw e-mails (en uw merk) worden waargenomen.
 
-Bent u op zoek naar manieren om uw algehele e-mailbeheer efficiënter en professioneler te maken? Overweeg om tools te verkennen die zijn ontworpen voor drukke professionals. Als u bijvoorbeeld leert hoe [Duet Mailde e-mailproductiviteit vereenvoudigt](https://duetmail.com/nl) met AI-functies, kunt u meer tijd vrijmaken om u te concentreren op het perfectioneren van details zoals uw voettekst en ervoor te zorgen dat elke communicatie u goed vertegenwoordigt.
+Bent u op zoek naar manieren om uw algehele e-mailbeheer efficiënter en professioneler te maken? Overweeg om tools te verkennen die zijn ontworpen voor drukke professionals. Als u bijvoorbeeld leert hoe [Duet Mail de e-mailproductiviteit vereenvoudigt](https://duetmail.com/nl) met AI-functies, kunt u meer tijd vrijmaken om u te concentreren op het perfectioneren van details zoals uw voettekst en ervoor te zorgen dat elke communicatie u goed vertegenwoordigt.

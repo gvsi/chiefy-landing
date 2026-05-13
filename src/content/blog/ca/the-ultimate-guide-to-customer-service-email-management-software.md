@@ -1,5 +1,5 @@
 ---
-title: "La guia definitiva del programari de gestió de correu electrònic d'atenció al client\n"
+title: "La guia definitiva del programari de gestió de correu electrònic d'atenció al client"
 description: "Deixeu d'ofegar-vos als correus electrònics de suport! Descobriu com el programari de gestió de correu electrònic d'atenció al client, incloses les eines AI, racionalitza els fluxos de treball i augmenta la satisfacció."
 publishedAt: 2025-05-17
 author: "Duet Mail Team"

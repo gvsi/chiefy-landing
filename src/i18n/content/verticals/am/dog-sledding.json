@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ቲ ጻፈ፡-",
     "originalText": "ሰላም! የ 4 ቤተሰቦቼ በጥር ወር ፌርባንክን እየጎበኙ ነው። የውሻ ስሌዲንግ እና አውሮራ እይታ ያለው ጥምር ጥቅል ያቀርባሉ? ዋጋው ስንት ነው?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "ሰላም Rachel!",
+      "የእኛ Aurora + Mush Combo $175/ሰው ነው — በምሽት 1.5 ሰዓት የስሌድ ጉዞ፣ ከዚያ በእሳት አጠገብ ትኩስ ኮኮዋ እና አውሮራ መመልከት። 12 እና ከዚያ በታች ያሉ ልጆች $125 ናቸው።",
+      "ሁሉም የቀዝቃዛ አየር መሳሪያዎች ይቀርባሉ (ቡትስ፣ ቢብስ፣ ጓንቶች፣ የፊት መሸፈኛዎች)። ከታች በሞቃት ተደራራቢ ልብስ ብቻ ይልበሱ።",
+      "የ4 ሰዎች ቤተሰብዎን ለጃንዋሪ እንዳስይዝ?"
     ],
     "highlightText": "አውሮራ + ሙሽ ኮምቦ በሰዎች 175 ዶላር ነው - የ1.5 ሰአታት ተንሸራታች ግልቢያ",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "የጉብኝት አይነቶችዎን እና ዋጋዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የመሳሪያ እና ተጨማሪ ዝርዝሮችን ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

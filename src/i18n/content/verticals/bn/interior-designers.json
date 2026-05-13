@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "Re: রান্নাঘর সংস্কার — প্রাথমিক পরামর্শ?",
+    "originalFrom": "Rachel T. লিখেছেন:",
+    "originalText": "হ্যালো! আমরা সম্প্রতি Westlake-এ একটি বাড়ি কিনেছি এবং রান্নাঘরটি পুরোপুরি নতুন করে সাজাতে চাই। আপনারা কি নতুন কোনো প্রকল্প হাতে নিচ্ছেন? আপনাদের কাজের প্রক্রিয়াটি কেমন?",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "হাই Rachel!",
+      "নতুন বাড়ির জন্য অভিনন্দন! আমি আপনার রান্নাঘরের কাজে সাহায্য করতে আগ্রহী। আমি বর্তমানে আগামী মাসের জন্য পরামর্শের বুকিং নিচ্ছি।",
+      "আমার প্রক্রিয়াটি শুরু হয় আপনার বাড়িতে এসে আপনার পরিকল্পনা, বাজেট এবং সময়সীমা নিয়ে আলোচনা করার মাধ্যমে। সেখান থেকে আমি উপকরণ নির্বাচনসহ একটি ডিজাইন ধারণা এবং একটি বিস্তারিত প্রস্তাবনা তৈরি করি।",
+      "বাড়িতে দেখা করার জন্য একটা সময় ঠিক করতে চান?"
     ],
-    "highlightText": "I'm currently booking consultations for next month.",
+    "highlightText": "আমি বর্তমানে আগামী মাসের জন্য পরামর্শের বুকিং নিচ্ছি।",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "আপনার প্রক্রিয়া ও প্রাপ্যতা সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "পরবর্তী পদক্ষেপগুলি স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

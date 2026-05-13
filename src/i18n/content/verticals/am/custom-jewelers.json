@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ቲ ጻፈ፡-",
     "originalText": "ሰላም! እኔና ባልደረባዬ በብጁ የተሳትፎ ቀለበት እንፈልጋለን። ልንጠቀምበት የምንፈልገው የቤተሰብ ቅርስ አልማዝ አለን። በዚህ ወር ለምክር አገልግሎት ዝግጁ አለህ?",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "ሰላም Rachel!",
+      "በቤተሰብዎ ዳይመንድ ዙሪያ ልዩ ነገር ለመንደፍ መርዳት ደስ ይለኛል። በዚህ ወር ማክሰኞ እና ሐሙስ ከሰዓት በኋላ ክፍት ጊዜ አለኝ።",
+      "ድንጋዩን እና የሚያነሳሱ ፎቶዎችን ይዘው ይምጡ — Pinterest ቦርዶች፣ ቅጽበታዊ ገጽ እይታዎች፣ ማንኛውም ነገር ይረዳል። ምክክሮች ወደ አንድ ሰዓት ይቆያሉ እና ግዴታ የለም።",
+      "ከዚያ ሂደቱ ብዙውን ጊዜ፦ ስኬች፣ 3D ሞዴል፣ ማሻሻያዎች፣ ከዚያ 3-4 ሳምንታት ምርት ነው። ጊዜ እንዳስይዝልዎ?"
     ],
     "highlightText": "ረቂቅ፣ 3D ሞዴል፣ ክለሳዎች፣ ከዚያም ከ3-4 ሳምንታት በምርት ላይ",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "ሂደትዎን እና የጊዜ መስመርዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የምክክር ዝርዝሮችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

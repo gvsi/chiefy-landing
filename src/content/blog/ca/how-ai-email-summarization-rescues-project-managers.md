@@ -1,6 +1,6 @@
 ---
-title: "Com el resum de correu electrònic AI rescata els gestors de projectes\n"
-description: "Ofegar-se als correus electrònics? Descobriu com el resum de correu electrònic AI ajuda els gestors de projectes a estalviar temps, fer un seguiment de decisions i reduir el caos de la safata d'entrada. Augmenta la teva productivitat avui!\n"
+title: "Com el resum de correu electrònic AI rescata els gestors de projectes"
+description: "Ofegar-se als correus electrònics? Descobriu com el resum de correu electrònic AI ajuda els gestors de projectes a estalviar temps, fer un seguiment de decisions i reduir el caos de la safata d'entrada. Augmenta la teva productivitat avui!"
 publishedAt: 2025-09-21
 author: "Duet Mail Team"
 tags: ["AI","Resum de correu electrònic","Gestió de la safata d'entrada"]

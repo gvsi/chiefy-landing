@@ -3,7 +3,7 @@ title: "Atgūstiet savu laiku: kā mākslīgā intelekta atbilžu ģenerators va
 description: "Slīkstat e-pastos? Uzziniet, kā mākslīgā intelekta atbilžu ģenerators ietaupa stundas, palielina produktivitāti un palīdz aizņemtiem profesionāļiem uzrakstīt labākas un ātrākas atbildes."
 publishedAt: 2025-12-24
 author: "Duet Mail Team"
-tags: ["Mākslīgais intelekts", "Proproduktivitāte", "Ienākošo ziņojumu pārvaldība", "E-pasts"]
+tags: ["Mākslīgais intelekts", "Produktivitāte", "Ienākošo ziņojumu pārvaldība", "E-pasts"]
 draft: false
 ---
 

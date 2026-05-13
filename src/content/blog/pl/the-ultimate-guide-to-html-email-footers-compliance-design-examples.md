@@ -3,7 +3,7 @@ title: "Kompletny przewodnik po stopkach HTML w e-mailach: zgodność, projektow
 description: "Opanuj stopki HTML w e-mailach: kluczowe elementy, wskazówki projektowe, zgodność z przepisami (CAN-SPAM, GDPR, CASL) i przykłady budowania marki."
 publishedAt: 2026-01-05
 author: "Duet Mail Team"
-tags: ["AI", "Email"]
+tags: ["AI", "E-mail"]
 draft: false
 ---
 

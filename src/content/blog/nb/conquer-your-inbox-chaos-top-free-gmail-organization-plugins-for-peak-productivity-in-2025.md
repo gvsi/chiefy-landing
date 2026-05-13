@@ -33,9 +33,7 @@ Vi har siktet gjennom alternativene for å fremheve noen av de mest effektive, v
 
 **Gratis planfunksjoner:** Den gratis "Starter"-planen gir kjerneopplevelsen i Kanban. Du kan dra e-poster for å gjøre dem om til oppgavekort, organisere dem på en personlig tavle pluss ett ekstra tilpasset tavle, bruke en dagsplanleggingsvisning og angi forfallsdatoer eller påminnelser.
 
-**UI/oppsett:** Sortd integreres direkte i Gmail, og tilbyr en veksling mellom standardvisning og tavleoppsett. Oppsett innebærer å installere utvidelsen og koble til Gmail-kontoen din, noe brukere generelt synes er enkelt.
-
-![Sortd plugin-grensesnitt som viser Gmail-innboksen forvandlet til et visuelt Kanban-tavle med dra-og-slipp e-postoppgavekort](/nb/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**UI/oppsett:** Sortd integreres direkte i Gmail, og tilbyr en veksling mellom standardvisning og tavleoppsett. Oppsett innebærer å installere utvidelsen og koble til Gmail-kontoen din, noe brukere generelt synes er enkelt.![Sortd plugin-grensesnitt som viser Gmail-innboksen forvandlet til et visuelt Kanban-tavle med dra-og-slipp e-postoppgavekort](/nb/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Pros:** Fantastisk for å visualisere arbeidsflytstadier og administrere e-postsentrerte oppgaver uten å stadig bytte til et eget prosjektstyringsverktøy. Det er også nyttig å gi nytt navn til emnelinjer og legge til notater direkte i e-postoppgaver.
 
@@ -47,9 +45,7 @@ Vi har siktet gjennom alternativene for å fremheve noen av de mest effektive, v
 
 **Gratis planfunksjoner (Todoist selv):** Todoists gratisplan er ganske sjenerøs for individuell bruk, og tilbyr opptil 5 aktive prosjekter, samarbeid med opptil 5 personer per prosjekt, administrasjon av kjerneoppgaver (inkludert underoppgaver), liste- og Kanban-tavlevisninger, og muligheten til å bruke etiketter og filtre (opptil 3). Den gratis Gmail-integrasjonen (tilgjengelig som både tillegg og utvidelse) lar deg klikke på et ikon for å gjøre den åpne e-posten til en Todoist-oppgave, automatisk inkludert en lenke tilbake til den opprinnelige e-posten.
 
-**UI/oppsett:** Integrasjonen legger til et Todoist-ikon til Gmail-grensesnittet ditt (enten i den øverste verktøylinjen eller på høyre sidepanel). Ved å klikke på dette åpnes et lite panel der du raskt kan legge til e-posten som en oppgave. Oppsett krever installasjon av tillegget/utvidelsen og autorisering av tilgang til Todoist-kontoen din.
-
-![Todoist for Gmail integrasjonspanel som viser hvordan du konverterer en e-post til en oppgave med forfallsdato og prosjektvalg](/nb/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**UI/oppsett:** Integrasjonen legger til et Todoist-ikon til Gmail-grensesnittet ditt (enten i den øverste verktøylinjen eller på høyre sidepanel). Ved å klikke på dette åpnes et lite panel der du raskt kan legge til e-posten som en oppgave. Oppsett krever installasjon av tillegget/utvidelsen og autorisering av tilgang til Todoist-kontoen din.![Todoist for Gmail integrasjonspanel som viser hvordan du konverterer en e-post til en oppgave med forfallsdato og prosjektvalg](/nb/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Pros:** Proser en sømløs bro mellom kommunikasjonshuben (Gmail) og oppgavestyringssystemet (Todoist). Utnytter Todoists utmerkede funksjoner som naturlig datoinntasting og pålitelig synkronisering på tvers av plattformer. Det er en fin måte å oppnå "innboks null" ved å flytte handlingsrettede elementer ut av innboksen og inn i en dedikert oppgaveliste.
 
@@ -115,7 +111,7 @@ Slik gir AI en fordel i forhold til tradisjonelle gratis plugins:
 
 - **Effektiv og autentisk utkast:** Gratis malverktøy (som Right Inboxs begrensede tilbud) sparer skriving, men resulterer ofte i generiske meldinger. Avanserte AI-assistenter kan lære din unike skrivestil, tone og vokabular fra tidligere sendte e-poster.
 
-  - _Duet Mail Integrasjon:_ Dette går langt utover grunnleggende maler. [Duet Mails autentiske AI-tegning](https://duetmail.com/nb) analyserer kommunikasjonsmønstrene dine for å foreslå flere svaralternativer som virkelig høres ut som _du_. Dette opprettholder ditt personlige preg og profesjonalitet mens du dramatisk akselererer responstidene for rutinemessige e-poster. (Duet Mail info)
+  - _Duet Mail Integrasjon:_ Dette går langt utover grunnleggende maler. [Duet Mail s autentiske AI-tegning](https://duetmail.com/nb) analyserer kommunikasjonsmønstrene dine for å foreslå flere svaralternativer som virkelig høres ut som _du_. Dette opprettholder ditt personlige preg og profesjonalitet mens du dramatisk akselererer responstidene for rutinemessige e-poster. (Duet Mail info)
 
 Hovedforskjellen er et paradigmeskifte. Gratis plugins hjelper deg _administrere_ den eksisterende e-postflyten mer effektivt gjennom bedre organisering. AI-assistenter har som mål å fundamentalt _redusere_ den kognitive innsatsen og tidsinvesteringen som kreves for e-postadministrasjon ved å automatisere intelligent prioritering, oppsummering og utkast. De takler de grunnleggende årsakene til tretthet i e-post – konstant beslutningstaking, kontekstbytte og komposisjonstid – på en måte som enklere verktøy ikke kan.
 
@@ -126,7 +122,7 @@ For å hjelpe deg med å navigere i alternativene, her er et sammendrag av de be
 |Funksjonsfokus|Verktøy|Gratis nøkkelfunksjon|Ideell bruker|Stor gratis begrensning|Personvernmerknad|
 | ---------------------- | ----------------- | -------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------- | ----------------------- |
 |**Visuell arbeidsflyt**|Sortert|Kanban-brettvisning i Gmail (1 personlig + 1 ekstra)|Visuelle tenkere, grunnleggende prosjekt/oppgavesporing|30-dagers historikk, begrensede oppgaver/lister, ingen samarbeid|Standard (sjekk retningslinjene)|
-|**Oppgavebehandling**|Todoist for Gmail|Konverter e-post til oppgaver (lenker tilbake til e-post)|Eksisterende Todoist-brukere, oppgavesentriske arbeidsflyter|**Ingen påminnelser** i gratis Todoist, begrenset Gmail-integrasjon|Standard (sjekk retningslinjene)|
+|**Oppgavebehandling**| Todoist for Gmail |Konverter e-post til oppgaver (lenker tilbake til e-post)|Eksisterende Todoist-brukere, oppgavesentriske arbeidsflyter|**Ingen påminnelser** i gratis Todoist, begrenset Gmail-integrasjon|Standard (sjekk retningslinjene)|
 |**Timing og oppfølging**|Høyre innboks|Planlegging, påminnelser, grunnleggende sporing|Trenger sporadisk planlegging/påminnelser|**Svært lave månedlige grenser** (5-10 handlinger), popup-vinduer|Standard (sjekk retningslinjene)|
 |**Rynner**|Trimboks|Ett klikk "unsubscribe" (filter), masseslett|Rask opprydding i innboksen er nødvendig|Avslutter ikke virkelig (bruker filtre), begrenset prøveversjon|Sjekk bruk av AI-data|
 |**Rynner**|Unroll.me|Abonnementssammendrag, «avslutt abonnement» (filter)|Konsolidere nyhetsbrev|**Selger anonymiserte brukerdata**, sier ikke opp abonnementet|**Stor bekymring**|

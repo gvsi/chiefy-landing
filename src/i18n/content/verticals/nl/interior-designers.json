@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mailvoor interieurontwerpers | AI-e-mailassistent",
-  "metaDescription": "Duet Mailhelpt interieurontwerpers bij het beheren van e-mails van klanten, de coördinatie van aannemers en bestellingen van leveranciers, zelfs vanaf de bouwlocatie. Door AI opgestelde antwoorden met uw projectdetails, voorkeuren en stem.",
+  "pageTitle": "Duet Mail voor interieurontwerpers | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt interieurontwerpers bij het beheren van e-mails van klanten, de coördinatie van aannemers en bestellingen van leveranciers, zelfs vanaf de bouwlocatie. Door AI opgestelde antwoorden met uw projectdetails, voorkeuren en stem.",
   "heroBadge": "Vertrouwd door meer dan 400 interieurontwerpers",
   "heroHeadline": "Uw e-mailassistent terwijl u bij klanten op locatie bent",
-  "heroSubline": "Duetleert uw leverancierscontacten, projectdetails en klantvoorkeuren kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een klant verliest door een trage reactie.",
+  "heroSubline": "Duet leert uw leverancierscontacten, projectdetails en klantvoorkeuren kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een klant verliest door een trage reactie.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "project",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Eén geredde klant betaalt jarenlangDuet."
+    "punchline": "Eén geredde klant betaalt jarenlang Duet."
   },
-  "categorizationSubtitle": "Duettagt automatisch elke e-mail, zodat u eerst de vragen van nieuwe klanten ziet, pas daarna de goedkeuringen die nog in behandeling zijn, en nooit de nieuwsbrieven van leveranciers. U hoeft geen ontwerpadvies meer te missen dat verborgen ligt onder promoties op beurzen.",
-  "draftSubtitle": "Duetleert uw proces, projectdetails en toon kennen. Wanneer er een nieuwe aanvraag of klantvraag binnenkomt, wordt er een volledig antwoord opgesteld met uw beschikbaarheid, volgende stappen en projectspecificaties. Je beoordeelt en verzendt.",
-  "agentSubtitle": "'Wat is de status van het Henderson-project?' \"Welke goedkeuringen zijn nog in behandeling?\"Duetkent uw inbox en elke projectthread - vraag het maar.",
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst de vragen van nieuwe klanten ziet, pas daarna de goedkeuringen die nog in behandeling zijn, en nooit de nieuwsbrieven van leveranciers. U hoeft geen ontwerpadvies meer te missen dat verborgen ligt onder promoties op beurzen.",
+  "draftSubtitle": "Duet leert uw proces, projectdetails en toon kennen. Wanneer er een nieuwe aanvraag of klantvraag binnenkomt, wordt er een volledig antwoord opgesteld met uw beschikbaarheid, volgende stappen en projectspecificaties. Je beoordeelt en verzendt.",
+  "agentSubtitle": "'Wat is de status van het Henderson-project?' \"Welke goedkeuringen zijn nog in behandeling?\"Duet kent uw inbox en elke projectthread - vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michaël R.",
       "title": "Hoofdontwerper, Austin TX",
-      "quote": "Ik ben 6 uur per dag ter plaatse en coördineer schilders, elektriciens en tegelinstallateurs. Ondertussen mailen drie andere klanten over hun projecten.Duetstelt antwoorden op met de juiste projectdetails - ik bekijk ze alleen tussen locatiebezoeken door.",
+      "quote": "Ik ben 6 uur per dag ter plaatse en coördineer schilders, elektriciens en tegelinstallateurs. Ondertussen mailen drie andere klanten over hun projecten.Duet stelt antwoorden op met de juiste projectdetails - ik bekijk ze alleen tussen locatiebezoeken door.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Residentiële binnenhuisarchitect, Chicago",
-      "quote": "Vragen van klanten bleven dagenlang liggen omdat ik verzonken was in aanbestedings-e-mails en de planning van aannemers. Nu reageertDuetbinnen enkele minuten op nieuwe leads met mijn proces en beschikbaarheid. Dit kwartaal heb ik 4 extra projecten geboekt.",
+      "quote": "Vragen van klanten bleven dagenlang liggen omdat ik verzonken was in aanbestedings-e-mails en de planning van aannemers. Nu reageert Duet binnen enkele minuten op nieuwe leads met mijn proces en beschikbaarheid. Dit kwartaal heb ik 4 extra projecten geboekt.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Eigenaar van ontwerpstudio, Nashville",
-      "quote": "Het beheren van e-mails voor twaalf actieve projecten kostte me veel moeite.Duetcategoriseert alles: nieuwe aanvragen, lopende goedkeuringen, bestellingen van leveranciers, updates van aannemers, zodat ik precies weet wat eerst mijn aandacht nodig heeft.",
+      "quote": "Het beheren van e-mails voor twaalf actieve projecten kostte me veel moeite.Duet categoriseert alles: nieuwe aanvragen, lopende goedkeuringen, bestellingen van leveranciers, updates van aannemers, zodat ik precies weet wat eerst mijn aandacht nodig heeft.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Binnenhuisarchitect, San Diego",
-      "quote": "Ik raakte potentiële klanten kwijt omdat ik tijdens de installatieweken niet snel genoeg kon reageren.Duetleerde mijn consultatieproces, prijsstructuur en zelfs hoe ik mijn ontwerpstijl omschrijf. Klanten hebben geen idee dat het AI-ondersteund is.",
+      "quote": "Ik raakte potentiële klanten kwijt omdat ik tijdens de installatieweken niet snel genoeg kon reageren.Duet leerde mijn consultatieproces, prijsstructuur en zelfs hoe ik mijn ontwerpstijl omschrijf. Klanten hebben geen idee dat het AI-ondersteund is.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sara K.",
       "title": "Commercieel binnenhuisarchitect, Denver",
-      "quote": "Tussen de doorlooptijden van leveranciers, planningen van aannemers en herzieningsverzoeken van klanten was mijn inbox een chaos.Duetsorteert het allemaal en stelt follow-ups op van lopende goedkeuringen. Het is alsof je een projectcoördinator hebt die nooit slaapt.",
+      "quote": "Tussen de doorlooptijden van leveranciers, planningen van aannemers en herzieningsverzoeken van klanten was mijn inbox een chaos.Duet sorteert het allemaal en stelt follow-ups op van lopende goedkeuringen. Het is alsof je een projectcoördinator hebt die nooit slaapt.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "Ik jongleer met 8-10 projecten tegelijk. KanDuetze recht houden?",
-      "answer": "Ja.Duetvolgt elke e-mailthread per klant en project. Wanneer u vraagt ​​naar de Henderson-keuken of het Park Avenue-kantoor, wordt de context uit alle gerelateerde gesprekken gehaald (orders van leveranciers, updates van aannemers, goedkeuringen van klanten), zodat uw antwoorden altijd accuraat en projectspecifiek zijn. Geen verwarring welke tegel voor welke klant was."
+      "question": "Ik jongleer met 8-10 projecten tegelijk. Kan Duet ze recht houden?",
+      "answer": "Ja. Duet volgt elke e-mailthread per klant en project. Wanneer u vraagt ​​naar de Henderson-keuken of het Park Avenue-kantoor, wordt de context uit alle gerelateerde gesprekken gehaald (orders van leveranciers, updates van aannemers, goedkeuringen van klanten), zodat uw antwoorden altijd accuraat en projectspecifiek zijn. Geen verwarring welke tegel voor welke klant was."
     },
     {
-      "question": "Ik coördineer met veel aannemers en leveranciers. HelptDuetdaarbij?",
-      "answer": "Absoluut.Duetleert de contacten van uw aannemers, verkopersvertegenwoordigers en de context van de rol van elke branche in uw projecten. Wanneer uw elektricien een e-mail stuurt dat de voorbereiding is voltooid, kanDueteen antwoord opstellen waarin de volgende stap of lus in het armatuurinstallatieprogramma wordt bevestigd. Het zorgt ervoor dat de workflow in beweging blijft, zelfs als u aan de andere kant van de stad op een ander werkterrein bent."
+      "question": "Ik coördineer met veel aannemers en leveranciers. Helpt Duet daarbij?",
+      "answer": "Absoluut.Duet leert de contacten van uw aannemers, verkopersvertegenwoordigers en de context van de rol van elke branche in uw projecten. Wanneer uw elektricien een e-mail stuurt dat de voorbereiding is voltooid, kan Duet een antwoord opstellen waarin de volgende stap of lus in het armatuurinstallatieprogramma wordt bevestigd. Het zorgt ervoor dat de workflow in beweging blijft, zelfs als u aan de andere kant van de stad op een ander werkterrein bent."
     }
   ],
-  "pricingNote": "Bij $ 10.000/project betaalt één opgeslagen klant jarenlangDuetPro."
+  "pricingNote": "Bij $ 10.000/project betaalt één opgeslagen klant jarenlang Duet Pro."
 }

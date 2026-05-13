@@ -42,7 +42,7 @@
   "math.aria": "Návratnost investice",
   "math.label": "Matematika",
   "math.narrativeTemplate": "Při {pricePerBooking} za {bookingUnit}, ztráta pouze {lostPerMonth} kvůli pomalým odpovědím =",
-  "math.lossSuffix": "/mo gone",
+  "math.lossSuffix": "/měs. pryč",
   "math.vs": "vs",
   "math.duetLabel": "Duet",
   "math.duetPrice": "$30/mo",

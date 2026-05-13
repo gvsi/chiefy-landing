@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Duet Mail | AI Email Assistant Gmail:lle ja Outlook:lle",
-    "description": "Duet Mail:n AI-sähköpostiapuri tekee yhteenvedon sähköposteista, luonnostelee vastauksia ja järjestää postilaatikkosi. Toimii Gmail:n ja Outlook:n kanssa. Säästä yli 4 tuntia viikossa."
+    "title": "Duet Mail | AI Email Assistant Gmailille ja Outlookille",
+    "description": "Duet Mail:n AI-sähköpostiapuri tekee yhteenvedon sähköposteista, luonnostelee vastauksia ja järjestää postilaatikkosi. Toimii Gmailin ja Outlookin kanssa. Säästä yli 4 tuntia viikossa."
   },
   "hero": {
-    "badge": "Nyt saatavilla Gmail:lle ja Outlook:lle",
+    "badge": "Nyt saatavilla Gmailille ja Outlookille",
     "headlinePrefix": "Sinun ",
     "headlineHighlight": "esikuntapäällikkö",
     "headlineSuffix": " varten",
@@ -16,7 +16,7 @@
     ],
     "subline": "Säästä yli 4 tuntia joka viikko sähköpostitse",
     "primaryCta": "Aloita Gmail:stä",
-    "secondaryCta": "Aloita Outlook:stä",
+    "secondaryCta": "Aloita Outlookista",
     "trialNote": "Ilmainen 14 päivän kokeilu",
     "cancelNote": "Peruuta milloin tahansa"
   },
@@ -78,7 +78,7 @@
     "ariaLabel": ":n ominaisuudet",
     "eyebrow": "Saapuneet, ladattu",
     "title": "Postilaatikkosi ei saisi omistaa päivääsi",
-    "subtitle": "Muuta kaaos selkeydeksi AI:llä, joka todella saa sinut.\nSäästä yli 3 tuntia viikossa Gmail:n ja Outlook:n älykkäimmällä sähköpostiavustajalla.",
+    "subtitle": "Muuta kaaos selkeydeksi AI:llä, joka todella saa sinut.\nSäästä yli 3 tuntia viikossa Gmailin ja Outlookin älykkäimmällä sähköpostiavustajalla.",
     "cards": [
       {
         "id": "drafts",
@@ -100,7 +100,7 @@
         "mockCopy": {
           "sentencePrefix": "Ehdotan meitä ",
           "sentenceHighlight": "kokoontuu ensi viikolla",
-          "sentenceSuffix": " ?",
+          "sentenceSuffix": "?",
           "actionTitle": "Uusi toimintokohde",
           "actionLead": "Löysin nämä ilmaiset paikat kalenteristasi",
           "slots": [
@@ -252,7 +252,7 @@
     "ariaLabel": "AI sähköpostiäly ja avustaja",
     "badge": "älykkyys",
     "title": "Kysy mitä tahansa sähköpostistasi",
-    "subtitle": "Pyydä Duetia etsimään sähköpostit, tarkistamaan kalenterisi tai luonnostelemaan vastaus. Se ymmärtää postilaatikkosi ja vastaa välittömästi.",
+    "subtitle": "Pyydä Duet ia etsimään sähköpostit, tarkistamaan kalenterisi tai luonnostelemaan vastaus. Se ymmärtää postilaatikkosi ja vastaa välittömästi.",
     "windowTitle": "Duet Agent",
     "onlineLabel": "verkossa",
     "initialUserMessage": "Löydätkö kirjanpidon lähettämän Stripe-laskun?",
@@ -360,12 +360,12 @@
     "eyebrow": "Hinnoittelu",
     "heading": "Yksinkertainen hinnoittelu, tehokas postilaatikko",
     "subheading": "Aloita ilmaiseksi, päivitä milloin tahansa. Peruuta milloin tahansa.",
-    "billingLegend": "Laskutusnopeus\nVuosittainen",
-    "billingAnnual": "",
-    "billingMonthly": "kuukausittain",
+    "billingLegend": "Laskutusväli",
+    "billingAnnual": "Vuosittain",
+    "billingMonthly": "Kuukausittain",
     "savingsTag": "Säästä 33 %",
-    "priceCadence": "/fi/month",
-    "perUserSuffix": "/fi/user",
+    "priceCadence": "/kk",
+    "perUserSuffix": "/käyttäjä",
     "annualBillingSuffix": "(laskutetaan vuosittain)",
     "trustItems": [
       "Suojattu kassalla Stripe:n kautta",
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Basic",
+        "name": "Perus",
         "description": "Kaikille, jotka haluavat tietää, miltä älykkäämpi postilaatikko tuntuu. Ei vaadi sitoutumista.",
-        "priceLabel": "Free",
+        "priceLabel": "Maksuton",
         "features": [
           {
             "title": "välittömät yhteenvedot",
@@ -513,7 +513,7 @@
     "headline": "Saat 4 tuntia takaisin.\nJoka viikko.",
     "subline": "Liity ammattilaisiin, jotka aloittavat päivänsä selkeästi, eivät kaaoksella. Ilmainen kokeilujaksosi odottaa.",
     "primaryCta": "Aloita Gmail:stä",
-    "secondaryCta": "Aloita Outlook:stä",
+    "secondaryCta": "Aloita Outlookista",
     "note": "14 päivän ilmainen kokeiluversio · Peru milloin tahansa",
     "trustItems": [
       "Google CASA-arvioitu",
@@ -625,16 +625,16 @@
     "narrativeTemplate": "{pricePerBooking} per {bookingUnit}, menettäen vain {lostPerMonth}:n hitaille vastauksille =",
     "lossSuffix": "/fi/mo gone",
     "dividerLabel": "vs",
-    "duetLabel": "Duetti",
+    "duetLabel": "Duet ti",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Sähköpostiapuri Gmail:lle ja Outlook:lle",
+    "websiteAlternateName": "Duet - AI Sähköpostiapuri Gmailille ja Outlookille",
     "organizationName": "Duet Mail",
     "organizationContactType": "Asiakastuki",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI-sähköpostiavustaja Gmail:lle ja Outlook:lle, joka tekee automaattisesti yhteenvedon sähköposteista, luonnostelee vastauksia äänelläsi ja järjestää postilaatikkosi tuntien säästämiseksi joka viikko.",
+    "softwareDescription": "AI-sähköpostiavustaja Gmailille ja Outlookille, joka tekee automaattisesti yhteenvedon sähköposteista, luonnostelee vastauksia äänelläsi ja järjestää postilaatikkosi tuntien säästämiseksi joka viikko.",
     "applicationCategory": "viestintäsovellus",
     "featureList": [
       "Älykäs sähköpostin järjestäminen ja luokittelu",
@@ -663,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Vaatii JavaScriptin. Toimii Gmail:n, Google Workspacen ja Microsoft Outlook:n kanssa.",
+    "browserRequirements": "Vaatii JavaScriptin. Toimii Gmailin, Google Workspacen ja Microsoft Outlookin kanssa.",
     "urls": {
       "site": "https://duetmail.com/fi",
       "logo": "https://duetmail.com/favicon.svg",

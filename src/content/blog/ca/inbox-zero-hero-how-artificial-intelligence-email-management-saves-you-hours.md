@@ -1,5 +1,5 @@
 ---
-title: "Inbox Zero Hero: Com la gestió de correu electrònic de la intel·ligència artificial us estalvia hores\n"
+title: "Inbox Zero Hero: Com la gestió de correu electrònic de la intel·ligència artificial us estalvia hores"
 description: "Deixeu d'ofegar-vos als correus electrònics! Descobriu com les eines de gestió de correu electrònic d'intel·ligència artificial automatitzen l'ordenació, prioritzen les tasques i esborran les respostes per estalviar-vos hores."
 publishedAt: 2025-09-29
 author: "Duet Mail Team"

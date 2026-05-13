@@ -3,7 +3,7 @@ title: "HTML ઈમેલ ફૂટર્સ માટે અંતિમ મા
 description: "HTML ઈમેલ ફૂટર્સમાં કુશળતા મેળવો: આવશ્યક તત્વો, ડિઝાઇન ટીપ્સ, કાનૂની અનુપાલન (CAN-SPAM, GDPR, CASL) અને બ્રાન્ડિંગ ઉદાહરણો."
 publishedAt: 2026-01-05
 author: "Duet Mail Team"
-tags: ["AI", "Email"]
+tags: ["AI", "ઈમેઇલ"]
 draft: false
 ---
 

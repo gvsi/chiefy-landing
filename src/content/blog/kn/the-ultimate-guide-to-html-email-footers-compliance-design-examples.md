@@ -3,7 +3,7 @@ title: "HTML ಇಮೇಲ್ ಅಡಿಟಿಪ್ಪಣಿಗಳಿಗೆ ಅ�
 description: "ಮಾಸ್ಟರ್ HTML ಇಮೇಲ್ ಅಡಿಟಿಪ್ಪಣಿಗಳು: ಅಗತ್ಯ ಅಂಶಗಳು, ವಿನ್ಯಾಸ ಸಲಹೆಗಳು, ಕಾನೂನು ಅನುಸರಣೆ (CAN-SPAM, GDPR, CASL) ಮತ್ತು ಬ್ರ್ಯಾಂಡಿಂಗ್ ಉದಾಹರಣೆಗಳು."
 publishedAt: 2026-01-05
 author: "Duet Mail Team"
-tags: ["AI", "Email"]
+tags: ["AI", "ಇಮೇಲ್"]
 draft: false
 ---
 

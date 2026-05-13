@@ -57,9 +57,7 @@ Ikke alle interaktive elementer er skabt lige. Her er nogle dokumenterede vinder
 
 - **Planlægningslink:** Integrer direkte med værktøjer som Calendly. Tilføjelse af en "[Schedule Meeting"-knap eller et link](https://www.bybrand.io/blog/schedule-meeting-email-signature/) fjerner friktion for booking af opkald.
 
-- **Logo eller Headshot:** Tilføjer personlighed og mærkegenkendelse. Gør det klikbart ved at linke til din hjemmeside. Brug et professionelt billede af høj kvalitet.
-
-![Eksempel på en simpel professionel e-mailsignatur til en freelancer med klikbare kontaktoplysninger og sociale links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logo eller Headshot:** Tilføjer personlighed og mærkegenkendelse. Gør det klikbart ved at linke til din hjemmeside. Brug et professionelt billede af høj kvalitet.![Eksempel på en simpel professionel e-mailsignatur til en freelancer med klikbare kontaktoplysninger og sociale links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Hold det rent: En simpel signatur med vigtige kontaktoplysninger og vigtige sociale links.
 
@@ -82,13 +80,11 @@ Hvilken er den rigtige for dig? Lad os sammenligne:
 | **Funktioner** | Skabeloner, analyser, bannerkampagner, central styring (ofte betalt) | Kun begrænset af HTML/CSS-e-mail-begrænsninger |
 | **Omkostninger** | Gratis niveauer tilgængelige (ofte med branding); Betalte planer for flere funktioner/brugere | Gratis (hvis du har evnerne) |
 
-**Anbefaling til freelancere og startups:** Medmindre du er fortrolig med HTML og strenge tests, anbefales det stærkt at starte med en velrenommeret **e-mailsignaturgenerator**. Værktøjer som [MySignature](https://mysignature.io/) (kendt som gode til freelancere/små teams) eller [WiseStamp](https://www.wisestamp.com/) tilbyder gratis eller overkommelige planer med professionelle skabeloner, nem tilpasning (inklusive CTA'er og bannere) og indbyggede kompatibilitetstjek. [HubSpot tilbyder også en populær gratis generator](https://www.hubspot.com/email-signature-generator) til enklere behov.
-
-![Skærmbillede af et værktøjsgrænseflade for e-mailsignaturgenerator, der viser skabeloner og tilpasningsmuligheder](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Anbefaling til freelancere og startups:** Medmindre du er fortrolig med HTML og strenge tests, anbefales det stærkt at starte med en velrenommeret **e-mailsignaturgenerator**. Værktøjer som [MySignature](https://mysignature.io/) (kendt som gode til freelancere/små teams) eller [WiseStamp](https://www.wisestamp.com/) tilbyder gratis eller overkommelige planer med professionelle skabeloner, nem tilpasning (inklusive CTA'er og bannere) og indbyggede kompatibilitetstjek. [HubSpot tilbyder også en populær gratis generator](https://www.hubspot.com/email-signature-generator) til enklere behov.![Skærmbillede af et værktøjsgrænseflade for e-mailsignaturgenerator, der viser skabeloner og tilpasningsmuligheder](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Værktøjer som MySignature og WiseStamp tilbyder skabeloner og enkel tilpasning.
 
-**Til DIY Crowd:** Hvis du vælger manuel HTML, skal du huske, at e-mail-klienter gengiver HTML meget forskelligt. Brug inline CSS til styling, og hold din kode ren. Test ubønhørligt ved hjælp af værktøjer som Litmus eller Email on Acid, eller i det mindste på tværs af større klienter somGmail,Outlook(forskellige versioner) og Apple Mail. Du kan finde [grundlæggende HTML-signaturskabeloner online](https://www.freelancermap.com/blog/create-professional-email-signature/) for at komme i gang, og ressourcer som [Exclaimer tilbyder gratis sociale ikoner](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) og vejledning.
+**Til DIY Crowd:** Hvis du vælger manuel HTML, skal du huske, at e-mail-klienter gengiver HTML meget forskelligt. Brug inline CSS til styling, og hold din kode ren. Test ubønhørligt ved hjælp af værktøjer som Litmus eller Email on Acid, eller i det mindste på tværs af større klienter som Gmail,Outlook(forskellige versioner) og Apple Mail. Du kan finde [grundlæggende HTML-signaturskabeloner online](https://www.freelancermap.com/blog/create-professional-email-signature/) for at komme i gang, og ressourcer som [Exclaimer tilbyder gratis sociale ikoner](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) og vejledning.
 
 Her er en meget grundlæggende HTML-struktur for et klikbart link:
 
@@ -110,9 +106,7 @@ At skabe en interaktiv signatur er kun halvdelen af kampen. Det er afgørende at
 
 - **Billedoptimering:** Brug billeder af høj kvalitet, men små filstørrelser (ideelt under 100 kb total signaturvægt). Vært vært for billeder pålideligt (indlejring ikke, medmindre det er nødvendigt, da det øger e-mail-størrelsen). Brug altid beskrivende \`alt\` tekst for tilgængelighed, og hvis billeder er blokeret.
 
-- **Grænseelementer:** Inkluder ikke *alle* sociale profiler. Hold dig til 3-4 relevante. Én stærk CTA er normalt bedre end flere svage.
-
-![Sammenligning, der viser en e-mailsignatur, der gengives korrekt på både desktop- og mobilskærme](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Grænseelementer:** Inkluder ikke *alle* sociale profiler. Hold dig til 3-4 relevante. Én stærk CTA er normalt bedre end flere svage.![Sammenligning, der viser en e-mailsignatur, der gengives korrekt på både desktop- og mobilskærme](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobil betyder noget: Sørg for, at din signatur ser flot ud og fungerer godt på alle enheder.
 
@@ -132,7 +126,7 @@ En interaktiv signatur er designet til at udløse handling – et klik, et opkal
 
 Det er her, at integration af din signaturstrategi med smarte e-mail-administrationsværktøjer kan gøre en forskel. Når kundeemner begynder at klikke på det "Book et møde"-link genereret af din fantastiske signatur, har du brug for et system til at håndtere den efterfølgende planlægning og kommunikation problemfrit. På samme måde er det nøglen til at opbygge relationer at opretholde den professionelle tone, som din signatur sætter i hver opfølgende e-mail.
 
-Værktøjer designet til e-mail-produktivitet, såsom [Duet Mail](https://duetmail.com/da), kan hjælpe med at bygge bro over dette hul. Forestil dig at få AI-hjælp til at udarbejde hurtige, personlige svar, der bevarer din unikke stemme, efter at nogen interagerer med din signaturs CTA.Duet Mails funktioner som **AI Triage** kan hjælpe med at vise vigtige svar genereret fra signaturinteraktioner, mens dens **Autentiske AI Drafting** sikrer, at dine opfølgninger lyder ligesom dig, og bevarer den professionalisme, som dine signaturprojekter bevarer. Det forvandler engagementet fra din signatur til veladministrerede, produktive samtaler.
+Værktøjer designet til e-mail-produktivitet, såsom [Duet Mail](https://duetmail.com/da), kan hjælpe med at bygge bro over dette hul. Forestil dig at få AI-hjælp til at udarbejde hurtige, personlige svar, der bevarer din unikke stemme, efter at nogen interagerer med din signaturs CTA.Duet Mail s funktioner som **AI Triage** kan hjælpe med at vise vigtige svar genereret fra signaturinteraktioner, mens dens **Autentiske AI Drafting** sikrer, at dine opfølgninger lyder ligesom dig, og bevarer den professionalisme, som dine signaturprojekter bevarer. Det forvandler engagementet fra din signatur til veladministrerede, produktive samtaler.
 
 ## Klar til at aktivere din signatur?
 

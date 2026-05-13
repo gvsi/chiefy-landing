@@ -3,7 +3,7 @@ title: "ಪಾಲಿಮೇಲ್ ಪರ್ಯಾಯವನ್ನು ಹುಡು�
 description: "Polymail ಪರ್ಯಾಯವನ್ನು ಹುಡುಕುತ್ತಿರುವಿರಾ? AI ಇಮೇಲ್ ಉತ್ಪಾದಕತೆಗಾಗಿ Superhuman, Missive, Spark, Shortwave, ಮತ್ತು Duet Mail ಅನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ."
 publishedAt: 2025-08-21
 author: "Duet Mail Team"
-tags: ["AI", "ಉತ್ಪಾದಕತೆ", "ಪರಿಕರಗಳು", "Email"]
+tags: ["AI", "ಉತ್ಪಾದಕತೆ", "ಪರಿಕರಗಳು", "ಇಮೇಲ್"]
 draft: false
 ---
 

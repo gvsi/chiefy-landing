@@ -665,9 +665,9 @@
     "operatingSystem": "Web",
     "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/th/th",
-      "logo": "https://duetmail.com/th/favicon.svg",
-      "screenshot": "https://duetmail.com/th/og.jpg",
+      "site": "https://duetmail.com/th",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
       "sameAs": [
         "https://www.linkedin.com/company/duetmail",
         "https://x.com/DuetMailApp",

@@ -1,9 +1,9 @@
 ---
-title: "Més de 10 exemples d'automatització de correu electrònic per recuperar el temps i augmentar la productivitat el 2025\n"
-description: "Descobriu exemples pràctics d'automatització de correu electrònic per a l'ordenació, les respostes, els seguiments i molt més. Augmenta la productivitat amb aquests consells i eines de 2025.\n"
+title: "Més de 10 exemples d'automatització de correu electrònic per recuperar el temps i augmentar la productivitat el 2025"
+description: "Descobriu exemples pràctics d'automatització de correu electrònic per a l'ordenació, les respostes, els seguiments i molt més. Augmenta la productivitat amb aquests consells i eines de 2025."
 publishedAt: 2025-04-07
 author: "Duet Mail Team"
-tags: ["AI","Productivitat\n","Automatització\n","Correu electrònic"]
+tags: ["AI","Productivitat","Automatització","Correu electrònic"]
 draft: false
 ---
 

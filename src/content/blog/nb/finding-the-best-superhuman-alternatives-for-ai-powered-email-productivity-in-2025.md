@@ -33,9 +33,7 @@ En god AI-assistent for e-post bor redusere beslutningsarbeid, ikke bare skrive 
 
 ### **Smart triage og prioritering**
 
-AI kan analysere avsender, innhold, frister og tidligere monster for å lofte frem det som faktisk krever oppmerksomhet. Det er her [**Duet Mail**](https://duetmail.com/nb) skiller seg ut: AI Triage identifiserer hastesaker, handlinger og beslutninger slik at du kan starte med det viktigste.
-
-![Duet Mail-dashboard som viser AI-prioriterte e-poster etter hast og nodvendige handlinger](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+AI kan analysere avsender, innhold, frister og tidligere monster for å lofte frem det som faktisk krever oppmerksomhet. Det er her [**Duet Mail**](https://duetmail.com/nb) skiller seg ut: AI Triage identifiserer hastesaker, handlinger og beslutninger slik at du kan starte med det viktigste.![Duet Mail-dashboard som viser AI-prioriterte e-poster etter hast og nodvendige handlinger](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 Duet Mail bruker AI-drevet triage til å vise kritiske e-poster og redusere sorteringstid.
 
@@ -45,9 +43,7 @@ Generiske AI-svar kan spare tid, men de kan også skade tonen i viktige relasjon
 
 ### **Oppsummeringer og kontekst**
 
-Lange e-posttråder kan skjule beslutninger, risikoer og handlingspunkter. AI-oppsummering trekker ut essensen, mens kontekstbevisste verktoy kan koble innholdet til prosjekter, personer og tidligere samtaler.
-
-![Lang e-posttråd komprimert til viktige punkter av AI](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
+Lange e-posttråder kan skjule beslutninger, risikoer og handlingspunkter. AI-oppsummering trekker ut essensen, mens kontekstbevisste verktoy kan koble innholdet til prosjekter, personer og tidligere samtaler.![Lang e-posttråd komprimert til viktige punkter av AI](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
 
 AI-oppsummering i Duet Mail henter raskt ut hovedpunkter fra lange e-posttråder.
 

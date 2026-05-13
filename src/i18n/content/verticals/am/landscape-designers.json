@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ቲ ጻፈ፡-",
     "originalText": "ሰላም! በዌስትሌክ ውስጥ ቤት ገዛን እና ጓሮው ባዶ ሰሌዳ ነው። ከአገር በቀል ተከላ እና በረንዳ ጋር ሙሉ ለሙሉ ዳግም ዲዛይን ማድረግ እንፈልጋለን። አዳዲስ ደንበኞችን እየወሰዱ ነው?",
     "lines": [
-      "Hi Rachel!",
-      "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
-      "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
-      "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
+      "ሰላም Rachel!",
+      "ለአዲሱ ቤትዎ እንኳን ደስ አለዎት — ባዶ የጓሮ ቦታ በእውነት የህልም ፕሮጀክት ነው። አዲስ ደንበኞችን በእርግጥ እቀበላለሁ።",
+      "ሂደቴ የሚጀምረው በቦታው ላይ የ90 ደቂቃ ምክክር ነው፤ ንብረቱን እመላለሳለሁ፣ መለኪያዎችን እወስዳለሁ እና ግቦችዎን እንወያያለን። ከዚያ የተክል ንድፍ፣ የhardscape አቀማመጥ እና የደረጃ በጀት ያለው የጽንሰ-ሐሳብ እቅድ አዘጋጃለሁ።",
+      "በሚቀጥሉት 2-3 ሳምንታት ክፍት ጊዜዎች አሉኝ። ያሉ ቀናትን እንድልክልዎ?"
     ],
     "highlightText": "የእኔ ሂደት የሚጀምረው በ90 ደቂቃ የቦታ ምክክር ነው።",
     "tooltipFeatures": [
-      "Knows your design process & pricing",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "የንድፍ ሂደትዎን እና ዋጋዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የምክክር ዝርዝሮችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

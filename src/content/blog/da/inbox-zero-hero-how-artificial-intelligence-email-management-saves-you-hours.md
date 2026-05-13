@@ -17,11 +17,9 @@ Men hvad hvis der var en smartere måde? Hvad hvis teknologien ikke bare kunne f
 
 Den konstante ping af nye e-mails er ikke bare irriterende; det er et betydeligt træk på produktivitet og velvære. Statistik tegner et skarpt billede: Den gennemsnitlige kontormedarbejder modtager svimlende [121 til 126 e-mails hver eneste dag](https://www.dragapp.com/blog/email-statistics/). Globalt blev der sendt og modtaget anslået [347 milliarder e-mails](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/) dagligt i 2023, et antal, der forventes at stige endnu højere.
 
-Håndtering af denne oversvømmelse kræver en stor vejafgift.Proprofessionelle rapporterer, at de bruger omkring [28 % af deres arbejdsuge](https://inboxdone.com/psychology-of-email-overload/) – svarende til 11-13 timer – bare på at administrere e-mails. Dette konstante skift mellem opgaver og indbakken er ikke uden konsekvenser. Forskning tyder på, at det tager over [23 minutter at genvinde fokus](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) efter en afbrydelse som at tjekke e-mail.
+Håndtering af denne oversvømmelse kræver en stor vejafgift.Professionelle rapporterer, at de bruger omkring [28 % af deres arbejdsuge](https://inboxdone.com/psychology-of-email-overload/) – svarende til 11-13 timer – bare på at administrere e-mails. Dette konstante skift mellem opgaver og indbakken er ikke uden konsekvenser. Forskning tyder på, at det tager over [23 minutter at genvinde fokus](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) efter en afbrydelse som at tjekke e-mail.
 
-Påvirkningen rækker ud over tabt tid. Overbelastning af e-mail er konsekvent forbundet med øget stress, angst og udbrændthed. En undersøgelse citeret af [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) viste, at [66 % af amerikanerne rapporterer at føle sig stressede](https://inboxdone.com/psychology-of-email-overload/) på grund af den store mængde e-mails, de modtager. Dette konstante pres bidrager til beslutningstræthed og kan endda påvirke arbejdsglæden negativt, hvilket gør det sværere at fokusere på strategisk arbejde af høj værdi.
-
-![Infografik, der viser statistik om daglig e-mailvolumen og tid brugt på at administrere e-mail](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+Påvirkningen rækker ud over tabt tid. Overbelastning af e-mail er konsekvent forbundet med øget stress, angst og udbrændthed. En undersøgelse citeret af [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) viste, at [66 % af amerikanerne rapporterer at føle sig stressede](https://inboxdone.com/psychology-of-email-overload/) på grund af den store mængde e-mails, de modtager. Dette konstante pres bidrager til beslutningstræthed og kan endda påvirke arbejdsglæden negativt, hvilket gør det sværere at fokusere på strategisk arbejde af høj værdi.![Infografik, der viser statistik om daglig e-mailvolumen og tid brugt på at administrere e-mail](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
 Den gennemsnitlige fagmand modtager over 120 e-mails dagligt, hvilket indtager timers værdifuld arbejdstid.
 
@@ -43,7 +41,7 @@ Dette giver AI-værktøjer mulighed for at automatisere opgaver, der tidligere h
 
 ## Taming the Chaos: Core AI Email Management Capabilities
 
-AI e-mail-assistenter handler ikke kun om smarte algoritmer; de leverer håndgribelige fordele gennem specifikke funktioner designet til at tackle de største smertepunkter i indbakken.
+AI-e-mail-assistenter handler ikke kun om smarte algoritmer; de leverer håndgribelige fordele gennem specifikke funktioner designet til at tackle de største smertepunkter i indbakken.
 
 ### Intelligent prioritering og triage: Find signalet i støjen
 
@@ -150,7 +148,7 @@ Markedet for AI-e-mail-assistenter vokser hurtigt. Valg af det rigtige værktøj
 
 Hvor godt passer værktøjet ind i dit eksisterende setup? De fleste førende assistenter tilbyder integrationer:
 
-- **E-mail-klienter:** Se efter dedikerede [Outlooktilføjelser](https://appsource.microsoft.com/en-cy/product/office/WA200005168?tab=Overview) eller [Gmailudvidelser/tilføjelser](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) for problemfri drift i din primære indbakke.
+- **E-mail-klienter:** Se efter dedikerede [Outlook tilføjelser](https://appsource.microsoft.com/en-cy/product/office/WA200005168?tab=Overview) eller [Gmail udvidelser/tilføjelser](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) for problemfri drift i din primære indbakke.
 
 - **Andre platforme:** Tjek for kompatibilitet med din kalender, CRM (som Salesforce eller HubSpot), projektstyringsværktøjer (som Asana eller Trello) og kommunikationsplatforme (som Slack).
 

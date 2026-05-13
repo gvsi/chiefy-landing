@@ -57,9 +57,7 @@ Nicht alle interaktiven Elemente sind gleich. Hier sind einige bewährte Gewinne
 
 - **Planungslink:** Direkte Integration mit Tools wie Calendly. Durch das Hinzufügen einer Schaltfläche oder eines Links „[Besprechung planen“](https://www.bybrand.io/blog/schedule-meeting-email-signature/) werden Reibungsverluste bei der Buchung von Anrufen beseitigt.
 
-- **Logo oder Headshot:** Fügt Persönlichkeit und Markenwiedererkennung hinzu. Machen Sie es anklickbar und verlinken Sie es auf Ihre Website. Verwenden Sie ein hochwertiges, professionelles Bild.
-
-![Beispiel einer einfachen professionellen E-Mail-Signatur für einen Freiberufler mit anklickbaren Kontaktinformationen und sozialen Links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logo oder Headshot:** Fügt Persönlichkeit und Markenwiedererkennung hinzu. Machen Sie es anklickbar und verlinken Sie es auf Ihre Website. Verwenden Sie ein hochwertiges, professionelles Bild.![Beispiel einer einfachen professionellen E-Mail-Signatur für einen Freiberufler mit anklickbaren Kontaktinformationen und sozialen Links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Halten Sie es sauber: Eine einfache Signatur mit wichtigen Kontaktinformationen und wichtigen sozialen Links.
 
@@ -82,13 +80,11 @@ Welches ist das Richtige für Sie? Vergleichen wir:
 | **Funktionen** | Vorlagen, Analysen, Bannerkampagnen, zentrale Verwaltung (oft kostenpflichtig) | Nur durch HTML/CSS-E-Mail-Einschränkungen eingeschränkt |
 | **Kosten** | Kostenlose Stufen verfügbar (oft mit Branding); Bezahlte Pläne für mehr Funktionen/Benutzer | Kostenlos (wenn Sie über die entsprechenden Fähigkeiten verfügen) |
 
-**Empfehlung für Freiberufler und Start-ups:** Sofern Sie nicht mit HTML und strengen Tests vertraut sind, wird dringend empfohlen, mit einem seriösen **E-Mail-Signaturgenerator** zu beginnen. Tools wie [MySignature](https://mysignature.io/) (gut für Freiberufler/kleine Teams) oder [WiseStamp](https://www.wisestamp.com/) bieten kostenlose oder erschwingliche Pläne mit professionellen Vorlagen, einfacher Anpassung (einschließlich CTAs und Bannern) und integrierten Kompatibilitätsprüfungen. [HubSpot bietet außerdem einen beliebten kostenlosen Generator](https://www.hubspot.com/email-signature-generator) für einfachere Anforderungen.
-
-![Screenshot der Benutzeroberfläche eines E-Mail-Signaturgenerator-Tools mit Vorlagen und Anpassungsoptionen](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Empfehlung für Freiberufler und Start-ups:** Sofern Sie nicht mit HTML und strengen Tests vertraut sind, wird dringend empfohlen, mit einem seriösen **E-Mail-Signaturgenerator** zu beginnen. Tools wie [MySignature](https://mysignature.io/) (gut für Freiberufler/kleine Teams) oder [WiseStamp](https://www.wisestamp.com/) bieten kostenlose oder erschwingliche Pläne mit professionellen Vorlagen, einfacher Anpassung (einschließlich CTAs und Bannern) und integrierten Kompatibilitätsprüfungen. [HubSpot bietet außerdem einen beliebten kostenlosen Generator](https://www.hubspot.com/email-signature-generator) für einfachere Anforderungen.![Screenshot der Benutzeroberfläche eines E-Mail-Signaturgenerator-Tools mit Vorlagen und Anpassungsoptionen](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Tools wie MySignature und WiseStamp bieten Vorlagen und einfache Anpassungen.
 
-**Für die Heimwerker:** Wenn Sie sich für manuelles HTML entscheiden, denken Sie daran, dass E-Mail-Clients HTML sehr unterschiedlich darstellen. Verwenden Sie Inline-CSS für die Gestaltung und halten Sie Ihren Code sauber. Testen Sie unermüdlich mit Tools wie Litmus oder Email on Acid oder zumindest mit großen Clients wieGmail,Outlook(verschiedene Versionen) und Apple Mail. Für den Einstieg finden Sie [einfache HTML-Signaturvorlagen online](https://www.freelancermap.com/blog/create-professional-email-signature/) sowie Ressourcen wie [Exclaimer bietet kostenlose soziale Symbole](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) und Anleitungen.
+**Für die Heimwerker:** Wenn Sie sich für manuelles HTML entscheiden, denken Sie daran, dass E-Mail-Clients HTML sehr unterschiedlich darstellen. Verwenden Sie Inline-CSS für die Gestaltung und halten Sie Ihren Code sauber. Testen Sie unermüdlich mit Tools wie Litmus oder Email on Acid oder zumindest mit großen Clients wie Gmail,Outlook(verschiedene Versionen) und Apple Mail. Für den Einstieg finden Sie [einfache HTML-Signaturvorlagen online](https://www.freelancermap.com/blog/create-professional-email-signature/) sowie Ressourcen wie [Exclaimer bietet kostenlose soziale Symbole](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) und Anleitungen.
 
 Hier ist eine sehr einfache HTML-Struktur für einen anklickbaren Link:
 
@@ -110,9 +106,7 @@ Das Erstellen einer interaktiven Signatur ist nur die halbe Miete. Es ist von en
 
 - **Bildoptimierung:** Verwenden Sie qualitativ hochwertige Bilder mit kleiner Dateigröße (idealerweise unter 100 KB Gesamtsignaturgewicht). Hosten Sie Bilder zuverlässig (betten Sie sie nur ein, wenn dies erforderlich ist, da dies die E-Mail-Größe erhöht). Verwenden Sie für die Barrierefreiheit und für den Fall, dass Bilder blockiert sind, immer beschreibenden Alt-Text.
 
-- **Begrenzungselemente:** Nicht *jedes* soziale Profil einbeziehen. Bleiben Sie bei 3-4 relevanten. Ein starker CTA ist normalerweise besser als mehrere schwache.
-
-![Vergleich zeigt, dass eine E-Mail-Signatur sowohl auf Desktop- als auch auf mobilen Bildschirmen korrekt dargestellt wird](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Begrenzungselemente:** Nicht *jedes* soziale Profil einbeziehen. Bleiben Sie bei 3-4 relevanten. Ein starker CTA ist normalerweise besser als mehrere schwache.![Vergleich zeigt, dass eine E-Mail-Signatur sowohl auf Desktop- als auch auf mobilen Bildschirmen korrekt dargestellt wird](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobile Angelegenheiten: Stellen Sie sicher, dass Ihre Signatur auf allen Geräten gut aussieht und gut funktioniert.
 
@@ -132,7 +126,7 @@ Eine interaktive Signatur soll eine Aktion auslösen – einen Klick, einen Anru
 
 Hier kann die Integration Ihrer Signaturstrategie mit intelligenten E-Mail-Verwaltungstools einen Unterschied machen. Wenn Leads anfangen, auf den durch Ihre tolle Signatur generierten Link „Termin buchen“ zu klicken, benötigen Sie ein System, das die anschließende Planung und Kommunikation reibungslos abwickelt. Ebenso ist die Beibehaltung des professionellen Tons, den Ihre Unterschrift in jeder Folge-E-Mail vorgibt, der Schlüssel zum Aufbau von Beziehungen.
 
-Auf E-Mail-Produktivität ausgelegte Tools wie [Duet Mail](https://duetmail.com/de) können dabei helfen, diese Lücke zu schließen. Stellen Sie sich vor, Sie erhalten KI-Unterstützung, um zeitnahe, personalisierte Antworten zu verfassen, die Ihre einzigartige Stimme bewahren, nachdem jemand mit dem CTA Ihrer Signatur interagiert.Duet Mails Funktionen wie **AI Triage** können dabei helfen, wichtige Antworten anzuzeigen, die aus Signaturinteraktionen generiert wurden, während das **Authentic AI Drafting** sicherstellt, dass Ihre Follow-ups genau wie Sie klingen und die Professionalität Ihrer Signaturprojekte gewahrt bleibt. Es verwandelt das durch Ihre Unterschrift ausgelöste Engagement in gut geführte, produktive Gespräche.
+Auf E-Mail-Produktivität ausgelegte Tools wie [Duet Mail](https://duetmail.com/de) können dabei helfen, diese Lücke zu schließen. Stellen Sie sich vor, Sie erhalten KI-Unterstützung, um zeitnahe, personalisierte Antworten zu verfassen, die Ihre einzigartige Stimme bewahren, nachdem jemand mit dem CTA Ihrer Signatur interagiert.Duet Mail s Funktionen wie **AI Triage** können dabei helfen, wichtige Antworten anzuzeigen, die aus Signaturinteraktionen generiert wurden, während das **Authentic AI Drafting** sicherstellt, dass Ihre Follow-ups genau wie Sie klingen und die Professionalität Ihrer Signaturprojekte gewahrt bleibt. Es verwandelt das durch Ihre Unterschrift ausgelöste Engagement in gut geführte, produktive Gespräche.
 
 ## Sind Sie bereit, Ihre Signatur zu aktivieren?
 

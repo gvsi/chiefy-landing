@@ -1,99 +1,99 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail per a excursions d'observació de balenes | AI Assistent de correu electrònic\n",
-  "metaDescription": "Duet Mail ajuda els capitans d'observació de balenes a respondre als correus electrònics de reserva a l'instant, fins i tot des de l'aigua. Respostes redactades per AI amb els detalls del viatge, els preus i la veu.\n",
-  "heroBadge": "La confiança de més de 300 capitans de gira\n",
-  "heroHeadline": "El teu assistent de correu electrònic mentre estàs fora d'observar balenes\n",
-  "heroSubline": "Duet coneix l'horari, els preus i la veu del vostre viatge i, a continuació, redacta les respostes per correu electrònic perquè mai perdeu una reserva mentre esteu a l'aigua.\n",
+  "pageTitle": "Duet Mail per a excursions d'observació de balenes | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els capitans d'observació de balenes a respondre als correus electrònics de reserva a l'instant, fins i tot des de l'aigua. Respostes redactades per AI amb els detalls del viatge, els preus i la veu.",
+  "heroBadge": "La confiança de més de 300 capitans de gira",
+  "heroHeadline": "El teu assistent de correu electrònic mentre estàs fora d'observar balenes",
+  "heroSubline": "Duet coneix l'horari, els preus i la veu del vostre viatge i, a continuació, redacta les respostes per correu electrònic perquè mai perdeu una reserva mentre esteu a l'aigua.",
   "inboxEmails": [
     {
-      "from": "Raquel T.\n",
+      "from": "Raquel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Grup de 8 — disponibilitat el 14 de juny?\n",
-      "preview": "Hola! Som una família de 8 persones que visitem la setmana. Tens espai a la gira matinal del 14 de juny? Quin és el preu per persona i està bé per a nens?\n",
-      "pill": "Per respondre\n",
+      "subject": "Grup de 8 — disponibilitat el 14 de juny?",
+      "preview": "Hola! Som una família de 8 persones que visitem la setmana. Tens espai a la gira matinal del 14 de juny? Quin és el preu per persona i està bé per a nens?",
+      "pill": "Per respondre",
       "pillColor": "red"
     },
     {
-      "from": "James i Kathy L.\n",
+      "from": "James i Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Preu de lloguer privat?\n",
-      "preview": "Ens agradaria reservar una excursió privada d'observació de balenes per al nostre aniversari. Quin és el cost d'un lloguer privat de 2 hores només per a nosaltres dos...\n",
-      "pill": "Alt valor\n",
+      "subject": "Preu de lloguer privat?",
+      "preview": "Ens agradaria reservar una excursió privada d'observació de balenes per al nostre aniversari. Quin és el cost d'un lloguer privat de 2 hores només per a nosaltres dos...",
+      "pill": "Alt valor",
       "pillColor": "amber"
     },
     {
-      "from": "Taulell del port de creuers\n",
+      "from": "Taulell del port de creuers",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Canvi d'horari: la Coral Princess arriba 1 hora abans\n",
-      "preview": "Avís: l'arribada de Coral Princess de demà s'ha traslladat de les 10 del matí a les 9 del matí. Si us plau, ajusteu les recollides d'excursions al port en conseqüència...\n",
-      "pill": "Urgent\n",
+      "subject": "Canvi d'horari: la Coral Princess arriba 1 hora abans",
+      "preview": "Avís: l'arribada de Coral Princess de demà s'ha traslladat de les 10 del matí a les 9 del matí. Si us plau, ajusteu les recollides d'excursions al port en conseqüència...",
+      "pill": "Urgent",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor\n",
+      "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Nova ressenya per a la teva fitxa\n",
-      "preview": "Un viatger ha fet una opinió recent sobre el teu negoci. Mireu què havien de dir i respondre...\n",
-      "pill": "FYI\n",
+      "subject": "Nova ressenya per a la teva fitxa",
+      "preview": "Un viatger ha fet una opinió recent sobre el teu negoci. Mireu què havien de dir i respondre...",
+      "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hola Rachel! La visita al matí del 14 de juny té espai per a 8 persones. Les visites costen 125 dòlars per persona, els nens de 4 a 12 anys tenen la meitat de preu. Sortim a les 9:00 del port i fem unes 2,5 hores. Es proporcionen prismàtics: només cal portar capes i protector solar. Vols que reservi 8 places?\n",
+  "autodraft": "Hola Rachel! La visita al matí del 14 de juny té espai per a 8 persones. Les visites costen 125 dòlars per persona, els nens de 4 a 12 anys tenen la meitat de preu. Sortim a les 9:00 del port i fem unes 2,5 hores. Es proporcionen prismàtics: només cal portar capes i protector solar. Vols que reservi 8 places?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "grup turístic\n",
+    "bookingUnit": "grup turístic",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Una reserva de grup desada paga un any de Duet.\n"
+    "punchline": "Una reserva de grup desada paga un any de Duet."
   },
-  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, l'horari dels creuers canvia en segon lloc i el soroll mai. Ja no us perdeu una consulta privada de xàrter soterrada sota les alertes de TripAdvisor.\n",
-  "draftSubtitle": "Duet coneix els horaris, els preus i les polítiques dels vostres viatges. Quan arriba una consulta de reserva, redacta una resposta completa amb disponibilitat, què s'inclou i què cal portar. Tu revisa i envia.\n",
-  "agentSubtitle": "\"Quants llocs queden a la gira de dissabte al matí?\" \"Esborra una resposta a la Rachel amb disponibilitat\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.\n",
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, l'horari dels creuers canvia en segon lloc i el soroll mai. Ja no us perdeu una consulta privada de xàrter soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Duet coneix els horaris, els preus i les polítiques dels vostres viatges. Quan arriba una consulta de reserva, redacta una resposta completa amb disponibilitat, què s'inclou i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Quants llocs queden a la gira de dissabte al matí?\" \"Esborra una resposta a la Rachel amb disponibilitat\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
-      "from": "Raquel T.\n",
+      "from": "Raquel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Grup de 8 — disponibilitat el 14 de juny?\n",
-      "preview": "Som una família de 8 persones que visitem la setmana...\n",
-      "pill": "Respon ara\n",
+      "subject": "Grup de 8 — disponibilitat el 14 de juny?",
+      "preview": "Som una família de 8 persones que visitem la setmana...",
+      "pill": "Respon ara",
       "pillColor": "red"
     },
     {
-      "from": "Jaume L.\n",
+      "from": "Jaume L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Lloguer privat confirmat: dissabte a les 14:00\n",
-      "pill": "Reservat\n",
+      "subject": "Re: Lloguer privat confirmat: dissabte a les 14:00",
+      "pill": "Reservat",
       "pillColor": "blue"
     },
     {
-      "from": "Megan S.\n",
+      "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "La gira de demà funcionarà? El vent sembla fort\n",
-      "pill": "Pregunta\n",
+      "subject": "La gira de demà funcionarà? El vent sembla fort",
+      "pill": "Pregunta",
       "pillColor": "amber"
     },
     {
-      "from": "FareHarbor\n",
+      "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Resum de la reserva diària: 3 reserves noves\n",
-      "pill": "FYI\n",
+      "subject": "Resum de la reserva diària: 3 reserves noves",
+      "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Marine Supply Co.\n",
+      "from": "Marine Supply Co.",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Liquidació d'estiu: 15% de descompte en equip de seguretat\n",
-      "pill": "Promocions\n",
+      "subject": "Liquidació d'estiu: 15% de descompte en equip de seguretat",
+      "pill": "Promocions",
       "pillColor": "lavender"
     }
   ],
@@ -103,68 +103,68 @@
     "originalFrom": "Rachel T. wrote:",
     "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Hola Rachel!",
+      "El tour del matí del 14 de juny té molt espai per a 8. Les entrades costen 125 $ per persona i els nens de 4 a 12 anys paguen la meitat. Sortim a les 9 del matí i tornem cap a les 11:30.",
+      "Proporcionem prismàtics i roba de pluja; només cal portar capes càlides i protector solar. Als nens els encanta pujar a la coberta d’observació.",
+      "Vols que reservi 8 places?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "El tour del matí del 14 de juny té molt espai per a 8. Les entrades costen 125 $ per persona",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Coneix els teus horaris i preus",
+      "Redacta amb la teva veu",
+      "Inclou detalls per a famílies i equipament",
+      "Aprèn amb el temps"
     ]
   },
   "agent": {
-    "userMessage": "Quantes places queden per a la gira de dissabte al matí?\n",
-    "agentResponse": "Segons les vostres reserves, la gira de dissabte a les 9 del matí té 18 de 44 places ocupades, 26 encara obertes. L'excursió de la tarda està gairebé plena a les 40 de 44. Vols que et redacti una resposta a qualsevol consulta pendent amb la disponibilitat de dissabte al matí?\n",
+    "userMessage": "Quantes places queden per a la gira de dissabte al matí?",
+    "agentResponse": "Segons les vostres reserves, la gira de dissabte a les 9 del matí té 18 de 44 places ocupades, 26 encara obertes. L'excursió de la tarda està gairebé plena a les 40 de 44. Vols que et redacti una resposta a qualsevol consulta pendent amb la disponibilitat de dissabte al matí?",
     "followUp": "Redacta una resposta a Rachel confirmant el 14 de juny per a 8 convidats",
-    "followUpResponse": "Fet! Vaig redactar una resposta a la Rachel confirmant la visita al matí del 14 de juny per a 8 convidats a 125 dòlars per persona. Inclou l'hora de sortida, el que s'ofereix i el que cal portar. A punt per revisar i enviar.\n"
+    "followUpResponse": "Fet! Vaig redactar una resposta a la Rachel confirmant la visita al matí del 14 de juny per a 8 convidats a 125 dòlars per persona. Inclou l'hora de sortida, el que s'ofereix i el que cal portar. A punt per revisar i enviar."
   },
-  "testimonialsTitle": "Estimat pels capitans d'observació de balenes\n",
+  "testimonialsTitle": "Estimat pels capitans d'observació de balenes",
   "testimonials": [
     {
-      "name": "El capità Dave H.\n",
-      "title": "Operador de turisme de vida salvatge, AK\n",
-      "quote": "Els passatgers dels creuers necessiten respostes ràpides: només tenen 6 hores al port. Abans perdia els xàrters privats perquè estava a l'aigua quan va arribar la consulta. Ara Duet redacta les respostes amb els meus preus i els detalls de recollida abans fins i tot d'atracar.\n",
+      "name": "El capità Dave H.",
+      "title": "Operador de turisme de vida salvatge, AK",
+      "quote": "Els passatgers dels creuers necessiten respostes ràpides: només tenen 6 hores al port. Abans perdia els xàrters privats perquè estava a l'aigua quan va arribar la consulta. Ara Duet redacta les respostes amb els meus preus i els detalls de recollida abans fins i tot d'atracar.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria i Luis R.\n",
-      "title": "Family Whale Watch, CA\n",
-      "quote": "Fem dues visites al dia durant la temporada de geperut i el volum de correu electrònic és irreal. \"Verem balenes?\" 'Què m'he de posar?' \"Demà està cancel·lat?\" Duet gestiona les preguntes repetitives i ens centrem en els recorreguts.\n",
+      "name": "Maria i Luis R.",
+      "title": "Family Whale Watch, CA",
+      "quote": "Fem dues visites al dia durant la temporada de geperut i el volum de correu electrònic és irreal. \"Verem balenes?\" 'Què m'he de posar?' \"Demà està cancel·lat?\" Duet gestiona les preguntes repetitives i ens centrem en els recorreguts.",
       "avatarKey": "francesca"
     },
     {
-      "name": "El capità Ben T.\n",
-      "title": "Ocean Excursions, HI\n",
-      "quote": "Cada nit responia les mateixes 10 preguntes: preus, què s'inclou, consells sobre el mal de mar, límits d'edat dels nens. Duet ho va aprendre tot durant la primera setmana. El meu temps de resposta va passar de 8 hores a 8 minuts.\n",
+      "name": "El capità Ben T.",
+      "title": "Ocean Excursions, HI",
+      "quote": "Cada nit responia les mateixes 10 preguntes: preus, què s'inclou, consells sobre el mal de mar, límits d'edat dels nens. Duet ho va aprendre tot durant la primera setmana. El meu temps de resposta va passar de 8 hores a 8 minuts.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Kim W.\n",
-      "title": "Gestor de reserves, Pacific NW\n",
-      "quote": "Les cancel·lacions meteorològiques són les pitjors: 30 persones necessiten un canvi de reserva alhora i estic fent malabars amb trucades telefòniques. Duet redacta correus electrònics de reprogramació personalitzats per a cada convidat. El que abans em portava 2 hores, ara triga 15 minuts.\n",
+      "name": "Kim W.",
+      "title": "Gestor de reserves, Pacific NW",
+      "quote": "Les cancel·lacions meteorològiques són les pitjors: 30 persones necessiten un canvi de reserva alhora i estic fent malabars amb trucades telefòniques. Duet redacta correus electrònics de reprogramació personalitzats per a cada convidat. El que abans em portava 2 hores, ara triga 15 minuts.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jess i Nate P.\n",
-      "title": "Excursions per la fauna en vaixell petit, BC\n",
-      "quote": "Som una operació de dues persones: jo capità, ella dirigeix ​​la logística. Durant la temporada alta passava 3 hores per nit al correu electrònic. Duet ho va reduir a 30 minuts. De fet, recupera les nits ara.\n",
+      "name": "Jess i Nate P.",
+      "title": "Excursions per la fauna en vaixell petit, BC",
+      "quote": "Som una operació de dues persones: jo capità, ella dirigeix ​​la logística. Durant la temporada alta passava 3 hores per nit al correu electrònic. Duet ho va reduir a 30 minuts. De fet, recupera les nits ara.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Passa la temporada de les balenes a l'aigua,\nno a la teva safata d'entrada.\n",
-  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.\n",
+  "ctaHeadline": "Passa la temporada de les balenes a l'aigua,\nno a la teva safata d'entrada.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Duet gestiona les cancel·lacions meteorològiques i els canvis en l'horari dels creuers?\n",
-      "answer": "Sí. Quan cancel·leu una excursió a causa del temps o dels canvis d'hora d'arribada d'un creuer, podeu dir-ho a Duet una vegada i redactarà una reprogramació personalitzada o actualitzarà els correus electrònics per a cada hoste afectat. No més copiar i enganxar el mateix missatge 30 vegades. Cada resposta inclou els detalls de la reserva original del client i les alternatives disponibles.\n"
+      "question": "Duet gestiona les cancel·lacions meteorològiques i els canvis en l'horari dels creuers?",
+      "answer": "Sí. Quan cancel·leu una excursió a causa del temps o dels canvis d'hora d'arribada d'un creuer, podeu dir-ho a Duet una vegada i redactarà una reprogramació personalitzada o actualitzarà els correus electrònics per a cada hoste afectat. No més copiar i enganxar el mateix missatge 30 vegades. Cada resposta inclou els detalls de la reserva original del client i les alternatives disponibles."
     },
     {
-      "question": "Tenim les mateixes preguntes constantment: \"Veurem balenes?\", \"Què m'he de posar?\", \"Va bé per als nens?\" Duet pot gestionar-los?\n",
-      "answer": "Aquí és exactament on brilla Duet. Aprèn les teves respostes estàndard (espècies que veus normalment, què has de portar, polítiques d'edat, consells sobre el mal de mar, hores de sortida) i redacta respostes completes a l'instant. Tu revisa i envia. La majoria dels capitans ens diuen que el 80% de la seva safata d'entrada són les mateixes 10 preguntes i Duet les gestiona totes.\n"
+      "question": "Tenim les mateixes preguntes constantment: \"Veurem balenes?\", \"Què m'he de posar?\", \"Va bé per als nens?\" Duet pot gestionar-los?",
+      "answer": "Aquí és exactament on brilla Duet. Aprèn les teves respostes estàndard (espècies que veus normalment, què has de portar, polítiques d'edat, consells sobre el mal de mar, hores de sortida) i redacta respostes completes a l'instant. Tu revisa i envia. La majoria dels capitans ens diuen que el 80% de la seva safata d'entrada són les mateixes 10 preguntes i Duet les gestiona totes."
     }
   ],
   "pricingNote": "Amb 125 dòlars per persona, un grup desat de 6 paga més d'un any de Pro."

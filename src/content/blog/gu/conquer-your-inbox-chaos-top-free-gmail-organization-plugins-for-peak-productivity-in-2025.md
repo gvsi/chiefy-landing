@@ -3,7 +3,7 @@ title: "તમારા ઇનબોક્સની અવ્યવસ્થા 
 description: "Gmailની અવ્યવસ્થાથી કંટાળ્યા છો? 2025 માટેના ટોચના મફત Gmail ઓર્ગેનાઇઝેશન પ્લગિન્સ શોધો, જેથી ઇમેઇલ ઓવરલોડ મેનેજ કરી શકાય, વર્કફ્લો જોઈ શકાય અને ઉત્પાદકતા વધારી શકાય."
 publishedAt: 2025-07-27
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Inbox Management"]
+tags: ["AI", "Gmail", "ઉત્પાદકતા", "ઇનબોક્સ મેનેજમેન્ટ"]
 draft: false
 ---
 

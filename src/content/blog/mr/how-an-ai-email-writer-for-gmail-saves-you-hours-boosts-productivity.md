@@ -3,7 +3,7 @@ title: "Gmail साठी AI ईमेल लेखक तुम्हाला
 description: "ईमेलच्या ओझ्याखाली दबले आहात? Gmail साठी AI ईमेल लेखक कसा प्रत्युत्तरे तयार करू शकतो, थ्रेड्सचा सारांश देऊ शकतो आणि तुमचा कामाचा दिवस परत मिळवू शकतो ते जाणून घ्या. आजच उत्पादकता वाढवा!"
 publishedAt: 2025-07-25
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Email Writing"]
+tags: ["AI", "Gmail", "उत्पादकता", "ईमेल लेखन"]
 draft: false
 ---
 

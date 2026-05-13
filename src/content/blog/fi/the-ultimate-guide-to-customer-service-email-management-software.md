@@ -34,9 +34,7 @@ Kun useat tiimin jäsenet uppoavat samaan yleiseen postilaatikkoon (kuten **supp
 
 ### Data Blindness: Flying Blind on Performance
 
-Kuinka voit parantaa sähköpostitukeasi, jos et tiedä, mikä toimii ja mikä ei? Perussähköpostijärjestelmät tarjoavat vain vähän tai ei ollenkaan näkyvyyttä tärkeistä mittareista, kuten vastausajoista, resoluutionopeuksista tai agentin tuottavuudesta. Ilman dataa pullonkaulojen tunnistaminen, asiakkaiden yleisten kipukohtien ymmärtäminen tai tukitoimien tehokkuuden mittaaminen on arvailua. Lennät pohjimmiltaan sokeana, etkä pysty tekemään tietoisia päätöksiä suorituskyvyn optimoimiseksi.
-
-![Kojelauta näyttää asiakaspalvelun tiedot punaisella ilmoituksella keskimääräisestä sähköpostivastausajasta, mikä osoittaa tehottomuutta](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+Kuinka voit parantaa sähköpostitukeasi, jos et tiedä, mikä toimii ja mikä ei? Perussähköpostijärjestelmät tarjoavat vain vähän tai ei ollenkaan näkyvyyttä tärkeistä mittareista, kuten vastausajoista, resoluutionopeuksista tai agentin tuottavuudesta. Ilman dataa pullonkaulojen tunnistaminen, asiakkaiden yleisten kipukohtien ymmärtäminen tai tukitoimien tehokkuuden mittaaminen on arvailua. Lennät pohjimmiltaan sokeana, etkä pysty tekemään tietoisia päätöksiä suorituskyvyn optimoimiseksi.![Kojelauta näyttää asiakaspalvelun tiedot punaisella ilmoituksella keskimääräisestä sähköpostivastausajasta, mikä osoittaa tehottomuutta](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 Hitaat sähköpostivastausajat vaikuttavat suoraan asiakastyytyväisyyteen ja voivat johtaa liiketoiminnan menettämiseen.
 
@@ -148,7 +146,7 @@ AI ei ole vain tehtävien automatisointia; se auttaa aktiivisesti agentteja työ
   Monimutkaiseen asiakasongelmaan hyppääminen tarkoittaa usein menneiden sähköpostien sivujen kahlaamista. **Älykäs yhteenveto** -työkalut, kuten [Duet Mail](https://duetmail.com/fi) -työkalut, käyttävät AI:tä pitkien ketjujen välittömään tiivistämiseen korostaen tärkeitä yksityiskohtia ja menneisyyttä, jotta voit vastata nopeasti ja tarkasti ilman etsivää (Ominaisuus: Älykäs yhteenveto ja kontekstuaalinen tietoisuus).
 
 – **Luonnosta älykkäämmin, ei kovemmin (AI-piirustus):** AI voi dramaattisesti nopeuttaa vastauksen muodostamista. Se voi ehdottaa asiaankuuluvia vastauksia kontekstin perusteella, luoda täydellisiä luonnoksia, auttaa tarkentamaan sävyä (muodollisempi, ystävällisempi), tarkistaa kieliopin ja jopa kääntää tekstiä. Tärkeää on, että edistyneet AI-piirtäjät voivat oppia agentin ainutlaatuisen äänen ja tyylin, mikä varmistaa, että vastaukset pysyvät aitoina ja henkilökohtaisina.\
-  Nopeuden tasapainottaminen henkilökohtaisella otteella on kovaa. Yleiset mallit tuntuvat kylmiltä, ​​mutta yksilöllisten vastausten luominen vie aikaa. **Aidot AI-piirustustyökalut**, kuten [Duet Mail's](https://duetmail.com/fi), oppivat _oma_ erityistä kirjoitustyyliäsi ja sanastoa aiemmista sähköpostiviesteistäsi. He ehdottavat asiayhteyteen sopivia luonnoksia, jotka kuulostavat aidosti sinulta, nopeuttaen dramaattisesti vastausta ja säilyttäen samalla tärkeän brändiäänen ja personoinnin (Ominaisuus: Autenttinen AI Drafting & Voice Learning).
+  Nopeuden tasapainottaminen henkilökohtaisella otteella on kovaa. Yleiset mallit tuntuvat kylmiltä, ​​mutta yksilöllisten vastausten luominen vie aikaa. **Aidot AI-piirustustyökalut**, kuten [Duet Mails](https://duetmail.com/fi), oppivat _oma_ erityistä kirjoitustyyliäsi ja sanastoa aiemmista sähköpostiviesteistäsi. He ehdottavat asiayhteyteen sopivia luonnoksia, jotka kuulostavat aidosti sinulta, nopeuttaen dramaattisesti vastausta ja säilyttäen samalla tärkeän brändiäänen ja personoinnin (Ominaisuus: Autenttinen AI Drafting & Voice Learning).
 
 - ** Huoneen lukeminen (tunneanalyysi):** AI-algoritmit voivat analysoida sähköpostin tekstin mitatakseen asiakkaan tunteen (positiivinen, negatiivinen, neutraali). Tämä antaa agenteille välittömän käsityksen asiakkaan tunnetilasta, jolloin he voivat räätälöidä lähestymistapansa vastaavasti ja priorisoida turhautuneiden tai järkyttynyttä asiakkaiden käsittelyä nopeammin.
 
@@ -193,10 +191,7 @@ Oikean ohjelmiston valitseminen on vain puoli taistelua. Se, miten otat sen käy
 
 – **Paranna jatkuvasti:** Tarkista säännöllisesti suorituskykyanalyysit trendien ja pullonkaulojen tunnistamiseksi. Pyydä ja analysoi aktiivisesti asiakaspalautetta kyselyjen tai suorien pyyntöjen avulla. Käytä näitä tietoja työnkulkujen, automaatiosääntöjen, valmiiden vastausten ja agenttien koulutusohjelmien jatkuvaan parantamiseen.
 
-  \
-
-
-  ![Kuva esittää asiakaspalvelun edustajaa, joka käyttää ohjelmistoa AI-ehdotuksilla luodakseen henkilökohtaisen ja empaattisen sähköpostivastauksen](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+  \![Kuva esittää asiakaspalvelun edustajaa, joka käyttää ohjelmistoa AI-ehdotuksilla luodakseen henkilökohtaisen ja empaattisen sähköpostivastauksen](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 AI:n tehokkuuden ja inhimillisen empatian tasapainottaminen on avain poikkeuksellisen asiakaspalveluun.
 

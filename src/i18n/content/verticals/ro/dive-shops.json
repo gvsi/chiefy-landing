@@ -3,8 +3,8 @@
   "pageTitle": "Duet Mail pentru magazine de scufundări | Asistent de e-mail AI",
   "metaDescription": "Duet Mail îi ajută pe proprietarii de magazine de scufundări și instructorii PADI să răspundă la întrebările de certificare, rezervările de excursii și întrebările legate de echipament, chiar și de sub apă.",
   "heroBadge": "De încredere de peste 300 de operatori de scufundări",
-  "heroHeadline": "Asistentul dvs. de e-mail în timp ce vă aflați sub apă",
-  "heroSubline": "Duet învață site-urile dvs. de scufundări, cerințele de certificare, prețurile și vocea - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare în timp ce vă aflați pe barcă.",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești sub apă",
+  "heroSubline": "Duet învață site-urile tale de scufundări, cerințele de certificare, prețurile și vocea - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare în timp ce ești pe barcă.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -38,12 +38,12 @@
       "avatarLetter": "P",
       "avatarColor": "lavender",
       "subject": "Sesizare student: Rachel Torres",
-      "preview": "Un student și-a finalizat eLearning-ul și a selectat centrul dvs. de scufundări pentru antrenament în apă închisă și deschisă...",
+      "preview": "Un student și-a finalizat eLearning-ul și a selectat centrul tău de scufundări pentru antrenament în apă închisă și deschisă...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hei Rachel! Ne-ar plăcea să vă certificăm. Cursul Open Water durează 3 zile - o zi de sesiuni de piscină și două zile de scufundări în ocean. Toate echipamentele sunt incluse. August este larg deschis. Vrei să rezerv un loc pentru prima săptămână?",
+  "autodraft": "Hei Rachel! Ne-ar plăcea să te ajutăm să obții certificarea. Cursul Open Water durează 3 zile - o zi de sesiuni de piscină și două zile de scufundări în ocean. Toate echipamentele sunt incluse. August este larg deschis. Vrei să rezerv un loc pentru prima săptămână?",
   "math": {
     "pricePerBooking": "$150",
     "bookingUnit": "scufundare",
@@ -52,8 +52,8 @@
     "punchline": "O scufundare de grup salvată plătește pentru un an de Duet."
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi întrebările de certificare și rezervările pentru scufundări, apoi întrebările despre echipament și alertele PADI când sunteți gata. Nu mai lipsește o rezervare de grup îngropată sub buletinele informative de echipamente.",
-  "draftSubtitle": "Duet învață site-urile dvs. de scufundări, cerințele de certificare și prețurile. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Câți scafandri sunt rezervați pentru sâmbătă? „Elaborați un răspuns pentru Rachel cu disponibilitatea Open Water”. Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
+  "draftSubtitle": "Duet învață site-urile tale de scufundări, cerințele de certificare și prețurile. Când ajunge o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Câți scafandri sunt rezervați pentru sâmbătă? „Redactează un răspuns pentru Rachel cu disponibilitatea Open Water”. Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -104,7 +104,7 @@
     "originalText": "Hi! Vizitez în prima săptămână a lunii august și vreau să-mi iau certificatul Open Water. Câte zile durează și ce este inclus?",
     "lines": [
       "Hei Rachel!",
-      "Ne-ar plăcea să vă certificăm! Cursul PADI Open Water durează 3 zile - o sesiune de piscină și două scufundări în ocean pe reciful nostru. Toate echipamentele sunt incluse.",
+      "Ne-ar plăcea să te ajutăm să obții certificarea! Cursul PADI Open Water durează 3 zile - o sesiune de piscină și două scufundări în ocean pe reciful nostru. Toate echipamentele sunt incluse.",
       "August este larg deschis chiar acum. Majoritatea studenților încep luni, așa că termină miercuri.",
       "Vrei să rezerv un loc?"
     ],
@@ -118,9 +118,9 @@
   },
   "agent": {
     "userMessage": "Câți scafandri sunt rezervați pentru sâmbătă?",
-    "agentResponse": "Pe baza căsuței dvs. de e-mail, aveți 8 scafandri confirmați pentru scufundarea cu 2 rezervoare de sâmbătă dimineața — grupul lui Kevin de 6 plus 2 rezervări individuale. De asemenea, aveți o întrebare în așteptare de la Jason despre închirierea echipamentelor pentru aceeași călătorie. Vrei să redactez un răspuns?",
-    "followUp": "Scrieți un răspuns pentru Rachel cu detalii despre cursul Open Water",
-    "followUpResponse": "Făcut! I-am redactat un răspuns către Rachel, confirmând cursul PADI Open Water de 3 zile cu scufundări la piscină și ocean incluse. Menționează disponibilitatea în luna august și politica dvs. standard de echipament inclus. Gata de revizuire și de trimis."
+    "agentResponse": "Pe baza căsuței tale de e-mail, ai 8 scafandri confirmați pentru scufundarea cu 2 rezervoare de sâmbătă dimineața — grupul lui Kevin de 6 plus 2 rezervări individuale. De asemenea, ai o întrebare în așteptare de la Jason despre închirierea echipamentelor pentru aceeași călătorie. Vrei să redactez un răspuns?",
+    "followUp": "Scrie un răspuns pentru Rachel cu detalii despre cursul Open Water",
+    "followUpResponse": "Făcut! I-am redactat un răspuns către Rachel, confirmând cursul PADI Open Water de 3 zile cu scufundări la piscină și ocean incluse. Menționează disponibilitatea în luna august și politica ta standard de echipament inclus. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Iubit de operatorii de scufundări",
   "testimonials": [
@@ -155,16 +155,16 @@
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Petrece-ți zilele sub apă,\nnu este îngropat în căsuța dvs. de e-mail.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece-ți zilele sub apă,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Duet înțelege nivelurile de certificare și cerințele cursurilor?",
-      "answer": "Da. Duet învață cursurile dvs. specifice — Open Water, Advanced, Rescue, Divemaster — împreună cu cerințele preliminare, durata, prețul și ceea ce este inclus. Când cineva întreabă despre obținerea certificării, Duet redactează un răspuns cu detaliile cursului potrivite, programul și pașii următori. Tu revizuiești și trimiți."
+      "answer": "Da. Duet învață cursurile tale specifice — Open Water, Advanced, Rescue, Divemaster — împreună cu cerințele preliminare, durata, prețul și ceea ce este inclus. Când cineva întreabă despre obținerea certificării, Duet redactează un răspuns cu detaliile cursului potrivite, programul și pașii următori. Tu revizuiești și trimiți."
     },
     {
       "question": "Sunt pe barcă sau sub apă toată ziua. Pot folosi Duet de pe telefonul meu?",
-      "answer": "Da. Duet funcționează cu Gmail și Outlook, așa că funcționează oriunde funcționează e-mailul dvs., inclusiv telefonul. Ciornele apar automat în căsuța dvs. de e-mail. Între scufundări sau înapoi la andocare, revizuiți și trimiteți cu o singură atingere. Majoritatea operatorilor de scufundări ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
+      "answer": "Da. Duet funcționează cu Gmail și Outlook, așa că funcționează oriunde funcționează e-mailul tău, inclusiv telefonul. Ciornele apar automat în căsuța ta de e-mail. Între scufundări sau înapoi la andocare, revizuiești și trimiți cu o singură atingere. Majoritatea operatorilor de scufundări ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
     }
   ],
   "pricingNote": "La 150 USD/scufundare cu un grup de 6, o călătorie salvată plătește pentru peste un an de Pro."

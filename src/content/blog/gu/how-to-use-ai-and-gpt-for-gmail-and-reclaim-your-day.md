@@ -3,7 +3,7 @@ title: "Gmail માટે AI અને GPT નો ઉપયોગ કરીન�
 description: "ઈમેલ ઓવરલોડ પર કાબૂ મેળવવા Gmail માટે GPT નો ઉપયોગ કેવી રીતે કરવો તે જાણો. પ્રોડક્ટિવિટી વધારવા અને સમય બચાવવા ડ્રાફ્ટિંગ, સારાંશ અને ટ્રાયેજ માટે AI ટૂલ્સ અન્વેષો."
 publishedAt: 2025-06-10
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Email"]
+tags: ["AI", "Gmail", "ઉત્પાદકતા", "ઈમેઇલ"]
 draft: false
 ---
 

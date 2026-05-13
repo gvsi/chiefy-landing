@@ -1,9 +1,9 @@
 ---
-title: "Automatizējiet e-pastus Gmail un atgūstiet savu dienu: aizņemta Pro profesionāļa ceļvedis 2025. gadā"
+title: "Automatizējiet e-pastus Gmail un atgūstiet savu dienu: aizņemta profesionāļa ceļvedis 2025. gadā"
 description: "Beidz slīkt iesūtnē! Uzziniet, kā automatizēt e-pastus Gmail, izmantojot iebūvētās funkcijas, paplašinājumus un mākslīgā intelekta palīgus, lai ietaupītu laiku un palielinātu produktivitāti."
 publishedAt: 2025-11-16
 author: "Duet Mail Team"
-tags: ["Mākslīgais intelekts", "Gmail", "Proproduktivitāte", "Automatizācija"]
+tags: ["Mākslīgais intelekts", "Gmail", "Produktivitāte", "Automatizācija"]
 draft: false
 ---
 
@@ -21,9 +21,7 @@ Pirms pievērsties risinājumiem, aplūkosim problēmas kvantitāti. E-pasts nav
 
 - **Pārtraukumu nodoklis:** Mēs bieži pārbaudām savu e-pastu – daži aprēķini liecina [ik pēc 6 minūtēm](https://www.ppm.express/blog/checking-emails)! Katrs pārtraukums nav tikai īslaicīgs skatiens; ir nepieciešamas vidēji [23–25 minūtes](https://www.ppm.express/blog/checking-emails), lai pilnībā atgūtu koncentrēšanos uz sākotnējo uzdevumu.
 
-- **Zemas vērtības darbaspēks:** Ievērojama daļa no šī e-pasta laika tiek pavadīta mazas vērtības darbībām. Vienā pētījumā tika ierosināts, ka vidusmēra darbinieks [51% no savas darba dienas](https://lifehackmethod.com/blog/time-management-statistics/) pavada uzdevumiem ar nelielu ietekmi, un e-pasts ir galvenais iemesls.
-
-![Fotoattēls, kurā redzams redzami saspringts profesionālis, kurš sēž pie rakstāmgalda, kas sakrauts ar papīriem, un izskatās nomākts par datora ekrānā redzamajiem e-pastiem.](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Zemas vērtības darbaspēks:** Ievērojama daļa no šī e-pasta laika tiek pavadīta mazas vērtības darbībām. Vienā pētījumā tika ierosināts, ka vidusmēra darbinieks [51% no savas darba dienas](https://lifehackmethod.com/blog/time-management-statistics/) pavada uzdevumiem ar nelielu ietekmi, un e-pasts ir galvenais iemesls.![Fotoattēls, kurā redzams redzami saspringts profesionālis, kurš sēž pie rakstāmgalda, kas sakrauts ar papīriem, un izskatās nomākts par datora ekrānā redzamajiem e-pastiem.](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 E-pasta pārslodze ir galvenais stresa un produktivitātes zuduma avots aizņemtiem profesionāļiem.
 
@@ -51,11 +49,7 @@ Filtri ir jūsu pirmā aizsardzības līnija pret iesūtnes haosu. Tie automāti
 
 - Pārsūtīt to
 
-**Darba sākšana:** Gmail meklēšanas joslā noklikšķiniet uz iestatījumu ikonas (izskatās kā slīdņi), lai atvērtu meklēšanas opcijas. Ievadiet kritērijus, pārbaudiet meklēšanu, pēc tam noklikšķiniet uz “Izveidot filtru” un izvēlieties darbības. Detalizētas darbības skatiet Google oficiālajā rokasgrāmatā par [filtra noteikumu izveidi](https://support.google.com/mail/answer/6579?hl=en).
-
-
-
-![Ekrānuzņēmums, kurā redzams Gmail filtra izveides logs ar laukiem No, Kam, Tēma, Ir vārdi, kā arī opcijām, piemēram, Lietot etiķeti, Izlaist iesūtni.](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Darba sākšana:** Gmail meklēšanas joslā noklikšķiniet uz iestatījumu ikonas (izskatās kā slīdņi), lai atvērtu meklēšanas opcijas. Ievadiet kritērijus, pārbaudiet meklēšanu, pēc tam noklikšķiniet uz “Izveidot filtru” un izvēlieties darbības. Detalizētas darbības skatiet Google oficiālajā rokasgrāmatā par [filtra noteikumu izveidi](https://support.google.com/mail/answer/6579?hl=en).![Ekrānuzņēmums, kurā redzams Gmail filtra izveides logs ar laukiem No, Kam, Tēma, Ir vārdi, kā arī opcijām, piemēram, Lietot etiķeti, Izlaist iesūtni.](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Izmantojiet Gmail filtrus, lai automātiski kārtotu ienākošos e-pastus pēc tādiem kritērijiem kā sūtītājs vai atslēgvārdi.
 
@@ -65,9 +59,7 @@ Vai jums nākas atkārtoti rakstīt līdzīgas atbildes? Atbildēt uz bieži uzd
 
 **Kā tas darbojas:** Vispirms iespējojiet veidnes Gmail iestatījumos (\`Iestatījumi\` > \`Skatīt visus iestatījumus\` > \`Papildu\` > \`Veidnes\` > \`Iespējot\`). Pēc tam sastādiet veidnes e-pastu, noklikšķiniet uz trim punktiem rakstīšanas logā, dodieties uz \`Veidnes\` un \`Saglabāt melnrakstu kā veidni\`. Lai to izmantotu, noklikšķiniet uz trim punktiem jaunā e-pastā, dodieties uz \`Veidnes\` un atlasiet saglabāto veidni.
 
-Tas ievērojami ietaupa laiku un nodrošina konsekvenci jūsu ikdienas saziņā. Varat pat [apvienot filtrus un veidnes](https://hiverhq.com/blog/gmail-filters), lai automātiski nosūtītu sagatavotu atbildi, pamatojoties uz noteiktiem e-pasta kritērijiem!
-
-![Ekrānuzņēmums, kurā parādīts, kā ievietot saglabātu veidni (sagatavotu atbildi) Gmail rakstīšanas logā, izmantojot trīs punktu izvēlni.](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Tas ievērojami ietaupa laiku un nodrošina konsekvenci jūsu ikdienas saziņā. Varat pat [apvienot filtrus un veidnes](https://hiverhq.com/blog/gmail-filters), lai automātiski nosūtītu sagatavotu atbildi, pamatojoties uz noteiktiem e-pasta kritērijiem!![Ekrānuzņēmums, kurā parādīts, kā ievietot saglabātu veidni (sagatavotu atbildi) Gmail rakstīšanas logā, izmantojot trīs punktu izvēlni.](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Ietaupiet laiku, nerakstot atkārtotas atbildes, izmantojot Gmail veidnes (sagatavotas atbildes)
 
@@ -160,9 +152,7 @@ Saprātīga pieeja ir sākt ar 1. līmeni. Apgūstiet filtrus, etiķetes un veid
 
 E-pastam nav jābūt ikdienas baiļu avotam. Stratēģiski ieviešot automatizāciju — vai nu izmantojot Gmail iebūvētos rīkus, specializētos paplašinājumus vai sarežģītus mākslīgā intelekta palīgus —, jūs varat ievērojami samazināt laiku un garīgo enerģiju, kas tiek patērēta iesūtnes pārvaldībai. Jūs varat pāriet no reaktīvās ugunsgrēku dzēšanas uz proaktīvu kontroli, nodrošinot, ka svarīgi ziņojumi tiek pievērsti uzmanībai, vienlaikus samazinot uzmanības novēršanu.
 
-Mērķis nav tikai tukša iesūtne, bet gan koncentrētāka, produktīvāka un mazāk stresa pilna darba diena. Sāciet ar mazumiņu, eksperimentējiet ar rīkiem, kas vislabāk atbilst jūsu vajadzībām, un atgūstiet laiku darbam, kas patiešām ir svarīgs.
-
-![Fotoattēls, kurā redzams mierīgs profesionālis, kurš efektīvi strādā ar klēpjdatoru, viegli smaida un atrodas pie tīra galda.](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Mērķis nav tikai tukša iesūtne, bet gan koncentrētāka, produktīvāka un mazāk stresa pilna darba diena. Sāciet ar mazumiņu, eksperimentējiet ar rīkiem, kas vislabāk atbilst jūsu vajadzībām, un atgūstiet laiku darbam, kas patiešām ir svarīgs.![Fotoattēls, kurā redzams mierīgs profesionālis, kurš efektīvi strādā ar klēpjdatoru, viegli smaida un atrodas pie tīra galda.](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Atgūstiet savu laiku un samaziniet e-pasta radīto stresu, izmantojot efektīvu automatizāciju.
 

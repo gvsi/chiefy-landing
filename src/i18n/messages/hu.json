@@ -42,7 +42,7 @@
   "math.aria": "A befektetés megtérülése",
   "math.label": "A matek",
   "math.narrativeTemplate": "{pricePerBooking} per {bookingUnit}, csak {lostPerMonth} veszteség a lassú válaszok miatt =",
-  "math.lossSuffix": "/mo gone",
+  "math.lossSuffix": "/hó veszteség",
   "math.vs": "vs",
   "math.duetLabel": "Duett",
   "math.duetPrice": "$30/mo",

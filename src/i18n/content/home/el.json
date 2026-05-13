@@ -217,34 +217,34 @@
     "badge": "Σύνταξη",
     "title": "Duet προσχέδια στη φωνή σας",
     "subtitle": "Το Duet μαθαίνει πώς γράφετε και συντάσσει απαντήσεις που ταιριάζουν με τον τόνο σας. Ελέγξτε, προσαρμόστε εάν χρειάζεται και στείλτε το σε δευτερόλεπτα.",
-    "windowTitle": "Νέο Μήνυμα",
+    "windowTitle": "Νέο μήνυμα",
     "fieldLabels": {
-      "to": "Να:",
+      "to": "Προς:",
       "subject": "Θέμα:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Απ.: Γρήγορη συνάντηση αυτή την εβδομάδα;",
+      "originalFrom": "Ο Alex Rivera έγραψε:",
+      "originalText": "Γεια! Θα ήθελα να συζητήσουμε τις αλλαγές στον οδικό χάρτη. Έχετε χρόνο για μια κλήση 30 λεπτών αυτή την εβδομάδα; Πείτε μου τι σας βολεύει.",
+      "badge": "Αυτόματο προσχέδιο",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Γεια σου Alex!",
+        "Θα χαρώ να συζητήσουμε τον οδικό χάρτη. Είμαι διαθέσιμος την Πέμπτη 14:00-16:00 ή την Παρασκευή το πρωί — και τα δύο με βολεύουν.",
+        "Πείτε μου τι σας ταιριάζει καλύτερα και θα στείλω πρόσκληση.",
+        "Ευχαριστώ!"
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Είμαι διαθέσιμος την Πέμπτη 14:00-16:00 ή την Παρασκευή το πρωί",
       "actions": [
-        "Send",
-        "Edit"
+        "Αποστολή",
+        "Επεξεργασία"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Εξατομικευμένο προσχέδιο",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Γνωρίζει το ημερολόγιό σας",
+        "Συντάσσει στη δική σας φωνή",
+        "Γνωρίζει το πλαίσιο μέσω μνήμης",
+        "Μαθαίνει με τον χρόνο"
       ]
     }
   },
@@ -364,7 +364,7 @@
     "billingAnnual": "Ετήσιος",
     "billingMonthly": "Μηνιαίος",
     "savingsTag": "Εξοικονομήστε 33%",
-    "priceCadence": "/month",
+    "priceCadence": "/μήνα",
     "perUserSuffix": "/user",
     "annualBillingSuffix": "(τιμολογείται ετησίως)",
     "trustItems": [
@@ -375,7 +375,7 @@
       {
         "name": "Βασικός",
         "description": "Για όποιον ενδιαφέρεται για το πώς είναι ένα πιο έξυπνο inbox. Δεν απαιτείται δέσμευση.",
-        "priceLabel": "Free",
+        "priceLabel": "Δωρεάν",
         "features": [
           {
             "title": "Άμεσες περιλήψεις",
@@ -398,7 +398,7 @@
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
+        "badge": "Δωρεάν δοκιμή 14 ημερών",
         "description": "Για επαγγελματίες που θέλουν βαθύτερο αυτοματισμό, ενσωματώσεις και εισερχόμενα που να γνωρίζουν πραγματικά πώς εργάζεστε.",
         "priceByBilling": {
           "annual": "19.99",
@@ -514,7 +514,7 @@
     "subline": "Ελάτε στους επαγγελματίες που ξεκινούν τη μέρα τους με σαφήνεια και όχι με χάος. Η δωρεάν δοκιμή σας περιμένει.",
     "primaryCta": "Ξεκινήστε με το Gmail",
     "secondaryCta": "Ξεκινήστε με το Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "note": "Δωρεάν δοκιμή 14 ημερών · Ακύρωση ανά πάσα στιγμή",
     "trustItems": [
       "Google αξιολόγηση CASA",
       "Κρυπτογραφημένο σε κατάσταση ηρεμίας",

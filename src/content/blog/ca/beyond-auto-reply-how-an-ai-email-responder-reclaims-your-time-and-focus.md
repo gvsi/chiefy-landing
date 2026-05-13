@@ -1,9 +1,9 @@
 ---
-title: "Més enllà de la resposta automàtica: com un contestador de correu electrònic AI reclama el vostre temps i enfocament\n"
-description: "Ofegar-se als correus electrònics? Descobriu com la moderna resposta de correu electrònic AI transforma la vostra safata d'entrada d'una font d'estrès a un motor de productivitat. Gestioneu la sobrecàrrega avui\n"
+title: "Més enllà de la resposta automàtica: com un contestador de correu electrònic AI reclama el vostre temps i enfocament"
+description: "Ofegar-se als correus electrònics? Descobriu com la moderna resposta de correu electrònic AI transforma la vostra safata d'entrada d'una font d'estrès a un motor de productivitat. Gestioneu la sobrecàrrega avui"
 publishedAt: 2025-04-26
 author: "Duet Mail Team"
-tags: ["AI","Productivitat\n","Redacció de correu electrònic"]
+tags: ["AI","Productivitat","Redacció de correu electrònic"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Odkrywając funkcje podsumowywania w Gmailu"
 description: "Masz dość nadmiaru maili? Poznaj funkcje podsumowywania w Gmailu oparte na Gemini, zrozum ich zalety i wady oraz sprawdź, czy to wystarczy."
 publishedAt: 2025-09-26
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Email Summarization"]
+tags: ["AI", "Gmail", "Podsumowywanie e-maili"]
 draft: false
 ---
 

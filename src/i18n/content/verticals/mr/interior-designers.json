@@ -10,40 +10,40 @@
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "स्वयंपाकघराचे नूतनीकरण — प्राथमिक सल्लामसलत?",
+      "preview": "नमस्कार! आम्ही नुकतेच Westlake मध्ये एक घर विकत घेतले आहे आणि आम्हाला स्वयंपाकघर पूर्णपणे नव्याने बनवायचे आहे. तुम्ही नवीन प्रकल्प हाती घेत आहात का? तुमची कार्यपद्धती कशी असते?",
+      "pill": "प्रतिसाद देण्यासाठी",
       "pillColor": "red"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "टोनीज टाइल अँड स्टोन",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "विषय: बॅकस्प्लॅश टाइलच्या वितरणासाठी लागणाऱ्या वेळेबद्दल अद्ययावत माहिती",
+      "preview": "वेअरहाऊसकडून नुकताच प्रतिसाद मिळाला आहे — कॅलाकट्टा हेक्स टाइलसाठी ३ आठवड्यांचा बॅकऑर्डर आहे. तुमची ऑर्डर मी राखून ठेवू का किंवा पर्यायी व्यवस्था पाहू का...",
+      "pill": "विक्रेता ऑर्डर",
       "pillColor": "amber"
     },
     {
-      "from": "Mark L. — Electrician",
+      "from": "मार्क एल. — इलेक्ट्रीशियन",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "वायरिंग पूर्ण झाले आहे — फिक्स्चर बसवण्यासाठी तयार आहे.",
+      "preview": "मास्टर बेडरूम आणि लिव्हिंग रूममधील सर्व प्राथमिक वायरिंग पूर्ण झाले आहे. तुमच्या मागणीनुसार स्कोन्स आणि झुंबर बसवण्यासाठी आम्ही तयार आहोत...",
+      "pill": "कंत्राटदार",
       "pillColor": "blue"
     },
     {
-      "from": "Karen & Steve W.",
+      "from": "कॅरेन आणि स्टीव्ह डब्ल्यू.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "फॅब्रिकच्या नमुन्यांबद्दल तुमचे काय मत आहे?",
+      "preview": "तुम्ही दिलेले कापडाचे तीन पर्याय आम्ही पाहिले आणि आमचा कल 'ओटमील' रंगाच्या लिननकडे आहे, पण ते भिंतीच्या रंगासोबत कसे दिसते हे आम्हाला बघायचे आहे...",
+      "pill": "क्लायंटची मंजुरी",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "नमस्कार! मला तुमच्या किचनबद्दल अधिक जाणून घ्यायला आवडेल. मी सध्या पुढील महिन्यासाठी सल्लामसलतीची वेळ निश्चित करत आहे. माझ्या प्रक्रियेची सुरुवात घरी येऊन भेट देण्याने होते, जिथे आपण तुमची संकल्पना, बजेट आणि वेळेची मर्यादा यावर चर्चा करतो — त्यानंतर मी साहित्याच्या निवडीसह एक डिझाइन संकल्पना तयार करते. घरी भेटण्याची वेळ ठरवू इच्छिता का?",
   "math": {
     "pricePerBooking": "$10,000",
     "bookingUnit": "project",
@@ -59,51 +59,51 @@
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "स्वयंपाकघराचे नूतनीकरण — प्राथमिक सल्लामसलत?",
+      "preview": "आम्ही नुकतंच घर विकत घेतलं आहे आणि आम्हाला स्वयंपाकघर नव्याने बनवायचं आहे...",
+      "pill": "नवीन चौकशी",
       "pillColor": "red"
     },
     {
-      "from": "Karen W.",
+      "from": "कॅरेन डब्ल्यू.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "विषय: कापडाचे नमुने — ओटमील लिनन निवडणार आहे",
+      "pill": "क्लायंटची मंजुरी",
       "pillColor": "blue"
     },
     {
-      "from": "Mark L.",
+      "from": "मार्क एल.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "वायरिंग पूर्ण झाले आहे — फिक्स्चर बसवण्यासाठी तयार आहे.",
+      "pill": "कंत्राटदार",
       "pillColor": "amber"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "टोनीज टाइल अँड स्टोन",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "ऑर्डर #४८२१ पाठवण्यात आली आहे — गुरुवारी डिलिव्हरी होईल.",
+      "pill": "विक्रेता ऑर्डर",
       "pillColor": "lavender"
     },
     {
-      "from": "Design Within Reach",
+      "from": "आवाक्यात डिझाइन",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "व्यापार कार्यक्रम — वसंतकालीन बचत कार्यक्रम",
+      "pill": "Pro हालचाली",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "Re: स्वयंपाकघराचे नूतनीकरण — प्राथमिक सल्लामसलत?",
+    "originalFrom": "Rachel T. ने लिहिले:",
+    "originalText": "नमस्कार! आम्ही नुकतेच Westlake मध्ये एक घर विकत घेतले आहे आणि आम्हाला स्वयंपाकघर पूर्णपणे नव्याने बनवायचे आहे. तुम्ही नवीन प्रकल्प हाती घेत आहात का? तुमची कार्यपद्धती कशी असते?",
     "lines": [
-      "Hi Rachel!",
+      "हाय Rachel!",
       "नवीन घराबद्दल अभिनंदन! तुमच्या स्वयंपाकघरात मदत करण्यास मला आनंद होईल. मी सध्या पुढच्या महिन्यासाठी सल्लामसलती बुक करत आहे.",
       "माझी प्रक्रिया तुमची दृष्टी, बजेट, आणि वेळापत्रक समजून घेण्यासाठी प्रत्यक्ष घरभेटीपासून सुरू होते. त्यानंतर मी साहित्य निवडींसह आणि सविस्तर प्रस्तावासह एक डिझाइन संकल्पना तयार करते.",
       "घरात भेटण्यासाठी वेळ ठरवूया का?"
@@ -125,31 +125,31 @@
   "testimonialsTitle": "इंटिरियर डिझायनर्सना आवडलेले",
   "testimonials": [
     {
-      "name": "Michael R.",
+      "name": "मायकल आर.",
       "title": "मुख्य डिझायनर, Austin TX",
       "quote": "मी रोज 6 तास साइटवर पेंटर्स, इलेक्ट्रिशियन्स, आणि टाइल इन्स्टॉलर्सचे समन्वय करत असतो. त्याच वेळी आणखी तीन क्लायंट त्यांच्या प्रकल्पांबद्दल ईमेल करत असतात. Duet योग्य प्रकल्प तपशीलांसह प्रतिसादांचे मसुदे तयार करतो — मी फक्त साइट भेटींच्या मध्ये पाहतो.",
       "avatarKey": "michael"
     },
     {
-      "name": "Francesca D.",
+      "name": "फ्रान्सिस्का डी.",
       "title": "निवासी इंटिरियर डिझायनर, Chicago",
       "quote": "मी procurement ईमेल्स आणि कंत्राटदार वेळापत्रकात अडकलेली असल्यामुळे क्लायंट चौकशा कधी कधी दिवसन्‌दिवस पडून राहत असत. आता Duet माझी प्रक्रिया आणि उपलब्धता वापरून काही मिनिटांत नवीन leads ला प्रतिसाद देतो. या तिमाहीत मी 4 अतिरिक्त प्रकल्प मिळवले आहेत.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Johnny M.",
+      "name": "जॉनी एम.",
       "title": "डिझाइन स्टुडिओ मालक, Nashville",
       "quote": "12 सक्रिय प्रकल्पांचे ईमेल हाताळणे मला खूप त्रासदायक होत होते. Duet सर्वकाही वर्गीकृत करतो — नवीन चौकशी, प्रलंबित मंजुरी, विक्रेता ऑर्डर्स, कंत्राटदार अद्यतने — त्यामुळे प्रथम माझ्या लक्षात नेमके काय असायला हवे ते मला समजते.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer S.",
+      "name": "जेनिफर एस.",
       "title": "इंटिरियर डेकोरेटर, San Diego",
       "quote": "इन्स्टॉल आठवड्यांमध्ये मी पुरेसा वेगाने प्रतिसाद देऊ शकत नव्हते, त्यामुळे संभाव्य क्लायंट गमावत होते. Duet ने माझी सल्लामसलत प्रक्रिया, किंमत रचना, अगदी मी माझ्या डिझाइन शैलीचे वर्णन कसे करते तेही शिकले. क्लायंटना हे AI-सहाय्यित आहे याची कल्पनाही नाही.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sarah K.",
+      "name": "सारा के.",
       "title": "व्यावसायिक इंटिरियर डिझायनर, Denver",
       "quote": "विक्रेता lead times, कंत्राटदार वेळापत्रके, आणि क्लायंट दुरुस्ती विनंत्यांच्या मध्ये माझा इनबॉक्स पूर्ण गोंधळलेला होता. Duet ते सर्व क्रमबद्ध करतो आणि प्रलंबित मंजुरींसाठी फॉलो-अपचे मसुदे तयार करतो. तो कधीही न झोपणाऱ्या प्रकल्प समन्वयकासारखा आहे.",
       "avatarKey": "sarah"

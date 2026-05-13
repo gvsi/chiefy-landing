@@ -34,12 +34,12 @@
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "ট্রিপঅ্যাডভাইজার",
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকার জন্য নতুন পর্যালোচনা",
       "preview": "একজন ভ্রমণকারী সম্প্রতি আপনার ব্যবসা পর্যালোচনা করেছেন৷ দেখুন তারা কি বলে এবং প্রতিক্রিয়া জানায়...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -85,7 +85,7 @@
       "avatarLetter": "F",
       "avatarColor": "lavender",
       "subject": "আপনার সাপ্তাহিক বুকিং সারাংশ",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: ১২ই জুলাই ৪ জনের জন্য উপলব্ধতা আছে কি?",
+    "originalFrom": "সারাহ এম. লিখেছেন:",
+    "originalText": "হ্যালো! আমরা চারজনের একটি দল ১২ই জুলাই একটি মাছ ধরার ট্রিপ বুক করতে চাই। আপনাদের কি জায়গা খালি আছে? পুরো দিনের জন্য ভাড়া কত?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "হে সারাহ!",
+      "১২ই জুলাই ৪ জনের জন্য উন্মুক্ত। পূর্ণ-দিবসের ট্রিপের খরচ ৫০০ ডলার এবং এটি মেরিনা থেকে সকাল ৬টায় শুরু হয়ে ৮ ঘণ্টা ধরে চলে।",
+      "সমস্ত সরঞ্জাম, টোপ এবং মাছ ধরার লাইসেন্স অন্তর্ভুক্ত — শুধু সানস্ক্রিন ও একটি কুলার নিয়ে আসুন।",
+      "আমি কি এটা আটকে দেব?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "১২ই জুলাই ৪ জনের জন্য উন্মুক্ত। সারাদিনের ভ্রমণের খরচ ৫০০ ডলার।",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "আপনার মূল্য এবং প্রাপ্যতা সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "ভ্রমণের বিবরণ স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

@@ -35,9 +35,7 @@ Kai keli komandos nariai dirba tame pačiame bendrame pašto dėžutės adrese, 
 
 ### Duomenų aklumas: darbas be veiklos matomumo
 
-Kaip pagerinti el. pašto pagalbą, jei nežinote, kas veikia, o kas ne? Bazinės el. pašto sistemos beveik arba visai nesuteikia matomumo į svarbius rodiklius, tokius kaip atsakymo laikas, išsprendimo rodikliai ar agentų produktyvumas. Be duomenų kliūčių nustatymas, dažnų klientų skausmo taškų supratimas arba pagalbos pastangų veiksmingumo matavimas tampa spėlionėmis. Iš esmės skrendate aklai ir negalite priimti informuotų sprendimų našumui optimizuoti.
-
-![Skydelis, rodantis klientų aptarnavimo rodiklius su raudonu įspėjimu apie vidutinį el. pašto atsakymo laiką, nurodantį neefektyvumą](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+Kaip pagerinti el. pašto pagalbą, jei nežinote, kas veikia, o kas ne? Bazinės el. pašto sistemos beveik arba visai nesuteikia matomumo į svarbius rodiklius, tokius kaip atsakymo laikas, išsprendimo rodikliai ar agentų produktyvumas. Be duomenų kliūčių nustatymas, dažnų klientų skausmo taškų supratimas arba pagalbos pastangų veiksmingumo matavimas tampa spėlionėmis. Iš esmės skrendate aklai ir negalite priimti informuotų sprendimų našumui optimizuoti.![Skydelis, rodantis klientų aptarnavimo rodiklius su raudonu įspėjimu apie vidutinį el. pašto atsakymo laiką, nurodantį neefektyvumą](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 Lėti el. pašto atsakymai tiesiogiai veikia klientų pasitenkinimą ir gali lemti prarastą verslą.
 
@@ -191,9 +189,7 @@ Tinkamos programinės įrangos pasirinkimas yra tik pusė darbo. Tai, kaip ją �
 
 - **Prioritetizuokite duomenų privatumą ir saugumą:** Rinkitės programinę įrangą su tvirtomis saugumo funkcijomis. Įgyvendinkite griežtą prieigos kontrolę jautriems klientų duomenims apsaugoti. Užtikrinkite atitiktį aktualiems duomenų privatumo reglamentams, tokiems kaip GDPR ir CCPA. Būkite skaidrūs su klientais, kaip naudojami jų duomenys, ypač kai įtraukiamas DI.
 
-- **Nuolat tobulėkite:** Reguliariai peržiūrėkite našumo analitiką, kad atpažintumėte tendencijas ir kliūtis. Aktyviai prašykite ir analizuokite klientų grįžtamąjį ryšį per apklausas ar tiesioginius prašymus. Šias įžvalgas naudokite nuolat tobulindami darbo eigas, automatizavimo taisykles, šabloninius atsakymus ir agentų mokymo programas.
-
-  ![Klientų aptarnavimo agentas naudoja programinę įrangą su DI pasiūlymais, kad parengtų suasmenintą ir empatišką el. laiško atsakymą](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+- **Nuolat tobulėkite:** Reguliariai peržiūrėkite našumo analitiką, kad atpažintumėte tendencijas ir kliūtis. Aktyviai prašykite ir analizuokite klientų grįžtamąjį ryšį per apklausas ar tiesioginius prašymus. Šias įžvalgas naudokite nuolat tobulindami darbo eigas, automatizavimo taisykles, šabloninius atsakymus ir agentų mokymo programas.![Klientų aptarnavimo agentas naudoja programinę įrangą su DI pasiūlymais, kad parengtų suasmenintą ir empatišką el. laiško atsakymą](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 DI efektyvumo ir žmogaus empatijos pusiausvyra yra raktas į išskirtinį klientų aptarnavimą.
 

@@ -1,9 +1,9 @@
 ---
-title: "Augmenta el teu flux de treball: les millors extensions empresarials Gmail per a una productivitat màxima el 2025\n"
+title: "Augmenta el teu flux de treball: les millors extensions empresarials Gmail per a una productivitat màxima el 2025"
 description: "Descobriu les millors extensions empresarials Gmail del 2025 per a productivitat, CRM, assistència AI i molt més. Recupera el teu temps!"
 publishedAt: 2025-06-30
 author: "Duet Mail Team"
-tags: ["AI","Gmail","Productivitat\n","Eines"]
+tags: ["AI","Gmail","Productivitat","Eines"]
 draft: false
 ---
 

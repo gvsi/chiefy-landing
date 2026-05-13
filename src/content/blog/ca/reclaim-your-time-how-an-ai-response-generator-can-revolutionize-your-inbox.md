@@ -1,9 +1,9 @@
 ---
-title: "Recupereu el vostre temps: com un generador de respostes AI pot revolucionar la vostra safata d'entrada\n"
+title: "Recupereu el vostre temps: com un generador de respostes AI pot revolucionar la vostra safata d'entrada"
 description: "Ofegar-se als correus electrònics? Descobriu com un generador de respostes AI estalvia hores, augmenta la productivitat i ajuda els professionals ocupats a escriure respostes millor i més ràpides"
 publishedAt: 2025-12-24
 author: "Duet Mail Team"
-tags: ["AI","Productivitat\n","Gestió de la safata d'entrada","Correu electrònic"]
+tags: ["AI","Productivitat","Gestió de la safata d'entrada","Correu electrònic"]
 draft: false
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "Trobar les millors alternatives de Superhuman per a la productivitat de correu electrònic impulsada per AI el 2025\n"
-description: "Cansat del preu de Superhuman? Exploreu les millors alternatives Superhuman alimentades amb AI el 2025 per a un triatge, redacció i productivitat de correu electrònic més intel·ligents. Troba el teu ajust!\n"
+title: "Trobar les millors alternatives de Superhuman per a la productivitat de correu electrònic impulsada per AI el 2025"
+description: "Cansat del preu de Superhuman? Exploreu les millors alternatives Superhuman alimentades amb AI el 2025 per a un triatge, redacció i productivitat de correu electrònic més intel·ligents. Troba el teu ajust!"
 publishedAt: 2025-05-20
 author: "Duet Mail Team"
-tags: ["AI","Productivitat\n","Eines","Correu electrònic"]
+tags: ["AI","Productivitat","Eines","Correu electrònic"]
 draft: false
 ---
 

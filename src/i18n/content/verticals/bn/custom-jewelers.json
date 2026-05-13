@@ -39,7 +39,7 @@
       "avatarColor": "lavender",
       "subject": "আপনার দোকানের সামনে নতুন পর্যালোচনা",
       "preview": "এক দম্পতি সম্প্রতি দ্য নট-এ আপনার ব্যবসা পর্যালোচনা করেছেন। দেখুন তারা কি বলে এবং প্রতিক্রিয়া জানায়...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "Re: কাস্টম এনগেজমেন্ট রিং সংক্রান্ত পরামর্শ?",
+    "originalFrom": "Rachel T. লিখেছেন:",
+    "originalText": "হ্যালো! আমি এবং আমার সঙ্গী একটি নিজেদের পছন্দমতো বাগদানের আংটি বানাতে আগ্রহী। আমাদের পারিবারিক উত্তরাধিকার সূত্রে পাওয়া একটি হীরা আছে, যা আমরা ব্যবহার করতে চাই। এই মাসে আলোচনার জন্য আপনার কি কোনো সময় আছে?",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "হাই Rachel!",
+      "আপনার পারিবারিক হীরাটিকে কেন্দ্র করে বিশেষ কিছু ডিজাইন করতে আমি আপনাকে সাহায্য করতে পারলে আনন্দিত হব। এই মাসে মঙ্গলবার ও বৃহস্পতিবার বিকেলে আমার কাছে সময় খালি আছে।",
+      "পাথরটি এবং অনুপ্রেরণামূলক যেকোনো ছবি নিয়ে আসুন — বোর্ড, স্ক্রিনশট, যেকোনো কিছুই কাজে আসবে। পরামর্শ পর্বটি প্রায় এক ঘণ্টা ধরে চলে এবং এর জন্য কোনো বাধ্যবাধকতা নেই।",
+      "এরপর প্রক্রিয়াটি সাধারণত এরকম: স্কেচ, থ্রিডি মডেল, সংশোধন, এবং তারপর উৎপাদনে ৩-৪ সপ্তাহ। আমি কি আপনার জন্য একটি সময় ধরে রাখব?"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "স্কেচ, থ্রিডি মডেল, সংশোধন, তারপর উৎপাদনে ৩-৪ সপ্তাহ।",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "আপনার প্রক্রিয়া ও সময়সীমা জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "পরামর্শের বিবরণ স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

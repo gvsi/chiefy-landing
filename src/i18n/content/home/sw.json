@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "rasimu",
+        "action": "draft",
         "label": "Rasimu ya jibu"
       },
       {
-        "action": "kalenda",
+        "action": "calendar",
         "label": "Tafuta muda wa kukutana"
       }
     ],
@@ -364,8 +364,8 @@
     "billingAnnual": "Mwaka",
     "billingMonthly": "Kila mwezi",
     "savingsTag": "Okoa 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/mwezi",
+    "perUserSuffix": "/mtumiaji",
     "annualBillingSuffix": "(hutozwa kila mwaka)",
     "trustItems": [
       "Malipo salama kupitia Stripe",
@@ -375,7 +375,7 @@
       {
         "name": "Msingi",
         "description": "Kwa yeyote anayetaka kujua jinsi kikasha bora zaidi kinavyohisi. Hakuna ahadi inayohitajika.",
-        "priceLabel": "Free",
+        "priceLabel": "Bila malipo",
         "features": [
           {
             "title": "Muhtasari wa Papo Hapo",
@@ -386,7 +386,7 @@
             "description": "Ladha ya majibu katika sauti yako"
           },
           {
-            "title": "Smart Inbox",
+            "title": "Kikasha mahiri",
             "description": "Shirika la msingi la kuanza"
           },
           {
@@ -406,7 +406,7 @@
         },
         "features": [
           {
-            "title": "Smart Inbox",
+            "title": "Kikasha mahiri",
             "description": "Barua pepe zimepangwa kiotomatiki katika kategoria mahiri",
             "highlight": true
           },
@@ -623,7 +623,7 @@
     "ariaLabel": "Kurudi kwenye uwekezaji",
     "label": "Hisabati",
     "narrativeTemplate": "Kwa {pricePerBooking} kwa {bookingUnit}, ikipoteza tu {lostPerMonth} kutoa majibu polepole =",
-    "lossSuffix": "/mo amekwenda",
+    "lossSuffix": "/mwezi zimepotea",
     "dividerLabel": "dhidi ya",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"

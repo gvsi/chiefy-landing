@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ቲ ጻፈ፡-",
     "originalText": "ሰላም! ቅዳሜና እሁድን የሚጎበኙ 6 ጓደኞች ቡድን አለኝ። ቅዳሜ ጥዋት የቡድን ሰርፍ ትምህርት ማግኘት አለህ? ዋጋው ስንት ነው?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "ሰላም Rachel!",
+      "ቅዳሜ ጠዋት ለ6 ሰዎች ሙሉ በሙሉ ክፍት ነው። የቡድን ትምህርቶች $90/ሰው ናቸው እና ከ9 AM ጀምሮ በዋናው ዳርቻ 2 ሰዓት ይቆያሉ።",
+      "ቦርዶች፣ wetsuits እና rash guards ሁሉም ተካትተዋል — የፀሐይ መከላከያ፣ ውሃ እና ፎጣ ብቻ ይዘው ይምጡ። ልምድ አያስፈልግም።",
+      "ቡድንዎን እንዳስይዝ?"
     ],
     "highlightText": "ቅዳሜ ጥዋት ለ 6 ሰፊ ክፍት ነው. የቡድን ትምህርቶች $ 90 / ሰው ናቸው",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "የትምህርት አይነቶችዎን እና ዋጋዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የሚቀርበውን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

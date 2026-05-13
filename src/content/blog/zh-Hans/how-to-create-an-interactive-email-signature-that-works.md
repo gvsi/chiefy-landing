@@ -27,7 +27,7 @@ draft: false
 
 目标？让接收者能够轻松地采取下一步，无论是什么。对于自由职业者和小团队来说，好处是显而易见的：
 
-- **增强Pro专业精神和可信度：** 精心设计的签名表明对细节的关注并建立信任。 [一致的品牌提升可信度](https://quickmail.com/role-of-email-signatures-in-brand-awareness)。
+- **增强专业精神和可信度：** 精心设计的签名表明对细节的关注并建立信任。 [一致的品牌提升可信度](https://quickmail.com/role-of-email-signatures-in-brand-awareness)。
 
 - **提高品牌知名度：** 每封电子邮件都通过徽标和一致的样式强化您的品牌形象。 [一致的品牌展示可以显着增加收入](https://exclaimer.com/zh-Hans/blog/maximizing-marketing-roi-personalized-email-signatures/)。
 
@@ -41,7 +41,7 @@ draft: false
 
 并非所有交互元素都是一样的。以下是一些经过验证的自由职业者和初创公司的赢家：
 
-- **基本联系信息（可点击！）：** 让您的电话号码 (\`⟦1⟧) and email address (\`mailto:\`) 可点击，以实现无缝移动交互。
+- **基本联系信息（可点击！）：** 让您的电话号码 (\`tel:\`) 和电子邮件地址 (\`mailto:\`) 可点击，以实现无缝移动交互。
 
 - **网站/作品集链接：** 直接链接到您的主网站，或者更好的是，您的作品集是不可协商的。
 

@@ -3,7 +3,7 @@ title: "तुमच्या इनबॉक्समधील गोंधळ�
 description: "Gmail मधील गोंधळाने कंटाळला आहात? 2025 साठी सर्वोत्तम मोफत Gmail संघटन प्लगिन्स शोधा, ज्याद्वारे ईमेल ओव्हरलोड हाताळता येईल, वर्कफ्लो दृश्यरूपात पाहता येईल आणि उत्पादकता वाढवता येईल."
 publishedAt: 2025-07-27
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Inbox Management"]
+tags: ["AI", "Gmail", "उत्पादकता", "इनबॉक्स व्यवस्थापन"]
 draft: false
 ---
 

@@ -57,7 +57,7 @@ Behovet for værktøjer som AI-responsgeneratorer er ikke drevet af hype; det er
 
 **Skala forProblem:**
 
-Alene antallet af e-mails, der flyver rundt, er forbløffende.Projektions anslår, at [over 376 milliarder e-mails](https://prosperitymedia.com.au/how-many-emails-are-sent-per-day-in-2025/) vil blive sendt og modtaget _dagligt_ på verdensplan i 2025. For den enkelte professionelle oversættes dette til det skræmmende tal på [omkring 121 e-mails, der lander i deres indbakke hver dag](<<2<>DUET)
+Alene antallet af e-mails, der flyver rundt, er forbløffende. Prognoser anslår, at [over 376 milliarder e-mails](https://prosperitymedia.com.au/how-many-emails-are-sent-per-day-in-2025/) vil blive sendt og modtaget _dagligt_ på verdensplan i 2025. For den enkelte professionelle oversættes dette til det skræmmende tal på [omkring 121 e-mails, der lander i deres indbakke hver dag](https://www.dragapp.com/blog/email-statistics/).
 
 **Indvirkningen påProduktivitet:**
 
@@ -77,7 +77,7 @@ Dette er ofte den mest umiddelbare og virkningsfulde fordel. Ved at automatisere
 
 - Undersøgelser, der involverede kundesupportagenter, viste, at adgang til AI-assistance [forøgede produktiviteten med i gennemsnit 14 %](https://www.cfodive.com/news/ai-boosts-productivity-nber-case-study-generative-workforce/649110/), målt på problemer løst pr. time.
 
-- Virksomheder, der implementerer værktøjer somMicrosoft365 Copilot, har rapporteret betydelige tidsbesparelser. For eksempel sparede [Campari Group-medarbejdere omkring to timer om ugen](https://blogs.microsoft.com/blog/2025/03/10/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/), og SPAR anslåede besparelser svarende til produktionen af ​​fire fuldtidsansatte.
+- Virksomheder, der implementerer værktøjer som Microsoft 365 Copilot, har rapporteret betydelige tidsbesparelser. For eksempel sparede [Campari Group-medarbejdere omkring to timer om ugen](https://blogs.microsoft.com/blog/2025/03/10/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/), og SPAR anslåede besparelser svarende til produktionen af ​​fire fuldtidsansatte.
 
 Forestil dig, hvad du kunne gøre med et ekstra par timer tilbage hver uge.
 
@@ -127,7 +127,7 @@ At give et AI-værktøj adgang til din indbakke involverer i sagens natur tillid
 
 - **Kryptering:** Data bør krypteres både under transport og i hvile.
 
-- **Datakontrol:** Politikker, der angiver, at dine data ikke bruges til at træne grundlæggende AI-modeller (som hævdet af [Microsoftfor Copilot](https://www.microsoft.com/en-us/microsoft-365/outlook/ai-email-assistant)). Se efter brugerkontroller og fravalgsmuligheder.
+- **Datakontrol:** Politikker, der angiver, at dine data ikke bruges til at træne grundlæggende AI-modeller (som hævdet af [Microsoft for Copilot](https://www.microsoft.com/en-us/microsoft-365/outlook/ai-email-assistant)). Se efter brugerkontroller og fravalgsmuligheder.
 
 - **Overholdelse:** Overholdelse af standarder somGDPR,SOC 2.
 
@@ -147,11 +147,11 @@ Markedet for AI-e-mail-værktøjer vokser hurtigt. Hvordan vælger du den rigtig
 
 **Integration & Workflow:** Overvej, hvordan værktøjet passer ind i dit eksisterende workflow.
 
-- **Integrerede assistenter:** Værktøjer, der fungerer direkte i din e-mailklient (f.eks. som en Chrome-udvidelse tilGmaileller etOutlooktilføjelsesprogram) tilbyder problemfrihed og reducerer kontekstskift. De har ofte bedre adgang til e-mail-trådskontekst.
+- **Integrerede assistenter:** Værktøjer, der fungerer direkte i din e-mailklient (f.eks. som en Chrome-udvidelse til Gmail eller et Outlook tilføjelsesprogram) tilbyder problemfrihed og reducerer kontekstskift. De har ofte bedre adgang til e-mail-trådskontekst.
 
 - **Fristående apps:** Disse tilbyder muligvis bredere funktioner, men kan kræve kopiering/indsættelse eller arbejde i et separat vindue, hvilket potentielt forstyrrer flowet, medmindre de har fremragende browserintegration.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Skærmbillede, der viser et eksempel på en AI-e-mail-assistent integreret iGmail-grænsefladen, der giver forslag., caption:Integrerede AI-assistenter arbejder direkte i din eksisterende e-mail-klient for at få en mere jævn arbejdsgang.]
+\[url:placeholder_screenshot_integrated_ai; alt_text:Skærmbillede, der viser et eksempel på en AI-e-mail-assistent integreret i Gmail-grænsefladen, der giver forslag., caption:Integrerede AI-assistenter arbejder direkte i din eksisterende e-mail-klient for at få en mere jævn arbejdsgang.]
 
 **Tjekliste for nøglefunktioner:** Evaluer værktøjer baseret på de funktioner, der er vigtigst for dig:
 

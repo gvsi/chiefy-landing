@@ -103,17 +103,17 @@
     "originalFrom": "ጄሲካ ቲ. እንዲህ በማለት ጽፋለች:",
     "originalText": "ሰላም! እኛ የ6 ቤተሰብ ነን (2 ጎልማሶች፣ 4 እድሜያቸው ከ8-14 የሆኑ ልጆች) እና ዛሬ ቅዳሜ ጥዋት የዱካ ግልቢያ ቦታ መያዝ እንፈልጋለን። ተደራሽነት አለህ? ለአንድ ሰው ዋጋው ስንት ነው?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "ሰላም Jessica!",
+      "ቅዳሜ ጠዋት ለ6 ሰዎች ሙሉ በሙሉ ክፍት ነው። የመንገድ ግልቢያዎች $100/ሰው ናቸው እና በሸለቆው ውስጥ ወደ 90 ደቂቃ ይቆያሉ። 8 እና ከዚያ በላይ ያሉ ልጆች እንኳን ደህና መጡ፣ ስለዚህ ቡድንዎ ሁሉ መሄድ ይችላል።",
+      "የተዘጉ ጫማዎች ያስፈልጋሉ — ቡትስ ይሻላሉ። የራስ ቁር እናቀርባለን እና እያንዳንዱን ተሳፋሪ በመጠን እና በልምድ መሰረት ከፈረስ ጋር እናዛምዳለን። ቀደም ያለ የግልቢያ ልምድ አያስፈልግም።",
+      "ለ9 AM ግልቢያ እንዳስይዝዎት ይፈልጋሉ?"
     ],
     "highlightText": "ቅዳሜ ጥዋት ለ 6 ሰፊ ክፍት ነው. የዱካ ጉዞዎች $ 100 / ሰው ናቸው",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "ዋጋዎን እና ተገኝነትዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የተሳፋሪ መስፈርቶችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

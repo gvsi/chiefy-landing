@@ -176,7 +176,7 @@ Wasaidizi wa barua pepe wa AI huhamia zaidi ya otomatiki rahisi; zinatoa uwezo w
 
 **Suluhisho la AI:** Zana za kuandaa rasimu za AI huenda zaidi ya majibu rahisi ya makopo. Wanachanganua muktadha wa mazungumzo ya barua pepe na kutoa mapendekezo yanayofaa ya kujibu au hata kukamilisha rasimu za kwanza kulingana na vidokezo rahisi. Muhimu zaidi, wasaidizi bora wa AI _jifunze mtindo wako wa kipekee wa uandishi_ - sauti yako ya kawaida, msamiati, misemo na muundo wa sentensi - kwa kuchanganua barua pepe zako zilizotumwa hapo awali. Wanaweza pia kusaidia kuboresha rasimu zako mwenyewe kwa uwazi, sarufi na taaluma.
 
-**Manufaa:** Hii huharakisha sana nyakati za majibu, huku kukusaidia kushinda kizuizi na mamlaka ya mwandishi kupitia mawasiliano ya kawaida. Kwa kutengeneza rasimu zinazosikika kama _you_, zana hizi hudumisha ubinafsishaji na taaluma, hivyo kufanya akili yako iwe huru kwa changamoto ngumu zaidi za mawasiliano. Uwezo huu wa "sauti halisi" ni muhimu kwa wataalamu wanaotegemea mawasiliano ya hali ya juu na muunganisho wa kibinafsi, kuhakikisha AI inaboresha badala ya kuchukua nafasi ya mtindo wao wa kipekee.
+**Manufaa:** Hii huharakisha sana nyakati za majibu, huku kukusaidia kushinda kizuizi na mamlaka ya mwandishi kupitia mawasiliano ya kawaida. Kwa kutengeneza rasimu zinazosikika kama _wewe_, zana hizi hudumisha ubinafsishaji na taaluma, hivyo kufanya akili yako iwe huru kwa changamoto ngumu zaidi za mawasiliano. Uwezo huu wa "sauti halisi" ni muhimu kwa wataalamu wanaotegemea mawasiliano ya hali ya juu na muunganisho wa kibinafsi, kuhakikisha AI inaboresha badala ya kuchukua nafasi ya mtindo wao wa kipekee.
 
 ### Snippet ya Q\&A: "Je, AI Inasaidiaje Kutanguliza Barua Pepe?"
 
@@ -186,7 +186,7 @@ Kwa kuchanganya uchanganuzi wa maudhui na mifumo ya watumiaji waliojifunza, AI h
 
 ## Kuunda Mfumo Wako Uliobinafsishwa wa Usimamizi wa Gmail: Unganisha Nidhamu na Akili
 
-Hakuna kitone cha uchawi kwa usimamizi bora wa barua pepe. Firehose ya mawasiliano ni ukweli kwa wataalamu wenye shughuli nyingi, na si nidhamu ya mwongozo peke yake au teknolojia yenyewe ni suluhisho kamili. Mbinu bora zaidi inahusisha kuunda _mfumo_ uliobinafsishwa ambao unachanganya tabia za kimsingi, utumiaji mahiri wa zana asilia za Gmail, na utumiaji wa kimkakati wa AI ambapo hutoa athari muhimu zaidi kwa _you_.
+Hakuna kitone cha uchawi kwa usimamizi bora wa barua pepe. Firehose ya mawasiliano ni ukweli kwa wataalamu wenye shughuli nyingi, na si nidhamu ya mwongozo peke yake au teknolojia yenyewe ni suluhisho kamili. Mbinu bora zaidi inahusisha kuunda _mfumo_ uliobinafsishwa ambao unachanganya tabia za kimsingi, utumiaji mahiri wa zana asilia za Gmail, na utumiaji wa kimkakati wa AI ambapo hutoa athari muhimu zaidi kwa _wewe_.
 
 **Kutafuta Salio lako:**
 

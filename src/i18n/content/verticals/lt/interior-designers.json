@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mailinterjero dizaineriams |AIEl. pašto padėjėjas",
-  "metaDescription": "Duet Mailpadeda interjero dizaineriams tvarkyti klientų el. laiškus, rangovų koordinavimą ir pardavėjų užsakymus – net iš darbo vietos.AIparengti atsakymai su projekto informacija, nuostatomis ir balsu.",
+  "pageTitle": "Duet Mail interjero dizaineriams |AI el. pašto padėjėjas",
+  "metaDescription": "Duet Mail padeda interjero dizaineriams tvarkyti klientų el. laiškus, rangovų koordinavimą ir pardavėjų užsakymus – net iš darbo vietos.AI parengti atsakymai su projekto informacija, nuostatomis ir balsu.",
   "heroBadge": "Pasitiki daugiau nei 400 interjero dizainerių",
   "heroHeadline": "Jūsų el. pašto asistentas, kai esate vietoje su klientais",
-  "heroSubline": "Duetsužino jūsų pardavėjo kontaktus, išsamią projekto informaciją ir kliento nuostatas – tada parengia el. pašto atsakymų juodraščius, kad niekada neprarastumėte kliento dėl lėto atsakymo.",
+  "heroSubline": "Duet sužino jūsų pardavėjo kontaktus, išsamią projekto informaciją ir kliento nuostatas – tada parengia el. pašto atsakymų juodraščius, kad niekada neprarastumėte kliento dėl lėto atsakymo.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projektą",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Vienas sutaupytas klientas mokaDuetmetus."
+    "punchline": "Vienas sutaupytas klientas moka Duet metus."
   },
-  "categorizationSubtitle": "Duetautomatiškai pažymi kiekvieną el. laišką, todėl pirmiausia pamatysite naujų klientų užklausas, antra – laukiančius patvirtinimus, o pardavėjų naujienlaiškius – niekada. Daugiau netrūksta dizaino konsultacijos, palaidotos parodų akcijose.",
-  "draftSubtitle": "Duetsužino jūsų procesą, projekto detales ir toną. Kai atsiranda nauja užklausa arba kliento klausimas, jis parengia išsamų atsakymą su jūsų pasiekiamumu, tolesniais veiksmais ir projekto specifika. Jūs peržiūrite ir siunčiate.",
-  "agentSubtitle": "\"Kokia Hendersono projekto padėtis?\" „Kokie patvirtinimai dar laukiami?Duetžino jūsų gautuosius ir kiekvieną projekto giją – tiesiog paklauskite.",
+  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia pamatysite naujų klientų užklausas, antra – laukiančius patvirtinimus, o pardavėjų naujienlaiškius – niekada. Daugiau netrūksta dizaino konsultacijos, palaidotos parodų akcijose.",
+  "draftSubtitle": "Duet sužino jūsų procesą, projekto detales ir toną. Kai atsiranda nauja užklausa arba kliento klausimas, jis parengia išsamų atsakymą su jūsų pasiekiamumu, tolesniais veiksmais ir projekto specifika. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "\"Kokia Hendersono projekto padėtis?\" „Kokie patvirtinimai dar laukiami?Duet žino jūsų gautuosius ir kiekvieną projekto giją – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michaelas R.",
       "title": "Pagrindinis dizaineris, Austin TX",
-      "quote": "Dirbu vietoje 6 valandas per dieną, koordinuoju dažytojų, elektrikų ir plytelių montuotojų darbus. Tuo tarpu kiti trys klientai apie savo projektus rašo el.Duetrengia atsakymų juodraščius su tinkama projekto informacija – aš tik peržiūriu tarp apsilankymų svetainėje.",
+      "quote": "Dirbu vietoje 6 valandas per dieną, koordinuoju dažytojų, elektrikų ir plytelių montuotojų darbus. Tuo tarpu kiti trys klientai apie savo projektus rašo el.Duet rengia atsakymų juodraščius su tinkama projekto informacija – aš tik peržiūriu tarp apsilankymų svetainėje.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Gyvenamųjų namų interjero dizaineris, Čikaga",
-      "quote": "Klientų užklausos trukdavo kelias dienas, nes buvau palaidotas elektroniniuose laiškuose dėl viešųjų pirkimų ir rangovų planavimo. DabarDuetreaguoja į naujus potencialius klientus per kelias minutes pagal mano procesą ir pasiekiamumą. Šį ketvirtį užsisakiau 4 papildomus projektus.",
+      "quote": "Klientų užklausos trukdavo kelias dienas, nes buvau palaidotas elektroniniuose laiškuose dėl viešųjų pirkimų ir rangovų planavimo. Dabar Duet reaguoja į naujus potencialius klientus per kelias minutes pagal mano procesą ir pasiekiamumą. Šį ketvirtį užsisakiau 4 papildomus projektus.",
       "avatarKey": "francesca"
     },
     {
       "name": "Džonis M.",
       "title": "Dizaino studijos savininkas, Nešvilis",
-      "quote": "El. laiškų tvarkymas 12 aktyvių projektų mane žudė.Duetsuskirsto viską į kategorijas – naujas užklausas, laukiančius patvirtinimus, pardavėjų užsakymus, rangovo atnaujinimus – todėl tiksliai žinau, į ką pirmiausia reikia atkreipti dėmesį.",
+      "quote": "El. laiškų tvarkymas 12 aktyvių projektų mane žudė.Duet suskirsto viską į kategorijas – naujas užklausas, laukiančius patvirtinimus, pardavėjų užsakymus, rangovo atnaujinimus – todėl tiksliai žinau, į ką pirmiausia reikia atkreipti dėmesį.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Interjero dekoratorius, San Diegas",
-      "quote": "Praradau potencialius klientus, nes per diegimo savaites negalėjau pakankamai greitai atsakyti.Duetišmoko mano konsultacijų procesą, kainodaros struktūrą, net kaip aš apibūdinu savo dizaino stilių. Klientai neįsivaizduoja, kad tai yraAIpagalba.",
+      "quote": "Praradau potencialius klientus, nes per diegimo savaites negalėjau pakankamai greitai atsakyti.Duet išmoko mano konsultacijų procesą, kainodaros struktūrą, net kaip aš apibūdinu savo dizaino stilių. Klientai neįsivaizduoja, kad tai yraAIpagalba.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Komercinis interjero dizaineris, Denveris",
-      "quote": "Tarp pardavėjo pristatymo laiko, rangovo tvarkaraščių ir klientų peržiūros užklausų mano gautuosiuose buvo chaosas.Duetviską surūšiuoja ir parengia tolesnių veiksmų dėl laukiančių patvirtinimų juodraščius. Tai tarsi projekto koordinatorius, kuris niekada nemiega.",
+      "quote": "Tarp pardavėjo pristatymo laiko, rangovo tvarkaraščių ir klientų peržiūros užklausų mano gautuosiuose buvo chaosas.Duet viską surūšiuoja ir parengia tolesnių veiksmų dėl laukiančių patvirtinimų juodraščius. Tai tarsi projekto koordinatorius, kuris niekada nemiega.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "Žongliruoju 8-10 projektų vienu metu. ArDuetgali juos išlaikyti tiesiai?",
-      "answer": "Taip.Duetseka kiekvieną el. pašto giją pagal klientą ir projektą. Kai klausiate apie Hendersono virtuvę arba Park Avenue biurą, jis ištraukia kontekstą iš visų susijusių pokalbių – pardavėjų užsakymų, rangovų atnaujinimų, klientų patvirtinimų – todėl jūsų atsakymai visada yra tikslūs ir susiję su projektu. Nereikia maišyti, kuri plytelė skirta kuriam klientui."
+      "question": "Žongliruoju 8-10 projektų vienu metu. Ar Duet gali juos išlaikyti tiesiai?",
+      "answer": "Taip. Duet seka kiekvieną el. pašto giją pagal klientą ir projektą. Kai klausiate apie Hendersono virtuvę arba Park Avenue biurą, jis ištraukia kontekstą iš visų susijusių pokalbių – pardavėjų užsakymų, rangovų atnaujinimų, klientų patvirtinimų – todėl jūsų atsakymai visada yra tikslūs ir susiję su projektu. Nereikia maišyti, kuri plytelė skirta kuriam klientui."
     },
     {
-      "question": "Aš bendradarbiauju su daugybe rangovų ir pardavėjų. ArDuettai padeda?",
-      "answer": "absoliučiai.Duetsužino apie jūsų rangovo kontaktus, pardavėjų atstovus ir kiekvieno sandorio vaidmens jūsų projektuose kontekstą. Kai elektrikas atsiųs el. laišką, kad apytikslis darbas atliktas,Duetgali parengti atsakymo projektą, patvirtinantį kitą veiksmą arba kilpą armatūros diegimo programoje. Tai užtikrina, kad darbo eiga judėtų net tada, kai esate kitame mieste kitoje darbo vietoje."
+      "question": "Aš bendradarbiauju su daugybe rangovų ir pardavėjų. Ar Duet tai padeda?",
+      "answer": "absoliučiai.Duet sužino apie jūsų rangovo kontaktus, pardavėjų atstovus ir kiekvieno sandorio vaidmens jūsų projektuose kontekstą. Kai elektrikas atsiųs el. laišką, kad apytikslis darbas atliktas,Duet gali parengti atsakymo projektą, patvirtinantį kitą veiksmą arba kilpą armatūros diegimo programoje. Tai užtikrina, kad darbo eiga judėtų net tada, kai esate kitame mieste kitoje darbo vietoje."
     }
   ],
-  "pricingNote": "10 000 USD už projektą vienas sutaupytas klientas sumoka už metusDuetPro."
+  "pricingNote": "10 000 USD už projektą vienas sutaupytas klientas sumoka už metus Duet Pro."
 }

@@ -1,9 +1,9 @@
 ---
-title: "Com utilitzar AI i GPT per a Gmail i recuperar el vostre dia\n"
+title: "Com utilitzar AI i GPT per a Gmail i recuperar el vostre dia"
 description: "Apreneu a utilitzar GPT per a Gmail per vèncer la sobrecàrrega de correu electrònic. Exploreu les eines AI per a la redacció, el resum i el triatge per augmentar la productivitat i estalviar temps."
 publishedAt: 2025-06-10
 author: "Duet Mail Team"
-tags: ["AI","Gmail","Productivitat\n","Correu electrònic"]
+tags: ["AI","Gmail","Productivitat","Correu electrònic"]
 draft: false
 ---
 

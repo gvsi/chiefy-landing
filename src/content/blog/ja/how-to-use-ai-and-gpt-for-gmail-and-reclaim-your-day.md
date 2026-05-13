@@ -132,7 +132,7 @@ AI を利用した電子メール ツールの市場は活況を呈しており�
 
 - **セキュリティ機能を優先する:** エンドツーエンドの暗号化、[ローカル データ処理](https://www.spikenow.com/blog/mindfulness/ai-privacy-issues/) (データがユーザーのデバイスに残る場所) のオプション、データ最小化の実践 (必要以上に長くデータを保存しない)、およびコンプライアンス認定 ([SOC 2](https://research.contrary.com/company/superhuman)) など) を提供するツールを探します。
 
-- **アカウントのセキュリティを強化する:** Gmail アカウントには常に強力で一意のパスワードを使用し、[多要素認証 (MFA)] (https://www.startmail.com/how-ai-threatens-your-email-privacy) を有効にしてください。
+- **アカウントのセキュリティを強化する:** Gmail アカウントには常に強力で一意のパスワードを使用し、[多要素認証 (MFA)](https://www.startmail.com/how-ai-threatens-your-email-privacy) を有効にしてください。
 
 - **注意を払う:** 機密性の高い情報を AI プロンプトに直接入力するときは、特にツールのセキュリティ対策が明確でない場合は注意してください。
 

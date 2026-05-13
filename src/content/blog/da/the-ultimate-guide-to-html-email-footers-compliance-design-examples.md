@@ -25,7 +25,7 @@ Hvorfor dedikere kostbar tid til dette lille rum? Fordelene er betydelige:
 
 - **Engagement og navigation:**Progiv nem adgang til sociale medieprofiler, webstedslinks, præferencecentre eller endda sekundære opfordringer til handling (som at downloade en app).
 
-- **Leverbarhed:**Properly-formaterede sidefødder med nødvendige elementer hjælper med at signalere til e-mail-klienter (somGmail,Outlook), at dine e-mails ikke er spam.
+- **Leverbarhed:**Properly-formaterede sidefødder med nødvendige elementer hjælper med at signalere til e-mail-klienter (som Gmail,Outlook), at dine e-mails ikke er spam.
 
 ## Must-Haves: essentielle elementer til hver e-mail-sidefod
 
@@ -60,9 +60,7 @@ Med [en betydelig del af e-mails åbnet på mobile enheder](https://www.litmus.c
 
 - Gør links og knapper store nok til at de let kan trykkes på (mindst 44x44 pixels).
 
-- Test af din sidefod på tværs af forskellige enheder og e-mail-klienter ved hjælp af værktøjer som [Litmus](https://www.litmus.com/) eller [Email on Acid](https://www.emailonacid.com/).
-
-![Sammenligning side om side, der viser, hvordan en veldesignet e-mail-sidefod tilpasser sit layout fra skrivebordsvisning til mobilvisning](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Test af din sidefod på tværs af forskellige enheder og e-mail-klienter ved hjælp af værktøjer som [Litmus](https://www.litmus.com/) eller [Email on Acid](https://www.emailonacid.com/).![Sammenligning side om side, der viser, hvordan en veldesignet e-mail-sidefod tilpasser sit layout fra skrivebordsvisning til mobilvisning](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Sørg for, at din sidefod ser godt ud og fungerer perfekt på enhver skærmstørrelse.
 
@@ -122,4 +120,4 @@ Din HTML-e-mail-sidefod er måske det sidste, modtagerne ser, men det burde ikke
 
 Det opbygger tillid, styrker dit brand, sikrer overholdelse og giver nyttig navigation til dit publikum. Brug et øjeblik på at gennemgå din nuværende e-mail-sidefod. Er det kompatibelt? Er det klart? Er det mobilvenligt? At lave disse små forbedringer kan have stor indflydelse på, hvordan dine e-mails – og dit brand – opfattes.
 
-Leder du efter måder at gøre din overordnede e-mailhåndtering mere effektiv og professionel? Overvej at udforske værktøjer designet til travle fagfolk. For eksempel ved at lære, hvordan [Duet Mailforenkler e-mail-produktiviteten](https://duetmail.com/da) med AI-drevne funktioner, kan frigøre mere tid til at fokusere på at perfektionere detaljer som din sidefod og sikre, at enhver kommunikation repræsenterer dig godt.
+Leder du efter måder at gøre din overordnede e-mailhåndtering mere effektiv og professionel? Overvej at udforske værktøjer designet til travle fagfolk. For eksempel ved at lære, hvordan [Duet Mail forenkler e-mail-produktiviteten](https://duetmail.com/da) med AI-drevne funktioner, kan frigøre mere tid til at fokusere på at perfektionere detaljer som din sidefod og sikre, at enhver kommunikation repræsenterer dig godt.

@@ -1,5 +1,5 @@
 ---
-title: "Desembalatge de les funcions de resum de Gmail\n"
+title: "Desembalatge de les funcions de resum de Gmail"
 description: "Teniu problemes amb la sobrecàrrega de correu electrònic? Exploreu les funcions de resum de Gmail impulsades per Gemini, enteneu els seus pros i contres i comproveu si n'hi ha prou."
 publishedAt: 2025-09-26
 author: "Duet Mail Team"

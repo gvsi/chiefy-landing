@@ -1,9 +1,9 @@
 ---
-title: "Esteu buscant una alternativa a Polymail? Les principals eines de productivitat per correu electrònic per a professionals ocupats el 2025\n"
+title: "Esteu buscant una alternativa a Polymail? Les principals eines de productivitat per correu electrònic per a professionals ocupats el 2025"
 description: "Esteu buscant una alternativa a Polymail? Compareu Superhuman, Missive, Spark, Shortwave i Duet Mail per a la productivitat del correu electrònic AI."
 publishedAt: 2025-08-21
 author: "Duet Mail Team"
-tags: ["AI","Productivitat\n","Eines","Correu electrònic"]
+tags: ["AI","Productivitat","Eines","Correu electrònic"]
 draft: false
 ---
 

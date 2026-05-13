@@ -1,5 +1,5 @@
 ---
-title: "La guia definitiva dels peus de pàgina de correu electrònic HTML: compliment, disseny i exemples\n"
+title: "La guia definitiva dels peus de pàgina de correu electrònic HTML: compliment, disseny i exemples"
 description: "Mestre els peus de pàgina de correu electrònic HTML: elements essencials, consells de disseny, compliment legal (CAN-SPAM, GDPR, CASL) i exemples de marca."
 publishedAt: 2026-01-05
 author: "Duet Mail Team"

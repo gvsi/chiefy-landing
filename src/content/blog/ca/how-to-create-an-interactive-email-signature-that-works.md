@@ -1,5 +1,5 @@
 ---
-title: "Com crear una signatura de correu electrònic interactiva que funcioni\n"
+title: "Com crear una signatura de correu electrònic interactiva que funcioni"
 description: "Apreneu a crear una signatura de correu electrònic interactiva per augmentar el compromís, la marca i els clients potencials. Guia pas a pas per a autònoms i startups"
 publishedAt: 2025-06-18
 author: "Duet Mail Team"

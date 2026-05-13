@@ -59,7 +59,7 @@ Išlaikyti autentišką balsą yra labai svarbu. Čia ypač išsiskiria tam spec
 
 **DI sprendimas:** DI el. pašto asistentai veikia kaip asmeninis informavimo įrankis. Jie gali automatiškai analizuoti ir sutrumpinti ilgas el. laiškų diskusijas, prisegtus dokumentus (pvz., PDF ar Word failus) ar net susitikimų transkriptus į trumpas, lengvai suprantamas santraukas. Svarbiausia, jie puikiai atskiria signalą nuo triukšmo – nustato priimtus sprendimus, likusius veiksmų punktus, svarbius užduotus klausimus ir paminėtus terminus.
 
-**Vaizdo vietaGoogle Images užklausa:** DI el. laiškų gijų santraukų infografikas**Alternatyvus tekstas:** Infografikas, rodantis ilgą, sudėtingą el. laiškų giją, kurią DI sutraukia į 3 pagrindinius punktus: priimtas sprendimas, veiksmo punktas, pagrindinis klausimas.**Antraštė:** DI santraukų įrankiai pašalina triukšmą ir iš ilgų el. laiškų gijų ištraukia esminę informaciją.
+**Vaizdo vieta Google Images užklausa:** DI el. laiškų gijų santraukų infografikas**Alternatyvus tekstas:** Infografikas, rodantis ilgą, sudėtingą el. laiškų giją, kurią DI sutraukia į 3 pagrindinius punktus: priimtas sprendimas, veiksmo punktas, pagrindinis klausimas.**Antraštė:** DI santraukų įrankiai pašalina triukšmą ir iš ilgų el. laiškų gijų ištraukia esminę informaciją.
 
 **Naudojimo atvejai:** Ši galimybė neįkainojama norint greitai įsivažiuoti po pertraukos, suprasti sudėtingos problemos kontekstą neperskaitant visos istorijos arba efektyviai pasidalyti pokalbio esme su komandos nariais, kuriuos reikia įtraukti.
 
@@ -81,7 +81,7 @@ Greitai suprasti esmę yra labai svarbu. DI įrankiai gali veikti kaip informavi
 
 Įsivaizduokite gautuosius, kurie iškelia tai, kam dėmesio reikia _dabar_. Tai DI rūšiavimo galia. Vietoj apkrauto chronologinio srauto tokie įrankiai kaip [**Duet Mail**](/lt) siūlo **DI atranką ir sutelktą valdymo skydelį**. Ši sistema išmaniai analizuoja laiškų skubumą, reikalingus veiksmus ar sprendimus ir aiškiai juos pateikia, kad naudotojai iškart prasiskintų kelią per triukšmą ir efektyviai sutelktų energiją. Tai paradigmos pokytis – nuo reaktyvaus el. pašto tikrinimo prie proaktyvaus, prioritetais grįsto įsitraukimo, reikšmingai mažinantis pažintinę apkrovą ir didinantis prasmingą produktyvumą.
 
-**Vaizdo vietaGoogle Images užklausa:** Duet Mail DI atrankos sutelkto valdymo skydelio ekrano kopija**Alternatyvus tekstas:** Duet Mail sutelkto valdymo skydelio ekrano kopija, rodanti prioritetinius el. laiškus, suskirstytus pagal skubumą ir reikalingus veiksmus.**Antraštė:** DI valdomi skydeliai, tokie kaip Duet Mail, iškelia kritinius laiškus ir pašalina gautųjų netvarką.
+**Vaizdo vieta Google Images užklausa:** Duet Mail DI atrankos sutelkto valdymo skydelio ekrano kopija**Alternatyvus tekstas:** Duet Mail sutelkto valdymo skydelio ekrano kopija, rodanti prioritetinius el. laiškus, suskirstytus pagal skubumą ir reikalingus veiksmus.**Antraštė:** DI valdomi skydeliai, tokie kaip Duet Mail, iškelia kritinius laiškus ir pašalina gautųjų netvarką.
 
 ## Kaip pasirinkti savo DI el. pašto antrąjį pilotą: įrankiai ir svarstymai
 
@@ -136,7 +136,7 @@ Norėdami sumažinti šias rizikas, naudotojai turėtų laikytis geriausios prak
 
 - **Būkite atsargūs:** Atsargiai pateikite itin jautrią informaciją tiesiogiai DI užklausose, ypač jei įrankio saugumo praktikos nėra aiškios.
 
-**Vaizdo vietaGoogle Images užklausa:** el. pašto saugumo geriausios praktikos infografikas**Alternatyvus tekstas:** Infografikas, iliustruojantis el. pašto saugumo geriausias praktikas, tokias kaip stiprūs slaptažodžiai, MFA ir leidimų tikrinimas.**Antraštė:** Naudojant DI įrankius būtina laikytis el. pašto saugumo geriausios praktikos.
+**Vaizdo vieta Google Images užklausa:** el. pašto saugumo geriausios praktikos infografikas**Alternatyvus tekstas:** Infografikas, iliustruojantis el. pašto saugumo geriausias praktikas, tokias kaip stiprūs slaptažodžiai, MFA ir leidimų tikrinimas.**Antraštė:** Naudojant DI įrankius būtina laikytis el. pašto saugumo geriausios praktikos.
 
 Vertindami įrankius, atkreipkite dėmesį į jų saugumo laikyseną. Pavyzdžiui, tokie sprendimai kaip [**Duet Mail**](/lt) savo platformoje pabrėžia įsipareigojimą privatumui ir saugumui, o tai yra esminis pasitikėjimo veiksnys. DI integracijai gilėjant, tiekėjai, pabrėžiantys tvirtą saugumą ir aiškų duomenų tvarkymą, tikėtina, pelnys didesnį naudotojų pasitikėjimą.
 
@@ -168,9 +168,7 @@ DI naudojimo Gmail naudai aiški: reikšmingas laiko taupymas, mažesnė pažint
 
 3. **Įvertinkite konkrečius poreikius:** Pagalvokite apie kasdienius el. pašto iššūkius. Ar tai didžiulis kiekis? Laikas, praleistas rašant atsakymus? Sunku išlikti organizuotiems? Įrankis, pritaikytas pagrindinei problemai spręsti, suteiks greičiausią vertę.
 
-Pasiruošę išbandyti išsamų sprendimą, sukurtą keliems el. pašto iššūkiams vienu metu? Sužinokite, kaip tokie įrankiai kaip [**Duet Mail**](/lt) sujungia išmanią **DI atranką**, kuri iškelia skubius laiškus, **autentišką DI juodraščių rengimą**, išmokstantį unikalų naudotojo balsą, ir **išmanias santraukas**, padedančias prasiskinti kelią per netvarką. Pamatykite, kaip tai gali pakeisti Gmail darbo eigą.
-
-![Ekrano kopija, rodanti, kaip Duet Mail apibendrina ilgą el. laišką ir išryškina pagrindinius veiksmų punktus](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Pasiruošę išbandyti išsamų sprendimą, sukurtą keliems el. pašto iššūkiams vienu metu? Sužinokite, kaip tokie įrankiai kaip [**Duet Mail**](/lt) sujungia išmanią **DI atranką**, kuri iškelia skubius laiškus, **autentišką DI juodraščių rengimą**, išmokstantį unikalų naudotojo balsą, ir **išmanias santraukas**, padedančias prasiskinti kelią per netvarką. Pamatykite, kaip tai gali pakeisti Gmail darbo eigą.![Ekrano kopija, rodanti, kaip Duet Mail apibendrina ilgą el. laišką ir išryškina pagrindinius veiksmų punktus](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Išmanių santraukų funkcijos ištraukia pagrindinius punktus ir veiksmų elementus, taupydamos skaitymo laiką.
 

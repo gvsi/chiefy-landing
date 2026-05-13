@@ -39,7 +39,7 @@
       "avatarColor": "lavender",
       "subject": "আগামীকাল সকালের জন্য শর্ত?",
       "preview": "আমরা আগামীকাল সকাল 9 টার জন্য বুক করেছি কিন্তু পূর্বাভাসটি ঝড়ো হাওয়া বলে মনে হচ্ছে। পাঠ কি এখনও এগিয়ে যাবে? আমাদের কি অতিরিক্ত কিছু আনতে হবে...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -81,11 +81,11 @@
       "pillColor": "amber"
     },
     {
-      "from": "TripAdvisor",
+      "from": "ট্রিপঅ্যাডভাইজার",
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকার জন্য নতুন পর্যালোচনা",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group lesson for 6 on Saturday?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
+    "subject": "শনিবার ৬ জনের জন্য গ্রুপ লেসন প্রসঙ্গে?",
+    "originalFrom": "Rachel T. লিখেছেন:",
+    "originalText": "হ্যালো! আমার ৬ জন বন্ধু এই সপ্তাহান্তে বেড়াতে আসছে। শনিবার সকালে দলগত সার্ফিং শেখার জন্য আপনাদের কাছে কি সময় আছে? এর খরচ কত?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "এই Rachel!",
+      "শনিবার সকালটা ৬ জনের জন্য সম্পূর্ণ ফাঁকা। গ্রুপ লেসনের ফি জনপ্রতি ৯০ ডলার এবং এটি মূল সৈকতে সকাল ৯টা থেকে শুরু হয়ে ২ ঘণ্টা ধরে চলে।",
+      "বোর্ড, ওয়েটসুট এবং র‍্যাশ গার্ড সবই অন্তর্ভুক্ত — শুধু সানস্ক্রিন, পানি ও একটি তোয়ালে নিয়ে আসুন। কোনো অভিজ্ঞতার প্রয়োজন নেই।",
+      "আপনি কি চান আমি আপনার গ্রুপকে লক করে দিই?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "শনিবার সকাল ৬ জনের জন্য সম্পূর্ণ ফাঁকা। গ্রুপ লেসনের ফি জনপ্রতি ৯০ ডলার।",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "আপনার পাঠের ধরণ ও মূল্য সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "স্বয়ংক্রিয়ভাবে যা সরবরাহ করা হয় তা অন্তর্ভুক্ত।",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

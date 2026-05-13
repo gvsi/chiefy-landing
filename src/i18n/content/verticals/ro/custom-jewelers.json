@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
   "pageTitle": "Duet Mail pentru bijutieri personalizat | Asistent de e-mail AI",
-  "metaDescription": "Duet Mail îi ajută pe bijutierii personalizați să răspundă instantaneu la solicitările de consultare, aprobările de design și întrebările legate de cronologie, chiar și atunci când sunt la bancul de lucru. Răspunsuri elaborate de AI cu procesul, prețurile și vocea dvs.",
+  "metaDescription": "Duet Mail îi ajută pe bijutierii personalizați să răspundă instantaneu la solicitările de consultare, aprobările de design și întrebările legate de cronologie, chiar și atunci când sunt la bancul de lucru. Răspunsuri elaborate de AI cu procesul, prețurile și vocea ta.",
   "heroBadge": "De încredere de peste 300 de designeri de bijuterii",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești la bancă",
-  "heroSubline": "Duet învață procesul dvs. de proiectare, materialele, prețurile și termenele - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată un client personalizat la un răspuns lent.",
+  "heroSubline": "Duet învață procesul tău de proiectare, materialele, prețurile și termenele - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată un client personalizat din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -52,8 +52,8 @@
     "punchline": "Un client salvat plătește pentru peste patru ani de Duet."
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de consultare noi, apoi aprobările de proiectare și niciodată buletinele informative ale furnizorilor. Nu mai lipsește o anchetă de 5.000 USD îngropată sub promoțiile furnizorilor.",
-  "draftSubtitle": "Duet vă învață procesul, materialele, prețurile și vocea. Când ajunge o solicitare de consultare, acesta redactează un răspuns complet cu disponibilitatea dvs., ce să aduceți și cum funcționează procesul dvs. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Unde suntem cu inelul Amandei? „Elaborați o actualizare a cronologiei pentru James”. Duet cunoaște fiecare fir client - doar întrebați.",
+  "draftSubtitle": "Duet îți învață procesul, materialele, prețurile și vocea. Când ajunge o solicitare de consultare, acesta redactează un răspuns complet cu disponibilitatea ta, ce să aducă și cum funcționează procesul tău. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Unde suntem cu inelul Amandei? „Redactează o actualizare a cronologiei pentru James”. Duet cunoaște fiecare fir client - doar întreabă.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -156,7 +156,7 @@
     }
   ],
   "ctaHeadline": "Petrece-ți zilele creând bijuterii,\nnu răspund la e-mailuri despre asta.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Poate Duet să gestioneze e-mailurile cu fotografii de referință și atașamente de design?",

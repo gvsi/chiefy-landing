@@ -1,6 +1,6 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail Whale-katselukierroksille | AI sähköpostiavustaja",
+  "pageTitle": "Duet Mail Whale-katselukierroksille | AI-sähköpostiavustaja",
   "metaDescription": "Duet Mail auttaa valaita tarkkailevia kapteeneja vastaamaan varaussähköposteihin välittömästi – jopa vedestä. AI:n muotoillut vastaukset, joissa on kiertueesi tiedot, hinnat ja ääni.",
   "heroBadge": "Yli 300 kiertueen kapteenin luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet tarkkailemassa valaita",
@@ -49,7 +49,7 @@
     "bookingUnit": "kiertueryhmä",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Yksi tallennettu ryhmävaraus maksaa Duetin vuoden."
+    "punchline": "Yksi tallennettu ryhmävaraus maksaa Duet in vuoden."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, risteilyalusten aikataulumuutokset toiseksi ja melu ei koskaan. Enää ei puutu yksityistä tilauskyselyä TripAdvisor-hälytysten alle.",
   "draftSubtitle": "Duet oppii kiertueaikasi, hinnoittelusi ja käytäntösi. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on saatavuus, mitä sisältyy ja mitä tuoda. Tarkistat ja lähetät.",
@@ -133,7 +133,7 @@
     {
       "name": "Maria & Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Järjestämme kaksi kierrosta päivässä ryhäselän aikana ja sähköpostien määrä on epätodellista. \"Nähdäänkö valaita?\" \"Mitä minun pitäisi laittaa päälleni?\" \"Onko huominen peruttu?\" Duetti käsittelee toistuvia kysymyksiä ja keskitymme kierroksiin.",
+      "quote": "Järjestämme kaksi kierrosta päivässä ryhäselän aikana ja sähköpostien määrä on epätodellista. \"Nähdäänkö valaita?\" \"Mitä minun pitäisi laittaa päälleni?\" \"Onko huominen peruttu?\" Duet ti käsittelee toistuvia kysymyksiä ja keskitymme kierroksiin.",
       "avatarKey": "francesca"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Olemme kahden hengen operaatio – minä kapteeni, hän hoitaa logistiikan. Sesonkiaikana hän vietti 3 tuntia yössä sähköpostin parissa. Duetti leikkasi sen 30 minuuttiin. Hän todella saa iltansa takaisin nyt.",
+      "quote": "Olemme kahden hengen operaatio – minä kapteeni, hän hoitaa logistiikan. Sesonkiaikana hän vietti 3 tuntia yössä sähköpostin parissa. Duet ti leikkasi sen 30 minuuttiin. Hän todella saa iltansa takaisin nyt.",
       "avatarKey": "sarah"
     }
   ],
@@ -160,7 +160,7 @@
   "verticalFaqs": [
     {
       "question": "Käsitteleekö Duet sään peruutuksia ja risteilyalusten aikataulumuutoksia?",
-      "answer": "Kyllä. Kun peruutat kiertueen sään tai risteilyaluksen saapumisajan muutosten vuoksi, voit kertoa Duetille kerran ja se laatii henkilökohtaisen aikataulun tai päivittää sähköpostit jokaiselle asiakkaalle. Ei enää saman viestin kopioimista ja liittämistä 30 kertaa. Jokainen vastaus sisältää vieraan alkuperäiset varaustiedot ja käytettävissä olevat vaihtoehdot."
+      "answer": "Kyllä. Kun peruutat kiertueen sään tai risteilyaluksen saapumisajan muutosten vuoksi, voit kertoa Duet ille kerran ja se laatii henkilökohtaisen aikataulun tai päivittää sähköpostit jokaiselle asiakkaalle. Ei enää saman viestin kopioimista ja liittämistä 30 kertaa. Jokainen vastaus sisältää vieraan alkuperäiset varaustiedot ja käytettävissä olevat vaihtoehdot."
     },
     {
       "question": "Saamme jatkuvasti samoja kysymyksiä – 'nähdäänkö valaita?', 'mitä minun pitäisi pukea?', 'sopiiko se lapsille?' Pystyykö Duet käsittelemään niitä?",

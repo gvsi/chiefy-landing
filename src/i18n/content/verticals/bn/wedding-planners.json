@@ -39,7 +39,7 @@
       "avatarColor": "lavender",
       "subject": "আপনার তালিকা থেকে নতুন অনুসন্ধান",
       "preview": "একজন দম্পতি আপনার পরিষেবা সম্পর্কে আরও তথ্যের জন্য অনুরোধ করেছেন৷ বিস্তারিত দেখুন এবং উত্তর দিন...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -85,7 +85,7 @@
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকা থেকে নতুন অনুসন্ধান",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "emily.james.w@email.com",
-    "subject": "Re: Availability for Sept 20 wedding?",
-    "originalFrom": "Emily & James W. wrote:",
-    "originalText": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages and pricing?",
+    "subject": "Re: সেপ্টেম্বরের ২০ তারিখের বিয়ের জন্য সময় পাওয়া যাবে কি?",
+    "originalFrom": "এমিলি ও জেমস ডব্লিউ লিখেছেন:",
+    "originalText": "হ্যালো! আমাদের সম্প্রতি বাগদান হয়েছে এবং আমরা সেপ্টেম্বরের ২০ তারিখে প্রায় ১২০ জন অতিথির জন্য বিয়ের কথা ভাবছি। আপনাদের কি সময় খালি আছে? আপনাদের প্যাকেজ এবং মূল্য তালিকা কী?",
     "lines": [
-      "Hi Emily & James — congratulations!",
-      "September 20th is available and 120 guests is a wonderful size. I offer full planning, partial planning, and day-of coordination packages starting at $3,500.",
-      "I'd love to set up a complimentary consultation to hear your vision and walk you through which package fits best.",
-      "Are you free for a call this week?"
+      "হাই এমিলি ও জেমস — অভিনন্দন!",
+      "সেপ্টেম্বরের ২০ তারিখটি খালি আছে এবং ১২০ জন অতিথির জন্য এটি একটি চমৎকার সংখ্যা। আমি সম্পূর্ণ পরিকল্পনা, আংশিক পরিকল্পনা এবং অনুষ্ঠানের দিনের সমন্বয়ের প্যাকেজ অফার করি, যার মূল্য $৩,৫০০ থেকে শুরু।",
+      "আপনার পরিকল্পনা শোনার জন্য এবং কোন প্যাকেজটি আপনার জন্য সবচেয়ে উপযুক্ত হবে তা বুঝিয়ে দেওয়ার জন্য আমি একটি বিনামূল্যে পরামর্শ সভার আয়োজন করতে আগ্রহী।",
+      "এই সপ্তাহে ফোনে কথা বলার জন্য আপনি কি ফ্রি আছেন?"
     ],
-    "highlightText": "September 20th is available and 120 guests is a wonderful size",
+    "highlightText": "সেপ্টেম্বরের ২০ তারিখটি উপলব্ধ আছে এবং ১২০ জন অতিথির জন্য এটি একটি চমৎকার সংখ্যা।",
     "tooltipFeatures": [
-      "Knows your packages & availability",
-      "Drafts in your voice",
-      "Includes consultation next steps",
-      "Learns your client preferences"
+      "আপনার প্যাকেজ ও প্রাপ্যতা সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "পরামর্শের পরবর্তী পদক্ষেপ অন্তর্ভুক্ত।",
+      "আপনার ক্লায়েন্টের পছন্দগুলি জেনে নেয়"
     ]
   },
   "agent": {

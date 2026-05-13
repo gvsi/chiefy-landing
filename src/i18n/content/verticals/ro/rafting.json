@@ -3,7 +3,7 @@
   "pageTitle": "Duet Mail pentru rafting și caiac | AI Asistent de e-mail",
   "metaDescription": "Duet Mail ajută ghizii de rafting și furnizorii de caiac să răspundă instantaneu la întrebările de călătorie, chiar și dinspre râu. Răspunsuri redactate de AI cu detaliile călătoriei, prețurile și vocea.",
   "heroBadge": "De încredere de peste 200 de ghizi fluviali",
-  "heroHeadline": "Asistentul dvs. de e-mail în timp ce vă aflați pe râu",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe râu",
   "heroSubline": "Duet învață tipurile de călătorie, prețurile și listele de echipamente, apoi redactează răspunsuri la întrebările de rezervare, astfel încât clienții să primească răspunsuri în timp ce tu alergi rapid.",
   "inboxEmails": [
     {
@@ -38,7 +38,7 @@
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "O nouă recenzie pentru înregistrarea dvs",
-      "preview": "Un călător a evaluat recent afacerea dvs. Vezi ce au de spus și răspund...",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât întrebările de călătorie să apară mai întâi, întrebările despre echipament în al doilea rând și zgomotul promoțional să dispară. Nu mai lipsește o rezervare de grup îngropată sub alertele TripAdvisor.",
   "draftSubtitle": "Duet învață tipurile de călătorie, cursurile rapide, listele de echipamente și politica de anulare. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu tot ce are nevoie clientul. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Ceva locuri libere în ziua întreagă de sâmbătă? „Scrieți un răspuns pentru Jennifer cu disponibilitate.” Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
+  "agentSubtitle": "— Ceva locuri libere în ziua întreagă de sâmbătă? „Scrie un răspuns pentru Jennifer cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -118,9 +118,9 @@
   },
   "agent": {
     "userMessage": "Aveți locuri libere în excursia de o zi întreagă de sâmbătă?",
-    "agentResponse": "Ziua întreagă de sâmbătă are 4 locuri rămase din 10. Aveți, de asemenea, o cursă de dimineață de jumătate de zi care este complet rezervată și o plecare de mai multe zile duminică cu 2 locuri deschise. Doriți să redactez un răspuns la orice întrebări în așteptare, cu disponibilitatea de sâmbătă?",
-    "followUp": "Redactați un răspuns pentru Jennifer cu disponibilitatea din 9 august",
-    "followUpResponse": "Făcut! Am redactat un răspuns lui Jennifer confirmând 9 august pentru 6 invitați la 150 USD/persoană. Acesta include detaliile călătoriei dvs. standard, lista de echipamente și locația întâlnirii. Gata de revizuire și de trimis."
+    "agentResponse": "Ziua întreagă de sâmbătă are 4 locuri rămase din 10. Ai, de asemenea, o cursă de dimineață de jumătate de zi care este complet rezervată și o plecare de mai multe zile duminică cu 2 locuri deschise. Vrei să redactez un răspuns la orice întrebări în așteptare, cu disponibilitatea de sâmbătă?",
+    "followUp": "Redactează un răspuns pentru Jennifer cu disponibilitatea din 9 august",
+    "followUpResponse": "Făcut! Am redactat un răspuns lui Jennifer confirmând 9 august pentru 6 invitați la 150 USD/persoană. Acesta include detaliile tale standard ale călătoriei, lista de echipamente și locația întâlnirii. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Îndrăgit de ghizii fluviali și de outfitters",
   "testimonials": [
@@ -156,15 +156,15 @@
     }
   ],
   "ctaHeadline": "Petrece vara pe râu,\nnu ajung din urmă cu e-mailul.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Duet se ocupă de ofertele de călătorie personalizate și de solicitările de expediții de mai multe zile?",
-      "answer": "Da. Duet învață gama dvs. completă de călătorii — flotoare de jumătate de zi, rapiduri de o zi întreagă, expediții de mai multe zile — împreună cu prețurile, ceea ce este inclus, vârsta minimă și nivelurile de dificultate. Când cineva întreabă despre o excursie de 3 zile pentru 6, redactează un răspuns complet cu detaliile potrivite. Examinați, modificați dacă este necesar și trimiteți."
+      "answer": "Da. Duet învață gama ta completă de călătorii — flotoare de jumătate de zi, rapiduri de o zi întreagă, expediții de mai multe zile — împreună cu prețurile, ceea ce este inclus, vârsta minimă și nivelurile de dificultate. Când cineva întreabă despre o excursie de 3 zile pentru 6, redactează un răspuns complet cu detaliile potrivite. Revizuiești, modifici dacă este necesar și trimiți."
     },
     {
       "question": "Sunt în afara rețelei în excursii de mai multe zile. Mai funcționează Duet?",
-      "answer": "Exact aceasta este problema pe care o rezolvă Duet. În timp ce ești pe râu fără semnal, ciornele Duet răspund la fiecare întrebare care vine. Când te întorci în rază de acțiune, schițele tale vă așteaptă - doar examinați și trimiteți. Majoritatea ghidurilor ne spun că elimină restanța cu care se confruntau după fiecare călătorie de mai multe zile."
+      "answer": "Exact aceasta este problema pe care o rezolvă Duet. În timp ce ești pe râu fără semnal, Duet redactează răspunsuri la fiecare întrebare care vine. Când te întorci în rază de acțiune, schițele tale te așteaptă - doar le verifici și trimiți. Majoritatea ghizilor ne spun că elimină restanța cu care se confruntau după fiecare călătorie de mai multe zile."
     }
   ],
   "pricingNote": "La 150 USD/persoană, două rezervări salvate acoperă un an întreg de Pro."

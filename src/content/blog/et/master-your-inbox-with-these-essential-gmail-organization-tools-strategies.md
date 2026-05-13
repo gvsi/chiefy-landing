@@ -15,7 +15,7 @@ Kuid siin on hea uudis: te _võite_ kontrolli tagasi saada. Asi pole ühe võluk
 
 ## Metsalise taltsutamine: Gmail sisseehitatud organisatsioonitööriistade kasutamine
 
-Enne väljapoole vaatamist tutvume võimsate tööriistadega, mis Google on juba Gmailiks küpsenud. Paljud kasutajad vaevu kriimustavad nende loomulike funktsioonide pinda, mis võib meilivoo haldamist oluliselt muuta.
+Enne väljapoole vaatamist tutvume võimsate tööriistadega, mis Google on juba Gmail iks küpsenud. Paljud kasutajad vaevu kriimustavad nende loomulike funktsioonide pinda, mis võib meilivoo haldamist oluliselt muuta.
 
 ### Sildid ja filtrid: teie esimene kaitseliin
 
@@ -25,7 +25,7 @@ Mõelge **Siltidele** kui paindlikele ja võimsatele siltidele, mida saate meili
 
 - **Siltide loomine:** kerige vasakpoolsel külgribal alla, klõpsake valikul „Veel” ja seejärel käsul „Loo uus silt”. Andke sellele selge ja lühike nimi. Võimalusel vältige sümboleid.
 
-- **Pesasildid:** korraldage veelgi, luues alamsilte (nt „Proobjektid” > „Proobjekt Alpha”). Sildi loomisel märkige ruut „Pest silt all” ja valige ülem.
+- **Pesasildid:** korraldage veelgi, luues alamsilte (nt „Projektid” > „Proobjekt Alpha”). Sildi loomisel märkige ruut „Pest silt all” ja valige ülem.
 
 - **Värvikood:** määrake sageli kasutatavatele siltidele värve, et postkastis kiiresti visuaalselt tuvastada. Hõljutage kursorit külgribal sildi kohal, klõpsake kolmel punktil ja valige „Sildi värv”.
 
@@ -95,9 +95,7 @@ Need funktsioonid liiguvad lihtsast korraldamisest aktiivsesse töövoohaldusse,
 
 ## Proven Frameworks: meilihaldusmeetodid Gmail jaoks
 
-Õigete tööriistade olemasolu on hädavajalik, kuid ilma süsteemita võite end siiski ülekoormatuna tunda. Tõestatud meilihaldusmetoodika kasutuselevõtt annab raamistiku nende tööriistade tõhusaks kasutamiseks.
-
-![Graafika, mis illustreerib Inbox Zero kontseptsiooni, võib-olla näitab puhast postkasti või korrastatud töölauda](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+Õigete tööriistade olemasolu on hädavajalik, kuid ilma süsteemita võite end siiski ülekoormatuna tunda. Tõestatud meilihaldusmetoodika kasutuselevõtt annab raamistiku nende tööriistade tõhusaks kasutamiseks.![Graafika, mis illustreerib Inbox Zero kontseptsiooni, võib-olla näitab puhast postkasti või korrastatud töölauda](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Sellised meetodid nagu Inbox Zero pakuvad süsteemi e-kirjade tõhusaks töötlemiseks.
 
@@ -165,13 +163,13 @@ Selle asemel, et reageerida igale sissetulevale meiliteatisele, hõlmab pakettt�
 
 OHIO on lihtne, kuid võimas töötlemise reegel: kui avate meili, tegelege sellega täielikult _just siis_. Otsustage selle saatus – vastake, arhiveerige, kustutage, delegeerige või edasi lükake (ülesannete loendisse/kalendrisse lisamise või edasilükkamise teel) – ja seejärel liikuge edasi. Peamine on vältida meili lugemist, selle sulgemist ja hiljem uuesti lugemist ja läbimõtlemist.
 
-**OHIO rakendamine Gmailis:** see nõuab distsipliini. Ärge avage e-kirja, kui teil pole aega ja vaimset ruumi otsuse tegemiseks ja sobivate toimingute tegemiseks. See täiendab selliseid meetodeid nagu GTD, jõustades kohese töötlemise pärast üksuse kaasamist.
+**OHIO rakendamine Gmail is:** see nõuab distsipliini. Ärge avage e-kirja, kui teil pole aega ja vaimset ruumi otsuse tegemiseks ja sobivate toimingute tegemiseks. See täiendab selliseid meetodeid nagu GTD, jõustades kohese töötlemise pärast üksuse kaasamist.
 
 Kuigi see on tõhus mahajäämuse ärahoidmiseks, ärge kiirustage keeruliste otsustega. OHIO töötab reeglina kõige paremini laiema organisatsioonistrateegia raames.
 
 ## Tõstke oma Gmail taset: uurige kolmanda osapoole organisatsiooni tööriistu
 
-Kuigi Gmaili algsed tööriistad ja kindlad metoodikad moodustavad tugeva aluse, vajate mõnikord spetsiifilisemaid võimalusi. Nende lünkade täitmiseks on olemas edukas kolmandate osapoolte laienduste ja integratsioonide ökosüsteem, eriti ärikasutajate ja -meeskondade jaoks.
+Kuigi Gmail i algsed tööriistad ja kindlad metoodikad moodustavad tugeva aluse, vajate mõnikord spetsiifilisemaid võimalusi. Nende lünkade täitmiseks on olemas edukas kolmandate osapoolte laienduste ja integratsioonide ökosüsteem, eriti ärikasutajate ja -meeskondade jaoks.
 
 ### Ülesandehalduse integratsioonid
 
@@ -179,7 +177,7 @@ Kui järgite oma ülesannete loendit, on selle integreerimine Gmail-ga mängu mu
 
 ### CRM-i laiendused Gmail jaoks
 
-Vabakutseliste, müügimeeskondade või kõigi kliendisuhteid haldavate inimeste jaoks on CRM-i tarkvara ja e-posti žongleerimine pidev kontekstivahetus. CRM-i laiendused, nagu [**Streak**](https://www.streak.com/), [**Copper**](https://www.copper.com/) (spetsiaalselt Google Workspace jaoks loodud) ja [**HubSpot Sales**](https://www.hubspot.com/products/sales/gmail), manustavad CRM-i funktsioonid otse teie Gmail liidesesse. Saate vaadata kontaktide ajalugu, hallata müügitorusid, logida e-kirju automaatselt ja kasutada meilimalle – kõike seda koos asjakohase meililõimega. See annab olulise konteksti ja lihtsustab oluliselt töövooge. Kuigi Streak on Gmailis sageli tuntud torujuhtmete haldamise poolest, on Copperil sügav Google integratsioon, kuigi mõned kasutajad teatavad vigadest.
+Vabakutseliste, müügimeeskondade või kõigi kliendisuhteid haldavate inimeste jaoks on CRM-i tarkvara ja e-posti žongleerimine pidev kontekstivahetus. CRM-i laiendused, nagu [**Streak**](https://www.streak.com/), [**Copper**](https://www.copper.com/) (spetsiaalselt Google Workspace jaoks loodud) ja [**HubSpot Sales**](https://www.hubspot.com/products/sales/gmail), manustavad CRM-i funktsioonid otse teie Gmail liidesesse. Saate vaadata kontaktide ajalugu, hallata müügitorusid, logida e-kirju automaatselt ja kasutada meilimalle – kõike seda koos asjakohase meililõimega. See annab olulise konteksti ja lihtsustab oluliselt töövooge. Kuigi Streak on Gmail is sageli tuntud torujuhtmete haldamise poolest, on Copperil sügav Google integratsioon, kuigi mõned kasutajad teatavad vigadest.
 
 ### Visuaalsed korraldajad ja koostöökeskused
 
@@ -190,16 +188,14 @@ Gmail ei olnud oma olemuselt loodud keerukaks meeskonnatööks ega visuaalseks p
 | Kategooria                 | Põhifunktsioon                                                              | Kellele see on mõeldud                                    | Näidistööriistad                      | Peamine kasu                                                         |
 | ------------------------ | -------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------- |
 | **Task Management**      | Muutke meilid ülesanneteks, linkige meilid ülesannetega, hallake tähtaegu rakendusest Gmail. | Üksikisikud/meeskonnad, kes vajavad keskendumist ülesandele, GTD kasutajad | Todoist Gmail jaoks, Asana Gmail jaoks | Integreerib sujuvalt suhtlust teostatavate ülesannete loenditega.     |
-| **CRM**                  | Kontaktide, tehingute, torujuhtmete vaatamine/haldamine; logige e-kirjad otse Gmailis.  | Müügimeeskonnad, vabakutselised, kliendihaldurid       | Streak, Copper, HubSpot müük      | Provaatab e-kirjade kõrval olulist kliendi konteksti ja säästab aega.     |
-| **Visuaal/koostöö** | Lisage Kanbani tahvlid, jagatud postkastid/sildid, sisemised märkmed, meeskonna funktsioonid.   | Jagatud juurdepääsu vajavad meeskonnad, visuaalsed mõtlejad    | Gmelius, Sortd, ActiveInbox        | Parandab meeskonna töövoogu ja visuaalset korraldust Gmaili piirides. |
+| **CRM**                  | Kontaktide, tehingute, torujuhtmete vaatamine/haldamine; logige e-kirjad otse Gmail is.  | Müügimeeskonnad, vabakutselised, kliendihaldurid       | Streak, Copper, HubSpot müük      | Provaatab e-kirjade kõrval olulist kliendi konteksti ja säästab aega.     |
+| **Visuaal/koostöö** | Lisage Kanbani tahvlid, jagatud postkastid/sildid, sisemised märkmed, meeskonna funktsioonid.   | Jagatud juurdepääsu vajavad meeskonnad, visuaalsed mõtlejad    | Gmelius, Sortd, ActiveInbox        | Parandab meeskonna töövoogu ja visuaalset korraldust Gmail i piirides. |
 
 Nende populaarsete tööriistade olemasolu toob esile kohad, kus natiivne Gmail ei ole sageli professionaalseks kasutamiseks mõeldud, eriti jagatud töövoogude ja välise konteksti (nt ülesanded või kliendiandmed) integreerimisel. Nende eesmärk on luua ühtsem tööruum, vähendades pidevalt vahetatavate rakenduste tootlikkuse äravoolu.
 
 ## Tulevik on käes: kuidas tehisintellekt muudab Gmail organisatsiooni pöörde
 
-Lisaks käsitsi reeglitele ja kolmandate osapoolte integreerimisele on järgmine piir: tehisintellekt. Tehisintellekti e-posti assistendid liiguvad kaugemale lihtsast sortimisest, et pakkuda intelligentset automatiseerimist, mis mõistab konteksti ja õpib teie eelistusi. Kuna tehisintellekti kasutuselevõtt kasvab äris kiiresti ja näitab märkimisväärset tootlikkuse kasvupotentsiaali, on selle mõju meilihaldusele sügav.
-
-![Illustratsioon, mis kujutab AI-robotit, kes elegantsel futuristlikul arvutiliidesel e-kirju arukalt sorteerib ja prioritiseerib](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+Lisaks käsitsi reeglitele ja kolmandate osapoolte integreerimisele on järgmine piir: tehisintellekt. Tehisintellekti e-posti assistendid liiguvad kaugemale lihtsast sortimisest, et pakkuda intelligentset automatiseerimist, mis mõistab konteksti ja õpib teie eelistusi. Kuna tehisintellekti kasutuselevõtt kasvab äris kiiresti ja näitab märkimisväärset tootlikkuse kasvupotentsiaali, on selle mõju meilihaldusele sügav.![Illustratsioon, mis kujutab AI-robotit, kes elegantsel futuristlikul arvutiliidesel e-kirju arukalt sorteerib ja prioritiseerib](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 AI muudab e-posti haldust nutika triaaži, kokkuvõtete tegemise ja koostamisvõimalustega.
 
@@ -231,7 +227,7 @@ AI kujutab endast põhjapanevat nihet _haldusest_ e-kirjade _täiendamisele_ seo
 
 ## Kõik kokku: oma täiusliku Gmail organisatsioonisüsteemi leidmine
 
-Oleme käsitlenud palju: Gmaili algtööriistade valdamist, distsiplineeritud metoodikate rakendamist, kolmandate osapoolte laienduste võimendamist ja tehisintellekti abi omaksvõtmist. Niisiis, milline on ideaalne süsteem?
+Oleme käsitlenud palju: Gmail i algtööriistade valdamist, distsiplineeritud metoodikate rakendamist, kolmandate osapoolte laienduste võimendamist ja tehisintellekti abi omaksvõtmist. Niisiis, milline on ideaalne süsteem?
 
 Tõde on see, et **ei ole ühest õiget vastust.** Parim Gmail organisatsioonisüsteem on see, mis vastab _teie_ konkreetsetele vajadustele, töövoogudele, meilide mahule ja isikupärale.
 
@@ -259,7 +255,7 @@ Tõde on see, et **ei ole ühest õiget vastust.** Parim Gmail organisatsioonis�
 
 ## Järeldus: hankige tagasi oma postkast, võtke tagasi oma aeg
 
-Meilide ülekoormus on tänapäevasel töökohal läbiv väljakutse, kuid see pole ületamatu. Kombineerides strateegiliselt Gmaili võimsad algfunktsioonid, võttes kasutusele distsiplineeritud töötlemismeetodid, nagu Inbox Zero või GTD, võimendades sihtotstarbelisi kolmanda osapoole tööriistu ja kasutades tehisintellekti võimsust, saate muuta oma postkasti pideva stressi allikast sujuvamaks suhtluse ja tootlikkuse mootoriks.
+Meilide ülekoormus on tänapäevasel töökohal läbiv väljakutse, kuid see pole ületamatu. Kombineerides strateegiliselt Gmail i võimsad algfunktsioonid, võttes kasutusele distsiplineeritud töötlemismeetodid, nagu Inbox Zero või GTD, võimendades sihtotstarbelisi kolmanda osapoole tööriistu ja kasutades tehisintellekti võimsust, saate muuta oma postkasti pideva stressi allikast sujuvamaks suhtluse ja tootlikkuse mootoriks.
 
 Lõppeesmärk on kulutada vähem aega _haldamisele_ ja rohkem aega tõeliselt olulise töö tegemiseks. Olenemata sellest, kas alustate mõne võtmefiltri seadistamisest, paketttöötlusest või tehisintellekti assistendi uurimisest, astuge juba täna üks samm rahulikuma ja organiseerituma digitaalse elu suunas.
 

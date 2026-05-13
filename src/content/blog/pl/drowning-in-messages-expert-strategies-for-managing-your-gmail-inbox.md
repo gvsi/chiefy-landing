@@ -3,7 +3,7 @@ title: "Utonąć w wiadomościach? Eksperckie strategie zarządzania skrzynką G
 description: "Dość przeciążenia e-mailami! Poznaj eksperckie strategie zarządzania skrzynką Gmail — od klasycznych taktyk po narzędzia AI — i odzyskaj produktywność."
 publishedAt: 2025-07-04
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Inbox Management", "Email"]
+tags: ["AI", "Gmail", "Zarządzanie skrzynką odbiorczą", "E-mail"]
 draft: false
 ---
 

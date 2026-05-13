@@ -3,7 +3,7 @@ title: "HTML ईमेल फूटर्ससाठी अंतिम मा�
 description: "HTML ईमेल फूटर्सवर प्रभुत्व मिळवा: आवश्यक घटक, डिझाइन टिप्स, कायदेशीर अनुपालन (CAN-SPAM, GDPR, CASL) आणि ब्रँडिंग उदाहरणे."
 publishedAt: 2026-01-05
 author: "Duet Mail Team"
-tags: ["AI", "Email"]
+tags: ["AI", "ईमेल"]
 draft: false
 ---
 

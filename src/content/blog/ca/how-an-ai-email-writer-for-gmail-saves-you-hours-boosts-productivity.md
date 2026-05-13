@@ -1,9 +1,9 @@
 ---
-title: "Com un escriptor de correu electrònic AI per a Gmail us estalvia hores i augmenta la productivitat\n"
+title: "Com un escriptor de correu electrònic AI per a Gmail us estalvia hores i augmenta la productivitat"
 description: "Ofegar-se als correus electrònics? Descobriu com un redactor de correu electrònic AI per a Gmail pot redactar respostes, resumir fils i recuperar la vostra jornada laboral. Augmenta la productivitat avui!"
 publishedAt: 2025-07-25
 author: "Duet Mail Team"
-tags: ["AI","Gmail","Productivitat\n","Redacció de correu electrònic"]
+tags: ["AI","Gmail","Productivitat","Redacció de correu electrònic"]
 draft: false
 ---
 

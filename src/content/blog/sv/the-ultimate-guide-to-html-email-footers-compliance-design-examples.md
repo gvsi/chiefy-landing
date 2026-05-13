@@ -25,7 +25,7 @@ Varför ägna dyrbar tid åt detta lilla utrymme? Fördelarna är betydande:
 
 - **Engagemang och navigering:**Proger enkel åtkomst till sociala medieprofiler, webbplatslänkar, preferenscenter eller till och med sekundära uppmaningar (som att ladda ner en app).
 
-- **Leverans:**Properly formaterade sidfötter med nödvändiga element hjälper till att signalera till e-postklienter (somGmail,Outlook) att dina e-postmeddelanden inte är skräppost.
+- **Leverans:**Properly formaterade sidfötter med nödvändiga element hjälper till att signalera till e-postklienter (som Gmail,Outlook) att dina e-postmeddelanden inte är skräppost.
 
 ## Måste-has: väsentliga element för varje sidfot för e-post
 
@@ -60,9 +60,7 @@ Med [en betydande del av e-postmeddelanden öppnade på mobila enheter](https://
 
 - Göra länkar och knappar tillräckligt stora för att lätt kunna tryckas på (minst 44x44 pixlar).
 
-- Testa din sidfot på olika enheter och e-postklienter med hjälp av verktyg som [Litmus](https://www.litmus.com/) eller [Email on Acid](https://www.emailonacid.com/).
-
-![Jämförelse sida vid sida som visar hur en väldesignad sidfot för e-post anpassar sin layout från skrivbordsvy till mobilvy](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Testa din sidfot på olika enheter och e-postklienter med hjälp av verktyg som [Litmus](https://www.litmus.com/) eller [Email on Acid](https://www.emailonacid.com/).![Jämförelse sida vid sida som visar hur en väldesignad sidfot för e-post anpassar sin layout från skrivbordsvy till mobilvy](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Se till att din sidfot ser bra ut och fungerar perfekt på alla skärmstorlekar.
 
@@ -122,4 +120,4 @@ Din HTML-e-postsidfot kan vara det sista som mottagarna ser, men det borde inte 
 
 Det bygger förtroende, stärker ditt varumärke, säkerställer efterlevnad och ger användbar navigering för din publik. Ta dig tid att granska din nuvarande sidfot för e-post. Är det kompatibelt? Är det klart? Är det mobilanpassat? Att göra dessa små förbättringar kan ha stor inverkan på hur dina e-postmeddelanden – och ditt varumärke – uppfattas.
 
-Letar du efter sätt att göra din övergripande e-posthantering mer effektiv och professionell? Överväg att utforska verktyg som är utformade för upptagna proffs. Om du till exempel lär dig hur [Duet Mailförenklar e-postproduktiviteten](https://duetmail.com/sv) med AI-drivna funktioner kan frigöra mer tid för att fokusera på att fullända detaljer som sidfoten och se till att varje kommunikation representerar dig väl.
+Letar du efter sätt att göra din övergripande e-posthantering mer effektiv och professionell? Överväg att utforska verktyg som är utformade för upptagna proffs. Om du till exempel lär dig hur [Duet Mail förenklar e-postproduktiviteten](https://duetmail.com/sv) med AI-drivna funktioner kan frigöra mer tid för att fokusera på att fullända detaljer som sidfoten och se till att varje kommunikation representerar dig väl.

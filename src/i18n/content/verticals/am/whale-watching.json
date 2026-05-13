@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ቲ ጻፈ፡-",
     "originalText": "ሰላም! ለሳምንት 8 የሚጎበኝ ቤተሰብ ነን። ሰኔ 14 በጠዋት ጉብኝት ላይ ቦታ አለህ? ለአንድ ሰው ዋጋው ስንት ነው እና ለልጆች ደህና ነው?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "ሰላም Rachel!",
+      "የጁን 14 ጠዋት ጉብኝት ለ8 ሰዎች በቂ ቦታ አለው። ቲኬቶች $125/ሰው ናቸው፣ 4-12 ዓመት የሆኑ ልጆች ግማሽ ዋጋ ናቸው። በ9 AM እንነሳለን እና በ11:30 አካባቢ እንመለሳለን።",
+      "ቢኖክዮላስ እና የዝናብ መሳሪያ ይቀርባሉ — ሞቃት ተደራራቢ ልብስ እና የፀሐይ መከላከያ ብቻ ይዘው ይምጡ። ልጆች በመመልከቻ ዴክ ላይ መቆምን ይወዳሉ።",
+      "8 ቦታዎችን እንዳስይዝ?"
     ],
     "highlightText": "ሰኔ 14 የጠዋት ጉብኝት ለ 8 ብዙ ቦታ አለው. ትኬቶች በሰዎች 125 ዶላር ናቸው።",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "የጉብኝት ጊዜዎችዎን እና ዋጋዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "ምን እንደሚያመጡ በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

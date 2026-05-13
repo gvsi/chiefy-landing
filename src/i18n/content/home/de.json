@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Duet Mail| AI-E-Mail-Assistent fürGmailundOutlook",
-    "description": "Der KI-E-Mail-Assistent vonDuet Mailfasst E-Mails zusammen, entwirft Antworten und organisiert Ihren Posteingang. Funktioniert mitGmailundOutlook. Sparen Sie mehr als 4 Stunden pro Woche."
+    "title": "Duet Mail | AI-E-Mail-Assistent für Gmail und Outlook",
+    "description": "Der KI-E-Mail-Assistent von Duet Mail fasst E-Mails zusammen, entwirft Antworten und organisiert Ihren Posteingang. Funktioniert mit Gmail und Outlook. Sparen Sie mehr als 4 Stunden pro Woche."
   },
   "hero": {
-    "badge": "Jetzt verfügbar fürGmailundOutlook",
+    "badge": "Jetzt verfügbar für Gmail und Outlook",
     "headlinePrefix": "Ihr ",
     "headlineHighlight": "Stabschef",
     "headlineSuffix": " für",
@@ -15,8 +15,8 @@
       "Antworten finden"
     ],
     "subline": "Sparen Sie jede Woche mehr als 4 Stunden per E-Mail",
-    "primaryCta": "Beginnen Sie mitGmail",
-    "secondaryCta": "Beginnen Sie mitOutlook",
+    "primaryCta": "Beginnen Sie mit Gmail",
+    "secondaryCta": "Beginnen Sie mit Outlook",
     "trialNote": "Kostenlose 14-tägige Testversion",
     "cancelNote": "Jederzeit kündbar"
   },
@@ -37,7 +37,7 @@
       "10:05 AM",
       "Gestern"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Automatischer Entwurf",
     "emails": [
       {
         "from": "Alex Rivera",
@@ -78,7 +78,7 @@
     "ariaLabel": "Funktionen",
     "eyebrow": "Ihr Posteingang, aufgeladen",
     "title": "Ihr Posteingang sollte nicht Ihr Tag sein",
-    "subtitle": "Verwandeln Sie Chaos in Klarheit mit KI, die Sie wirklich berührt.\nSparen Sie jede Woche mehr als 3 Stunden mit dem intelligentesten E-Mail-Assistenten fürGmailundOutlook.",
+    "subtitle": "Verwandeln Sie Chaos in Klarheit mit KI, die Sie wirklich berührt.\nSparen Sie jede Woche mehr als 3 Stunden mit dem intelligentesten E-Mail-Assistenten für Gmail und Outlook.",
     "cards": [
       {
         "id": "drafts",
@@ -100,7 +100,7 @@
         "mockCopy": {
           "sentencePrefix": "Ich schlage vor, wir ",
           "sentenceHighlight": "Treffen wir uns nächste Woche",
-          "sentenceSuffix": " ?",
+          "sentenceSuffix": "?",
           "actionTitle": "Neues Aktionselement",
           "actionLead": "Ich habe diese freien Plätze in Ihrem Kalender gefunden",
           "slots": [
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligente Erinnerungen",
-        "description": "Stellen Sie es ein und vergessen Sie es.DuetAI erinnert sich daran, nachzufassen, wenn andere nicht antworten, sodass nichts durchs Raster fällt.",
+        "description": "Stellen Sie es ein und vergessen Sie es.Duet AI erinnert sich daran, nachzufassen, wenn andere nicht antworten, sodass nichts durchs Raster fällt.",
         "ariaLabel": "Intelligente Erinnerungen",
         "mockCopy": {
           "header": "KI-gestützte intelligente Erinnerungen",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "E-Mail-Organisation und intelligente Posteingangskategorisierung",
     "badge": "Organisation",
-    "title": "Duetorganisiert Ihren Posteingang",
+    "title": "Duet organisiert Ihren Posteingang",
     "subtitle": "Durch die automatische Kategorisierung werden Geräusche und Oberflächen auf das Wesentliche gefiltert. Sehen Sie sofort, was Handlungsbedarf hat, was nur zur Information ist und was warten kann.",
     "windowTitle": "Posteingang",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "KI-E-Mail-Erstellung und Antwortgenerierung",
     "badge": "Ausarbeitung",
-    "title": "DuetEntwürfe in Ihrer Stimme",
-    "subtitle": "Duetlernt, wie Sie schreiben, und verfasst Antworten, die Ihrem Ton entsprechen. Überprüfen Sie es, passen Sie es bei Bedarf an und senden Sie es in Sekundenschnelle.",
+    "title": "Duet Entwürfe in Ihrer Stimme",
+    "subtitle": "Duet lernt, wie Sie schreiben, und verfasst Antworten, die Ihrem Ton entsprechen. Überprüfen Sie es, passen Sie es bei Bedarf an und senden Sie es in Sekundenschnelle.",
     "windowTitle": "Neue Nachricht",
     "fieldLabels": {
       "to": "An:",
@@ -252,12 +252,12 @@
     "ariaLabel": "KI-E-Mail-Intelligenz und -Assistent",
     "badge": "Intelligenz",
     "title": "Fragen Sie alles zu Ihrer E-Mail",
-    "subtitle": "Bitten SieDuet, E-Mails zu finden, Ihren Kalender zu überprüfen oder eine Antwort zu verfassen. Es versteht Ihren Posteingang und antwortet sofort.",
-    "windowTitle": "DuetAgent",
+    "subtitle": "Bitten Sie Duet, E-Mails zu finden, Ihren Kalender zu überprüfen oder eine Antwort zu verfassen. Es versteht Ihren Posteingang und antwortet sofort.",
+    "windowTitle": "Duet Agent",
     "onlineLabel": "Online",
     "initialUserMessage": "Können Sie die von der Buchhaltung gesendeteStripe-Rechnung finden?",
     "processingText": "Posteingang wird durchsucht...",
-    "foundHeader": "Es wurden 2 E-Mails vonStripegefunden",
+    "foundHeader": "Es wurden 2 E-Mails von Stripe gefunden",
     "foundBody": "Ich habe die Quittung über 29,00 USD vom 24. Oktober gefunden.",
     "attachment": {
       "fileName": "bill_oct24.pdf",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Freiberufler",
-        "quote": "Jeden Cent wert. Die Zeit, die ich beim E-Mail-Versand spare, zahlt sichDuet Mailum das Zehnfache aus. Ich kann mir jetzt nicht vorstellen, ohne zu arbeiten.",
+        "quote": "Jeden Cent wert. Die Zeit, die ich beim E-Mail-Versand spare, zahlt sich Duet Mail um das Zehnfache aus. Ich kann mir jetzt nicht vorstellen, ohne zu arbeiten.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Berater",
-        "quote": "Als Berater zählt jede Minute.Duet Mailspart mir nicht nur Zeit – es macht meine E-Mail-Kommunikation besser.",
+        "quote": "Als Berater zählt jede Minute.Duet Mail spart mir nicht nur Zeit – es macht meine E-Mail-Kommunikation besser.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,11 +390,11 @@
             "description": "Grundlegende Organisation zum Starten"
           },
           {
-            "title": "DuetAssistent",
+            "title": "Duet Assistent",
             "description": "Probieren Sie den KI-Assistenten aus"
           }
         ],
-        "ctaLabel": "Wählen SieGmailoderOutlook"
+        "ctaLabel": "Wählen Sie Gmail oder Outlook"
       },
       {
         "name": "Pro",
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "DuetAssistent",
+            "title": "Duet Assistent",
             "description": "Chatten Sie, um zu finden, zu entwerfen, zu organisieren und mehr",
             "highlight": true
           },
@@ -437,7 +437,7 @@
             "description": "Echte Menschen, schnelle Antworten"
           }
         ],
-        "ctaLabel": "Wählen SieGmailoderOutlook",
+        "ctaLabel": "Wählen Sie Gmail oder Outlook",
         "featured": true
       },
       {
@@ -487,24 +487,24 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "Wie schütztDuet Mailmeine E-Mail-Daten?",
-        "answer": "Ihre Sicherheit hat für uns oberste Priorität. Wir verwendenOAuth2.0 für die sichere Authentifizierung sowohl mitGoogleals auch mitMicrosoft. E-Mail-Inhalte werden im Ruhezustand mithilfe der clientseitigen Verschlüsselung auf Feldebene verschlüsselt, und wir folgen dem Prinzip der geringsten Berechtigung für den API-Zugriff. Für unsereGoogle-Integration unterziehen wir uns der jährlichenCASASicherheitsbewertung vonGoogle."
+        "question": "Wie schützt Duet Mail meine E-Mail-Daten?",
+        "answer": "Ihre Sicherheit hat für uns oberste Priorität. Wir verwenden OAuth 2.0 für die sichere Authentifizierung sowohl mit Google als auch mit Microsoft. E-Mail-Inhalte werden im Ruhezustand mithilfe der clientseitigen Verschlüsselung auf Feldebene verschlüsselt, und wir folgen dem Prinzip der geringsten Berechtigung für den API-Zugriff. Für unsere Google-Integration unterziehen wir uns der jährlichen CASASicherheitsbewertung von Google."
       },
       {
         "question": "Wie funktioniert die E-Mail-Zusammenfassungsfunktion?",
-        "answer": "Duet Mailnutzt fortschrittliche KI, um Ihre E-Mail-Threads zu analysieren und eine prägnante Übersicht zu erstellen, die die wichtigsten Punkte, Entscheidungen und Aktionspunkte hervorhebt. Dies hilft Ihnen, den Kontext schnell zu verstehen, ohne den gesamten Thread lesen zu müssen."
+        "answer": "Duet Mail nutzt fortschrittliche KI, um Ihre E-Mail-Threads zu analysieren und eine prägnante Übersicht zu erstellen, die die wichtigsten Punkte, Entscheidungen und Aktionspunkte hervorhebt. Dies hilft Ihnen, den Kontext schnell zu verstehen, ohne den gesamten Thread lesen zu müssen."
       },
       {
-        "question": "Welche Berechtigungen benötigtDuet Mail?",
-        "answer": "Duet Mailerfordert Zugriff auf Ihre E-Mails, um Zusammenfassungen bereitzustellen, Aktionselemente zu extrahieren, Inhalte zu generieren und Ihre E-Mails zu senden. Wir fordern nur Berechtigungen an, die wir unbedingt benötigen. Sie können diese Berechtigungen jederzeit in den Einstellungen IhresGoogle-Kontos oderMicrosoft-Kontos überprüfen und widerrufen."
+        "question": "Welche Berechtigungen benötigt Duet Mail?",
+        "answer": "Duet Mail erfordert Zugriff auf Ihre E-Mails, um Zusammenfassungen bereitzustellen, Aktionselemente zu extrahieren, Inhalte zu generieren und Ihre E-Mails zu senden. Wir fordern nur Berechtigungen an, die wir unbedingt benötigen. Sie können diese Berechtigungen jederzeit in den Einstellungen Ihres Google-Kontos oder Microsoft-Kontos überprüfen und widerrufen."
       },
       {
         "question": "Was ist in der kostenlosen Testversion enthalten?",
-        "answer": "Die 14-tägige kostenlose Testversion beinhaltet vollen Zugriff auf allePro-Funktionen: unbegrenzte E-Mail-Zusammenfassungen, Extraktion von Aktionselementen, AI-E-Mail-Writer (Generierung von E-Mails und Entwürfen ohne Einschränkungen) und benutzerdefinierte E-Mail-Vorlagen. Melden Sie sich mitGoogleoderMicrosoftan, um Zeit bei der E-Mail-Verwaltung zu sparen."
+        "answer": "Die 14-tägige kostenlose Testversion beinhaltet vollen Zugriff auf alle Pro-Funktionen: unbegrenzte E-Mail-Zusammenfassungen, Extraktion von Aktionselementen, AI-E-Mail-Writer (Generierung von E-Mails und Entwürfen ohne Einschränkungen) und benutzerdefinierte E-Mail-Vorlagen. Melden Sie sich mit Google oder Microsoft an, um Zeit bei der E-Mail-Verwaltung zu sparen."
       },
       {
-        "question": "Kann ichDuet Mailmit anderen E-Mail-Anbietern verwenden?",
-        "answer": "Duet MailunterstütztGmail,GoogleWorkspace undMicrosoftOutlook. Melden Sie sich mit IhremGoogle- oderMicrosoft-Konto an, um loszulegen."
+        "question": "Kann ich Duet Mail mit anderen E-Mail-Anbietern verwenden?",
+        "answer": "Duet Mail unterstützt Gmail, Google Workspace und Microsoft Outlook. Melden Sie sich mit Ihrem Google- oder Microsoft-Konto an, um loszulegen."
       }
     ]
   },
@@ -512,11 +512,11 @@
     "ariaLabel": "Fangen Sie an",
     "headline": "Erhalten Sie 4 Stunden zurück.\nJede Woche.",
     "subline": "Schließen Sie sich den Profis an, die ihren Tag mit Klarheit und nicht mit Chaos beginnen. Ihre kostenlose Testversion wartet auf Sie.",
-    "primaryCta": "Beginnen Sie mitGmail",
-    "secondaryCta": "Beginnen Sie mitOutlook",
+    "primaryCta": "Beginnen Sie mit Gmail",
+    "secondaryCta": "Beginnen Sie mit Outlook",
     "note": "14-tägige kostenlose Testversion · Jederzeit kündbar",
     "trustItems": [
-      "GoogleCASA-bewertet",
+      "Google CASA-bewertet",
       "Im Ruhezustand verschlüsselt",
       "Sichern SieOAuth2.0"
     ]
@@ -525,8 +525,8 @@
     "ariaLabel": "Fußzeile der Website",
     "brandIconAlt": "Duet Mail-Symbol",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail– Der KI-E-Mail-Assistent, der Ihnen jede Woche Stunden spart",
-    "copyrightTemplate": "Duet Mail©{year}",
+    "tagline": "Duet Mail – Der KI-E-Mail-Assistent, der Ihnen jede Woche Stunden spart",
+    "copyrightTemplate": "Duet Mail ©{year}",
     "groups": [
       {
         "title": "Entdecken",
@@ -630,11 +630,11 @@
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet– KI-E-Mail-Assistent fürGmailundOutlook",
+    "websiteAlternateName": "Duet – KI-E-Mail-Assistent für Gmail und Outlook",
     "organizationName": "Duet Mail",
     "organizationContactType": "Kundensupport",
     "softwareName": "Duet Mail",
-    "softwareDescription": "KI-E-Mail-Assistent fürGmailundOutlook, der E-Mails automatisch zusammenfasst, Antworten mit Ihrer Stimme entwirft und Ihren Posteingang organisiert, um jede Woche Stunden zu sparen.",
+    "softwareDescription": "KI-E-Mail-Assistent für Gmail und Outlook, der E-Mails automatisch zusammenfasst, Antworten mit Ihrer Stimme entwirft und Ihren Posteingang organisiert, um jede Woche Stunden zu sparen.",
     "applicationCategory": "Kommunikationsanwendung",
     "featureList": [
       "Intelligente E-Mail-Organisation und Kategorisierung",
@@ -663,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Erfordert JavaScript. Funktioniert mitGmail,GoogleWorkspace undMicrosoftOutlook.",
+    "browserRequirements": "Erfordert JavaScript. Funktioniert mit Gmail, Google Workspace und Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/de",
       "logo": "https://duetmail.com/favicon.svg",
@@ -676,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "Wie schütztDuet Mailmeine E-Mail-Daten?",
-        "answer": "Ihre Sicherheit hat für uns oberste Priorität. Wir verwendenOAuth2.0 für die sichere Authentifizierung sowohl mitGoogleals auch mitMicrosoft. E-Mail-Inhalte werden im Ruhezustand mithilfe der clientseitigen Verschlüsselung auf Feldebene verschlüsselt, und wir folgen dem Prinzip der geringsten Berechtigung für den API-Zugriff. Für unsereGoogle-Integration unterziehen wir uns der jährlichenCASASicherheitsbewertung vonGoogle."
+        "question": "Wie schützt Duet Mail meine E-Mail-Daten?",
+        "answer": "Ihre Sicherheit hat für uns oberste Priorität. Wir verwenden OAuth 2.0 für die sichere Authentifizierung sowohl mit Google als auch mit Microsoft. E-Mail-Inhalte werden im Ruhezustand mithilfe der clientseitigen Verschlüsselung auf Feldebene verschlüsselt, und wir folgen dem Prinzip der geringsten Berechtigung für den API-Zugriff. Für unsere Google-Integration unterziehen wir uns der jährlichen CASASicherheitsbewertung von Google."
       },
       {
         "question": "Wie funktioniert die E-Mail-Zusammenfassungsfunktion?",
-        "answer": "Duet Mailnutzt fortschrittliche KI, um Ihre E-Mail-Threads zu analysieren und eine prägnante Übersicht zu erstellen, die die wichtigsten Punkte, Entscheidungen und Aktionspunkte hervorhebt. Dies hilft Ihnen, den Kontext schnell zu verstehen, ohne den gesamten Thread lesen zu müssen."
+        "answer": "Duet Mail nutzt fortschrittliche KI, um Ihre E-Mail-Threads zu analysieren und eine prägnante Übersicht zu erstellen, die die wichtigsten Punkte, Entscheidungen und Aktionspunkte hervorhebt. Dies hilft Ihnen, den Kontext schnell zu verstehen, ohne den gesamten Thread lesen zu müssen."
       },
       {
-        "question": "Welche Berechtigungen benötigtDuet Mail?",
-        "answer": "Duet Mailerfordert Zugriff auf Ihre E-Mails, um Zusammenfassungen bereitzustellen, Aktionselemente zu extrahieren, Inhalte zu generieren und Ihre E-Mails zu senden. Wir fordern nur Berechtigungen an, die wir unbedingt benötigen. Sie können diese Berechtigungen jederzeit in den Einstellungen IhresGoogle-Kontos oderMicrosoft-Kontos überprüfen und widerrufen."
+        "question": "Welche Berechtigungen benötigt Duet Mail?",
+        "answer": "Duet Mail erfordert Zugriff auf Ihre E-Mails, um Zusammenfassungen bereitzustellen, Aktionselemente zu extrahieren, Inhalte zu generieren und Ihre E-Mails zu senden. Wir fordern nur Berechtigungen an, die wir unbedingt benötigen. Sie können diese Berechtigungen jederzeit in den Einstellungen Ihres Google-Kontos oder Microsoft-Kontos überprüfen und widerrufen."
       },
       {
         "question": "Was ist in der kostenlosen Testversion enthalten?",
-        "answer": "Die 14-tägige kostenlose Testversion beinhaltet vollen Zugriff auf allePro-Funktionen: unbegrenzte E-Mail-Zusammenfassungen, Extraktion von Aktionselementen, AI-E-Mail-Writer (Generierung von E-Mails und Entwürfen ohne Einschränkungen) und benutzerdefinierte E-Mail-Vorlagen. Melden Sie sich mitGoogleoderMicrosoftan, um Zeit bei der E-Mail-Verwaltung zu sparen."
+        "answer": "Die 14-tägige kostenlose Testversion beinhaltet vollen Zugriff auf alle Pro-Funktionen: unbegrenzte E-Mail-Zusammenfassungen, Extraktion von Aktionselementen, AI-E-Mail-Writer (Generierung von E-Mails und Entwürfen ohne Einschränkungen) und benutzerdefinierte E-Mail-Vorlagen. Melden Sie sich mit Google oder Microsoft an, um Zeit bei der E-Mail-Verwaltung zu sparen."
       },
       {
-        "question": "Kann ichDuet Mailmit anderen E-Mail-Anbietern verwenden?",
-        "answer": "Duet MailunterstütztGmail,GoogleWorkspace undMicrosoftOutlook. Melden Sie sich mit IhremGoogle- oderMicrosoft-Konto an, um loszulegen."
+        "question": "Kann ich Duet Mail mit anderen E-Mail-Anbietern verwenden?",
+        "answer": "Duet Mail unterstützt Gmail, Google Workspace und Microsoft Outlook. Melden Sie sich mit Ihrem Google- oder Microsoft-Konto an, um loszulegen."
       }
     ]
   }

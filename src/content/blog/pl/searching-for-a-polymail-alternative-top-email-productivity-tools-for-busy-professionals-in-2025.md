@@ -3,7 +3,7 @@ title: "Szukasz alternatywy dla Polymail? Najlepsze narzędzia do produktywnośc
 description: "Szukasz alternatywy dla Polymail? Porównaj Superhuman, Missive, Spark, Shortwave i Duet Mail pod kątem produktywności e-mailowej wspieranej przez AI."
 publishedAt: 2025-08-21
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Tools", "Email"]
+tags: ["AI", "Produktywność", "Narzędzia", "E-mail"]
 draft: false
 ---
 

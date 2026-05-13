@@ -1,5 +1,5 @@
 ---
-title: "Ofegar-se en missatges? Estratègies expertes per gestionar la vostra safata d'entrada Gmail\n"
+title: "Ofegar-se en missatges? Estratègies expertes per gestionar la vostra safata d'entrada Gmail"
 description: "Atura la sobrecàrrega de correu electrònic! Apreneu estratègies expertes per gestionar la vostra safata d'entrada Gmail, des de tàctiques clàssiques fins a eines AI, i recupera la vostra productivitat."
 publishedAt: 2025-07-04
 author: "Duet Mail Team"

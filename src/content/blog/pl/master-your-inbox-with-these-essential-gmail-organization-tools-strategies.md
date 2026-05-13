@@ -3,7 +3,7 @@ title: "Opanuj swoją skrzynkę odbiorczą dzięki tym niezbędnym narzędziom i
 description: "Poznaj niezbędne narzędzia do organizacji Gmaila, strategie takie jak Inbox Zero i GTD oraz dowiedz się, jak asystenci AI mogą pomóc Ci opanować skrzynkę odbiorczą i zwiększyć produktywność."
 publishedAt: 2025-09-01
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Inbox Management", "Tools"]
+tags: ["AI", "Gmail", "Zarządzanie skrzynką odbiorczą", "Narzędzia"]
 draft: false
 ---
 

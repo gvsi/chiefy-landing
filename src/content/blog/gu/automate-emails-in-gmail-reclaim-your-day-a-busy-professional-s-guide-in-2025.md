@@ -3,7 +3,7 @@ title: "Gmailમાં ઇમેઇલ્સ ઓટોમેટ કરો અન
 description: "તમારા ઇનબોક્સમાં ડૂબવાનું બંધ કરો! Gmailમાં બિલ્ટ-ઇન સુવિધાઓ, એક્સ્ટેન્શન્સ અને AI સહાયકોનો ઉપયોગ કરીને ઇમેઇલ્સ કેવી રીતે ઓટોમેટ કરવા તે શીખો, જેથી કલાકો બચાવી શકાય અને ઉત્પાદકતા વધારી શકાય"
 publishedAt: 2025-11-16
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Automation"]
+tags: ["AI", "Gmail", "ઉત્પાદકતા", "ઓટોમેશન"]
 draft: false
 ---
 

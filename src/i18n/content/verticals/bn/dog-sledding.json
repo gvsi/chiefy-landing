@@ -34,12 +34,12 @@
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "ট্রিপঅ্যাডভাইজার",
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকার জন্য নতুন পর্যালোচনা",
       "preview": "একজন ভ্রমণকারী সম্প্রতি আপনার ব্যবসা পর্যালোচনা করেছেন৷ দেখুন তারা কি বলে এবং প্রতিক্রিয়া জানায়...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -85,7 +85,7 @@
       "avatarLetter": "V",
       "avatarColor": "lavender",
       "subject": "আপনার সাপ্তাহিক বুকিং সারাংশ",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "প্রসঙ্গ: ৪ জনের জন্য অরোরা ও কুকুর-টানা স্লেজ গাড়ির যুগলবন্দী?",
+    "originalFrom": "Rachel T. লিখেছেন:",
+    "originalText": "হ্যালো! আমার চারজনের পরিবার জানুয়ারিতে ফেয়ারব্যাঙ্কস বেড়াতে আসছে। আপনারা কি ডগ স্লেডিং এবং অরোরা দেখার জন্য কোনো কম্বো প্যাকেজ দেন? সেটার দাম কত?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "এই Rachel!",
+      "আমাদের অরোরা + মাশ কম্বোটির মূল্য জনপ্রতি ১৭৫ ডলার — এতে রয়েছে গোধূলিবেলায় দেড় ঘণ্টার স্লেজ রাইড এবং এরপর আগুনের পাশে বসে গরম কোকো পান ও অরোরা দর্শন। ১২ বছর বা তার কম বয়সী শিশুদের জন্য মূল্য ১২৫ ডলার।",
+      "শীতের জন্য প্রয়োজনীয় সমস্ত সরঞ্জাম সরবরাহ করা হবে (বুট, বিব, গ্লাভস, ফেস মাস্ক)। শুধু এর নিচে গরম জামাকাপড় পরে নেবেন।",
+      "আপনি কি চান আমি আপনার চারজনের পরিবারের জন্য জানুয়ারি মাসটা বুক করে দিই?"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "অরোরা + মাশ কম্বো জনপ্রতি ১৭৫ ডলার — দেড় ঘণ্টার স্লেড রাইড",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "আপনার ট্যুরের ধরন ও মূল্য সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "সরঞ্জাম এবং অতিরিক্ত বিবরণ অন্তর্ভুক্ত",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

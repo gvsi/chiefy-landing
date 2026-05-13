@@ -1,6 +1,6 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail sukellusliikkeille | AI sähköpostiavustaja",
+  "pageTitle": "Duet Mail sukellusliikkeille | AI-sähköpostiavustaja",
   "metaDescription": "Duet Mail auttaa sukelluskauppojen omistajia ja PADI-ohjaajia vastaamaan sertifiointikyselyihin, matkavarauksiin ja varustekysymyksiin välittömästi – jopa veden alla.",
   "heroBadge": "Yli 300 sukellusoperaattorin luottama",
   "heroHeadline": "Sähköpostiavustajasi veden alla",
@@ -49,7 +49,7 @@
     "bookingUnit": "",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Yksi tallennettu ryhmäsukellus maksaa Duetin vuoden."
+    "punchline": "Yksi tallennettu ryhmäsukellus maksaa Duet in vuoden."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin sertifiointikyselyt ja sukellusvaraukset, sitten varustekysymykset ja PADI-ilmoitukset, kun olet valmis. Ei enää kaipaa ryhmävarausta, joka on haudattu laiteuutiskirjeiden alle.",
   "draftSubtitle": "Duet oppii sukelluspaikat, sertifikaattivaatimukset ja hinnoittelun. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on matkan tiedot, mitä sisältyy hintaan ja mitä ottaa mukaan. Tarkistat ja lähetät.",
@@ -139,7 +139,7 @@
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "Puolet sähköposteistani ovat \"mitä sertifikaattia tarvitsen hylkysukelluksiin?\" ja toinen puoli on \"Tarvitsenko omat varusteeni?\" Duetti käsittelee molemmat autopilotissa. Vastausaikani oli tunneista minuutteihin.",
+      "quote": "Puolet sähköposteistani ovat \"mitä sertifikaattia tarvitsen hylkysukelluksiin?\" ja toinen puoli on \"Tarvitsenko omat varusteeni?\" Duet ti käsittelee molemmat autopilotissa. Vastausaikani oli tunneista minuutteihin.",
       "avatarKey": "johnny"
     },
     {
@@ -163,8 +163,8 @@
       "answer": "Kyllä. Duet oppii sinun tietyt kurssisi – Open Water, Advanced, Rescue, Divemaster – sekä esitiedot, keston, hinnoittelun ja mitä sisältyy hintaan. Kun joku kysyy sertifioinnin hankkimisesta, Duet laatii vastauksen, jossa on oikeat kurssitiedot, aikataulu ja seuraavat vaiheet. Tarkistat ja lähetät."
     },
     {
-      "question": "Olen veneessä tai veden alla koko päivän. Voinko käyttää Duetia puhelimellani?",
-      "answer": "Kyllä. Duet toimii Gmail:n ja Outlook:n kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset näkyvät automaattisesti postilaatikossasi. Sukellusten välillä tai takaisin laiturille tarkistat ja lähetät yhdellä napautuksella. Useimmat sukellusoperaattorit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+      "question": "Olen veneessä tai veden alla koko päivän. Voinko käyttää Duet ia puhelimellani?",
+      "answer": "Kyllä. Duet toimii Gmailin ja Outlookin kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset näkyvät automaattisesti postilaatikossasi. Sukellusten välillä tai takaisin laiturille tarkistat ja lähetät yhdellä napautuksella. Useimmat sukellusoperaattorit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
     }
   ],
   "pricingNote": "Hinta 150 dollaria/sukellus 6 hengen ryhmällä yksi säästetty matka maksaa yli vuoden Pro:n."

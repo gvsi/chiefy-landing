@@ -3,7 +3,7 @@ title: "Polymail ला पर्याय शोधत आहात? 2025 म�
 description: "Polymail ला पर्याय शोधत आहात? AI ईमेल उत्पादकतेसाठी Superhuman, Missive, Spark, Shortwave, आणि Duet Mail यांची तुलना करा."
 publishedAt: 2025-08-21
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Tools", "Email"]
+tags: ["AI", "उत्पादकता", "साधने", "ईमेल"]
 draft: false
 ---
 

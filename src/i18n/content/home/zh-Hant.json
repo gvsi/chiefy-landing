@@ -24,7 +24,7 @@
     "ariaHidden": true,
     "callouts": [
       "即時分類",
-      "AI 支援的回复"
+      "AI 支援的回覆"
     ],
     "windowTitle": "收件匣",
     "providers": [
@@ -42,7 +42,7 @@
       {
         "from": "亞歷克斯·裡維拉",
         "avatarLetter": "A",
-        "subject": "回覆：Product 發佈時間表",
+        "subject": "回覆：產品發布時間表",
         "preview": "嘿！想要檢查啟動資產。下週我們還在計畫嗎？",
         "pill": "回應"
       },
@@ -63,7 +63,7 @@
         "from": "購物",
         "avatarLetter": "S",
         "subject": "您的商店已準備好迎接黑色星期五",
-        "pill": "Pro運動"
+        "pill": "促銷"
       }
     ],
     "autodraft": "嗨亞歷克斯！是的，我們正步入正軌。設計團隊昨天完成了資產，我將在今天透過 EOD 發送最終文件。"
@@ -142,7 +142,7 @@
               "time": "2天前"
             },
             {
-              "title": "PHX0000XH專案集成",
+              "title": "專案整合",
               "time": "12 小時前"
             }
           ],
@@ -203,12 +203,12 @@
       {
         "from": "Stripe",
         "subject": "您的月結單已準備好",
-        "pill": "Pro運動"
+        "pill": "促銷"
       },
       {
         "from": "時事通訊",
         "subject": "每週摘要",
-        "pill": "Pro運動"
+        "pill": "促銷"
       }
     ]
   },
@@ -253,7 +253,7 @@
     "badge": "情報",
     "title": "詢問任何有關您的電子郵件的問題",
     "subtitle": "請 Duet 尋找電子郵件、檢查日曆或起草回覆。它了解您的收件匣並立即回覆。",
-    "windowTitle": "Duet代理",
+    "windowTitle": "Duet Agent",
     "onlineLabel": "網路",
     "initialUserMessage": "您能找到會計發送的 Stripe 發票嗎？",
     "processingText": "正在搜尋收件匣...",
@@ -275,7 +275,7 @@
     ],
     "inputPlaceholder": "有什麼問...",
     "dynamicResponses": {
-      "processingDefault": "PHX0000XH處理中...",
+      "processingDefault": "處理中...",
       "processingDraft": "正在生成草稿...",
       "processingCalendar": "正在檢查可用性...",
       "draftIntro": "以下是會計的回覆草稿：",
@@ -328,7 +328,7 @@
       {
         "name": "邁克爾R。",
         "title": "銷售主管",
-        "quote": "長電子郵件線程的即時摘要是純粹的魔法，而且非常用戶友好。我的客戶認為我是超人。",
+        "quote": "長電子郵件線程的即時摘要是純粹的魔法，而且非常使用者友好。我的客戶認為我是超人。",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
@@ -383,14 +383,14 @@
           },
           {
             "title": "AI 草稿",
-            "description": "嚐嚐你聲音裡的回复"
+            "description": "嚐嚐你聲音裡的回覆"
           },
           {
             "title": "智慧收件匣",
             "description": "啟動的基本組織"
           },
           {
-            "title": "Duet助手",
+            "title": "Duet Assistant",
             "description": "試試 AI 助手"
           }
         ],
@@ -412,11 +412,11 @@
           },
           {
             "title": "AI 草稿",
-            "description": "用您的聲音寫下回复，準備發送",
+            "description": "用您的聲音寫下回覆，準備發送",
             "highlight": true
           },
           {
-            "title": "Duet助手",
+            "title": "Duet Assistant",
             "description": "聊天以查找、起草、組織等",
             "highlight": true
           },
@@ -488,7 +488,7 @@
     "items": [
       {
         "question": "Duet Mail 如何保護我的電子郵件資料？",
-        "answer": "您的安全是我們的首要任務。我們使用 OAuth 2.0 對 Google 和 Microsoft 進行安全性驗證。電子郵件內容使用客戶端欄位層級加密進行靜態加密，我們遵循 API 存取的最小權限原則。對於 Google 集成，我們接受了 Google 的年度 CASA 安全評估。"
+        "answer": "您的安全是我們的首要任務。我們使用 OAuth 2.0 對 Google 和 Microsoft 進行安全性驗證。電子郵件內容使用客戶端欄位層級加密進行靜態加密，我們遵循 API 存取的最小權限原則。對於 Google 整合，我們接受了 Google 的年度 CASA 安全評估。"
       },
       {
         "question": "電子郵件摘要功能如何運作？",
@@ -623,10 +623,10 @@
     "ariaLabel": "投資報酬率",
     "label": "數學",
     "narrativeTemplate": "在每 {bookingUnit} {pricePerBooking} 的情況下，僅因緩慢回覆而損失 {lostPerMonth} =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/mo",
     "dividerLabel": "與",
     "duetLabel": "Duet",
-    "duetPrice": "$30/月"
+    "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
@@ -634,28 +634,28 @@
     "organizationName": "Duet Mail",
     "organizationContactType": "客戶支援",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI 適用於 Gmail 和 Outlook 的電子郵件助手，可自動匯總電子郵件、用語音起草回复並整理收件箱，每週節省時間。",
+    "softwareDescription": "AI 適用於 Gmail 和 Outlook 的電子郵件助手，可自動匯總電子郵件、用語音起草回覆並整理收件箱，每週節省時間。",
     "applicationCategory": "通訊應用",
     "featureList": [
       "智慧電子郵件組織與分類",
       "AI 支援的語音電子郵件起草功能",
-      "集成日历的智能电子邮件助手",
-      "自动电子邮件摘要和操作项",
+      "整合日历的智能電子郵件助手",
+      "自动電子郵件摘要和行動項目",
       "智慧提醒跟進"
     ],
     "offers": [
       {
         "name": "基本計劃",
         "price": "0",
-        "priceCurrency": "美元",
+        "priceCurrency": "USD",
         "description": "免費計劃，包含即時摘要、AI 草稿和智慧收件匣"
       },
       {
         "name": "Pro 計劃",
         "price": "19.99",
-        "priceCurrency": "美元",
-        "unitText": "月",
-        "description": "完全存取智慧收件匣分類、AI 草稿、助理和日曆集成"
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "完全存取智慧收件匣分類、AI 草稿、助理和日曆整合"
       }
     ],
     "aggregateRating": {
@@ -677,7 +677,7 @@
     "faq": [
       {
         "question": "Duet Mail 如何保護我的電子郵件資料？",
-        "answer": "您的安全是我們的首要任務。我們使用 OAuth 2.0 對 Google 和 Microsoft 進行安全性驗證。電子郵件內容使用客戶端欄位層級加密進行靜態加密，我們遵循 API 存取的最小權限原則。對於 Google 集成，我們接受了 Google 的年度 CASA 安全評估。"
+        "answer": "您的安全是我們的首要任務。我們使用 OAuth 2.0 對 Google 和 Microsoft 進行安全性驗證。電子郵件內容使用客戶端欄位層級加密進行靜態加密，我們遵循 API 存取的最小權限原則。對於 Google 整合，我們接受了 Google 的年度 CASA 安全評估。"
       },
       {
         "question": "電子郵件摘要功能如何運作？",

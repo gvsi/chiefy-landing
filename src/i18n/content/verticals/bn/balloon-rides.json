@@ -81,11 +81,11 @@
       "pillColor": "amber"
     },
     {
-      "from": "TripAdvisor",
+      "from": "ট্রিপঅ্যাডভাইজার",
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকার জন্য নতুন পর্যালোচনা",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -93,27 +93,27 @@
       "avatarLetter": "B",
       "avatarColor": "lavender",
       "subject": "মার্চ নিরাপত্তা বুলেটিন এবং পুনর্নবীকরণ অনুস্মারক",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: দুজনের জন্য সূর্যোদয়ের ফ্লাইট — শনিবার কি পাওয়া যাবে?",
+    "originalFrom": "Rachel T. লিখেছেন:",
+    "originalText": "হ্যালো! আমি ও আমার স্বামী আমাদের বিবাহবার্ষিকী উপলক্ষে বেড়াতে এসেছি এবং এই শনিবার একটি সূর্যোদয়ের বেলুন রাইড বুক করতে চাই। আপনাদের কি জায়গা আছে? জনপ্রতি খরচ কত?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "হাই Rachel!",
+      "শনিবার দুজনের জন্য সম্পূর্ণ ফাঁকা আছে। সূর্যোদয়ের ফ্লাইটের খরচ জনপ্রতি ২৫০ ডলার, যার মধ্যে প্রায় এক ঘণ্টা আকাশে থাকা এবং অবতরণের পর শ্যাম্পেন টোস্ট অন্তর্ভুক্ত।",
+      "আমরা সকাল ৬:১৫ নাগাদ যাত্রা শুরু করব — বাতাসের পরিস্থিতি অনুযায়ী আমি আগের দিন সন্ধ্যায় আপনার সাক্ষাতের সঠিক সময় ও স্থান জানিয়ে দেব। কয়েকটি স্তরে পোশাক পরুন এবং বন্ধ সামনের জুতো পরবেন।",
+      "শুভ বিবাহবার্ষিকী! আমি কি আপনার আসনগুলো সংরক্ষণ করে রাখব?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "শনিবার দুজনের জন্য সম্পূর্ণ ফাঁকা। সূর্যোদয়ের ফ্লাইটের ভাড়া জনপ্রতি ২৫০ ডলার।",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "আপনার মূল্য এবং ফ্লাইট সময়সূচী জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "মিটিংয়ের বিবরণ স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mailvoor ballonvaarten | AI-e-mailassistent",
-  "metaDescription": "Duet Mailhelpt ballonpiloten direct te reageren op boekings-e-mails, zelfs tijdens vluchten bij zonsopgang. Door AI opgestelde antwoorden met uw prijzen, weerbeleid en stem.",
+  "pageTitle": "Duet Mail voor ballonvaarten | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt ballonpiloten direct te reageren op boekings-e-mails, zelfs tijdens vluchten bij zonsopgang. Door AI opgestelde antwoorden met uw prijzen, weerbeleid en stem.",
   "heroBadge": "Vertrouwd door meer dan 200 ballonpiloten",
   "heroHeadline": "Uw e-mailassistent terwijl u in de lucht bent",
-  "heroSubline": "Duetleert uw vluchtschema's, prijzen en weerbeleid kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest terwijl u bij zonsopgang vertrekt.",
+  "heroSubline": "Duet leert uw vluchtschema's, prijzen en weerbeleid kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest terwijl u bij zonsopgang vertrekt.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "vlucht",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Eén opgeslagen vlucht levert een jaar langDuetop."
+    "punchline": "Eén opgeslagen vlucht levert een jaar lang Duet op."
   },
-  "categorizationSubtitle": "Duettagt automatisch elke e-mail, zodat u eerst boekingsaanvragen ziet, daarna vragen over het weer en nooit lawaai. U hoeft geen vluchtaanvraag meer te missen die verborgen ligt onder nieuwsbriefwaarschuwingen.",
-  "draftSubtitle": "Duetleert uw prijzen, weerbeleid en toon kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met vluchtgegevens, vergaderinformatie en wat te dragen. Je beoordeelt en verzendt.",
-  "agentSubtitle": "'Wie staat er morgen op het manifest?' \"Zijn er weerannuleringen die opnieuw gepland kunnen worden?\"Duetkent uw inbox en agenda — vraag het maar.",
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst boekingsaanvragen ziet, daarna vragen over het weer en nooit lawaai. U hoeft geen vluchtaanvraag meer te missen die verborgen ligt onder nieuwsbriefwaarschuwingen.",
+  "draftSubtitle": "Duet leert uw prijzen, weerbeleid en toon kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met vluchtgegevens, vergaderinformatie en wat te dragen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "'Wie staat er morgen op het manifest?' \"Zijn er weerannuleringen die opnieuw gepland kunnen worden?\"Duet kent uw inbox en agenda — vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapitein Mike L.",
       "title": "Ballonpiloot, MN",
-      "quote": "Ik ben een eenmansbedrijf: ik vlieg, ik beman, ik beantwoord e-mails. Behalve om 5 uur 's ochtends ben ik aan het opblazen en antwoord ik niet.Duetstelt reacties op op elke 'zullen we morgen vliegen?' boodschap van de ene op de andere dag. Ik word wakker, controleer het weer en druk op verzenden.",
+      "quote": "Ik ben een eenmansbedrijf: ik vlieg, ik beman, ik beantwoord e-mails. Behalve om 5 uur 's ochtends ben ik aan het opblazen en antwoord ik niet.Duet stelt reacties op op elke 'zullen we morgen vliegen?' boodschap van de ene op de andere dag. Ik word wakker, controleer het weer en druk op verzenden.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon en Jake B.",
       "title": "Het hele jaar door ballonvaarten, UT",
-      "quote": "We krijgen elke dag dezelfde 10 vragen. Wat te dragen, waar te ontmoeten, wat als het winderig is.Duetheb alles geleerd en stel nu perfecte antwoorden op. We gingen van een uur aan e-mails per avond naar vijf minuten.",
+      "quote": "We krijgen elke dag dezelfde 10 vragen. Wat te dragen, waar te ontmoeten, wat als het winderig is.Duet heb alles geleerd en stel nu perfecte antwoorden op. We gingen van een uur aan e-mails per avond naar vijf minuten.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Hoogseizoen betekent 4-6 vluchten per week en elke passagier e-mailt minstens twee keer vóór de vlucht.Duetbehandelt de vragen voorafgaand aan de vlucht, zodat ik me kan concentreren op het geven van mensen de beste ochtend van hun leven.",
+      "quote": "Hoogseizoen betekent 4-6 vluchten per week en elke passagier e-mailt minstens twee keer vóór de vlucht.Duet behandelt de vragen voorafgaand aan de vlucht, zodat ik me kan concentreren op het geven van mensen de beste ochtend van hun leven.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Mede-eigenaar van Balloon Company, NM",
-      "quote": "Weersannuleringen verwoestten vroeger mijn hele dag – 8 passagiers hadden allemaal persoonlijke e-mails voor herschikking nodig. Nu steltDuetze allemaal op, inclusief ons omboekingsbeleid. Bespaart mij uren op annuleringsochtenden.",
+      "quote": "Weersannuleringen verwoestten vroeger mijn hele dag – 8 passagiers hadden allemaal persoonlijke e-mails voor herschikking nodig. Nu stelt Duet ze allemaal op, inclusief ons omboekingsbeleid. Bespaart mij uren op annuleringsochtenden.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Ballonvaartoperaties, CO",
-      "quote": "Proposalvluchten vereisen zoveel heen-en-weer-coördinatie.Duetging in op de manier waarop we ermee omgaan: de timing, de codewoorden, de champagne-opstelling. Het stelt antwoorden op die ik nauwelijks hoef aan te raken.",
+      "quote": "Proposalvluchten vereisen zoveel heen-en-weer-coördinatie.Duet ging in op de manier waarop we ermee omgaan: de timing, de codewoorden, de champagne-opstelling. Het stelt antwoorden op die ik nauwelijks hoef aan te raken.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "Hoe gaatDuetom met e-mails over weerannuleringen?",
-      "answer": "Duetleert uw annulerings- en omboekingsbeleid kennen. Wanneer u een vlucht annuleert vanwege weersomstandigheden, kan er een gepersonaliseerde e-mail met een nieuwe planning worden opgesteld voor elke betrokken passagier, met uw polis, beschikbare data en uw toon. Je beoordeelt en verzendt. Wat vroeger een uur aan individuele antwoorden kostte, duurt minuten."
+      "question": "Hoe gaat Duet om met e-mails over weerannuleringen?",
+      "answer": "Duet leert uw annulerings- en omboekingsbeleid kennen. Wanneer u een vlucht annuleert vanwege weersomstandigheden, kan er een gepersonaliseerde e-mail met een nieuwe planning worden opgesteld voor elke betrokken passagier, met uw polis, beschikbare data en uw toon. Je beoordeelt en verzendt. Wat vroeger een uur aan individuele antwoorden kostte, duurt minuten."
     },
     {
-      "question": "KanDuetomgaan met de vraag 'zullen we morgen vliegen?' e-mails die elke avond binnenstromen?",
-      "answer": "Ja, dit is een van de meest voorkomende e-mails waarover ballonexploitanten ons vertellen.Duetleert uw weerbeleid kennen en stelt geruststellende antwoorden op waarin uw beslissingsproces wordt uitgelegd, wanneer u de laatste beslissing neemt en wat u kunt verwachten. Zodra u 's ochtends de go/no-go bevestigt, kan het updates opstellen voor iedereen op het manifest."
+      "question": "Kan Duet omgaan met de vraag 'zullen we morgen vliegen?' e-mails die elke avond binnenstromen?",
+      "answer": "Ja, dit is een van de meest voorkomende e-mails waarover ballonexploitanten ons vertellen.Duet leert uw weerbeleid kennen en stelt geruststellende antwoorden op waarin uw beslissingsproces wordt uitgelegd, wanneer u de laatste beslissing neemt en wat u kunt verwachten. Zodra u 's ochtends de go/no-go bevestigt, kan het updates opstellen voor iedereen op het manifest."
     }
   ],
   "pricingNote": "Bij $ 250/persoon met 4 passagiers per vlucht, betaalt één opgeslagen boeking voor meer dan een jaarPro."

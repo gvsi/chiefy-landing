@@ -4,7 +4,7 @@
   "metaDescription": "Duet Mail 幫助婚禮策劃者立即回覆客戶和供應商的電子郵件——甚至可以透過場地走查來回覆。 AI 起草的回覆包含您的包裹、供應商聯絡人和語音。",
   "heroBadge": "受到 400 多位婚禮策劃師的信賴",
   "heroHeadline": "您在現場時的電子郵件助理",
-  "heroSubline": "Duet 會了解您的供應商聯絡資訊、包裹和客戶偏好，然後起草電子郵件回复，以便情侶在您現場協調時無需等待。",
+  "heroSubline": "Duet 會了解您的供應商聯絡資訊、包裹和客戶偏好，然後起草電子郵件回覆，以便情侶在您現場協調時無需等待。",
   "inboxEmails": [
     {
       "from": "艾米麗和詹姆斯 W.",
@@ -93,7 +93,7 @@
       "avatarLetter": "M",
       "avatarColor": "lavender",
       "subject": "本週保留日期可享 20% 折扣",
-      "pill": "Pro運動",
+      "pill": "促銷",
       "pillColor": "lavender"
     }
   ],
@@ -119,8 +119,8 @@
   "agent": {
     "userMessage": "湯普森婚禮本週收到了哪些供應商電子郵件？",
     "agentResponse": "您本週收到了 4 封有關 Thompson 婚禮的供應商電子郵件：Bella Rosa Florals 發送了中心裝飾模型（等待新人挑選），Lakeside Venue 確認了周五下午 4 點的儀式排練，DJ Marco 發送了更新的歌曲列表，Sweet Layers Bakery 需要在周三之前提供最終的蛋糕口味。想要我起草對其中任何一個的答复嗎？",
-    "followUp": "用這對夫婦的選擇起草對貝拉·羅莎的回复——選項B，花園玫瑰",
-    "followUpResponse": "完成！我起草了一份給 Bella Rosa Florals 的回复，確認了選項 B——湯普森婚禮的花園玫瑰中心裝飾品。其中包含繼續處理 14 張桌子的完整訂單的說明。準備審查並發送。"
+    "followUp": "用這對夫婦的選擇起草對貝拉·羅莎的回覆——選項B，花園玫瑰",
+    "followUpResponse": "完成！我起草了一份給 Bella Rosa Florals 的回覆，確認了選項 B——湯普森婚禮的花園玫瑰中心裝飾品。其中包含繼續處理 14 張桌子的完整訂單的說明。準備審查並發送。"
   },
   "testimonialsTitle": "深受婚禮策劃師的喜愛",
   "testimonials": [
@@ -160,11 +160,11 @@
   "verticalFaqs": [
     {
       "question": "Does Duet work with all the vendor coordination emails?",
-      "answer": "是的。 Duet learns your vendor contacts, preferred vendors, and how you communicate with each one.它按婚礼对供应商电子邮件进行分类，并草拟回复并提供正确的详细信息——确认、跟进、时间表更新。您審閱並發送。它可以處理花店、餐飲服務商、場館、DJ、攝影師以及名片盒中的所有其他供應商。"
+      "answer": "是的。Duet 會學習您的供應商聯絡人、偏好的供應商，以及您與每位供應商的溝通方式。它按婚禮对供應商電子郵件进行分类，并起草回覆并提供正确的详细資訊——确认、跟进、时间表更新。您審閱並發送。它可以處理花店、餐飲服務商、場館、DJ、攝影師以及名片盒中的所有其他供應商。"
     },
     {
       "question": "我整天都在婚禮和場地現場。我會錯過新的詢問嗎？",
-      "answer": "這正是 Duet 解決的問題。 When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps.只要有空，您就可以查看并发送，甚至可以在活动间隙使用手机进行查看和发送。大多數規劃者告訴我們，在旺季期間，這可以為他們每天節省 1-2 小時的電子郵件時間。"
+      "answer": "這正是 Duet 解決的問題。 When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps.只要有空，您就可以查看并发送，甚至可以在活动间隙使用手機进行查看和发送。大多數規劃者告訴我們，在旺季期間，這可以為他們每天節省 1-2 小時的電子郵件時間。"
     }
   ],
   "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."

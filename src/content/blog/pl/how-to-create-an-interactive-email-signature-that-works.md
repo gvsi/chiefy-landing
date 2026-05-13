@@ -3,7 +3,7 @@ title: "Jak stworzyć interaktywny podpis e-mail, który działa"
 description: "Dowiedz się, jak stworzyć interaktywny podpis e-mail, aby zwiększyć zaangażowanie, rozpoznawalność marki i liczbę leadów. Przewodnik krok po kroku dla freelancerów i startupów"
 publishedAt: 2025-06-18
 author: "Duet Mail Team"
-tags: ["AI", "Email"]
+tags: ["AI", "E-mail"]
 draft: false
 ---
 

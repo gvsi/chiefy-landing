@@ -60,9 +60,7 @@ Kuna [märkimisväärne osa meilidest on avatud mobiilseadmetes](https://www.lit
 
 - Lingid ja nupud on piisavalt suured, et neid oleks lihtne puudutada (vähemalt 44x44 pikslit).
 
-- Jaluse testimine erinevates seadmetes ja e-posti klientides, kasutades selliseid tööriistu nagu [Litmus](https://www.litmus.com/) või [Email on Acid](https://www.emailonacid.com/).
-
-![Kõrvuti võrdlus, mis näitab, kuidas hästi kujundatud meilijalus kohandab oma paigutust töölauavaatest mobiilivaatele](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Jaluse testimine erinevates seadmetes ja e-posti klientides, kasutades selliseid tööriistu nagu [Litmus](https://www.litmus.com/) või [Email on Acid](https://www.emailonacid.com/).![Kõrvuti võrdlus, mis näitab, kuidas hästi kujundatud meilijalus kohandab oma paigutust töölauavaatest mobiilivaatele](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Veenduge, et teie jalus näeb hea välja ja töötab suurepäraselt mis tahes ekraanisuuruses.
 

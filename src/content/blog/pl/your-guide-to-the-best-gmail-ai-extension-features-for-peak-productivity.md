@@ -3,7 +3,7 @@ title: "Twój przewodnik po najlepszych funkcjach rozszerzenia Gmail AI dla maks
 description: "Dowiedz się, jak rozszerzenie Gmail AI wykorzystuje funkcje takie jak inteligentne tworzenie wiadomości, podsumowania i triage, aby pokonać przeciążenie e-mailami i zwiększyć produktywność."
 publishedAt: 2025-04-15
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Tools"]
+tags: ["AI", "Gmail", "Produktywność", "Narzędzia"]
 draft: false
 ---
 

@@ -19,9 +19,7 @@ Der ständige Ping neuer E-Mails ist nicht nur nervig; Es beeinträchtigt die Pr
 
 Die Bewältigung dieser Flut fordert einen hohen Tribut.ProFachkräfte geben an, etwa [28 % ihrer Arbeitswoche](https://inboxdone.com/psychology-of-email-overload/) – das entspricht 11–13 Stunden – nur für die Verwaltung von E-Mails aufzuwenden. Dieses ständige Wechseln zwischen Aufgaben und dem Posteingang bleibt nicht ohne Folgen. Untersuchungen haben ergeben, dass es nach einer Unterbrechung wie dem Abrufen von E-Mails mehr als [23 Minuten dauert, bis man den Fokus wiedererlangt](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics).
 
-Die Wirkung geht über die verlorene Zeit hinaus. E-Mail-Überlastung ist immer mit erhöhtem Stress, Angstzuständen und Burnout verbunden. Eine von [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) zitierte Umfrage ergab, dass [66 % der Amerikaner angeben, sich aufgrund der schieren Menge an E-Mails, die sie erhalten, gestresst zu fühlen](https://inboxdone.com/psychology-of-email-overload/). Dieser ständige Druck trägt zur Entscheidungsmüdigkeit bei und kann sich sogar negativ auf die Arbeitszufriedenheit auswirken, sodass es schwieriger wird, sich auf strategische, hochwertige Arbeit zu konzentrieren.
-
-![Infografik mit Statistiken über das tägliche E-Mail-Volumen und die für die E-Mail-Verwaltung aufgewendete Zeit](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+Die Wirkung geht über die verlorene Zeit hinaus. E-Mail-Überlastung ist immer mit erhöhtem Stress, Angstzuständen und Burnout verbunden. Eine von [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) zitierte Umfrage ergab, dass [66 % der Amerikaner angeben, sich aufgrund der schieren Menge an E-Mails, die sie erhalten, gestresst zu fühlen](https://inboxdone.com/psychology-of-email-overload/). Dieser ständige Druck trägt zur Entscheidungsmüdigkeit bei und kann sich sogar negativ auf die Arbeitszufriedenheit auswirken, sodass es schwieriger wird, sich auf strategische, hochwertige Arbeit zu konzentrieren.![Infografik mit Statistiken über das tägliche E-Mail-Volumen und die für die E-Mail-Verwaltung aufgewendete Zeit](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
 Der durchschnittliche Berufstätige erhält täglich über 120 E-Mails, was viele Stunden wertvoller Arbeitszeit in Anspruch nimmt.
 
@@ -150,7 +148,7 @@ Der Markt für KI-E-Mail-Assistenten wächst rasant. Die Auswahl des richtigen W
 
 Wie gut passt das Tool in Ihr bestehendes Setup? Die meisten führenden Assistenten bieten Integrationen an:
 
-- **E-Mail-Clients:** Suchen Sie nach dedizierten [OutlookAdd-Ins](https://appsource.microsoft.com/en-cy/product/office/WA200005168?tab=Overview) oder [GmailErweiterungen/Add-Ons](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) für einen reibungslosen Betrieb in Ihrem primären Posteingang.
+- **E-Mail-Clients:** Suchen Sie nach dedizierten [Outlook Add-Ins](https://appsource.microsoft.com/en-cy/product/office/WA200005168?tab=Overview) oder [Gmail Erweiterungen/Add-Ons](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) für einen reibungslosen Betrieb in Ihrem primären Posteingang.
 
 - **Andere Plattformen:** Überprüfen Sie die Kompatibilität mit Ihrem Kalender, CRM (wie Salesforce oder HubSpot), Projektmanagement-Tools (wie Asana oder Trello) und Kommunikationsplattformen (wie Slack).
 

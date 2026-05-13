@@ -3,7 +3,7 @@ title: "Odblokuj maksymalną produktywność: najlepsze narzędzia Gmaila, któr
 description: "Odkryj najlepsze narzędzia Gmaila i asystentów AI z 2025 roku, aby opanować nadmiar wiadomości, zwiększyć produktywność i odzyskać swój dzień"
 publishedAt: 2025-05-18
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Inbox Management"]
+tags: ["AI", "Gmail", "Produktywność", "Zarządzanie skrzynką odbiorczą"]
 draft: false
 ---
 

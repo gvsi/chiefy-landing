@@ -53,7 +53,7 @@ Ito marahil ang pinaka-maimpluwensyang tampok para sa sinumang nalulunod sa emai
 
 - **Behavioral Learning (ML):** Inoobserbahan nito kung paano mo pinangangasiwaan ang mga katulad na email – kung alin ang una mong bubuksan, i-flag, i-archive, o idelegate. Itinatampok ng Sedna na AI[ **natututo ang iyong mga pattern at priyoridad ng komunikasyon**](https://sedna.com/email-triage).
 
-- **Kategorya at Pagruruta:** Batay sa pagsusuri nito, maaaring awtomatikong ikategorya ng AI ang mga email (hal., "Nangangailangan ng Aksyon," "Kailangan ng Desisyon," "FYI"), i-filter ang mga mensaheng mababa ang priyoridad (mga newsletter, promosyon), at kung minsan ay iruta pa ang mga email sa tamang miyembro ng team sa mga sitwasyong nakabahaging inbox (2____Pability na ito).
+- **Kategorya at Pagruruta:** Batay sa pagsusuri nito, maaaring awtomatikong ikategorya ng AI ang mga email (hal., "Nangangailangan ng Aksyon," "Kailangan ng Desisyon," "FYI"), i-filter ang mga mensaheng mababa ang priyoridad (mga newsletter, promosyon), at kung minsan ay iruta pa ang mga email sa tamang miyembro ng team sa mga sitwasyong shared inbox ([inilalarawan ng Enate AI ang kakayahang ito](https://www.enate.io/blog/email-classification-ai)).
 
 Ang resulta? Sa halip na harapin ang isang pader ng mga hindi nakikilalang mensahe, makakakita ka ng na-curate na view ng kung ano talaga ang nangangailangan ng iyong pansin ngayon. Ito ay lubhang binabawasan ang oras ng pag-uuri at pagkapagod sa pagpapasya. Dito kumikinang ang mga tool tulad ng[ **Duet Mail**](https://duetmail.com/fil), na nag-aalok ng feature na AI Triage na nagpapakita ng mga kagyat na item na nangangailangan ng aksyon o mga desisyon nang direkta sa isang Focused Dashboard.
 

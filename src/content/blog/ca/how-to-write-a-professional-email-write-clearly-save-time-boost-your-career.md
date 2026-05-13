@@ -1,9 +1,9 @@
 ---
-title: "Com escriure un correu electrònic professional: escriviu amb claredat, estalvieu temps i impulseu la vostra carrera professional\n"
+title: "Com escriure un correu electrònic professional: escriviu amb claredat, estalvieu temps i impulseu la vostra carrera professional"
 description: "Apreneu a escriure correus electrònics professionals que generen confiança i estalvien temps. Domina les temàtiques, el to, l'estructura i l'etiqueta. Potencia la teva comunicació professional"
 publishedAt: 2025-05-27
 author: "Duet Mail Team"
-tags: ["AI","Productivitat\n","Redacció de correu electrònic"]
+tags: ["AI","Productivitat","Redacció de correu electrònic"]
 draft: false
 ---
 

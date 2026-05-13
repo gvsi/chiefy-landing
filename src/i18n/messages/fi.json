@@ -44,7 +44,7 @@
   "math.narrativeTemplate": "{pricePerBooking} per {bookingUnit}, menettäen vain {lostPerMonth}:n hitaille vastauksille =",
   "math.lossSuffix": "/fi/mo gone",
   "math.vs": "vs",
-  "math.duetLabel": "Duetti",
+  "math.duetLabel": "Duet ti",
   "math.duetPrice": "$30/mo",
   "readingTime.zero": "{minutes} min luettu",
   "readingTime.one": "1 min lukuaika",

@@ -7,7 +7,7 @@ tags: ["AI", "生産性", "メールの書き方"]
 draft: false
 ---
 
-受信トレイに埋もれていませんか? あなたは一人ではありません。 [**2025 年には毎日 3,760 億件の電子メールが送信されると予測**](https://www.dash.app/blog/email-marketing-statistics) という驚異的な数字を考えると、平均的な専門家がメッセージの管理だけに [**週に約 5 時間**](https://www.dragapp.com/blog/effects-of-email-overload/)、またはおよそ [**週の労働時間の 28%**](https://hiverhq.com/blog/ai-email-triage) を費やしているのも不思議ではありません。 この絶え間ない洪水は時間がかかるだけではありません。 それは大きなストレスの原因となり、生産性を低下させます。
+受信トレイに埋もれていませんか? あなたは一人ではありません。 [**2025 年には毎日 3,760 億件の電子メールが送信されると予測**](https://www.dash.app/blog/email-marketing-statistics) という驚異的な數位を考えると、平均的な専門家がメッセージの管理だけに [**週に約 5 時間**](https://www.dragapp.com/blog/effects-of-email-overload/)、またはおよそ [**週の労働時間の 28%**](https://hiverhq.com/blog/ai-email-triage) を費やしているのも不思議ではありません。 この絶え間ない洪水は時間がかかるだけではありません。 それは大きなストレスの原因となり、生産性を低下させます。
 
 しかし、ここで重要なのは、電子メールは単にやり取りするだけの作業ではないということです。 プロの世界では、あなたが送信するすべての電子メールはデジタル握手であり、あなたの能力を反映し、あなたの評判を築くための基礎 (または鉄球) です。 メールの書き方が不十分だと、誤解が生じたり、人間関係が損なわれたり、キャリアが停滞したりする可能性があります。 逆に、プロフェッショナルな電子メールの技術を習得すると、信頼が構築され、つながりが強化され、物事を効率的に進めることができます。
 
@@ -103,7 +103,7 @@ draft: false
 
   - **オプション (ただし、多くの場合役立つ)**: 会社 Web サイト、LinkedIn プロフィール リンク、物理アドレス (該当する場合)。
 
-  - **書式**: 簡潔にし ([**最大 4 ～ 5 行を推奨**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary))、プロ仕様の [**Web セーフ フォント**](https://www.mailerlite.com/blog/email-signature-best-practices) (Arial、Calibri など) を使用し、ブランドと一致する色を使用します。 [**モバイル対応**] (https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary) であることを確認してください。 不必要な画像、大きなロゴ、インスピレーションを与える引用は避けてください。
+  - **書式**: 簡潔にし ([**最大 4 ～ 5 行を推奨**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary))、プロ仕様の [**Web セーフ フォント**](https://www.mailerlite.com/blog/email-signature-best-practices) (Arial、Calibri など) を使用し、ブランドと一致する色を使用します。 [**モバイル対応**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary) であることを確認してください。 不必要な画像、大きなロゴ、インスピレーションを与える引用は避けてください。
 
 
 

@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
   "pageTitle": "Duet Mail pentru charter de pescuit | Asistent de e-mail AI",
-  "metaDescription": "Duet Mail îi ajută pe căpitanii de pescuit charter să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri elaborate de AI cu prețurile, politicile și vocea dvs.",
+  "metaDescription": "Duet Mail îi ajută pe căpitanii de pescuit charter să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri elaborate de AI cu prețurile, politicile și vocea ta.",
   "heroBadge": "Au încredere de peste 500 de căpitani charter",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe apă",
-  "heroSubline": "Duet învață prețurile, politicile și vocea dvs., apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare din cauza unui răspuns lent.",
+  "heroSubline": "Duet învață prețurile, politicile și vocea ta, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -37,8 +37,8 @@
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "O nouă recenzie pentru înregistrarea dvs",
-      "preview": "Un călător a evaluat recent afacerea dvs. Vezi ce au de spus și răspund...",
+      "subject": "O nouă recenzie pentru înregistrarea ta",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
@@ -52,8 +52,8 @@
     "punchline": "O rezervare salvată plătește pentru un an de Duet."
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările în al doilea rând și zgomotul niciodată. Nu mai ratați o întrebare de călătorie îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Duet învață prețurile, politicile și tonul dvs. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Ce zile sunt deschise săptămâna viitoare?” „Scrieți un răspuns pentru Sarah cu disponibilitate.” Duet vă cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebați.",
+  "draftSubtitle": "Duet învață prețurile, politicile și tonul tău. Când ajunge o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Ce zile sunt deschise săptămâna viitoare?” „Scrie un răspuns pentru Sarah cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -118,9 +118,9 @@
   },
   "agent": {
     "userMessage": "Ce zile sunt încă deschise săptămâna viitoare?",
-    "agentResponse": "Pe baza calendarului dvs., aveți deschideri în zilele de marți, joi și sâmbătă săptămâna viitoare. Luni și miercuri sunt complet rezervate (2 charter fiecare). Doriți să redactez un răspuns la orice întrebări în așteptare cu aceste date?",
-    "followUp": "Redactați un răspuns pentru Sarah cu disponibilitatea pentru 12 iulie",
-    "followUpResponse": "Făcut! Am redactat un răspuns pentru Sarah confirmând 12 iulie pentru 4 invitați la 500 USD. Include detaliile călătoriei dvs. standard și locația întâlnirii. Gata de revizuire și de trimis."
+    "agentResponse": "Pe baza calendarului tău, ai locuri libere marți, joi și sâmbătă săptămâna viitoare. Luni și miercuri sunt complet rezervate (2 charter fiecare). Vrei să redactez un răspuns la orice întrebări în așteptare cu aceste date?",
+    "followUp": "Redactează un răspuns pentru Sarah cu disponibilitatea pentru 12 iulie",
+    "followUpResponse": "Făcut! Am redactat un răspuns pentru Sarah confirmând 12 iulie pentru 4 invitați la 500 USD. Include detaliile tale standard ale călătoriei și locația întâlnirii. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Îndrăgit de căpitanii charter",
   "testimonials": [
@@ -155,16 +155,16 @@
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Petrece sezonul de vârf pe apă,\nnu în căsuța dvs. de e-mail.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece sezonul de vârf pe apă,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Duet funcționează pentru e-mailurile de rezervare și disponibilitate?",
-      "answer": "Absolut. Duet află tipurile de călătorie, prețurile, disponibilitatea și politicile dvs. Când vine o solicitare de rezervare, acesta redactează un răspuns complet cu detaliile potrivite - preț, ce este inclus, locația întâlnirii, ce să aduci. Examinați și atingeți trimite."
+      "answer": "Absolut. Duet află tipurile de călătorie, prețurile, disponibilitatea și politicile tale. Când vine o solicitare de rezervare, acesta redactează un răspuns complet cu detaliile potrivite - preț, ce este inclus, locația întâlnirii, ce să aduci. Verifici și apeși pe trimitere."
     },
     {
       "question": "Sunt pe apă toată ziua. Pot folosi Duet de pe telefonul meu?",
-      "answer": "Da. Duet funcționează cu Gmail și Outlook, așa că funcționează oriunde funcționează e-mailul dvs., inclusiv telefonul. Schițele apar automat. Între capturi, revizuiți și trimiteți cu o singură atingere. Majoritatea căpitanilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
+      "answer": "Da. Duet funcționează cu Gmail și Outlook, așa că funcționează oriunde funcționează e-mailul tău, inclusiv telefonul. Schițele apar automat. Între capturi, revizuiești și trimiți cu o singură atingere. Majoritatea căpitanilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
     }
   ],
   "pricingNote": "La 500 USD/charter, o rezervare salvată plătește pentru peste un an de Pro."

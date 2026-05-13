@@ -1,7 +1,7 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail sisustussuunnittelijoille | AI sähköpostiavustaja",
-  "metaDescription": "Duet Mail auttaa sisustussuunnittelijoita hallitsemaan asiakassähköpostiviestejä, urakoitsijoiden koordinointia ja toimittajien tilauksia – jopa työmaalla. AI-drafted replies with your project details, preferences, and voice.",
+  "pageTitle": "Duet Mail sisustussuunnittelijoille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa sisustussuunnittelijoita hallitsemaan asiakassähköpostiviestejä, urakoitsijoiden koordinointia ja toimittajien tilauksia – jopa työmaalla. Tekoälyn laatimat vastaukset huomioivat projektisi tiedot, mieltymyksesi ja oman äänesi.",
   "heroBadge": "Yli 400 sisustussuunnittelijan luottama",
   "heroHeadline": "Sähköpostiavustajasi ollessasi paikan päällä asiakkaiden kanssa",
   "heroSubline": "Duet oppii toimittajasi yhteystiedot, projektisi tiedot ja asiakasasetukset – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä asiakasta hitaiden vastausten takia.",
@@ -49,7 +49,7 @@
     "bookingUnit": "projekti",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Yksi pelastettu asiakas maksaa Duetin vuosien."
+    "punchline": "Yksi pelastettu asiakas maksaa Duet in vuosien."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uudet asiakaskyselyt, toisena odottavat hyväksynnät ja toimittajien uutiskirjeet ei koskaan. Ei enää kaipaa suunnittelukonsultaatiota messujen promootioiden alla.",
   "draftSubtitle": "Duet oppii prosessisi, projektisi yksityiskohdat ja sävyn. Kun uusi tiedustelu tai asiakaskysymys osuu, se luonnostelee täydellisen vastauksen saatavuudestasi, seuraavista vaiheistasi ja projektin yksityiskohdista. Tarkistat ja lähetät.",

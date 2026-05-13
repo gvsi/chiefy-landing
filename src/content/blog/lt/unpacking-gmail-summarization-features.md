@@ -35,9 +35,7 @@ Apsvarstykite šiuos skaičius:
 
 - **Padidėjusį stresą:** Nuolatinis jausmas, kad vėluojate su el. paštu, smarkiai prisideda prie streso darbe ir perdegimo.
 
-DI santraukų įrankiai siekia tiesiogiai spręsti šias problemas greitai ištraukdami komunikacijos esmę, kad galėtumėte veiksmingai nustatyti prioritetus ir išlikti informuoti nepasiklysdami detalėse. Tyrimai apie DI darbo vietoje, pavyzdžiui, apžvelgti [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), rodo apčiuopiamą produktyvumo augimą, kai DI padeda atlikti tokias užduotis kaip santraukų rengimas ir informacijos paieška.
-
-![Infografikas, iliustruojantis el. pašto perkrovos problemą su svarbia statistika](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+DI santraukų įrankiai siekia tiesiogiai spręsti šias problemas greitai ištraukdami komunikacijos esmę, kad galėtumėte veiksmingai nustatyti prioritetus ir išlikti informuoti nepasiklysdami detalėse. Tyrimai apie DI darbo vietoje, pavyzdžiui, apžvelgti [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), rodo apčiuopiamą produktyvumo augimą, kai DI padeda atlikti tokias užduotis kaip santraukų rengimas ir informacijos paieška.![Infografikas, iliustruojantis el. pašto perkrovos problemą su svarbia statistika](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Didžiulis kasdienių el. laiškų kiekis parodo efektyvių valdymo įrankių poreikį.
 
@@ -57,9 +55,7 @@ Prieiga prie funkcijos priklauso nuo sąsajos:
 
 - **Žiniatinklio sąsaja:** Ieškokite mygtuko „Summarize this email“, kuris rodomas tiesiai po tinkamos el. laiškų gijos temos eilute. Taip pat galite atidaryti „Ask Gemini“ šoninį skydelį (dažniausiai per blizgesio piktogramą viršuje dešinėje) ir spustelėti siūlomą užklausą, pavyzdžiui, „What's this email about?“, arba įrašyti savo prašymą, pavyzdžiui, „Summarize this thread.“
 
-- **Mobilioji programa (Android/iOS):** Panašiai kaip žiniatinklyje, po tema gali pasirodyti mygtukas „Summarize this email“. Bakstelėjus jį, santrauka paprastai atsidaro specialiame Gemini lape arba skydelyje. Santraukas ir kitas DI funkcijas dažnai galima pasiekti ir per Gemini piktogramą programos viršutinėje juostoje.
-
-![Gmail el. laiško vaizdas, kuriame po temos eilute paryškintas mygtukas „Summarize this email“](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+- **Mobilioji programa (Android/iOS):** Panašiai kaip žiniatinklyje, po tema gali pasirodyti mygtukas „Summarize this email“. Bakstelėjus jį, santrauka paprastai atsidaro specialiame Gemini lape arba skydelyje. Santraukas ir kitas DI funkcijas dažnai galima pasiekti ir per Gemini piktogramą programos viršutinėje juostoje.![Gmail el. laiško vaizdas, kuriame po temos eilute paryškintas mygtukas „Summarize this email“](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 Vietinė Gmail santraukų funkcija pasiekiama per mygtuką tiesiai el. laiškų gijose.
 

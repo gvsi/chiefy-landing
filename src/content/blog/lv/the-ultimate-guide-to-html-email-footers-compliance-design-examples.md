@@ -60,9 +60,7 @@ Tā kā [ievērojama daļa e-pasta ziņojumu tiek atvērti mobilajās ierīcēs]
 
 - Saites un pogas veidot pietiekami lielas, lai tām varētu viegli pieskarties (vismaz 44x44 pikseļi).
 
-- Kājenes pārbaude dažādās ierīcēs un e-pasta klientos, izmantojot tādus rīkus kā [Litmus](https://www.litmus.com/) vai [Email on Acid](https://www.emailonacid.com/).
-
-![Blakus salīdzinājums, kas parāda, kā labi izstrādāta e-pasta kājene pielāgo savu izkārtojumu no datora skata uz mobilo skatu](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Kājenes pārbaude dažādās ierīcēs un e-pasta klientos, izmantojot tādus rīkus kā [Litmus](https://www.litmus.com/) vai [Email on Acid](https://www.emailonacid.com/).![Blakus salīdzinājums, kas parāda, kā labi izstrādāta e-pasta kājene pielāgo savu izkārtojumu no datora skata uz mobilo skatu](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Pārliecinieties, vai jūsu kājene izskatās lieliski un darbojas nevainojami jebkura izmēra ekrānā.
 

@@ -21,13 +21,13 @@ Gmail を開くことは、コミュニケーションというよりも、衝�
 
 ### 生産性の低下: 集中力をめぐる絶え間ない戦い
 
-すべての電子メール通知、受信トレイをざっと見るたびに、集中力は打ち砕かれます。 研究によると、[中断後に完全に集中力を取り戻すには平均 23 分以上] という驚くべき時間がかかり (https://www.ics.uci.edu/~gmark/chi08-mark.pdf)、1 回のメール チェックでも [60 秒以上] 思考の流れが狂う可能性があります (https://www.researchgate.net/publication/221519416_Email_Duration_Batching_and_Self-interruption_Patterns_and_Implications_for_Designing_Email_Tools)。 多くの専門家が [約 6 分ごと](https://www.atlassian.com/time-wasting-at-work-infographic) メールをチェックしていることを考えると、その累積的な影響は壊滅的です。 このコンテキストの絶え間ない切り替えにより、プロフェッショナルがおよそ [週の労働時間の 28%、約 13 時間を電子メールの管理だけに費やす] (https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) ことが説明されます。 一部の調査では、直接的な価値はほとんどないが、最大 [時間の 40% が内部電子メールに費やされている](https://www.researchgate.net/publication/264449618_Reducing_Email_Use_Does_It_Reduce_Stress_and_Increase_Focused_Work) とさえ示唆されています。
+すべての電子メール通知、受信トレイをざっと見るたびに、集中力は打ち砕かれます。 研究によると、[中断後に完全に集中力を取り戻すには平均 23 分以上] という驚くべき時間がかかり (https://www.ics.uci.edu/~gmark/chi08-mark.pdf)、1 回のメール チェックでも [60 秒以上] 思考の流れが狂う可能性があります (https://www.researchgate.net/publication/221519416_Email_Duration_Batching_and_Self-interruption_Patterns_and_Implications_for_Designing_Email_Tools)。 多くの専門家が [約 6 分ごと](https://www.atlassian.com/time-wasting-at-work-infographic) メールをチェックしていることを考えると、その累積的な影響は壊滅的です。 このコンテキストの絶え間ない切り替えにより、プロフェッショナルがおよそ [週の労働時間の 28%、約 13 時間を電子メールの管理だけに費やす](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) ことが説明されます。 一部の調査では、直接的な価値はほとんどないが、最大 [時間の 40% が内部電子メールに費やされている](https://www.researchgate.net/publication/264449618_Reducing_Email_Use_Does_It_Reduce_Stress_and_Increase_Focused_Work) とさえ示唆されています。
 
 これは、メールの読み書きに費やされる時間だけではありません。 生産性を本当に損なうのは、これらのチェック間の複合的な回復時間です。 私たちが効果的にマルチタスク、つまり他の要求の厳しいタスクに取り組みながら電子メールを処理できるという考えは誤解です。 このようにやりくりしようとすると、実際には [生産性が 40% も低下し](https://www.apa.org/topics/research/multitasking)、個々のタスクを完了するのに必要な時間が増加します。 進歩するどころか、気を散らして回復するというサイクルにはまってしまいます。 膨大な量の受信メッセージによって引き起こされるこの絶え間ない反応状態により、戦略的思考とイノベーション、つまり専門的な成長とビジネスの成功に不可欠な活動に必要な、深く集中した作業が妨げられます。
 
 ### ストレスと燃え尽き症候群の増加: 精神的な負担
 
-容赦ない電子メールの洪水は、職場のストレスの主な原因です。 調査によると、米国の労働者の大多数が仕事関連のストレスを経験しており、その仕事量は電子メールの要求によって膨らむことが多く、[主な要因]となっています(https://www.stress.org/workplace-stress)。 実際、2021 年の調査では [アメリカ人の 85% が特に電子メールのせいで燃え尽き症候群を感じている](https://www.statista.com/statistics/1279811/us-adults-feeling-burned-out-due-to-emails/) ことがわかり、多くの専門家は電子メールが [仕事で最もストレスの多い側面] (https://www.inc.com/jessica-stillman/email-stress-study-inbox.html) であると認識しています。
+容赦ない電子メールの洪水は、職場のストレスの主な原因です。 調査によると、米国の労働者の大多数が仕事関連のストレスを経験しており、その仕事量は電子メールの要求によって膨らむことが多く、[主な要因]となっています(https://www.stress.org/workplace-stress)。 実際、2021 年の調査では [アメリカ人の 85% が特に電子メールのせいで燃え尽き症候群を感じている](https://www.statista.com/statistics/1279811/us-adults-feeling-burned-out-due-to-emails/) ことがわかり、多くの専門家は電子メールが [仕事で最もストレスの多い側面](https://www.inc.com/jessica-stillman/email-stress-study-inbox.html) であると認識しています。
 
 このストレスはいくつかの要因から生じます。 膨大な量によって認知負荷が生じ、脳が圧倒されて意思決定疲労につながり、優先順位を付けたり明確に考えることが難しくなります。 「常時接続」文化によって煽られる不安もあります。 [ユーザーの 85% がスマートフォンで電子メールをチェック](https://www.statista.com/statistics/271412/email-access-via-mobile-devices-in-the-us/)、[リモート ワーカーの 81% が勤務時間外にチェック](https://www.statista.com/statistics/1279814/us-remote-workers-checking-emails-outside-work-hours/) であるため、常に対応し、応答できるようにするという計り知れないプレッシャーがかかっています。 この期待は、[職場の文化に組み込まれている](https://www.researchgate.net/publication/264449618_Reducing_Email_Use_Does_It_Reduce_Stress_and_Increase_Focused_Work)ことが多く、精神的な断絶を防ぎ、燃え尽き症候群に大きく寄与し、仕事と私生活の境界線があいまいになります。
 
@@ -153,13 +153,13 @@ AI 電子メール アシスタントは、単なる自動化を超えたもの�
 
 **Image PlaceholderQuery:** 図 AI 重要なメールを分類する電子メールのトリアージ** 代替テキスト:** AI トリアージが受信メールを優先度によって自動的に分類する方法を示す図。**キャプション:** AI トリアージは、ノイズをカットして、緊急のメールをインテリジェントに表示します。
 
-**問題:** 標準の Gmail 受信箱は、時系列のフィードであり、ニュースレターと CC されたメモが、クライアントからの緊急のリクエストや重要な期限と並んで注目を集めるために競合します。 この流入を手動で分類して、本当に注意が必要なものを見つけるには、_今__貴重な時間と精神的エネルギーが消費されます。
+**問題:** 標準の Gmail 受信箱は、時系列のフィードであり、ニュースレターと CC されたメモが、クライアントからの緊急のリクエストや重要な期限と並んで注目を集めるために競合します。 この流入を手動で分類して、本当に注意が必要なものを見つけるには、_今_貴重な時間と精神的エネルギーが消費されます。
 
 **AI ソリューション:** AI Triage は、NLP と ML を採用して、受信メールが到着した瞬間に受信メールをインテリジェントに分析します。 キーワード (「緊急」、「期限」) を検索して緊急度を評価し、コンテキスト (これは決定が必要なリクエストですか?) を理解し、過去のやり取りに基づいて重要な送信者を特定し、さらに感情を測定します。 AI は時間の経過とともにユーザーの優先順位を学習し、信号とノイズを区別する精度が高まります。 これは単なるルールベースのフィルタリングではありません。 それは自動判断です。
 
 **利点:** 山積みになっているメールを掘り下げる代わりに、AI は即時のアクションを要求するメールを自動的に表示します。 これにより、仕分け時間が大幅に短縮され、重要なアイテムが見逃されなくなり、受信トレイの過負荷によるストレスが軽減され、受信トレイの管理ではなく影響力のある作業にエネルギーを集中できるようになります。
 
-**Duet Mail リンク (コンテキスト):** _このインテリジェントな並べ替えは、まさに忙しい専門家が必要とするものです。 ここでは、_[_Duet Mail_](https://duetmail.com/ja)_ のようなツールが優れており、**AI トリアージ** を使用して緊急性、必要なアクション、意思決定を分析し、**集中ダッシュボード** に明確に表示するので、何が注意が必要かをすぐに知ることができます。_
+**Duet Mail リンク (コンテキスト):** _このインテリジェントな並べ替えは、まさに忙しい専門家が必要とするものです。 ここでは、_[_Duet Mail](https://duetmail.com/ja)_ のようなツールが優れており、**AI トリアージ** を使用して緊急性、必要なアクション、意思決定を分析し、**集中ダッシュボード** に明確に表示するので、何が注意が必要かをすぐに知ることができます。_
 
 ### スマートな要約: 長いスレッドと添付ファイルを即座に理解する
 

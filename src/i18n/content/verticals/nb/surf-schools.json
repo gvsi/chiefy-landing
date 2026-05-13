@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mailfor surfeskoler og paddleboardoperatører | AI e-postassistent",
-  "metaDescription": "Duet Mailhjelper surfeinstruktører og paddleboard-operatører med å svare på bestillings-e-poster umiddelbart – selv mens de underviser. AI-utkastede svar med dine leksjonstyper, priser og stemme.",
+  "pageTitle": "Duet Mail for surfeskoler og paddleboardoperatører | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper surfeinstruktører og paddleboard-operatører med å svare på bestillings-e-poster umiddelbart – selv mens de underviser. AI-utkastede svar med dine leksjonstyper, priser og stemme.",
   "heroBadge": "Godkjent av 300+ surfeinstruktører",
   "heroHeadline": "Din e-postassistent mens du underviser på vannet",
-  "heroSubline": "Duetlærer dine leksjonstyper, priser og betingelser – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
+  "heroSubline": "Duet lærer dine leksjonstyper, priser og betingelser – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "leksjon",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "To lagrede bestillinger betaler for et år påDuet."
+    "punchline": "To lagrede bestillinger betaler for et år på Duet."
   },
-  "categorizationSubtitle": "Duetmerker automatisk hver e-post slik at du ser timebestillinger først, spørsmål dernest og aldri støy. Ikke mer mangler en skolegruppeforespørsel begravet under Yelp-varsler.",
-  "draftSubtitle": "Duetlærer leksjonstyper, gruppepriser og tone. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med tilgjengelighet, hva som er inkludert og hva du skal ta med. Du anmelder og sender.",
-  "agentSubtitle": "\"Kommer det noen gruppebestillinger denne uken?\" \"Sett utkast til et svar til skolen med tilgjengelighet.\"Duetkjenner innboksen og timeplanen din – bare spør.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser timebestillinger først, spørsmål dernest og aldri støy. Ikke mer mangler en skolegruppeforespørsel begravet under Yelp-varsler.",
+  "draftSubtitle": "Duet lærer leksjonstyper, gruppepriser og tone. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med tilgjengelighet, hva som er inkludert og hva du skal ta med. Du anmelder og sender.",
+  "agentSubtitle": "\"Kommer det noen gruppebestillinger denne uken?\" \"Sett utkast til et svar til skolen med tilgjengelighet.\"Duet kjenner innboksen og timeplanen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Trener Mike T.",
       "title": "Surfeskoleeier, CA",
-      "quote": "Jeg er i vannet og underviser 6 timer om dagen. Da jeg sjekket e-posten, hadde halvparten av bestillingene gått til noen andre. Nå harDuetutkast til svar med priser og tilgjengelighet – jeg gjennomgår bare mellom øktene.",
+      "quote": "Jeg er i vannet og underviser 6 timer om dagen. Da jeg sjekket e-posten, hadde halvparten av bestillingene gått til noen andre. Nå har Duet utkast til svar med priser og tilgjengelighet – jeg gjennomgår bare mellom øktene.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen og Mark S.",
       "title": "Paddleboard leksjoner og utleie, HI",
-      "quote": "Vi kjører undervisning og brettutleie ut av samme innboks.Duetfant ut forskjellen umiddelbart - leiespørsmål får svar på leie, leksjonsforespørsler får leksjonsdetaljer. Det er som å ha en resepsjon.",
+      "quote": "Vi kjører undervisning og brettutleie ut av samme innboks.Duet fant ut forskjellen umiddelbart - leiespørsmål får svar på leie, leksjonsforespørsler får leksjonsdetaljer. Det er som å ha en resepsjon.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Surfinstruktør, FL",
-      "quote": "Skolegruppebestillinger pleide å ta 10 e-poster frem og tilbake. Nå lagerDuetdet første svaret med gruppepriser, hva som er inkludert, og tillatelsesslippen. Kutter hele tråden i to.",
+      "quote": "Skolegruppebestillinger pleide å ta 10 e-poster frem og tilbake. Nå lager Duet det første svaret med gruppepriser, hva som er inkludert, og tillatelsesslippen. Kutter hele tråden i to.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP-turer og leksjoner, OR",
-      "quote": "Høysesongen tok livet av meg - 30 e-poster om dagen om forhold, priser, hva jeg skal ta med. De samme fem spørsmålene om og om igjen.Duethåndterer alle og de høres akkurat ut som meg.",
+      "quote": "Høysesongen tok livet av meg - 30 e-poster om dagen om forhold, priser, hva jeg skal ta med. De samme fem spørsmålene om og om igjen.Duet håndterer alle og de høres akkurat ut som meg.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Kids Surf Camp Director, SC",
-      "quote": "Foreldre sender de lengste e-postene. Leirdatoer, allergier, ferdighetsnivåer, hentetider.Duetutarbeider detaljerte svar som dekker alt, så jeg skriver ikke avsnitt klokken 22.00 etter en hel dag på stranden.",
+      "quote": "Foreldre sender de lengste e-postene. Leirdatoer, allergier, ferdighetsnivåer, hentetider.Duet utarbeider detaljerte svar som dekker alt, så jeg skriver ikke avsnitt klokken 22.00 etter en hel dag på stranden.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "HåndtererDuetforskjellige undervisningstyper og leie av utstyr?",
-      "answer": "Ja.Duetlærer alle tilbudene dine - privattimer, gruppetimer, barneleirer, brettutleie, SUP-turer. Når en forespørsel kommer inn, utarbeider den et svar med riktig pris, varighet, hva som er inkludert og hva du skal ta med. Den vet at en skolegruppe-e-post trenger andre detaljer enn en privat leksjonsbestilling."
+      "question": "Håndterer Duet forskjellige undervisningstyper og leie av utstyr?",
+      "answer": "Ja. Duet lærer alle tilbudene dine - privattimer, gruppetimer, barneleirer, brettutleie, SUP-turer. Når en forespørsel kommer inn, utarbeider den et svar med riktig pris, varighet, hva som er inkludert og hva du skal ta med. Den vet at en skolegruppe-e-post trenger andre detaljer enn en privat leksjonsbestilling."
     },
     {
       "question": "Hva med spørsmål om vær og forhold?",
-      "answer": "Duetlærer hvordan du vanligvis håndterer e-poster med vilkår – retningslinjene dine for kanselleringer, omplanlegging og hvilke betingelser du underviser i. Når noen sender e-poster og spør om leksjonen deres vil fortsette, lagerDuetet svar som samsvarer med din vanlige tone og retningslinjer. Du vurderer og sender på sekunder."
+      "answer": "Duet lærer hvordan du vanligvis håndterer e-poster med vilkår – retningslinjene dine for kanselleringer, omplanlegging og hvilke betingelser du underviser i. Når noen sender e-poster og spør om leksjonen deres vil fortsette, lager Duet et svar som samsvarer med din vanlige tone og retningslinjer. Du vurderer og sender på sekunder."
     }
   ],
   "pricingNote": "For $90/leksjon betaler to lagrede bestillinger for over ett år medPro."

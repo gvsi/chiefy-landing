@@ -3,7 +3,7 @@ title: "પ્રોફેશનલ ઈમેઇલ કેવી રીતે �
 description: "વિશ્વાસ બનાવે અને સમય બચાવે એવા પ્રોફેશનલ ઈમેઇલ લખવાનું શીખો. subject lines, tone, structure અને etiquetteમાં નિપુણતા મેળવો. તમારી કારકિર્દી સંચારને સુધારો"
 publishedAt: 2025-05-27
 author: "Duet Mail ટીમ"
-tags: ["AI", "Productivity", "Email Writing"]
+tags: ["AI", "ઉત્પાદકતા", "ઈમેઇલ લેખન"]
 draft: false
 ---
 

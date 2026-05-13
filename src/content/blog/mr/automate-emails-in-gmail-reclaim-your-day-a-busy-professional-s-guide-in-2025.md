@@ -3,7 +3,7 @@ title: "Gmail मध्ये ईमेल्स स्वयंचलित क
 description: "तुमच्या इनबॉक्समध्ये बुडणे थांबवा! वेळ वाचवण्यासाठी आणि उत्पादकता वाढवण्यासाठी Gmail मधील अंगभूत सुविधा, एक्स्टेंशन्स आणि AI सहाय्यक वापरून ईमेल्स कशा स्वयंचलित करायच्या ते शिका"
 publishedAt: 2025-11-16
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Automation"]
+tags: ["AI", "Gmail", "उत्पादकता", "ऑटोमेशन"]
 draft: false
 ---
 

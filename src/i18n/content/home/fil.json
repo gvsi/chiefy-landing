@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "burador",
+        "action": "draft",
         "label": "Bumuo ng tugon"
       },
       {
-        "action": "kalendaryo",
+        "action": "calendar",
         "label": "Humanap ng oras para magkita"
       }
     ],

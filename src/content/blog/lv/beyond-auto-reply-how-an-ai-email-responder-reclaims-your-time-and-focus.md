@@ -3,7 +3,7 @@ title: "Vairāk nekā automātiskā atbilde: kā mākslīgā intelekta e-pasta a
 description: "Slīkstat e-pastos? Uzziniet, kā mūsdienīgais mākslīgā intelekta e-pasta atbildētājs pārveido jūsu iesūtni no stresa avota par produktivitātes dzinējspēku. Pārvariet pārslodzi jau šodien."
 publishedAt: 2025-04-26
 author: "Duet Mail Team"
-tags: ["Mākslīgais intelekts", "Proproduktivitāte", "E-pasta rakstīšana"]
+tags: ["Mākslīgais intelekts", "Produktivitāte", "E-pasta rakstīšana"]
 draft: false
 ---
 
@@ -17,9 +17,7 @@ Bet ko darītu, ja jūsu e-pasts varētu strādāt jūsu labā, nevis pret jums?
 
 Skaitļi rada skarbu ainu. 2024. gadā pasaule nosūta un saņem aptuveni [ **361,6 miljardus e-pasta ziņojumu dienā**](https://www.indectron.com/blog/email-stats/). Vidējam biroja darbiniekam tas nozīmē aptuveni [ **121 e-pasta saņemšanu dienā**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/). Nav brīnums, ka profesionāļi ziņo, ka ievērojamu daļu savas nedēļas – aprēķini svārstās no [ **11 stundām**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) līdz pat satriecošiem [ **28% darba nedēļas**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) – pavada, vienkārši pārvaldot savu iesūtni.
 
-Tā nav tikai kaitinoša sajūta; tā ir ievērojama produktivitātes samazināšanās un stresa avots. Pētījumi liecina, ka [ **67% cilvēku jūtas pārslogoti ar savu iesūtni**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), un pastāvīgie pārtraukumi apgrūtina koncentrēšanos, vidēji [ **23 minūtes, lai atgūtu koncentrēšanos**](https://ppm.express/blog/checking-emails/) pēc e-pasta pārbaudes.
-
-![Infografika, kurā parādīta galvenā statistika par e-pasta pārslodzi, tostarp vidējais e-pasta ziņojumu skaits dienā, e-pasta pārvaldībai veltītais laiks un to darbinieku procentuālā daļa, kuri jūtas pārslogoti.](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+Tā nav tikai kaitinoša sajūta; tā ir ievērojama produktivitātes samazināšanās un stresa avots. Pētījumi liecina, ka [ **67% cilvēku jūtas pārslogoti ar savu iesūtni**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), un pastāvīgie pārtraukumi apgrūtina koncentrēšanos, vidēji [ **23 minūtes, lai atgūtu koncentrēšanos**](https://ppm.express/blog/checking-emails/) pēc e-pasta pārbaudes.![Infografika, kurā parādīta galvenā statistika par e-pasta pārslodzi, tostarp vidējais e-pasta ziņojumu skaits dienā, e-pasta pārvaldībai veltītais laiks un to darbinieku procentuālā daļa, kuri jūtas pārslogoti.](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 Tradicionālie automātiskie atbildētāji, piemēram, tie, kas iebūvēti Gmail vai Outlook, nekad netika izstrādāti šādai realitātei. To ierobežojumi ir acīmredzami:
 
@@ -112,9 +110,7 @@ Mākslīgā intelekta e-pasta asistentu tirgus strauji aug. Lai gan daudzi rīki
 
 - **Privātums un drošība:** Kā rīks apstrādā jūsu e-pasta datus? Meklējiet skaidras privātuma politikas un drošības pasākumus (piemēram, šifrēšanu, atbilstību GDPR/CCPA).
 
-- **Cenu noteikšana:** Vai izmaksas atbilst potenciālajam laika ietaupījumam un produktivitātes pieaugumam? (Ņemiet vērā ieguldījumu atdeves (ROI) aprēķinus, piemēram, EmailTree.ai apgalvojumu par [ **2 FTE izmaksu ietaupījumu**](https://emailtree.ai/) uz katriem 1000 apstrādātiem e-pastiem).
-
-![Ekrānuzņēmums ar Duet Mail Focused Dashboard, kurā redzami prioritārie e-pasti, kas kategorizēti pēc Nepieciešamās darbības un Nepieciešamajiem lēmumiem.](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+- **Cenu noteikšana:** Vai izmaksas atbilst potenciālajam laika ietaupījumam un produktivitātes pieaugumam? (Ņemiet vērā ieguldījumu atdeves (ROI) aprēķinus, piemēram, EmailTree.ai apgalvojumu par [ **2 FTE izmaksu ietaupījumu**](https://emailtree.ai/) uz katriem 1000 apstrādātiem e-pastiem).![Ekrānuzņēmums ar Duet Mail Focused Dashboard, kurā redzami prioritārie e-pasti, kas kategorizēti pēc Nepieciešamās darbības un Nepieciešamajiem lēmumiem.](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 Ar mākslīgo intelektu darbināmi informācijas paneļi, piemēram, šis piemērs no Duet Mail, sniedz skaidru priekšstatu par prioritārajiem e-pastiem, ievērojami samazinot šķirošanas laiku.
 

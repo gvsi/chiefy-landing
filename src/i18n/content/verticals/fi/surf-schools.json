@@ -1,6 +1,6 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail surffauskouluille ja melontalautailijoille | AI sähköpostiavustaja",
+  "pageTitle": "Duet Mail surffauskouluille ja melontalautailijoille | AI-sähköpostiavustaja",
   "metaDescription": "Duet Mail auttaa surffausohjaajia ja melontalautailijoita vastaamaan varaussähköposteihin välittömästi – jopa opetuksen aikana. AI-luonnolliset vastaukset oppituntityypeilläsi, hinnoittelullasi ja äänelläsi.",
   "heroBadge": "Yli 300 surffausohjaajan luottama",
   "heroHeadline": "Sähköpostiavustajasi opettaessasi vesillä",
@@ -49,7 +49,7 @@
     "bookingUnit": "oppitunti",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Kaksi tallennettua varausta maksaa Duetin vuoden."
+    "punchline": "Kaksi tallennettua varausta maksaa Duet in vuoden."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet oppituntivaraukset ensin, kysymykset sitten ja melu ei koskaan. Yelp-hälytysten alle jäänyt kouluryhmäkysely ei enää jää huomaamatta.",
   "draftSubtitle": "Duet oppii oppituntityypit, ryhmähinnoittelun ja sävyn. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on saatavuus, mitä sisältyy ja mitä tuoda. Tarkistat ja lähetät.",
@@ -145,7 +145,7 @@
     {
       "name": "Fran C.",
       "title": "SUP Tours & Lessons, OR",
-      "quote": "Huippusesonki tappoi minut – 30 sähköpostiviestiä päivässä ehdoista, hinnoittelusta ja tuomisesta. Samat viisi kysymystä kerta toisensa jälkeen. Duetti hoitaa ne kaikki ja he kuulostavat täsmälleen minulta.",
+      "quote": "Huippusesonki tappoi minut – 30 sähköpostiviestiä päivässä ehdoista, hinnoittelusta ja tuomisesta. Samat viisi kysymystä kerta toisensa jälkeen. Duet ti hoitaa ne kaikki ja he kuulostavat täsmälleen minulta.",
       "avatarKey": "francesca"
     },
     {

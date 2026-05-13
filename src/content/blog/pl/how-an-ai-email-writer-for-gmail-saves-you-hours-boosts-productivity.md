@@ -3,7 +3,7 @@ title: "Jak AI Email Writer dla Gmaila oszczędza Ci godziny i zwiększa produkt
 description: "Toniesz w mailach? Sprawdź, jak AI Email Writer dla Gmaila może tworzyć odpowiedzi, podsumowywać wątki i odzyskać Twój dzień pracy. Zwiększ produktywność już dziś!"
 publishedAt: 2025-07-25
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Email Writing"]
+tags: ["AI", "Gmail", "Produktywność", "Pisanie e-maili"]
 draft: false
 ---
 

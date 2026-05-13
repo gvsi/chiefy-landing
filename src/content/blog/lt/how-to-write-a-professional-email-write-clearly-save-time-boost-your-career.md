@@ -103,11 +103,7 @@ Užbaikite el. laišką sklandžiai ir pateikite reikalingą kontaktinę informa
 
   - **Nebūtina (bet dažnai naudinga)**: įmonės svetainė, LinkedIn profilio nuoroda, fizinis adresas (jei aktualu).
 
-  - **Formatavimas**: laikykite glaustai ([**rekomenduojama daugiausia 4–5 eilutės**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), naudokite profesionalius ir [**žiniatinkliui saugius šriftus**](https://www.mailerlite.com/blog/email-signature-best-practices) (pvz., Arial, Calibri) bei su jūsų prekės ženklu derančias spalvas. Užtikrinkite, kad parašas būtų [**patogus mobiliesiems**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Venkite nereikalingų paveikslėlių, didelių logotipų ar įkvepiančių citatų.
-
-
-
-![Tvarkingo profesionalaus el. pašto parašo pavyzdys su vardu, pareigomis, įmone, telefonu, svetaine ir LinkedIn nuoroda](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+  - **Formatavimas**: laikykite glaustai ([**rekomenduojama daugiausia 4–5 eilutės**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), naudokite profesionalius ir [**žiniatinkliui saugius šriftus**](https://www.mailerlite.com/blog/email-signature-best-practices) (pvz., Arial, Calibri) bei su jūsų prekės ženklu derančias spalvas. Užtikrinkite, kad parašas būtų [**patogus mobiliesiems**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Venkite nereikalingų paveikslėlių, didelių logotipų ar įkvepiančių citatų.![Tvarkingo profesionalaus el. pašto parašo pavyzdys su vardu, pareigomis, įmone, telefonu, svetaine ir LinkedIn nuoroda](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Tvarkingame, profesionaliame el. pašto paraše pateikiama būtina kontaktinė informacija be pertekliaus.
 

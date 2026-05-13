@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mailvoor duikwinkels | AI-e-mailassistent",
-  "metaDescription": "Duet Mailhelpt eigenaren van duikwinkels en PADI-instructeurs direct te reageren op certificeringsaanvragen, reisboekingen en vragen over uitrusting, zelfs onder water.",
+  "pageTitle": "Duet Mail voor duikwinkels | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt eigenaren van duikwinkels en PADI-instructeurs direct te reageren op certificeringsaanvragen, reisboekingen en vragen over uitrusting, zelfs onder water.",
   "heroBadge": "Vertrouwd door meer dan 300 duikoperators",
   "heroHeadline": "Uw e-mailassistent terwijl u onder water bent",
-  "heroSubline": "Duetleert uw duiklocaties, certificeringsvereisten, prijzen en stem kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest terwijl u op de boot bent.",
+  "heroSubline": "Duet leert uw duiklocaties, certificeringsvereisten, prijzen en stem kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest terwijl u op de boot bent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "duik",
     "lostPerMonth": "3 tochten (elk 6 duikers)",
     "monthlyLoss": "$2,700",
-    "punchline": "Eén opgeslagen groepsduik levert een jaar langDuetop."
+    "punchline": "Eén opgeslagen groepsduik levert een jaar lang Duet op."
   },
-  "categorizationSubtitle": "Duettagt automatisch elke e-mail, zodat je eerst certificeringsaanvragen en duikboekingen ziet, daarna uitrustingsvragen en PADI-waarschuwingen wanneer je er klaar voor bent. U hoeft nooit meer een groepsboeking te missen die verborgen ligt onder nieuwsbrieven over apparatuur.",
-  "draftSubtitle": "Duetleert uw duiklocaties, certificaatvereisten en prijzen kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met reisgegevens, wat is inbegrepen en wat u moet meenemen. Je beoordeelt en verzendt.",
-  "agentSubtitle": "\"Hoeveel duikers zijn er geboekt voor zaterdag?\" 'Stel een antwoord op aan Rachel met de beschikbaarheid van Open Water.'Duetkent uw inbox en planning — vraag het maar.",
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat je eerst certificeringsaanvragen en duikboekingen ziet, daarna uitrustingsvragen en PADI-waarschuwingen wanneer je er klaar voor bent. U hoeft nooit meer een groepsboeking te missen die verborgen ligt onder nieuwsbrieven over apparatuur.",
+  "draftSubtitle": "Duet leert uw duiklocaties, certificaatvereisten en prijzen kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met reisgegevens, wat is inbegrepen en wat u moet meenemen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Hoeveel duikers zijn er geboekt voor zaterdag?\" 'Stel een antwoord op aan Rachel met de beschikbaarheid van Open Water.'Duet kent uw inbox en planning — vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapitein Mike T.",
       "title": "Duikbootkapitein, FL",
-      "quote": "Ik organiseer boottochten van vrijdag tot en met zondag en de winkel is op maandag maar een paar uur open. Certificeringsvragen en reisaanvragen stapelen zich op terwijl ik onder water ben.Duetstelt antwoorden op met mijn prijzen, duiklocaties en wat er bij zit - ik bekijk ze tussen de duiken door.",
+      "quote": "Ik organiseer boottochten van vrijdag tot en met zondag en de winkel is op maandag maar een paar uur open. Certificeringsvragen en reisaanvragen stapelen zich op terwijl ik onder water ben.Duet stelt antwoorden op met mijn prijzen, duiklocaties en wat er bij zit - ik bekijk ze tussen de duiken door.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI-duikcentrum, HI",
-      "quote": "We organiseren duiken, snorkeltochten en walvisobservaties vanaf dezelfde boten. De verscheidenheid aan e-mails is krankzinnig: certificaatvragen, groepsboekingen, verhuur van uitrusting, weercontroles.Duetsorteert het allemaal en stelt antwoorden op die het verschil kennen. Absolute redder in nood.",
+      "quote": "We organiseren duiken, snorkeltochten en walvisobservaties vanaf dezelfde boten. De verscheidenheid aan e-mails is krankzinnig: certificaatvragen, groepsboekingen, verhuur van uitrusting, weercontroles.Duet sorteert het allemaal en stelt antwoorden op die het verschil kennen. Absolute redder in nood.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wrakduikcharters, FL",
-      "quote": "De helft van mijn e-mails is 'welke certificering heb ik nodig voor de wrakduiken?' en de andere helft is 'heb ik mijn eigen spullen nodig?'Duetverwerkt beide op de automatische piloot. Mijn responstijd ging van uren naar minuten.",
+      "quote": "De helft van mijn e-mails is 'welke certificering heb ik nodig voor de wrakduiken?' en de andere helft is 'heb ik mijn eigen spullen nodig?'Duet verwerkt beide op de automatische piloot. Mijn responstijd ging van uren naar minuten.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Eigenaar van duikwinkel, CA",
-      "quote": "Tijdens de zomer krijgen we meer dan 30 e-mails per dag over cursussen, beschikbaarheid van reizen en uitrusting. Ik verloor boekingen aan winkels die sneller reageerden. Nu steltDuetalles op en ik druk gewoon op verzenden tussen de lessen.",
+      "quote": "Tijdens de zomer krijgen we meer dan 30 e-mails per dag over cursussen, beschikbaarheid van reizen en uitrusting. Ik verloor boekingen aan winkels die sneller reageerden. Nu stelt Duet alles op en ik druk gewoon op verzenden tussen de lessen.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sara K.",
       "title": "Duikinstructeur en gids, NC",
-      "quote": "Ik geef 's ochtends cursussen en 's middags begeleid ik duiken. Er is letterlijk geen tijd om e-mail te beantwoorden.Duetleerde mijn cursusrooster, prijzen en zelfs mijn annuleringsbeleid kennen. Klanten kunnen het verschil niet zien.",
+      "quote": "Ik geef 's ochtends cursussen en 's middags begeleid ik duiken. Er is letterlijk geen tijd om e-mail te beantwoorden.Duet leerde mijn cursusrooster, prijzen en zelfs mijn annuleringsbeleid kennen. Klanten kunnen het verschil niet zien.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "BegrijptDuetde certificeringsniveaus en cursusvereisten?",
-      "answer": "Ja.Duetleert uw specifieke cursussen – Open Water, Advanced, Rescue, Divemaster – samen met de vereisten, duur, prijzen en wat er allemaal bij zit. Wanneer iemand vraagt ​​of hij/zij gecertificeerd wil worden, steltDueteen antwoord op met de juiste cursusdetails, planning en volgende stappen. Je beoordeelt en verzendt."
+      "question": "Begrijpt Duet de certificeringsniveaus en cursusvereisten?",
+      "answer": "Ja. Duet leert uw specifieke cursussen – Open Water, Advanced, Rescue, Divemaster – samen met de vereisten, duur, prijzen en wat er allemaal bij zit. Wanneer iemand vraagt ​​of hij/zij gecertificeerd wil worden, stelt Duet een antwoord op met de juiste cursusdetails, planning en volgende stappen. Je beoordeelt en verzendt."
     },
     {
-      "question": "Ik ben de hele dag op de boot of onder water. Kan ikDuetvanaf mijn telefoon gebruiken?",
-      "answer": "Ja.Duetwerkt metGmailenOutlook, dus het werkt overal waar uw e-mail werkt, inclusief uw telefoon. Concepten verschijnen automatisch in uw inbox. Tussen de duiken of terug bij de kade kunt u met één tik bekijken en verzenden. De meeste duikoperators vertellen ons dat het hen tijdens het hoogseizoen 1-2 uur e-mailtijd per dag bespaart."
+      "question": "Ik ben de hele dag op de boot of onder water. Kan ik Duet vanaf mijn telefoon gebruiken?",
+      "answer": "Ja. Duet werkt met Gmail en Outlook, dus het werkt overal waar uw e-mail werkt, inclusief uw telefoon. Concepten verschijnen automatisch in uw inbox. Tussen de duiken of terug bij de kade kunt u met één tik bekijken en verzenden. De meeste duikoperators vertellen ons dat het hen tijdens het hoogseizoen 1-2 uur e-mailtijd per dag bespaart."
     }
   ],
   "pricingNote": "Voor $ 150/duik met een groep van 6 personen levert één opgeslagen reis meer dan een jaarProop."

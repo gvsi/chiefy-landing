@@ -3,7 +3,7 @@ title: "如何将AI和GPT用于Gmail并重新开始您的一天"
 description: "了解如何使用 GPT 代替 Gmail 来克服电子邮件过载。探索用于起草、总结和分类的 AI 工具，以提高工作效率并节省时间。"
 publishedAt: 2025-06-10
 author: "Duet Mail团队"
-tags: ["AI", "Gmail", "Pro导电率", "电子邮件"]
+tags: ["AI", "Gmail", "生产力", "电子邮件"]
 draft: false
 ---
 
@@ -19,7 +19,7 @@ draft: false
 
 这种集成有多种方式发生：
 
-- **原生Gmail功能 (**[**Gemini**](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264)**):** Google已经将自己的AI，称为**Gemini**（之前的DuetAI），直接编织到Google Workspace，包括Gmail。 “[Help me write](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid)”等功能允许用户根据提示生成电子邮件草稿，而Smart Compose提供预测文本建议作为一种类型，Smart Reply提供快速、基于上下文的响应选项。值得注意的是，访问全套 Gemini 功能通常需要付费 [Google Workspace](https://workspace.google.com/) 或 [Google 一个 AI 高级版](https://one.google.com/ai-premium) 订阅。虽然方便，但这些本机工具的早期版本有时在功能上落后于专用解决方案。
+- **原生Gmail功能 (**[**Gemini**](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264)**):** Google已经将自己的AI，称为**Gemini**（之前的Duet AI），直接编织到Google Workspace，包括Gmail。 “[Help me write](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid)”等功能允许用户根据提示生成电子邮件草稿，而Smart Compose提供预测文本建议作为一种类型，Smart Reply提供快速、基于上下文的响应选项。值得注意的是，访问全套 Gemini 功能通常需要付费 [Google Workspace](https://workspace.google.com/) 或 [Google 一个 AI 高级版](https://one.google.com/ai-premium) 订阅。虽然方便，但这些本机工具的早期版本有时在功能上落后于专用解决方案。
 
 - **(**[**浏览器扩展**](https://www.popai.pro/resources/20-best-chatgpt-chrome-extensions-for-2025/)**):** 这些通常通过 [Chrome Web Store](https://ttms.com/12-most-useful-chatgpt-plugins-in-2025/))（或其他浏览器的类似存储库）安装，并将AI功能覆盖到标准Gmail界面上。流行的示例包括 ([ChatGPT Writer](https://www.wps.ai/zh-Hans/blog/7-best-chatgpt-chrome-extensions/)) 等扩展，它们直接在撰写窗口或电子邮件线程视图中提供由 ChatGPT 驱动的起草、摘要或响应生成。它们提供特定的功能，而不需要全新的电子邮件环境。
 
@@ -43,7 +43,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 ### 写电子邮件速度提高 10 倍（听起来不像机器人）
 
-**Pro问题：** 盯着空白的撰写窗口，尤其是例行、正式或重复的电子邮件，会消耗宝贵的时间和精力。任何人都可能遭遇写作障碍，从而减慢重要的沟通速度。
+**问题：** 盯着空白的撰写窗口，尤其是例行、正式或重复的电子邮件，会消耗宝贵的时间和精力。任何人都可能遭遇写作障碍，从而减慢重要的沟通速度。
 
 **AI解决方案：** AI擅长克服“空白页”问题。它可以根据简单的提示生成完整的电子邮件草稿，建议对传入消息进行智能回复，并通过调整语气（正式化、休闲化）、长度（缩短、阐述）或清晰度来完善现有文本。这对于撰写销售推广、会议后发送跟进、礼貌拒绝或回答常见问题等任务非常有用。
 
@@ -67,7 +67,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 ### 通过智能分类避免收件箱混乱
 
-**Pro问题：** 传统的收件箱通常是焦虑的根源。它按时间顺序运行，这意味着紧急的客户请求可能会被新闻通讯、通知和较低优先级的聊天内容所掩盖。手动对这些数字堆进行排序需要时间和持续的警惕，从而导致决策疲劳和重要信息被遗漏的风险。对于[忙碌的专业人士](https://kairntech.com/zh-Hans/blog/articles/ai-personal-assistants/)、[管理多个客户的自由职业者](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264)和[初创团队](https://www.ycombinator.com/companies/industry/ai-assistant)来说，这是一个主要痛点，其中每封电子邮件都可能至关重要。
+**问题：** 传统的收件箱通常是焦虑的根源。它按时间顺序运行，这意味着紧急的客户请求可能会被新闻通讯、通知和较低优先级的聊天内容所掩盖。手动对这些数字堆进行排序需要时间和持续的警惕，从而导致决策疲劳和重要信息被遗漏的风险。对于[忙碌的专业人士](https://kairntech.com/zh-Hans/blog/articles/ai-personal-assistants/)、[管理多个客户的自由职业者](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264)和[初创团队](https://www.ycombinator.com/companies/industry/ai-assistant)来说，这是一个主要痛点，其中每封电子邮件都可能至关重要。
 
 **AI 解决方案：** 智能分类系统使用 AI 根据多种因素分析传入电子邮件 – 发件人的重要性、表示紧急程度的关键字（“截止日期”、“紧急”）、消息内容，甚至用户过去的交互模式。根据此分析，AI 自动对收件箱进行优先级排序。这可以表现为：
 
@@ -75,7 +75,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 - **优先级标志/标签：** 突出显示重要或需要立即采取行动的电子邮件。
 
-- **摘要：** Pro提供批处理在一起的较低优先级电子邮件的摘要。
+- **摘要：** 提供批处理在一起的较低优先级电子邮件的摘要。
 
 **好处：**根本性的转变是从不断地“管理”收件箱噪音转向主动地“采取行动”真正重要的事情。用户可以将注意力集中在 AI 识别为需要采取行动或做出决定的电子邮件上，而不是对最新通知做出反应。
 
@@ -126,7 +126,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 为了减轻这些风险，用户应采用最佳实践：
 
-- **审查Providers：** 选择具有透明隐私政策的信誉良好的供应商，明确说明如何收集、使用、存储和保护数据。
+- **审查供应商：** 选择具有透明隐私政策的信誉良好的供应商，明确说明如何收集、使用、存储和保护数据。
 
 - **查看权限：** 准确了解 AI 工具需要什么级别的访问权限。它需要阅读所有电子邮件，还是只阅读正在处理的电子邮件？尽可能限制权限。
 

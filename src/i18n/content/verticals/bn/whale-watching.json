@@ -34,12 +34,12 @@
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "ট্রিপঅ্যাডভাইজার",
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকার জন্য নতুন পর্যালোচনা",
       "preview": "একজন ভ্রমণকারী সম্প্রতি আপনার ব্যবসা পর্যালোচনা করেছেন৷ দেখুন তারা কি বলে এবং প্রতিক্রিয়া জানায়...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -85,7 +85,7 @@
       "avatarLetter": "F",
       "avatarColor": "lavender",
       "subject": "দৈনিক বুকিং সারাংশ — 3টি নতুন সংরক্ষণ",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Re: ৮ জনের দল — ১৪ই জুন কি সুবিধা আছে?",
+    "originalFrom": "Rachel T. লিখেছেন:",
+    "originalText": "হ্যালো! আমরা ৮ জনের একটি পরিবার এক সপ্তাহের জন্য বেড়াতে এসেছি। জুন মাসের ১৪ তারিখে সকালের ট্যুরে কি আপনাদের জায়গা আছে? জনপ্রতি খরচ কত এবং বাচ্চাদের জন্য কি এটি উপযুক্ত?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "এই Rachel!",
+      "১৪ই জুনের সকালের ট্যুরে ৮ জনের জন্য পর্যাপ্ত জায়গা রয়েছে। টিকিটের মূল্য জনপ্রতি ১২৫ ডলার, ৪-১২ বছর বয়সী শিশুদের জন্য অর্ধেক মূল্য। আমরা সকাল ৯টায় রওনা হব এবং প্রায় ১১:৩০-এর দিকে ফিরে আসব।",
+      "দূরবীন ও বৃষ্টিরোধী পোশাক দেওয়া হবে — শুধু গরম জামাকাপড় ও সানস্ক্রিন নিয়ে আসুন। পর্যবেক্ষণ ডেকটি বাচ্চাদের খুব পছন্দের।",
+      "আপনি কি চান আমি ৮টি জায়গা নিশ্চিত করে দিই?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "১৪ই জুনের সকালের ট্যুরে ৮ জনের জন্য পর্যাপ্ত জায়গা রয়েছে। টিকিটের মূল্য জনপ্রতি ১২৫ ডলার।",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "আপনার ট্যুরের সময় ও মূল্য সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "কী আনতে হবে তা স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত থাকে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

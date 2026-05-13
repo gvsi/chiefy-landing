@@ -3,7 +3,7 @@ title: "Bohater Inbox Zero: Jak zarządzanie e-mailami z wykorzystaniem sztuczne
 description: "Przestań tonąć w e-mailach! Dowiedz się, jak narzędzia do zarządzania e-mailami oparte na sztucznej inteligencji automatyzują sortowanie, priorytetyzują zadania i tworzą szkice odpowiedzi, oszczędzając Ci godziny."
 publishedAt: 2025-09-29
 author: "Duet Mail Team"
-tags: ["AI", "Inbox Management", "Email"]
+tags: ["AI", "Zarządzanie skrzynką odbiorczą", "E-mail"]
 draft: false
 ---
 

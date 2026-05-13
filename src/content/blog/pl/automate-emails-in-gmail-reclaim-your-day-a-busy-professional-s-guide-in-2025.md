@@ -3,7 +3,7 @@ title: "Automatyzacja e-maili w Gmail i odzyskaj swój dzień: przewodnik dla za
 description: "Przestań tonąć w skrzynce odbiorczej! Dowiedz się, jak automatyzować e-maile w Gmailu, korzystając z wbudowanych funkcji, rozszerzeń i asystentów AI, aby oszczędzać godziny i zwiększyć produktywność"
 publishedAt: 2025-11-16
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Automation"]
+tags: ["AI", "Gmail", "Produktywność", "Automatyzacja"]
 draft: false
 ---
 

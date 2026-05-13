@@ -1,9 +1,9 @@
 ---
-title: "Automatitzeu els correus electrònics a Gmail i recupereu el vostre dia: una guia per a professionals ocupats el 2025\n"
+title: "Automatitzeu els correus electrònics a Gmail i recupereu el vostre dia: una guia per a professionals ocupats el 2025"
 description: "Deixa d'ofegar-te a la teva safata d'entrada! Obteniu informació sobre com automatitzar els correus electrònics a Gmail mitjançant funcions integrades, extensions i assistents AI per estalviar hores i augmentar la productivitat"
 publishedAt: 2025-11-16
 author: "Duet Mail Team"
-tags: ["AI","Gmail","Productivitat\n","Automatització\n"]
+tags: ["AI","Gmail","Productivitat","Automatització"]
 draft: false
 ---
 

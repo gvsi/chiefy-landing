@@ -3,7 +3,7 @@ title: "നിങ്ങളുടെ വർക്ക്ഫ്ലോ സൂപ്�
 description: "ഉൽപ്പാദനക്ഷമത, CRM, AI സഹായം എന്നിവയ്‌ക്കും അതിലേറെ കാര്യങ്ങൾക്കുമായി 2025 ലെ മികച്ച Gmail ബിസിനസ് വിപുലീകരണങ്ങൾ കണ്ടെത്തൂ. നിങ്ങളുടെ സമയം വീണ്ടെടുക്കൂ!"
 publishedAt: 2025-06-30
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Tools"]
+tags: ["AI", "Gmail", "ഉൽപ്പാദനക്ഷമത", "ഉപകരണങ്ങൾ"]
 draft: false
 ---
 

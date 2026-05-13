@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Duet Mail| AI Email Assistant förGmailochOutlook",
-    "description": "Duet Mails e-postassistent för AI sammanfattar e-postmeddelanden, utkast till svar och organiserar din inkorg. Fungerar medGmailochOutlook. Spara 4+ timmar i veckan."
+    "title": "Duet Mail | AI Email Assistant för Gmail och Outlook",
+    "description": "Duet Mail s e-postassistent för AI sammanfattar e-postmeddelanden, utkast till svar och organiserar din inkorg. Fungerar med Gmail och Outlook. Spara 4+ timmar i veckan."
   },
   "hero": {
-    "badge": "Nu tillgänglig förGmailochOutlook",
+    "badge": "Nu tillgänglig för Gmail och Outlook",
     "headlinePrefix": "Din ",
     "headlineHighlight": "stabschef",
     "headlineSuffix": " för",
@@ -15,8 +15,8 @@
       "hitta svar"
     ],
     "subline": "Spara 4+ timmar varje vecka på e-post",
-    "primaryCta": "Börja medGmail",
-    "secondaryCta": "Börja medOutlook",
+    "primaryCta": "Börja med Gmail",
+    "secondaryCta": "Börja med Outlook",
     "trialNote": "Gratis 14 dagars provperiod",
     "cancelNote": "Avbryt när som helst"
   },
@@ -37,7 +37,7 @@
       "10:05 AM",
       "Igår"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Automatiskt utkast",
     "emails": [
       {
         "from": "Alex Rivera",
@@ -78,12 +78,12 @@
     "ariaLabel": "Funktioner",
     "eyebrow": "Din inkorg, överladdad",
     "title": "Din inkorg ska inte äga din dag",
-    "subtitle": "Förvandla kaos till klarhet med AI som verkligen får dig.\nSpara 3+ timmar varje vecka med den smartaste e-postassistenten förGmailochOutlook.",
+    "subtitle": "Förvandla kaos till klarhet med AI som verkligen får dig.\nSpara 3+ timmar varje vecka med den smartaste e-postassistenten för Gmail och Outlook.",
     "cards": [
       {
         "id": "drafts",
         "title": "E-postutkast som låter som Du",
-        "description": "DuetAI-e-postskribent förbereder utkast till dina viktigaste e-postmeddelanden. Den lär sig din ton och skrivstilar.",
+        "description": "Duet AI-e-postskribent förbereder utkast till dina viktigaste e-postmeddelanden. Den lär sig din ton och skrivstilar.",
         "ariaLabel": "E-postutkast som låter som du",
         "mockCopy": {
           "draftedColdEmail": "Jag skrev ett kallt e-postmeddelande anpassat för John",
@@ -100,7 +100,7 @@
         "mockCopy": {
           "sentencePrefix": "Jag föreslår vi ",
           "sentenceHighlight": "träffas nästa vecka",
-          "sentenceSuffix": " ?",
+          "sentenceSuffix": "?",
           "actionTitle": "Nytt åtgärdsobjekt",
           "actionLead": "Jag hittade dessa gratis platser i din kalender",
           "slots": [
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligenta påminnelser",
-        "description": "Ställ in det och glöm det.DuetAI kommer ihåg att följa upp när andra inte svarar, så inget faller mellan stolarna.",
+        "description": "Ställ in det och glöm det.Duet AI kommer ihåg att följa upp när andra inte svarar, så inget faller mellan stolarna.",
         "ariaLabel": "Intelligenta påminnelser",
         "mockCopy": {
           "header": "AI-drivna smarta påminnelser",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "E-postorganisation och smart inkorgskategorisering",
     "badge": "Organisation",
-    "title": "Duetorganiserar din inkorg",
+    "title": "Duet organiserar din inkorg",
     "subtitle": "Automatisk kategorisering filtrerar brus och ytor det som är viktigt. Se omedelbart vad som behöver åtgärder, vad som bara är FYI och vad som kan vänta.",
     "windowTitle": "Inkorg",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI e-postutformning och svarsgenerering",
     "badge": "Utformning",
-    "title": "Duetutkast i din röst",
-    "subtitle": "Duetlär sig hur du skriver och utformar svar som matchar din ton. Granska, justera om det behövs och skicka på några sekunder.",
+    "title": "Duet utkast i din röst",
+    "subtitle": "Duet lär sig hur du skriver och utformar svar som matchar din ton. Granska, justera om det behövs och skicka på några sekunder.",
     "windowTitle": "Nytt meddelande",
     "fieldLabels": {
       "to": "Till:",
@@ -252,10 +252,10 @@
     "ariaLabel": "AI e-postintelligens och assistent",
     "badge": "Intelligens",
     "title": "Fråga vad som helst om din e-post",
-    "subtitle": "BeDuetatt hitta e-postmeddelanden, kolla din kalender eller skriva ett svar. Den förstår din inkorg och svarar direkt.",
-    "windowTitle": "DuetAgent",
+    "subtitle": "Be Duet att hitta e-postmeddelanden, kolla din kalender eller skriva ett svar. Den förstår din inkorg och svarar direkt.",
+    "windowTitle": "Duet Agent",
     "onlineLabel": "Online",
-    "initialUserMessage": "Hittar duStripefakturan som skickats av Bokföring?",
+    "initialUserMessage": "Hittar duStripe fakturan som skickats av Bokföring?",
     "processingText": "Söker inkorgen...",
     "foundHeader": "Hittade 2 e-postmeddelanden frånStripe",
     "foundBody": "Jag hittade kvittot på 29,00 USD från den 24 oktober.",
@@ -282,7 +282,7 @@
       "draftHeader": "Utkast: accounting@company.com",
       "draftLines": [
         "Hej Team,",
-        "Vänligen se bifogadStripefaktura för oktober ($29,00).",
+        "Vänligen se bifogadStripe faktura för oktober ($29,00).",
         "Säg till om du behöver något mer.",
         "Bästa,"
       ],
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Frilansare",
-        "quote": "Värt varenda krona. Tiden jag sparar på e-post betalarDuet Mail10 gånger mer. Kan inte tänka mig att jobba utan det nu.",
+        "quote": "Värt varenda krona. Tiden jag sparar på e-post betalar Duet Mail 10 gånger mer. Kan inte tänka mig att jobba utan det nu.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Konsult",
-        "quote": "Som konsult räknas varje minut.Duet Mailsparar mig inte bara tid – det gör min e-postkommunikation skarpare.",
+        "quote": "Som konsult räknas varje minut.Duet Mail sparar mig inte bara tid – det gör min e-postkommunikation skarpare.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,11 +390,11 @@
             "description": "Grundläggande organisation att starta"
           },
           {
-            "title": "DuetAssistent",
+            "title": "Duet Assistent",
             "description": "Prova AI-assistenten"
           }
         ],
-        "ctaLabel": "VäljGmailellerOutlook"
+        "ctaLabel": "Välj Gmail eller Outlook"
       },
       {
         "name": "Pro",
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "DuetAssistent",
+            "title": "Duet Assistent",
             "description": "Chatta för att hitta, skapa utkast, organisera och mer",
             "highlight": true
           },
@@ -437,7 +437,7 @@
             "description": "Riktiga människor, snabba svar"
           }
         ],
-        "ctaLabel": "VäljGmailellerOutlook",
+        "ctaLabel": "Välj Gmail eller Outlook",
         "featured": true
       },
       {
@@ -487,24 +487,24 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "Hur skyddarDuet Mailmin e-postdata?",
-        "answer": "Din säkerhet är vår högsta prioritet. Vi använderOAuth2.0 för säker autentisering med bådeGoogleochMicrosoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vårGoogleintegration genomgår viGoogles årligaCASAsäkerhetsbedömning."
+        "question": "Hur skyddar Duet Mail min e-postdata?",
+        "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google integration genomgår vi Googles årliga CASAsäkerhetsbedömning."
       },
       {
         "question": "Hur fungerar e-postsammanfattningsfunktionen?",
-        "answer": "Duet Mailanvänder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
+        "answer": "Duet Mail använder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
       },
       {
-        "question": "Vilka behörigheter behöverDuet Mail?",
-        "answer": "Duet Mailkräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i dittGooglekonto ellerMicrosoftkontoinställningar."
+        "question": "Vilka behörigheter behöver Duet Mail?",
+        "answer": "Duet Mail kräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i ditt Google konto eller Microsoft kontoinställningar."
       },
       {
         "question": "Vad ingår i den kostnadsfria provperioden?",
-        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till allaProfunktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in medGoogleellerMicrosoftför att börja spara tid på e-posthantering."
+        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till allaPro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
       },
       {
-        "question": "Kan jag användaDuet Mailmed andra e-postleverantörer?",
-        "answer": "Duet MailstöderGmail,GoogleWorkspace ochMicrosoftOutlook. Logga in med dittGoogle- ellerMicrosoft-konto för att komma igång."
+        "question": "Kan jag använda Duet Mail med andra e-postleverantörer?",
+        "answer": "Duet Mail stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
       }
     ]
   },
@@ -512,21 +512,21 @@
     "ariaLabel": "Kom igång",
     "headline": "Få 4 timmar tillbaka.\nVarje vecka.",
     "subline": "Följ med proffsen som börjar sin dag med klarhet, inte kaos. Din kostnadsfria provperiod väntar.",
-    "primaryCta": "Börja medGmail",
-    "secondaryCta": "Börja medOutlook",
+    "primaryCta": "Börja med Gmail",
+    "secondaryCta": "Börja med Outlook",
     "note": "14 dagars gratis provperiod · Avbryt när som helst",
     "trustItems": [
-      "GoogleCASA-bedömd",
+      "Google CASA-bedömd",
       "Krypterad i vila",
       "SäkerOAuth2.0"
     ]
   },
   "footer": {
     "ariaLabel": "Sidfot på webbplatsen",
-    "brandIconAlt": "Duet Mailikon",
+    "brandIconAlt": "Duet Mail ikon",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail— AI Email Assistant som sparar timmar varje vecka",
-    "copyrightTemplate": "Duet Mail©{year}",
+    "tagline": "Duet Mail — AI Email Assistant som sparar timmar varje vecka",
+    "copyrightTemplate": "Duet Mail ©{year}",
     "groups": [
       {
         "title": "Utforska",
@@ -630,11 +630,11 @@
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet- AI Email Assistant förGmailochOutlook",
+    "websiteAlternateName": "Duet - AI Email Assistant för Gmail och Outlook",
     "organizationName": "Duet Mail",
     "organizationContactType": "Kundsupport",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI e-postassistent förGmailochOutlooksom automatiskt sammanfattar e-postmeddelanden, utkast till svar med din röst och organiserar din inkorg för att spara timmar varje vecka.",
+    "softwareDescription": "AI-e-postassistent för Gmail och Outlook som automatiskt sammanfattar e-postmeddelanden, utkast till svar med din röst och organiserar din inkorg för att spara timmar varje vecka.",
     "applicationCategory": "Kommunikationsapplikation",
     "featureList": [
       "Smart e-postorganisation och kategorisering",
@@ -663,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Webb",
-    "browserRequirements": "Kräver JavaScript. Fungerar medGmail,GoogleWorkspace ochMicrosoftOutlook.",
+    "browserRequirements": "Kräver JavaScript. Fungerar med Gmail, Google Workspace och Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/sv",
       "logo": "https://duetmail.com/favicon.svg",
@@ -676,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "Hur skyddarDuet Mailmin e-postdata?",
-        "answer": "Din säkerhet är vår högsta prioritet. Vi använderOAuth2.0 för säker autentisering med bådeGoogleochMicrosoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vårGoogleintegration genomgår viGoogles årligaCASAsäkerhetsbedömning."
+        "question": "Hur skyddar Duet Mail min e-postdata?",
+        "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google integration genomgår vi Googles årliga CASAsäkerhetsbedömning."
       },
       {
         "question": "Hur fungerar e-postsammanfattningsfunktionen?",
-        "answer": "Duet Mailanvänder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
+        "answer": "Duet Mail använder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
       },
       {
-        "question": "Vilka behörigheter behöverDuet Mail?",
-        "answer": "Duet Mailkräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i dittGooglekonto ellerMicrosoftkontoinställningar."
+        "question": "Vilka behörigheter behöver Duet Mail?",
+        "answer": "Duet Mail kräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i ditt Google konto eller Microsoft kontoinställningar."
       },
       {
         "question": "Vad ingår i den kostnadsfria provperioden?",
-        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till allaProfunktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in medGoogleellerMicrosoftför att börja spara tid på e-posthantering."
+        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till allaPro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
       },
       {
-        "question": "Kan jag användaDuet Mailmed andra e-postleverantörer?",
-        "answer": "Duet MailstöderGmail,GoogleWorkspace ochMicrosoftOutlook. Logga in med dittGoogle- ellerMicrosoft-konto för att komma igång."
+        "question": "Kan jag använda Duet Mail med andra e-postleverantörer?",
+        "answer": "Duet Mail stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
       }
     ]
   }

@@ -19,9 +19,7 @@ Vien el. pašto apimtis yra stulbinanti. Visame pasaulyje kasdien išsiunčiamų
 
 Tyrimai nuosekliai rodo, kad specialistai didelę darbo savaitės dalį praleidžia prie el. pašto. Įverčiai svyruoja nuo [maždaug 6,4 valandos per savaitę](https://www.deel.com/blog/workplace-statistics/) (Deel 2025 m. darbo vietos statistika) iki stulbinančių [11 valandų per savaitę](https://www.emailtooltester.com/en/blog/email-usage-statistics/), skiriamų vien el. laiškų valdymui ir organizavimui, kaip nustatyta Microsoft tyrime, kurį cituoja EmailTooltester. Tai gali reikšti net 28% darbo savaitės, kurią praryja gautieji!
 
-Poveikis neapsiriboja prarastu laiku. Nuolatinis el. pašto tikrinimas skaldo dėmesį ir verčia brangiai kainuojančiai keisti kontekstą tarp gilaus darbo ir gautųjų atrankos. Ši skaitmeninė trintis didina stresą, trukdo priimti sprendimus, kai svarbios žinutės pasimeta, ir net gali lemti perdegimą. [Forbes tyrimas, kurį mini DragApp](https://www.dragapp.com/blog/effects-of-email-overload/), parodė, kad trečdalis darbuotojų el. pašto perkrovą įvardijo kaip veiksnį, paskatinusį išeiti iš darbo. Akivaizdu, kad tradicinis požiūris į el. pašto valdymą šiuolaikiniams specialistams nebėra tvarus.
-
-![Infografikas, rodantis el. pašto perkrovos statistiką: vidutinį kasdien gaunamų el. laiškų skaičių, valandas per savaitę, skiriamas el. paštui valdyti, ir poveikį produktyvumui](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+Poveikis neapsiriboja prarastu laiku. Nuolatinis el. pašto tikrinimas skaldo dėmesį ir verčia brangiai kainuojančiai keisti kontekstą tarp gilaus darbo ir gautųjų atrankos. Ši skaitmeninė trintis didina stresą, trukdo priimti sprendimus, kai svarbios žinutės pasimeta, ir net gali lemti perdegimą. [Forbes tyrimas, kurį mini DragApp](https://www.dragapp.com/blog/effects-of-email-overload/), parodė, kad trečdalis darbuotojų el. pašto perkrovą įvardijo kaip veiksnį, paskatinusį išeiti iš darbo. Akivaizdu, kad tradicinis požiūris į el. pašto valdymą šiuolaikiniams specialistams nebėra tvarus.![Infografikas, rodantis el. pašto perkrovos statistiką: vidutinį kasdien gaunamų el. laiškų skaičių, valandas per savaitę, skiriamas el. paštui valdyti, ir poveikį produktyvumui](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 El. pašto perkrova nėra vien pojūtis; duomenys rodo, kad ji reikšmingai mažina produktyvumą ir gerovę
 
@@ -57,9 +55,7 @@ Galvokite apie NLP kaip apie variklį, leidžiantį kompiuteriams suprasti žmog
 
 LLM, tokie kaip OpenAI GPT serija ar Google Gemini modeliai, yra generavimo varomoji jėga. Šie modeliai mokomi iš milžiniškų duomenų rinkinių – trilijonų žodžių iš svetainių, knygų ir kitų tekstinių šaltinių. Toks mokymas leidžia jiems išmokti sudėtingų kalbos, gramatikos, konteksto ir net skirtingų rašymo stilių modelių. Kai pateikiate nurodymą (pvz., „Parašyk mandagų priminimo el. laišką, prašant ataskaitos“) arba esamos el. laiškų gijos kontekstą, LLM pasitelkia savo mokymą, kad numatytų tikėtiniausią žodžių seką ir suformuotų aktualų bei nuoseklų atsakymą.
 
-Svarbu tai, kad daugelis DI el. laiškų rašymo įrankių taip pat turi mokymosi mechanizmą. Analizuodamas el. laiškus, kuriuos *siunčiate* (ypač jūsų atliktus jo juodraščių pakeitimus), DI gali pamažu išmokti jums būdingas formuluotes, laiškų pabaigas ir bendrą bendravimo stilių, todėl laikui bėgant jo pasiūlymai tampa labiau suasmeninti. Dažnai tai vyksta sklandžiai per Chrome plėtinį, kuris integruojamas tiesiai į Gmail sąsają ir suteikia DI galią ten, kur jos reikia.
-
-![Diagrama, iliustruojanti, kaip veikia DI el. laiškų rašymo įrankis: naudotojo įvestis (nurodymas / kontekstas) patenka į DI modelį (NLP / LLM), kuris sukuria el. laiško išvestį (juodraštį / santrauką)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
+Svarbu tai, kad daugelis DI el. laiškų rašymo įrankių taip pat turi mokymosi mechanizmą. Analizuodamas el. laiškus, kuriuos *siunčiate* (ypač jūsų atliktus jo juodraščių pakeitimus), DI gali pamažu išmokti jums būdingas formuluotes, laiškų pabaigas ir bendrą bendravimo stilių, todėl laikui bėgant jo pasiūlymai tampa labiau suasmeninti. Dažnai tai vyksta sklandžiai per Chrome plėtinį, kuris integruojamas tiesiai į Gmail sąsają ir suteikia DI galią ten, kur jos reikia.![Diagrama, iliustruojanti, kaip veikia DI el. laiškų rašymo įrankis: naudotojo įvestis (nurodymas / kontekstas) patenka į DI modelį (NLP / LLM), kuris sukuria el. laiško išvestį (juodraštį / santrauką)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
 
 DI el. laiškų rašymo įrankiai naudoja NLP, kad suprastų jūsų užklausą, ir LLM, mokytus iš didžiulių duomenų kiekių, kad sukurtų žmogui būdingą tekstą.
 
@@ -156,9 +152,7 @@ Spartus DI įsisavinimas darbo vietoje neabejotinas. [McKinsey 2024 m. tyrimas](
 
 Ši tendencija nėra apie žmogiškos komunikacijos pakeitimą; ji skirta pašalinti trintį ir neefektyvumą, kurie ją apsunkina. Tikslas – automatizuoti pasikartojančias, laikui imlias užduotis, atlaisvinant vertingą protinę energiją ir laiką darbui, kuriam reikia išskirtinai žmogiškų įgūdžių: strateginio mąstymo, sudėtingų problemų sprendimo, empatijos ir santykių kūrimo.
 
-DI el. laiškų rašymo įrankiai Gmail yra reikšmingas žingsnis šia kryptimi. Jie siūlo galingą būdą valdyti nesiliaujantį skaitmeninės komunikacijos srautą, paversdami gautuosius iš streso šaltinio labiau suvaldomu ir produktyviu įrankiu.
-
-![Grafika su citata arba statistika apie tai, kaip DI diegimas didina produktyvumą darbo vietoje](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
+DI el. laiškų rašymo įrankiai Gmail yra reikšmingas žingsnis šia kryptimi. Jie siūlo galingą būdą valdyti nesiliaujantį skaitmeninės komunikacijos srautą, paversdami gautuosius iš streso šaltinio labiau suvaldomu ir produktyviu įrankiu.![Grafika su citata arba statistika apie tai, kaip DI diegimas didina produktyvumą darbo vietoje](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
 
 DI įrankiai vis dažniau laikomi būtinais darbo vietos produktyvumui ir efektyvumui didinti.
 

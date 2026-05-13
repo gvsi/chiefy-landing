@@ -1,9 +1,9 @@
 {
   "slug": "horseback-rides",
   "pageTitle": "Duet Mail pentru călărie și ghiduri de traseu | AI Asistent de e-mail",
-  "metaDescription": "Duet Mail îi ajută pe operatorii de drumeții să răspundă instantaneu la e-mailurile de rezervare, chiar și din șa. Răspunsuri redactate de AI cu prețurile, cerințele pentru călători și vocea dvs.",
+  "metaDescription": "Duet Mail îi ajută pe operatorii de drumeții să răspundă instantaneu la e-mailurile de rezervare, chiar și din șa. Răspunsuri redactate de AI cu prețurile, cerințele pentru călători și vocea ta.",
   "heroBadge": "De încredere de peste 300 de ghizi de trasee",
-  "heroHeadline": "Asistentul dvs. de e-mail în timp ce sunteți pe drum",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe drum",
   "heroSubline": "Duet învață tipurile de călătorie, prețurile, cerințele pentru călători și condițiile traseului, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
@@ -20,7 +20,7 @@
       "avatarLetter": "B",
       "avatarColor": "blue",
       "subject": "Întrebare limita de greutate",
-      "preview": "Hei, sunt interesat să rezerv o cursă, dar am vrut mai întâi să vă întreb despre cerințele dvs. de greutate. Am în jur de 260 de kilograme - asta va fi o problemă...",
+      "preview": "Hei, sunt interesat să rezerv o cursă, dar am vrut mai întâi să te întreb despre cerințele tale de greutate. Am în jur de 260 de kilograme - asta va fi o problemă...",
       "pill": "Întrebare",
       "pillColor": "amber"
     },
@@ -37,8 +37,8 @@
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "O nouă recenzie pentru înregistrarea dvs",
-      "preview": "Un călător a evaluat recent afacerea dvs. Vezi ce au de spus și răspund...",
+      "subject": "O nouă recenzie pentru înregistrarea ta",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
@@ -52,8 +52,8 @@
     "punchline": "O călătorie de grup salvată plătește pentru peste doi ani de Duet."
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, pe al doilea rând întrebările pentru călători și zgomotul niciodată. Nu mai lipsește o anchetă de grup îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Duet învață tipurile de călătorie, prețurile și cerințele dvs. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre traseu, prețuri și ce să poarte. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Vreo curse deschise în acest weekend? „Scrieți un răspuns pentru Jessica cu disponibilitatea de sâmbătă”. Duet vă cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebați.",
+  "draftSubtitle": "Duet învață tipurile de călătorie, prețurile și cerințele tale. Când ajunge o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre traseu, prețuri și ce să poarte. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Vreo curse deschise în acest weekend? „Scrie un răspuns pentru Jessica cu disponibilitatea de sâmbătă”. Duet îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -118,9 +118,9 @@
   },
   "agent": {
     "userMessage": "Vreo curse deschise în acest weekend? De asemenea, cum arata vremea?",
-    "agentResponse": "Pe baza calendarului dvs., aveți deschideri sâmbătă la 9:00 și 14:00 și duminică la 10:00. Prognoza de sâmbătă este de 72°F și însorită - vreme perfectă de călătorie. Duminica arată o șansă de 40% pentru ploaie după-amiază, așa că slotul de dimineață este cel mai sigur pariu. Doriți să redactez răspunsuri la orice întrebări în așteptare cu aceste ore?",
-    "followUp": "Redactați un răspuns pentru Jessica cu disponibilitatea de sâmbătă",
-    "followUpResponse": "Făcut! Am redactat un răspuns pentru Jessica confirmând sâmbătă la ora 9:00 pentru 6 călăreți la 100 USD/persoană. Include cerințele dvs. standard pentru călăreț și ce să purtați. Gata de revizuire și de trimis."
+    "agentResponse": "Pe baza calendarului tău, ai locuri libere sâmbătă la 9:00 și 14:00 și duminică la 10:00. Prognoza de sâmbătă este de 72°F și însorită - vreme perfectă de călărit. Duminica arată o șansă de 40% pentru ploaie după-amiază, așa că slotul de dimineață este cel mai sigur pariu. Vrei să redactez răspunsuri la orice întrebări în așteptare cu aceste ore?",
+    "followUp": "Redactează un răspuns pentru Jessica cu disponibilitatea de sâmbătă",
+    "followUpResponse": "Făcut! Am redactat un răspuns pentru Jessica confirmând sâmbătă la ora 9:00 pentru 6 călăreți la 100 USD/persoană. Include cerințele tale standard pentru călăreț și ce să purtați. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Iubit de operatorii de drumeții",
   "testimonials": [
@@ -155,8 +155,8 @@
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Petrece ziua cu caii,\nnu în căsuța dvs. de e-mail.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece ziua cu caii,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Cum tratează Duet întrebările sensibile despre cerințele de greutate sau experiență?",
@@ -164,7 +164,7 @@
     },
     {
       "question": "Poate Duet să gestioneze rezervările de grup cu nevoi diferite de călători?",
-      "answer": "Da. Duet învață tipurile de călătorie, dimensiunile grupurilor, vârsta minimă și orice cerințe specifice pentru călăreț. Când o familie sau un grup trimite e-mailuri despre rezervare, acesta redactează un răspuns care acoperă prețurile pentru întregul grup, ceea ce trebuie să știe fiecare călăreț și intervalele de timp disponibile. Examinați și trimiteți - nu este nevoie de dus-întors."
+      "answer": "Da. Duet învață tipurile de călătorie, dimensiunile grupurilor, vârsta minimă și orice cerințe specifice pentru călăreț. Când o familie sau un grup trimite e-mailuri despre rezervare, acesta redactează un răspuns care acoperă prețurile pentru întregul grup, ceea ce trebuie să știe fiecare călăreț și intervalele de timp disponibile. Revizuiești și trimiți - nu este nevoie de dus-întors."
     }
   ],
   "pricingNote": "La 100 USD/persoană pentru un grup de 6, o călătorie salvată plătește pentru peste doi ani de Pro."

@@ -6,13 +6,13 @@
   "hero": {
     "badge": "હવે Gmail અને Outlook માટે ઉપલબ્ધ",
     "headlinePrefix": "તમારો ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " ",
+    "headlineHighlight": "ઈમેલ ચીફ ઑફ સ્ટાફ",
+    "headlineSuffix": ":",
     "rotatingFeatures": [
-      "ઈમેલ ગોઠવવા માટે",
-      "જવાબોના ડ્રાફ્ટ બનાવવા માટે",
-      "શેડ્યૂલિંગ માટે",
-      "જવાબો શોધવા માટે"
+      "ઈમેલ ગોઠવવો",
+      "જવાબોના ડ્રાફ્ટ બનાવવા",
+      "શેડ્યૂલિંગ કરવું",
+      "જવાબો શોધવા"
     ],
     "subline": "ઈમેલ પર દર અઠવાડિયે 4+ કલાક બચાવો",
     "primaryCta": "Gmailથી શરૂ કરો",

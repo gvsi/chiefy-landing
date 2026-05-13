@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ወ.",
     "originalText": "ሰላም! ዛሬ ቅዳሜ የሚመራ የATV ጉብኝት ለማስያዝ የምንፈልግ የ 4 ቡድን ነን። ክፍል አለህ? ለአንድ ማሽን ዋጋው ስንት ነው?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "ሰላም Rachel!",
+      "ቅዳሜ ለ4 ማሽኖች ክፍት ነው። ጉብኝቶች $200 በማሽን ናቸው እና ከ9 AM ጀምሮ ከመንገዱ መነሻ 6-8 ሰዓት ይቆያሉ።",
+      "የራስ ቁር እና መነጽሮች ይቀርባሉ — ረጅም ሱሪ፣ የተዘጉ ጫማዎች ይልበሱ፣ ውሃ እና የፀሐይ መከላከያ ይዘው ይምጡ። ከተረጋገጡ በኋላ የመገናኛ ቦታውን እና አቅጣጫዎቹን እልካለሁ።",
+      "እንዳስይዝዎት ይፈልጋሉ?"
     ],
     "highlightText": "ቅዳሜ ለ 4 ማሽኖች ሰፊ ነው. ጉብኝቶች በአንድ ማሽን 200 ዶላር ናቸው።",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "ዋጋዎን እና የጉብኝት መንገዶችዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የአሽከርካሪ መስፈርቶችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

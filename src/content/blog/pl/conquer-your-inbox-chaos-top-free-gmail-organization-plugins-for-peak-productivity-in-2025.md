@@ -3,7 +3,7 @@ title: "Pokonaj chaos w skrzynce odbiorczej: najlepsze darmowe wtyczki do organi
 description: "Masz dość chaosu w Gmailu? Odkryj najlepsze darmowe wtyczki do organizacji Gmaila na 2025 rok, które pomogą Ci zarządzać nadmiarem wiadomości, wizualizować przepływy pracy i zwiększyć produktywność."
 publishedAt: 2025-07-27
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Inbox Management"]
+tags: ["AI", "Gmail", "Produktywność", "Zarządzanie skrzynką odbiorczą"]
 draft: false
 ---
 

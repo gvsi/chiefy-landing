@@ -1,99 +1,99 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail per a excursions en ATV i UTV | AI Assistent de correu electrònic\n",
-  "metaDescription": "Duet Mail ajuda els guies turístics d'ATV i UTV a respondre als correus electrònics de reserva a l'instant, fins i tot des del camí. Respostes redactades per AI amb els vostres preus, requisits i veu.\n",
-  "heroBadge": "Confiat per més de 200 guies turístics\n",
-  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al camí\n",
-  "heroSubline": "Duet coneix els vostres tipus de viatge, els vostres preus i els requisits dels usuaris; després redacta les respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.\n",
+  "pageTitle": "Duet Mail per a excursions en ATV i UTV | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els guies turístics d'ATV i UTV a respondre als correus electrònics de reserva a l'instant, fins i tot des del camí. Respostes redactades per AI amb els vostres preus, requisits i veu.",
+  "heroBadge": "Confiat per més de 200 guies turístics",
+  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al camí",
+  "heroSubline": "Duet coneix els vostres tipus de viatge, els vostres preus i els requisits dels usuaris; després redacta les respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
   "inboxEmails": [
     {
-      "from": "Rachel W.\n",
+      "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Disponibilitat dissabte per a 4 màquines?\n",
-      "preview": "Hola! Som un grup de 4 persones que busquem reservar una visita guiada en quad aquest dissabte. Tens habitació? Quin és el preu per màquina?\n",
-      "pill": "Per respondre\n",
+      "subject": "Disponibilitat dissabte per a 4 màquines?",
+      "preview": "Hola! Som un grup de 4 persones que busquem reservar una visita guiada en quad aquest dissabte. Tens habitació? Quin és el preu per màquina?",
+      "pill": "Per respondre",
       "pillColor": "red"
     },
     {
-      "from": "Jason P.\n",
+      "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Requisits d'assegurança?\n",
-      "preview": "Ei, portem els nostres propis UTV. Hem de mostrar una prova d'assegurança de responsabilitat civil? Quin tipus de cobertura necessites...\n",
-      "pill": "Pregunta\n",
+      "subject": "Requisits d'assegurança?",
+      "preview": "Ei, portem els nostres propis UTV. Hem de mostrar una prova d'assegurança de responsabilitat civil? Quin tipus de cobertura necessites...",
+      "pill": "Pregunta",
       "pillColor": "amber"
     },
     {
-      "from": "Els Henderson\n",
+      "from": "Els Henderson",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Quina ruta per a principiants?\n",
-      "preview": "No hem fet mai amb vehicle tot terreny. Quina ruta recomanaríeu per a una família amb dos adolescents? Proporcioneu...\n",
-      "pill": "Reserva\n",
+      "subject": "Quina ruta per a principiants?",
+      "preview": "No hem fet mai amb vehicle tot terreny. Quina ruta recomanaríeu per a una família amb dos adolescents? Proporcioneu...",
+      "pill": "Reserva",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor\n",
+      "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Nova ressenya per a la teva fitxa\n",
-      "preview": "Un viatger ha fet una opinió recent sobre el teu negoci. Mireu què havien de dir i respondre...\n",
-      "pill": "FYI\n",
+      "subject": "Nova ressenya per a la teva fitxa",
+      "preview": "Un viatger ha fet una opinió recent sobre el teu negoci. Mireu què havien de dir i respondre...",
+      "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hola Rachel! Dissabte està obert i podem agafar 4 màquines sense cap problema. Les visites costen 200 dòlars per màquina i tenen una durada d'entre 6 i 8 hores. Ens trobarem a les 9 del matí al capdavant del camí; us enviaré les indicacions un cop hàgiu confirmat. Es proporcionen cascs i ulleres. Vols que et tanqui?\n",
+  "autodraft": "Hola Rachel! Dissabte està obert i podem agafar 4 màquines sense cap problema. Les visites costen 200 dòlars per màquina i tenen una durada d'entre 6 i 8 hores. Ens trobarem a les 9 del matí al capdavant del camí; us enviaré les indicacions un cop hàgiu confirmat. Es proporcionen cascs i ulleres. Vols que et tanqui?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "grup (4 màquines)\n",
+    "bookingUnit": "grup (4 màquines)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Una reserva de grup desada paga un any de Duet.\n"
+    "punchline": "Una reserva de grup desada paga un any de Duet."
   },
-  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, en segon lloc les preguntes d'assegurança i el soroll mai. Ja no et perdis una consulta de grup soterrada sota les alertes de TripAdvisor.\n",
-  "draftSubtitle": "Duet coneix les rutes, els preus i els requisits dels vostres viatges. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, els preus i què cal portar. Tu revisa i envia.\n",
-  "agentSubtitle": "\"Algun grup reservat per aquest cap de setmana?\" \"Esborra una resposta a Rachel amb disponibilitat dissabte\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.\n",
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, en segon lloc les preguntes d'assegurança i el soroll mai. Ja no et perdis una consulta de grup soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Duet coneix les rutes, els preus i els requisits dels vostres viatges. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, els preus i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Algun grup reservat per aquest cap de setmana?\" \"Esborra una resposta a Rachel amb disponibilitat dissabte\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
-      "from": "Rachel W.\n",
+      "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Disponibilitat dissabte per a 4 màquines?\n",
-      "preview": "Som un grup de 4 persones que busquem reservar una visita guiada en quad...\n",
-      "pill": "Respon ara\n",
+      "subject": "Disponibilitat dissabte per a 4 màquines?",
+      "preview": "Som un grup de 4 persones que busquem reservar una visita guiada en quad...",
+      "pill": "Respon ara",
       "pillColor": "red"
     },
     {
-      "from": "Jason P.\n",
+      "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Reserva confirmada — Dissabte a les 9 del matí\n",
-      "pill": "Reservat\n",
+      "subject": "Re: Reserva confirmada — Dissabte a les 9 del matí",
+      "pill": "Reservat",
       "pillColor": "blue"
     },
     {
-      "from": "Els Henderson\n",
+      "from": "Els Henderson",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Què hem de portar a la pista?\n",
-      "pill": "Pregunta\n",
+      "subject": "Què hem de portar a la pista?",
+      "pill": "Pregunta",
       "pillColor": "amber"
     },
     {
-      "from": "Yelp per a empreses\n",
+      "from": "Yelp per a empreses",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Actualització setmanal de la teva empresa\n",
-      "pill": "FYI\n",
+      "subject": "Actualització setmanal de la teva empresa",
+      "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "ATV de les Muntanyes Rocoses\n",
+      "from": "ATV de les Muntanyes Rocoses",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Liquidació de primavera: 25% de descompte en peces\n",
-      "pill": "Promocions\n",
+      "subject": "Liquidació de primavera: 25% de descompte en peces",
+      "pill": "Promocions",
       "pillColor": "lavender"
     }
   ],
@@ -103,68 +103,68 @@
     "originalFrom": "Rachel W. wrote:",
     "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Hola Rachel!",
+      "Dissabte està totalment disponible per a 4 màquines. Els tours costen 200 $ per màquina i duren entre 6 i 8 hores, amb sortida a les 9 del matí des de l’inici del sender.",
+      "Proporcionem cascs i ulleres; només cal portar pantalons llargs, sabates tancades, aigua i protector solar. T’enviaré el punt de trobada i les indicacions quan confirmeu.",
+      "Vols que et reservi la plaça?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Dissabte està totalment disponible per a 4 màquines. Els tours costen 200 $ per màquina",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Coneix els teus preus i rutes",
+      "Redacta amb la teva veu",
+      "Inclou automàticament els requisits dels participants",
+      "Aprèn amb el temps"
     ]
   },
   "agent": {
     "userMessage": "Hi ha algun grup reservat per aquest cap de setmana?",
-    "agentResponse": "Segons la vostra safata d'entrada, teniu un grup de 6 confirmats per dissabte a les 9 del matí i una parella reservada per diumenge al matí. Dissabte a la tarda i diumenge a la tarda segueixen oberts. Voleu que redacti una resposta a qualsevol consulta pendent amb aquestes ofertes?\n",
-    "followUp": "Esborralleu una resposta a Rachel amb disponibilitat dissabte\n",
-    "followUpResponse": "Fet! Vaig redactar una resposta a la Rachel confirmant dissabte per a 4 màquines a 200 dòlars cadascuna. Inclou la ubicació estàndard de la reunió, la informació de l'equip i què cal posar-se. A punt per revisar i enviar.\n"
+    "agentResponse": "Segons la vostra safata d'entrada, teniu un grup de 6 confirmats per dissabte a les 9 del matí i una parella reservada per diumenge al matí. Dissabte a la tarda i diumenge a la tarda segueixen oberts. Voleu que redacti una resposta a qualsevol consulta pendent amb aquestes ofertes?",
+    "followUp": "Esborralleu una resposta a Rachel amb disponibilitat dissabte",
+    "followUpResponse": "Fet! Vaig redactar una resposta a la Rachel confirmant dissabte per a 4 màquines a 200 dòlars cadascuna. Inclou la ubicació estàndard de la reunió, la informació de l'equip i què cal posar-se. A punt per revisar i enviar."
   },
-  "testimonialsTitle": "Estimat pels guies i operadors turístics\n",
+  "testimonialsTitle": "Estimat pels guies i operadors turístics",
   "testimonials": [
     {
-      "name": "Mike D.\n",
-      "title": "Guia ATV, sud d'Utah\n",
-      "quote": "Dirigeixo excursions de 8 hores pels canyons amb servei de cel·les zero. Quan vaig tornar, la meitat dels meus correus electrònics de reserva s'havien refredat. Duet redacta respostes amb els meus preus i la meva informació de seguiment; només les reviso al final del dia.\n",
+      "name": "Mike D.",
+      "title": "Guia ATV, sud d'Utah",
+      "quote": "Dirigeixo excursions de 8 hores pels canyons amb servei de cel·les zero. Quan vaig tornar, la meitat dels meus correus electrònics de reserva s'havien refredat. Duet redacta respostes amb els meus preus i la meva informació de seguiment; només les reviso al final del dia.",
       "avatarKey": "michael"
     },
     {
-      "name": "Tara M.\n",
-      "title": "UTV Tour Operator, Colorado\n",
-      "quote": "Fem visites els 7 dies de la setmana i només les preguntes d'assegurança i exempció m'estaven devorant els matins. Duet s'encarrega de tot: requisits del motorista, restriccions d'edat, què cal portar. Sona exactament com jo.\n",
+      "name": "Tara M.",
+      "title": "UTV Tour Operator, Colorado",
+      "quote": "Fem visites els 7 dies de la setmana i només les preguntes d'assegurança i exempció m'estaven devorant els matins. Duet s'encarrega de tot: requisits del motorista, restriccions d'edat, què cal portar. Sona exactament com jo.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Jake R.\n",
-      "title": "Guia turístic en jeep, Moab\n",
-      "quote": "La gent envia un correu electrònic preguntant quina ruta és adequada per al seu grup, quin nivell d'experiència necessiten, si els nens poden muntar. Les mateixes 5 preguntes una i altra vegada. Duet clava cadascun d'ells.\n",
+      "name": "Jake R.",
+      "title": "Guia turístic en jeep, Moab",
+      "quote": "La gent envia un correu electrònic preguntant quina ruta és adequada per al seu grup, quin nivell d'experiència necessiten, si els nens poden muntar. Les mateixes 5 preguntes una i altra vegada. Duet clava cadascun d'ells.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Nicole S.\n",
-      "title": "Off-Road Adventures, AZ\n",
-      "quote": "Passava més d'una hora cada nit responent les mateixes preguntes de disponibilitat. Ara Duet redacta les respostes mentre estic per la pista. El meu temps de resposta va passar d'hores a minuts.\n",
+      "name": "Nicole S.",
+      "title": "Off-Road Adventures, AZ",
+      "quote": "Passava més d'una hora cada nit responent les mateixes preguntes de disponibilitat. Ara Duet redacta les respostes mentre estic per la pista. El meu temps de resposta va passar d'hores a minuts.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Amanda K.\n",
-      "title": "Tours familiars en quad, Sedona\n",
-      "quote": "Tenim moltes famílies que pregunten sobre els camins per a principiants i els requisits d'edat. Duet ha après totes les nostres opcions de viatge i recomana la correcta en cada resposta. Els clients no poden notar la diferència.\n",
+      "name": "Amanda K.",
+      "title": "Tours familiars en quad, Sedona",
+      "quote": "Tenim moltes famílies que pregunten sobre els camins per a principiants i els requisits d'edat. Duet ha après totes les nostres opcions de viatge i recomana la correcta en cada resposta. Els clients no poden notar la diferència.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Passeu la temporada alta a la pista,\nno a la teva safata d'entrada.\n",
-  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.\n",
+  "ctaHeadline": "Passa la temporada alta a la pista,\nno a la teva safata d'entrada.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Duet gestiona les preguntes sobre assegurances i exempcions?\n",
-      "answer": "Sí. Duet coneix els requisits dels vostres motoristes: assegurança de responsabilitat civil, restriccions d'edat, detalls de la renúncia, què han de portar els usuaris. Quan algú envia un correu electrònic preguntant què necessita abans de la seva gira, Duet redacta una resposta completa amb tots els detalls. Revisa i toca envia.\n"
+      "question": "Duet gestiona les preguntes sobre assegurances i exempcions?",
+      "answer": "Sí. Duet coneix els requisits dels vostres motoristes: assegurança de responsabilitat civil, restriccions d'edat, detalls de la renúncia, què han de portar els usuaris. Quan algú envia un correu electrònic preguntant què necessita abans de la seva gira, Duet redacta una resposta completa amb tots els detalls. Revisa i toca envia."
     },
     {
-      "question": "Estic tot el dia a la pista sense servei mòbil. Com ajuda Duet?\n",
-      "answer": "És exactament per això que als guies els encanta Duet. Mentre dirigeixes un recorregut de 6 a 8 hores sense senyal, les consultes de reserva s'acumulen. Duet redacta respostes a cadascun d'ells: preus, disponibilitat, lloc de reunió, què posar-se. Quan torneu, reviseu els esborranys i els envieu. La majoria de guies ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta.\n"
+      "question": "Estic tot el dia a la pista sense servei mòbil. Com ajuda Duet?",
+      "answer": "És exactament per això que als guies els encanta Duet. Mentre dirigeixes un recorregut de 6 a 8 hores sense senyal, les consultes de reserva s'acumulen. Duet redacta respostes a cadascun d'ells: preus, disponibilitat, lloc de reunió, què posar-se. Quan torneu, reviseu els esborranys i els envieu. La majoria de guies ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta."
     }
   ],
   "pricingNote": "Amb 200 $/màquina, un grup desat de 4 paga més d'un any de Pro."

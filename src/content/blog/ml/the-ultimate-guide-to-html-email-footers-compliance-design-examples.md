@@ -3,7 +3,7 @@ title: "HTML ഇമെയിൽ ഫൂട്ടറുകളിലേക്കു
 description: "മാസ്റ്റർ HTML ഇമെയിൽ ഫൂട്ടറുകൾ: അവശ്യ ഘടകങ്ങൾ, ഡിസൈൻ നുറുങ്ങുകൾ, നിയമപരമായ അനുസരണം (CAN-SPAM, GDPR, CASL) ബ്രാൻഡിംഗ് ഉദാഹരണങ്ങൾ."
 publishedAt: 2026-01-05
 author: "Duet Mail Team"
-tags: ["AI", "Email"]
+tags: ["AI", "ഇമെയിൽ"]
 draft: false
 ---
 

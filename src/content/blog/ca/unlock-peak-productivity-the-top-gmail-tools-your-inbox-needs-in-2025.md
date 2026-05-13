@@ -1,9 +1,9 @@
 ---
-title: "Desbloqueja la productivitat màxima: les eines Gmail principals que necessita la teva safata d'entrada el 2025\n"
+title: "Desbloqueja la productivitat màxima: les eines Gmail principals que necessita la teva safata d'entrada el 2025"
 description: "Descobriu les millors eines Gmail i els assistents AI del 2025 per gestionar la sobrecàrrega, augmentar la productivitat i recuperar el vostre dia"
 publishedAt: 2025-05-18
 author: "Duet Mail Team"
-tags: ["AI","Gmail","Productivitat\n","Gestió de la safata d'entrada"]
+tags: ["AI","Gmail","Productivitat","Gestió de la safata d'entrada"]
 draft: false
 ---
 

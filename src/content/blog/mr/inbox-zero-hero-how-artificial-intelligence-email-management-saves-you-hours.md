@@ -1,9 +1,9 @@
 ---
-title: "Inbox Zero Hero: How Artificial Intelligence Email Management Saves You Hours"
+title: "इनबॉक्स झिरो हिरो: कृत्रिम बुद्धिमत्ता ईमेल व्यवस्थापन तुमचे तास कसे वाचवते"
 description: "ईमेलच्या गर्दीत बुडू नका! कृत्रिम बुद्धिमत्ता ईमेल व्यवस्थापन साधने कशी क्रमवारी लावतात, कामांना प्राधान्य देतात आणि उत्तरांचे मसुदे तयार करतात, ज्यामुळे तुमचे तास वाचतात ते जाणून घ्या."
 publishedAt: 2025-09-29
 author: "Duet Mail Team"
-tags: ["AI", "Inbox Management", "Email"]
+tags: ["AI", "इनबॉक्स व्यवस्थापन", "ईमेल"]
 draft: false
 ---
 

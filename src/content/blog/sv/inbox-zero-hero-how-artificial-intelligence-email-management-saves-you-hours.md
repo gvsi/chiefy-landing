@@ -17,11 +17,9 @@ Men tänk om det fanns ett smartare sätt? Tänk om tekniken inte bara kunde fun
 
 Det ständiga pinglet av nya e-postmeddelanden är inte bara irriterande; det är en betydande belastning på produktivitet och välbefinnande. Statistik målar en skarp bild: den genomsnittliga kontorsarbetaren får svindlande [121 till 126 e-postmeddelanden varje dag](https://www.dragapp.com/blog/email-statistics/). Globalt sett skickades och togs emot uppskattningsvis [347 miljarder e-postmeddelanden](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/) dagligen 2023, ett antal som förväntas klättra ännu högre.
 
-Att hantera denna översvämning tar hårt.Proprofessionella rapporterar att de spenderar ungefär [28 % av sin arbetsvecka](https://inboxdone.com/psychology-of-email-overload/) – motsvarande 11-13 timmar – bara för att hantera e-post. Denna ständiga växling mellan uppgifter och inkorgen är inte utan konsekvenser. Forskning tyder på att det tar över [23 minuter att återfå fokus](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) efter ett avbrott som att kolla e-post.
+Att hantera denna översvämning tar hårt.Professionella rapporterar att de spenderar ungefär [28 % av sin arbetsvecka](https://inboxdone.com/psychology-of-email-overload/) – motsvarande 11-13 timmar – bara för att hantera e-post. Denna ständiga växling mellan uppgifter och inkorgen är inte utan konsekvenser. Forskning tyder på att det tar över [23 minuter att återfå fokus](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) efter ett avbrott som att kolla e-post.
 
-Effekten sträcker sig längre än förlorad tid. Överbelastning av e-post är konsekvent kopplat till ökad stress, ångest och utbrändhet. En undersökning som citerades av [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) visade att [66 % av amerikanerna rapporterar att de känner sig stressade](https://inboxdone.com/psychology-of-email-overload/) på grund av den stora mängden e-postmeddelanden de får. Denna konstanta press bidrar till beslutsutmattning och kan till och med påverka arbetstillfredsställelsen negativt, vilket gör det svårare att fokusera på strategiskt och värdefullt arbete.
-
-![Infografik som visar statistik om daglig e-postvolym och tid för att hantera e-post](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+Effekten sträcker sig längre än förlorad tid. Överbelastning av e-post är konsekvent kopplat till ökad stress, ångest och utbrändhet. En undersökning som citerades av [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) visade att [66 % av amerikanerna rapporterar att de känner sig stressade](https://inboxdone.com/psychology-of-email-overload/) på grund av den stora mängden e-postmeddelanden de får. Denna konstanta press bidrar till beslutsutmattning och kan till och med påverka arbetstillfredsställelsen negativt, vilket gör det svårare att fokusera på strategiskt och värdefullt arbete.![Infografik som visar statistik om daglig e-postvolym och tid för att hantera e-post](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
 Den genomsnittliga proffsen får över 120 e-postmeddelanden dagligen, vilket förbrukar timmar av värdefull arbetstid.
 
@@ -150,7 +148,7 @@ Marknaden för AI-e-postassistenter växer snabbt. Att välja rätt verktyg bero
 
 Hur väl passar verktyget in i din befintliga installation? De flesta ledande assistenter erbjuder integrationer:
 
-- **E-postklienter:** Leta efter dedikerade [Outlooktillägg](https://appsource.microsoft.com/en-cy/product/office/WA200005168?tab=Overview) eller [Gmailtillägg/tillägg](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) för sömlös drift i din primära inkorg.
+- **E-postklienter:** Leta efter dedikerade [Outlook-tillägg](https://appsource.microsoft.com/en-cy/product/office/WA200005168?tab=Overview) eller [Gmail tillägg/tillägg](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) för sömlös drift i din primära inkorg.
 
 - **Andra plattformar:** Kontrollera om det är kompatibelt med din kalender, CRM (som Salesforce eller HubSpot), projekthanteringsverktyg (som Asana eller Trello) och kommunikationsplattformar (som Slack).
 

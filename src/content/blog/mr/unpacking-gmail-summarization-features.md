@@ -3,7 +3,7 @@ title: "Gmail मधील सारांश वैशिष्ट्यां�
 description: "ईमेलच्या ओव्हरलोडशी झुंजत आहात? Gemini समर्थित Gmail च्या सारांश वैशिष्ट्यांचा शोध घ्या, त्यांचे फायदे-तोटे समजून घ्या, आणि ती पुरेशी आहेत का ते पाहा."
 publishedAt: 2025-09-26
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Email Summarization"]
+tags: ["AI", "Gmail", "ईमेल सारांश"]
 draft: false
 ---
 

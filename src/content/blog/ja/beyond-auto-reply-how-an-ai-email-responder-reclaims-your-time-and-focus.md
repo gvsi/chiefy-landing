@@ -15,7 +15,7 @@ draft: false
 
 ## **電子メールの過負荷による圧倒的な重さ: 基本的な自動応答が失敗する理由**
 
-数字は厳しい状況を表しています。 2024 年、世界では推定 [ **毎日 3,616 億件の電子メール**](https://www.indectron.com/blog/email-stats/) が送受信されます。 平均的な会社員の場合、これはおよそ [ **1 日あたり 121 通のメール**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/) を受信することになります。 専門家が週のかなりの部分を受信トレイの管理だけに費やしていると報告するのも不思議ではありません。推定では [ **11 時間**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) から驚異的な [ **週労働時間の 28%**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) までさまざまです。
+數位は厳しい状況を表しています。 2024 年、世界では推定 [ **毎日 3,616 億件の電子メール**](https://www.indectron.com/blog/email-stats/) が送受信されます。 平均的な会社員の場合、これはおよそ [ **1 日あたり 121 通のメール**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/) を受信することになります。 専門家が週のかなりの部分を受信トレイの管理だけに費やしていると報告するのも不思議ではありません。推定では [ **11 時間**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) から驚異的な [ **週労働時間の 28%**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) までさまざまです。
 
 これは単なる迷惑ではありません。 それは生産性を大幅に低下させ、重大なストレスの原因となります。 研究によると、[ **67% の人が受信トレイに圧倒されていると感じている**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html)、頻繁に中断されると集中力が低下し、メールをチェックした後に平均 [ **集中力を取り戻すまでに 23 分**](https://ppm.express/blog/checking-emails/) かかります。
 

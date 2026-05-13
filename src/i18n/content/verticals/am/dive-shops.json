@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ቲ ጻፈ፡-",
     "originalText": "ሰላም! የነሀሴን የመጀመሪያ ሳምንት እየጎበኘሁ ነኝ እና የእኔን ክፍት ውሃ ሰርተፍኬት ማግኘት እፈልጋለሁ። ምን ያህል ቀናት ይወስዳል እና ምን ይካተታል?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "ሰላም Rachel!",
+      "ማረጋገጫ እንዲያገኙ መርዳት ደስ ይለናል! የPADI Open Water ኮርስ 3 ቀናት ይቆያል — አንድ የመዋኛ ክፍለ ጊዜ እና ሁለት የውቅያኖስ ዳይቮች በሬፍችን። ሁሉም መሳሪያ ተካትቷል።",
+      "ኦገስት አሁን በሙሉ ክፍት ነው። ብዙ ተማሪዎች ሰኞ ይጀምራሉ እና እሮብ ያጠናቅቃሉ።",
+      "ቦታ እንዳስይዝልዎ?"
     ],
     "highlightText": "የPADI ክፍት ውሃ ኮርስ 3 ቀናትን ይወስዳል",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "ኮርሶችዎን እና ዋጋዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የማረጋገጫ መስፈርቶችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

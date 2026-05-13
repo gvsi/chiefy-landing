@@ -3,7 +3,7 @@ title: "Odzyskaj swój czas: jak generator odpowiedzi AI może zrewolucjonizowa�
 description: "Toniesz w e-mailach? Sprawdź, jak generator odpowiedzi AI oszczędza godziny, zwiększa produktywność i pomaga zapracowanym profesjonalistom pisać lepsze odpowiedzi szybciej"
 publishedAt: 2025-12-24
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Inbox Management", "Email"]
+tags: ["AI", "Produktywność", "Zarządzanie skrzynką odbiorczą", "E-mail"]
 draft: false
 ---
 

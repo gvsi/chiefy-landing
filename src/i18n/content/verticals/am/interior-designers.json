@@ -103,17 +103,17 @@
     "originalFrom": "ራቸል ቲ ጻፈ፡-",
     "originalText": "ሰላም! አሁን በዌስትሌክ ውስጥ ቤት ገዛን እና ወጥ ቤቱን ሙሉ በሙሉ ማስተካከል እንፈልጋለን። አዳዲስ ፕሮጀክቶችን እየወሰዱ ነው? ሂደትዎ ምን ይመስላል?",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "ሰላም Rachel!",
+      "ለአዲሱ ቤትዎ እንኳን ደስ አለዎት! በኩሽናዎ መርዳት ደስ ይለኛል። በአሁኑ ጊዜ ለሚቀጥለው ወር ምክክሮችን እያስያዝኩ ነው።",
+      "ሂደቴ የሚጀምረው ራዕይዎን፣ በጀትዎን እና የጊዜ መስመርዎን ለመመልከት በቤት ውስጥ ጉብኝት ነው። ከዚያ የቁሳቁስ ምርጫዎች እና ዝርዝር ፕሮፖዛል ጋር የንድፍ ጽንሰ-ሐሳብ አዘጋጃለሁ።",
+      "በቤትዎ ለመገናኘት ጊዜ እንያዝ?"
     ],
     "highlightText": "በአሁኑ ጊዜ ለሚቀጥለው ወር ምክክር እየያዝኩ ነው።",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "ሂደትዎን እና ተገኝነትዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "ቀጣይ እርምጃዎችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

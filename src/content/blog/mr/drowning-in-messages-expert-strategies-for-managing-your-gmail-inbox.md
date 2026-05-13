@@ -3,7 +3,7 @@ title: "संदेशांच्या गर्दीत? तुमचे Gm
 description: "ईमेलचा अतिरेक थांबवा! पारंपरिक उपायांपासून AI साधनांपर्यंत, तुमचे Gmail इनबॉक्स व्यवस्थापित करण्यासाठी तज्ज्ञ रणनीती जाणून घ्या आणि तुमची उत्पादकता परत मिळवा."
 publishedAt: 2025-07-04
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Inbox Management", "Email"]
+tags: ["AI", "Gmail", "इनबॉक्स व्यवस्थापन", "ईमेल"]
 draft: false
 ---
 

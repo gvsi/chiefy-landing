@@ -1,6 +1,6 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail räätälöidyille jalokivikauppiaille | AI sähköpostiavustaja",
+  "pageTitle": "Duet Mail räätälöidyille jalokivikauppiaille | AI-sähköpostiavustaja",
   "metaDescription": "Duet Mail auttaa räätälöityjä jalokivikauppiaita vastaamaan konsultointipyyntöihin, suunnitteluhyväksyntöihin ja aikajanaa koskeviin kysymyksiin välittömästi – jopa työpöydällä ollessaan. AI-luonnolliset vastaukset prosessillasi, hinnoittelullasi ja äänelläsi.",
   "heroBadge": "Yli 300 korusuunnittelijan luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet penkillä",
@@ -49,7 +49,7 @@
     "bookingUnit": "mukautettu kappale",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Yksi tallennettu asiakas maksaa yli neljän vuoden Duetista."
+    "punchline": "Yksi tallennettu asiakas maksaa yli neljän vuoden Duet ista."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uudet konsultaatiopyynnöt, toiseksi suunnittelun hyväksynnät ja toimittajan uutiskirjeet ei koskaan. Ei enää kaipaamaan 5 000 dollarin kyselyä toimittajan tarjousten alle.",
   "draftSubtitle": "Duet oppii prosessisi, materiaalisi, hinnoittelusi ja äänesi. Kun konsultointipyyntö saapuu, se laatii täydellisen vastauksen, jossa kerrotaan saatavuus, mitä ottaa mukaan ja miten prosessisi toimii. Tarkistat ja lähetät.",
@@ -133,13 +133,13 @@
     {
       "name": "Sarah L.",
       "title": "Goldsmith & Studion omistaja, Brooklyn",
-      "quote": "Menetin 7 000 dollarin kihlasormuspalkkion, koska minulla kesti 3 päivää vastata – pariskunta meni jollekin, joka vastasi 2 tunnissa. Duetista lähtien vastausaikani on alle 30 minuuttia. Sitä ei ole tapahtunut enää.",
+      "quote": "Menetin 7 000 dollarin kihlasormuspalkkion, koska minulla kesti 3 päivää vastata – pariskunta meni jollekin, joka vastasi 2 tunnissa. Duet ista lähtien vastausaikani on alle 30 minuuttia. Sitä ei ole tapahtunut enää.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Jeweller, Chicago",
-      "quote": "Olen penkillä 8 tuntia päivässä taskulamppu kädessäni. En voi lopettaa mid-solderia kirjoittamasta kuulemisvastausta. Duetti luonnostelee kaiken työskennellessäni – katson puhelintani, hyväksyn, valmis.",
+      "quote": "Olen penkillä 8 tuntia päivässä taskulamppu kädessäni. En voi lopettaa mid-solderia kirjoittamasta kuulemisvastausta. Duet ti luonnostelee kaiken työskennellessäni – katson puhelintani, hyväksyn, valmis.",
       "avatarKey": "johnny"
     },
     {

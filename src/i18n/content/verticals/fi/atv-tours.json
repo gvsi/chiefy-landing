@@ -1,6 +1,6 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail ATV- ja UTV-matkoille | AI sähköpostiavustaja",
+  "pageTitle": "Duet Mail ATV- ja UTV-matkoille | AI-sähköpostiavustaja",
   "metaDescription": "Duet Mail auttaa ATV- ja UTV-matkaoppaita vastaamaan varaussähköposteihin välittömästi – jopa polulla. AI-muotoiltuja vastauksia, joissa on hintasi, vaatimukset ja äänesi.",
   "heroBadge": "Yli 200 oppaan luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet matkalla",
@@ -49,7 +49,7 @@
     "bookingUnit": "ryhmä (4 konetta)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Yksi tallennettu ryhmävaraus maksaa Duetin vuoden."
+    "punchline": "Yksi tallennettu ryhmävaraus maksaa Duet in vuoden."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, vakuutuskysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt ryhmäkysely ei enää jää huomaamatta.",
   "draftSubtitle": "Duet oppii kiertuereitit, hinnoittelun ja ajajavaatimukset. Kun varauskysely osuu, se laatii täydellisen vastauksen matkan yksityiskohdista, hinnoittelusta ja mukaan otettavasta. Tarkistat ja lähetät.",
@@ -133,13 +133,13 @@
     {
       "name": "Tara M.",
       "title": "UTV-matkanjärjestäjä, Colorado",
-      "quote": "Järjestämme retkiä 7 päivää viikossa, ja yksin vakuutus- ja luopumiskysymykset syövät aamuni. Duetti hoitaa kaiken - ratsastajavaatimukset, ikärajoitukset, mitä ottaa mukaan. Kuulostaa aivan minulta.",
+      "quote": "Järjestämme retkiä 7 päivää viikossa, ja yksin vakuutus- ja luopumiskysymykset syövät aamuni. Duet ti hoitaa kaiken - ratsastajavaatimukset, ikärajoitukset, mitä ottaa mukaan. Kuulostaa aivan minulta.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "Ihmiset kysyvät sähköpostitse, mikä polku sopii heidän ryhmälleen, minkä kokemuksen he tarvitsevat, voivatko lapset ajaa. Samat 5 kysymystä uudestaan ​​ja uudestaan. Duetti kynnet jokainen niistä.",
+      "quote": "Ihmiset kysyvät sähköpostitse, mikä polku sopii heidän ryhmälleen, minkä kokemuksen he tarvitsevat, voivatko lapset ajaa. Samat 5 kysymystä uudestaan ​​ja uudestaan. Duet ti kynnet jokainen niistä.",
       "avatarKey": "johnny"
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "question": "Olen matkalla koko päivän ilman matkapuhelinpalvelua. Miten Duet auttaa?",
-      "answer": "Juuri siksi oppaat rakastavat Duettia. Kun johdat 6–8 tunnin kierrosta ilman signaalia, varauskyselyt kasaantuvat. Duet-luonnokset vastaavat jokaiseen niistä – hinnoittelusta, saatavuudesta, kokouspaikasta ja pukeutumisesta. Palattuasi tarkistat luonnokset ja lähetät ne. Useimmat oppaat kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+      "answer": "Juuri siksi oppaat rakastavat Duet tia. Kun johdat 6–8 tunnin kierrosta ilman signaalia, varauskyselyt kasaantuvat. Duet-luonnokset vastaavat jokaiseen niistä – hinnoittelusta, saatavuudesta, kokouspaikasta ja pukeutumisesta. Palattuasi tarkistat luonnokset ja lähetät ne. Useimmat oppaat kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
     }
   ],
   "pricingNote": "Hinta 200 dollaria/kone, yksi pelastettu 4 hengen ryhmä maksaa yli vuoden Pro:stä."

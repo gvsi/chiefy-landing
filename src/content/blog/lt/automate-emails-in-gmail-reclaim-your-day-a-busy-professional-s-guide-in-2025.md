@@ -21,9 +21,7 @@ Prieš pereidami prie sprendimų, įvertinkime problemą skaičiais. El. paštas
 
 - **Trukdžių mokestis:** el. paštą tikriname dažnai – kai kuriais skaičiavimais, [kas 6 minutes](https://www.ppm.express/blog/checking-emails)! Kiekvienas pertrūkis nėra tik akimirkos žvilgsnis; vidutiniškai prireikia [23–25 minučių](https://www.ppm.express/blog/checking-emails), kad visiškai sugrįžtumėte prie pradinės užduoties ir atgautumėte dėmesį.
 
-- **Mažos vertės darbas:** didelė dalis to laiko skiriama mažai vertę kuriančioms veikloms. Vienas tyrimas teigė, kad vidutinis darbuotojas [51 % savo darbo dienos](https://lifehackmethod.com/blog/time-management-statistics/) praleidžia užduotims, turinčioms mažą poveikį, o el. paštas prie to smarkiai prisideda.
-
-![Photo of a visibly stressed professional sitting at a desk piled high with papers, looking overwhelmed by their computer screen displaying emails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Mažos vertės darbas:** didelė dalis to laiko skiriama mažai vertę kuriančioms veikloms. Vienas tyrimas teigė, kad vidutinis darbuotojas [51 % savo darbo dienos](https://lifehackmethod.com/blog/time-management-statistics/) praleidžia užduotims, turinčioms mažą poveikį, o el. paštas prie to smarkiai prisideda.![Photo of a visibly stressed professional sitting at a desk piled high with papers, looking overwhelmed by their computer screen displaying emails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 El. pašto perteklius yra didelis streso ir prarasto produktyvumo šaltinis užsiėmusiems profesionalams.
 
@@ -51,11 +49,7 @@ Filtrai yra pirmoji gynybos linija nuo gautųjų chaoso. Jie automatiškai atlie
 
 - Persiųsti
 
-**Pradėkite:** Gmail paieškos juostoje spustelėkite nustatymų piktogramą (ji atrodo kaip slankikliai), kad būtų rodomos paieškos parinktys. Įveskite savo kriterijus, patikrinkite paiešką, tada spustelėkite „Create filter“ ir pasirinkite veiksmus. Išsamias instrukcijas rasite oficialiame Google vadove apie [filter rules kūrimą](https://support.google.com/mail/answer/6579?hl=en).
-
-
-
-![Screenshot showing the Gmail filter creation window with fields for From, To, Subject, Has the words, and options like Apply the label, Skip the Inbox](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Pradėkite:** Gmail paieškos juostoje spustelėkite nustatymų piktogramą (ji atrodo kaip slankikliai), kad būtų rodomos paieškos parinktys. Įveskite savo kriterijus, patikrinkite paiešką, tada spustelėkite „Create filter“ ir pasirinkite veiksmus. Išsamias instrukcijas rasite oficialiame Google vadove apie [filter rules kūrimą](https://support.google.com/mail/answer/6579?hl=en).![Screenshot showing the Gmail filter creation window with fields for From, To, Subject, Has the words, and options like Apply the label, Skip the Inbox](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Naudokite Gmail filtrus, kad automatiškai rūšiuotumėte gaunamus el. laiškus pagal tokius kriterijus kaip siuntėjas ar raktažodžiai
 
@@ -65,9 +59,7 @@ Ar pastebite, kad vis kartojate panašius atsakymus? Atsakinėjate į DUK, siun�
 
 **Kaip tai veikia:** pirmiausia įjunkite Templates Gmail nustatymuose (\`Settings\` > \`See all settings\` > \`Advanced\` > \`Templates\` > \`Enable\`). Tada paruoškite šabloninį el. laišką, spustelėkite tris taškus rašymo lange, eikite į \`Templates\`, ir \`Save draft as template\`. Norėdami jį naudoti, naujame el. laiške spustelėkite tris taškus, eikite į \`Templates\` ir pasirinkite išsaugotą šabloną.
 
-Tai sutaupo daug laiko ir užtikrina nuoseklumą kasdienėje komunikacijoje. Galite net [sujungti filtrus ir šablonus](https://hiverhq.com/blog/gmail-filters), kad automatiškai siųstumėte paruoštą atsakymą pagal tam tikrus el. laiško kriterijus!
-
-![Screenshot showing how to insert a saved template (canned response) in the Gmail compose window via the three-dot menu](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Tai sutaupo daug laiko ir užtikrina nuoseklumą kasdienėje komunikacijoje. Galite net [sujungti filtrus ir šablonus](https://hiverhq.com/blog/gmail-filters), kad automatiškai siųstumėte paruoštą atsakymą pagal tam tikrus el. laiško kriterijus!![Screenshot showing how to insert a saved template (canned response) in the Gmail compose window via the three-dot menu](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Sutaupykite laiko kartotiniams atsakymams naudodami Gmail Templates (Canned Responses)
 
@@ -160,9 +152,7 @@ Protinga pradėti nuo 1 lygio. Įvaldykite filtrus, etiketes ir šablonus. Jei s
 
 El. paštas neturi būti kasdienio nerimo šaltinis. Strategiškai diegdami automatizavimą – ar tai būtų Gmail vietiniai įrankiai, specializuoti plėtiniai, ar pažangūs DI asistentai – galite gerokai sumažinti laiką ir psichinę energiją, skiriamą gautiesiems valdyti. Galite pereiti nuo reaktyvaus gaisrų gesinimo prie proaktyvios kontrolės, užtikrindami, kad svarbūs laiškai sulauktų dėmesio, o blaškymasis būtų kuo mažesnis.
 
-Tikslas yra ne tik tušti gautieji, bet ir labiau susitelkusi, produktyvesnė bei mažiau įtempta darbo diena. Pradėkite mažais žingsniais, išbandykite įrankius, kurie labiausiai atitinka jūsų poreikius, ir susigrąžinkite laiką darbui, kuris iš tiesų svarbus.
-
-![Photo of a relaxed professional working efficiently on a laptop, smiling slightly, with a clean desk](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Tikslas yra ne tik tušti gautieji, bet ir labiau susitelkusi, produktyvesnė bei mažiau įtempta darbo diena. Pradėkite mažais žingsniais, išbandykite įrankius, kurie labiausiai atitinka jūsų poreikius, ir susigrąžinkite laiką darbui, kuris iš tiesų svarbus.![Photo of a relaxed professional working efficiently on a laptop, smiling slightly, with a clean desk](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Susigrąžinkite savo laiką ir sumažinkite el. pašto keliamą stresą naudodami veiksmingą automatizavimą.
 

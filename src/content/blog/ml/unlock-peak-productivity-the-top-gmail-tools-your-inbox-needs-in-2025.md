@@ -3,7 +3,7 @@ title: "പീക്ക് പ്രൊഡക്ടിവിറ്റി അൺ�
 description: "ഓവർലോഡ് നിയന്ത്രിക്കാനും, ഉൽപ്പാദനക്ഷമത വർദ്ധിപ്പിക്കാനും, നിങ്ങളുടെ ദിവസം വീണ്ടെടുക്കാനും 2025-ലെ മികച്ച Gmail ഉപകരണങ്ങളും AI സഹായികളും കണ്ടെത്തൂ."
 publishedAt: 2025-05-18
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Inbox Management"]
+tags: ["AI", "Gmail", "ഉൽപ്പാദനക്ഷമത", "ഇൻബോക്സ് മാനേജ്മെന്റ്"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "तुमचा कार्यप्रवाह वेगवान क
 description: "उत्पादकता, CRM, AI सहाय्य आणि अधिकासाठी 2025 मधील सर्वोत्तम Gmail व्यवसाय विस्तार शोधा. तुमचा वेळ परत मिळवा!"
 publishedAt: 2025-06-30
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Tools"]
+tags: ["AI", "Gmail", "उत्पादकता", "साधने"]
 draft: false
 ---
 

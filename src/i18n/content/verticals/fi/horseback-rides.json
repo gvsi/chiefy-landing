@@ -1,6 +1,6 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail hevosajeluille ja polkuoppaille | AI sähköpostiavustaja",
+  "pageTitle": "Duet Mail hevosajeluille ja polkuoppaille | AI-sähköpostiavustaja",
   "metaDescription": "Duet Mail auttaa polkupyöräilijöitä vastaamaan varaussähköposteihin välittömästi – jopa satulasta käsin. AI-luonnolliset vastaukset hinnoittelullasi, kuljettajavaatimuksillasi ja äänelläsi.",
   "heroBadge": "Yli 300 polkuoppaan luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet matkalla",
@@ -49,7 +49,7 @@
     "bookingUnit": "-ajo",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Yksi säästetty ryhmämatka maksaa yli kahden vuoden Duetin."
+    "punchline": "Yksi säästetty ryhmämatka maksaa yli kahden vuoden Duet in."
   },
   "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, ajajan kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt ryhmäkysely ei enää jää huomaamatta.",
   "draftSubtitle": "Duet oppii ajotyylisi, hinnoittelusi ja vaatimukset. Kun varauskysely osuu, se laatii täydellisen vastauksen, jossa on tiedot reitistä, hinnoittelusta ja pukeutumisesta. Tarkistat ja lähetät.",
@@ -133,7 +133,7 @@
     {
       "name": "Maria C.",
       "title": "Horseback Tour Operator, AZ",
-      "quote": "Saamme kymmeniä sähköposteja, joissa kysytään samaa – painorajoitukset, pukeutumiset, ikävaatimukset. Duetti hoitaa kaiken ja vastaukset kuulostavat täsmälleen minulta. Vieraani eivät tiedä, että se on AI.",
+      "quote": "Saamme kymmeniä sähköposteja, joissa kysytään samaa – painorajoitukset, pukeutumiset, ikävaatimukset. Duet ti hoitaa kaiken ja vastaukset kuulostavat täsmälleen minulta. Vieraani eivät tiedä, että se on AI.",
       "avatarKey": "francesca"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "Arkaluonteiset sähköpostit olivat pahimpia – joku kysyi, ovatko ne liian raskaita tai onko hänen lapsensa tarpeeksi vanha. Duetti käsittelee niitä yhtä huolellisesti kuin minäkin. Ammattitaitoinen, ystävällinen ja tarkka. Se yksin on sen arvoista.",
+      "quote": "Arkaluonteiset sähköpostit olivat pahimpia – joku kysyi, ovatko ne liian raskaita tai onko hänen lapsensa tarpeeksi vanha. Duet ti käsittelee niitä yhtä huolellisesti kuin minäkin. Ammattitaitoinen, ystävällinen ja tarkka. Se yksin on sen arvoista.",
       "avatarKey": "sarah"
     }
   ],

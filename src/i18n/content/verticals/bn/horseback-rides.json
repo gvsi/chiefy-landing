@@ -34,12 +34,12 @@
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "ট্রিপঅ্যাডভাইজার",
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকার জন্য নতুন পর্যালোচনা",
       "preview": "একজন ভ্রমণকারী সম্প্রতি আপনার ব্যবসা পর্যালোচনা করেছেন৷ দেখুন তারা কি বলে এবং প্রতিক্রিয়া জানায়...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -85,7 +85,7 @@
       "avatarLetter": "V",
       "avatarColor": "lavender",
       "subject": "আপনার সাপ্তাহিক বুকিং সারাংশ",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: শনিবার সকালের জন্য ৬ জনের গ্রুপ বুকিং?",
+    "originalFrom": "জেসিকা টি. লিখেছেন:",
+    "originalText": "হ্যালো! আমরা ৬ জনের একটি পরিবার (২ জন প্রাপ্তবয়স্ক, ৮-১৪ বছর বয়সী ৪ জন শিশু) এবং এই শনিবার সকালে একটি ট্রেইল রাইড বুক করতে চাই। আপনাদের কি সময় খালি আছে? জনপ্রতি ভাড়া কত?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "হেই জেসিকা!",
+      "শনিবার সকালটা ৬ জনের জন্য উন্মুক্ত। ট্রেইল রাইডের জন্য জনপ্রতি ১০০ ডলার লাগবে এবং এটি উপত্যকার মধ্যে দিয়ে প্রায় ৯০ মিনিট ধরে চলে। ৮ বছর বা তার বেশি বয়সী বাচ্চাদের স্বাগত জানানো হয়, তাই আপনার পুরো দলই যাওয়ার জন্য প্রস্তুত।",
+      "বন্ধ সামনের জুতো আবশ্যক — বুট পরা সবচেয়ে ভালো। আমরা হেলমেট সরবরাহ করি এবং আকার ও অভিজ্ঞতা অনুযায়ী প্রত্যেক আরোহীর জন্য উপযুক্ত ঘোড়া নির্বাচন করে দিই। ঘোড়ায় চড়ার পূর্ব অভিজ্ঞতা থাকা আবশ্যক নয়।",
+      "সকাল ৯টার যাত্রার জন্য তোমাকে নিশ্চিত করে দেবো?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "শনিবার সকাল ৬ জনের জন্য উন্মুক্ত। ট্রেইল রাইডের জন্য জনপ্রতি ১০০ ডলার।",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "আপনার মূল্য এবং প্রাপ্যতা সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "রাইডারের প্রয়োজনীয়তা স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

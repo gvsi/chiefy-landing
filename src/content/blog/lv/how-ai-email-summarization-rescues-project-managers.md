@@ -31,7 +31,7 @@ Ne tikai e-pasta ziņojumu _skaits_ jūsu iesūtnē; tieši projektu komunikāci
 
 Šie izaicinājumi nav tikai ikdienas vilšanās; tie rada taustāmas negatīvas sekas projektiem, komandām un pašiem projektu vadītājiem. Domu apmaiņas efekts ir ievērojams:
 
-— **Proproduktivitātes zudums:** Milzīgais laika patēriņš ir satriecošs. ProProfesionāļi e-pastam velta vidēji [**13 stundas nedēļā**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/), un dienas aprēķini sasniedz [**2,5 stundas**](https://www.bgr.co.za/the-hidden-costs-of-email-overload-in-business-and-how-to-solve-them/) vai vairāk. Tiek lēsts, ka nevajadzīgi e-pasti vien uzņēmumiem izmaksā [miljardus dolāru gadā produktivitātes zuduma dēļ](https://dayshape.com/productivity/is-email-killing-your-project-planning), un neefektīva e-pasta glabāšanas un pārvaldības prakse atsevišķām organizācijām var izmaksāt vidēji [**2,1 miljonu ASV dolāru gadā**](https://info.colligo.com/outlook-overload-the-hidden-business-risks-of-email-storage). Šis zaudētais laiks tieši novērš uzmanību no stratēģiskās plānošanas, risku pārvaldības un svarīgām komandas vadības aktivitātēm.
+— **Produktivitātes zudums:** Milzīgais laika patēriņš ir satriecošs. ProProfesionāļi e-pastam velta vidēji [**13 stundas nedēļā**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/), un dienas aprēķini sasniedz [**2,5 stundas**](https://www.bgr.co.za/the-hidden-costs-of-email-overload-in-business-and-how-to-solve-them/) vai vairāk. Tiek lēsts, ka nevajadzīgi e-pasti vien uzņēmumiem izmaksā [miljardus dolāru gadā produktivitātes zuduma dēļ](https://dayshape.com/productivity/is-email-killing-your-project-planning), un neefektīva e-pasta glabāšanas un pārvaldības prakse atsevišķām organizācijām var izmaksāt vidēji [**2,1 miljonu ASV dolāru gadā**](https://info.colligo.com/outlook-overload-the-hidden-business-risks-of-email-storage). Šis zaudētais laiks tieši novērš uzmanību no stratēģiskās plānošanas, risku pārvaldības un svarīgām komandas vadības aktivitātēm.
 
 - **Paaugstināts stress un izdegšana:** Nepārtrauktais spiediens, ko rada pārpildīta iesūtne, ir galvenais stresa avots darba vietā. Vienā pētījumā tika atklāts, ka [**85% amerikāņu jūtas izdeguši e-pasta dēļ**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/), un daudzi profesionāļi uzskata e-pastu par stresa pilnāko darba daļu. Šis hroniskais stress veicina zemāku morāli, samazina darba apmierinātību un galu galā var izraisīt dārgu darbinieku mainību. Darbinieka aizstāšana var izmaksāt no [puses līdz divreiz lielākai gada algai](https://blog.kintone.com/business-with-heart/the-hidden-and-overt-costs-of-email).
 
@@ -116,11 +116,7 @@ Labi, tātad mākslīgais intelekts var saīsināt e-pastus, izmantojot dažāda
 
 6. **Samaziniet kognitīvo slodzi un uzlabojiet koncentrēšanās spējas:** Beidziet mēģināt prātā žonglēt ar desmitiem aktīvu e-pasta pavedienu detaļām. Svarīgākās informācijas apkopošanas un izvilkšanas uzdevuma nodošana mākslīgajam intelektam atbrīvo jūsu vērtīgos kognitīvos resursus. Tas ļauj jums veltīt vairāk garīgās enerģijas stratēģiskajai domāšanai, sarežģītu problēmu risināšanai, risku analīzei un komandas vadīšanai – augstvērtīgam darbam, kas patiesi raksturo projekta vadītāja lomu.
 
-- **PM lietošanas gadījums:** Kopsavilkumu izmantošana, lai ātri apstrādātu un arhivētu zemākas prioritātes atjauninājumu pavedienus atvēlētajā "e-pasta laikā", tādējādi saglabājot mentālo joslas platumu sarežģītu, kritisku problēmu risināšanai.
-
-
-
-![Infografika par mākslīgā intelekta e-pasta kopsavilkuma priekšrocībām privātajiem vēstnešiem](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+- **PM lietošanas gadījums:** Kopsavilkumu izmantošana, lai ātri apstrādātu un arhivētu zemākas prioritātes atjauninājumu pavedienus atvēlētajā "e-pasta laikā", tādējādi saglabājot mentālo joslas platumu sarežģītu, kritisku problēmu risināšanai.![Infografika par mākslīgā intelekta e-pasta kopsavilkuma priekšrocībām privātajiem vēstnešiem](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 Mākslīgā intelekta e-pasta kopsavilkumi sniedz taustāmus ieguvumus, palīdzot projektu vadītājiem ietaupīt laiku, izsekot svarīgu informāciju un mazināt garīgo nogurumu.
 

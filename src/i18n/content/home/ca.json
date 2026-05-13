@@ -1,32 +1,32 @@
 {
   "meta": {
-    "title": "Duet Mail | AI Assistent de correu electrònic per a Gmail i Outlook\n",
-    "description": "L'assistent de correu electrònic AI de Duet Mail resumeix els correus electrònics, redacta les respostes i organitza la vostra safata d'entrada. Funciona amb Gmail i Outlook. Estalvia més de 4 hores setmanals.\n"
+    "title": "Duet Mail | AI Assistent de correu electrònic per a Gmail i Outlook",
+    "description": "L'assistent de correu electrònic AI de Duet Mail resumeix els correus electrònics, redacta les respostes i organitza la vostra safata d'entrada. Funciona amb Gmail i Outlook. Estalvia més de 4 hores setmanals."
   },
   "hero": {
-    "badge": "Ara disponible per a Gmail i Outlook\n",
-    "headlinePrefix": "El teu \n",
-    "headlineHighlight": "cap de gabinet\n",
-    "headlineSuffix": "per\n",
+    "badge": "Ara disponible per a Gmail i Outlook",
+    "headlinePrefix": "El teu ",
+    "headlineHighlight": "cap de gabinet",
+    "headlineSuffix": "per",
     "rotatingFeatures": [
-      "classificació del correu electrònic\n",
-      "redacció de respostes\n",
-      "programació\n",
-      "trobant respostes\n"
+      "classificació del correu electrònic",
+      "redacció de respostes",
+      "programació",
+      "trobant respostes"
     ],
-    "subline": "Estalvieu més de 4 hores cada setmana al correu electrònic\n",
-    "primaryCta": "Comenceu amb Gmail\n",
-    "secondaryCta": "Comenceu amb Outlook\n",
-    "trialNote": "Prova gratuïta de 14 dies\n",
-    "cancelNote": "Cancel·la en qualsevol moment\n"
+    "subline": "Estalvia més de 4 hores cada setmana al correu electrònic",
+    "primaryCta": "Comenceu amb Gmail",
+    "secondaryCta": "Comenceu amb Outlook",
+    "trialNote": "Prova gratuïta de 14 dies",
+    "cancelNote": "Cancel·la en qualsevol moment"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Categorització instantània\n",
-      "Respostes basades en AI\n"
+      "Categorització instantània",
+      "Respostes basades en AI"
     ],
-    "windowTitle": "Safata d'entrada\n",
+    "windowTitle": "Safata d'entrada",
     "providers": [
       "Gmail",
       "Outlook"
@@ -35,140 +35,140 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Ahir\n"
+      "Ahir"
     ],
-    "autodraftLabel": "Esborrany automàtic\n",
+    "autodraftLabel": "Esborrany automàtic",
     "emails": [
       {
-        "from": "Àlex Rivera\n",
+        "from": "Àlex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Cronologia de llançament del producte\n",
-        "preview": "Ei! Volia comprovar els actius de llançament. Encara estem a punt per a la setmana vinent...\n",
-        "pill": "Per respondre\n"
+        "subject": "Re: Cronologia de llançament del producte",
+        "preview": "Ei! Volia comprovar els actius de llançament. Encara estem a punt per a la setmana vinent...",
+        "pill": "Per respondre"
       },
       {
-        "from": "Emma Park\n",
+        "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Sincronització ràpida aquesta tarda?\n",
-        "preview": "M'agradaria estar al dia de les actualitzacions del full de ruta. Estàs lliure cap a les 16h...\n",
-        "pill": "Reunió\n"
+        "subject": "Sincronització ràpida aquesta tarda?",
+        "preview": "M'agradaria estar al dia de les actualitzacions del full de ruta. Estàs lliure cap a les 16h...",
+        "pill": "Reunió"
       },
       {
-        "from": "Màrqueting\n",
+        "from": "Màrqueting",
         "avatarLetter": "M",
-        "subject": "Els resultats de la campanya estan preparats\n",
-        "pill": "FYI\n"
+        "subject": "Els resultats de la campanya estan preparats",
+        "pill": "FYI"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "La teva botiga està preparada per al Black Friday\n",
-        "pill": "Promocions\n"
+        "subject": "La teva botiga està preparada per al Black Friday",
+        "pill": "Promocions"
       }
     ],
-    "autodraft": "Hola Alex! Sí, anem pel bon camí. L'equip de disseny va acabar els actius ahir i avui us enviaré els fitxers finals per EOD.\n"
+    "autodraft": "Hola Alex! Sí, anem pel bon camí. L'equip de disseny va acabar els actius ahir i avui us enviaré els fitxers finals per EOD."
   },
   "logos": {
-    "ariaLabel": "Logotips de clients\n",
-    "headingPrefix": "Confiança dels avançats\n",
-    "headingHighlight": "professionals i equips \n",
-    "headingSuffix": "arreu del món\n"
+    "ariaLabel": "Logotips de clients",
+    "headingPrefix": "Confiança dels avançats",
+    "headingHighlight": "professionals i equips ",
+    "headingSuffix": "arreu del món"
   },
   "features": {
-    "ariaLabel": "Característiques\n",
-    "eyebrow": "La teva safata d'entrada, sobrecarregada\n",
-    "title": "La teva safata d'entrada no hauria de ser la propietària del teu dia\n",
-    "subtitle": "Transforma el caos en claredat amb AI que realment t'aconsegueix.\nEstalvieu més de 3 hores cada setmana amb l'assistent de correu electrònic més intel·ligent per a Gmail i Outlook.\n",
+    "ariaLabel": "Característiques",
+    "eyebrow": "La teva safata d'entrada, sobrecarregada",
+    "title": "La teva safata d'entrada no hauria de ser la propietària del teu dia",
+    "subtitle": "Transforma el caos en claredat amb AI que realment t'aconsegueix.\nEstalvia més de 3 hores cada setmana amb l'assistent de correu electrònic més intel·ligent per a Gmail i Outlook.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Esborranys de correu electrònic que sonen com tu\n",
-        "description": "L'escriptor de correu electrònic Duet AI prepara esborranys per als vostres correus electrònics més importants. Aprèn el teu to i estils d'escriptura.\n",
-        "ariaLabel": "Esborranys de correu electrònic que et sonen\n",
+        "title": "Esborranys de correu electrònic que sonen com tu",
+        "description": "L'escriptor de correu electrònic Duet AI prepara esborranys per als vostres correus electrònics més importants. Aprèn el teu to i estils d'escriptura.",
+        "ariaLabel": "Esborranys de correu electrònic que et sonen",
         "mockCopy": {
-          "draftedColdEmail": "Vaig redactar un correu electrònic fred personalitzat per a John\n",
-          "sampleText": "Les canonades AI són essencials per construir sistemes AI robusts, escalables i eficients.\n",
-          "readyToSend": "Preparat per enviar?\n",
-          "remindFollowUp": "Recorda'm que segueixi.\n"
+          "draftedColdEmail": "Vaig redactar un correu electrònic fred personalitzat per a John",
+          "sampleText": "Les canonades AI són essencials per construir sistemes AI robusts, escalables i eficients.",
+          "readyToSend": "Preparat per enviar?",
+          "remindFollowUp": "Recorda'm que segueixi."
         }
       },
       {
         "id": "summaries",
-        "title": "Resums instantanis i elements d'acció\n",
-        "description": "Obteniu el TL;DR i els elements d'acció del contingut del vostre correu electrònic en qüestió de segons. No més llegir novel·les a la safata d'entrada.\n",
-        "ariaLabel": "Resums instantanis i elements d'acció\n",
+        "title": "Resums instantanis i elements d'acció",
+        "description": "Obteniu el TL;DR i els elements d'acció del contingut del vostre correu electrònic en qüestió de segons. No més llegir novel·les a la safata d'entrada.",
+        "ariaLabel": "Resums instantanis i elements d'acció",
         "mockCopy": {
-          "sentencePrefix": "ens proposo \n",
-          "sentenceHighlight": "reunir-se la setmana vinent\n",
+          "sentencePrefix": "ens proposo ",
+          "sentenceHighlight": "reunir-se la setmana vinent",
           "sentenceSuffix": " ?",
-          "actionTitle": "Nou element d'acció\n",
+          "actionTitle": "Nou element d'acció",
           "actionLead": "He trobat aquestes ranures gratuïtes al teu calendari",
           "slots": [
-            "Dimarts, a les 10h\n",
-            "Dijous, a les 14h\n",
-            "Divendres, 9h\n"
+            "Dimarts, a les 10h",
+            "Dijous, a les 14h",
+            "Divendres, 9h"
           ],
-          "secondaryButton": "Trobeu més\n",
-          "primaryButton": "Enviar\n"
+          "secondaryButton": "Trobeu més",
+          "primaryButton": "Enviar"
         }
       },
       {
         "id": "reminders",
-        "title": "Recordatoris intel·ligents\n",
-        "description": "Configureu-lo i oblideu-lo. Duet AI recorda fer un seguiment quan els altres no responen, de manera que res no cau entre les esquerdes.\n",
-        "ariaLabel": "Recordatoris intel·ligents\n",
+        "title": "Recordatoris intel·ligents",
+        "description": "Configureu-lo i oblideu-lo. Duet AI recorda fer un seguiment quan els altres no responen, de manera que res no cau entre les esquerdes.",
+        "ariaLabel": "Recordatoris intel·ligents",
         "mockCopy": {
-          "header": "Recordatoris intel·ligents alimentats amb AI\n",
+          "header": "Recordatoris intel·ligents alimentats amb AI",
           "stats": [
             {
-              "label": "Seguiment\n",
+              "label": "Seguiment",
               "value": "12",
-              "unit": "correus electrònics\n"
+              "unit": "correus electrònics"
             },
             {
-              "label": "Per respondre\n",
+              "label": "Per respondre",
               "value": "2",
-              "unit": "correus electrònics\n"
+              "unit": "correus electrònics"
             },
             {
-              "label": "Completat\n",
+              "label": "Completat",
               "value": "3",
-              "unit": "elements d'acció\n"
+              "unit": "elements d'acció"
             }
           ],
           "reminders": [
             {
-              "title": "Completar les tasques d'escriptura\n",
+              "title": "Completar les tasques d'escriptura",
               "time": "2 days ago"
             },
             {
-              "title": "Integració de projectes\n",
+              "title": "Integració de projectes",
               "time": "12 hours ago"
             }
           ],
           "actions": [
-            "Seguiu\n",
-            "Tornar a programar?\n"
+            "Seguiu",
+            "Tornar a programar?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Centra't en el que importa\n",
-        "description": "La categorització intel·ligent mostra primer els vostres correus electrònics més importants i els classifica en temes. La gestió del correu electrònic mai ha estat tan fàcil.\n",
-        "ariaLabel": "Centra't en allò que importa\n",
+        "title": "Centra't en el que importa",
+        "description": "La categorització intel·ligent mostra primer els vostres correus electrònics més importants i els classifica en temes. La gestió del correu electrònic mai ha estat tan fàcil.",
+        "ariaLabel": "Centra't en allò que importa",
         "mockCopy": {
-          "analyzing": "ANALITZAR\n"
+          "analyzing": "ANALITZAR"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Organització del correu electrònic i categorització intel·ligent de la safata d'entrada\n",
-    "badge": "Organització\n",
-    "title": "Duet organitza la teva safata d'entrada\n",
-    "subtitle": "La categorització automàtica filtra el soroll i fa visible el que importa. Vegeu a l'instant què necessita acció, què és només per informació i què pot esperar.\n",
-    "windowTitle": "Safata d'entrada\n",
+    "ariaLabel": "Organització del correu electrònic i categorització intel·ligent de la safata d'entrada",
+    "badge": "Organització",
+    "title": "Duet organitza la teva safata d'entrada",
+    "subtitle": "La categorització automàtica filtra el soroll i fa visible el que importa. Vegeu a l'instant què necessita acció, què és només per informació i què pot esperar.",
+    "windowTitle": "Safata d'entrada",
     "providers": [
       "Gmail",
       "Outlook"
@@ -177,120 +177,120 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Ahir\n",
-      "20 de desembre\n"
+      "Ahir",
+      "20 de desembre"
     ],
     "emails": [
       {
-        "from": "Sarah Chen\n",
+        "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Sol·licitud de revisió del pressupost del 4T\n",
-        "preview": "S'adjunten els números finals. Si us plau, revisa per EOD.\n",
-        "pill": "Acció necessària\n"
+        "subject": "Sol·licitud de revisió del pressupost del 4T",
+        "preview": "S'adjunten els números finals. Si us plau, revisa per EOD.",
+        "pill": "Acció necessària"
       },
       {
-        "from": "Miquel Torres\n",
+        "from": "Miquel Torres",
         "avatarLetter": "M",
-        "subject": "Demà a les 10 h\n",
-        "pill": "Reunió\n"
+        "subject": "Demà a les 10 h",
+        "pill": "Reunió"
       },
       {
-        "from": "Equip de disseny\n",
+        "from": "Equip de disseny",
         "avatarLetter": "D",
-        "subject": "Noves directrius de marca publicades\n",
-        "pill": "FYI\n"
+        "subject": "Noves directrius de marca publicades",
+        "pill": "FYI"
       },
       {
         "from": "Stripe",
-        "subject": "El vostre extracte mensual està llest\n",
-        "pill": "Promocions\n"
+        "subject": "El vostre extracte mensual està llest",
+        "pill": "Promocions"
       },
       {
-        "from": "Butlletí informatiu\n",
-        "subject": "Resum setmanal\n",
-        "pill": "Promocions\n"
+        "from": "Butlletí informatiu",
+        "subject": "Resum setmanal",
+        "pill": "Promocions"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI Redacció de correu electrònic i generació de respostes\n",
-    "badge": "Redacció\n",
-    "title": "Duet esborranys a la teva veu\n",
-    "subtitle": "Duet aprèn com escrius i redacta respostes que coincideixen amb el teu to. Revisa, ajusta si cal i envia en qüestió de segons.\n",
-    "windowTitle": "Nou missatge\n",
+    "ariaLabel": "AI Redacció de correu electrònic i generació de respostes",
+    "badge": "Redacció",
+    "title": "Duet esborranys a la teva veu",
+    "subtitle": "Duet aprèn com escrius i redacta respostes que coincideixen amb el teu to. Revisa, ajusta si cal i envia en qüestió de segons.",
+    "windowTitle": "Nou missatge",
     "fieldLabels": {
-      "to": "A:\n",
-      "subject": "Assumpte:\n"
+      "to": "A:",
+      "subject": "Assumpte:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: Sincronització ràpida aquesta setmana?",
+      "originalFrom": "Alex Rivera ha escrit:",
+      "originalText": "Ei! M'encantaria posar-me al dia sobre els canvis del full de ruta. Tens 30 minuts lliures per a una trucada aquesta setmana? Digues-me què et va bé.",
+      "badge": "Redactat automàticament",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Ei, Alex!",
+        "M'encantaria sincronitzar-nos sobre el full de ruta. Tinc lliure dijous de 14 a 16 h o divendres al matí; totes dues opcions em van bé.",
+        "Digues-me què et va millor i t'enviaré una invitació.",
+        "Gràcies!"
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Tinc lliure dijous de 14 a 16 h o divendres al matí",
       "actions": [
-        "Send",
-        "Edit"
+        "Envia",
+        "Edita"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Esborrany personalitzat",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Coneix el teu calendari",
+        "Escriu esborranys amb la teva veu",
+        "Coneix el context gràcies a la memòria",
+        "Aprèn amb el temps"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI intel·ligència i assistent de correu electrònic\n",
-    "badge": "Intel·ligència\n",
-    "title": "Pregunta qualsevol cosa sobre el teu correu electrònic\n",
-    "subtitle": "Demana a Duet que trobi correus electrònics, consulti el teu calendari o escrigui una resposta. Entén la teva safata d'entrada i respon a l'instant.\n",
-    "windowTitle": "Duet Agent\n",
-    "onlineLabel": "En línia\n",
-    "initialUserMessage": "Pots trobar la factura Stripe enviada per Comptabilitat?\n",
-    "processingText": "S'està cercant la safata d'entrada...\n",
-    "foundHeader": "S'han trobat 2 correus electrònics de Stripe\n",
-    "foundBody": "Vaig trobar el rebut de 29,00 USD a partir del 24 d'octubre.\n",
+    "ariaLabel": "AI intel·ligència i assistent de correu electrònic",
+    "badge": "Intel·ligència",
+    "title": "Pregunta qualsevol cosa sobre el teu correu electrònic",
+    "subtitle": "Demana a Duet que trobi correus electrònics, consulti el teu calendari o escrigui una resposta. Entén la teva safata d'entrada i respon a l'instant.",
+    "windowTitle": "Duet Agent",
+    "onlineLabel": "En línia",
+    "initialUserMessage": "Pots trobar la factura Stripe enviada per Comptabilitat?",
+    "processingText": "S'està cercant la safata d'entrada...",
+    "foundHeader": "S'han trobat 2 correus electrònics de Stripe",
+    "foundBody": "Vaig trobar el rebut de 29,00 USD a partir del 24 d'octubre.",
     "attachment": {
-      "fileName": "factura_24_oct.pdf\n",
+      "fileName": "factura_24_oct.pdf",
       "fileSize": "142 KB"
     },
     "suggestions": [
       {
         "action": "esborrany",
-        "label": "Redacta una resposta\n"
+        "label": "Redacta una resposta"
       },
       {
-        "action": "calendari\n",
-        "label": "Trobeu temps per trobar-vos\n"
+        "action": "calendari",
+        "label": "Trobeu temps per trobar-vos"
       }
     ],
-    "inputPlaceholder": "Pregunta qualsevol cosa...\n",
+    "inputPlaceholder": "Pregunta qualsevol cosa...",
     "dynamicResponses": {
-      "processingDefault": "S'està processant...\n",
-      "processingDraft": "S'està generant esborrany...\n",
-      "processingCalendar": "S'està comprovant disponibilitat...\n",
-      "draftIntro": "Aquí teniu un esborrany de resposta a Comptabilitat:\n",
-      "draftHeader": "Esborrany: accounting@company.com\n",
+      "processingDefault": "S'està processant...",
+      "processingDraft": "S'està generant esborrany...",
+      "processingCalendar": "S'està comprovant disponibilitat...",
+      "draftIntro": "Aquí teniu un esborrany de resposta a Comptabilitat:",
+      "draftHeader": "Esborrany: accounting@company.com",
       "draftLines": [
-        "Hola equip,\n",
-        "Adjuntem la factura Stripe d'octubre (29,00 $).\n",
-        "Avisa'm si necessites alguna cosa més.\n",
-        "millor,\n"
+        "Hola equip,",
+        "Adjuntem la factura Stripe d'octubre (29,00 $).",
+        "Avisa'm si necessites alguna cosa més.",
+        "millor,"
       ],
       "draftActions": [
-        "Enviar correu electrònic\n",
-        "Edita\n"
+        "Enviar correu electrònic",
+        "Edita"
       ],
-      "calendarIntro": "Tens 3 places obertes demà:\n",
+      "calendarIntro": "Tens 3 places obertes demà:",
       "calendarSlots": [
         {
           "time": "9:30 AM",
@@ -306,143 +306,143 @@
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "També redactar la resposta?\n",
-        "calendarAfterDraft": "També programar un seguiment?\n"
+        "draftAfterCalendar": "També redactar la resposta?",
+        "calendarAfterDraft": "També programar un seguiment?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonis\n",
+    "ariaLabel": "Testimonis",
     "scrollingAriaLabel": "Testimonis de desplaçament",
-    "eyebrow": "Testimonis\n",
-    "title": "Estimat pels professionals ocupats\n",
-    "subtitle": "Gent real. Guanya la safata d'entrada real.\n",
+    "eyebrow": "Testimonis",
+    "title": "Estimat pels professionals ocupats",
+    "subtitle": "Gent real. Guanya la safata d'entrada real.",
     "items": [
       {
-        "name": "Francesca T.\n",
-        "title": "Autònom\n",
-        "quote": "Val la pena cada cèntim. El temps que estalvio al correu electrònic paga Duet Mail 10 vegades més. No em puc imaginar treballar sense ell ara.\n",
+        "name": "Francesca T.",
+        "title": "Autònom",
+        "quote": "Val la pena cada cèntim. El temps que estalvio al correu electrònic paga Duet Mail 10 vegades més. No em puc imaginar treballar sense ell ara.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
-        "name": "Miquel R.\n",
-        "title": "Executiva de vendes\n",
-        "quote": "Els resums instantanis de llargs fils de correu electrònic són pura màgia i, per tant, fàcils d'utilitzar. Els meus clients pensen que sóc sobrehumà.\n",
+        "name": "Miquel R.",
+        "title": "Executiva de vendes",
+        "quote": "Els resums instantanis de llargs fils de correu electrònic són pura màgia i, per tant, fàcils d'utilitzar. Els meus clients pensen que sóc sobrehumà.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
-        "name": "Johnny S.\n",
-        "title": "Emprenedor\n",
-        "quote": "Era escèptic sobre l'ús de la intel·ligència artificial per als meus correus electrònics. Ara, és com tenir un assistent executiu brillant. No puc imaginar tornar enrere.\n",
+        "name": "Johnny S.",
+        "title": "Emprenedor",
+        "quote": "Era escèptic sobre l'ús de la intel·ligència artificial per als meus correus electrònics. Ara, és com tenir un assistent executiu brillant. No puc imaginar tornar enrere.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
-        "name": "Jennifer L.\n",
-        "title": "Consultor\n",
-        "quote": "Com a consultor, cada minut compta. Duet Mail no només m'estalvia temps, sinó que fa que la meva comunicació per correu electrònic sigui més nítida.\n",
+        "name": "Jennifer L.",
+        "title": "Consultor",
+        "quote": "Com a consultor, cada minut compta. Duet Mail no només m'estalvia temps, sinó que fa que la meva comunicació per correu electrònic sigui més nítida.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
-        "name": "Sarah T.\n",
-        "title": "Director de màrqueting\n",
-        "quote": "Finalment, un assistent de correu AI que realment aprèn com escric. Les respostes instantànies són tan encertades que el meu equip va pensar que estava treballant a mitjanit.\n",
+        "name": "Sarah T.",
+        "title": "Director de màrqueting",
+        "quote": "Finalment, un assistent de correu AI que realment aprèn com escric. Les respostes instantànies són tan encertades que el meu equip va pensar que estava treballant a mitjanit.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Preus\n",
-    "eyebrow": "Preus\n",
-    "heading": "Preu senzill, safata d'entrada potent\n",
-    "subheading": "Comença gratis, actualitza en qualsevol moment. Cancel·la quan vulguis.\n",
-    "billingLegend": "Cadència de facturació\n",
-    "billingAnnual": "Anual\n",
-    "billingMonthly": "Mensualment\n",
-    "savingsTag": "Estalvia un 33%\n",
+    "ariaLabel": "Preus",
+    "eyebrow": "Preus",
+    "heading": "Preu senzill, safata d'entrada potent",
+    "subheading": "Comença gratis, actualitza en qualsevol moment. Cancel·la quan vulguis.",
+    "billingLegend": "Cadència de facturació",
+    "billingAnnual": "Anual",
+    "billingMonthly": "Mensualment",
+    "savingsTag": "Estalvia un 33%",
     "priceCadence": "/month",
     "perUserSuffix": "/user",
-    "annualBillingSuffix": "(facturat anualment)\n",
+    "annualBillingSuffix": "(facturat anualment)",
     "trustItems": [
-      "Pagament segur mitjançant Stripe\n",
-      "Cancel·la en qualsevol moment\n"
+      "Pagament segur mitjançant Stripe",
+      "Cancel·la en qualsevol moment"
     ],
     "plans": [
       {
-        "name": "Bàsica\n",
-        "description": "Per a qualsevol persona que tingui curiositat per saber com és una safata d'entrada més intel·ligent. No cal compromís.\n",
+        "name": "Bàsica",
+        "description": "Per a qualsevol persona que tingui curiositat per saber com és una safata d'entrada més intel·ligent. No cal compromís.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Resums instantanis\n",
-            "description": "Obteniu l'essència de qualsevol fil\n"
+            "title": "Resums instantanis",
+            "description": "Obteniu l'essència de qualsevol fil"
           },
           {
-            "title": "AI Esborranys\n",
-            "description": "Un tast de respostes a la teva veu\n"
+            "title": "AI Esborranys",
+            "description": "Un tast de respostes a la teva veu"
           },
           {
-            "title": "Safata d'entrada intel·ligent\n",
-            "description": "Organització bàsica per començar\n"
+            "title": "Safata d'entrada intel·ligent",
+            "description": "Organització bàsica per començar"
           },
           {
-            "title": "Duet Assistent\n",
-            "description": "Proveu l'assistent AI\n"
+            "title": "Duet Assistent",
+            "description": "Proveu l'assistent AI"
           }
         ],
-        "ctaLabel": "Trieu Gmail o Outlook\n"
+        "ctaLabel": "Trieu Gmail o Outlook"
       },
       {
         "name": "Pro",
         "badge": "14-day free trial",
-        "description": "Per a professionals que volen una automatització més profunda, integracions i una safata d'entrada que sàpiga realment com treballeu.\n",
+        "description": "Per a professionals que volen una automatització més profunda, integracions i una safata d'entrada que sàpiga realment com treballeu.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Safata d'entrada intel·ligent\n",
-            "description": "Correus electrònics ordenats automàticament en categories intel·ligents\n",
+            "title": "Safata d'entrada intel·ligent",
+            "description": "Correus electrònics ordenats automàticament en categories intel·ligents",
             "highlight": true
           },
           {
             "title": "AI Esborranys",
-            "description": "Respostes escrites amb la teva veu, llestes per enviar\n",
+            "description": "Respostes escrites amb la teva veu, llestes per enviar",
             "highlight": true
           },
           {
-            "title": "Duet Assistent\n",
-            "description": "Xateja per trobar, esborranyar, organitzar i molt més\n",
+            "title": "Duet Assistent",
+            "description": "Xateja per trobar, esborranyar, organitzar i molt més",
             "highlight": true
           },
           {
-            "title": "Integració del calendari\n",
-            "description": "Programa, consulta i gestiona esdeveniments des de la teva safata d'entrada\n"
+            "title": "Integració del calendari",
+            "description": "Programa, consulta i gestiona esdeveniments des de la teva safata d'entrada"
           },
           {
-            "title": "Resums instantanis\n",
-            "description": "Obteniu l'essència de qualsevol fil o fitxer adjunt\n"
+            "title": "Resums instantanis",
+            "description": "Obteniu l'essència de qualsevol fil o fitxer adjunt"
           },
           {
-            "title": "Recordatoris intel·ligents\n",
-            "description": "Els seguiments apareixen automàticament perquè res llisqui\n"
+            "title": "Recordatoris intel·ligents",
+            "description": "Els seguiments apareixen automàticament perquè res llisqui"
           },
           {
-            "title": "Suport prioritari\n",
-            "description": "Humans reals, respostes ràpides\n"
+            "title": "Suport prioritari",
+            "description": "Humans reals, respostes ràpides"
           }
         ],
-        "ctaLabel": "Trieu Gmail o Outlook\n",
+        "ctaLabel": "Trieu Gmail o Outlook",
         "featured": true
       },
       {
-        "name": "Empresa\n",
-        "description": "Per a organitzacions que necessiten escala de nivell empresarial, suport dedicat i fluxos de treball personalitzats. El millor per a equips de més de 50 anys.\n",
+        "name": "Empresa",
+        "description": "Per a organitzacions que necessiten escala de nivell empresarial, suport dedicat i fluxos de treball personalitzats. El millor per a equips de més de 50 anys.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -450,97 +450,97 @@
         "perUser": true,
         "features": [
           {
-            "title": "Tot a Pro\n",
-            "description": "Totes les característiques incloses\n"
+            "title": "Tot a Pro",
+            "description": "Totes les característiques incloses"
           },
           {
-            "title": "Suport Dedicat\n",
-            "description": "Gestor de comptes personals\n"
+            "title": "Suport Dedicat",
+            "description": "Gestor de comptes personals"
           },
           {
-            "title": "Analítica d'equip\n",
-            "description": "Estadístiques de la vostra organització\n"
+            "title": "Analítica d'equip",
+            "description": "Estadístiques de la vostra organització"
           },
           {
-            "title": "Fluxos de treball compartits\n",
-            "description": "Plantilles i automatitzacions per a equips\n"
+            "title": "Fluxos de treball compartits",
+            "description": "Plantilles i automatitzacions per a equips"
           }
         ],
-        "ctaLabel": "Contacta amb vendes\n",
-        "ctaNote": "Preu personalitzat disponible\n"
+        "ctaLabel": "Contacta amb vendes",
+        "ctaNote": "Preu personalitzat disponible"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Preguntes freqüents\n",
-    "eyebrow": "Preguntes freqüents\n",
-    "headingPrefix": "Preguntes habituals, \n",
-    "headingAccent": "va respondre\n",
+    "ariaLabel": "Preguntes freqüents",
+    "eyebrow": "Preguntes freqüents",
+    "headingPrefix": "Preguntes habituals, ",
+    "headingAccent": "va respondre",
     "contactDecorative": "?",
-    "contactLabel": "CONTACTE\n",
-    "contactHeading": "Encara tens preguntes?\n",
-    "contactCta": "Posa't en contacte →\n",
-    "footerBrand": "CORREU DEL DUET\n",
-    "footerLabel": "Preguntes freqüents\n",
+    "contactLabel": "CONTACTE",
+    "contactHeading": "Encara tens preguntes?",
+    "contactCta": "Posa't en contacte →",
+    "footerBrand": "CORREU DEL DUET",
+    "footerLabel": "Preguntes freqüents",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Com protegeix Duet Mail les meves dades de correu electrònic?\n",
-        "answer": "La vostra seguretat és la nostra màxima prioritat. Utilitzem OAuth 2.0 per a l'autenticació segura tant amb Google com amb Microsoft. El contingut del correu electrònic es xifra en repòs mitjançant el xifratge a nivell de camp del costat del client i seguim el principi del mínim privilegi per a l'accés a l'API. Per a la nostra integració Google, ens sotmetem a l'avaluació anual de seguretat CASA de Google.\n"
+        "question": "Com protegeix Duet Mail les meves dades de correu electrònic?",
+        "answer": "La vostra seguretat és la nostra màxima prioritat. Utilitzem OAuth 2.0 per a l'autenticació segura tant amb Google com amb Microsoft. El contingut del correu electrònic es xifra en repòs mitjançant el xifratge a nivell de camp del costat del client i seguim el principi del mínim privilegi per a l'accés a l'API. Per a la nostra integració Google, ens sotmetem a l'avaluació anual de seguretat CASA de Google."
       },
       {
-        "question": "Com funciona la funció de resum del correu electrònic?\n",
-        "answer": "Duet Mail utilitza AI avançat per analitzar els vostres fils de correu electrònic i generar una visió general concisa que destaqui els punts clau, les decisions i els elements d'acció. Això us ajuda a entendre ràpidament el context sense llegir tot el fil.\n"
+        "question": "Com funciona la funció de resum del correu electrònic?",
+        "answer": "Duet Mail utilitza AI avançat per analitzar els vostres fils de correu electrònic i generar una visió general concisa que destaqui els punts clau, les decisions i els elements d'acció. Això us ajuda a entendre ràpidament el context sense llegir tot el fil."
       },
       {
-        "question": "Quins permisos necessita Duet Mail?\n",
-        "answer": "Duet Mail requereix accés als vostres correus electrònics per proporcionar resums, extreure elements d'acció, generar contingut i enviar els vostres correus electrònics. Només demanem els permisos que necessitem absolutament. Pots revisar i revocar aquests permisos en qualsevol moment a la configuració del teu compte Google o Microsoft.\n"
+        "question": "Quins permisos necessita Duet Mail?",
+        "answer": "Duet Mail requereix accés als vostres correus electrònics per proporcionar resums, extreure elements d'acció, generar contingut i enviar els vostres correus electrònics. Només demanem els permisos que necessitem absolutament. Pots revisar i revocar aquests permisos en qualsevol moment a la configuració del teu compte Google o Microsoft."
       },
       {
-        "question": "Què inclou la prova gratuïta?\n",
-        "answer": "La prova gratuïta de 14 dies inclou accés complet a totes les funcions de Pro: resums de correu electrònic il·limitats, extracció d'elements d'acció, redactor de correu electrònic AI (generació de correus electrònics i esborranys sense cap límit) i plantilles de correu electrònic personalitzades. Inicieu la sessió amb Google o Microsoft per començar a estalviar temps en la gestió del correu electrònic.\n"
+        "question": "Què inclou la prova gratuïta?",
+        "answer": "La prova gratuïta de 14 dies inclou accés complet a totes les funcions de Pro: resums de correu electrònic il·limitats, extracció d'elements d'acció, redactor de correu electrònic AI (generació de correus electrònics i esborranys sense cap límit) i plantilles de correu electrònic personalitzades. Inicieu la sessió amb Google o Microsoft per començar a estalviar temps en la gestió del correu electrònic."
       },
       {
-        "question": "Puc utilitzar Duet Mail amb altres proveïdors de correu electrònic?\n",
-        "answer": "Duet Mail és compatible amb Gmail, Google Workspace i Microsoft Outlook. Inicieu la sessió amb el vostre compte Google o Microsoft per començar.\n"
+        "question": "Puc utilitzar Duet Mail amb altres proveïdors de correu electrònic?",
+        "answer": "Duet Mail és compatible amb Gmail, Google Workspace i Microsoft Outlook. Inicieu la sessió amb el vostre compte Google o Microsoft per començar."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Comença\n",
+    "ariaLabel": "Comença",
     "headline": "Torna 4 hores.\nCada setmana.",
-    "subline": "Uneix-te als professionals que comencen el dia amb claredat, no amb caos. La vostra prova gratuïta està esperant.\n",
-    "primaryCta": "Comenceu amb Gmail\n",
-    "secondaryCta": "Comenceu amb Outlook\n",
+    "subline": "Uneix-te als professionals que comencen el dia amb claredat, no amb caos. La vostra prova gratuïta està esperant.",
+    "primaryCta": "Comenceu amb Gmail",
+    "secondaryCta": "Comenceu amb Outlook",
     "note": "14-day free trial · Cancel anytime",
     "trustItems": [
-      "Google CASA-avaluat\n",
-      "Encriptat en repòs\n",
-      "OAuth segur 2.0\n"
+      "Google CASA-avaluat",
+      "Encriptat en repòs",
+      "OAuth segur 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Peu de pàgina del lloc\n",
-    "brandIconAlt": "Icona Duet Mail\n",
+    "ariaLabel": "Peu de pàgina del lloc",
+    "brandIconAlt": "Icona Duet Mail",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail: l'assistent de correu electrònic AI que us estalvia hores cada setmana\n",
+    "tagline": "Duet Mail: l'assistent de correu electrònic AI que us estalvia hores cada setmana",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explora\n",
+        "title": "Explora",
         "links": [
           {
-            "label": "Organització\n",
+            "label": "Organització",
             "href": "/ca#organization"
           },
           {
-            "label": "Redacció\n",
+            "label": "Redacció",
             "href": "/ca#drafting"
           },
           {
-            "label": "Intel·ligència\n",
+            "label": "Intel·ligència",
             "href": "/ca#intelligence"
           },
           {
@@ -551,48 +551,48 @@
         ]
       },
       {
-        "title": "Clients\n",
+        "title": "Clients",
         "links": [
           {
-            "label": "Preus\n",
+            "label": "Preus",
             "href": "/ca#pricing"
           },
           {
-            "label": "Testimonis\n",
+            "label": "Testimonis",
             "href": "/ca#testimonials"
           },
           {
-            "label": "Preguntes freqüents\n",
+            "label": "Preguntes freqüents",
             "href": "/ca#faq"
           }
         ]
       },
       {
-        "title": "Legal\n",
+        "title": "Legal",
         "links": [
           {
-            "label": "Privadesa\n",
+            "label": "Privadesa",
             "href": "/ca/privacy"
           },
           {
-            "label": "Termes\n",
+            "label": "Termes",
             "href": "/ca/terms"
           },
           {
-            "label": "Galetes\n",
+            "label": "Galetes",
             "href": "/ca/cookies"
           },
           {
-            "label": "Exempció de responsabilitat\n",
+            "label": "Exempció de responsabilitat",
             "href": "/ca/disclaimer"
           }
         ]
       },
       {
-        "title": "Connecta't\n",
+        "title": "Connecta't",
         "links": [
           {
-            "label": "Bloc\n",
+            "label": "Bloc",
             "href": "/ca/blog"
           },
           {
@@ -620,50 +620,50 @@
     ]
   },
   "math": {
-    "ariaLabel": "Retorn de la inversió\n",
-    "label": "Les matemàtiques\n",
-    "narrativeTemplate": "A {pricePerBooking} per {bookingUnit}, es perd només {lostPerMonth} per les respostes més lentes =\n",
-    "lossSuffix": "/mo se n'ha anat\n",
-    "dividerLabel": "vs\n",
+    "ariaLabel": "Retorn de la inversió",
+    "label": "Les matemàtiques",
+    "narrativeTemplate": "A {pricePerBooking} per {bookingUnit}, es perd només {lostPerMonth} per les respostes més lentes =",
+    "lossSuffix": "/mo se n'ha anat",
+    "dividerLabel": "vs",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Assistent de correu electrònic per a Gmail i Outlook\n",
+    "websiteAlternateName": "Duet - AI Assistent de correu electrònic per a Gmail i Outlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Atenció al client\n",
+    "organizationContactType": "Atenció al client",
     "softwareName": "Duet Mail",
-    "softwareDescription": "Assistent de correu electrònic AI per a Gmail i Outlook que resumeix automàticament els correus electrònics, redacta esborranys de respostes a la teva veu i organitza la teva safata d'entrada per estalviar hores cada setmana.\n",
-    "applicationCategory": "Comunicació Aplicació\n",
+    "softwareDescription": "Assistent de correu electrònic AI per a Gmail i Outlook que resumeix automàticament els correus electrònics, redacta esborranys de respostes a la teva veu i organitza la teva safata d'entrada per estalviar hores cada setmana.",
+    "applicationCategory": "Comunicació Aplicació",
     "featureList": [
-      "Organització i categorització intel·ligent del correu electrònic\n",
-      "Redacció de correu electrònic amb la tecnologia AI a la teva veu\n",
-      "Assistent de correu electrònic intel·ligent amb integració de calendari\n",
-      "Resums automàtics de correu electrònic i elements d'acció\n",
-      "Recordatoris intel·ligents per a seguiments\n"
+      "Organització i categorització intel·ligent del correu electrònic",
+      "Redacció de correu electrònic amb la tecnologia AI a la teva veu",
+      "Assistent de correu electrònic intel·ligent amb integració de calendari",
+      "Resums automàtics de correu electrònic i elements d'acció",
+      "Recordatoris intel·ligents per a seguiments"
     ],
     "offers": [
       {
-        "name": "Pla Bàsic\n",
+        "name": "Pla Bàsic",
         "price": "0",
-        "priceCurrency": "USD\n",
-        "description": "Pla gratuït amb resums instantanis, esborranys AI i safata d'entrada intel·ligent\n"
+        "priceCurrency": "USD",
+        "description": "Pla gratuït amb resums instantanis, esborranys AI i safata d'entrada intel·ligent"
       },
       {
-        "name": "Pla Pro\n",
+        "name": "Pla Pro",
         "price": "19.99",
-        "priceCurrency": "USD\n",
-        "unitText": "MES\n",
-        "description": "Accés complet amb categorització intel·ligent de la safata d'entrada, esborranys AI, assistent i integració del calendari\n"
+        "priceCurrency": "USD",
+        "unitText": "MES",
+        "description": "Accés complet amb categorització intel·ligent de la safata d'entrada, esborranys AI, assistent i integració del calendari"
       }
     ],
     "aggregateRating": {
       "ratingValue": "4.8",
       "ratingCount": "853"
     },
-    "operatingSystem": "Web\n",
-    "browserRequirements": "Requereix JavaScript. Funciona amb Gmail, Google Workspace i Microsoft Outlook.\n",
+    "operatingSystem": "Web",
+    "browserRequirements": "Requereix JavaScript. Funciona amb Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/ca",
       "logo": "https://duetmail.com/favicon.svg",
@@ -676,23 +676,23 @@
     },
     "faq": [
       {
-        "question": "Com protegeix Duet Mail les meves dades de correu electrònic?\n",
-        "answer": "La vostra seguretat és la nostra màxima prioritat. Utilitzem OAuth 2.0 per a l'autenticació segura tant amb Google com amb Microsoft. El contingut del correu electrònic es xifra en repòs mitjançant el xifratge a nivell de camp del costat del client i seguim el principi del mínim privilegi per a l'accés a l'API. Per a la nostra integració Google, ens sotmetem a l'avaluació anual de seguretat CASA de Google.\n"
+        "question": "Com protegeix Duet Mail les meves dades de correu electrònic?",
+        "answer": "La vostra seguretat és la nostra màxima prioritat. Utilitzem OAuth 2.0 per a l'autenticació segura tant amb Google com amb Microsoft. El contingut del correu electrònic es xifra en repòs mitjançant el xifratge a nivell de camp del costat del client i seguim el principi del mínim privilegi per a l'accés a l'API. Per a la nostra integració Google, ens sotmetem a l'avaluació anual de seguretat CASA de Google."
       },
       {
-        "question": "Com funciona la funció de resum del correu electrònic?\n",
-        "answer": "Duet Mail utilitza AI avançat per analitzar els vostres fils de correu electrònic i generar una visió general concisa que destaqui els punts clau, les decisions i els elements d'acció. Això us ajuda a entendre ràpidament el context sense llegir tot el fil.\n"
+        "question": "Com funciona la funció de resum del correu electrònic?",
+        "answer": "Duet Mail utilitza AI avançat per analitzar els vostres fils de correu electrònic i generar una visió general concisa que destaqui els punts clau, les decisions i els elements d'acció. Això us ajuda a entendre ràpidament el context sense llegir tot el fil."
       },
       {
-        "question": "Quins permisos necessita Duet Mail?\n",
-        "answer": "Duet Mail requereix accés als vostres correus electrònics per proporcionar resums, extreure elements d'acció, generar contingut i enviar els vostres correus electrònics. Només demanem els permisos que necessitem absolutament. Pots revisar i revocar aquests permisos en qualsevol moment a la configuració del teu compte Google o Microsoft.\n"
+        "question": "Quins permisos necessita Duet Mail?",
+        "answer": "Duet Mail requereix accés als vostres correus electrònics per proporcionar resums, extreure elements d'acció, generar contingut i enviar els vostres correus electrònics. Només demanem els permisos que necessitem absolutament. Pots revisar i revocar aquests permisos en qualsevol moment a la configuració del teu compte Google o Microsoft."
       },
       {
-        "question": "Què inclou la prova gratuïta?\n",
-        "answer": "La prova gratuïta de 14 dies inclou accés complet a totes les funcions de Pro: resums de correu electrònic il·limitats, extracció d'elements d'acció, redactor de correu electrònic AI (generació de correus electrònics i esborranys sense cap límit) i plantilles de correu electrònic personalitzades. Inicieu la sessió amb Google o Microsoft per començar a estalviar temps en la gestió del correu electrònic.\n"
+        "question": "Què inclou la prova gratuïta?",
+        "answer": "La prova gratuïta de 14 dies inclou accés complet a totes les funcions de Pro: resums de correu electrònic il·limitats, extracció d'elements d'acció, redactor de correu electrònic AI (generació de correus electrònics i esborranys sense cap límit) i plantilles de correu electrònic personalitzades. Inicieu la sessió amb Google o Microsoft per començar a estalviar temps en la gestió del correu electrònic."
       },
       {
-        "question": "Puc utilitzar Duet Mail amb altres proveïdors de correu electrònic?\n",
+        "question": "Puc utilitzar Duet Mail amb altres proveïdors de correu electrònic?",
         "answer": "Duet Mail és compatible amb Gmail, Google Workspace i Microsoft Outlook. Inicieu la sessió amb el vostre compte Google o Microsoft per començar."
       }
     ]

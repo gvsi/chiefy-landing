@@ -623,9 +623,9 @@
     "ariaLabel": "A befektetés megtérülése",
     "label": "A matek",
     "narrativeTemplate": "{pricePerBooking} per {bookingUnit}, csak {lostPerMonth} veszteség a lassú válaszok miatt =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/hó veszteség",
     "dividerLabel": "vs",
-    "duetLabel": "Duett",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {

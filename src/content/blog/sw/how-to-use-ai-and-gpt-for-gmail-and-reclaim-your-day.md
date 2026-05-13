@@ -26,7 +26,7 @@ Kuna njia kadhaa za ujumuishaji huu:
 
 - [**Google Workspace Viongezi**](https://workspace.google.com/marketplace)**:** Imesakinishwa kutoka Soko la Google Workspace, programu jalizi hizi kwa kawaida huonekana ndani ya utepe wa Gmail au kuunganishwa kwenye dirisha la kutunga. Zana kama([GPT for Gmail™](https://workspace.google.com/marketplace/app/gpt_for_gmail/802100925247)) au [Klart AI Mail Assistant](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) hutoa vipengele vya AI vinavyoweza kufikiwa moja kwa moja ndani ya nafasi ya kazi ya Gmail.
 
-- **Wasaidizi/Wateja Waliojitolea wa Barua Pepe:** Aina hii inajumuisha programu zinazojitegemea au wateja maalum wa barua pepe ambao huunganishwa na akaunti ya mtumiaji ya Gmail lakini hutoa kiolesura cha kipekee kilicho na vipengele vya juu vya AI. Mifano kama([Superhuman](https://superhuman.com/)), ([Shortwave](https://www.shortwave.com/)), ([SaneBox](https://www.sanebox.com/)), [Flowrite](https://www.flowrite.com/), [Missive](XQZ4), na [**Duet Mail**](https://duetmail.com/sw) mara nyingi huzingatia kasi, mafunzo ya kina ya AI (kama vile mtindo wa kuandika), na muunganisho wa kina wa mtiririko wa kazi, kwa kawaida huja na gharama ya kulipia usajili.
+- **Wasaidizi/Wateja Waliojitolea wa Barua Pepe:** Aina hii inajumuisha programu zinazojitegemea au wateja maalum wa barua pepe ambao huunganishwa na akaunti ya mtumiaji ya Gmail lakini hutoa kiolesura cha kipekee kilicho na vipengele vya juu vya AI. Mifano kama [Superhuman](https://superhuman.com/), [Shortwave](https://www.shortwave.com/), [SaneBox](https://www.sanebox.com/), [Flowrite](https://www.flowrite.com/), [Missive](https://missiveapp.com/), na [**Duet Mail**](https://duetmail.com/sw) mara nyingi huzingatia kasi, mafunzo ya kina ya AI (kama vile mtindo wa kuandika), na muunganisho wa kina wa mtiririko wa kazi, kwa kawaida huja na gharama ya kulipia usajili.
 
 Njia hizi tofauti za ujumuishaji huruhusu AI kufanya kazi kadhaa za msingi ndani ya Gmail:
 
@@ -60,7 +60,7 @@ Kudumisha sauti ya kweli ni muhimu. Hapa ndipo vifaa vilivyoundwa mahsusi kwa mw
 
 **Suluhisho la AI:** Wasaidizi wa barua pepe wa AI hufanya kama zana ya kibinafsi ya muhtasari. Wanaweza kuchanganua na kufupisha mazungumzo marefu ya barua pepe kiotomatiki, hati zilizoambatishwa (kama vile PDF au faili za Word), au hata kufikia manukuu katika muhtasari mfupi unaoweza kumeng'enyika. Muhimu zaidi, wao hufaulu katika kutoa mawimbi kutoka kwa kelele - kutambua maamuzi muhimu yaliyofanywa, vipengee bora vya kushughulikia, maswali muhimu yaliyoulizwa, na tarehe za mwisho zilizotajwa.
 
-**Kishika Nafasi cha PichaHoja ya Picha zaGoogle:** Muhtasari wa thread ya barua pepe ya AI infographic**Alt Text:** Infographic inayoonyesha thread ndefu, changamani ya barua pepe ikifupishwa na AI kuwa vitone 3 muhimu: Uamuzi Umefanywa, Jambo la Kitendo, Swali Muhimu.**Njia:** Zana za muhtasari wa AI hukata kelele, na kutoa taarifa muhimu kutoka kwa maandishi marefu ya barua pepe.
+_Zana za muhtasari wa AI hukata kelele na kutoa taarifa muhimu kutoka kwa mazungumzo marefu ya barua pepe._
 
 **Kesi za Matumizi:** Uwezo huu ni muhimu sana kwa kupata kasi ya haraka baada ya kuwa mbali, kuelewa muktadha wa suala tata bila kusoma tena historia nzima, au kushiriki vyema kiini cha mazungumzo na washiriki wa timu ambao wanahitaji kuingizwa ndani.
 
@@ -82,7 +82,7 @@ Kupata kiini haraka ni muhimu. Zana za AI zinaweza kutenda kama msaidizi wa muht
 
 Hebu fikiria kisanduku pokezi kinachoonyesha kile kinachohitaji kuzingatiwa _sasa_. Hii ni nguvu ya AI triage. Badala ya mlisho uliosonga wa mpangilio, zana kama vile [**Duet Mail**](https://duetmail.com/sw) hutoa **Dashibodi ya AI na Dashibodi Iliyolenga**. Mfumo huu huchanganua barua pepe kwa ustadi ili kupata dharura, vitendo vinavyohitajika au maamuzi, ukiziwasilisha kwa uwazi ili watumiaji waweze kukata kelele mara moja na kuelekeza nguvu zao kwa ufanisi. Hii inawakilisha mabadiliko ya dhana kutoka kwa ukaguzi wa haraka wa barua pepe hadi ushiriki wa haraka, uliopewa kipaumbele, kupunguza kwa kiasi kikubwa mzigo wa utambuzi na kuongeza tija yenye maana.
 
-**Hoja ya Picha kwenye Google:** Duet Mail AI Triage Focused Dashibodi picha ya skrini**Alt Text:** Picha ya skrini ya Dashibodi Lengwa ya Duet Mail inayoonyesha barua pepe zilizopewa kipaumbele zilizoainishwa kwa uharaka na vitendo vinavyohitajika.**Manukuu:** Dashibodi zinazoendeshwa na AI kupitia dashibodi muhimu za QQ kwenye dashibodi za usoni kama vile XQZX. vituko.
+![Picha ya skrini ya Dashibodi Lengwa ya Duet Mail inayoonyesha barua pepe zilizopewa kipaumbele kwa uharaka na vitendo vinavyohitajika.](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 ## Kuchagua Barua Pepe yako ya AI Co-Pilot: Zana na Mazingatio
 

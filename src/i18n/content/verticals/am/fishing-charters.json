@@ -103,17 +103,17 @@
     "originalFrom": "ሳራ ኤም ጻፈ፡-",
     "originalText": "ሰላም! ለጁላይ 12 የዓሣ ማጥመድ ጉዞ ለማስያዝ የ 4 ቡድን ነን። ተገኝነት አለዎት? ለአንድ ሙሉ ቀን ዋጋው ስንት ነው?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "ሰላም Sarah!",
+      "ጁላይ 12 ለ4 ሰዎች ሙሉ በሙሉ ክፍት ነው። ሙሉ-ቀን ጉዞዎች $500 ናቸው እና ከ6 AM ጀምሮ ከማሪናው 8 ሰዓት ይቆያሉ።",
+      "ሁሉም መሳሪያ፣ ማጥመጃ እና የአሳ ማጥመድ ፈቃዶች ተካትተዋል — የፀሐይ መከላከያ እና ኩለር ብቻ ይዘው ይምጡ።",
+      "እንዳስይዝልዎ?"
     ],
     "highlightText": "ጁላይ 12 ለ 4 ሰፊ ክፍት ነው። የሙሉ ቀን ጉዞዎች 500 ዶላር ናቸው።",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "ዋጋዎን እና ተገኝነትዎን ያውቃል",
+      "በድምፅዎ ረቂቅ ያዘጋጃል",
+      "የጉዞ ዝርዝሮችን በራስ-ሰር ያካትታል",
+      "ከጊዜ ጋር ይማራል"
     ]
   },
   "agent": {

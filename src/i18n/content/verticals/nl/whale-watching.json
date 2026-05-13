@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mailvoor walvisexcursies | AI-e-mailassistent",
-  "metaDescription": "Duet Mailhelpt kapiteins om walvissen te spotten direct te reageren op boekings-e-mails, zelfs vanaf het water. Door AI opgestelde antwoorden met uw tourgegevens, prijzen en stem.",
+  "pageTitle": "Duet Mail voor walvisexcursies | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt kapiteins om walvissen te spotten direct te reageren op boekings-e-mails, zelfs vanaf het water. Door AI opgestelde antwoorden met uw tourgegevens, prijzen en stem.",
   "heroBadge": "Vertrouwd door meer dan 300 reiskapiteins",
   "heroHeadline": "Uw e-mailassistent terwijl u walvissen spot",
-  "heroSubline": "Duetleert uw tourschema, prijzen en stem kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest terwijl u op het water bent.",
+  "heroSubline": "Duet leert uw tourschema, prijzen en stem kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest terwijl u op het water bent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,18 +49,18 @@
     "bookingUnit": "reisgroep",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Eén opgeslagen groepsboeking betaalt een jaar langDuet."
+    "punchline": "Eén opgeslagen groepsboeking betaalt een jaar lang Duet."
   },
-  "categorizationSubtitle": "Duettagt automatisch elke e-mail, zodat u eerst boekingsaanvragen ziet, wijzigingen in het cruiseschipschema als tweede en nooit lawaai. U hoeft nooit meer een privécharteraanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
-  "draftSubtitle": "Duetleert uw tourtijden, prijzen en beleid kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met de beschikbaarheid, wat is inbegrepen en wat u moet meenemen. Je beoordeelt en verzendt.",
-  "agentSubtitle": "\"Hoeveel plekken zijn er nog beschikbaar voor de zaterdagochtendtour?\" 'Stel een antwoord op aan Rachel met de beschikbaarheid.'Duetkent uw inbox en planning — vraag het maar.",
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst boekingsaanvragen ziet, wijzigingen in het cruiseschipschema als tweede en nooit lawaai. U hoeft nooit meer een privécharteraanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
+  "draftSubtitle": "Duet leert uw tourtijden, prijzen en beleid kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met de beschikbaarheid, wat is inbegrepen en wat u moet meenemen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Hoeveel plekken zijn er nog beschikbaar voor de zaterdagochtendtour?\" 'Stel een antwoord op aan Rachel met de beschikbaarheid.'Duet kent uw inbox en planning — vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
       "subject": "Groep van 8 — beschikbaarheid 14 juni?",
-      "preview": "We zijn een gezin van 8 personen die deze week op bezoek zijn. . .",
+      "preview": "We zijn een gezin van 8 personen die deze week op bezoek zijn...",
       "pill": "Reageer nu",
       "pillColor": "red"
     },
@@ -127,31 +127,31 @@
     {
       "name": "Kapitein Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "Passagiers van cruiseschepen hebben snel antwoorden nodig: ze hebben slechts zes uur in de haven. Vroeger raakte ik privécharters kwijt omdat ik op het water was toen de aanvraag binnenkwam.Duetstelt nu antwoorden op met mijn prijzen en ophaalgegevens voordat ik zelfs maar aanmeer.",
+      "quote": "Passagiers van cruiseschepen hebben snel antwoorden nodig: ze hebben slechts zes uur in de haven. Vroeger raakte ik privécharters kwijt omdat ik op het water was toen de aanvraag binnenkwam.Duet stelt nu antwoorden op met mijn prijzen en ophaalgegevens voordat ik zelfs maar aanmeer.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Familie Whale Watch, CA",
-      "quote": "Tijdens het bultrugseizoen organiseren we twee tochten per dag en het e-mailvolume is onwerkelijk. 'Zullen we walvissen zien?' 'Wat moet ik dragen?' 'Is morgen afgelast?'Duetbehandelt de repetitieve vragen en wij concentreren ons op de rondleidingen.",
+      "quote": "Tijdens het bultrugseizoen organiseren we twee tochten per dag en het e-mailvolume is onwerkelijk. 'Zullen we walvissen zien?' 'Wat moet ik dragen?' 'Is morgen afgelast?'Duet behandelt de repetitieve vragen en wij concentreren ons op de rondleidingen.",
       "avatarKey": "francesca"
     },
     {
       "name": "Kapitein Ben T.",
       "title": "Oceaanexcursies, HI",
-      "quote": "Ik beantwoordde elke avond dezelfde tien vragen: prijzen, wat is inbegrepen, tips voor zeeziekte, leeftijdsgrenzen voor kinderen.Duetheb het allemaal in de eerste week geleerd. Mijn responstijd ging van 8 uur naar 8 minuten.",
+      "quote": "Ik beantwoordde elke avond dezelfde tien vragen: prijzen, wat is inbegrepen, tips voor zeeziekte, leeftijdsgrenzen voor kinderen.Duet heb het allemaal in de eerste week geleerd. Mijn responstijd ging van 8 uur naar 8 minuten.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Boekingsmanager, Pacific NW",
-      "quote": "Annuleringen door weersomstandigheden zijn het ergste: 30 mensen moeten in één keer omboeken en ik ben aan het jongleren met telefoontjes.Duetstelt gepersonaliseerde e-mails voor het herplannen van elke gast op. Waar ik vroeger 2 uur over deed, duurt nu 15 minuten.",
+      "quote": "Annuleringen door weersomstandigheden zijn het ergste: 30 mensen moeten in één keer omboeken en ik ben aan het jongleren met telefoontjes.Duet stelt gepersonaliseerde e-mails voor het herplannen van elke gast op. Waar ik vroeger 2 uur over deed, duurt nu 15 minuten.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Wildlife Tours met kleine boten, BC",
-      "quote": "We zijn een operatie voor twee personen. Ik ben kapitein, zij beheert de logistiek. Tijdens het hoogseizoen besteedde ze drie uur per nacht aan e-mail.Duetbreng dat terug naar 30 minuten. Ze krijgt nu eigenlijk haar avonden terug.",
+      "quote": "We zijn een operatie voor twee personen. Ik ben kapitein, zij beheert de logistiek. Tijdens het hoogseizoen besteedde ze drie uur per nacht aan e-mail.Duet breng dat terug naar 30 minuten. Ze krijgt nu eigenlijk haar avonden terug.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "KanDuetomgaan met weerannuleringen en wijzigingen in de dienstregeling van cruiseschepen?",
-      "answer": "Ja. Wanneer u een tour annuleert vanwege het weer of omdat de aankomsttijd van een cruiseschip verandert, kunt uDuetdit één keer vertellen, waarna er voor elke betrokken gast een gepersonaliseerde nieuwe planning wordt opgesteld of e-mails worden bijgewerkt. Nooit meer hetzelfde bericht 30 keer kopiëren en plakken. Elk antwoord bevat de originele boekingsgegevens van de gast en beschikbare alternatieven."
+      "question": "Kan Duet omgaan met weerannuleringen en wijzigingen in de dienstregeling van cruiseschepen?",
+      "answer": "Ja. Wanneer u een tour annuleert vanwege het weer of omdat de aankomsttijd van een cruiseschip verandert, kunt u Duet dit één keer vertellen, waarna er voor elke betrokken gast een gepersonaliseerde nieuwe planning wordt opgesteld of e-mails worden bijgewerkt. Nooit meer hetzelfde bericht 30 keer kopiëren en plakken. Elk antwoord bevat de originele boekingsgegevens van de gast en beschikbare alternatieven."
     },
     {
-      "question": "We krijgen voortdurend dezelfde vragen: 'zullen we walvissen zien?', 'wat moet ik dragen?', 'is het oké voor kinderen?' KanDuetdeze aan?",
-      "answer": "Dat is precies waarDuetuitblinkt. Het leert uw standaardantwoorden – soorten die u doorgaans ziet, wat u moet meenemen, leeftijdsbeleid, tips voor zeeziekte, vertrektijden – en stelt onmiddellijk volledige antwoorden op. Je beoordeelt en verzendt. De meeste kapiteins vertellen ons dat 80% van hun inbox uit dezelfde 10 vragen bestaat, en datDuetze allemaal afhandelt."
+      "question": "We krijgen voortdurend dezelfde vragen: 'zullen we walvissen zien?', 'wat moet ik dragen?', 'is het oké voor kinderen?' Kan Duet deze aan?",
+      "answer": "Dat is precies waar Duet uitblinkt. Het leert uw standaardantwoorden – soorten die u doorgaans ziet, wat u moet meenemen, leeftijdsbeleid, tips voor zeeziekte, vertrektijden – en stelt onmiddellijk volledige antwoorden op. Je beoordeelt en verzendt. De meeste kapiteins vertellen ons dat 80% van hun inbox uit dezelfde 10 vragen bestaat, en dat Duet ze allemaal afhandelt."
     }
   ],
   "pricingNote": "Voor $ 125 per persoon betaalt één opgeslagen groep van 6 voor meer dan een jaarPro."

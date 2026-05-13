@@ -3,7 +3,7 @@ title: "Jak pisać profesjonalne e-maile: pisz jasno, oszczędzaj czas i rozwija
 description: "Dowiedz się, jak pisać profesjonalne e-maile, które budują zaufanie i oszczędzają czas. Opanuj temat wiadomości, ton, strukturę i etykietę. Wzmocnij komunikację w swojej karierze"
 publishedAt: 2025-05-27
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Email Writing"]
+tags: ["AI", "Produktywność", "Pisanie e-maili"]
 draft: false
 ---
 

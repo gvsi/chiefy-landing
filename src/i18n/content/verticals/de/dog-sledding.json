@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mailfür Hundeschlittentouren | KI-E-Mail-Assistent",
-  "metaDescription": "Duet Mailhilft Mushern, sofort auf Buchungs-E-Mails zu reagieren – sogar vom Trail aus. Von der KI erstellte Antworten mit Ihren Tourtypen, Preisen, Richtlinien und Ihrer Stimme.",
+  "pageTitle": "Duet Mail für Hundeschlittentouren | KI-E-Mail-Assistent",
+  "metaDescription": "Duet Mail hilft Mushern, sofort auf Buchungs-E-Mails zu reagieren – sogar vom Trail aus. Von der KI erstellte Antworten mit Ihren Tourtypen, Preisen, Richtlinien und Ihrer Stimme.",
   "heroBadge": "Mehr als 200 Musher vertrauen darauf",
   "heroHeadline": "Ihr E-Mail-Assistent, während Sie unterwegs sind",
-  "heroSubline": "Duetlernt Ihre Tourtypen, Preise, Wetterrichtlinien und Add-ons kennen und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung aufgrund einer langsamen Antwort verlieren.",
+  "heroSubline": "Duet lernt Ihre Tourtypen, Preise, Wetterrichtlinien und Add-ons kennen und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung aufgrund einer langsamen Antwort verlieren.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -38,7 +38,7 @@
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "Neue Bewertung für Ihren Eintrag",
-      "preview": "Ein Reisender hat Ihr Unternehmen kürzlich bewertet. Sehen Sie, was sie zu sagen und zu antworten hatten ...",
+      "preview": "Ein Reisender hat Ihr Unternehmen kürzlich bewertet. Sehen Sie, was sie zu sagen und zu antworten hatten...",
       "pill": "Zu Ihrer Information",
       "pillColor": "lavender"
     }
@@ -49,18 +49,18 @@
     "bookingUnit": "Tour",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Zwei gespeicherte Buchungen zahlen für ein JahrDuet."
+    "punchline": "Zwei gespeicherte Buchungen zahlen für ein Jahr Duet."
   },
-  "categorizationSubtitle": "Duetmarkiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Fragen und nie Störgeräusche sehen. Verpassen Sie keine Touranfrage mehr, die unter TripAdvisor-Benachrichtigungen verborgen ist.",
-  "draftSubtitle": "Duetlernt Ihre Tourtypen, Preise und Tonalität. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Paketdetails, Kleidungsstücken und Zusatzleistungen erstellt. Sie überprüfen und senden.",
-  "agentSubtitle": "„Irgendwelche Buchungen für dieses Wochenende?“ „Entwerfen Sie eine Antwort zur Aurora-Kombination.“Duetkennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Fragen und nie Störgeräusche sehen. Verpassen Sie keine Touranfrage mehr, die unter TripAdvisor-Benachrichtigungen verborgen ist.",
+  "draftSubtitle": "Duet lernt Ihre Tourtypen, Preise und Tonalität. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Paketdetails, Kleidungsstücken und Zusatzleistungen erstellt. Sie überprüfen und senden.",
+  "agentSubtitle": "„Irgendwelche Buchungen für dieses Wochenende?“ „Entwerfen Sie eine Antwort zur Aurora-Kombination.“Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
       "subject": "Aurora + Hundeschlitten-Kombination für 4?",
-      "preview": "Meine vierköpfige Familie besucht Fairbanks im Januar ...",
+      "preview": "Meine vierköpfige Familie besucht Fairbanks im Januar...",
       "pill": "Jetzt antworten",
       "pillColor": "red"
     },
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Schlittenhunde-Reiseveranstalter, AK",
-      "quote": "Ich bin 6 Stunden am Tag unterwegs, ohne Mobilfunkempfang. Als ich zurückkam, war die Hälfte der Buchungsanfragen an ein anderes Unternehmen gegangen.Duetentwirft Antworten mit meinen Tourdetails und Preisen – Gäste hören innerhalb von Minuten, nicht Stunden, eine Rückmeldung.",
+      "quote": "Ich bin 6 Stunden am Tag unterwegs, ohne Mobilfunkempfang. Als ich zurückkam, war die Hälfte der Buchungsanfragen an ein anderes Unternehmen gegangen.Duet entwirft Antworten mit meinen Tourdetails und Preisen – Gäste hören innerhalb von Minuten, nicht Stunden, eine Rückmeldung.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Besitzer einer Kennel & Mush Tour, AK",
-      "quote": "Wir bieten Zwingerbesuche, Brei-Fahrten und Polarlicht-Kombinationen an – jede E-Mail braucht eine andere Antwort.Duethat alle drei Tourtypen in einer Woche herausgefunden und entwirft jetzt Antworten, die jedes Mal zum richtigen Paket passen.",
+      "quote": "Wir bieten Zwingerbesuche, Brei-Fahrten und Polarlicht-Kombinationen an – jede E-Mail braucht eine andere Antwort.Duet hat alle drei Tourtypen in einer Woche herausgefunden und entwirft jetzt Antworten, die jedes Mal zum richtigen Paket passen.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Hundeschlittenführer, MN",
-      "quote": "Ich verbrachte jeden Abend damit, die gleichen Fragen zu beantworten, was ich anziehen sollte, Altersgrenzen und die Hunde.Duetkümmert sich um alles. Ich komme vom Trail nach Hause und alles ist vorbereitet und wartet.",
+      "quote": "Ich verbrachte jeden Abend damit, die gleichen Fragen zu beantworten, was ich anziehen sollte, Altersgrenzen und die Hunde.Duet kümmert sich um alles. Ich komme vom Trail nach Hause und alles ist vorbereitet und wartet.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Im Winter kommt es ständig zu wetterbedingten Ausfällen.Duetentwirft die Terminverschiebung der Antworten mit unseren Richtlinien und alternativen Terminen, bevor ich überhaupt die Gelegenheit bekomme, mein Telefon zu überprüfen. Gäste lieben die schnelle Reaktion.",
+      "quote": "Im Winter kommt es ständig zu wetterbedingten Ausfällen.Duet entwirft die Terminverschiebung der Antworten mit unseren Richtlinien und alternativen Terminen, bevor ich überhaupt die Gelegenheit bekomme, mein Telefon zu überprüfen. Gäste lieben die schnelle Reaktion.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Familienhundeschlittenabenteuer, CO",
-      "quote": "Eltern fragen immer, ob ihre Kinder Mushen können, ob die Hunde freundlich sind und was sie anziehen sollen – die gleichen 10 Fragen.Duethat jede Antwort gelernt und formuliert sie perfekt. Es ist, als würde ich mich selbst für E-Mails klonen.",
+      "quote": "Eltern fragen immer, ob ihre Kinder Mushen können, ob die Hunde freundlich sind und was sie anziehen sollen – die gleichen 10 Fragen.Duet hat jede Antwort gelernt und formuliert sie perfekt. Es ist, als würde ich mich selbst für E-Mails klonen.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
   "verticalFaqs": [
     {
-      "question": "Wie gehtDuetmit Wetterausfällen und Polarlichtunsicherheit um?",
-      "answer": "Duetlernt Ihre Stornierungs- und Umbuchungsrichtlinien. Wenn ein Gast eine E-Mail über Wetterprobleme oder die Sichtbarkeit des Polarlichts sendet, verfasst er eine Antwort mit Ihren Richtlinien, alternativen Terminen und allen relevanten Details – wie der Überwachung der Bedingungen und der Bestätigung, dass die Tour näher rückt. Sie überprüfen und senden."
+      "question": "Wie geht Duet mit Wetterausfällen und Polarlichtunsicherheit um?",
+      "answer": "Duet lernt Ihre Stornierungs- und Umbuchungsrichtlinien. Wenn ein Gast eine E-Mail über Wetterprobleme oder die Sichtbarkeit des Polarlichts sendet, verfasst er eine Antwort mit Ihren Richtlinien, alternativen Terminen und allen relevanten Details – wie der Überwachung der Bedingungen und der Bestätigung, dass die Tour näher rückt. Sie überprüfen und senden."
     },
     {
-      "question": "Ich biete mehrere Tourtypen mit unterschiedlichen Preisen und Zusatzleistungen an. KannDuetsie gerade halten?",
-      "answer": "Ja.Duetlernt jeden Ihrer Tourtypen – Zwingerbesuche, Mush-Erlebnisse, Aurora-Kombinationen, Fotografie-Add-ons, Transportpakete – sowie deren Preise, Dauer und was enthalten ist. Wenn eine Anfrage eingeht, ordnet es die richtige Tour zu und verfasst eine Antwort mit den richtigen Details."
+      "question": "Ich biete mehrere Tourtypen mit unterschiedlichen Preisen und Zusatzleistungen an. Kann Duet sie gerade halten?",
+      "answer": "Ja. Duet lernt jeden Ihrer Tourtypen – Zwingerbesuche, Mush-Erlebnisse, Aurora-Kombinationen, Fotografie-Add-ons, Transportpakete – sowie deren Preise, Dauer und was enthalten ist. Wenn eine Anfrage eingeht, ordnet es die richtige Tour zu und verfasst eine Antwort mit den richtigen Details."
     }
   ],
   "pricingNote": "Bei 150 $/Tour zahlen zwei gespeicherte Buchungen mehr als ein Jahr langPro."

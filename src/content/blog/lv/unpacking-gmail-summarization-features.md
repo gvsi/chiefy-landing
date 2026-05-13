@@ -35,9 +35,7 @@ Apsveriet šos skaitļus:
 
 - **Lielāka stresa:** Sajūta, ka ar e-pastu pastāvīgi atpaliekat, būtiski veicina darba stresu un izdegšanu.
 
-Mākslīgā intelekta kopsavilkumu rīki mēģina šīs problēmas risināt tieši, ātri izvelkot saziņas būtību, lai jūs varētu efektīvi noteikt prioritātes un palikt informēti, neiestrēgstot detaļās. Pētījumi par mākslīgo intelektu darba vidē, piemēram, tie, ko izceļ [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), rāda taustāmu produktivitātes pieaugumu, kad AI palīdz ar tādiem uzdevumiem kā kopsavilkumu veidošana un informācijas atrašana.
-
-![Infografika, kas ar galvenajiem statistikas datiem ilustrē e-pasta pārslodzes problēmu](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+Mākslīgā intelekta kopsavilkumu rīki mēģina šīs problēmas risināt tieši, ātri izvelkot saziņas būtību, lai jūs varētu efektīvi noteikt prioritātes un palikt informēti, neiestrēgstot detaļās. Pētījumi par mākslīgo intelektu darba vidē, piemēram, tie, ko izceļ [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), rāda taustāmu produktivitātes pieaugumu, kad AI palīdz ar tādiem uzdevumiem kā kopsavilkumu veidošana un informācijas atrašana.![Infografika, kas ar galvenajiem statistikas datiem ilustrē e-pasta pārslodzes problēmu](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Ikdienā sūtīto e-pastu milzīgais apjoms izceļ nepieciešamību pēc efektīviem pārvaldības rīkiem.
 
@@ -57,9 +55,7 @@ Piekļuve funkcijai ir atkarīga no saskarnes:
 
 - **Tīmekļa saskarne:** Meklējiet pogu "Summarize this email", kas piemērotā e-pasta pavedienā parādās tieši zem tēmas rindiņas. Varat arī atvērt "Ask Gemini" sānu paneli (parasti ar mirdzuma ikonu augšējā labajā stūrī) un noklikšķināt uz ieteiktas uzvednes, piemēram, "What's this email about?", vai ierakstīt savu pieprasījumu, piemēram, "Summarize this thread."
 
-- **Mobilā lietotne (Android/iOS):** Līdzīgi kā tīmeklī, zem tēmas var parādīties poga "Summarize this email". Pieskaroties tai, kopsavilkums parasti tiek parādīts īpašā Gemini lapā vai panelī. Kopsavilkumiem un citām AI funkcijām bieži var piekļūt arī ar Gemini ikonu lietotnes augšējā joslā.
-
-![Gmail e-pasta skats, kurā zem tēmas rindiņas izcelta poga "Summarize this email"](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+- **Mobilā lietotne (Android/iOS):** Līdzīgi kā tīmeklī, zem tēmas var parādīties poga "Summarize this email". Pieskaroties tai, kopsavilkums parasti tiek parādīts īpašā Gemini lapā vai panelī. Kopsavilkumiem un citām AI funkcijām bieži var piekļūt arī ar Gemini ikonu lietotnes augšējā joslā.![Gmail e-pasta skats, kurā zem tēmas rindiņas izcelta poga "Summarize this email"](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 Gmail vietējā kopsavilkumu funkcija ir pieejama ar pogu tieši e-pasta pavedienos.
 

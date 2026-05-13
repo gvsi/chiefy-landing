@@ -152,7 +152,7 @@ Soko la zana za barua pepe za AI linapanuka kwa kasi. Je, unachaguaje inayofaa k
 
 - **Programu Zinazojitegemea:** Hizi zinaweza kutoa vipengele vipana zaidi lakini huenda zikahitaji kunakili/kubandika au kufanya kazi katika dirisha tofauti, jambo linaloweza kutatiza mtiririko isipokuwa ziwe na muunganisho bora wa kivinjari.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Picha ya skrini inayoonyesha mfano wa msaidizi wa barua pepe wa AI uliojumuishwa ndani ya kiolesura cha Gmail, kinachotoa mapendekezo., nukuu:Visaidizi vya AI vilivyojumuishwa hufanya kazi moja kwa moja ndani ya kiteja chako cha barua pepe kilichopo kwa utendakazi rahisi.]
+_Visaidizi vya AI vilivyojumuishwa hufanya kazi moja kwa moja ndani ya kiteja chako cha barua pepe kilichopo kwa utendakazi rahisi._
 
 **Orodha ya Hakiki ya Vipengele Muhimu:** Tathmini zana kulingana na vipengele muhimu zaidi kwako:
 
@@ -170,7 +170,7 @@ Soko la zana za barua pepe za AI linapanuka kwa kasi. Je, unachaguaje inayofaa k
 
 - **Bei:** Je, inatoa jaribio au mpango bila malipo? Je, gharama inahalalisha thamani?
 
-\[url:placeholder_table_features; alt_text:Jedwali linalolinganisha vipengele muhimu katika aina mbalimbali za visaidizi vya barua pepe vya AI (k.m., Kujaribu, Kuandika, Muhtasari, Kujifunza kwa Sauti)., nukuu: Tathmini zana za barua pepe za AI kulingana na vipengele vinavyoshughulikia maumivu yako makubwa.]
+_Tathmini zana za barua pepe za AI kulingana na vipengele vinavyoshughulikia maumivu yako makubwa._
 
 **Kulingana na Mahitaji:** Zana zingine ni nyongeza za tija kwa ujumla, huku zingine ni za utaalam. [Lavender inaangazia ufikiaji wa mauzo](https://www.helpscout.com/blog/ai-for-email/), huku zana zilizojumuishwa katika mifumo kama vile [Help Scout inalenga usaidizi kwa wateja](https://www.helpscout.com/blog/ai-for-email/). Chagua moja inayolingana na kisa chako cha msingi cha utumiaji.
 

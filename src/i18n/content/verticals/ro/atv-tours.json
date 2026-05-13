@@ -1,9 +1,9 @@
 {
   "slug": "atv-tours",
   "pageTitle": "Duet Mail pentru tururi ATV și UTV | Asistent de e-mail AI",
-  "metaDescription": "Duet Mail îi ajută pe ghizii turistici ATV și UTV să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu prețurile, cerințele și vocea dvs.",
+  "metaDescription": "Duet Mail îi ajută pe ghizii turistici ATV și UTV să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu prețurile, cerințele și vocea ta.",
   "heroBadge": "De încredere de peste 200 de ghizi turistici",
-  "heroHeadline": "Asistentul dvs. de e-mail în timp ce sunteți pe drum",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe drum",
   "heroSubline": "Duet învață tipurile de tur, prețurile și cerințele pentru călători, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
@@ -37,8 +37,8 @@
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "O nouă recenzie pentru înregistrarea dvs",
-      "preview": "Un călător a evaluat recent afacerea dvs. Vezi ce au de spus și răspund...",
+      "subject": "O nouă recenzie pentru înregistrarea ta",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările de asigurare în al doilea rând și zgomotul niciodată. Nu mai lipsește o întrebare de grup îngropată sub alertele TripAdvisor.",
   "draftSubtitle": "Duet învață rutele, prețurile și cerințele pentru călători. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„S-au rezervat grupuri pentru acest weekend?” „Scrieți un răspuns pentru Rachel cu disponibilitate pentru sâmbătă”. Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
+  "agentSubtitle": "„S-au rezervat grupuri pentru acest weekend?” „Scrie un răspuns pentru Rachel cu disponibilitate pentru sâmbătă”. Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -110,7 +110,7 @@
     ],
     "highlightText": "Sâmbătă este larg deschis pentru 4 mașini. Tururile costă 200 USD per mașină",
     "tooltipFeatures": [
-      "Cunoaște prețurile și rutele dvs. de tur",
+      "Cunoaște prețurile și rutele tale de tur",
       "Ciorne în vocea ta",
       "Include automat cerințele călăreților",
       "Învață în timp"
@@ -118,8 +118,8 @@
   },
   "agent": {
     "userMessage": "S-au rezervat grupuri pentru acest weekend?",
-    "agentResponse": "Pe baza căsuței primite, aveți un grup de 6 confirmat pentru sâmbătă la ora 9:00 și un cuplu rezervat pentru duminică dimineața. Sambata dupa-amiaza si duminica dupa-amiaza sunt inca deschise. Doriți să redactez un răspuns la orice întrebări în așteptare cu aceste deschideri?",
-    "followUp": "Redactați un răspuns pentru Rachel cu disponibilitate pentru sâmbătă",
+    "agentResponse": "Pe baza căsuței primite, ai un grup de 6 confirmat pentru sâmbătă la ora 9:00 și un cuplu rezervat pentru duminică dimineața. Sambata dupa-amiaza si duminica dupa-amiaza sunt inca deschise. Vrei să redactez un răspuns la orice întrebări în așteptare cu aceste deschideri?",
+    "followUp": "Redactează un răspuns pentru Rachel cu disponibilitate pentru sâmbătă",
     "followUpResponse": "Făcut! Am redactat un răspuns pentru Rachel confirmând sâmbătă pentru 4 mașini la 200 USD fiecare. Include locația standard de întâlnire, informații despre echipament și ce să purtați. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Iubit de ghizii turistici și operatori",
@@ -155,16 +155,16 @@
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Petreceți sezonul de vârf pe traseu,\nnu în căsuța dvs. de e-mail.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece sezonul de vârf pe traseu,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Duet se ocupă de întrebările privind asigurarea și renunțarea?",
-      "answer": "Da. Duet învață cerințele dumneavoastră pentru călători — asigurare de răspundere civilă, restricții de vârstă, detalii despre renunțare, ce trebuie să aducă călătorii. Când cineva trimite un e-mail întreabă de ce are nevoie înainte de turneu, Duet redactează un răspuns complet cu toate detaliile. Examinați și atingeți trimite."
+      "answer": "Da. Duet învață cerințele tale pentru călători — asigurare de răspundere civilă, restricții de vârstă, detalii despre renunțare, ce trebuie să aducă călătorii. Când cineva trimite un e-mail și întreabă de ce are nevoie înainte de tur, Duet redactează un răspuns complet cu toate detaliile. Verifici și apeși pe trimitere."
     },
     {
       "question": "Sunt pe traseu toată ziua fără serviciu de telefonie mobilă. Cum ajută Duet?",
-      "answer": "Tocmai de aceea ghizii iubesc Duet. În timp ce conduceți un tur de 6-8 ore fără semnal, solicitările de rezervare se adună. Duet scrie răspunsuri la fiecare dintre ele — prețuri, disponibilitate, locația întâlnirii, ce să poarte. Când te întorci, examinezi schițele și trimiți. Majoritatea ghidurilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
+      "answer": "Tocmai de aceea ghizii iubesc Duet. În timp ce conduci un tur de 6-8 ore fără semnal, solicitările de rezervare se adună. Duet scrie răspunsuri la fiecare dintre ele — prețuri, disponibilitate, locația întâlnirii, ce să poarte. Când te întorci, verifici schițele și trimiți. Majoritatea ghizilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
     }
   ],
   "pricingNote": "La 200 USD/mașină, un grup salvat de 4 plătește pentru peste un an de Pro."

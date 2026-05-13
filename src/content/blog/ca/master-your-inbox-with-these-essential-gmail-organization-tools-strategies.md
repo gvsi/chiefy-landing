@@ -1,5 +1,5 @@
 ---
-title: "Domineu la vostra safata d'entrada amb aquestes eines i estratègies d'organització essencials de Gmail\n"
+title: "Domineu la vostra safata d'entrada amb aquestes eines i estratègies d'organització essencials de Gmail"
 description: "Obteniu informació sobre les eines d'organització Gmail essencials, estratègies com ara Inbox Zero i GTD, i com els assistents AI us poden ajudar a dominar la vostra safata d'entrada i augmentar la productivitat."
 publishedAt: 2025-09-01
 author: "Duet Mail Team"

@@ -19,7 +19,7 @@ De eerste stap op weg naar gezonder e-mailverkeer is vaak het onder controle kri
 
 ### Op regels gebaseerd filteren en labelen (de basis)
 
-De meeste e-mailclients (zoalsGmailenOutlook) bieden basisautomatisering via regels of filters. Je kunt deze automatisch instellen:
+De meeste e-mailclients (zoals Gmail en Outlook) bieden basisautomatisering via regels of filters. Je kunt deze automatisch instellen:
 
 - Verplaats e-mails van specifieke afzenders (zoals nieuwsbrieven) naar aangewezen mappen.
 
@@ -35,7 +35,7 @@ Hoewel het eenvoudig is, biedt het instellen van deze regels onmiddellijke verli
 
 Klaar om een level omhoog te gaan? AI-e-mailassistenten tillen sorteren naar een geheel nieuwe dimensie. Tools zoals [SaneBox](https://www.sanebox.com/) gebruiken AI-algoritmen om uw e-mailgewoonten te analyseren en onbelangrijke e-mails automatisch in aparte mappen te filteren (zoals 'SaneLater'), waardoor uw hoofdinbox gereserveerd blijft voor kritieke berichten. Ze kunnen u er ook aan herinneren om e-mails waarop geen antwoord is ontvangen, op te volgen.
 
-Geavanceerdere oplossingen gaan zelfs nog verder. Dit is waar tools als [Duet Mail](https://duetmail.com/nl) uitblinken met **AI Triage**. In plaats van alleen maar te filteren, analyseertDuet Mailinkomende e-mails om de urgentie, vereiste acties of noodzakelijke beslissingen te identificeren, en presenteert deze kritieke items in een gericht dashboard. Dit betekent dat u direct ziet wat uw aandacht vraagt ​​zonder alles handmatig te scannen, waardoor de sorteertijd drastisch wordt verkort en ervoor wordt gezorgd dat cruciale communicatie niet verloren gaat.
+Geavanceerdere oplossingen gaan zelfs nog verder. Dit is waar tools als [Duet Mail](https://duetmail.com/nl) uitblinken met **AI Triage**. In plaats van alleen maar te filteren, analyseert Duet Mail inkomende e-mails om de urgentie, vereiste acties of noodzakelijke beslissingen te identificeren, en presenteert deze kritieke items in een gericht dashboard. Dit betekent dat u direct ziet wat uw aandacht vraagt ​​zonder alles handmatig te scannen, waardoor de sorteertijd drastisch wordt verkort en ervoor wordt gezorgd dat cruciale communicatie niet verloren gaat.
 
 ## Slimmere communicatie: geautomatiseerde en AI-ondersteunde antwoorden
 
@@ -57,9 +57,9 @@ Voeg gewoon de sjabloon in, personaliseer deze indien nodig en druk op verzenden
 
 ### Hulp bij het opstellen van AI (je stem leren)
 
-De echte game-changer is AI die helpt bij het *schrijven* van uw e-mails. Tools zoals [Flowrite](https://flowrite.com/) kunnen korte instructies omzetten in kant-en-klare e-mails. Andere AI-assistenten, zoals [Compose AI](https://www.compose.ai/) ofGmail's Smart Compose, bieden intelligente automatische aanvullingen en suggesties terwijl u typt.
+De echte game-changer is AI die helpt bij het *schrijven* van uw e-mails. Tools zoals [Flowrite](https://flowrite.com/) kunnen korte instructies omzetten in kant-en-klare e-mails. Andere AI-assistenten, zoals [Compose AI](https://www.compose.ai/) of Gmail's Smart Compose, bieden intelligente automatische aanvullingen en suggesties terwijl u typt.
 
-De meest geavanceerde tools leren echter jouw unieke communicatiestijl kennen. [Duet Mail's authentieke AI-opstelling](https://duetmail.com/nl) analyseert uw in het verleden verzonden berichten om uw specifieke toon, woordenschat en frasering te begrijpen. Wanneer u moet antwoorden, worden er meerdere contextbewuste conceptopties voorgesteld die echt op *jij* lijken. Dit versnelt de reactietijden aanzienlijk, terwijl de persoonlijke benadering die cruciaal is voor professionele relaties behouden blijft.
+De meest geavanceerde tools leren echter jouw unieke communicatiestijl kennen. [Duet Mail authentieke AI-opstelling](https://duetmail.com/nl) analyseert uw in het verleden verzonden berichten om uw specifieke toon, woordenschat en frasering te begrijpen. Wanneer u moet antwoorden, worden er meerdere contextbewuste conceptopties voorgesteld die echt op *jij* lijken. Dit versnelt de reactietijden aanzienlijk, terwijl de persoonlijke benadering die cruciaal is voor professionele relaties behouden blijft.
 
 ## Mis nooit meer een beat: automatisering voor planning en follow-ups
 
@@ -109,11 +109,9 @@ Tools zoals [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-gs) 
 
 ### Geautomatiseerde informatieverzameling en samenvatting
 
-Heeft u te maken met lange e-mailthreads of rapporten? AI transformeert de manier waarop we deze informatie consumeren. AI-tools kunnen lange e-mails of hele discussies automatisch samenvatten en er belangrijke punten, beslissingen en actiepunten uit halen. [Superhuman](https://superhuman.com/ai) biedt een automatische samenvattingsfunctie, en tools zoalsMicrosoftCopilot inOutlookbieden ook samenvattingen. Platforms zoals [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) en [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) bieden speciale AI-samenvattingen.
+Heeft u te maken met lange e-mailthreads of rapporten? AI transformeert de manier waarop we deze informatie consumeren. AI-tools kunnen lange e-mails of hele discussies automatisch samenvatten en er belangrijke punten, beslissingen en actiepunten uit halen. [Superhuman](https://superhuman.com/ai) biedt een automatische samenvattingsfunctie, en tools zoals Microsoft Copilot in Outlook bieden ook samenvattingen. Platforms zoals [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) en [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) bieden speciale AI-samenvattingen.
 
-Dit bespaart enorm veel tijd bij het op gang komen van complexe gesprekken. [Duet Mailbevat **Slimme samenvatting** met contextueel bewustzijn](https://duetmail.com/nl), wat betekent dat het niet alleen lange discussies condenseert, maar ook details over eerder genoemde projecten en relaties onthoudt, waardoor samenvattingen zeer relevant en bruikbaar zijn.
-
-![Screenshot met de slimme functie voor het samenvatten van e-mails vanDuet Mail, waarbij een lange e-mailthread wordt samengevat in kernpunten en actie-items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Dit bespaart enorm veel tijd bij het op gang komen van complexe gesprekken. [Duet Mail bevat **Slimme samenvatting** met contextueel bewustzijn](https://duetmail.com/nl), wat betekent dat het niet alleen lange discussies condenseert, maar ook details over eerder genoemde projecten en relaties onthoudt, waardoor samenvattingen zeer relevant en bruikbaar zijn.![Screenshot met de slimme functie voor het samenvatten van e-mails van Duet Mail, waarbij een lange e-mailthread wordt samengevat in kernpunten en actie-items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## De kracht van automatisering: in cijfers
 

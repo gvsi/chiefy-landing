@@ -3,7 +3,7 @@ title: "सर्वाधिक उत्पादनक्षमतेसा�
 description: "स्मार्ट ड्राफ्टिंग, सारांश आणि त्रायाज यांसारखी वैशिष्ट्ये वापरून Gmail AI एक्स्टेंशन ईमेलचा भार कसा कमी करते आणि उत्पादनक्षमता कशी वाढवते ते जाणून घ्या."
 publishedAt: 2025-04-15
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Tools"]
+tags: ["AI", "Gmail", "उत्पादकता", "साधने"]
 draft: false
 ---
 

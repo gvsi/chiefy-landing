@@ -6,13 +6,13 @@
   "hero": {
     "badge": "এখন Gmail এবং Outlook এর জন্য উপলব্ধ",
     "headlinePrefix": "আপনার ",
-    "headlineHighlight": "স্টাফ প্রধান",
-    "headlineSuffix": " জন্য",
+    "headlineHighlight": "ইমেল চিফ অফ স্টাফ",
+    "headlineSuffix": ":",
     "rotatingFeatures": [
-      "বাছাই ইমেল",
-      "খসড়া উত্তর",
-      "সময়সূচী",
-      "উত্তর খোঁজা"
+      "ইমেল সাজানো",
+      "উত্তরের খসড়া লেখা",
+      "সময়সূচি করা",
+      "উত্তর খুঁজে দেওয়া"
     ],
     "subline": "ইমেলে প্রতি সপ্তাহে 4+ ঘন্টা সংরক্ষণ করুন",
     "primaryCta": "Gmail দিয়ে শুরু করুন",
@@ -224,27 +224,27 @@
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: এই সপ্তাহে কুইক সিঙ্ক?",
+      "originalFrom": "Alex Rivera লিখেছেন:",
+      "originalText": "হ্যালো! রোডম্যাপের পরিবর্তনগুলো নিয়ে আলোচনা করতে পারলে ভালো লাগবে। এই সপ্তাহে ৩০ মিনিটের একটি কলের জন্য আপনি কি ফ্রি আছেন? আপনার জন্য কোনটা সুবিধাজনক হয়, আমাকে জানান।",
+      "badge": "অটোড্রাফটেড",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "হেই অ্যালেক্স!",
+        "রোডম্যাপ নিয়ে আলোচনা করতে পারলে খুব ভালো লাগবে। আমি বৃহস্পতিবার দুপুর ২টা থেকে ৪টা অথবা শুক্রবার সকালে ফ্রি আছি — যেকোনো একটা সময়ই আমার জন্য সুবিধাজনক।",
+        "আপনার জন্য কোনটা সবচেয়ে সুবিধাজনক হবে আমাকে জানান, আমি একটি আমন্ত্রণপত্র পাঠিয়ে দেব।",
+        "ধন্যবাদ!"
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "আমি বৃহস্পতিবার দুপুর ২টা থেকে ৪টা অথবা শুক্রবার সকালে ফ্রি আছি।",
       "actions": [
-        "Send",
-        "Edit"
+        "পাঠান",
+        "সম্পাদনা"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "ব্যক্তিগত খসড়া",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "আপনার ক্যালেন্ডার জানে",
+        "আপনার কণ্ঠে খসড়া",
+        "স্মৃতির মাধ্যমে প্রেক্ষাপট জানে",
+        "সময়ের সাথে সাথে শেখে"
       ]
     }
   },
@@ -630,32 +630,32 @@
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - AI Gmail এবং Outlook এর জন্য ইমেল সহকারী",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "গ্রাহক সহায়তা",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
+    "softwareDescription": "Gmail এবং Outlook-এর জন্য AI ইমেল অ্যাসিস্ট্যান্ট, যা স্বয়ংক্রিয়ভাবে ইমেলগুলির সারসংক্ষেপ করে, আপনার কণ্ঠে উত্তরের খসড়া তৈরি করে এবং আপনার ইনবক্স গুছিয়ে রাখে, ফলে প্রতি সপ্তাহে আপনার ঘণ্টার পর ঘণ্টা সময় বাঁচে।",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "স্মার্ট ইমেল সংগঠন এবং শ্রেণিবিন্যাস",
+      "AI-এর সাহায্যে আপনার নিজস্ব ভঙ্গিতে ইমেল খসড়া তৈরি করুন",
+      "ক্যালেন্ডার ইন্টিগ্রেশন সহ বুদ্ধিমান ইমেল সহকারী",
+      "স্বয়ংক্রিয় ইমেল সারাংশ এবং করণীয় বিষয়",
+      "ফলোআপের জন্য স্মার্ট রিমাইন্ডার"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "বেসিক প্ল্যান",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "তাৎক্ষণিক সারাংশ, AI ড্রাফট এবং স্মার্ট ইনবক্সসহ ফ্রি প্ল্যান"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro প্ল্যান",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "স্মার্ট ইনবক্স শ্রেণিবিন্যাস, AI ড্রাফট, সহকারী এবং ক্যালেন্ডার ইন্টিগ্রেশনসহ পূর্ণ অ্যাক্সেস"
       }
     ],
     "aggregateRating": {
@@ -663,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "JavaScript প্রয়োজন। Gmail, Google Workspace এবং Microsoft Outlook-এর সঙ্গে কাজ করে।",
     "urls": {
       "site": "https://duetmail.com/",
       "logo": "https://duetmail.com/favicon.svg",
@@ -676,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail আমার ইমেইল ডেটা কীভাবে সুরক্ষিত রাখে?",
+        "answer": "আপনার নিরাপত্তাই আমাদের সর্বোচ্চ অগ্রাধিকার। আমরা নিরাপদ প্রমাণীকরণের জন্য OAuth 2.0 ব্যবহার করি, যা Google এবং Microsoft উভয়ের সাথেই কাজ করে। ইমেলের বিষয়বস্তু ক্লায়েন্ট-সাইড ফিল্ড-লেভেল এনক্রিপশন ব্যবহার করে সংরক্ষিত অবস্থায় এনক্রিপ্ট করা হয়, এবং আমরা এপিআই (API) অ্যাক্সেসের জন্য সর্বনিম্ন বিশেষাধিকারের নীতি অনুসরণ করি। আমাদের Google ইন্টিগ্রেশনের জন্য, আমরা Google-এর বার্ষিক CASA নিরাপত্তা মূল্যায়নের মধ্য দিয়ে যাই।"
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "ইমেইল সারাংশ বৈশিষ্ট্যটি কীভাবে কাজ করে?",
+        "answer": "Duet Mail আপনার ইমেল থ্রেডগুলি বিশ্লেষণ করতে এবং মূল বিষয়, সিদ্ধান্ত এবং করণীয় বিষয়গুলি তুলে ধরে একটি সংক্ষিপ্ত সারসংক্ষেপ তৈরি করতে উন্নত AI ব্যবহার করে। এটি আপনাকে পুরো থ্রেডটি না পড়েই দ্রুত প্রেক্ষাপট বুঝতে সাহায্য করে।"
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail এর কী কী অনুমতি প্রয়োজন?",
+        "answer": "সারাংশ প্রদান, করণীয় বিষয়গুলো বের করা, কন্টেন্ট তৈরি করা এবং আপনার ইমেল পাঠানোর জন্য Duet Mail-এর আপনার ইমেলগুলিতে অ্যাক্সেসের প্রয়োজন হয়। আমরা শুধুমাত্র সেই অনুমতিগুলোই চাই যা আমাদের একান্ত প্রয়োজন। আপনি আপনার Google Account বা Microsoft Account সেটিংসে যেকোনো সময় এই অনুমতিগুলো পর্যালোচনা এবং প্রত্যাহার করতে পারেন।"
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "ফ্রি ট্রায়ালে কী কী অন্তর্ভুক্ত আছে?",
+        "answer": "১৪ দিনের ফ্রি ট্রায়ালে সব Pro ফিচারের পূর্ণ অ্যাক্সেস থাকে: সীমাহীন ইমেল সারাংশ, করণীয় বিষয় বের করা, AI ইমেল লেখক (কোনো সীমা ছাড়াই ইমেল ও ড্রাফট তৈরি), এবং কাস্টম ইমেল টেমপ্লেট। ইমেল ব্যবস্থাপনায় সময় বাঁচানো শুরু করতে Google বা Microsoft দিয়ে সাইন ইন করুন।"
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "আমি কি অন্যান্য ইমেল প্রদানকারীদের সাথে Duet Mail ব্যবহার করতে পারি?",
+        "answer": "Duet Mail, Gmail, Google Workspace, এবং Microsoft Outlook সমর্থন করে। শুরু করার জন্য আপনার Google বা Microsoft অ্যাকাউন্ট দিয়ে সাইন ইন করুন।"
       }
     ]
   }

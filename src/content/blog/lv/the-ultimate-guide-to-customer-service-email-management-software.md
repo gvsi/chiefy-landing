@@ -35,9 +35,7 @@ Kad vairāki komandas locekļi apmeklē vienu un to pašu vispārīgo iesūtni (
 
 ### Datu aklums: akls skatījums uz veiktspēju
 
-Kā jūs varat uzlabot savu e-pasta atbalstu, ja nezināt, kas darbojas un kas ne? Pamata e-pasta sistēmas piedāvā mazu vai nekādu pārredzamību tādos svarīgos rādītājos kā atbildes laiki, problēmu risināšanas rādītāji vai aģentu produktivitāte. Bez datiem vājo vietu identificēšana, bieži sastopamu klientu problēmu izpratne vai atbalsta centienu efektivitātes mērīšana kļūst par minējumiem. Jūs būtībā esat neapzinīgs, nespējot pieņemt pamatotus lēmumus, lai optimizētu veiktspēju.
-
-![Informācijas panelis, kurā redzami klientu apkalpošanas rādītāji ar sarkanu brīdinājumu par vidējo e-pasta atbildes laiku, kas norāda uz neefektivitāti](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+Kā jūs varat uzlabot savu e-pasta atbalstu, ja nezināt, kas darbojas un kas ne? Pamata e-pasta sistēmas piedāvā mazu vai nekādu pārredzamību tādos svarīgos rādītājos kā atbildes laiki, problēmu risināšanas rādītāji vai aģentu produktivitāte. Bez datiem vājo vietu identificēšana, bieži sastopamu klientu problēmu izpratne vai atbalsta centienu efektivitātes mērīšana kļūst par minējumiem. Jūs būtībā esat neapzinīgs, nespējot pieņemt pamatotus lēmumus, lai optimizētu veiktspēju.![Informācijas panelis, kurā redzami klientu apkalpošanas rādītāji ar sarkanu brīdinājumu par vidējo e-pasta atbildes laiku, kas norāda uz neefektivitāti](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 Lēns e-pasta atbildes laiks tieši ietekmē klientu apmierinātību un var novest pie zaudētiem darījumiem.
 
@@ -141,7 +139,7 @@ Efektīvs komandas darbs ir ļoti svarīgs. Meklējiet funkcijas, kas ļauj aģe
 
 - **Uzdevumu piešķiršana:** Ar e-pastu saistītu apakšuzdevumu izveide un to piešķiršana konkrētiem komandas locekļiem.
 
-### Mākslīgais intelekts aģentam Pro produktivitātei un uzlabotai kvalitātei
+### Mākslīgais intelekts aģentam produktivitātei un uzlabotai kvalitātei
 
 Mākslīgais intelekts ne tikai automatizē uzdevumus; tas aktīvi palīdz aģentiem strādāt gudrāk un sniegt augstākas kvalitātes pakalpojumus.
 
@@ -194,10 +192,7 @@ Pareizās programmatūras izvēle ir tikai puse no uzvaras. Tas, kā jūs to iev
 
 - **Nepārtraukti uzlabojiet:** Regulāri pārskatiet veiktspējas analīzi, lai noteiktu tendences un vājās vietas. Aktīvi pieprasiet un analizējiet klientu atsauksmes, izmantojot aptaujas vai tiešus pieprasījumus. Izmantojiet šīs atziņas, lai nepārtraukti pilnveidotu savas darbplūsmas, automatizācijas noteikumus, gatavās atbildes un aģentu apmācības programmas.
 
-\
-
-
-  ![Attēls, kurā redzams klientu apkalpošanas aģents, kurš izmanto programmatūru ar mākslīgā intelekta ieteikumiem, lai izveidotu personalizētu un iejūtīgu e-pasta atbildi.](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+\![Attēls, kurā redzams klientu apkalpošanas aģents, kurš izmanto programmatūru ar mākslīgā intelekta ieteikumiem, lai izveidotu personalizētu un iejūtīgu e-pasta atbildi.](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 Mākslīgā intelekta efektivitātes līdzsvarošana ar cilvēka empātiju ir izcilas klientu apkalpošanas atslēga.
 

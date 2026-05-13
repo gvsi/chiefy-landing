@@ -1,9 +1,9 @@
 ---
-title: "Ψάχνετε για μια εναλλακτική λύση Polymail; Κορυφαία εργαλεία παραγωγικότητας email για πολυάσχολους επαγγελματίες το 2025\n"
+title: "Ψάχνετε για μια εναλλακτική λύση Polymail; Κορυφαία εργαλεία παραγωγικότητας email για πολυάσχολους επαγγελματίες το 2025"
 description: "Ψάχνετε για μια εναλλακτική Polymail; Συγκρίνετε τα Superhuman, Missive, Spark, Shortwave και Duet Mail για παραγωγικότητα email AI."
 publishedAt: 2025-08-21
 author: "Duet Mail Team"
-tags: ["AI\n","Παραγωγικότητα\n","Εργαλεία","Email"]
+tags: ["AI","Παραγωγικότητα","Εργαλεία","Email"]
 draft: false
 ---
 

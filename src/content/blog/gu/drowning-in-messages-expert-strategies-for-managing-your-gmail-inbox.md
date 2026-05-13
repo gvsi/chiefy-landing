@@ -3,7 +3,7 @@ title: "મેસેજમાં ડૂબી રહ્યા છો? તમા�
 description: "ઈમેલ ઓવરલોડ રોકો! તમારા Gmail ઇનબોક્સને સંચાલિત કરવાની નિષ્ણાત વ્યૂહરચનાઓ શીખો—ક્લાસિક રીતોથી લઈને AI ટૂલ્સ સુધી—અને તમારી ઉત્પાદકતા પાછી મેળવો."
 publishedAt: 2025-07-04
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Inbox Management", "Email"]
+tags: ["AI", "Gmail", "ઇનબોક્સ મેનેજમેન્ટ", "ઈમેઇલ"]
 draft: false
 ---
 

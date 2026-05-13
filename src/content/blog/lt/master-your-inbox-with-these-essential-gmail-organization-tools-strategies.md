@@ -95,9 +95,7 @@ Gmail taip pat turi įrankių komunikacijos _laikui_ ir _efektyvumui_ valdyti:
 
 ## Patikrintos sistemos: Gmail el. pašto valdymo metodikos
 
-Tinkami įrankiai būtini, bet be sistemos vis tiek galite jaustis priblokšti. Patikrinta el. pašto valdymo metodika suteikia pagrindą šiuos įrankius naudoti veiksmingai.
-
-![Grafika, iliustruojanti Inbox Zero sąvoką, galbūt rodanti švarius gautuosius arba tvarkingą darbo stalą](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+Tinkami įrankiai būtini, bet be sistemos vis tiek galite jaustis priblokšti. Patikrinta el. pašto valdymo metodika suteikia pagrindą šiuos įrankius naudoti veiksmingai.![Grafika, iliustruojanti Inbox Zero sąvoką, galbūt rodanti švarius gautuosius arba tvarkingą darbo stalą](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Tokios metodikos kaip Inbox Zero suteikia sistemą efektyviai apdoroti el. laiškus.
 
@@ -197,9 +195,7 @@ Gmail iš esmės nebuvo sukurtas sudėtingam komandos bendradarbiavimui ar vizua
 
 ## Ateitis jau čia: kaip DI keičia Gmail organizavimą
 
-Už rankinių taisyklių ir trečiųjų šalių integracijų yra kitas etapas: dirbtinis intelektas. DI el. pašto asistentai peržengia paprastą rūšiavimą ir suteikia išmanią automatizaciją, suprantančią kontekstą ir besimokančią jūsų pageidavimų. DI naudojimui versle sparčiai augant ir rodant didelį produktyvumo potencialą, jo poveikis el. pašto valdymui yra gilus.
-
-![Iliustracija, vaizduojanti DI robotą, išmaniai rūšiuojantį ir prioritetizuojantį el. laiškus modernioje futuristinėje kompiuterio sąsajoje](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+Už rankinių taisyklių ir trečiųjų šalių integracijų yra kitas etapas: dirbtinis intelektas. DI el. pašto asistentai peržengia paprastą rūšiavimą ir suteikia išmanią automatizaciją, suprantančią kontekstą ir besimokančią jūsų pageidavimų. DI naudojimui versle sparčiai augant ir rodant didelį produktyvumo potencialą, jo poveikis el. pašto valdymui yra gilus.![Iliustracija, vaizduojanti DI robotą, išmaniai rūšiuojantį ir prioritetizuojantį el. laiškus modernioje futuristinėje kompiuterio sąsajoje](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 DI keičia el. pašto valdymą išmania atranka, santraukomis ir juodraščių rengimu.
 

@@ -3,7 +3,7 @@ title: "Шукаєте альтернативу Polymail? Найпопулярн
 description: "Шукаєте альтернативу Polymail? Порівняйте Superhuman, Missive, Spark, Shortwave і Duet Mail для продуктивності електронної пошти AI."
 publishedAt: 2025-08-21
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Tools", "Email"]
+tags: ["AI", "Продуктивність", "Інструменти", "Електронна пошта"]
 draft: false
 ---
 

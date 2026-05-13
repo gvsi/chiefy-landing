@@ -34,12 +34,12 @@
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "ট্রিপঅ্যাডভাইজার",
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকার জন্য নতুন পর্যালোচনা",
       "preview": "একজন ভ্রমণকারী সম্প্রতি আপনার ব্যবসা পর্যালোচনা করেছেন৷ দেখুন তারা কি বলে এবং প্রতিক্রিয়া জানায়...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -85,7 +85,7 @@
       "avatarLetter": "Y",
       "avatarColor": "lavender",
       "subject": "আপনার সাপ্তাহিক ব্যবসা আপডেট",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: শনিবারে ৪টি মেশিন পাওয়া যাবে কি?",
+    "originalFrom": "Rachel W. লিখেছেন:",
+    "originalText": "হ্যালো! আমরা চারজন এই শনিবার একটি গাইডেড এটিভি ট্যুর বুক করতে চাই। আপনাদের কি জায়গা আছে? প্রতি মেশিনের দাম কত?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "এই Rachel!",
+      "শনিবার ৪টি মেশিনের জন্য সম্পূর্ণ উন্মুক্ত। প্রতিটি মেশিনের জন্য ট্যুরের খরচ ২০০ ডলার এবং এটি সকাল ৯টায় ট্রেইলহেড থেকে শুরু হয়ে ৬-৮ ঘণ্টা ধরে চলে।",
+      "হেলমেট ও গগলস সরবরাহ করা হবে — শুধু লম্বা প্যান্ট ও বন্ধ জুতো পরবেন এবং সাথে জল ও সানস্ক্রিন আনবেন। আপনার অংশগ্রহণ নিশ্চিত হলে আমি মিলিত হওয়ার স্থান ও দিকনির্দেশনা পাঠিয়ে দেব।",
+      "তুমি কি চাও আমি তোমাকে ভেতরে আটকে রাখি?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "শনিবার ৪টি মেশিনের জন্য সম্পূর্ণ উন্মুক্ত। প্রতিটি মেশিনের জন্য পরিদর্শনের ফি ২০০ ডলার।",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "আপনার মূল্য নির্ধারণ এবং ভ্রমণ পথ সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "রাইডারের প্রয়োজনীয়তা স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

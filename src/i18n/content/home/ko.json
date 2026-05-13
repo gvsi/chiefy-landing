@@ -215,7 +215,7 @@
   "draftShowcase": {
     "ariaLabel": "AI 이메일 초안 작성 및 답변 생성",
     "badge": "제도",
-    "title": "당신의 목소리로 듀엣 초안을 작성하세요",
+    "title": "당신의 목소리로 Duet 초안을 작성하세요",
     "subtitle": "Duet은 귀하의 작성 방법을 학습하고 귀하의 어조에 맞는 답변 초안을 작성합니다. 필요한 경우 검토하고 조정한 후 몇 초 안에 보내세요.",
     "windowTitle": "새 메시지",
     "fieldLabels": {
@@ -253,7 +253,7 @@
     "badge": "지능",
     "title": "이메일에 관해 무엇이든 물어보세요",
     "subtitle": "Duet에게 이메일 찾기, 캘린더 확인, 답장 초안 작성을 요청하세요. 받은 편지함을 이해하고 즉시 답변합니다.",
-    "windowTitle": "듀엣 에이전트",
+    "windowTitle": "Duet 에이전트",
     "onlineLabel": "온라인",
     "initialUserMessage": "회계팀에서 보낸 Stripe 송장을 찾을 수 있나요?",
     "processingText": "받은편지함 검색 중...",
@@ -390,7 +390,7 @@
             "description": "시작하기 위한 기본 조직"
           },
           {
-            "title": "듀엣 어시스턴트",
+            "title": "Duet 어시스턴트",
             "description": "AI 어시스턴트를 사용해 보세요"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "듀엣 어시스턴트",
+            "title": "Duet 어시스턴트",
             "description": "채팅을 통해 찾기, 초안 작성, 정리 등",
             "highlight": true
           },
@@ -480,7 +480,7 @@
     "contactLabel": "연락하다",
     "contactHeading": "아직도 질문이 있으신가요?",
     "contactCta": "연락하기 →",
-    "footerBrand": "듀엣 메일",
+    "footerBrand": "Duet Mail",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
@@ -623,9 +623,9 @@
     "ariaLabel": "투자 수익",
     "label": "수학",
     "narrativeTemplate": "{bookingUnit}당 {pricePerBooking}에서 느린 응답으로 인해 {lostPerMonth}만 손실됨 =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/mo",
     "dividerLabel": "vs",
-    "duetLabel": "이중주",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {

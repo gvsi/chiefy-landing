@@ -3,8 +3,8 @@
   "pageTitle": "Duet Mail pentru școli de surf și operatori de paddleboard | AI Asistent de e-mail",
   "metaDescription": "Duet Mail ajută instructorii de surf și operatorii de paddleboard să răspundă instantaneu la e-mailurile de rezervare – chiar și în timp ce predau. Răspunsuri redactate de AI cu tipurile de lecții, prețuri și voce.",
   "heroBadge": "De încredere de peste 300 de instructori de surf",
-  "heroHeadline": "Asistentul dvs. de e-mail în timp ce predați pe apă",
-  "heroSubline": "Duet vă învață tipurile de lecții, prețurile și condițiile, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare din cauza unui răspuns lent.",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce predai pe apă",
+  "heroSubline": "Duet îți învață tipurile de lecții, prețurile și condițiile, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -52,8 +52,8 @@
     "punchline": "Două rezervări salvate plătesc pentru un an de Duet."
   },
   "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi rezervările de lecții, întrebările în al doilea rând și zgomotul niciodată. Nu mai lipsește o anchetă de grup școlar îngropată sub alertele Yelp.",
-  "draftSubtitle": "Duet vă învață tipurile de lecții, prețurile de grup și tonul. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Vor rezervări de grup săptămâna aceasta?” „Elaborați un răspuns la școală cu disponibilitate.” Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
+  "draftSubtitle": "Duet îți învață tipurile de lecții, prețurile de grup și tonul. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Vor rezervări de grup săptămâna aceasta?” „Redactează un răspuns pentru școală cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -119,7 +119,7 @@
   "agent": {
     "userMessage": "Vreo rezervări de grup săptămâna aceasta?",
     "agentResponse": "Aveți două rezervări de grup săptămâna aceasta: Rachel T. sâmbătă (6 persoane, 9 AM) și Westside Elementary miercuri (25 de studenți, excursie de la 10 AM). Aveți și o întrebare în așteptare de la James P. despre închirierea de paddleboard. Vrei să redactez un răspuns?",
-    "followUp": "Redactați un răspuns către școală, confirmând detaliile excursiei",
+    "followUp": "Redactează un răspuns către școală, confirmând detaliile excursiei",
     "followUpResponse": "Făcut! Am redactat un răspuns pentru Westside Elementary confirmând data de 15 mai pentru 25 de studenți la ora 10 AM. Include tariful pentru grupul de școală, ceea ce este furnizat, cerințele privind permisiunea și politica de anulare. Gata de revizuire și de trimis."
   },
   "testimonialsTitle": "Iubit de instructorii de surf",
@@ -155,8 +155,8 @@
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Petrece-ți vara în valuri,\nnu în căsuța dvs. de e-mail.",
-  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
+  "ctaHeadline": "Petrece-ți vara în valuri,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
       "question": "Duet gestionează diferite tipuri de lecții și închirieri de echipamente?",
@@ -164,7 +164,7 @@
     },
     {
       "question": "Dar întrebările despre vreme și condiții?",
-      "answer": "Duet află cum gestionați în mod obișnuit e-mailurile privind condițiile - politicile dvs. privind anulările, reprogramarea și condițiile în care predați. Când cineva vă trimite prin e-mail dacă lecția va continua, Duet redactează un răspuns care se potrivește cu tonul și politica obișnuite. Examinați și trimiteți în câteva secunde."
+      "answer": "Duet află cum gestionezi în mod obișnuit e-mailurile privind condițiile - politicile tale privind anulările, reprogramarea și condițiile în care predai. Când cineva îți trimite e-mail să întrebe dacă lecția va continua, Duet redactează un răspuns care se potrivește cu tonul și politica obișnuite. Verifici și trimiți în câteva secunde."
     }
   ],
   "pricingNote": "La 90 USD/lecție, două rezervări salvate plătesc peste un an de Pro."

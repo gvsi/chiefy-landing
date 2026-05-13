@@ -100,7 +100,7 @@
         "mockCopy": {
           "sentencePrefix": "Es ierosinu ",
           "sentenceHighlight": "tikties nākamnedēļ",
-          "sentenceSuffix": " ?",
+          "sentenceSuffix": "?",
           "actionTitle": "Jauns veicamais uzdevums",
           "actionLead": "Es atradu šos brīvos laikus jūsu kalendārā",
           "slots": [

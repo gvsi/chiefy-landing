@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mailför forsränning och kajakutrustning | AI e-postassistent",
-  "metaDescription": "Duet Mailhjälper forsränningsguider och kajakutrustningar att svara på reseförfrågningar direkt - även från floden. AI-utkastade svar med dina resedetaljer, priser och röst.",
+  "pageTitle": "Duet Mail för forsränning och kajakutrustning | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper forsränningsguider och kajakutrustningar att svara på reseförfrågningar direkt - även från floden. AI-utkastade svar med dina resedetaljer, priser och röst.",
   "heroBadge": "Betrodd av 200+ flodguider",
   "heroHeadline": "Din e-postassistent när du är på floden",
-  "heroSubline": "Duetlär sig dina resetyper, prissättning och redskapslistor – förbereder sedan svar på bokningsförfrågningar så att kunderna får svar medan du springer forsar.",
+  "heroSubline": "Duet lär sig dina resetyper, prissättning och redskapslistor – förbereder sedan svar på bokningsförfrågningar så att kunderna får svar medan du springer forsar.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "person",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Två sparade bokningar betalar för ett helt år påDuet."
+    "punchline": "Två sparade bokningar betalar för ett helt år på Duet."
   },
-  "categorizationSubtitle": "Duettaggar automatiskt varje e-postmeddelande så att reseförfrågningar dyker upp först, växlingsfrågor sedan och kampanjljudet försvinner. Saknar inte längre en gruppbokning begravd under TripAdvisor-varningar.",
-  "draftSubtitle": "Duetlär sig dina resetyper, forsklasser, redskapslistor och avbokningsregler. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med allt kunden behöver. Du granskar och skickar.",
-  "agentSubtitle": "\"Några lediga platser på lördagens heldag?\" \"Skapa ett svar till Jennifer med tillgänglighet.\"Duetkänner till din inkorg och schema — fråga bara.",
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att reseförfrågningar dyker upp först, växlingsfrågor sedan och kampanjljudet försvinner. Saknar inte längre en gruppbokning begravd under TripAdvisor-varningar.",
+  "draftSubtitle": "Duet lär sig dina resetyper, forsklasser, redskapslistor och avbokningsregler. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med allt kunden behöver. Du granskar och skickar.",
+  "agentSubtitle": "\"Några lediga platser på lördagens heldag?\" \"Skapa ett svar till Jennifer med tillgänglighet.\"Duet känner till din inkorg och schema — fråga bara.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "Under högsäsong är jag på floden 6 dagar i veckan. När jag kom tillbaka till mejlen hade hälften av grupperna redan bokat med någon annan. Nu skriverDuetutkast till svar med resedetaljer och prissättning medan jag är vid insättningen.",
+      "quote": "Under högsäsong är jag på floden 6 dagar i veckan. När jag kom tillbaka till mejlen hade hälften av grupperna redan bokat med någon annan. Nu skriver Duet utkast till svar med resedetaljer och prissättning medan jag är vid insättningen.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Kajak & SUP Tours, OR",
-      "quote": "Varje kund ställer samma fem frågor – prissättning, vad man ska ta med sig, kompetensnivå, gruppstorlek, avbokningsregler.Duetlärde sig allt under den första veckan. Jag gick från en timmes mejl varje kväll till fem minuters granskning av utkast.",
+      "quote": "Varje kund ställer samma fem frågor – prissättning, vad man ska ta med sig, kompetensnivå, gruppstorlek, avbokningsregler.Duet lärde sig allt under den första veckan. Jag gick från en timmes mejl varje kväll till fem minuters granskning av utkast.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Flerdagars expeditionsguide, AK",
-      "quote": "Jag kör 5-dagarsresor med nollcellsservice. InnanDuetvar alla förfrågningar obesvarade tills jag var tillbaka i stan. Nu får kunderna ett detaljerat svar inom några minuter och jag bekräftar när jag är utanför floden.",
+      "quote": "Jag kör 5-dagarsresor med nollcellsservice. Innan Duet var alla förfrågningar obesvarade tills jag var tillbaka i stan. Nu får kunderna ett detaljerat svar inom några minuter och jag bekräftar när jag är utanför floden.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "River Adventures kontorschef, WV",
-      "quote": "Jag hanterar bokningar för tre guider över fyra resetyper.Duetkategoriserar varje e-postmeddelande efter brådskande och utkast till svar med rätt resa, rätt pris, rätt utrustningslista. Det är som att klona mig själv.",
+      "quote": "Jag hanterar bokningar för tre guider över fyra resetyper.Duet kategoriserar varje e-postmeddelande efter brådskande och utkast till svar med rätt resa, rätt pris, rätt utrustningslista. Det är som att klona mig själv.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "HanterarDuetanpassade reseofferter och flerdagarsexpeditionsförfrågningar?",
-      "answer": "Ja.Duetlär sig hela resan – halvdagsflottor, heldagsforsar, flerdagarsexpeditioner – tillsammans med priser, vad som ingår, åldersminimi och svårighetsgrad. När någon frågar om en 3-dagarsresa för 6, utarbetar den ett komplett svar med rätt detaljer. Du granskar, justerar om det behövs och skickar."
+      "question": "Hanterar Duet anpassade reseofferter och flerdagarsexpeditionsförfrågningar?",
+      "answer": "Ja. Duet lär sig hela resan – halvdagsflottor, heldagsforsar, flerdagarsexpeditioner – tillsammans med priser, vad som ingår, åldersminimi och svårighetsgrad. När någon frågar om en 3-dagarsresa för 6, utarbetar den ett komplett svar med rätt detaljer. Du granskar, justerar om det behövs och skickar."
     },
     {
-      "question": "Jag är off-grid på flerdagarsresor. FungerarDuetfortfarande?",
-      "answer": "Det är precis det problemetDuetlöser. Medan du är på floden utan signal,DuetsvararDuetpå varje förfrågan som kommer in. När du är tillbaka inom räckhåll väntar dina utkast - bara granska och skicka. De flesta guider berättar för oss att det eliminerar eftersläpningen de brukade möta efter varje flerdagarsresa."
+      "question": "Jag är off-grid på flerdagarsresor. Fungerar Duet fortfarande?",
+      "answer": "Det är precis det problemet Duet löser. Medan du är på floden utan signal,Duet svarar Duet på varje förfrågan som kommer in. När du är tillbaka inom räckhåll väntar dina utkast - bara granska och skicka. De flesta guider berättar för oss att det eliminerar eftersläpningen de brukade möta efter varje flerdagarsresa."
     }
   ],
   "pricingNote": "För $150/person täcker två sparade bokningar ett helt år påPro."

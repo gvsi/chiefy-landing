@@ -3,7 +3,7 @@ title: "Poza automatyczną odpowiedzią: jak AI responder e-mail odzyskuje Twój
 description: "Toniesz w e-mailach? Odkryj, jak nowoczesny AI responder e-mail zamienia skrzynkę odbiorczą ze źródła stresu w silnik produktywności. Zacznij radzić sobie z nadmiarem już dziś"
 publishedAt: 2025-04-26
 author: "Duet Mail Team"
-tags: ["AI", "Productivity", "Email Writing"]
+tags: ["AI", "Produktywność", "Pisanie e-maili"]
 draft: false
 ---
 

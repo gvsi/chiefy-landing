@@ -32,9 +32,9 @@
       "Outlook"
     ],
     "emailTimes": [
-      "3:PRV0END",
-      "2:PRV0END",
-      "10:PRV0END",
+      "15:42",
+      "14:18",
+      "10:05",
       "Včera"
     ],
     "autodraftLabel": "Autodraft",
@@ -174,9 +174,9 @@
       "Outlook"
     ],
     "emailTimes": [
-      "2:PRV0END",
-      "11:PRV0END",
-      "9:PRV0END",
+      "14:34",
+      "11:05",
+      "9:22",
       "Včera",
       "20. prosince"
     ],
@@ -293,15 +293,15 @@
       "calendarIntro": "Zítra máte volné 3 sloty:",
       "calendarSlots": [
         {
-          "time": "9:PRV0END",
+          "time": "9:30",
           "duration": "30 min"
         },
         {
-          "time": "2:PRV0END",
+          "time": "14:00",
           "duration": "30 min"
         },
         {
-          "time": "4:PRV0END",
+          "time": "16:30",
           "duration": "30 min"
         }
       ],
@@ -364,7 +364,7 @@
     "billingAnnual": "Výroční",
     "billingMonthly": "Měsíční",
     "savingsTag": "Ušetřete 33 %",
-    "priceCadence": "/month",
+    "priceCadence": "/měsíc",
     "perUserSuffix": "/user",
     "annualBillingSuffix": "(účtováno ročně)",
     "trustItems": [
@@ -375,7 +375,7 @@
       {
         "name": "Základní",
         "description": "Pro každého, kdo by byl zvědavý, jak vypadá chytřejší schránka. Není vyžadován žádný závazek.",
-        "priceLabel": "Uvolnit",
+        "priceLabel": "Bezplatně",
         "features": [
           {
             "title": "Okamžitá shrnutí",
@@ -467,7 +467,7 @@
           }
         ],
         "ctaLabel": "Kontaktujte prodej",
-        "ctaNote": "Zakázková dostupná cena"
+        "ctaNote": "Dostupná vlastní cena"
       }
     ]
   },
@@ -623,7 +623,7 @@
     "ariaLabel": "Návratnost investice",
     "label": "Matematika",
     "narrativeTemplate": "Při {pricePerBooking} za {bookingUnit}, ztráta pouze {lostPerMonth} kvůli pomalým odpovědím =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/měs. pryč",
     "dividerLabel": "vs",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"

@@ -3,7 +3,7 @@ title: "कमाल उत्पादकता उघडा: 2025 मध्य
 description: "2025 मधील सर्वोत्तम Gmail साधने आणि AI सहाय्यक शोधा, जेणेकरून ओव्हरलोड हाताळता येईल, उत्पादकता वाढेल आणि तुमचा दिवस परत मिळेल"
 publishedAt: 2025-05-18
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Productivity", "Inbox Management"]
+tags: ["AI", "Gmail", "उत्पादकता", "इनबॉक्स व्यवस्थापन"]
 draft: false
 ---
 

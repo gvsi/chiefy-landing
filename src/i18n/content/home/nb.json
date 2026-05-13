@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI e-postassistent for Gmail og Outlook",
-    "description": "Duet Mails AI-e-postassistent oppsummerer e-poster, skriver utkast til svar og organiserer innboksen din. Fungerer med Gmail og Outlook. Spar 4+ timer ukentlig."
+    "title": "Duet Mail | AI-e-postassistent for Gmail og Outlook",
+    "description": "Duet Mail s AI-e-postassistent oppsummerer e-poster, skriver utkast til svar og organiserer innboksen din. Fungerer med Gmail og Outlook. Spar 4+ timer ukentlig."
   },
   "hero": {
     "badge": "Nå tilgjengelig for Gmail og Outlook",
@@ -37,7 +37,7 @@
       "10:05",
       "I går"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Automatisk utkast",
     "emails": [
       {
         "from": "Alex Rivera",
@@ -100,7 +100,7 @@
         "mockCopy": {
           "sentencePrefix": "Jeg foreslår at vi",
           "sentenceHighlight": "møtes neste uke",
-          "sentenceSuffix": " ?",
+          "sentenceSuffix": "?",
           "actionTitle": "Nytt handlingselement",
           "actionLead": "Jeg fant disse gratis spilleautomatene i kalenderen din",
           "slots": [
@@ -215,7 +215,7 @@
   "draftShowcase": {
     "ariaLabel": "AI e-postutkast og generering av svar",
     "badge": "Utkast",
-    "title": "Duettutkast i stemmen din",
+    "title": "Duet tutkast i stemmen din",
     "subtitle": "Duet lærer hvordan du skriver og utarbeider svar som samsvarer med tonen din. Se gjennom, juster om nødvendig, og send på sekunder.",
     "windowTitle": "Ny melding",
     "fieldLabels": {
@@ -253,7 +253,7 @@
     "badge": "Intelligens",
     "title": "Spør hva som helst om e-posten din",
     "subtitle": "Be Duet om å finne e-poster, sjekke kalenderen din eller skrive et svar. Den forstår innboksen din og svarer umiddelbart.",
-    "windowTitle": "Duettagent",
+    "windowTitle": "Duet tagent",
     "onlineLabel": "Online",
     "initialUserMessage": "Finner du Stripe-fakturaen sendt av regnskap?",
     "processingText": "Søker innboks...",
@@ -276,7 +276,7 @@
     "inputPlaceholder": "Spør hva som helst...",
     "dynamicResponses": {
       "processingDefault": "Proavslutter...",
-      "processingDraft": "Genererer utkast ...",
+      "processingDraft": "Genererer utkast...",
       "processingCalendar": "Sjekker tilgjengelighet...",
       "draftIntro": "Her er et utkast til svar til regnskap:",
       "draftHeader": "Utkast: accounting@company.com",
@@ -364,8 +364,8 @@
     "billingAnnual": "Årlig",
     "billingMonthly": "Månedlig",
     "savingsTag": "Spar 33 %",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/md.",
+    "perUserSuffix": "/bruker",
     "annualBillingSuffix": "(faktureres årlig)",
     "trustItems": [
       "Sikker utsjekking via Stripe",
@@ -375,7 +375,7 @@
       {
         "name": "Grunnleggende",
         "description": "For alle som er nysgjerrige på hvordan en smartere innboks føles. Ingen forpliktelse kreves.",
-        "priceLabel": "Free",
+        "priceLabel": "Gratis",
         "features": [
           {
             "title": "Øyeblikkelige sammendrag",
@@ -390,7 +390,7 @@
             "description": "Grunnleggende organisasjon å starte"
           },
           {
-            "title": "Duettassistent",
+            "title": "Duet tassistent",
             "description": "Prøv AI-assistenten"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duettassistent",
+            "title": "Duet tassistent",
             "description": "Chat for å finne, utarbeide, organisere og mer",
             "highlight": true
           },
@@ -625,16 +625,16 @@
     "narrativeTemplate": "Ved {pricePerBooking} per {bookingUnit}, taper bare {lostPerMonth} til trege svar =",
     "lossSuffix": "/mo gone",
     "dividerLabel": "vs",
-    "duetLabel": "Duett",
+    "duetLabel": "Duet t",
     "duetPrice": "$30/md"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI e-postassistent for Gmail og Outlook",
+    "websiteAlternateName": "Duet - AI-e-postassistent for Gmail og Outlook",
     "organizationName": "Duet Mail",
     "organizationContactType": "Kundestøtte",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI e-postassistent for Gmail og Outlook som automatisk oppsummerer e-poster, utkast til svar med stemmen din og organiserer innboksen din for å spare timer hver uke.",
+    "softwareDescription": "AI-e-postassistent for Gmail og Outlook som automatisk oppsummerer e-poster, utkast til svar med stemmen din og organiserer innboksen din for å spare timer hver uke.",
     "applicationCategory": "Kommunikasjonsapplikasjon",
     "featureList": [
       "Smart e-postorganisering og kategorisering",

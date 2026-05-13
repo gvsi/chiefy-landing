@@ -3,7 +3,7 @@ title: "Kā uzrakstīt Pro profesionālu e-pastu: rakstiet skaidri, ietaupiet la
 description: "Uzziniet, kā rakstīt profesionālus e-pastus, kas veido uzticību un ietaupa laiku. Apgūstiet tēmas rindiņas, toni, struktūru un etiķeti. Uzlabojiet savu karjeras komunikāciju."
 publishedAt: 2025-05-27
 author: "Duet Mail Team"
-tags: ["Mākslīgais intelekts", "Proproduktivitāte", "E-pasta rakstīšana"]
+tags: ["Mākslīgais intelekts", "Produktivitāte", "E-pasta rakstīšana"]
 draft: false
 ---
 
@@ -103,11 +103,7 @@ Noslēdziet e-pastu eleganti un norādiet nepieciešamo kontaktinformāciju.
 
 - **Pēc izvēles (bet bieži vien noderīgi)**: Uzņēmuma tīmekļa vietne, LinkedIn Pro faila saite, fiziskā adrese (ja piemērojama).
 
-- **Formatējums**: Izmantojiet kodolīgu tekstu ([**ieteicams ne vairāk kā 4–5 rindiņas**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), profesionālus un [**tīmeklim drošus fontus**](https://www.mailerlite.com/blog/email-signature-best-practices) (piemēram, Arial, Calibri) un krāsas, kas atbilst jūsu zīmolam. Pārliecinieties, ka tas ir [**piemērots mobilajām ierīcēm**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Izvairieties no nevajadzīgiem attēliem, lieliem logotipiem vai iedvesmojošiem citātiem.
-
-
-
-![Tīra profesionāla e-pasta paraksta piemērs ar vārdu, amatu, uzņēmumu, tālruņa numuru, vietni un LinkedIn saiti](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+- **Formatējums**: Izmantojiet kodolīgu tekstu ([**ieteicams ne vairāk kā 4–5 rindiņas**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), profesionālus un [**tīmeklim drošus fontus**](https://www.mailerlite.com/blog/email-signature-best-practices) (piemēram, Arial, Calibri) un krāsas, kas atbilst jūsu zīmolam. Pārliecinieties, ka tas ir [**piemērots mobilajām ierīcēm**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Izvairieties no nevajadzīgiem attēliem, lieliem logotipiem vai iedvesmojošiem citātiem.![Tīra profesionāla e-pasta paraksta piemērs ar vārdu, amatu, uzņēmumu, tālruņa numuru, vietni un LinkedIn saiti](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Tīrs, profesionāls e-pasta paraksts ietver svarīgu kontaktinformāciju bez liekas informācijas pārblīvējuma.
 

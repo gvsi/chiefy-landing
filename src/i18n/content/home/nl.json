@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Duet Mail| AI-e-mailassistent voorGmailenOutlook",
-    "description": "De AI-e-mailassistent vanDuet Mailvat e-mails samen, stelt antwoorden op en organiseert uw inbox. Werkt metGmailenOutlook. Bespaar 4+ uur per week."
+    "title": "Duet Mail | AI-e-mailassistent voor Gmail en Outlook",
+    "description": "De AI-e-mailassistent van Duet Mail vat e-mails samen, stelt antwoorden op en organiseert uw inbox. Werkt met Gmail en Outlook. Bespaar 4+ uur per week."
   },
   "hero": {
-    "badge": "Nu beschikbaar voorGmailenOutlook",
+    "badge": "Nu beschikbaar voor Gmail en Outlook",
     "headlinePrefix": "Jouw ",
     "headlineHighlight": "stafchef",
     "headlineSuffix": " voor",
@@ -15,8 +15,8 @@
       "antwoorden vinden"
     ],
     "subline": "Bespaar elke week meer dan 4 uur aan e-mail",
-    "primaryCta": "Begin metGmail",
-    "secondaryCta": "Begin metOutlook",
+    "primaryCta": "Begin met Gmail",
+    "secondaryCta": "Begin met Outlook",
     "trialNote": "Gratis proefperiode van 14 dagen",
     "cancelNote": "Annuleer op elk gewenst moment"
   },
@@ -37,7 +37,7 @@
       "10:05 AM",
       "Gisteren"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Automatisch concept",
     "emails": [
       {
         "from": "Alex Rivera",
@@ -78,12 +78,12 @@
     "ariaLabel": "Kenmerken",
     "eyebrow": "Uw inbox, supercharged",
     "title": "Je inbox mag niet jouw dag bepalen",
-    "subtitle": "Transformeer chaos in duidelijkheid met AI die u daadwerkelijk te pakken krijgt.\nBespaar elke week meer dan 3 uur met de slimste e-mailassistent voorGmailenOutlook.",
+    "subtitle": "Transformeer chaos in duidelijkheid met AI die u daadwerkelijk te pakken krijgt.\nBespaar elke week meer dan 3 uur met de slimste e-mailassistent voor Gmail en Outlook.",
     "cards": [
       {
         "id": "drafts",
         "title": "E-mailconcepten die op u lijken",
-        "description": "DuetAI-e-mailschrijver bereidt concepten voor voor uw belangrijkste e-mails. Het leert uw toon en schrijfstijl.",
+        "description": "Duet AI-e-mailschrijver bereidt concepten voor voor uw belangrijkste e-mails. Het leert uw toon en schrijfstijl.",
         "ariaLabel": "E-mailconcepten die op u lijken",
         "mockCopy": {
           "draftedColdEmail": "Ik heb een koude e-mail opgesteld, gepersonaliseerd voor John",
@@ -100,7 +100,7 @@
         "mockCopy": {
           "sentencePrefix": "Ik stel wij voor ",
           "sentenceHighlight": "volgende week ontmoeten",
-          "sentenceSuffix": " ?",
+          "sentenceSuffix": "?",
           "actionTitle": "Nieuw actie-item",
           "actionLead": "Ik heb deze vrije plaatsen in je agenda gevonden",
           "slots": [
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligente herinneringen",
-        "description": "Stel het in en vergeet het.DuetAI onthoudt om op te volgen als anderen niet reageren, zodat er niets door de kieren valt.",
+        "description": "Stel het in en vergeet het.Duet AI onthoudt om op te volgen als anderen niet reageren, zodat er niets door de kieren valt.",
         "ariaLabel": "Intelligente herinneringen",
         "mockCopy": {
           "header": "AI-aangedreven slimme herinneringen",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "E-mailorganisatie en slimme inboxcategorisering",
     "badge": "Organisatie",
-    "title": "Duetorganiseert uw inbox",
+    "title": "Duet organiseert uw inbox",
     "subtitle": "Automatische categorisatie filtert ruis en brengt naar voren wat belangrijk is. Zie direct wat actie nodig heeft, wat ter informatie is en wat kan wachten.",
     "windowTitle": "Postvak IN",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI-e-mail opstellen en antwoorden genereren",
     "badge": "Opstellen",
-    "title": "Duettocht in je stem",
-    "subtitle": "Duetleert hoe u antwoorden schrijft en opstelt die bij uw toon passen. Controleer, pas indien nodig aan en verzend binnen enkele seconden.",
+    "title": "Duet tocht in je stem",
+    "subtitle": "Duet leert hoe u antwoorden schrijft en opstelt die bij uw toon passen. Controleer, pas indien nodig aan en verzend binnen enkele seconden.",
     "windowTitle": "Nieuw bericht",
     "fieldLabels": {
       "to": "Aan:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI e-mailintelligentie en assistent",
     "badge": "Intelligentie",
     "title": "Vraag alles over uw e-mail",
-    "subtitle": "VraagDuetom e-mails te vinden, uw agenda te bekijken of een antwoord op te stellen. Het begrijpt uw ​​inbox en antwoordt onmiddellijk.",
-    "windowTitle": "DuetAgent",
+    "subtitle": "Vraag Duet om e-mails te vinden, uw agenda te bekijken of een antwoord op te stellen. Het begrijpt uw ​​inbox en antwoordt onmiddellijk.",
+    "windowTitle": "Duet Agent",
     "onlineLabel": "Online",
     "initialUserMessage": "Kunt u deStripefactuur vinden die door Accounting is verzonden?",
     "processingText": "Postvak IN zoeken...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Freelancer",
-        "quote": "Elke cent waard. De tijd die ik bespaar op e-mail levertDuet Mail10x meer op. Ik kan me niet voorstellen dat ik nu zonder zou werken.",
+        "quote": "Elke cent waard. De tijd die ik bespaar op e-mail levert Duet Mail 10x meer op. Ik kan me niet voorstellen dat ik nu zonder zou werken.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Adviseur",
-        "quote": "Als consultant telt elke minuut.Duet Mailbespaart mij niet alleen tijd, het maakt mijn e-mailcommunicatie ook scherper.",
+        "quote": "Als consultant telt elke minuut.Duet Mail bespaart mij niet alleen tijd, het maakt mijn e-mailcommunicatie ook scherper.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,11 +390,11 @@
             "description": "Basisorganisatie om te beginnen"
           },
           {
-            "title": "DuetAssistent",
+            "title": "Duet Assistent",
             "description": "Probeer de AI-assistent"
           }
         ],
-        "ctaLabel": "KiesGmailofOutlook"
+        "ctaLabel": "Kies Gmail of Outlook"
       },
       {
         "name": "Pro",
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "DuetAssistent",
+            "title": "Duet Assistent",
             "description": "Chat om te vinden, op te stellen, te organiseren en meer",
             "highlight": true
           },
@@ -437,7 +437,7 @@
             "description": "Echte mensen, snelle reacties"
           }
         ],
-        "ctaLabel": "KiesGmailofOutlook",
+        "ctaLabel": "Kies Gmail of Outlook",
         "featured": true
       },
       {
@@ -487,24 +487,24 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "Hoe beschermtDuet Mailmijn e-mailgegevens?",
-        "answer": "Uw veiligheid is onze topprioriteit. We gebruikenOAuth2.0 voor veilige authenticatie met zowelGooglealsMicrosoft. E-mailinhoud wordt in rust versleuteld met behulp van versleuteling op veldniveau aan de clientzijde, en we volgen het principe van minimale privileges voor API-toegang. Voor onzeGoogle-integratie ondergaan we de jaarlijkseCASA-beveiligingsbeoordeling vanGoogle."
+        "question": "Hoe beschermt Duet Mail mijn e-mailgegevens?",
+        "answer": "Uw veiligheid is onze topprioriteit. We gebruiken OAuth 2.0 voor veilige authenticatie met zowel Google als Microsoft. E-mailinhoud wordt in rust versleuteld met behulp van versleuteling op veldniveau aan de clientzijde, en we volgen het principe van minimale privileges voor API-toegang. Voor onze Google-integratie ondergaan we de jaarlijkse CASA-beveiligingsbeoordeling van Google."
       },
       {
         "question": "Hoe werkt de functie voor e-mailoverzichten?",
-        "answer": "Duet Mailmaakt gebruik van geavanceerde AI om uw e-mailthreads te analyseren en een beknopt overzicht te genereren waarin de belangrijkste punten, beslissingen en actiepunten worden benadrukt. Dit helpt je snel de context te begrijpen zonder de hele thread te lezen."
+        "answer": "Duet Mail maakt gebruik van geavanceerde AI om uw e-mailthreads te analyseren en een beknopt overzicht te genereren waarin de belangrijkste punten, beslissingen en actiepunten worden benadrukt. Dit helpt je snel de context te begrijpen zonder de hele thread te lezen."
       },
       {
-        "question": "Welke machtigingen heeftDuet Mailnodig?",
-        "answer": "Duet Mailvereist toegang tot uw e-mails om samenvattingen te geven, actie-items te extraheren, inhoud te genereren en uw e-mails te verzenden. Wij vragen alleen toestemmingen die wij absoluut nodig hebben. U kunt deze machtigingen op elk gewenst moment bekijken en intrekken in uwGoogleAccount ofMicrosoftAccountinstellingen."
+        "question": "Welke machtigingen heeft Duet Mail nodig?",
+        "answer": "Duet Mail vereist toegang tot uw e-mails om samenvattingen te geven, actie-items te extraheren, inhoud te genereren en uw e-mails te verzenden. Wij vragen alleen toestemmingen die wij absoluut nodig hebben. U kunt deze machtigingen op elk gewenst moment bekijken en intrekken in uw Google Account of Microsoft Accountinstellingen."
       },
       {
         "question": "Wat is inbegrepen in de gratis proefperiode?",
-        "answer": "De gratis proefperiode van 14 dagen biedt volledige toegang tot allePro-functies: onbeperkte e-mailsamenvattingen, extractie van actie-items, AI-e-mailschrijver (zonder enige beperking e-mails en concepten genereren) en aangepaste e-mailsjablonen. Meld u aan metGoogleofMicrosoftom tijd te besparen op e-mailbeheer."
+        "answer": "De gratis proefperiode van 14 dagen biedt volledige toegang tot alle Pro-functies: onbeperkte e-mailsamenvattingen, extractie van actie-items, AI-e-mailschrijver (zonder enige beperking e-mails en concepten genereren) en aangepaste e-mailsjablonen. Meld u aan met Google of Microsoft om tijd te besparen op e-mailbeheer."
       },
       {
-        "question": "Kan ikDuet Mailgebruiken met andere e-mailproviders?",
-        "answer": "Duet MailondersteuntGmail,GoogleWerkruimte enMicrosoftOutlook. Meld u aan met uwGoogle- ofMicrosoft-account om aan de slag te gaan."
+        "question": "Kan ik Duet Mail gebruiken met andere e-mailproviders?",
+        "answer": "Duet Mail ondersteunt Gmail, Google Workspace en Microsoft Outlook. Meld u aan met uw Google- of Microsoft-account om aan de slag te gaan."
       }
     ]
   },
@@ -512,11 +512,11 @@
     "ariaLabel": "Ga aan de slag",
     "headline": "Krijg 4 uur terug.\nElke week.",
     "subline": "Sluit u aan bij de professionals die hun dag helder beginnen, en niet in chaos. Je gratis proefperiode wacht.",
-    "primaryCta": "Begin metGmail",
-    "secondaryCta": "Begin metOutlook",
+    "primaryCta": "Begin met Gmail",
+    "secondaryCta": "Begin met Outlook",
     "note": "Gratis proefperiode van 14 dagen · Annuleer op elk moment",
     "trustItems": [
-      "GoogleCASA-beoordeeld",
+      "Google CASA-beoordeeld",
       "Versleuteld in rust",
       "VeiligOAuth2.0"
     ]
@@ -525,8 +525,8 @@
     "ariaLabel": "Voettekst van de site",
     "brandIconAlt": "Duet Mail-pictogram",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail— De AI-e-mailassistent waarmee u elke week uren bespaart",
-    "copyrightTemplate": "Duet Mail©{year}",
+    "tagline": "Duet Mail — De AI-e-mailassistent waarmee u elke week uren bespaart",
+    "copyrightTemplate": "Duet Mail ©{year}",
     "groups": [
       {
         "title": "Ontdek",
@@ -630,11 +630,11 @@
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet- AI-e-mailassistent voorGmailenOutlook",
+    "websiteAlternateName": "Duet - AI-e-mailassistent voor Gmail en Outlook",
     "organizationName": "Duet Mail",
     "organizationContactType": "Klantenondersteuning",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI-e-mailassistent voorGmailenOutlookdie automatisch e-mails samenvat, antwoorden in uw stem opstelt en uw inbox organiseert om elke week uren te besparen.",
+    "softwareDescription": "AI-e-mailassistent voor Gmail en Outlook die automatisch e-mails samenvat, antwoorden in uw stem opstelt en uw inbox organiseert om elke week uren te besparen.",
     "applicationCategory": "CommunicatieApplicatie",
     "featureList": [
       "Slimme e-mailorganisatie en categorisering",
@@ -663,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Vereist JavaScript. Werkt metGmail,GoogleWerkruimte enMicrosoftOutlook.",
+    "browserRequirements": "Vereist JavaScript. Werkt met Gmail, Google Workspace en Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/nl",
       "logo": "https://duetmail.com/favicon.svg",
@@ -676,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "Hoe beschermtDuet Mailmijn e-mailgegevens?",
-        "answer": "Uw veiligheid is onze topprioriteit. We gebruikenOAuth2.0 voor veilige authenticatie met zowelGooglealsMicrosoft. E-mailinhoud wordt in rust versleuteld met behulp van versleuteling op veldniveau aan de clientzijde, en we volgen het principe van minimale privileges voor API-toegang. Voor onzeGoogle-integratie ondergaan we de jaarlijkseCASA-beveiligingsbeoordeling vanGoogle."
+        "question": "Hoe beschermt Duet Mail mijn e-mailgegevens?",
+        "answer": "Uw veiligheid is onze topprioriteit. We gebruiken OAuth 2.0 voor veilige authenticatie met zowel Google als Microsoft. E-mailinhoud wordt in rust versleuteld met behulp van versleuteling op veldniveau aan de clientzijde, en we volgen het principe van minimale privileges voor API-toegang. Voor onze Google-integratie ondergaan we de jaarlijkse CASA-beveiligingsbeoordeling van Google."
       },
       {
         "question": "Hoe werkt de functie voor e-mailoverzichten?",
-        "answer": "Duet Mailmaakt gebruik van geavanceerde AI om uw e-mailthreads te analyseren en een beknopt overzicht te genereren waarin de belangrijkste punten, beslissingen en actiepunten worden benadrukt. Dit helpt je snel de context te begrijpen zonder de hele thread te lezen."
+        "answer": "Duet Mail maakt gebruik van geavanceerde AI om uw e-mailthreads te analyseren en een beknopt overzicht te genereren waarin de belangrijkste punten, beslissingen en actiepunten worden benadrukt. Dit helpt je snel de context te begrijpen zonder de hele thread te lezen."
       },
       {
-        "question": "Welke machtigingen heeftDuet Mailnodig?",
-        "answer": "Duet Mailvereist toegang tot uw e-mails om samenvattingen te geven, actie-items te extraheren, inhoud te genereren en uw e-mails te verzenden. Wij vragen alleen toestemmingen die wij absoluut nodig hebben. U kunt deze machtigingen op elk gewenst moment bekijken en intrekken in uwGoogleAccount ofMicrosoftAccountinstellingen."
+        "question": "Welke machtigingen heeft Duet Mail nodig?",
+        "answer": "Duet Mail vereist toegang tot uw e-mails om samenvattingen te geven, actie-items te extraheren, inhoud te genereren en uw e-mails te verzenden. Wij vragen alleen toestemmingen die wij absoluut nodig hebben. U kunt deze machtigingen op elk gewenst moment bekijken en intrekken in uw Google Account of Microsoft Accountinstellingen."
       },
       {
         "question": "Wat is inbegrepen in de gratis proefperiode?",
-        "answer": "De gratis proefperiode van 14 dagen biedt volledige toegang tot allePro-functies: onbeperkte e-mailsamenvattingen, extractie van actie-items, AI-e-mailschrijver (zonder enige beperking e-mails en concepten genereren) en aangepaste e-mailsjablonen. Meld u aan metGoogleofMicrosoftom tijd te besparen op e-mailbeheer."
+        "answer": "De gratis proefperiode van 14 dagen biedt volledige toegang tot alle Pro-functies: onbeperkte e-mailsamenvattingen, extractie van actie-items, AI-e-mailschrijver (zonder enige beperking e-mails en concepten genereren) en aangepaste e-mailsjablonen. Meld u aan met Google of Microsoft om tijd te besparen op e-mailbeheer."
       },
       {
-        "question": "Kan ikDuet Mailgebruiken met andere e-mailproviders?",
-        "answer": "Duet MailondersteuntGmail,GoogleWerkruimte enMicrosoftOutlook. Meld u aan met uwGoogle- ofMicrosoft-account om aan de slag te gaan."
+        "question": "Kan ik Duet Mail gebruiken met andere e-mailproviders?",
+        "answer": "Duet Mail ondersteunt Gmail, Google Workspace en Microsoft Outlook. Meld u aan met uw Google- of Microsoft-account om aan de slag te gaan."
       }
     ]
   }

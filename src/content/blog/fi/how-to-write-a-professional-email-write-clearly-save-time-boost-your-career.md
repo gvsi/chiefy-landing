@@ -3,7 +3,7 @@ title: "Kuinka kirjoittaa ammattimainen sähköposti: Kirjoita selkeästi, sää
 description: "Opi kirjoittamaan ammattimaisia ​​sähköposteja, jotka rakentavat luottamusta ja säästävät aikaa. Hallitse aiherivit, sävy, rakenne ja etiketti. Tehosta uraviestintääsi"
 publishedAt: 2025-05-27
 author: "Duet Mail Team"
-tags: ["AI", "Tuottavuus\nAutomaatio", "Sähköpostin kirjoittaminen"]
+tags: ["AI", "Tuottavuus", "Sähköpostin kirjoittaminen"]
 draft: false
 ---
 Hukkuuko postilaatikkoosi? Et ole yksin. Vuonna 2025 päivittäin lähetettävän [**376 miljardin sähköpostin ennustetaan olevan huikea määrä**](https://www.dash.app/blog/email-marketing-statistics), joten ei ole ihme, että keskivertoammattilainen käyttää [**noin 5 tuntia viikossa**](https://www.dragapp.com/blog/effects-of-email-overload/) vain viestien hallintaan eli noin [**28 % työviikostaan**](https://hiverhq.com/blog/ai-email-triage). Tämä jatkuva vedenpaisumus ei ole vain aikaa vievää; se on merkittävä stressin lähde ja heikentää tuottavuutta.
@@ -102,11 +102,7 @@ Lopeta sähköpostisi kauniisti ja anna tarvittavat yhteystiedot.
 
   – **Valinnainen (mutta usein hyödyllinen)**: Yrityksen verkkosivusto, LinkedIn-profiililinkki, fyysinen osoite (jos tarpeen).
 
-  – **Muotoilu**: Pidä se ytimekkäänä ([**4–5 riviä enintään suositeltava**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), käytä ammattimaisia ​​ja [**verkkoturvallisia fontteja**](https://www.mailerlite.com/blog/email-signature-best-practices) (kuten Arial, Calibri) ja tuotemerkkisi mukaisia ​​värejä. Varmista, että se on [**mobiiliystävällinen**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vältä tarpeettomia kuvia, suuria logoja tai inspiroivia lainauksia.
-
-
-
-![Esimerkki puhtaasta ammattimaisesta sähköpostin allekirjoituksesta, jossa on nimi, arvonimi, yritys, puhelin, verkkosivusto ja LinkedIn-linkki](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+  – **Muotoilu**: Pidä se ytimekkäänä ([**4–5 riviä enintään suositeltava**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), käytä ammattimaisia ​​ja [**verkkoturvallisia fontteja**](https://www.mailerlite.com/blog/email-signature-best-practices) (kuten Arial, Calibri) ja tuotemerkkisi mukaisia ​​värejä. Varmista, että se on [**mobiiliystävällinen**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vältä tarpeettomia kuvia, suuria logoja tai inspiroivia lainauksia.![Esimerkki puhtaasta ammattimaisesta sähköpostin allekirjoituksesta, jossa on nimi, arvonimi, yritys, puhelin, verkkosivusto ja LinkedIn-linkki](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Puhdas, ammattimainen sähköpostin allekirjoitus sisältää tärkeät yhteystiedot ilman sotkua.
 

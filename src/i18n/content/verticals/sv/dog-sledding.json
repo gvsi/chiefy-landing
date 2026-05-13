@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mailför hundspannturer | AI e-postassistent",
-  "metaDescription": "Duet Mailhjälper körare att svara på bokningsmeddelanden direkt – även från leden. AI-utkastade svar med dina turnétyper, priser, policyer och röst.",
+  "pageTitle": "Duet Mail för hundspannturer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper körare att svara på bokningsmeddelanden direkt – även från leden. AI-utkastade svar med dina turnétyper, priser, policyer och röst.",
   "heroBadge": "Betrodd av 200+ förare",
   "heroHeadline": "Din e-postassistent när du är på spåren",
-  "heroSubline": "Duetlär sig dina resetyper, priser, väderpolicyer och tillägg – förbereder sedan e-postsvar så att du aldrig förlorar en bokning på grund av ett långsamt svar.",
+  "heroSubline": "Duet lär sig dina resetyper, priser, väderpolicyer och tillägg – förbereder sedan e-postsvar så att du aldrig förlorar en bokning på grund av ett långsamt svar.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "turné",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Två sparade bokningar betalar för ett år avDuet."
+    "punchline": "Två sparade bokningar betalar för ett år av Duet."
   },
-  "categorizationSubtitle": "Duettaggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, frågor sedan och aldrig brus. Saknar inte längre en turförfrågan begravd under TripAdvisor-varningar.",
-  "draftSubtitle": "Duetlär sig dina turnétyper, prissättning och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med paketdetaljer, vad man ska ha på sig och tillägg. Du granskar och skickar.",
-  "agentSubtitle": "\"Några bokningar i helgen?\" \"Skapa ett svar om aurora-kombinationen.\"Duetkänner till din inkorg och schema — fråga bara.",
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, frågor sedan och aldrig brus. Saknar inte längre en turförfrågan begravd under TripAdvisor-varningar.",
+  "draftSubtitle": "Duet lär sig dina turnétyper, prissättning och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med paketdetaljer, vad man ska ha på sig och tillägg. Du granskar och skickar.",
+  "agentSubtitle": "\"Några bokningar i helgen?\" \"Skapa ett svar om aurora-kombinationen.\"Duet känner till din inkorg och schema — fråga bara.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Slädehundsresearrangör, AK",
-      "quote": "Jag är på spåret 6 timmar om dagen med noll cellservice. När jag skulle komma tillbaka hade hälften av bokningsförfrågningarna gått till en annan outfit.Duetutkast till svar med mina turnédetaljer och priser – gäster hör av sig på några minuter, inte timmar.",
+      "quote": "Jag är på spåret 6 timmar om dagen med noll cellservice. När jag skulle komma tillbaka hade hälften av bokningsförfrågningarna gått till en annan outfit.Duet utkast till svar med mina turnédetaljer och priser – gäster hör av sig på några minuter, inte timmar.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "Vi erbjuder kennelbesök, mysturer och aurorakombinationer - varje e-postmeddelande behöver ett annat svar.Duethar listat ut alla tre turtyperna under en vecka och har nu utkast till svar som matchar rätt paket varje gång.",
+      "quote": "Vi erbjuder kennelbesök, mysturer och aurorakombinationer - varje e-postmeddelande behöver ett annat svar.Duet har listat ut alla tre turtyperna under en vecka och har nu utkast till svar som matchar rätt paket varje gång.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Hundspannsguide, MN",
-      "quote": "Jag brukade ägna varje kväll åt att svara på samma frågor om vad jag skulle ha på mig, åldersgränser och hundarna.Duethanterar allt. Jag kommer hem från stigen och allt är utarbetat och väntar.",
+      "quote": "Jag brukade ägna varje kväll åt att svara på samma frågor om vad jag skulle ha på mig, åldersgränser och hundarna.Duet hanterar allt. Jag kommer hem från stigen och allt är utarbetat och väntar.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Väderavstängningar är konstanta på vintern.Duetutkast till ombokning av svar med vår policy och alternativa datum innan jag ens får en chans att kolla min telefon. Gästerna älskar den snabba responsen.",
+      "quote": "Väderavstängningar är konstanta på vintern.Duet utkast till ombokning av svar med vår policy och alternativa datum innan jag ens får en chans att kolla min telefon. Gästerna älskar den snabba responsen.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Family Dog Sled Adventures, CO",
-      "quote": "Föräldrar frågar alltid om deras barn kan mosa, om hundarna är vänliga, vad de ska ha på sig - samma 10 frågor.Duetlärde sig varje svar och formulerar dem perfekt. Det är som att klona mig själv för e-post.",
+      "quote": "Föräldrar frågar alltid om deras barn kan mosa, om hundarna är vänliga, vad de ska ha på sig - samma 10 frågor.Duet lärde sig varje svar och formulerar dem perfekt. Det är som att klona mig själv för e-post.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Hur hanterarDuetväderinställelser och norrskens osäkerhet?",
-      "answer": "Duetlär sig dina avboknings- och ombokningspolicyer. När en gäst skickar e-postmeddelanden om väderproblem eller norrskens synlighet, utarbetar den ett svar med din policy, alternativa datum och alla relevanta detaljer – som att övervaka förhållanden och bekräfta närmare turnén. Du granskar och skickar."
+      "question": "Hur hanterar Duet väderinställelser och norrskens osäkerhet?",
+      "answer": "Duet lär sig dina avboknings- och ombokningspolicyer. När en gäst skickar e-postmeddelanden om väderproblem eller norrskens synlighet, utarbetar den ett svar med din policy, alternativa datum och alla relevanta detaljer – som att övervaka förhållanden och bekräfta närmare turnén. Du granskar och skickar."
     },
     {
-      "question": "Jag erbjuder flera turtyper med olika priser och tillägg. KanDuethålla dem raka?",
-      "answer": "Ja.Duetlär sig var och en av dina turtyper – kennelbesök, mush-upplevelser, norrskenskombinationer, fototillägg, transportpaket – tillsammans med deras prissättning, varaktighet och vad som ingår. När en förfrågan kommer in matchar den rätt tur och utkastar ett svar med korrekta uppgifter."
+      "question": "Jag erbjuder flera turtyper med olika priser och tillägg. Kan Duet hålla dem raka?",
+      "answer": "Ja. Duet lär sig var och en av dina turtyper – kennelbesök, mush-upplevelser, norrskenskombinationer, fototillägg, transportpaket – tillsammans med deras prissättning, varaktighet och vad som ingår. När en förfrågan kommer in matchar den rätt tur och utkastar ett svar med korrekta uppgifter."
     }
   ],
   "pricingNote": "För $150/turné betalar två sparade bokningar för över ett år avPro."

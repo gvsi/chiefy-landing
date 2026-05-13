@@ -3,7 +3,7 @@ title: "या आवश्यक Gmail संघटन साधने आण�
 description: "आवश्यक Gmail संघटन साधने, Inbox Zero आणि GTD सारख्या रणनीती, आणि AI सहाय्यक तुमचा इनबॉक्स कसा मास्टर करण्यात आणि उत्पादकता वाढवण्यात मदत करू शकतात ते शिका."
 publishedAt: 2025-09-01
 author: "Duet Mail Team"
-tags: ["AI", "Gmail", "Inbox Management", "Tools"]
+tags: ["AI", "Gmail", "इनबॉक्स व्यवस्थापन", "साधने"]
 draft: false
 ---
 

@@ -364,7 +364,7 @@
     "billingAnnual": "Letna",
     "billingMonthly": "Mesečno",
     "savingsTag": "Prihranite 33%",
-    "priceCadence": "/month",
+    "priceCadence": "/mesec",
     "perUserSuffix": "/user",
     "annualBillingSuffix": "(zaračunano letno)",
     "trustItems": [
@@ -375,7 +375,7 @@
       {
         "name": "Osnovno",
         "description": "Za vse, ki vas zanima, kakšen je občutek pametnejše mape »Prejeto«. Obveza ni potrebna.",
-        "priceLabel": "Free",
+        "priceLabel": "Brezplačno",
         "features": [
           {
             "title": "Takojšnji povzetki",

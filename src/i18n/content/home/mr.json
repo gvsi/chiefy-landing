@@ -5,13 +5,13 @@
   },
   "hero": {
     "badge": "आता Gmail आणि Outlook साठी उपलब्ध",
-    "headlinePrefix": "तुमचे ",
-    "headlineHighlight": "मुख्य सहाय्यक",
-    "headlineSuffix": " म्हणून",
+    "headlinePrefix": "तुमचा ",
+    "headlineHighlight": "ईमेल चीफ ऑफ स्टाफ",
+    "headlineSuffix": ":",
     "rotatingFeatures": [
-      "ईमेलचे वर्गीकरण",
-      "प्रत्युत्तरांची रूपरेषा तयार करणे",
-      "वेळापत्रक ठरवणे",
+      "ईमेल वर्गीकरण",
+      "प्रत्युत्तरांचे मसुदे",
+      "शेड्यूलिंग",
       "उत्तरे शोधणे"
     ],
     "subline": "ईमेलवर दर आठवड्याला 4+ तास वाचवा",
@@ -42,31 +42,31 @@
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
+        "subject": "प्रॉडक्ट लाँच टाइमलाइन",
+        "preview": "हे! लॉन्चच्या तयारीबद्दल चौकशी करायची होती. पुढच्या आठवड्यासाठी आपण ठरल्याप्रमाणेच तयारी करत आहोत का...?",
         "pill": "उत्तर द्यायचे"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
+        "subject": "आज दुपारी पटकन सिंक करायचं का?",
+        "preview": "रोडमॅपमधील बदलांविषयी जाणून घ्यायला आवडेल. तुम्ही दुपारी ४ च्या सुमारास मोकळे आहात का...?",
         "pill": "बैठक"
       },
       {
-        "from": "Marketing",
+        "from": "विपणन",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
+        "subject": "मोहिमेचे निकाल तयार आहेत",
         "pill": "माहितीसाठी"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
+        "subject": "तुमचे स्टोअर Black Friday साठी तयार आहे",
         "pill": "प्रमोशन्स"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "हाय ॲलेक्स! हो, आमचं काम ठरल्याप्रमाणे सुरू आहे. डिझाइन टीमने काल आवश्यक सामग्रीचे काम पूर्ण केले आहे आणि मी आज दिवसअखेरपर्यंत अंतिम फाईल्स पाठवून देईन."
   },
   "logos": {
     "ariaLabel": "ग्राहकांचे लोगो",
@@ -184,30 +184,30 @@
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
+        "subject": "चौथ्या तिमाहीच्या अर्थसंकल्प पुनरावलोकनाची विनंती",
+        "preview": "अंतिम आकडेवारी सोबत जोडली आहे. कृपया दिवसअखेरपर्यंत त्याचे पुनरावलोकन करा.",
         "pill": "कृती आवश्यक"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
+        "subject": "उद्या सकाळी १० वाजता टीम स्टँडअप.",
         "pill": "बैठक"
       },
       {
-        "from": "Design Team",
+        "from": "डिझाइन टीम",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
+        "subject": "नवीन ब्रँड मार्गदर्शक तत्त्वे प्रकाशित झाली.",
         "pill": "माहितीसाठी"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
+        "subject": "तुमचे मासिक स्टेटमेंट तयार आहे.",
         "pill": "प्रमोशन्स"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
+        "from": "वृत्तपत्र",
+        "subject": "साप्ताहिक सारांश",
         "pill": "प्रमोशन्स"
       }
     ]
@@ -224,17 +224,17 @@
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
+      "subject": "Re: या आठवड्यात जलद सिंक्रोनायझेशन?",
+      "originalFrom": "Alex Rivera ने लिहिले:",
+      "originalText": "नमस्कार! रोडमॅपमधील बदलांविषयी जाणून घ्यायला आवडेल. या आठवड्यात तुम्ही ३० मिनिटांच्या कॉलसाठी मोकळे आहात का? तुम्हाला कधी सोयीस्कर आहे ते कळवा.",
       "badge": "ऑटो-ड्राफ्टेड",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "हे ॲलेक्स!",
+        "रोडमॅपवर चर्चा करायला आवडेल. मी गुरुवारी दुपारी २ ते ४ किंवा शुक्रवारी सकाळी मोकळा आहे — दोन्ही वेळेस मला सोयीचे आहे.",
+        "तुम्हाला काय सर्वात सोयीचे आहे ते मला कळवा म्हणजे मी आमंत्रण पाठवीन.",
+        "धन्यवाद!"
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "मी गुरुवारी दुपारी २ ते ४ किंवा शुक्रवारी सकाळी मोकळा आहे.",
       "actions": [
         "पाठवा",
         "संपादित करा"
@@ -253,7 +253,7 @@
     "badge": "बुद्धिमत्ता",
     "title": "तुमच्या ईमेलबद्दल काहीही विचारा",
     "subtitle": "Duet ला ईमेल शोधायला, तुमचा कॅलेंडर तपासायला, किंवा प्रत्युत्तर तयार करायला सांगा. तो तुमचा इनबॉक्स समजतो आणि त्वरित उत्तर देतो.",
-    "windowTitle": "Duet Agent",
+    "windowTitle": "Duet एजंट",
     "onlineLabel": "ऑनलाइन",
     "initialUserMessage": "Accounting ने पाठवलेले Stripe चे बिल शोधू शकता का?",
     "processingText": "इनबॉक्समध्ये शोधत आहे...",
@@ -281,10 +281,10 @@
       "draftIntro": "Accounting साठी प्रत्युत्तराचा ड्राफ्ट इथे आहे:",
       "draftHeader": "ड्राफ्ट: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "नमस्कार टीम,",
+        "ऑक्टोबर महिन्याचे ($29.00) Stripe इन्व्हॉइस सोबत जोडले आहे.",
+        "तुम्हाला आणखी काही हवे असल्यास मला कळवा.",
+        "शुभेच्छा,"
       ],
       "draftActions": [
         "ईमेल पाठवा",

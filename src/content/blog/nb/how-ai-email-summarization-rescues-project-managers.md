@@ -56,9 +56,7 @@ Nye teammedlemmer kan raskere forstå historikken bak tekniske valg, kundedialog
 
 ### 5. Bedre moteberedskap
 
-For et prosjektmote kan du oppsummere relevante tråder på minutter og gå inn med oversikt over beslutninger, risikoer og åpne spørsmål.
-
-![Infografikk over fordelene med AI-oppsummering av e-post for prosjektledere](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+For et prosjektmote kan du oppsummere relevante tråder på minutter og gå inn med oversikt over beslutninger, risikoer og åpne spørsmål.![Infografikk over fordelene med AI-oppsummering av e-post for prosjektledere](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 AI-oppsummering hjelper prosjektledere med å spare tid, spore viktig informasjon og redusere mental belastning.
 

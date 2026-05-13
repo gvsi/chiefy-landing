@@ -3,7 +3,7 @@ title: "Kompletny przewodnik po oprogramowaniu do zarządzania e-mailami obsług
 description: "Przestań tonąć w wiadomościach wsparcia! Dowiedz się, jak oprogramowanie do zarządzania e-mailami obsługi klienta, w tym narzędzia AI, usprawnia pracę i zwiększa satysfakcję."
 publishedAt: 2025-05-17
 author: "Duet Mail Team"
-tags: ["AI", "Inbox Management", "Email"]
+tags: ["AI", "Zarządzanie skrzynką odbiorczą", "E-mail"]
 draft: false
 ---
 

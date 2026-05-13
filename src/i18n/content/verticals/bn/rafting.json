@@ -34,12 +34,12 @@
       "pillColor": "amber"
     },
     {
-      "from": "TripAdvisor",
+      "from": "ট্রিপঅ্যাডভাইজার",
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "আপনার তালিকার জন্য নতুন পর্যালোচনা",
       "preview": "একজন ভ্রমণকারী সম্প্রতি আপনার ব্যবসা পর্যালোচনা করেছেন৷ দেখুন তারা কি বলে এবং প্রতিক্রিয়া জানায়...",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     }
   ],
@@ -85,7 +85,7 @@
       "avatarLetter": "F",
       "avatarColor": "lavender",
       "subject": "আপনার সাপ্তাহিক বুকিং সারাংশ",
-      "pill": "FYI",
+      "pill": "আপনার অবগতির জন্য",
       "pillColor": "lavender"
     },
     {
@@ -99,21 +99,21 @@
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: ৯ই আগস্ট ৬ জনের জন্য সারাদিনের র‍্যাফটিং ট্রিপ?",
+    "originalFrom": "জেনিফার ডব্লিউ লিখেছেন:",
+    "originalText": "হ্যালো! আমরা ছয়জনের একটি পরিবার আগস্ট মাসে বেড়াতে আসছি এবং ৯ তারিখে একটি পুরো দিনের র‍্যাফটিং ট্রিপ বুক করতে চাই। জনপ্রতি খরচ কত এবং আমাদের কী ধরনের অভিজ্ঞতা থাকা প্রয়োজন?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "হেই জেনিফার!",
+      "আগস্টের ৯ তারিখ ৬ জনের জন্য উন্মুক্ত। সারাদিনের ট্রিপের খরচ জনপ্রতি ১৫০ ডলার এবং এটি প্রায় ৭ ঘন্টা দীর্ঘ — আমরা সকাল ৮:৩০ মিনিটে নৌকা নামানোর স্থানে মিলিত হব।",
+      "কোনো অভিজ্ঞতার প্রয়োজন নেই। লাইফ জ্যাকেট, হেলমেট, ড্রাই ব্যাগ এবং নদীর ধারে দুপুরের খাবার সবই অন্তর্ভুক্ত — শুধু সানস্ক্রিন ও ওয়াটার শু নিয়ে আসুন।",
+      "আপনি কি চান আমি আপনার জায়গাগুলো সংরক্ষণ করে রাখি?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "আগস্টের ৯ তারিখ ৬ তারিখের জন্য উন্মুক্ত। সারাদিনের ভ্রমণের জন্য জনপ্রতি খরচ ১৫০ ডলার।",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "আপনার ভ্রমণের ধরণ ও মূল্য সম্পর্কে জানে",
+      "আপনার কণ্ঠে খসড়া",
+      "গিয়ার তালিকা স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত করে",
+      "সময়ের সাথে সাথে শেখে"
     ]
   },
   "agent": {

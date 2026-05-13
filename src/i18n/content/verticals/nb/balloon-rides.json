@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mailfor luftballongturer | AI e-postassistent",
-  "metaDescription": "Duet Mailhjelper ballongpiloter å svare på bestillings-e-poster umiddelbart – selv under flyreiser ved soloppgang. AI-utkast til svar med priser, værpolitikk og stemme.",
+  "pageTitle": "Duet Mail for luftballongturer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper ballongpiloter å svare på bestillings-e-poster umiddelbart – selv under flyreiser ved soloppgang. AI-utkast til svar med priser, værpolitikk og stemme.",
   "heroBadge": "Godkjent av 200+ ballongpiloter",
   "heroHeadline": "Din e-postassistent mens du er i luften",
-  "heroSubline": "Duetlærer flyrutene, prisene og værreglene dine – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling mens du starter ved soloppgang.",
+  "heroSubline": "Duet lærer flyrutene, prisene og værreglene dine – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling mens du starter ved soloppgang.",
   "inboxEmails": [
     {
       "from": "Rachel og Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "fly",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Én lagret flyreise betaler for et år påDuet."
+    "punchline": "Én lagret flyreise betaler for et år på Duet."
   },
-  "categorizationSubtitle": "Duetmerker automatisk hver e-post slik at du ser bestillingsforespørsler først, værspørsmål etter det, og aldri støy. Ikke mer mangler en flyforespørsel begravet under nyhetsbrevvarsler.",
-  "draftSubtitle": "Duetlærer prissetting, værpolitikk og tone. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med flydetaljer, møteinformasjon og hva du skal ha på deg. Du anmelder og sender.",
-  "agentSubtitle": "\"Hvem er på morgendagens manifest?\" \"Er det noen værkanselleringer som kan endres?\"Duetkjenner innboksen og kalenderen din – bare spør.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser bestillingsforespørsler først, værspørsmål etter det, og aldri støy. Ikke mer mangler en flyforespørsel begravet under nyhetsbrevvarsler.",
+  "draftSubtitle": "Duet lærer prissetting, værpolitikk og tone. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med flydetaljer, møteinformasjon og hva du skal ha på deg. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvem er på morgendagens manifest?\" \"Er det noen værkanselleringer som kan endres?\"Duet kjenner innboksen og kalenderen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kaptein Mike L.",
       "title": "Ballongpilot, MN",
-      "quote": "Jeg er en enmannsoperasjon — jeg flyr, jeg mannskaper, jeg svarer på e-poster. Bortsett fra klokken 05.00 blåser jeg opp, svarer ikke.Duetskriver utkast til svar på alle \"fly vi i morgen?\" melding over natten. Jeg våkner, sjekker været og trykker på send.",
+      "quote": "Jeg er en enmannsoperasjon — jeg flyr, jeg mannskaper, jeg svarer på e-poster. Bortsett fra klokken 05.00 blåser jeg opp, svarer ikke.Duet skriver utkast til svar på alle \"fly vi i morgen?\" melding over natten. Jeg våkner, sjekker været og trykker på send.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon og Jake B.",
       "title": "Ballongturer året rundt, UT",
-      "quote": "Vi får de samme 10 spørsmålene hver dag. Hva du skal ha på deg, hvor du skal møtes, hva om det blåser.Duetlærte alt og utarbeider nå perfekte svar. Vi gikk fra en time med e-poster hver kveld til fem minutter.",
+      "quote": "Vi får de samme 10 spørsmålene hver dag. Hva du skal ha på deg, hvor du skal møtes, hva om det blåser.Duet lærte alt og utarbeider nå perfekte svar. Vi gikk fra en time med e-poster hver kveld til fem minutter.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Høysesong betyr 4-6 flyreiser i uken og hver passasjer sender e-post minst to ganger før flyturen.Duethåndterer spørsmålene før flyreisen, slik at jeg kan fokusere på å gi folk den beste morgenen i livet.",
+      "quote": "Høysesong betyr 4-6 flyreiser i uken og hver passasjer sender e-post minst to ganger før flyturen.Duet håndterer spørsmålene før flyreisen, slik at jeg kan fokusere på å gi folk den beste morgenen i livet.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Ballongselskap Medeier, NM",
-      "quote": "Værkanselleringer pleide å ødelegge hele dagen min – 8 passasjerer som alle trengte personlige e-poster om tidsplanlegging. Nå utkasterDuethver og en med vår ombookingspolicy inkludert. Sparer meg timer på avbestillingsmorgener.",
+      "quote": "Værkanselleringer pleide å ødelegge hele dagen min – 8 passasjerer som alle trengte personlige e-poster om tidsplanlegging. Nå utkaster Duet hver og en med vår ombookingspolicy inkludert. Sparer meg timer på avbestillingsmorgener.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Ballong Ride Operations, CO",
-      "quote": "Propostflyvninger trenger så mye frem og tilbake koordinering.Duetfant opp hvordan vi håndterer dem - timingen, kodeordene, champagneoppsettet. Den gir utkast til svar jeg knapt trenger å røre.",
+      "quote": "Propostflyvninger trenger så mye frem og tilbake koordinering.Duet fant opp hvordan vi håndterer dem - timingen, kodeordene, champagneoppsettet. Den gir utkast til svar jeg knapt trenger å røre.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Hvordan håndtererDuete-poster om værkansellering?",
-      "answer": "Duetlærer deg retningslinjene for kansellering og ombestilling. Når du kansellerer en flyreise på grunn av været, kan den lage utkast til personlig omlegging av e-post til alle berørte passasjerer – med retningslinjene dine, tilgjengelige datoer og tonen din. Du anmelder og sender. Det som pleide å ta en time med individuelle svar, tar minutter."
+      "question": "Hvordan håndterer Duet e-poster om værkansellering?",
+      "answer": "Duet lærer deg retningslinjene for kansellering og ombestilling. Når du kansellerer en flyreise på grunn av været, kan den lage utkast til personlig omlegging av e-post til alle berørte passasjerer – med retningslinjene dine, tilgjengelige datoer og tonen din. Du anmelder og sender. Det som pleide å ta en time med individuelle svar, tar minutter."
     },
     {
-      "question": "KanDuethåndtere \"fly vi i morgen?\" e-poster som strømmer inn hver kveld?",
-      "answer": "Ja – dette er en av de vanligste e-postene som ballongoperatører forteller oss om.Duetlærer værreglene dine og utkast til betryggende svar som forklarer beslutningsprosessen din, når du tar den siste samtalen og hva du kan forvente. Når du bekrefter go/no-go om morgenen, kan den utarbeide utkast til oppdateringer til alle på manifestet."
+      "question": "Kan Duet håndtere \"fly vi i morgen?\" e-poster som strømmer inn hver kveld?",
+      "answer": "Ja – dette er en av de vanligste e-postene som ballongoperatører forteller oss om.Duet lærer værreglene dine og utkast til betryggende svar som forklarer beslutningsprosessen din, når du tar den siste samtalen og hva du kan forvente. Når du bekrefter go/no-go om morgenen, kan den utarbeide utkast til oppdateringer til alle på manifestet."
     }
   ],
   "pricingNote": "For $250/person med 4 passasjerer per flyreise, betaler én lagret bestilling for over ett år medPro."

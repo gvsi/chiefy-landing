@@ -57,7 +57,7 @@ AI 応答ジェネレーターのようなツールの必要性は、誇大広�
 
 **問題の規模:**
 
-飛び交う膨大な数のメールには気が遠くなるでしょう。 予測では、2025 年には世界中で [3,760 億を超える電子メール](https://prosperitymedia.com.au/how-many-emails-are-sent-per-day-in-2025/) が毎日送受信されると推定されています。個人の専門家にとって、これは [毎日約 121 通の電子メールが受信トレイに届く](https://www.dragapp.com/blog/email-statistics/) という気の遠くなるような数字に相当します。
+飛び交う膨大な数のメールには気が遠くなるでしょう。 予測では、2025 年には世界中で [3,760 億を超える電子メール](https://prosperitymedia.com.au/how-many-emails-are-sent-per-day-in-2025/) が毎日送受信されると推定されています。個人の専門家にとって、これは [毎日約 121 通の電子メールが受信トレイに届く](https://www.dragapp.com/blog/email-statistics/) という気の遠くなるような數位に相当します。
 
 **生産性への影響:**
 
