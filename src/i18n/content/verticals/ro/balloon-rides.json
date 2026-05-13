@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail pentru plimbări cu balonul cu aer cald | Asistent de e-mail AI",
+  "metaDescription": "Duet Mail îi ajută pe piloții de baloane să răspundă instantaneu la e-mailurile de rezervare, chiar și în timpul zborurilor la răsărit. Răspunsuri elaborate de AI cu prețurile, politicile meteo și vocea dvs.",
+  "heroBadge": "Au încredere de peste 200 de piloți de baloane",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești în aer",
+  "heroSubline": "Duet învață programele de zbor, prețurile și politicile meteo, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare în timp ce lansați la răsărit.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Zbor la răsărit pentru 2 — sâmbătă disponibil?",
+      "preview": "Hi! Eu și soțul meu suntem în vizită pentru aniversarea noastră și ne-ar plăcea să rezervăm o plimbare cu balonul la răsăritul soarelui în această sâmbătă. Ai spatiu? Care este costul de persoană?",
+      "pill": "A Răspunde",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "Vom zbura mâine? Prognoza vântului pare dur",
+      "preview": "Suntem rezervați pentru mâine dimineață, dar aplicația meteo arată rafale de 15 mph. Mai zburăm sau ar trebui să plănuim să reprogramam...",
+      "pill": "Întrebare",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "Zbor privat pentru o propunere - preț?",
+      "preview": "Vreau să-mi surprind prietena cu o plimbare privată cu balonul și să o propun în timpul zborului. Cât costă un zbor privat și poți ajuta la coordonarea...",
+      "pill": "Rezervare",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "Ce ar trebui să purtăm? Unde ne întâlnim?",
+      "preview": "Suntem rezervați pentru duminică dimineața. Ce ar trebui să purtăm și unde exact este punctul de întâlnire? De asemenea, cât durează întreaga experiență...",
+      "pill": "Întrebare",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Bună Rachel! Sâmbătă este deschisă pentru 2. Zborurile la răsărit sunt lansate în jurul orei 6:15 — vom confirma ora exactă și locul întâlnirii cu o seară înainte, pe baza vântului. Costă 250 USD/persoană și include aproximativ o oră în aer plus un toast cu șampanie după aterizare. Imbraca-te in straturi si poarta pantofi inchisi. Vrei să-ți rezerv locurile?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "zbor",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "Un zbor salvat plătește pentru un an de Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările despre vreme în al doilea rând și zgomotul niciodată. Nu mai ratați o întrebare de zbor îngropată sub alertele de buletin informativ.",
+  "draftSubtitle": "Duet învață prețurile, politicile meteo și tonul. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre zbor, informații despre întâlnire și ce să se îmbrace. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Cine apare în manifestul de mâine?” — Vreo anulare meteo de reprogramat? Duet vă cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebați.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Zbor la răsărit pentru 2 — sâmbătă disponibil?",
+      "preview": "Eu și soțul meu ne-ar plăcea să rezervăm o plimbare cu balonul la răsărit...",
+      "pill": "Răspunde acum",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: Rezervare confirmată — duminică, ora 6:15",
+      "pill": "Rezervat",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "Ce ar trebui să purtăm pentru zbor?",
+      "pill": "Întrebare",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "O nouă recenzie pentru înregistrarea dvs",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Balloon Federation",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
+      "subject": "Buletin de siguranță din martie și memento de reînnoire",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: Zbor la răsărit pentru 2 — sâmbătă disponibil?",
+    "originalFrom": "Rachel T. a scris:",
+    "originalText": "Hi! Eu și soțul meu suntem în vizită pentru aniversarea noastră și ne-ar plăcea să rezervăm o plimbare cu balonul la răsăritul soarelui în această sâmbătă. Ai spatiu? Care este costul de persoană?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Bună Rachel!",
+      "Sâmbăta este larg deschis pentru 2. Zborurile la răsărit costă 250 USD/persoană și includ aproximativ o oră în aer plus un toast cu șampanie după aterizare.",
+      "Lansăm în jurul orei 6:15 — Îți voi trimite ora și locația exactă a întâlnirii cu o seară înainte, în funcție de condițiile vântului. Imbraca-te in straturi si poarta pantofi inchisi.",
+      "Aniversare fericită! Vrei să-ți rezerv locurile?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Sâmbătă este larg deschis pentru 2. Zborurile la răsărit costă 250 USD/persoană",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Cunoaște prețurile și programul de zbor",
+      "Ciorne în vocea ta",
+      "Include automat detaliile întâlnirii",
+      "Învață în timp"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Cine e pe manifestul de mâine și cum arăta vremea?",
+    "agentResponse": "Zborul de mâine la răsărit are 6 pasageri rezervați în 2 rezervări: petrecerea Thompson (4) și cuplul Lee (2). Prognoza actuală arată vânturi calme la 4 mph și cer senin la ora lansării. Încă nu există e-mailuri de anulare. Vrei să trimit confirmările punctelor de întâlnire?",
+    "followUp": "Da, trimiteți confirmări ambelor părți cu ora întâlnirii de la 6:15 AM",
+    "followUpResponse": "Făcut! Am redactat confirmări ale punctelor de întâlnire atât pentru Thompson, cât și pentru Lees, cu 6:15 AM la câmpul de lansare, ce să mă îmbrac și indicații. Gata de revizuire și de trimis."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Iubit de piloții și operatorii de baloane",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "Căpitanul Mike L.",
+      "title": "Pilot de balon, MN",
+      "quote": "Sunt o operațiune cu un singur om — zbor, fac echipaj, răspund la e-mailuri. Doar că la 5 dimineața mă umf, nu răspund. Duet redactează răspunsuri la fiecare „vom zbura mâine?” mesaj peste noapte. Mă trezesc, verific vremea și apăs pe trimite.",
       "avatarKey": "michael"
     },
     {
-      "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "name": "Shannon și Jake B.",
+      "title": "Tururi cu balon pe tot parcursul anului, UT",
+      "quote": "Primim aceleași 10 întrebări în fiecare zi. Ce să îmbrac, unde să ne întâlnim, ce dacă bate vânt. Duet a învățat totul și acum redactează răspunsuri perfecte. Am trecut de la o oră de e-mailuri în fiecare noapte la cinci minute.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "title": "Operator de zbor Sunrise, AZ",
+      "quote": "Sezonul de vârf înseamnă 4-6 zboruri pe săptămână și fiecare pasager trimite e-mailuri de cel puțin două ori înainte de zbor. Duet se ocupă de întrebările dinainte de zbor, astfel încât să mă pot concentra pe a oferi oamenilor cea mai bună dimineață din viața lor.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "Coproprietar al companiei cu baloane, NM",
+      "quote": "Anulările meteorologice obișnuiau să-mi distrugă întreaga zi — 8 pasageri toți au nevoie de e-mailuri personale de reprogramare. Acum, Duet le scoate pe fiecare cu politica noastră de rerezervare inclusă. Îmi economisește ore în dimineața de anulare.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "title": "Operațiuni de plimbare cu balonul, CO",
+      "quote": "Zborurile propuse au nevoie de atât de multă coordonare dus-întors. Duet a înțeles cum le gestionăm - timpul, cuvintele de cod, configurația șampaniei. Scrie răspunsuri pe care abia trebuie să le ating.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Petrece-ți diminețile pe cer,\nnu în căsuța dvs. de e-mail.",
+  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Cum gestionează Duet e-mailurile de anulare a vremii?",
+      "answer": "Duet află politicile dvs. de anulare și rerezervare. Când anulați un zbor din cauza vremii, acesta poate redacta e-mailuri personalizate de reprogramare pentru fiecare pasager afectat - cu politica dvs., datele disponibile și tonul dvs. Tu revizuiești și trimiți. Ceea ce obișnuia să dureze o oră de răspunsuri individuale durează câteva minute."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Poate Duet să se ocupe de „vom zbura mâine?” e-mailuri care inundă în fiecare seară?",
+      "answer": "Da, acesta este unul dintre cele mai frecvente e-mailuri despre care ne vorbesc operatorii de baloane. Duet învață politicile dvs. meteorologice și redactează răspunsuri liniștitoare care explică procesul de decizie, când veți efectua apelul final și la ce să vă așteptați. Odată ce confirmați dimineața dimineața, acesta poate redacta actualizări pentru toată lumea din manifest."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "La 250 USD/persoană cu 4 pasageri per zbor, o rezervare salvată plătește peste un an de Pro."
 }

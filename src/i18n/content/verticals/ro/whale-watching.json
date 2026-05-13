@@ -1,36 +1,35 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail pentru excursii de observare a balenelor | AI Asistent de e-mail",
+  "metaDescription": "Duet Mail îi ajută pe căpitanii de observare a balenelor să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri redactate de AI cu detaliile turului, prețurile și vocea.",
+  "heroBadge": "Au încredere de peste 300 de căpitani de turneu",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce vezi balene",
+  "heroSubline": "Duet vă învață programul turului, prețurile și vocea, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare în timp ce sunteți pe apă.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "Grup de 8 — disponibilitate 14 iunie?",
+      "preview": "Hi! Suntem o familie de 8 în vizită pe săptămână. Aveți loc în turneul de dimineață de 14 iunie? Care este prețul de persoană și este în regulă pentru copii?",
+      "pill": "A Răspunde",
       "pillColor": "red"
     },
     {
-      "from": "James & Kathy L.",
+      "from": "James și Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "Prețuri charter privat?",
+      "preview": "Ne-ar plăcea să rezervăm un tur privat de vizionare a balenelor pentru aniversarea noastră. Care este costul unui charter privat de 2 ore doar pentru noi doi...",
+      "pill": "Valoare mare",
       "pillColor": "amber"
     },
     {
-      "from": "Cruise Port Desk",
+      "from": "Birou Port de croazieră",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
+      "subject": "Schimbare de program — Coral Princess sosește cu 1 oră mai devreme",
+      "preview": "Atenție: sosirea Coral Princess de mâine a fost mutată de la 10:00 la 9:00. Vă rugăm să ajustați în consecință orice excursie în port...",
       "pill": "Urgent",
       "pillColor": "blue"
     },
@@ -38,54 +37,54 @@
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "O nouă recenzie pentru înregistrarea dvs",
+      "preview": "Un călător a evaluat recent afacerea dvs. Vezi ce au de spus și răspund...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "Hei Rachel! Turul de dimineață de 14 iunie are spațiu pentru 8. Tururile costă 125 USD/persoană, copiii 4-12 sunt jumătate de preț. Plecăm la ora 9 dimineața din port și rulăm aproximativ 2,5 ore. Binoclul furnizat - aduceți doar straturi și protecție solară. Vrei să rezerv 8 locuri?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "grup de tur",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "O rezervare de grup salvată plătește pentru un an de Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, programul navelor de croazieră se schimbă în al doilea rând și zgomotul niciodată. Nu mai lipsește o anchetă de charter privată îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet află orele turneelor, prețurile și politicile dvs. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Câte locuri au mai rămas în turneul de sâmbătă dimineață?” „Elaborați un răspuns pentru Rachel cu disponibilitate.” Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "Grup de 8 — disponibilitate 14 iunie?",
+      "preview": "Suntem o familie de 8 în vizită săptămâna...",
+      "pill": "Răspunde acum",
       "pillColor": "red"
     },
     {
       "from": "James L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Re: Charter privat confirmat - sâmbătă, ora 14:00",
+      "pill": "Rezervat",
       "pillColor": "blue"
     },
     {
       "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "Va avea loc turneul de mâine? Vântul pare aspru",
+      "pill": "Întrebare",
       "pillColor": "amber"
     },
     {
       "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
+      "subject": "Rezumatul rezervării zilnice — 3 rezervări noi",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Marine Supply Co.",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "Licență de vară - 15% reducere la echipament de siguranță",
+      "pill": "Promoții",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Re: Grup de 8 - disponibilitate 14 iunie?",
+    "originalFrom": "Rachel T. a scris:",
+    "originalText": "Hi! Suntem o familie de 8 în vizită pe săptămână. Aveți loc în turneul de dimineață de 14 iunie? Care este prețul de persoană și este în regulă pentru copii?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Hei Rachel!",
+      "Turul de dimineață de 14 iunie are loc suficient pentru 8 persoane. Biletele costă 125 USD/persoană, copiii între 4 și 12 ani sunt la jumătate de preț. Plecăm la ora 9:00 și ne întoarcem în jurul orei 11:30.",
+      "Binoclu și echipament de ploaie furnizate - aduceți doar straturi calde și protecție solară. Copiilor le place foarte mult pe puntea de observare.",
+      "Vrei să mă blochez în 8 locuri?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "Turul de dimineață de 14 iunie are loc suficient pentru 8 persoane. Biletele costă 125 USD/persoană",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Cunoaște orele și prețurile turneului dvs",
+      "Ciorne în vocea ta",
+      "Include ce să aducă automat",
+      "Învață în timp"
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "Câte locuri au mai rămas în turul de sâmbătă dimineață?",
+    "agentResponse": "Pe baza rezervărilor dvs., turul de sâmbătă de la 9:00 are 18 din 44 de locuri ocupate - 26 încă deschise. Turul de după-amiază este aproape plin la 40 din 44. Doriți să redactez un răspuns la orice întrebări în așteptare cu disponibilitatea sâmbătă dimineața?",
+    "followUp": "Scrieți un răspuns pentru Rachel, confirmând data de 14 iunie pentru 8 invitați",
+    "followUpResponse": "Făcut! Am redactat un răspuns pentru Rachel, confirmând turul de dimineață de 14 iunie pentru 8 invitați la 125 USD/persoană. Include ora de plecare, ceea ce este furnizat și ce trebuie adus. Gata de revizuire și de trimis."
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "Îndrăgit de căpitanii de observare a balenelor",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
-      "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "name": "Căpitanul Dave H.",
+      "title": "Operator de turism pentru animale sălbatice, AK",
+      "quote": "Pasagerii navelor de croazieră au nevoie de răspunsuri rapide - au doar 6 ore în port. Obișnuiam să pierd charterele private pentru că eram pe apă când a venit întrebarea. Acum Duet elaborează răspunsuri cu detaliile privind prețurile și ridicarea mea înainte chiar de a andocare.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria & Luis R.",
+      "name": "Maria și Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "quote": "Facem două tururi pe zi în timpul sezonului cu cocoașe și volumul de e-mail este ireal. — Vom vedea balenele? — Ce ar trebui să mă îmbrac? — Mâine este anulat? Duet se ocupă de întrebările repetitive și ne concentrăm pe turnee.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "name": "Căpitanul Ben T.",
+      "title": "Excursii pe ocean, HI",
+      "quote": "Răspundeam la aceleași 10 întrebări în fiecare seară — prețuri, ce este inclus, sfaturi pentru rău de mare, limite de vârstă pentru copii. Duet a învățat totul în prima săptămână. Timpul meu de răspuns a trecut de la 8 ore la 8 minute.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "title": "Manager de rezervări, Pacific NW",
+      "quote": "Anulările meteorologice sunt cele mai urâte — 30 de persoane au nevoie de o rerezervare deodată, iar eu jonglez cu apelurile telefonice. Duet creează e-mailuri personalizate de reprogramare pentru fiecare oaspete. Ceea ce înainte îmi lua 2 ore durează acum 15 minute.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jess & Nate P.",
-      "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "name": "Jess și Nate P.",
+      "title": "Tururi cu animale sălbatice cu bărci mici, BC",
+      "quote": "Suntem o operațiune de două persoane - eu căpitane, ea conduce logistica. În timpul sezonului de vârf petrecea 3 ore pe noapte pe e-mail. Duet a redus asta la 30 de minute. De fapt, își recuperează serile înapoi acum.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Petrece sezonul balenelor pe apă,\nnu în căsuța dvs. de e-mail.",
+  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Duet se ocupă de anulările meteo și modificările programului navelor de croazieră?",
+      "answer": "Da. Când anulați un tur din cauza vremii sau a orelor de sosire a unei nave de croazieră, îi puteți spune Duet o dată, iar acesta redactează e-mailuri personalizate de reprogramare sau de actualizare pentru fiecare oaspete afectat. Nu mai copiați și lipiți același mesaj de 30 de ori. Fiecare răspuns include detaliile inițiale de rezervare ale oaspetelui și alternativele disponibile."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "Primim aceleași întrebări în mod constant – „vom vedea balene?”, „cu ce ar trebui să mă îmbrac?”, „este în regulă pentru copii?” Poate Duet să se ocupe de acestea?",
+      "answer": "Exact acolo strălucește Duet. Învață răspunsurile tale standard - speciile pe care le vezi de obicei, ce să aduci, politici de vârstă, sfaturi pentru rău de mare, orele de plecare - și redactează instantaneu răspunsuri complete. Tu revizuiești și trimiți. Majoritatea căpitanilor ne spun că 80% din căsuța lor de e-mail sunt aceleași 10 întrebări, iar Duet se ocupă de toate."
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "La 125 USD/persoană, un grup salvat de 6 plătește pentru peste un an de Pro."
 }

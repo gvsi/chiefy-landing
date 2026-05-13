@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail pentru magazine de scufundări | Asistent de e-mail AI",
+  "metaDescription": "Duet Mail îi ajută pe proprietarii de magazine de scufundări și instructorii PADI să răspundă la întrebările de certificare, rezervările de excursii și întrebările legate de echipament, chiar și de sub apă.",
+  "heroBadge": "De încredere de peste 300 de operatori de scufundări",
+  "heroHeadline": "Asistentul dvs. de e-mail în timp ce vă aflați sub apă",
+  "heroSubline": "Duet învață site-urile dvs. de scufundări, cerințele de certificare, prețurile și vocea - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare în timp ce vă aflați pe barcă.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "Certificare Open Water — disponibilitate?",
+      "preview": "Hi! Vizitez în prima săptămână a lunii august și vreau să-mi iau certificatul Open Water. Câte zile durează și ce este inclus?",
+      "pill": "A Răspunde",
       "pillColor": "red"
     },
     {
       "from": "Kevin & Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "Grup de 6 pentru o scufundare cu 2 rezervoare sâmbătă",
+      "preview": "Avem 6 scafandri certificați și dorim să rezervăm o scufundare de dimineață cu 2 rezervoare sâmbăta aceasta. Ai spatiu? Care este tariful pe persoană...",
+      "pill": "Rezervare",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "Închiriere BCD pentru weekend?",
+      "preview": "Hei, sunt certificat, dar călătoresc ușor. Închiriezi BCD-uri și regulatoare? As avea nevoie de ele de vineri pana duminica...",
+      "pill": "Întrebare",
       "pillColor": "amber"
     },
     {
       "from": "PADI eLearning",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
+      "subject": "Sesizare student: Rachel Torres",
+      "preview": "Un student și-a finalizat eLearning-ul și a selectat centrul dvs. de scufundări pentru antrenament în apă închisă și deschisă...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "Hei Rachel! Ne-ar plăcea să vă certificăm. Cursul Open Water durează 3 zile - o zi de sesiuni de piscină și două zile de scufundări în ocean. Toate echipamentele sunt incluse. August este larg deschis. Vrei să rezerv un loc pentru prima săptămână?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
-    "lostPerMonth": "3 trips (6 divers each)",
+    "bookingUnit": "scufundare",
+    "lostPerMonth": "3 excursii (6 scafandri fiecare)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "O scufundare de grup salvată plătește pentru un an de Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi întrebările de certificare și rezervările pentru scufundări, apoi întrebările despre echipament și alertele PADI când sunteți gata. Nu mai lipsește o rezervare de grup îngropată sub buletinele informative de echipamente.",
+  "draftSubtitle": "Duet învață site-urile dvs. de scufundări, cerințele de certificare și prețurile. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Câți scafandri sunt rezervați pentru sâmbătă? „Elaborați un răspuns pentru Rachel cu disponibilitatea Open Water”. Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "Certificare Open Water — disponibilitate?",
+      "preview": "Sunt în prima săptămână a lunii august și vreau să mă certific...",
+      "pill": "Răspunde acum",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Re: Rezervare confirmată — Sâmbătă scufundare cu 2 rezervoare",
+      "pill": "Rezervat",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "Închiriere BCD și regulator în acest weekend?",
+      "pill": "Întrebare",
       "pillColor": "amber"
     },
     {
       "from": "DiveBuddy",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
+      "subject": "O nouă recenzie pentru înregistrarea dvs",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Dive Gear Express",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Reducere de vară - 25% reducere la costume de neopină",
+      "pill": "Promoții",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "Re: Certificare Open Water — disponibilitate?",
+    "originalFrom": "Rachel T. a scris:",
+    "originalText": "Hi! Vizitez în prima săptămână a lunii august și vreau să-mi iau certificatul Open Water. Câte zile durează și ce este inclus?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "Hei Rachel!",
+      "Ne-ar plăcea să vă certificăm! Cursul PADI Open Water durează 3 zile - o sesiune de piscină și două scufundări în ocean pe reciful nostru. Toate echipamentele sunt incluse.",
+      "August este larg deschis chiar acum. Majoritatea studenților încep luni, așa că termină miercuri.",
+      "Vrei să rezerv un loc?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "Cursul PADI Open Water durează 3 zile",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "Cunoaște cursurile și prețurile dvs",
+      "Ciorne în vocea ta",
+      "Include automat cerințe de certificare",
+      "Învață în timp"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "Câți scafandri sunt rezervați pentru sâmbătă?",
+    "agentResponse": "Pe baza căsuței dvs. de e-mail, aveți 8 scafandri confirmați pentru scufundarea cu 2 rezervoare de sâmbătă dimineața — grupul lui Kevin de 6 plus 2 rezervări individuale. De asemenea, aveți o întrebare în așteptare de la Jason despre închirierea echipamentelor pentru aceeași călătorie. Vrei să redactez un răspuns?",
+    "followUp": "Scrieți un răspuns pentru Rachel cu detalii despre cursul Open Water",
+    "followUpResponse": "Făcut! I-am redactat un răspuns către Rachel, confirmând cursul PADI Open Water de 3 zile cu scufundări la piscină și ocean incluse. Menționează disponibilitatea în luna august și politica dvs. standard de echipament inclus. Gata de revizuire și de trimis."
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "Iubit de operatorii de scufundări",
   "testimonials": [
     {
-      "name": "Captain Mike T.",
+      "name": "Căpitanul Mike T.",
       "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "quote": "Fac excursii cu barca de vineri până duminică, iar magazinul este deschis doar câteva ore luni. Întrebările privind certificarea și întrebările de călătorie se adună în timp ce sunt sub apă. Duet elaborează răspunsuri cu prețurile mele, site-urile de scufundări și ceea ce este inclus — le examinez între scufundări.",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "name": "Jen și Mark S.",
+      "title": "Centrul de scufundări PADI, HI",
+      "quote": "Facem scufundări, excursii cu snorkeling și observam balenele de pe aceleași bărci. Varietatea de e-mailuri este nebunească - întrebări cert, rezervări de grup, închiriere de echipamente, verificări meteo. Duet sortează totul și redactează răspunsuri care fac diferența. Salvator absolut.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "quote": "Jumătate din e-mailurile mele sunt „de ce certificare am nevoie pentru scufundările cu epave?” iar cealaltă jumătate sunt „am nevoie de propriul meu echipament?” Duet se ocupă de ambele pe pilot automat. Timpul meu de răspuns a trecut de la ore la minute.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "quote": "În timpul verii primim peste 30 de e-mailuri pe zi despre cursuri, disponibilitatea călătoriilor și echipamente. Pierdeam rezervări în fața magazinelor care răspundeau mai repede. Acum Duet elaborează totul și eu doar apăs pe trimite între clase.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "title": "Instructor și ghid de scufundări, NC",
+      "quote": "Predau cursuri dimineața și ghidez scufundări după-amiaza. Practic, nu există timp să răspunzi la e-mail. Duet mi-a aflat programul cursului, prețurile, chiar și politica mea de anulare. Clienții nu pot face diferența.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Petrece-ți zilele sub apă,\nnu este îngropat în căsuța dvs. de e-mail.",
+  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Duet înțelege nivelurile de certificare și cerințele cursurilor?",
+      "answer": "Da. Duet învață cursurile dvs. specifice — Open Water, Advanced, Rescue, Divemaster — împreună cu cerințele preliminare, durata, prețul și ceea ce este inclus. Când cineva întreabă despre obținerea certificării, Duet redactează un răspuns cu detaliile cursului potrivite, programul și pașii următori. Tu revizuiești și trimiți."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Sunt pe barcă sau sub apă toată ziua. Pot folosi Duet de pe telefonul meu?",
+      "answer": "Da. Duet funcționează cu Gmail și Outlook, așa că funcționează oriunde funcționează e-mailul dvs., inclusiv telefonul. Ciornele apar automat în căsuța dvs. de e-mail. Între scufundări sau înapoi la andocare, revizuiți și trimiteți cu o singură atingere. Majoritatea operatorilor de scufundări ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "La 150 USD/scufundare cu un grup de 6, o călătorie salvată plătește pentru peste un an de Pro."
 }

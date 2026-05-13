@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mail pentru rafting și caiac | AI Asistent de e-mail",
+  "metaDescription": "Duet Mail ajută ghizii de rafting și furnizorii de caiac să răspundă instantaneu la întrebările de călătorie, chiar și dinspre râu. Răspunsuri redactate de AI cu detaliile călătoriei, prețurile și vocea.",
+  "heroBadge": "De încredere de peste 200 de ghizi fluviali",
+  "heroHeadline": "Asistentul dvs. de e-mail în timp ce vă aflați pe râu",
+  "heroSubline": "Duet învață tipurile de călătorie, prețurile și listele de echipamente, apoi redactează răspunsuri la întrebările de rezervare, astfel încât clienții să primească răspunsuri în timp ce tu alergi rapid.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "Excursie cu pluta de o zi întreagă pentru 6 pe 9 august?",
+      "preview": "Hi! Suntem o familie de 6 persoane care vizităm în august și vrem să rezervăm o excursie de rafting de o zi întreagă pe 9. Care este prețul de persoană și de ce nivel de experiență avem nevoie?",
+      "pill": "A Răspunde",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Excursie de mai multe zile - ce este inclus?",
+      "preview": "Suntem un grup de 4 care ne uităm la expediția ta de 3 zile. Sunt incluse mesele, echipamentul de camping și pungi uscate sau trebuie să aducem propriile noastre...",
+      "pill": "Întrebare",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel & Mark S.",
+      "from": "Rachel și Mark S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "Copii cu vârsta de 8 și 10 ani — suficient de siguri?",
+      "preview": "Ne-ar plăcea să facem excursia de jumătate de zi, dar copiii noștri au 8 și 10 ani. Este secțiunea de clasa a II-a potrivită pentru vârsta lor? Care este minimul...",
+      "pill": "Întrebare",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "O nouă recenzie pentru înregistrarea dvs",
+      "preview": "Un călător a evaluat recent afacerea dvs. Vezi ce au de spus și răspund...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "Salut Jennifer! 9 august este deschis pentru 6. Excursiile de o zi întreagă costă 150 USD/persoană și durează aproximativ 7 ore. Nu este nevoie de experiență, ghizii noștri se ocupă de totul. Sunt incluse PFD-uri, căști, genți uscate și un prânz pe malul râului. Pur și simplu aduceți protecție solară, pantofi de apă și haine pe care nu vă deranjează să vă udați. Vrei să-ți rezerv locurile?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "persoană",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "Două rezervări salvate plătesc pentru un an întreg de Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât întrebările de călătorie să apară mai întâi, întrebările despre echipament în al doilea rând și zgomotul promoțional să dispară. Nu mai lipsește o rezervare de grup îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet învață tipurile de călătorie, cursurile rapide, listele de echipamente și politica de anulare. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu tot ce are nevoie clientul. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Ceva locuri libere în ziua întreagă de sâmbătă? „Scrieți un răspuns pentru Jennifer cu disponibilitate.” Duet vă cunoaște căsuța de e-mail și programul dvs. - trebuie doar să întrebați.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "Excursie cu pluta de o zi întreagă pentru 6 pe 9 august?",
+      "preview": "Suntem o familie de 6 persoane care vizităm în august și vrem să rezervăm...",
+      "pill": "Răspunde acum",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "Re: Expediție de 3 zile confirmată — 15 august",
+      "pill": "Rezervat",
       "pillColor": "blue"
     },
     {
       "from": "Rachel S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "Copiii de 8 și 10 ani sunt acceptați pentru clasa a II-a?",
+      "pill": "Întrebare",
       "pillColor": "amber"
     },
     {
       "from": "The Flybook",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Rezumatul săptămânal al rezervării dvs",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "Reducere de sfârșit de sezon — 30% reducere la costume uscate",
+      "pill": "Promoții",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: Excursie cu pluta de o zi întreagă pentru 6 persoane pe 9 august?",
+    "originalFrom": "Jennifer W. a scris:",
+    "originalText": "Hi! Suntem o familie de 6 persoane care vizităm în august și vrem să rezervăm o excursie de rafting de o zi întreagă pe 9. Care este prețul de persoană și de ce nivel de experiență avem nevoie?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "Salut Jennifer!",
+      "9 august este larg deschis pentru 6. Excursiile de o zi întreagă costă 150 USD/persoană și durează aproximativ 7 ore - ne întâlnim la intrare la 8:30 AM.",
+      "Nu este nevoie de experiență. Sunt incluse PFD-uri, căști, genți uscate și un prânz pe malul râului - trebuie doar să aduceți protecție solară și pantofi de apă.",
+      "Vrei să-ți rezerv locurile?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "9 august este deschis pentru 6 persoane. Excursiile de o zi completă costă 150 USD/persoană",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "Cunoaște tipurile de călătorie și prețurile dvs",
+      "Ciorne în vocea ta",
+      "Include automat liste de echipamente",
+      "Învață în timp"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "Aveți locuri libere în excursia de o zi întreagă de sâmbătă?",
+    "agentResponse": "Ziua întreagă de sâmbătă are 4 locuri rămase din 10. Aveți, de asemenea, o cursă de dimineață de jumătate de zi care este complet rezervată și o plecare de mai multe zile duminică cu 2 locuri deschise. Doriți să redactez un răspuns la orice întrebări în așteptare, cu disponibilitatea de sâmbătă?",
+    "followUp": "Redactați un răspuns pentru Jennifer cu disponibilitatea din 9 august",
+    "followUpResponse": "Făcut! Am redactat un răspuns lui Jennifer confirmând 9 august pentru 6 invitați la 150 USD/persoană. Acesta include detaliile călătoriei dvs. standard, lista de echipamente și locația întâlnirii. Gata de revizuire și de trimis."
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "Îndrăgit de ghizii fluviali și de outfitters",
   "testimonials": [
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "quote": "În timpul sezonului de vârf sunt pe râu 6 zile pe săptămână. Până să mă întorc la e-mailuri, jumătate din grupuri făcuseră deja rezervare cu altcineva. Acum Duet elaborează răspunsuri cu detalii despre călătorie și prețuri, cât timp sunt la intrare.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "title": "Tururi cu caiac și SUP, OR",
+      "quote": "Fiecare client pune aceleași cinci întrebări - preț, ce să aducă, nivelul de calificare, dimensiunea grupului, politica de anulare. Duet a învățat totul în prima săptămână. Am trecut de la o oră de e-mailuri în fiecare seară la cinci minute de revizuire a schițelor.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "title": "Ghid de expediție de mai multe zile, AK",
+      "quote": "Efectuez excursii de 5 zile cu serviciul zero cell. Înainte de Duet, fiecare întrebare a rămas fără răspuns până când m-am întors în oraș. Acum clienții primesc un răspuns detaliat în câteva minute și confirm când sunt în afara râului.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "title": "Manager de birou River Adventures, WV",
+      "quote": "Gestionez rezervările pentru trei ghizi din patru tipuri de călătorie. Duet clasifică fiecare e-mail în funcție de urgență și redactează răspunsuri cu călătoria potrivită, prețul potrivit, lista de echipamente potrivită. Este ca și cum mă clonam.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sophia K.",
+      "name": "Sofia K.",
       "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "quote": "Eram sceptici că AI ar putea gestiona e-mailurile specifice pentru rafting. Dar a preluat descrierile noastre de Clasa III vs. Clasa IV, minimele de vârstă, chiar și politica noastră de ieșire în caiacul umed. Clienții cred că vorbesc cu noi.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Petrece vara pe râu,\nnu ajung din urmă cu e-mailul.",
+  "ctaSubline": "Începeți perioada de încercare gratuită. Conectați-vă căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "Duet se ocupă de ofertele de călătorie personalizate și de solicitările de expediții de mai multe zile?",
+      "answer": "Da. Duet învață gama dvs. completă de călătorii — flotoare de jumătate de zi, rapiduri de o zi întreagă, expediții de mai multe zile — împreună cu prețurile, ceea ce este inclus, vârsta minimă și nivelurile de dificultate. Când cineva întreabă despre o excursie de 3 zile pentru 6, redactează un răspuns complet cu detaliile potrivite. Examinați, modificați dacă este necesar și trimiteți."
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "Sunt în afara rețelei în excursii de mai multe zile. Mai funcționează Duet?",
+      "answer": "Exact aceasta este problema pe care o rezolvă Duet. În timp ce ești pe râu fără semnal, ciornele Duet răspund la fiecare întrebare care vine. Când te întorci în rază de acțiune, schițele tale vă așteaptă - doar examinați și trimiteți. Majoritatea ghidurilor ne spun că elimină restanța cu care se confruntau după fiecare călătorie de mai multe zile."
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "La 150 USD/persoană, două rezervări salvate acoperă un an întreg de Pro."
 }
