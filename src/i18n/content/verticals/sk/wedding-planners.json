@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail for Wedding Planners | AI Email Assistant",
-  "metaDescription": "Duet Mail helps wedding planners respond to client and vendor emails instantly — even from venue walkthroughs. AI-drafted replies with your packages, vendor contacts, and voice.",
-  "heroBadge": "Trusted by 400+ wedding planners",
-  "heroHeadline": "Your email assistant while you're on-site at the venue",
-  "heroSubline": "Duet learns your vendor contacts, packages, and client preferences — then drafts email replies so couples never wait while you're coordinating on the ground.",
+  "pageTitle": "Duet Mail pre svadobných plánovačov | AI Email Assistant",
+  "metaDescription": "Duet Mail pomáha svadobným plánovačom okamžite odpovedať na e-maily klientov a dodávateľov — aj počas obhliadok priestorov. Odpovede vytvorené AI s vašimi balíkmi, kontaktmi na dodávateľov a vaším štýlom.",
+  "heroBadge": "Dôveruje mu viac ako 400 svadobných plánovačov",
+  "heroHeadline": "Váš e-mailový asistent, kým ste priamo na mieste konania",
+  "heroSubline": "Duet sa naučí vaše kontakty na dodávateľov, balíky a preferencie klientov — potom pripraví e-mailové odpovede, aby páry nikdy nečakali, kým vy koordinujete všetko na mieste.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages...",
-      "pill": "To Respond",
+      "subject": "Dostupnosť na svadbu 20. septembra?",
+      "preview": "Ahoj! Práve sme sa zasnúbili a pozeráme sa na svadbu 20. septembra pre približne 120 hostí. Máte voľno? Aké sú vaše balíky...",
+      "pill": "Na odpoveď",
       "pillColor": "red"
     },
     {
       "from": "Bella Rosa Florals",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "preview": "Here are the three centerpiece options we discussed. The garden roses came in beautifully. Let me know which direction the couple wants to go...",
-      "pill": "Vendor",
+      "subject": "Re: Thompson wedding — ukážky stredových dekorácií",
+      "preview": "Tu sú tri možnosti stredových dekorácií, o ktorých sme hovorili. Záhradné ruže vyšli nádherne. Dajte vedieť, ktorým smerom sa chce pár uberať...",
+      "pill": "Dodávateľ",
       "pillColor": "amber"
     },
     {
       "from": "Rachel K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Freaking out about the seating chart",
-      "preview": "I know we finalized the chart last week but my mom just RSVPd 4 extra people and I have no idea where to put them. Can we move some tables around...",
-      "pill": "Client",
+      "subject": "Panikárim kvôli zasadaciemu poriadku",
+      "preview": "Viem, že sme plán minulý týždeň uzavreli, ale moja mama práve RSVP-ovala 4 ďalších ľudí a netuším, kam ich umiestniť. Môžeme presunúť nejaké stoly...",
+      "pill": "Klient",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
-      "preview": "A couple has requested more information about your services. View details and respond...",
+      "subject": "Nový dopyt z vášho profilu",
+      "preview": "Pár požiadal o viac informácií o vašich službách. Pozrite si detaily a odpovedzte...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Emily & James — congratulations on your engagement! September 20th is available and 120 guests is a perfect size. I offer full planning, partial planning, and day-of coordination packages. I'd love to set up a complimentary consultation to learn your vision. Are you free for a quick call this week?",
+  "autodraft": "Ahoj Emily & James — gratulujeme k zásnubám! 20. septembra máme voľno a 120 hostí je ideálny počet. Ponúkam balíky kompletného plánovania, čiastočného plánovania a koordinácie v deň svadby. Rada by som si dohodla bezplatnú konzultáciu, aby som spoznala vašu predstavu. Hodil by sa vám tento týždeň krátky hovor?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "wedding",
+    "bookingUnit": "svadba",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved client pays for over 20 years of Duet."
+    "punchline": "Jeden ušetrený klient zaplatí viac ako 20 rokov Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new couple inquiries first, vendor confirmations second, and newsletter noise never. No more missing a booking request buried under Knot alerts.",
-  "draftSubtitle": "Duet learns your packages, preferred vendors, and tone. When a couple inquires, it drafts a warm, complete reply with your availability and next steps. You review and send.",
-  "agentSubtitle": "\"What vendor emails came in for the Thompson wedding?\" \"Draft a timeline update to all vendors for Saturday.\" Duet knows your inbox and clients — just ask.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže najprv vidíte nové dopyty párov, potom potvrdenia od dodávateľov a žiadny newsletterový hluk. Už žiadne prehliadnuté žiadosti o rezerváciu ukryté pod upozorneniami z Knot.",
+  "draftSubtitle": "Duet sa naučí vaše balíky, preferovaných dodávateľov a tón komunikácie. Keď sa pár ozve, pripraví srdečnú, kompletnú odpoveď s vašou dostupnosťou a ďalšími krokmi. Vy ju skontrolujete a odošlete.",
+  "agentSubtitle": "\"Aké e-maily od dodávateľov prišli tento týždeň pre svadbu Thompson?\" \"Priprav aktualizáciu časového harmonogramu pre všetkých dodávateľov na sobotu.\" Duet pozná vašu schránku aj klientov — stačí sa opýtať.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "We just got engaged and are looking at September 20th...",
-      "pill": "Respond Now",
+      "subject": "Dostupnosť na svadbu 20. septembra?",
+      "preview": "Práve sme sa zasnúbili a pozeráme sa na 20. september...",
+      "pill": "Odpovedať teraz",
       "pillColor": "red"
     },
     {
       "from": "Bella Rosa Florals",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "pill": "Vendor",
+      "subject": "Re: Thompson wedding — ukážky stredových dekorácií",
+      "pill": "Dodávateľ",
       "pillColor": "amber"
     },
     {
       "from": "Rachel K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Re: Seating chart — final version attached",
-      "pill": "Client",
+      "subject": "Re: Zasadací poriadok — priložená finálna verzia",
+      "pill": "Klient",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
+      "subject": "Nový dopyt z vášho profilu",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Minted",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "20% off save-the-dates this week",
-      "pill": "Promotions",
+      "subject": "Tento týždeň 20% zľava na save-the-dates",
+      "pill": "Akcie",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "emily.james.w@email.com",
-    "subject": "Re: Availability for Sept 20 wedding?",
+    "subject": "Re: Dostupnosť na svadbu 20. septembra?",
     "originalFrom": "Emily & James W. wrote:",
-    "originalText": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages and pricing?",
+    "originalText": "Ahoj! Práve sme sa zasnúbili a pozeráme sa na svadbu 20. septembra pre približne 120 hostí. Máte voľno? Aké sú vaše balíky a ceny?",
     "lines": [
-      "Hi Emily & James — congratulations!",
-      "September 20th is available and 120 guests is a wonderful size. I offer full planning, partial planning, and day-of coordination packages starting at $3,500.",
-      "I'd love to set up a complimentary consultation to hear your vision and walk you through which package fits best.",
-      "Are you free for a call this week?"
+      "Ahoj Emily & James — gratulujem!",
+      "20. septembra máme voľno a 120 hostí je skvelý počet. Ponúkam balíky kompletného plánovania, čiastočného plánovania a koordinácie v deň svadby od $3,500.",
+      "Rada by som si dohodla bezplatnú konzultáciu, aby som si vypočula vašu predstavu a prešla s vami, ktorý balík je najvhodnejší.",
+      "Hodil by sa vám tento týždeň hovor?"
     ],
-    "highlightText": "September 20th is available and 120 guests is a wonderful size",
+    "highlightText": "20. septembra máme voľno a 120 hostí je skvelý počet",
     "tooltipFeatures": [
-      "Knows your packages & availability",
-      "Drafts in your voice",
-      "Includes consultation next steps",
-      "Learns your client preferences"
+      "Pozná vaše balíky a dostupnosť",
+      "Pripravuje v vašom štýle",
+      "Obsahuje ďalšie kroky ku konzultácii",
+      "Učí sa preferencie vašich klientov"
     ]
   },
   "agent": {
-    "userMessage": "What vendor emails came in for the Thompson wedding this week?",
-    "agentResponse": "You received 4 vendor emails for the Thompson wedding this week: Bella Rosa Florals sent centerpiece mockups (awaiting couple's pick), Lakeside Venue confirmed the ceremony rehearsal for Friday at 4 PM, DJ Marco sent the updated song list, and Sweet Layers Bakery needs final cake flavor by Wednesday. Want me to draft replies to any of these?",
-    "followUp": "Draft a reply to Bella Rosa with the couple's pick — Option B, the garden roses",
-    "followUpResponse": "Done! I drafted a reply to Bella Rosa Florals confirming Option B — the garden rose centerpieces for the Thompson wedding. It includes a note to proceed with the full order for 14 tables. Ready to review and send."
+    "userMessage": "Aké e-maily od dodávateľov prišli tento týždeň pre svadbu Thompson?",
+    "agentResponse": "Tento týždeň ste dostali 4 e-maily od dodávateľov pre svadbu Thompson: Bella Rosa Florals poslala ukážky stredových dekorácií (čaká sa na výber páru), Lakeside Venue potvrdilo skúšku obradu na piatok o 16:00, DJ Marco poslal aktualizovaný zoznam skladieb a Sweet Layers Bakery potrebuje finálnu príchuť torty do stredy. Chcete, aby som pripravil odpovede na niektorý z nich?",
+    "followUp": "Priprav odpoveď pre Bella Rosa s výberom páru — možnosť B, záhradné ruže",
+    "followUpResponse": "Hotovo! Pripravil som odpoveď pre Bella Rosa Florals, v ktorej potvrdzujem možnosť B — stredové dekorácie zo záhradných ruží pre svadbu Thompson. Obsahuje aj poznámku, aby pokračovali s kompletnou objednávkou pre 14 stolov. Je pripravená na kontrolu a odoslanie."
   },
-  "testimonialsTitle": "Loved by wedding planners",
+  "testimonialsTitle": "Obľúbený medzi svadobnými plánovačmi",
   "testimonials": [
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "I'm at mountain venues with zero cell service half my week. Meanwhile couples are emailing me about timelines and vendor questions. Duet drafts replies with my exact packages and tone — I review them when I'm back in range.",
+      "quote": "Som na horských miestach bez signálu polovicu týždňa. Medzitým mi páry píšu o časových harmonogramoch a otázkach pre dodávateľov. Duet pripraví odpovede s mojimi presnými balíkmi a tónom — skontrolujem ich, keď som späť v dosahu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Full-Service Wedding Planner, CA",
-      "quote": "Coordinating 10+ vendors per wedding means my inbox is a war zone during peak season. Duet categorizes vendor emails separately from client emails and drafts follow-ups I'd have written myself. I actually sleep now.",
+      "quote": "Koordinovať viac ako 10 dodávateľov na jednu svadbu znamená, že moja schránka je počas hlavnej sezóny bojové pole. Duet triedi e-maily od dodávateľov oddelene od e-mailov od klientov a pripravuje následné odpovede, aké by som napísal sám. Teraz sa naozaj vyspím.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Day-of Coordinator, TX",
-      "quote": "On wedding days I'm unavailable for 14 hours straight. New inquiries used to sit unanswered until Monday. Now Duet handles them instantly and I've booked 3 extra weddings this quarter from faster response times alone.",
+      "quote": "V deň svadby som 14 hodín v kuse nedostupná. Nové dopyty kedysi zostávali bez odpovede až do pondelka. Teraz ich Duet vybaví okamžite a tento štvrťrok som získala o 3 svadby navyše len vďaka rýchlejším reakciám.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "My couples fly in from all over the world and email at all hours. Duet learned my FAQ answers — venue logistics, local vendors, what to expect — and drafts replies that sound exactly like me. Clients have no idea.",
+      "quote": "Moji klienti prilietajú z celého sveta a píšu v ktorúkoľvek hodinu. Duet sa naučil moje odpovede na FAQ — logistika miesta, miestni dodávatelia, čo očakávať — a pripravuje odpovede, ktoré znejú presne ako ja. Klienti o ničom netušia.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Wedding & Event Planner, NY",
-      "quote": "I was spending 2 hours every night answering the same package and availability questions. Duet handles the repetitive stuff so I can focus on the creative work I actually love. It paid for itself in the first week.",
+      "quote": "Každý večer som trávila 2 hodiny odpovedaním na tie isté otázky o balíkoch a dostupnosti. Duet vybaví opakujúce sa veci, takže sa môžem sústrediť na tvorivú prácu, ktorú naozaj milujem. Vyplatil sa už v prvom týždni.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Be present at the ceremony,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Buďte prítomní na obrade,\nnie zahrabaní v schránke.",
+  "ctaSubline": "Spustite bezplatnú skúšobnú verziu. Pripojte si schránku za 30 sekúnd.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work with all the vendor coordination emails?",
-      "answer": "Yes. Duet learns your vendor contacts, preferred vendors, and how you communicate with each one. It categorizes vendor emails by wedding and drafts replies with the right details — confirmations, follow-ups, timeline updates. You review and send. It handles florists, caterers, venues, DJs, photographers, and every other vendor in your rolodex."
+      "question": "Funguje Duet so všetkými e-mailmi na koordináciu dodávateľov?",
+      "answer": "Áno. Duet sa naučí vaše kontakty na dodávateľov, preferovaných dodávateľov a spôsob, akým s každým komunikujete. Triedi e-maily od dodávateľov podľa svadby a pripravuje odpovede so správnymi detailmi — potvrdenia, následné správy, aktualizácie harmonogramu. Vy ich skontrolujete a odošlete. Zvládne floristov, catering, miesta konania, DJ-ov, fotografov a každého ďalšieho dodávateľa vo vašom zozname."
     },
     {
-      "question": "I'm on-site at weddings and venues all day. Will I miss new inquiries?",
-      "answer": "That's exactly what Duet solves. When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps. You review and send whenever you're free — even from your phone between events. Most planners tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Som celý deň priamo na svadbách a miestach konania. Neuniknú mi nové dopyty?",
+      "answer": "Presne toto Duet rieši. Keď vám pár napíše s otázkou na dostupnosť alebo balíky, zatiaľ čo koordinujete na mieste, Duet pripraví srdečnú, profesionálnu odpoveď s vašou skutočnou dostupnosťou a ďalšími krokmi. Vy ju skontrolujete a odošlete, kedykoľvek budete mať čas — aj z telefónu medzi podujatiami. Väčšina plánovačov nám hovorí, že im to počas hlavnej sezóny ušetrí 1-2 hodiny času denne v e-mailoch."
     }
   ],
-  "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."
+  "pricingNote": "Pri $8,000/svadba jeden ušetrený klient zaplatí viac ako 20 rokov Pro."
 }
