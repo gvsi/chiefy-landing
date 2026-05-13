@@ -27,7 +27,7 @@
   "blog.index.empty": "Aún no hay artículos. Vuelve pronto.",
   "blog.index.count": "{count} artículos",
   "blog.index.issue": "No. {issue}",
-  "blog.pages.index.title": "Blog | Duet Mail",
+  "blog.pages.index.title": "Blog de Duet Mail",
   "blog.pages.index.description": "Ideas sobre productividad del correo electrónico, asistentes de IA y cómo sacar el máximo partido de tu bandeja de entrada. Consejos, guías y novedades del equipo de Duet Mail.",
   "blog.readArticle": "Leer artículo",
   "blog.recentArticles": "Artículos recientes",

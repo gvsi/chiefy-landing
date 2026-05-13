@@ -32,6 +32,7 @@ jobs:
           pnpm i18n:sync-locales
           pnpm i18n:sync-glossary
           pnpm i18n:verify:contracts
+          pnpm i18n:verify
 
       - name: Check Astro and Pages Functions
         run: |

@@ -32,6 +32,30 @@
       "location": "https://duetmail.com/"
     },
     {
+      "name": "Generated root index html canonicalizes to root",
+      "input": "https://duetmail.com/index.html?ref=partner",
+      "status": 301,
+      "location": "https://duetmail.com/?ref=partner"
+    },
+    {
+      "name": "Default locale generated index html canonicalizes to root",
+      "input": "https://duetmail.com/en/index.html",
+      "status": 301,
+      "location": "https://duetmail.com/"
+    },
+    {
+      "name": "Default locale alias generated index html canonicalizes to root",
+      "input": "https://duetmail.com/en-US/index.html",
+      "status": 301,
+      "location": "https://duetmail.com/"
+    },
+    {
+      "name": "Localized generated index html canonicalizes to localized root",
+      "input": "https://duetmail.com/de/index.html",
+      "status": 301,
+      "location": "https://duetmail.com/de"
+    },
+    {
       "name": "Default locale blog canonicalizes to unprefixed",
       "input": "https://duetmail.com/en/blog/example",
       "status": 301,

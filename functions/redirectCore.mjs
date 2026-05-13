@@ -54,6 +54,15 @@ function stripHtmlExtension(pathname) {
     return pathname.endsWith(".html") ? pathname.slice(0, -".html".length) || "/" : pathname
 }
 
+function canonicalizeHomepageIndex(pathname) {
+    const parts = pathname.split("/").filter(Boolean)
+    if (parts.length === 1 && parts[0] === "index") return "/"
+    if (parts.length === 2 && SUPPORTED_LOCALES.has(parts[0]) && parts[1] === "index") {
+        return `/${parts[0]}`
+    }
+    return pathname
+}
+
 function isKnownHtmlRoute(pathname) {
     const parts = pathname.split("/").filter(Boolean)
     const offset = parts[0] && SUPPORTED_LOCALES.has(parts[0]) ? 1 : 0
@@ -158,8 +167,12 @@ export function computeCanonicalRedirect(request) {
         const localeCanonical = canonicalLocalePrefixedPath(pathname)
         if (localeCanonical !== pathname) pathname = localeCanonical
 
-        const htmlCanonical = stripHtmlExtension(pathname)
+        let htmlCanonical = stripHtmlExtension(pathname)
+        if (htmlCanonical !== pathname) htmlCanonical = canonicalizeHomepageIndex(htmlCanonical)
         if (htmlCanonical !== pathname && isKnownHtmlRoute(htmlCanonical)) pathname = htmlCanonical
+
+        const indexCanonical = canonicalizeHomepageIndex(pathname)
+        if (indexCanonical !== pathname && isKnownHtmlRoute(indexCanonical)) pathname = indexCanonical
 
         const slashCanonical = withoutTrailingSlash(pathname)
         if (slashCanonical !== pathname && isKnownHtmlRoute(slashCanonical)) pathname = slashCanonical

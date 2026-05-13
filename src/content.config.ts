@@ -13,6 +13,7 @@ const blog = defineCollection({
         publishedAt: z.coerce.date(),
         updatedAt: z.coerce.date().optional(),
         author: z.string().default("Duet Mail Team"),
+        authorType: z.enum(["team", "person"]).default("team"),
         coverImage: z.string().optional(),
         coverImageAlt: z.string().optional(),
         tags: z.array(z.string()).default([]),

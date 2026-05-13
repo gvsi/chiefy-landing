@@ -130,6 +130,59 @@ function assertLegalHtmlStructure(relativePath, content) {
     })
 }
 
+const legalEnglishLeftoverPhrases = [
+    "By email:",
+    "Contact Us",
+    "Your California Privacy Rights",
+    "Policy as Required by California Online Privacy Protection Act",
+]
+
+function assertNoHighVisibilityEnglishLegalLeftovers(relativePath, content) {
+    for (const phrase of legalEnglishLeftoverPhrases) {
+        if (content.includes(phrase)) {
+            fail(`High-visibility English legal copy remains in ${relativePath}: ${phrase}`)
+        }
+    }
+}
+
+function legalLastUpdated(relativePath) {
+    const match = readText(relativePath).match(/^<!-- lastUpdated: (\d{4}-\d{2}-\d{2}) -->/u)
+    return match?.[1]
+}
+
+const requiredLocalizedMessageKeys = [
+    "blog.index.title",
+    "blog.pages.index.title",
+    "legalNav.disclaimer",
+    "legal.pages.disclaimer.title",
+]
+
+function assertMessageQualityContracts(locale, messages, englishMessages) {
+    const titleSuffix = messages["blog.titleSuffix"]
+    if (typeof titleSuffix !== "string" || !/^\{title\} \| \S/u.test(titleSuffix)) {
+        fail(`blog.titleSuffix must preserve "{title} | " spacing for ${locale}`)
+    }
+
+    if (locale === "en") return
+    for (const key of requiredLocalizedMessageKeys) {
+        if (messages[key] === englishMessages[key]) {
+            fail(`High-visibility message still equals English for ${locale}: ${key}`)
+        }
+    }
+}
+
+function assertLayoutContracts() {
+    const faqSource = readText("src/components/sections/FAQ.astro")
+    if (!faqSource.includes("...faq.items") || !faqSource.includes("...verticalFaqs")) {
+        fail("FAQ.astro must merge shared FAQ items with vertical-specific FAQ items")
+    }
+
+    const blogLayoutSource = readText("src/layouts/BlogLayout.astro")
+    if (blogLayoutSource.includes('author !== "Duet Mail Team"')) {
+        fail("BlogLayout.astro must not suppress team bylines by comparing localized author display strings")
+    }
+}
+
 function parseMarkdownFrontmatter(content, relativePath) {
     if (!content.startsWith("---\n")) fail(`Markdown missing frontmatter: ${relativePath}`)
     const end = content.indexOf("\n---", 4)
@@ -399,8 +452,10 @@ async function assertSourceContentFiles({ complete }) {
     const legalPages = ["cookies", "disclaimer", "privacy", "terms"]
     const verticalFiles = listFiles("src/data/verticals", ".json")
     const englishBlogFiles = listFiles("src/content/blog/en", ".md")
+    const englishMessages = readJson("src/i18n/messages/en.json")
 
     assertNoDuplicateTopLevelJsonKeys("src/i18n/messages/en.json")
+    assertLayoutContracts()
 
     for (const locale of locales) {
         assertFile(`src/i18n/messages/${locale}.json`)
@@ -431,6 +486,13 @@ async function assertSourceContentFiles({ complete }) {
         }
         if (!/^<!-- lastUpdated: \d{4}-\d{2}-\d{2} -->/u.test(readText(`src/i18n/content/legal/en/${page}.html`))) {
             fail(`English legal file missing leading lastUpdated comment: ${page}`)
+        }
+        const englishLastUpdated = legalLastUpdated(`src/i18n/content/legal/en/${page}.html`)
+        for (const locale of locales) {
+            const localizedLastUpdated = legalLastUpdated(`src/i18n/content/legal/${locale}/${page}.html`)
+            if (localizedLastUpdated !== englishLastUpdated) {
+                fail(`Legal lastUpdated metadata must match English for ${locale}/${page}: ${localizedLastUpdated} !== ${englishLastUpdated}`)
+            }
         }
     }
 
@@ -464,6 +526,7 @@ async function assertSourceContentFiles({ complete }) {
 
     for (const locale of locales) {
         const messages = readJson(`src/i18n/messages/${locale}.json`)
+        assertMessageQualityContracts(locale, messages, englishMessages)
         const home = readJson(`src/i18n/content/home/${locale}.json`)
         if (locale === localeSource.default_locale) {
             if ("translationStatus" in messages) fail("English messages must not have translationStatus")
@@ -482,6 +545,9 @@ async function assertSourceContentFiles({ complete }) {
             }
             const legal = readText(`src/i18n/content/legal/${locale}/${page}.html`)
             assertLegalHtmlStructure(`src/i18n/content/legal/${locale}/${page}.html`, legal)
+            if (locale !== localeSource.default_locale) {
+                assertNoHighVisibilityEnglishLegalLeftovers(`src/i18n/content/legal/${locale}/${page}.html`, legal)
+            }
             if (/<p\b[^>]*>\s*Last updated:/iu.test(legal)) {
                 fail(`Copied legal file still has visible Last updated paragraph: ${locale}/${page}`)
             }

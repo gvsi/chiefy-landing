@@ -22,7 +22,7 @@
   "language.current": "Nykyinen kieli: {language}",
   "language.switchTo": "Vaihda kieleksi {language}",
   "blog.index.eyebrow": "Lehti",
-  "blog.index.title": "Insights",
+  "blog.index.title": "Näkemykset",
   "blog.index.description": "Näkökulmia sähköpostin tuottavuudesta, AI:stä ja työn tulevaisuudesta.",
   "blog.index.empty": "Ei artikkeleita vielä. Tarkista pian uudelleen.",
   "blog.index.count": "{count} -tuotteet",

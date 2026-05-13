@@ -35,7 +35,7 @@ type Props = {
 
 const { faq, verticalFaqs } = Astro.props;
 
-const allFaqs = verticalFaqs ?? faq.items;
+const allFaqs = verticalFaqs?.length ? [...faq.items, ...verticalFaqs] : faq.items;
 ---
 
 <section id="faq" class="faq" aria-label={faq.ariaLabel}>

@@ -22,7 +22,7 @@
   "language.current": "Praegune keel: {language}",
   "language.switchTo": "Lülitu keelele {language}",
   "blog.index.eyebrow": "Ajakiri",
-  "blog.index.title": "Insights",
+  "blog.index.title": "Ülevaated",
   "blog.index.description": "Meili tootlikkuse, tehisintellekti ja töö tuleviku väljavaated.",
   "blog.index.empty": "Artikleid veel pole. Tulge varsti tagasi.",
   "blog.index.count": "{count} artiklit",

@@ -20,6 +20,7 @@ type Props = {
     publishedAt: Date
     updatedAt?: Date
     author: string
+    authorType?: "team" | "person"
     coverImage?: string
     coverImageAlt?: string
     tags?: string[]
@@ -37,6 +38,7 @@ const {
     publishedAt,
     updatedAt,
     author,
+    authorType = "team",
     coverImage,
     coverImageAlt,
     tags = [],
@@ -48,6 +50,7 @@ const readingTime = calculateReadingTimeForLocale(body, locale)
 
 const formattedDate = formatDate(publishedAt, locale)
 const formattedUpdatedDate = updatedAt ? formatDate(updatedAt, locale) : undefined
+const showAuthorByline = authorType !== "team"
 
 const canonicalPath = localizedPath(locale, { kind: "blogPost", slug })
 const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
@@ -186,12 +189,12 @@ const extraHeadHtml = [
 
                 <p class="article-description">{description}</p>
 
-                {(author !== "Duet Mail Team" || formattedUpdatedDate) && (
+                {(showAuthorByline || formattedUpdatedDate) && (
                     <div class="article-byline">
-                        {author !== "Duet Mail Team" && (
+                        {showAuthorByline && (
                             <span class="article-author">{t(messages, "blog.byAuthor", { author })}</span>
                         )}
-                        {author !== "Duet Mail Team" && formattedUpdatedDate && (
+                        {showAuthorByline && formattedUpdatedDate && (
                             <span class="article-meta-dot" aria-hidden="true"></span>
                         )}
                         {formattedUpdatedDate && (
