@@ -58,7 +58,7 @@ const closeMenuLabel = t(messages, "nav.closeMenu")
             />
         </a>
 
-        <nav class="hidden items-center gap-6 md:flex" aria-label={t(messages, "legalNav.aria")}>
+        <nav class="hidden items-center gap-6 xl:flex" aria-label={t(messages, "legalNav.aria")}>
             {links.map((link) => (
                 <a
                     class:list={[
@@ -87,7 +87,7 @@ const closeMenuLabel = t(messages, "nav.closeMenu")
                 className="desktop-language-menu"
             />
             <ThemeToggle ariaLabel={t(messages, "theme.toggle")} />
-            <details class="mobile-menu md:hidden" data-mobile-menu>
+            <details class="mobile-menu xl:hidden" data-mobile-menu>
                 <summary
                     class="mobile-menu-trigger"
                     aria-label={openMenuLabel}
@@ -342,8 +342,9 @@ const closeMenuLabel = t(messages, "nav.closeMenu")
     .mobile-menu-link {
         display: flex;
         align-items: center;
-        height: 48px;
-        padding: 0 16px;
+        min-height: 48px;
+        height: auto;
+        padding: 10px 16px;
         font-family: "Manrope Variable", ui-sans-serif, system-ui, -apple-system,
             BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial;
         font-size: 14px;
@@ -353,6 +354,8 @@ const closeMenuLabel = t(messages, "nav.closeMenu")
         text-decoration: none;
         border-radius: 10px;
         flex-shrink: 0;
+        white-space: normal;
+        overflow-wrap: anywhere;
         transition: background 0.15s ease, color 0.15s ease;
     }
 
@@ -378,7 +381,7 @@ const closeMenuLabel = t(messages, "nav.closeMenu")
         display: none;
     }
 
-    @media (min-width: 768px) {
+    @media (min-width: 1280px) {
         :global(.desktop-language-menu) {
             display: block;
         }

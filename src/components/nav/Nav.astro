@@ -61,7 +61,7 @@ const closeMenuLabel = t(messages, "nav.closeMenu");
             />
         </a>
 
-        <nav class="hidden items-center gap-6 md:flex" aria-label={t(messages, "nav.aria")}>
+        <nav class="hidden items-center gap-6 xl:flex" aria-label={t(messages, "nav.aria")}>
             {navLinks.map((link) => <a class="nav-link" href={link.href}>{link.label}</a>)}
         </nav>
 
@@ -75,7 +75,7 @@ const closeMenuLabel = t(messages, "nav.closeMenu");
             <ThemeToggle ariaLabel={t(messages, "theme.toggle")} />
             <a class="nav-cta" href={AUTH_CHOOSER_URL}>{t(messages, "nav.getStarted")}</a>
 
-            <details class="mobile-menu md:hidden" data-mobile-menu>
+            <details class="mobile-menu xl:hidden" data-mobile-menu>
                 <summary
                     class="mobile-menu-trigger"
                     aria-label={openMenuLabel}
@@ -361,8 +361,9 @@ const closeMenuLabel = t(messages, "nav.closeMenu");
     .mobile-menu-link {
         display: flex;
         align-items: center;
-        height: 48px;
-        padding: 0 16px;
+        min-height: 48px;
+        height: auto;
+        padding: 10px 16px;
         font-family:
             "Manrope Variable",
             ui-sans-serif,
@@ -380,6 +381,8 @@ const closeMenuLabel = t(messages, "nav.closeMenu");
         text-decoration: none;
         border-radius: 10px;
         flex-shrink: 0;
+        white-space: normal;
+        overflow-wrap: anywhere;
         transition:
             background 0.15s ease,
             color 0.15s ease;
@@ -399,7 +402,7 @@ const closeMenuLabel = t(messages, "nav.closeMenu");
         display: none;
     }
 
-    @media (min-width: 768px) {
+    @media (min-width: 1280px) {
         :global(.desktop-language-menu) {
             display: block;
         }
