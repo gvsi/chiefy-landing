@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "റാഫ്റ്റിംഗിനും കയാക്ക് ഔട്ട്‌ഫിറ്ററുകൾക്കുമുള്ള Duet Mail | AI ഇമെയിൽ അസിസ്റ്റന്റ്",
+  "metaDescription": "റാഫ്റ്റിംഗ് ഗൈഡുകളെയും കയാക്കിംഗ് സംഘാംഗങ്ങളെയും യാത്രാ അന്വേഷണങ്ങൾക്ക് തൽക്ഷണം പ്രതികരിക്കാൻ Duet Mail സഹായിക്കുന്നു - നദിയിൽ നിന്നുപോലും. നിങ്ങളുടെ യാത്രാ വിശദാംശങ്ങൾ, വിലനിർണ്ണയം, ശബ്ദം എന്നിവ ഉപയോഗിച്ച് AI തയ്യാറാക്കിയ മറുപടികൾ.",
+  "heroBadge": "200+ റിവർ ഗൈഡുകൾ വിശ്വസിക്കുന്നു.",
+  "heroHeadline": "നിങ്ങൾ നദിയിലായിരിക്കുമ്പോൾ നിങ്ങളുടെ ഇമെയിൽ അസിസ്റ്റന്റ്",
+  "heroSubline": "നിങ്ങളുടെ യാത്രാ തരങ്ങൾ, വിലനിർണ്ണയം, ഗിയർ ലിസ്റ്റുകൾ എന്നിവ Duet മനസ്സിലാക്കുന്നു — തുടർന്ന് ബുക്കിംഗ് അന്വേഷണങ്ങൾക്കുള്ള മറുപടികൾ ഡ്രാഫ്റ്റ് ചെയ്യുന്നു, അതുവഴി നിങ്ങൾ റാപ്പിഡ് ഓടിക്കൊണ്ടിരിക്കുമ്പോൾ ഉപഭോക്താക്കൾക്ക് ഉത്തരങ്ങൾ ലഭിക്കും.",
   "inboxEmails": [
     {
-      "from": "Jennifer W.",
+      "from": "ജെന്നിഫർ ഡബ്ല്യു.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "ആഗസ്റ്റ് 9 ന് 6 പേർക്ക് മുഴുവൻ ദിവസത്തെ റാഫ്റ്റ് യാത്ര?",
+      "preview": "ഹായ്! ഞങ്ങൾ 6 പേരടങ്ങുന്ന ഒരു കുടുംബമാണ് ആഗസ്റ്റിൽ സന്ദർശിക്കുന്നത്, 9-ാം തീയതി ഒരു മുഴുവൻ ദിവസത്തെ റാഫ്റ്റിംഗ് യാത്ര ബുക്ക് ചെയ്യാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു. ഒരാൾക്ക് എത്ര വിലവരും, ഞങ്ങൾക്ക് എന്ത് അനുഭവ നിലവാരമാണ് വേണ്ടത്?",
+      "pill": "പ്രതികരിക്കാൻ",
       "pillColor": "red"
     },
     {
-      "from": "Brian T.",
+      "from": "ബ്രയാൻ ടി.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "ഒന്നിലധികം ദിവസത്തെ യാത്ര — എന്തൊക്കെയാണ് ഉൾപ്പെടുത്തിയിരിക്കുന്നത്?",
+      "preview": "നിങ്ങളുടെ 3 ദിവസത്തെ പര്യവേഷണം നോക്കാൻ ഞങ്ങൾ 4 പേരടങ്ങുന്ന ഒരു സംഘമാണ്. ഭക്ഷണം, ക്യാമ്പിംഗ് ഉപകരണങ്ങൾ, ഡ്രൈ ബാഗുകൾ എന്നിവ ഇതിൽ ഉൾപ്പെട്ടിട്ടുണ്ടോ അതോ സ്വന്തമായി കൊണ്ടുവരേണ്ടതുണ്ടോ...",
+      "pill": "ചോദ്യം",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel & Mark S.",
+      "from": "റേച്ചൽ & മാർക്ക് എസ്.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "8 ഉം 10 ഉം വയസ്സുള്ള കുട്ടികൾ - വേണ്ടത്ര സുരക്ഷിതരാണോ?",
+      "preview": "ഞങ്ങൾക്ക് ഹാഫ് ഡേ ട്രിപ്പ് പോകാൻ ഇഷ്ടമാണ്, പക്ഷേ ഞങ്ങളുടെ കുട്ടികൾക്ക് 8 ഉം 10 ഉം വയസ്സാണ്. ക്ലാസ് II വിഭാഗം അവരുടെ പ്രായത്തിന് അനുയോജ്യമാണോ? ഏറ്റവും കുറഞ്ഞ യാത്ര എത്രയാണ്...",
+      "pill": "ചോദ്യം",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "നിങ്ങളുടെ ലിസ്റ്റിംഗിന് പുതിയ അവലോകനം",
+      "preview": "ഒരു യാത്രക്കാരൻ അടുത്തിടെ നിങ്ങളുടെ ബിസിനസ്സ് അവലോകനം ചെയ്തു. അവർക്ക് എന്താണ് പറയാനുള്ളത്, എന്താണ് മറുപടി നൽകുന്നതെന്ന് കാണുക...",
+      "pill": "നിങ്ങളുടെ അറിവിലേക്കായി",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "ഹേ ജെന്നിഫർ! ഓഗസ്റ്റ് 9 ആറ് പേർക്ക് തുറന്നിരിക്കുന്നു. മുഴുവൻ ദിവസത്തെ യാത്രകൾക്ക് ഒരാൾക്ക് $150 ആണ്, ഏകദേശം 7 മണിക്കൂർ ഓടും - ഞങ്ങൾ രാവിലെ 8:30 ന് യാത്രയ്ക്ക് സമയം നൽകുന്നു. പരിചയം ആവശ്യമില്ല, ഞങ്ങളുടെ ഗൈഡുകൾ എല്ലാം കൈകാര്യം ചെയ്യുന്നു. PFDകൾ, ഹെൽമെറ്റുകൾ, ഡ്രൈ ബാഗുകൾ, നദിക്കരയിലെ ഉച്ചഭക്ഷണം എന്നിവയെല്ലാം ഉൾപ്പെടുന്നു. നനയാൻ വിരോധമില്ലാത്ത സൺസ്‌ക്രീൻ, വാട്ടർ ഷൂസ്, വസ്ത്രങ്ങൾ എന്നിവ കൊണ്ടുവരിക. നിങ്ങളുടെ സീറ്റുകൾ ഞാൻ ബുക്ക് ചെയ്യണോ?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "വ്യക്തി",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "സേവ് ചെയ്ത രണ്ട് ബുക്കിംഗുകൾക്ക് ഒരു വർഷം മുഴുവൻ Duet ലഭിക്കും."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet എല്ലാ ഇമെയിലുകളെയും സ്വയമേവ ടാഗ് ചെയ്യുന്നതിനാൽ യാത്രാ അന്വേഷണങ്ങൾ ആദ്യം വരും, ഗിയർ ചോദ്യങ്ങൾ രണ്ടാമത്തേതും, പ്രൊമോ നോയ്‌സ് അപ്രത്യക്ഷമാകും. TripAdvisor അലേർട്ടുകൾക്ക് കീഴിൽ മറഞ്ഞിരിക്കുന്ന ഗ്രൂപ്പ് ബുക്കിംഗ് ഇനി നഷ്ടമാകില്ല.",
+  "draftSubtitle": "നിങ്ങളുടെ യാത്രാ തരങ്ങൾ, റാപ്പിഡ് ക്ലാസുകൾ, ഗിയർ ലിസ്റ്റുകൾ, റദ്ദാക്കൽ നയം എന്നിവ Duet പഠിക്കുന്നു. ഒരു ബുക്കിംഗ് അന്വേഷണം എത്തുമ്പോൾ, ഉപഭോക്താവിന് ആവശ്യമുള്ളതെല്ലാം ഉൾപ്പെടുത്തി ഒരു പൂർണ്ണമായ മറുപടി അത് തയ്യാറാക്കുന്നു. നിങ്ങൾ അവലോകനം ചെയ്ത് അയയ്ക്കുന്നു.",
+  "agentSubtitle": "\"ശനിയാഴ്ച മുഴുവൻ ദിവസത്തിൽ ഒഴിവുള്ള എന്തെങ്കിലും സ്ഥലങ്ങളുണ്ടോ?\" \"ലഭ്യതയോടെ ജെന്നിഫറിന് ഒരു മറുപടി തയ്യാറാക്കുക.\" Duet-ന് നിങ്ങളുടെ ഇൻബോക്സും ഷെഡ്യൂളും അറിയാം - ചോദിച്ചാൽ മതി.",
   "categorizationEmails": [
     {
-      "from": "Jennifer W.",
+      "from": "ജെന്നിഫർ ഡബ്ല്യു.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "ആഗസ്റ്റ് 9 ന് 6 പേർക്ക് മുഴുവൻ ദിവസത്തെ റാഫ്റ്റ് യാത്ര?",
+      "preview": "ഓഗസ്റ്റിൽ സന്ദർശിക്കാൻ പോകുന്ന 6 പേരടങ്ങുന്ന ഒരു കുടുംബമാണ് ഞങ്ങൾ, ബുക്ക് ചെയ്യാൻ ആഗ്രഹിക്കുന്നു...",
+      "pill": "ഇപ്പോൾ പ്രതികരിക്കുക",
       "pillColor": "red"
     },
     {
-      "from": "Brian T.",
+      "from": "ബ്രയാൻ ടി.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "Re: 3 ദിവസത്തെ പര്യവേഷണം സ്ഥിരീകരിച്ചു — ഓഗസ്റ്റ് 15",
+      "pill": "ബുക്ക് ചെയ്തു",
       "pillColor": "blue"
     },
     {
-      "from": "Rachel S.",
+      "from": "റേച്ചൽ എസ്.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "8 ഉം 10 ഉം വയസ്സുള്ള കുട്ടികൾക്ക് രണ്ടാം ക്ലാസ്സിൽ ചേരാൻ സുഖമാണോ?",
+      "pill": "ചോദ്യം",
       "pillColor": "amber"
     },
     {
-      "from": "The Flybook",
+      "from": "ദി ഫ്ലൈബുക്ക്",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "നിങ്ങളുടെ പ്രതിവാര ബുക്കിംഗ് സംഗ്രഹം",
+      "pill": "നിങ്ങളുടെ അറിവിലേക്കായി",
       "pillColor": "lavender"
     },
     {
-      "from": "NRS",
+      "from": "എൻ‌ആർ‌എസ്",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "സീസൺ അവസാനിക്കുന്ന വിൽപ്പന — ഡ്രൈ സ്യൂട്ടുകൾക്ക് 30% കിഴിവ്",
+      "pill": "പ്രമോഷനുകൾ",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: ഓഗസ്റ്റ് 9 ന് 6 പേർക്ക് മുഴുവൻ ദിവസത്തെ റാഫ്റ്റ് യാത്ര?",
+    "originalFrom": "ജെന്നിഫർ ഡബ്ല്യു. എഴുതി:",
+    "originalText": "ഹായ്! ഞങ്ങൾ 6 പേരടങ്ങുന്ന ഒരു കുടുംബമാണ് ആഗസ്റ്റിൽ സന്ദർശിക്കുന്നത്, 9-ാം തീയതി ഒരു മുഴുവൻ ദിവസത്തെ റാഫ്റ്റിംഗ് യാത്ര ബുക്ക് ചെയ്യാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു. ഒരാൾക്ക് എത്ര വിലവരും, ഞങ്ങൾക്ക് എന്ത് അനുഭവ നിലവാരമാണ് വേണ്ടത്?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "ഹേയ് ജെന്നിഫർ!",
+      "ഓഗസ്റ്റ് 9 ന് 6 പേർക്ക് തുറന്നിരിക്കും. മുഴുവൻ ദിവസത്തെ യാത്രകൾക്ക് ഒരാൾക്ക് $150 ആണ്, ഏകദേശം 7 മണിക്കൂർ എടുക്കും - ഞങ്ങൾ രാവിലെ 8:30 ന് പുട്ട്-ഇന്നിൽ കണ്ടുമുട്ടുന്നു.",
+      "പരിചയം ആവശ്യമില്ല. PFD-കൾ, ഹെൽമെറ്റുകൾ, ഡ്രൈ ബാഗുകൾ, നദിക്കരയിലെ ഉച്ചഭക്ഷണം എന്നിവയെല്ലാം ഉൾപ്പെടുന്നു - സൺസ്‌ക്രീനും വാട്ടർ ഷൂസും കൊണ്ടുവരിക.",
+      "നിങ്ങളുടെ സ്ഥലങ്ങൾ ഞാൻ റിസർവ് ചെയ്യണോ?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "ഓഗസ്റ്റ് 9 ന് 6 പേർക്ക് തുറന്നിരിക്കും. മുഴുവൻ ദിവസത്തെ യാത്രകൾക്ക് ഒരാൾക്ക് $150 ആണ്.",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "നിങ്ങളുടെ യാത്രാ തരങ്ങളും വിലനിർണ്ണയവും അറിയാം",
+      "നിങ്ങളുടെ ശബ്ദത്തിലെ ഡ്രാഫ്റ്റുകൾ",
+      "ഗിയർ ലിസ്റ്റുകൾ സ്വയമേവ ഉൾപ്പെടുത്തുന്നു",
+      "കാലക്രമേണ പഠിക്കുന്നു"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "ശനിയാഴ്ചത്തെ മുഴുവൻ ദിവസത്തെ യാത്രയിൽ തുറന്ന സ്ഥലങ്ങൾ ഉണ്ടോ?",
+    "agentResponse": "ശനിയാഴ്ചത്തെ ഫുൾ-ഡേയിൽ 10 സീറ്റിൽ 4 സീറ്റുകൾ ബാക്കിയുണ്ട്. പൂർണ്ണമായി ബുക്ക് ചെയ്ത ഒരു ഹാഫ് ഡേ പ്രഭാത ഓട്ടവും ഞായറാഴ്ച മൾട്ടി-ഡേ ഡിപ്പാർച്ചറും ഉണ്ട്, 2 സീറ്റുകൾ തുറന്നിരിക്കും. ശനിയാഴ്ച ലഭ്യതയനുസരിച്ച് തീർപ്പാക്കാത്ത ഏതെങ്കിലും അന്വേഷണങ്ങൾക്ക് ഒരു മറുപടി തയ്യാറാക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?",
+    "followUp": "ഓഗസ്റ്റ് 9 ലെ ലഭ്യതയോടെ ജെന്നിഫറിനുള്ള മറുപടി തയ്യാറാക്കുക.",
+    "followUpResponse": "ചെയ്തു! ഓഗസ്റ്റ് 9-ന് 6 അതിഥികൾക്ക് ഒരാൾക്ക് $150 എന്ന നിരക്കിൽ ജെന്നിഫറിന് ഒരു മറുപടി ഞാൻ ഡ്രാഫ്റ്റ് ചെയ്തു. നിങ്ങളുടെ സ്റ്റാൻഡേർഡ് യാത്രാ വിശദാംശങ്ങൾ, ഗിയർ ലിസ്റ്റ്, മീറ്റിംഗ് ലൊക്കേഷൻ എന്നിവ ഇതിൽ ഉൾപ്പെടുന്നു. അവലോകനം ചെയ്യാനും അയയ്ക്കാനും തയ്യാറാണ്."
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "റിവർ ഗൈഡുകൾക്കും ഔട്ട്‌ഫിറ്റർമാർക്കും പ്രിയപ്പെട്ടത്",
   "testimonials": [
     {
-      "name": "Ryan M.",
-      "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "name": "റയാൻ എം.",
+      "title": "റാഫ്റ്റിംഗ് ഔട്ട്ഫിറ്റർ, CO",
+      "quote": "പീക്ക് സീസണിൽ ഞാൻ ആഴ്ചയിൽ 6 ദിവസം നദിയിൽ യാത്ര ചെയ്യും. എനിക്ക് ഇമെയിലുകൾ തിരികെ ലഭിക്കുമ്പോഴേക്കും, പകുതി ഗ്രൂപ്പുകളും മറ്റാരെങ്കിലുമായി ബുക്ക് ചെയ്തിരുന്നു. ഇപ്പോൾ ഞാൻ പുട്ട്-ഇൻ ചെയ്യുമ്പോൾ Duet ഡ്രാഫ്റ്റ് മറുപടികളിൽ യാത്രാ വിശദാംശങ്ങളും വിലയും രേഖപ്പെടുത്തുന്നു.",
       "avatarKey": "michael"
     },
     {
-      "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "name": "കാറ്റി എൽ.",
+      "title": "കയാക്ക് & സപ്പ് ടൂറുകൾ, OR",
+      "quote": "എല്ലാ ഉപഭോക്താവും ഒരേ അഞ്ച് ചോദ്യങ്ങൾ ചോദിക്കുന്നു - വിലനിർണ്ണയം, എന്ത് കൊണ്ടുവരണം, നൈപുണ്യ നില, ഗ്രൂപ്പ് വലുപ്പം, റദ്ദാക്കൽ നയം. ആദ്യ ആഴ്ചയിൽ തന്നെ ഇതെല്ലാം ഞാൻ പഠിച്ചു. എല്ലാ രാത്രിയും ഒരു മണിക്കൂർ ഇമെയിലുകളിൽ നിന്ന് അഞ്ച് മിനിറ്റ് ഡ്രാഫ്റ്റുകൾ അവലോകനം ചെയ്യുന്നതിലേക്ക് ഞാൻ മാറി.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "name": "മാർക്കസ് പി.",
+      "title": "മൾട്ടി-ഡേ എക്സ്പെഡിഷൻ ഗൈഡ്, എകെ",
+      "quote": "സീറോ സെൽ സർവീസ് ഉപയോഗിച്ച് ഞാൻ 5 ദിവസത്തെ യാത്രകൾ നടത്തുന്നു. Duet-ന് മുമ്പ്, ഞാൻ ടൗണിൽ തിരിച്ചെത്തുന്നതുവരെ എല്ലാ അന്വേഷണങ്ങൾക്കും ഉത്തരം ലഭിച്ചിരുന്നില്ല. ഇപ്പോൾ ഉപഭോക്താക്കൾക്ക് മിനിറ്റുകൾക്കുള്ളിൽ വിശദമായ മറുപടി ലഭിക്കും, ഞാൻ നദിയിൽ നിന്ന് ഇറങ്ങുമ്പോൾ സ്ഥിരീകരിക്കുന്നു.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "name": "എലീന ആർ.",
+      "title": "റിവർ അഡ്വഞ്ചേഴ്സ് ഓഫീസ് മാനേജർ, WV",
+      "quote": "നാല് തരം യാത്രകളിലായി മൂന്ന് ഗൈഡുകൾക്കുള്ള ബുക്കിംഗുകൾ ഞാൻ കൈകാര്യം ചെയ്യുന്നു. Duet എല്ലാ ഇമെയിലുകളെയും അടിയന്തിരത അനുസരിച്ച് തരംതിരിക്കുകയും ശരിയായ യാത്ര, ശരിയായ വില, ശരിയായ ഗിയർ ലിസ്റ്റ് എന്നിവ ഉപയോഗിച്ച് മറുപടികൾ തയ്യാറാക്കുകയും ചെയ്യുന്നു. ഇത് എന്നെത്തന്നെ ക്ലോണിംഗ് ചെയ്യുന്നത് പോലെയാണ്.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sophia K.",
-      "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "name": "സോഫിയ കെ.",
+      "title": "വൈറ്റ് വാട്ടർ റാഫ്റ്റിംഗ് കമ്പനി, ഐഡി",
+      "quote": "റാഫ്റ്റിംഗ്-നിർദ്ദിഷ്ട ഇമെയിലുകൾ AI കൈകാര്യം ചെയ്യുമോ എന്ന് ഞങ്ങൾക്ക് സംശയമുണ്ടായിരുന്നു. പക്ഷേ അത് ഞങ്ങളുടെ ക്ലാസ് III vs. ക്ലാസ് IV വിവരണങ്ങൾ, കുറഞ്ഞ പ്രായപരിധി, ഞങ്ങളുടെ വെറ്റ്-എക്സിറ്റ് കയാക്ക് നയം പോലും എടുത്തു. ഉപഭോക്താക്കൾ കരുതുന്നത് അവർ ഞങ്ങളോട് സംസാരിക്കുകയാണെന്നാണ്.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ഇമെയിൽ വായിച്ചു തീർക്കുന്നതിനു പകരം, വേനൽക്കാലം നദിക്കരയിൽ ചെലവഴിക്കുക.",
+  "ctaSubline": "നിങ്ങളുടെ സൗജന്യ ട്രയൽ ആരംഭിക്കൂ. 30 സെക്കൻഡിനുള്ളിൽ നിങ്ങളുടെ ഇൻബോക്സ് ബന്ധിപ്പിക്കൂ.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "ഇഷ്ടാനുസൃത യാത്രാ ഉദ്ധരണികളും ഒന്നിലധികം ദിവസത്തെ പര്യവേഷണ അന്വേഷണങ്ങളും Duet കൈകാര്യം ചെയ്യുമോ?",
+      "answer": "അതെ. Duet നിങ്ങളുടെ മുഴുവൻ യാത്രാ ലൈനപ്പും പഠിക്കുന്നു - ഹാഫ്-ഡേ ഫ്ലോട്ടുകൾ, ഫുൾ-ഡേ റാപ്പിഡുകൾ, മൾട്ടി-ഡേ എക്‌സപെഡിഷനുകൾ - വിലനിർണ്ണയം, എന്താണ് ഉൾപ്പെടുത്തിയിരിക്കുന്നത്, കുറഞ്ഞ പ്രായപരിധി, ബുദ്ധിമുട്ട് ലെവലുകൾ എന്നിവയോടൊപ്പം. 6 പേർക്കുള്ള 3 ദിവസത്തെ യാത്രയെക്കുറിച്ച് ആരെങ്കിലും ചോദിക്കുമ്പോൾ, ശരിയായ വിശദാംശങ്ങൾ ഉൾക്കൊള്ളുന്ന ഒരു പൂർണ്ണമായ മറുപടി അത് ഡ്രാഫ്റ്റ് ചെയ്യുന്നു. നിങ്ങൾ അവലോകനം ചെയ്യുകയും ആവശ്യമെങ്കിൽ മാറ്റങ്ങൾ വരുത്തുകയും അയയ്ക്കുകയും ചെയ്യുന്നു."
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "ഒന്നിലധികം ദിവസത്തെ യാത്രകളിൽ എനിക്ക് ഓഫ്-ഗ്രിഡ് ഉണ്ട്. Duet ഇപ്പോഴും പ്രവർത്തിക്കുമോ?",
+      "answer": "Duet പരിഹരിക്കുന്ന പ്രശ്നം അതാണ്. നിങ്ങൾ സിഗ്നലില്ലാതെ നദിയിലായിരിക്കുമ്പോൾ, വരുന്ന എല്ലാ അന്വേഷണങ്ങൾക്കും Duet ഡ്രാഫ്റ്റുകൾ മറുപടി നൽകുന്നു. നിങ്ങൾ തിരികെ പരിധിയിലെത്തുമ്പോൾ, നിങ്ങളുടെ ഡ്രാഫ്റ്റുകൾ കാത്തിരിക്കുന്നു - അവലോകനം ചെയ്‌ത് അയയ്ക്കുക. മിക്ക ഗൈഡുകളും പറയുന്നത് ഇത് ഓരോ മൾട്ടി-ഡേ ട്രിപ്പിനുശേഷവും അവർ നേരിട്ടിരുന്ന ബാക്ക്‌ലോഗ് ഇല്ലാതാക്കുന്നു എന്നാണ്."
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "ഒരാൾക്ക് $150 എന്ന നിരക്കിൽ, സേവ് ചെയ്ത രണ്ട് ബുക്കിംഗുകൾ ഒരു വർഷം മുഴുവൻ Pro ന്റെ ചെലവ് കവർ ചെയ്യുന്നു."
 }

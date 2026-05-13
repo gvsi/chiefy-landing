@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "കുതിരസവാരി & ട്രെയിൽ ഗൈഡുകൾക്കുള്ള Duet Mail | AI ഇമെയിൽ അസിസ്റ്റന്റ്",
+  "metaDescription": "ബുക്കിംഗ് ഇമെയിലുകൾക്ക് തൽക്ഷണം മറുപടി നൽകാൻ ട്രെയിൽ റൈഡ് ഓപ്പറേറ്റർമാരെ Duet Mail സഹായിക്കുന്നു - സീറ്റിൽ നിന്ന് പോലും. നിങ്ങളുടെ വിലനിർണ്ണയം, റൈഡർ ആവശ്യകതകൾ, ശബ്‌ദം എന്നിവ ഉപയോഗിച്ച് AI-ഡ്രാഫ്റ്റ് ചെയ്ത മറുപടികൾ.",
+  "heroBadge": "300+ ട്രെയിൽ ഗൈഡുകൾ വിശ്വസിക്കുന്നു",
+  "heroHeadline": "നിങ്ങൾ യാത്രയിലായിരിക്കുമ്പോൾ നിങ്ങളുടെ ഇമെയിൽ അസിസ്റ്റന്റ്",
+  "heroSubline": "Duet നിങ്ങളുടെ റൈഡ് തരങ്ങൾ, വിലനിർണ്ണയം, റൈഡർ ആവശ്യകതകൾ, ട്രെയിൽ അവസ്ഥകൾ എന്നിവ പഠിക്കുന്നു — തുടർന്ന് ഇമെയിൽ മറുപടികൾ ഡ്രാഫ്റ്റ് ചെയ്യുന്നു, അതിനാൽ മന്ദഗതിയിലുള്ള പ്രതികരണം കാരണം നിങ്ങൾക്ക് ഒരിക്കലും ബുക്കിംഗ് നഷ്ടമാകില്ല.",
   "inboxEmails": [
     {
-      "from": "Jessica T.",
+      "from": "ജെസീക്ക ടി.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "ശനിയാഴ്ച രാവിലെ 6 മണിക്ക് ഗ്രൂപ്പ് ബുക്കിംഗ്?",
+      "preview": "ഹായ്! ഞങ്ങൾ 6 പേരടങ്ങുന്ന ഒരു കുടുംബമാണ് (2 മുതിർന്നവർ, 8-14 വയസ്സ് പ്രായമുള്ള 4 കുട്ടികൾ). ഈ ശനിയാഴ്ച രാവിലെ ഒരു ട്രെയിൽ റൈഡ് ബുക്ക് ചെയ്യാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു. നിങ്ങളുടെ കൈവശം ലഭ്യമാണോ? ഒരാൾക്ക് എത്രയാണ് വില?",
+      "pill": "പ്രതികരിക്കാൻ",
       "pillColor": "red"
     },
     {
-      "from": "Brian L.",
+      "from": "ബ്രയാൻ എൽ.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "ഭാര പരിധി ചോദ്യം",
+      "preview": "ഹേയ്, ഒരു റൈഡ് ബുക്ക് ചെയ്യാൻ എനിക്ക് താൽപ്പര്യമുണ്ട്, പക്ഷേ ആദ്യം നിങ്ങളുടെ ഭാരത്തെക്കുറിച്ച് ചോദിക്കാൻ ഞാൻ ആഗ്രഹിച്ചു. എനിക്ക് ഏകദേശം 260 പൗണ്ട് ഭാരമുണ്ട് - അത് ഒരു പ്രശ്നമാകുമോ...",
+      "pill": "ചോദ്യം",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "ആമി & ഡാൻ ഡബ്ല്യു.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "വാർഷികത്തിന് സൂര്യാസ്തമയ യാത്ര?",
+      "preview": "അടുത്ത വാരാന്ത്യത്തിൽ ഞങ്ങൾ ഞങ്ങളുടെ പത്താം വാർഷികം ആഘോഷിക്കുകയാണ്, Instagram-ൽ നിങ്ങളുടെ സൂര്യാസ്തമയ യാത്ര കണ്ടു. വെള്ളിയാഴ്ച വൈകുന്നേരം ഇത് ലഭ്യമാണോ? എന്തെങ്കിലും പ്രത്യേക പാക്കേജുകൾ...",
+      "pill": "ബുക്കിംഗ്",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "നിങ്ങളുടെ ലിസ്റ്റിംഗിന് പുതിയ അവലോകനം",
+      "preview": "ഒരു യാത്രക്കാരൻ അടുത്തിടെ നിങ്ങളുടെ ബിസിനസ്സ് അവലോകനം ചെയ്തു. അവർക്ക് എന്താണ് പറയാനുള്ളത്, എന്താണ് മറുപടി നൽകുന്നതെന്ന് കാണുക...",
+      "pill": "നിങ്ങളുടെ അറിവിലേക്കായി",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "ഹേ ജെസീക്ക! ശനിയാഴ്ച രാവിലെ 6 മണിക്ക് തുറന്നിരിക്കും. ഞങ്ങളുടെ ട്രെയിൽ റൈഡുകൾക്ക് ഒരാൾക്ക് $100 ആണ്, താഴ്‌വരയിലൂടെ ഏകദേശം 90 മിനിറ്റ് ഓടും. 8 വയസ്സിനു മുകളിലുള്ള കുട്ടികൾക്ക് സ്വാഗതം — നിങ്ങളുടേതെല്ലാം പോകാൻ തയ്യാറാണ്. ക്ലോസ്ഡ്-ടോ ഷൂസ് ആവശ്യമാണ്, ഞങ്ങൾ ഹെൽമെറ്റും നൽകുന്നു. രാവിലെ 9 മണിക്കുള്ള റൈഡിന് നിങ്ങളെ ബുക്ക് ചെയ്യണോ?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "സവാരി ചെയ്യുക",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "ഒരു സേവ് ചെയ്ത ഗ്രൂപ്പ് റൈഡിന് രണ്ട് വർഷത്തിലധികം Duet ലഭിക്കും."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "ബുക്കിംഗ് അഭ്യർത്ഥനകൾ ആദ്യം കാണാനും, റൈഡർ ചോദ്യങ്ങൾ രണ്ടാമത്തേത് കാണാനും, ശബ്‌ദം ഒരിക്കലും കേൾക്കാതിരിക്കാനും Duet എല്ലാ ഇമെയിലുകളെയും സ്വയമേവ ടാഗ് ചെയ്യുന്നതിനാൽ. TripAdvisor അലേർട്ടുകൾക്ക് കീഴിൽ മറഞ്ഞിരിക്കുന്ന ഗ്രൂപ്പ് അന്വേഷണം ഇനി നഷ്ടമാകില്ല.",
+  "draftSubtitle": "നിങ്ങളുടെ റൈഡ് തരങ്ങൾ, വിലനിർണ്ണയം, ആവശ്യകതകൾ എന്നിവ Duet മനസ്സിലാക്കുന്നു. ഒരു ബുക്കിംഗ് അന്വേഷണം എത്തുമ്പോൾ, ട്രെയിൽ വിശദാംശങ്ങൾ, വിലനിർണ്ണയം, എന്ത് ധരിക്കണമെന്ന് എന്നിവയുൾപ്പെടെ ഒരു പൂർണ്ണമായ മറുപടി അത് തയ്യാറാക്കുന്നു. നിങ്ങൾ അവലോകനം ചെയ്ത് അയയ്ക്കുക.",
+  "agentSubtitle": "\"ഈ വാരാന്ത്യത്തിൽ ഏതെങ്കിലും റൈഡുകൾ തുറന്നിട്ടുണ്ടോ?\" \"ശനിയാഴ്ച ലഭ്യതയോടെ ജെസീക്കയ്ക്ക് ഒരു മറുപടി തയ്യാറാക്കുക.\" Duet നിങ്ങളുടെ ഇൻബോക്സും കലണ്ടറും അറിയുന്നു - ചോദിച്ചാൽ മതി.",
   "categorizationEmails": [
     {
-      "from": "Jessica T.",
+      "from": "ജെസീക്ക ടി.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "ശനിയാഴ്ച രാവിലെ 6 മണിക്ക് ഗ്രൂപ്പ് ബുക്കിംഗ്?",
+      "preview": "ഞങ്ങൾ 6 പേരടങ്ങുന്ന ഒരു കുടുംബമാണ്, ഒരു ട്രെയിൽ റൈഡ് ബുക്ക് ചെയ്യാൻ ആഗ്രഹിക്കുന്നു...",
+      "pill": "ഇപ്പോൾ പ്രതികരിക്കുക",
       "pillColor": "red"
     },
     {
-      "from": "Amy W.",
+      "from": "ആമി ഡബ്ല്യു.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Re: സൂര്യാസ്തമയ യാത്ര സ്ഥിരീകരിച്ചു — വെള്ളിയാഴ്ച വൈകുന്നേരം 5:30 ന്",
+      "pill": "ബുക്ക് ചെയ്തു",
       "pillColor": "blue"
     },
     {
-      "from": "Brian L.",
+      "from": "ബ്രയാൻ എൽ.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "ഭാര പരിധിയും അനുഭവപരിചയ ആവശ്യകതകളും?",
+      "pill": "ചോദ്യം",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "വിയറ്റർ",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "നിങ്ങളുടെ പ്രതിവാര ബുക്കിംഗ് സംഗ്രഹം",
+      "pill": "നിങ്ങളുടെ അറിവിലേക്കായി",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "ട്രാക്ടർ വിതരണം",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "വസന്തകാല വിൽപ്പന — തീറ്റയ്ക്കും ടാക്കിനും 15% കിഴിവ്",
+      "pill": "പ്രമോഷനുകൾ",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: 6 പേർക്കുള്ള ഗ്രൂപ്പ് ബുക്കിംഗ് — ശനിയാഴ്ച രാവിലെ?",
+    "originalFrom": "ജെസീക്ക ടി. എഴുതി:",
+    "originalText": "ഹായ്! ഞങ്ങൾ 6 പേരടങ്ങുന്ന ഒരു കുടുംബമാണ് (2 മുതിർന്നവർ, 8-14 വയസ്സ് പ്രായമുള്ള 4 കുട്ടികൾ). ഈ ശനിയാഴ്ച രാവിലെ ഒരു ട്രെയിൽ റൈഡ് ബുക്ക് ചെയ്യാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു. നിങ്ങളുടെ കൈവശം ലഭ്യമാണോ? ഒരാൾക്ക് എത്രയാണ് വില?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "ഹേ ജെസീക്ക!",
+      "ശനിയാഴ്ച രാവിലെ 6 മണിക്ക് തുറന്നിരിക്കും. ട്രെയിൽ റൈഡുകൾക്ക് ഒരാൾക്ക് $100 ചിലവാകും, താഴ്‌വരയിലൂടെ ഏകദേശം 90 മിനിറ്റ് ഓടാം. 8 വയസ്സും അതിൽ കൂടുതലുമുള്ള കുട്ടികൾക്ക് സ്വാഗതം, അതിനാൽ നിങ്ങളുടെ മുഴുവൻ ടീമിനും പോകാൻ തയ്യാറാണ്.",
+      "അടച്ച കാൽവിരലുകളുള്ള ഷൂസ് ആവശ്യമാണ് - ബൂട്ടുകളാണ് ഏറ്റവും നല്ലത്. ഞങ്ങൾ ഹെൽമെറ്റുകൾ നൽകുകയും വലുപ്പവും അനുഭവവും അടിസ്ഥാനമാക്കി ഓരോ റൈഡറെയും കുതിരയുമായി പൊരുത്തപ്പെടുത്തുകയും ചെയ്യുന്നു. മുൻ റൈഡിംഗ് പരിചയം ആവശ്യമില്ല.",
+      "രാവിലെ 9 മണിക്കുള്ള യാത്രയ്ക്ക് നിന്നെ അകത്തു പൂട്ടിയിടണോ?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "ശനിയാഴ്ച രാവിലെ 6 മണിക്ക് തുറന്നിരിക്കും. ട്രെയിൽ റൈഡുകൾക്ക് ഒരാൾക്ക് $100 ആണ്.",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "നിങ്ങളുടെ വിലനിർണ്ണയവും ലഭ്യതയും അറിയാം",
+      "നിങ്ങളുടെ ശബ്ദത്തിലെ ഡ്രാഫ്റ്റുകൾ",
+      "റൈഡർ ആവശ്യകതകൾ സ്വയമേവ ഉൾപ്പെടുന്നു",
+      "കാലക്രമേണ പഠിക്കുന്നു"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "ഈ വാരാന്ത്യത്തിൽ ഏതെങ്കിലും റൈഡുകൾ തുറന്നിട്ടുണ്ടോ? പിന്നെ, കാലാവസ്ഥ എങ്ങനെയുണ്ട്?",
+    "agentResponse": "നിങ്ങളുടെ കലണ്ടർ അനുസരിച്ച്, ശനിയാഴ്ച രാവിലെ 9 മണിക്കും ഉച്ചയ്ക്ക് 2 മണിക്കും ഞായറാഴ്ച രാവിലെ 10 മണിക്കും നിങ്ങൾക്ക് തുറന്നിരിക്കും. ശനിയാഴ്ചത്തെ പ്രവചനം 72°F ഉം വെയിലും ആയിരിക്കും - റൈഡിംഗ് കാലാവസ്ഥയ്ക്ക് അനുയോജ്യം. ഞായറാഴ്ച ഉച്ചകഴിഞ്ഞ് മഴ പെയ്യാൻ 40% സാധ്യത കാണിക്കുന്നു, അതിനാൽ രാവിലെയാണ് ഏറ്റവും സുരക്ഷിതം. ഈ സമയങ്ങൾ ഉപയോഗിച്ച് തീർപ്പാക്കാത്ത ഏതെങ്കിലും അന്വേഷണങ്ങൾക്ക് മറുപടികൾ തയ്യാറാക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?",
+    "followUp": "ശനിയാഴ്ച ലഭ്യതയോടെ ജെസീക്കയ്ക്കുള്ള മറുപടി തയ്യാറാക്കുക.",
+    "followUpResponse": "ചെയ്തു! ശനിയാഴ്ച രാവിലെ 9 മണിക്ക് ഒരാൾക്ക് $100 എന്ന നിരക്കിൽ 6 റൈഡർമാർക്കായി ജെസീക്കയ്ക്ക് ഒരു മറുപടി ഞാൻ ഡ്രാഫ്റ്റ് ചെയ്തു. നിങ്ങളുടെ സ്റ്റാൻഡേർഡ് റൈഡർ ആവശ്യകതകളും എന്ത് ധരിക്കണമെന്നും ഇതിൽ ഉൾപ്പെടുന്നു. അവലോകനം ചെയ്യാനും അയയ്ക്കാനും തയ്യാറാണ്."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "ട്രെയിൽ റൈഡ് ഓപ്പറേറ്റർമാർക്ക് ഇഷ്ടപ്പെട്ടത്",
   "testimonials": [
     {
-      "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "name": "ജെയ്ക്ക് എച്ച്.",
+      "title": "റാഞ്ച് ഓണർ & ട്രെയിൽ ഗൈഡ്, MT",
+      "quote": "മൊബൈൽ സർവീസ് ഇല്ലാതെ ഞാൻ ദിവസവും 6 മണിക്കൂർ യാത്രയിലാണ്. ഞാൻ മറുപടി നൽകാൻ തിരിച്ചെത്തിയപ്പോഴേക്കും പകുതി ആളുകളും മറ്റെവിടെയെങ്കിലും ബുക്ക് ചെയ്തിരുന്നു. ഇപ്പോൾ Duet എന്റെ വിലനിർണ്ണയവും യാത്രാ വിശദാംശങ്ങളും അടങ്ങിയ പ്രതികരണങ്ങൾ തയ്യാറാക്കുന്നു - ഞാൻ കളപ്പുരയിൽ തിരിച്ചെത്തുമ്പോൾ അവലോകനം ചെയ്ത് അയയ്ക്കുന്നു.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "name": "മരിയ സി.",
+      "title": "കുതിരസവാരി ടൂർ ഓപ്പറേറ്റർ, അരിസോണ",
+      "quote": "ഭാര പരിധി, എന്ത് ധരിക്കണം, പ്രായപരിധി എന്നിങ്ങനെ ഒരേ കാര്യം ചോദിച്ച് ഡസൻ കണക്കിന് ഇമെയിലുകൾ ഞങ്ങൾക്ക് ലഭിക്കുന്നു. Duet ഇതെല്ലാം കൈകാര്യം ചെയ്യുന്നു, മറുപടികൾ എന്നെപ്പോലെ തന്നെയുണ്ട്. എന്റെ അതിഥികൾക്ക് ഇത് AI ആണെന്ന് അറിയില്ല.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "name": "ടൈലർ എസ്.",
+      "title": "ട്രെയിൽ റൈഡ് ഗൈഡ്, CO",
+      "quote": "തിരക്കേറിയ സീസണായിരുന്നു അത്. ഓട്ടം കൂടാതെ ഒരു ദിവസം 30+ ഇമെയിലുകൾ. Duet ബഹളത്തിൽ നിന്ന് ബുക്കിംഗ് അഭ്യർത്ഥനകൾ തരംതിരിക്കുകയും വില, എന്ത് കൊണ്ടുവരണം, ലോട്ട് എന്നിവയെല്ലാം ഉൾപ്പെടുന്ന മറുപടികൾ ഡ്രാഫ്റ്റ് ചെയ്യുകയും ചെയ്യുന്നു. എനിക്ക് എന്റെ വൈകുന്നേരങ്ങൾ തിരികെ ലഭിച്ചു.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "name": "റേച്ചൽ എം.",
+      "title": "റൈഡിംഗ് ഇൻസ്ട്രക്ടർ & ബുക്കിംഗ് മാനേജർ, TX",
+      "quote": "ഞങ്ങൾ സൂര്യാസ്തമയ റൈഡുകൾ, പ്രഭാത റൈഡുകൾ, സ്വകാര്യ പാഠങ്ങൾ എന്നിവ നടത്തുന്നു - ഓരോന്നിനും വ്യത്യസ്ത വിലകളും ആവശ്യകതകളുമുണ്ട്. ഒരു ആഴ്ചയ്ക്കുള്ളിൽ Duet ഇതെല്ലാം പഠിച്ചു. ഓരോ തവണയും ശരിയായ റൈഡ് തരത്തിന് ശരിയായ മറുപടി ഇത് തയ്യാറാക്കുന്നു.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "name": "ഡയാൻ കെ.",
+      "title": "ഫാമിലി റാഞ്ച് & ട്രെയിൽ റൈഡുകൾ, കാലിഫോർണിയ",
+      "quote": "സെൻസിറ്റീവ് ഇമെയിലുകളാണ് ഏറ്റവും മോശം - അവ വളരെ ഭാരമുള്ളതാണോ, അല്ലെങ്കിൽ അവരുടെ കുട്ടിക്ക് പ്രായമായോ എന്ന് ആരോ ചോദിക്കുന്നു. Duet ഞാൻ കൈകാര്യം ചെയ്യുന്ന അതേ ശ്രദ്ധയോടെയാണ് ഇവ കൈകാര്യം ചെയ്യുന്നത്. പ്രൊഫഷണലും, ദയയുള്ളതും, കൃത്യതയുള്ളതും. അത് മാത്രം വിലമതിക്കുന്നു.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "നിങ്ങളുടെ ഇൻബോക്സിൽ അല്ല, കുതിരകളോടൊപ്പം ദിവസം ചെലവഴിക്കുക.",
+  "ctaSubline": "നിങ്ങളുടെ സൗജന്യ ട്രയൽ ആരംഭിക്കൂ. 30 സെക്കൻഡിനുള്ളിൽ നിങ്ങളുടെ ഇൻബോക്സ് ബന്ധിപ്പിക്കൂ.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "ഭാരം അല്ലെങ്കിൽ അനുഭവ ആവശ്യകതകളെക്കുറിച്ചുള്ള സെൻസിറ്റീവ് ചോദ്യങ്ങൾ Duet എങ്ങനെയാണ് കൈകാര്യം ചെയ്യുന്നത്?",
+      "answer": "Duet നിങ്ങളുടെ പ്രത്യേക നയങ്ങൾ പഠിക്കുകയും നിങ്ങളുടെ ടോണിനെ പ്രതിഫലിപ്പിക്കുകയും ചെയ്യുന്നു. ഭാര പരിധികളെക്കുറിച്ചോ അനുഭവ ആവശ്യകതകളെക്കുറിച്ചോ ആരെങ്കിലും ചോദിക്കുമ്പോൾ, അത് പ്രൊഫഷണലായും ഊഷ്മളമായും പ്രതികരിക്കുന്നു - അവർക്ക് ആവശ്യമായ വിവരങ്ങൾ ബുദ്ധിമുട്ടാക്കാതെ പങ്കിടുന്നു. നിങ്ങൾ ഒരിക്കൽ ടോൺ സജ്ജമാക്കുകയും Duet അത് സ്ഥിരമായി പിന്തുടരുകയും ചെയ്യുന്നു, അതിനാൽ എല്ലാ അതിഥികളും ബഹുമാനിക്കപ്പെടുന്നു."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "വ്യത്യസ്ത റൈഡർ ആവശ്യങ്ങളുള്ള ഗ്രൂപ്പ് ബുക്കിംഗുകൾ Duet കൈകാര്യം ചെയ്യാൻ കഴിയുമോ?",
+      "answer": "അതെ. Duet നിങ്ങളുടെ റൈഡ് തരങ്ങൾ, ഗ്രൂപ്പ് വലുപ്പങ്ങൾ, പ്രായപരിധി, റൈഡർക്ക് അനുയോജ്യമായ ആവശ്യകതകൾ എന്നിവ മനസ്സിലാക്കുന്നു. ഒരു കുടുംബമോ ഗ്രൂപ്പോ ബുക്കിംഗിനെക്കുറിച്ച് ഇമെയിൽ അയയ്ക്കുമ്പോൾ, മുഴുവൻ ഗ്രൂപ്പിനുമുള്ള വിലനിർണ്ണയം, ഓരോ റൈഡറും അറിയേണ്ട കാര്യങ്ങൾ, ലഭ്യമായ സമയ സ്ലോട്ടുകൾ എന്നിവ ഉൾക്കൊള്ളുന്ന ഒരു മറുപടി അത് തയ്യാറാക്കുന്നു. നിങ്ങൾ അവലോകനം ചെയ്ത് അയയ്ക്കുന്നു - മുന്നോട്ടും പിന്നോട്ടും ആവശ്യമില്ല."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "6 പേരടങ്ങുന്ന ഒരു ഗ്രൂപ്പിന് ഒരാൾക്ക് $100 എന്ന നിരക്കിൽ, ഒരു ലാഭിച്ച യാത്രയ്ക്ക് രണ്ട് വർഷത്തിലധികം Pro ലഭിക്കുന്നു."
 }
