@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail za jahanje i vodiče za staze | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže operaterima u vožnji stazama da odmah odgovore na e-poruke o rezervacijama — čak i iz sedla. AI nacrt odgovora sa vašim cenama, zahtevima vozača i glasom.",
+  "heroBadge": "Ima poverenja od 300+ vodiča za staze",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na tragu",
+  "heroSubline": "Duet uči vaše tipove vožnje, cene, zahteve vozača i uslove staze — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju zbog sporog odgovora.",
   "inboxEmails": [
     {
-      "from": "Jessica T.",
+      "from": "Džesika T.",
       "avatarLetter": "J",
-      "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+      "avatarColor": "roze",
+      "subject": "Grupna rezervacija za 6 — subota ujutro?",
+      "preview": "Zdravo! Mi smo 6-člana porodica (2 odrasle osobe, 4 dece uzrasta 8-14 godina) i voleli bismo da rezervišemo vožnju stazom ove subote ujutru. Da li imate raspoloživost? Koja je cena po osobi?",
       "pill": "To Respond",
-      "pillColor": "red"
+      "pillColor": "crvena"
     },
     {
-      "from": "Brian L.",
+      "from": "Brajan L.",
       "avatarLetter": "B",
-      "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "avatarColor": "plava",
+      "subject": "Pitanje ograničenja težine",
+      "preview": "Hej, zainteresovan sam da rezervišem vožnju, ali prvo želim da pitam o vašim zahtevima za težinu. Imam oko 260 funti - da li će to biti problem...",
+      "pill": "Pitanje",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "Ejmi i Dan V.",
       "avatarLetter": "A",
-      "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
-      "pillColor": "blue"
+      "avatarColor": "ljubičasta",
+      "subject": "Vožnja zalaskom sunca za godišnjicu?",
+      "preview": "Proslavljamo našu 10. godišnjicu sledećeg vikenda i videli smo vašu vožnju zalaskom sunca na Instagramu. Da li je dostupan u petak uveče? Bilo koji specijalni paket...",
+      "pill": "Rezervacija",
+      "pillColor": "plava"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
-      "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
-      "pillColor": "lavender"
+      "avatarColor": "lavanda",
+      "subject": "Nova recenzija za vaš unos",
+      "preview": "Putnik je nedavno napisao recenziju o vašem preduzeću. Pogledajte šta su imali da kažu i odgovorite...",
+      "pill": "FII",
+      "pillColor": "lavanda"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Hej Džesika! Subota ujutro je otvorena za 6. Naše vožnje stazom su 100 dolara po osobi i traju oko 90 minuta kroz dolinu. Deca od 8+ su dobrodošla — svi su spremni. Potrebne su cipele sa zatvorenim prstima, a mi obezbeđujemo šlemove. Hoćeš da te rezervišem za vožnju u 9 ujutro?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "voziti se",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Jedna ušteđena grupna vožnja plaća se više od dve godine od Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, zatim pitanja vozača, a buku nikada. Nema više propuštanja grupnog upita zakopanog u obaveštenjima TripAdvisora.",
+  "draftSubtitle": "Duet uči o vašim tipovima vožnje, cenama i zahtevima. Kada dođe upit za rezervaciju, on sastavlja kompletan odgovor sa detaljima o stazi, cenama i šta da obuče. Pregledate i pošaljete.",
+  "agentSubtitle": "„Da li su otvorene vožnje ovog vikenda?“ „Nacrt odgovora Džesici sa dostupnošću subotom.“ Duet zna vaše prijemno sanduče i kalendar — samo pitajte.",
   "categorizationEmails": [
     {
-      "from": "Jessica T.",
+      "from": "Džesika T.",
       "avatarLetter": "J",
-      "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
-      "pillColor": "red"
+      "avatarColor": "roze",
+      "subject": "Grupna rezervacija za 6 — subota ujutro?",
+      "preview": "Mi smo šestočlana porodica koja želi da rezerviše vožnju stazom...",
+      "pill": "Odgovorite odmah",
+      "pillColor": "crvena"
     },
     {
-      "from": "Amy W.",
+      "from": "Ejmi V.",
       "avatarLetter": "A",
-      "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
-      "pillColor": "blue"
+      "avatarColor": "ljubičasta",
+      "subject": "Re: Potvrđena vožnja zalaskom sunca — petak 17:30",
+      "pill": "Rezervisano",
+      "pillColor": "plava"
     },
     {
-      "from": "Brian L.",
+      "from": "Brajan L.",
       "avatarLetter": "B",
-      "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "avatarColor": "plava",
+      "subject": "Ograničenje težine i zahtevi za iskustvo?",
+      "pill": "Pitanje",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
-      "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
-      "pillColor": "lavender"
+      "avatarColor": "lavanda",
+      "subject": "Vaš nedeljni rezime rezervacije",
+      "pill": "FII",
+      "pillColor": "lavanda"
     },
     {
-      "from": "Tractor Supply",
+      "from": "Tractor Suppli",
       "avatarLetter": "T",
-      "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
-      "pillColor": "lavender"
+      "avatarColor": "lavanda",
+      "subject": "Prolećna rasprodaja — 15% popusta na hranu i veš",
+      "pill": "Promocije",
+      "pillColor": "lavanda"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: Grupna rezervacija za 6 — subota ujutru?",
+    "originalFrom": "Džesika T. je napisala:",
+    "originalText": "Zdravo! Mi smo 6-člana porodica (2 odrasle osobe, 4 dece uzrasta 8-14 godina) i voleli bismo da rezervišemo vožnju stazom ove subote ujutru. Da li imate raspoloživost? Koja je cena po osobi?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Hej Džesika!",
+      "Subota ujutro je širom otvorena za 6. Vožnja stazom je 100 dolara po osobi i traje oko 90 minuta kroz dolinu. Deca od 8 i više godina su dobrodošla, tako da je cela vaša posada spremna.",
+      "Potrebne su cipele sa zatvorenim prstima — najbolje su čizme. Pružamo šlemove i prilagođavamo svakog jahača konju na osnovu veličine i iskustva. Nije potrebno prethodno iskustvo u vožnji.",
+      "Hoćeš da te zaključam za vožnju u 9 ujutro?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "Subota ujutro je širom otvorena za 6. Vožnja stazom je 100 USD po osobi",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Zna vaše cene i dostupnost",
+      "Promaje u tvom glasu",
+      "Automatski uključuje zahteve vozača",
+      "Uči tokom vremena"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Ima li otvorenih vožnji ovog vikenda? Takođe, kako izgleda vreme?",
+    "agentResponse": "Na osnovu vašeg kalendara, otvaranja su u subotu u 9:00 i 14:00, a u nedelju u 10:00. Prognoza za subotu je 72°F i sunčano — savršeno vreme za vožnju. Nedelja pokazuje 40% šanse za popodnevnu kišu, tako da je jutarnji termin sigurniji. Želite li da sačinim odgovore na sve upite na čekanju sa ovim vremenom?",
+    "followUp": "Nacrtajte odgovor Džesici sa dostupnošću u subotu",
+    "followUpResponse": "Gotovo! Nacrtao sam odgovor Džesici koji potvrđuje subotu u 9 ujutru za 6 jahača po 100 dolara po osobi. Uključuje vaše standardne zahteve vozača i šta da obučete. Spremni za pregled i slanje."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Omiljeni operaterima za vožnju stazama",
   "testimonials": [
     {
-      "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "name": "Džejk H.",
+      "title": "Vlasnik ranča i vodič za staze, MT",
+      "quote": "Na putu sam 6 sati dnevno bez mobilne usluge. Dok sam se vratio da odgovorim, polovina ljudi je rezervisala negde drugde. Sada Duet sastavlja nacrte odgovora sa mojim cenama i detaljima o vožnji — samo pregledam i pošaljem kada se vratim u štalu.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "name": "Marija C.",
+      "title": "Turoperator konja, AZ",
+      "quote": "Dobijamo desetine e-poruka u kojima se pita isto - ograničenja težine, šta da nosimo, starosni zahtevi. Duet se bavi svime i odgovori zvuče baš kao ja. Moji gosti nemaju pojma da je AI.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Tyler S.",
+      "name": "Tajler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
-      "avatarKey": "johnny"
+      "quote": "Vrhunac sezone me je ubijao. 30+ e-poruka dnevno uz trčanje. Duet sortira zahteve za rezervaciju od buke i sastavlja odgovore koji uključuju sve — cene, šta da ponesete, lot. Vratila sam večeri.",
+      "avatarKey": "Johnni"
     },
     {
-      "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "name": "Rejčel M.",
+      "title": "Instruktor jahanja i menadžer rezervacije, Teksas",
+      "quote": "Vodimo vožnje zalaskom sunca, jutarnje vožnje i privatne časove - svaki sa različitim cenama i zahtevima. Duet je sve to naučio za nedelju dana. Svaki put sastavlja pravi odgovor za pravi tip vožnje.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "name": "Dajana K.",
+      "title": "Porodični ranč i vožnje stazama, Kalifornija",
+      "quote": "Osetljivi mejlovi su bili najgori - neko je pitao da li su preteški ili je njihovo dete dovoljno staro. Duet postupa sa njima sa istom pažnjom kao ja. Profesionalni, ljubazni i tačni. Samo to je vredno toga.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Provedite dan sa konjima,\nne u prijemnom sandučetu.",
+  "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Kako Duet rešava osetljiva pitanja o zahtevima težine ili iskustva?",
+      "answer": "Duet uči vaše specifične politike i odražava vaš ton. Kada neko pita o ograničenjima težine ili zahtevima za iskustvo, reaguje profesionalno i toplo — dele informacije koje su mu potrebne bez da to bude neprijatno. Jednom postavite ton i Duet ga dosledno prati, tako da se svaki gost oseća poštovano."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Da li Duet može da obradi grupne rezervacije sa različitim potrebama vozača?",
+      "answer": "Da. Duet uči o vašim tipovima vožnje, veličini grupa, minimalnom uzrastu i svim zahtevima specifičnim za vozača. Kada porodica ili grupa pošalje e-poštu o rezervaciji, ona sastavlja nacrt odgovora koji pokriva cene za celu grupu, šta svaki vozač treba da zna i raspoložive termine. Pregledate i šaljete — nije potrebno vraćanje nazad."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "Sa 100 USD po osobi za grupu od 6, jedna ušteđena vožnja plaća se više od dve godine od Pro."
 }
