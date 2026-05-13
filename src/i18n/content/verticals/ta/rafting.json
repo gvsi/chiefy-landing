@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "ராஃப்டிங் & கயாக் அவுட்ஃபிட்டர்களுக்கான Duet Mail | AI மின்னஞ்சல் உதவியாளர்",
+  "metaDescription": "Duet Mail ராஃப்டிங் வழிகாட்டிகளுக்கு உதவுகிறது மற்றும் கயாக் ஆடை அணிபவர்கள் பயண விசாரணைகளுக்கு உடனடியாக பதிலளிக்க உதவுகிறது - ஆற்றில் இருந்தும் கூட. உங்கள் பயண விவரங்கள், விலை நிர்ணயம் மற்றும் குரல் ஆகியவற்றுடன் AI-வரைவு செய்யப்பட்ட பதில்கள்.",
+  "heroBadge": "200+ நதி வழிகாட்டிகளால் நம்பப்படுகிறது",
+  "heroHeadline": "நீங்கள் ஆற்றில் இருக்கும்போது உங்கள் மின்னஞ்சல் உதவியாளர்",
+  "heroSubline": "Duet உங்கள் பயண வகைகள், விலை நிர்ணயம் மற்றும் கியர் பட்டியல்களைக் கற்றுக்கொள்கிறது - பின்னர் முன்பதிவு விசாரணைகளுக்கு வரைவுகள் பதிலளிக்கும், எனவே நீங்கள் ரேபிட்களை இயக்கும்போது வாடிக்கையாளர்கள் பதில்களைப் பெறுவார்கள்.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "ஆகஸ்டு 9 அன்று 6 க்கு முழு நாள் படகு பயணம்?",
+      "preview": "ஹாய்! நாங்கள் 6 பேர் கொண்ட குடும்பமாக ஆகஸ்ட் மாதம் வருகை தருகிறோம், மேலும் 9 ஆம் தேதி முழு நாள் ராஃப்டிங் பயணத்திற்கு முன்பதிவு செய்ய விரும்புகிறோம். ஒரு நபருக்கான விலை என்ன, எந்த அனுபவ நிலை நமக்குத் தேவை?",
+      "pill": "பதிலளிக்க",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "பல நாள் பயணம் — இதில் என்ன இருக்கிறது?",
+      "preview": "நாங்கள் 4 பேர் கொண்ட குழு உங்கள் 3 நாள் பயணத்தைப் பார்க்கிறோம். உணவு, கேம்பிங் கியர் மற்றும் உலர் பைகள் உள்ளதா அல்லது சொந்தமாக கொண்டு வர வேண்டுமா...",
+      "pill": "கேள்வி",
       "pillColor": "amber"
     },
     {
       "from": "Rachel & Mark S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "8 மற்றும் 10 வயது குழந்தைகள் - போதுமான அளவு பாதுகாப்பானதா?",
+      "preview": "நாங்கள் அரை நாள் பயணம் செய்ய விரும்புகிறோம் ஆனால் எங்கள் குழந்தைகள் 8 மற்றும் 10 வயதுடையவர்கள். வகுப்பு II பிரிவு அவர்களின் வயதுக்கு ஏற்றதா? குறைந்தபட்சம் என்ன...",
+      "pill": "கேள்வி",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "உங்கள் பட்டியலுக்கான புதிய மதிப்புரை",
+      "preview": "ஒரு பயணி சமீபத்தில் உங்கள் வணிகத்தை மதிப்பாய்வு செய்தார். அவர்கள் என்ன சொல்கிறார்கள் என்று பார்த்து பதில் சொல்லுங்கள்...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "ஏய் ஜெனிஃபர்! ஆகஸ்ட் 9 அன்று 6 மணிக்குத் திறந்திருக்கும். முழு நாள் பயணங்கள் ஒரு நபருக்கு $150 மற்றும் சுமார் 7 மணிநேரம் - நாங்கள் காலை 8:30 மணிக்குச் சென்றோம். அனுபவம் தேவையில்லை, எங்கள் வழிகாட்டிகள் அனைத்தையும் கையாள்கின்றனர். PFDகள், ஹெல்மெட்கள், உலர் பைகள் மற்றும் ஆற்றங்கரை மதிய உணவு அனைத்தும் சேர்க்கப்பட்டுள்ளன. சன்ஸ்கிரீன், வாட்டர் ஷூக்கள் மற்றும் ஆடைகளை மட்டும் கொண்டு வாருங்கள். உங்கள் இடங்களை நான் முன்பதிவு செய்ய வேண்டுமா?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "நபர்",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "இரண்டு சேமித்த முன்பதிவுகள் Duet இன் முழு வருடத்திற்கு செலுத்துகின்றன."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet ஒவ்வொரு மின்னஞ்சலையும் தானாகக் குறியிடுகிறது, எனவே பயணத்தை முதலில் கேட்கவும், கியர் கேள்விகள் இரண்டாவதாகவும், விளம்பர சத்தம் மறைந்துவிடும். TripAdvisor விழிப்பூட்டல்களின் கீழ் புதைக்கப்பட்ட குழு முன்பதிவை இனி காணவில்லை.",
+  "draftSubtitle": "Duet உங்கள் பயண வகைகள், ரேபிட்ஸ் வகுப்புகள், கியர் பட்டியல்கள் மற்றும் ரத்துசெய்தல் கொள்கை ஆகியவற்றைக் கற்றுக்கொள்கிறது. முன்பதிவு விசாரணை வெற்றிபெறும் போது, ​​வாடிக்கையாளருக்குத் தேவையான அனைத்திற்கும் முழுமையான பதிலை அது உருவாக்கும். நீங்கள் மதிப்பாய்வு செய்து அனுப்புங்கள்.",
+  "agentSubtitle": "\"சனிக்கிழமை முழு நாளில் ஏதேனும் திறந்திருக்கும் இடங்கள் உள்ளதா?\" \"ஜெனிஃபருக்கான பதிலைக் கிடைக்கும்படி எழுதவும்.\" Duet க்கு உங்கள் இன்பாக்ஸ் மற்றும் அட்டவணை தெரியும் - கேளுங்கள்.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "ஆகஸ்டு 9 அன்று 6 க்கு முழு நாள் படகு பயணம்?",
+      "preview": "நாங்கள் 6 பேர் கொண்ட குடும்பமாக ஆகஸ்ட் மாதம் வருகை தருகிறோம், முன்பதிவு செய்ய விரும்புகிறோம்...",
+      "pill": "இப்போது பதிலளிக்கவும்",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "Re: 3-நாள் பயணம் உறுதி - ஆகஸ்ட் 15",
+      "pill": "முன்பதிவு செய்யப்பட்டது",
       "pillColor": "blue"
     },
     {
       "from": "Rachel S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "8 மற்றும் 10 வயது குழந்தைகள் இரண்டாம் வகுப்புக்கு தகுதியானவர்களா?",
+      "pill": "கேள்வி",
       "pillColor": "amber"
     },
     {
       "from": "The Flybook",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "உங்கள் வாராந்திர முன்பதிவு சுருக்கம்",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "சீசன் இறுதி விற்பனை - உலர் உடைகளுக்கு 30% தள்ளுபடி",
+      "pill": "பதவி உயர்வுகள்",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: ஆகஸ்ட் 9 ஆம் தேதி 6 க்கு முழு நாள் படகில் பயணம்?",
+    "originalFrom": "ஜெனிபர் டபிள்யூ எழுதினார்:",
+    "originalText": "ஹாய்! நாங்கள் 6 பேர் கொண்ட குடும்பமாக ஆகஸ்ட் மாதம் வருகை தருகிறோம், மேலும் 9 ஆம் தேதி முழு நாள் ராஃப்டிங் பயணத்திற்கு முன்பதிவு செய்ய விரும்புகிறோம். ஒரு நபருக்கான விலை என்ன, எந்த அனுபவ நிலை நமக்குத் தேவை?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "ஏய் ஜெனிஃபர்!",
+      "ஆகஸ்ட் 9 முதல் 6 வரை திறந்திருக்கும். முழு நாள் பயணங்கள் ஒரு நபருக்கு $150 மற்றும் சுமார் 7 மணிநேரம் ஆகும் - நாங்கள் காலை 8:30 மணிக்கு புட்-இன் இடத்தில் சந்திப்போம்.",
+      "அனுபவம் தேவையில்லை. PFDகள், ஹெல்மெட்கள், உலர் பைகள் மற்றும் ஆற்றங்கரை மதிய உணவு அனைத்தும் சேர்க்கப்பட்டுள்ளன - சன்ஸ்கிரீன் மற்றும் வாட்டர் ஷூக்களை மட்டும் கொண்டு வாருங்கள்.",
+      "உங்கள் இடங்களை நான் முன்பதிவு செய்ய வேண்டுமா?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "ஆகஸ்ட் 9 அன்று 6 பேருக்கு திறந்திருக்கும். முழு நாள் பயணங்கள் ஒரு நபருக்கு $150",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "உங்கள் பயண வகைகளையும் விலையையும் தெரியும்",
+      "உங்கள் குரலில் வரைவுகள்",
+      "தானாகவே கியர் பட்டியல்கள் அடங்கும்",
+      "காலப்போக்கில் கற்றுக்கொள்கிறது"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "சனிக்கிழமை முழு நாள் பயணத்தில் ஏதேனும் திறந்தவெளி இடங்கள் உள்ளதா?",
+    "agentResponse": "சனிக்கிழமையின் முழு நாளில் 10 இடங்களில் 4 இடங்கள் உள்ளன. உங்களுக்கு அரை நாள் காலை ஓட்டமும், ஞாயிற்றுக்கிழமை 2 இடங்கள் திறந்திருக்கும் பல நாள் புறப்பாடும் உள்ளது. நிலுவையில் உள்ள ஏதேனும் விசாரணைகளுக்கு சனிக்கிழமையின் கிடைக்கும் தன்மையுடன் பதிலை உருவாக்க வேண்டுமா?",
+    "followUp": "ஜெனிஃபருக்கு ஆகஸ்ட் 9 இல் கிடைக்கும் பதிலை உருவாக்கவும்",
+    "followUpResponse": "முடிந்தது! ஆகஸ்ட் 9 ஆம் தேதி 6 விருந்தினர்களுக்கு ஒரு நபருக்கு $150 என்ற விலையில் ஜெனிஃபருக்குப் பதில் எழுதினேன். இதில் உங்கள் வழக்கமான பயண விவரங்கள், கியர் பட்டியல் மற்றும் சந்திப்பு இடம் ஆகியவை அடங்கும். மதிப்பாய்வு செய்து அனுப்பத் தயார்."
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "நதி வழிகாட்டிகள் மற்றும் ஆடைகளை அணிபவர்களால் விரும்பப்படுகிறது",
   "testimonials": [
     {
       "name": "Ryan M.",
-      "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "title": "ராஃப்டிங் அவுட்ஃபிட்டர், CO",
+      "quote": "உச்ச பருவத்தில் நான் வாரத்தில் 6 நாட்கள் ஆற்றில் இருப்பேன். நான் மின்னஞ்சலுக்குத் திரும்புவதற்குள், பாதிக் குழுக்கள் வேறு ஒருவருடன் முன்பதிவு செய்திருந்தன. இப்போது Duet வரைவுகள் பயண விவரங்கள் மற்றும் விலை நிர்ணயம் ஆகியவற்றுடன் பதிலளிக்கின்றன.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "title": "கயாக் & SUP டூர்ஸ், அல்லது",
+      "quote": "ஒவ்வொரு வாடிக்கையாளரும் ஒரே ஐந்து கேள்விகளைக் கேட்கிறார்கள் - விலை, என்ன கொண்டு வர வேண்டும், திறன் நிலை, குழு அளவு, ரத்து கொள்கை. Duet முதல் வாரத்தில் அனைத்தையும் கற்றுக்கொண்டது. ஒவ்வொரு இரவும் ஒரு மணிநேர மின்னஞ்சல்களிலிருந்து ஐந்து நிமிட வரைவுகளை மதிப்பாய்வு செய்தேன்.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "title": "பல நாள் பயண வழிகாட்டி, ஏ.கே",
+      "quote": "ஜீரோ செல் சேவையுடன் 5 நாள் பயணங்களை இயக்குகிறேன். Duet க்கு முன், நான் ஊருக்குத் திரும்பும் வரை ஒவ்வொரு விசாரணையும் பதிலளிக்கப்படாமல் இருந்தது. இப்போது வாடிக்கையாளர்கள் சில நிமிடங்களில் விரிவான பதிலைப் பெறுவார்கள், நான் ஆற்றிலிருந்து வெளியேறும்போது நான் உறுதியளிக்கிறேன்.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "title": "ரிவர் அட்வென்ச்சர்ஸ் அலுவலக மேலாளர், WV",
+      "quote": "நான்கு பயண வகைகளில் மூன்று வழிகாட்டிகளுக்கான முன்பதிவுகளை நான் நிர்வகிக்கிறேன். Duet ஒவ்வொரு மின்னஞ்சலையும் அவசரத்தின் அடிப்படையில் வகைப்படுத்துகிறது மற்றும் சரியான பயணம், சரியான விலை, சரியான கியர் பட்டியல் ஆகியவற்றுடன் பதில்களை வரைகிறது. இது நானே குளோனிங் செய்வது போன்றது.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sophia K.",
       "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "quote": "AI ராஃப்டிங்-குறிப்பிட்ட மின்னஞ்சல்களைக் கையாளும் என்பதில் எங்களுக்கு சந்தேகம் இருந்தது. ஆனால் அது எங்கள் வகுப்பு III மற்றும் வகுப்பு IV விளக்கங்கள், வயது குறைந்தபட்சம், எங்கள் ஈரமான வெளியேறும் கயாக் கொள்கையை கூட எடுத்தது. வாடிக்கையாளர்கள் எங்களிடம் பேசுகிறார்கள் என்று நினைக்கிறார்கள்.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ஆற்றில் கோடையை கழிக்கவும்,\nமின்னஞ்சலில் வரவில்லை.",
+  "ctaSubline": "உங்கள் இலவச சோதனையைத் தொடங்கவும். 30 வினாடிகளில் உங்கள் இன்பாக்ஸை இணைக்கவும்.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "Duet தனிப்பயன் பயண மேற்கோள்களையும் பல நாள் பயண விசாரணைகளையும் கையாளுகிறதா?",
+      "answer": "ஆம். Duet உங்கள் முழு பயண வரிசையையும் - அரை நாள் மிதவைகள், முழு நாள் ரேபிட்கள், பல நாள் பயணங்கள் - விலை நிர்ணயம், என்ன சேர்க்கப்பட்டுள்ளது, வயது குறைந்தபட்சம் மற்றும் சிரம நிலைகள் ஆகியவற்றைக் கற்றுக்கொள்கிறது. 6 க்கு 3 நாள் பயணத்தைப் பற்றி யாராவது கேட்டால், அது சரியான விவரங்களுடன் முழுமையான பதிலைத் தருகிறது. நீங்கள் மதிப்பாய்வு செய்து, தேவைப்பட்டால் மாற்றியமைத்து அனுப்புங்கள்."
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "பல நாள் பயணங்களில் நான் ஆஃப்-கிரிட். Duet இன்னும் வேலை செய்கிறதா?",
+      "answer": "Duet தீர்க்கும் பிரச்சனை இதுதான். நீங்கள் சிக்னல் இல்லாமல் ஆற்றில் இருக்கும்போது, ​​வரும் ஒவ்வொரு விசாரணைக்கும் Duet வரைவுகள் பதிலளிக்கும். நீங்கள் வரம்பிற்குத் திரும்பும்போது, ​​உங்கள் வரைவுகள் காத்திருக்கும் - மதிப்பாய்வு செய்து அனுப்பவும். ஒவ்வொரு பல நாள் பயணத்திற்குப் பிறகும் அவர்கள் எதிர்கொள்ளும் பின்னடைவை இது நீக்குகிறது என்று பெரும்பாலான வழிகாட்டிகள் எங்களிடம் கூறுகிறார்கள்."
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "$150/நபருக்கு, இரண்டு சேமித்த முன்பதிவுகள் Pro இன் முழு வருடத்தையும் உள்ளடக்கும்."
 }

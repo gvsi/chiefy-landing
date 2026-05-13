@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "தனிப்பயன் நகைக்கடைகளுக்கான Duet Mail | AI மின்னஞ்சல் உதவியாளர்",
+  "metaDescription": "Duet Mail தனிப்பயன் நகைகள் ஆலோசனை கோரிக்கைகள், வடிவமைப்பு ஒப்புதல்கள் மற்றும் காலவரிசை கேள்விகளுக்கு உடனடியாக பதிலளிக்க உதவுகிறது - பணியிடத்தில் இருக்கும்போது கூட. உங்கள் செயல்முறை, விலை நிர்ணயம் மற்றும் குரல் ஆகியவற்றுடன் AI-வரைவு செய்யப்பட்ட பதில்கள்.",
+  "heroBadge": "300+ நகை வடிவமைப்பாளர்களால் நம்பப்படுகிறது",
+  "heroHeadline": "நீங்கள் பெஞ்சில் இருக்கும்போது உங்கள் மின்னஞ்சல் உதவியாளர்",
+  "heroSubline": "Duet உங்கள் வடிவமைப்பு செயல்முறை, பொருட்கள், விலை நிர்ணயம் மற்றும் காலக்கெடு ஆகியவற்றைக் கற்றுக்கொள்கிறது - பின்னர் மின்னஞ்சல் பதில்களை வரைவு செய்கிறது, எனவே மெதுவான பதிலுக்கு தனிப்பயன் கிளையண்டை நீங்கள் இழக்க மாட்டீர்கள்.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "பிரத்தியேக நிச்சயதார்த்த மோதிர ஆலோசனை?",
+      "preview": "ஹாய்! நானும் எனது கூட்டாளியும் தனிப்பயன் நிச்சயதார்த்த மோதிரத்தில் ஆர்வமாக உள்ளோம். நாங்கள் பயன்படுத்த விரும்பும் குடும்ப குலதெய்வ வைரம் எங்களிடம் உள்ளது. இந்த மாதம் கலந்தாய்வுக்கான வாய்ப்பு உள்ளதா?",
+      "pill": "பதிலளிக்க",
       "pillColor": "red"
     },
     {
       "from": "Amanda S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "Re: 3D மாதிரி — அமைப்பை சரிசெய்ய முடியுமா?",
+      "preview": "ஒட்டுமொத்த வடிவமைப்பையும் விரும்புகிறேன்! ஆனால் அமைப்பில் குறைந்த சுயவிவரத்தை முயற்சிக்கலாமா? நான் நினைக்கும் பாணியின் புகைப்படத்தை இணைத்துள்ளேன். மேலும், பிளாட்டினத்திற்கு மாறுவது காலவரிசையை மாற்றும்...",
+      "pill": "திருத்தம்",
       "pillColor": "amber"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
-      "pill": "Status",
+      "subject": "திருமண இசைக்குழுக்கள் குறித்த காலக்கெடு புதுப்பிப்பு?",
+      "preview": "ஏய்! எங்களின் திருமண பேண்டுகளுக்குப் பொருந்தும் என்பதைச் சரிபார்க்கிறோம். திருமணம் மே 18, நாங்கள் இன்னும் பாதையில் இருக்கிறோம் என்பதை உறுதிப்படுத்த விரும்புகிறேன். விரைவான புதுப்பிப்பை அனுப்ப முடியுமா...",
+      "pill": "நிலை",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
+      "subject": "உங்கள் கடை முகப்பில் புதிய மதிப்புரை",
+      "preview": "ஒரு ஜோடி சமீபத்தில் உங்கள் வணிகத்தை The Knot இல் மதிப்பாய்வு செய்தனர். அவர்கள் என்ன சொல்கிறார்கள் என்று பார்த்து பதில் சொல்லுங்கள்...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "ஹாய் ரேச்சல்! உங்கள் குடும்ப வைரத்தைச் சுற்றி ஒரு மோதிரத்தை வடிவமைக்க உங்களுக்கு உதவ விரும்புகிறேன் — இது எனக்கு மிகவும் பிடித்தமான விஷயங்களில் ஒன்றாகும். இந்த மாதம் செவ்வாய் மற்றும் வியாழன் மதியங்களில் எனக்கு திறப்புகள் உள்ளன. கல் மற்றும் எந்த உத்வேகப் புகைப்படங்களையும் கொண்டு வாருங்கள். ஆலோசனைகள் சுமார் ஒரு மணி நேரம் நடக்கும், எந்தக் கடமையும் இல்லை. நான் உங்களுக்காக நேரம் ஒதுக்க வேண்டுமா?",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "விருப்ப துண்டு",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "ஒரு சேமித்த வாடிக்கையாளர் Duet ஐ நான்கு ஆண்டுகளுக்கும் மேலாக செலுத்துகிறார்."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet தானாகவே ஒவ்வொரு மின்னஞ்சலையும் குறியிடுகிறது, எனவே முதலில் புதிய ஆலோசனைக் கோரிக்கைகளையும், இரண்டாவது வடிவமைப்பு ஒப்புதல்களையும், விற்பனையாளர் செய்திமடல்களையும் பார்க்க முடியாது. சப்ளையர் விளம்பரங்களின் கீழ் புதைக்கப்பட்ட $5,000 விசாரணையை இனி காணவில்லை.",
+  "draftSubtitle": "Duet உங்கள் செயல்முறை, பொருட்கள், விலை மற்றும் குரல் ஆகியவற்றைக் கற்றுக்கொள்கிறது. ஒரு ஆலோசனைக் கோரிக்கை வந்தவுடன், அது உங்கள் இருப்பு, எதைக் கொண்டு வர வேண்டும், உங்கள் செயல்முறை எவ்வாறு செயல்படுகிறது என்பவற்றுடன் முழுமையான பதிலைத் தருகிறது. நீங்கள் மதிப்பாய்வு செய்து அனுப்புங்கள்.",
+  "agentSubtitle": "\"அமன்டாவின் மோதிரத்துடன் நாங்கள் எங்கே இருக்கிறோம்?\" \"ஜேம்ஸிற்கான காலவரிசை புதுப்பிப்பை வரையவும்.\" Duet க்கு ஒவ்வொரு கிளையன்ட் த்ரெட் தெரியும் — கேட்கவும்.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "பிரத்தியேக நிச்சயதார்த்த மோதிர ஆலோசனை?",
+      "preview": "நானும் எனது கூட்டாளியும் தனிப்பயன் வளையத்தில் ஆர்வமாக உள்ளோம்...",
+      "pill": "புதிய விசாரணை",
       "pillColor": "red"
     },
     {
       "from": "Amanda S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "பதில்: 3D மாடல் v2 — சரியாகத் தெரிகிறது!",
+      "pill": "வடிவமைப்பு ஒப்புதல்",
       "pillColor": "blue"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "இசைக்குழுக்கள் தயாராக உள்ளன - நாம் எப்போது எடுக்க முடியும்?",
+      "pill": "பிக்கப்பிற்கு தயார்",
       "pillColor": "amber"
     },
     {
       "from": "Emily W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "Re: ஆலோசனை பின்தொடர்தல் — ஓவியங்களை விரும்புகிறேன்",
+      "pill": "ஆலோசனை",
       "pillColor": "amber"
     },
     {
       "from": "Rio Grande Supply",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "வசந்த விற்பனை - பிளாட்டினம் கண்டுபிடிப்புகளுக்கு 15% தள்ளுபடி",
+      "pill": "விற்பனையாளர்/சப்ளையர்",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "Re: பிரத்தியேக நிச்சயதார்த்த மோதிர ஆலோசனை?",
+    "originalFrom": "ரேச்சல் டி. எழுதினார்:",
+    "originalText": "ஹாய்! நானும் எனது கூட்டாளியும் தனிப்பயன் நிச்சயதார்த்த மோதிரத்தில் ஆர்வமாக உள்ளோம். நாங்கள் பயன்படுத்த விரும்பும் குடும்ப குலதெய்வ வைரம் எங்களிடம் உள்ளது. இந்த மாதம் கலந்தாய்வுக்கான வாய்ப்பு உள்ளதா?",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "ஹாய் ரேச்சல்!",
+      "உங்கள் குடும்ப வைரத்தைச் சுற்றி ஏதாவது சிறப்பான வடிவமைப்பை உருவாக்க உங்களுக்கு உதவ விரும்புகிறேன். இந்த மாதம் செவ்வாய் மற்றும் வியாழன் மதியங்களில் எனக்கு திறப்புகள் உள்ளன.",
+      "கல் மற்றும் எந்த உத்வேகப் புகைப்படங்களையும் கொண்டு வாருங்கள் - Pinterest பலகைகள், திரைக்காட்சிகள், எதுவும் உதவும். ஆலோசனைகள் சுமார் ஒரு மணி நேரம் நடக்கும், எந்தக் கடமையும் இல்லை.",
+      "அங்கிருந்து, செயல்முறை வழக்கமாக உள்ளது: ஸ்கெட்ச், 3D மாதிரி, திருத்தங்கள், பின்னர் உற்பத்தியில் 3-4 வாரங்கள். நான் உங்களுக்காக நேரம் ஒதுக்க வேண்டுமா?"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "ஸ்கெட்ச், 3D மாதிரி, திருத்தங்கள், பின்னர் 3-4 வாரங்கள் உற்பத்தியில்",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "உங்கள் செயல்முறை மற்றும் காலவரிசை தெரியும்",
+      "உங்கள் குரலில் வரைவுகள்",
+      "தானாகவே ஆலோசனை விவரங்களை உள்ளடக்கியது",
+      "காலப்போக்கில் கற்றுக்கொள்கிறது"
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "அமண்டாவின் நிச்சயதார்த்த மோதிரத்துடன் நாங்கள் எங்கே இருக்கிறோம்?",
+    "agentResponse": "பிப்ரவரி 14 அன்று அமண்டா 3D மாடலுக்கு (v2) ஒப்புதல் அளித்துள்ளார். 3 வார மதிப்பீட்டில் பிப்ரவரி 16 அன்று உற்பத்தி தொடங்குவதை உறுதி செய்தீர்கள். இது மார்ச் 9 ஆம் தேதி நிறைவடைகிறது. அவரது கடைசி மின்னஞ்சல் வேலைப்பாடு விருப்பங்களைப் பற்றி கேட்கிறது - அதற்கு இன்னும் பதிலளிக்கப்படவில்லை. நான் ஒரு பதிலை உருவாக்க வேண்டுமா?",
+    "followUp": "திருமண இசைக்குழுக்கள் பற்றி ஜேம்ஸுக்கு ஒரு காலவரிசை புதுப்பிப்பை உருவாக்கவும்",
+    "followUpResponse": "முடிந்தது! ஜேம்ஸுக்குப் பொருத்தமான திருமண இசைக்குழுக்கள் இறுதி மெருகூட்டலில் இருப்பதை உறுதிசெய்து, மார்ச் 7 வெள்ளிக்கிழமைக்குள் பிக்-அப் செய்யத் தயாராகிவிடுவேன் என்று ஜேம்ஸுக்கு ஒரு பதிலை எழுதியுள்ளேன் - அவருடைய மே 18 திருமணத்திற்கு முன்பே. மதிப்பாய்வு செய்து அனுப்பத் தயார்."
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "நகை வடிவமைப்பாளர்களால் விரும்பப்படுகிறது",
   "testimonials": [
     {
       "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "title": "தனிப்பயன் நகை வடிவமைப்பாளர், LA",
+      "quote": "ஒவ்வொரு தனிப்பயன் பகுதியும் வாரங்களில் 10-15 மின்னஞ்சல்களை உருவாக்குகிறது. அதை 8 செயலில் உள்ள வாடிக்கையாளர்களால் பெருக்கவும், நான் மூழ்கிக் கொண்டிருந்தேன். Duet வரைவு வடிவமைப்பு புதுப்பிப்பு பதில்கள், ஆலோசனை உறுதிப்படுத்தல்கள், காலவரிசை பதில்கள் — அனைத்தும் என் குரலில். நான் காஸ்டிங் இடையே மதிப்பாய்வு செய்து அனுப்பு என்பதை அழுத்தவும்.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "title": "கோல்ட்ஸ்மித் & ஸ்டுடியோ உரிமையாளர், புரூக்ளின்",
+      "quote": "நான் பதிலளிக்க 3 நாட்கள் எடுத்துக் கொண்டதால் $7,000 நிச்சயதார்த்த மோதிரக் கமிஷனை இழந்தேன் - 2 மணிநேரத்தில் பதிலளித்த ஒருவரிடம் தம்பதியினர் சென்றனர். Duet என்பதால், எனது மறுமொழி நேரம் 30 நிமிடங்களுக்குள் உள்ளது. அது மீண்டும் நடக்கவில்லை.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "title": "பெஞ்ச் ஜூவல்லர், சிகாகோ",
+      "quote": "நான் ஒரு நாளைக்கு 8 மணிநேரம் பெஞ்சில் கையில் டார்ச்சுடன் இருக்கிறேன். ஆலோசனைப் பதிலைத் தட்டச்சு செய்ய, மிட்-சோல்டரை நிறுத்த முடியாது. நான் வேலை செய்யும் போது Duet எல்லாவற்றையும் வரைகிறது - நான் எனது தொலைபேசியைப் பார்க்கிறேன், ஒப்புதல் அளித்தேன், முடிந்தது.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "title": "மணப்பெண் நகை வடிவமைப்பாளர், ஆஸ்டின்",
+      "quote": "நிச்சயதார்த்த காலத்தில், ஒரு வாரத்திற்கு 20+ ஆலோசனைக் கோரிக்கைகளைப் பெறுகிறேன். Duet எனது முழு செயல்முறையையும் கற்றுக்கொண்டது - பொருட்கள், காலவரிசைகள், விலை நிர்ணயம், என்ன கொண்டு வர வேண்டும். நான் திருத்த வேண்டிய அவசியமில்லாத பதில்களை இது வரைகிறது. நவம்பர் முதல் பிப்ரவரி வரை முழுமையான உயிர்காக்கும்.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "title": "கஸ்டம் ரிங் ஸ்பெஷலிஸ்ட், போர்ட்லேண்ட்",
+      "quote": "3டி மீள்பார்வை மின்னஞ்சல்கள் எனது மாலைப் பொழுதை உண்ணும். வாடிக்கையாளர் கருத்துக்களை அனுப்புகிறார், நான் புதுப்பிப்பை ஐந்து முறை முன்னும் பின்னுமாக வரைகிறேன். இப்போது Duet வழக்கமான பதில்களைக் கையாளுகிறது மற்றும் வடிவமைப்பு முடிவுகளுக்கு மட்டுமே நான் அடியெடுத்து வைக்கிறேன். நான் என் இரவுகளைத் திரும்பப் பெற்றேன்.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "நகைகளை உருவாக்குவதில் உங்கள் நாட்களை செலவிடுங்கள்,\nஅதைப் பற்றிய மின்னஞ்சல்களுக்கு பதிலளிக்கவில்லை.",
+  "ctaSubline": "உங்கள் இலவச சோதனையைத் தொடங்கவும். 30 வினாடிகளில் உங்கள் இன்பாக்ஸை இணைக்கவும்.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Duet குறிப்பு புகைப்படங்கள் மற்றும் வடிவமைப்பு இணைப்புகளுடன் மின்னஞ்சல்களைக் கையாள முடியுமா?",
+      "answer": "ஆம். Duet இணைப்புகள் உட்பட முழு மின்னஞ்சல் நூலையும் பார்க்கிறது, எனவே ஒரு கிளையன்ட் இன்ஸ்பிரேஷன் புகைப்படங்கள் அல்லது வடிவமைப்பு கருத்துக்களை அனுப்பும்போது அது சூழலைப் புரிந்துகொள்கிறது. இது படங்களை மீண்டும் விவரிக்காது, ஆனால் ஒரு கிளையன்ட் குறிப்பு புகைப்படங்கள் மற்றும் வரைவுகளை சரியான பதிலை அனுப்பியது - ரசீதை உறுதிப்படுத்துதல், வடிவமைப்பைப் பற்றி தெளிவுபடுத்துதல் அல்லது உங்கள் வழக்கமான பணிப்பாய்வுகளின் அடிப்படையில் அடுத்த படிகளை வழங்குதல் ஆகியவற்றை அது அறிந்திருக்கிறது."
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "எனது தனிப்பயன் திட்டப்பணிகளில் 10+ செய்திகள் கொண்ட நீண்ட மின்னஞ்சல் நூல்கள் உள்ளன. Duet அவற்றைப் பின்பற்ற முடியுமா?",
+      "answer": "அங்குதான் Duet ஒளிர்கிறது. இது முழு நூல் வரலாற்றையும் படிக்கிறது - ஆலோசனை குறிப்புகள், வடிவமைப்பு திருத்தங்கள், பொருள் தேர்வுகள், காலவரிசை புதுப்பிப்புகள் - எனவே ஒவ்வொரு வரைவு பதிலுக்கும் முழு சூழல் உள்ளது. ஒரு வாடிக்கையாளர் 'எனது மோதிரத்தின் நிலை என்ன?' மின்னஞ்சலில் #14, Duet எந்த வளையம், எந்த நிலையில் உள்ளது என்பதை அறிந்து, துல்லியமான புதுப்பிப்பை உருவாக்குகிறது. 3 மாத மின்னஞ்சல்களை நீங்களே மீண்டும் படிக்க வேண்டாம்."
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "ஒரு துண்டுக்கு $5,000, ஒரு சேமித்த கமிஷன் Pro நான்கு ஆண்டுகளுக்கும் மேலாக செலுத்துகிறது."
 }

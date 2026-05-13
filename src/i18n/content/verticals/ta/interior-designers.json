@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
-  "heroBadge": "Trusted by 400+ interior designers",
-  "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "உள்துறை வடிவமைப்பாளர்களுக்கான Duet Mail | AI மின்னஞ்சல் உதவியாளர்",
+  "metaDescription": "Duet Mail உள்துறை வடிவமைப்பாளர்களுக்கு கிளையன்ட் மின்னஞ்சல்கள், ஒப்பந்ததாரர் ஒருங்கிணைப்பு மற்றும் விற்பனையாளர் ஆர்டர்களை நிர்வகிக்க உதவுகிறது - வேலை செய்யும் தளத்தில் இருந்தும் கூட. உங்கள் திட்ட விவரங்கள், விருப்பத்தேர்வுகள் மற்றும் குரல் ஆகியவற்றுடன் AI-வரைவு செய்யப்பட்ட பதில்கள்.",
+  "heroBadge": "400+ உள்துறை வடிவமைப்பாளர்களால் நம்பப்படுகிறது",
+  "heroHeadline": "நீங்கள் வாடிக்கையாளர்களுடன் தளத்தில் இருக்கும்போது உங்கள் மின்னஞ்சல் உதவியாளர்",
+  "heroSubline": "Duet உங்கள் விற்பனையாளர் தொடர்புகள், திட்ட விவரங்கள் மற்றும் கிளையன்ட் விருப்பத்தேர்வுகளைக் கற்றுக்கொள்கிறது - பின்னர் மின்னஞ்சல் பதில்களை வரைகிறது, எனவே மெதுவான பதிலுக்கு நீங்கள் ஒரு கிளையண்டை இழக்க மாட்டீர்கள்.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "சமையலறை சீரமைப்பு - ஆரம்ப ஆலோசனை?",
+      "preview": "ஹாய்! நாங்கள் வெஸ்ட்லேக்கில் ஒரு வீட்டை வாங்கினோம், மேலும் சமையலறையை முழுமையாக மாற்ற விரும்புகிறோம். நீங்கள் புதிய திட்டங்களை எடுக்கிறீர்களா? உங்கள் செயல்முறை எப்படி இருக்கும்?",
+      "pill": "பதிலளிக்க",
       "pillColor": "red"
     },
     {
       "from": "Tony's Tile & Stone",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "பதில்: பேக்ஸ்ப்ளாஷ் டைல் லீட் டைம் புதுப்பிப்பு",
+      "preview": "கிடங்கில் இருந்து கேட்டது - கலகட்டா ஹெக்ஸ் டைல் 3 வாரங்களுக்கு பின் ஆர்டர் செய்யப்பட்டுள்ளது. உங்கள் ஆர்டரை நான் வைத்திருக்க வேண்டும் அல்லது மாற்று வழிகளைப் பார்க்க வேண்டும்...",
+      "pill": "விற்பனையாளர் ஆணை",
       "pillColor": "amber"
     },
     {
       "from": "Mark L. — Electrician",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "வயரிங் முடிந்தது - பொருத்தம் நிறுவ தயாராக உள்ளது",
+      "preview": "அனைத்து ரஃப்-இன் வயரிங் மாஸ்டர் படுக்கையறை மற்றும் வாழ்க்கை அறையில் முடிக்கப்பட்டுள்ளது. நீங்கள் எப்போது வேண்டுமானாலும் ஸ்கோன்ஸ் மற்றும் சரவிளக்கை நிறுவுவதில் நாங்கள் தெளிவாக இருக்கிறோம்...",
+      "pill": "ஒப்பந்ததாரர்",
       "pillColor": "blue"
     },
     {
       "from": "Karen & Steve W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "துணி மாதிரிகள் பற்றிய எண்ணங்கள்?",
+      "preview": "நீங்கள் விட்டுச்சென்ற மூன்று துணி விருப்பங்களைப் பார்த்தோம், நாங்கள் 'ஓட்மீலில்' துணியை நோக்கி சாய்ந்துள்ளோம், ஆனால் அதை சுவர் நிறத்திற்கு எதிராகப் பார்க்க விரும்புகிறோம்...",
+      "pill": "வாடிக்கையாளர் ஒப்புதல்",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "ஹாய் ரேச்சல்! உங்கள் வெஸ்ட்லேக் சமையலறையைப் பற்றி மேலும் அறிய விரும்புகிறேன். தற்போது அடுத்த மாதத்திற்கான ஆலோசனைகளை முன்பதிவு செய்து வருகிறேன். உங்கள் பார்வை, வரவுசெலவுத் திட்டம் மற்றும் காலக்கெடு ஆகியவற்றின் மூலம் நாங்கள் நடக்கும் வீட்டிற்குள் வருகையுடன் எனது செயல்முறை தொடங்குகிறது - பின்னர் நான் பொருள் தேர்வுகளுடன் ஒரு வடிவமைப்பு கருத்தை ஒன்றாக இணைத்தேன். வீட்டில் சந்திக்க நேரம் அமைக்க வேண்டுமா?",
   "math": {
     "pricePerBooking": "$10,000",
-    "bookingUnit": "project",
+    "bookingUnit": "திட்டம்",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Duet."
+    "punchline": "ஒரு சேமித்த வாடிக்கையாளர் Duet வருடங்கள் செலுத்துகிறார்."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+  "categorizationSubtitle": "Duet தானாகவே ஒவ்வொரு மின்னஞ்சலையும் குறியிடுகிறது, எனவே புதிய கிளையன்ட் விசாரணைகள் முதலில், நிலுவையில் உள்ள ஒப்புதல்கள் இரண்டாவதாக, மற்றும் விற்பனையாளர் செய்திமடல்கள் எப்போதும் இருக்காது. வர்த்தக நிகழ்ச்சி விளம்பரங்களின் கீழ் புதைக்கப்பட்ட வடிவமைப்பு ஆலோசனையை இனி காணவில்லை.",
+  "draftSubtitle": "Duet உங்கள் செயல்முறை, திட்ட விவரங்கள் மற்றும் தொனியைக் கற்றுக்கொள்கிறது. ஒரு புதிய விசாரணை அல்லது கிளையன்ட் கேள்வி தாக்கும் போது, ​​அது உங்கள் கிடைக்கும் தன்மை, அடுத்த படிகள் மற்றும் திட்ட விவரங்களுடன் முழுமையான பதிலை உருவாக்கும். நீங்கள் மதிப்பாய்வு செய்து அனுப்புங்கள்.",
+  "agentSubtitle": "\"ஹெண்டர்சன் திட்டத்தின் நிலை என்ன?\" \"இன்னும் எந்த ஒப்புதல்கள் நிலுவையில் உள்ளன?\" Duet உங்கள் இன்பாக்ஸ் மற்றும் ஒவ்வொரு திட்டத் தொடரையும் அறிந்திருக்கிறது — கேளுங்கள்.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "சமையலறை சீரமைப்பு - ஆரம்ப ஆலோசனை?",
+      "preview": "நாங்கள் ஒரு வீட்டை வாங்கினோம், சமையலறையை மீண்டும் செய்ய விரும்புகிறோம்...",
+      "pill": "புதிய விசாரணை",
       "pillColor": "red"
     },
     {
       "from": "Karen W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "Re: துணி மாதிரிகள் - ஓட்மீல் லினனுடன் செல்கிறது",
+      "pill": "வாடிக்கையாளர் ஒப்புதல்",
       "pillColor": "blue"
     },
     {
       "from": "Mark L.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "வயரிங் முடிந்தது - பொருத்தம் நிறுவ தயாராக உள்ளது",
+      "pill": "ஒப்பந்ததாரர்",
       "pillColor": "amber"
     },
     {
       "from": "Tony's Tile & Stone",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "ஆர்டர் #4821 அனுப்பப்பட்டது — டெலிவரி வியாழன்",
+      "pill": "விற்பனையாளர் ஆணை",
       "pillColor": "lavender"
     },
     {
       "from": "Design Within Reach",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "வர்த்தக திட்டம் - வசந்த சேமிப்பு நிகழ்வு",
+      "pill": "பதவி உயர்வுகள்",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "Re: சமையலறை சீரமைப்பு — ஆரம்ப ஆலோசனை?",
+    "originalFrom": "ரேச்சல் டி. எழுதினார்:",
+    "originalText": "ஹாய்! நாங்கள் வெஸ்ட்லேக்கில் ஒரு வீட்டை வாங்கினோம், மேலும் சமையலறையை முழுமையாக மாற்ற விரும்புகிறோம். நீங்கள் புதிய திட்டங்களை எடுக்கிறீர்களா? உங்கள் செயல்முறை எப்படி இருக்கும்?",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "ஹாய் ரேச்சல்!",
+      "புதிய வீட்டிற்கு வாழ்த்துக்கள்! உங்கள் சமையலறைக்கு உதவ விரும்புகிறேன். தற்போது அடுத்த மாதத்திற்கான ஆலோசனைகளை முன்பதிவு செய்து வருகிறேன்.",
+      "உங்கள் பார்வை, வரவுசெலவுத் திட்டம் மற்றும் காலக்கெடுவைக் காண, எனது செயல்முறையானது வீட்டிற்குள் சென்று பார்ப்பதில் இருந்து தொடங்குகிறது. அங்கிருந்து நான் பொருள் தேர்வுகள் மற்றும் விரிவான முன்மொழிவுடன் ஒரு வடிவமைப்பு கருத்தை ஒன்றாக இணைத்தேன்.",
+      "வீட்டில் சந்திக்க நேரம் அமைக்க வேண்டுமா?"
     ],
-    "highlightText": "I'm currently booking consultations for next month.",
+    "highlightText": "தற்போது அடுத்த மாதத்திற்கான ஆலோசனைகளை முன்பதிவு செய்து வருகிறேன்.",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "உங்கள் செயல்முறை மற்றும் கிடைக்கும் தன்மை தெரியும்",
+      "உங்கள் குரலில் வரைவுகள்",
+      "தானாக அடுத்த படிகள் அடங்கும்",
+      "காலப்போக்கில் கற்றுக்கொள்கிறது"
     ]
   },
   "agent": {
-    "userMessage": "What approvals are still pending on the Henderson project?",
-    "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
-    "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
-    "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
+    "userMessage": "ஹென்டர்சன் திட்டத்தில் இன்னும் என்ன அனுமதிகள் நிலுவையில் உள்ளன?",
+    "agentResponse": "Hendersons உடனான உங்கள் மின்னஞ்சல் த்ரெட்களின் அடிப்படையில், இரண்டு உருப்படிகள் இன்னும் ஒப்புதலுக்காக நிலுவையில் உள்ளன: மாஸ்டர் பாத் வேனிட்டி (நீங்கள் செவ்வாய்கிழமை மறுசீரமைப்பு வன்பொருள் விருப்பங்களை அனுப்பியுள்ளீர்கள்) மற்றும் வாழ்க்கை அறை துணி துணி (மாதிரிகள் கடந்த வாரம் வழங்கப்பட்டன). சாப்பாட்டு அறைக்கான பெயிண்ட் ஷீன் குறித்தும் கரேன் கேட்டுள்ளார், ஆனால் உங்கள் பரிந்துரைக்கு இன்னும் பதிலளிக்கவில்லை. நான் பின்தொடர்தல் வரைவை உருவாக்க வேண்டுமா?",
+    "followUp": "வேனிட்டி மற்றும் துணி தேர்வுகள் பற்றி கேரனுக்கு ஒரு மென்மையான பின்தொடர்தல் வரைவு",
+    "followUpResponse": "முடிந்தது! வேனிட்டி மற்றும் டிராப்பரி தேர்வுகளில் கரேன் செக்-இன் செய்வதைப் பின்தொடர்வதற்காக நான் வரைவு செய்தேன், வேனிட்டிக்கு 6 வார கால அவகாசம் உள்ளது, எனவே விரைவில் முடிவெடுத்தால் திட்டத்தை அட்டவணையில் வைத்திருக்க முடியும். மதிப்பாய்வு செய்து அனுப்பத் தயார்."
   },
-  "testimonialsTitle": "Loved by interior designers",
+  "testimonialsTitle": "உள்துறை வடிவமைப்பாளர்களால் விரும்பப்படுகிறது",
   "testimonials": [
     {
       "name": "Michael R.",
-      "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
+      "title": "முதன்மை வடிவமைப்பாளர், ஆஸ்டின் TX",
+      "quote": "ஓவியர்கள், எலக்ட்ரீஷியன்கள் மற்றும் டைல் நிறுவுபவர்களை ஒருங்கிணைத்து ஒரு நாளைக்கு 6 மணிநேரம் நான் தளத்தில் இருக்கிறேன். இதற்கிடையில் மற்ற மூன்று வாடிக்கையாளர்கள் தங்கள் திட்டங்களைப் பற்றி மின்னஞ்சல் செய்கிறார்கள். Duet வரைவுகள் சரியான திட்ட விவரங்களுடன் பதிலளிக்கின்றன - தள வருகைகளுக்கு இடையே நான் மதிப்பாய்வு செய்கிறேன்.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
-      "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "title": "குடியிருப்பு உள்துறை வடிவமைப்பாளர், சிகாகோ",
+      "quote": "நான் கொள்முதல் மின்னஞ்சல்கள் மற்றும் ஒப்பந்ததாரர் திட்டமிடல் ஆகியவற்றில் புதைந்திருந்ததால், வாடிக்கையாளர் விசாரணைகள் பல நாட்கள் உட்கார்ந்திருந்தன. இப்போது Duet எனது செயல்முறை மற்றும் கிடைக்கும் தன்மையுடன் நிமிடங்களில் புதிய லீட்களுக்கு பதிலளிக்கிறது. இந்த காலாண்டில் 4 கூடுதல் திட்டப்பணிகளை முன்பதிவு செய்துள்ளேன்.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "title": "டிசைன் ஸ்டுடியோ உரிமையாளர், நாஷ்வில்",
+      "quote": "12 செயலில் உள்ள திட்டங்களுக்கான மின்னஞ்சல்களை நிர்வகிப்பது என்னைக் கொன்று விட்டது. Duet எல்லாவற்றையும் வகைப்படுத்துகிறது - புதிய விசாரணைகள், நிலுவையில் உள்ள ஒப்புதல்கள், விற்பனையாளர் ஆர்டர்கள், ஒப்பந்ததாரர் புதுப்பிப்புகள் - எனவே முதலில் எனது கவனம் தேவை என்பதை நான் அறிவேன்.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
-      "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "title": "உள்துறை அலங்கரிப்பாளர், சான் டியாகோ",
+      "quote": "நிறுவும் வாரங்களில் என்னால் வேகமாகப் பதிலளிக்க முடியாததால், சாத்தியமான வாடிக்கையாளர்களை நான் இழந்துகொண்டிருக்கிறேன். Duet எனது ஆலோசனை செயல்முறை, விலை நிர்ணயம், எனது வடிவமைப்பு பாணியை நான் எவ்வாறு விவரிக்கிறேன் என்பதைக் கற்றுக்கொண்டது. இது AI-உதவி என்பது வாடிக்கையாளர்களுக்குத் தெரியாது.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "title": "வணிக உள்துறை வடிவமைப்பாளர், டென்வர்",
+      "quote": "விற்பனையாளர் முன்னணி நேரங்கள், ஒப்பந்ததாரர் அட்டவணைகள் மற்றும் கிளையன்ட் மறுபரிசீலனை கோரிக்கைகளுக்கு இடையில், எனது இன்பாக்ஸ் குழப்பமாக இருந்தது. Duet அனைத்தையும் வரிசைப்படுத்துகிறது மற்றும் நிலுவையில் உள்ள ஒப்புதல்களின் பின்தொடர்தல்களை வரைகிறது. இது ஒருபோதும் தூங்காத ஒரு திட்ட ஒருங்கிணைப்பாளரைப் போன்றது.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "அழகான இடங்களை உருவாக்க உங்கள் நாட்களை செலவிடுங்கள்,\nஉங்கள் இன்பாக்ஸில் புதைக்கப்படவில்லை.",
+  "ctaSubline": "உங்கள் இலவச சோதனையைத் தொடங்கவும். 30 வினாடிகளில் உங்கள் இன்பாக்ஸை இணைக்கவும்.",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
-      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "நான் ஒரே நேரத்தில் 8-10 திட்டங்களை ஏமாற்றுகிறேன். Duet அவற்றை நேராக வைத்திருக்க முடியுமா?",
+      "answer": "ஆம். Duet ஒரு கிளையன்ட் மற்றும் திட்டத்திற்கான ஒவ்வொரு மின்னஞ்சல் தொடரையும் கண்காணிக்கும். ஹென்டர்சன் கிச்சன் அல்லது பார்க் அவென்யூ அலுவலகம் பற்றி நீங்கள் கேட்கும் போது, ​​அது தொடர்புடைய அனைத்து உரையாடல்களிலிருந்தும் சூழலை ஈர்க்கிறது - விற்பனையாளர் ஆர்டர்கள், ஒப்பந்ததாரர் புதுப்பிப்புகள், கிளையன்ட் ஒப்புதல்கள் - எனவே உங்கள் பதில்கள் எப்போதும் துல்லியமாகவும் திட்டப்பணி சார்ந்ததாகவும் இருக்கும். எந்த வாடிக்கையாளருக்கு எந்த ஓடு என்று கலக்கவில்லை."
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
-      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "நான் நிறைய ஒப்பந்ததாரர்கள் மற்றும் விற்பனையாளர்களுடன் ஒருங்கிணைக்கிறேன். Duet அதற்கு உதவுமா?",
+      "answer": "முற்றிலும். Duet உங்கள் ஒப்பந்ததாரர் தொடர்புகள், விற்பனையாளர் பிரதிநிதிகள் மற்றும் உங்கள் திட்டங்களில் ஒவ்வொரு வர்த்தகத்தின் பங்கின் சூழலையும் கற்றுக்கொள்கிறது. உங்கள் எலக்ட்ரீஷியன் மின்னஞ்சல்கள் ரஃப்-இன் செய்யப்பட்டதும், Duet ஆனது அடுத்த கட்டத்தை உறுதிப்படுத்தும் பதிலை உருவாக்கலாம் அல்லது ஃபிக்ஸ்ச்சர் நிறுவியில் லூப் செய்யலாம். நீங்கள் வேறொரு வேலை தளத்தில் நகரம் முழுவதும் இருக்கும்போது கூட இது பணிப்பாய்வுகளை நகர்த்துகிறது."
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
+  "pricingNote": "$10,000/திட்டம், ஒரு சேமித்த கிளையன்ட் Duet Pro வருடங்களைச் செலுத்துகிறார்."
 }

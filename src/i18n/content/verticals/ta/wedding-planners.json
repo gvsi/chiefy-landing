@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail for Wedding Planners | AI Email Assistant",
-  "metaDescription": "Duet Mail helps wedding planners respond to client and vendor emails instantly — even from venue walkthroughs. AI-drafted replies with your packages, vendor contacts, and voice.",
-  "heroBadge": "Trusted by 400+ wedding planners",
-  "heroHeadline": "Your email assistant while you're on-site at the venue",
-  "heroSubline": "Duet learns your vendor contacts, packages, and client preferences — then drafts email replies so couples never wait while you're coordinating on the ground.",
+  "pageTitle": "திருமண திட்டமிடுபவர்களுக்கான Duet Mail | AI மின்னஞ்சல் உதவியாளர்",
+  "metaDescription": "Duet Mail திருமணத் திட்டமிடுபவர்களுக்கு வாடிக்கையாளர் மற்றும் விற்பனையாளர் மின்னஞ்சல்களுக்கு உடனடியாக பதிலளிக்க உதவுகிறது - இடத்தின் ஒத்திகைகளிலிருந்தும் கூட. உங்கள் தொகுப்புகள், விற்பனையாளர் தொடர்புகள் மற்றும் குரல் ஆகியவற்றுடன் AI-வரைவு செய்யப்பட்ட பதில்கள்.",
+  "heroBadge": "400+ திருமண திட்டமிடுபவர்களால் நம்பப்படுகிறது",
+  "heroHeadline": "நீங்கள் தளத்தில் இருக்கும்போது உங்கள் மின்னஞ்சல் உதவியாளர்",
+  "heroSubline": "Duet உங்கள் விற்பனையாளர் தொடர்புகள், தொகுப்புகள் மற்றும் கிளையன்ட் விருப்பத்தேர்வுகளைக் கற்றுக்கொள்கிறது - பின்னர் மின்னஞ்சல் பதில்களை வரைகிறது, எனவே நீங்கள் தரையில் ஒருங்கிணைக்கும்போது தம்பதிகள் காத்திருக்க மாட்டார்கள்.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages...",
-      "pill": "To Respond",
+      "subject": "செப்டம்பர் 20 திருமணத்திற்கு கிடைக்குமா?",
+      "preview": "ஹாய்! நாங்கள் நிச்சயதார்த்தம் செய்து கொண்டோம், செப்டம்பர் 20 ஆம் தேதி சுமார் 120 விருந்தினர்களுக்கு திருமணத்தை நடத்த இருக்கிறோம். உங்களிடம் கிடைக்குமா? உங்கள் தொகுப்புகள் என்ன...",
+      "pill": "பதிலளிக்க",
       "pillColor": "red"
     },
     {
       "from": "Bella Rosa Florals",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "preview": "Here are the three centerpiece options we discussed. The garden roses came in beautifully. Let me know which direction the couple wants to go...",
-      "pill": "Vendor",
+      "subject": "Re: தாம்சன் திருமணம் — மையப் பிரதிகள்",
+      "preview": "நாங்கள் விவாதித்த மூன்று மைய விருப்பங்கள் இங்கே. தோட்ட ரோஜாக்கள் அழகாக வந்தன. தம்பதிகள் எந்த திசையில் செல்ல விரும்புகிறார்கள் என்பதை எனக்குத் தெரியப்படுத்துங்கள்...",
+      "pill": "விற்பனையாளர்",
       "pillColor": "amber"
     },
     {
       "from": "Rachel K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Freaking out about the seating chart",
-      "preview": "I know we finalized the chart last week but my mom just RSVPd 4 extra people and I have no idea where to put them. Can we move some tables around...",
-      "pill": "Client",
+      "subject": "இருக்கை அட்டவணையைப் பற்றி வெறித்தனம்",
+      "preview": "கடந்த வாரம் நாங்கள் விளக்கப்படத்தை இறுதி செய்தோம் என்பது எனக்குத் தெரியும், ஆனால் என் அம்மா 4 கூடுதல் நபர்களை ஆர்எஸ்விபிடி செய்துள்ளார், அவர்களை எங்கு வைப்பது என்று எனக்குத் தெரியவில்லை. சில டேபிள்களை நகர்த்தலாமா...",
+      "pill": "வாடிக்கையாளர்",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
-      "preview": "A couple has requested more information about your services. View details and respond...",
+      "subject": "உங்கள் பட்டியலில் இருந்து புதிய விசாரணை",
+      "preview": "உங்கள் சேவைகளைப் பற்றிய கூடுதல் தகவலை ஒரு ஜோடி கோரியுள்ளது. விவரங்களைப் பார்த்து பதிலளிக்கவும்...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Emily & James — congratulations on your engagement! September 20th is available and 120 guests is a perfect size. I offer full planning, partial planning, and day-of coordination packages. I'd love to set up a complimentary consultation to learn your vision. Are you free for a quick call this week?",
+  "autodraft": "ஹாய் எமிலி & ஜேம்ஸ் — உங்கள் நிச்சயதார்த்தத்திற்கு வாழ்த்துக்கள்! செப்டம்பர் 20 ஆம் தேதி கிடைக்கும் மற்றும் 120 விருந்தினர்கள் சரியான அளவு. நான் முழு திட்டமிடல், பகுதி திட்டமிடல் மற்றும் நாள் ஒருங்கிணைப்பு தொகுப்புகளை வழங்குகிறேன். உங்கள் பார்வையை அறிய ஒரு பாராட்டு ஆலோசனையை அமைக்க விரும்புகிறேன். இந்த வாரம் விரைவான அழைப்பிற்கு நீங்கள் இலவசமா?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "wedding",
+    "bookingUnit": "திருமணம்",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved client pays for over 20 years of Duet."
+    "punchline": "ஒரு சேமித்த வாடிக்கையாளர் Duet ஐ 20 ஆண்டுகளுக்கும் மேலாக செலுத்துகிறார்."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new couple inquiries first, vendor confirmations second, and newsletter noise never. No more missing a booking request buried under Knot alerts.",
-  "draftSubtitle": "Duet learns your packages, preferred vendors, and tone. When a couple inquires, it drafts a warm, complete reply with your availability and next steps. You review and send.",
-  "agentSubtitle": "\"What vendor emails came in for the Thompson wedding?\" \"Draft a timeline update to all vendors for Saturday.\" Duet knows your inbox and clients — just ask.",
+  "categorizationSubtitle": "Duet தானாகவே ஒவ்வொரு மின்னஞ்சலையும் குறியிடுகிறது, எனவே முதலில் புதிய ஜோடி விசாரணைகளையும், இரண்டாவது விற்பனையாளர் உறுதிப்படுத்தல்களையும், செய்திமடல் சத்தத்தையும் பார்க்க முடியாது. Knot விழிப்பூட்டல்களின் கீழ் புதைக்கப்பட்ட முன்பதிவு கோரிக்கையை இனி காணவில்லை.",
+  "draftSubtitle": "Duet உங்கள் தொகுப்புகள், விருப்பமான விற்பனையாளர்கள் மற்றும் தொனியைக் கற்றுக்கொள்கிறது. ஒரு ஜோடி விசாரிக்கும் போது, ​​அது உங்கள் இருப்பு மற்றும் அடுத்த படிகளுடன் ஒரு சூடான, முழுமையான பதிலை உருவாக்குகிறது. நீங்கள் மதிப்பாய்வு செய்து அனுப்புங்கள்.",
+  "agentSubtitle": "\"தாம்சன் திருமணத்திற்கு என்ன விற்பனையாளர் மின்னஞ்சல்கள் வந்தன?\" \"சனிக்கிழமைக்கான காலவரிசை புதுப்பிப்பை அனைத்து விற்பனையாளர்களுக்கும் உருவாக்கவும்.\" Duet உங்கள் இன்பாக்ஸ் மற்றும் வாடிக்கையாளர்களை அறிந்திருக்கிறது — கேளுங்கள்.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "We just got engaged and are looking at September 20th...",
-      "pill": "Respond Now",
+      "subject": "செப்டம்பர் 20 திருமணத்திற்கு கிடைக்குமா?",
+      "preview": "நாங்கள் நிச்சயதார்த்தம் செய்து கொண்டோம், செப்டம்பர் 20 ஆம் தேதி பார்க்கிறோம்...",
+      "pill": "இப்போது பதிலளிக்கவும்",
       "pillColor": "red"
     },
     {
       "from": "Bella Rosa Florals",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "pill": "Vendor",
+      "subject": "Re: தாம்சன் திருமணம் — மையப் பிரதிகள்",
+      "pill": "விற்பனையாளர்",
       "pillColor": "amber"
     },
     {
       "from": "Rachel K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Re: Seating chart — final version attached",
-      "pill": "Client",
+      "subject": "மறு: இருக்கை விளக்கப்படம் — இறுதி பதிப்பு இணைக்கப்பட்டுள்ளது",
+      "pill": "வாடிக்கையாளர்",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
+      "subject": "உங்கள் பட்டியலில் இருந்து புதிய விசாரணை",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Minted",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "20% off save-the-dates this week",
-      "pill": "Promotions",
+      "subject": "இந்த வாரம் சேமிக்கும் தேதிகளில் 20% தள்ளுபடி",
+      "pill": "பதவி உயர்வுகள்",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "emily.james.w@email.com",
-    "subject": "Re: Availability for Sept 20 wedding?",
-    "originalFrom": "Emily & James W. wrote:",
-    "originalText": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages and pricing?",
+    "subject": "Re: செப்டம்பர் 20 திருமணத்திற்கு கிடைக்குமா?",
+    "originalFrom": "எமிலி & ஜேம்ஸ் டபிள்யூ. இந்த புள்ளிவிவரங்களை நிர்வகிக்க",
+    "originalText": "ஹாய்! நாங்கள் நிச்சயதார்த்தம் செய்து கொண்டோம், செப்டம்பர் 20 ஆம் தேதி சுமார் 120 விருந்தினர்களுக்கு திருமணத்தை நடத்த இருக்கிறோம். உங்களிடம் கிடைக்குமா? உங்கள் பேக்கேஜ்கள் மற்றும் விலை என்ன?",
     "lines": [
-      "Hi Emily & James — congratulations!",
-      "September 20th is available and 120 guests is a wonderful size. I offer full planning, partial planning, and day-of coordination packages starting at $3,500.",
-      "I'd love to set up a complimentary consultation to hear your vision and walk you through which package fits best.",
-      "Are you free for a call this week?"
+      "ஹாய் எமிலி & ஜேம்ஸ் — வாழ்த்துக்கள்!",
+      "செப்டம்பர் 20 ஆம் தேதி கிடைக்கும் மற்றும் 120 விருந்தினர்கள் ஒரு அற்புதமான அளவு. நான் $3,500 முதல் முழு திட்டமிடல், பகுதி திட்டமிடல் மற்றும் நாள் ஒருங்கிணைப்பு தொகுப்புகளை வழங்குகிறேன்.",
+      "உங்கள் பார்வையைக் கேட்கவும், எந்தப் பேக்கேஜ் மிகவும் பொருத்தமானது என்பதை உங்களுக்குக் கொண்டு செல்லவும் ஒரு பாராட்டு ஆலோசனையை அமைக்க விரும்புகிறேன்.",
+      "இந்த வாரம் அழைப்பிற்கு இலவசமா?"
     ],
-    "highlightText": "September 20th is available and 120 guests is a wonderful size",
+    "highlightText": "செப்டம்பர் 20 ஆம் தேதி கிடைக்கும் மற்றும் 120 விருந்தினர்கள் ஒரு அற்புதமான அளவு",
     "tooltipFeatures": [
-      "Knows your packages & availability",
-      "Drafts in your voice",
-      "Includes consultation next steps",
-      "Learns your client preferences"
+      "உங்கள் பேக்கேஜ்கள் & கிடைக்கும் தன்மையை அறிந்திருக்கிறது",
+      "உங்கள் குரலில் வரைவுகள்",
+      "ஆலோசனை அடுத்த படிகளை உள்ளடக்கியது",
+      "உங்கள் வாடிக்கையாளர் விருப்பங்களைக் கற்றுக்கொள்கிறது"
     ]
   },
   "agent": {
-    "userMessage": "What vendor emails came in for the Thompson wedding this week?",
-    "agentResponse": "You received 4 vendor emails for the Thompson wedding this week: Bella Rosa Florals sent centerpiece mockups (awaiting couple's pick), Lakeside Venue confirmed the ceremony rehearsal for Friday at 4 PM, DJ Marco sent the updated song list, and Sweet Layers Bakery needs final cake flavor by Wednesday. Want me to draft replies to any of these?",
-    "followUp": "Draft a reply to Bella Rosa with the couple's pick — Option B, the garden roses",
-    "followUpResponse": "Done! I drafted a reply to Bella Rosa Florals confirming Option B — the garden rose centerpieces for the Thompson wedding. It includes a note to proceed with the full order for 14 tables. Ready to review and send."
+    "userMessage": "இந்த வாரம் தாம்சன் திருமணத்திற்கு என்ன விற்பனையாளர் மின்னஞ்சல்கள் வந்தன?",
+    "agentResponse": "இந்த வாரம் தாம்சன் திருமணத்திற்காக 4 விற்பனையாளர் மின்னஞ்சல்களைப் பெற்றுள்ளீர்கள்: பெல்லா ரோசா ஃப்ளோரல்ஸ் சென்டர்பீஸ் மோக்கப்களை அனுப்பியது (ஜோடிகளின் தேர்வுக்காகக் காத்திருக்கிறது), லேக்சைட் வென்யூ வெள்ளிக்கிழமை மாலை 4 மணிக்கு விழா ஒத்திகையை உறுதிப்படுத்தியது, டிஜே மார்கோ புதுப்பிக்கப்பட்ட பாடல் பட்டியலை அனுப்பினார், மேலும் ஸ்வீட் லேயர்ஸ் பேக்கரிக்கு புதன்கிழமைக்குள் இறுதி கேக் சுவை தேவை. இவற்றில் ஏதேனும் ஒன்றிற்கான பதில்களை நான் எழுத வேண்டுமா?",
+    "followUp": "பெல்லா ரோசாவிற்கு ஜோடிகளின் தேர்வு - விருப்பம் B, தோட்ட ரோஜாக்களுடன் ஒரு பதிலை உருவாக்கவும்",
+    "followUpResponse": "முடிந்தது! தாம்சன் திருமணத்திற்கான தோட்ட ரோஜாவின் மையப் பகுதிகளான ஆப்ஷன் பியை உறுதிப்படுத்தும் பெல்லா ரோசா ஃப்ளோரல்ஸுக்கு நான் ஒரு பதிலை உருவாக்கினேன். 14 அட்டவணைகளுக்கான முழு வரிசையையும் தொடர குறிப்பு உள்ளது. மதிப்பாய்வு செய்து அனுப்பத் தயார்."
   },
-  "testimonialsTitle": "Loved by wedding planners",
+  "testimonialsTitle": "திருமண திட்டமிடுபவர்களால் விரும்பப்படும்",
   "testimonials": [
     {
       "name": "Francesca M.",
-      "title": "Boutique Wedding Planner, CO",
-      "quote": "I'm at mountain venues with zero cell service half my week. Meanwhile couples are emailing me about timelines and vendor questions. Duet drafts replies with my exact packages and tone — I review them when I'm back in range.",
+      "title": "பூட்டிக் திருமண திட்டமிடுபவர், CO",
+      "quote": "எனது வாரத்தில் பாதி நேரம் பூஜ்ஜிய செல் சேவையுடன் மலைப்பகுதிகளில் இருக்கிறேன். இதற்கிடையில், காலக்கெடு மற்றும் விற்பனையாளர் கேள்விகள் குறித்து தம்பதிகள் எனக்கு மின்னஞ்சல் அனுப்புகிறார்கள். Duet வரைவுகள் எனது சரியான தொகுப்புகள் மற்றும் தொனியுடன் பதிலளிக்கின்றன - நான் வரம்பிற்கு வரும்போது அவற்றை மதிப்பாய்வு செய்கிறேன்.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
-      "title": "Full-Service Wedding Planner, CA",
-      "quote": "Coordinating 10+ vendors per wedding means my inbox is a war zone during peak season. Duet categorizes vendor emails separately from client emails and drafts follow-ups I'd have written myself. I actually sleep now.",
+      "title": "முழு-சேவை திருமண திட்டமிடுபவர், CA",
+      "quote": "ஒரு திருமணத்திற்கு 10+ விற்பனையாளர்களை ஒருங்கிணைப்பது என்பது உச்ச பருவத்தில் எனது இன்பாக்ஸ் ஒரு போர் மண்டலமாகும். Duet வாடிக்கையாளர் மின்னஞ்சல்களிலிருந்து விற்பனையாளர் மின்னஞ்சல்களை தனித்தனியாக வகைப்படுத்துகிறது மற்றும் நானே எழுதிய பின்தொடர்தல் வரைவுகள். நான் இப்போது தூங்குகிறேன்.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
-      "title": "Day-of Coordinator, TX",
-      "quote": "On wedding days I'm unavailable for 14 hours straight. New inquiries used to sit unanswered until Monday. Now Duet handles them instantly and I've booked 3 extra weddings this quarter from faster response times alone.",
+      "title": "நாள் ஒருங்கிணைப்பாளர், TX",
+      "quote": "திருமண நாட்களில் நான் தொடர்ந்து 14 மணிநேரம் கிடைக்காது. புதிய விசாரணைகள் திங்கட்கிழமை வரை பதிலளிக்கப்படாமல் இருந்தன. இப்போது Duet அவற்றை உடனடியாகக் கையாளுகிறது, மேலும் இந்த காலாண்டில் 3 கூடுதல் திருமணங்களை விரைவான பதில் நேரங்களிலிருந்து மட்டும் பதிவு செய்துள்ளேன்.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
-      "title": "Destination Wedding Planner, HI",
-      "quote": "My couples fly in from all over the world and email at all hours. Duet learned my FAQ answers — venue logistics, local vendors, what to expect — and drafts replies that sound exactly like me. Clients have no idea.",
+      "title": "இலக்கு திருமண திட்டமிடுபவர், HI",
+      "quote": "எனது தம்பதிகள் உலகம் முழுவதிலுமிருந்து வந்து எல்லா நேரங்களிலும் மின்னஞ்சல் அனுப்புகிறார்கள். Duet எனது FAQ பதில்களைக் கற்றுக்கொண்டது - இடம் தளவாடங்கள், உள்ளூர் விற்பனையாளர்கள், என்ன எதிர்பார்க்கலாம் - மற்றும் என்னைப் போலவே இருக்கும் வரைவு பதில்கள். வாடிக்கையாளர்களுக்கு எதுவும் தெரியாது.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
-      "title": "Wedding & Event Planner, NY",
-      "quote": "I was spending 2 hours every night answering the same package and availability questions. Duet handles the repetitive stuff so I can focus on the creative work I actually love. It paid for itself in the first week.",
+      "title": "திருமணம் மற்றும் நிகழ்வு திட்டமிடுபவர், NY",
+      "quote": "ஒவ்வொரு இரவும் ஒரே பேக்கேஜ் மற்றும் கிடைக்கும் கேள்விகளுக்குப் பதிலளிப்பதில் நான் 2 மணிநேரம் செலவழித்தேன். Duet மீண்டும் மீண்டும் வரும் விஷயங்களைக் கையாளுகிறது, அதனால் நான் உண்மையில் விரும்பும் படைப்பு வேலைகளில் கவனம் செலுத்த முடியும். அது முதல் வாரத்திலேயே பணம் கொடுத்தது.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Be present at the ceremony,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "விழாவில் கலந்து கொள்ளுங்கள்,\nஉங்கள் இன்பாக்ஸில் புதைக்கப்படவில்லை.",
+  "ctaSubline": "உங்கள் இலவச சோதனையைத் தொடங்கவும். 30 வினாடிகளில் உங்கள் இன்பாக்ஸை இணைக்கவும்.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work with all the vendor coordination emails?",
-      "answer": "Yes. Duet learns your vendor contacts, preferred vendors, and how you communicate with each one. It categorizes vendor emails by wedding and drafts replies with the right details — confirmations, follow-ups, timeline updates. You review and send. It handles florists, caterers, venues, DJs, photographers, and every other vendor in your rolodex."
+      "question": "அனைத்து விற்பனையாளர் ஒருங்கிணைப்பு மின்னஞ்சல்களிலும் Duet வேலை செய்கிறதா?",
+      "answer": "ஆம். Duet உங்கள் விற்பனையாளர் தொடர்புகள், விருப்பமான விற்பனையாளர்கள் மற்றும் ஒவ்வொருவருடனும் நீங்கள் எவ்வாறு தொடர்பு கொள்கிறீர்கள் என்பதைக் கற்றுக்கொள்கிறது. இது திருமணத்தின் மூலம் விற்பனையாளர் மின்னஞ்சல்களை வகைப்படுத்துகிறது மற்றும் சரியான விவரங்களுடன் பதில்களை வரைகிறது - உறுதிப்படுத்தல்கள், பின்தொடர்தல்கள், காலவரிசை புதுப்பிப்புகள். நீங்கள் மதிப்பாய்வு செய்து அனுப்புங்கள். இது பூக்கடைக்காரர்கள், உணவு வழங்குபவர்கள், இடங்கள், டிஜேக்கள், புகைப்படக் கலைஞர்கள் மற்றும் உங்கள் ரோலோடெக்ஸில் உள்ள மற்ற எல்லா விற்பனையாளர்களையும் கையாளுகிறது."
     },
     {
-      "question": "I'm on-site at weddings and venues all day. Will I miss new inquiries?",
-      "answer": "That's exactly what Duet solves. When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps. You review and send whenever you're free — even from your phone between events. Most planners tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "நான் நாள் முழுவதும் திருமணங்கள் மற்றும் அரங்குகளில் இருக்கிறேன். புதிய விசாரணைகளை நான் தவறவிடலாமா?",
+      "answer": "அதைத்தான் Duet தீர்க்கிறது. நீங்கள் ஆன்-சைட்டில் ஒருங்கிணைக்கும்போது கிடைக்கும் அல்லது பேக்கேஜ்கள் பற்றி இரண்டு மின்னஞ்சல்கள் கேட்கும் போது, ​​Duet உங்கள் உண்மையான கிடைக்கும் தன்மை மற்றும் அடுத்த படிகளுடன் ஒரு சூடான, தொழில்முறை பதிலை உருவாக்கும். உங்களுக்கு ஓய்வு கிடைக்கும் போதெல்லாம் - நிகழ்வுகளுக்கு இடையே உங்கள் ஃபோனிலிருந்தும் கூட மதிப்பாய்வு செய்து அனுப்புவீர்கள். உச்ச பருவத்தில் ஒரு நாளைக்கு 1-2 மணிநேர மின்னஞ்சல் நேரத்தை மிச்சப்படுத்துவதாக பெரும்பாலான திட்டமிடுபவர்கள் எங்களிடம் கூறுகிறார்கள்."
     }
   ],
-  "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."
+  "pricingNote": "$8,000/திருமணத்தில், ஒரு சேமித்த வாடிக்கையாளர் Pro 20 ஆண்டுகளுக்கும் மேலாக செலுத்துகிறார்."
 }
