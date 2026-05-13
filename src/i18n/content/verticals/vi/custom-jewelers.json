@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "Duet Mail cho Thợ Kim Hoàn Tùy Chỉnh | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp thợ kim hoàn tùy chỉnh phản hồi yêu cầu tư vấn, phê duyệt thiết kế và câu hỏi về tiến độ ngay lập tức — ngay cả khi đang làm việc tại bàn. Trả lời được soạn thảo bằng AI với quy trình, giá cả và giọng điệu của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 300 nhà thiết kế trang sức",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang làm việc tại bàn",
+  "heroSubline": "Duet học quy trình thiết kế, vật liệu, giá cả và tiến độ của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách hàng tùy chỉnh vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "Tư vấn nhẫn đính hôn tùy chỉnh?",
+      "preview": "Chào bạn! Tôi và bạn đời quan tâm đến một chiếc nhẫn đính hôn tùy chỉnh. Chúng tôi có một viên kim cương gia truyền muốn sử dụng. Bạn có thời gian tư vấn trong tháng này không?",
+      "pill": "Cần Phản Hồi",
       "pillColor": "red"
     },
     {
       "from": "Amanda S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "Re: Mô hình 3D — có thể điều chỉnh phần gắn đá không?",
+      "preview": "Rất thích thiết kế tổng thể! Nhưng chúng ta có thể thử phần gắn đá thấp hơn không? Tôi đính kèm ảnh phong cách tôi nghĩ đến. Ngoài ra, chuyển sang bạch kim có làm thay đổi tiến độ không...",
+      "pill": "Chỉnh Sửa",
       "pillColor": "amber"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
-      "pill": "Status",
+      "subject": "Cập nhật tiến độ nhẫn cưới?",
+      "preview": "Chào bạn! Tôi chỉ muốn kiểm tra về nhẫn cưới đôi của chúng tôi. Đám cưới là ngày 18 tháng 5 và tôi muốn chắc chắn mọi thứ vẫn đúng tiến độ. Bạn có thể gửi cập nhật nhanh không...",
+      "pill": "Tình Trạng",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Đánh giá mới trên cửa hàng của bạn",
+      "preview": "Một cặp đôi vừa đánh giá doanh nghiệp của bạn trên The Knot. Xem họ nói gì và phản hồi...",
+      "pill": "Thông Báo",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "Chào Rachel! Tôi rất muốn giúp bạn thiết kế một chiếc nhẫn quanh viên kim cương gia truyền của bạn — đó là một trong những điều tôi thích nhất. Tôi có thời gian vào chiều thứ Ba và thứ Năm trong tháng này. Mang theo viên đá và bất kỳ ảnh cảm hứng nào. Buổi tư vấn kéo dài khoảng một giờ và không có nghĩa vụ gì. Bạn muốn tôi giữ chỗ cho bạn không?",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "món tùy chỉnh",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "Một khách hàng được giữ lại trả cho hơn bốn năm sử dụng Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu tư vấn mới trước, phê duyệt thiết kế sau, và không bao giờ thấy bản tin nhà cung cấp. Không còn bỏ lỡ yêu cầu $5,000 bị chôn dưới các chương trình khuyến mãi nhà cung cấp.",
+  "draftSubtitle": "Duet học quy trình, vật liệu, giá cả và giọng điệu của bạn. Khi có yêu cầu tư vấn, nó soạn thảo trả lời đầy đủ với thời gian bạn có, những gì cần mang theo và cách quy trình của bạn hoạt động. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Chúng ta đang ở đâu với nhẫn của Amanda?\" \"Soạn thảo cập nhật tiến độ cho James.\" Duet biết mọi chuỗi khách hàng — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "Tư vấn nhẫn đính hôn tùy chỉnh?",
+      "preview": "Bạn đời và tôi quan tâm đến một chiếc nhẫn tùy chỉnh...",
+      "pill": "Yêu Cầu Mới",
       "pillColor": "red"
     },
     {
       "from": "Amanda S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "Re: Mô hình 3D v2 — trông hoàn hảo!",
+      "pill": "Phê Duyệt Thiết Kế",
       "pillColor": "blue"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "Nhẫn đã sẵn sàng — khi nào chúng tôi lấy được?",
+      "pill": "Sẵn Sàng Nhận",
       "pillColor": "amber"
     },
     {
       "from": "Emily W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "Re: Theo dõi tư vấn — thích các bản phác thảo",
+      "pill": "Tư Vấn",
       "pillColor": "amber"
     },
     {
       "from": "Rio Grande Supply",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "Khuyến mãi mùa xuân — giảm 15% phụ kiện bạch kim",
+      "pill": "Nhà Cung Cấp",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "Re: Tư vấn nhẫn đính hôn tùy chỉnh?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào bạn! Tôi và bạn đời quan tâm đến một chiếc nhẫn đính hôn tùy chỉnh. Chúng tôi có một viên kim cương gia truyền muốn sử dụng. Bạn có thời gian tư vấn trong tháng này không?",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "Chào Rachel!",
+      "Tôi rất muốn giúp bạn thiết kế một món đặc biệt quanh viên kim cương gia truyền của bạn. Tôi có thời gian vào chiều thứ Ba và thứ Năm trong tháng này.",
+      "Mang theo viên đá và bất kỳ ảnh cảm hứng nào — bảng Pinterest, ảnh chụp màn hình, bất cứ thứ gì cũng giúp. Buổi tư vấn kéo dài khoảng một giờ và không có nghĩa vụ gì.",
+      "Quy trình thường là: phác thảo, mô hình 3D, chỉnh sửa, rồi 3-4 tuần sản xuất. Bạn muốn tôi giữ chỗ cho bạn không?"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "phác thảo, mô hình 3D, chỉnh sửa, rồi 3-4 tuần sản xuất",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "Hiểu quy trình & tiến độ của bạn",
+      "Soạn thảo theo giọng điệu của bạn",
+      "Tự động bao gồm chi tiết tư vấn",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "Chúng ta đang ở đâu với nhẫn đính hôn của Amanda?",
+    "agentResponse": "Amanda đã phê duyệt mô hình 3D (v2) vào ngày 14 tháng 2. Bạn đã xác nhận bắt đầu sản xuất ngày 16 tháng 2 với ước tính 3 tuần. Như vậy dự kiến hoàn thành khoảng ngày 9 tháng 3. Email cuối cùng của cô ấy hỏi về tùy chọn khắc — vẫn chưa trả lời. Bạn muốn tôi soạn trả lời không?",
+    "followUp": "Soạn thảo cập nhật tiến độ cho James về nhẫn cưới",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho James xác nhận nhẫn cưới đôi của anh ấy đang được đánh bóng cuối cùng và sẽ sẵn sàng nhận vào thứ Sáu, ngày 7 tháng 3 — trước đám cưới ngày 18 tháng 5. Sẵn sàng xem lại và gửi."
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "Được các nhà thiết kế trang sức yêu thích",
   "testimonials": [
     {
       "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "title": "Nhà Thiết Kế Trang Sức Tùy Chỉnh, LA",
+      "quote": "Mỗi món tùy chỉnh tạo ra 10-15 email trong nhiều tuần. Nhân với 8 khách hàng đang hoạt động, tôi gần như ngập đầu. Duet soạn trả lời cập nhật thiết kế, xác nhận tư vấn, trả lời tiến độ — tất cả bằng giọng tôi. Tôi xem qua giữa các lần đúc và nhấn gửi.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "title": "Thợ Vàng & Chủ Xưởng, Brooklyn",
+      "quote": "Tôi mất một đơn nhẫn đính hôn $7,000 vì mất 3 ngày để trả lời — cặp đôi đã chọn người trả lời trong 2 giờ. Từ khi dùng Duet, thời gian phản hồi của tôi dưới 30 phút. Điều đó không xảy ra nữa.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "title": "Thợ Kim Hoàn, Chicago",
+      "quote": "Tôi làm việc tại bàn 8 tiếng mỗi ngày với ngọn đèn hàn trên tay. Tôi không thể dừng giữa chừng để gõ trả lời tư vấn. Duet soạn thảo mọi thứ khi tôi làm việc — tôi liếc điện thoại, duyệt, xong.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "title": "Nhà Thiết Kế Trang Sức Cưới, Austin",
+      "quote": "Mùa đính hôn tôi nhận hơn 20 yêu cầu tư vấn mỗi tuần. Duet học toàn bộ quy trình của tôi — vật liệu, tiến độ, mức giá, những gì cần mang theo. Nó soạn trả lời mà tôi hầu như không phải chỉnh sửa. Cứu tinh tuyệt đối từ tháng 11 đến tháng 2.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "title": "Chuyên Gia Nhẫn Tùy Chỉnh, Portland",
+      "quote": "Email chỉnh sửa 3D từng làm tôi mất buổi tối. Khách gửi phản hồi, tôi soạn cập nhật, qua lại năm lần. Giờ Duet xử lý trả lời thường xuyên và tôi chỉ can thiệp vào quyết định thiết kế. Tôi đã lấy lại được buổi tối của mình.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành thời gian tạo ra trang sức,\nkhông phải trả lời email về nó.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Duet có xử lý email kèm ảnh tham khảo và tệp đính kèm thiết kế không?",
+      "answer": "Có. Duet xem toàn bộ chuỗi email bao gồm tệp đính kèm, nên hiểu ngữ cảnh khi khách gửi ảnh cảm hứng hoặc phản hồi thiết kế. Nó sẽ không mô tả lại hình ảnh, nhưng biết khách vừa gửi ảnh tham khảo và soạn trả lời phù hợp — xác nhận đã nhận, hỏi thêm chi tiết về thiết kế, hoặc cung cấp bước tiếp theo dựa trên quy trình thường dùng của bạn."
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "Dự án tùy chỉnh của tôi có chuỗi email dài với hơn 10 tin nhắn. Duet có theo dõi được không?",
+      "answer": "Đó chính là điểm mạnh của Duet. Nó đọc toàn bộ lịch sử chuỗi — ghi chú tư vấn, chỉnh sửa thiết kế, lựa chọn vật liệu, cập nhật tiến độ — nên mọi trả lời soạn đều có đầy đủ ngữ cảnh. Khi khách hỏi 'nhẫn của tôi đang ở đâu?' trong email thứ 14, Duet biết đó là nhẫn nào, đang ở giai đoạn nào và soạn cập nhật chính xác. Bạn không cần phải đọc lại 3 tháng email nữa."
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "Với $5,000/món, một đơn hàng giữ lại đủ trả cho hơn bốn năm dùng Pro."
 }

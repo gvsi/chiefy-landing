@@ -1,33 +1,32 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | ผู้ช่วยอีเมล AI สำหรับ Gmail และ Outlook",
+    "description": "ผู้ช่วยอีเมล AI ของ Duet Mail สรุปอีเมล ร่างคำตอบ และจัดระเบียบกล่องจดหมายของคุณ ใช้งานได้กับ Gmail และ Outlook ประหยัดเวลาได้มากกว่า 4 ชั่วโมงต่อสัปดาห์"
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "พร้อมใช้งานแล้วสำหรับ Gmail และ Outlook",
+    "headlinePrefix": "ผู้ดูแล ",
+    "headlineHighlight": "งานสำคัญ",
+    "headlineSuffix": " ของคุณสำหรับ",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "จัดเรียงอีเมล",
+      "ร่างคำตอบ",
+      "นัดหมาย",
+      "หาคำตอบ"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "ประหยัดเวลากว่า 4 ชั่วโมงทุกสัปดาห์กับอีเมล",
+    "primaryCta": "เริ่มด้วย Gmail",
+    "secondaryCta": "เริ่มด้วย Outlook",
+    "trialNote": "ทดลองใช้ฟรี 14 วัน",
+    "cancelNote": "ยกเลิกได้ทุกเมื่อ"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "จัดหมวดหมู่ทันที",
+      "คำตอบที่ขับเคลื่อนด้วย AI"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "กล่องจดหมายเข้า",
     "providers": [
       "Gmail",
       "Outlook"
@@ -36,140 +35,140 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "เมื่อวาน"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "ร่างอัตโนมัติ",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Re: ไทม์ไลน์เปิดตัวสินค้า",
+        "preview": "เฮ้! อยากเช็กเรื่องไฟล์ประกอบการเปิดตัว เรายังอยู่ตามแผนสำหรับสัปดาห์หน้าหรือเปล่า...",
+        "pill": "ต้องตอบกลับ"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "คุยสั้นๆ บ่ายนี้ได้ไหม?",
+        "preview": "อยากอัปเดตเรื่องแผนงานนิดหน่อย คุณว่างประมาณ 4pm ไหม...",
+        "pill": "ประชุม"
       },
       {
         "from": "Marketing",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
-        "pill": "FYI"
+        "subject": "ผลแคมเปญพร้อมแล้ว",
+        "pill": "แจ้งให้ทราบ"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "ร้านค้าของคุณพร้อมสำหรับ Black Friday แล้ว",
+        "pill": "โปรโมชัน"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "สวัสดี Alex! ใช่ เรายังเดินหน้าตามแผนอยู่ ทีมออกแบบเสร็จไฟล์ทั้งหมดเมื่อวาน และฉันจะส่งไฟล์สุดท้ายให้ภายในวันนี้ก่อนเลิกงาน"
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "โลโก้ลูกค้า",
+    "headingPrefix": "ได้รับความไว้วางใจจาก",
+    "headingHighlight": "ผู้เชี่ยวชาญและทีมงาน",
+    "headingSuffix": "ทั่วโลก"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "ฟีเจอร์",
+    "eyebrow": "กล่องจดหมายของคุณ ที่ทรงพลังขึ้น",
+    "title": "กล่องจดหมายของคุณไม่ควรครอบงำทั้งวัน",
+    "subtitle": "เปลี่ยนความวุ่นวายให้ชัดเจนด้วย AI ที่เข้าใจคุณจริงๆ\nประหยัดเวลากว่า 3 ชั่วโมงทุกสัปดาห์ด้วยผู้ช่วยอีเมลที่ฉลาดที่สุดสำหรับ Gmail และ Outlook",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "ร่างอีเมลที่ฟังดูเหมือนคุณ",
+        "description": "เครื่องมือเขียนอีเมล AI ของ Duet เตรียมร่างสำหรับอีเมลสำคัญที่สุดของคุณ และเรียนรู้โทนเสียงกับสไตล์การเขียนของคุณ",
+        "ariaLabel": "ร่างอีเมลที่ฟังดูเหมือนคุณ",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "ฉันร่างอีเมลแบบ cold email ที่ปรับให้เหมาะกับ John แล้ว",
+          "sampleText": "AI pipelines เป็นสิ่งจำเป็นสำหรับการสร้างระบบ AI ที่แข็งแกร่ง ขยายได้ และมีประสิทธิภาพ",
+          "readyToSend": "พร้อมส่งหรือยัง?",
+          "remindFollowUp": "เตือนฉันให้ติดตามผล"
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "สรุปทันทีและรายการสิ่งที่ต้องทำ",
+        "description": "ได้ TL;DR และรายการสิ่งที่ต้องทำจากเนื้อหาอีเมลของคุณในไม่กี่วินาที ไม่ต้องอ่านยาวๆ ในกล่องจดหมายอีกต่อไป",
+        "ariaLabel": "สรุปทันทีและรายการสิ่งที่ต้องทำ",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "ฉันขอเสนอว่าเราควร ",
+          "sentenceHighlight": "พบกันสัปดาห์หน้า",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "รายการสิ่งที่ต้องทำใหม่",
+          "actionLead": "ฉันพบช่วงว่างเหล่านี้ในปฏิทินของคุณ",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "วันอังคาร เวลา 10am",
+            "วันพฤหัสบดี เวลา 2pm",
+            "วันศุกร์ 9am"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "ค้นหาเพิ่มเติม",
+          "primaryButton": "ส่ง"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "การเตือนอัจฉริยะ",
+        "description": "ตั้งค่าแล้วปล่อยได้เลย Duet AI จะจำให้ติดตามผลเมื่ออีกฝ่ายไม่ตอบ เพื่อไม่ให้มีอะไรตกหล่น",
+        "ariaLabel": "การเตือนอัจฉริยะ",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "การเตือนอัจฉริยะที่ขับเคลื่อนด้วย AI",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "ติดตามผล",
               "value": "12",
-              "unit": "emails"
+              "unit": "อีเมล"
             },
             {
-              "label": "To reply",
+              "label": "ต้องตอบกลับ",
               "value": "2",
-              "unit": "emails"
+              "unit": "อีเมล"
             },
             {
-              "label": "Completed",
+              "label": "เสร็จแล้ว",
               "value": "3",
-              "unit": "action items"
+              "unit": "รายการสิ่งที่ต้องทำ"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "ทำงานเขียนให้เสร็จ",
+              "time": "2 วันที่แล้ว"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "การเชื่อมต่อโปรเจกต์",
+              "time": "12 ชั่วโมงที่แล้ว"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "ติดตามผล",
+            "เลื่อนนัด?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "โฟกัสกับสิ่งที่สำคัญ",
+        "description": "การจัดหมวดหมู่อัจฉริยะจะดึงอีเมลสำคัญที่สุดขึ้นมาก่อน และจัดอีเมลเป็นหัวข้อ การจัดการอีเมลไม่เคยง่ายเท่านี้มาก่อน",
+        "ariaLabel": "โฟกัสกับสิ่งที่สำคัญ",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "กำลังวิเคราะห์"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "การจัดระเบียบอีเมลและการจัดหมวดหมู่กล่องจดหมายอัจฉริยะ",
+    "badge": "การจัดระเบียบ",
+    "title": "Duet จัดระเบียบกล่องจดหมายของคุณ",
+    "subtitle": "การจัดหมวดหมู่อัตโนมัติช่วยกรองสิ่งรบกวนและดึงสิ่งที่สำคัญขึ้นมา เห็นได้ทันทีว่าอะไรต้องลงมือทำ อะไรแค่ FYI และอะไรรอได้",
+    "windowTitle": "กล่องจดหมายเข้า",
     "providers": [
       "Gmail",
       "Outlook"
@@ -178,88 +177,88 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
+      "เมื่อวาน",
       "Dec 20"
     ],
     "emails": [
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "คำขอรีวิวงบประมาณไตรมาส 4",
+        "preview": "ตัวเลขฉบับสุดท้ายแนบมาแล้ว กรุณารีวิวก่อน EOD",
+        "pill": "ต้องดำเนินการ"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "ประชุมทีมพรุ่งนี้เวลา 10am",
+        "pill": "ประชุม"
       },
       {
         "from": "Design Team",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
-        "pill": "FYI"
+        "subject": "เผยแพร่แนวทางแบรนด์ใหม่แล้ว",
+        "pill": "แจ้งให้ทราบ"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "ใบแจ้งยอดรายเดือนของคุณพร้อมแล้ว",
+        "pill": "โปรโมชัน"
       },
       {
         "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "subject": "สรุปประจำสัปดาห์",
+        "pill": "โปรโมชัน"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "การร่างอีเมลและสร้างคำตอบด้วย AI",
+    "badge": "การร่าง",
+    "title": "Duet ร่างด้วยสไตล์ของคุณ",
+    "subtitle": "Duet เรียนรู้วิธีที่คุณเขียนและร่างคำตอบให้ตรงกับโทนของคุณ ตรวจทาน ปรับถ้าจำเป็น และส่งได้ในไม่กี่วินาที",
+    "windowTitle": "ข้อความใหม่",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "ถึง:",
+      "subject": "เรื่อง:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: คุยสั้นๆ สัปดาห์นี้ได้ไหม?",
+      "originalFrom": "Alex Rivera เขียนว่า:",
+      "originalText": "เฮ้! อยากคุยเรื่องการเปลี่ยนแปลงในแผนงาน คุณว่างคุย 30 นาทีสัปดาห์นี้ไหม? บอกฉันได้เลยว่าสะดวกเมื่อไหร่",
+      "badge": "ร่างอัตโนมัติ",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "สวัสดี Alex!",
+        "ยินดีคุยเรื่องแผนงาน ฉันว่างวันพฤหัสบดี 2-4pm หรือเช้าวันศุกร์ — แบบไหนก็ได้สำหรับฉัน",
+        "บอกฉันได้เลยว่าสะดวกแบบไหน แล้วฉันจะส่งคำเชิญให้",
+        "ขอบคุณ!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "ฉันว่างวันพฤหัสบดี 2-4pm หรือเช้าวันศุกร์",
       "actions": [
-        "Send",
-        "Edit"
+        "ส่ง",
+        "แก้ไข"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "ร่างที่ปรับให้เหมาะกับคุณ",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "รู้ตารางเวลาของคุณ",
+        "ร่างด้วยสไตล์ของคุณ",
+        "รู้บริบทผ่านความจำ",
+        "เรียนรู้ไปเรื่อยๆ"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
+    "ariaLabel": "ความฉลาดของอีเมลด้วย AI และผู้ช่วย",
+    "badge": "ความฉลาด",
+    "title": "ถามอะไรก็ได้เกี่ยวกับอีเมลของคุณ",
+    "subtitle": "ให้ Duet ช่วยหาอีเมล เช็กปฏิทิน หรือร่างคำตอบ มันเข้าใจกล่องจดหมายของคุณและตอบได้ทันที",
     "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "onlineLabel": "ออนไลน์",
+    "initialUserMessage": "ช่วยหาใบแจ้งหนี้ Stripe ที่ฝ่ายบัญชีส่งมาได้ไหม?",
+    "processingText": "กำลังค้นหากล่องจดหมาย...",
+    "foundHeader": "พบอีเมลจาก Stripe 2 ฉบับ",
+    "foundBody": "ฉันพบใบเสร็จสำหรับ $29.00 USD จาก Oct 24th",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"
@@ -267,140 +266,140 @@
     "suggestions": [
       {
         "action": "draft",
-        "label": "Draft a reply"
+        "label": "ร่างคำตอบ"
       },
       {
         "action": "calendar",
-        "label": "Find time to meet"
+        "label": "หาช่วงเวลานัด"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "ถามอะไรก็ได้...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "กำลังประมวลผล...",
+      "processingDraft": "กำลังสร้างร่าง...",
+      "processingCalendar": "กำลังตรวจสอบช่วงเวลาว่าง...",
+      "draftIntro": "นี่คือร่างคำตอบถึงฝ่ายบัญชี:",
+      "draftHeader": "ร่าง: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "สวัสดีทีม,",
+        "โปรดดูใบแจ้งหนี้ Stripe สำหรับเดือนตุลาคม ($29.00) ที่แนบมา",
+        "หากต้องการอย่างอื่น แจ้งได้เลย",
+        "ขอบคุณ,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "ส่งอีเมล",
+        "แก้ไข"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "พรุ่งนี้คุณมีช่วงเวลาว่าง 3 ช่วง:",
       "calendarSlots": [
         {
           "time": "9:30 AM",
-          "duration": "30 min"
+          "duration": "30 นาที"
         },
         {
           "time": "2:00 PM",
-          "duration": "30 min"
+          "duration": "30 นาที"
         },
         {
           "time": "4:30 PM",
-          "duration": "30 min"
+          "duration": "30 นาที"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "ให้ร่างคำตอบด้วยไหม?",
+        "calendarAfterDraft": "ให้ตั้งเวลาติดตามผลด้วยไหม?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "คำรับรอง",
+    "scrollingAriaLabel": "คำรับรองแบบเลื่อน",
+    "eyebrow": "คำรับรอง",
+    "title": "เป็นที่ชื่นชอบของคนทำงานที่ยุ่ง",
+    "subtitle": "คนจริง ความสำเร็จจริงของกล่องจดหมาย",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "ฟรีแลนซ์",
+        "quote": "คุ้มค่าทุกบาททุกสตางค์ เวลาที่ฉันประหยัดจากอีเมลจ่ายค่า Duet Mail ได้มากกว่า 10 เท่า ตอนนี้นึกไม่ออกเลยว่าจะทำงานโดยไม่มีมัน",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "ผู้บริหารฝ่ายขาย",
+        "quote": "สรุปอีเมลยาวๆ ได้ทันทีนี่เหมือนเวทมนตร์ และใช้งานง่ายมาก ลูกค้าคิดว่าผมเหนือมนุษย์ไปแล้ว",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "ผู้ประกอบการ",
+        "quote": "เคยสงสัยการใช้ปัญญาประดิษฐ์กับอีเมลของฉันมาก ตอนนี้เหมือนมีผู้ช่วยผู้บริหารที่เก่งมากอยู่ข้างๆ นึกไม่ออกเลยว่าจะกลับไปแบบเดิม",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "ที่ปรึกษา",
+        "quote": "ในฐานะที่ปรึกษา ทุกนาทีมีค่า Duet Mail ไม่ได้แค่ช่วยประหยัดเวลา—แต่ยังทำให้อีเมลของฉันชัดเจนขึ้น",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
         "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "title": "ผู้อำนวยการฝ่ายการตลาด",
+        "quote": "ในที่สุดก็ได้ผู้ช่วยอีเมล AI ที่เรียนรู้วิธีที่ฉันเขียนจริงๆ คำตอบที่ได้ทันทีตรงมาก ทีมของฉันยังคิดว่าฉันทำงานตอนเที่ยงคืน",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "ariaLabel": "ราคา",
+    "eyebrow": "ราคา",
+    "heading": "ราคาง่าย ใช้งานกล่องจดหมายได้ทรงพลัง",
+    "subheading": "เริ่มใช้ฟรี อัปเกรดเมื่อไรก็ได้ ยกเลิกเมื่อไหร่ก็ได้",
+    "billingLegend": "รอบการเรียกเก็บเงิน",
+    "billingAnnual": "รายปี",
+    "billingMonthly": "รายเดือน",
+    "savingsTag": "ประหยัด 33%",
+    "priceCadence": "/เดือน",
+    "perUserSuffix": "/ผู้ใช้",
+    "annualBillingSuffix": "(เรียกเก็บรายปี)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "ชำระเงินอย่างปลอดภัยผ่าน Stripe",
+      "ยกเลิกได้ทุกเมื่อ"
     ],
     "plans": [
       {
         "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "description": "สำหรับใครก็ตามที่อยากรู้ว่ากล่องจดหมายที่ฉลาดขึ้นเป็นอย่างไร ไม่ต้องผูกมัด",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "สรุปทันที",
+            "description": "จับใจความของทุกเธรดได้"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "ร่างด้วย AI",
+            "description": "ลองคำตอบในสไตล์ของคุณ"
           },
           {
             "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "description": "การจัดระเบียบพื้นฐานสำหรับเริ่มต้น"
           },
           {
             "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "description": "ลองใช้ผู้ช่วย AI"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "เลือก Gmail หรือ Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "ทดลองใช้ฟรี 14 วัน",
+        "description": "สำหรับมืออาชีพที่ต้องการระบบอัตโนมัติที่ลึกขึ้น การเชื่อมต่อเพิ่มเติม และกล่องจดหมายที่เข้าใจวิธีทำงานของคุณจริงๆ",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
@@ -408,42 +407,42 @@
         "features": [
           {
             "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "description": "อีเมลจัดหมวดหมู่อัตโนมัติเป็นหมวดหมู่อัจฉริยะ",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "ร่างด้วย AI",
+            "description": "คำตอบที่เขียนในสไตล์ของคุณ พร้อมส่ง",
             "highlight": true
           },
           {
             "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "description": "แชตเพื่อค้นหา ร่าง จัดระเบียบ และอื่นๆ",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "การเชื่อมต่อปฏิทิน",
+            "description": "นัดหมาย ดู และจัดการกิจกรรมจากกล่องจดหมายของคุณ"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "สรุปทันที",
+            "description": "จับใจความของทุกเธรดหรือไฟล์แนบได้"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "การเตือนอัจฉริยะ",
+            "description": "การติดตามผลแสดงขึ้นโดยอัตโนมัติ เพื่อไม่ให้พลาดอะไร"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "การช่วยเหลือระดับพรีเมียม",
+            "description": "คนจริง ตอบกลับรวดเร็ว"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "เลือก Gmail หรือ Outlook",
         "featured": true
       },
       {
         "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "description": "สำหรับองค์กรที่ต้องการการรองรับระดับองค์กร การช่วยเหลือเฉพาะ และเวิร์กโฟลว์แบบกำหนดเอง เหมาะที่สุดสำหรับทีมตั้งแต่ 50 คนขึ้นไป",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,36 +450,36 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "ทุกอย่างใน Pro",
+            "description": "รวมฟีเจอร์ทั้งหมดแล้ว"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "การช่วยเหลือเฉพาะ",
+            "description": "ผู้จัดการบัญชีส่วนตัว"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "การวิเคราะห์ทีม",
+            "description": "ข้อมูลเชิงลึกทั่วทั้งองค์กรของคุณ"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "เวิร์กโฟลว์ที่ใช้ร่วมกัน",
+            "description": "เทมเพลตและระบบอัตโนมัติสำหรับทีม"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "ติดต่อฝ่ายขาย",
+        "ctaNote": "มีราคาปรับตามความต้องการ"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
+    "ariaLabel": "คำถามที่พบบ่อย",
     "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "headingPrefix": "คำถามที่พบบ่อย, ",
+    "headingAccent": "คำตอบ",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
+    "contactLabel": "ติดต่อ",
+    "contactHeading": "ยังมีคำถามอยู่ไหม?",
+    "contactCta": "ติดต่อเรา →",
     "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
@@ -488,78 +487,78 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail ปกป้องข้อมูลอีเมลของฉันอย่างไร?",
+        "answer": "ความปลอดภัยของคุณคือสิ่งสำคัญที่สุด เราใช้ OAuth 2.0 สำหรับการยืนยันตัวตนอย่างปลอดภัยกับทั้ง Google และ Microsoft เนื้อหาอีเมลถูกเข้ารหัสขณะจัดเก็บโดยใช้ client-side field-level encryption และเราใช้หลักการ least privilege สำหรับการเข้าถึง API สำหรับการเชื่อมต่อกับ Google เราผ่านการประเมินความปลอดภัย CASA ประจำปีของ Google"
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "ฟีเจอร์สรุปอีเมลทำงานอย่างไร?",
+        "answer": "Duet Mail ใช้ AI ขั้นสูงเพื่อวิเคราะห์เธรดอีเมลของคุณและสร้างภาพรวมแบบย่อที่เน้นประเด็นสำคัญ การตัดสินใจ และรายการสิ่งที่ต้องทำ ช่วยให้คุณเข้าใจบริบทได้อย่างรวดเร็วโดยไม่ต้องอ่านทั้งเธรด"
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail ต้องการสิทธิ์อะไรบ้าง?",
+        "answer": "Duet Mail ต้องเข้าถึงอีเมลของคุณเพื่อให้บริการสรุป ดึงรายการสิ่งที่ต้องทำ สร้างเนื้อหา และส่งอีเมลของคุณ เราขอเฉพาะสิทธิ์ที่จำเป็นจริงๆ คุณสามารถตรวจสอบและเพิกถอนสิทธิ์เหล่านี้ได้ทุกเมื่อใน Google Account หรือ Microsoft Account ของคุณ"
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "ทดลองใช้ฟรีรวมอะไรบ้าง?",
+        "answer": "ทดลองใช้ฟรี 14 วันรวมการเข้าถึงฟีเจอร์ Pro ทั้งหมด: สรุปอีเมลไม่จำกัด การดึงรายการสิ่งที่ต้องทำ เครื่องมือเขียนอีเมล AI (สร้างอีเมลและร่างโดยไม่มีข้อจำกัด) และเทมเพลตอีเมลแบบกำหนดเอง ลงชื่อเข้าใช้ด้วย Google หรือ Microsoft เพื่อเริ่มประหยัดเวลาในการจัดการอีเมล"
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "ฉันใช้ Duet Mail กับผู้ให้บริการอีเมลอื่นได้ไหม?",
+        "answer": "Duet Mail รองรับ Gmail, Google Workspace และ Microsoft Outlook ลงชื่อเข้าใช้ด้วยบัญชี Google หรือ Microsoft ของคุณเพื่อเริ่มต้น"
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "เริ่มต้นใช้งาน",
+    "headline": "เอาเวลาคืนมา 4 ชั่วโมง\nทุกสัปดาห์",
+    "subline": "เข้าร่วมกับมืออาชีพที่เริ่มวันด้วยความชัดเจน ไม่ใช่ความวุ่นวาย ทดลองใช้ฟรีของคุณรออยู่",
+    "primaryCta": "เริ่มด้วย Gmail",
+    "secondaryCta": "เริ่มด้วย Outlook",
+    "note": "ทดลองใช้ฟรี 14 วัน · ยกเลิกได้ทุกเมื่อ",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "ผ่านการประเมิน Google CASA",
+      "เข้ารหัสขณะจัดเก็บ",
+      "ปลอดภัยด้วย OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "ส่วนท้ายเว็บไซต์",
+    "brandIconAlt": "ไอคอน Duet Mail",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — ผู้ช่วยอีเมล AI ที่ช่วยคุณประหยัดเวลาได้หลายชั่วโมงทุกสัปดาห์",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "สำรวจ",
         "links": [
           {
-            "label": "Organization",
+            "label": "การจัดระเบียบ",
             "href": "/th#organization"
           },
           {
-            "label": "Drafting",
+            "label": "การร่าง",
             "href": "/th#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "ความฉลาด",
             "href": "/th#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "ส่วนขยาย Chrome",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "ลูกค้า",
         "links": [
           {
-            "label": "Pricing",
+            "label": "ราคา",
             "href": "/th#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "คำรับรอง",
             "href": "/th#testimonials"
           },
           {
@@ -569,31 +568,31 @@
         ]
       },
       {
-        "title": "Legal",
+        "title": "กฎหมาย",
         "links": [
           {
-            "label": "Privacy",
+            "label": "ความเป็นส่วนตัว",
             "href": "/th/privacy"
           },
           {
-            "label": "Terms",
+            "label": "ข้อกำหนด",
             "href": "/th/terms"
           },
           {
-            "label": "Cookies",
+            "label": "คุกกี้",
             "href": "/th/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "ข้อจำกัดความรับผิด",
             "href": "/th/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "เชื่อมต่อ",
         "links": [
           {
-            "label": "Blog",
+            "label": "บล็อก",
             "href": "/th/blog"
           },
           {
@@ -621,42 +620,42 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
-    "dividerLabel": "vs",
+    "ariaLabel": "ผลตอบแทนจากการลงทุน",
+    "label": "คำนวณให้ดู",
+    "narrativeTemplate": "ที่ {pricePerBooking} ต่อ {bookingUnit} ถ้าปล่อยให้การตอบช้าทำให้เสียเวลาเพียง {lostPerMonth} =",
+    "lossSuffix": "/เดือนที่เสียไป",
+    "dividerLabel": "เทียบกับ",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - ผู้ช่วยอีเมล AI สำหรับ Gmail และ Outlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "ฝ่ายสนับสนุนลูกค้า",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
+    "softwareDescription": "ผู้ช่วยอีเมล AI สำหรับ Gmail และ Outlook ที่สรุปอีเมลโดยอัตโนมัติ ร่างคำตอบด้วยสไตล์ของคุณ และจัดระเบียบกล่องจดหมายเพื่อประหยัดเวลาหลายชั่วโมงทุกสัปดาห์",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "การจัดระเบียบและจัดหมวดหมู่อีเมลอัจฉริยะ",
+      "การร่างอีเมลด้วย AI ในสไตล์ของคุณ",
+      "ผู้ช่วยอีเมลอัจฉริยะพร้อมการเชื่อมต่อปฏิทิน",
+      "สรุปอีเมลและรายการสิ่งที่ต้องทำอัตโนมัติ",
+      "การเตือนอัจฉริยะสำหรับการติดตามผล"
     ],
     "offers": [
       {
         "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "แผนฟรีพร้อมสรุปทันที ร่างด้วย AI และ smart inbox"
       },
       {
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "เข้าถึงได้เต็มรูปแบบพร้อมการจัดหมวดหมู่ smart inbox, ร่างด้วย AI, ผู้ช่วย และการเชื่อมต่อปฏิทิน"
       }
     ],
     "aggregateRating": {
@@ -666,9 +665,9 @@
     "operatingSystem": "Web",
     "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/th",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
+      "site": "https://duetmail.com/th/th",
+      "logo": "https://duetmail.com/th/favicon.svg",
+      "screenshot": "https://duetmail.com/th/og.jpg",
       "sameAs": [
         "https://www.linkedin.com/company/duetmail",
         "https://x.com/DuetMailApp",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail ปกป้องข้อมูลอีเมลของฉันอย่างไร?",
+        "answer": "ความปลอดภัยของคุณคือสิ่งสำคัญที่สุด เราใช้ OAuth 2.0 สำหรับการยืนยันตัวตนอย่างปลอดภัยกับทั้ง Google และ Microsoft เนื้อหาอีเมลถูกเข้ารหัสขณะจัดเก็บโดยใช้ client-side field-level encryption และเราใช้หลักการ least privilege สำหรับการเข้าถึง API สำหรับการเชื่อมต่อกับ Google เราผ่านการประเมินความปลอดภัย CASA ประจำปีของ Google"
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "ฟีเจอร์สรุปอีเมลทำงานอย่างไร?",
+        "answer": "Duet Mail ใช้ AI ขั้นสูงเพื่อวิเคราะห์เธรดอีเมลของคุณและสร้างภาพรวมแบบย่อที่เน้นประเด็นสำคัญ การตัดสินใจ และรายการสิ่งที่ต้องทำ ช่วยให้คุณเข้าใจบริบทได้อย่างรวดเร็วโดยไม่ต้องอ่านทั้งเธรด"
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail ต้องการสิทธิ์อะไรบ้าง?",
+        "answer": "Duet Mail ต้องเข้าถึงอีเมลของคุณเพื่อให้บริการสรุป ดึงรายการสิ่งที่ต้องทำ สร้างเนื้อหา และส่งอีเมลของคุณ เราขอเฉพาะสิทธิ์ที่จำเป็นจริงๆ คุณสามารถตรวจสอบและเพิกถอนสิทธิ์เหล่านี้ได้ทุกเมื่อใน Google Account หรือ Microsoft Account ของคุณ"
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "ทดลองใช้ฟรีรวมอะไรบ้าง?",
+        "answer": "ทดลองใช้ฟรี 14 วันรวมการเข้าถึงฟีเจอร์ Pro ทั้งหมด: สรุปอีเมลไม่จำกัด การดึงรายการสิ่งที่ต้องทำ เครื่องมือเขียนอีเมล AI (สร้างอีเมลและร่างโดยไม่มีข้อจำกัด) และเทมเพลตอีเมลแบบกำหนดเอง ลงชื่อเข้าใช้ด้วย Google หรือ Microsoft เพื่อเริ่มประหยัดเวลาในการจัดการอีเมล"
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "ฉันใช้ Duet Mail กับผู้ให้บริการอีเมลอื่นได้ไหม?",
+        "answer": "Duet Mail รองรับ Gmail, Google Workspace และ Microsoft Outlook ลงชื่อเข้าใช้ด้วยบัญชี Google หรือ Microsoft ของคุณเพื่อเริ่มต้น"
       }
     ]
   }

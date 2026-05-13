@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail สำหรับทัวร์ลากเลื่อนสุนัข | ผู้ช่วยอีเมล AI",
+  "metaDescription": "Duet Mail ช่วยให้มูชเชอร์ตอบอีเมลการจองได้ทันที — แม้อยู่บนเส้นทาง AI ร่างคำตอบโดยอิงประเภททัวร์ ราคา นโยบาย และโทนการสื่อสารของคุณ",
+  "heroBadge": "ได้รับความไว้วางใจจากมูชเชอร์กว่า 200 คน",
+  "heroHeadline": "ผู้ช่วยอีเมลของคุณระหว่างที่คุณอยู่บนเส้นทาง",
+  "heroSubline": "Duet เรียนรู้ประเภททัวร์ ราคา นโยบายเรื่องสภาพอากาศ และบริการเสริมของคุณ — แล้วร่างคำตอบอีเมลเพื่อให้คุณไม่พลาดการจองเพราะตอบช้า",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "แพ็กเกจออโรร่า + ลากเลื่อนสุนัขสำหรับ 4 คน?",
+      "preview": "สวัสดีค่ะ! ครอบครัวของฉัน 4 คนจะไปแฟร์แบงก์สในเดือนมกราคม คุณมีแพ็กเกจรวมลากเลื่อนสุนัขกับชมออโรร่าหรือไม่? ราคาเท่าไหร่คะ?",
+      "pill": "ต้องตอบกลับ",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "ควรใส่อะไรไปดี?",
+      "preview": "เราจองประสบการณ์มูช 2 ชั่วโมงไว้วันเสาร์ ควรใส่อะไรไปดี? คุณมีอุปกรณ์ให้ หรือเราต้องนำมาเอง...",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "Kim & Brian L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "เด็กอายุ 5 และ 8 ขวบ — ขึ้นมูชได้ไหม?",
+      "preview": "พาเด็กสองคนของเราไปด้วย (5 และ 8 ขวบ) พวกเขานั่งในเลื่อนหรือช่วยมูชได้จริงไหม? แล้วสุนัขเข้ากับเด็กเล็กได้ดีไหม...",
+      "pill": "การจอง",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "รีวิวใหม่สำหรับลิสต์ของคุณ",
+      "preview": "นักท่องเที่ยวเพิ่งรีวิวธุรกิจของคุณ ดูสิ่งที่พวกเขาพูดและตอบกลับ...",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "เฮ้ Rachel! เรายินดีต้อนรับครอบครัวของคุณมาก แพ็กเกจ Aurora + Mush Combo ของเราราคา $175/คน — คุณจะได้ล่องเลื่อน 1.5 ชั่วโมงผ่านเส้นทางช่วงพลบค่ำ จากนั้นดื่มโกโก้ร้อนข้างกองไฟระหว่างรอชมแสงเหนือ อุปกรณ์กันหนาวมีให้ทั้งหมด เด็กอายุ 12 ปีและต่ำกว่าราคา $125 ต้องการให้ฉันจองให้คุณสำหรับเดือนมกราคมไหม?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "tour",
+    "bookingUnit": "ทัวร์",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "การรักษาการจองไว้ได้เพียงสองครั้งก็จ่ายค่า Duet ได้ทั้งปี"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet ติดแท็กอีเมลทุกฉบับโดยอัตโนมัติ เพื่อให้คุณเห็นคำขอจองก่อน คำถามถัดมา และข้อความรบกวนไม่เคยโผล่มากวนอีกต่อไป ไม่ต้องพลาดคำถามเกี่ยวกับทัวร์ที่ถูกฝังอยู่ใต้การแจ้งเตือนจาก TripAdvisor อีกแล้ว",
+  "draftSubtitle": "Duet เรียนรู้ประเภททัวร์ ราคา และโทนการสื่อสารของคุณ เมื่อมีคำถามการจองเข้ามา ระบบจะร่างคำตอบครบถ้วนพร้อมรายละเอียดแพ็กเกจ สิ่งที่ควรใส่ และบริการเสริม คุณตรวจทานแล้วส่งได้เลย",
+  "agentSubtitle": "\"สุดสัปดาห์นี้มีการจองไหม\" \"ร่างคำตอบเกี่ยวกับแพ็กเกจออโรร่าให้หน่อย\" Duet รู้จักกล่องจดหมายและตารางเวลาของคุณ — แค่ถาม",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "แพ็กเกจออโรร่า + ลากเลื่อนสุนัขสำหรับ 4 คน?",
+      "preview": "ครอบครัวของฉัน 4 คนจะไปแฟร์แบงก์สในเดือนมกราคม...",
+      "pill": "ตอบตอนนี้",
       "pillColor": "red"
     },
     {
       "from": "James W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "Re: ยืนยันการจองแล้ว — วันเสาร์ 13:00 น.",
+      "pill": "จองแล้ว",
       "pillColor": "blue"
     },
     {
       "from": "Kim L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "เด็กของเราที่อายุ 5 และ 8 ขวบ ขึ้นไปด้วยได้ไหม?",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "สรุปการจองประจำสัปดาห์ของคุณ",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     },
     {
       "from": "Alaska Gear Co.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "ลดราคาฤดูหนาว — ลด 30% สำหรับสายรัดมูช",
+      "pill": "โปรโมชัน",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "Re: แพ็กเกจออโรร่า + ลากเลื่อนสุนัขสำหรับ 4 คน?",
+    "originalFrom": "Rachel T. เขียนว่า:",
+    "originalText": "สวัสดีค่ะ! ครอบครัวของฉัน 4 คนจะไปแฟร์แบงก์สในเดือนมกราคม คุณมีแพ็กเกจรวมลากเลื่อนสุนัขกับชมออโรร่าหรือไม่? ราคาเท่าไหร่คะ?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "เฮ้ Rachel!",
+      "แพ็กเกจ Aurora + Mush Combo ของเราราคา $175/คน — เป็นการล่องเลื่อน 1.5 ชั่วโมงในช่วงพลบค่ำ ตามด้วยโกโก้ร้อนและชมออโรร่าข้างกองไฟ เด็กอายุ 12 ปีและต่ำกว่าราคา $125",
+      "อุปกรณ์กันหนาวมีให้ทั้งหมด (รองเท้าบูต เสื้อเอี๊ยม ถุงมือ ผ้าปิดหน้า) แค่แต่งตัวเป็นชั้น ๆ อุ่น ๆ ไว้ข้างในก็พอ",
+      "ต้องการให้ฉันจองให้ครอบครัว 4 คนของคุณสำหรับเดือนมกราคมไหม?"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "Aurora + Mush Combo ของเราราคา $175/คน — เป็นการล่องเลื่อน 1.5 ชั่วโมง",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "รู้จักประเภททัวร์และราคา",
+      "ร่างด้วยโทนของคุณ",
+      "รวมรายละเอียดอุปกรณ์และบริการเสริม",
+      "เรียนรู้ไปเรื่อย ๆ"
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "สุดสัปดาห์นี้มีการจองไหม? ดูเหมือนสภาพอากาศจะไม่ค่อยแน่นอน",
+    "agentResponse": "คุณมีทัวร์ 3 รายการที่จองไว้สุดสัปดาห์นี้: เยี่ยมชมคอกสุนัขวันเสาร์เวลา 10:00 น. (2 คน), ประสบการณ์มูช 2 ชั่วโมงวันเสาร์เวลา 13:00 น. (4 คน) และแพ็กเกจออโรร่าในวันอาทิตย์เวลา 16:00 น. (6 คน) กลุ่มวันอาทิตย์ถามเกี่ยวกับนโยบายการยกเลิก ต้องการให้ฉันร่างอัปเดตเรื่องสภาพอากาศถึงทั้ง 3 กลุ่มไหม?",
+    "followUp": "ร่างอัปเดตเรื่องสภาพอากาศถึงกลุ่มออโรร่าวันอาทิตย์",
+    "followUpResponse": "เรียบร้อย! ฉันร่างคำตอบถึงกลุ่มออโรร่าวันอาทิตย์แล้ว โดยแจ้งว่าคุณกำลังติดตามสภาพการณ์และจะยืนยันอีกครั้งภายในเย็นวันเสาร์ ซึ่งรวมทั้งนโยบายการเลื่อนกำหนดและวันทางเลือก พร้อมให้ตรวจทานและส่งแล้ว"
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "เป็นที่ชื่นชอบของมูชเชอร์และผู้ประกอบการทัวร์",
   "testimonials": [
     {
       "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "title": "ผู้ประกอบการทัวร์สุนัขลากเลื่อน, AK",
+      "quote": "ฉันอยู่บนเส้นทางวันละ 6 ชั่วโมงแทบไม่มีสัญญาณมือถือ พอกลับมาก็พบว่าครึ่งหนึ่งของคำถามการจองไปอยู่กับเจ้าอื่นแล้ว Duet ร่างคำตอบพร้อมรายละเอียดทัวร์และราคาให้ — ลูกค้าได้รับการตอบกลับในไม่กี่นาที ไม่ใช่หลายชั่วโมง",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
-      "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "title": "เจ้าของทัวร์คอกสุนัขและมูช, AK",
+      "quote": "เรามีทัวร์เยี่ยมชมคอกสุนัข การนั่งมูช และแพ็กเกจออโรร่า — แต่ละอีเมลต้องใช้คำตอบต่างกัน Duet เข้าใจทั้ง 3 ประเภททัวร์ภายในหนึ่งสัปดาห์ และตอนนี้ก็ร่างคำตอบที่ตรงกับแพ็กเกจที่ถูกต้องทุกครั้ง",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "title": "ไกด์ลากเลื่อนสุนัข, MN",
+      "quote": "เมื่อก่อนทุกเย็นฉันต้องเสียเวลาตอบคำถามเดิม ๆ เรื่องควรใส่อะไร ข้อจำกัดอายุ และเรื่องสุนัข Duet จัดการทั้งหมดให้ ฉันกลับถึงบ้านจากเส้นทางแล้วทุกอย่างก็ถูกร่างไว้รอแล้ว",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
-      "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "title": "ผู้ประกอบการทัวร์ออโรร่าและลากเลื่อน, AK",
+      "quote": "การยกเลิกเพราะสภาพอากาศเกิดขึ้นตลอดในฤดูหนาว Duet ร่างคำตอบเพื่อเลื่อนกำหนดพร้อมนโยบายและวันทางเลือกให้ ก่อนที่ฉันจะทันได้หยิบโทรศัพท์ขึ้นมาดูอีก ลูกค้าชอบการตอบกลับที่รวดเร็ว",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
-      "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "title": "ผจญภัยลากเลื่อนสุนัขสำหรับครอบครัว, CO",
+      "quote": "พ่อแม่มักถามเสมอว่าเด็ก ๆ ขึ้นมูชได้ไหม สุนัขเป็นมิตรไหม ควรใส่อะไรดี — คำถามเดิม ๆ 10 ข้อ Duet เรียนรู้ทุกคำตอบและร่างได้อย่างสมบูรณ์แบบ เหมือนฉันมีร่างโคลนไว้ตอบอีเมล",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ใช้ฤดูหนาวบนเส้นทางกับสุนัขของคุณ\nไม่ใช่ในกล่องอีเมลของคุณ",
+  "ctaSubline": "เริ่มทดลองใช้ฟรี เชื่อมต่อกล่องจดหมายของคุณใน 30 วินาที",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "Duet จัดการการยกเลิกเพราะสภาพอากาศและความไม่แน่นอนของออโรร่าอย่างไร?",
+      "answer": "Duet เรียนนโยบายการยกเลิกและการเลื่อนกำหนดของคุณ เมื่อแขกส่งอีเมลเกี่ยวกับความกังวลเรื่องสภาพอากาศหรือการมองเห็นออโรร่า ระบบจะร่างคำตอบพร้อมนโยบาย วันทางเลือก และรายละเอียดที่เกี่ยวข้อง เช่น การติดตามสภาพการณ์และยืนยันใกล้วันทัวร์ขึ้น คุณตรวจทานแล้วส่ง"
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "ฉันมีทัวร์หลายประเภทที่ราคากับบริการเสริมต่างกัน Duet จะไม่สับสนใช่ไหม?",
+      "answer": "ใช่ Duet เรียนรู้ทัวร์แต่ละประเภทของคุณ — เยี่ยมชมคอกสุนัข ประสบการณ์มูช แพ็กเกจออโรร่า บริการถ่ายภาพเสริม แพ็กเกจการเดินทาง — พร้อมราคาด้วย ระยะเวลา และสิ่งที่รวมอยู่ด้วย เมื่อมีคำถามเข้ามา ระบบจะจับคู่กับทัวร์ที่ถูกต้องและร่างคำตอบพร้อมรายละเอียดที่ตรงกัน"
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "ที่ราคา $150/ทัวร์ การรักษาการจองไว้ได้เพียงสองครั้งก็จ่ายค่า Pro ได้มากกว่าหนึ่งปี"
 }

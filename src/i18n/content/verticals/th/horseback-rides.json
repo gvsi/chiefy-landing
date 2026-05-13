@@ -1,18 +1,17 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail สำหรับการขี่ม้าและไกด์เส้นทาง | ผู้ช่วยอีเมล AI",
+  "metaDescription": "Duet Mail ช่วยให้ผู้ให้บริการทัวร์ขี่ม้าตอบอีเมลจองได้ทันที — แม้ขณะอยู่บนหลังม้า ด้วยการร่างคำตอบด้วย AI ที่ใส่ราคา ข้อกำหนดของผู้ขี่ และโทนเสียงของคุณ",
+  "heroBadge": "ได้รับความไว้วางใจจากไกด์เส้นทางกว่า 300 ราย",
+  "heroHeadline": "ผู้ช่วยอีเมลของคุณขณะอยู่บนเส้นทาง",
+  "heroSubline": "Duet เรียนรู้ประเภทการขี่ ราคา ข้อกำหนดของผู้ขี่ และสภาพเส้นทางของคุณ — จากนั้นจึงร่างคำตอบอีเมลเพื่อให้คุณไม่พลาดการจองเพราะตอบช้า",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+      "subject": "จองแบบกลุ่ม 6 คน — เช้าวันเสาร์ได้ไหม?",
+      "preview": "สวัสดีค่ะ! พวกเราเป็นครอบครัว 6 คน (ผู้ใหญ่ 2 เด็ก 4 คน อายุ 8-14 ปี) และอยากจองขี่ม้าบนเส้นทางเช้าวันเสาร์นี้ค่ะ มีคิวว่างไหมคะ? ราคาต่อคนเท่าไร?",
       "pill": "To Respond",
       "pillColor": "red"
     },
@@ -20,8 +19,8 @@
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
+      "subject": "คำถามเรื่องน้ำหนักจำกัด",
+      "preview": "เฮ้ ผมสนใจจะจองขี่ม้า แต่ขอถามเรื่องข้อกำหนดด้านน้ำหนักก่อน ผมน้ำหนักประมาณ 260 ปอนด์ — จะมีปัญหาไหม...",
       "pill": "Question",
       "pillColor": "amber"
     },
@@ -29,8 +28,8 @@
       "from": "Amy & Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
+      "subject": "ขี่ม้าชมพระอาทิตย์ตกสำหรับฉลองครบรอบได้ไหม?",
+      "preview": "พวกเรากำลังฉลองครบรอบแต่งงานปีที่ 10 สัปดาห์หน้า และเห็นโพสต์ขี่ม้าชมพระอาทิตย์ตกของคุณบน Instagram ค่ะ มีให้บริการเย็นวันศุกร์ไหม? มีแพ็กเกจพิเศษไหม...",
       "pill": "Booking",
       "pillColor": "blue"
     },
@@ -38,30 +37,30 @@
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "มีรีวิวใหม่สำหรับรายการของคุณ",
+      "preview": "เมื่อไม่นานมานี้นักเดินทางได้รีวิวธุรกิจของคุณ ดูว่าพวกเขาพูดว่าอย่างไรและตอบกลับ...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "สวัสดี Jessica! เช้าวันเสาร์ว่างสำหรับ 6 คนค่ะ ทริปขี่ม้าของเราอยู่ที่ $100/คน และใช้เวลาประมาณ 90 นาทีผ่านหุบเขา เด็กอายุ 8 ปีขึ้นไปเข้าร่วมได้ — ทุกคนในกลุ่มของคุณไปได้สบายค่ะ ต้องสวมรองเท้าหุ้มปลายเท้า และเรามีหมวกกันน็อกให้ สนใจให้ฉันจองรอบ 9 โมงเช้าให้ไหมคะ?",
   "math": {
     "pricePerBooking": "$600",
     "bookingUnit": "ride",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "การรักษาไว้ได้หนึ่งทริปสำหรับกลุ่มเดียวก็จ่ายค่า Duet ได้เกินสองปี"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet ติดแท็กอีเมลทุกฉบับให้อัตโนมัติ เพื่อให้คุณเห็นคำขอจองก่อน คำถามของผู้ขี่ถัดมา และอีเมลรบกวนท้ายสุด ไม่มีพลาดคำถามจากกลุ่มที่ถูกฝังอยู่ใต้การแจ้งเตือน TripAdvisor อีกต่อไป",
+  "draftSubtitle": "Duet เรียนรู้ประเภทการขี่ ราคา และข้อกำหนดของคุณ เมื่อมีคำขอจองเข้ามา มันจะร่างคำตอบครบถ้วนพร้อมรายละเอียดเส้นทาง ราคา และสิ่งที่ควรสวมใส่ คุณตรวจทานแล้วส่ง",
+  "agentSubtitle": "\"มีรอบขี่ว่างสุดสัปดาห์นี้ไหม?\" \"ร่างคำตอบให้ Jessica เรื่องคิวว่างวันเสาร์\" Duet รู้จักกล่องจดหมายและปฏิทินของคุณ — แค่ถามมา",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
+      "subject": "จองแบบกลุ่ม 6 คน — เช้าวันเสาร์ได้ไหม?",
+      "preview": "พวกเราเป็นครอบครัว 6 คนที่กำลังมองหาการจองขี่ม้าบนเส้นทาง...",
       "pill": "Respond Now",
       "pillColor": "red"
     },
@@ -69,7 +68,7 @@
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
+      "subject": "Re: ยืนยันขี่ม้าชมพระอาทิตย์ตก — วันศุกร์ 5:30 PM",
       "pill": "Booked",
       "pillColor": "blue"
     },
@@ -77,7 +76,7 @@
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
+      "subject": "ข้อกำหนดเรื่องน้ำหนักและประสบการณ์?",
       "pill": "Question",
       "pillColor": "amber"
     },
@@ -85,7 +84,7 @@
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "สรุปการจองรายสัปดาห์ของคุณ",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Tractor Supply",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
+      "subject": "ลดราคาฤดูใบไม้ผลิ — ลด 15% สำหรับอาหารสัตว์และอุปกรณ์ขี่ม้า",
       "pill": "Promotions",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
+    "subject": "Re: จองแบบกลุ่ม 6 คน — เช้าวันเสาร์ได้ไหม?",
     "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "originalText": "สวัสดีค่ะ! พวกเราเป็นครอบครัว 6 คน (ผู้ใหญ่ 2 เด็ก 4 คน อายุ 8-14 ปี) และอยากจองขี่ม้าบนเส้นทางเช้าวันเสาร์นี้ค่ะ มีคิวว่างไหมคะ? ราคาต่อคนเท่าไร?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "สวัสดี Jessica!",
+      "เช้าวันเสาร์ว่างมากสำหรับ 6 คนค่ะ ทริปขี่ม้าของเราอยู่ที่ $100/คน และใช้เวลาประมาณ 90 นาทีผ่านหุบเขา เด็กอายุ 8 ปีขึ้นไปเข้าร่วมได้ ดังนั้นทุกคนในกลุ่มของคุณไปได้สบายค่ะ",
+      "ต้องสวมรองเท้าหุ้มปลายเท้า — รองเท้าบูตดีที่สุดค่ะ เรามีหมวกกันน็อกให้ และจะจับคู่ผู้ขี่แต่ละคนกับม้าตามขนาดและประสบการณ์ ไม่จำเป็นต้องมีประสบการณ์ขี่มาก่อน",
+      "สนใจให้ฉันล็อกคิวรอบ 9 โมงเช้าให้ไหมคะ?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "เช้าวันเสาร์ว่างมากสำหรับ 6 คนค่ะ ทริปขี่ม้าของเราอยู่ที่ $100/คน",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "รู้ราคากับคิวว่างของคุณ",
+      "ร่างด้วยโทนเสียงของคุณ",
+      "ใส่ข้อกำหนดของผู้ขี่ให้อัตโนมัติ",
+      "เรียนรู้ไปเรื่อย ๆ"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "มีรอบขี่ว่างสุดสัปดาห์นี้ไหม? แล้วสภาพอากาศจะเป็นอย่างไรบ้าง?",
+    "agentResponse": "จากปฏิทินของคุณ มีคิวว่างวันเสาร์เวลา 9 AM และ 2 PM และวันอาทิตย์เวลา 10 AM พยากรณ์อากาศวันเสาร์คือ 72°F และแดดออก — เหมาะกับการขี่มาก วันอาทิตย์มีโอกาสฝนตกช่วงบ่าย 40% ดังนั้นช่วงเช้าจะปลอดภัยกว่า อยากให้ฉันร่างคำตอบให้คำถามที่ยังค้างอยู่ด้วยเวลาพวกนี้ไหม?",
+    "followUp": "ร่างคำตอบให้ Jessica พร้อมคิวว่างวันเสาร์",
+    "followUpResponse": "เสร็จแล้ว! ฉันร่างคำตอบให้ Jessica เพื่อยืนยันวันเสาร์เวลา 9 AM สำหรับผู้ขี่ 6 คน ในราคา $100/คน โดยใส่ข้อกำหนดมาตรฐานของผู้ขี่และสิ่งที่ควรสวมใส่ไว้ด้วย พร้อมให้คุณตรวจทานและส่งแล้ว"
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "เป็นที่ชื่นชอบของผู้ให้บริการขี่ม้าบนเส้นทาง",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "เจ้าของฟาร์มและไกด์เส้นทาง, MT",
+      "quote": "ผมอยู่บนเส้นทางวันละ 6 ชั่วโมง ไม่มีสัญญาณมือถือ พอกลับมาตอบ ก็มีคนไปจองที่อื่นกันไปครึ่งหนึ่งแล้ว ตอนนี้ Duet ร่างคำตอบพร้อมราคากับรายละเอียดการขี่ของผม — ผมแค่ตรวจทานแล้วส่งตอนกลับถึงโรงนา",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "title": "ผู้ให้บริการทัวร์ขี่ม้า, AZ",
+      "quote": "เราได้รับอีเมลเป็นสิบ ๆ ฉบับถามเรื่องเดิม ๆ — ข้อจำกัดด้านน้ำหนัก ต้องใส่อะไร ข้อกำหนดเรื่องอายุ Duet จัดการให้ทั้งหมด และคำตอบก็ฟังเหมือนเป็นผมตอบเองทุกคำ ลูกค้าไม่รู้เลยว่าเป็น AI",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "ไกด์ทริปขี่ม้า, CO",
+      "quote": "ช่วงพีคซีซันทำเอาเหนื่อยมาก มีอีเมลกว่า 30 ฉบับต่อวันนอกเหนือจากการออกทริป Duet คัดคำขอจองออกจากอีเมลรบกวน และร่างคำตอบที่ใส่ทุกอย่างไว้ครบ — ราคา สิ่งที่ต้องนำไป และอื่น ๆ ผมได้เวลาช่วงเย็นกลับมา",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "ครูสอนขี่ม้าและผู้จัดการการจอง, TX",
+      "quote": "เรามีทริปขี่ม้าชมพระอาทิตย์ตก ทริปเช้า และบทเรียนส่วนตัว — แต่ละแบบมีราคาและข้อกำหนดต่างกัน Duet เรียนรู้ทั้งหมดภายในหนึ่งสัปดาห์ และร่างคำตอบที่ถูกต้องสำหรับทริปแต่ละประเภทได้ทุกครั้ง",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "title": "ฟาร์มครอบครัวและทริปขี่ม้า, CA",
+      "quote": "อีเมลที่ต้องระวังที่สุดคืออีเมลอ่อนไหว — บางคนถามว่าตัวเองน้ำหนักมากไปไหม หรือลูกยังเล็กพอหรือเปล่า Duet รับมือกับเรื่องพวกนั้นด้วยความใส่ใจแบบเดียวกับที่ฉันทำได้ มืออาชีพ ใจดี และแม่นยำ แค่นั้นก็คุ้มแล้ว",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ใช้เวลากับม้าให้เต็มวัน\nไม่ใช่กับกล่องอีเมลของคุณ",
+  "ctaSubline": "เริ่มทดลองใช้ฟรี เชื่อมต่อกล่องอีเมลของคุณได้ใน 30 วินาที",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Duet จัดการคำถามอ่อนไหวเรื่องน้ำหนักหรือข้อกำหนดด้านประสบการณ์อย่างไร?",
+      "answer": "Duet เรียนนโยบายเฉพาะของคุณและสะท้อนโทนเสียงของคุณ เมื่อมีคนถามเรื่องข้อจำกัดด้านน้ำหนักหรือข้อกำหนดด้านประสบการณ์ ระบบจะตอบอย่างมืออาชีพและอบอุ่น — ให้ข้อมูลที่พวกเขาต้องการโดยไม่ทำให้รู้สึกอึดอัด คุณกำหนดโทนเสียงไว้ครั้งเดียว และ Duet จะทำตามอย่างสม่ำเสมอ เพื่อให้แขกทุกคนรู้สึกได้รับความเคารพ"
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Duet รองรับการจองแบบกลุ่มที่มีความต้องการของผู้ขี่ต่างกันได้ไหม?",
+      "answer": "ได้ Duet เรียนรู้ประเภททริป ขนาดกลุ่ม อายุขั้นต่ำ และข้อกำหนดเฉพาะของผู้ขี่ของคุณ เมื่อครอบครัวหรือกลุ่มส่งอีเมลมาถามเรื่องการจอง ระบบจะร่างคำตอบที่ครอบคลุมราคาแบบทั้งกลุ่ม สิ่งที่ผู้ขี่แต่ละคนต้องรู้ และช่วงเวลาที่ว่างให้ คุณตรวจทานแล้วส่ง — ไม่ต้องโต้ตอบไปมา"
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "ที่ราคา $100/คนสำหรับกลุ่ม 6 คน การรักษาไว้ได้หนึ่งทริปก็จ่ายค่า Pro ได้เกินสองปี"
 }

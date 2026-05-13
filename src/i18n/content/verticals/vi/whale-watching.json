@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail cho Tour Ngắm Cá Voi | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp các thuyền trưởng tour ngắm cá voi trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên biển. Trả lời được soạn thảo bằng AI với chi tiết tour, giá cả và phong cách của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 300 thuyền trưởng tour",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang đi ngắm cá voi",
+  "heroSubline": "Duet học lịch trình tour, giá cả và phong cách của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang trên biển.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "Nhóm 8 người — còn chỗ ngày 14 tháng 6?",
+      "preview": "Chào bạn! Chúng tôi là gia đình 8 người đến thăm trong tuần. Bạn còn chỗ cho tour buổi sáng ngày 14 tháng 6 không? Giá mỗi người là bao nhiêu và có phù hợp cho trẻ em không?",
+      "pill": "Cần trả lời",
       "pillColor": "red"
     },
     {
       "from": "James & Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "Giá thuê riêng?",
+      "preview": "Chúng tôi muốn đặt tour ngắm cá voi riêng cho kỷ niệm của mình. Giá thuê riêng 2 giờ cho chỉ hai người là bao nhiêu...",
+      "pill": "Giá trị cao",
       "pillColor": "amber"
     },
     {
       "from": "Cruise Port Desk",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "Thay đổi lịch trình — Coral Princess đến sớm 1 giờ",
+      "preview": "Thông báo: lịch đến của tàu Coral Princess ngày mai đã được dời từ 10 giờ sáng sang 9 giờ sáng. Vui lòng điều chỉnh việc đón khách tham quan cảng cho phù hợp...",
+      "pill": "Khẩn cấp",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "preview": "Một khách du lịch vừa đánh giá doanh nghiệp của bạn. Xem họ nói gì và trả lời...",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "Chào Rachel! Tour buổi sáng ngày 14 tháng 6 còn chỗ cho 8 người. Giá tour là 125$/người, trẻ em từ 4-12 tuổi được giảm một nửa. Chúng tôi khởi hành lúc 9 giờ sáng từ cảng và kéo dài khoảng 2,5 giờ. Có kính nhìn xa — bạn chỉ cần mang áo ấm và kem chống nắng. Bạn muốn tôi đặt 8 chỗ không?",
   "math": {
-    "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "pricePerBooking": "750$",
+    "bookingUnit": "nhóm tour",
     "lostPerMonth": "3",
-    "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "monthlyLoss": "2.250$",
+    "punchline": "Chỉ cần một nhóm đặt chỗ được giữ lại là đủ trả tiền Duet trong một năm."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, thay đổi lịch trình tàu du lịch thứ hai, và không bao giờ bị làm phiền bởi tin nhảm. Không còn bỏ lỡ yêu cầu thuê riêng bị chôn vùi dưới các cảnh báo TripAdvisor.",
+  "draftSubtitle": "Duet học giờ tour, giá cả và chính sách của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với tình trạng chỗ, những gì bao gồm và cần mang theo. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Còn bao nhiêu chỗ cho tour sáng thứ Bảy?\" \"Soạn trả lời cho Rachel về tình trạng chỗ.\" Duet biết hộp thư và lịch trình của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "Nhóm 8 người — còn chỗ ngày 14 tháng 6?",
+      "preview": "Chúng tôi là gia đình 8 người đến thăm trong tuần...",
+      "pill": "Trả lời ngay",
       "pillColor": "red"
     },
     {
       "from": "James L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Re: Thuê riêng đã xác nhận — Thứ Bảy 2 giờ chiều",
+      "pill": "Đã đặt",
       "pillColor": "blue"
     },
     {
       "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "Tour ngày mai có diễn ra không? Gió có vẻ mạnh",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
-      "pill": "FYI",
+      "subject": "Tóm tắt đặt chỗ hàng ngày — 3 đặt mới",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     },
     {
       "from": "Marine Supply Co.",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "Xả kho mùa hè — giảm 15% đồ bảo hộ",
+      "pill": "Khuyến mãi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Re: Nhóm 8 người — còn chỗ ngày 14 tháng 6?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào bạn! Chúng tôi là gia đình 8 người đến thăm trong tuần. Bạn còn chỗ cho tour buổi sáng ngày 14 tháng 6 không? Giá mỗi người là bao nhiêu và có phù hợp cho trẻ em không?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Chào Rachel!",
+      "Tour buổi sáng ngày 14 tháng 6 còn rất nhiều chỗ cho 8 người. Vé là 125$/người, trẻ em từ 4-12 tuổi được giảm một nửa. Chúng tôi khởi hành lúc 9 giờ sáng và về khoảng 11:30.",
+      "Có kính nhìn xa và đồ mưa — bạn chỉ cần mang áo ấm và kem chống nắng. Trẻ em rất thích ở trên boong quan sát.",
+      "Bạn muốn tôi giữ 8 chỗ không?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "Tour buổi sáng ngày 14 tháng 6 còn rất nhiều chỗ cho 8 người. Vé là 125$/người",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Biết giờ tour & giá cả của bạn",
+      "Soạn thảo theo phong cách của bạn",
+      "Tự động bao gồm những gì cần mang theo",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "Còn bao nhiêu chỗ cho tour sáng thứ Bảy?",
+    "agentResponse": "Dựa trên các đặt chỗ của bạn, tour 9 giờ sáng thứ Bảy đã có 18/44 chỗ đã đặt — còn 26 chỗ trống. Tour buổi chiều gần đầy với 40/44 chỗ. Bạn muốn tôi soạn trả lời cho các yêu cầu đang chờ với tình trạng chỗ sáng thứ Bảy không?",
+    "followUp": "Soạn trả lời cho Rachel xác nhận ngày 14 tháng 6 cho 8 khách",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho Rachel xác nhận tour sáng ngày 14 tháng 6 cho 8 khách với giá 125$/người. Bao gồm giờ khởi hành, những gì được cung cấp và cần mang theo. Sẵn sàng để bạn xem lại và gửi."
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "Được yêu thích bởi các thuyền trưởng tour ngắm cá voi",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
-      "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "name": "Thuyền trưởng Dave H.",
+      "title": "Nhà điều hành tour động vật hoang dã, AK",
+      "quote": "Hành khách tàu du lịch cần câu trả lời nhanh — họ chỉ có 6 giờ ở cảng. Tôi từng mất các thuê riêng vì đang trên biển khi có yêu cầu. Giờ Duet soạn trả lời với giá và chi tiết đón khách trước khi tôi cập bến.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
-      "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "title": "Gia đình Ngắm Cá Voi, CA",
+      "quote": "Chúng tôi chạy hai tour mỗi ngày trong mùa cá voi lưng gù và lượng email rất lớn. 'Chúng tôi có thấy cá voi không?' 'Nên mặc gì?' 'Ngày mai có hủy không?' Duet xử lý các câu hỏi lặp đi lặp lại để chúng tôi tập trung vào tour.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "name": "Thuyền trưởng Ben T.",
+      "title": "Chuyến đi biển, HI",
+      "quote": "Tôi trả lời cùng 10 câu hỏi mỗi tối — giá cả, bao gồm gì, mẹo chống say sóng, giới hạn tuổi trẻ em. Duet học hết trong tuần đầu. Thời gian phản hồi của tôi giảm từ 8 giờ xuống còn 8 phút.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "title": "Quản lý đặt chỗ, Pacific NW",
+      "quote": "Hủy do thời tiết là tệ nhất — 30 người cần đặt lại cùng lúc và tôi phải xử lý điện thoại. Duet soạn email cá nhân hóa để dời lịch cho từng khách. Việc từng mất 2 giờ giờ chỉ còn 15 phút.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
-      "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "title": "Tour động vật hoang dã bằng thuyền nhỏ, BC",
+      "quote": "Chúng tôi chỉ hai người — tôi làm thuyền trưởng, cô ấy lo logistics. Mùa cao điểm cô ấy dành 3 giờ mỗi tối cho email. Duet giảm xuống còn 30 phút. Cô ấy thực sự có lại buổi tối của mình.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành mùa cá voi trên biển,\nkhông phải trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Duet có xử lý hủy tour do thời tiết và thay đổi lịch tàu du lịch không?",
+      "answer": "Có. Khi bạn hủy tour do thời tiết hoặc lịch đến tàu du lịch thay đổi, bạn chỉ cần thông báo một lần cho Duet và nó sẽ soạn email cá nhân hóa để dời lịch hoặc cập nhật cho từng khách bị ảnh hưởng. Không còn phải sao chép dán cùng một tin nhắn 30 lần. Mỗi trả lời bao gồm chi tiết đặt chỗ gốc của khách và các lựa chọn thay thế có sẵn."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "Chúng tôi thường nhận cùng một câu hỏi — 'chúng tôi có thấy cá voi không?', 'nên mặc gì?', 'có phù hợp cho trẻ em không?' Duet có xử lý được không?",
+      "answer": "Đó chính là điểm mạnh của Duet. Nó học các câu trả lời chuẩn của bạn — các loài thường thấy, những gì cần mang theo, chính sách tuổi, mẹo chống say sóng, giờ khởi hành — và soạn trả lời đầy đủ ngay lập tức. Bạn xem lại và gửi. Hầu hết các thuyền trưởng nói với chúng tôi 80% hộp thư của họ là 10 câu hỏi giống nhau, và Duet xử lý tất cả."
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "Với giá 125$/người, chỉ cần giữ lại một nhóm 6 người là đủ trả tiền Pro hơn một năm."
 }

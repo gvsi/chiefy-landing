@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail สำหรับบริการบอลลูนลมร้อน | ผู้ช่วยอีเมล AI",
+  "metaDescription": "Duet Mail ช่วยให้นักบินบอลลูนตอบอีเมลการจองได้ทันที — แม้ระหว่างเที่ยวบินตอนพระอาทิตย์ขึ้น เขียนตอบด้วย AI ตามราคาของคุณ นโยบายสภาพอากาศ และโทนเสียงของคุณ",
+  "heroBadge": "ได้รับความไว้วางใจจากนักบินบอลลูนกว่า 200 คน",
+  "heroHeadline": "ผู้ช่วยอีเมลของคุณในขณะที่คุณอยู่บนฟ้า",
+  "heroSubline": "Duet เรียนรู้ตารางบิน ราคา และนโยบายสภาพอากาศของคุณ — แล้วร่างอีเมลตอบกลับให้ เพื่อให้คุณไม่พลาดการจองแม้กำลังปล่อยบอลลูนตอนเช้าตรู่",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "เที่ยวบินชมพระอาทิตย์ขึ้นสำหรับ 2 คน — วันเสาร์ว่างไหม?",
+      "preview": "สวัสดีค่ะ! สามีกับฉันมาท่องเที่ยวฉลองวันครบรอบ และอยากจองทริปบอลลูนชมพระอาทิตย์ขึ้นในวันเสาร์นี้ มีว่างไหมคะ? ราคาต่อคนเท่าไร?",
+      "pill": "ต้องตอบกลับ",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "พรุ่งนี้จะบินไหม? พยากรณ์ลมดูแรงมาก",
+      "preview": "เราจองไว้พรุ่งนี้เช้า แต่แอปสภาพอากาศบอกลมกระโชก 15 ไมล์ต่อชั่วโมง ยังจะบินอยู่ไหม หรือควรเลื่อนนัด...",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "เที่ยวบินส่วนตัวสำหรับขอแต่งงาน — ราคาเท่าไร?",
+      "preview": "ฉันอยากเซอร์ไพรส์แฟนด้วยทริปบอลลูนส่วนตัว และขอแต่งงานระหว่างบิน อยากทราบราคาเที่ยวบินส่วนตัวและช่วยจัดการได้ไหม...",
+      "pill": "การจอง",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "ควรแต่งตัวยังไง? นัดเจอกันที่ไหน?",
+      "preview": "เราจองไว้เช้าวันอาทิตย์ ควรแต่งตัวยังไง และจุดนัดพบอยู่ตรงไหนแน่? อีกอย่าง ประสบการณ์ทั้งหมดใช้เวลานานเท่าไร...",
+      "pill": "คำถาม",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "สวัสดี Rachel! วันเสาร์มีว่างสำหรับ 2 คน เที่ยวบินชมพระอาทิตย์ขึ้นออกประมาณ 6:15 AM — เราจะยืนยันเวลาและจุดนัดพบที่แน่นอนให้ในเย็นก่อนหน้า ตามสภาพลม ราคา $250/คน รวมเวลาบนฟ้าประมาณ 1 ชั่วโมง และมีการยกแก้วฉลองแชมเปญหลังลงจอด โปรดใส่เสื้อผ้าหลายชั้นและรองเท้าหุ้มส้น ต้องการให้ฉันจองที่ให้ไหม?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "เที่ยวบิน",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "แค่เที่ยวบินที่ไม่หลุดไปสักครั้ง ก็คุ้มค่า Duet ทั้งปี"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet ติดแท็กทุกอีเมลให้อัตโนมัติ คุณจึงเห็นคำขอจองก่อน คำถามเรื่องสภาพอากาศถัดมา และอย่างอื่นไม่ต้องสนใจอีก ไม่พลาดอีเมลสอบถามเที่ยวบินที่ถูกกลบอยู่ใต้แจ้งเตือนจดหมายข่าวอีกต่อไป",
+  "draftSubtitle": "Duet เรียนรู้ราคา นโยบายสภาพอากาศ และโทนของคุณ เมื่อมีคำถามการจองเข้ามา ระบบจะร่างคำตอบครบถ้วนพร้อมรายละเอียดเที่ยวบิน ข้อมูลจุดนัดพบ และสิ่งที่ควรใส่ คุณตรวจทานแล้วส่งได้เลย",
+  "agentSubtitle": "\"พรุ่งนี้ใน manifest มีใครบ้าง?\" \"มีการยกเลิกเพราะอากาศที่ต้องเลื่อนหรือเปล่า?\" Duet รู้จักทั้งกล่องจดหมายและปฏิทินของคุณ — แค่ถาม",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "เที่ยวบินชมพระอาทิตย์ขึ้นสำหรับ 2 คน — วันเสาร์ว่างไหม?",
+      "preview": "สามีกับฉันอยากจองทริปบอลลูนชมพระอาทิตย์ขึ้น...",
+      "pill": "ตอบตอนนี้",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: ยืนยันการจอง — วันอาทิตย์ 6:15 AM",
+      "pill": "จองแล้ว",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "ควรแต่งตัวยังไงสำหรับเที่ยวบิน?",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "pill": "FYI",
+      "subject": "มีรีวิวใหม่สำหรับรายการของคุณ",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     },
     {
       "from": "Balloon Federation",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
-      "pill": "FYI",
+      "subject": "ประกาศความปลอดภัยประจำเดือนมีนาคม & แจ้งเตือนต่ออายุ",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
+    "subject": "Re: เที่ยวบินชมพระอาทิตย์ขึ้นสำหรับ 2 คน — วันเสาร์ว่างไหม?",
     "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "originalText": "สวัสดีค่ะ! สามีกับฉันมาท่องเที่ยวฉลองวันครบรอบ และอยากจองทริปบอลลูนชมพระอาทิตย์ขึ้นในวันเสาร์นี้ มีว่างไหมคะ? ราคาต่อคนเท่าไร?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "สวัสดี Rachel!",
+      "วันเสาร์มีว่างสำหรับ 2 คนเต็ม ๆ เที่ยวบินชมพระอาทิตย์ขึ้นราคา $250/คน และรวมเวลาบนฟ้าประมาณ 1 ชั่วโมง พร้อมยกแก้วแชมเปญฉลองหลังลงจอด",
+      "เราออกประมาณ 6:15 AM — ฉันจะส่งเวลาและจุดนัดพบที่แน่นอนให้ในเย็นก่อนหน้า ตามสภาพลม โปรดใส่เสื้อผ้าหลายชั้นและรองเท้าหุ้มส้น",
+      "สุขสันต์วันครบรอบ! ต้องการให้ฉันจองที่ให้ไหม?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "วันเสาร์มีว่างสำหรับ 2 คนเต็ม ๆ เที่ยวบินชมพระอาทิตย์ขึ้นราคา $250/คน",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "รู้ราคากับตารางบินของคุณ",
+      "ร่างข้อความในโทนของคุณ",
+      "ใส่รายละเอียดจุดนัดพบให้อัตโนมัติ",
+      "เรียนรู้ไปเรื่อย ๆ"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "พรุ่งนี้ใน manifest มีใครบ้าง และสภาพอากาศเป็นยังไง?",
+    "agentResponse": "เที่ยวบินชมพระอาทิตย์ขึ้นพรุ่งนี้มีผู้โดยสารจอง 6 คนจาก 2 การจอง: กลุ่ม Thompson (4) และคู่ Lee (2) พยากรณ์ปัจจุบันแสดงลมสงบที่ 4 ไมล์ต่อชั่วโมงและท้องฟ้าโปร่งในเวลาออกบิน ยังไม่มีอีเมลยกเลิกเข้ามา ต้องการให้ฉันส่งการยืนยันจุดนัดพบไหม?",
+    "followUp": "ได้ ส่งการยืนยันถึงทั้งสองฝ่ายพร้อมเวลาเจอกัน 6:15 AM",
+    "followUpResponse": "เรียบร้อย! ฉันร่างการยืนยันจุดนัดพบถึงทั้งครอบครัว Thompson และคู่ Lee พร้อมเวลา 6:15 AM ที่ลานปล่อยบอลลูน สิ่งที่ควรใส่ และเส้นทาง พร้อมให้ตรวจทานและส่งแล้ว"
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "เป็นที่ชื่นชอบของนักบินและผู้ดำเนินงานบอลลูน",
   "testimonials": [
     {
       "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "title": "นักบินบอลลูน, MN",
+      "quote": "ผมทำงานคนเดียว — บิน จัดการทีม และตอบอีเมล ยกเว้นตอน 5 AM ที่ผมกำลังเติมลม ไม่ได้ตอบกลับ Duet ร่างคำตอบให้ทุกข้อความที่ถามว่า 'พรุ่งนี้จะบินไหม?' ไว้ข้ามคืน ผมตื่นมาเช็กอากาศแล้วก็กดส่ง",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "title": "ทัวร์บอลลูนตลอดปี, UT",
+      "quote": "เราถูกถาม 10 คำถามเดิม ๆ ทุกวัน ทั้งควรใส่อะไร ไปเจอกันที่ไหน ถ้าลมแรงจะเป็นยังไง Duet เรียนรู้ทั้งหมดและร่างคำตอบได้ตรงมาก ตอนนี้จากเดิมต้องตอบอีเมลทุกคืนเป็นชั่วโมง เหลือแค่ห้านาที",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "title": "ผู้ดำเนินการเที่ยวบินชมพระอาทิตย์ขึ้น, AZ",
+      "quote": "ช่วงพีคซีซันหมายถึงมีเที่ยวบิน 4-6 ครั้งต่อสัปดาห์ และผู้โดยสารทุกคนส่งอีเมลอย่างน้อยสองครั้งก่อนบิน Duet จัดการคำถามก่อนเที่ยวบินให้ ผมจึงโฟกัสกับการมอบเช้าที่ดีที่สุดในชีวิตให้ผู้คนได้",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "ผู้ร่วมเป็นเจ้าของบริษัทบอลลูน, NM",
+      "quote": "การยกเลิกเพราะอากาศเคยทำให้วันทั้งวันของฉันพัง — ผู้โดยสาร 8 คนต้องการอีเมลเลื่อนนัดส่วนตัวทุกคน ตอนนี้ Duet ร่างให้ทุกฉบับพร้อมนโยบายการจองใหม่ของเราไว้แล้ว ช่วยประหยัดเวลาฉันได้หลายชั่วโมงในเช้าวันยกเลิก",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "title": "ฝ่ายปฏิบัติการเที่ยวบอลลูน, CO",
+      "quote": "เที่ยวบินขอแต่งงานต้องประสานงานไปมาเยอะมาก Duet จับทางได้ว่าเราจัดการแบบไหน — เวลา คำรหัส การเตรียมแชมเปญ มันร่างอีเมลตอบกลับที่แทบไม่ต้องแก้อะไรเลย",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ใช้เช้าอยู่บนฟ้า\nไม่ใช่อยู่ในกล่องจดหมาย",
+  "ctaSubline": "เริ่มทดลองใช้ฟรี เชื่อมกล่องจดหมายของคุณได้ใน 30 วินาที",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Duet จัดการอีเมลยกเลิกเพราะสภาพอากาศอย่างไร?",
+      "answer": "Duet เรียนนโยบายการยกเลิกและการจองใหม่ของคุณ เมื่อคุณยกเลิกเที่ยวบินเพราะสภาพอากาศ ระบบสามารถร่างอีเมลเลื่อนนัดแบบเฉพาะบุคคลถึงผู้โดยสารที่ได้รับผลกระทบทุกคน — พร้อมนโยบายของคุณ วันที่ว่าง และโทนของคุณ คุณตรวจทานแล้วส่งได้ สิ่งที่เคยใช้เวลาหนึ่งชั่วโมงในการตอบทีละคน ตอนนี้ใช้เวลาเพียงไม่กี่นาที"
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Duet จัดการอีเมล 'พรุ่งนี้จะบินไหม?' ที่เข้ามารัว ๆ ทุกเย็นได้ไหม?",
+      "answer": "ได้ — นี่เป็นหนึ่งในอีเมลที่ผู้ดำเนินการบอลลูนบอกเราว่าเจอบ่อยที่สุด Duet เรียนนโยบายสภาพอากาศของคุณและร่างคำตอบที่ให้ความมั่นใจ อธิบายวิธีตัดสินใจของคุณ ว่าจะประกาศผลสุดท้ายเมื่อไร และควรคาดหวังอะไรบ้าง เมื่อคุณยืนยัน go/no-go ในตอนเช้า ระบบสามารถร่างอัปเดตถึงทุกคนใน manifest ได้"
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "ที่ราคา $250/คน กับผู้โดยสาร 4 คนต่อเที่ยวบิน การจองที่ไม่หลุดไปเพียงครั้งเดียวก็คุ้มกว่า Pro หนึ่งปี"
 }

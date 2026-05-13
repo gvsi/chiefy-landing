@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mail cho Hướng dẫn viên Rafting & Kayak | Trợ lý Email AI",
+  "metaDescription": "Duet Mail giúp hướng dẫn viên rafting và nhà cung cấp kayak trả lời các yêu cầu chuyến đi ngay lập tức — ngay cả khi đang trên sông. Các phản hồi do AI soạn thảo với chi tiết chuyến đi, giá cả và phong cách của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 200 hướng dẫn viên sông",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang trên sông",
+  "heroSubline": "Duet học các loại chuyến đi, giá cả và danh sách thiết bị của bạn — sau đó soạn thảo phản hồi cho các yêu cầu đặt chỗ để khách hàng nhận được câu trả lời khi bạn đang vượt thác.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "Chuyến đi rafting cả ngày cho 6 người vào ngày 9 tháng 8?",
+      "preview": "Chào! Chúng tôi là gia đình 6 người đến thăm vào tháng 8 và muốn đặt chuyến đi rafting cả ngày vào ngày 9. Giá mỗi người là bao nhiêu và cần kinh nghiệm như thế nào?",
+      "pill": "Cần trả lời",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Chuyến đi nhiều ngày — bao gồm những gì?",
+      "preview": "Chúng tôi là nhóm 4 người đang xem chuyến thám hiểm 3 ngày của bạn. Có bao gồm bữa ăn, thiết bị cắm trại và túi chống nước hay chúng tôi phải tự mang theo...",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "Rachel & Mark S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "Trẻ em 8 và 10 tuổi — có an toàn không?",
+      "preview": "Chúng tôi muốn tham gia chuyến đi nửa ngày nhưng con chúng tôi 8 và 10 tuổi. Đoạn thác lớp II có phù hợp với độ tuổi của các bé không? Yêu cầu tối thiểu là gì...",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "preview": "Một khách du lịch vừa đánh giá doanh nghiệp của bạn. Xem họ nói gì và phản hồi...",
+      "pill": "Thông báo",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "Chào Jennifer! Ngày 9 tháng 8 còn chỗ cho 6 người. Chuyến đi cả ngày giá 150$/người và kéo dài khoảng 7 tiếng — chúng tôi bắt đầu lúc 8:30 sáng. Không cần kinh nghiệm, hướng dẫn viên sẽ lo hết. Áo phao, mũ bảo hiểm, túi chống nước và bữa trưa bên bờ sông đều bao gồm. Chỉ cần mang kem chống nắng, giày nước và quần áo không ngại ướt. Bạn muốn tôi đặt chỗ cho bạn không?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "người",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "Hai lượt đặt chỗ được giữ lại đủ trả cho một năm sử dụng Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để các yêu cầu chuyến đi được ưu tiên hiển thị trước, câu hỏi về thiết bị đứng thứ hai, và các thông báo quảng cáo biến mất. Không còn bỏ lỡ đặt nhóm bị chôn vùi dưới các cảnh báo TripAdvisor.",
+  "draftSubtitle": "Duet học các loại chuyến đi, cấp độ thác, danh sách thiết bị và chính sách hủy. Khi có yêu cầu đặt chỗ, nó soạn thảo phản hồi đầy đủ với mọi thông tin khách cần. Bạn chỉ việc xem lại và gửi.",
+  "agentSubtitle": "\"Còn chỗ nào cho chuyến đi cả ngày thứ Bảy không?\" \"Soạn phản hồi cho Jennifer về tình trạng chỗ.\" Duet hiểu hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "Chuyến đi rafting cả ngày cho 6 người vào ngày 9 tháng 8?",
+      "preview": "Chúng tôi là gia đình 6 người đến thăm vào tháng 8 và muốn đặt...",
+      "pill": "Trả lời ngay",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "Re: Xác nhận chuyến thám hiểm 3 ngày — 15 tháng 8",
+      "pill": "Đã đặt",
       "pillColor": "blue"
     },
     {
       "from": "Rachel S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "Trẻ em 8 và 10 tuổi có phù hợp với lớp thác II không?",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "The Flybook",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Tóm tắt đặt chỗ hàng tuần của bạn",
+      "pill": "Thông báo",
       "pillColor": "lavender"
     },
     {
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "Giảm giá cuối mùa — 30% cho bộ đồ khô",
+      "pill": "Khuyến mãi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: Chuyến đi rafting cả ngày cho 6 người vào ngày 9 tháng 8?",
+    "originalFrom": "Jennifer W. đã viết:",
+    "originalText": "Chào! Chúng tôi là gia đình 6 người đến thăm vào tháng 8 và muốn đặt chuyến đi rafting cả ngày vào ngày 9. Giá mỗi người là bao nhiêu và cần kinh nghiệm như thế nào?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "Chào Jennifer!",
+      "Ngày 9 tháng 8 còn chỗ cho 6 người. Chuyến đi cả ngày giá 150$/người và kéo dài khoảng 7 tiếng — chúng tôi gặp nhau tại điểm xuất phát lúc 8:30 sáng.",
+      "Không cần kinh nghiệm. Áo phao, mũ bảo hiểm, túi chống nước và bữa trưa bên bờ sông đều bao gồm — chỉ cần mang kem chống nắng và giày nước.",
+      "Bạn muốn tôi đặt chỗ cho bạn không?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "Ngày 9 tháng 8 còn chỗ cho 6 người. Chuyến đi cả ngày giá 150$/người",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "Hiểu các loại chuyến đi & giá cả của bạn",
+      "Soạn thảo theo phong cách của bạn",
+      "Tự động bao gồm danh sách thiết bị",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "Còn chỗ nào cho chuyến đi cả ngày thứ Bảy không?",
+    "agentResponse": "Chuyến đi cả ngày thứ Bảy còn 4 chỗ trong tổng số 10. Bạn cũng có chuyến nửa ngày buổi sáng đã đầy chỗ và chuyến đi nhiều ngày khởi hành Chủ nhật còn 2 chỗ. Bạn muốn tôi soạn phản hồi cho các yêu cầu đang chờ với tình trạng chỗ của thứ Bảy không?",
+    "followUp": "Soạn phản hồi cho Jennifer về tình trạng chỗ ngày 9 tháng 8",
+    "followUpResponse": "Xong! Tôi đã soạn phản hồi cho Jennifer xác nhận ngày 9 tháng 8 cho 6 khách với giá 150$/người. Bao gồm chi tiết chuyến đi tiêu chuẩn, danh sách thiết bị và địa điểm gặp. Sẵn sàng để bạn xem lại và gửi."
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "Được yêu thích bởi hướng dẫn viên và nhà cung cấp",
   "testimonials": [
     {
       "name": "Ryan M.",
-      "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "title": "Nhà cung cấp Rafting, CO",
+      "quote": "Mùa cao điểm tôi ở trên sông 6 ngày mỗi tuần. Khi tôi quay lại email, một nửa nhóm đã đặt với người khác. Giờ Duet soạn phản hồi với chi tiết chuyến đi và giá cả khi tôi còn ở điểm xuất phát.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "title": "Tour Kayak & SUP, OR",
+      "quote": "Mỗi khách đều hỏi 5 câu giống nhau — giá, mang gì theo, trình độ, số lượng nhóm, chính sách hủy. Duet học hết trong tuần đầu. Tôi từ mất một giờ mỗi tối trả lời email giờ chỉ còn năm phút xem lại bản nháp.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "title": "Hướng dẫn viên Thám hiểm Nhiều Ngày, AK",
+      "quote": "Tôi tổ chức chuyến đi 5 ngày không có sóng điện thoại. Trước Duet, mọi yêu cầu đều không trả lời cho đến khi tôi về thị trấn. Giờ khách nhận được phản hồi chi tiết trong vài phút và tôi xác nhận khi rời sông.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "title": "Quản lý Văn phòng River Adventures, WV",
+      "quote": "Tôi quản lý đặt chỗ cho ba hướng dẫn viên với bốn loại chuyến đi. Duet phân loại email theo mức độ ưu tiên và soạn phản hồi với chuyến đi, giá cả, danh sách thiết bị phù hợp. Giống như nhân bản chính mình.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sophia K.",
-      "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "title": "Công ty Rafting Thác trắng, ID",
+      "quote": "Chúng tôi nghi ngờ AI có thể xử lý email riêng về rafting. Nhưng nó hiểu mô tả lớp thác III và IV, tuổi tối thiểu, thậm chí chính sách thoát kayak khi ướt. Khách nghĩ họ đang nói chuyện với chúng tôi.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành mùa hè trên sông,\nkhông phải lo bắt kịp email.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "Duet có xử lý báo giá chuyến đi tùy chỉnh và yêu cầu thám hiểm nhiều ngày không?",
+      "answer": "Có. Duet học toàn bộ danh mục chuyến đi của bạn — chuyến nửa ngày, chuyến thác cả ngày, thám hiểm nhiều ngày — cùng với giá cả, những gì bao gồm, tuổi tối thiểu và mức độ khó. Khi ai đó hỏi về chuyến 3 ngày cho 6 người, nó soạn phản hồi đầy đủ với thông tin chính xác. Bạn xem lại, chỉnh sửa nếu cần và gửi."
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "Tôi không có sóng khi đi thám hiểm nhiều ngày. Duet vẫn hoạt động chứ?",
+      "answer": "Đó chính là vấn đề Duet giải quyết. Khi bạn trên sông không có sóng, Duet soạn phản hồi cho mọi yêu cầu đến. Khi bạn về vùng có sóng, bản nháp đã sẵn sàng — chỉ việc xem lại và gửi. Hầu hết hướng dẫn viên nói rằng nó loại bỏ được tồn đọng email họ từng gặp sau mỗi chuyến nhiều ngày."
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "Với giá 150$/người, hai lượt đặt chỗ được giữ lại đủ trả cho một năm dùng Pro."
 }

@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail cho Tour ATV & UTV | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp hướng dẫn viên tour ATV và UTV trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên đường. Trả lời được AI soạn thảo với giá cả, yêu cầu và giọng điệu của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 200 hướng dẫn viên tour",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang trên đường",
+  "heroSubline": "Duet học các loại tour, giá cả và yêu cầu người lái của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "Còn chỗ thứ Bảy cho 4 xe không?",
+      "preview": "Chào! Chúng tôi là nhóm 4 người muốn đặt tour ATV có hướng dẫn vào thứ Bảy này. Bạn còn chỗ không? Giá mỗi xe là bao nhiêu?",
+      "pill": "Cần trả lời",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "Yêu cầu bảo hiểm?",
+      "preview": "Chào, chúng tôi sẽ mang UTV riêng. Có cần xuất trình bằng chứng bảo hiểm trách nhiệm không? Bạn yêu cầu loại bảo hiểm nào...",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "The Hendersons",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "Đường mòn nào cho người mới bắt đầu?",
+      "preview": "Chúng tôi chưa từng lái ATV trước đây. Bạn đề xuất tuyến tour nào cho gia đình có hai thanh thiếu niên? Bạn có cung cấp...",
+      "pill": "Đặt chỗ",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "preview": "Một khách du lịch vừa đánh giá doanh nghiệp của bạn. Xem họ nói gì và trả lời...",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "Chào Rachel! Thứ Bảy còn chỗ và chúng tôi có thể nhận 4 xe không vấn đề gì. Tour giá 200 đô la mỗi xe và kéo dài khoảng 6-8 giờ. Chúng ta gặp nhau lúc 9 giờ sáng tại điểm xuất phát — tôi sẽ gửi chỉ dẫn khi bạn xác nhận. Có mũ bảo hiểm và kính bảo hộ. Bạn muốn tôi giữ chỗ cho bạn không?",
   "math": {
-    "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "pricePerBooking": "800 đô la",
+    "bookingUnit": "nhóm (4 xe)",
     "lostPerMonth": "3",
-    "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "monthlyLoss": "2.400 đô la",
+    "punchline": "Một nhóm đặt chỗ được giữ lại đủ trả tiền Duet một năm."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi bảo hiểm sau, và không bao giờ bị làm phiền bởi tin nhảm. Không còn bỏ lỡ yêu cầu nhóm bị chôn dưới thông báo TripAdvisor.",
+  "draftSubtitle": "Duet học các tuyến tour, giá cả và yêu cầu người lái của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến đi, giá cả và những thứ cần mang theo. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Có nhóm nào đặt chỗ cho cuối tuần này không?\" \"Soạn trả lời cho Rachel về chỗ trống thứ Bảy.\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "Còn chỗ thứ Bảy cho 4 xe không?",
+      "preview": "Chúng tôi là nhóm 4 người muốn đặt tour ATV có hướng dẫn...",
+      "pill": "Trả lời ngay",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Re: Đặt chỗ xác nhận — Thứ Bảy 9 giờ sáng",
+      "pill": "Đã đặt",
       "pillColor": "blue"
     },
     {
       "from": "The Hendersons",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "Chúng tôi nên mặc gì khi đi đường mòn?",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "Yelp for Business",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
-      "pill": "FYI",
+      "subject": "Cập nhật kinh doanh hàng tuần của bạn",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     },
     {
       "from": "Rocky Mountain ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "Xả kho mùa xuân — giảm 25% phụ tùng",
+      "pill": "Khuyến mãi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: Còn chỗ thứ Bảy cho 4 xe không?",
+    "originalFrom": "Rachel W. đã viết:",
+    "originalText": "Chào! Chúng tôi là nhóm 4 người muốn đặt tour ATV có hướng dẫn vào thứ Bảy này. Bạn còn chỗ không? Giá mỗi xe là bao nhiêu?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Chào Rachel!",
+      "Thứ Bảy còn chỗ cho 4 xe. Tour giá 200 đô la mỗi xe và kéo dài 6-8 giờ bắt đầu lúc 9 giờ sáng từ điểm xuất phát.",
+      "Có mũ bảo hiểm và kính bảo hộ — bạn chỉ cần mặc quần dài, giày kín mũi và mang theo nước cùng kem chống nắng. Tôi sẽ gửi điểm gặp và chỉ dẫn khi bạn xác nhận.",
+      "Bạn muốn tôi giữ chỗ cho bạn không?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Thứ Bảy còn chỗ cho 4 xe. Tour giá 200 đô la mỗi xe",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Biết giá và tuyến tour của bạn",
+      "Soạn thảo theo giọng điệu của bạn",
+      "Tự động bao gồm yêu cầu người lái",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "Có nhóm nào đặt chỗ cho cuối tuần này không?",
+    "agentResponse": "Dựa trên hộp thư của bạn, có nhóm 6 người đã xác nhận cho thứ Bảy lúc 9 giờ sáng và một vài người đã đặt cho sáng Chủ nhật. Chiều thứ Bảy và chiều Chủ nhật vẫn còn chỗ. Bạn muốn tôi soạn trả lời cho các yêu cầu đang chờ với các chỗ trống đó không?",
+    "followUp": "Soạn trả lời cho Rachel về chỗ trống thứ Bảy",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho Rachel xác nhận thứ Bảy cho 4 xe với giá 200 đô la mỗi xe. Bao gồm địa điểm gặp mặt, thông tin trang bị và cách ăn mặc tiêu chuẩn của bạn. Sẵn sàng để bạn xem lại và gửi."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "Được yêu thích bởi hướng dẫn viên và nhà điều hành tour",
   "testimonials": [
     {
       "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "title": "Hướng dẫn viên ATV, Nam Utah",
+      "quote": "Tôi dẫn tour 8 giờ qua các hẻm núi không có sóng điện thoại. Khi tôi về, một nửa email đặt chỗ đã nguội lạnh. Duet soạn trả lời với giá và thông tin đường mòn — tôi chỉ xem lại vào cuối ngày.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "title": "Nhà điều hành tour UTV, Colorado",
+      "quote": "Chúng tôi chạy tour 7 ngày một tuần và các câu hỏi về bảo hiểm và giấy từ đã chiếm hết buổi sáng của tôi. Duet xử lý tất cả — yêu cầu người lái, giới hạn tuổi, những thứ cần mang theo. Giống hệt tôi.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "title": "Hướng dẫn viên Jeep, Moab",
+      "quote": "Mọi người email hỏi đường mòn nào phù hợp cho nhóm, cần kinh nghiệm gì, trẻ em có được đi không. Cùng 5 câu hỏi lặp đi lặp lại. Duet trả lời chính xác từng câu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
-      "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "title": "Phiêu lưu địa hình, AZ",
+      "quote": "Tôi từng mất hơn một giờ mỗi tối trả lời cùng một câu hỏi về chỗ trống. Giờ Duet soạn trả lời khi tôi đang trên đường. Thời gian phản hồi của tôi giảm từ giờ xuống phút.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
-      "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "title": "Tour ATV gia đình, Sedona",
+      "quote": "Chúng tôi nhận nhiều câu hỏi về đường mòn cho người mới và yêu cầu tuổi. Duet học tất cả lựa chọn tour và đề xuất đúng trong mỗi trả lời. Khách hàng không nhận ra sự khác biệt.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành mùa cao điểm trên đường mòn,\nkhông phải trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Duet có xử lý câu hỏi về bảo hiểm và giấy từ không?",
+      "answer": "Có. Duet học yêu cầu người lái của bạn — bảo hiểm trách nhiệm, giới hạn tuổi, chi tiết giấy từ, những gì người lái cần mang theo. Khi ai đó hỏi qua email về những gì cần chuẩn bị trước tour, Duet soạn trả lời đầy đủ với tất cả chi tiết. Bạn xem lại và nhấn gửi."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Tôi ở trên đường cả ngày không có sóng điện thoại. Duet giúp gì được?",
+      "answer": "Đó chính là lý do các hướng dẫn viên yêu thích Duet. Khi bạn dẫn tour 6-8 giờ không có sóng, các yêu cầu đặt chỗ chất đống. Duet soạn trả lời từng yêu cầu — giá, chỗ trống, địa điểm gặp, cách ăn mặc. Khi bạn về, bạn xem lại bản nháp và gửi. Hầu hết hướng dẫn viên nói rằng nó giúp họ tiết kiệm 1-2 giờ email mỗi ngày trong mùa cao điểm."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "Với 200 đô la mỗi xe, một nhóm 4 người được giữ chỗ đủ trả tiền Pro hơn một năm."
 }

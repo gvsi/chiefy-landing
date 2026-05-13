@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail สำหรับธุรกิจเช่าเรือตกปลา | ผู้ช่วยอีเมล AI",
+  "metaDescription": "Duet Mail ช่วยให้กัปตันเรือเช่าเหมาลำตกปลาตอบอีเมลจองคิวได้ทันที — แม้อยู่กลางน้ำ ด้วยร่างคำตอบจาก AI ที่สอดคล้องกับราคา นโยบาย และโทนของคุณ",
+  "heroBadge": "ได้รับความไว้วางใจจากกัปตันเรือเช่าเหมาลำกว่า 500 ราย",
+  "heroHeadline": "ผู้ช่วยอีเมลของคุณขณะอยู่กลางน้ำ",
+  "heroSubline": "Duet เรียนรู้ราคา นโยบาย และโทนของคุณ — แล้วร่างคำตอบอีเมลเพื่อให้คุณไม่พลาดการจองเพราะตอบช้า",
   "inboxEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "ว่างวันที่ 12 กรกฎาคมสำหรับ 4 คนไหม?",
+      "preview": "สวัสดีค่ะ! เรามากัน 4 คนและกำลังมองหาทริปตกปลาในวันที่ 12 กรกฎาคม มีคิวว่างไหมคะ? ราคาสำหรับเต็มวันเท่าไร?",
+      "pill": "ต้องตอบ",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "ต้องเตรียมอะไรไปบ้าง?",
+      "preview": "สวัสดีครับ เราจองไว้สำหรับวันเสาร์ ขอถามสั้นๆ ว่าต้องเตรียมอะไรไปบ้าง? มีคันเบ็ดกับอุปกรณ์ตกปลาให้ไหม หรือเราต้องเอาไปเอง...",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "Mike & Lisa R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "ต้องการเลื่อนเป็นวันอาทิตย์",
+      "preview": "ขอโทษที่แจ้งกระชั้นชิดครับ/ค่ะ แต่พยากรณ์อากาศในวันเสาร์ดูไม่ดี เราขอย้ายเป็นวันอาทิตย์แทนได้ไหม? เวลาเดิม...",
+      "pill": "การจอง",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "มีรีวิวใหม่สำหรับรายการของคุณ",
+      "preview": "มีนักเดินทางเพิ่งรีวิวธุรกิจของคุณ ดูสิ่งที่เขาพูดและตอบกลับ...",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "สวัสดี Sarah! วันที่ 12 กรกฎาคมยังว่างสำหรับ 4 คนครับ/ค่ะ ทริปเต็มวันใช้เวลา 8 ชั่วโมง เริ่ม 6 โมงเช้า อุปกรณ์ตกปลา เหยื่อ และใบอนุญาตรวมทั้งหมดแล้ว — แค่นำครีมกันแดด น้ำดื่ม และกระติกสำหรับปลาที่จับได้มาด้วย สนใจให้ฉันล็อกคิวให้เลยไหม?",
   "math": {
     "pricePerBooking": "$500",
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "การจองที่ได้กลับมาเพียงครั้งเดียวก็จ่ายค่า Duet ได้ทั้งปี"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet ติดป้ายให้อีเมลทุกฉบับโดยอัตโนมัติ คุณจึงเห็นคำขอจองก่อน คำถามถัดมา และข้อความรบกวนไม่เคยโผล่มาอีก ไม่ต้องพลาดคำถามเรื่องทริปที่กองอยู่ใต้การแจ้งเตือนจาก TripAdvisor อีกต่อไป",
+  "draftSubtitle": "Duet เรียนรู้ราคา นโยบาย และโทนของคุณ เมื่อมีคำถามเรื่องการจองเข้ามา ก็จะร่างคำตอบฉบับสมบูรณ์พร้อมรายละเอียดทริป ราคา และสิ่งที่ต้องเตรียม คุณตรวจทานแล้วส่ง",
+  "agentSubtitle": "\"วันไหนของสัปดาห์หน้าที่ยังว่างอยู่?\" \"ร่างคำตอบถึง Sarah เรื่องคิวว่าง\" Duet รู้จักทั้งกล่องจดหมายและปฏิทินของคุณ — แค่สั่งได้เลย",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "ว่างวันที่ 12 กรกฎาคมสำหรับ 4 คนไหม?",
+      "preview": "เรามากัน 4 คน กำลังมองหาทริปตกปลา...",
+      "pill": "ตอบตอนนี้",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: ยืนยันการจอง — วันเสาร์ 7:00 น.",
+      "pill": "จองแล้ว",
       "pillColor": "blue"
     },
     {
       "from": "Mike R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "ต้องเตรียมอะไรไปวันเสาร์?",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "FishingBooker",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "สรุปการจองรายสัปดาห์ของคุณ",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     },
     {
       "from": "West Marine",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "ลดราคาฤดูใบไม้ผลิ — ลด 20% สำหรับอุปกรณ์ตกปลา",
+      "pill": "โปรโมชัน",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
+    "subject": "Re: ว่างวันที่ 12 กรกฎาคมสำหรับ 4 คนไหม?",
     "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "originalText": "สวัสดีค่ะ! เรามากัน 4 คนและกำลังมองหาทริปตกปลาในวันที่ 12 กรกฎาคม มีคิวว่างไหมคะ? ราคาสำหรับเต็มวันเท่าไร?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "สวัสดี Sarah!",
+      "วันที่ 12 กรกฎาคมยังว่างสำหรับ 4 คน ทริปเต็มวันราคา $500 และใช้เวลา 8 ชั่วโมง ออกเดินทางจากท่าจอดเรือเวลา 6 โมงเช้า",
+      "อุปกรณ์ทั้งหมด เหยื่อ และใบอนุญาตตกปลารวมอยู่แล้ว — แค่นำครีมกันแดดกับกระติกมาด้วย",
+      "ให้ฉันล็อกคิวให้เลยไหม?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "วันที่ 12 กรกฎาคมยังว่างสำหรับ 4 คน ทริปเต็มวันราคา $500",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "รู้ราคาและคิวว่างของคุณ",
+      "ร่างในโทนของคุณ",
+      "ใส่รายละเอียดทริปให้อัตโนมัติ",
+      "เรียนรู้ไปเรื่อยๆ"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "สัปดาห์หน้ามีวันไหนยังว่างอยู่บ้าง?",
+    "agentResponse": "จากปฏิทินของคุณ สัปดาห์หน้ามีคิวว่างวันอังคาร พฤหัสบดี และเสาร์ วันจันทร์กับวันพุธถูกจองเต็มแล้ว (อย่างละ 2 ทริป) ต้องการให้ฉันร่างคำตอบสำหรับคำถามที่ค้างอยู่ด้วยวันที่เหล่านี้ไหม?",
+    "followUp": "ร่างคำตอบถึง Sarah เรื่องคิวว่างวันที่ 12 กรกฎาคม",
+    "followUpResponse": "เสร็จแล้ว! ฉันร่างคำตอบถึง Sarah เพื่อยืนยันวันที่ 12 กรกฎาคมสำหรับผู้โดยสาร 4 คน ราคา $500 โดยใส่รายละเอียดทริปมาตรฐานและจุดนัดพบของคุณเรียบร้อย พร้อมตรวจทานและส่งได้เลย"
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "เป็นที่ชื่นชอบของกัปตันเรือเช่าเหมาลำ",
   "testimonials": [
     {
       "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "title": "กัปตันเรือเช่าเหมาลำ Offshore, FL",
+      "quote": "ช่วงพีคซีซันผมเสียการจองไป 2-3 รายต่อสัปดาห์ แค่เพราะตอบกลับจากบนเรือได้ไม่เร็วพอ Duet ร่างคำตอบพร้อมราคาและรายละเอียดทริปของผม — ผมแค่กดส่งระหว่างพักจากการตกปลา",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "title": "ธุรกิจเช่าเรือสำหรับครอบครัว, OR",
+      "quote": "เราดูแลเรือ 2 ลำ และปริมาณอีเมลช่วงหน้าร้อนเยอะมาก Duet แยกคำขอจองออกจากอย่างอื่น และร่างคำตอบที่ฟังดูเหมือนเราเป๊ะๆ เป็นตัวเปลี่ยนเกมอย่างแท้จริง",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "title": "ไกด์ตกปลา inshore, TX",
+      "quote": "ก่อนหน้านี้ผมต้องเสียเวลาชั่วโมงทุกคืนตอบคำถามเดิมๆ เรื่องคิวว่าง ตอนนี้ Duet จัดการให้แล้ว เวลาตอบของผมจากหลายชั่วโมงเหลือไม่กี่นาที และตั้งแต่นั้นก็ไม่เคยเสียการจองอีกเลย",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "title": "ผู้จัดการสำนักงานเช่าเรือ, HI",
+      "quote": "การดูแลอีเมลให้กัปตัน 4 คนเคยเป็นงานเต็มเวลา Duet จัดหมวดหมู่ทุกอย่างและร่างคำตอบโดยใช้เรือ ราคา และกัปตันที่ถูกต้อง เหมือนมีฉันอีกคนหนึ่ง",
       "avatarKey": "jennifer"
     },
     {
       "name": "Andrea S.",
       "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "quote": "ตอนแรกฉันสงสัยว่า AI จะจัดการอีเมลของธุรกิจเช่าเรือตกปลาได้ไหม แต่ระบบเรียนรู้ประเภททริป สิ่งที่รวมอยู่ แม้แต่นโยบายยกเลิกของเรา ลูกค้าแยกไม่ออกเลย",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ใช้ช่วงพีคซีซันกับการอยู่กลางน้ำ\nไม่ใช่อยู่ในกล่องจดหมาย",
+  "ctaSubline": "เริ่มทดลองใช้ฟรี เชื่อมต่อกล่องจดหมายของคุณใน 30 วินาที",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Duet ใช้กับอีเมลการจองและคิวว่างได้ไหม?",
+      "answer": "ได้แน่นอน Duet เรียนรู้ประเภททริป ราคา คิวว่าง และนโยบายของคุณ เมื่อมีคำถามเรื่องการจองเข้ามา ระบบจะร่างคำตอบฉบับสมบูรณ์พร้อมรายละเอียดที่ถูกต้อง — ราคา สิ่งที่รวมอยู่ จุดนัดพบ สิ่งที่ต้องเตรียม คุณตรวจทานแล้วกดส่ง"
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "ผม/ฉันอยู่กลางน้ำทั้งวัน ใช้ Duet จากมือถือได้ไหม?",
+      "answer": "ได้ Duet ใช้งานร่วมกับ Gmail และ Outlook จึงใช้ได้ทุกที่ที่อีเมลของคุณใช้งานได้ — รวมถึงบนมือถือด้วย ร่างจดหมายจะแสดงอัตโนมัติ ระหว่างพักจากการตกปลา คุณตรวจทานแล้วส่งได้ด้วยการแตะครั้งเดียว กัปตันส่วนใหญ่บอกว่าช่วยประหยัดเวลาอีเมลได้วันละ 1-2 ชั่วโมงในช่วงพีคซีซัน"
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "ที่ราคา $500/charter การจองที่ได้กลับมาเพียงครั้งเดียวก็จ่ายค่า Pro ได้มากกว่าหนึ่งปี"
 }

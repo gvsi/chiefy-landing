@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail cho Cửa hàng Lặn | Trợ lý Email AI",
+  "metaDescription": "Duet Mail giúp chủ cửa hàng lặn và huấn luyện viên PADI trả lời ngay lập tức các yêu cầu chứng nhận, đặt chuyến đi và câu hỏi về thiết bị — ngay cả khi đang dưới nước.",
+  "heroBadge": "Được tin dùng bởi hơn 300 nhà điều hành lặn",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang dưới nước",
+  "heroSubline": "Duet học các điểm lặn, yêu cầu chứng nhận, giá cả và giọng nói của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang trên thuyền.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "Chứng nhận Open Water — còn chỗ không?",
+      "preview": "Chào! Tôi sẽ đến vào tuần đầu tháng 8 và muốn lấy chứng nhận Open Water. Mất bao nhiêu ngày và bao gồm những gì?",
+      "pill": "Cần trả lời",
       "pillColor": "red"
     },
     {
       "from": "Kevin & Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "Nhóm 6 người cho chuyến lặn 2 bình thứ Bảy",
+      "preview": "Chúng tôi có 6 thợ lặn đã chứng nhận và muốn đặt chuyến lặn 2 bình buổi sáng thứ Bảy này. Còn chỗ không? Giá mỗi người là bao nhiêu...",
+      "pill": "Đang đặt",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "Thuê BCD cho cuối tuần?",
+      "preview": "Chào, tôi đã có chứng nhận nhưng đi nhẹ. Bạn có cho thuê BCD và bộ điều áp không? Tôi cần từ thứ Sáu đến Chủ Nhật...",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "PADI eLearning",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
-      "pill": "FYI",
+      "subject": "Giới thiệu học viên: Rachel Torres",
+      "preview": "Một học viên đã hoàn thành eLearning và chọn trung tâm lặn của bạn để đào tạo trong bể và ngoài biển...",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "Chào Rachel! Chúng tôi rất muốn giúp bạn lấy chứng nhận. Khóa học Open Water kéo dài 3 ngày — một ngày học trong bể và hai ngày lặn ngoài biển. Bao gồm toàn bộ thiết bị. Tháng 8 còn rất nhiều chỗ. Bạn muốn tôi đặt chỗ cho tuần đầu không?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
-    "lostPerMonth": "3 trips (6 divers each)",
+    "bookingUnit": "chuyến lặn",
+    "lostPerMonth": "3 chuyến (6 thợ lặn mỗi chuyến)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "Một nhóm lặn được giữ lại đủ trả tiền Duet cả năm."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy trước các yêu cầu chứng nhận và đặt chuyến lặn, tiếp theo là câu hỏi về thiết bị, và cảnh báo PADI khi bạn sẵn sàng. Không còn bỏ lỡ đặt nhóm bị chôn dưới các bản tin thiết bị.",
+  "draftSubtitle": "Duet học các điểm lặn, yêu cầu chứng nhận và giá cả của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến đi, những gì bao gồm và cần mang theo. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Có bao nhiêu thợ lặn đã đặt cho thứ Bảy?\" \"Soạn trả lời cho Rachel về chỗ trống Open Water.\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "Chứng nhận Open Water — còn chỗ không?",
+      "preview": "Tôi sẽ đến vào tuần đầu tháng 8 và muốn lấy chứng nhận...",
+      "pill": "Trả lời ngay",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Re: Đặt chỗ xác nhận — chuyến lặn 2 bình thứ Bảy",
+      "pill": "Đã đặt",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "Thuê BCD và bộ điều áp cuối tuần này?",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "DiveBuddy",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
-      "pill": "FYI",
+      "subject": "Đánh giá mới trên danh sách của bạn",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     },
     {
       "from": "Dive Gear Express",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Khuyến mãi mùa hè — giảm 25% đồ lặn",
+      "pill": "Khuyến mãi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "Re: Chứng nhận Open Water — còn chỗ không?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào! Tôi sẽ đến vào tuần đầu tháng 8 và muốn lấy chứng nhận Open Water. Mất bao nhiêu ngày và bao gồm những gì?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "Chào Rachel!",
+      "Chúng tôi rất muốn giúp bạn lấy chứng nhận! Khóa học PADI Open Water kéo dài 3 ngày — một buổi học trong bể và hai buổi lặn ngoài biển trên rạn san hô của chúng tôi. Bao gồm toàn bộ thiết bị.",
+      "Tháng 8 hiện còn rất nhiều chỗ. Hầu hết học viên bắt đầu vào thứ Hai để hoàn thành vào thứ Tư.",
+      "Bạn muốn tôi đặt chỗ không?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "Khóa học PADI Open Water kéo dài 3 ngày",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "Biết các khóa học & giá của bạn",
+      "Soạn thảo theo giọng nói của bạn",
+      "Tự động bao gồm yêu cầu chứng nhận",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "Có bao nhiêu thợ lặn đã đặt cho thứ Bảy?",
+    "agentResponse": "Dựa trên hộp thư của bạn, có 8 thợ lặn đã xác nhận cho chuyến lặn 2 bình buổi sáng thứ Bảy — nhóm 6 người của Kevin cộng thêm 2 đặt chỗ cá nhân. Bạn cũng có một yêu cầu đang chờ từ Jason về thuê thiết bị cho chuyến đi đó. Bạn muốn tôi soạn trả lời không?",
+    "followUp": "Soạn trả lời cho Rachel với chi tiết khóa học Open Water",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho Rachel xác nhận khóa học PADI Open Water 3 ngày bao gồm học trong bể và lặn ngoài biển. Đề cập đến chỗ trống tháng 8 và chính sách bao gồm thiết bị tiêu chuẩn của bạn. Sẵn sàng để bạn xem lại và gửi."
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "Được các nhà điều hành lặn yêu thích",
   "testimonials": [
     {
-      "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "name": "Thuyền trưởng Mike T.",
+      "title": "Thuyền trưởng tàu lặn, FL",
+      "quote": "Tôi điều hành các chuyến đi từ thứ Sáu đến Chủ Nhật và cửa hàng chỉ mở vài giờ vào thứ Hai. Các câu hỏi chứng nhận và yêu cầu chuyến đi chất đống khi tôi đang dưới nước. Duet soạn trả lời với giá, điểm lặn và những gì bao gồm — tôi xem lại giữa các lần lặn.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "title": "Trung tâm lặn PADI, HI",
+      "quote": "Chúng tôi tổ chức lặn, tour snorkel và xem cá voi trên cùng một tàu. Email rất đa dạng — câu hỏi chứng nhận, đặt nhóm, thuê thiết bị, kiểm tra thời tiết. Duet phân loại tất cả và soạn trả lời biết phân biệt. Cứu tinh tuyệt đối.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "title": "Dịch vụ lặn xác tàu, FL",
+      "quote": "Một nửa email của tôi là 'tôi cần chứng nhận gì cho lặn xác tàu?' và nửa còn lại là 'tôi có cần thiết bị riêng không?' Duet xử lý cả hai tự động. Thời gian phản hồi của tôi giảm từ giờ xuống phút.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "title": "Chủ cửa hàng lặn, CA",
+      "quote": "Mùa hè chúng tôi nhận hơn 30 email mỗi ngày về khóa học, chỗ trống chuyến đi và thiết bị. Tôi đã mất đặt chỗ cho các cửa hàng trả lời nhanh hơn. Giờ Duet soạn tất cả và tôi chỉ việc gửi giữa các lớp học.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "title": "Huấn luyện viên & Hướng dẫn lặn, NC",
+      "quote": "Tôi dạy khóa học buổi sáng và hướng dẫn lặn buổi chiều. Thật sự không có thời gian trả lời email. Duet học lịch khóa học, giá cả, thậm chí chính sách hủy của tôi. Khách hàng không nhận ra sự khác biệt.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành thời gian dưới nước,\nkhông phải chôn vùi trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Duet có hiểu các cấp độ chứng nhận và yêu cầu khóa học không?",
+      "answer": "Có. Duet học các khóa học cụ thể của bạn — Open Water, Advanced, Rescue, Divemaster — cùng với điều kiện tiên quyết, thời lượng, giá cả và những gì bao gồm. Khi ai đó hỏi về việc lấy chứng nhận, Duet soạn trả lời với chi tiết khóa học phù hợp, lịch trình và bước tiếp theo. Bạn xem lại và gửi."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Tôi ở trên thuyền hoặc dưới nước cả ngày. Tôi có thể dùng Duet trên điện thoại không?",
+      "answer": "Có. Duet hoạt động với Gmail và Outlook, nên dùng được ở bất cứ đâu email của bạn hoạt động — kể cả điện thoại. Bản nháp tự động xuất hiện trong hộp thư. Giữa các lần lặn hoặc khi về bến, bạn xem lại và gửi chỉ với một chạm. Hầu hết nhà điều hành lặn nói với chúng tôi rằng nó giúp họ tiết kiệm 1-2 giờ mỗi ngày trong mùa cao điểm."
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "Với giá $150/chuyến lặn cho nhóm 6 người, một chuyến được giữ lại đủ trả hơn một năm dùng Pro."
 }

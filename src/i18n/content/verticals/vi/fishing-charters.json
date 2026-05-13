@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail cho Dịch vụ Thuê Thuyền Câu Cá | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp các thuyền trưởng dịch vụ thuê thuyền câu cá trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên biển. Trả lời được soạn thảo bằng AI với giá cả, chính sách và giọng điệu của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 500 thuyền trưởng",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang trên biển",
+  "heroSubline": "Duet học giá cả, chính sách và giọng điệu của bạn — rồi soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "Còn chỗ ngày 12 tháng 7 cho 4 người không?",
+      "preview": "Chào! Chúng tôi là nhóm 4 người muốn đặt chuyến câu cá ngày 12 tháng 7. Bạn còn chỗ không? Giá cho cả ngày là bao nhiêu?",
+      "pill": "Cần trả lời",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Chúng tôi nên mang gì theo?",
+      "preview": "Chào, chúng tôi đã đặt cho thứ Bảy. Có câu hỏi nhanh — chúng tôi nên mang gì? Bạn có cung cấp cần câu và dụng cụ không hay chúng tôi phải tự mang...",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "Mike & Lisa R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Cần đổi lịch sang Chủ Nhật",
+      "preview": "Xin lỗi thông báo muộn nhưng dự báo thời tiết thứ Bảy có vẻ xấu. Chúng tôi có thể chuyển sang Chủ Nhật không? Cùng giờ...",
+      "pill": "Đặt chỗ",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "preview": "Một khách du lịch vừa đánh giá doanh nghiệp của bạn. Xem họ nói gì và phản hồi...",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Chào Sarah! Ngày 12 tháng 7 còn chỗ cho 4 người. Chuyến đi cả ngày kéo dài 8 tiếng, bắt đầu từ 6 giờ sáng. Bao gồm tất cả cần câu, dụng cụ, mồi và giấy phép — bạn chỉ cần mang kem chống nắng, nước uống và thùng giữ lạnh cho cá. Bạn muốn tôi đặt chỗ không?",
   "math": {
     "pricePerBooking": "$500",
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "Một lượt đặt chỗ được giữ lại đủ trả tiền Duet trong một năm."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi sau, và không bao giờ bị làm phiền bởi những thông báo không cần thiết. Không còn bỏ lỡ yêu cầu chuyến đi bị chôn vùi dưới các cảnh báo TripAdvisor.",
+  "draftSubtitle": "Duet học giá cả, chính sách và giọng điệu của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến đi, giá cả và những thứ cần mang theo. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Ngày nào còn chỗ tuần tới?\" \"Soạn trả lời Sarah với thông tin còn chỗ.\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "Còn chỗ ngày 12 tháng 7 cho 4 người không?",
+      "preview": "Chúng tôi là nhóm 4 người muốn đặt chuyến câu cá...",
+      "pill": "Trả lời ngay",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: Đặt chỗ đã xác nhận — Thứ Bảy 7 giờ sáng",
+      "pill": "Đã đặt",
       "pillColor": "blue"
     },
     {
       "from": "Mike R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Chúng tôi nên mang gì vào thứ Bảy?",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "FishingBooker",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Tóm tắt đặt chỗ hàng tuần của bạn",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     },
     {
       "from": "West Marine",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "Khuyến mãi mùa xuân — Giảm 20% dụng cụ câu",
+      "pill": "Khuyến mãi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: Còn chỗ ngày 12 tháng 7 cho 4 người không?",
+    "originalFrom": "Sarah M. đã viết:",
+    "originalText": "Chào! Chúng tôi là nhóm 4 người muốn đặt chuyến câu cá ngày 12 tháng 7. Bạn còn chỗ không? Giá cho cả ngày là bao nhiêu?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "Chào Sarah!",
+      "Ngày 12 tháng 7 còn chỗ cho 4 người. Chuyến đi cả ngày giá 500 đô la, kéo dài 8 tiếng bắt đầu từ 6 giờ sáng tại bến tàu.",
+      "Bao gồm tất cả dụng cụ, mồi và giấy phép câu cá — bạn chỉ cần mang kem chống nắng và thùng giữ lạnh.",
+      "Bạn muốn tôi đặt chỗ không?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "Ngày 12 tháng 7 còn chỗ cho 4 người. Chuyến đi cả ngày giá 500 đô la",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "Biết giá cả & tình trạng chỗ trống của bạn",
+      "Soạn thảo theo giọng điệu của bạn",
+      "Tự động bao gồm chi tiết chuyến đi",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Ngày nào còn chỗ tuần tới?",
+    "agentResponse": "Dựa trên lịch của bạn, còn chỗ vào thứ Ba, thứ Năm và thứ Bảy tuần tới. Thứ Hai và thứ Tư đã đầy (2 chuyến mỗi ngày). Bạn muốn tôi soạn trả lời cho các yêu cầu đang chờ với những ngày này không?",
+    "followUp": "Soạn trả lời Sarah với thông tin còn chỗ ngày 12 tháng 7",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho Sarah xác nhận ngày 12 tháng 7 cho 4 khách với giá 500 đô la. Bao gồm chi tiết chuyến đi và địa điểm gặp. Sẵn sàng để bạn xem lại và gửi."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Được yêu thích bởi các thuyền trưởng",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "Thuyền trưởng Mike D.",
+      "title": "Thuyền trưởng thuê tàu ngoài khơi, FL",
+      "quote": "Mùa cao điểm tôi mất 2-3 lượt đặt chỗ mỗi tuần chỉ vì không thể trả lời nhanh từ trên tàu. Duet soạn trả lời với giá và chi tiết chuyến đi của tôi — tôi chỉ cần nhấn gửi giữa các lần câu cá.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "title": "Doanh nghiệp thuê tàu gia đình, OR",
+      "quote": "Chúng tôi có hai tàu và lượng email mùa hè rất lớn. Duet phân loại yêu cầu đặt chỗ ra khỏi các email khác và soạn trả lời nghe y hệt chúng tôi. Thay đổi hoàn toàn cách làm việc.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "title": "Hướng dẫn câu cá ven bờ, TX",
+      "quote": "Tôi từng mất một giờ mỗi tối trả lời cùng một câu hỏi về tình trạng chỗ trống. Giờ Duet xử lý hết. Thời gian phản hồi giảm từ giờ xuống phút và tôi chưa mất lượt đặt chỗ nào kể từ đó.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "title": "Quản lý văn phòng thuê tàu, HI",
+      "quote": "Quản lý email cho 4 thuyền trưởng là công việc toàn thời gian. Duet phân loại mọi thứ và soạn trả lời với đúng tàu, đúng giá, đúng thuyền trưởng. Giống như có thêm một tôi nữa.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Andrea S.",
-      "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "title": "Thuê tàu biển sâu, NC",
+      "quote": "Tôi nghi ngờ AI có thể xử lý email thuê tàu câu cá. Nhưng nó học được loại chuyến đi, những gì bao gồm, thậm chí cả chính sách hủy. Khách hàng không thể phân biệt được.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành mùa cao điểm trên biển,\nkhông phải trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Duet có xử lý email đặt chỗ và tình trạng chỗ trống không?",
+      "answer": "Chắc chắn rồi. Duet học loại chuyến đi, giá cả, tình trạng chỗ trống và chính sách của bạn. Khi có yêu cầu đặt chỗ, nó soạn trả lời đầy đủ với chi tiết chính xác — giá, những gì bao gồm, địa điểm gặp, những thứ cần mang theo. Bạn xem lại và nhấn gửi."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Tôi ở trên biển cả ngày. Tôi có thể dùng Duet trên điện thoại không?",
+      "answer": "Có. Duet hoạt động với Gmail và Outlook, nên dùng được ở bất cứ đâu bạn dùng email — kể cả điện thoại. Bản nháp hiện tự động. Giữa các lần câu cá, bạn xem lại và gửi chỉ với một lần chạm. Hầu hết thuyền trưởng nói rằng nó giúp họ tiết kiệm 1-2 giờ mỗi ngày trong mùa cao điểm."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "Với giá 500 đô la mỗi chuyến, một lượt đặt chỗ được giữ lại đủ trả tiền hơn một năm dùng Pro."
 }

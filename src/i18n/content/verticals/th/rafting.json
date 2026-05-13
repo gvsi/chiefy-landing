@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mail สำหรับผู้ให้บริการล่องแก่งและคายัก | ผู้ช่วยอีเมล AI",
+  "metaDescription": "Duet Mail ช่วยไกด์ล่องแก่งและผู้ให้บริการคายักตอบกลับคำถามเกี่ยวกับทริปได้ทันที — แม้อยู่กลางสายน้ำ ด้วยอีเมลร่างอัตโนมัติที่ใส่รายละเอียดทริป ราคา และโทนเสียงของคุณ",
+  "heroBadge": "ได้รับความไว้วางใจจากไกด์แม่น้ำกว่า 200 ราย",
+  "heroHeadline": "ผู้ช่วยอีเมลของคุณในขณะที่คุณอยู่บนแม่น้ำ",
+  "heroSubline": "Duet เรียนรู้ประเภททริป ราคา และรายการอุปกรณ์ของคุณ — จากนั้นร่างคำตอบสำหรับคำถามเกี่ยวกับการจอง เพื่อให้ลูกค้าได้รับคำตอบในขณะที่คุณกำลังล่องแก่งอยู่",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "ทริปล่องแพเต็มวันสำหรับ 6 คนในวันที่ 9 ส.ค.?",
+      "preview": "สวัสดีค่ะ! เราเป็นครอบครัว 6 คนที่จะมาเที่ยวในเดือนสิงหาคมและอยากจองทริปล่องแก่งเต็มวันในวันที่ 9 ราคา/คนเท่าไหร่ และต้องมีประสบการณ์ระดับไหนคะ?",
+      "pill": "ต้องตอบ",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "ทริปหลายวัน — มีอะไรรวมบ้าง?",
+      "preview": "เราเป็นกลุ่ม 4 คนที่กำลังดูทริปผจญภัย 3 วันของคุณ อาหาร อุปกรณ์ตั้งแคมป์ และถุงกันน้ำรวมอยู่ด้วยไหม หรือเราต้องเตรียมเอง...",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "Rachel & Mark S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "เด็กอายุ 8 และ 10 ขวบ — ปลอดภัยพอไหม?",
+      "preview": "เราอยากลองทริปครึ่งวัน แต่ลูกๆ ของเราอายุ 8 และ 10 ขวบ ช่วง Class II เหมาะกับอายุของพวกเขาไหม? ขั้นต่ำคือ...",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "รีวิวใหม่สำหรับรายการของคุณ",
+      "preview": "นักท่องเที่ยวเพิ่งรีวิวธุรกิจของคุณ ดูว่าพวกเขาพูดว่าอย่างไรและตอบกลับ...",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "เฮ้ Jennifer! วันที่ 9 สิงหาคมยังว่างสำหรับ 6 คน ทริปเต็มวันราคา $150/คน และใช้เวลาประมาณ 7 ชั่วโมง — เรานัดพบกันที่จุดลงแพเวลา 8:30 AM ไม่ต้องมีประสบการณ์ ทีมไกด์ของเราดูแลทุกอย่าง PFDs หมวกกันกระแทก ถุงกันน้ำ และอาหารกลางวันริมแม่น้ำรวมอยู่หมดแล้ว แค่เตรียมครีมกันแดด รองเท้าลุยน้ำ และเสื้อผ้าที่ไม่เสียดายถ้าเปียก อยากให้ฉันจองที่ให้ไหม?",
   "math": {
     "pricePerBooking": "$150",
     "bookingUnit": "person",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "การจองที่ได้คืนมาเพียงสองครั้งก็จ่ายค่า Duet ได้ครบทั้งปี"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet ติดแท็กอีเมลทุกฉบับโดยอัตโนมัติ เพื่อให้คำถามเกี่ยวกับทริปขึ้นมาก่อน คำถามเรื่องอุปกรณ์ตามมา และข้อความโปรโมชันหายไป ไม่มีพลาดการจองแบบกลุ่มที่ถูกฝังอยู่ใต้การแจ้งเตือนจาก TripAdvisor อีกต่อไป",
+  "draftSubtitle": "Duet เรียนรู้ประเภททริป ระดับความยากของแก่ง รายการอุปกรณ์ และนโยบายการยกเลิกของคุณ เมื่อมีคำถามเรื่องการจองเข้ามา ระบบจะร่างคำตอบที่ครบถ้วนพร้อมรายละเอียดที่ลูกค้าต้องการ คุณตรวจสอบแล้วส่งออกไป",
+  "agentSubtitle": "\"มีที่ว่างสำหรับทริปเต็มวันของวันเสาร์ไหม?\" \"ร่างคำตอบให้ Jennifer พร้อมแจ้งที่ว่าง\" Duet รู้จักกล่องจดหมายและตารางของคุณ — แค่ถาม",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "ทริปล่องแพเต็มวันสำหรับ 6 คนในวันที่ 9 ส.ค.?",
+      "preview": "เราเป็นครอบครัว 6 คนที่จะมาเที่ยวในเดือนสิงหาคมและอยากจอง...",
+      "pill": "ตอบตอนนี้",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "ตอบกลับ: ยืนยันทริปผจญภัย 3 วัน — 15 ส.ค.",
+      "pill": "จองแล้ว",
       "pillColor": "blue"
     },
     {
       "from": "Rachel S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "เด็กอายุ 8 และ 10 ขวบเหมาะกับ Class II ไหม?",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "The Flybook",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "สรุปการจองรายสัปดาห์ของคุณ",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     },
     {
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "ลดราคาปลายฤดูกาล — ชุดดรายสูทลด 30%",
+      "pill": "โปรโมชัน",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "ตอบกลับ: ทริปล่องแพเต็มวันสำหรับ 6 คนในวันที่ 9 ส.ค.?",
+    "originalFrom": "Jennifer W. เขียนว่า:",
+    "originalText": "สวัสดีค่ะ! เราเป็นครอบครัว 6 คนที่จะมาเที่ยวในเดือนสิงหาคมและอยากจองทริปล่องแก่งเต็มวันในวันที่ 9 ราคา/คนเท่าไหร่ และต้องมีประสบการณ์ระดับไหนคะ?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "เฮ้ Jennifer!",
+      "วันที่ 9 สิงหาคมยังว่างสำหรับ 6 คน ทริปเต็มวันราคา $150/คน และใช้เวลาประมาณ 7 ชั่วโมง — เรานัดเจอกันที่จุดลงแพเวลา 8:30 AM",
+      "ไม่ต้องมีประสบการณ์ PFDs หมวกกันกระแทก ถุงกันน้ำ และอาหารกลางวันริมแม่น้ำรวมอยู่หมดแล้ว — แค่เตรียมครีมกันแดดและรองเท้าลุยน้ำมา",
+      "อยากให้ฉันจองที่ให้ไหม?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "วันที่ 9 สิงหาคมยังว่างสำหรับ 6 คน ทริปเต็มวันราคา $150/คน",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "รู้ประเภททริปและราคา",
+      "ร่างด้วยโทนเสียงของคุณ",
+      "รวมรายการอุปกรณ์ให้อัตโนมัติ",
+      "เรียนรู้ไปเรื่อยๆ"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "มีที่ว่างสำหรับทริปเต็มวันของวันเสาร์ไหม?",
+    "agentResponse": "ทริปเต็มวันของวันเสาร์เหลือ 4 ที่จาก 10 ที่ คุณยังมีทริปครึ่งวันช่วงเช้าที่เต็มแล้ว และทริปหลายวันในวันอาทิตย์ที่เหลือ 2 ที่ ต้องการให้ฉันร่างคำตอบสำหรับคำถามที่รออยู่พร้อมแจ้งที่ว่างของวันเสาร์ไหม?",
+    "followUp": "ร่างคำตอบให้ Jennifer พร้อมแจ้งที่ว่างวันที่ 9 ส.ค.",
+    "followUpResponse": "เสร็จแล้ว! ฉันร่างคำตอบถึง Jennifer เพื่อยืนยันวันที่ 9 สิงหาคมสำหรับผู้เข้าร่วม 6 คน ราคา $150/คน โดยใส่รายละเอียดทริปมาตรฐาน รายการอุปกรณ์ และจุดนัดพบของคุณไว้ครบ พร้อมตรวจทานและส่งได้เลย"
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "เป็นที่ชื่นชอบของไกด์แม่น้ำและผู้ให้บริการ",
   "testimonials": [
     {
       "name": "Ryan M.",
-      "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "title": "ผู้ให้บริการล่องแก่ง, CO",
+      "quote": "ช่วงพีคซีซันผมอยู่บนแม่น้ำสัปดาห์ละ 6 วัน พอกลับมาตอบอีเมล ลูกค้าครึ่งหนึ่งก็จองกับคนอื่นไปแล้ว ตอนนี้ Duet ร่างคำตอบพร้อมรายละเอียดทริปและราคาให้ระหว่างที่ผมอยู่ที่จุดลงแพ",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "title": "ทัวร์คายัก & SUP, OR",
+      "quote": "ลูกค้าทุกคนถามคำถามเดิม 5 ข้อ — ราคา ต้องเตรียมอะไร ระดับทักษะ ขนาดกลุ่ม นโยบายการยกเลิก Duet เรียนรู้ทั้งหมดได้ภายในสัปดาห์แรก จากที่ต้องใช้อีเมลหนึ่งชั่วโมงทุกคืน ตอนนี้เหลือแค่ห้านาทีในการตรวจร่าง",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "title": "ไกด์ทริปผจญภัยหลายวัน, AK",
+      "quote": "ผมพาทริป 5 วันโดยไม่มีสัญญาณมือถือเลย ก่อนมี Duet คำถามทุกฉบับจะค้างอยู่จนกว่าจะกลับเข้าตัวเมือง ตอนนี้ลูกค้าได้รับคำตอบที่ละเอียดภายในไม่กี่นาที และผมค่อยยืนยันเมื่อออกจากแม่น้ำ",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "title": "ผู้จัดการสำนักงาน River Adventures, WV",
+      "quote": "ฉันดูแลการจองให้ไกด์สามคน ครอบคลุมทริปสี่ประเภท Duet จัดหมวดหมู่อีเมลทุกฉบับตามความเร่งด่วน และร่างคำตอบด้วยทริปที่ถูกต้อง ราคาที่ถูกต้อง รายการอุปกรณ์ที่ถูกต้อง มันเหมือนการโคลนตัวเอง",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sophia K.",
       "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "quote": "ตอนแรกเรากังวลว่า AI จะรับมืออีเมลเฉพาะทางของการล่องแก่งไม่ได้ แต่ระบบกลับจับรายละเอียดคำอธิบาย Class III เทียบกับ Class IV ข้อกำหนดอายุขั้นต่ำ แม้แต่นโยบาย kayak แบบ wet-exit ลูกค้าคิดว่ากำลังคุยกับเราอยู่",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ใช้เวลาช่วงซัมเมอร์อยู่บนแม่น้ำ,\nไม่ใช่ไล่ตามอีเมล",
+  "ctaSubline": "เริ่มทดลองใช้ฟรี เชื่อมต่อกล่องจดหมายของคุณใน 30 วินาที",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "Duet จัดการใบเสนอราคาทริปแบบกำหนดเองและคำถามเกี่ยวกับทริปหลายวันได้ไหม?",
+      "answer": "ได้ Duet เรียนรู้รายการทริปทั้งหมดของคุณ — ทริปครึ่งวัน ล่องแก่งเต็มวัน ทริปผจญภัยหลายวัน — พร้อมราคา สิ่งที่รวมอยู่ ข้อกำหนดอายุขั้นต่ำ และระดับความยาก เมื่อมีคนถามถึงทริป 3 วันสำหรับ 6 คน ระบบจะร่างคำตอบที่ครบถ้วนพร้อมรายละเอียดที่ถูกต้องให้ คุณตรวจสอบ ปรับถ้าจำเป็น แล้วส่งออกไป"
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "ฉันออกพื้นที่ไม่มีสัญญาณในทริปหลายวัน Duet ยังใช้งานได้ไหม?",
+      "answer": "นั่นคือปัญหาที่ Duet ถูกสร้างมาเพื่อแก้ ระหว่างที่คุณอยู่บนแม่น้ำโดยไม่มีสัญญาณ Duet จะร่างคำตอบให้ทุกคำถามที่เข้ามา พอกลับมาอยู่ในพื้นที่สัญญาณ ร่างคำตอบจะพร้อมรออยู่ — แค่ตรวจทานแล้วส่งต่อ ไกด์ส่วนใหญ่บอกเราว่ามันช่วยล้างงานค้างที่เคยเกิดขึ้นหลังจบทริปหลายวันได้"
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "ที่ราคา $150/คน การจองที่ได้คืนมาเพียงสองครั้งก็ครอบคลุมค่า Pro ทั้งปี"
 }

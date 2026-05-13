@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ surf instructors",
-  "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail cho Trường Dạy Lướt Sóng & Nhà Điều Hành Ván Chèo | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp các huấn luyện viên lướt sóng và nhà điều hành ván chèo trả lời email đặt chỗ ngay lập tức — ngay cả khi đang dạy học. Trả lời được AI soạn thảo với loại bài học, giá cả và phong cách của bạn.",
+  "heroBadge": "Được hơn 300 huấn luyện viên lướt sóng tin dùng",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang dạy trên mặt nước",
+  "heroSubline": "Duet học loại bài học, giá cả và điều kiện của bạn — rồi soạn thảo trả lời email để bạn không bao giờ mất khách đặt chỗ vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
-      "pill": "To Respond",
+      "subject": "Bài học nhóm cho 6 người vào thứ Bảy?",
+      "preview": "Chào! Tôi có nhóm 6 người bạn đến chơi cuối tuần. Bạn có chỗ cho bài học lướt sóng nhóm vào sáng thứ Bảy không? Giá bao nhiêu?",
+      "pill": "Cần Trả Lời",
       "pillColor": "red"
     },
     {
       "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "School field trip — 25 students, May 15",
-      "preview": "We're looking to book a surf day for our 5th grade class of 25 students. Do you offer school group rates? We'd need wetsuits and boards provided...",
-      "pill": "Booking",
+      "subject": "Chuyến đi dã ngoại trường — 25 học sinh, 15 tháng 5",
+      "preview": "Chúng tôi muốn đặt một ngày lướt sóng cho lớp 5 với 25 học sinh. Bạn có giá nhóm cho trường học không? Chúng tôi cần cung cấp đồ lặn và ván...",
+      "pill": "Đang Đặt",
       "pillColor": "blue"
     },
     {
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Paddleboard rental + delivery?",
-      "preview": "Do you rent SUP boards by the hour? We're staying at the beach house on Elm St — any chance you deliver? What's included...",
-      "pill": "Question",
+      "subject": "Thuê ván chèo + giao hàng?",
+      "preview": "Bạn có cho thuê ván SUP theo giờ không? Chúng tôi ở nhà biển trên đường Elm — có thể giao hàng không? Bao gồm những gì...",
+      "pill": "Câu Hỏi",
       "pillColor": "amber"
     },
     {
       "from": "Nicole B.",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Conditions for tomorrow morning?",
-      "preview": "We're booked for 9 AM tomorrow but the forecast looks windy. Will the lesson still go ahead? Should we bring anything extra...",
-      "pill": "FYI",
+      "subject": "Điều kiện cho sáng mai?",
+      "preview": "Chúng tôi đã đặt lúc 9 giờ sáng mai nhưng dự báo có gió. Bài học có diễn ra không? Chúng tôi nên mang gì thêm...",
+      "pill": "Thông Tin",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+  "autodraft": "Chào Rachel! Sáng thứ Bảy còn chỗ cho 6 người. Bài học nhóm kéo dài 2 tiếng bắt đầu từ 9 giờ sáng. Bao gồm ván, đồ lặn và áo chống nắng — chỉ cần mang kem chống nắng và khăn tắm. Giá 90 đô la mỗi người. Bạn muốn tôi giữ chỗ cho nhóm bạn không?",
   "math": {
-    "pricePerBooking": "$90",
-    "bookingUnit": "lesson",
+    "pricePerBooking": "90 đô la",
+    "bookingUnit": "bài học",
     "lostPerMonth": "8",
-    "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "monthlyLoss": "720 đô la",
+    "punchline": "Hai lượt đặt chỗ được giữ lại đủ trả cho một năm dùng Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy đặt chỗ bài học trước, câu hỏi sau, và không bao giờ bị làm phiền bởi tin nhảm. Không còn bỏ lỡ yêu cầu nhóm trường bị chôn dưới thông báo Yelp.",
+  "draftSubtitle": "Duet học loại bài học, giá nhóm và phong cách của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với tình trạng chỗ, những gì bao gồm và cần mang theo. Bạn xem lại rồi gửi.",
+  "agentSubtitle": "\"Có đặt chỗ nhóm nào trong tuần này không?\" \"Soạn trả lời cho trường với tình trạng chỗ.\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "I have a group of 6 friends visiting for the weekend...",
-      "pill": "Respond Now",
+      "subject": "Bài học nhóm cho 6 người vào thứ Bảy?",
+      "preview": "Tôi có nhóm 6 người bạn đến chơi cuối tuần...",
+      "pill": "Trả Lời Ngay",
       "pillColor": "red"
     },
     {
       "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Field trip confirmed — May 15, 25 students",
-      "pill": "Booked",
+      "subject": "Re: Chuyến đi dã ngoại đã xác nhận — 15 tháng 5, 25 học sinh",
+      "pill": "Đã Đặt",
       "pillColor": "blue"
     },
     {
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Do you rent paddleboards by the hour?",
-      "pill": "Question",
+      "subject": "Bạn có cho thuê ván chèo theo giờ không?",
+      "pill": "Câu Hỏi",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "pill": "FYI",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "pill": "Thông Tin",
       "pillColor": "lavender"
     },
     {
       "from": "Surf Warehouse",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 30% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Khuyến mãi mùa hè — Giảm 30% đồ lặn",
+      "pill": "Khuyến Mãi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group lesson for 6 on Saturday?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
+    "subject": "Re: Bài học nhóm cho 6 người vào thứ Bảy?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào! Tôi có nhóm 6 người bạn đến chơi cuối tuần. Bạn có chỗ cho bài học lướt sóng nhóm vào sáng thứ Bảy không? Giá bao nhiêu?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "Chào Rachel!",
+      "Sáng thứ Bảy còn chỗ cho 6 người. Bài học nhóm giá 90 đô la/người và kéo dài 2 tiếng bắt đầu từ 9 giờ sáng tại bãi biển chính.",
+      "Bao gồm ván, đồ lặn và áo chống nắng — chỉ cần mang kem chống nắng, nước uống và khăn tắm. Không cần kinh nghiệm.",
+      "Bạn muốn tôi giữ chỗ cho nhóm bạn không?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "Sáng thứ Bảy còn chỗ cho 6 người. Bài học nhóm giá 90 đô la/người",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "Biết loại bài học & giá của bạn",
+      "Soạn thảo theo phong cách của bạn",
+      "Tự động bao gồm những gì được cung cấp",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "Any group bookings coming up this week?",
-    "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
-    "followUp": "Draft a reply to the school confirming the field trip details",
-    "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
+    "userMessage": "Có đặt chỗ nhóm nào trong tuần này không?",
+    "agentResponse": "Bạn có hai đặt chỗ nhóm trong tuần này: Rachel T. vào thứ Bảy (6 người, 9 giờ sáng) và Westside Elementary vào thứ Tư (25 học sinh, chuyến đi dã ngoại lúc 10 giờ). Bạn cũng có một yêu cầu đang chờ từ James P. về thuê ván chèo. Bạn muốn tôi soạn trả lời không?",
+    "followUp": "Soạn trả lời cho trường xác nhận chi tiết chuyến đi dã ngoại",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho Westside Elementary xác nhận ngày 15 tháng 5 cho 25 học sinh lúc 10 giờ sáng. Bao gồm giá nhóm trường, những gì được cung cấp, yêu cầu giấy phép, và chính sách hủy. Sẵn sàng để bạn xem lại và gửi."
   },
-  "testimonialsTitle": "Loved by surf instructors",
+  "testimonialsTitle": "Được các huấn luyện viên lướt sóng yêu thích",
   "testimonials": [
     {
-      "name": "Coach Mike T.",
-      "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
+      "name": "Huấn luyện viên Mike T.",
+      "title": "Chủ Trường Lướt Sóng, CA",
+      "quote": "Tôi dạy trên nước 6 tiếng mỗi ngày. Trước khi tôi kiểm tra email, một nửa lượt đặt chỗ đã mất vào tay người khác. Giờ Duet soạn trả lời với giá và tình trạng chỗ — tôi chỉ cần xem lại giữa các buổi học.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
-      "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "title": "Dạy & Cho Thuê Ván Chèo, HI",
+      "quote": "Chúng tôi quản lý bài học và cho thuê ván trong cùng một hộp thư. Duet nhận ra ngay sự khác biệt — câu hỏi thuê được trả lời thuê, yêu cầu bài học được trả lời chi tiết. Giống như có một quầy lễ tân.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
-      "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "title": "Huấn luyện viên lướt sóng, FL",
+      "quote": "Đặt chỗ nhóm trường trước đây mất 10 email qua lại. Giờ Duet soạn trả lời đầu tiên với giá nhóm, những gì bao gồm và giấy phép. Giảm một nửa chuỗi email.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
-      "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
+      "title": "Tour & Dạy SUP, OR",
+      "quote": "Mùa cao điểm làm tôi mệt mỏi — 30 email mỗi ngày về điều kiện, giá, cần mang gì. Cùng 5 câu hỏi lặp đi lặp lại. Duet xử lý hết và nghe y hệt tôi.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "title": "Giám đốc Trại Lướt Sóng Trẻ Em, SC",
+      "quote": "Phụ huynh gửi email dài nhất. Ngày trại, dị ứng, trình độ, giờ đón. Duet soạn trả lời chi tiết bao quát mọi thứ để tôi không phải gõ đoạn văn lúc 10 giờ tối sau một ngày dài trên bãi biển.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành mùa hè trên sóng,\nkhông phải trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle different lesson types and equipment rentals?",
-      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "Duet có xử lý các loại bài học và cho thuê thiết bị khác nhau không?",
+      "answer": "Có. Duet học tất cả dịch vụ của bạn — bài học riêng, bài học nhóm, trại trẻ em, cho thuê ván, tour SUP. Khi có yêu cầu, nó soạn trả lời với giá đúng, thời lượng, những gì bao gồm và cần mang theo. Nó biết email nhóm trường cần chi tiết khác với đặt bài học riêng."
     },
     {
-      "question": "What about weather and conditions questions?",
-      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "question": "Còn các câu hỏi về thời tiết và điều kiện thì sao?",
+      "answer": "Duet học cách bạn xử lý email về điều kiện — chính sách hủy, đổi lịch và điều kiện bạn dạy. Khi ai đó hỏi liệu bài học có diễn ra không, Duet soạn trả lời phù hợp với phong cách và chính sách của bạn. Bạn xem lại và gửi trong vài giây."
     }
   ],
-  "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
+  "pricingNote": "Với 90 đô la/bài học, hai lượt đặt chỗ được giữ lại đủ trả hơn một năm dùng Pro."
 }

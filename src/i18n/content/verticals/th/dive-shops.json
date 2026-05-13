@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail สำหรับร้านดำน้ำ | ผู้ช่วยอีเมล AI",
+  "metaDescription": "Duet Mail ช่วยให้เจ้าของร้านดำน้ำและผู้สอน PADI ตอบคำถามเรื่องการรับรอง การจองทริป และอุปกรณ์ได้ทันที — แม้อยู่ใต้น้ำ",
+  "heroBadge": "ได้รับความไว้วางใจจากผู้ประกอบการดำน้ำกว่า 300 ราย",
+  "heroHeadline": "ผู้ช่วยอีเมลของคุณขณะอยู่ใต้น้ำ",
+  "heroSubline": "Duet เรียนรู้แหล่งดำน้ำ ข้อกำหนดการรับรอง ราคา และสไตล์การตอบของคุณ — จากนั้นร่างอีเมลตอบกลับ เพื่อให้คุณไม่พลาดการจองแม้อยู่บนเรือ",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "ใบรับรอง Open Water — มีที่ว่างไหม?",
+      "preview": "สวัสดี! ฉันจะไปช่วงสัปดาห์แรกของเดือนสิงหาคมและอยากได้ใบรับรอง Open Water ใช้เวลากี่วัน และรวมอะไรบ้าง?",
+      "pill": "ต้องตอบ",
       "pillColor": "red"
     },
     {
       "from": "Kevin & Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "กลุ่ม 6 คนสำหรับดำน้ำ 2 ถังวันเสาร์",
+      "preview": "เรามีนักดำน้ำที่มีใบรับรอง 6 คน และอยากจองดำน้ำตอนเช้าแบบ 2 ถังในวันเสาร์นี้ ยังมีที่ว่างไหม? ราคาต่อคนเท่าไร...",
+      "pill": "การจอง",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "เช่า BCD สำหรับสุดสัปดาห์ได้ไหม?",
+      "preview": "เฮ้ ฉันมีใบรับรองแต่เดินทางแบบเบา ๆ คุณให้เช่า BCD และเรกูเลเตอร์ไหม? ฉันต้องใช้ตั้งแต่วันศุกร์ถึงวันอาทิตย์...",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "PADI eLearning",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
-      "pill": "FYI",
+      "subject": "ส่งต่อนักเรียน: Rachel Torres",
+      "preview": "นักเรียนคนหนึ่งเรียน eLearning เสร็จแล้ว และเลือกศูนย์ดำน้ำของคุณสำหรับการฝึกในน้ำตื้นและในทะเล...",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "เฮ้ Rachel! ยินดีมากที่จะช่วยให้คุณได้รับใบรับรอง คอร์ส Open Water ใช้เวลา 3 วัน — 1 วันสำหรับเซสชันในสระ และ 2 วันสำหรับการดำน้ำในทะเล อุปกรณ์ทั้งหมดรวมอยู่แล้ว เดือนสิงหาคมยังว่างอยู่ สนใจให้ฉันจองที่สำหรับสัปดาห์แรกไหม?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
-    "lostPerMonth": "3 trips (6 divers each)",
+    "bookingUnit": "ดำน้ำ",
+    "lostPerMonth": "3 ทริป (ทริปละ 6 คน)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "ทริปดำน้ำกลุ่มที่ช่วยรักษาไว้ได้เพียงครั้งเดียว ก็จ่ายค่า Duet ได้ทั้งปี"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet ติดแท็กอีเมลทุกฉบับให้อัตโนมัติ เพื่อให้คุณเห็นคำถามเรื่องการรับรองและการจองดำน้ำก่อน ตามด้วยคำถามเรื่องอุปกรณ์ และการแจ้งเตือนจาก PADI เมื่อคุณพร้อม ไม่ต้องปล่อยให้การจองกลุ่มหายไปอยู่ใต้จดหมายข่าวอุปกรณ์อีกต่อไป",
+  "draftSubtitle": "Duet เรียนรู้แหล่งดำน้ำ ข้อกำหนดของใบรับรอง และราคา เมื่อมีคำถามเรื่องการจองเข้ามา ระบบจะร่างคำตอบครบถ้วนพร้อมรายละเอียดทริป สิ่งที่รวมอยู่ และสิ่งที่ต้องเตรียม คุณตรวจทานแล้วส่ง",
+  "agentSubtitle": "\"วันเสาร์มีนักดำน้ำกี่คนที่จองไว้แล้ว?\" \"ร่างคำตอบถึง Rachel เรื่องความพร้อมของคอร์ส Open Water\" Duet รู้จักกล่องจดหมายและตารางของคุณ — แค่ถามได้เลย",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "ใบรับรอง Open Water — มีที่ว่างไหม?",
+      "preview": "ฉันจะไปช่วงสัปดาห์แรกของเดือนสิงหาคมและอยากได้ใบรับรอง...",
+      "pill": "ตอบตอนนี้",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Re: ยืนยันการจองแล้ว — ดำน้ำ 2 ถังวันเสาร์",
+      "pill": "จองแล้ว",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "เช่า BCD และเรกูเลเตอร์สุดสัปดาห์นี้ได้ไหม?",
+      "pill": "คำถาม",
       "pillColor": "amber"
     },
     {
       "from": "DiveBuddy",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
-      "pill": "FYI",
+      "subject": "รีวิวใหม่บนประกาศของคุณ",
+      "pill": "แจ้งให้ทราบ",
       "pillColor": "lavender"
     },
     {
       "from": "Dive Gear Express",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "ลดราคาซัมเมอร์ — ลด 25% สำหรับเว็ตสูท",
+      "pill": "โปรโมชัน",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
+    "subject": "Re: ใบรับรอง Open Water — มีที่ว่างไหม?",
     "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "originalText": "สวัสดี! ฉันจะไปช่วงสัปดาห์แรกของเดือนสิงหาคมและอยากได้ใบรับรอง Open Water ใช้เวลากี่วัน และรวมอะไรบ้าง?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "เฮ้ Rachel!",
+      "ยินดีมากที่จะช่วยให้คุณได้รับใบรับรอง! คอร์ส PADI Open Water ใช้เวลา 3 วัน — 1 เซสชันในสระ และดำน้ำในทะเล 2 ครั้งที่แนวปะการังของเรา อุปกรณ์ทั้งหมดรวมอยู่แล้ว",
+      "ตอนนี้เดือนสิงหาคมยังว่างอยู่ นักเรียนส่วนใหญ่มักเริ่มวันจันทร์เพื่อให้จบภายในวันพุธ",
+      "สนใจให้ฉันจองที่ให้ไหม?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "คอร์ส PADI Open Water ใช้เวลา 3 วัน",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "รู้จักคอร์สและราคาในระบบของคุณ",
+      "ร่างข้อความในสไตล์ของคุณ",
+      "รวมข้อกำหนดของใบรับรองให้อัตโนมัติ",
+      "เรียนรู้ไปเรื่อย ๆ"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "วันเสาร์มีนักดำน้ำกี่คนที่จองไว้แล้ว?",
+    "agentResponse": "จากกล่องจดหมายของคุณ ตอนนี้มีนักดำน้ำยืนยันแล้ว 8 คนสำหรับดำน้ำเช้าแบบ 2 ถังในวันเสาร์ — กลุ่มของ Kevin 6 คน บวกกับการจองรายบุคคลอีก 2 รายการ คุณยังมีคำถามรออยู่จาก Jason เรื่องการเช่าอุปกรณ์สำหรับทริปเดียวกัน ต้องการให้ฉันร่างคำตอบไหม?",
+    "followUp": "ร่างคำตอบถึง Rachel พร้อมรายละเอียดคอร์ส Open Water",
+    "followUpResponse": "เรียบร้อย! ฉันร่างคำตอบถึง Rachel โดยยืนยันคอร์ส PADI Open Water 3 วัน พร้อมรวมการดำน้ำในสระและในทะเลไว้แล้ว มีการระบุความพร้อมในเดือนสิงหาคมและนโยบายมาตรฐานของคุณที่รวมอุปกรณ์ พร้อมให้ตรวจทานและส่งได้เลย"
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "เป็นที่ชื่นชอบของผู้ประกอบการดำน้ำ",
   "testimonials": [
     {
       "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "title": "กัปตันเรือดำน้ำ, FL",
+      "quote": "ผมจัดทริปเรือตั้งแต่วันศุกร์ถึงวันอาทิตย์ และร้านเปิดแค่ไม่กี่ชั่วโมงในวันจันทร์ คำถามเรื่องการรับรองและการสอบถามทริปจะกองพะเนินตอนที่ผมอยู่ใต้น้ำ Duet ร่างคำตอบด้วยราคาของผม แหล่งดำน้ำ และสิ่งที่รวมอยู่ — ผมตรวจระหว่างดำน้ำ",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "title": "ศูนย์ดำน้ำ PADI, HI",
+      "quote": "เรามีทั้งดำน้ำ ทัวร์ดำน้ำตื้น และดูปลาวาฬจากเรือลำเดียวกัน ความหลากหลายของอีเมลเยอะมาก — คำถามเรื่องใบรับรอง การจองกลุ่ม การเช่าอุปกรณ์ เช็กสภาพอากาศ Duet จัดการให้หมดและร่างคำตอบที่รู้ความแตกต่างของแต่ละเรื่อง ช่วยได้มากจริง ๆ",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "title": "บริการดำน้ำซากเรือ, FL",
+      "quote": "ครึ่งหนึ่งของอีเมลผมคือ 'ต้องมีใบรับรองอะไรถึงจะดำน้ำซากเรือได้?' อีกครึ่งคือ 'ต้องมีอุปกรณ์ของตัวเองไหม?' Duet จัดการทั้งสองอย่างแบบอัตโนมัติ เวลาตอบกลับของผมลดจากหลายชั่วโมงเหลือไม่กี่นาที",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "title": "เจ้าของร้านดำน้ำ, CA",
+      "quote": "ช่วงหน้าร้อนเราได้อีเมลวันละ 30+ ฉบับเกี่ยวกับคอร์ส ความพร้อมของทริป และอุปกรณ์ ฉันเสียการจองให้ร้านที่ตอบเร็วกว่า ตอนนี้ Duet ร่างทุกอย่างแล้วฉันก็แค่กดส่งระหว่างคลาส",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "title": "ครูสอนและไกด์ดำน้ำ, NC",
+      "quote": "ตอนเช้าผมสอนคอร์ส ตอนบ่ายพาไดฟ์ ไม่มีเวลาตอบอีเมลจริง ๆ Duet เรียนรู้ตารางคอร์ส ราคาของผม แม้แต่นโยบายยกเลิก ลูกค้าดูไม่ออกเลย",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ใช้เวลาของคุณอยู่ใต้น้ำ\nไม่ใช่อยู่กับอีเมลกองเต็มกล่อง",
+  "ctaSubline": "เริ่มทดลองใช้ฟรี เชื่อมต่อกล่องจดหมายของคุณภายใน 30 วินาที",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Duet เข้าใจระดับการรับรองและข้อกำหนดของคอร์สไหม?",
+      "answer": "ได้ Duet เรียนรู้คอร์สเฉพาะของคุณ — Open Water, Advanced, Rescue, Divemaster — พร้อมเงื่อนไขเบื้องต้น ระยะเวลา ราคา และสิ่งที่รวมอยู่ เมื่อมีคนถามเรื่องการรับรอง Duet จะร่างคำตอบพร้อมรายละเอียดคอร์ส ตารางเวลา และขั้นตอนต่อไปที่ถูกต้อง คุณตรวจทานแล้วส่ง"
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "ผมอยู่บนเรือหรือใต้น้ำทั้งวัน ใช้ Duet จากโทรศัพท์ได้ไหม?",
+      "answer": "ได้ Duet ใช้งานร่วมกับ Gmail และ Outlook ได้ ดังนั้นจึงใช้ได้ทุกที่ที่อีเมลของคุณใช้งานได้ — รวมถึงบนโทรศัพท์ด้วย ฉบับร่างจะปรากฏในกล่องจดหมายของคุณโดยอัตโนมัติ ระหว่างดำน้ำหรือเมื่อกลับถึงท่า คุณตรวจทานแล้วส่งด้วยการแตะครั้งเดียว ผู้ประกอบการดำน้ำส่วนใหญ่บอกเราว่ามันช่วยประหยัดเวลาอีเมลได้ 1-2 ชั่วโมงต่อวันในช่วงพีคซีซัน"
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "ที่ราคา $150/ดำน้ำ กับกลุ่ม 6 คน ทริปที่ช่วยรักษาไว้ได้เพียงครั้งเดียวก็จ่ายค่า Pro ได้เกิน 1 ปี"
 }

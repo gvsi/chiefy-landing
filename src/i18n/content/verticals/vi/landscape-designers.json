@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ landscape designers",
-  "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail cho Nhà Thiết Kế Cảnh Quan | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp các nhà thiết kế cảnh quan phản hồi email khách hàng ngay lập tức — ngay cả khi đang ở hiện trường. Trả lời được soạn thảo bằng AI với chi tiết dự án, giá cả và phong cách của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 300 nhà thiết kế cảnh quan",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang ở hiện trường",
+  "heroSubline": "Duet học các chi tiết dự án, bảng cây trồng, giá cả và quy trình của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
-      "pill": "To Respond",
+      "subject": "Thiết kế lại sân sau — tư vấn miễn phí?",
+      "preview": "Chào bạn! Chúng tôi vừa mua một ngôi nhà ở Westlake và sân sau hoàn toàn trống. Chúng tôi muốn thiết kế lại toàn bộ với cây bản địa và một sân hiên. Bạn có nhận khách mới không?",
+      "pill": "Cần Phản Hồi",
       "pillColor": "red"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "preview": "Hey, we're ready to start trenching on Monday. Can you send over the irrigation layout and head specs so we can order materials this week?",
-      "pill": "Contractor",
+      "subject": "Thông số hệ thống tưới cho dự án Miller?",
+      "preview": "Chào, chúng tôi sẵn sàng bắt đầu đào rãnh vào thứ Hai. Bạn có thể gửi bản bố trí hệ thống tưới và thông số đầu phun để chúng tôi đặt vật liệu trong tuần này không?",
+      "pill": "Nhà Thầu",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Quick question about the plant selections",
-      "preview": "We love the design! Just wondering — can we swap the Japanese maple for something with more fall color? Also, is the lavender deer-resistant?",
-      "pill": "Client",
+      "subject": "Câu hỏi nhanh về lựa chọn cây trồng",
+      "preview": "Chúng tôi rất thích thiết kế! Chỉ thắc mắc — có thể thay cây phong Nhật bằng loại có màu sắc mùa thu hơn không? Ngoài ra, cây oải hương có chống được hươu không?",
+      "pill": "Khách Hàng",
       "pillColor": "blue"
     },
     {
       "from": "Valley View Nursery",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "preview": "Your order of 24 gallon shrubs, 6 specimen trees, and ground cover flats is ready. Pickup available Mon–Sat 7AM–4PM...",
-      "pill": "Supplier",
+      "subject": "Đơn hàng #4821 đã sẵn sàng lấy",
+      "preview": "Đơn hàng của bạn gồm 24 cây bụi 24 gallon, 6 cây mẫu và các khay cây phủ mặt đất đã sẵn sàng. Có thể lấy hàng từ thứ Hai đến thứ Bảy, 7AM–4PM...",
+      "pill": "Nhà Cung Cấp",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+  "autodraft": "Chào Rachel! Tôi rất muốn giúp bạn với sân sau. Hiện tôi đang đặt lịch tư vấn ban đầu cách 2-3 tuần. Buổi gặp đầu tiên là đánh giá tại chỗ trong 90 phút — tôi sẽ đi quanh khuôn viên, đo đạc và thảo luận về ý tưởng của bạn. Sau đó tôi sẽ lập kế hoạch ý tưởng. Bạn muốn tôi đặt lịch cho bạn chứ?",
   "math": {
-    "pricePerBooking": "$8,000",
-    "bookingUnit": "project",
+    "pricePerBooking": "8.000$",
+    "bookingUnit": "dự án",
     "lostPerMonth": "1",
-    "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Duet."
+    "monthlyLoss": "8.000$",
+    "punchline": "Một dự án được giữ lại đủ trả tiền Duet nhiều năm."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu tư vấn mới trước, phê duyệt khách hàng sau, và không bao giờ bị làm phiền bởi các email nhà cung cấp. Không còn bỏ lỡ khách hàng tiềm năng bị chôn dưới các xác nhận đơn hàng vườn ươm.",
+  "draftSubtitle": "Duet học giá cả, quy trình và phong cách của bạn. Khi có yêu cầu tư vấn, nó soạn thảo trả lời đầy đủ với lịch trống, những gì cần biết và bước tiếp theo. Bạn chỉ việc xem lại và gửi.",
+  "agentSubtitle": "\"Dự án Henderson tiến độ thế nào?\" \"Khách nào đang chờ phê duyệt kế hoạch?\" Duet biết hộp thư và dự án của bạn — cứ hỏi thôi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "We just bought a home and the backyard is a blank slate...",
-      "pill": "New Inquiry",
+      "subject": "Thiết kế lại sân sau — tư vấn miễn phí?",
+      "preview": "Chúng tôi vừa mua nhà và sân sau hoàn toàn trống...",
+      "pill": "Yêu Cầu Mới",
       "pillColor": "red"
     },
     {
       "from": "Jennifer L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Re: Final design — we're ready to approve!",
-      "pill": "Client Approval",
+      "subject": "Re: Thiết kế cuối cùng — chúng tôi sẵn sàng phê duyệt!",
+      "pill": "Phê Duyệt Khách Hàng",
       "pillColor": "blue"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "pill": "Contractor",
+      "subject": "Thông số hệ thống tưới cho dự án Miller?",
+      "pill": "Nhà Thầu",
       "pillColor": "amber"
     },
     {
       "from": "Valley View Nursery",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "pill": "Supplier",
+      "subject": "Đơn hàng #4821 đã sẵn sàng lấy",
+      "pill": "Nhà Cung Cấp",
       "pillColor": "lavender"
     },
     {
       "from": "QuickBooks",
       "avatarLetter": "Q",
       "avatarColor": "lavender",
-      "subject": "Invoice #1047 viewed by client",
-      "pill": "Invoice",
+      "subject": "Hóa đơn #1047 đã được khách hàng xem",
+      "pill": "Hóa Đơn",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Backyard redesign — free for a consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "subject": "Re: Thiết kế lại sân sau — tư vấn miễn phí?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào bạn! Chúng tôi vừa mua một ngôi nhà ở Westlake và sân sau hoàn toàn trống. Chúng tôi muốn thiết kế lại toàn bộ với cây bản địa và một sân hiên. Bạn có nhận khách mới không?",
     "lines": [
-      "Hi Rachel!",
-      "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
-      "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
-      "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
+      "Chào Rachel!",
+      "Chúc mừng bạn với ngôi nhà mới — sân sau trống thực sự là dự án mơ ước. Tôi hoàn toàn nhận khách mới.",
+      "Quy trình của tôi bắt đầu với buổi tư vấn tại chỗ 90 phút, tôi sẽ đi quanh khuôn viên, đo đạc và thảo luận mục tiêu của bạn. Sau đó tôi phát triển kế hoạch ý tưởng với thiết kế cây trồng, bố trí hardscape và ngân sách theo giai đoạn.",
+      "Tôi có lịch trống trong 2-3 tuần tới. Bạn muốn tôi gửi vài ngày có thể không?"
     ],
-    "highlightText": "My process starts with a 90-minute on-site consultation",
+    "highlightText": "Quy trình của tôi bắt đầu với buổi tư vấn tại chỗ 90 phút",
     "tooltipFeatures": [
-      "Knows your design process & pricing",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "Hiểu quy trình thiết kế & giá cả của bạn",
+      "Soạn thảo theo phong cách của bạn",
+      "Tự động bao gồm chi tiết tư vấn",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "Which clients are still waiting on plan approval?",
-    "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
-    "followUp": "Draft a follow-up to Jennifer about the plan approval",
-    "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
+    "userMessage": "Khách nào vẫn đang chờ phê duyệt kế hoạch?",
+    "agentResponse": "Dựa trên email gần đây, có hai khách đang chờ phê duyệt: Jennifer & Mark L. (thiết kế lại sân sau — đã gửi kế hoạch cuối 4 ngày trước, chưa trả lời) và gia đình Cohen (chuyển đổi sân trước sang cây bản địa — đã gửi kế hoạch sửa đổi tuần trước). Bạn muốn tôi soạn thư nhắc nhẹ cho ai không?",
+    "followUp": "Soạn thư nhắc Jennifer về phê duyệt kế hoạch",
+    "followUpResponse": "Xong! Tôi đã soạn thư hỏi thăm thân thiện với Jennifer xem cô ấy và Mark đã xem kế hoạch cuối chưa, và nhắc rằng bạn có thể gọi nhanh để trao đổi về lựa chọn cây trồng. Bạn sẵn sàng xem lại và gửi chưa?"
   },
-  "testimonialsTitle": "Loved by landscape designers",
+  "testimonialsTitle": "Được các nhà thiết kế cảnh quan yêu thích",
   "testimonials": [
     {
       "name": "Michael S.",
-      "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "title": "Kiến Trúc Sư Cảnh Quan, Austin TX",
+      "quote": "Mùa xuân tôi có mặt tại hiện trường 8 tiếng mỗi ngày để đánh giá và giám sát thi công. Yêu cầu tư vấn mới thường bị bỏ qua vài ngày. Giờ Duet trả lời với quy trình và lịch trống của tôi trong vài phút. Tôi đã đặt được 3 dự án mà chắc chắn đã mất nếu không có Duet.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
-      "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "title": "Nhà Thiết Kế Vườn, Portland OR",
+      "quote": "Phối hợp giữa đội thi công hardscape, lắp đặt tưới và khách hàng tạo ra lượng email khổng lồ. Duet phân loại tất cả và soạn trả lời có chi tiết dự án chính xác. Giống như có một quản lý studio.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "title": "Chủ Studio Thiết Kế Cảnh Quan, Denver CO",
+      "quote": "Trước đây tôi dành mỗi tối sau công việc ngoài hiện trường để trả lời email. Câu hỏi lặp lại — giá, quy trình, tiến độ. Duet xử lý hết. Thời gian phản hồi của tôi giảm từ vài ngày xuống vài phút và tỷ lệ chốt dự án tăng đáng kể.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
-      "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "title": "Nhà Thiết Kế Cảnh Quan Nhà Ở, Scottsdale AZ",
+      "quote": "Khách hàng tôi hỏi rất nhiều về lựa chọn cây trồng và cách chăm sóc. Duet học bảng cây và hướng dẫn chăm sóc của tôi, soạn trả lời mà tôi hầu như không phải chỉnh sửa. Khách hàng nghĩ tôi rất nhanh nhạy.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "title": "Nhà Thiết Kế Cảnh Quan Cây Bản Địa, Raleigh NC",
+      "quote": "Tôi mất khách mới vì không thể trả lời khi đang bận thi công trồng cây. Duet soạn trả lời tư vấn với quy trình, giá cả và những gì cần biết chính xác của tôi. Nó đã tự trả tiền trong tuần đầu tiên.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành thời gian tạo cảnh quan,\nkhông phải để bắt kịp email.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "Duet có xử lý được mùa cao điểm khi yêu cầu tư vấn dồn dập không?",
+      "answer": "Đó chính là lúc Duet phát huy. Trong mùa bận rộn nhất, mỗi yêu cầu mới đều được trả lời nhanh, chi tiết với quy trình, tiến độ và lịch trống của bạn — ngay cả khi bạn ở hiện trường cả ngày. Không còn mất khách mùa xuân vì không thể phản hồi đến 9 giờ tối."
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
-      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "Tôi phối hợp với nhiều đội ngoài trời. Duet có giúp được không?",
+      "answer": "Có. Duet học dự án và các nhà thầu liên quan — hardscape, lắp đặt tưới, đội trồng cây, vườn ươm. Nó phân loại email nhà thầu riêng biệt với email khách hàng, và có thể soạn trả lời với chi tiết dự án như thông số, tiến độ và vật liệu. Bạn kiểm soát được mọi đội mà không bị hỗn loạn hộp thư."
     }
   ],
-  "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
+  "pricingNote": "Với 8.000$/dự án, một khách hàng được giữ lại đủ trả tiền Pro nhiều năm."
 }

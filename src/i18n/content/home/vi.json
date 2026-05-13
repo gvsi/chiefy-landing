@@ -1,265 +1,264 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | Trợ lý Email AI cho Gmail và Outlook",
+    "description": "Trợ lý email AI của Duet Mail tóm tắt email, soạn thảo trả lời và tổ chức hộp thư đến của bạn. Hoạt động với Gmail và Outlook. Tiết kiệm hơn 4 giờ mỗi tuần."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Đã có cho Gmail và Outlook",
+    "headlinePrefix": "Người ",
+    "headlineHighlight": "trợ lý giám đốc",
+    "headlineSuffix": " của bạn cho",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "phân loại email",
+      "soạn thảo trả lời",
+      "lên lịch",
+      "tìm câu trả lời"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "Tiết kiệm hơn 4 giờ mỗi tuần với email",
+    "primaryCta": "Bắt đầu với Gmail",
+    "secondaryCta": "Bắt đầu với Outlook",
+    "trialNote": "Dùng thử miễn phí 14 ngày",
+    "cancelNote": "Hủy bất cứ lúc nào"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Phân loại tức thì",
+      "Trả lời AI"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Hộp thư đến",
     "providers": [
       "Gmail",
       "Outlook"
     ],
     "emailTimes": [
-      "3:42 PM",
-      "2:18 PM",
-      "10:05 AM",
-      "Yesterday"
+      "3:42 CH",
+      "2:18 CH",
+      "10:05 SA",
+      "Hôm qua"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Soạn tự động",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Re: Lịch trình ra mắt sản phẩm",
+        "preview": "Chào! Muốn kiểm tra tài liệu ra mắt. Chúng ta vẫn đúng tiến độ cho tuần tới chứ...",
+        "pill": "Cần trả lời"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Họp nhanh chiều nay?",
+        "preview": "Mình muốn cập nhật tiến độ lộ trình. Bạn có rảnh khoảng 4 giờ chiều không...",
+        "pill": "Cuộc họp"
       },
       {
         "from": "Marketing",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
-        "pill": "FYI"
+        "subject": "Kết quả chiến dịch đã sẵn sàng",
+        "pill": "Thông tin"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Cửa hàng của bạn đã sẵn sàng cho Black Friday",
+        "pill": "Khuyến mãi"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Chào Alex! Vâng, chúng ta đang đúng tiến độ. Nhóm thiết kế đã hoàn thành tài liệu hôm qua và tôi sẽ gửi file cuối cùng trước khi kết thúc ngày hôm nay."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "Logo khách hàng",
+    "headingPrefix": "Được tin dùng bởi các ",
+    "headingHighlight": "chuyên gia và nhóm ",
+    "headingSuffix": " trên toàn thế giới"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "Tính năng",
+    "eyebrow": "Hộp thư của bạn, nâng tầm",
+    "title": "Hộp thư không nên chiếm trọn ngày của bạn",
+    "subtitle": "Biến hỗn loạn thành rõ ràng với AI thực sự hiểu bạn.\nTiết kiệm hơn 3 giờ mỗi tuần với trợ lý email thông minh nhất cho Gmail và Outlook.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "Soạn email giống như bạn",
+        "description": "Trình soạn email AI của Duet chuẩn bị bản nháp cho những email quan trọng nhất. Nó học giọng điệu và phong cách viết của bạn.",
+        "ariaLabel": "Soạn email giống bạn",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "Tôi đã soạn email tiếp cận cá nhân hóa cho John",
+          "sampleText": "Các pipeline AI rất cần thiết để xây dựng hệ thống AI mạnh mẽ, mở rộng và hiệu quả.",
+          "readyToSend": "Sẵn sàng gửi?",
+          "remindFollowUp": "Nhắc tôi theo dõi."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "Tóm tắt & Hành động tức thì",
+        "description": "Nhận tóm tắt và các mục hành động từ nội dung email trong vài giây. Không còn phải đọc dài dòng trong hộp thư.",
+        "ariaLabel": "Tóm tắt và mục hành động tức thì",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "Tôi đề xuất chúng ta ",
+          "sentenceHighlight": "gặp nhau tuần tới",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "Mục hành động mới",
+          "actionLead": "Tôi tìm thấy các khoảng trống trong lịch của bạn",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "Thứ Ba, lúc 10 giờ sáng",
+            "Thứ Năm, lúc 2 giờ chiều",
+            "Thứ Sáu, 9 giờ sáng"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Tìm thêm",
+          "primaryButton": "Gửi"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "Nhắc nhở thông minh",
+        "description": "Cài đặt rồi quên đi. Duet AI nhớ theo dõi khi người khác không trả lời, để không bỏ sót việc nào.",
+        "ariaLabel": "Nhắc nhở thông minh",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "Nhắc nhở thông minh AI",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Theo dõi",
               "value": "12",
-              "unit": "emails"
+              "unit": "email"
             },
             {
-              "label": "To reply",
+              "label": "Cần trả lời",
               "value": "2",
-              "unit": "emails"
+              "unit": "email"
             },
             {
-              "label": "Completed",
+              "label": "Hoàn thành",
               "value": "3",
-              "unit": "action items"
+              "unit": "mục hành động"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Hoàn thành nhiệm vụ viết",
+              "time": "2 ngày trước"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Tích hợp dự án",
+              "time": "12 giờ trước"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Theo dõi",
+            "Dời lịch?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "Tập trung vào điều quan trọng",
+        "description": "Phân loại thông minh giúp bạn thấy email quan trọng nhất trước, và phân loại email theo chủ đề. Quản lý email chưa bao giờ dễ dàng đến thế.",
+        "ariaLabel": "Tập trung vào điều quan trọng",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "ĐANG PHÂN TÍCH"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "Tổ chức email và phân loại hộp thư thông minh",
+    "badge": "Tổ chức",
+    "title": "Duet tổ chức hộp thư của bạn",
+    "subtitle": "Phân loại tự động lọc bớt tiếng ồn và làm nổi bật điều quan trọng. Ngay lập tức thấy việc cần xử lý, thông tin chỉ để biết, và việc có thể chờ.",
+    "windowTitle": "Hộp thư đến",
     "providers": [
       "Gmail",
       "Outlook"
     ],
     "emailTimes": [
-      "2:34 PM",
-      "11:05 AM",
-      "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "2:34 CH",
+      "11:05 SA",
+      "9:22 SA",
+      "Hôm qua",
+      "20 Tháng 12"
     ],
     "emails": [
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "Yêu cầu xem xét ngân sách Q4",
+        "preview": "Số liệu cuối cùng đã đính kèm. Vui lòng xem xét trước khi kết thúc ngày.",
+        "pill": "Cần hành động"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Họp nhóm sáng mai lúc 10 giờ",
+        "pill": "Cuộc họp"
       },
       {
-        "from": "Design Team",
+        "from": "Nhóm Thiết kế",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
-        "pill": "FYI"
+        "subject": "Hướng dẫn thương hiệu mới đã được công bố",
+        "pill": "Thông tin"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Bảng sao kê hàng tháng của bạn đã sẵn sàng",
+        "pill": "Khuyến mãi"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "Bản tin",
+        "subject": "Tóm tắt tuần",
+        "pill": "Khuyến mãi"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "Soạn thảo email AI và tạo trả lời",
+    "badge": "Soạn thảo",
+    "title": "Duet soạn thảo theo giọng bạn",
+    "subtitle": "Duet học cách bạn viết và soạn trả lời phù hợp giọng điệu. Xem lại, chỉnh sửa nếu cần, và gửi trong vài giây.",
+    "windowTitle": "Tin nhắn mới",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "Đến:",
+      "subject": "Chủ đề:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: Họp nhanh tuần này?",
+      "originalFrom": "Alex Rivera đã viết:",
+      "originalText": "Chào! Muốn cập nhật các thay đổi lộ trình. Bạn có rảnh gọi 30 phút tuần này không? Cho tôi biết thời gian phù hợp.",
+      "badge": "Soạn tự động",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Chào Alex!",
+        "Mình muốn đồng bộ về lộ trình. Mình rảnh thứ Năm 2-4 giờ chiều hoặc sáng thứ Sáu — đều được.",
+        "Cho mình biết thời gian bạn thích và mình sẽ gửi lời mời.",
+        "Cảm ơn!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Mình rảnh thứ Năm 2-4 giờ chiều hoặc sáng thứ Sáu",
       "actions": [
-        "Send",
-        "Edit"
+        "Gửi",
+        "Chỉnh sửa"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Bản nháp cá nhân hóa",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Hiểu lịch của bạn",
+        "Soạn theo giọng bạn",
+        "Hiểu ngữ cảnh qua bộ nhớ",
+        "Học theo thời gian"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "Trí tuệ email AI và trợ lý",
+    "badge": "Trí tuệ",
+    "title": "Hỏi bất cứ điều gì về email của bạn",
+    "subtitle": "Hỏi Duet tìm email, kiểm tra lịch, hoặc soạn trả lời. Nó hiểu hộp thư và trả lời ngay lập tức.",
+    "windowTitle": "Trợ lý Duet",
+    "onlineLabel": "Trực tuyến",
+    "initialUserMessage": "Bạn có thể tìm hóa đơn Stripe do Kế toán gửi không?",
+    "processingText": "Đang tìm trong hộp thư...",
+    "foundHeader": "Tìm thấy 2 email từ Stripe",
+    "foundBody": "Tôi tìm thấy biên nhận $29.00 USD từ ngày 24 tháng 10.",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"
@@ -267,183 +266,183 @@
     "suggestions": [
       {
         "action": "draft",
-        "label": "Draft a reply"
+        "label": "Soạn trả lời"
       },
       {
         "action": "calendar",
-        "label": "Find time to meet"
+        "label": "Tìm thời gian họp"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Hỏi bất cứ điều gì...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "Đang xử lý...",
+      "processingDraft": "Đang tạo bản nháp...",
+      "processingCalendar": "Đang kiểm tra lịch...",
+      "draftIntro": "Đây là bản nháp trả lời Kế toán:",
+      "draftHeader": "Bản nháp: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Chào Team,",
+        "Đính kèm hóa đơn Stripe tháng Mười ($29.00).",
+        "Cho tôi biết nếu cần gì thêm.",
+        "Trân trọng,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "Gửi Email",
+        "Chỉnh sửa"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "Bạn có 3 khoảng trống ngày mai:",
       "calendarSlots": [
         {
-          "time": "9:30 AM",
-          "duration": "30 min"
+          "time": "9:30 SA",
+          "duration": "30 phút"
         },
         {
-          "time": "2:00 PM",
-          "duration": "30 min"
+          "time": "2:00 CH",
+          "duration": "30 phút"
         },
         {
-          "time": "4:30 PM",
-          "duration": "30 min"
+          "time": "4:30 CH",
+          "duration": "30 phút"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Cũng soạn trả lời luôn?",
+        "calendarAfterDraft": "Cũng lên lịch theo dõi?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "Lời chứng thực",
+    "scrollingAriaLabel": "Lời chứng thực cuộn",
+    "eyebrow": "Lời chứng thực",
+    "title": "Được yêu thích bởi các chuyên gia bận rộn",
+    "subtitle": "Người thật. Thành công thật.",
     "items": [
       {
         "name": "Francesca T.",
         "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "quote": "Đáng từng đồng. Thời gian tôi tiết kiệm được nhờ email trả lại giá trị gấp 10 lần chi phí Duet Mail. Không thể tưởng tượng làm việc mà không có nó.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "Giám đốc bán hàng",
+        "quote": "Tóm tắt tức thì các chuỗi email dài thật kỳ diệu và rất dễ dùng. Khách hàng nghĩ tôi siêu nhân.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "Doanh nhân",
+        "quote": "Tôi từng nghi ngờ AI cho email. Giờ thì như có trợ lý điều hành xuất sắc. Không thể quay lại cách cũ.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "Tư vấn viên",
+        "quote": "Là tư vấn viên, từng phút đều quý giá. Duet Mail không chỉ tiết kiệm thời gian mà còn làm giao tiếp email sắc nét hơn.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
         "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "title": "Giám đốc Marketing",
+        "quote": "Cuối cùng có trợ lý mail AI thực sự học cách tôi viết. Trả lời tức thì chính xác đến mức nhóm tôi tưởng tôi làm việc nửa đêm.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "ariaLabel": "Bảng giá",
+    "eyebrow": "Bảng giá",
+    "heading": "Giá đơn giản, hộp thư mạnh mẽ",
+    "subheading": "Bắt đầu miễn phí, nâng cấp bất cứ lúc nào. Hủy dễ dàng.",
+    "billingLegend": "Chu kỳ thanh toán",
+    "billingAnnual": "Hàng năm",
+    "billingMonthly": "Hàng tháng",
+    "savingsTag": "Tiết kiệm 33%",
+    "priceCadence": "/tháng",
+    "perUserSuffix": "/người dùng",
+    "annualBillingSuffix": "(thanh toán hàng năm)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Thanh toán an toàn qua Stripe",
+      "Hủy bất cứ lúc nào"
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
-        "priceLabel": "Free",
+        "name": "Cơ bản",
+        "description": "Dành cho ai tò mò muốn trải nghiệm hộp thư thông minh. Không cần cam kết.",
+        "priceLabel": "Miễn phí",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "Tóm tắt tức thì",
+            "description": "Nắm bắt nội dung nhanh chóng"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "Soạn AI",
+            "description": "Thử trả lời theo giọng bạn"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "Hộp thư thông minh",
+            "description": "Tổ chức cơ bản để bắt đầu"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "Trợ lý Duet",
+            "description": "Dùng thử trợ lý AI"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Chọn Gmail hoặc Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "Dùng thử miễn phí 14 ngày",
+        "description": "Dành cho chuyên gia muốn tự động hóa sâu hơn, tích hợp và hộp thư hiểu cách bạn làm việc.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "Hộp thư thông minh",
+            "description": "Email tự động phân loại thông minh",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "Soạn AI",
+            "description": "Trả lời viết theo giọng bạn, sẵn sàng gửi",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "Trợ lý Duet",
+            "description": "Chat để tìm, soạn, tổ chức & hơn thế nữa",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "Tích hợp Lịch",
+            "description": "Lên lịch, xem & quản lý sự kiện từ hộp thư"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "Tóm tắt tức thì",
+            "description": "Nắm bắt nội dung chuỗi hoặc tệp đính kèm"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Nhắc nhở thông minh",
+            "description": "Theo dõi tự động để không bỏ sót"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "Hỗ trợ ưu tiên",
+            "description": "Con người thật, phản hồi nhanh"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Chọn Gmail hoặc Outlook",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "Doanh nghiệp",
+        "description": "Dành cho tổ chức cần quy mô doanh nghiệp, hỗ trợ riêng và quy trình tùy chỉnh. Tốt nhất cho nhóm 50+ người.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,36 +450,36 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Tất cả trong Pro",
+            "description": "Bao gồm mọi tính năng"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Hỗ trợ riêng",
+            "description": "Quản lý tài khoản cá nhân"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "Phân tích nhóm",
+            "description": "Thông tin tổng quan tổ chức"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Quy trình chia sẻ",
+            "description": "Mẫu & tự động hóa cho nhóm"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Liên hệ bán hàng",
+        "ctaNote": "Có giá tùy chỉnh"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
+    "ariaLabel": "Câu hỏi thường gặp",
     "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "headingPrefix": "Câu hỏi phổ biến, ",
+    "headingAccent": "đã trả lời",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
+    "contactLabel": "LIÊN HỆ",
+    "contactHeading": "Vẫn còn thắc mắc?",
+    "contactCta": "Liên hệ →",
     "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
@@ -488,78 +487,78 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail bảo vệ dữ liệu email của tôi như thế nào?",
+        "answer": "Bảo mật của bạn là ưu tiên hàng đầu. Chúng tôi sử dụng OAuth 2.0 để xác thực an toàn với Google và Microsoft. Nội dung email được mã hóa khi lưu trữ bằng mã hóa cấp trường phía client, và chúng tôi tuân thủ nguyên tắc quyền truy cập tối thiểu cho API. Với tích hợp Google, chúng tôi trải qua đánh giá bảo mật CASA hàng năm của Google."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Tính năng tóm tắt email hoạt động ra sao?",
+        "answer": "Duet Mail sử dụng AI tiên tiến để phân tích chuỗi email và tạo bản tóm tắt ngắn gọn, làm nổi bật điểm chính, quyết định và mục hành động. Giúp bạn nhanh chóng hiểu bối cảnh mà không cần đọc toàn bộ chuỗi."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail cần những quyền gì?",
+        "answer": "Duet Mail cần truy cập email của bạn để cung cấp tóm tắt, trích xuất mục hành động, tạo nội dung và gửi email. Chúng tôi chỉ yêu cầu quyền cần thiết. Bạn có thể xem và thu hồi quyền bất cứ lúc nào trong cài đặt Tài khoản Google hoặc Microsoft."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Dùng thử miễn phí bao gồm gì?",
+        "answer": "Dùng thử miễn phí 14 ngày bao gồm truy cập đầy đủ các tính năng Pro: tóm tắt email không giới hạn, trích xuất mục hành động, trình soạn email AI (tạo email và bản nháp không giới hạn), và mẫu email tùy chỉnh. Đăng nhập bằng Google hoặc Microsoft để bắt đầu tiết kiệm thời gian quản lý email."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Tôi có thể dùng Duet Mail với nhà cung cấp email khác không?",
+        "answer": "Duet Mail hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Bắt đầu",
+    "headline": "Lấy lại 4 giờ.\nMỗi tuần.",
+    "subline": "Tham gia cùng các chuyên gia bắt đầu ngày mới với sự rõ ràng, không hỗn loạn. Dùng thử miễn phí đang chờ bạn.",
+    "primaryCta": "Bắt đầu với Gmail",
+    "secondaryCta": "Bắt đầu với Outlook",
+    "note": "Dùng thử miễn phí 14 ngày · Hủy bất cứ lúc nào",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Được Google CASA đánh giá",
+      "Mã hóa khi lưu trữ",
+      "OAuth 2.0 an toàn"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "Chân trang",
+    "brandIconAlt": "Biểu tượng Duet Mail",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — Trợ lý Email AI giúp bạn tiết kiệm hàng giờ mỗi tuần",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Khám phá",
         "links": [
           {
-            "label": "Organization",
+            "label": "Tổ chức",
             "href": "/vi#organization"
           },
           {
-            "label": "Drafting",
+            "label": "Soạn thảo",
             "href": "/vi#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "Trí tuệ",
             "href": "/vi#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Tiện ích Chrome",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "Khách hàng",
         "links": [
           {
-            "label": "Pricing",
+            "label": "Bảng giá",
             "href": "/vi#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "Lời chứng thực",
             "href": "/vi#testimonials"
           },
           {
@@ -569,28 +568,28 @@
         ]
       },
       {
-        "title": "Legal",
+        "title": "Pháp lý",
         "links": [
           {
-            "label": "Privacy",
+            "label": "Quyền riêng tư",
             "href": "/vi/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Điều khoản",
             "href": "/vi/terms"
           },
           {
-            "label": "Cookies",
+            "label": "Cookie",
             "href": "/vi/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Tuyên bố từ chối",
             "href": "/vi/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "Kết nối",
         "links": [
           {
             "label": "Blog",
@@ -621,42 +620,42 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
-    "dividerLabel": "vs",
+    "ariaLabel": "Lợi tức đầu tư",
+    "label": "Phép tính",
+    "narrativeTemplate": "Ở mức {pricePerBooking} cho mỗi {bookingUnit}, mất chỉ {lostPerMonth} do trả lời chậm =",
+    "lossSuffix": "/tháng mất",
+    "dividerLabel": "so với",
     "duetLabel": "Duet",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/tháng"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - Trợ lý Email AI cho Gmail và Outlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Hỗ trợ khách hàng",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
+    "softwareDescription": "Trợ lý email AI cho Gmail và Outlook tự động tóm tắt email, soạn trả lời theo giọng bạn và tổ chức hộp thư giúp tiết kiệm hàng giờ mỗi tuần.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Tổ chức và phân loại email thông minh",
+      "Soạn email AI theo giọng bạn",
+      "Trợ lý email thông minh tích hợp lịch",
+      "Tóm tắt email và mục hành động tự động",
+      "Nhắc nhở thông minh cho theo dõi"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Gói Cơ bản",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Gói miễn phí với tóm tắt tức thì, soạn AI và hộp thư thông minh"
       },
       {
-        "name": "Pro Plan",
+        "name": "Gói Pro",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "unitText": "THÁNG",
+        "description": "Truy cập đầy đủ với phân loại hộp thư thông minh, soạn AI, trợ lý và tích hợp lịch"
       }
     ],
     "aggregateRating": {
@@ -664,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "Yêu cầu JavaScript. Hoạt động với Gmail, Google Workspace và Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/vi",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail bảo vệ dữ liệu email của tôi như thế nào?",
+        "answer": "Bảo mật của bạn là ưu tiên hàng đầu. Chúng tôi sử dụng OAuth 2.0 để xác thực an toàn với Google và Microsoft. Nội dung email được mã hóa khi lưu trữ bằng mã hóa cấp trường phía client, và chúng tôi tuân thủ nguyên tắc quyền truy cập tối thiểu cho API. Với tích hợp Google, chúng tôi trải qua đánh giá bảo mật CASA hàng năm của Google."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Tính năng tóm tắt email hoạt động ra sao?",
+        "answer": "Duet Mail sử dụng AI tiên tiến để phân tích chuỗi email và tạo bản tóm tắt ngắn gọn, làm nổi bật điểm chính, quyết định và mục hành động. Giúp bạn nhanh chóng hiểu bối cảnh mà không cần đọc toàn bộ chuỗi."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail cần những quyền gì?",
+        "answer": "Duet Mail cần truy cập email của bạn để cung cấp tóm tắt, trích xuất mục hành động, tạo nội dung và gửi email. Chúng tôi chỉ yêu cầu quyền cần thiết. Bạn có thể xem và thu hồi quyền bất cứ lúc nào trong cài đặt Tài khoản Google hoặc Microsoft."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Dùng thử miễn phí bao gồm gì?",
+        "answer": "Dùng thử miễn phí 14 ngày bao gồm truy cập đầy đủ các tính năng Pro: tóm tắt email không giới hạn, trích xuất mục hành động, trình soạn email AI (tạo email và bản nháp không giới hạn), và mẫu email tùy chỉnh. Đăng nhập bằng Google hoặc Microsoft để bắt đầu tiết kiệm thời gian quản lý email."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Tôi có thể dùng Duet Mail với nhà cung cấp email khác không?",
+        "answer": "Duet Mail hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
       }
     ]
   }

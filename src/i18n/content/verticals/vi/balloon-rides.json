@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail cho Chuyến Bay Khinh Khí Cầu | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp phi công khinh khí cầu trả lời email đặt chỗ ngay lập tức — ngay cả trong các chuyến bay lúc bình minh. Trả lời được AI soạn thảo với giá cả, chính sách thời tiết và giọng điệu của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 200 phi công khinh khí cầu",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang trên không",
+  "heroSubline": "Duet học lịch bay, giá cả và chính sách thời tiết của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang khởi hành lúc bình minh.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Chuyến bay bình minh cho 2 người — Thứ Bảy còn chỗ không?",
+      "preview": "Chào! Tôi và chồng đang đến nhân dịp kỷ niệm và muốn đặt chuyến bay khinh khí cầu lúc bình minh vào thứ Bảy này. Bạn còn chỗ không? Giá mỗi người là bao nhiêu?",
+      "pill": "Cần trả lời",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "Chúng ta có bay ngày mai không? Dự báo gió có vẻ mạnh",
+      "preview": "Chúng tôi đã đặt cho sáng mai nhưng ứng dụng thời tiết báo gió giật 15 mph. Chúng ta vẫn bay hay nên lên kế hoạch dời lại...",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "Chuyến bay riêng cho cầu hôn — giá cả?",
+      "preview": "Tôi muốn tạo bất ngờ cho bạn gái bằng chuyến bay khinh khí cầu riêng và cầu hôn trong chuyến bay. Giá chuyến bay riêng là bao nhiêu và bạn có thể giúp phối hợp không...",
+      "pill": "Đặt chỗ",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "Chúng tôi nên mặc gì? Gặp nhau ở đâu?",
+      "preview": "Chúng tôi đã đặt cho sáng Chủ Nhật. Nên mặc gì và điểm gặp chính xác ở đâu? Ngoài ra, toàn bộ trải nghiệm kéo dài bao lâu...",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Chào Rachel! Thứ Bảy còn chỗ cho 2 người. Các chuyến bay bình minh khởi hành khoảng 6:15 sáng — chúng tôi sẽ xác nhận thời gian và địa điểm gặp chính xác vào tối hôm trước dựa trên hướng gió. Giá 250$/người bao gồm khoảng một giờ bay và một ly champagne chúc mừng sau khi hạ cánh. Mặc nhiều lớp và đi giày kín mũi. Bạn muốn tôi giữ chỗ cho bạn không?",
   "math": {
-    "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "pricePerBooking": "1.000$",
+    "bookingUnit": "chuyến bay",
     "lostPerMonth": "2",
-    "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "monthlyLoss": "2.000$",
+    "punchline": "Một chuyến bay được giữ chỗ bù cho một năm dùng Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi về thời tiết sau, và không bao giờ bị làm phiền bởi tin nhắn rác. Không còn bỏ lỡ yêu cầu chuyến bay bị chôn dưới các thông báo bản tin.",
+  "draftSubtitle": "Duet học giá cả, chính sách thời tiết và giọng điệu của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến bay, thông tin gặp mặt và hướng dẫn mặc đồ. Bạn duyệt và gửi.",
+  "agentSubtitle": "\"Ai có mặt trong danh sách chuyến bay ngày mai?\" \"Có hủy chuyến do thời tiết cần dời lịch không?\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Chuyến bay bình minh cho 2 người — Thứ Bảy còn chỗ không?",
+      "preview": "Tôi và chồng muốn đặt chuyến bay khinh khí cầu lúc bình minh...",
+      "pill": "Trả lời ngay",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: Đặt chỗ đã xác nhận — Chủ Nhật 6:15 sáng",
+      "pill": "Đã đặt",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "Chúng tôi nên mặc gì cho chuyến bay?",
+      "pill": "Câu hỏi",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "pill": "FYI",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     },
     {
       "from": "Balloon Federation",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
-      "pill": "FYI",
+      "subject": "Bản tin an toàn tháng Ba & nhắc gia hạn",
+      "pill": "Thông tin",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: Chuyến bay bình minh cho 2 người — Thứ Bảy còn chỗ không?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào! Tôi và chồng đang đến nhân dịp kỷ niệm và muốn đặt chuyến bay khinh khí cầu lúc bình minh vào thứ Bảy này. Bạn còn chỗ không? Giá mỗi người là bao nhiêu?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Chào Rachel!",
+      "Thứ Bảy còn chỗ cho 2 người. Chuyến bay bình minh giá 250$/người và bao gồm khoảng một giờ bay cùng ly champagne chúc mừng sau khi hạ cánh.",
+      "Chúng tôi khởi hành khoảng 6:15 sáng — tôi sẽ gửi thời gian và địa điểm gặp chính xác vào tối hôm trước dựa trên điều kiện gió. Mặc nhiều lớp và đi giày kín mũi.",
+      "Chúc mừng kỷ niệm! Bạn muốn tôi giữ chỗ cho bạn không?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Thứ Bảy còn chỗ cho 2 người. Chuyến bay bình minh giá 250$/người",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Biết giá và lịch bay của bạn",
+      "Soạn thảo theo giọng điệu của bạn",
+      "Tự động thêm chi tiết điểm gặp",
+      "Học hỏi theo thời gian"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Ai có mặt trong danh sách chuyến bay ngày mai và thời tiết thế nào?",
+    "agentResponse": "Chuyến bay bình minh ngày mai có 6 hành khách đặt qua 2 đặt chỗ: nhóm Thompson (4 người) và cặp Lee (2 người). Dự báo hiện tại cho thấy gió nhẹ 4 mph và trời quang đãng lúc khởi hành. Chưa có email hủy chuyến nào. Bạn muốn tôi gửi xác nhận điểm gặp cho cả hai nhóm không?",
+    "followUp": "Vâng, gửi xác nhận cho cả hai nhóm với thời gian gặp 6:15 sáng",
+    "followUpResponse": "Xong! Tôi đã soạn xác nhận điểm gặp cho cả nhóm Thompson và Lee với thời gian 6:15 sáng tại bãi khởi hành, hướng dẫn mặc đồ và chỉ đường. Sẵn sàng để bạn duyệt và gửi."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Được yêu thích bởi phi công và nhà điều hành khinh khí cầu",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "Đội trưởng Mike L.",
+      "title": "Phi công khinh khí cầu, MN",
+      "quote": "Tôi tự làm mọi việc — bay, hỗ trợ, trả lời email. Trừ lúc 5 giờ sáng tôi đang bơm bóng, không trả lời. Duet soạn trả lời cho mọi email 'chúng ta có bay ngày mai không?' qua đêm. Tôi thức dậy, kiểm tra thời tiết và gửi đi.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "title": "Tour khinh khí cầu quanh năm, UT",
+      "quote": "Chúng tôi nhận cùng 10 câu hỏi mỗi ngày. Nên mặc gì, gặp ở đâu, nếu gió thì sao. Duet học hết và giờ soạn trả lời hoàn hảo. Từ một giờ trả lời email mỗi tối giờ còn năm phút.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "title": "Nhà điều hành chuyến bay bình minh, AZ",
+      "quote": "Mùa cao điểm có 4-6 chuyến bay mỗi tuần và mỗi hành khách gửi ít nhất hai email trước chuyến bay. Duet xử lý các câu hỏi trước chuyến bay để tôi tập trung mang đến buổi sáng tuyệt vời nhất cho mọi người.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "Đồng sở hữu công ty khinh khí cầu, NM",
+      "quote": "Hủy chuyến do thời tiết từng làm hỏng cả ngày của tôi — 8 hành khách cần email dời lịch cá nhân. Giờ Duet soạn mọi email kèm chính sách đặt lại của chúng tôi. Tiết kiệm hàng giờ vào sáng hủy chuyến.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "title": "Điều hành chuyến bay khinh khí cầu, CO",
+      "quote": "Chuyến bay cầu hôn cần phối hợp rất nhiều. Duet hiểu cách chúng tôi xử lý — thời gian, mật mã, chuẩn bị champagne. Nó soạn trả lời mà tôi hầu như không phải chỉnh sửa.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Dành buổi sáng trên trời,\nkhông phải trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Duet xử lý email hủy chuyến do thời tiết thế nào?",
+      "answer": "Duet học chính sách hủy và đặt lại của bạn. Khi bạn hủy chuyến do thời tiết, nó có thể soạn email dời lịch cá nhân cho từng hành khách bị ảnh hưởng — với chính sách, ngày khả dụng và giọng điệu của bạn. Bạn duyệt và gửi. Việc từng trả lời riêng lẻ từng mất một giờ giờ chỉ còn vài phút."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Duet có xử lý được email 'chúng ta có bay ngày mai không?' gửi đến mỗi tối không?",
+      "answer": "Có — đây là một trong những email phổ biến nhất mà các nhà điều hành khinh khí cầu nói với chúng tôi. Duet học chính sách thời tiết của bạn và soạn trả lời trấn an giải thích quy trình quyết định, khi nào bạn sẽ đưa ra quyết định cuối cùng và những gì mong đợi. Khi bạn xác nhận bay hay không vào buổi sáng, nó có thể soạn cập nhật cho mọi người trong danh sách chuyến bay."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "Với giá 250$/người và 4 hành khách mỗi chuyến, một đặt chỗ được giữ bù cho hơn một năm dùng Pro."
 }
