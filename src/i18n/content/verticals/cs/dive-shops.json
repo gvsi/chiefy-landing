@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail pro potápěčské obchody | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá majitelům potápěčských obchodů a instruktorům PADI okamžitě reagovat na certifikační dotazy, rezervace výletů a otázky týkající se vybavení – dokonce i pod vodou.",
+  "heroBadge": "Důvěřuje více než 300 potápěčským operátorům",
+  "heroHeadline": "Váš e-mailový asistent, když jste pod vodou",
+  "heroSubline": "Duet se naučí vaše potápěčské lokality, požadavky na certifikaci, ceny a hlas – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci, když jste na lodi.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "Certifikace Open Water – dostupnost?",
+      "preview": "Ahoj! Jsem na návštěvě první týden v srpnu a chci získat certifikát Open Water. Kolik dní to trvá a co je v ceně?",
+      "pill": "Odpovědět",
       "pillColor": "red"
     },
     {
       "from": "Kevin & Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "Skupina 6 pro sobotní ponor se 2 nádržemi",
+      "preview": "Máme 6 certifikovaných potápěčů a tuto sobotu si chceme zarezervovat ranní ponor ve 2 nádržích. Máte prostor? Jaká je sazba na osobu...",
+      "pill": "Rezervace",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "Půjčení BCD na víkend?",
+      "preview": "Hej, mám certifikaci, ale cestuji nalehko. Pronajímáte BCD a regulátory? Potřeboval bych je od pátku do neděle...",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "PADI eLearning",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
+      "subject": "Doporučení studenta: Rachel Torres",
+      "preview": "Student dokončil svůj eLearning a vybral si vaše potápěčské centrum pro výcvik v omezeném i otevřeném prostředí...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "Ahoj Rachel! Rádi vám zajistíme certifikaci. Kurz Open Water trvá 3 dny – jeden den bazénu a dva dny oceánských ponorů. Veškeré vybavení je zahrnuto. Srpen je dokořán. Chcete, abych si zarezervoval místo na první týden?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
+    "bookingUnit": "potápět se",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "Jeden ušetřený skupinový ponor platí za rok Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první uvidíte dotazy na certifikaci a rezervace ponorů, jako druhé otázky týkající se vybavení a upozornění PADI, až budete připraveni. Už vám nebude chybět skupinová rezervace pohřbená pod informačními bulletiny o vybavení.",
+  "draftSubtitle": "Duet se naučí vaše potápěčské lokality, požadavky na certifikáty a ceny. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o cestě, co je zahrnuto a co si vzít s sebou. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Kolik potápěčů je rezervováno na sobotu?\" \"Navrhněte odpověď Rachel s dostupností Open Water.\" Duet zná vaši doručenou poštu a plán – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "Certifikace Open Water – dostupnost?",
+      "preview": "Jsem na návštěvě první týden v srpnu a chci získat certifikát...",
+      "pill": "Odpovězte hned",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Re: Rezervace potvrzena — sobotní ponor se 2 nádržemi",
+      "pill": "Zarezervováno",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "BCD a pronájem regulátoru tento víkend?",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "DiveBuddy",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
+      "subject": "Nová recenze ve vašem seznamu",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Dive Gear Express",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Letní výprodej – 25% sleva na neopreny",
+      "pill": "Propagační akce",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "Re: Certifikace Open Water – dostupnost?",
+    "originalFrom": "Rachel T. napsal:",
+    "originalText": "Ahoj! Jsem na návštěvě první týden v srpnu a chci získat certifikát Open Water. Kolik dní to trvá a co je v ceně?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "Ahoj Rachel!",
+      "Rádi vám zajistíme certifikaci! Kurz PADI Open Water trvá 3 dny – jeden bazén a dva ponory do oceánu na našem útesu. Veškeré vybavení je zahrnuto.",
+      "Srpen je právě teď dokořán. Většina studentů začíná v pondělí, takže končí ve středu.",
+      "Chcete, abych si zarezervoval místo?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "Kurz PADI Open Water trvá 3 dny",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "Zná vaše kurzy a ceny",
+      "Píše návrhy vaším hlasem",
+      "Automaticky zahrnuje požadavky na certifikát",
+      "Učí se časem"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "Kolik potápěčů je rezervováno na sobotu?",
+    "agentResponse": "Na základě vaší doručené pošty máte potvrzeno 8 potápěčů pro sobotní ranní ponor ve 2 nádržích – Kevinova skupina 6 plus 2 individuální rezervace. Máte také nevyřízený dotaz od Jasona ohledně zapůjčení vybavení na stejnou cestu. Chcete, abych navrhl odpověď?",
+    "followUp": "Navrhněte odpověď Rachel s podrobnostmi o kurzu Open Water",
+    "followUpResponse": "Hotovo! Napsal jsem odpověď Rachel potvrzující 3denní kurz PADI Open Water včetně ponorů do bazénu a oceánu. Zmiňuje dostupnost v srpnu a vaše standardní zásady týkající se vybavení. Připraveno ke kontrole a odeslání."
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "Oblíbený potápěčskými operátory",
   "testimonials": [
     {
       "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "title": "Kapitán potápěčského člunu, FL",
+      "quote": "Provozuji výlety lodí od pátku do neděle a v pondělí je obchod otevřen jen pár hodin. Otázky týkající se certifikace a výletů se hromadí, když jsem pod vodou. Odpovědi na návrhy Duet s mými cenami, potápěčskými lokalitami a tím, co je v ceně – mezi ponory si je prohlížím.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "title": "Potápěčské centrum PADI, HI",
+      "quote": "Pořádáme potápění, šnorchlování a pozorování velryb ze stejných lodí. Rozmanitost e-mailů je šílená – certifikační otázky, skupinové rezervace, půjčovny vybavení, kontroly počasí. Duet to vše seřadí a vytvoří koncepty odpovědí, které znají rozdíl. Absolutní zachránce života.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "title": "Chartery potápění vraků, FL",
+      "quote": "Polovina mých e-mailů je „Jakou certifikaci potřebuji pro ponory s vrakem?“ a druhá polovina je 'Potřebuji vlastní vybavení?' Duet zvládá obojí na autopilota. Moje doba odezvy se pohybovala z hodin na minuty.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "title": "Majitel potápěčského obchodu, CA",
+      "quote": "Během léta dostáváme více než 30 e-mailů denně o kurzech, dostupnosti výletů a vybavení. Ztrácel jsem rezervace do obchodů, které odpovídaly rychleji. Nyní Duet vše navrhne a já jen stisknu odeslat mezi třídami.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "title": "Instruktor a průvodce potápění, NC",
+      "quote": "Dopoledne vedu kurzy a odpoledne průvodce ponory. Na odpověď na e-mail doslova není čas. Duet se dozvěděl můj rozvrh kurzů, ceny, dokonce i moje storno podmínky. Klienti nepoznají rozdíl.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Trávit dny pod vodou,\nnení pohřben ve vaší doručené poště.",
+  "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Rozumí Duet úrovním certifikace a požadavkům na kurzy?",
+      "answer": "Ano. Duet se naučí vaše specifické kurzy – Open Water, Advanced, Rescue, Divemaster – spolu s předpoklady, trváním, cenou a tím, co je zahrnuto. Když se někdo zeptá na získání certifikace, Duet navrhne odpověď se správnými podrobnostmi o kurzu, rozvrhem a dalšími kroky. Zkontrolujete a odešlete."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Celý den jsem na lodi nebo pod vodou. Mohu použít Duet z mého telefonu?",
+      "answer": "Ano. Duet spolupracuje se Gmail a Outlook, takže funguje všude, kde funguje váš e-mail – včetně vašeho telefonu. Koncepty se automaticky zobrazují ve vaší doručené poště. Mezi ponory nebo zpět v doku můžete zkontrolovat a odeslat jedním klepnutím. Většina potápěčských operátorů nám říká, že jim to během hlavní sezóny ušetří 1-2 hodiny e-mailu denně."
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "U $150/dive se skupinou 6 platí jedna ušetřená cesta za více než rok Pro."
 }

@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ surf instructors",
-  "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail pro surfařské školy a operátory paddleboardů | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá instruktorům surfování a operátorům paddleboardů okamžitě reagovat na rezervační e-maily – dokonce i během výuky. Odpovědi navržené umělou inteligencí s typy lekcí, cenami a hlasem.",
+  "heroBadge": "Důvěřuje více než 300 instruktorům surfování",
+  "heroHeadline": "Váš e-mailový asistent, když učíte na vodě",
+  "heroSubline": "Duet se naučí vaše typy lekcí, ceny a podmínky – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
-      "pill": "To Respond",
+      "subject": "Skupinová lekce pro 6 v sobotu?",
+      "preview": "Ahoj! Na víkend mám na návštěvě skupinu 6 přátel. Máte volno na skupinovou lekci surfování v sobotu ráno? Jaká je cena?",
+      "pill": "Odpovědět",
       "pillColor": "red"
     },
     {
       "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "School field trip — 25 students, May 15",
-      "preview": "We're looking to book a surf day for our 5th grade class of 25 students. Do you offer school group rates? We'd need wetsuits and boards provided...",
-      "pill": "Booking",
+      "subject": "Školní výlet — 25 studentů, 15. května",
+      "preview": "Hledáme rezervaci surfovacího dne pro naši třídu 5. třídy s 25 studenty. Nabízíte ceny pro školní skupiny? Potřebovali bychom zajistit neopreny a prkna...",
+      "pill": "Rezervace",
       "pillColor": "blue"
     },
     {
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Paddleboard rental + delivery?",
-      "preview": "Do you rent SUP boards by the hour? We're staying at the beach house on Elm St — any chance you deliver? What's included...",
-      "pill": "Question",
+      "subject": "Půjčení paddleboardu + dovoz?",
+      "preview": "Pronajímáte SUP desky na hodinu? Zůstáváme v plážovém domě na Elm St – máte šanci doručit? Co je součástí...",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "Nicole B.",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Conditions for tomorrow morning?",
-      "preview": "We're booked for 9 AM tomorrow but the forecast looks windy. Will the lesson still go ahead? Should we bring anything extra...",
+      "subject": "Podmínky na zítřejší ráno?",
+      "preview": "Jsme rezervováni na 9 AM zítra, ale podle předpovědi je vítr. Bude lekce stále pokračovat? Měli bychom přinést něco navíc...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+  "autodraft": "Ahoj Rachel! Sobotní dopoledne je otevřeno pro 6. Skupinové lekce trvají 2 hodiny od 9 AM. Prkna, neopreny a chrániče proti vyrážce jsou zahrnuty – stačí si přinést opalovací krém a ručník. Je to $90 na osobu. Chcete, abych vaší skupině rezervoval místo?",
   "math": {
     "pricePerBooking": "$90",
-    "bookingUnit": "lesson",
+    "bookingUnit": "lekce",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Dvě uložené rezervace platí za rok Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první vidíte rezervace lekcí, jako druhé otázky a nikdy nešum. Už žádné zmeškání dotazu na školní skupinu zasypané upozorněními Yelp.",
+  "draftSubtitle": "Duet se naučí vaše typy lekcí, skupinové ceny a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s dostupností, co je zahrnuto a co si vzít s sebou. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Chystají se tento týden nějaké skupinové rezervace?\" \"Napište odpověď škole s dostupností.\" Duet zná vaši doručenou poštu a plán – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "I have a group of 6 friends visiting for the weekend...",
-      "pill": "Respond Now",
+      "subject": "Skupinová lekce pro 6 v sobotu?",
+      "preview": "Na víkend mám na návštěvě skupinu 6 přátel...",
+      "pill": "Odpovězte hned",
       "pillColor": "red"
     },
     {
       "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Field trip confirmed — May 15, 25 students",
-      "pill": "Booked",
+      "subject": "Re: Exkurze potvrzena — 15. května, 25 studentů",
+      "pill": "Zarezervováno",
       "pillColor": "blue"
     },
     {
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Do you rent paddleboards by the hour?",
-      "pill": "Question",
+      "subject": "Půjčujete paddleboardy na hodinu?",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "Nová recenze pro váš zápis",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Surf Warehouse",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 30% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Letní výprodej – 30% sleva na neopreny",
+      "pill": "Propagační akce",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group lesson for 6 on Saturday?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
+    "subject": "Re: Skupinová lekce pro 6 v sobotu?",
+    "originalFrom": "Rachel T. napsal:",
+    "originalText": "Ahoj! Na víkend mám na návštěvě skupinu 6 přátel. Máte volno na skupinovou lekci surfování v sobotu ráno? Jaká je cena?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "Ahoj Rachel!",
+      "Sobotní ráno je otevřené pro 6. Skupinové lekce jsou $90/person a trvají 2 hodiny od 9 AM na hlavní pláži.",
+      "Prkna, neopreny a chrániče proti vyrážce jsou zahrnuty – stačí si přinést opalovací krém, vodu a ručník. Nejsou potřeba žádné zkušenosti.",
+      "Chcete, abych vaší skupině rezervoval místo?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "Sobotní dopoledne je otevřeno pro 6. Skupinové lekce jsou $90/person",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "Zná vaše typy lekcí a ceny",
+      "Píše návrhy vaším hlasem",
+      "Zahrnuje to, co je poskytováno automaticky",
+      "Učí se časem"
     ]
   },
   "agent": {
-    "userMessage": "Any group bookings coming up this week?",
-    "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
-    "followUp": "Draft a reply to the school confirming the field trip details",
-    "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
+    "userMessage": "Chystají se tento týden nějaké skupinové rezervace?",
+    "agentResponse": "Tento týden máte dvě skupinové rezervace: Rachel T. na sobotu (6 osob, 9 AM) a Westside Elementary na středu (25 studentů, exkurze 10 AM). Máte také nevyřízený dotaz od Jamese P. ohledně pronájmu paddleboardů. Chcete, abych navrhl odpověď?",
+    "followUp": "Napište škole odpověď s potvrzením podrobností o exkurzi",
+    "followUpResponse": "Hotovo! Napsal jsem odpověď pro Westside Elementary, která potvrzuje 15. květen pro 25 studentů na 10 AM. Zahrnuje sazbu vaší školní skupiny, to, co je poskytováno, požadavky na povolení a vaše storno podmínky. Připraveno ke kontrole a odeslání."
   },
-  "testimonialsTitle": "Loved by surf instructors",
+  "testimonialsTitle": "Oblíbený instruktory surfování",
   "testimonials": [
     {
       "name": "Coach Mike T.",
-      "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
+      "title": "Vlastník školy surfování, CA",
+      "quote": "Jsem ve vodě a učím 6 hodin denně. V době, kdy jsem zkontroloval e-mail, polovina rezervací odešla někomu jinému. Nyní návrhy Duet odpoví s mými cenami a dostupností – mezi relacemi pouze přezkoumávám.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
-      "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "title": "Lekce a půjčovny paddleboardů, HI",
+      "quote": "Provozujeme lekce a půjčovny desek ze stejné schránky. Duet okamžitě zjistila rozdíl – otázky týkající se pronájmu získají odpovědi na pronájem, dotazy týkající se lekce získají podrobnosti o lekci. Je to jako mít recepci.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
-      "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "title": "Instruktor surfování, FL",
+      "quote": "Školní skupinové rezervace dříve přebíraly 10 e-mailů tam a zpět. Nyní Duet navrhuje první odpověď se skupinovými sazbami, tím, co je zahrnuto, a stvrzenkou o povolení. Přestřihne celou nit na polovinu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
+      "quote": "Hlavní sezóna mě zabíjela – 30 e-mailů denně o podmínkách, cenách, co si vzít s sebou. Stále dokola stejných pět otázek. Duet zvládá všechny a znějí přesně jako já.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "title": "Ředitel dětského surfového tábora, SC",
+      "quote": "Rodiče posílají nejdelší e-maily. Termíny táborů, alergie, úrovně dovedností, časy vyzvednutí. Duet navrhuje podrobné odpovědi, které pokrývají vše, takže po celém dni na pláži nepíšu odstavce na 10 PM.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Strávit léto ve vlnách,\nnení ve vaší doručené poště.",
+  "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle different lesson types and equipment rentals?",
-      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "Zvládá Duet různé typy lekcí a zapůjčení vybavení?",
+      "answer": "Ano. Duet se naučí všechny vaše nabídky – soukromé lekce, skupinové lekce, dětské tábory, půjčovny prken, zájezdy SUP. Když přijde dotaz, navrhne odpověď se správnou cenou, dobou trvání, tím, co je zahrnuto a co má přinést. Ví, že e-mail školní skupiny potřebuje jiné podrobnosti než rezervace soukromé lekce."
     },
     {
-      "question": "What about weather and conditions questions?",
-      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "question": "A co otázky ohledně počasí a podmínek?",
+      "answer": "Duet se naučí, jak obvykle zacházíte s e-maily s podmínkami – vaše zásady týkající se zrušení, přeplánování a podmínek, za kterých učíte. Když někdo pošle e-mail s dotazem, zda bude jeho lekce pokračovat, Duet navrhne odpověď odpovídající vašemu obvyklému tónu a zásadám. Zkontrolujete a odešlete během několika sekund."
     }
   ],
-  "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
+  "pricingNote": "U $90/lesson platí dvě ušetřené rezervace za více než rok Pro."
 }

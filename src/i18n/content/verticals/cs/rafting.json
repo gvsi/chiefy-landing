@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mail pro rafting a kajakáře | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá raftovým průvodcům a výrobcům kajaků okamžitě reagovat na dotazy ohledně výletů – dokonce i z řeky. Odpovědi navržené AI s podrobnostmi o vaší cestě, cenou a hlasem.",
+  "heroBadge": "Důvěřuje více než 200 říčním průvodcům",
+  "heroHeadline": "Váš e-mailový asistent, když jste na řece",
+  "heroSubline": "Duet se naučí vaše typy cest, ceny a seznamy vybavení – poté navrhne odpovědi na dotazy ohledně rezervace, aby zákazníci dostali odpovědi, zatímco vy jezdíte rychlíky.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "Celodenní výlet na raftu pro 6 9. srpna?",
+      "preview": "Ahoj! Jsme 6členná rodina na návštěvě v srpnu a chceme si zarezervovat celodenní rafting na 9. Jaká je cena za osobu a jakou úroveň zkušeností potřebujeme?",
+      "pill": "Odpovědět",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Vícedenní výlet – co je v ceně?",
+      "preview": "Jsme skupina 4 a díváme se na vaši 3denní expedici. Jsou v ceně jídlo, kempingové vybavení a suché tašky nebo si musíme přinést vlastní...",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "Rachel & Mark S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "Děti ve věku 8 a 10 let – dostatečně bezpečné?",
+      "preview": "Rádi bychom si udělali půldenní výlet, ale našim dětem je 8 a 10 let. Je sekce II. třídy vhodná pro jejich věk? Jaké je minimum...",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Nová recenze pro váš zápis",
+      "preview": "Cestovatel nedávno recenzoval vaši firmu. Podívejte se, co řekli a odpovězte...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "Ahoj Jennifer! 9. srpna je otevřeno na 6. Celodenní výlety jsou $150/person a trvají asi 7 hodin — vložili jsme na 8:30 AM. Nejsou potřeba žádné zkušenosti, naši průvodci si se vším poradí. V ceně jsou PFD, helmy, suché vaky a oběd u řeky. Vezměte si opalovací krém, boty do vody a oblečení, u kterého vám nevadí, že se namočíte. Chcete, abych vám rezervoval místa?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "osoba",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "Dvě uložené rezervace platí za celý rok Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první se objeví dotazy na cestu, jako druhé otázky týkající se výbavy a zmizí propagační hluk. Už vám nebude chybět skupinová rezervace pohřbená pod upozorněními TripAdvisor.",
+  "draftSubtitle": "Duet se naučí vaše typy výletů, třídy peřejí, seznamy vybavení a zásady zrušení. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď se vším, co zákazník potřebuje. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Nějaká volná místa v sobotu na celý den?\" \"Navrhněte odpověď Jennifer s dostupností.\" Duet zná vaši doručenou poštu a plán – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "Celodenní výlet na raftu pro 6 9. srpna?",
+      "preview": "Jsme 6členná rodina na návštěvě v srpnu a chceme si zarezervovat...",
+      "pill": "Odpovězte hned",
       "pillColor": "red"
     },
     {
       "from": "Brian T.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "Re: 3denní expedice potvrzena — 15.8",
+      "pill": "Zarezervováno",
       "pillColor": "blue"
     },
     {
       "from": "Rachel S.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "Jsou děti ve věku 8 a 10 let vhodné pro třídu II?",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "The Flybook",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Váš týdenní přehled rezervací",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "Konec sezóny – sleva 30 % na suché obleky",
+      "pill": "Propagační akce",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "Re: Celodenní výlet na raftu pro 6 9. srpna?",
+    "originalFrom": "Jennifer W. napsal:",
+    "originalText": "Ahoj! Jsme 6členná rodina na návštěvě v srpnu a chceme si zarezervovat celodenní rafting na 9. Jaká je cena za osobu a jakou úroveň zkušeností potřebujeme?",
     "lines": [
-      "Hey Jennifer!",
-      "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
-      "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
-      "Want me to reserve your spots?"
+      "Ahoj Jennifer!",
+      "9. srpen je otevřen pro 6. Celodenní výlety jsou $150/person a trvají asi 7 hodin — scházíme se na nástupišti na 8:30 AM.",
+      "Nejsou potřeba žádné zkušenosti. V ceně jsou PFD, helmy, suché tašky a oběd u řeky – stačí si vzít opalovací krém a boty do vody.",
+      "Chcete, abych vám rezervoval místa?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "9. srpna je dokořán pro 6. Celodenní výlety jsou $150/person",
     "tooltipFeatures": [
-      "Knows your trip types & pricing",
-      "Drafts in your voice",
-      "Includes gear lists automatically",
-      "Learns over time"
+      "Zná typy a ceny vašich cest",
+      "Píše návrhy vaším hlasem",
+      "Automaticky zahrnuje seznamy zařízení",
+      "Učí se časem"
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "Nějaká volná místa na sobotním celodenním výletu?",
+    "agentResponse": "Sobotní celý den má volná 4 místa z 10. Máte také půldenní ranní běh, který je plně obsazen, a vícedenní odjezd v neděli se 2 volnými místy. Chcete, abych navrhl odpověď na všechny nevyřízené dotazy s dostupností v sobotu?",
+    "followUp": "Navrhněte odpověď Jennifer s dostupností 9. srpna",
+    "followUpResponse": "Hotovo! Napsal jsem odpověď Jennifer potvrzující 9. srpen pro 6 hostů na $150/person. Obsahuje podrobnosti o standardní cestě, seznam vybavení a místo schůzky. Připraveno ke kontrole a odeslání."
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "Milovaný říčními průvodci a dodavateli konfekce",
   "testimonials": [
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "quote": "Během hlavní sezóny jsem na řece 6 dní v týdnu. Než jsem se vrátil k e-mailům, polovina skupin už měla rezervaci u někoho jiného. Nyní Duet návrhy odpovědí s podrobnostmi o cestě a cenami, zatímco jsem u vkládání.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "title": "Výlety na kajaku a SUP, NEBO",
+      "quote": "Každý zákazník se ptá na stejných pět otázek – cena, co přinést, úroveň dovedností, velikost skupiny, storno podmínky. Duet se to všechno naučil během prvního týdne. Z hodiny e-mailů každý večer jsem přešel k pěti minutám kontroly návrhů.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "title": "Průvodce vícedenní expedicí, AK",
+      "quote": "Provozuji 5denní výlety s nulovou mobilní službou. Před Duet zůstal každý dotaz bez odpovědi, dokud jsem nebyl zpátky ve městě. Nyní zákazníci dostanou podrobnou odpověď během několika minut a potvrzuji, když jsem u řeky.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "quote": "Řídím rezervace pro tři průvodce ve čtyřech typech výletů. Duet kategorizuje každý e-mail podle naléhavosti a v odpovědích navrhne správnou cestu, správnou cenu a správný seznam vybavení. Je to jako klonování sebe sama.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sophia K.",
       "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "quote": "Byli jsme skeptičtí, že umělá inteligence zvládne e-maily specifické pro rafting. Ale zachytilo to naše popisy třídy III vs. třídy IV, věková minima, dokonce i naši politiku kajaku s mokrým výjezdem. Zákazníci si myslí, že s námi mluví.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Strávit léto na řece,\nnestíhám emaily.",
+  "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "Zvládá Duet vlastní nabídky výletů a vícedenní expedice?",
+      "answer": "Ano. Duet se naučí vaši kompletní sestavu výletů – půldenní plavby, celodenní peřeje, vícedenní expedice – spolu s cenou, co je zahrnuto, věkovým minimem a úrovněmi obtížnosti. Když se někdo zeptá na 3denní výlet pro 6, vypracuje kompletní odpověď se správnými detaily. Zkontrolujete, v případě potřeby upravíte a odešlete."
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "Na vícedenních výletech jsem mimo síť. Funguje ještě Duet?",
+      "answer": "To je přesně ten problém, který Duet řeší. Zatímco jste na řece bez signálu, koncepty Duet odpoví na každý dotaz, který přijde. Až budete zpět v dosahu, vaše koncepty čekají – stačí zkontrolovat a odeslat. Většina průvodců nám říká, že to eliminuje nedodělky, kterým čelili po každém vícedenním výletu."
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "U $150/person pokrývají dvě uložené rezervace celý rok Pro."
 }

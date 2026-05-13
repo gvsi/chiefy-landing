@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail pro lety horkovzdušným balónem | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá pilotům balónů okamžitě reagovat na rezervační e-maily – dokonce i během letů při východu slunce. Odpovědi navržené AI s vašimi cenami, zásadami počasí a hlasem.",
+  "heroBadge": "Důvěřuje více než 200 pilotům balónů",
+  "heroHeadline": "Váš e-mailový asistent, když jste ve vzduchu",
+  "heroSubline": "Duet se naučí vaše letové řády, ceny a pravidla počasí – poté vám navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci, když startujete při východu slunce.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Let Sunrise pro 2 – sobota k dispozici?",
+      "preview": "Ahoj! Můj manžel a já jsme na návštěvě na naše výročí a rádi bychom si tuto sobotu zarezervovali let balónem při východu slunce. Máte prostor? Jaké jsou náklady na osobu?",
+      "pill": "Odpovědět",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "Poletíme zítra? Předpověď větru vypadá drsně",
+      "preview": "Jsme objednaní na zítřejší ráno, ale aplikace počasí ukazuje poryvy 15 mph. Letíme ještě nebo bychom měli plánovat přeložení...",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "Soukromý let pro nabídku – cena?",
+      "preview": "Chci překvapit svou přítelkyni soukromou jízdou balónem a požádat o ruku během letu. Kolik stojí soukromý let a můžete pomoci s koordinací...",
+      "pill": "Rezervace",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "Co bychom měli nosit? kde se potkáme?",
+      "preview": "Jsme objednaní na nedělní ráno. Co bychom měli nosit a kde přesně je místo setkání? Také, jak dlouho celý zážitek trvá...",
+      "pill": "Otázka",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Ahoj Rachel! Sobota je otevřena pro 2. Lety s východem slunce začínají kolem 6:15 AM — přesný čas a místo setkání potvrdíme večer předem na základě větru. Je to $250/person a zahrnuje asi hodinu ve vzduchu plus přípitek šampaňským po přistání. Oblékejte se ve vrstvách a noste boty s uzavřenou špičkou. Chcete, abych vám rezervoval místa?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "let",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "Jeden ušetřený let platí za rok Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první vidíte požadavky na rezervaci, jako druhé otázky ohledně počasí a žádný hluk. Už žádné zmeškání letového dotazu skrytého pod upozorněními v newsletteru.",
+  "draftSubtitle": "Duet se naučí vaše ceny, zásady počasí a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o letu, informacemi o schůzce a oblečením. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Kdo je na zítřejším manifestu?\" \"Nějaká zrušení počasí kvůli přeplánování?\" Duet zná vaši doručenou poštu a kalendář – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Let Sunrise pro 2 – sobota k dispozici?",
+      "preview": "S manželem bychom si rádi zarezervovali let balónem při východu slunce...",
+      "pill": "Odpovězte hned",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: Rezervace potvrzena — neděle 6:15 AM",
+      "pill": "Zarezervováno",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "Co bychom si měli vzít na let?",
+      "pill": "Otázka",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "Nová recenze pro váš zápis",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Balloon Federation",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
+      "subject": "Březnový bezpečnostní bulletin a připomenutí obnovení",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: Sunrise let pro 2 — sobota k dispozici?",
+    "originalFrom": "Rachel T. napsal:",
+    "originalText": "Ahoj! Můj manžel a já jsme na návštěvě na naše výročí a rádi bychom si tuto sobotu zarezervovali let balónem při východu slunce. Máte prostor? Jaké jsou náklady na osobu?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Ahoj Rachel!",
+      "Sobota je otevřena pro 2. Lety při východu slunce jsou $250/person a zahrnují asi hodinu ve vzduchu plus přípitek šampaňským po přistání.",
+      "Startujeme kolem 6:15 AM — přesný čas a místo schůzky vám pošlu večer předem na základě větrných podmínek. Oblékejte se ve vrstvách a noste boty s uzavřenou špičkou.",
+      "Všechno nejlepší k výročí! Chcete, abych vám rezervoval místa?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Sobota je otevřená pro 2. Sunrise flighty jsou $250/person",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Zná vaše ceny a letový řád",
+      "Píše návrhy vaším hlasem",
+      "Automaticky zahrnuje podrobnosti o schůzce",
+      "Učí se časem"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Kdo je na zítřejším manifestu a jaké je počasí?",
+    "agentResponse": "Na zítřejší let při východu slunce je rezervováno 6 cestujících ve 2 rezervacích: Thompson party (4) a Lee couple (2). Aktuální předpověď ukazuje klidný vítr o rychlosti 4 mph a jasnou oblohu v době startu. Zatím žádné e-maily o zrušení. Chcete, abych poslal potvrzení o místě setkání?",
+    "followUp": "Ano, pošlete potvrzení oběma stranám s časem setkání 6:15 AM",
+    "followUpResponse": "Hotovo! Na startovacím poli jsem navrhl potvrzení o místě setkání pro Thompsony i Lees se 6:15 AM, co si obléknout a jak postupovat. Připraveno ke kontrole a odeslání."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Oblíbený piloty a operátory balónů",
   "testimonials": [
     {
       "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "title": "Pilot balónu, MN",
+      "quote": "Jsem operace jednoho muže – létám, dělám posádku, odpovídám na e-maily. Kromě 5 AM nafukuji, neodpovídám. Duet navrhuje odpovědi na každé „poletíme zítra?“ zpráva přes noc. Probudím se, zkontroluji počasí a stisknu odeslat.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "title": "Celoroční balónové výlety, UT",
+      "quote": "Každý den dostáváme stejných 10 otázek. Co si vzít na sebe, kde se sejít, co když fouká. Duet se to všechno naučil a nyní navrhuje perfektní odpovědi. Z hodiny e-mailů každý večer jsme přešli na pět minut.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "quote": "Hlavní sezóna znamená 4-6 letů týdně a každý cestující pošle e-mail alespoň dvakrát před letem. Duet zpracovává předletové otázky, takže se mohu soustředit na to, abych lidem poskytl to nejlepší ráno v jejich životě.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "Spolumajitel společnosti Balloon Company, NM",
+      "quote": "Zrušení počasí mi zničilo celý den – 8 cestujících, kteří všichni potřebovali osobní e-maily o změně termínu. Nyní Duet navrhne každého s našimi zásadami změny rezervace. Šetří mi hodiny ráno při zrušení.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "title": "Balon Ride Operations, CO",
+      "quote": "Návrhové lety vyžadují tolik koordinace tam a zpět. Duet pochopil, jak s nimi zacházíme – načasování, kódová slova, nastavení šampaňského. Vykresluje odpovědi, kterých se sotva musím dotknout.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Strávit svá rána na obloze,\nnení ve vaší doručené poště.",
+  "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Jak Duet zpracovává e-maily o zrušení počasí?",
+      "answer": "Duet se naučí vaše zásady zrušení a změny rezervace. Když zrušíte let kvůli počasí, může navrhnout personalizované e-maily s přeplánováním pro každého dotčeného cestujícího – s vašimi zásadami, dostupnými daty a vaším tónem. Zkontrolujete a odešlete. To, co dříve trvalo hodinu jednotlivých odpovědí, trvá minuty."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Dokáže Duet zvládnout otázku 'budeme zítra létat?' e-maily, které zaplavují každý večer?",
+      "answer": "Ano – toto je jeden z nejčastějších e-mailů, o kterých nám provozovatelé balónů sdělují. Duet se naučí vaše zásady počasí a navrhne uklidňující odpovědi, které vysvětlí váš rozhodovací proces, kdy uskutečníte poslední hovor a co můžete očekávat. Jakmile ráno potvrdíte go/no-go, bude moci navrhnout aktualizace všem v manifestu."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "U $250/person se 4 cestujícími na let platí jedna ušetřená rezervace za více než rok Pro."
 }
