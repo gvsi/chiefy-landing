@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail untuk Tur Kereta Luncur Anjing |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu para mushers merespons email pemesanan secara instan — bahkan dari jalurnya.  AI -Balasan yang disusun dengan jenis tur, harga, kebijakan, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 200+ musher",
+  "heroHeadline": "Asisten email Anda saat Anda sedang dalam perjalanan",
+  "heroSubline": "Duet mempelajari jenis tur, harga, kebijakan cuaca, dan tambahan Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "Kombo Aurora + kereta luncur anjing untuk 4 orang?",
+      "preview": "Hai! Keluarga saya yang terdiri dari 4 orang mengunjungi Fairbanks pada bulan Januari. Apakah Anda menawarkan paket kombo dengan kereta luncur anjing dan melihat aurora? Berapa harganya?",
+      "pill": "Untuk Menanggapi",
       "pillColor": "red"
     },
     {
-      "from": "James W.",
+      "from": "james w.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "Apa yang harus kita pakai?",
+      "preview": "Kami dipesan untuk pengalaman bubur 2 jam pada hari Sabtu. Apa yang harus kita pakai? Apakah Anda menyediakan perlengkapan atau kami perlu membawa sendiri...",
+      "pill": "Pertanyaan",
       "pillColor": "amber"
     },
     {
       "from": "Kim & Brian L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "Anak-anak usia 5 dan 8 tahun — bolehkah mereka makan bubur?",
+      "preview": "Kami membawa dua anak kami (5 dan 8). Bisakah mereka naik kereta luncur atau benar-benar membantu bubur? Anjing-anjing juga bisa bergaul dengan baik dengan anak-anak kecil...",
+      "pill": "Pemesanan",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Ulasan baru untuk listing Anda",
+      "preview": "Seorang wisatawan baru-baru ini mengulas bisnis Anda. Lihat apa yang mereka katakan dan tanggapi...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "Hai Rachel! Kami dengan senang hati akan menerima keluarga Anda. Kombo Aurora + Mush kami berharga $175/orang — Anda dapat naik kereta luncur selama 1,5 jam melewati jalan setapak saat senja, lalu menikmati coklat panas di dekat perapian sambil menunggu lampu menyala. Semua perlengkapan cuaca dingin disediakan. Anak-anak berusia 12 tahun ke bawah berharga $125. Ingin aku memesankanmu untuk bulan Januari?",
   "math": {
     "pricePerBooking": "$150",
     "bookingUnit": "tour",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Dua pemesanan tersimpan membayar untuk satu tahun Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan tur yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari jenis, harga, dan suasana tur Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail paket, apa yang akan dikenakan, dan tambahan. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Ada pemesanan akhir pekan ini?\" \"Buatlah draf balasan tentang kombo aurora.\" Duet mengetahui inbox dan jadwal Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "Kombo Aurora + kereta luncur anjing untuk 4 orang?",
+      "preview": "Keluarga saya yang terdiri dari 4 orang mengunjungi Fairbanks pada bulan Januari...",
+      "pill": "Tanggapi Sekarang",
       "pillColor": "red"
     },
     {
-      "from": "James W.",
+      "from": "james w.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "Perihal: Pemesanan dikonfirmasi — Sabtu pukul 1 siang",
+      "pill": "Dipesan",
       "pillColor": "blue"
     },
     {
       "from": "Kim L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "Bisakah anak-anak kita (5 dan 8 tahun) ikut serta?",
+      "pill": "Pertanyaan",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "penerobos",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Ringkasan pemesanan mingguan Anda",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Alaska Gear Co.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "Obral musim dingin — diskon 30% untuk mushing harness",
+      "pill": "Promosi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "Re: Kombo Aurora + kereta luncur anjing untuk 4 orang?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Keluarga saya yang terdiri dari 4 orang mengunjungi Fairbanks pada bulan Januari. Apakah Anda menawarkan paket kombo dengan kereta luncur anjing dan melihat aurora? Berapa harganya?",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "Hai Rachel!",
+      "Kombo Aurora + Mush kami berharga $175/orang — naik kereta luncur selama 1,5 jam saat senja diikuti dengan coklat panas dan melihat aurora di dekat api unggun. Anak-anak berusia 12 tahun ke bawah berharga $125.",
+      "Semua perlengkapan cuaca dingin disediakan (sepatu bot, oto, sarung tangan, masker wajah). Kenakan saja lapisan hangat di bawahnya.",
+      "Mau aku memesan keluargamu yang terdiri dari 4 orang untuk bulan Januari?"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "Aurora + Mush Combo berharga $175/orang — naik kereta luncur 1,5 jam",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "Mengetahui jenis & harga tur Anda",
+      "Draf dalam suara Anda",
+      "Termasuk perlengkapan dan detail tambahan",
+      "Belajar seiring berjalannya waktu"
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "Adakah pemesanan yang akan datang akhir pekan ini? Cuaca terlihat tidak menentu.",
+    "agentResponse": "Anda memiliki 3 tur yang dipesan akhir pekan ini: kunjungan kennel pada hari Sabtu pukul 10.00 (2 tamu), pengalaman bubur selama 2 jam pada hari Sabtu pukul 13.00 (4 tamu), dan kombo aurora pada hari Minggu pukul 16.00 (6 tamu). Kelompok hari Minggu bertanya tentang kebijakan pembatalan. Ingin saya membuat draf pembaruan cuaca untuk ketiganya?",
+    "followUp": "Draf pembaruan cuaca untuk grup aurora hari Minggu",
+    "followUpResponse": "Selesai! Saya menyusun balasan ke grup Sunday aurora yang memberi tahu mereka bahwa Anda sedang memantau kondisi dan akan mengonfirmasinya pada Sabtu malam. Ini mencakup kebijakan penjadwalan ulang dan tanggal alternatif Anda. Siap untuk meninjau dan mengirim."
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "Dicintai oleh mushers dan operator tur",
   "testimonials": [
     {
       "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "title": "Operator Tur Kereta Luncur Anjing, AK",
+      "quote": "Saya berada di jalur 6 jam sehari tanpa layanan seluler. Pada saat saya kembali, separuh pertanyaan pemesanan telah dialihkan ke perusahaan lain. Draf duet membalas dengan detail tur dan harga saya — para tamu akan mendengarnya dalam hitungan menit, bukan jam.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
-      "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "title": "Pemilik Tur Kennel & Mush, AK",
+      "quote": "Kami menawarkan kunjungan kennel, wahana bubur, dan kombinasi aurora — setiap email memerlukan jawaban yang berbeda. Duet menemukan ketiga jenis tur dalam seminggu dan sekarang menyusun balasan yang selalu cocok dengan paket yang tepat.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "title": "Panduan Kereta Luncur Anjing, MN",
+      "quote": "Saya biasa menghabiskan setiap malam menjawab pertanyaan yang sama tentang apa yang harus dipakai, batasan usia, dan anjing. Duet menangani semuanya. Saya pulang dari jalan setapak dan semuanya sudah dirancang dan menunggu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
-      "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "title": "Operator Tur Aurora & Kereta Luncur, AK",
+      "quote": "Pembatalan cuaca terjadi terus-menerus di musim dingin. Draf duet menjadwal ulang balasan dengan kebijakan kami dan tanggal alternatif bahkan sebelum saya sempat memeriksa ponsel saya. Para tamu menyukai respons yang cepat.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
-      "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "title": "Petualangan Kereta Luncur Anjing Keluarga, CO",
+      "quote": "Orang tua selalu bertanya apakah anak-anak mereka boleh makan bubur, apakah anjingnya ramah, pakaian apa yang harus dipakai — 10 pertanyaan yang sama. Duet mempelajari setiap jawaban dan menyusunnya dengan sempurna. Ini seperti mengkloning diri saya sendiri untuk email.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Habiskan musim dingin di jalan setapak bersama anjing Anda,\ntidak ada di inbox Anda.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "Bagaimana Duet menangani pembatalan cuaca dan ketidakpastian aurora?",
+      "answer": "Duet mempelajari kebijakan pembatalan dan penjadwalan ulang Anda. Saat tamu mengirim email tentang masalah cuaca atau visibilitas aurora, tamu tersebut akan menyusun balasan berisi kebijakan Anda, tanggal alternatif, dan detail relevan lainnya — seperti memantau kondisi dan mengonfirmasi menjelang tur. Anda meninjau dan mengirim."
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "Saya menawarkan beberapa jenis tur dengan harga dan tambahan berbeda. Bisakah Duet menjaganya tetap lurus?",
+      "answer": "Ya. Duet mempelajari setiap jenis tur Anda — kunjungan kennel, pengalaman bubur, kombo aurora, tambahan fotografi, paket transportasi — beserta harga, durasi, dan apa saja yang disertakan. Ketika ada pertanyaan yang masuk, ia akan mencocokkan tur yang tepat dan menyusun balasan dengan rincian yang benar."
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "Dengan $150/tur, dua pemesanan tersimpan membayar Pro selama lebih dari setahun."
 }

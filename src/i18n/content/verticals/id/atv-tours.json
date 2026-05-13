@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail untuk Tur ATV & UTV |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu pemandu wisata ATV dan UTV merespons email pemesanan secara instan — bahkan dari jalur perjalanan.  AI -Balasan yang disusun dengan harga, persyaratan, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 200+ pemandu wisata",
+  "heroHeadline": "Asisten email Anda saat Anda sedang dalam perjalanan",
+  "heroSubline": "Duet mempelajari jenis tur, harga, dan persyaratan pengendara Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
   "inboxEmails": [
     {
-      "from": "Rachel W.",
+      "from": "rachel w.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "Ketersediaan hari Sabtu untuk 4 mesin?",
+      "preview": "Hai! Kami adalah kelompok beranggotakan 4 orang yang ingin memesan tur ATV berpemandu pada hari Sabtu ini. Apakah kamu punya ruang? Berapa harga per mesinnya?",
+      "pill": "Untuk Menanggapi",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "Persyaratan asuransi?",
+      "preview": "Hei, kami membawa UTV kami sendiri. Apakah kami perlu menunjukkan bukti pertanggungjawaban asuransi? Perlindungan seperti apa yang Anda perlukan...",
+      "pill": "Pertanyaan",
       "pillColor": "amber"
     },
     {
-      "from": "The Hendersons",
+      "from": "Keluarga Henderson",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "Jalur mana untuk pemula?",
+      "preview": "Kami belum pernah melakukan pengendaraan ATV sebelumnya. Rute tur manakah yang akan Anda rekomendasikan untuk keluarga dengan dua remaja? Apakah Anda menyediakan...",
+      "pill": "Pemesanan",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Ulasan baru untuk listing Anda",
+      "preview": "Seorang wisatawan baru-baru ini mengulas bisnis Anda. Lihat apa yang mereka katakan dan tanggapi...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "Hai Rachel! Sabtu buka dan kami dapat mengambil 4 mesin tidak masalah. Tur berharga $200 per mesin dan berlangsung sekitar 6-8 jam. Kita bertemu jam 9 pagi di ujung jalan setapak — Saya akan mengirimkan petunjuk arah setelah Anda dikonfirmasi. Helm dan kacamata disediakan. Ingin aku menguncimu?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "grup (4 mesin)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Satu pemesanan grup tersimpan membayar untuk satu tahun Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan asuransi kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan grup yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari rute tur Anda, harga, dan kebutuhan pengendara. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail perjalanan, harga, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Adakah grup yang dipesan untuk akhir pekan ini?\" \"Buat draf balasan untuk Rachel dengan ketersediaan hari Sabtu.\" Duet mengetahui inbox dan jadwal Anda — tanyakan saja.",
   "categorizationEmails": [
     {
-      "from": "Rachel W.",
+      "from": "rachel w.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "Ketersediaan hari Sabtu untuk 4 mesin?",
+      "preview": "Kami adalah kelompok beranggotakan 4 orang yang ingin memesan tur ATV berpemandu...",
+      "pill": "Tanggapi Sekarang",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Perihal: Pemesanan dikonfirmasi — Sabtu pukul 09.00",
+      "pill": "Dipesan",
       "pillColor": "blue"
     },
     {
-      "from": "The Hendersons",
+      "from": "Keluarga Henderson",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "Pakaian apa yang harus kita kenakan saat perjalanan?",
+      "pill": "Pertanyaan",
       "pillColor": "amber"
     },
     {
-      "from": "Yelp for Business",
+      "from": "Yelp untuk Bisnis",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
+      "subject": "Pembaruan bisnis mingguan Anda",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Rocky Mountain ATV",
+      "from": "Gunung Berbatu ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "Izin pegas — diskon 25% untuk suku cadang",
+      "pill": "Promosi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: Ketersediaan hari Sabtu untuk 4 mesin?",
+    "originalFrom": "Rachel W. menulis:",
+    "originalText": "Hai! Kami adalah kelompok beranggotakan 4 orang yang ingin memesan tur ATV berpemandu pada hari Sabtu ini. Apakah kamu punya ruang? Berapa harga per mesinnya?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Hai Rachel!",
+      "Sabtu terbuka lebar untuk 4 mesin. Tur dikenakan biaya $200 per mesin dan berlangsung 6-8 jam mulai pukul 9 pagi dari ujung jalan setapak.",
+      "Helm dan kaca mata disediakan — cukup kenakan celana panjang, sepatu tertutup, serta bawa air dan tabir surya. Saya akan mengirimkan titik pertemuan dan petunjuk arah setelah Anda dikonfirmasi.",
+      "Ingin aku menguncimu?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Sabtu terbuka lebar untuk 4 mesin. Tur dikenakan biaya $200 per mesin",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Tahu harga & rute tur Anda",
+      "Draf dalam suara Anda",
+      "Termasuk persyaratan pengendara secara otomatis",
+      "Belajar seiring berjalannya waktu"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "Adakah grup yang dipesan untuk akhir pekan ini?",
+    "agentResponse": "Berdasarkan inbox Anda, Anda memiliki rombongan beranggotakan 6 orang yang dikonfirmasi untuk hari Sabtu pukul 09.00 dan pasangan yang dipesan untuk Minggu pagi. Sabtu sore dan Minggu sore masih buka. Ingin saya menyusun balasan atas pertanyaan apa pun yang tertunda dengan lowongan tersebut?",
+    "followUp": "Draf balasan ke Rachel dengan ketersediaan hari Sabtu",
+    "followUpResponse": "Selesai! Saya menyusun balasan ke Rachel yang mengonfirmasi hari Sabtu untuk 4 mesin seharga $200 masing-masing. Ini mencakup lokasi pertemuan standar Anda, informasi perlengkapan, dan pakaian yang akan dikenakan. Siap untuk meninjau dan mengirim."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "Dicintai oleh pemandu wisata dan operator",
   "testimonials": [
     {
       "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "title": "Panduan ATV, Utah Selatan",
+      "quote": "Saya memimpin tur 8 jam melalui ngarai tanpa layanan seluler. Pada saat saya kembali, separuh email pemesanan saya sudah dingin. Duet menyusun tanggapan dengan harga dan info jejak saya — Saya baru meninjaunya di penghujung hari.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "title": "Operator Tur UTV, Colorado",
+      "quote": "Kami menjalankan tur 7 hari seminggu dan pertanyaan tentang asuransi dan pengabaian saja sudah menghabiskan pagi hari saya. Duet menangani semuanya — persyaratan pengendara, batasan usia, apa yang harus dibawa. Kedengarannya persis seperti saya.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "name": "jaka r.",
+      "title": "Pemandu Wisata Jeep, Moab",
+      "quote": "Orang-orang mengirim email untuk menanyakan jalur mana yang tepat untuk kelompok mereka, tingkat pengalaman apa yang mereka butuhkan, apakah anak-anak dapat bersepeda. 5 pertanyaan yang sama berulang kali. Duet memakukan semuanya.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
-      "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "title": "Petualangan Off-Road, AZ",
+      "quote": "Saya menghabiskan lebih dari satu jam setiap malam untuk menjawab pertanyaan ketersediaan yang sama. Sekarang Duet membuat draf balasan saat saya sedang dalam perjalanan. Waktu respons saya berubah dari jam ke menit.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Amanda K.",
-      "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "name": "amanda k.",
+      "title": "Tur Keluarga ATV, Sedona",
+      "quote": "Kami mendapatkan banyak keluarga yang bertanya tentang jalur pemula dan persyaratan usia. Duet mempelajari semua opsi tur kami dan merekomendasikan opsi yang tepat di setiap balasan. Klien tidak dapat membedakannya.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Habiskan musim puncak di jalan setapak,\ntidak ada di inbox Anda.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Apakah Duet menangani pertanyaan asuransi dan pelepasan hak?",
+      "answer": "Ya. Duet mempelajari persyaratan pengendara Anda — asuransi pertanggungjawaban, batasan usia, detail surat pernyataan pengabaian, apa saja yang perlu dibawa oleh pengendara. Ketika seseorang mengirim email menanyakan apa yang mereka butuhkan sebelum tur, Duet menyusun tanggapan lengkap dengan semua detailnya. Anda meninjau dan mengetuk kirim."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Saya berada di jalan sepanjang hari tanpa layanan seluler. Bagaimana Duet membantu?",
+      "answer": "Itulah mengapa pemandu menyukai Duet. Saat Anda memimpin tur 6-8 jam tanpa sinyal, pertanyaan pemesanan menumpuk. Draf duet membalas semuanya — harga, ketersediaan, lokasi pertemuan, apa yang akan dikenakan. Saat Anda kembali, Anda meninjau drafnya dan mengirimkannya. Sebagian besar pemandu memberi tahu kami bahwa ini menghemat waktu mengirim email 1-2 jam per hari selama musim puncak."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "Dengan $200/mesin, satu grup simpanan beranggotakan 4 orang membayar Pro selama lebih dari setahun."
 }

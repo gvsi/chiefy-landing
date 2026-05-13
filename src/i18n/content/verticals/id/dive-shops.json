@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail untuk Toko Selam |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu pemilik toko selam dan instruktur PADI menjawab pertanyaan sertifikasi, pemesanan perjalanan, dan pertanyaan perlengkapan secara instan — bahkan dari bawah air.",
+  "heroBadge": "Dipercaya oleh 300+ operator selam",
+  "heroHeadline": "Asisten email Anda saat Anda berada di bawah air",
+  "heroSubline": "Duet mempelajari lokasi penyelaman Anda, persyaratan sertifikasi, harga, dan suara — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan saat berada di kapal.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "Sertifikasi Perairan Terbuka — ketersediaan?",
+      "preview": "Hai! Saya mengunjungi minggu pertama bulan Agustus dan ingin mendapatkan sertifikat Open Water saya. Berapa hari yang dibutuhkan dan apa saja yang termasuk?",
+      "pill": "Untuk Menanggapi",
       "pillColor": "red"
     },
     {
       "from": "Kevin & Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "Kelompok 6 untuk penyelaman 2 tangki pada hari Sabtu",
+      "preview": "Kami memiliki 6 penyelam bersertifikat dan ingin memesan penyelaman 2 tangki pagi hari Sabtu ini. Apakah Anda punya ruang? Berapa tarif per orang...",
+      "pill": "Pemesanan",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "Sewa BCD untuk akhir pekan?",
+      "preview": "Hei, aku bersertifikat tapi bepergian dengan ringan. Apakah Anda menyewa BCD dan regulator? Saya membutuhkannya pada hari Jumat sampai Minggu...",
+      "pill": "Pertanyaan",
       "pillColor": "amber"
     },
     {
-      "from": "PADI eLearning",
+      "from": "eLearning PADI",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
+      "subject": "Rujukan siswa: Rachel Torres",
+      "preview": "Seorang siswa telah menyelesaikan eLearning mereka dan memilih pusat penyelaman Anda untuk pelatihan perairan terbatas dan terbuka...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "Hai Rachel! Kami ingin Anda mendapatkan sertifikasi. Kursus Perairan Terbuka berlangsung selama 3 hari — satu hari sesi kolam renang dan dua hari menyelam di laut. Semua perlengkapan disertakan. Agustus terbuka lebar. Ingin saya memesan tempat untuk minggu pertama itu?",
   "math": {
     "pricePerBooking": "$150",
     "bookingUnit": "dive",
-    "lostPerMonth": "3 trips (6 divers each)",
+    "lostPerMonth": "3 perjalanan (masing-masing 6 penyelam)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "Satu penyelaman grup yang disimpan akan membayar untuk satu tahun Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat pertanyaan sertifikasi dan pemesanan selam terlebih dahulu, pertanyaan perlengkapan kedua, dan peringatan PADI ketika Anda siap. Tidak ada lagi kehilangan pemesanan grup yang terkubur di bawah buletin peralatan.",
+  "draftSubtitle": "Duet mempelajari lokasi penyelaman Anda, persyaratan sertifikat, dan harga. Ketika pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan rincian perjalanan, apa saja yang termasuk, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Berapa banyak penyelam yang dipesan untuk hari Sabtu?\" \"Draft balasan untuk Rachel dengan ketersediaan Open Water.\" Duet mengetahui inbox dan jadwal Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "Sertifikasi Perairan Terbuka — ketersediaan?",
+      "preview": "Saya mengunjungi minggu pertama bulan Agustus dan ingin mendapatkan sertifikasi...",
+      "pill": "Tanggapi Sekarang",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "kevin l.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Perihal: Pemesanan dikonfirmasi — Penyelaman 2 tangki pada hari Sabtu",
+      "pill": "Dipesan",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "Sewa BCD dan regulator akhir pekan ini?",
+      "pill": "Pertanyaan",
       "pillColor": "amber"
     },
     {
-      "from": "DiveBuddy",
+      "from": "Teman Selam",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
+      "subject": "Ulasan baru di listingan Anda",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Dive Gear Express",
+      "from": "Perlengkapan Selam Ekspres",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Obral musim panas — diskon 25% untuk pakaian selam",
+      "pill": "Promosi",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "Perihal: Sertifikasi Perairan Terbuka — ketersediaan?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Saya mengunjungi minggu pertama bulan Agustus dan ingin mendapatkan sertifikat Open Water saya. Berapa hari yang dibutuhkan dan apa saja yang termasuk?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "Hai Rachel!",
+      "Kami ingin Anda mendapatkan sertifikasi! Kursus PADI Open Water berlangsung selama 3 hari — satu sesi berenang di kolam renang dan dua kali menyelam di lautan di terumbu karang kami. Semua perlengkapan disertakan.",
+      "Bulan Agustus terbuka lebar saat ini. Kebanyakan siswa memulai pada hari Senin sehingga mereka selesai pada hari Rabu.",
+      "Ingin saya memesan tempat?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "Kursus PADI Open Water berlangsung selama 3 hari",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "Tahu kursus & harga Anda",
+      "Draf dalam suara Anda",
+      "Termasuk persyaratan sertifikat secara otomatis",
+      "Belajar seiring berjalannya waktu"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "Berapa banyak penyelam yang dipesan untuk hari Sabtu?",
+    "agentResponse": "Berdasarkan inbox Anda, Anda memiliki 8 penyelam yang dikonfirmasi untuk penyelaman 2 tangki pada Sabtu pagi — pemesanan grup Kevin yang terdiri dari 6 orang ditambah 2 individu. Anda juga memiliki pertanyaan tertunda dari Jason tentang penyewaan perlengkapan untuk perjalanan yang sama. Ingin saya membuat draf balasan?",
+    "followUp": "Draf balasan ke Rachel dengan rincian kursus Open Water",
+    "followUpResponse": "Selesai! Saya menyusun balasan kepada Rachel yang mengonfirmasi kursus PADI Open Water selama 3 hari termasuk menyelam di kolam renang dan laut. Ini menyebutkan ketersediaan bulan Agustus dan kebijakan standar yang mencakup perlengkapan Anda. Siap untuk meninjau dan mengirim."
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "Dicintai oleh operator selam",
   "testimonials": [
     {
-      "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "name": "Kapten Mike T.",
+      "title": "Kapten Kapal Selam, FL",
+      "quote": "Saya menjalankan perjalanan perahu pada hari Jumat hingga Minggu dan toko hanya buka beberapa jam pada hari Senin. Pertanyaan sertifikasi dan pertanyaan perjalanan menumpuk saat saya berada di bawah air. Draf duet membalas dengan harga saya, situs penyelaman, dan apa saja yang disertakan — saya meninjaunya di sela-sela penyelaman.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "title": "Pusat Menyelam PADI, HI",
+      "quote": "Kami mengadakan penyelaman, tur snorkeling, dan mengamati ikan paus dari perahu yang sama. Variasi emailnya luar biasa — pertanyaan sertifikat, pemesanan grup, persewaan perlengkapan, pemeriksaan cuaca. Duet mengurutkan semuanya dan menyusun balasan yang mengetahui perbedaannya. Penyelamat mutlak.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "name": "jaka r.",
+      "title": "Penyewaan Kapal Karam, FL",
+      "quote": "Separuh email saya berisi 'sertifikasi apa yang saya perlukan untuk penyelaman bangkai kapal?' dan separuh lainnya adalah 'apakah saya memerlukan perlengkapan saya sendiri?' Duet menangani keduanya dengan autopilot. Waktu respons saya berubah dari jam ke menit.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "title": "Pemilik Toko Selam, CA",
+      "quote": "Selama musim panas kami menerima 30+ email sehari tentang kursus, ketersediaan perjalanan, dan peralatan. Saya kehilangan pemesanan karena toko yang membalas lebih cepat. Sekarang Duet menyusun semuanya dan saya menekan tombol kirim antar kelas.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "title": "Instruktur & Pemandu Selam, NC",
+      "quote": "Saya mengajar kursus di pagi hari dan memandu penyelaman di sore hari. Benar-benar tidak ada waktu untuk menjawab email. Duet mempelajari jadwal kursus saya, harga, bahkan kebijakan pembatalan saya. Klien tidak dapat membedakannya.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Habiskan hari-harimu di bawah air,\ntidak terkubur di inbox Anda.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Apakah Duet memahami tingkat sertifikasi dan persyaratan kursus?",
+      "answer": "Ya. Duet mempelajari kursus spesifik Anda — Perairan Terbuka, Lanjutan, Penyelamatan, Divemaster — beserta prasyarat, durasi, harga, dan apa saja yang disertakan. Saat seseorang bertanya tentang cara mendapatkan sertifikasi, Duet akan menyusun balasan dengan detail kursus, jadwal, dan langkah selanjutnya yang tepat. Anda meninjau dan mengirim."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Saya berada di atas kapal atau di bawah air sepanjang hari. Bisakah saya menggunakan Duet dari ponsel saya?",
+      "answer": "Ya. Duet berfungsi dengan Gmail dan Outlook, sehingga berfungsi di mana pun email Anda berfungsi — termasuk ponsel Anda. Draf muncul secara otomatis di inbox Anda. Antara menyelam atau kembali ke dermaga, Anda meninjau dan mengirim dengan satu ketukan. Sebagian besar operator selam memberi tahu kami bahwa ini menghemat waktu email mereka 1-2 jam per hari selama musim puncak."
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "Dengan harga $150/menyelam dengan grup beranggotakan 6 orang, satu perjalanan hemat akan menghasilkan Pro selama lebih dari setahun."
 }

@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "Duet Mail untuk Perhiasan Kustom |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu pembuat perhiasan khusus merespons permintaan konsultasi, persetujuan desain, dan pertanyaan garis waktu secara instan — bahkan saat berada di meja kerja.  AI -Balasan yang disusun dengan proses, harga, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 300+ desainer perhiasan",
+  "heroHeadline": "Asisten email Anda saat Anda berada di bangku cadangan",
+  "heroSubline": "Duet mempelajari proses desain, material, harga, dan jadwal Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien khusus karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "Konsultasi cincin pertunangan khusus?",
+      "preview": "Hai! Saya dan mitra saya tertarik dengan cincin pertunangan khusus. Kami memiliki berlian pusaka keluarga yang ingin kami gunakan. Apakah Anda memiliki ketersediaan untuk konsultasi bulan ini?",
+      "pill": "Untuk Menanggapi",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "amanda s.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "Perihal: Model 3D — bisakah kita menyesuaikan pengaturannya?",
+      "preview": "Suka dengan desain keseluruhannya! Tapi bisakah kita mencoba pengaturan profil yang lebih rendah? Saya melampirkan foto gaya yang saya pikirkan. Juga, apakah peralihan ke platinum akan mengubah garis waktu...",
+      "pill": "Revisi",
       "pillColor": "amber"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
+      "subject": "Pembaruan garis waktu tentang cincin kawin?",
+      "preview": "Hai! Hanya memeriksa cincin kawin kami yang cocok. Pernikahannya tanggal 18 Mei dan saya ingin memastikan kami masih berada di jalur yang benar. Bisakah Anda mengirimkan pembaruan cepat...",
       "pill": "Status",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "Simpul",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
+      "subject": "Ulasan baru di etalase Anda",
+      "preview": "Baru-baru ini ada pasangan yang mengulas bisnis Anda di The Knot. Lihat apa yang mereka katakan dan tanggapi...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "Hai Rachel! Saya ingin membantu Anda mendesain cincin di sekeliling berlian keluarga Anda — itu salah satu hal favorit saya untuk dilakukan. Saya buka pada hari Selasa dan Kamis sore bulan ini. Bawalah batu dan foto inspirasi apa pun. Konsultasi berlangsung sekitar satu jam dan tidak ada kewajiban. Ingin aku meluangkan waktu untukmu?",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "potongan khusus",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "Satu klien yang disimpan membayar Duet selama lebih dari empat tahun."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan konsultasi baru terlebih dahulu, persetujuan desain kedua, dan buletin vendor tidak pernah lagi. Tidak ada lagi pertanyaan senilai $5.000 yang hilang karena promo pemasok.",
+  "draftSubtitle": "Duet mempelajari proses, materi, harga, dan suara Anda. Ketika permintaan konsultasi diterima, ia akan menyusun balasan lengkap dengan ketersediaan Anda, apa yang harus dibawa, dan bagaimana proses Anda bekerja. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Di mana kita dengan cincin Amanda?\" \"Draf pembaruan garis waktu untuk James.\" Duet mengetahui setiap thread klien — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "Konsultasi cincin pertunangan khusus?",
+      "preview": "Saya dan mitra saya tertarik dengan cincin khusus...",
+      "pill": "Pertanyaan Baru",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "amanda s.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "Perihal: model 3D v2 — tampak sempurna!",
+      "pill": "Persetujuan Desain",
       "pillColor": "blue"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "Band sudah siap — kapan kita bisa mengambilnya?",
+      "pill": "Siap untuk Dijemput",
       "pillColor": "amber"
     },
     {
       "from": "Emily W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "Perihal: Konsultasi tindak lanjut — suka sketsanya",
+      "pill": "Konsultasi",
       "pillColor": "amber"
     },
     {
-      "from": "Rio Grande Supply",
+      "from": "Pasokan Rio Grande",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "Obral musim semi — diskon 15% untuk temuan platinum",
+      "pill": "Penjual/Pemasok",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "Re: Konsultasi cincin pertunangan khusus?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Saya dan mitra saya tertarik dengan cincin pertunangan khusus. Kami memiliki berlian pusaka keluarga yang ingin kami gunakan. Apakah Anda memiliki ketersediaan untuk konsultasi bulan ini?",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "Hai Rachel!",
+      "Saya ingin membantu Anda merancang sesuatu yang istimewa di sekitar berlian keluarga Anda. Saya buka pada hari Selasa dan Kamis sore bulan ini.",
+      "Bawalah batu dan foto inspirasi apa pun — papan Pinterest, tangkapan layar, apa pun yang membantu. Konsultasi berlangsung sekitar satu jam dan tidak ada kewajiban.",
+      "Dari situ biasanya prosesnya: sketsa, model 3D, revisi, lalu produksi 3-4 minggu. Ingin aku meluangkan waktu untukmu?"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "sketsa, model 3D, revisi, kemudian produksi 3-4 minggu",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "Tahu proses & garis waktu Anda",
+      "Draf dalam suara Anda",
+      "Termasuk detail konsultasi secara otomatis",
+      "Belajar seiring berjalannya waktu"
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "Dimana kita dengan cincin pertunangan Amanda?",
+    "agentResponse": "Amanda menyetujui model 3D (v2) pada 14 Februari. Anda mengonfirmasi dimulainya produksi pada 16 Februari dengan perkiraan 3 minggu. Artinya, penyelesaiannya sekitar tanggal 9 Maret. Email terakhirnya menanyakan tentang opsi pengukiran — masih belum terjawab. Ingin saya membuat draf balasan?",
+    "followUp": "Draf pembaruan garis waktu untuk James tentang cincin kawin",
+    "followUpResponse": "Selesai! Saya menyusun balasan kepada James yang mengonfirmasi bahwa cincin kawinnya yang serasi sudah dalam tahap akhir dan akan siap diambil pada hari Jumat, 7 Maret — jauh sebelum pernikahannya pada tanggal 18 Mei. Siap untuk meninjau dan mengirim."
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "Dicintai oleh desainer perhiasan",
   "testimonials": [
     {
       "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "title": "Desainer Perhiasan Khusus, LA",
+      "quote": "Setiap bagian khusus menghasilkan 10-15 email selama berminggu-minggu. Kalikan dengan 8 klien aktif dan saya tenggelam. Balasan pembaruan desain draf duet, konfirmasi konsultasi, jawaban garis waktu — semuanya ada dalam suara saya. Saya meninjau antara casting dan menekan kirim.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "title": "Tukang Emas & Pemilik Studio, Brooklyn",
+      "quote": "Saya kehilangan komisi cincin pertunangan sebesar $7.000 karena saya membutuhkan waktu 3 hari untuk merespons — pasangan tersebut mendatangi seseorang yang membalas dalam 2 jam. Sejak Duet, waktu respons saya kurang dari 30 menit. Hal itu tidak terjadi lagi.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "name": "Dani K.",
+      "title": "Toko Perhiasan Bangku, Chicago",
+      "quote": "Saya berada di bangku cadangan 8 jam sehari dengan obor di tangan saya. Saya tidak bisa berhenti menyolder untuk mengetik balasan konsultasi. Duet menyusun semuanya selagi aku bekerja — aku melirik ponselku, menyetujuinya, selesai.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "title": "Desainer Perhiasan Pengantin, Austin",
+      "quote": "Selama musim pertunangan saya mendapatkan 20+ permintaan konsultasi dalam seminggu. Duet mempelajari seluruh proses saya — materi, jadwal, tingkatan harga, apa yang harus dibawa. Ini menyusun balasan yang hampir tidak perlu saya edit. Penyelamat mutlak dari bulan November hingga Februari.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "title": "Spesialis Cincin Kustom, Portland",
+      "quote": "Email revisi 3D biasa menghabiskan malam saya. Klien mengirimkan umpan balik, saya menyusun pembaruan, bolak-balik lima kali. Sekarang Duet menangani balasan rutin dan saya hanya turun tangan untuk mengambil keputusan desain. Aku mendapatkan malamku kembali.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Habiskan hari-harimu dengan menciptakan perhiasan,\ntidak menjawab email tentang hal itu.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Bisakah Duet menangani email dengan foto referensi dan lampiran desain?",
+      "answer": "Ya. Duet melihat rangkaian email lengkap termasuk lampiran, sehingga memahami konteks saat klien mengirimkan foto inspirasi atau masukan desain. Ini tidak akan mendeskripsikan kembali gambar tersebut, namun ia mengetahui bahwa klien baru saja mengirimkan foto referensi dan membuat draf balasan yang sesuai — mengonfirmasi penerimaan, mengajukan pertanyaan klarifikasi tentang desain, atau memberikan langkah selanjutnya berdasarkan alur kerja Anda yang biasa."
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "Proyek khusus saya memiliki rangkaian email yang panjang dengan 10+ pesan. Bisakah Duet mengikuti itu?",
+      "answer": "Di situlah Duet bersinar. Ia membaca seluruh riwayat thread — catatan konsultasi, revisi desain, pilihan material, pembaruan garis waktu — sehingga setiap draf balasan memiliki konteks penuh. Saat klien bertanya 'apa status cincin saya?' di email #14, Duet mengetahui dering mana, di tahap apa, dan menyusun pembaruan yang akurat. Tidak perlu lagi membaca ulang email selama 3 bulan sendiri."
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "Dengan harga $5.000/potong, satu komisi yang dihemat akan dibayarkan selama lebih dari empat tahun Pro."
 }

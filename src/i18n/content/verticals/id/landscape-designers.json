@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ landscape designers",
-  "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail untuk Desainer Lansekap |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu desainer lanskap merespons email klien secara instan — bahkan dari lapangan.  AI -Balasan yang disusun dengan detail proyek, harga, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 300+ desainer lanskap",
+  "heroHeadline": "Asisten email Anda saat Anda berada di lapangan",
+  "heroSubline": "Duet mempelajari detail proyek Anda, palet tanaman, harga, dan proses — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
-      "pill": "To Respond",
+      "subject": "Desain ulang halaman belakang — gratis untuk konsultasi?",
+      "preview": "Hai! Kami baru saja membeli rumah di Westlake dan halaman belakangnya kosong. Kami ingin desain ulang penuh dengan penanaman asli dan teras. Apakah Anda menerima klien baru?",
+      "pill": "Untuk Menanggapi",
       "pillColor": "red"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "preview": "Hey, we're ready to start trenching on Monday. Can you send over the irrigation layout and head specs so we can order materials this week?",
-      "pill": "Contractor",
+      "subject": "Spesifikasi irigasi untuk proyek Miller?",
+      "preview": "Hei, kami siap untuk mulai menggali parit pada hari Senin. Bisakah Anda mengirimkan tata letak irigasi dan spesifikasi kepala sehingga kami dapat memesan bahan minggu ini?",
+      "pill": "Kontraktor",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Quick question about the plant selections",
-      "preview": "We love the design! Just wondering — can we swap the Japanese maple for something with more fall color? Also, is the lavender deer-resistant?",
-      "pill": "Client",
+      "subject": "Pertanyaan singkat tentang pemilihan tanaman",
+      "preview": "Kami menyukai desainnya! Hanya ingin tahu — bisakah kita menukar maple Jepang dengan sesuatu yang lebih berwarna musim gugur? Selain di atas, apakah lavendernya tahan terhadap rusa?",
+      "pill": "Klien",
       "pillColor": "blue"
     },
     {
-      "from": "Valley View Nursery",
+      "from": "Pembibitan Pemandangan Lembah",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "preview": "Your order of 24 gallon shrubs, 6 specimen trees, and ground cover flats is ready. Pickup available Mon–Sat 7AM–4PM...",
-      "pill": "Supplier",
+      "subject": "Pesanan #4821 siap diambil",
+      "preview": "Pesanan semak 24 galon Anda, 6 pohon spesimen, dan flat penutup tanah sudah siap. Penjemputan tersedia Senin–Sabtu pukul 07.00–16.00...",
+      "pill": "Pemasok",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+  "autodraft": "Hai Rachel! Saya ingin membantu mengurus halaman belakang rumah Anda. Saat ini saya sedang memesan konsultasi awal 2-3 minggu ke depan. Kunjungan pertama adalah penilaian di lokasi selama 90 menit — Saya akan berjalan-jalan di properti, melakukan pengukuran, dan mendiskusikan visi Anda. Dari sana saya menyusun rencana konsep. Ingin saya memasukkan Anda ke dalam kalender?",
   "math": {
     "pricePerBooking": "$8,000",
     "bookingUnit": "project",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Duet."
+    "punchline": "Satu proyek yang disimpan membayar Duet selama bertahun-tahun."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan konsultasi baru terlebih dahulu, persetujuan klien kedua, dan tidak ada kebisingan pemasok. Tidak ada lagi petunjuk yang hilang yang terkubur di bawah konfirmasi pesanan pembibitan.",
+  "draftSubtitle": "Duet mempelajari harga, proses, dan nada Anda. Ketika permintaan konsultasi diterima, ia akan menyusun balasan lengkap dengan ketersediaan Anda, apa yang diharapkan, dan langkah selanjutnya. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Bagaimana timeline proyek Henderson?\" \"Klien mana yang menunggu persetujuan rencana?\" Duet mengetahui inbox dan proyek Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "We just bought a home and the backyard is a blank slate...",
-      "pill": "New Inquiry",
+      "subject": "Desain ulang halaman belakang — gratis untuk konsultasi?",
+      "preview": "Kami baru saja membeli rumah dan halaman belakangnya kosong...",
+      "pill": "Pertanyaan Baru",
       "pillColor": "red"
     },
     {
       "from": "Jennifer L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Re: Final design — we're ready to approve!",
-      "pill": "Client Approval",
+      "subject": "Perihal: Desain akhir — kami siap menyetujuinya!",
+      "pill": "Persetujuan Klien",
       "pillColor": "blue"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "pill": "Contractor",
+      "subject": "Spesifikasi irigasi untuk proyek Miller?",
+      "pill": "Kontraktor",
       "pillColor": "amber"
     },
     {
-      "from": "Valley View Nursery",
+      "from": "Pembibitan Pemandangan Lembah",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "pill": "Supplier",
+      "subject": "Pesanan #4821 siap diambil",
+      "pill": "Pemasok",
       "pillColor": "lavender"
     },
     {
-      "from": "QuickBooks",
+      "from": "Buku Cepat",
       "avatarLetter": "Q",
       "avatarColor": "lavender",
-      "subject": "Invoice #1047 viewed by client",
-      "pill": "Invoice",
+      "subject": "Faktur #1047 dilihat oleh klien",
+      "pill": "Faktur",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Backyard redesign — free for a consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "subject": "Perihal: Desain ulang halaman belakang — gratis untuk konsultasi?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Kami baru saja membeli rumah di Westlake dan halaman belakangnya kosong. Kami ingin desain ulang penuh dengan penanaman asli dan teras. Apakah Anda menerima klien baru?",
     "lines": [
-      "Hi Rachel!",
-      "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
-      "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
-      "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
+      "Hai Rachel!",
+      "Selamat atas rumah barunya - halaman belakang kosong sejujurnya adalah proyek impian. Saya benar-benar menerima klien baru.",
+      "Proses saya dimulai dengan konsultasi di lokasi selama 90 menit di mana saya berjalan di properti, melakukan pengukuran, dan membicarakan tujuan Anda. Dari sana saya mengembangkan rencana konsep dengan desain penanaman, tata letak hardscape, dan anggaran bertahap.",
+      "Saya memiliki lowongan dalam 2-3 minggu ke depan. Ingin saya mengirimkan beberapa tanggal yang tersedia?"
     ],
-    "highlightText": "My process starts with a 90-minute on-site consultation",
+    "highlightText": "Proses saya dimulai dengan konsultasi di tempat selama 90 menit",
     "tooltipFeatures": [
-      "Knows your design process & pricing",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "Mengetahui proses & harga desain Anda",
+      "Draf dalam suara Anda",
+      "Termasuk detail konsultasi secara otomatis",
+      "Belajar seiring berjalannya waktu"
     ]
   },
   "agent": {
-    "userMessage": "Which clients are still waiting on plan approval?",
-    "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
-    "followUp": "Draft a follow-up to Jennifer about the plan approval",
-    "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
+    "userMessage": "Klien mana yang masih menunggu persetujuan rencana?",
+    "agentResponse": "Berdasarkan email terbaru Anda, dua klien sedang menunggu persetujuan: Jennifer & Mark L. (desain ulang halaman belakang — mengirimkan rencana akhir 4 hari yang lalu, belum ada balasan) dan Cohens (konversi asli halaman depan — mengirimkan rencana yang direvisi minggu lalu). Ingin saya menyusun tindak lanjut yang lembut?",
+    "followUp": "Draf tindak lanjut Jennifer tentang persetujuan rencana",
+    "followUpResponse": "Selesai! Saya menyusun check-in ramah untuk Jennifer menanyakan apakah dia dan Mark memiliki kesempatan untuk meninjau rencana akhir, dan mengingatkannya bahwa Anda dapat menelepon sebentar untuk meninjau pemilihan tanaman. Siap untuk meninjau dan mengirim."
   },
-  "testimonialsTitle": "Loved by landscape designers",
+  "testimonialsTitle": "Dicintai oleh desainer lanskap",
   "testimonials": [
     {
-      "name": "Michael S.",
-      "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "name": "michael s.",
+      "title": "Arsitek Lansekap, Austin TX",
+      "quote": "Selama musim semi saya berada di lokasi 8 jam sehari melakukan penilaian dan melakukan pengawasan. Permintaan konsultasi baru akan memakan waktu berhari-hari. Sekarang Duet membalas dengan proses dan ketersediaan saya dalam hitungan menit. Saya telah memesan 3 proyek yang pasti saya akan hilang.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
-      "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "title": "Desainer Taman, Portland OR",
+      "quote": "Koordinasi antara kru hardscape, pemasang irigasi, dan klien menghasilkan jumlah email yang tidak masuk akal. Duet mengurutkan semuanya dan menyusun balasan yang menyertakan detail proyek yang tepat. Ini seperti memiliki manajer studio.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "title": "Pemilik Studio Desain Lansekap, Denver CO",
+      "quote": "Saya biasa menghabiskan setiap malam setelah kerja lapangan untuk membaca email. Pertanyaan yang sama — harga, proses, garis waktu. Duet menangani semuanya. Waktu respons saya berubah dari hari ke menit dan tingkat penutupan saya meningkat.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
-      "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "title": "Desainer Lansekap Perumahan, Scottsdale AZ",
+      "quote": "Klien saya mengajukan banyak pertanyaan tentang pemilihan dan pemeliharaan tanaman. Duet mempelajari palet tanaman dan instruksi perawatan serta draf balasan yang hampir tidak perlu saya edit. Klien menganggap saya sangat responsif.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "title": "Desainer Lansekap Tanaman Asli, Raleigh NC",
+      "quote": "Saya kehilangan klien baru karena saya tidak dapat membalas ketika saya sedang melakukan instalasi penanaman. Duet menyusun tanggapan konsultasi dengan proses saya yang sebenarnya, harga, dan apa yang diharapkan. Itu terbayar sendiri pada minggu pertama.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Habiskan hari-hari Anda menciptakan lanskap,\ntidak mengejar email.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "Bisakah Duet mengatasi kesibukan musim semi ketika permintaan konsultasi menumpuk?",
+      "answer": "Saat itulah Duet bersinar. Selama musim tersibuk Anda, setiap pertanyaan baru akan mendapat balasan yang cepat dan terperinci beserta proses, jadwal, dan ketersediaan Anda — bahkan saat Anda berada di lokasi sepanjang hari. Tidak ada lagi kehilangan prospek musim semi karena Anda tidak dapat mengaksesnya kembali hingga jam 9 malam."
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
-      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "Saya berkoordinasi dengan beberapa kru luar ruangan. Apakah Duet membantu dalam hal itu?",
+      "answer": "Ya. Duet mempelajari proyek Anda dan kontraktor yang terlibat — hardscape, irigasi, kru penanaman, pembibitan. Ini mengkategorikan email kontraktor secara terpisah dari email klien, dan dapat menyusun balasan dengan detail spesifik proyek seperti spesifikasi, jadwal, dan material. Anda tetap mengetahui setiap kru tanpa kekacauan inbox."
     }
   ],
-  "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
+  "pricingNote": "Dengan $8.000/proyek, satu klien yang disimpan membayar Pro selama bertahun-tahun."
 }

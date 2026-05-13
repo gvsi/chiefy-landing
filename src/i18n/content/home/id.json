@@ -1,31 +1,30 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail |  AI Asisten Email untuk Gmail dan Outlook",
+    "description": "Asisten email Duet Mail AI merangkum email, menyusun balasan, dan mengatur inbox Anda. Bekerja dengan Gmail dan Outlook. Hemat 4+ jam setiap minggu."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Sekarang tersedia untuk Gmail dan Outlook",
+    "headlinePrefix": "Milikmu ",
+    "headlineHighlight": "kepala staf",
+    "headlineSuffix": " untuk",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
+      "menyortir email",
+      "menyusun balasan",
       "scheduling",
-      "finding answers"
+      "menemukan jawaban"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "Hemat 4+ jam setiap minggu melalui email",
+    "primaryCta": "Mulailah dengan Gmail",
+    "secondaryCta": "Mulailah dengan Outlook",
+    "trialNote": "Uji coba gratis selama 14 hari",
+    "cancelNote": "Batalkan kapan saja"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Kategorisasi instan",
+      "Balasan bertenaga AI"
     ],
     "windowTitle": "Inbox",
     "providers": [
@@ -36,128 +35,128 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "Kemarin"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "rancangan otomatis",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Perihal: Garis Waktu Peluncuran Produk",
+        "preview": "Hai! Ingin memeriksa aset peluncuran. Apakah kita masih dalam jalur untuk minggu depan...",
+        "pill": "Untuk Menanggapi"
       },
       {
-        "from": "Emma Park",
+        "from": "Emma Taman",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Sinkronisasi cepat sore ini?",
+        "preview": "Ingin sekali mengikuti pembaruan peta jalan. Apakah Anda ada waktu luang sekitar jam 4 sore...",
+        "pill": "Pertemuan"
       },
       {
-        "from": "Marketing",
+        "from": "Pemasaran",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
+        "subject": "Hasil Kampanye Sudah Siap",
         "pill": "FYI"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Toko Anda siap untuk Black Friday",
+        "pill": "Promosi"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Hai Alex! Ya, kami berada di jalur yang benar. Tim desain menyelesaikan asetnya kemarin dan saya akan mengirimkan file final paling lambat EOD hari ini."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
+    "ariaLabel": "Logo pelanggan",
+    "headingPrefix": "Dipercaya dengan pandangan ke depan",
+    "headingHighlight": " profesional dan tim ",
     "headingSuffix": "worldwide"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "Fitur",
+    "eyebrow": "Kotak Masuk Anda, Bertenaga Super",
+    "title": "Inbox Anda seharusnya tidak menguasai hari Anda",
+    "subtitle": "Ubah kekacauan menjadi kejelasan dengan AI yang benar-benar membantu Anda.\nHemat 3+ jam setiap minggu dengan asisten email paling cerdas untuk Gmail dan Outlook.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "Draf email yang terdengar seperti Anda",
+        "description": "Penulis email Duet AI menyiapkan draf untuk email terpenting Anda. Ini mempelajari nada dan gaya menulis Anda.",
+        "ariaLabel": "Draf email yang terdengar seperti Anda",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "Saya menyusun email dingin yang dipersonalisasi untuk John",
+          "sampleText": "Pipeline AI sangat penting untuk membangun sistem AI yang kuat, terukur, dan efisien.",
+          "readyToSend": "Siap mengirim?",
+          "remindFollowUp": "Ingatkan saya untuk menindaklanjutinya."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "Ringkasan Instan & Item Tindakan",
+        "description": "Dapatkan TL;DR dan item tindakan dari konten email Anda dalam hitungan detik. Tidak perlu lagi membaca novel di inbox Anda.",
+        "ariaLabel": "Ringkasan instan dan item tindakan",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "Saya usulkan kita ",
+          "sentenceHighlight": "bertemu minggu depan",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "Item Tindakan Baru",
+          "actionLead": "Saya menemukan slot gratis ini di kalender Anda",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "Selasa, jam 10 pagi",
+            "Kamis, jam 2 siang",
+            "Jumat, jam 9 pagi"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Temukan lebih banyak",
+          "primaryButton": "Mengirim"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "Pengingat Cerdas",
+        "description": "Atur dan lupakan. Duet AI ingat untuk menindaklanjuti ketika orang lain tidak merespons, sehingga tidak ada yang gagal.",
+        "ariaLabel": "Pengingat yang cerdas",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "AI -Pengingat Cerdas Bertenaga",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Menindaklanjuti",
               "value": "12",
               "unit": "emails"
             },
             {
-              "label": "To reply",
+              "label": "Untuk membalas",
               "value": "2",
               "unit": "emails"
             },
             {
-              "label": "Completed",
+              "label": "Selesai",
               "value": "3",
-              "unit": "action items"
+              "unit": "item tindakan"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Selesaikan tugas menulis",
+              "time": "2 hari yang lalu"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Integrasi Proyek",
+              "time": "12 jam yang lalu"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Mengikuti",
+            "Menjadwalkan ulang?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "Fokus pada Apa yang Penting",
+        "description": "Kategorisasi cerdas menampilkan email terpenting Anda terlebih dahulu, dan mengategorikan email berdasarkan topik. Manajemen Email tidak pernah semudah ini.",
+        "ariaLabel": "Fokus pada hal yang penting",
         "mockCopy": {
           "analyzing": "ANALYZING"
         }
@@ -165,10 +164,10 @@
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
+    "ariaLabel": "Organisasi email dan kategorisasi inbox cerdas",
+    "badge": "Organisasi",
+    "title": "Duet mengatur inbox Anda",
+    "subtitle": "Kategorisasi otomatis menyaring kebisingan dan memunculkan hal-hal yang penting. Segera lihat apa yang perlu ditindaklanjuti, apa saja yang perlu diketahui, dan apa yang perlu ditunggu.",
     "windowTitle": "Inbox",
     "providers": [
       "Gmail",
@@ -178,88 +177,88 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "Kemarin",
+      "20 Desember"
     ],
     "emails": [
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "Permintaan Tinjauan Anggaran Q4",
+        "preview": "Nomor final terlampir. Harap ditinjau oleh EOD.",
+        "pill": "Dibutuhkan Tindakan"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Standup tim besok jam 10 pagi",
+        "pill": "Pertemuan"
       },
       {
-        "from": "Design Team",
+        "from": "Tim Desain",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
+        "subject": "Pedoman merek baru diterbitkan",
         "pill": "FYI"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Laporan bulanan Anda sudah siap",
+        "pill": "Promosi"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "Buletin",
+        "subject": "Intisari mingguan",
+        "pill": "Promosi"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "AI penyusunan email dan pembuatan balasan",
+    "badge": "Penyusunan",
+    "title": "Draf duet dalam suara Anda",
+    "subtitle": "Duet mempelajari cara Anda menulis dan menyusun balasan yang sesuai dengan nada bicara Anda. Tinjau, sesuaikan jika perlu, dan kirim dalam hitungan detik.",
+    "windowTitle": "Pesan Baru",
     "fieldLabels": {
       "to": "To:",
-      "subject": "Subject:"
+      "subject": "Subjek:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: Sinkronisasi cepat minggu ini?",
+      "originalFrom": "Alex Rivera menulis:",
+      "originalText": "Hai! Ingin sekali mengikuti perubahan peta jalan. Apakah Anda punya waktu luang untuk panggilan 30 menit minggu ini? Beri tahu saya apa yang cocok untuk Anda.",
+      "badge": "Didesain secara otomatis",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Hai Alex!",
+        "Ingin sekali menyinkronkan peta jalan. Saya ada waktu luang pada hari Kamis pukul 14.00-16.00 atau Jumat pagi — keduanya sangat cocok untuk saya.",
+        "Beri tahu saya mana yang paling cocok untuk Anda dan saya akan mengirimkan undangan.",
+        "Terima kasih!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Saya bebas pada hari Kamis pukul 14.00-16.00 atau Jumat pagi",
       "actions": [
-        "Send",
-        "Edit"
+        "Mengirim",
+        "Sunting"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Draf yang Dipersonalisasi",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Tahu kalender Anda",
+        "Draf dalam suara Anda",
+        "Mengetahui konteks melalui memori",
+        "Belajar seiring berjalannya waktu"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "AI intelijen dan asisten email",
+    "badge": "Intelijen",
+    "title": "Tanyakan apa pun tentang email Anda",
+    "subtitle": "Minta Duet untuk mencari email, memeriksa kalender Anda, atau membuat draf balasan. Ia memahami inbox Anda dan menjawab secara instan.",
+    "windowTitle": "Agen Duet",
+    "onlineLabel": "On line",
+    "initialUserMessage": "Dapatkah Anda menemukan faktur Stripe yang dikirim oleh Bagian Akuntansi?",
+    "processingText": "Mencari inbox...",
+    "foundHeader": "Menemukan 2 email dari Stripe",
+    "foundBody": "Saya menemukan tanda terima sebesar $29,00 USD mulai tanggal 24 Oktober.",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"
@@ -267,183 +266,183 @@
     "suggestions": [
       {
         "action": "draft",
-        "label": "Draft a reply"
+        "label": "Draf balasan"
       },
       {
         "action": "calendar",
-        "label": "Find time to meet"
+        "label": "Temukan waktu untuk bertemu"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Tanyakan apa saja...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "Pengolahan...",
+      "processingDraft": "Membuat draf...",
+      "processingCalendar": "Memeriksa ketersediaan...",
+      "draftIntro": "Berikut draf balasan untuk Akuntansi:",
+      "draftHeader": "Draf: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Hai Tim,",
+        "Silakan temukan terlampir faktur Stripe untuk bulan Oktober ($29,00).",
+        "Beri tahu saya jika Anda memerlukan hal lain.",
+        "Terbaik,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "Kirim Email",
+        "Sunting"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "Anda memiliki 3 slot yang terbuka besok:",
       "calendarSlots": [
         {
           "time": "9:30 AM",
-          "duration": "30 min"
+          "duration": "30 menit"
         },
         {
           "time": "2:00 PM",
-          "duration": "30 min"
+          "duration": "30 menit"
         },
         {
           "time": "4:30 PM",
-          "duration": "30 min"
+          "duration": "30 menit"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Juga menyusun balasannya?",
+        "calendarAfterDraft": "Juga menjadwalkan tindak lanjut?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "Testimonial",
+    "scrollingAriaLabel": "Menggulir testimonial",
+    "eyebrow": "Testimonial",
+    "title": "Dicintai oleh para profesional yang sibuk",
+    "subtitle": "Orang sungguhan. Inbox nyata menang.",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "pekerja lepas",
+        "quote": "Bernilai setiap sen. Waktu yang saya hemat untuk email terbayar Duet Mail 10x lipat. Tidak dapat membayangkan bekerja tanpanya sekarang.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
-        "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "name": "michael r.",
+        "title": "Eksekutif Penjualan",
+        "quote": "Ringkasan instan dari rangkaian email yang panjang benar-benar ajaib, dan sangat mudah digunakan. Klien saya menganggap saya manusia super.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "Pengusaha",
+        "quote": "Saya skeptis terhadap penggunaan AI untuk email saya. Sekarang, rasanya seperti memiliki asisten eksekutif yang brilian. Tidak bisa membayangkan kembali.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "Konsultan",
+        "quote": "Sebagai seorang konsultan, setiap menit berarti.  Duet Mail tidak hanya menghemat waktu saya—tetapi juga membuat komunikasi email saya lebih tajam.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
         "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "title": "Direktur Pemasaran",
+        "quote": "Terakhir, asisten email AI yang benar-benar mempelajari cara saya menulis. Balasan instannya sangat tepat, tim saya mengira saya bekerja pada tengah malam.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
+    "ariaLabel": "Harga",
+    "eyebrow": "Harga",
+    "heading": "Penetapan harga sederhana, inbox yang kuat",
+    "subheading": "Mulai gratis, tingkatkan kapan saja. Batalkan kapan saja.",
+    "billingLegend": "irama penagihan",
+    "billingAnnual": "Tahunan",
+    "billingMonthly": "Bulanan",
+    "savingsTag": "Hemat 33%",
     "priceCadence": "/month",
     "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "annualBillingSuffix": "(ditagih setiap tahun)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Pembayaran aman melalui Stripe",
+      "Batalkan kapan saja"
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
-        "priceLabel": "Free",
+        "name": "Dasar",
+        "description": "Bagi siapa pun yang penasaran seperti apa rasanya inbox yang lebih cerdas. Tidak diperlukan komitmen.",
+        "priceLabel": "Bebas",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "Ringkasan Instan",
+            "description": "Dapatkan inti dari topik apa pun"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "Draf AI",
+            "description": "Rasa balasan dalam suara Anda"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "Kotak Masuk Cerdas",
+            "description": "Organisasi dasar untuk memulai"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "Asisten Duet",
+            "description": "Coba asisten AI"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Pilih Gmail atau Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "Uji coba gratis 14 hari",
+        "description": "Untuk profesional yang menginginkan otomatisasi lebih dalam, integrasi, dan inbox yang benar-benar mengetahui cara Anda bekerja.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "Kotak Masuk Cerdas",
+            "description": "Email diurutkan secara otomatis ke dalam kategori cerdas",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "Draf AI",
+            "description": "Balasan tertulis dengan suara Anda, siap dikirim",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "Asisten Duet",
+            "description": "Ngobrol untuk menemukan, membuat draf, mengatur & lainnya",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "Integrasi Kalender",
+            "description": "Jadwalkan, lihat & kelola acara dari inbox Anda"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "Ringkasan Instan",
+            "description": "Dapatkan inti dari thread atau lampiran apa pun"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Pengingat Cerdas",
+            "description": "Tindak lanjut muncul secara otomatis sehingga tidak ada yang tergelincir"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "Dukungan Prioritas",
+            "description": "Manusia nyata, respon cepat"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Pilih Gmail atau Outlook",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "Perusahaan",
+        "description": "Untuk organisasi yang memerlukan skala tingkat perusahaan, dukungan khusus, dan alur kerja khusus. Terbaik untuk tim beranggotakan 50+ orang.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,36 +450,36 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Semuanya ada di Pro",
+            "description": "Semua fitur disertakan"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Dukungan Khusus",
+            "description": "Manajer akun pribadi"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "Analisis Tim",
+            "description": "Wawasan di seluruh organisasi Anda"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Alur Kerja Bersama",
+            "description": "Templat & otomatisasi untuk tim"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Hubungi penjualan",
+        "ctaNote": "Tersedia harga khusus"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
+    "ariaLabel": "Pertanyaan yang sering diajukan",
     "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
+    "headingPrefix": "Pertanyaan umum, ",
     "headingAccent": "answered",
     "contactDecorative": "?",
     "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
+    "contactHeading": "Masih ada pertanyaan?",
+    "contactCta": "Hubungi →",
     "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
@@ -488,78 +487,78 @@
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Bagaimana Duet Mail melindungi data email saya?",
+        "answer": "Keamanan Anda adalah prioritas utama kami. Kami menggunakan OAuth 2.0 untuk autentikasi aman dengan Google dan Microsoft. Konten email dienkripsi saat tidak digunakan menggunakan enkripsi tingkat bidang sisi klien, dan kami mengikuti prinsip hak istimewa paling rendah untuk akses API. Untuk integrasi Google, kami menjalani penilaian keamanan CASA tahunan CASA."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Bagaimana cara kerja fitur ringkasan email?",
+        "answer": "Duet Mail menggunakan AI tingkat lanjut untuk menganalisis rangkaian email Anda dan menghasilkan ikhtisar singkat yang menyoroti poin-poin penting, keputusan, dan item tindakan. Ini membantu Anda memahami konteks dengan cepat tanpa membaca keseluruhan topik."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Izin apa yang dibutuhkan Duet Mail?",
+        "answer": "Duet Mail memerlukan akses ke email Anda untuk memberikan ringkasan, mengekstrak item tindakan, membuat konten, dan mengirim email Anda. Kami hanya meminta izin yang benar-benar kami perlukan. Anda dapat meninjau dan mencabut izin ini kapan saja di pengaturan Google Account atau Microsoft Account Anda."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Apa saja yang termasuk dalam uji coba gratis?",
+        "answer": "Uji coba gratis 14 hari mencakup akses penuh ke semua fitur Pro: ringkasan email tak terbatas, ekstraksi item tindakan, penulis email AI (menghasilkan email dan draf tanpa batas apa pun), dan templat email khusus. Masuk dengan Google atau Microsoft untuk mulai menghemat waktu dalam pengelolaan email."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Bisakah saya menggunakan Duet Mail dengan penyedia email lain?",
+        "answer": "Duet Mail mendukung Gmail, Google Workspace, dan Microsoft Outlook. Masuk dengan akun Google atau Microsoft Anda untuk memulai."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Mulailah",
+    "headline": "Dapatkan 4 jam kembali.\nSetiap minggu.",
+    "subline": "Bergabunglah dengan para profesional yang memulai hari mereka dengan kejelasan, bukan kekacauan. Uji coba gratis Anda sedang menunggu.",
+    "primaryCta": "Mulailah dengan Gmail",
+    "secondaryCta": "Mulailah dengan Outlook",
+    "note": "Uji coba gratis 14 hari · Batalkan kapan saja",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Google CASA -dinilai",
+      "Dienkripsi saat istirahat",
+      "Amankan OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "Catatan kaki situs",
+    "brandIconAlt": "ikon Duet Mail",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — Asisten Email AI yang menghemat waktu Anda setiap minggu",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Mengeksplorasi",
         "links": [
           {
-            "label": "Organization",
+            "label": "Organisasi",
             "href": "/id#organization"
           },
           {
-            "label": "Drafting",
+            "label": "Penyusunan",
             "href": "/id#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "Intelijen",
             "href": "/id#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Ekstensi Chrome",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "Pelanggan",
         "links": [
           {
-            "label": "Pricing",
+            "label": "Harga",
             "href": "/id#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "Testimonial",
             "href": "/id#testimonials"
           },
           {
@@ -572,28 +571,28 @@
         "title": "Legal",
         "links": [
           {
-            "label": "Privacy",
+            "label": "Pribadi",
             "href": "/id/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Ketentuan",
             "href": "/id/terms"
           },
           {
-            "label": "Cookies",
+            "label": "kue",
             "href": "/id/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Penafian",
             "href": "/id/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "Menghubungkan",
         "links": [
           {
-            "label": "Blog",
+            "label": "blog",
             "href": "/id/blog"
           },
           {
@@ -621,42 +620,42 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
+    "ariaLabel": "Pengembalian investasi",
+    "label": "Matematika",
+    "narrativeTemplate": "Pada {pricePerBooking} per {bookingUnit}, hanya kehilangan {lostPerMonth} karena memperlambat balasan =",
+    "lossSuffix": "/bln pergi",
     "dividerLabel": "vs",
     "duetLabel": "Duet",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/bln"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - Asisten Email AI untuk Gmail dan Outlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Dukungan Pelanggan",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
+    "softwareDescription": "Asisten email AI untuk Gmail dan Outlook yang secara otomatis merangkum email, menyusun balasan dalam suara Anda, dan mengatur inbox Anda untuk menghemat waktu setiap minggu.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Organisasi dan kategorisasi email cerdas",
+      "AI - pembuatan draf email dengan suara Anda",
+      "Asisten email cerdas dengan integrasi kalender",
+      "Ringkasan email otomatis dan item tindakan",
+      "Pengingat cerdas untuk tindak lanjut"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Paket Dasar",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Paket gratis dengan ringkasan instan, draf AI, dan inbox cerdas"
       },
       {
-        "name": "Pro Plan",
+        "name": "Paket Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "description": "Akses penuh dengan kategorisasi inbox cerdas, draf AI, asisten, dan integrasi kalender"
       }
     ],
     "aggregateRating": {
@@ -664,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "Membutuhkan JavaScript. Bekerja dengan Gmail, Google Workspace, dan Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/id",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Bagaimana Duet Mail melindungi data email saya?",
+        "answer": "Keamanan Anda adalah prioritas utama kami. Kami menggunakan OAuth 2.0 untuk autentikasi aman dengan Google dan Microsoft. Konten email dienkripsi saat tidak digunakan menggunakan enkripsi tingkat bidang sisi klien, dan kami mengikuti prinsip hak istimewa paling rendah untuk akses API. Untuk integrasi Google, kami menjalani penilaian keamanan CASA tahunan CASA."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Bagaimana cara kerja fitur ringkasan email?",
+        "answer": "Duet Mail menggunakan AI tingkat lanjut untuk menganalisis rangkaian email Anda dan menghasilkan ikhtisar singkat yang menyoroti poin-poin penting, keputusan, dan item tindakan. Ini membantu Anda memahami konteks dengan cepat tanpa membaca keseluruhan topik."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Izin apa yang dibutuhkan Duet Mail?",
+        "answer": "Duet Mail memerlukan akses ke email Anda untuk memberikan ringkasan, mengekstrak item tindakan, membuat konten, dan mengirim email Anda. Kami hanya meminta izin yang benar-benar kami perlukan. Anda dapat meninjau dan mencabut izin ini kapan saja di pengaturan Google Account atau Microsoft Account Anda."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Apa saja yang termasuk dalam uji coba gratis?",
+        "answer": "Uji coba gratis 14 hari mencakup akses penuh ke semua fitur Pro: ringkasan email tak terbatas, ekstraksi item tindakan, penulis email AI (menghasilkan email dan draf tanpa batas apa pun), dan templat email khusus. Masuk dengan Google atau Microsoft untuk mulai menghemat waktu dalam pengelolaan email."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Bisakah saya menggunakan Duet Mail dengan penyedia email lain?",
+        "answer": "Duet Mail mendukung Gmail, Google Workspace, dan Microsoft Outlook. Masuk dengan akun Google atau Microsoft Anda untuk memulai."
       }
     ]
   }
