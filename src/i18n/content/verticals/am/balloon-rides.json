@@ -1,115 +1,114 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail ለሞቃት አየር ፊኛ ግልቢያ | AI ኢሜይል ረዳት",
+  "metaDescription": "Duet Mail ፊኛ አብራሪዎች ኢሜይሎችን ለማስያዝ በቅጽበት ምላሽ እንዲሰጡ ያግዛቸዋል - በፀሐይ መውጫ በረራዎች ጊዜም ቢሆን። በAI የተነደፉ ምላሾች ከእርስዎ ዋጋ፣ የአየር ሁኔታ ፖሊሲዎች እና ድምጽ ጋር።",
+  "heroBadge": "በ200+ ፊኛ አብራሪዎች የታመነ",
+  "heroHeadline": "በአየር ላይ እያሉ የኢሜል ረዳትዎ",
+  "heroSubline": "Duet የበረራ መርሃ ግብሮችን፣ የዋጋ አወሳሰን እና የአየር ሁኔታ መመሪያዎችን ይማራል - ከዚያም የኢሜይል ምላሾችን ይቀርፃል ስለዚህ በፀሐይ መውጣት ላይ ሳሉ ቦታ ማስያዝ በጭራሽ አይጠፋብዎትም።",
   "inboxEmails": [
     {
-      "from": "Rachel & Dan T.",
+      "from": "ራቸል እና ዳን ቲ.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "የፀሐይ መውጫ በረራ ለ 2 - ቅዳሜ ይገኛል?",
+      "preview": "ሰላም! እኔና ባለቤቴ የዓመታችንን በዓል እየጎበኘን ነው እናም በዚህ ቅዳሜ የፀሐይ መውጫ ፊኛ ግልቢያ ለመያዝ እንፈልጋለን። ቦታ አለህ? ለአንድ ሰው ምን ዋጋ አለው?",
+      "pill": "ምላሽ ለመስጠት",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "ኬቨን ኤል.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "ነገ እንበርራለን? የንፋስ ትንበያ ሻካራ ይመስላል",
+      "preview": "ለነገ ጥዋት ቦታ ይዘናል ነገርግን የአየር ሁኔታ መተግበሪያ 15 ማይል በሰአት ፍጥነት እያሳየ ነው። አሁንም እየበረርን ነው ወይንስ ለሌላ ጊዜ እቅድ ማውጣት አለብን...",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark P.",
+      "from": "ጄኒፈር እና ማርክ ፒ.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "ለፕሮፖዛል የግል በረራ - ዋጋ?",
+      "preview": "የሴት ጓደኛዬን በግል ፊኛ ግልቢያ ማስደነቅ እና በበረራ ወቅት ሀሳብ ማቅረብ እፈልጋለሁ። የግል በረራ ምን ያህል ነው እና እርስዎ ለማስተባበር ሊረዱዎት ይችላሉ…",
+      "pill": "ቦታ ማስያዝ",
       "pillColor": "blue"
     },
     {
-      "from": "Amy S.",
+      "from": "ኤሚ ኤስ.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "ምን መልበስ አለብን? የት ነው የምንገናኘው?",
+      "preview": "ለእሁድ ጥዋት ቀጠሮ ይዘናል። ምን እንለብሳለን እና የመሰብሰቢያ ቦታው የት ነው? እንዲሁም አጠቃላይ ልምዱ ምን ያህል ጊዜ ይወስዳል ...",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "ሰላም ራሄል! ቅዳሜ ለ 2 ክፍት ነው ። የፀሐይ መውጫ በረራዎች በ 6:15 AM አካባቢ ይጀምራሉ - በነፋስ መሰረት ትክክለኛውን ሰዓት እና የስብሰባ ቦታ ምሽት ላይ እናረጋግጣለን ። በሰዉ 250 ዶላር ሲሆን በአየር ላይ ለአንድ ሰአት ያህል እና ካረፈ በኋላ የሻምፓኝ ቶስትን ያካትታል። በንብርብሮች ይልበሱ እና የተዘጉ ጫማዎችን ያድርጉ። ቦታዎችዎን ማስያዝ ይፈልጋሉ?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "በረራ",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "አንድ የተቀመጠ በረራ ለአንድ አመት Duet ይከፍላል።"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "በመጀመሪያ የቦታ ማስያዣ ጥያቄዎችን ፣ የአየር ሁኔታ ጥያቄዎችን ሁለተኛ እና ጫጫታ እንዲያዩ ለእያንዳንዱ ኢሜል በራስ ሰር መለያ ይሰጣል ። ከአሁን በኋላ በጋዜጣ ማንቂያዎች የተቀበረ የበረራ ጥያቄ አይጠፋም።",
+  "draftSubtitle": "Duet የእርስዎን ዋጋ፣ የአየር ሁኔታ ፖሊሲዎች እና ቃና ይማራል። የቦታ ማስያዣ ጥያቄ ሲደርስ የበረራ ዝርዝሮችን፣ የስብሰባ መረጃን እና ምን እንደሚለብስ የተሟላ ምላሽ ያዘጋጃል። እርስዎ ይገምግሙ እና ይልካሉ።",
+  "agentSubtitle": "\"በነገው መግለጫ ላይ ያለው ማነው?\" \"ሌላ ጊዜ ለማስያዝ የሚደረጉ ማናቸውም የአየር ሁኔታ ስረዛዎች?\" Duet የእርስዎን የገቢ መልእክት ሳጥን እና የቀን መቁጠሪያ ያውቃል - ይጠይቁ።",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "ራቸል ቲ.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "የፀሐይ መውጫ በረራ ለ 2 - ቅዳሜ ይገኛል?",
+      "preview": "እኔና ባለቤቴ ለፀሐይ መውጫ ፊኛ ግልቢያ ቦታ መያዝ እንፈልጋለን...",
+      "pill": "አሁን ምላሽ ይስጡ",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "ኬቨን ኤል.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "ድጋሚ፡ ቦታ ማስያዝ ተረጋግጧል - እሑድ 6፡15 ጥዋት",
+      "pill": "ተይዟል።",
       "pillColor": "blue"
     },
     {
-      "from": "Amy S.",
+      "from": "ኤሚ ኤስ.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "ለበረራ ምን እንለብሳለን?",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "ለእርስዎ ዝርዝር አዲስ ግምገማ",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Balloon Federation",
+      "from": "ፊኛ ፌዴሬሽን",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
+      "subject": "የማርች ደህንነት ማስታወቂያ እና እድሳት አስታዋሽ",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: በፀሐይ መውጫ በረራ ለ 2 - ቅዳሜ ይገኛል?",
+    "originalFrom": "ራቸል ቲ ጻፈ፡-",
+    "originalText": "ሰላም! እኔና ባለቤቴ የዓመታችንን በዓል እየጎበኘን ነው እናም በዚህ ቅዳሜ የፀሐይ መውጫ ፊኛ ግልቢያ ለመያዝ እንፈልጋለን። ቦታ አለህ? ለአንድ ሰው ምን ዋጋ አለው?",
     "lines": [
       "Hi Rachel!",
       "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
       "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
       "Happy anniversary! Want me to reserve your spots?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "ቅዳሜ ለ 2 ሰፊ ክፍት ነው. በፀሐይ መውጫ በረራዎች $ 250 / ሰው ነው",
     "tooltipFeatures": [
       "Knows your pricing & flight schedule",
       "Drafts in your voice",
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "በነገው መግለጫ ላይ ያለው ማነው እና የአየር ሁኔታው ምን ይመስላል?",
+    "agentResponse": "የነገው የፀሃይ መውጫ በረራ በ2 ቦታ ማስያዝ 6 መንገደኞች አሉት፡ ቶምፕሰን ፓርቲ (4) እና ሊ ጥንዶች (2)። የአሁኑ ትንበያ በ4 ማይል ሰከንድ የተረጋጋ ንፋስ እና በሚነሳበት ጊዜ ሰማይን ጠራርጎ ያሳያል። እስካሁን ምንም የተሰረዙ ኢሜይሎች የሉም። የስብሰባ-ነጥብ ማረጋገጫዎችን መላክ ትፈልጋለህ?",
+    "followUp": "አዎ፣ በ6፡15 AM የስብሰባ ሰዓት ለሁለቱም ወገኖች ማረጋገጫዎችን ይላኩ።",
+    "followUpResponse": "ተከናውኗል! የስብሰባ ነጥብ ማረጋገጫዎችን ለሁለቱም ቶምፕሰንስ እና ሊዝ በ6፡15 AM በማስጀመሪያው ሜዳ፣ ምን እንደሚለብሱ እና አቅጣጫዎችን አዘጋጅቻለሁ። ለመገምገም እና ለመላክ ዝግጁ።"
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "በፊኛ አብራሪዎች እና ኦፕሬተሮች የተወደደ",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "ካፒቴን ማይክ ኤል.",
+      "title": "ፊኛ አብራሪ፣ ኤም.ኤን",
+      "quote": "እኔ የአንድ ሰው ኦፕሬሽን ነኝ - እበረራለሁ፣ ሰራኛለሁ፣ ኢሜይሎችን እመልሳለሁ። ከጠዋቱ 5 ሰአት በቀር እኔ እየነፋሁ ነው እንጂ መልስ አልሰጥም። የDuet ረቂቅ ምላሾች ለእያንዳንዱ 'ነገ እንበርራለን?' በአንድ ሌሊት መልእክት ። ከእንቅልፌ ነቃሁ፣ የአየር ሁኔታን ፈትሻለሁ፣ እና ላክን መታሁ።",
       "avatarKey": "michael"
     },
     {
-      "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "name": "ሻነን እና ጄክ ቢ.",
+      "title": "የዓመት ዙር ፊኛ ጉብኝቶች፣ ዩቲ",
+      "quote": "በየቀኑ ተመሳሳይ 10 ጥያቄዎችን እናገኛለን። ምን እንደሚለብስ, የት እንደሚገናኙ, ንፋስ ከሆነስ. Duet ሁሉንም ተማረ እና አሁን ፍጹም ምላሾችን አዘጋጅቷል። በየምሽቱ ከአንድ ሰአት ኢሜይሎች ወደ አምስት ደቂቃ ሄድን።",
       "avatarKey": "sarah"
     },
     {
-      "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "name": "ካርሎስ አር.",
+      "title": "የፀሐይ መውጫ በረራ ኦፕሬተር ፣ AZ",
+      "quote": "ከፍተኛ ወቅት ማለት በሳምንት ከ4-6 በረራዎች እና እያንዳንዱ ተሳፋሪ ከበረራ በፊት ቢያንስ ሁለት ጊዜ ኢሜል ይላካል። Duet ለሰዎች የህይወታቸውን ምርጥ ጥዋት በመስጠት ላይ ማተኮር እንድችል የቅድመ በረራ ጥያቄዎችን ይይዛል።",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "name": "ሊዛ ደብሊው",
+      "title": "የ Balloon ኩባንያ የጋራ ባለቤት፣ ኤም.ኤም",
+      "quote": "የአየር ሁኔታ ስረዛዎች ቀኑን ሙሉ ያበላሹኝ ነበር - 8 ተሳፋሪዎች ሁሉም የግል ዳግም ቀጠሮ ኢሜይሎች ያስፈልጋቸዋል። አሁን Duet እያንዳንዱን የዳግም ቦታ ማስያዝ መመሪያችን ተካትቷል። በተሰረዙ ጥዋት ሰዓታትን ይቆጥባል።",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "name": "ማሪያ ዲ.",
+      "title": "Balloon Ride Operations፣ CO",
+      "quote": "ፕሮፖዛል በረራዎች በጣም ብዙ የኋላ እና ወደ ፊት ቅንጅት ያስፈልጋቸዋል። Duet እነሱን እንዴት እንደምንይዝ መርምሯል-ጊዜውን፣ የኮድ ቃላቶቹን፣ የሻምፓኝን ቅንብር። እኔ በጭንቅ መንካት ያለብኝ ምላሾችን ይቀርፃል።",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ጠዋትህን በሰማይ ላይ አሳልፍ ፣\nበገቢ መልእክት ሳጥንዎ ውስጥ አይደለም።",
+  "ctaSubline": "ነፃ ሙከራዎን ይጀምሩ። የገቢ መልእክት ሳጥንዎን በ30 ሰከንድ ውስጥ ያገናኙ።",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Duet የአየር ሁኔታ መሰረዣ ኢሜይሎችን እንዴት ይቆጣጠራል?",
+      "answer": "Duet የእርስዎን የስረዛ እና እንደገና ቦታ ማስያዝ ፖሊሲዎችን ይማራል። በአየር ሁኔታ ምክንያት በረራን ሲሰርዙ ለተጎዳው ተሳፋሪ ሁሉ ለግል የተበጁ የዳግም መርሐግብር ኢሜይሎችን ማዘጋጀት ይችላል - በእርስዎ መመሪያ ፣ የሚገኙ ቀናት እና የእርስዎ ድምጽ። እርስዎ ይገምግሙ እና ይልካሉ። ለአንድ ሰዓት የግለሰብ ምላሾች ይወስድ የነበረው ደቂቃዎችን ይወስዳል።"
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Duet 'ነገ እንበርራለን?' በእያንዳንዱ ምሽት የሚጥለቀለቁ ኢሜይሎች?",
+      "answer": "አዎ — ይህ ፊኛ ኦፕሬተሮች ከሚነግሩን በጣም የተለመዱ የኢሜይል መልእክቶች አንዱ ነው። Duet የእርስዎን የውሳኔ ሂደት፣ የመጨረሻ ጥሪ መቼ እንደሚያደርጉ እና ምን እንደሚጠብቁ የሚያብራሩ አረጋጋጭ ምላሾችን የእርስዎን የአየር ሁኔታ ፖሊሲዎች እና ረቂቆች ይማራል። አንዴ በጠዋቱ መሄድ/አለመሄድ የሚለውን ካረጋገጡ በኋላ በማኒፌስቱ ላይ ላለ ሁሉም ሰው ማሻሻያዎችን ማዘጋጀት ይችላል።"
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "በ$250/በበረራ 4 ተሳፋሪዎች ያለው ሰው፣ አንድ የተቀመጠ ቦታ ማስያዝ ከአንድ አመት በላይ ያስከፍላል።"
 }

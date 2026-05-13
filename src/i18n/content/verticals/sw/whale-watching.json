@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail kwa Ziara za Kutazama Nyangumi | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia manahodha wanaotazama nyangumi kujibu barua pepe za kuweka nafasi papo hapo - hata kutoka kwa maji. Majibu yaliyoandaliwa na AI pamoja na maelezo yako ya ziara, bei na sauti.",
+  "heroBadge": "Inaaminiwa na nahodha 300+ wa watalii",
+  "heroHeadline": "Msaidizi wako wa barua pepe wakati uko nje ya kuona nyangumi",
+  "heroSubline": "Duet hujifunza ratiba yako ya ziara, bei na sauti - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi ukiwa kwenye maji.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "Kikundi cha 8 - upatikanaji Juni 14?",
+      "preview": "Habari! Sisi ni familia ya watu 8 wanaotembelea kwa wiki. Je, una nafasi kwenye ziara ya asubuhi Juni 14? Ni bei gani kwa kila mtu na ni sawa kwa watoto?",
+      "pill": "Ili Kujibu",
       "pillColor": "red"
     },
     {
       "from": "James & Kathy L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "Bei ya kukodisha ya kibinafsi?",
+      "preview": "Tungependa kuweka nafasi ya ziara ya faragha ya kuangalia nyangumi kwa ajili ya maadhimisho yetu. Ni gharama gani kwa kukodisha kwa faragha kwa saa 2 kwa sisi wawili tu...",
+      "pill": "Thamani ya Juu",
       "pillColor": "amber"
     },
     {
       "from": "Cruise Port Desk",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "Mabadiliko ya ratiba - Coral Princess anawasili 1hr mapema",
+      "preview": "Taarifa: kuwasili kwa Coral Princess kesho kumehamishwa kutoka 10 AM hadi 9 AM. Tafadhali rekebisha picha zozote za safari ya bandari ipasavyo...",
+      "pill": "Haraka",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Maoni mapya ya tangazo lako",
+      "preview": "Msafiri alikagua biashara yako hivi majuzi. Angalia walichosema na ujibu...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "Habari Rachel! Ziara ya asubuhi ya Juni 14 ina nafasi ya 8. Ziara ni $125/mtu, watoto 4-12 ni nusu ya bei. Tunaondoka saa 9 asubuhi kutoka bandarini na kukimbia kama masaa 2.5. Binoculars zinazotolewa - kuleta tu tabaka na jua. Je, unataka nihifadhi nafasi 8?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "kikundi cha watalii",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Uwekaji nafasi wa kikundi kimoja uliohifadhiwa hulipa mwaka wa Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, ratiba ya meli ya watalii inabadilika mara ya pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa hati ya kibinafsi uliozikwa chini ya arifa za TripAdvisor.",
+  "draftSubtitle": "Duet hujifunza nyakati zako za ziara, bei na sera. Swali la kuweka nafasi linapofika, hutayarisha jibu kamili pamoja na upatikanaji, ni nini kimejumuishwa na kile cha kuleta. Unakagua na kutuma.",
+  "agentSubtitle": "\"Ni sehemu ngapi zimesalia kwenye ziara ya asubuhi ya Jumamosi?\" \"Rasimu ya jibu kwa Rachel pamoja na upatikanaji.\" Duet anajua kikasha chako na ratiba - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "Kikundi cha 8 - upatikanaji Juni 14?",
+      "preview": "Sisi ni familia ya watu 8 wanaotembelea kwa wiki ...",
+      "pill": "Jibu Sasa",
       "pillColor": "red"
     },
     {
       "from": "James L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Re: Hati ya kibinafsi imethibitishwa - Jumamosi 2PM",
+      "pill": "Imehifadhiwa",
       "pillColor": "blue"
     },
     {
       "from": "Megan S.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "Je, ziara ya kesho itaendeshwa? Upepo unaonekana kuwa mkali",
+      "pill": "Swali",
       "pillColor": "amber"
     },
     {
       "from": "FareHarbor",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
+      "subject": "Muhtasari wa nafasi ya kila siku - uwekaji nafasi 3 mpya",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Marine Supply Co.",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "Kibali cha majira ya joto - punguzo la 15% kwa vifaa vya usalama",
+      "pill": "Matangazo",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Re: Kundi la 8 - upatikanaji Juni 14?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Sisi ni familia ya watu 8 wanaotembelea kwa wiki. Je, una nafasi kwenye ziara ya asubuhi Juni 14? Ni bei gani kwa kila mtu na ni sawa kwa watoto?",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "Habari Rachel!",
+      "Ziara ya asubuhi ya Juni 14 ina nafasi nyingi kwa 8. Tiketi ni $125/mtu, watoto 4-12 ni nusu ya bei. Tunaondoka saa 9 asubuhi na kurudi karibu 11:30.",
+      "Binoculars na zana za mvua zimetolewa - leta tu tabaka zenye joto na mafuta ya jua. Watoto wanapenda sana kwenye staha ya uchunguzi.",
+      "Je, ungependa nifunge katika sehemu 8?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "Ziara ya asubuhi ya Juni 14 ina nafasi nyingi kwa 8. Tiketi ni $125/mtu",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "Anajua bei na nyakati zako za ziara",
+      "Rasimu katika sauti yako",
+      "Inajumuisha kile cha kuleta kiotomatiki",
+      "Anajifunza kwa muda"
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "Je, ni sehemu ngapi zimesalia kwenye ziara ya Jumamosi asubuhi?",
+    "agentResponse": "Kulingana na nafasi ulizohifadhi, ziara ya Jumamosi saa 9 asubuhi ina nafasi 18 kati ya 44 zilizojazwa - 26 bado zimefunguliwa. Ziara ya alasiri inakaribia kujaa saa 40 kati ya 44. Je, ungependa niandikie jibu la maswali yoyote yanayosubiri kuhusu upatikanaji wa Jumamosi asubuhi?",
+    "followUp": "Rasimu ya jibu kwa Rachel akithibitisha Juni 14 kwa wageni 8",
+    "followUpResponse": "Imekamilika! Niliandaa jibu kwa Rachel kuthibitisha ziara ya Juni 14 asubuhi kwa wageni 8 kwa $125/mtu. Inajumuisha wakati wa kuondoka, kile kinachotolewa, na kile cha kuleta. Tayari kukagua na kutuma."
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "Inapendwa na manahodha wanaotazama nyangumi",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
-      "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "name": "Kapteni Dave H.",
+      "title": "Opereta wa Ziara ya Wanyamapori, AK",
+      "quote": "Abiria wa meli za kitalii wanahitaji majibu haraka - wana saa 6 pekee bandarini. Nilikuwa nikipoteza hati za malipo ya kibinafsi kwa sababu nilikuwa kwenye maji wakati uchunguzi ulipoingia. Sasa watayarishaji wa Duet wanajibu na maelezo yangu ya bei na kuchukua kabla hata sijapaki.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria & Luis R.",
+      "name": "Maria na Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "quote": "Tunafanya ziara mbili kwa siku wakati wa msimu wa nundu na idadi ya barua pepe si halisi. 'Je, tutaona nyangumi?' 'Nivae nini?' 'Je, kesho imeghairiwa?' Duet hushughulikia maswali yanayojirudia na tunaangazia ziara.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "name": "Kapteni Ben T.",
+      "title": "Matembezi ya Bahari, HI",
+      "quote": "Nilikuwa nikijibu maswali yale yale 10 kila usiku - bei, nini kinajumuishwa, vidokezo vya ugonjwa wa bahari, vikwazo vya umri wa watoto. Duet alijifunza yote katika wiki ya kwanza. Muda wangu wa kujibu ulitoka saa 8 hadi dakika 8.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "title": "Meneja Uhifadhi, Pacific NW",
+      "quote": "Ughairi wa hali ya hewa ndio mbaya zaidi - watu 30 wanahitaji kuweka nafasi tena mara moja na ninachanganya simu. Rasimu za Duet panga upya barua pepe zilizobinafsishwa kwa kila mgeni. Kilichokuwa kinanichukua saa 2 kinachukua dakika 15 sasa.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jess & Nate P.",
-      "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "name": "Jess na Nate P.",
+      "title": "Ziara Ndogo za Wanyamapori wa Mashua, BC",
+      "quote": "Sisi ni operesheni ya watu wawili - mimi nahodha, anaendesha vifaa. Wakati wa msimu wa kilele alikuwa akitumia saa 3 usiku kwa barua pepe. Duet kata hiyo hadi dakika 30. Kweli anapata jioni zake nyuma sasa.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tumia msimu wa nyangumi juu ya maji,\nhaipo kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Je, Duet inashughulikia kughairiwa kwa hali ya hewa na mabadiliko ya ratiba ya meli?",
+      "answer": "Ndiyo. Unapoghairi ziara kutokana na hali ya hewa au zamu za saa za kuwasili kwa meli, unaweza kuiambia Duet mara moja na ikatayarisha ratiba iliyobinafsishwa au kusasisha barua pepe kwa kila mgeni aliyeathiriwa. Hakuna tena kunakili na kubandika ujumbe ule ule mara 30. Kila jibu linajumuisha maelezo ya awali ya kuhifadhi nafasi ya mgeni na njia mbadala zinazopatikana."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "Tunapata maswali yale yale kila mara - 'tutaona nyangumi?', 'Nivae nini?', 'Je, ni sawa kwa watoto?' Je, Duet inaweza kushughulikia hizo?",
+      "answer": "Hapo ndipo Duet inang'aa. Hujifunza majibu yako ya kawaida - aina ambazo kwa kawaida unaona, unachopaswa kuleta, sera za umri, vidokezo vya ugonjwa wa bahari, nyakati za kuondoka - na kuandaa majibu kamili papo hapo. Unakagua na kutuma. Manahodha wengi hutuambia 80% ya kikasha chao ni maswali 10 sawa, na Duet hushughulikia yote."
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "Kwa $125/mtu, kikundi kimoja kilichohifadhiwa cha 6 hulipa zaidi ya mwaka mmoja wa Pro."
 }

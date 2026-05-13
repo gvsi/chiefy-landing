@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "ホエールウォッチングツアーのDuet Mail | AI 電子メール アシスタント",
+  "metaDescription": "Duet Mail は、ホエールウォッチングの船長が水上からでも予約メールに即座に応答できるようにします。 AI が作成したツアーの詳細、料金、声を返信します。",
+  "heroBadge": "300名以上のツアーキャプテンから信頼されています",
+  "heroHeadline": "クジラを探しに出かけるときのメール アシスタント",
+  "heroSubline": "Duet はツアーのスケジュール、料金、音声を学習し、電子メールの返信の下書きを作成するので、水上にいる間に予約を失うことはありません。",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "レイチェル・T",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "8 人グループ — 6 月 14 日から利用可能?",
+      "preview": "こんにちは！ 私たちは家族8人で週に1回の訪問です。 6月14日の午前中のツアーに空きはありますか？ 一人あたりの料金はいくらですか、子供は大丈夫ですか？",
+      "pill": "応答するには",
       "pillColor": "red"
     },
     {
-      "from": "James & Kathy L.",
+      "from": "ジェームス & キャシー L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "プライベートチャーター料金?",
+      "preview": "記念日にプライベートホエールウォッチングツアーをぜひ予約したいと思っています。 2人だけの2時間貸切料金はいくらですか...",
+      "pill": "高価値",
       "pillColor": "amber"
     },
     {
-      "from": "Cruise Port Desk",
+      "from": "クルーズポートデスク",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "スケジュール変更 — コーラル プリンセスは 1 時間早く到着します",
+      "preview": "注意: 明日の Coral Princess の到着時間は午前 10 時から午前 9 時に変更されました。 それに応じて、寄港地エクスカーションのピックアップを調整してください...",
+      "pill": "緊急",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "トリップアドバイザー",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "あなたのリスティングに対する新しいレビュー",
+      "preview": "最近、旅行者があなたのビジネスをレビューしました。 彼らが何を言ったかを見て、答えてください...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "おい、レイチェル！ 6 月 14 日午前のツアーは 8 名様までご利用いただけます。ツアー料金は 1 人あたり 125 ドル、4 ～ 12 歳のお子様は半額です。 午前9時に港を出発し、約2時間半走ります。 双眼鏡をご用意しておりますので、重ね着と日焼け止めをお持ちください。 8席予約したいのですが？",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "ツアーグループ",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "グループ予約を 1 つ保存すると、1 年間の Duet の料金が支払われます。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet はすべてのメールに自動的にタグを付けるため、最初に予約リクエストが表示され、次にクルーズ船のスケジュール変更が表示され、騒音は発生しません。 トリップアドバイザーのアラートに埋もれているプラ​​イベートチャーターの問い合わせを見逃すことはもうありません。",
+  "draftSubtitle": "Duet はツアーの時間、料金、ポリシーを学習します。 予約に関する問い合わせが届くと、空室状況、内容、持ち物を含む完全な返信の草案が作成されます。 レビューして送信します。",
+  "agentSubtitle": "「土曜日の午前中のツアーはあと何席残っていますか？」 「レイチェルへの返信の草案を作成して、空き状況を伝えてください。」 Duet はあなたの受信箱とスケジュールを知っています - 聞いてください。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "レイチェル・T",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "8 人グループ — 6 月 14 日から利用可能?",
+      "preview": "私たちは家族8人で週に1回の訪問です...",
+      "pill": "今すぐ応答してください",
       "pillColor": "red"
     },
     {
-      "from": "James L.",
+      "from": "ジェームス L.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "Re: プライベートチャーターが確認されました — 土曜日午後 2 時",
+      "pill": "予約済み",
       "pillColor": "blue"
     },
     {
-      "from": "Megan S.",
+      "from": "ミーガン・S",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "明日のツアーは開催されますか？ 風が荒れているようです",
+      "pill": "質問",
       "pillColor": "amber"
     },
     {
-      "from": "FareHarbor",
+      "from": "フェアハーバー",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
+      "subject": "毎日の予約の概要 - 3 件の新規予約",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Marine Supply Co.",
+      "from": "マリンサプライ株式会社",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "サマークリアランス — 安全装備の 15% オフ",
+      "pill": "プロモーション",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "Re: 8 人グループ — 6 月 14 日から利用可能ですか?",
+    "originalFrom": "レイチェル・Tは次のように書いています。",
+    "originalText": "こんにちは！ 私たちは家族8人で週に1回の訪問です。 6月14日の午前中のツアーに空きはありますか？ 一人あたりの料金はいくらですか、子供は大丈夫ですか？",
     "lines": [
-      "Hey Rachel!",
-      "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
-      "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
-      "Want me to lock in 8 spots?"
+      "おい、レイチェル！",
+      "6 月 14 日の午前のツアーは 8 人で十分なスペースがあります。チケットは 1 人あたり 125 ドルで、4 ～ 12 歳の子供は半額です。 午前9時に出発し、11時30分頃に戻ります。",
+      "双眼鏡と雨具が用意されています。暖かい上着と日焼け止めをご持参ください。 子供たちは展望台が大好きです。",
+      "8 スポットを固定したいですか?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "6 月 14 日の午前のツアーは 8 人で十分なスペースがあります。チケットは 1 人あたり 125 ドルです。",
     "tooltipFeatures": [
-      "Knows your tour times & pricing",
-      "Drafts in your voice",
-      "Includes what to bring automatically",
-      "Learns over time"
+      "ツアーの時間と料金を知る",
+      "あなたの声の下書き",
+      "自動的に持ち込むものが含まれます",
+      "時間の経過とともに学習します"
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "土曜日の午前中のツアーには何席残っていますか?",
+    "agentResponse": "ご予約に基づくと、土曜日の午前 9 時からのツアーは 44 席中 18 席が埋まっていますが、26 席はまだ空いています。 午後のツアーは 44 名中 40 名の時点でほぼ満席です。土曜日の午前中の空き状況に関する保留中の問い合わせに対する返信の草稿を作成したいのですが?",
+    "followUp": "8 人のゲストに対して 6 月 14 日を確認するレイチェルへの返信草案を作成する",
+    "followUpResponse": "終わり！ 私はレイチェルへの返信の下書きを作成し、6 月 14 日の午前中、8 名分の 1 人あたり 125 ドルのツアーを確認しました。 出発時間、提供されるもの、持ち物が含まれます。 レビューして送信する準備ができました。"
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "ホエールウォッチングの船長に愛される",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
-      "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "name": "キャプテン デイブ H.",
+      "title": "野生動物ツアー オペレーター、アラスカ州",
+      "quote": "クルーズ船の乗客は、港にいる時間がわずか 6 時間しかないため、すぐに答えが必要です。 以前は、問い合わせが来たとき私は海上にいたため、プライベートチャーターを逃すことがよくありました。今では、Duet Drafts は、私が入港する前に価格と受け取りの詳細を返信します。",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria & Luis R.",
-      "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "name": "マリア & ルイス R.",
+      "title": "ファミリーホエールウォッチ、カリフォルニア州",
+      "quote": "ザトウクジラの季節には 1 日 2 回のツアーを開催していますが、メールの量は信じられないほどです。 「クジラが見られるでしょうか？」 「何を着ればいいですか？」 「明日はキャンセルですか？」 Duet は繰り返しの質問に対応し、私たちはツアーに集中します。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "name": "キャプテン ベン T.",
+      "title": "オーシャン エクスカーションズ、ハワイ",
+      "quote": "私は毎晩同じ 10 の質問に答えていました。料金、内容、船酔いのヒント、子供の年齢制限などです。 Duetは最初の1週間ですべてを学びました。 応答時間は 8 時間から 8 分になりました。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "name": "キム・W",
+      "title": "ブッキングマネージャー、パシフィック北西部",
+      "quote": "悪天候によるキャンセルは最悪です。一度に 30 人の予約変更が必要で、私は電話での対応を余儀なくされています。 Duet では、ゲストごとにパーソナライズされた再スケジュール メールをドラフトします。 以前は 2 時間かかっていたのが、今では 15 分で済みます。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jess & Nate P.",
-      "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "name": "ジェス & ネイト P.",
+      "title": "スモール ボート ワイルドライフ ツアー、ブリティッシュコロンビア州",
+      "quote": "私たちは 2 人体制で活動しています。私が船長で、彼女が兵站を担当します。 繁忙期には、彼女はメールに毎晩 3 時間を費やしていました。 デュエットではそれが30分に短縮されました。 彼女は実際に夜を取り戻しています。",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "クジラの季節を水上で過ごし、\n あなたの受信箱にはありません。",
+  "ctaSubline": "無料トライアルを開始してください。 30 秒で受信トレイに接続します。",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Duet は天候によるキャンセルやクルーズ船のスケジュール変更に対応していますか?",
+      "answer": "はい。 天候やクルーズ船の到着時間のずれによりツアーをキャンセルする場合、Duet に一度伝えるだけで、影響を受けるゲスト全員に個別のスケジュール変更や最新のメールを作成します。 同じメッセージを 30 回コピーして貼り付ける必要はもうありません。 各返信には、ゲストの元の予約詳細と利用可能な代替案が含まれます。"
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "「クジラは見られますか?」、「何を着ていったらいいですか?」、「子供は大丈夫ですか?」など、同じ質問が常に寄せられます。 Duet はそれらを処理できますか?",
+      "answer": "まさに、Duet が輝くのはそこです。 標準的な回答 (よく見かける動物の種類、持ち物、年齢規定、船酔いのヒント、出発時間) を学習し、即座に完全な返信の下書きを作成します。 レビューして送信します。 ほとんどの船長は、受信箱の 80% が同じ 10 個の質問であり、Duet はそれらすべてを処理すると言っています。"
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "1 人あたり 125 ドルで、6 人からなる 1 つの保存グループは Pro を 1 年以上支払うことになります。"
 }

@@ -1,115 +1,114 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ landscape designers",
-  "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail ለ የመሬት ገጽታ ንድፍ አውጪዎች | AI ኢሜይል ረዳት",
+  "metaDescription": "Duet Mail የመሬት ገጽታ ንድፍ አውጪዎች ለደንበኛ ኢሜይሎች በቅጽበት ምላሽ እንዲሰጡ ያግዛቸዋል - ከሜዳም ጭምር። በAI የተነደፉ ምላሾች ከእርስዎ የፕሮጀክት ዝርዝሮች፣ ዋጋ እና ድምጽ ጋር።",
+  "heroBadge": "በ300+ የመሬት ገጽታ ንድፍ አውጪዎች የታመነ",
+  "heroHeadline": "በመስክ ላይ እያሉ የኢሜል ረዳትዎ",
+  "heroSubline": "Duet የእርስዎን የፕሮጀክት ዝርዝሮች፣ የእጽዋት ቤተ-ስዕሎች፣ የዋጋ አወጣጥ እና ሂደትን ይማራል — ከዚያም ደንበኛን በዝግተኛ ምላሽ እንዳያጡ ምላሾችን ረቂቅ ያዘጋጃል።",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "ራቸል ቲ.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
-      "pill": "To Respond",
+      "subject": "የጓሮ ድጋሚ ዲዛይን - ለምክር ነፃ?",
+      "preview": "ሰላም! በዌስትሌክ ውስጥ ቤት ገዛን እና ጓሮው ባዶ ሰሌዳ ነው። ከአገር በቀል ተከላ እና በረንዳ ጋር ሙሉ ለሙሉ ዳግም ዲዛይን ማድረግ እንፈልጋለን። አዳዲስ ደንበኞችን እየወሰዱ ነው?",
+      "pill": "ምላሽ ለመስጠት",
       "pillColor": "red"
     },
     {
-      "from": "Dan W. — Hardscape Co.",
+      "from": "ዳን ደብልዩ - ሃርድስኬፕ Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "preview": "Hey, we're ready to start trenching on Monday. Can you send over the irrigation layout and head specs so we can order materials this week?",
-      "pill": "Contractor",
+      "subject": "ለ ሚለር ፕሮጀክት የመስኖ ዝርዝሮች?",
+      "preview": "ሄይ፣ ሰኞ ላይ መቦርቦር ለመጀመር ተዘጋጅተናል። በዚህ ሳምንት ቁሳቁሶችን ማዘዝ እንድንችል በመስኖ አቀማመጥ እና የጭንቅላት ዝርዝሮች ላይ መላክ ይችላሉ?",
+      "pill": "ተቋራጭ",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark L.",
+      "from": "ጄኒፈር እና ማርክ ኤል.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Quick question about the plant selections",
-      "preview": "We love the design! Just wondering — can we swap the Japanese maple for something with more fall color? Also, is the lavender deer-resistant?",
-      "pill": "Client",
+      "subject": "ስለ ተክሎች ምርጫ ፈጣን ጥያቄ",
+      "preview": "ንድፉን እንወዳለን! በመገረም ብቻ - የጃፓኑን ካርታ የበለጠ የበልግ ቀለም ላለው ነገር መቀየር እንችላለን? በተጨማሪም ላቬንደር አጋዘን ተከላካይ ነው?",
+      "pill": "ደንበኛ",
       "pillColor": "blue"
     },
     {
-      "from": "Valley View Nursery",
+      "from": "የሸለቆ እይታ መዋለ ህፃናት",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "preview": "Your order of 24 gallon shrubs, 6 specimen trees, and ground cover flats is ready. Pickup available Mon–Sat 7AM–4PM...",
-      "pill": "Supplier",
+      "subject": "ትእዛዝ #4821 ለመውሰድ ተዘጋጅቷል።",
+      "preview": "የ24 ጋሎን ቁጥቋጦዎች፣ 6 የናሙና ዛፎች እና የመሬት ሽፋን ያላቸው አፓርታማዎች ትእዛዝዎ ዝግጁ ነው። ማንሳት ከሰኞ-ቅዳሜ 7AM–4PM ይገኛል...",
+      "pill": "አቅራቢ",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+  "autodraft": "ሰላም ራሄል! በጓሮዎ ላይ ብረዳው ደስ ይለኛል። በአሁኑ ጊዜ ከ2-3 ሳምንታት የመጀመሪያ ምክክር እየያዝኩ ነው። የመጀመሪያው ጉብኝት የ90 ደቂቃ የቦታ ግምገማ ነው - ንብረቱን በእግሬ እሄዳለሁ፣ መለኪያዎችን እወስዳለሁ እና ራዕይዎን እወያያለሁ። ከዚያ የፅንሰ-ሃሳብ እቅድ አዘጋጅቻለሁ. በቀን መቁጠሪያ ላይ ላገኝህ ትፈልጋለህ?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "project",
+    "bookingUnit": "ፕሮጀክት",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Duet."
+    "punchline": "አንድ የተቀመጠ ፕሮጀክት ለዓመታት Duet ይከፍላል።"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+  "categorizationSubtitle": "Duet አዲስ የምክክር ጥያቄዎችን በመጀመሪያ፣ የደንበኛ ማፅደቂያ ሁለተኛ እና የአቅራቢ ጫጫታ እንዲያዩ ለእያንዳንዱ ኢሜል በራስ ሰር መለያ ይሰጣል። በመዋለ ሕጻናት ማዘዣ ማረጋገጫዎች የተቀበረ እርሳስ ከአሁን በኋላ አይጠፋም።",
+  "draftSubtitle": "Duet የእርስዎን ዋጋ፣ ሂደት እና ድምጽ ይማራል። የማማከር ጥያቄ ሲደርስ፣ ከእርስዎ ተገኝነት፣ ምን እንደሚጠበቅ እና ቀጣይ እርምጃዎች የተሟላ ምላሽ ይዘጋጃል። እርስዎ ይገምግሙ እና ይልካሉ።",
+  "agentSubtitle": "\"በሄንደርሰን ፕሮጀክት ላይ ያለው የጊዜ መስመር ምንድነው?\" \"የትኞቹ ደንበኞች በእቅድ መጽደቅ ላይ እየጠበቁ ናቸው?\" Duet የእርስዎን የገቢ መልእክት ሳጥን እና ፕሮጀክቶች ያውቃል - ይጠይቁ።",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "ራቸል ቲ.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "We just bought a home and the backyard is a blank slate...",
-      "pill": "New Inquiry",
+      "subject": "የጓሮ ድጋሚ ዲዛይን - ለምክር ነፃ?",
+      "preview": "አሁን ቤት ገዛን እና ጓሮው ባዶ ሰሌዳ ነው…",
+      "pill": "አዲስ ጥያቄ",
       "pillColor": "red"
     },
     {
-      "from": "Jennifer L.",
+      "from": "ጄኒፈር ኤል.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Re: Final design — we're ready to approve!",
-      "pill": "Client Approval",
+      "subject": "Re: የመጨረሻ ንድፍ - ለማጽደቅ ዝግጁ ነን!",
+      "pill": "የደንበኛ ማጽደቅ",
       "pillColor": "blue"
     },
     {
-      "from": "Dan W. — Hardscape Co.",
+      "from": "ዳን ደብልዩ - ሃርድስኬፕ Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "pill": "Contractor",
+      "subject": "ለ ሚለር ፕሮጀክት የመስኖ ዝርዝሮች?",
+      "pill": "ተቋራጭ",
       "pillColor": "amber"
     },
     {
-      "from": "Valley View Nursery",
+      "from": "የሸለቆ እይታ መዋለ ህፃናት",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "pill": "Supplier",
+      "subject": "ትእዛዝ #4821 ለመውሰድ ተዘጋጅቷል።",
+      "pill": "አቅራቢ",
       "pillColor": "lavender"
     },
     {
       "from": "QuickBooks",
       "avatarLetter": "Q",
       "avatarColor": "lavender",
-      "subject": "Invoice #1047 viewed by client",
-      "pill": "Invoice",
+      "subject": "ደረሰኝ #1047 በደንበኛው ታይቷል።",
+      "pill": "ደረሰኝ",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Backyard redesign — free for a consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "subject": "ድጋሚ፡ የጓሮ ድጋሚ ዲዛይን - ለምክር ነፃ?",
+    "originalFrom": "ራቸል ቲ ጻፈ፡-",
+    "originalText": "ሰላም! በዌስትሌክ ውስጥ ቤት ገዛን እና ጓሮው ባዶ ሰሌዳ ነው። ከአገር በቀል ተከላ እና በረንዳ ጋር ሙሉ ለሙሉ ዳግም ዲዛይን ማድረግ እንፈልጋለን። አዳዲስ ደንበኞችን እየወሰዱ ነው?",
     "lines": [
       "Hi Rachel!",
       "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
       "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
       "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
     ],
-    "highlightText": "My process starts with a 90-minute on-site consultation",
+    "highlightText": "የእኔ ሂደት የሚጀምረው በ90 ደቂቃ የቦታ ምክክር ነው።",
     "tooltipFeatures": [
       "Knows your design process & pricing",
       "Drafts in your voice",
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Which clients are still waiting on plan approval?",
-    "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
-    "followUp": "Draft a follow-up to Jennifer about the plan approval",
-    "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
+    "userMessage": "የትኞቹ ደንበኞች በእቅድ መጽደቅ ላይ አሁንም እየጠበቁ ናቸው?",
+    "agentResponse": "በእርስዎ የቅርብ ጊዜ ኢሜይሎች ላይ በመመስረት፣ ሁለት ደንበኞች መጽደቅን በመጠባበቅ ላይ ናቸው፡- ጄኒፈር እና ማርክ ኤል. (የጓሮ ተሃድሶ - የመጨረሻ ዕቅዶች ከ4 ቀናት በፊት ተልከዋል፣ እስካሁን ምንም ምላሽ የለም) እና Cohens (የፊት ጓሮ ቤተኛ ልወጣ - የተሻሻለው ዕቅድ ባለፈው ሳምንት ልኳል።) ለሁለቱም ረጋ ያለ ክትትል ማዘጋጀት ይፈልጋሉ?",
+    "followUp": "ስለ ዕቅዱ ማፅደቁ ለጄኒፈር ክትትልን ያዘጋጁ",
+    "followUpResponse": "ተከናውኗል! እሷ እና ማርክ የመጨረሻዎቹን እቅዶች ለመገምገም እድሉ እንዳላቸው በመጠየቅ ለጄኒፈር ወዳጃዊ ተመዝግቦ መግባትን አዘጋጅቼ ነበር፣ እና እሷን በማስታወስ በእጽዋት ምርጫዎች ውስጥ ለመሄድ ፈጣን ጥሪ ማድረግ ይችላሉ። ለመገምገም እና ለመላክ ዝግጁ።"
   },
-  "testimonialsTitle": "Loved by landscape designers",
+  "testimonialsTitle": "በወርድ ንድፍ አውጪዎች የተወደደ",
   "testimonials": [
     {
-      "name": "Michael S.",
-      "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "name": "ሚካኤል ኤስ.",
+      "title": "የመሬት ገጽታ አርክቴክት ፣ ኦስቲን ቲኤክስ",
+      "quote": "በጸደይ ወቅት በቀን 8 ሰአታት በቦታው ላይ ነኝ ግምገማዎችን እና ቁጥጥርን እጭናለሁ። አዲስ የማማከር ጥያቄዎች ለቀናት ይቀመጣሉ። አሁን Duet በእኔ ሂደት እና ተገኝነት በደቂቃዎች ውስጥ ምላሽ ይሰጣል። በእርግጠኝነት የማጣቸውን 3 ፕሮጀክቶች አስያዝኩ።",
       "avatarKey": "michael"
     },
     {
-      "name": "Francesca G.",
-      "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "name": "ፍራንቸስካ ጂ.",
+      "title": "የአትክልት ንድፍ አውጪ, ፖርትላንድ ወይም",
+      "quote": "በሃርድስኬፕ ሰራተኞች፣ የመስኖ ጫኚዎች እና ደንበኞች መካከል ማስተባበር የማይረባ ኢሜይል ያመነጫል። Duet ሁሉንም ይመድባል እና ትክክለኛ የፕሮጀክት ዝርዝሮችን ያካተቱ ምላሾችን ያዘጋጃል። የስቱዲዮ ማናጀር እንዳለን ያህል ነው።",
       "avatarKey": "francesca"
     },
     {
-      "name": "Johnny M.",
-      "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "name": "ጆኒ ኤም.",
+      "title": "የመሬት ገጽታ ንድፍ ስቱዲዮ ባለቤት፣ ዴንቨር CO",
+      "quote": "ከመስክ ስራ በኋላ ኢሜይሎችን በመከታተል በየምሽቱ አሳልፋለሁ። ተመሳሳይ ጥያቄዎች - ዋጋ, ሂደት, የጊዜ መስመር. Duet ሁሉንም ይቆጣጠራል። የምላሽ ጊዜዬ ከቀናት ወደ ደቂቃዎች ሄደ እና የእኔ የቅርብ ደረጃ በጣም ከፍ ብሏል።",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer R.",
-      "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "name": "ጄኒፈር አር.",
+      "title": "የመኖሪያ የመሬት ገጽታ ንድፍ አውጪ, ስኮትስዴል ኤ.ኤስ",
+      "quote": "ደንበኞቼ ስለ ተክሎች ምርጫ እና ጥገና ብዙ ጥያቄዎችን ይጠይቃሉ. Duet የእኔን የእጽዋት ቤተ-ስዕል እና የእንክብካቤ መመሪያዎችን እና የረቂቅ ምላሾችን አርትዕ ማድረግ የሚያስፈልገኝን ተምሯል። ደንበኞች በሚገርም ሁኔታ ምላሽ ሰጪ ነኝ ብለው ያስባሉ።",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sarah K.",
-      "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "name": "ሳራ ኬ.",
+      "title": "ቤተኛ የእፅዋት ገጽታ ንድፍ አውጪ፣ ራሌይ ኤንሲ",
+      "quote": "አዲስ ደንበኞችን እያጣሁ ነበር ምክንያቱም በተከላ ተከላ ውስጥ ተንበርካክቼ ምላሽ መስጠት አልቻልኩም። የዱዌት ረቂቆች የምክክር ምላሾች ከእኔ ትክክለኛ ሂደት፣ ዋጋ አሰጣጥ እና ምን እንደሚጠብቁ። በመጀመሪያው ሳምንት ለራሱ ከፍሏል.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "የመሬት ገጽታዎችን በመፍጠር ቀናትዎን ያሳልፉ ፣\nበኢሜል አለመገናኘት ።",
+  "ctaSubline": "ነፃ ሙከራዎን ይጀምሩ። የገቢ መልእክት ሳጥንዎን በ30 ሰከንድ ውስጥ ያገናኙ።",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "የምክክር ጥያቄዎች በሚደራረቡበት ጊዜ Duet የፀደይ ፍጥነቱን መቋቋም ይችላል?",
+      "answer": "በትክክል Duet ያበራል። በጣም በተጨናነቀበት ወቅት፣ እያንዳንዱ አዲስ ጥያቄ በሂደትዎ፣ በጊዜ መስመርዎ እና በተገኝነትዎ ፈጣን እና ዝርዝር ምላሽ ያገኛል - ቀኑን ሙሉ በቦታው ላይ ቢሆኑም እንኳ። ከአሁን በኋላ የፀደይ መሪዎችን ማጣት የለም ምክንያቱም እስከ ምሽቱ 9 ሰዓት ድረስ ወደ እነርሱ መመለስ አይችሉም።"
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
-      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "ከበርካታ የውጪ ሰራተኞች ጋር አስተባብራለሁ። Duet በዚህ ላይ ያግዛል?",
+      "answer": "አዎ። Duet የእርስዎን ፕሮጀክቶች እና የሚሳተፉትን ኮንትራክተሮች ይማራል - ሃርድስኬፕ፣ መስኖ፣ ተከላ ሠራተኞች፣ የችግኝ ማረፊያ። የኮንትራክተሮች ኢሜይሎችን ከደንበኛ ኢሜይሎች ይለያል፣ እና ምላሾችን በፕሮጀክት-ተኮር ዝርዝሮች እንደ ዝርዝር መግለጫዎች፣ የጊዜ መስመሮች እና ቁሳቁሶች ማረም ይችላል። ያለ የገቢ መልእክት ሳጥን ትርምስ ከእያንዳንዱ መርከበኞች በላይ ይቆያሉ።"
     }
   ],
-  "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
+  "pricingNote": "በ$8,000/ፕሮጀክት፣ አንድ የዳነ ደንበኛ ለፕሮጀክት ዓመታት ይከፍላል።"
 }

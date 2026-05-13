@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "ATV 및 UTV 투어를 위한 Duet Mail | AI 이메일 도우미",
+  "metaDescription": "Duet Mail은 ATV 및 UTV 투어 가이드가 트레일에서도 즉시 예약 이메일에 응답할 수 있도록 도와줍니다. AI 가격, 요구 사항 및 의견이 포함된 초안 답변입니다.",
+  "heroBadge": "200명 이상의 투어 가이드가 신뢰함",
+  "heroHeadline": "트레일에 있는 동안 이메일 도우미",
+  "heroSubline": "Duet은 투어 유형, 가격, 라이더 요구 사항을 학습한 다음 이메일 답장 초안을 작성하므로 응답이 느려서 예약을 놓치는 일이 없습니다.",
   "inboxEmails": [
     {
-      "from": "Rachel W.",
+      "from": "레이첼 W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "토요일에 4대의 기계를 사용할 수 있나요?",
+      "preview": "안녕! 우리는 이번 토요일에 가이드 ATV 투어를 예약하려는 4인 그룹입니다. 방이 있나요? 기계당 가격은 얼마인가요?",
+      "pill": "응답하려면",
       "pillColor": "red"
     },
     {
-      "from": "Jason P.",
+      "from": "제이슨 P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "보험 요건?",
+      "preview": "안녕하세요, 우리는 자체 UTV를 가져오고 있습니다. 책임 보험 증빙을 제시해야 합니까? 어떤 종류의 보장이 필요합니까...",
+      "pill": "질문",
       "pillColor": "amber"
     },
     {
-      "from": "The Hendersons",
+      "from": "헨더슨스",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "초보자를 위한 트레일은 무엇인가요?",
+      "preview": "우리는 전에 ATV를 타본 적이 없습니다. 10대 자녀가 있는 가족에게 추천하고 싶은 여행 루트는 무엇인가요? 제공하시나요...",
+      "pill": "예약",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "트립어드바이저",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "귀하의 목록에 대한 새로운 리뷰",
+      "preview": "최근 한 여행자가 귀하의 업체를 리뷰했습니다. 그들이 무엇을 말하고 응답했는지 살펴보세요...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "안녕 레이첼! 토요일은 열려 있으며 기계 4대를 문제 없이 이용할 수 있습니다. 투어는 기계당 $200이며 약 6~8시간 동안 진행됩니다. 오전 9시에 트레일 기점에서 만납니다. 확인되면 길 안내를 보내드리겠습니다. 헬멧과 고글이 제공됩니다. 내가 당신을 가두기를 원하시나요?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "그룹(4대)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "저장된 그룹 예약 1개로 Duet 1년 요금이 지불됩니다."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet은 모든 이메일에 자동으로 태그를 지정하므로 예약 요청이 먼저 표시되고 보험 질문이 두 번째로 표시되며 잡음이 전혀 표시되지 않습니다. 더 이상 트립어드바이저 알림 아래에 묻혀 있는 그룹 문의를 놓치지 마세요.",
+  "draftSubtitle": "Duet은 투어 경로, 가격, 라이더 요구 사항을 학습합니다. 예약 문의가 들어오면 여행 세부 정보, 가격, 지참물 등이 포함된 전체 답변 초안을 작성합니다. 검토하고 보냅니다.",
+  "agentSubtitle": "\"이번 주말에 예약된 단체가 있나요?\" \"토요일에 시간이 있는지 Rachel에게 답장 초안을 작성하세요.\" Duet은 귀하의 받은 편지함과 일정을 알고 있습니다. 그냥 물어보세요.",
   "categorizationEmails": [
     {
-      "from": "Rachel W.",
+      "from": "레이첼 W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "토요일에 4대의 기계를 사용할 수 있나요?",
+      "preview": "우리는 가이드 ATV 투어를 예약하려는 4인 그룹입니다...",
+      "pill": "지금 응답하세요",
       "pillColor": "red"
     },
     {
-      "from": "Jason P.",
+      "from": "제이슨 P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Re: 예약이 확인되었습니다 — 토요일 오전 9시",
+      "pill": "예약됨",
       "pillColor": "blue"
     },
     {
-      "from": "The Hendersons",
+      "from": "헨더슨스",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "트레일에서는 무엇을 입어야 할까요?",
+      "pill": "질문",
       "pillColor": "amber"
     },
     {
-      "from": "Yelp for Business",
+      "from": "비즈니스를 위한 옐프",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
+      "subject": "주간 비즈니스 업데이트",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Rocky Mountain ATV",
+      "from": "록키 마운틴 ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "스프링 클리어런스 - 부품 25% 할인",
+      "pill": "프로모션",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: 토요일에 4대의 기계를 사용할 수 있나요?",
+    "originalFrom": "Rachel W.는 다음과 같이 썼습니다.",
+    "originalText": "안녕! 우리는 이번 토요일에 가이드 ATV 투어를 예약하려는 4인 그룹입니다. 방이 있나요? 기계당 가격은 얼마인가요?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "안녕 레이첼!",
+      "토요일은 4대의 기계를 위해 활짝 열려 있습니다. 투어는 기계당 $200이며 트레일 기점에서 오전 9시부터 6~8시간 동안 진행됩니다.",
+      "헬멧과 고글이 제공됩니다. 긴 바지와 발가락이 막힌 신발을 착용하고 물과 자외선 차단제를 가져오세요. 확정되면 미팅 장소와 오시는 길을 보내드리겠습니다.",
+      "내가 당신을 가두기를 원하시나요?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "토요일은 4대의 기계를 위해 활짝 열려 있습니다. 투어는 기계당 $200입니다.",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "가격 및 여행 경로를 알고 있습니다.",
+      "당신의 목소리에 초안이 들어있습니다.",
+      "라이더 요구사항을 자동으로 포함합니다.",
+      "시간이 지남에 따라 학습"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "이번 주말에 예약된 단체가 있나요?",
+    "agentResponse": "받은 편지함에 따르면 토요일 오전 9시에 6명으로 구성된 그룹이 확정되었고 일요일 아침에 두 사람이 예약되었습니다. 토요일 오후와 일요일 오후는 여전히 열려있습니다. 해당 채용 공고에 대해 보류 중인 문의에 대한 답변 초안을 작성하시겠습니까?",
+    "followUp": "토요일에 시간이 있는지 Rachel에게 답장 초안 작성",
+    "followUpResponse": "완료! 나는 Rachel에게 토요일에 각각 $200의 기계 4대를 확인하는 답장 초안을 작성했습니다. 여기에는 표준 회의 장소, 장비 정보, 복장 등이 포함됩니다. 검토하고 보낼 준비가 되었습니다."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "투어 가이드와 운영자에게 사랑받는",
   "testimonials": [
     {
-      "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "name": "마이크 D.",
+      "title": "ATV 가이드, 유타 남부",
+      "quote": "저는 휴대폰 서비스 없이 협곡을 통과하는 8시간 투어를 안내합니다. 내가 돌아올 때쯤에는 내 예약 이메일의 절반이 냉각된 상태였습니다. Duet은 내 가격 및 트레일 정보를 포함하여 응답 초안을 작성합니다. 하루가 끝날 때 검토만 하면 됩니다.",
       "avatarKey": "michael"
     },
     {
-      "name": "Tara M.",
-      "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "name": "타라 M.",
+      "title": "UTV 투어 운영자, 콜로라도",
+      "quote": "우리는 일주일에 7일 투어를 운영하는데 보험과 면제 질문만으로도 내 아침을 지치게 만들었습니다. Duet은 라이더 요구 사항, 연령 제한, 지참물 등 모든 것을 처리합니다. 나랑 똑같은 것 같은데.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Jake R.",
-      "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "name": "제이크 R.",
+      "title": "지프 투어 가이드, 모아브",
+      "quote": "사람들은 어떤 트레일이 자신의 그룹에 적합한지, 필요한 경험 수준은 무엇인지, 아이들이 탈 수 있는지 여부를 이메일로 묻습니다. 같은 5가지 질문이 계속 반복됩니다. 듀엣은 그들 모두를 못 박는다.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Nicole S.",
-      "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "name": "니콜 S.",
+      "title": "오프로드 모험, 애리조나주",
+      "quote": "나는 매일 밤 동일한 가용성 질문에 답하는 데 한 시간 이상을 소비했습니다. 이제 내가 여행을 떠나는 동안 Duet 초안이 응답합니다. 내 응답 시간은 몇 시간에서 몇 분으로 단축되었습니다.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Amanda K.",
-      "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "name": "아만다 K.",
+      "title": "가족 ATV 투어, 세도나",
+      "quote": "초보자 트레일과 연령 요건에 대해 문의하는 가족이 많이 있습니다. Duet은 우리의 모든 투어 옵션을 학습했으며 모든 답변에서 올바른 옵션을 추천합니다. 고객은 차이점을 알 수 없습니다.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "성수기를 트레일에서 보내세요. \n받은편지함에는 없습니다.",
+  "ctaSubline": "무료 평가판을 시작하세요. 30초 안에 받은편지함을 연결하세요.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Duet은 보험 및 면제 관련 질문을 처리하나요?",
+      "answer": "예. Duet은 책임 보험, 연령 제한, 면제 세부 사항, 라이더가 가져와야 할 사항 등 라이더 요구 사항을 학습합니다. 누군가 투어 전에 필요한 것이 무엇인지 묻는 이메일을 보내면 Duet은 모든 세부 사항이 포함된 완전한 답변 초안을 작성합니다. 검토하고 보내기를 탭합니다."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "나는 휴대폰 서비스 없이 하루 종일 트레일에 있습니다. Duet은 어떻게 도움이 되나요?",
+      "answer": "이것이 바로 가이드들이 Duet을 좋아하는 이유입니다. 신호도 없이 6~8시간 동안 투어를 진행하는 동안 예약 문의가 쌓인다. Duet 초안은 가격, 가용성, 회의 장소, 무엇을 입을지 등 모든 항목에 응답합니다. 돌아와서 초안을 검토하고 보냅니다. 대부분의 가이드는 성수기 동안 하루에 1~2시간의 이메일 시간을 절약할 수 있다고 말합니다."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "기계당 $200로 4명의 저장된 그룹 중 하나가 1년 이상의 Pro 비용을 지불합니다."
 }

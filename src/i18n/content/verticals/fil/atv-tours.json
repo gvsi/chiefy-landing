@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-  "heroBadge": "Trusted by 200+ tour guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail para sa ATV at UTV Tours | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga tour guide ng ATV at UTV na tumugon kaagad sa mga email sa pag-book — kahit na mula sa trail. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga kinakailangan, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 200+ tour guide",
+  "heroHeadline": "Ang iyong email assistant habang ikaw ay nasa trail",
+  "heroSubline": "Natutunan ng Duet ang iyong mga uri ng tour, pagpepresyo, at mga kinakailangan sa rider — pagkatapos ay mag-draft ng mga tugon sa email para hindi ka mawalan ng booking sa isang mabagal na tugon.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
-      "pill": "To Respond",
+      "subject": "Availability sa Sabado para sa 4 na makina?",
+      "preview": "Hi! Kami ay isang grupo ng 4 na naghahanap upang mag-book ng isang guided ATV tour ngayong Sabado. may kwarto ka ba Ano ang presyo bawat makina?",
+      "pill": "Upang Tumugon",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Insurance requirements?",
-      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
-      "pill": "Question",
+      "subject": "Mga kinakailangan sa insurance?",
+      "preview": "Uy, nagdadala kami ng sarili naming mga UTV. Kailangan ba nating magpakita ng patunay ng seguro sa pananagutan? Anong uri ng coverage ang kailangan mo...",
+      "pill": "Tanong",
       "pillColor": "amber"
     },
     {
-      "from": "The Hendersons",
+      "from": "Ang mga Henderson",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "Which trail for beginners?",
-      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
-      "pill": "Booking",
+      "subject": "Aling landas para sa mga nagsisimula?",
+      "preview": "Hindi pa kami nakakagawa ng ATV riding dati. Aling ruta ng paglilibot ang irerekomenda mo para sa isang pamilyang may dalawang tinedyer? Nagbibigay ka ba ng...",
+      "pill": "Pagbu-book",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Bagong review para sa iyong listing",
+      "preview": "Sinuri kamakailan ng isang manlalakbay ang iyong negosyo. Tingnan kung ano ang kanilang sasabihin at tumugon...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+  "autodraft": "Hoy Rachel! Bukas ang Sabado at maaari tayong kumuha ng 4 na makina walang problema. Ang mga paglilibot ay $200 bawat makina at tumatakbo nang humigit-kumulang 6-8 oras. Magkita tayo sa 9 AM sa trailhead — magpapadala ako ng mga direksyon kapag nakumpirma ka na. Nagbibigay ng helmet at salaming de kolor. Gusto mo bang ikulong kita?",
   "math": {
     "pricePerBooking": "$800",
-    "bookingUnit": "group (4 machines)",
+    "bookingUnit": "pangkat (4 na makina)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "Ang isang naka-save na group booking ay nagbabayad para sa isang taon ng Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong sa insurance, at hindi kailanman ingay. Wala nang nawawalang pagtatanong ng grupo na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
+  "draftSubtitle": "Natutunan ng duet ang iyong mga ruta ng paglilibot, pagpepresyo, at mga kinakailangan sa rider. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may mga detalye ng biyahe, pagpepresyo, at kung ano ang dadalhin. I-review at ipadala mo.",
+  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Mag-draft ng tugon kay Rachel na may availability sa Sabado.\" Alam ng duet ang iyong inbox at iskedyul — magtanong lang.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Availability Saturday for 4 machines?",
-      "preview": "We're a group of 4 looking to book a guided ATV tour...",
-      "pill": "Respond Now",
+      "subject": "Availability sa Sabado para sa 4 na makina?",
+      "preview": "Kami ay isang pangkat ng 4 na naghahanap upang mag-book ng isang guided ATV tour...",
+      "pill": "Tumugon Ngayon",
       "pillColor": "red"
     },
     {
       "from": "Jason P.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 9 AM",
-      "pill": "Booked",
+      "subject": "Re: Nakumpirma ang booking — Sabado 9 AM",
+      "pill": "Naka-book",
       "pillColor": "blue"
     },
     {
-      "from": "The Hendersons",
+      "from": "Ang mga Henderson",
       "avatarLetter": "H",
       "avatarColor": "purple",
-      "subject": "What should we wear on the trail?",
-      "pill": "Question",
+      "subject": "Ano ang dapat nating isuot sa trail?",
+      "pill": "Tanong",
       "pillColor": "amber"
     },
     {
-      "from": "Yelp for Business",
+      "from": "Yelp para sa Negosyo",
       "avatarLetter": "Y",
       "avatarColor": "lavender",
-      "subject": "Your weekly business update",
+      "subject": "Ang iyong lingguhang update sa negosyo",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Rocky Mountain ATV",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring clearance — 25% off parts",
-      "pill": "Promotions",
+      "subject": "Spring clearance — 25% diskwento sa mga bahagi",
+      "pill": "Mga promosyon",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.w@email.com",
-    "subject": "Re: Availability Saturday for 4 machines?",
-    "originalFrom": "Rachel W. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "subject": "Re: Availability sa Sabado para sa 4 na makina?",
+    "originalFrom": "Sumulat si Rachel W.:",
+    "originalText": "Hi! Kami ay isang grupo ng 4 na naghahanap upang mag-book ng isang guided ATV tour ngayong Sabado. may kwarto ka ba Ano ang presyo bawat makina?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
-      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
-      "Want me to lock you in?"
+      "Hoy Rachel!",
+      "Bukas ang Sabado para sa 4 na makina. Ang mga paglilibot ay $200 bawat makina at tumatakbo nang 6-8 oras simula 9 AM mula sa trailhead.",
+      "Nagbibigay ng helmet at salaming de kolor — magsuot lang ng mahabang pantalon, saradong sapatos, at magdala ng tubig at sunscreen. Ipapadala ko ang meeting point at mga direksyon kapag nakumpirma ka na.",
+      "Gusto mo bang ikulong kita?"
     ],
-    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "highlightText": "Bukas ang Sabado para sa 4 na makina. Ang mga paglilibot ay $200 bawat makina",
     "tooltipFeatures": [
-      "Knows your pricing & tour routes",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Alam ang iyong pagpepresyo at mga ruta ng paglilibot",
+      "Mga draft sa iyong boses",
+      "Awtomatikong kasama ang mga kinakailangan sa rider",
+      "Natututo sa paglipas ng panahon"
     ]
   },
   "agent": {
-    "userMessage": "Any groups booked for this weekend?",
-    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
-    "followUp": "Draft a reply to Rachel with Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+    "userMessage": "May mga grupo bang naka-book para sa weekend na ito?",
+    "agentResponse": "Batay sa iyong inbox, mayroon kang pangkat ng 6 na nakumpirma para sa Sabado ng 9 AM at isang mag-asawa ang nag-book para sa Linggo ng umaga. Sabado ng hapon at Linggo ng hapon ay bukas pa rin. Gusto ko bang mag-draft ng tugon sa anumang nakabinbing mga katanungan sa mga opening na iyon?",
+    "followUp": "Mag-draft ng tugon kay Rachel na may availability sa Sabado",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon kay Rachel na nagkukumpirma sa Sabado para sa 4 na makina sa $200 bawat isa. Kabilang dito ang iyong karaniwang lokasyon ng pagpupulong, impormasyon ng gear, at kung ano ang isusuot. Handa nang suriin at ipadala."
   },
-  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonialsTitle": "Minamahal ng mga tour guide at operator",
   "testimonials": [
     {
       "name": "Mike D.",
-      "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "title": "Gabay sa ATV, Southern Utah",
+      "quote": "Pinamunuan ko ang 8-oras na paglilibot sa mga canyon na may zero cell service. Sa oras na babalik ako, lumalamig na ang kalahati ng aking mga email sa pag-book. Duet draft ng mga tugon sa aking pagpepresyo at trail info — susuriin ko lang ang mga ito sa pagtatapos ng araw.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "quote": "Nagpapatakbo kami ng mga paglilibot 7 araw sa isang linggo at ang mga tanong sa seguro at waiver lamang ay kumakain ng aking umaga. Ang duet ang humahawak sa lahat ng ito — mga kinakailangan ng rider, mga paghihigpit sa edad, kung ano ang dadalhin. Katulad ko talaga.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "quote": "Nag-email ang mga tao na nagtatanong kung aling trail ang tama para sa kanilang grupo, anong antas ng karanasan ang kailangan nila, kung makakasakay ang mga bata. Ang parehong 5 tanong na paulit-ulit. Duet pako ang bawat isa sa kanila.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "quote": "Gumugugol ako ng mahigit isang oras gabi-gabi sa pagsagot sa parehong mga tanong sa availability. Ngayon, ang mga draft ng Duet ay tumutugon habang nasa labas ako. Ang oras ng pagtugon ko ay umabot sa mga oras hanggang minuto.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "quote": "Nakakakuha kami ng maraming pamilya na nagtatanong tungkol sa mga baguhan na landas at mga kinakailangan sa edad. Natutunan ng duet ang lahat ng aming opsyon sa paglilibot at inirerekomenda ang tama sa bawat tugon. Hindi masasabi ng mga kliyente ang pagkakaiba.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Gumugol ng peak season sa trail, \nwala sa inbox mo.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Pinangangasiwaan ba ng Duet ang mga tanong sa insurance at waiver?",
+      "answer": "Oo. Natutunan ng duet ang iyong mga kinakailangan sa rider — insurance sa pananagutan, mga paghihigpit sa edad, mga detalye ng waiver, kung ano ang kailangang dalhin ng mga sakay. Kapag may nag-email na nagtatanong kung ano ang kailangan nila bago ang kanilang paglilibot, nag-draft ang Duet ng kumpletong tugon kasama ang lahat ng mga detalye. Suriin mo at i-tap ang ipadala."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Buong araw akong nasa trail na walang cell service. Paano nakakatulong ang Duet?",
+      "answer": "Iyan mismo ang dahilan kung bakit gustong-gusto ng mga gabay ang Duet. Habang nangunguna ka sa isang 6-8 na oras na paglilibot na walang signal, tambak ang mga katanungan sa pag-book. Ang mga duet draft ay tumutugon sa bawat isa sa mga ito — pagpepresyo, availability, lokasyon ng pagpupulong, kung ano ang isusuot. Pagbalik mo, susuriin mo ang mga draft at ipadala. Sinasabi sa amin ng karamihan sa mga gabay na nakakatipid ito sa kanila ng 1-2 oras ng oras ng email bawat araw sa panahon ng peak season."
     }
   ],
-  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+  "pricingNote": "Sa $200/machine, ang isang naka-save na grupo ng 4 ay nagbabayad ng higit sa isang taon na Pro."
 }

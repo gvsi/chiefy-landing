@@ -1,27 +1,26 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ surf instructors",
-  "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mailtil surfskoler og paddleboard-operatører | AI e-mail-assistent",
+  "metaDescription": "Duet Mailhjælper surfinstruktører og paddleboard-operatører med at svare på booking-e-mails med det samme - selv mens de underviser. AI-udkastede svar med dine lektionstyper, priser og stemme.",
+  "heroBadge": "Betroet af 300+ surfinstruktører",
+  "heroHeadline": "Din e-mail-assistent, mens du underviser på vandet",
+  "heroSubline": "Duetlærer dine lektionstyper, priser og betingelser - og udarbejder derefter e-mailsvar, så du aldrig mister en reservation på grund af et langsomt svar.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
-      "pill": "To Respond",
+      "subject": "Gruppelektion for 6 på lørdag?",
+      "preview": "Hej! Jeg har en gruppe på 6 venner på besøg i weekenden. Har du ledige pladser til en gruppe surf lektion lørdag morgen? Hvad er prisen?",
+      "pill": "At reagere",
       "pillColor": "red"
     },
     {
       "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "School field trip — 25 students, May 15",
-      "preview": "We're looking to book a surf day for our 5th grade class of 25 students. Do you offer school group rates? We'd need wetsuits and boards provided...",
+      "subject": "Skoleudflugt — 25 elever, 15. maj",
+      "preview": "Vi søger at booke en surfdag for vores 5. klasse på 25 elever. Tilbyder I skolegruppepriser? Vi skal bruge våddragter og brædder...",
       "pill": "Booking",
       "pillColor": "blue"
     },
@@ -29,63 +28,63 @@
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Paddleboard rental + delivery?",
-      "preview": "Do you rent SUP boards by the hour? We're staying at the beach house on Elm St — any chance you deliver? What's included...",
-      "pill": "Question",
+      "subject": "Paddleboard leje + levering?",
+      "preview": "Lejer du SUP-plader på timebasis? Vi bor i strandhuset på Elm St - har du mulighed for at levere? Hvad er inkluderet...",
+      "pill": "Spørgsmål",
       "pillColor": "amber"
     },
     {
       "from": "Nicole B.",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Conditions for tomorrow morning?",
-      "preview": "We're booked for 9 AM tomorrow but the forecast looks windy. Will the lesson still go ahead? Should we bring anything extra...",
+      "subject": "Betingelser for i morgen tidlig?",
+      "preview": "Vi er reserveret til kl. 9 i morgen, men vejrudsigten ser blæsende ud. Vil lektionen stadig fortsætte? Skal vi medbringe noget ekstra...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+  "autodraft": "Hej Rachel! Lørdag morgen er der åbent til 6. Gruppetimerne varer 2 timer fra kl. 9.00. Boards, våddragter og udslætsbeskyttere er alle inkluderet - bare medbring solcreme og et håndklæde. Det er $90 per person. Skal jeg låse din gruppe inde?",
   "math": {
     "pricePerBooking": "$90",
-    "bookingUnit": "lesson",
+    "bookingUnit": "lektion",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "To gemte bookinger betaler for et år påDuet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duettagger automatisk hver e-mail, så du ser lektionsreservationer først, spørgsmål dernæst og aldrig støj. Ikke mere mangler en skolegruppeforespørgsel begravet under Yelp-alarmer.",
+  "draftSubtitle": "Duetlærer dine lektionstyper, gruppepriser og tone. Når en reservationsforespørgsel rammer, udarbejder den et komplet svar med tilgængelighed, hvad der er inkluderet, og hvad der skal medbringes. Du anmelder og sender.",
+  "agentSubtitle": "\"Er der nogen gruppebookinger på vej i denne uge?\" \"Udfør et svar til skolen med tilgængelighed.\"Duetkender din indbakke og tidsplan - bare spørg.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "I have a group of 6 friends visiting for the weekend...",
-      "pill": "Respond Now",
+      "subject": "Gruppelektion for 6 på lørdag?",
+      "preview": "Jeg har en gruppe på 6 venner på besøg i weekenden...",
+      "pill": "Svar nu",
       "pillColor": "red"
     },
     {
       "from": "Westside Elementary",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Field trip confirmed — May 15, 25 students",
-      "pill": "Booked",
+      "subject": "Re: Ekskursion bekræftet — 15. maj, 25 elever",
+      "pill": "Booket",
       "pillColor": "blue"
     },
     {
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Do you rent paddleboards by the hour?",
-      "pill": "Question",
+      "subject": "Lejer du paddleboards på timebasis?",
+      "pill": "Spørgsmål",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "Ny anmeldelse af din fortegnelse",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Surf Warehouse",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 30% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Sommerudsalg — 30 % rabat på våddragter",
+      "pill": "Probevægelser",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group lesson for 6 on Saturday?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
+    "subject": "Re: Gruppelektion for 6 på lørdag?",
+    "originalFrom": "Rachel T. skrev:",
+    "originalText": "Hej! Jeg har en gruppe på 6 venner på besøg i weekenden. Har du ledige pladser til en gruppe surf lektion lørdag morgen? Hvad er prisen?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "Hej Rachel!",
+      "Lørdag morgen er åben for 6. Gruppelektioner koster $90/person og varer 2 timer fra kl. 9.00 på hovedstranden.",
+      "Brædder, våddragter og udslætsbeskyttere er alle inkluderet - bare medbring solcreme, vand og et håndklæde. Ingen erfaring nødvendig.",
+      "Skal jeg låse din gruppe inde?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "Lørdag morgen er åben for 6. Gruppelektioner koster $90/person",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "Kender dine lektionstyper og priser",
+      "Kladder i din stemme",
+      "Inkluderer det, der leveres automatisk",
+      "Lærer over tid"
     ]
   },
   "agent": {
-    "userMessage": "Any group bookings coming up this week?",
-    "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
-    "followUp": "Draft a reply to the school confirming the field trip details",
-    "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
+    "userMessage": "Kommer der nogen gruppebookinger i denne uge?",
+    "agentResponse": "Du har to gruppebookinger i denne uge: Rachel T. om lørdagen (6 personer, kl. 9) og Westside Elementary om onsdagen (25 elever, kl. 10.00 ekskursion). Du har også en afventende forespørgsel fra James P. om udlejning af paddleboard. Vil du have mig til at udarbejde et svar?",
+    "followUp": "Udkast til et svar til skolen, der bekræfter ekskursionsdetaljerne",
+    "followUpResponse": "Færdig! Jeg udarbejdede et svar til Westside Elementary, der bekræftede den 15. maj for 25 elever kl. 10.00. Det inkluderer din skolegruppepris, hvad der tilbydes, krav om tilladelsesseddel og din afbestillingspolitik. Klar til at gennemgå og sende."
   },
-  "testimonialsTitle": "Loved by surf instructors",
+  "testimonialsTitle": "Elsket af surfinstruktører",
   "testimonials": [
     {
-      "name": "Coach Mike T.",
-      "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
+      "name": "Træner Mike T.",
+      "title": "Surfskoleejer, CA",
+      "quote": "Jeg underviser i vandet 6 timer om dagen. Da jeg tjekkede e-mail, var halvdelen af ​​reservationerne gået til en anden. Nu laverDuetudkast til svar med mine priser og tilgængelighed - jeg gennemgår bare mellem sessionerne.",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "name": "Jen og Mark S.",
+      "title": "Paddleboard-undervisning og -udlejning, HI",
+      "quote": "Vi kører lektioner og bordudlejning ud af samme indbakke.Duetfandt ud af forskellen med det samme - lejespørgsmål får svar på lejemål, lektionsforespørgsler får lektionsdetaljer. Det er som at have en reception.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
-      "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "title": "Surfinstruktør, FL",
+      "quote": "Skolegruppebookinger plejede at tage 10 e-mails frem og tilbage. Nu udarbejderDuetdet første svar med gruppetakster, hvad der er inkluderet og tilladelsessedlen. Skærer hele tråden i halve.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
-      "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
+      "title": "SUP-ture og lektioner, OR",
+      "quote": "Højsæsonen dræbte mig - 30 e-mails om dagen om forhold, priser, hvad jeg skal medbringe. De samme fem spørgsmål igen og igen.Duethåndterer dem alle, og de lyder præcis som mig.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "quote": "Forældre sender de længste e-mails. Lejrdatoer, allergier, færdighedsniveauer, afhentningstider.Duetudarbejder udkast til detaljerede svar, der dækker alt, så jeg skriver ikke afsnit kl. 22.00 efter en hel dag på stranden.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tilbring din sommer i bølgerne,\nikke i din indbakke.",
+  "ctaSubline": "Start din gratis prøveperiode. Tilslut din indbakke på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle different lesson types and equipment rentals?",
-      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "HåndtererDuetforskellige undervisningstyper og leje af udstyr?",
+      "answer": "Ja.Duetlærer alle dine tilbud - privatlektioner, gruppelektioner, børnelejre, bordudlejning, SUP-ture. Når der kommer en forespørgsel, udarbejder den et svar med den korrekte pris, varighed, hvad der er inkluderet, og hvad der skal medbringes. Den ved, at en skolegruppe-e-mail har brug for andre detaljer end en privat lektionsbestilling."
     },
     {
-      "question": "What about weather and conditions questions?",
-      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "question": "Hvad med spørgsmål om vejr og forhold?",
+      "answer": "Duetlærer, hvordan du typisk håndterer e-mails med betingelser - dine politikker om aflysninger, omlægning af tidsplaner og hvilke betingelser du underviser i. Når nogen sender e-mails og spørger, om deres lektion vil fortsætte, udarbejderDuetet svar, der matcher din sædvanlige tone og politik. Du gennemgår og sender på få sekunder."
     }
   ],
-  "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
+  "pricingNote": "For $90/lektion betaler to gemte bookinger for over et år påPro."
 }

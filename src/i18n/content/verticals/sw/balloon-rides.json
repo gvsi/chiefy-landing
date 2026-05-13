@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mail kwa Uendeshaji wa Puto ya Hewa ya Moto | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia marubani wa puto kujibu barua pepe za kuweka nafasi papo hapo — hata wakati wa safari za ndege za macheo. Majibu yaliyoandaliwa na AI pamoja na bei, sera za hali ya hewa na sauti yako.",
+  "heroBadge": "Inaaminiwa na marubani 200+ wa puto",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa hewani",
+  "heroSubline": "Duet hujifunza ratiba zako za safari za ndege, bei na sera za hali ya hewa - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi unapozindua macheo.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Safari ya ndege ya maawio ya 2 - Jumamosi inapatikana?",
+      "preview": "Habari! Mume wangu na mimi tunatembelea kwa ajili ya maadhimisho ya mwaka wetu na tungependa kuweka nafasi ya safari ya puto ya macheo Jumamosi hii. Je! una nafasi? Ni gharama gani kwa kila mtu?",
+      "pill": "Ili Kujibu",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "Je, tutaruka kesho? Utabiri wa upepo unaonekana kuwa mbaya",
+      "preview": "Tumeweka nafasi ya kesho asubuhi lakini programu ya hali ya hewa inaonyesha kasi ya 15 mph. Bado tunasafiri kwa ndege au tupange kupanga upya...",
+      "pill": "Swali",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "Ndege ya kibinafsi kwa pendekezo - bei?",
+      "preview": "Ninataka kumshangaza mpenzi wangu kwa safari ya kibinafsi ya puto na kupendekeza wakati wa kukimbia. Kiasi gani cha safari ya ndege ya kibinafsi na unaweza kusaidia kuratibu...",
+      "pill": "Kuhifadhi",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "Tuvae nini? Tunakutana wapi?",
+      "preview": "Tumeweka nafasi kwa ajili ya Jumapili asubuhi. Tunapaswa kuvaa nini na mahali pa mkutano ni wapi hasa? Pia, uzoefu wote unachukua muda gani...",
+      "pill": "Swali",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Habari Rachel! Jumamosi imefunguliwa saa 2. Safari za ndege za macheo huzinduliwa karibu 6:15 AM — tutathibitisha saa kamili na eneo la mkutano jioni kabla kulingana na upepo. Ni $250/mtu na inajumuisha takriban saa moja hewani pamoja na tosti ya shampeni baada ya kutua. Mavazi katika tabaka na kuvaa viatu vilivyofungwa. Unataka nihifadhi matangazo yako?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "ndege",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "Ndege moja iliyohifadhiwa hulipa mwaka wa Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, maswali ya hali ya hewa ya pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa ndege uliozikwa chini ya arifa za jarida.",
+  "draftSubtitle": "Duet hujifunza kuhusu bei, sera za hali ya hewa na sauti yako. Ombi la kuweka nafasi linapofika, huandaa jibu kamili lenye maelezo ya safari ya ndege, maelezo ya mkutano na mavazi. Unakagua na kutuma.",
+  "agentSubtitle": "\"Nani yuko kwenye manifest ya kesho?\" \"Ughairi wowote wa hali ya hewa ili kupanga upya?\" Duet anajua kikasha chako na kalenda - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Safari ya ndege ya maawio ya 2 - Jumamosi inapatikana?",
+      "preview": "Mume wangu na mimi tungependa kuweka nafasi ya kupanda puto wakati wa mawio...",
+      "pill": "Jibu Sasa",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: Uhifadhi umethibitishwa - Jumapili 6:15 AM",
+      "pill": "Imehifadhiwa",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "Tunapaswa kuvaa nini kwa ndege?",
+      "pill": "Swali",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "Maoni mapya ya tangazo lako",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Balloon Federation",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
+      "subject": "Taarifa ya usalama ya Machi na ukumbusho wa kusasisha",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: Ndege ya macheo kwa 2 - Jumamosi inapatikana?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Mume wangu na mimi tunatembelea kwa ajili ya maadhimisho ya mwaka wetu na tungependa kuweka nafasi ya safari ya puto ya macheo Jumamosi hii. Je! una nafasi? Ni gharama gani kwa kila mtu?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Habari Rachel!",
+      "Jumamosi iko wazi kwa watu 2. Safari za ndege za mawio ya jua ni $250/mtu na hujumuisha takriban saa moja angani pamoja na tosti ya champagne baada ya kutua.",
+      "Tunazinduliwa karibu 6:15 AM — nitakutumia saa kamili ya mkutano na eneo lako jioni kabla kulingana na hali ya upepo. Mavazi katika tabaka na kuvaa viatu vilivyofungwa.",
+      "Furaha ya kumbukumbu! Unataka nihifadhi matangazo yako?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Jumamosi iko wazi kwa 2. Safari za ndege za mawio ni $250/mtu",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Anajua bei na ratiba yako ya ndege",
+      "Rasimu katika sauti yako",
+      "Inajumuisha maelezo ya mkutano kiotomatiki",
+      "Anajifunza kwa muda"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Nani yuko kwenye manifest ya kesho na hali ya hewa ikoje?",
+    "agentResponse": "Safari ya kesho macheo ya safari ya ndege ina abiria 6 walioweka nafasi katika nafasi 2: sherehe ya Thompson (4) na wanandoa wa Lee (2). Utabiri wa sasa unaonyesha upepo tulivu kwa kasi ya 4 kwa saa na anga safi wakati wa uzinduzi. Bado hakuna barua pepe za kughairiwa. Je, unataka nitume uthibitisho wa sehemu ya mkutano?",
+    "followUp": "Ndiyo, tuma uthibitisho kwa pande zote mbili kwa saa ya mkutano ya 6:15 AM",
+    "followUpResponse": "Imekamilika! Nilitayarisha uthibitishaji wa sehemu ya mkutano kwa akina Thompson na Lees kwa 6:15 AM kwenye uwanja wa uzinduzi, nini cha kuvaa na maelekezo. Tayari kukagua na kutuma."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Inapendwa na marubani na waendeshaji puto",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "Kapteni Mike L.",
+      "title": "Rubani wa Puto, MN",
+      "quote": "Mimi ni operesheni ya mtu mmoja - Ninaruka, ninafanya kazi, najibu barua pepe. Ila saa 5 asubuhi napandisha bei, sijibu. Duet huandaa majibu kwa kila 'je tutasafiri kwa ndege kesho?' ujumbe usiku kucha. Ninaamka, kuangalia hali ya hewa, na kugonga kutuma.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "title": "Ziara za Puto za Mwaka Mzima, UT",
+      "quote": "Tunapata maswali 10 sawa kila siku. Nini cha kuvaa, wapi kukutana, nini ikiwa kuna upepo. Duet walijifunza yote na sasa wanatayarisha majibu kamili. Tulitoka kwa saa moja ya barua pepe kila usiku hadi dakika tano.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "title": "Opereta wa Ndege ya Jua, AZ",
+      "quote": "Msimu wa kilele unamaanisha safari za ndege 4-6 kwa wiki na kila abiria hutuma barua pepe angalau mara mbili kabla ya safari ya ndege. Duet hushughulikia maswali ya kabla ya safari ya ndege ili niweze kulenga kuwapa watu asubuhi bora zaidi ya maisha yao.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "Mmiliki Mwenza wa Kampuni ya Puto, NM",
+      "quote": "Ughairi wa hali ya hewa uliharibu siku yangu nzima - abiria 8 wote wanahitaji barua pepe za kibinafsi za kupanga upya. Sasa Duet inatayarisha kila moja pamoja na sera yetu ya kuhifadhi nafasi tena. Huniokoa saa za asubuhi za kughairiwa.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "title": "Operesheni za Kuendesha Puto, CO",
+      "quote": "Safari za ndege zinazopendekezwa zinahitaji uratibu mwingi wa kurudi na kurudi. Duet ilichukua jinsi tunavyozishughulikia - muda, maneno ya siri, usanidi wa champagne. Inatayarisha majibu ambayo sina budi kugusa.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tumia asubuhi yako mbinguni,\nhaipo kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Je, Duet hushughulikia vipi barua pepe za kughairi hali ya hewa?",
+      "answer": "Duet hujifunza sera zako za kughairi na kuweka nafasi tena. Unapoghairi safari ya ndege kwa sababu ya hali ya hewa, inaweza kuandaa barua pepe za upangaji upya zilizobinafsishwa kwa kila abiria aliyeathiriwa - kwa kutumia sera yako, tarehe zinazopatikana na sauti yako. Unakagua na kutuma. Kinachotumika kuchukua saa moja ya majibu ya mtu binafsi huchukua dakika."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Je, Duet inaweza kushughulikia 'je tutasafiri kesho?' barua pepe zinazofurika kila jioni?",
+      "answer": "Ndiyo - hii ni mojawapo ya barua pepe za kawaida ambazo waendeshaji puto hutuambia kuzihusu. Duet hujifunza sera zako za hali ya hewa na rasimu za majibu ya uhakikisho ambayo yanaelezea mchakato wako wa kufanya uamuzi, wakati utakapopiga simu ya mwisho na nini cha kutarajia. Pindi tu utakapothibitisha kwenda/usiende asubuhi, inaweza kuandaa masasisho kwa kila mtu kwenye faili ya maelezo."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "Kwa $250/mtu aliye na abiria 4 kwa kila ndege, nafasi moja iliyohifadhiwa hulipa kwa zaidi ya mwaka mmoja wa Pro."
 }

@@ -1,36 +1,35 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "Duet Mailtil luftballonture | AI e-mail-assistent",
+  "metaDescription": "Duet Mailhjælper ballonpiloter med at reagere på booking-e-mails med det samme - selv under solopgangsflyvninger. AI-udkastede svar med din prissætning, vejrpolitikker og stemme.",
+  "heroBadge": "Betroet af 200+ ballonpiloter",
+  "heroHeadline": "Din e-mail-assistent, mens du er i luften",
+  "heroSubline": "Duetlærer dine flyveplaner, priser og vejrpolitikker – og udarbejder derefter e-mailsvar, så du aldrig mister en reservation, mens du starter ved solopgang.",
   "inboxEmails": [
     {
-      "from": "Rachel & Dan T.",
+      "from": "Rachel og Dan T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "Sunrise-flyvning for 2 - lørdag tilgængelig?",
+      "preview": "Hej! Min mand og jeg er på besøg til vores jubilæum og ville elske at booke en ballontur ved solopgang denne lørdag. Har du plads? Hvad er prisen pr. person?",
+      "pill": "At reagere",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "Skal vi flyve i morgen? Vindudsigten ser barsk ud",
+      "preview": "Vi er reserveret til i morgen tidlig, men vejr-appen viser vindstød på 25 km/t. Flyver vi stadig, eller skal vi planlægge at omlægge tid...",
+      "pill": "Spørgsmål",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark P.",
+      "from": "Jennifer og Mark P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
+      "subject": "Privat flyrejse for et forslag — prisfastsættelse?",
+      "preview": "Jeg vil overraske min kæreste med en privat ballontur og fri under flyvningen. Hvor meget koster en privat flyvning, og kan du hjælpe med at koordinere...",
       "pill": "Booking",
       "pillColor": "blue"
     },
@@ -38,135 +37,135 @@
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "Hvad skal vi have på? Hvor mødes vi?",
+      "preview": "Vi er booket til søndag morgen. Hvad skal vi have på, og hvor er mødestedet præcist? Og hvor lang tid tager hele oplevelsen...",
+      "pill": "Spørgsmål",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "Hej Rachel! Lørdag er åben for 2. Sunrise-flyvninger starter omkring kl. 06.15 — vi bekræfter det nøjagtige tidspunkt og mødested aftenen før baseret på vind. Det er $250/person og inkluderer omkring en time i luften plus en champagnetoast efter landing. Klæd dig i lag og tag sko med lukkede tåer. Skal jeg reservere dine pladser?",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "flyvning",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "Én gemt flyvning betaler for et år påDuet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duettagger automatisk hver e-mail, så du ser reservationsanmodninger først, vejrspørgsmål dernæst og aldrig støj. Ikke mere mangler en flyforespørgsel begravet under nyhedsbrevsalarmer.",
+  "draftSubtitle": "Duetlærer dine priser, vejrpolitikker og tone. Når en reservationsforespørgsel rammer, udarbejder den et komplet svar med flydetaljer, mødeinfo og hvad man skal have på. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvem er på morgendagens manifest?\" \"Er der nogen vejraflysninger, der skal omlægges?\"Duetkender din indbakke og kalender - bare spørg.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "Sunrise-flyvning for 2 - lørdag tilgængelig?",
+      "preview": "Min mand og jeg ville elske at booke en ballontur i solopgang...",
+      "pill": "Svar nu",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: Bestilling bekræftet — søndag kl. 06.15",
+      "pill": "Booket",
       "pillColor": "blue"
     },
     {
       "from": "Amy S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "Hvad skal vi have på til flyveturen?",
+      "pill": "Spørgsmål",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "Ny anmeldelse af din fortegnelse",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Balloon Federation",
+      "from": "Ballonforbund",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
+      "subject": "Sikkerhedsbulletin i marts og påmindelse om fornyelse",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: Sunrise-flyvning for 2 - lørdag tilgængelig?",
+    "originalFrom": "Rachel T. skrev:",
+    "originalText": "Hej! Min mand og jeg er på besøg til vores jubilæum og ville elske at booke en ballontur ved solopgang denne lørdag. Har du plads? Hvad er prisen pr. person?",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "Hej Rachel!",
+      "Lørdag er åben for 2. Sunrise-flyvninger koster $250/person og inkluderer omkring en time i luften plus en champagneskål efter landing.",
+      "Vi starter omkring kl. 6:15 — jeg sender dit nøjagtige mødetidspunkt og -sted aftenen før baseret på vindforholdene. Klæd dig i lag og tag sko med lukkede tåer.",
+      "Tillykke med jubilæet! Skal jeg reservere dine pladser?"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "Lørdag er åben for 2. Sunrise-flyvninger koster $250/person",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "Kender dine priser og flyveplan",
+      "Kladder i din stemme",
+      "Inkluderer automatisk mødedetaljer",
+      "Lærer over tid"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "Hvem er med på morgendagens manifest, og hvordan ser vejret ud?",
+    "agentResponse": "Morgendagens sunrise-flyvning har 6 passagerer booket på tværs af 2 reservationer: Thompson-festen (4) og Lee-parret (2). Den aktuelle vejrudsigt viser vindstille med 4 mph og klar himmel ved lanceringen. Ingen annullerings-e-mails endnu. Skal jeg sende mødestedsbekræftelserne?",
+    "followUp": "Ja, send bekræftelser til begge parter med mødetidspunktet kl. 6:15",
+    "followUpResponse": "Færdig! Jeg udarbejdede mødestedsbekræftelser til både Thompsons og Lees kl. 06.15 ved affyringsfeltet, hvad jeg skulle have på og anvisninger. Klar til at gennemgå og sende."
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "Elsket af ballonpiloter og operatører",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "Kaptajn Mike L.",
+      "title": "Ballonpilot, MN",
+      "quote": "Jeg er en enkeltmandsoperation — jeg flyver, jeg bemander, jeg besvarer e-mails. Bortset fra kl. 05.00 puster jeg op og svarer ikke.Duetlaver udkast til svar på hvert \"flyver vi i morgen?\" besked natten over. Jeg vågner, tjekker vejret og trykker på send.",
       "avatarKey": "michael"
     },
     {
-      "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "name": "Shannon og Jake B.",
+      "title": "Ballonture året rundt, UT",
+      "quote": "Vi får de samme 10 spørgsmål hver dag. Hvad skal man have på, hvor man skal mødes, hvad hvis det blæser.Duetlærte det hele og udarbejder nu perfekte svar. Vi gik fra en times e-mails hver nat til fem minutter.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "quote": "Højsæson betyder 4-6 flyvninger om ugen, og hver passager sender e-mails mindst to gange før flyvningen.Duethåndterer spørgsmålene før flyvningen, så jeg kan fokusere på at give folk den bedste morgen i deres liv.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "title": "Balloon Company medejer, NM",
+      "quote": "Vejraflysninger plejede at ødelægge hele min dag - 8 passagerer havde alle brug for personlige e-mails om planlægning. Nu udarbejderDuethver enkelt med vores ombookingspolitik inkluderet. Sparer mig timer på afbudsmorgen.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "title": "Ballonkørsel, CO",
+      "quote": "Proposale flyvninger har brug for så meget koordinering frem og tilbage.Duethar forstået, hvordan vi håndterer dem - timingen, kodeordene, champagneopsætningen. Den udarbejder svar, jeg næsten ikke behøver at røre ved.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tilbring dine morgener i himlen,\nikke i din indbakke.",
+  "ctaSubline": "Start din gratis prøveperiode. Tilslut din indbakke på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Hvordan håndtererDuete-mails om vejraflysning?",
+      "answer": "Duetlærer dine afbestillings- og ombookingspolitikker. Når du aflyser et fly på grund af vejret, kan det udarbejde personlige omlægnings-e-mails til alle berørte passagerer - med din politik, tilgængelige datoer og din tone. Du anmelder og sender. Det, der plejede at tage en times individuelle svar, tager minutter."
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "KanDuethåndtere \"flyver vi i morgen?\" e-mails, der strømmer ind hver aften?",
+      "answer": "Ja - dette er en af de mest almindelige e-mails, som ballonoperatører fortæller os om.Duetlærer dine vejrpolitikker og udkast til betryggende svar, der forklarer din beslutningsproces, hvornår du vil foretage det sidste opkald, og hvad du kan forvente. Når du har bekræftet go/no-go om morgenen, kan den udarbejde udkast til opdateringer til alle på manifestet."
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "Ved 250 USD/person med 4 passagerer pr. flyafgang betaler én gemt reservation for over et år påPro."
 }

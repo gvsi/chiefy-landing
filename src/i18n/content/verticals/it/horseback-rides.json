@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail per passeggiate a cavallo e guide di sentieri | Assistente e-mail AI",
+  "metaDescription": "Duet Mail aiuta gli operatori di trail trail a rispondere istantaneamente alle e-mail di prenotazione, anche dalla sella. Risposte elaborate dall'intelligenza artificiale con prezzi, requisiti del ciclista e voce.",
+  "heroBadge": "Scelto da oltre 300 guide di sentieri",
+  "heroHeadline": "Il tuo assistente email mentre sei in viaggio",
+  "heroSubline": "Duet apprende i tipi di corsa, i prezzi, i requisiti del ciclista e le condizioni del percorso, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "Prenotazione di gruppo per 6 - sabato mattina?",
+      "preview": "Ciao! Siamo una famiglia di 6 persone (2 adulti, 4 bambini dagli 8 ai 14 anni) e ci piacerebbe prenotare un giro in pista questo sabato mattina. Hai disponibilità? Qual è il prezzo a persona?",
+      "pill": "Per rispondere",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Domanda sul limite di peso",
+      "preview": "Ehi, mi piacerebbe prenotare un passaggio ma volevo prima chiederti quali sono i tuoi requisiti di peso. Peso circa 260 libbre: sarà un problema...",
+      "pill": "Domanda",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "Amy e Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Giro al tramonto per l'anniversario?",
+      "preview": "Festeggeremo il nostro decimo anniversario il prossimo fine settimana e abbiamo visto il tuo giro al tramonto su Instagram. È disponibile venerdì sera? Eventuali pacchetti speciali...",
+      "pill": "Prenotazione",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
-      "pill": "FYI",
+      "subject": "Nuova recensione per la tua inserzione",
+      "preview": "Un viaggiatore ha recentemente recensito la tua attività. Guarda cosa avevano da dire e rispondi...",
+      "pill": "Per tua informazione",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Ehi Jessica! Il sabato mattina è aperto alle 6. I nostri percorsi a cavallo costano $ 100 a persona e durano circa 90 minuti attraverso la valle. I bambini dagli 8 anni in su sono i benvenuti: tutti i tuoi sono pronti a partire. Sono necessarie scarpe chiuse e forniamo caschi. Vuoi che ti prenoti per la corsa delle 9:00?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "cavalcare",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Una corsa di gruppo salvata paga oltre due anni di Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet tagga automaticamente ogni e-mail in modo da visualizzare prima le richieste di prenotazione, poi le domande dei ciclisti e mai il rumore. Non perderai più un'indagine di gruppo sepolta sotto gli avvisi TripAdvisor.",
+  "draftSubtitle": "Duet apprende i tipi di corsa, i prezzi e i requisiti. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del percorso, i prezzi e cosa indossare. Rivedi e invii.",
+  "agentSubtitle": "\"Ci sono giostre aperte questo fine settimana?\" \"Scrivi una risposta a Jessica con disponibilità per sabato.\" Duet conosce la tua casella di posta e il tuo calendario: basta chiedere.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "Prenotazione di gruppo per 6 - sabato mattina?",
+      "preview": "Siamo una famiglia di 6 persone e vogliamo prenotare un giro in pista...",
+      "pill": "Rispondi adesso",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Ri: Giro al tramonto confermato — venerdì 17:30",
+      "pill": "Prenotato",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Limiti di peso e requisiti di esperienza?",
+      "pill": "Domanda",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "Viatore",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
-      "pill": "FYI",
+      "subject": "Il riepilogo della tua prenotazione settimanale",
+      "pill": "Per tua informazione",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "Fornitura di trattori",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Saldi di primavera: 15% di sconto su mangimi e finimenti",
+      "pill": "Promozioni",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Ri: Prenotazione di gruppo per 6 — sabato mattina?",
+    "originalFrom": "Jessica T. ha scritto:",
+    "originalText": "Ciao! Siamo una famiglia di 6 persone (2 adulti, 4 bambini dagli 8 ai 14 anni) e ci piacerebbe prenotare un giro in pista questo sabato mattina. Hai disponibilità? Qual è il prezzo a persona?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Ehi Jessica!",
+      "Il sabato mattina è aperto per le 6. Le corse in pista costano $ 100 a persona e durano circa 90 minuti attraverso la valle. I bambini dagli 8 anni in su sono i benvenuti, quindi tutto il tuo equipaggio è pronto a partire.",
+      "Sono necessarie scarpe chiuse: gli stivali sono i migliori. Forniamo caschi e abbiniamo ogni cavaliere a un cavallo in base alla taglia e all'esperienza. Non è necessaria alcuna esperienza di guida precedente.",
+      "Vuoi che ti chiuda dentro per la corsa delle 9:00?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "Il sabato mattina è aperto per 6 persone. Le corse in pista costano $ 100 a persona",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Conosce i tuoi prezzi e la tua disponibilità",
+      "Bozze nella tua voce",
+      "Include automaticamente i requisiti del ciclista",
+      "Impara nel tempo"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Ci sono giostre aperte questo fine settimana? Inoltre, che tempo farà?",
+    "agentResponse": "In base al tuo calendario, hai aperture sabato alle 9:00 e 14:00 e domenica alle 10:00. Le previsioni per sabato sono 22°C e soleggiato: tempo perfetto per la guida. La domenica mostra una probabilità del 40% di pioggia pomeridiana, quindi la fascia oraria mattutina è la scommessa più sicura. Vuoi che rediga le risposte a tutte le domande in sospeso con questi tempi?",
+    "followUp": "Scrivi una risposta a Jessica con la disponibilità del sabato",
+    "followUpResponse": "Fatto! Ho redatto una risposta a Jessica confermando sabato alle 9:00 per 6 ciclisti a $ 100 a persona. Include i requisiti standard del ciclista e cosa indossare. Pronto per la revisione e l'invio."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Amato dagli operatori di trail ride",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "Proprietario del ranch e guida ai sentieri, MT",
+      "quote": "Sono in pista 6 ore al giorno senza servizio cellulare. Quando sono tornato per rispondere, metà delle persone avevano prenotato da qualche altra parte. Ora Duet redige le risposte con i miei prezzi e i dettagli della corsa: le rivedo e le invio quando torno alla stalla.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "title": "Operatore turistico a cavallo, Arizona",
+      "quote": "Riceviamo dozzine di e-mail che chiedono la stessa cosa: limiti di peso, cosa indossare, requisiti di età. Duet gestisce tutto e le risposte suonano esattamente come me. I miei ospiti non hanno idea che sia l'intelligenza artificiale.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "Guida al Trail Ride, CO",
+      "quote": "L'alta stagione mi stava uccidendo. Oltre 30 e-mail al giorno oltre alle corse di corsa. Duet classifica le richieste di prenotazione in base al rumore e alle bozze delle risposte che includono tutto: prezzi, cosa portare, tutto. Ho riavuto le mie serate.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "name": "Rachele M.",
+      "title": "Istruttore di equitazione e responsabile delle prenotazioni, TX",
+      "quote": "Organizziamo corse al tramonto, corse mattutine e lezioni private, ognuna con prezzi e requisiti diversi. Duet ha imparato tutto in una settimana. Elabora ogni volta la risposta giusta per il tipo di corsa giusto.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "name": "Diana K.",
+      "title": "Ranch per famiglie e passeggiate su sentieri, CA",
+      "quote": "Le email sensibili erano le peggiori: qualcuno chiedeva se erano troppo pesanti o se il figlio era abbastanza grande. Duet li gestisce con la stessa cura che farei io. Professionale, gentile e preciso. Solo questo ne vale la pena.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Trascorri la giornata con i cavalli,\nnon nella tua casella di posta.",
+  "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "In che modo Duet gestisce le domande delicate sui requisiti di peso o esperienza?",
+      "answer": "Duet apprende le tue politiche specifiche e rispecchia il tuo tono. Quando qualcuno chiede informazioni sui limiti di peso o sui requisiti di esperienza, risponde in modo professionale e caloroso, condividendo le informazioni di cui ha bisogno senza creare imbarazzo. Tu imposti il ​​tono una volta e Duet lo segue in modo coerente, così ogni ospite si sente rispettato."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Duet può gestire prenotazioni di gruppo con esigenze di ciclisti diversi?",
+      "answer": "Sì. Duet apprende i tipi di corsa, le dimensioni del gruppo, l'età minima e gli eventuali requisiti specifici del ciclista. Quando una famiglia o un gruppo invia un'e-mail in merito alla prenotazione, redige una risposta che copre i prezzi per l'intero gruppo, ciò che ogni ciclista deve sapere e le fasce orarie disponibili. Rivedi e invii, senza bisogno di avanti e indietro."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "A $ 100 a persona per un gruppo di 6 persone, una corsa salvata vale più di due anni di Pro."
 }

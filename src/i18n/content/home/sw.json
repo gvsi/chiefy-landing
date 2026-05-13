@@ -1,33 +1,32 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | Msaidizi wa Barua pepe wa AI kwa Gmail na Outlook",
+    "description": "Msaidizi wa barua pepe wa AI wa Duet Mail hufanya muhtasari wa barua pepe, majibu ya rasimu, na kupanga kisanduku pokezi chako. Inafanya kazi na Gmail na Outlook. Okoa saa 4+ kila wiki."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Sasa inapatikana kwa Gmail na Outlook",
+    "headlinePrefix": "Wako ",
+    "headlineHighlight": "mkuu wa wafanyakazi",
+    "headlineSuffix": " kwa",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "barua pepe ya kupanga",
+      "kuandaa majibu",
+      "kupanga ratiba",
+      "kutafuta majibu"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "Okoa saa 4+ kila wiki kwenye barua pepe",
+    "primaryCta": "Anza na Gmail",
+    "secondaryCta": "Anza na Outlook",
+    "trialNote": "Jaribio la bure la siku 14",
+    "cancelNote": "Ghairi wakati wowote"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Uainishaji wa papo hapo",
+      "Majibu yanayoendeshwa na AI"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Kikasha",
     "providers": [
       "Gmail",
       "Outlook"
@@ -38,138 +37,138 @@
       "10:05 AM",
       "Yesterday"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Rasimu otomatiki",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Re: Rekodi ya Uzinduzi wa Bidhaa",
+        "preview": "Habari! Nilitaka kuangalia mali ya uzinduzi. Je, bado tuko kwenye mstari kwa wiki ijayo...",
+        "pill": "Ili Kujibu"
       },
       {
         "from": "Emma Park",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Usawazishaji wa haraka leo mchana?",
+        "preview": "Ningependa kupata masasisho ya ramani ya barabara. Uko huru saa kumi jioni...",
+        "pill": "Mkutano"
       },
       {
         "from": "Marketing",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
+        "subject": "Matokeo ya Kampeni Yako Tayari",
         "pill": "FYI"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Duka lako liko tayari kwa Ijumaa Nyeusi",
+        "pill": "Matangazo"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Habari Alex! Ndiyo, tuko kwenye mstari. Timu ya usanifu ilimaliza vipengee jana na nitatuma faili za mwisho kufikia EOD leo."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "Nembo za mteja",
+    "headingPrefix": "Inaaminika kwa kutazama mbele",
+    "headingHighlight": " wataalamu na timu ",
+    "headingSuffix": "duniani kote"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "Vipengele",
+    "eyebrow": "Kikasha chako, Chaji Zaidi",
+    "title": "Kikasha chako hakipaswi kumiliki siku yako",
+    "subtitle": "Badilisha machafuko kuwa uwazi na AI ambayo inakupata.\nOkoa saa 3+ kila wiki ukitumia kiratibu mahiri zaidi cha barua pepe cha Gmail na Outlook.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "Tuma rasimu za barua pepe zinazosikika kama Wewe",
+        "description": "Mwandishi wa barua pepe wa Duet AI huandaa rasimu za barua pepe zako muhimu zaidi. Inajifunza sauti yako na mitindo ya uandishi.",
+        "ariaLabel": "Tuma rasimu za barua pepe zinazosikika kama wewe",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "Niliandika barua pepe baridi iliyobinafsishwa kwa ajili ya John",
+          "sampleText": "Mabomba ya AI ni muhimu kwa ajili ya kujenga mifumo thabiti ya AI, inayoweza kupanuka na yenye ufanisi.",
+          "readyToSend": "Je, uko tayari kutuma?",
+          "remindFollowUp": "Nikumbushe kufuatilia."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "Muhtasari wa Papo Hapo na Vipengee vya Kushughulikia",
+        "description": "Pata TL;DR na vipengee vya kushughulikia kutoka kwa yaliyomo kwenye barua pepe yako kwa sekunde. Hakuna tena kusoma riwaya katika kikasha chako.",
+        "ariaLabel": "Muhtasari wa papo hapo na vipengee vya kushughulikia",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "Napendekeza sisi ",
+          "sentenceHighlight": "tukutane wiki ijayo",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "Kipengele Kipya cha Kitendo",
+          "actionLead": "Nimepata nafasi hizi za bure kwenye kalenda yako",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "Jumanne, saa 10 asubuhi",
+            "Alhamisi, saa 2 usiku",
+            "Ijumaa, 9am"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Tafuta zaidi",
+          "primaryButton": "Tuma"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "Vikumbusho vya Akili",
+        "description": "Weka na uisahau. Duet AI inakumbuka kufuatilia wakati wengine hawajibu, kwa hivyo hakuna kitu kinachoanguka kupitia nyufa.",
+        "ariaLabel": "Vikumbusho vya akili",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "Vikumbusho Mahiri vinavyoendeshwa na AI",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Ufuatiliaji",
               "value": "12",
-              "unit": "emails"
+              "unit": "barua pepe"
             },
             {
-              "label": "To reply",
+              "label": "Kujibu",
               "value": "2",
-              "unit": "emails"
+              "unit": "barua pepe"
             },
             {
-              "label": "Completed",
+              "label": "Imekamilika",
               "value": "3",
-              "unit": "action items"
+              "unit": "vitu vya vitendo"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Kamilisha kazi za uandishi",
+              "time": "siku 2 zilizopita"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Ujumuishaji wa Mradi",
+              "time": "saa 12 zilizopita"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Fuata",
+            "Je, ungependa kupanga upya?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "Zingatia Mambo Yanayohusu",
+        "description": "Uainishaji mahiri huonyesha barua pepe zako muhimu zaidi kwanza, na hupanga barua pepe katika mada. Usimamizi wa Barua Pepe haijawahi kuwa rahisi.",
+        "ariaLabel": "Zingatia mambo muhimu",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "UCHAMBUZI"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "Kupanga barua pepe na uainishaji mahiri wa kikasha pokezi",
+    "badge": "Shirika",
+    "title": "Duet hupanga kikasha chako",
+    "subtitle": "Uainishaji kiotomatiki huchuja kelele na kuibua mambo muhimu. Ona papo hapo kinachohitaji hatua, ni nini FYI pekee, na kinachoweza kusubiri.",
+    "windowTitle": "Kikasha",
     "providers": [
       "Gmail",
       "Outlook"
@@ -185,222 +184,222 @@
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "Ombi la Mapitio ya Bajeti ya Q4",
+        "preview": "Nambari zilizokamilishwa zimeambatanishwa. Tafadhali kagua na EOD.",
+        "pill": "Hatua Inahitajika"
       },
       {
         "from": "Michael Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Timu kusimama kesho saa 10 asubuhi",
+        "pill": "Mkutano"
       },
       {
         "from": "Design Team",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
+        "subject": "Miongozo mpya ya chapa iliyochapishwa",
         "pill": "FYI"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Taarifa yako ya kila mwezi iko tayari",
+        "pill": "Matangazo"
       },
       {
         "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "subject": "Digest ya kila wiki",
+        "pill": "Matangazo"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "Kutayarisha barua pepe ya AI na kutengeneza majibu",
+    "badge": "Kuandika",
+    "title": "Duet rasimu katika sauti yako",
+    "subtitle": "Duet hujifunza jinsi unavyoandika na kuandaa majibu yanayolingana na sauti yako. Kagua, rekebisha ikihitajika, na utume kwa sekunde.",
+    "windowTitle": "Ujumbe Mpya",
     "fieldLabels": {
       "to": "To:",
-      "subject": "Subject:"
+      "subject": "Mada:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: Usawazishaji wa haraka wiki hii?",
+      "originalFrom": "Alex Rivera aliandika:",
+      "originalText": "Habari! Ningependa kupata mabadiliko ya ramani ya barabara. Je, uko bila malipo kwa simu ya dakika 30 wiki hii? Nijulishe kinachofaa kwako.",
+      "badge": "Imeandaliwa kiotomatiki",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Habari Alex!",
+        "Ningependa kusawazisha kwenye ramani ya barabara. Sina malipo Alhamisi 2-4pm au Ijumaa asubuhi - ama inanifanyia kazi vyema.",
+        "Nijulishe kinachokufaa zaidi na nitatuma mwaliko.",
+        "Asante!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Sina malipo Alhamisi 2-4pm au Ijumaa asubuhi",
       "actions": [
-        "Send",
-        "Edit"
+        "Tuma",
+        "Hariri"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Rasimu Iliyobinafsishwa",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Anajua kalenda yako",
+        "Rasimu katika sauti yako",
+        "Anajua muktadha kupitia kumbukumbu",
+        "Anajifunza kwa muda"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "AI email akili na msaidizi",
+    "badge": "Akili",
+    "title": "Uliza chochote kuhusu barua pepe yako",
+    "subtitle": "Uliza Duet itafute barua pepe, angalia kalenda yako au uandike jibu. Inaelewa kikasha chako na majibu papo hapo.",
+    "windowTitle": "Wakala wa Duet",
+    "onlineLabel": "Mtandaoni",
+    "initialUserMessage": "Je, unaweza kupata ankara ya Stripe iliyotumwa na Uhasibu?",
+    "processingText": "Inatafuta kikasha...",
+    "foundHeader": "Imepata barua pepe 2 kutoka kwa Stripe",
+    "foundBody": "Nilipata risiti ya $29.00 USD kuanzia tarehe 24 Oktoba.",
     "attachment": {
-      "fileName": "invoice_oct24.pdf",
+      "fileName": "ankara_oct24.pdf",
       "fileSize": "142 KB"
     },
     "suggestions": [
       {
-        "action": "draft",
-        "label": "Draft a reply"
+        "action": "rasimu",
+        "label": "Rasimu ya jibu"
       },
       {
-        "action": "calendar",
-        "label": "Find time to meet"
+        "action": "kalenda",
+        "label": "Tafuta muda wa kukutana"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Uliza chochote...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "Inachakata...",
+      "processingDraft": "Inazalisha rasimu...",
+      "processingCalendar": "Inakagua upatikanaji...",
+      "draftIntro": "Hapa kuna rasimu ya jibu kwa Uhasibu:",
+      "draftHeader": "Rasimu: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Habari Timu,",
+        "Tafadhali tafuta ankara ya Stripe iliyoambatishwa ya Oktoba ($29.00).",
+        "Nijulishe ikiwa unahitaji kitu kingine chochote.",
+        "Bora zaidi,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "Tuma Barua Pepe",
+        "Hariri"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "Una nafasi 3 zilizofunguliwa kesho:",
       "calendarSlots": [
         {
           "time": "9:30 AM",
-          "duration": "30 min"
+          "duration": "Dakika 30"
         },
         {
-          "time": "2:00 PM",
-          "duration": "30 min"
+          "time": "2:00 Usiku",
+          "duration": "Dakika 30"
         },
         {
           "time": "4:30 PM",
-          "duration": "30 min"
+          "duration": "Dakika 30"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Pia andika jibu?",
+        "calendarAfterDraft": "Je, ungependa kupanga ufuatiliaji?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "Ushuhuda",
+    "scrollingAriaLabel": "Kusogeza ushuhuda",
+    "eyebrow": "Ushuhuda",
+    "title": "Inapendwa na wataalamu wenye shughuli nyingi",
+    "subtitle": "Watu halisi. Inbox halisi imeshinda.",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "Mfanyakazi huru",
+        "quote": "Inastahili kila senti. Muda ninaohifadhi kwenye barua pepe hulipia Duet Mail 10x zaidi. Siwezi kufikiria kufanya kazi bila hiyo sasa.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "Mtendaji wa mauzo",
+        "quote": "Muhtasari wa papo hapo wa nyuzi ndefu za barua pepe ni uchawi mtupu, na kwa hivyo ni rahisi kwa watumiaji. Wateja wangu wanadhani mimi ni mtu wa juu kuliko binadamu.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "Mjasiriamali",
+        "quote": "Nilikuwa na shaka na matumizi ya akili bandia kwa barua pepe zangu. Sasa, ni kama kuwa na msaidizi mkuu mahiri. Siwezi kufikiria kurudi nyuma.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "Mshauri",
+        "quote": "Kama mshauri, kila dakika ni muhimu. Duet Mail hainiokoi wakati tu—hufanya mawasiliano yangu ya barua pepe kuwa makali zaidi.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
         "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "title": "Mkurugenzi wa Masoko",
+        "quote": "Mwishowe, msaidizi wa barua wa AI ambaye hujifunza jinsi ninavyoandika. Majibu ya papo hapo ni ya moja kwa moja, timu yangu ilifikiri nilikuwa nikifanya kazi usiku wa manane.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
+    "ariaLabel": "Bei",
+    "eyebrow": "Bei",
+    "heading": "Bei rahisi, kikasha chenye nguvu",
+    "subheading": "Anza bila malipo, pata toleo jipya la wakati wowote. Ghairi wakati wowote.",
+    "billingLegend": "Upungufu wa bili",
+    "billingAnnual": "Mwaka",
+    "billingMonthly": "Kila mwezi",
+    "savingsTag": "Okoa 33%",
     "priceCadence": "/month",
     "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "annualBillingSuffix": "(hutozwa kila mwaka)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Malipo salama kupitia Stripe",
+      "Ghairi wakati wowote"
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "name": "Msingi",
+        "description": "Kwa yeyote anayetaka kujua jinsi kikasha bora zaidi kinavyohisi. Hakuna ahadi inayohitajika.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "Muhtasari wa Papo Hapo",
+            "description": "Pata maelezo ya thread yoyote"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "Rasimu za AI",
+            "description": "Ladha ya majibu katika sauti yako"
           },
           {
             "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "description": "Shirika la msingi la kuanza"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "Msaidizi wa Duet",
+            "description": "Jaribu msaidizi wa AI"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Chagua Gmail au Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "Jaribio la bure la siku 14",
+        "description": "Kwa wataalamu wanaotaka uwekaji kiotomatiki, miunganisho na kikasha ambacho kinajua kikamilifu jinsi unavyofanya kazi.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
@@ -408,42 +407,42 @@
         "features": [
           {
             "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "description": "Barua pepe zimepangwa kiotomatiki katika kategoria mahiri",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "Rasimu za AI",
+            "description": "Majibu yaliyoandikwa kwa sauti yako, tayari kutumwa",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "Msaidizi wa Duet",
+            "description": "Piga gumzo ili kupata, kuandika, kupanga na zaidi",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "Ujumuishaji wa Kalenda",
+            "description": "Ratibu, tazama na udhibiti matukio kutoka kwa kikasha chako"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "Muhtasari wa Papo Hapo",
+            "description": "Pata muhtasari wa uzi au kiambatisho chochote"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Vikumbusho Mahiri",
+            "description": "Ufuatiliaji hujidhihirisha kiotomatiki ili hakuna kitu kinachoteleza"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "Msaada wa Kipaumbele",
+            "description": "Wanadamu halisi, majibu ya haraka"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Chagua Gmail au Outlook",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "Biashara",
+        "description": "Kwa mashirika ambayo yanahitaji kiwango cha kiwango cha biashara, usaidizi uliojitolea, na mtiririko maalum wa kazi. Bora kwa timu za 50+.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,149 +450,149 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Kila kitu katika Pro",
+            "description": "Vipengele vyote pamoja"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Msaada wa kujitolea",
+            "description": "Msimamizi wa akaunti ya kibinafsi"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "Uchanganuzi wa Timu",
+            "description": "Maarifa kote shirika lako"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Mitiririko ya Kazi iliyoshirikiwa",
+            "description": "Violezo na otomatiki kwa timu"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Wasiliana na mauzo",
+        "ctaNote": "Bei maalum inapatikana"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
-    "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "ariaLabel": "Maswali yanayoulizwa mara kwa mara",
+    "eyebrow": "Maswali Yanayoulizwa Mara kwa Mara",
+    "headingPrefix": "Maswali ya kawaida, ",
+    "headingAccent": "akajibu",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
+    "contactLabel": "WASILIANA NA",
+    "contactHeading": "Bado una maswali?",
+    "contactCta": "Wasiliana →",
     "footerBrand": "DUET MAIL",
-    "footerLabel": "FAQ",
+    "footerLabel": "Maswali Yanayoulizwa Mara kwa Mara",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Je, Duet Mail inalindaje data yangu ya barua pepe?",
+        "answer": "Usalama wako ndio kipaumbele chetu kikuu. Tunatumia OAuth 2.0 kwa uthibitishaji salama na Google na Microsoft. Maudhui ya barua pepe husimbwa kwa njia fiche wakati wa mapumziko kwa kutumia usimbaji wa kiwango cha uga wa mteja, na tunafuata kanuni ya fursa ndogo zaidi ya ufikiaji wa API. Kwa muunganisho wetu wa Google, tunapitia tathmini ya usalama ya CASA ya kila mwaka ya Google."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Je, kipengele cha muhtasari wa barua pepe hufanya kazi vipi?",
+        "answer": "Duet Mail hutumia AI ya hali ya juu kuchanganua maandishi yako ya barua pepe na kutoa muhtasari mfupi unaoangazia mambo muhimu, maamuzi na vipengee vya kushughulikia. Hii hukusaidia kuelewa kwa haraka muktadha bila kusoma thread nzima."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail inahitaji ruhusa gani?",
+        "answer": "Duet Mail inahitaji ufikiaji wa barua pepe zako ili kutoa muhtasari, kutoa vitu vya kushughulikia, kutoa maudhui na kutuma barua pepe zako. Tunaomba tu ruhusa tunazohitaji kabisa. Unaweza kukagua na kubatilisha ruhusa hizi wakati wowote katika Akaunti yako ya Google au mipangilio ya Akaunti ya Microsoft."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Je, ni nini kimejumuishwa katika jaribio lisilolipishwa?",
+        "answer": "Jaribio lisilolipishwa la siku 14 linajumuisha ufikiaji kamili wa vipengele vyote vya Pro: muhtasari wa barua pepe usio na kikomo, uchimbaji wa kipengee cha kushughulikia, mwandishi wa barua pepe wa AI (kutengeneza barua pepe na rasimu bila kikomo chochote), na violezo maalum vya barua pepe. Ingia ukitumia Google au Microsoft ili kuanza kuokoa muda kwenye usimamizi wa barua pepe."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Je, ninaweza kutumia Duet Mail na watoa huduma wengine wa barua pepe?",
+        "answer": "Duet Mail inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Anza",
+    "headline": "Pata saa 4 nyuma.\nKila wiki.",
+    "subline": "Jiunge na wataalamu wanaoanza siku yao kwa uwazi, sio fujo. Jaribio lako la bila malipo linasubiri.",
+    "primaryCta": "Anza na Gmail",
+    "secondaryCta": "Anza na Outlook",
+    "note": "Jaribio lisilolipishwa la siku 14 · Ghairi wakati wowote",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Google CASA-tathmini",
+      "Imesimbwa kwa njia fiche wakati wa mapumziko",
+      "Salama OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "kijachini cha tovuti",
+    "brandIconAlt": "Ikoni ya Duet Mail",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail - Msaidizi wa Barua pepe wa AI ambao hukuokoa saa kila wiki",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Chunguza",
         "links": [
           {
-            "label": "Organization",
+            "label": "Shirika",
             "href": "/sw#organization"
           },
           {
-            "label": "Drafting",
+            "label": "Kuandika",
             "href": "/sw#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "Akili",
             "href": "/sw#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Kiendelezi cha Chrome",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "Wateja",
         "links": [
           {
-            "label": "Pricing",
+            "label": "Bei",
             "href": "/sw#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "Ushuhuda",
             "href": "/sw#testimonials"
           },
           {
-            "label": "FAQ",
+            "label": "Maswali Yanayoulizwa Mara kwa Mara",
             "href": "/sw#faq"
           }
         ]
       },
       {
-        "title": "Legal",
+        "title": "Kisheria",
         "links": [
           {
-            "label": "Privacy",
+            "label": "Faragha",
             "href": "/sw/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Masharti",
             "href": "/sw/terms"
           },
           {
-            "label": "Cookies",
+            "label": "Vidakuzi",
             "href": "/sw/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Kanusho",
             "href": "/sw/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "Unganisha",
         "links": [
           {
-            "label": "Blog",
+            "label": "Blogu",
             "href": "/sw/blog"
           },
           {
@@ -612,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Startup Fame",
+            "label": "Umaarufu wa Kuanzisha",
             "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
@@ -621,50 +620,50 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
-    "dividerLabel": "vs",
+    "ariaLabel": "Kurudi kwenye uwekezaji",
+    "label": "Hisabati",
+    "narrativeTemplate": "Kwa {pricePerBooking} kwa {bookingUnit}, ikipoteza tu {lostPerMonth} kutoa majibu polepole =",
+    "lossSuffix": "/mo amekwenda",
+    "dividerLabel": "dhidi ya",
     "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - Msaidizi wa Barua pepe wa AI kwa Gmail na Outlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Usaidizi wa Wateja",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
-    "applicationCategory": "CommunicationApplication",
+    "softwareDescription": "Msaidizi wa barua pepe wa AI wa Gmail na Outlook ambao hufanya muhtasari wa barua pepe kiotomatiki, kutayarisha majibu kwa sauti yako, na kupanga kisanduku pokezi chako ili kuokoa saa kila wiki.",
+    "applicationCategory": "MawasilianoMaombi",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Shirika mahiri la barua pepe na uainishaji",
+      "Uandishi wa barua pepe unaoendeshwa na AI katika sauti yako",
+      "Msaidizi wa barua pepe mwenye akili na muunganisho wa kalenda",
+      "Muhtasari wa barua pepe otomatiki na vipengee vya kushughulikia",
+      "Vikumbusho mahiri kwa ufuatiliaji"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Mpango wa Msingi",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Mpango usiolipishwa na muhtasari wa papo hapo, rasimu za AI na kikasha mahiri"
       },
       {
-        "name": "Pro Plan",
+        "name": "Mpango wa Pro",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "unitText": "MWEZI",
+        "description": "Ufikiaji kamili kwa uainishaji mahiri wa kikasha pokezi, rasimu za AI, mratibu na muunganisho wa kalenda"
       }
     ],
     "aggregateRating": {
       "ratingValue": "4.8",
       "ratingCount": "853"
     },
-    "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "operatingSystem": "Mtandao",
+    "browserRequirements": "Inahitaji JavaScript. Inafanya kazi na Gmail, Google Workspace, na Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/sw",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Je, Duet Mail inalindaje data yangu ya barua pepe?",
+        "answer": "Usalama wako ndio kipaumbele chetu kikuu. Tunatumia OAuth 2.0 kwa uthibitishaji salama na Google na Microsoft. Maudhui ya barua pepe husimbwa kwa njia fiche wakati wa mapumziko kwa kutumia usimbaji wa kiwango cha uga wa mteja, na tunafuata kanuni ya fursa ndogo zaidi ya ufikiaji wa API. Kwa muunganisho wetu wa Google, tunapitia tathmini ya usalama ya CASA ya kila mwaka ya Google."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Je, kipengele cha muhtasari wa barua pepe hufanya kazi vipi?",
+        "answer": "Duet Mail hutumia AI ya hali ya juu kuchanganua maandishi yako ya barua pepe na kutoa muhtasari mfupi unaoangazia mambo muhimu, maamuzi na vipengee vya kushughulikia. Hii hukusaidia kuelewa kwa haraka muktadha bila kusoma thread nzima."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail inahitaji ruhusa gani?",
+        "answer": "Duet Mail inahitaji ufikiaji wa barua pepe zako ili kutoa muhtasari, kutoa vitu vya kushughulikia, kutoa maudhui na kutuma barua pepe zako. Tunaomba tu ruhusa tunazohitaji kabisa. Unaweza kukagua na kubatilisha ruhusa hizi wakati wowote katika Akaunti yako ya Google au mipangilio ya Akaunti ya Microsoft."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Je, ni nini kimejumuishwa katika jaribio lisilolipishwa?",
+        "answer": "Jaribio lisilolipishwa la siku 14 linajumuisha ufikiaji kamili wa vipengele vyote vya Pro: muhtasari wa barua pepe usio na kikomo, uchimbaji wa kipengee cha kushughulikia, mwandishi wa barua pepe wa AI (kutengeneza barua pepe na rasimu bila kikomo chochote), na violezo maalum vya barua pepe. Ingia ukitumia Google au Microsoft ili kuanza kuokoa muda kwenye usimamizi wa barua pepe."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Je, ninaweza kutumia Duet Mail na watoa huduma wengine wa barua pepe?",
+        "answer": "Duet Mail inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
       }
     ]
   }

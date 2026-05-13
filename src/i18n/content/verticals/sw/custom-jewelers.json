@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "Duet Mail kwa Vito Maalum | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail husaidia vito maalum kujibu maombi ya mashauriano, vibali vya kubuni na maswali ya ratiba papo hapo - hata ukiwa kwenye benchi ya kazi. Majibu yaliyoandaliwa na AI pamoja na mchakato wako, bei na sauti.",
+  "heroBadge": "Inaaminiwa na wabunifu zaidi ya 300 wa vito",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa kwenye benchi",
+  "heroSubline": "Duet hujifunza mchakato wako wa usanifu, nyenzo, bei, na ratiba za matukio - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza mteja maalum kwa jibu la polepole.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "Ushauri wa pete maalum ya uchumba?",
+      "preview": "Habari! Mpenzi wangu na mimi tunavutiwa na pete maalum ya uchumba. Tuna almasi ya urithi wa familia ambayo tungependa kutumia. Je, una nafasi ya kupata mashauriano mwezi huu?",
+      "pill": "Ili Kujibu",
       "pillColor": "red"
     },
     {
       "from": "Amanda S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "Re: Mfano wa 3D - tunaweza kurekebisha mpangilio?",
+      "preview": "Penda muundo wa jumla! Lakini je, tunaweza kujaribu wasifu wa chini kwenye mpangilio? Nimeambatisha picha ya mtindo ninaoufikiria. Pia, kubadili kwa platinamu kunaweza kubadilisha ratiba...",
+      "pill": "Marekebisho",
       "pillColor": "amber"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
-      "pill": "Status",
+      "subject": "Taarifa kuhusu matukio ya bendi za harusi?",
+      "preview": "Habari! Kuangalia tu bendi zetu za harusi zinazolingana. Harusi ni Mei 18 na ninataka kuhakikisha kuwa bado tuko kwenye mstari. Je, unaweza kutuma sasisho haraka...",
+      "pill": "Hali",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
+      "subject": "Maoni mapya kwenye mbele ya duka lako",
+      "preview": "Wanandoa walikagua biashara yako hivi majuzi kwenye The Knot. Angalia walichosema na ujibu...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "Habari Rachel! Ningependa kukusaidia kubuni pete kuzunguka almasi ya familia yako - hiyo ni mojawapo ya mambo ninayopenda kufanya. Nina nafasi za kufungua Jumanne na Alhamisi mchana mwezi huu. Lete jiwe na picha zozote za msukumo. Mashauriano huchukua takriban saa moja na hakuna wajibu. Unataka nikuwekee wakati?",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "kipande maalum",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "Mteja mmoja aliyeokolewa hulipa zaidi ya miaka minne ya Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi mapya ya mashauriano kwanza, uidhinishaji wa muundo pili, na majarida ya wauzaji kamwe. Hakuna tena kukosa uchunguzi wa $5,000 uliozikwa chini ya matangazo ya wasambazaji.",
+  "draftSubtitle": "Duet hujifunza mchakato wako, nyenzo, bei na sauti. Ombi la mashauriano linapowasili, hutayarisha jibu kamili kuhusu upatikanaji wako, nini cha kuleta na jinsi mchakato wako unavyofanya kazi. Unakagua na kutuma.",
+  "agentSubtitle": "\"Tupo wapi na pete ya Amanda?\" \"Rasimu sasisho la kalenda ya matukio ya James.\" Duet anajua kila nyuzi za mteja - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "Ushauri wa pete maalum ya uchumba?",
+      "preview": "Mwenzangu na mimi tunavutiwa na pete maalum...",
+      "pill": "Uchunguzi Mpya",
       "pillColor": "red"
     },
     {
       "from": "Amanda S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "Re: Mtindo wa 3D v2 - inaonekana kamili!",
+      "pill": "Idhini ya Kubuni",
       "pillColor": "blue"
     },
     {
       "from": "James K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "Bendi ziko tayari - ni lini tunaweza kuchukua?",
+      "pill": "Tayari kwa Kuchukuliwa",
       "pillColor": "amber"
     },
     {
       "from": "Emily W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "Re: Ufuatiliaji wa mashauriano - penda michoro",
+      "pill": "Ushauri",
       "pillColor": "amber"
     },
     {
       "from": "Rio Grande Supply",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "Uuzaji wa majira ya kuchipua - punguzo la 15% kwa matokeo ya platinamu",
+      "pill": "Muuzaji/Msambazaji",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "Re: Ushauri wa pete ya uchumba maalum?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Mpenzi wangu na mimi tunavutiwa na pete maalum ya uchumba. Tuna almasi ya urithi wa familia ambayo tungependa kutumia. Je, una nafasi ya kupata mashauriano mwezi huu?",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "Habari Rachel!",
+      "Ningependa kukusaidia kubuni kitu maalum karibu na almasi ya familia yako. Nina fursa za kufungua Jumanne na Alhamisi alasiri mwezi huu.",
+      "Lete jiwe na picha zozote za msukumo - Ubao wa Pinterest, picha za skrini, chochote husaidia. Mashauriano huchukua takriban saa moja na hakuna wajibu.",
+      "Kutoka huko, mchakato ni kawaida: mchoro, mfano wa 3D, marekebisho, kisha wiki 3-4 katika uzalishaji. Unataka nikuwekee wakati?"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "mchoro, mfano wa 3D, marekebisho, kisha wiki 3-4 katika uzalishaji",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "Anajua mchakato na kalenda yako ya matukio",
+      "Rasimu katika sauti yako",
+      "Inajumuisha maelezo ya mashauriano kiotomatiki",
+      "Anajifunza kwa muda"
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "Tuko wapi na pete ya uchumba ya Amanda?",
+    "agentResponse": "Amanda aliidhinisha muundo wa 3D (v2) mnamo Februari 14. Ulithibitisha utayarishaji wa toleo la 3D Februari 16 kwa makadirio ya wiki 3. Hilo litakamilika Machi 9. Barua pepe yake ya mwisho ilikuwa ikiuliza kuhusu chaguo za kuchonga - bado haijajibiwa. Je, unataka nitayarishe jibu?",
+    "followUp": "Rasimu ya sasisho la kalenda ya matukio ya James kuhusu bendi za harusi",
+    "followUpResponse": "Imekamilika! Niliandika jibu kwa James nikithibitisha kwamba bendi zake za harusi zinazolingana ziko katika msasa wa mwisho na zitakuwa tayari kuchukuliwa kufikia Ijumaa, Machi 7 - kabla ya harusi yake ya Mei 18. Tayari kukagua na kutuma."
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "Kupendwa na wabunifu wa kujitia",
   "testimonials": [
     {
       "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "title": "Mbuni wa Vito Maalum, LA",
+      "quote": "Kila kipande maalum hutoa barua pepe 10-15 kwa wiki. Zidisha hiyo kwa wateja 8 wanaofanya kazi na nilikuwa nikizama. Majibu ya usasishaji wa rasimu za Duet, uthibitishaji wa mashauriano, majibu ya rekodi ya matukio - yote kwa sauti yangu. Ninakagua kati ya waigizaji na gonga send.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "title": "Goldsmith & Mmiliki wa Studio, Brooklyn",
+      "quote": "Nilipoteza tume ya pete ya uchumba ya $7,000 kwa sababu nilichukua siku 3 kujibu - wanandoa walienda kwa mtu ambaye alijibu baada ya saa 2. Tangu Duet, muda wangu wa kujibu ni chini ya dakika 30. Hilo halijatokea tena.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "title": "Benchi Jeweler, Chicago",
+      "quote": "Niko kwenye benchi masaa 8 kwa siku na tochi mkononi mwangu. Siwezi kuacha katikati ya uuzaji ili kuandika jibu la mashauriano. Duet huandaa kila kitu ninapofanya kazi - mimi hutazama simu yangu, naidhinisha, nimemaliza.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "title": "Mbuni wa Vito vya Harusi, Austin",
+      "quote": "Wakati wa msimu wa uchumba napokea maombi 20+ ya mashauriano kwa wiki. Duet ilijifunza mchakato wangu wote - nyenzo, ratiba, viwango vya bei, nini cha kuleta. Inatayarisha majibu ambayo sihitaji kuhariri. Kiokoa maisha kabisa kuanzia Novemba hadi Februari.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "title": "Mtaalamu wa Pete Maalum, Portland",
+      "quote": "Barua pepe za marekebisho ya 3D zilizotumiwa kula jioni zangu. Mteja anatuma maoni, ninatayarisha sasisho, na kurudi mara tano. Sasa Duet inashughulikia majibu ya kawaida na mimi huingia tu kwa maamuzi ya muundo. Nilipata usiku wangu nyuma.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tumia siku zako kuunda vito vya mapambo,\nsi kujibu barua pepe kuhusu hilo.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Je, Duet inaweza kushughulikia barua pepe zilizo na picha za marejeleo na viambatisho vya muundo?",
+      "answer": "Ndiyo. Duet huona mazungumzo kamili ya barua pepe ikiwa ni pamoja na viambatisho, kwa hivyo inaelewa muktadha mteja anapotuma picha za msukumo au maoni ya muundo. Haitafafanua picha, lakini inajua mteja ametuma picha za marejeleo na kutayarisha jibu linalofaa - kuthibitisha risiti, kuuliza maswali ya kufafanua kuhusu muundo, au kutoa hatua zinazofuata kulingana na mtiririko wako wa kawaida wa kazi."
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "Miradi yangu maalum ina nyuzi ndefu za barua pepe zilizo na ujumbe 10+. Je, Duet inaweza kufuata hizo?",
+      "answer": "Hapo ndipo Duet inang'aa. Husoma historia nzima ya mazungumzo - madokezo ya mashauriano, masahihisho ya muundo, chaguo za nyenzo, masasisho ya kalenda ya matukio - kwa hivyo kila jibu lililoandaliwa lina muktadha kamili. Wakati mteja anauliza 'hali ya pete yangu ikoje?' katika barua pepe #14, Duet inajua ni pete gani, iko katika hatua gani, na inatayarisha sasisho sahihi. Hakuna tena kusoma tena miezi 3 ya barua pepe mwenyewe."
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "Kwa $5,000/kipande, tume moja iliyohifadhiwa hulipa zaidi ya miaka minne ya Pro."
 }

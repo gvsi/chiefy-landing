@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
-  "heroBadge": "Trusted by 200+ mushers",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "犬ぞりツアーのDuet Mail | AI 電子メール アシスタント",
+  "metaDescription": "Duet Mail は、登山者が登山道からでも予約メールに即座に応答できるようにします。 AI が作成した返信には、ツアーの種類、価格、ポリシー、声が含まれます。",
+  "heroBadge": "200人以上のマッシャーから信頼されています",
+  "heroHeadline": "トレイル中のメールアシスタント",
+  "heroSubline": "Duet はツアーの種類、料金設定、気象条件、アドオンを学習し、メール返信の下書きを作成するので、返信が遅くて予約を失うことはありません。",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "レイチェル・T",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
-      "pill": "To Respond",
+      "subject": "オーロラ + 犬ぞりのコンボ 4 人乗り?",
+      "preview": "こんにちは！ 私の家族4人は1月にフェアバンクスを訪れます。 犬ぞりとオーロラ鑑賞とのコンボ パッケージはありますか? 価格はいくらですか？",
+      "pill": "応答するには",
       "pillColor": "red"
     },
     {
-      "from": "James W.",
+      "from": "ジェームス W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "What should we wear?",
-      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "何を着るべきでしょうか？",
+      "preview": "土曜日に2時間のマッシュ体験を予約しています。 何を着るべきでしょうか？ 道具は用意してもらえますか、それとも自分で用意する必要がありますか...",
+      "pill": "質問",
       "pillColor": "amber"
     },
     {
-      "from": "Kim & Brian L.",
+      "from": "キム & ブライアン L.",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Kids ages 5 and 8 — can they mush?",
-      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
-      "pill": "Booking",
+      "subject": "5 歳と 8 歳の子供たちは、どろどろにできますか?",
+      "preview": "二人の子供（5歳と8歳）を連れて行きます。 彼らはそりに乗ったり、実際に泥んこを助けることができるでしょうか？ また、犬は小さな子供たちとうまくやっていくことができますか...",
+      "pill": "予約",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "トリップアドバイザー",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "あなたのリスティングに対する新しいレビュー",
+      "preview": "最近、旅行者があなたのビジネスをレビューしました。 彼らが何を言ったかを見て、答えてください...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+  "autodraft": "おい、レイチェル！ ぜひご家族でお越しください。 オーロラ + マッシュ コンボは 1 人あたり 175 ドルです。夕暮れ時にそりに乗ってトレイルを 1.5 時間走り、その後、明かりを待つ間、暖炉のそばでホットココアを飲みます。 防寒具はすべてご用意しております。 12 歳以下の子供は 125 ドルです。 1月に予約をお願いしたいのですが？",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "tour",
+    "bookingUnit": "ツアー",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "2 つの予約を保存すると、1 年間の Duet の料金が支払われます。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
-  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet ではすべてのメールに自動的にタグが付けられるため、予約リクエストが最初に表示され、質問が 2 番目に表示され、ノイズは表示されません。 トリップアドバイザーのアラートに埋もれたツアーの問い合わせを見逃すことはもうありません。",
+  "draftSubtitle": "Duet はツアーの種類、価格、雰囲気を学習します。 予約に関する問い合わせが来ると、パッケージの詳細、何を着るか、追加物を含む完全な返信の草案を作成します。 レビューして送信します。",
+  "agentSubtitle": "「今週末のご予約はありますか？」 「オーロラコンボに関する返信の下書きを作成してください。」 Duet はあなたの受信箱とスケジュールを知っています - 聞いてください。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "レイチェル・T",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Aurora + dog sled combo for 4?",
-      "preview": "My family of 4 is visiting Fairbanks in January...",
-      "pill": "Respond Now",
+      "subject": "オーロラ + 犬ぞりのコンボ 4 人乗り?",
+      "preview": "私の家族4人は1月にフェアバンクスを訪れる予定です...",
+      "pill": "今すぐ応答してください",
       "pillColor": "red"
     },
     {
-      "from": "James W.",
+      "from": "ジェームス W.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 1PM",
-      "pill": "Booked",
+      "subject": "Re: 予約確認済み — 土曜日午後 1 時",
+      "pill": "予約済み",
       "pillColor": "blue"
     },
     {
-      "from": "Kim L.",
+      "from": "キム・L",
       "avatarLetter": "K",
       "avatarColor": "purple",
-      "subject": "Can our kids (5 and 8) ride along?",
-      "pill": "Question",
+      "subject": "うちの子供（5歳と8歳）も一緒に乗れますか？",
+      "pill": "質問",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "ヴィアトル",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "毎週の予約の概要",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Alaska Gear Co.",
+      "from": "アラスカギア社",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "Winter sale — 30% off mushing harnesses",
-      "pill": "Promotions",
+      "subject": "ウィンター セール — マッシング ハーネス 30% オフ",
+      "pill": "プロモーション",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Aurora + dog sled combo for 4?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "subject": "Re: オーロラと犬ぞりのコンボは4人乗りですか？",
+    "originalFrom": "レイチェル・Tは次のように書いています。",
+    "originalText": "こんにちは！ 私の家族4人は1月にフェアバンクスを訪れます。 犬ぞりとオーロラ鑑賞とのコンボ パッケージはありますか? 価格はいくらですか？",
     "lines": [
-      "Hey Rachel!",
-      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
-      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
-      "Want me to book your family of 4 for January?"
+      "おい、レイチェル！",
+      "オーロラ + マッシュ コンボは 1 人あたり 175 ドルです。夕暮れ時に 1.5 時間そりに乗り、その後、暖炉のそばでホットココアとオーロラ鑑賞を楽しみます。 12 歳以下の子供は 125 ドルです。",
+      "すべての寒い天候用の装備（ブーツ、よだれかけ、手袋、フェイスマスク）が提供されます。 下に暖かい重ね着をするだけです。",
+      "1月に4人家族を予約したいのですが？"
     ],
-    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "highlightText": "オーロラ + マッシュ コンボは 1 人あたり 175 ドル、1.5 時間のそり乗りです。",
     "tooltipFeatures": [
-      "Knows your tour types & pricing",
-      "Drafts in your voice",
-      "Includes gear and add-on details",
-      "Learns over time"
+      "ツアーの種類と料金を把握している",
+      "あなたの声の下書き",
+      "ギアとアドオンの詳細が含まれます",
+      "時間の経過とともに学習します"
     ]
   },
   "agent": {
-    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
-    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
-    "followUp": "Draft a weather update to the Sunday aurora group",
-    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+    "userMessage": "今週末のご予約はありますか？ 天気は微妙なようです。",
+    "agentResponse": "今週末は 3 つのツアーを予約しています。土曜日の午前 10 時からの犬小屋訪問 (ゲスト 2 人)、土曜日の午後 1 時からの 2 時間のマッシュ体験 (ゲスト 4 人)、日曜日の午後 4 時からのオーロラ コンボ (ゲスト 6 人) です。 日曜日のグループはキャンセルポリシーについて尋ねました。 3 つすべてに最新の天気情報を下書きしてもらいたいですか?",
+    "followUp": "日曜日のオーロラグループに天気予報の最新情報を草稿する",
+    "followUpResponse": "終わり！ 私は日曜日のオーロラグループへの返信の下書きを作成し、状況を監視していることを知らせ、土曜日の夕方までに確認するつもりです。 これには、スケジュール変更ポリシーと代替日が含まれます。 レビューして送信する準備ができました。"
   },
-  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonialsTitle": "マッシャーやツアーオペレーターに愛されています",
   "testimonials": [
     {
-      "name": "Ryan H.",
-      "title": "Sled Dog Tour Operator, AK",
-      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "name": "ライアン H.",
+      "title": "犬ぞりツアー オペレーター、アラスカ州",
+      "quote": "私は 1 日 6 時間、携帯電話サービスを利用せずにトレイルを走っています。 私が戻るまでに、予約の問い合わせの半分は別のブランドに移っていました。 Duet ドラフトは私のツアーの詳細と料金を返信します。ゲストは数時間ではなく数分で返信します。",
       "avatarKey": "michael"
     },
     {
-      "name": "Megan K.",
-      "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "name": "ミーガン・K",
+      "title": "Kennel & Mush ツアー オーナー、アラスカ州",
+      "quote": "私たちは犬小屋の訪問、泥んこの乗り物、オーロラのコンボを提供しています。メールごとに異なる回答が必要です。 Duet は 3 つのツアー タイプすべてを 1 週間で把握し、現在は毎回適切なパッケージに一致する返信の下書きを作成しています。",
       "avatarKey": "sarah"
     },
     {
-      "name": "Travis B.",
-      "title": "Dog Sled Guide, MN",
-      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "name": "トラヴィス B.",
+      "title": "犬ぞりガイド、ミネソタ州",
+      "quote": "私は毎晩、何を着るべきか、年齢制限、そして犬について同じ質問に答えることに費やしていました。 Duet がすべてを処理します。 トレイルから家に帰ると、すべてが準備されて待っています。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Annika S.",
-      "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "name": "アニカ S.",
+      "title": "オーロラとそりのツアー オペレーター、アラスカ州",
+      "quote": "冬は天候によるキャンセルが絶えません。 Duet は、私が携帯電話を確認する前に、ポリシーと別の日付で返信のスケジュールを変更します。 素早い対応がゲストに好評です。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Cara D.",
-      "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "name": "カーラ D.",
+      "title": "家族犬ぞりアドベンチャー、コロラド州",
+      "quote": "親はいつも、子どもがぐずぐずできるかどうか、犬は人懐っこいかどうか、何を着るべきか、同じ 10 の質問をします。 Duet はすべての答えを学習し、完璧に下書きします。 それは電子メール用に自分自身のクローンを作成するようなものです。",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "冬は犬と一緒にトレイルで過ごしましょう。 \nあなたの受信箱にはありません。",
+  "ctaSubline": "無料トライアルを開始してください。 30 秒で受信トレイに接続します。",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
-      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+      "question": "Duet は天候によるキャンセルやオーロラの不確実性にどのように対処しますか?",
+      "answer": "Duet はキャンセルとスケジュール変更のポリシーを学習します。 ゲストが天気の懸念やオーロラの見え方についてメールを送信すると、ポリシー、代替日、状況の監視やツアー間近の確認など、関連する詳細を記載した返信の草案を作成します。 レビューして送信します。"
     },
     {
-      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
-      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+      "question": "価格設定や追加料金が異なる複数のツアー タイプを提供しています。 Duetはまっすぐに保つことができますか？",
+      "answer": "はい。 Duet は、犬小屋訪問、マッシュ体験、オーロラ コンボ、写真撮影のアドオン、交通パッケージなど、ツアーのタイプごとに、価格、所要時間、含まれるものを学習します。 問い合わせが来ると、適切なツアーを照合し、正しい詳細を含む返信の草案を作成します。"
     }
   ],
-  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+  "pricingNote": "1 ツアーあたり 150 ドルの場合、2 件の予約を保存すると 1 年以上 Pro の支払いになります。"
 }

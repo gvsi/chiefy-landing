@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mailför fiskecharter | AI e-postassistent",
+  "metaDescription": "Duet Mailhjälper fiskecharterkaptener att svara på bokningsmeddelanden direkt – även från vattnet. AI-utkastade svar med din prissättning, policyer och röst.",
+  "heroBadge": "Betrodd av 500+ charterkaptener",
+  "heroHeadline": "Din e-postassistent när du är på vattnet",
+  "heroSubline": "Duetlär sig dina priser, policyer och röst – förbereder sedan e-postsvar så att du aldrig förlorar en bokning på grund av ett långsamt svar.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "Tillgänglighet 12 juli för 4 personer?",
+      "preview": "Hej! Vi är ett sällskap på 4 som vill boka en fiskeresa den 12 juli. Har du tillgång? Vad är priset för en hel dag?",
+      "pill": "Att svara",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Vad ska vi ta med?",
+      "preview": "Hej, vi är bokade till lördag. Snabb fråga - vad ska vi ta med? Tillhandahåller du spön och tacklar eller ska vi ta med egna...",
+      "pill": "Fråga",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "Mike och Lisa R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Måste lägga om till söndag",
+      "preview": "Ber om ursäkt för sen besked men väderprognosen ser dålig ut på lördag. Kan vi flytta till söndag istället? Samma tid...",
+      "pill": "Bokning",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Ny recension för din annons",
+      "preview": "En resenär har nyligen recenserat ditt företag. Se vad de hade att säga och svara...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Hej Sarah! 12 juli är öppet för 4. Heldagsturer pågår 8 timmar med start kl. 06.00. Alla spön, redskap, bete och licenser ingår - ta bara med solkräm, vatten och en kylare för din fångst. Vill du att jag låser in den?",
   "math": {
     "pricePerBooking": "$500",
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "En sparad bokning betalar för ett år avDuet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duettaggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, frågor sedan och aldrig brus. Saknar inte längre en reseförfrågan begravd under TripAdvisor-varningar.",
+  "draftSubtitle": "Duetlär sig din prissättning, policyer och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med reseinformation, priser och vad du ska ta med. Du granskar och skickar.",
+  "agentSubtitle": "\"Vilka dagar har öppet nästa vecka?\" \"Skapa ett svar till Sarah med tillgänglighet.\"Duetkänner till din inkorg och kalender — fråga bara.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "Tillgänglighet 12 juli för 4 personer?",
+      "preview": "Vi är en grupp på 4 som vill boka en fiskeresa...",
+      "pill": "Svara nu",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: Bokning bekräftad — lördag 07.00",
+      "pill": "Bokad",
       "pillColor": "blue"
     },
     {
       "from": "Mike R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Vad ska vi ta med på lördag?",
+      "pill": "Fråga",
       "pillColor": "amber"
     },
     {
       "from": "FishingBooker",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Din veckobokningssammanfattning",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "West Marine",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "Vårrea - 20% rabatt på redskap",
+      "pill": "Prorörelser",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: Tillgänglighet 12 juli för 4 personer?",
+    "originalFrom": "Sarah M skrev:",
+    "originalText": "Hej! Vi är en grupp på 4 som vill boka en fiskeresa den 12 juli. Har du tillgång? Vad är priset för en hel dag?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "Hej Sarah!",
+      "12 juli är vidöppen för 4. Heldagsturer kostar 500 USD och pågår 8 timmar med start kl. 06.00 från marinan.",
+      "Alla redskap, bete och fiskekort ingår - ta bara med solskyddsmedel och en kylare.",
+      "Vill du att jag låser in den?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "12 juli är vidöppen för 4. Heldagsresor kostar 500 USD",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "Känner till dina priser och tillgänglighet",
+      "Utkast i din röst",
+      "Inkluderar reseinformation automatiskt",
+      "Lär sig med tiden"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Vilka dagar är fortfarande öppet nästa vecka?",
+    "agentResponse": "Baserat på din kalender har du öppet på tisdag, torsdag och lördag nästa vecka. Måndag och onsdag är fullbokade (2 charter vardera). Vill du att jag ska skriva ett svar på alla pågående förfrågningar med dessa datum?",
+    "followUp": "Skriv ett svar till Sarah med tillgänglighet den 12 juli",
+    "followUpResponse": "Klart! Jag skrev ett svar till Sarah som bekräftade den 12 juli för 4 gäster för 500 USD. Det inkluderar dina vanliga resadetaljer och mötesplats. Klar att granska och skicka."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Älskad av charterkaptener",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
+      "name": "Kapten Mike D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "quote": "Under högsäsong skulle jag förlora 2-3 bokningar i veckan bara för att jag inte kunde svara snabbt nog från båten.Duetskriver utkast till svar med mina priser och resedetaljer — jag tryckte bara på skicka mellan fångsterna.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
+      "name": "Sarah och Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "quote": "Vi kör två båtar och mejlvolymen under sommaren är galen.Duetsorterar bokningsförfrågningar från allt annat och utkast till svar som låter precis som oss. Absolut game changer.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "title": "Kustfiskeguide, TX",
+      "quote": "Jag tillbringade en timme varje kväll med att svara på samma tillgänglighetsfrågor. Nu hanterarDuetdet. Min svarstid gick från timmar till minuter och jag har inte förlorat en bokning sedan dess.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "quote": "Att hantera e-postmeddelanden för 4 kaptener var ett heltidsjobb.Duetkategoriserar allt och utarbetar svar med rätt båt, rätt pris, rätt kapten. Det är som att ha ett annat jag.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Andrea S.",
       "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "quote": "Var skeptisk till en AI som kunde hantera e-postmeddelanden om fiskecharter. Men den lärde sig våra resetyper, vad som ingår, till och med vår avbokningsregler. Kunder kan inte se skillnad.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tillbringa högsäsong på vattnet,\ninte i din inkorg.",
+  "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "FungerarDuetför boknings- och tillgänglighetsmejl?",
+      "answer": "Absolut.Duetlär sig dina resetyper, priser, tillgänglighet och policyer. När en bokningsförfrågan kommer in, utarbetar den ett komplett svar med rätt detaljer - prissättning, vad som ingår, mötesplats, vad du ska ta med. Du granskar och trycker på skicka."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Jag är på vattnet hela dagen. Kan jag användaDuetfrån min telefon?",
+      "answer": "Ja.Duetfungerar medGmailochOutlook, så det fungerar varhelst din e-post fungerar – inklusive din telefon. Utkast visas automatiskt. Mellan fångsterna granskar och skickar du med ett tryck. De flesta kaptener säger att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "För $500/charter betalar en sparad bokning för över ett år avPro."
 }

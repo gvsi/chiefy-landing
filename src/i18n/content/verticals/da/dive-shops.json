@@ -1,27 +1,26 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mailtil dykkerbutikker | AI e-mail-assistent",
+  "metaDescription": "Duet Mailhjælper dykkerbutiksejere og PADI-instruktører med at svare på certificeringsforespørgsler, rejsereservationer og udstyrsspørgsmål med det samme - selv fra undervandet.",
+  "heroBadge": "Betroet af 300+ dykkeroperatører",
+  "heroHeadline": "Din e-mail-assistent, mens du er under vandet",
+  "heroSubline": "Duetlærer dine dykkersteder, certificeringskrav, priser og stemme at kende – og udarbejder derefter e-mailsvar, så du aldrig mister en reservation, mens du er på båden.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "Open Water-certificering — tilgængelighed?",
+      "preview": "Hej! Jeg besøger den første uge af august og vil gerne have mit Open Water cert. Hvor mange dage tager det, og hvad er inkluderet?",
+      "pill": "At reagere",
       "pillColor": "red"
     },
     {
-      "from": "Kevin & Amy L.",
+      "from": "Kevin og Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
+      "subject": "Gruppe på 6 for et 2-tank dyk lørdag",
+      "preview": "Vi har 6 certificerede dykkere og ønsker at booke et morgen 2-tank dyk denne lørdag. Har du plads? Hvad er prisen pr. person...",
       "pill": "Booking",
       "pillColor": "blue"
     },
@@ -29,63 +28,63 @@
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "BCD leje til weekenden?",
+      "preview": "Hej, jeg er certificeret, men rejser let. Lejer du BCD'er og regulatorer? Jeg skal bruge dem fredag til søndag...",
+      "pill": "Spørgsmål",
       "pillColor": "amber"
     },
     {
       "from": "PADI eLearning",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
+      "subject": "Elevhenvisning: Rachel Torres",
+      "preview": "En studerende har gennemført deres eLearning og valgt dit dykkercenter til træning i begrænset og åbent vand...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "Hej Rachel! Vi vil meget gerne have dig certificeret. Open Water-kurset løber 3 dage - en dag med poolsessioner og to dage med havdyk. Alt gear medfølger. august er vidt åben. Skal jeg reservere en plads til den første uge?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
-    "lostPerMonth": "3 trips (6 divers each)",
+    "bookingUnit": "dykke",
+    "lostPerMonth": "3 ture (6 dykkere hver)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "Et gemt gruppedyk betaler for et år påDuet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duettagger automatisk hver e-mail, så du ser certificeringsforespørgsler og dykkebookinger først, gearspørgsmål dernæst og PADI-advarsler, når du er klar. Ikke mere mangler en gruppebooking begravet under udstyrsnyhedsbreve.",
+  "draftSubtitle": "Duetlærer dine dykkersteder, certifikatkrav og priser at kende. Når en reservationsforespørgsel rammer, udarbejder den et komplet svar med rejsedetaljer, hvad der er inkluderet, og hvad du skal medbringe. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvor mange dykkere er booket til lørdag?\" \"Skriv et udkast til et svar til Rachel med Open Water tilgængelighed.\"Duetkender din indbakke og tidsplan - bare spørg.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "Open Water-certificering — tilgængelighed?",
+      "preview": "Jeg besøger den første uge af august og vil gerne blive certificeret...",
+      "pill": "Svar nu",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "Ad: Booking bekræftet — lørdag 2-tank dyk",
+      "pill": "Booket",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "BCD og regulator leje denne weekend?",
+      "pill": "Spørgsmål",
       "pillColor": "amber"
     },
     {
       "from": "DiveBuddy",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
+      "subject": "Ny anmeldelse af din fortegnelse",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Dive Gear Express",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Sommerudsalg — 25 % rabat på våddragter",
+      "pill": "Probevægelser",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "Re: Open Water-certificering — tilgængelighed?",
+    "originalFrom": "Rachel T. skrev:",
+    "originalText": "Hej! Jeg besøger den første uge af august og vil gerne have mit Open Water cert. Hvor mange dage tager det, og hvad er inkluderet?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "Hej Rachel!",
+      "Vi vil meget gerne have dig certificeret! PADI Open Water-kurset løber 3 dage — en poolsession og to havdyk på vores rev. Alt gear medfølger.",
+      "August er helt åben lige nu. De fleste elever starter på en mandag, så de slutter onsdag.",
+      "Skal jeg reservere en plads?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "PADI Open Water kurset varer 3 dage",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "Kender dine kurser og priser",
+      "Kladder i din stemme",
+      "Inkluderer automatisk certifikatkrav",
+      "Lærer over tid"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "Hvor mange dykkere er booket til lørdag?",
+    "agentResponse": "Baseret på din indbakke har du 8 dykkere bekræftet til lørdag morgen 2-tank dyk — Kevins gruppe på 6 plus 2 individuelle reservationer. Du har også en afventende forespørgsel fra Jason om leje af udstyr til samme rejse. Vil du have mig til at udarbejde et svar?",
+    "followUp": "Lav et udkast til et svar til Rachel med Open Water-kursets detaljer",
+    "followUpResponse": "Færdig! Jeg udarbejdede et svar til Rachel, der bekræftede det 3-dages PADI Open Water-kursus med pool- og havdyk inkluderet. Den nævner tilgængelighed i august og din standardpolitik for udstyr inkluderet. Klar til at gennemgå og sende."
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "Elsket af dykkeroperatører",
   "testimonials": [
     {
-      "name": "Captain Mike T.",
+      "name": "Kaptajn Mike T.",
       "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "quote": "Jeg kører bådture fredag til søndag, og butikken er kun åben et par timer om mandagen. Certificeringsspørgsmål og rejseforespørgsler hober sig op, mens jeg er under vandet.Duetudkast til svar med mine priser, dykkersteder og hvad der er inkluderet - jeg gennemgår dem mellem dykkene.",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "name": "Jen og Mark S.",
+      "title": "PADI dykkercenter, HI",
+      "quote": "Vi kører dyk, snorkelture og hvalture fra de samme både. E-mail-varianten er sindssyg - certifikatspørgsmål, gruppereservationer, leje af udstyr, vejrtjek.Duetsorterer det hele og udarbejder svar, der kender forskel. Absolut livredder.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "quote": "Halvdelen af mine e-mails er 'hvilken certificering skal jeg bruge til vragdykene?' og den anden halvdel er 'har jeg brug for mit eget udstyr?'Duethåndterer begge på autopilot. Min svartid gik fra timer til minutter.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "title": "Ejer af dykkerbutik, CA",
+      "quote": "I løbet af sommeren får vi mere end 30 e-mails om dagen om kurser, rejsetilgængelighed og udstyr. Jeg mistede reservationer til butikker, der svarede hurtigere. Nu laverDuetalt, og jeg trykker bare på send mellem klasserne.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "title": "Dykkerinstruktør og guide, NC",
+      "quote": "Jeg underviser i kurser om morgenen og guider dyk om eftermiddagen. Der er bogstaveligt talt ikke tid til at besvare e-mail.Duetlærte min kursusplan, priser og endda min afbestillingspolitik. Kunder kan ikke se forskel.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tilbring dine dage under vandet,\nikke begravet i din indbakke.",
+  "ctaSubline": "Start din gratis prøveperiode. Tilslut din indbakke på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "ForstårDuetcertificeringsniveauer og kursuskrav?",
+      "answer": "Ja.Duetlærer dine specifikke kurser - Open Water, Advanced, Rescue, Divemaster - sammen med forudsætninger, varighed, priser og hvad der er inkluderet. Når nogen spørger om at blive certificeret, udarbejderDuetet svar med de rigtige kursusdetaljer, tidsplan og næste trin. Du anmelder og sender."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Jeg er på båden eller under vandet hele dagen. Kan jeg brugeDuetfra min telefon?",
+      "answer": "Ja.Duetfungerer medGmailogOutlook, så det fungerer overalt, hvor din e-mail fungerer - inklusive din telefon. Kladder vises automatisk i din indbakke. Mellem dyk eller tilbage ved kajen gennemgår og sender du med et enkelt tryk. De fleste dykkeroperatører fortæller os, at det sparer dem 1-2 timers e-mail-tid om dagen i højsæsonen."
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "For $150/dyk med en gruppe på 6, betaler én gemt tur for over et år påPro."
 }

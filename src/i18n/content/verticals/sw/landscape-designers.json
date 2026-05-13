@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ landscape designers",
-  "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "Duet Mail kwa Wabunifu wa Mazingira | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia wabunifu wa mazingira kujibu barua pepe za wateja papo hapo - hata kutoka uwanjani. Majibu yaliyoandaliwa na AI pamoja na maelezo ya mradi wako, bei na sauti.",
+  "heroBadge": "Inaaminiwa na wabunifu zaidi ya 300 wa mazingira",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa kwenye uwanja",
+  "heroSubline": "Duet hujifunza maelezo ya mradi wako, rangi za mimea, bei na mchakato - kisha huandika majibu ya barua pepe ili usiwahi kupoteza mteja kwa jibu la polepole.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
-      "pill": "To Respond",
+      "subject": "Usanifu upya wa ua - bila malipo kwa mashauriano?",
+      "preview": "Habari! Tumenunua nyumba huko Westlake na uwanja wa nyuma ni slate tupu. Tungependa usanifu upya kamili wenye upandaji miti asilia na patio. Je, unachukua wateja wapya?",
+      "pill": "Ili Kujibu",
       "pillColor": "red"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "preview": "Hey, we're ready to start trenching on Monday. Can you send over the irrigation layout and head specs so we can order materials this week?",
-      "pill": "Contractor",
+      "subject": "Vipimo vya umwagiliaji kwa mradi wa Miller?",
+      "preview": "Hujambo, tuko tayari kuanza kuhama siku ya Jumatatu. Je, unaweza kutuma mpangilio wa umwagiliaji na vipimo vya kichwa ili tuagize vifaa wiki hii?",
+      "pill": "Mkandarasi",
       "pillColor": "amber"
     },
     {
       "from": "Jennifer & Mark L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Quick question about the plant selections",
-      "preview": "We love the design! Just wondering — can we swap the Japanese maple for something with more fall color? Also, is the lavender deer-resistant?",
-      "pill": "Client",
+      "subject": "Swali la haraka kuhusu uteuzi wa mimea",
+      "preview": "Tunapenda muundo! Ninashangaa tu - je, tunaweza kubadilisha maple ya Kijapani kwa kitu kilicho na rangi zaidi ya kuanguka? Pia, je, kulungu wa lavender ni sugu?",
+      "pill": "Mteja",
       "pillColor": "blue"
     },
     {
       "from": "Valley View Nursery",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "preview": "Your order of 24 gallon shrubs, 6 specimen trees, and ground cover flats is ready. Pickup available Mon–Sat 7AM–4PM...",
-      "pill": "Supplier",
+      "subject": "Agiza #4821 tayari kwa kuchukuliwa",
+      "preview": "Agizo lako la vichaka vya galoni 24, miti ya vielelezo 6 na magorofa ya ardhini iko tayari. Inapatikana Jumatatu-Sat 7AM-4PM...",
+      "pill": "Msambazaji",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+  "autodraft": "Habari Rachel! Ningependa kukusaidia na uwanja wako wa nyuma. Kwa sasa ninahifadhi mashauriano ya awali baada ya wiki 2-3. Ziara ya kwanza ni tathmini ya tovuti ya dakika 90 - nitatembea mali, kuchukua vipimo, na kujadili maono yako. Kutoka hapo niliweka pamoja mpango wa dhana. Unataka nikuweke kwenye kalenda?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "project",
+    "bookingUnit": "mradi",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Duet."
+    "punchline": "Mradi mmoja uliohifadhiwa hulipa kwa miaka ya Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi mapya ya mashauriano kwanza, uidhinishaji wa mteja pili, na kelele za mtoa huduma kamwe. Hakuna tena kukosa risasi iliyozikwa chini ya uthibitisho wa agizo la kitalu.",
+  "draftSubtitle": "Duet hujifunza bei, mchakato na sauti yako. Ombi la mashauriano linapofika, huandaa jibu kamili kuhusu upatikanaji wako, nini cha kutarajia na hatua zinazofuata. Unakagua na kutuma.",
+  "agentSubtitle": "\"Je, ratiba ya mradi wa Henderson ni ipi?\" \"Ni wateja gani wanasubiri idhini ya mpango?\" Duet anajua kikasha chako na miradi - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Backyard redesign — free for a consultation?",
-      "preview": "We just bought a home and the backyard is a blank slate...",
-      "pill": "New Inquiry",
+      "subject": "Usanifu upya wa ua - bila malipo kwa mashauriano?",
+      "preview": "Tumenunua nyumba tu na uwanja wa nyuma ni slate tupu ...",
+      "pill": "Uchunguzi Mpya",
       "pillColor": "red"
     },
     {
       "from": "Jennifer L.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Re: Final design — we're ready to approve!",
-      "pill": "Client Approval",
+      "subject": "Re: Muundo wa mwisho - tuko tayari kuidhinisha!",
+      "pill": "Idhini ya Mteja",
       "pillColor": "blue"
     },
     {
       "from": "Dan W. — Hardscape Co.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Irrigation specs for the Miller project?",
-      "pill": "Contractor",
+      "subject": "Vipimo vya umwagiliaji kwa mradi wa Miller?",
+      "pill": "Mkandarasi",
       "pillColor": "amber"
     },
     {
       "from": "Valley View Nursery",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Order #4821 ready for pickup",
-      "pill": "Supplier",
+      "subject": "Agiza #4821 tayari kwa kuchukuliwa",
+      "pill": "Msambazaji",
       "pillColor": "lavender"
     },
     {
       "from": "QuickBooks",
       "avatarLetter": "Q",
       "avatarColor": "lavender",
-      "subject": "Invoice #1047 viewed by client",
-      "pill": "Invoice",
+      "subject": "Ankara #1047 inatazamwa na mteja",
+      "pill": "Ankara",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Backyard redesign — free for a consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "subject": "Re: Usanifu upya wa nyumba - bila malipo kwa mashauriano?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Tumenunua nyumba huko Westlake na uwanja wa nyuma ni slate tupu. Tungependa usanifu upya kamili wenye upandaji miti asilia na patio. Je, unachukua wateja wapya?",
     "lines": [
-      "Hi Rachel!",
-      "Congrats on the new home — a blank slate backyard is honestly the dream project. I'm absolutely taking new clients.",
-      "My process starts with a 90-minute on-site consultation where I walk the property, take measurements, and talk through your goals. From there I develop a concept plan with planting design, hardscape layout, and a phased budget.",
-      "I have openings in the next 2-3 weeks. Want me to send over some available dates?"
+      "Habari Rachel!",
+      "Hongera kwa nyumba mpya - ua usio na slate ni mradi wa ndoto kwa kweli. Ninachukua wateja wapya kabisa.",
+      "Mchakato wangu huanza na mashauriano ya dakika 90 kwenye tovuti ambapo ninatembea kwenye eneo, kuchukua vipimo, na kuzungumza kupitia malengo yako. Kuanzia hapo ninaunda mpango wa dhana na muundo wa upandaji, mpangilio wa hardscape, na bajeti ya hatua kwa hatua.",
+      "Nina nafasi katika wiki 2-3 zijazo. Je, unataka nitume baadhi ya tarehe zinazopatikana?"
     ],
-    "highlightText": "My process starts with a 90-minute on-site consultation",
+    "highlightText": "Mchakato wangu huanza na mashauriano ya dakika 90 kwenye tovuti",
     "tooltipFeatures": [
-      "Knows your design process & pricing",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "Anajua mchakato wako wa kubuni na bei",
+      "Rasimu katika sauti yako",
+      "Inajumuisha maelezo ya mashauriano kiotomatiki",
+      "Anajifunza kwa muda"
     ]
   },
   "agent": {
-    "userMessage": "Which clients are still waiting on plan approval?",
-    "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
-    "followUp": "Draft a follow-up to Jennifer about the plan approval",
-    "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
+    "userMessage": "Ni wateja gani ambao bado wanasubiri idhini ya mpango?",
+    "agentResponse": "Kulingana na barua pepe zako za hivi majuzi, wateja wawili wanasubiri kuidhinishwa: Jennifer & Mark L. (uundaji upya wa ua - ulituma mipango ya mwisho siku 4 zilizopita, bado hakuna jibu) na Cohens (ubadilishaji asili wa uwanja wa mbele - walituma mpango uliorekebishwa wiki iliyopita). Unataka niandae ufuatiliaji wa upole kwa ama?",
+    "followUp": "Rasimu ya ufuatiliaji kwa Jennifer kuhusu uidhinishaji wa mpango",
+    "followUpResponse": "Imekamilika! Niliandaa mpango wa kuingia kwa Jennifer kwa urafiki nikimwuliza kama yeye na Mark walipata nafasi ya kukagua mipango ya mwisho, na kumkumbusha unaweza kuruka kwenye simu ya haraka ili kupitia chaguo za mmea. Tayari kukagua na kutuma."
   },
-  "testimonialsTitle": "Loved by landscape designers",
+  "testimonialsTitle": "Inapendwa na wabunifu wa mazingira",
   "testimonials": [
     {
       "name": "Michael S.",
-      "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "title": "Mbunifu wa Mazingira, Austin TX",
+      "quote": "Wakati wa majira ya kuchipua niko kwenye tovuti saa 8 kwa siku nikifanyia tathmini na usimamizi wa usakinishaji. Maombi mapya ya mashauriano yangekaa kwa siku. Sasa Duet inajibu na mchakato wangu na upatikanaji ndani ya dakika. Nimehifadhi miradi 3 ambayo hakika ningepoteza.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
-      "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "title": "Mbuni wa bustani, Portland AU",
+      "quote": "Kuratibu kati ya wafanyakazi wa hardscape, wasakinishaji wa umwagiliaji, na wateja huzalisha kiasi cha upuuzi cha barua pepe. Duet hupanga yote na kuandaa majibu ambayo yanajumuisha maelezo sahihi ya mradi. Ni kama kuwa na msimamizi wa studio.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
-      "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "title": "Mmiliki wa Studio ya Usanifu wa Mazingira, Denver CO",
+      "quote": "Nilikuwa nikitumia kila jioni baada ya kazi ya shambani kupata barua pepe. Maswali sawa - bei, mchakato, kalenda ya matukio. Duet hushughulikia yote. Muda wangu wa kujibu ulienda kutoka siku hadi dakika na kasi yangu ya karibu imepanda.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
-      "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "title": "Mbuni wa Mazingira ya Makazi, Scottsdale AZ",
+      "quote": "Wateja wangu huuliza maswali mengi kuhusu uteuzi na matengenezo ya mimea. Duet alijifunza paleti za mimea yangu na maagizo ya utunzaji na majibu ya rasimu ambayo sihitaji kuhariri. Wateja wanafikiri mimi ni msikivu sana.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
-      "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "title": "Mbuni wa Mazingira ya Mimea Asilia, Raleigh NC",
+      "quote": "Nilikuwa nikipoteza wateja wapya kwa sababu sikuweza kujibu nikiwa nimepiga magoti katika usakinishaji wa upanzi. Duet huandaa majibu ya mashauriano na mchakato wangu halisi, bei, na nini cha kutarajia. Ililipa yenyewe wiki ya kwanza.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tumia siku zako kuunda mandhari,\nsi kupata barua pepe.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "Je, Duet inaweza kushughulikia kukimbilia kwa masika wakati maombi ya mashauriano yanaporundikana?",
+      "answer": "Hapo ndipo Duet inapong'aa. Katika msimu wako wa shughuli nyingi, kila swali jipya hupata jibu la haraka na la kina kuhusu mchakato wako, rekodi ya matukio na upatikanaji wako - hata ukiwa kwenye tovuti siku nzima. Hakuna tena kupoteza mwelekeo wa majira ya kuchipua kwa sababu hukuweza kurejea kwao hadi 9 PM."
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
-      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "Ninaratibu na wafanyakazi wengi wa nje. Je, Duet inasaidia na hilo?",
+      "answer": "Ndiyo. Duet hujifunza miradi yako na wakandarasi wanaohusika - mazingira magumu, umwagiliaji, wafanyakazi wa kupanda, vitalu. Inaainisha barua pepe za mkandarasi kando na barua pepe za mteja, na inaweza kuandaa majibu yenye maelezo mahususi ya mradi kama vile vipimo, kalenda ya matukio na nyenzo. Unakaa juu ya kila kikundi bila fujo katika kikasha."
     }
   ],
-  "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
+  "pricingNote": "Kwa $8,000/mradi, mteja mmoja aliyehifadhiwa hulipa kwa miaka ya Pro."
 }

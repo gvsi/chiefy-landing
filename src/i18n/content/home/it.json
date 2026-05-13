@@ -1,33 +1,32 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | Assistente e-mail AI per Gmail e Outlook",
+    "description": "L'assistente e-mail AI di Duet Mail riassume le e-mail, crea bozze di risposte e organizza la tua casella di posta. Funziona con Gmail e Outlook. Risparmia più di 4 ore a settimana."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
-    "headlineSuffix": " for",
+    "badge": "Ora disponibile per Gmail e Outlook",
+    "headlinePrefix": "Il tuo ",
+    "headlineHighlight": "capo dello staff",
+    "headlineSuffix": " per",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "smistamento della posta elettronica",
+      "redazione delle risposte",
+      "pianificazione",
+      "trovare risposte"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "Risparmia più di 4 ore ogni settimana via e-mail",
+    "primaryCta": "Inizia con Gmail",
+    "secondaryCta": "Inizia con Outlook",
+    "trialNote": "Prova gratuita di 14 giorni",
+    "cancelNote": "Annulla in qualsiasi momento"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "Categorizzazione istantanea",
+      "Risposte basate sull'intelligenza artificiale"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Posta in arrivo",
     "providers": [
       "Gmail",
       "Outlook"
@@ -36,140 +35,140 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "Ieri"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Bozza automatica",
     "emails": [
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "Ri: Cronologia del lancio del prodotto",
+        "preview": "Ehi! Volevo controllare le risorse di lancio. Siamo ancora sulla buona strada per la prossima settimana...",
+        "pill": "Per rispondere"
       },
       {
-        "from": "Emma Park",
+        "from": "Emma Parco",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "Sincronizzazione veloce questo pomeriggio?",
+        "preview": "Mi piacerebbe restare aggiornato sugli aggiornamenti della roadmap. Sei libero verso le 16:00...",
+        "pill": "Incontro"
       },
       {
         "from": "Marketing",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
-        "pill": "FYI"
+        "subject": "Risultati della campagna pronti",
+        "pill": "Per tua informazione"
       },
       {
         "from": "Shopify",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "Il tuo negozio è pronto per il Black Friday",
+        "pill": "Promozioni"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "Ciao Alex! Sì, siamo sulla buona strada. Il team di progettazione ha terminato le risorse ieri e oggi invierò i file finali entro EOD."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "Loghi dei clienti",
+    "headingPrefix": "Affidabile da lungimiranti",
+    "headingHighlight": " professionisti e team ",
+    "headingSuffix": "in tutto il mondo"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "Caratteristiche",
+    "eyebrow": "La tua casella di posta, potenziata",
+    "title": "La tua casella di posta non dovrebbe dominare la tua giornata",
+    "subtitle": "Trasforma il caos in chiarezza con l'intelligenza artificiale che ti cattura davvero.\nRisparmia più di 3 ore ogni settimana con l'assistente e-mail più intelligente per Gmail e Outlook.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "Bozze di email che suonano come te",
+        "description": "Duet Lo scrittore di e-mail AI prepara bozze per le tue e-mail più importanti. Impara il tuo tono e il tuo stile di scrittura.",
+        "ariaLabel": "Bozze di email che suonano come te",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "Ho redatto una fredda email personalizzata per John",
+          "sampleText": "Le pipeline di intelligenza artificiale sono essenziali per creare sistemi di intelligenza artificiale robusti, scalabili ed efficienti.",
+          "readyToSend": "Pronto per inviare?",
+          "remindFollowUp": "Ricordami di dare seguito."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "Riepiloghi istantanei e azioni",
+        "description": "Ottieni il TL;DR e gli elementi di azione dai contenuti della tua email in pochi secondi. Non dovrai più leggere romanzi nella tua casella di posta.",
+        "ariaLabel": "Riepiloghi istantanei e azioni",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "Propongo noi ",
+          "sentenceHighlight": "incontrarci la prossima settimana",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "Nuovo elemento di azione",
+          "actionLead": "Ho trovato questi posti liberi nel tuo calendario",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "Martedì, alle 10:00",
+            "Giovedì, alle 14:00",
+            "Venerdì, 9:00"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "Scopri di più",
+          "primaryButton": "Invia"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "Promemoria intelligenti",
+        "description": "Impostalo e dimenticalo. Duet L'intelligenza artificiale si ricorda di rispondere quando gli altri non rispondono, quindi nulla passa inosservato.",
+        "ariaLabel": "Promemoria intelligenti",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "Promemoria intelligenti basati sull'intelligenza artificiale",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Seguito",
               "value": "12",
-              "unit": "emails"
+              "unit": "e-mail"
             },
             {
-              "label": "To reply",
+              "label": "Per rispondere",
               "value": "2",
-              "unit": "emails"
+              "unit": "e-mail"
             },
             {
-              "label": "Completed",
+              "label": "Completato",
               "value": "3",
-              "unit": "action items"
+              "unit": "elementi di azione"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "Completa compiti di scrittura",
+              "time": "2 giorni fa"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "Integrazione del progetto",
+              "time": "12 ore fa"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "Segui",
+            "Riprogrammare?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "Concentrati su ciò che conta",
+        "description": "La categorizzazione intelligente mostra per prime le email più importanti e classifica le email in argomenti. La gestione della posta elettronica non è mai stata così semplice.",
+        "ariaLabel": "Concentrati su ciò che conta",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "ANALIZZANDO"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "Organizzazione della posta elettronica e categorizzazione intelligente della casella di posta",
+    "badge": "Organizzazione",
+    "title": "Duet organizza la tua casella di posta",
+    "subtitle": "La categorizzazione automatica filtra il rumore e mette in evidenza ciò che conta. Scopri immediatamente cosa necessita di azione, cosa è solo per tua informazione e cosa può aspettare.",
+    "windowTitle": "Posta in arrivo",
     "providers": [
       "Gmail",
       "Outlook"
@@ -178,272 +177,272 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "Ieri",
+      "20 dicembre"
     ],
     "emails": [
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "Richiesta di revisione del budget Q4",
+        "preview": "In allegato i numeri definitivi. Si prega di rivedere da parte di EOD.",
+        "pill": "Azione necessaria"
       },
       {
-        "from": "Michael Torres",
+        "from": "Michele Torres",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "Domani alle 10 lo stand up della squadra",
+        "pill": "Incontro"
       },
       {
-        "from": "Design Team",
+        "from": "Gruppo di progettazione",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
-        "pill": "FYI"
+        "subject": "Pubblicate le nuove linee guida del marchio",
+        "pill": "Per tua informazione"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "Il tuo estratto conto mensile è pronto",
+        "pill": "Promozioni"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "Notiziario",
+        "subject": "Raccolta settimanale",
+        "pill": "Promozioni"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "Redazione di e-mail tramite intelligenza artificiale e generazione di risposte",
+    "badge": "Redazione",
+    "title": "Duet bozze con la tua voce",
+    "subtitle": "Duet impara come scrivi e redige risposte che corrispondono al tuo tono. Rivedi, modifica se necessario e invia in pochi secondi.",
+    "windowTitle": "Nuovo messaggio",
     "fieldLabels": {
       "to": "To:",
-      "subject": "Subject:"
+      "subject": "Oggetto:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Ri: Sincronizzazione rapida questa settimana?",
+      "originalFrom": "Alex Rivera ha scritto:",
+      "originalText": "EHI! Mi piacerebbe aggiornarmi sui cambiamenti della tabella di marcia. Sei libero per una chiamata di 30 minuti questa settimana? Fammi sapere cosa funziona per te.",
+      "badge": "Draftato automaticamente",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "Ehi Alex!",
+        "Mi piacerebbe sincronizzarmi sulla tabella di marcia. Sono libero giovedì dalle 14 alle 16 o venerdì mattina: entrambi vanno benissimo per me.",
+        "Fammi sapere cosa ti si addice meglio e ti invierò un invito.",
+        "Grazie!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "Sono libero giovedì dalle 14 alle 16 o venerdì mattina",
       "actions": [
-        "Send",
-        "Edit"
+        "Invia",
+        "Modifica"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "Bozza personalizzata",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "Conosce il tuo calendario",
+        "Bozze nella tua voce",
+        "Conosce il contesto attraverso la memoria",
+        "Impara nel tempo"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "Intelligenza e assistente per la posta elettronica tramite intelligenza artificiale",
+    "badge": "Intelligenza",
+    "title": "Chiedi qualsiasi cosa sulla tua email",
+    "subtitle": "Chiedi a Duet di trovare le email, controllare il calendario o redigere una risposta. Capisce la tua casella di posta e risponde istantaneamente.",
+    "windowTitle": "Agente Duet",
+    "onlineLabel": "In linea",
+    "initialUserMessage": "Riesci a trovare la fattura Stripe inviata da Contabilità?",
+    "processingText": "Ricerca nella posta in arrivo...",
+    "foundHeader": "Trovate 2 email da Stripe",
+    "foundBody": "Ho trovato la ricevuta di $ 29,00 USD del 24 ottobre.",
     "attachment": {
-      "fileName": "invoice_oct24.pdf",
-      "fileSize": "142 KB"
+      "fileName": "fattura_ott24.pdf",
+      "fileSize": "142KB"
     },
     "suggestions": [
       {
-        "action": "draft",
-        "label": "Draft a reply"
+        "action": "bozza",
+        "label": "Redigere una risposta"
       },
       {
-        "action": "calendar",
-        "label": "Find time to meet"
+        "action": "calendario",
+        "label": "Trova il tempo per incontrarti"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "Chiedi qualsiasi cosa...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "Elaborazione...",
+      "processingDraft": "Generazione bozza...",
+      "processingCalendar": "Verifica disponibilità...",
+      "draftIntro": "Ecco una bozza di risposta alla contabilità:",
+      "draftHeader": "Bozza: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "Ciao squadra,",
+        "In allegato si trova la fattura Stripe di ottobre ($ 29,00).",
+        "Fammi sapere se hai bisogno di qualcos'altro.",
+        "Migliore,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "Invia e-mail",
+        "Modifica"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "Domani hai 3 posti liberi:",
       "calendarSlots": [
         {
           "time": "9:30 AM",
-          "duration": "30 min"
+          "duration": "30 minuti"
         },
         {
           "time": "2:00 PM",
-          "duration": "30 min"
+          "duration": "30 minuti"
         },
         {
           "time": "4:30 PM",
-          "duration": "30 min"
+          "duration": "30 minuti"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "Redigere anche la risposta?",
+        "calendarAfterDraft": "Pianificare anche un follow-up?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "Testimonianze",
+    "scrollingAriaLabel": "Testimonianze a scorrimento",
+    "eyebrow": "Testimonianze",
+    "title": "Amato dai professionisti impegnati",
+    "subtitle": "Persone vere. La vera casella di posta vince.",
     "items": [
       {
         "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "title": "Libero professionista",
+        "quote": "Vale ogni centesimo. Il tempo che risparmio sulla posta elettronica mi ripaga di Duet Mail 10 volte. Non riesco a immaginare di lavorare senza adesso.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
         "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "title": "Responsabile delle vendite",
+        "quote": "I riepiloghi istantanei di lunghi thread di posta elettronica sono pura magia e quindi facili da usare. I miei clienti pensano che io sia sovrumano.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
         "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "title": "Imprenditore",
+        "quote": "Ero scettico sull'uso dell'intelligenza artificiale per le mie e-mail. Ora è come avere un brillante assistente esecutivo. Non riesco a immaginare di tornare indietro.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
         "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "title": "Consulente",
+        "quote": "Come consulente, ogni minuto conta. Duet Mail non solo mi fa risparmiare tempo, ma rende più nitida la mia comunicazione via email.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
-        "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "name": "Sara T.",
+        "title": "Direttore Marketing",
+        "quote": "Finalmente un assistente di posta AI che impara davvero come scrivo. Le risposte istantanee sono così precise che il mio team pensava che stessi lavorando a mezzanotte.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "ariaLabel": "Prezzi",
+    "eyebrow": "Prezzi",
+    "heading": "Prezzi semplici, casella di posta potente",
+    "subheading": "Inizia gratuitamente, aggiorna in qualsiasi momento. Annulla quando vuoi.",
+    "billingLegend": "Cadenza di fatturazione",
+    "billingAnnual": "Annuale",
+    "billingMonthly": "Mensile",
+    "savingsTag": "Risparmia il 33%",
+    "priceCadence": "/mese",
+    "perUserSuffix": "/utente",
+    "annualBillingSuffix": "(fatturato annualmente)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Pagamento sicuro tramite Stripe",
+      "Annulla in qualsiasi momento"
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "name": "Essenziale",
+        "description": "Per chiunque sia curioso di sapere cosa significhi una casella di posta più intelligente. Nessun impegno richiesto.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "Riepiloghi istantanei",
+            "description": "Ottieni l'essenza di qualsiasi discussione"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "Bozze dell'IA",
+            "description": "Un assaggio di risposte nella tua voce"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "Posta in arrivo intelligente",
+            "description": "Organizzazione di base per iniziare"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "Duet Assistente",
+            "description": "Prova l'assistente AI"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Scegli Gmail o Outlook"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "Prova gratuita di 14 giorni",
+        "description": "Per i professionisti che desiderano un'automazione più profonda, integrazioni e una casella di posta che sappia veramente come lavori.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "Posta in arrivo intelligente",
+            "description": "E-mail ordinate automaticamente in categorie intelligenti",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "Bozze dell'IA",
+            "description": "Risposte scritte con la tua voce, pronte per essere inviate",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "Duet Assistente",
+            "description": "Chatta per trovare, creare bozze, organizzare e altro ancora",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "Integrazione del calendario",
+            "description": "Pianifica, visualizza e gestisci gli eventi dalla tua casella di posta"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "Riepiloghi istantanei",
+            "description": "Ottieni l'essenza di qualsiasi thread o allegato"
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "Promemoria intelligenti",
+            "description": "I follow-up emergono automaticamente, quindi nulla sfugge"
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "Supporto prioritario",
+            "description": "Umani veri, risposte veloci"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Scegli Gmail o Outlook",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "Impresa",
+        "description": "Per le organizzazioni che necessitano di scalabilità di livello aziendale, supporto dedicato e flussi di lavoro personalizzati. Ideale per squadre di oltre 50 persone.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,146 +450,146 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Tutto in Pro",
+            "description": "Tutte le funzionalità incluse"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "Supporto dedicato",
+            "description": "Responsabile dell'account personale"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "Analisi del gruppo",
+            "description": "Approfondimenti sulla tua organizzazione"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "Flussi di lavoro condivisi",
+            "description": "Modelli e automazioni per i team"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "Contatta le vendite",
+        "ctaNote": "Prezzi personalizzati disponibili"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
-    "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "ariaLabel": "Domande frequenti",
+    "eyebrow": "Domande frequenti",
+    "headingPrefix": "Domande comuni, ",
+    "headingAccent": "rispose",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
-    "footerBrand": "DUET MAIL",
-    "footerLabel": "FAQ",
+    "contactLabel": "CONTATTO",
+    "contactHeading": "Hai ancora domande?",
+    "contactCta": "Contattaci →",
+    "footerBrand": "POSTA DI DUETTO",
+    "footerLabel": "Domande frequenti",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "In che modo Duet Mail protegge i miei dati e-mail?",
+        "answer": "La tua sicurezza è la nostra massima priorità. Utilizziamo OAuth 2.0 per l'autenticazione sicura sia con Google che con Microsoft. Il contenuto delle email viene crittografato quando non è attivo utilizzando la crittografia a livello di campo lato client e seguiamo il principio del privilegio minimo per l'accesso API. Per la nostra integrazione con Google, siamo sottoposti alla valutazione annuale della sicurezza CASA di Google."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Come funziona la funzione di riepilogo via email?",
+        "answer": "Duet Mail utilizza l'intelligenza artificiale avanzata per analizzare i thread di posta elettronica e generare una panoramica concisa evidenziando i punti chiave, le decisioni e le azioni. Questo ti aiuta a comprendere rapidamente il contesto senza leggere l'intero thread."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Di quali autorizzazioni ha bisogno Duet Mail?",
+        "answer": "Duet Mail richiede l'accesso alle tue e-mail per fornire riepiloghi, estrarre azioni, generare contenuti e inviare e-mail. Richiediamo solo le autorizzazioni di cui abbiamo assolutamente bisogno. Puoi rivedere e revocare queste autorizzazioni in qualsiasi momento nelle impostazioni del tuo account Google o dell'account Microsoft."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Cosa è incluso nella prova gratuita?",
+        "answer": "La prova gratuita di 14 giorni include l'accesso completo a tutte le funzionalità di Pro: riepiloghi e-mail illimitati, estrazione di azioni, scrittore di e-mail AI (generazione di e-mail e bozze senza limiti) e modelli di e-mail personalizzati. Accedi con Google o Microsoft per iniziare a risparmiare tempo sulla gestione della posta elettronica."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Posso utilizzare Duet Mail con altri provider di posta elettronica?",
+        "answer": "Duet Mail supporta Gmail, Google Workspace e Microsoft Outlook. Accedi con il tuo account Google o Microsoft per iniziare."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "Inizia",
+    "headline": "Recupera 4 ore.\nOgni settimana.",
+    "subline": "Unisciti ai professionisti che iniziano la giornata con chiarezza, non con il caos. La tua prova gratuita ti sta aspettando.",
+    "primaryCta": "Inizia con Gmail",
+    "secondaryCta": "Inizia con Outlook",
+    "note": "Prova gratuita di 14 giorni · Annulla in qualsiasi momento",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Google Valutato CASA",
+      "Crittografato a riposo",
+      "OAuth sicuro 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "Piè di pagina del sito",
+    "brandIconAlt": "Icona Duet Mail",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail: l'assistente e-mail AI che ti fa risparmiare ore ogni settimana",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "Esplora",
         "links": [
           {
-            "label": "Organization",
+            "label": "Organizzazione",
             "href": "/it#organization"
           },
           {
-            "label": "Drafting",
+            "label": "Redazione",
             "href": "/it#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "Intelligenza",
             "href": "/it#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Estensione di Chrome",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "Clienti",
         "links": [
           {
-            "label": "Pricing",
+            "label": "Prezzi",
             "href": "/it#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "Testimonianze",
             "href": "/it#testimonials"
           },
           {
-            "label": "FAQ",
+            "label": "Domande frequenti",
             "href": "/it#faq"
           }
         ]
       },
       {
-        "title": "Legal",
+        "title": "Legale",
         "links": [
           {
             "label": "Privacy",
             "href": "/it/privacy"
           },
           {
-            "label": "Terms",
+            "label": "Termini",
             "href": "/it/terms"
           },
           {
-            "label": "Cookies",
+            "label": "Biscotti",
             "href": "/it/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "Dichiarazione di non responsabilità",
             "href": "/it/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "Connettiti",
         "links": [
           {
             "label": "Blog",
@@ -621,50 +620,50 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
-    "lossSuffix": "/mo gone",
-    "dividerLabel": "vs",
+    "ariaLabel": "Ritorno sull'investimento",
+    "label": "La matematica",
+    "narrativeTemplate": "A {pricePerBooking} per {bookingUnit}, perdendo solo {lostPerMonth} a causa delle risposte lente =",
+    "lossSuffix": "/mese andato",
+    "dividerLabel": "contro",
     "duetLabel": "Duet",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$ 30/mese"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - Assistente e-mail AI per Gmail e Outlook",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "Assistenza clienti",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
-    "applicationCategory": "CommunicationApplication",
+    "softwareDescription": "Assistente e-mail AI per Gmail e Outlook che riepiloga automaticamente le e-mail, crea bozze di risposte con la tua voce e organizza la tua casella di posta per risparmiare ore ogni settimana.",
+    "applicationCategory": "Applicazione di comunicazione",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "Organizzazione e categorizzazione intelligente della posta elettronica",
+      "Redazione di e-mail basata sull'intelligenza artificiale con la tua voce",
+      "Assistente e-mail intelligente con integrazione del calendario",
+      "Riepiloghi e-mail automatici e azioni",
+      "Promemoria intelligenti per i follow-up"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Piano di base",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "Piano gratuito con riepiloghi istantanei, bozze AI e casella di posta intelligente"
       },
       {
-        "name": "Pro Plan",
+        "name": "Piano Pro",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "unitText": "MESE",
+        "description": "Accesso completo con categorizzazione intelligente della casella di posta, bozze AI, assistente e integrazione del calendario"
       }
     ],
     "aggregateRating": {
       "ratingValue": "4.8",
       "ratingCount": "853"
     },
-    "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "operatingSystem": "Rete",
+    "browserRequirements": "Richiede JavaScript. Funziona con Gmail, Google Workspace e Microsoft Outlook.",
     "urls": {
       "site": "https://duetmail.com/it",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "In che modo Duet Mail protegge i miei dati e-mail?",
+        "answer": "La tua sicurezza è la nostra massima priorità. Utilizziamo OAuth 2.0 per l'autenticazione sicura sia con Google che con Microsoft. Il contenuto delle email viene crittografato quando non è attivo utilizzando la crittografia a livello di campo lato client e seguiamo il principio del privilegio minimo per l'accesso API. Per la nostra integrazione con Google, siamo sottoposti alla valutazione annuale della sicurezza CASA di Google."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "Come funziona la funzione di riepilogo via email?",
+        "answer": "Duet Mail utilizza l'intelligenza artificiale avanzata per analizzare i thread di posta elettronica e generare una panoramica concisa evidenziando i punti chiave, le decisioni e le azioni. Questo ti aiuta a comprendere rapidamente il contesto senza leggere l'intero thread."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Di quali autorizzazioni ha bisogno Duet Mail?",
+        "answer": "Duet Mail richiede l'accesso alle tue e-mail per fornire riepiloghi, estrarre azioni, generare contenuti e inviare e-mail. Richiediamo solo le autorizzazioni di cui abbiamo assolutamente bisogno. Puoi rivedere e revocare queste autorizzazioni in qualsiasi momento nelle impostazioni del tuo account Google o dell'account Microsoft."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "Cosa è incluso nella prova gratuita?",
+        "answer": "La prova gratuita di 14 giorni include l'accesso completo a tutte le funzionalità di Pro: riepiloghi e-mail illimitati, estrazione di azioni, scrittore di e-mail AI (generazione di e-mail e bozze senza limiti) e modelli di e-mail personalizzati. Accedi con Google o Microsoft per iniziare a risparmiare tempo sulla gestione della posta elettronica."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "Posso utilizzare Duet Mail con altri provider di posta elettronica?",
+        "answer": "Duet Mail supporta Gmail, Google Workspace e Microsoft Outlook. Accedi con il tuo account Google o Microsoft per iniziare."
       }
     ]
   }

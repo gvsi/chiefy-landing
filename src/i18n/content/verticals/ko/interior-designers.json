@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
-  "heroBadge": "Trusted by 400+ interior designers",
-  "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "pageTitle": "인테리어 디자이너를 위한 Duet Mail | AI 이메일 도우미",
+  "metaDescription": "Duet Mail은 인테리어 디자이너가 작업 현장에서도 고객 이메일, 계약자 조정 및 공급업체 주문을 관리하는 데 도움이 됩니다. AI-프로젝트 세부 정보, 선호도 및 음성이 포함된 초안 답변입니다.",
+  "heroBadge": "400명 이상의 인테리어 디자이너가 신뢰함",
+  "heroHeadline": "고객과 함께 현장에 있는 동안 이메일 도우미",
+  "heroSubline": "Duet은 공급업체 연락처, 프로젝트 세부 정보 및 클라이언트 기본 설정을 학습한 다음 이메일 답장 초안을 작성하므로 느린 응답으로 인해 클라이언트를 잃지 않습니다.",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "레이첼 T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
-      "pill": "To Respond",
+      "subject": "주방 리모델링 - 초기 상담이요?",
+      "preview": "안녕! 우리는 방금 Westlake에 집을 샀고 주방을 완전히 다시 만들고 싶습니다. 새로운 프로젝트를 진행하고 있나요? 귀하의 프로세스는 어떻게 생겼습니까?",
+      "pill": "응답하려면",
       "pillColor": "red"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "토니의 타일 앤 스톤",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Re: Backsplash tile lead time update",
-      "preview": "Just heard back from the warehouse — the Calacatta hex tile is backordered 3 weeks. Want me to hold your order or look at alternatives...",
-      "pill": "Vendor Order",
+      "subject": "Re: Backsplash 타일 리드 타임 업데이트",
+      "preview": "방금 창고에서 답변을 들었습니다. Calacatta 육각형 타일이 3주 동안 이월 주문되었습니다. 주문을 보류하거나 대안을 찾아보길 원하세요...",
+      "pill": "공급업체 주문",
       "pillColor": "amber"
     },
     {
-      "from": "Mark L. — Electrician",
+      "from": "Mark L. — 전기 기술자",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "preview": "All rough-in wiring is finished in the master bedroom and living room. We're clear for the sconce and chandelier install whenever your...",
-      "pill": "Contractor",
+      "subject": "배선 완료 - 고정 장치 설치 준비 완료",
+      "preview": "모든 대략적인 배선은 마스터 침실과 거실에서 완료됩니다. 우리는 당신이 언제든지 보루와 샹들리에를 설치할 수 있다는 것을 확신합니다...",
+      "pill": "계약자",
       "pillColor": "blue"
     },
     {
-      "from": "Karen & Steve W.",
+      "from": "카렌 & 스티브 W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Thoughts on the fabric samples?",
-      "preview": "We looked at the three fabric options you left and we're leaning toward the linen in 'Oatmeal' but want to see it against the wall color...",
-      "pill": "Client Approval",
+      "subject": "원단 샘플에 대해 어떻게 생각하시나요?",
+      "preview": "저희는 남겨주신 세 가지 패브릭 옵션을 살펴보았고 '오트밀' 소재의 린넨 쪽으로 기울고 있지만 벽 색상과 대조하여 보고 싶습니다...",
+      "pill": "클라이언트 승인",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+  "autodraft": "안녕 레이첼! Westlake 주방에 대해 더 듣고 싶습니다. 현재 다음 달 상담을 예약하고 있습니다. 내 프로세스는 귀하의 비전, 예산 및 일정을 살펴보는 가정 방문으로 시작됩니다. 그런 다음 재료 선택과 함께 디자인 컨셉을 구성합니다. 집에서 만날 시간을 정하고 싶으신가요?",
   "math": {
     "pricePerBooking": "$10,000",
-    "bookingUnit": "project",
+    "bookingUnit": "프로젝트",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Duet."
+    "punchline": "한 명의 저장된 고객이 수년간의 Duet 비용을 지불합니다."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+  "categorizationSubtitle": "Duet은 모든 이메일에 자동으로 태그를 지정하므로 새로운 고객 문의가 먼저 표시되고 승인 보류 중인 내용이 두 번째로 표시되며 공급업체 뉴스레터는 표시되지 않습니다. 더 이상 무역 박람회 프로모션에 묻혀 있던 디자인 상담을 놓치지 마세요.",
+  "draftSubtitle": "Duet은 프로세스, 프로젝트 세부 사항 및 톤을 학습합니다. 새로운 문의나 고객 질문이 들어오면 귀하의 가용성, 다음 단계 및 프로젝트 세부 사항이 포함된 완전한 답변 초안을 작성합니다. 검토하고 보냅니다.",
+  "agentSubtitle": "\"헨더슨 프로젝트의 상태는 어떻습니까?\" \"어떤 승인이 아직 보류 중인가요?\" Duet은 받은 편지함과 모든 프로젝트 스레드를 알고 있습니다. 물어보세요.",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "레이첼 T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Kitchen renovation — initial consultation?",
-      "preview": "We just bought a home and want to redo the kitchen...",
-      "pill": "New Inquiry",
+      "subject": "주방 리모델링 - 초기 상담이요?",
+      "preview": "방금 집을 샀는데 주방을 다시 꾸미고 싶은데...",
+      "pill": "새로운 문의",
       "pillColor": "red"
     },
     {
-      "from": "Karen W.",
+      "from": "카렌 W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
-      "pill": "Client Approval",
+      "subject": "답변: 패브릭 샘플 - 오트밀 리넨을 사용합니다.",
+      "pill": "클라이언트 승인",
       "pillColor": "blue"
     },
     {
-      "from": "Mark L.",
+      "from": "마크 L.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Wiring done — ready for fixture install",
-      "pill": "Contractor",
+      "subject": "배선 완료 - 고정 장치 설치 준비 완료",
+      "pill": "계약자",
       "pillColor": "amber"
     },
     {
-      "from": "Tony's Tile & Stone",
+      "from": "토니의 타일 앤 스톤",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
-      "pill": "Vendor Order",
+      "subject": "주문 번호 4821 배송됨 — 배송 목요일",
+      "pill": "공급업체 주문",
       "pillColor": "lavender"
     },
     {
-      "from": "Design Within Reach",
+      "from": "접근 가능한 디자인",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
-      "pill": "Promotions",
+      "subject": "무역 프로그램 — 봄맞이 할인 이벤트",
+      "pill": "프로모션",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We just bought a home in Westlake and want to completely redo the kitchen. Are you taking on new projects? What does your process look like?",
+    "subject": "Re: 주방 리모델링 - 초기 상담이요?",
+    "originalFrom": "Rachel T.는 다음과 같이 썼습니다.",
+    "originalText": "안녕! 우리는 방금 Westlake에 집을 샀고 주방을 완전히 다시 만들고 싶습니다. 새로운 프로젝트를 진행하고 있나요? 귀하의 프로세스는 어떻게 생겼습니까?",
     "lines": [
-      "Hi Rachel!",
-      "Congratulations on the new home! I'd love to help with your kitchen. I'm currently booking consultations for next month.",
-      "My process starts with an in-home visit to walk through your vision, budget, and timeline. From there I put together a design concept with material selections and a detailed proposal.",
-      "Want to set up a time to meet at the house?"
+      "안녕 레이첼!",
+      "새 집 축하해요! 나는 당신의 부엌에 도움을 주고 싶습니다. 현재 다음 달 상담을 예약하고 있습니다.",
+      "내 프로세스는 귀하의 비전, 예산 및 일정을 살펴보기 위한 가정 방문으로 시작됩니다. 거기에서 재료 선택과 세부 제안을 포함한 디자인 컨셉을 구성했습니다.",
+      "집에서 만날 시간을 정하고 싶으신가요?"
     ],
-    "highlightText": "I'm currently booking consultations for next month.",
+    "highlightText": "현재 다음 달 상담을 예약하고 있습니다.",
     "tooltipFeatures": [
-      "Knows your process & availability",
-      "Drafts in your voice",
-      "Includes next steps automatically",
-      "Learns over time"
+      "귀하의 프로세스 및 가용성을 알고 있습니다.",
+      "당신의 목소리에 초안이 들어있습니다.",
+      "다음 단계를 자동으로 포함합니다.",
+      "시간이 지남에 따라 학습"
     ]
   },
   "agent": {
-    "userMessage": "What approvals are still pending on the Henderson project?",
-    "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
-    "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
-    "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
+    "userMessage": "Henderson 프로젝트에 대해 어떤 승인이 아직 보류 중입니까?",
+    "agentResponse": "Hendersons와의 이메일 스레드에 따르면 마스터 욕실 세면대(화요일에 복원 하드웨어 옵션을 보냈음)와 거실 커튼 패브릭(샘플은 지난주에 배송됨)이라는 두 항목이 아직 승인 대기 중입니다. Karen은 식당의 페인트 광택에 대해서도 물었지만 아직 귀하의 추천에 응답하지 않았습니다. 후속 조치 초안을 작성하시겠습니까?",
+    "followUp": "화장대 및 원단 선택에 대해 Karen에게 부드러운 후속 조치 초안을 작성합니다.",
+    "followUpResponse": "완료! 저는 Karen이 화장대와 휘장 선택 사항을 확인하는 후속 초안을 작성했습니다. 화장대에는 6주의 리드 타임이 있으므로 곧 결정을 내리면 프로젝트가 일정대로 유지될 것이라고 언급했습니다. 검토하고 보낼 준비가 되었습니다."
   },
-  "testimonialsTitle": "Loved by interior designers",
+  "testimonialsTitle": "인테리어 디자이너들에게 사랑받는",
   "testimonials": [
     {
-      "name": "Michael R.",
-      "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
+      "name": "마이클 R.",
+      "title": "텍사스 오스틴 수석 디자이너",
+      "quote": "저는 하루 6시간 현장에서 도장공, 전기공, 타일 설치공을 조정하고 있습니다. 그 사이에 다른 세 명의 고객이 자신의 프로젝트에 대해 이메일을 보내고 있습니다. Duet 초안은 올바른 프로젝트 세부정보로 응답합니다. 저는 사이트 방문 사이에 검토만 합니다.",
       "avatarKey": "michael"
     },
     {
-      "name": "Francesca D.",
-      "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "name": "프란체스카 D.",
+      "title": "주거 인테리어 디자이너, 시카고",
+      "quote": "조달 이메일과 계약자 일정에 얽매여 있어서 고객 문의가 며칠 동안 이어지곤 했습니다. 이제 Duet은 내 프로세스와 가용성을 통해 몇 분 안에 새로운 리드에 응답합니다. 이번 분기에 4개의 추가 프로젝트를 예약했습니다.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Johnny M.",
-      "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "name": "조니 M.",
+      "title": "디자인 스튜디오 소유자, 내쉬빌",
+      "quote": "12개의 활성 프로젝트에 대한 이메일을 관리하는 것이 정말 힘들었습니다. Duet은 새로운 문의, 보류 중인 승인, 공급업체 주문, 계약자 업데이트 등 모든 것을 분류하므로 먼저 주의가 필요한 것이 무엇인지 정확히 알 수 있습니다.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer S.",
-      "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "name": "제니퍼 S.",
+      "title": "인테리어 데코레이터, 샌디에고",
+      "quote": "설치 주 동안 충분히 빠르게 응답할 수 없었기 때문에 잠재 고객을 잃고 있었습니다. Duet은 상담 과정, 가격 구조, 심지어 내 디자인 스타일을 설명하는 방법까지 배웠습니다. 클라이언트는 그것이 AI의 도움을 받았는지 전혀 모릅니다.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sarah K.",
-      "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "name": "사라 K.",
+      "title": "상업 인테리어 디자이너, 덴버",
+      "quote": "공급업체 리드 타임, 계약자 일정, 고객 수정 요청 사이에 받은 편지함은 혼란스러웠습니다. Duet은 모든 것을 분류하고 보류 중인 승인에 대한 후속 조치 초안을 작성합니다. 결코 잠들지 않는 프로젝트 코디네이터를 갖는 것과 같습니다.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "아름다운 공간을 창조하며 하루를 보내세요. \n받은 편지함에 묻혀 있지 않습니다.",
+  "ctaSubline": "무료 평가판을 시작하세요. 30초 안에 받은편지함을 연결하세요.",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
-      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "나는 한 번에 8~10개의 프로젝트를 저글링합니다. Duet이 그것들을 똑바로 유지할 수 있나요?",
+      "answer": "예. Duet은 클라이언트 및 프로젝트별로 모든 이메일 스레드를 추적합니다. Henderson 주방이나 Park Avenue 사무실에 대해 문의하면 공급업체 주문, 계약자 업데이트, 고객 승인 등 모든 관련 대화에서 맥락을 끌어내므로 답변은 항상 정확하고 프로젝트별로 다릅니다. 어떤 타일이 어떤 클라이언트를 위한 것인지 혼동하지 마세요."
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
-      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "나는 많은 계약자 및 공급 업체와 협력합니다. Duet이 도움이 되나요?",
+      "answer": "전적으로. Duet은 계약자 연락처, 공급업체 담당자 및 프로젝트에서 각 거래의 역할에 대한 컨텍스트를 학습합니다. 대략적인 작업이 완료되었음을 전기 기술자에게 이메일로 보내면 Duet은 고정 장치 설치 프로그램의 다음 단계 또는 루프를 확인하는 회신 초안을 작성할 수 있습니다. 시내 건너편의 다른 작업 현장에 있는 경우에도 작업 흐름이 계속 진행됩니다."
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
+  "pricingNote": "프로젝트당 $10,000로 한 명의 저장된 고객이 수년간의 Duet Pro 비용을 지불합니다."
 }

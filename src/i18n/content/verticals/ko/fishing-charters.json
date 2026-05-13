@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "낚시 전세를 위한 Duet Mail | AI 이메일 도우미",
+  "metaDescription": "Duet Mail은 낚시 전세 선장이 물 속에서도 즉시 예약 이메일에 응답할 수 있도록 도와줍니다. AI 가격, 정책 및 음성이 포함된 초안 답변입니다.",
+  "heroBadge": "500명 이상의 전세 선장이 신뢰함",
+  "heroHeadline": "물 위에 있는 동안 이메일 도우미",
+  "heroSubline": "Duet은 가격, 정책 및 음성을 학습한 다음 이메일 답장 초안을 작성하므로 응답이 느려서 예약을 놓치지 않습니다.",
   "inboxEmails": [
     {
-      "from": "Sarah M.",
+      "from": "사라 M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "7월 12일에 4명이 이용 가능합니까?",
+      "preview": "안녕! 저희는 7월 12일에 낚시 여행을 예약하려고 하는 4인 그룹입니다. 예약 가능 여부가 있나요? 하루 종일 가격은 얼마입니까?",
+      "pill": "응답하려면",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "데이비드 K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "우리는 무엇을 가져와야합니까?",
+      "preview": "안녕하세요, 토요일에 예약이 꽉 찼습니다. 간단한 질문 – 무엇을 가져가야 합니까? 낚싯대와 도구를 제공합니까, 아니면 우리가 직접 가져와야 합니까...",
+      "pill": "질문",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "마이크 & 리사 R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "일요일로 일정을 변경해야 합니다",
+      "preview": "늦어서 죄송합니다만, 토요일 일기예보가 좋지 않을 것 같습니다. 대신 일요일로 옮겨도 될까요? 같은 시간...",
+      "pill": "예약",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "트립어드바이저",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "귀하의 목록에 대한 새로운 리뷰",
+      "preview": "최근 한 여행자가 귀하의 업체를 리뷰했습니다. 그들이 무엇을 말하고 응답했는지 살펴보세요...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "안녕 사라! 7월 12일은 4인이 이용 가능합니다. 종일 여행은 오전 6시부터 8시간 동안 진행됩니다. 모든 낚싯대, 낚시 도구, 미끼 및 라이선스가 포함되어 있습니다. 선크림, 물, 낚시용 쿨러만 가져오세요. 가둬둘까요?",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "전세",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "저장된 예약 1개로 Duet 1년 요금을 지불할 수 있습니다."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet은 모든 이메일에 자동으로 태그를 지정하므로 예약 요청이 먼저 표시되고 질문이 두 번째로 표시되며 잡음이 전혀 표시되지 않습니다. 더 이상 트립어드바이저 알림 아래에 묻혀 있는 여행 문의를 놓치지 마세요.",
+  "draftSubtitle": "Duet은 가격, 정책 및 톤을 학습합니다. 예약 문의가 들어오면 여행 세부 정보, 가격, 지참물 등이 포함된 전체 답변 초안을 작성합니다. 검토하고 보냅니다.",
+  "agentSubtitle": "\"다음 주에는 무슨 날이 열려요?\" \"시간이 있는 경우 사라에게 답장 초안을 작성하세요.\" Duet은 받은편지함과 캘린더를 알고 있습니다. 물어보세요.",
   "categorizationEmails": [
     {
-      "from": "Sarah M.",
+      "from": "사라 M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "7월 12일에 4명이 이용 가능합니까?",
+      "preview": "우리는 낚시 여행을 예약하려는 4인 그룹입니다...",
+      "pill": "지금 응답하세요",
       "pillColor": "red"
     },
     {
-      "from": "David K.",
+      "from": "데이비드 K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: 예약이 확인되었습니다 — 토요일 오전 7시",
+      "pill": "예약됨",
       "pillColor": "blue"
     },
     {
-      "from": "Mike R.",
+      "from": "마이크 R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "토요일에 무엇을 가져갈까요?",
+      "pill": "질문",
       "pillColor": "amber"
     },
     {
-      "from": "FishingBooker",
+      "from": "낚시부커",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "주간 예약 요약",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "West Marine",
+      "from": "웨스트 마린",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "봄 세일 — 태클 20% 할인",
+      "pill": "프로모션",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: 7월 12일에 4명이 이용 가능합니까?",
+    "originalFrom": "Sarah M.은 다음과 같이 썼습니다.",
+    "originalText": "안녕! 저희는 7월 12일에 낚시 여행을 예약하려고 하는 4인 그룹입니다. 예약 가능 여부가 있나요? 하루 종일 가격은 얼마입니까?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "안녕 사라!",
+      "7월 12일은 4명이 이용할 수 있습니다. 종일 여행 비용은 $500이며 선착장에서 오전 6시부터 시작하여 8시간 동안 진행됩니다.",
+      "모든 장비, 미끼, 낚시 라이센스가 포함되어 있습니다. 자외선 차단제와 쿨러만 가져오세요.",
+      "가둬둘까요?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "7월 12일은 4인을 위한 활짝 열려 있습니다. 종일 여행 비용은 $500입니다.",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "가격 및 가용성을 알고 있습니다.",
+      "당신의 목소리에 초안이 들어있습니다.",
+      "여행 세부정보가 자동으로 포함됩니다.",
+      "시간이 지남에 따라 학습"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "다음 주에도 무슨 요일이 열려 있나요?",
+    "agentResponse": "달력에 따르면 다음 주 화요일, 목요일, 토요일에 영업이 시작됩니다. 월요일과 수요일은 예약이 꽉 차 있습니다(각각 2대씩 전세). 해당 날짜에 보류 중인 문의에 대한 답변 초안을 작성하시겠습니까?",
+    "followUp": "7월 12일 가용성에 대해 Sarah에게 답장 초안을 작성하세요.",
+    "followUpResponse": "완료! 나는 Sarah에게 7월 12일에 4명의 게스트를 $500로 확인하는 답장 초안을 작성했습니다. 여기에는 표준 여행 세부정보와 모임 장소가 포함됩니다. 검토하고 보낼 준비가 되었습니다."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "전세 선장들에게 사랑받는",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "마이크 D. 선장",
+      "title": "해양 헌장 선장, 플로리다",
+      "quote": "성수기에는 보트에서 충분히 빨리 응답하지 못했기 때문에 일주일에 2~3건의 예약을 놓쳤습니다. Duet은 내 가격 및 여행 세부 정보가 포함된 응답 초안을 작성합니다. 캐치 사이에 전송을 누르기만 하면 됩니다.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "사라 & 톰 K.",
+      "title": "가족 헌장 사업, OR",
+      "quote": "우리는 두 대의 보트를 운영하고 있으며 여름 동안 이메일의 양은 엄청납니다. Duet은 다른 모든 예약 요청을 분류하고 우리와 똑같은 답변을 초안으로 작성합니다. 절대적인 게임 체인저.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "name": "제이크 R.",
+      "title": "근해 낚시 가이드, 텍사스",
+      "quote": "나는 매일 밤 동일한 가용성 질문에 답하는 데 한 시간을 보냈습니다. 이제 Duet이 처리합니다. 내 응답 시간은 몇 시간에서 몇 분으로 단축되었으며 그 이후로 예약을 잃지 않았습니다.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "name": "리사 M.",
+      "title": "차터 오피스 매니저, HI",
+      "quote": "4명의 선장의 이메일을 관리하는 것이 정규직이었습니다. Duet은 모든 것을 분류하고 적절한 보트, 적절한 가격, 적절한 선장의 답변을 초안으로 작성합니다. 또 다른 나를 갖는 것과 같습니다.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Andrea S.",
-      "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "name": "안드레아 S.",
+      "title": "딥 씨 차터스, 노스캐롤라이나",
+      "quote": "AI이 낚시 전세 이메일을 처리할 수 있을지 회의적이었습니다. 하지만 여행 유형, 포함된 내용, 취소 정책까지 학습했습니다. 고객은 차이점을 알 수 없습니다.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "성수기를 물 위에서 보내세요. \n받은편지함에는 없습니다.",
+  "ctaSubline": "무료 평가판을 시작하세요. 30초 안에 받은편지함을 연결하세요.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Duet은 예약 및 예약 가능 여부 이메일에 사용할 수 있나요?",
+      "answer": "전적으로. Duet은 여행 유형, 가격, 가용성 및 정책을 학습합니다. 예약 문의가 들어오면 가격, 포함 사항, 모임 장소, 지참물 등 올바른 세부 정보가 포함된 완전한 답변 초안을 작성합니다. 검토하고 보내기를 탭합니다."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "나는 하루 종일 물 위에 있어요. 휴대폰에서 Duet을 사용할 수 있나요?",
+      "answer": "예. Duet은 Gmail 및 Outlook과 함께 작동하므로 휴대폰을 포함하여 이메일이 작동하는 모든 곳에서 작동합니다. 초안이 자동으로 나타납니다. 캐치 사이에 탭 한 번으로 검토하고 보낼 수 있습니다. 대부분의 선장은 성수기에는 하루에 1~2시간의 이메일 시간을 절약할 수 있다고 말합니다."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "$500/전세로 저장된 예약 하나가 1년 이상의 Pro 비용을 지불합니다."
 }

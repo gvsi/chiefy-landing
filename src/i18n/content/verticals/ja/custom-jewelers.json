@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ jewelry designers",
-  "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
+  "pageTitle": "カスタム宝石商向け Duet Mail | AI 電子メール アシスタント",
+  "metaDescription": "Duet Mail は、カスタム ジュエラーが作業台にいながらでも、相談リクエスト、デザインの承認、スケジュールに関する質問に即座に応答できるように支援します。 AI が作成したプロセス、価格、声を含む返信。",
+  "heroBadge": "300人以上のジュエリーデザイナーから信頼されています",
+  "heroHeadline": "ベンチにいる間のメールアシスタント",
+  "heroSubline": "Duet はデザイン プロセス、素材、価格設定、スケジュールを学習し、メール返信の下書きを作成するので、返信が遅くてカスタム クライアントを失うことがなくなります。",
   "inboxEmails": [
     {
-      "from": "Rachel & David T.",
+      "from": "レイチェル & デビッド T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
-      "pill": "To Respond",
+      "subject": "オーダーメイドの婚約指輪のご相談は？",
+      "preview": "こんにちは！ パートナーと私はカスタムの婚約指輪に興味があります。 私たちには、ぜひ使いたい家宝のダイヤモンドがあります。 今月相談に空きはありますか？",
+      "pill": "応答するには",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "アマンダ S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model — can we adjust the setting?",
-      "preview": "Love the overall design! But could we try a lower profile on the setting? I attached a photo of the style I'm thinking. Also, would switching to platinum change the timeline...",
-      "pill": "Revision",
+      "subject": "Re: 3D モデル — 設定を調整できますか?",
+      "preview": "全体的なデザインが気に入りました！ しかし、設定でより低いプロファイルを試してみることはできますか? 私が考えているスタイルの写真を添付し​​ました。 また、プラチナに切り替えるとタイムラインは変わりますか...",
+      "pill": "リビジョン",
       "pillColor": "amber"
     },
     {
-      "from": "James K.",
+      "from": "ジェームス K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Timeline update on wedding bands?",
-      "preview": "Hey! Just checking in on our matching wedding bands. The wedding is May 18 and I want to make sure we're still on track. Can you send a quick update...",
-      "pill": "Status",
+      "subject": "結婚指輪に関するタイムラインの更新?",
+      "preview": "おい！ お揃いの結婚指輪をチェックしてみてください。 結婚式は5月18日ですが、順調に進んでいることを確認したいと思っています。 簡単なアップデートを送っていただけますか...",
+      "pill": "状態",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "ザ・ノット",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review on your storefront",
-      "preview": "A couple recently reviewed your business on The Knot. See what they had to say and respond...",
+      "subject": "ストアフロントに新しいレビューが掲載されました",
+      "preview": "最近、あるカップルがあなたのビジネスを The Knot でレビューしました。 彼らが何を言ったかを見て、答えてください...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
+  "autodraft": "こんにちは、レイチェル！ あなたの家族のダイヤモンドを中心にリングをデザインするお手伝いをしたいと思っています。それは私の一番やりたいことの 1 つです。 今月は火曜日と木曜日の午後に空きがございます。 石とインスピレーションとなる写真をご持参ください。 相談時間は1時間程度で、強制はありません。 お時間をいただいてもよろしいでしょうか？",
   "math": {
     "pricePerBooking": "$5,000",
-    "bookingUnit": "custom piece",
+    "bookingUnit": "カスタムピース",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "保存された 1 人のクライアントは、4 年以上の Duet の料金を支払います。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
+  "categorizationSubtitle": "Duet はすべてのメールに自動的にタグを付けるため、最初に新しい相談リクエストが表示され、次にデザインの承認が表示され、ベンダーのニュースレターは表示されません。 サプライヤーのプロモーションに隠れた 5,000 ドルの問い合わせを見逃すことはもうありません。",
+  "draftSubtitle": "Duet はプロセス、材料、価格、音声を学習します。 相談リクエストが届くと、対応可能かどうか、何を持っていくか、プロセスがどのように機能するかなどを記載した完全な返信の草案が作成されます。 レビューして送信します。",
+  "agentSubtitle": "「アマンダの指輪を持った私たちはどこにいるの？」 「ジェームズのタイムライン更新の草案を作成してください。」 Duet はすべてのクライアント スレッドを知っています。尋ねてください。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "レイチェル・T",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Custom engagement ring consultation?",
-      "preview": "My partner and I are interested in a custom ring...",
-      "pill": "New Inquiry",
+      "subject": "オーダーメイドの婚約指輪のご相談は？",
+      "preview": "パートナーと私はカスタムリングに興味があります...",
+      "pill": "新規お問い合わせ",
       "pillColor": "red"
     },
     {
-      "from": "Amanda S.",
+      "from": "アマンダ S.",
       "avatarLetter": "A",
       "avatarColor": "blue",
-      "subject": "Re: 3D model v2 — looks perfect!",
-      "pill": "Design Approval",
+      "subject": "Re: 3D モデル v2 — 見た目は完璧です!",
+      "pill": "設計承認",
       "pillColor": "blue"
     },
     {
-      "from": "James K.",
+      "from": "ジェームス K.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Bands are ready — when can we pick up?",
-      "pill": "Ready for Pickup",
+      "subject": "バンドの準備は完了しました — いつ迎えに行けますか?",
+      "pill": "受け取り準備完了",
       "pillColor": "amber"
     },
     {
-      "from": "Emily W.",
+      "from": "エミリー W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Re: Consultation follow-up — love the sketches",
-      "pill": "Consultation",
+      "subject": "Re: 相談のフォローアップ — スケッチが大好き",
+      "pill": "相談",
       "pillColor": "amber"
     },
     {
-      "from": "Rio Grande Supply",
+      "from": "リオグランデサプライ",
       "avatarLetter": "R",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off platinum findings",
-      "pill": "Vendor/Supplier",
+      "subject": "春のセール — プラチナ製品が 15% オフ",
+      "pill": "ベンダー/サプライヤー",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Custom engagement ring consultation?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My partner and I are interested in a custom engagement ring. We have a family heirloom diamond we'd love to use. Do you have availability for a consultation this month?",
+    "subject": "Re: オーダーメイドの婚約指輪のご相談は？",
+    "originalFrom": "レイチェル・Tは次のように書いています。",
+    "originalText": "こんにちは！ パートナーと私はカスタムの婚約指輪に興味があります。 私たちには、ぜひ使いたい家宝のダイヤモンドがあります。 今月相談に空きはありますか？",
     "lines": [
-      "Hi Rachel!",
-      "I'd love to help you design something special around your family diamond. I have openings Tuesday and Thursday afternoons this month.",
-      "Bring the stone and any inspiration photos — Pinterest boards, screenshots, anything helps. Consultations run about an hour and there's no obligation.",
-      "From there, the process is usually: sketch, 3D model, revisions, then 3-4 weeks in production. Want me to hold a time for you?"
+      "こんにちは、レイチェル！",
+      "ご家族のダイヤモンドを中心に特別なものをデザインするお手伝いをさせていただければ幸いです。 今月は火曜日と木曜日の午後に空きがございます。",
+      "石とインスピレーションの源となる写真を持参してください。Pinterest ボード、スクリーンショット、何でも役に立ちます。 相談時間は1時間程度で、強制はありません。",
+      "そこから通常、スケッチ、3D モデル、修正というプロセスが行われ、その後、制作に 3 ～ 4 週間かかります。 お時間をいただいてもよろしいでしょうか？"
     ],
-    "highlightText": "sketch, 3D model, revisions, then 3-4 weeks in production",
+    "highlightText": "スケッチ、3D モデル、改訂後、制作に 3 ～ 4 週間かかります",
     "tooltipFeatures": [
-      "Knows your process & timeline",
-      "Drafts in your voice",
-      "Includes consultation details automatically",
-      "Learns over time"
+      "プロセスとタイムラインを把握している",
+      "あなたの声の下書き",
+      "相談内容を自動的に含める",
+      "時間の経過とともに学習します"
     ]
   },
   "agent": {
-    "userMessage": "Where are we with Amanda's engagement ring?",
-    "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
-    "followUp": "Draft a timeline update for James about the wedding bands",
-    "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
+    "userMessage": "アマンダの婚約指輪はどこにあるの？",
+    "agentResponse": "アマンダは 2 月 14 日に 3D モデル (v2) を承認しました。あなたは、3 週間の見積もりで 2 月 16 日に生産を開始することを確認しました。 完成は 3 月 9 日ごろになる予定です。彼女の最後のメールは彫刻のオプションについて尋ねるものでしたが、まだ返答はありません。 返信の下書きをしてもらいたいですか？",
+    "followUp": "結婚指輪に関するジェームズのタイムライン更新の草案を作成する",
+    "followUpResponse": "終わり！ 私はジェームズに、お揃いの結婚指輪が最終仕上げに入っており、5月18日の結婚式に先駆けて3月7日金曜日までに受け取りの準備ができることを確認する返信文を作成した。 レビューして送信する準備ができました。"
   },
-  "testimonialsTitle": "Loved by jewelry designers",
+  "testimonialsTitle": "ジュエリーデザイナーからも愛される",
   "testimonials": [
     {
-      "name": "Marco R.",
-      "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "name": "マルコ R.",
+      "title": "カスタムジュエリーデザイナー、LA",
+      "quote": "各カスタム部分では、数週間にわたって 10 ～ 15 通の電子メールが生成されます。 これに 8 人のアクティブなクライアントを掛けると、私は溺れそうになりました。 Duet の下書きは、更新の返信、相談の確認、タイムラインの回答をすべて私の声でデザインします。 キャストの合間に確認して送信ボタンを押します。",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah L.",
-      "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "name": "サラ・L.",
+      "title": "ゴールドスミス & スタジオオーナー、ブルックリン",
+      "quote": "返信に 3 日かかったために、私は 7,000 ドルの婚約指輪の手数料を失いました。カップルは 2 時間以内に返信してくれた人に連絡しました。 Duet になってからは、応答時間が 30 分未満になりました。 それはもう起こっていません。",
       "avatarKey": "sarah"
     },
     {
-      "name": "Danny K.",
-      "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "name": "ダニー K.",
+      "title": "ベンチジュエラー、シカゴ",
+      "quote": "私は懐中電灯を手に、1日8時間ベンチにいます。 はんだ付けの途中で相談の返事を打つのをやめることはできません。 私が仕事をしている間、Duet はすべての下書きを作成します。私は携帯電話をちらっと見て、承認し、完了します。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Alessia M.",
-      "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "name": "アレッシア M.",
+      "title": "ブライダル ジュエリー デザイナー、オースティン",
+      "quote": "婚約シーズンには、週に 20 件以上の相談リクエストが届きます。 Duet は、材料、スケジュール、価格帯、何を持っていくかなど、私のプロセス全体を学びました。 返信の下書きはほとんど編集する必要がありません。 11 月から 2 月までの絶対的な救世主です。",
       "avatarKey": "francesca"
     },
     {
-      "name": "Nina C.",
-      "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "name": "ニーナ・C",
+      "title": "カスタムリングスペシャリスト、ポートランド",
+      "quote": "3D 修正メールが私の夜を蝕んでいました。 クライアントがフィードバックを送信し、私が更新の下書きを 5 回行ったり来たりします。 現在は、Duet が日常的な応答を処理し、私は設計上の決定にのみ介入します。 夜を取り戻しました。",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ジュエリーを作る日々を過ごし、\n それに関するメールには返信しません。",
+  "ctaSubline": "無料トライアルを開始してください。 30 秒で受信トレイに接続します。",
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Duet は、参考写真やデザインの添付ファイルを含む電子メールを処理できますか?",
+      "answer": "はい。 Duet は添付ファイルを含む電子メール スレッド全体を確認できるため、クライアントがインスピレーションの写真やデザインのフィードバックを送信したときのコンテキストを理解できます。 画像を説明することはありませんが、クライアントが参照写真を送信しただけであることを認識し、受信の確認、デザインに関する明確な質問、または通常のワークフローに基づいた次のステップの提供など、適切な返信の下書きを作成します。"
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "私のカスタム プロジェクトには、10 件以上のメッセージを含む長い電子メール スレッドがあります。 Duetはそれらに続くことができますか？",
+      "answer": "まさに、Duet が輝くのはそこです。 スレッド履歴全体 (相談メモ、デザインの改訂、素材の選択、タイムラインの更新) を読み取るため、すべての下書き返信に完全なコンテキストが含まれます。 クライアントが「私の指輪の状態はどうですか？」と尋ねたとき。 電子メール #14 では、Duet はどのリングがどの段階にあるかを把握しており、正確な更新の草案を作成しています。 3 か月分のメールを自分で読み返す必要はもうありません。"
     }
   ],
-  "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
+  "pricingNote": "1 個あたり $5,000 の場合、節約された手数料 1 回で 4 年間以上の Pro の支払いが可能になります。"
 }

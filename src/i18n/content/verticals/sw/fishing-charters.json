@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail kwa Hati za Uvuvi | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia nahodha wa kukodisha wavuvi kujibu barua pepe za kuweka nafasi papo hapo - hata kutoka kwa maji. Majibu yaliyoandaliwa na AI pamoja na bei, sera na sauti yako.",
+  "heroBadge": "Inaaminiwa na manahodha 500+ wa kukodishwa",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa kwenye maji",
+  "heroSubline": "Duet hujifunza kuhusu bei, sera na sauti yako - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi kwa jibu la polepole.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "Upatikanaji Julai 12 kwa watu 4?",
+      "preview": "Habari! Sisi ni kundi la watu 4 tunatazamia kuweka nafasi ya safari ya kuvua samaki mnamo Julai 12. Je, unapatikana? Bei gani kwa siku nzima?",
+      "pill": "Ili Kujibu",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Tulete nini?",
+      "preview": "Hujambo, tumeweka nafasi kwa ajili ya Jumamosi. Swali la haraka - tunapaswa kuleta nini? Unatoa vijiti na tackle au tulete zetu...",
+      "pill": "Swali",
       "pillColor": "amber"
     },
     {
       "from": "Mike & Lisa R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Inahitajika kupanga tena Jumapili",
+      "preview": "Samahani kwa taarifa iliyochelewa lakini utabiri wa hali ya hewa unaonekana kuwa mbaya siku ya Jumamosi. Je, tunaweza kuhamia Jumapili badala yake? Wakati huo huo...",
+      "pill": "Kuhifadhi",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Maoni mapya ya tangazo lako",
+      "preview": "Msafiri alikagua biashara yako hivi majuzi. Angalia walichosema na ujibu...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Habari Sarah! Tarehe 12 Julai imefunguliwa kwa saa 4. Safari za siku nzima huchukua saa 8, kuanzia saa 6 asubuhi. Vijiti, tackle, chambo na leseni zote zimejumuishwa - jiletee tu mafuta ya jua, maji na ubaridi kwa samaki wako. Unataka niifungie ndani?",
   "math": {
     "pricePerBooking": "$500",
-    "bookingUnit": "charter",
+    "bookingUnit": "mkataba",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "Uhifadhi mmoja uliohifadhiwa unalipa kwa mwaka wa Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, maswali ya pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa safari uliozikwa chini ya arifa za TripAdvisor.",
+  "draftSubtitle": "Duet hujifunza kuhusu bei, sera na sauti yako. Ombi la kuweka nafasi linapofika, huandaa jibu kamili lenye maelezo ya safari, bei na kile cha kuleta. Unakagua na kutuma.",
+  "agentSubtitle": "\"Ni siku gani zimefunguliwa wiki ijayo?\" \"Rasimu ya jibu kwa Sarah pamoja na upatikanaji.\" Duet anajua kikasha chako na kalenda - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "Upatikanaji Julai 12 kwa watu 4?",
+      "preview": "Sisi ni kundi la watu 4 wanaotaka kuweka nafasi ya safari ya uvuvi...",
+      "pill": "Jibu Sasa",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: Uhifadhi umethibitishwa - Jumamosi 7AM",
+      "pill": "Imehifadhiwa",
       "pillColor": "blue"
     },
     {
       "from": "Mike R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Tulete nini Jumamosi?",
+      "pill": "Swali",
       "pillColor": "amber"
     },
     {
       "from": "FishingBooker",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Muhtasari wa nafasi yako ya kila wiki",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "West Marine",
       "avatarLetter": "W",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "subject": "Uuzaji wa majira ya kuchipua - punguzo la 20% kwa ununuzi",
+      "pill": "Matangazo",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: Upatikanaji Julai 12 kwa watu 4?",
+    "originalFrom": "Sarah M. aliandika:",
+    "originalText": "Habari! Sisi ni kundi la watu 4 tunatazamia kuweka nafasi ya safari ya kuvua samaki mnamo Julai 12. Je, unapatikana? Bei gani kwa siku nzima?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "Habari Sarah!",
+      "Tarehe 12 Julai ni wazi kwa 4. Safari za siku nzima ni $500 na hudumu saa 8 kuanzia 6 AM kutoka marina.",
+      "Vyombo vyote, chambo na leseni za uvuvi zimejumuishwa - jiletee tu kinga ya jua na ubaridi.",
+      "Unataka niifungie ndani?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "Tarehe 12 Julai ni wazi kwa 4. Safari za siku nzima ni $500",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "Anajua bei na upatikanaji wako",
+      "Rasimu katika sauti yako",
+      "Inajumuisha maelezo ya safari kiotomatiki",
+      "Anajifunza kwa muda"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Ni siku gani bado zimefunguliwa wiki ijayo?",
+    "agentResponse": "Kulingana na kalenda yako, una fursa za kufungua Jumanne, Alhamisi na Jumamosi wiki ijayo. Jumatatu na Jumatano zimehifadhiwa kikamilifu (hati 2 kila moja). Je, ungependa niandike jibu kwa maswali yoyote yanayosubiri kuhusu tarehe hizi?",
+    "followUp": "Rasimu ya jibu kwa Sarah pamoja na upatikanaji wa tarehe 12 Julai",
+    "followUpResponse": "Imekamilika! Niliandaa jibu kwa Sarah nikithibitisha Julai 12 kwa wageni 4 kwa $500. Inajumuisha maelezo yako ya kawaida ya safari na eneo la mkutano. Tayari kukagua na kutuma."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Inapendwa na manahodha wa katiba",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
-      "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "name": "Kapteni Mike D.",
+      "title": "Nahodha wa Mkataba wa Offshore, FL",
+      "quote": "Wakati wa msimu wa kilele ningepoteza nafasi 2-3 kwa wiki kwa sababu tu sikuweza kujibu haraka vya kutosha kutoka kwenye mashua. Duet huandaa majibu kwa bei na maelezo yangu ya safari - Nimegonga tuma kati ya data nilizopata.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "title": "Biashara ya Mkataba wa Familia, AU",
+      "quote": "Tunaendesha boti mbili na kiasi cha barua pepe wakati wa majira ya joto ni wazimu. Duet hupanga maombi ya kuhifadhi kutoka kwa kila kitu kingine na majibu ya rasimu ambayo yanafanana kabisa na sisi. Kubadilisha mchezo kabisa.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "title": "Mwongozo wa Uvuvi wa Ndani, TX",
+      "quote": "Nilikuwa nikitumia saa moja kila usiku kujibu maswali yale yale ya upatikanaji. Sasa Duet inashughulikia. Muda wangu wa kujibu ulienda kutoka saa hadi dakika na sijapoteza nafasi tangu wakati huo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "title": "Meneja wa Ofisi ya Mkataba, HI",
+      "quote": "Kusimamia barua pepe za manahodha 4 ilikuwa kazi ya muda wote. Duet huainisha kila kitu na majibu ya rasimu kwa kutumia mashua inayofaa, bei inayofaa, nahodha anayefaa. Ni kama kuwa na mimi mwingine.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Andrea S.",
       "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "quote": "Ilikuwa na shaka kuwa AI inaweza kushughulikia barua pepe za kukodisha uvuvi. Lakini ilijifunza aina za safari zetu, ni nini kilichojumuishwa, hata sera yetu ya kughairi. Wateja hawawezi kutofautisha.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tumia msimu wa kilele juu ya maji,\nhaipo kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Je, Duet inafanya kazi kwa uhifadhi na upatikanaji wa barua pepe?",
+      "answer": "Kabisa. Duet hujifunza aina za safari, bei, upatikanaji na sera. Ombi la kuweka nafasi linapokuja, huandaa jibu kamili na maelezo sahihi - bei, nini kimejumuishwa, eneo la mkutano, nini cha kuleta. Unakagua na ugonge tuma."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Niko juu ya maji siku nzima. Je, ninaweza kutumia Duet kutoka kwa simu yangu?",
+      "answer": "Ndiyo. Duet hufanya kazi na Gmail na Outlook, kwa hivyo inafanya kazi popote barua pepe yako inafanya kazi - ikiwa ni pamoja na simu yako. Rasimu huonekana kiotomatiki. Kati ya data iliyopokelewa, unakagua na kutuma kwa mguso mmoja. Manahodha wengi wanatuambia inawaokoa saa 1-2 za muda wa barua pepe kwa siku wakati wa msimu wa kilele."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "Kwa $500/charter, nafasi moja iliyohifadhiwa hulipa kwa zaidi ya mwaka mmoja wa Pro."
 }

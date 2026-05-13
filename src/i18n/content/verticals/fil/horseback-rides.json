@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail para sa Horseback Rides at Trail Guides | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga operator ng trail ride na tumugon kaagad sa mga email sa pag-book — kahit na mula sa saddle. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga kinakailangan sa rider, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 300+ trail guide",
+  "heroHeadline": "Ang iyong email assistant habang ikaw ay nasa trail",
+  "heroSubline": "Natututuhan ng duet ang iyong mga uri ng biyahe, pagpepresyo, mga kinakailangan sa rider, at kundisyon ng trail — pagkatapos ay mag-draft ng mga tugon sa email para hindi ka mawalan ng booking sa mabagal na pagtugon.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "Group booking para sa 6 — Sabado ng umaga?",
+      "preview": "Hi! Kami ay isang pamilya ng 6 (2 matanda, 4 na bata edad 8-14) at gustong mag-book ng trail ride ngayong Sabado ng umaga. May availability ka ba? Ano ang presyo bawat tao?",
+      "pill": "Upang Tumugon",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Tanong sa limitasyon ng timbang",
+      "preview": "Uy, interesado akong mag-book ng masasakyan ngunit gusto ko munang magtanong tungkol sa iyong mga kinakailangan sa timbang. Nasa 260 lbs ako — magiging isyu ba iyon...",
+      "pill": "Tanong",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "Amy at Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Sunset ride para sa anibersaryo?",
+      "preview": "Ipinagdiriwang namin ang aming ika-10 anibersaryo sa susunod na weekend at nakita namin ang iyong sunset ride sa Instagram. Available ba ito sa Biyernes ng gabi? Anumang espesyal na pakete...",
+      "pill": "Pagbu-book",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Bagong review para sa iyong listing",
+      "preview": "Sinuri kamakailan ng isang manlalakbay ang iyong negosyo. Tingnan kung ano ang kanilang sasabihin at tumugon...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Hoy Jessica! Bukas ang umaga ng Sabado para sa 6. Ang aming mga trail rides ay $100/tao at tumatakbo nang humigit-kumulang 90 minuto sa lambak. Ang mga batang 8+ ay tinatanggap — lahat kayo ay handa nang pumunta. Kailangan ng mga saradong paa, at nagbibigay kami ng mga helmet. Gusto mo bang i-book kita para sa 9 AM ride?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "sumakay",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Ang isang naka-save na biyahe ng grupo ay nagbabayad para sa higit sa dalawang taon ng Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong ng rider, at hindi kailanman ingay. Wala nang nawawalang pagtatanong ng grupo na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
+  "draftSubtitle": "Natutunan ng duet ang iyong mga uri ng biyahe, pagpepresyo, at mga kinakailangan. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may mga detalye ng trail, pagpepresyo, at kung ano ang isusuot. I-review at ipadala mo.",
+  "agentSubtitle": "\"Any rides open this weekend?\" \"Mag-draft ng tugon kay Jessica na may availability sa Sabado.\" Alam ng duet ang iyong inbox at kalendaryo — magtanong lang.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "Group booking para sa 6 — Sabado ng umaga?",
+      "preview": "Kami ay isang pamilya ng 6 na naghahanap upang mag-book ng isang trail ride...",
+      "pill": "Tumugon Ngayon",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Re: Nakumpirma ang pagsakay sa paglubog ng araw — Biyernes 5:30 PM",
+      "pill": "Naka-book",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Limitasyon sa timbang at mga kinakailangan sa karanasan?",
+      "pill": "Tanong",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Ang iyong lingguhang buod ng booking",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "Supply ng Traktora",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Spring sale — 15% diskwento sa feed at tack",
+      "pill": "Mga promosyon",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: Group booking para sa 6 — Sabado ng umaga?",
+    "originalFrom": "Sumulat si Jessica T.:",
+    "originalText": "Hi! Kami ay isang pamilya ng 6 (2 matanda, 4 na bata edad 8-14) at gustong mag-book ng trail ride ngayong Sabado ng umaga. May availability ka ba? Ano ang presyo bawat tao?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Hoy Jessica!",
+      "Bukas ang Sabado ng umaga para sa 6. Ang mga sakay sa trail ay $100/tao at tumatakbo nang halos 90 minuto sa lambak. Ang mga batang 8 pataas ay tinatanggap, kaya ang iyong buong crew ay handa nang pumunta.",
+      "Ang mga saradong paa na sapatos ay kinakailangan - ang mga bota ay pinakamahusay. Nagbibigay kami ng mga helmet at itinutugma ang bawat sakay sa isang kabayo batay sa laki at karanasan. Walang kinakailangang karanasan sa paunang pagsakay.",
+      "Gusto mo bang ikulong kita sa 9 AM ride?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "Bukas ang Sabado ng umaga para sa 6. Ang mga sakay sa trail ay $100/tao",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Alam ang iyong pagpepresyo at availability",
+      "Mga draft sa iyong boses",
+      "Awtomatikong kasama ang mga kinakailangan sa rider",
+      "Natututo sa paglipas ng panahon"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Any rides open this weekend? Gayundin, ano ang hitsura ng panahon?",
+    "agentResponse": "Batay sa iyong kalendaryo, mayroon kang mga pagbubukas sa Sabado sa 9 AM at 2 PM, at Linggo sa 10 AM. Ang forecast ng Sabado ay 72°F at maaraw — perpektong panahon para sa pagsakay. Ang Linggo ay nagpapakita ng 40% na posibilidad ng pag-ulan sa hapon, kaya ang morning slot ang mas ligtas na taya. Gusto ko bang mag-draft ng mga tugon sa anumang nakabinbing mga katanungan sa mga oras na ito?",
+    "followUp": "Mag-draft ng tugon kay Jessica na may availability sa Sabado",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon kay Jessica na nagkukumpirma sa Sabado ng 9 AM para sa 6 na sakay sa $100/tao. Kasama dito ang iyong karaniwang mga kinakailangan sa rider at kung ano ang isusuot. Handa nang suriin at ipadala."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Gustung-gusto ng mga operator ng trail ride",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "May-ari ng Ranch at Trail Guide, MT",
+      "quote": "Nasa labas ako sa trail 6 na oras sa isang araw na walang cell service. Sa oras na bumalik ako upang tumugon, kalahati ng mga tao ay nag-book sa ibang lugar. Ngayon, ang Duet ay bumubalangkas ng mga tugon kasama ang aking mga detalye sa pagpepresyo at pagsakay — nagre-review at nagpapadala lang ako kapag bumalik ako sa kamalig.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "quote": "Nakatanggap kami ng dose-dosenang mga email na nagtatanong ng parehong bagay — mga limitasyon sa timbang, kung ano ang isusuot, mga kinakailangan sa edad. Ang duet ang humahawak sa lahat ng ito at ang mga tugon ay kamukha ko. Walang ideya ang aking mga bisita na ito ay AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "Gabay sa Pagsakay sa Trail, CO",
+      "quote": "Pinapatay ako ng peak season. 30+ email sa isang araw bukod pa sa mga tumatakbong rides. Pinag-uuri-uri ng duet ang mga kahilingan sa pag-book mula sa ingay at mga draft na tugon na kinabibilangan ng lahat — pagpepresyo, kung ano ang dadalhin, ang lote. Ibinalik ko ang aking mga gabi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "Riding Instructor at Booking Manager, TX",
+      "quote": "Nagpapatakbo kami ng mga sunset rides, morning rides, at pribadong mga aralin — bawat isa ay may iba't ibang presyo at kinakailangan. Nalaman ng duet ang lahat sa loob ng isang linggo. Bumubuo ito ng tamang tugon para sa tamang uri ng pagsakay sa bawat oras.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "title": "Family Ranch at Trail Rides, CA",
+      "quote": "Ang mga sensitibong email ay ang pinakamasama — isang taong nagtatanong kung sila ay masyadong mabigat, o kung ang kanilang anak ay nasa hustong gulang na. Pinangangasiwaan ng duet ang mga may parehong pangangalaga na gagawin ko. Propesyonal, mabait, at tumpak. Iyon lang ang sulit.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Gumugol ng araw kasama ang mga kabayo, \nwala sa inbox mo.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Paano pinangangasiwaan ng Duet ang mga sensitibong tanong tungkol sa mga kinakailangan sa timbang o karanasan?",
+      "answer": "Natututuhan ng duet ang iyong mga partikular na patakaran at sinasalamin ang iyong tono. Kapag may nagtanong tungkol sa mga limitasyon sa timbang o mga kinakailangan sa karanasan, tumutugon ito nang propesyonal at mainit — nagbabahagi ng impormasyong kailangan nila nang hindi ginagawang awkward. Isang beses mong itinakda ang tono at palagi itong sinusundan ng Duet, kaya pakiramdam ng bawat bisita ay iginagalang."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Magagawa ba ng Duet ang mga group booking na may iba't ibang pangangailangan ng rider?",
+      "answer": "Oo. Natutunan ng Duet ang iyong mga uri ng biyahe, laki ng grupo, minimum na edad, at anumang mga kinakailangan na partikular sa rider. Kapag nag-email ang isang pamilya o grupo tungkol sa booking, nag-draft ito ng tugon na sumasaklaw sa pagpepresyo para sa buong grupo, kung ano ang kailangang malaman ng bawat rider, at mga available na time slot. Sinusuri at ipinapadala mo — hindi na kailangan ng pabalik-balik."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "Sa $100/tao para sa isang grupo ng 6, ang isang naka-save na biyahe ay magbabayad para sa higit sa dalawang taon na Pro."
 }

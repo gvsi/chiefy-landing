@@ -1,115 +1,114 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail ለፈረስ ግልቢያ እና መሄጃ መመሪያዎች | AI ኢሜይል ረዳት",
+  "metaDescription": "Duet Mail የዱካ ግልቢያ ኦፕሬተሮች ኢሜይሎችን ለማስያዝ በቅጽበት ምላሽ እንዲሰጡ ይረዳል - ከኮርቻም ጭምር። በAI የተነደፈ ምላሾች ከእርስዎ የዋጋ አሰጣጥ፣ የአሽከርካሪ መስፈርቶች እና ድምጽ ጋር።",
+  "heroBadge": "በ300+ ዱካ መመሪያዎች የታመነ",
+  "heroHeadline": "በዱካው ላይ እያሉ የኢሜይል ረዳትዎ",
+  "heroSubline": "Duet የእርስዎን የጉዞ አይነቶች፣ የዋጋ አሰጣጥ፣ የነጂ መስፈርቶች እና የዱካ ሁኔታዎችን ይማራል — ከዚያም ረቂቆቹን የኢሜይል ምላሾችን ያዘጋጃል ስለዚህ ለዝግተኛ ምላሽ ቦታ ማስያዝ በጭራሽ አያጡም።",
   "inboxEmails": [
     {
-      "from": "Jessica T.",
+      "from": "ጄሲካ ቲ.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "የቡድን ቦታ ማስያዝ ለ 6 - ቅዳሜ ጥዋት?",
+      "preview": "ሰላም! እኛ የ6 ቤተሰብ ነን (2 ጎልማሶች፣ 4 እድሜያቸው ከ8-14 የሆኑ ልጆች) እና ዛሬ ቅዳሜ ጥዋት የዱካ ግልቢያ ቦታ መያዝ እንፈልጋለን። ተደራሽነት አለህ? ለአንድ ሰው ዋጋው ስንት ነው?",
+      "pill": "ምላሽ ለመስጠት",
       "pillColor": "red"
     },
     {
-      "from": "Brian L.",
+      "from": "ብራያን ኤል.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "የክብደት ገደብ ጥያቄ",
+      "preview": "ሄይ፣ ግልቢያ ለማስያዝ ፍላጎት አለኝ ነገርግን በመጀመሪያ ስለክብደት መስፈርቶችዎ መጠየቅ ፈልጌ ነበር። እኔ ወደ 260 ፓውንድ አካባቢ ነኝ - ያ ችግር ይሆናል?",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "ኤሚ እና ዳን ደብሊው",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "ለበዓል አመታዊ ጀንበር ስትጠልቅ?",
+      "preview": "በሚቀጥለው ቅዳሜና እሁድ 10ኛ አመታችንን እያከበርን ነው እና በ Instagram ላይ የፀሐይ መጥለቅ ጉዞዎን አይተናል። አርብ ምሽት ይገኛል? ማንኛውም ልዩ ፓኬጆች...",
+      "pill": "ቦታ ማስያዝ",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "ለእርስዎ ዝርዝር አዲስ ግምገማ",
+      "preview": "አንድ ተጓዥ ንግድዎን በቅርቡ ገምግሟል። የሚሉትን እዩ እና ምላሽ ይስጡ...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "ሄይ ጄሲካ! ቅዳሜ ጥዋት ለ 6 ክፍት ነው። የጉዞ ግልቢያችን 100 ዶላር በሰዉ ነው እና በሸለቆው ውስጥ 90 ደቂቃ ያህል ይሮጣል። ልጆች 8+ እንኳን ደህና መጡ - ሁላችሁም መሄድ ጥሩ ነው። የተዘጉ ጫማዎች ያስፈልጋሉ, እና የራስ ቁር እናቀርባለን. ለ9 AM ጉዞ ቦታ ማስያዝ ትፈልጋለህ?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "ማሽከርከር",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "አንድ የተቀመጠ የቡድን ጉዞ ከሁለት አመት በላይ የዱየት ክፍያ ይከፍላል።"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet በመጀመሪያ የቦታ ማስያዣ ጥያቄዎችን፣ የአሽከርካሪ ጥያቄዎችን ሁለተኛ እና ጫጫታ በጭራሽ እንዲያዩ ለእያንዳንዱ ኢሜል በራስ ሰር መለያ ይሰጣል። በTripAdvisor ማንቂያዎች የተቀበረ የቡድን ጥያቄ ከእንግዲህ አያመልጥም።",
+  "draftSubtitle": "Duet የእርስዎን የጉዞ አይነቶች፣ ዋጋ እና መስፈርቶች ይማራል። የቦታ ማስያዣ ጥያቄ ሲደርስ፣ የዱካ ዝርዝሮችን፣ የዋጋ አወጣጥ እና ምን እንደሚለብስ የተሟላ ምላሽ ያዘጋጃል። እርስዎ ይገምግሙ እና ይልካሉ።",
+  "agentSubtitle": "\"በዚህ ቅዳሜና እሁድ ማንኛውም ግልቢያ ክፍት ነው?\" \"ቅዳሜ በሚገኝበት ለጄሲካ ምላሽ አዘጋጅ።\" Duet የእርስዎን የገቢ መልእክት ሳጥን እና የቀን መቁጠሪያ ያውቃል - ይጠይቁ።",
   "categorizationEmails": [
     {
-      "from": "Jessica T.",
+      "from": "ጄሲካ ቲ.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "የቡድን ቦታ ማስያዝ ለ 6 - ቅዳሜ ጥዋት?",
+      "preview": "የዱካ ግልቢያ ቦታ ለመያዝ የምንፈልግ የ6 ሰዎች ቤተሰብ ነን...",
+      "pill": "አሁን ምላሽ ይስጡ",
       "pillColor": "red"
     },
     {
-      "from": "Amy W.",
+      "from": "ኤሚ ደብሊው",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "ድጋሚ፡ ጀንበር ስትጠልቅ ጉዞ ተረጋግጧል - አርብ 5፡30 ፒኤም",
+      "pill": "ተይዟል።",
       "pillColor": "blue"
     },
     {
-      "from": "Brian L.",
+      "from": "ብራያን ኤል.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "የክብደት ገደብ እና የልምድ መስፈርቶች?",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "የእርስዎ ሳምንታዊ ቦታ ማስያዝ ማጠቃለያ",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "የትራክተር አቅርቦት",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "የፀደይ ሽያጭ - 15% ቅናሽ ከምግብ እና ታክ",
+      "pill": "ማስተዋወቂያዎች",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "ድጋሚ፡ የቡድን ቦታ ማስያዝ ለ6 - ቅዳሜ ጥዋት?",
+    "originalFrom": "ጄሲካ ቲ. እንዲህ በማለት ጽፋለች:",
+    "originalText": "ሰላም! እኛ የ6 ቤተሰብ ነን (2 ጎልማሶች፣ 4 እድሜያቸው ከ8-14 የሆኑ ልጆች) እና ዛሬ ቅዳሜ ጥዋት የዱካ ግልቢያ ቦታ መያዝ እንፈልጋለን። ተደራሽነት አለህ? ለአንድ ሰው ዋጋው ስንት ነው?",
     "lines": [
       "Hey Jessica!",
       "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
       "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
       "Want me to lock you in for the 9 AM ride?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "ቅዳሜ ጥዋት ለ 6 ሰፊ ክፍት ነው. የዱካ ጉዞዎች $ 100 / ሰው ናቸው",
     "tooltipFeatures": [
       "Knows your pricing & availability",
       "Drafts in your voice",
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "በዚህ ቅዳሜና እሁድ ክፍት የሆነ ግልቢያ አለ? በተጨማሪም የአየር ሁኔታው ​​ምን ይመስላል?",
+    "agentResponse": "በእርስዎ የቀን መቁጠሪያ መሰረት፡ ቅዳሜ በ9፡00 እና በ2፡00፡ እና እሁድ በ10፡00፡ ክፍት፡ አሎት። የቅዳሜ ትንበያ 72°F እና ፀሐያማ ነው - ፍጹም የመሳፈሪያ የአየር ሁኔታ። እሁድ ከሰአት በኋላ የዝናብ እድል 40% ያሳያል፣ ስለዚህ የጠዋቱ ማስገቢያ በጣም ደህንነቱ የተጠበቀ ውርርድ ነው። በእነዚህ ጊዜያት በመጠባበቅ ላይ ላሉት ጥያቄዎች ምላሾችን መቅረጽ ትፈልጋለህ?",
+    "followUp": "ከቅዳሜው ተገኝነት ጋር ለጄሲካ ምላሽ ይሳሉ",
+    "followUpResponse": "ተከናውኗል! ቅዳሜ በ9 AM ለ6 አሽከርካሪዎች በ$100 በሰዉ የሚያረጋግጥ ለጄሲካ ምላሽ አዘጋጅቻለሁ። የእርስዎን መደበኛ የአሽከርካሪ መስፈርቶች እና ምን እንደሚለብሱ ያካትታል። ለመገምገም እና ለመላክ ዝግጁ።"
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "በዱካ ግልቢያ ኦፕሬተሮች የተወደዱ",
   "testimonials": [
     {
-      "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "name": "ጄክ ኤች.",
+      "title": "የእርባታ ባለቤት እና መሄጃ መመሪያ፣ ኤም.ቲ",
+      "quote": "ምንም የሕዋስ አገልግሎት ሳይኖር በቀን 6 ሰአታት መንገድ ላይ ነኝ። መልስ ለመስጠት ስመለስ ግማሾቹ ሰዎች ሌላ ቦታ አስይዘዋል። አሁን Duet ምላሾችን ከዋጋ አወጣጥ እና ከግልቢያ ዝርዝሮች ጋር ይቀርፃል - ወደ ጎተራ ስመለስ ገምግሜ እልካለሁ።",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "name": "ማሪያ ሲ.",
+      "title": "የፈረስ ጉዞ ኦፕሬተር ፣ AZ",
+      "quote": "ተመሳሳይ ነገር የሚጠይቁ በደርዘን የሚቆጠሩ ኢሜይሎች እናገኛለን - የክብደት ገደቦች ፣ ምን እንደሚለብሱ ፣ የዕድሜ መስፈርቶች። Duet ሁሉንም ይይዛል እና ምላሾቹ ልክ እንደኔ ይሰማሉ። የእኔ እንግዶች AI መሆኑን አያውቁም.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "name": "ታይለር ኤስ.",
+      "title": "መሄጃ ግልቢያ መመሪያ፣ CO",
+      "quote": "ከፍተኛ ወቅት እየገደለኝ ነበር። በቀን ከ30 በላይ ኢሜይሎች በሩጫ ግልቢያ ላይ። Duet ሁሉንም ነገር ያካተቱ የቦታ ማስያዣ ጥያቄዎችን ከጩኸት እና ረቂቆች ምላሾችን ይደረድራል - ዋጋ አወጣጥ፣ ምን እንደሚያመጣ፣ ዕጣ። ምሽቶቼን መለስኩ.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "name": "ራቸል ኤም.",
+      "title": "ግልቢያ አስተማሪ እና ቦታ ማስያዝ ሥራ አስኪያጅ፣ TX",
+      "quote": "ጀንበር ስትጠልቅ ግልቢያዎችን፣ የጠዋት ጉዞዎችን እና የግል ትምህርቶችን እናካሂዳለን - እያንዳንዳቸው የተለያየ ዋጋ እና መስፈርቶች አሏቸው። Duet ሁሉንም የተማረው በሳምንት ውስጥ ነው። ለትክክለኛው የጉዞ አይነት በእያንዳንዱ ጊዜ ትክክለኛውን ምላሽ ያዘጋጃል።",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "name": "ዳያን ኬ.",
+      "title": "የቤተሰብ እርባታ እና መሄጃ ግልቢያ፣ CA",
+      "quote": "ሚስጥራዊነት ያላቸው ኢሜይሎች በጣም መጥፎዎች ነበሩ - አንድ ሰው በጣም ከባድ እንደሆኑ ወይም ልጃቸው እድሜው ላይ ከሆነ ጠየቀ። Duet እኔ የምፈልገው ተመሳሳይ እንክብካቤ ያላቸውን ያስተናግዳል። ሙያዊ ፣ ደግ እና ትክክለኛ። ያ ብቻ ነው የሚክስ።",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ቀኑን ከፈረሶች ጋር ያሳልፉ ፣\nበገቢ መልእክት ሳጥንዎ ውስጥ አይደለም።",
+  "ctaSubline": "ነፃ ሙከራዎን ይጀምሩ። የገቢ መልእክት ሳጥንዎን በ30 ሰከንድ ውስጥ ያገናኙ።",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Duet ስለ ክብደት ወይም የልምድ መስፈርቶች ስሱ ጥያቄዎችን እንዴት ይቆጣጠራል?",
+      "answer": "Duet የእርስዎን ልዩ ፖሊሲዎች ይማራል እና የእርስዎን ድምጽ ያንጸባርቃል። አንድ ሰው ስለ ክብደት ገደቦች ወይም የልምድ መስፈርቶች ሲጠይቅ፣ በሙያዊ እና ሞቅ ያለ ምላሽ ይሰጣል - የሚፈልጉትን መረጃ ሳያስቸግር ማጋራት። ድምጹን አንድ ጊዜ አዘጋጅተዋል እና Duet በተከታታይ ይከተለዋል፣ ስለዚህ እያንዳንዱ እንግዳ እንደተከበረ ይሰማዋል።"
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Duet የቡድን ምዝገባዎችን ከተለያዩ የአሽከርካሪ ፍላጎቶች ጋር ማስተናገድ ይችላል?",
+      "answer": "አዎ። Duet የእርስዎን የጉዞ አይነቶች፣ የቡድን መጠኖች፣ የእድሜ ትንሹን እና ማናቸውንም ነጂ-ተኮር መስፈርቶችን ይማራል። ቤተሰብ ወይም ቡድን ስለ ቦታ ማስያዝ ኢሜል ሲልኩ ለሙሉ ቡድን ዋጋ መስጠትን፣ እያንዳንዱ አሽከርካሪ ማወቅ ያለበትን እና የሚገኙ የሰዓት ክፍተቶችን የሚሸፍን ምላሽ ይቀርፃል። እርስዎ ይገምግሙ እና ይልካሉ - ወደኋላ እና ወደፊት አያስፈልግም።"
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "በ$100/ሰው ለ6 ቡድን አንድ የተቀመጠ ግልቢያ ከሁለት አመት በላይ ላለው ፕሮ."
 }

@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-  "heroBadge": "Trusted by 500+ charter captains",
-  "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail para sa Fishing Charter | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga kapitan ng charter ng pangingisda na tumugon kaagad sa mga email sa pag-book — kahit na mula sa tubig. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga patakaran, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 500+ charter captain",
+  "heroHeadline": "Ang iyong email assistant habang nasa tubig ka",
+  "heroSubline": "Natutunan ng Duet ang iyong pagpepresyo, mga patakaran, at boses — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng booking sa isang mabagal na tugon.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
-      "pill": "To Respond",
+      "subject": "Availability Hulyo 12 para sa 4 na tao?",
+      "preview": "Hi! Kami ay isang grupo ng 4 na naghahanap upang mag-book ng isang fishing trip sa Hulyo 12. Mayroon ka bang magagamit? Magkano ang presyo para sa isang buong araw?",
+      "pill": "Upang Tumugon",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "What should we bring?",
-      "preview": "Hey, we're booked for Saturday. Quick question — what should we bring? Do you provide rods and tackle or should we bring our own...",
-      "pill": "Question",
+      "subject": "Ano ang dapat nating dalhin?",
+      "preview": "Uy, naka-book na kami para sa Sabado. Mabilis na tanong - ano ang dapat nating dalhin? Nagbibigay ba kayo ng mga rod at tackle o dapat kaming magdala ng sarili naming...",
+      "pill": "Tanong",
       "pillColor": "amber"
     },
     {
-      "from": "Mike & Lisa R.",
+      "from": "Mike at Lisa R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Need to reschedule to Sunday",
-      "preview": "Sorry for the late notice but the weather forecast looks rough on Saturday. Can we move to Sunday instead? Same time...",
-      "pill": "Booking",
+      "subject": "Kailangang mag-reschedule sa Linggo",
+      "preview": "Paumanhin para sa late notice ngunit ang taya ng panahon ay mukhang mahirap sa Sabado. Maaari ba tayong lumipat sa Linggo? Sabay time...",
+      "pill": "Pagbu-book",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Bagong review para sa iyong listing",
+      "preview": "Sinuri kamakailan ng isang manlalakbay ang iyong negosyo. Tingnan kung ano ang kanilang sasabihin at tumugon...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
+  "autodraft": "Hoy Sarah! Ang Hulyo 12 ay bukas para sa 4. Ang mga full-day trip ay tumatakbo nang 8 oras, simula sa 6 AM. Lahat ng pamalo, tackle, pain, at lisensya ay kasama — magdala lang ng sunscreen, tubig, at palamig para sa iyong huli. Gusto mo bang i-lock ko ito?",
   "math": {
     "pricePerBooking": "$500",
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "Ang isang naka-save na booking ay nagbabayad para sa isang taon ng Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong, at hindi kailanman ingay. Wala nang nawawalang pagtatanong sa paglalakbay na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
+  "draftSubtitle": "Natutunan ng duet ang iyong pagpepresyo, mga patakaran, at tono. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may mga detalye ng biyahe, pagpepresyo, at kung ano ang dadalhin. I-review at ipadala mo.",
+  "agentSubtitle": "\"Aling mga araw ang bukas sa susunod na linggo?\" \"Mag-draft ng tugon kay Sarah na may availability.\" Alam ng duet ang iyong inbox at kalendaryo — magtanong lang.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
       "avatarLetter": "S",
       "avatarColor": "pink",
-      "subject": "Availability July 12 for 4 people?",
-      "preview": "We're a group of 4 looking to book a fishing trip...",
-      "pill": "Respond Now",
+      "subject": "Availability Hulyo 12 para sa 4 na tao?",
+      "preview": "Kami ay isang grupo ng 4 na naghahanap upang mag-book ng isang fishing trip...",
+      "pill": "Tumugon Ngayon",
       "pillColor": "red"
     },
     {
       "from": "David K.",
       "avatarLetter": "D",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 7AM",
-      "pill": "Booked",
+      "subject": "Re: Nakumpirma ang booking — Sabado 7AM",
+      "pill": "Naka-book",
       "pillColor": "blue"
     },
     {
       "from": "Mike R.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "What should we bring on Saturday?",
-      "pill": "Question",
+      "subject": "Ano ang dapat nating dalhin sa Sabado?",
+      "pill": "Tanong",
       "pillColor": "amber"
     },
     {
       "from": "FishingBooker",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Ang iyong lingguhang buod ng booking",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -94,79 +93,79 @@
       "avatarLetter": "W",
       "avatarColor": "lavender",
       "subject": "Spring sale — 20% off tackle",
-      "pill": "Promotions",
+      "pill": "Mga promosyon",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "sarah.m@email.com",
-    "subject": "Re: Availability July 12 for 4 people?",
-    "originalFrom": "Sarah M. wrote:",
-    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "subject": "Re: Availability July 12 para sa 4 na tao?",
+    "originalFrom": "Sumulat si Sarah M.:",
+    "originalText": "Hi! Kami ay isang grupo ng 4 na naghahanap upang mag-book ng isang fishing trip sa Hulyo 12. Mayroon ka bang magagamit? Magkano ang presyo para sa isang buong araw?",
     "lines": [
-      "Hey Sarah!",
-      "July 12 is wide open for 4. Full-day trips are $500 and run 8 hours starting at 6 AM from the marina.",
-      "All gear, bait, and fishing licenses are included — just bring sunscreen and a cooler.",
-      "Want me to lock it in?"
+      "Hoy Sarah!",
+      "Ang Hulyo 12 ay malawak na bukas para sa 4. Ang mga full-day trip ay $500 at tatakbo ng 8 oras simula 6 AM mula sa marina.",
+      "Kasama ang lahat ng gear, pain, at lisensya sa pangingisda — magdala lang ng sunscreen at cooler.",
+      "Gusto mo bang i-lock ko ito?"
     ],
-    "highlightText": "July 12 is wide open for 4. Full-day trips are $500",
+    "highlightText": "Ang Hulyo 12 ay malawak na bukas para sa 4. Ang mga full-day trip ay $500",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes trip details automatically",
-      "Learns over time"
+      "Alam ang iyong pagpepresyo at availability",
+      "Mga draft sa iyong boses",
+      "Awtomatikong kasama ang mga detalye ng biyahe",
+      "Natututo sa paglipas ng panahon"
     ]
   },
   "agent": {
-    "userMessage": "Which days are still open next week?",
-    "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
-    "followUp": "Draft a reply to Sarah with the July 12 availability",
-    "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
+    "userMessage": "Aling mga araw ang bukas pa rin sa susunod na linggo?",
+    "agentResponse": "Batay sa iyong kalendaryo, mayroon kang mga pagbubukas sa Martes, Huwebes, at Sabado sa susunod na linggo. Ang Lunes at Miyerkules ay fully booked (2 charter bawat isa). Gusto ko bang mag-draft ng tugon sa anumang nakabinbing mga katanungan sa mga petsang ito?",
+    "followUp": "Mag-draft ng tugon kay Sarah na may available na Hulyo 12",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon kay Sarah na nagkukumpirma sa Hulyo 12 para sa 4 na bisita sa $500. Kasama dito ang iyong karaniwang mga detalye ng biyahe at lokasyon ng pagpupulong. Handa nang suriin at ipadala."
   },
-  "testimonialsTitle": "Loved by charter captains",
+  "testimonialsTitle": "Mahal ng mga charter captain",
   "testimonials": [
     {
-      "name": "Captain Mike D.",
+      "name": "Kapitan Mike D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "quote": "Sa peak season, mawawalan ako ng 2-3 booking sa isang linggo dahil lang sa hindi ako makasagot nang mabilis mula sa bangka. Duet draft ng mga tugon kasama ang aking mga detalye ng pagpepresyo at biyahe — Pinindot ko lang ang ipadala sa pagitan ng mga catch.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah & Tom K.",
-      "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "name": "Sina Sarah at Tom K.",
+      "title": "Business Charter ng Pamilya, O",
+      "quote": "Nagpapatakbo kami ng dalawang bangka at ang dami ng email sa tag-araw ay nakakabaliw. Ang duet ay nag-uuri ng mga kahilingan sa pag-book mula sa lahat ng iba pa at mga draft na tugon na katulad namin. Ganap na laro changer.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
-      "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "title": "Gabay sa Pangingisda sa Pampang, TX",
+      "quote": "Gumugugol ako ng isang oras gabi-gabi sa pagsagot sa parehong mga tanong sa availability. Ngayon ang Duet ang humahawak nito. Ang oras ng pagtugon ko ay naging ilang oras hanggang minuto at hindi pa ako nawawalan ng booking mula noon.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
-      "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "title": "Tagapamahala ng Charter Office, HI",
+      "quote": "Ang pamamahala ng mga email para sa 4 na kapitan ay isang full-time na trabaho. Kinakategorya ng duet ang lahat at nag-draft ng mga tugon sa tamang bangka, tamang presyo, tamang kapitan. Parang may iba na ako.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Andrea S.",
       "title": "Deep Sea Charters, NC",
-      "quote": "Was skeptical an AI could handle fishing charter emails. But it learned our trip types, what's included, even our cancellation policy. Clients can't tell the difference.",
+      "quote": "Nag-aalinlangan ang isang AI ay maaaring humawak ng mga email sa charter ng pangingisda. Ngunit natutunan nito ang aming mga uri ng biyahe, kung ano ang kasama, maging ang aming patakaran sa pagkansela. Hindi masasabi ng mga kliyente ang pagkakaiba.",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Gumugol ng peak season sa tubig, \nwala sa inbox mo.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Gumagana ba ang Duet para sa mga email sa booking at availability?",
+      "answer": "Talagang. Natutunan ng duet ang iyong mga uri ng biyahe, pagpepresyo, availability, at mga patakaran. Kapag pumasok ang isang booking inquiry, nag-draft ito ng kumpletong tugon na may mga tamang detalye — pagpepresyo, kung ano ang kasama, lokasyon ng pagpupulong, kung ano ang dadalhin. Suriin mo at i-tap ang ipadala."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Buong araw akong nasa tubig. Maaari ko bang gamitin ang Duet mula sa aking telepono?",
+      "answer": "Oo. Gumagana ang duet sa Gmail at Outlook, kaya gumagana ito saanman gumagana ang iyong email — kasama ang iyong telepono. Awtomatikong lumalabas ang mga draft. Sa pagitan ng mga catch, nagre-review ka at nagpapadala sa isang tap. Karamihan sa mga kapitan ay nagsasabi sa amin na nakakatipid ito sa kanila ng 1-2 oras ng oras ng email bawat araw sa panahon ng peak season."
     }
   ],
-  "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
+  "pricingNote": "Sa $500/charter, ang isang naka-save na booking ay magbabayad ng higit sa isang taon na Pro."
 }

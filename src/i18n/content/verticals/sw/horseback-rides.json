@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail kwa Wapanda Farasi & Waelekezi wa Njia | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia waendeshaji safari za trail kujibu barua pepe za kuweka nafasi papo hapo - hata kutoka kwa tandiko. Majibu yaliyoandaliwa na AI pamoja na bei, mahitaji ya waendeshaji gari na sauti yako.",
+  "heroBadge": "Inaaminiwa na waongozaji 300+",
+  "heroHeadline": "Msaidizi wako wa barua pepe ukiwa kwenye harakati",
+  "heroSubline": "Duet hujifunza aina zako za usafiri, bei, mahitaji ya waendeshaji gari na masharti ya safari yako - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi kwa jibu la polepole.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "Uhifadhi wa kikundi kwa 6 - Jumamosi asubuhi?",
+      "preview": "Habari! Sisi ni familia ya 6 (watu wazima 2, watoto 4 wenye umri wa miaka 8-14) na tungependa kuhifadhi nafasi ya safari Jumamosi hii asubuhi. Je, una upatikanaji? Bei gani kwa kila mtu?",
+      "pill": "Ili Kujibu",
       "pillColor": "red"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "Swali la kikomo cha uzito",
+      "preview": "Hujambo, ningependa kuweka nafasi ya usafiri lakini nilitaka kuuliza kuhusu mahitaji yako ya uzito kwanza. Nina karibu pauni 260 - hiyo itakuwa suala ...",
+      "pill": "Swali",
       "pillColor": "amber"
     },
     {
       "from": "Amy & Dan W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "Usafiri wa machweo kwa maadhimisho ya miaka?",
+      "preview": "Tunasherehekea kumbukumbu ya miaka 10 wikendi ijayo na tuliona safari yako ya machweo kwenye Instagram. Je, inapatikana Ijumaa jioni? Vifurushi vyovyote maalum...",
+      "pill": "Kuhifadhi",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "Maoni mapya ya tangazo lako",
+      "preview": "Msafiri alikagua biashara yako hivi majuzi. Angalia walichosema na ujibu...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "Habari Jessica! Jumamosi asubuhi ni wazi kwa 6. Uendeshaji wetu wa uchaguzi ni $100/mtu na huendesha kama dakika 90 kupitia bonde. Watoto walio na umri wa miaka 8+ wanakaribishwa - nyote mko tayari kwenda. Viatu vilivyofungwa vinahitajika, na tunatoa helmeti. Je, ungependa nikuwekee nafasi kwa ajili ya safari ya 9 AM?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "panda",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "Safari moja ya kikundi iliyohifadhiwa hulipa kwa zaidi ya miaka miwili ya Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, maswali ya waendeshaji wa pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa kikundi uliozikwa chini ya arifa za TripAdvisor.",
+  "draftSubtitle": "Duet hujifunza aina zako za usafiri, bei na mahitaji. Uchunguzi wa kuhifadhi unapofika, huandaa jibu kamili na maelezo ya uchaguzi, bei na mavazi. Unakagua na kutuma.",
+  "agentSubtitle": "\"Uendeshaji wowote umefunguliwa wikendi hii?\" \"Rasimu ya jibu kwa Jessica na upatikanaji wa Jumamosi.\" Duet anajua kikasha chako na kalenda - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "Uhifadhi wa kikundi kwa 6 - Jumamosi asubuhi?",
+      "preview": "Sisi ni familia ya watu 6 tunatazamia kuweka nafasi ya safari...",
+      "pill": "Jibu Sasa",
       "pillColor": "red"
     },
     {
       "from": "Amy W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Re: Safari ya machweo imethibitishwa - Ijumaa 5:30 PM",
+      "pill": "Imehifadhiwa",
       "pillColor": "blue"
     },
     {
       "from": "Brian L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "Kikomo cha uzito na mahitaji ya uzoefu?",
+      "pill": "Swali",
       "pillColor": "amber"
     },
     {
       "from": "Viator",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "Muhtasari wa nafasi yako ya kila wiki",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Tractor Supply",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "Uuzaji wa majira ya kuchipua - punguzo la 15% kwenye mipasho na bei",
+      "pill": "Matangazo",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: Uhifadhi wa kikundi kwa 6 - Jumamosi asubuhi?",
+    "originalFrom": "Jessica T. aliandika:",
+    "originalText": "Habari! Sisi ni familia ya 6 (watu wazima 2, watoto 4 wenye umri wa miaka 8-14) na tungependa kuhifadhi nafasi ya safari Jumamosi hii asubuhi. Je, una upatikanaji? Bei gani kwa kila mtu?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "Habari Jessica!",
+      "Jumamosi asubuhi ni wazi kwa 6. Uendeshaji wa trail ni $100/mtu na hudumu kama dakika 90 kupitia bonde. Watoto walio na umri wa miaka 8 na zaidi wanakaribishwa, kwa hivyo wafanyakazi wako wote wako tayari kwenda.",
+      "Viatu vilivyofungwa vinahitajika - buti ni bora zaidi. Tunatoa kofia na kulinganisha kila mpanda farasi kulingana na ukubwa na uzoefu. Hakuna uzoefu wa awali wa kuendesha unaohitajika.",
+      "Je, ungependa nikufungie ndani kwa ajili ya safari ya 9 AM?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "Jumamosi asubuhi ni wazi kwa 6. Usafiri wa njia ni $100/mtu",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "Anajua bei na upatikanaji wako",
+      "Rasimu katika sauti yako",
+      "Inajumuisha mahitaji ya waendeshaji kiotomatiki",
+      "Anajifunza kwa muda"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "Usafiri wowote utafunguliwa wikendi hii? Pia, hali ya hewa ikoje?",
+    "agentResponse": "Kulingana na kalenda yako, una fursa za kufungua Jumamosi saa 9 asubuhi na 2 PM, na Jumapili saa 10 asubuhi. Utabiri wa Jumamosi ni 72°F na jua - hali ya hewa nzuri ya kupanda. Jumapili huonyesha uwezekano wa 40% wa mvua ya alasiri, kwa hivyo nafasi ya asubuhi ndiyo dau salama zaidi. Je, ungependa niandike majibu kwa maswali yoyote ambayo hayajashughulikiwa na nyakati hizi?",
+    "followUp": "Rasimu ya jibu kwa Jessica na upatikanaji wa Jumamosi",
+    "followUpResponse": "Imekamilika! Niliandaa jibu kwa Jessica nikithibitisha Jumamosi saa 9 AM kwa wanunuzi 6 kwa $ 100/mtu. Inajumuisha mahitaji yako ya kawaida ya mpanda farasi na nini cha kuvaa. Tayari kukagua na kutuma."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "Inapendwa na waendeshaji wa safari za trail",
   "testimonials": [
     {
       "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "title": "Mmiliki wa Ranchi & Mwongozo wa Njia, MT",
+      "quote": "Niko nje kwa njia masaa 6 kwa siku bila huduma ya seli. Kufikia wakati niliporudi kujibu, nusu ya watu walikuwa wameweka nafasi mahali pengine. Sasa Duet huandaa majibu na bei na maelezo yangu ya usafiri - mimi hukagua tu na kutuma ninaporudi kwenye ghalani.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "title": "Opereta wa Ziara ya Mpira wa Farasi, AZ",
+      "quote": "Tunapokea barua pepe nyingi zinazouliza kitu kimoja - vikomo vya uzito, nini cha kuvaa, mahitaji ya umri. Duet hushughulikia yote na majibu yanasikika kama mimi. Wageni wangu hawajui ni AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "title": "Mwongozo wa Kuendesha Njia, CO",
+      "quote": "Msimu wa kilele ulikuwa unaniua. Barua pepe 30+ kwa siku pamoja na kuendesha gari. Duet hupanga maombi ya kuhifadhi kutoka kwa kelele na majibu ya rasimu ambayo yanajumuisha kila kitu - bei, nini cha kuleta, kura. Nilirudi jioni yangu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "title": "Mkufunzi wa Uendeshaji na Meneja Uhifadhi, TX",
+      "quote": "Tunaendesha safari za machweo, safari za asubuhi na masomo ya kibinafsi - kila moja ikiwa na bei na mahitaji tofauti. Duet alijifunza yote katika wiki. Hutayarisha jibu sahihi kwa aina sahihi ya usafiri kila wakati.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "quote": "Barua pepe nyeti zilikuwa mbaya zaidi - mtu akiuliza ikiwa ni nzito sana, au ikiwa mtoto wake ana umri wa kutosha. Duet hushughulikia wale walio na utunzaji sawa na ningefanya. Mtaalamu, mkarimu na sahihi. Hiyo pekee inafaa.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Tumia siku na farasi,\nhaipo kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Je, Duet hushughulikia vipi maswali nyeti kuhusu mahitaji ya uzito au uzoefu?",
+      "answer": "Duet hujifunza sera zako mahususi na kuakisi sauti yako. Mtu anapouliza kuhusu vikomo vya uzito au mahitaji ya uzoefu, hujibu kwa ustadi na kwa uchangamfu - kushiriki maelezo anayohitaji bila kuifanya kuwa ya shida. Unaweka sauti mara moja na Duet inaifuata mara kwa mara, kwa hivyo kila mgeni anahisi kuheshimiwa."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Je, Duet inaweza kushughulikia uhifadhi wa kikundi na mahitaji tofauti ya wapanda farasi?",
+      "answer": "Ndiyo. Duet hujifunza aina zako za wapanda farasi, ukubwa wa kikundi, kiwango cha chini cha umri na mahitaji yoyote mahususi ya wapanda farasi. Familia au kikundi kinapotuma barua pepe kuhusu kuhifadhi nafasi, huandaa jibu ambalo linajumuisha bei ya kikundi kamili, kile ambacho kila mpanda farasi anahitaji kujua, na muda unaopatikana. Unakagua na kutuma - hauhitaji kurudi na kurudi."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "Kwa $100/mtu kwa kikundi cha 6, safari moja iliyohifadhiwa hulipa kwa zaidi ya miaka miwili ya Pro."
 }

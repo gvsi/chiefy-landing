@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-  "heroBadge": "Trusted by 300+ dive operators",
-  "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
+  "pageTitle": "Duet Mail | AI ईमेल सहायक",
+  "metaDescription": "Duet Mail गोताखोर दुकान मालिकों और PADI प्रशिक्षकों को प्रमाणन पूछताछ, यात्रा बुकिंग और गियर प्रश्नों का तुरंत जवाब देने में मदद करता है - यहां तक कि पानी के भीतर से भी।",
+  "heroBadge": "300+ गोताखोर ऑपरेटरों द्वारा विश्वसनीय",
+  "heroHeadline": "जब आप पानी के भीतर हों तो आपका ईमेल सहायक",
+  "heroSubline": "Duet आपकी गोता साइटों, प्रमाणन आवश्यकताओं, मूल्य निर्धारण और आवाज को सीखता है - फिर ईमेल उत्तरों का मसौदा तैयार करता है ताकि जब आप नाव पर हों तो आप कभी भी बुकिंग न खोएं।",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
-      "pill": "To Respond",
+      "subject": "ओपन वाटर प्रमाणन — उपलब्धता?",
+      "preview": "नमस्ते! मैं अगस्त के पहले सप्ताह में आ रहा हूं और अपना ओपन वॉटर प्रमाणपत्र प्राप्त करना चाहता हूं। इसमें कितने दिन लगते हैं और इसमें क्या शामिल है?",
+      "pill": "उत्तर देने के लिए",
       "pillColor": "red"
     },
     {
       "from": "Kevin & Amy L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Group of 6 for a 2-tank dive Saturday",
-      "preview": "We have 6 certified divers and want to book a morning 2-tank dive this Saturday. Do you have space? What's the per-person rate...",
-      "pill": "Booking",
+      "subject": "शनिवार को 2-tank गोता के लिए 6 का समूह",
+      "preview": "हमारे पास 6 प्रमाणित गोताखोर हैं और हम इस शनिवार सुबह 2-tank गोता बुक करना चाहते हैं। क्या आपके पास जगह है? प्रति व्यक्ति दर क्या है...\nसप्ताहांत के लिए",
+      "pill": "बुकिंग",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD rental for the weekend?",
-      "preview": "Hey, I'm certified but traveling light. Do you rent BCDs and regulators? I'd need them Friday through Sunday...",
-      "pill": "Question",
+      "subject": "BCD किराया?",
+      "preview": "अरे, मैं प्रमाणित हूं लेकिन यात्रा कम कर रहा हूं। क्या आप बीसीडी और रेगुलेटर किराये पर लेते हैं? मुझे शुक्रवार से रविवार तक उनकी आवश्यकता होगी...",
+      "pill": "प्रश्न",
       "pillColor": "amber"
     },
     {
       "from": "PADI eLearning",
       "avatarLetter": "P",
       "avatarColor": "lavender",
-      "subject": "Student referral: Rachel Torres",
-      "preview": "A student has completed their eLearning and selected your dive center for confined and open water training...",
+      "subject": "छात्र रेफरल: राचेल टोरेस",
+      "preview": "एक छात्र ने अपनी ई-लर्निंग पूरी कर ली है और सीमित और खुले जल प्रशिक्षण के लिए आपके गोता केंद्र का चयन किया है...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
+  "autodraft": "हे राहेल! हमें आपको प्रमाणित कराना अच्छा लगेगा। ओपन वॉटर कोर्स 3 दिनों तक चलता है - एक दिन पूल सत्र और दो दिन समुद्र में गोता लगाने का। सभी गियर शामिल हैं. अगस्त व्यापक रूप से खुला है। क्या आप चाहते हैं कि मैं उस पहले सप्ताह के लिए एक स्थान आरक्षित करूँ?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "dive",
+    "bookingUnit": "गोता",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "एक सहेजा गया समूह गोता Duet के एक वर्ष के लिए भुगतान करता है।"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet स्वचालित रूप से हर ईमेल को टैग करता है ताकि आप प्रमाणन पूछताछ और गोता बुकिंग पहले देख सकें, गियर प्रश्न दूसरे, और जब आप तैयार हों तो PADI अलर्ट देख सकें। अब उपकरण न्यूज़लेटर्स के नीचे दबी समूह बुकिंग की कोई कमी नहीं है।",
+  "draftSubtitle": "Duet आपकी गोता साइटों, प्रमाणपत्र आवश्यकताओं और मूल्य निर्धारण को सीखता है। जब कोई बुकिंग पूछताछ आती है, तो यह यात्रा विवरण, क्या शामिल है और क्या लाना है, के साथ एक संपूर्ण उत्तर तैयार करता है। आप समीक्षा करके भेजें.",
+  "agentSubtitle": "\"शनिवार के लिए कितने गोताखोर बुक हैं?\" \"खुले पानी की उपलब्धता के साथ राहेल को उत्तर का मसौदा तैयार करें।\" Duet आपके इनबॉक्स और शेड्यूल को जानता है - बस पूछें।",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Open Water certification — availability?",
-      "preview": "I'm visiting the first week of August and want to get certified...",
-      "pill": "Respond Now",
+      "subject": "ओपन वॉटर प्रमाणन — उपलब्धता?",
+      "preview": "मैं अगस्त के पहले सप्ताह में आ रहा हूं और प्रमाणित होना चाहता हूं...",
+      "pill": "अभी उत्तर दें",
       "pillColor": "red"
     },
     {
       "from": "Kevin L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Saturday 2-tank dive",
-      "pill": "Booked",
+      "subject": "पुन: बुकिंग की पुष्टि - शनिवार 2-tank गोता\nइस सप्ताह के अंत में",
+      "pill": "बुक किया गया",
       "pillColor": "blue"
     },
     {
       "from": "Jason M.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "BCD and regulator rental this weekend?",
-      "pill": "Question",
+      "subject": "BCD और रेगुलेटर किराया?",
+      "pill": "प्रश्न",
       "pillColor": "amber"
     },
     {
       "from": "DiveBuddy",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "New review on your listing",
+      "subject": "आपकी लिस्टिंग पर नई समीक्षा",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Dive Gear Express",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 25% off wetsuits",
-      "pill": "Promotions",
+      "subject": "ग्रीष्मकालीन बिक्री - 25% वेटसूट पर छूट",
+      "pill": "प्रमोशन",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Open Water certification — availability?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I'm visiting the first week of August and want to get my Open Water cert. How many days does it take and what's included?",
+    "subject": "पुन: ओपन वॉटर प्रमाणन — उपलब्धता?",
+    "originalFrom": "राचेल टी. ने लिखा:",
+    "originalText": "नमस्ते! मैं अगस्त के पहले सप्ताह में आ रहा हूं और अपना ओपन वॉटर प्रमाणपत्र प्राप्त करना चाहता हूं। इसमें कितने दिन लगते हैं और इसमें क्या शामिल है?",
     "lines": [
-      "Hey Rachel!",
-      "We'd love to get you certified! The PADI Open Water course runs 3 days — one pool session and two ocean dives on our reef. All gear is included.",
-      "August is wide open right now. Most students start on a Monday so they finish by Wednesday.",
-      "Want me to reserve a spot?"
+      "हे रेचेल!",
+      "हमें आपको प्रमाणित कराना अच्छा लगेगा! PADI ओपन वॉटर कोर्स 3 दिनों तक चलता है - एक पूल सत्र और हमारी रीफ पर दो समुद्री गोते। सभी गियर शामिल हैं.",
+      "अगस्त अभी खुला है। अधिकांश छात्र सोमवार को शुरुआत करते हैं इसलिए वे बुधवार तक समाप्त करते हैं।",
+      "क्या आप चाहते हैं कि मैं एक स्थान आरक्षित करूँ?"
     ],
-    "highlightText": "The PADI Open Water course runs 3 days",
+    "highlightText": "PADI ओपन वॉटर कोर्स 3 दिनों तक चलता है",
     "tooltipFeatures": [
-      "Knows your courses & pricing",
-      "Drafts in your voice",
-      "Includes cert requirements automatically",
-      "Learns over time"
+      "आपके पाठ्यक्रम और मूल्य निर्धारण को जानता है",
+      "आपकी आवाज़ में ड्राफ्ट",
+      "में स्वचालित रूप से प्रमाणित आवश्यकताएँ शामिल हैं",
+      "समय के साथ सीखता है"
     ]
   },
   "agent": {
-    "userMessage": "How many divers are booked for Saturday?",
-    "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
-    "followUp": "Draft a reply to Rachel with the Open Water course details",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
+    "userMessage": "शनिवार के लिए कितने गोताखोर बुक हैं?",
+    "agentResponse": "आपके इनबॉक्स के आधार पर, आपके पास 8 गोताखोरों ने शनिवार की सुबह 2-tank गोता के लिए पुष्टि की है - केविन के 6 प्लस 2 व्यक्तिगत बुकिंग का समूह। आपको उसी यात्रा के लिए गियर किराये के बारे में जेसन से पूछताछ भी लंबित है। क्या आप चाहते हैं कि मैं एक उत्तर का मसौदा तैयार करूं?",
+    "followUp": "ओपन वॉटर कोर्स विवरण के साथ रेचेल को एक उत्तर ड्राफ्ट करें",
+    "followUpResponse": "हो गया! मैंने रेचेल के लिए एक उत्तर तैयार किया जिसमें 3-day PADI ओपन वॉटर कोर्स की पुष्टि की गई जिसमें पूल और समुद्री गोताखोरी शामिल थी। इसमें अगस्त की उपलब्धता और आपकी मानक गियर-शामिल नीति का उल्लेख है। समीक्षा करने और भेजने के लिए तैयार."
   },
-  "testimonialsTitle": "Loved by dive operators",
+  "testimonialsTitle": "गोताखोर ऑपरेटरों द्वारा पसंद किया गया",
   "testimonials": [
     {
-      "name": "Captain Mike T.",
-      "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "name": "कैप्टन माइक टी.",
+      "title": "डाइव बोट कैप्टन, FL",
+      "quote": "मैं शुक्रवार से रविवार तक नाव यात्राएँ चलाता हूँ और दुकान सोमवार को केवल कुछ घंटों के लिए खुली रहती है। जब मैं पानी के भीतर होता हूं तो प्रमाणन प्रश्न और यात्रा पूछताछ ढेर हो जाती हैं। Duet ड्राफ्ट मेरे मूल्य निर्धारण, गोता साइटों और इसमें क्या शामिल है, के साथ उत्तर देता है - मैं गोता लगाने के बीच उनकी समीक्षा करता हूं।",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "name": "जेन और मार्क एस।",
+      "title": "PADI गोता केंद्र, HI",
+      "quote": "हम एक ही नाव से गोताखोरी, स्नोर्कल टूर और व्हेल घड़ियाँ चलाते हैं। ईमेल की विविधता अद्भुत है - प्रमाणित प्रश्न, समूह बुकिंग, गियर किराये, मौसम की जाँच। Duet यह सब क्रमबद्ध करता है और अंतर जानने वाले उत्तरों को ड्राफ्ट करता है। पूर्ण जीवनरक्षक.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jake R.",
-      "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "name": "जेक आर.",
+      "title": "मलबे में गोताखोरी चार्टर्स, FL",
+      "quote": "मेरे आधे ईमेल हैं 'मलबे में गोता लगाने के लिए मुझे किस प्रमाणीकरण की आवश्यकता है?' और बाकी आधे हैं 'क्या मुझे अपने गियर की ज़रूरत है?' Duet ऑटोपायलट पर दोनों को संभालता है। मेरा प्रतिक्रिया समय घंटों से मिनटों में चला गया।",
       "avatarKey": "johnny"
     },
     {
-      "name": "Francesca D.",
-      "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "name": "फ्रांसेस्का डी.",
+      "title": "डाइव शॉप मालिक, CA",
+      "quote": "गर्मियों के दौरान हमें पाठ्यक्रम, यात्रा उपलब्धता और उपकरण के बारे में प्रतिदिन 30+ ईमेल मिलते हैं। मैं उन दुकानों की बुकिंग खो रहा था जो तेजी से उत्तर देती थीं। अब Duet सब कुछ ड्राफ्ट करता है और मैं बस कक्षाओं के बीच सेंड दबाता हूं।",
       "avatarKey": "francesca"
     },
     {
-      "name": "Sarah K.",
-      "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "name": "सारा के.",
+      "title": "गोता प्रशिक्षक और गाइड, NC",
+      "quote": "मैं सुबह पाठ्यक्रम पढ़ाता हूं और दोपहर में गोताखोरों का मार्गदर्शन करता हूं। वस्तुतः ईमेल का उत्तर देने का समय नहीं है। Duet ने मेरे पाठ्यक्रम कार्यक्रम, मूल्य निर्धारण, यहां तक ​​कि मेरी रद्दीकरण नीति भी जान ली। ग्राहक अंतर नहीं बता सकते.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "अपने दिन पानी के अंदर बिताएं,\nआपके इनबॉक्स में छिपा नहीं है.",
+  "ctaSubline": "अपना निःशुल्क परीक्षण प्रारंभ करें। अपने इनबॉक्स को 30 सेकंड में कनेक्ट करें।",
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "क्या Duet प्रमाणन स्तर और पाठ्यक्रम आवश्यकताओं को समझता है?",
+      "answer": "हाँ। Duet आपके विशिष्ट पाठ्यक्रमों को सीखता है - ओपन वॉटर, एडवांस्ड, रेस्क्यू, डाइवमास्टर - साथ ही पूर्वापेक्षाएँ, अवधि, मूल्य निर्धारण और इसमें क्या शामिल है। जब कोई प्रमाणित होने के बारे में पूछता है, तो Duet सही पाठ्यक्रम विवरण, शेड्यूल और अगले चरणों के साथ एक उत्तर तैयार करता है। आप समीक्षा करके भेजें."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "मैं पूरे दिन नाव पर या पानी के भीतर रहता हूँ। क्या मैं अपने फ़ोन से Duet का उपयोग कर सकता हूँ?",
+      "answer": "हाँ। Duet, Gmail और Outlook के साथ काम करता है, इसलिए यह आपके फोन सहित - जहां भी आपका ईमेल काम करता है, वहां काम करता है। ड्राफ्ट आपके इनबॉक्स में स्वचालित रूप से दिखाई देते हैं। गोता लगाने या गोदी पर वापस आने के बीच, आप एक टैप से समीक्षा करते हैं और भेजते हैं। अधिकांश गोता संचालक हमें बताते हैं कि इससे पीक सीज़न के दौरान प्रति दिन उनके ईमेल समय के 1-2 घंटे की बचत होती है।"
     }
   ],
-  "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
+  "pricingNote": "$150/dive पर 6, के समूह के साथ एक सहेजी गई यात्रा Pro के एक वर्ष से अधिक के लिए भुगतान करती है।"
 }

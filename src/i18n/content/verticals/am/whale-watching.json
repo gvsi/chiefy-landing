@@ -1,115 +1,114 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ tour captains",
-  "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "pageTitle": "Duet Mail ለዓሣ ነባሪ መመልከቻ ጉብኝቶች | AI ኢሜይል ረዳት",
+  "metaDescription": "Duet Mail ዓሣ ነባሪ የሚመለከቱ ካፒቴኖች ኢሜይሎችን ለማስያዝ ወዲያውኑ ምላሽ እንዲሰጡ ይረዳል - ከውሃም ቢሆን። በAI የተነደፉ ምላሾች ከእርስዎ የጉብኝት ዝርዝሮች፣ ዋጋ እና ድምጽ ጋር።",
+  "heroBadge": "በ300+ አስጎብኚ ካፒቴኖች የታመነ",
+  "heroHeadline": "ዓሣ ነባሪዎችን እያዩ በሚወጡበት ጊዜ የኢሜይል ረዳትዎ",
+  "heroSubline": "Duet የጉብኝት መርሐግብርዎን፣ ዋጋ አወጣጥዎን እና ድምጽዎን ይማራል - ከዚያም በውሃ ላይ እያሉ ቦታ ማስያዝ በጭራሽ እንዳያጡ የኢሜይል ምላሾችን ይቀርፃል።",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "ራቸል ቲ.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
-      "pill": "To Respond",
+      "subject": "የ 8 ቡድን - ሰኔ 14 ይገኛል?",
+      "preview": "ሰላም! ለሳምንት 8 የሚጎበኝ ቤተሰብ ነን። ሰኔ 14 በጠዋት ጉብኝት ላይ ቦታ አለህ? ለአንድ ሰው ዋጋው ስንት ነው እና ለልጆች ደህና ነው?",
+      "pill": "ምላሽ ለመስጠት",
       "pillColor": "red"
     },
     {
-      "from": "James & Kathy L.",
+      "from": "ጄምስ እና ካቲ ኤል.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Private charter pricing?",
-      "preview": "We'd love to book a private whale watching tour for our anniversary. What's the cost for a 2-hour private charter for just the two of us...",
-      "pill": "High Value",
+      "subject": "የግል ቻርተር ዋጋ?",
+      "preview": "ለዓመታዊ ዝግጅታችን የግል የዓሣ ነባሪ መመልከቻ ጉብኝት ለማስያዝ እንወዳለን። ለሁለታችንም ብቻ የ2 ሰአት የግል ቻርተር ዋጋ ስንት ነው...",
+      "pill": "ከፍተኛ ዋጋ",
       "pillColor": "amber"
     },
     {
-      "from": "Cruise Port Desk",
+      "from": "የክሩዝ ወደብ ዴስክ",
       "avatarLetter": "C",
       "avatarColor": "purple",
-      "subject": "Schedule change — Coral Princess arriving 1hr early",
-      "preview": "Heads up: tomorrow's Coral Princess arrival has been moved from 10 AM to 9 AM. Please adjust any port excursion pickups accordingly...",
-      "pill": "Urgent",
+      "subject": "የመርሐግብር ለውጥ - ኮራል ልዕልት 1 ሰዓት ቀድማ ትደርሳለች።",
+      "preview": "የነገው ኮራል ልዕልት መምጣት ከጠዋቱ 10 AM ወደ 9 AM ተንቀሳቅሷል። እባክዎን ማንኛውንም የወደብ የጉብኝት መውሰጃዎችን በዚሁ መሰረት ያስተካክሉ...",
+      "pill": "አስቸኳይ",
       "pillColor": "blue"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "ለእርስዎ ዝርዝር አዲስ ግምገማ",
+      "preview": "አንድ ተጓዥ ንግድዎን በቅርቡ ገምግሟል። የሚሉትን እዩ እና ምላሽ ይስጡ...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+  "autodraft": "ሄይ ራሄል! ሰኔ 14 የጠዋት ጉብኝት ለ 8 ቦታ አለው ። ጉብኝቶች $ 125 / ሰው ፣ ልጆች 4-12 ግማሽ ዋጋ ናቸው። በ9 AM ከወደቡ ተነስተን 2.5 ሰአት ያህል እንሮጣለን። ቢኖክዮላስ ቀርቧል - ንብርብሮችን እና የፀሐይ መከላከያዎችን ብቻ ይዘው ይምጡ። 8 ቦታዎችን ማስያዝ ትፈልጋለህ?",
   "math": {
     "pricePerBooking": "$750",
-    "bookingUnit": "tour group",
+    "bookingUnit": "የጉብኝት ቡድን",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "አንድ የተቀመጠ የቡድን ቦታ ማስያዝ ለአንድ አመት Duet ይከፍላል።"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "በመጀመሪያ የቦታ ማስያዣ ጥያቄዎችን እንዲያዩ Duet ለእያንዳንዱ ኢሜል በራስ ሰር መለያ ይሰጣል ፣የመርከብ መርከቧ መርሃ ግብር በሰከንድ ይቀየራል እና ጫጫታ በጭራሽ። በTripAdvisor ማንቂያዎች የተቀበረ የግል ቻርተር ጥያቄ ከእንግዲህ አያመልጥም።",
+  "draftSubtitle": "Duet የእርስዎን የጉብኝት ጊዜ፣ ዋጋ እና ፖሊሲ ይማራል። የቦታ ማስያዣ ጥያቄ ሲመታ፣ ከተገኝነት፣ ምን እንደሚካተት እና ምን እንደሚያመጣ የተሟላ ምላሽ ያዘጋጃል። እርስዎ ይገምግሙ እና ይልካሉ።",
+  "agentSubtitle": "\"በቅዳሜ ማለዳ ጉብኝት ላይ ስንት ቦታዎች ቀርተዋል?\" \"ለራሄል ምላሽ ከተገኘ ጋር አዘጋጅ።\" Duet የእርስዎን የገቢ መልእክት ሳጥን እና የጊዜ ሰሌዳ ያውቃል - ይጠይቁ።",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "ራቸል ቲ.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group of 8 — availability June 14?",
-      "preview": "We're a family of 8 visiting for the week...",
-      "pill": "Respond Now",
+      "subject": "የ 8 ቡድን - ሰኔ 14 ይገኛል?",
+      "preview": "እኛ ለሳምንት 8 የሚጎበኙ ቤተሰብ ነን...",
+      "pill": "አሁን ምላሽ ይስጡ",
       "pillColor": "red"
     },
     {
-      "from": "James L.",
+      "from": "ጄምስ ኤል.",
       "avatarLetter": "J",
       "avatarColor": "blue",
-      "subject": "Re: Private charter confirmed — Saturday 2PM",
-      "pill": "Booked",
+      "subject": "ድጋሚ፡ የግል ቻርተር ተረጋግጧል - ቅዳሜ 2PM",
+      "pill": "ተይዟል።",
       "pillColor": "blue"
     },
     {
-      "from": "Megan S.",
+      "from": "ሜጋን ኤስ.",
       "avatarLetter": "M",
       "avatarColor": "purple",
-      "subject": "Will tomorrow's tour run? Wind looks rough",
-      "pill": "Question",
+      "subject": "የነገው ጉዞ ይካሄድ ይሆን? ነፋሱ ኃይለኛ ይመስላል",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
-      "from": "FareHarbor",
+      "from": "ፋሬ ሃርቦር",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Daily booking summary — 3 new reservations",
+      "subject": "ዕለታዊ ቦታ ማስያዝ ማጠቃለያ - 3 አዲስ የተያዙ ቦታዎች",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Marine Supply Co.",
+      "from": "የባህር ኃይል አቅርቦት ኩባንያ",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "Summer clearance — 15% off safety gear",
-      "pill": "Promotions",
+      "subject": "የበጋ ማጽጃ - ከደህንነት ማርሽ 15% ቅናሽ",
+      "pill": "ማስተዋወቂያዎች",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group of 8 — availability June 14?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! We're a family of 8 visiting for the week. Do you have space on the morning tour June 14? What's the price per person and is it okay for kids?",
+    "subject": "ድጋሚ፡ የ8 ቡድን - ሰኔ 14 ይገኛል?",
+    "originalFrom": "ራቸል ቲ ጻፈ፡-",
+    "originalText": "ሰላም! ለሳምንት 8 የሚጎበኝ ቤተሰብ ነን። ሰኔ 14 በጠዋት ጉብኝት ላይ ቦታ አለህ? ለአንድ ሰው ዋጋው ስንት ነው እና ለልጆች ደህና ነው?",
     "lines": [
       "Hey Rachel!",
       "June 14 morning tour has plenty of room for 8. Tickets are $125/person, kids 4-12 are half price. We depart at 9 AM and return around 11:30.",
       "Binoculars and rain gear provided — just bring warm layers and sunscreen. Kids love it up on the observation deck.",
       "Want me to lock in 8 spots?"
     ],
-    "highlightText": "June 14 morning tour has plenty of room for 8. Tickets are $125/person",
+    "highlightText": "ሰኔ 14 የጠዋት ጉብኝት ለ 8 ብዙ ቦታ አለው. ትኬቶች በሰዎች 125 ዶላር ናቸው።",
     "tooltipFeatures": [
       "Knows your tour times & pricing",
       "Drafts in your voice",
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "How many spots are left on Saturday's morning tour?",
-    "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
-    "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
-    "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
+    "userMessage": "በቅዳሜ ማለዳ ጉብኝት ላይ ስንት ቦታዎች ቀርተዋል?",
+    "agentResponse": "በተያዙ ቦታዎች ላይ በመመስረት፣ የቅዳሜ 9 AM ጉብኝት 18 ከ 44 ቦታዎች ተሞልተዋል - 26 አሁንም ክፍት ናቸው። የከሰዓት በኋላ ጉብኝቱ በ 40 የ 44 ሊሞላ ነው. ለማንኛውም በመጠባበቅ ላይ ያሉ ጥያቄዎችን ከቅዳሜ ማለዳ ተገኝነት ጋር ምላሽ ማዘጋጀት ይፈልጋሉ?",
+    "followUp": "ሰኔ 14ን ለ 8 እንግዶች የሚያረጋግጥ ለራሄል ምላሽ አዘጋጅ",
+    "followUpResponse": "ተከናውኗል! ሰኔ 14 የጠዋት ጉብኝትን ለ 8 እንግዶች በ125 ዶላር የሚያረጋግጥ ምላሽ ለራቸል አዘጋጅቻለሁ። የመነሻ ጊዜን፣ የቀረበውን እና ምን ማምጣት እንዳለበት ያካትታል። ለመገምገም እና ለመላክ ዝግጁ።"
   },
-  "testimonialsTitle": "Loved by whale watching captains",
+  "testimonialsTitle": "በዓሣ ነባሪ የሚመለከቱ ካፒቴኖች ይወዳሉ",
   "testimonials": [
     {
-      "name": "Captain Dave H.",
-      "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
+      "name": "ካፒቴን ዴቭ ኤች.",
+      "title": "የዱር አራዊት ጉብኝት ኦፕሬተር, AK",
+      "quote": "የመርከብ መርከብ ተሳፋሪዎች በፍጥነት መልስ ይፈልጋሉ - ወደብ የቆዩት 6 ሰአታት ብቻ ነው። ጥያቄው ሲገባ ውሃ ላይ ስለነበርኩ የግል ቻርተሮች አጣሁ። አሁን Duet ድራፍት ከመትከሌ በፊት በዋጋ አወጣጥ እና የመውሰድ ዝርዝሬ ምላሽ ይሰጣል።",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria & Luis R.",
-      "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
+      "name": "ማሪያ እና ሉዊስ አር.",
+      "title": "የቤተሰብ ዌል Watch፣ CA",
+      "quote": "በሃምፕባክ ወቅት በቀን ሁለት ጉብኝቶችን እናካሂዳለን እና የኢሜል መጠኑ እውን አይደለም። 'ዓሣ ነባሪዎችን እናያለን?' 'ምን ልለብስ?' 'ነገ ተሰርዟል?' Duet ተደጋጋሚ ጥያቄዎችን ይይዛል እና በጉብኝቶች ላይ እናተኩራለን።",
       "avatarKey": "francesca"
     },
     {
-      "name": "Captain Ben T.",
-      "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "name": "ካፒቴን ቤን ቲ.",
+      "title": "የውቅያኖስ ሽርሽር, ኤች.አይ",
+      "quote": "በየምሽቱ ተመሳሳይ 10 ጥያቄዎችን እየመለስኩ ነበር - የዋጋ አወጣጥ፣ ምን እንደሚጨምር፣ የባህር ህመም ምክሮች፣ የልጆች የዕድሜ ገደቦች። Duet ሁሉንም የተማረው በመጀመሪያው ሳምንት ውስጥ ነው። የእኔ ምላሽ ጊዜ ከ 8 ሰዓት ወደ 8 ደቂቃዎች ሄደ.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Kim W.",
-      "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "name": "ኪም ደብሊው",
+      "title": "ቦታ ማስያዝ አስተዳዳሪ፣ ፓሲፊክ ኤን.ኤ",
+      "quote": "የአየር ሁኔታ ስረዛዎች በጣም መጥፎዎቹ ናቸው - 30 ሰዎች በአንድ ጊዜ እንደገና ቦታ ማስያዝ ይፈልጋሉ እና እኔ የስልክ ጥሪዎችን እያጣመርኩ ነው። Duet ረቂቆች ለእያንዳንዱ እንግዳ ለግል ዳግም ቀጠሮ ኢሜይሎች። 2 ሰአት ይወስድብኝ የነበረው አሁን 15 ደቂቃ ይወስዳል።",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Jess & Nate P.",
-      "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
+      "name": "ጄስ እና ናቲ ፒ.",
+      "title": "አነስተኛ ጀልባ የዱር እንስሳት ጉብኝቶች፣ ዓ.ዓ",
+      "quote": "እኛ የሁለት ሰው ኦፕሬሽን ነን - እኔ ካፒቴን፣ እሷ ሎጅስቲክስ ትሰራለች። ከፍተኛው ወቅት በምሽት ለ 3 ሰዓታት በኢሜል ታሳልፍ ነበር። Duet ወደ 30 ደቂቃዎች ቆርጠህ. አሁን ምሽቶቿን ትመልሳለች።",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "የዓሣ ነባሪ ወቅትን በውሃ ላይ ያሳልፉ ፣\nበገቢ መልእክት ሳጥንዎ ውስጥ አይደለም።",
+  "ctaSubline": "ነፃ ሙከራዎን ይጀምሩ። የገቢ መልእክት ሳጥንዎን በ30 ሰከንድ ውስጥ ያገናኙ።",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Duet የአየር ሁኔታ ስረዛዎችን እና የመርከብ መርሐግብር ለውጦችን ይቆጣጠራል?",
+      "answer": "አዎ። በአየር ሁኔታ ወይም በመርከብ መድረሻ ጊዜ ምክንያት ጉብኝትን ሲሰርዙ፣ ለDuet አንድ ጊዜ ይነግሩታል እና ግላዊ የሆነ የጊዜ ቀጠሮ ይቀርፃል ወይም ለተጎዳው እንግዳ ሁሉ ኢሜይሎችን ያዘምናል። ተመሳሳዩን መልእክት 30 ጊዜ መቅዳት እና መለጠፍ የለም። እያንዳንዱ ምላሽ የእንግዳውን የመጀመሪያ ቦታ ማስያዝ ዝርዝሮችን እና ያሉትን አማራጮች ያካትታል።"
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
-      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
+      "question": "ተመሳሳይ ጥያቄዎችን ያለማቋረጥ እናገኛለን - 'ዓሣ ነባሪዎችን እናያለን?'፣ 'ምን ልለብስ?'፣ 'ለልጆች ደህና ነው?' Duet እነዚህን ማስተናገድ ይችላል?",
+      "answer": "በትክክል Duet የሚያበራበት ቦታ ነው። የእርስዎን መደበኛ መልሶች ይማራል - በተለምዶ የሚያዩዋቸውን ዝርያዎች፣ ምን እንደሚያመጡ፣ የዕድሜ ፖሊሲዎች፣ የባህር ህመም ምክሮች፣ የመነሻ ጊዜዎች - እና ረቂቆች ምላሾችን ወዲያውኑ ያጠናቅቃሉ። እርስዎ ይገምግሙ እና ይልካሉ። አብዛኞቹ ካፒቴኖች 80% የገቢ መልእክት ሳጥን ያው 10 ጥያቄዎች ይነግሩናል፣ እና Duet ሁሉንም ይይዛል።"
     }
   ],
-  "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
+  "pricingNote": "በ$125/ሰው አንድ የተቀመጠ 6 ቡድን ከአንድ አመት በላይ ለፕሮ."
 }

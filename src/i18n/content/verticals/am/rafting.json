@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "rafting",
-  "pageTitle": "Duet Mail for Rafting & Kayak Outfitters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps rafting guides and kayak outfitters respond to trip inquiries instantly — even from the river. AI-drafted replies with your trip details, pricing, and voice.",
-  "heroBadge": "Trusted by 200+ river guides",
-  "heroHeadline": "Your email assistant while you're on the river",
-  "heroSubline": "Duet learns your trip types, pricing, and gear lists — then drafts replies to booking inquiries so customers get answers while you're running rapids.",
+  "pageTitle": "Duet Mail ለራፍትቲንግ ​​እና ካያክ አልባሳት | AI ኢሜይል ረዳት",
+  "metaDescription": "Duet Mail የራፍቲንግ መመሪያዎችን ይረዳል እና የካያክ ልብስ ሰሪዎች ለጉዞ ጥያቄዎች ወዲያውኑ ምላሽ ይሰጣሉ - ከወንዙም ቢሆን። በAI የተነደፉ ምላሾች ከእርስዎ የጉዞ ዝርዝሮች፣ ዋጋ እና ድምጽ ጋር።",
+  "heroBadge": "በ200+ የወንዝ አስጎብኚዎች የታመነ",
+  "heroHeadline": "በወንዙ ላይ በሚሆኑበት ጊዜ የኢሜል ረዳትዎ",
+  "heroSubline": "Duet የእርስዎን የጉዞ አይነቶች፣ የዋጋ አወጣጥ እና የማርሽ ዝርዝሮችን ይማራል — ከዚያም ረቂቆች ለቦታ ማስያዣ ጥያቄዎች ደንበኞች ምላሾችን እንዲያገኙ እርስዎ ራፒድስ እየሮጡ እያለ።",
   "inboxEmails": [
     {
-      "from": "Jennifer W.",
+      "from": "ጄኒፈር ደብሊው",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
-      "pill": "To Respond",
+      "subject": "የሙሉ ቀን የራፍት ጉዞ ለ 6 ኦገስት 9?",
+      "preview": "ሰላም! እኛ በኦገስት ውስጥ የ6 ጎብኝዎች ቤተሰብ ነን እና በ9ኛው ቀን የሙሉ ቀን የራፍቲንግ ጉዞ ማስያዝ እንፈልጋለን። ለአንድ ሰው ዋጋው ስንት ነው እና ምን አይነት የልምድ ደረጃ ያስፈልገናል?",
+      "pill": "ምላሽ ለመስጠት",
       "pillColor": "red"
     },
     {
-      "from": "Brian T.",
+      "from": "ብራያን ቲ.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Multi-day trip — what's included?",
-      "preview": "We're a group of 4 looking at your 3-day expedition. Are meals, camping gear, and dry bags included or do we need to bring our own...",
-      "pill": "Question",
+      "subject": "የብዙ ቀን ጉዞ - ምን ይካተታል?",
+      "preview": "የ3-ቀን ጉዞህን የምንመለከት የ4 ቡድን ነን። ምግብ፣ ካምፕ እና ደረቅ ቦርሳዎች ተካትተዋል ወይስ የራሳችንን ማምጣት አለብን...",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel & Mark S.",
+      "from": "ራቸል እና ማርክ ኤስ.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Kids ages 8 and 10 — safe enough?",
-      "preview": "We'd love to do the half-day trip but our kids are 8 and 10. Is the Class II section appropriate for their age? What's the minimum...",
-      "pill": "Question",
+      "subject": "ዕድሜያቸው 8 እና 10 የሆኑ ልጆች - በቂ አስተማማኝ ናቸው?",
+      "preview": "የግማሽ ቀን ጉዞውን ብንፈጽም ደስ ይለናል ነገርግን ልጆቻችን 8 እና 10 ናቸው። የሁለተኛ ክፍል ክፍል ለእድሜያቸው ተስማሚ ነው? ዝቅተኛው ስንት ነው...",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "ለእርስዎ ዝርዝር አዲስ ግምገማ",
+      "preview": "አንድ ተጓዥ ንግድዎን በቅርቡ ገምግሟል። የሚሉትን እዩ እና ምላሽ ይስጡ...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jennifer! August 9 is open for 6. Full-day trips are $150/person and run about 7 hours — we put in at 8:30 AM. No experience needed, our guides handle everything. PFDs, helmets, dry bags, and a riverside lunch are all included. Just bring sunscreen, water shoes, and clothes you don't mind getting wet. Want me to reserve your spots?",
+  "autodraft": "ሄይ ጄኒፈር! ኦገስት 9 ለ6 ክፍት ነው። የሙሉ ቀን ጉዞዎች 150 ዶላር በአንድ ሰው ናቸው እና ለ 7 ሰዓታት ያህል ይሰራሉ ​​- በ 8:30 AM ላይ እናስገባለን። ምንም ልምድ አያስፈልግም፣ መመሪያዎቻችን ሁሉንም ነገር ይይዛሉ። ፒኤፍዲዎች፣ የራስ ቁር፣ ደረቅ ቦርሳዎች፣ እና የወንዝ ዳርቻ ምሳ ሁሉም ተካትተዋል። የጸሀይ መከላከያ፣ የውሃ ጫማ እና እርጥብ መውጣት የማይፈልጉትን ልብስ ብቻ ይዘው ይምጡ። ቦታዎችዎን ማስያዝ ይፈልጋሉ?",
   "math": {
     "pricePerBooking": "$150",
-    "bookingUnit": "person",
+    "bookingUnit": "ሰው",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Two saved bookings pay for a full year of Duet."
+    "punchline": "ሁለት የተቀመጡ ቦታ ማስያዣዎች ለአንድ ሙሉ አመት Duet ይከፍላሉ።"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so trip inquiries surface first, gear questions second, and promo noise disappears. No more missing a group booking buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your trip types, rapids classes, gear lists, and cancellation policy. When a booking inquiry hits, it drafts a complete reply with everything the customer needs. You review and send.",
-  "agentSubtitle": "\"Any open spots on Saturday's full-day?\" \"Draft a reply to Jennifer with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet እያንዳንዱን ኢሜል በራስ ሰር መለያ ይሰጣል ስለዚህ የጥያቄዎች መጀመሪያ እንዲወጣ፣ የማርሽ ጥያቄዎች ሁለተኛ እና የማስተዋወቂያ ጫጫታ ይጠፋል። በTripAdvisor ማንቂያዎች የተቀበረ የቡድን ቦታ ማስያዝ ከእንግዲህ አያመልጥም።",
+  "draftSubtitle": "Duet የእርስዎን የጉዞ አይነቶች፣ ራፒድስ ክፍሎች፣ የማርሽ ዝርዝሮች እና የስረዛ ፖሊሲ ይማራል። የቦታ ማስያዣ ጥያቄ ሲመታ፣ ደንበኛው የሚፈልገውን ሁሉ የተሟላ ምላሽ ያዘጋጃል። እርስዎ ይገምግሙ እና ይልካሉ።",
+  "agentSubtitle": "\"ቅዳሜ ሙሉ ቀን ላይ ክፍት ቦታዎች አሉ?\" \"ተገኝነት ለጄኒፈር ምላሽ አዘጋጅ።\" Duet የእርስዎን የገቢ መልእክት ሳጥን እና የጊዜ ሰሌዳ ያውቃል - ይጠይቁ።",
   "categorizationEmails": [
     {
-      "from": "Jennifer W.",
+      "from": "ጄኒፈር ደብሊው",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Full-day raft trip for 6 on Aug 9?",
-      "preview": "We're a family of 6 visiting in August and want to book...",
-      "pill": "Respond Now",
+      "subject": "የሙሉ ቀን የራፍት ጉዞ ለ 6 ኦገስት 9?",
+      "preview": "እኛ በኦገስት ውስጥ የ6 ጎብኝዎች ቤተሰብ ነን እና ቦታ ማስያዝ እንፈልጋለን...",
+      "pill": "አሁን ምላሽ ይስጡ",
       "pillColor": "red"
     },
     {
-      "from": "Brian T.",
+      "from": "ብራያን ቲ.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: 3-day expedition confirmed — Aug 15",
-      "pill": "Booked",
+      "subject": "ድጋሚ፡ የ3 ቀን ጉዞ ተረጋግጧል - ኦገስት 15",
+      "pill": "ተይዟል።",
       "pillColor": "blue"
     },
     {
-      "from": "Rachel S.",
+      "from": "ራቸል ኤስ.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Are kids ages 8 and 10 okay for Class II?",
-      "pill": "Question",
+      "subject": "ዕድሜያቸው 8 እና 10 የሆኑ ልጆች ለሁለተኛ ክፍል ደህና ናቸው?",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
-      "from": "The Flybook",
+      "from": "ፍሊቡክ",
       "avatarLetter": "F",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "የእርስዎ ሳምንታዊ ቦታ ማስያዝ ማጠቃለያ",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,23 +92,23 @@
       "from": "NRS",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "End-of-season sale — 30% off dry suits",
-      "pill": "Promotions",
+      "subject": "የወቅቱ መጨረሻ ሽያጭ - ከደረቅ ልብሶች 30% ቅናሽ",
+      "pill": "ማስተዋወቂያዎች",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jennifer.w@email.com",
-    "subject": "Re: Full-day raft trip for 6 on Aug 9?",
-    "originalFrom": "Jennifer W. wrote:",
-    "originalText": "Hi! We're a family of 6 visiting in August and want to book a full-day rafting trip on the 9th. What's the price per person and what experience level do we need?",
+    "subject": "ድጋሚ፡ የሙሉ ቀን የራፍት ጉዞ ለ 6 ኦገስት 9?",
+    "originalFrom": "ጄኒፈር ወ.",
+    "originalText": "ሰላም! እኛ በኦገስት ውስጥ የ6 ጎብኝዎች ቤተሰብ ነን እና በ9ኛው ቀን የሙሉ ቀን የራፍቲንግ ጉዞ ማስያዝ እንፈልጋለን። ለአንድ ሰው ዋጋው ስንት ነው እና ምን አይነት የልምድ ደረጃ ያስፈልገናል?",
     "lines": [
       "Hey Jennifer!",
       "August 9 is wide open for 6. Full-day trips are $150/person and run about 7 hours — we meet at the put-in at 8:30 AM.",
       "No experience needed. PFDs, helmets, dry bags, and a riverside lunch are all included — just bring sunscreen and water shoes.",
       "Want me to reserve your spots?"
     ],
-    "highlightText": "August 9 is wide open for 6. Full-day trips are $150/person",
+    "highlightText": "ኦገስት 9 ለ6 ሰፊ ክፍት ነው። የሙሉ ቀን ጉዞዎች በሰዎች 150 ዶላር ናቸው።",
     "tooltipFeatures": [
       "Knows your trip types & pricing",
       "Drafts in your voice",
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Any open spots on Saturday's full-day trip?",
-    "agentResponse": "Saturday's full-day has 4 spots left out of 10. You also have a half-day morning run that's fully booked and a multi-day departure on Sunday with 2 spots open. Want me to draft a reply to any pending inquiries with Saturday's availability?",
-    "followUp": "Draft a reply to Jennifer with the Aug 9 availability",
-    "followUpResponse": "Done! I drafted a reply to Jennifer confirming August 9 for 6 guests at $150/person. It includes your standard trip details, gear list, and meeting location. Ready to review and send."
+    "userMessage": "በቅዳሜ የሙሉ ቀን ጉዞ ላይ ክፍት ቦታዎች አሉ?",
+    "agentResponse": "የቅዳሜ ሙሉ ቀን ከ10 ውስጥ 4 ቦታዎች አሉት። እንዲሁም ሙሉ በሙሉ የተያዘ የግማሽ ቀን የጠዋት ሩጫ እና በእሁድ የብዙ ቀን መነሻ በ2 ቦታዎች ክፍት አለዎት። ከቅዳሜው ተገኝነት ጋር ለሚደረጉ ማናቸውም በመጠባበቅ ላይ ያሉ ጥያቄዎችን ምላሽ ማዘጋጀት እፈልጋለሁ?",
+    "followUp": "በኦገስት 9 በመገኘት ለጄኒፈር ምላሽ ያዘጋጁ",
+    "followUpResponse": "ተከናውኗል! ኦገስት 9ን ለ6 እንግዶች በ150 ዶላር የሚያረጋግጥ ምላሽ ለጄኒፈር አዘጋጅቻለሁ። የእርስዎን መደበኛ የጉዞ ዝርዝሮች፣ የማርሽ ዝርዝር እና የስብሰባ ቦታን ያካትታል። ለመገምገም እና ለመላክ ዝግጁ።"
   },
-  "testimonialsTitle": "Loved by river guides and outfitters",
+  "testimonialsTitle": "በወንዝ አስጎብኚዎች እና አልባሳት የተወደዱ",
   "testimonials": [
     {
-      "name": "Ryan M.",
-      "title": "Rafting Outfitter, CO",
-      "quote": "During peak season I'm on the river 6 days a week. By the time I'd get back to emails, half the groups had already booked with someone else. Now Duet drafts replies with trip details and pricing while I'm at the put-in.",
+      "name": "ራያን ኤም.",
+      "title": "Rafting Outfitter፣ CO",
+      "quote": "በከፍታ ወቅት በሳምንት 6 ቀናት በወንዙ ላይ ነኝ። ወደ ኢሜይሎች ስመለስ ግማሹ ቡድኖቹ ከሌላ ሰው ጋር ቦታ አስይዘው ነበር። አሁን Duet ረቂቆች እኔ በመግቢያው ላይ ሳለሁ የጉዞ ዝርዝሮችን እና የዋጋ አወጣጥን ምላሽ ይሰጣል።",
       "avatarKey": "michael"
     },
     {
-      "name": "Katie L.",
-      "title": "Kayak & SUP Tours, OR",
-      "quote": "Every customer asks the same five questions — pricing, what to bring, skill level, group size, cancellation policy. Duet learned all of it in the first week. I went from an hour of emails every night to five minutes of reviewing drafts.",
+      "name": "ኬቲ ኤል.",
+      "title": "ካያክ እና SUP ጉብኝቶች፣ ወይም",
+      "quote": "እያንዳንዱ ደንበኛ ተመሳሳይ አምስት ጥያቄዎችን ይጠይቃል - የዋጋ አወጣጥ፣ ምን እንደሚያመጣ፣ የክህሎት ደረጃ፣ የቡድን መጠን፣ የስረዛ ፖሊሲ። Duet ሁሉንም የተማረው በመጀመሪያው ሳምንት ውስጥ ነው። በእያንዳንዱ ምሽት ከአንድ ሰዓት ኢሜይሎች ወደ አምስት ደቂቃዎች ረቂቆችን ለመገምገም ሄጄ ነበር።",
       "avatarKey": "sarah"
     },
     {
-      "name": "Marcus P.",
-      "title": "Multi-Day Expedition Guide, AK",
-      "quote": "I run 5-day trips with zero cell service. Before Duet, every inquiry sat unanswered until I was back in town. Now customers get a detailed reply within minutes and I confirm when I'm off the river.",
+      "name": "ማርከስ ፒ.",
+      "title": "የባለብዙ ቀን የጉዞ መመሪያ፣ AK",
+      "quote": "የ5-ቀን ጉዞዎችን በዜሮ ሕዋስ አገልግሎት እሮጣለሁ። ከ Duet በፊት፣ ወደ ከተማ እስክመለስ ድረስ እያንዳንዱ ጥያቄ መልስ ሳይሰጥ ተቀምጧል። አሁን ደንበኞች በደቂቃዎች ውስጥ ዝርዝር ምላሽ ያገኛሉ እና ከወንዙ እንደወጣሁ አረጋግጣለሁ።",
       "avatarKey": "johnny"
     },
     {
-      "name": "Elena R.",
-      "title": "River Adventures Office Manager, WV",
-      "quote": "I manage bookings for three guides across four trip types. Duet categorizes every email by urgency and drafts replies with the right trip, the right price, the right gear list. It's like cloning myself.",
+      "name": "ኤሌና አር.",
+      "title": "ወንዝ አድቬንቸርስ ቢሮ አስተዳዳሪ, WV",
+      "quote": "በአራት የጉዞ ዓይነቶች ላይ ለሦስት መመሪያዎች ቦታ ማስያዝን አስተዳድራለሁ። Duet እያንዳንዱን ኢሜይሎች በአስቸኳይ ይከፋፍላል እና ረቂቆች በትክክለኛው ጉዞ፣ ትክክለኛው ዋጋ፣ ትክክለኛው የማርሽ ዝርዝር ምላሽ ይሰጣሉ። እራሴን እንደ ክሎኒንግ ነው።",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Sophia K.",
-      "title": "Whitewater Rafting Co., ID",
-      "quote": "We were skeptical AI could handle rafting-specific emails. But it picked up our Class III vs. Class IV descriptions, age minimums, even our wet-exit kayak policy. Customers think they're talking to us.",
+      "name": "ሶፊያ ኬ.",
+      "title": "Whitewater Rafting Co., መታወቂያ",
+      "quote": "AI rafting-ተኮር ኢሜይሎችን ማስተናገድ እንደሚችል ተጠራጥረን ነበር። ነገር ግን የኛ ክፍል III እና ክፍል IV መግለጫዎችን፣ የእድሜ ትንሹን እና የእርጥበት መውጫ ካያክ ፖሊሲያችንን ጭምር ወስዷል። ደንበኞች ከእኛ ጋር እየተነጋገሩ እንደሆነ ያስባሉ።",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend summer on the river,\nnot catching up on email.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "በበጋው በወንዙ ላይ ያሳልፉ ፣\nበኢሜል አለመገናኘት ።",
+  "ctaSubline": "ነፃ ሙከራዎን ይጀምሩ። የገቢ መልእክት ሳጥንዎን በ30 ሰከንድ ውስጥ ያገናኙ።",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle custom trip quotes and multi-day expedition inquiries?",
-      "answer": "Yes. Duet learns your full trip lineup — half-day floats, full-day rapids, multi-day expeditions — along with pricing, what's included, age minimums, and difficulty levels. When someone asks about a 3-day trip for 6, it drafts a complete reply with the right details. You review, tweak if needed, and send."
+      "question": "Duet ብጁ የጉዞ ዋጋዎችን እና የባለብዙ ቀን የጉዞ ጥያቄዎችን ያስተናግዳል?",
+      "answer": "አዎ። Duet የእርስዎን ሙሉ የጉዞ መስመር — የግማሽ ቀን ተንሳፋፊዎች፣ የሙሉ ቀን ራፒድስ፣ የባለብዙ ቀን ጉዞዎች — ከዋጋ አወጣጥ፣ ምን እንደሚጨምር፣ ዝቅተኛው ዕድሜ እና የችግር ደረጃዎችን ይማራል። አንድ ሰው ስለ 3 ቀን ጉዞ ለ 6 ሲጠይቅ፣ ከትክክለኛ ዝርዝሮች ጋር የተሟላ ምላሽ ይዘጋጃል። እርስዎ ይገመግማሉ፣ ካስፈለገ ያስተካክሉት እና ይልካሉ።"
     },
     {
-      "question": "I'm off-grid on multi-day trips. Does Duet still work?",
-      "answer": "That's exactly the problem Duet solves. While you're on the river with no signal, Duet drafts replies to every inquiry that comes in. When you're back in range, your drafts are waiting — just review and send. Most guides tell us it eliminates the backlog they used to face after every multi-day trip."
+      "question": "በበርካታ ቀን ጉዞዎች ላይ ከፍርግርግ ውጪ ነኝ። Duet አሁንም ይሰራል?",
+      "answer": "በትክክል Duet የሚፈታው ችግር ነው። በወንዙ ላይ ምንም ምልክት ሳይኖርዎት፣ Duet ረቂቆች ለሚመጣው እያንዳንዱ ጥያቄ ምላሽ ይሰጣሉ። ወደ ክልል ሲመለሱ፣ ረቂቆችዎ እየጠበቁ ናቸው - ይገምግሙ እና ይላኩ። አብዛኛዎቹ አስጎብኚዎች ከእያንዳንዱ የብዙ ቀን ጉዞ በኋላ ያጋጠሙትን የኋላ ታሪክ እንደሚያስቀር ይነግሩናል።"
     }
   ],
-  "pricingNote": "At $150/person, two saved bookings cover a full year of Pro."
+  "pricingNote": "በ$150/ሰው፣ ሁለት የተቀመጡ ቦታ ማስያዣዎች ሙሉውን ዓመት ፕሮ."
 }

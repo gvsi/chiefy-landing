@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail for Horseback Rides & Trail Guides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps trail ride operators respond to booking emails instantly — even from the saddle. AI-drafted replies with your pricing, rider requirements, and voice.",
-  "heroBadge": "Trusted by 300+ trail guides",
-  "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your ride types, pricing, rider requirements, and trail conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "승마 및 트레일 가이드를 위한 Duet Mail | AI 이메일 도우미",
+  "metaDescription": "Duet Mail은 트레일 라이딩 운영자가 안장 위에서도 즉시 예약 이메일에 응답할 수 있도록 도와줍니다. AI 가격, 라이더 요구 사항 및 음성이 포함된 초안 답변입니다.",
+  "heroBadge": "300명 이상의 트레일 가이드가 신뢰함",
+  "heroHeadline": "트레일에 있는 동안 이메일 도우미",
+  "heroSubline": "Duet은 귀하의 라이딩 유형, 가격, 라이더 요구 사항 및 트레일 조건을 학습한 다음 이메일 답변 초안을 작성하므로 응답이 느려서 예약을 잃지 않습니다.",
   "inboxEmails": [
     {
-      "from": "Jessica T.",
+      "from": "제시카 T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
-      "pill": "To Respond",
+      "subject": "6인 단체 예약 — 토요일 오전?",
+      "preview": "안녕! 저희는 6인 가족(성인 2명, 8~14세 어린이 4명)이며 이번 토요일 아침에 트레일 라이딩을 예약하고 싶습니다. 예약 가능 여부 1인당 가격은 얼마인가요?",
+      "pill": "응답하려면",
       "pillColor": "red"
     },
     {
-      "from": "Brian L.",
+      "from": "브라이언 L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit question",
-      "preview": "Hey, I'm interested in booking a ride but wanted to ask about your weight requirements first. I'm around 260 lbs — is that going to be an issue...",
-      "pill": "Question",
+      "subject": "무게 제한 질문",
+      "preview": "안녕하세요. 차량을 예약하고 싶은데 먼저 체중 요건에 대해 물어보고 싶었습니다. 제 몸무게는 260파운드 정도인데 그게 문제가 될까요...",
+      "pill": "질문",
       "pillColor": "amber"
     },
     {
-      "from": "Amy & Dan W.",
+      "from": "에이미 & 댄 W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Sunset ride for anniversary?",
-      "preview": "We're celebrating our 10th anniversary next weekend and saw your sunset ride on Instagram. Is it available Friday evening? Any special packages...",
-      "pill": "Booking",
+      "subject": "기념일에 일몰을 타시나요?",
+      "preview": "다음 주말에 10주년을 축하하는데 인스타그램에서 여러분의 일몰을 봤습니다. 금요일 저녁에 가능한가요? 특별한 패키지라도...",
+      "pill": "예약",
       "pillColor": "blue"
     },
     {
-      "from": "TripAdvisor",
+      "from": "트립어드바이저",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
-      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "subject": "귀하의 목록에 대한 새로운 리뷰",
+      "preview": "최근 한 여행자가 귀하의 업체를 리뷰했습니다. 그들이 무엇을 말하고 응답했는지 살펴보세요...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Jessica! Saturday morning is open for 6. Our trail rides are $100/person and run about 90 minutes through the valley. Kids 8+ are welcome — all of yours are good to go. Closed-toe shoes required, and we provide helmets. Want me to book you in for the 9 AM ride?",
+  "autodraft": "안녕 제시카! 토요일 아침에는 6명만 입장 가능합니다. 트레일 탑승 비용은 1인당 $100이며 계곡을 따라 약 90분 동안 운행됩니다. 8세 이상의 어린이도 환영합니다. 모두 함께 갈 수 있습니다. 발가락이 막힌 신발이 필요하며, 헬멧이 제공됩니다. 오전 9시 차량 탑승을 예약해 드릴까요?",
   "math": {
     "pricePerBooking": "$600",
-    "bookingUnit": "ride",
+    "bookingUnit": "타다",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group ride pays for over two years of Duet."
+    "punchline": "저장된 그룹 라이딩 한 번으로 2년 이상의 Duet 비용을 지불할 수 있습니다."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, rider questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Duet learns your ride types, pricing, and requirements. When a booking inquiry hits, it drafts a complete reply with trail details, pricing, and what to wear. You review and send.",
-  "agentSubtitle": "\"Any rides open this weekend?\" \"Draft a reply to Jessica with Saturday availability.\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet은 모든 이메일에 자동으로 태그를 지정하므로 예약 요청이 먼저 표시되고 승객의 질문이 두 번째로 표시되며 소음이 발생하지 않습니다. 더 이상 트립어드바이저 알림 아래에 묻혀 있는 그룹 문의를 놓치지 마세요.",
+  "draftSubtitle": "Duet은 귀하의 탑승 유형, 가격 및 요구 사항을 학습합니다. 예약 문의가 들어오면 트레일 세부 정보, 가격, 입을 옷이 포함된 전체 답변 초안을 작성합니다. 검토하고 보냅니다.",
+  "agentSubtitle": "\"이번 주말에 놀이기구가 열리나요?\" \"토요일에 시간이 있는지 제시카에게 답장 초안을 작성하세요.\" Duet은 받은편지함과 캘린더를 알고 있습니다. 물어보세요.",
   "categorizationEmails": [
     {
-      "from": "Jessica T.",
+      "from": "제시카 T.",
       "avatarLetter": "J",
       "avatarColor": "pink",
-      "subject": "Group booking for 6 — Saturday morning?",
-      "preview": "We're a family of 6 looking to book a trail ride...",
-      "pill": "Respond Now",
+      "subject": "6인 단체 예약 — 토요일 오전?",
+      "preview": "저희는 6인 가족이 트레일 라이딩을 예약하려고 합니다...",
+      "pill": "지금 응답하세요",
       "pillColor": "red"
     },
     {
-      "from": "Amy W.",
+      "from": "에이미 W.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "Re: Sunset ride confirmed — Friday 5:30 PM",
-      "pill": "Booked",
+      "subject": "Re: 일몰 탑승이 확인되었습니다 — 금요일 오후 5시 30분",
+      "pill": "예약됨",
       "pillColor": "blue"
     },
     {
-      "from": "Brian L.",
+      "from": "브라이언 L.",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Weight limit and experience requirements?",
-      "pill": "Question",
+      "subject": "체중 제한 및 경험 요구 사항은 무엇입니까?",
+      "pill": "질문",
       "pillColor": "amber"
     },
     {
-      "from": "Viator",
+      "from": "바이에이터",
       "avatarLetter": "V",
       "avatarColor": "lavender",
-      "subject": "Your weekly booking summary",
+      "subject": "주간 예약 요약",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Tractor Supply",
+      "from": "트랙터 공급",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "Spring sale — 15% off feed & tack",
-      "pill": "Promotions",
+      "subject": "봄 세일 — 사료 및 압정 15% 할인",
+      "pill": "프로모션",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "jessica.t@email.com",
-    "subject": "Re: Group booking for 6 — Saturday morning?",
-    "originalFrom": "Jessica T. wrote:",
-    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "subject": "Re: 6인 단체 예약 — 토요일 오전인가요?",
+    "originalFrom": "제시카 T. 님이 쓴 글:",
+    "originalText": "안녕! 저희는 6인 가족(성인 2명, 8~14세 어린이 4명)이며 이번 토요일 아침에 트레일 라이딩을 예약하고 싶습니다. 예약 가능 여부 1인당 가격은 얼마인가요?",
     "lines": [
-      "Hey Jessica!",
-      "Saturday morning is wide open for 6. Trail rides are $100/person and run about 90 minutes through the valley. Kids 8 and up are welcome, so your whole crew is good to go.",
-      "Closed-toe shoes are required — boots are best. We provide helmets and match each rider to a horse based on size and experience. No prior riding experience needed.",
-      "Want me to lock you in for the 9 AM ride?"
+      "안녕 제시카!",
+      "토요일 아침에는 6명이 이용할 수 있습니다. 트레일 탑승 비용은 1인당 $100이며 계곡을 따라 약 90분 동안 운행됩니다. 8세 이상의 어린이도 환영하므로 전체 승무원이 함께 갈 수 있습니다.",
+      "발가락이 막힌 신발이 필요합니다. 부츠가 가장 좋습니다. 우리는 헬멧을 제공하고 크기와 경험에 따라 각 라이더에게 말을 연결합니다. 사전 라이딩 경험이 필요하지 않습니다.",
+      "오전 9시에 탑승할 수 있도록 당신을 묶어두길 원하시나요?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Trail rides are $100/person",
+    "highlightText": "토요일 아침에는 6명이 활짝 열려 있습니다. 트레일 탑승 비용은 1인당 $100입니다.",
     "tooltipFeatures": [
-      "Knows your pricing & availability",
-      "Drafts in your voice",
-      "Includes rider requirements automatically",
-      "Learns over time"
+      "가격 및 가용성을 알고 있습니다.",
+      "당신의 목소리에 초안이 들어있습니다.",
+      "라이더 요구사항을 자동으로 포함합니다.",
+      "시간이 지남에 따라 학습"
     ]
   },
   "agent": {
-    "userMessage": "Any rides open this weekend? Also, what's the weather looking like?",
-    "agentResponse": "Based on your calendar, you have openings Saturday at 9 AM and 2 PM, and Sunday at 10 AM. Saturday's forecast is 72°F and sunny — perfect riding weather. Sunday shows a 40% chance of afternoon rain, so the morning slot is the safer bet. Want me to draft replies to any pending inquiries with these times?",
-    "followUp": "Draft a reply to Jessica with the Saturday availability",
-    "followUpResponse": "Done! I drafted a reply to Jessica confirming Saturday at 9 AM for 6 riders at $100/person. It includes your standard rider requirements and what to wear. Ready to review and send."
+    "userMessage": "이번 주말에 놀이기구가 열리나요? 게다가 날씨는 어때요?",
+    "agentResponse": "달력에 따르면 토요일 오전 9시, 오후 2시, 일요일 오전 10시에 영업이 시작됩니다. 토요일 예상 기온은 72°F이고 화창합니다. 완벽한 라이딩 날씨입니다. 일요일에는 오후에 비가 올 확률이 40%이므로 오전 시간대가 더 안전합니다. 이 시간에 대기 중인 문의에 대한 답변 초안을 작성하시겠습니까?",
+    "followUp": "토요일 이용 가능 여부에 대해 Jessica에게 답장 초안 작성",
+    "followUpResponse": "완료! 저는 Jessica에게 토요일 오전 9시에 6명의 승객이 1인당 $100에 탑승할 수 있다는 답장 초안을 작성했습니다. 여기에는 표준 라이더 요구 사항과 착용 대상이 포함됩니다. 검토하고 보낼 준비가 되었습니다."
   },
-  "testimonialsTitle": "Loved by trail ride operators",
+  "testimonialsTitle": "트레일 라이드 운영자에게 사랑받는",
   "testimonials": [
     {
-      "name": "Jake H.",
-      "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "I'm out on the trail 6 hours a day with no cell service. By the time I got back to reply, half the people had booked somewhere else. Now Duet drafts responses with my pricing and ride details — I just review and send when I get back to the barn.",
+      "name": "제이크 H.",
+      "title": "목장 소유자 및 트레일 가이드, MT",
+      "quote": "나는 휴대폰 서비스 없이 하루 6시간 동안 트레일에 나가 있습니다. 내가 답장을 보냈을 때 절반의 사람들이 다른 곳을 예약했습니다. 이제 Duet에서 가격과 탑승 세부 정보가 포함된 응답 초안을 작성합니다. 헛간으로 돌아오면 검토하고 보내기만 하면 됩니다.",
       "avatarKey": "michael"
     },
     {
-      "name": "Maria C.",
-      "title": "Horseback Tour Operator, AZ",
-      "quote": "We get dozens of emails asking the same thing — weight limits, what to wear, age requirements. Duet handles all of it and the replies sound exactly like me. My guests have no idea it's AI.",
+      "name": "마리아 C.",
+      "title": "승마 투어 운영자, AZ",
+      "quote": "우리는 체중 제한, 복장, 연령 요건 등 동일한 내용을 묻는 수십 통의 이메일을 받습니다. Duet이 모든 것을 처리하고 답변은 저와 똑같습니다. 손님들은 그것이 AI인지 전혀 모릅니다.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Tyler S.",
-      "title": "Trail Ride Guide, CO",
-      "quote": "Peak season was killing me. 30+ emails a day on top of running rides. Duet sorts the booking requests from the noise and drafts replies that include everything — pricing, what to bring, the lot. I got my evenings back.",
+      "name": "타일러 S.",
+      "title": "트레일 라이드 가이드, 콜로라도",
+      "quote": "성수기가 나를 죽이고있었습니다. 달리는 라이딩 외에도 하루에 30개 이상의 이메일을 받습니다. Duet은 소음에서 예약 요청을 분류하고 가격, 가져올 것, 많은 것 등 모든 것을 포함하는 답변 초안을 작성합니다. 나는 저녁을 되찾았다.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Rachel M.",
-      "title": "Riding Instructor & Booking Manager, TX",
-      "quote": "We run sunset rides, morning rides, and private lessons — each with different pricing and requirements. Duet learned all of it in a week. It drafts the right reply for the right ride type every time.",
+      "name": "레이첼 M.",
+      "title": "승마 강사 및 예약 관리자, 텍사스",
+      "quote": "우리는 일몰 라이드, 아침 라이드, 개인 레슨을 운영하며 각각 가격과 요구 사항이 다릅니다. Duet은 일주일 만에 모든 것을 배웠습니다. 매번 올바른 라이딩 유형에 대한 올바른 응답 초안을 작성합니다.",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Diane K.",
-      "title": "Family Ranch & Trail Rides, CA",
-      "quote": "The sensitive emails were the worst — someone asking if they're too heavy, or if their kid is old enough. Duet handles those with the same care I would. Professional, kind, and accurate. That alone is worth it.",
+      "name": "다이앤 K.",
+      "title": "캘리포니아주 패밀리 랜치 & 트레일 라이드",
+      "quote": "민감한 이메일은 최악이었습니다. 누군가가 이메일이 너무 무거운지, 아니면 자녀가 충분히 나이가 들었는지 묻습니다. Duet은 저와 마찬가지로 주의 깊게 이러한 작업을 처리합니다. 전문적이고 친절하며 정확합니다. 그것만으로도 가치가 있습니다.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend the day with the horses,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "말과 함께 하루를 보내세요. \n받은편지함에는 없습니다.",
+  "ctaSubline": "무료 평가판을 시작하세요. 30초 안에 받은편지함을 연결하세요.",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle sensitive questions about weight or experience requirements?",
-      "answer": "Duet learns your specific policies and mirrors your tone. When someone asks about weight limits or experience requirements, it responds professionally and warmly — sharing the information they need without making it awkward. You set the tone once and Duet follows it consistently, so every guest feels respected."
+      "question": "Duet은 체중이나 경험 요구 사항에 대한 민감한 질문을 어떻게 처리합니까?",
+      "answer": "Duet은 귀하의 특정 정책을 학습하고 귀하의 톤을 반영합니다. 누군가 체중 제한이나 경험 요구 사항에 대해 질문하면 전문적이고 따뜻하게 응답하여 어색함 없이 필요한 정보를 공유합니다. 톤을 한 번 설정하면 Duet이 이를 일관되게 따르므로 모든 게스트가 존중받는다는 느낌을 받습니다."
     },
     {
-      "question": "Can Duet handle group bookings with different rider needs?",
-      "answer": "Yes. Duet learns your ride types, group sizes, age minimums, and any rider-specific requirements. When a family or group emails about booking, it drafts a reply that covers pricing for the full group, what each rider needs to know, and available time slots. You review and send — no back-and-forth needed."
+      "question": "Duet은 라이더 요구사항이 다른 그룹 예약을 처리할 수 있나요?",
+      "answer": "예. Duet은 라이딩 유형, 그룹 규모, 최소 연령 및 라이더별 요구 사항을 학습합니다. 가족이나 그룹이 예약에 관해 이메일을 보내면 전체 그룹의 가격, 각 라이더가 알아야 할 사항, 이용 가능한 시간대를 포함하는 답변 초안이 작성됩니다. 검토하고 전송하면 됩니다. 앞뒤로 이동할 필요가 없습니다."
     }
   ],
-  "pricingNote": "At $100/person for a group of 6, one saved ride pays for over two years of Pro."
+  "pricingNote": "6인 그룹의 경우 1인당 $100로 절약된 승차 1회에 대해 2년 이상의 Pro 비용을 지불할 수 있습니다."
 }

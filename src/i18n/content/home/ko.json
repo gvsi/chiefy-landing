@@ -1,33 +1,32 @@
 {
-  "translationStatus": "bootstrap-en",
   "meta": {
-    "title": "Duet Mail | AI Email Assistant for Gmail and Outlook",
-    "description": "Duet Mail's AI email assistant summarizes emails, drafts replies, and organizes your inbox. Works with Gmail and Outlook. Save 4+ hours weekly."
+    "title": "Duet Mail | AI Gmail 및 Outlook용 이메일 도우미",
+    "description": "Duet Mail의 AI 이메일 도우미는 이메일을 요약하고, 답장을 초안으로 작성하고, 받은 편지함을 정리합니다. Gmail 및 Outlook과 함께 작동합니다. 매주 4시간 이상을 절약하세요."
   },
   "hero": {
-    "badge": "Now available for Gmail and Outlook",
-    "headlinePrefix": "Your ",
-    "headlineHighlight": "chief of staff",
+    "badge": "이제 Gmail 및 Outlook에 사용 가능",
+    "headlinePrefix": "당신의 ",
+    "headlineHighlight": "참모장",
     "headlineSuffix": " for",
     "rotatingFeatures": [
-      "sorting email",
-      "drafting replies",
-      "scheduling",
-      "finding answers"
+      "이메일 정렬",
+      "답변 초안 작성",
+      "스케줄링",
+      "답을 찾는다"
     ],
-    "subline": "Save 4+ hours every week on email",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "trialNote": "Free 14-day trial",
-    "cancelNote": "Cancel anytime"
+    "subline": "이메일로 매주 4시간 이상 절약",
+    "primaryCta": "Gmail으로 시작",
+    "secondaryCta": "Outlook으로 시작",
+    "trialNote": "14일 무료 평가판",
+    "cancelNote": "언제든지 취소"
   },
   "inboxHeroMockup": {
     "ariaHidden": true,
     "callouts": [
-      "Instant categorization",
-      "AI-powered replies"
+      "즉각적인 분류",
+      "AI 기반 답변"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "받은편지함",
     "providers": [
       "Gmail",
       "Outlook"
@@ -36,140 +35,140 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "어제"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "자동 초안",
     "emails": [
       {
-        "from": "Alex Rivera",
+        "from": "알렉스 리베라",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
-        "preview": "Hey! Wanted to check in on the launch assets. Are we still on track for next week...",
-        "pill": "To Respond"
+        "subject": "답: 제품 출시 일정",
+        "preview": "여기요! 출시 자산을 확인하고 싶었습니다. 다음주에도 아직 진행중인가요...",
+        "pill": "응답하려면"
       },
       {
-        "from": "Emma Park",
+        "from": "엠마파크",
         "avatarLetter": "E",
-        "subject": "Quick sync this afternoon?",
-        "preview": "Would love to catch up on the roadmap updates. Are you free around 4pm...",
-        "pill": "Meeting"
+        "subject": "오늘 오후에 빠르게 동기화하시겠습니까?",
+        "preview": "로드맵 업데이트를 따라잡고 싶습니다. 오후 4시쯤 시간 있으세요...",
+        "pill": "회의"
       },
       {
-        "from": "Marketing",
+        "from": "마케팅",
         "avatarLetter": "M",
-        "subject": "Campaign Results Ready",
+        "subject": "캠페인 결과 준비됨",
         "pill": "FYI"
       },
       {
-        "from": "Shopify",
+        "from": "쇼피파이",
         "avatarLetter": "S",
-        "subject": "Your store is ready for Black Friday",
-        "pill": "Promotions"
+        "subject": "귀하의 매장은 블랙 프라이데이를 맞이할 준비가 되어 있습니다",
+        "pill": "프로모션"
       }
     ],
-    "autodraft": "Hi Alex! Yes, we're on track. The design team finished the assets yesterday and I'll send over the final files by EOD today."
+    "autodraft": "안녕 알렉스! 예, 우리는 순조롭게 진행 중입니다. 디자인 팀이 어제 자산을 완료했으며 오늘 EOD까지 최종 파일을 보내드리겠습니다."
   },
   "logos": {
-    "ariaLabel": "Customer logos",
-    "headingPrefix": "Trusted by forward-looking",
-    "headingHighlight": " professionals and teams ",
-    "headingSuffix": "worldwide"
+    "ariaLabel": "고객 로고",
+    "headingPrefix": "미래지향적인 사람이 신뢰하는",
+    "headingHighlight": " 전문가와 팀 ",
+    "headingSuffix": "세계적인"
   },
   "features": {
-    "ariaLabel": "Features",
-    "eyebrow": "Your Inbox, Supercharged",
-    "title": "Your inbox shouldn't own your day",
-    "subtitle": "Transform chaos into clarity with AI that actually gets you.\nSave 3+ hours every week with the smartest email assistant for Gmail and Outlook.",
+    "ariaLabel": "특징",
+    "eyebrow": "귀하의 받은 편지함을 더욱 강력하게",
+    "title": "받은 편지함에 하루가 담겨 있어서는 안 됩니다.",
+    "subtitle": "실제로 당신을 사로잡는 AI를 통해 혼돈을 명료함으로 바꿔보세요. \nGmail 및 Outlook을 위한 가장 스마트한 이메일 도우미를 사용하여 매주 3시간 이상을 절약하세요.",
     "cards": [
       {
         "id": "drafts",
-        "title": "Email drafts that sound like You",
-        "description": "Duet AI email writer prepares drafts for your most important emails. It learns your tone and writing styles.",
-        "ariaLabel": "Email drafts that sound like you",
+        "title": "당신처럼 들리는 이메일 초안",
+        "description": "Duet AI 이메일 작성자는 가장 중요한 이메일의 초안을 준비합니다. 당신의 어조와 글쓰기 스타일을 학습합니다.",
+        "ariaLabel": "당신과 비슷한 이메일 초안",
         "mockCopy": {
-          "draftedColdEmail": "I drafted a cold email personalized for John",
-          "sampleText": "AI pipelines are essential for building robust, scalable, and efficient AI systems.",
-          "readyToSend": "Ready to send?",
-          "remindFollowUp": "Remind me to follow up."
+          "draftedColdEmail": "John을 위해 개인화된 콜드 이메일 초안을 작성했습니다.",
+          "sampleText": "AI 파이프라인은 강력하고 확장 가능하며 효율적인 AI 시스템을 구축하는 데 필수적입니다.",
+          "readyToSend": "보낼 준비가 되셨나요?",
+          "remindFollowUp": "후속 조치를 취하도록 상기시켜 주세요."
         }
       },
       {
         "id": "summaries",
-        "title": "Instant Summaries & Action Items",
-        "description": "Get the TL;DR and action items from your email contents in seconds. No more reading novels in your inbox.",
-        "ariaLabel": "Instant summaries and action items",
+        "title": "즉각적인 요약 및 작업 항목",
+        "description": "몇 초 만에 이메일 내용에서 TL;DR 및 작업 항목을 가져옵니다. 더 이상 받은편지함에서 소설을 읽지 마세요.",
+        "ariaLabel": "즉각적인 요약 및 작업 항목",
         "mockCopy": {
-          "sentencePrefix": "I propose we ",
-          "sentenceHighlight": "meet next week",
+          "sentencePrefix": "나는 우리를 제안한다 ",
+          "sentenceHighlight": "다음 주에 만나요",
           "sentenceSuffix": " ?",
-          "actionTitle": "New Action Item",
-          "actionLead": "I found these free slots in your calendar",
+          "actionTitle": "새 작업 항목",
+          "actionLead": "네 캘린더에서 무료 슬롯을 찾았어",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "화요일 오전 10시",
+            "목요일 오후 2시",
+            "금요일, 오전 9시"
           ],
-          "secondaryButton": "Find more",
-          "primaryButton": "Send"
+          "secondaryButton": "더 찾아보세요",
+          "primaryButton": "보내다"
         }
       },
       {
         "id": "reminders",
-        "title": "Intelligent Reminders",
-        "description": "Set it and forget it. Duet AI remembers to follow up when others don't respond, so nothing falls through the cracks.",
-        "ariaLabel": "Intelligent reminders",
+        "title": "지능형 알림",
+        "description": "설정하고 잊어버리세요. Duet AI은 다른 사람이 응답하지 않을 때 후속 조치를 취하는 것을 기억하므로 문제가 발생하지 않습니다.",
+        "ariaLabel": "지능형 알림",
         "mockCopy": {
-          "header": "AI-Powered Smart Reminders",
+          "header": "AI-전원 스마트 알림",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "후속 조치",
               "value": "12",
-              "unit": "emails"
+              "unit": "이메일"
             },
             {
-              "label": "To reply",
+              "label": "답장하려면",
               "value": "2",
-              "unit": "emails"
+              "unit": "이메일"
             },
             {
-              "label": "Completed",
+              "label": "완전한",
               "value": "3",
-              "unit": "action items"
+              "unit": "조치 항목"
             }
           ],
           "reminders": [
             {
-              "title": "Complete writing tasks",
-              "time": "2 days ago"
+              "title": "쓰기 작업 완료",
+              "time": "2일 전"
             },
             {
-              "title": "Project Integration",
-              "time": "12 hours ago"
+              "title": "프로젝트 통합",
+              "time": "12시간 전"
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "따르다",
+            "일정을 변경하시겠습니까?"
           ]
         }
       },
       {
         "id": "focus",
-        "title": "Focus on What Matters",
-        "description": "Smart categorization surfaces your most important emails first, and categorizes emails into topics. Email Management has never been easier.",
-        "ariaLabel": "Focus on what matters",
+        "title": "중요한 것에 집중하세요",
+        "description": "스마트 분류는 가장 중요한 이메일을 먼저 표시하고 이메일을 주제별로 분류합니다. 이메일 관리가 그 어느 때보다 쉬워졌습니다.",
+        "ariaLabel": "중요한 것에 집중하세요",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "분석 중"
         }
       }
     ]
   },
   "categorizationShowcase": {
-    "ariaLabel": "Email organization and smart inbox categorization",
-    "badge": "Organization",
-    "title": "Duet organizes your inbox",
-    "subtitle": "Automatic categorization filters noise and surfaces what matters. Instantly see what needs action, what's just FYI, and what can wait.",
-    "windowTitle": "Inbox",
+    "ariaLabel": "이메일 정리 및 스마트 받은편지함 분류",
+    "badge": "조직",
+    "title": "Duet은 받은 편지함을 정리합니다",
+    "subtitle": "자동 분류는 중요한 소음과 표면을 필터링합니다. 조치가 필요한 항목, 참고할 만한 항목, 기다릴 수 있는 항목을 즉시 확인하세요.",
+    "windowTitle": "받은편지함",
     "providers": [
       "Gmail",
       "Outlook"
@@ -178,272 +177,272 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "어제",
+      "12월 20일"
     ],
     "emails": [
       {
-        "from": "Sarah Chen",
+        "from": "사라 첸",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
-        "preview": "The finalized numbers are attached. Please review by EOD.",
-        "pill": "Action Needed"
+        "subject": "4분기 예산 검토 요청",
+        "preview": "최종 번호가 첨부되어 있습니다. EOD까지 검토해 주세요.",
+        "pill": "필요한 조치"
       },
       {
-        "from": "Michael Torres",
+        "from": "마이클 토레스",
         "avatarLetter": "M",
-        "subject": "Team standup tomorrow at 10am",
-        "pill": "Meeting"
+        "subject": "내일 오전 10시에 팀 스탠드업",
+        "pill": "회의"
       },
       {
-        "from": "Design Team",
+        "from": "디자인팀",
         "avatarLetter": "D",
-        "subject": "New brand guidelines published",
+        "subject": "새로운 브랜드 가이드라인이 발표되었습니다.",
         "pill": "FYI"
       },
       {
         "from": "Stripe",
-        "subject": "Your monthly statement is ready",
-        "pill": "Promotions"
+        "subject": "월별 명세서가 준비되었습니다",
+        "pill": "프로모션"
       },
       {
-        "from": "Newsletter",
-        "subject": "Weekly digest",
-        "pill": "Promotions"
+        "from": "회람 신문",
+        "subject": "주간 다이제스트",
+        "pill": "프로모션"
       }
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AI email drafting and reply generation",
-    "badge": "Drafting",
-    "title": "Duet drafts in your voice",
-    "subtitle": "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds.",
-    "windowTitle": "New Message",
+    "ariaLabel": "AI 이메일 초안 작성 및 답변 생성",
+    "badge": "제도",
+    "title": "당신의 목소리로 듀엣 초안을 작성하세요",
+    "subtitle": "Duet은 귀하의 작성 방법을 학습하고 귀하의 어조에 맞는 답변 초안을 작성합니다. 필요한 경우 검토하고 조정한 후 몇 초 안에 보내세요.",
+    "windowTitle": "새 메시지",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "에게:",
+      "subject": "주제:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
-      "originalText": "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you.",
-      "badge": "Autodrafted",
+      "subject": "Re: 이번 주에 빠른 동기화를 원하시나요?",
+      "originalFrom": "알렉스 리베라는 다음과 같이 썼습니다.",
+      "originalText": "여기요! 로드맵 변경 사항을 따라잡고 싶습니다. 이번 주에 30분간 통화할 ​​수 있나요? 당신에게 맞는 것이 무엇인지 알려주세요.",
+      "badge": "자동 초안",
       "lines": [
-        "Hey Alex!",
-        "Would love to sync on the roadmap. I'm free Thursday 2-4pm or Friday morning — either works great for me.",
-        "Let me know what suits you best and I'll send over an invite.",
-        "Thanks!  "
+        "안녕 알렉스!",
+        "로드맵을 동기화하고 싶습니다. 저는 목요일 오후 2-4시나 금요일 오전에 시간이 있습니다. 어느 쪽이든 제게는 아주 좋습니다.",
+        "귀하에게 가장 적합한 것이 무엇인지 알려주시면 초대장을 보내드리겠습니다.",
+        "감사해요!  "
       ],
-      "highlightText": "I'm free Thursday 2-4pm or Friday morning",
+      "highlightText": "목요일 오후 2~4시 또는 금요일 오전에 시간이 있어요",
       "actions": [
-        "Send",
-        "Edit"
+        "보내다",
+        "편집하다"
       ],
-      "tooltipTitle": "Personalized Draft",
+      "tooltipTitle": "맞춤형 초안",
       "tooltipFeatures": [
-        "Knows your calendar",
-        "Drafts in your voice",
-        "Knows context through memory",
-        "Learns over time"
+        "당신의 달력을 알고 있습니다",
+        "당신의 목소리에 초안이 들어있습니다.",
+        "기억을 통해 맥락을 안다",
+        "시간이 지남에 따라 학습"
       ]
     }
   },
   "agentChatShowcase": {
-    "ariaLabel": "AI email intelligence and assistant",
-    "badge": "Intelligence",
-    "title": "Ask anything about your email",
-    "subtitle": "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly.",
-    "windowTitle": "Duet Agent",
-    "onlineLabel": "Online",
-    "initialUserMessage": "Can you find the Stripe invoice sent by Accounting?",
-    "processingText": "Searching inbox...",
-    "foundHeader": "Found 2 emails from Stripe",
-    "foundBody": "I found the receipt for $29.00 USD from Oct 24th.",
+    "ariaLabel": "AI 이메일 인텔리전스 및 도우미",
+    "badge": "지능",
+    "title": "이메일에 관해 무엇이든 물어보세요",
+    "subtitle": "Duet에게 이메일 찾기, 캘린더 확인, 답장 초안 작성을 요청하세요. 받은 편지함을 이해하고 즉시 답변합니다.",
+    "windowTitle": "듀엣 에이전트",
+    "onlineLabel": "온라인",
+    "initialUserMessage": "회계팀에서 보낸 Stripe 송장을 찾을 수 있나요?",
+    "processingText": "받은편지함 검색 중...",
+    "foundHeader": "Stripe에서 보낸 이메일 2개를 찾았습니다.",
+    "foundBody": "10월 24일자 $29.00 USD의 영수증을 찾았습니다.",
     "attachment": {
-      "fileName": "invoice_oct24.pdf",
-      "fileSize": "142 KB"
+      "fileName": "voice_oct24.pdf",
+      "fileSize": "142KB"
     },
     "suggestions": [
       {
-        "action": "draft",
-        "label": "Draft a reply"
+        "action": "초안",
+        "label": "답장 초안 작성"
       },
       {
-        "action": "calendar",
-        "label": "Find time to meet"
+        "action": "달력",
+        "label": "만날 시간 찾기"
       }
     ],
-    "inputPlaceholder": "Ask anything...",
+    "inputPlaceholder": "무엇이든 물어보세요...",
     "dynamicResponses": {
-      "processingDefault": "Processing...",
-      "processingDraft": "Generating draft...",
-      "processingCalendar": "Checking availability...",
-      "draftIntro": "Here's a draft reply to Accounting:",
-      "draftHeader": "Draft: accounting@company.com",
+      "processingDefault": "처리 중...",
+      "processingDraft": "초안 생성 중...",
+      "processingCalendar": "이용 가능 여부 확인 중...",
+      "draftIntro": "다음은 회계에 대한 답변 초안입니다.",
+      "draftHeader": "초안: accounting@company.com",
       "draftLines": [
-        "Hi Team,",
-        "Please find attached the Stripe invoice for October ($29.00).",
-        "Let me know if you need anything else.",
-        "Best,"
+        "안녕하세요 팀,",
+        "10월의 Stripe 송장($29.00)을 첨부해 주시기 바랍니다.",
+        "다른 필요한 사항이 있으면 알려주시기 바랍니다.",
+        "최상의,"
       ],
       "draftActions": [
-        "Send Email",
-        "Edit"
+        "이메일 보내기",
+        "편집하다"
       ],
-      "calendarIntro": "You have 3 slots open tomorrow:",
+      "calendarIntro": "내일은 3개의 슬롯이 열려 있습니다.",
       "calendarSlots": [
         {
           "time": "9:30 AM",
-          "duration": "30 min"
+          "duration": "30분"
         },
         {
           "time": "2:00 PM",
-          "duration": "30 min"
+          "duration": "30분"
         },
         {
           "time": "4:30 PM",
-          "duration": "30 min"
+          "duration": "30분"
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Also draft the reply?",
-        "calendarAfterDraft": "Also schedule a follow-up?"
+        "draftAfterCalendar": "답변 초안도 작성하시겠습니까?",
+        "calendarAfterDraft": "후속 조치도 예약하시겠습니까?"
       }
     }
   },
   "testimonials": {
-    "ariaLabel": "Testimonials",
-    "scrollingAriaLabel": "Scrolling testimonials",
-    "eyebrow": "Testimonials",
-    "title": "Loved by busy professionals",
-    "subtitle": "Real people. Real inbox wins.",
+    "ariaLabel": "사용후기",
+    "scrollingAriaLabel": "스크롤링 사용후기",
+    "eyebrow": "사용후기",
+    "title": "바쁜 직장인들에게 사랑받는",
+    "subtitle": "진짜 사람들. 실제받은 편지함이 승리합니다.",
     "items": [
       {
-        "name": "Francesca T.",
-        "title": "Freelancer",
-        "quote": "Worth every penny. The time I save on email pays for Duet Mail 10x over. Can't imagine working without it now.",
+        "name": "프란체스카 T.",
+        "title": "프리랜서",
+        "quote": "모든 페니의 가치가 있습니다. 이메일로 절약한 시간은 Duet Mail의 10배 이상을 지불합니다. 지금은 그것 없이 일하는 것을 상상할 수 없습니다.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
       {
-        "name": "Michael R.",
-        "title": "Sales Executive",
-        "quote": "The instant summaries of long email threads are pure magic, and so user-friendly. My clients think I'm superhuman.",
+        "name": "마이클 R.",
+        "title": "영업담당",
+        "quote": "긴 이메일 스레드의 즉각적인 요약은 순수한 마법과도 같으며 사용자 친화적입니다. 내 고객은 내가 초인적이라고 생각합니다.",
         "logoName": "Upwork",
         "avatarKey": "michael"
       },
       {
-        "name": "Johnny S.",
-        "title": "Entrepreneur",
-        "quote": "Was skeptical of artificial intelligence use for my emails. Now, it's like having a brilliant executive assistant. Can't imagine going back.",
+        "name": "조니 S.",
+        "title": "기업가",
+        "quote": "내 이메일에 인공 지능을 사용하는 것에 회의적이었습니다. 이제 그것은 훌륭한 임원 보조원을 갖는 것과 같습니다. 돌아가는 것은 상상할 수 없습니다.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
       {
-        "name": "Jennifer L.",
-        "title": "Consultant",
-        "quote": "As a consultant, every minute counts. Duet Mail doesn't just save me time—it makes my email communication sharper.",
+        "name": "제니퍼 L.",
+        "title": "컨설턴트",
+        "quote": "컨설턴트에게는 매 순간이 중요합니다. Duet Mail은 시간을 절약해줄 뿐만 아니라 이메일 커뮤니케이션을 더욱 선명하게 만들어줍니다.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
       {
-        "name": "Sarah T.",
-        "title": "Marketing Director",
-        "quote": "Finally, an AI mail assistant that actually learns how I write. The instant replies are so spot-on, my team thought I was working at midnight.",
+        "name": "사라 T.",
+        "title": "마케팅 이사",
+        "quote": "마지막으로, 제가 쓰는 방법을 실제로 배우는 AI 메일 도우미입니다. 즉각적인 응답이 너무 정확해서 우리 팀에서는 제가 자정에 일하고 있다고 생각했습니다.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
     ]
   },
   "pricing": {
-    "ariaLabel": "Pricing",
-    "eyebrow": "Pricing",
-    "heading": "Simple pricing, powerful inbox",
-    "subheading": "Start free, upgrade anytime. Cancel whenever.",
-    "billingLegend": "Billing cadence",
-    "billingAnnual": "Annual",
-    "billingMonthly": "Monthly",
-    "savingsTag": "Save 33%",
+    "ariaLabel": "가격",
+    "eyebrow": "가격",
+    "heading": "간단한 가격, 강력한 받은편지함",
+    "subheading": "무료로 시작하고 언제든지 업그레이드하세요. 언제든지 취소하세요.",
+    "billingLegend": "청구 주기",
+    "billingAnnual": "연간",
+    "billingMonthly": "월간 간행물",
+    "savingsTag": "33% 할인",
     "priceCadence": "/month",
     "perUserSuffix": "/user",
-    "annualBillingSuffix": "(billed yearly)",
+    "annualBillingSuffix": "(연간 청구)",
     "trustItems": [
-      "Secure checkout via Stripe",
-      "Cancel anytime"
+      "Stripe을(를) 통한 보안 결제",
+      "언제든지 취소"
     ],
     "plans": [
       {
-        "name": "Basic",
-        "description": "For anyone curious about what a smarter inbox feels like. No commitment required.",
+        "name": "기초적인",
+        "description": "더 스마트해진 받은편지함이 어떤 느낌인지 궁금하신 분을 위한 제품입니다. 약속이 필요하지 않습니다.",
         "priceLabel": "Free",
         "features": [
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread"
+            "title": "즉석 요약",
+            "description": "스레드의 요점 파악"
           },
           {
-            "title": "AI Drafts",
-            "description": "A taste of replies in your voice"
+            "title": "AI 초안",
+            "description": "당신의 목소리로 답장을 맛보세요"
           },
           {
-            "title": "Smart Inbox",
-            "description": "Basic organization to start"
+            "title": "스마트 받은편지함",
+            "description": "시작하기 위한 기본 조직"
           },
           {
-            "title": "Duet Assistant",
-            "description": "Try the AI assistant"
+            "title": "듀엣 어시스턴트",
+            "description": "AI 어시스턴트를 사용해 보세요"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Gmail 또는 Outlook을 선택하세요."
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
-        "description": "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
+        "badge": "14일 무료 평가판",
+        "description": "더욱 심층적인 자동화, 통합 및 귀하의 작업 방식을 진정으로 알고 있는 받은 편지함을 원하는 전문가를 위한 것입니다.",
         "priceByBilling": {
           "annual": "19.99",
           "monthly": "29.99"
         },
         "features": [
           {
-            "title": "Smart Inbox",
-            "description": "Emails auto-sorted into smart categories",
+            "title": "스마트 받은편지함",
+            "description": "스마트 카테고리로 자동 정렬된 이메일",
             "highlight": true
           },
           {
-            "title": "AI Drafts",
-            "description": "Replies written in your voice, ready to send",
+            "title": "AI 초안",
+            "description": "음성으로 답장을 작성하여 보낼 준비가 되었습니다.",
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
-            "description": "Chat to find, draft, organize & more",
+            "title": "듀엣 어시스턴트",
+            "description": "채팅을 통해 찾기, 초안 작성, 정리 등",
             "highlight": true
           },
           {
-            "title": "Calendar Integration",
-            "description": "Schedule, view & manage events from your inbox"
+            "title": "캘린더 통합",
+            "description": "받은편지함에서 이벤트 예약, 보기, 관리"
           },
           {
-            "title": "Instant Summaries",
-            "description": "Get the gist of any thread or attachment"
+            "title": "즉석 요약",
+            "description": "스레드나 첨부 파일의 요점을 파악하세요."
           },
           {
-            "title": "Smart Reminders",
-            "description": "Follow-ups surface automatically so nothing slips"
+            "title": "스마트 알림",
+            "description": "후속 조치가 자동으로 표시되므로 미끄러지는 일이 없습니다."
           },
           {
-            "title": "Priority Support",
-            "description": "Real humans, fast responses"
+            "title": "우선 지원",
+            "description": "실제 인간, 빠른 응답"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Gmail 또는 Outlook을 선택하세요.",
         "featured": true
       },
       {
-        "name": "Enterprise",
-        "description": "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
+        "name": "기업",
+        "description": "엔터프라이즈급 규모, 전담 지원, 맞춤형 워크플로가 필요한 조직을 위한 제품입니다. 50명 이상의 팀에 가장 적합합니다.",
         "priceByBilling": {
           "annual": "49.99",
           "monthly": "69.99"
@@ -451,115 +450,115 @@
         "perUser": true,
         "features": [
           {
-            "title": "Everything in Pro",
-            "description": "All features included"
+            "title": "Pro의 모든 것",
+            "description": "모든 기능 포함"
           },
           {
-            "title": "Dedicated Support",
-            "description": "Personal account manager"
+            "title": "전담 지원",
+            "description": "개인 계정 관리자"
           },
           {
-            "title": "Team Analytics",
-            "description": "Insights across your organization"
+            "title": "팀 분석",
+            "description": "조직 전체에 대한 통찰력"
           },
           {
-            "title": "Shared Workflows",
-            "description": "Templates & automations for teams"
+            "title": "공유 워크플로",
+            "description": "팀을 위한 템플릿 및 자동화"
           }
         ],
-        "ctaLabel": "Contact sales",
-        "ctaNote": "Custom pricing available"
+        "ctaLabel": "영업팀에 문의",
+        "ctaNote": "맞춤형 가격 책정 가능"
       }
     ]
   },
   "faq": {
-    "ariaLabel": "Frequently asked questions",
+    "ariaLabel": "자주 묻는 질문",
     "eyebrow": "FAQ",
-    "headingPrefix": "Common questions, ",
-    "headingAccent": "answered",
+    "headingPrefix": "일반적인 질문, ",
+    "headingAccent": "대답했다",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
-    "contactHeading": "Still have questions?",
-    "contactCta": "Get in touch →",
-    "footerBrand": "DUET MAIL",
+    "contactLabel": "연락하다",
+    "contactHeading": "아직도 질문이 있으신가요?",
+    "contactCta": "연락하기 →",
+    "footerBrand": "듀엣 메일",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail은(는) 내 이메일 데이터를 어떻게 보호하나요?",
+        "answer": "귀하의 보안이 우리의 최우선 사항입니다. 우리는 Google 및 Microsoft 모두에 대한 보안 인증을 위해 OAuth 2.0을 사용합니다. 이메일 콘텐츠는 클라이언트 측 필드 수준 암호화를 사용하여 저장 시 암호화되며 API 액세스에 대한 최소 권한 원칙을 따릅니다. Google 통합을 위해 우리는 Google의 연간 CASA 보안 평가를 받습니다."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "이메일 요약 기능은 어떻게 작동하나요?",
+        "answer": "Duet Mail은 고급 AI을 사용하여 이메일 스레드를 분석하고 핵심 사항, 결정 및 작업 항목을 강조하는 간결한 개요를 생성합니다. 이렇게 하면 전체 스레드를 읽지 않고도 컨텍스트를 빠르게 이해할 수 있습니다."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail에는 어떤 권한이 필요합니까?",
+        "answer": "Duet Mail에서는 요약 제공, 작업 항목 추출, 콘텐츠 생성 및 이메일 전송을 위해 이메일에 대한 액세스 권한이 필요합니다. 우리는 꼭 필요한 권한만 요청합니다. 귀하는 Google 계정 또는 Microsoft 계정 설정에서 언제든지 이러한 권한을 검토하고 취소할 수 있습니다."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "무료 평가판에는 무엇이 포함되어 있나요?",
+        "answer": "14일 무료 평가판에는 무제한 이메일 요약, 작업 항목 추출, AI 이메일 작성기(제한 없이 이메일 및 초안 생성), 사용자 정의 이메일 템플릿 등 모든 Pro 기능에 대한 전체 액세스가 포함됩니다. Google 또는 Microsoft로 로그인하여 이메일 관리 시간을 절약하세요."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "다른 이메일 제공업체에서 Duet Mail을(를) 사용할 수 있나요?",
+        "answer": "Duet Mail은 Gmail, Google Workspace 및 Microsoft Outlook을 지원합니다. 시작하려면 Google 또는 Microsoft 계정으로 로그인하세요."
       }
     ]
   },
   "finalCta": {
-    "ariaLabel": "Get started",
-    "headline": "Get 4 hours back.\nEvery week.",
-    "subline": "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting.",
-    "primaryCta": "Start with Gmail",
-    "secondaryCta": "Start with Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "ariaLabel": "시작하기",
+    "headline": "4시간 전으로 돌아가세요. \n매주.",
+    "subline": "혼란이 아닌 명쾌하게 하루를 시작하는 전문가들과 함께 하세요. 무료 평가판이 기다리고 있습니다.",
+    "primaryCta": "Gmail으로 시작",
+    "secondaryCta": "Outlook으로 시작",
+    "note": "14일 무료 평가판 · 언제든지 취소 가능",
     "trustItems": [
-      "Google CASA-assessed",
-      "Encrypted at rest",
-      "Secure OAuth 2.0"
+      "Google CASA 평가",
+      "저장 시 암호화됨",
+      "보안 OAuth 2.0"
     ]
   },
   "footer": {
-    "ariaLabel": "Site footer",
-    "brandIconAlt": "Duet Mail icon",
+    "ariaLabel": "사이트 바닥글",
+    "brandIconAlt": "Duet Mail 아이콘",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — The AI Email Assistant that saves you hours every week",
+    "tagline": "Duet Mail — 매주 시간을 절약해 주는 AI 이메일 도우미",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
-        "title": "Explore",
+        "title": "탐구하다",
         "links": [
           {
-            "label": "Organization",
+            "label": "조직",
             "href": "/ko#organization"
           },
           {
-            "label": "Drafting",
+            "label": "제도",
             "href": "/ko#drafting"
           },
           {
-            "label": "Intelligence",
+            "label": "지능",
             "href": "/ko#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "크롬 확장 프로그램",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
         ]
       },
       {
-        "title": "Customers",
+        "title": "고객",
         "links": [
           {
-            "label": "Pricing",
+            "label": "가격",
             "href": "/ko#pricing"
           },
           {
-            "label": "Testimonials",
+            "label": "사용후기",
             "href": "/ko#testimonials"
           },
           {
@@ -569,35 +568,35 @@
         ]
       },
       {
-        "title": "Legal",
+        "title": "합법적인",
         "links": [
           {
-            "label": "Privacy",
+            "label": "은둔",
             "href": "/ko/privacy"
           },
           {
-            "label": "Terms",
+            "label": "자귀",
             "href": "/ko/terms"
           },
           {
-            "label": "Cookies",
+            "label": "쿠키",
             "href": "/ko/cookies"
           },
           {
-            "label": "Disclaimer",
+            "label": "부인 성명",
             "href": "/ko/disclaimer"
           }
         ]
       },
       {
-        "title": "Connect",
+        "title": "연결하다",
         "links": [
           {
-            "label": "Blog",
+            "label": "블로그",
             "href": "/ko/blog"
           },
           {
-            "label": "LinkedIn",
+            "label": "링크드인",
             "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
@@ -607,12 +606,12 @@
             "external": true
           },
           {
-            "label": "Instagram",
+            "label": "인스타그램",
             "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
-            "label": "Startup Fame",
+            "label": "스타트업 명성",
             "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
@@ -621,42 +620,42 @@
     ]
   },
   "math": {
-    "ariaLabel": "Return on investment",
-    "label": "The math",
-    "narrativeTemplate": "At {pricePerBooking} per {bookingUnit}, losing just {lostPerMonth} to slow replies =",
+    "ariaLabel": "투자 수익",
+    "label": "수학",
+    "narrativeTemplate": "{bookingUnit}당 {pricePerBooking}에서 느린 응답으로 인해 {lostPerMonth}만 손실됨 =",
     "lossSuffix": "/mo gone",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "이중주",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Duet - Gmail 및 Outlook용 AI 이메일 도우미",
     "organizationName": "Duet Mail",
-    "organizationContactType": "Customer Support",
+    "organizationContactType": "고객 지원",
     "softwareName": "Duet Mail",
-    "softwareDescription": "AI email assistant for Gmail and Outlook that automatically summarizes emails, drafts replies in your voice, and organizes your inbox to save hours every week.",
-    "applicationCategory": "CommunicationApplication",
+    "softwareDescription": "AI Gmail 및 Outlook용 이메일 도우미는 자동으로 이메일을 요약하고 음성으로 답장을 초안으로 작성하며 받은 편지함을 정리하여 매주 시간을 절약합니다.",
+    "applicationCategory": "통신응용",
     "featureList": [
-      "Smart email organization and categorization",
-      "AI-powered email drafting in your voice",
-      "Intelligent email assistant with calendar integration",
-      "Automatic email summaries and action items",
-      "Smart reminders for follow-ups"
+      "스마트한 이메일 구성 및 분류",
+      "AI을 통해 음성으로 이메일 초안 작성",
+      "캘린더 통합을 갖춘 지능형 이메일 도우미",
+      "자동 이메일 요약 및 작업 항목",
+      "후속 조치를 위한 스마트 알림"
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "기본 계획",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Free plan with instant summaries, AI drafts, and smart inbox"
+        "description": "즉각적인 요약, AI 초안 및 스마트 받은편지함이 포함된 무료 요금제"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro 계획",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MONTH",
-        "description": "Full access with smart inbox categorization, AI drafts, assistant, and calendar integration"
+        "unitText": "월",
+        "description": "스마트 받은편지함 분류, AI 초안, 도우미 및 캘린더 통합을 통한 전체 액세스"
       }
     ],
     "aggregateRating": {
@@ -664,7 +663,7 @@
       "ratingCount": "853"
     },
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "자바스크립트가 필요합니다. Gmail, Google Workspace 및 Microsoft Outlook와 함께 작동합니다.",
     "urls": {
       "site": "https://duetmail.com/ko",
       "logo": "https://duetmail.com/favicon.svg",
@@ -677,24 +676,24 @@
     },
     "faq": [
       {
-        "question": "How does Duet Mail protect my email data?",
-        "answer": "Your security is our top priority. We use OAuth 2.0 for secure authentication with both Google and Microsoft. Email content is encrypted at rest using client-side field-level encryption, and we follow the principle of least privilege for API access. For our Google integration, we undergo Google's annual CASA security assessment."
+        "question": "Duet Mail은(는) 내 이메일 데이터를 어떻게 보호하나요?",
+        "answer": "귀하의 보안이 우리의 최우선 사항입니다. 우리는 Google 및 Microsoft 모두에 대한 보안 인증을 위해 OAuth 2.0을 사용합니다. 이메일 콘텐츠는 클라이언트 측 필드 수준 암호화를 사용하여 저장 시 암호화되며 API 액세스에 대한 최소 권한 원칙을 따릅니다. Google 통합을 위해 우리는 Google의 연간 CASA 보안 평가를 받습니다."
       },
       {
-        "question": "How does the email summary feature work?",
-        "answer": "Duet Mail uses advanced AI to analyze your email threads and generate a concise overview highlighting the key points, decisions, and action items. This helps you quickly understand the context without reading the entire thread."
+        "question": "이메일 요약 기능은 어떻게 작동하나요?",
+        "answer": "Duet Mail은 고급 AI을 사용하여 이메일 스레드를 분석하고 핵심 사항, 결정 및 작업 항목을 강조하는 간결한 개요를 생성합니다. 이렇게 하면 전체 스레드를 읽지 않고도 컨텍스트를 빠르게 이해할 수 있습니다."
       },
       {
-        "question": "What permissions does Duet Mail need?",
-        "answer": "Duet Mail requires access to your emails to provide summaries, extract action items, generate content, and send your emails. We only request permissions we absolutely need. You can review and revoke these permissions at any time in your Google Account or Microsoft Account settings."
+        "question": "Duet Mail에는 어떤 권한이 필요합니까?",
+        "answer": "Duet Mail에서는 요약 제공, 작업 항목 추출, 콘텐츠 생성 및 이메일 전송을 위해 이메일에 대한 액세스 권한이 필요합니다. 우리는 꼭 필요한 권한만 요청합니다. 귀하는 Google 계정 또는 Microsoft 계정 설정에서 언제든지 이러한 권한을 검토하고 취소할 수 있습니다."
       },
       {
-        "question": "What's included in the free trial?",
-        "answer": "The 14-day free trial includes full access to all Pro features: unlimited email summaries, action item extraction, AI email writer (generating emails and drafts without any limits), and custom email templates. Sign in with Google or Microsoft to start saving time on email management."
+        "question": "무료 평가판에는 무엇이 포함되어 있나요?",
+        "answer": "14일 무료 평가판에는 무제한 이메일 요약, 작업 항목 추출, AI 이메일 작성기(제한 없이 이메일 및 초안 생성), 사용자 정의 이메일 템플릿 등 모든 Pro 기능에 대한 전체 액세스가 포함됩니다. Google 또는 Microsoft로 로그인하여 이메일 관리 시간을 절약하세요."
       },
       {
-        "question": "Can I use Duet Mail with other email providers?",
-        "answer": "Duet Mail supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
+        "question": "다른 이메일 제공업체에서 Duet Mail을(를) 사용할 수 있나요?",
+        "answer": "Duet Mail은 Gmail, Google Workspace 및 Microsoft Outlook을 지원합니다. 시작하려면 Google 또는 Microsoft 계정으로 로그인하세요."
       }
     ]
   }

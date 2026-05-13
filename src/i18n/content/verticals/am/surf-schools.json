@@ -1,115 +1,114 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ surf instructors",
-  "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail ለሰርፍ ትምህርት ቤቶች እና ፓድልቦርድ ኦፕሬተሮች | AI ኢሜይል ረዳት",
+  "metaDescription": "Duet Mail ሰርፍ አስተማሪዎች እና ፓድልቦርድ ኦፕሬተሮች ኢሜይሎችን ለማስያዝ በቅጽበት ምላሽ እንዲሰጡ ያግዛቸዋል - በማስተማር ላይ እያለም ቢሆን። በAI የተነደፉ ምላሾች ከእርስዎ የትምህርት ዓይነቶች፣ ዋጋ አሰጣጥ እና ድምጽ ጋር።",
+  "heroBadge": "በ300+ የሰርፍ አስተማሪዎች የታመነ",
+  "heroHeadline": "በውሃ ላይ በሚያስተምሩበት ጊዜ የኢሜል ረዳትዎ",
+  "heroSubline": "Duet የእርስዎን የትምህርት ዓይነቶች፣ ዋጋ አሰጣጥ እና ሁኔታዎች ይማራል - ከዚያም ለዝግተኛ ምላሽ ቦታ ማስያዝ መቼም እንዳያጡ የኢሜይል ምላሾችን ይቀርፃል።",
   "inboxEmails": [
     {
-      "from": "Rachel T.",
+      "from": "ራቸል ቲ.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
-      "pill": "To Respond",
+      "subject": "የቡድን ትምህርት ለ 6 ቅዳሜ?",
+      "preview": "ሰላም! ቅዳሜና እሁድን የሚጎበኙ 6 ጓደኞች ቡድን አለኝ። ቅዳሜ ጥዋት የቡድን ሰርፍ ትምህርት ማግኘት አለህ? ዋጋው ስንት ነው?",
+      "pill": "ምላሽ ለመስጠት",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary",
+      "from": "Westside አንደኛ ደረጃ",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "School field trip — 25 students, May 15",
-      "preview": "We're looking to book a surf day for our 5th grade class of 25 students. Do you offer school group rates? We'd need wetsuits and boards provided...",
-      "pill": "Booking",
+      "subject": "የትምህርት ቤት የመስክ ጉዞ - 25 ተማሪዎች, ግንቦት 15",
+      "preview": "ለ5ኛ ክፍል 25 ተማሪዎች የሰርፍ ቀን ለማስያዝ እየፈለግን ነው። የት/ቤት ቡድን ዋጋዎችን ይሰጣሉ? እርጥበታማ ልብሶች እና ሰሌዳዎች ያስፈልጉናል ...",
+      "pill": "ቦታ ማስያዝ",
       "pillColor": "blue"
     },
     {
-      "from": "James P.",
+      "from": "ጄምስ ፒ.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Paddleboard rental + delivery?",
-      "preview": "Do you rent SUP boards by the hour? We're staying at the beach house on Elm St — any chance you deliver? What's included...",
-      "pill": "Question",
+      "subject": "የፓድልቦርድ ኪራይ + ማድረስ?",
+      "preview": "በሰዓት የ SUP ሰሌዳዎችን ይከራያሉ? በኤልም ሴንት የባህር ዳርቻ ቤት እንኖራለን - ለማድረስ እድሉ አለ? ምን ይካተታል...",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
-      "from": "Nicole B.",
+      "from": "ኒኮል ቢ.",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Conditions for tomorrow morning?",
-      "preview": "We're booked for 9 AM tomorrow but the forecast looks windy. Will the lesson still go ahead? Should we bring anything extra...",
+      "subject": "ለነገ ጥዋት ሁኔታዎች?",
+      "preview": "ነገ 9 AM ተይዘን ነበር ግን ትንበያው ነፋሻማ ይመስላል። ትምህርቱ አሁንም ይቀጥላል? ተጨማሪ ነገር ይዘን...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+  "autodraft": "ሄይ ራሄል! ቅዳሜ ጥዋት ለ 6 ክፍት ነው ። የቡድን ትምህርቶች ከጠዋቱ 9 ሰዓት ጀምሮ ለ 2 ሰዓታት ይቆያል ። ሰሌዳዎች፣ እርጥብ አልባሳት እና ሽፍታ መከላከያዎች ሁሉም ተካትተዋል - የፀሐይ መከላከያ እና ፎጣ ብቻ ይዘው ይምጡ። ለአንድ ሰው 90 ዶላር ነው። ቡድንህን መቆለፍ ትፈልጋለህ?",
   "math": {
     "pricePerBooking": "$90",
-    "bookingUnit": "lesson",
+    "bookingUnit": "ትምህርት",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "ሁለት የተቀመጡ ቦታ ማስያዣዎች ለአንድ አመት Duet ይከፍላሉ።"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Duet የትምህርት ቦታ ማስያዝን መጀመሪያ፣ጥያቄዎችን ሁለተኛ እና ጫጫታ በጭራሽ እንዲያዩ ለእያንዳንዱ ኢሜል በራስ ሰር መለያ ይሰጣል። ከአሁን በኋላ በYelp ማንቂያዎች የተቀበረ የትምህርት ቤት ቡድን ጥያቄ አያመልጥም።",
+  "draftSubtitle": "Duet የእርስዎን የትምህርት አይነቶች፣ የቡድን ዋጋ እና ቃና ይማራል። የቦታ ማስያዣ ጥያቄ ሲመታ፣ ከተገኝነት፣ ምን እንደሚካተት እና ምን እንደሚያመጣ የተሟላ ምላሽ ያዘጋጃል። እርስዎ ይገምግሙ እና ይልካሉ።",
+  "agentSubtitle": "\"በዚህ ሳምንት የሚመጡት የቡድን ማስያዣዎች አሉ?\" \"ተገኝቶ ለትምህርት ቤቱ ምላሽ ይቅረጽ።\" Duet የእርስዎን የገቢ መልእክት ሳጥን እና የጊዜ ሰሌዳ ያውቃል - ይጠይቁ።",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "ራቸል ቲ.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "I have a group of 6 friends visiting for the weekend...",
-      "pill": "Respond Now",
+      "subject": "የቡድን ትምህርት ለ 6 ቅዳሜ?",
+      "preview": "ቅዳሜና እሁድን የሚጎበኙ የ 6 ጓደኞች ቡድን አለኝ...",
+      "pill": "አሁን ምላሽ ይስጡ",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary",
+      "from": "Westside አንደኛ ደረጃ",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Field trip confirmed — May 15, 25 students",
-      "pill": "Booked",
+      "subject": "ድጋሚ፡ የመስክ ጉዞ ተረጋግጧል - ግንቦት 15፣ 25 ተማሪዎች",
+      "pill": "ተይዟል።",
       "pillColor": "blue"
     },
     {
-      "from": "James P.",
+      "from": "ጄምስ ፒ.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Do you rent paddleboards by the hour?",
-      "pill": "Question",
+      "subject": "የሰዓት ሰሌዳዎችን ይከራያሉ?",
+      "pill": "ጥያቄ",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "ለእርስዎ ዝርዝር አዲስ ግምገማ",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Surf Warehouse",
+      "from": "ሰርፍ ማከማቻ",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 30% off wetsuits",
-      "pill": "Promotions",
+      "subject": "የበጋ ሽያጭ - 30% ቅናሽ እርጥብ ልብሶች",
+      "pill": "ማስተዋወቂያዎች",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group lesson for 6 on Saturday?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
+    "subject": "Re: የቡድን ትምህርት ለ 6 ቅዳሜ?",
+    "originalFrom": "ራቸል ቲ ጻፈ፡-",
+    "originalText": "ሰላም! ቅዳሜና እሁድን የሚጎበኙ 6 ጓደኞች ቡድን አለኝ። ቅዳሜ ጥዋት የቡድን ሰርፍ ትምህርት ማግኘት አለህ? ዋጋው ስንት ነው?",
     "lines": [
       "Hey Rachel!",
       "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
       "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
       "Want me to lock your group in?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "ቅዳሜ ጥዋት ለ 6 ሰፊ ክፍት ነው. የቡድን ትምህርቶች $ 90 / ሰው ናቸው",
     "tooltipFeatures": [
       "Knows your lesson types & pricing",
       "Drafts in your voice",
@@ -118,55 +117,55 @@
     ]
   },
   "agent": {
-    "userMessage": "Any group bookings coming up this week?",
-    "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
-    "followUp": "Draft a reply to the school confirming the field trip details",
-    "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
+    "userMessage": "በዚህ ሳምንት የሚመጡ የቡድን ማስያዣዎች አሉ?",
+    "agentResponse": "በዚህ ሳምንት ሁለት የቡድን ምዝገባዎች አሉዎት፡ Rachel T. ቅዳሜ (6 ሰዎች፣ 9 AM) እና በዌስትሳይድ አንደኛ ደረጃ እሮብ (25 ተማሪዎች፣ 10 AM የመስክ ጉዞ)። ስለ paddleboard ኪራዮች ከጄምስ ፒ በመጠባበቅ ላይ ያለ ጥያቄም አለዎት። ምላሽ ላዘጋጅ ትፈልጋለህ?",
+    "followUp": "የመስክ ጉዞ ዝርዝሮችን የሚያረጋግጥ ለት / ቤቱ ምላሽ ያዘጋጁ",
+    "followUpResponse": "ተከናውኗል! ለዌስትሳይድ አንደኛ ደረጃ ግንቦት 15 ለ25 ተማሪዎች በ10 AM ላይ የሚያረጋግጥ ምላሽ አዘጋጅቻለሁ። የትምህርት ቤት ቡድንዎን ዋጋ፣ የቀረበውን ነገር፣ የፈቃድ ወረቀት መስፈርቶችን እና የስረዛ ፖሊሲዎን ያካትታል። ለመገምገም እና ለመላክ ዝግጁ።"
   },
-  "testimonialsTitle": "Loved by surf instructors",
+  "testimonialsTitle": "በሰርፍ አስተማሪዎች የተወደደ",
   "testimonials": [
     {
-      "name": "Coach Mike T.",
-      "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
+      "name": "አሰልጣኝ ማይክ ቲ.",
+      "title": "የሰርፍ ትምህርት ቤት ባለቤት፣ CA",
+      "quote": "በቀን 6 ሰአት በማስተማር ውሃ ውስጥ ነኝ። ኢሜልን እስካጣራ ድረስ፣ የተያዙት ቦታዎች ግማሹ ለሌላ ሰው ደርሷል። አሁን Duet ረቂቆች ከእኔ ዋጋ እና ተገኝነት ጋር ምላሽ ይሰጣሉ - በክፍለ-ጊዜዎች መካከል ብቻ እገመግማለሁ።",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
-      "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "name": "ጄን እና ማርክ ኤስ.",
+      "title": "የፓድልቦርድ ትምህርቶች እና ኪራዮች፣ ኤች.አይ",
+      "quote": "ትምህርቶችን እና ኪራዮችን ከተመሳሳይ የገቢ መልእክት ሳጥን ውስጥ እናካሂዳለን። Duet ልዩነቱን በቅጽበት አውቋል - የኪራይ ጥያቄዎች የኪራይ መልሶች ያገኛሉ፣ የትምህርት ጥያቄዎች የትምህርት ዝርዝሮችን ያገኛሉ። የፊት ጠረጴዛ እንዳለን ያህል ነው።",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Danny R.",
-      "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "name": "ዳኒ አር.",
+      "title": "ሰርፍ አስተማሪ፣ ኤፍ.ኤል",
+      "quote": "የትምህርት ቤት ቡድን ቦታ ማስያዝ 10 ኢሜይሎችን ወደ ኋላ እና ወደ ፊት ለመውሰድ ስራ ላይ ይውላል። አሁን Duet የመጀመሪያውን ምላሽ በቡድን ተመኖች፣ ምን እንደሚካተት እና የፍቃድ ወረቀትን አዘጋጅቷል። ሙሉውን ክር በግማሽ ይቀንሳል.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Fran C.",
-      "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
+      "name": "ፍራን ሲ.",
+      "title": "SUP ጉብኝቶች እና ትምህርቶች፣ ወይም",
+      "quote": "ከፍተኛው ወቅት እየገደለኝ ነበር - በቀን 30 ኢሜይሎች ስለሁኔታዎች፣ ዋጋ አወጣጥ፣ ምን እንደሚያመጡ። ተመሳሳይ አምስት ጥያቄዎች ደጋግመው. Duet ሁሉንም ይይዛል እና ልክ እንደ እኔ ይሰማሉ።",
       "avatarKey": "francesca"
     },
     {
-      "name": "Sarah K.",
-      "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "name": "ሳራ ኬ.",
+      "title": "የልጆች ሰርፍ ካምፕ ዳይሬክተር፣ አ.ማ",
+      "quote": "ወላጆች ረጅሙን ኢሜይሎች ይልካሉ። የካምፕ ቀናት፣ አለርጂዎች፣ የክህሎት ደረጃዎች፣ የመውሰጃ ጊዜያት። የDuet ረቂቆች ሁሉንም ነገር የሚሸፍኑ ዝርዝር ምላሾች ስለዚህ በባህር ዳርቻው ላይ ሙሉ ቀን ካለፉ በኋላ በ10 ሰአት አንቀጾችን አይተይብም።",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "ክረምቱን በማዕበል ውስጥ ያሳልፉ ፣\nበገቢ መልእክት ሳጥንዎ ውስጥ አይደለም።",
+  "ctaSubline": "ነፃ ሙከራዎን ይጀምሩ። የገቢ መልእክት ሳጥንዎን በ30 ሰከንድ ውስጥ ያገናኙ።",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle different lesson types and equipment rentals?",
-      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "Duet የተለያዩ የትምህርት አይነቶችን እና የመሳሪያ ኪራዮችን ያስተናግዳል?",
+      "answer": "አዎ። Duet ሁሉንም አቅርቦቶችዎን ይማራል - የግል ትምህርቶች ፣ የቡድን ትምህርቶች ፣ የልጆች ካምፖች ፣ የቦርድ ኪራዮች ፣ የ SUP ጉብኝቶች። ጥያቄ ሲመጣ ትክክለኛውን ዋጋ፣ የቆይታ ጊዜ፣ ምን እንደሚካተት እና ምን እንደሚያመጣ የያዘ ምላሽ ያዘጋጃል። የትምህርት ቤት ቡድን ኢሜል ከግል ትምህርት ቦታ ማስያዝ የተለየ ዝርዝሮች እንደሚያስፈልገው ያውቃል።"
     },
     {
-      "question": "What about weather and conditions questions?",
-      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "question": "ስለ የአየር ሁኔታ እና ሁኔታዎች ጥያቄዎችስ?",
+      "answer": "Duet በተለምዶ የሁኔታ ኢሜይሎችን እንዴት እንደሚይዙ ይማራል - ስለ ስረዛዎች ፣ ቀጠሮ ማስያዝ እና በምን ሁኔታዎች ውስጥ እንደሚያስተምሯቸው። አንድ ሰው ትምህርታቸው እንደሚቀጥል ሲጠይቅ Duet ከእርስዎ የተለመደው ቃና እና መመሪያ ጋር የሚዛመድ ምላሽ ይቀርፃል። እርስዎ ገምግመው በሰከንዶች ውስጥ ይልካሉ።"
     }
   ],
-  "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
+  "pricingNote": "በ$90/ትምህርት፣ ሁለት የተቀመጡ ቦታዎች ከአንድ አመት በላይ ለፕሮ."
 }

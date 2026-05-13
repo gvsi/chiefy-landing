@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail for Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Duet Mail helps balloon pilots respond to booking emails instantly — even during sunrise flights. AI-drafted replies with your pricing, weather policies, and voice.",
-  "heroBadge": "Trusted by 200+ balloon pilots",
-  "heroHeadline": "Your email assistant while you're in the air",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "pageTitle": "熱気球乗車用の Duet Mail | AI 電子メール アシスタント",
+  "metaDescription": "Duet Mail は、気球のパイロットが日の出飛行中でも、予約メールに即座に応答できるようにします。 AI が作成した返信には、価格設定、気象政策、声が含まれます。",
+  "heroBadge": "200 人以上の気球パイロットから信頼されています",
+  "heroHeadline": "飛行中のメールアシスタント",
+  "heroSubline": "Duet はフライト スケジュール、料金設定、気象ポリシーを学習し、電子メールの返信の下書きを作成するので、日の出に出発する間に予約を失うことはありません。",
   "inboxEmails": [
     {
-      "from": "Rachel & Dan T.",
+      "from": "レイチェル & ダン T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
-      "pill": "To Respond",
+      "subject": "2 名様の日の出便 — 土曜日は利用可能ですか?",
+      "preview": "こんにちは！ 夫と私は記念日のためにここを訪れており、今週土曜日に日の出の気球に乗るのをぜひ予約したいと思っています。 スペースはありますか？ 一人当たりの費用はいくらですか？",
+      "pill": "応答するには",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "ケビン・L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Will we fly tomorrow? Wind forecast looks rough",
-      "preview": "We're booked for tomorrow morning but the weather app is showing 15 mph gusts. Are we still flying or should we plan to reschedule...",
-      "pill": "Question",
+      "subject": "明日は飛行機に乗れるでしょうか？ 風予報は荒れそうです",
+      "preview": "明日の朝に予約を入れていますが、天気予報アプリでは突風が時速15マイルと表示されています。 まだ飛行機に乗る予定ですか、それともスケジュールを変更する予定ですか...",
+      "pill": "質問",
       "pillColor": "amber"
     },
     {
-      "from": "Jennifer & Mark P.",
+      "from": "ジェニファー & マーク P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Private flight for a proposal — pricing?",
-      "preview": "I want to surprise my girlfriend with a private balloon ride and propose during the flight. How much is a private flight and can you help coordinate...",
-      "pill": "Booking",
+      "subject": "プロポーズのためのプライベート航空券 — 料金は?",
+      "preview": "プライベート気球に乗ってガールフレンドを驚かせて、飛行中にプロポーズしたいです。 プライベート フライトの料金はいくらですか?調整を手伝ってもらえますか...",
+      "pill": "予約",
       "pillColor": "blue"
     },
     {
-      "from": "Amy S.",
+      "from": "エイミー S.",
       "avatarLetter": "A",
       "avatarColor": "lavender",
-      "subject": "What should we wear? Where do we meet?",
-      "preview": "We're booked for Sunday morning. What should we wear and where exactly is the meeting point? Also, how long does the whole experience take...",
-      "pill": "Question",
+      "subject": "何を着るべきでしょうか？ どこで会いましょう？",
+      "preview": "日曜日の午前中に予約が入っています。 何を着るべきですか?集合場所は正確にはどこですか? また、すべての体験にかかる時間はどれくらいですか...",
+      "pill": "質問",
       "pillColor": "amber"
     }
   ],
-  "autodraft": "Hi Rachel! Saturday is open for 2. Sunrise flights launch around 6:15 AM — we'll confirm exact time and meeting location the evening before based on winds. It's $250/person and includes about an hour in the air plus a champagne toast after landing. Dress in layers and wear closed-toe shoes. Want me to reserve your spots?",
+  "autodraft": "こんにちは、レイチェル！ 土曜日は 2 名様までご利用いただけます。日の出便は午前 6 時 15 分頃に出発します。正確な時間と集合場所は、風に基づいて前日の夕方に確認します。 料金は 1 人あたり 250 ドルで、約 1 時間の飛行と着陸後のシャンパンでの乾杯が含まれます。 重ね着をし、つま先が閉じた靴を履いてください。 ご予約をさせていただきたいのですが？",
   "math": {
     "pricePerBooking": "$1,000",
-    "bookingUnit": "flight",
+    "bookingUnit": "フライト",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "保存した 1 つのフライトで、1 年間の Duet の料金が支払われます。"
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, weather questions second, and noise never. No more missing a flight inquiry buried under newsletter alerts.",
-  "draftSubtitle": "Duet learns your pricing, weather policies, and tone. When a booking inquiry hits, it drafts a complete reply with flight details, meeting info, and what to wear. You review and send.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet knows your inbox and calendar — just ask.",
+  "categorizationSubtitle": "Duet ではすべてのメールに自動的にタグが付けられるため、予約リクエストが最初に表示され、天気に関する質問は 2 番目に表示され、ノイズは表示されません。 ニュースレターのアラートに埋もれてフライトに関する問い合わせを見逃すことはもうありません。",
+  "draftSubtitle": "Duet は、価格設定、気象ポリシー、トーンを学習します。 予約に関する問い合わせが届くと、フライトの詳細、会議の情報、服装などを含む完全な返信の草案が作成されます。 レビューして送信します。",
+  "agentSubtitle": "「明日のマニフェストには誰が載っているの？」 「天候によるキャンセルはありますか？」 Duet はあなたの受信トレイとカレンダーを知っています - 聞いてください。",
   "categorizationEmails": [
     {
-      "from": "Rachel T.",
+      "from": "レイチェル・T",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Sunrise flight for 2 — Saturday available?",
-      "preview": "My husband and I would love to book a sunrise balloon ride...",
-      "pill": "Respond Now",
+      "subject": "2 名様の日の出便 — 土曜日は利用可能ですか?",
+      "preview": "夫と私はぜひサンライズ気球乗車を予約したいと思っています...",
+      "pill": "今すぐ応答してください",
       "pillColor": "red"
     },
     {
-      "from": "Kevin L.",
+      "from": "ケビン・L.",
       "avatarLetter": "K",
       "avatarColor": "blue",
-      "subject": "Re: Booking confirmed — Sunday 6:15 AM",
-      "pill": "Booked",
+      "subject": "Re: 予約確認済み — 日曜日午前 6:15",
+      "pill": "予約済み",
       "pillColor": "blue"
     },
     {
-      "from": "Amy S.",
+      "from": "エイミー S.",
       "avatarLetter": "A",
       "avatarColor": "purple",
-      "subject": "What should we wear for the flight?",
-      "pill": "Question",
+      "subject": "フライトには何を着るべきですか?",
+      "pill": "質問",
       "pillColor": "amber"
     },
     {
-      "from": "TripAdvisor",
+      "from": "トリップアドバイザー",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "あなたのリスティングに対する新しいレビュー",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Balloon Federation",
+      "from": "バルーン連盟",
       "avatarLetter": "B",
       "avatarColor": "lavender",
-      "subject": "March safety bulletin & renewal reminder",
+      "subject": "3 月の安全情報と更新のお知らせ",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Sunrise flight for 2 — Saturday available?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "subject": "Re: 土曜日の 2 名分の日の出便は利用可能ですか?",
+    "originalFrom": "レイチェル・Tは次のように書いています。",
+    "originalText": "こんにちは！ 夫と私は記念日のためにここを訪れており、今週土曜日に日の出の気球に乗るのをぜひ予約したいと思っています。 スペースはありますか？ 一人当たりの費用はいくらですか？",
     "lines": [
-      "Hi Rachel!",
-      "Saturday is wide open for 2. Sunrise flights are $250/person and include about an hour in the air plus a champagne toast after landing.",
-      "We launch around 6:15 AM — I'll send your exact meeting time and location the evening before based on wind conditions. Dress in layers and wear closed-toe shoes.",
-      "Happy anniversary! Want me to reserve your spots?"
+      "こんにちは、レイチェル！",
+      "土曜日は 2 名様までご利用いただけます。サンライズ フライトは 1 人あたり 250 ドルで、約 1 時間の飛行と着陸後のシャンパンでの乾杯が含まれます。",
+      "午前 6 時 15 分頃に出発します。風の状況に基づいて、正確な集合時間と場所を前日の夕方にお知らせします。 重ね着をし、つま先が閉じた靴を履いてください。",
+      "記念日おめでとう！ ご予約をさせていただきたいのですが？"
     ],
-    "highlightText": "Saturday is wide open for 2. Sunrise flights are $250/person",
+    "highlightText": "土曜日は 2 名様までご利用いただけます。日の出のフライトは 1 人あたり 250 ドルです",
     "tooltipFeatures": [
-      "Knows your pricing & flight schedule",
-      "Drafts in your voice",
-      "Includes meeting details automatically",
-      "Learns over time"
+      "料金とフライトスケジュールを知る",
+      "あなたの声の下書き",
+      "会議の詳細が自動的に含まれる",
+      "時間の経過とともに学習します"
     ]
   },
   "agent": {
-    "userMessage": "Who's on tomorrow's manifest and what's the weather looking like?",
-    "agentResponse": "Tomorrow's sunrise flight has 6 passengers booked across 2 reservations: the Thompson party (4) and the Lee couple (2). Current forecast shows calm winds at 4 mph and clear skies at launch time. No cancellation emails yet. Want me to send the meeting-point confirmations?",
-    "followUp": "Yes, send confirmations to both parties with the 6:15 AM meeting time",
-    "followUpResponse": "Done! I drafted meeting-point confirmations to both the Thompsons and the Lees with 6:15 AM at the launch field, what to wear, and directions. Ready to review and send."
+    "userMessage": "明日のマニフェストには誰が載っていますか?天気はどうですか?",
+    "agentResponse": "明日の日の出のフライトには、トンプソンのグループ (4 人) とリーのカップル (2 人) の 2 つの予約にわたって 6 人の乗客が予約されています。 現在の予報では、風は時速4マイルで穏やかで、打ち上げ時には空は晴れるとされています。 まだキャンセルメールは来ていません。 ミーティングポイントの確認を送信したいですか?",
+    "followUp": "はい、午前 6 時 15 分の会議時間で双方に確認を送信します",
+    "followUpResponse": "終わり！ 私はトンプソン夫妻とリー夫妻に午前6時15分に発射場に到着するという集合場所の確認書、服装、道順などを起草した。 レビューして送信する準備ができました。"
   },
-  "testimonialsTitle": "Loved by balloon pilots & operators",
+  "testimonialsTitle": "気球のパイロットやオペレーターに愛されています",
   "testimonials": [
     {
-      "name": "Captain Mike L.",
-      "title": "Balloon Pilot, MN",
-      "quote": "I'm a one-man operation — I fly, I crew, I answer emails. Except at 5 AM I'm inflating, not replying. Duet drafts responses to every 'will we fly tomorrow?' message overnight. I wake up, check the weather, and hit send.",
+      "name": "キャプテン マイク L.",
+      "title": "ミネソタ州バルーン パイロット",
+      "quote": "私はワンマンで操縦しており、飛行機に乗り、乗組員として仕事をし、メールに返信しています。 午前5時以外は返信せずに膨らんでいます。 Duet は、すべての「明日飛行機に乗りますか?」に対する返答を草案します。 一晩中のメッセージ。 朝起きて天気を確認し、送信ボタンを押します。",
       "avatarKey": "michael"
     },
     {
-      "name": "Shannon & Jake B.",
-      "title": "Year-Round Balloon Tours, UT",
-      "quote": "We get the same 10 questions every day. What to wear, where to meet, what if it's windy. Duet learned all of it and now drafts perfect replies. We went from an hour of emails every night to five minutes.",
+      "name": "シャノン & ジェイク B.",
+      "title": "通年開催の気球ツアー、ユタ州",
+      "quote": "毎日 10 件の同じ質問が届きます。 何を着るか、どこで会うか、風が強かったらどうするか。 Duet はすべてを学び、今では完璧な返信を作成しています。 毎晩 1 時間かかっていたメールが 5 分になりました。",
       "avatarKey": "sarah"
     },
     {
-      "name": "Carlos R.",
-      "title": "Sunrise Flight Operator, AZ",
-      "quote": "Peak season means 4-6 flights a week and every passenger emails at least twice before the flight. Duet handles the pre-flight questions so I can focus on giving people the best morning of their lives.",
+      "name": "カルロス R.",
+      "title": "サンライズ フライト オペレーター、アリゾナ州",
+      "quote": "ピークシーズンには、週に 4 ～ 6 便のフライトがあり、すべての乗客がフライト前に少なくとも 2 回メールを送信します。 Duet はフライト前の質問に対応してくれるので、私は人々に人生で最高の朝を提供することに集中できます。",
       "avatarKey": "johnny"
     },
     {
-      "name": "Lisa W.",
-      "title": "Balloon Company Co-Owner, NM",
-      "quote": "Weather cancellations used to wreck my whole day — 8 passengers all needing personal rescheduling emails. Now Duet drafts every one with our rebooking policy included. Saves me hours on cancellation mornings.",
+      "name": "リサ・W",
+      "title": "Balloon Company 共同所有者、ニューメキシコ州",
+      "quote": "天候によるキャンセルで私の 1 日は大混乱に陥りました。乗客 8 名全員が個人的なスケジュール変更メールを必要としていました。 Duet では、すべてのプランに再予約ポリシーが含まれるようになりました。 キャンセルの朝の時間を節約できます。",
       "avatarKey": "jennifer"
     },
     {
-      "name": "Maria D.",
-      "title": "Balloon Ride Operations, CO",
-      "quote": "Proposal flights need so much back-and-forth coordination. Duet picked up on how we handle them — the timing, the codewords, the champagne setup. It drafts replies I barely have to touch.",
+      "name": "マリア D.",
+      "title": "コロラド州気球乗車オペレーション",
+      "quote": "提案飛行には非常に多くの前後の調整が必要です。 Duet は、タイミング、合言葉、シャンパンのセットアップなど、私たちがそれらをどのように扱うかを取り上げました。 ほとんど触れる必要のない返信の下書きです。",
       "avatarKey": "francesca"
     }
   ],
-  "ctaHeadline": "Spend your mornings in the sky,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "空の上で朝を過ごし、\n あなたの受信箱にはありません。",
+  "ctaSubline": "無料トライアルを開始してください。 30 秒で受信トレイに接続します。",
   "verticalFaqs": [
     {
-      "question": "How does Duet handle weather cancellation emails?",
-      "answer": "Duet learns your cancellation and rebooking policies. When you cancel a flight due to weather, it can draft personalized rescheduling emails to every affected passenger — with your policy, available dates, and your tone. You review and send. What used to take an hour of individual replies takes minutes."
+      "question": "Duet は天候キャンセルのメールをどのように処理しますか?",
+      "answer": "Duet はキャンセルと再予約のポリシーを学習します。 天候によりフライトをキャンセルした場合、ポリシー、利用可能な日付、口調などを記載したパーソナライズされたスケジュール変更メールを、影響を受けるすべての乗客に送信できます。 レビューして送信します。 以前は個別に返信するには 1 時間かかっていましたが、数分で返信できます。"
     },
     {
-      "question": "Can Duet handle the 'will we fly tomorrow?' emails that flood in every evening?",
-      "answer": "Yes — this is one of the most common emails balloon operators tell us about. Duet learns your weather policies and drafts reassuring replies that explain your decision process, when you'll make the final call, and what to expect. Once you confirm the go/no-go in the morning, it can draft updates to everyone on the manifest."
+      "question": "Duet は「明日は飛行機に乗れますか?」という問題に対処できますか? 毎晩殺到するメール？",
+      "answer": "はい、これはバルーン オペレーターが私たちに報告する最も一般的なメールの 1 つです。 Duet はあなたの気象方針を学習し、意思決定のプロセス、最終的な連絡の時期、予想されることを説明する安心させる返信を作成します。 朝、ゴー/ノーゴーを確認すると、マニフェスト上の全員に更新をドラフトすることができます。"
     }
   ],
-  "pricingNote": "At $250/person with 4 passengers per flight, one saved booking pays for over a year of Pro."
+  "pricingNote": "1 フライトにつき乗客 4 名で 1 人あたり 250 ドルの場合、保存された予約 1 件で 1 年間以上の __ペソ__ の支払いが可能です。"
 }

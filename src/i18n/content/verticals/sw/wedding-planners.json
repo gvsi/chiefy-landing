@@ -1,91 +1,90 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail for Wedding Planners | AI Email Assistant",
-  "metaDescription": "Duet Mail helps wedding planners respond to client and vendor emails instantly — even from venue walkthroughs. AI-drafted replies with your packages, vendor contacts, and voice.",
-  "heroBadge": "Trusted by 400+ wedding planners",
-  "heroHeadline": "Your email assistant while you're on-site at the venue",
-  "heroSubline": "Duet learns your vendor contacts, packages, and client preferences — then drafts email replies so couples never wait while you're coordinating on the ground.",
+  "pageTitle": "Duet Mail kwa Wapangaji Harusi | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia wapangaji wa harusi kujibu barua pepe za mteja na wauzaji papo hapo - hata kutoka kwa matembezi ya ukumbi. Majibu yaliyoandaliwa na AI na vifurushi vyako, anwani za wachuuzi na sauti.",
+  "heroBadge": "Inaaminiwa na wapangaji harusi zaidi ya 400",
+  "heroHeadline": "Msaidizi wako wa barua pepe ukiwa kwenye tovuti kwenye ukumbi",
+  "heroSubline": "Duet hujifunza anwani, vifurushi na mapendeleo ya wachuuzi wako - kisha huandaa majibu ya barua pepe ili wanandoa wasisubiri wakati unaratibu majumbani.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages...",
-      "pill": "To Respond",
+      "subject": "Je, unapatikana kwa ajili ya harusi ya Septemba 20?",
+      "preview": "Habari! Tumetoka kuchumbiana na tunaangalia harusi ya Septemba 20 kwa wageni 120 hivi. Je, una upatikanaji? Vifurushi vyako ni vipi...",
+      "pill": "Ili Kujibu",
       "pillColor": "red"
     },
     {
       "from": "Bella Rosa Florals",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "preview": "Here are the three centerpiece options we discussed. The garden roses came in beautifully. Let me know which direction the couple wants to go...",
-      "pill": "Vendor",
+      "subject": "Re: Harusi ya Thompson - mockups za katikati",
+      "preview": "Hapa kuna chaguzi tatu za msingi tulizojadili. Maua ya bustani yalikuja kwa uzuri. Nijulishe wanandoa wanataka kwenda upande gani...",
+      "pill": "Mchuuzi",
       "pillColor": "amber"
     },
     {
       "from": "Rachel K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Freaking out about the seating chart",
-      "preview": "I know we finalized the chart last week but my mom just RSVPd 4 extra people and I have no idea where to put them. Can we move some tables around...",
-      "pill": "Client",
+      "subject": "Kushangaa kuhusu chati ya kuketi",
+      "preview": "Najua tulikamilisha chati wiki iliyopita lakini mama yangu alitoa tu RSVPd 4 watu wa ziada na sijui ni wapi pa kuwaweka. Je, tunaweza kusogeza baadhi ya meza...",
+      "pill": "Mteja",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
-      "preview": "A couple has requested more information about your services. View details and respond...",
+      "subject": "Swali jipya kutoka kwa tangazo lako",
+      "preview": "Wanandoa wameomba maelezo zaidi kuhusu huduma zako. Tazama maelezo na ujibu...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Emily & James — congratulations on your engagement! September 20th is available and 120 guests is a perfect size. I offer full planning, partial planning, and day-of coordination packages. I'd love to set up a complimentary consultation to learn your vision. Are you free for a quick call this week?",
+  "autodraft": "Hujambo Emily & James — pongezi kwa uchumba wako! Tarehe 20 Septemba inapatikana na wageni 120 ni wa ukubwa kamili. Ninatoa upangaji kamili, upangaji sehemu, na vifurushi vya uratibu vya siku. Ningependa kuanzisha mashauriano ya kuridhisha ili kujifunza maono yako. Je, hupigiwi simu ya haraka wiki hii bila malipo?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "wedding",
+    "bookingUnit": "harusi",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved client pays for over 20 years of Duet."
+    "punchline": "Mteja mmoja aliyeokolewa hulipa kwa zaidi ya miaka 20 ya Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new couple inquiries first, vendor confirmations second, and newsletter noise never. No more missing a booking request buried under Knot alerts.",
-  "draftSubtitle": "Duet learns your packages, preferred vendors, and tone. When a couple inquires, it drafts a warm, complete reply with your availability and next steps. You review and send.",
-  "agentSubtitle": "\"What vendor emails came in for the Thompson wedding?\" \"Draft a timeline update to all vendors for Saturday.\" Duet knows your inbox and clients — just ask.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maswali mapya ya wanandoa kwanza, uthibitisho wa muuzaji pili, na kelele za jarida kamwe. Hakuna tena kukosa ombi la kuhifadhi lililozikwa chini ya arifa za Knot.",
+  "draftSubtitle": "Duet hujifunza vifurushi vyako, wachuuzi unaopendelea, na sauti. Wanandoa wanapokuuliza, huandaa jibu la joto, kamili na upatikanaji wako na hatua zinazofuata. Unakagua na kutuma.",
+  "agentSubtitle": "\"Ni barua pepe gani za muuzaji zilikuja kwa harusi ya Thompson?\" \"Rasimu ya sasisho la kalenda ya matukio kwa wachuuzi wote wa Jumamosi.\" Duet anajua kisanduku pokezi chako na wateja - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "We just got engaged and are looking at September 20th...",
-      "pill": "Respond Now",
+      "subject": "Je, unapatikana kwa ajili ya harusi ya Septemba 20?",
+      "preview": "Tumefunga uchumba na tunaangalia tarehe 20 Septemba...",
+      "pill": "Jibu Sasa",
       "pillColor": "red"
     },
     {
       "from": "Bella Rosa Florals",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "pill": "Vendor",
+      "subject": "Re: Harusi ya Thompson - mockups za katikati",
+      "pill": "Mchuuzi",
       "pillColor": "amber"
     },
     {
       "from": "Rachel K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Re: Seating chart — final version attached",
-      "pill": "Client",
+      "subject": "Re: Chati ya kuketi - toleo la mwisho limeambatishwa",
+      "pill": "Mteja",
       "pillColor": "blue"
     },
     {
       "from": "The Knot",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
+      "subject": "Swali jipya kutoka kwa tangazo lako",
       "pill": "FYI",
       "pillColor": "lavender"
     },
@@ -93,80 +92,80 @@
       "from": "Minted",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "20% off save-the-dates this week",
-      "pill": "Promotions",
+      "subject": "Punguzo la 20% kwenye tarehe za kuhifadhi wiki hii",
+      "pill": "Matangazo",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "emily.james.w@email.com",
-    "subject": "Re: Availability for Sept 20 wedding?",
-    "originalFrom": "Emily & James W. wrote:",
-    "originalText": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages and pricing?",
+    "subject": "Re: Upatikanaji wa harusi ya Septemba 20?",
+    "originalFrom": "Emily & James W. waliandika:",
+    "originalText": "Habari! Tumetoka kuchumbiana na tunaangalia harusi ya Septemba 20 kwa wageni 120 hivi. Je, una upatikanaji? Vifurushi vyako na bei gani?",
     "lines": [
-      "Hi Emily & James — congratulations!",
-      "September 20th is available and 120 guests is a wonderful size. I offer full planning, partial planning, and day-of coordination packages starting at $3,500.",
-      "I'd love to set up a complimentary consultation to hear your vision and walk you through which package fits best.",
-      "Are you free for a call this week?"
+      "Habari Emily & James — pongezi!",
+      "Septemba 20 inapatikana na wageni 120 ni ukubwa mzuri. Ninatoa upangaji kamili, upangaji sehemu, na vifurushi vya uratibu vya siku kuanzia $3,500.",
+      "Ningependa kuanzisha mashauriano ya kuridhisha ili kusikia maono yako na kukuelekeza ni kifurushi kipi kinachofaa zaidi.",
+      "Je, hupigiwi simu wiki hii bila malipo?"
     ],
-    "highlightText": "September 20th is available and 120 guests is a wonderful size",
+    "highlightText": "Septemba 20 inapatikana na wageni 120 ni ukubwa mzuri",
     "tooltipFeatures": [
-      "Knows your packages & availability",
-      "Drafts in your voice",
-      "Includes consultation next steps",
-      "Learns your client preferences"
+      "Inajua vifurushi na upatikanaji wako",
+      "Rasimu katika sauti yako",
+      "Inajumuisha mashauriano hatua zinazofuata",
+      "Hujifunza mapendeleo ya mteja wako"
     ]
   },
   "agent": {
-    "userMessage": "What vendor emails came in for the Thompson wedding this week?",
-    "agentResponse": "You received 4 vendor emails for the Thompson wedding this week: Bella Rosa Florals sent centerpiece mockups (awaiting couple's pick), Lakeside Venue confirmed the ceremony rehearsal for Friday at 4 PM, DJ Marco sent the updated song list, and Sweet Layers Bakery needs final cake flavor by Wednesday. Want me to draft replies to any of these?",
-    "followUp": "Draft a reply to Bella Rosa with the couple's pick — Option B, the garden roses",
-    "followUpResponse": "Done! I drafted a reply to Bella Rosa Florals confirming Option B — the garden rose centerpieces for the Thompson wedding. It includes a note to proceed with the full order for 14 tables. Ready to review and send."
+    "userMessage": "Ni barua pepe zipi za wauzaji zilizokuja kwa ajili ya harusi ya Thompson wiki hii?",
+    "agentResponse": "Umepokea barua pepe 4 za wachuuzi kuhusu harusi ya Thompson wiki hii: Bella Rosa Florals alituma nakala za kumbukumbu (anasubiri chaguo la wanandoa), Lakeside Venue alithibitisha mazoezi ya sherehe ya Ijumaa saa 4 Usiku, DJ Marco alituma orodha ya nyimbo iliyosasishwa, na Sweet Layers Bakery inahitaji ladha ya mwisho ya keki kufikia Jumatano. Je, ungependa niandae majibu kwa mojawapo ya haya?",
+    "followUp": "Rasimu ya jibu kwa Bella Rosa na chaguo la wanandoa - Chaguo B, maua ya bustani",
+    "followUpResponse": "Imekamilika! Niliandaa jibu kwa Bella Rosa Florals nikithibitisha Chaguo B - bustani ya waridi ndio kitovu cha harusi ya Thompson. Inajumuisha kidokezo cha kuendelea na agizo kamili la majedwali 14. Tayari kukagua na kutuma."
   },
-  "testimonialsTitle": "Loved by wedding planners",
+  "testimonialsTitle": "Kupendwa na wapangaji wa harusi",
   "testimonials": [
     {
       "name": "Francesca M.",
-      "title": "Boutique Wedding Planner, CO",
-      "quote": "I'm at mountain venues with zero cell service half my week. Meanwhile couples are emailing me about timelines and vendor questions. Duet drafts replies with my exact packages and tone — I review them when I'm back in range.",
+      "title": "Mpangaji Harusi wa Boutique, CO",
+      "quote": "Niko kwenye kumbi za milimani na huduma ya seli sifuri nusu wiki yangu. Wakati huo huo wanandoa wananitumia barua pepe kuhusu kalenda za matukio na maswali ya wauzaji. Rasimu za Duet hujibu kwa kutumia vifurushi na sauti yangu kamili - Ninakagua ninaporudi katika safu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
-      "title": "Full-Service Wedding Planner, CA",
-      "quote": "Coordinating 10+ vendors per wedding means my inbox is a war zone during peak season. Duet categorizes vendor emails separately from client emails and drafts follow-ups I'd have written myself. I actually sleep now.",
+      "title": "Mpangaji wa Huduma Kamili ya Harusi, CA",
+      "quote": "Kuratibu wachuuzi 10+ kwa kila harusi kunamaanisha kuwa kikasha changu ni eneo la vita wakati wa msimu wa kilele. Duet huainisha barua pepe za wauzaji kando na barua pepe za mteja na rasimu za ufuatiliaji ambazo ningeandika mwenyewe. Kweli sasa nalala.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
-      "title": "Day-of Coordinator, TX",
-      "quote": "On wedding days I'm unavailable for 14 hours straight. New inquiries used to sit unanswered until Monday. Now Duet handles them instantly and I've booked 3 extra weddings this quarter from faster response times alone.",
+      "title": "Siku ya Mratibu, TX",
+      "quote": "Siku za harusi sipatikani kwa saa 14 mfululizo. Maswali mapya yalikuwa yamekaa bila kujibiwa hadi Jumatatu. Sasa Duet inazishughulikia papo hapo na nimehifadhi harusi 3 za ziada robo hii kutoka nyakati za majibu haraka pekee.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
-      "title": "Destination Wedding Planner, HI",
-      "quote": "My couples fly in from all over the world and email at all hours. Duet learned my FAQ answers — venue logistics, local vendors, what to expect — and drafts replies that sound exactly like me. Clients have no idea.",
+      "title": "Mpangaji Harusi Lengwa, HI",
+      "quote": "Wanandoa wangu husafiri kwa ndege kutoka kote ulimwenguni na kutuma barua pepe kwa saa zote. Duet ilijifunza majibu yangu ya Maswali Yanayoulizwa Mara kwa Mara - vifaa vya mahali, wachuuzi wa ndani, nini cha kutarajia - na rasimu za majibu ambayo yanafanana kabisa na mimi. Wateja hawana wazo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
-      "title": "Wedding & Event Planner, NY",
-      "quote": "I was spending 2 hours every night answering the same package and availability questions. Duet handles the repetitive stuff so I can focus on the creative work I actually love. It paid for itself in the first week.",
+      "title": "Mpangaji wa Harusi na Matukio, NY",
+      "quote": "Nilikuwa nikitumia saa 2 kila usiku kujibu kifurushi sawa na maswali ya upatikanaji. Duet hushughulikia mambo yanayojirudia ili niweze kuangazia kazi ya ubunifu ninayoipenda sana. Ililipa yenyewe katika wiki ya kwanza.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Be present at the ceremony,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Uwepo kwenye sherehe,\nhaijazikwa kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work with all the vendor coordination emails?",
-      "answer": "Yes. Duet learns your vendor contacts, preferred vendors, and how you communicate with each one. It categorizes vendor emails by wedding and drafts replies with the right details — confirmations, follow-ups, timeline updates. You review and send. It handles florists, caterers, venues, DJs, photographers, and every other vendor in your rolodex."
+      "question": "Je, Duet inafanya kazi na barua pepe zote za uratibu wa wauzaji?",
+      "answer": "Ndiyo. Duet hujifunza anwani zako za wauzaji, wachuuzi unaopendelea, na jinsi unavyowasiliana na kila mmoja. Inaainisha barua pepe za wauzaji kulingana na harusi na rasimu ya majibu yenye maelezo sahihi - uthibitisho, ufuatiliaji, masasisho ya kalenda ya matukio. Unakagua na kutuma. Inashughulikia wauza maua, wahudumu wa chakula, kumbi, ma-DJ, wapiga picha na kila mchuuzi mwingine katika rolodex yako."
     },
     {
-      "question": "I'm on-site at weddings and venues all day. Will I miss new inquiries?",
-      "answer": "That's exactly what Duet solves. When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps. You review and send whenever you're free — even from your phone between events. Most planners tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "Niko kwenye tovuti kwenye harusi na kumbi siku nzima. Je, nitakosa maswali mapya?",
+      "answer": "Hiyo ndivyo Duet inasuluhisha. Barua pepe kadhaa zinapouliza kuhusu upatikanaji au vifurushi wakati unaratibu kwenye tovuti, Duet huandaa jibu la joto na la kitaalamu pamoja na upatikanaji wako halisi na hatua zinazofuata. Unakagua na kutuma wakati wowote bila malipo - hata kutoka kwa simu yako kati ya matukio. Wapangaji wengi hutuambia kuwa inawaokoa saa 1-2 za muda wa barua pepe kwa siku wakati wa msimu wa kilele."
     }
   ],
-  "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."
+  "pricingNote": "Kwa $8,000/harusi, mteja mmoja aliyehifadhiwa hulipa kwa zaidi ya miaka 20 ya Pro."
 }

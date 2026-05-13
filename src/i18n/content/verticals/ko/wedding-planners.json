@@ -1,172 +1,171 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail for Wedding Planners | AI Email Assistant",
-  "metaDescription": "Duet Mail helps wedding planners respond to client and vendor emails instantly — even from venue walkthroughs. AI-drafted replies with your packages, vendor contacts, and voice.",
-  "heroBadge": "Trusted by 400+ wedding planners",
-  "heroHeadline": "Your email assistant while you're on-site at the venue",
-  "heroSubline": "Duet learns your vendor contacts, packages, and client preferences — then drafts email replies so couples never wait while you're coordinating on the ground.",
+  "pageTitle": "웨딩 플래너를 위한 Duet Mail | AI 이메일 도우미",
+  "metaDescription": "Duet Mail은 웨딩 플래너가 고객 및 공급업체 이메일에 즉시 응답할 수 있도록 도와줍니다. 심지어 장소 안내에서도 마찬가지입니다. AI-패키지, 공급업체 연락처 및 음성이 포함된 초안 답변.",
+  "heroBadge": "400명 이상의 웨딩 플래너가 신뢰하는",
+  "heroHeadline": "행사장 현장에 있는 동안 이메일 도우미",
+  "heroSubline": "Duet은 공급업체 연락처, 패키지 및 고객 선호도를 학습한 다음 이메일 답장 초안을 작성하므로 현장에서 조정하는 동안 커플이 기다리지 않습니다.",
   "inboxEmails": [
     {
-      "from": "Emily & James W.",
+      "from": "에밀리 & 제임스 W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages...",
-      "pill": "To Respond",
+      "subject": "9월 20일 결혼식 가능한가요?",
+      "preview": "안녕! 우리는 방금 약혼했고 약 120명의 하객이 참석하는 9월 20일 결혼식을 기대하고 있습니다. 예약 가능 여부 당신의 패키지는 무엇입니까...",
+      "pill": "응답하려면",
       "pillColor": "red"
     },
     {
-      "from": "Bella Rosa Florals",
+      "from": "벨라 로사 플로랄스",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "preview": "Here are the three centerpiece options we discussed. The garden roses came in beautifully. Let me know which direction the couple wants to go...",
-      "pill": "Vendor",
+      "subject": "Re: 톰슨 결혼식 — 중심 모형",
+      "preview": "우리가 논의한 세 가지 중심 옵션은 다음과 같습니다. 정원 장미가 아름답게 들어왔습니다. 부부가 가고 싶은 방향을 알려주세요...",
+      "pill": "공급업체",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel K.",
+      "from": "레이첼 K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Freaking out about the seating chart",
-      "preview": "I know we finalized the chart last week but my mom just RSVPd 4 extra people and I have no idea where to put them. Can we move some tables around...",
-      "pill": "Client",
+      "subject": "좌석 배치도가 궁금하다",
+      "preview": "우리가 지난 주에 차트를 완성했다는 것을 알고 있는데 엄마가 4명만 추가로 회신하셨는데 그들을 어디에 두어야 할지 모르겠어요. 테이블 좀 옮겨도 될까요...",
+      "pill": "고객",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "매듭",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
-      "preview": "A couple has requested more information about your services. View details and respond...",
+      "subject": "귀하의 목록에 대한 새로운 문의",
+      "preview": "부부가 귀하의 서비스에 대한 추가 정보를 요청했습니다. 세부정보를 확인하고 응답하세요...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hi Emily & James — congratulations on your engagement! September 20th is available and 120 guests is a perfect size. I offer full planning, partial planning, and day-of coordination packages. I'd love to set up a complimentary consultation to learn your vision. Are you free for a quick call this week?",
+  "autodraft": "안녕하세요 Emily & James — 약혼을 축하합니다! 9월 20일이 예약 가능하며 손님 120명이 딱 맞는 크기입니다. 전체 계획, 부분 계획, 당일 조정 패키지를 제공합니다. 귀하의 비전을 배우기 위해 무료 상담을 받고 싶습니다. 이번 주에 빠른 통화 시간이 있으신가요?",
   "math": {
     "pricePerBooking": "$8,000",
-    "bookingUnit": "wedding",
+    "bookingUnit": "혼례",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved client pays for over 20 years of Duet."
+    "punchline": "한 명의 저장된 고객은 20년 넘게 Duet에 대한 비용을 지불합니다."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see new couple inquiries first, vendor confirmations second, and newsletter noise never. No more missing a booking request buried under Knot alerts.",
-  "draftSubtitle": "Duet learns your packages, preferred vendors, and tone. When a couple inquires, it drafts a warm, complete reply with your availability and next steps. You review and send.",
-  "agentSubtitle": "\"What vendor emails came in for the Thompson wedding?\" \"Draft a timeline update to all vendors for Saturday.\" Duet knows your inbox and clients — just ask.",
+  "categorizationSubtitle": "Duet은 모든 이메일에 자동으로 태그를 지정하므로 새로운 커플 문의가 먼저 표시되고 공급업체 확인이 두 번째로 표시되며 뉴스레터 소음은 전혀 표시되지 않습니다. 더 이상 Knot 알림 아래에 예약 요청이 누락되지 않습니다.",
+  "draftSubtitle": "Duet은 귀하의 패키지, 선호하는 공급업체 및 톤을 학습합니다. 커플이 문의하면 귀하의 연락 가능 여부와 다음 단계를 포함하여 따뜻하고 완전한 답변 초안을 작성합니다. 검토하고 보냅니다.",
+  "agentSubtitle": "\"톰슨 결혼식에 어떤 업체 이메일이 왔나요?\" \"토요일에 모든 공급업체에 타임라인 업데이트 초안을 작성하세요.\" Duet은 귀하의 받은 편지함과 클라이언트를 알고 있습니다. 그냥 물어보세요.",
   "categorizationEmails": [
     {
-      "from": "Emily & James W.",
+      "from": "에밀리 & 제임스 W.",
       "avatarLetter": "E",
       "avatarColor": "pink",
-      "subject": "Availability for Sept 20 wedding?",
-      "preview": "We just got engaged and are looking at September 20th...",
-      "pill": "Respond Now",
+      "subject": "9월 20일 결혼식 가능한가요?",
+      "preview": "우리는 방금 약혼했고 9월 20일을 기다리고 있습니다...",
+      "pill": "지금 응답하세요",
       "pillColor": "red"
     },
     {
-      "from": "Bella Rosa Florals",
+      "from": "벨라 로사 플로랄스",
       "avatarLetter": "B",
       "avatarColor": "blue",
-      "subject": "Re: Thompson wedding — centerpiece mockups",
-      "pill": "Vendor",
+      "subject": "Re: 톰슨 결혼식 — 중심 모형",
+      "pill": "공급업체",
       "pillColor": "amber"
     },
     {
-      "from": "Rachel K.",
+      "from": "레이첼 K.",
       "avatarLetter": "R",
       "avatarColor": "purple",
-      "subject": "Re: Seating chart — final version attached",
-      "pill": "Client",
+      "subject": "Re: 좌석 배치도 — 최종 버전 첨부",
+      "pill": "고객",
       "pillColor": "blue"
     },
     {
-      "from": "The Knot",
+      "from": "매듭",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New inquiry from your listing",
+      "subject": "귀하의 목록에 대한 새로운 문의",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Minted",
+      "from": "주조됨",
       "avatarLetter": "M",
       "avatarColor": "lavender",
-      "subject": "20% off save-the-dates this week",
-      "pill": "Promotions",
+      "subject": "이번주 저장일 20% 할인",
+      "pill": "프로모션",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "emily.james.w@email.com",
-    "subject": "Re: Availability for Sept 20 wedding?",
-    "originalFrom": "Emily & James W. wrote:",
-    "originalText": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages and pricing?",
+    "subject": "Re: 9월 20일 결혼식 가능한가요?",
+    "originalFrom": "Emily와 James W.는 다음과 같이 썼습니다.",
+    "originalText": "안녕! 우리는 방금 약혼했고 약 120명의 하객이 참석하는 9월 20일 결혼식을 기대하고 있습니다. 예약 가능 여부 패키지와 가격은 어떻게 되나요?",
     "lines": [
-      "Hi Emily & James — congratulations!",
-      "September 20th is available and 120 guests is a wonderful size. I offer full planning, partial planning, and day-of coordination packages starting at $3,500.",
-      "I'd love to set up a complimentary consultation to hear your vision and walk you through which package fits best.",
-      "Are you free for a call this week?"
+      "안녕하세요 에밀리와 제임스 — 축하합니다!",
+      "9월 20일 예약이 가능하고 손님 120명이라는 엄청난 규모입니다. $3,500부터 시작하는 전체 계획, 부분 계획 및 당일 조정 패키지를 제공합니다.",
+      "귀하의 비전을 듣고 가장 적합한 패키지를 안내하기 위해 무료 상담을 예약하고 싶습니다.",
+      "이번 주에 통화 시간이 있나요?"
     ],
-    "highlightText": "September 20th is available and 120 guests is a wonderful size",
+    "highlightText": "9월 20일이 예약 가능하고 손님 120명이라는 엄청난 규모입니다",
     "tooltipFeatures": [
-      "Knows your packages & availability",
-      "Drafts in your voice",
-      "Includes consultation next steps",
-      "Learns your client preferences"
+      "패키지 및 가용성을 알고 있습니다.",
+      "당신의 목소리에 초안이 들어있습니다.",
+      "다음 단계 상담 포함",
+      "고객 선호도를 학습합니다."
     ]
   },
   "agent": {
-    "userMessage": "What vendor emails came in for the Thompson wedding this week?",
-    "agentResponse": "You received 4 vendor emails for the Thompson wedding this week: Bella Rosa Florals sent centerpiece mockups (awaiting couple's pick), Lakeside Venue confirmed the ceremony rehearsal for Friday at 4 PM, DJ Marco sent the updated song list, and Sweet Layers Bakery needs final cake flavor by Wednesday. Want me to draft replies to any of these?",
-    "followUp": "Draft a reply to Bella Rosa with the couple's pick — Option B, the garden roses",
-    "followUpResponse": "Done! I drafted a reply to Bella Rosa Florals confirming Option B — the garden rose centerpieces for the Thompson wedding. It includes a note to proceed with the full order for 14 tables. Ready to review and send."
+    "userMessage": "이번 주 Thompson 결혼식에 어떤 업체 이메일이 왔나요?",
+    "agentResponse": "이번 주 Thompson 결혼식을 위해 4개의 공급업체 이메일을 받았습니다. Bella Rosa Florals가 중앙 장식 모형(커플의 선택을 기다리고 있음)을 보냈고, Lakeside Venue는 금요일 오후 4시에 결혼식 리허설을 확인했으며, DJ Marco는 업데이트된 노래 목록을 보냈고, Sweet Layers Bakery는 수요일까지 최종 케이크 맛이 필요합니다. 이 중 하나에 대한 답변 초안을 작성하시겠습니까?",
+    "followUp": "커플이 선택한 Bella Rosa에게 답장을 보내세요 — 옵션 B, 정원 장미",
+    "followUpResponse": "완료! 나는 톰슨 결혼식의 정원 장미 중심 장식인 옵션 B를 확인하는 Bella Rosa Florals의 답장 초안을 작성했습니다. 테이블 14개 전체 주문을 진행하라는 메모가 포함되어 있습니다. 검토하고 보낼 준비가 되었습니다."
   },
-  "testimonialsTitle": "Loved by wedding planners",
+  "testimonialsTitle": "웨딩플래너들에게 사랑받는",
   "testimonials": [
     {
-      "name": "Francesca M.",
-      "title": "Boutique Wedding Planner, CO",
-      "quote": "I'm at mountain venues with zero cell service half my week. Meanwhile couples are emailing me about timelines and vendor questions. Duet drafts replies with my exact packages and tone — I review them when I'm back in range.",
+      "name": "프란체스카 M.",
+      "title": "부티크 웨딩 플래너, 콜로라도",
+      "quote": "나는 일주일의 절반을 제로 셀 서비스로 산악 장소에 있습니다. 그러는 동안 커플들은 일정과 공급업체에 대한 질문에 대해 나에게 이메일을 보내고 있습니다. Duet 초안은 내 정확한 패키지와 톤으로 응답합니다. 범위에 돌아오면 검토합니다.",
       "avatarKey": "francesca"
     },
     {
-      "name": "Michael T.",
-      "title": "Full-Service Wedding Planner, CA",
-      "quote": "Coordinating 10+ vendors per wedding means my inbox is a war zone during peak season. Duet categorizes vendor emails separately from client emails and drafts follow-ups I'd have written myself. I actually sleep now.",
+      "name": "마이클 T.",
+      "title": "캘리포니아주 풀서비스 웨딩 플래너",
+      "quote": "결혼식당 10개 이상의 공급업체를 조정한다는 것은 성수기 동안 내 받은 편지함이 전쟁터가 된다는 것을 의미합니다. Duet은 공급업체 이메일을 클라이언트 이메일과 별도로 분류하고 내가 직접 작성한 후속 조치 초안을 작성합니다. 사실 지금 자고 있어요.",
       "avatarKey": "michael"
     },
     {
-      "name": "Sarah L.",
-      "title": "Day-of Coordinator, TX",
-      "quote": "On wedding days I'm unavailable for 14 hours straight. New inquiries used to sit unanswered until Monday. Now Duet handles them instantly and I've booked 3 extra weddings this quarter from faster response times alone.",
+      "name": "사라 L.",
+      "title": "코디네이터의 날, 텍사스",
+      "quote": "결혼식 날에는 14시간 연속으로 일을 할 수 없습니다. 새로운 문의는 월요일까지 답변을 받지 못했습니다. 이제 Duet이 이를 즉시 처리하고 응답 시간이 빨라진 것만으로도 이번 분기에 3건의 결혼식을 추가로 예약했습니다.",
       "avatarKey": "sarah"
     },
     {
-      "name": "Johnny R.",
-      "title": "Destination Wedding Planner, HI",
-      "quote": "My couples fly in from all over the world and email at all hours. Duet learned my FAQ answers — venue logistics, local vendors, what to expect — and drafts replies that sound exactly like me. Clients have no idea.",
+      "name": "조니 R.",
+      "title": "목적지 웨딩 플래너, HI",
+      "quote": "내 커플은 전 세계에서 비행기를 타고 24시간 내내 이메일을 보냅니다. Duet은 장소 물류, 현지 공급업체, 예상 사항 등 내 FAQ 답변을 배웠고 나와 똑같은 답변 초안을 작성했습니다. 클라이언트는 전혀 모릅니다.",
       "avatarKey": "johnny"
     },
     {
-      "name": "Jennifer A.",
-      "title": "Wedding & Event Planner, NY",
-      "quote": "I was spending 2 hours every night answering the same package and availability questions. Duet handles the repetitive stuff so I can focus on the creative work I actually love. It paid for itself in the first week.",
+      "name": "제니퍼 A.",
+      "title": "웨딩 및 이벤트 플래너, 뉴욕",
+      "quote": "저는 매일 밤 2시간씩 같은 패키지와 이용 가능 여부에 대한 질문에 답변하고 있었습니다. Duet은 반복적인 작업을 처리하므로 제가 실제로 좋아하는 창의적인 작업에 집중할 수 있습니다. 첫 주에 그만한 가치가 있었습니다.",
       "avatarKey": "jennifer"
     }
   ],
-  "ctaHeadline": "Be present at the ceremony,\nnot buried in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "시상식에 참석해, \n받은 편지함에 묻혀 있지 않습니다.",
+  "ctaSubline": "무료 평가판을 시작하세요. 30초 안에 받은편지함을 연결하세요.",
   "verticalFaqs": [
     {
-      "question": "Does Duet work with all the vendor coordination emails?",
-      "answer": "Yes. Duet learns your vendor contacts, preferred vendors, and how you communicate with each one. It categorizes vendor emails by wedding and drafts replies with the right details — confirmations, follow-ups, timeline updates. You review and send. It handles florists, caterers, venues, DJs, photographers, and every other vendor in your rolodex."
+      "question": "Duet은 모든 공급업체 조정 이메일과 연동되나요?",
+      "answer": "예. Duet은 공급업체 연락처, 선호하는 공급업체 및 각 공급업체와 통신하는 방법을 학습합니다. 공급업체 이메일을 결혼식별로 분류하고 확인, 후속 조치, 타임라인 업데이트 등 올바른 세부 정보가 포함된 회신 초안을 작성합니다. 검토하고 보냅니다. 꽃집, 케이터링 업체, 장소, DJ, 사진작가 및 rolodex의 기타 모든 공급업체를 처리합니다."
     },
     {
-      "question": "I'm on-site at weddings and venues all day. Will I miss new inquiries?",
-      "answer": "That's exactly what Duet solves. When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps. You review and send whenever you're free — even from your phone between events. Most planners tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "나는 하루 종일 결혼식과 장소에 있습니다. 새로운 문의를 놓칠 수 있나요?",
+      "answer": "이것이 바로 Duet이 해결하는 문제입니다. 현장에서 조정하는 동안 가용성이나 패키지에 대해 묻는 몇 개의 이메일이 있으면 Duet은 실제 가용성과 다음 단계에 대한 따뜻하고 전문적인 답변 초안을 작성합니다. 시간이 있을 때마다 검토하고 보낼 수 있습니다. 이벤트 사이에도 휴대폰을 통해서도 가능합니다. 대부분의 기획자는 성수기 동안 하루에 1~2시간의 이메일 시간을 절약할 수 있다고 말합니다."
     }
   ],
-  "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."
+  "pricingNote": "결혼식당 $8,000로 저장된 고객 한 명이 20년 넘게 Pro 비용을 지불합니다."
 }

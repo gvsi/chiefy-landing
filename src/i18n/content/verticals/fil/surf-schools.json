@@ -1,28 +1,27 @@
 {
-  "translationStatus": "bootstrap-en",
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
-  "heroBadge": "Trusted by 300+ surf instructors",
-  "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "pageTitle": "Duet Mail para sa mga Surf School at Paddleboard Operator | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga surf instructor at paddleboard operator na tumugon kaagad sa mga booking email — kahit habang nagtuturo. AI-drafted na mga tugon kasama ng iyong mga uri ng aralin, pagpepresyo, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 300+ surf instructor",
+  "heroHeadline": "Ang iyong email assistant habang nagtuturo ka sa tubig",
+  "heroSubline": "Natututuhan ng duet ang iyong mga uri ng aralin, pagpepresyo, at kundisyon — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng booking sa isang mabagal na tugon.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
-      "pill": "To Respond",
+      "subject": "Pangkatang aralin para sa 6 sa Sabado?",
+      "preview": "Hi! Mayroon akong isang grupo ng 6 na kaibigan na bumibisita para sa katapusan ng linggo. Mayroon ka bang magagamit para sa isang pangkatang aralin sa pag-surf sa Sabado ng umaga? Ano ang pagpepresyo?",
+      "pill": "Upang Tumugon",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary",
+      "from": "Elementarya sa Kanluran",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "School field trip — 25 students, May 15",
-      "preview": "We're looking to book a surf day for our 5th grade class of 25 students. Do you offer school group rates? We'd need wetsuits and boards provided...",
-      "pill": "Booking",
+      "subject": "School field trip — 25 na mag-aaral, Mayo 15",
+      "preview": "Naghahanap kaming mag-book ng araw ng pag-surf para sa aming klase sa ika-5 baitang ng 25 na mag-aaral. Nag-aalok ka ba ng mga rate ng pangkat ng paaralan? Kailangan namin ng mga wetsuit at board na ibinigay...",
+      "pill": "Pagbu-book",
       "pillColor": "blue"
     },
     {
@@ -30,143 +29,143 @@
       "avatarLetter": "J",
       "avatarColor": "purple",
       "subject": "Paddleboard rental + delivery?",
-      "preview": "Do you rent SUP boards by the hour? We're staying at the beach house on Elm St — any chance you deliver? What's included...",
-      "pill": "Question",
+      "preview": "Nagrenta ka ba ng mga SUP board sa bawat oras? Nakatira kami sa beach house sa Elm St — may pagkakataon ka bang maghatid? Ano ang kasama...",
+      "pill": "Tanong",
       "pillColor": "amber"
     },
     {
       "from": "Nicole B.",
       "avatarLetter": "N",
       "avatarColor": "lavender",
-      "subject": "Conditions for tomorrow morning?",
-      "preview": "We're booked for 9 AM tomorrow but the forecast looks windy. Will the lesson still go ahead? Should we bring anything extra...",
+      "subject": "Mga kondisyon para bukas ng umaga?",
+      "preview": "Naka-book kami ng 9 AM bukas ngunit mukhang mahangin ang forecast. Magpapatuloy pa ba ang aralin? Dapat ba tayong magdala ng anumang dagdag...",
       "pill": "FYI",
       "pillColor": "lavender"
     }
   ],
-  "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+  "autodraft": "Hoy Rachel! Bukas ang Sabado ng umaga para sa 6. Ang mga pangkatang aralin ay tumatakbo nang 2 oras simula 9 AM. Kasama ang mga board, wetsuit, at rash guard - magdala lang ng sunscreen at tuwalya. Ito ay $90 bawat tao. Gusto mo bang ikulong ko ang grupo mo?",
   "math": {
     "pricePerBooking": "$90",
-    "bookingUnit": "lesson",
+    "bookingUnit": "aralin",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Duet."
+    "punchline": "Dalawang naka-save na booking ang nagbabayad para sa isang taon ng Duet."
   },
-  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga booking ng aralin, pangalawa ang mga tanong, at hindi kailanman ingay. Wala nang nawawalang pagtatanong ng pangkat ng paaralan na nakabaon sa ilalim ng mga alerto ng Yelp.",
+  "draftSubtitle": "Natutunan ng duet ang iyong mga uri ng aralin, pagpepresyo ng grupo, at tono. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may kakayahang magamit, kung ano ang kasama, at kung ano ang dadalhin. I-review at ipadala mo.",
+  "agentSubtitle": "\"Any group bookings na paparating ngayong linggo?\" \"Mag-draft ng tugon sa paaralan na may kakayahang magamit.\" Alam ng duet ang iyong inbox at iskedyul — magtanong lang.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
       "avatarLetter": "R",
       "avatarColor": "pink",
-      "subject": "Group lesson for 6 on Saturday?",
-      "preview": "I have a group of 6 friends visiting for the weekend...",
-      "pill": "Respond Now",
+      "subject": "Pangkatang aralin para sa 6 sa Sabado?",
+      "preview": "Mayroon akong isang grupo ng 6 na kaibigan na bumibisita para sa katapusan ng linggo...",
+      "pill": "Tumugon Ngayon",
       "pillColor": "red"
     },
     {
-      "from": "Westside Elementary",
+      "from": "Elementarya sa Kanluran",
       "avatarLetter": "W",
       "avatarColor": "blue",
-      "subject": "Re: Field trip confirmed — May 15, 25 students",
-      "pill": "Booked",
+      "subject": "Re: Kumpirmadong field trip — May 15, 25 students",
+      "pill": "Naka-book",
       "pillColor": "blue"
     },
     {
       "from": "James P.",
       "avatarLetter": "J",
       "avatarColor": "purple",
-      "subject": "Do you rent paddleboards by the hour?",
-      "pill": "Question",
+      "subject": "Nagrenta ka ba ng mga paddleboard ayon sa oras?",
+      "pill": "Tanong",
       "pillColor": "amber"
     },
     {
       "from": "TripAdvisor",
       "avatarLetter": "T",
       "avatarColor": "lavender",
-      "subject": "New review for your listing",
+      "subject": "Bagong review para sa iyong listing",
       "pill": "FYI",
       "pillColor": "lavender"
     },
     {
-      "from": "Surf Warehouse",
+      "from": "Warehouse ng Surf",
       "avatarLetter": "S",
       "avatarColor": "lavender",
-      "subject": "Summer sale — 30% off wetsuits",
-      "pill": "Promotions",
+      "subject": "Sale sa tag-araw — 30% diskwento sa mga wetsuit",
+      "pill": "Mga promosyon",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Group lesson for 6 on Saturday?",
-    "originalFrom": "Rachel T. wrote:",
-    "originalText": "Hi! I have a group of 6 friends visiting for the weekend. Do you have availability for a group surf lesson on Saturday morning? What's the pricing?",
+    "subject": "Re: Group lesson para sa 6 sa Sabado?",
+    "originalFrom": "Sumulat si Rachel T.:",
+    "originalText": "Hi! Mayroon akong isang grupo ng 6 na kaibigan na bumibisita para sa katapusan ng linggo. Mayroon ka bang magagamit para sa isang pangkatang aralin sa pag-surf sa Sabado ng umaga? Ano ang pagpepresyo?",
     "lines": [
-      "Hey Rachel!",
-      "Saturday morning is wide open for 6. Group lessons are $90/person and run 2 hours starting at 9 AM at the main beach.",
-      "Boards, wetsuits, and rash guards are all included — just bring sunscreen, water, and a towel. No experience needed.",
-      "Want me to lock your group in?"
+      "Hoy Rachel!",
+      "Bukas ang umaga ng Sabado para sa 6. Ang mga aralin ng grupo ay $90/tao at tatakbo ng 2 oras simula 9 AM sa pangunahing beach.",
+      "Kasama ang mga board, wetsuit, at rash guard - magdala lang ng sunscreen, tubig, at tuwalya. Walang karanasan na kailangan.",
+      "Gusto mo bang ikulong ko ang grupo mo?"
     ],
-    "highlightText": "Saturday morning is wide open for 6. Group lessons are $90/person",
+    "highlightText": "Bukas ang Sabado ng umaga para sa 6. Ang mga aralin sa pangkat ay $90/tao",
     "tooltipFeatures": [
-      "Knows your lesson types & pricing",
-      "Drafts in your voice",
-      "Includes what's provided automatically",
-      "Learns over time"
+      "Alam ang iyong mga uri ng aralin at pagpepresyo",
+      "Mga draft sa iyong boses",
+      "Kasama kung ano ang awtomatikong ibinigay",
+      "Natututo sa paglipas ng panahon"
     ]
   },
   "agent": {
-    "userMessage": "Any group bookings coming up this week?",
-    "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
-    "followUp": "Draft a reply to the school confirming the field trip details",
-    "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
+    "userMessage": "Anumang mga group booking na paparating ngayong linggo?",
+    "agentResponse": "Mayroon kang dalawang group booking ngayong linggo: Rachel T. sa Sabado (6 na tao, 9 AM) at Westside Elementary sa Miyerkules (25 mag-aaral, 10 AM field trip). Mayroon ka ring nakabinbing pagtatanong mula kay James P. tungkol sa pagrenta ng paddleboard. Gusto ko bang mag-draft ng tugon?",
+    "followUp": "Bumuo ng tugon sa paaralan na nagkukumpirma sa mga detalye ng field trip",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon sa Westside Elementary na nagkukumpirma sa Mayo 15 para sa 25 mag-aaral sa 10 AM. Kabilang dito ang rate ng iyong pangkat ng paaralan, kung ano ang ibinigay, mga kinakailangan sa slip ng pahintulot, at ang iyong patakaran sa pagkansela. Handa nang suriin at ipadala."
   },
-  "testimonialsTitle": "Loved by surf instructors",
+  "testimonialsTitle": "Mahilig sa surf instructor",
   "testimonials": [
     {
-      "name": "Coach Mike T.",
-      "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
+      "name": "Si Coach Mike T.",
+      "title": "May-ari ng Surf School, CA",
+      "quote": "Ako ay nasa tubig nagtuturo 6 na oras sa isang araw. Sa oras na mag-check ako ng email, kalahati ng mga booking ay napunta sa iba. Ngayon, ang mga Duet draft ay tumutugon sa aking pagpepresyo at availability — nagre-review lang ako sa pagitan ng mga session.",
       "avatarKey": "michael"
     },
     {
-      "name": "Jen & Mark S.",
+      "name": "Jen at Mark S.",
       "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "quote": "Nagpapatakbo kami ng mga aralin at pagrenta ng board mula sa parehong inbox. Nalaman agad ng duet ang pagkakaiba — ang mga tanong sa pag-upa ay nakakakuha ng mga sagot sa pag-upa, ang mga tanong sa aralin ay nakakakuha ng mga detalye ng aralin. Parang may front desk.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "quote": "Ang mga booking ng pangkat ng paaralan ay dating kumukuha ng 10 email pabalik-balik. Ngayon, binabalangkas ng Duet ang unang tugon kasama ang mga rate ng pangkat, kung ano ang kasama, at ang slip ng pahintulot. Pinutol ang buong thread sa kalahati.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
+      "quote": "Pinapatay ako ng peak season — 30 email sa isang araw tungkol sa mga kundisyon, pagpepresyo, kung ano ang dadalhin. Ang parehong limang tanong na paulit-ulit. Ang duet ang humahawak sa kanilang lahat at kamukha ko sila.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
-      "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "title": "Direktor ng Kids Surf Camp, SC",
+      "quote": "Ang mga magulang ay nagpapadala ng pinakamahabang email. Mga petsa ng kampo, allergy, antas ng kasanayan, oras ng pickup. Duet draft ang mga detalyadong tugon na sumasaklaw sa lahat kaya hindi ako nagta-type ng mga talata sa 10 PM pagkatapos ng isang buong araw sa beach.",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
-  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+  "ctaHeadline": "Gumugol ng iyong tag-araw sa mga alon, \nwala sa inbox mo.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Does Duet handle different lesson types and equipment rentals?",
-      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "Pinangangasiwaan ba ng Duet ang iba't ibang uri ng aralin at pagrenta ng kagamitan?",
+      "answer": "Oo. Natutunan ng duet ang lahat ng iyong mga alay — mga pribadong lesson, group lesson, kids camp, board rental, SUP tours. Kapag may pumasok na pagtatanong, nag-draft ito ng tugon na may tamang pagpepresyo, tagal, kung ano ang kasama, at kung ano ang dadalhin. Alam nitong kailangan ng email ng pangkat ng paaralan ang ibang mga detalye kaysa sa pag-book ng pribadong aralin."
     },
     {
-      "question": "What about weather and conditions questions?",
-      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "question": "Paano naman ang mga tanong sa lagay ng panahon at kundisyon?",
+      "answer": "Natutunan ng Duet kung paano mo karaniwang pinangangasiwaan ang mga email ng kundisyon — ang iyong mga patakaran sa mga pagkansela, muling pag-iskedyul, at kung anong mga kundisyon ang iyong itinuturo. Kapag may nag-email na nagtatanong kung matutuloy ang kanilang aralin, gagawa si Duet ng tugon na tumutugma sa iyong karaniwang tono at patakaran. Nire-review at ipinadala mo sa loob ng ilang segundo."
     }
   ],
-  "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
+  "pricingNote": "Sa $90/aralin, dalawang naka-save na booking ang magbabayad ng higit sa isang taon na Pro."
 }
