@@ -31,6 +31,7 @@ jobs:
         run: |
           pnpm i18n:sync-locales
           pnpm i18n:sync-glossary
+          pnpm i18n:sync-function-locales
           pnpm i18n:verify:contracts
           pnpm i18n:verify
           pnpm i18n:scan-source
@@ -43,6 +44,7 @@ jobs:
           pnpm functions:types:check
           pnpm functions:check
           pnpm functions:build
+          pnpm functions:build:cloudflare-compat
 
       - name: Build and verify rendered i18n output
         run: |

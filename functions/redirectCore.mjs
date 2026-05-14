@@ -1,4 +1,4 @@
-import localeSource from "../src/i18n/locales.source.json" with { type: "json" }
+import localeSource from "./localeSource.generated.mjs"
 
 export const LANDING_SECURITY_HEADERS = {
     "X-Frame-Options": "DENY",
