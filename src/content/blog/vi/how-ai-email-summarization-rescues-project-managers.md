@@ -68,7 +68,7 @@ Hãy tưởng tượng bạn dùng bút highlight kỹ thuật số cho thread e
 
 - **Ví dụ cho PM:** Khi tóm tắt thread về một bug fix nghiêm trọng, bản tóm tắt extractive có thể kéo ra các câu như: "User reported critical bug 'LoginFail' impacting all EU users.", "Dev team confirmed the root cause is the authentication module update from Tuesday.", và "A hotfix patch is scheduled for deployment Friday at 5 PM CET."
 
-\[Placeholder for Image: Diagram comparing extractive and abstractive summarization]Extractive summarization kéo trực tiếp các câu chính, trong khi abstractive summarization hiểu nội dung và tạo một phần tổng quan mới, ngắn gọn.
+Extractive summarization kéo trực tiếp các câu chính, trong khi abstractive summarization hiểu nội dung và tạo một phần tổng quan mới, ngắn gọn.
 
 **Abstractive Summarization:**\
 Phương pháp này tinh vi hơn và hướng tới mô phỏng cách con người tóm tắt. AI trước tiên đọc và hiểu _ý nghĩa_ của toàn bộ cuộc trò chuyện hoặc tài liệu. Sau đó nó tạo các câu _mới_, bằng lời của chính nó, để nắm bắt bản chất cốt lõi một cách ngắn gọn. Việc này thường liên quan đến các mô hình AI nâng cao như những mô hình đứng sau ChatGPT hoặc Google Gemini, có thể diễn giải lại, kết hợp ý tưởng và tổng hợp thông tin.

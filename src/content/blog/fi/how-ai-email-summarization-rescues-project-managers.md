@@ -67,7 +67,7 @@ Kuvittele, että otat digitaalisen korostuskynän sähköpostiisi. Poimiva yhtee
 
 - **Esimerkki PM:stä:** Yhteenveto kriittistä virheenkorjausta koskevasta säikeestä, tiivistetty yhteenveto saattaa sisältää lauseita, kuten: "Käyttäjä ilmoitti kriittisestä virheestä "LoginFail", joka vaikuttaa kaikkiin EU:n käyttäjiin.", "Kehittäjätiimi vahvisti, että perimmäinen syy on todennusmoduulin päivitys tiistaista." ja "CPM-korjauskorjaus on ajoitettu perjantaina 5. ET."
 
-\[Placeholder for Image: Kaavio, jossa verrataan poimivaa ja abstraktia yhteenvetoa] Purava yhteenveto vetää keskeiset lauseet suoraan, kun taas abstrakti yhteenveto ymmärtää sisällön ja luo uuden, tiiviin yleiskatsauksen.
+Purava yhteenveto vetää keskeiset lauseet suoraan, kun taas abstrakti yhteenveto ymmärtää sisällön ja luo uuden, tiiviin yleiskatsauksen.
 
 **Abstraktinen yhteenveto:**\
 Tämä menetelmä on kehittyneempi ja pyrkii jäljittelemään sitä, miten ihminen tiivistää. AI lukee ja ymmärtää ensin koko keskustelun tai asiakirjan _merkityksen_. Sitten se luo _uusia_ lauseita omilla sanoillaan vangitakseen ydinolemuksen ytimekkäästi. Tämä koskee usein kehittyneitä AI-malleja, kuten §CHAT GPT§:n tai Google Gemini n takana olevia malleja, jotka voivat hahmottaa, yhdistää ideoita ja syntetisoida tietoa.

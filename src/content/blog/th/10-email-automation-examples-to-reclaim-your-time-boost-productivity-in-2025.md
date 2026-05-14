@@ -113,7 +113,7 @@ draft: false
 
 สิ่งนี้ช่วยประหยัดเวลาอย่างมหาศาลในการทำความเข้าใจบทสนทนาที่ซับซ้อน [Duet Mail ผสาน **Smart Summarization** พร้อมการรับรู้บริบท](https://duetmail.com/th) ซึ่งหมายความว่ามันไม่เพียงย่อเธรดยาวๆ เท่านั้น แต่ยังจดจำรายละเอียดเกี่ยวกับโครงการและความสัมพันธ์ที่กล่าวถึงก่อนหน้า เพื่อให้สรุปมีความเกี่ยวข้องสูงและนำไปใช้งานได้จริง
 
-![Screenshot showing Duet Mail's smart email summarization feature condensing a long email thread into key points and action items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+![ภาพหน้าจอฟีเจอร์สรุปอีเมลอัจฉริยะของ Duet Mail ที่ย่อเธรดอีเมลยาวให้เหลือประเด็นสำคัญและรายการที่ต้องดำเนินการ](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## พลังของระบบอัตโนมัติ: ตัวเลขที่บอกได้
 

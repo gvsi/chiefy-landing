@@ -53,7 +53,7 @@ Toto je možná nejpůsobivější funkce pro každého, kdo se topí v e-mailu.
 
 - **Behavioral Learning (ML):** Sleduje, jak zacházíte s podobnými e-maily – které otevřete jako první, označíte, archivujete nebo delegujete. Sedna zdůrazňuje, že AI[**učí se vaše komunikační vzorce a priority**](https://sedna.com/email-triage).
 
-- **Kategorizace a směrování:** Na základě své analýzy dokáže umělá inteligence automaticky kategorizovat e-maily (např. „Vyžaduje akci“, „Potřebné rozhodnutí“, „FYI“), filtrovat zprávy s nízkou prioritou (bulletiny, propagační akce) a někdy dokonce směrovat e-maily správnému členovi týmu ve scénářích sdílené doručené pošty ([Enate AIDS)](možnost)CVCV0 popisuje tuto schopnost.
+- **Kategorizace a směrování:** Na základě své analýzy dokáže umělá inteligence automaticky kategorizovat e-maily (např. „Vyžaduje akci“, „Potřebné rozhodnutí“, „FYI“), filtrovat zprávy s nízkou prioritou (bulletiny, propagační akce) a někdy dokonce směrovat e-maily správnému členovi týmu ve scénářích sdílené doručené pošty. [Enate AI tuto schopnost popisuje](https://www.enate.io/blog/email-classification-ai).
 
 Výsledek? Namísto toho, abyste čelili stěně nerozlišených zpráv, vidíte kurátorský pohled na to, co nyní skutečně vyžaduje vaši pozornost. To drasticky snižuje čas na třídění a únavu při rozhodování. Zde září nástroje jako[**Duet Mail**](https://duetmail.com/cs), které nabízejí funkci AI Triage, která zobrazuje naléhavé položky vyžadující akci nebo rozhodnutí přímo na Focused Dashboard.
 

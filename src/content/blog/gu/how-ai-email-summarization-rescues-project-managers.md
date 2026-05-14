@@ -68,7 +68,7 @@ AI તમારા ઈમેઇલમાં રહેલા ટેક્સ્�
 
 - **PMs માટે ઉદાહરણ:** Critical bug fix વિશેના threadનું summary બનાવતી વખતે, extractive summary આ પ્રકારનાં sentences ખેંચી શકે: "User reported critical bug 'LoginFail' impacting all EU users.", "Dev team confirmed the root cause is the authentication module update from Tuesday.", અને "A hotfix patch is scheduled for deployment Friday at 5 PM CET."
 
-\[Placeholder for Image: Diagram comparing extractive and abstractive summarization]Extractive summarization મુખ્ય sentences સીધી ખેંચે છે, જ્યારે abstractive summarization સામગ્રીને સમજે છે અને નવો, સંક્ષિપ્ત overview બનાવે છે.
+Extractive summarization મુખ્ય sentences સીધી ખેંચે છે, જ્યારે abstractive summarization સામગ્રીને સમજે છે અને નવો, સંક્ષિપ્ત overview બનાવે છે.
 
 **Abstractive Summarization:**\
 આ પદ્ધતિ વધુ sophisticated છે અને માનવી કેવી રીતે summary બનાવે તે mimic કરવાનો પ્રયાસ કરે છે. AI પહેલા સમગ્ર conversation અથવા documentનો _અર્થ_ વાંચે અને સમજે છે. પછી, તે મુખ્ય સાર સંક્ષિપ્ત રીતે વ્યક્ત કરવા માટે પોતાના શબ્દોમાં _નવા_ sentences બનાવે છે. તેમાં ઘણી વાર ChatGPT અથવા Google Gemini પાછળનાં advanced AI modelsનો સમાવેશ થાય છે, જે paraphrase, ideas combine અને information synthesize કરી શકે છે.

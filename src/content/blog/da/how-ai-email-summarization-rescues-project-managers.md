@@ -68,7 +68,7 @@ Forestil dig at tage en digital highlighter til din e-mail-tråd. Ekstraktiv ops
 
 - **Eksempel på PM'er:** Ved at opsummere en tråd om en kritisk fejlrettelse kan et uddragsresumé trække sætninger ud som: "Bruger rapporterede kritisk fejl 'LoginFail', som påvirker alle EU-brugere.", "Udviklerteamet bekræftede, at grundårsagen er godkendelsesmodulets opdatering fra tirsdag." og "En hotfix-patch er planlagt til udrulning fredag kl. 17.00 CET."
 
-\[Placeholder for Image: Diagram, der sammenligner ekstraktiv og abstrakt opsummering]Ekstraktion opsummering trækker nøglesætninger direkte, mens abstrakt opsummering forstår indholdet og genererer et nyt, kortfattet overblik.
+Ekstraktion opsummering trækker nøglesætninger direkte, mens abstrakt opsummering forstår indholdet og genererer et nyt, kortfattet overblik.
 
 **Abstrakt opsummering:**\
 Denne metode er mere sofistikeret og har til formål at efterligne, hvordan et menneske ville opsummere. AI'en læser og forstår først _betydningen_ af hele samtalen eller dokumentet. Derefter genererer den _nye_ sætninger, ved hjælp af sine egne ord, for at fange kerneessensen kortfattet. Dette involverer ofte avancerede AI-modeller som dem bag §CHAT GPT§ eller Google Gemini, som kan parafrasere, kombinere ideer og syntetisere information.

@@ -24,7 +24,7 @@
     "ariaHidden": true,
     "callouts": [
       "Momentinis skirstymas į kategorijas",
-      "AImaitinami atsakymai"
+      "AI maitinami atsakymai"
     ],
     "windowTitle": "Gautieji",
     "providers": [
@@ -78,16 +78,16 @@
     "ariaLabel": "Savybės",
     "eyebrow": "Jūsų gautieji, įkrauti",
     "title": "Jūsų gautieji neturėtų priklausyti jūsų dienai",
-    "subtitle": "Paverskite chaosą aiškumu naudodamiAI, kuri iš tikrųjų jus patraukia.\nSutaupykite 3 ir daugiau valandų kiekvieną savaitę naudodami išmaniausią el. pašto asistentą, skirtą Gmail ir Outlook.",
+    "subtitle": "Paverskite chaosą aiškumu naudodami AI, kuri iš tikrųjų jus patraukia.\nSutaupykite 3 ir daugiau valandų kiekvieną savaitę naudodami išmaniausią el. pašto asistentą, skirtą Gmail ir Outlook.",
     "cards": [
       {
         "id": "drafts",
         "title": "El. pašto juodraščiai, kurie skamba kaip jūs",
-        "description": "Duet AIel. laiškų rašytojas paruošia svarbiausių el. laiškų juodraščius. Jis išmoksta jūsų toną ir rašymo stilių.",
+        "description": "Duet AI el. laiškų rašytojas paruošia svarbiausių el. laiškų juodraščius. Jis išmoksta jūsų toną ir rašymo stilių.",
         "ariaLabel": "El. pašto juodraščiai, kurie skamba kaip jūs",
         "mockCopy": {
           "draftedColdEmail": "Parašiau šaltą laišką, pritaikytą Jonui",
-          "sampleText": "AIvamzdynai yra būtini kuriant tvirtas, keičiamo dydžio ir efektyviasAIsistemas.",
+          "sampleText": "AI vamzdynai yra būtini kuriant tvirtas, keičiamo dydžio ir efektyvias AI sistemas.",
           "readyToSend": "Pasiruošę siųsti?",
           "remindFollowUp": "Priminti man sekti."
         }
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Išmanūs priminimai",
-        "description": "Nustatykite ir pamirškite. Duet AIprisimena sekti, kai kiti neatsako, todėl niekas neiškrenta.",
+        "description": "Nustatykite ir pamirškite. Duet AI prisimena sekti, kai kiti neatsako, todėl niekas neiškrenta.",
         "ariaLabel": "Išmanūs priminimai",
         "mockCopy": {
           "header": "AI-Galimi išmanieji priminimai",
@@ -213,7 +213,7 @@
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "AIel. laiškų rengimas ir atsakymų generavimas",
+    "ariaLabel": "AI el. laiškų rengimas ir atsakymų generavimas",
     "badge": "Rengimas",
     "title": "Duet juodraščiai jūsų balsu",
     "subtitle": "Duet išmoksta, kaip rašote, ir parengia jūsų toną atitinkančius atsakymų juodraščius. Peržiūrėkite, prireikus pakoreguokite ir išsiųskite per kelias sekundes.",
@@ -349,7 +349,7 @@
       {
         "name": "Sara T.",
         "title": "rinkodaros direktorius",
-        "quote": "Galiausiai,AIpašto asistentas, kuris iš tikrųjų išmoksta rašyti. Momentiniai atsakymai tokie konkretūs, kad mano komanda manė, kad dirbu vidurnaktį.",
+        "quote": "Galiausiai,AI pašto asistentas, kuris iš tikrųjų išmoksta rašyti. Momentiniai atsakymai tokie konkretūs, kad mano komanda manė, kad dirbu vidurnaktį.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
@@ -391,7 +391,7 @@
           },
           {
             "title": "Duet Asistentas",
-            "description": "IšbandykiteAIasistentą"
+            "description": "Išbandykite AI asistentą"
           }
         ],
         "ctaLabel": "Pasirinkite Gmail arba Outlook"
@@ -492,7 +492,7 @@
       },
       {
         "question": "Kaip veikia el. pašto suvestinės funkcija?",
-        "answer": "Duet Mail naudoja pažangiusAI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
+        "answer": "Duet Mail naudoja pažangius AI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
       },
       {
         "question": "Kokių leidimų reikia Duet Mail?",
@@ -638,7 +638,7 @@
     "applicationCategory": "Komunikacijos programa",
     "featureList": [
       "Išmanusis el. pašto organizavimas ir skirstymas į kategorijas",
-      "AIvaldomas el. laiškų piešimas jūsų balsu",
+      "AI valdomas el. laiškų piešimas jūsų balsu",
       "Išmanusis el. pašto asistentas su kalendoriaus integracija",
       "Automatinės el. pašto santraukos ir veiksmų elementai",
       "Išmanūs priminimai tolesniems veiksmams"
@@ -648,14 +648,14 @@
         "name": "Pagrindinis planas",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Nemokamas planas su momentinėmis suvestinėmis,AIjuodraščiais ir išmaniaisiais gautaisiais"
+        "description": "Nemokamas planas su momentinėmis suvestinėmis,AI juodraščiais ir išmaniaisiais gautaisiais"
       },
       {
         "name": "Pro Planas",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
-        "description": "Visiška prieiga su išmaniųjų gautųjų kategorizavimu,AIjuodraščiais, asistentu ir kalendoriaus integravimu"
+        "description": "Visiška prieiga su išmaniųjų gautųjų kategorizavimu,AI juodraščiais, asistentu ir kalendoriaus integravimu"
       }
     ],
     "aggregateRating": {
@@ -681,7 +681,7 @@
       },
       {
         "question": "Kaip veikia el. pašto suvestinės funkcija?",
-        "answer": "Duet Mail naudoja pažangiusAI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
+        "answer": "Duet Mail naudoja pažangius AI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
       },
       {
         "question": "Kokių leidimų reikia Duet Mail?",

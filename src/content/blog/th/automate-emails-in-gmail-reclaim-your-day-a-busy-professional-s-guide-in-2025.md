@@ -23,7 +23,7 @@ draft: false
 
 - **งานมูลค่าต่ำ:** เวลาส่วนสำคัญที่ใช้กับอีเมลถูกใช้ไปกับกิจกรรมที่ให้คุณค่าต่ำ งานศึกษาหนึ่งระบุว่าพนักงานโดยเฉลี่ยใช้เวลาถึง [51% ของวันทำงาน](https://lifehackmethod.com/blog/time-management-statistics/) ไปกับงานที่แทบไม่ส่งผลกระทบ โดยอีเมลเป็นหนึ่งในตัวการหลัก
 
-![Photo of a visibly stressed professional sitting at a desk piled high with papers, looking overwhelmed by their computer screen displaying emails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+![ภาพมืออาชีพที่กำลังเครียดนั่งอยู่หน้าโต๊ะซึ่งเต็มไปด้วยเอกสาร และดูหนักใจกับหน้าจอคอมพิวเตอร์ที่แสดงอีเมลจำนวนมาก](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 อีเมลล้นกล่องจดหมายเป็นแหล่งความเครียดและการสูญเสียประสิทธิภาพการทำงานที่สำคัญสำหรับมืออาชีพที่งานยุ่ง
 
@@ -55,7 +55,7 @@ Filters คือแนวป้องกันด่านแรกของค
 
 
 
-![Screenshot showing the Gmail filter creation window with fields for From, To, Subject, Has the words, and options like Apply the label, Skip the Inbox](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+![ภาพหน้าจอหน้าต่างสร้างฟิลเตอร์ใน Gmail ที่มีช่องผู้ส่ง ผู้รับ หัวเรื่อง คำที่มีอยู่ และตัวเลือกอย่างใช้ป้ายกำกับหรือข้ามกล่องจดหมาย](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 ใช้ Gmail filters เพื่อจัดเรียงอีเมลขาเข้าโดยอัตโนมัติตามเกณฑ์ เช่น ผู้ส่งหรือคีย์เวิร์ด
 
@@ -67,7 +67,7 @@ Filters คือแนวป้องกันด่านแรกของค
 
 วิธีนี้ช่วยประหยัดเวลาได้มากและทำให้การสื่อสารประจำของคุณมีความสอดคล้องกัน คุณยังสามารถ [ผสานฟิลเตอร์และเทมเพลต](https://hiverhq.com/blog/gmail-filters) เพื่อส่งข้อความตอบกลับสำเร็จรูปโดยอัตโนมัติตามเกณฑ์อีเมลบางอย่างได้ด้วย!
 
-![Screenshot showing how to insert a saved template (canned response) in the Gmail compose window via the three-dot menu](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+![ภาพหน้าจอแสดงวิธีแทรกเทมเพลตที่บันทึกไว้ในหน้าต่างเขียนอีเมลของ Gmail ผ่านเมนูสามจุด](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 ประหยัดเวลาในการตอบกลับซ้ำ ๆ ด้วยการใช้ Gmail Templates (Canned Responses)
 
@@ -162,7 +162,7 @@ Filters และส่วนขยายช่วยทำให้งาน *t
 
 เป้าหมายไม่ใช่แค่กล่องจดหมายที่ว่างเปล่า แต่คือวันทำงานที่มีสมาธิมากขึ้น มีประสิทธิภาพมากขึ้น และเครียดน้อยลง เริ่มจากสิ่งเล็ก ๆ ทดลองใช้เครื่องมือที่ตรงกับความต้องการของคุณมากที่สุด และทวงคืนเวลาให้กับงานที่สำคัญจริง ๆ
 
-![Photo of a relaxed professional working efficiently on a laptop, smiling slightly, with a clean desk](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+![ภาพมืออาชีพที่ผ่อนคลายกำลังทำงานบนแล็ปท็อปอย่างมีประสิทธิภาพ ยิ้มเล็กน้อย และมีโต๊ะทำงานที่เป็นระเบียบ](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 ทวงคืนเวลาและลดความเครียดจากอีเมลผ่านระบบอัตโนมัติที่มีประสิทธิภาพ
 

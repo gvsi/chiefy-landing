@@ -163,16 +163,24 @@ const legalEnglishLeftoverPhrases = [
     "Pro文斯",
     "Pro职业",
     "Pro愿景",
+    "OpenAI's processing of information inside ChatGPT",
 ]
 
 const publishedContentLeftoverPhrases = [
     "Image Placeholder",
+    "Placeholder for Image",
     "PlaceholderQuery",
     "Alt Text:",
     "Caption:",
 ]
 
+const publishedContentLeftoverPatterns = [
+    /\\?\[Placeholder for Image:[^\]]+\]/u,
+]
+
 const protectedTermGluePatterns = [
+    /\bAI(?=[\p{Ll}]{2,}|\p{N})/u,
+    /(?<=[\p{Ll}\p{N}])AI\b/u,
     /(?<=[\p{Script=Latin}\p{N}])ChatGPT/u,
     /ChatGPT(?=[\p{Script=Latin}\p{N}])/u,
     /\bGPT(?=[\p{L}\p{N}])/u,
@@ -180,7 +188,14 @@ const protectedTermGluePatterns = [
     /(?<=[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}])Pro/u,
     /Pro(?=[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}])/u,
 ]
-const longEnglishRunLocales = new Set(["ja", "ko", "zh-Hans", "zh-Hant"])
+const legalArtifactPatterns = [
+    /(?<=[\p{L}\p{N}])(?:GDPR|CCPA\/CPRA)/u,
+    /(?:GDPR|CCPA\/CPRA)(?=[\p{L}\p{N}])/u,
+    /\bPro(?=[\p{Lu}])/u,
+    /(?<=[\p{Ll}])Pro(?:\b|-|(?=[\p{Ll}]))/u,
+    /termsfeed\.com\/[^"'\s>]*\/blog\/[^"'\s>]*\/cookies/u,
+]
+const longEnglishRunLocales = new Set(["ja", "ko", "th", "zh-Hans", "zh-Hant"])
 const allowedProtectedTermGluePrefixes = ["ProWritingAid", "Proton"]
 
 function assertNoPublishedContentPlaceholders(relativePath, content) {
@@ -189,14 +204,26 @@ function assertNoPublishedContentPlaceholders(relativePath, content) {
             fail(`Published content contains authoring placeholder or broken source fragment in ${relativePath}: ${phrase}`)
         }
     }
+    for (const pattern of publishedContentLeftoverPatterns) {
+        const match = content.match(pattern)
+        if (match) {
+            fail(`Published content contains authoring placeholder or broken source fragment in ${relativePath}: ${match[0]}`)
+        }
+    }
 }
 
 function assertNoProtectedTermGlue(locale, relativePath, content) {
     if (locale === "en") return
     for (const pattern of protectedTermGluePatterns) {
-        const match = content.match(pattern)
-        if (match) {
+        const globalPattern = new RegExp(pattern.source, pattern.flags.includes("g") ? pattern.flags : `${pattern.flags}g`)
+        for (const match of content.matchAll(globalPattern)) {
             const index = match.index ?? 0
+            if (match[0] === "AI" && content.slice(index - 4, index + 2) === "OpenAI") {
+                continue
+            }
+            if (match[0] === "AI" && content.slice(index - 1, index + 2) === "NAI") {
+                continue
+            }
             if (match[0] === "GPT" && content.slice(index - 4, index + 3) === "ChatGPT") {
                 continue
             }
@@ -220,6 +247,17 @@ function assertNoLongEnglishRuns(locale, relativePath, content) {
         const index = match.index ?? 0
         const excerpt = text.slice(Math.max(0, index - 40), index + 140).replace(/\s+/g, " ")
         fail(`Likely English sentence remains in non-English blog body ${relativePath}: ${excerpt}`)
+    }
+}
+
+function assertNoLegalArtifacts(relativePath, content) {
+    for (const pattern of legalArtifactPatterns) {
+        const match = content.match(pattern)
+        if (match) {
+            const index = match.index ?? 0
+            const excerpt = content.slice(Math.max(0, index - 40), index + 100).replace(/\s+/g, " ")
+            fail(`Legal content contains likely generator artifact in ${relativePath}: ${excerpt}`)
+        }
     }
 }
 
@@ -645,6 +683,7 @@ async function assertSourceContentFiles({ complete }) {
             const legal = readText(`src/i18n/content/legal/${locale}/${page}.html`)
             assertLegalHtmlStructure(`src/i18n/content/legal/${locale}/${page}.html`, legal)
             assertNoProtectedTermGlue(locale, `src/i18n/content/legal/${locale}/${page}.html`, legal)
+            assertNoLegalArtifacts(`src/i18n/content/legal/${locale}/${page}.html`, legal)
             if (locale !== localeSource.default_locale) {
                 assertNoHighVisibilityEnglishLegalLeftovers(`src/i18n/content/legal/${locale}/${page}.html`, legal)
             }

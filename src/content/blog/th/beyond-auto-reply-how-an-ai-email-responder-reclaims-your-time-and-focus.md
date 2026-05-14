@@ -19,7 +19,7 @@ draft: false
 
 นี่ไม่ใช่แค่เรื่องน่ารำคาญเท่านั้น แต่มันเป็นตัวฉุดประสิทธิภาพการทำงานอย่างมาก และเป็นแหล่งความเครียดที่สำคัญ งานวิจัยชี้ว่า[ **67% ของผู้คนรู้สึกว่ากล่องอีเมลของตนสร้างความหนักใจ**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html) และการถูกขัดจังหวะตลอดเวลาทำให้ยากต่อการโฟกัส โดยต้องใช้เวลาเฉลี่ยถึง[ **23 นาทีในการกลับมามีสมาธิอีกครั้ง**](https://ppm.express/blog/checking-emails/) หลังจากตรวจอีเมล
 
-![Infographic showing key statistics about email overload, including average emails per day, time spent managing email, and percentage of workers feeling overwhelmed](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+![อินโฟกราฟิกแสดงสถิติสำคัญเกี่ยวกับอีเมลล้นกล่อง รวมถึงจำนวนอีเมลเฉลี่ยต่อวัน เวลาที่ใช้จัดการอีเมล และสัดส่วนคนทำงานที่รู้สึกหนักใจ](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 ตัวตอบกลับอัตโนมัติแบบดั้งเดิม เช่น ที่มีอยู่ใน Gmail หรือ Outlook ไม่ได้ถูกออกแบบมาสำหรับความเป็นจริงแบบนี้ ข้อจำกัดของมันชัดเจน:
 
@@ -114,7 +114,7 @@ draft: false
 
 - **ราคา:** ค่าใช้จ่ายสอดคล้องกับเวลาที่ประหยัดได้และประสิทธิภาพที่เพิ่มขึ้นหรือไม่? (พิจารณาผลตอบแทนจากการลงทุน เช่น คำกล่าวของ EmailTree.ai ว่าสามารถ[ **ประหยัดต้นทุนเทียบเท่าพนักงานประจำ 2 คน**](https://emailtree.ai/) ต่ออีเมล 1000 ฉบับที่ประมวลผล)
 
-![Screenshot of the Duet Mail Focused Dashboard showing prioritized emails categorized by Action Needed and Decisions Needed](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+![ภาพหน้าจอแดชบอร์ดโฟกัสของ Duet Mail ที่แสดงอีเมลซึ่งถูกจัดลำดับความสำคัญตามหมวดต้องดำเนินการและต้องตัดสินใจ](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 แดชบอร์ดที่ขับเคลื่อนด้วย AI อย่างตัวอย่างนี้จาก Duet Mail ช่วยให้เห็นอีเมลที่มีลำดับความสำคัญอย่างชัดเจน ลดเวลาการคัดแยกลงอย่างมาก
 

@@ -15,7 +15,7 @@ O kas, jei būtų išmanesnis būdas? Čia atsiranda **Gmail DI plėtinys** - ga
 
 ## Kas iš tikrųjų yra Gmail DI plėtinys?
 
-Iš esmės Gmail DI plėtinys paprastai yra naršyklės priedas arba integruota funkcija, kuri pažįstamoje Gmail sąsajoje pasitelkia dirbtinį intelektą (DI), dažnai pažangius didžiuosius kalbos modelius (LLM), tokius kaip OpenAI GPT-4o, Anthropic Claude 3.5 ar Google Gemini. Pagrindinė jo misija - supaprastinti el. pašto valdymą, padidinti produktyvumą ir galiausiai paversti el. paštą mažiau varginančia užduotimi.
+Iš esmės Gmail DI plėtinys paprastai yra naršyklės priedas arba integruota funkcija, kuri pažįstamoje Gmail sąsajoje pasitelkia dirbtinį intelektą (DI), dažnai pažangius didžiuosius kalbos modelius (LLM), tokius kaip Open AI GPT-4o, Anthropic Claude 3.5 ar Google Gemini. Pagrindinė jo misija - supaprastinti el. pašto valdymą, padidinti produktyvumą ir galiausiai paversti el. paštą mažiau varginančia užduotimi.
 
 Šie įrankiai pranoksta paprastą automatizaciją. Senesni įrankiai rėmėsi bazinėmis taisyklėmis, o DI plėtiniai supranta _kontekstą_. Jie analizuoja el. laiškų turinį, pokalbio eigą, o kartais net ankstesnes jūsų sąveikas ir rašymo stilių. Šis kontekstinis supratimas, paremtas pažangiais LLM, leidžia jiems pasiūlyti tikrai išmanią pagalbą: niuansuotas santraukas, suasmenintus juodraščių pasiūlymus ir išmanų rūšiavimą, o ne vien bazinį filtravimą ar šabloninius atsakymus. Kad tai veiktų veiksmingai, jiems dažniausiai reikia leidimo peržiūrėti jūsų el. laiškus ir valdyti juodraščius. Kitaip tariant, jie prideda išmanumo sluoksnį, padedantį automatizuoti pasikartojančias užduotis, gerinti komunikacijos kokybę ir daug efektyviau valdyti gautuosius.
 

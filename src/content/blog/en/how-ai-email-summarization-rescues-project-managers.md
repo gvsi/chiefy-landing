@@ -68,7 +68,7 @@ Imagine taking a digital highlighter to your email thread. Extractive summarizat
 
 - **Example for PMs:** Summarizing a thread about a critical bug fix, an extractive summary might pull out sentences like: "User reported critical bug 'LoginFail' impacting all EU users.", "Dev team confirmed the root cause is the authentication module update from Tuesday.", and "A hotfix patch is scheduled for deployment Friday at 5 PM CET."
 
-\[Placeholder for Image: Diagram comparing extractive and abstractive summarization]Extractive summarization pulls key sentences directly, while abstractive summarization understands the content and generates a new, concise overview.
+Extractive summarization pulls key sentences directly, while abstractive summarization understands the content and generates a new, concise overview.
 
 **Abstractive Summarization:**\
 This method is more sophisticated and aims to mimic how a human would summarize. The AI first reads and comprehends the _meaning_ of the entire conversation or document. Then, it generates _new_ sentences, using its own words, to capture the core essence concisely. This often involves advanced AI models like those behind ChatGPT or Google Gemini, which can paraphrase, combine ideas, and synthesize information.

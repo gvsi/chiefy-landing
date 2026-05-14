@@ -68,7 +68,7 @@ AI तुमच्या ईमेलमधील मजकुराचे व�
 
 - **PMs साठी उदाहरण:** गंभीर bug fix बद्दलच्या थ्रेडचा सारांश काढताना, extractive summary मध्ये अशी वाक्ये येऊ शकतात: "User reported critical bug 'LoginFail' impacting all EU users.", "Dev team confirmed the root cause is the authentication module update from Tuesday.", आणि "A hotfix patch is scheduled for deployment Friday at 5 PM CET."
 
-\[Placeholder for Image: Diagram comparing extractive and abstractive summarization]Extractive summarization थेट मुख्य वाक्ये उचलते, तर abstractive summarization मजकूर समजून नवीन, संक्षिप्त आढावा तयार करते.
+Extractive summarization थेट मुख्य वाक्ये उचलते, तर abstractive summarization मजकूर समजून नवीन, संक्षिप्त आढावा तयार करते.
 
 **Abstractive Summarization:**\
 ही पद्धत अधिक प्रगत आहे आणि माणूस जसा summary करतो तशी नक्कल करण्याचा प्रयत्न करते. AI प्रथम पूर्ण संभाषण किंवा दस्तऐवजाचा अर्थ वाचते आणि समजते. मग ते स्वतःच्या शब्दांत _नवीन_ वाक्ये तयार करते, ज्यातून मूळ सार संक्षिप्तपणे पकडला जातो. यामध्ये अनेकदा ChatGPT किंवा Google Gemini सारख्या प्रगत AI models चा वापर होतो, जे paraphrase, कल्पना एकत्र करणे, आणि माहिती synthesize करू शकतात.
