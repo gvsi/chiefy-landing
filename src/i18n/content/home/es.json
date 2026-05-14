@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "borrador",
+        "action": "draft",
         "label": "Redactar una respuesta"
       },
       {
-        "action": "calendario",
+        "action": "calendar",
         "label": "Encuentra tiempo para reunirte"
       }
     ],

@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "juodraštis",
+        "action": "draft",
         "label": "Sudarykite atsakymo projektą"
       },
       {
-        "action": "kalendorius",
+        "action": "calendar",
         "label": "Raskite laiko susitikti"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "CONTACT",
     "contactHeading": "Vis dar turite klausimų?",
     "contactCta": "Susisiekite →",
-    "footerBrand": "DUETMAIL",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

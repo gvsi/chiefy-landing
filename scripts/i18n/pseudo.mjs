@@ -11,11 +11,16 @@ function pseudoString(value) {
         .replace(/[A-Za-z]/g, (letter) => `${letter}`)} !!]`
 }
 
-function pseudoValue(value) {
+function pseudoValue(value, keyPath = []) {
     if (typeof value === "string") return pseudoString(value)
-    if (Array.isArray(value)) return value.map(pseudoValue)
+    if (Array.isArray(value)) return value.map((item, index) => pseudoValue(item, [...keyPath, String(index)]))
     if (value && typeof value === "object") {
-        return Object.fromEntries(Object.entries(value).map(([key, nested]) => [key, pseudoValue(nested)]))
+        return Object.fromEntries(
+            Object.entries(value).map(([key, nested]) => {
+                if (key === "action" && typeof nested === "string") return [key, nested]
+                return [key, pseudoValue(nested, [...keyPath, key])]
+            }),
+        )
     }
     return value
 }

@@ -116,6 +116,24 @@
       "location": null
     },
     {
+      "name": "Unknown Portuguese hyphenated slug is not redirected",
+      "input": "https://duetmail.com/pt-custom-page",
+      "status": 200,
+      "location": null
+    },
+    {
+      "name": "Unknown French hyphenated slug with legal tail is not redirected",
+      "input": "https://duetmail.com/fr-extra/privacy",
+      "status": 200,
+      "location": null
+    },
+    {
+      "name": "Unknown Chinese hyphenated slug is not redirected",
+      "input": "https://duetmail.com/zh-unknown",
+      "status": 200,
+      "location": null
+    },
+    {
       "name": "Norwegian alias canonicalizes to nb",
       "input": "https://duetmail.com/no/privacy",
       "status": 301,

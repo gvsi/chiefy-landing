@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "ड्राफ्ट",
+        "action": "draft",
         "label": "एक उत्तर ड्राफ़्ट करें"
       },
       {
-        "action": "कैलेंडर",
+        "action": "calendar",
         "label": "मिलने के लिए समय निकालें"
       }
     ],

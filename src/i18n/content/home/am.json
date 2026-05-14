@@ -480,7 +480,7 @@
     "contactLabel": "እውቂያ",
     "contactHeading": "አሁንም ጥያቄዎች አሉዎት?",
     "contactCta": "ተገናኝ →",
-    "footerBrand": "DUET ሜይል",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "የሚጠየቁ ጥያቄዎች",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
@@ -533,15 +533,15 @@
         "links": [
           {
             "label": "ድርጅት",
-          "href": "/am#organization"
+            "href": "/am#organization"
           },
           {
             "label": "ረቂቅ",
-          "href": "/am#drafting"
+            "href": "/am#drafting"
           },
           {
             "label": "ብልህነት",
-          "href": "/am#intelligence"
+            "href": "/am#intelligence"
           },
           {
             "label": "Chrome ቅጥያ",
@@ -555,15 +555,15 @@
         "links": [
           {
             "label": "የዋጋ አሰጣጥ",
-          "href": "/am#pricing"
+            "href": "/am#pricing"
           },
           {
             "label": "ምስክርነቶች",
-          "href": "/am#testimonials"
+            "href": "/am#testimonials"
           },
           {
             "label": "የሚጠየቁ ጥያቄዎች",
-          "href": "/am#faq"
+            "href": "/am#faq"
           }
         ]
       },
@@ -572,19 +572,19 @@
         "links": [
           {
             "label": "ግላዊነት",
-          "href": "/am/privacy"
+            "href": "/am/privacy"
           },
           {
             "label": "ውሎች",
-          "href": "/am/terms"
+            "href": "/am/terms"
           },
           {
             "label": "ኩኪዎች",
-          "href": "/am/cookies"
+            "href": "/am/cookies"
           },
           {
             "label": "ማስተባበያ",
-          "href": "/am/disclaimer"
+            "href": "/am/disclaimer"
           }
         ]
       },
@@ -593,7 +593,7 @@
         "links": [
           {
             "label": "ብሎግ",
-          "href": "/am/blog"
+            "href": "/am/blog"
           },
           {
             "label": "LinkedIn",

@@ -10,7 +10,7 @@
     "headlineSuffix": "為了",
     "rotatingFeatures": [
       "排序電子郵件",
-      "起草答复",
+      "起草答覆",
       "調度",
       "尋找答案"
     ],
@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "草案",
+        "action": "draft",
         "label": "起草回覆"
       },
       {
-        "action": "日曆",
+        "action": "calendar",
         "label": "找時間見面"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "聯絡方式",
     "contactHeading": "還有疑問嗎？",
     "contactCta": "聯絡我們 →",
-    "footerBrand": "雙人郵件",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
@@ -640,7 +640,7 @@
       "智慧電子郵件組織與分類",
       "AI 支援的語音電子郵件起草功能",
       "整合日历的智能電子郵件助手",
-      "自动電子郵件摘要和行動項目",
+      "自動電子郵件摘要和行動項目",
       "智慧提醒跟進"
     ],
     "offers": [

@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "ഡ്രാഫ്റ്റ്",
+        "action": "draft",
         "label": "ഒരു മറുപടി ഡ്രാഫ്റ്റ് ചെയ്യുക"
       },
       {
-        "action": "കലണ്ടർ",
+        "action": "calendar",
         "label": "കണ്ടുമുട്ടാൻ സമയം കണ്ടെത്തുക."
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "ബന്ധപ്പെടുക",
     "contactHeading": "ഇപ്പോഴും ചോദ്യങ്ങളുണ്ടോ?",
     "contactCta": "ബന്ധപ്പെടുക →",
-    "footerBrand": "ഡ്യുയറ്റ് മെയിൽ",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "പതിവുചോദ്യങ്ങൾ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

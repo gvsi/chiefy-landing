@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "草案",
+        "action": "draft",
         "label": "起草回复"
       },
       {
-        "action": "日历",
+        "action": "calendar",
         "label": "找时间见面"
       }
     ],

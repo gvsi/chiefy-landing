@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "brouillon",
+        "action": "draft",
         "label": "Rédiger une réponse"
       },
       {
-        "action": "calendrier",
+        "action": "calendar",
         "label": "Trouver un créneau pour se rencontrer"
       }
     ],

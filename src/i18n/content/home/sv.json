@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "utkast",
+        "action": "draft",
         "label": "Förbered ett svar"
       },
       {
-        "action": "kalender",
+        "action": "calendar",
         "label": "Hitta tid att träffas"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "KONTAKT",
     "contactHeading": "Har du fortfarande frågor?",
     "contactCta": "Hör av dig →",
-    "footerBrand": "DUET-POST",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

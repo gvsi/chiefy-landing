@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "προσχέδιο",
+        "action": "draft",
         "label": "Σχέδιο απάντησης"
       },
       {
-        "action": "ημερολόγιο",
+        "action": "calendar",
         "label": "Βρείτε χρόνο να συναντηθείτε"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "ΕΠΑΦΗ",
     "contactHeading": "Έχετε ακόμα ερωτήσεις;",
     "contactCta": "Επικοινωνήστε →",
-    "footerBrand": "ΤΑΧΥΔΡΟΜΕΙΟ ΝΤΟΥΕΤ",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

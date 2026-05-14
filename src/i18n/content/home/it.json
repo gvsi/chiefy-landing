@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | Assistente e-mail AI per Gmail e Outlook",
-    "description": "L'assistente e-mail AI di Duet Mail riassume le e-mail, crea bozze di risposte e organizza la tua casella di posta. Funziona con Gmail e Outlook. Risparmia più di 4 ore a settimana."
+    "title": "Duet Mail | Assistente email IA per Gmail e Outlook",
+    "description": "L'assistente email IA di Duet Mail riassume le email, crea bozze di risposte e organizza la tua casella di posta. Funziona con Gmail e Outlook. Risparmia più di 4 ore a settimana."
   },
   "hero": {
     "badge": "Ora disponibile per Gmail e Outlook",
@@ -14,7 +14,7 @@
       "pianificazione",
       "trovare risposte"
     ],
-    "subline": "Risparmia più di 4 ore ogni settimana via e-mail",
+    "subline": "Risparmia più di 4 ore ogni settimana via email",
     "primaryCta": "Inizia con Gmail",
     "secondaryCta": "Inizia con Outlook",
     "trialNote": "Prova gratuita di 14 giorni",
@@ -78,12 +78,12 @@
     "ariaLabel": "Caratteristiche",
     "eyebrow": "La tua casella di posta, potenziata",
     "title": "La tua casella di posta non dovrebbe dominare la tua giornata",
-    "subtitle": "Trasforma il caos in chiarezza con l'intelligenza artificiale che ti cattura davvero.\nRisparmia più di 3 ore ogni settimana con l'assistente e-mail più intelligente per Gmail e Outlook.",
+    "subtitle": "Trasforma il caos in chiarezza con l'intelligenza artificiale che ti cattura davvero.\nRisparmia più di 3 ore ogni settimana con l'assistente email più intelligente per Gmail e Outlook.",
     "cards": [
       {
         "id": "drafts",
         "title": "Bozze di email che suonano come te",
-        "description": "Duet Lo scrittore di e-mail AI prepara bozze per le tue e-mail più importanti. Impara il tuo tono e il tuo stile di scrittura.",
+        "description": "Duet Lo scrittore di email IA prepara bozze per le tue email più importanti. Impara il tuo tono e il tuo stile di scrittura.",
         "ariaLabel": "Bozze di email che suonano come te",
         "mockCopy": {
           "draftedColdEmail": "Ho redatto una fredda email personalizzata per John",
@@ -123,12 +123,12 @@
             {
               "label": "Seguito",
               "value": "12",
-              "unit": "e-mail"
+              "unit": "email"
             },
             {
               "label": "Per rispondere",
               "value": "2",
-              "unit": "e-mail"
+              "unit": "email"
             },
             {
               "label": "Completato",
@@ -213,7 +213,7 @@
     ]
   },
   "draftShowcase": {
-    "ariaLabel": "Redazione di e-mail tramite intelligenza artificiale e generazione di risposte",
+    "ariaLabel": "Redazione di email tramite intelligenza artificiale e generazione di risposte",
     "badge": "Redazione",
     "title": "Duet bozze con la tua voce",
     "subtitle": "Duet impara come scrivi e redige risposte che corrispondono al tuo tono. Rivedi, modifica se necessario e invia in pochi secondi.",
@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "bozza",
+        "action": "draft",
         "label": "Redigere una risposta"
       },
       {
-        "action": "calendario",
+        "action": "calendar",
         "label": "Trova il tempo per incontrarti"
       }
     ],
@@ -287,7 +287,7 @@
         "Migliore,"
       ],
       "draftActions": [
-        "Invia e-mail",
+        "Invia email",
         "Modifica"
       ],
       "calendarIntro": "Domani hai 3 posti liberi:",
@@ -335,7 +335,7 @@
       {
         "name": "Johnny S.",
         "title": "Imprenditore",
-        "quote": "Ero scettico sull'uso dell'intelligenza artificiale per le mie e-mail. Ora è come avere un brillante assistente esecutivo. Non riesco a immaginare di tornare indietro.",
+        "quote": "Ero scettico sull'uso dell'intelligenza artificiale per le mie email. Ora è come avere un brillante assistente esecutivo. Non riesco a immaginare di tornare indietro.",
         "logoName": "Fiverr",
         "avatarKey": "johnny"
       },
@@ -349,7 +349,7 @@
       {
         "name": "Sara T.",
         "title": "Direttore Marketing",
-        "quote": "Finalmente un assistente di posta AI che impara davvero come scrivo. Le risposte istantanee sono così precise che il mio team pensava che stessi lavorando a mezzanotte.",
+        "quote": "Finalmente un assistente di posta IA che impara davvero come scrivo. Le risposte istantanee sono così precise che il mio team pensava che stessi lavorando a mezzanotte.",
         "logoName": "Wise",
         "avatarKey": "sarah"
       }
@@ -391,7 +391,7 @@
           },
           {
             "title": "Duet Assistente",
-            "description": "Prova l'assistente AI"
+            "description": "Prova l'assistente IA"
           }
         ],
         "ctaLabel": "Scegli Gmail o Outlook"
@@ -480,14 +480,14 @@
     "contactLabel": "CONTATTO",
     "contactHeading": "Hai ancora domande?",
     "contactCta": "Contattaci →",
-    "footerBrand": "POSTA DI DUETTO",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "Domande frequenti",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "In che modo Duet Mail protegge i miei dati e-mail?",
+        "question": "In che modo Duet Mail protegge i miei dati email?",
         "answer": "La tua sicurezza è la nostra massima priorità. Utilizziamo OAuth 2.0 per l'autenticazione sicura sia con Google che con Microsoft. Il contenuto delle email viene crittografato quando non è attivo utilizzando la crittografia a livello di campo lato client e seguiamo il principio del privilegio minimo per l'accesso API. Per la nostra integrazione con Google, siamo sottoposti alla valutazione annuale della sicurezza CASA di Google."
       },
       {
@@ -496,11 +496,11 @@
       },
       {
         "question": "Di quali autorizzazioni ha bisogno Duet Mail?",
-        "answer": "Duet Mail richiede l'accesso alle tue e-mail per fornire riepiloghi, estrarre azioni, generare contenuti e inviare e-mail. Richiediamo solo le autorizzazioni di cui abbiamo assolutamente bisogno. Puoi rivedere e revocare queste autorizzazioni in qualsiasi momento nelle impostazioni del tuo account Google o dell'account Microsoft."
+        "answer": "Duet Mail richiede l'accesso alle tue email per fornire riepiloghi, estrarre azioni, generare contenuti e inviare email. Richiediamo solo le autorizzazioni di cui abbiamo assolutamente bisogno. Puoi rivedere e revocare queste autorizzazioni in qualsiasi momento nelle impostazioni del tuo account Google o dell'account Microsoft."
       },
       {
         "question": "Cosa è incluso nella prova gratuita?",
-        "answer": "La prova gratuita di 14 giorni include l'accesso completo a tutte le funzionalità di Pro: riepiloghi e-mail illimitati, estrazione di azioni, scrittore di e-mail AI (generazione di e-mail e bozze senza limiti) e modelli di e-mail personalizzati. Accedi con Google o Microsoft per iniziare a risparmiare tempo sulla gestione della posta elettronica."
+        "answer": "La prova gratuita di 14 giorni include l'accesso completo a tutte le funzionalità di Pro: riepiloghi email illimitati, estrazione di azioni, scrittore di email IA (generazione di email e bozze senza limiti) e modelli di email personalizzati. Accedi con Google o Microsoft per iniziare a risparmiare tempo sulla gestione della posta elettronica."
       },
       {
         "question": "Posso utilizzare Duet Mail con altri provider di posta elettronica?",
@@ -525,7 +525,7 @@
     "ariaLabel": "Piè di pagina del sito",
     "brandIconAlt": "Icona Duet Mail",
     "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail: l'assistente e-mail AI che ti fa risparmiare ore ogni settimana",
+    "tagline": "Duet Mail: l'assistente email IA che ti fa risparmiare ore ogni settimana",
     "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
@@ -630,17 +630,17 @@
   },
   "jsonLd": {
     "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - Assistente e-mail AI per Gmail e Outlook",
+    "websiteAlternateName": "Duet - Assistente email IA per Gmail e Outlook",
     "organizationName": "Duet Mail",
     "organizationContactType": "Assistenza clienti",
     "softwareName": "Duet Mail",
-    "softwareDescription": "Assistente e-mail AI per Gmail e Outlook che riepiloga automaticamente le e-mail, crea bozze di risposte con la tua voce e organizza la tua casella di posta per risparmiare ore ogni settimana.",
+    "softwareDescription": "Assistente email IA per Gmail e Outlook che riepiloga automaticamente le email, crea bozze di risposte con la tua voce e organizza la tua casella di posta per risparmiare ore ogni settimana.",
     "applicationCategory": "Applicazione di comunicazione",
     "featureList": [
       "Organizzazione e categorizzazione intelligente della posta elettronica",
-      "Redazione di e-mail basata sull'intelligenza artificiale con la tua voce",
-      "Assistente e-mail intelligente con integrazione del calendario",
-      "Riepiloghi e-mail automatici e azioni",
+      "Redazione di email basata sull'intelligenza artificiale con la tua voce",
+      "Assistente email intelligente con integrazione del calendario",
+      "Riepiloghi email automatici e azioni",
       "Promemoria intelligenti per i follow-up"
     ],
     "offers": [
@@ -648,14 +648,14 @@
         "name": "Piano di base",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Piano gratuito con riepiloghi istantanei, bozze AI e casella di posta intelligente"
+        "description": "Piano gratuito con riepiloghi istantanei, bozze IA e casella di posta intelligente"
       },
       {
         "name": "Piano Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MESE",
-        "description": "Accesso completo con categorizzazione intelligente della casella di posta, bozze AI, assistente e integrazione del calendario"
+        "description": "Accesso completo con categorizzazione intelligente della casella di posta, bozze IA, assistente e integrazione del calendario"
       }
     ],
     "aggregateRating": {
@@ -676,7 +676,7 @@
     },
     "faq": [
       {
-        "question": "In che modo Duet Mail protegge i miei dati e-mail?",
+        "question": "In che modo Duet Mail protegge i miei dati email?",
         "answer": "La tua sicurezza è la nostra massima priorità. Utilizziamo OAuth 2.0 per l'autenticazione sicura sia con Google che con Microsoft. Il contenuto delle email viene crittografato quando non è attivo utilizzando la crittografia a livello di campo lato client e seguiamo il principio del privilegio minimo per l'accesso API. Per la nostra integrazione con Google, siamo sottoposti alla valutazione annuale della sicurezza CASA di Google."
       },
       {
@@ -685,11 +685,11 @@
       },
       {
         "question": "Di quali autorizzazioni ha bisogno Duet Mail?",
-        "answer": "Duet Mail richiede l'accesso alle tue e-mail per fornire riepiloghi, estrarre azioni, generare contenuti e inviare e-mail. Richiediamo solo le autorizzazioni di cui abbiamo assolutamente bisogno. Puoi rivedere e revocare queste autorizzazioni in qualsiasi momento nelle impostazioni del tuo account Google o dell'account Microsoft."
+        "answer": "Duet Mail richiede l'accesso alle tue email per fornire riepiloghi, estrarre azioni, generare contenuti e inviare email. Richiediamo solo le autorizzazioni di cui abbiamo assolutamente bisogno. Puoi rivedere e revocare queste autorizzazioni in qualsiasi momento nelle impostazioni del tuo account Google o dell'account Microsoft."
       },
       {
         "question": "Cosa è incluso nella prova gratuita?",
-        "answer": "La prova gratuita di 14 giorni include l'accesso completo a tutte le funzionalità di Pro: riepiloghi e-mail illimitati, estrazione di azioni, scrittore di e-mail AI (generazione di e-mail e bozze senza limiti) e modelli di e-mail personalizzati. Accedi con Google o Microsoft per iniziare a risparmiare tempo sulla gestione della posta elettronica."
+        "answer": "La prova gratuita di 14 giorni include l'accesso completo a tutte le funzionalità di Pro: riepiloghi email illimitati, estrazione di azioni, scrittore di email IA (generazione di email e bozze senza limiti) e modelli di email personalizzati. Accedi con Google o Microsoft per iniziare a risparmiare tempo sulla gestione della posta elettronica."
       },
       {
         "question": "Posso utilizzare Duet Mail con altri provider di posta elettronica?",

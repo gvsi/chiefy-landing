@@ -111,14 +111,17 @@ function canonicalizeLocaleTag(raw) {
     return { kind: "candidate", tag: canonical.join("-"), parts: canonical }
 }
 
-function resolveKnownRuntimeLocale(raw) {
+function resolveKnownRuntimeLocale(raw, options = {}) {
+    const { allowLanguageFallbacks = true } = options
     const normalized = canonicalizeLocaleTag(raw)
     if (normalized.kind !== "candidate") return null
 
     const candidates = [normalized.tag]
     const [language, maybeScript] = normalized.parts
-    if (maybeScript && /^[A-Z][a-z]{3}$/.test(maybeScript)) candidates.push(`${language}-${maybeScript}`)
-    candidates.push(language)
+    if (allowLanguageFallbacks) {
+        if (maybeScript && /^[A-Z][a-z]{3}$/.test(maybeScript)) candidates.push(`${language}-${maybeScript}`)
+        candidates.push(language)
+    }
 
     for (const candidate of [...new Set(candidates)]) {
         if (SUPPORTED_LOCALES.has(candidate)) return candidate
@@ -135,7 +138,7 @@ function canonicalLocalePrefixedPath(pathname) {
     const parts = pathname.split("/")
     const first = parts[1]
     if (!first) return pathname
-    const resolvedLocale = resolveKnownRuntimeLocale(first)
+    const resolvedLocale = resolveKnownRuntimeLocale(first, { allowLanguageFallbacks: false })
     if (!resolvedLocale) return pathname
 
     const canonicalFirstSegment = SUPPORTED_LOCALES.has(first) ? first : null

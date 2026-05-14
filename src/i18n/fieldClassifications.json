@@ -10,6 +10,7 @@
     "$.id",
     "$.kind",
     "$.type",
+    "$.agentChatShowcase.suggestions[*].action",
     "$.jsonLd.@context",
     "$.jsonLd.@type"
   ],

@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "proiect",
+        "action": "draft",
         "label": "Redați un răspuns"
       },
       {
-        "action": "calendaristic",
+        "action": "calendar",
         "label": "Găsiți timp să vă întâlniți"
       }
     ],

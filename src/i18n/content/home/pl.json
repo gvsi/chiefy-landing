@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "wersja robocza",
+        "action": "draft",
         "label": "Wersja robocza odpowiedzi"
       },
       {
-        "action": "kalendarz",
+        "action": "calendar",
         "label": "Znajdź czas na spotkanie"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "KONTAKT",
     "contactHeading": "Nadal masz pytania?",
     "contactCta": "Skontaktuj się →",
-    "footerBrand": "DUET POCZTA",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "Często zadawane pytania",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

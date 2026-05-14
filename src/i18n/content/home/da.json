@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "udkast",
+        "action": "draft",
         "label": "Udkast til et svar"
       },
       {
-        "action": "kalender",
+        "action": "calendar",
         "label": "Find tid til at mødes"
       }
     ],

@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "초안",
+        "action": "draft",
         "label": "답장 초안 작성"
       },
       {
-        "action": "달력",
+        "action": "calendar",
         "label": "만날 시간 찾기"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "연락하다",
     "contactHeading": "아직도 질문이 있으신가요?",
     "contactCta": "연락하기 →",
-    "footerBrand": "Duet Mail",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "খসড়া",
+        "action": "draft",
         "label": "একটি উত্তর খসড়া"
       },
       {
-        "action": "ক্যালেন্ডার",
+        "action": "calendar",
         "label": "দেখা করার জন্য সময় খুঁজুন"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "যোগাযোগ",
     "contactHeading": "এখনও প্রশ্ন আছে?",
     "contactCta": "যোগাযোগ করুন →",
-    "footerBrand": "ডুয়েট মেইল",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[-]",

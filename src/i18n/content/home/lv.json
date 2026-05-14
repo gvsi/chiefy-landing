@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "melnraksts",
+        "action": "draft",
         "label": "Sagatavot atbildes melnrakstu"
       },
       {
-        "action": "kalendārs",
+        "action": "calendar",
         "label": "Atrast laiku tikšanās reizei"
       }
     ],

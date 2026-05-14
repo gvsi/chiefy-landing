@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "osnutek",
+        "action": "draft",
         "label": "Osnutek odgovora"
       },
       {
-        "action": "koledar",
+        "action": "calendar",
         "label": "Poiščite čas za srečanje"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "KONTAKT",
     "contactHeading": "Imate še vprašanja?",
     "contactCta": "Stopite v stik →",
-    "footerBrand": "DUETNA POŠTA",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "pogosta vprašanja",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

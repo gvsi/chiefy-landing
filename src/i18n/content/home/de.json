@@ -15,8 +15,8 @@
       "Antworten finden"
     ],
     "subline": "Sparen Sie jede Woche mehr als 4 Stunden per E-Mail",
-    "primaryCta": "Beginnen Sie mit Gmail",
-    "secondaryCta": "Beginnen Sie mit Outlook",
+    "primaryCta": "Mit Gmail starten",
+    "secondaryCta": "Mit Outlook starten",
     "trialNote": "Kostenlose 14-tägige Testversion",
     "cancelNote": "Jederzeit kündbar"
   },
@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "Entwurf",
+        "action": "draft",
         "label": "Entwerfen Sie eine Antwort"
       },
       {
-        "action": "Kalender",
+        "action": "calendar",
         "label": "Finden Sie Zeit für ein Treffen"
       }
     ],
@@ -479,8 +479,8 @@
     "contactDecorative": "?",
     "contactLabel": "KONTAKT",
     "contactHeading": "Sie haben noch Fragen?",
-    "contactCta": "Nehmen Sie Kontakt auf →",
-    "footerBrand": "DUETT-MAIL",
+    "contactCta": "Kontakt aufnehmen →",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
@@ -488,7 +488,7 @@
     "items": [
       {
         "question": "Wie schützt Duet Mail meine E-Mail-Daten?",
-        "answer": "Ihre Sicherheit hat für uns oberste Priorität. Wir verwenden OAuth 2.0 für die sichere Authentifizierung sowohl mit Google als auch mit Microsoft. E-Mail-Inhalte werden im Ruhezustand mithilfe der clientseitigen Verschlüsselung auf Feldebene verschlüsselt, und wir folgen dem Prinzip der geringsten Berechtigung für den API-Zugriff. Für unsere Google-Integration unterziehen wir uns der jährlichen CASASicherheitsbewertung von Google."
+        "answer": "Ihre Sicherheit hat für uns oberste Priorität. Wir verwenden OAuth 2.0 für die sichere Authentifizierung sowohl mit Google als auch mit Microsoft. E-Mail-Inhalte werden im Ruhezustand mithilfe der clientseitigen Verschlüsselung auf Feldebene verschlüsselt, und wir folgen dem Prinzip der geringsten Berechtigung für den API-Zugriff. Für unsere Google-Integration unterziehen wir uns der jährlichen CASA-Sicherheitsbewertung von Google."
       },
       {
         "question": "Wie funktioniert die E-Mail-Zusammenfassungsfunktion?",
@@ -512,13 +512,13 @@
     "ariaLabel": "Fangen Sie an",
     "headline": "Erhalten Sie 4 Stunden zurück.\nJede Woche.",
     "subline": "Schließen Sie sich den Profis an, die ihren Tag mit Klarheit und nicht mit Chaos beginnen. Ihre kostenlose Testversion wartet auf Sie.",
-    "primaryCta": "Beginnen Sie mit Gmail",
-    "secondaryCta": "Beginnen Sie mit Outlook",
+    "primaryCta": "Mit Gmail starten",
+    "secondaryCta": "Mit Outlook starten",
     "note": "14-tägige kostenlose Testversion · Jederzeit kündbar",
     "trustItems": [
       "Google CASA-bewertet",
       "Im Ruhezustand verschlüsselt",
-      "Sichern SieOAuth2.0"
+      "Sicheres OAuth 2.0"
     ]
   },
   "footer": {
@@ -677,7 +677,7 @@
     "faq": [
       {
         "question": "Wie schützt Duet Mail meine E-Mail-Daten?",
-        "answer": "Ihre Sicherheit hat für uns oberste Priorität. Wir verwenden OAuth 2.0 für die sichere Authentifizierung sowohl mit Google als auch mit Microsoft. E-Mail-Inhalte werden im Ruhezustand mithilfe der clientseitigen Verschlüsselung auf Feldebene verschlüsselt, und wir folgen dem Prinzip der geringsten Berechtigung für den API-Zugriff. Für unsere Google-Integration unterziehen wir uns der jährlichen CASASicherheitsbewertung von Google."
+        "answer": "Ihre Sicherheit hat für uns oberste Priorität. Wir verwenden OAuth 2.0 für die sichere Authentifizierung sowohl mit Google als auch mit Microsoft. E-Mail-Inhalte werden im Ruhezustand mithilfe der clientseitigen Verschlüsselung auf Feldebene verschlüsselt, und wir folgen dem Prinzip der geringsten Berechtigung für den API-Zugriff. Für unsere Google-Integration unterziehen wir uns der jährlichen CASA-Sicherheitsbewertung von Google."
       },
       {
         "question": "Wie funktioniert die E-Mail-Zusammenfassungsfunktion?",

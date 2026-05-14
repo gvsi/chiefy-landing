@@ -216,6 +216,7 @@ const legalArtifactPatterns = [
     /(?:GDPR|CCPA\/CPRA)(?=[\p{L}\p{N}])/u,
     /\bPro(?=[\p{Lu}])/u,
     /(?<=[\p{Ll}])Pro(?:\b|-|(?=[\p{Ll}]))/u,
+    /CASA(?=[\p{L}\p{N}])/u,
     /termsfeed\.com\/[^"'\s>]*\/blog\/[^"'\s>]*\/cookies/u,
 ]
 const longEnglishRunLocales = new Set(["ja", "ko", "th", "zh-Hans", "zh-Hant"])
@@ -332,6 +333,63 @@ function assertMessageQualityContracts(locale, messages, englishMessages) {
         if (messages[key] === englishMessages[key]) {
             fail(`High-visibility message still equals English for ${locale}: ${key}`)
         }
+    }
+}
+
+function sortedJsonKeys(value) {
+    return Object.keys(value).sort()
+}
+
+function assertMessageKeyParity(locale, messages, englishMessages) {
+    const englishKeys = sortedJsonKeys(englishMessages)
+    const localeKeys = sortedJsonKeys(messages).filter((key) => key !== "translationStatus")
+    const missing = englishKeys.filter((key) => !localeKeys.includes(key))
+    const extra = localeKeys.filter((key) => !englishKeys.includes(key))
+    if (missing.length > 0) {
+        fail(`Missing message keys for ${locale}: ${missing.join(", ")}`)
+    }
+    if (extra.length > 0) {
+        fail(`Extra message keys for ${locale}: ${extra.join(", ")}`)
+    }
+}
+
+function messagePlaceholders(value) {
+    return [...value.matchAll(/\{([A-Za-z_][A-Za-z0-9_]*)\}/gu)].map((match) => match[1]).sort()
+}
+
+function assertMessagePlaceholderParity(locale, messages, englishMessages) {
+    if (locale === "en") return
+    for (const [key, englishValue] of Object.entries(englishMessages)) {
+        const localizedValue = messages[key]
+        if (typeof englishValue !== "string" || typeof localizedValue !== "string") continue
+        const englishPlaceholders = messagePlaceholders(englishValue)
+        const localizedPlaceholders = messagePlaceholders(localizedValue)
+        if (englishPlaceholders.join(",") !== localizedPlaceholders.join(",")) {
+            fail(
+                `Placeholder mismatch for ${locale}: ${key} expected {${englishPlaceholders.join("},{")}} got {${localizedPlaceholders.join("},{")}}`,
+            )
+        }
+    }
+}
+
+function assertHomeQualityContracts(locale, home, englishHome) {
+    if (locale !== "en-XA" && home.faq?.footerBrand !== "DUET MAIL") {
+        fail(`Home FAQ brand must preserve Duet Mail for ${locale}`)
+    }
+
+    const englishActions = englishHome.agentChatShowcase?.suggestions?.map((suggestion) => suggestion.action) ?? []
+    const localizedActions = home.agentChatShowcase?.suggestions?.map((suggestion) => suggestion.action) ?? []
+    if (JSON.stringify(localizedActions) !== JSON.stringify(englishActions)) {
+        fail(`Home agent chat suggestion actions must preserve stable enum values for ${locale}`)
+    }
+
+    const serialized = JSON.stringify(home)
+    if (locale === "it") {
+        if (serialized.includes("e-mail")) fail("Italian home content must use email, not e-mail")
+        if (/\bAI\b/u.test(serialized)) fail("Italian home content must use IA for standalone AI")
+    }
+    if (locale === "zh-Hant" && /[复动]/u.test(serialized)) {
+        fail("Traditional Chinese home content contains known simplified-only characters")
     }
 }
 
@@ -697,11 +755,15 @@ async function assertSourceContentFiles({ complete }) {
     }
 
     for (const locale of locales) {
+        assertNoDuplicateTopLevelJsonKeys(`src/i18n/messages/${locale}.json`)
         const messages = readJson(`src/i18n/messages/${locale}.json`)
+        assertMessageKeyParity(locale, messages, englishMessages)
+        assertMessagePlaceholderParity(locale, messages, englishMessages)
         assertMessageQualityContracts(locale, messages, englishMessages)
         assertNoProtectedTermGlue(locale, `src/i18n/messages/${locale}.json`, JSON.stringify(messages))
         const home = readJson(`src/i18n/content/home/${locale}.json`)
         const englishHome = readJson("src/i18n/content/home/en.json")
+        assertHomeQualityContracts(locale, home, englishHome)
         assertNoProtectedTermGlue(locale, `src/i18n/content/home/${locale}.json`, JSON.stringify(home))
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.title", home.meta?.title, englishHome.meta?.title)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.description", home.meta?.description, englishHome.meta?.description)

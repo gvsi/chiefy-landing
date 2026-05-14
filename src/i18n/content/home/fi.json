@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "luonnos",
+        "action": "draft",
         "label": "Luonnostele vastaus"
       },
       {
-        "action": "kalenteri",
+        "action": "calendar",
         "label": "Löydä aikaa tavata"
       }
     ],

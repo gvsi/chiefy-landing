@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "чернова",
+        "action": "draft",
         "label": "Изготвяне на отговор"
       },
       {
-        "action": "календар",
+        "action": "calendar",
         "label": "Намерете време за среща"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "КОНТАКТ",
     "contactHeading": "Все още имате въпроси?",
     "contactCta": "Свържете се с нас →",
-    "footerBrand": "ДУЕТ MAIL",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

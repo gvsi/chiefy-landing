@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "mustand",
+        "action": "draft",
         "label": "Koostage vastus"
       },
       {
-        "action": "kalender",
+        "action": "calendar",
         "label": "Leia aega kohtumiseks"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "CONTACT",
     "contactHeading": "Kas teil on endiselt küsimusi?",
     "contactCta": "Võtke ühendust →",
-    "footerBrand": "DUETIPAST",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[-]",

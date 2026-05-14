@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "черновик",
+        "action": "draft",
         "label": "Набросать ответ"
       },
       {
-        "action": "календарь",
+        "action": "calendar",
         "label": "Найти время для встречи"
       }
     ],

@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "nacrt",
+        "action": "draft",
         "label": "Nacrt odgovora"
       },
       {
-        "action": "kalendar",
+        "action": "calendar",
         "label": "Nađite vremena za upoznavanje"
       }
     ],

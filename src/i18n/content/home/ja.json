@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "下書き",
+        "action": "draft",
         "label": "返信の下書きを作成する"
       },
       {
-        "action": "カレンダー",
+        "action": "calendar",
         "label": "時間を見つけて会う"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "接触",
     "contactHeading": "まだ質問がありますか?",
     "contactCta": "お問い合わせ→",
-    "footerBrand": "Duet Mail",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",

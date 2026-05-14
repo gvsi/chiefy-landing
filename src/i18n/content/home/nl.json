@@ -265,11 +265,11 @@
     },
     "suggestions": [
       {
-        "action": "ontwerp",
+        "action": "draft",
         "label": "Stel een antwoord op"
       },
       {
-        "action": "kalender",
+        "action": "calendar",
         "label": "Vind tijd om elkaar te ontmoeten"
       }
     ],
@@ -480,7 +480,7 @@
     "contactLabel": "CONTACT",
     "contactHeading": "Heeft u nog vragen?",
     "contactCta": "Neem contact op →",
-    "footerBrand": "DUET POST",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "Veelgestelde vragen",
     "expandLabel": "[+]",
     "collapseLabel": "[-]",

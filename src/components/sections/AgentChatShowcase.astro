@@ -902,7 +902,7 @@ const agentCopyJson = JSON.stringify({
             // 2. Add User Message
             const userMsg = document.createElement("div");
             userMsg.className = "message user-message";
-            userMsg.innerHTML = `<div class="message-content">${label}</div>`;
+            userMsg.innerHTML = `<div class="message-content">${escapeHtml(label)}</div>`;
             userMsg.style.animationDelay = "0s";
             chatBody.appendChild(userMsg);
             chatBody.scrollTop = chatBody.scrollHeight;
