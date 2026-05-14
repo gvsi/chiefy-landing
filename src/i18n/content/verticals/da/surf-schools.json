@@ -93,7 +93,7 @@
       "avatarLetter": "S",
       "avatarColor": "lavender",
       "subject": "Sommerudsalg — 30 % rabat på våddragter",
-      "pill": "Probevægelser",
+      "pill": "Kampagner",
       "pillColor": "lavender"
     }
   ],
@@ -133,7 +133,7 @@
     {
       "name": "Jen og Mark S.",
       "title": "Paddleboard-undervisning og -udlejning, HI",
-      "quote": "Vi kører lektioner og bordudlejning ud af samme indbakke.Duet fandt ud af forskellen med det samme - lejespørgsmål får svar på lejemål, lektionsforespørgsler får lektionsdetaljer. Det er som at have en reception.",
+      "quote": "Vi kører lektioner og bordudlejning ud af samme indbakke. Duet fandt ud af forskellen med det samme - lejespørgsmål får svar på lejemål, lektionsforespørgsler får lektionsdetaljer. Det er som at have en reception.",
       "avatarKey": "jennifer"
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "Fran C.",
       "title": "SUP-ture og lektioner, OR",
-      "quote": "Højsæsonen dræbte mig - 30 e-mails om dagen om forhold, priser, hvad jeg skal medbringe. De samme fem spørgsmål igen og igen.Duet håndterer dem alle, og de lyder præcis som mig.",
+      "quote": "Højsæsonen dræbte mig - 30 e-mails om dagen om forhold, priser, hvad jeg skal medbringe. De samme fem spørgsmål igen og igen. Duet håndterer dem alle, og de lyder præcis som mig.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Kids Surf Camp Director, SC",
-      "quote": "Forældre sender de længste e-mails. Lejrdatoer, allergier, færdighedsniveauer, afhentningstider.Duet udarbejder udkast til detaljerede svar, der dækker alt, så jeg skriver ikke afsnit kl. 22.00 efter en hel dag på stranden.",
+      "quote": "Forældre sender de længste e-mails. Lejrdatoer, allergier, færdighedsniveauer, afhentningstider. Duet udarbejder udkast til detaljerede svar, der dækker alt, så jeg skriver ikke afsnit kl. 22.00 efter en hel dag på stranden.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Duet lærer, hvordan du typisk håndterer e-mails med betingelser - dine politikker om aflysninger, omlægning af tidsplaner og hvilke betingelser du underviser i. Når nogen sender e-mails og spørger, om deres lektion vil fortsætte, udarbejder Duet et svar, der matcher din sædvanlige tone og politik. Du gennemgår og sender på få sekunder."
     }
   ],
-  "pricingNote": "For $90/lektion betaler to gemte bookinger for over et år påPro."
+  "pricingNote": "For $90/lektion betaler to gemte bookinger for over et år på Pro."
 }

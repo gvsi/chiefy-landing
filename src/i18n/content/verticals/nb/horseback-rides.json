@@ -93,7 +93,7 @@
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "Vårsalg — 15 % avslag på fôr og feste",
-      "pill": "Probevegelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -133,25 +133,25 @@
     {
       "name": "Maria C.",
       "title": "Turoperatør på hesteryggen, AZ",
-      "quote": "Vi får dusinvis av e-poster som spør om det samme – vektgrenser, hva vi skal ha på oss, alderskrav.Duet håndterer alt og svarene høres akkurat ut som meg. Gjestene mine aner ikke at det er AI.",
+      "quote": "Vi får dusinvis av e-poster som spør om det samme – vektgrenser, hva vi skal ha på oss, alderskrav. Duet håndterer alt og svarene høres akkurat ut som meg. Gjestene mine aner ikke at det er AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Høysesongen tok livet av meg. 30+ e-poster om dagen på toppen av løpeturer.Duet sorterer bestillingsforespørslene fra støyen og utkast til svar som inkluderer alt - priser, hva du skal ta med, partiet. Jeg fikk tilbake kveldene mine.",
+      "quote": "Høysesongen tok livet av meg. 30+ e-poster om dagen på toppen av løpeturer. Duet sorterer bestillingsforespørslene fra støyen og utkast til svar som inkluderer alt - priser, hva du skal ta med, partiet. Jeg fikk tilbake kveldene mine.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Rideinstruktør og bookingsjef, TX",
-      "quote": "Vi kjører solnedgangsturer, morgenturer og privattimer - hver med forskjellige priser og krav.Duet lærte alt på en uke. Den utarbeider det riktige svaret for den riktige kjøretypen hver gang.",
+      "quote": "Vi kjører solnedgangsturer, morgenturer og privattimer - hver med forskjellige priser og krav. Duet lærte alt på en uke. Den utarbeider det riktige svaret for den riktige kjøretypen hver gang.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "De sensitive e-postene var de verste - noen som spør om de er for tunge, eller om barnet deres er gammelt nok.Duet håndterer de med samme omsorg som jeg ville gjort.ProFesjonell, snill og nøyaktig. Det alene er verdt det.",
+      "quote": "De sensitive e-postene var de verste - noen som spør om de er for tunge, eller om barnet deres er gammelt nok. Duet håndterer de med samme omsorg som jeg ville gjort. fesjonell, snill og nøyaktig. Det alene er verdt det.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet lærer dine kjøretyper, gruppestørrelser, aldersminimum og eventuelle rytterspesifikke krav. Når en familie eller gruppe sender e-post om bestilling, utarbeider den et svar som dekker priser for hele gruppen, hva hver enkelt rytter trenger å vite og tilgjengelige tidsluker. Du gjennomgår og sender - ingen frem og tilbake nødvendig."
     }
   ],
-  "pricingNote": "For $100/person for en gruppe på 6, betaler én spart tur for over to år medPro."
+  "pricingNote": "For $100/person for en gruppe på 6, betaler én spart tur for over to år med Pro."
 }

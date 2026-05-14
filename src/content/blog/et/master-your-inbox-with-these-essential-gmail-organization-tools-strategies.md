@@ -25,7 +25,7 @@ Mõelge **Siltidele** kui paindlikele ja võimsatele siltidele, mida saate meili
 
 - **Siltide loomine:** kerige vasakpoolsel külgribal alla, klõpsake valikul „Veel” ja seejärel käsul „Loo uus silt”. Andke sellele selge ja lühike nimi. Võimalusel vältige sümboleid.
 
-- **Pesasildid:** korraldage veelgi, luues alamsilte (nt „Projektid” > „Proobjekt Alpha”). Sildi loomisel märkige ruut „Pest silt all” ja valige ülem.
+- **Pesasildid:** korraldage veelgi, luues alamsilte (nt „Projektid” > „projekt Alpha”). Sildi loomisel märkige ruut „Pest silt all” ja valige ülem.
 
 - **Värvikood:** määrake sageli kasutatavatele siltidele värve, et postkastis kiiresti visuaalselt tuvastada. Hõljutage kursorit külgribal sildi kohal, klõpsake kolmel punktil ja valige „Sildi värv”.
 
@@ -33,11 +33,11 @@ Mõelge **Siltidele** kui paindlikele ja võimsatele siltidele, mida saate meili
 
 - **Valige filtritoimingud:** valige, mis juhtub sobivate meilidega: "Rakenda silt:", "Jäta postkasti vahele (arhiivi see)", "Märgi loetuks", "Märkige tärniga", "Kustuta", "Ära kunagi saada seda rämpsposti", "Edasta".
 
-- _Pro Näpunäide:_ Kombineerimine "Jäta postkasti vahele" ja "Rakenda silt" on uskumatult võimas mittekiireloomuliste kirjade (nt uudiskirjad või teatised) jaoks. Need liigitatakse automaatselt, ilma et teie põhivaadet segataks.
+- _Näpunäide:_ Kombineerimine "Jäta postkasti vahele" ja "Rakenda silt" on uskumatult võimas mittekiireloomuliste kirjade (nt uudiskirjad või teatised) jaoks. Need liigitatakse automaatselt, ilma et teie põhivaadet segataks.
 
 - **Kasutage täpsemaid operaatoreid:** muutke filtreid täpsemaks otsinguoperaatoritega, nagu **from:**, **to:**, **subject:**, **has:attachment**, **list:** (postiloendi jaoks), **VÕI** ja **-** (välistage termin). Näide. Filtreerige kõik ettevõttesisesed meilid, _välja arvatud_ oma otsese halduri omad: **from:*@teieettevõte.com -from:juhataja\@teieettevõte.com**.
 
-**Parimad tavad:** Kuigi see on võimas, ärge üle piiri minge. Google soovitab hoida sildid alla 500, samas kui mõned institutsioonid soovitavad alla 5000, kuna liigsed sildid võivad jõudlust aeglustada. Keskenduge strateegilistele kategooriatele ja tuginege spetsiifika otsimisele. Vaadake oma filtreid regulaarselt üle ja kohandage, et need oleksid asjakohased. Eesmärk ei ole kõike sildistada, vaid prognoositavate meilitüüpide sortimise automatiseerimine.
+**Parimad tavad:** Kuigi see on võimas, ärge üle piiri minge. Googleoovitab hoida sildid alla 500, samas kui mõned institutsioonid soovitavad alla 5000, kuna liigsed sildid võivad jõudlust aeglustada. Keskenduge strateegilistele kategooriatele ja tuginege spetsiifika otsimisele. Vaadake oma filtreid regulaarselt üle ja kohandage, et need oleksid asjakohased. Eesmärk ei ole kõike sildistada, vaid prognoositavate meilitüüpide sortimise automatiseerimine.
 
 ### Mastering Gmail Otsing: leidke midagi kohe
 
@@ -57,7 +57,7 @@ Lõpetage lõputu kerimine! Gmail otsingufunktsioonid on uskumatult jõulised �
 
 - **Kuupäevad:** **pärast:AAAA/KK/PP**, **enne:AAAA/KK/PP**, **vanem_kui:1a**, **uuem_kui:7p**.
 
-- **Prolähedus:** **märksõna1 ÜMBER 10 märksõna2** (leiab sõnu 10 sõna raadiuses üksteisest).
+- **Lähedus:** **märksõna1 ÜMBER 10 märksõna2** (leiab sõnu 10 sõna raadiuses üksteisest).
 
 Isegi mõne neist valdamine võib teabe otsimist märkimisväärselt kiirendada, muutes selle väidetavalt tõhusamaks kui iga võimaliku stsenaariumi jaoks hüperspetsiifiliste siltide loomine. Kasutage automatiseerimiseks laiaulatuslikke silte ja filtreid ning täpsemate andmete leidmiseks võimsat otsingut.
 
@@ -65,7 +65,7 @@ Isegi mõne neist valdamine võib teabe otsimist märkimisväärselt kiirendada,
 
 Gmail pakub mitmeid viise, kuidas automaatselt esile tuua, mida _ta peab_ oluliseks, aidates teil keskenduda. Valikute mõistmine on võtmetähtsusega:
 
-- **Vaikepostkast vahekaartidega:** see on paljude jaoks tavavaade. Gmail sorteerib meilid automaatselt kategooriatesse, nagu Esmane, Sotsiaalne, Proliikumine, Värskendused ja Foorumid. See on lihtne ega vaja seadistamist, sobib hästi hulgipostituse lihtsaks eraldamiseks. Tähtsaid e-kirju võidakse aga mõnikord valesti salvestada.
+- **Vaikepostkast vahekaartidega:** see on paljude jaoks tavavaade. Gmail sorteerib meilid automaatselt kategooriatesse, nagu Esmane, Sotsiaalne, Pakkumised, Värskendused ja Foorumid. See on lihtne ega vaja seadistamist, sobib hästi hulgipostituse lihtsaks eraldamiseks. Tähtsaid e-kirju võidakse aga mõnikord valesti salvestada.
 
 - **Tähtsuse markerid:** need on kollased noolemärgid meilide kõrval. Gmail rakendab neid automaatselt teie käitumise põhjal: kellele te sageli e-kirju saadate, millised meilid avate või millele vastate, loetud meilide märksõnad ja tärniga või kustutatud meilid. Saate käsitsi klõpsata markeril, et parandada Gmail, mis aitab selle algoritmi aja jooksul treenida.
 
@@ -75,9 +75,9 @@ Gmail pakub mitmeid viise, kuidas automaatselt esile tuua, mida _ta peab_ olulis
 
 **Tabel: Gmail postkasti paigutuste võrdlus**
 
-| Funktsioon                | Kuidas see töötab                                                                            | Parim jaoks                                       | Pros                                                         | Miinused                                                              |
+| Funktsioon                | Kuidas see töötab                                                                            | Parim jaoks                                       | Plussid                                                         | Miinused                                                              |
 | ---------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------- |
-| **Vaikevahekaardid**       | Automaatne sortimine eelmääratletud kategooriatesse (esmane, sotsiaalne, Proliikumine jne)        | Kasutajad, kes soovivad lihtsat automaatset eraldamist     | Null seadistus; vähendab segadust vahekaardil Peamine                   | Vähem kontrolli; olulised meilid võidakse valesti salvestada; kategooriad fikseeritud |
+| **Vaikevahekaardid**       | Automaatne sortimine eelmääratletud kategooriatesse (esmane, sotsiaalne, Pakkumised jne)        | Kasutajad, kes soovivad lihtsat automaatset eraldamist     | Null seadistus; vähendab segadust vahekaardil Peamine                   | Vähem kontrolli; olulised meilid võidakse valesti salvestada; kategooriad fikseeritud |
 | **Tähtsuse markerid** | AI-põhised kollased markerid, mis põhinevad kasutaja käitumisel (avamised, vastused, tärnid jne)           | Toetab Olulised kirjad; annab visuaalseid vihjeid | Õpib kasutaja prioriteete; käsitsi korrigeerivad rongid AI          | Tõhusus sõltub järjepidevast kasutaja käitumisest; lihtsalt marker  |
 | **Olulised kirjad**     | Kohandatavad jaotised, mis kasutavad sageli tähtsuse markereid (nt Tähtis/lugemata, tärniga tähistatud) | Kasutajad, kes soovivad vaadet põhikirjadele       | kohandatavad sektsioonid; tõstab esile olulised kirjad; võimendab AI-d | Nõuab mõningast seadistamist/kohandamist; tugineb täpsetele markeritele     |
 
@@ -105,7 +105,7 @@ Tootlikkuseekspert Merlin Manni poolt populaarseks saanud Inbox Zero ei seisne r
 
 **Inbox Zero rakendamine Gmails:**
 
-- **Prokass regulaarselt:** määrake iga päev oma postkasti töötlemiseks teatud ajad (Mann soovitab 3 korda päevas). Pidevate katkestuste vältimiseks lülitage märguanded välja.
+- **Töötle regulaarselt:** määrake iga päev oma postkasti töötlemiseks teatud ajad (Mann soovitab 3 korda päevas). Pidevate katkestuste vältimiseks lülitage märguanded välja.
 
 - **Kasutage toiminguid:**
 
@@ -143,7 +143,7 @@ David Alleni GTD-metoodika on terviklik süsteem ülesannete ja kohustuste halda
 
 GTD pakub tugevat raamistikku, mis tagab, et miski ei satuks läbi pragude, muutes meilid suurema tootlikkuse süsteemi raames teostatavateks ülesanneteks.
 
-### Partii Prokatkestamise jõud
+### E-posti hulgi töötlemise jõud
 
 Selle asemel, et reageerida igale sissetulevale meiliteatisele, hõlmab paketttöötlus e-kirjade kontrollimist ja käsitlemist selleks ettenähtud ajaplokkides. Näiteks võite vaadata e-kirju 30–60 minutit kell 10.00, 14.00 ja 16.00 ning hoiate selle ülejäänud aja suletuna.
 
@@ -153,11 +153,11 @@ Selle asemel, et reageerida igale sissetulevale meiliteatisele, hõlmab pakettt�
 
 - **Täiustatud fookus:** Võimaldab põhjalikku tööd muude ülesannetega ilma postkasti pideva tõmbamiseta.
 
-- **Suurem tõhusus:** Proe-kirjade lõpetamine fokuseeritud sarivõttena on sageli kiirem kui nende juhuslik käsitsemine.
+- **Suurem tõhusus:** E-kirjade lõpetamine fokuseeritud sarivõttena on sageli kiirem kui nende juhuslik käsitsemine.
 
 - **Vähendatud stress:** loob pigem kontrolli- ja edenemistunde kui pideva reageerimisvõime.
 
-**Paki Prolõpetamise rakendamine Gmails:** Lülitage töölaua ja mobiili e-posti märguanded välja. Planeerige oma kalendris konkreetsed meiliblokid ja pidage neist kinni. Nende plokkide ajal töötlege oma postkasti süstemaatiliselt, kasutades Inbox Zero või GTD põhimõtteid.
+**Paki töötlemise rakendamine Gmails:** Lülitage töölaua ja mobiili e-posti märguanded välja. Planeerige oma kalendris konkreetsed meiliblokid ja pidage neist kinni. Nende plokkide ajal töötlege oma postkasti süstemaatiliselt, kasutades Inbox Zero või GTD põhimõtteid.
 
 ### OHIO põhimõte (käsitsege seda ainult üks kord)
 
@@ -188,7 +188,7 @@ Gmail ei olnud oma olemuselt loodud keerukaks meeskonnatööks ega visuaalseks p
 | Kategooria                 | Põhifunktsioon                                                              | Kellele see on mõeldud                                    | Näidistööriistad                      | Peamine kasu                                                         |
 | ------------------------ | -------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------- |
 | **Task Management**      | Muutke meilid ülesanneteks, linkige meilid ülesannetega, hallake tähtaegu rakendusest Gmail. | Üksikisikud/meeskonnad, kes vajavad keskendumist ülesandele, GTD kasutajad | Todoist Gmail jaoks, Asana Gmail jaoks | Integreerib sujuvalt suhtlust teostatavate ülesannete loenditega.     |
-| **CRM**                  | Kontaktide, tehingute, torujuhtmete vaatamine/haldamine; logige e-kirjad otse Gmail is.  | Müügimeeskonnad, vabakutselised, kliendihaldurid       | Streak, Copper, HubSpot müük      | Provaatab e-kirjade kõrval olulist kliendi konteksti ja säästab aega.     |
+| **CRM**                  | Kontaktide, tehingute, torujuhtmete vaatamine/haldamine; logige e-kirjad otse Gmail is.  | Müügimeeskonnad, vabakutselised, kliendihaldurid       | Streak, Copper, HubSpot müük      | Kuvab e-kirjade kõrval olulist kliendi konteksti ja säästab aega.     |
 | **Visuaal/koostöö** | Lisage Kanbani tahvlid, jagatud postkastid/sildid, sisemised märkmed, meeskonna funktsioonid.   | Jagatud juurdepääsu vajavad meeskonnad, visuaalsed mõtlejad    | Gmelius, Sortd, ActiveInbox        | Parandab meeskonna töövoogu ja visuaalset korraldust Gmail i piirides. |
 
 Nende populaarsete tööriistade olemasolu toob esile kohad, kus natiivne Gmail ei ole sageli professionaalseks kasutamiseks mõeldud, eriti jagatud töövoogude ja välise konteksti (nt ülesanded või kliendiandmed) integreerimisel. Nende eesmärk on luua ühtsem tööruum, vähendades pidevalt vahetatavate rakenduste tootlikkuse äravoolu.
@@ -201,7 +201,7 @@ AI muudab e-posti haldust nutika triaaži, kokkuvõtete tegemise ja koostamisvõ
 
 ### Nutikas triaaž ja prioriteetide seadmine: laske tehisintellektil kaost sorteerida
 
-Kujutage ette postkasti, mis teab automaatselt, mis on kiireloomuline. Tehisintellekti meilitriaaž kasutab selliseid tehnoloogiaid nagu loomuliku keele Prolõpetamine (NLP) ja masinõpe (ML), et analüüsida sissetulevaid e-kirju sisu, saatjate ajaloo, märksõnade ja teie varasemate suhtluste põhjal. See ulatub lihtsatest filtritest palju kaugemale, kui mõistab nüansse ja konteksti, õpib teie prioriteete aja jooksul.
+Kujutage ette postkasti, mis teab automaatselt, mis on kiireloomuline. Tehisintellekti meilitriaaž kasutab selliseid tehnoloogiaid nagu loomuliku keele töötlemine (NLP) ja masinõpe (ML), et analüüsida sissetulevaid e-kirju sisu, saatjate ajaloo, märksõnade ja teie varasemate suhtluste põhjal. See ulatub lihtsatest filtritest palju kaugemale, kui mõistab nüansse ja konteksti, õpib teie prioriteete aja jooksul.
 
 **Eelised:** vähendab järsult käsitsi sortimise aega, toob esile kriitilised sõnumid, mis võivad peituda, minimeerib tähelepanu kõrvalejuhtimist madala prioriteediga kirjadest ja võitleb otsuste väsimise vastu, andes teie jaoks esialgse hinnangu "oluline/mitteoluline". Sellised tööriistad nagu [**SaneBox**](https://www.sanebox.com/) ja [**Superhuman**](https://superhuman.com/) on tuntud oma tehisintellektil põhinevate sortimisvõimaluste poolest.
 
@@ -243,7 +243,7 @@ Tõde on see, et **ei ole ühest õiget vastust.** Parim Gmail organisatsioonis�
 
 1. **Ehitage alus:** meisterdage Gmail natiivseid silte, filtreid ja otsingut. See ei ole läbiräägitav.
 
-2. **Valige meetod:** katsetage nädal aega metoodikaga, nagu partii Prokatkestamine või Inbox Zero. Vaata, mis tunne see on.
+2. **Valige meetod:** katsetage nädal aega metoodikaga, nagu e-posti hulgi töötlemine või Inbox Zero. Vaata, mis tunne see on.
 
 3. **Tuvastage kitsaskohad:** kus te kõige rohkem aega kaotate? Kas see on sorteerimine? Vastates? Kas leiate teavet? Jälgimisülesanded?
 

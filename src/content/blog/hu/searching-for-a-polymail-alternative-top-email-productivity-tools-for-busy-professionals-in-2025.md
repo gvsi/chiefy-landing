@@ -118,9 +118,9 @@ A piac tele van erős versenyzőkkel. Íme egy pillantás a vezető Polymail alt
 
 ### Duet Mail: Személyre szabott mesterséges intelligencia hatékonyság a Gmail felhasználók számára
 
-- **Core Focus:** Kifejezetten a Gmail számára kialakított intelligens AI-asszisztensként működik, prioritást élvezve a felhasználó egyedi kommunikációs stílusának elsajátításában, hogy órákat takarítson meg, miközben megőrzi a hitelességet. A beérkező levelek stresszének csökkentésére összpontosít az intelligens rangsorolás és a környezettudatos segítség révén.
+- **Fő fókusz:** Kifejezetten Gmailhez készült intelligens AI-asszisztensként működik, és megtanulja a felhasználó egyedi kommunikációs stílusát, hogy időt takarítson meg a hitelesség megőrzése mellett. Az intelligens priorizálással és kontextusfüggő segítséggel csökkenti a beérkező levelek okozta stresszt.
 
-- **Főbb jellemzők (a Product leírásának kihasználása):**
+- **Főbb funkciók:**
 
   - **AI Triage & Focused Dashboard:** Túlmutat egy egyszerű időrendi listán. A mesterséges intelligencia intelligensen elemzi az e-maileket a sürgősség, a szükséges műveletek és a szükséges döntések szempontjából, és ezeket a kritikus elemeket egy külön irányítópulton jeleníti meg. Ez közvetlenül felveszi a harcot az átlagosan 121 e-mailt tartalmazó napi szortírozással.
 

@@ -93,7 +93,7 @@
       "avatarLetter": "M",
       "avatarColor": "lavender",
       "subject": "20 % rabatt på save-the-dates denna vecka",
-      "pill": "Prorörelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -127,13 +127,13 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "Jag är på bergsställen med noll cellservice halva veckan. Under tiden mailar par mig om tidslinjer och leverantörsfrågor.Duet utkast till svar med mina exakta paket och ton — jag granskar dem när jag är tillbaka inom räckhåll.",
+      "quote": "Jag är på bergsställen med noll cellservice halva veckan. Under tiden mailar par mig om tidslinjer och leverantörsfrågor. Duet utkast till svar med mina exakta paket och ton — jag granskar dem när jag är tillbaka inom räckhåll.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Bröllopsplanerare med full service, CA",
-      "quote": "Att samordna 10+ leverantörer per bröllop innebär att min inkorg är en krigszon under högsäsong.Duet kategoriserar leverantörens e-postmeddelanden separat från klientens e-postmeddelanden och utkast till uppföljningar som jag skulle ha skrivit själv. Jag sover faktiskt nu.",
+      "quote": "Att samordna 10+ leverantörer per bröllop innebär att min inkorg är en krigszon under högsäsong. Duet kategoriserar leverantörens e-postmeddelanden separat från klientens e-postmeddelanden och utkast till uppföljningar som jag skulle ha skrivit själv. Jag sover faktiskt nu.",
       "avatarKey": "michael"
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "Mina par flyger in från hela världen och mejlar dygnet runt.Duet lärde mig mina svar på vanliga frågor – lokallogistik, lokala leverantörer, vad man kan förvänta sig – och utkast till svar som låter precis som jag. Kunderna har ingen aning.",
+      "quote": "Mina par flyger in från hela världen och mejlar dygnet runt. Duet lärde mig mina svar på vanliga frågor – lokallogistik, lokala leverantörer, vad man kan förvänta sig – och utkast till svar som låter precis som jag. Kunderna har ingen aning.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Bröllops- och evenemangsplanerare, NY",
-      "quote": "Jag spenderade 2 timmar varje natt på att svara på samma paket och tillgänglighetsfrågor.Duet hanterar de repetitiva sakerna så att jag kan fokusera på det kreativa arbete jag faktiskt älskar. Det betalade sig under den första veckan.",
+      "quote": "Jag spenderade 2 timmar varje natt på att svara på samma paket och tillgänglighetsfrågor. Duet hanterar de repetitiva sakerna så att jag kan fokusera på det kreativa arbete jag faktiskt älskar. Det betalade sig under den första veckan.",
       "avatarKey": "jennifer"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Det är precis vad Duet löser. När ett par e-postmeddelanden frågar om tillgänglighet eller paket medan du samordnar på plats, skriver Duet ett varmt, professionellt svar med din verkliga tillgänglighet och nästa steg. Du granskar och skickar när du är ledig – även från din telefon mellan händelser. De flesta planerare säger till oss att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
     }
   ],
-  "pricingNote": "För $8 000/bröllop betalar en sparad klient för över 20 år medPro."
+  "pricingNote": "För $8 000/bröllop betalar en sparad klient för över 20 år med Pro."
 }

@@ -93,7 +93,7 @@
       "avatarLetter": "D",
       "avatarColor": "lavender",
       "subject": "Handelsprogram — vårens besparingsevenemang",
-      "pill": "Prorörelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -127,7 +127,7 @@
     {
       "name": "Michael R.",
       "title": "Huvuddesigner, Austin TX",
-      "quote": "Jag är på plats 6 timmar om dagen och koordinerar målare, elektriker och kakelinstallatörer. Under tiden mailar tre andra kunder om sina projekt.Duet utkast till svar med rätt projektdetaljer — jag granskar bara mellan besöken på webbplatsen.",
+      "quote": "Jag är på plats 6 timmar om dagen och koordinerar målare, elektriker och kakelinstallatörer. Under tiden mailar tre andra kunder om sina projekt. Duet utkast till svar med rätt projektdetaljer — jag granskar bara mellan besöken på webbplatsen.",
       "avatarKey": "michael"
     },
     {
@@ -139,19 +139,19 @@
     {
       "name": "Johnny M.",
       "title": "Designstudioägare, Nashville",
-      "quote": "Att hantera e-postmeddelanden för 12 aktiva projekt dödade mig.Duet kategoriserar allt - nya förfrågningar, väntande godkännanden, leverantörsbeställningar, leverantörsuppdateringar - så jag vet exakt vad som behöver min uppmärksamhet först.",
+      "quote": "Att hantera e-postmeddelanden för 12 aktiva projekt dödade mig. Duet kategoriserar allt - nya förfrågningar, väntande godkännanden, leverantörsbeställningar, leverantörsuppdateringar - så jag vet exakt vad som behöver min uppmärksamhet först.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Inredningsarkitekt, San Diego",
-      "quote": "Jag förlorade potentiella kunder eftersom jag inte kunde svara tillräckligt snabbt under installationsveckorna.Duet lärde mig min konsultationsprocess, prisstruktur, till och med hur jag beskriver min designstil. Kunder har ingen aning om att det är AI-assisterat.",
+      "quote": "Jag förlorade potentiella kunder eftersom jag inte kunde svara tillräckligt snabbt under installationsveckorna. Duet lärde mig min konsultationsprocess, prisstruktur, till och med hur jag beskriver min designstil. Kunder har ingen aning om att det är AI-assisterat.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Kommersiell inredningsarkitekt, Denver",
-      "quote": "Mellan leverantörens ledtider, entreprenörsscheman och begäranden om revision av kunder var min inkorg kaos.Duet sorterar allt och gör utkast till uppföljningar på väntande godkännanden. Det är som att ha en projektkoordinator som aldrig sover.",
+      "quote": "Mellan leverantörens ledtider, entreprenörsscheman och begäranden om revision av kunder var min inkorg kaos. Duet sorterar allt och gör utkast till uppföljningar på väntande godkännanden. Det är som att ha en projektkoordinator som aldrig sover.",
       "avatarKey": "sarah"
     }
   ],
@@ -164,7 +164,7 @@
     },
     {
       "question": "Jag samordnar med många entreprenörer och leverantörer. Hjälper Duet med det?",
-      "answer": "Absolut.Duet lär sig dina entreprenörskontakter, leverantörsrepresentanter och sammanhanget för varje branschs roll i dina projekt. När din elektriker mejlar att grovinmatningen är klar kan Duet skriva ett svar som bekräftar nästa steg eller loop i fixturinstallationsprogrammet. Det håller arbetsflödet i rörelse även när du är på andra sidan stan på en annan arbetsplats."
+      "answer": "Absolut. Duet lär sig dina entreprenörskontakter, leverantörsrepresentanter och sammanhanget för varje branschs roll i dina projekt. När din elektriker mejlar att grovinmatningen är klar kan Duet skriva ett svar som bekräftar nästa steg eller loop i fixturinstallationsprogrammet. Det håller arbetsflödet i rörelse även när du är på andra sidan stan på en annan arbetsplats."
     }
   ],
   "pricingNote": "För $10 000/projekt betalar en sparad klient för år av Duet Pro."

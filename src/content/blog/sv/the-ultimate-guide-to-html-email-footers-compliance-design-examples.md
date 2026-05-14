@@ -23,9 +23,9 @@ Varför ägna dyrbar tid åt detta lilla utrymme? Fördelarna är betydande:
 
 - **Förtroende och trovärdighet:** Att inkludera kontaktinformation och länkar till policyer visar transparens och bygger förtroende hos din publik.
 
-- **Engagemang och navigering:**Proger enkel åtkomst till sociala medieprofiler, webbplatslänkar, preferenscenter eller till och med sekundära uppmaningar (som att ladda ner en app).
+- **Engagemang och navigering:**Ger enkel åtkomst till sociala medieprofiler, webbplatslänkar, preferenscenter eller till och med sekundära uppmaningar (som att ladda ner en app).
 
-- **Leverans:**Properly formaterade sidfötter med nödvändiga element hjälper till att signalera till e-postklienter (som Gmail,Outlook) att dina e-postmeddelanden inte är skräppost.
+- **Leverans:**Korrekt formaterade sidfötter med nödvändiga element hjälper till att signalera till e-postklienter (som Gmail, Outlook) att dina e-postmeddelanden inte är skräppost.
 
 ## Måste-has: väsentliga element för varje sidfot för e-post
 
@@ -37,7 +37,7 @@ Varför ägna dyrbar tid åt detta lilla utrymme? Fördelarna är betydande:
 | **Avsluta prenumerationslänk** | Lagligt obligatoriskt avCAN-SPAM,GDPR,CASLför marknadsföringsmeddelanden. Bygger förtroende och respekterar användarnas val. | Måste vara tydlig, iögonfallande och lätt att använda (helst ett enda klick). Besvara förfrågningar omgående (vanligtvis inom 10 arbetsdagar). |
 | **Fysisk postadress** | Lagligt obligatoriskt avCAN-SPAMochCASL. Lägger till legitimitet.                                               | Kan vara en gatuadress, en registrerad P.O. Box, eller en registrerad privat brevlåda.                                                   |
 | **Avsändaridentifikation** | Krävs enligt lag. Bygger förtroende.                                                                        | Ange tydligt ditt företagsnamn. Se till att "Från"- och "Svar-till"-adresserna är korrekta.                                              |
-| **Kontaktinformation** |Proger ett sätt för mottagare att komma i kontakt med. Bygger förtroende.                                          | Inkludera en webbplatslänk, support-e-postadress eller telefonnummer.                                                                    |
+| **Kontaktinformation** |Ger ett sätt för mottagare att komma i kontakt med. Bygger förtroende.                                          | Inkludera en webbplatslänk, support-e-postadress eller telefonnummer.                                                                    |
 | **Länk för integritetspolicy** | Viktigt förGDPRefterlevnad och god praxis överallt. Transparens om dataanvändning.            | Länk till en tydlig och begriplig policy på din webbplats.                                                                            |
 
 Se dessa som den icke förhandlingsbara grunden för din sidfot. Att missa dessa kan påverka leveransbarheten och leda till juridiska problem.
@@ -70,7 +70,7 @@ Använd ditt varumärkes logotyp, färgpalett och typsnitt (håll dig till webbs
 
 ### Säkerställ läsbarhet och tillgänglighet
 
-Använd färger med hög kontrast mellan text och bakgrund, särskilt för liten juridisk text. Använd semantisk HTML (som **\<p>** för stycken) för att hjälpa skärmläsare.Provisa beskrivande alt-text för alla bilder som används (som logotyper eller sociala ikoner).
+Använd färger med hög kontrast mellan text och bakgrund, särskilt för liten juridisk text. Använd semantisk HTML (som **\<p>** för stycken) för att hjälpa skärmläsare.Visa beskrivande alt-text för alla bilder som används (som logotyper eller sociala ikoner).
 
 ## Navigera i Legalese:CAN-SPAM,GDPRochCASL
 

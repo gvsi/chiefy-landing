@@ -103,7 +103,7 @@ Terminez votre e-mail avec élégance et fournissez les informations de contact 
 
   - **Facultatif (mais souvent utile)** : site web de l’entreprise, lien vers le profil LinkedIn, adresse physique (si pertinent).
 
-  - **Mise en forme** : Restez concis([**4 à 5 lignes max recommandées**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), utilisez des [**polices compatibles avec le web**](https://www.mailerlite.com/blog/email-signature-best-practices) professionnelles (comme Arial, Calibri) et des couleurs cohérentes avec votre marque. Assurez-vous qu’elle soit [**adaptée aux mobiles**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Évitez les images inutiles, les grands logos ou les citations inspirantes.
+  - **Mise en forme** : Restez concis ([**4 à 5 lignes max recommandées**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), utilisez des [**polices compatibles avec le web**](https://www.mailerlite.com/blog/email-signature-best-practices) professionnelles (comme Arial, Calibri) et des couleurs cohérentes avec votre marque. Assurez-vous qu’elle soit [**adaptée aux mobiles**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Évitez les images inutiles, les grands logos ou les citations inspirantes.
 
 
 

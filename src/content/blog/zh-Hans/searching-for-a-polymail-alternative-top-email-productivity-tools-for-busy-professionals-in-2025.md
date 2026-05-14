@@ -109,7 +109,7 @@ Polymail 无疑带来了价值，因为它专注于销售和专业生产力，�
 
 - **目标受众：** 重度 Gmail/Google Workspace 用户、需要最大 AI 收件箱组织和管理帮助的个人和团队、怀念 Google 收件箱的人。
 
-- **平台：** 可在 Web、iOS、Android 上使用。为 Mac 和 Windows 桌面使用提供Pro渐进式 Web 应用程序 (PWA) 快捷方式。专供Gmail和Google Workspace账户使用。
+- **平台：** 可在 Web、iOS、Android 上使用。为 Mac 和 Windows 桌面使用提供渐进式 Web 应用程序 (PWA) 快捷方式。专供 Gmail 和 Google Workspace 账户使用。
 
 - **定价：** 分级定价：免费（仅限 90 天历史记录，基本 AI，包括“以 Shortwave 签名发送”）、个人（每年$7/mo）、Pro（每年$14/mo）、商务（每年$24/mo）、高级（每年$36/mo）。比Superhuman更实惠的切入点。
 

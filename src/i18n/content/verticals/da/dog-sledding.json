@@ -93,7 +93,7 @@
       "avatarLetter": "A",
       "avatarColor": "lavender",
       "subject": "Vinterudsalg — 30 % rabat på mushing-seler",
-      "pill": "Probevægelser",
+      "pill": "Kampagner",
       "pillColor": "lavender"
     }
   ],
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Turoperatør for slædehunde, AK",
-      "quote": "Jeg er på sporet 6 timer om dagen med nul celleservice. Da jeg kom tilbage, var halvdelen af ​​bookingforespørgslerne gået til et andet outfit.Duet udkast til svar med mine turoplysninger og priser - gæster hører tilbage på få minutter, ikke timer.",
+      "quote": "Jeg er på sporet 6 timer om dagen med nul celleservice. Da jeg kom tilbage, var halvdelen af ​​bookingforespørgslerne gået til et andet outfit. Duet udkast til svar med mine turoplysninger og priser - gæster hører tilbage på få minutter, ikke timer.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour ejer, AK",
-      "quote": "Vi tilbyder kennelbesøg, mush-ture og aurora-kombinationer - hver e-mail har brug for et andet svar.Duet fandt ud af alle tre turtyper på en uge og udarbejder nu udkast til svar, der matcher den rigtige pakke hver gang.",
+      "quote": "Vi tilbyder kennelbesøg, mush-ture og aurora-kombinationer - hver e-mail har brug for et andet svar. Duet fandt ud af alle tre turtyper på en uge og udarbejder nu udkast til svar, der matcher den rigtige pakke hver gang.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Hundeslædeguide, MN",
-      "quote": "Jeg plejede at bruge hver aften på at svare på de samme spørgsmål om, hvad jeg skulle have på, aldersgrænser og hundene.Duet håndterer det hele. Jeg kommer hjem fra sporet, og alt er udarbejdet og venter.",
+      "quote": "Jeg plejede at bruge hver aften på at svare på de samme spørgsmål om, hvad jeg skulle have på, aldersgrænser og hundene. Duet håndterer det hele. Jeg kommer hjem fra sporet, og alt er udarbejdet og venter.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Vejraflysninger er konstante om vinteren.Duet udkast til omlægning af svar med vores politik og alternative datoer, før jeg overhovedet får mulighed for at tjekke min telefon. Gæster elsker den hurtige respons.",
+      "quote": "Vejraflysninger er konstante om vinteren. Duet udkast til omlægning af svar med vores politik og alternative datoer, før jeg overhovedet får mulighed for at tjekke min telefon. Gæster elsker den hurtige respons.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Familiehundeslædeeventyr, CO",
-      "quote": "Forældre spørger altid, om deres børn må gætte, om hundene er venlige, hvad de skal have på - de samme 10 spørgsmål.Duet lærte hvert svar og udarbejder dem perfekt. Det er som at klone mig selv til e-mail.",
+      "quote": "Forældre spørger altid, om deres børn må gætte, om hundene er venlige, hvad de skal have på - de samme 10 spørgsmål. Duet lærte hvert svar og udarbejder dem perfekt. Det er som at klone mig selv til e-mail.",
       "avatarKey": "francesca"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet lærer hver af dine turtyper - kennelbesøg, mush-oplevelser, nordlyskombinationer, fotograferingstillæg, transportpakker - sammen med deres priser, varighed og hvad der er inkluderet. Når der kommer en forespørgsel, matcher den den rigtige tur og udarbejder et svar med de korrekte detaljer."
     }
   ],
-  "pricingNote": "Ved $150/tur betaler to gemte reservationer for over et år påPro."
+  "pricingNote": "Ved $150/tur betaler to gemte reservationer for over et år på Pro."
 }

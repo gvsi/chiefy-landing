@@ -59,7 +59,6 @@ Zachování autentického hlasu je zásadní. Zde jsou nástroje speciálně nav
 
 **Řešení AI:** E-mailoví asistenti AI fungují jako osobní instruktážní nástroj. Mohou automaticky analyzovat a zhušťovat dlouhé e-mailové konverzace, připojené dokumenty (jako jsou soubory PDF nebo Word) nebo dokonce přepisy schůzek do krátkých, stravitelných shrnutí. Zásadní je, že vynikají při získávání signálu ze šumu – identifikují učiněná klíčová rozhodnutí, nevyřešené úkoly, důležité otázky a zmiňované termíny.
 
-**Image PlaceholderGoogle Images Query:** Infografika shrnující vlákna e-mailů AI**Alt Text:** Infografika zobrazující dlouhé a složité vlákno e-mailů zhuštěné umělou inteligencí do 3 klíčových odrážek: Rozhodnutí, Položka akce, Klíčová otázka.**Titulek:** Nástroje pro sumarizaci AI prolomí hluk a extrahují podstatné informace z dlouhých vláken e-mailů.
 
 **Případy použití:** Tato schopnost je neocenitelná pro rychlé zrychlení poté, co jste pryč, pochopení kontextu složitého problému, aniž byste museli znovu číst celou historii, nebo pro efektivní sdílení podstaty konverzace se členy týmu, kteří potřebují být zapojeni.
 
@@ -81,7 +80,6 @@ Důležité je rychle získat podstatu. Nástroje umělé inteligence mohou fung
 
 Představte si schránku, která zobrazuje to, co vyžaduje pozornost _nyní_. To je síla třídění AI. Namísto přeplněného chronologického zdroje nabízejí nástroje jako [**Duet Mail**](https://duetmail.com/cs) **AI Triage & Focused Dashboard**. Tento systém inteligentně analyzuje e-maily z hlediska naléhavosti, požadovaných akcí nebo rozhodnutí a jasně je prezentuje, takže uživatelé mohou okamžitě překonat hluk a efektivně soustředit svou energii. To představuje posun paradigmatu od reaktivní kontroly e-mailů k proaktivnímu zapojení s prioritou, což výrazně snižuje kognitivní zátěž a zvyšuje smysluplnou produktivitu.
 
-**Image PlaceholderGoogle Images Query:** Duet Mail AI Triage Focused Dashboard screenshot**Alt Text:** Snímek Focused Dashboard v Duet Mail se zobrazením prioritních e-mailů podle naléhavosti a požadovaných akcí.**Titulek:** Dashboardy poháněné AI, jako je Duet Mail, vytahují kritické e-maily na povrch a prosekávají nepořádek v doručené poště.
 
 ## Výběr e-mailového druhého pilota AI: Nástroje a úvahy
 
@@ -126,7 +124,7 @@ Mezi klíčová rizika patří:
 
 Ke zmírnění těchto rizik by uživatelé měli přijmout osvědčené postupy:
 
-- **Vet Providers:** Vyberte si renomované dodavatele s transparentními zásadami ochrany osobních údajů, které jasně stanoví, jak jsou data shromažďována, používána, ukládána a chráněna.
+- **Prověřte dodavatele:** Vyberte si renomované dodavatele s transparentními zásadami ochrany osobních údajů, které jasně stanoví, jak jsou data shromažďována, používána, ukládána a chráněna.
 
 - **Oprávnění ke kontrole:** Pochopte přesně, jakou úroveň přístupu nástroj AI vyžaduje. Potřebuje číst všechny e-maily, nebo jen ty, na kterých se aktivně pracuje? Omezte oprávnění, kdykoli je to možné.
 
@@ -136,7 +134,6 @@ Ke zmírnění těchto rizik by uživatelé měli přijmout osvědčené postupy
 
 - **Upozornění na cvičení:** Buďte opatrní, když vkládáte vysoce citlivé informace přímo do výzev AI, zvláště pokud jsou bezpečnostní postupy nástroje nejasné.
 
-**Zástupný symbol obrázkuGoogle Dotaz na obrázky:** infografika o doporučených postupech zabezpečení e-mailu**Alt Text:** Infografika znázorňující osvědčené postupy zabezpečení e-mailu, jako jsou silná hesla, MFA a kontrola oprávnění.**Titulek:** Při používání nástrojů umělé inteligence je zásadní dodržovat osvědčené postupy zabezpečení e-mailu.
 
 Při hodnocení nástrojů hledejte jejich bezpečnostní pozici. Řešení jako [**Duet Mail**](https://duetmail.com/cs) například zdůrazňují jejich závazek k ochraně soukromí a bezpečnosti na jejich platformě, což je zásadní faktor pro budování důvěry. S prohlubující se integrací AI si výrobci, kteří kladou důraz na robustní zabezpečení a jasné zpracování dat, pravděpodobně získají větší důvěru uživatelů.
 

@@ -114,7 +114,6 @@ David Allen यांचे Getting Things Done (GTD) तंत्र ईमे�
 
 ### AI ईमेल सहाय्यकांचा उदय: तुमच्या इनबॉक्सचा बुद्धिमान सह-चालक
 
-**Image PlaceholderQuery:** futuristic graphic AI assistant helping with email**Alt Text:** Abstract graphic showing an AI helping a person manage their email inbox efficiently.**Caption:** AI email assistants leverage technology to automate and enhance inbox management.
 
 AI email assistant सादर करा. ही साधने ईमेल व्यवस्थापनातील पुढची उत्क्रांती दर्शवतात, जी artificial intelligence—विशेषतः Natural Language Processing (NLP) आणि Machine Learning (ML)—चा वापर करून पारंपरिकपणे मोठ्या हाताने केलेल्या प्रयत्नांची गरज असलेली कामे स्वयंचलित आणि सुधारित करतात.
 
@@ -148,7 +147,6 @@ AI email assistants केवळ साधे automation करत नाही�
 
 ### AI Triage आणि Prioritization: गोंधळ बाजूला सारून खरोखर तातडीचे काय आहे ते शोधणे
 
-**Image PlaceholderQuery:** diagram AI email triage sorting important emails**Alt Text:** Diagram showing how AI triage automatically sorts incoming emails by priority.**Caption:** AI Triage intelligently surfaces urgent emails, cutting through the noise.
 
 **समस्या:** तुमचा नेहमीचा Gmail इनबॉक्स हा कालानुक्रमिक फीड असतो, जिथे वृत्तपत्रे आणि CC केलेली मेमो तातडीच्या क्लायंट विनंत्या आणि महत्त्वाच्या अंतिम मुदतींसोबत लक्षासाठी स्पर्धा करतात. खरोखर _आत्ताच_ लक्ष देण्याची गरज असलेले काय आहे, हे शोधण्यासाठी येणाऱ्या संदेशांचा हा ओघ हाताने वेगळा करणे मौल्यवान वेळ आणि मानसिक ऊर्जा खर्च करतो.
 

@@ -143,7 +143,7 @@ Készen állsz, hogy kipróbáld az AI e-mail írását? Íme néhány tipp a z�
 
 - **A mesterséges intelligencia betanítása (implicit módon):** Minél gyakrabban használja az eszközt, és ami fontos, *módosítja* javaslatait, hogy azok elküldése előtt megfeleljenek az Ön stílusának, annál jobban utánozza a hangját. Tekintse ezt folyamatos tanulási folyamatnak.
 
-- **Provide Kontextus:** Amikor szövegezéshez felszólításokat használ, adja meg a mesterséges intelligencia világos kontextusát – az e-mail célját, a kulcsfontosságú információkat, a kívánt hangot és a célközönséget.
+- **Adjon kontextust:** Amikor szövegezéshez felszólításokat használ, adja meg a mesterséges intelligencia világos kontextusát – az e-mail célját, a kulcsfontosságú információkat, a kívánt hangot és a célközönséget.
 
 - **Áttekintés, finomítás, személyre szabás:** **Soha** küldjön vakon mesterséges intelligencia által generált e-mailt. A kimenetet mindig első piszkozatként kezelje. Tekintse át a pontosság, hangszín és relevancia szempontjából. Adja hozzá saját meglátásait, személyes érintéseit vagy konkrét részleteit, amelyeket az AI esetleg figyelmen kívül hagyott. A cél a bővítés, nem a teljes automatizálás.
 

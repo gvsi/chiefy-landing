@@ -96,7 +96,6 @@ AI predstavlja značajan iskorak jer se kreće dalje od jednostavne automatizaci
 | --------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------- | --------------------------------------------------- |
 | **Osnovna funkcionalnost**| Osnovni pristup e-pošti | Ticketing Sistem | Sistem za prodaju karata / poboljšani interfejs e-pošte |
 | **Saradnja**| Osnovno prosleđivanje/CCing | Interne beleške, oznake, zadaci | AI rezimei, zajednički kontekst, AI beleške |
-| **Automatizacija**| Ručno sortiranje/filtri | Tokovi rada zasnovani na pravilima (osnovni) | TTK0000Tokovi rada vođeni TTK, inteligentna trijaža, automatski odgovor |
 | **Izveštavanje**| Ništa / Veoma osnovno | Standardni KPI (vreme odgovora, itd.) | Napredna analitika, prediktivni uvidi |
 | **Skalabilnost**| Niska | Srednje | Visoka |
 | **AI mogućnosti**| None | Ograničeno / Dodatak | Integrisana / Osnovna karakteristika |

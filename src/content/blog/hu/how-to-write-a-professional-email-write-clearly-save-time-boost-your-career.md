@@ -72,7 +72,7 @@ Itt továbbítja üzenetét. A szerkezet és az áttekinthetőség a legfontosab
 
 - **Vezessen a lényeggel**: Kezdje a fő ponttal, kéréssel vagy a legfontosabb információval [**az első néhány mondatban**](https://www.govloop.com/from-harvard-business-review-best-practices-to-write-e-mails-that-impress/). Az elfoglalt szakemberek gyakran átfutnak, ezért ne temessük el a ledet.
 
-- **Provide Kontextus**: A fő pont után ajánlja fel a szükséges hátteret vagy részleteket.
+- **Adjon kontextust**: A fő pont után ajánlja fel a szükséges hátteret vagy részleteket.
 
 - **Legyen beolvasható**: Használjon [**rövid bekezdéseket (maximum 4-5 mondat)**](https://www.boisestate.edu/writingcenter/professional-email-guide/). Használjon felsorolásjeleket, számozott listákat és félkövér szöveget az információk felosztásához és a legfontosabb tudnivalók kiemeléséhez. A bőséges szóköz javítja az olvashatóságot.
 

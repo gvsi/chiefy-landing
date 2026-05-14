@@ -27,7 +27,7 @@ Răspunsurile automate tradiționale, precum cele integrate în Gmail sau Outloo
 
 - **Funcționalitate limitată:** Concepute în principal pentru scenarii de tip „Absent de la birou”, acestea nu pot clasifica, rezuma sau prioritiza inteligent e-mailurile primite. ([Discuțiile din comunitatea Microsoft evidențiază aceste limitări](https://answers.microsoft.com/en-us/outlook_com/forum/all/rules-and-automatic-replies/37f703f8-dc03-42db-a767-3268ef695a76)).
 
-- **Răspunsuri rare:** Adesea, acestea trimit doar [ **un răspuns per expeditor **](https://www.reddit.com/r/sysadmin/comments/a58hfw/3rd_party_tool_for_autoreplies_to_every_email_for/) până la resetarea manuală, ceea ce le face inutile pentru gestionarea comunicării continue.
+- **Răspunsuri rare:** Adesea, acestea trimit doar [**un răspuns per expeditor **](https://www.reddit.com/r/sysadmin/comments/a58hfw/3rd_party_tool_for_autoreplies_to_every_email_for/) până la resetarea manuală, ceea ce le face inutile pentru gestionarea comunicării continue.
 
 - **Fără învățare:** Nu se adaptează fluxului de lucru, priorităților sau stilului tău de comunicare. După cum subliniază Tanka.ai, instrumentele standard [**nu au memorie pe termen lung**](https://www.tanka.ai/blog/posts/gmail-auto-reply) pentru a învăța din interacțiunile anterioare sau din preferințele echipei.
 
@@ -81,7 +81,7 @@ Firele lungi și incoerente de e-mailuri sunt un alt factor care afectează prod
 
 - **Rezumate concise:** Generează rezumate scurte, adesea cu marcatori (deși prezentate clar, nu neapărat ca liste HTML), permițându-vă să înțelegeți esența firului de discuție fără a reciti totul. Instrumente precum [**Microsoft Copilot for Outlook**](https://www.maestrolabs.com/blog-detail/in-depth-review-of-copilot-for-outlook-and-alternative-ai-email-assistants) oferă rezumarea firelor de discuție.
 
-- **Memorie contextuală:** Sistemele avansate mențin contextul proiectelor, relațiilor și interacțiunilor anterioare menționate în e-mailuri. Aceasta înseamnă că rezumatele și sugestiile de schițe sunt mai relevante și mai informate.[ **Duet Mail**](/ro) accentuează această **Conștientizare contextuală**, amintindu-și detalii din e-mailurile anterioare pentru a îmbogăți rezumatele și schițele.
+- **Memorie contextuală:** Sistemele avansate mențin contextul proiectelor, relațiilor și interacțiunilor anterioare menționate în e-mailuri. Aceasta înseamnă că rezumatele și sugestiile de schițe sunt mai relevante și mai informate.[**Duet Mail**](/ro) accentuează această **Conștientizare contextuală**, amintindu-și detalii din e-mailurile anterioare pentru a îmbogăți rezumatele și schițele.
 
 Sumarizarea economisește timp neprețuit atunci când revii la conversații complexe sau ești informat despre subiectele la care ai fost adăugat târziu.
 
@@ -106,7 +106,7 @@ Piața asistenților de e-mail bazați pe inteligență artificială este în cr
 
 - **Integrare:** Funcționează perfect cu clientul dvs. de e-mail (Gmail, Outlook) și cu alte instrumente?
 
-- **Învățare vocală:** Cât de important este ca inteligența artificială să sune exact ca tine? Caută instrumente care pun accent pe analiza stilului și buclele de feedback, cum ar fi [ **Duet Mail **](/ro).
+- **Învățare vocală:** Cât de important este ca inteligența artificială să sune exact ca tine? Caută instrumente care pun accent pe analiza stilului și buclele de feedback, cum ar fi [**Duet Mail **](/ro).
 
 - **Ușurință în utilizare:** Este interfața intuitivă? Cât de abruptă este curba de învățare?
 

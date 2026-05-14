@@ -68,7 +68,6 @@ Predstavte si, že cez e-mailové vlákno prechádzate digitálnym zvýrazňova�
 
 - **Príklad pre PM:** Pri zhrnutí vlákna o kritickej oprave chyby môže extraktívne zhrnutie vybrať vety ako: „Používateľ nahlásil kritickú chybu 'LoginFail' ovplyvňujúcu všetkých používateľov v EÚ.“ „Tím vývoja potvrdil, že hlavnou príčinou je aktualizácia autentifikačného modulu z utorka.“ a „Oprava hotfix je naplánovaná na nasadenie v piatok o 17:00 CET.“
 
-\[Placeholder for Image: Diagram comparing extractive and abstractive summarization]Extraktívne zhrnutie vyberá kľúčové vety priamo, zatiaľ čo abstraktívne zhrnutie porozumie obsahu a vytvorí nový, stručný prehľad.
 
 **Abstraktívne zhrnutie:**\
 Táto metóda je sofistikovanejšia a snaží sa napodobniť spôsob, akým by zhrnul človek. AI najprv prečíta a porozumie _významu_ celej konverzácie alebo dokumentu. Potom vygeneruje _nové_ vety vlastnými slovami, aby stručne zachytila jadro. Často to zahŕňa pokročilé AI modely, ako sú tie, ktoré stoja za ChatGPT alebo Google Gemini, ktoré dokážu parafrázovať, spájať myšlienky a syntetizovať informácie.

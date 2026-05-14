@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite sertifikavimo užklausas ir nardymo užsakymus, antra – klausimus apie įrangą irPADIįspės, kai būsite pasiruošę. Nebereikia grupinio užsakymo, paslėpto įrangos informaciniuose biuleteniuose.",
   "draftSubtitle": "Duet sužino apie jūsų nardymo vietas, sertifikatų reikalavimus ir kainas. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia kelionės informacija, kas įtraukta ir ką atsinešti. Jūs peržiūrite ir siunčiate.",
-  "agentSubtitle": "\"Kiek narų yra užsakyta šeštadieniui?\" „Atsakymo projektas Rachelei, kai pasiekiamas atviras vanduo“.Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
+  "agentSubtitle": "\"Kiek narų yra užsakyta šeštadieniui?\" „Atsakymo projektas Rachelei, kai pasiekiamas atviras vanduo“. Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,13 +127,13 @@
     {
       "name": "Kapitonas Mike'as T.",
       "title": "Nardymo valties kapitonas, FL",
-      "quote": "Nuo penktadienio iki sekmadienio plaukioju laivais, o pirmadienį parduotuvė dirba tik kelias valandas. Kol esu po vandeniu, daugėja klausimų dėl sertifikavimo ir kelionių užklausų.Duet pateikia atsakymų juodraščius su mano kainomis, nardymo vietomis ir tuo, kas įtraukta – peržiūriu juos tarp nardymų.",
+      "quote": "Nuo penktadienio iki sekmadienio plaukioju laivais, o pirmadienį parduotuvė dirba tik kelias valandas. Kol esu po vandeniu, daugėja klausimų dėl sertifikavimo ir kelionių užklausų. Duet pateikia atsakymų juodraščius su mano kainomis, nardymo vietomis ir tuo, kas įtraukta – peržiūriu juos tarp nardymų.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen ir Mark S.",
       "title": "PADINardymo centras, HI",
-      "quote": "Tuose pačiuose laivuose nardome, nardome ir stebime banginius. El. laiškų įvairovė yra beprotiška – klausimai apie sertifikatus, grupiniai užsakymai, įrangos nuoma, orų patikrinimai.Duet surūšiuoja viską ir parengia atsakymų juodraščius, kurie žino skirtumą. Absoliutus gelbėtojas.",
+      "quote": "Tuose pačiuose laivuose nardome, nardome ir stebime banginius. El. laiškų įvairovė yra beprotiška – klausimai apie sertifikatus, grupiniai užsakymai, įrangos nuoma, orų patikrinimai. Duet surūšiuoja viską ir parengia atsakymų juodraščius, kurie žino skirtumą. Absoliutus gelbėtojas.",
       "avatarKey": "jennifer"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Sarah K.",
       "title": "Nardymo instruktorius ir vadovas, NC",
-      "quote": "Rytais vedu kursus, o po pietų – nardymo vedlį. Tiesiogiai nėra laiko atsakyti į el.Duet sužinojo apie mano kursų tvarkaraštį, kainas ir net mano atšaukimo politiką. Klientai negali pasakyti skirtumo.",
+      "quote": "Rytais vedu kursus, o po pietų – nardymo vedlį. Tiesiogiai nėra laiko atsakyti į el. Duet sužinojo apie mano kursų tvarkaraštį, kainas ir net mano atšaukimo politiką. Klientai negali pasakyti skirtumo.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Taip. Duet veikia su Gmail ir Outlook, todėl veikia visur, kur veikia el. paštas, įskaitant telefoną. Juodraščiai automatiškai rodomi gautuosiuose. Tarp nardymo ar grįžimo prie doko peržiūrite ir siunčiate vienu bakstelėjimu. Dauguma nardymo operatorių mums sako, kad sezono piko metu jie sutaupo 1–2 valandas el. pašto laiko per dieną."
     }
   ],
-  "pricingNote": "150 USD už nardymą su 6 asmenų grupe, viena sutaupyta kelionė kainuoja daugiau nei metusPro."
+  "pricingNote": "150 USD už nardymą su 6 asmenų grupe, viena sutaupyta kelionė kainuoja daugiau nei metus Pro."
 }

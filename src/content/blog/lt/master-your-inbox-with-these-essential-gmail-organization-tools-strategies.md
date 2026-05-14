@@ -33,11 +33,11 @@ Galvokite apie **etiketes** kaip apie lanksčias, galingas žymas, kurias galite
 
 - **Pasirinkite filtro veiksmus:** Nustatykite, kas nutiks atitinkantiems laiškams: „Apply the label:“, „Skip the Inbox (Archive it)“, „Mark as read“, „Star it“, „Delete it“, „Never send it to Spam“, „Forward it“.
 
-  - _Pro patarimas:_ „Skip the Inbox“ derinimas su „Apply the label“ ypač galingas neskubiems laiškams, pavyzdžiui, naujienlaiškiams ar pranešimams. Jie automatiškai suskirstomi ir neužgriozdina pagrindinio vaizdo.
+  - _Patarimas:_ „Skip the Inbox“ derinimas su „Apply the label“ ypač galingas neskubiems laiškams, pavyzdžiui, naujienlaiškiams ar pranešimams. Jie automatiškai suskirstomi ir neužgriozdina pagrindinio vaizdo.
 
 - **Naudokite pažangius operatorius:** Filtrus patikslinsite tokiais paieškos operatoriais kaip **from:**, **to:**, **subject:**, **has:attachment**, **list:** (adresų sąrašams), **OR** ir **-** (terminui pašalinti). Pavyzdys: filtruoti visus vidinius įmonės laiškus, _išskyrus_ tiesioginio vadovo laiškus: **from:*@yourcompany.com -from:manager\@yourcompany.com**.
 
-**Geriausios praktikos:** Nors šios funkcijos galingos, nepersistenkite. Google siūlo etiketes laikyti iki 500, o kai kurios institucijos rekomenduoja neviršyti 5 000, nes perteklinės etiketės gali lėtinti veikimą. Susitelkite į strategines kategorijas ir konkretiems dalykams raskite laiškus per paiešką. Reguliariai peržiūrėkite ir koreguokite filtrus, kad jie išliktų aktualūs. Tikslas nėra pažymėti viską, o automatizuoti nuspėjamų el. laiškų tipų rūšiavimą.
+**Geriausios praktikos:** Nors šios funkcijos galingos, nepersistenkite. Googleiūlo etiketes laikyti iki 500, o kai kurios institucijos rekomenduoja neviršyti 5 000, nes perteklinės etiketės gali lėtinti veikimą. Susitelkite į strategines kategorijas ir konkretiems dalykams raskite laiškus per paiešką. Reguliariai peržiūrėkite ir koreguokite filtrus, kad jie išliktų aktualūs. Tikslas nėra pažymėti viską, o automatizuoti nuspėjamų el. laiškų tipų rūšiavimą.
 
 ### Gmail paieškos įvaldymas: raskite bet ką akimirksniu
 

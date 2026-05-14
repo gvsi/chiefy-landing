@@ -93,7 +93,7 @@
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "Voorjaarsuitverkoop — 15% korting op voer en tuig",
-      "pill": "Probewegingen",
+      "pill": "Promoties",
       "pillColor": "lavender"
     }
   ],
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Rancheigenaar en wandelgids, MT",
-      "quote": "Ik ben 6 uur per dag op pad zonder mobiele verbinding. Tegen de tijd dat ik terugkwam, had de helft van de mensen ergens anders geboekt.Duet stelt nu reacties op met mijn prijzen en ritgegevens - ik bekijk ze gewoon en verzend ze wanneer ik terugkom in de schuur.",
+      "quote": "Ik ben 6 uur per dag op pad zonder mobiele verbinding. Tegen de tijd dat ik terugkwam, had de helft van de mensen ergens anders geboekt. Duet stelt nu reacties op met mijn prijzen en ritgegevens - ik bekijk ze gewoon en verzend ze wanneer ik terugkom in de schuur.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Touroperator te paard, AZ",
-      "quote": "We krijgen tientallen e-mails waarin we hetzelfde vragen: gewichtslimieten, wat we moeten dragen, leeftijdsvereisten.Duet regelt het allemaal en de antwoorden lijken precies op die van mij. Mijn gasten hebben geen idee dat het AI is.",
+      "quote": "We krijgen tientallen e-mails waarin we hetzelfde vragen: gewichtslimieten, wat we moeten dragen, leeftijdsvereisten. Duet regelt het allemaal en de antwoorden lijken precies op die van mij. Mijn gasten hebben geen idee dat het AI is.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride-gids, CO",
-      "quote": "Het hoogseizoen was moordend voor mij. 30+ e-mails per dag naast hardloopritten.Duet sorteert de boekingsaanvragen op basis van de ruis en stelt antwoorden op die alles bevatten: prijzen, wat u moet meenemen, alles. Ik heb mijn avonden terug.",
+      "quote": "Het hoogseizoen was moordend voor mij. 30+ e-mails per dag naast hardloopritten. Duet sorteert de boekingsaanvragen op basis van de ruis en stelt antwoorden op die alles bevatten: prijzen, wat u moet meenemen, alles. Ik heb mijn avonden terug.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Rij-instructeur en boekingsmanager, TX",
-      "quote": "We organiseren zonsondergangritten, ochtendritten en privélessen - elk met verschillende prijzen en vereisten.Duet heb het allemaal in een week geleerd. Het stelt elke keer het juiste antwoord op voor het juiste rittype.",
+      "quote": "We organiseren zonsondergangritten, ochtendritten en privélessen - elk met verschillende prijzen en vereisten. Duet heb het allemaal in een week geleerd. Het stelt elke keer het juiste antwoord op voor het juiste rittype.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Familie Ranch & Trail Rides, CA",
-      "quote": "De gevoelige e-mails waren het ergste: iemand die vroeg of ze te zwaar waren, of dat hun kind oud genoeg was.Duet behandelt deze met dezelfde zorg als ik dat zou doen.Proprofessioneel, vriendelijk en accuraat. Dat alleen al is de moeite waard.",
+      "quote": "De gevoelige e-mails waren het ergste: iemand die vroeg of ze te zwaar waren, of dat hun kind oud genoeg was. Duet behandelt deze met dezelfde zorg als ik dat zou doen. professioneel, vriendelijk en accuraat. Dat alleen al is de moeite waard.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet leert uw rittypes, groepsgroottes, minimumleeftijden en eventuele rijderspecifieke vereisten. Wanneer een familie of groep een e-mail stuurt over een boeking, wordt er een antwoord opgesteld met de prijzen voor de volledige groep, wat elke passagier moet weten en de beschikbare tijdvakken. U controleert en verzendt – heen en weer is niet nodig."
     }
   ],
-  "pricingNote": "Bij $ 100/persoon voor een groep van 6 personen betaalt één opgeslagen rit meer dan twee jaarPro."
+  "pricingNote": "Bij $ 100/persoon voor een groep van 6 personen betaalt één opgeslagen rit meer dan twee jaar Pro."
 }

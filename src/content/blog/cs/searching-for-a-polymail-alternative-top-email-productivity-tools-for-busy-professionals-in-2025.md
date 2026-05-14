@@ -117,9 +117,9 @@ Trh překypuje silnými konkurenty. Zde je pohled na některé z předních alte
 
 ### Duet Mail: Personalizovaná efektivita umělé inteligence pro uživatele Gmail
 
-- **Core Focus:** Funguje jako inteligentní asistent AI speciálně navržený pro Gmail a upřednostňuje učení se jedinečnému komunikačnímu stylu uživatele, aby ušetřil hodiny při zachování autenticity. Zaměřuje se na snížení stresu v doručené poště prostřednictvím inteligentního stanovení priorit a kontextové pomoci.
+- **Hlavní zaměření:** Funguje jako inteligentní AI asistent navržený speciálně pro Gmail a učí se jedinečný komunikační styl uživatele, aby šetřil čas a zachoval autenticitu. Zaměřuje se na snížení stresu z doručené pošty pomocí chytrého prioritizování a kontextové pomoci.
 
-- **Klíčové funkce (využití popisu Product):**
+- **Klíčové funkce:**
 
   - ** AI Triage & Focused Dashboard:** Jde nad rámec jednoduchého chronologického seznamu. Umělá inteligence inteligentně analyzuje e-maily z hlediska naléhavosti, požadovaných akcí a potřebných rozhodnutí a zobrazuje tyto kritické položky na vyhrazeném řídicím panelu. To přímo bojuje proti každodennímu třídění přes průměr 121 e-mailů.
 

@@ -1,6 +1,6 @@
 ---
 title: "Lahtipakkimine Gmail Kokkuvõtte funktsioonid"
-description: "Kas võitlete e-posti ülekoormusega? Avastage Gmail i Geminii toel olevaid kokkuvõttefunktsioone, mõistke nende plusse ja miinuseid ning vaadake, kas neist piisab."
+description: "Kas võitlete e-posti ülekoormusega? Avastage Gmail i Gemini i toel olevaid kokkuvõttefunktsioone, mõistke nende plusse ja miinuseid ning vaadake, kas neist piisab."
 publishedAt: 2025-09-26
 author: "Duet Mail Team"
 tags: ["AI", "Gmail", "E-posti kokkuvõte"]
@@ -69,11 +69,11 @@ See ei ole (veel) kõigi tasuta Gmail kontode standardfunktsioon. Juurdepääs G
 
 Kättesaadavus hakkas laiemalt levima alates 2024. aasta keskpaigast, nii et kui kuulute mõnda neist kategooriatest, peaksite nägema funktsioone oma Gmail liideses.
 
-## Hea, halb ja tehisintellekt: Proi Gmail i miinused ja miinused
+## Hea, halb ja tehisintellekt: Gmaili kokkuvõtete plussid ja miinused
 
 Tehisintellekti oma meilidest kokkuvõtte tegemine kõlab fantastiliselt, kuid nagu igal tehnoloogial, on sellel tugevad ja nõrgad küljed. Kasutajaaruannete, arvustuste ja Google enda dokumentatsiooni põhjal on siin tasakaalustatud pilk:
 
-### Ülemine pool (Pros):
+### Ülemine pool (plussid):
 
 - **Märkimisväärne aja kokkuhoid:** see on peamine eelis. Pika lõime põhisõnumi kiire mõistmine ilma igat vastust lugemata võib säästa oluliselt aega, eriti kui jõuate pärast eemalolekut järele.
 
@@ -107,9 +107,9 @@ Seega on teil juurdepääs kasutaja Gmail kokkuvõttele. Kuidas saate seda tõhu
 
 - **Kinnitage kriitilist teavet:** kui kokkuvõttes mainitakse konkreetseid olulisi otsuseid, tähtaegu või andmepunkte, leidke hetk, et täpsust kinnitada algne lõim või asjakohane sõnum. Ärge lootke kõrge panusega teabe saamiseks ainult AI-le.
 
-- **Prompt konkreetselt (külgpaneel):** Kui kasutate külgpaneeli "Küsi Gemini", olge oma viipades konkreetne. Lihtsalt "Tee kokkuvõte" asemel proovige valikut "Võtke kokku selles lõimes tehtud peamised otsused" või "Loetlege mulle selles vestluses määratud tegevusüksused".
+- **prompt konkreetselt (külgpaneel):** Kui kasutate külgpaneeli "Küsi Gemini", olge oma viipades konkreetne. Lihtsalt "Tee kokkuvõte" asemel proovige valikut "Võtke kokku selles lõimes tehtud peamised otsused" või "Loetlege mulle selles vestluses määratud tegevusüksused".
 
-- **Provideo tagasiside:** kasutage valikuid "Hea soovitus" / "Halb soovitus" (meeldib üles/alla). See aitab Google-l seda funktsiooni aja jooksul täiustada, isegi kui see ei paranda kohe ebatäpset kokkuvõtet.
+- **Andke tagasisidet:** kasutage valikuid "Hea soovitus" / "Halb soovitus" (meeldib üles/alla). See aitab Google-l seda funktsiooni aja jooksul täiustada, isegi kui see ei paranda kohe ebatäpset kokkuvõtet.
 
 - **Ärge kasutage tundliku sisu jaoks:** Arvestades käimasolevaid privaatsusarutelusid ja tehisintellekti töötlemise olemust, on mõistlik vältida kokkuvõtte funktsiooni kasutamist meilides, mis sisaldavad väga konfidentsiaalset või tundlikku isiklikku/äriteavet.
 
@@ -123,7 +123,7 @@ Kuigi lõime otsene kokkuvõte on peamine funktsioon, laieneb Gemini mõju teist
 
 - **Aidake mul kirjutada:** See võimaldab teil esitada viipa ja Gemini koostab teie eest terve meili. See võib aidata ka teie enda mustandeid täpsustada (nt muuta ametlikumaks, lühendada, täpsustada). Kasulik, kuid jällegi kaldub kõlama üldisena, kui seda pole hoolikalt läbi vaadatud ja isikupärastatud.
 
-- **Gmail Küsimused ja vastused (mobiil):** Saate esitada Geminiile otse oma postkasti kohta küsimusi, näiteks "Mis kell on minu lend?" või "Otsi e-kirju saatjalt \[saatja] \[projekti] kohta." See otsib teie meilidest vastuseid.
+- **Gmail Küsimused ja vastused (mobiil):** Saate esitada Gemini ile otse oma postkasti kohta küsimusi, näiteks "Mis kell on minu lend?" või "Otsi e-kirju saatjalt \[saatja] \[projekti] kohta." See otsib teie meilidest vastuseid.
 
 - **Kokkuvõttekaardid:** need on veidi erinevad. Need kuvatakse automaatselt teie postkasti ülaosas teatud tüüpi meilisõnumite jaoks, nagu [tellimused, reisid, sündmused või arved](https://blog.google/products/gmail/how-to-use-gemini-gmail-app/), tõmbavad välja peamised andmed (nt jälgimisnumbrid või lennuajad) ja pakuvad toimingunuppe. See on rohkem andmete eraldamine kui põhiteksti kokkuvõte.
 

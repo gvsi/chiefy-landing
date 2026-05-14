@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Änderungen im Kreuzfahrtschiffplan und nie Lärm sehen. Keine privaten Charteranfragen mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen bleiben.",
   "draftSubtitle": "Duet erfährt Ihre Tourzeiten, Preise und Richtlinien. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Angaben zur Verfügbarkeit, den enthaltenen Leistungen und den mitzubringenden Angaben erstellt. Sie überprüfen und senden.",
-  "agentSubtitle": "„Wie viele Plätze sind auf der Samstagmorgentour noch frei?“ „Entwerfen Sie eine Antwort an Rachel mit Angabe der Verfügbarkeit.“Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "agentSubtitle": "„Wie viele Plätze sind auf der Samstagmorgentour noch frei?“ „Entwerfen Sie eine Antwort an Rachel mit Angabe der Verfügbarkeit.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -93,7 +93,7 @@
       "avatarLetter": "M",
       "avatarColor": "lavender",
       "subject": "Sommerschlussverkauf – 15 % Rabatt auf Sicherheitsausrüstung",
-      "pill": "ProAnträge",
+      "pill": "Werbung",
       "pillColor": "lavender"
     }
   ],
@@ -133,25 +133,25 @@
     {
       "name": "Maria & Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Wir führen während der Buckelwal-Saison zwei Touren pro Tag durch und das E-Mail-Volumen ist unvorstellbar. „Werden wir Wale sehen?“ „Was soll ich anziehen?“ „Ist morgen abgesagt?“Duet kümmert sich um die wiederkehrenden Fragen und wir konzentrieren uns auf die Touren.",
+      "quote": "Wir führen während der Buckelwal-Saison zwei Touren pro Tag durch und das E-Mail-Volumen ist unvorstellbar. „Werden wir Wale sehen?“ „Was soll ich anziehen?“ „Ist morgen abgesagt?” Duet kümmert sich um die wiederkehrenden Fragen und wir konzentrieren uns auf die Touren.",
       "avatarKey": "francesca"
     },
     {
       "name": "Kapitän Ben T.",
       "title": "Ozeanausflüge, HI",
-      "quote": "Ich beantwortete jeden Abend die gleichen 10 Fragen – Preise, was im Preis inbegriffen ist, Tipps gegen Seekrankheit, Altersgrenzen für Kinder.Duet habe alles in der ersten Woche gelernt. Meine Reaktionszeit verringerte sich von 8 Stunden auf 8 Minuten.",
+      "quote": "Ich beantwortete jeden Abend die gleichen 10 Fragen – Preise, was im Preis inbegriffen ist, Tipps gegen Seekrankheit, Altersgrenzen für Kinder. Duet habe alles in der ersten Woche gelernt. Meine Reaktionszeit verringerte sich von 8 Stunden auf 8 Minuten.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Buchungsmanager, Pacific NW",
-      "quote": "Wetterstornierungen sind das Schlimmste – 30 Personen müssen auf einmal umgebucht werden und ich jongliere mit Telefonanrufen.Duet erstellt für jeden Gast personalisierte E-Mails zur Umplanung. Was früher 2 Stunden gedauert hat, dauert jetzt 15 Minuten.",
+      "quote": "Wetterstornierungen sind das Schlimmste – 30 Personen müssen auf einmal umgebucht werden und ich jongliere mit Telefonanrufen. Duet erstellt für jeden Gast personalisierte E-Mails zur Umplanung. Was früher 2 Stunden gedauert hat, dauert jetzt 15 Minuten.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Kleine Boots-Wildlife-Touren, BC",
-      "quote": "Wir sind ein Zwei-Personen-Unternehmen – ich bin Kapitänin, sie kümmert sich um die Logistik. In der Hochsaison verbrachte sie drei Stunden pro Nacht mit E-Mails.Duet kürzen Sie das auf 30 Minuten. Sie bekommt jetzt tatsächlich ihre Abende zurück.",
+      "quote": "Wir sind ein Zwei-Personen-Unternehmen – ich bin Kapitänin, sie kümmert sich um die Logistik. In der Hochsaison verbrachte sie drei Stunden pro Nacht mit E-Mails. Duet kürzen Sie das auf 30 Minuten. Sie bekommt jetzt tatsächlich ihre Abende zurück.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Genau da glänzt Duet. Es lernt Ihre Standardantworten – Arten, die Sie normalerweise sehen, was Sie mitbringen sollten, Altersrichtlinien, Tipps zur Seekrankheit, Abfahrtszeiten – und erstellt sofort vollständige Antworten. Sie überprüfen und senden. Die meisten Kapitäne teilen uns mit, dass 80 % ihres Posteingangs aus den gleichen 10 Fragen bestehen, und Duet kümmert sich um alle."
     }
   ],
-  "pricingNote": "Bei 125 $/Person zahlt eine gesparte Gruppe von 6 Personen für mehr als ein JahrPro."
+  "pricingNote": "Bei 125 $/Person zahlt eine gesparte Gruppe von 6 Personen für mehr als ein Jahr Pro."
 }

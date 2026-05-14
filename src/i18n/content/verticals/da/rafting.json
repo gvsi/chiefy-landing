@@ -93,7 +93,7 @@
       "avatarLetter": "N",
       "avatarColor": "lavender",
       "subject": "Slutsalg af sæson — 30 % rabat på tørdragter",
-      "pill": "Probevægelser",
+      "pill": "Kampagner",
       "pillColor": "lavender"
     }
   ],
@@ -133,7 +133,7 @@
     {
       "name": "Katie L.",
       "title": "Kajak- og SUP-ture, OR",
-      "quote": "Hver kunde stiller de samme fem spørgsmål - pris, hvad de skal medbringe, færdighedsniveau, gruppestørrelse, afbestillingspolitik.Duet lærte det hele i den første uge. Jeg gik fra en times e-mails hver aften til fem minutters gennemgang af udkast.",
+      "quote": "Hver kunde stiller de samme fem spørgsmål - pris, hvad de skal medbringe, færdighedsniveau, gruppestørrelse, afbestillingspolitik. Duet lærte det hele i den første uge. Jeg gik fra en times e-mails hver aften til fem minutters gennemgang af udkast.",
       "avatarKey": "sarah"
     },
     {
@@ -145,7 +145,7 @@
     {
       "name": "Elena R.",
       "title": "River Adventures kontorchef, WV",
-      "quote": "Jeg administrerer bookinger for tre guider på tværs af fire rejsetyper.Duet kategoriserer hver e-mail efter hastende karakter og udkast til svar med den rigtige rejse, den rigtige pris, den rigtige gearliste. Det er som at klone mig selv.",
+      "quote": "Jeg administrerer bookinger for tre guider på tværs af fire rejsetyper. Duet kategoriserer hver e-mail efter hastende karakter og udkast til svar med den rigtige rejse, den rigtige pris, den rigtige gearliste. Det er som at klone mig selv.",
       "avatarKey": "jennifer"
     },
     {
@@ -167,5 +167,5 @@
       "answer": "Det er præcis det problem Duet løser. Mens du er på floden uden noget signal, laver Duet svar på alle henvendelser, der kommer ind. Når du er tilbage inden for rækkevidde, venter dine udkast - bare gennemse og sende. De fleste guider fortæller os, at det eliminerer det efterslæb, de plejede at stå over for efter hver flerdages tur."
     }
   ],
-  "pricingNote": "Til $150/person dækker to gemte reservationer et helt år påPro."
+  "pricingNote": "Til $150/person dækker to gemte reservationer et helt år på Pro."
 }

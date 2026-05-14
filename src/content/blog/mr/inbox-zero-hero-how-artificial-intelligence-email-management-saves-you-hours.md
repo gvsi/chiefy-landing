@@ -21,7 +21,7 @@ draft: false
 
 याचा परिणाम केवळ वेळेच्या नुकसानीपुरता मर्यादित नाही. ईमेलचा अतिभार सतत वाढलेल्या तणाव, चिंता आणि बर्नआउटशी संबंधित आढळतो. [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) मध्ये उद्धृत केलेल्या सर्वेक्षणानुसार [66% अमेरिकन लोकांना](https://inboxdone.com/psychology-of-email-overload/) त्यांना मिळणाऱ्या ईमेलच्या प्रचंड संख्येमुळे तणाव जाणवतो. ही सततची दडपणाची स्थिती निर्णय थकवा वाढवते आणि नोकरीतील समाधानावरही नकारात्मक परिणाम करू शकते, ज्यामुळे धोरणात्मक, उच्च-मूल्याच्या कामावर लक्ष केंद्रित करणे कठीण होते.
 
-![Infographic showing statistics about daily email volume and time spent managing email](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+![दररोजच्या email volume आणि email management वर खर्च होणाऱ्या वेळेबद्दलची आकडेवारी दाखवणारा infographic](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
 सरासरी व्यावसायिकाला दररोज 120 हून अधिक ईमेल मिळतात, ज्यामुळे मौल्यवान कामाचा वेळ तासन्‌तास खर्च होतो.
 

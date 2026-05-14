@@ -117,7 +117,6 @@ While helpful, these tools often address specific pain points rather than the ho
 
 ### The Rise of the AI Email Assistant: Your Inbox's Intelligent Co-Pilot
 
-**Image PlaceholderQuery:** futuristic graphic AI assistant helping with email**Alt Text:** Abstract graphic showing an AI helping a person manage their email inbox efficiently.**Caption:** AI email assistants leverage technology to automate and enhance inbox management.
 
 Enter the AI email assistant. These tools represent the next evolution in email management, leveraging artificial intelligence – specifically Natural Language Processing (NLP) and Machine Learning (ML) – to automate and enhance tasks that traditionally required significant manual effort.
 
@@ -151,7 +150,6 @@ AI email assistants move beyond simple automation; they offer intelligent capabi
 
 ### AI Triage & Prioritization: Cutting Through the Clutter to Find What's Urgent
 
-**Image PlaceholderQuery:** diagram AI email triage sorting important emails**Alt Text:** Diagram showing how AI triage automatically sorts incoming emails by priority.**Caption:** AI Triage intelligently surfaces urgent emails, cutting through the noise.
 
 **The Problem:** Your standard Gmail inbox is a chronological feed where newsletters and CC'd memos compete for attention alongside urgent client requests and critical deadlines. Manually sorting this influx to find what truly needs your attention _now_ consumes valuable time and mental energy.
 

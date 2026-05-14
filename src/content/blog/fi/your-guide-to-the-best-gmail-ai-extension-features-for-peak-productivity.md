@@ -64,7 +64,7 @@ Satojen sähköpostien manuaalinen seulominen päivittäin on uuvuttavaa ja teho
 
 AI:n potentiaali sähköpostissa on jännittävää, mutta sukellus vaatii harkittua harkintaa. Markkinat kasvavat nopeasti, mutta ovat edelleen kypsymässä, mikä tarkoittaa, että ominaisuudet voivat vaihdella suuresti. Muista seuraavat asiat:
 
-### Protecting Your Data: Privacy in the Age of AI
+### Tietojesi suojaaminen: yksityisyys tekoälyn aikakaudella
 
 Ensisijainen huolenaihe on tietosuoja. Useimmat AI-sähköpostityökalut tarvitsevat pääsyn sähköpostisi sisältöön toimiakseen taikuutensa vuoksi. Tämä herättää päteviä kysymyksiä tietojen käytöstä. Syötetäänkö se takaisin AI-malliin harjoittelua varten? Voivatko arkaluonteiset asiakastiedot tai yrityksen IP-osoite paljastua vahingossa? On ratkaisevan tärkeää valita palveluntarjoajat, joilla on avoimet ja vakaat tietosuojakäytännöt ja turvatoimenpiteet, kuten tietojen peittäminen ennen lähettämistä LLM:ille tai tiukkojen tietosuojamääräysten noudattaminen. Etsi työkaluja, jotka korostavat yritystason turvallisuutta tai tarjoavat vaihtoehtoja paikalliseen käsittelyyn. Tutustu tietosuojakäytäntöön aina huolellisesti ennen käyttöoikeuden myöntämistä.
 

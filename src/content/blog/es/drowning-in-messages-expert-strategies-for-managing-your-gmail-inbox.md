@@ -117,8 +117,6 @@ Si bien son útiles, estas herramientas a menudo abordan puntos débiles especí
 
 ### El auge del asistente de correo electrónico con IA: el copiloto inteligente de su bandeja de entrada
 
-**Image PlaceholderQuery:** asistente de IA gráfico futurista que ayuda con el correo electrónico**Texto alternativo:** Gráfico abstracto que muestra una IA que ayuda a una persona a administrar su bandeja de entrada de correo electrónico de manera eficiente. **Subtítulo:** Los asistentes de correo electrónico de IA aprovechan la tecnología para automatizar y mejorar la administración de la bandeja de entrada.
-
 Ingrese al asistente de correo electrónico AI. Estas herramientas representan la próxima evolución en la gestión del correo electrónico, aprovechando la inteligencia artificial, específicamente el procesamiento del lenguaje natural (NLP) y el aprendizaje automático (ML), para automatizar y mejorar tareas que tradicionalmente requerían un esfuerzo manual significativo.
 
 **Cómo funcionan (simplificado):**
@@ -151,15 +149,13 @@ Los asistentes de correo electrónico con IA van más allá de la simple automat
 
 ### AI Triage y priorización: eliminar el desorden para encontrar lo urgente
 
-**Consulta de marcador de posición de imagen:** diagrama de clasificación de correo electrónico de IA que clasifica los correos electrónicos importantes**Texto alternativo:** Diagrama que muestra cómo la clasificación de IA clasifica automáticamente los correos electrónicos entrantes por prioridad.**Subtítulo:** AI Triage muestra de manera inteligente los correos electrónicos urgentes, eliminando el ruido.
-
 **El problema:** Su bandeja de entrada estándar Gmail es una fuente cronológica donde los boletines y las notas en CC compiten por la atención junto con las solicitudes urgentes de los clientes y los plazos críticos. Clasificar manualmente esta afluencia para encontrar lo que realmente necesita su atención _ahora_ consume tiempo y energía mental valiosos.
 
 **La solución de IA:** AI Triage emplea PNL y ML para analizar de forma inteligente los correos electrónicos entrantes en el momento en que llegan. Evalúa la urgencia buscando palabras clave ("urgente", "fecha límite"), comprende el contexto (¿es esta una solicitud que necesita una decisión?), identifica remitentes importantes en función de sus interacciones pasadas e incluso mide el sentimiento. La IA aprende _tus_ prioridades con el tiempo y se vuelve cada vez más precisa a la hora de distinguir la señal del ruido. Esto no es sólo un filtrado basado en reglas; es un juicio automatizado.
 
 **El beneficio:** En lugar de que usted busque entre la pila, la IA muestra automáticamente los correos electrónicos que exigen una acción inmediata. Esto reduce drásticamente el tiempo de clasificación, garantiza que no se pierdan elementos críticos, reduce el estrés de la sobrecarga de la bandeja de entrada y le permite concentrar su energía en un trabajo impactante en lugar de en la administración de la bandeja de entrada.
 
-**Duet Mail Enlace (Contextual):** _Esta clasificación inteligente es exactamente lo que necesitan los profesionales ocupados. Es donde sobresalen herramientas como _[_Duet Mail_](https://duetmail.com/es)_, que utilizan **AI Triage** para analizar la urgencia, las acciones requeridas y las decisiones, presentándolas claramente en un **Focused Dashboard** para que sepa de inmediato qué necesita atención._
+**Enlace contextual de Duet Mail:** _Esta clasificación inteligente es exactamente lo que necesitan los profesionales ocupados. Es donde sobresalen herramientas como _[_Duet Mail_](https://duetmail.com/es)_, que utilizan **AI Triage** para analizar la urgencia, las acciones requeridas y las decisiones, presentándolas claramente en un **Focused Dashboard** para que sepa de inmediato qué necesita atención._
 
 ### Smart Summarization: Comprender hilos largos y archivos adjuntos al instante
 

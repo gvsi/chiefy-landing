@@ -17,7 +17,7 @@ Pirms pievērsties risinājumiem, aplūkosim problēmas kvantitāti. E-pasts nav
 
 — **Dienas plūdi:** Vidēji biroja darbinieks saņem aptuveni [121–126 e-pastus *dienā*](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/), un miljardiem cilvēku visā pasaulē izmanto internetu.
 
-— **Laika patēriņš:** Saskaņā ar PPM Express (atsaucoties uz McKinsey) pētījumu, Pro profesionāļi aptuveni [2,6 līdz 3,1 stundas dienā](https://www.maestrolabs.com/blog-detail/ai-email-assistants-for-gmail) pavada e-pasta pārvaldībai, kas veido gandrīz [28 % no vidējās darba nedēļas](https://www.ppm.express/blog/checking-emails).
+— **Laika patēriņš:** Saskaņā ar PPM Express (atsaucoties uz McKinsey) pētījumu, Profesionāļi aptuveni [2,6 līdz 3,1 stundas dienā](https://www.maestrolabs.com/blog-detail/ai-email-assistants-for-gmail) pavada e-pasta pārvaldībai, kas veido gandrīz [28 % no vidējās darba nedēļas](https://www.ppm.express/blog/checking-emails).
 
 - **Pārtraukumu nodoklis:** Mēs bieži pārbaudām savu e-pastu – daži aprēķini liecina [ik pēc 6 minūtēm](https://www.ppm.express/blog/checking-emails)! Katrs pārtraukums nav tikai īslaicīgs skatiens; ir nepieciešamas vidēji [23–25 minūtes](https://www.ppm.express/blog/checking-emails), lai pilnībā atgūtu koncentrēšanos uz sākotnējo uzdevumu.
 
@@ -71,7 +71,7 @@ Ietaupiet laiku, nerakstot atkārtotas atbildes, izmantojot Gmail veidnes (sagat
 
 - **Ieplānot sūtīšanu:** Uzrakstiet e-pastu tagad, bet ieplānojiet tā nosūtīšanu vēlāk. Noklikšķiniet uz lejupvērstās bultiņas blakus pogai “Sūtīt”. Ideāli piemērots laika joslu ievērošanai, ziņojumu sūtīšanai darba laikā, pat ja tos rakstāt vēlu, vai paziņojumu precīzai laika noteikšanai. Gmail ļauj ieplānot [līdz 100 e-pastiem](https://www.brevo.com/blog/how-to-schedule-an-email-in-gmail/) krietni iepriekš. Uzziniet vairāk no [oficiālās Gmail rokasgrāmatas](https://support.google.com/mail/answer/9214606?hl=en).
 
-### Pro padoms: e-pasta aizstājvārdu (adresēšanas ar '+') izmantošana ar filtriem
+### Padoms: e-pasta aizstājvārdu (adresēšanas ar '+') izmantošana ar filtriem
 
 Mazāk zināms Gmail triks ir aizstājvārdu izmantošana. Savā e-pasta adresē varat pievienot pluszīmi (\`+\`), kam seko jebkurš vārds pirms \`@\` (piemēram, \`jūsuvārds+jaunumi\@gmail.com\`, \`jūsuvārds+rēķins\@gmail.com\`). Uz šiem aizstājvārdiem nosūtītie e-pasti joprojām nonāk jūsu galvenajā iesūtnē, taču unikālā adrese nodrošina jaudīgu filtrēšanu. Piemēram, izveidojiet filtru visam, kas tiek nosūtīts uz \`Kam: jūsuvārds+jaunumi\@gmail.com\`, un automātiski lietojiet iezīmi "Jaunumi" un arhivējiet to. Tas ir neticami noderīgi reģistrāciju un abonementu automātiskai kārtošanai, kā atzīmējuši lietotāji vietnē [Reddit](https://www.reddit.com/r/google/comments/fbdd9/what_awesome_gmail_filters_are_you_using_that/) un tehnoloģiju emuāros, piemēram, [Spin.AI](https://spin.ai/blog/gmail-tutorial-tips-tricks/).
 

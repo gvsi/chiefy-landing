@@ -88,7 +88,7 @@ Kromě organizace a plánování je nejzajímavější hranicí produktivity Gma
 
 ### Jak fungují AI e-mailoví asistenti?
 
-Tyto nástroje využívají pokročilý přirozený jazyk Processing (NLP) a strojové učení (ML) k pochopení obsahu a kontextu vašich e-mailů. Analyzují obrovské množství textových dat, aby rozpoznali vzorce, sentiment, záměry a entity (lidé, data, projekty). Na základě tohoto porozumění mohou provádět úkoly jako:
+Tyto nástroje využívají pokročilý zpracování přirozeného jazyka (NLP) a strojové učení (ML) k pochopení obsahu a kontextu vašich e-mailů. Analyzují obrovské množství textových dat, aby rozpoznali vzorce, sentiment, záměry a entity (lidé, data, projekty). Na základě tohoto porozumění mohou provádět úkoly jako:
 
 - Upřednostňování e-mailů podle naléhavosti nebo důležitosti odesílatele.
 

@@ -93,7 +93,7 @@
       "avatarLetter": "S",
       "avatarColor": "lavender",
       "subject": "Sommarrea — 30 % rabatt på våtdräkter",
-      "pill": "Prorörelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -133,7 +133,7 @@
     {
       "name": "Jen och Mark S.",
       "title": "Paddleboard lektioner och uthyrning, HI",
-      "quote": "Vi kör lektioner och styrelseuthyrning ur samma inkorg.Duet kom på skillnaden direkt - hyresfrågor får hyressvar, lektionsförfrågningar får lektionsdetaljer. Det är som att ha en reception.",
+      "quote": "Vi kör lektioner och styrelseuthyrning ur samma inkorg. Duet kom på skillnaden direkt - hyresfrågor får hyressvar, lektionsförfrågningar får lektionsdetaljer. Det är som att ha en reception.",
       "avatarKey": "jennifer"
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "Fran C.",
       "title": "SUP-turer och lektioner, OR",
-      "quote": "Högsäsongen dödade mig - 30 e-postmeddelanden om dagen om villkor, priser, vad jag ska ta med. Samma fem frågor om och om igen.Duet hanterar alla och de låter precis som jag.",
+      "quote": "Högsäsongen dödade mig - 30 e-postmeddelanden om dagen om villkor, priser, vad jag ska ta med. Samma fem frågor om och om igen. Duet hanterar alla och de låter precis som jag.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Kids Surf Camp Director, SC",
-      "quote": "Föräldrar skickar de längsta mejlen. Lägerdatum, allergier, kompetensnivåer, hämtningstider.Duet utarbetar detaljerade svar som täcker allt så jag skriver inte stycken klockan 22.00 efter en hel dag på stranden.",
+      "quote": "Föräldrar skickar de längsta mejlen. Lägerdatum, allergier, kompetensnivåer, hämtningstider. Duet utarbetar detaljerade svar som täcker allt så jag skriver inte stycken klockan 22.00 efter en hel dag på stranden.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Duet lär sig hur du vanligtvis hanterar e-postmeddelanden med villkor – dina policyer för avbokningar, ombokningar och vilka villkor du undervisar i. När någon skickar e-postmeddelanden och frågar om deras lektion kommer att genomföras,Duet utformar ett svar som matchar din vanliga ton och policy. Du granskar och skickar på några sekunder."
     }
   ],
-  "pricingNote": "För $90/lektion betalar två sparade bokningar för över ett år avPro."
+  "pricingNote": "För $90/lektion betalar två sparade bokningar för över ett år av Pro."
 }

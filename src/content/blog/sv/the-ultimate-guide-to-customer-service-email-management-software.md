@@ -65,7 +65,7 @@ Deras främsta fördel ligger i att skapa struktur i kaoset. Viktiga fördelar i
 
 - **Samarbetesverktyg:** Funktioner som interna anteckningar på biljetter gör att agenter kan dela information och samarbeta kring lösningar.
 
-- **Rapportering:**Provisar grundläggande analyser om biljettvolym, svarstider och andra nyckeltal.
+- **Rapportering:**Visar grundläggande analyser om biljettvolym, svarstider och andra nyckeltal.
 
 Även om det är en betydande förbättring jämfört med delade inkorgar, är traditionella helpdesk inte ett universalmedel. De kräver ofta fortfarande avsevärd manuell ansträngning, kan ha en brantare inlärningskurva och tillhörande utbildningskostnader och kan vara dyrare. Utan mer avancerade funktioner kanske de inte helt löser spänningen mellan att leverera snabba svar och personliga interaktioner.
 
@@ -139,7 +139,7 @@ Effektivt lagarbete är avgörande. Leta efter funktioner som gör att agenter k
 
 - **Task Assignment:** Skapa deluppgifter relaterade till ett e-postmeddelande och tilldela dem till specifika teammedlemmar.
 
-### AI för agentProduktivitet och förbättrad kvalitet
+### AI för agentproduktivitet och förbättrad kvalitet
 
 AI är inte bara att automatisera uppgifter; det hjälper aktivt agenter att arbeta smartare och leverera tjänster av högre kvalitet.
 
@@ -184,7 +184,7 @@ Att välja rätt programvara är bara halva striden. Hur du implementerar och an
 
 - **Organisera hänsynslöst:** Implementera ett tydligt och konsekvent system för att tagga, kategorisera och prioritera e-postmeddelanden eller biljetter. Använd mappar, anpassade vyer eller instrumentpaneler för att hjälpa agenter att hantera sina specifika arbetsflöden effektivt.
 
-- **Bestyrka dina agenter:**Proper utbildning i programvaran och etablerade processer är avgörande. Se till att agenter har enkel tillgång till kundhistorik och sammanhang. Främja en samarbetsmiljö där det uppmuntras att be om hjälp. Och glöm inte att erkänna och uppskatta deras insatser, eftersom stödroller kan vara krävande.
+- **Bestyrka dina agenter:**Rätt utbildning i programvaran och etablerade processer är avgörande. Se till att agenter har enkel tillgång till kundhistorik och sammanhang. Främja en samarbetsmiljö där det uppmuntras att be om hjälp. Och glöm inte att erkänna och uppskatta deras insatser, eftersom stödroller kan vara krävande.
 
 - **Hantera klagomål med nåd:** Att hantera frustrerade kunder är oundvikligt. Träna ditt team på de-eskaleringstekniker. Betona aktivt lyssnande, genuin empati, uppriktiga ursäkter när det är motiverat och ett laserfokus på att lösa det underliggande problemet. Använd negativ feedback konstruktivt som en möjlighet att förbättra processer eller produkter.
 

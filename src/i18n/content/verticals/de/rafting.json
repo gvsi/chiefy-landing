@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass zuerst Reiseanfragen, dann Ausrüstungsfragen auftauchen und der Werbelärm verschwindet. Keine Gruppenbuchung mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen bleibt.",
   "draftSubtitle": "Duet lernt Ihre Reisearten, Stromschnellenklassen, Ausrüstungslisten und Stornierungsbedingungen. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit allem verfasst, was der Kunde benötigt. Sie überprüfen und senden.",
-  "agentSubtitle": "„Gibt es am Samstag noch freie Plätze?“ „Entwerfen Sie eine Antwort an Jennifer mit Angabe der Verfügbarkeit.“Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "agentSubtitle": "„Gibt es am Samstag noch freie Plätze?“ „Entwerfen Sie eine Antwort an Jennifer mit Angabe der Verfügbarkeit.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -93,7 +93,7 @@
       "avatarLetter": "N",
       "avatarColor": "lavender",
       "subject": "Schlussverkauf – 30 % Rabatt auf Trockenanzüge",
-      "pill": "ProAnträge",
+      "pill": "Werbung",
       "pillColor": "lavender"
     }
   ],
@@ -133,7 +133,7 @@
     {
       "name": "Katie L.",
       "title": "Kajak- und SUP-Touren, OR",
-      "quote": "Jeder Kunde stellt die gleichen fünf Fragen – Preis, was mitzubringen ist, Kenntnisstand, Gruppengröße, Stornierungsbedingungen.Duet habe alles in der ersten Woche gelernt. Ich bin von einer Stunde E-Mails jeden Abend auf fünf Minuten umgestiegen, in denen ich Entwürfe überprüft habe.",
+      "quote": "Jeder Kunde stellt die gleichen fünf Fragen – Preis, was mitzubringen ist, Kenntnisstand, Gruppengröße, Stornierungsbedingungen. Duet habe alles in der ersten Woche gelernt. Ich bin von einer Stunde E-Mails jeden Abend auf fünf Minuten umgestiegen, in denen ich Entwürfe überprüft habe.",
       "avatarKey": "sarah"
     },
     {
@@ -145,7 +145,7 @@
     {
       "name": "Elena R.",
       "title": "River Adventures Büroleiter, WV",
-      "quote": "Ich verwalte Buchungen für drei Guides für vier Reisearten.Duet kategorisiert jede E-Mail nach Dringlichkeit und entwirft Antworten mit der richtigen Reise, dem richtigen Preis und der richtigen Ausrüstungsliste. Es ist, als würde ich mich selbst klonen.",
+      "quote": "Ich verwalte Buchungen für drei Guides für vier Reisearten. Duet kategorisiert jede E-Mail nach Dringlichkeit und entwirft Antworten mit der richtigen Reise, dem richtigen Preis und der richtigen Ausrüstungsliste. Es ist, als würde ich mich selbst klonen.",
       "avatarKey": "jennifer"
     },
     {
@@ -167,5 +167,5 @@
       "answer": "Das ist genau das Problem, das Duet löst. Während Sie ohne Signal auf dem Fluss sind, antwortet Duet Drafts auf jede eingehende Anfrage. Wenn Sie wieder in Reichweite sind, warten Ihre Drafts – überprüfen Sie sie einfach und senden Sie sie. Die meisten Reiseführer sagen uns, dass dadurch der Rückstand beseitigt wird, mit dem sie früher nach jeder mehrtägigen Reise konfrontiert waren."
     }
   ],
-  "pricingNote": "Bei einem Preis von 150 $/Person decken zwei gespeicherte Buchungen ein ganzes JahrProab."
+  "pricingNote": "Bei einem Preis von 150 $/Person decken zwei gespeicherte Buchungen ein ganzes Jahr Pro ab."
 }

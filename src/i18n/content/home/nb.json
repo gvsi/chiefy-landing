@@ -63,7 +63,7 @@
         "from": "Shopify",
         "avatarLetter": "S",
         "subject": "Butikken din er klar for Black Friday",
-        "pill": "Probevegelser"
+        "pill": "Kampanjer"
       }
     ],
     "autodraft": "Hei Alex! Ja, vi er i rute. Designteamet fullførte ressursene i går, og jeg sender de endelige filene av EOD i dag."
@@ -142,7 +142,7 @@
               "time": "2 dager siden"
             },
             {
-              "title": "Project Integration",
+              "title": "Projektintegration",
               "time": "12 timer siden"
             }
           ],
@@ -203,12 +203,12 @@
       {
         "from": "Stripe",
         "subject": "Månedsoppgaven din er klar",
-        "pill": "Probevegelser"
+        "pill": "Kampanjer"
       },
       {
         "from": "Nyhetsbrev",
         "subject": "Ukentlig sammendrag",
-        "pill": "Probevegelser"
+        "pill": "Kampanjer"
       }
     ]
   },
@@ -275,7 +275,7 @@
     ],
     "inputPlaceholder": "Spør hva som helst...",
     "dynamicResponses": {
-      "processingDefault": "Proavslutter...",
+      "processingDefault": "Behandler...",
       "processingDraft": "Genererer utkast...",
       "processingCalendar": "Sjekker tilgjengelighet...",
       "draftIntro": "Her er et utkast til svar til regnskap:",

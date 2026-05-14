@@ -90,7 +90,7 @@ Potenciální dopad je významný. Studie poukazují na značné zvýšení prod
 | Rychlost dokončení úkolu       | +25.1% Rychlejší                              | Studie Harvard/BCG         |
 | Kvalita výstupu              | +40 % Vyšší                                | Studie Harvard/BCG         |
 | Úspora času (týdenní průměr) | \~2.2 hours (5.4% pracovní doby pro uživatele) | St. Louis Fed Studie       |
-| Sektor ProRůst produktivity  | \~5x Vyšší v sektorech vystavených AI          | PwC AI Jobs Barometer     |
+| Růst produktivity sektoru  | \~5x Vyšší v sektorech vystavených AI          | PwC AI Jobs Barometer     |
 | Potenciální ekonomický dopad   | $2.6T - $4.4T ročně (globální odhad)       | McKinsey Global Institute |
 
 _Tabulka poskytující stručné shrnutí vlivu umělé inteligence na produktivitu na základě citovaného výzkumu._

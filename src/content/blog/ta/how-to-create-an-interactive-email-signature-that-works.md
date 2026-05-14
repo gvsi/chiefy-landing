@@ -59,7 +59,7 @@ draft: false
 
 - **லோகோ அல்லது ஹெட்ஷாட்:** ஆளுமை மற்றும் பிராண்ட் அங்கீகாரம் சேர்க்கிறது. உங்கள் இணையதளத்துடன் இணைக்கும் வகையில் அதை கிளிக் செய்யவும். உயர்தர, தொழில்முறை படத்தைப் பயன்படுத்தவும்.
 
-![Example of a simple professional email signature for a freelancer with clickable contact info and social links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+![Clickable contact info மற்றும் social links உடன் freelancer-க்கான எளிய professional email signature உதாரணம்](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 சுத்தமாக வைத்திருங்கள்: அத்தியாவசிய தொடர்புத் தகவல் மற்றும் முக்கிய சமூக இணைப்புகளுடன் கூடிய எளிய கையொப்பம்.
 
@@ -84,7 +84,7 @@ draft: false
 
 **Freelancers & Startups க்கான பரிந்துரை:** HTML மற்றும் கடுமையான சோதனையில் நீங்கள் வசதியாக இல்லாவிட்டால், புகழ்பெற்ற **மின்னஞ்சல் கையொப்ப ஜெனரேட்டரில்** தொடங்குவது மிகவும் பரிந்துரைக்கப்படுகிறது. [MySignature](https://mysignature.io/) (ஃப்ரீலான்ஸர்கள்/சிறிய குழுக்களுக்கு நல்லது என்று குறிப்பிடப்பட்டுள்ளது) அல்லது [WiseStamp](https://www.wisestamp.com/) போன்ற கருவிகள் தொழில்முறை டெம்ப்ளேட்டுகள், எளிதான தனிப்பயனாக்கம் (CTAகள் மற்றும் பேனர்கள் உட்பட) மற்றும் உள்ளமைக்கப்பட்ட இணக்கத்தன்மை காசோலைகளுடன் இலவச அல்லது மலிவு திட்டங்களை வழங்குகின்றன. [HubSpot ஒரு பிரபலமான இலவச ஜெனரேட்டரையும் வழங்குகிறது](https://www.hubspot.com/email-signature-generator) எளிமையான தேவைகளுக்காக.
 
-![Screenshot of an email signature generator tool interface showing templates and customization options](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+![Templates மற்றும் customization options காட்டும் email signature generator tool interface ஸ்கிரீன்ஷாட்](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 MySignature மற்றும் WiseStamp போன்ற கருவிகள் வார்ப்புருக்கள் மற்றும் எளிமையான தனிப்பயனாக்கலை வழங்குகின்றன.
 
@@ -112,7 +112,7 @@ MySignature மற்றும் WiseStamp போன்ற கருவிக�
 
 - **வரம்பு கூறுகள்:** *ஒவ்வொரு* சமூக சுயவிவரத்தையும் சேர்க்க வேண்டாம். 3-4 தொடர்புடையவற்றில் ஒட்டிக்கொள்க. ஒரு வலுவான CTA பொதுவாக பல பலவீனமானவற்றை விட சிறந்தது.
 
-![Comparison showing an email signature rendering correctly on both desktop and mobile screens](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+![Desktop மற்றும் mobile screens இரண்டிலும் email signature சரியாக render ஆகுவதைக் காட்டும் comparison](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 மொபைல் முக்கியமானது: உங்கள் கையொப்பம் அழகாக இருப்பதையும், எல்லா சாதனங்களிலும் சிறப்பாகச் செயல்படுவதையும் உறுதிசெய்யவும்.
 

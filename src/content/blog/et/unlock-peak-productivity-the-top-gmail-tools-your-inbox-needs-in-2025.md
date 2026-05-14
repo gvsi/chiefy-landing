@@ -88,7 +88,7 @@ Lisaks organiseerimisele ja ajakavale on Gmail tootlikkuse kõige põnevam piir 
 
 ### Kuidas AI meiliassistendid töötavad?
 
-Need tööriistad kasutavad täiustatud loomuliku keele Prolõpetamist (NLP) ja masinõpet (ML), et mõista teie meilide sisu ja konteksti. Nad analüüsivad tohutul hulgal tekstiandmeid, et tuvastada mustreid, tundeid, kavatsusi ja üksusi (inimesed, kuupäevad, projektid). Selle arusaama põhjal saavad nad täita selliseid ülesandeid nagu:
+Need tööriistad kasutavad täiustatud loomuliku keele töötlemist (NLP) ja masinõpet (ML), et mõista teie meilide sisu ja konteksti. Nad analüüsivad tohutul hulgal tekstiandmeid, et tuvastada mustreid, tundeid, kavatsusi ja üksusi (inimesed, kuupäevad, projektid). Selle arusaama põhjal saavad nad täita selliseid ülesandeid nagu:
 
 - E-kirjade prioritiseerimine kiireloomulisuse või saatja tähtsuse alusel.
 

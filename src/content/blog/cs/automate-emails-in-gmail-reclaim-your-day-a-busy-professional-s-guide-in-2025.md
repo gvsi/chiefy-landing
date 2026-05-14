@@ -1,5 +1,5 @@
 ---
-title: "Automatizujte e-maily v Gmail a získejte zpět svůj den: Rušný průvodce Professional v 2025"
+title: "Automatizujte e-maily v Gmailu a získejte zpět svůj den: průvodce pro zaneprázdněné profesionály v roce 2025"
 description: "Přestaňte se topit ve své schránce! Naučte se automatizovat e-maily v Gmail pomocí vestavěných funkcí, rozšíření a asistentů AI, abyste ušetřili hodiny a zvýšili produktivitu"
 publishedAt: 2025-11-16
 author: "Duet Mail Team"

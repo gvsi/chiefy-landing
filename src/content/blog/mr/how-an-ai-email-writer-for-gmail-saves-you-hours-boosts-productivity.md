@@ -21,7 +21,7 @@ draft: false
 
 याचा परिणाम फक्त वेळेच्या नुकसानीपुरता मर्यादित नाही. सतत ईमेल तपासल्याने आपलं लक्ष तुकड्यांमध्ये विभागलं जातं, आणि खोल काम व इनबॉक्स छाननी यांमध्ये खर्चिक संदर्भ-परिवर्तन करावं लागतं. ही डिजिटल घर्षण ताण वाढवते, महत्त्वाचे संदेश गाडले गेल्यामुळे निर्णयक्षमता कमकुवत करते, आणि थकवा देखील वाढवू शकते. DragApp ने उल्लेख केलेल्या [Forbes च्या अभ्यासानुसार](https://www.dragapp.com/blog/effects-of-email-overload/) तृतीयांश कर्मचाऱ्यांनी नोकरी सोडण्यामागे ईमेलच्या अतिभाराचा घटक असल्याचं सांगितलं. स्पष्ट आहे की ईमेल व्यवस्थापनाचा पारंपरिक दृष्टिकोन आधुनिक व्यावसायिकांसाठी टिकाऊ नाही.
 
-![Infographic showing statistics about email overload, including average emails received daily, hours spent managing email per week, and impact on productivity](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+![दररोज मिळणाऱ्या सरासरी ईमेल्स, आठवड्याला ईमेल व्यवस्थापनावर खर्च होणारे तास आणि उत्पादकतेवरील परिणाम दाखवणारा email overload आकडेवारीचा infographic](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 ईमेलचा अतिभार ही केवळ भावना नाही; डेटा दाखवतो की तो उत्पादकता आणि कल्याण यांवर मोठा भार टाकतो.
 
@@ -59,7 +59,7 @@ OpenAI च्या GPT मालिका किंवा Google च्या G
 
 महत्त्वाचं म्हणजे, अनेक AI ईमेल लेखक शिकण्याची यंत्रणाही समाविष्ट करतात. तुम्ही पाठवलेल्या ईमेल्सचं विश्लेषण करून — विशेषतः त्यांच्या मसुद्यांमध्ये तुम्ही केलेल्या संपादनांमधून — AI हळूहळू तुमची आवडती मांडणी, शेवटच्या ओळी आणि एकूण संवादशैली शिकू शकतो, ज्यामुळे त्याच्या सूचना काळानुसार अधिक वैयक्तिक वाटतात. हे अनेकदा Chrome extension द्वारे अखंडपणे घडतं, जे थेट तुमच्या Gmail इंटरफेसमध्ये समाकलित होतं आणि AI ची ताकद नेमकी जिथे गरज आहे तिथे ठेवतं.
 
-![Diagram illustrating how an AI email writer works: User Input (prompt/context) goes into the AI Model (NLP/LLM), which then produces an Email Output (draft/summary)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
+![AI email writer कसा काम करतो हे दाखवणारा diagram: User Input (prompt/context) AI Model (NLP/LLM) मध्ये जाते आणि त्यातून Email Output (draft/summary) तयार होते](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
 
 AI ईमेल लेखक तुमची विनंती समजण्यासाठी NLP वापरतात आणि व्यापक डेटावर प्रशिक्षित LLMs मानवीसारखा मजकूर तयार करतात.
 
@@ -157,7 +157,7 @@ AI कडे सहकार्यात्मक साधन म्हणू�
 
 Gmail साठी AI ईमेल लेखक या दिशेने एक महत्त्वाचं पाऊल आहे. ते डिजिटल संवादाचा अखंड प्रवाह व्यवस्थापित करण्याचा एक शक्तिशाली मार्ग देतात, आणि इनबॉक्सला ताणाच्या स्रोतापासून अधिक हाताळण्याजोग्या आणि उत्पादक साधनात रूपांतरित करतात.
 
-![Graphic displaying a quote or statistic about how AI implementation boosts workplace productivity](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
+![AI implementation workplace productivity कशी वाढवते यावरील quote किंवा statistic दाखवणारे graphic](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
 
 कामाच्या ठिकाणी उत्पादकता आणि कार्यक्षमता वाढवण्यासाठी AI साधनं अधिकाधिक आवश्यक मानली जात आहेत.
 

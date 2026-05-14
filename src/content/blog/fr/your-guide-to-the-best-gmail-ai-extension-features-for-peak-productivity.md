@@ -85,15 +85,15 @@ L’impact potentiel est important. Des études montrent des gains de productivi
 
 **Gains de productivité avec les outils d’IA**
 
-| Metric                      | Reported Gain                              | Source Example(s)         |
+| Indicateur                  | Gain rapporté                              | Exemple de source         |
 | --------------------------- | ------------------------------------------ | ------------------------- |
-| Task Completion Speed       | +25.1% Faster                              | Harvard/BCG Study         |
-| Output Quality              | +40% Higher                                | Harvard/BCG Study         |
+| Vitesse d’exécution des tâches | +25,1 % plus rapide                     | Étude Harvard/BCG         |
+| Qualité des résultats       | +40 % plus élevée                          | Étude Harvard/BCG         |
 | Temps gagné (moyenne hebdomadaire) | \~2,2 heures (5,4 % du temps de travail des utilisateurs) | Étude de la Fed de St. Louis       |
-| Sector Productivity Growth  | \~5x Higher in AI-exposed sectors          | PwC AI Jobs Barometer     |
-| Potential Economic Impact   | $2.6T - $4.4T Annually (Global Est.)       | McKinsey Global Institute |
+| Croissance de la productivité sectorielle | \~5x plus élevée dans les secteurs exposés à l’IA | PwC AI Jobs Barometer     |
+| Impact économique potentiel | 2,6 à 4,4 billions de dollars par an (estimation mondiale) | McKinsey Global Institute |
 
-_Table providing a concise summary of AI's impact on productivity, based on cited research._
+_Tableau récapitulant l’impact de l’IA sur la productivité, d’après les études citées._
 
 Si vous êtes un professionnel occupé qui passe des heures à vous débattre avec votre boîte de réception, à peiner à hiérarchiser vos priorités ou qui aimerait simplement répondre plus vite sans sacrifier la qualité, explorer une extension Gmail IA est probablement une démarche utile. Trouver l’outil _adapté_ qui équilibre fonctionnalités puissantes, facilité d’utilisation et respect de votre style de communication est essentiel. Si vous cherchez un assistant intelligent conçu spécifiquement pour gérer des boîtes de réception à fort volume avec des fonctionnalités comme le tri piloté par l’IA, la rédaction dans une voix authentique et les résumés tenant compte du contexte, explorer une solution comme [Duet Mail](https://duetmail.com/fr) pourrait être votre prochaine étape pour mieux maîtriser vos e-mails.
 

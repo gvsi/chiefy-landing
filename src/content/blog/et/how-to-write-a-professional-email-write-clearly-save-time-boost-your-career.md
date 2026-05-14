@@ -50,7 +50,7 @@ Mõelge oma teemareale kui mikrokokkuvõttele. Ülevoolavas postkastide maailmas
 | Koosolek              | Taotlus: eelarve koosolek neljapäeval kell 14.00    | Konkreetne, sisaldab tegevust, aega ja teemat       |
 | Värskenda               | Project Phoenix: iganädalane olekuvärskendus    | Tuvastab projekti, värskenduse tüübi               |
 | Kiire küsimus       | Küsimus: Q3 turundusaruande andmed    | Konkreetne teema, võimaldab prioriseerida            |
-| Järeltegevus         | Järeltegevus: meie vestlus on käimas           | Provideb konteksti, aitab meenutada                    |
+| Järeltegevus         | Järeltegevus: meie vestlus on käimas           | Annab konteksti, aitab meenutada                    |
 | Tähtis!           | Nõutav toiming: EOD-le esitage ajatabel | Selge tegevus, konkreetne tähtaeg, annab edasi kiireloomulisuse |
 
 ### **Tervitused: alustage paremalt**
@@ -71,7 +71,7 @@ See on koht, kus edastate oma sõnumi. Struktuur ja selgus on esmatähtsad.
 
 - **Lead with the Bottom Line**: alustage oma põhipunktist, taotlusest või kõige olulisemast teabest [**esimeste lausete jooksul**](https://www.govloop.com/from-harvard-business-review-best-practices-to-write-e-mails-that-impress/). Hõivatud professionaalid koorivad sageli, nii et ärge jätke ledi maha.
 
-- **Provideo kontekst**: pärast põhipunkti pakkuge vajalikku tausta või üksikasju.
+- **Pakkuge konteksti**: pärast põhipunkti pakkuge vajalikku tausta või üksikasju.
 
 - **Hoidke see skannitavaks**: kasutage [**lühikesi lõike (max 4–5 lauset)**](https://www.boisestate.edu/writingcenter/professional-email-guide/). Kasutage teabe jaotamiseks ja peamiste näpunäidete esiletõstmiseks täppe, nummerdatud loendeid ja paksus kirjas teksti. Palju tühikuid parandab loetavust.
 
@@ -101,7 +101,7 @@ Lõpetage oma e-kiri kaunilt ja sisestage vajalik kontaktteave.
 
 - **Essentials**: täisnimi, ametinimetus, ettevõtte nimi, telefoninumber.
 
-- **Valikuline (kuid sageli abiks)**: ettevõtte veebisait, LinkedIn Profaili link, füüsiline aadress (kui see on asjakohane).
+- **Valikuline (kuid sageli abiks)**: ettevõtte veebisait, LinkedIn profiili link, füüsiline aadress (kui see on asjakohane).
 
 - **Vormindamine**: hoidke seda lühidalt ([**soovitatav on maksimaalselt 4–5 rida**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), kasutage professionaalseid ja [**veebikindlaid fonte**](https://www.mailerlite.com/blog/email-signature-best-practices) (nagu Arial, Calibri) ja teie kaubamärgiga kooskõlas olevaid värve. Veenduge, et see oleks [**mobiilisõbralik**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vältige tarbetuid pilte, suuri logosid või inspireerivaid tsitaate.![Näide puhtast professionaalsest meiliallkirjast koos nime, ametinimetuse, ettevõtte, telefoni, veebisaidi ja LinkedIn lingiga](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
@@ -111,7 +111,7 @@ Puhas ja professionaalne meiliallkiri sisaldab olulist kontaktteavet ilma segadu
 
 Isegi õige struktuuri korral võivad väikesed vead teie sõnumi rööpast välja viia. Siin on, millele tähelepanu pöörata.
 
-### **Proülelugemine: ärge laske vigadel end kahjustada**
+### **Korrektuur: ärge laske vigadel end kahjustada**
 
 Kirjavead, õigekirja- ja grammatikavead karjuvad ettevaatamatusest.8 Need [**kahjutavad koheselt teie usaldusväärsust**](https://pushfar.com/index.php/article/4-reasons-effective-email-communication-is-essential-for-career-success/) 5 ja võivad muuta teie sõnumi segaseks või tunduda ebaprofessionaalne.8
 
@@ -153,7 +153,7 @@ Lisaks struktuurile ja toonile sujuvad teatud reeglid professionaalse e-kirjaga 
 | **Vormindamine**   | Kasutage lühikesi lõike, täppe. Kasutage standardseid loetavaid fonte (Arial, Calibri) ja värve (must).  | Kirjutage pikki, tihedaid tekstiplokke. Kasutage mitut fonti/värvi/suurust.                                       |
 | **Manused**  | Mainige kinnitusi kehas. Kaaluge suurte failide linke.                                | Saatke suuri faile ilma hoiatuseta.18 Unustage fail manustada.                                           |
 | **Reply/CC/BCC** | Kasutage Reply-All säästlikult (ainult siis, kui kõik peavad teadma). Kasutage massiliste meilide/privaatsuse jaoks BCC-d.            | Vaikimisi Vasta – kõigile. Avaldage meililoendeid, kasutades BCC asemel CC-d.                                        |
-| **Proülelugemine** | Prolugege iga meili uuesti läbi. Lugege ette.                                                              | Toetuge ainult õigekirjakontrollile. Saatke kirja- või grammatikavigadega e-kirju.                                     |
+| **Korrektuur** | Lugege iga meili uuesti läbi. Lugege ette.                                                              | Toetuge ainult õigekirjakontrollile. Saatke kirja- või grammatikavigadega e-kirju.                                     |
 | **Allkiri**    | Lisage oluline kontaktteave. Hoidke see puhas, lühike ja mobiilisõbralik.                        | Lisage mittevajalikud tsitaadid või suured pildid. Kasutage ebaprofessionaalseid fonte/värve. Unustage allakirjutus.          |
 
 ##

@@ -123,7 +123,7 @@ A mesterséges intelligenciával hajtott műszerfalak, mint például a Duet Mai
 
 Egy mesterséges intelligencia eszköz egyszerű telepítése nem elég. Az előnyök maximalizálása érdekében:
 
-1. **A mesterséges intelligencia képzése:** ProKövetkezetesen küldjön visszajelzést. Javítsa ki a kínos megfogalmazást, fogadja el a jó javaslatokat, és használja a stílusbeállítások bármelyikét. Ha az eszköz lehetővé teszi, adja meg a legjobb írásának mintáit.
+1. **A mesterséges intelligencia képzése:** Következetesen küldjön visszajelzést. Javítsa ki a kínos megfogalmazást, fogadja el a jó javaslatokat, és használja a stílusbeállítások bármelyikét. Ha az eszköz lehetővé teszi, adja meg a legjobb írásának mintáit.
 
 2. **Bízz, de ellenőrizze:** Különösen kezdetben tekintse át a mesterséges intelligencia által generált piszkozatokat küldés előtt. Ellenőrizze a hangszínt, a pontosságot és a kontextust. Az AI erős, de nem tévedhetetlen.
 

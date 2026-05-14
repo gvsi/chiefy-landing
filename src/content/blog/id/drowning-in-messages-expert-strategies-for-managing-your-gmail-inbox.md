@@ -117,7 +117,6 @@ Meskipun bermanfaat, alat-alat ini sering kali mengatasi permasalahan spesifik d
 
 ### Bangkitnya Asisten Email AI: Co-Pilot Cerdas di Kotak Masuk Anda
 
-**Image PlaceholderQuery:** grafik futuristik asisten AI membantu dengan email**Teks ​​Alt:** Grafik abstrak yang menunjukkan AI membantu seseorang mengelola inbox email mereka secara efisien.**Keterangan:** Asisten email AI memanfaatkan teknologi untuk mengotomatisasi dan menyempurnakan manajemen inbox.
 
 Masukkan asisten email AI. Alat-alat ini mewakili evolusi berikutnya dalam pengelolaan email, memanfaatkan AI – khususnya Natural Language Processing (NLP) dan Machine Learning (ML) – untuk mengotomatisasi dan menyempurnakan tugas-tugas yang biasanya memerlukan upaya manual yang signifikan.
 
@@ -151,7 +150,6 @@ Asisten email AI melampaui otomatisasi sederhana; mereka menawarkan kemampuan ce
 
 ### AI Triase & Prioritas: Memotong Kekacauan untuk Menemukan Hal yang Mendesak
 
-**Image PlaceholderQuery:** diagram AI triase email menyortir email penting**Teks ​​Alt:** Diagram menunjukkan bagaimana AI melakukan triase secara otomatis mengurutkan email masuk berdasarkan prioritas.**Keterangan:** AI Triage dengan cerdas menampilkan email mendesak, menghilangkan kebisingan.
 
 **Masalahnya:** Inbox Gmail standar Anda adalah umpan kronologis tempat buletin dan memo yang di-CC bersaing untuk mendapatkan perhatian bersama dengan permintaan klien yang mendesak dan tenggat waktu yang penting. Menyortir arus masuk ini secara manual untuk menemukan apa yang benar-benar membutuhkan perhatian Anda _sekarang_ menghabiskan waktu dan energi mental yang berharga.
 

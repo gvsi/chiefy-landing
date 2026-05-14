@@ -33,7 +33,7 @@ Tænk på **Etiketter** som fleksible, kraftfulde tags, du kan anvende på e-mai
 
 - **Vælg filterhandlinger:** Vælg, hvad der skal ske med matchende e-mails: 'Anvend etiketten:', 'Spring indbakken over (arkiver den)', 'Markér som læst', 'Stjernemarkér den', 'Slet den', 'Send den aldrig til spam', 'Videresend den'.
 
-  - _ProTip:_ At kombinere 'Spring indbakken over' med 'Anvend etiketten' er utrolig kraftfuld til ikke-hasteposter som nyhedsbreve eller meddelelser. De bliver kategoriseret automatisk uden at rode i din primære visning.
+  - _Pro-tip:_ At kombinere 'Spring indbakken over' med 'Anvend etiketten' er utrolig kraftfuld til ikke-hasteposter som nyhedsbreve eller meddelelser. De bliver kategoriseret automatisk uden at rode i din primære visning.
 
 - **Brug avancerede operatører:** Gør filtre mere præcise med søgeoperatorer som **fra:**, **til:**, **emne:**, **har:vedhæftet fil**, **liste:** (til postlister), **ELLER** og **-** (ekskluder term). Eksempel: Filtrer alle interne virksomheds-e-mails _undtagen_ dem fra din direkte leder: **fra:*@dinvirksomhed.com -fra:leder\@dinvirksomhed.com**.
 
@@ -65,7 +65,7 @@ At beherske selv nogle få af disse kan dramatisk fremskynde informationshentnin
 
 Gmail tilbyder flere måder til automatisk at synliggøre, hvad _den synes_ er vigtigt, og hjælper dig med at fokusere. At forstå mulighederne er nøglen:
 
-- **Standardindbakke med faner:** Dette er standardvisningen for mange.Gmail sorterer automatisk e-mails i kategorier som Primær, Social,Probevægelser, opdateringer og fora. Det er enkelt og kræver ingen opsætning, godt til grundlæggende adskillelse af massepost. Men vigtige e-mails kan nogle gange blive fejlarkiveret.
+- **Standardindbakke med faner:** Dette er standardvisningen for mange.Gmail sorterer automatisk e-mails i kategorier som Primær, Social,Promoveringer, opdateringer og fora. Det er enkelt og kræver ingen opsætning, godt til grundlæggende adskillelse af massepost. Men vigtige e-mails kan nogle gange blive fejlarkiveret.
 
 - **Vigtighedsmarkører:** Dette er de gule pilemarkører ved siden af ​​e-mails.Gmail anvender dem automatisk baseret på din adfærd: hvem du ofte sender e-mail til, hvilke e-mails du åbner eller besvarer, nøgleord i e-mails, du læser, og e-mails, du stjernemarkerer eller sletter. Du kan manuelt klikke på markøren for at rette Gmail, hvilket hjælper med at træne dens algoritme over tid.
 
@@ -77,7 +77,7 @@ Gmail tilbyder flere måder til automatisk at synliggøre, hvad _den synes_ er v
 
 | Funktion | Sådan fungerer det | Bedst til | Fordele | Ulemper |
 | ---------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------- |
-| **Standardfaner** | Automatisk sortering i foruddefinerede kategorier (Primær, Social,Probevægelser osv.) | Brugere, der ønsker enkel, automatisk adskillelse | Nul opsætning; reducerer rod i Primær fane | Mindre kontrol; vigtige e-mails kan blive fejlarkiveret; faste kategorier |
+| **Standardfaner** | Automatisk sortering i foruddefinerede kategorier (Primær, Social,Promoveringer osv.) | Brugere, der ønsker enkel, automatisk adskillelse | Nul opsætning; reducerer rod i Primær fane | Mindre kontrol; vigtige e-mails kan blive fejlarkiveret; faste kategorier |
 | **Vigtighedsmarkører** | AI-drevne gule markører baseret på brugeradfærd (åbner, svar, stjerner osv.) | Underbygger prioriteret indbakke; giver visuelle signaler | Lærer brugernes prioriteter; manuelle korrektionstog AI | Effektivitet afhænger af konsekvent brugeradfærd; bare en markør |
 | **Prioriteret indbakke** | Sektioner, der kan tilpasses, ofte ved hjælp af vigtighedsmarkører (f.eks. Vigtigt/Ulæst, Stjernemarkeret) | Brugere, der ønsker fokuseret syn på vigtige e-mails | Tilpasselige sektioner; overflader vigtig post; udnytter AI | Kræver en vis opsætning/tilpasning; er afhængig af nøjagtige markører |
 
@@ -105,7 +105,7 @@ Populariseret af produktivitetsekspert Merlin Mann, handler Inbox Zero ikke udel
 
 **Anvendelse af Inbox Zero i Gmail:**
 
-- **Progang regelmæssigt:** Sæt bestemte tidspunkter af dagligt til at behandle din indbakke (Mann foreslår 3 gange om dagen). Slå notifikationer fra for at undgå konstante afbrydelser.
+- **Behandl regelmæssigt:** Sæt bestemte tidspunkter af dagligt til at behandle din indbakke (Mann foreslår 3 gange om dagen). Slå notifikationer fra for at undgå konstante afbrydelser.
 
 - **Brug handlingerne:**
 
@@ -143,7 +143,7 @@ David Allens GTD-metode er et omfattende system til styring af opgaver og forpli
 
 GTD giver en robust ramme til at sikre, at intet falder igennem, og forvandler e-mails til handlingsrettede opgaver inden for et større produktivitetssystem.
 
-### The Power of BatchProcessing
+### The Power of batchbehandling
 
 I stedet for at reagere på hver indgående e-mail-meddelelse, involverer batchbehandling kontrol og håndtering af e-mail i dedikerede, planlagte tidsblokke. For eksempel kan du tjekke e-mail i 30-60 minutter kl. 10.00, 14.00 og 16.00 og holde den lukket resten af ​​tiden.
 
@@ -153,11 +153,11 @@ I stedet for at reagere på hver indgående e-mail-meddelelse, involverer batchb
 
 - **Forbedret fokus:** Giver mulighed for dybt arbejde med andre opgaver uden konstant træk fra indbakken.
 
-- **Øget effektivitet:**Proat afslutte e-mails i fokuserede bursts er ofte hurtigere end at håndtere dem sporadisk.
+- **Øget effektivitet:**At behandle e-mails i fokuserede bursts er ofte hurtigere end at håndtere dem sporadisk.
 
 - **Reduceret stress:** Skaber en følelse af kontrol og fremskridt frem for konstant reaktivitet.
 
-**Anvender batchProafslutning i Gmail:** Deaktiver e-mailmeddelelser på skrivebordet og mobilen. Planlæg specifikke e-mail-blokke i din kalender og hold dig til dem. I løbet af disse blokke skal du behandle din indbakke systematisk ved hjælp af principper fra Inbox Zero eller GTD.
+**Anvender batchbehandling i Gmail:** Deaktiver e-mailmeddelelser på skrivebordet og mobilen. Planlæg specifikke e-mail-blokke i din kalender og hold dig til dem. I løbet af disse blokke skal du behandle din indbakke systematisk ved hjælp af principper fra Inbox Zero eller GTD.
 
 ### OHIO-princippet (håndter det kun én gang)
 
@@ -189,7 +189,7 @@ Gmail var ikke i sagens natur bygget til komplekst teamsamarbejde eller visuel p
 | ------------------------ | -------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------- |
 | **Opgavestyring** | Gør e-mails til opgaver, link e-mails til opgaver, administrer deadlines fra Gmail. | Enkeltpersoner/teams, der har brug for opgavefokus, GTD-brugere | Todoistfor Gmail, Asana for Gmail | Integrerer problemfrit kommunikation med handlingsrettede opgavelister.     |
 | **CRM** | Se/administrer kontakter, aftaler, pipelines; log e-mails direkte i Gmail.  | Salgsteams, Freelancere, Client Managers | Streak, Copper, HubSpot Sales |Proviser afgørende kundekontekst sammen med e-mails, hvilket sparer tid.     |
-| **Visuelt/Samarbejde** | Tilføj Kanban-tavler, delte indbakker/etiketter, interne noter, teamfunktioner.   | Teams, der har brug for delt adgang, visuelle tænkere | Gmelius,Sortd, ActiveInbox | Forbedrer teamworkflow og visuel organisation inden for Gmails grænser. |
+| **Visuelt/Samarbejde** | Tilføj Kanban-tavler, delte indbakker/etiketter, interne noter, teamfunktioner.   | Teams, der har brug for delt adgang, visuelle tænkere | Gmelius, Sortd, ActiveInbox | Forbedrer teamworkflow og visuel organisation inden for Gmails grænser. |
 
 Eksistensen af disse populære værktøjer fremhæver, hvor native Gmail ofte kommer til kort til professionel brug, især omkring delte arbejdsgange og integration af ekstern kontekst som opgaver eller klientdata. De sigter mod at skabe et mere samlet arbejdsområde, hvilket reducerer produktivitetstabet ved konstant skiftende applikationer.
 
@@ -201,7 +201,7 @@ AI transformerer e-mail-administration med smart triage, opsummering og udkast.
 
 ### Smart triage og prioritering: Lad AI sortere kaosset
 
-Forestil dig en indbakke, der automatisk ved, hvad der haster. AI e-mail-triage bruger teknologier som Natural LanguageProcessing (NLP) og Machine Learning (ML) til at analysere indgående e-mails baseret på indhold, afsenderhistorik, søgeord og dine tidligere interaktioner. Det går langt ud over simple filtre ved at forstå nuancer og kontekst og lære dine prioriteter over tid.
+Forestil dig en indbakke, der automatisk ved, hvad der haster. AI e-mail-triage bruger teknologier som Natural Language Processing (NLP) og Machine Learning (ML) til at analysere indgående e-mails baseret på indhold, afsenderhistorik, søgeord og dine tidligere interaktioner. Det går langt ud over simple filtre ved at forstå nuancer og kontekst og lære dine prioriteter over tid.
 
 **Fordele:** Reducerer drastisk manuel sorteringstid, viser kritiske meddelelser, der kan blive begravet, minimerer forstyrrelser fra lavprioritet post og bekæmper beslutningstræthed ved at foretage den indledende "vigtig/ikke vigtig" vurdering for dig. Værktøjer som [**SaneBox**](https://www.sanebox.com/) og [**Superhuman**](https://superhuman.com/) er kendt for deres AI-drevne sorteringsmuligheder.
 
@@ -221,7 +221,7 @@ At skrive e-mails, især rutinemæssige, bruger en betydelig del af tiden. AI-te
 
 **Fordele:** Dette accelererer svartiderne dramatisk, sikrer professionel og konsistent kommunikation og frigør dig fra det mentale dræn ved at skrive lignende beskeder gentagne gange. Mange værktøjer tilbyder dette, lige fra almindelige AI-skribenter som [**ComposeIt**](https://www.scribowriter.com/post/best-ai-email-assistant) til integrerede assistenter i [**Superhuman**](https://superhuman.com/) eller [**Gemini for Google Workspace**](https://workspace.google.com/solutions/ai/).
 
-Det tager tid at lave personlige svar. AI-tegnere kan fremskynde dette, men at lyde autentisk er nøglen.Duet Mail s Autentiske AI Drafting lærer dit specifikke ordforråd og din tone fra tidligere e-mails, og foreslår svar, der virkelig lyder som dig, vedligeholder relationer, mens du sparer timer.
+Det tager tid at lave personlige svar. AI-tegnere kan fremskynde dette, men at lyde autentisk er nøglen. Duet Mail s Autentiske AI Drafting lærer dit specifikke ordforråd og din tone fra tidligere e-mails, og foreslår svar, der virkelig lyder som dig, vedligeholder relationer, mens du sparer timer.
 
 AI repræsenterer et grundlæggende skift fra at _administrere_ e-mails til at _augmentere_ de involverede kognitive opgaver – at forstå, prioritere, opsummere og kommunikere. Nøglen er at finde AI-værktøjer, der lærer _dine_ specifikke behov og stil, og tilbyder personlig assistance, der føles naturlig og troværdig.
 
@@ -243,7 +243,7 @@ Sandheden er, **der er ikke noget enkelt rigtigt svar.** Det bedste Gmail organi
 
 1. **Byg fundamentet:** Mester Gmails oprindelige etiketter, filtre og søgning. Dette er ikke til forhandling.
 
-2. **Vælg en metode:** Eksperimenter med en metode som BatchProcessing eller Inbox Zero i en uge. Se hvordan det føles.
+2. **Vælg en metode:** Eksperimenter med en metode som batchbehandling eller Inbox Zero i en uge. Se hvordan det føles.
 
 3. **Identificer flaskehalse:** Hvor taber du mest tid? Er det sortering? Svarer du? Finder du info? Sporingsopgaver?
 

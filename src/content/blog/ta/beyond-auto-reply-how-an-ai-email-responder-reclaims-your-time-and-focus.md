@@ -19,7 +19,7 @@ draft: false
 
 இது வெறும் எரிச்சல் அல்ல; இது ஒரு பெரிய உற்பத்தித்திறன் வடிகால் மற்றும் மன அழுத்தத்தின் குறிப்பிடத்தக்க ஆதாரமாகும். [**67% மக்கள் தங்கள் இன்பாக்ஸ்**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html) மூலம் அதிகமாக உணர்கிறார்கள் என்றும், தொடர்ந்து ஏற்படும் குறுக்கீடுகள் கவனம் செலுத்துவதை கடினமாக்குகிறது என்றும், மின்னஞ்சலைச் சரிபார்த்த பிறகு சராசரியாக[**23 நிமிடங்கள்**](https://ppm.express/blog/checking-emails/) செறிவை மீட்டெடுக்கிறது என்றும் ஆய்வுகள் காட்டுகின்றன.
 
-![Infographic showing key statistics about email overload, including average emails per day, time spent managing email, and percentage of workers feeling overwhelmed](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+![ஒரு நாளில் வரும் சராசரி மின்னஞ்சல்கள், மின்னஞ்சல் நிர்வகிக்க செலவிடும் நேரம் மற்றும் அதிக அழுத்தம் உணரும் பணியாளர்களின் சதவீதம் உள்ளிட்ட email overload பற்றிய முக்கிய புள்ளிவிவரங்களை காட்டும் infographic](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 Gmail அல்லது Outlook இல் கட்டமைக்கப்பட்டவை போன்ற பாரம்பரிய தானியங்கு பதிலளிப்பாளர்கள் இந்த யதார்த்தத்திற்காக ஒருபோதும் வடிவமைக்கப்படவில்லை. அவற்றின் வரம்புகள் தெளிவாக உள்ளன:
 
@@ -114,7 +114,7 @@ AI மின்னஞ்சல் உதவியாளர்களுக்க�
 
 - **விலை நிர்ணயம்:** சாத்தியமான நேரச் சேமிப்பு மற்றும் உற்பத்தித்திறன் ஆதாயங்களுடன் செலவு பொருந்துகிறதா? (செயலாக்கப்படும் 1000 மின்னஞ்சல்களுக்கு [**2 FTEகளின் செலவைச் சேமிக்கும்**](https://emailtree.ai/) என்ற EmailTree.ai இன் கூற்று போன்ற ROI மதிப்பீடுகளைக் கவனியுங்கள்).
 
-![Screenshot of the Duet Mail Focused Dashboard showing prioritized emails categorized by Action Needed and Decisions Needed](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+![Action Needed மற்றும் Decisions Needed என வகைப்படுத்தப்பட்ட முன்னுரிமை மின்னஞ்சல்களை காட்டும் Duet Mail Focused Dashboard ஸ்கிரீன்ஷாட்](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 AI-இயங்கும் டாஷ்போர்டுகள், Duet Mail இன் இந்த உதாரணம், முன்னுரிமை மின்னஞ்சல்களின் தெளிவான பார்வையை வழங்குகிறது, வரிசைப்படுத்தும் நேரத்தை வெகுவாகக் குறைக்கிறது
 

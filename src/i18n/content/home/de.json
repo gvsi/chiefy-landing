@@ -42,7 +42,7 @@
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Betreff:Product Launch Timeline",
+        "subject": "Betreff: Product Launch Timeline",
         "preview": "Hey! Wollte mir die Startressourcen ansehen. Sind wir für nächste Woche noch auf dem richtigen Weg?",
         "pill": "Um zu antworten"
       },
@@ -63,7 +63,7 @@
         "from": "Shopify",
         "avatarLetter": "S",
         "subject": "Ihr Shop ist bereit für den Black Friday",
-        "pill": "ProAnträge"
+        "pill": "Werbung"
       }
     ],
     "autodraft": "Hallo Alex! Ja, wir sind auf dem richtigen Weg. Das Designteam hat gestern die Assets fertiggestellt und ich werde die endgültigen Dateien heute per EOD senden."
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligente Erinnerungen",
-        "description": "Stellen Sie es ein und vergessen Sie es.Duet AI erinnert sich daran, nachzufassen, wenn andere nicht antworten, sodass nichts durchs Raster fällt.",
+        "description": "Stellen Sie es ein und vergessen Sie es. Duet AI erinnert sich daran, nachzufassen, wenn andere nicht antworten, sodass nichts durchs Raster fällt.",
         "ariaLabel": "Intelligente Erinnerungen",
         "mockCopy": {
           "header": "KI-gestützte intelligente Erinnerungen",
@@ -142,7 +142,7 @@
               "time": "Vor 2 Tagen"
             },
             {
-              "title": "ProProjektintegration",
+              "title": "Projektintegration",
               "time": "Vor 12 Stunden"
             }
           ],
@@ -203,12 +203,12 @@
       {
         "from": "Stripe",
         "subject": "Ihre monatliche Abrechnung ist fertig",
-        "pill": "ProAnträge"
+        "pill": "Werbung"
       },
       {
         "from": "Newsletter",
         "subject": "Wöchentliche Übersicht",
-        "pill": "ProAnträge"
+        "pill": "Werbung"
       }
     ]
   },
@@ -275,7 +275,7 @@
     ],
     "inputPlaceholder": "Fragen Sie alles...",
     "dynamicResponses": {
-      "processingDefault": "Prowird verarbeitet...",
+      "processingDefault": "Wird verarbeitet...",
       "processingDraft": "Entwurf wird erstellt...",
       "processingCalendar": "Verfügbarkeit prüfen...",
       "draftIntro": "Hier ist ein Antwortentwurf zur Buchhaltung:",
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Berater",
-        "quote": "Als Berater zählt jede Minute.Duet Mail spart mir nicht nur Zeit – es macht meine E-Mail-Kommunikation besser.",
+        "quote": "Als Berater zählt jede Minute. Duet Mail spart mir nicht nur Zeit – es macht meine E-Mail-Kommunikation besser.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -450,7 +450,7 @@
         "perUser": true,
         "features": [
           {
-            "title": "Alles inPro",
+            "title": "Alles in Pro",
             "description": "Alle Funktionen inklusive"
           },
           {
@@ -651,7 +651,7 @@
         "description": "Kostenloser Plan mit sofortigen Zusammenfassungen, KI-Entwürfen und intelligentem Posteingang"
       },
       {
-        "name": "ProPlanen",
+        "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONAT",

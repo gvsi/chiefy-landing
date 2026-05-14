@@ -93,7 +93,7 @@
       "avatarLetter": "D",
       "avatarColor": "lavender",
       "subject": "Sommerudsalg — 25 % rabat på våddragter",
-      "pill": "Probevægelser",
+      "pill": "Kampagner",
       "pillColor": "lavender"
     }
   ],
@@ -127,13 +127,13 @@
     {
       "name": "Kaptajn Mike T.",
       "title": "Dive Boat Captain, FL",
-      "quote": "Jeg kører bådture fredag til søndag, og butikken er kun åben et par timer om mandagen. Certificeringsspørgsmål og rejseforespørgsler hober sig op, mens jeg er under vandet.Duet udkast til svar med mine priser, dykkersteder og hvad der er inkluderet - jeg gennemgår dem mellem dykkene.",
+      "quote": "Jeg kører bådture fredag til søndag, og butikken er kun åben et par timer om mandagen. Certificeringsspørgsmål og rejseforespørgsler hober sig op, mens jeg er under vandet. Duet udkast til svar med mine priser, dykkersteder og hvad der er inkluderet - jeg gennemgår dem mellem dykkene.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen og Mark S.",
       "title": "PADI dykkercenter, HI",
-      "quote": "Vi kører dyk, snorkelture og hvalture fra de samme både. E-mail-varianten er sindssyg - certifikatspørgsmål, gruppereservationer, leje af udstyr, vejrtjek.Duet sorterer det hele og udarbejder svar, der kender forskel. Absolut livredder.",
+      "quote": "Vi kører dyk, snorkelture og hvalture fra de samme både. E-mail-varianten er sindssyg - certifikatspørgsmål, gruppereservationer, leje af udstyr, vejrtjek. Duet sorterer det hele og udarbejder svar, der kender forskel. Absolut livredder.",
       "avatarKey": "jennifer"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Sarah K.",
       "title": "Dykkerinstruktør og guide, NC",
-      "quote": "Jeg underviser i kurser om morgenen og guider dyk om eftermiddagen. Der er bogstaveligt talt ikke tid til at besvare e-mail.Duet lærte min kursusplan, priser og endda min afbestillingspolitik. Kunder kan ikke se forskel.",
+      "quote": "Jeg underviser i kurser om morgenen og guider dyk om eftermiddagen. Der er bogstaveligt talt ikke tid til at besvare e-mail. Duet lærte min kursusplan, priser og endda min afbestillingspolitik. Kunder kan ikke se forskel.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet fungerer med Gmail og Outlook, så det fungerer overalt, hvor din e-mail fungerer - inklusive din telefon. Kladder vises automatisk i din indbakke. Mellem dyk eller tilbage ved kajen gennemgår og sender du med et enkelt tryk. De fleste dykkeroperatører fortæller os, at det sparer dem 1-2 timers e-mail-tid om dagen i højsæsonen."
     }
   ],
-  "pricingNote": "For $150/dyk med en gruppe på 6, betaler én gemt tur for over et år påPro."
+  "pricingNote": "For $150/dyk med en gruppe på 6, betaler én gemt tur for over et år på Pro."
 }

@@ -93,7 +93,7 @@ Iespēja, ka AI apkopo jūsu e-pastus, izklausās lieliski, taču kā jebkurai t
 
 - **Vispārīgs rezultāts:** AI ģenerēti kopsavilkumi un īpaši AI rakstītas atbildes reizēm var skanēt robotiski vai bez personalizācijas, kas vajadzīga efektīvai saziņai, kā norādīts [dažās analīzēs](https://originality.ai/blog/what-is-gemini-in-gmail).
 
-- **Privātuma bažas:** Lai gan Google uzsver datu drošību Workspace vidē, process nozīmē, ka AI analizē jūsu e-pasta saturu. Daļa lietotāju joprojām ir piesardzīgi par datu apstrādi, glabāšanu (pārskatīti dati var tikt glabāti gadiem) un iespējamu [neparedzētu piekļuvi datiem](https://mashable.com/article/google-gemini-privacy-concerns), neraugoties uz Google solījumiem.
+- **Privātuma bažas:** Lai gan Google uzsver datu drošību Workspace vidē, process nozīmē, ka AI analizē jūsu e-pasta saturu. Daļa lietotāju joprojām ir piesardzīgi par datu apstrādi, glabāšanu (pārskatīti dati var tikt glabāti gadiem) un iespējamu [neparedzētu piekļuvi datiem](https://mashable.com/article/google-gemini-privacy-concerns), neraugoties uz Googleolījumiem.
 
 - **Ierobežota kontrole un pielāgošana:** Parasti nevar precīzi noregulēt, *kā* Gmail veido kopsavilkumu, piemēram, tā garumu vai fokusu. Turklāt pogas "Summarize" atspējošana bieži prasa izslēgt [plašākas "viedās funkcijas"](https://ca.news.yahoo.com/latest-gmail-includes-1-risky-221406536.html), kas var noņemt arī citas jums noderīgas iespējas.
 

@@ -93,7 +93,7 @@
       "avatarLetter": "W",
       "avatarColor": "lavender",
       "subject": "Vårsalg - 20 % rabatt på utstyr",
-      "pill": "Probevegelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -127,13 +127,13 @@
     {
       "name": "Kaptein Mike D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "I høysesongen ville jeg mistet 2-3 bestillinger i uken bare fordi jeg ikke kunne svare raskt nok fra båten.Duet lager utkast til svar med mine priser og reisedetaljer – jeg trykker bare på send mellom fangstene.",
+      "quote": "I høysesongen ville jeg mistet 2-3 bestillinger i uken bare fordi jeg ikke kunne svare raskt nok fra båten. Duet lager utkast til svar med mine priser og reisedetaljer – jeg trykker bare på send mellom fangstene.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah og Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "Vi kjører to båter og e-postvolumet om sommeren er vanvittig.Duet sorterer bestillingsforespørsler fra alt annet og utkast til svar som høres ut akkurat som oss. Absolutt game changer.",
+      "quote": "Vi kjører to båter og e-postvolumet om sommeren er vanvittig. Duet sorterer bestillingsforespørsler fra alt annet og utkast til svar som høres ut akkurat som oss. Absolutt game changer.",
       "avatarKey": "sarah"
     },
     {
@@ -145,7 +145,7 @@
     {
       "name": "Lisa M.",
       "title": "Charter Office Manager, HI",
-      "quote": "Å administrere e-post for 4 kapteiner var en fulltidsjobb.Duet kategoriserer alt og utarbeider svar med rett båt, rett pris, rett kaptein. Det er som å ha en annen meg.",
+      "quote": "Å administrere e-post for 4 kapteiner var en fulltidsjobb. Duet kategoriserer alt og utarbeider svar med rett båt, rett pris, rett kaptein. Det er som å ha en annen meg.",
       "avatarKey": "jennifer"
     },
     {
@@ -160,12 +160,12 @@
   "verticalFaqs": [
     {
       "question": "Fungerer Duet for e-poster om bestilling og tilgjengelighet?",
-      "answer": "Absolutt.Duet lærer reisetyper, priser, tilgjengelighet og retningslinjer. Når en bestillingsforespørsel kommer inn, utarbeider den et komplett svar med de riktige detaljene – priser, hva som er inkludert, møtested, hva du skal ta med. Du anmelder og trykker på send."
+      "answer": "Absolutt. Duet lærer reisetyper, priser, tilgjengelighet og retningslinjer. Når en bestillingsforespørsel kommer inn, utarbeider den et komplett svar med de riktige detaljene – priser, hva som er inkludert, møtested, hva du skal ta med. Du anmelder og trykker på send."
     },
     {
       "question": "Jeg er på vannet hele dagen. Kan jeg bruke Duet fra telefonen min?",
       "answer": "Ja. Duet fungerer med Gmail og Outlook, så det fungerer uansett hvor e-posten din fungerer – inkludert telefonen. Utkast vises automatisk. Mellom fangstene gjennomgår og sender du med ett trykk. De fleste kapteiner forteller oss at det sparer dem 1-2 timer med e-posttid per dag i høysesongen."
     }
   ],
-  "pricingNote": "For $500/charter betaler én lagret bestilling for over ett år medPro."
+  "pricingNote": "For $500/charter betaler én lagret bestilling for over ett år med Pro."
 }

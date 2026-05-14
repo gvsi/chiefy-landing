@@ -21,7 +21,7 @@ draft: false
 
 இழந்த நேரத்தைத் தாண்டி தாக்கம் நீடிக்கிறது. மின்னஞ்சல் ஓவர்லோட் தொடர்ந்து அதிகரித்த மன அழுத்தம், பதட்டம் மற்றும் சோர்வு ஆகியவற்றுடன் இணைக்கப்பட்டுள்ளது. [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) மேற்கோள் காட்டப்பட்ட ஒரு கணக்கெடுப்பில், [66% அமெரிக்கர்கள் தாங்கள் பெறும் மின்னஞ்சலின் சுத்த அளவு காரணமாக அழுத்தமாக இருப்பதாக](https://inboxdone.com/psychology-of-email-overload/) தெரிவிக்கின்றனர். இந்த நிலையான அழுத்தம் முடிவெடுக்கும் சோர்வுக்கு பங்களிக்கிறது மற்றும் வேலை திருப்தியை எதிர்மறையாக பாதிக்கலாம், இது மூலோபாய, உயர் மதிப்பு வேலைகளில் கவனம் செலுத்துவதை கடினமாக்குகிறது.
 
-![Infographic showing statistics about daily email volume and time spent managing email](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+![தினசரி email volume மற்றும் email நிர்வகிக்க செலவிடும் நேரம் பற்றிய புள்ளிவிவரங்களை காட்டும் infographic](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
 சராசரி தொழில் வல்லுநர் தினசரி 120 மின்னஞ்சல்களைப் பெறுகிறார், மதிப்புமிக்க வேலை நேரத்தை செலவிடுகிறார்.
 

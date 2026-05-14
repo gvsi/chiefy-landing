@@ -242,7 +242,7 @@
       "tooltipTitle": "Personalizirani nacrt",
       "tooltipFeatures": [
         "Poznaje vaš kalendar",
-        "Propuh u tvom glasu",
+        "Nacrt u vašem tonu",
         "Poznaje kontekst kroz pamćenje",
         "Uči s vremenom"
       ]
@@ -544,7 +544,7 @@
             "href": "/hr#intelligence"
           },
           {
-            "label": "Chrome Proširenje",
+            "label": "Chrome proširenje",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }

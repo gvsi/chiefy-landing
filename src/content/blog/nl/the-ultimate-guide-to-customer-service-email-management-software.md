@@ -65,7 +65,7 @@ Hun belangrijkste voordeel ligt in het brengen van structuur in de chaos. De bel
 
 - **Samenwerkingstools:** Met functies zoals interne notities op tickets kunnen agenten informatie delen en samenwerken aan oplossingen.
 
-- **Rapportage:**Probevat basisanalyses over ticketvolume, responstijden en andere KPI's.
+- **Rapportage:**Bevat basisanalyses over ticketvolume, responstijden en andere KPI's.
 
 Hoewel het een aanzienlijke verbetering is ten opzichte van gedeelde inboxen, zijn traditionele helpdesks geen wondermiddel. Ze vereisen vaak nog steeds aanzienlijke handmatige inspanningen, hebben mogelijk een steilere leercurve en bijbehorende trainingskosten, en kunnen duurder zijn. Cruciaal is dat ze zonder meer geavanceerde functies de spanning tussen het leveren van snelle antwoorden en gepersonaliseerde interacties mogelijk niet volledig kunnen oplossen.
 
@@ -139,7 +139,7 @@ Efficiënt teamwerk is cruciaal. Zoek naar functies waarmee agenten soepel kunne
 
 - **Taaktoewijzing:** Subtaken maken die verband houden met een e-mail en deze toewijzen aan specifieke teamleden.
 
-### AI voor AgentProductiviteit en verbeterde kwaliteit
+### AI voor agentproductiviteit en verbeterde kwaliteit
 
 AI automatiseert niet alleen taken; het helpt agenten actief slimmer te werken en service van hogere kwaliteit te leveren.
 
@@ -184,7 +184,7 @@ Het kiezen van de juiste software is slechts het halve werk. Hoe u het implement
 
 - **Organiseer meedogenloos:** Implementeer een duidelijk en consistent systeem voor het taggen, categoriseren en prioriteren van e-mails of tickets. Gebruik mappen, aangepaste weergaven of dashboards om agenten te helpen hun specifieke workflows effectief te beheren.
 
-- **Maak uw agenten sterker:**Proper training over de software en gevestigde processen is cruciaal. Zorg ervoor dat agenten eenvoudig toegang hebben tot de klantgeschiedenis en context. Stimuleer een samenwerkingsomgeving waarin het vragen om hulp wordt aangemoedigd. En vergeet niet hun inspanningen te erkennen en te waarderen, aangezien ondersteunende functies veeleisend kunnen zijn.
+- **Maak uw agenten sterker:**Goede training over de software en gevestigde processen is cruciaal. Zorg ervoor dat agenten eenvoudig toegang hebben tot de klantgeschiedenis en context. Stimuleer een samenwerkingsomgeving waarin het vragen om hulp wordt aangemoedigd. En vergeet niet hun inspanningen te erkennen en te waarderen, aangezien ondersteunende functies veeleisend kunnen zijn.
 
 - **Behandel klachten met gratie:** Omgaan met gefrustreerde klanten is onvermijdelijk. Train uw team in de-escalatietechnieken. Benadruk actief luisteren, oprechte empathie, oprechte excuses wanneer dit gerechtvaardigd is, en een laserfocus op het oplossen van het onderliggende probleem. Gebruik negatieve feedback constructief als een kans om processen of producten te verbeteren.
 

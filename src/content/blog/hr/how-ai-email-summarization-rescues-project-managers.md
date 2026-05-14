@@ -68,7 +68,6 @@ Zamislite da nosite digitalni highlighter u svoju nit e-pošte. Ekstraktivno sa�
 
 - **Primjer za PM-ove:** Sažimajući nit o kritičnom ispravku pogreške, ekstraktivni sažetak može izvući rečenice poput: "Korisnik je prijavio kritičnu pogrešku 'LoginFail' koja utječe na sve korisnike u EU-u.", "Razvojni tim je potvrdio da je temeljni uzrok ažuriranje autentifikacijskog modula od utorka.", i "Zakrpa hitnog popravka zakazana je za implementaciju u petak u 17:00 CET."
 
-\[Placeholder for Image: Dijagram koji uspoređuje ekstraktivno i apstraktivno sažimanje] Ekstraktivno sažimanje izravno izvlači ključne rečenice, dok apstraktno sažimanje razumije sadržaj i stvara novi, sažeti pregled.
 
 **Apstraktno sažimanje:**\
 Ova je metoda sofisticiranija i ima za cilj oponašati način na koji bi čovjek sažeo. AI prvo čita i razumije _značenje_ cijelog razgovora ili dokumenta. Zatim generira _nove_ rečenice, koristeći vlastite riječi, kako bi sažeto obuhvatio srž suštine. To često uključuje napredne AI modele poput onih iza ChatGPT-a ili Google Geminija, koji mogu parafrazirati, kombinirati ideje i sintetizirati informacije.

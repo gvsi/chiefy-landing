@@ -23,9 +23,9 @@ Hvorfor dedikere kostbar tid til dette lille rum? Fordelene er betydelige:
 
 - **Tillid og troværdighed:** Inkludering af kontaktoplysninger og links til politikker viser gennemsigtighed og opbygger tillid hos dit publikum.
 
-- **Engagement og navigation:**Progiv nem adgang til sociale medieprofiler, webstedslinks, præferencecentre eller endda sekundære opfordringer til handling (som at downloade en app).
+- **Engagement og navigation:**Giv nem adgang til sociale medieprofiler, webstedslinks, præferencecentre eller endda sekundære opfordringer til handling (som at downloade en app).
 
-- **Leverbarhed:**Properly-formaterede sidefødder med nødvendige elementer hjælper med at signalere til e-mail-klienter (som Gmail,Outlook), at dine e-mails ikke er spam.
+- **Leverbarhed:**Korrekt formaterede sidefødder med nødvendige elementer hjælper med at signalere til e-mail-klienter (som Gmail, Outlook), at dine e-mails ikke er spam.
 
 ## Must-Haves: essentielle elementer til hver e-mail-sidefod
 
@@ -70,7 +70,7 @@ Brug dit brands logo, farvepalet og skrifttyper (hold dig til websikre skrifttyp
 
 ### Sikre læsbarhed og tilgængelighed
 
-Brug højkontrastfarver mellem tekst og baggrund, især for lille juridisk tekst. Brug semantisk HTML (som **\<p>** til afsnit) til at hjælpe skærmlæsere.Provis beskrivende alt-tekst for alle brugte billeder (som logoer eller sociale ikoner).
+Brug højkontrastfarver mellem tekst og baggrund, især for lille juridisk tekst. Brug semantisk HTML (som **\<p>** til afsnit) til at hjælpe skærmlæsere. vis beskrivende alt-tekst for alle brugte billeder (som logoer eller sociale ikoner).
 
 ## Navigering i Legalese:CAN-SPAM,GDPRogCASL
 

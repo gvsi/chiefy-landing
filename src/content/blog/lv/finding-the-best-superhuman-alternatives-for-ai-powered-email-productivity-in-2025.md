@@ -80,7 +80,7 @@ Tirgus ir pilns ar inovatīviem e-pasta klientiem, kas izmanto mākslīgo intele
 
 - **Cena un auditorija:** Piedāvā stabilu [bezmaksas līmeni](https://sparkmailapp.com/pricing). Premium plāni sākas no aptuveni 4,99 USD mēnesī individuāliem lietotājiem un 6,99 USD/lietotājs/mēnesī komandām (rēķins tiek aprēķināts katru gadu). Tas ir lieliski piemērots komandām, kurām nepieciešama sadarbība, budžeta ziņā apzinīgiem lietotājiem un lietotājiem vairākās platformās, tostarp Android.
 
-— **Pro priekšrocības un mīnusi:** Spēcīgs starpplatformu atbalsts un izcili sadarbības rīki ir galvenās priekšrocības. Tomēr pielāgošanas iespējas var šķist ierobežotas, salīdzinot ar Superhuman, un jaudīgākajām mākslīgā intelekta/komandas funkcijām ir nepieciešams maksas abonements.75
+— **Priekšrocības un mīnusi:** Spēcīgs starpplatformu atbalsts un izcili sadarbības rīki ir galvenās priekšrocības. Tomēr pielāgošanas iespējas var šķist ierobežotas, salīdzinot ar Superhuman, un jaudīgākajām mākslīgā intelekta/komandas funkcijām ir nepieciešams maksas abonements.75
 
 ### **Īsviļņi: Mākslīgā intelekta vadīts organizācijas meistars**
 
@@ -92,7 +92,7 @@ Tirgus ir pilns ar inovatīviem e-pasta klientiem, kas izmanto mākslīgo intele
 
 - **Cena un auditorija:** Piedāvā funkcionālu [bezmaksas līmeni](https://www.shortwave.com/pricing/). Pro plāns sākas no 14 USD/vieta/mēnesī (rēķins tiek aprēķināts katru gadu). Ideāli piemērots Gmail pieredzējušiem lietotājiem un komandām, kas meklē uzlabotu mākslīgā intelekta vadītu organizāciju un atlasi.
 
-— **Pro priekšrocības un trūkumi:** Lielisks mākslīgais intelekts iesūtnes organizēšanai un apkopošanai, kā arī noderīgs bezmaksas plāns. Galvenie ierobežojumi ir saderība tikai ar Gmail un fakts, ka tā darbvirsmas versija ir Progresīva tīmekļa lietotne (PWA), nevis vietējā lietojumprogramma. Daži lietotāji arī norāda, ka mākslīgajam intelektam dažkārt ir nepieciešama verifikācija.
+— **Priekšrocības un trūkumi:** Lielisks mākslīgais intelekts iesūtnes organizēšanai un apkopošanai, kā arī noderīgs bezmaksas plāns. Galvenie ierobežojumi ir saderība tikai ar Gmail un fakts, ka tā darbvirsmas versija ir Progresīva tīmekļa lietotne (PWA), nevis vietējā lietojumprogramma. Daži lietotāji arī norāda, ka mākslīgajam intelektam dažkārt ir nepieciešama verifikācija.
 
 ### **Canary Mail: drošība satiekas ar mākslīgā intelekta viedumu**
 
@@ -104,7 +104,7 @@ Tirgus ir pilns ar inovatīviem e-pasta klientiem, kas izmanto mākslīgo intele
 
 - **Cena un auditorija:** Piedāvā [bezmaksas izmēģinājuma versiju](https://canarymail.io/pricing), ar maksas plāniem, sākot no aptuveni 3 USD mēnesī (36 USD gadā). Ļoti pievilcīgs privātuma apzinīgām personām un komandām, tostarp regulētās nozarēs strādājošajiem, kuri vēlas arī mākslīgā intelekta palīdzību par augstu cenu.
 
-- **Pro priekšrocības un trūkumi:** Spēcīgas drošības funkcijas apvienojumā ar noderīgu mākslīgo intelektu par pieņemamu cenu ir būtiska priekšrocība, kā arī plašs platformas atbalsts. Daži lietotāji saskarni uzskata par līdzīgu Apple Mail un atzīmē mazāk pielāgošanas iespēju salīdzinājumā ar konkurentiem.
+- **Priekšrocības un trūkumi:** Spēcīgas drošības funkcijas apvienojumā ar noderīgu mākslīgo intelektu par pieņemamu cenu ir būtiska priekšrocība, kā arī plašs platformas atbalsts. Daži lietotāji saskarni uzskata par līdzīgu Apple Mail un atzīmē mazāk pielāgošanas iespēju salīdzinājumā ar konkurentiem.
 
 ### **Salīdzināšanas tabula: Supercilvēks salīdzinājumā ar labākajām mākslīgā intelekta alternatīvām**
 
@@ -112,7 +112,7 @@ Tirgus ir pilns ar inovatīviem e-pasta klientiem, kas izmanto mākslīgo intele
 | ------------------------ | ------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | **Galvenā uzmanība** | Ātrums, tastatūras darbplūsma, augstākās klases pieredze | Sadarbība, viedā iesūtne, AI rakstīšana | AI organizēšana, triāža, Gmail uzlabojumi | Drošība, privātums, AI palīdzība |
 | **AI Triage/Prioritāte** | Dalīta iesūtne, automātiskās etiķetes | Viedā iesūtne, prioritārā kārtošana | Grupas, AI organizācija, Dalīta iesūtne | Viedā kārtošana, prioritārie ieskati |
-| **AI rakstīšanas stils** | Iemācās lietotāja balsi, koncentrējas | Elastīgs Prompts, toņa pielāgošana | Iemācās lietotāja balsi, automātiskā pabeigšana | AI kopilota rakstīšana/Prolasīšana |
+| **AI rakstīšanas stils** | Iemācās lietotāja balsi, koncentrējas | Elastīgs prompts, toņa pielāgošana | Iemācās lietotāja balsi, automātiskā pabeigšana | AI kopilota rakstīšana/korektūra |
 | **AI apkopojums** | Jā (automātiska apkopošana) | Jā (apkopošana) | Jā (tūlītējas apkopošanas) | Jā (AI apkopojumi) |
 | **Sadarbības fokuss** | Vidējs (komandas fragmenti, koplietotas tēmas) | Augsts (koplietoti melnraksti/komentāri, deleģēšana) | Vidējs (komentāri, piešķiršana - apmaksāta) | Zems (individuāla/komandas lietošana, mazāk sadarbības fokusa) |
 | **Galvenās integrācijas** | Hubspot, Salesforce | [Asana](https://asana.com/),Trello, [Dropbox](https://www.dropbox.com/) u. c. | [Google Kalendārs](https://calendar.google.com/), [Zapier](https://zapier.com/) (uzņēmums) | Pamata kalendārs |

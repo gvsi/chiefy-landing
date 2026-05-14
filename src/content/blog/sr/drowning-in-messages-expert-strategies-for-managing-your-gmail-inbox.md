@@ -116,7 +116,6 @@ Iako su korisni, ovi alati se često bave specifičnim bolnim tačkama, a ne hol
 
 ### Uspon AI pomoćnika za e-poštu: inteligentni ko-pilot vašeg prijemnog sandučeta
 
-**Upit za čuvanje mesta slike:**futuristička grafika AI pomoćnik koji pomaže u vezi e-pošte**Alt Tekt:**Apstraktna grafika koja prikazuje AI koja pomaže osobi da efikasno upravlja svojim prijemnim sandučetom.**Natpis:**AI pomaže u automatizaciji upravljanja e-poštom i unapređuje tehnologiju pomoćnika za upravljanje e-poštom.
 
 Unesite pomoćnika za e-poštu AI. Ovi alati predstavljaju sledeću evoluciju u upravljanju e-poštom, koristeći veštačku inteligenciju – posebno korišćenje prirodnog jezika Pro (NLP) i mašinskog učenja (ML) – za automatizaciju i poboljšanje zadataka koji su tradicionalno zahtevali značajan ručni napor.
 
@@ -150,7 +149,6 @@ AI pomoćnici za e-poštu prevazilaze jednostavnu automatizaciju; oni nude intel
 
 ### AI Trijaža i određivanje prioriteta: Prekidanje nereda da biste pronašli ono što je hitno
 
-**Image PlaceholderKueri:**dijagram AI trijaža e-pošte sortiranje važnih e-poruka**Alt Tekt:**Dijagram koji pokazuje kako AI trijaža automatski sortira dolazne e-poruke po prioritetu.**Natpis:**AI AI Trijaža inteligentno seče kroz površinu e-pošte.
 
 **Problem Pro:**Vaše standardno Gmail prijemno sanduče je hronološki fid gde se bilteni i beleške sa CC nadmeću za pažnju pored hitnih zahteva klijenata i kritičnih rokova. Ručno sortiranje ovog priliva da biste pronašli ono što zaista zahteva vašu pažnju _sada_ troši dragoceno vreme i mentalnu energiju.
 
@@ -178,7 +176,7 @@ AI pomoćnici za e-poštu prevazilaze jednostavnu automatizaciju; oni nude intel
 
 ### Isečak pitanja i odgovora: „Kako AI pomaže da se odredi prioritet e-pošte?“
 
-AI daje prioritet e-pošti kombinujući razumevanje jezika sa prepoznavanjem obrazaca. Koristi **prirodni jezik Processing (NLP)**za analizu _sadržaja_ svake e-pošte – identifikujući ključne reči koje signaliziraju hitnost („ASAP“, „krajnji rok se približava“), zahteve za radnju ili odluke, pitanja, pa čak i osećanja pošiljaoca u žalbi korisnika (poput fru žalbi). Istovremeno, koristi **Mašinsko učenje (ML)**da bi naučio _vaše_ specifične prioritete na osnovu vašeg prethodnog ponašanja – na koje pošiljaoce brzo odgovarate, sa kojim tipovima e-poruka najviše komunicirate i kako ručno kategorizujete poruke.
+AI daje prioritet e-pošti kombinujući razumevanje jezika sa prepoznavanjem obrazaca. Koristi **obradu prirodnog jezika (NLP)**za analizu _sadržaja_ svake e-pošte – identifikujući ključne reči koje signaliziraju hitnost („ASAP“, „krajnji rok se približava“), zahteve za radnju ili odluke, pitanja, pa čak i osećanja pošiljaoca u žalbi korisnika (poput fru žalbi). Istovremeno, koristi **Mašinsko učenje (ML)**da bi naučio _vaše_ specifične prioritete na osnovu vašeg prethodnog ponašanja – na koje pošiljaoce brzo odgovarate, sa kojim tipovima e-poruka najviše komunicirate i kako ručno kategorizujete poruke.
 
 Kombinovanjem analize sadržaja sa naučenim korisničkim obrascima, AI dodeljuje ocenu prioriteta ili kategoriju svakoj dolaznoj e-poruci. Ovo mu omogućava da automatski prikaže poruke koje verovatno zahtevaju vašu hitnu pažnju, odvajajući ih od stavki nižeg prioriteta kao što su bilteni, obaveštenja ili rutinska ažuriranja. Ovo inteligentno filtriranje znači da trošite manje vremena na odlučivanje o tome šta je važno, a više na reagovanje na to. U stvari, efektivno određivanje prioriteta AI može pomeriti primarni izazov sa _pronalaženja_ važnog posla u vašem prijemnom sandučetu na efikasno _izvršavanje_ tog posla, naglašavajući vrednost AI alata koji se integrišu sa sistemima za upravljanje zadacima ili CRM.
 

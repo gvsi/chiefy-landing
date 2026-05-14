@@ -68,7 +68,7 @@
       "from": "凯伦·W.",
       "avatarLetter": "K",
       "avatarColor": "lavender",
-      "subject": "Re: Fabric samples — going with Oatmeal linen",
+      "subject": "Re: 面料样品 — 选择燕麦色亚麻",
       "pill": "客户认可",
       "pillColor": "blue"
     },
@@ -84,7 +84,7 @@
       "from": "托尼的瓷砖和石材",
       "avatarLetter": "T",
       "avatarColor": "blue",
-      "subject": "Order #4821 shipped — delivery Thursday",
+      "subject": "订单 #4821 已发货 — 周四送达",
       "pill": "供应商订单",
       "pillColor": "lavender"
     },
@@ -92,27 +92,27 @@
       "from": "触手可及的设计",
       "avatarLetter": "D",
       "avatarColor": "lavender",
-      "subject": "Trade program — spring savings event",
+      "subject": "贸易计划 — 春季优惠活动",
       "pill": "促销",
       "pillColor": "lavender"
     }
   ],
   "draft": {
     "to": "rachel.t@email.com",
-    "subject": "Re: Kitchen renovation — initial consultation?",
+    "subject": "Re: 厨房翻新 — 初步咨询？",
     "originalFrom": "雷切尔·T.写道：",
     "originalText": "嗨！我们刚刚在西湖买了一套房子，想彻底重做厨房。您正在开展新项目吗？您的流程是什么样的？",
     "lines": [
       "嗨，雷切尔！",
-      "Congratulations on the new home! I'd love to help with your kitchen.我目前正在预订下个月的咨询。",
+      "恭喜您搬进新家！我很乐意协助您的厨房项目。我目前正在预约下个月的咨询。",
       "我的流程从上门拜访开始，了解您的愿景、预算和时间表。从那里我将设计理念与材料选择和详细的建议结合在一起。",
       "想约定在家里见面的时间吗？"
     ],
     "highlightText": "我目前正在预订下个月的咨询。",
     "tooltipFeatures": [
-      "Knows your process & availability",
+      "了解您的流程和可预约时间",
       "你的声音中的草稿",
-      "Includes next steps automatically",
+      "自动加入下一步",
       "随着时间的推移学习"
     ]
   },
@@ -139,23 +139,23 @@
     {
       "name": "约翰尼·M.",
       "title": "设计工作室所有者，纳什维尔",
-      "quote": "管理 12 个正在进行的项目的电子邮件让我很累。 Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "quote": "管理 12 个进行中项目的电子邮件让我很累。Duet 会把所有内容分类——新咨询、待批准事项、供应商订单、承包商更新——这样我就能清楚知道什么最需要先处理。",
       "avatarKey": "johnny"
     },
     {
       "name": "詹妮弗·S。",
-      "title": "Interior Decorator, San Diego",
-      "quote": "我正在失去潜在客户，因为我在安装周期间无法足够快地做出响应。 Duet了解了我的咨询流程、定价结构，甚至我如何描述我的设计风格。 Clients have no idea it's AI-assisted.",
+      "title": "室内装饰师，圣迭戈",
+      "quote": "在安装周期间，我因为回复不够快而失去潜在客户。Duet 学会了我的咨询流程、定价结构，甚至学会了我如何描述自己的设计风格。客户完全看不出这是 AI 辅助的。",
       "avatarKey": "jennifer"
     },
     {
       "name": "莎拉·K.",
-      "title": "Commercial Interior Designer, Denver",
+      "title": "商业室内设计师，丹佛",
       "quote": "在供应商交货时间、承包商时间表和客户修改请求之间，我的收件箱一片混乱。 Duet 对所有内容进行排序，并起草待批准的后续文件。这就像有一个从不睡觉的项目协调员。",
       "avatarKey": "sarah"
     }
   ],
-  "ctaHeadline": "Spend your days creating beautiful spaces,\n没有埋在你的收件箱里。",
+  "ctaHeadline": "把时间花在创造美丽空间上，\n而不是埋在收件箱里。",
   "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
   "verticalFaqs": [
     {

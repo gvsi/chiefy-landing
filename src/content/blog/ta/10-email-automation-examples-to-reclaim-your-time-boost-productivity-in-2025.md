@@ -113,7 +113,7 @@ draft: false
 
 சிக்கலான உரையாடல்களை விரைவாகப் பெற இது அதிக நேரத்தை மிச்சப்படுத்துகிறது. [Duet Mail ஆனது **ஸ்மார்ட் சுருக்கத்தை** சூழலியல் விழிப்புணர்வுடன்](https://duetmail.com/ta) உள்ளடக்கியது, அதாவது நீண்ட இழைகளை சுருக்குவது மட்டுமல்லாமல், முன்னர் குறிப்பிடப்பட்ட திட்டங்கள் மற்றும் உறவுகள் பற்றிய விவரங்களையும் நினைவில் வைத்து, சுருக்கங்கள் மிகவும் பொருத்தமானதாகவும் செயல்படக்கூடியதாகவும் இருப்பதை உறுதிசெய்கிறது.
 
-![Screenshot showing Duet Mail's smart email summarization feature condensing a long email thread into key points and action items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+![நீண்ட மின்னஞ்சல் தொடரை முக்கிய குறிப்புகள் மற்றும் செயல் உருப்படிகளாகச் சுருக்கும் Duet Mail இன் smart email summarization அம்சத்தை காட்டும் ஸ்கிரீன்ஷாட்](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## ஆட்டோமேஷனின் சக்தி: எண்களால்
 

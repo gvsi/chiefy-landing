@@ -110,7 +110,7 @@ Puhdas, ammattimainen sähköpostin allekirjoitus sisältää tärkeät yhteysti
 
 Jopa oikealla rakenteella pienet virheet voivat suistaa viestisi. Tässä on huomioitava:
 
-### **The Proofreading Imperative: Don't Let Errors Undermine You**
+### **Proofreading Imperative: Don't Let Errors Undermine You**
 
 Kirjoitusvirheet, kirjoitusvirheet ja kielioppivirheet huutavat huolimattomuutta.8 Ne [**vaurioittavat uskottavuuttasi**](https://pushfar.com/index.php/article/4-reasons-effective-email-communication-is-essential-for-career-success/) 5 ja voivat tehdä viestistäsi hämmentävän tai vaikuttaa epäammattimaiselta.8
 

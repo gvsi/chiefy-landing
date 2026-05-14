@@ -117,7 +117,6 @@ Choć pomocne, narzędzia te często rozwiązują konkretne problemy, a nie holi
 
 ### Wzrost asystenta e-mailowego AI: inteligentny drugi pilot Twojej skrzynki
 
-**Image PlaceholderQuery:** futurystyczna grafika asystenta AI pomagającego w e-mailach**Alt Text:** Abstrakcyjna grafika pokazująca AI pomagającą osobie skutecznie zarządzać skrzynką e-mailową.**Caption:** Asystenci e-mailowi AI wykorzystują technologię, aby automatyzować i usprawniać zarządzanie skrzynką.
 
 Oto asystent e-mailowy AI. Te narzędzia reprezentują kolejny etap ewolucji zarządzania e-mailami, wykorzystując sztuczną inteligencję — w szczególności przetwarzanie języka naturalnego (NLP) i uczenie maszynowe (ML) — do automatyzacji i usprawniania zadań, które tradycyjnie wymagały dużego ręcznego wysiłku.
 
@@ -151,7 +150,6 @@ Asystenci e-mailowi AI wykraczają poza prostą automatyzację; oferują intelig
 
 ### AI Triage i priorytetyzacja: przebijanie się przez bałagan, by znaleźć to, co pilne
 
-**Image PlaceholderQuery:** diagram AI triage sortujący ważne e-maile**Alt Text:** Diagram pokazujący, jak AI triage automatycznie sortuje przychodzące e-maile według priorytetu.**Caption:** AI Triage inteligentnie wyeksponowuje pilne e-maile, przebijając się przez szum.
 
 **Problem:** Standardowa skrzynka Gmail to chronologiczny strumień, w którym newslettery i notatki w CC konkurują o uwagę z pilnymi prośbami od klientów i krytycznymi terminami. Ręczne sortowanie tego napływu, by znaleźć to, co naprawdę wymaga Twojej _teraz_ uwagi, pochłania cenny czas i energię umysłową.
 

@@ -65,7 +65,7 @@ Nende peamine eelis seisneb struktuuri toomises kaosesse. Peamised eelised hõlm
 
 - **Koostöötööriistad:** funktsioonid, nagu piletite sisemised märkmed, võimaldavad agentidel teavet jagada ja otsuste tegemisel koostööd teha.
 
-- **Aruandlus:** Provaatab põhianalüüsi piletite mahu, reageerimisaegade ja muude KPI-de kohta.
+- **Aruandlus:** Kuvab põhianalüüsi piletite mahu, reageerimisaegade ja muude KPI-de kohta.
 
 Kuigi tavapärased kasutajatoed on jagatud postkastidega võrreldes märkimisväärsed edusammud, pole need imerohi. Need nõuavad sageli siiski märkimisväärset käsitsitööd, neil võib olla järsem õppimiskõver ja sellega seotud koolituskulud ning need võivad olla kallimad. Oluline on see, et ilma täpsemate funktsioonideta ei pruugi need täielikult lahendada pinget kiirete reageeringute ja isikupärastatud suhtluse vahel.
 
@@ -184,7 +184,7 @@ Teie meilihaldustarkvara ei tohiks eksisteerida vaakumis. Sujuv integreerimine m
 
 - **Korraldage halastamatult:** rakendage selge ja järjepidev süsteem meilide või piletite märgistamiseks, kategoriseerimiseks ja tähtsuse järjekorda seadmiseks. Kasutage kaustu, kohandatud vaateid või armatuurlaudu, et aidata agentidel oma konkreetseid töövooge tõhusalt hallata.
 
-- **Andke oma esindajatele volitused:** Protarkvara ja väljakujunenud protsesside koolitus on ülioluline. Tagage, et agentidel oleks lihtne juurdepääs kliendi ajaloole ja kontekstile. Edendada koostöökeskkonda, kus julgustatakse abi küsima. Ja ärge unustage tunnustada ja hinnata nende pingutusi, sest tugirollid võivad olla nõudlikud.
+- **Andke oma esindajatele volitused:** Tarkvara ja väljakujunenud protsesside koolitus on ülioluline. Tagage, et agentidel oleks lihtne juurdepääs kliendi ajaloole ja kontekstile. Edendada koostöökeskkonda, kus julgustatakse abi küsima. Ja ärge unustage tunnustada ja hinnata nende pingutusi, sest tugirollid võivad olla nõudlikud.
 
 - **Kaebuste käsitlemine Grace'iga:** Pettunud klientidega tegelemine on vältimatu. Koolitage oma meeskonda deeskalatsioonitehnikate osas. Rõhutage aktiivset kuulamist, tõelist empaatiat, siirast vabandust, kui see on õigustatud, ja laserkeskendumist põhiprobleemi lahendamisele. Kasutage negatiivset tagasisidet konstruktiivselt kui võimalust protsesside või toodete täiustamiseks.
 

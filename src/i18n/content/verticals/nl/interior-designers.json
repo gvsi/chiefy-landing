@@ -93,7 +93,7 @@
       "avatarLetter": "D",
       "avatarColor": "lavender",
       "subject": "Handelsprogramma — voorjaarsbesparingsevenement",
-      "pill": "Probewegingen",
+      "pill": "Promoties",
       "pillColor": "lavender"
     }
   ],
@@ -127,7 +127,7 @@
     {
       "name": "Michaël R.",
       "title": "Hoofdontwerper, Austin TX",
-      "quote": "Ik ben 6 uur per dag ter plaatse en coördineer schilders, elektriciens en tegelinstallateurs. Ondertussen mailen drie andere klanten over hun projecten.Duet stelt antwoorden op met de juiste projectdetails - ik bekijk ze alleen tussen locatiebezoeken door.",
+      "quote": "Ik ben 6 uur per dag ter plaatse en coördineer schilders, elektriciens en tegelinstallateurs. Ondertussen mailen drie andere klanten over hun projecten. Duet stelt antwoorden op met de juiste projectdetails - ik bekijk ze alleen tussen locatiebezoeken door.",
       "avatarKey": "michael"
     },
     {
@@ -139,19 +139,19 @@
     {
       "name": "Johnny M.",
       "title": "Eigenaar van ontwerpstudio, Nashville",
-      "quote": "Het beheren van e-mails voor twaalf actieve projecten kostte me veel moeite.Duet categoriseert alles: nieuwe aanvragen, lopende goedkeuringen, bestellingen van leveranciers, updates van aannemers, zodat ik precies weet wat eerst mijn aandacht nodig heeft.",
+      "quote": "Het beheren van e-mails voor twaalf actieve projecten kostte me veel moeite. Duet categoriseert alles: nieuwe aanvragen, lopende goedkeuringen, bestellingen van leveranciers, updates van aannemers, zodat ik precies weet wat eerst mijn aandacht nodig heeft.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Binnenhuisarchitect, San Diego",
-      "quote": "Ik raakte potentiële klanten kwijt omdat ik tijdens de installatieweken niet snel genoeg kon reageren.Duet leerde mijn consultatieproces, prijsstructuur en zelfs hoe ik mijn ontwerpstijl omschrijf. Klanten hebben geen idee dat het AI-ondersteund is.",
+      "quote": "Ik raakte potentiële klanten kwijt omdat ik tijdens de installatieweken niet snel genoeg kon reageren. Duet leerde mijn consultatieproces, prijsstructuur en zelfs hoe ik mijn ontwerpstijl omschrijf. Klanten hebben geen idee dat het AI-ondersteund is.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sara K.",
       "title": "Commercieel binnenhuisarchitect, Denver",
-      "quote": "Tussen de doorlooptijden van leveranciers, planningen van aannemers en herzieningsverzoeken van klanten was mijn inbox een chaos.Duet sorteert het allemaal en stelt follow-ups op van lopende goedkeuringen. Het is alsof je een projectcoördinator hebt die nooit slaapt.",
+      "quote": "Tussen de doorlooptijden van leveranciers, planningen van aannemers en herzieningsverzoeken van klanten was mijn inbox een chaos. Duet sorteert het allemaal en stelt follow-ups op van lopende goedkeuringen. Het is alsof je een projectcoördinator hebt die nooit slaapt.",
       "avatarKey": "sarah"
     }
   ],
@@ -164,7 +164,7 @@
     },
     {
       "question": "Ik coördineer met veel aannemers en leveranciers. Helpt Duet daarbij?",
-      "answer": "Absoluut.Duet leert de contacten van uw aannemers, verkopersvertegenwoordigers en de context van de rol van elke branche in uw projecten. Wanneer uw elektricien een e-mail stuurt dat de voorbereiding is voltooid, kan Duet een antwoord opstellen waarin de volgende stap of lus in het armatuurinstallatieprogramma wordt bevestigd. Het zorgt ervoor dat de workflow in beweging blijft, zelfs als u aan de andere kant van de stad op een ander werkterrein bent."
+      "answer": "Absoluut. Duet leert de contacten van uw aannemers, verkopersvertegenwoordigers en de context van de rol van elke branche in uw projecten. Wanneer uw elektricien een e-mail stuurt dat de voorbereiding is voltooid, kan Duet een antwoord opstellen waarin de volgende stap of lus in het armatuurinstallatieprogramma wordt bevestigd. Het zorgt ervoor dat de workflow in beweging blijft, zelfs als u aan de andere kant van de stad op een ander werkterrein bent."
     }
   ],
   "pricingNote": "Bij $ 10.000/project betaalt één opgeslagen klant jarenlang Duet Pro."

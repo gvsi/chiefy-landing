@@ -65,7 +65,7 @@ To galvenā priekšrocība ir struktūras radīšana haosā. Galvenās priekšro
 
 - **Sadarbības rīki:** Tādas funkcijas kā iekšējās piezīmes uz pieprasījumiem ļauj aģentiem dalīties ar informāciju un sadarboties risinājumu meklēšanā.
 
-- **Atskaišu veidošana:** Pro ietver pamata analīzi par pieprasījumu skaitu, atbildes laikiem un citiem galvenajiem darbības rādītājiem (KPI).
+- **Atskaišu veidošana:** Ietver pamata analīzi par pieprasījumu skaitu, atbildes laikiem un citiem galvenajiem darbības rādītājiem (KPI).
 
 Lai gan tradicionālie palīdzības dienesti ir ievērojams uzlabojums salīdzinājumā ar koplietotajām iesūtnēm, tie nav brīnumlīdzeklis. Tie bieži vien joprojām prasa ievērojamu manuālu piepūli, tiem var būt stāvāka apguves līkne un ar to saistītās apmācības izmaksas, kā arī tie var būt dārgāki. Svarīgi ir tas, ka bez modernākām funkcijām tie, iespējams, pilnībā neatrisinās spriedzi starp ātru atbilžu sniegšanu un personalizētu mijiedarbību.
 

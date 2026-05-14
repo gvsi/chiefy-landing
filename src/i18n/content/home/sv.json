@@ -42,7 +42,7 @@
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re:Protidslinje för start av kanalen",
+        "subject": "Re: Tidslinje för produktlansering",
         "preview": "Hej! Ville kolla in lanseringstillgångarna. Är vi fortfarande på rätt spår inför nästa vecka...",
         "pill": "Att svara"
       },
@@ -63,7 +63,7 @@
         "from": "Shopify",
         "avatarLetter": "S",
         "subject": "Din butik är redo för Black Friday",
-        "pill": "Prorörelser"
+        "pill": "Kampanjer"
       }
     ],
     "autodraft": "Hej Alex! Ja, vi är på rätt spår. Designteamet avslutade tillgångarna igår och jag kommer att skicka över de sista filerna av EOD idag."
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligenta påminnelser",
-        "description": "Ställ in det och glöm det.Duet AI kommer ihåg att följa upp när andra inte svarar, så inget faller mellan stolarna.",
+        "description": "Ställ in det och glöm det. Duet AI kommer ihåg att följa upp när andra inte svarar, så inget faller mellan stolarna.",
         "ariaLabel": "Intelligenta påminnelser",
         "mockCopy": {
           "header": "AI-drivna smarta påminnelser",
@@ -142,7 +142,7 @@
               "time": "2 dagar sedan"
             },
             {
-              "title": "Project Integration",
+              "title": "Projektintegration",
               "time": "12 timmar sedan"
             }
           ],
@@ -203,12 +203,12 @@
       {
         "from": "Stripe",
         "subject": "Ditt månadsutdrag är klart",
-        "pill": "Prorörelser"
+        "pill": "Kampanjer"
       },
       {
         "from": "Nyhetsbrev",
         "subject": "Veckosammanfattning",
-        "pill": "Prorörelser"
+        "pill": "Kampanjer"
       }
     ]
   },
@@ -275,7 +275,7 @@
     ],
     "inputPlaceholder": "Fråga vad som helst...",
     "dynamicResponses": {
-      "processingDefault": "Proavslutar...",
+      "processingDefault": "Bearbetar...",
       "processingDraft": "Genererar utkast...",
       "processingCalendar": "Kontrollerar tillgänglighet...",
       "draftIntro": "Här är ett utkast till svar till Redovisning:",
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Konsult",
-        "quote": "Som konsult räknas varje minut.Duet Mail sparar mig inte bara tid – det gör min e-postkommunikation skarpare.",
+        "quote": "Som konsult räknas varje minut. Duet Mail sparar mig inte bara tid – det gör min e-postkommunikation skarpare.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -450,7 +450,7 @@
         "perUser": true,
         "features": [
           {
-            "title": "Allt iPro",
+            "title": "Allt i Pro",
             "description": "Alla funktioner ingår"
           },
           {
@@ -488,7 +488,7 @@
     "items": [
       {
         "question": "Hur skyddar Duet Mail min e-postdata?",
-        "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google integration genomgår vi Googles årliga CASAsäkerhetsbedömning."
+        "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google-integration genomgår vi Googles årliga CASA-säkerhetsbedömning."
       },
       {
         "question": "Hur fungerar e-postsammanfattningsfunktionen?",
@@ -500,7 +500,7 @@
       },
       {
         "question": "Vad ingår i den kostnadsfria provperioden?",
-        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till allaPro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
+        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till alla Pro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
       },
       {
         "question": "Kan jag använda Duet Mail med andra e-postleverantörer?",
@@ -651,7 +651,7 @@
         "description": "Gratis plan med omedelbara sammanfattningar, AI-utkast och smart inkorg"
       },
       {
-        "name": "ProPlan",
+        "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MÅNAD",
@@ -677,7 +677,7 @@
     "faq": [
       {
         "question": "Hur skyddar Duet Mail min e-postdata?",
-        "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google integration genomgår vi Googles årliga CASAsäkerhetsbedömning."
+        "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google-integration genomgår vi Googles årliga CASA-säkerhetsbedömning."
       },
       {
         "question": "Hur fungerar e-postsammanfattningsfunktionen?",
@@ -689,7 +689,7 @@
       },
       {
         "question": "Vad ingår i den kostnadsfria provperioden?",
-        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till allaPro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
+        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till alla Pro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
       },
       {
         "question": "Kan jag använda Duet Mail med andra e-postleverantörer?",

@@ -115,9 +115,6 @@ Nors šie įrankiai naudingi, jie dažnai sprendžia konkrečias problemas, o ne
 
 ### DI el. pašto asistento iškilimas: jūsų gautųjų intelektualusis šturmanas
 
-**Image PlaceholderQuery:** futuristinė grafika, DI asistentas padeda su el. paštu
-**Alt Text:** Abstrakti iliustracija, rodanti, kaip DI padeda žmogui efektyviai valdyti el. pašto gautuosius.
-**Caption:** DI el. pašto asistentai naudoja technologijas, kad automatizuotų ir pagerintų gautųjų valdymą.
 
 Susipažinkite su DI el. pašto asistentu. Šie įrankiai yra kitas el. pašto valdymo raidos etapas, pasitelkiantis dirbtinį intelektą — konkrečiai natūralios kalbos apdorojimą (NLP) ir mašininį mokymąsi (ML) — kad automatizuotų ir pagerintų užduotis, kurios anksčiau reikalavo didelių rankinių pastangų.
 
@@ -151,9 +148,6 @@ DI el. pašto asistentai peržengia paprastos automatizacijos ribas; jie siūlo 
 
 ### DI rūšiavimas ir prioritetizavimas: prasibrauti pro netvarką ir rasti, kas skubu
 
-**Image PlaceholderQuery:** schema, DI el. laiškų rūšiavimas pagal svarbą
-**Alt Text:** Schema, rodanti, kaip DI rūšiavimas automatiškai suskirsto gaunamus el. laiškus pagal prioritetą.
-**Caption:** DI rūšiavimas inteligentiškai iškelia skubius el. laiškus į paviršių, prasiskverbdamas pro triukšmą.
 
 **Problema:** Standartiniai Gmail gautieji yra chronologinis srautas, kuriame naujienlaiškiai ir laiškai su „CC“ varžosi dėl dėmesio kartu su skubiais klientų prašymais ir kritiniais terminais. Rankinis šio srauto rūšiavimas, siekiant rasti tai, kam _dabar_ reikia jūsų dėmesio, eikvoja brangų laiką ir protinę energiją.
 

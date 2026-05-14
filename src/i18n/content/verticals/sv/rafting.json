@@ -93,7 +93,7 @@
       "avatarLetter": "N",
       "avatarColor": "lavender",
       "subject": "Rea vid slutet av säsongen — 30 % rabatt på torrdräkter",
-      "pill": "Prorörelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -133,7 +133,7 @@
     {
       "name": "Katie L.",
       "title": "Kajak & SUP Tours, OR",
-      "quote": "Varje kund ställer samma fem frågor – prissättning, vad man ska ta med sig, kompetensnivå, gruppstorlek, avbokningsregler.Duet lärde sig allt under den första veckan. Jag gick från en timmes mejl varje kväll till fem minuters granskning av utkast.",
+      "quote": "Varje kund ställer samma fem frågor – prissättning, vad man ska ta med sig, kompetensnivå, gruppstorlek, avbokningsregler. Duet lärde sig allt under den första veckan. Jag gick från en timmes mejl varje kväll till fem minuters granskning av utkast.",
       "avatarKey": "sarah"
     },
     {
@@ -145,7 +145,7 @@
     {
       "name": "Elena R.",
       "title": "River Adventures kontorschef, WV",
-      "quote": "Jag hanterar bokningar för tre guider över fyra resetyper.Duet kategoriserar varje e-postmeddelande efter brådskande och utkast till svar med rätt resa, rätt pris, rätt utrustningslista. Det är som att klona mig själv.",
+      "quote": "Jag hanterar bokningar för tre guider över fyra resetyper. Duet kategoriserar varje e-postmeddelande efter brådskande och utkast till svar med rätt resa, rätt pris, rätt utrustningslista. Det är som att klona mig själv.",
       "avatarKey": "jennifer"
     },
     {
@@ -167,5 +167,5 @@
       "answer": "Det är precis det problemet Duet löser. Medan du är på floden utan signal,Duet svarar Duet på varje förfrågan som kommer in. När du är tillbaka inom räckhåll väntar dina utkast - bara granska och skicka. De flesta guider berättar för oss att det eliminerar eftersläpningen de brukade möta efter varje flerdagarsresa."
     }
   ],
-  "pricingNote": "För $150/person täcker två sparade bokningar ett helt år påPro."
+  "pricingNote": "För $150/person täcker två sparade bokningar ett helt år på Pro."
 }

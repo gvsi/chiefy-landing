@@ -49,7 +49,7 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Egy megmentett projekt több éves Duettért fizet."
+    "punchline": "Egy megmentett projekt több éves Duetért fizet."
   },
   "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először az új konzultációs kéréseket, másodsorban az ügyfelek jóváhagyását látja, és soha a beszállítói zajt. Többé nem hiányzik a bölcsődei rendelés visszaigazolása alá temetett ólom.",
   "draftSubtitle": "A Duet megtanulja az árképzést, a folyamatot és a hangnemet. Amikor megérkezik egy konzultációs kérés, a rendszer egy teljes választ vázol fel, amely tartalmazza az Ön elérhetőségét, mire számíthat és a következő lépéseket. Te átnézed és elküldöd.",
@@ -139,7 +139,7 @@
     {
       "name": "Johnny M.",
       "title": "Tájtervező stúdió tulajdonosa, Denver CO",
-      "quote": "A terepmunka után minden estét e-mailekkel töltöttem. Ugyanazok a kérdések – árképzés, folyamat, idővonal. A Duett kezeli az egészet. A válaszidőm napról percre változott, és a bezárási arányom jóval feljebb.",
+      "quote": "A terepmunka után minden estét e-mailekkel töltöttem. Ugyanazok a kérdések – árképzés, folyamat, idővonal. A Duet kezeli az egészet. A válaszidőm napról percre változott, és a bezárási arányom jóval feljebb.",
       "avatarKey": "johnny"
     },
     {
@@ -160,7 +160,7 @@
   "verticalFaqs": [
     {
       "question": "A Duet bírja a tavaszi rohanást, amikor felgyűlnek a konzultációs kérések?",
-      "answer": "Pontosan ekkor ragyog a Duett. A legforgalmasabb szezonban minden új megkeresésre gyors, részletes választ kap a folyamatról, az idővonalról és a rendelkezésre állásról – még akkor is, ha egész nap a helyszínen tartózkodik. Nincs többé vesztes tavaszi vezetés, mert csak este 9-ig érhetsz vissza hozzájuk."
+      "answer": "Pontosan ekkor ragyog a Duet. A legforgalmasabb szezonban minden új megkeresésre gyors, részletes választ kap a folyamatról, az idővonalról és a rendelkezésre állásról – még akkor is, ha egész nap a helyszínen tartózkodik. Nincs többé vesztes tavaszi vezetés, mert csak este 9-ig érhetsz vissza hozzájuk."
     },
     {
       "question": "Több kültéri személyzettel egyeztetek. A Duet segít ebben?",

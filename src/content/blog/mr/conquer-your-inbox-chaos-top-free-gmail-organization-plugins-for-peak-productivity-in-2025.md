@@ -35,7 +35,7 @@ Gmail ची अंगभूत वैशिष्ट्ये — labels, filte
 
 **UI/Setup:** Sortd थेट Gmail मध्ये एकत्रित होतं, ज्यामुळे standard view आणि board layout यांमध्ये toggle करता येतो. Setup मध्ये extension install करणे आणि तुमचं Gmail account connect करणे समाविष्ट आहे; हे बहुतेक वापरकर्त्यांना सोपं वाटतं.
 
-![Sortd plugin interface showing Gmail inbox transformed into a visual Kanban board with drag-and-drop email task cards](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+![Gmail इनबॉक्स drag-and-drop ईमेल task cards असलेल्या visual Kanban board मध्ये बदललेला दाखवणारे Sortd plugin interface](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **फायदे:** कामाच्या टप्प्यांना दृश्यरूपात पाहण्यासाठी आणि email-centric tasks हाताळण्यासाठी उत्तम, तेही वेगळ्या project management tool मध्ये सतत स्विच न करता. विषय ओळींचं नाव बदलणं आणि ईमेल-task वर थेट notes जोडणंही उपयुक्त आहे.
 
@@ -49,7 +49,7 @@ Gmail ची अंगभूत वैशिष्ट्ये — labels, filte
 
 **UI/Setup:** हे integration तुमच्या Gmail interface मध्ये Todoist आयकॉन जोडतं (एकतर वरच्या toolbar मध्ये किंवा उजव्या बाजूच्या panel मध्ये). त्यावर क्लिक केल्यावर एक लहान panel उघडतो, ज्यात तुम्ही ईमेल पटकन task म्हणून जोडू शकता. Setup साठी add-on/extension install करणे आणि तुमच्या Todoist account साठी access authorize करणे आवश्यक आहे.
 
-![Todoist for Gmail integration panel showing how to convert an email into a task with due date and project selection](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+![Due date आणि project निवडीसह ईमेल task मध्ये कसा बदलायचा ते दाखवणारे Gmail साठी Todoist integration panel](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **फायदे:** तुमचा communication hub (Gmail) आणि task management system (Todoist) यांमध्ये अखंड पूल तयार होतो. नैसर्गिक भाषा date input आणि विश्वासार्ह cross-platform syncing यांसारखी Todoist ची उत्कृष्ट वैशिष्ट्ये यामध्ये वापरली जातात. actionable items इनबॉक्समधून काढून खास task list मध्ये हलवून "inbox zero" साध्य करण्याचा हा चांगला मार्ग आहे.
 

@@ -8,7 +8,7 @@ draft: false
 ---
 Sećate se tog osećaja? Odmaknete se na sastanak, popijete brzu kafu ili čak samo trepnete, a vaše prijemno sanduče je odjednom poraslo. Još desetak mejlova koji zahtevaju pažnju, odluke ili jednostavno dodaju digitalnu buku. Ako klimate glavom, niste sami. Ogroman obim e-pošte je moderna stvarnost na radnom mestu, često ostavljajući zaposlene profesionalce, slobodnjake, pa čak i osnivače startapa, da se osećaju zatrpano.
 
-Studije otkrivaju zapanjujuću skalu: 2024. godine se procenjuje da se [361 milijarda e-poruka šalje *dnevno*](https://www.dragapp.com/blog/email-statistics/), a predviđa se da će se taj broj popeti na 400 milijardi do 2027. Professionals izveštavaju da svakodnevno troše sate samo na upravljanje prijemnim sandučetom, vreme koje su potrošili na duboko poštansko sanduče, vreme koje bi moglo da bude strateško ili strateško kolegama. Nije ni čudo što svi tragamo za pametnijim načinima da upravljamo potopom.
+Studije otkrivaju zapanjujuću skalu: 2024. godine se procenjuje da se [361 milijarda e-poruka šalje *dnevno*](https://www.dragapp.com/blog/email-statistics/), a predviđa se da će se taj broj popeti na 400 milijardi do 2027. Profesionalci izveštavaju da svakodnevno troše sate samo na upravljanje prijemnim sandučetom, vreme koje su potrošili na duboko poštansko sanduče, vreme koje bi moglo da bude strateško ili strateško kolegama. Nije ni čudo što svi tragamo za pametnijim načinima da upravljamo potopom.
 
 Uđite u veštačku inteligenciju. Google, sa ciljem da ublaži ovu tačku pritiska za svoje milione Gmail korisnika, integrisao je svoj moćni Gemini AI direktno u platformu. Jedna od karakteristika o kojima se najviše priča? Sažetak putem e-pošte. Obećanje je primamljivo: neka AI destiluje te dugačke niti u probavljive isečke, štedeći vam dragoceno vreme i mentalnu energiju. Ali da li je u skladu sa hipeom? Da li je to srebrni metak za preopterećenje prijemnog sandučeta? Hajde da zaronimo.
 
@@ -26,7 +26,7 @@ Razmotrite ove brojke:
 
 Ova stalna baraža dovodi do:
 
-- **Izgubljena Produktivnost:**Vreme utrošeno na prelaženje nebitnih informacija ili dešifrovanje dugih niti je vreme koje *ne*potrošeno na osnovne zadatke.
+- **Izgubljena produktivnost:**Vreme utrošeno na prelaženje nebitnih informacija ili dešifrovanje dugih niti je vreme koje *ne*potrošeno na osnovne zadatke.
 
 - **Kognitivno preopterećenje:**Žongliranje sa više razgovora i pokušaj zadržavanja konteksta u desetinama e-poruka je mentalno iscrpljujuće.
 
@@ -66,7 +66,7 @@ Gmail-ova izvorna funkcija sumiranja je dostupna preko dugmeta direktno unutar n
 
 Ovo (još) nije standardna funkcija za sve besplatne Gmail naloge. Pristup funkcijama Gemini u Gmail, uključujući rezime, obično je dostupan za:
 
-– Korisnici sa odgovarajućim poslovnim ili poslovnim planovima [Google Vorkspace](https://support.google.com/chat/answer/13952129?hl=en,gmail\&ref_topic=15550128) (gde je sada često uključen).
+– Korisnici sa odgovarajućim poslovnim ili poslovnim planovima [Google Workspace](https://support.google.com/chat/answer/13952129?hl=en,gmail\&ref_topic=15550128) (gde je sada često uključen).
 
 - Pretplatnici na lične planove [Google One AI Premium](https://one.google.com/about/plans).
 
@@ -110,9 +110,9 @@ Dakle, imate pristup rezimeu Gmail. Kako možete da ga efikasno koristite, a da 
 
 - **Proveri kritične informacije:**Ako rezime pominje određene odluke, rokove ili tačke podataka koji su važni, odvojite trenutak da preletite originalnu nit ili relevantnu poruku da biste potvrdili tačnost. Nemojte se oslanjati samo na AI za informacije o visokim ulozima.
 
-- **Konkretno Prompt (bočna tabla):**Kada koristite bočnu tablu „Pitajte Gemini“, budite konkretni u svojim upitima. Umesto samo „Rezimiraj“, pokušajte sa „Sumiraj ključne odluke donete u ovoj niti“ ili „Navedi stavke radnji koje su mi dodeljene iz ove konverzacije“.
+- **Konkretan upit (bočna tabla):**Kada koristite bočnu tablu „Pitajte Gemini“, budite konkretni u svojim upitima. Umesto samo „Rezimiraj“, pokušajte sa „Sumiraj ključne odluke donete u ovoj niti“ ili „Navedi stavke radnji koje su mi dodeljene iz ove konverzacije“.
 
-- **Provide Feedback:**Koristite opcije „Dobar predlog“ / „Loš predlog“ (palac gore/dole). Ovo pomaže Google da poboljša funkciju tokom vremena, čak i ako odmah ne popravi netačan rezime.
+- **Pošaljite povratne informacije:**Koristite opcije „Dobar predlog“ / „Loš predlog“ (palac gore/dole). Ovo pomaže Google da poboljša funkciju tokom vremena, čak i ako odmah ne popravi netačan rezime.
 
 - **Ne koristiti za osetljiv sadržaj:**S obzirom na tekuće diskusije o privatnosti i prirodu obrade AI, mudro je izbegavati korišćenje funkcije sumiranja na e-porukema koji sadrže veoma poverljive ili osetljive lične/poslovne informacije.
 
@@ -132,7 +132,7 @@ Dok je direktno sumiranje niti glavna karakteristika, uticaj Gemini se proteže 
 
 ## Konkurentski pejzaž: Gmail naspram Outlook naspram specijalizovanih alata
 
-Gmail nije jedini koji koristi AI za produktivnost e-pošte. Microsoft-ov Copilot nudi slične mogućnosti rezimiranja i crtanja unutar Outlook i šireg Microsoft 365 paketa. Poređenja često naglašavaju da [Copilot trenutno možda ima nešto zreliju integraciju u *svim*Office aplikacijama](https://plusai.com/blog/microsoft-copilot-vs-google-gemini), dok Gemini ima koristi od ogromnog ekosistema podataka Google i istraživanja AI. Najbolji izbor često zavisi od toga u kom ekosistemu (Google Vorkspace naspram Microsoft 365) prvenstveno radite.
+Gmail nije jedini koji koristi AI za produktivnost e-pošte. Microsoft-ov Copilot nudi slične mogućnosti rezimiranja i crtanja unutar Outlook i šireg Microsoft 365 paketa. Poređenja često naglašavaju da [Copilot trenutno možda ima nešto zreliju integraciju u *svim* Office aplikacijama](https://plusai.com/blog/microsoft-copilot-vs-google-gemini), dok Gemini ima koristi od ogromnog ekosistema podataka Google i istraživanja AI. Najbolji izbor često zavisi od toga u kom ekosistemu (Google Workspace naspram Microsoft 365) prvenstveno radite.
 
 Osim ovih integrisanih giganata, postoji rastuće tržište pomoćnika za e-poštu AI nezavisnih proizvođača. Alati kao što su [Superhuman, Shortwave, SaneBox i drugi](https://zapier.com/blog/best-ai-email-assistant/) nude različite pristupe, ponekad se fokusirajući na određene niše kao što su ekstremna brzina, napredno filtriranje, timska saradnja ili poboljšane funkcije privatnosti.
 

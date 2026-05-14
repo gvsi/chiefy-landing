@@ -80,7 +80,7 @@ Der Markt ist voll von innovativen E-Mail-Clients, die KI nutzen. Hier ist ein B
 
 - **Preise und Zielgruppe:** Bietet ein robustes [kostenloses Kontingent](https://sparkmailapp.com/pricing). Premium-Pläne beginnen bei etwa 4,99 $/Monat für Einzelpersonen und 6,99 $/Benutzer/Monat für Teams (jährliche Abrechnung). Es eignet sich hervorragend für Teams, die Zusammenarbeit benötigen, für preisbewusste Einzelpersonen und für Benutzer auf mehreren Plattformen, einschließlich Android.
 
-- **Pros & Nachteile:** Starke plattformübergreifende Unterstützung und hervorragende Tools für die Zusammenarbeit sind große Vorteile. Die Anpassungsmöglichkeiten könnten sich jedoch im Vergleich zuSuperhumaneingeschränkt anfühlen und die leistungsstärksten KI-/Teamfunktionen erfordern ein kostenpflichtiges Abonnement.75
+- **Vorteile und Nachteile:** Starke plattformübergreifende Unterstützung und hervorragende Tools für die Zusammenarbeit sind große Vorteile. Die Anpassungsmöglichkeiten könnten sich jedoch im Vergleich zuSuperhumaneingeschränkt anfühlen und die leistungsstärksten KI-/Teamfunktionen erfordern ein kostenpflichtiges Abonnement.75
 
 ### **Shortwave: KI-gestützter Organisationsmeister**
 
@@ -90,9 +90,9 @@ Der Markt ist voll von innovativen E-Mail-Clients, die KI nutzen. Hier ist ein B
 
 - **Weitere herausragende Funktionen:** Das zentrale Organisationsparadigma umfasst (https\://www\.shortwave.com/) (Gruppierung ähnlicher E-Mails wie Newsletter oder Updates), einen geteilten Posteingang für fokussierte Ansichten und die Möglichkeit, E-Mails in nachverfolgbare Todos umzuwandeln. Bezahlte Pläne fügen Teamfunktionen wie Kommentare, Aufgaben und gemeinsame Labels hinzu.
 
-- **Preise und Zielgruppe:** Bietet eine funktionale [kostenlose Stufe](https://www.shortwave.com/pricing/). Der PlanProbeginnt bei 14 $/Sitzplatz/Monat (jährliche Abrechnung). Ideal für Gmail Power-User und Teams, die eine fortschrittliche KI-gesteuerte Organisation und Triage suchen.
+- **Preise und Zielgruppe:** Bietet eine funktionale [kostenlose Stufe](https://www.shortwave.com/pricing/). Der Pro-Plan beginnt bei 14 $/Sitzplatz/Monat (jährliche Abrechnung). Ideal für Gmail Power-User und Teams, die eine fortschrittliche KI-gesteuerte Organisation und Triage suchen.
 
-- **ProVor- und Nachteile:** Hervorragende KI für die Organisation und Zusammenfassung des Posteingangs sowie ein nützlicher kostenloser Plan. Die Haupteinschränkungen sind die reine Gmail-Kompatibilität und die Tatsache, dass es sich bei der Desktop-Version um eine Progressivee Web App (PWA) und nicht um eine native Anwendung handelt. Einige Benutzer bemerken auch, dass die KI gelegentlich überprüft werden muss.
+- **Vor- und Nachteile:** Hervorragende KI für die Organisation und Zusammenfassung des Posteingangs sowie ein nützlicher kostenloser Plan. Die Haupteinschränkungen sind die reine Gmail-Kompatibilität und die Tatsache, dass es sich bei der Desktop-Version um eine Progressivee Web App (PWA) und nicht um eine native Anwendung handelt. Einige Benutzer bemerken auch, dass die KI gelegentlich überprüft werden muss.
 
 ### **Canary Mail: Sicherheit trifft auf KI-Smarts**
 
@@ -100,11 +100,11 @@ Der Markt ist voll von innovativen E-Mail-Clients, die KI nutzen. Hier ist ein B
 
 - **Wichtige KI-Funktionen:** Sein [„KI-Copilot“](https://canarymail.io/) hilft beim Schreiben und Korrekturlesen von E-Mails, schlägt Antworten vor, bietet Zusammenfassungen von Threads und wichtige Einblicke. Canary nutzt KI auch zur erweiterten Bedrohungserkennung (Phishing, Identitätsdiebstahl).
 
-- **Weitere herausragende Funktionen:** Sicherheit steht an erster Stelle und bietet Ende-zu-Ende-PGP-Verschlüsselung und SecureSend (nützlich für die HIPAA-Konformität). Es verfügt über einen einheitlichen Posteingang für mehrere Kontotypen (Gmail,Outlook, iCloud usw.), E-Mail-Vorlagen, Snooze, Lesebestätigungen und Massenbereinigungstools für Mac, iOS, Android und Windows.
+- **Weitere herausragende Funktionen:** Sicherheit steht an erster Stelle und bietet Ende-zu-Ende-PGP-Verschlüsselung und SecureSend (nützlich für die HIPAA-Konformität). Es verfügt über einen einheitlichen Posteingang für mehrere Kontotypen (Gmail, Outlook, iCloud usw.), E-Mail-Vorlagen, Snooze, Lesebestätigungen und Massenbereinigungstools für Mac, iOS, Android und Windows.
 
 - **Preise und Zielgruppe:** Bietet eine [kostenlose Testversion](https://canarymail.io/pricing) mit kostenpflichtigen Plänen ab etwa 3 $/Monat (36 $/Jahr). Spricht vor allem datenschutzbewusste Einzelpersonen und Teams an, auch solche in regulierten Branchen, die ebenfalls KI-Unterstützung ohne hohen Preis wünschen.
 
-- **ProVor- und Nachteile:** Robuste Sicherheitsfunktionen in Kombination mit nützlicher KI zu einem erschwinglichen Preis sind neben der breiten Plattformunterstützung ein großer Vorteil. Einige Benutzer empfinden die Benutzeroberfläche als ähnlich zu Apple Mail und stellen fest, dass es im Vergleich zu Mitbewerbern weniger Anpassungsoptionen gibt.
+- **Vor- und Nachteile:** Robuste Sicherheitsfunktionen in Kombination mit nützlicher KI zu einem erschwinglichen Preis sind neben der breiten Plattformunterstützung ein großer Vorteil. Einige Benutzer empfinden die Benutzeroberfläche als ähnlich zu Apple Mail und stellen fest, dass es im Vergleich zu Mitbewerbern weniger Anpassungsoptionen gibt.
 
 ### **Vergleichstabelle:Superhumanvs. Top-KI-Alternativen**
 
@@ -112,7 +112,7 @@ Der Markt ist voll von innovativen E-Mail-Clients, die KI nutzen. Hier ist ein B
 | ------------------------ | ------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | **Hauptfokus** | Geschwindigkeit, Tastatur-Workflow, Premium-Erlebnis | Zusammenarbeit, intelligenter Posteingang, KI-Schreiben | KI-Organisation, Triage,Gmail Verbesserung | Sicherheit, Datenschutz, KI-Unterstützung |
 | **KI-Triage/Priorität** | Posteingang teilen, automatische Beschriftungen | Intelligenter Posteingang, Prioritätssortierung | Bundles, KI-Organisation, geteilter Posteingang | Intelligente Sortierung, Prioritätseinblicke |
-| **KI-Entwurfsstil** | Lernt die Benutzerstimme, fokussiert | FlexibleProMöglichkeiten, Tonanpassung | Lernt die Stimme des Benutzers, Autovervollständigung | AI Copilot Writing/Proofreading |
+| **KI-Entwurfsstil** | Lernt die Benutzerstimme, fokussiert | Flexible Möglichkeiten, Tonanpassung | Lernt die Stimme des Benutzers, Autovervollständigung | AI Copilot Writing/Korrekturlesen |
 | **KI-Zusammenfassung** | Ja (Automatische Zusammenfassung) | Ja (Zusammenfassen) | Ja (Sofortige Zusammenfassungen) | Ja (KI-Zusammenfassungen) |
 | **Fokus auf Zusammenarbeit** | Moderat (Team-Snippets, freigegebene Threads) | Hoch (Geteilte Entwürfe/Kommentare, Delegieren) | Moderieren (Kommentare, Zuweisen – Bezahlt) | Niedrig (Einzel-/Teamnutzung, weniger Fokus auf die Zusammenarbeit) |
 | **Schlüsselintegrationen** | Hubspot, Salesforce | [Asana](https://asana.com/),Trello, [Dropbox](https://www.dropbox.com/) usw. | [Google Kalender](https://calendar.google.com/), [Zapier](https://zapier.com/) (Enterprise) | Basiskalender |

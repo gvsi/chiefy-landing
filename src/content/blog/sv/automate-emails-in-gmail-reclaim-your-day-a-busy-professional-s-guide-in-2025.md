@@ -1,5 +1,5 @@
 ---
-title: "Automatisera e-postmeddelanden i Gmail och återta din dag: En upptagenProfessionell guide 2025"
+title: "Automatisera e-postmeddelanden i Gmail och återta din dag: En upptagen professionell guide 2025"
 description: "Sluta drunkna i din inkorg! Lär dig hur du automatiserar e-postmeddelanden i Gmail med inbyggda funktioner, tillägg och AI-assistenter för att spara timmar och öka produktiviteten"
 publishedAt: 2025-11-16
 author: "Duet Mail Team"
@@ -71,7 +71,7 @@ Dessa två funktioner hjälper dig att hantera *när* du hanterar e-postmeddelan
 
 - **Schemalägg skicka:** Skriv ett e-postmeddelande nu men schemalägg att det ska skickas senare. Klicka på nedåtpilen bredvid knappen "Skicka". Perfekt för att respektera tidszoner, skicka meddelanden under arbetstid även om du skriver dem sent, eller tajma meddelanden perfekt.Gmail tillåter schemaläggning av [upp till 100 e-postmeddelanden](https://www.brevo.com/blog/how-to-schedule-an-email-in-gmail/), långt i förväg. Läs mer från den [officiella Gmail guiden](https://support.google.com/mail/answer/9214606?hl=en).
 
-###ProTips: Använd e-postalias ('+'-adressering) med filter
+### Pro-tips: Använd e-postalias ('+'-adressering) med filter
 
 Ett mindre känt Gmail-trick är att använda alias. Du kan lägga till ett plustecken (\`+\`) följt av valfritt ord före \`@\` i din e-postadress (t.ex. \`dittnamn+nyhetsbrev\@gmail.com\`, \`dittnamn+fakturering\@gmail.com\`). E-postmeddelanden som skickas till dessa alias kommer fortfarande till din huvudinkorg, men den unika adressen möjliggör kraftfull filtrering. Skapa till exempel ett filter för allt som skickas \`Till: dittnamn+nyhetsbrev\@gmail.com\` och använd automatiskt etiketten "Nyhetsbrev" och arkivera det. Detta är otroligt användbart för att automatiskt sortera registreringar och prenumerationer, som noterats av användare på [Reddit](https://www.reddit.com/r/google/comments/fbdd9/what_awesome_gmail_filters_are_you_using_that/) och tekniska bloggar som [Spin.AI](https://spin.ai/blog/gmail-tutorial-tips-tricks/).
 
@@ -111,7 +111,7 @@ Känner du dig överväldigad av den stora volymen? AI-triage fungerar som en vi
 
 ### Smart sammanfattning: Fatta tag i långa trådar direkt
 
-Att hoppa in i en lång e-postkedja kan kännas som detektivarbete. AI-sammanfattningsverktyg läser hela tråden och ger dig kärnan – viktiga beslut, väntande frågor och åtgärder – på några sekunder. Detta sparar värdefull tid som du annars skulle spendera på att läsa om historien. Ledande verktyg som [Superhuman](https://superhuman.com/) och Googles egna [Geminiför Gmail](https://workspace.google.com/solutions/ai/) erbjuder denna funktion. På samma sätt utnyttjar **Duet Mail** Smart Summarization med Contextual Awareness, vilket säkerställer att du inte bara får sammanfattningen utan också att den innehåller relevanta detaljer från tidigare interaktioner eller projektkontext.
+Att hoppa in i en lång e-postkedja kan kännas som detektivarbete. AI-sammanfattningsverktyg läser hela tråden och ger dig kärnan – viktiga beslut, väntande frågor och åtgärder – på några sekunder. Detta sparar värdefull tid som du annars skulle spendera på att läsa om historien. Ledande verktyg som [Superhuman](https://superhuman.com/) och Googles egna [Gemini för Gmail](https://workspace.google.com/solutions/ai/) erbjuder denna funktion. På samma sätt utnyttjar **Duet Mail** Smart Summarization med Contextual Awareness, vilket säkerställer att du inte bara får sammanfattningen utan också att den innehåller relevanta detaljer från tidigare interaktioner eller projektkontext.
 
 ### Autentisk AI-ritning: Svara snabbare, låter som du
 

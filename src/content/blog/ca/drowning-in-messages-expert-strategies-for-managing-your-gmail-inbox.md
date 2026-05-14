@@ -162,9 +162,6 @@ Tot i que són útils, aquestes eines solen abordar problemes específics en llo
 ### L'ascens de l'assistent de correu electrònic AI: el copilot intel·ligent de la vostra safata d'entrada
 
 
-**Image PlaceholderQuery:** Assistent gràfic futurista AI que ajuda amb el correu electrònic**Text alternatiu:** Gràfic abstracte que mostra un AI que ajuda una persona a gestionar la seva bústia d'entrada de correu electrònic de manera eficient.** Subtítol:** Els assistents de correu electrònic AI aprofiten la tecnologia per automatitzar i millorar la gestió de la bústia d'entrada.
-
-
 Introduïu l'assistent de correu electrònic AI. Aquestes eines representen la propera evolució en la gestió del correu electrònic, aprofitant la intel·ligència artificial, específicament el processament del llenguatge natural (NLP) i l'aprenentatge automàtic (ML), per automatitzar i millorar tasques que tradicionalment requerien un esforç manual important.
 
 
@@ -211,8 +208,6 @@ Els assistents de correu electrònic AI van més enllà de la simple automatitza
 
 ### AI Triatge i priorització: tallar el desordre per trobar allò que és urgent
 
-
-**Image PlaceholderQuery:** diagrama AI Triage de correu electrònic ordenant correus electrònics importants**Text alternatiu:** Diagrama que mostra com AI Triage ordena automàticament els correus electrònics entrants per prioritat.**Títol:** AI Triage emergeix de manera intel·ligent els correus electrònics urgents, eliminant el soroll.
 
 **El problema:** La vostra safata d'entrada estàndard Gmail és un canal cronològic on els butlletins i les notes amb CC competeixen per obtenir atenció juntament amb les sol·licituds urgents dels clients i els terminis crítics. Ordenar manualment aquesta afluència per trobar allò que realment necessita la vostra atenció _ara_ consumeix temps i energia mental valuosos.
 

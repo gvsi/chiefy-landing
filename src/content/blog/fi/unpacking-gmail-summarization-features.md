@@ -1,6 +1,6 @@
 ---
 title: "Pakkauksen purkaminen Gmail Yhteenvetoominaisuudet"
-description: "Kamppailetko sähköpostin ylikuormituksen kanssa? Tutustu Gmailin Gemini:n tuottamiin yhteenvetoominaisuuksiin, ymmärrä niiden hyvät ja huonot puolet ja katso, ovatko ne riittävät."
+description: "Kamppailetko sähköpostin ylikuormituksen kanssa? Tutustu Gmailin Gemini n tuottamiin yhteenvetoominaisuuksiin, ymmärrä niiden hyvät ja huonot puolet ja katso, ovatko ne riittävät."
 publishedAt: 2025-09-26
 author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Sähköpostiyhteenveto"]
@@ -68,11 +68,11 @@ Tämä ei ole (vielä) vakioominaisuus kaikille ilmaisille Gmail-tileille. Pää
 
 Saatavuus alkoi levitä laajemmin vuoden 2024 puolivälissä, joten jos kuulut johonkin näistä luokista, sinun pitäisi nähdä ominaisuudet näkyvät Gmail-käyttöliittymässäsi.
 
-## The Good, The Bad, and The AI: Pros and Cons of Gmail Summarization
+## The Good, The Bad, and The AI: plussat ja miinukset of Gmail Summarization
 
 Yhteenveto sähköpostistasi AI:llä kuulostaa fantastiselta, mutta kuten mikä tahansa tekniikka, siinä on vahvuuksia ja heikkouksia. Käyttäjäraportteihin, arvosteluihin ja Google:n omaan dokumentaatioon perustuva tasapainoinen ulkoasu:
 
-### The Upside (Pros):
+### The Upside (plussat):
 
 - **Merkittävä ajansäästö:** Tämä on ensisijainen etu. Pitkän ketjun ydinviestin nopea ymmärtäminen lukematta jokaista vastausta voi säästää huomattavasti aikaa, varsinkin poissaolon jälkeen.
 
@@ -116,7 +116,7 @@ Joten, sinulla on pääsy Gmailin yhteenvetoon. Kuinka voit käyttää sitä teh
 
 ## Beyond Summaries: Other AI Helpers in Your Gmail
 
-Vaikka suora säikeen yhteenveto on tärkeä ominaisuus, Gemini:n vaikutus ulottuu muihin hyödyllisiin (ja niihin liittyviin) Gmailin ominaisuuksiin:
+Vaikka suora säikeen yhteenveto on tärkeä ominaisuus, Gemini n vaikutus ulottuu muihin hyödyllisiin (ja niihin liittyviin) Gmailin ominaisuuksiin:
 
 – **Kontekstuaaliset älykkäät vastaukset:** Älykkään vastauksen perusominaisuuden evoluutio [käyttää Gemini:tä sähköpostin kontekstin analysointiin](https://blog.google/products/gmail/how-to-use-gemini-gmail-app/) ja ehdottaa yksityiskohtaisempia, vivahteikkaampia ja täysin muotoiltuja vastausvaihtoehtoja. Saatat nähdä ehdotuksia, joissa on otsikko "Pyydä lisätietoja", "Vahvista aikataulu" tai "Hylkää kohteliaasti".
 

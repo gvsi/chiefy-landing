@@ -23,7 +23,7 @@ draft: false
 
 - **குறைந்த மதிப்பு உழைப்பு:** அந்த மின்னஞ்சல் நேரத்தின் கணிசமான பகுதி குறைந்த மதிப்புள்ள செயல்பாடுகளில் செலவிடப்படுகிறது. சராசரித் தொழிலாளி [51% அவர்களின் வேலைநாளில்](https://lifehackmethod.com/blog/time-management-statistics/) சிறிய தாக்கத்துடன், மின்னஞ்சலின் முக்கிய பங்களிப்பைக் கொண்ட பணிகளில் செலவிடுவதாக ஒரு ஆய்வு பரிந்துரைத்தது.
 
-![Photo of a visibly stressed professional sitting at a desk piled high with papers, looking overwhelmed by their computer screen displaying emails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+![காகிதங்கள் குவிந்த மேசையில் அமர்ந்து, மின்னஞ்சல்கள் தெரியும் கணினித் திரையைப் பார்த்து அழுத்தமாகத் தோன்றும் தொழில்முறை நபரின் படம்](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 மின்னஞ்சல் ஓவர்லோட் என்பது பிஸியான தொழில் வல்லுநர்களுக்கு மன அழுத்தம் மற்றும் உற்பத்தியை இழக்கும் முக்கிய ஆதாரமாகும்.
 
@@ -55,7 +55,7 @@ draft: false
 
 
 
-![Screenshot showing the Gmail filter creation window with fields for From, To, Subject, Has the words, and options like Apply the label, Skip the Inbox](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+![From, To, Subject, Has the words போன்ற புலங்களும் Apply the label, Skip the Inbox போன்ற விருப்பங்களும் உள்ள Gmail filter creation window-ஐ காட்டும் ஸ்கிரீன்ஷாட்](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 அனுப்புநர் அல்லது முக்கிய வார்த்தைகளின் அடிப்படையில் உள்வரும் மின்னஞ்சல்களை தானாகவே வரிசைப்படுத்த Gmail வடிப்பான்களைப் பயன்படுத்தவும்
 
@@ -67,7 +67,7 @@ draft: false
 
 இது குறிப்பிடத்தக்க நேரத்தை மிச்சப்படுத்துகிறது மற்றும் உங்கள் வழக்கமான தகவல்தொடர்புகளில் நிலைத்தன்மையை உறுதி செய்கிறது. சில மின்னஞ்சல் அளவுகோல்களின் அடிப்படையில் பதிவு செய்யப்பட்ட பதிலை தானாக அனுப்ப நீங்கள் [வடிப்பான்கள் மற்றும் டெம்ப்ளேட்களை இணைக்கலாம்](https://hiverhq.com/blog/gmail-filters) கூட செய்யலாம்!
 
-![Screenshot showing how to insert a saved template (canned response) in the Gmail compose window via the three-dot menu](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+![Gmail compose window-இல் three-dot menu மூலம் சேமித்த template-ஐ (canned response) எவ்வாறு சேர்ப்பது என்று காட்டும் ஸ்கிரீன்ஷாட்](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Gmail டெம்ப்ளேட்களைப் பயன்படுத்தி (பதிவு செய்யப்பட்ட பதில்கள்) மீண்டும் மீண்டும் பதில்களில் நேரத்தைச் சேமிக்கவும்
 
@@ -162,7 +162,7 @@ AI மின்னஞ்சல் இடம், [MailMaestro](https://www.maestr
 
 இலக்கு வெற்று இன்பாக்ஸ் அல்ல, ஆனால் அதிக கவனம், உற்பத்தி மற்றும் மன அழுத்தம் குறைவான வேலை நாள். சிறியதாகத் தொடங்குங்கள், உங்கள் தேவைகளைப் பூர்த்தி செய்யும் கருவிகளைப் பரிசோதித்து, உண்மையிலேயே முக்கியமான வேலைக்காக உங்கள் நேரத்தை மீட்டெடுக்கவும்.
 
-![Photo of a relaxed professional working efficiently on a laptop, smiling slightly, with a clean desk](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+![சுத்தமான மேசையுடன் laptop-இல் திறம்பட வேலை செய்து மெதுவாக சிரிக்கும் அமைதியான தொழில்முறை நபரின் படம்](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 பயனுள்ள ஆட்டோமேஷன் மூலம் உங்கள் நேரத்தை மீட்டெடுக்கவும் மற்றும் மின்னஞ்சல் அழுத்தத்தை குறைக்கவும்.
 

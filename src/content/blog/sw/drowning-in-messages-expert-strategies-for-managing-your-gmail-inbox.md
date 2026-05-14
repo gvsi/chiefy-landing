@@ -118,7 +118,6 @@ Ingawa ni muhimu, zana hizi mara nyingi hushughulikia sehemu maalum za maumivu b
 
 ### Kuongezeka kwa Msaidizi wa Barua Pepe wa AI: Rubani Mwenza wa Akili katika Kikasha chako
 
-**Hoja ya Kishika Nafasi cha Picha:** Msaidizi wa picha wa siku zijazo wa AI anayesaidia kwa barua pepe**Maandishi Alt:** Mchoro wa muhtasari unaoonyesha AI inayomsaidia mtu kudhibiti kisanduku pokezi chake cha barua pepe kwa ufanisi.**Manukuu:** Wasaidizi wa barua pepe wa AI huongeza teknolojia ili kubinafsisha na kuboresha udhibiti wa kisanduku pokezi.
 
 Ingiza msaidizi wa barua pepe wa AI. Zana hizi zinawakilisha mabadiliko yanayofuata katika usimamizi wa barua pepe, kutumia akili bandia - haswa Uchakataji wa Lugha Asilia (NLP) na Kujifunza kwa Mashine (ML) - kubinafsisha na kuboresha kazi ambazo kwa kawaida zilihitaji juhudi kubwa za mikono.
 
@@ -152,7 +151,6 @@ Wasaidizi wa barua pepe wa AI huhamia zaidi ya otomatiki rahisi; zinatoa uwezo w
 
 ### Uchanganuzi wa AI na Uwekaji Kipaumbele: Kukata Machafuko Ili Kupata Kilicho Haraka
 
-**Hoja ya Kishika Nafasi cha Picha:** mchoro Ujaribio wa barua pepe ya AI upangaji barua pepe muhimu**Maandishi ya Alt:** Mchoro unaoonyesha jinsi utatuzi wa AI unavyopanga kiotomatiki barua pepe zinazoingia kwa kipaumbele.**Maelezo:** AI Triage huwasilisha barua pepe za dharura kwa akili, ikipunguza kelele.
 
 **Tatizo:** Kikasha chako cha kawaida cha Gmail ni mlisho wa mpangilio ambapo majarida na memo za CC'd hushindana ili kushughulikiwa pamoja na maombi ya dharura ya mteja na makataa muhimu. Kupanga wingi huu mwenyewe ili kupata kile ambacho kinahitaji umakini wako _sasa_ hutumia wakati na nguvu za kiakili.
 

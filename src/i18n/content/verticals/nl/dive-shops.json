@@ -93,7 +93,7 @@
       "avatarLetter": "D",
       "avatarColor": "lavender",
       "subject": "Zomeruitverkoop — 25% korting op wetsuits",
-      "pill": "Probewegingen",
+      "pill": "Promoties",
       "pillColor": "lavender"
     }
   ],
@@ -127,13 +127,13 @@
     {
       "name": "Kapitein Mike T.",
       "title": "Duikbootkapitein, FL",
-      "quote": "Ik organiseer boottochten van vrijdag tot en met zondag en de winkel is op maandag maar een paar uur open. Certificeringsvragen en reisaanvragen stapelen zich op terwijl ik onder water ben.Duet stelt antwoorden op met mijn prijzen, duiklocaties en wat er bij zit - ik bekijk ze tussen de duiken door.",
+      "quote": "Ik organiseer boottochten van vrijdag tot en met zondag en de winkel is op maandag maar een paar uur open. Certificeringsvragen en reisaanvragen stapelen zich op terwijl ik onder water ben. Duet stelt antwoorden op met mijn prijzen, duiklocaties en wat er bij zit - ik bekijk ze tussen de duiken door.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI-duikcentrum, HI",
-      "quote": "We organiseren duiken, snorkeltochten en walvisobservaties vanaf dezelfde boten. De verscheidenheid aan e-mails is krankzinnig: certificaatvragen, groepsboekingen, verhuur van uitrusting, weercontroles.Duet sorteert het allemaal en stelt antwoorden op die het verschil kennen. Absolute redder in nood.",
+      "quote": "We organiseren duiken, snorkeltochten en walvisobservaties vanaf dezelfde boten. De verscheidenheid aan e-mails is krankzinnig: certificaatvragen, groepsboekingen, verhuur van uitrusting, weercontroles. Duet sorteert het allemaal en stelt antwoorden op die het verschil kennen. Absolute redder in nood.",
       "avatarKey": "jennifer"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Sara K.",
       "title": "Duikinstructeur en gids, NC",
-      "quote": "Ik geef 's ochtends cursussen en 's middags begeleid ik duiken. Er is letterlijk geen tijd om e-mail te beantwoorden.Duet leerde mijn cursusrooster, prijzen en zelfs mijn annuleringsbeleid kennen. Klanten kunnen het verschil niet zien.",
+      "quote": "Ik geef 's ochtends cursussen en 's middags begeleid ik duiken. Er is letterlijk geen tijd om e-mail te beantwoorden. Duet leerde mijn cursusrooster, prijzen en zelfs mijn annuleringsbeleid kennen. Klanten kunnen het verschil niet zien.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet werkt met Gmail en Outlook, dus het werkt overal waar uw e-mail werkt, inclusief uw telefoon. Concepten verschijnen automatisch in uw inbox. Tussen de duiken of terug bij de kade kunt u met één tik bekijken en verzenden. De meeste duikoperators vertellen ons dat het hen tijdens het hoogseizoen 1-2 uur e-mailtijd per dag bespaart."
     }
   ],
-  "pricingNote": "Voor $ 150/duik met een groep van 6 personen levert één opgeslagen reis meer dan een jaarProop."
+  "pricingNote": "Voor $ 150/duik met een groep van 6 personen levert één opgeslagen reis meer dan een jaar Pro op."
 }

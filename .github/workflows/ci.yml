@@ -33,6 +33,8 @@ jobs:
           pnpm i18n:sync-glossary
           pnpm i18n:verify:contracts
           pnpm i18n:verify
+          pnpm i18n:scan-source
+          pnpm i18n:redirects
 
       - name: Check Astro and Pages Functions
         run: |

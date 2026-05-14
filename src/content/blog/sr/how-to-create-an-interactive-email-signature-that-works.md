@@ -26,7 +26,7 @@ Za razliku od tradicionalnog, statičkog potpisa (samo običan tekst), interakti
 
 Cilj? Da bi primaoci bez napora mogli da preduzmu sledeći korak, šta god to bilo. Za slobodnjake i male timove, prednosti su opipljive:
 
-- **Poboljšani Proprofesionalizam i kredibilitet:**Dobro dizajniran potpis ukazuje na pažnju na detalje i gradi poverenje. [Dosledno brendiranje povećava kredibilitet](https://quickmail.com/role-of-email-signatures-in-brand-awareness).
+- **Poboljšani profesionalizam i kredibilitet:**Dobro dizajniran potpis ukazuje na pažnju na detalje i gradi poverenje. [Dosledno brendiranje povećava kredibilitet](https://quickmail.com/role-of-email-signatures-in-brand-awareness).
 
 - **Povećana svest o brendu:**Svaki e-pošta pojačava identitet vašeg brenda pomoću logotipa i doslednog stila. [Dosledna prezentacija brenda može značajno povećati prihod](https://exclaimer.com/blog/maximizing-marketing-roi-personalized-email-signatures/).
 
@@ -121,7 +121,7 @@ Mobilni uređaji: Uverite se da vaš potpis izgleda odlično i da dobro funkcion
 
 - **Izbegavajte okidače neželjene pošte:**Dok sam potpis retko izaziva probleme sa neželjenom poštom, loše primenjeni mogu doprineti. Izbegavajte prekomerne slike, previše veza (posebno korišćenje neželjenog teksta kao što je „Kliknite ovde!“), neispravne veze ili previše složen kod. Dobar balans teksta i slika je ključan. [Email Signature Rescue napominje da su nepravilne HTML ili velike slike](https://www.emailsignaturerescue.com/blog/why-does-my-email-signature-make-my-emails-get-caught-in-spam-filters) uobičajeni krivci.
 
-- **Test, Test, Test:**Pregledajte svoj potpis na različitim klijentima e-pošte (Gmail, Outlook, Apple Mail) i uređajima (stoni računar, mobilni, tablet). Proverite kako izgleda u mračnom režimu.
+- **Testirajte, testirajte, testirajte:**Pregledajte svoj potpis na različitim klijentima e-pošte (Gmail, Outlook, Apple Mail) i uređajima (stoni računar, mobilni, tablet). Proverite kako izgleda u mračnom režimu.
 
 - **Uverite se da su DNS zapisi podešeni:**Iako nisu specifični za potpis, posedovanje tačnih zapisa SPF, DKIM i DMARC za vaš domen je od vitalnog značaja za ukupnu isporuku e-pošte.
 

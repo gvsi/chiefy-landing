@@ -146,7 +146,7 @@ Oikean sähköpostityökalun valitseminen edellyttää tarkkaan tarkastelua, kui
 
 | Ominaisuus/näkökohta | Polymail | Superhuman | Missive | Spark Mail | Shortwave | Duet Mail (Gmail) |
 | ------------------- | ------------------------------------ | ----------------------------------------- | -------------------------------------- | ----------------------------------------- | ------------------------------------ | ----------------------------------------------------- |
-| **Ensisijainen painopiste** | Myynti/Prof. Tuottavuus | Nopeus ja tehokkuus | Team Collaboration Hub | Monipuolinen, esteettömyys | AI Org. (Gmail) | Henkilökohtainen AI Assistant |
+| **Ensisijainen painopiste** | Myynti/tuottavuus | Nopeus ja tehokkuus | Team Collaboration Hub | Monipuolinen, esteettömyys | AI Org. (Gmail) | Henkilökohtainen AI Assistant |
 | **Alkuhinta** | \~13 $/käyttäjä/kk (vain maksullinen) | 30 $/käyttäjä/kk (vain maksullinen) | Ilmainen taso / 14 dollaria/käyttäjä/kk | Ilmainen taso / \~5 $/käyttäjä/kk | Ilmainen taso / 7 dollaria/käyttäjä/kk | (Premium-asema) |
 | **Alustoja** | Web, macOS, Win, iOS (ei Androidia) | Vain Gmail/Outlook; Monikäyttöiset sovellukset | Monen alustan sovellukset; IMAP-tuki | Monen alustan sovellukset; IMAP-tuki | Vain Gmail; Monialustaiset sovellukset | Web, Chrome Ext (Gmail) |
 | **Tärkeimmät AI-ominaisuudet** | Perusseuranta/Insights | Adv. Luonnos, yhteenveto, haku, työnkulut | Luonnos, yhteenveto, säännöt | Luonnos, yhteenveto (maksettu) | Deep Org., luonnos, yhteenveto, haku | AI Triage, Aito luonnos, Yhteenveto, Kontekstitietoinen |

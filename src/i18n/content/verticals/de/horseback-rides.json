@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Fahrerfragen und nie Lärm sehen. Keine Gruppenanfrage mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen ist.",
   "draftSubtitle": "Duet lernt Ihre Fahrarten, Preise und Anforderungen. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit Angaben zur Strecke, Preisen und Kleidung verfasst. Sie überprüfen und senden.",
-  "agentSubtitle": "„Haben dieses Wochenende irgendwelche Fahrgeschäfte geöffnet?“ „Entwerfen Sie eine Antwort an Jessica mit Verfügbarkeit am Samstag.“Duet kennt Ihren Posteingang und Kalender – fragen Sie einfach nach.",
+  "agentSubtitle": "„Haben dieses Wochenende irgendwelche Fahrgeschäfte geöffnet?“ „Entwerfen Sie eine Antwort an Jessica mit Verfügbarkeit am Samstag.” Duet kennt Ihren Posteingang und Kalender – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -93,7 +93,7 @@
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "Frühlingsschlussverkauf – 15 % Rabatt auf Futter und Zaumzeug",
-      "pill": "ProAnträge",
+      "pill": "Werbung",
       "pillColor": "lavender"
     }
   ],
@@ -133,25 +133,25 @@
     {
       "name": "Maria C.",
       "title": "Reiseveranstalter für Pferde, AZ",
-      "quote": "Wir erhalten Dutzende E-Mails mit denselben Fragen – Gewichtsbeschränkungen, Kleidung, Altersvorgaben.Duet kümmert sich um alles und die Antworten klingen genauso wie ich. Meine Gäste haben keine Ahnung, dass es KI ist.",
+      "quote": "Wir erhalten Dutzende E-Mails mit denselben Fragen – Gewichtsbeschränkungen, Kleidung, Altersvorgaben. Duet kümmert sich um alles und die Antworten klingen genauso wie ich. Meine Gäste haben keine Ahnung, dass es KI ist.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Die Hauptsaison hat mich umgebracht. Über 30 E-Mails pro Tag zusätzlich zu Lauffahrten.Duet sortiert die Buchungsanfragen aus dem Lärm und entwirft Antworten, die alles enthalten – Preise, mitzubringende Gegenstände, vieles mehr. Ich habe meine Abende zurückbekommen.",
+      "quote": "Die Hauptsaison hat mich umgebracht. Über 30 E-Mails pro Tag zusätzlich zu Lauffahrten. Duet sortiert die Buchungsanfragen aus dem Lärm und entwirft Antworten, die alles enthalten – Preise, mitzubringende Gegenstände, vieles mehr. Ich habe meine Abende zurückbekommen.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Reitlehrer und Buchungsmanager, TX",
-      "quote": "Wir bieten Fahrten bei Sonnenuntergang, Morgenfahrten und Privatstunden an – jeweils mit unterschiedlichen Preisen und Anforderungen.Duet habe alles in einer Woche gelernt. Es erstellt jedes Mal die richtige Antwort für den richtigen Fahrttyp.",
+      "quote": "Wir bieten Fahrten bei Sonnenuntergang, Morgenfahrten und Privatstunden an – jeweils mit unterschiedlichen Preisen und Anforderungen. Duet habe alles in einer Woche gelernt. Es erstellt jedes Mal die richtige Antwort für den richtigen Fahrttyp.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "Am schlimmsten waren die sensiblen E-Mails – jemand fragte, ob sie zu schwer seien oder ob sein Kind alt genug sei.Duet behandelt diese mit der gleichen Sorgfalt, die ich tun würde.professionell, freundlich und präzise. Das allein ist es wert.",
+      "quote": "Am schlimmsten waren die sensiblen E-Mails – jemand fragte, ob sie zu schwer seien oder ob sein Kind alt genug sei. Duet behandelt diese mit der gleichen Sorgfalt, die ich tun würde.professionell, freundlich und präzise. Das allein ist es wert.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet lernt Ihre Fahrtypen, Gruppengrößen, Mindestalter und alle fahrerspezifischen Anforderungen. Wenn eine Familie oder eine Gruppe eine E-Mail bezüglich einer Buchung sendet, wird eine Antwort verfasst, die die Preise für die gesamte Gruppe, die Informationen, die jeder Fahrer wissen muss, und die verfügbaren Zeitfenster enthält. Sie überprüfen und senden – kein Hin und Her erforderlich."
     }
   ],
-  "pricingNote": "Bei 100 $/Person für eine Gruppe von 6 Personen reicht eine gesparte Fahrt für mehr als zwei JahreProaus."
+  "pricingNote": "Bei 100 $/Person für eine Gruppe von 6 Personen reicht eine gesparte Fahrt für mehr als zwei Jahre Pro aus."
 }

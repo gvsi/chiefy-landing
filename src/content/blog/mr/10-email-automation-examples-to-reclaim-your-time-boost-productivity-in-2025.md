@@ -111,7 +111,7 @@ draft: false
 
 यामुळे गुंतागुंतीच्या चर्चांमध्ये लवकर गती पकडण्यासाठी प्रचंड वेळ वाचतो. [Duet Mail मध्ये संदर्भ-जाणिव असलेले **Smart Summarization** समाविष्ट आहे](https://duetmail.com/mr), म्हणजे ते फक्त लांब थ्रेड्स संक्षिप्त करत नाही, तर आधी उल्लेख केलेल्या प्रकल्पांची आणि नातेसंबंधांची माहितीही लक्षात ठेवते, त्यामुळे सारांश अत्यंत संबंधित आणि कृतीक्षम राहतात.
 
-![Screenshot showing Duet Mail's smart email summarization feature condensing a long email thread into key points and action items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+![लांब ईमेल थ्रेड मुख्य मुद्दे आणि action items मध्ये संक्षेपित करणारे Duet Mail चे स्मार्ट ईमेल summarization फीचर दाखवणारा स्क्रीनशॉट](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## ऑटोमेशनची ताकद: आकड्यांमध्ये
 

@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst neue Beratungsanfragen sehen, dann Kundengenehmigungen und nie Lieferantenlärm. Keinen Hinweis mehr verpassen, der unter Auftragsbestätigungen für Gärtnereien vergraben ist.",
   "draftSubtitle": "Duet lernt Ihre Preisgestaltung, Ihren Prozess und Ihren Ton. Wenn eine Beratungsanfrage eingeht, wird eine vollständige Antwort mit Ihrer Verfügbarkeit, Ihren Erwartungen und den nächsten Schritten verfasst. Sie überprüfen und senden.",
-  "agentSubtitle": "„Wie sieht der Zeitplan für das Henderson-Projekt aus?“ „Welche Kunden warten auf die Plangenehmigung?“Duet kennt Ihren Posteingang und Ihre Projekte – fragen Sie einfach nach.",
+  "agentSubtitle": "„Wie sieht der Zeitplan für das Henderson-Projekt aus?“ „Welche Kunden warten auf die Plangenehmigung?” Duet kennt Ihren Posteingang und Ihre Projekte – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -133,25 +133,25 @@
     {
       "name": "Francesca G.",
       "title": "Gartendesigner, Portland OR",
-      "quote": "Die Koordination zwischen Hardscape-Teams, Bewässerungsinstallateuren und Kunden erzeugt eine absurde Menge an E-Mails.Duet sortiert alles und entwirft Antworten, die die richtigen Projektdetails enthalten. Es ist, als hätte man einen Studiomanager.",
+      "quote": "Die Koordination zwischen Hardscape-Teams, Bewässerungsinstallateuren und Kunden erzeugt eine absurde Menge an E-Mails. Duet sortiert alles und entwirft Antworten, die die richtigen Projektdetails enthalten. Es ist, als hätte man einen Studiomanager.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Inhaber eines Landschaftsdesignstudios, Denver CO",
-      "quote": "Früher verbrachte ich jeden Abend nach der Feldarbeit damit, E-Mails zu lesen. Dieselben Fragen – Preisgestaltung, Prozess, Zeitplan.Duet kümmert sich um alles. Meine Reaktionszeit ist von Tagen auf Minuten gesunken und meine Abschlussquote ist deutlich gestiegen.",
+      "quote": "Früher verbrachte ich jeden Abend nach der Feldarbeit damit, E-Mails zu lesen. Dieselben Fragen – Preisgestaltung, Prozess, Zeitplan. Duet kümmert sich um alles. Meine Reaktionszeit ist von Tagen auf Minuten gesunken und meine Abschlussquote ist deutlich gestiegen.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Wohnlandschaftsarchitekt, Scottsdale, Arizona",
-      "quote": "Meine Kunden stellen viele Fragen zur Pflanzenauswahl und -pflege.Duet habe meine Pflanzenpaletten und Pflegeanweisungen sowie Entwürfe von Antworten gelernt, die ich kaum bearbeiten muss. Kunden finden, dass ich unglaublich reaktionsschnell bin.",
+      "quote": "Meine Kunden stellen viele Fragen zur Pflanzenauswahl und -pflege. Duet habe meine Pflanzenpaletten und Pflegeanweisungen sowie Entwürfe von Antworten gelernt, die ich kaum bearbeiten muss. Kunden finden, dass ich unglaublich reaktionsschnell bin.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Landschaftsarchitekt für einheimische Pflanzen, Raleigh NC",
-      "quote": "Ich verlor neue Kunden, weil ich nicht antworten konnte, während ich knietief in einer Pflanzinstallation steckte.Duet entwirft Beratungsantworten mit meinem genauen Prozess, meinen Preisen und dem, was mich erwartet. Es hat sich bereits in der ersten Woche bezahlt gemacht.",
+      "quote": "Ich verlor neue Kunden, weil ich nicht antworten konnte, während ich knietief in einer Pflanzinstallation steckte. Duet entwirft Beratungsantworten mit meinem genauen Prozess, meinen Preisen und dem, was mich erwartet. Es hat sich bereits in der ersten Woche bezahlt gemacht.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet lernt Ihre Projekte und die beteiligten Auftragnehmer kennen – Landschaftsbau, Bewässerung, Pflanzteams, Baumschulen. Es kategorisiert E-Mails von Auftragnehmern getrennt von E-Mails von Kunden und kann Antworten mit projektspezifischen Details wie Spezifikationen, Zeitplänen und Materialien entwerfen. Sie behalten den Überblick über jedes Team, ohne das Chaos im Posteingang."
     }
   ],
-  "pricingNote": "Bei 8.000 $/Projekt zahlt ein gesparter Kunde jahrelangPro."
+  "pricingNote": "Bei 8.000 $/Projekt zahlt ein gesparter Kunde jahrelang Pro."
 }

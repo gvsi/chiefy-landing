@@ -93,7 +93,7 @@
       "avatarLetter": "D",
       "avatarColor": "lavender",
       "subject": "Handelsprogram — forårets sparebegivenhed",
-      "pill": "Probevægelser",
+      "pill": "Kampagner",
       "pillColor": "lavender"
     }
   ],
@@ -127,7 +127,7 @@
     {
       "name": "Michael R.",
       "title": "Hoveddesigner, Austin TX",
-      "quote": "Jeg er på stedet 6 timer om dagen og koordinerer malere, elektrikere og flisemontører. I mellemtiden e-mailer tre andre kunder om deres projekter.Duet udkast til svar med de rigtige projektdetaljer — jeg gennemgår bare mellem besøg på webstedet.",
+      "quote": "Jeg er på stedet 6 timer om dagen og koordinerer malere, elektrikere og flisemontører. I mellemtiden e-mailer tre andre kunder om deres projekter. Duet udkast til svar med de rigtige projektdetaljer — jeg gennemgår bare mellem besøg på webstedet.",
       "avatarKey": "michael"
     },
     {
@@ -139,19 +139,19 @@
     {
       "name": "Johnny M.",
       "title": "Ejer af designstudie, Nashville",
-      "quote": "At administrere e-mails for 12 aktive projekter dræbte mig.Duet kategoriserer alt - nye forespørgsler, afventende godkendelser, leverandørordrer, entreprenøropdateringer - så jeg ved præcis, hvad der skal min opmærksomhed først.",
+      "quote": "At administrere e-mails for 12 aktive projekter dræbte mig. Duet kategoriserer alt - nye forespørgsler, afventende godkendelser, leverandørordrer, entreprenøropdateringer - så jeg ved præcis, hvad der skal min opmærksomhed først.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Indretningsarkitekt, San Diego",
-      "quote": "Jeg mistede potentielle kunder, fordi jeg ikke kunne reagere hurtigt nok under installationsuger.Duet lærte min høringsproces, prisstruktur, selv hvordan jeg beskriver min designstil. Kunder aner ikke, at det er AI-assisteret.",
+      "quote": "Jeg mistede potentielle kunder, fordi jeg ikke kunne reagere hurtigt nok under installationsuger. Duet lærte min høringsproces, prisstruktur, selv hvordan jeg beskriver min designstil. Kunder aner ikke, at det er AI-assisteret.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Kommerciel indretningsarkitekt, Denver",
-      "quote": "Mellem leverandørens leveringstider, entreprenørplaner og anmodninger om klientrevision var min indbakke kaos.Duet sorterer det hele og udarbejder opfølgninger på afventende godkendelser. Det er som at have en projektkoordinator, der aldrig sover.",
+      "quote": "Mellem leverandørens leveringstider, entreprenørplaner og anmodninger om klientrevision var min indbakke kaos. Duet sorterer det hele og udarbejder opfølgninger på afventende godkendelser. Det er som at have en projektkoordinator, der aldrig sover.",
       "avatarKey": "sarah"
     }
   ],
@@ -164,7 +164,7 @@
     },
     {
       "question": "Jeg koordinerer med en masse entreprenører og leverandører. Hjælper Duet med det?",
-      "answer": "Absolut.Duet lærer dine entreprenørkontakter, leverandørrepræsentanter og konteksten for hver branches rolle i dine projekter at kende. Når din elektriker sender en e-mail om, at rough-in er udført, kan Duet udarbejde et svar, der bekræfter det næste trin eller sløjfe i armaturets installatør. Det holder arbejdsgangen i gang, selv når du er på tværs af byen på en anden arbejdsplads."
+      "answer": "Absolut. Duet lærer dine entreprenørkontakter, leverandørrepræsentanter og konteksten for hver branches rolle i dine projekter at kende. Når din elektriker sender en e-mail om, at rough-in er udført, kan Duet udarbejde et svar, der bekræfter det næste trin eller sløjfe i armaturets installatør. Det holder arbejdsgangen i gang, selv når du er på tværs af byen på en anden arbejdsplads."
     }
   ],
   "pricingNote": "Til $10.000/projekt betaler én sparet klient for årevis af Duet Pro."

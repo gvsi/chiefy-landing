@@ -1,5 +1,5 @@
 ---
-title: "Automatiser e-mails i Gmail og genvind din dag: En travlProfessionel guide i 2025"
+title: "Automatiser e-mails i Gmail og genvind din dag: En travl professionel guide i 2025"
 description: "Stop med at drukne i din indbakke! Lær, hvordan du automatiserer e-mails i Gmail ved hjælp af indbyggede funktioner, udvidelser og AI-assistenter for at spare timer og øge produktiviteten"
 publishedAt: 2025-11-16
 author: "Duet Mail Team"
@@ -71,7 +71,7 @@ Disse to funktioner hjælper dig med at administrere *når* du håndterer e-mail
 
 - **Schedule Send:** Skriv en e-mail nu, men planlæg, at den skal sendes senere. Klik på pil ned ved siden af ​​knappen "Send". Ideel til at respektere tidszoner, sende beskeder i arbejdstiden, selvom du skriver dem sent, eller timing meddelelser perfekt.Gmail tillader planlægning af [op til 100 e-mails](https://www.brevo.com/blog/how-to-schedule-an-email-in-gmail/), langt i forvejen. Lær mere fra den [officielle Gmail guide](https://support.google.com/mail/answer/9214606?hl=en).
 
-###ProTip: Brug af e-mail-aliaser ('+'-adressering) med filtre
+### Pro-tip: Brug af e-mail-aliaser ('+'-adressering) med filtre
 
 Et mindre kendt Gmail trick er at bruge aliaser. Du kan tilføje et plustegn (\`+\`) efterfulgt af et hvilket som helst ord før \`@\` i din e-mail-adresse (f.eks. \`ditnavn+nyhedsbreve\@gmail.com\`, \`ditnavn+fakturering\@gmail.com\`). E-mails sendt til disse aliasser ankommer stadig i din primære indbakke, men den unikke adresse giver mulighed for kraftig filtrering. Opret f.eks. et filter for alt, der sendes \`Til: ditnavn+nyhedsbreve\@gmail.com\` og anvend automatisk etiketten "Nyhedsbreve" og arkiver det. Dette er utrolig nyttigt til automatisk at sortere tilmeldinger og abonnementer, som bemærket af brugere på [Reddit](https://www.reddit.com/r/google/comments/fbdd9/what_awesome_gmail_filters_are_you_using_that/) og teknologiske blogs som [Spin.AI](https://spin.ai/blog/gmail-tutorial-tips-tricks/).
 
@@ -111,7 +111,7 @@ Føler du dig overvældet af den store volumen? AI-triage fungerer som en virtue
 
 ### Smart opsummering: Tag fat i lange tråde med det samme
 
-At hoppe ind i en lang e-mail-kæde kan føles som detektivarbejde. AI-opsummeringsværktøjer læser hele tråden og giver dig kernen – nøglebeslutninger, afventende spørgsmål og handlingspunkter – på få sekunder. Dette sparer værdifuld tid, du ellers ville bruge på at genlæse historien. Førende værktøjer som [Superhuman](https://superhuman.com/) og Googles egne [Geminifor Gmail](https://workspace.google.com/solutions/ai/) tilbyder denne funktion. På samme måde udnytter **Duet Mail** Smart Summarization med Contextual Awareness, hvilket sikrer, at du ikke kun får resuméet, men også at det inkorporerer relevante detaljer fra tidligere interaktioner eller projektkontekst.
+At hoppe ind i en lang e-mail-kæde kan føles som detektivarbejde. AI-opsummeringsværktøjer læser hele tråden og giver dig kernen – nøglebeslutninger, afventende spørgsmål og handlingspunkter – på få sekunder. Dette sparer værdifuld tid, du ellers ville bruge på at genlæse historien. Førende værktøjer som [Superhuman](https://superhuman.com/) og Googles egne [Gemini for Gmail](https://workspace.google.com/solutions/ai/) tilbyder denne funktion. På samme måde udnytter **Duet Mail** Smart Summarization med Contextual Awareness, hvilket sikrer, at du ikke kun får resuméet, men også at det inkorporerer relevante detaljer fra tidligere interaktioner eller projektkontekst.
 
 ### Autentisk AI-tegning: Reager hurtigere, lyder som dig
 

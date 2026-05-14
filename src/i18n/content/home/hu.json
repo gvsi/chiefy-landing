@@ -42,7 +42,7 @@
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product indítási idővonal",
+        "subject": "Re: Termékbevezetési ütemterv",
         "preview": "Hé! Szeretett volna bejelentkezni az indítóeszközökhöz. Még mindig úton vagyunk a jövő héten...",
         "pill": "Válaszolni"
       },
@@ -215,7 +215,7 @@
   "draftShowcase": {
     "ariaLabel": "AI e-mail-szerkesztés és válaszgenerálás",
     "badge": "Tervezés",
-    "title": "Duett piszkozatok a hangodban",
+    "title": "Duet piszkozatok a hangodban",
     "subtitle": "A Duet megtanulja, hogyan írjon, és az Ön hangnemének megfelelő válaszokat készít. Tekintse át, módosítsa, ha szükséges, és küldje el másodpercek alatt.",
     "windowTitle": "Új üzenet",
     "fieldLabels": {
@@ -253,7 +253,7 @@
     "badge": "Intelligencia",
     "title": "Kérdezz bármit az e-maileddel kapcsolatban",
     "subtitle": "Kérje meg a Duetet, hogy keresse meg az e-maileket, ellenőrizze a naptárát, vagy válaszvázlatot készítsen. Megérti a beérkezett üzeneteket, és azonnal válaszol.",
-    "windowTitle": "Duett ügynök",
+    "windowTitle": "Duet ügynök",
     "onlineLabel": "Online",
     "initialUserMessage": "Megtalálod a Számvitel által küldött Stripe számlát?",
     "processingText": "Keresés a beérkező levelek között...",
@@ -275,7 +275,7 @@
     ],
     "inputPlaceholder": "Kérdezz bármit...",
     "dynamicResponses": {
-      "processingDefault": "Proaccessing...",
+      "processingDefault": "Feldolgozás...",
       "processingDraft": "Piszkozat generálása...",
       "processingCalendar": "Elérhetőség ellenőrzése...",
       "draftIntro": "Íme egy választervezet a Számvitelnek:",
@@ -390,7 +390,7 @@
             "description": "Alapvető szervezés a kezdéshez"
           },
           {
-            "title": "Duett asszisztens",
+            "title": "Duet asszisztens",
             "description": "Próbáld ki az AI-asszisztenst"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duett asszisztens",
+            "title": "Duet asszisztens",
             "description": "Csevegés kereshet, tervezhet, rendszerezhet stb",
             "highlight": true
           },

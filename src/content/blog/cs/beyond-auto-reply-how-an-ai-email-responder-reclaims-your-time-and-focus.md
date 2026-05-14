@@ -89,13 +89,13 @@ Sumarizace šetří neocenitelný čas při skákání zpět do složitých konv
 
 Trh s e-mailovými asistenty AI rychle roste. Zatímco mnoho nástrojů nabízí překrývající se funkce, často mají různé silné stránky a cílové skupiny. Zde je stručný pohled na některé klíčové hráče a běžné typy funkcí (na základě recenzí ze zdrojů jako[**Dialzara**](https://dialzara.com/blog/10-best-ai-email-writing-tools-2024/),[**Lindy**](https://www.lindy.ai/blog/ai-email-assistant) a[**Zapier**](https://zapier.com/blog/best-ai-email-assistant/)):
 
-| **Zaměření na funkce**            | **Ukázkové nástroje uvedené v recenzích** | **Schopnost klíče**                                    | **Ideální uživatel Profile**                       |
+| **Zaměření na funkce**            | **Ukázkové nástroje uvedené v recenzích** | **Klíčová schopnost**                                    | **Ideální uživatel**                       |
 | ---------------------------- | -------------------------------------- | ----------------------------------------------------- | -------------------------------------------- |
-| **Správa doručené pošty/třídění** | SaneBox, Shortwave, Lindy, Duet Mail   | Chytré třídění, prioritizace, filtrování spamu/nepořádku | Uživatelé s velkým počtem uživatelů, Busy Profesionálové        |
-| **Draftování a psaní**       | Jasper, Copy.ai, Flowrite, Duet Mail   | Generování šablon, tvorba obsahu, učení hlasu | Obchodníci, prodejní týmy, často píšící     |
-| **Gramatika a polština**         | Grammarly                              | Oprava chyb, úprava tónu, jasnost            | Každý, kdo potřebuje dokonalou komunikaci        |
-| **Integrace platformy**     | Druhý pilot (Microsoft), Gemini (Google)   | Hluboká integrace v rámci konkrétních ekosystémů           | Uživatelé výrazně investovali do sady MS nebo Google |
-| **Shrnutí**            | Druhý pilot, Shortwave, Duet Mail          | Zhuštění dlouhých vláken                               | Profesionálové řízení komplexních projektů      |
+| **Správa doručené pošty/třídění** | SaneBox, Shortwave, Lindy, Duet Mail   | Chytré třídění, prioritizace, filtrování spamu/nepořádku | Uživatelé s velkým objemem pošty, zaneprázdnění profesionálové        |
+| **Psaní návrhů a textů**       | Jasper, Copy.ai, Flowrite, Duet Mail   | Generování šablon, tvorba obsahu, učení hlasu | Obchodníci, prodejní týmy, často píšící     |
+| **Gramatika a styl**         | Grammarly                              | Oprava chyb, úprava tónu, jasnost            | Každý, kdo potřebuje dokonalou komunikaci        |
+| **Integrace platformy**     | Copilot (Microsoft), Gemini (Google)   | Hluboká integrace v rámci konkrétních ekosystémů           | Uživatelé výrazně investovali do sady MS nebo Google |
+| **Shrnutí**            | Copilot, Shortwave, Duet Mail          | Zhuštění dlouhých vláken                               | Profesionálové řízení komplexních projektů      |
 | **Personalizace**          | SmartWriter.ai                         | Přizpůsobení informačních e-mailů ve velkém měřítku                    | Týmy prodeje a rozvoje podnikání           |
 
 (Poznámka: Tato tabulka je ilustrativní; mnoho nástrojů nabízí více funkcí. Sady funkcí a ceny se mohou změnit.)
@@ -122,7 +122,7 @@ Trh s e-mailovými asistenty AI rychle roste. Zatímco mnoho nástrojů nabízí
 
 Pouhá instalace nástroje AI nestačí. Chcete-li maximalizovat výhody:
 
-1. **Trénujte svou umělou inteligenci:** ProDůsledně poskytujte zpětnou vazbu. Opravte nepohodlné frázování, přijměte dobré návrhy a použijte jakékoli nastavení předvoleb stylu. Pokud to nástroj umožňuje, vložte do něj ukázky svého nejlepšího psaní.
+1. **Trénujte svou umělou inteligenci:** Důsledně poskytujte zpětnou vazbu. Opravte nepohodlné frázování, přijměte dobré návrhy a použijte jakékoli nastavení předvoleb stylu. Pokud to nástroj umožňuje, vložte do něj ukázky svého nejlepšího psaní.
 
 2. **Důvěřuj, ale prověřuj:** Zejména zpočátku si před odesláním prohlédněte koncepty generované AI. Zkontrolujte tón, přesnost a kontext. AI je mocná, ale ne neomylná.
 

@@ -39,7 +39,7 @@ DI santraukų įrankiai siekia tiesiogiai spręsti šias problemas greitai ištr
 
 Didžiulis kasdienių el. laiškų kiekis parodo efektyvių valdymo įrankių poreikį.
 
-## Susipažinkite su Gemini Gmail aplinkoje: vietinė Google santraukų funkcija
+## Susipažinkite su Gemini Gmail aplinkoje: vietinė Googleantraukų funkcija
 
 Atpažinusi el. pašto perkrovos problemą, Google į Gmail tiesiogiai įpynė Gemini DI galimybes. Ryškiausia funkcija, skirta ilgoms gijoms tvarkyti, yra **„Summarize this email“**.
 

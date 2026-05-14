@@ -13,7 +13,7 @@ Tento neustálý příliv není jen nepříjemný; je to významný tlak na prod
 
 Přestože Gmail nabízí nativní nástroje, jako jsou štítky a filtry, často nestačí k zastavení přílivu. Naštěstí může váš Gmail přebít množství bezplatných pluginů a rozšíření, které nabízejí specializované nástroje, které vám pomohou vizualizovat pracovní postupy, spravovat úkoly, řídit načasování a uklidit váš digitální prostor – to vše, aniž by to stálo desetník. Pojďme prozkoumat některé z nejlepších bezplatných možností, které vám pomohou znovu získat kontrolu a zvýšit vaši produktivitu v 2025.
 
-## Kromě štítků a filtrů: Proč jsou bezplatné pluginy Gmail vylepšením produktivity Pro
+## Kromě štítků a filtrů: Proč jsou bezplatné pluginy Gmail vylepšením produktivity
 
 Vestavěné funkce Gmail – štítky, filtry, dokonce i prioritní schránka s umělou inteligencí – poskytují slušný základ pro organizaci. Můžete označovat zprávy, automaticky třídit opakující se e-maily a nechat Google ukázat, co _považuje_ za důležité. Pro střední objem e-mailů to může stačit.
 
@@ -51,7 +51,7 @@ Prošli jsme možnosti, abychom zdůraznili některé z nejúčinnějších, nej
 
 ![Todoist pro integrační panel Gmail ukazující, jak převést e-mail na úkol s termínem dokončení a výběrem projektu](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
-**Pros:** ProVytváří bezproblémový most mezi vaším komunikačním centrem (Gmail) a vaším systémem správy úloh (Todoist). Využívá vynikající funkce Todoist, jako je zadávání data v přirozeném jazyce a spolehlivá synchronizace mezi platformami. Je to skvělý způsob, jak dosáhnout „nulové složky doručené pošty“ přesunutím položek s akcemi z doručené pošty do vyhrazeného seznamu úkolů.
+**Výhody:** Vytváří bezproblémový most mezi vaším komunikačním centrem (Gmail) a vaším systémem správy úloh (Todoist). Využívá vynikající funkce Todoist, jako je zadávání data v přirozeném jazyce a spolehlivá synchronizace mezi platformami. Je to skvělý způsob, jak dosáhnout „nulové složky doručené pošty“ přesunutím položek s akcemi z doručené pošty do vyhrazeného seznamu úkolů.
 
 **Omezení bezplatného plánu (Todoist a integrace):** Hlavní nevýhoda spočívá v omezeních samotného _bezplatného plánu Todoist_. Omezuje vás na 5 projektů a 5 spolupracovníků, nabízí pouze jeden týden historie aktivit, a co je nejdůležitější, **nezahrnuje připomenutí**. To významně ovlivňuje jeho užitečnost pro časově citlivé úkoly pocházející z e-mailů. Integrace Gmail, i když je vhodná pro snímání, je také zcela základní. Uživatelské recenze často zmiňují nemožnost přidávat štítky, přiřazovat úkoly konkrétním sekcím projektu, nastavovat přesné termíny dokončení (nad rámec základních možností) nebo přidávat komentáře přímo z rozhraní Gmail – což často vyžaduje otevření hlavní aplikace Todoist, abyste doplnili podrobnosti úkolu. Někteří uživatelé také hlásí občasné chyby nebo pomalý výkon při samotné integraci. Bezplatná integrace proto funguje především jako mechanismus rychlého zachycení, který posouvá skutečnou organizační a řídící práci (a její omezení) na hlavní platformu Todoist.
 
@@ -63,7 +63,7 @@ Prošli jsme možnosti, abychom zdůraznili některé z nejúčinnějších, nej
 
 **Uživatelské rozhraní/Nastavení:** Right Inbox se hladce integruje přidáním tlačítek a možností přímo do okna pro psaní Gmail (pro plánování, šablony, podpisy) a hlavního rozhraní (pro připomenutí). Instalace přes Chrome Web Store je jednoduchá.
 
-**Pros:** Přidává skutečně užitečné funkce, které si mnozí přejí, aby byly původní v Gmail. Funkce „Odeslat později“ zahrnuje užitečnou podporu časového pásma, která automaticky zjišťuje polohu příjemce. E-mailová připomenutí jsou jednoduchým, ale účinným způsobem, jak zabránit tomu, aby kritická následná opatření proklouzla skrz trhliny.
+**Výhody:** Přidává skutečně užitečné funkce, které si mnozí přejí, aby byly původní v Gmail. Funkce „Odeslat později“ zahrnuje užitečnou podporu časového pásma, která automaticky zjišťuje polohu příjemce. E-mailová připomenutí jsou jednoduchým, ale účinným způsobem, jak zabránit tomu, aby kritická následná opatření proklouzla skrz trhliny.
 
 **Omezení bezplatného tarifu:** Největší nevýhodou jsou **extrémně nízké měsíční limity využití**, díky nimž je bezplatný plán spíše omezenou zkušební verzí než udržitelným řešením pro aktivní uživatele. Každý, kdo se na tyto funkce pravidelně spoléhá, ​​pravděpodobně dosáhne měsíčního limitu během několika dní. Funkce, jako jsou opakované e-maily, jsou obecně vyhrazeny pro placené plány. Někteří uživatelé také hlásí, že se v bezplatné verzi setkávají s častými marketingovými vyskakovacími okny a nacházejí části rozhraní méně než intuitivní. Bezplatný plán je navržen tak, aby prokázal hodnotu, ale silně motivuje k upgradu pro konzistentní používání.
 

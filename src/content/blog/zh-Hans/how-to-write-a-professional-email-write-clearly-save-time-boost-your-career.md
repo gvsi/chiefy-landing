@@ -81,7 +81,7 @@ draft: false
 
 有效地构建电子邮件正文（要点第一、格式清晰）可直接减轻收件人的认知负担。它迎合浏览习惯，并允许更快的理解和行动，使您的沟通更加高效。14
 
-### **结束和签名：专业地签署Pro**
+### **结束和签名：专业地收尾**
 
 优雅地结束您的电子邮件并提供必要的联系信息。
 
@@ -101,7 +101,7 @@ draft: false
 
   - **要点**：全名、职位、公司名称、电话号码。
 
-  - **可选（但通常很有用）**：公司网站、LinkedInPro文件链接、实际地址（如果相关）。
+  - **可选（但通常很有用）**：公司网站、LinkedIn 个人资料链接、实际地址（如果相关）。
 
   - **格式**：保持简洁（[**建议最多 4-5 行**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)），使用专业和[**网络安全字体**](https://www.mailerlite.com/zh-Hans/blog/email-signature-best-practices)（如 Arial、Calibri）以及与您的品牌一致的颜色。确保它[**移动设备友好**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)。避免不必要的图像、大徽标或励志名言。
 
@@ -127,9 +127,9 @@ draft: false
 
 - 对于重要的电子邮件，[**短暂休息**](https://www.govloop.com/from-harvard-business-review-best-practices-to-write-e-mails-that-impress/)（甚至 15 分钟），然后再用新的眼光进行校对。
 
-- 考虑使用[**语法和风格检查工具**](https://www.betterup.com/zh-Hans/blog/how-to-write-a-professional-email)，如Grammarly或ProWritingAid作为额外的防御层。
+- 考虑使用[**语法和风格检查工具**](https://www.betterup.com/zh-Hans/blog/how-to-write-a-professional-email)，如Grammarly或 ProWritingAid作为额外的防御层。
 
-### **掌握你的语气：Pro具有个性的专业主义**
+### **掌握你的语气：兼具个性的专业表达**
 
 电子邮件缺乏面对面交谈的细微差别——没有语气，没有面部表情。这使得[**误解非常容易**](https://www.pon.harvard.edu/daily/conflict-resolution/pros-and-cons-of-email-communication/)。你想要的高效可能听起来很突然；你想要搞笑的东西可能会失败或冒犯。
 

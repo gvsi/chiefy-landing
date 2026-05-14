@@ -81,7 +81,6 @@ Mendapatkan intisari dengan cepat sangatlah penting.  Alat AI dapat bertindak se
 
 Bayangkan sebuah inbox yang menampilkan hal-hal yang perlu diperhatikan _sekarang_. Inilah kekuatan triase AI. Alih-alih umpan kronologis yang berantakan, alat seperti [** Duet Mail **](https://duetmail.com/id) menawarkan ** AI Triage & Focused Dashboard**. Sistem ini dengan cerdas menganalisis email untuk mengetahui urgensinya, tindakan yang diperlukan, atau keputusan, menyajikannya dengan jelas sehingga pengguna dapat segera menghilangkan kebisingan dan memfokuskan energi mereka secara efektif. Hal ini mewakili perubahan paradigma dari pemeriksaan email reaktif menjadi keterlibatan yang proaktif dan diprioritaskan, yang secara signifikan mengurangi beban kognitif dan meningkatkan produktivitas yang berarti.
 
-**Image PlaceholderKueri Gambar Google:** Duet Mail AI Tangkapan layar Dasbor Terfokus Triase**Teks ​​Alt:** Tangkapan layar Dasbor Terfokus Duet Mail menampilkan email prioritas yang dikategorikan berdasarkan urgensi dan tindakan yang diperlukan.**Keterangan:** Dasbor yang didukung AI seperti Duet Mail memunculkan email penting, memotong kekacauan inbox.
 
 ## Memilih Co-Pilot Email AI Anda: Alat & Pertimbangan
 
@@ -136,7 +135,6 @@ Untuk memitigasi risiko ini, pengguna harus menerapkan praktik terbaik:
 
 - **Latihan Perhatian:** Berhati-hatilah saat memasukkan informasi yang sangat sensitif langsung ke perintah AI, terutama jika praktik keamanan alat tidak jelas.
 
-**Image PlaceholderKueri Gambar Google:** infografis praktik terbaik keamanan email**Teks ​​Alt:** Infografis yang mengilustrasikan praktik terbaik keamanan email seperti sandi yang kuat, MFA, dan pemeriksaan izin.**Keterangan:** Mengikuti praktik terbaik keamanan email sangat penting saat menggunakan alat AI.
 
 Saat mengevaluasi alat, carilah postur keamanannya. Solusi seperti [** Duet Mail **](https://duetmail.com/id), misalnya, menyoroti komitmen mereka terhadap privasi dan keamanan di platform mereka, yang merupakan faktor penting dalam membangun kepercayaan. Seiring dengan semakin dalamnya integrasi AI, vendor yang menekankan keamanan yang kuat dan penanganan data yang jelas kemungkinan akan mendapatkan kepercayaan pengguna yang lebih besar.
 

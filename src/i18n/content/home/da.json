@@ -42,7 +42,7 @@
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re:Product Launch Timeline",
+        "subject": "Re: Product Launch Timeline",
         "preview": "Hej! Ønskede at tjekke ind på lanceringsaktiverne. Er vi stadig på vej til næste uge...",
         "pill": "At reagere"
       },
@@ -63,7 +63,7 @@
         "from": "Shopify",
         "avatarLetter": "S",
         "subject": "Din butik er klar til Black Friday",
-        "pill": "Probevægelser"
+        "pill": "Kampagner"
       }
     ],
     "autodraft": "Hej Alex! Ja, vi er på vej. Designteamet afsluttede aktiverne i går, og jeg sender de endelige filer af EOD i dag."
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligente påmindelser",
-        "description": "Indstil det og glem det.Duet AI husker at følge op, når andre ikke reagerer, så intet falder igennem.",
+        "description": "Indstil det og glem det. Duet AI husker at følge op, når andre ikke reagerer, så intet falder igennem.",
         "ariaLabel": "Intelligente påmindelser",
         "mockCopy": {
           "header": "AI-drevne smarte påmindelser",
@@ -142,7 +142,7 @@
               "time": "2 dage siden"
             },
             {
-              "title": "Project Integration",
+              "title": "Projektintegration",
               "time": "12 timer siden"
             }
           ],
@@ -203,12 +203,12 @@
       {
         "from": "Stripe",
         "subject": "Din månedlige opgørelse er klar",
-        "pill": "Probevægelser"
+        "pill": "Kampagner"
       },
       {
         "from": "Nyhedsbrev",
         "subject": "Ugentlig fordøjelse",
-        "pill": "Probevægelser"
+        "pill": "Kampagner"
       }
     ]
   },
@@ -275,7 +275,7 @@
     ],
     "inputPlaceholder": "Spørg hvad som helst...",
     "dynamicResponses": {
-      "processingDefault": "Probehandler...",
+      "processingDefault": "Behandler...",
       "processingDraft": "Generer kladde...",
       "processingCalendar": "Tjekker tilgængelighed...",
       "draftIntro": "Her er et udkast til svar til Regnskab:",
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Konsulent",
-        "quote": "Som konsulent tæller hvert minut.Duet Mail sparer mig ikke bare tid – det gør min e-mail-kommunikation skarpere.",
+        "quote": "Som konsulent tæller hvert minut. Duet Mail sparer mig ikke bare tid – det gør min e-mail-kommunikation skarpere.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -450,7 +450,7 @@
         "perUser": true,
         "features": [
           {
-            "title": "Alt iPro",
+            "title": "Alt i Pro",
             "description": "Alle funktioner inkluderet"
           },
           {
@@ -488,7 +488,7 @@
     "items": [
       {
         "question": "Hvordan beskytter Duet Mail mine e-mail-data?",
-        "answer": "Din sikkerhed er vores topprioritet. Vi bruger OAuth 2.0 til sikker godkendelse med både Google og Microsoft. E-mail-indhold krypteres i hvile ved hjælp af kryptering på feltniveau på klientsiden, og vi følger princippet om mindste privilegium for API-adgang. Til vores Google integration gennemgår vi Googles årlige CASAsikkerhedsvurdering."
+        "answer": "Din sikkerhed er vores topprioritet. Vi bruger OAuth 2.0 til sikker godkendelse med både Google og Microsoft. E-mail-indhold krypteres i hvile ved hjælp af kryptering på feltniveau på klientsiden, og vi følger princippet om mindste privilegium for API-adgang. Til vores Google-integration gennemgår vi Googles årlige CASA-sikkerhedsvurdering."
       },
       {
         "question": "Hvordan fungerer e-mailoversigtsfunktionen?",
@@ -651,7 +651,7 @@
         "description": "Gratis plan med øjeblikkelige oversigter, AI-kladder og smart indbakke"
       },
       {
-        "name": "ProPlan",
+        "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MÅNED",
@@ -677,7 +677,7 @@
     "faq": [
       {
         "question": "Hvordan beskytter Duet Mail mine e-mail-data?",
-        "answer": "Din sikkerhed er vores topprioritet. Vi bruger OAuth 2.0 til sikker godkendelse med både Google og Microsoft. E-mail-indhold krypteres i hvile ved hjælp af kryptering på feltniveau på klientsiden, og vi følger princippet om mindste privilegium for API-adgang. Til vores Google integration gennemgår vi Googles årlige CASAsikkerhedsvurdering."
+        "answer": "Din sikkerhed er vores topprioritet. Vi bruger OAuth 2.0 til sikker godkendelse med både Google og Microsoft. E-mail-indhold krypteres i hvile ved hjælp af kryptering på feltniveau på klientsiden, og vi følger princippet om mindste privilegium for API-adgang. Til vores Google-integration gennemgår vi Googles årlige CASA-sikkerhedsvurdering."
       },
       {
         "question": "Hvordan fungerer e-mailoversigtsfunktionen?",

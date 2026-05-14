@@ -23,9 +23,9 @@ Warum sollte man diesem kleinen Raum wertvolle Zeit widmen? Die Vorteile sind er
 
 - **Vertrauen und Glaubwürdigkeit:** Das Einbinden von Kontaktinformationen und Links zu Richtlinien sorgt für Transparenz und schafft Vertrauen bei Ihrem Publikum.
 
-- **Engagement und Navigation:**Probieten einfachen Zugriff auf Social-Media-Profile, Website-Links, Präferenzzentren oder sogar sekundäre Handlungsaufforderungen (z. B. das Herunterladen einer App).
+- **Engagement und Navigation:**Bieten einfachen Zugriff auf Social-Media-Profile, Website-Links, Präferenzzentren oder sogar sekundäre Handlungsaufforderungen (z. B. das Herunterladen einer App).
 
-- **Zustellbarkeit:**Properfekt formatierte Fußzeilen mit erforderlichen Elementen helfen E-Mail-Clients (wie Gmail,Outlook) zu signalisieren, dass Ihre E-Mails kein Spam sind.
+- **Zustellbarkeit:**Korrekt formatierte Fußzeilen mit erforderlichen Elementen helfen E-Mail-Clients (wie Gmail, Outlook) zu signalisieren, dass Ihre E-Mails kein Spam sind.
 
 ## Die Must-Haves: Wesentliche Elemente für jede E-Mail-Fußzeile
 
@@ -37,7 +37,7 @@ Während Sie je nach Ihren Zielen verschiedene Elemente hinzufügen können, sin
 | **Abmeldelink** | Gesetzlich vorgeschrieben durchCAN-SPAM,GDPR,CASLfür Marketing-E-Mails. Schafft Vertrauen und respektiert die Wahl des Benutzers. | Muss klar, auffällig und einfach zu bedienen sein (idealerweise ein einziger Klick). Honoraranfragen umgehend (in der Regel innerhalb von 10 Werktagen). |
 | **Physische Postanschrift** | Gesetzlich vorgeschrieben durchCAN-SPAMundCASL. Fügt Legitimität hinzu.                                               | Kann eine Straßenadresse, ein registriertes Postamt usw. sein. Postfach oder ein registriertes privates Postfach.                                                   |
 | **Absenderidentifikation** | Gesetzlich vorgeschrieben. Baut Vertrauen auf.                                                                        | Geben Sie Ihren Firmennamen deutlich an. Stellen Sie sicher, dass die Adressen „Von“ und „Antwort an“ korrekt sind.                                              |
-| **Kontaktinformationen** |Probietet Empfängern die Möglichkeit, mit uns in Kontakt zu treten. Baut Vertrauen auf.                                          | Fügen Sie einen Website-Link, eine Support-E-Mail-Adresse oder eine Telefonnummer hinzu.                                                                    |
+| **Kontaktinformationen** |Bietet Empfängern die Möglichkeit, mit uns in Kontakt zu treten. Baut Vertrauen auf.                                          | Fügen Sie einen Website-Link, eine Support-E-Mail-Adresse oder eine Telefonnummer hinzu.                                                                    |
 | **Link zur Datenschutzerklärung** | Unverzichtbar fürGDPRCompliance und gute Praxis überall. Transparenz über die Datennutzung.            | Verlinken Sie auf Ihrer Website eine klare, verständliche Richtlinie.                                                                            |
 
 Betrachten Sie diese als die nicht verhandelbare Grundlage Ihrer Fußzeile. Das Fehlen dieser Angaben kann die Zustellbarkeit beeinträchtigen und zu rechtlichen Problemen führen.
@@ -70,7 +70,7 @@ Verwenden Sie das Logo, die Farbpalette und die Schriftarten Ihrer Marke (halten
 
 ### Stellen Sie Lesbarkeit und Zugänglichkeit sicher
 
-Verwenden Sie besonders bei kleinen juristischen Texten kontrastreiche Farben zwischen Text und Hintergrund. Verwenden Sie semantisches HTML (wie **\<p>** für Absätze), um Bildschirmleseprogramme zu unterstützen.ProStellen Sie für alle verwendeten Bilder (z. B. Logos oder soziale Symbole) einen beschreibenden Alternativtext bereit.
+Verwenden Sie besonders bei kleinen juristischen Texten kontrastreiche Farben zwischen Text und Hintergrund. Verwenden Sie semantisches HTML (wie **\<p>** für Absätze), um Bildschirmleseprogramme zu unterstützen. Stellen Sie für alle verwendeten Bilder (z. B. Logos oder soziale Symbole) einen beschreibenden Alternativtext bereit.
 
 ## Navigieren in der juristischen Sprache:CAN-SPAM,GDPRundCASL
 

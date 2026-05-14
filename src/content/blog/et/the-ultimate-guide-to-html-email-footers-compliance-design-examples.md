@@ -23,9 +23,9 @@ Miks pühendada sellele väikesele ruumile väärtuslikku aega? Kasu on märkimi
 
 - **Usaldus ja usaldusväärsus:** kontaktteabe ja eeskirjade linkide lisamine näitab läbipaistvust ja suurendab teie vaatajaskonna usaldust.
 
-- **Kaasamine ja navigeerimine:** Propakkuge lihtsat juurdepääsu sotsiaalmeedia profiilidele, veebisaitide linkidele, eelistuskeskustele või isegi sekundaarsetele kutsetele tegevusele (nt rakenduse allalaadimine).
+- **Kaasamine ja navigeerimine:** Pakkuge lihtsat juurdepääsu sotsiaalmeedia profiilidele, veebisaitide linkidele, eelistuskeskustele või isegi sekundaarsetele kutsetele tegevusele (nt rakenduse allalaadimine).
 
-- **Edastatavus:** Proiga vormindatud jalused koos nõutavate elementidega annavad meiliklientidele (nt Gmail, Outlook) märku, et teie meilid ei ole rämpspost.
+- **Edastatavus:** Iga vormindatud jalused koos nõutavate elementidega annavad meiliklientidele (nt Gmail, Outlook) märku, et teie meilid ei ole rämpspost.
 
 ## Peamised elemendid: iga meili jaluse olulised elemendid
 
@@ -37,7 +37,7 @@ Kuigi saate oma eesmärkidest olenevalt lisada erinevaid elemente, on mõned kom
 | **Tellimuse tühistamise link**        | CAN-SPAM, GDPR ja CASL nõuavad turundusmeilide jaoks juriidiliselt. Suurendab usaldust ja austab kasutaja valikuid. | Peab olema selge, silmatorkav ja hõlpsasti kasutatav (ideaaljuhul ühe klõpsuga). Täitke taotlused viivitamatult (tavaliselt 10 tööpäeva jooksul). |
 | **Füüsiline postiaadress** | CAN-SPAM ja CASL nõuavad juriidiliselt. Lisab legitiimsust.                                               | Võib olla aadress, registreeritud P.O. Kast või registreeritud erapostkast.                                                   |
 | **Saatja identifikatsioon**   | Seadusega nõutud. Ehitab usaldust.                                                                        | Esitage selgelt oma ettevõtte nimi. Veenduge, et aadressid "Saatja" ja "Vastaja" oleksid täpsed.                                              |
-| **Kontaktandmed**     | Pronäitab viisi, kuidas adressaadid saavad ühendust võtta. Ehitab usaldust.                                          | Lisage veebisaidi link, toe e-posti aadress või telefoninumber.                                                                    |
+| **Kontaktandmed**     | Kuvab viisi, kuidas adressaadid saavad ühendust võtta. Ehitab usaldust.                                          | Lisage veebisaidi link, toe e-posti aadress või telefoninumber.                                                                    |
 | **Privaatsuspoliitika link**     | Vajalik GDPR-i järgimiseks ja headeks tavadeks kõikjal. Andmekasutuse läbipaistvus.            | Link selgele ja arusaadavale poliitikale teie veebisaidil.                                                                            |
 
 Mõelge neile kui oma jaluse vaieldamatule vundamendile. Nende puudumine võib mõjutada tarnimist ja põhjustada juriidilisi probleeme.
@@ -70,7 +70,7 @@ Kasutage oma brändi logo, värvipaletti ja fonte (parema ühilduvuse huvides pi
 
 ### Tagada loetavus ja juurdepääsetavus
 
-Kasutage suure kontrastsusega värve teksti ja tausta vahel, eriti väikese juriidilise teksti puhul. Kasutage ekraanilugejate abistamiseks semantilist HTML-i (nt lõikude jaoks **\<p>**). Prolisage kõigi kasutatud piltide (nt logod või sotsiaalsed ikoonid) jaoks kirjeldav alternatiivtekst.
+Kasutage suure kontrastsusega värve teksti ja tausta vahel, eriti väikese juriidilise teksti puhul. Kasutage ekraanilugejate abistamiseks semantilist HTML-i (nt lõikude jaoks **\<p>**). Lisage kõigi kasutatud piltide (nt logod või sotsiaalsed ikoonid) jaoks kirjeldav alternatiivtekst.
 
 ## Legalese'is navigeerimine: CAN-SPAM, GDPR ja CASL
 

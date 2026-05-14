@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, po to klausimus, o triukšmą niekada. Daugiau netrūksta kelionės užklausos, paslėptos poTripAdvisorįspėjimais.",
   "draftSubtitle": "Duet sužino jūsų kainodarą, politiką ir toną. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia kelionės informacija, kainomis ir tuo, ką atsinešti. Jūs peržiūrite ir siunčiate.",
-  "agentSubtitle": "„Kokios dienos atidarytos kitą savaitę? „Atsakymo projektas Sarai su pasiekiamumu“.Duet žino jūsų gautuosius ir kalendorių – tiesiog paklauskite.",
+  "agentSubtitle": "„Kokios dienos atidarytos kitą savaitę? „Atsakymo projektas Sarai su pasiekiamumu“. Duet žino jūsų gautuosius ir kalendorių – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Sara M.",
@@ -127,13 +127,13 @@
     {
       "name": "Kapitonas Mike'as D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "Piko sezono metu prarasčiau 2–3 užsakymus per savaitę vien todėl, kad negalėjau pakankamai greitai atsakyti iš laivo.Duet parengia atsakymų juodraščius su mano kainodara ir išsamia kelionės informacija – tarp gaudymų tiesiog paspaudžiau siųsti.",
+      "quote": "Piko sezono metu prarasčiau 2–3 užsakymus per savaitę vien todėl, kad negalėjau pakankamai greitai atsakyti iš laivo. Duet parengia atsakymų juodraščius su mano kainodara ir išsamia kelionės informacija – tarp gaudymų tiesiog paspaudžiau siųsti.",
       "avatarKey": "michael"
     },
     {
       "name": "Sara ir Tomas K.",
       "title": "Šeimos chartijos verslas, ARBA",
-      "quote": "Plaukiame dviem laivais, o el. laiškų skaičius vasarą yra beprotiškas.Duet surūšiuoja užsakymo užklausas iš visų kitų ir parengia atsakymų juodraščius, kurie skamba lygiai taip pat, kaip mes. Absoliutus žaidimo keitiklis.",
+      "quote": "Plaukiame dviem laivais, o el. laiškų skaičius vasarą yra beprotiškas. Duet surūšiuoja užsakymo užklausas iš visų kitų ir parengia atsakymų juodraščius, kurie skamba lygiai taip pat, kaip mes. Absoliutus žaidimo keitiklis.",
       "avatarKey": "sarah"
     },
     {
@@ -145,7 +145,7 @@
     {
       "name": "Lisa M.",
       "title": "Chartijos biuro vadovas, HI",
-      "quote": "Tvarkyti elektroninius laiškus 4 kapitonams buvo visu etatu.Duet viską suskirsto į kategorijas ir parengia atsakymų juodraščius, nurodydamas tinkamą valtį, tinkamą kainą, tinkamą kapitoną. Lyg turėčiau kitą mane.",
+      "quote": "Tvarkyti elektroninius laiškus 4 kapitonams buvo visu etatu. Duet viską suskirsto į kategorijas ir parengia atsakymų juodraščius, nurodydamas tinkamą valtį, tinkamą kainą, tinkamą kapitoną. Lyg turėčiau kitą mane.",
       "avatarKey": "jennifer"
     },
     {
@@ -160,12 +160,12 @@
   "verticalFaqs": [
     {
       "question": "Ar Duet tinka rezervavimo ir užimtumo el. laiškams?",
-      "answer": "absoliučiai.Duet sužino jūsų kelionių tipus, kainas, prieinamumą ir politiką. Kai gaunama užsakymo užklausa, jame parengiamas išsamus atsakymas su reikiama informacija – kaina, kas įtraukta, susitikimo vieta, ką atsinešti. Jūs peržiūrite ir bakstelėkite siųsti."
+      "answer": "absoliučiai. Duet sužino jūsų kelionių tipus, kainas, prieinamumą ir politiką. Kai gaunama užsakymo užklausa, jame parengiamas išsamus atsakymas su reikiama informacija – kaina, kas įtraukta, susitikimo vieta, ką atsinešti. Jūs peržiūrite ir bakstelėkite siųsti."
     },
     {
       "question": "Aš visą dieną ant vandens. Ar galiu naudoti Duet iš savo telefono?",
       "answer": "Taip. Duet veikia su Gmail ir Outlook, todėl veikia visur, kur veikia el. paštas, įskaitant telefoną. Juodraščiai pasirodo automatiškai. Tarp gaudynių peržiūrite ir išsiunčiate vienu bakstelėjimu. Dauguma kapitonų mums sako, kad sezono piko metu jie sutaupo 1–2 valandas el. laiškų per dieną."
     }
   ],
-  "pricingNote": "500 USD už užsakomąją reisą, už vieną išsaugotą užsakymą sumokama daugiau nei už metusPro."
+  "pricingNote": "500 USD už užsakomąją reisą, už vieną išsaugotą užsakymą sumokama daugiau nei už metus Pro."
 }

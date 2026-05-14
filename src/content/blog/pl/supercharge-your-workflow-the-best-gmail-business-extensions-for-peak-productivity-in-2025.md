@@ -109,11 +109,11 @@ Aby ułatwić ten proces wyboru, poniższa tabela przedstawia szybkie porównani
 
 | Extension         | Primary Function   | Key Feature Example         | Ideal User                                      |
 | ----------------- | ------------------ | --------------------------- | ----------------------------------------------- |
-| Right Inbox       | Productivity Suite | Send Later, Email Tracking  | Professionals needing scheduling & tracking     |
-| Streak            | CRM                | Pipeline in Gmail           | Sales teams, Freelancers managing clients       |
-| Todoist for Gmail | Task Management    | Email-to-Task Conversion    | Individuals needing task organization           |
-| Grammarly         | Writing Assistance | Real-time grammar/style     | Anyone needing polished communication           |
-| Duet Mail         | AI Email Assistant | AI Triage, Authentic Drafts | Busy professionals seeking automated management |
+| Right Inbox       | Pakiet produktywności | Send Later, Email Tracking  | Profesjonaliści potrzebujący planowania i śledzenia |
+| Streak            | CRM                | Pipeline in Gmail           | Zespoły sprzedaży i freelancerzy obsługujący klientów |
+| Todoist for Gmail | Zarządzanie zadaniami | Email-to-Task Conversion | Osoby potrzebujące porządku w zadaniach |
+| Grammarly         | Pomoc w pisaniu | Real-time grammar/style | Każdy, kto potrzebuje dopracowanej komunikacji |
+| Duet Mail         | AI asystent e-mail | AI Triage, Authentic Drafts | Zajęci profesjonaliści szukający automatycznego zarządzania |
 
 Ta tabela stanowi zwięzłe podsumowanie, pozwalając szybko zrozumieć podstawową funkcję i docelowego użytkownika najważniejszych omawianych narzędzi. Umieszczenie w niej Duet Mail stawia go obok uznanych narzędzi, podkreślając jego wartość jako kompleksowego rozwiązania AI i pomagając czytelnikom w procesie podejmowania decyzji.
 

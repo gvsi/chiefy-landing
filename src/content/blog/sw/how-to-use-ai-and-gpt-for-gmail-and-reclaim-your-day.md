@@ -137,7 +137,6 @@ Ili kupunguza hatari hizi, watumiaji wanapaswa kufuata mazoea bora:
 
 - **Kuwa Tahadhari:** Kuwa mwangalifu unapoingiza taarifa nyeti moja kwa moja kwenye vidokezo vya AI, hasa ikiwa mbinu za usalama za zana haziko wazi.
 
-**Hoja ya Kishika Nafasi ya Picha zaGoogle:** Mbinu bora za usalama za barua pepe infographic**Alt Text:** Infographic inayoonyesha mbinu bora za usalama za barua pepe kama vile nenosiri dhabiti, MFA, na ruhusa za kuangalia.**Maelezo:** Kufuata mbinu bora za usalama za barua pepe ni muhimu unapotumia zana za AI.
 
 Wakati wa kutathmini zana, tafuta mkao wao wa usalama. Masuluhisho kama vile [**Duet Mail**](https://duetmail.com/sw), kwa mfano, yanaangazia kujitolea kwao kwa faragha na usalama kwenye mfumo wao, jambo ambalo ni muhimu sana katika kujenga uaminifu. Kadiri ujumuishaji wa AI unavyoongezeka, wachuuzi wanaosisitiza usalama thabiti na utunzaji wa data wazi kunaweza kupata imani zaidi ya watumiaji.
 

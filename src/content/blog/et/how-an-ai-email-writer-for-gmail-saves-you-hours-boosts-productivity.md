@@ -23,7 +23,7 @@ Mõju ületab kaotatud aja. Pidev meilikontroll killustab meie fookuse, sundides
 
 E-posti ülekoormus ei ole ainult taju; andmed näitavad, et see vähendab oluliselt tootlikkust ja heaolu
 
-## Sisestage tehisintellekti meilikirjutaja: teie Gmail Produktiivsuse partner
+## Sisestage tehisintellekti meilikirjutaja: teie Gmaili produktiivsuspartner
 
 Kujutage ette assistenti, kes elab otse teie Gmail sees ja on valmis koostama vastuseid, tegema kokkuvõtteid pikkadest aruteludest ja isegi aitama teil saavutada täiuslikku tooni – koheselt. See on tehisintellekti meilikirjutaja või Gmail i assistendi lubadus.
 
@@ -49,7 +49,7 @@ Hõivatud professionaalide jaoks, kes žongleerivad mitme projektiga, kliendisuh
 
 ## Kuidas AI tegelikult teie e-kirju kirjutab? (Võlukeppi pole vaja)
 
-See võib tunduda maagia, kuid tehisintellekti meili kirjutamine tugineb keerukale tehnoloogiale, mis on muutunud üha kättesaadavamaks. Põhikomponendid on **Loodusliku keele Prolõpetamine (NLP)** ja **Large Language Models (LLM)**.
+See võib tunduda maagia, kuid tehisintellekti meili kirjutamine tugineb keerukale tehnoloogiale, mis on muutunud üha kättesaadavamaks. Põhikomponendid on **Loomuliku keele töötlemine (NLP)** ja **Large Language Models (LLM)**.
 
 Mõelge NLP-le kui mootorile, mis võimaldab arvutitel mõista inimkeelt – selle struktuuri, tähendust, tundeid ja kavatsusi. See jagab teie e-kirjad ja viib teid komponentideks, mida AI saab töödelda. Sellised meetodid nagu [tokeniseerimine (teksti jagamine sõnadeks), tüveline/lemmatiseerimine (sõnade taandamine nende tüvivormile) ja kõneosa sildistamine](https://aws.amazon.com/what-is/nlp/) aitavad tehisintellektil mõista grammatikat ja sõnadevahelisi seoseid.
 
@@ -95,7 +95,7 @@ Tehisintellekti meilitööriistade turg õitseb, pakkudes erinevaid võimalusi, 
 
 ** Levinud murede lahendamine:**
 
-- **Roboti hääle Proprobleem:** Mõnede tehisintellekti tööriistade peamine puudus on üldise või isikupäratu teksti loomine ([iPost märgib autentsuse ja empaatiavõime puudumist](https://www.nu.edu/blog/ai-statistics-trends/)). Otsige tööriistu, mis on spetsiaalselt loodud *teie* kirjutamisstiili õppimiseks ja jäljendamiseks.
+- **Robothääle probleem:** Mõnede tehisintellekti tööriistade peamine puudus on üldise või isikupäratu teksti loomine ([iPost märgib autentsuse ja empaatiavõime puudumist](https://www.nu.edu/blog/ai-statistics-trends/)). Otsige tööriistu, mis on spetsiaalselt loodud *teie* kirjutamisstiili õppimiseks ja jäljendamiseks.
 
 - **Andmete privaatsus ja turvalisus:** teie meilid sisaldavad tundlikke andmeid. Mainekad tööriistad peaksid olema andmete kasutamise osas läbipaistvad, vältima tarbetu teabe salvestamist, kasutama krüptimist ja järgima privaatsusseadusi ([Auto Gmail rõhutab GDPR/CCPA vastavust](https://www.ipost.com/pros-and-cons-of-using-ai-for-email-writing/)). Enne installimist vaadake alati üle privaatsuspoliitika.
 
@@ -138,7 +138,7 @@ Kas olete valmis AI-meili kirjutamist proovima? Siin on mõned näpunäited suju
 
 - ** Treenige tehisintellekti (kaudselt):** Mida rohkem te tööriista kasutate ja mis kõige tähtsam, * muudate* selle soovitusi, et need vastaksid teie stiilile enne saatmist, seda paremini hakkab see teie häält jäljendama. Vaadake seda kui pidevat õppeprotsessi.
 
-- **Provideo kontekst:** Kui kasutate koostamisel viipasid, andke tehisintellektile selge kontekst – meili eesmärk, kaasatav põhiteave, soovitud toon ja sihtrühm.
+- **Pakkuge konteksti:** Kui kasutate koostamisel viipasid, andke tehisintellektile selge kontekst – meili eesmärk, kaasatav põhiteave, soovitud toon ja sihtrühm.
 
 - **Ülevaatamine, täpsustamine, isikupärastamine:** **Ära kunagi** saatke pimesi tehisintellektiga loodud meilisõnumeid. Käsitle väljundit alati esimese mustandina. Kontrollige seda täpsuse, tooni ja asjakohasuse osas. Lisage oma arusaamu, isiklikke puudutusi või konkreetseid üksikasju, mida tehisintellekt võis kahe silma vahele jätta. Eesmärk on suurendamine, mitte täielik automatiseerimine.
 

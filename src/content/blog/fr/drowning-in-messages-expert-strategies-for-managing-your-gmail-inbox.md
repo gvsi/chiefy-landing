@@ -117,8 +117,6 @@ Bien que utiles, ces outils répondent souvent à des points de douleur spécifi
 
 ### L’essor de l’assistant email IA : le copilote intelligent de votre boîte de réception
 
-**Image PlaceholderQuery:** futuristic graphic AI assistant helping with email**Alt Text:** Abstract graphic showing an AI helping a person manage their email inbox efficiently.**Caption:** AI email assistants leverage technology to automate and enhance inbox management.
-
 Voici l’assistant email IA. Ces outils représentent la prochaine évolution de la gestion des emails, en s’appuyant sur l’intelligence artificielle — plus précisément le traitement du langage naturel (NLP) et l’apprentissage automatique (ML) — pour automatiser et améliorer des tâches qui demandaient traditionnellement un effort manuel important.
 
 **Fonctionnement (simplifié) :**
@@ -151,15 +149,13 @@ Les assistants email IA vont au-delà de la simple automatisation ; ils offrent 
 
 ### Tri et priorisation IA : aller à l’essentiel pour repérer ce qui est urgent
 
-**Image PlaceholderQuery:** diagram AI email triage sorting important emails**Alt Text:** Diagram showing how AI triage automatically sorts incoming emails by priority.**Caption:** AI Triage intelligently surfaces urgent emails, cutting through the noise.
-
 **Le problème :** votre boîte de réception Gmail standard est un flux chronologique où newsletters et mémos en copie (CC) se disputent l’attention aux côtés des demandes urgentes des clients et des échéances critiques. Trier manuellement ce flot pour trouver ce qui nécessite vraiment votre attention _maintenant_ consomme un temps précieux et de l’énergie mentale.
 
 **La solution IA :** AI Triage utilise le NLP et le ML pour analyser intelligemment les e-mails entrants dès leur arrivée. Elle évalue l’urgence en repérant des mots-clés (« urgent », « deadline »), comprend le contexte (s’agit-il d’une demande nécessitant une décision ?), identifie les expéditeurs importants selon vos interactions passées, et mesure même le sentiment. L’IA apprend avec le temps **vos** priorités, devenant de plus en plus précise pour distinguer le signal du bruit. Ce n’est pas seulement un filtrage basé sur des règles ; c’est un jugement automatisé.
 
 **L’avantage :** Au lieu de fouiller dans la pile vous-même, l’IA met automatiquement en avant les e-mails qui exigent une action immédiate. Cela réduit considérablement le temps de tri, garantit que les éléments critiques ne passent pas inaperçus, diminue le stress lié à une boîte de réception saturée, et vous permet de concentrer votre énergie sur un travail à fort impact plutôt que sur l’administration de votre boîte mail.
 
-**Lien Duet Mail (contextuel) :** _Ce tri intelligent est exactement ce qu’il faut aux professionnels débordés. C’est là que des outils comme _[_Duet Mail_](https://duetmail.com/fr)_ excellent, en utilisant **AI Triage** pour analyser l’urgence, les actions requises et les décisions, puis les présenter clairement dans un **Focused Dashboard** afin que vous sachiez immédiatement ce qui demande votre attention._
+**Lien contextuel Duet Mail :** _Ce tri intelligent est exactement ce qu’il faut aux professionnels débordés. C’est là que des outils comme _[_Duet Mail_](https://duetmail.com/fr)_ excellent, en utilisant **AI Triage** pour analyser l’urgence, les actions requises et les décisions, puis les présenter clairement dans un **Focused Dashboard** afin que vous sachiez immédiatement ce qui demande votre attention._
 
 ### Résumé intelligent : comprendre instantanément les longs fils et les pièces jointes
 

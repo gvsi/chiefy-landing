@@ -50,7 +50,7 @@ Za zaposlene profesionalce koji žongliraju sa više projekata, slobodnjake koji
 
 ## Kako AI zapravo piše vaše e-poruke? (Magični štapić nije potreban)
 
-Možda izgleda kao magija, ali pisanje e-pošte AI se oslanja na sofisticiranu tehnologiju koja postaje sve dostupnija. Osnovne komponente su **Prirodni jezik Procesiranje (NLP)**i **Modeli velikih jezika (LLMs)**.
+Možda izgleda kao magija, ali pisanje e-pošte AI se oslanja na sofisticiranu tehnologiju koja postaje sve dostupnija. Osnovne komponente su **Obrada prirodnog jezika (NLP)**i **Modeli velikih jezika (LLMs)**.
 
 Zamislite NLP kao mehanizam koji omogućava računarima da razumeju ljudski jezik – njegovu strukturu, značenje, osećanje i nameru. On rastavlja vaše e-poruke i upite na komponente koje AI može da obradi. Tehnike kao što su [tokenizacija (podela teksta na reči), stemovanje/lematizacija (svođenje reči na njihov koren) i označavanje dela govora](https://aws.amazon.com/what-is/nlp/) pomažu AI da shvati gramatiku i odnose između reči.
 
@@ -70,7 +70,7 @@ Integrisanje AI pisca e-pošte u vaš Gmail radni tok nije samo novost; radi se 
 
 - **Samo crtanje i prevazilaženje blokade pisca:**Gledate u prazan prozor za pisanje teksta? AI može da pruži početnu tačku, probijanje blokade pisca za rutinske e-poruke, naknadne radnje ili čak lukave odgovore. Samo navedite ključne tačke i pustite AI da upravlja strukturom i fraziranjem.
 
-- **Dosledan ton & Proprofesionalizam:**Održavanje doslednog profesionalnog tona u stotinama e-poruka može biti izazov. AI pomaže da se obezbedi jasnoća, tačnost i prikladnost, smanjujući rizik od pogrešne komunikacije ili nenamernih grešaka, posebno kada ste umorni ili žurni.
+- **Dosledan ton i profesionalizam:**Održavanje doslednog profesionalnog tona u stotinama e-poruka može biti izazov. AI pomaže da se obezbedi jasnoća, tačnost i prikladnost, smanjujući rizik od pogrešne komunikacije ili nenamernih grešaka, posebno kada ste umorni ili žurni.
 
 - **Brži odgovori i praćenje:**Brzi odgovori i pravovremene naknadne akcije su od ključne važnosti za izgradnju odnosa i sklapanje poslova. AI ubrzava ovaj proces, predlažući relevantne odgovore i čak pomažu u upravljanju automatizovanim sekvencama praćenja u nekim alatima.
 
@@ -98,7 +98,7 @@ Tržište alata za e-poštu AI cveta, nudeći niz opcija prilagođenih različit
 
 **Rešavanje zajedničkih zabrinutosti:**
 
-- **Problem „Glas robota“ Pro:**Glavni nedostatak nekih AI alata je generisanje generičkog ili bezličnog teksta ([iPost primećuje nedostatak autentičnosti i empatije](https://www.ipost.com/pros-and-cons-of-using-ai-for-email-writing/)). Potražite alate posebno dizajnirane da uče i oponašaju *vaš*stil pisanja.
+- **Problem „robotskog glasa“:**Glavni nedostatak nekih AI alata je generisanje generičkog ili bezličnog teksta ([iPost primećuje nedostatak autentičnosti i empatije](https://www.ipost.com/pros-and-cons-of-using-ai-for-email-writing/)). Potražite alate posebno dizajnirane da uče i oponašaju *vaš*stil pisanja.
 
 - **Privatnost i bezbednost podataka:**Vaši e-poruke sadrže osetljive podatke. Renomirani alati treba da budu transparentni u pogledu korišćenja podataka, izbegavaju skladištenje nepotrebnih informacija, koriste šifrovanje i poštuju zakone o privatnosti ([Auto Gmail naglašava GDPR/CCPA poravnanje](https://autogmail.com/ai-email-automation-and-data-privacy-laws)). Uvek pregledajte politiku privatnosti pre instaliranja.
 
@@ -114,7 +114,7 @@ Pejzaž uključuje različite igrače, od kojih svaki ima prednosti:
 | **Google Gemini (u radnom prostoru)**| Integrisani radni prostor AI | Pomozite mi da pišem (nacrt), rezimiranje, pametno sastavljanje/odgovor, integracija sa aplikacijama za radni prostor | Dodatak za radni prostor (20-30 USD po korisniku/mesečno+) | Duboka integracija unutar Google ekosistema.                                 |
 | **MailMaestro**| Gmail/Outlook AI Asistent | Sastavite, odgovorite, poboljšajte, rezimirajte, šabloni, kontrola tona/jezika, fokus na bezbednost | Freemium, Pro (15 USD po korisniku mesečno) | Više-LLM pristup, jak bezbednosni naglasak.                             |
 | **Auto Gmail**| Veliki obim AI Izrada | AI Nacrt (GPT-4/Lama-3), učenje stila, unos konteksta, crna lista | Freemium, višeslojni (27-47 USD mesečno) | Fokusirajte se na brzinu i zapreminu automatizovanog generisanja nacrta.                       |
-| **GrammarlyGO**| Vriting Enhancement | Provera gramatike/stila, podešavanje tona, preoblikovanje, generisanje ideja | Freemium, Premium Sub.                 | Široka pomoć pri pisanju osim samo e-pošte.                               |
+| **GrammarlyGO**| Poboljšanje pisanja | Provera gramatike/stila, podešavanje tona, preoblikovanje, generisanje ideja | Freemium, premium pretplata | Široka pomoć pri pisanju, ne samo za e-poštu. |
 
 _Napomena: Karakteristike i cene su podložne promenama. Uvek proverite veb lokaciju dobavljača za najnovije informacije._
 
@@ -141,7 +141,7 @@ Da li ste spremni da pokušate sa pisanjem e-pošte AI? Evo nekoliko saveta za g
 
 - **Obučite AI (implicitno):**Što više koristite alatku i, što je još važnije, *uredite*njene predloge da odgovaraju vašem stilu pre slanja, to će bolje biti u oponašanju vašeg glasa. Gledajte na to kao na proces učenja koji je u toku.
 
-- **Provide Kontekst:**Kada koristite upite za pisanje, dajte AI jasan kontekst – svrhu e-pošte, ključne informacije koje treba uključiti, željeni ton i ciljnu publiku.
+- **Obezbedite kontekst:**Kada koristite upite za pisanje, dajte AI jasan kontekst – svrhu e-pošte, ključne informacije koje treba uključiti, željeni ton i ciljnu publiku.
 
 - **Pregledajte, precizirajte, personalizujte:****Nikada**ne šaljite slepo e-poruku generisanu AI. Uvek tretirajte izlaz kao prvi nacrt. Pregledajte tačnost, ton i relevantnost. Dodajte svoje uvide, lične detalje ili specifične detalje koje je AI možda propustio. Cilj je povećanje, a ne potpuna automatizacija.
 

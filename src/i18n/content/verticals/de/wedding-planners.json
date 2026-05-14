@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst die Anfragen neuer Paare, dann die Bestätigungen der Anbieter und nie den Newsletter-Rummel sehen. Keine Buchungsanfrage mehr verpassen, die unter Knot-Benachrichtigungen verborgen ist.",
   "draftSubtitle": "Duet lernt Ihre Pakete, bevorzugten Anbieter und Ihren Ton. Wenn ein Paar nachfragt, verfasst es eine herzliche, umfassende Antwort mit Ihrer Verfügbarkeit und den nächsten Schritten. Sie überprüfen und senden.",
-  "agentSubtitle": "„Welche Lieferanten-E-Mails sind für die Thompson-Hochzeit eingegangen?“ „Entwerfen Sie eine Aktualisierung des Zeitplans für alle Anbieter für Samstag.“Duet kennt Ihren Posteingang und Ihre Kunden – fragen Sie einfach nach.",
+  "agentSubtitle": "„Welche Lieferanten-E-Mails sind für die Thompson-Hochzeit eingegangen?“ „Entwerfen Sie eine Aktualisierung des Zeitplans für alle Anbieter für Samstag.” Duet kennt Ihren Posteingang und Ihre Kunden – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -93,7 +93,7 @@
       "avatarLetter": "M",
       "avatarColor": "lavender",
       "subject": "20 % Rabatt auf Save-the-Dates diese Woche",
-      "pill": "ProAnträge",
+      "pill": "Werbung",
       "pillColor": "lavender"
     }
   ],
@@ -127,13 +127,13 @@
     {
       "name": "Francesca M.",
       "title": "Boutique-Hochzeitsplaner, CO",
-      "quote": "Die Hälfte meiner Woche bin ich an Veranstaltungsorten in den Bergen ohne Mobilfunkempfang. In der Zwischenzeit schicken mir Paare E-Mails zu Zeitplänen und Anbieterfragen.Duet entwirft Antworten mit meinen genauen Paketen und meinem Ton – ich überprüfe sie, wenn ich wieder in Reichweite bin.",
+      "quote": "Die Hälfte meiner Woche bin ich an Veranstaltungsorten in den Bergen ohne Mobilfunkempfang. In der Zwischenzeit schicken mir Paare E-Mails zu Zeitplänen und Anbieterfragen. Duet entwirft Antworten mit meinen genauen Paketen und meinem Ton – ich überprüfe sie, wenn ich wieder in Reichweite bin.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Full-Service-Hochzeitsplaner, CA",
-      "quote": "Die Koordination von mehr als 10 Anbietern pro Hochzeit bedeutet, dass mein Posteingang in der Hochsaison ein Kriegsgebiet ist.Duet kategorisiert Lieferanten-E-Mails getrennt von Kunden-E-Mails und Follow-up-Entwürfen, die ich selbst geschrieben hätte. Ich schlafe jetzt tatsächlich.",
+      "quote": "Die Koordination von mehr als 10 Anbietern pro Hochzeit bedeutet, dass mein Posteingang in der Hochsaison ein Kriegsgebiet ist. Duet kategorisiert Lieferanten-E-Mails getrennt von Kunden-E-Mails und Follow-up-Entwürfen, die ich selbst geschrieben hätte. Ich schlafe jetzt tatsächlich.",
       "avatarKey": "michael"
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "Johnny R.",
       "title": "Hochzeitsplaner für Reiseziele, HI",
-      "quote": "Meine Paare fliegen aus der ganzen Welt ein und senden rund um die Uhr E-Mails.Duet habe meine FAQ-Antworten gelernt – Veranstaltungsortlogistik, lokale Anbieter, was zu erwarten ist – und Antwortentwürfe, die genau nach mir klingen. Kunden haben keine Ahnung.",
+      "quote": "Meine Paare fliegen aus der ganzen Welt ein und senden rund um die Uhr E-Mails. Duet habe meine FAQ-Antworten gelernt – Veranstaltungsortlogistik, lokale Anbieter, was zu erwarten ist – und Antwortentwürfe, die genau nach mir klingen. Kunden haben keine Ahnung.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Hochzeits- und Veranstaltungsplaner, NY",
-      "quote": "Ich verbrachte jeden Abend zwei Stunden damit, die gleichen Paket- und Verfügbarkeitsfragen zu beantworten.Duet kümmert sich um die sich wiederholenden Dinge, sodass ich mich auf die kreative Arbeit konzentrieren kann, die ich wirklich liebe. Es hat sich in der ersten Woche amortisiert.",
+      "quote": "Ich verbrachte jeden Abend zwei Stunden damit, die gleichen Paket- und Verfügbarkeitsfragen zu beantworten. Duet kümmert sich um die sich wiederholenden Dinge, sodass ich mich auf die kreative Arbeit konzentrieren kann, die ich wirklich liebe. Es hat sich in der ersten Woche amortisiert.",
       "avatarKey": "jennifer"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Genau das löst Duet. Wenn Sie während der Koordination vor Ort ein paar E-Mails mit der Frage nach Verfügbarkeit oder Paketen erhalten, verfasst Duet eine freundliche, professionelle Antwort mit Ihrer tatsächlichen Verfügbarkeit und den nächsten Schritten. Sie überprüfen und senden, wann immer Sie Zeit haben – auch von Ihrem Telefon aus zwischen den Veranstaltungen. Die meisten Planer sagen uns, dass sie dadurch in der Hochsaison 1–2 Stunden E-Mail-Zeit pro Tag sparen."
     }
   ],
-  "pricingNote": "Bei 8.000 $/Hochzeit zahlt ein gesparter Kunde für über 20 JahrePro."
+  "pricingNote": "Bei 8.000 $/Hochzeit zahlt ein gesparter Kunde für über 20 Jahre Pro."
 }

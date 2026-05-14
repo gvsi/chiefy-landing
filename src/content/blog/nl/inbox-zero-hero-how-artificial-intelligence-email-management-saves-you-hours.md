@@ -17,7 +17,7 @@ Maar wat als er een slimmere manier bestond? Wat als technologie niet alleen als
 
 Het constante pingen van nieuwe e-mails is niet alleen vervelend; het is een aanzienlijke aanslag op de productiviteit en het welzijn. Statistieken schetsen een grimmig beeld: de gemiddelde kantoormedewerker ontvangt maar liefst [121 tot 126 e-mails per dag](https://www.dragapp.com/blog/email-statistics/). Wereldwijd werden er in 2023 naar schatting [347 miljard e-mails](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/) dagelijks verzonden en ontvangen, een aantal dat naar verwachting nog hoger zal stijgen.
 
-Het beheersen van deze overstroming eist een zware tol.Proprofessionals geven aan dat ze ongeveer [28% van hun werkweek](https://inboxdone.com/psychology-of-email-overload/) – wat overeenkomt met 11-13 uur – besteden aan het beheren van e-mails. Dit constante schakelen tussen taken en de inbox blijft niet zonder gevolgen. Uit onderzoek blijkt dat het meer dan [23 minuten duurt om de focus terug te krijgen](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) na een onderbreking, zoals het checken van e-mail.
+Het beheersen van deze overstroming eist een zware tol. professionals geven aan dat ze ongeveer [28% van hun werkweek](https://inboxdone.com/psychology-of-email-overload/) – wat overeenkomt met 11-13 uur – besteden aan het beheren van e-mails. Dit constante schakelen tussen taken en de inbox blijft niet zonder gevolgen. Uit onderzoek blijkt dat het meer dan [23 minuten duurt om de focus terug te krijgen](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) na een onderbreking, zoals het checken van e-mail.
 
 De impact reikt verder dan verloren tijd. Overbelasting van e-mail wordt consequent in verband gebracht met verhoogde stress, angst en burn-out. Uit een door [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) aangehaald onderzoek bleek dat [66% van de Amerikanen aangeeft zich gestrest te voelen](https://inboxdone.com/psychology-of-email-overload/) vanwege de enorme hoeveelheid e-mails die ze ontvangen. Deze constante druk draagt ​​bij aan beslissingsmoeheid en kan zelfs een negatieve invloed hebben op de arbeidstevredenheid, waardoor het moeilijker wordt om zich te concentreren op strategisch, hoogwaardig werk.![Infographic met statistieken over het dagelijkse e-mailvolume en de tijd die wordt besteed aan het beheren van e-mail](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
@@ -29,7 +29,7 @@ Traditioneel e-mailbeheer is vaak afhankelijk van handmatig sorteren, eenvoudige
 
 ### Hoe werkt AI-e-mailbeheer?
 
-In de kern maakt AI-e-mailbeheer gebruik van geavanceerde technologieën zoals **Machine Learning (ML)** en **Natuurlijke TaalProcessing (NLP)** om uw e-mail te begrijpen en ermee te communiceren zoals een menselijke assistent dat zou doen, maar dan veel sneller. In plaats van rigide regels leert AI van patronen:
+In de kern maakt AI-e-mailbeheer gebruik van geavanceerde technologieën zoals **Machine Learning (ML)** en **Natuurlijke taalverwerking (NLP)** om uw e-mail te begrijpen en ermee te communiceren zoals een menselijke assistent dat zou doen, maar dan veel sneller. In plaats van rigide regels leert AI van patronen:
 
 - **Het analyseert inhoud:** AI leest en begrijpt de context, urgentie en sentiment in uw e-mails.
 
@@ -69,7 +69,7 @@ De beste tools gaan verder en leren uw unieke communicatiepatronen kennen. [Duet
 
 ### Lange discussies temmen met AI-samenvatting
 
-In een e-mailketen van twintig berichten springen kan aanvoelen als het ontcijferen van oude boekrollen. AI-samenvatting pakt dit frontaal aan. Met behulp vanNLPanalyseren deze tools lange discussies of dichte documenten en distilleren ze in beknopte samenvattingen, waarbij belangrijke beslissingen, actiepunten en cruciale details worden belicht.
+In een e-mailketen van twintig berichten springen kan aanvoelen als het ontcijferen van oude boekrollen. AI-samenvatting pakt dit frontaal aan. Met behulp van NLP analyseren deze tools lange discussies of dichte documenten en distilleren ze in beknopte samenvattingen, waarbij belangrijke beslissingen, actiepunten en cruciale details worden belicht.
 
 Er zijn twee belangrijke benaderingen:
 

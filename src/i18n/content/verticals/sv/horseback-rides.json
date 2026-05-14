@@ -93,7 +93,7 @@
       "avatarLetter": "T",
       "avatarColor": "lavender",
       "subject": "Vårrea — 15 % rabatt på foder och tyg",
-      "pill": "Prorörelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -133,25 +133,25 @@
     {
       "name": "Maria C.",
       "title": "Hästresearrangör, AZ",
-      "quote": "Vi får dussintals e-postmeddelanden som frågar samma sak – viktgränser, vad man ska ha på sig, ålderskrav.Duet hanterar allt och svaren låter precis som jag. Mina gäster har ingen aning om att det är AI.",
+      "quote": "Vi får dussintals e-postmeddelanden som frågar samma sak – viktgränser, vad man ska ha på sig, ålderskrav. Duet hanterar allt och svaren låter precis som jag. Mina gäster har ingen aning om att det är AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Högsäsongen dödade mig. 30+ e-postmeddelanden per dag utöver löpturer.Duet sorterar bokningsförfrågningarna från bullret och utkast till svar som inkluderar allt - prissättning, vad man ska ta med, partiet. Jag fick tillbaka mina kvällar.",
+      "quote": "Högsäsongen dödade mig. 30+ e-postmeddelanden per dag utöver löpturer. Duet sorterar bokningsförfrågningarna från bullret och utkast till svar som inkluderar allt - prissättning, vad man ska ta med, partiet. Jag fick tillbaka mina kvällar.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Ridlärare och bokningsansvarig, TX",
-      "quote": "Vi kör solnedgångsturer, morgonturer och privatlektioner - alla med olika priser och krav.Duet lärde sig allt på en vecka. Den utarbetar rätt svar för rätt åktyp varje gång.",
+      "quote": "Vi kör solnedgångsturer, morgonturer och privatlektioner - alla med olika priser och krav. Duet lärde sig allt på en vecka. Den utarbetar rätt svar för rätt åktyp varje gång.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "De känsliga mejlen var de värsta – någon som frågade om de är för tunga eller om deras barn är tillräckligt gammalt.Duet hanterar dem med samma omsorg som jag skulle göra.Professionell, snäll och korrekt. Bara det är värt det.",
+      "quote": "De känsliga mejlen var de värsta – någon som frågade om de är för tunga eller om deras barn är tillräckligt gammalt. Duet hanterar dem med samma omsorg som jag skulle göra. fessionell, snäll och korrekt. Bara det är värt det.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet lär sig dina åktyper, gruppstorlekar, åldersminimikrav och alla ryttarespecifika krav. När en familj eller grupp skickar e-postmeddelanden om bokning, utarbetar den ett svar som täcker priset för hela gruppen, vad varje förare behöver veta och tillgängliga tidsluckor. Du granskar och skickar - inget fram och tillbaka behövs."
     }
   ],
-  "pricingNote": "För $100/person för en grupp på 6, betalar en sparad resa för över två år avPro."
+  "pricingNote": "För $100/person för en grupp på 6, betalar en sparad resa för över två år av Pro."
 }

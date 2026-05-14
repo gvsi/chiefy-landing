@@ -33,7 +33,7 @@ Lihtsamalt öeldes on lihtsad automaatvastused nagu plaastri panemine purunenud 
 
 ## **Sisestage tehisintellekti meilivastaja: teie intelligentne postkasti liitlane**
 
-Tehisintellekti e-posti assistendid kujutavad endast suurt hüpet edasi. Nad kasutavad selliseid tehnoloogiaid nagu[ **Looduskeele Proloobumine (NLP)**](https://www.ibm.com/think/topics/natural-language-processing) ja[ **Masinõpe (ML)**](https://aws.amazon.com/what-is/nlp/), et mõista, hallata ja suhelda meil viisil, mis varem oli võimatu.
+Tehisintellekti e-posti assistendid kujutavad endast suurt hüpet edasi. Nad kasutavad selliseid tehnoloogiaid nagu[ **Looduskeele töötlemine (NLP)**](https://www.ibm.com/think/topics/natural-language-processing) ja[ **Masinõpe (ML)**](https://aws.amazon.com/what-is/nlp/), et mõista, hallata ja suhelda meil viisil, mis varem oli võimatu.
 
 Mõelge NLP-le kui mootorile, mis võimaldab tehisintellektil "lugeda" ja mõista teie e-kirjades olevate sõnade tähendust, konteksti, tundeid ja kavatsusi – täpselt nagu inimene seda teeb. ML võimaldab assistendil õppida teie tegudest, eelistustest ja varasemast suhtlusest, muutudes aja jooksul targemaks ja isikupärasemaks.
 
@@ -45,7 +45,7 @@ See on ehk kõige mõjuvam funktsioon kõigile, kes e-kirjadesse uppuvad. AI Tri
 
 **Kuidas see töötab:**
 
-- **Sisuanalüüs (NLP):** AI loeb e-kirja sisu, tuvastab märksõnad ("kiireloomuline", "tähtaeg"), analüüsib meeleolu (kas saatja on pettunud?) ja mõistab põhitaotlust. Hiver selgitab, et NLP aitab tehisintellektil tuvastada kõrge prioriteediga e-kirja, mille teema on "[**Vajalik toiming: Projätke tähtaeg homme**](https://hiverhq.com/blog/ai-email-triage)".
+- **Sisuanalüüs (NLP):** AI loeb e-kirja sisu, tuvastab märksõnad ("kiireloomuline", "tähtaeg"), analüüsib meeleolu (kas saatja on pettunud?) ja mõistab põhitaotlust. Hiver selgitab, et NLP aitab tehisintellektil tuvastada kõrge prioriteediga e-kirja, mille teema on "[**Vajalik toiming: Projektitähtaeg homme**](https://hiverhq.com/blog/ai-email-triage)".
 
 - **Saatja tähtsus (ML):** AI saab teada, kes on teie peamised kontaktid (ülemus, peamised kliendid, meeskonnaliikmed) teie suhtlusmustrite põhjal (kui kiiresti te vastate, kui sageli neile meili saadate).
 
@@ -87,7 +87,7 @@ Kokkuvõtete tegemine säästab hindamatut aega, kui hüppate tagasi keerukatess
 
 Tehisintellekti meiliassistentide turg kasvab kiiresti. Kuigi paljud tööriistad pakuvad kattuvaid funktsioone, on neil sageli erinevad tugevused ja sihtrühmad. Siin on lühiülevaade mõnest võtmemängijast ja levinud funktsioonitüüpidest (põhineb arvustustel, mis pärinevad sellistest allikatest nagu [ **Dialzara**](https://duetmail.com/et),[ **Lindy**](https://dialzara.com/blog/10-best-ai-email-writing-tools-2024/) ja[ **Zapier**](https://www.lindy.ai/blog/ai-email-assistant)):
 
-| **Funktsioonide fookus**            | **Arvustustes mainitud tööriistade näidis** | **Võtmevõimalus**                                    | **Ideaalne kasutaja Profail**                       |
+| **Funktsioonide fookus**            | **Arvustustes mainitud tööriistade näidis** | **Võtmevõimalus**                                    | **Ideaalne kasutaja profiil**                       |
 | ---------------------------- | -------------------------------------- | ----------------------------------------------------- | -------------------------------------------- |
 | **Postkasti haldamine/triaaž** | SaneBox, Shortwave, Lindy, Duet Mail   | Nutikas sorteerimine, prioriseerimine, rämpsposti/segaduse filtreerimine | Suuremahulised kasutajad, hõivatud professionaalid        |
 | **Joonistamine ja kirjutamine**       | Jasper, Copy.ai, Flowrite, Duet Mail   | Mallide genereerimine, sisu loomine, hääleõpe | Turundajad, müügimeeskonnad, sagedased kirjutajad     |
@@ -118,13 +118,13 @@ AI-toega armatuurlauad, nagu see näide Duet Mail ist, annavad selge ülevaate p
 
 Lihtsalt AI tööriista installimisest ei piisa. Kasu maksimeerimiseks:
 
-1. **Treenige oma tehisintellekti:** Prosage järjepidevalt tagasisidet. Parandage ebamugav sõnastus, võtke vastu head soovitused ja kasutage mis tahes stiilieelistuse seadeid. Kui tööriist lubab, andke sellele näiteid oma parimatest kirjutistest.
+1. **Treenige oma tehisintellekti:** Andke järjepidevalt tagasisidet. Parandage ebamugav sõnastus, võtke vastu head soovitused ja kasutage mis tahes stiilieelistuse seadeid. Kui tööriist lubab, andke sellele näiteid oma parimatest kirjutistest.
 
 2. **Usalda, aga kontrolli:** Eriti esialgu vaadake enne saatmist tehisintellekti loodud mustandid üle. Kontrollige tooni, täpsust ja konteksti. AI on võimas, kuid mitte eksimatu.
 
 3. **Kombineerige heade harjumustega:** AI-triaaž toimib kõige paremini siis, kui seda kombineerida selliste tavadega, nagu e-kirjade kontrollimiseks kindla aja planeerimine (pakkimine), mitte igale teatisele reageerimise asemel. Võimaluse korral lülitage häirivad märguanded välja.
 
-4. **Määrake Clear Prompts:** kui palute tehisintellektil meili mustandit koostada, esitage selge kontekst ja juhised eesmärgi, adressaadi ja soovitud tooni kohta.
+4. **Määrake Clear prompts:** kui palute tehisintellektil meili mustandit koostada, esitage selge kontekst ja juhised eesmärgi, adressaadi ja soovitud tooni kohta.
 
 5. **Ära loobu vastutusest:** AI abistab, see ei asenda kriitilist mõtlemist ega suhete loomist. Kasutage säästetud aega, et keskenduda kõrgema väärtusega tööle, strateegilisele mõtlemisele ja sisukale suhtlusele.
 

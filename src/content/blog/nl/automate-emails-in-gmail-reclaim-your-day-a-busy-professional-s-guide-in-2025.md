@@ -17,7 +17,7 @@ Laten we, voordat we in oplossingen duiken, eerst het probleem kwantificeren. E-
 
 - **De dagelijkse zondvloed:** De gemiddelde kantoormedewerker ontvangt ongeveer [121-126 e-mails *per dag*](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/), waarbij miljarden wereldwijd het internet bereizen.
 
-- **The Time Sink:**Proprofessionals besteden ongeveer [2,6 tot 3,1 uur per dag](https://www.maestrolabs.com/blog-detail/ai-email-assistants-for-gmail) aan het beheren van e-mail, wat neerkomt op bijna [28% van de gemiddelde werkweek](https://www.ppm.express/blog/checking-emails) volgens onderzoek waarnaar wordt verwezen door PPM Express (citerend uit McKinsey).
+- **The Time Sink:**professionals besteden ongeveer [2,6 tot 3,1 uur per dag](https://www.maestrolabs.com/blog-detail/ai-email-assistants-for-gmail) aan het beheren van e-mail, wat neerkomt op bijna [28% van de gemiddelde werkweek](https://www.ppm.express/blog/checking-emails) volgens onderzoek waarnaar wordt verwezen door PPM Express (citerend uit McKinsey).
 
 - **De onderbrekingsbelasting:** We controleren onze e-mail regelmatig – sommige schattingen suggereren [elke 6 minuten](https://www.ppm.express/blog/checking-emails)! Elke onderbreking is niet slechts een vluchtige blik; het duurt gemiddeld [23-25 ​​minuten](https://www.ppm.express/blog/checking-emails) om de focus weer volledig op uw oorspronkelijke taak te krijgen.
 
@@ -71,7 +71,7 @@ Met deze twee functies kunt u *wanneer* u e-mails afhandelt, beheren:
 
 - **Verzenden plannen:** Schrijf nu een e-mail, maar plan deze in zodat deze later wordt verzonden. Klik op de pijl-omlaag naast de knop 'Verzenden'. Ideaal voor het respecteren van tijdzones, het verzenden van berichten tijdens werkuren, zelfs als u ze te laat schrijft, of het perfect timen van aankondigingen. Met Gmail kunt u [tot 100 e-mails](https://www.brevo.com/blog/how-to-schedule-an-email-in-gmail/ver van tevoren plannen. Lees meer in de [officiële Gmail gids](https://support.google.com/mail/answer/9214606?hl=en).
 
-###ProTip: gebruik van e-mailaliassen ("+" adressering) met filters
+### Pro-tip: gebruik van e-mailaliassen ("+" adressering) met filters
 
 Een minder bekende Gmail truc is het gebruik van aliassen. U kunt een plusteken (\`+\`) toevoegen, gevolgd door een willekeurig woord vóór de \`@\` in uw e-mailadres (bijvoorbeeld \`uwnaam+nieuwsbrieven\@gmail.com\`, \`uwnaam+facturering\@gmail.com\`). E-mails die naar deze aliassen worden verzonden, komen nog steeds in uw hoofdinbox aan, maar het unieke adres maakt krachtige filtering mogelijk. Maak bijvoorbeeld een filter voor alles wat wordt verzonden naar \`Naar: uwnaam+nieuwsbrieven\@gmail.com\` en pas automatisch het label 'Nieuwsbrieven' toe en archiveer het. Dit is ongelooflijk handig voor het automatisch sorteren van aanmeldingen en abonnementen, zoals opgemerkt door gebruikers op [Reddit](https://www.reddit.com/r/google/comments/fbdd9/what_awesome_gmail_filters_are_you_using_that/) en technische blogs zoals [Spin.AI](https://spin.ai/blog/gmail-tutorial-tips-tricks/).
 
@@ -111,7 +111,7 @@ Voel je je overweldigd door het enorme volume? AI-triage fungeert als een virtue
 
 ### Slim samenvatten: lange discussies direct oppakken
 
-In een lange e-mailketen terechtkomen kan aanvoelen als speurwerk. AI-samenvattingstools lezen de hele draad en voorzien u binnen enkele seconden van de belangrijkste beslissingen, openstaande vragen en actie-items. Dit bespaart kostbare tijd die u anders zou besteden aan het herlezen van de geschiedenis. Toonaangevende tools zoals [Superhuman](https://superhuman.com/) en Google's eigen [Geminivoor Gmail](https://workspace.google.com/solutions/ai/) bieden deze mogelijkheid. Op dezelfde manier maakt **Duet Mail** gebruik van slimme samenvattingen met contextueel bewustzijn, waardoor u niet alleen de samenvatting krijgt, maar ook dat deze relevante details uit eerdere interacties of projectcontext bevat.
+In een lange e-mailketen terechtkomen kan aanvoelen als speurwerk. AI-samenvattingstools lezen de hele draad en voorzien u binnen enkele seconden van de belangrijkste beslissingen, openstaande vragen en actie-items. Dit bespaart kostbare tijd die u anders zou besteden aan het herlezen van de geschiedenis. Toonaangevende tools zoals [Superhuman](https://superhuman.com/) en Google's eigen [Gemini voor Gmail](https://workspace.google.com/solutions/ai/) bieden deze mogelijkheid. Op dezelfde manier maakt **Duet Mail** gebruik van slimme samenvattingen met contextueel bewustzijn, waardoor u niet alleen de samenvatting krijgt, maar ook dat deze relevante details uit eerdere interacties of projectcontext bevat.
 
 ### Authentieke AI-opstelling: reageer sneller en klink als jij
 

@@ -78,7 +78,7 @@ Samotný Gmail nabízí několik funkcí navržených tak, aby pomohly uspořád
 
 I když je vytváření a údržba vysoce granulárního systému štítků a filtrů výkonná, může se sama o sobě stát časově náročným administrativním úkolem, který může být v rozporu s cílem ušetřit čas, pokud není implementován pragmaticky.
 
-### Síla časového blokování a dávkového Processing pro e-mail
+### Síla časového blokování a dávkového zpracování pro e-mail
 
 Místo toho, aby vám e-mail diktoval váš den, blokování času a dávkování úkolů vám vrátí kontrolu. [Blokování času](https://todoist.com/productivity-methods/time-blocking) zahrnuje plánování konkrétních bloků času v kalendáři pro vyhrazené úkoly. [Dávkování úloh](https://hbr.org/2017/07/stop-switching-between-tasks-all-day-long) znamená seskupování podobných malých úkolů a provádění všech najednou.
 
@@ -98,7 +98,7 @@ I když jsou tyto manuální metody základní, často se snaží efektivně šk
 
 | Strategie                   | Základní princip                                                                    | Pros                                                                                              | Nevýhody                                                                                                                         | Nejvhodnější pro                                                                       |
 | -------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **Inbox Zero**             | ProPřistupte ke každému e-mailu (smazat, delegovat, odložit, provést), abyste udrželi prázdnou doručenou poštu.     | Snížení stresu (pro některé), lepší organizace a soustředění, pocit úspěchu.                | Časová náročnost, tlak na okamžitou odezvu, riziko chybějících informací, může se stát posedlým, což není ideální pro velmi vysokou hlasitost. | Disciplinovaní uživatelé, kteří preferují čistý štít a nacházejí uspokojení v prázdnotě.          |
+| **Inbox Zero**             | Přistupte ke každému e-mailu (smazat, delegovat, odložit, provést), abyste udrželi prázdnou doručenou poštu.     | Snížení stresu (pro některé), lepší organizace a soustředění, pocit úspěchu.                | Časová náročnost, tlak na okamžitou odezvu, riziko chybějících informací, může se stát posedlým, což není ideální pro velmi vysokou hlasitost. | Disciplinovaní uživatelé, kteří preferují čistý štít a nacházejí uspokojení v prázdnotě.          |
 | **GTD pro e-mail**          | Zachyťte e-maily, vyjasněte akci (<2 min = udělat, jinak odložit/přenést na systém úkolů). | Vytváří spolehlivý externí systém, snižuje kognitivní zátěž při zapamatování úkolů, podporuje soustředění.    | Vyžaduje nastavení a důslednou údržbu externího systému, vyžaduje disciplínu pro pravidelné zpracování.                         | Uživatelé, kteří dávají přednost strukturované správě úkolů a oddělení zpracování e-mailů od provádění. |
 | **Štítky a filtry**       | Použijte značky (štítky) a pravidla (filtry) ke kategorizaci a automatizaci třídění e-mailů.       | Flexibilní organizace, vizuální vodítka (barvy/vnoření), automatizuje rutinní třídění/akce.           | Nastavení může být časově náročné, složité systémy mohou vytvářet režii a spoléhá se na to, že uživatel definuje účinná pravidla.                   | Uživatelé, kteří potřebují kategorizaci a těží z automatického třídění známých typů e-mailů.  |
 | **Blokování času/dávkování** | Naplánujte konkrétní časy pro zpracování e-mailů; seskupit podobné úkoly (jako je e-mail).   | Snižuje přepínání kontextu, chrání hluboké pracovní soustředění, zvyšuje záměrnost, může snížit stres. | Vyžaduje disciplínu, abyste se drželi plánu a vyvarovali se kontrolování vnějších bloků, což může vést k nahromadění nevyřízených relací, pokud se zmešká.      | Uživatelé, kteří potřebují chránit čas ostření a zbavit se zvyku neustálého kontrolování.           |
@@ -117,13 +117,12 @@ I když jsou tyto nástroje užitečné, často se zaměřují spíše na konkr�
 
 ### Vzestup AI e-mailového asistenta: inteligentní kopilot vaší schránky
 
-**Image PlaceholderQuery:** futuristický grafický asistent umělé inteligence pomáhající s e-mailem**Alt Text:** Abstraktní obrázek zobrazující umělou inteligenci, která pomáhá lidem efektivně spravovat jejich e-mailovou schránku.**Popis:** E-mailoví asistenti AI využívají technologii k automatizaci a vylepšení správy doručené pošty.
 
 Zadejte e-mailového asistenta AI. Tyto nástroje představují další evoluci ve správě e-mailů, využívající umělou inteligenci – konkrétně Natural Language Processing (NLP) a Machine Learning (ML) – k automatizaci a vylepšení úloh, které tradičně vyžadovaly značné manuální úsilí.
 
 **Jak fungují (zjednodušeně):**
 
-- **Přirozený jazyk Processing (NLP):** Toto je schopnost umělé inteligence číst a _rozumět_ lidskému jazyku jako my. Umožňuje asistentovi pochopit význam, kontext, záměr (Je to otázka? Žádost? FYI?) a dokonce i sentiment (Je odesílatel frustrovaný? Naléhavý?) ve vašich e-mailech. Toto porozumění je klíčové pro úkoly, jako je stanovení priorit a sumarizace.
+- **Zpracování přirozeného jazyka (NLP):** Toto je schopnost umělé inteligence číst a _rozumět_ lidskému jazyku jako my. Umožňuje asistentovi pochopit význam, kontext, záměr (Je to otázka? Žádost? FYI?) a dokonce i sentiment (Je odesílatel frustrovaný? Naléhavý?) ve vašich e-mailech. Toto porozumění je klíčové pro úkoly, jako je stanovení priorit a sumarizace.
 
 - **Strojové učení (ML):** Toto je schopnost AI _učit se_ z dat. Analýzou vašich minulých e-mailů, vašich akcí (které e-maily otevřete jako první, jak odpovídáte) a vaší zpětné vazby se asistent časem zlepšuje. Učí se vašim prioritám, přizpůsobuje se vašemu jedinečnému stylu psaní a rozpoznává vzorce ve vaší komunikaci.
 
@@ -151,7 +150,6 @@ E-mailoví asistenti AI překračují jednoduchou automatizaci; nabízejí intel
 
 ### Třídění umělé inteligence a stanovení priorit: Prosekejte se nepořádkem a najděte, co je naléhavé
 
-**Image PlaceholderQuery:** diagram AI třídění e-mailů třídění důležitých e-mailů**Alt Text:** Diagram ukazující, jak AI třídění automaticky třídí příchozí e-maily podle priority.**Titulek:** AI Triage inteligentně zobrazuje naléhavé e-maily a odstraňuje hluk.
 
 **Problém:** Vaše standardní doručená pošta Gmail je chronologický zdroj, kde o pozornost soupeří informační bulletiny a poznámky CC'd spolu s naléhavými požadavky klientů a kritickými termíny. Manuální třídění tohoto přílivu, abyste našli to, co skutečně potřebuje vaši pozornost _nyní_, spotřebovává cenný čas a duševní energii.
 

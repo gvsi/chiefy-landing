@@ -23,7 +23,7 @@ Enamik meilikliente (nagu Gmail ja Outlook) pakuvad põhilist automatiseerimist 
 
 - Teisaldage kindlate saatjate meilid (nt uudiskirjad) määratud kaustadesse.
 
-- Rakendage teemareal olevate märksõnade alusel silte (nt "arve", "Proalfa pakkumine").
+- Rakendage teemareal olevate märksõnade alusel silte (nt "arve", "Projekt Alpha pakkumine").
 
 - Märgistage sõnumid olulistelt kontaktidelt (nt teie ülemus või võtmekliendid).
 
@@ -133,7 +133,7 @@ Need numbrid näitavad, et automatiseerimise kasutuselevõtt ei tähenda ainult 
 
 - **Turunduse automatiseerimise platvormid (MAP-id):** tööriistad, nagu Mailchimp, ActiveCampaign, HubSpot, Klaviyo, Brevo jne, on võimsad suuremahuliste meiliturunduskampaaniate läbiviimiseks, klienditeekonna haldamiseks, müügivihjete hindamiseks ja sisaldavad sageli CRM-i võimalusi. Need sobivad suurepäraselt turundus- ja müügimeeskondade jaoks, kuid võivad olla ülemäärased või vähem keskendunud individuaalse postkasti tootlikkusele.
 
-- **AI e-posti assistendid ja Projuhtimistööriistad:** tööriistad, nagu SaneBox, Flowrite, Gmelius, Superhuman ja [Duet Mail](https://duetmail.com/et) on loodud spetsiaalselt individuaalse või meeskonna e-posti produktiivsuse suurendamiseks. Nad keskenduvad postkastihaldusprobleemide lahendamisele, nagu triaaž, mustand, kokkuvõte, koostöö ja töövoo integreerimine meilikeskkonnas. Need sobivad sageli paremini hõivatud professionaalidele, vabakutselistele ja igapäevastesse meilidesse uppuvatele teadmistega töötajatele.
+- **AI e-posti assistendid ja projektijuhtimistööriistad:** tööriistad, nagu SaneBox, Flowrite, Gmelius, Superhuman ja [Duet Mail](https://duetmail.com/et) on loodud spetsiaalselt individuaalse või meeskonna e-posti produktiivsuse suurendamiseks. Nad keskenduvad postkastihaldusprobleemide lahendamisele, nagu triaaž, mustand, kokkuvõte, koostöö ja töövoo integreerimine meilikeskkonnas. Need sobivad sageli paremini hõivatud professionaalidele, vabakutselistele ja igapäevastesse meilidesse uppuvatele teadmistega töötajatele.
 
 Õige valik sõltub teie esmasest eesmärgist. Kui see on kampaaniate haldamine, vaadake MAP-e. Kui see on teie isikliku postkasti vallutamine ja aja tagasivõtmine, uurige tehisintellekti abilisi ja tootlikkuse tööriistu.
 

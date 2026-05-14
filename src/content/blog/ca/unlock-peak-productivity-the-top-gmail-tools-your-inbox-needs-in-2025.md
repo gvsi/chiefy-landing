@@ -32,7 +32,7 @@ Els estudis mostren constantment que els professionals passen una part important
 No es tracta només de temps perdut; es tracta d'energia mental, oportunitats perdudes i augment de l'estrès. Quan s'enterren missatges importants, s'obliden els seguiments i la vostra càrrega cognitiva s'aconsegueix al màxim només intentant fer un triatge, el vostre treball real es ressent. La necessitat d'eines efectives de gestió de correu electrònic no és un luxe; és una necessitat per als professionals moderns.
 
 
-## Fighting Back: dominar l'Arsenal d'organització integrat de Gmail
+## Recupera el control: domina l'arsenal d'organització integrat de Gmail
 
 
 Abans de capbussar-se en solucions de tercers, és crucial aprofitar les potents funcions organitzatives que ja estan integrades a Gmail. Dominar aquests conceptes bàsics constitueix la base per a qualsevol estratègia eficaç de gestió de correu electrònic.
@@ -80,7 +80,7 @@ La barra de cerca de Gmail és increïblement potent, especialment quan s'utilit
 Dominar aquests operadors estalvia un temps immens en comparació amb el desplaçament manual per centenars de correus electrònics.
 
 
-## Augmenta el teu flux de treball: les principals eines i extensions de productivitat Gmail
+## Augmenta el teu flux de treball: principals eines i extensions de productivitat per a Gmail
 
 
 Tot i que les funcions natives de Gmail són essencials, un univers d'eines de tercers i extensions de Chrome poden augmentar encara més la vostra productivitat. Aquestes eines sovint s'orienten a punts de dolor específics:
@@ -166,7 +166,7 @@ Saltar a un fil de 20 missatges pot resultar descoratjador. Les eines de resum A
 Aquí és on AI realment brilla per estalviar temps. En lloc d'oferir respostes predefinides, els redactors avançats de AI poden generar opcions de resposta rellevants per al context. Les millors eines van un pas més enllà, aprenent el vostre estil d'escriptura únic (el vostre to, vocabulari, salutacions preferides i tancaments) mitjançant l'anàlisi dels vostres missatges enviats anteriorment. Això els permet crear esborranys que sonen realment com *vosaltres*, reduint dràsticament el temps d'edició i mantenint l'autenticitat de les vostres comunicacions. Tal com demostren eines com [El meu estil d'escriptura de Spark Mail](https://sparkmailapp.com/blog/my-writing-style), l'objectiu és que els esborranys generats per AI requereixin un ajustament mínim.
 
 
-## Escollir el vostre copilot AI: una comparació dels principals assistents Gmail
+## Escollir el teu copilot AI: comparativa dels principals assistents per a Gmail
 
 
 El mercat dels assistents de correu electrònic AI està en auge, amb diversos competidors potents que ofereixen diferents punts forts. Aquí teniu una comparació d'alguns dels millors jugadors del 2025:

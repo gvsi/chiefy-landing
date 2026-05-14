@@ -68,7 +68,6 @@ Wyobraź sobie cyfrowy zakreślacz na swoim wątku mailowym. Podsumowanie ekstra
 
 - **Przykład dla PM-ów:** Podsumowując wątek o krytycznej poprawce błędu, podsumowanie ekstrakcyjne mogłoby wyciągnąć zdania takie jak: „Użytkownik zgłosił krytyczny błąd 'LoginFail' wpływający na wszystkich użytkowników z UE.”, „Zespół deweloperski potwierdził, że główna przyczyna to aktualizacja modułu uwierzytelniania z wtorku.” oraz „Wdrożenie hotfixa zaplanowano na piątek na 17:00 CET.”
 
-\[Placeholder for Image: Diagram comparing extractive and abstractive summarization]Podsumowanie ekstrakcyjne wyciąga kluczowe zdania bezpośrednio, podczas gdy podsumowanie abstrakcyjne rozumie treść i generuje nowy, zwięzły opis.
 
 **Podsumowanie abstrakcyjne:**\
 Ta metoda jest bardziej zaawansowana i ma naśladować sposób, w jaki podsumowałby człowiek. AI najpierw czyta i rozumie _znaczenie_ całej rozmowy lub dokumentu. Następnie generuje _nowe_ zdania, używając własnych słów, aby zwięźle uchwycić sedno. Często wykorzystuje się do tego zaawansowane modele AI, takie jak te stojące za ChatGPT czy Google Gemini, które potrafią parafrazować, łączyć idee i syntetyzować informacje.

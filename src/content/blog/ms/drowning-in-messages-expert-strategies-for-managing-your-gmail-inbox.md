@@ -117,7 +117,6 @@ Walaupun membantu, alat ini sering menangani titik kesakitan tertentu dan bukann
 
 ### Kebangkitan Pembantu E-mel AI: Kopilot Pintar Peti Masuk Anda
 
-**Image PlaceholderQuery:** futuristic graphic AI assistant helping with email**Alt Text:** Abstract graphic showing an AI helping a person manage their email inbox efficiently.**Caption:** AI email assistants leverage technology to automate and enhance inbox management.
 
 Masuklah pembantu e-mel AI. Alat ini mewakili evolusi seterusnya dalam pengurusan e-mel, memanfaatkan kecerdasan buatan – khususnya Natural Language Processing (NLP) dan Machine Learning (ML) – untuk mengautomasikan dan meningkatkan tugasan yang secara tradisional memerlukan usaha manual yang besar.
 
@@ -151,7 +150,6 @@ Pembantu e-mel AI melangkaui automasi ringkas; mereka menawarkan keupayaan pinta
 
 ### Triage & Pengutamaan AI: Memotong Kekusutan untuk Mencari Apa yang Mendesak
 
-**Image PlaceholderQuery:** diagram AI email triage sorting important emails**Alt Text:** Diagram showing how AI triage automatically sorts incoming emails by priority.**Caption:** AI Triage intelligently surfaces urgent emails, cutting through the noise.
 
 **Masalahnya:** Peti masuk Gmail standard anda ialah suapan mengikut kronologi di mana surat berita dan memo yang CC bersaing untuk perhatian bersama permintaan pelanggan yang mendesak dan tarikh akhir kritikal. Menyusun kemasukan ini secara manual untuk mencari apa yang benar-benar memerlukan perhatian anda _sekarang_ memakan masa dan tenaga mental yang bernilai.
 

@@ -85,7 +85,7 @@ Ahelyett, hogy az e-mail diktálná a napot, az időzár és a feladatok kötege
 
 **Alkalmazás:** Alkalmazza ezt az e-mailekre úgy, hogy csak [2-3 meghatározott, korlátozott blokkot naponta](https://hbr.org/2012/07/stop-letting-email-control-your-life) ütemez be kizárólag a beérkező levelek ellenőrzésére és feldolgozására. Az ütemezett időpontokon kívül tartsa zárva e-mailjeit, és kapcsolja ki az értesítéseket.
 
-**Előnyök:** Ez drámaian csökkenti a költséges kontextusváltást, lehetővé téve a fő prioritásokon való hosszan tartó, mélyreható, koncentrált munkát. A szándékosságot kényszeríti az e-mailek idejére, és segít megtörni azt a reakcióciklust, amelyben a beérkező levelek diktálják a napirendet. Az e-mailekhez való hozzáférés korlátozása még [csökkenti a stressz szintjét](https://www.researchgate.net/publication/264449618_Reducing_Email_Use_Does_It_Reduce_Stress_and_Increase_Focused_Work). ProAz e-mailek fókuszált kötegekben történő visszaküldése általában hatékonyabb, mint a napközbeni szétszórt ellenőrzések.
+**Előnyök:** Ez drámaian csökkenti a költséges kontextusváltást, lehetővé téve a fő prioritásokon való hosszan tartó, mélyreható, koncentrált munkát. A szándékosságot kényszeríti az e-mailek idejére, és segít megtörni azt a reakcióciklust, amelyben a beérkező levelek diktálják a napirendet. Az e-mailekhez való hozzáférés korlátozása még [csökkenti a stressz szintjét](https://www.researchgate.net/publication/264449618_Reducing_Email_Use_Does_It_Reduce_Stress_and_Increase_Focused_Work). Az e-mailek fókuszált kötegekben történő visszaküldése általában hatékonyabb, mint a napközbeni szétszórt ellenőrzések.
 
 ### Elemzés: elegendőek-e a kézi módszerek a nagy volumenű postafiókokhoz?
 
@@ -118,7 +118,6 @@ Bár hasznosak, ezek az eszközök gyakran konkrét fájdalompontokat kezelnek, 
 
 ### Az AI e-mail asszisztens felemelkedése: a beérkező levelek intelligens társpilótája
 
-**Image PlaceholderQuery:** futurisztikus grafikus mesterséges intelligencia asszisztens, amely segít az e-mailek kezelésében** Helyettesítő szöveg:** Absztrakt grafika, amely egy mesterséges intelligenciát ábrázol, amely segít egy személynek hatékonyan kezelni az e-mail postafiókját.**Felirat:** Az AI e-mail asszisztensek technológiát használnak a beérkező levelek kezelésének automatizálására és javítására.
 
 Írja be az AI e-mail asszisztenst. Ezek az eszközök az e-mail-kezelés következő fejlődését jelentik, a mesterséges intelligencia – különösen a Natural Language Processing (NLP) és a Machine Learning (ML) – felhasználásával automatizálják és javítják a hagyományosan jelentős manuális erőfeszítést igénylő feladatokat.
 
@@ -152,7 +151,6 @@ Az AI e-mail asszisztensek túllépnek az egyszerű automatizáláson; intellige
 
 ### A mesterséges intelligencia osztályozása és prioritások felosztása: A rendetlenség leküzdése a sürgős dolgok megtalálása érdekében
 
-**Image PlaceholderQuery:** diagram AI e-mail csoportosítás a fontos e-mailek rendezése** Alt Text:** Diagram, amely azt mutatja be, hogy az AI osztályozás hogyan rendezi automatikusan prioritás szerint a bejövő e-maileket.**Felirat:** Az AI Triage intelligens módon kezeli a sürgős e-maileket, csökkentve a zajt.
 
 **A Problem:** A szabványos Gmail beérkező levelek egy időrendi hírfolyam, ahol a hírlevelek és a CC-jegyzetek versengenek a figyelemért, az ügyfelek sürgős kérései és kritikus határidői mellett. Ennek a beáramlásnak a manuális rendezése annak érdekében, hogy megtalálja azt, amire valóban szüksége van, _most_ értékes időt és mentális energiát emészt fel.
 

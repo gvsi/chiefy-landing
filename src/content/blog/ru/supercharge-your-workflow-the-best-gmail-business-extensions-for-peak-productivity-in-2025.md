@@ -109,11 +109,11 @@ AI-ассистенты для email предлагают продвинутые
 
 | Extension         | Primary Function   | Key Feature Example         | Ideal User                                      |
 | ----------------- | ------------------ | --------------------------- | ----------------------------------------------- |
-| Right Inbox       | Productivity Suite | Send Later, Email Tracking  | Professionals needing scheduling & tracking     |
-| Streak            | CRM                | Pipeline in Gmail           | Sales teams, Freelancers managing clients       |
-| Todoist for Gmail | Task Management    | Email-to-Task Conversion    | Individuals needing task organization           |
-| Grammarly         | Writing Assistance | Real-time grammar/style     | Anyone needing polished communication           |
-| Duet Mail         | AI Email Assistant | AI Triage, Authentic Drafts | Busy professionals seeking automated management |
+| Right Inbox       | Набор для продуктивности | Send Later, Email Tracking | Специалисты, которым нужны планирование и отслеживание |
+| Streak            | CRM                | Pipeline in Gmail           | Отделы продаж и фрилансеры, работающие с клиентами |
+| Todoist for Gmail | Управление задачами | Email-to-Task Conversion | Пользователи, которым нужна организация задач |
+| Grammarly         | Помощь с письмом | Real-time grammar/style | Все, кому нужна выверенная коммуникация |
+| Duet Mail         | AI-ассистент для почты | AI Triage, Authentic Drafts | Занятые специалисты, которым нужна автоматизация |
 
 Эта таблица — краткое резюме: она помогает быстро понять основную функцию и целевую аудиторию ключевых инструментов. Упоминание Duet Mail рядом с устоявшимися решениями подчёркивает его ценность как комплексного AI-решения и помогает читателям принять решение.
 

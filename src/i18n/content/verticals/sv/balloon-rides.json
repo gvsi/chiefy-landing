@@ -127,19 +127,19 @@
     {
       "name": "Kapten Mike L.",
       "title": "Ballongpilot, MN",
-      "quote": "Jag är en enmansoperation — jag flyger, jag besättning, jag svarar på e-post. Förutom klockan 05.00 blåser jag upp, svarar inte.Duet skriver utkast till svar på varje \"ska vi flyga imorgon?\" meddelande över natten. Jag vaknar, kollar vädret och trycker på skicka.",
+      "quote": "Jag är en enmansoperation — jag flyger, jag besättning, jag svarar på e-post. Förutom klockan 05.00 blåser jag upp, svarar inte. Duet skriver utkast till svar på varje \"ska vi flyga imorgon?\" meddelande över natten. Jag vaknar, kollar vädret och trycker på skicka.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon och Jake B.",
       "title": "Ballongturer året runt, UT",
-      "quote": "Vi får samma 10 frågor varje dag. Vad man ska ha på sig, var man ska träffas, tänk om det blåser.Duet har lärt sig allt och ger nu perfekta svar. Vi gick från en timmes mejl varje kväll till fem minuter.",
+      "quote": "Vi får samma 10 frågor varje dag. Vad man ska ha på sig, var man ska träffas, tänk om det blåser. Duet har lärt sig allt och ger nu perfekta svar. Vi gick från en timmes mejl varje kväll till fem minuter.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Högsäsong innebär 4-6 flygningar i veckan och varje passagerare mailar minst två gånger före flygningen.Duet hanterar frågorna före flygningen så att jag kan fokusera på att ge människor den bästa morgonen i sina liv.",
+      "quote": "Högsäsong innebär 4-6 flygningar i veckan och varje passagerare mailar minst två gånger före flygningen. Duet hanterar frågorna före flygningen så att jag kan fokusera på att ge människor den bästa morgonen i sina liv.",
       "avatarKey": "johnny"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Maria D.",
       "title": "Balloon Ride Operations, CO",
-      "quote": "Propostflyg behöver så mycket koordinering fram och tillbaka.Duet fick reda på hur vi hanterar dem - timingen, kodorden, champagneupplägget. Den skapar svar som jag knappt behöver röra.",
+      "quote": "Frieriflygningar behöver så mycket koordinering fram och tillbaka. Duet fick reda på hur vi hanterar dem - timingen, kodorden, champagneupplägget. Den skapar svar som jag knappt behöver röra.",
       "avatarKey": "francesca"
     }
   ],
@@ -164,8 +164,8 @@
     },
     {
       "question": "Kan Duet hantera \"ska vi flyga imorgon?\" mejl som strömmar in varje kväll?",
-      "answer": "Ja — det här är en av de vanligaste mejlen som ballongoperatörer berättar om.Duet lär sig dina väderpolicyer och utkast till lugnande svar som förklarar din beslutsprocess, när du ska ringa det sista samtalet och vad du kan förvänta dig. När du har bekräftat go/no-go på morgonen kan den skapa utkast till uppdateringar till alla på manifestet."
+      "answer": "Ja — det här är en av de vanligaste mejlen som ballongoperatörer berättar om. Duet lär sig dina väderpolicyer och utkast till lugnande svar som förklarar din beslutsprocess, när du ska ringa det sista samtalet och vad du kan förvänta dig. När du har bekräftat go/no-go på morgonen kan den skapa utkast till uppdateringar till alla på manifestet."
     }
   ],
-  "pricingNote": "För $250/person med 4 passagerare per flyg, betalar en sparad bokning för över ett år avPro."
+  "pricingNote": "För $250/person med 4 passagerare per flyg, betalar en sparad bokning för över ett år av Pro."
 }

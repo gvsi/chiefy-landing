@@ -93,7 +93,7 @@
       "avatarLetter": "S",
       "avatarColor": "lavender",
       "subject": "Sommersalg — 30 % rabatt på våtdrakter",
-      "pill": "Probevegelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -133,7 +133,7 @@
     {
       "name": "Jen og Mark S.",
       "title": "Paddleboard leksjoner og utleie, HI",
-      "quote": "Vi kjører undervisning og brettutleie ut av samme innboks.Duet fant ut forskjellen umiddelbart - leiespørsmål får svar på leie, leksjonsforespørsler får leksjonsdetaljer. Det er som å ha en resepsjon.",
+      "quote": "Vi kjører undervisning og brettutleie ut av samme innboks. Duet fant ut forskjellen umiddelbart - leiespørsmål får svar på leie, leksjonsforespørsler får leksjonsdetaljer. Det er som å ha en resepsjon.",
       "avatarKey": "jennifer"
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "Fran C.",
       "title": "SUP-turer og leksjoner, OR",
-      "quote": "Høysesongen tok livet av meg - 30 e-poster om dagen om forhold, priser, hva jeg skal ta med. De samme fem spørsmålene om og om igjen.Duet håndterer alle og de høres akkurat ut som meg.",
+      "quote": "Høysesongen tok livet av meg - 30 e-poster om dagen om forhold, priser, hva jeg skal ta med. De samme fem spørsmålene om og om igjen. Duet håndterer alle og de høres akkurat ut som meg.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Kids Surf Camp Director, SC",
-      "quote": "Foreldre sender de lengste e-postene. Leirdatoer, allergier, ferdighetsnivåer, hentetider.Duet utarbeider detaljerte svar som dekker alt, så jeg skriver ikke avsnitt klokken 22.00 etter en hel dag på stranden.",
+      "quote": "Foreldre sender de lengste e-postene. Leirdatoer, allergier, ferdighetsnivåer, hentetider. Duet utarbeider detaljerte svar som dekker alt, så jeg skriver ikke avsnitt klokken 22.00 etter en hel dag på stranden.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Duet lærer hvordan du vanligvis håndterer e-poster med vilkår – retningslinjene dine for kanselleringer, omplanlegging og hvilke betingelser du underviser i. Når noen sender e-poster og spør om leksjonen deres vil fortsette, lager Duet et svar som samsvarer med din vanlige tone og retningslinjer. Du vurderer og sender på sekunder."
     }
   ],
-  "pricingNote": "For $90/leksjon betaler to lagrede bestillinger for over ett år medPro."
+  "pricingNote": "For $90/leksjon betaler to lagrede bestillinger for over ett år med Pro."
 }

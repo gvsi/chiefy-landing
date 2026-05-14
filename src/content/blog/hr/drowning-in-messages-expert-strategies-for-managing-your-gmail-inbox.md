@@ -117,7 +117,6 @@ Iako korisni, ovi se alati često bave specifičnim bolnim točkama, a ne holist
 
 ### Uspon pomoćnika za e-poštu s umjetnom inteligencijom: Inteligentni kopilot za vašu pristiglu poštu
 
-**Image PlaceholderQuery:** futuristički grafički AI asistent koji pomaže s e-poštom**Alt Text:** Apstraktna grafika koja prikazuje AI koja pomaže osobi da učinkovito upravlja svojim pretincem e-pošte.**Natpis:** AI pomoćnici za e-poštu koriste tehnologiju za automatizaciju i poboljšanje upravljanja pristiglom poštom.
 
 Unesite AI pomoćnika za e-poštu. Ovi alati predstavljaju sljedeću evoluciju u upravljanju e-poštom, koristeći umjetnu inteligenciju – posebno Obradu prirodnog jezika (NLP) i Strojno učenje (ML) – za automatizaciju i poboljšanje zadataka koji su tradicionalno zahtijevali značajan ručni napor.
 
@@ -151,7 +150,6 @@ AI pomoćnici za e-poštu idu dalje od jednostavne automatizacije; nude intelige
 
 ### AI Trijaža i određivanje prioriteta: probijanje kroz nered da biste pronašli ono što je hitno
 
-**Image PlaceholderQuery:** dijagram AI triage razvrstava važne e-poruke**Alt Text:** Dijagram koji prikazuje kako AI triage automatski razvrstava dolazne e-poruke po prioritetu.**Natpis:** AI triage inteligentno prikazuje hitne e-poruke, probijajući se kroz buku.
 
 **Problem:** Vaša standardna Gmail pristigla pošta je kronološki feed gdje se bilteni i CC'd memorandumi natječu za pozornost uz hitne zahtjeve klijenata i kritične rokove. Ručno razvrstavanje ovog priljeva kako biste pronašli ono što uistinu treba vašu pažnju _sada_ troši dragocjeno vrijeme i mentalnu energiju.
 

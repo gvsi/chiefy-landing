@@ -65,7 +65,7 @@ Deres kernefordel ligger i at bringe struktur til kaosset. De vigtigste fordele 
 
 - **Samarbejdsværktøjer:** Funktioner som interne noter på billetter giver agenter mulighed for at dele oplysninger og samarbejde om løsninger.
 
-- **Rapportering:**Proviser grundlæggende analyser om billetvolumen, svartider og andre KPI'er.
+- **Rapportering:** Viser grundlæggende analyser om billetvolumen, svartider og andre KPI'er.
 
 Selvom det er en væsentlig forbedring i forhold til delte indbakker, er traditionelle helpdeske ikke et vidundermiddel. De kræver ofte stadig en betydelig manuel indsats, kan have en stejlere indlæringskurve og tilhørende uddannelsesomkostninger og kan være dyrere. Uden mere avancerede funktioner er det afgørende, at de måske ikke fuldt ud løser spændingen mellem at levere hurtige svar og personlige interaktioner.
 
@@ -139,7 +139,7 @@ Effektivt teamwork er afgørende. Se efter funktioner, der gør det muligt for a
 
 - **Task Assignment:** Oprettelse af underopgaver relateret til en e-mail og tildeling af dem til specifikke teammedlemmer.
 
-### AI for AgentProduktivitet og forbedret kvalitet
+### AI for agentproduktivitet og forbedret kvalitet
 
 AI er ikke kun automatisering af opgaver; det hjælper aktivt agenter med at arbejde smartere og levere service af højere kvalitet.
 
@@ -184,7 +184,7 @@ At vælge den rigtige software er kun halvdelen af kampen. Hvordan du implemente
 
 - **Organiser hensynsløst:** Implementer et klart og konsekvent system til tagging, kategorisering og prioritering af e-mails eller billetter. Brug mapper, brugerdefinerede visninger eller dashboards til at hjælpe agenter med at administrere deres specifikke arbejdsgange effektivt.
 
-- **Styrk dine agenter:**Proper træning i softwaren og etablerede processer er afgørende. Sørg for, at agenter har nem adgang til kundehistorik og kontekst. Fremme et samarbejdsmiljø, hvor det opfordres til at bede om hjælp. Og glem ikke at anerkende og værdsætte deres indsats, da støtteroller kan være krævende.
+- **Styrk dine agenter:**Grundig træning i softwaren og etablerede processer er afgørende. Sørg for, at agenter har nem adgang til kundehistorik og kontekst. Fremme et samarbejdsmiljø, hvor det opfordres til at bede om hjælp. Og glem ikke at anerkende og værdsætte deres indsats, da støtteroller kan være krævende.
 
 - **Behandle klager med ynde:** Det er uundgåeligt at håndtere frustrerede kunder. Træn dit team i de-eskaleringsteknikker. Læg vægt på aktiv lytning, ægte empati, oprigtige undskyldninger, når det er berettiget, og et laserfokus på at løse det underliggende problem. Brug negativ feedback konstruktivt som en mulighed for at forbedre processer eller produkter.
 

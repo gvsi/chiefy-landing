@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen sehen, dann Fragen zum Wetter und nie Lärm. Keine Fluganfrage mehr verpassen, die unter Newsletter-Benachrichtigungen verborgen ist.",
   "draftSubtitle": "Duet lernt Ihre Preise, Wetterrichtlinien und Ihren Ton. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit Flugdetails, Besprechungsinformationen und Kleidung erstellt. Sie überprüfen und senden.",
-  "agentSubtitle": "„Wer steht auf dem morgigen Manifest?“ „Irgendwelche wetterbedingten Absagen, die verschoben werden müssen?“Duet kennt Ihren Posteingang und Kalender – fragen Sie einfach nach.",
+  "agentSubtitle": "„Wer steht auf dem morgigen Manifest?“ „Irgendwelche wetterbedingten Absagen, die verschoben werden müssen?” Duet kennt Ihren Posteingang und Kalender – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,19 +127,19 @@
     {
       "name": "Kapitän Mike L.",
       "title": "Ballonpilot, MN",
-      "quote": "Ich bin ein Ein-Mann-Betrieb – ich fliege, ich bemanne, ich beantworte E-Mails. Außer um 5 Uhr morgens blase ich auf und antworte nicht.Duet entwirft Antworten auf alle Fragen wie „Werden wir morgen fliegen?“ Nachricht über Nacht. Ich wache auf, überprüfe das Wetter und drücke auf Senden.",
+      "quote": "Ich bin ein Ein-Mann-Betrieb – ich fliege, ich bemanne, ich beantworte E-Mails. Außer um 5 Uhr morgens blase ich auf und antworte nicht. Duet entwirft Antworten auf alle Fragen wie „Werden wir morgen fliegen?“ Nachricht über Nacht. Ich wache auf, überprüfe das Wetter und drücke auf Senden.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "Ganzjährige Ballontouren, UT",
-      "quote": "Wir bekommen jeden Tag die gleichen 10 Fragen. Was man anzieht, wo man sich trifft, was, wenn es windig ist.Duet hat alles gelernt und entwirft jetzt perfekte Antworten. Wir sind von einer Stunde E-Mails pro Nacht auf fünf Minuten gestiegen.",
+      "quote": "Wir bekommen jeden Tag die gleichen 10 Fragen. Was man anzieht, wo man sich trifft, was, wenn es windig ist. Duet hat alles gelernt und entwirft jetzt perfekte Antworten. Wir sind von einer Stunde E-Mails pro Nacht auf fünf Minuten gestiegen.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Hochsaison bedeutet 4–6 Flüge pro Woche und jeder Passagier schreibt vor dem Flug mindestens zweimal eine E-Mail.Duet kümmert sich um die Fragen vor dem Flug, damit ich mich darauf konzentrieren kann, den Menschen den besten Morgen ihres Lebens zu bereiten.",
+      "quote": "Hochsaison bedeutet 4–6 Flüge pro Woche und jeder Passagier schreibt vor dem Flug mindestens zweimal eine E-Mail. Duet kümmert sich um die Fragen vor dem Flug, damit ich mich darauf konzentrieren kann, den Menschen den besten Morgen ihres Lebens zu bereiten.",
       "avatarKey": "johnny"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Maria D.",
       "title": "Balloon Ride Operations, CO",
-      "quote": "ProPosalflüge erfordern so viel Hin- und Herkoordination.Duet hat herausgefunden, wie wir damit umgehen – das Timing, die Codewörter, das Champagner-Setup. Es entwirft Antworten, die ich kaum berühren muss.",
+      "quote": "Verlobungsflüge erfordern so viel Hin- und Herkoordination. Duet hat herausgefunden, wie wir damit umgehen – das Timing, die Codewörter, das Champagner-Setup. Es entwirft Antworten, die ich kaum berühren muss.",
       "avatarKey": "francesca"
     }
   ],
@@ -164,8 +164,8 @@
     },
     {
       "question": "Kann Duet mit der Frage „Werden wir morgen fliegen?“ umgehen. E-Mails, die jeden Abend eingehen?",
-      "answer": "Ja – das ist eine der häufigsten E-Mail-Ballonbetreiber, von denen wir hören.Duet lernt Ihre Wetterrichtlinien und entwirft beruhigende Antworten, die Ihren Entscheidungsprozess erläutern, wann Sie die letzte Entscheidung treffen und was Sie erwartet. Sobald Sie morgens das Go/No-Go bestätigen, können Aktualisierungen für alle Personen im Manifest erstellt werden."
+      "answer": "Ja – das ist eine der häufigsten E-Mail-Ballonbetreiber, von denen wir hören. Duet lernt Ihre Wetterrichtlinien und entwirft beruhigende Antworten, die Ihren Entscheidungsprozess erläutern, wann Sie die letzte Entscheidung treffen und was Sie erwartet. Sobald Sie morgens das Go/No-Go bestätigen, können Aktualisierungen für alle Personen im Manifest erstellt werden."
     }
   ],
-  "pricingNote": "Bei 250 $/Person mit 4 Passagieren pro Flug reicht eine gespeicherte Buchung für mehr als ein JahrPro."
+  "pricingNote": "Bei 250 $/Person mit 4 Passagieren pro Flug reicht eine gespeicherte Buchung für mehr als ein Jahr Pro."
 }

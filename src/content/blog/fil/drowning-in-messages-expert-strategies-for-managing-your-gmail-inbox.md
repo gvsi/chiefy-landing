@@ -117,7 +117,6 @@ Bagama't kapaki-pakinabang, ang mga tool na ito ay madalas na tumutugon sa mga p
 
 ### Ang Paglabas ng AI Email Assistant: Ang Matalinong Co-Pilot ng Inbox Mo
 
-**PlaceholderQuery ng Larawan:** futuristic na graphic AI assistant na tumutulong sa email**Alt Text:** Abstract na graphic na nagpapakita ng AI na tumutulong sa isang tao na pamahalaan ang kanilang email inbox nang mahusay.**Caption:** AI email assistants ay gumagamit ng teknolohiya upang i-automate at mapahusay ang pamamahala ng inbox.
 
 Ilagay ang AI email assistant. Kinakatawan ng mga tool na ito ang susunod na ebolusyon sa pamamahala ng email, na gumagamit ng artificial intelligence – partikular ang Natural Language Processing (NLP) at Machine Learning (ML) – upang i-automate at pahusayin ang mga gawain na tradisyonal na nangangailangan ng makabuluhang manual na pagsisikap.
 
@@ -151,7 +150,6 @@ AI ang mga email assistant ay lumampas sa simpleng automation; nag-aalok sila ng
 
 ### AI Triage at Priyoridad: Pagputol sa Kalat para Makita Kung Ano ang Apurahan
 
-**PlaceholderQuery ng Larawan:** diagram AI email triage pag-uuri ng mahahalagang email**Alt Text:** Diagram na nagpapakita kung paano awtomatikong pinag-uuri-uri ng AI triage ang mga papasok na email ayon sa priyoridad.**Caption:** AI Triage ay matalinong nagpapalabas ng mga agarang email, na pinuputol ang ingay.
 
 **Ang Problema:** Ang iyong karaniwang Gmail inbox ay isang kronolohikal na feed kung saan ang mga newsletter at CC'd memo ay nakikipagkumpitensya para sa atensyon kasama ng mga agarang kahilingan ng kliyente at kritikal na mga deadline. Manu-manong pag-uuri ng pag-agos na ito upang mahanap kung ano ang tunay na nangangailangan ng iyong atensyon _ngayon_ ay kumokonsumo ng mahalagang oras at lakas ng pag-iisip.
 

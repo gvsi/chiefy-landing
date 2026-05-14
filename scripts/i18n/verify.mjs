@@ -138,7 +138,90 @@ const legalEnglishLeftoverPhrases = [
     "All About Cookies",
     "All About\n    Cookies",
     "समानीका0नी",
+    "ServiceProvider",
+    "ServiceProviders",
+    "serviceProviders",
+    "serviceProvider",
+    "DienstProvider",
+    "DienstProviders",
+    "ServiceProvidere",
+    "TjenestenProvidere",
+    "DienstProvidere",
+    "dataPro",
+    "DataPro",
+    "Protectie",
+    "Protektions",
+    "PrivacyProtection",
+    "andProfessions",
+    "IntellektuelProperty",
+    "IntellektuellerProperty",
+    "IntellectueelProperty",
+    "IntellektuellProperty",
+    "智慧型Property",
+    "智力Pro属性",
+    "Pro视频",
+    "Pro文斯",
+    "Pro职业",
+    "Pro愿景",
 ]
+
+const publishedContentLeftoverPhrases = [
+    "Image Placeholder",
+    "PlaceholderQuery",
+    "Alt Text:",
+    "Caption:",
+]
+
+const protectedTermGluePatterns = [
+    /(?<=[\p{Script=Latin}\p{N}])ChatGPT/u,
+    /ChatGPT(?=[\p{Script=Latin}\p{N}])/u,
+    /\bGPT(?=[\p{L}\p{N}])/u,
+    /(?<=[\p{L}\p{N}])GPT\b/u,
+    /(?<=[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}])Pro/u,
+    /Pro(?=[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}])/u,
+]
+const longEnglishRunLocales = new Set(["ja", "ko", "zh-Hans", "zh-Hant"])
+const allowedProtectedTermGluePrefixes = ["ProWritingAid", "Proton"]
+
+function assertNoPublishedContentPlaceholders(relativePath, content) {
+    for (const phrase of publishedContentLeftoverPhrases) {
+        if (content.includes(phrase)) {
+            fail(`Published content contains authoring placeholder or broken source fragment in ${relativePath}: ${phrase}`)
+        }
+    }
+}
+
+function assertNoProtectedTermGlue(locale, relativePath, content) {
+    if (locale === "en") return
+    for (const pattern of protectedTermGluePatterns) {
+        const match = content.match(pattern)
+        if (match) {
+            const index = match.index ?? 0
+            if (match[0] === "GPT" && content.slice(index - 4, index + 3) === "ChatGPT") {
+                continue
+            }
+            if (allowedProtectedTermGluePrefixes.some((term) => content.startsWith(term, index))) {
+                continue
+            }
+            const excerpt = content.slice(Math.max(0, index - 40), index + 80).replace(/\s+/g, " ")
+            fail(`Protected glossary term appears glued to surrounding text in ${relativePath}: ${excerpt}`)
+        }
+    }
+}
+
+function assertNoLongEnglishRuns(locale, relativePath, content) {
+    if (!longEnglishRunLocales.has(locale)) return
+    const text = content
+        .replace(/^---[\s\S]*?---/u, "")
+        .replace(/https?:\/\/\S+/gu, "")
+        .replace(/\/blog\/images\/\S+/gu, "")
+    const match = text.match(/\b[A-Za-z]{4,}(?:\s+[A-Za-z]{4,}){3,}\b/u)
+    if (match) {
+        const index = match.index ?? 0
+        const excerpt = text.slice(Math.max(0, index - 40), index + 140).replace(/\s+/g, " ")
+        fail(`Likely English sentence remains in non-English blog body ${relativePath}: ${excerpt}`)
+    }
+}
 
 function assertNoHighVisibilityEnglishLegalLeftovers(relativePath, content) {
     for (const phrase of legalEnglishLeftoverPhrases) {
@@ -538,8 +621,10 @@ async function assertSourceContentFiles({ complete }) {
     for (const locale of locales) {
         const messages = readJson(`src/i18n/messages/${locale}.json`)
         assertMessageQualityContracts(locale, messages, englishMessages)
+        assertNoProtectedTermGlue(locale, `src/i18n/messages/${locale}.json`, JSON.stringify(messages))
         const home = readJson(`src/i18n/content/home/${locale}.json`)
         const englishHome = readJson("src/i18n/content/home/en.json")
+        assertNoProtectedTermGlue(locale, `src/i18n/content/home/${locale}.json`, JSON.stringify(home))
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.title", home.meta?.title, englishHome.meta?.title)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.description", home.meta?.description, englishHome.meta?.description)
         if (locale === localeSource.default_locale) {
@@ -559,6 +644,7 @@ async function assertSourceContentFiles({ complete }) {
             }
             const legal = readText(`src/i18n/content/legal/${locale}/${page}.html`)
             assertLegalHtmlStructure(`src/i18n/content/legal/${locale}/${page}.html`, legal)
+            assertNoProtectedTermGlue(locale, `src/i18n/content/legal/${locale}/${page}.html`, legal)
             if (locale !== localeSource.default_locale) {
                 assertNoHighVisibilityEnglishLegalLeftovers(`src/i18n/content/legal/${locale}/${page}.html`, legal)
             }
@@ -587,6 +673,7 @@ async function assertSourceContentFiles({ complete }) {
             }
             const vertical = readJson(`src/i18n/content/verticals/${locale}/${file}`)
             const englishVertical = readJson(`src/i18n/content/verticals/en/${file}`)
+            assertNoProtectedTermGlue(locale, `src/i18n/content/verticals/${locale}/${file}`, JSON.stringify(vertical))
             assertLocalizedSeoValue(locale, `src/i18n/content/verticals/${locale}/${file}`, "pageTitle", vertical.pageTitle, englishVertical.pageTitle)
             assertLocalizedSeoValue(locale, `src/i18n/content/verticals/${locale}/${file}`, "metaDescription", vertical.metaDescription, englishVertical.metaDescription)
             if (locale === localeSource.default_locale) {
@@ -607,6 +694,10 @@ async function assertSourceContentFiles({ complete }) {
                 assertBootstrapUrlsLocalized(relativePath)
             }
             const { frontmatter } = parseMarkdownFrontmatter(readText(relativePath), relativePath)
+            const markdownContent = readText(relativePath)
+            assertNoPublishedContentPlaceholders(relativePath, markdownContent)
+            assertNoProtectedTermGlue(locale, relativePath, markdownContent)
+            assertNoLongEnglishRuns(locale, relativePath, markdownContent)
             const { frontmatter: englishFrontmatter } = parseMarkdownFrontmatter(readText(`src/content/blog/en/${file}`), `src/content/blog/en/${file}`)
             assertLocalizedSeoValue(locale, relativePath, "title", frontmatterValue(frontmatter, "title")?.replace(/^"|"$/g, ""), frontmatterValue(englishFrontmatter, "title")?.replace(/^"|"$/g, ""))
             assertLocalizedSeoValue(locale, relativePath, "description", frontmatterValue(frontmatter, "description")?.replace(/^"|"$/g, ""), frontmatterValue(englishFrontmatter, "description")?.replace(/^"|"$/g, ""))

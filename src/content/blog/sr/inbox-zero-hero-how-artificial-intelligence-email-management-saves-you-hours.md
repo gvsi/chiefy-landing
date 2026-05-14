@@ -16,7 +16,7 @@ Ali šta ako postoji pametniji način? Šta ako bi tehnologija mogla da deluje n
 
 Stalni ping novih e-poruka nije samo dosadan; to je značajan gubitak produktivnosti i blagostanja. Statistika daje jasnu sliku: prosečan kancelarijski radnik prima zapanjujućih [121 do 126 mejlova svakog dana](https://www.dragapp.com/blog/email-statistics/). Globalno, procenjeno je da je [347 milijardi e-poruka](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/) poslato i primljeno dnevno 2023. godine, a predviđa se da će se broj popeti još više.
 
-Upravljanje ovom poplavom zahteva težak danak. Professionals izveštavaju da troše otprilike [28% svoje radne nedelje](https://inboxdone.com/psychology-of-email-overload/) – što je ekvivalentno 11-13 sati – samo na upravljanje e-poštom. Ovo stalno prebacivanje između zadataka i prijemnog sandučeta nije bez posledica. Istraživanja sugerišu da je potrebno više od [23 minuta da se povrati fokus](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) nakon prekida kao što je provera e-pošte.
+Upravljanje ovom poplavom zahteva težak danak. Profesionalci izveštavaju da troše otprilike [28% svoje radne nedelje](https://inboxdone.com/psychology-of-email-overload/) – što je ekvivalentno 11-13 sati – samo na upravljanje e-poštom. Ovo stalno prebacivanje između zadataka i prijemnog sandučeta nije bez posledica. Istraživanja sugerišu da je potrebno više od [23 minuta da se povrati fokus](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) nakon prekida kao što je provera e-pošte.
 
 Uticaj se proteže i dalje od izgubljenog vremena. Preopterećenje e-pošte je dosledno povezano sa povećanim stresom, anksioznošću i sagorevanjem. Istraživanje koje je citirao [Frontiers in Psichologi](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) pokazalo je da [66% Amerikanaca izjavilo je da se osećaju pod stresom](https://inboxdone.com/psychology-of-email-overload/) zbog ogromnog broja e-poruka koje primaju. Ovaj stalni pritisak doprinosi umoru od odlučivanja i čak može negativno uticati na zadovoljstvo poslom, otežavajući fokusiranje na strateški posao visoke vrednosti.
 
@@ -30,7 +30,7 @@ Tradicionalno upravljanje e-poštom često se oslanja na ručno sortiranje, osno
 
 ### Kako funkcioniše AI upravljanje e-poštom?
 
-U svojoj osnovi, upravljanje e-poštom AI koristi napredne tehnologije kao što su **Mašinsko učenje (ML)**i **Prirodni jezik Processing (NLP)**da bi razumeo i komunicirao sa vašom e-poštom kao što bi to činio ljudski pomoćnik – samo mnogo brže. Umesto strogih pravila, AI uči iz obrazaca:
+U svojoj osnovi, upravljanje e-poštom AI koristi napredne tehnologije kao što su **Mašinsko učenje (ML)**i **Obrada prirodnog jezika (NLP)**da bi razumeo i komunicirao sa vašom e-poštom kao što bi to činio ljudski pomoćnik – samo mnogo brže. Umesto strogih pravila, AI uči iz obrazaca:
 
 - **Analizira sadržaj:**AI čita i razume kontekst, hitnost i raspoloženje u vašim e-porukema.
 
@@ -70,7 +70,6 @@ Najbolji alati idu dalje, učeći vaše jedinstvene komunikacijske obrasce. Na p
 
 ### Ukroćenje dugih niti sa AI rezimeom
 
-Uskakanje u lanac e-pošte od 20 poruka može se osećati kao dešifrovanje drevnih svitaka. TTK0006 TTK rezime rešava ovo direktno. Koristeći NLP, ovi alati analiziraju dugačke niti ili guste dokumente i destiliraju ih u sažete rezimee, ističući ključne odluke, stavke akcije i ključne detalje.
 
 Postoje dva glavna pristupa:
 

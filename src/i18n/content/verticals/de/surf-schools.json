@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Unterrichtsbuchungen, dann Fragen und nie Lärm sehen. Verpassen Sie nicht mehr eine Schulgruppenanfrage, die unter Yelp-Benachrichtigungen verborgen ist.",
   "draftSubtitle": "Duet lernt Ihre Unterrichtstypen, Gruppenpreise und den Ton. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Angaben zur Verfügbarkeit, den enthaltenen Leistungen und den mitzubringenden Angaben erstellt. Sie überprüfen und senden.",
-  "agentSubtitle": "„Stehen diese Woche Gruppenbuchungen an?“ „Verfassen Sie eine Antwort an die Schule mit Angabe der Verfügbarkeit.“Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "agentSubtitle": "„Stehen diese Woche Gruppenbuchungen an?“ „Verfassen Sie eine Antwort an die Schule mit Angabe der Verfügbarkeit.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -93,7 +93,7 @@
       "avatarLetter": "S",
       "avatarColor": "lavender",
       "subject": "Sommerschlussverkauf – 30 % Rabatt auf Neoprenanzüge",
-      "pill": "ProAnträge",
+      "pill": "Werbung",
       "pillColor": "lavender"
     }
   ],
@@ -133,7 +133,7 @@
     {
       "name": "Jen & Mark S.",
       "title": "Paddleboard-Kurse und -Verleih, HI",
-      "quote": "Wir führen Unterricht und Boardverleih über denselben Posteingang durch.Duet hat den Unterschied sofort erkannt – auf Fragen zur Miete erhalten Sie Antworten auf die Miete, auf Unterrichtsanfragen erhalten Sie Unterrichtsdetails. Es ist, als hätte man eine Rezeption.",
+      "quote": "Wir führen Unterricht und Boardverleih über denselben Posteingang durch. Duet hat den Unterschied sofort erkannt – auf Fragen zur Miete erhalten Sie Antworten auf die Miete, auf Unterrichtsanfragen erhalten Sie Unterrichtsdetails. Es ist, als hätte man eine Rezeption.",
       "avatarKey": "jennifer"
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "Fran C.",
       "title": "SUP-Touren und -Unterricht, OR",
-      "quote": "Die Hauptsaison hat mich umgebracht – 30 E-Mails pro Tag über Konditionen, Preise und was ich mitbringen sollte. Immer wieder die gleichen fünf Fragen.Duet beherrscht sie alle und sie klingen genau wie ich.",
+      "quote": "Die Hauptsaison hat mich umgebracht – 30 E-Mails pro Tag über Konditionen, Preise und was ich mitbringen sollte. Immer wieder die gleichen fünf Fragen. Duet beherrscht sie alle und sie klingen genau wie ich.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Leiter des Kinder-Surfcamps, SC",
-      "quote": "Eltern versenden die längsten E-Mails. Camp-Termine, Allergien, Fähigkeitsniveaus, Abholzeiten.Duet entwirft detaillierte Antworten, die alles abdecken, damit ich nach einem ganzen Tag am Strand nicht um 22 Uhr Absätze schreibe.",
+      "quote": "Eltern versenden die längsten E-Mails. Camp-Termine, Allergien, Fähigkeitsniveaus, Abholzeiten. Duet entwirft detaillierte Antworten, die alles abdecken, damit ich nach einem ganzen Tag am Strand nicht um 22 Uhr Absätze schreibe.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Duet erfährt, wie Sie normalerweise mit Bedingungs-E-Mails umgehen – Ihre Richtlinien zu Stornierungen, Verschiebungen und unter welchen Bedingungen Sie unterrichten. Wenn jemand per E-Mail fragt, ob seine Lektion stattfinden kann, verfasst Duet eine Antwort, die Ihrem üblichen Ton und Ihren Richtlinien entspricht. Sie überprüfen und senden in Sekundenschnelle."
     }
   ],
-  "pricingNote": "Bei 90 $/Lektion zahlen zwei gespeicherte Buchungen mehr als ein Jahr langPro."
+  "pricingNote": "Bei 90 $/Lektion zahlen zwei gespeicherte Buchungen mehr als ein Jahr lang Pro."
 }

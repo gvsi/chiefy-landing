@@ -59,7 +59,6 @@ Održavanje autentičnog glasa je ključno. Ovdje blistaju alati posebno dizajni
 
 **Rješenje s umjetnom inteligencijom:** AI pomoćnici za e-poštu djeluju poput osobnog alata za brifing. Oni mogu automatski analizirati i sažimati dugačke razgovore putem e-pošte, priložene dokumente (kao što su PDF ili Word datoteke) ili čak transkripte sastanaka u kratke, probavljive sažetke. Ono što je najvažnije, izvrsni su u izdvajanju signala iz buke – identificiranju ključnih donesenih odluka, izvanrednih radnji, postavljenih važnih pitanja i spomenutih rokova.
 
-**Image Placeholder Google Images Query:** AI infografika sažimanja niti e-pošte**Alt Text:** Infografika koja prikazuje dugu, složenu nit e-pošte koju umjetna inteligencija sažima u 3 ključne točke: Donesena odluka, Stavka radnje, Ključno pitanje.**Natpis:** Alati za sažimanje AI-ja prolaze kroz šum, izvlačeći bitne informacije iz dugih niti e-pošte.
 
 **Slučajevi upotrebe:** Ova je mogućnost neprocjenjiva za brzo ulaženje u posao nakon odsutnosti, razumijevanje konteksta složenog problema bez ponovnog čitanja cijele povijesti ili učinkovito dijeljenje suštine razgovora s članovima tima koji trebaju biti uključeni.
 
@@ -81,7 +80,6 @@ Bitno je brzo shvatiti bit. AI alati mogu djelovati kao pomoćnik za brifing. Ne
 
 Zamislite pristiglu poštu koja prikazuje ono što treba obratiti pozornost _sada_. Ovo je moć AI trijaže. Umjesto pretrpanog kronološkog feeda, alati poput [**Duet Mail**](https://duetmail.com/hr) nude **AI Triage & Focused Dashboard**. Ovaj sustav inteligentno analizira e-poštu radi hitnosti, potrebnih radnji ili odluka, predstavljajući ih jasno tako da korisnici mogu odmah prekinuti buku i učinkovito usmjeriti svoju energiju. To predstavlja promjenu paradigme s reaktivne provjere e-pošte na proaktivan, prioritetni angažman, značajno smanjujući kognitivno opterećenje i jačajući značajnu produktivnost.
 
-**Image Placeholder Google Images Query:** Duet Mail AI Triage Focused Dashboard snimka zaslona**Alt Text:** Screenshot Duet Mail-ove fokusirane nadzorne ploče koja prikazuje prioritetne e-poruke kategorizirane prema hitnosti i potrebnim radnjama.**Natpis:** AI-pokretane nadzorne ploče kao što su površinski kritične e-poruke Duet Mail-a, probijaju se kroz nered pristigle pošte.
 
 ## Odabir vašeg AI kopilota putem e-pošte: Alati i razmatranja
 
@@ -136,7 +134,6 @@ Kako bi ublažili te rizike, korisnici bi trebali usvojiti najbolje prakse:
 
 - **Budite oprezni:** Budite pažljivi kada unosite vrlo osjetljive informacije izravno u upite umjetne inteligencije, posebno ako sigurnosne prakse alata nisu jasne.
 
-**Image Placeholder Google Images Query:** infografika najboljih praksi za sigurnost e-pošte**Alt Text:** Infografika koja prikazuje najbolje prakse za sigurnost e-pošte kao što su jake lozinke, MFA i provjera dopuštenja.**Natpis:** Slijeđenje najboljih praksi za sigurnost e-pošte ključno je pri korištenju AI alata.
 
 Kada procjenjujete alate, obratite pažnju na njihov sigurnosni položaj. Rješenja poput [**Duet Mail**](https://duetmail.com/hr), na primjer, ističu svoju predanost privatnosti i sigurnosti na svojoj platformi, što je ključni čimbenik za izgradnju povjerenja. Kako se integracija umjetne inteligencije produbljuje, dobavljači koji naglašavaju snažnu sigurnost i jasno rukovanje podacima vjerojatno će steći veće povjerenje korisnika.
 

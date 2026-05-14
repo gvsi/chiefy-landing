@@ -37,7 +37,7 @@ I když můžete přidávat různé prvky v závislosti na svých cílech, někt
 | **Odkaz k odhlášení**        | Zákonně vyžadováno CAN-SPAM, GDPR, CASL pro marketingové e-maily. Buduje důvěru a respektuje volbu uživatele. | Musí být jasné, nápadné a snadno použitelné (ideálně jedním kliknutím). Honor žádá okamžitě (obvykle do 10 pracovních dnů). |
 | **Fyzická poštovní adresa** | Zákonně vyžadováno CAN-SPAM a CASL. Dodává legitimitu.                                               | Může to být adresa ulice, registrované P.O. Schránka nebo registrovaná soukromá schránka.                                                   |
 | **Identifikace odesílatele**   | Vyžaduje to zákon. Buduje důvěru.                                                                        | Jasně uveďte název vaší společnosti. Ujistěte se, že adresy „Od“ a „Odpovědět“ jsou přesné.                                              |
-| **Kontaktní údaje**     | ProUmožňuje příjemcům kontakt. Buduje důvěru.                                          | Uveďte odkaz na webovou stránku, e-mailovou adresu podpory nebo telefonní číslo.                                                                    |
+| **Kontaktní údaje**     | Umožňuje příjemcům kontakt. Buduje důvěru.                                          | Uveďte odkaz na webovou stránku, e-mailovou adresu podpory nebo telefonní číslo.                                                                    |
 | **Odkaz na zásady ochrany osobních údajů**     | Nezbytné pro shodu se GDPR a osvědčené postupy všude. Transparentnost ohledně využití dat.            | Odkaz na jasné a srozumitelné zásady na vašem webu.                                                                            |
 
 Považujte je za základ vašeho zápatí, o kterém nelze vyjednávat. Jejich nedodržení může ovlivnit doručitelnost a vést k právním problémům.
@@ -72,7 +72,7 @@ Používejte logo, barevnou paletu a písma své značky (pro lepší kompatibil
 
 ### Zajistěte čitelnost a dostupnost
 
-Používejte vysoce kontrastní barvy mezi textem a pozadím, zejména u malého právního textu. Použijte sémantické HTML (jako **\<p>** pro odstavce), abyste pomohli čtečkám obrazovky. ProUveďte popisný alternativní text pro všechny použité obrázky (jako jsou loga nebo sociální ikony).
+Používejte vysoce kontrastní barvy mezi textem a pozadím, zejména u malého právního textu. Použijte sémantické HTML (jako **\<p>** pro odstavce), abyste pomohli čtečkám obrazovky. Uveďte popisný alternativní text pro všechny použité obrázky (jako jsou loga nebo sociální ikony).
 
 ## Navigace v právu: CAN-SPAM, GDPR a CASL
 

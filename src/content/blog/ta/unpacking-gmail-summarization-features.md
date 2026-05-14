@@ -37,7 +37,7 @@ Gmail இன் குறிப்பிட்ட கருவிகளைப்
 
 AI சுருக்கக் கருவிகள், தகவல்தொடர்புகளின் சாராம்சத்தை விரைவாகப் பிரித்தெடுப்பதன் மூலம் இந்தச் சிக்கல்களை நேரடியாகச் சமாளிப்பதை நோக்கமாகக் கொண்டுள்ளன, மேலும் களைகளில் தொலைந்து போகாமல் திறம்பட முன்னுரிமை அளிக்கவும், தகவலறிந்திருக்கவும் உங்களை அனுமதிக்கிறது. பணியிடத்தில் AI பற்றிய ஆய்வுகள், [சென்டர் ஃபார் டேட்டா இன்னோவேஷன்](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/) மூலம் உயர்த்தப்பட்டதைப் போல, AI சுருக்கம் மற்றும் தகவல் மீட்டெடுப்பு போன்ற பணிகளுக்கு உதவும்போது உறுதியான உற்பத்தித்திறனை அதிகரிக்கும்.
 
-![Infographic illustrating the problem of email overload with key statistics](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+![முக்கிய புள்ளிவிவரங்களுடன் email overload பிரச்சினையை விளக்கும் infographic](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 தினசரி மின்னஞ்சல்களின் சுத்த அளவு திறமையான மேலாண்மை கருவிகளின் அவசியத்தை எடுத்துக்காட்டுகிறது.
 
@@ -59,7 +59,7 @@ Google இன் Gemini பெரிய மொழி மாதிரிகள்
 
 - **மொபைல் ஆப் (Android/iOS):** இணையத்தைப் போலவே, தலைப்பின் கீழ் "இந்த மின்னஞ்சலைச் சுருக்கவும்" பொத்தான் தோன்றக்கூடும். அதைத் தட்டுவது பொதுவாக ஒரு பிரத்யேக Gemini தாள் அல்லது பேனலில் சுருக்கத்தைக் கொண்டு வரும். பயன்பாட்டின் மேல் பட்டியில் உள்ள Gemini ஐகான் வழியாக சுருக்கம் மற்றும் பிற AI அம்சங்களையும் நீங்கள் அடிக்கடி அணுகலாம்.
 
-![Gmail email view highlighting the 'Summarize this email' button below the subject line](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+![Subject line-க்கு கீழே உள்ள 'Summarize this email' button-ஐ highlight செய்யும் Gmail email view](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 Gmail இன் நேட்டிவ் சுருக்கமாக்கல் அம்சத்தை மின்னஞ்சல் த்ரெட்களில் நேரடியாக ஒரு பொத்தான் மூலம் அணுக முடியும்.
 

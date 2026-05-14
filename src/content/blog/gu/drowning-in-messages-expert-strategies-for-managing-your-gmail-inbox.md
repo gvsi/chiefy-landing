@@ -117,7 +117,6 @@ Gmail પોતે ગડબડને ગોઠવવામાં મદદ ક�
 
 ### AI Email Assistantનો ઉદય: તમારા ઇનબોક્સનો બુદ્ધિશાળી Co-Pilot
 
-**Image PlaceholderQuery:** futuristic graphic AI assistant helping with email**Alt Text:** કોઈ વ્યક્તિને પોતાનું email inbox કાર્યક્ષમ રીતે સંચાલિત કરવામાં AI મદદ કરી રહ્યું છે તે દર્શાવતું abstract graphic.**Caption:** AI email assistants ઇનબોક્સ મેનેજમેન્ટ automate અને enhance કરવા માટે ટેક્નોલોજીનો ઉપયોગ કરે છે.
 
 AI email assistantનો પ્રવેશ થાય છે. આ tools email managementનો આગળનો તબક્કો રજૂ કરે છે, જે artificial intelligence—ખાસ કરીને Natural Language Processing (NLP) અને Machine Learning (ML)—નો ઉપયોગ કરીને એવા tasks automate અને enhance કરે છે, જેને પરંપરાગત રીતે નોંધપાત્ર manual effort જોઈએ.
 
@@ -151,7 +150,6 @@ AI email assistants સરળ automationથી આગળ વધે છે; ત�
 
 ### AI Triage અને Prioritization: ગડબડ કાપીને તાત્કાલિક શું છે તે શોધવું
 
-**Image PlaceholderQuery:** diagram AI email triage sorting important emails**Alt Text:** AI triage આવનારા emailsને priority મુજબ આપોઆપ કેવી રીતે sort કરે છે તે બતાવતું diagram.**Caption:** AI Triage શોરમાંથી બહાર કાઢીને urgent emailsને બુદ્ધિશાળી રીતે આગળ લાવે છે.
 
 **સમस्या:** તમારો standard Gmail inbox chronological feed છે, જ્યાં newsletters અને CC થયેલા memos urgent client requests અને critical deadlines સાથે attention માટે સ્પર્ધા કરે છે. ખરેખર _હમણાં_ શું ધ્યાન માંગે છે તે શોધવા આ પ્રવાહને manual રીતે sort કરવો કિંમતી સમય અને mental energy ખાય છે.
 

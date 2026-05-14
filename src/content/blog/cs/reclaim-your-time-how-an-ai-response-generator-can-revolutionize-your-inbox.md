@@ -181,7 +181,7 @@ Jakmile si vyberete nástroj, maximalizujte jeho účinnost pomocí těchto tip�
 
 2. **Investujte čas do tréninku:** Pokud nástroj nabízí učicí funkce, použijte je. Poskytněte ukázky psaní, dejte zpětnou vazbu k návrhům a upravte nastavení tak, aby odpovídala vašim preferencím.
 
-3. **Vždy zkontrolujte a zpřesněte:** S obsahem generovaným umělou inteligencí zacházejte jako s prvním návrhem. ProOpatrně čtěte, zkontrolujte správnost, a co je nejdůležitější, přidejte svůj osobní kontakt a ujistěte se, že tón je vhodný.
+3. **Vždy zkontrolujte a zpřesněte:** S obsahem generovaným umělou inteligencí zacházejte jako s prvním návrhem. Pečlivě čtěte, zkontrolujte správnost, a co je nejdůležitější, přidejte svůj osobní kontakt a ujistěte se, že tón je vhodný.
 
 4. **Začněte v malém:** Začněte používat AI pro nenáročné, jednoduché úkoly, jako je navrhování odpovědí na rutinní dotazy nebo shrnutí interních aktualizací, než se na ni spolehnete při kritické externí komunikaci.
 

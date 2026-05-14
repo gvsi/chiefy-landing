@@ -31,7 +31,7 @@ Need tegurid koos – kulu, platvormi piirangud, kasutajakogemuse hõõrdumine j
 
 ## AI tõus postkasti taltsutamises
 
-Meilisuhtluse tohutu ulatus on hämmastav. Proväljaütlemiste hinnangul saadetakse **375 miljardit meili **_**igapäevaselt* i**_**2025. aastal**. Selle üleujutuse käsitsi sortimine, tähtsuse järjekorda seadmine ja sellele reageerimine on lihtsalt jätkusuutmatu kõigile, kes üritavad teha keskendunud ja suure mõjuga tööd.
+Meilisuhtluse tohutu ulatus on hämmastav. Prognooside hinnangul saadetakse **375 miljardit meili **_**igapäevaselt* i**_**2025. aastal**. Selle üleujutuse käsitsi sortimine, tähtsuse järjekorda seadmine ja sellele reageerimine on lihtsalt jätkusuutmatu kõigile, kes üritavad teha keskendunud ja suure mõjuga tööd.
 
 Siin astub sisse tehisintellekt. Kaasaegsed e-posti tootlikkuse tööriistad integreerivad tehisintellekti üha enam mitte toretse lisandmoodulina, vaid e-posti ülekoormuse haldamise põhikomponendina. [AI e-posti assistent](https://www.microsoft.com/en-us/microsoft-365/outlook/ai-email-assistant) on sisuliselt tarkvara, mis on loodud aitama teil kontrolli taastada, korraldades arukalt sõnumeid, soovitades vastuseid, tõstes esile prioriteete, koostades e-kirju ja automatiseerides korduvaid ülesandeid.
 
@@ -119,7 +119,7 @@ Turg on täis võimsaid konkurente. Siin on ülevaade mõnest juhtivast Polymail
 
 - **Tuumfookus:** toimib intelligentse tehisintellekti assistendina, mis on spetsiaalselt loodud Gmail jaoks, eelistades kasutaja ainulaadse suhtlusstiili õppimist, et säästa tunde, säilitades samas autentsuse. See keskendub postkasti stressi vähendamisele nutika prioriseerimise ja kontekstiteadliku abi abil.
 
-- **Põhifunktsioonid (Prokanali kirjelduse võimendamine):**
+- **Põhifunktsioonid (tootekirjelduse võimendamine):**
 
 - **AI Triage & Focused Dashboard:** ületab lihtsa kronoloogilise loendi. AI analüüsib arukalt e-kirju kiireloomulisuse, vajalike toimingute ja vajalike otsuste osas, tuues need kriitilised üksused spetsiaalsele armatuurlauale. See võitleb otseselt igapäevase 121 meili sorteerimisega.
 
@@ -135,7 +135,7 @@ Turg on täis võimsaid konkurente. Siin on ülevaade mõnest juhtivast Polymail
 
 - **Hinnakujundus:** on esmaklassiline tööriist, mis keskendub olulise aja kokkuhoiu ja stressi vähendamisele. (Konkreetsed hinnakujunduse üksikasjad on välja jäetud, kuna lähtematerjalis ei ole esitatud).
 
-- ** Peen Proliikumine:** Gmail kasutajatele, kes on ülekoormatud helitugevusest ja otsivad tehisintellekti abilist, kes neist tõeliselt aru saaks, pakuvad sellised tööriistad nagu [Duet Mail](https://duetmail.com/et) mõjuvat lahendust. Selle keskendumine teie hääle õppimisele ja olulise tähtsuse järjekorda seadmisele võib märkimisväärselt vähendada e-posti hõõrdumist.
+- ** Peen Pakkumised:** Gmail kasutajatele, kes on ülekoormatud helitugevusest ja otsivad tehisintellekti abilist, kes neist tõeliselt aru saaks, pakuvad sellised tööriistad nagu [Duet Mail](https://duetmail.com/et) mõjuvat lahendust. Selle keskendumine teie hääle õppimisele ja olulise tähtsuse järjekorda seadmisele võib märkimisväärselt vähendada e-posti hõõrdumist.
 
 - **Kaalutlused:** keskendub praegu Gmail ökosüsteemile. Selle tugevad küljed seisnevad individuaalse ja väikese meeskonna tootlikkuse suurendamises isikupärastatud AI abil, mitte laiaulatuslikes, kanaliteüleses meeskonnahaldusfunktsioonides, mida on näha sellistes tööriistades nagu Missive.
 
@@ -147,7 +147,7 @@ See valik rõhutab, et "parim" Polymaili alternatiiv ei ole kõigile üks. See s
 
 | Funktsioon/aspekt      | Polümail                             | Üleinimlik                                | Missis                                | Spark Mail                                | Lühilaine                            | Duet Mail (Gmail)                                     |
 | ------------------- | ------------------------------------ | ----------------------------------------- | -------------------------------------- | ----------------------------------------- | ------------------------------------ | ----------------------------------------------------- |
-| **Esmane fookus**   | Müük/Prof. Tootlikkus             | Kiirus ja tõhusus                        | Meeskonna koostöökeskus                 | Universaalne, juurdepääsetavus                | AI Org. (Gmail)                      | Isikupärastatud AI-assistent                             |
+| **Esmane fookus**   | Müük/tootlikkus             | Kiirus ja tõhusus                        | Meeskonna koostöökeskus                 | Universaalne, juurdepääsetavus                | AI Org. (Gmail)                      | Isikupärastatud AI-assistent                             |
 | **Alghind**  | \~$13/user/kuu (ainult tasuline)            | $30/user/kuu (ainult tasuline)                   | Tasuta tase / $14/user/kuu                | Tasuta tase / \~$5/user/kuu                  | Tasuta tase / $7/user/kuu               | (Positsioon Premium)                                 |
 | **Platvormid**       | Veeb, macOS, Win, iOS (Android puudub)    | Ainult Gmail/Outlook; Mitmeplatvormilised rakendused   | Mitmeplatvormilised rakendused; IMAP tugi      | Mitmeplatvormilised rakendused; IMAP tugi         | Gmail Ainult; Mitmeplatvormilised rakendused      | Veeb, Chrome Ext (Gmail)                               |
 | ** Peamised AI funktsioonid** | Põhiline jälgimine/ülevaade              | Adv. Joonistamine, kokkuvõte, otsing, töövood | Eelnõu koostamine, kokkuvõte, reeglid               | Mustandi koostamine, kokkuvõte (tasuline)                  | Deep Org., koostamine, kokkuvõte, otsing | AI triaaž, autentne koostamine, kokkuvõte, kontekstitundlik |

@@ -75,9 +75,9 @@ Gmail piedāvā vairākus veidus, kā automātiski izcelt to, ko _tā uzskata_ p
 
 **Tabula: Gmail Iesūtnes izkārtojumu salīdzinājums**
 
-| Funkcija | Kā tas darbojas | Vislabāk piemērots | Pros | Mīnusi |
+| Funkcija | Kā tas darbojas | Vislabāk piemērots | Priekšrocības | Mīnusi |
 | ---------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------- |
-| **Noklusējuma cilnes** | Automātiska kārtošana iepriekš definētās kategorijās (Galvenā, Sociālie tīkli, Prokustības utt.) | Lietotāji vēlas vienkāršu, automātisku atdalīšanu | Nav nepieciešama iestatīšana; samazina nekārtību cilnē “Galvenā” | Mazāka kontrole; svarīgi e-pasti var tikt nepareizi glabāti; izlabotas kategorijas |
+| **Noklusējuma cilnes** | Automātiska kārtošana iepriekš definētās kategorijās (Galvenā, Sociālie tīkli, Reklāmas utt.) | Lietotāji vēlas vienkāršu, automātisku atdalīšanu | Nav nepieciešama iestatīšana; samazina nekārtību cilnē “Galvenā” | Mazāka kontrole; svarīgi e-pasti var tikt nepareizi glabāti; izlabotas kategorijas |
 | **Svarīguma marķieri** | Mākslīgā intelekta vadīti dzelteni marķieri, kuru pamatā ir lietotāja uzvedība (atvēršana, atbildēšana, atzīmēšana ar zvaigznītēm utt.) | Nodrošina prioritārās iesūtnes pamatu; sniedz vizuālas norādes | Apgūst lietotāju prioritātes; manuāla labošana apmāca mākslīgo intelektu | Efektivitāte ir atkarīga no konsekventas lietotāja uzvedības; tikai marķieris |
 | **Prioritārā iesūtne** | Pielāgojamas sadaļas, bieži izmantojot svarīguma marķierus (piemēram, Svarīgi/Nelasīti, Atzīmēti ar zvaigznīti) | Lietotāji, kas vēlas fokusētu skatījumu uz galvenajiem e-pastiem | Pielāgojamas sadaļas; parāda svarīgu pastu; izmanto mākslīgo intelektu | Nepieciešama zināma iestatīšana/pielāgošana; paļaujas uz precīziem marķieriem |
 
@@ -105,7 +105,7 @@ Produktivitātes eksperta Merlina Manna popularizētā Inbox Zero stratēģija n
 
 **Iesūtnes nulles lietošana Gmail:**
 
-- **ProRegulāri apstrādājiet:** Katru dienu atvēliet noteiktu laiku iesūtnes apstrādei (Manns iesaka 3 reizes dienā). Izslēdziet paziņojumus, lai izvairītos no pastāvīgiem pārtraukumiem.
+- **Regulāri apstrādājiet:** Katru dienu atvēliet noteiktu laiku iesūtnes apstrādei (Manns iesaka 3 reizes dienā). Izslēdziet paziņojumus, lai izvairītos no pastāvīgiem pārtraukumiem.
 
 - **Izmantojiet darbības:**
 
@@ -143,7 +143,7 @@ Deivida Allena GTD metodoloģija ir visaptveroša sistēma uzdevumu un saistību
 
 GTD nodrošina stabilu sistēmu, lai nodrošinātu, ka nekas nepaliek nepamanīts, pārvēršot e-pastus par praktiski īstenojamiem uzdevumiem plašākā produktivitātes sistēmā.
 
-### Partijas Processing spēks
+### Pakešapstrādes spēks
 
 Tā vietā, lai reaģētu uz katru ienākošo e-pasta paziņojumu, partijveida apstrāde ietver e-pasta pārbaudi un apstrādi noteiktos, ieplānotos laika blokos. Piemēram, jūs varētu pārbaudīt e-pastu 30–60 minūtes plkst. 10:00, 14:00 un 16:00, bet pārējā laikā to turēt aizvērtu.
 
@@ -153,11 +153,11 @@ Tā vietā, lai reaģētu uz katru ienākošo e-pasta paziņojumu, partijveida a
 
 - **Uzlabota koncentrēšanās spēja:** Ļauj padziļināti strādāt pie citiem uzdevumiem, neapgrūtinot sevi ar iesūtnes nepārtrauktu skatīšanos.
 
-- **Paaugstināta efektivitāte:** Proe-pastu apstrāde koncentrētās grupās bieži vien ir ātrāka nekā to apstrāde neregulāri.
+- **Paaugstināta efektivitāte:** E-pastu apstrāde koncentrētās grupās bieži vien ir ātrāka nekā to apstrāde neregulāri.
 
 - **Samazināts stress:** Rada kontroles un progresa sajūtu, nevis pastāvīgu reaģētspēju.
 
-**Partijas Propieteikšanās Gmail:** Izslēdziet e-pasta paziņojumus no datora un mobilajām ierīcēm. Ieplānojiet konkrētus e-pasta bloķējumus savā kalendārā un pieturieties pie tiem. Šo bloķējumu laikā sistemātiski apstrādājiet savu iesūtni, izmantojot Inbox Zero vai GTD principus.
+**Partijas batch apstrādes izmantošana Gmail:** Izslēdziet e-pasta paziņojumus no datora un mobilajām ierīcēm. Ieplānojiet konkrētus e-pasta bloķējumus savā kalendārā un pieturieties pie tiem. Šo bloķējumu laikā sistemātiski apstrādājiet savu iesūtni, izmantojot Inbox Zero vai GTD principus.
 
 ### Ohaio princips (apstrādājiet to tikai vienu reizi)
 
@@ -188,7 +188,7 @@ Gmail nebija paredzēts sarežģītai komandas sadarbībai vai vizuālai projekt
 | Kategorija | Pamatfunkcija | Kam tas paredzēts | Rīku piemēri | Galvenā priekšrocība |
 | ------------------------ | -------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------- |
 | **Uzdevumu pārvaldība** | Pārveidojiet e-pastus par uzdevumiem, saistiet e-pastus ar uzdevumiem, pārvaldiet termiņus no Gmail. | Indivīdi/komandas, kurām nepieciešama uzdevumu koncentrēšanās, GTD lietotāji | Todoist pakalpojumam Gmail, Asana pakalpojumam Gmail | Nemanāmi integrē saziņu ar rīcības plāniem paredzētiem uzdevumu sarakstiem. |
-| **CRM** | Skatiet/pārvaldiet kontaktpersonas, darījumus, pārdošanas plūsmas; reģistrējiet e-pastus tieši Gmail. | Pārdošanas komandas, ārštata darbinieki, klientu pārvaldnieki | Streak, Copper, HubSpot Sales | Pro apvieno svarīgu klientu kontekstu ar e-pastiem, ietaupot laiku. |
+| **CRM** | Skatiet/pārvaldiet kontaktpersonas, darījumus, pārdošanas plūsmas; reģistrējiet e-pastus tieši Gmail. | Pārdošanas komandas, ārštata darbinieki, klientu pārvaldnieki | Streak, Copper, HubSpot Sales | Apvieno svarīgu klientu kontekstu ar e-pastiem, ietaupot laiku. |
 | **Vizuāli/Sadarbība** | Pievienot Kanban tāfeles, koplietotas iesūtnes/etiķetes, iekšējās piezīmes, komandas funkcijas. | Komandas, kurām nepieciešama koplietota piekļuve, vizuāli domātāji | Gmelius, Sortd, ActiveInbox | Uzlabo komandas darbplūsmu un vizuālo organizāciju Gmail iespēju robežās. |
 
 Šo populāro rīku esamība izceļ, kur vietējās Gmail versijas bieži vien nav piemērotas profesionālai lietošanai, jo īpaši koplietojamās darbplūsmās un ārēja konteksta, piemēram, uzdevumu vai klientu datu, integrēšanā. To mērķis ir izveidot vienotāku darba vidi, samazinot produktivitātes zudumus, ko rada pastāvīga lietojumprogrammu maiņa.
@@ -243,7 +243,7 @@ Patiesība ir tāda, ka **nav vienas pareizās atbildes**. Vislabākā Gmail org
 
 1. **Izveidojiet pamatus:** Apgūstiet Gmail iebūvētās etiķetes, filtrus un meklēšanu. Tas nav apspriežams.
 
-2. **Izvēlieties metodi:** Eksperimentējiet ar tādu metodi kā Batch Processing vai Inbox Zero nedēļu. Paskatieties, kā tā šķiet.
+2. **Izvēlieties metodi:** Eksperimentējiet ar tādu metodi kā batchbehandling vai Inbox Zero nedēļu. Paskatieties, kā tā šķiet.
 
 3. **Nosakiet vājās vietas:** Kur jūs zaudējat visvairāk laika? Vai tā ir šķirošana? Atbildēšana? Informācijas atrašana? Uzdevumu izsekošana?
 

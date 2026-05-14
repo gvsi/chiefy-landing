@@ -33,7 +33,7 @@ Vienkārši sakot, pamata automātiskās atbildes ir kā plākstera uzlikšana u
 
 ## **Iepazīstieties ar mākslīgā intelekta e-pasta atbildētāju: jūsu viedā iesūtnes sabiedrotā**
 
-Mākslīgā intelekta e-pasta asistenti ir kvantu lēciens uz priekšu. Tie izmanto tādas tehnoloģijas kā [ **Dabiskās valodas Proapguve (NLP)**](https://www.ibm.com/think/topics/natural-language-processing) un [ **Mašīnmācīšanās (ML)**](https://aws.amazon.com/what-is/nlp/), lai izprastu, pārvaldītu un mijiedarbotos ar e-pastu veidos, kas iepriekš bija neiespējami.
+Mākslīgā intelekta e-pasta asistenti ir kvantu lēciens uz priekšu. Tie izmanto tādas tehnoloģijas kā [ **Dabiskās valodas apstrāde (NLP)**](https://www.ibm.com/think/topics/natural-language-processing) un [ **Mašīnmācīšanās (ML)**](https://aws.amazon.com/what-is/nlp/), lai izprastu, pārvaldītu un mijiedarbotos ar e-pastu veidos, kas iepriekš bija neiespējami.
 
 Iedomājieties NLP kā dzinēju, kas ļauj mākslīgajam intelektam (AI) "lasīt" un saprast jūsu e-pasta vēstuļu vārdu nozīmi, kontekstu, noskaņojumu un nolūku — līdzīgi kā to dara cilvēks. Mašīnmācīšanās ļauj asistentam mācīties no jūsu darbībām, vēlmēm un iepriekšējās saziņas, laika gaitā kļūstot gudrākam un personalizētākam.
 
@@ -45,7 +45,7 @@ Lūk, kā šīs tehnoloģijas nodrošina galvenās funkcijas, kas padara māksl�
 
 **Kā tas darbojas:**
 
-- **Satura analīze (NLP):** Mākslīgais intelekts (MI) nolasa e-pasta saturu, identificē atslēgvārdus ("steidzams", "termiņš"), analizējot noskaņojumu (vai sūtītājs ir neapmierināts?) un izprotot galveno pieprasījumu. Hivers skaidro, ka NLP palīdz MI atpazīt e-pastu ar tādu tēmu kā "[**Nepieciešama darbība: ProEkstrakta iesniegšanas termiņš rīt**](https://hiverhq.com/blog/ai-email-triage)" kā augstas prioritātes e-pastu.
+- **Satura analīze (NLP):** Mākslīgais intelekts (MI) nolasa e-pasta saturu, identificē atslēgvārdus ("steidzams", "termiņš"), analizējot noskaņojumu (vai sūtītājs ir neapmierināts?) un izprotot galveno pieprasījumu. Hivers skaidro, ka NLP palīdz MI atpazīt e-pastu ar tādu tēmu kā "[**Nepieciešama darbība: Ekstrakta iesniegšanas termiņš rīt**](https://hiverhq.com/blog/ai-email-triage)" kā augstas prioritātes e-pastu.
 
 - **Sūtītāja svarīgums (ML):** Mākslīgais intelekts apgūst jūsu galvenās kontaktpersonas (priekšnieks, galvenie klienti, komandas locekļi), pamatojoties uz jūsu mijiedarbības modeļiem (cik ātri jūs atbildat, cik bieži jūs viņiem sūtāt e-pastus).
 
@@ -89,11 +89,11 @@ Mākslīgā intelekta e-pasta asistentu tirgus strauji aug. Lai gan daudzi rīki
 
 | **Funkciju fokuss** | **Pārskatos minēto rīku piemēri** | **Galvenās iespējas** | **Ideāls lietotājs Profile** |
 | ---------------------------- | -------------------------------------- | ----------------------------------------------------- | -------------------------------------------- |
-| **Ienākošo ziņojumu pārvaldība/triāža** | SaneBox, Shortwave, Lindy, Duet Mail | Vieda šķirošana, prioritāšu noteikšana, surogātpasta/nekārtības filtrēšana | Liela apjoma lietotāji, aizņemti Proprofesionāļi |
+| **Ienākošo ziņojumu pārvaldība/triāža** | SaneBox, Shortwave, Lindy, Duet Mail | Vieda šķirošana, prioritāšu noteikšana, surogātpasta/nekārtības filtrēšana | Liela apjoma lietotāji, aizņemti Profesionāļi |
 | **Rakstīšana un rasēšana** | Džaspers, Copy.ai, Flowrite, Duet Mail | Veidņu ģenerēšana, satura veidošana, balss apguve | Mārketinga speciālisti, pārdošanas komandas, bieži rakstnieki |
 | **Gramatika un poļu valoda** | Grammarly | Kļūdu labošana, toņa pielāgošana, skaidrība | Ikvienam, kam nepieciešama izsmalcināta komunikācija |
 | **Platformas integrācija** | Copilot (Microsoft), Gemini (Google) | Dziļa integrācija noteiktās ekosistēmās | Lietotāji, kas ir ievērojami ieguldījuši līdzekļus MS vai Google komplektā |
-| **Kopsavilkums** | Otrais pilots, īsviļņu projekts, Duet Mail | Garu pavedienu saīsināšana | Pro sarežģītu projektu vadības speciālisti |
+| **Kopsavilkums** | Otrais pilots, īsviļņu projekts, Duet Mail | Garu pavedienu saīsināšana | Priekšrocībasarežģītu projektu vadības speciālisti |
 | **Personalizācija** | SmartWriter.ai | Pielāgoti informatīvie e-pasti plašā mērogā | Pārdošanas un biznesa attīstības komandas |
 
 (Piezīme. Šī tabula ir ilustratīva; daudzi rīki piedāvā vairākas funkcijas. Funkciju kopas un cenas var mainīties.)
@@ -118,13 +118,13 @@ Ar mākslīgo intelektu darbināmi informācijas paneļi, piemēram, šis piemē
 
 Vienkārši instalēt mākslīgā intelekta rīku nav pietiekami. Lai maksimāli palielinātu ieguvumus:
 
-1. **Apmāciet savu mākslīgo intelektu:** Pro Regulāri sniedziet atsauksmes. Labojiet neveiklas frāzes, pieņemiet labus ieteikumus un izmantojiet visus stila preferenču iestatījumus. Ja rīks to atļauj, sniedziet tam savu labāko rakstīšanas piemērus.
+1. **Apmāciet savu mākslīgo intelektu:** Regulāri sniedziet atsauksmes. Labojiet neveiklas frāzes, pieņemiet labus ieteikumus un izmantojiet visus stila preferenču iestatījumus. Ja rīks to atļauj, sniedziet tam savu labāko rakstīšanas piemērus.
 
 2. **Uzticieties, bet pārbaudiet:** Īpaši sākotnēji pārskatiet mākslīgā intelekta ģenerētos melnrakstus pirms nosūtīšanas. Pārbaudiet toni, precizitāti un kontekstu. Mākslīgais intelekts ir spēcīgs, bet ne nekļūdīgs.
 
 3. **Apvienojiet ar labiem ieradumiem:** Mākslīgā intelekta triāža vislabāk darbojas kopā ar tādām praksēm kā konkrēta laika plānošana e-pasta pārbaudei (grupēšana), nevis reaģēšana uz katru paziņojumu. Ja iespējams, izslēdziet uzmanību novērsošos paziņojumus.
 
-4. **Iestatīt dzēšanas iestatījumus Prompts:** Lūdzot mākslīgajam intelektam uzrakstīt e-pasta melnrakstu, sniedziet skaidru kontekstu un norādījumus par mērķi, saņēmēju un vēlamo toni.
+4. **Iestatīt dzēšanas iestatījumus prompts:** Lūdzot mākslīgajam intelektam uzrakstīt e-pasta melnrakstu, sniedziet skaidru kontekstu un norādījumus par mērķi, saņēmēju un vēlamo toni.
 
 5. **Neatsakieties no atbildības:** Mākslīgais intelekts palīdz, tas neaizstāj kritisko domāšanu vai attiecību veidošanu. Izmantojiet ietaupīto laiku, lai koncentrētos uz augstvērtīgāku darbu, stratēģisko domāšanu un jēgpilnu mijiedarbību.
 

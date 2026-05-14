@@ -93,7 +93,7 @@
       "avatarLetter": "M",
       "avatarColor": "lavender",
       "subject": "Sommarfrigång — 15 % rabatt på säkerhetsutrustning",
-      "pill": "Prorörelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -139,19 +139,19 @@
     {
       "name": "Kapten Ben T.",
       "title": "Havsutflykter, HI",
-      "quote": "Jag svarade på samma 10 frågor varje kväll - prissättning, vad som ingår, sjösjuketips, åldersgränser för barn.Duet lärde sig allt under den första veckan. Min svarstid gick från 8 timmar till 8 minuter.",
+      "quote": "Jag svarade på samma 10 frågor varje kväll - prissättning, vad som ingår, sjösjuketips, åldersgränser för barn. Duet lärde sig allt under den första veckan. Min svarstid gick från 8 timmar till 8 minuter.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Bokningschef, Pacific NW",
-      "quote": "Väderavbokningar är värst — 30 personer behöver bokas om samtidigt och jag jonglerar med telefonsamtal.Duet gör utkast till personliga e-postmeddelanden om schemaläggning för varje gäst. Det som brukade ta mig 2 timmar tar 15 minuter nu.",
+      "quote": "Väderavbokningar är värst — 30 personer behöver bokas om samtidigt och jag jonglerar med telefonsamtal. Duet gör utkast till personliga e-postmeddelanden om schemaläggning för varje gäst. Det som brukade ta mig 2 timmar tar 15 minuter nu.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Vi är en tvåmansoperation — jag kapten, hon sköter logistiken. Under högsäsong spenderade hon 3 timmar per natt på e-post.Duet minska det till 30 minuter. Hon får faktiskt tillbaka sina kvällar nu.",
+      "quote": "Vi är en tvåmansoperation — jag kapten, hon sköter logistiken. Under högsäsong spenderade hon 3 timmar per natt på e-post. Duet minska det till 30 minuter. Hon får faktiskt tillbaka sina kvällar nu.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Det är precis där Duet lyser. Den lär sig dina standardsvar – arter du vanligtvis ser, vad du ska ta med dig, ålderspolicyer, sjösjuketips, avgångstider – och utkast till kompletta svar direkt. Du granskar och skickar. De flesta kaptener säger till oss att 80 % av deras inkorg är samma 10 frågor, och Duet hanterar alla."
     }
   ],
-  "pricingNote": "För $125/person betalar en sparad grupp på 6 för över ett år avPro."
+  "pricingNote": "För $125/person betalar en sparad grupp på 6 för över ett år av Pro."
 }

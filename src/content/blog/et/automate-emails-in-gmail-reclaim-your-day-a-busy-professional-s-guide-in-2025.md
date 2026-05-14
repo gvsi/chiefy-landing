@@ -71,7 +71,7 @@ Need kaks funktsiooni aitavad teil hallata, *millal* meilidega tegelete.
 
 - **Saatmise ajakava:** kirjutage e-kiri kohe, kuid ajastage selle saatmine hiljem. Klõpsake nupu "Saada" kõrval olevat allanoolt. Ideaalne ajavööndite järgimiseks, sõnumite saatmiseks tööajal isegi siis, kui kirjutate need hilja või teadete ajastamiseks. Gmail võimaldab ajastada [kuni 100 meili](https://www.brevo.com/blog/how-to-schedule-an-email-in-gmail/), palju ette. Lisateavet leiate [ametlikust Gmail juhendist](https://support.google.com/mail/answer/9214606?hl=en).
 
-### Pro Näpunäide: e-posti varjunimede (+-aadressi) kasutamine filtritega
+### Näpunäide: e-posti varjunimede (+-aadressi) kasutamine filtritega
 
 Vähemtuntud Gmail trikk on varjunimede kasutamine. Saate lisada oma e-posti aadressile plussmärgi (\`+\`), millele järgneb mis tahes sõna \`@\` ette (nt \`teienimi+uudiskirjad\@gmail.com\`, \`teienimi+arveldus\@gmail.com\`). Nendele varjunimedele saadetud meilid jõuavad endiselt teie peamisse postkasti, kuid ainulaadne aadress võimaldab tõhusat filtreerimist. Näiteks looge filter kõigele, mis on saadetud aadressile \`Adressaat: teienimi+uudiskirjad\@gmail.com\`, ja rakendage automaatselt silt "Uudiskirjad" ja arhiivige see. See on uskumatult kasulik registreerumiste ja tellimuste automaatseks sortimiseks, nagu märkisid kasutajad teenuses [Reddit](https://www.reddit.com/r/google/comments/fbdd9/what_awesome_gmail_filters_are_you_using_that/) ja tehnilistes ajaveebides, nagu [Spin.AI](https://spin.ai/blog/gmail-tutorial-tips-tricks/).
 

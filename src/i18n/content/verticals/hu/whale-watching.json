@@ -49,7 +49,7 @@
     "bookingUnit": "túracsoport",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Egy elmentett csoportos foglalás egy év Duettért fizet."
+    "punchline": "Egy elmentett csoportos foglalás egy év Duetért fizet."
   },
   "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kéréseket látja, a második helyen a tengerjáró hajó menetrendjének változásait, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá temetett privát charter-lekérdezés.",
   "draftSubtitle": "A Duet megismeri a turnéid időpontját, árait és szabályzatát. Amikor egy foglalási lekérdezés érkezik, teljes választ készít a rendelkezésre állásról, a csomag tartalmáról és a magával hozandó mennyiségről. Te átnézed és elküldöd.",
@@ -133,7 +133,7 @@
     {
       "name": "Maria és Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Naponta két turnét szervezünk a púpos szezonban, és az e-mailek mennyisége irreális. – Látni fogunk bálnákat? – Mit vegyek fel? – A holnap elmarad? A Duett az ismétlődő kérdéseket kezeli, mi pedig a túrákra koncentrálunk.",
+      "quote": "Naponta két turnét szervezünk a púpos szezonban, és az e-mailek mennyisége irreális. – Látni fogunk bálnákat? – Mit vegyek fel? – A holnap elmarad? A Duet az ismétlődő kérdéseket kezeli, mi pedig a túrákra koncentrálunk.",
       "avatarKey": "francesca"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Jess és Nate P.",
       "title": "Kishajós Wildlife Tours, Kr. e",
-      "quote": "Mi egy kétszemélyes művelet – én kapitány, ő irányítja a logisztikát. A főszezonban éjszakánként 3 órát töltött e-mailekkel. A Duett ezt 30 percre vágta. Most már tényleg visszakapja az estéit.",
+      "quote": "Mi egy kétszemélyes művelet – én kapitány, ő irányítja a logisztikát. A főszezonban éjszakánként 3 órát töltött e-mailekkel. A Duet ezt 30 percre vágta. Most már tényleg visszakapja az estéit.",
       "avatarKey": "sarah"
     }
   ],
@@ -164,7 +164,7 @@
     },
     {
       "question": "Folyamatosan ugyanazokat a kérdéseket kapjuk – 'látunk-e bálnákat?', 'mit vegyek fel?', 'jó gyerekeknek?' A Duet kezeli ezeket?",
-      "answer": "Pontosan ott ragyog a Duett. Megtanulja a szokásos válaszokat – a jellemzően látható fajokat, mit vigyen magával, életkorra vonatkozó szabályokat, tengeribetegségre vonatkozó tippeket, indulási időpontokat – és azonnal elkészíti a teljes válaszokat. Te átnézed és elküldöd. A legtöbb kapitány azt mondja, hogy a postaládájának 80%-a ugyanaz a 10 kérdés, és a Duet mindegyiket kezeli."
+      "answer": "Pontosan ott ragyog a Duet. Megtanulja a szokásos válaszokat – a jellemzően látható fajokat, mit vigyen magával, életkorra vonatkozó szabályokat, tengeribetegségre vonatkozó tippeket, indulási időpontokat – és azonnal elkészíti a teljes válaszokat. Te átnézed és elküldöd. A legtöbb kapitány azt mondja, hogy a postaládájának 80%-a ugyanaz a 10 kérdés, és a Duet mindegyiket kezeli."
     }
   ],
   "pricingNote": "125 dollár/fő áron egy 6 fős megtakarított csoport több mint egy év Pro-t fizet."

@@ -66,7 +66,7 @@
         "pill": "Akcijos"
       }
     ],
-    "autodraft": "Sveiki Aleksai! Taip, mes einame kelyje. Projektavimo komanda vakar baigė naudoti išteklius ir šiandien išsiųsiu galutinius failus ikiEOD."
+    "autodraft": "Sveiki Aleksai! Taip, mes einame kelyje. Projektavimo komanda vakar baigė naudoti išteklius ir šiandien išsiųsiu galutinius failus iki EOD."
   },
   "logos": {
     "ariaLabel": "Klientų logotipai",
@@ -114,8 +114,8 @@
       },
       {
         "id": "reminders",
-        "title": "Protingi priminimai",
-        "description": "Nustatykite ir pamirškite.Duet AIprisimena sekti, kai kiti neatsako, todėl niekas neiškrenta.",
+        "title": "Išmanūs priminimai",
+        "description": "Nustatykite ir pamirškite. Duet AIprisimena sekti, kai kiti neatsako, todėl niekas neiškrenta.",
         "ariaLabel": "Išmanūs priminimai",
         "mockCopy": {
           "header": "AI-Galimi išmanieji priminimai",
@@ -185,7 +185,7 @@
         "from": "Sara Chen",
         "avatarLetter": "S",
         "subject": "4 ketvirčio biudžeto peržiūros užklausa",
-        "preview": "Galutiniai skaičiai pridedami. Prašome peržiūrėti ikiEOD.",
+        "preview": "Galutiniai skaičiai pridedami. Prašome peržiūrėti iki EOD.",
         "pill": "Reikalingas veiksmas"
       },
       {
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "konsultantas",
-        "quote": "Kaip konsultantui svarbi kiekviena minutė.Duet Mail ne tik sutaupo laiko, bet ir pagerina ryšį el. paštu.",
+        "quote": "Kaip konsultantui svarbi kiekviena minutė. Duet Mail ne tik sutaupo laiko, bet ir pagerina ryšį el. paštu.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -450,7 +450,7 @@
         "perUser": true,
         "features": [
           {
-            "title": "ViskasPro",
+            "title": "Viskas Pro",
             "description": "Visos funkcijos įtrauktos"
           },
           {
@@ -500,7 +500,7 @@
       },
       {
         "question": "Kas įtraukta į nemokamą bandomąją versiją?",
-        "answer": "14 dienų nemokama bandomoji versija apima visišką prieigą prie visų Pro funkcijų: neribotų el. laiškų santraukų, veiksmo elementų ištraukimo,AIel. laiškų rašymo programos (el. laiškų ir juodraščių generavimas be jokių apribojimų) ir tinkintų el. pašto šablonų. Prisijunkite naudodami Google arba Microsoft, kad sutaupytumėte laiko el. pašto tvarkymui."
+        "answer": "14 dienų nemokama bandomoji versija apima visišką prieigą prie visų Pro funkcijų: neribotų el. laiškų santraukų, veiksmo elementų ištraukimo, AI el. laiškų rašymo programos (el. laiškų ir juodraščių generavimas be jokių apribojimų) ir tinkintų el. pašto šablonų. Prisijunkite naudodami Google arba Microsoft, kad sutaupytumėte laiko el. pašto tvarkymui."
       },
       {
         "question": "Ar galiu naudoti Duet Mail su kitais el. pašto paslaugų teikėjais?",
@@ -651,7 +651,7 @@
         "description": "Nemokamas planas su momentinėmis suvestinėmis,AIjuodraščiais ir išmaniaisiais gautaisiais"
       },
       {
-        "name": "ProPlanas",
+        "name": "Pro Planas",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -689,7 +689,7 @@
       },
       {
         "question": "Kas įtraukta į nemokamą bandomąją versiją?",
-        "answer": "14 dienų nemokama bandomoji versija apima visišką prieigą prie visų Pro funkcijų: neribotų el. laiškų santraukų, veiksmo elementų ištraukimo,AIel. laiškų rašymo programos (el. laiškų ir juodraščių generavimas be jokių apribojimų) ir tinkintų el. pašto šablonų. Prisijunkite naudodami Google arba Microsoft, kad sutaupytumėte laiko el. pašto tvarkymui."
+        "answer": "14 dienų nemokama bandomoji versija apima visišką prieigą prie visų Pro funkcijų: neribotų el. laiškų santraukų, veiksmo elementų ištraukimo, AI el. laiškų rašymo programos (el. laiškų ir juodraščių generavimas be jokių apribojimų) ir tinkintų el. pašto šablonų. Prisijunkite naudodami Google arba Microsoft, kad sutaupytumėte laiko el. pašto tvarkymui."
       },
       {
         "question": "Ar galiu naudoti Duet Mail su kitais el. pašto paslaugų teikėjais?",

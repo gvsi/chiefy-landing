@@ -93,7 +93,7 @@
       "avatarLetter": "M",
       "avatarColor": "lavender",
       "subject": "Sommerklarering — 15 % rabatt på sikkerhetsutstyr",
-      "pill": "Probevegelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -139,19 +139,19 @@
     {
       "name": "Kaptein Ben T.",
       "title": "Havutflukter, HI",
-      "quote": "Jeg svarte på de samme 10 spørsmålene hver kveld – priser, hva som er inkludert, sjøsyketips, aldersgrenser for barn.Duet lærte alt den første uken. Svartiden min gikk fra 8 timer til 8 minutter.",
+      "quote": "Jeg svarte på de samme 10 spørsmålene hver kveld – priser, hva som er inkludert, sjøsyketips, aldersgrenser for barn. Duet lærte alt den første uken. Svartiden min gikk fra 8 timer til 8 minutter.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Booking Manager, Pacific NW",
-      "quote": "Værkanselleringer er de verste — 30 personer trenger ombooking på en gang, og jeg sjonglerer med telefonsamtaler.Duet utarbeider personlig tilpassede e-postmeldinger for hver gjest. Det som før tok meg 2 timer tar 15 minutter nå.",
+      "quote": "Værkanselleringer er de verste — 30 personer trenger ombooking på en gang, og jeg sjonglerer med telefonsamtaler. Duet utarbeider personlig tilpassede e-postmeldinger for hver gjest. Det som før tok meg 2 timer tar 15 minutter nå.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess og Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Vi er en tomannsoperasjon — jeg kaptein, hun driver logistikk. I høysesongen brukte hun 3 timer per natt på e-post.Duet kutt det til 30 minutter. Hun får faktisk kveldene tilbake nå.",
+      "quote": "Vi er en tomannsoperasjon — jeg kaptein, hun driver logistikk. I høysesongen brukte hun 3 timer per natt på e-post. Duet kutt det til 30 minutter. Hun får faktisk kveldene tilbake nå.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Det er akkurat der Duet skinner. Den lærer standardsvarene dine – arter du vanligvis ser, hva du skal ha med deg, aldersregler, sjøsyketips, avgangstider – og utarbeider fullstendige svar umiddelbart. Du anmelder og sender. De fleste kapteiner forteller oss at 80 % av innboksen deres er de samme 10 spørsmålene, og Duet håndterer alle."
     }
   ],
-  "pricingNote": "Med $125/person betaler en lagret gruppe på 6 for over et år medPro."
+  "pricingNote": "Med $125/person betaler en lagret gruppe på 6 for over et år med Pro."
 }

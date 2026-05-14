@@ -80,7 +80,7 @@ Turg on täis uuenduslikke meilikliente, mis kasutavad tehisintellekti. Siin on 
 
 - **Hinnakujundus ja vaatajaskond:** pakub tugevat [tasuta taset](https://sparkmailapp.com/pricing). Premium-paketid algavad üksikisikutele umbes $4.99/month ja meeskondadele $6.99/user kuus (arvestatakse igal aastal). See sobib suurepäraselt koostööd vajavatele meeskondadele, eelarveteadlikele inimestele ja kasutajatele mitmel platvormil, sealhulgas Androidil.
 
-- **Pros ja miinused:** Tugev platvormideülene tugi ja suurepärased koostöötööriistad on peamised plussid. Kohandamine võib aga Superhumaniga võrreldes tunduda piiratud ja kõige võimsamate tehisintellekti/meeskonna funktsioonide jaoks on vaja tasulist tellimust.75
+- **Plussid ja miinused:** Tugev platvormideülene tugi ja suurepärased koostöötööriistad on peamised plussid. Kohandamine võib aga Superhumaniga võrreldes tunduda piiratud ja kõige võimsamate tehisintellekti/meeskonna funktsioonide jaoks on vaja tasulist tellimust.75
 
 ### **Lühilaine: AI-toega organisatsioonimeister**
 
@@ -92,7 +92,7 @@ Turg on täis uuenduslikke meilikliente, mis kasutavad tehisintellekti. Siin on 
 
 - **Hinnakujundus ja vaatajaskond:** pakub funktsionaalset [tasuta taset](https://www.shortwave.com/pricing/). Pro plaan algab $14/seat kuus (arvestatakse igal aastal). Ideaalne Gmail võimsatele kasutajatele ja meeskondadele, kes otsivad täiustatud AI-põhist korraldust ja triaaži.
 
-- **Pros ja miinused:** Suurepärane tehisintellekt postkasti korrastamiseks ja kokkuvõtete tegemiseks, lisaks kasulik tasuta pakett. Peamised piirangud on selle Gmail-ainult ühilduvus ja asjaolu, et selle töölauaversioon on pigem Progressiivne veebirakendus (PWA), mitte algrakendus. Mõned kasutajad märgivad ka, et tehisintellekt vajab aeg-ajalt kontrollimist.
+- **Plussid ja miinused:** Suurepärane tehisintellekt postkasti korrastamiseks ja kokkuvõtete tegemiseks, lisaks kasulik tasuta pakett. Peamised piirangud on selle Gmail-ainult ühilduvus ja asjaolu, et selle töölauaversioon on pigem Progressiivne veebirakendus (PWA), mitte algrakendus. Mõned kasutajad märgivad ka, et tehisintellekt vajab aeg-ajalt kontrollimist.
 
 ### **Canary Mail: turvalisus vastab AI Smarts'ile**
 
@@ -104,7 +104,7 @@ Turg on täis uuenduslikke meilikliente, mis kasutavad tehisintellekti. Siin on 
 
 - **Hinnakujundus ja vaatajaskond:** pakub [tasuta prooviperioodi](https://canarymail.io/pricing), tasulised paketid algavad umbes $3/month ($36/year). Meeldib tugevalt privaatsusteadlikele isikutele ja meeskondadele, sealhulgas reguleeritud tööstusharudele, kes soovivad ka tehisintellekti abi ilma kopsaka hinnasildita.
 
-- **Pros ja miinused:** Tugevad turvafunktsioonid koos kasuliku tehisintellektiga taskukohase hinnaga on suur eelis koos laiaulatusliku platvormi toega. Mõned kasutajad leiavad, et liides sarnaneb Apple Mailiga ja märgib konkurentidega võrreldes vähem kohandamisvõimalusi.
+- **Plussid ja miinused:** Tugevad turvafunktsioonid koos kasuliku tehisintellektiga taskukohase hinnaga on suur eelis koos laiaulatusliku platvormi toega. Mõned kasutajad leiavad, et liides sarnaneb Apple Mailiga ja märgib konkurentidega võrreldes vähem kohandamisvõimalusi.
 
 ### **Võrdlustabel: üliinimene vs populaarseimad tehisintellekti alternatiivid**
 
@@ -112,7 +112,7 @@ Turg on täis uuenduslikke meilikliente, mis kasutavad tehisintellekti. Siin on 
 | ------------------------ | ------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | **Esmane fookus**        | Kiirus, klaviatuuri töövoog, esmaklassiline kogemus     | Koostöö, nutikas postkast, tehisintellekti kirjutamine                                       | AI organisatsioon, triaaž, Gmail täiustamine                                                  | Turvalisus, privaatsus, tehisintellekti abi             |
 | **AI-triaaž/prioriteet**   | Jagatud postkast, automaatsed sildid                         | Nutikas postkast, prioriteetne sortimine                                                | Komplektid, AI organisatsioon, jagatud postkast                                                                | Nutikas sortimine, prioriteetsed ülevaated             |
-| **AI joonistusstiil**    | Õpib kasutaja häält, keskendunud                       | Paindlik Prompts, tooni reguleerimine                                                | Õpib kasutaja hääle, automaatse täitmise                                                             | AI kopiloodi kirjutamine/Proülelugemine              |
+| **AI joonistusstiil**    | Õpib kasutaja häält, keskendunud                       | Paindlik prompts, tooni reguleerimine                                                | Õpib kasutaja hääle, automaatse täitmise                                                             | AI-kopiloodi kirjutamine/korrektuur              |
 | **AI kokkuvõte**     | Jah (automaatne kokkuvõte)                             | Jah (kokkuvõte)                                                              | Jah (vahetu kokkuvõtted)                                                                     | Jah (AI kokkuvõtted)                           |
 | **Koostöö fookus**  | Mõõdukas (meeskonna katkendid, jagatud lõimed)         | Kõrge (jagatud mustandid/kommentaarid, delegaat)                                      | Mõõdukas (kommentaarid, määramine – tasuline)                                                          | Madal (individuaalne/meeskonnakasutus, väiksem koostööfookus) |
 | **Põhiintegratsioonid**     | Hubspot, Salesforce                              | [Asana](https://asana.com/),Trello, [Dropbox](https://www.dropbox.com/) jne. | [Google Kalender](https://calendar.google.com/), [Zapieer](https://zapier.com/) (Ettevõte) | Põhikalender                               |

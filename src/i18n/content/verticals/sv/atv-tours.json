@@ -93,7 +93,7 @@
       "avatarLetter": "R",
       "avatarColor": "lavender",
       "subject": "Fjäderspel — 25 % rabatt på delar",
-      "pill": "Prorörelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -127,19 +127,19 @@
     {
       "name": "Mike D.",
       "title": "ATV Guide, södra Utah",
-      "quote": "Jag leder 8-timmarsturer genom kanjonerna med noll cellservice. När jag kom tillbaka hade hälften av mina bokningsmeddelanden blivit kalla.Duet skriver utkast till svar med mina priser och spårinformation — jag granskar dem bara i slutet av dagen.",
+      "quote": "Jag leder 8-timmarsturer genom kanjonerna med noll cellservice. När jag kom tillbaka hade hälften av mina bokningsmeddelanden blivit kalla. Duet skriver utkast till svar med mina priser och spårinformation — jag granskar dem bara i slutet av dagen.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV-researrangör, Colorado",
-      "quote": "Vi kör turer 7 dagar i veckan och bara frågorna om försäkring och undantag äter upp mina morgnar.Duet hanterar allt - krav på ryttare, åldersbegränsningar, vad man ska ta med sig. Låter precis som jag.",
+      "quote": "Vi kör turer 7 dagar i veckan och bara frågorna om försäkring och undantag äter upp mina morgnar. Duet hanterar allt - krav på ryttare, åldersbegränsningar, vad man ska ta med sig. Låter precis som jag.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "Människor skickar e-post och frågar vilket spår som är rätt för deras grupp, vilken erfarenhetsnivå de behöver, om barn kan åka. Samma 5 frågor om och om igen.Duet spikar varenda en av dem.",
+      "quote": "Människor skickar e-post och frågar vilket spår som är rätt för deras grupp, vilken erfarenhetsnivå de behöver, om barn kan åka. Samma 5 frågor om och om igen. Duet spikar varenda en av dem.",
       "avatarKey": "johnny"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Amanda K.",
       "title": "Familj ATV Tours, Sedona",
-      "quote": "Vi får många familjer som frågar om nybörjarspår och ålderskrav.Duet lärde sig alla våra turnéalternativ och rekommenderar den rätta i varje svar. Kunder kan inte se skillnad.",
+      "quote": "Vi får många familjer som frågar om nybörjarspår och ålderskrav. Duet lärde sig alla våra turnéalternativ och rekommenderar den rätta i varje svar. Kunder kan inte se skillnad.",
       "avatarKey": "sarah"
     }
   ],
@@ -164,8 +164,8 @@
     },
     {
       "question": "Jag är på spåren hela dagen utan mobiltjänst. Hur hjälper Duet?",
-      "answer": "Det är precis därför guider älskar Duet. Medan du leder en 6-8 timmar lång rundtur utan signal, hopar sig bokningsförfrågningar.Duet utkast till svar till var och en av dem - prissättning, tillgänglighet, mötesplats, vad man ska ha på sig. När du kommer tillbaka granskar du utkasten och skickar. De flesta guider säger att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
+      "answer": "Det är precis därför guider älskar Duet. Medan du leder en 6-8 timmar lång rundtur utan signal, hopar sig bokningsförfrågningar. Duet utkast till svar till var och en av dem - prissättning, tillgänglighet, mötesplats, vad man ska ha på sig. När du kommer tillbaka granskar du utkasten och skickar. De flesta guider säger att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
     }
   ],
-  "pricingNote": "För $200/maskin betalar en sparad grupp på 4 för över ett år avPro."
+  "pricingNote": "För $200/maskin betalar en sparad grupp på 4 för över ett år av Pro."
 }

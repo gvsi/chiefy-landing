@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, po to klausimus, o triukšmą niekada. Daugiau netrūksta kelionės užklausos, paslėptos poTripAdvisorįspėjimais.",
   "draftSubtitle": "Duet sužino jūsų kelionių tipus, kainas ir toną. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia pakuotės informacija, ką dėvėti ir priedais. Jūs peržiūrite ir siunčiate.",
-  "agentSubtitle": "\"Ar yra užsakymų šį savaitgalį?\" „Paruoškite atsakymą apie auroros derinį“.Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
+  "agentSubtitle": "\"Ar yra užsakymų šį savaitgalį?\" „Paruoškite atsakymą apie auroros derinį“. Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryanas H.",
       "title": "Šunų rogių kelionių organizatorius, AK",
-      "quote": "Esu kelyje 6 valandas per parą ir naudoju nulinę mobiliojo ryšio paslaugą. Tuo metu, kai grįžau, pusė užsakymų užklausų nukeliavo į kitą aprangą.Duet atsakymų juodraščiai su išsamia mano kelionių informacija ir kainomis – svečiai atsakys per kelias minutes, o ne valandas.",
+      "quote": "Esu kelyje 6 valandas per parą ir naudoju nulinę mobiliojo ryšio paslaugą. Tuo metu, kai grįžau, pusė užsakymų užklausų nukeliavo į kitą aprangą. Duet atsakymų juodraščiai su išsamia mano kelionių informacija ir kainomis – svečiai atsakys per kelias minutes, o ne valandas.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "Siūlome apsilankymus veislyne, pasivažinėjimą košės ir auroros derinius – į kiekvieną el. laišką reikia kitokio atsakymo.Duet per savaitę išsiaiškino visus tris kelionių tipus ir dabar kiekvieną kartą rengia atsakymų juodraščius, atitinkančius reikiamą paketą.",
+      "quote": "Siūlome apsilankymus veislyne, pasivažinėjimą košės ir auroros derinius – į kiekvieną el. laišką reikia kitokio atsakymo. Duet per savaitę išsiaiškino visus tris kelionių tipus ir dabar kiekvieną kartą rengia atsakymų juodraščius, atitinkančius reikiamą paketą.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travisas B.",
       "title": "Šunų kinkinių vadovas, MN",
-      "quote": "Kiekvieną vakarą praleisdavau atsakydamas į tuos pačius klausimus apie tai, ką dėvėti, amžiaus ribas ir šunis.Duet tvarko visa tai. Grįžtu namo iš tako, viskas paruošta ir laukia.",
+      "quote": "Kiekvieną vakarą praleisdavau atsakydamas į tuos pačius klausimus apie tai, ką dėvėti, amžiaus ribas ir šunis. Duet tvarko visa tai. Grįžtu namo iš tako, viskas paruošta ir laukia.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Žiemą oro sąlygų atšaukimai yra nuolatiniai.Duet parengia planavimo atsakymų juodraščius su mūsų politika ir alternatyviomis datomis, kol aš net neturiu galimybės patikrinti savo telefono. Svečiams patinka greitas atsakymas.",
+      "quote": "Žiemą oro sąlygų atšaukimai yra nuolatiniai. Duet parengia planavimo atsakymų juodraščius su mūsų politika ir alternatyviomis datomis, kol aš net neturiu galimybės patikrinti savo telefono. Svečiams patinka greitas atsakymas.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Šeimos šunų kinkinių nuotykiai, CO",
-      "quote": "Tėvai visada klausia, ar jų vaikai gali muštis, ar šunys draugiški, ką dėvėti – tie patys 10 klausimų.Duet išmoko kiekvieną atsakymą ir puikiai juos parengia. Tai tarsi savęs klonavimas el. paštui.",
+      "quote": "Tėvai visada klausia, ar jų vaikai gali muštis, ar šunys draugiški, ką dėvėti – tie patys 10 klausimų. Duet išmoko kiekvieną atsakymą ir puikiai juos parengia. Tai tarsi savęs klonavimas el. paštui.",
       "avatarKey": "francesca"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Taip. Duet sužino apie kiekvieną jūsų kelionių tipą – apsilankymus veislyne, košės patirtį, auroros derinius, fotografijos priedus, transportavimo paketus – kartu su jų kainomis, trukme ir tuo, kas įskaičiuota. Kai gaunama užklausa, ji atitinka tinkamą apžvalgą ir parengia atsakymo juodraštį su teisinga informacija."
     }
   ],
-  "pricingNote": "Už 150 USD už kelionę už du išsaugotus užsakymus sumokama daugiau nei už metusPro."
+  "pricingNote": "Už 150 USD už kelionę už du išsaugotus užsakymus sumokama daugiau nei už metus Pro."
 }

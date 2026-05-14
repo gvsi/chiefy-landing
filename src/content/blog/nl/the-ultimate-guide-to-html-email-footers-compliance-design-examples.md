@@ -23,9 +23,9 @@ Waarom kostbare tijd besteden aan deze kleine ruimte? De voordelen zijn aanzienl
 
 - **Vertrouwen en geloofwaardigheid:** Het opnemen van contactgegevens en links naar beleid toont transparantie en bouwt vertrouwen op bij uw publiek.
 
-- **Engagement en navigatie:**Probied gemakkelijke toegang tot sociale-mediaprofielen, websitelinks, voorkeurscentra of zelfs secundaire call-to-actions (zoals het downloaden van een app).
+- **Engagement en navigatie:** Bied gemakkelijke toegang tot sociale-mediaprofielen, websitelinks, voorkeurscentra of zelfs secundaire call-to-actions (zoals het downloaden van een app).
 
-- **Bezorgbaarheid:**ProPerly opgemaakte voetteksten met vereiste elementen helpen e-mailclients (zoals Gmail,Outlook) te signaleren dat uw e-mails geen spam zijn.
+- **Bezorgbaarheid:**Correct opgemaakte voetteksten met vereiste elementen helpen e-mailclients (zoals Gmail, Outlook) te signaleren dat uw e-mails geen spam zijn.
 
 ## De must-haves: essentiële elementen voor elke e-mailvoettekst
 
@@ -37,7 +37,7 @@ Hoewel u afhankelijk van uw doelstellingen verschillende elementen kunt toevoege
 | **Afmeldlink** | Wettelijk vereist doorCAN-SPAM,GDPR,CASLvoor marketing-e-mails. Creëert vertrouwen en respecteert de keuze van de gebruiker. | Moet duidelijk, opvallend en gemakkelijk te gebruiken zijn (idealiter met één klik). Verzoeken onmiddellijk honoreren (doorgaans binnen 10 werkdagen). |
 | **Fysiek postadres** | Wettelijk vereist doorCAN-SPAMenCASL. Voegt legitimiteit toe.                                               | Kan een straatadres zijn, een geregistreerde postbus. Box, of een geregistreerde privé-mailbox.                                                   |
 | **Afzenderidentificatie** | Verplicht door de wet. Bouwt vertrouwen op.                                                                        | Vermeld duidelijk uw bedrijfsnaam. Zorg ervoor dat de 'Van'- en 'Reply-To'-adressen juist zijn.                                              |
-| **Contactgegevens** |Probiedt een manier waarop ontvangers contact kunnen opnemen. Bouwt vertrouwen op.                                          | Voeg een websitelink, ondersteunings-e-mailadres of telefoonnummer toe.                                                                    |
+| **Contactgegevens** |Biedt een manier waarop ontvangers contact kunnen opnemen. Bouwt vertrouwen op.                                          | Voeg een websitelink, ondersteunings-e-mailadres of telefoonnummer toe.                                                                    |
 | **Privacybeleidlink** | Essentieel voorGDPRnaleving en goede praktijken overal. Transparantie over datagebruik.            | Link naar een duidelijk, begrijpelijk beleid op uw website.                                                                            |
 
 Beschouw deze als de niet-onderhandelbare basis van uw voettekst. Als deze ontbreken, kan dit de afleverbaarheid beïnvloeden en tot juridische problemen leiden.
@@ -70,7 +70,7 @@ Gebruik het logo, het kleurenpalet en de lettertypen van uw merk (gebruik webvei
 
 ### Zorg voor leesbaarheid en toegankelijkheid
 
-Gebruik kleuren met hoog contrast tussen tekst en achtergrond, vooral voor kleine juridische tekst. Gebruik semantische HTML (zoals **\<p>** voor alinea's) om schermlezers te helpen.Probekijk beschrijvende alt-tekst voor alle gebruikte afbeeldingen (zoals logo's of sociale pictogrammen).
+Gebruik kleuren met hoog contrast tussen tekst en achtergrond, vooral voor kleine juridische tekst. Gebruik semantische HTML (zoals **\<p>** voor alinea's) om schermlezers te helpen. bekijk beschrijvende alt-tekst voor alle gebruikte afbeeldingen (zoals logo's of sociale pictogrammen).
 
 ## Navigeren door de Legalese:CAN-SPAM,GDPRenCASL
 

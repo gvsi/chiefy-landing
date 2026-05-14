@@ -67,7 +67,7 @@ Jejich hlavní výhoda spočívá v vnesení struktury do chaosu. Mezi hlavní v
 
 - **Nástroje pro spolupráci:** Funkce jako interní poznámky na tiketech umožňují agentům sdílet informace a spolupracovat na řešeních.
 
-- **Přehledy:** ProPoskytuje základní analýzy objemu tiketů, doby odezvy a dalších KPI.
+- **Přehledy:** Poskytuje základní analýzy objemu tiketů, doby odezvy a dalších KPI.
 
 I když jde o výrazné zlepšení oproti sdíleným schránkám, tradiční help desk nejsou všelékem. Často stále vyžadují značné manuální úsilí, mohou mít strmější křivku učení a související náklady na školení a mohou být dražší. Rozhodující je, že bez pokročilejších funkcí nemusí úplně vyřešit napětí mezi rychlými reakcemi a personalizovanými interakcemi.
 
@@ -186,7 +186,7 @@ Výběr správného softwaru je jen polovina úspěchu. To, jak jej implementuje
 
 - ** Bezohledně organizujte:** Implementujte jasný a konzistentní systém pro označování, kategorizaci a upřednostňování e-mailů nebo lístků. Využijte složky, vlastní pohledy nebo řídicí panely, které agentům pomohou efektivně řídit jejich konkrétní pracovní postupy.
 
-- **Posílejte své agenty:** ProŠkolení o softwaru a zavedených procesech je zásadní. Zajistěte, aby agenti měli snadný přístup k historii a kontextu zákazníků. Vytvářejte prostředí pro spolupráci, kde se doporučuje požádat o pomoc. A nezapomeňte uznat a ocenit jejich úsilí, protože podpůrné role mohou být náročné.
+- **Podpořte své agenty:** Školení o softwaru a zavedených procesech je zásadní. Zajistěte, aby agenti měli snadný přístup k historii a kontextu zákazníků. Vytvářejte prostředí pro spolupráci, kde se doporučuje požádat o pomoc. A nezapomeňte uznat a ocenit jejich úsilí, protože podpůrné role mohou být náročné.
 
 - **Řešte stížnosti s grácií:** Jednání s frustrovanými zákazníky je nevyhnutelné. Vyškolte svůj tým v technikách deeskalace. Zdůrazněte aktivní naslouchání, opravdovou empatii, upřímnou omluvu, pokud je to oprávněné, a laserové zaměření na vyřešení základního problému. Využijte negativní zpětnou vazbu konstruktivně jako příležitost ke zlepšení procesů nebo produktů.
 

@@ -59,7 +59,6 @@ Ang pagpapanatili ng isang tunay na boses ay mahalaga. Dito ay partikular na idi
 
 **Ang AI Solusyon:** AI email assistant ay kumikilos tulad ng isang personal na tool sa briefing. Maaari nilang awtomatikong suriin at i-condense ang mahahabang pag-uusap sa email, mga naka-attach na dokumento (tulad ng mga PDF o Word file), o kahit na matugunan ang mga transcript sa maikli, natutunaw na mga buod. Higit sa lahat, mahusay sila sa pagkuha ng signal mula sa ingay - pagtukoy sa mga pangunahing desisyon na ginawa, mga natitirang aksyon na item, mahahalagang tanong na itinanong, at mga deadline na nabanggit.
 
-**Larawan PlaceholderGoogle Images Query:** AI email thread summarization infographic**Alt Text:** Infographic na nagpapakita ng isang mahaba, kumplikadong email thread na pinagsasama-sama ng AI sa 3 pangunahing bullet point: Desisyon, Aksyon, Pangunahing Tanong.**Caption:** AI na mga tool sa pagbubuod na pinutol ang ingay, na kinukuha ang mahahalagang impormasyon mula sa mahabang email thread.
 
 **Mga Kaso ng Paggamit:** Ang kakayahang ito ay napakahalaga para sa mabilis na pag-iwas pagkatapos mawala, pag-unawa sa konteksto ng isang kumplikadong isyu nang hindi binabasa muli ang buong kasaysayan, o mahusay na pagbabahagi ng diwa ng isang pag-uusap sa mga miyembro ng team na kailangang ma-loop.
 
@@ -81,7 +80,6 @@ Ang mabilis na pagkuha ng diwa ay mahalaga. AI tool ay maaaring kumilos tulad ng
 
 Isipin ang isang inbox na lumalabas kung ano ang nangangailangan ng pansin _ngayon_. Ito ang kapangyarihan ng AI triage. Sa halip na isang kalat na kronolohikal na feed, ang mga tool tulad ng [**Duet Mail**](https://duetmail.com/fil) ay nag-aalok ng **AI Triage at Focused Dashboard**. Matalinong sinusuri ng system na ito ang mga email para sa pagkaapurahan, mga kinakailangang aksyon, o pagpapasya, na malinaw na ipinapakita ang mga ito upang agad na maputol ng mga user ang ingay at mabisang ituon ang kanilang enerhiya. Kinakatawan nito ang pagbabago ng paradigm mula sa reaktibong pagsuri sa email tungo sa proactive, priyoridad na pakikipag-ugnayan, makabuluhang binabawasan ang cognitive load at pagpapalakas ng makabuluhang produktibidad.
 
-**Larawan PlaceholderGoogle Images Query:** Duet Mail AI Triage Focused Dashboard screenshot**Alt Text:** Screenshot ng Duet Mail's Focused Dashboard na nagpapakita ng mga priyoridad na email na ikinategorya ayon sa pagkamadalian at mga kinakailangang aksyon.**Caption:** AI-powered na mga dashboard tulad ng Duet Mail's-powered na mga dashboard tulad ng Duet Mail's na nasa ibabaw ng mga kritikal na emailbox.
 
 ## Pagpili ng Iyong AI Email Co-Pilot: Mga Tool at Pagsasaalang-alang
 
@@ -136,7 +134,6 @@ Upang mabawasan ang mga panganib na ito, dapat gamitin ng mga user ang pinakamah
 
 - **Mag-ingat:** Mag-ingat kapag direktang nagpapakain ng napakasensitibong impormasyon sa AI na mga prompt, lalo na kung hindi malinaw ang mga kasanayan sa seguridad ng tool.
 
-**Placeholder ng LarawanGoogle Images Query:** infographic ng pinakamahuhusay na kagawian sa seguridad ng email**Alt Text:** Ang mga infographic na naglalarawan ng pinakamahuhusay na kagawian sa seguridad ng email tulad ng malalakas na password, MFA, at mga pahintulot sa pagsuri.**Caption:** Ang pagsunod sa pinakamahuhusay na kagawian sa seguridad ng email ay mahalaga kapag gumagamit ng mga tool na AI.
 
 Kapag sinusuri ang mga tool, hanapin ang kanilang postura sa seguridad. Ang mga solusyon tulad ng [**Duet Mail**](https://duetmail.com/fil), halimbawa, ay nagbibigay-diin sa kanilang pangako sa privacy at seguridad sa kanilang platform, na isang mahalagang salik para sa pagbuo ng tiwala. Habang lumalalim ang pagsasama ng AI, ang mga vendor na nagbibigay-diin sa matatag na seguridad at malinaw na pangangasiwa ng data ay malamang na makakuha ng mas malaking kumpiyansa ng user.
 

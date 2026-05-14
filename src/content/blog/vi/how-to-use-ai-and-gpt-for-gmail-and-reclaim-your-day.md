@@ -59,7 +59,6 @@ Giữ được giọng viết chân thực là điều rất quan trọng. Đây
 
 **Giải pháp AI:** Trợ lý email AI hoạt động như một công cụ briefing cá nhân. Chúng có thể tự động phân tích và rút gọn các cuộc hội thoại email dài, tài liệu đính kèm (như PDF hoặc Word), thậm chí cả bản ghi cuộc họp thành các bản tóm tắt ngắn, dễ tiêu hóa. Quan trọng là chúng rất giỏi tách tín hiệu khỏi nhiễu - xác định các quyết định đã được đưa ra, mục hành động còn tồn đọng, câu hỏi quan trọng và deadline được nhắc đến.
 
-**Image PlaceholderGoogle Images Query:** infographic tóm tắt chuỗi email bằng AI**Alt Text:** Infographic cho thấy một chuỗi email dài và phức tạp được AI rút gọn thành 3 gạch đầu dòng chính: Quyết định đã đưa ra, Mục hành động, Câu hỏi chính.**Caption:** Công cụ tóm tắt AI cắt qua nhiễu, trích xuất thông tin thiết yếu từ các chuỗi email dài.
 
 **Trường hợp sử dụng:** Khả năng này rất quý để nhanh chóng bắt nhịp sau thời gian vắng mặt, hiểu bối cảnh của một vấn đề phức tạp mà không cần đọc lại toàn bộ lịch sử, hoặc chia sẻ ý chính của cuộc trao đổi với thành viên cần được cập nhật.
 
@@ -81,7 +80,6 @@ Nắm ý nhanh là điều thiết yếu. Công cụ AI có thể hoạt động
 
 Hãy tưởng tượng một hộp thư tự đưa những việc cần chú ý _ngay bây giờ_ lên trên. Đây là sức mạnh của phân loại AI. Thay vì một dòng thời gian lộn xộn, các công cụ như [**Duet Mail**](https://duetmail.com/vi) cung cấp **AI Triage & Focused Dashboard**. Hệ thống này phân tích email một cách thông minh để nhận diện tính khẩn cấp, hành động cần làm hoặc quyết định cần đưa ra, rồi trình bày rõ ràng để người dùng cắt qua nhiễu và tập trung năng lượng hiệu quả. Đây là sự chuyển dịch từ kiểm tra email thụ động sang tương tác chủ động, có ưu tiên, giúp giảm tải nhận thức và tăng năng suất có ý nghĩa.
 
-**Image PlaceholderGoogle Images Query:** ảnh chụp màn hình Duet Mail AI Triage Focused Dashboard**Alt Text:** Ảnh chụp Focused Dashboard của Duet Mail hiển thị email được ưu tiên theo mức độ khẩn cấp và hành động cần thiết.**Caption:** Các dashboard chạy bằng AI như của Duet Mail đưa email quan trọng lên trên, cắt qua sự lộn xộn của hộp thư.
 
 ## Chọn Đồng Hành Email AI: Công Cụ & Cân Nhắc
 
@@ -136,7 +134,6 @@ Các rủi ro chính gồm:
 
 - **Thận trọng:** Cẩn thận khi đưa thông tin rất nhạy cảm trực tiếp vào prompt AI, đặc biệt nếu thực hành bảo mật của công cụ chưa rõ.
 
-**Image PlaceholderGoogle Images Query:** infographic thực hành bảo mật email tốt nhất**Alt Text:** Infographic minh họa các thực hành bảo mật email như mật khẩu mạnh, MFA và kiểm tra quyền truy cập.**Caption:** Tuân thủ các thực hành bảo mật email là điều quan trọng khi dùng công cụ AI.
 
 Khi đánh giá công cụ, hãy xem tư thế bảo mật của họ. Các giải pháp như [**Duet Mail**](https://duetmail.com/vi), chẳng hạn, nhấn mạnh cam kết về quyền riêng tư và bảo mật trên nền tảng, một yếu tố then chốt để xây dựng niềm tin. Khi tích hợp AI sâu hơn, các nhà cung cấp nhấn mạnh bảo mật mạnh và xử lý dữ liệu rõ ràng có khả năng giành được sự tin cậy lớn hơn từ người dùng.
 

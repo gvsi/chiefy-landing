@@ -90,11 +90,11 @@ Tržište AI pomoćnika za e-poštu brzo raste. Iako mnogi alati nude funkcije k
 
 | **Feature Focus**| **Primer alata koji se pominje u recenzijama**| **Ključna sposobnost**| **Datoteka idealnog korisnika Pro**|
 | ---------------------------- | -------------------------------------- | ----------------------------------------------------- | -------------------------------------------- |
-| **Upravljanje prijemnim sandučetom/ Trijaža**| SaneBox, Shortwave, Lindi, Duet Mail | Pametno sortiranje, određivanje prioriteta, filtriranje neželjene pošte/nereda | Korisnici velikog broja, zauzeti Proprofesionalci |
+| **Upravljanje prijemnim sandučetom/ Trijaža**| SaneBox, Shortwave, Lindi, Duet Mail | Pametno sortiranje, određivanje prioriteta, filtriranje neželjene pošte/nereda | Korisnici velikog broja, zauzeti profesionalci |
 | **Drafting & Vriting**| Jasper, Copi.ai, Flowrite, Duet Mail | Generisanje šablona, kreiranje sadržaja, učenje glasa | Marketeri, prodaja Teams, česti pisci |
 | **Gramatika i poljski**| Grammarly | Ispravljanje grešaka, podešavanje tona, jasnoća | Svako kome je potrebna uglađena komunikacija |
 | **Integracija platforme**| Kopilot (Microsoft), Gemini (Google) | Duboka integracija unutar specifičnih ekosistema | Korisnici su mnogo investirali u MS ili Google paket |
-| **Rezime**| Copilot, Shortwave, Duet Mail | Zgušnjavanje dugih niti | Proprofesionalci koji upravljaju složenim projektima |
+| **Rezime**| Copilot, Shortwave, Duet Mail | Zgušnjavanje dugih niti | Profesionalci koji upravljaju složenim projektima |
 | **Personalizacija**| SmartWriter.ai | Prilagođavanje e-poruka za javnost u velikom obimu | Prodaja i razvoj poslovanja Teams |
 
 (Napomena: Ova tabela je ilustrativna; mnogi alati nude više funkcija. Skupovi funkcija i cene su podložni promenama.)

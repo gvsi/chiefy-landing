@@ -1,5 +1,5 @@
 ---
-title: "10+ eksempler på e-postautomatisering for å gjenvinne tiden din og økeProduktiviteten i 2025"
+title: "10+ eksempler på e-postautomatisering for å gjenvinne tiden din og øke produktiviteten i 2025"
 description: "Oppdag praktiske eksempler på e-postautomatisering for sortering, svar, oppfølging og mer. Øk produktiviteten med disse 2025-tipsene og verktøyene."
 publishedAt: 2025-04-07
 author: "Duet Mail Team"
@@ -87,7 +87,7 @@ I følge [dealcode AI](https://www.dealcode.ai/blog/email-automation-strategies-
 
 Automatisering handler ikke bare om å sende e-poster; det handler også om å minne *deg* på. Verktøy kan:
 
-- Påminn deg om en e-post du sendte ikke har mottatt svar etter X dager (somSaneBox).
+- Påminn deg om en e-post du sendte ikke har mottatt svar etter X dager (som SaneBox).
 
 - Send automatisk påminnelser for kommende møter eller avtaler (nyttige maler funnet via [FluentBooking](https://fluentbooking.com/articles/meeting-reminder-email-templates/) eller [ClickUp](https://clickup.com/blog/reminder-email-examples/)).
 

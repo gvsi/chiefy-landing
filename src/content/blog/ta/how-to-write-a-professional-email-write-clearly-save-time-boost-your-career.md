@@ -107,7 +107,7 @@ draft: false
 
 
 
-![Example of a clean professional email signature with name, title, company, phone, website, and LinkedIn link](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+![பெயர், பதவி, நிறுவனம், phone, website மற்றும் LinkedIn link உள்ள சுத்தமான professional email signature உதாரணம்](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 ஒரு சுத்தமான, தொழில்முறை மின்னஞ்சல் கையொப்பம் ஒழுங்கீனம் இல்லாமல் அத்தியாவசிய தொடர்புத் தகவலை உள்ளடக்கியது.
 

@@ -114,7 +114,7 @@ Tehát hozzáférhet Gmail összefoglalójához. Hogyan használhatod hatékonya
 
 - **Prompt konkrétan (oldalsó panel):** Az „Ask Gemini” oldalpanel használatakor legyen konkrét az utasításokban. Az „Összefoglalás” helyett próbálja ki az „Összefoglalja a szálban hozott kulcsfontosságú döntéseket” vagy „A beszélgetésből hozzám rendelt műveletelemek listázása” lehetőséget.
 
-- **ProVisszajelzés:** Használja a „Jó javaslat” / „Rossz javaslat” (fel/le tetszik) opciókat. Ez segít Google-nek idővel javítani a funkciót, még ha nem is javítja azonnal a pontatlan összefoglalót.
+- **Visszajelzés:** Használja a „Jó javaslat” / „Rossz javaslat” (fel/le tetszik) opciókat. Ez segít Google-nek idővel javítani a funkciót, még ha nem is javítja azonnal a pontatlan összefoglalót.
 
 - **Ne használja kényes tartalomhoz:** A folyamatban lévő adatvédelmi viták és a mesterséges intelligencia feldolgozás természete miatt bölcs dolog elkerülni az összefoglaló funkció használatát a rendkívül bizalmas vagy érzékeny személyes/üzleti információkat tartalmazó e-maileknél.
 

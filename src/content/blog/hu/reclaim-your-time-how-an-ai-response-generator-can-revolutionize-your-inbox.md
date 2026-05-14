@@ -178,11 +178,11 @@ Az AI e-mail eszközök piaca gyorsan bővül. Hogyan választod ki a számodra 
 
 Miután kiválasztotta az eszközt, maximalizálja annak hatékonyságát az alábbi tippekkel:
 
-1. **Provide Tiszta Prompts és kontextus:** Az AI kimenet minősége nagymértékben függ a bemenet minőségétől. Legyen konkrét a kívánt hangnem, közönség és kulcspontok tekintetében.
+1. **Adjon világos utasításokat és kontextust:** Az AI kimenet minősége nagymértékben függ a bemenet minőségétől. Legyen konkrét a kívánt hangnem, közönség és kulcspontok tekintetében.
 
-2. **Időt fektessen be a képzésbe:** Ha az eszköz tanulási funkciókat kínál, használja azokat! ProÍrási mintákat küldhet, visszajelzést adhat a javaslatokról, és testreszabhatja a beállításokat az Ön preferenciáinak megfelelően.
+2. **Időt fektessen be a képzésbe:** Ha az eszköz tanulási funkciókat kínál, használja azokat! Írási mintákat küldhet, visszajelzést adhat a javaslatokról, és testreszabhatja a beállításokat az Ön preferenciáinak megfelelően.
 
-3. **Mindig tekintse át és finomítsa:** Az AI által generált tartalmat első vázlatként kezelje. ProOlvasson figyelmesen, ellenőrizze a pontosságot, és ami a legfontosabb, adja hozzá személyes érintését, és gondoskodjon a megfelelő hangnemről.
+3. **Mindig tekintse át és finomítsa:** Az AI által generált tartalmat első vázlatként kezelje. Olvasson figyelmesen, ellenőrizze a pontosságot, és ami a legfontosabb, adja hozzá személyes érintését, és gondoskodjon a megfelelő hangnemről.
 
 4. **Kezdje kicsiben:** Kezdje az AI-t alacsony tétű, egyszerű feladatokhoz, például válaszok megfogalmazásához a rutinkérdésekre vagy a belső frissítések összegzéséhez, mielőtt a kritikus külső kommunikációhoz támaszkodna rá.
 

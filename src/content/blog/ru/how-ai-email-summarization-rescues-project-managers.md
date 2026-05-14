@@ -68,7 +68,6 @@ AI анализирует текст в письмах, выделяет клю�
 
 - **Пример для PMs:** При суммаризации треда про критический bug fix extractive summary может вытащить предложения вроде: "User reported critical bug 'LoginFail' impacting all EU users.", "Dev team confirmed the root cause is the authentication module update from Tuesday.", и "A hotfix patch is scheduled for deployment Friday at 5 PM CET."
 
-\[Placeholder for Image: Diagram comparing extractive and abstractive summarization]Extractive summarization pulls key sentences directly, while abstractive summarization understands the content and generates a new, concise overview.
 
 **Abstractive Summarization:**\
 Этот метод более продвинутый и пытается суммировать так, как это сделал бы человек. AI сначала читает и понимает _смысл_ всего разговора или документа. Затем он генерирует _новые_ предложения своими словами, чтобы кратко передать суть. Часто это опирается на продвинутые AI‑модели вроде тех, что стоят за ChatGPT или Google Gemini, которые умеют перефразировать, объединять идеи и синтезировать информацию.

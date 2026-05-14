@@ -11,7 +11,7 @@ draft: false
 
 நவீன நிபுணரின் இன்பாக்ஸ் ஒரு தகவல்தொடர்புக் கருவியாகக் குறைவாகவும், டிஜிட்டல் டிரெட்மில் போலவும், எப்போதும் கவனத்தைக் கோருகிறதா? மின்னஞ்சல் ஓவர்லோடுடனான போராட்டம் வணிக உலகில் கிட்டத்தட்ட உலகளாவிய அனுபவமாகும். புள்ளிவிவரங்கள் ஒரு அப்பட்டமான படத்தை வரைகின்றன: சராசரி அலுவலகப் பணியாளர் தினமும் இரண்டு மணி நேரத்திற்கும் மேலாக செய்திகளைப் படிக்கவும் பதிலளிப்பதற்காகவும் செலவிடுகிறார், அடிக்கடி ஒரு நாளைக்கு 15 முறை மின்னஞ்சலைச் சரிபார்க்கிறார் [(Forbes, Timeular, Timewatch)](https://lifehackmethod.com/blog/time-management-statistics/). இதை ஒருங்கிணைத்து, [Mailbird கணக்கெடுப்பு](https://www.getmailbird.com/email-overload-survey/) பல தொழில் வல்லுநர்களுக்கு, அவர்களின் வாராந்திர மின்னஞ்சல் தொகுதியில் வெறும் 10% அல்லது அதற்கும் குறைவானது உண்மையில் வணிக-முக்கியமானது என்பதை வெளிப்படுத்தியது. இந்த திறமையின்மை ஒரு குறிப்பிடத்தக்க நேர வடிகால் என மொழிபெயர்க்கப்பட்டுள்ளது, ஒரு ஊழியருக்கு ஒவ்வொரு வாரமும் 10 மணிநேர உற்பத்தி வேலை செலவாகும். இது ஒரு சிறிய எரிச்சல் அல்ல; இது உற்பத்தித்திறனில் கணிசமான வடிகால் மற்றும் பணியிட அழுத்தத்தின் அங்கீகரிக்கப்பட்ட ஆதாரமாக உள்ளது. மாறாக, பயனுள்ள தகவல் தொடர்பு மற்றும் இணைப்பை [(McKinsey & Company)](https://www.oak.com/blog/internal-communications-statistics/) வளர்க்கும் நிறுவனங்களில், பணியாளர் உற்பத்தித்திறன் 20-25% வரை குறிப்பிடத்தக்க அதிகரிப்பைக் காண்கிறது என்று ஆராய்ச்சி சுட்டிக்காட்டுகிறது.
 
-![Illustration of a stressed office worker buried under a mountain of emails](/blog/images/SVgVex2N6ggoB57zielUz1L6INA.png)
+![மின்னஞ்சல்களின் குவியலுக்குள் புதைந்திருக்கும் அழுத்தமான office worker-ஐ காட்டும் illustration](/blog/images/SVgVex2N6ggoB57zielUz1L6INA.png)
 
 மின்னஞ்சல் ஓவர்லோட் என்பது தொழில் வல்லுநர்களுக்கு மன அழுத்தம் மற்றும் உற்பத்தியை இழக்கும் பொதுவான ஆதாரமாகும்
 
@@ -77,7 +77,7 @@ AI மின்னஞ்சல் உதவியாளர்கள் பொத
 
 இந்த இடத்தில் பல கருவிகள் உருவாகி வருகின்றன. **Gmailக்கான Gemini**, Google இன் சொந்த தீர்வாக, ஸ்மார்ட் கம்போஸ் மற்றும் சுருக்கம் போன்ற அம்சங்களை Workspace சூழலுக்குள் நேரடியாக ஒருங்கிணைக்கிறது [(Auto Gmail)](https://autogmail.com/gmail-ai-extensions-a-complete-guide-for-2025). **SaneBox** புத்திசாலித்தனமான வடிகட்டல் மற்றும் முன்னுரிமைக்காக AI ஐ பெரிதும் பயன்படுத்துகிறது; குறைவான சிதறலுடன், எளிதாக நிர்வகிக்கக்கூடிய இன்பாக்ஸ் அனுபவத்தை உருவாக்குவதே அதன் நோக்கம் [(Zapier)](https://zapier.com/blog/best-ai-email-assistant/). மின்னஞ்சல் தொகுப்பு அம்சங்களுக்காக அறியப்படும் **Shortwave** [(Zapier)](https://zapier.com/blog/best-ai-email-assistant/) சுருக்கம் போன்ற பணிகளுக்கும் AI ஐ இணைக்கிறது [(Shortwave)](https://www.shortwave.com/). Flowrite [(DigitalOcean)](https://www.digitalocean.com/resources/articles/ai-email-assistants), SmartWriter [(DigitalOcean)](https://www.digitalocean.com/resources/articles/ai-email-assistants), மற்றும் Klart AI Mail Assistant [(Auto Gmail)](https://autogmail.com/gmail-ai-extensions-a-complete-guide-for-2025) போன்ற பிற கருவிகள், AI இயக்கும் மின்னஞ்சல் தீர்வுகளுக்கான சந்தை வளர்ச்சியை மேலும் காட்டுகின்றன.
 
-![Infographic showing icons representing AI email assistant features like smart drafting, email summarization, and intelligent triage/prioritization](/blog/images/vOJdPeIX5o7PH4tbOaIrk812C0M.jpg)
+![Smart drafting, email summarization மற்றும் intelligent triage/prioritization போன்ற AI email assistant அம்சங்களை குறிக்கும் icons கொண்ட infographic](/blog/images/vOJdPeIX5o7PH4tbOaIrk812C0M.jpg)
 
 AI மின்னஞ்சல் உதவியாளர்கள் இன்பாக்ஸ் நிர்வாக நேரத்தை கணிசமாகக் குறைக்க சுருக்கப்படுத்தல் மற்றும் ஸ்மார்ட் வரைவு போன்ற மேம்பட்ட அம்சங்களை வழங்குகிறார்கள்.
 

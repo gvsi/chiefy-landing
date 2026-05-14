@@ -77,7 +77,7 @@ Gmail itsessään tarjoaa useita ominaisuuksia, jotka on suunniteltu auttamaan j
 
 Vaikka tarra- ja suodatinjärjestelmä on tehokas, erittäin rakeisen tarra- ja suodatinjärjestelmän luomisesta ja ylläpidosta voi tulla aikaa vievä hallinnollinen tehtävä, mikä saattaa estää ajansäästötavoitteen, jos sitä ei toteuteta pragmaattisesti.
 
-### The Power of Time Blocking & Batch Processing for Email
+### The Power of Time Blocking & batchbehandling for Email
 
 Sen sijaan, että antaisit sähköpostin sanella päivääsi, ajan esto ja tehtävien ryhmittely antavat sinut takaisin hallintaan. [Time blocking](https://todoist.com/productivity-methods/time-blocking) tarkoittaa tiettyjen aikalohkojen ajoittamista kalenteriisi omistettuja tehtäviä varten. [Task Batching](https://hbr.org/2017/07/stop-switching-between-tasks-all-day-long) tarkoittaa samankaltaisten pienten tehtävien ryhmittelyä ja niiden tekemistä kerralla.
 
@@ -116,7 +116,6 @@ Vaikka nämä työkalut ovat hyödyllisiä, ne käsittelevät usein tiettyjä ki
 
 ### The Rise of the AI Email Assistant: Your Inbox's Intelligent Co-Pilot
 
-**Image PlaceholderQuery:** futuristinen grafiikka AI-assistentti auttaa sähköpostin kanssa**Vaihtoehtoinen teksti:** Abstrakti grafiikka AI:stä, joka auttaa henkilöä hallitsemaan sähköpostilaatikkoaan tehokkaasti.**Teksti:** AI-sähköpostiavustajat hyödyntävät teknologiaa automatisoidakseen ja parantaakseen postilaatikon hallintaa.
 
 Anna AI-sähköpostiavustaja. Nämä työkalut edustavat seuraavaa kehitystä sähköpostin hallinnassa. Ne hyödyntävät tekoälyä – erityisesti Natural Language Processing (NLP) ja Machine Learning (ML) – tehtäviä, jotka perinteisesti vaativat huomattavaa manuaalista työtä.
 
@@ -150,7 +149,6 @@ AI-sähköpostiavustajat menevät yksinkertaista automaatiota pidemmälle; ne ta
 
 ### AI Triage & Prioritization: Cutting Through the Clutter to Find What's Urgent
 
-**Image PlaceholderQuery:** kaavio AI-sähköpostin lajittelu tärkeiden sähköpostien lajittelusta**Vaihtoehtoinen teksti:** Kaavio, joka näyttää, kuinka AI lajittelu lajittelee saapuvat sähköpostit automaattisesti tärkeysjärjestyksen mukaan.**Teksti:** AI Triage tuo älykkäästi esiin kiireelliset sähköpostit ja vähentää melua.
 
 **Ongelma:** Tavallinen Gmail-postilaatikkosi on kronologinen syöte, jossa uutiskirjeet ja CC-muistiot kilpailevat huomiosta kiireellisten asiakaspyyntöjen ja kriittisten määräaikojen ohella. Tämän tulvan manuaalinen lajitteleminen löytääksesi sen, mikä todella tarvitsee huomiotasi, _nyt_ kuluttaa arvokasta aikaa ja henkistä energiaa.
 

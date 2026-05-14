@@ -36,7 +36,7 @@ Ajattele **tarroja** joustavina, tehokkaina tunnisteina, joita voit liittää s�
 
 - **Käytä edistyneitä operaattoreita:** Tee suodattimista tarkempia hakuoperaattoreilla, kuten **from:**, **to:**, **subject:**, **has:attachment**, **list:** (postituslistoille), **TAI** ja **-** (poissulje termi). Esimerkki: Suodata kaikki yrityksen sisäiset sähköpostit _paitsi_ suoralta esimieheltäsi: **from:*@yourcompany.com -from:manager\@yourcompany.com**.
 
-**Parhaat käytännöt:** Vaikka se on tehokas, älä mene yli laidan. Google suosittelee tarrojen säilyttämistä alle 500:ssa, kun taas jotkut laitokset suosittelevat alle 5 000:aa, koska liialliset tarrat voivat hidastaa suorituskykyä. Keskity strategisiin luokkiin ja luota yksityiskohtien etsimiseen. Tarkista ja säädä suodattimesi säännöllisesti varmistaaksesi, että ne pysyvät merkityksellisinä. Tavoitteena ei ole nimetä kaikkea, vaan automatisoida ennakoitavissa olevien sähköpostityyppien lajittelu.
+**Parhaat käytännöt:** Vaikka se on tehokas, älä mene yli laidan. Googleuosittelee tarrojen säilyttämistä alle 500:ssa, kun taas jotkut laitokset suosittelevat alle 5 000:aa, koska liialliset tarrat voivat hidastaa suorituskykyä. Keskity strategisiin luokkiin ja luota yksityiskohtien etsimiseen. Tarkista ja säädä suodattimesi säännöllisesti varmistaaksesi, että ne pysyvät merkityksellisinä. Tavoitteena ei ole nimetä kaikkea, vaan automatisoida ennakoitavissa olevien sähköpostityyppien lajittelu.
 
 ### Mastering Gmail Search: Find Anything Instantly
 
@@ -64,7 +64,7 @@ Jopa muutaman näistä hallitseminen voi nopeuttaa tiedonhakua dramaattisesti, m
 
 Gmail tarjoaa useita tapoja tuoda automaattisesti esiin se, mitä _se pitää_ tärkeänä, mikä auttaa sinua keskittymään. Vaihtoehtojen ymmärtäminen on tärkeää:
 
-- **Oletuspostilaatikko välilehdillä:** Tämä on monien vakionäkymä. Gmail lajittelee sähköpostit automaattisesti luokkiin, kuten Ensisijainen, Sosiaalinen, Promootiot, Päivitykset ja Foorumit. Se on yksinkertainen eikä vaadi asennusta, vaan sopii joukkopostin peruserotteluun. Tärkeät sähköpostit voivat kuitenkin joskus joutua väärin.
+- **Oletuspostilaatikko välilehdillä:** Tämä on monien vakionäkymä. Gmail lajittelee sähköpostit automaattisesti luokkiin, kuten Ensisijainen, Sosiaalinen, Tarjoukset, Päivitykset ja Foorumit. Se on yksinkertainen eikä vaadi asennusta, vaan sopii joukkopostin peruserotteluun. Tärkeät sähköpostit voivat kuitenkin joskus joutua väärin.
 
 - **Tärkeysmerkit:** Nämä ovat sähköpostien vieressä olevia keltaisia ​​nuolimerkkejä. Gmail käyttää niitä automaattisesti käyttäytymisesi perusteella: kenelle lähetät sähköpostia usein, mitä sähköposteja avaat tai joihin vastaat, lukemiesi sähköpostien avainsanat ja tähdellä merkitsemäsi tai poistamasi sähköpostit. Voit korjata Gmailin napsauttamalla merkkiä manuaalisesti, mikä auttaa harjoittelemaan sen algoritmia ajan myötä.
 
@@ -142,7 +142,7 @@ David Allenin GTD-metodologia on kattava järjestelmä tehtävien ja sitoumusten
 
 GTD tarjoaa vankan kehyksen, jolla varmistetaan, että mikään ei putoa halkeamien läpi, mikä muuttaa sähköpostit toimiviksi tehtäviksi suuremmassa tuottavuusjärjestelmässä.
 
-### The Power of Batch Processing
+### The Power of batchbehandling
 
 Sen sijaan, että reagoitaisiin jokaiseen saapuvaan sähköposti-ilmoitukseen, eräkäsittelyyn kuuluu sähköpostin tarkistaminen ja käsittely omistetuissa ajoitetuissa aikalohkoissa. Voit esimerkiksi tarkistaa sähköpostisi 30–60 minuuttia klo 10, 14 ja 16 ja pitää sen suljettuna muun ajan.
 

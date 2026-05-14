@@ -37,7 +37,7 @@ draft: false
 
 काय काम करत आहे आणि काय नाही, हे माहीतच नसेल तर ईमेल सपोर्ट कसा सुधाराल? मूलभूत ईमेल प्रणाली प्रतिसाद वेळ, निराकरण दर, किंवा एजंट उत्पादकता यांसारख्या महत्त्वाच्या मेट्रिक्सबद्दल फारशी किंवा काहीच दृश्यमानता देत नाहीत. डेटाशिवाय अडथळे ओळखणे, सामान्य ग्राहक त्रास-बिंदू समजणे, किंवा सपोर्ट प्रयत्नांची परिणामकारकता मोजणे हे अंदाजावर चालते. म्हणजेच, तुम्ही प्रत्यक्षात आंधळेपणाने उडत आहात, आणि कामगिरी सुधारण्यासाठी माहितीपूर्ण निर्णय घेऊ शकत नाही.
 
-![Dashboard showing customer service metrics with a red alert on average email response time, indicating inefficiency](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+![Average email response time वर red alert दाखवत customer service metrics दाखवणारा dashboard, जो inefficiency दर्शवतो](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 संथ ईमेल प्रतिसाद वेळा थेट ग्राहक समाधानावर परिणाम करतात आणि व्यवसाय गमावण्यास कारणीभूत ठरू शकतात.
 
@@ -197,7 +197,7 @@ AI संभाषणातील विषय, भावना प्रवा�
   \
 
 
-  ![Image depicting a customer service agent using software with AI suggestions to craft a personalized and empathetic email response](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+  ![Personalized आणि empathetic email response तयार करण्यासाठी AI suggestions असलेले software वापरत असलेला customer service agent दाखवणारे image](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 असाधारण ग्राहक सेवेची गुरुकिल्ली म्हणजे AI कार्यक्षमता आणि मानवी सहानुभूती यांचा समतोल.
 

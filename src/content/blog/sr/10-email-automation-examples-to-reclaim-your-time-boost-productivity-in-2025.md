@@ -102,7 +102,7 @@ Automatizacija e-pošte može se povezati sa drugim procesima i pokrenuti akcije
 
 Iako se često povezuje sa marketingom, slanje automatizovane e-pošte dobrodošlice kada se novi klijent prijavi ili doda novi kontakt može biti odlična praksa produktivnosti. Postavlja očekivanja, pruža ključne informacije i pozitivno započinje vezu. Platforme poput [ActiveCampaign](https://www.activecampaign.com/glossary/email-automation) ističu sekvence dobrodošlice u više koraka.
 
-### Zadatak/ProIntegracija upravljanja objektom
+### Integracija zadataka i upravljanja projektima
 
 Alati poput [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-gs) pokazuju kako automatizacija e-pošte može da se integriše sa upravljanjem projektima. E-poruke mogu automatski da postanu zadaci na Kanban tabli u vašem prijemnom sandučetu, sa ažuriranjima statusa koja pokreću obaveštenja, održavajući timove usklađenim bez promene platforme.
 

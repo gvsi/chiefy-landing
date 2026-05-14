@@ -38,7 +38,7 @@ Míg a céloktól függően különféle elemeket adhat hozzá, bizonyos összet
 | **Leiratkozási link** | A CAN-SPAM, a GDPR és a CASL jogilag előírja a marketinges e-mailekhez. Bizalmat épít, és tiszteletben tartja a felhasználó választását. | Világosnak, szembetűnőnek és könnyen használhatónak kell lennie (ideális esetben egyetlen kattintással). A kérések azonnali teljesítése (általában 10 munkanapon belül). |
 | **Fizikai postacím** | Jogilag megköveteli a CAN-SPAM és a CASL. Hozzáteszi a legitimitást. | Lehet utcai cím, bejelentett postacím. Doboz, vagy regisztrált privát postafiók. |
 | **Feladó azonosítása** | Törvény előírja. Bizalmat épít. | Világosan adja meg cége nevét. Győződjön meg arról, hogy a „Feladó” és a „Válaszcím” címek pontosak. |
-| **Kapcsolatfelvétel** | ProMódot biztosít a címzetteknek a kapcsolatfelvételre. Bizalmat épít. | Adja meg a webhely hivatkozását, a támogatási e-mail címet vagy a telefonszámot. |
+| **Kapcsolatfelvétel** | Módot biztosít a címzetteknek a kapcsolatfelvételre. Bizalmat épít. | Adja meg a webhely hivatkozását, a támogatási e-mail címet vagy a telefonszámot. |
 | **Adatvédelmi irányelvek linkje** | Elengedhetetlen a GDPR-megfelelés és a bevált gyakorlat szempontjából mindenhol. Az adathasználat átláthatósága. | Link egy világos, érthető irányelvre a webhelyén. |
 
 Tekintsd úgy ezeket, mint a lábléced nem forgatható alapját. Ezek hiánya befolyásolhatja a teljesítést, és jogi problémákhoz vezethet.

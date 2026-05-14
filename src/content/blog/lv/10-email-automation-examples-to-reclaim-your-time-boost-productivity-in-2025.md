@@ -1,5 +1,5 @@
 ---
-title: "10+ e-pasta automatizācijas piemēri, lai atgūtu savu laiku un palielinātu Pro produktivitāti 2025. gadā"
+title: "10+ e-pasta automatizācijas piemēri, lai atgūtu savu laiku un palielinātu produktivitāti 2025. gadā"
 description: "Atklājiet praktiskus e-pasta automatizācijas piemērus kārtošanai, atbildēm, turpmākajiem ziņojumiem un citām darbībām. Palieliniet produktivitāti ar šiem 2025. gada padomiem un rīkiem."
 publishedAt: 2025-04-07
 author: "Duet Mail Team"
@@ -103,7 +103,7 @@ E-pasta automatizācija var savienoties ar citiem procesiem un aktivizēt darbī
 
 Lai gan automātiska apsveikuma e-pasta nosūtīšana bieži tiek saistīta ar mārketingu, kad reģistrējas jauns klients vai tiek pievienota jauna kontaktpersona, tā var būt lieliska produktivitātes veicināšanas prakse. Tā nosaka cerības, sniedz svarīgu informāciju un pozitīvi uzsāk attiecības. Tādas platformas kā [ActiveCampaign](https://www.activecampaign.com/glossary/email-automation) izceļ daudzpakāpju apsveikuma secības.
 
-### Uzdevumu/Pro objektu pārvaldības integrācija
+### Uzdevumu/projektu pārvaldības integrācija
 
 Tādi rīki kā [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-gs) demonstrē, kā e-pasta automatizāciju var integrēt ar projektu vadību. E-pasti var automātiski kļūt par uzdevumiem Kanban tāfelē jūsu iesūtnē, statusa atjauninājumiem aktivizējot paziņojumus, tādējādi nodrošinot komandu saskaņotību, nemainot platformas.
 
@@ -133,7 +133,7 @@ Uzņēmumi, kas izmanto mārketinga automatizāciju, ievērojami palielina kvali
 
 - **Mārketinga automatizācijas platformas (MAP):** Tādi rīki kā Mailchimp, ActiveCampaign, HubSpot, Klaviyo, Brevo u. c. ir jaudīgi liela mēroga e-pasta mārketinga kampaņu vadīšanai, klientu ceļojumu pārvaldībai, potenciālo klientu vērtēšanai un bieži vien ietver CRM iespējas. Tie ir lieliski piemēroti mārketinga un pārdošanas komandām, taču var būt pārspīlēti vai mazāk koncentrēti uz individuālu iesūtnes produktivitāti.
 
-- **Mākslīgā intelekta e-pasta asistenti un Pro produktivitātes rīki:** Tādi rīki kā SaneBox, Flowrite, Gmelius, Superhuman un [Duet Mail](https://duetmail.com/lv/lv) ir īpaši izstrādāti, lai uzlabotu individuālo vai komandas e-pasta produktivitāti. Tie koncentrējas uz iesūtnes pārvaldības problēmu risināšanu, piemēram, triāžu, rakstīšanas, apkopošanas, sadarbības un darbplūsmas integrāciju e-pasta vidē. Tie bieži vien ir labāk piemēroti aizņemtiem profesionāļiem, ārštata darbiniekiem un zināšanu darbiniekiem, kuri ikdienā slīkst e-pastā.
+- **Mākslīgā intelekta e-pasta asistenti un produktivitātes rīki:** Tādi rīki kā SaneBox, Flowrite, Gmelius, Superhuman un [Duet Mail](https://duetmail.com/lv/lv) ir īpaši izstrādāti, lai uzlabotu individuālo vai komandas e-pasta produktivitāti. Tie koncentrējas uz iesūtnes pārvaldības problēmu risināšanu, piemēram, triāžu, rakstīšanas, apkopošanas, sadarbības un darbplūsmas integrāciju e-pasta vidē. Tie bieži vien ir labāk piemēroti aizņemtiem profesionāļiem, ārštata darbiniekiem un zināšanu darbiniekiem, kuri ikdienā slīkst e-pastā.
 
 Pareizā izvēle ir atkarīga no jūsu galvenā mērķa. Ja tas ir kampaņu pārvaldība, apsveriet MAP. Ja tas ir personīgās iesūtnes iekarošana un laika atgūšana, izpētiet mākslīgā intelekta palīgus un produktivitātes rīkus.
 

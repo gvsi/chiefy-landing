@@ -117,8 +117,6 @@ Sebbene utili, questi strumenti spesso affrontano specifici punti critici piutto
 
 ### L'ascesa dell'assistente email AI: il copilota intelligente della tua casella di posta
 
-**Image PlaceholderQuery:** futuristico assistente grafico AI che aiuta con le email**Testo alternativo:** grafico astratto che mostra un'intelligenza artificiale che aiuta una persona a gestire la propria casella di posta elettronica in modo efficiente.**Didascalia:** Gli assistenti email AI sfruttano la tecnologia per automatizzare e migliorare la gestione della posta in arrivo.
-
 Inserisci l'assistente e-mail AI. Questi strumenti rappresentano la prossima evoluzione nella gestione della posta elettronica, sfruttando l’intelligenza artificiale – in particolare l’elaborazione del linguaggio naturale (NLP) e il machine learning (ML) – per automatizzare e migliorare le attività che tradizionalmente richiedevano un notevole sforzo manuale.
 
 **Come funzionano (semplificato):**
@@ -151,15 +149,13 @@ Gli assistenti e-mail AI vanno oltre la semplice automazione; offrono funzionali
 
 ### Triage e definizione delle priorità dell'intelligenza artificiale: eliminare il disordine per trovare ciò che è urgente
 
-**Image PlaceholderQuery:** diagramma del triage AI e-mail che ordina le e-mail importanti**Testo alternativo:** Diagramma che mostra come il triage AI ordina automaticamente le e-mail in arrivo in base alla priorità.**Didascalia:** Il triage AI rileva in modo intelligente le e-mail urgenti, eliminando il rumore.
-
 **Il problema:** la tua casella di posta Gmail standard è un feed cronologico in cui newsletter e promemoria in CC competono per l'attenzione insieme alle richieste urgenti dei clienti e alle scadenze critiche. Ordinare manualmente questo flusso per trovare ciò che veramente richiede la tua attenzione _adesso_ consuma tempo prezioso ed energia mentale.
 
 **La soluzione AI:** AI Triage utilizza NLP e ML per analizzare in modo intelligente le e-mail in arrivo nel momento in cui arrivano. Valuta l'urgenza cercando parole chiave ("urgente", "scadenza"), comprende il contesto (si tratta di una richiesta che richiede una decisione?), identifica i mittenti importanti in base alle interazioni passate e misura persino il sentiment. L'intelligenza artificiale apprende le _tue_ priorità nel tempo, diventando sempre più precisa nel distinguere il segnale dal rumore. Non si tratta solo di un filtraggio basato su regole; è un giudizio automatizzato.
 
 **Il vantaggio:** Invece di scavare nella pila, l'intelligenza artificiale fa emergere automaticamente le e-mail che richiedono un'azione immediata. Ciò riduce drasticamente i tempi di smistamento, garantisce che gli elementi critici non vengano persi, riduce lo stress derivante dal sovraccarico della casella di posta e ti consente di concentrare le tue energie su un lavoro di grande impatto piuttosto che sull'amministrazione della casella di posta.
 
-**Duet Mail Link (contestuale):** _Questo ordinamento intelligente è esattamente ciò di cui hanno bisogno i professionisti impegnati. È qui che strumenti come _[_Duet Mail_](https://duetmail.com/it)_ eccellono, utilizzando **AI Triage** per analizzare l'urgenza, le azioni richieste e le decisioni, presentandole chiaramente in una **Dashboard mirata** in modo da sapere immediatamente cosa richiede attenzione._
+**Link contestuale Duet Mail:** _Questo ordinamento intelligente è esattamente ciò di cui hanno bisogno i professionisti impegnati. È qui che strumenti come _[_Duet Mail_](https://duetmail.com/it)_ eccellono, utilizzando **AI Triage** per analizzare l'urgenza, le azioni richieste e le decisioni, presentandole chiaramente in una **Dashboard mirata** in modo da sapere immediatamente cosa richiede attenzione._
 
 ### Riepilogo intelligente: comprensione istantanea di thread e allegati lunghi
 

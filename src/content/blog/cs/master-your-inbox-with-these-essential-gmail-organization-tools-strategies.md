@@ -107,7 +107,7 @@ Inbox Zero, popularizovaný odborníkem na produktivitu Merlinem Mannem, není s
 
 **Použití Inbox Zero v Gmail:**
 
-- **Process Pravidelně:** Vyhraďte si konkrétní časy denně pro zpracování vaší doručené pošty (Mann navrhuje 3krát denně). Vypněte oznámení, abyste se vyhnuli neustálému vyrušování.
+- **Zpracovávejte pravidelně:** Vyhraďte si konkrétní časy denně pro zpracování vaší doručené pošty (Mann navrhuje 3krát denně). Vypněte oznámení, abyste se vyhnuli neustálému vyrušování.
 
 - **Použijte Akce:**
 
@@ -145,7 +145,7 @@ Metodika GTD Davida Allena je komplexní systém pro správu úkolů a závazků
 
 GTD poskytuje robustní rámec, který zajišťuje, že nic nepropadne trhlinami, a přeměňuje e-maily na akceschopné úkoly v rámci většího systému produktivity.
 
-### Síla dávky Processing
+### Síla dávkového zpracování
 
 Namísto reakce na každé oznámení příchozího e-mailu zahrnuje dávkové zpracování kontrolu a zpracování e-mailů ve vyhrazených, naplánovaných časových blocích. Můžete například zkontrolovat e-mail pro 30-60 minutes na 10 AM, 2 PM a 4 PM a po zbytek času jej nechat zavřený.
 
@@ -159,7 +159,7 @@ Namísto reakce na každé oznámení příchozího e-mailu zahrnuje dávkové z
 
 - **Snížení stresu:** Vytváří pocit kontroly a pokroku spíše než neustálé reaktivity.
 
-**Použití dávkového Processing v Gmail:** Vypněte e-mailová upozornění na ploše a mobilním zařízení. Naplánujte si v kalendáři konkrétní bloky e-mailů a držte se jich. Během těchto bloků zpracujte svou doručenou poštu systematicky pomocí principů ze Inbox Zero nebo GTD.
+**Použití dávkového zpracování v Gmailu:** Vypněte e-mailová upozornění na ploše a mobilním zařízení. Naplánujte si v kalendáři konkrétní bloky e-mailů a držte se jich. Během těchto bloků zpracujte svou doručenou poštu systematicky pomocí principů ze Inbox Zero nebo GTD.
 
 ### Princip OHIO (pouze jednou)
 

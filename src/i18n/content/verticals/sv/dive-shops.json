@@ -93,7 +93,7 @@
       "avatarLetter": "D",
       "avatarColor": "lavender",
       "subject": "Sommarrea — 25 % rabatt på våtdräkter",
-      "pill": "Prorörelser",
+      "pill": "Kampanjer",
       "pillColor": "lavender"
     }
   ],
@@ -127,13 +127,13 @@
     {
       "name": "Kapten Mike T.",
       "title": "Dykbåtskapten, FL",
-      "quote": "Jag kör båtturer fredag till söndag och butiken är bara öppen några timmar på måndagar. Certifieringsfrågor och reseförfrågningar hopar sig medan jag är under vattnet.Duet utkast till svar med mina priser, dykplatser och vad som ingår – jag granskar dem mellan dyken.",
+      "quote": "Jag kör båtturer fredag till söndag och butiken är bara öppen några timmar på måndagar. Certifieringsfrågor och reseförfrågningar hopar sig medan jag är under vattnet. Duet utkast till svar med mina priser, dykplatser och vad som ingår – jag granskar dem mellan dyken.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen och Mark S.",
       "title": "PADI Dykcenter, HI",
-      "quote": "Vi kör dyk, snorkelturer och valskådning från samma båtar. E-postvarianten är galen - certifikatfrågor, gruppbokningar, uthyrning av utrustning, väderkontroller.Duet sorterar allt och skapar svar som vet skillnaden. Absolut livräddare.",
+      "quote": "Vi kör dyk, snorkelturer och valskådning från samma båtar. E-postvarianten är galen - certifikatfrågor, gruppbokningar, uthyrning av utrustning, väderkontroller. Duet sorterar allt och skapar svar som vet skillnaden. Absolut livräddare.",
       "avatarKey": "jennifer"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Sarah K.",
       "title": "Dykinstruktör och guide, NC",
-      "quote": "Jag håller kurser på morgonen och guidar dyk på eftermiddagen. Det finns bokstavligen ingen tid att svara på e-post.Duet lärde sig mitt kursschema, priser, till och med min avbokningsregler. Kunder kan inte se skillnad.",
+      "quote": "Jag håller kurser på morgonen och guidar dyk på eftermiddagen. Det finns bokstavligen ingen tid att svara på e-post. Duet lärde sig mitt kursschema, priser, till och med min avbokningsregler. Kunder kan inte se skillnad.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Ja. Duet fungerar med Gmail och Outlook, så det fungerar varhelst din e-post fungerar – inklusive din telefon. Utkast visas automatiskt i din inkorg. Mellan dyken eller tillbaka vid kajen granskar och skickar du med ett tryck. De flesta dykoperatörer berättar att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
     }
   ],
-  "pricingNote": "För $150/dyk med en grupp på 6, betalar en sparad resa för över ett år avPro."
+  "pricingNote": "För $150/dyk med en grupp på 6, betalar en sparad resa för över ett år av Pro."
 }

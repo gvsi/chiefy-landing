@@ -23,9 +23,9 @@ Kāpēc veltīt dārgo laiku šai mazajai telpai? Ieguvumi ir ievērojami:
 
 - **Uzticēšanās un ticamība:** Kontaktinformācijas un saišu uz politikām iekļaušana apliecina pārredzamību un veido uzticību ar jūsu auditoriju.
 
-- **Iesaistīšanās un navigācija:** Pro Nodrošiniet ērtu piekļuvi sociālo mediju profiliem, tīmekļa vietņu saitēm, preferenču centriem vai pat sekundāriem aicinājumiem uz darbību (piemēram, lietotnes lejupielādei).
+- **Iesaistīšanās un navigācija:** Nodrošiniet ērtu piekļuvi sociālo mediju profiliem, tīmekļa vietņu saitēm, preferenču centriem vai pat sekundāriem aicinājumiem uz darbību (piemēram, lietotnes lejupielādei).
 
-- **Piegādes rādītāji:** ProPerfekti formatētas kājenes ar obligātajiem elementiem palīdz e-pasta klientiem (piemēram, Gmail, Outlook) signalizēt, ka jūsu e-pasti nav surogātpasts.
+- **Piegādes rādītāji:** Pareizi formatētas kājenes ar obligātajiem elementiem palīdz e-pasta klientiem (piemēram, Gmail, Outlook) signalizēt, ka jūsu e-pasti nav surogātpasts.
 
 ## Obligāti nepieciešamie elementi: katra e-pasta kājenes būtiski elementi
 
@@ -37,7 +37,7 @@ Lai gan atkarībā no mērķiem varat pievienot dažādus elementus, dažas sast
 | **Atteikšanās no abonēšanas saite** | CAN-SPAM, GDPR un CASL juridiski noteikta mārketinga e-pastiem. Veido uzticību un respektē lietotāju izvēli. | Jābūt skaidram, redzamam un viegli lietojamam (ideālā gadījumā ar vienu klikšķi). Pieprasījumi tiek izpildīti nekavējoties (parasti 10 darba dienu laikā). |
 | **Fiziskā pasta adrese** | CAN-SPAM un CASL likumā noteikta adrese. Pievieno leģitimitāti. | Var būt ielas adrese, reģistrēta pasta nodalījuma kastīte vai reģistrēta privāta pastkastīte. |
 | **Sūtītāja identifikācija** | Likumā noteikts pienākums. Veido uzticību. | Skaidri norādiet sava uzņēmuma nosaukumu. Pārliecinieties, vai sūtītāja un atbildētāja adreses ir precīzas. |
-| **Kontaktinformācija** | ProNodrošina veidu, kā adresāti var sazināties. Veido uzticību. | Iekļaujiet tīmekļa vietnes saiti, atbalsta e-pasta adresi vai tālruņa numuru. |
+| **Kontaktinformācija** | Nodrošina veidu, kā adresāti var sazināties. Veido uzticību. | Iekļaujiet tīmekļa vietnes saiti, atbalsta e-pasta adresi vai tālruņa numuru. |
 | **Saite uz privātuma politiku** | Būtiski GDPR atbilstības un labas prakses nodrošināšanai visur. Pārredzamība par datu izmantošanu. | Saite uz skaidru, saprotamu politiku jūsu tīmekļa vietnē. |
 
 Uztveriet tos kā neapspriežamu jūsu kājenes pamatu. To trūkums var ietekmēt piegādes kvalitāti un radīt juridiskas problēmas.
@@ -70,7 +70,7 @@ Izmantojiet sava zīmola logotipu, krāsu paleti un fontus (labākai saderībai 
 
 ### Nodrošiniet lasāmību un pieejamību
 
-Izmantojiet augsta kontrasta krāsas starp tekstu un fonu, īpaši neliela izmēra juridiskam tekstam. Izmantojiet semantisko HTML (piemēram, **\<p>** rindkopām), lai palīdzētu ekrāna lasītājiem. Pro Pievienojiet aprakstošu alternatīvo tekstu visiem izmantotajiem attēliem (piemēram, logotipiem vai sociālo tīklu ikonām).
+Izmantojiet augsta kontrasta krāsas starp tekstu un fonu, īpaši neliela izmēra juridiskam tekstam. Izmantojiet semantisko HTML (piemēram, **\<p>** rindkopām), lai palīdzētu ekrāna lasītājiem. Pievienojiet aprakstošu alternatīvo tekstu visiem izmantotajiem attēliem (piemēram, logotipiem vai sociālo tīklu ikonām).
 
 ## Juridiskās valodas apguve: CAN-SPAM, GDPR un CASL
 

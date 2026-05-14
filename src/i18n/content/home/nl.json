@@ -42,7 +42,7 @@
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re:Product Lanceringstijdlijn",
+        "subject": "Re: Productlanceringstijdlijn",
         "preview": "Hé! Ik wilde even kijken naar de lanceringsmiddelen. Zijn we nog op koers voor volgende week...",
         "pill": "Om te reageren"
       },
@@ -63,7 +63,7 @@
         "from": "Shopify",
         "avatarLetter": "S",
         "subject": "Jouw winkel is klaar voor Black Friday",
-        "pill": "Probewegingen"
+        "pill": "Promoties"
       }
     ],
     "autodraft": "Hallo Alex! Ja, we liggen op koers. Het ontwerpteam heeft gisteren de assets voltooid en vandaag stuur ik de definitieve bestanden door EOD."
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligente herinneringen",
-        "description": "Stel het in en vergeet het.Duet AI onthoudt om op te volgen als anderen niet reageren, zodat er niets door de kieren valt.",
+        "description": "Stel het in en vergeet het. Duet AI onthoudt om op te volgen als anderen niet reageren, zodat er niets door de kieren valt.",
         "ariaLabel": "Intelligente herinneringen",
         "mockCopy": {
           "header": "AI-aangedreven slimme herinneringen",
@@ -203,12 +203,12 @@
       {
         "from": "Stripe",
         "subject": "Je maandafschrift is klaar",
-        "pill": "Probewegingen"
+        "pill": "Promoties"
       },
       {
         "from": "Nieuwsbrief",
         "subject": "Wekelijkse samenvatting",
-        "pill": "Probewegingen"
+        "pill": "Promoties"
       }
     ]
   },
@@ -275,7 +275,7 @@
     ],
     "inputPlaceholder": "Vraag alles...",
     "dynamicResponses": {
-      "processingDefault": "Probeëindigt...",
+      "processingDefault": "Wordt verwerkt...",
       "processingDraft": "Concept genereren...",
       "processingCalendar": "Beschikbaarheid controleren...",
       "draftIntro": "Hier is een conceptantwoord op Accounting:",
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Adviseur",
-        "quote": "Als consultant telt elke minuut.Duet Mail bespaart mij niet alleen tijd, het maakt mijn e-mailcommunicatie ook scherper.",
+        "quote": "Als consultant telt elke minuut. Duet Mail bespaart mij niet alleen tijd, het maakt mijn e-mailcommunicatie ook scherper.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -450,7 +450,7 @@
         "perUser": true,
         "features": [
           {
-            "title": "Alles inPro",
+            "title": "Alles in Pro",
             "description": "Alle functies inbegrepen"
           },
           {
@@ -651,7 +651,7 @@
         "description": "Gratis abonnement met directe samenvattingen, AI-concepten en slimme inbox"
       },
       {
-        "name": "ProPlan",
+        "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MAAND",

@@ -30,7 +30,7 @@ Pirms pievērsties trešo pušu risinājumiem, ir svarīgi izmantot jaudīgās o
 
 ### Etiķetes un filtri: jūsu pirmā aizsardzības līnija
 
-Iedomājieties etiķetes kā īpaši uzlabotas mapes. Atšķirībā no tradicionālajām mapēm, kurās e-pasts var atrasties tikai vienuviet, Gmail ļauj vienam ziņojumam pievienot vairākas etiķetes. Šī elastība ir ļoti svarīga kategorizēšanai (piemēram, "Provēstule X", "Klients Y", "Steidzams", "Kvītis").
+Iedomājieties etiķetes kā īpaši uzlabotas mapes. Atšķirībā no tradicionālajām mapēm, kurās e-pasts var atrasties tikai vienuviet, Gmail ļauj vienam ziņojumam pievienot vairākas etiķetes. Šī elastība ir ļoti svarīga kategorizēšanai (piemēram, "Projekts X", "Klients Y", "Steidzams", "Kvītis").
 
 
 Filtri ir automatizācijas dzinējspēks, kas nodrošina etiķetes. Varat iestatīt noteikumus, lai automātiski lietotu etiķetes, arhivētu ziņojumus, atzīmētu tos kā izlasītus, atzīmētu ar zvaigznīti vai pārsūtītu tos, pamatojoties uz tādiem kritērijiem kā sūtītājs, saņēmējs, tēmas rindiņa vai atslēgvārdi. Kā iesaka [Google Workspace Learning Center](https://support.google.com/a/users/answer/9282734?hl=en), tādu lietu kā informatīvie biļeteni vai regulāri paziņojumi automātiska atzīmēšana un arhivēšana uztur jūsu galveno iesūtni sakārtotāku.
@@ -57,7 +57,7 @@ Gmail meklēšanas josla ir neticami jaudīga, īpaši, izmantojot meklēšanas 
 
 Šo operatoru apgūšana ietaupa milzīgu laiku, salīdzinot ar simtiem e-pasta ziņojumu manuālu ritināšanu.
 
-## Paaugstiniet savu darbplūsmu: labākie Gmail Pro produktivitātes rīki un paplašinājumi
+## Paaugstiniet savu darbplūsmu: labākie Gmail produktivitātes rīki un paplašinājumi
 
 Lai gan Gmail iebūvētās funkcijas ir būtiskas, trešo pušu rīku un Chrome paplašinājumu klāsts var vēl vairāk uzlabot jūsu produktivitāti. Šie rīki bieži vien ir vērsti uz konkrētām problēmām:
 
@@ -126,7 +126,7 @@ Mākslīgā intelekta e-pasta asistentu tirgus strauji attīstās, un vairāki s
 | **Īsviļņu** | Mākslīgā intelekta apvienošana (saistītās tēmas), mākslīgā intelekta apkopošana, mākslīgā intelekta melnraksta palīdzība, fokusa režīms | Inteliģenta organizēšana un apkopošana tieši lietotājam Gmail. Moderna saskarne. | Bezmaksas plāns; Pro \~14 USD (gadā) | Gmail lietotāji slīkst pavedienos, kuriem nepieciešama labāka organizēšana un ātra izpratne. |
 | **Pieaugums** | Mākslīgā intelekta plūsma (prioritāšu noteikšana/kopsavilkums), mākslīgā intelekta ziņojums (melnraksta veidošana, stila apgūšana), tērzēšanai līdzīgs interfeiss, iebūvētas piezīmes/zvani | Pārveido e-pastu par tērzēšanu; jaudīga mākslīgā intelekta prioritāšu plūsma. Starpplatformu. | Bezmaksas plāns; Pro \~$10 | Lietotāji, kas vēlas būtiskas pārmaiņas no tradicionālā e-pasta, spēcīgu mākslīgā intelekta prioritāšu noteikšanu. |
 | **Gemini darba telpai** | Kontekstu apzinoša melnrakstu veidošana, atbilžu ieteikumi, prioritāšu marķieri, apkopošana, integrēta meklēšana | Dzimtā integrācija ar Google darba telpu (Gmail, Docs, Meet utt.). Izmanto Google mākslīgo intelektu. | Iekļauts Workspace Business Standard (14 USD/16,80 USD) un augstākos līmeņos (no 2025. gada sākuma) | Komandas jau ir ieguldījušas līdzekļus Google darba telpā, kas meklē nemanāmu, integrētu mākslīgā intelekta palīdzību. |
-| **Duet Mail** | AI Triage un Focused Dashboard, Authentic AI Drafting (Balss apguve), Smart Summarization, Contextual Awareness | Koncentrēšanās uz autentisku izklausīšanos pēc *jūsu*, dziļa kontekstuālā izpratne, proaktīvs triāžas informācijas panelis. | _(Pašreizējās cenas skatiet tīmekļa vietnē)_ | ProProfesionāļiem un komandām, kurām nepieciešama intensīva komunikācija, kuri meklē mākslīgo intelektu, kas saglabā viņu personīgo balsi un izseko kontekstu dažādos projektos/attiecībās. |
+| **Duet Mail** | AI Triage un Focused Dashboard, Authentic AI Drafting (Balss apguve), Smart Summarization, Contextual Awareness | Koncentrēšanās uz autentisku izklausīšanos pēc *jūsu*, dziļa kontekstuālā izpratne, proaktīvs triāžas informācijas panelis. | _(Pašreizējās cenas skatiet tīmekļa vietnē)_ | Profesionāļiem un komandām, kurām nepieciešama intensīva komunikācija, kuri meklē mākslīgo intelektu, kas saglabā viņu personīgo balsi un izseko kontekstu dažādos projektos/attiecībās. |
 
 Vadošo mākslīgā intelekta e-pasta asistentu salīdzinājums 2025. gadā (funkcijas un cenas ir aptuvenas, jaunāko informāciju skatiet pārdevēju vietnēs).
 

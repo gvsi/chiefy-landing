@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia pamatysite naujas konsultacijų užklausas, antra – dizaino patvirtinimus, o pardavėjų naujienlaiškius – niekada. Nebereikia 5000 USD užklausos, palaidotos tiekėjų reklamoje.",
   "draftSubtitle": "Duet sužino jūsų procesą, medžiagas, kainas ir balsą. Kai pateikiama konsultacijos užklausa, jame parengiamas išsamus atsakymas, kuriame nurodoma jūsų galimybė, ką atsinešti ir kaip vyksta jūsų procesas. Jūs peržiūrite ir siunčiate.",
-  "agentSubtitle": "– Kur mes su Amandos žiedu? „Džeimso laiko juostos atnaujinimo projektas“.Duet žino kiekvieną kliento giją – tiesiog paklauskite.",
+  "agentSubtitle": "– Kur mes su Amandos žiedu? „Džeimso laiko juostos atnaujinimo projektas“. Duet žino kiekvieną kliento giją – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,7 +127,7 @@
     {
       "name": "Marco R.",
       "title": "Individualizuotų papuošalų dizaineris, Los Andželas",
-      "quote": "Kiekviena pasirinktinė dalis sugeneruoja 10–15 el. laiškų per savaites. Padauginkite tai iš 8 aktyvių klientų ir aš nuskendau.Duet rengia dizaino atnaujinimo atsakymus, konsultacijų patvirtinimus, laiko juostos atsakymus – visa tai mano balsu. Peržiūriu tarp kastingų ir paspaudžiu siųsti.",
+      "quote": "Kiekviena pasirinktinė dalis sugeneruoja 10–15 el. laiškų per savaites. Padauginkite tai iš 8 aktyvių klientų ir aš nuskendau. Duet rengia dizaino atnaujinimo atsakymus, konsultacijų patvirtinimus, laiko juostos atsakymus – visa tai mano balsu. Peržiūriu tarp kastingų ir paspaudžiu siųsti.",
       "avatarKey": "michael"
     },
     {
@@ -139,13 +139,13 @@
     {
       "name": "Danny K.",
       "title": "Suolo juvelyras, Čikaga",
-      "quote": "Aš prie suolo 8 valandas per dieną su fakelu rankoje. Negaliu sustabdyti vidurio lydinio ir parašyti konsultacijos atsakymą.Duet rengia viską, kol aš dirbu – žvilgteliu į telefoną, pritariu, baigiau.",
+      "quote": "Aš prie suolo 8 valandas per dieną su fakelu rankoje. Negaliu sustabdyti vidurio lydinio ir parašyti konsultacijos atsakymą. Duet rengia viską, kol aš dirbu – žvilgteliu į telefoną, pritariu, baigiau.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Vestuvinių papuošalų dizaineris, Ostinas",
-      "quote": "Sužadėtuvių sezono metu gaunu daugiau nei 20 konsultacijų užklausų per savaitę.Duet išmokau visą savo procesą – medžiagas, terminus, kainų lygius, ką atsinešti. Ji rengia atsakymų juodraščius, kuriuos man vos reikia redaguoti. Absoliutus išgelbėjimas nuo lapkričio iki vasario.",
+      "quote": "Sužadėtuvių sezono metu gaunu daugiau nei 20 konsultacijų užklausų per savaitę. Duet išmokau visą savo procesą – medžiagas, terminus, kainų lygius, ką atsinešti. Ji rengia atsakymų juodraščius, kuriuos man vos reikia redaguoti. Absoliutus išgelbėjimas nuo lapkričio iki vasario.",
       "avatarKey": "francesca"
     },
     {
@@ -167,5 +167,5 @@
       "answer": "Būtent ten šviečia Duet. Ji nuskaito visą gijos istoriją – konsultacijų pastabas, dizaino peržiūras, medžiagų pasirinkimus, laiko juostos atnaujinimus – todėl kiekvienas parengtas atsakymas turi visą kontekstą. Kai klientas klausia \"koks mano žiedo statusas?\" el. laiške Nr. 14 Duet žino, kuris žiedas, kokioje stadijoje jis yra, ir parengia tikslaus atnaujinimo juodraštį. Nebereikia iš naujo skaityti 3 mėnesių el. laiškų pačiam."
     }
   ],
-  "pricingNote": "5000 USD už vienetą, vienas sutaupytas komisinis atlyginimas už daugiau nei ketverius metus kainuojaPro."
+  "pricingNote": "5000 USD už vienetą, vienas sutaupytas komisinis atlyginimas už daugiau nei ketverius metus kainuoja Pro."
 }

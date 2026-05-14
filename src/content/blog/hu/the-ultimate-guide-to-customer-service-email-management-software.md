@@ -187,7 +187,7 @@ A megfelelő szoftver kiválasztása csak a csata fele. A megvalósítás és a 
 
 - **Szervezzen könyörtelenül:** Világos és következetes rendszert valósítson meg az e-mailek vagy jegyek címkézésére, kategorizálására és rangsorolására. Használjon mappákat, egyéni nézeteket vagy irányítópultokat, hogy az ügynökök hatékonyan kezelhessék konkrét munkafolyamataikat.
 
-- **Felhatalmazza meg ügynökeit:** ProPro-perces képzés a szoftverrel és a bevezetett folyamatokkal kapcsolatban kulcsfontosságú. Gondoskodjon arról, hogy az ügynökök könnyen hozzáférjenek az ügyfélelőzményekhez és a kontextushoz. Együttműködési környezet kialakítása, ahol a segítségkérés ösztönözhető. És ne felejtse el elismerni és értékelni erőfeszítéseiket, mivel a támogató szerepek megterhelőek lehetnek.
+- **Felhatalmazza meg ügynökeit:** A szoftverrel kapcsolatos képzés a szoftverrel és a bevezetett folyamatokkal kapcsolatban kulcsfontosságú. Gondoskodjon arról, hogy az ügynökök könnyen hozzáférjenek az ügyfélelőzményekhez és a kontextushoz. Együttműködési környezet kialakítása, ahol a segítségkérés ösztönözhető. És ne felejtse el elismerni és értékelni erőfeszítéseiket, mivel a támogató szerepek megterhelőek lehetnek.
 
 - **A panaszok kezelése Grace-szel:** A csalódott ügyfelek kezelése elkerülhetetlen. Tanítsa meg csapatát az eszkalációcsökkentési technikákra. Hangsúlyozza az aktív hallgatást, az őszinte empátiát, az őszinte bocsánatkérést, ha indokolt, és a lézeres összpontosítást a mögöttes probléma megoldására. Használja fel konstruktívan a negatív visszajelzéseket a folyamatok vagy termékek javítására.
 

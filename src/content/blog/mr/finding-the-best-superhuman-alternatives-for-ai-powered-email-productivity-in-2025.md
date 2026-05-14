@@ -47,7 +47,7 @@ Superhuman ने AI वैशिष्ट्ये जोडणे हे त�
 
 कालानुक्रमिक पूर हाताने वर्गीकरण करण्याऐवजी, AI सहाय्यक sender reputation, keywords, content patterns, आणि शिकलेल्या user behavior च्या आधारावर येणारे emails विश्लेषित करतात आणि खरोखर लक्ष देण्यासारखे काय आहे ते आपोआप पुढे आणतात. Superhuman चे [Auto Labels](https://superhuman.com/ai), [Shortwave](https://www.shortwave.com/)'ची बुद्धिमान व्यवस्था, [Spark Mail](https://sparkmailapp.com/)'चे, किंवा [SaneBox](https://www.sanebox.com/) मधील परिष्कृत filtering ही वैशिष्ट्ये याचेच उदाहरण आहेत. ही बुद्धिमान वर्गीकरण प्रक्रिया अत्यंत महत्त्वाची आहे. हाताने sorting करण्याऐवजी AI एक gatekeeper म्हणून काम करतो, पुढे काय हाताळायचे हे ठरवण्याचा संज्ञानात्मक भार मोठ्या प्रमाणात कमी करतो. इथेच [**Duet Mail**](https://duetmail.com/mr) सारखी साधने उत्कृष्ट ठरतात — AI Triage वापरून urgent items, required actions, किंवा आवश्यक decisions आपोआप ओळखतात, आणि ते स्पष्टपणे दाखवतात जेणेकरून तुम्ही आधी महत्त्वाचे काम करू शकता.
 
-![Duet Mail dashboard showing AI prioritizing emails based on urgency and required actions](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+![Urgency आणि required actions यांच्या आधारे AI ईमेलना प्राधान्य देत असल्याचे दाखवणारा Duet Mail dashboard](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 Duet Mail चे AI-चालित triage महत्त्वाचे emails पुढे आणते, ज्यामुळे sorting time आणि संज्ञानात्मक भार कमी होतो
 
@@ -60,7 +60,7 @@ Duet Mail चे AI-चालित triage महत्त्वाचे emails
 
 आपण सगळ्यांनीच पानभर चालणारा, अनेक प्रतिसादांचा ईमेल thread पाहिला आहे. AI summarization थेट यावर काम करते, लांब संभाषणे संक्षिप्त bullet points किंवा छोट्या परिच्छेदांत रूपांतरित करते, महत्त्वाचे निर्णय, action items, आणि अत्यावश्यक तपशील अधोरेखित करते. Superhuman, Shortwave, आणि [Canary Mail](https://canarymail.io/) ही साधने या वैशिष्ट्याच्या वेगवेगळ्या आवृत्त्या देतात. विशेषतः गुंतागुंतीच्या प्रकल्पांकडे पुन्हा वळताना context पटकन मिळणे अत्यंत महत्त्वाचे आहे. AI summaries लक्षणीय वेळ वाचवतात. [**Duet Mail**](https://duetmail.com/mr) सारखी काही साधने threads मध्ये contextual awareness जपून आणखी पुढे जातात, project details आणि संबंध लक्षात ठेवून अधिक संबंधित summaries आणि draft suggestions देतात.
 
-![Example showing a long email thread being condensed into key bullet points by A](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
+![लांब ईमेल thread AI द्वारे मुख्य bullet points मध्ये संक्षेपित होत असल्याचे दाखवणारे उदाहरण](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
 
 Duet Mail वरील AI summarization लांब email threads मधून मुख्य मुद्दे पटकन काढते, आणि मौल्यवान वेळ वाचवते
 

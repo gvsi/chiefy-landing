@@ -27,7 +27,7 @@ In tegenstelling tot een traditionele, statische handtekening (gewoon tekst), be
 
 Het doel? Om het voor de ontvangers moeiteloos te maken om de volgende stap te zetten, wat die ook mag zijn. Voor freelancers en kleine teams zijn de voordelen tastbaar:
 
-- **VerbeterdProprofessionalisme en geloofwaardigheid:** Een goed ontworpen handtekening duidt op aandacht voor detail en schept vertrouwen. [Consistente branding vergroot de geloofwaardigheid](https://quickmail.com/role-of-email-signatures-in-brand-awareness).
+- **Verbeterd professionalisme en geloofwaardigheid:** Een goed ontworpen handtekening duidt op aandacht voor detail en schept vertrouwen. [Consistente branding vergroot de geloofwaardigheid](https://quickmail.com/role-of-email-signatures-in-brand-awareness).
 
 - **Verhoogde merkbekendheid:** Elke e-mail versterkt uw merkidentiteit met logo's en consistente styling. [Consistente merkpresentatie kan de omzet aanzienlijk verhogen](https://exclaimer.com/blog/maximizing-marketing-roi-personalized-email-signatures/).
 
@@ -84,7 +84,7 @@ Welke past bij jou? Laten we vergelijken:
 
 Tools zoals MySignature en WiseStamp bieden sjablonen en eenvoudige aanpassingen.
 
-**Voor de doe-het-zelvers:** Als u voor handmatige HTML kiest, onthoud dan dat e-mailclients HTML heel anders weergeven. Gebruik inline CSS voor styling en houd uw code schoon. Test meedogenloos met tools als Litmus of Email on Acid, of in ieder geval bij grote klanten zoals Gmail,Outlook(verschillende versies) en Apple Mail. U kunt [basissjablonen voor HTML-handtekeningen online](https://www.freelancermap.com/blog/create-professional-email-signature/) vinden om aan de slag te gaan, en bronnen zoals [Exclaimer bieden gratis sociale pictogrammen](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) en begeleiding.
+**Voor de doe-het-zelvers:** Als u voor handmatige HTML kiest, onthoud dan dat e-mailclients HTML heel anders weergeven. Gebruik inline CSS voor styling en houd uw code schoon. Test meedogenloos met tools als Litmus of Email on Acid, of in ieder geval bij grote klanten zoals Gmail, Outlook(verschillende versies) en Apple Mail. U kunt [basissjablonen voor HTML-handtekeningen online](https://www.freelancermap.com/blog/create-professional-email-signature/) vinden om aan de slag te gaan, en bronnen zoals [Exclaimer bieden gratis sociale pictogrammen](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) en begeleiding.
 
 Hier is een zeer eenvoudige HTML-structuur voor een klikbare link:
 
@@ -116,7 +116,7 @@ Mobiel is belangrijk: zorg ervoor dat uw handtekening er goed uitziet en goed fu
 
 - **Vermijd spamtriggers:** Hoewel de handtekening alleen zelden spamproblemen veroorzaakt, kunnen slecht geïmplementeerde triggers hieraan bijdragen. Vermijd overmatig afbeeldingen, te veel links (vooral het gebruik van spamachtige tekst zoals "Klik hier!"), verbroken links of te complexe code. Een goede balans tussen tekst en beeld is essentieel. [Email Signature Rescue merkt op dat onjuiste HTML of grote afbeeldingen](https://www.emailsignaturerescue.com/blog/why-does-my-email-signature-make-my-emails-get-caught-in-spam-filters) veelvoorkomende boosdoeners zijn.
 
-- **Test, Test, Test:** Bekijk een voorbeeld van uw handtekening op verschillende e-mailclients (Gmail,Outlook, Apple Mail) en apparaten (desktop, mobiel, tablet). Controleer hoe het eruit ziet in de donkere modus.
+- **Test, Test, Test:** Bekijk een voorbeeld van uw handtekening op verschillende e-mailclients (Gmail, Outlook, Apple Mail) en apparaten (desktop, mobiel, tablet). Controleer hoe het eruit ziet in de donkere modus.
 
 - **Zorg ervoor dat DNS-records zijn ingesteld:** Hoewel dit niet handtekeningspecifiek is, is het hebben van correcte SPF-, DKIM- en DMARC-records voor uw domein essentieel voor de algehele bezorgbaarheid van e-mail.
 

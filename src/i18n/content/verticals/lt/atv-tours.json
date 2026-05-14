@@ -53,7 +53,7 @@
   },
   "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, antra – draudimo klausimus, o triukšmą – niekada. Daugiau netrūksta grupės užklausos, paslėptos poTripAdvisorįspėjimais.",
   "draftSubtitle": "Duet sužinos jūsų kelionių maršrutus, kainas ir motociklininko reikalavimus. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia kelionės informacija, kainomis ir tuo, ką atsinešti. Jūs peržiūrite ir siunčiate.",
-  "agentSubtitle": "„Ar šiam savaitgaliui užsakytos grupės? „Surašyk atsakymo projektą Reičelei, jei bus pasiekiamas šeštadienį“.Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
+  "agentSubtitle": "„Ar šiam savaitgaliui užsakytos grupės? „Surašyk atsakymo projektą Reičelei, jei bus pasiekiamas šeštadienį“. Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,19 +127,19 @@
     {
       "name": "Mike'as D.",
       "title": "ATVvadovas, Pietų Juta",
-      "quote": "Vedu 8 valandų ekskursijas po kanjonus su nulinių ląstelių paslauga. Kol grįžau, pusė mano rezervavimo el. laiškų buvo atšalę.Duet rengia atsakymų juodraščius su mano kainodara ir maršruto informacija – tiesiog peržiūriu juos dienos pabaigoje.",
+      "quote": "Vedu 8 valandų ekskursijas po kanjonus su nulinių ląstelių paslauga. Kol grįžau, pusė mano rezervavimo el. laiškų buvo atšalę. Duet rengia atsakymų juodraščius su mano kainodara ir maršruto informacija – tiesiog peržiūriu juos dienos pabaigoje.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTVKelionių organizatorius, Koloradas",
-      "quote": "Mes rengiame keliones 7 dienas per savaitę, o vien draudimo ir atsisakymo klausimai smogė mano rytams.Duet sutvarko viską – reikalavimus vairuotojui, amžiaus apribojimus, ką pasiimti. Skamba lygiai taip pat kaip aš.",
+      "quote": "Mes rengiame keliones 7 dienas per savaitę, o vien draudimo ir atsisakymo klausimai smogė mano rytams. Duet sutvarko viską – reikalavimus vairuotojui, amžiaus apribojimus, ką pasiimti. Skamba lygiai taip pat kaip aš.",
       "avatarKey": "francesca"
     },
     {
       "name": "Džeikas R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "Žmonės el. paštu klausia, kuris takas tinkamas jų grupei, kokio lygio jiems reikia, ar vaikai gali važiuoti. Tie patys 5 klausimai vėl ir vėl.Duet prikala kiekvieną iš jų.",
+      "quote": "Žmonės el. paštu klausia, kuris takas tinkamas jų grupei, kokio lygio jiems reikia, ar vaikai gali važiuoti. Tie patys 5 klausimai vėl ir vėl. Duet prikala kiekvieną iš jų.",
       "avatarKey": "johnny"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Amanda K.",
       "title": "ŠeimosATVEkskursijos, Sedona",
-      "quote": "Sulaukiame daug šeimų, kurios teiraujasi apie pradedančiųjų trasas ir amžiaus reikalavimus.Duet sužinojo visas mūsų kelionių parinktis ir kiekviename atsakyme rekomenduoja tinkamą. Klientai negali pasakyti skirtumo.",
+      "quote": "Sulaukiame daug šeimų, kurios teiraujasi apie pradedančiųjų trasas ir amžiaus reikalavimus. Duet sužinojo visas mūsų kelionių parinktis ir kiekviename atsakyme rekomenduoja tinkamą. Klientai negali pasakyti skirtumo.",
       "avatarKey": "sarah"
     }
   ],
@@ -164,8 +164,8 @@
     },
     {
       "question": "Visą dieną esu be mobiliojo ryšio paslaugų. Kaip Duet padeda?",
-      "answer": "Būtent todėl gidai myli Duet. Kol vedate 6–8 valandų kelionę be signalo, užsakymų užklausų kaupiasi.Duet juodraščiai atsako į kiekvieną iš jų – kaina, pasiekiamumas, susitikimo vieta, ką dėvėti. Grįžęs peržiūri juodraščius ir išsiunčia. Dauguma gidų mums sako, kad sezono piko metu per dieną jie sutaupo 1–2 valandas el. laiškų."
+      "answer": "Būtent todėl gidai myli Duet. Kol vedate 6–8 valandų kelionę be signalo, užsakymų užklausų kaupiasi. Duet juodraščiai atsako į kiekvieną iš jų – kaina, pasiekiamumas, susitikimo vieta, ką dėvėti. Grįžęs peržiūri juodraščius ir išsiunčia. Dauguma gidų mums sako, kad sezono piko metu per dieną jie sutaupo 1–2 valandas el. laiškų."
     }
   ],
-  "pricingNote": "Kaina 200 USD už mašiną, viena sutaupyta 4 asmenų grupė per metus sumokaPro."
+  "pricingNote": "Kaina 200 USD už mašiną, viena sutaupyta 4 asmenų grupė per metus sumoka Pro."
 }

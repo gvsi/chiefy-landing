@@ -55,7 +55,7 @@ Kas teie postkast on kronoloogiline teadvuse voog, kus kõik nõuab võrdset tä
 
 - **Järelmeetmete nihutamine:** tuletab meelde saadetud meilidest, millele pole vastust saanud, või saadetud meilidest, millele te pole vastanud.
 
-- **Soovitavad toiminguid:** Prosoovitab teil rakendada "4 D-d" – kustutada, teha, delegeerida või edasi lükata.
+- **Soovitavad toiminguid:** Soovitab teil rakendada "4 D-d" – kustutada, teha, delegeerida või edasi lükata.
 
 Paljud täiustatud tööriistad pakuvad spetsiaalseid prioriteetseid armatuurlaudu või filtreeritud vaateid, mis toovad esile kõige kriitilisemad üksused, aidates teil vabaneda lugemata arvu türanniast. Kasu seisneb põhimõttelises nihkes reaktiivsest ja ülekaalukalt postkastist sellise poole, kus olulised kommunikatsioonid tõusevad automaatselt tippu. See vähendab drastiliselt käsitsi sorteerimisele kuluvat aega ja minimeerib kriitiliste sõnumite või tähtaegade vahele libisemise ohtu, muutes tabamatu "Inbox Zero" saavutatavama eesmärgi.
 
@@ -65,7 +65,7 @@ Iga päev sadade meilide käsitsi sõelumine on kurnav ja ebatõhus. See on koht
 
 AI potentsiaal meilis on põnev, kuid sellesse sukeldumine nõuab läbimõeldud kaalumist. Turg kasvab kiiresti, kuid on endiselt küpsemas, mis tähendab, et võimalused võivad olla väga erinevad. Siin on, mida meeles pidada.
 
-### Proteie andmete kontrollimine: privaatsus AI ajastul
+### Kaitske oma andmeid: privaatsus AI ajastul
 
 Peamine murekoht on andmete privaatsus. Oma võlu toimimiseks vajab enamik tehisintellekti meilitööriistu juurdepääsu teie meili sisule. See tõstatab põhjendatud küsimused selle kohta, kuidas neid andmeid kasutatakse. Kas see suunatakse AI-mudelisse koolituseks tagasi? Kas tundlik klienditeave või ettevõtte IP võib kogemata paljastada? Väga oluline on valida pakkujad, kellel on läbipaistvad ja kindlad privaatsuspoliitikad ja turvameetmed, nagu andmete varjamine enne LLM-idele saatmist või rangete andmekaitseeeskirjade järgimine. Otsige tööriistu, mis rõhutavad ettevõtte tasemel turvalisust või pakuvad võimalusi kohalikuks töötlemiseks. Enne juurdepääsu andmist vaadake privaatsuspoliitika alati hoolikalt läbi.
 

@@ -117,7 +117,6 @@ Hoci sú užitočné, tieto nástroje často riešia konkrétne bolesti namiesto
 
 ### Nástup AI e-mail asistenta: inteligentný kopilot vašej schránky
 
-**Image PlaceholderQuery:** futuristická grafika AI asistenta pomáhajúceho s e-mailom**Alt Text:** Abstraktná grafika zobrazujúca, ako AI pomáha človeku efektívne spravovať e-mailovú schránku.**Caption:** AI e-mail asistenti využívajú technológie na automatizáciu a zlepšenie správy schránky.
 
 Vstupuje AI e-mail asistent. Tieto nástroje predstavujú ďalší vývojový stupeň v správe e-mailov a využívajú umelú inteligenciu – konkrétne Natural Language Processing (NLP) a Machine Learning (ML) – na automatizáciu a zlepšenie úloh, ktoré si tradične vyžadovali značné manuálne úsilie.
 
@@ -151,7 +150,6 @@ AI e-mail asistenti idú za hranice jednoduchej automatizácie; ponúkajú intel
 
 ### AI triedenie a prioritizácia: presekávanie sa chaosom k tomu, čo je naliehavé
 
-**Image PlaceholderQuery:** diagram AI e-mailového triedenia, ktoré rozdeľuje dôležité e-maily**Alt Text:** Diagram ukazujúci, ako AI triedenie automaticky zoraďuje prichádzajúce e-maily podľa priority.**Caption:** AI triedenie inteligentne zvýrazní naliehavé e-maily a odfiltruje hluk.
 
 **Problém:** Vaša štandardná Gmail schránka je chronologický feed, kde newslettery a interné CC správy súperia o pozornosť s naliehavými požiadavkami klientov a kritickými termínmi. Manuálne triedenie tohto prívalu, aby ste našli to, čo naozaj potrebuje vašu pozornosť _hneď_, spotrebúva cenný čas aj mentálnu energiu.
 

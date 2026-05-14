@@ -15,7 +15,7 @@ Bet ko tad, ja pastāvētu gudrāks veids? Iepazīstieties ar **Gmail AI paplaš
 
 ## Kas patiesībā ir Gmail AI paplašinājums?
 
-Savā būtībā Gmail AI paplašinājums parasti ir pārlūka papildinājums vai integrēta funkcija, kas izmanto mākslīgā intelekta (AI) jaudu - bieži vien sarežģītus lielos valodu modeļus (LLM), piemēram, OpenAI GPT-4o, Anthropic Claude 3.5 vai Google Gemini - tieši pazīstamajā Gmail saskarnē. Tā galvenā misija? Vienkāršot e-pasta pārvaldību, celt produktivitāti un galu galā padarīt e-pastu mazāk nogurdinošu.
+Savā būtībā Gmail AI paplašinājums parasti ir pārlūka papildinājums vai integrēta funkcija, kas izmanto mākslīgā intelekta (AI) jaudu - bieži vien sarežģītus lielos valodu modeļus (LLM), piemēram, OpenAI GPT-4o, Anthropic Claude 3.5 vai Google Gemini- tieši pazīstamajā Gmail saskarnē. Tā galvenā misija? Vienkāršot e-pasta pārvaldību, celt produktivitāti un galu galā padarīt e-pastu mazāk nogurdinošu.
 
 Šie rīki sniedzas tālāk par vienkāršu automatizāciju. Kamēr vecāki rīki paļāvās uz pamata noteikumiem, AI paplašinājumi saprot _kontekstu_. Tie analizē e-pastu saturu, sarunas plūsmu un reizēm pat jūsu iepriekšējās mijiedarbības un rakstīšanas stilu. Šī konteksta izpratne, ko darbina moderni LLM, ļauj tiem piedāvāt patiesi inteliģentu palīdzību - niansētus kopsavilkumus, personalizētus melnrakstu ieteikumus un viedu šķirošanu, nevis tikai pamata filtrēšanu vai gatavas atbildes. Lai to darītu efektīvi, tiem parasti vajadzīga atļauja skatīt jūsu e-pasta ziņojumus un pārvaldīt melnrakstus. Būtībā tie pievieno inteliģences slāni, kas palīdz automatizēt atkārtotus uzdevumus, uzlabot saziņas kvalitāti un daudz efektīvāk pārvaldīt iesūtni.
 

@@ -127,7 +127,7 @@ A legfontosabb kockázatok a következők:
 
 E kockázatok csökkentése érdekében a felhasználóknak bevált gyakorlatokat kell alkalmazniuk:
 
-- **Vet Providers:** Válasszon jó hírű szállítókat átlátható adatvédelmi szabályzattal, amelyek egyértelműen meghatározzák az adatok gyűjtésének, felhasználásának, tárolásának és védelmének módját.
+- **Ellenőrizze a szolgáltatókat:** Válasszon jó hírű szolgáltatókat átlátható adatvédelmi szabályzattal, amelyek egyértelműen meghatározzák az adatok gyűjtésének, felhasználásának, tárolásának és védelmének módját.
 
 - **Ellenőrizze az engedélyeket:** Pontosan tudja, milyen szintű hozzáférést igényel egy AI-eszköz. Minden e-mailt el kell olvasnia, vagy csak azokat, amelyeken éppen dolgozik? Korlátozza az engedélyeket, amikor csak lehetséges.
 

@@ -37,7 +37,7 @@ draft: false
 
 என்ன வேலை செய்கிறது மற்றும் எது இல்லை என்று உங்களுக்குத் தெரியாவிட்டால், உங்கள் மின்னஞ்சல் ஆதரவை எவ்வாறு மேம்படுத்துவது? அடிப்படை மின்னஞ்சல் அமைப்புகள், மறுமொழி நேரம், தெளிவுத்திறன் விகிதங்கள் அல்லது முகவர் உற்பத்தித்திறன் போன்ற முக்கியமான அளவீடுகளில் காணக்கூடியதாக இல்லை. தரவு இல்லாமல், இடையூறுகளை அடையாளம் காண்பது, பொதுவான வாடிக்கையாளர் வலி புள்ளிகளைப் புரிந்துகொள்வது அல்லது உங்கள் ஆதரவு முயற்சிகளின் செயல்திறனை அளவிடுவது யூகமாகிறது. நீங்கள் பார்வையற்றவராக பறக்கிறீர்கள், செயல்திறனை மேம்படுத்த தகவலறிந்த முடிவுகளை எடுக்க முடியவில்லை.
 
-![Dashboard showing customer service metrics with a red alert on average email response time, indicating inefficiency](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+![சராசரி email response time குறித்து red alert காட்டி inefficiency-ஐ சுட்டும் customer service metrics dashboard](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 மெதுவான மின்னஞ்சல் பதிலளிப்பு நேரங்கள் வாடிக்கையாளர் திருப்தியை நேரடியாக பாதிக்கிறது மற்றும் வணிகத்தை இழக்க வழிவகுக்கும்.
 
@@ -197,7 +197,7 @@ AI உரையாடல் தலைப்புகள், உணர்வு�
   \
 
 
-![Image depicting a customer service agent using software with AI suggestions to craft a personalized and empathetic email response](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+![Personalized மற்றும் empathetic email response எழுத AI suggestions கொண்ட software-ஐ பயன்படுத்தும் customer service agent-ஐ காட்டும் image](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 AI செயல்திறனை மனித அனுதாபத்துடன் சமநிலைப்படுத்துவது விதிவிலக்கான வாடிக்கையாளர் சேவைக்கு முக்கியமாகும்.
 

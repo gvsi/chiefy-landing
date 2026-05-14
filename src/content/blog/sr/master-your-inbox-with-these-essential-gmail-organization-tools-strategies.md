@@ -77,7 +77,7 @@ Gmail nudi nekoliko načina za automatsko otkrivanje onoga što _misli_ da je va
 | Feature | Kako to radi | Najbolje za | Pros | Cons |
 | ---------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------- |
 | **Podrazumevane kartice**| Automatsko sortiranje u unapred definisane kategorije (Primari, Social, Promotions, itd.) | Korisnici koji žele jednostavno, automatsko razdvajanje | Zero setup; smanjuje nered na kartici Primarno | Manje kontrole; važne poruke e-pošte mogu biti pogrešno arhivirane; kategorije fiksne |
-| **Oznake važnosti**| TTK0000Žuti markeri vođeni TTK na osnovu ponašanja korisnika (otvaranja, odgovori, zvezdice, itd.) | Podsticanje prioritetne pošte; pruža vizuelne naznake | Uči prioritete korisnika; ručni korektivni vozovi AI | Efikasnost zavisi od doslednog ponašanja korisnika; samo marker |
+| **Oznake važnosti** | Žuti markeri zasnovani na ponašanju korisnika, kao što su otvaranja, odgovori i zvezdice | Isticanje prioritetne pošte i vizuelni signali | Uči prioritete korisnika; ručne ispravke poboljšavaju AI | Efikasnost zavisi od doslednog ponašanja; marker sam po sebi nije automatizacija |
 | **Prioritetna pošta**| Prilagodljivi odeljci, koji često koriste oznake važnosti (npr. Važno/Nepročitano, Sa zvezdicom) | Korisnici koji žele fokusiran pregled ključnih e-poruka | Prilagodljive sekcije; površine važne pošte; poluge AI | Zahteva određeno podešavanje/prilagođavanje; oslanja se na tačne markere |
 
 ### Izvan sortiranja: odlaganje, raspored slanja i šabloni
@@ -178,7 +178,7 @@ Ako živite po svojoj listi zadataka, njena integracija sa Gmail menja igru. Ala
 
 ### CRM Ekstenzije za Gmail
 
-Za slobodnjake, prodajne timove ili bilo koga ko upravlja odnosima sa klijentima, žongliranje CRM softvera i e-pošte je stalna promena konteksta. CRM ekstenzije kao što su [**Streak**](https://www.streak.com/), [**Copper**](https://www.copper.com/) (posebno dizajnirane za radni prostor Google) i [**HubSpot Sales**](https://www.hubspot.com/products/sales/gmail) direktno ugrađuju u svoju TTK012 funkcionalnost Gmail interfejs. Možete da pregledate istoriju kontakata, upravljate prodajnim kanalima, automatski evidentirate e-poštu i koristite šablone e-pošte – sve zajedno sa relevantnom nit e-pošte. Ovo obezbeđuje ključni kontekst i značajno pojednostavljuje tokove posla. Dok je Streak često poznat po upravljanju cevovodima unutar Gmail, Copper se može pohvaliti dubokom integracijom Google, iako neki korisnici prijavljuju greške.
+Za slobodnjake, prodajne timove ili bilo koga ko upravlja odnosima sa klijentima, stalno prebacivanje između CRM softvera i e-pošte troši fokus. CRM ekstenzije kao što su [**Streak**](https://www.streak.com/), [**Copper**](https://www.copper.com/) i [**HubSpot Sales**](https://www.hubspot.com/products/sales/gmail) ugrađuju ključne CRM funkcije direktno u Gmail interfejs. Možete da vidite istoriju kontakta, upravljate prodajnim kanalima, automatski evidentirate e-poštu i koristite šablone pored relevantne niti. To daje važan kontekst i značajno pojednostavljuje tok posla.
 
 ### Vizuelni organizatori i čvorišta za saradnju
 
@@ -204,17 +204,17 @@ AI transformiše upravljanje e-poštom pomoću pametnih mogućnosti trijaže, su
 
 ### Pametna trijaža i određivanje prioriteta: pustiti AI da sortira haos
 
-Zamislite prijemno sanduče koje automatski zna šta je hitno. AI trijaža e-pošte koristi tehnologije kao što su prirodni jezik Processing (NLP) i mašinsko učenje (ML) za analizu dolaznih e-poruka na osnovu sadržaja, istorije pošiljaoca, ključnih reči i vaših prošlih interakcija. To ide daleko dalje od jednostavnih filtera razumevanjem nijansi i konteksta, učenjem vaših prioriteta tokom vremena.
+Zamislite prijemno sanduče koje automatski zna šta je hitno. AI trijaža e-pošte koristi tehnologije kao što su obradu prirodnog jezika (NLP) i mašinsko učenje (ML) za analizu dolaznih e-poruka na osnovu sadržaja, istorije pošiljaoca, ključnih reči i vaših prošlih interakcija. To ide daleko dalje od jednostavnih filtera razumevanjem nijansi i konteksta, učenjem vaših prioriteta tokom vremena.
 
 **Prednosti:**Drastično smanjuje vreme ručnog sortiranja, prikazuje kritične poruke koje bi mogle da budu zakopane, minimizira smetnje od pošte niskog prioriteta i bori se protiv zamora pri donošenju odluka tako što daje početnu procenu „važno/nevažno“ umesto vas. Alati kao što su [**SaneBox**](https://www.sanebox.com/) i [**Superhuman**](https://superhuman.com/) poznati su po svojim mogućnostima sortiranja koje pokreće AI.
 
 Ovo inteligentno sortiranje je upravo ono za šta su dizajnirani alati poput [Duet Mail](https://duetmail.com/sr). Njegov AI Triage analizira dolaznu poštu u pogledu hitnosti i potrebnih radnji, predstavljajući ih na Fokusiranoj kontrolnoj tabli tako da odmah vidite na šta treba obratiti pažnju, presecajući buku tradicionalnog hronološkog prijemnog sandučeta.
 
-### Trenutno razumevanje: TTK0015 TTK-povered Sumarization
+### Trenutno razumevanje: AI sumarizacija
 
 Da li ste ikada otvorili nit e-pošte sa 50 odgovora i osetili da vam srce potonulo? AI alati za sumiranje rešavaju ovo tako što sažimaju dugačke razgovore ili čak priložene dokumente u sažete tačke, ističući ključne odluke, stavke akcije i kritične detalje.
 
-**Prednosti:**Ovo štedi ogromnu količinu vremena za ubrzavanje, sprečava propuštanje ključnih informacija i poboljšava opšte razumevanje, posebno u složenim diskusijama o projektu ili klijentima. Nekoliko AI alata, uključujući [**Outlook Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot-for-microsoft-365), [**Shortwave**](https://shortwave.com/) i namenske Gmail dodatke poput [**AI Mail Assistant**0](2TTK0) ili [**MailMaestro**](https://www.maestrolabs.com/), nudi ovu mogućnost.
+**Prednosti:** Ovo štedi mnogo vremena pri uključivanju u razgovor, sprečava propuštanje ključnih informacija i poboljšava razumevanje složenih projektnih ili klijentskih diskusija. Tu mogućnost nude alati kao što su [**Outlook Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot-for-microsoft-365), [**Shortwave**](https://shortwave.com/) i namenski Gmail dodaci.
 
 Zamislite da skočite u dugu nit klijenta i odmah shvatite ključne stvari. AI asistenti kao što je Duet Mail nude pametno sažimanje, automatsko sažimanje razgovora i pamćenje kontekstualnih detalja o projektima i odnosima, tako da možete brzo i tačno da odgovorite bez ponovnog čitanja svega.
 
@@ -222,9 +222,9 @@ Zamislite da skočite u dugu nit klijenta i odmah shvatite ključne stvari. AI a
 
 Pisanje e-poruka, posebno rutinskih, oduzima značajan deo vremena. AI pomoćnici za crtanje mogu da generišu odgovore, da sastavljaju čitave e-poruke od jednostavnih upita, da provere i poboljšaju gramatiku i ton, pa čak i da nauče da oponašaju vaš jedinstveni stil pisanja.
 
-**Prednosti:**Ovo dramatično ubrzava vreme odgovora, obezbeđuje profesionalnu i doslednu komunikaciju i oslobađa vas mentalnog iscrpljivanja stalnog sastavljanja sličnih poruka. Mnogi alati nude ovo, od opštih AI pisaca kao što je [**ComposeIt**](https://www.scribowriter.com/post/best-ai-email-assistant) do integrisanih pomoćnika u [**Superhuman**](https://superhuman.com/) ili [**Gemini za Google Vorkspace**](TTK0000).
+**Prednosti:** Ovo značajno ubrzava odgovore, čuva profesionalan i dosledan ton i smanjuje mentalni napor stalnog pisanja sličnih poruka. Mnogi alati nude ovu mogućnost, od opštih AI pisaca do integrisanih pomoćnika u Superhuman ili Gemini za Google Workspace.
 
-Izrada personalizovanih odgovora zahteva vreme. TTK0019 TTK crtači mogu ovo da ubrzaju, ali zvučanje autentično je ključno. Duet Mail-a Autentični AI Drafting uči vaš specifični rečnik i ton iz prošlih e-poruka, predlažući odgovore koji zaista zvuče kao vi, održavajući odnose uz uštedu sati.
+Personalizovani odgovori traže vreme. AI alati za nacrte mogu to da ubrzaju, ali autentičan ton je presudan. Authentic AI Drafting u Duet Mailu uči vaš rečnik i ton iz prethodnih e-poruka, pa predlaže odgovore koji zaista zvuče kao vi i štede sate bez žrtvovanja odnosa.
 
 AI predstavlja fundamentalni pomak sa _upravljanja_ e-porukama na _proširivanje_ uključenih kognitivnih zadataka – razumevanje, određivanje prioriteta, sumiranje i komunikacija. Ključ je u pronalaženju AI alata koji uče _vaše_ specifične potrebe i stil, nudeći personalizovanu pomoć koja deluje prirodno i pouzdano.
 
@@ -246,7 +246,7 @@ Istina je da **ne postoji jedinstveni pravi odgovor.**Najbolji Gmail sistem orga
 
 1. **Izgradite osnovu:**Savladajte izvorne oznake, filtere i pretragu Gmail. O ovome se ne može pregovarati.
 
-2. **Odaberite metod:**Eksperimentišite sa metodologijom kao što je grupno Processing ili Prijemno sanduče Zero nedelju dana. Vidite kakav je osećaj.
+2. **Odaberite metod:**Eksperimentišite sa metodologijom kao što je grupnu obradu ili Prijemno sanduče Zero nedelju dana. Vidite kakav je osećaj.
 
 3. **Identifikujte uska grla:**Gde gubite najviše vremena? Da li je sortiranje? Repliing? Pronalaženje informacija? Praćenje zadataka?
 

@@ -93,7 +93,7 @@
       "avatarLetter": "S",
       "avatarColor": "lavender",
       "subject": "Zomeruitverkoop — 30% korting op wetsuits",
-      "pill": "Probewegingen",
+      "pill": "Promoties",
       "pillColor": "lavender"
     }
   ],
@@ -127,31 +127,31 @@
     {
       "name": "Trainer Mike T.",
       "title": "Eigenaar van een surfschool, CA",
-      "quote": "Ik ben 6 uur per dag in het water en geef les. Tegen de tijd dat ik mijn e-mail checkte, was de helft van de boekingen naar iemand anders gegaan.Duet stelt nu antwoorden op met mijn prijzen en beschikbaarheid - ik bekijk ze gewoon tussen de sessies door.",
+      "quote": "Ik ben 6 uur per dag in het water en geef les. Tegen de tijd dat ik mijn e-mail checkte, was de helft van de boekingen naar iemand anders gegaan. Duet stelt nu antwoorden op met mijn prijzen en beschikbaarheid - ik bekijk ze gewoon tussen de sessies door.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Paddleboardlessen en verhuur, HI",
-      "quote": "We beheren lessen en boardverhuur vanuit dezelfde inbox.Duet ontdekte meteen het verschil: huurvragen krijgen huurantwoorden, lesaanvragen krijgen lesdetails. Het is alsof je een receptie hebt.",
+      "quote": "We beheren lessen en boardverhuur vanuit dezelfde inbox. Duet ontdekte meteen het verschil: huurvragen krijgen huurantwoorden, lesaanvragen krijgen lesdetails. Het is alsof je een receptie hebt.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Surfinstructeur, FL",
-      "quote": "Bij boekingen voor schoolgroepen moesten er vroeger tien e-mails heen en weer worden gestuurd.Duet stelt nu het eerste antwoord op met de groepstarieven, wat is inbegrepen en het toestemmingsformulier. Knipt de hele draad doormidden.",
+      "quote": "Bij boekingen voor schoolgroepen moesten er vroeger tien e-mails heen en weer worden gestuurd. Duet stelt nu het eerste antwoord op met de groepstarieven, wat is inbegrepen en het toestemmingsformulier. Knipt de hele draad doormidden.",
       "avatarKey": "johnny"
     },
     {
       "name": "Frans C.",
       "title": "SUP-tours en -lessen, OR",
-      "quote": "Het hoogseizoen was mijn dood: 30 e-mails per dag over de voorwaarden, prijzen en wat ik moest meenemen. Steeds dezelfde vijf vragen.Duet kan ze allemaal aan en ze klinken precies zoals ik.",
+      "quote": "Het hoogseizoen was mijn dood: 30 e-mails per dag over de voorwaarden, prijzen en wat ik moest meenemen. Steeds dezelfde vijf vragen. Duet kan ze allemaal aan en ze klinken precies zoals ik.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sara K.",
       "title": "Directeur surfkamp voor kinderen, SC",
-      "quote": "Ouders sturen de langste e-mails. Kampdata, allergieën, vaardigheidsniveaus, ophaaltijden.Duet stelt gedetailleerde antwoorden op die alles omvatten, dus ik typ geen paragrafen om 22.00 uur na een hele dag op het strand.",
+      "quote": "Ouders sturen de langste e-mails. Kampdata, allergieën, vaardigheidsniveaus, ophaaltijden. Duet stelt gedetailleerde antwoorden op die alles omvatten, dus ik typ geen paragrafen om 22.00 uur na een hele dag op het strand.",
       "avatarKey": "sarah"
     }
   ],
@@ -167,5 +167,5 @@
       "answer": "Duet leert hoe u normaal gesproken omgaat met e-mails met voorwaarden: uw beleid inzake annuleringen, herschikking en onder welke voorwaarden u lesgeeft. Wanneer iemand een e-mail stuurt met de vraag of zijn of haar les doorgaat, stelt Duet een antwoord op dat overeenkomt met uw gebruikelijke toon en beleid. U bekijkt en verzendt binnen enkele seconden."
     }
   ],
-  "pricingNote": "Voor $ 90/les betalen twee opgeslagen boekingen voor meer dan een jaarPro."
+  "pricingNote": "Voor $ 90/les betalen twee opgeslagen boekingen voor meer dan een jaar Pro."
 }

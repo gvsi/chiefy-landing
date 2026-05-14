@@ -62,7 +62,7 @@ HTML மின்னஞ்சல் அடிக்குறிப்பு எ�
 
 - [லிட்மஸ்](https://www.litmus.com/) அல்லது [மின்னஞ்சல் அமிலம்](https://www.emailonacid.com/) போன்ற கருவிகளைப் பயன்படுத்தி வெவ்வேறு சாதனங்கள் மற்றும் மின்னஞ்சல் கிளையண்டுகளில் உங்கள் அடிக்குறிப்பைச் சோதித்தல்.
 
-![Side-by-side comparison showing how a well-designed email footer adapts its layout from desktop view to mobile view](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+![சரியாக வடிவமைக்கப்பட்ட email footer desktop view இலிருந்து mobile view வரை layout-ஐ எவ்வாறு மாற்றுகிறது என்பதை காட்டும் side-by-side comparison](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 உங்கள் அடிக்குறிப்பு அழகாக இருப்பதையும் எந்தத் திரை அளவிலும் சரியாகச் செயல்படுவதையும் உறுதிசெய்யவும்.
 
