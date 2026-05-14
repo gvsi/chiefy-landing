@@ -658,10 +658,6 @@
         "description": "完全访问智能收件箱分类、AI草稿、助手和日历集成"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "网络",
     "browserRequirements": "需要 JavaScript。适用于 Gmail、Google Workspace 和 Microsoft Outlook。",
     "urls": {

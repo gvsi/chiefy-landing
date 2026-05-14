@@ -658,10 +658,6 @@
         "description": "Повний доступ із розумною категоризацією вхідних, AI-чернетками, асистентом та інтеграцією календаря"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Потребує JavaScript. Працює з Gmail, Google Workspace і Microsoft Outlook.",
     "urls": {

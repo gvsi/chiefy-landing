@@ -658,10 +658,6 @@
         "description": "Visiška prieiga su išmaniųjų gautųjų kategorizavimu,AI juodraščiais, asistentu ir kalendoriaus integravimu"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Žiniatinklis",
     "browserRequirements": "Reikia JavaScript. Veikia su Gmail, Google Workspace ir Microsoft Outlook.",
     "urls": {

@@ -658,10 +658,6 @@
         "description": "Full åtkomst med smart inkorgskategorisering, AI-utkast, assistent och kalenderintegrering"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Webb",
     "browserRequirements": "Kräver JavaScript. Fungerar med Gmail, Google Workspace och Microsoft Outlook.",
     "urls": {

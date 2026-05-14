@@ -658,10 +658,6 @@
         "description": "스마트 받은편지함 분류, AI 초안, 도우미 및 캘린더 통합을 통한 전체 액세스"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "자바스크립트가 필요합니다. Gmail, Google Workspace 및 Microsoft Outlook와 함께 작동합니다.",
     "urls": {

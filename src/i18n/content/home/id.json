@@ -658,10 +658,6 @@
         "description": "Akses penuh dengan kategorisasi inbox cerdas, draf AI, asisten, dan integrasi kalender"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Membutuhkan JavaScript. Bekerja dengan Gmail, Google Workspace, dan Microsoft Outlook.",
     "urls": {

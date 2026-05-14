@@ -658,10 +658,6 @@
         "description": "Полный доступ с умной категоризацией входящих, AI-черновиками, помощником и интеграцией календаря"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Веб",
     "browserRequirements": "Требуется JavaScript. Работает с Gmail, Google Workspace и Microsoft Outlook.",
     "urls": {

@@ -658,10 +658,6 @@
         "description": "Potpun pristup sa pametnom kategorizacijom prijemnog sandučeta, AI nacrtima, pomoćnikom i integracijom kalendara"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Veb",
     "browserRequirements": "Zahteva JavaScript. Radi sa Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {

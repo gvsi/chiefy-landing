@@ -658,10 +658,6 @@
         "description": "Akses penuh dengan pengkategorian peti masuk pintar, draf AI, pembantu, dan integrasi kalendar"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Memerlukan JavaScript. Berfungsi dengan Gmail, Google Workspace, dan Microsoft Outlook.",
     "urls": {

@@ -658,10 +658,6 @@
         "description": "Potpuni pristup s pametnom kategorizacijom pristigle pošte, AI nacrtima, pomoćnikom i integracijom kalendara"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Zahtijeva JavaScript. Radi s Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {

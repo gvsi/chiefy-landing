@@ -658,10 +658,6 @@
         "description": "સ્માર્ટ ઇનબોક્સ વર્ગીકરણ, AI ડ્રાફ્ટ્સ, સહાયક અને કેલેન્ડર ઇન્ટિગ્રેશન સાથે સંપૂર્ણ ઍક્સેસ"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "JavaScript જરૂરી છે. Gmail, Google Workspace અને Microsoft Outlook સાથે કામ કરે છે.",
     "urls": {

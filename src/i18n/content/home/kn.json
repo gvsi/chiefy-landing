@@ -658,10 +658,6 @@
         "description": "ಸ್ಮಾರ್ಟ್ ಇನ್‌ಬಾಕ್ಸ್ ವರ್ಗೀಕರಣ, AI ಡ್ರಾಫ್ಟ್‌ಗಳು, ಸಹಾಯಕ ಮತ್ತು ಕ್ಯಾಲೆಂಡರ್ ಏಕೀಕರಣದೊಂದಿಗೆ ಪೂರ್ಣ ಪ್ರವೇಶ"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "ವೆಬ್",
     "browserRequirements": "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಅಗತ್ಯವಿದೆ. Gmail, Google Workspace, ಮತ್ತು Microsoft ಔಟ್‌ಲುಕ್‌ನೊಂದಿಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
     "urls": {

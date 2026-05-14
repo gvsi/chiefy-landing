@@ -658,10 +658,6 @@
         "description": "Пълен достъп с интелигентно категоризиране на входящата кутия, чернови на AI, асистент и интеграция с календар"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Уеб",
     "browserRequirements": "Изисква JavaScript. Работи с Gmail, Google Workspace и Microsoft Outlook.",
     "urls": {

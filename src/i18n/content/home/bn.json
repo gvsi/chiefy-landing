@@ -658,10 +658,6 @@
         "description": "স্মার্ট ইনবক্স শ্রেণিবিন্যাস, AI ড্রাফট, সহকারী এবং ক্যালেন্ডার ইন্টিগ্রেশনসহ পূর্ণ অ্যাক্সেস"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "JavaScript প্রয়োজন। Gmail, Google Workspace এবং Microsoft Outlook-এর সঙ্গে কাজ করে।",
     "urls": {

@@ -658,10 +658,6 @@
         "description": "Truy cập đầy đủ với phân loại hộp thư thông minh, soạn AI, trợ lý và tích hợp lịch"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Yêu cầu JavaScript. Hoạt động với Gmail, Google Workspace và Microsoft Outlook.",
     "urls": {

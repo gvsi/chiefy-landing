@@ -658,10 +658,6 @@
         "description": "Accès complet avec catégorisation intelligente de la boîte de réception, brouillons IA, assistant et intégration du calendrier"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Nécessite JavaScript. Fonctionne avec Gmail, Google Workspace et Microsoft Outlook.",
     "urls": {

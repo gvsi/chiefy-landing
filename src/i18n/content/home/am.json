@@ -658,10 +658,6 @@
         "description": "ሙሉ መዳረሻ ከብልጥ የገቢ መልእክት ሳጥን ምድብ ፣ AI ረቂቆች ፣ ረዳት እና የቀን መቁጠሪያ ውህደት ጋር"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "ድር",
     "browserRequirements": "JavaScript ያስፈልገዋል። ከGmail፣ Google Workspace እና Microsoft Outlook ጋር ይሰራል።",
     "urls": {

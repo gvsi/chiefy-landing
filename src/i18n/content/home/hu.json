@@ -658,10 +658,6 @@
         "description": "Teljes hozzáférés az intelligens beérkező levelek kategorizálásával, mesterséges intelligencia-vázlatokkal, asszisztenssel és naptárintegrációval"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "JavaScript szükséges. Működik a Gmail, Google Workspace és Microsoft Outlook jelekkel.",
     "urls": {

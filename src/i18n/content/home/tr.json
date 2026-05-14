@@ -658,10 +658,6 @@
         "description": "Akıllı gelen kutusu kategorizasyonu, taslaklar, asistan ve takvim entegrasyonu ile tam erişim."
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "JavaScript gerektirir. Gmail, Google Workspace ve Microsoft Outlook ile çalışır.",
     "urls": {

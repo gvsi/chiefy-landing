@@ -658,10 +658,6 @@
         "description": "Volledige toegang met slimme inbox-categorisatie, AI-concepten, assistent en agenda-integratie"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Vereist JavaScript. Werkt met Gmail, Google Workspace en Microsoft Outlook.",
     "urls": {

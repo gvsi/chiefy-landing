@@ -658,10 +658,6 @@
         "description": "Plný prístup s inteligentnou kategorizáciou doručenej pošty, AI konceptmi, asistentom a integráciou kalendára"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Vyžaduje JavaScript. Funguje s Gmail, Google Workspace a Microsoft Outlook.",
     "urls": {

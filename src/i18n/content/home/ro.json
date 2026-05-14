@@ -658,10 +658,6 @@
         "description": "Acces complet cu categorizare inteligentă în căsuța de e-mail, schițe AI, asistent și integrare în calendar"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Necesită JavaScript. Funcționează cu Gmail, Google Workspace și Microsoft Outlook.",
     "urls": {

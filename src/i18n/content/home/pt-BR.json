@@ -658,10 +658,6 @@
         "description": "Acesso total com categorização inteligente de caixa de entrada, rascunhos de IA, assistente e integração de calendário"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Rede",
     "browserRequirements": "Requer JavaScript. Funciona com Gmail, Google Workspace e Microsoft Outlook.",
     "urls": {

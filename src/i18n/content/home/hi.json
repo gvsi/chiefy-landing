@@ -658,10 +658,6 @@
         "description": "स्मार्ट इनबॉक्स वर्गीकरण, AI ड्राफ्ट, सहायक और कैलेंडर एकीकरण के साथ पूर्ण पहुंच"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "वेब",
     "browserRequirements": "को जावास्क्रिप्ट की आवश्यकता है। Gmail, Google Workspace, और Microsoft Outlook के साथ काम करता है।",
     "urls": {

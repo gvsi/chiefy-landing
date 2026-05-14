@@ -658,10 +658,6 @@
         "description": "Acceso completo con categorización inteligente de la bandeja de entrada, borradores de IA, asistente e integración de calendario"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Requiere JavaScript. Funciona con Gmail, Google Workspace y Microsoft Outlook.",
     "urls": {

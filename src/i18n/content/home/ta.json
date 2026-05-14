@@ -658,10 +658,6 @@
         "description": "ஸ்மார்ட் இன்பாக்ஸ் வகைப்படுத்தல், AI வரைவுகள், உதவியாளர் மற்றும் காலண்டர் ஒருங்கிணைப்புடன் முழு அணுகல்"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "இணையம்",
     "browserRequirements": "JavaScript தேவை. Gmail, Google Workspace மற்றும் Microsoft Outlook உடன் வேலை செய்கிறது.",
     "urls": {

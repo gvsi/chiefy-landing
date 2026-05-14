@@ -658,10 +658,6 @@
         "description": "完全存取智慧收件匣分類、AI 草稿、助理和日曆整合"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "網路",
     "browserRequirements": "需要 JavaScript。適用於 Gmail、Google Workspace 和 Microsoft Outlook。",
     "urls": {

@@ -658,10 +658,6 @@
         "description": "Täysi pääsy älykkään postilaatikon luokittelun, AI-luonnoksen, avustajan ja kalenterin integroinnin avulla"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Vaatii JavaScriptin. Toimii Gmailin, Google Workspacen ja Microsoft Outlookin kanssa.",
     "urls": {

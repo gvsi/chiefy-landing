@@ -658,10 +658,6 @@
         "description": "Täielik juurdepääs nutika postkasti kategoriseerimise, AI mustandite, assistendi ja kalendri integreerimisega"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Veeb",
     "browserRequirements": "Nõuab JavaScripti. Töötab parameetritega Gmail, Google tööruumi ja Microsoft Outlook.",
     "urls": {

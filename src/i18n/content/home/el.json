@@ -658,10 +658,6 @@
         "description": "Πλήρης πρόσβαση με έξυπνη κατηγοριοποίηση εισερχομένων, προσχέδια AI, βοηθό και ενσωμάτωση ημερολογίου"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Ιστός",
     "browserRequirements": "Απαιτεί JavaScript. Λειτουργεί με Gmail, Google Workspace και Microsoft Outlook.",
     "urls": {

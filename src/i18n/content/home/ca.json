@@ -658,10 +658,6 @@
         "description": "Accés complet amb categorització intel·ligent de la safata d'entrada, esborranys AI, assistent i integració del calendari"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Requereix JavaScript. Funciona amb Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {

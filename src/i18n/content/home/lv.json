@@ -658,10 +658,6 @@
         "description": "Pilna piekļuve ar viedu iesūtnes kategorizēšanu, AI melnrakstiem, asistentu un kalendāra integrāciju"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Tīmeklis",
     "browserRequirements": "Nepieciešams JavaScript. Darbojas ar Gmail, Google Workspace un Microsoft Outlook.",
     "urls": {

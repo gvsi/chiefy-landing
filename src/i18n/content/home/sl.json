@@ -658,10 +658,6 @@
         "description": "Popoln dostop s pametno kategorizacijo nabiralnika, osnutki AI, pomočnikom in integracijo koledarja"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Splet",
     "browserRequirements": "Potreben je JavaScript. Deluje z Gmail, Google Workspace in Microsoft Outlook.",
     "urls": {

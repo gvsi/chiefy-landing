@@ -658,10 +658,6 @@
         "description": "സ്മാർട്ട് ഇൻബോക്സ് വർഗ്ഗീകരണം, AI ഡ്രാഫ്റ്റുകൾ, അസിസ്റ്റന്റ്, കലണ്ടർ സംയോജനം എന്നിവയിലൂടെ പൂർണ്ണ ആക്‌സസ്."
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "വെബ്",
     "browserRequirements": "ജാവാസ്ക്രിപ്റ്റ് ആവശ്യമാണ്. Gmail, Google വർക്ക്‌സ്‌പെയ്‌സ്, Microsoft Outlook എന്നിവയിൽ പ്രവർത്തിക്കുന്നു.",
     "urls": {

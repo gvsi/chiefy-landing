@@ -92,7 +92,9 @@ const articleJsonLd = {
         url: homeUrl,
         logo: {
             "@type": "ImageObject",
-            url: new URL("/favicon.svg", Astro.site).toString(),
+            url: new URL("/apple-touch-icon.png", Astro.site).toString(),
+            width: 180,
+            height: 180,
         },
     },
     mainEntityOfPage: {

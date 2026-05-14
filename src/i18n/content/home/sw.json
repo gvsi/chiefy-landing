@@ -658,10 +658,6 @@
         "description": "Ufikiaji kamili kwa uainishaji mahiri wa kikasha pokezi, rasimu za AI, mratibu na muunganisho wa kalenda"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Mtandao",
     "browserRequirements": "Inahitaji JavaScript. Inafanya kazi na Gmail, Google Workspace, na Microsoft Outlook.",
     "urls": {

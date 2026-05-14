@@ -658,10 +658,6 @@
         "description": "స్మార్ట్ ఇన్‌బాక్స్ వర్గీకరణ, AI డ్రాఫ్ట్‌లు, అసిస్టెంట్ మరియు క్యాలెండర్ ఇంటిగ్రేషన్‌తో పూర్తి యాక్సెస్"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "జావాస్క్రిప్ట్ అవసరం. Gmail, Google Workspace మరియు Microsoft Outlookతో పని చేస్తుంది.",
     "urls": {

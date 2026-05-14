@@ -658,10 +658,6 @@
         "description": "Pełny dostęp dzięki inteligentnej kategoryzacji skrzynek odbiorczych, wersji roboczych AI, asystentowi i integracji z kalendarzem"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Wymaga JavaScript. Współpracuje z Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {

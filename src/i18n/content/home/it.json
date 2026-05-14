@@ -658,10 +658,6 @@
         "description": "Accesso completo con categorizzazione intelligente della casella di posta, bozze IA, assistente e integrazione del calendario"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Rete",
     "browserRequirements": "Richiede JavaScript. Funziona con Gmail, Google Workspace e Microsoft Outlook.",
     "urls": {

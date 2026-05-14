@@ -658,10 +658,6 @@
         "description": "Buong pag-access gamit ang matalinong pagkakategorya ng inbox, AI draft, katulong, at pagsasama ng kalendaryo"
       }
     ],
-    "aggregateRating": {
-      "ratingValue": "4.8",
-      "ratingCount": "853"
-    },
     "operatingSystem": "Web",
     "browserRequirements": "Nangangailangan ng JavaScript. Gumagana sa Gmail, Google Workspace, at Microsoft Outlook.",
     "urls": {
