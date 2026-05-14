@@ -15,8 +15,8 @@ import FAQ from "../../../components/sections/FAQ.astro";
 import FinalCTA from "../../../components/sections/FinalCTA.astro";
 import Footer from "../../../components/sections/Footer.astro";
 import { NON_DEFAULT_LOCALES, type Locale } from "../../../i18n/locales";
-import { alternateLinks, localizedPath } from "../../../i18n/routing";
-import { getAllVerticalContent, getHomeContent, getRouteTranslationState, robotsForTranslationState } from "../../../i18n/content";
+import { localizedPath } from "../../../i18n/routing";
+import { getAllVerticalContent, getAlternateLinksForRoute, getHomeContent, getRouteTranslationState, robotsForTranslationState } from "../../../i18n/content";
 import { getMessages, t } from "../../../i18n/messages/schema";
 import { jsonLdScript } from "../../../i18n/jsonLd";
 
@@ -41,7 +41,7 @@ const home = getHomeContent(locale);
 const homeSections = home as any;
 const canonicalPath = localizedPath(locale, { kind: "vertical", slug: data.slug });
 const canonicalUrl = new URL(canonicalPath, Astro.site).toString();
-const alternates = alternateLinks(Astro.site, { kind: "vertical", slug: data.slug });
+const alternates = await getAlternateLinksForRoute(Astro.site, { kind: "vertical", slug: data.slug });
 const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "vertical", locale, slug: data.slug }));
 const extraHeadHtml = [
     jsonLdScript({

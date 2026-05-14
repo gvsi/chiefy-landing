@@ -243,6 +243,15 @@ function canonicalLinks(document) {
         .map((node) => getAttr(node, "href") ?? "")
 }
 
+function alternateHreflangLinks(document) {
+    return collectElements(document, "link")
+        .filter((node) => getAttr(node, "rel") === "alternate" && getAttr(node, "hreflang"))
+        .map((node) => ({
+            hreflang: getAttr(node, "hreflang") ?? "",
+            href: getAttr(node, "href") ?? "",
+        }))
+}
+
 function assertCanonicalUrls() {
     for (const filePath of listFiles(distRoot, ".html")) {
         const relativePath = path.relative(distRoot, filePath)
@@ -260,6 +269,60 @@ function assertCanonicalUrls() {
         }
         if (/https:\/\/duetmail\.com\/en(?:\/|$)/u.test(canonicals[0])) {
             fail(`Canonical URL leaked /en in dist/${relativePath}: ${canonicals[0]}`)
+        }
+    }
+}
+
+function assertHreflangCoverage() {
+    const bootstrapLocales = new Set(nonDefaultLocales.filter((locale) => localeHasBootstrap(locale)))
+    const expectedLocales = [defaultLocale, ...nonDefaultLocales.filter((locale) => !bootstrapLocales.has(locale))]
+    const expectedHreflangs = new Set([...expectedLocales, "x-default"])
+
+    for (const filePath of listFiles(distRoot, ".html")) {
+        const relativePath = path.relative(distRoot, filePath)
+        if (relativePath.startsWith("i18n-qa/")) continue
+
+        const { document } = parseHtmlFile(relativePath)
+        const links = alternateHreflangLinks(document)
+        const seen = new Map()
+        for (const link of links) {
+            if (seen.has(link.hreflang)) {
+                fail(`Duplicate hreflang ${link.hreflang} in dist/${relativePath}`)
+            }
+            seen.set(link.hreflang, link.href)
+        }
+
+        for (const expected of expectedHreflangs) {
+            if (!seen.has(expected)) {
+                fail(`Missing hreflang ${expected} in dist/${relativePath}`)
+            }
+        }
+        for (const actual of seen.keys()) {
+            if (!expectedHreflangs.has(actual)) {
+                fail(`Unexpected hreflang ${actual} in dist/${relativePath}`)
+            }
+        }
+        for (const [hreflang, href] of seen.entries()) {
+            if (!href.startsWith("https://duetmail.com/")) {
+                fail(`hreflang ${hreflang} must use canonical production URL in dist/${relativePath}: ${href}`)
+            }
+        }
+    }
+}
+
+function assertLanguageMenuLinksAreOriginRelative() {
+    for (const filePath of listFiles(distRoot, ".html")) {
+        const relativePath = path.relative(distRoot, filePath)
+        if (relativePath.startsWith("i18n-qa/")) continue
+
+        const { document } = parseHtmlFile(relativePath)
+        for (const anchor of collectElements(document, "a")) {
+            const className = getAttr(anchor, "class") ?? ""
+            const href = getAttr(anchor, "href") ?? ""
+            const classes = className.split(/\s+/u)
+            if (classes.includes("language-menu-link") && href.startsWith("https://duetmail.com/")) {
+                fail(`Language menu link must stay origin-relative in dist/${relativePath}: ${href}`)
+            }
         }
     }
 }
@@ -426,6 +489,8 @@ try {
     assertCopiedRoutesManifest()
     assertEnglishRouteJsonLdMatrix()
     assertCanonicalUrls()
+    assertHreflangCoverage()
+    assertLanguageMenuLinksAreOriginRelative()
     assertLegalRenderedDates()
     assertBootstrapRobotsState()
     assertNoBootstrapLocaleAlternates()

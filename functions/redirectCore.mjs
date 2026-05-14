@@ -134,11 +134,25 @@ export function resolveRuntimeLocale(raw) {
     return resolveKnownRuntimeLocale(raw) ?? DEFAULT_LOCALE
 }
 
+function hasRegionOrScriptSubtag(parts) {
+    const [, second] = parts
+    return Boolean(second && (/^[A-Z][a-z]{3}$/.test(second) || /^([A-Z]{2}|\d{3})$/.test(second)))
+}
+
+function resolveRouteLocalePrefix(raw) {
+    const exact = resolveKnownRuntimeLocale(raw, { allowLanguageFallbacks: false })
+    if (exact) return exact
+
+    const normalized = canonicalizeLocaleTag(raw)
+    if (normalized.kind !== "candidate" || !hasRegionOrScriptSubtag(normalized.parts)) return null
+    return resolveKnownRuntimeLocale(raw, { allowLanguageFallbacks: true })
+}
+
 function canonicalLocalePrefixedPath(pathname) {
     const parts = pathname.split("/")
     const first = parts[1]
     if (!first) return pathname
-    const resolvedLocale = resolveKnownRuntimeLocale(first, { allowLanguageFallbacks: false })
+    const resolvedLocale = resolveRouteLocalePrefix(first)
     if (!resolvedLocale) return pathname
 
     const canonicalFirstSegment = SUPPORTED_LOCALES.has(first) ? first : null

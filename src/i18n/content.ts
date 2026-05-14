@@ -1,6 +1,6 @@
 import { getCollection, type CollectionEntry } from "astro:content"
-import { DEFAULT_LOCALE, type Locale, type RenderLocale } from "./locales"
-import type { LegalPage } from "./routing"
+import { DEFAULT_LOCALE, SUPPORTED_LOCALES, type Locale, type RenderLocale } from "./locales"
+import { alternateLinks, type AlternateLink, type LegalPage, type RouteInput } from "./routing"
 
 type JsonObject = Record<string, unknown>
 type JsonModule<T> = { default?: T }
@@ -21,6 +21,8 @@ type TranslationRouteInput =
     | { kind: "blogPost"; locale: Locale; slug: string }
     | { kind: "vertical"; locale: Locale; slug: string }
     | { kind: "legal"; locale: Locale; page: LegalPage }
+
+const routeAlternateLocaleCache = new Map<string, Promise<Locale[]>>()
 
 const homeModules = import.meta.glob("./content/home/*.json", { eager: true })
 const legalModules = import.meta.glob("./content/legal/*/*.html", {
@@ -141,6 +143,56 @@ export async function getRouteTranslationState(input: TranslationRouteInput): Pr
     }
 
     return consumed.some((value) => hasBootstrapMarker(value)) ? "bootstrap" : "complete"
+}
+
+function routeCacheKey(input: RouteInput): string {
+    switch (input.kind) {
+        case "home":
+        case "blogIndex":
+            return input.kind
+        case "blogPost":
+        case "vertical":
+            return `${input.kind}:${input.slug}`
+        case "legal":
+            return `${input.kind}:${input.page}`
+    }
+}
+
+function translationRouteInput(input: RouteInput, locale: Locale): TranslationRouteInput {
+    switch (input.kind) {
+        case "home":
+        case "blogIndex":
+            return { kind: input.kind, locale }
+        case "blogPost":
+            return { kind: "blogPost", locale, slug: input.slug }
+        case "vertical":
+            return { kind: "vertical", locale, slug: input.slug }
+        case "legal":
+            return { kind: "legal", locale, page: input.page }
+    }
+}
+
+async function getCompleteLocalesForRoute(input: RouteInput): Promise<Locale[]> {
+    const key = routeCacheKey(input)
+    const cached = routeAlternateLocaleCache.get(key)
+    if (cached) return cached
+
+    const locales = Promise.all(
+        SUPPORTED_LOCALES.map(async (locale) => ({
+            locale,
+            state: await getRouteTranslationState(translationRouteInput(input, locale)),
+        })),
+    ).then((states) =>
+        states
+            .filter(({ state }) => state === "complete")
+            .map(({ locale }) => locale),
+    )
+    routeAlternateLocaleCache.set(key, locales)
+    return locales
+}
+
+export async function getAlternateLinksForRoute(site: URL | undefined, input: RouteInput): Promise<AlternateLink[]> {
+    return alternateLinks(site, input, await getCompleteLocalesForRoute(input))
 }
 
 export function robotsForTranslationState(state: TranslationState): string | undefined {

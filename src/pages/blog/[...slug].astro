@@ -2,9 +2,8 @@
 import { render } from "astro:content"
 import BlogLayout from "../../layouts/BlogLayout.astro"
 import { DEFAULT_LOCALE } from "../../i18n/locales"
-import { alternateLinks } from "../../i18n/routing"
 import { getMessages } from "../../i18n/messages/schema"
-import { getAllBlogPosts, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content"
+import { getAllBlogPosts, getAlternateLinksForRoute, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content"
 
 export async function getStaticPaths() {
     const posts = await getAllBlogPosts(DEFAULT_LOCALE)
@@ -17,7 +16,7 @@ export async function getStaticPaths() {
 const { post, slug } = Astro.props
 const locale = DEFAULT_LOCALE
 const messages = getMessages(locale)
-const alternates = alternateLinks(Astro.site, { kind: "blogPost", slug })
+const alternates = await getAlternateLinksForRoute(Astro.site, { kind: "blogPost", slug })
 const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "blogPost", locale, slug }))
 const { Content } = await render(post)
 ---

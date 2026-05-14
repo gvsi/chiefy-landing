@@ -23,6 +23,15 @@ const localeAlternates = alternates
 
 const shouldRender = localeAlternates.length >= 2
 const currentLanguage = LOCALE_ENDONYMS[locale]
+
+function originRelativeHref(href: string): string {
+    try {
+        const url = new URL(href)
+        return `${url.pathname}${url.search}${url.hash}` || "/"
+    } catch {
+        return href
+    }
+}
 ---
 
 {
@@ -61,7 +70,7 @@ const currentLanguage = LOCALE_ENDONYMS[locale]
                                 "language-menu-link",
                                 alternate.locale === locale && "language-menu-link--current",
                             ]}
-                            href={alternate.href}
+                            href={originRelativeHref(alternate.href)}
                             lang={alternate.locale}
                             aria-current={alternate.locale === locale ? "page" : undefined}
                             aria-label={t(messages, "language.switchTo", { language })}

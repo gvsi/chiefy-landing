@@ -110,6 +110,30 @@
       "location": null
     },
     {
+      "name": "Unlisted Portuguese regional locale falls back to pt-BR",
+      "input": "https://duetmail.com/pt-MZ/privacy",
+      "status": 301,
+      "location": "https://duetmail.com/pt-BR/privacy"
+    },
+    {
+      "name": "Unlisted Portuguese regional blog locale falls back to pt-BR",
+      "input": "https://duetmail.com/pt-AO/blog",
+      "status": 301,
+      "location": "https://duetmail.com/pt-BR/blog"
+    },
+    {
+      "name": "Unlisted Chinese regional locale falls back to zh-Hans",
+      "input": "https://duetmail.com/zh-MY/privacy",
+      "status": 301,
+      "location": "https://duetmail.com/zh-Hans/privacy"
+    },
+    {
+      "name": "Valencian regional variant falls back to Catalan",
+      "input": "https://duetmail.com/ca-ES-valencia/privacy",
+      "status": 301,
+      "location": "https://duetmail.com/ca/privacy"
+    },
+    {
       "name": "Malformed locale prefix is not redirected",
       "input": "https://duetmail.com/pt-***/privacy",
       "status": 200,

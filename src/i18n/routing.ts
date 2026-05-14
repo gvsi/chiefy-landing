@@ -4,7 +4,7 @@ export type RouteKind = "home" | "blogIndex" | "blogPost" | "vertical" | "legal"
 export type LegalPage = "terms" | "privacy" | "cookies" | "disclaimer"
 export type AlternateLink = { locale: Locale | "x-default"; href: string }
 
-type RouteInput =
+export type RouteInput =
     | { kind: "home" }
     | { kind: "blogIndex" }
     | { kind: "blogPost"; slug: string }

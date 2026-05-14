@@ -680,6 +680,7 @@ async function assertTask4UtilityLayer(locales) {
         "getBlogPost",
         "getAllBlogPosts",
         "getRouteTranslationState",
+        "getAlternateLinksForRoute",
         "robotsForTranslationState",
     ]) {
         if (!contentSource.includes(`function ${expected}`)) {
