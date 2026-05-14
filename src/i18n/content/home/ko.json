@@ -7,7 +7,7 @@
     "badge": "이제 Gmail 및 Outlook에 사용 가능",
     "headlinePrefix": "당신의 ",
     "headlineHighlight": "참모장",
-    "headlineSuffix": " for",
+    "headlineSuffix": "：",
     "rotatingFeatures": [
       "이메일 정렬",
       "답변 초안 작성",

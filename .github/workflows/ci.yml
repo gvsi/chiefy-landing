@@ -35,6 +35,7 @@ jobs:
           pnpm i18n:verify
           pnpm i18n:scan-source
           pnpm i18n:redirects
+          pnpm i18n:pseudo
 
       - name: Check Astro and Pages Functions
         run: |

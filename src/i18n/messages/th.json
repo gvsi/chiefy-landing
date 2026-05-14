@@ -21,7 +21,7 @@
   "language.label": "ภาษา",
   "language.current": "ภาษาปัจจุบัน: {language}",
   "language.switchTo": "เปลี่ยนภาษาเป็น {language}",
-  "blog.index.eyebrow": "The Journal",
+  "blog.index.eyebrow": "บทความ",
   "blog.index.title": "ข้อมูลเชิงลึก",
   "blog.index.description": "มุมมองเกี่ยวกับประสิทธิภาพการใช้อีเมล, AI และอนาคตของการทำงาน",
   "blog.index.empty": "ยังไม่มีบทความ โปรดกลับมาตรวจสอบอีกครั้งเร็วๆ นี้",

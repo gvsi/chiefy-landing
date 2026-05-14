@@ -122,10 +122,22 @@ function assertLegalHtmlStructure(relativePath, content) {
 
     visitHtmlNodes(fragment, (node) => {
         if (node.tagName !== "a") return
+        const invalidAttr = node.attrs?.find((attr) =>
+            /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}]/u.test(attr.name),
+        )
+        if (invalidAttr) {
+            fail(`Legal anchor has translated text inside attributes in ${relativePath}: ${invalidAttr.name}`)
+        }
         const href = getHtmlAttr(node, "href")
         if (!href) fail(`Legal anchor missing href in ${relativePath}`)
         if (href === "duetmail.com") {
             fail(`Legal anchor must use https://duetmail.com in ${relativePath}`)
+        }
+        if (/^https?:\/\//iu.test(href)) {
+            const rel = getHtmlAttr(node, "rel")
+            if (rel !== "external nofollow noopener") {
+                fail(`External legal anchor must preserve rel="external nofollow noopener" in ${relativePath}: ${href}`)
+            }
         }
     })
 }
@@ -164,6 +176,17 @@ const legalEnglishLeftoverPhrases = [
     "Pro职业",
     "Pro愿景",
     "OpenAI's processing of information inside ChatGPT",
+    "We may disclose Your personal information",
+    "Use of Your Personal Data",
+    "Do Not Sell My Personal Information",
+    "Do Not Sell My",
+    "Limit the Use or Disclosure of My Sensitive Personal Information",
+    "Limit the Use or Disclosure",
+    "Privacy Preferences",
+    "Update Privacy Preferences",
+    "Last updated",
+    "contact Us",
+    "contact us",
 ]
 
 const publishedContentLeftoverPhrases = [
@@ -281,10 +304,27 @@ const requiredLocalizedMessageKeys = [
     "legal.pages.disclaimer.title",
 ]
 
+const disallowedLocalizedMessageValues = {
+    "legalNav.home": new Set(["a casa", "Bahay", "Дом", "Ev", "家", "집", "Koti", "Rumah", "Thuis", "Zuhause", "Σπίτι", "ቤት", "বাড়ি", "வீடு", "വീട്"]),
+    "legalNav.cookies": new Set(["Kekse", "Koekjes", "kue", "饼干"]),
+    "blog.index.issue": new Set(["いいえ {issue}", "아니요. {issue}", "Nee.{issue}", "Nej.{issue}", "Nei. {issue}", "Tidak.{issue}", "Hayır. {issue}", "Hindi. {issue}", "Nu. {issue}"]),
+    "footer.legal": new Set(["합법적인"]),
+}
+
 function assertMessageQualityContracts(locale, messages, englishMessages) {
     const titleSuffix = messages["blog.titleSuffix"]
     if (typeof titleSuffix !== "string" || !/^\{title\} \| \S/u.test(titleSuffix)) {
         fail(`blog.titleSuffix must preserve "{title} | " spacing for ${locale}`)
+    }
+
+    for (const [key, value] of Object.entries(messages)) {
+        if (typeof value !== "string") continue
+        if (/[\p{Script=Latin}]\{[A-Za-z_][A-Za-z0-9_]*\}/u.test(value) || /\{[A-Za-z_][A-Za-z0-9_]*\}[\p{Script=Latin}]/u.test(value)) {
+            fail(`Message placeholder is glued to Latin text for ${locale}: ${key}`)
+        }
+        if (disallowedLocalizedMessageValues[key]?.has(value)) {
+            fail(`Message contains known wrong-context translation for ${locale}: ${key}`)
+        }
     }
 
     if (locale === "en") return

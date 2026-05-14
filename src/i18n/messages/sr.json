@@ -11,7 +11,7 @@
   "nav.mobileAria": "Mobilna navigacija",
   "nav.openMenu": "Otvorite meni za navigaciju",
   "nav.closeMenu": "Zatvorite meni za navigaciju",
-  "legalNav.home": "Home",
+  "legalNav.home": "Početna",
   "legalNav.terms": "Uslovi",
   "legalNav.privacy": "Privatnost",
   "legalNav.cookies": "Kolačići",
@@ -21,7 +21,7 @@
   "language.label": "Jezik",
   "language.current": "Trenutni jezik: {language}",
   "language.switchTo": "Prebaci jezik na {language}",
-  "blog.index.eyebrow": "The Journal",
+  "blog.index.eyebrow": "Žurnal",
   "blog.index.title": "Увиди",
   "blog.index.description": "Pogledi na produktivnost e-pošte, AI, i budućnost posla.",
   "blog.index.empty": "Još nema članaka. Proverite ponovo uskoro.",
@@ -73,12 +73,12 @@
   "footer.company": "Kompanija",
   "footer.chromeExtension": "Chrome ekstenzija",
   "footer.linkedin": "LinkedIn",
-  "footer.x": "Ks",
+  "footer.x": "X",
   "footer.instagram": "Instagram",
   "footer.startupFame": "Startup Fame",
   "footer.tagline": "Duet Mail — Pomoćnik za e-poštu AI koji vam štedi sate svake nedelje",
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "Logotipi kupaca",
   "home.testimonialsAria": "Iskustva korisnika",
-  "home.scrollingTestimonialsAria": "Scrolling testimonials"
+  "home.scrollingTestimonialsAria": "Klizne preporuke"
 }

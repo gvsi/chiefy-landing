@@ -7,7 +7,7 @@
     "badge": "Sada dostupno za Gmail i Outlook",
     "headlinePrefix": "Tvoje",
     "headlineHighlight": "načelnika štaba",
-    "headlineSuffix": "za",
+    "headlineSuffix": " za",
     "rotatingFeatures": [
       "sortiranje e-pošte",
       "izrada odgovora",
