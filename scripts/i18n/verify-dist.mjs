@@ -165,6 +165,12 @@ function collectElements(document, tagName) {
     return elements
 }
 
+function htmlElement(document) {
+    const elements = collectElements(document, "html")
+    if (elements.length !== 1) fail(`Expected exactly one <html> element, found ${elements.length}`)
+    return elements[0]
+}
+
 function collectJsonLd(relativePath) {
     const { document } = parseHtmlFile(relativePath)
     return collectElements(document, "script")
@@ -387,6 +393,20 @@ function localeFromDistPath(relativePath) {
     return nonDefaultLocales.includes(firstSegment) ? firstSegment : defaultLocale
 }
 
+function assertHtmlLangAttributes() {
+    for (const filePath of listFiles(distRoot, ".html")) {
+        const relativePath = path.relative(distRoot, filePath)
+        if (relativePath.startsWith("i18n-qa/")) continue
+
+        const { document } = parseHtmlFile(relativePath)
+        const actual = getAttr(htmlElement(document), "lang")
+        const expected = localeFromDistPath(relativePath)
+        if (actual !== expected) {
+            fail(`Wrong <html lang> in dist/${relativePath}: expected ${expected}, got ${actual ?? "<missing>"}`)
+        }
+    }
+}
+
 function robotsContent(document) {
     return collectElements(document, "meta")
         .filter((node) => getAttr(node, "name") === "robots")
@@ -489,6 +509,7 @@ try {
     assertCopiedRoutesManifest()
     assertEnglishRouteJsonLdMatrix()
     assertCanonicalUrls()
+    assertHtmlLangAttributes()
     assertHreflangCoverage()
     assertLanguageMenuLinksAreOriginRelative()
     assertLegalRenderedDates()

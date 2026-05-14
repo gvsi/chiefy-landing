@@ -6,8 +6,8 @@ import { fileURLToPath } from "node:url"
 
 const repoRoot = path.resolve(fileURLToPath(new URL("../..", import.meta.url)))
 if (!existsSync(path.join(repoRoot, "src/i18n/messages/en.json"))) {
-    console.log("i18n source scan skipped until English message extraction exists")
-    process.exit(0)
+    console.error("Missing src/i18n/messages/en.json; run the source scanner after English extraction is present")
+    process.exit(1)
 }
 const glossary = JSON.parse(readFileSync(path.join(repoRoot, "src/i18n/glossary.source.json"), "utf8"))
 const allowedTerms = new Set(glossary.locked_terms)
