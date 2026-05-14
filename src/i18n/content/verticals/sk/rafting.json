@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail pre rafting a požičovne kajakov | AI asistent pre e-maily",
+  "metaDescription": "Duet Mail pomáha raftingovým sprievodcom a požičovniam kajakov okamžite odpovedať na dopyty po výletoch — aj z rieky. Odpovede vytvorené AI s detailmi vášho výletu, cenami a vaším štýlom.",
+  "heroBadge": "Dôveruje mu viac než 200 riečnych sprievodcov",
+  "heroHeadline": "Váš e-mailový asistent, keď ste na rieke",
+  "heroSubline": "Duet sa naučí typy vašich výletov, ceny a zoznamy vybavenia — potom pripraví odpovede na rezervačné dopyty, aby zákazníci dostali odpoveď aj počas zjazdu perejí.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Celodenný raftový výlet pre 6 osôb 9. augusta?",
+      "preview": "Ahoj! Sme rodina 6 ľudí na návšteve v auguste a chceme si rezervovať celodenný raftingový výlet na 9. Je cena na osobu a akú úroveň skúseností potrebujeme?",
+      "pill": "Na odpoveď",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Niekoľkodňový výlet — čo je v cene?",
+      "preview": "Sme skupina 4 ľudí a pozeráme si váš 3-dňový expedíciu. Sú v cene jedlá, kempingové vybavenie a suché vaky, alebo si máme priniesť vlastné...",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel & Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Deti vo veku 8 a 10 rokov — je to bezpečné?",
+      "preview": "Radi by sme išli na poldenný výlet, ale naše deti majú 8 a 10 rokov. Je úsek triedy II vhodný pre ich vek? Aké je minimum...",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nová recenzia vášho záznamu",
+      "preview": "Cestovateľ nedávno ohodnotil vaše podnikanie. Pozrite sa, čo napísal, a odpovedzte...",
+      "pill": "Pre informáciu",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ahoj Jennifer! 9. august je voľný pre 6 osôb. Celodenné výlety stoja $150/osoba a trvajú približne 7 hodín — nastupujeme o 8:30 AM. Skúsenosti netreba, naši sprievodcovia sa postarajú o všetko. PFDs, prilby, suché vaky a obed pri rieke sú v cene. Stačí priniesť opaľovací krém, vodné topánky a oblečenie, ktoré sa môže namočiť. Chceš, aby som rezervoval vaše miesta?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "osoba",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dve zachránené rezervácie zaplatia celý rok Duet."
+  },
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže dopyty na výlety sa zobrazia prvé, otázky o vybavení druhé a promo správy zmiznú. Už žiadne prehliadnuté skupinové rezervácie schované pod upozorneniami z TripAdvisor.",
+  "draftSubtitle": "Duet sa naučí typy vašich výletov, triedy perejí, zoznamy vybavenia a storno podmienky. Keď príde rezervačný dopyt, pripraví kompletnú odpoveď so všetkým, čo zákazník potrebuje. Vy ju skontrolujete a odošlete.",
+  "agentSubtitle": "\"Sú na sobotný celodenný výlet voľné miesta?\" \"Priprav odpoveď pre Jennifer s dostupnosťou.\" Duet pozná vašu schránku aj rozvrh — stačí sa opýtať.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Celodenný raftový výlet pre 6 osôb 9. augusta?",
+      "preview": "Sme rodina 6 ľudí na návšteve v auguste a chceme si rezervovať...",
+      "pill": "Odpovedať teraz",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: 3-dňová expedícia potvrdená — 15. augusta",
+      "pill": "Rezervované",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Sú deti vo veku 8 a 10 rokov vhodné pre Class II?",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Váš týždenný prehľad rezervácií",
+      "pill": "Pre informáciu",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Výpredaj na konci sezóny — zľava 30 % na suché obleky",
+      "pill": "Akcie",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Celodenný raftový výlet pre 6 osôb 9. augusta?",
+    "originalFrom": "Jennifer W. napísala:",
+    "originalText": "Ahoj! Sme rodina 6 ľudí na návšteve v auguste a chceme si rezervovať celodenný raftingový výlet na 9. Je cena na osobu a akú úroveň skúseností potrebujeme?",
+    "lines": [
+      "Ahoj Jennifer!",
+      "9. august je pre 6 osôb úplne voľný. Celodenné výlety stoja $150/osoba a trvajú približne 7 hodín — stretávame sa na mieste nástupu o 8:30 AM.",
+      "Skúsenosti netreba. PFDs, prilby, suché vaky a obed pri rieke sú v cene — stačí priniesť opaľovací krém a vodné topánky.",
+      "Chceš, aby som rezervoval vaše miesta?"
+    ],
+    "highlightText": "9. august je pre 6 osôb úplne voľný. Celodenné výlety stoja $150/osoba",
+    "tooltipFeatures": [
+      "Pozná typy vašich výletov a ceny",
+      "Píše vaším štýlom",
+      "Automaticky pridáva zoznam vybavenia",
+      "Učí sa v čase"
+    ]
+  },
+  "agent": {
+    "userMessage": "Sú na sobotný celodenný výlet voľné miesta?",
+    "agentResponse": "Na sobotný celodenný výlet zostávajú 4 voľné miesta z 10. Máte tiež poldenný ranný termín, ktorý je už úplne obsadený, a viacdňový odchod v nedeľu s 2 voľnými miestami. Chcete, aby som pripravil odpoveď na niektorý z čakajúcich dopytov s dostupnosťou na sobotu?",
+    "followUp": "Priprav odpoveď pre Jennifer s dostupnosťou na 9. augusta",
+    "followUpResponse": "Hotovo! Pripravil som odpoveď pre Jennifer s potvrdením 9. augusta pre 6 hostí za $150/osoba. Zahŕňa vaše štandardné detaily výletu, zoznam vybavenia a miesto stretnutia. Ste pripravení skontrolovať a odoslať."
+  },
+  "testimonialsTitle": "Obľúbený medzi riečnymi sprievodcami a prevádzkovateľmi",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Rafting Outfitter, CO",
+      "quote": "Počas hlavnej sezóny som na rieke 6 dní v týždni. Kým som sa vrátil k e-mailom, polovica skupín už rezervovala u niekoho iného. Teraz Duet pripravuje odpovede s detailmi výletu a cenami, zatiaľ čo som na mieste nástupu.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Kayak & SUP Tours, OR",
+      "quote": "Každý zákazník sa pýta na tých istých päť vecí — cenu, čo si priniesť, úroveň zručností, veľkosť skupiny, storno podmienky. Duet sa to naučil hneď v prvom týždni. Z hodiny e-mailov každý večer som sa dostala na päť minút kontroly návrhov.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Multi-Day Expedition Guide, AK",
+      "quote": "Vediem 5-dňové výlety bez signálu. Pred Duetom zostával každý dopyt bez odpovede, kým som sa nevrátil do mesta. Teraz zákazníci dostanú podrobnú odpoveď do niekoľkých minút a ja ju potvrdím, keď som mimo rieky.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "River Adventures Office Manager, WV",
+      "quote": "Spravujem rezervácie pre troch sprievodcov v rámci štyroch typov výletov. Duet kategorizuje každý e-mail podľa naliehavosti a pripravuje odpovede so správnym výletom, správnou cenou a správnym zoznamom vybavenia. Je to, akoby som sa naklonovala.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "Boli sme skeptickí, že AI zvládne e-maily špecifické pre rafting. Ale pochopila naše popisy Class III vs. Class IV, vekové minimum aj pravidlá pre wet-exit kajaky. Zákazníci si myslia, že sa rozprávajú s nami.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Trávte leto na rieke,\nnie dobiehaním e-mailov.",
+  "ctaSubline": "Spustite bezplatnú skúšobnú verziu. Pripojte svoju schránku za 30 sekúnd.",
+  "verticalFaqs": [
+    {
+      "question": "Zvládne Duet individuálne cenové ponuky na výlety a dopyty na viacdňové expedície?",
+      "answer": "Áno. Duet sa naučí celú ponuku vašich výletov — poldenné splavy, celodenné pereje, viacdňové expedície — spolu s cenami, tým, čo je v cene, vekovým minimom a úrovňami náročnosti. Keď sa niekto opýta na 3-dňový výlet pre 6 osôb, pripraví kompletnú odpoveď so správnymi detailmi. Vy ju skontrolujete, podľa potreby upravíte a odošlete."
+    },
+    {
+      "question": "Počas viacdňových výletov som bez signálu. Funguje Duet aj tak?",
+      "answer": "Presne tento problém Duet rieši. Zatiaľ čo ste na rieke bez signálu, Duet pripravuje odpovede na každý prichádzajúci dopyt. Keď sa vrátite do dosahu, návrhy odpovedí vás čakajú — stačí ich skontrolovať a odoslať. Väčšina sprievodcov nám hovorí, že to eliminuje nahromadené správy, ktoré im po každom viacdňovom výlete zostávali."
+    }
+  ],
+  "pricingNote": "Pri $150/osoba pokryjú dve zachránené rezervácie celý rok Pro."
+}

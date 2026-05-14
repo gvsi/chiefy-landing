@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail para assessores de casamento | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda assessores de casamento a responder emails de clientes e fornecedores instantaneamente — até durante visitas a espaços. Respostas redigidas por IA com seus pacotes, contatos de fornecedores e tom.",
+  "heroBadge": "Usado por mais de 400 assessores de casamento",
+  "heroHeadline": "Seu assistente de e-mail enquanto você está no local do evento",
+  "heroSubline": "O Duet aprende seus contatos de fornecedores, pacotes e preferências dos clientes — e então redige respostas de e-mail para que casais nunca fiquem esperando enquanto você coordena tudo no local.",
+  "inboxEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Disponibilidade para casamento em Sept 20?",
+      "preview": "Oi! Acabamos de ficar noivos e estamos pensando em um casamento em September 20th para cerca de 120 convidados. Você tem disponibilidade? Quais são seus pacotes...",
+      "pill": "Responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Casamento Thompson — modelos dos centros de mesa",
+      "preview": "Aqui estão as três opções de centro de mesa que conversamos. As rosas de jardim chegaram lindas. Me avise em qual direção o casal quer seguir...",
+      "pill": "Fornecedor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Entrando em pânico com o mapa de mesas",
+      "preview": "Sei que finalizamos o mapa na semana passada, mas minha mãe acabou de confirmar mais 4 pessoas e não faço ideia de onde colocá-las. Podemos mudar algumas mesas...",
+      "pill": "Cliente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova consulta pela sua página",
+      "preview": "Um casal solicitou mais informações sobre seus serviços. Veja os detalhes e responda...",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Oi Emily & James — parabéns pelo noivado! September 20th está disponível e 120 convidados é um tamanho perfeito. Ofereço pacotes de planejamento completo, planejamento parcial e coordenação do dia. Eu adoraria marcar uma consulta gratuita para entender a visão de vocês. Vocês têm disponibilidade para uma ligação rápida esta semana?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "casamento",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Um cliente recuperado paga mais de 20 anos de Duet."
+  },
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver novas consultas de casais primeiro, confirmações de fornecedores em seguida e nunca ruído de newsletters. Chega de perder um pedido de reserva enterrado sob alertas do The Knot.",
+  "draftSubtitle": "O Duet aprende seus pacotes, fornecedores preferidos e tom. Quando um casal entra em contato, ele redige uma resposta calorosa e completa com sua disponibilidade e próximos passos. Você revisa e envia.",
+  "agentSubtitle": "\"Quais emails de fornecedores chegaram para o casamento Thompson?\" \"Redija uma atualização de cronograma para todos os fornecedores de sábado.\" O Duet conhece sua caixa de entrada e seus clientes — é só perguntar.",
+  "categorizationEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Disponibilidade para casamento em Sept 20?",
+      "preview": "Acabamos de ficar noivos e estamos pensando em September 20th...",
+      "pill": "Responder agora",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Casamento Thompson — modelos dos centros de mesa",
+      "pill": "Fornecedor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Mapa de mesas — versão final anexada",
+      "pill": "Cliente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova consulta pela sua página",
+      "pill": "Info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Minted",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "20% de desconto em pré-convites esta semana",
+      "pill": "Promoções",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Disponibilidade para casamento em Sept 20?",
+    "originalFrom": "Emily & James W. escreveram:",
+    "originalText": "Oi! Acabamos de ficar noivos e estamos pensando em um casamento em September 20th para cerca de 120 convidados. Você tem disponibilidade? Quais são seus pacotes e preços?",
+    "lines": [
+      "Oi Emily & James — parabéns!",
+      "September 20th está disponível e 120 convidados é um tamanho maravilhoso. Ofereço pacotes de planejamento completo, planejamento parcial e coordenação do dia a partir de $3,500.",
+      "Eu adoraria marcar uma consulta gratuita para ouvir a visão de vocês e explicar qual pacote combina melhor.",
+      "Vocês têm disponibilidade para uma ligação esta semana?"
+    ],
+    "highlightText": "September 20th está disponível e 120 convidados é um tamanho maravilhoso",
+    "tooltipFeatures": [
+      "Conhece seus pacotes e disponibilidade",
+      "Redige no seu tom de voz",
+      "Inclui próximos passos da consulta",
+      "Aprende as preferências dos seus clientes"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quais emails de fornecedores chegaram para o casamento Thompson esta semana?",
+    "agentResponse": "Você recebeu 4 emails de fornecedores para o casamento Thompson esta semana: Bella Rosa Florals enviou modelos dos centros de mesa (aguardando a escolha do casal), Lakeside Venue confirmou o ensaio da cerimônia para sexta-feira às 4 PM, DJ Marco enviou a lista de músicas atualizada e Sweet Layers Bakery precisa do sabor final do bolo até quarta-feira. Quer que eu redija respostas para algum deles?",
+    "followUp": "Redija uma resposta para Bella Rosa com a escolha do casal — Opção B, as rosas de jardim",
+    "followUpResponse": "Pronto! Redigi uma resposta para Bella Rosa Florals confirmando a Opção B — os centros de mesa com rosas de jardim para o casamento Thompson. Ela inclui uma observação para seguir com o pedido completo de 14 mesas. Pronta para revisar e enviar."
+  },
+  "testimonialsTitle": "Adorado por assessores de casamento",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Assessora de casamentos boutique, CO",
+      "quote": "Passo metade da semana em locais de montanha sem sinal de celular. Enquanto isso, casais me mandam emails sobre cronogramas e perguntas de fornecedores. O Duet redige respostas com meus pacotes e tom exatos — eu reviso quando volto à cobertura.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Assessora de casamento com serviço completo, CA",
+      "quote": "Coordenar mais de 10 fornecedores por casamento significa que minha caixa de entrada vira uma zona de guerra na alta temporada. O Duet categoriza emails de fornecedores separadamente dos de clientes e redige follow-ups que eu mesma teria escrito. Agora eu realmente durmo.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Coordenadora do dia, TX",
+      "quote": "Nos dias de casamento, fico indisponível por 14 horas seguidas. Novas consultas costumavam ficar sem resposta até segunda-feira. Agora o Duet cuida delas instantaneamente e fechei 3 casamentos extras neste trimestre só por responder mais rápido.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Assessora de casamento de destino, HI",
+      "quote": "Meus casais vêm do mundo todo e mandam emails a qualquer hora. O Duet aprendeu minhas respostas de FAQ — logística de espaços, fornecedores locais, o que esperar — e redige respostas que soam exatamente como eu. Os clientes não fazem ideia.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Assessora de casamentos e eventos, NY",
+      "quote": "Eu passava 2 horas toda noite respondendo às mesmas perguntas sobre pacotes e disponibilidade. O Duet cuida do repetitivo para eu focar no trabalho criativo que realmente amo. Ele se pagou na primeira semana.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Esteja presente na cerimônia,\nnão enterrada na sua caixa de entrada.",
+  "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "O Duet funciona com todos os emails de coordenação de fornecedores?",
+      "answer": "Sim. O Duet aprende seus contatos de fornecedores, fornecedores preferidos e como você se comunica com cada um. Ele categoriza emails de fornecedores por casamento e redige respostas com os detalhes certos — confirmações, acompanhamentos, atualizações de cronograma. Você revisa e envia. Ele lida com floristas, buffets, espaços, DJs, fotógrafos e todos os outros fornecedores da sua agenda."
+    },
+    {
+      "question": "Fico no local em casamentos e espaços o dia todo. Vou perder novas consultas?",
+      "answer": "É exatamente isso que o Duet resolve. Quando um casal escreve perguntando sobre disponibilidade ou pacotes enquanto você coordena no local, o Duet redige uma resposta calorosa e profissional com sua disponibilidade real e próximos passos. Você revisa e envia quando estiver livre — até pelo celular entre eventos. A maioria dos assessores nos diz que economiza 1-2 horas de email por dia durante a alta temporada."
+    }
+  ],
+  "pricingNote": "Com $8,000/casamento, um cliente recuperado paga mais de 20 anos de Pro."
+}

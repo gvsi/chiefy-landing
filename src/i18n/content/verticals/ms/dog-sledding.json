@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail untuk Lawatan Kereta Luncur Anjing | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu musher membalas e-mel tempahan dengan serta-merta — walaupun dari laluan. Balasan draf AI dengan jenis lawatan, harga, polisi, dan gaya anda.",
+  "heroBadge": "Dipercayai oleh 200+ musher",
+  "heroHeadline": "Pembantu e-mel anda semasa anda berada di laluan",
+  "heroSubline": "Duet mempelajari jenis lawatan, harga, polisi cuaca, dan tambahan anda — kemudian membuat draf balasan e-mel supaya anda tidak terlepas tempahan kerana respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + dog sled combo untuk 4?",
+      "preview": "Hai! Keluarga saya yang seramai 4 orang akan melawat Fairbanks pada bulan Januari. Adakah anda menawarkan pakej kombo dengan kereta luncur anjing dan melihat aurora? Berapakah harganya?",
+      "pill": "Untuk Dibalas",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Apa yang patut kami pakai?",
+      "preview": "Kami telah ditempah untuk pengalaman mush selama 2 jam pada hari Sabtu. Apa yang patut kami pakai? Adakah anda menyediakan peralatan atau kami perlu bawa sendiri...",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim & Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Kanak-kanak berumur 5 dan 8 tahun — bolehkah mereka mush?",
+      "preview": "Kami akan membawa dua orang anak kami (5 dan 8). Bolehkah mereka menaiki sled atau benar-benar membantu mush? Juga, adakah anjing-anjing itu serasi dengan kanak-kanak kecil...",
+      "pill": "Tempahan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baharu untuk penyenaraian anda",
+      "preview": "Seorang pengembara baru-baru ini telah mengulas tentang perniagaan anda. Lihat apa yang mereka katakan dan balas...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Rachel! Kami amat berbesar hati untuk menerima keluarga anda. Aurora + Mush Combo kami ialah $175/orang — anda akan mendapat perjalanan sled selama 1.5 jam melalui laluan pada waktu senja, kemudian coklat panas di tepi unggun api sementara kami menunggu cahaya aurora. Semua peralatan cuaca sejuk disediakan. Kanak-kanak berumur 12 tahun dan ke bawah ialah $125. Mahu saya tempahkan untuk anda pada bulan Januari?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "lawatan",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dua tempahan yang diselamatkan sudah membayar setahun Duet."
+  },
+  "categorizationSubtitle": "Duet secara automatik menanda setiap e-mel supaya anda melihat permintaan tempahan terlebih dahulu, soalan kedua, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan lawatan yang terkubur di bawah makluman TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari jenis lawatan, harga, dan nada anda. Apabila pertanyaan tempahan masuk, ia membuat draf balasan lengkap dengan butiran pakej, apa yang perlu dipakai, dan tambahan. Anda semak dan hantar.",
+  "agentSubtitle": "\"Ada tempahan hujung minggu ini?\" \"Buat draf balasan tentang kombo aurora.\" Duet tahu peti masuk dan jadual anda — hanya tanya.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + dog sled combo untuk 4?",
+      "preview": "Keluarga saya yang terdiri daripada 4 orang akan melawat Fairbanks pada bulan Januari...",
+      "pill": "Balas Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Tempahan disahkan — Sabtu 1PM",
+      "pill": "Ditempah",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Bolehkah anak-anak kami (5 dan 8 tahun) ikut bersama?",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Ringkasan tempahan mingguan anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Jualan musim sejuk — diskaun 30% untuk harness mushing",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Gabungan Aurora + kereta luncur anjing untuk 4 orang?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Keluarga saya yang terdiri daripada 4 orang akan melawat Fairbanks pada bulan Januari. Adakah anda menawarkan pakej gabungan dengan aktiviti kereta luncur anjing dan melihat aurora? Berapakah harganya?",
+    "lines": [
+      "Hei Rachel!",
+      "Pakej Aurora + Mush kami ialah $175/orang — tunggangan kereta luncur selama 1.5 jam ketika senja diikuti dengan koko panas dan melihat aurora di tepi unggun api. Kanak-kanak berumur 12 tahun ke bawah ialah $125.",
+      "Semua peralatan cuaca sejuk disediakan (but, bib, sarung tangan, penutup muka). Cuma pakai lapisan pakaian hangat di dalam.",
+      "Mahukah anda saya menempah untuk keluarga anda yang terdiri daripada 4 orang untuk bulan Januari?"
+    ],
+    "highlightText": "Pakej Aurora + Mush ialah $175/orang — tunggangan kereta luncur selama 1.5 jam",
+    "tooltipFeatures": [
+      "Tahu jenis lawatan & harga anda",
+      "Draf mengikut suara anda",
+      "Termasuk butiran peralatan dan tambahan",
+      "Belajar dari masa ke masa"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ada tempahan yang akan datang hujung minggu ini? Cuacanya nampak agak meragukan.",
+    "agentResponse": "Anda mempunyai 3 lawatan yang ditempah hujung minggu ini: lawatan ke kandang anjing pada Sabtu jam 10 AM (2 tetamu), pengalaman mush selama 2 jam pada Sabtu jam 1 PM (4 tetamu), dan pakej aurora pada Ahad jam 4 PM (6 tetamu). Kumpulan Ahad bertanya tentang polisi pembatalan. Mahukah saya drafkan kemas kini cuaca untuk ketiga-tiganya?",
+    "followUp": "Drafkan kemas kini cuaca untuk kumpulan aurora hari Ahad",
+    "followUpResponse": "Selesai! Saya telah draf balasan kepada kumpulan aurora hari Ahad, memaklumkan mereka bahawa anda sedang memantau keadaan dan akan mengesahkan sebelum Sabtu petang. Ia termasuk dasar penjadualan semula anda dan tarikh alternatif. Sedia untuk semak dan hantar."
+  },
+  "testimonialsTitle": "Disukai oleh mushers dan pengusaha pelancongan",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Pengusaha Lawatan Sled Dog, AK",
+      "quote": "Saya berada di laluan selama 6 jam sehari tanpa perkhidmatan telefon langsung. Apabila saya kembali, separuh daripada pertanyaan tempahan sudah pergi ke syarikat lain. Duet menyediakan draf balasan dengan butiran lawatan dan harga saya — tetamu mendapat maklum balas dalam beberapa minit, bukan beberapa jam.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Pemilik Kennel & Mush Tour, AK",
+      "quote": "Kami menawarkan lawatan kennel, tunggangan mush, dan kombo aurora — setiap e-mel memerlukan jawapan yang berbeza. Duet memahami ketiga-tiga jenis lawatan itu dalam masa seminggu dan kini menyediakan draf balasan yang sepadan dengan pakej yang betul setiap kali.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Pemandu Dog Sled, MN",
+      "quote": "Dulu saya menghabiskan setiap petang menjawab soalan yang sama tentang pakaian yang perlu dipakai, had umur, dan anjing-anjing itu. Duet mengendalikan semuanya. Saya pulang dari laluan dan semuanya sudah didraf serta menunggu.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Pengusaha Lawatan Aurora & Sled, AK",
+      "quote": "Pembatalan akibat cuaca memang kerap berlaku pada musim sejuk. Duet menyediakan draf balasan penjadualan semula dengan dasar kami dan tarikh alternatif sebelum saya sempat semak telefon saya. Tetamu menyukai respons yang pantas.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Pengembaraan Dog Sled Keluarga, CO",
+      "quote": "Ibu bapa sentiasa bertanya sama ada anak mereka boleh mush, sama ada anjing-anjing itu mesra, apa yang perlu dipakai — soalan yang sama sebanyak 10 kali. Duet mempelajari setiap jawapan dan menyediakan drafnya dengan sempurna. Ia seperti menggandakan diri saya untuk e-mel.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Luangkan musim sejuk di laluan bersama anjing-anjing anda,\nbukan di peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
+  "verticalFaqs": [
+    {
+      "question": "Bagaimana Duet mengendalikan pembatalan cuaca dan ketidakpastian aurora?",
+      "answer": "Duet mempelajari dasar pembatalan dan penjadualan semula anda. Apabila tetamu menghantar e-mel tentang kebimbangan cuaca atau kebolehlihatan aurora, ia menyediakan draf balasan dengan dasar anda, tarikh alternatif, dan sebarang butiran yang berkaitan — seperti memantau keadaan dan mengesahkan lebih dekat dengan waktu lawatan. Anda semak dan hantar."
+    },
+    {
+      "question": "Saya menawarkan pelbagai jenis lawatan dengan harga dan tambahan berbeza. Bolehkah Duet membezakannya?",
+      "answer": "Ya. Duet mempelajari setiap jenis lawatan anda — lawatan kennel, pengalaman mush, kombo aurora, tambahan fotografi, pakej pengangkutan — bersama harga, tempoh, dan apa yang termasuk. Apabila pertanyaan diterima, ia memadankan lawatan yang betul dan menyediakan draf balasan dengan butiran yang tepat."
+    }
+  ],
+  "pricingNote": "Pada $150/lawatan, dua tempahan yang diselamatkan membayar untuk Pro selama lebih setahun."
+}

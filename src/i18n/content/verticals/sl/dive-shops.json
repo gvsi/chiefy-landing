@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail za potapljaške centre | AI e-poštni pomočnik",
+  "metaDescription": "Duet Mail pomaga lastnikom potapljaških centrov in inštruktorjem PADI takoj odgovoriti na vprašanja o certifikacijah, rezervacijah izletov in opremi — tudi pod vodo.",
+  "heroBadge": "Zaupa mu več kot 300 potapljaških operaterjev",
+  "heroHeadline": "Vaš e-poštni pomočnik, ko ste pod vodo",
+  "heroSubline": "Duet se nauči vaših potapljaških lokacij, zahtev za certifikacije, cen in načina pisanja — nato pripravlja osnutke e-poštnih odgovorov, da medtem ko ste na čolnu ne izgubite nobene rezervacije.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certifikacija Open Water — razpoložljivost?",
+      "preview": "Živjo! Na obisku bom prvi teden avgusta in bi rada opravila certifikat Open Water. Koliko dni traja in kaj je vključeno?",
+      "pill": "Za odgovor",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin & Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Skupina 6 oseb za sobotni potop z 2 jeklenkama",
+      "preview": "Imamo 6 certificiranih potapljačev in bi radi rezervirali jutranji potop z 2 jeklenkama to soboto. Imate prostor? Kakšna je cena na osebo...",
+      "pill": "Rezervacija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Najem BCD-ja za konec tedna?",
+      "preview": "Hej, certificiran sem, a potujem z malo prtljage. Ali izposojate BCD-je in regulatorje? Potreboval bi jih od petka do nedelje...",
+      "pill": "Vprašanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Napotitev tečajnice: Rachel Torres",
+      "preview": "Tečajnica je zaključila eLearning in za vaje v omejeni ter odprti vodi izbrala vaš potapljaški center...",
+      "pill": "V vednost",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Živjo, Rachel! Z veseljem vam pomagamo do certifikata. Tečaj Open Water traja 3 dni — en dan vaj v bazenu in dva dni potopov v morju. Vsa oprema je vključena. Avgust je še povsem odprt. Želite, da vam rezerviram mesto za prvi teden?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "potop",
+    "lostPerMonth": "3 trips (6 divers each)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Ena rešena skupinska potapljaška rezervacija pokrije leto uporabe Duet."
+  },
+  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite vprašanja o certifikacijah in rezervacije potopov, nato vprašanja o opremi, opozorila PADI pa takrat, ko ste pripravljeni. Nič več zgrešenih skupinskih rezervacij, zakopanih med glasili o opremi.",
+  "draftSubtitle": "Duet se nauči vaših potapljaških lokacij, zahtev za certifikate in cen. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi izleta, tem, kaj je vključeno, in kaj prinesti. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Koliko potapljačev je rezerviranih za soboto?\" \"Pripravi odgovor Rachel z razpoložljivostjo za Open Water.\" Duet pozna vaš nabiralnik in urnik — samo vprašajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certifikacija Open Water — razpoložljivost?",
+      "preview": "Prvi teden avgusta bom na obisku in bi rada opravila certifikat...",
+      "pill": "Odgovorite zdaj",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervacija potrjena — sobotni potop z 2 jeklenkama",
+      "pill": "Rezervirano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Najem BCD-ja in regulatorja za ta konec tedna?",
+      "pill": "Vprašanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Nova ocena vašega profila",
+      "pill": "V vednost",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Poletna razprodaja — 25 % popusta na neoprenske obleke",
+      "pill": "Promocije",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Certifikacija Open Water — razpoložljivost?",
+    "originalFrom": "Rachel T. je napisala:",
+    "originalText": "Živjo! Na obisku bom prvi teden avgusta in bi rada opravila certifikat Open Water. Koliko dni traja in kaj je vključeno?",
+    "lines": [
+      "Živjo, Rachel!",
+      "Z veseljem vam pomagamo do certifikata! Tečaj PADI Open Water traja 3 dni — eno vajo v bazenu in dva potopa v morju na našem grebenu. Vsa oprema je vključena.",
+      "Avgust je trenutno še povsem odprt. Večina tečajnikov začne v ponedeljek, da končajo do srede.",
+      "Želite, da vam rezerviram mesto?"
+    ],
+    "highlightText": "Tečaj PADI Open Water traja 3 dni",
+    "tooltipFeatures": [
+      "Pozna vaše tečaje in cene",
+      "Pripravlja osnutke v vašem slogu",
+      "Samodejno vključi zahteve za certifikat",
+      "Sčasoma se uči"
+    ]
+  },
+  "agent": {
+    "userMessage": "Koliko potapljačev je rezerviranih za soboto?",
+    "agentResponse": "Glede na vaš nabiralnik imate za sobotni jutranji potop z 2 jeklenkama potrjenih 8 potapljačev — Kevinovo skupino 6 oseb in 2 posamezni rezervaciji. Imate tudi čakajoče vprašanje Jasona o najemu opreme za isti izlet. Želite, da pripravim odgovor?",
+    "followUp": "Pripravi odgovor Rachel s podrobnostmi tečaja Open Water",
+    "followUpResponse": "Končano! Pripravil sem odgovor Rachel, ki potrjuje 3-dnevni tečaj PADI Open Water z vključenimi vajami v bazenu in potopi v morju. Omeni razpoložljivost v avgustu in vašo standardno politiko vključene opreme. Pripravljeno za pregled in pošiljanje."
+  },
+  "testimonialsTitle": "Potapljaški operaterji ga obožujejo",
+  "testimonials": [
+    {
+      "name": "Captain Mike T.",
+      "title": "Kapitan potapljaškega čolna, FL",
+      "quote": "Od petka do nedelje vodim izlete s čolnom, trgovina pa je v ponedeljek odprta le nekaj ur. Vprašanja o certifikacijah in povpraševanja za izlete se kopičijo, ko sem pod vodo. Duet pripravi odgovore z mojimi cenami, lokacijami potopov in tem, kaj je vključeno — jaz jih pregledam med potopi.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Potapljaški center PADI, HI",
+      "quote": "Z istih čolnov vodimo potope, izlete s potapljanjem na dah in opazovanje kitov. Raznolikost e-pošte je neverjetna — vprašanja o certifikatih, skupinske rezervacije, najem opreme, preverjanje vremena. Duet vse razvrsti in pripravi odgovore, ki poznajo razliko. Popolna rešitev.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Charterji za potapljanje na razbitinah, FL",
+      "quote": "Polovica moje e-pošte je 'kateri certifikat potrebujem za potope na razbitinah?', druga polovica pa 'ali potrebujem svojo opremo?' Duet oboje obravnava samodejno. Moj odzivni čas se je z ur skrajšal na minute.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Lastnica potapljaškega centra, CA",
+      "quote": "Poleti dobimo več kot 30 e-poštnih sporočil na dan o tečajih, razpoložljivosti izletov in opremi. Rezervacije sem izgubljala zaradi centrov, ki so odgovorili hitreje. Zdaj Duet pripravi vse osnutke, jaz pa med tečaji samo pritisnem pošlji.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Inštruktorica in vodnica potapljanja, NC",
+      "quote": "Zjutraj učim tečaje, popoldne pa vodim potope. Časa za odgovarjanje na e-pošto dobesedno ni. Duet se je naučil mojega urnika tečajev, cen in celo pravil odpovedi. Stranke ne opazijo razlike.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Dneve preživite pod vodo,\nne zakopani v nabiralniku.",
+  "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
+  "verticalFaqs": [
+    {
+      "question": "Ali Duet razume ravni certifikacij in zahteve tečajev?",
+      "answer": "Da. Duet se nauči vaših konkretnih tečajev — Open Water, Advanced, Rescue, Divemaster — skupaj s predpogoji, trajanjem, cenami in tem, kaj je vključeno. Ko nekdo vpraša o certifikaciji, Duet pripravi odgovor s pravimi podrobnostmi tečaja, urnikom in naslednjimi koraki. Vi ga pregledate in pošljete."
+    },
+    {
+      "question": "Ves dan sem na čolnu ali pod vodo. Ali lahko Duet uporabljam s telefona?",
+      "answer": "Da. Duet deluje z Gmail in Outlook, zato deluje povsod, kjer deluje vaša e-pošta — tudi na telefonu. Osnutki se samodejno prikažejo v vašem nabiralniku. Med potopi ali nazaj na pomolu jih pregledate in pošljete z enim dotikom. Večina potapljaških operaterjev nam pove, da jim v glavni sezoni prihrani 1-2 uri e-pošte na dan."
+    }
+  ],
+  "pricingNote": "Pri $150/potop za skupino 6 oseb ena rešena rezervacija izleta pokrije več kot leto uporabe Pro."
+}

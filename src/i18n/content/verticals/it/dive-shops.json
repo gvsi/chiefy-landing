@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail per negozi di immersione | Assistente e-mail AI",
+  "metaDescription": "Duet Mail aiuta i proprietari di negozi di immersione e gli istruttori PADI a rispondere istantaneamente a richieste di certificazione, prenotazioni di viaggi e domande sull'attrezzatura, anche sott'acqua.",
+  "heroBadge": "Scelto da oltre 300 operatori subacquei",
+  "heroHeadline": "Il tuo assistente di posta elettronica mentre sei sott'acqua",
+  "heroSubline": "Duet apprende i tuoi siti di immersione, i requisiti di certificazione, i prezzi e la voce, quindi redige le risposte via email in modo da non perdere mai una prenotazione mentre sei sulla barca.",
+  "inboxEmails": [
+    {
+      "from": "Rachele T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certificazione Open Water: disponibilità?",
+      "preview": "Ciao! Visiterò la prima settimana di agosto e voglio ottenere il mio certificato Open Water. Quanti giorni ci vogliono e cosa è incluso?",
+      "pill": "Per rispondere",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin e Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Gruppo di 6 persone per un'immersione con 2 bombole sabato",
+      "preview": "Abbiamo 6 subacquei certificati e vogliamo prenotare un'immersione mattutina con 2 bombole questo sabato. Hai spazio? Qual è la tariffa per persona...",
+      "pill": "Prenotazione",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Noleggio GAV per il fine settimana?",
+      "preview": "Ehi, ho la certificazione ma viaggio leggero. Noleggiate GAV ed erogatori? mi servirebbero dal venerdì alla domenica...",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Referente studente: Rachel Torres",
+      "preview": "Uno studente ha completato il corso di eLearning e ha selezionato il tuo centro immersioni per l'addestramento in acque confinate e libere...",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ciao Rachele! Ci piacerebbe ottenere la tua certificazione. Il corso Open Water dura 3 giorni: un giorno di sessioni in piscina e due giorni di immersioni nell'oceano. Tutta l'attrezzatura è inclusa. Agosto è apertissimo. Vuoi che prenoti un posto per la prima settimana?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "immersione",
+    "lostPerMonth": "3 trips (6 divers each)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Un'immersione di gruppo salvata paga un anno di Duet."
+  },
+  "categorizationSubtitle": "Duet tagga automaticamente ogni e-mail in modo che tu veda prima le richieste di certificazione e le prenotazioni di immersioni, poi le domande sull'attrezzatura e gli avvisi PADI quando sei pronto. Non perderai più una prenotazione di gruppo sepolta sotto le newsletter sulle attrezzature.",
+  "draftSubtitle": "Duet apprende i tuoi siti di immersione, i requisiti dei certificati e i prezzi. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del viaggio, cosa è incluso e cosa portare. Rivedi e invii.",
+  "agentSubtitle": "\"Quanti sub sono prenotati per sabato?\" \"Stesura una risposta a Rachel con la disponibilità di Open Water.\" Duet conosce la tua casella di posta e il tuo programma: basta chiedere.",
+  "categorizationEmails": [
+    {
+      "from": "Rachele T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certificazione Open Water: disponibilità?",
+      "preview": "Visiterò la prima settimana di agosto e voglio ottenere la certificazione...",
+      "pill": "Rispondi adesso",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Prenotazione confermata — Immersione con 2 bombole di sabato",
+      "pill": "Prenotato",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Noleggio GAV ed erogatori questo fine settimana?",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Nuova recensione sulla tua inserzione",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Attrezzatura da immersione Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Saldi estivi: 25% di sconto sulle mute",
+      "pill": "Promozioni",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Ri: Certificazione Open Water: disponibilità?",
+    "originalFrom": "Rachel T. ha scritto:",
+    "originalText": "Ciao! Visiterò la prima settimana di agosto e voglio ottenere il mio certificato Open Water. Quanti giorni ci vogliono e cosa è incluso?",
+    "lines": [
+      "Ciao Rachele!",
+      "Ci piacerebbe ottenere la tua certificazione! Il corso PADI Open Water dura 3 giorni: una sessione in piscina e due immersioni nell'oceano sulla nostra barriera corallina. Tutta l'attrezzatura è inclusa.",
+      "Agosto è completamente aperto in questo momento. La maggior parte degli studenti inizia di lunedì, quindi finisce entro mercoledì.",
+      "Vuoi che prenoti un posto?"
+    ],
+    "highlightText": "Il corso PADI Open Water dura 3 giorni",
+    "tooltipFeatures": [
+      "Conosce i tuoi corsi e i tuoi prezzi",
+      "Bozze nella tua voce",
+      "Include automaticamente i requisiti del certificato",
+      "Impara nel tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quanti sub sono prenotati per sabato?",
+    "agentResponse": "In base alla tua casella di posta, hai 8 sub confermati per l'immersione con due bombole di sabato mattina: il gruppo di 6 sub di Kevin più 2 prenotazioni individuali. Hai anche una richiesta in sospeso da parte di Jason sul noleggio dell'attrezzatura per lo stesso viaggio. Vuoi che rediga una risposta?",
+    "followUp": "Scrivi una risposta a Rachel con i dettagli del corso Open Water",
+    "followUpResponse": "Fatto! Ho redatto una risposta a Rachel confermando il corso PADI Open Water di 3 giorni con immersioni in piscina e in oceano incluse. Menziona la disponibilità di agosto e la tua politica standard sull'attrezzatura inclusa. Pronto per la revisione e l'invio."
+  },
+  "testimonialsTitle": "Amato dagli operatori subacquei",
+  "testimonials": [
+    {
+      "name": "Capitano Mike T.",
+      "title": "Capitano della barca per immersioni, Florida",
+      "quote": "Faccio gite in barca dal venerdì alla domenica e il negozio è aperto solo poche ore il lunedì. Le domande sulla certificazione e le richieste di viaggio si accumulano mentre sono sott'acqua. Duet bozze di risposte con i miei prezzi, i siti di immersione e cosa è incluso: le rivedo tra un'immersione e l'altra.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen e Mark S.",
+      "title": "Centro immersioni PADI, HI",
+      "quote": "Effettuiamo immersioni, tour di snorkeling e avvistamento di balene dalle stesse barche. La varietà di e-mail è pazzesca: domande sui certificati, prenotazioni di gruppo, noleggio di attrezzature, controlli meteorologici. Duet ordina tutto e redige risposte che conoscono la differenza. Un vero toccasana.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Charter di immersioni sui relitti, Florida",
+      "quote": "La metà delle mie e-mail sono \"di quale certificazione ho bisogno per le immersioni sui relitti?\" e l'altra metà è \"ho bisogno della mia attrezzatura?\" Duet gestisce entrambi con il pilota automatico. Il mio tempo di risposta è passato da ore a minuti.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Proprietario di un negozio di immersioni, California",
+      "quote": "Durante l'estate riceviamo più di 30 e-mail al giorno su corsi, disponibilità di viaggi e attrezzature. Perdevo prenotazioni a causa dei negozi che rispondevano più velocemente. Ora Duet disegna tutto e ho semplicemente premuto Invia tra le lezioni.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sara K.",
+      "title": "Istruttore e guida subacquea, Carolina del Nord",
+      "quote": "Insegno corsi al mattino e guido immersioni nel pomeriggio. Non c'è letteralmente tempo per rispondere alle e-mail. Duet ha appreso il programma del mio corso, i prezzi e persino la mia politica di cancellazione. I clienti non possono notare la differenza.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Trascorri le tue giornate sott'acqua,\nnon sepolto nella tua casella di posta.",
+  "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
+  "verticalFaqs": [
+    {
+      "question": "Duet comprende i livelli di certificazione e i requisiti del corso?",
+      "answer": "Sì. Duet apprende i tuoi corsi specifici (Open Water, Advanced, Rescue, Divemaster) insieme ai prerequisiti, alla durata, ai prezzi e a cosa è incluso. Quando qualcuno chiede informazioni su come ottenere la certificazione, Duet redige una risposta con i dettagli del corso, il programma e i passaggi successivi corretti. Rivedi e invii."
+    },
+    {
+      "question": "Sono sulla barca o sott'acqua tutto il giorno. Posso utilizzare Duet dal mio telefono?",
+      "answer": "Sì. Duet funziona con Gmail e Outlook, quindi funziona ovunque sia attiva la tua posta elettronica, incluso il telefono. Le bozze appaiono automaticamente nella tua casella di posta. Tra un'immersione e l'altra o al molo, puoi rivedere e inviare con un solo tocco. La maggior parte degli operatori subacquei ci dice che questo consente loro di risparmiare 1-2 ore di e-mail al giorno durante l'alta stagione."
+    }
+  ],
+  "pricingNote": "A $ 150/immersione con un gruppo di 6 persone, un viaggio salvato paga più di un anno di Pro."
+}

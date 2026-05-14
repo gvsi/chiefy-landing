@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "lockedStructuralPaths": [
+    "$.slug",
+    "$.avatarColor",
+    "$.pillColor",
+    "$.avatarKey",
+    "$.logoName",
+    "$.routeId",
+    "$.id",
+    "$.kind",
+    "$.type",
+    "$.agentChatShowcase.suggestions[*].action",
+    "$.jsonLd.@context",
+    "$.jsonLd.@type",
+    "$.jsonLd.applicationCategory",
+    "$.jsonLd.offers[*].unitText"
+  ],
+  "lockedValuePathPatterns": [
+    "applicationCategory",
+    "avatarColor",
+    "avatarKey",
+    "billingAmount",
+    "currency",
+    "currencyCode",
+    "currencySymbol",
+    "logoName",
+    "math.lostPerMonth",
+    "math.monthlyLoss",
+    "math.pricePerBooking",
+    "pillColor",
+    "price",
+    "priceLabel",
+    "savings",
+    "slug",
+    "trialDays",
+    "unitText"
+  ],
+  "urlClasses": {
+    "staticAsset": ["^/", "^/blog/images/", "^\\./", "^\\.\\./"],
+    "external": ["^https?://(?!duetmail\\.com)"],
+    "appOrMailto": ["^https://app\\.duetmail\\.com", "^mailto:", "^tel:"],
+    "legalCitation": ["^https?://(www\\.)?(google|microsoft|stripe)\\."],
+    "sameOriginRoute": ["^https://duetmail\\.com/", "^/(blog|for|terms|privacy|cookies|disclaimer)(/|$)", "^/$"]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail 婚礼策划师 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助婚礼策划者立即回复客户和供应商的电子邮件——甚至可以通过场地演练来回复。 AI-起草回复，其中包含您的包裹、供应商联系人和语音。",
+  "heroBadge": "受到 400 多名婚礼策划师的信赖",
+  "heroHeadline": "您在现场时的电子邮件助理",
+  "heroSubline": "Duet 了解您的供应商联系方式、包裹和客户偏好，然后起草电子邮件回复，以便情侣在您现场协调时无需等待。",
+  "inboxEmails": [
+    {
+      "from": "艾米丽和詹姆斯 W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "9月20日婚礼可以吗？",
+      "preview": "嗨！我们刚刚订婚，并计划于 9 月 20 日举行婚礼，参加人数约为 120 人。您有空吗？你的包裹是什么...",
+      "pill": "回应",
+      "pillColor": "red"
+    },
+    {
+      "from": "贝拉罗莎花香",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "回复：汤普森婚礼——核心模型",
+      "preview": "以下是我们讨论的三个核心选项。花园里的玫瑰花漂亮地进来了。让我知道这对夫妇想要走向哪个方向......",
+      "pill": "供应商",
+      "pillColor": "amber"
+    },
+    {
+      "from": "雷切尔·K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "对座位表感到抓狂",
+      "preview": "我知道我们上周完成了图表，但我妈妈只回复了 4 个额外的人，我不知道把他们放在哪里。我们可以把一些桌子挪动一下吗...",
+      "pill": "客户",
+      "pillColor": "blue"
+    },
+    {
+      "from": "结",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "来自您的列表的新询问",
+      "preview": "一对夫妇要求提供有关您的服务的更多信息。查看详情并回复...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "嗨，艾米丽和詹姆斯——恭喜你们订婚了！ 9 月 20 日可用，120 位客人是完美的规模。我提供全面规划、部分规划和日间协调服务。我很乐意安排一次免费咨询来了解您的愿景。这周你有时间快速打个电话吗？",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "婚礼",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "一位节省下来的客户支付了 20 多年的Duet。"
+  },
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到新的情侣询问，其次是供应商确认，而永远不会看到新闻通讯噪音。不再错过隐藏在 Knot 警报下的预订请求。",
+  "draftSubtitle": "Duet 了解您的套餐、首选供应商和语气。当一对夫妇询问时，它会起草一份热情、完整的答复，其中包含您的空闲时间和后续步骤。您审阅并发送。",
+  "agentSubtitle": "“汤普森婚礼收到了哪些供应商电子邮件？” “起草周六向所有供应商更新的时间表。” Duet 了解您的收件箱和客户 - 只需询问即可。",
+  "categorizationEmails": [
+    {
+      "from": "艾米丽和詹姆斯 W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "9月20日婚礼可以吗？",
+      "preview": "我们刚刚订婚，预计9月20日...",
+      "pill": "立即回复",
+      "pillColor": "red"
+    },
+    {
+      "from": "贝拉罗莎花香",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "回复：汤普森婚礼——核心模型",
+      "pill": "供应商",
+      "pillColor": "amber"
+    },
+    {
+      "from": "雷切尔·K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "回复：座位表 - 附最终版本",
+      "pill": "客户",
+      "pillColor": "blue"
+    },
+    {
+      "from": "结",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "来自您的列表的新询问",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "铸造",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "本周保留日期可享受 20% 折扣",
+      "pill": "促销",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "回复: 9月20日的婚礼可以参加吗？",
+    "originalFrom": "艾米丽和詹姆斯 W. 写道：",
+    "originalText": "嗨！我们刚刚订婚，并计划于 9 月 20 日举行婚礼，参加人数约为 120 人。您有空吗？你们的套餐和定价是多少？",
+    "lines": [
+      "嗨，艾米丽和詹姆斯——恭喜！",
+      "9 月 20 日是可用的，120 位客人是一个很棒的规模。我提供从 $3,500 开始的全面规划、部分规划和日间协调套餐。",
+      "我很乐意安排一次免费咨询，听听您的愿景，并引导您选择最适合的套餐。",
+      "这周你有空打电话吗？"
+    ],
+    "highlightText": "9 月 20 日可用，120 位客人是一个很棒的规模",
+    "tooltipFeatures": [
+      "了解您的包裹和可用性",
+      "你的声音中的草稿",
+      "包括咨询后续步骤",
+      "了解您的客户偏好"
+    ]
+  },
+  "agent": {
+    "userMessage": "本周汤普森婚礼收到了哪些供应商电子邮件？",
+    "agentResponse": "您本周收到了 4 封有关 Thompson 婚礼的供应商电子邮件：Bella Rosa Florals 发送了中心装饰模型（等待情侣挑选），Lakeside Venue 确认了周五 4 PM 的仪式排练，DJ Marco 发送了更新的歌曲列表，Sweet Layers Bakery 需要在周三之前提供最终的蛋糕口味。想要我起草对其中任何一个的答复吗？",
+    "followUp": "用这对夫妇的选择起草对贝拉·罗莎的回复——选项B，花园玫瑰",
+    "followUpResponse": "完成！我起草了一份给 Bella Rosa Florals 的回复，确认了选项 B——汤普森婚礼的花园玫瑰中心装饰品。其中包含继续处理 14 张桌子的完整订单的说明。准备审查并发送。"
+  },
+  "testimonialsTitle": "深受婚礼策划师的喜爱",
+  "testimonials": [
+    {
+      "name": "弗朗西斯卡·M。",
+      "title": "精品婚礼策划师，CO",
+      "quote": "我一周有半周的时间在山区场地，手机服务为零。与此同时，一些夫妇通过电子邮件向我询问时间表和供应商问题。 Duet 用我的确切包裹和语气起草回复——当我回到范围内时我会检查它们。",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "迈克尔·T.",
+      "title": "全方位服务婚礼策划师，CA",
+      "quote": "每次婚礼都要协调 10 多个供应商，这意味着我的收件箱在旺季期间就像一个战区。 Duet 将供应商电子邮件与客户电子邮件分开分类，并起草我自己编写的后续内容。我现在真的睡觉了。",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "莎拉·L。",
+      "title": "协调员日，TX",
+      "quote": "婚礼当天我连续 14 小时都没有空。过去，新的询问直到周一才得到答复。现在，Duet 可以立即处理这些问题，仅凭更快的响应时间，我就在本季度额外预订了 3 场婚礼。",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "约翰尼·R。",
+      "title": "目的地婚礼策划师，HI",
+      "quote": "我的夫妇从世界各地飞来，随时发送电子邮件。 Duet 了解了我的FAQ 答案——场地物流、当地供应商、期望什么——并草拟了听起来与我一模一样的回复。客户不知道。",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "詹妮弗·A.",
+      "title": "婚礼和活动策划师，NY",
+      "quote": "我每天晚上都要花 2 个小时回答相同的套餐和可用性问题。 Duet 处理重复的事情，这样我就可以专注于我真正喜欢的创造性工作。第一周就收回了成本。",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "出席典礼，\n没有埋在你的收件箱里。",
+  "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
+  "verticalFaqs": [
+    {
+      "question": "Duet 是否适用于所有供应商协调电子邮件？",
+      "answer": "是的。 Duet 了解您的供应商联系人、首选供应商以及您与每个供应商的沟通方式。它按婚礼对供应商电子邮件进行分类，并草拟回复并提供正确的详细信息——确认、跟进、时间表更新。您审阅并发送。它可以处理花店、餐饮服务商、场馆、DJ、摄影师以及名片盒中的所有其他供应商。"
+    },
+    {
+      "question": "我整天都在婚礼和场地现场。我会错过新的询问吗？",
+      "answer": "这正是 Duet 解决的问题。当您在现场协调时，如果有几封电子邮件询问可用性或套餐，Duet 会起草一份热情、专业的回复，其中包含您的真实可用性和后续步骤。只要有空，您就可以查看并发送，甚至可以在活动间隙使用手机进行查看和发送。大多数规划者告诉我们，在旺季期间，这可以为他们每天节省 1-2 小时的电子邮件时间。"
+    }
+  ],
+  "pricingNote": "按 $8,000/wedding 计算，挽回一位客户就能支付 20 多年的 Pro。"
+}

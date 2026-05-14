@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail kwa Wabunifu wa Mazingira | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia wabunifu wa mazingira kujibu barua pepe za wateja papo hapo - hata kutoka uwanjani. Majibu yaliyoandaliwa na AI pamoja na maelezo ya mradi wako, bei na sauti.",
+  "heroBadge": "Inaaminiwa na wabunifu zaidi ya 300 wa mazingira",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa kwenye uwanja",
+  "heroSubline": "Duet hujifunza maelezo ya mradi wako, rangi za mimea, bei na mchakato - kisha huandika majibu ya barua pepe ili usiwahi kupoteza mteja kwa jibu la polepole.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Usanifu upya wa ua - bila malipo kwa mashauriano?",
+      "preview": "Habari! Tumenunua nyumba huko Westlake na uwanja wa nyuma ni slate tupu. Tungependa usanifu upya kamili wenye upandaji miti asilia na patio. Je, unachukua wateja wapya?",
+      "pill": "Ili Kujibu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Vipimo vya umwagiliaji kwa mradi wa Miller?",
+      "preview": "Hujambo, tuko tayari kuanza kuhama siku ya Jumatatu. Je, unaweza kutuma mpangilio wa umwagiliaji na vipimo vya kichwa ili tuagize vifaa wiki hii?",
+      "pill": "Mkandarasi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Swali la haraka kuhusu uteuzi wa mimea",
+      "preview": "Tunapenda muundo! Ninashangaa tu - je, tunaweza kubadilisha maple ya Kijapani kwa kitu kilicho na rangi zaidi ya kuanguka? Pia, je, kulungu wa lavender ni sugu?",
+      "pill": "Mteja",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Agiza #4821 tayari kwa kuchukuliwa",
+      "preview": "Agizo lako la vichaka vya galoni 24, miti ya vielelezo 6 na magorofa ya ardhini iko tayari. Inapatikana Jumatatu-Sat 7AM-4PM...",
+      "pill": "Msambazaji",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Habari Rachel! Ningependa kukusaidia na uwanja wako wa nyuma. Kwa sasa ninahifadhi mashauriano ya awali baada ya wiki 2-3. Ziara ya kwanza ni tathmini ya tovuti ya dakika 90 - nitatembea mali, kuchukua vipimo, na kujadili maono yako. Kutoka hapo niliweka pamoja mpango wa dhana. Unataka nikuweke kwenye kalenda?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "mradi",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Mradi mmoja uliohifadhiwa hulipa kwa miaka ya Duet."
+  },
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi mapya ya mashauriano kwanza, uidhinishaji wa mteja pili, na kelele za mtoa huduma kamwe. Hakuna tena kukosa risasi iliyozikwa chini ya uthibitisho wa agizo la kitalu.",
+  "draftSubtitle": "Duet hujifunza bei, mchakato na sauti yako. Ombi la mashauriano linapofika, huandaa jibu kamili kuhusu upatikanaji wako, nini cha kutarajia na hatua zinazofuata. Unakagua na kutuma.",
+  "agentSubtitle": "\"Je, ratiba ya mradi wa Henderson ni ipi?\" \"Ni wateja gani wanasubiri idhini ya mpango?\" Duet anajua kikasha chako na miradi - uliza tu.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Usanifu upya wa ua - bila malipo kwa mashauriano?",
+      "preview": "Tumenunua nyumba tu na uwanja wa nyuma ni slate tupu ...",
+      "pill": "Uchunguzi Mpya",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Muundo wa mwisho - tuko tayari kuidhinisha!",
+      "pill": "Idhini ya Mteja",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Vipimo vya umwagiliaji kwa mradi wa Miller?",
+      "pill": "Mkandarasi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Agiza #4821 tayari kwa kuchukuliwa",
+      "pill": "Msambazaji",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Ankara #1047 inatazamwa na mteja",
+      "pill": "Ankara",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Usanifu upya wa nyumba - bila malipo kwa mashauriano?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Tumenunua nyumba huko Westlake na uwanja wa nyuma ni slate tupu. Tungependa usanifu upya kamili wenye upandaji miti asilia na patio. Je, unachukua wateja wapya?",
+    "lines": [
+      "Habari Rachel!",
+      "Hongera kwa nyumba mpya - ua usio na slate ni mradi wa ndoto kwa kweli. Ninachukua wateja wapya kabisa.",
+      "Mchakato wangu huanza na mashauriano ya dakika 90 kwenye tovuti ambapo ninatembea kwenye eneo, kuchukua vipimo, na kuzungumza kupitia malengo yako. Kuanzia hapo ninaunda mpango wa dhana na muundo wa upandaji, mpangilio wa hardscape, na bajeti ya hatua kwa hatua.",
+      "Nina nafasi katika wiki 2-3 zijazo. Je, unataka nitume baadhi ya tarehe zinazopatikana?"
+    ],
+    "highlightText": "Mchakato wangu huanza na mashauriano ya dakika 90 kwenye tovuti",
+    "tooltipFeatures": [
+      "Anajua mchakato wako wa kubuni na bei",
+      "Rasimu katika sauti yako",
+      "Inajumuisha maelezo ya mashauriano kiotomatiki",
+      "Anajifunza kwa muda"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ni wateja gani ambao bado wanasubiri idhini ya mpango?",
+    "agentResponse": "Kulingana na barua pepe zako za hivi majuzi, wateja wawili wanasubiri kuidhinishwa: Jennifer & Mark L. (uundaji upya wa ua - ulituma mipango ya mwisho siku 4 zilizopita, bado hakuna jibu) na Cohens (ubadilishaji asili wa uwanja wa mbele - walituma mpango uliorekebishwa wiki iliyopita). Unataka niandae ufuatiliaji wa upole kwa ama?",
+    "followUp": "Rasimu ya ufuatiliaji kwa Jennifer kuhusu uidhinishaji wa mpango",
+    "followUpResponse": "Imekamilika! Niliandaa mpango wa kuingia kwa Jennifer kwa urafiki nikimwuliza kama yeye na Mark walipata nafasi ya kukagua mipango ya mwisho, na kumkumbusha unaweza kuruka kwenye simu ya haraka ili kupitia chaguo za mmea. Tayari kukagua na kutuma."
+  },
+  "testimonialsTitle": "Inapendwa na wabunifu wa mazingira",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Mbunifu wa Mazingira, Austin TX",
+      "quote": "Wakati wa majira ya kuchipua niko kwenye tovuti saa 8 kwa siku nikifanyia tathmini na usimamizi wa usakinishaji. Maombi mapya ya mashauriano yangekaa kwa siku. Sasa Duet inajibu na mchakato wangu na upatikanaji ndani ya dakika. Nimehifadhi miradi 3 ambayo hakika ningepoteza.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Mbuni wa bustani, Portland AU",
+      "quote": "Kuratibu kati ya wafanyakazi wa hardscape, wasakinishaji wa umwagiliaji, na wateja huzalisha kiasi cha upuuzi cha barua pepe. Duet hupanga yote na kuandaa majibu ambayo yanajumuisha maelezo sahihi ya mradi. Ni kama kuwa na msimamizi wa studio.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Mmiliki wa Studio ya Usanifu wa Mazingira, Denver CO",
+      "quote": "Nilikuwa nikitumia kila jioni baada ya kazi ya shambani kupata barua pepe. Maswali sawa - bei, mchakato, kalenda ya matukio. Duet hushughulikia yote. Muda wangu wa kujibu ulienda kutoka siku hadi dakika na kasi yangu ya karibu imepanda.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Mbuni wa Mazingira ya Makazi, Scottsdale AZ",
+      "quote": "Wateja wangu huuliza maswali mengi kuhusu uteuzi na matengenezo ya mimea. Duet alijifunza paleti za mimea yangu na maagizo ya utunzaji na majibu ya rasimu ambayo sihitaji kuhariri. Wateja wanafikiri mimi ni msikivu sana.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Mbuni wa Mazingira ya Mimea Asilia, Raleigh NC",
+      "quote": "Nilikuwa nikipoteza wateja wapya kwa sababu sikuweza kujibu nikiwa nimepiga magoti katika usakinishaji wa upanzi. Duet huandaa majibu ya mashauriano na mchakato wangu halisi, bei, na nini cha kutarajia. Ililipa yenyewe wiki ya kwanza.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tumia siku zako kuunda mandhari,\nsi kupata barua pepe.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
+  "verticalFaqs": [
+    {
+      "question": "Je, Duet inaweza kushughulikia kukimbilia kwa masika wakati maombi ya mashauriano yanaporundikana?",
+      "answer": "Hapo ndipo Duet inapong'aa. Katika msimu wako wa shughuli nyingi, kila swali jipya hupata jibu la haraka na la kina kuhusu mchakato wako, rekodi ya matukio na upatikanaji wako - hata ukiwa kwenye tovuti siku nzima. Hakuna tena kupoteza mwelekeo wa majira ya kuchipua kwa sababu hukuweza kurejea kwao hadi 9 PM."
+    },
+    {
+      "question": "Ninaratibu na wafanyakazi wengi wa nje. Je, Duet inasaidia na hilo?",
+      "answer": "Ndiyo. Duet hujifunza miradi yako na wakandarasi wanaohusika - mazingira magumu, umwagiliaji, wafanyakazi wa kupanda, vitalu. Inaainisha barua pepe za mkandarasi kando na barua pepe za mteja, na inaweza kuandaa majibu yenye maelezo mahususi ya mradi kama vile vipimo, kalenda ya matukio na nyenzo. Unakaa juu ya kila kikundi bila fujo katika kikasha."
+    }
+  ],
+  "pricingNote": "Kwa $8,000/mradi, mteja mmoja aliyehifadhiwa hulipa kwa miaka ya Pro."
+}

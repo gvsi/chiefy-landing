@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail egyedi ékszerészeknek | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít az egyedi ékszerészeknek abban, hogy azonnal válaszoljanak a konzultációs kérésekre, a tervezési jóváhagyásokra és az idővonalra vonatkozó kérdésekre – akár a munkaasztalon is. AI által megfogalmazott válaszok az Ön folyamatával, árával és hangjával.",
+  "heroBadge": "Több mint 300 ékszertervező megbízható",
+  "heroHeadline": "Az Ön e-mail-asszisztense, amíg a padon áll",
+  "heroSubline": "A Duet megtanulja a tervezési folyamatot, az anyagokat, az árakat és az ütemtervet – majd e-mail-válaszokat készít, így soha nem veszíthet el egyéni klienst a lassú válasz miatt.",
+  "inboxEmails": [
+    {
+      "from": "Rachel és David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Egyedi eljegyzési gyűrű konzultáció?",
+      "preview": "Szia! Egyedi eljegyzési gyűrűt érdekel a párom. Van egy családi örökségből származó gyémántunk, amelyet szívesen használnánk. Van szabad időpontja konzultációra ebben a hónapban?",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D modell – módosíthatjuk a beállítást?",
+      "preview": "Tetszik az általános dizájn! De megpróbálhatnánk egy alacsonyabb profilt a beállításnál? Csatoltam egy fotót az általam gondolt stílusról. Ezenkívül a platinára váltás megváltoztatja az idővonalat...",
+      "pill": "Felülvizsgálat",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Idővonal frissítés az esküvői zenekarokról?",
+      "preview": "Hé! Csak nézd meg a hozzáillő esküvői zenekarainkat. Az esküvő május 18-án lesz, és szeretném megbizonyosodni arról, hogy jó úton haladunk. Tudnál küldeni egy gyors frissítést...",
+      "pill": "Állapot",
+      "pillColor": "blue"
+    },
+    {
+      "from": "A csomó",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Új vélemény a kirakatáról",
+      "preview": "A közelmúltban páran értékelték a vállalkozásodat a Knoton. Nézd meg, mit mondtak, és válaszolj...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Szia Rachel! Szeretnék segíteni egy gyűrű megtervezésében a családi gyémánt köré – ez az egyik kedvenc dolgom. Ebben a hónapban kedden és csütörtökön délután tartok nyitva. Hozd magaddal a követ és az inspiráló fotókat. A konzultációk körülbelül egy órát vesznek igénybe, és nincs kötelezettségük. Akarod, hogy tartsak egy kis időt neked?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "egyedi darab",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Egy megmentett ügyfél több mint négy év Duetért fizet."
+  },
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először az új konzultációs kéréseket, a második a tervezési jóváhagyásokat, a szállítói hírleveleket pedig soha. Nincs többé hiányzó egy 5000 dolláros megkeresés a beszállítói promóciók alá.",
+  "draftSubtitle": "A Duet megtanulja a folyamatot, az anyagokat, az árakat és a hangot. Amikor megérkezik egy konzultációs kérés, teljes választ ad az elérhetőségéről, arról, hogy mit vigyen magával, és hogyan működik a folyamat. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Hol vagyunk Amanda gyűrűjével? \"Vázlat egy idővonal-frissítés James számára.\" A Duet minden ügyfélszálat ismer – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Egyedi eljegyzési gyűrű konzultáció?",
+      "preview": "Egyedi gyűrű iránt érdeklődünk a párommal...",
+      "pill": "Új Érdeklődés",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D modell v2 — tökéletesen néz ki!",
+      "pill": "Tervezési jóváhagyás",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "A zenekarok készen állnak – mikor vehetjük át?",
+      "pill": "Felvételre kész",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: A konzultáció nyomon követése – tetszenek a vázlatok",
+      "pill": "Konzultáció",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Supply",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Tavaszi akció – 15% kedvezmény a platinaleletekre",
+      "pill": "Eladó/Beszállító",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Egyedi eljegyzési gyűrű konzultáció?",
+    "originalFrom": "Rachel T. írta:",
+    "originalText": "Szia! Egyedi eljegyzési gyűrűt érdekel a párom. Van egy családi örökségből származó gyémántunk, amelyet szívesen használnánk. Van szabad időpontja konzultációra ebben a hónapban?",
+    "lines": [
+      "Szia Rachel!",
+      "Szeretnék segíteni, hogy valami különlegeset tervezzen a családi gyémánt köré. Ebben a hónapban kedd és csütörtök délután van nyitva.",
+      "Hozd el a követ és az inspiráló fotókat – Pinterest-táblák, képernyőképek, bármi segít. A konzultációk körülbelül egy órát vesznek igénybe, és nincs kötelezettségük.",
+      "Innentől a folyamat általában: vázlat, 3D modell, revíziók, majd 3-4 hét a gyártásban. Akarod, hogy tartsak egy kis időt neked?"
+    ],
+    "highlightText": "vázlat, 3D modell, revíziók, majd 3-4 hét a gyártásban",
+    "tooltipFeatures": [
+      "Ismeri a folyamatot és az idővonalat",
+      "Piszkozatok a hangodban",
+      "A konzultáció részleteit automatikusan tartalmazza",
+      "Idővel tanul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Hol vagyunk Amanda eljegyzési gyűrűjével?",
+    "agentResponse": "Amanda február 14-én hagyta jóvá a 3D-s modellt (v2). Ön megerősítette, hogy a gyártás február 16-án kezdődik, 3 hetes becsléssel. Ez március 9-re teszi a befejezést. Legutóbbi e-mailje a gravírozási lehetőségekről kérdezett – még mindig megválaszolatlan. Akarod, hogy megfogalmazzam a választ?",
+    "followUp": "Készítsen frissítést Jamesnek az esküvői zenekarokról",
+    "followUpResponse": "Kész! Írtam egy választ Jamesnek, amelyben megerősítettem, hogy a hozzá tartozó esküvői zenekarok a végső fényezésben vannak, és március 7-én, pénteken átvehetők lesznek – jóval a május 18-i esküvője előtt. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Az ékszertervezők szeretik",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Egyedi ékszertervező, LA",
+      "quote": "Minden egyedi darab 10-15 e-mailt generál hetek alatt. Ezt megszorozzuk 8 aktív klienssel, és megfulladok. Duet piszkozatok tervfrissítési válaszok, konzultáció megerősítések, idővonal válaszok – mindezt az én hangom. A castingok között átnézem, és megnyomom a küldést.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Goldsmith & Studio tulajdonosa, Brooklyn",
+      "quote": "Elveszítettem a 7000 dolláros eljegyzési gyűrű jutalékot, mert 3 napba telt válaszolni – a pár odament valakihez, aki 2 órán belül válaszolt. A Duet óta a válaszidőm kevesebb, mint 30 perc. Ez nem történt meg újra.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Bench Jeweller, Chicago",
+      "quote": "Napi 8 órát ülök a padon fáklyával a kezemben. Nem tudom megállni, hogy a mid-forrasztó begépelje a konzultációs választ. A Duet mindent megszerkeszt, miközben dolgozom – rápillantok a telefonomra, jóváhagyom, kész.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Menyasszonyi ékszertervező, Austin",
+      "quote": "Az eljegyzési szezonban hetente 20+ konzultációs felkérést kapok. A Duet megtanulta az egész folyamatomat – anyagokat, ütemterveket, árképzési szinteket, mit vigyek magammal. Vázlatokat készít, amelyeket alig kell szerkesztenem. Abszolút életmentő novembertől februárig.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Egyedi gyűrűspecialista, Portland",
+      "quote": "A 3D revíziós e-mailek korábban megették az estéimet. Az ügyfél visszajelzést küld, én elkészítem a frissítést, oda-vissza ötször. Most a Duet kezeli a rutinválaszokat, én pedig csak a tervezési döntésekben lépek közbe. Visszakaptam az éjszakáimat.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Töltsd a napjaidat ékszerkészítéssel,\nnem válaszol az ezzel kapcsolatos e-mailekre.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "A Duet képes kezelni a referenciafotókat és tervmellékleteket tartalmazó e-maileket?",
+      "answer": "Igen. A Duet látja a teljes e-mail szálat, beleértve a mellékleteket is, így megérti a kontextust, amikor az ügyfél inspiráló fotókat küld vagy visszajelzést küld a tervezésről. Nem írja le vissza a képeket, de tudja, hogy az ügyfél csak referenciafotókat küldött, és megfelelő választ vázol fel – megerősíti az átvételt, tisztázó kérdéseket tesz fel a tervezéssel kapcsolatban, vagy a szokásos munkafolyamat alapján megadja a következő lépéseket."
+    },
+    {
+      "question": "Egyéni projektjeim hosszú e-mail szálakkal rendelkeznek, több mint 10 üzenettel. A Duet követheti ezeket?",
+      "answer": "Pontosan ott ragyog a Duet. Beolvassa a szál teljes előzményét – konzultációs megjegyzések, tervezési átdolgozások, anyagválasztások, idővonal-frissítések –, így minden megfogalmazott válasznak teljes kontextusa van. Amikor egy ügyfél megkérdezi, hogy \"mi a gyűrűm állapota?\" a 14-es e-mailben a Duet tudja, melyik csengetés, milyen szakaszban van, és pontos frissítést készít. Nincs többé többé 3 hónapos e-mailek újraolvasása."
+    }
+  ],
+  "pricingNote": "5000 USD/db áron egy megtakarított jutalék több mint négy évnyi Pro-ért fizet."
+}

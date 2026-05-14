@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail för luftballongturer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper ballongpiloter att svara på bokningsmeddelanden omedelbart – även under soluppgångsflyg. AI-utkastade svar med din prissättning, väderpolicy och röst.",
+  "heroBadge": "Betrodd av 200+ ballongpiloter",
+  "heroHeadline": "Din e-postassistent när du är i luften",
+  "heroSubline": "Duet lär sig dina flygscheman, prissättning och väderpolicyer – förbereder sedan e-postsvar så att du aldrig förlorar en bokning medan du startar vid soluppgången.",
+  "inboxEmails": [
+    {
+      "from": "Rachel och Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Sunrise-flyg för 2 — lördag tillgänglig?",
+      "preview": "Hej! Min man och jag är på besök för vår bröllopsdag och skulle älska att boka en ballongfärd i soluppgången denna lördag. Har du plats? Vad är kostnaden per person?",
+      "pill": "Att svara",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Ska vi flyga imorgon? Vindprognosen ser grov ut",
+      "preview": "Vi är bokade för imorgon bitti men väderappen visar vindbyar på 25 km/h. Flyger vi fortfarande eller ska vi planera om...",
+      "pill": "Fråga",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer och Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Privat flyg för ett förslag — prissättning?",
+      "preview": "Jag vill överraska min flickvän med en privat ballongfärd och fria under flygningen. Hur mycket kostar ett privatflyg och kan du hjälpa till att koordinera...",
+      "pill": "Bokning",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Vad ska vi ha på oss? Var träffas vi?",
+      "preview": "Vi är bokade till söndag morgon. Vad ska vi ha på oss och var exakt är mötesplatsen? Dessutom, hur lång tid tar hela upplevelsen...",
+      "pill": "Fråga",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Hej Rachel! Lördag är öppet för 2. Sunrise-flyg startar runt 06:15 – vi bekräftar exakt tid och mötesplats kvällen innan baserat på vindar. Det är $250/person och inkluderar ungefär en timme i luften plus en champagnetoast efter landning. Klä dig i lager och ha slutna skor. Vill du att jag ska boka dina platser?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "flygning",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Ett sparat flyg betalar för ett år av Duet."
+  },
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, väderfrågor i andra hand och aldrig buller. Saknar inte längre en flygförfrågan begravd under nyhetsbrevsvarningar.",
+  "draftSubtitle": "Duet lär sig din prissättning, väderpolicy och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med flyginformation, mötesinformation och vad man ska ha på sig. Du granskar och skickar.",
+  "agentSubtitle": "\"Vem står på morgondagens manifest?\" \"Några väderinställelser att schemalägga?\"Duet känner till din inkorg och kalender — fråga bara.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Sunrise-flyg för 2 — lördag tillgänglig?",
+      "preview": "Min man och jag skulle älska att boka en ballongfärd i soluppgången...",
+      "pill": "Svara nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Bokning bekräftad — söndag 06:15",
+      "pill": "Bokad",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Vad ska vi ha på oss på flyget?",
+      "pill": "Fråga",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ny recension för din annons",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Ballongförbundet",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Säkerhetsbulletin i mars och påminnelse om förnyelse",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Sunrise-flyg för 2 — lördag tillgänglig?",
+    "originalFrom": "Rachel T skrev:",
+    "originalText": "Hej! Min man och jag är på besök för vår bröllopsdag och skulle älska att boka en ballongfärd i soluppgången denna lördag. Har du plats? Vad är kostnaden per person?",
+    "lines": [
+      "Hej Rachel!",
+      "Lördagen är vidöppen för 2. Sunrise-flyg kostar $250/person och inkluderar ungefär en timme i luften plus en champagnetoast efter landning.",
+      "Vi startar runt 06:15 — jag skickar din exakta mötestid och plats kvällen innan baserat på vindförhållanden. Klä dig i lager och ha slutna skor.",
+      "Grattis på årsdagen! Vill du att jag ska boka dina platser?"
+    ],
+    "highlightText": "Lördagen är vidöppen för 2. Sunrise-flyg kostar $250/person",
+    "tooltipFeatures": [
+      "Känner till din prissättning och flygschema",
+      "Utkast i din röst",
+      "Inkluderar mötesdetaljer automatiskt",
+      "Lär sig med tiden"
+    ]
+  },
+  "agent": {
+    "userMessage": "Vem är med på morgondagens manifest och hur ser vädret ut?",
+    "agentResponse": "Morgondagens soluppgångsflyg har 6 passagerare bokade på 2 bokningar: Thompson-festen (4) och paret Lee (2). Aktuell prognos visar lugna vindar på 4 mph och klar himmel vid lanseringen. Inga avbokningsmeddelanden ännu. Vill du att jag skickar mötesplatsbekräftelserna?",
+    "followUp": "Ja, skicka bekräftelser till båda parter med mötestiden 06:15",
+    "followUpResponse": "Klart! Jag utarbetade mötesplatsbekräftelser till både Thompsons och Lees med 6:15 AM vid uppskjutningsfältet, vad jag skulle ha på mig och vägbeskrivningar. Klar att granska och skicka."
+  },
+  "testimonialsTitle": "Älskad av ballongpiloter och operatörer",
+  "testimonials": [
+    {
+      "name": "Kapten Mike L.",
+      "title": "Ballongpilot, MN",
+      "quote": "Jag är en enmansoperation — jag flyger, jag besättning, jag svarar på e-post. Förutom klockan 05.00 blåser jag upp, svarar inte. Duet skriver utkast till svar på varje \"ska vi flyga imorgon?\" meddelande över natten. Jag vaknar, kollar vädret och trycker på skicka.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon och Jake B.",
+      "title": "Ballongturer året runt, UT",
+      "quote": "Vi får samma 10 frågor varje dag. Vad man ska ha på sig, var man ska träffas, tänk om det blåser. Duet har lärt sig allt och ger nu perfekta svar. Vi gick från en timmes mejl varje kväll till fem minuter.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Sunrise Flight Operator, AZ",
+      "quote": "Högsäsong innebär 4-6 flygningar i veckan och varje passagerare mailar minst två gånger före flygningen. Duet hanterar frågorna före flygningen så att jag kan fokusera på att ge människor den bästa morgonen i sina liv.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Balloon Company delägare, NM",
+      "quote": "Väderavbrott brukade förstöra hela min dag – 8 passagerare som alla behöver personliga e-postmeddelanden om schemaläggning. Nu utarbetar Duet alla med vår ombokningspolicy inkluderad. Sparar mig timmar på avbokningsmorgnar.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Balloon Ride Operations, CO",
+      "quote": "Frieriflygningar behöver så mycket koordinering fram och tillbaka. Duet fick reda på hur vi hanterar dem - timingen, kodorden, champagneupplägget. Den skapar svar som jag knappt behöver röra.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Tillbringa dina morgnar i himlen,\ninte i din inkorg.",
+  "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
+  "verticalFaqs": [
+    {
+      "question": "Hur hanterar Duet mejl om väderavbokningar?",
+      "answer": "Duet lär sig dina avboknings- och ombokningspolicyer. När du ställer in ett flyg på grund av vädret kan det skapa personliga e-postmeddelanden om ombokning till alla berörda passagerare – med din policy, tillgängliga datum och din ton. Du granskar och skickar. Det som brukade ta en timmes individuella svar tar minuter."
+    },
+    {
+      "question": "Kan Duet hantera \"ska vi flyga imorgon?\" mejl som strömmar in varje kväll?",
+      "answer": "Ja — det här är en av de vanligaste mejlen som ballongoperatörer berättar om. Duet lär sig dina väderpolicyer och utkast till lugnande svar som förklarar din beslutsprocess, när du ska ringa det sista samtalet och vad du kan förvänta dig. När du har bekräftat go/no-go på morgonen kan den skapa utkast till uppdateringar till alla på manifestet."
+    }
+  ],
+  "pricingNote": "För $250/person med 4 passagerare per flyg, betalar en sparad bokning för över ett år av Pro."
+}

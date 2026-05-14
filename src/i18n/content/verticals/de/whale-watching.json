@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail für Walbeobachtungstouren | KI-E-Mail-Assistent",
+  "metaDescription": "Duet Mail hilft Walbeobachtungskapitänen, sofort auf Buchungs-E-Mails zu reagieren – sogar vom Wasser aus. Von der KI erstellte Antworten mit Ihren Tourdetails, Preisen und Ihrer Stimme.",
+  "heroBadge": "Mehr als 300 Tourkapitäne vertrauen darauf",
+  "heroHeadline": "Ihr E-Mail-Assistent, während Sie Wale beobachten",
+  "heroSubline": "Duet lernt Ihren Tourplan, Ihre Preise und Ihre Stimme – und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung verlieren, während Sie auf dem Wasser sind.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Gruppe von 8 – Verfügbarkeit 14. Juni?",
+      "preview": "Hallo! Wir sind eine 8-köpfige Familie, die eine Woche lang zu Besuch ist. Haben Sie Platz auf der Vormittagstour am 14. Juni? Wie hoch ist der Preis pro Person und ist es für Kinder in Ordnung?",
+      "pill": "Um zu antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "James und Kathy L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Preise für Privatcharter?",
+      "preview": "Zu unserem Jubiläum würden wir gerne eine private Walbeobachtungstour buchen. Wie hoch sind die Kosten für einen 2-stündigen Privatcharter für uns beide?",
+      "pill": "Hoher Wert",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kreuzfahrthafenschalter",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "Fahrplanänderung – Coral Princess kommt 1 Stunde früher an",
+      "preview": "Achtung: Die morgige Ankunft der Coral Princess wurde von 10:00 Uhr auf 9:00 Uhr verschoben. Bitte passen Sie die Abholung bei Hafenausflügen entsprechend an...",
+      "pill": "Dringend",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Neue Bewertung für Ihren Eintrag",
+      "preview": "Ein Reisender hat Ihr Unternehmen kürzlich bewertet. Sehen Sie, was sie zu sagen und zu antworten hatten...",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hallo Rachel! Die Vormittagstour am 14. Juni bietet Platz für 8 Personen. Die Touren kosten 125 $/Person, Kinder von 4 bis 12 Jahren zahlen den halben Preis. Wir fahren um 9 Uhr morgens vom Hafen ab und fahren etwa 2,5 Stunden. Fernglas vorhanden – bringen Sie einfach Schichten und Sonnencreme mit. Soll ich 8 Plätze reservieren?",
+  "math": {
+    "pricePerBooking": "$750",
+    "bookingUnit": "Reisegruppe",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,250",
+    "punchline": "Eine gespeicherte Gruppenbuchung zahlt für ein Jahr Duet."
+  },
+  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Änderungen im Kreuzfahrtschiffplan und nie Lärm sehen. Keine privaten Charteranfragen mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen bleiben.",
+  "draftSubtitle": "Duet erfährt Ihre Tourzeiten, Preise und Richtlinien. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Angaben zur Verfügbarkeit, den enthaltenen Leistungen und den mitzubringenden Angaben erstellt. Sie überprüfen und senden.",
+  "agentSubtitle": "„Wie viele Plätze sind auf der Samstagmorgentour noch frei?“ „Entwerfen Sie eine Antwort an Rachel mit Angabe der Verfügbarkeit.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Gruppe von 8 – Verfügbarkeit 14. Juni?",
+      "preview": "Wir sind eine 8-köpfige Familie, die eine Woche lang zu Besuch ist...",
+      "pill": "Jetzt antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "James L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Betreff: Privatcharter bestätigt – Samstag, 14:00 Uhr",
+      "pill": "Gebucht",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Megan S.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Wird die Tour morgen stattfinden? Der Wind sieht rau aus",
+      "pill": "Frage",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FareHarbor",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Tägliche Buchungsübersicht – 3 neue Reservierungen",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marine Supply Co.",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Sommerschlussverkauf – 15 % Rabatt auf Sicherheitsausrüstung",
+      "pill": "Werbung",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Betreff: Gruppe von 8 – Verfügbarkeit 14. Juni?",
+    "originalFrom": "Rachel T. schrieb:",
+    "originalText": "Hallo! Wir sind eine 8-köpfige Familie, die eine Woche lang zu Besuch ist. Haben Sie Platz auf der Vormittagstour am 14. Juni? Wie hoch ist der Preis pro Person und ist es für Kinder in Ordnung?",
+    "lines": [
+      "Hallo Rachel!",
+      "Die Vormittagstour am 14. Juni bietet ausreichend Platz für 8 Personen. Tickets kosten 125 $/Person, Kinder von 4 bis 12 Jahren zahlen den halben Preis. Wir fahren um 9:00 Uhr los und kehren gegen 11:30 Uhr zurück.",
+      "Fernglas und Regenbekleidung werden bereitgestellt – bringen Sie einfach warme Schichten und Sonnencreme mit. Kinder lieben es auf der Aussichtsplattform.",
+      "Soll ich 8 Plätze sichern?"
+    ],
+    "highlightText": "Die Vormittagstour am 14. Juni bietet ausreichend Platz für 8 Personen. Tickets kosten 125 $/Person",
+    "tooltipFeatures": [
+      "Kennt Ihre Tourzeiten und Preise",
+      "Entwürfe in deiner Stimme",
+      "Beinhaltet, was automatisch mitgebracht werden soll",
+      "Lernt mit der Zeit"
+    ]
+  },
+  "agent": {
+    "userMessage": "Wie viele Plätze gibt es bei der Vormittagstour am Samstag noch?",
+    "agentResponse": "Basierend auf Ihren Buchungen sind für die 9-Uhr-Tour am Samstag 18 von 44 Plätzen besetzt – 26 sind noch offen. Die Nachmittagstour ist mit 40 von 44 fast ausgebucht. Soll ich eine Antwort auf alle ausstehenden Anfragen mit Verfügbarkeit am Samstagmorgen verfassen?",
+    "followUp": "Entwerfen Sie eine Antwort an Rachel, in der der 14. Juni für 8 Gäste bestätigt wird",
+    "followUpResponse": "Fertig! Ich verfasste eine Antwort an Rachel, in der ich die Vormittagstour am 14. Juni für 8 Gäste für 125 $/Person bestätigte. Darin sind die Abfahrtszeit, das bereitgestellte Angebot und das, was Sie mitbringen sollten, enthalten. Bereit zum Überprüfen und Senden."
+  },
+  "testimonialsTitle": "Beliebt bei Walbeobachtungskapitänen",
+  "testimonials": [
+    {
+      "name": "Kapitän Dave H.",
+      "title": "Wildlife Tour Operator, AK",
+      "quote": "Kreuzfahrtpassagiere brauchen schnelle Antworten – sie haben nur 6 Stunden im Hafen. Früher habe ich private Charterflüge verloren, weil ich auf dem Wasser war, als die Anfrage einging. Jetzt erstellt Duet Antworten mit meinen Preisen und Abholdetails, bevor ich überhaupt anlege.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria & Luis R.",
+      "title": "Family Whale Watch, CA",
+      "quote": "Wir führen während der Buckelwal-Saison zwei Touren pro Tag durch und das E-Mail-Volumen ist unvorstellbar. „Werden wir Wale sehen?“ „Was soll ich anziehen?“ „Ist morgen abgesagt?” Duet kümmert sich um die wiederkehrenden Fragen und wir konzentrieren uns auf die Touren.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Kapitän Ben T.",
+      "title": "Ozeanausflüge, HI",
+      "quote": "Ich beantwortete jeden Abend die gleichen 10 Fragen – Preise, was im Preis inbegriffen ist, Tipps gegen Seekrankheit, Altersgrenzen für Kinder. Duet habe alles in der ersten Woche gelernt. Meine Reaktionszeit verringerte sich von 8 Stunden auf 8 Minuten.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Kim W.",
+      "title": "Buchungsmanager, Pacific NW",
+      "quote": "Wetterstornierungen sind das Schlimmste – 30 Personen müssen auf einmal umgebucht werden und ich jongliere mit Telefonanrufen. Duet erstellt für jeden Gast personalisierte E-Mails zur Umplanung. Was früher 2 Stunden gedauert hat, dauert jetzt 15 Minuten.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jess & Nate P.",
+      "title": "Kleine Boots-Wildlife-Touren, BC",
+      "quote": "Wir sind ein Zwei-Personen-Unternehmen – ich bin Kapitänin, sie kümmert sich um die Logistik. In der Hochsaison verbrachte sie drei Stunden pro Nacht mit E-Mails. Duet kürzen Sie das auf 30 Minuten. Sie bekommt jetzt tatsächlich ihre Abende zurück.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Verbringen Sie die Walsaison auf dem Wasser,\nnicht in Ihrem Posteingang.",
+  "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
+  "verticalFaqs": [
+    {
+      "question": "Behandelt Duet Wetterstornierungen und Fahrplanänderungen von Kreuzfahrtschiffen?",
+      "answer": "Ja. Wenn Sie eine Tour aufgrund des Wetters oder einer Verschiebung der Ankunftszeit eines Kreuzfahrtschiffes stornieren, können Sie dies Duet einmal mitteilen und es erstellt für jeden betroffenen Gast personalisierte Umplanungs- oder Aktualisierungs-E-Mails. Kein 30-maliges Kopieren und Einfügen derselben Nachricht mehr. Jede Antwort enthält die ursprünglichen Buchungsdetails des Gastes und verfügbare Alternativen."
+    },
+    {
+      "question": "Wir bekommen ständig die gleichen Fragen: „Werden wir Wale sehen?“, „Was soll ich anziehen?“, „Ist es für Kinder in Ordnung?“ Kann Duet damit umgehen?",
+      "answer": "Genau da glänzt Duet. Es lernt Ihre Standardantworten – Arten, die Sie normalerweise sehen, was Sie mitbringen sollten, Altersrichtlinien, Tipps zur Seekrankheit, Abfahrtszeiten – und erstellt sofort vollständige Antworten. Sie überprüfen und senden. Die meisten Kapitäne teilen uns mit, dass 80 % ihres Posteingangs aus den gleichen 10 Fragen bestehen, und Duet kümmert sich um alle."
+    }
+  ],
+  "pricingNote": "Bei 125 $/Person zahlt eine gesparte Gruppe von 6 Personen für mehr als ein Jahr Pro."
+}

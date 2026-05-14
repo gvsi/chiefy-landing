@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail nardymo parduotuvėms |AI el. pašto padėjėjas",
+  "metaDescription": "Duet Mail padeda nardymo parduotuvių savininkams irPADIinstruktoriams nedelsiant atsakyti į sertifikavimo užklausas, kelionių užsakymus ir klausimus apie įrangą – net ir po vandeniu.",
+  "heroBadge": "Pasitiki daugiau nei 300 nardymo operatorių",
+  "heroHeadline": "Jūsų el. pašto asistentas, kai esate po vandeniu",
+  "heroSubline": "Duet sužino jūsų nardymo vietas, sertifikavimo reikalavimus, kainas ir balsą – tada parengia el. pašto atsakymų juodraščius, kad niekada neprarastumėte užsakymo būdami laive.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Atviro vandens sertifikatas – ar yra?",
+      "preview": "Sveiki! Aš lankausi pirmąją rugpjūčio savaitę ir noriu gauti Open Water sertifikatą. Kiek dienų tai trunka ir kas įskaičiuota?",
+      "pill": "Atsakyti",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevinas ir Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "6 asmenų grupė nardymui su 2 tankais šeštadienį",
+      "preview": "Turime 6 sertifikuotus narus ir norime šį šeštadienį užsisakyti rytinį nardymą 2 tankais. Ar turite vietos? Kokia kaina vienam asmeniui...",
+      "pill": "Užsakymas",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jasonas M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCDnuoma savaitgaliui?",
+      "preview": "Ei, aš esu sertifikuotas, bet keliauju lengvai. Ar nuomojate BCD ir reguliatorius? Man jų reikėtų nuo penktadienio iki sekmadienio...",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADIel. mokymasis",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Studentų siuntimas: Rachel Torres",
+      "preview": "Studentas baigė el. mokymąsi ir pasirinko jūsų nardymo centrą, skirtą mokymams uždarame ir atvirame vandenyje...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ei, Rachel! Norėtume gauti sertifikatą. Atviro vandens kursas trunka 3 dienas - vieną dieną baseine ir dvi dienas nardymo vandenyne. Visa įranga yra įtraukta. Rugpjūtis atviras. Norite rezervuoti vietą pirmai savaitei?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "nardyti",
+    "lostPerMonth": "3 kelionės (po 6 narus)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Už vieną išsaugotą grupinį nardymą per metus mokama Duet."
+  },
+  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite sertifikavimo užklausas ir nardymo užsakymus, antra – klausimus apie įrangą irPADIįspės, kai būsite pasiruošę. Nebereikia grupinio užsakymo, paslėpto įrangos informaciniuose biuleteniuose.",
+  "draftSubtitle": "Duet sužino apie jūsų nardymo vietas, sertifikatų reikalavimus ir kainas. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia kelionės informacija, kas įtraukta ir ką atsinešti. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "\"Kiek narų yra užsakyta šeštadieniui?\" „Atsakymo projektas Rachelei, kai pasiekiamas atviras vanduo“. Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Atviro vandens sertifikatas – ar yra?",
+      "preview": "Aš lankausi pirmąją rugpjūčio savaitę ir noriu gauti sertifikatą...",
+      "pill": "Atsakykite dabar",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevinas L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Užsakymas patvirtintas – šeštadienis nardymas 2 tankais",
+      "pill": "Užsakyta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jasonas M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCDir reguliatoriaus nuoma šį savaitgalį?",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Nauja apžvalga apie jūsų įrašą",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Vasaros išpardavimas – 25% nuolaida hidrokostiumams",
+      "pill": "Akcijos",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Atviro vandens sertifikatas – ar yra?",
+    "originalFrom": "Rachel T. rašė:",
+    "originalText": "Sveiki! Aš lankausi pirmąją rugpjūčio savaitę ir noriu gauti Open Water sertifikatą. Kiek dienų tai trunka ir kas įskaičiuota?",
+    "lines": [
+      "Ei, Rachel!",
+      "Norėtume gauti sertifikatą!PADIOpen Water kursas trunka 3 dienas – vienas baseino seansas ir du nardymai vandenyne mūsų rife. Visa įranga yra įtraukta.",
+      "Rugpjūtis šiuo metu atviras. Dauguma studentų pradeda pirmadienį, todėl baigia trečiadienį.",
+      "Nori rezervuoti vietą?"
+    ],
+    "highlightText": "PADIAtviro vandens kursas trunka 3 dienas",
+    "tooltipFeatures": [
+      "Žino jūsų kursus ir kainas",
+      "Juodraščiai jūsų balse",
+      "Automatiškai įtraukiami sertifikato reikalavimai",
+      "Laikui bėgant išmoksta"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kiek narų užsakyta šeštadieniui?",
+    "agentResponse": "Remiantis gautaisiais, turite 8 narus, patvirtintus šeštadienio rytiniam nardymui 2 tankais – Kevino 6 žmonių grupė ir 2 individualūs užsakymai. Jūs taip pat laukiate Jasono užklausos dėl įrangos nuomos tai pačiai kelionei. Nori, kad parašyčiau atsakymo projektą?",
+    "followUp": "Paruoškite atsakymą Rachelei su išsamia atviro vandens kurso informacija",
+    "followUpResponse": "Atlikta! Parašiau Reičelei atsakymą, patvirtinantį 3 dienųPADIatviro vandens kursą su baseinu ir nardymu vandenyne. Jame minimas rugpjūčio mėn. prieinamumas ir jūsų standartinės įrangos politika. Paruošta peržiūrėti ir išsiųsti."
+  },
+  "testimonialsTitle": "Mėgsta nardymo operatorių",
+  "testimonials": [
+    {
+      "name": "Kapitonas Mike'as T.",
+      "title": "Nardymo valties kapitonas, FL",
+      "quote": "Nuo penktadienio iki sekmadienio plaukioju laivais, o pirmadienį parduotuvė dirba tik kelias valandas. Kol esu po vandeniu, daugėja klausimų dėl sertifikavimo ir kelionių užklausų. Duet pateikia atsakymų juodraščius su mano kainomis, nardymo vietomis ir tuo, kas įtraukta – peržiūriu juos tarp nardymų.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen ir Mark S.",
+      "title": "PADINardymo centras, HI",
+      "quote": "Tuose pačiuose laivuose nardome, nardome ir stebime banginius. El. laiškų įvairovė yra beprotiška – klausimai apie sertifikatus, grupiniai užsakymai, įrangos nuoma, orų patikrinimai. Duet surūšiuoja viską ir parengia atsakymų juodraščius, kurie žino skirtumą. Absoliutus gelbėtojas.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Džeikas R.",
+      "title": "Nuolaužų nardymo chartijos, FL",
+      "quote": "Pusė mano el. laiškų yra „kokio sertifikato man reikia nardymui su nuolaužomis?“ o kita pusė yra \"ar man reikia savo įrangos?\"Duet abu valdo autopilotą. Mano atsakymo laikas svyravo nuo valandų iki minučių.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Nardymo parduotuvės savininkas, CA",
+      "quote": "Vasarą per dieną gauname daugiau nei 30 el. laiškų apie kursus, kelionių prieinamumą ir įrangą. Prarasdavau užsakymus parduotuvėms, kurios atsakydavo greičiau. Dabar Duet rengia viską, o aš tiesiog paspaudžiu siųsti tarp pamokų.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Nardymo instruktorius ir vadovas, NC",
+      "quote": "Rytais vedu kursus, o po pietų – nardymo vedlį. Tiesiogiai nėra laiko atsakyti į el. Duet sužinojo apie mano kursų tvarkaraštį, kainas ir net mano atšaukimo politiką. Klientai negali pasakyti skirtumo.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Praleisk dienas po vandeniu,\nnėra palaidotas jūsų pašto dėžutėje.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
+  "verticalFaqs": [
+    {
+      "question": "Ar Duet supranta sertifikavimo lygius ir kurso reikalavimus?",
+      "answer": "Taip. Duet mokosi konkrečių jūsų kursų – Open Water, Advanced, Rescue, Divemaster – kartu su būtinomis sąlygomis, trukme, kainomis ir tuo, kas įskaičiuota. Kai kas nors klausia, kaip gauti sertifikatą,Duet parengia atsakymo juodraštį, nurodydamas tinkamą kurso informaciją, tvarkaraštį ir kitus veiksmus. Jūs peržiūrite ir siunčiate."
+    },
+    {
+      "question": "Visą dieną esu laive arba po vandeniu. Ar galiu naudoti Duet iš savo telefono?",
+      "answer": "Taip. Duet veikia su Gmail ir Outlook, todėl veikia visur, kur veikia el. paštas, įskaitant telefoną. Juodraščiai automatiškai rodomi gautuosiuose. Tarp nardymo ar grįžimo prie doko peržiūrite ir siunčiate vienu bakstelėjimu. Dauguma nardymo operatorių mums sako, kad sezono piko metu jie sutaupo 1–2 valandas el. pašto laiko per dieną."
+    }
+  ],
+  "pricingNote": "150 USD už nardymą su 6 asmenų grupe, viena sutaupyta kelionė kainuoja daugiau nei metus Pro."
+}

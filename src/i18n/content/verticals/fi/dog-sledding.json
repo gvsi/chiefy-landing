@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail koiravaljakkomatkoille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa mushereita vastaamaan varaussähköposteihin välittömästi – jopa polulla. AI-muotoiltuja vastauksia kiertomatkatyypeillä, hinnoittelulla, käytännöillä ja äänellä.",
+  "heroBadge": "Yli 200 musherin luottama",
+  "heroHeadline": "Sähköpostiavustajasi, kun olet matkalla",
+  "heroSubline": "Duet oppii kiertomatkatyypit, hinnoittelun, sääkäytännöt ja lisäosat – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaalle vastaukselle.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + koiravaljakko yhdistelmä neljälle?",
+      "preview": "Hei! 4-henkinen perheeni vierailee Fairbanksissa tammikuussa. Tarjoatko yhdistelmäpaketin koiravaljakkoajelulla ja revontulien katselulla? Mikä on hinta?",
+      "pill": "Vastaus",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Mitä meidän pitäisi käyttää?",
+      "preview": "Olemme varattu 2 tunnin sossikokemukseen lauantaina. Mitä meidän pitäisi pukeutua? Tarjoatko varusteet vai pitääkö meidän tuoda omat...",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim & Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "5- ja 8-vuotiaat lapset – voivatko he soseuttaa?",
+      "preview": "Tuomme kaksi lastamme (5 ja 8). Voivatko he ajaa kelkassa tai todella auttaa mushissa? Tulevatko koirat toimeen myös pienten lasten kanssa...",
+      "pill": "Varaus",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uusi arvostelu yrityksellesi",
+      "preview": "Matkustaja arvosteli äskettäin yrityksesi. Katso mitä heillä oli sanottavaa ja vastaa...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Rachel! Haluaisimme isännöidä perhettäsi. Aurora + Mush -yhdistelmämme on 175 dollaria/henkilö – saat 1,5 tunnin rekimatkan polkujen läpi iltahämärässä, sitten kuumaa kaakaota tulen ääressä odotellessamme valoja. Kaikki kylmän sään varusteet tarjotaan. 12-vuotiaat ja sitä nuoremmat lapset ovat 125 dollaria. Haluatko, että varaan sinut tammikuulle?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "kiertue",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Kaksi tallennettua varausta maksaa Duet in vuoden."
+  },
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt kiertuekysely ei enää jää huomaamatta.",
+  "draftSubtitle": "Duet oppii kiertomatkasi tyypit, hinnoittelun ja sävyn. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on paketin tiedot, pukeutuminen ja lisäosat. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Onko varauksia tälle viikonlopulle?\" \"Luonnos vastaus aurorakombosta.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + koiravaljakko yhdistelmä neljälle?",
+      "preview": "Neljän hengen perheeni vierailee Fairbanksissa tammikuussa...",
+      "pill": "Vastaa nyt",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Varaus vahvistettu – lauantai klo 13.00",
+      "pill": "varattu",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Voivatko lapsemme (5 ja 8) ajaa mukana?",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Viikoittainen varausyhteenveto",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Talvilale — 30 % alennus mushing-valjaista",
+      "pill": "tarjoukset",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Aurora + koiravaljakkoyhdistelmä 4:lle?",
+    "originalFrom": "Rachel T. kirjoitti:",
+    "originalText": "Hei! 4-henkinen perheeni vierailee Fairbanksissa tammikuussa. Tarjoatko yhdistelmäpaketin koiravaljakkoajelulla ja revontulien katselulla? Mikä on hinta?",
+    "lines": [
+      "Hei Rachel!",
+      "Aurora + Mush -yhdistelmämme maksaa 175 $/hlö – 1,5 tunnin kelkkaajelu iltahämärässä, jota seuraa kuumaa kaakaota ja revontulien katselu tulen ääressä. 12-vuotiaat ja sitä nuoremmat lapset ovat 125 dollaria.",
+      "Kaikki kylmän sään varusteet toimitetaan (saappaat, ruokalaput, käsineet, kasvonaamarit). Pukeudu vain lämpimiin kerroksiin alle.",
+      "Haluatko, että varaan 4-henkisen perheesi tammikuulle?"
+    ],
+    "highlightText": "Aurora + Mush Combo on 175 dollaria/henkilö – 1,5 tunnin kelkkamatka",
+    "tooltipFeatures": [
+      "Tietää matkatyypit ja hinnoittelusi",
+      "Luonnokset äänessäsi",
+      "Sisältää varusteet ja lisäosat",
+      "Oppii ajan myötä"
+    ]
+  },
+  "agent": {
+    "userMessage": "Onko varauksia tulossa tänä viikonloppuna? Sää näyttää heikolta.",
+    "agentResponse": "Tälle viikonlopulle on varattu 3 kierrosta: kennelvierailu lauantaina klo 10 (2 vierasta), 2 tunnin sossikokemus lauantaina klo 13 (4 vierasta) ja revontulin yhdistelmä sunnuntaina klo 16 (6 vierasta). Sunnuntairyhmä kysyi peruutussäännöistä. Haluatko, että laadin sääpäivityksen kaikille kolmelle?",
+    "followUp": "Luonnostele sääpäivitys sunnuntain auroraryhmälle",
+    "followUpResponse": "Valmis! Tein vastauksen Sunday Aurora -ryhmälle, jossa kerroin, että tarkkailet olosuhteita ja vahvistan lauantai-iltaan mennessä. Se sisältää aikataulusi ja vaihtoehtoiset päivämäärät. Valmiina tarkastettavaksi ja lähetettäväksi."
+  },
+  "testimonialsTitle": "Mushereiden ja matkanjärjestäjien rakastama",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "koiravaljakkomatkanjärjestäjä, AK",
+      "quote": "Olen polulla 6 tuntia päivässä nollasolupalvelulla. Kun palasin, puolet varauskyselyistä oli mennyt toiseen asuun. Duet-luonnosvastaukset, joissa on kiertueen tiedot ja hinnat – vieraat kuulevat minuuteissa, ei tunneissa.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Kennel & Mush Tour Owner, AK",
+      "quote": "Tarjoamme kennelvierailuja, mush-ajeluja ja revontulia - jokainen sähköposti tarvitsee erilaisen vastauksen. Duet selvitti kaikki kolme kiertuetyyppiä viikossa ja nyt luonnostelee oikeaa pakettia vastaavia vastauksia joka kerta.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "koiravaljakkoopas, MN",
+      "quote": "Vietin joka ilta vastaamalla samoihin kysymyksiin pukemisesta, ikärajoista ja koirista. Duet ti hoitaa kaiken. Palaan polulta kotiin ja kaikki on valmis ja odottaa.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Sää peruutukset ovat jatkuvat talvella. Duet luonnostelee käytäntöjemme ja vaihtoehtoisten päivämäärien mukaiset vastausvastaukset ennen kuin ehdin edes tarkistaa puhelimeni. Vieraat pitävät nopeasta vastauksesta.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Family Dog Sled Adventures, CO",
+      "quote": "Vanhemmat kysyvät aina, voivatko heidän lapsensa murskata, ovatko koirat ystävällisiä, mitä pukea päälle – samat 10 kysymystä. Duet oppi jokaisen vastauksen ja laatii ne täydellisesti. Se on kuin kloonaisin itseni sähköpostiin.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Vietä talvi polulla koirien kanssa,\nei postilaatikossasi.",
+  "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
+  "verticalFaqs": [
+    {
+      "question": "Miten Duet käsittelee sään peruutuksia ja auroran epävarmuutta?",
+      "answer": "Duet oppii peruutus- ja uudelleenjärjestelykäytäntösi. Kun vieras lähettää sähköpostia säähuoleista tai revontulien näkyvyydestä, se laatii vastauksen, jossa on käytäntösi, vaihtoehtoiset päivämäärät ja kaikki asiaankuuluvat tiedot – kuten olosuhteiden valvonta ja vahvistus lähempänä kiertomatkaa. Tarkistat ja lähetät."
+    },
+    {
+      "question": "Tarjoan useita kiertomatkoja erilaisilla hinnoilla ja lisäosilla. Pystyykö Duet pitämään ne suorina?",
+      "answer": "Kyllä. Duet oppii jokaisen kiertuetyyppisi – kennelvierailut, mush-kokemukset, aurora-yhdistelmät, valokuvauslisäosat, kuljetuspaketit – sekä niiden hinnoittelun, keston ja mitä sisältyy hintaan. Kun tiedustelu saapuu, se vastaa oikeaa esittelyä ja laatii vastauksen oikeilla tiedoilla."
+    }
+  ],
+  "pricingNote": "Hinta 150 $/kierros, kaksi tallennettua varausta maksavat yli vuoden Pro:n."
+}

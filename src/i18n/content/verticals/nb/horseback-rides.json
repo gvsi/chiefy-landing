@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail for rideturer og stiguider | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper turoperatører med å svare på bestillings-e-poster umiddelbart – selv fra salen. AI-utkastede svar med dine priser, krav til rytter og stemme.",
+  "heroBadge": "Godkjent av 300+ stiguider",
+  "heroHeadline": "Din e-postassistent mens du er på sporet",
+  "heroSubline": "Duet lærer turtypene dine, priser, krav til ryttere og løypeforhold – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Gruppebestilling for 6 - lørdag morgen?",
+      "preview": "Hei! Vi er en familie på 6 (2 voksne, 4 barn i alderen 8-14) og vil gjerne bestille en tur på tur denne lørdag morgen. Har du tilgjengelighet? Hva er prisen per person?",
+      "pill": "Å svare",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Spørsmål om vektgrense",
+      "preview": "Hei, jeg er interessert i å bestille en tur, men ville først spørre om vektkravene dine. Jeg veier rundt 260 lbs - kommer det til å bli et problem...",
+      "pill": "Spørsmål",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy og Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Solnedgangstur for jubileum?",
+      "preview": "Vi feirer 10-årsjubileum neste helg og så solnedgangen din på Instagram. Er den tilgjengelig fredag ​​kveld? Eventuelle spesielle pakker...",
+      "pill": "Bestilling",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ny anmeldelse av oppføringen din",
+      "preview": "En reisende har nylig anmeldt bedriften din. Se hva de hadde å si og svar...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Jessica! Lørdag morgen er åpen for seks. Turene våre koster $100/person og går ca. 90 minutter gjennom dalen. Barn 8+ er velkomne - alle dine er klare til å gå. Det kreves sko med lukkede tå, og vi tilbyr hjelmer. Vil du at jeg skal booke deg inn for turen kl. 09.00?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "ri",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Én lagret gruppetur betaler for over to år med Duet."
+  },
+  "categorizationSubtitle": "Duet merker automatisk hver e-post, slik at du ser bestillingsforespørsler først, rytterspørsmål etter det, og aldri støy. Ikke mer mangler en gruppeforespørsel begravet under TripAdvisor-varsler.",
+  "draftSubtitle": "Duet lærer dine kjøretyper, priser og krav. Når en bestillingsforespørsel treffer, utarbeider den et komplett svar med løypedetaljer, priser og hva du skal ha på deg. Du anmelder og sender.",
+  "agentSubtitle": "\"Er det noen turer som er åpne denne helgen?\" \"Utkast et svar til Jessica med tilgjengelighet på lørdag.\"Duet kjenner innboksen og kalenderen din – bare spør.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Gruppebestilling for 6 - lørdag morgen?",
+      "preview": "Vi er en familie på 6 som ønsker å bestille en tur på tur...",
+      "pill": "Svar nå",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Solnedgangstur bekreftet — fredag 17:30",
+      "pill": "Bestilt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Vektgrense og erfaringskrav?",
+      "pill": "Spørsmål",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Ditt ukentlige bestillingssammendrag",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Traktorforsyning",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Vårsalg — 15 % avslag på fôr og feste",
+      "pill": "Kampanjer",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Gruppebestilling for 6 - lørdag morgen?",
+    "originalFrom": "Jessica T. skrev:",
+    "originalText": "Hei! Vi er en familie på 6 (2 voksne, 4 barn i alderen 8-14) og vil gjerne bestille en tur på tur denne lørdag morgen. Har du tilgjengelighet? Hva er prisen per person?",
+    "lines": [
+      "Hei Jessica!",
+      "Lørdag morgen er åpen for 6. Stien er $100/person og går ca. 90 minutter gjennom dalen. Barn fra 8 år og oppover er velkomne, så hele besetningen er klar til å dra.",
+      "Sko med lukkede tå er påkrevd - støvler er best. Vi tilbyr hjelmer og matcher hver rytter til en hest basert på størrelse og erfaring. Ingen tidligere kjøreerfaring nødvendig.",
+      "Vil du at jeg skal låse deg inne på turen kl. 09.00?"
+    ],
+    "highlightText": "Lørdag morgen er åpen for 6. Turer på tur er $100/person",
+    "tooltipFeatures": [
+      "Kjenner din pris og tilgjengelighet",
+      "Utkast i stemmen din",
+      "Inkluderer rytterkrav automatisk",
+      "Lærer over tid"
+    ]
+  },
+  "agent": {
+    "userMessage": "Noen turer åpne denne helgen? Dessuten, hvordan ser været ut?",
+    "agentResponse": "Basert på kalenderen din har du åpninger lørdag kl. 9.00 og 14.00, og søndag kl. 10.00. Lørdagens værmelding er 72°F og sol — perfekt ridevær. Søndag viser 40 % sjanse for ettermiddagsregn, så morgenspillet er det sikreste alternativet. Vil du at jeg skal skrive utkast til svar på eventuelle ventende henvendelser med disse tidspunktene?",
+    "followUp": "Lag et utkast til Jessica med tilgjengelighet på lørdag",
+    "followUpResponse": "Ferdig! Jeg utarbeidet et svar til Jessica som bekreftet lørdag kl. 9 for 6 ryttere til $100/person. Det inkluderer standard rytterkrav og hva du skal ha på deg. Klar til å vurdere og sende."
+  },
+  "testimonialsTitle": "Elsket av turoperatører",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Ranch-eier og stiguide, MT",
+      "quote": "Jeg er ute på stien 6 timer i døgnet uten mobiltjeneste. Da jeg kom tilbake for å svare, hadde halvparten av folket bestilt et annet sted. Nå legger Duet utkast til svar med pris- og kjøredetaljene mine – jeg bare gjennomgår og sender når jeg kommer tilbake til låven.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Turoperatør på hesteryggen, AZ",
+      "quote": "Vi får dusinvis av e-poster som spør om det samme – vektgrenser, hva vi skal ha på oss, alderskrav. Duet håndterer alt og svarene høres akkurat ut som meg. Gjestene mine aner ikke at det er AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Trail Ride Guide, CO",
+      "quote": "Høysesongen tok livet av meg. 30+ e-poster om dagen på toppen av løpeturer. Duet sorterer bestillingsforespørslene fra støyen og utkast til svar som inkluderer alt - priser, hva du skal ta med, partiet. Jeg fikk tilbake kveldene mine.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Rideinstruktør og bookingsjef, TX",
+      "quote": "Vi kjører solnedgangsturer, morgenturer og privattimer - hver med forskjellige priser og krav. Duet lærte alt på en uke. Den utarbeider det riktige svaret for den riktige kjøretypen hver gang.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "De sensitive e-postene var de verste - noen som spør om de er for tunge, eller om barnet deres er gammelt nok. Duet håndterer de med samme omsorg som jeg ville gjort. fesjonell, snill og nøyaktig. Det alene er verdt det.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tilbring dagen med hestene,\nikke i innboksen din.",
+  "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
+  "verticalFaqs": [
+    {
+      "question": "Hvordan håndterer Duet sensitive spørsmål om vekt eller erfaringskrav?",
+      "answer": "Duet lærer dine spesifikke retningslinjer og speiler tonen din. Når noen spør om vektgrenser eller erfaringskrav, svarer de profesjonelt og varmt – deler informasjonen de trenger uten å gjøre det vanskelig. Du setter tonen én gang og Duet følger den konsekvent, slik at hver gjest føler seg respektert."
+    },
+    {
+      "question": "Kan Duet håndtere gruppebestillinger med ulike rytterbehov?",
+      "answer": "Ja. Duet lærer dine kjøretyper, gruppestørrelser, aldersminimum og eventuelle rytterspesifikke krav. Når en familie eller gruppe sender e-post om bestilling, utarbeider den et svar som dekker priser for hele gruppen, hva hver enkelt rytter trenger å vite og tilgjengelige tidsluker. Du gjennomgår og sender - ingen frem og tilbake nødvendig."
+    }
+  ],
+  "pricingNote": "For $100/person for en gruppe på 6, betaler én spart tur for over to år med Pro."
+}

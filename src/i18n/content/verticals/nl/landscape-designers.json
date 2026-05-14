@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail voor landschapsontwerpers | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt landschapsontwerpers direct te reageren op e-mails van klanten, zelfs vanuit het veld. AI-opgestelde antwoorden met uw projectdetails, prijzen en stem.",
+  "heroBadge": "Vertrouwd door meer dan 300 landschapsontwerpers",
+  "heroHeadline": "Uw e-mailassistent terwijl u onderweg bent",
+  "heroSubline": "Duet leert uw projectdetails, plantpaletten, prijzen en processen kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een klant verliest door een trage reactie.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Tuinherinrichting: gratis adviesgesprek?",
+      "preview": "Hallo! We hebben net een huis gekocht in Westlake en de achtertuin is een schone lei. We willen graag een volledig nieuw ontwerp met inheemse beplanting en een patio. Neemt u nieuwe klanten aan?",
+      "pill": "Om te reageren",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Irrigatiespecificaties voor het Miller-project?",
+      "preview": "Hé, we zijn klaar om maandag te beginnen met graven. Kunt u de irrigatie-indeling en specificaties van de kop doorsturen zodat we deze week materialen kunnen bestellen?",
+      "pill": "Aannemer",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer en Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Korte vraag over de plantenselecties",
+      "preview": "Wij houden van het ontwerp! Ik vraag me af: kunnen we de Japanse esdoorn ruilen voor iets met meer herfstkleur? Is de lavendel ook hertenbestendig?",
+      "pill": "Klant",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kinderdagverblijf met uitzicht op de vallei",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Bestelnummer 4821 klaar om opgehaald te worden",
+      "preview": "Uw bestelling van 24 gallon struiken, 6 specimenbomen en bodembedekkers is klaar. Ophalen mogelijk ma t/m za 07.00 uur - 16.00 uur...",
+      "pill": "Leverancier",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hallo Rachel! Ik help u graag met uw achtertuin. Ik boek momenteel een eerste consultatie over 2-3 weken. Het eerste bezoek is een beoordeling ter plaatse van 90 minuten. Ik loop door het pand, voer metingen uit en bespreek uw visie. Van daaruit heb ik een conceptplan samengesteld. Wil je dat ik je op de kalender zet?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "project",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Eén opgeslagen project levert jarenlang Duet op."
+  },
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst nieuwe consultatieverzoeken ziet, daarna goedkeuringen van klanten en nooit meer lawaai van leveranciers. Nooit meer een aanwijzing missen die verborgen ligt onder bevestigingen van kwekerijbestellingen.",
+  "draftSubtitle": "Duet leert uw prijzen, processen en toon kennen. Wanneer er een consultatieverzoek binnenkomt, wordt er een volledig antwoord opgesteld met uw beschikbaarheid, wat u kunt verwachten en de volgende stappen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "'Wat is de tijdlijn van het Henderson-project?' \"Welke klanten wachten op goedkeuring van het plan?\"Duet kent uw inbox en projecten — vraag het maar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Tuinherinrichting: gratis adviesgesprek?",
+      "preview": "We hebben net een huis gekocht en de achtertuin is een schone lei...",
+      "pill": "Nieuw onderzoek",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Definitief ontwerp - we zijn klaar om goed te keuren!",
+      "pill": "Goedkeuring van de klant",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Irrigatiespecificaties voor het Miller-project?",
+      "pill": "Aannemer",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kinderdagverblijf met uitzicht op de vallei",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Bestelnummer 4821 klaar om opgehaald te worden",
+      "pill": "Leverancier",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Snelle Boeken",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Factuur #1047 bekeken door klant",
+      "pill": "Factuur",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Achtertuin opnieuw inrichten - gratis adviesgesprek?",
+    "originalFrom": "Rachel T. schreef:",
+    "originalText": "Hallo! We hebben net een huis gekocht in Westlake en de achtertuin is een schone lei. We willen graag een volledig nieuw ontwerp met inheemse beplanting en een patio. Neemt u nieuwe klanten aan?",
+    "lines": [
+      "Hallo Rachel!",
+      "Gefeliciteerd met het nieuwe huis – een schone achtertuin is eerlijk gezegd het droomproject. Ik neem absoluut nieuwe klanten aan.",
+      "Mijn proces begint met een consultatie van 90 minuten op locatie, waarbij ik door het pand loop, metingen doe en uw doelen bespreek. Van daaruit ontwikkel ik een conceptplan met beplantingsontwerp, hardscape-indeling en een gefaseerde begroting.",
+      "Ik heb de komende 2-3 weken vacatures. Wil je dat ik een aantal beschikbare data doorstuur?"
+    ],
+    "highlightText": "Mijn proces begint met een adviesgesprek van 90 minuten op locatie",
+    "tooltipFeatures": [
+      "Kent uw ontwerpproces en prijzen",
+      "Tochten in je stem",
+      "Inclusief consultatiegegevens automatisch",
+      "Leert in de loop van de tijd"
+    ]
+  },
+  "agent": {
+    "userMessage": "Welke klanten wachten nog op goedkeuring van het plan?",
+    "agentResponse": "Op basis van uw recente e-mails wachten twee klanten op goedkeuring: Jennifer en Mark L. (herontwerp van de achtertuin - vier dagen geleden de definitieve plannen verzonden, nog geen antwoord) en de Cohens (eigen conversie van de voortuin - vorige week een herzien plan gestuurd). Wil je dat ik een vriendelijk vervolg op beide schrijf?",
+    "followUp": "Stel een vervolg op voor Jennifer over de goedkeuring van het plan",
+    "followUpResponse": "Klaar! Ik heb een vriendelijke check-in opgesteld voor Jennifer, met de vraag of zij en Mark de kans hebben gehad om de definitieve plannen door te nemen, en haar eraan te herinneren dat je even snel kunt bellen om de plantenselecties door te nemen. Klaar om te beoordelen en te verzenden."
+  },
+  "testimonialsTitle": "Geliefd bij landschapsontwerpers",
+  "testimonials": [
+    {
+      "name": "Michaël S.",
+      "title": "Landschapsarchitect, Austin, Texas",
+      "quote": "In het voorjaar ben ik 8 uur per dag op locatie voor assessments en installatiesupervisie. Nieuwe consultatieverzoeken bleven dagenlang liggen. Nu antwoordt Duet binnen enkele minuten met mijn proces en beschikbaarheid. Ik heb 3 projecten geboekt die ik zeker zou hebben verloren.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Tuinontwerper, Portland OR",
+      "quote": "De coördinatie tussen hardscape-ploegen, irrigatie-installateurs en klanten levert een absurde hoeveelheid e-mail op. Duet sorteert het allemaal en stelt antwoorden op die de juiste projectdetails bevatten. Het is alsof je een studiomanager hebt.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Eigenaar van een landschapsontwerpstudio, Denver CO",
+      "quote": "Elke avond na het veldwerk was ik bezig met het inhalen van e-mails. Dezelfde vragen: prijzen, processen, tijdlijn. Duet regelt het allemaal. Mijn responstijd ging van dagen naar minuten en mijn close rate is veel hoger.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Residentiële landschapsontwerper, Scottsdale AZ",
+      "quote": "Mijn klanten stellen veel vragen over plantenselectie en onderhoud. Duet heb mijn plantenpaletten en onderhoudsinstructies geleerd en conceptantwoorden die ik nauwelijks hoef te bewerken. Klanten vinden dat ik ongelooflijk responsief ben.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sara K.",
+      "title": "Landschapsontwerper van inheemse planten, Raleigh NC",
+      "quote": "Ik verloor nieuwe klanten omdat ik niet kon antwoorden terwijl ik tot mijn knieën in een beplantingsinstallatie zat. Duet stelt consultatiereacties op met mijn exacte proces, prijzen en wat ik kan verwachten. Het betaalde zichzelf de eerste week terug.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Breng je dagen door met het creëren van landschappen,\ne-mail niet inhalen.",
+  "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
+  "verticalFaqs": [
+    {
+      "question": "Kan Duet de voorjaarsdrukte aan als de consultatieverzoeken zich opstapelen?",
+      "answer": "Dat is precies wanneer Duet schittert. Tijdens uw drukste seizoen krijgt elke nieuwe aanvraag een snel, gedetailleerd antwoord met uw proces, tijdlijn en beschikbaarheid, zelfs als u de hele dag ter plaatse bent. Geen voorjaarsleads meer kwijt omdat je ze pas om 21.00 uur kon bereiken."
+    },
+    {
+      "question": "Ik coördineer met meerdere buitenploegen. Helpt Duet daarbij?",
+      "answer": "Ja. Duet leert uw projecten en de betrokken aannemers kennen: hardscape, irrigatie, plantploegen, kwekerijen. Het categoriseert e-mails van aannemers afzonderlijk van e-mails van klanten en kan antwoorden opstellen met projectspecifieke details zoals specificaties, tijdlijnen en materialen. Je houdt elk team op de hoogte zonder de chaos in de inbox."
+    }
+  ],
+  "pricingNote": "Bij $8.000/project betaalt één opgeslagen klant jarenlang Pro."
+}

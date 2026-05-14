@@ -2,14 +2,25 @@
 import { GMAIL_START_URL, OUTLOOK_START_URL } from "../../utils/constants";
 
 type Props = {
+    finalCta: {
+        ariaLabel: string;
+        headline: string;
+        subline: string;
+        primaryCta: string;
+        secondaryCta: string;
+        note: string;
+        trustItems: string[];
+    };
     ctaHeadline?: string;
     ctaSubline?: string;
 };
 
-const { ctaHeadline, ctaSubline } = Astro.props;
+const { finalCta, ctaHeadline, ctaSubline } = Astro.props;
+const headline = ctaHeadline ?? finalCta.headline;
+const headlineLines = headline.split("\n");
 ---
 
-<section id="getstarted" class="final-cta" aria-label="Get started" data-cta-section>
+<section id="getstarted" class="final-cta" aria-label={finalCta.ariaLabel} data-cta-section>
     <div class="cta-container">
         <div class="cta-ambient" aria-hidden="true">
             <div class="ambient-orb ambient-orb--1"></div>
@@ -20,16 +31,12 @@ const { ctaHeadline, ctaSubline } = Astro.props;
             <div class="cta-card__inner">
                 <header class="cta-header">
                     <h2 class="cta-title">
-                        {ctaHeadline ? (
-                            ctaHeadline.split("\n").map((line, i, arr) => (
-                                <>{line}{i < arr.length - 1 && <br />}</>
-                            ))
-                        ) : (
-                            <>Get 4 hours back.<br />Every week.</>
-                        )}
+                        {headlineLines.map((line, i) => (
+                            <>{line}{i < headlineLines.length - 1 && <br />}</>
+                        ))}
                     </h2>
                     <p class="cta-subtitle">
-                        {ctaSubline || "Join the professionals who start their day with clarity, not chaos. Your free trial is waiting."}
+                        {ctaSubline ?? finalCta.subline}
                     </p>
                 </header>
 
@@ -61,7 +68,7 @@ const { ctaHeadline, ctaSubline } = Astro.props;
                                     />
                                 </svg>
                             </span>
-                            <span class="cta-button__text">Start with Gmail</span>
+                            <span class="cta-button__text">{finalCta.primaryCta}</span>
                         </a>
 
                         <a
@@ -78,72 +85,78 @@ const { ctaHeadline, ctaSubline } = Astro.props;
                                     <path d="M11 11H21V21H11V11Z" fill="#FFB900"/>
                                 </svg>
                             </span>
-                            <span class="cta-button__text">Start with Outlook</span>
+                            <span class="cta-button__text">{finalCta.secondaryCta}</span>
                         </a>
                     </div>
 
                     <p class="cta-note">
-                        14-day free trial · Cancel anytime
+                        {finalCta.note}
                     </p>
                 </div>
 
                 <div class="trust-row">
-                    <div class="trust-item">
-                        <svg class="trust-icon" viewBox="0 0 24 24" fill="none" width="18" height="18" aria-hidden="true">
-                            <path
-                                d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"
-                                stroke="currentColor"
-                                stroke-width="1.5"
-                                stroke-linecap="round"
-                                stroke-linejoin="round"
-                            />
-                            <path
-                                d="m9 12 2 2 4-4"
-                                stroke="currentColor"
-                                stroke-width="1.5"
-                                stroke-linecap="round"
-                                stroke-linejoin="round"
-                            />
-                        </svg>
-                        <span>Google CASA-assessed</span>
-                    </div>
-                    <div class="trust-item">
-                        <svg class="trust-icon" viewBox="0 0 24 24" fill="none" width="18" height="18" aria-hidden="true">
-                            <rect
-                                x="3"
-                                y="11"
-                                width="18"
-                                height="11"
-                                rx="2"
-                                stroke="currentColor"
-                                stroke-width="1.5"
-                            />
-                            <path
-                                d="M7 11V7a5 5 0 0 1 10 0v4"
-                                stroke="currentColor"
-                                stroke-width="1.5"
-                                stroke-linecap="round"
-                            />
-                        </svg>
-                        <span>Encrypted at rest</span>
-                    </div>
-                    <div class="trust-item">
-                        <svg class="trust-icon" viewBox="0 0 24 24" fill="none" width="18" height="18" aria-hidden="true">
-                            <path
-                                d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"
-                                stroke="currentColor"
-                                stroke-width="1.5"
-                            />
-                            <path
-                                d="m9 12 2 2 4-4"
-                                stroke="currentColor"
-                                stroke-width="1.5"
-                                stroke-linecap="round"
-                                stroke-linejoin="round"
-                            />
-                        </svg>
-                        <span>Secure OAuth 2.0</span>
-                    </div>
+                    {finalCta.trustItems[0] && (
+                        <div class="trust-item">
+                            <svg class="trust-icon" viewBox="0 0 24 24" fill="none" width="18" height="18" aria-hidden="true">
+                                <path
+                                    d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"
+                                    stroke="currentColor"
+                                    stroke-width="1.5"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                />
+                                <path
+                                    d="m9 12 2 2 4-4"
+                                    stroke="currentColor"
+                                    stroke-width="1.5"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                />
+                            </svg>
+                            <span>{finalCta.trustItems[0]}</span>
+                        </div>
+                    )}
+                    {finalCta.trustItems[1] && (
+                        <div class="trust-item">
+                            <svg class="trust-icon" viewBox="0 0 24 24" fill="none" width="18" height="18" aria-hidden="true">
+                                <rect
+                                    x="3"
+                                    y="11"
+                                    width="18"
+                                    height="11"
+                                    rx="2"
+                                    stroke="currentColor"
+                                    stroke-width="1.5"
+                                />
+                                <path
+                                    d="M7 11V7a5 5 0 0 1 10 0v4"
+                                    stroke="currentColor"
+                                    stroke-width="1.5"
+                                    stroke-linecap="round"
+                                />
+                            </svg>
+                            <span>{finalCta.trustItems[1]}</span>
+                        </div>
+                    )}
+                    {finalCta.trustItems[2] && (
+                        <div class="trust-item">
+                            <svg class="trust-icon" viewBox="0 0 24 24" fill="none" width="18" height="18" aria-hidden="true">
+                                <path
+                                    d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"
+                                    stroke="currentColor"
+                                    stroke-width="1.5"
+                                />
+                                <path
+                                    d="m9 12 2 2 4-4"
+                                    stroke="currentColor"
+                                    stroke-width="1.5"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                />
+                            </svg>
+                            <span>{finalCta.trustItems[2]}</span>
+                        </div>
+                    )}
                 </div>
             </div>
         </div>

@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail šunų kinkinių ekskursijoms |AI el. pašto padėjėjas",
+  "metaDescription": "Duet Mail padeda lankytojams akimirksniu atsakyti į rezervavimo el. laiškus – net ir iš tako.AI parengti atsakymai su jūsų kelionių tipais, kainomis, politika ir balsu.",
+  "heroBadge": "Pasitiki 200+ mushers",
+  "heroHeadline": "Jūsų el. pašto asistentas, kai esate kelyje",
+  "heroSubline": "Duet sužino jūsų kelionių tipus, kainas, oro sąlygas ir priedus – tada parengia atsakymų el. laiškus juodraščius, kad niekada neprarastumėte užsakymo dėl lėto atsakymo.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + šunų kinkinių derinys 4 asmenims?",
+      "preview": "Sveiki! Mano 4 asmenų šeima sausio mėnesį lankosi Fairbanks. Ar siūlote kombinuotą paketą su šunų rogėmis ir auroros apžiūra? Kokia kaina?",
+      "pill": "Atsakyti",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jamesas W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Ką turėtume dėvėti?",
+      "preview": "Esame užsisakę 2 valandų košės patirtį šeštadienį. Ką turėtume dėvėti? Ar parūpinate įrangą, ar mums reikia atsivežti savo...",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kimas ir Brianas L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "5 ir 8 metų vaikai – ar jie gali susimaišyti?",
+      "preview": "Atsivežame du vaikus (5 ir 8). Ar jie gali važiuoti rogutėmis ar iš tikrųjų padėti košės? Taip pat ar šunims gerai sekasi su mažais vaikais...",
+      "pill": "Užsakymas",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nauja jūsų įrašo apžvalga",
+      "preview": "Keliautojas neseniai peržiūrėjo jūsų įmonę. Pažiūrėkite, ką jie turėjo pasakyti, ir atsakykite...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ei, Rachel! Norėtume priimti jūsų šeimą. Mūsų Aurora + Mush Combo kaina 175 USD asmeniui – 1,5 valandos pasivažinėsite rogutėmis takais sutemus, tada karštą kakavą prie laužo, kol laukiame šviesų. Suteikiama visa šalto oro įranga. 12 metų ir jaunesni vaikai kainuoja 125 USD. Norite, kad užsakyčiau jus sausio mėnesiui?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "turas",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Už du išsaugotus užsakymus mokama Duet metus."
+  },
+  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, po to klausimus, o triukšmą niekada. Daugiau netrūksta kelionės užklausos, paslėptos poTripAdvisorįspėjimais.",
+  "draftSubtitle": "Duet sužino jūsų kelionių tipus, kainas ir toną. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia pakuotės informacija, ką dėvėti ir priedais. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "\"Ar yra užsakymų šį savaitgalį?\" „Paruoškite atsakymą apie auroros derinį“. Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + šunų kinkinių derinys 4 asmenims?",
+      "preview": "Mano 4 asmenų šeima sausio mėnesį lankosi Fairbankse...",
+      "pill": "Atsakykite dabar",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jamesas W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Užsakymas patvirtintas – šeštadienį 13 val",
+      "pill": "Užsakyta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Ar mūsų vaikai (5 ir 8) gali važiuoti kartu?",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viatorius",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Jūsų savaitės užsakymo suvestinė",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Žiemos išpardavimas – 30% nuolaida pakinktams",
+      "pill": "Akcijos",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Aurora + šunų kinkinių derinys 4?",
+    "originalFrom": "Rachel T. rašė:",
+    "originalText": "Sveiki! Mano 4 asmenų šeima sausio mėnesį lankosi Fairbanks. Ar siūlote kombinuotą paketą su šunų rogėmis ir auroros apžiūra? Kokia kaina?",
+    "lines": [
+      "Ei, Rachel!",
+      "Mūsų Aurora + Mush Combo kaina 175 USD asmeniui – 1,5 valandos pasivažinėjimas rogutėmis prieblandoje, po to karšta kakava ir auroros apžiūra prie laužo. 12 metų ir jaunesni vaikai kainuoja 125 USD.",
+      "Suteikiama visa šalto oro apranga (batai, seilinukai, pirštinės, veido kaukės). Tiesiog apsirenkite šiltais sluoksniais apačioje.",
+      "Norite, kad užsakyčiau jūsų 4 asmenų šeimą sausio mėnesiui?"
+    ],
+    "highlightText": "„Aurora + Mush Combo“ kainuoja 175 USD asmeniui – 1,5 valandos pasivažinėjimas rogutėmis",
+    "tooltipFeatures": [
+      "Žino jūsų kelionių tipus ir kainas",
+      "Juodraščiai jūsų balse",
+      "Apima įrangos ir priedų detales",
+      "Laikui bėgant išmoksta"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ar bus užsakymų šį savaitgalį? Oras atrodo prastas.",
+    "agentResponse": "Šį savaitgalį užsisakėte 3 ekskursijas: apsilankymas veislyne šeštadienį 10 val. (2 svečiai), 2 valandų trukmės košė šeštadienį 1PM(4 svečiai) ir auroros derinys sekmadienį 4PM(6 svečiai). Sekmadienio grupė paklausė apie atšaukimo politiką. Norite, kad pateikčiau visų trijų orų naujinį?",
+    "followUp": "Paruoškite sekmadienio auroros grupės orų naujinimą",
+    "followUpResponse": "Atlikta! Aš parengiau atsakymą sekmadienio auroros grupei, pranešdamas, kad stebite sąlygas ir patvirtinsiu iki šeštadienio vakaro. Tai apima jūsų planavimo keitimo politiką ir alternatyvias datas. Paruošta peržiūrėti ir išsiųsti."
+  },
+  "testimonialsTitle": "Mėgsta mushers ir kelionių organizatoriai",
+  "testimonials": [
+    {
+      "name": "Ryanas H.",
+      "title": "Šunų rogių kelionių organizatorius, AK",
+      "quote": "Esu kelyje 6 valandas per parą ir naudoju nulinę mobiliojo ryšio paslaugą. Tuo metu, kai grįžau, pusė užsakymų užklausų nukeliavo į kitą aprangą. Duet atsakymų juodraščiai su išsamia mano kelionių informacija ir kainomis – svečiai atsakys per kelias minutes, o ne valandas.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Kennel & Mush Tour Owner, AK",
+      "quote": "Siūlome apsilankymus veislyne, pasivažinėjimą košės ir auroros derinius – į kiekvieną el. laišką reikia kitokio atsakymo. Duet per savaitę išsiaiškino visus tris kelionių tipus ir dabar kiekvieną kartą rengia atsakymų juodraščius, atitinkančius reikiamą paketą.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travisas B.",
+      "title": "Šunų kinkinių vadovas, MN",
+      "quote": "Kiekvieną vakarą praleisdavau atsakydamas į tuos pačius klausimus apie tai, ką dėvėti, amžiaus ribas ir šunis. Duet tvarko visa tai. Grįžtu namo iš tako, viskas paruošta ir laukia.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Žiemą oro sąlygų atšaukimai yra nuolatiniai. Duet parengia planavimo atsakymų juodraščius su mūsų politika ir alternatyviomis datomis, kol aš net neturiu galimybės patikrinti savo telefono. Svečiams patinka greitas atsakymas.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Šeimos šunų kinkinių nuotykiai, CO",
+      "quote": "Tėvai visada klausia, ar jų vaikai gali muštis, ar šunys draugiški, ką dėvėti – tie patys 10 klausimų. Duet išmoko kiekvieną atsakymą ir puikiai juos parengia. Tai tarsi savęs klonavimas el. paštui.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Praleiskite žiemą takelyje su savo šunimis,\nne jūsų pašto dėžutėje.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
+  "verticalFaqs": [
+    {
+      "question": "Kaip Duet elgiasi su oro atšaukimais ir auroros neapibrėžtumu?",
+      "answer": "Duet sužino jūsų atšaukimo ir tvarkaraščio keitimo politiką. Kai svečias siunčia el. laiškus apie susirūpinimą keliančius orus ar auroros matomumą, jis parengia atsakymo juodraštį su jūsų politika, alternatyviomis datomis ir bet kokia svarbia informacija, pvz., stebėjimo sąlygomis ir patvirtinimu arčiau kelionės. Jūs peržiūrite ir siunčiate."
+    },
+    {
+      "question": "Siūlau kelių tipų keliones su skirtingomis kainomis ir priedais. Ar Duet gali juos išlaikyti tiesiai?",
+      "answer": "Taip. Duet sužino apie kiekvieną jūsų kelionių tipą – apsilankymus veislyne, košės patirtį, auroros derinius, fotografijos priedus, transportavimo paketus – kartu su jų kainomis, trukme ir tuo, kas įskaičiuota. Kai gaunama užklausa, ji atitinka tinkamą apžvalgą ir parengia atsakymo juodraštį su teisinga informacija."
+    }
+  ],
+  "pricingNote": "Už 150 USD už kelionę už du išsaugotus užsakymus sumokama daugiau nei už metus Pro."
+}

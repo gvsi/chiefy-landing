@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail za poročne organizatorje | AI e-poštni pomočnik",
+  "metaDescription": "Duet Mail pomaga poročnim organizatorjem takoj odgovoriti na e-pošto strank in ponudnikov — tudi z ogledov lokacij. Osnutki odgovorov z umetno inteligenco z vašimi paketi, stiki ponudnikov in načinom pisanja.",
+  "heroBadge": "Zaupa mu več kot 400 poročnih organizatorjev",
+  "heroHeadline": "Vaš e-poštni pomočnik, ko ste na lokaciji poroke",
+  "heroSubline": "Duet se nauči vaših stikov ponudnikov, paketov in preferenc strank — nato pripravlja osnutke e-poštnih odgovorov, da pari ne čakajo, medtem ko vi usklajujete na terenu.",
+  "inboxEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Razpoložljivost za poroko 20. septembra?",
+      "preview": "Živjo! Pravkar sva se zaročila in razmišljava o poroki 20. septembra za približno 120 gostov. Imate prosto? Kakšni so vaši paketi...",
+      "pill": "Za odgovor",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Poroka Thompson — vzorci osrednjih aranžmajev",
+      "preview": "Tukaj so tri možnosti osrednjih aranžmajev, o katerih smo govorili. Vrtne vrtnice so prišle čudovito. Sporočite mi, v katero smer želi par...",
+      "pill": "Ponudnik",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Paničarim zaradi sedežnega reda",
+      "preview": "Vem, da smo sedežni red zaključili prejšnji teden, ampak moja mama je pravkar potrdila še 4 dodatne ljudi in nimam pojma, kam jih dati. Lahko premaknemo nekaj miz...",
+      "pill": "Stranka",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Novo povpraševanje z vašega profila",
+      "preview": "Par je zahteval več informacij o vaših storitvah. Oglejte si podrobnosti in odgovorite...",
+      "pill": "V vednost",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Živjo, Emily & James — čestitke ob zaroki! 20. september je na voljo in 120 gostov je odlična velikost. Ponujam pakete celovitega načrtovanja, delnega načrtovanja in koordinacije na dan poroke. Z veseljem bi se dogovorila za brezplačen posvet, da spoznam vajino vizijo. Sta ta teden prosta za kratek klic?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "poroka",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Ena rešena stranka pokrije več kot 20 let uporabe Duet."
+  },
+  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite nova povpraševanja parov, nato potrditve ponudnikov, novičarskega šuma pa nikoli. Nič več zgrešenih zahtev za rezervacijo, zakopanih pod opozorili The Knot.",
+  "draftSubtitle": "Duet se nauči vaših paketov, priljubljenih ponudnikov in tona. Ko par pošlje povpraševanje, pripravi topel, celovit odgovor z vašo razpoložljivostjo in naslednjimi koraki. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Katera e-pošta ponudnikov je prišla za poroko Thompson?\" \"Pripravi posodobitev časovnice za vse sobotne ponudnike.\" Duet pozna vaš nabiralnik in stranke — samo vprašajte.",
+  "categorizationEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Razpoložljivost za poroko 20. septembra?",
+      "preview": "Pravkar sva se zaročila in razmišljava o 20. septembru...",
+      "pill": "Odgovorite zdaj",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Poroka Thompson — vzorci osrednjih aranžmajev",
+      "pill": "Ponudnik",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Sedežni red — končna različica priložena",
+      "pill": "Stranka",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Novo povpraševanje z vašega profila",
+      "pill": "V vednost",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Minted",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "20 % popusta na save-the-date kartice ta teden",
+      "pill": "Promocije",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Razpoložljivost za poroko 20. septembra?",
+    "originalFrom": "Emily & James W. sta napisala:",
+    "originalText": "Živjo! Pravkar sva se zaročila in razmišljava o poroki 20. septembra za približno 120 gostov. Imate prosto? Kakšni so vaši paketi in cene?",
+    "lines": [
+      "Živjo, Emily & James — čestitke!",
+      "20. september je na voljo in 120 gostov je čudovita velikost. Ponujam pakete celovitega načrtovanja, delnega načrtovanja in koordinacije na dan poroke od $3,500 naprej.",
+      "Z veseljem bi se dogovorila za brezplačen posvet, da slišim vajino vizijo in vama predstavim, kateri paket bi najbolje ustrezal.",
+      "Sta ta teden prosta za klic?"
+    ],
+    "highlightText": "20. september je na voljo in 120 gostov je čudovita velikost",
+    "tooltipFeatures": [
+      "Pozna vaše pakete in razpoložljivost",
+      "Pripravlja osnutke v vašem slogu",
+      "Vključi naslednje korake za posvet",
+      "Uči se preferenc vaših strank"
+    ]
+  },
+  "agent": {
+    "userMessage": "Katera e-pošta ponudnikov je ta teden prišla za poroko Thompson?",
+    "agentResponse": "Ta teden ste za poroko Thompson prejeli 4 e-poštna sporočila ponudnikov: Bella Rosa Florals je poslala vzorce osrednjih aranžmajev (čaka na izbiro para), Lakeside Venue je potrdil vajo obreda v petek ob 16.00, DJ Marco je poslal posodobljen seznam skladb, Sweet Layers Bakery pa potrebuje končno izbiro okusa torte do srede. Želite, da pripravim odgovore na katero od teh?",
+    "followUp": "Pripravi odgovor za Bella Rosa z izbiro para — možnost B, vrtne vrtnice",
+    "followUpResponse": "Končano! Pripravil sem odgovor za Bella Rosa Florals, ki potrjuje možnost B — osrednje aranžmaje z vrtnimi vrtnicami za poroko Thompson. Vključuje opombo, naj nadaljujejo s celotnim naročilom za 14 miz. Pripravljeno za pregled in pošiljanje."
+  },
+  "testimonialsTitle": "Poročni organizatorji ga obožujejo",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Butična poročna organizatorica, CO",
+      "quote": "Pol tedna sem na gorskih lokacijah brez signala. Medtem mi pari pišejo o časovnicah in vprašanjih za ponudnike. Duet pripravlja odgovore z mojimi natančnimi paketi in tonom — pregledam jih, ko sem spet v dosegu.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Poročni organizator celovitih storitev, CA",
+      "quote": "Usklajevanje več kot 10 ponudnikov na poroko pomeni, da je moj nabiralnik v glavni sezoni bojno polje. Duet kategorizira e-pošto ponudnikov ločeno od e-pošte strank in pripravlja opomnike, ki bi jih napisala sama. Zdaj dejansko spim.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Koordinatorica na dan poroke, TX",
+      "quote": "Na poročne dni sem nedosegljiva 14 ur zapored. Nova povpraševanja so prej neodgovorjena čakala do ponedeljka. Zdaj jih Duet obdela takoj in samo zaradi hitrejših odzivov sem to četrtletje rezervirala 3 dodatne poroke.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Organizator porok na destinaciji, HI",
+      "quote": "Moji pari priletijo z vsega sveta in pišejo ob vseh urah. Duet se je naučil mojih odgovorov na pogosta vprašanja — logistike lokacij, lokalnih ponudnikov, kaj pričakovati — in pripravlja odgovore, ki zvenijo natanko kot jaz. Stranke nimajo pojma.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Organizatorka porok in dogodkov, NY",
+      "quote": "Vsak večer sem porabila 2 uri za odgovarjanje na ista vprašanja o paketih in razpoložljivosti. Duet ureja ponavljajoče se stvari, da se lahko osredotočim na ustvarjalno delo, ki ga imam zares rada. Povrnil se je že prvi teden.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Bodite prisotni pri obredu,\nne zakopani v nabiralniku.",
+  "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
+  "verticalFaqs": [
+    {
+      "question": "Ali Duet deluje z vso e-pošto za usklajevanje ponudnikov?",
+      "answer": "Da. Duet se nauči vaših stikov ponudnikov, priljubljenih ponudnikov in načina komunikacije z vsakim. E-pošto ponudnikov kategorizira po poroki in pripravi odgovore s pravimi podrobnostmi — potrditvami, opomniki, posodobitvami časovnice. Vi jih pregledate in pošljete. Obravnava cvetličarje, catering, lokacije, DJ-je, fotografe in vsakega drugega ponudnika v vašem imeniku."
+    },
+    {
+      "question": "Ves dan sem na lokacijah porok in ogledih. Bom zamudila nova povpraševanja?",
+      "answer": "To je natanko tisto, kar Duet rešuje. Ko par piše o razpoložljivosti ali paketih, medtem ko vi usklajujete na lokaciji, Duet pripravi topel, profesionalen odgovor z vašo dejansko razpoložljivostjo in naslednjimi koraki. Vi ga pregledate in pošljete, ko imate čas — tudi s telefona med dogodki. Večina organizatorjev nam pove, da jim v glavni sezoni prihrani 1-2 uri e-pošte na dan."
+    }
+  ],
+  "pricingNote": "Pri $8,000/poroko ena rešena stranka pokrije več kot 20 let uporabe Pro."
+}

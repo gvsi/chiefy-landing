@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail belsőépítészeknek | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a belsőépítészeknek kezelni az ügyfelek e-mailjeit, a vállalkozói koordinációt és a szállítói rendeléseket – akár a munkaterületről is. AI által készített válaszok a projekt részleteivel, preferenciáival és hangjával.",
+  "heroBadge": "Több mint 400 belsőépítész megbízott",
+  "heroHeadline": "Az Ön e-mail asszisztense, miközben az ügyfelekkel a helyszínen tartózkodik",
+  "heroSubline": "A Duet megtanulja a szállító kapcsolattartóit, a projekt részleteit és az ügyfél beállításait – majd e-mail-válaszokat készít, így soha nem veszíthet el ügyfelet a lassú válaszadás miatt.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Konyhafelújítás – első konzultáció?",
+      "preview": "Szia! Nemrég vettünk egy otthont Westlake-ben, és szeretnénk teljesen újjáépíteni a konyhát. Vállalsz új projekteket? Hogyan néz ki a folyamatod?",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Re: Backsplash csempe átfutási idő frissítése",
+      "preview": "Most hallottam a raktárból – a Calacatta hatlapú lapkát 3 hétig utólag rendelik. Akarja, hogy megtartsam a rendelést, vagy nézzek alternatívákat...",
+      "pill": "Szállítói rendelés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — Villanyszerelő",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "A vezetékezés kész – készen áll a szerelvény beszerelésére",
+      "preview": "Az összes durva bekötés a hálószobában és a nappaliban elkészült. Biztosak vagyunk abban, hogy felszereljük a villanylámpát és a csillárt, amikor...",
+      "pill": "Vállalkozó",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen és Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Gondolatok a szövetmintákról?",
+      "preview": "Megnéztük a három szövet opciót, amit hagyott, és a \"Zabpehely\" vászon felé hajolunk, de szeretnénk látni a fal színén...",
+      "pill": "Ügyfél jóváhagyása",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Szia Rachel! Szeretnék többet hallani a Westlake-i konyhájáról. Jelenleg a következő hónapra foglalok konzultációt. A folyamatom egy otthoni látogatással kezdődik, ahol végigjárjuk az Ön elképzeléseit, költségvetését és idővonalát – majd összeállítom a tervezési koncepciót az anyagok kiválasztásával. Szeretnél időpontot egyeztetni a találkozóra a házban?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Egy megmentett ügyfél évekig fizet Duetért."
+  },
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először az új ügyfélkéréseket, majd a függőben lévő jóváhagyásokat látja, a szállítói hírleveleket pedig soha. Többé nem hiányzik egy tervezési konzultáció a kiállítási promóciók alatt.",
+  "draftSubtitle": "A Duet megtanulja a folyamatot, a projekt részleteit és a hangszínt. Amikor új megkeresés vagy ügyfélkérdés érkezik, teljes választ készít az elérhetőségről, a következő lépésekről és a projekt sajátosságairól. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Mi a helyzet a Henderson-projekttel? – Mely jóváhagyások várnak még? A Duet ismeri a beérkezett üzeneteket és minden projektszálat – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Konyhafelújítás – első konzultáció?",
+      "preview": "Most vettünk egy házat, és szeretnénk felújítani a konyhát...",
+      "pill": "Új Érdeklődés",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Re: Szövetminták – zabpehely vászonhoz",
+      "pill": "Ügyfél jóváhagyása",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mark L.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "A vezetékezés kész – készen áll a szerelvény beszerelésére",
+      "pill": "Vállalkozó",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "A 4821-es rendelés kiszállítva – csütörtökön",
+      "pill": "Szállítói rendelés",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Elérhető tervezés",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Kereskedelmi program — tavaszi megtakarítási rendezvény",
+      "pill": "Promozgások",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Konyhafelújítás – első konzultáció?",
+    "originalFrom": "Rachel T. írta:",
+    "originalText": "Szia! Nemrég vettünk egy otthont Westlake-ben, és szeretnénk teljesen újjáépíteni a konyhát. Vállalsz új projekteket? Hogyan néz ki a folyamatod?",
+    "lines": [
+      "Szia Rachel!",
+      "Gratulálunk az új otthonhoz! Szívesen segítek a konyhájában. Jelenleg a következő hónapra foglalok konzultációt.",
+      "A folyamatom egy otthoni látogatással kezdődik, hogy végigjárjam az elképzeléseit, a költségvetését és az idővonalát. Innentől kezdve összeállítottam egy tervezési koncepciót anyagválasztással és részletes javaslattal.",
+      "Szeretnél időpontot egyeztetni a találkozóra a házban?"
+    ],
+    "highlightText": "Jelenleg a következő hónapra foglalok konzultációt.",
+    "tooltipFeatures": [
+      "Ismeri a folyamatot és a rendelkezésre állást",
+      "Piszkozatok a hangodban",
+      "A következő lépéseket automatikusan tartalmazza",
+      "Idővel tanul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Milyen jóváhagyások várnak még a Henderson projektre?",
+    "agentResponse": "A Hendersonnal küldött e-mail-szálai alapján két tétel még jóváhagyásra vár: a fő fürdőkád (kedden küldte el a helyreállítási hardver opciókat) és a nappali drapériaszövete (a mintákat a múlt héten szállították). Karen az étkező fényezéséről is érdeklődött, de még nem válaszolt az ajánlásodra. Akarod, hogy készítsek egy nyomon követést?",
+    "followUp": "Készítsen egy szelíd nyomon követést Karennek a hiúság- és szövetválasztásról",
+    "followUpResponse": "Kész! Készítettem egy nyomon követést, amikor Karen ellenőrizte a smink- és drapériák kiválasztását, megemlítve, hogy a hiúságnak 6 hetes átfutási ideje van, így a hamarosan meghozott döntés az ütemterv szerint fogja tartani a projektet. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Szeretik a belsőépítészek",
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "title": "Fő tervező, Austin TX",
+      "quote": "Napi 6 órában a helyszínen vagyok festők, villanyszerelők és csempeszerelők koordinálásával. Eközben három másik ügyfél e-mailt küld a projektjeiről. A Duet piszkozatok válaszai a megfelelő projektrészletekkel – csak átnézem a helyszíni látogatások között.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Lakossági belsőépítész, Chicago",
+      "quote": "Az ügyfelek megkeresése napokig akadt, mert beletemettek a beszerzési e-mailekbe és a vállalkozói ütemezésbe. Most a Duet percek alatt válaszol az új leadekre az én folyamatommal és elérhetőségemmel. Ebben a negyedévben 4 további projektet foglaltam le.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Tervezőstúdió tulajdonosa, Nashville",
+      "quote": "A 12 aktív projekt e-mailjei kezelése halálos volt. A Duet mindent kategorizál – új megkereséseket, függőben lévő jóváhagyásokat, szállítói rendeléseket, vállalkozói frissítéseket –, így pontosan tudom, mire kell először figyelnem.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "Belsőépítész, San Diego",
+      "quote": "Elveszítettem potenciális ügyfeleket, mert nem tudtam elég gyorsan válaszolni a telepítési hetek alatt. A Duet megtanulta a konzultációs folyamatomat, az árstruktúrámat, még azt is, hogyan írom le a tervezési stílusomat. Az ügyfeleknek fogalmuk sincs arról, hogy mesterséges intelligencia által támogatott.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Kereskedelmi belsőépítész, Denver",
+      "quote": "A szállítói átfutási idők, a vállalkozói ütemtervek és az ügyfelek felülvizsgálati kérelmei között a beérkező levelem káosz volt. A Duet mindent rendez, és a függőben lévő jóváhagyások nyomon követését készíti el. Olyan, mintha egy projektkoordinátor lenne, aki soha nem alszik.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Töltsön napjait gyönyörű terek kialakításával,\nnincs eltemetve a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "8-10 projekttel zsonglőrködök egyszerre. A Duet egyenesen tudja tartani őket?",
+      "answer": "Igen. A Duet minden e-mail szálat nyomon követ kliensenként és projektenként. Amikor a Henderson konyháról vagy a Park Avenue irodáról kérdez, az összes kapcsolódó beszélgetésből – szállítói rendelések, vállalkozói frissítések, ügyfél jóváhagyások – kontextust von le, így válaszai mindig pontosak és projektspecifikusak. Nem szabad összekeverni, hogy melyik kliens melyik csempe volt."
+    },
+    {
+      "question": "Sok vállalkozóval és szállítóval egyeztetek. A Duet segít ebben?",
+      "answer": "Teljesen. A Duet megismeri az Ön vállalkozói kapcsolatait, szállítói képviselőit és az egyes szakmák projektekben betöltött szerepét. Amikor villanyszerelője e-mailt küld arról, hogy a nagyítás megtörtént, a Duet meg tudja vázolni a következő lépést vagy hurkot megerősítő választ a lámpatest-telepítőben. Mozgásban tartja a munkafolyamatot akkor is, ha egy másik munkahelyen tartózkodik a városban."
+    }
+  ],
+  "pricingNote": "Projektenként 10 000 dollárért egy megtakarított ügyfél évekig fizet a Duet Pro csomagért."
+}

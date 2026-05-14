@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail untuk Perhiasan Kustom |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu pembuat perhiasan khusus merespons permintaan konsultasi, persetujuan desain, dan pertanyaan garis waktu secara instan — bahkan saat berada di meja kerja.  AI -Balasan yang disusun dengan proses, harga, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 300+ desainer perhiasan",
+  "heroHeadline": "Asisten email Anda saat Anda berada di bangku cadangan",
+  "heroSubline": "Duet mempelajari proses desain, material, harga, dan jadwal Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien khusus karena respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Konsultasi cincin pertunangan khusus?",
+      "preview": "Hai! Saya dan mitra saya tertarik dengan cincin pertunangan khusus. Kami memiliki berlian pusaka keluarga yang ingin kami gunakan. Apakah Anda memiliki ketersediaan untuk konsultasi bulan ini?",
+      "pill": "Untuk Menanggapi",
+      "pillColor": "red"
+    },
+    {
+      "from": "amanda s.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Perihal: Model 3D — bisakah kita menyesuaikan pengaturannya?",
+      "preview": "Suka dengan desain keseluruhannya! Tapi bisakah kita mencoba pengaturan profil yang lebih rendah? Saya melampirkan foto gaya yang saya pikirkan. Juga, apakah peralihan ke platinum akan mengubah garis waktu...",
+      "pill": "Revisi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Pembaruan garis waktu tentang cincin kawin?",
+      "preview": "Hai! Hanya memeriksa cincin kawin kami yang cocok. Pernikahannya tanggal 18 Mei dan saya ingin memastikan kami masih berada di jalur yang benar. Bisakah Anda mengirimkan pembaruan cepat...",
+      "pill": "Status",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Simpul",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baru di etalase Anda",
+      "preview": "Baru-baru ini ada pasangan yang mengulas bisnis Anda di The Knot. Lihat apa yang mereka katakan dan tanggapi...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Rachel! Saya ingin membantu Anda mendesain cincin di sekeliling berlian keluarga Anda — itu salah satu hal favorit saya untuk dilakukan. Saya buka pada hari Selasa dan Kamis sore bulan ini. Bawalah batu dan foto inspirasi apa pun. Konsultasi berlangsung sekitar satu jam dan tidak ada kewajiban. Ingin aku meluangkan waktu untukmu?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "potongan khusus",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Satu klien yang disimpan membayar Duet selama lebih dari empat tahun."
+  },
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan konsultasi baru terlebih dahulu, persetujuan desain kedua, dan buletin vendor tidak pernah lagi. Tidak ada lagi pertanyaan senilai $5.000 yang hilang karena promo pemasok.",
+  "draftSubtitle": "Duet mempelajari proses, materi, harga, dan suara Anda. Ketika permintaan konsultasi diterima, ia akan menyusun balasan lengkap dengan ketersediaan Anda, apa yang harus dibawa, dan bagaimana proses Anda bekerja. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Di mana kita dengan cincin Amanda?\" \"Draf pembaruan garis waktu untuk James.\" Duet mengetahui setiap thread klien — tanyakan saja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Konsultasi cincin pertunangan khusus?",
+      "preview": "Saya dan mitra saya tertarik dengan cincin khusus...",
+      "pill": "Pertanyaan Baru",
+      "pillColor": "red"
+    },
+    {
+      "from": "amanda s.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Perihal: model 3D v2 — tampak sempurna!",
+      "pill": "Persetujuan Desain",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Band sudah siap — kapan kita bisa mengambilnya?",
+      "pill": "Siap untuk Dijemput",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Perihal: Konsultasi tindak lanjut — suka sketsanya",
+      "pill": "Konsultasi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Pasokan Rio Grande",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Obral musim semi — diskon 15% untuk temuan platinum",
+      "pill": "Penjual/Pemasok",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Konsultasi cincin pertunangan khusus?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Saya dan mitra saya tertarik dengan cincin pertunangan khusus. Kami memiliki berlian pusaka keluarga yang ingin kami gunakan. Apakah Anda memiliki ketersediaan untuk konsultasi bulan ini?",
+    "lines": [
+      "Hai Rachel!",
+      "Saya ingin membantu Anda merancang sesuatu yang istimewa di sekitar berlian keluarga Anda. Saya buka pada hari Selasa dan Kamis sore bulan ini.",
+      "Bawalah batu dan foto inspirasi apa pun — papan Pinterest, tangkapan layar, apa pun yang membantu. Konsultasi berlangsung sekitar satu jam dan tidak ada kewajiban.",
+      "Dari situ biasanya prosesnya: sketsa, model 3D, revisi, lalu produksi 3-4 minggu. Ingin aku meluangkan waktu untukmu?"
+    ],
+    "highlightText": "sketsa, model 3D, revisi, kemudian produksi 3-4 minggu",
+    "tooltipFeatures": [
+      "Tahu proses & garis waktu Anda",
+      "Draf dalam suara Anda",
+      "Termasuk detail konsultasi secara otomatis",
+      "Belajar seiring berjalannya waktu"
+    ]
+  },
+  "agent": {
+    "userMessage": "Dimana kita dengan cincin pertunangan Amanda?",
+    "agentResponse": "Amanda menyetujui model 3D (v2) pada 14 Februari. Anda mengonfirmasi dimulainya produksi pada 16 Februari dengan perkiraan 3 minggu. Artinya, penyelesaiannya sekitar tanggal 9 Maret. Email terakhirnya menanyakan tentang opsi pengukiran — masih belum terjawab. Ingin saya membuat draf balasan?",
+    "followUp": "Draf pembaruan garis waktu untuk James tentang cincin kawin",
+    "followUpResponse": "Selesai! Saya menyusun balasan kepada James yang mengonfirmasi bahwa cincin kawinnya yang serasi sudah dalam tahap akhir dan akan siap diambil pada hari Jumat, 7 Maret — jauh sebelum pernikahannya pada tanggal 18 Mei. Siap untuk meninjau dan mengirim."
+  },
+  "testimonialsTitle": "Dicintai oleh desainer perhiasan",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Desainer Perhiasan Khusus, LA",
+      "quote": "Setiap bagian khusus menghasilkan 10-15 email selama berminggu-minggu. Kalikan dengan 8 klien aktif dan saya tenggelam. Balasan pembaruan desain draf duet, konfirmasi konsultasi, jawaban garis waktu — semuanya ada dalam suara saya. Saya meninjau antara casting dan menekan kirim.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Tukang Emas & Pemilik Studio, Brooklyn",
+      "quote": "Saya kehilangan komisi cincin pertunangan sebesar $7.000 karena saya membutuhkan waktu 3 hari untuk merespons — pasangan tersebut mendatangi seseorang yang membalas dalam 2 jam. Sejak Duet, waktu respons saya kurang dari 30 menit. Hal itu tidak terjadi lagi.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Dani K.",
+      "title": "Toko Perhiasan Bangku, Chicago",
+      "quote": "Saya berada di bangku cadangan 8 jam sehari dengan obor di tangan saya. Saya tidak bisa berhenti menyolder untuk mengetik balasan konsultasi. Duet menyusun semuanya selagi aku bekerja — aku melirik ponselku, menyetujuinya, selesai.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Desainer Perhiasan Pengantin, Austin",
+      "quote": "Selama musim pertunangan saya mendapatkan 20+ permintaan konsultasi dalam seminggu. Duet mempelajari seluruh proses saya — materi, jadwal, tingkatan harga, apa yang harus dibawa. Ini menyusun balasan yang hampir tidak perlu saya edit. Penyelamat mutlak dari bulan November hingga Februari.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Spesialis Cincin Kustom, Portland",
+      "quote": "Email revisi 3D biasa menghabiskan malam saya. Klien mengirimkan umpan balik, saya menyusun pembaruan, bolak-balik lima kali. Sekarang Duet menangani balasan rutin dan saya hanya turun tangan untuk mengambil keputusan desain. Aku mendapatkan malamku kembali.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Habiskan hari-harimu dengan menciptakan perhiasan,\ntidak menjawab email tentang hal itu.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
+  "verticalFaqs": [
+    {
+      "question": "Bisakah Duet menangani email dengan foto referensi dan lampiran desain?",
+      "answer": "Ya. Duet melihat rangkaian email lengkap termasuk lampiran, sehingga memahami konteks saat klien mengirimkan foto inspirasi atau masukan desain. Ini tidak akan mendeskripsikan kembali gambar tersebut, namun ia mengetahui bahwa klien baru saja mengirimkan foto referensi dan membuat draf balasan yang sesuai — mengonfirmasi penerimaan, mengajukan pertanyaan klarifikasi tentang desain, atau memberikan langkah selanjutnya berdasarkan alur kerja Anda yang biasa."
+    },
+    {
+      "question": "Proyek khusus saya memiliki rangkaian email yang panjang dengan 10+ pesan. Bisakah Duet mengikuti itu?",
+      "answer": "Di situlah Duet bersinar. Ia membaca seluruh riwayat thread — catatan konsultasi, revisi desain, pilihan material, pembaruan garis waktu — sehingga setiap draf balasan memiliki konteks penuh. Saat klien bertanya 'apa status cincin saya?' di email #14, Duet mengetahui dering mana, di tahap apa, dan menyusun pembaruan yang akurat. Tidak perlu lagi membaca ulang email selama 3 bulan sendiri."
+    }
+  ],
+  "pricingNote": "Dengan harga $5.000/potong, satu komisi yang dihemat akan dibayarkan selama lebih dari empat tahun Pro."
+}

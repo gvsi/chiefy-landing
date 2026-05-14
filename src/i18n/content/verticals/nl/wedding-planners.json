@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail voor trouwplanners | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt weddingplanners direct te reageren op e-mails van klanten en leveranciers, zelfs vanuit locatiebezoeken. AI-opgestelde antwoorden met uw pakketten, leverancierscontacten en stem.",
+  "heroBadge": "Vertrouwd door meer dan 400 weddingplanners",
+  "heroHeadline": "Uw e-mailassistent terwijl u op locatie bent",
+  "heroSubline": "Duet leert uw leverancierscontacten, pakketten en klantvoorkeuren kennen en stelt vervolgens e-mailantwoorden op, zodat koppels nooit hoeven te wachten terwijl u ter plaatse aan het coördineren bent.",
+  "inboxEmails": [
+    {
+      "from": "Emily en James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Beschikbaarheid voor bruiloft op 20 september?",
+      "preview": "Hallo! We zijn net verloofd en kijken naar een bruiloft op 20 september voor ongeveer 120 gasten. Heeft u beschikbaarheid? Wat zijn jouw pakketten...",
+      "pill": "Om te reageren",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Bloemen",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson-bruiloft - mockups in het middelpunt",
+      "preview": "Hier zijn de drie belangrijkste opties die we hebben besproken. De tuinrozen zijn prachtig binnengekomen. Laat me weten welke richting het stel op wil...",
+      "pill": "Verkoper",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Maak je druk over het zitschema",
+      "preview": "Ik weet dat we de grafiek vorige week hebben afgerond, maar mijn moeder heeft zojuist vier extra mensen geantwoord en ik heb geen idee waar ik ze moet plaatsen. Kunnen we wat tafels verplaatsen...",
+      "pill": "Klant",
+      "pillColor": "blue"
+    },
+    {
+      "from": "De Knoop",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nieuwe aanvraag uit uw vermelding",
+      "preview": "Een echtpaar heeft meer informatie opgevraagd over uw diensten. Bekijk details en reageer...",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hallo Emily en James – gefeliciteerd met jullie verloving! 20 september is beschikbaar en 120 gasten is een perfecte maat. Ik bied volledige planning, deelplanning en dagcoördinatiepakketten aan. Ik wil graag een gratis adviesgesprek plannen om uw visie te leren kennen. Ben jij deze week vrij voor een kort belletje?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "bruiloft",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Eén opgeslagen klant betaalt voor meer dan 20 jaar Duet."
+  },
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst nieuwe vragen van koppels ziet, daarna bevestigingen van leveranciers en nooit meer nieuws over nieuwsbrieven. Mis geen boekingsverzoek meer dat verborgen is onder Knot-waarschuwingen.",
+  "draftSubtitle": "Duet leert uw pakketten, voorkeursleveranciers en toon kennen. Wanneer een echtpaar navraag doet, wordt er een warm, volledig antwoord opgesteld met uw beschikbaarheid en de volgende stappen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "'Welke e-mails van leveranciers zijn binnengekomen voor de bruiloft van Thompson?' \"Stel een tijdlijnupdate op voor alle leveranciers voor zaterdag.\"Duet kent uw inbox en klanten - vraag het maar.",
+  "categorizationEmails": [
+    {
+      "from": "Emily en James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Beschikbaarheid voor bruiloft op 20 september?",
+      "preview": "We zijn net verloofd en kijken uit naar 20 september...",
+      "pill": "Reageer nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Bloemen",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson-bruiloft - mockups in het middelpunt",
+      "pill": "Verkoper",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Zitplaatsenschema - definitieve versie bijgevoegd",
+      "pill": "Klant",
+      "pillColor": "blue"
+    },
+    {
+      "from": "De Knoop",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nieuwe aanvraag uit uw vermelding",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Geslagen",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Deze week 20% korting op Save The Dates",
+      "pill": "Promoties",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Beschikbaarheid voor bruiloft op 20 september?",
+    "originalFrom": "Emily & James W. schreven:",
+    "originalText": "Hallo! We zijn net verloofd en kijken naar een bruiloft op 20 september voor ongeveer 120 gasten. Heeft u beschikbaarheid? Wat zijn uw pakketten en prijzen?",
+    "lines": [
+      "Hoi Emily en James – gefeliciteerd!",
+      "20 september is beschikbaar en 120 gasten is een prachtig formaat. Ik bied volledige planning, gedeeltelijke planning en dagcoördinatiepakketten aan vanaf $ 3.500.",
+      "Ik maak graag een gratis adviesgesprek om uw visie te horen en u te laten zien welk pakket het beste past.",
+      "Ben je deze week vrij om te bellen?"
+    ],
+    "highlightText": "20 september is beschikbaar en 120 gasten is een prachtig formaat",
+    "tooltipFeatures": [
+      "Kent uw pakketten en beschikbaarheid",
+      "Tochten in je stem",
+      "Inclusief overleg over de volgende stappen",
+      "Leert de voorkeuren van uw klanten"
+    ]
+  },
+  "agent": {
+    "userMessage": "Welke e-mails van leveranciers kwamen deze week binnen voor de bruiloft van Thompson?",
+    "agentResponse": "Je hebt deze week vier e-mails van leveranciers ontvangen voor de bruiloft van Thompson: Bella Rosa Florals stuurde mockups voor het middelpunt (in afwachting van de keuze van het stel), Lakeside Venue bevestigde de ceremonierepetitie voor vrijdag om 16.00 uur, DJ Marco stuurde de bijgewerkte lijst met nummers en Sweet Layers Bakery heeft uiterlijk woensdag de laatste taartsmaak nodig. Wil je dat ik antwoorden op een van deze opstel?",
+    "followUp": "Stel een antwoord op aan Bella Rosa met de keuze van het stel: optie B, de tuinrozen",
+    "followUpResponse": "Klaar! Ik heb een antwoord opgesteld aan Bella Rosa Florals waarin ik optie B bevestigde: de tuinrozen als middelpunt van de bruiloft in Thompson. Het bevat een opmerking om door te gaan met de volledige bestelling voor 14 tafels. Klaar om te beoordelen en te verzenden."
+  },
+  "testimonialsTitle": "Geliefd bij weddingplanners",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Boetiek Wedding Planner, CO",
+      "quote": "Ik ben de helft van mijn week op berglocaties zonder mobiel bereik. Ondertussen e-mailen koppels mij over tijdlijnen en vragen van leveranciers. Duet stelt antwoorden op met mijn exacte pakketten en toon - ik bekijk ze als ik weer binnen bereik ben.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michaël T.",
+      "title": "Full-service weddingplanner, CA",
+      "quote": "Het coördineren van meer dan 10 leveranciers per bruiloft betekent dat mijn inbox tijdens het hoogseizoen een oorlogsgebied is. Duet categoriseert e-mails van leveranciers afzonderlijk van e-mails van klanten en concepten die ik zelf zou hebben geschreven. Ik slaap nu eigenlijk.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sara L.",
+      "title": "Dagcoördinator, TX",
+      "quote": "Op trouwdagen ben ik 14 uur aaneengesloten niet beschikbaar. Nieuwe vragen bleven tot maandag onbeantwoord. Nu handelt Duet ze direct af en ik heb dit kwartaal drie extra bruiloften geboekt, alleen al vanwege de snellere reactietijden.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Destination Wedding Planner, HI",
+      "quote": "Mijn stellen komen van over de hele wereld en e-mailen op alle uren. Duet heb mijn antwoorden op veelgestelde vragen geleerd - logistiek van de locatie, lokale verkopers, wat u kunt verwachten - en concepten van antwoorden opgesteld die precies op mij lijken. Klanten hebben geen idee.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Bruiloft- en evenementenplanner, NY",
+      "quote": "Ik besteedde elke avond twee uur aan het beantwoorden van dezelfde pakket- en beschikbaarheidsvragen. Duet regelt de repetitieve dingen, zodat ik me kan concentreren op het creatieve werk waar ik echt van houd. Het betaalde zichzelf in de eerste week terug.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Wees aanwezig bij de ceremonie,\nniet begraven in uw inbox.",
+  "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
+  "verticalFaqs": [
+    {
+      "question": "Werkt Duet met alle e-mails voor leverancierscoördinatie?",
+      "answer": "Ja. Duet leert uw leverancierscontacten, favoriete leveranciers en hoe u met elke leverancier communiceert. Het categoriseert e-mails van leveranciers per bruiloft en stelt antwoorden op met de juiste details: bevestigingen, follow-ups, tijdlijnupdates. Je beoordeelt en verzendt. Het behandelt bloemisten, cateraars, locaties, DJ's, fotografen en alle andere leveranciers in uw rolodex."
+    },
+    {
+      "question": "Ik ben de hele dag aanwezig op bruiloften en locaties. Mis ik nieuwe aanvragen?",
+      "answer": "Dat is precies wat Duet oplost. Wanneer een paar e-mails vragen naar beschikbaarheid of pakketten terwijl u ter plaatse coördineert, stelt Duet een warm, professioneel antwoord op met uw echte beschikbaarheid en de volgende stappen. U kunt uw berichten bekijken en verzenden wanneer u maar wilt, zelfs vanaf uw telefoon tussen afspraken door. De meeste planners vertellen ons dat het hen tijdens het hoogseizoen 1 tot 2 uur e-mailtijd per dag bespaart."
+    }
+  ],
+  "pricingNote": "Bij $ 8.000 per bruiloft betaalt één opgeslagen klant voor meer dan 20 jaar Pro."
+}

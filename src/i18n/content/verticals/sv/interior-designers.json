@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail för inredningsarkitekter | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper inredningsarkitekter att hantera e-postmeddelanden från kunder, samordning av entreprenörer och leverantörsbeställningar – även från arbetsplatsen. AI-utkastade svar med dina projektdetaljer, preferenser och röst.",
+  "heroBadge": "Betrodd av 400+ inredningsarkitekter",
+  "heroHeadline": "Din e-postassistent när du är på plats med kunder",
+  "heroSubline": "Duet lär sig dina leverantörskontakter, projektdetaljer och klientpreferenser – förbereder sedan e-postsvar så att du aldrig förlorar en klient till ett långsamt svar.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Köksrenovering — första konsultation?",
+      "preview": "Hej! Vi har precis köpt ett hem i Westlake och vill göra om köket helt. Tar du dig an nya projekt? Hur ser din process ut?",
+      "pill": "Att svara",
+      "pillColor": "red"
+    },
+    {
+      "from": "Tonys kakel och sten",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Re: Uppdatering av ledtid för backsplash-brickor",
+      "preview": "Hörde precis tillbaka från lagret - Calacatta hex-bricka är restbeställd 3 veckor. Vill att jag håller din beställning eller tittar på alternativ...",
+      "pill": "Säljarorder",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — Elektriker",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Kabeldragning klar — redo för fixturinstallation",
+      "preview": "Alla grova kablar är klara i sovrummet och vardagsrummet. Vi är tydliga med lampetten och ljuskronan närhelst din...",
+      "pill": "Entreprenör",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen och Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Tankar om tygproverna?",
+      "preview": "Vi tittade på de tre tygalternativen du lämnade och vi lutar oss mot linnet i 'Havregryn' men vill se det mot väggens färg...",
+      "pill": "Kundgodkännande",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Rachel! Jag skulle gärna vilja höra mer om ditt Westlake-kök. Jag bokar just nu konsultationer för nästa månad. Min process börjar med ett hembesök där vi går igenom din vision, budget och tidslinje – sedan sätter jag ihop ett designkoncept med materialval. Vill du boka en tid för att träffas hemma?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "En sparad klient betalar för år av Duet."
+  },
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser nya kundförfrågningar först, väntar på godkännanden därefter, och leverantörens nyhetsbrev aldrig. Missa inte längre en designkonsultation begravd under mässkampanjer.",
+  "draftSubtitle": "Duet lär sig din process, projektdetaljer och ton. När en ny förfrågan eller kundfråga träffar, utarbetar den ett komplett svar med din tillgänglighet, nästa steg och projektspecifikationer. Du granskar och skickar.",
+  "agentSubtitle": "\"Vad är status på Henderson-projektet?\" \"Vilka godkännanden väntar fortfarande?\"Duet känner till din inkorg och varje projekttråd — fråga bara.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Köksrenovering — första konsultation?",
+      "preview": "Vi har precis köpt ett hus och vill göra om köket...",
+      "pill": "Ny förfrågan",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Re: Tygprover — med havregrynslinne",
+      "pill": "Kundgodkännande",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mark L.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Kabeldragning klar — redo för fixturinstallation",
+      "pill": "Entreprenör",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Tonys kakel och sten",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Beställning #4821 skickas — leverans torsdag",
+      "pill": "Säljarorder",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Design inom räckhåll",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Handelsprogram — vårens besparingsevenemang",
+      "pill": "Kampanjer",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Köksrenovering — första konsultation?",
+    "originalFrom": "Rachel T skrev:",
+    "originalText": "Hej! Vi har precis köpt ett hem i Westlake och vill göra om köket helt. Tar du dig an nya projekt? Hur ser din process ut?",
+    "lines": [
+      "Hej Rachel!",
+      "Grattis till det nya hemmet! Jag hjälper gärna till med ditt kök. Jag bokar just nu konsultationer för nästa månad.",
+      "Min process börjar med ett hembesök för att gå igenom din vision, budget och tidslinje. Därifrån satte jag ihop ett designkoncept med materialval och ett detaljerat förslag.",
+      "Vill du boka en tid för att träffas hemma?"
+    ],
+    "highlightText": "Jag bokar just nu konsultationer för nästa månad.",
+    "tooltipFeatures": [
+      "Känner till din process och tillgänglighet",
+      "Utkast i din röst",
+      "Inkluderar nästa steg automatiskt",
+      "Lär sig med tiden"
+    ]
+  },
+  "agent": {
+    "userMessage": "Vilka godkännanden väntar fortfarande på Henderson-projektet?",
+    "agentResponse": "Baserat på dina e-posttrådar med Hendersons, väntar två föremål fortfarande på godkännande: huvudbadets fåfänga (du skickade alternativen för Restoration Hardware i tisdags) och vardagsrumsdraperityget (prover levererades förra veckan). Karen frågade också om färgglans för matsalen men har inte svarat på din rekommendation än. Vill du att jag ska göra en uppföljning?",
+    "followUp": "Skriv en försiktig uppföljning till Karen om valen av fåfänga och tyg",
+    "followUpResponse": "Klart! Jag utarbetade en uppföljning till Karen som checkade in på valen av fåfänga och draperier, och nämnde att fåfänga har 6 veckors ledtid så ett beslut snart skulle hålla projektet enligt schemat. Klar att granska och skicka."
+  },
+  "testimonialsTitle": "Älskad av inredningsarkitekter",
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "title": "Huvuddesigner, Austin TX",
+      "quote": "Jag är på plats 6 timmar om dagen och koordinerar målare, elektriker och kakelinstallatörer. Under tiden mailar tre andra kunder om sina projekt. Duet utkast till svar med rätt projektdetaljer — jag granskar bara mellan besöken på webbplatsen.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Bostadsinredningsarkitekt, Chicago",
+      "quote": "Kundförfrågningar brukade sitta i flera dagar eftersom jag var begravd i upphandlingsmail och entreprenörsschemaläggning. Nu svarar Duet på nya leads på några minuter med min process och tillgänglighet. Jag har bokat 4 extra projekt detta kvartal.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Designstudioägare, Nashville",
+      "quote": "Att hantera e-postmeddelanden för 12 aktiva projekt dödade mig. Duet kategoriserar allt - nya förfrågningar, väntande godkännanden, leverantörsbeställningar, leverantörsuppdateringar - så jag vet exakt vad som behöver min uppmärksamhet först.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "Inredningsarkitekt, San Diego",
+      "quote": "Jag förlorade potentiella kunder eftersom jag inte kunde svara tillräckligt snabbt under installationsveckorna. Duet lärde mig min konsultationsprocess, prisstruktur, till och med hur jag beskriver min designstil. Kunder har ingen aning om att det är AI-assisterat.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Kommersiell inredningsarkitekt, Denver",
+      "quote": "Mellan leverantörens ledtider, entreprenörsscheman och begäranden om revision av kunder var min inkorg kaos. Duet sorterar allt och gör utkast till uppföljningar på väntande godkännanden. Det är som att ha en projektkoordinator som aldrig sover.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tillbringa dina dagar med att skapa vackra utrymmen,\ninte begravd i din inkorg.",
+  "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
+  "verticalFaqs": [
+    {
+      "question": "Jag jonglerar med 8-10 projekt samtidigt. Kan Duet hålla dem raka?",
+      "answer": "Ja. Duet spårar varje e-posttråd per klient och projekt. När du frågar om Henderson-köket eller Park Avenue-kontoret hämtar det sammanhang från alla relaterade konversationer – leverantörsbeställningar, entreprenörsuppdateringar, kundgodkännanden – så att dina svar alltid är korrekta och projektspecifika. Ingen att blanda ihop vilken bricka som var för vilken klient."
+    },
+    {
+      "question": "Jag samordnar med många entreprenörer och leverantörer. Hjälper Duet med det?",
+      "answer": "Absolut. Duet lär sig dina entreprenörskontakter, leverantörsrepresentanter och sammanhanget för varje branschs roll i dina projekt. När din elektriker mejlar att grovinmatningen är klar kan Duet skriva ett svar som bekräftar nästa steg eller loop i fixturinstallationsprogrammet. Det håller arbetsflödet i rörelse även när du är på andra sidan stan på en annan arbetsplats."
+    }
+  ],
+  "pricingNote": "För $10 000/projekt betalar en sparad klient för år av Duet Pro."
+}

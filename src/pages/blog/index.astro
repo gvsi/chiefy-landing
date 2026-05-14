@@ -1,35 +1,63 @@
 ---
-import { getCollection } from "astro:content"
 import BaseLayout from "../../layouts/BaseLayout.astro"
+import "../../styles/blog-index.css"
 import Nav from "../../components/nav/Nav.astro"
 import Footer from "../../components/sections/Footer.astro"
-import { calculateReadingTime, formatReadingTime } from "../../utils/readingTime"
+import { calculateReadingTimeForLocale, formatDate, formatReadingTimeForLocale } from "../../utils/readingTime"
+import { DEFAULT_LOCALE } from "../../i18n/locales"
+import { localizedPath } from "../../i18n/routing"
+import { getAllBlogPosts, getAlternateLinksForRoute, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content"
+import { getMessages, t } from "../../i18n/messages/schema"
+import { jsonLdScript } from "../../i18n/jsonLd"
 
-const posts = await getCollection("blog", ({ data }) => !data.draft)
-const sortedPosts = posts.sort(
-    (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
-)
+const locale = DEFAULT_LOCALE
+const messages = getMessages(locale)
+const posts = await getAllBlogPosts(locale)
 
 // Calculate reading times
 const postsWithReadingTime = await Promise.all(
-    sortedPosts.map(async (post) => {
-        const readingTime = calculateReadingTime(post.body || "")
-        return { ...post, readingTime }
+    posts.map(async (post) => {
+        const readingTime = calculateReadingTimeForLocale(post.body || "", locale)
+        return { ...post, readingTime, routeSlug: post.slug }
     })
 )
 
-const title = "Blog | Duet Mail"
-const description =
-    "Insights on email productivity, AI assistants, and making the most of your inbox. Tips, guides, and updates from the Duet Mail team."
-
-// Format date in editorial style
-function formatDate(date: Date): string {
-    return date.toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "long",
-        day: "numeric",
-    })
-}
+const title = t(messages, "blog.pages.index.title")
+const description = t(messages, "blog.pages.index.description")
+const canonicalPath = localizedPath(locale, { kind: "blogIndex" })
+const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
+const alternates = await getAlternateLinksForRoute(Astro.site, { kind: "blogIndex" })
+const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "blogIndex", locale }))
+const homeUrl = new URL(localizedPath(locale, { kind: "home" }), Astro.site).toString()
+const extraHeadHtml = [
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        inLanguage: locale,
+        name: title,
+        description,
+        url: canonicalUrl,
+    }),
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        inLanguage: locale,
+        itemListElement: [
+            {
+                "@type": "ListItem",
+                position: 1,
+                name: t(messages, "legalNav.home"),
+                item: homeUrl,
+            },
+            {
+                "@type": "ListItem",
+                position: 2,
+                name: t(messages, "nav.blog"),
+                item: canonicalUrl,
+            },
+        ],
+    }),
+].join("\n")
 
 // Get issue number based on post index (oldest = #1)
 function getIssueNumber(index: number, total: number): string {
@@ -40,17 +68,21 @@ function getIssueNumber(index: number, total: number): string {
 <BaseLayout
     title={title}
     description={description}
-    canonicalPath="/blog"
+    canonicalPath={canonicalPath}
     ogImagePath="/og.jpg"
+    locale={locale}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
+    extraHeadHtml={extraHeadHtml}
 >
-    <Nav />
+    <Nav locale={locale} messages={messages} alternates={alternates} />
     <main class="blog-index">
         <header class="blog-header">
             <div class="blog-header-inner">
-                <p class="blog-header-label">The Journal</p>
-                <h1 class="blog-header-title">Insights</h1>
+                <p class="blog-header-label">{t(messages, "blog.index.eyebrow")}</p>
+                <h1 class="blog-header-title">{t(messages, "blog.index.title")}</h1>
                 <p class="blog-header-description">
-                    Perspectives on email productivity, AI, and the future of work.
+                    {t(messages, "blog.index.description")}
                 </p>
             </div>
             <div class="blog-header-divider">
@@ -64,7 +96,7 @@ function getIssueNumber(index: number, total: number): string {
             postsWithReadingTime.length === 0 ? (
                 <div class="blog-empty">
                     <p class="blog-empty-text">
-                        No articles yet. Check back soon.
+                        {t(messages, "blog.index.empty")}
                     </p>
                 </div>
             ) : (
@@ -74,16 +106,16 @@ function getIssueNumber(index: number, total: number): string {
                         <section class="blog-featured">
                             <article class="blog-featured-article">
                                 <a
-                                    href={`/blog/${postsWithReadingTime[0].id}`}
+                                    href={localizedPath(locale, { kind: "blogPost", slug: postsWithReadingTime[0].routeSlug })}
                                     class="blog-featured-link"
                                 >
-                                    {postsWithReadingTime[0].data.coverImage && (
+                                    {postsWithReadingTime[0].entry.data.coverImage && (
                                         <figure class="blog-featured-image-wrapper">
                                             <img
-                                                src={postsWithReadingTime[0].data.coverImage}
+                                                src={postsWithReadingTime[0].entry.data.coverImage}
                                                 alt={
-                                                    postsWithReadingTime[0].data.coverImageAlt ||
-                                                    postsWithReadingTime[0].data.title
+                                                    postsWithReadingTime[0].entry.data.coverImageAlt ||
+                                                    postsWithReadingTime[0].entry.data.title
                                                 }
                                                 class="blog-featured-image"
                                                 loading="eager"
@@ -94,25 +126,25 @@ function getIssueNumber(index: number, total: number): string {
                                     <div class="blog-featured-content">
                                         <div class="blog-featured-meta">
                                             <span class="blog-featured-issue">
-                                                No. {getIssueNumber(0, postsWithReadingTime.length)}
+                                                {t(messages, "blog.index.issue", { issue: getIssueNumber(0, postsWithReadingTime.length) })}
                                             </span>
                                             <span class="blog-meta-separator" aria-hidden="true" />
-                                            <time datetime={postsWithReadingTime[0].data.publishedAt.toISOString()}>
-                                                {formatDate(postsWithReadingTime[0].data.publishedAt)}
+                                            <time datetime={postsWithReadingTime[0].entry.data.publishedAt.toISOString()}>
+                                                {formatDate(postsWithReadingTime[0].entry.data.publishedAt, locale)}
                                             </time>
                                         </div>
                                         <h2 class="blog-featured-title">
-                                            {postsWithReadingTime[0].data.title}
+                                            {postsWithReadingTime[0].entry.data.title}
                                         </h2>
                                         <p class="blog-featured-excerpt">
-                                            {postsWithReadingTime[0].data.description}
+                                            {postsWithReadingTime[0].entry.data.description}
                                         </p>
                                         <div class="blog-featured-footer">
                                             <span class="blog-reading-time">
-                                                {formatReadingTime(postsWithReadingTime[0].readingTime)}
+                                                {formatReadingTimeForLocale(postsWithReadingTime[0].readingTime, locale, messages)}
                                             </span>
                                             <span class="blog-read-more">
-                                                Read article
+                                                {t(messages, "blog.readArticle")}
                                                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
                                                     <path d="M3 7h8M8 4l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                                 </svg>
@@ -128,18 +160,18 @@ function getIssueNumber(index: number, total: number): string {
                     {postsWithReadingTime.length > 1 && (
                         <section class="blog-grid-section">
                             <div class="blog-grid-header">
-                                <h2 class="blog-grid-title">Recent Articles</h2>
-                                <span class="blog-grid-count">{postsWithReadingTime.length - 1} articles</span>
+                                <h2 class="blog-grid-title">{t(messages, "blog.recentArticles")}</h2>
+                                <span class="blog-grid-count">{t(messages, "blog.index.count", { count: postsWithReadingTime.length - 1 })}</span>
                             </div>
                             <div class="blog-grid">
                                 {postsWithReadingTime.slice(1).map((post, index) => (
                                     <article class="blog-card">
-                                        <a href={`/blog/${post.id}`} class="blog-card-link">
-                                            {post.data.coverImage && (
+                                        <a href={localizedPath(locale, { kind: "blogPost", slug: post.routeSlug })} class="blog-card-link">
+                                            {post.entry.data.coverImage && (
                                                 <figure class="blog-card-image-wrapper">
                                                     <img
-                                                        src={post.data.coverImage}
-                                                        alt={post.data.coverImageAlt || post.data.title}
+                                                        src={post.entry.data.coverImage}
+                                                        alt={post.entry.data.coverImageAlt || post.entry.data.title}
                                                         class="blog-card-image"
                                                         loading="lazy"
                                                         decoding="async"
@@ -149,18 +181,18 @@ function getIssueNumber(index: number, total: number): string {
                                             <div class="blog-card-content">
                                                 <div class="blog-card-meta">
                                                     <span class="blog-card-issue">
-                                                        No. {getIssueNumber(index + 1, postsWithReadingTime.length)}
+                                                        {t(messages, "blog.index.issue", { issue: getIssueNumber(index + 1, postsWithReadingTime.length) })}
                                                     </span>
                                                     <span class="blog-meta-separator" aria-hidden="true" />
-                                                    <time datetime={post.data.publishedAt.toISOString()}>
-                                                        {formatDate(post.data.publishedAt)}
+                                                    <time datetime={post.entry.data.publishedAt.toISOString()}>
+                                                        {formatDate(post.entry.data.publishedAt, locale)}
                                                     </time>
                                                 </div>
-                                                <h3 class="blog-card-title">{post.data.title}</h3>
-                                                <p class="blog-card-excerpt">{post.data.description}</p>
+                                                <h3 class="blog-card-title">{post.entry.data.title}</h3>
+                                                <p class="blog-card-excerpt">{post.entry.data.description}</p>
                                                 <div class="blog-card-footer">
                                                     <span class="blog-reading-time">
-                                                        {formatReadingTime(post.readingTime)}
+                                                        {formatReadingTimeForLocale(post.readingTime, locale, messages)}
                                                     </span>
                                                 </div>
                                             </div>
@@ -174,410 +206,5 @@ function getIssueNumber(index: number, total: number): string {
             )
         }
     </main>
-    <Footer />
+    <Footer locale={locale} messages={messages} />
 </BaseLayout>
-
-<style>
-    .blog-index {
-        min-height: 100vh;
-        padding-top: 100px;
-        padding-bottom: 120px;
-    }
-
-    /* Header - Editorial masthead style */
-    .blog-header {
-        max-width: 800px;
-        margin: 0 auto 72px;
-        padding: 0 24px;
-        text-align: center;
-    }
-
-    @media (min-width: 768px) {
-        .blog-header {
-            padding: 0 40px;
-            margin-bottom: 96px;
-        }
-    }
-
-    .blog-header-inner {
-        margin-bottom: 40px;
-    }
-
-    .blog-header-label {
-        font-size: 11px;
-        font-weight: 600;
-        letter-spacing: 0.12em;
-        text-transform: uppercase;
-        color: var(--duet-muted);
-        margin: 0 0 16px;
-    }
-
-    .blog-header-title {
-        font-family: var(--font-serif);
-        font-size: 56px;
-        font-weight: 500;
-        letter-spacing: -0.035em;
-        line-height: 1.05;
-        color: var(--prose-heading);
-        margin: 0 0 20px;
-    }
-
-    @media (max-width: 639px) {
-        .blog-header-title {
-            font-size: 40px;
-        }
-    }
-
-    .blog-header-description {
-        font-size: 18px;
-        line-height: 1.6;
-        color: var(--prose-text);
-        margin: 0 auto;
-        max-width: 420px;
-        text-wrap: balance;
-    }
-
-    /* Decorative divider */
-    .blog-header-divider {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 16px;
-        margin-top: 48px;
-    }
-
-    .blog-header-divider-line {
-        width: 80px;
-        height: 1px;
-        background: var(--duet-border-editorial);
-    }
-
-    .blog-header-divider-ornament {
-        width: 6px;
-        height: 6px;
-        background: var(--duet-muted);
-        border-radius: 50%;
-        opacity: 0.4;
-    }
-
-    /* Featured Article */
-    .blog-featured {
-        max-width: 1080px;
-        margin: 0 auto 80px;
-        padding: 0 24px;
-    }
-
-    @media (min-width: 768px) {
-        .blog-featured {
-            padding: 0 40px;
-            margin-bottom: 100px;
-        }
-    }
-
-    .blog-featured-article {
-        position: relative;
-    }
-
-    .blog-featured-link {
-        display: grid;
-        gap: 32px;
-        text-decoration: none;
-        color: inherit;
-    }
-
-    @media (min-width: 768px) {
-        .blog-featured-link {
-            grid-template-columns: 1.3fr 1fr;
-            gap: 48px;
-            align-items: center;
-        }
-    }
-
-    .blog-featured-image-wrapper {
-        position: relative;
-        margin: 0;
-        padding: 0;
-        border-radius: 12px;
-        overflow: hidden;
-        background: var(--duet-border);
-        aspect-ratio: 16 / 10;
-    }
-
-    .blog-featured-image {
-        display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
-    }
-
-    .blog-featured-link:hover .blog-featured-image {
-        transform: scale(1.03);
-    }
-
-    .blog-featured-content {
-        display: flex;
-        flex-direction: column;
-        gap: 16px;
-    }
-
-    @media (min-width: 768px) {
-        .blog-featured-content {
-            gap: 20px;
-            padding: 8px 0;
-        }
-    }
-
-    .blog-featured-meta {
-        display: flex;
-        align-items: center;
-        gap: 12px;
-        font-size: 12px;
-        color: var(--duet-muted);
-    }
-
-    .blog-featured-issue {
-        font-weight: 600;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-    }
-
-    .blog-meta-separator {
-        width: 3px;
-        height: 3px;
-        background: var(--duet-muted);
-        border-radius: 50%;
-        opacity: 0.5;
-    }
-
-    .blog-featured-title {
-        font-family: var(--font-serif);
-        font-size: 32px;
-        font-weight: 500;
-        line-height: 1.25;
-        letter-spacing: -0.025em;
-        color: var(--prose-heading);
-        margin: 0;
-        text-wrap: balance;
-        transition: color 0.25s ease;
-    }
-
-    @media (min-width: 768px) {
-        .blog-featured-title {
-            font-size: 36px;
-        }
-    }
-
-    .blog-featured-link:hover .blog-featured-title {
-        color: var(--prose-link);
-    }
-
-    .blog-featured-excerpt {
-        font-size: 16px;
-        line-height: 1.65;
-        color: var(--prose-text);
-        margin: 0;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-    }
-
-    @media (min-width: 768px) {
-        .blog-featured-excerpt {
-            font-size: 17px;
-            -webkit-line-clamp: 4;
-        }
-    }
-
-    .blog-featured-footer {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 16px;
-        margin-top: 8px;
-    }
-
-    .blog-reading-time {
-        font-size: 13px;
-        font-weight: 500;
-        color: var(--duet-muted);
-        letter-spacing: 0.01em;
-    }
-
-    .blog-read-more {
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        font-size: 14px;
-        font-weight: 600;
-        color: var(--prose-link);
-        transition: gap 0.2s ease;
-    }
-
-    .blog-featured-link:hover .blog-read-more {
-        gap: 10px;
-    }
-
-    /* Grid Section */
-    .blog-grid-section {
-        max-width: 1080px;
-        margin: 0 auto;
-        padding: 0 24px;
-    }
-
-    @media (min-width: 768px) {
-        .blog-grid-section {
-            padding: 0 40px;
-        }
-    }
-
-    .blog-grid-header {
-        display: flex;
-        align-items: baseline;
-        justify-content: space-between;
-        gap: 16px;
-        margin-bottom: 40px;
-        padding-bottom: 16px;
-        border-bottom: 1px solid var(--duet-border-editorial);
-    }
-
-    .blog-grid-title {
-        font-family: var(--font-serif);
-        font-size: 20px;
-        font-weight: 500;
-        letter-spacing: -0.015em;
-        color: var(--prose-heading);
-        margin: 0;
-    }
-
-    .blog-grid-count {
-        font-size: 13px;
-        color: var(--duet-muted);
-    }
-
-    /* Article Grid */
-    .blog-grid {
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 48px;
-    }
-
-    @media (min-width: 640px) {
-        .blog-grid {
-            grid-template-columns: repeat(2, 1fr);
-            gap: 40px 32px;
-        }
-    }
-
-    @media (min-width: 1024px) {
-        .blog-grid {
-            grid-template-columns: repeat(3, 1fr);
-            gap: 48px 36px;
-        }
-    }
-
-    /* Card */
-    .blog-card {
-        position: relative;
-    }
-
-    .blog-card-link {
-        display: flex;
-        flex-direction: column;
-        gap: 16px;
-        text-decoration: none;
-        color: inherit;
-    }
-
-    .blog-card-link:hover .blog-card-title {
-        color: var(--prose-link);
-    }
-
-    .blog-card-link:hover .blog-card-image {
-        transform: scale(1.03);
-    }
-
-    /* Card Image */
-    .blog-card-image-wrapper {
-        position: relative;
-        margin: 0;
-        padding: 0;
-        border-radius: 10px;
-        overflow: hidden;
-        background: var(--duet-border);
-        aspect-ratio: 16 / 10;
-    }
-
-    .blog-card-image {
-        display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
-    }
-
-    /* Card Content */
-    .blog-card-content {
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-    }
-
-    .blog-card-meta {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        font-size: 11px;
-        color: var(--duet-muted);
-    }
-
-    .blog-card-issue {
-        font-weight: 600;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-    }
-
-    /* Title */
-    .blog-card-title {
-        font-family: var(--font-serif);
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.35;
-        letter-spacing: -0.015em;
-        color: var(--prose-heading);
-        margin: 0;
-        transition: color 0.2s ease;
-        text-wrap: balance;
-    }
-
-    /* Excerpt */
-    .blog-card-excerpt {
-        font-size: 14px;
-        line-height: 1.6;
-        color: var(--prose-text);
-        margin: 0;
-        display: -webkit-box;
-        -webkit-line-clamp: 2;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-    }
-
-    .blog-card-footer {
-        margin-top: 4px;
-    }
-
-    /* Empty State */
-    .blog-empty {
-        max-width: 1080px;
-        margin: 0 auto;
-        padding: 80px 24px;
-        text-align: center;
-    }
-
-    .blog-empty-text {
-        font-size: 16px;
-        color: var(--duet-muted);
-        margin: 0;
-    }
-</style>

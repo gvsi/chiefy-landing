@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail kutyaszán túrákhoz | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a zsúrolóknak azonnal válaszolni a foglalási e-mailekre – akár a nyomvonalról is. A mesterséges intelligencia által összeállított válaszok a túratípusokkal, árakkal, irányelvekkel és hanggal.",
+  "heroBadge": "Több mint 200 musher megbízható",
+  "heroHeadline": "Az e-mail asszisztens, amíg úton van",
+  "heroSubline": "A Duet megtanulja a túratípusokat, az árakat, az időjárási szabályzatokat és a kiegészítőket – majd e-mail-válaszokat készít, így Ön soha nem veszít el egy foglalást a lassú válasz miatt.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + kutyaszán kombó 4 személyre?",
+      "preview": "Szia! A 4 tagú családom januárban látogat Fairbanksbe. Kombinált csomagot kínálsz kutyaszánozással és aurora-nézéssel? mi az ára?",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Mit vegyünk fel?",
+      "preview": "A szombati 2 órás kásás élményre lefoglaltuk. Mit vegyünk fel? Felszerelést biztosítunk, vagy hozzunk magunkkal...",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim és Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "5 és 8 éves gyerekek – tudnak pépesíteni?",
+      "preview": "Elhozzuk a két gyerekünket (5 és 8 évesek). Beülhetnek a szánkóba, vagy valóban segíthetnek a pépben? A kutyák is jól kijönnek a kisgyerekekkel...",
+      "pill": "Foglalás",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Új vélemény az adatlapodról",
+      "preview": "Egy utazó nemrégiben véleményezte vállalkozását. Nézd meg, mit mondtak, és válaszolj...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Szia Rachel! Szívesen látjuk vendégül családját. Az Aurora + Mush Combónk ára 175 USD/fő – 1,5 órás szánkózást kap az ösvényeken alkonyatkor, majd forró kakaót a tűz mellett, amíg a lámpákra várunk. Minden hideg időjárási felszerelés biztosított. 12 éves és fiatalabb gyerekek 125 dollárba kerülnek. Akarod, hogy lefoglaljalak januárra?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "kirándulás",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Két megtakarított foglalás egy év Duetért fizet."
+  },
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kéréseket látja, a kérdéseket csak utána, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá rejtett körútkérdés.",
+  "draftSubtitle": "A Duet megtanulja a turné típusait, árait és hangnemét. Amikor egy foglalási lekérdezés érkezik, teljes választ készít a csomag részleteiről, a viseletről és a kiegészítőkről. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Vannak foglalások erre a hétvégére? \"Választervezet az aurora kombóról.\" A Duet ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + kutyaszán kombó 4 személyre?",
+      "preview": "A 4 tagú családom januárban látogat Fairbanksbe...",
+      "pill": "Válaszoljon most",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Foglalás megerősítve – szombat 13:00",
+      "pill": "Lefoglalt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "A gyerekeink (5 és 8) lovagolhatnak?",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Utazó",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Az Ön heti foglalási összefoglalója",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Téli akció – 30% kedvezménnyel a hevederek",
+      "pill": "Promozgások",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Aurora + kutyaszán kombó 4 személyre?",
+    "originalFrom": "Rachel T. írta:",
+    "originalText": "Szia! A 4 tagú családom januárban látogat Fairbanksbe. Kombinált csomagot kínálsz kutyaszánozással és aurora-nézéssel? mi az ára?",
+    "lines": [
+      "Szia Rachel!",
+      "Az Aurora + Mush Combo ára 175 USD/fő – 1,5 órás szánkózás alkonyatkor, majd forró kakaó és aurora-nézés a tűz mellett. 12 éves és fiatalabb gyerekek 125 dollárba kerülnek.",
+      "Minden hideg időjárási felszerelés biztosított (csizma, előke, kesztyű, arcmaszk). Csak öltözz meleg rétegben alatta.",
+      "Akarod, hogy lefoglaljam a 4 fős családodat januárra?"
+    ],
+    "highlightText": "Az Aurora + Mush Combo 175 dollár/fő – 1,5 órás szánkózás",
+    "tooltipFeatures": [
+      "Ismeri a túra típusait és árait",
+      "Piszkozatok a hangodban",
+      "Tartalmazza a felszerelés és a kiegészítő részleteket",
+      "Idővel tanul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Jönnek foglalások ezen a hétvégén? Rossznak tűnik az időjárás.",
+    "agentResponse": "Ezen a hétvégén 3 túrát foglaltak le: egy kennellátogatás szombaton 10:00-kor (2 vendég), egy 2 órás kásaélmény szombaton 13:00-kor (4 fő) és egy aurora-kombó vasárnap 16:00-kor (6 vendég). A vasárnapi csoport a lemondási feltételekről kérdezett. Akarod, hogy mindháromhoz készítsek időjárás-frissítést?",
+    "followUp": "Készítsen időjárás-frissítést a vasárnapi aurora csoport számára",
+    "followUpResponse": "Kész! Választ fogalmaztam meg a vasárnapi aurora csoportnak, amelyben tudattam velük, hogy figyelemmel kíséri a körülményeket, és szombat estig megerősítem. Tartalmazza az átütemezési szabályzatot és az alternatív dátumokat. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Szeretik a musherek és az utazásszervezők",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Kutyaszántúra-szervező, AK",
+      "quote": "Napi 6 órában nyomon vagyok nulla cellás szolgáltatással. Mire visszaértem, a foglalási megkeresések fele egy másik ruhára érkezett. A Duet piszkozatai válaszok a túra részleteivel és az árakkal – a vendégek percek, nem pedig órák múlva hallanak vissza.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Kennel & Mush Tour Owner, AK",
+      "quote": "Kennellátogatásokat, péptúrákat és aurorakombinációkat kínálunk – minden e-mailre más válaszra van szükség. A Duet egy hét alatt kitalálta mindhárom túratípust, és most minden alkalommal a megfelelő csomaghoz illő válaszokat készít.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Kutyaszánvezető, MN",
+      "quote": "Korábban minden estét azzal töltöttem, hogy ugyanazokat a kérdéseket válaszoljam meg a viseletről, a korhatárokról és a kutyákról. A Duet kezeli az egészet. Hazaérek az ösvényről, és minden készen áll és vár.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Télen az időjárás miatti lemondások állandóak. A Duet átütemezi a válaszokat az irányelveinkkel és az alternatív dátumokkal, mielőtt még lehetőségem lenne megnézni a telefonomat. A vendégek szeretik a gyors választ.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Családi kutyaszán kalandok, CO",
+      "quote": "A szülők mindig megkérdezik, hogy tudnak-e pépesíteni a gyerekek, barátságosak-e a kutyák, mit vegyenek fel – ugyanaz a 10 kérdés. A Duet minden választ megtanult, és tökéletesen megfogalmazza azokat. Mintha klónoznám magam e-mailért.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Töltsön telet az ösvényen a kutyáival,\nnem a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "Hogyan kezeli a Duet az időjárás-lemondásokat és az aurora bizonytalanságát?",
+      "answer": "A Duet megismeri az Ön lemondási és átütemezési szabályzatát. Amikor egy vendég e-mailt küld az időjárással vagy az aurora láthatóságával kapcsolatosan, válaszul vázlatot készít az Ön szabályzatával, alternatív dátumokkal és minden lényeges részlettel – például a feltételek megfigyelésével és a körúthoz közelebbi megerősítéssel. Te átnézed és elküldöd."
+    },
+    {
+      "question": "Többféle túratípust kínálok, különböző árakkal és kiegészítőkkel. A Duet egyenesen tudja tartani őket?",
+      "answer": "Igen. A Duet megtanulja az egyes túratípusokat – kennellátogatások, kásás élmények, aurora-kombók, fotózási kiegészítők, szállítási csomagok –, valamint azok árát, időtartamát és a benne foglaltakat. Amikor beérkezik egy megkeresés, az megfelel a megfelelő körutazásnak, és válaszvázlatot készít a megfelelő adatokkal."
+    }
+  ],
+  "pricingNote": "150 USD/túra áron két megtakarított foglalás több mint egy év Pro-ért fizet."
+}

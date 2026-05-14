@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail makšķerēšanas čarteriem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz makšķerēšanas čarteru kapteiņiem uzreiz atbildēt uz rezervācijas e-pastiem — pat atrodoties uz ūdens. AI sagatavotas atbildes ar jūsu cenām, noteikumiem un saziņas stilu.",
+  "heroBadge": "Uzticas 500+ čarteru kapteiņi",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr esat uz ūdens",
+  "heroSubline": "Duet apgūst jūsu cenas, noteikumus un saziņas stilu — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Pieejamība 12. jūlijā 4 personām?",
+      "preview": "Sveiki! Esam 4 cilvēku grupa un vēlamies rezervēt makšķerēšanas braucienu 12. jūlijā. Vai jums ir pieejamība? Kāda ir cena par pilnu dienu?",
+      "pill": "Jāatbild",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Kas mums jāņem līdzi?",
+      "preview": "Sveiki, mums ir rezervācija sestdienai. Ātrs jautājums — kas mums jāņem līdzi? Vai jūs nodrošināt makšķerkātus un piederumus, vai jāņem savi...",
+      "pill": "Jautājums",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike & Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Jāpārceļ uz svētdienu",
+      "preview": "Atvainojos par vēlo ziņu, bet laikapstākļu prognoze sestdienai izskatās slikta. Vai varam pārcelt uz svētdienu? Tajā pašā laikā...",
+      "pill": "Rezervācija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Jauna atsauksme par jūsu ierakstu",
+      "preview": "Ceļotājs nesen novērtēja jūsu uzņēmumu. Skatiet, ko viņš rakstīja, un atbildiet...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Sveika, Sarah! 12. jūlijs 4 personām ir pieejams. Pilnas dienas braucieni ilgst 8 stundas, sākums plkst. 6:00. Visi makšķerkāti, piederumi, ēsma un licences ir iekļauti — paņemiet tikai saules aizsargkrēmu, ūdeni un aukstumsomu lomam. Vai vēlaties, lai rezervēju?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "čarteris",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Viena saglabāta rezervācija atmaksā Duet uz gadu."
+  },
+  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus, bet troksni — nekad. Vairs nekādu pazudušu brauciena pieprasījumu zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu cenas, noteikumus un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar brauciena informāciju, cenām un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kuras dienas nākamnedēļ ir brīvas?\" \"Sagatavo atbildi Sarah ar pieejamību.\" Duet zina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Pieejamība 12. jūlijā 4 personām?",
+      "preview": "Esam 4 cilvēku grupa un vēlamies rezervēt makšķerēšanas braucienu...",
+      "pill": "Atbildēt tagad",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervācija apstiprināta — sestdien plkst. 7:00",
+      "pill": "Rezervēts",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Kas mums jāņem līdzi sestdien?",
+      "pill": "Jautājums",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Jūsu iknedēļas rezervāciju kopsavilkums",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "West Marine",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Pavasara izpārdošana — 20% atlaide piederumiem",
+      "pill": "Akcijas",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Pieejamība 12. jūlijā 4 personām?",
+    "originalFrom": "Sarah M. rakstīja:",
+    "originalText": "Sveiki! Esam 4 cilvēku grupa un vēlamies rezervēt makšķerēšanas braucienu 12. jūlijā. Vai jums ir pieejamība? Kāda ir cena par pilnu dienu?",
+    "lines": [
+      "Sveika, Sarah!",
+      "12. jūlijs 4 personām ir pilnīgi brīvs. Pilnas dienas braucieni maksā $500 un ilgst 8 stundas, sākot plkst. 6:00 no jahtu piestātnes.",
+      "Viss aprīkojums, ēsma un makšķerēšanas licences ir iekļautas — paņemiet tikai saules aizsargkrēmu un aukstumsomu.",
+      "Vai vēlaties, lai rezervēju?"
+    ],
+    "highlightText": "12. jūlijs 4 personām ir pilnīgi brīvs. Pilnas dienas braucieni maksā $500",
+    "tooltipFeatures": [
+      "Zina jūsu cenas un pieejamību",
+      "Raksta melnrakstus jūsu stilā",
+      "Automātiski iekļauj brauciena informāciju",
+      "Laika gaitā mācās"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kuras dienas nākamnedēļ vēl ir brīvas?",
+    "agentResponse": "Pamatojoties uz jūsu kalendāru, nākamnedēļ jums ir brīvas vietas otrdien, ceturtdien un sestdien. Pirmdiena un trešdiena ir pilnībā rezervētas (pa 2 čarteriem katrā dienā). Vai sagatavot atbildi uz kādu gaidošu pieprasījumu ar šiem datumiem?",
+    "followUp": "Sagatavo atbildi Sarah ar pieejamību 12. jūlijā",
+    "followUpResponse": "Gatavs! Sagatavoju atbildi Sarah, apstiprinot 12. jūliju 4 viesiem par $500. Tajā iekļauta jūsu standarta brauciena informācija un tikšanās vieta. Gatavs pārskatīšanai un nosūtīšanai."
+  },
+  "testimonialsTitle": "Čarteru kapteiņu iecienīts",
+  "testimonials": [
+    {
+      "name": "Captain Mike D.",
+      "title": "Atklātās jūras čartera kapteinis, FL",
+      "quote": "Sezonas karstumā es zaudētu 2-3 rezervācijas nedēļā tikai tāpēc, ka nevarēju pietiekami ātri atbildēt no laivas. Duet sagatavo atbildes ar manām cenām un brauciena informāciju — man tikai jānosūta starp lomiem.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah & Tom K.",
+      "title": "Ģimenes čarteru uzņēmums, OR",
+      "quote": "Mēs vadām divas laivas, un e-pastu apjoms vasarā ir neprātīgs. Duet atdala rezervācijas pieprasījumus no visa pārējā un sagatavo atbildes, kas skan tieši kā mēs. Pilnīga spēles noteikumu maiņa.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Piekrastes makšķerēšanas gids, TX",
+      "quote": "Katru vakaru pavadīju stundu, atbildot uz tiem pašiem pieejamības jautājumiem. Tagad to dara Duet. Mans atbildes laiks saruka no stundām līdz minūtēm, un kopš tā laika neesmu zaudējis nevienu rezervāciju.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Čarteru biroja vadītāja, HI",
+      "quote": "Pārvaldīt e-pastus 4 kapteiņiem bija pilnas slodzes darbs. Duet visu kategorizē un sagatavo atbildes ar pareizo laivu, pareizo cenu un pareizo kapteini. It kā man būtu vēl viena es.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Dziļjūras čarteri, NC",
+      "quote": "Biju skeptiska, vai AI spēs apstrādāt makšķerēšanas čarteru e-pastus. Bet tas apguva mūsu braucienu veidus, kas ir iekļauts, pat mūsu atcelšanas politiku. Klienti nepamana atšķirību.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Pavadiet sezonas karstāko laiku uz ūdens,\nnevis iesūtnē.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
+  "verticalFaqs": [
+    {
+      "question": "Vai Duet darbojas ar rezervāciju un pieejamības e-pastiem?",
+      "answer": "Pilnīgi noteikti. Duet apgūst jūsu braucienu veidus, cenas, pieejamību un noteikumus. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar pareizajām detaļām — cenu, iekļauto, tikšanās vietu un to, kas jāņem līdzi. Jūs pārskatāt un pieskaraties, lai nosūtītu."
+    },
+    {
+      "question": "Es visu dienu esmu uz ūdens. Vai varu lietot Duet no tālruņa?",
+      "answer": "Jā. Duet darbojas ar Gmail un Outlook, tāpēc tas darbojas visur, kur darbojas jūsu e-pasts — arī tālrunī. Melnraksti parādās automātiski. Starp lomiem jūs pārskatāt un nosūtāt ar vienu pieskārienu. Lielākā daļa kapteiņu mums saka, ka sezonas laikā tas ietaupa 1-2 stundas e-pasta darba dienā."
+    }
+  ],
+  "pricingNote": "Pie $500 par čarteru viena nezaudēta rezervācija sedz vairāk nekā gada Pro izmaksas."
+}

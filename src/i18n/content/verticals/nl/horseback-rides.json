@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail voor paardrijtochten en wandelgidsen | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt trailride-operators direct te reageren op boekings-e-mails - zelfs vanuit het zadel. Door AI opgestelde antwoorden met uw prijzen, passagiersvereisten en stem.",
+  "heroBadge": "Vertrouwd door meer dan 300 wandelgidsen",
+  "heroHeadline": "Uw e-mailassistent terwijl u onderweg bent",
+  "heroSubline": "Duet leert uw rittypes, prijzen, rijdervereisten en trailomstandigheden kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Groepsboeking voor 6 personen — zaterdagochtend?",
+      "preview": "Hallo! We zijn een gezin van 6 (2 volwassenen, 4 kinderen van 8 tot 14 jaar) en willen graag een buitenrit boeken deze zaterdagochtend. Heeft u beschikbaarheid? Wat is de prijs per persoon?",
+      "pill": "Om te reageren",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Vraag over gewichtslimiet",
+      "preview": "Hé, ik ben geïnteresseerd in het boeken van een rit, maar ik wilde eerst vragen naar je gewichtsvereisten. Ik weeg ongeveer 260 pond. Is dat een probleem?",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy en Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Zonsondergangrit voor jubileum?",
+      "preview": "Volgend weekend vieren we ons 10-jarig jubileum en zagen je zonsondergangrit op Instagram. Is het vrijdagavond mogelijk? Eventuele speciale pakketten...",
+      "pill": "Boeking",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nieuwe recensie voor uw vermelding",
+      "preview": "Een reiziger heeft onlangs uw bedrijf beoordeeld. Kijk wat ze te zeggen hadden en reageer...",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hé Jessica! Zaterdagochtend is open voor 6 personen. Onze buitenritten kosten $ 100 per persoon en duren ongeveer 90 minuten door de vallei. Kinderen vanaf 8 jaar zijn welkom; die van jou zijn allemaal klaar om te gaan. Schoenen met gesloten neus zijn vereist en wij zorgen voor helmen. Wil je dat ik je boek voor de rit van 09.00 uur?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "rit",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Eén opgeslagen groepsrit levert meer dan twee jaar Duet op."
+  },
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat je eerst boekingsaanvragen ziet, daarna vragen van passagiers en nooit meer lawaai. U hoeft nooit meer een groepsaanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
+  "draftSubtitle": "Duet leert uw rittypes, prijzen en vereisten. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met routegegevens, prijzen en kleding. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Zijn er ritten open dit weekend?\" \"Stel een antwoord op voor Jessica met beschikbaarheid op zaterdag.\"Duet kent uw inbox en agenda — vraag het maar.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Groepsboeking voor 6 personen — zaterdagochtend?",
+      "preview": "Wij zijn een gezin van 6 personen die een buitenrit willen boeken...",
+      "pill": "Reageer nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Zonsondergangrit bevestigd - vrijdag 17.30 uur",
+      "pill": "Geboekt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Gewichtslimiet en ervaringsvereisten?",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Uw wekelijkse boekingsoverzicht",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Trekkeraanbod",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Voorjaarsuitverkoop — 15% korting op voer en tuig",
+      "pill": "Promoties",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Groepsboeking voor 6 personen — zaterdagochtend?",
+    "originalFrom": "Jessica T. schreef:",
+    "originalText": "Hallo! We zijn een gezin van 6 (2 volwassenen, 4 kinderen van 8 tot 14 jaar) en willen graag een buitenrit boeken deze zaterdagochtend. Heeft u beschikbaarheid? Wat is de prijs per persoon?",
+    "lines": [
+      "Hé Jessica!",
+      "Zaterdagochtend is wijd open voor 6 personen. Trailritten kosten $ 100 per persoon en duren ongeveer 90 minuten door de vallei. Kinderen vanaf 8 jaar zijn welkom, dus je hele team is klaar om te gaan.",
+      "Schoenen met gesloten neus zijn vereist; laarzen zijn het beste. Wij bieden helmen en matchen elke ruiter aan een paard op basis van maat en ervaring. Geen voorafgaande rijervaring nodig.",
+      "Wil je dat ik je opsluit voor de rit van 9.00 uur?"
+    ],
+    "highlightText": "Zaterdagochtend is wijd open voor 6 personen. Trailritten kosten $ 100 per persoon",
+    "tooltipFeatures": [
+      "Kent uw prijzen en beschikbaarheid",
+      "Tochten in je stem",
+      "Inclusief rijdervereisten automatisch",
+      "Leert in de loop van de tijd"
+    ]
+  },
+  "agent": {
+    "userMessage": "Zijn er ritten open dit weekend? En hoe ziet het weer eruit?",
+    "agentResponse": "Op basis van uw agenda heeft u zaterdag openingen om 9.00 en 14.00 uur en zondag om 10.00 uur. De voorspelling voor zaterdag is 72°F en zonnig – perfect rijweer. Zondag is er een kans van 40% op middagregen, dus de ochtend is de veiligere gok. Wil je dat ik op deze tijden antwoorden op openstaande vragen opstel?",
+    "followUp": "Stel een antwoord op aan Jessica met de beschikbaarheid op zaterdag",
+    "followUpResponse": "Klaar! Ik heb een antwoord aan Jessica opgesteld waarin ik zaterdag om 9.00 uur voor 6 renners $ 100 per persoon bevestig. Het bevat uw standaard rijdervereisten en wat u moet dragen. Klaar om te beoordelen en te verzenden."
+  },
+  "testimonialsTitle": "Geliefd bij trailride-operators",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Rancheigenaar en wandelgids, MT",
+      "quote": "Ik ben 6 uur per dag op pad zonder mobiele verbinding. Tegen de tijd dat ik terugkwam, had de helft van de mensen ergens anders geboekt. Duet stelt nu reacties op met mijn prijzen en ritgegevens - ik bekijk ze gewoon en verzend ze wanneer ik terugkom in de schuur.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Touroperator te paard, AZ",
+      "quote": "We krijgen tientallen e-mails waarin we hetzelfde vragen: gewichtslimieten, wat we moeten dragen, leeftijdsvereisten. Duet regelt het allemaal en de antwoorden lijken precies op die van mij. Mijn gasten hebben geen idee dat het AI is.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Trail Ride-gids, CO",
+      "quote": "Het hoogseizoen was moordend voor mij. 30+ e-mails per dag naast hardloopritten. Duet sorteert de boekingsaanvragen op basis van de ruis en stelt antwoorden op die alles bevatten: prijzen, wat u moet meenemen, alles. Ik heb mijn avonden terug.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Rij-instructeur en boekingsmanager, TX",
+      "quote": "We organiseren zonsondergangritten, ochtendritten en privélessen - elk met verschillende prijzen en vereisten. Duet heb het allemaal in een week geleerd. Het stelt elke keer het juiste antwoord op voor het juiste rittype.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Familie Ranch & Trail Rides, CA",
+      "quote": "De gevoelige e-mails waren het ergste: iemand die vroeg of ze te zwaar waren, of dat hun kind oud genoeg was. Duet behandelt deze met dezelfde zorg als ik dat zou doen. professioneel, vriendelijk en accuraat. Dat alleen al is de moeite waard.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Breng de dag door met de paarden,\nniet in uw inbox.",
+  "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
+  "verticalFaqs": [
+    {
+      "question": "Hoe gaat Duet om met gevoelige vragen over gewicht of ervaringsvereisten?",
+      "answer": "Duet leert uw specifieke beleid kennen en weerspiegelt uw toon. Wanneer iemand vraagt ​​naar gewichtslimieten of ervaringsvereisten, wordt er professioneel en hartelijk gereageerd: de informatie wordt gedeeld die hij of zij nodig heeft, zonder het ongemakkelijk te maken. Je zet één keer de toon en Duet volgt deze consequent, zodat iedere gast zich gerespecteerd voelt."
+    },
+    {
+      "question": "Kan Duet groepsboekingen met verschillende passagiersbehoeften afhandelen?",
+      "answer": "Ja. Duet leert uw rittypes, groepsgroottes, minimumleeftijden en eventuele rijderspecifieke vereisten. Wanneer een familie of groep een e-mail stuurt over een boeking, wordt er een antwoord opgesteld met de prijzen voor de volledige groep, wat elke passagier moet weten en de beschikbare tijdvakken. U controleert en verzendt – heen en weer is niet nodig."
+    }
+  ],
+  "pricingNote": "Bij $ 100/persoon voor een groep van 6 personen betaalt één opgeslagen rit meer dan twee jaar Pro."
+}

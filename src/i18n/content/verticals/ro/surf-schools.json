@@ -1,0 +1,171 @@
+{
+  "slug": "surf-schools",
+  "pageTitle": "Duet Mail pentru școli de surf și operatori de paddleboard | AI Asistent de e-mail",
+  "metaDescription": "Duet Mail ajută instructorii de surf și operatorii de paddleboard să răspundă instantaneu la e-mailurile de rezervare – chiar și în timp ce predau. Răspunsuri redactate de AI cu tipurile de lecții, prețuri și voce.",
+  "heroBadge": "De încredere de peste 300 de instructori de surf",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce predai pe apă",
+  "heroSubline": "Duet îți învață tipurile de lecții, prețurile și condițiile, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Lecție de grup pentru 6 sâmbătă?",
+      "preview": "Hi! Am un grup de 6 prieteni în vizită în weekend. Aveți disponibilitate pentru o lecție de grup de surf sâmbătă dimineața? Care este prețul?",
+      "pill": "A Răspunde",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Excursie școlară — 25 de elevi, 15 mai",
+      "preview": "Căutăm să rezervăm o zi de surf pentru clasa noastră de 25 de elevi din clasa a 5-a. Oferiți tarife pentru grupuri școlare? Avem nevoie de costume de neopină și scânduri furnizate...",
+      "pill": "Rezervare",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Închiriere de paddleboard + livrare?",
+      "preview": "Închiriezi plăci de SUP la oră? Ne cazăm la casa de pe plajă de pe strada Elm – vreo șansă să livrați? Ce este inclus...",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Nicole B.",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Condiții pentru mâine dimineață?",
+      "preview": "Suntem rezervați pentru mâine la ora 9 dimineața, dar prognoza pare vântoasă. Va continua lectia? Ar trebui să aducem ceva în plus...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Rachel! Sâmbătă dimineața este deschis pentru 6. Lecțiile de grup durează 2 ore, începând cu ora 9:00. Scândurile, costumele de neopină și dispozitivele de protecție împotriva erupțiilor cutanate sunt toate incluse - trebuie doar să aduceți protecție solară și un prosop. Este 90 USD de persoană. Vrei să-ți închid grupul?",
+  "math": {
+    "pricePerBooking": "$90",
+    "bookingUnit": "lecţie",
+    "lostPerMonth": "8",
+    "monthlyLoss": "$720",
+    "punchline": "Două rezervări salvate plătesc pentru un an de Duet."
+  },
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi rezervările de lecții, întrebările în al doilea rând și zgomotul niciodată. Nu mai lipsește o anchetă de grup școlar îngropată sub alertele Yelp.",
+  "draftSubtitle": "Duet îți învață tipurile de lecții, prețurile de grup și tonul. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Vor rezervări de grup săptămâna aceasta?” „Redactează un răspuns pentru școală cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Lecție de grup pentru 6 sâmbătă?",
+      "preview": "Am un grup de 6 prieteni în vizită în weekend...",
+      "pill": "Răspunde acum",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Re: Excursie confirmată — 15 mai, 25 de studenți",
+      "pill": "Rezervat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Închiriezi paddleboard la oră?",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "O nouă recenzie pentru înregistrarea dvs",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Depozitul de surf",
+      "avatarLetter": "S",
+      "avatarColor": "lavender",
+      "subject": "Reducere de vară — 30% reducere la costume de neopină",
+      "pill": "Promoții",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Lecție de grup pentru 6 sâmbătă?",
+    "originalFrom": "Rachel T. a scris:",
+    "originalText": "Hi! Am un grup de 6 prieteni în vizită în weekend. Aveți disponibilitate pentru o lecție de grup de surf sâmbătă dimineața? Care este prețul?",
+    "lines": [
+      "Hei Rachel!",
+      "Sâmbătă dimineața este deschis pentru 6 persoane. Lecțiile de grup costă 90 USD/persoană și durează 2 ore începând cu ora 9:00 pe plaja principală.",
+      "Scândurile, costumele de neopină și dispozitivele de protecție împotriva erupțiilor cutanate sunt toate incluse - trebuie doar să aduceți protecție solară, apă și un prosop. Nu este nevoie de experiență.",
+      "Vrei să-ți închid grupul?"
+    ],
+    "highlightText": "Sâmbătă dimineața este deschis pentru 6 persoane. Lecțiile de grup costă 90 USD/persoană",
+    "tooltipFeatures": [
+      "Cunoaște tipurile și prețurile de lecție",
+      "Ciorne în vocea ta",
+      "Include ceea ce este furnizat automat",
+      "Învață în timp"
+    ]
+  },
+  "agent": {
+    "userMessage": "Vreo rezervări de grup săptămâna aceasta?",
+    "agentResponse": "Aveți două rezervări de grup săptămâna aceasta: Rachel T. sâmbătă (6 persoane, 9 AM) și Westside Elementary miercuri (25 de studenți, excursie de la 10 AM). Aveți și o întrebare în așteptare de la James P. despre închirierea de paddleboard. Vrei să redactez un răspuns?",
+    "followUp": "Redactează un răspuns către școală, confirmând detaliile excursiei",
+    "followUpResponse": "Făcut! Am redactat un răspuns pentru Westside Elementary confirmând data de 15 mai pentru 25 de studenți la ora 10 AM. Include tariful pentru grupul de școală, ceea ce este furnizat, cerințele privind permisiunea și politica de anulare. Gata de revizuire și de trimis."
+  },
+  "testimonialsTitle": "Iubit de instructorii de surf",
+  "testimonials": [
+    {
+      "name": "Antrenorul Mike T.",
+      "title": "Proprietar școală de surf, CA",
+      "quote": "Sunt în apă predând 6 ore pe zi. Până când am verificat e-mailul, jumătate din rezervări fuseseră duse la altcineva. Acum, Duet drafts răspunde cu prețul și disponibilitatea mea — eu doar examinez între sesiuni.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen și Mark S.",
+      "title": "Lecții și închirieri de paddleboard, HI",
+      "quote": "Oferim lecții și închirieri de masă din aceeași căsuță de e-mail. Duet și-a dat seama imediat de diferența — întrebările privind închirierea primesc răspunsuri, întrebările despre lecție primesc detalii despre lecție. E ca și cum ai avea o recepție.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Danny R.",
+      "title": "Instructor de surf, FL",
+      "quote": "Rezervările pentru grupuri școlare obișnuiau să primească 10 e-mailuri înainte și înapoi. Acum Duet redactează primul răspuns cu tarifele de grup, ceea ce este inclus și borderoul de permisiune. Tăiați tot firul în jumătate.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Fran C.",
+      "title": "Tururi și lecții de SUP, SAU",
+      "quote": "Sezonul de vârf mă ucide – 30 de e-mailuri pe zi despre condiții, prețuri, ce să aduc. Aceleași cinci întrebări din nou și din nou. Duet se ocupă de toate și sună exact ca mine.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Director Kids Surf Camp, SC",
+      "quote": "Părinții trimit cele mai lungi e-mailuri. Datele taberei, alergii, nivelurile de calificare, orele de preluare. Duetul elaborează răspunsuri detaliate care acoperă totul, așa că nu scriu paragrafe la ora 22 după o zi întreagă pe plajă.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Petrece-ți vara în valuri,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
+  "verticalFaqs": [
+    {
+      "question": "Duet gestionează diferite tipuri de lecții și închirieri de echipamente?",
+      "answer": "Da. Duet învață toate ofertele tale — lecții private, lecții de grup, tabere pentru copii, închiriere de scânduri, tururi SUP. Când vine o întrebare, acesta redactează un răspuns cu prețul corect, durata, ce este inclus și ce să aducă. Știe că e-mailul unui grup școlar are nevoie de detalii diferite decât rezervarea unei lecții private."
+    },
+    {
+      "question": "Dar întrebările despre vreme și condiții?",
+      "answer": "Duet află cum gestionezi în mod obișnuit e-mailurile privind condițiile - politicile tale privind anulările, reprogramarea și condițiile în care predai. Când cineva îți trimite e-mail să întrebe dacă lecția va continua, Duet redactează un răspuns care se potrivește cu tonul și politica obișnuite. Verifici și trimiți în câteva secunde."
+    }
+  ],
+  "pricingNote": "La 90 USD/lecție, două rezervări salvate plătesc peste un an de Pro."
+}

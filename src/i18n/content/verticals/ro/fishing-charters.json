@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail pentru charter de pescuit | Asistent de e-mail AI",
+  "metaDescription": "Duet Mail îi ajută pe căpitanii de pescuit charter să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri elaborate de AI cu prețurile, politicile și vocea ta.",
+  "heroBadge": "Au încredere de peste 500 de căpitani charter",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe apă",
+  "heroSubline": "Duet învață prețurile, politicile și vocea ta, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Disponibilitate 12 iulie pentru 4 persoane?",
+      "preview": "Hi! Suntem un grup de 4 care caută să rezervăm o excursie de pescuit pe 12 iulie. Aveți disponibilitate? Care este prețul pentru o zi întreagă?",
+      "pill": "A Răspunde",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Ce ar trebui să aducem?",
+      "preview": "Hei, suntem rezervați pentru sâmbătă. Întrebare rapidă - ce ar trebui să aducem? Oferiți lansete și lunete sau ar trebui să aducem propriile noastre...",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike & Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Trebuie reprogramat pentru duminica",
+      "preview": "Scuze pentru întârzierea anunțului, dar prognoza meteo pare dură sâmbătă. Ne putem muta în schimb la duminică? In acelasi timp...",
+      "pill": "Rezervare",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "O nouă recenzie pentru înregistrarea ta",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Salut Sarah! 12 iulie este deschis pentru 4. Excursiile de o zi întreagă durează 8 ore, începând cu ora 6 AM. Toate lansetele, echipamentul, momeala și licențele sunt incluse - trebuie doar să aduceți protecție solară, apă și o răcitoare pentru captură. Vrei să-l închid?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "charter",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "O rezervare salvată plătește pentru un an de Duet."
+  },
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările în al doilea rând și zgomotul niciodată. Nu mai ratați o întrebare de călătorie îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet învață prețurile, politicile și tonul tău. Când ajunge o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Ce zile sunt deschise săptămâna viitoare?” „Scrie un răspuns pentru Sarah cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Disponibilitate 12 iulie pentru 4 persoane?",
+      "preview": "Suntem un grup de 4 care cautam sa rezervam o excursie de pescuit...",
+      "pill": "Răspunde acum",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervare confirmată — sâmbătă, ora 7:00",
+      "pill": "Rezervat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Ce să aducem sâmbătă?",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Rezumatul săptămânal al rezervării dvs",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "West Marine",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Reducere de primăvară - 20% reducere la echipament",
+      "pill": "Promoții",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Disponibilitate 12 iulie pentru 4 persoane?",
+    "originalFrom": "Sarah M. a scris:",
+    "originalText": "Hi! Suntem un grup de 4 care caută să rezervăm o excursie de pescuit pe 12 iulie. Aveți disponibilitate? Care este prețul pentru o zi întreagă?",
+    "lines": [
+      "Salut Sarah!",
+      "12 iulie este deschis pentru 4 persoane. Excursiile de o zi întreagă costă 500 USD și durează 8 ore, începând cu ora 6:00 din portul de agrement.",
+      "Toate uneltele, momelile și licențele de pescuit sunt incluse - trebuie doar să aduceți protecție solară și o răcitoare.",
+      "Vrei să-l închid?"
+    ],
+    "highlightText": "12 iulie este deschis pentru 4 persoane. Excursiile de o zi completă costă 500 USD",
+    "tooltipFeatures": [
+      "Cunoaște prețurile și disponibilitatea dvs",
+      "Ciorne în vocea ta",
+      "Include automat detaliile călătoriei",
+      "Învață în timp"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ce zile sunt încă deschise săptămâna viitoare?",
+    "agentResponse": "Pe baza calendarului tău, ai locuri libere marți, joi și sâmbătă săptămâna viitoare. Luni și miercuri sunt complet rezervate (2 charter fiecare). Vrei să redactez un răspuns la orice întrebări în așteptare cu aceste date?",
+    "followUp": "Redactează un răspuns pentru Sarah cu disponibilitatea pentru 12 iulie",
+    "followUpResponse": "Făcut! Am redactat un răspuns pentru Sarah confirmând 12 iulie pentru 4 invitați la 500 USD. Include detaliile tale standard ale călătoriei și locația întâlnirii. Gata de revizuire și de trimis."
+  },
+  "testimonialsTitle": "Îndrăgit de căpitanii charter",
+  "testimonials": [
+    {
+      "name": "Căpitanul Mike D.",
+      "title": "Căpitanul charter offshore, FL",
+      "quote": "În timpul sezonului de vârf aș pierde 2-3 rezervări pe săptămână doar pentru că nu puteam răspunde suficient de repede de pe barcă. Duet elaborează răspunsuri cu detaliile privind prețurile și călătoria mea — doar am apăsat pe trimitere între capturi.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah și Tom K.",
+      "title": "Family Charter Business, OR",
+      "quote": "Conducem două bărci și volumul de e-mail pe timpul verii este nebunesc. Duet sortează solicitările de rezervare din orice altceva și redactează răspunsuri care sună exact ca noi. Schimbător absolut de joc.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Ghid de pescuit de coastă, TX",
+      "quote": "Petreceam o oră în fiecare seară răspunzând la aceleași întrebări despre disponibilitate. Acum Duet se ocupă de asta. Timpul meu de răspuns a trecut de la ore la minute și nu am pierdut nicio rezervare de atunci.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Charter Office Manager, HI",
+      "quote": "Gestionarea e-mailurilor pentru 4 căpitani a fost o muncă cu normă întreagă. Duet clasifică totul și redactează răspunsuri cu barca potrivită, prețul potrivit, căpitanul potrivit. E ca și cum ai avea un alt eu.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Deep Sea Charters, NC",
+      "quote": "Era sceptic că o IA ar putea gestiona e-mailurile charter de pescuit. Dar a aflat tipurile noastre de călătorie, ce este inclus, chiar și politica noastră de anulare. Clienții nu pot face diferența.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Petrece sezonul de vârf pe apă,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
+  "verticalFaqs": [
+    {
+      "question": "Duet funcționează pentru e-mailurile de rezervare și disponibilitate?",
+      "answer": "Absolut. Duet află tipurile de călătorie, prețurile, disponibilitatea și politicile tale. Când vine o solicitare de rezervare, acesta redactează un răspuns complet cu detaliile potrivite - preț, ce este inclus, locația întâlnirii, ce să aduci. Verifici și apeși pe trimitere."
+    },
+    {
+      "question": "Sunt pe apă toată ziua. Pot folosi Duet de pe telefonul meu?",
+      "answer": "Da. Duet funcționează cu Gmail și Outlook, așa că funcționează oriunde funcționează e-mailul tău, inclusiv telefonul. Schițele apar automat. Între capturi, revizuiești și trimiți cu o singură atingere. Majoritatea căpitanilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
+    }
+  ],
+  "pricingNote": "La 500 USD/charter, o rezervare salvată plătește pentru peste un an de Pro."
+}

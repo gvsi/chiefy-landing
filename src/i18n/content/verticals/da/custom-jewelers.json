@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail til brugerdefinerede juvelerer | AI-e-mail-assistent",
+  "metaDescription": "Duet Mail hjælper specialfremstillede juvelerer med at reagere på konsultationsanmodninger, designgodkendelser og tidslinjespørgsmål med det samme - selv mens de er på arbejdsbordet. AI-udkastede svar med din proces, prissætning og stemme.",
+  "heroBadge": "Betroet af 300+ smykkedesignere",
+  "heroHeadline": "Din e-mail-assistent, mens du sidder ved bænken",
+  "heroSubline": "Duet lærer din designproces, materialer, priser og tidslinjer - og laver derefter udkast til e-mailsvar, så du aldrig mister en tilpasset klient på grund af et langsomt svar.",
+  "inboxEmails": [
+    {
+      "from": "Rachel og David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Skræddersyet forlovelsesring konsultation?",
+      "preview": "Hej! Min partner og jeg er interesseret i en tilpasset forlovelsesring. Vi har et familiearvestykke, som vi gerne vil bruge. Har du ledige tider til en konsultation i denne måned?",
+      "pill": "At reagere",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D-model — kan vi justere indstillingen?",
+      "preview": "Elsker det overordnede design! Men kunne vi prøve en lavere profil på indstillingen? Jeg vedhæftede et billede af den stil, jeg tænker på. Vil skift til platin også ændre tidslinjen...",
+      "pill": "Revision",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Tidslinje opdatering på bryllup bands?",
+      "preview": "Hej! Tjek lige ind på vores matchende bryllup bands. Brylluppet er den 18. maj, og jeg vil gerne sikre mig, at vi stadig er på rette spor. Kan du sende en hurtig opdatering...",
+      "pill": "Status",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Knuden",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ny anmeldelse på din butiksfacade",
+      "preview": "Et par anmeldte for nylig din virksomhed på The Knot. Se hvad de havde at sige og svar...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Rachel! Jeg vil meget gerne hjælpe dig med at designe en ring omkring din familiediamant - det er en af ​​mine yndlingsting at gøre. Jeg har åbent tirsdag og torsdag eftermiddag i denne måned. Medbring stenen og eventuelle inspirationsbilleder. Konsultationerne varer cirka en time, og det er uforpligtende. Skal jeg holde en tid for dig?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "tilpasset stykke",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Én sparet klient betaler for over fire år for Duet."
+  },
+  "categorizationSubtitle": "Duet tagger automatisk hver e-mail, så du ser nye høringsanmodninger først, designgodkendelser dernæst og leverandørens nyhedsbreve aldrig. Ikke mere mangler en $5.000 forespørgsel begravet under leverandørkampagner.",
+  "draftSubtitle": "Duet lærer din proces, materialer, priser og stemme. Når en konsultationsanmodning lander, udarbejder den et komplet svar med din tilgængelighed, hvad du skal medbringe, og hvordan din proces fungerer. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvor er vi med Amandas ring?\" \"Skriv et udkast til en tidslinjeopdatering for James.\"Duet kender hver klienttråd - bare spørg.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Skræddersyet forlovelsesring konsultation?",
+      "preview": "Min partner og jeg er interesseret i en specialfremstillet ring...",
+      "pill": "Ny henvendelse",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D-model v2 — ser perfekt ud!",
+      "pill": "Designgodkendelse",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Bands er klar - hvornår kan vi hente?",
+      "pill": "Klar til afhentning",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Konsultationsopfølgning — elsker skitserne",
+      "pill": "Konsultation",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Supply",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Forårsudsalg — 15 % rabat på platinfund",
+      "pill": "Sælger/leverandør",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Kundetilpasset forlovelsesring konsultation?",
+    "originalFrom": "Rachel T. skrev:",
+    "originalText": "Hej! Min partner og jeg er interesseret i en tilpasset forlovelsesring. Vi har et familiearvestykke, som vi gerne vil bruge. Har du ledige tider til en konsultation i denne måned?",
+    "lines": [
+      "Hej Rachel!",
+      "Jeg vil meget gerne hjælpe dig med at designe noget særligt omkring din familiediamant. Jeg har åbent tirsdag og torsdag eftermiddag i denne måned.",
+      "Medbring stenen og eventuelle inspirationsbilleder - Pinterest-tavler, skærmbilleder, alt hjælper. Konsultationerne varer cirka en time, og det er uforpligtende.",
+      "Derfra er processen normalt: skitse, 3D-model, revisioner, derefter 3-4 uger i produktion. Skal jeg holde en tid for dig?"
+    ],
+    "highlightText": "skitse, 3D-model, revisioner, derefter 3-4 uger i produktion",
+    "tooltipFeatures": [
+      "Kender din proces og tidslinje",
+      "Kladder i din stemme",
+      "Indeholder automatisk konsultationsdetaljer",
+      "Lærer over tid"
+    ]
+  },
+  "agent": {
+    "userMessage": "Hvor er vi med Amandas forlovelsesring?",
+    "agentResponse": "Amanda godkendte 3D-modellen (v2) den 14. februar. Du bekræftede produktionsstart den 16. februar med et estimat på 3 uger. Det sætter færdiggørelsen omkring den 9. marts. Hendes sidste e-mail spurgte om muligheder for gravering - den er stadig ubesvaret. Vil du have mig til at udarbejde et svar?",
+    "followUp": "Lav et udkast til en tidslinjeopdatering til James om bryllupsbåndene",
+    "followUpResponse": "Færdig! Jeg udarbejdede et svar til James, der bekræftede, at hans matchende bryllupsbånd er i sidste finpudsning og vil være klar til afhentning fredag ​​den 7. marts - i god tid før hans bryllup den 18. maj. Klar til at gennemgå og sende."
+  },
+  "testimonialsTitle": "Elsket af smykkedesignere",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Custom smykkedesigner, LA",
+      "quote": "Hvert brugerdefineret stykke genererer 10-15 e-mails over uger. Gang det med 8 aktive klienter, og jeg var ved at drukne. Duet udkast til designopdateringssvar, konsultationsbekræftelser, tidslinjesvar - alt sammen i min stemme. Jeg anmelder mellem castings og trykker send.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Guldsmed og studieejer, Brooklyn",
+      "quote": "Jeg mistede en provision på 7.000 USD, fordi jeg tog 3 dage om at svare - parret gik til en, der svarede inden for 2 timer. Siden Duet er min svartid under 30 minutter. Det er ikke sket igen.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Bænkjuveler, Chicago",
+      "quote": "Jeg er ved bænken 8 timer om dagen med en lommelygte i hånden. Jeg kan ikke stoppe mellemloddet for at skrive et høringssvar. Duet laver kladder til alt, mens jeg arbejder — jeg kigger på min telefon, godkender, færdig.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Brudesmykkedesigner, Austin",
+      "quote": "I forlovelsessæsonen modtager jeg 20+ konsultationsanmodninger om ugen. Duet lærte hele min proces - materialer, tidslinjer, prisniveauer, hvad jeg skal medbringe. Den udarbejder svar, jeg næsten ikke behøver at redigere. Absolut livredder fra november til februar.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Custom Ring Specialist, Portland",
+      "quote": "3D-revisions-e-mails plejede at spise mine aftener. Kunden sender feedback, jeg udarbejder opdateringen frem og tilbage fem gange. Nu håndterer Duet de rutinemæssige svar, og jeg træder kun til designbeslutningerne. Jeg fik mine nætter tilbage.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Brug dine dage på at skabe smykker,\nbesvarer ikke mails om det.",
+  "ctaSubline": "Start din gratis prøveperiode. Tilslut din indbakke på 30 sekunder.",
+  "verticalFaqs": [
+    {
+      "question": "Kan Duet håndtere e-mails med referencebilleder og designvedhæftede filer?",
+      "answer": "Ja. Duet ser hele e-mail-tråden inklusive vedhæftede filer, så den forstår konteksten, når en klient sender inspirationsbilleder eller designfeedback. Den vil ikke beskrive billederne tilbage, men den ved, at en klient lige har sendt referencebilleder og udarbejder et passende svar - bekræfter modtagelsen, stiller afklarende spørgsmål om designet eller giver de næste trin baseret på din sædvanlige arbejdsgang."
+    },
+    {
+      "question": "Mine brugerdefinerede projekter har lange e-mail-tråde med 10+ beskeder. Kan Duet følge dem?",
+      "answer": "Det er præcis her Duet skinner. Den læser hele trådhistorien - høringsnotater, designrevisioner, materialevalg, tidslinjeopdateringer - så hvert udkast til svar har fuld kontekst. Når en klient spørger 'hvad er status for min ring?' i e-mail #14 ved Duet hvilken ring, hvilket stadie den er i, og udarbejder en nøjagtig opdatering. Slut med at genlæse 3 måneders e-mails selv."
+    }
+  ],
+  "pricingNote": "Med 5.000 USD/styk betaler en sparet kommission i over fire år på Pro."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail per giri in mongolfiera | Assistente e-mail AI",
+  "metaDescription": "Duet Mail aiuta i piloti di mongolfiere a rispondere istantaneamente alle e-mail di prenotazione, anche durante i voli all'alba. Risposte elaborate dall'intelligenza artificiale con prezzi, politiche meteorologiche e voce.",
+  "heroBadge": "Scelto da oltre 200 piloti di mongolfiere",
+  "heroHeadline": "Il tuo assistente email mentre sei in volo",
+  "heroSubline": "Duet apprende gli orari dei voli, i prezzi e le politiche meteorologiche, quindi elabora le risposte via email in modo da non perdere mai una prenotazione durante il lancio all'alba.",
+  "inboxEmails": [
+    {
+      "from": "Rachel e Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Volo Sunrise per 2 — Sabato disponibile?",
+      "preview": "Ciao! Mio marito ed io siamo in visita per il nostro anniversario e ci piacerebbe prenotare un giro in mongolfiera all'alba questo sabato. Hai spazio? Qual è il costo per persona?",
+      "pill": "Per rispondere",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Voleremo domani? Le previsioni del vento sembrano approssimative",
+      "preview": "Abbiamo prenotato per domani mattina ma l'app meteo mostra raffiche di 25 km/h. Stiamo ancora volando o dovremmo pianificare di riprogrammare...",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer e Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Volo privato per una proposta: prezzo?",
+      "preview": "Voglio sorprendere la mia ragazza con un giro privato in mongolfiera e proporla durante il volo. Quanto costa un volo privato e puoi aiutare a coordinare...",
+      "pill": "Prenotazione",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Cosa dovremmo indossare? Dove ci incontriamo?",
+      "preview": "Abbiamo prenotato per domenica mattina. Cosa dovremmo indossare e dov'è esattamente il punto d'incontro? Inoltre, quanto dura l'intera esperienza...",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Ciao Rachele! Sabato è aperto per le 2. I voli Sunrise partono intorno alle 6:15: confermeremo l'ora esatta e il luogo dell'incontro la sera prima in base ai venti. Costa $ 250 a persona e include circa un'ora di volo più un brindisi con champagne dopo l'atterraggio. Vestirsi a strati e indossare scarpe chiuse. Vuoi che prenoti i tuoi posti?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "volo",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Un volo salvato vale un anno di Duet."
+  },
+  "categorizationSubtitle": "Duet tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande sul meteo e mai il rumore. Non perderai più una richiesta di volo sepolta sotto gli avvisi della newsletter.",
+  "draftSubtitle": "Duet apprende i tuoi prezzi, le politiche meteorologiche e il tono. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del volo, le informazioni sulla riunione e cosa indossare. Rivedi e invii.",
+  "agentSubtitle": "\"Chi c'è sulla lista di domani?\" \"Ci sono cancellazioni meteorologiche da riprogrammare?\" Duet conosce la tua casella di posta e il tuo calendario: basta chiedere.",
+  "categorizationEmails": [
+    {
+      "from": "Rachele T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Volo Sunrise per 2 — Sabato disponibile?",
+      "preview": "Io e mio marito vorremmo prenotare un giro in mongolfiera all'alba...",
+      "pill": "Rispondi adesso",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Ri: Prenotazione confermata — domenica 6:15",
+      "pill": "Prenotato",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Cosa dovremmo indossare per il volo?",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nuova recensione per la tua inserzione",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Federazione dei palloni",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Bollettino di sicurezza di marzo e promemoria di rinnovo",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Ri: Volo Sunrise per 2 — Sabato disponibile?",
+    "originalFrom": "Rachel T. ha scritto:",
+    "originalText": "Ciao! Mio marito ed io siamo in visita per il nostro anniversario e ci piacerebbe prenotare un giro in mongolfiera all'alba questo sabato. Hai spazio? Qual è il costo per persona?",
+    "lines": [
+      "Ciao Rachele!",
+      "Il sabato è aperto per 2 persone. I voli Sunrise costano $ 250 a persona e includono circa un'ora in volo più un brindisi con champagne dopo l'atterraggio.",
+      "Partiamo intorno alle 6:15: ti invierò l'orario e il luogo esatti della riunione la sera prima in base alle condizioni del vento. Vestirsi a strati e indossare scarpe chiuse.",
+      "Buon anniversario! Vuoi che prenoti i tuoi posti?"
+    ],
+    "highlightText": "Il sabato è aperto per 2 persone. I voli Sunrise costano $ 250 a persona",
+    "tooltipFeatures": [
+      "Conosce i prezzi e l'orario dei voli",
+      "Bozze nella tua voce",
+      "Include automaticamente i dettagli della riunione",
+      "Impara nel tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Chi c'è sulla lista di domani e che tempo farà?",
+    "agentResponse": "Il volo all'alba di domani ha 6 passeggeri prenotati in 2 prenotazioni: il gruppo Thompson (4) e la coppia Lee (2). Le previsioni attuali mostrano venti calmi a 4 mph e cielo sereno al momento del lancio. Nessuna email di cancellazione ancora. Vuoi che ti invii le conferme del punto di incontro?",
+    "followUp": "Sì, invia conferme a entrambe le parti con l'orario della riunione delle 6:15",
+    "followUpResponse": "Fatto! Ho redatto le conferme del punto di incontro sia per i Thompson che per i Lees con le 6:15 sul campo di lancio, cosa indossare e le indicazioni. Pronto per la revisione e l'invio."
+  },
+  "testimonialsTitle": "Amato dai piloti e dagli operatori di mongolfiere",
+  "testimonials": [
+    {
+      "name": "Capitano Mike L.",
+      "title": "Pilota di mongolfiere, Minnesota",
+      "quote": "Sono un'operazione individuale: volo, faccio parte dell'equipaggio, rispondo alle e-mail. Tranne che alle 5 del mattino mi sto gonfiando, non rispondo. Duet elabora risposte a ogni \"voleremo domani?\" messaggio durante la notte. Mi sveglio, controllo il meteo e premo invio.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon e Jake B.",
+      "title": "Tour in mongolfiera tutto l'anno, UT",
+      "quote": "Riceviamo le stesse 10 domande ogni giorno. Cosa indossare, dove incontrarsi, cosa succede se c'è vento. Duet ha imparato tutto e ora scrive risposte perfette. Siamo passati da un'ora di email ogni notte a cinque minuti.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Operatore di volo Sunrise, Arizona",
+      "quote": "Alta stagione significa 4-6 voli a settimana e ogni passeggero invia un'e-mail almeno due volte prima del volo. Duet gestisce le domande pre-volo così posso concentrarmi sul dare alle persone la mattinata più bella della loro vita.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Co-proprietario della Balloon Company, New Mexico",
+      "quote": "Le cancellazioni meteorologiche mi rovinavano l'intera giornata: 8 passeggeri avevano tutti bisogno di e-mail di riprogrammazione personali. Ora Duet redige tutti con la nostra politica di riprenotazione inclusa. Mi fa risparmiare ore nelle mattine di cancellazione.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Operazioni di giro in mongolfiera, CO",
+      "quote": "I voli delle proposte necessitano di tanto coordinamento avanti e indietro. Duet ha capito come li gestiamo: i tempi, le parole in codice, la configurazione dello champagne. Elabora risposte che a malapena devo toccare.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Trascorri le tue mattine nel cielo,\nnon nella tua casella di posta.",
+  "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
+  "verticalFaqs": [
+    {
+      "question": "In che modo Duet gestisce le e-mail di cancellazione del meteo?",
+      "answer": "Duet apprende le tue politiche di cancellazione e riprenotazione. Quando annulli un volo a causa del maltempo, può redigere e-mail di riprogrammazione personalizzate per ogni passeggero interessato, con la tua politica, le date disponibili e il tuo tono. Rivedi e invii. Ciò che prima richiedeva un'ora di risposte individuali richiede pochi minuti."
+    },
+    {
+      "question": "Duet può gestire la domanda \"voleremo domani?\" email che arrivano ogni sera?",
+      "answer": "Sì, questa è una delle e-mail più comuni di cui ci parlano gli operatori di palloncini. Duet apprende le tue politiche meteorologiche e redige risposte rassicuranti che spiegano il tuo processo decisionale, quando effettuerai la chiamata finale e cosa aspettarti. Una volta confermato il via/non-via al mattino, può redigere aggiornamenti per tutti sul manifest."
+    }
+  ],
+  "pricingNote": "A $ 250 a persona con 4 passeggeri per volo, una prenotazione salvata paga più di un anno di Pro."
+}

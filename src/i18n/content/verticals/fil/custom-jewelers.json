@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail para sa Mga Custom na Alahas | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga custom na alahas na tumugon sa mga kahilingan sa konsultasyon, pag-apruba sa disenyo, at mga tanong sa timeline kaagad — kahit na nasa workbench. AI-drafted na mga tugon sa iyong proseso, pagpepresyo, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 300+ na designer ng alahas",
+  "heroHeadline": "Ang iyong email assistant habang nasa bench ka",
+  "heroSubline": "Natutunan ng Duet ang iyong proseso ng disenyo, mga materyales, pagpepresyo, at mga timeline — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng custom na kliyente sa isang mabagal na tugon.",
+  "inboxEmails": [
+    {
+      "from": "Rachel at David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Custom na engagement ring consultation?",
+      "preview": "Hi! Interesado kami ng aking partner sa isang custom na engagement ring. Mayroon kaming family heirloom diamond na gusto naming gamitin. Mayroon ka bang magagamit para sa isang konsultasyon ngayong buwan?",
+      "pill": "Upang Tumugon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D model — maaari ba nating ayusin ang setting?",
+      "preview": "Gustung-gusto ang pangkalahatang disenyo! Ngunit maaari ba nating subukan ang isang mas mababang profile sa setting? Nag-attach ako ng larawan ng istilong iniisip ko. Gayundin, ang paglipat sa platinum ay magbabago sa timeline...",
+      "pill": "Rebisyon",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Update sa timeline sa mga wedding band?",
+      "preview": "Hoy! Nag-check-in lang sa mga katugma naming wedding bands. May 18 ang kasal at gusto kong masigurado na nasa tamang landas pa rin kami. Maaari ka bang magpadala ng isang mabilis na update...",
+      "pill": "Katayuan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Ang Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Bagong review sa iyong storefront",
+      "preview": "Sinuri kamakailan ng mag-asawa ang iyong negosyo sa The Knot. Tingnan kung ano ang kanilang sasabihin at tumugon...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hi Rachel! Gusto kong tulungan kang magdisenyo ng singsing sa paligid ng brilyante ng iyong pamilya — iyon ang isa sa mga paborito kong gawin. Mayroon akong mga pagbubukas sa Martes at Huwebes ng hapon ngayong buwan. Dalhin ang bato at anumang larawan ng inspirasyon. Ang mga konsultasyon ay tumatakbo nang halos isang oras at walang obligasyon. Gusto mo bang bigyan kita ng oras?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "pasadyang piraso",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Ang isang naka-save na kliyente ay nagbabayad para sa higit sa apat na taon ng Duet."
+  },
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga bagong kahilingan sa konsultasyon, pangalawa ang mga pag-apruba sa disenyo, at hindi kailanman ang mga newsletter ng vendor. Wala nang nawawalang $5,000 na pagtatanong na nakabaon sa ilalim ng mga promo ng supplier.",
+  "draftSubtitle": "Natutunan ng duet ang iyong proseso, materyales, pagpepresyo, at boses. Kapag dumating ang isang kahilingan sa konsultasyon, nag-draft ito ng kumpletong tugon kasama ang iyong availability, kung ano ang dadalhin, at kung paano gumagana ang iyong proseso. I-review at ipadala mo.",
+  "agentSubtitle": "\"Saan tayo may singsing ni Amanda?\" \"Mag-draft ng update sa timeline para kay James.\" Alam ng duet ang bawat thread ng kliyente — magtanong lang.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Custom na engagement ring consultation?",
+      "preview": "Interesado kami ng aking partner sa isang custom na singsing...",
+      "pill": "Bagong Pagtatanong",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D model v2 — mukhang perpekto!",
+      "pill": "Pag-apruba ng Disenyo",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Handa na ang mga banda — kailan tayo maaaring kunin?",
+      "pill": "Handa na para sa Pickup",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Pagsubaybay sa konsultasyon — mahilig sa mga sketch",
+      "pill": "Konsultasyon",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Supply ng Rio Grande",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Spring sale — 15% diskwento sa mga natuklasan sa platinum",
+      "pill": "Vendor/Supplier",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Custom na engagement ring consultation?",
+    "originalFrom": "Sumulat si Rachel T.:",
+    "originalText": "Hi! Interesado kami ng aking partner sa isang custom na engagement ring. Mayroon kaming family heirloom diamond na gusto naming gamitin. Mayroon ka bang magagamit para sa isang konsultasyon ngayong buwan?",
+    "lines": [
+      "Hi Rachel!",
+      "Gusto kong tulungan kang magdisenyo ng isang espesyal na bagay sa paligid ng brilyante ng iyong pamilya. Mayroon akong mga pagbubukas ng Martes at Huwebes ng hapon ngayong buwan.",
+      "Dalhin ang bato at anumang inspirasyong mga larawan — Pinterest boards, mga screenshot, anumang bagay ay nakakatulong. Ang mga konsultasyon ay tumatakbo nang halos isang oras at walang obligasyon.",
+      "Mula doon, ang proseso ay karaniwang: sketch, 3D na modelo, mga rebisyon, pagkatapos ay 3-4 na linggo sa produksyon. Gusto mo bang bigyan kita ng oras?"
+    ],
+    "highlightText": "sketch, 3D na modelo, mga rebisyon, pagkatapos ay 3-4 na linggo sa produksyon",
+    "tooltipFeatures": [
+      "Alam ang iyong proseso at timeline",
+      "Mga draft sa iyong boses",
+      "Awtomatikong kasama ang mga detalye ng konsultasyon",
+      "Natututo sa paglipas ng panahon"
+    ]
+  },
+  "agent": {
+    "userMessage": "Nasaan na tayo sa engagement ring ni Amanda?",
+    "agentResponse": "Inaprubahan ni Amanda ang 3D na modelo (v2) noong Pebrero 14. Kinumpirma mo ang pagsisimula ng produksyon sa Pebrero 16 na may 3 linggong pagtatantya. Iyon ay naglalagay ng pagkumpleto sa paligid ng Marso 9. Ang kanyang huling email ay nagtatanong tungkol sa mga opsyon sa pag-ukit — hindi pa rin ito nasasagot. Gusto ko bang mag-draft ng tugon?",
+    "followUp": "Bumuo ng update sa timeline para kay James tungkol sa mga wedding band",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon kay James na nagkukumpirma na ang kanyang mga katugmang wedding band ay nasa final polish at magiging handa para sa pickup sa Biyernes, Marso 7 — bago ang kanyang kasal sa Mayo 18. Handa nang suriin at ipadala."
+  },
+  "testimonialsTitle": "Mahal ng mga designer ng alahas",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Custom na Disenyo ng Alahas, LA",
+      "quote": "Ang bawat custom na piraso ay bumubuo ng 10-15 email sa mga linggo. I-multiply iyon ng 8 active clients at nalulunod ako. Mga tugon sa update sa disenyo ng duet draft, mga kumpirmasyon sa konsultasyon, mga sagot sa timeline — lahat sa aking boses. Sinusuri ko sa pagitan ng mga cast at pindutin ang ipadala.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Goldsmith at May-ari ng Studio, Brooklyn",
+      "quote": "Nawalan ako ng $7,000 engagement ring komisyon dahil tumagal ako ng 3 araw bago tumugon — pinuntahan ng mag-asawa ang isang taong sumagot sa loob ng 2 oras. Since Duet, wala pang 30 minutes ang response time ko. Hindi na iyon naulit.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Bench Jeweller, Chicago",
+      "quote": "Ako ay nasa bangko 8 oras sa isang araw na may sulo sa aking kamay. Hindi ko mapigilan ang mid-solder para mag-type ng tugon sa konsultasyon. Duet draft lahat habang nagtatrabaho ako — sumulyap ako sa aking telepono, aprubahan, tapos na.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Bridal Jewelry Designer, Austin",
+      "quote": "Sa panahon ng pakikipag-ugnayan nakakakuha ako ng 20+ kahilingan sa konsultasyon sa isang linggo. Natutunan ng duet ang buong proseso ko — mga materyales, timeline, tier ng pagpepresyo, kung ano ang dadalhin. Nag-draft ito ng mga tugon na halos hindi ko na kailangang i-edit. Ganap na lifesaver mula Nobyembre hanggang Pebrero.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Custom Ring Specialist, Portland",
+      "quote": "Kinakain ng mga 3D revision email ang aking mga gabi. Nagpapadala ang kliyente ng feedback, binabalangkas ko ang update, pabalik-balik ng limang beses. Ngayon, ang Duet ang humahawak sa mga nakagawiang tugon at pumapasok lang ako para sa mga desisyon sa disenyo. Binalikan ko ang mga gabi ko.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Gumugol ng iyong mga araw sa paglikha ng alahas, \nhindi sumasagot sa mga email tungkol dito.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
+  "verticalFaqs": [
+    {
+      "question": "Magagawa ba ng Duet ang mga email na may mga reference na larawan at mga attachment ng disenyo?",
+      "answer": "Oo. Nakikita ng Duet ang buong thread ng email kasama ang mga attachment, kaya nauunawaan nito ang konteksto kapag nagpadala ang isang kliyente ng mga inspirasyong larawan o feedback sa disenyo. Hindi nito ilalarawan pabalik ang mga larawan, ngunit alam nitong nagpadala lang ang isang kliyente ng mga reference na larawan at nag-draft ng naaangkop na tugon — pagkumpirma ng resibo, pagtatanong ng mga paglilinaw tungkol sa disenyo, o pagbibigay ng mga susunod na hakbang batay sa iyong karaniwang daloy ng trabaho."
+    },
+    {
+      "question": "Ang aking mga custom na proyekto ay may mahabang email thread na may 10+ mensahe. Masusunod kaya ng Duet ang mga iyon?",
+      "answer": "Doon talaga kumikinang ang Duet. Binabasa nito ang buong kasaysayan ng thread — mga tala sa konsultasyon, mga pagbabago sa disenyo, mga pagpipilian sa materyal, mga update sa timeline — kaya ang bawat nakabalangkas na tugon ay may buong konteksto. Kapag tinanong ng isang kliyente 'ano ang status ng aking singsing?' sa email #14, alam ng Duet kung aling singsing, kung anong yugto ito, at nag-draft ng tumpak na update. Wala nang muling pagbabasa ng 3 buwan ng mga email sa iyong sarili."
+    }
+  ],
+  "pricingNote": "Sa $5,000/piraso, ang isang naka-save na komisyon ay nagbabayad para sa higit sa apat na taon ng Pro."
+}

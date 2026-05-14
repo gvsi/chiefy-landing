@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail pulmakorraldajatele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab pulmakorraldajatel klientide ja müüjate meilidele koheselt vastata – isegi toimumiskoha läbivaatusel. Tehisintellekti koostatud vastused teie pakettide, tarnija kontaktide ja häälega.",
+  "heroBadge": "Usaldab üle 400 pulmakorraldaja",
+  "heroHeadline": "Teie e-posti assistent, kui olete kohapeal kohapeal",
+  "heroSubline": "Duet saab teada teie tarnija kontaktid, paketid ja kliendi eelistused – seejärel koostab meilivastuste mustandid, et paarid ei ootaks kunagi, kuni teie kohapeal koordineerite.",
+  "inboxEmails": [
+    {
+      "from": "Emily ja James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Saadavus 20. septembri pulmadeks?",
+      "preview": "Tere! Me just kihlusime ja ootame 20. septembril pulma umbes 120 külalisele. Kas teil on saadavust? Millised on teie paketid...",
+      "pill": "Et vastata",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa lilled",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompsoni pulmad – kesksed maketid",
+      "preview": "Siin on kolm keskmist võimalust, mida arutasime. Aiaroosid tulid ilusti sisse. Andke mulle teada, millises suunas paar liikuda tahab...",
+      "pill": "Müüja",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Hirmus istekohtade tabeli pärast",
+      "preview": "Ma tean, et lõpetasime tabeli eelmisel nädalal, kuid mu ema vastas just 4 lisainimesele ja mul pole aimugi, kuhu nad panna. Kas me saame mõned lauad ümber tõsta...",
+      "pill": "Klient",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uus päring teie kirjest",
+      "preview": "Paar palus teie teenuste kohta lisateavet. Vaadake üksikasju ja vastake...",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Tere Emily ja James – palju õnne kihlumise puhul! 20. september on saadaval ja 120 külalist on ideaalne suurus. Pakun täisplaneerimise, osalise planeerimise ja päevade kooskõlastamise pakette. Sooviksin korraldada tasuta konsultatsiooni teie nägemuse tundmaõppimiseks. Kas teil on sel nädalal vaba kiireks kõneks?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "pulmad",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Üks säästetud klient maksab üle 20 aasta Duet i eest."
+  },
+  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et näete esmalt uute paaride päringuid, teiseks tarnija kinnitusi ja uudiskirjade müra mitte kunagi. Enam ei puudu broneerimistaotlus, mis on sõlme märguannete alla mattunud.",
+  "draftSubtitle": "Duet õpib teie paketid, eelistatud müüjad ja tooni. Kui paar küsib, koostab see sooja ja täieliku vastuse koos teie saadavuse ja järgmiste sammudega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Millised müüja meilid tulid Thompsoni pulmadeks?\" \"Koostage laupäevaks ajaskaala värskendus kõigile tarnijatele.\" Duet tunneb teie postkasti ja kliente – lihtsalt küsige.",
+  "categorizationEmails": [
+    {
+      "from": "Emily ja James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Saadavus 20. septembri pulmadeks?",
+      "preview": "Me just kihlusime ja ootame 20. septembrit...",
+      "pill": "Vasta kohe",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa lilled",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompsoni pulmad – kesksed maketid",
+      "pill": "Müüja",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Istumisskeem – lõplik versioon lisatud",
+      "pill": "Klient",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uus päring teie kirjest",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Vermitud",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Sel nädalal 20% soodsam kuupäev",
+      "pill": "Pakkumised",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Saadavus 20. septembri pulmadeks?",
+    "originalFrom": "Emily ja James W. kirjutasid:",
+    "originalText": "Tere! Me just kihlusime ja ootame 20. septembril pulma umbes 120 külalisele. Kas teil on saadavust? Millised on teie paketid ja hinnad?",
+    "lines": [
+      "Tere Emily ja James – palju õnne!",
+      "20. september on saadaval ja 120 külalist on imeline suurus. Pakun täielikku planeerimist, osalist planeerimist ja koordineerimispäeva pakette alates $3,500.",
+      "Sooviksin korraldada tasuta konsultatsiooni, et kuulda teie nägemust ja juhendada teid, milline pakett sobib kõige paremini.",
+      "Kas teil on sel nädalal vaba kõne?"
+    ],
+    "highlightText": "20. september on saadaval ja 120 külalist on imeline suurus",
+    "tooltipFeatures": [
+      "Teab teie pakette ja saadavust",
+      "Mustandid teie hääles",
+      "Sisaldab järgmiste sammude konsulteerimist",
+      "Õpib teie kliendi eelistusi"
+    ]
+  },
+  "agent": {
+    "userMessage": "Millised müüja e-kirjad tulid sel nädalal Thompsoni pulmadeks?",
+    "agentResponse": "Saite sel nädalal Thompsoni pulmade kohta 4 müüja meili: Bella Rosa Florals saatis kesksed maketid (ootab paari valikut), Lakeside Venue kinnitas tseremoonia peaproovi reedel kell 16.00, DJ Marco saatis värskendatud laululoendi ja Sweet Layers Bakery vajab kolmapäevaks lõplikku koogi maitset. Kas soovite, et koostaksin neile vastused?",
+    "followUp": "Koostage Bella Rosale vastus koos paari valikuga – variant B, aiaroosid",
+    "followUpResponse": "Valmis! Koostasin Bella Rosa Floralsile vastuse, milles kinnitasin varianti B – Thompsoni pulmade aedrooside kesksed osad. See sisaldab märkust 14 laua täieliku tellimuse täitmise kohta. Ülevaatamiseks ja saatmiseks valmis."
+  },
+  "testimonialsTitle": "Pulmakorraldajate poolt armastatud",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Boutique Wedding Planner, CO",
+      "quote": "Olen poole nädala jooksul mägipiirkondades null-raku teenindusega. Samal ajal saadavad paarid mulle meili ajakavade ja müüja küsimuste kohta. Duet koostab vastused minu täpsete pakettide ja tooniga – vaatan need üle, kui olen tagasi levialas.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Täisteenusega pulmaplaneerija, CA",
+      "quote": "10+ müüja koordineerimine pulma kohta tähendab, et minu postkast on kõrghooajal sõjatsoon. Duet kategoriseerib hankija meilid klientide meilidest eraldi ja koostab järelmeetmete mustandid, mille oleksin ise kirjutanud. Ma tegelikult magan praegu.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Koordinaatori päev, TX",
+      "quote": "Pulmapäevadel pole ma 14 tundi järjest kättesaadav. Uued päringud jäid vastuseta kuni esmaspäevani. Nüüd tegeleb Duet nendega kohe ja ma olen ainuüksi kiirema reageerimisaja tõttu broneerinud sel kvartalil kolm lisapulma.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Sihtkoha pulmaplaneerija, HI",
+      "quote": "Minu paarid lendavad kohale kõikjalt maailmast ja meilivad igal kellaajal. Duet sai teada minu KKK vastused – koha logistika, kohalikud müüjad, mida oodata – ja vastuste mustandid, mis kõlavad täpselt nagu mina. Klientidel pole aimugi.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Pulma- ja ürituste planeerija, NY",
+      "quote": "Kulutasin igal õhtul 2 tundi samale paketi ja saadavuse küsimustele vastamisele. Duet tegeleb korduvate asjadega, et saaksin keskenduda loomingulisele tööle, mida ma tegelikult armastan. See tasus end ära esimese nädalaga.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Olge tseremoonial kohal,\npole teie postkasti maetud.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
+  "verticalFaqs": [
+    {
+      "question": "Kas Duet töötab kõigi tarnija kooskõlastusmeilidega?",
+      "answer": "Jah. Duet saab teada teie tarnija kontaktid, eelistatud müüjad ja kuidas te nendega suhtlete. See kategoriseerib hankijate meilid pulmade järgi ja koostab vastused õigete üksikasjadega – kinnitused, järelmeetmed, ajaskaala värskendused. Vaatad üle ja saadad. See tegeleb lillepoodide, toitlustajate, esinemiskohtade, DJ-de, fotograafide ja kõigi teiste teie Rolodexi müüjatega."
+    },
+    {
+      "question": "Olen terve päeva pulmades ja üritustel kohapeal. Kas jään uutest päringutest ilma?",
+      "answer": "See on täpselt see, mida Duet lahendab. Kui teie kohapeal koordineerimise ajal saadab paar meili saadavuse või pakettide kohta, koostab Duet sooja ja professionaalse vastuse, mis sisaldab teie tegelikku saadavust ja järgmisi samme. Vaatate üle ja saadate iga kord, kui olete vaba – isegi telefonist sündmuste vahel. Enamik planeerijaid ütleb meile, et see säästab kõrghooajal 1–2 tundi meilisõnumit päevas."
+    }
+  ],
+  "pricingNote": "Kell $8,000/wedding maksab üks säästetud klient üle 20 aasta Pro eest."
+}

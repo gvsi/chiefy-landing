@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail para joyeros personalizados | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los joyeros personalizados a responder solicitudes de consulta, aprobaciones de diseño y preguntas sobre cronogramas al instante, incluso mientras están en el banco de trabajo. Respuestas redactadas por IA con su proceso, precios y voz.",
+  "heroBadge": "Con la confianza de más de 300 diseñadores de joyas",
+  "heroHeadline": "Tu asistente de correo electrónico mientras estás en el banquillo",
+  "heroSubline": "Duet aprende su proceso de diseño, materiales, precios y cronogramas y luego redacta borradores de respuestas por correo electrónico para que nunca pierda un cliente personalizado debido a una respuesta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Raquel y David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "¿Consulta sobre anillo de compromiso personalizado?",
+      "preview": "¡Hola! Mi pareja y yo estamos interesados ​​en un anillo de compromiso personalizado. Tenemos un diamante herencia familiar que nos encantaría usar. ¿Tienes disponibilidad para una consulta este mes?",
+      "pill": "Para responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: Modelo 3D: ¿podemos ajustar la configuración?",
+      "preview": "¡Me encanta el diseño general! ¿Pero podríamos probar con un perfil más bajo en la configuración? Adjunto foto del estilo que estoy pensando. Además, cambiar a platino cambiaría la línea de tiempo...",
+      "pill": "Revisión",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "¿Actualización de la línea de tiempo sobre alianzas de boda?",
+      "preview": "¡Oye! Estoy revisando nuestras alianzas de boda a juego. La boda es el 18 de mayo y quiero asegurarme de que todavía vamos por buen camino. ¿Puedes enviar una actualización rápida...?",
+      "pill": "Estado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "El nudo",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nueva reseña en tu tienda",
+      "preview": "Una pareja revisó recientemente su negocio en The Knot. Vea lo que tenían que decir y responda...",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Raquel! Me encantaría ayudarte a diseñar un anillo alrededor del diamante de tu familia; esa es una de mis actividades favoritas. Tengo vacantes los martes y jueves por la tarde este mes. Trae la piedra y cualquier foto de inspiración. Las consultas duran aproximadamente una hora y no hay compromiso. ¿Quieres que reserve un momento para ti?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "pieza personalizada",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Un cliente guardado paga por más de cuatro años de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que vea primero las nuevas solicitudes de consulta, luego las aprobaciones de diseño y nunca los boletines informativos de los proveedores. No más perder una consulta de $5,000 oculta bajo promociones de proveedores.",
+  "draftSubtitle": "Duet aprende su proceso, materiales, precios y voz. Cuando llega una solicitud de consulta, redacta una respuesta completa con su disponibilidad, qué traer y cómo funciona su proceso. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Dónde estamos con el anillo de Amanda?\" \"Redacta una actualización de la línea de tiempo para James\". Duet conoce todos los hilos del cliente, solo pregunte.",
+  "categorizationEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "¿Consulta sobre anillo de compromiso personalizado?",
+      "preview": "Mi pareja y yo estamos interesados en un anillo personalizado...",
+      "pill": "Nueva consulta",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: Modelo 3D v2: ¡se ve perfecto!",
+      "pill": "Aprobación de diseño",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Las bandas están listas, ¿cuándo podemos retomarlas?",
+      "pill": "Listo para ser recogido",
+      "pillColor": "amber"
+    },
+    {
+      "from": "emily w.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Seguimiento de la consulta: me encantan los bocetos",
+      "pill": "Consulta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Suministro de Río Grande",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Oferta de primavera: 15 % de descuento en hallazgos de platino",
+      "pill": "Vendedor/Proveedor",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: ¿Consulta sobre anillo de compromiso personalizado?",
+    "originalFrom": "Raquel T. escribió:",
+    "originalText": "¡Hola! Mi pareja y yo estamos interesados ​​en un anillo de compromiso personalizado. Tenemos un diamante herencia familiar que nos encantaría usar. ¿Tienes disponibilidad para una consulta este mes?",
+    "lines": [
+      "Hola Raquel!",
+      "Me encantaría ayudarte a diseñar algo especial en torno al diamante de tu familia. Tengo vacantes los martes y jueves por la tarde este mes.",
+      "Traiga la piedra y cualquier foto de inspiración: tableros de Pinterest, capturas de pantalla, cualquier cosa que ayude. Las consultas duran aproximadamente una hora y no hay compromiso.",
+      "A partir de ahí, el proceso suele ser: boceto, modelo 3D, revisiones y luego de 3 a 4 semanas de producción. ¿Quieres que reserve un momento para ti?"
+    ],
+    "highlightText": "boceto, modelo 3D, revisiones, luego 3-4 semanas en producción",
+    "tooltipFeatures": [
+      "Conoce su proceso y cronograma",
+      "Borradores en tu voz",
+      "Incluye detalles de la consulta automáticamente.",
+      "Aprende con el tiempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "¿Dónde estamos con el anillo de compromiso de Amanda?",
+    "agentResponse": "Amanda aprobó el modelo 3D (v2) el 14 de febrero. Usted confirmó el inicio de la producción el 16 de febrero con una estimación de 3 semanas. Eso sitúa la finalización alrededor del 9 de marzo. Su último correo electrónico preguntaba sobre las opciones de grabado; aún no ha recibido respuesta. ¿Quieres que redacte una respuesta?",
+    "followUp": "Redactar una actualización de la línea de tiempo para James sobre las alianzas de boda.",
+    "followUpResponse": "¡Listo! Redacté una respuesta a James confirmando que sus alianzas de boda a juego están en el último pulido y estarán listas para ser recogidas el viernes 7 de marzo, mucho antes de su boda el 18 de mayo. Listo para revisar y enviar."
+  },
+  "testimonialsTitle": "Amado por los diseñadores de joyas.",
+  "testimonials": [
+    {
+      "name": "marco r.",
+      "title": "Diseñador de joyería personalizada, Los Ángeles",
+      "quote": "Cada pieza personalizada genera entre 10 y 15 correos electrónicos a lo largo de semanas. Multiplique eso por 8 clientes activos y me estaba ahogando. Duet redacta borradores de respuestas a actualizaciones de diseño, confirmaciones de consultas, respuestas al cronograma, todo en mi voz. Reviso entre castings y presiono enviar.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "sara l.",
+      "title": "Propietario del estudio y orfebre, Brooklyn",
+      "quote": "Perdí una comisión de $7,000 por un anillo de compromiso porque tardé 3 días en responder; la pareja acudió a alguien que respondió en 2 horas. Desde Duet, mi tiempo de respuesta es inferior a 30 minutos. Eso no ha vuelto a suceder.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "danny k.",
+      "title": "Joyero de banco, Chicago",
+      "quote": "Estoy en el banquillo 8 horas al día con una linterna en la mano. No puedo detenerme a mitad de la soldadura para escribir una respuesta a la consulta. Duet redacta todo mientras trabajo: miro mi teléfono, lo apruebo y listo.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "alessia m.",
+      "title": "Diseñador de joyería nupcial, Austin",
+      "quote": "Durante la temporada de compromiso recibo más de 20 solicitudes de consulta por semana. Duet aprendió todo mi proceso: materiales, cronogramas, niveles de precios, qué llevar. Redacta respuestas que apenas necesito editar. Absoluto salvavidas de noviembre a febrero.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "nina c.",
+      "title": "Especialista en anillos personalizados, Portland",
+      "quote": "Los correos electrónicos de revisión 3D solían comerme las noches. El cliente envía comentarios, redacto la actualización, de ida y vuelta cinco veces. Ahora Duet maneja las respuestas de rutina y yo solo intervengo para las decisiones de diseño. Recuperé mis noches.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Pasa tus días creando joyas,\nNo responder correos electrónicos al respecto.",
+  "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "¿Puede Duet manejar correos electrónicos con fotografías de referencia y archivos adjuntos de diseño?",
+      "answer": "Sí. Duet ve el hilo de correo electrónico completo, incluidos los archivos adjuntos, por lo que comprende el contexto cuando un cliente envía fotos de inspiración o comentarios sobre el diseño. No describirá las imágenes, pero sabe que un cliente acaba de enviar fotografías de referencia y redacta una respuesta adecuada: confirmando la recepción, haciendo preguntas aclaratorias sobre el diseño o proporcionando los siguientes pasos según su flujo de trabajo habitual."
+    },
+    {
+      "question": "Mis proyectos personalizados tienen largos hilos de correo electrónico con más de 10 mensajes. ¿Puede Duet seguirlos?",
+      "answer": "Ahí es exactamente donde brilla Duet. Lee todo el historial del hilo (notas de consulta, revisiones de diseño, elecciones de materiales, actualizaciones del cronograma) para que cada respuesta redactada tenga un contexto completo. Cuando un cliente pregunta \"¿cuál es el estado de mi anillo?\" en el correo electrónico n.º 14, Duet sabe qué anillo, en qué etapa se encuentra y redacta una actualización precisa. No más releer usted mismo 3 meses de correos electrónicos."
+    }
+  ],
+  "pricingNote": "A $5,000 por pieza, una comisión ahorrada paga más de cuatro años de Pro."
+}

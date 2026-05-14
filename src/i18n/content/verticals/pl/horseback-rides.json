@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail dla przejażdżek konnych i przewodników po szlakach | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga operatorom przejażdżek na szlakach natychmiastowo odpowiadać na e-maile dotyczące rezerwacji – nawet z siodełka. Odpowiedzi opracowane przez sztuczną inteligencję zawierające ceny, wymagania pasażerów i głos.",
+  "heroBadge": "Zaufani przez przewodników po szlakach 300+",
+  "heroHeadline": "Twój asystent e-mail, gdy jesteś na szlaku",
+  "heroSubline": "Duet poznaje rodzaje Twoich przejazdów, ceny, wymagania rowerzystów i warunki na szlakach, a następnie przygotowuje odpowiedzi e-mailowe, dzięki czemu nigdy nie stracisz rezerwacji z powodu powolnej odpowiedzi.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Rezerwacja grupowa na 6 — sobota rano?",
+      "preview": "Cześć! Jesteśmy rodziną 6 (dorośli 2, dzieci 4 w wieku 8-14) i chcielibyśmy zarezerwować przejażdżkę szlakiem w tę sobotę rano. Czy masz dostępność? Jaka jest cena za osobę?",
+      "pill": "Aby odpowiedzieć",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Pytanie dotyczące limitu wagi",
+      "preview": "Hej, jestem zainteresowany rezerwacją przejazdu, ale najpierw chcę zapytać o Twoje wymagania dotyczące wagi. Ważę około 260 funtów — czy to będzie problem...",
+      "pill": "Pytanie",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Przejażdżka o zachodzie słońca z okazji rocznicy?",
+      "preview": "W przyszły weekend świętujemy 0. rocznicę 1X i widzieliśmy Twoją przejażdżkę o zachodzie słońca na Instagramie. Czy jest dostępny w piątek wieczorem? Jakieś specjalne pakiety...",
+      "pill": "Rezerwacja",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nowa recenzja Twojego wpisu",
+      "preview": "Podróżny niedawno ocenił Twoją firmę. Zobacz, co mieli do powiedzenia i odpowiedz...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Jessico! Sobotni poranek jest otwarty dla 6. Nasze przejażdżki szlakami to $100/person i trwają około 90 minut przez dolinę. Dzieci 8+ są mile widziane — wszystkie są gotowe do wyjścia. Wymagane buty z zakrytymi palcami, zapewniamy kaski. Chcesz, żebym Cię zarezerwował na przejażdżkę 9 AM?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "przejazd",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Jeden zaoszczędzony przejazd grupowy płaci za ponad dwa lata Duet."
+  },
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się prośby o rezerwację, w drugiej kolejności pytania pasażerów, a hałas nigdy. Nigdy więcej nie przegapisz zapytania grupowego ukrytego pod alertami serwisu TripAdvisor.",
+  "draftSubtitle": "Duet poznaje rodzaje Twoich przejazdów, ceny i wymagania. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź zawierającą szczegóły szlaku, ceny i w co się ubrać. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Czy są wolne przejazdy w ten weekend?” „Napisz odpowiedź dla Jessiki z dostępnością w sobotę”. Duet zna Twoją skrzynkę odbiorczą i kalendarz — po prostu zapytaj.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Rezerwacja grupowa na 6 — sobota rano?",
+      "preview": "Jesteśmy rodziną 6, która chce zarezerwować przejażdżkę szlakiem...",
+      "pill": "Odpowiedz teraz",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Potwierdzono przejażdżkę o zachodzie słońca — piątek 5:30 PM",
+      "pill": "Zarezerwowano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Limit wagi i wymagania dotyczące doświadczenia?",
+      "pill": "Pytanie",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Twoje cotygodniowe podsumowanie rezerwacji",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tractor Supply",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Wiosenna wyprzedaż — 15% poza paszą i halsem",
+      "pill": "Promocje",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Rezerwacja grupowa na 6 — sobotni poranek?",
+    "originalFrom": "Jessica T. wrote:",
+    "originalText": "Cześć! Jesteśmy rodziną 6 (dorośli 2, dzieci 4 w wieku 8-14) i chcielibyśmy zarezerwować przejażdżkę szlakiem w tę sobotę rano. Czy masz dostępność? Jaka jest cena za osobę?",
+    "lines": [
+      "Hej Jessiko!",
+      "Sobotni poranek jest szeroko otwarty dla 6. Przejażdżki szlakiem to $100/person i trwają około 90 minut przez dolinę. Dzieci w wieku 8 i starsze są mile widziane, więc cała załoga jest gotowa do pracy.",
+      "Wymagane są buty z zakrytymi palcami – najlepsze są botki. Zapewniamy kaski i dopasowujemy każdego jeźdźca do konia na podstawie rozmiaru i doświadczenia. Nie jest wymagane żadne wcześniejsze doświadczenie w jeździe konnej.",
+      "Chcesz, żebym cię zamknął na przejażdżkę 9 AM?"
+    ],
+    "highlightText": "Sobotni poranek jest szeroko otwarty dla 6. Przejażdżki szlakiem to $100/person",
+    "tooltipFeatures": [
+      "Zna ceny i dostępność",
+      "Wersje robocze w Twoim głosie",
+      "Automatycznie uwzględnia wymagania dotyczące pasażerów",
+      "Uczy się z czasem"
+    ]
+  },
+  "agent": {
+    "userMessage": "Jakieś przejażdżki są otwarte w ten weekend? A jaka jest pogoda?",
+    "agentResponse": "Na podstawie Twojego kalendarza masz wolne miejsca w sobotę o 9 AM i 2 PM oraz w niedzielę o 10 AM. Prognoza na sobotę to 72°F i słonecznie — idealna pogoda do jazdy. Niedziela pokazuje 40% szansę na popołudniowy deszcz, więc poranny mecz jest bezpieczniejszym wyborem. Czy chcesz, abym przygotował odpowiedzi na wszelkie oczekujące zapytania w podanych terminach?",
+    "followUp": "Przygotuj odpowiedź dla Jessiki z informacją o dostępności w sobotę",
+    "followUpResponse": "Gotowe! Napisałem odpowiedź do Jessiki, potwierdzając sobotę w 9 AM dla jeźdźców 6 w $100/person. Obejmuje standardowe wymagania dotyczące rowerzystów i strój. Gotowe do przejrzenia i wysłania."
+  },
+  "testimonialsTitle": "Uwielbiany przez operatorów przejażdżek szlakami",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Właściciel rancza i przewodnik po szlakach, MT",
+      "quote": "Jestem na szlaku 6 godzin dziennie bez zasięgu sieci komórkowej. Zanim wróciłem, żeby odpowiedzieć, połowa osób zarezerwowała miejsce gdzie indziej. Teraz Duet przygotowuje odpowiedzi zawierające moje ceny i szczegóły przejazdu — po prostu je przeglądam i wysyłam, gdy wracam do stodoły.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Organizator wycieczek konnych, AZ",
+      "quote": "Otrzymujemy dziesiątki e-maili z pytaniami o to samo – ograniczenia wagowe, w co się ubrać, wymagania wiekowe. Duet radzi sobie z tym wszystkim, a odpowiedzi brzmią dokładnie tak jak ja. Moi goście nie mają pojęcia, że ​​to sztuczna inteligencja.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Przewodnik po szlakach, Kolorado",
+      "quote": "Szczyt sezonu mnie dobijał. 30+ wysyła e-maile dziennie oprócz przejażdżek biegowych. Duet sortuje prośby o rezerwację na podstawie szumu i przygotowuje odpowiedzi zawierające wszystko – cenę, co zabrać ze sobą, ilość. Odzyskałem wieczory.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Instruktor jazdy konnej i kierownik rezerwacji, Teksas",
+      "quote": "Organizujemy przejażdżki o zachodzie słońca, przejażdżki poranne i prywatne lekcje — każde z innymi cenami i wymaganiami. Duet nauczył się tego wszystkiego w ciągu tygodnia. Za każdym razem przygotowuje właściwą odpowiedź dla odpowiedniego rodzaju jazdy.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Rodzinne ranczo i przejażdżki szlakami, Kalifornia",
+      "quote": "Najbardziej wrażliwe były e-maile — ktoś pytał, czy są za ciężkie lub czy ich dziecko jest już wystarczająco duże. Duet traktuje je z taką samą ostrożnością, jak ja. Profesjonalna, miła i dokładna. Tylko to jest tego warte.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Spędź dzień z końmi,\nnie w Twojej skrzynce odbiorczej.",
+  "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "W jaki sposób Duet radzi sobie z wrażliwymi pytaniami dotyczącymi wymagań dotyczących wagi lub doświadczenia?",
+      "answer": "Duet uczy się Twoich konkretnych zasad i odzwierciedla Twój ton. Gdy ktoś pyta o limity wagowe lub wymagania dotyczące doświadczenia, odpowiada profesjonalnie i ciepło, dzieląc się potrzebnymi informacjami, nie czyniąc tego niezręcznym. Raz nadajesz ton, a Duet konsekwentnie go przestrzega, dzięki czemu każdy gość czuje się szanowany."
+    },
+    {
+      "question": "Czy Duet może obsługiwać rezerwacje grupowe o różnych potrzebach pasażerów?",
+      "answer": "Tak. Duet uczy się typów przejazdów, wielkości grup, minimalnego wieku i wszelkich wymagań specyficznych dla rowerzystów. Kiedy rodzina lub grupa wysyła e-mail w sprawie rezerwacji, przygotowuje odpowiedź zawierającą ceny dla całej grupy, informacje dla każdego pasażera oraz dostępne przedziały czasowe. Przeglądasz i wysyłasz — bez konieczności przesyłania danych tam i z powrotem."
+    }
+  ],
+  "pricingNote": "W $100/person dla grupy 6, jeden zaoszczędzony przejazd płaci za ponad dwa lata Pro."
+}

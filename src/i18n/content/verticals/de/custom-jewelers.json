@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail für individuelle Juweliere | KI-E-Mail-Assistent",
+  "metaDescription": "Duet Mail hilft kundenspezifischen Juwelieren, sofort auf Beratungsanfragen, Designgenehmigungen und Fragen zum Zeitplan zu reagieren – sogar von der Werkbank aus. Von KI erstellte Antworten mit Ihrem Prozess, Ihrer Preisgestaltung und Ihrer Stimme.",
+  "heroBadge": "Mehr als 300 Schmuckdesigner vertrauen darauf",
+  "heroHeadline": "Ihr E-Mail-Assistent, während Sie an der Bank sitzen",
+  "heroSubline": "Duet lernt Ihren Designprozess, Ihre Materialien, Preise und Zeitpläne kennen und erstellt dann E-Mail-Antwortentwürfe, damit Sie nie einen benutzerdefinierten Kunden aufgrund einer langsamen Antwort verlieren.",
+  "inboxEmails": [
+    {
+      "from": "Rachel und David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Individuelle Verlobungsringberatung?",
+      "preview": "Hallo! Mein Partner und ich sind an einem individuellen Verlobungsring interessiert. Wir haben einen Diamanten als Familienerbstück, den wir gerne verwenden würden. Haben Sie diesen Monat Zeit für eine Beratung?",
+      "pill": "Um zu antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Betreff: 3D-Modell – können wir die Einstellung anpassen?",
+      "preview": "Ich liebe das Gesamtdesign! Aber könnten wir es mit einem niedrigeren Profil bei der Einstellung versuchen? Ich habe ein Foto des Stils angehängt, an den ich denke. Würde sich durch den Wechsel zu Platin auch der Zeitplan ändern...",
+      "pill": "Überarbeitung",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Zeitleisten-Update zu Eheringen?",
+      "preview": "Hey! Schauen Sie sich gerade unsere passenden Eheringe an. Die Hochzeit findet am 18. Mai statt und ich möchte sicherstellen, dass wir weiterhin auf dem richtigen Weg sind. Können Sie uns ein kurzes Update senden?",
+      "pill": "Status",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Der Knoten",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Neue Rezension in Ihrem Shop",
+      "preview": "Ein Paar hat kürzlich Ihr Unternehmen auf The Knot bewertet. Sehen Sie, was sie zu sagen und zu antworten hatten...",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hallo Rachel! Gerne helfe ich Ihnen dabei, einen Ring rund um Ihren Familiendiamanten zu entwerfen – das ist eine meiner Lieblingsbeschäftigungen. Ich habe diesen Monat am Dienstag- und Donnerstagnachmittag freie Plätze. Bringen Sie den Stein und eventuelle Inspirationsfotos mit. Die Beratungen dauern etwa eine Stunde und sind unverbindlich. Soll ich einen Termin für Sie vereinbaren?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "individuelles Stück",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Ein gesparter Kunde zahlt für mehr als vier Jahre Duet."
+  },
+  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst neue Beratungsanfragen, dann Designgenehmigungen und nie Lieferanten-Newsletter sehen. Sie verpassen keine 5.000-Dollar-Anfrage mehr, die unter Lieferantenangeboten versteckt ist.",
+  "draftSubtitle": "Duet lernt Ihren Prozess, Ihre Materialien, Preise und Ihre Stimme. Wenn eine Beratungsanfrage eingeht, wird eine vollständige Antwort mit Ihrer Verfügbarkeit, den mitzubringenden Inhalten und der Funktionsweise Ihres Prozesses erstellt. Sie überprüfen und senden.",
+  "agentSubtitle": "„Wo sind wir mit Amandas Ring?“ „Entwerfen Sie ein Zeitplan-Update für James.” Duet kennt jeden Client-Thread – fragen Sie einfach nach.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Individuelle Verlobungsringberatung?",
+      "preview": "Mein Partner und ich sind an einem individuellen Ring interessiert...",
+      "pill": "Neue Anfrage",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Betreff: 3D-Modell v2 – sieht perfekt aus!",
+      "pill": "Designgenehmigung",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Die Bands sind bereit – wann können wir loslegen?",
+      "pill": "Bereit zur Abholung",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Betreff: Nachbereitung der Beratung – ich liebe die Skizzen",
+      "pill": "Beratung",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande-Versorgung",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Frühlingsschlussverkauf – 15 % Rabatt auf Platinfunde",
+      "pill": "Anbieter/Lieferant",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Betreff: Individuelle Verlobungsringberatung?",
+    "originalFrom": "Rachel T. schrieb:",
+    "originalText": "Hallo! Mein Partner und ich sind an einem individuellen Verlobungsring interessiert. Wir haben einen Diamanten als Familienerbstück, den wir gerne verwenden würden. Haben Sie diesen Monat Zeit für eine Beratung?",
+    "lines": [
+      "Hallo Rachel!",
+      "Gerne helfe ich Ihnen dabei, etwas Besonderes rund um Ihren Familiendiamanten zu entwerfen. Ich habe diesen Monat am Dienstag- und Donnerstagnachmittag freie Plätze.",
+      "Bringen Sie den Stein und alle Inspirationsfotos mit – Pinterest-Boards, Screenshots, alles hilft. Die Beratungen dauern etwa eine Stunde und sind unverbindlich.",
+      "Von da an dauert der Prozess normalerweise: Skizze, 3D-Modell, Überarbeitungen, dann 3–4 Wochen in der Produktion. Soll ich einen Termin für Sie vereinbaren?"
+    ],
+    "highlightText": "Skizze, 3D-Modell, Überarbeitungen, dann 3-4 Wochen in der Produktion",
+    "tooltipFeatures": [
+      "Kennt Ihren Prozess und Zeitplan",
+      "Entwürfe in deiner Stimme",
+      "Beinhaltet automatisch Beratungsdetails",
+      "Lernt mit der Zeit"
+    ]
+  },
+  "agent": {
+    "userMessage": "Wo sind wir mit Amandas Verlobungsring?",
+    "agentResponse": "Amanda hat das 3D-Modell (v2) am 14. Februar genehmigt. Sie haben den Produktionsstart am 16. Februar mit einer Schätzung von drei Wochen bestätigt. Das bedeutet, dass die Fertigstellung etwa am 9. März erfolgen wird. In ihrer letzten E-Mail fragte sie nach Gravuroptionen – sie wurde noch immer nicht beantwortet. Soll ich eine Antwort verfassen?",
+    "followUp": "Entwerfen Sie für James ein Zeitplan-Update zu den Eheringen",
+    "followUpResponse": "Fertig! Ich habe eine Antwort an James verfasst, in der ich bestätige, dass seine passenden Eheringe im letzten Schliff sind und bis Freitag, den 7. März, zur Abholung bereitstehen – lange vor seiner Hochzeit am 18. Mai. Bereit zum Überprüfen und Senden."
+  },
+  "testimonialsTitle": "Von Schmuckdesignern geliebt",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Individueller Schmuckdesigner, LA",
+      "quote": "Jedes individuelle Stück generiert im Laufe der Wochen 10–15 E-Mails. Multiplizieren Sie das mit 8 aktiven Kunden und ich bin untergegangen. Duet entwirft Design-Update-Antworten, Konsultationsbestätigungen, Zeitplanantworten – alles in meiner Stimme. Ich überprüfe zwischen den Castings und drücke auf „Senden“.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Goldschmied und Studiobesitzer, Brooklyn",
+      "quote": "Ich habe eine Verlobungsringprovision in Höhe von 7.000 US-Dollar verloren, weil ich drei Tage brauchte, um zu antworten – das Paar ging zu jemandem, der innerhalb von zwei Stunden antwortete. Seit Duet beträgt meine Antwortzeit weniger als 30 Minuten. Das ist nicht noch einmal passiert.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Bench Juwelier, Chicago",
+      "quote": "Ich sitze 8 Stunden am Tag mit einer Taschenlampe in der Hand auf der Bank. Ich kann mitten im Löten nicht aufhören, eine Beratungsantwort zu tippen. Duet entwirft alles, während ich arbeite – ich schaue auf mein Telefon, genehmige, fertig.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Brautschmuckdesigner, Austin",
+      "quote": "Während der Verlobungssaison erhalte ich mehr als 20 Beratungsanfragen pro Woche. Duet habe meinen gesamten Prozess kennengelernt – Materialien, Zeitpläne, Preisstufen, was ich mitbringen sollte. Es werden Antworten entworfen, die ich kaum bearbeiten muss. Absoluter Lebensretter von November bis Februar.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Spezialist für individuelle Ringe, Portland",
+      "quote": "Die 3D-Revisions-E-Mails haben meine Abende verschlungen. Der Kunde sendet Feedback, ich entwerfe das Update, fünfmal hin und her. Jetzt kümmert sich Duet um die Routineantworten und ich greife nur noch bei den Designentscheidungen ein. Ich habe meine Nächte zurückbekommen.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Verbringen Sie Ihre Tage mit der Herstellung von Schmuck,\nIch beantworte keine E-Mails darüber.",
+  "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
+  "verticalFaqs": [
+    {
+      "question": "Kann Duet E-Mails mit Referenzfotos und Designanhängen verarbeiten?",
+      "answer": "Ja. Duet sieht den vollständigen E-Mail-Thread einschließlich der Anhänge und versteht so den Kontext, wenn ein Kunde Inspirationsfotos oder Design-Feedback sendet. Die Bilder werden nicht beschrieben, aber es weiß, dass ein Kunde gerade Referenzfotos gesendet hat, und entwirft eine entsprechende Antwort – indem er den Empfang bestätigt, klärende Fragen zum Design stellt oder die nächsten Schritte basierend auf Ihrem üblichen Arbeitsablauf bereitstellt."
+    },
+    {
+      "question": "Meine benutzerdefinierten Projekte haben lange E-Mail-Threads mit mehr als 10 Nachrichten. Kann Duet diesen folgen?",
+      "answer": "Genau da glänzt Duet. Es liest den gesamten Thread-Verlauf – Konsultationsnotizen, Designüberarbeitungen, Materialauswahl, Zeitleistenaktualisierungen –, sodass jede verfasste Antwort den vollständigen Kontext hat. Wenn ein Kunde fragt: „Wie ist der Status meines Rings?“ In E-Mail Nr. 14 weiß Duet, um welchen Ring es sich handelt, in welcher Phase er sich befindet, und erstellt ein genaues Update. Sie müssen die E-Mails von drei Monaten nicht mehr selbst noch einmal lesen."
+    }
+  ],
+  "pricingNote": "Bei 5.000 $/Stück reicht eine gesparte Provision für mehr als vier Jahre Pro."
+}

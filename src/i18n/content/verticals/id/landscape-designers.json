@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail untuk Desainer Lansekap |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu desainer lanskap merespons email klien secara instan — bahkan dari lapangan.  AI -Balasan yang disusun dengan detail proyek, harga, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 300+ desainer lanskap",
+  "heroHeadline": "Asisten email Anda saat Anda berada di lapangan",
+  "heroSubline": "Duet mempelajari detail proyek Anda, palet tanaman, harga, dan proses — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien karena respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Desain ulang halaman belakang — gratis untuk konsultasi?",
+      "preview": "Hai! Kami baru saja membeli rumah di Westlake dan halaman belakangnya kosong. Kami ingin desain ulang penuh dengan penanaman asli dan teras. Apakah Anda menerima klien baru?",
+      "pill": "Untuk Menanggapi",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Spesifikasi irigasi untuk proyek Miller?",
+      "preview": "Hei, kami siap untuk mulai menggali parit pada hari Senin. Bisakah Anda mengirimkan tata letak irigasi dan spesifikasi kepala sehingga kami dapat memesan bahan minggu ini?",
+      "pill": "Kontraktor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Pertanyaan singkat tentang pemilihan tanaman",
+      "preview": "Kami menyukai desainnya! Hanya ingin tahu — bisakah kita menukar maple Jepang dengan sesuatu yang lebih berwarna musim gugur? Selain di atas, apakah lavendernya tahan terhadap rusa?",
+      "pill": "Klien",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Pembibitan Pemandangan Lembah",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Pesanan #4821 siap diambil",
+      "preview": "Pesanan semak 24 galon Anda, 6 pohon spesimen, dan flat penutup tanah sudah siap. Penjemputan tersedia Senin–Sabtu pukul 07.00–16.00...",
+      "pill": "Pemasok",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Rachel! Saya ingin membantu mengurus halaman belakang rumah Anda. Saat ini saya sedang memesan konsultasi awal 2-3 minggu ke depan. Kunjungan pertama adalah penilaian di lokasi selama 90 menit — Saya akan berjalan-jalan di properti, melakukan pengukuran, dan mendiskusikan visi Anda. Dari sana saya menyusun rencana konsep. Ingin saya memasukkan Anda ke dalam kalender?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "project",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Satu proyek yang disimpan membayar Duet selama bertahun-tahun."
+  },
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan konsultasi baru terlebih dahulu, persetujuan klien kedua, dan tidak ada kebisingan pemasok. Tidak ada lagi petunjuk yang hilang yang terkubur di bawah konfirmasi pesanan pembibitan.",
+  "draftSubtitle": "Duet mempelajari harga, proses, dan nada Anda. Ketika permintaan konsultasi diterima, ia akan menyusun balasan lengkap dengan ketersediaan Anda, apa yang diharapkan, dan langkah selanjutnya. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Bagaimana timeline proyek Henderson?\" \"Klien mana yang menunggu persetujuan rencana?\" Duet mengetahui inbox dan proyek Anda — tanyakan saja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Desain ulang halaman belakang — gratis untuk konsultasi?",
+      "preview": "Kami baru saja membeli rumah dan halaman belakangnya kosong...",
+      "pill": "Pertanyaan Baru",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Perihal: Desain akhir — kami siap menyetujuinya!",
+      "pill": "Persetujuan Klien",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Spesifikasi irigasi untuk proyek Miller?",
+      "pill": "Kontraktor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Pembibitan Pemandangan Lembah",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Pesanan #4821 siap diambil",
+      "pill": "Pemasok",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Buku Cepat",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Faktur #1047 dilihat oleh klien",
+      "pill": "Faktur",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Perihal: Desain ulang halaman belakang — gratis untuk konsultasi?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Kami baru saja membeli rumah di Westlake dan halaman belakangnya kosong. Kami ingin desain ulang penuh dengan penanaman asli dan teras. Apakah Anda menerima klien baru?",
+    "lines": [
+      "Hai Rachel!",
+      "Selamat atas rumah barunya - halaman belakang kosong sejujurnya adalah proyek impian. Saya benar-benar menerima klien baru.",
+      "Proses saya dimulai dengan konsultasi di lokasi selama 90 menit di mana saya berjalan di properti, melakukan pengukuran, dan membicarakan tujuan Anda. Dari sana saya mengembangkan rencana konsep dengan desain penanaman, tata letak hardscape, dan anggaran bertahap.",
+      "Saya memiliki lowongan dalam 2-3 minggu ke depan. Ingin saya mengirimkan beberapa tanggal yang tersedia?"
+    ],
+    "highlightText": "Proses saya dimulai dengan konsultasi di tempat selama 90 menit",
+    "tooltipFeatures": [
+      "Mengetahui proses & harga desain Anda",
+      "Draf dalam suara Anda",
+      "Termasuk detail konsultasi secara otomatis",
+      "Belajar seiring berjalannya waktu"
+    ]
+  },
+  "agent": {
+    "userMessage": "Klien mana yang masih menunggu persetujuan rencana?",
+    "agentResponse": "Berdasarkan email terbaru Anda, dua klien sedang menunggu persetujuan: Jennifer & Mark L. (desain ulang halaman belakang — mengirimkan rencana akhir 4 hari yang lalu, belum ada balasan) dan Cohens (konversi asli halaman depan — mengirimkan rencana yang direvisi minggu lalu). Ingin saya menyusun tindak lanjut yang lembut?",
+    "followUp": "Draf tindak lanjut Jennifer tentang persetujuan rencana",
+    "followUpResponse": "Selesai! Saya menyusun check-in ramah untuk Jennifer menanyakan apakah dia dan Mark memiliki kesempatan untuk meninjau rencana akhir, dan mengingatkannya bahwa Anda dapat menelepon sebentar untuk meninjau pemilihan tanaman. Siap untuk meninjau dan mengirim."
+  },
+  "testimonialsTitle": "Dicintai oleh desainer lanskap",
+  "testimonials": [
+    {
+      "name": "michael s.",
+      "title": "Arsitek Lansekap, Austin TX",
+      "quote": "Selama musim semi saya berada di lokasi 8 jam sehari melakukan penilaian dan melakukan pengawasan. Permintaan konsultasi baru akan memakan waktu berhari-hari. Sekarang Duet membalas dengan proses dan ketersediaan saya dalam hitungan menit. Saya telah memesan 3 proyek yang pasti saya akan hilang.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Desainer Taman, Portland OR",
+      "quote": "Koordinasi antara kru hardscape, pemasang irigasi, dan klien menghasilkan jumlah email yang tidak masuk akal. Duet mengurutkan semuanya dan menyusun balasan yang menyertakan detail proyek yang tepat. Ini seperti memiliki manajer studio.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Pemilik Studio Desain Lansekap, Denver CO",
+      "quote": "Saya biasa menghabiskan setiap malam setelah kerja lapangan untuk membaca email. Pertanyaan yang sama — harga, proses, garis waktu. Duet menangani semuanya. Waktu respons saya berubah dari hari ke menit dan tingkat penutupan saya meningkat.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Desainer Lansekap Perumahan, Scottsdale AZ",
+      "quote": "Klien saya mengajukan banyak pertanyaan tentang pemilihan dan pemeliharaan tanaman. Duet mempelajari palet tanaman dan instruksi perawatan serta draf balasan yang hampir tidak perlu saya edit. Klien menganggap saya sangat responsif.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Desainer Lansekap Tanaman Asli, Raleigh NC",
+      "quote": "Saya kehilangan klien baru karena saya tidak dapat membalas ketika saya sedang melakukan instalasi penanaman. Duet menyusun tanggapan konsultasi dengan proses saya yang sebenarnya, harga, dan apa yang diharapkan. Itu terbayar sendiri pada minggu pertama.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Habiskan hari-hari Anda menciptakan lanskap,\ntidak mengejar email.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
+  "verticalFaqs": [
+    {
+      "question": "Bisakah Duet mengatasi kesibukan musim semi ketika permintaan konsultasi menumpuk?",
+      "answer": "Saat itulah Duet bersinar. Selama musim tersibuk Anda, setiap pertanyaan baru akan mendapat balasan yang cepat dan terperinci beserta proses, jadwal, dan ketersediaan Anda — bahkan saat Anda berada di lokasi sepanjang hari. Tidak ada lagi kehilangan prospek musim semi karena Anda tidak dapat mengaksesnya kembali hingga jam 9 malam."
+    },
+    {
+      "question": "Saya berkoordinasi dengan beberapa kru luar ruangan. Apakah Duet membantu dalam hal itu?",
+      "answer": "Ya. Duet mempelajari proyek Anda dan kontraktor yang terlibat — hardscape, irigasi, kru penanaman, pembibitan. Ini mengkategorikan email kontraktor secara terpisah dari email klien, dan dapat menyusun balasan dengan detail spesifik proyek seperti spesifikasi, jadwal, dan material. Anda tetap mengetahui setiap kru tanpa kekacauan inbox."
+    }
+  ],
+  "pricingNote": "Dengan $8.000/proyek, satu klien yang disimpan membayar Pro selama bertahun-tahun."
+}

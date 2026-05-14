@@ -6,15 +6,62 @@ type AgentData = {
     followUpResponse?: string;
 };
 
+type AgentChatShowcaseContent = {
+    ariaLabel: string;
+    badge: string;
+    title: string;
+    subtitle: string;
+    windowTitle: string;
+    onlineLabel: string;
+    initialUserMessage: string;
+    processingText: string;
+    foundHeader: string;
+    foundBody: string;
+    attachment: {
+        fileName: string;
+        fileSize: string;
+    };
+    suggestions: Array<{
+        action: string;
+        label: string;
+    }>;
+    inputPlaceholder: string;
+    dynamicResponses: {
+        processingDefault: string;
+        processingDraft: string;
+        processingCalendar: string;
+        draftIntro: string;
+        draftHeader: string;
+        draftLines: string[];
+        draftActions: string[];
+        calendarIntro: string;
+        calendarSlots: Array<{
+            time: string;
+            duration: string;
+        }>;
+        followUps: {
+            draftAfterCalendar: string;
+            calendarAfterDraft: string;
+        };
+    };
+};
+
 type Props = {
+    agentChatShowcase: AgentChatShowcaseContent;
     agent?: AgentData;
     agentSubtitle?: string;
 };
 
-const { agent, agentSubtitle } = Astro.props;
+const { agentChatShowcase, agent, agentSubtitle } = Astro.props;
+const subtitle = agentSubtitle ?? agentChatShowcase.subtitle;
+const agentCopyJson = JSON.stringify({
+    suggestions: agentChatShowcase.suggestions,
+    dynamicResponses: agentChatShowcase.dynamicResponses,
+}).replace(/</g, "\\u003c");
 ---
 
-<section id="intelligence" class="agent-showcase" aria-label="AI email intelligence and assistant" data-agent-section>
+<section id="intelligence" class="agent-showcase" aria-label={agentChatShowcase.ariaLabel} data-agent-section>
+    <script type="application/json" data-agent-copy is:inline set:html={agentCopyJson}></script>
     <div class="agent-container">
         <header class="agent-header">
             <div class="feature-badge">
@@ -26,11 +73,11 @@ const { agent, agentSubtitle } = Astro.props;
                         <circle cx="15" cy="10" r="0.5" fill="currentColor" stroke="none"></circle>
                     </svg>
                 </div>
-                <span class="badge-text">Intelligence</span>
+                <span class="badge-text">{agentChatShowcase.badge}</span>
             </div>
-            <h2 class="agent-title">Ask anything about your email</h2>
+            <h2 class="agent-title">{agentChatShowcase.title}</h2>
             <p class="agent-subtitle">
-                {agentSubtitle || "Ask Duet to find emails, check your calendar, or draft a reply. It understands your inbox and answers instantly."}
+                {subtitle}
             </p>
         </header>
 
@@ -46,10 +93,10 @@ const { agent, agentSubtitle } = Astro.props;
                             <span class="dot dot-green"></span>
                         </div>
                         <div class="agent-info">
-                            <span class="agent-name">Duet Agent</span>
+                            <span class="agent-name">{agentChatShowcase.windowTitle}</span>
                             <span class="agent-state">
                                 <span class="state-dot"></span>
-                                Online
+                                {agentChatShowcase.onlineLabel}
                             </span>
                         </div>
                         <div class="header-spacer"></div>
@@ -58,13 +105,13 @@ const { agent, agentSubtitle } = Astro.props;
                     <div class="chat-body">
                         <div class="message user-message">
                             <div class="message-content">
-                                {agent ? agent.userMessage : "Can you find the Stripe invoice sent by Accounting?"}
+                                {agent ? agent.userMessage : agentChatShowcase.initialUserMessage}
                             </div>
                         </div>
 
                         <div class="processing-state">
                             <div class="processing-line"></div>
-                            <span class="processing-text">Searching inbox...</span>
+                            <span class="processing-text">{agentChatShowcase.processingText}</span>
                         </div>
 
                         <div class="message agent-message">
@@ -89,10 +136,10 @@ const { agent, agentSubtitle } = Astro.props;
                                             >
                                                 <polyline points="20 6 9 17 4 12"></polyline>
                                             </svg>
-                                            <span class="typing-text typing-line-1">Found 2 emails from Stripe</span>
+                                            <span class="typing-text typing-line-1">{agentChatShowcase.foundHeader}</span>
                                         </div>
                                         <p>
-                                            <span class="typing-text typing-line-2">I found the receipt for <strong>$29.00 USD</strong> from Oct 24th.</span>
+                                            <span class="typing-text typing-line-2">{agentChatShowcase.foundBody}</span>
                                         </p>
                                         <div class="attachment-card">
                                             <div class="file-icon">
@@ -105,8 +152,8 @@ const { agent, agentSubtitle } = Astro.props;
                                                 </svg>
                                             </div>
                                             <div class="file-info">
-                                                <span class="file-name">invoice_oct24.pdf</span>
-                                                <span class="file-size">142 KB</span>
+                                                <span class="file-name">{agentChatShowcase.attachment.fileName}</span>
+                                                <span class="file-size">{agentChatShowcase.attachment.fileSize}</span>
                                             </div>
                                         </div>
                                     </>
@@ -137,13 +184,14 @@ const { agent, agentSubtitle } = Astro.props;
 
                     {!agent && (
                         <div class="suggestions-container">
-                            <button class="suggestion-chip" data-action="draft">Draft a reply</button>
-                            <button class="suggestion-chip" data-action="calendar">Find time to meet</button>
+                            {agentChatShowcase.suggestions.map((suggestion) => (
+                                <button class="suggestion-chip" data-action={suggestion.action}>{suggestion.label}</button>
+                            ))}
                         </div>
                     )}
 
                     <div class="input-area">
-                        <div class="input-placeholder">Ask anything...</div>
+                        <div class="input-placeholder">{agentChatShowcase.inputPlaceholder}</div>
                         <div class="send-btn">
                             <svg
                                 width="16"
@@ -821,6 +869,20 @@ const { agent, agentSubtitle } = Astro.props;
         const suggestionsContainer = section.querySelector(
             ".suggestions-container",
         );
+        const copyScript = section.querySelector(
+            "[data-agent-copy]",
+        ) as HTMLScriptElement | null;
+        const agentCopy = copyScript?.textContent
+            ? JSON.parse(copyScript.textContent)
+            : { suggestions: [], dynamicResponses: {} };
+        const dynamicResponses = agentCopy.dynamicResponses || {};
+        const escapeHtml = (value: string) =>
+            String(value)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#39;");
 
         // Helper to process user action
         const handleUserAction = (
@@ -840,7 +902,7 @@ const { agent, agentSubtitle } = Astro.props;
             // 2. Add User Message
             const userMsg = document.createElement("div");
             userMsg.className = "message user-message";
-            userMsg.innerHTML = `<div class="message-content">${label}</div>`;
+            userMsg.innerHTML = `<div class="message-content">${escapeHtml(label)}</div>`;
             userMsg.style.animationDelay = "0s";
             chatBody.appendChild(userMsg);
             chatBody.scrollTop = chatBody.scrollHeight;
@@ -851,14 +913,17 @@ const { agent, agentSubtitle } = Astro.props;
             processing.style.animation = "none";
             processing.style.opacity = "1";
 
-            let processingText = "Processing...";
-            if (action === "draft") processingText = "Generating draft...";
-            if (action === "calendar")
-                processingText = "Checking availability...";
+            let processingText = dynamicResponses.processingDefault || "";
+            if (action === "draft") {
+                processingText = dynamicResponses.processingDraft || processingText;
+            }
+            if (action === "calendar") {
+                processingText = dynamicResponses.processingCalendar || processingText;
+            }
 
             processing.innerHTML = `
                 <div class="processing-line" style="animation: lineBlink 1s ease-in-out infinite"></div>
-                <span class="processing-text">${processingText}</span>
+                <span class="processing-text">${escapeHtml(processingText)}</span>
             `;
             chatBody.appendChild(processing);
             chatBody.scrollTop = chatBody.scrollHeight;
@@ -873,41 +938,53 @@ const { agent, agentSubtitle } = Astro.props;
                 let responseHTML = "";
 
                 if (action === "draft") {
+                    const draftLines = Array.isArray(dynamicResponses.draftLines)
+                        ? dynamicResponses.draftLines
+                        : [];
+                    const draftActions = Array.isArray(dynamicResponses.draftActions)
+                        ? dynamicResponses.draftActions
+                        : [];
+                    const draftLineHtml = draftLines
+                        .map((line: string, index: number) => {
+                            const className = `typing-text-dynamic typing-dynamic-${Math.min(index + 3, 6)}`;
+                            const lineBreak = index === 0 || index === draftLines.length - 2 ? "<br><br>" : "<br>";
+                            return `<span class="${className}">${escapeHtml(line)}</span>${index === draftLines.length - 1 ? "" : lineBreak}`;
+                        })
+                        .join("");
                     responseHTML = `
                         <div class="message-content">
-                            <p style="margin-bottom: 12px; font-size: 13px;"><span class="typing-text-dynamic typing-dynamic-1">Here's a draft reply to Accounting:</span></p>
+                            <p style="margin-bottom: 12px; font-size: 13px;"><span class="typing-text-dynamic typing-dynamic-1">${escapeHtml(dynamicResponses.draftIntro || "")}</span></p>
                             <div class="draft-preview-card">
-                                <div class="draft-preview-header"><span class="typing-text-dynamic typing-dynamic-2">Draft: accounting@company.com</span></div>
+                                <div class="draft-preview-header"><span class="typing-text-dynamic typing-dynamic-2">${escapeHtml(dynamicResponses.draftHeader || "")}</span></div>
                                 <div class="draft-preview-body">
-                                    <span class="typing-text-dynamic typing-dynamic-3">Hi Team,</span><br><br>
-                                    <span class="typing-text-dynamic typing-dynamic-4">Please find attached the Stripe invoice for October ($29.00).</span><br>
-                                    <span class="typing-text-dynamic typing-dynamic-5">Let me know if you need anything else.</span><br><br>
-                                    <span class="typing-text-dynamic typing-dynamic-6">Best,</span>
+                                    ${draftLineHtml}
                                 </div>
                             </div>
                             <div style="margin-top: 16px; display: flex; gap: 8px;">
-                                <button class="action-btn-primary">Send Email</button>
-                                <button class="action-btn-secondary">Edit</button>
+                                <button class="action-btn-primary">${escapeHtml(draftActions[0] || "")}</button>
+                                <button class="action-btn-secondary">${escapeHtml(draftActions[1] || "")}</button>
                             </div>
                         </div>
                     `;
                 } else if (action === "calendar") {
+                    const calendarSlots = Array.isArray(dynamicResponses.calendarSlots)
+                        ? dynamicResponses.calendarSlots
+                        : [];
+                    const calendarSlotHtml = calendarSlots
+                        .map(
+                            (slot: { time: string; duration: string }) => `
+                                <button class="calendar-slot">
+                                    <span class="slot-time">${escapeHtml(slot.time)}</span>
+                                    <span class="slot-duration">${escapeHtml(slot.duration)}</span>
+                                </button>
+                            `,
+                        )
+                        .join("");
                     responseHTML = `
                         <div class="message-content">
-                            <p style="margin-bottom: 12px; font-size: 13px;"><span class="typing-text-dynamic typing-dynamic-1">You have 3 slots open tomorrow:</span></p>
+                            <p style="margin-bottom: 12px; font-size: 13px;"><span class="typing-text-dynamic typing-dynamic-1">${escapeHtml(dynamicResponses.calendarIntro || "")}</span></p>
                             <div class="calendar-options" style="margin-top: 12px; display: flex; flex-direction: column; gap: 8px;">
-                                <button class="calendar-slot">
-                                    <span class="slot-time">9:30 AM</span>
-                                    <span class="slot-duration">30 min</span>
-                                </button>
-                                <button class="calendar-slot">
-                                    <span class="slot-time">2:00 PM</span>
-                                    <span class="slot-duration">30 min</span>
-                                </button>
-                                <button class="calendar-slot">
-                                    <span class="slot-time">4:30 PM</span>
-                                    <span class="slot-duration">30 min</span>
-                                </button>
+                                ${calendarSlotHtml}
                             </div>
                         </div>
                     `;
@@ -935,13 +1012,13 @@ const { agent, agentSubtitle } = Astro.props;
                         !alreadyServed.includes("calendar")
                     ) {
                         nextAction = "calendar";
-                        nextLabel = "Also schedule a follow-up?";
+                        nextLabel = dynamicResponses.followUps?.calendarAfterDraft || "";
                     } else if (
                         action === "calendar" &&
                         !alreadyServed.includes("draft")
                     ) {
                         nextAction = "draft";
-                        nextLabel = "Also draft the reply?";
+                        nextLabel = dynamicResponses.followUps?.draftAfterCalendar || "";
                     }
 
                     if (nextAction) {

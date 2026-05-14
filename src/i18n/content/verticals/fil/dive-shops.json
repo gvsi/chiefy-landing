@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail para sa Mga Dive Shop | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga may-ari ng dive shop at mga instruktor ng PADI na tumugon kaagad sa mga katanungan sa sertipikasyon, mga booking ng biyahe, at mga tanong sa gear — kahit na mula sa ilalim ng tubig.",
+  "heroBadge": "Pinagkakatiwalaan ng 300+ dive operator",
+  "heroHeadline": "Ang iyong email assistant habang nasa ilalim ka ng tubig",
+  "heroSubline": "Natutunan ng Duet ang iyong mga dive site, mga kinakailangan sa certification, pagpepresyo, at boses — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng booking habang nasa bangka ka.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Open Water certification — availability?",
+      "preview": "Hi! Bumibisita ako sa unang linggo ng Agosto at gusto kong makuha ang aking Open Water cert. Ilang araw ang aabutin at ano ang kasama?",
+      "pill": "Upang Tumugon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Sina Kevin at Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Grupo ng 6 para sa isang 2-tank dive Sabado",
+      "preview": "Mayroon kaming 6 na certified diver at gustong mag-book ng umaga na 2-tank dive ngayong Sabado. May space ka ba? Ano ang rate ng bawat tao...",
+      "pill": "Pagbu-book",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD rental para sa weekend?",
+      "preview": "Uy, certified ako pero traveling light. Nagrenta ka ba ng mga BCD at regulator? Kailangan ko sila Biyernes hanggang Linggo...",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Referral ng mag-aaral: Rachel Torres",
+      "preview": "Nakumpleto ng isang mag-aaral ang kanilang eLearning at pinili ang iyong dive center para sa confined at open water training...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hoy Rachel! Gusto naming ma-certify ka. Ang Open Water course ay tumatakbo nang 3 araw — isang araw ng pool session at dalawang araw ng ocean dives. Lahat ng gear ay kasama. Bukas na bukas ang Agosto. Gusto mo bang magpareserba ako ng puwesto para sa unang linggong iyon?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "sumisid",
+    "lostPerMonth": "3 trips (6 divers each)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Ang isang naka-save na group dive ay nagbabayad para sa isang taon ng Duet."
+  },
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga katanungan sa certification at mag-dive ng mga booking, pangalawa ang mga tanong sa gear, at mga alerto sa PADI kapag handa ka na. Wala nang nawawalang isang group booking na nakabaon sa ilalim ng mga newsletter ng kagamitan.",
+  "draftSubtitle": "Natutunan ng Duet ang iyong mga dive site, mga kinakailangan sa cert, at pagpepresyo. Kapag tumama ang isang pagtatanong sa booking, nag-draft ito ng kumpletong tugon na may mga detalye ng biyahe, kung ano ang kasama, at kung ano ang dadalhin. I-review at ipadala mo.",
+  "agentSubtitle": "\"Ilang diver ang na-book para sa Sabado?\" \"Mag-draft ng tugon kay Rachel na may availability sa Open Water.\" Alam ng duet ang iyong inbox at iskedyul — magtanong lang.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Open Water certification — availability?",
+      "preview": "Bumisita ako sa unang linggo ng Agosto at gusto kong ma-certify...",
+      "pill": "Tumugon Ngayon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Nakumpirma ang booking — Sabado 2-tank dive",
+      "pill": "Naka-book",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD at regulator rental ngayong weekend?",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Bagong review sa iyong listing",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Sale sa tag-araw — 25% diskwento sa mga wetsuit",
+      "pill": "Mga promosyon",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Open Water certification — availability?",
+    "originalFrom": "Sumulat si Rachel T.:",
+    "originalText": "Hi! Bumibisita ako sa unang linggo ng Agosto at gusto kong makuha ang aking Open Water cert. Ilang araw ang aabutin at ano ang kasama?",
+    "lines": [
+      "Hoy Rachel!",
+      "Gusto naming ma-certify ka! Ang PADI Open Water course ay tumatakbo nang 3 araw — isang pool session at dalawang ocean dive sa aming reef. Lahat ng gear ay kasama.",
+      "Bukas na ang Agosto ngayon. Karamihan sa mga mag-aaral ay nagsisimula sa isang Lunes kaya natapos sila ng Miyerkules.",
+      "Gusto mo bang magpareserba ako ng puwesto?"
+    ],
+    "highlightText": "Ang kursong PADI Open Water ay tumatakbo nang 3 araw",
+    "tooltipFeatures": [
+      "Alam ang iyong mga kurso at pagpepresyo",
+      "Mga draft sa iyong boses",
+      "Awtomatikong kasama ang mga kinakailangan sa sertipiko",
+      "Natututo sa paglipas ng panahon"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ilang diver ang na-book para sa Sabado?",
+    "agentResponse": "Batay sa iyong inbox, mayroon kang 8 diver na nakumpirma para sa Sabado ng umaga na 2-tank dive — ang grupo ni Kevin ng 6 at 2 indibidwal na booking. Mayroon ka ring nakabinbing pagtatanong mula kay Jason tungkol sa pagrenta ng gear para sa parehong biyahe. Gusto ko bang mag-draft ng tugon?",
+    "followUp": "Bumuo ng tugon kay Rachel kasama ang mga detalye ng kursong Open Water",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon kay Rachel na nagkukumpirma sa 3-araw na PADI Open Water course na may kasamang pool at ocean dives. Binabanggit nito ang pagiging available sa Agosto at ang iyong karaniwang patakarang may kasamang gear. Handa nang suriin at ipadala."
+  },
+  "testimonialsTitle": "Mahal ng mga dive operator",
+  "testimonials": [
+    {
+      "name": "Kapitan Mike T.",
+      "title": "Dive Boat Captain, FL",
+      "quote": "Nagpapatakbo ako ng mga biyahe sa bangka Biyernes hanggang Linggo at ang tindahan ay bukas lamang ng ilang oras sa Lunes. Ang mga tanong sa sertipikasyon at mga katanungan sa paglalakbay ay nakatambak habang ako ay nasa ilalim ng tubig. Ang mga duet draft ay tumutugon sa aking pagpepresyo, mga dive site, at kung ano ang kasama — Sinusuri ko ang mga ito sa pagitan ng mga pagsisid.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen at Mark S.",
+      "title": "PADI Dive Center, HI",
+      "quote": "Nagpapatakbo kami ng mga dive, snorkel tour, at whale watch sa parehong mga bangka. Nakakabaliw ang iba't ibang email — mga tanong sa cert, group booking, pagrenta ng gear, pagsusuri sa panahon. Pinag-aayos ng duet ang lahat at nag-draft ng mga tugon na alam ang pagkakaiba. Ganap na lifesaver.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Wreck Diving Charters, FL",
+      "quote": "Ang kalahati ng aking mga email ay 'anong sertipikasyon ang kailangan ko para sa mga wreck dives?' at ang kalahati ay 'kailangan ko ba ng sarili kong gamit?' Ang duet ay humahawak pareho sa autopilot. Ang oras ng pagtugon ko ay umabot sa mga oras hanggang minuto.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "May-ari ng Dive Shop, CA",
+      "quote": "Sa tag-araw, nakakakuha kami ng 30+ email sa isang araw tungkol sa mga kurso, availability ng biyahe, at kagamitan. Nawawalan ako ng mga booking sa mga tindahan na mas mabilis na tumugon. Ngayon ang Duet ay nag-draft ng lahat at pinindot ko lang ang ipadala sa pagitan ng mga klase.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Dive Instructor & Guide, NC",
+      "quote": "Nagtuturo ako ng mga kurso sa umaga at gumagabay sa pagsisid sa hapon. Walang literal na oras para sumagot ng email. Natutunan ng duet ang iskedyul ng aking kurso, pagpepresyo, maging ang aking patakaran sa pagkansela. Hindi masasabi ng mga kliyente ang pagkakaiba.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Gumugol ng iyong mga araw sa ilalim ng tubig, \nhindi nakabaon sa iyong inbox.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
+  "verticalFaqs": [
+    {
+      "question": "Naiintindihan ba ng Duet ang mga antas ng sertipikasyon at mga kinakailangan sa kurso?",
+      "answer": "Oo. Natutunan ng Duet ang iyong mga partikular na kurso — Open Water, Advanced, Rescue, Divemaster — kasama ang mga kinakailangan, tagal, pagpepresyo, at kung ano ang kasama. Kapag may nagtanong tungkol sa pagpapa-certify, nag-draft ang Duet ng tugon na may mga tamang detalye ng kurso, iskedyul, at mga susunod na hakbang. I-review at ipadala mo."
+    },
+    {
+      "question": "Buong araw akong nasa bangka o nasa ilalim ng tubig. Maaari ko bang gamitin ang Duet mula sa aking telepono?",
+      "answer": "Oo. Gumagana ang duet sa Gmail at Outlook, kaya gumagana ito saanman gumagana ang iyong email — kasama ang iyong telepono. Awtomatikong lumalabas ang mga draft sa iyong inbox. Sa pagitan ng mga pagsisid o pabalik sa pantalan, nagre-review ka at nagpapadala sa isang tap. Sinasabi sa amin ng karamihan sa mga dive operator na nakakatipid ito sa kanila ng 1-2 oras ng oras ng email bawat araw sa panahon ng peak season."
+    }
+  ],
+  "pricingNote": "Sa $150/dive kasama ang isang grupo ng 6, ang isang naka-save na biyahe ay magbabayad ng higit sa isang taon na Pro."
+}

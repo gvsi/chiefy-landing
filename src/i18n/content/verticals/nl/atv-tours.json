@@ -1,0 +1,171 @@
+{
+  "slug": "atv-tours",
+  "pageTitle": "Duet Mail voor ATV- en UTV-tochten | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt ATV- en UTV-gidsen direct te reageren op boekings-e-mails, zelfs vanaf de route. Door AI opgestelde antwoorden met uw prijzen, vereisten en stem.",
+  "heroBadge": "Vertrouwd door meer dan 200 gidsen",
+  "heroHeadline": "Uw e-mailassistent terwijl u onderweg bent",
+  "heroSubline": "Duet leert uw tourtypes, prijzen en passagiersvereisten kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
+  "inboxEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Beschikbaarheid zaterdag voor 4 machines?",
+      "preview": "Hallo! We zijn een groep van 4 die deze zaterdag een begeleide ATV-tour willen boeken. Heb je ruimte? Wat is de prijs per machine?",
+      "pill": "Om te reageren",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Verzekeringseisen?",
+      "preview": "Hé, we nemen onze eigen UTV's mee. Moeten wij een bewijs van aansprakelijkheidsverzekering tonen? Welke dekking heeft u nodig...",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "De Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Welk parcours voor beginners?",
+      "preview": "We hebben nog nooit ATV-rijden gedaan. Welke tourroute zou je aanbevelen voor een gezin met twee tieners? Bied jij...",
+      "pill": "Boeking",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nieuwe recensie voor uw vermelding",
+      "preview": "Een reiziger heeft onlangs uw bedrijf beoordeeld. Kijk wat ze te zeggen hadden en reageer...",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hé Rachel! Zaterdag is open en we kunnen zonder probleem 4 machines meenemen. Rondleidingen kosten $ 200 per machine en duren ongeveer 6-8 uur. We ontmoeten elkaar om 9.00 uur bij de trailhead - ik stuur een routebeschrijving zodra je bevestigd bent. Helmen en bril aanwezig. Wil je dat ik je opsluit?",
+  "math": {
+    "pricePerBooking": "$800",
+    "bookingUnit": "groep (4 machines)",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,400",
+    "punchline": "Eén opgeslagen groepsboeking betaalt een jaar lang Duet."
+  },
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst boekingsaanvragen ziet, daarna verzekeringsvragen en nooit meer lawaai. U hoeft nooit meer een groepsaanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
+  "draftSubtitle": "Duet leert uw tourroutes, prijzen en rijdervereisten. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met reisgegevens, prijzen en wat u moet meenemen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Zijn er groepen geboekt voor dit weekend?\" 'Stel een antwoord op aan Rachel met de beschikbaarheid op zaterdag.'Duet kent uw inbox en planning — vraag het maar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Beschikbaarheid zaterdag voor 4 machines?",
+      "preview": "We zijn een groep van 4 personen die een begeleide ATV-tour willen boeken...",
+      "pill": "Reageer nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Boeking bevestigd — zaterdag 9.00 uur",
+      "pill": "Geboekt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "De Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Wat moeten we dragen op pad?",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Yelp voor bedrijven",
+      "avatarLetter": "Y",
+      "avatarColor": "lavender",
+      "subject": "Uw wekelijkse bedrijfsupdate",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Rocky Mountain-ATV",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Veerspeling — 25% korting op onderdelen",
+      "pill": "Promoties",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.w@email.com",
+    "subject": "Re: Beschikbaarheid zaterdag voor 4 machines?",
+    "originalFrom": "Rachel W. schreef:",
+    "originalText": "Hallo! We zijn een groep van 4 die deze zaterdag een begeleide ATV-tour willen boeken. Heb je ruimte? Wat is de prijs per machine?",
+    "lines": [
+      "Hé Rachel!",
+      "Zaterdag is wijd open voor 4 machines. Rondleidingen kosten $ 200 per machine en duren 6-8 uur, beginnend om 9.00 uur vanaf de trailhead.",
+      "Er zijn helmen en een veiligheidsbril aanwezig; draag alleen een lange broek, gesloten schoenen en neem water en zonnebrandcrème mee. Ik stuur het ontmoetingspunt en de routebeschrijving zodra je bevestigd bent.",
+      "Wil je dat ik je opsluit?"
+    ],
+    "highlightText": "Zaterdag is wijd open voor 4 machines. Rondleidingen kosten $ 200 per machine",
+    "tooltipFeatures": [
+      "Kent uw prijzen en tourroutes",
+      "Tochten in je stem",
+      "Inclusief rijdervereisten automatisch",
+      "Leert in de loop van de tijd"
+    ]
+  },
+  "agent": {
+    "userMessage": "Zijn er groepen geboekt voor dit weekend?",
+    "agentResponse": "Op basis van je inbox heb je een groep van 6 bevestigd voor zaterdag om 9.00 uur en een koppel geboekt voor zondagochtend. Zaterdagmiddag en zondagmiddag zijn nog open. Wil je dat ik een antwoord opstel op eventuele openstaande vragen met betrekking tot deze vacatures?",
+    "followUp": "Stel een antwoord op voor Rachel met beschikbaarheid op zaterdag",
+    "followUpResponse": "Klaar! Ik heb een antwoord aan Rachel opgesteld waarin ik zaterdag bevestig dat er 4 machines van $ 200 per stuk zijn. Het bevat uw standaard vergaderlocatie, uitrustingsinformatie en wat u moet dragen. Klaar om te beoordelen en te verzenden."
+  },
+  "testimonialsTitle": "Geliefd bij gidsen en operators",
+  "testimonials": [
+    {
+      "name": "Mike D.",
+      "title": "ATV-gids, Zuid-Utah",
+      "quote": "Ik leid 8-uur durende tochten door de canyons zonder mobiele service. Tegen de tijd dat ik terugkwam, was de helft van mijn boekings-e-mails koud geworden. Duet stelt reacties op met mijn prijs- en trajectinformatie - ik bekijk ze gewoon aan het eind van de dag.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Tara M.",
+      "title": "UTV-touroperator, Colorado",
+      "quote": "We organiseren 7 dagen per week rondleidingen en alleen al de vragen over verzekeringen en vrijstellingen slokten mijn ochtenden op. Duet regelt het allemaal: eisen van de rijder, leeftijdsbeperkingen, wat mee te nemen. Klinkt precies zoals ik.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Jeep-gids, Moab",
+      "quote": "Mensen e-mailen met de vraag welk parcours geschikt is voor hun groep, welk ervaringsniveau ze nodig hebben en of kinderen kunnen rijden. Steeds dezelfde 5 vragen. Duet nagelt ze allemaal.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Nicole S.",
+      "title": "Offroad-avonturen, AZ",
+      "quote": "Ik besteedde elke avond meer dan een uur aan het beantwoorden van dezelfde beschikbaarheidsvragen. Duet stelt nu antwoorden op terwijl ik onderweg ben. Mijn responstijd ging van uren naar minuten.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Amanda K.",
+      "title": "Familie ATV-tochten, Sedona",
+      "quote": "We krijgen veel gezinnen die vragen naar beginnerspaden en leeftijdseisen. Duet heeft al onze touropties geleerd en beveelt in elk antwoord de juiste aan. Klanten kunnen het verschil niet zien.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Breng het hoogseizoen door op de route,\nniet in uw inbox.",
+  "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
+  "verticalFaqs": [
+    {
+      "question": "Behandelt Duet vragen over verzekeringen en vrijstellingen?",
+      "answer": "Ja. Duet leert de vereisten van uw rijder: aansprakelijkheidsverzekering, leeftijdsbeperkingen, ontheffingsdetails, wat rijders moeten meenemen. Wanneer iemand een e-mail stuurt met de vraag wat hij nodig heeft voor zijn tour, stelt Duet een volledig antwoord op met alle details. Je bekijkt het en tikt op verzenden."
+    },
+    {
+      "question": "Ik ben de hele dag onderweg zonder mobiel bereik. Hoe helpt Duet?",
+      "answer": "Dat is precies waarom gidsen van Duet houden. Terwijl u een 6-8 uur durende tour leidt zonder signaal, stapelen de boekingsaanvragen zich op. Duet stelt antwoorden op voor elk van hen: prijzen, beschikbaarheid, vergaderlocatie, wat te dragen. Wanneer u terugkomt, bekijkt u de concepten en verzendt u deze. De meeste gidsen vertellen ons dat dit hen tijdens het hoogseizoen 1-2 uur e-mailtijd per dag bespaart."
+    }
+  ],
+  "pricingNote": "Bij $ 200/machine betaalt één opgeslagen groep van 4 voor meer dan een jaar Pro."
+}

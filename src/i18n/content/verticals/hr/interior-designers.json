@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail za dizajnere interijera | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže dizajnerima interijera upravljati e-poštom klijenata, koordinacijom izvođača i narudžbama dobavljača — čak i s gradilišta. Odgovori izrađeni AI s detaljima vašeg projekta, preferencijama i glasom.",
+  "heroBadge": "Vjeruje mu više od 400 dizajnera interijera",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na licu mjesta s klijentima",
+  "heroSubline": "Duet saznaje vaše kontakte dobavljača, pojedinosti o projektu i preferencije klijenata — zatim sastavlja skice odgovora e-poštom kako nikada ne biste izgubili klijenta zbog sporog odgovora.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Renoviranje kuhinje — prve konzultacije?",
+      "preview": "Bok! Upravo smo kupili kuću u Westlakeu i želimo potpuno preurediti kuhinju. Prihvaćate li nove projekte? Kako izgleda vaš proces?",
+      "pill": "Odgovoriti",
+      "pillColor": "red"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Odg: Ažuriranje vremena izvedbe backsplash pločica",
+      "preview": "Upravo su se javili iz skladišta — Calacatta šesterokutna pločica nije u narudžbi još 3 tjedna. Želite da zadržim vašu narudžbu ili pogledam alternative...",
+      "pill": "Narudžba dobavljača",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — Electrician",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Ožičenje obavljeno — spremno za ugradnju uređaja",
+      "preview": "Sve grube instalacije su završene u glavnoj spavaćoj sobi i dnevnoj sobi. Mi smo spremni za ugradnju svijećnjaka i lustera kad god...",
+      "pill": "Izvođač",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen & Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Što mislite o uzorcima tkanina?",
+      "preview": "Pogledali smo tri opcije tkanine koje ste ostavili i skloni smo lanu u boji 'Zobena kaša', ali želimo ga vidjeti u odnosu na boju zida...",
+      "pill": "Odobrenje klijenta",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Bok Rachel! Volio bih čuti više o vašoj Westlake kuhinji. Trenutno rezerviram konzultacije za sljedeći mjesec. Moj proces počinje kućnim posjetom gdje prolazimo kroz vašu viziju, proračun i vremenski okvir — zatim sastavljam koncept dizajna s odabirom materijala. Želite li dogovoriti vrijeme za sastanak kod kuće?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Jedan spremljeni klijent plaća godine Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite upite novih klijenata, zatim čekaju odobrenja, a nikada biltene dobavljača. Nema više propuštanja savjetovanja o dizajnu zakopanog ispod promocija sajmova.",
+  "draftSubtitle": "Duet uči vaš proces, detalje projekta i ton. Kada dođe novi upit ili pitanje klijenta, sastavlja potpuni odgovor s vašom dostupnošću, sljedećim koracima i specifičnostima projekta. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Kakav je status projekta Henderson?\" \"Koja su odobrenja još u tijeku?\" Duet zna vašu pristiglu poštu i svaku nit projekta — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Renoviranje kuhinje — prve konzultacije?",
+      "preview": "Upravo smo kupili kuću i želimo preurediti kuhinju...",
+      "pill": "Novi upit",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Re: Uzorci tkanina — ide uz posteljinu od zobene kaše",
+      "pill": "Odobrenje klijenta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mark L.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Ožičenje obavljeno — spremno za ugradnju uređaja",
+      "pill": "Izvođač",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Narudžba #4821 otpremljena — dostava u četvrtak",
+      "pill": "Narudžba dobavljača",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Design Within Reach",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Trgovački program — proljetna štednja",
+      "pill": "Promaknuća",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Renoviranje kuhinje — prve konzultacije?",
+    "originalFrom": "Rachel T. je napisala:",
+    "originalText": "Bok! Upravo smo kupili kuću u Westlakeu i želimo potpuno preurediti kuhinju. Prihvaćate li nove projekte? Kako izgleda vaš proces?",
+    "lines": [
+      "Bok Rachel!",
+      "Čestitamo na novom domu! Volio bih pomoći s vašom kuhinjom. Trenutno rezerviram konzultacije za sljedeći mjesec.",
+      "Moj proces započinje kućnim posjetom kako bih prošao kroz vašu viziju, proračun i vremenski okvir. Odatle sam sastavio koncept dizajna s odabirom materijala i detaljnim prijedlogom.",
+      "Želite li dogovoriti vrijeme za sastanak kod kuće?"
+    ],
+    "highlightText": "Trenutno rezerviram konzultacije za sljedeći mjesec.",
+    "tooltipFeatures": [
+      "Poznaje vaš proces i dostupnost",
+      "Nacrt u vašem tonu",
+      "Automatski uključuje sljedeće korake",
+      "Uči s vremenom"
+    ]
+  },
+  "agent": {
+    "userMessage": "Koja su odobrenja još u čekanju za projekt Henderson?",
+    "agentResponse": "Na temelju vaših razgovora putem e-pošte s Hendersonovima, dvije stavke još čekaju odobrenje: glavni umivaonik za kupaonicu (poslali ste opcije hardvera za restauraciju u utorak) i tkanina za draperije dnevne sobe (uzorci su isporučeni prošli tjedan). Karen je također pitala o sjaju boje za blagovaonicu, ali još nije odgovorila na vašu preporuku. Želite li da napravim nastavak?",
+    "followUp": "Nacrtajte nježan nastavak Karen o taštini i izboru tkanina",
+    "followUpResponse": "Gotovo! Napravio sam nastavak nakon što je Karen provjerila izbor kozmetičkih kozmetičkih ukrasa i zastora, spomenuvši da kozmetički kozmetički pribor ima rok od 6 tjedana, tako da će skora odluka zadržati projekt u skladu s rasporedom. Spremno za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga dizajneri interijera",
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "title": "Glavni dizajner, Austin TX",
+      "quote": "Na gradilištu sam 6 sati dnevno koordinirajući molere, električare i postavljače pločica. U međuvremenu tri druga klijenta šalju e-poštu o svojim projektima. Duet sastavlja odgovore s pravim detaljima projekta — samo pregledavam između posjeta web-mjestu.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Dizajner stambenog interijera, Chicago",
+      "quote": "Upiti klijenata znali su trajati danima jer sam bio zatrpan e-poštom o nabavi i rasporedom izvođača. Sada Duet odgovara na nove potencijalne klijente u nekoliko minuta s mojim postupkom i dostupnošću. Rezervirao sam 4 dodatna projekta u ovom kvartalu.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Vlasnik dizajnerskog studija, Nashville",
+      "quote": "Ubijalo me upravljanje e-poštom za 12 aktivnih projekata. Duet kategorizira sve - nove upite, odobrenja na čekanju, narudžbe dobavljača, ažuriranja izvođača - tako da točno znam što prvo treba moju pozornost.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "Dekorater interijera, San Diego",
+      "quote": "Gubio sam potencijalne klijente jer nisam mogao dovoljno brzo odgovoriti tijekom tjedana instalacije. Duet je naučio moj proces savjetovanja, strukturu cijena, čak i kako opisujem svoj stil dizajna. Klijenti nemaju pojma da je potpomognut umjetnom inteligencijom.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Komercijalni dizajner interijera, Denver",
+      "quote": "Između vremena isporuke dobavljača, rasporeda izvođača i zahtjeva klijenata za revizijom, moj sandučić je bio kaos. Duet to sve razvrstava i priprema nacrte za daljnja odobrenja na čekanju. To je kao da imate koordinatora projekta koji nikad ne spava.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Provodite dane stvarajući prekrasne prostore,\nnije zakopano u vašoj pristigloj pošti.",
+  "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Žongliram s 8-10 projekata odjednom. Može li ih Duet držati ispravnima?",
+      "answer": "Da. Duet prati svaku nit e-pošte po klijentu i projektu. Kada pitate o Henderson kuhinji ili uredu Park Avenue, izvlači kontekst iz svih povezanih razgovora - narudžbe dobavljača, ažuriranja izvođača, odobrenja klijenata - tako da su vaši odgovori uvijek točni i specifični za projekt. Nema miješanja koja je pločica za kojeg klijenta."
+    },
+    {
+      "question": "Koordiniram s mnogim izvođačima i dobavljačima. Pomaže li Duet u tome?",
+      "answer": "Apsolutno. Duet uči kontakte vaših izvođača, predstavnike dobavljača i kontekst uloge svake trgovine u vašim projektima. Kada vaš električar pošalje e-poruku da je grubo uvođenje obavljeno, Duet može napisati odgovor koji potvrđuje sljedeći korak ili petlju u instalateru uređaja. Održava tijek rada u pokretu čak i kada ste na drugom kraju grada na drugom radilištu."
+    }
+  ],
+  "pricingNote": "Uz 10.000 USD po projektu, jedan spremljeni klijent plaća godine Duet Pro."
+}

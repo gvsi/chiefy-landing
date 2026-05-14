@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail cho Nhà Thiết Kế Cảnh Quan | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp các nhà thiết kế cảnh quan phản hồi email khách hàng ngay lập tức — ngay cả khi đang ở hiện trường. Trả lời được soạn thảo bằng AI với chi tiết dự án, giá cả và phong cách của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 300 nhà thiết kế cảnh quan",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang ở hiện trường",
+  "heroSubline": "Duet học các chi tiết dự án, bảng cây trồng, giá cả và quy trình của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Thiết kế lại sân sau — tư vấn miễn phí?",
+      "preview": "Chào bạn! Chúng tôi vừa mua một ngôi nhà ở Westlake và sân sau hoàn toàn trống. Chúng tôi muốn thiết kế lại toàn bộ với cây bản địa và một sân hiên. Bạn có nhận khách mới không?",
+      "pill": "Cần Phản Hồi",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Thông số hệ thống tưới cho dự án Miller?",
+      "preview": "Chào, chúng tôi sẵn sàng bắt đầu đào rãnh vào thứ Hai. Bạn có thể gửi bản bố trí hệ thống tưới và thông số đầu phun để chúng tôi đặt vật liệu trong tuần này không?",
+      "pill": "Nhà Thầu",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Câu hỏi nhanh về lựa chọn cây trồng",
+      "preview": "Chúng tôi rất thích thiết kế! Chỉ thắc mắc — có thể thay cây phong Nhật bằng loại có màu sắc mùa thu hơn không? Ngoài ra, cây oải hương có chống được hươu không?",
+      "pill": "Khách Hàng",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Đơn hàng #4821 đã sẵn sàng lấy",
+      "preview": "Đơn hàng của bạn gồm 24 cây bụi 24 gallon, 6 cây mẫu và các khay cây phủ mặt đất đã sẵn sàng. Có thể lấy hàng từ thứ Hai đến thứ Bảy, 7AM–4PM...",
+      "pill": "Nhà Cung Cấp",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Chào Rachel! Tôi rất muốn giúp bạn với sân sau. Hiện tôi đang đặt lịch tư vấn ban đầu cách 2-3 tuần. Buổi gặp đầu tiên là đánh giá tại chỗ trong 90 phút — tôi sẽ đi quanh khuôn viên, đo đạc và thảo luận về ý tưởng của bạn. Sau đó tôi sẽ lập kế hoạch ý tưởng. Bạn muốn tôi đặt lịch cho bạn chứ?",
+  "math": {
+    "pricePerBooking": "8.000$",
+    "bookingUnit": "dự án",
+    "lostPerMonth": "1",
+    "monthlyLoss": "8.000$",
+    "punchline": "Một dự án được giữ lại đủ trả tiền Duet nhiều năm."
+  },
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu tư vấn mới trước, phê duyệt khách hàng sau, và không bao giờ bị làm phiền bởi các email nhà cung cấp. Không còn bỏ lỡ khách hàng tiềm năng bị chôn dưới các xác nhận đơn hàng vườn ươm.",
+  "draftSubtitle": "Duet học giá cả, quy trình và phong cách của bạn. Khi có yêu cầu tư vấn, nó soạn thảo trả lời đầy đủ với lịch trống, những gì cần biết và bước tiếp theo. Bạn chỉ việc xem lại và gửi.",
+  "agentSubtitle": "\"Dự án Henderson tiến độ thế nào?\" \"Khách nào đang chờ phê duyệt kế hoạch?\" Duet biết hộp thư và dự án của bạn — cứ hỏi thôi.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Thiết kế lại sân sau — tư vấn miễn phí?",
+      "preview": "Chúng tôi vừa mua nhà và sân sau hoàn toàn trống...",
+      "pill": "Yêu Cầu Mới",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Thiết kế cuối cùng — chúng tôi sẵn sàng phê duyệt!",
+      "pill": "Phê Duyệt Khách Hàng",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Thông số hệ thống tưới cho dự án Miller?",
+      "pill": "Nhà Thầu",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Đơn hàng #4821 đã sẵn sàng lấy",
+      "pill": "Nhà Cung Cấp",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Hóa đơn #1047 đã được khách hàng xem",
+      "pill": "Hóa Đơn",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Thiết kế lại sân sau — tư vấn miễn phí?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào bạn! Chúng tôi vừa mua một ngôi nhà ở Westlake và sân sau hoàn toàn trống. Chúng tôi muốn thiết kế lại toàn bộ với cây bản địa và một sân hiên. Bạn có nhận khách mới không?",
+    "lines": [
+      "Chào Rachel!",
+      "Chúc mừng bạn với ngôi nhà mới — sân sau trống thực sự là dự án mơ ước. Tôi hoàn toàn nhận khách mới.",
+      "Quy trình của tôi bắt đầu với buổi tư vấn tại chỗ 90 phút, tôi sẽ đi quanh khuôn viên, đo đạc và thảo luận mục tiêu của bạn. Sau đó tôi phát triển kế hoạch ý tưởng với thiết kế cây trồng, bố trí hardscape và ngân sách theo giai đoạn.",
+      "Tôi có lịch trống trong 2-3 tuần tới. Bạn muốn tôi gửi vài ngày có thể không?"
+    ],
+    "highlightText": "Quy trình của tôi bắt đầu với buổi tư vấn tại chỗ 90 phút",
+    "tooltipFeatures": [
+      "Hiểu quy trình thiết kế & giá cả của bạn",
+      "Soạn thảo theo phong cách của bạn",
+      "Tự động bao gồm chi tiết tư vấn",
+      "Học hỏi theo thời gian"
+    ]
+  },
+  "agent": {
+    "userMessage": "Khách nào vẫn đang chờ phê duyệt kế hoạch?",
+    "agentResponse": "Dựa trên email gần đây, có hai khách đang chờ phê duyệt: Jennifer & Mark L. (thiết kế lại sân sau — đã gửi kế hoạch cuối 4 ngày trước, chưa trả lời) và gia đình Cohen (chuyển đổi sân trước sang cây bản địa — đã gửi kế hoạch sửa đổi tuần trước). Bạn muốn tôi soạn thư nhắc nhẹ cho ai không?",
+    "followUp": "Soạn thư nhắc Jennifer về phê duyệt kế hoạch",
+    "followUpResponse": "Xong! Tôi đã soạn thư hỏi thăm thân thiện với Jennifer xem cô ấy và Mark đã xem kế hoạch cuối chưa, và nhắc rằng bạn có thể gọi nhanh để trao đổi về lựa chọn cây trồng. Bạn sẵn sàng xem lại và gửi chưa?"
+  },
+  "testimonialsTitle": "Được các nhà thiết kế cảnh quan yêu thích",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Kiến Trúc Sư Cảnh Quan, Austin TX",
+      "quote": "Mùa xuân tôi có mặt tại hiện trường 8 tiếng mỗi ngày để đánh giá và giám sát thi công. Yêu cầu tư vấn mới thường bị bỏ qua vài ngày. Giờ Duet trả lời với quy trình và lịch trống của tôi trong vài phút. Tôi đã đặt được 3 dự án mà chắc chắn đã mất nếu không có Duet.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Nhà Thiết Kế Vườn, Portland OR",
+      "quote": "Phối hợp giữa đội thi công hardscape, lắp đặt tưới và khách hàng tạo ra lượng email khổng lồ. Duet phân loại tất cả và soạn trả lời có chi tiết dự án chính xác. Giống như có một quản lý studio.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Chủ Studio Thiết Kế Cảnh Quan, Denver CO",
+      "quote": "Trước đây tôi dành mỗi tối sau công việc ngoài hiện trường để trả lời email. Câu hỏi lặp lại — giá, quy trình, tiến độ. Duet xử lý hết. Thời gian phản hồi của tôi giảm từ vài ngày xuống vài phút và tỷ lệ chốt dự án tăng đáng kể.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Nhà Thiết Kế Cảnh Quan Nhà Ở, Scottsdale AZ",
+      "quote": "Khách hàng tôi hỏi rất nhiều về lựa chọn cây trồng và cách chăm sóc. Duet học bảng cây và hướng dẫn chăm sóc của tôi, soạn trả lời mà tôi hầu như không phải chỉnh sửa. Khách hàng nghĩ tôi rất nhanh nhạy.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Nhà Thiết Kế Cảnh Quan Cây Bản Địa, Raleigh NC",
+      "quote": "Tôi mất khách mới vì không thể trả lời khi đang bận thi công trồng cây. Duet soạn trả lời tư vấn với quy trình, giá cả và những gì cần biết chính xác của tôi. Nó đã tự trả tiền trong tuần đầu tiên.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Dành thời gian tạo cảnh quan,\nkhông phải để bắt kịp email.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
+  "verticalFaqs": [
+    {
+      "question": "Duet có xử lý được mùa cao điểm khi yêu cầu tư vấn dồn dập không?",
+      "answer": "Đó chính là lúc Duet phát huy. Trong mùa bận rộn nhất, mỗi yêu cầu mới đều được trả lời nhanh, chi tiết với quy trình, tiến độ và lịch trống của bạn — ngay cả khi bạn ở hiện trường cả ngày. Không còn mất khách mùa xuân vì không thể phản hồi đến 9 giờ tối."
+    },
+    {
+      "question": "Tôi phối hợp với nhiều đội ngoài trời. Duet có giúp được không?",
+      "answer": "Có. Duet học dự án và các nhà thầu liên quan — hardscape, lắp đặt tưới, đội trồng cây, vườn ươm. Nó phân loại email nhà thầu riêng biệt với email khách hàng, và có thể soạn trả lời với chi tiết dự án như thông số, tiến độ và vật liệu. Bạn kiểm soát được mọi đội mà không bị hỗn loạn hộp thư."
+    }
+  ],
+  "pricingNote": "Với 8.000$/dự án, một khách hàng được giữ lại đủ trả tiền Pro nhiều năm."
+}

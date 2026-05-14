@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail pre rybárske chartery | AI asistent e-mailov",
+  "metaDescription": "Duet Mail pomáha kapitánom rybárskych charterov okamžite odpovedať na e-maily s rezerváciami — aj z vody. Odpovede vytvorené AI s vašimi cenami, pravidlami a štýlom.",
+  "heroBadge": "Dôveruje mu 500+ kapitánov charterov",
+  "heroHeadline": "Váš e-mailový asistent, keď ste na vode",
+  "heroSubline": "Duet sa naučí vaše ceny, pravidlá a štýl — potom pripraví odpovede, aby ste nikdy neprišli o rezerváciu kvôli pomalej reakcii.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Dostupnosť 12. júla pre 4 osoby?",
+      "preview": "Ahoj! Sme skupina 4 ľudí a chceme si rezervovať rybársky výlet na 12. júla. Máte voľno? Aká je cena za celý deň?",
+      "pill": "Na odpoveď",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Čo si máme priniesť?",
+      "preview": "Ahoj, máme rezerváciu na sobotu. Krátka otázka — čo si máme priniesť? Poskytujete prúty a výbavu, alebo si máme priniesť vlastné...",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike & Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Potrebujeme presunúť na nedeľu",
+      "preview": "Prepáčte za neskoré oznámenie, ale predpoveď na sobotu vyzerá zle. Môžeme to presunúť na nedeľu? V rovnakom čase...",
+      "pill": "Rezervácia",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nová recenzia pre váš profil",
+      "preview": "Cestovateľ nedávno ohodnotil vašu firmu. Pozrite si, čo napísal, a odpovedzte...",
+      "pill": "Pre info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ahoj Sarah! 12. júla máme voľno pre 4 osoby. Celodenné výjazdy trvajú 8 hodín a začínajú o 6:00 z prístavu. Všetky prúty, výstroj, návnada a licencie sú v cene — stačí si priniesť opaľovací krém, vodu a chladiaci box na úlovok. Chceš, aby som to potvrdil?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "charter",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Jedna zachránená rezervácia zaplatí rok Duet."
+  },
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže najprv vidíte žiadosti o rezerváciu, potom otázky a nikdy nie hluk. Už žiadne prehliadnuté dopyty po výlete v záplave upozornení z TripAdvisor.",
+  "draftSubtitle": "Duet sa naučí vaše ceny, pravidlá a tón. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s detailmi výletu, cenou a tým, čo si priniesť. Vy ju skontrolujete a odošlete.",
+  "agentSubtitle": "\"Ktoré dni sú budúci týždeň ešte voľné?\" \"Priprav odpoveď pre Sarah s dostupnosťou.\" Duet pozná vašu schránku aj kalendár — stačí sa opýtať.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Dostupnosť 12. júla pre 4 osoby?",
+      "preview": "Sme skupina 4 ľudí a chceme si rezervovať rybársky výlet...",
+      "pill": "Odpovedať teraz",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervácia potvrdená — sobota 7:00",
+      "pill": "Rezervované",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Čo si máme v sobotu priniesť?",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Váš týždenný súhrn rezervácií",
+      "pill": "Pre info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "West Marine",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Jarný výpredaj — 20 % zľava na výstroj",
+      "pill": "Propagácie",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Dostupnosť 12. júla pre 4 osoby?",
+    "originalFrom": "Sarah M. wrote:",
+    "originalText": "Ahoj! Sme skupina 4 ľudí a chceme si rezervovať rybársky výlet na 12. júla. Máte voľno? Aká je cena za celý deň?",
+    "lines": [
+      "Ahoj Sarah!",
+      "12. júla máme pre 4 osoby úplne voľno. Celodenné výjazdy stoja $500 a trvajú 8 hodín, s odchodom o 6:00 z maríny.",
+      "Všetko vybavenie, návnada aj rybárske licencie sú v cene — stačí si priniesť opaľovací krém a chladiaci box.",
+      "Chceš, aby som to potvrdil?"
+    ],
+    "highlightText": "12. júla máme pre 4 osoby úplne voľno. Celodenné výjazdy stoja $500",
+    "tooltipFeatures": [
+      "Pozná vaše ceny a dostupnosť",
+      "Píše vo vašom štýle",
+      "Automaticky doplní detaily výletu",
+      "Učí sa priebežne"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ktoré dni sú budúci týždeň ešte voľné?",
+    "agentResponse": "Podľa vášho kalendára máte budúci týždeň voľno v utorok, štvrtok a sobotu. Pondelok a streda sú úplne plné (2 chartery každý deň). Chcete, aby som pripravil odpoveď na nejaké čakajúce dopyty s týmito dátumami?",
+    "followUp": "Priprav odpoveď pre Sarah s dostupnosťou na 12. júla",
+    "followUpResponse": "Hotovo! Pripravil som odpoveď pre Sarah s potvrdením 12. júla pre 4 hostí za $500. Obsahuje vaše štandardné detaily výletu a miesto stretnutia. Je pripravená na kontrolu a odoslanie."
+  },
+  "testimonialsTitle": "Obľúbený medzi kapitánmi charterov",
+  "testimonials": [
+    {
+      "name": "Captain Mike D.",
+      "title": "Kapitán offshore charteru, FL",
+      "quote": "V hlavnej sezóne som prichádzal o 2-3 rezervácie týždenne len preto, že som z lode nestíhal odpovedať dosť rýchlo. Duet pripraví odpovede s mojimi cenami a detailmi výletu — ja ich len odošlem medzi úlovkami.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah & Tom K.",
+      "title": "Rodinný charterový biznis, OR",
+      "quote": "Prevádzkujeme dve lode a objem e-mailov počas leta je šialený. Duet triedi dopyty po rezerváciách od všetkého ostatného a pripravuje odpovede, ktoré znejú presne ako my. Úplne mení pravidlá hry.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Sprievodca pri pobrežnom rybolove, TX",
+      "quote": "Každý večer som strávil hodinu odpovedaním na tie isté otázky o dostupnosti. Teraz to rieši Duet. Môj čas reakcie sa skrátil z hodín na minúty a odkedy ho používam, som nestratil žiadnu rezerváciu.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Vedúca kancelárie charteru, HI",
+      "quote": "Spravovať e-maily pre 4 kapitánov bolo na plný úväzok. Duet všetko kategorizuje a pripravuje odpovede so správnou loďou, správnou cenou, správnym kapitánom. Je to ako mať ďalšiu seba.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Deep Sea Charters, NC",
+      "quote": "Bola som skeptická, že AI zvládne e-maily rybárskeho charteru. No naučila sa naše typy výletov, čo je v cene, dokonca aj storno podmienky. Klienti nevedia rozoznať rozdiel.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Strávte hlavnú sezónu na vode,\nnielen v schránke.",
+  "ctaSubline": "Začnite bezplatnú skúšobnú verziu. Prepojte svoju schránku za 30 sekúnd.",
+  "verticalFaqs": [
+    {
+      "question": "Funguje Duet pre e-maily o rezerváciách a dostupnosti?",
+      "answer": "Určite. Duet sa naučí typy výletov, ceny, dostupnosť a pravidlá. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď so správnymi detailmi — cenou, tým, čo je v cene, miestom stretnutia a tým, čo si priniesť. Vy ju skontrolujete a odošlete."
+    },
+    {
+      "question": "Som celý deň na vode. Môžem používať Duet z telefónu?",
+      "answer": "Áno. Duet funguje s Gmail a Outlook, takže funguje všade tam, kde funguje váš e-mail — vrátane telefónu. Návrhy sa zobrazia automaticky. Medzi úlovkami ich skontrolujete a odošlete jedným ťuknutím. Väčšina kapitánov nám hovorí, že im to počas hlavnej sezóny šetrí 1-2 hodiny denne na e-maily."
+    }
+  ],
+  "pricingNote": "Pri cene $500/charter zaplatí jedna zachránená rezervácia viac než rok Pro."
+}

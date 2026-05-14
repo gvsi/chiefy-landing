@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail za jahanje i vodiče za staze | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže operaterima trail vožnje da odmah odgovore na e-poštu s rezervacijom — čak i sa sjedišta. Odgovori izrađeni AI s vašim cijenama, zahtjevima vozača i glasom.",
+  "heroBadge": "Vjeruje mu više od 300 vodiča",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na stazi",
+  "heroSubline": "Duet uči vaše vrste vožnje, cijene, zahtjeve vozača i uvjete staze — zatim sastavlja skice odgovora e-poštom kako nikada ne biste izgubili rezervaciju zbog sporog odgovora.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Grupna rezervacija za 6 osoba — subota ujutro?",
+      "preview": "Bok! Mi smo šesteročlana obitelj (2 odrasle osobe, 4 djece od 8 do 14 godina) i voljeli bismo rezervirati vožnju stazom ovu subotu ujutro. Imate li raspoloživosti? Koja je cijena po osobi?",
+      "pill": "Odgovoriti",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Pitanje ograničenja težine",
+      "preview": "Hej, želim rezervirati vožnju, ali sam prvo želio pitati o tvojim zahtjevima za težinu. Imam oko 260 funti — hoće li to biti problem...",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Vožnja u suton za godišnjicu?",
+      "preview": "Sljedeći vikend slavimo našu 10. godišnjicu i vidjeli smo vašu vožnju u zalasku na Instagram. Je li dostupno u petak navečer? Sva posebna pakiranja...",
+      "pill": "Rezervacija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova recenzija vašeg unosa",
+      "preview": "Putnik je nedavno pregledao vašu tvrtku. Pogledajte što su imali za reći i odgovorite...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Jessica! Subota ujutro otvorena je za 6. Naše staze koštaju 100 USD po osobi i traju oko 90 minuta kroz dolinu. Djeca 8+ su dobrodošla — svi su vaši spremni. Potrebne su zatvorene cipele, a mi osiguravamo kacige. Hoćeš da te rezerviram za vožnju u 9 ujutro?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "vožnja",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Jedna spremljena grupna vožnja plaća više od dvije godine Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahtjeve za rezervaciju, zatim pitanja vozača, a nikad buku. Nema više propuštanja grupnog upita zakopanog ispod TripAdvisor upozorenja.",
+  "draftSubtitle": "Duet uči vaše vrste vožnje, cijene i zahtjeve. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s pojedinostima o stazi, cijenama i što odjenuti. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Otvorene su vožnje ovaj vikend?\" \"Nacrtajte odgovor Jessici s dostupnošću u subotu.\" Duet zna vašu pristiglu poštu i kalendar — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Grupna rezervacija za 6 osoba — subota ujutro?",
+      "preview": "Mi smo šesteročlana obitelj koja želi rezervirati vožnju stazom...",
+      "pill": "Odgovorite sada",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Vožnja u zalazak sunca potvrđena — petak 17:30",
+      "pill": "Rezervirano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Ograničenje težine i zahtjevi za iskustvom?",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Vaš tjedni sažetak rezervacija",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tractor Supply",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Proljetna rasprodaja — 15% popusta na stočnu hranu i pribor",
+      "pill": "Promaknuća",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Grupna rezervacija za 6 osoba — subota ujutro?",
+    "originalFrom": "Jessica T. je napisala:",
+    "originalText": "Bok! Mi smo šesteročlana obitelj (2 odrasle osobe, 4 djece od 8 do 14 godina) i voljeli bismo rezervirati vožnju stazom ovu subotu ujutro. Imate li raspoloživosti? Koja je cijena po osobi?",
+    "lines": [
+      "Hej Jessica!",
+      "Subota ujutro je otvorena za 6. Vožnje stazom koštaju 100 USD po osobi i traju oko 90 minuta kroz dolinu. Djeca od 8 i više godina su dobrodošla, tako da je cijela vaša ekipa spremna.",
+      "Potrebne su zatvorene cipele — najbolje su čizme. Nudimo kacige i prilagođavamo svakog jahača konju na temelju veličine i iskustva. Nije potrebno prethodno iskustvo jahanja.",
+      "Hoćeš da te zaključam za vožnju u 9 ujutro?"
+    ],
+    "highlightText": "Subota ujutro je otvorena za 6. Vožnje stazom su 100 USD po osobi",
+    "tooltipFeatures": [
+      "Poznaje vaše cijene i dostupnost",
+      "Nacrt u vašem tonu",
+      "Automatski uključuje zahtjeve vozača",
+      "Uči s vremenom"
+    ]
+  },
+  "agent": {
+    "userMessage": "Otvorene su vožnje ovaj vikend? Također, kakvo je vrijeme?",
+    "agentResponse": "Na temelju vašeg kalendara imate otvorena subotom u 9 i 14 sati te nedjeljom u 10 sati. Prognoza za subotu je 72°F i sunčano — savršeno vrijeme za vožnju. Nedjelja pokazuje 40% šanse za popodnevnu kišu, tako da je jutarnji termin sigurnija oklada. Želite li da napišem odgovore na sve upite na čekanju s ovim vremenom?",
+    "followUp": "Nacrtajte odgovor Jessici s dostupnošću u subotu",
+    "followUpResponse": "Gotovo! Napisao sam odgovor Jessici potvrđujući subotu u 9 ujutro za 6 vozača po 100 USD po osobi. Uključuje vaše standardne zahtjeve vozača i što nositi. Spremno za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga operateri staza",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Vlasnik ranča i vodič za stazu, MT",
+      "quote": "Na stazi sam 6 sati dnevno bez mobilnog telefona. Dok sam se vratio da odgovorim, pola ljudi je rezerviralo negdje drugdje. Sada Duet sastavlja odgovore s mojim detaljima o cijenama i vožnji — samo pregledam i pošaljem kad se vratim u staju.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Marija C.",
+      "title": "Organizator putovanja na konjima, AZ",
+      "quote": "Dobivamo desetke e-poruka u kojima se pita ista stvar — ograničenja težine, što odjenuti, dobna ograničenja. Duet obrađuje sve i odgovori zvuče točno kao ja. Moji gosti nemaju pojma da je to AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Vodič za staze, CO",
+      "quote": "Špica sezone me ubijala. 30+ e-poruka dnevno povrh vožnje. Duet razvrstava zahtjeve za rezervaciju od buke i sastavlja odgovore koji uključuju sve — cijene, što ponijeti, puno. Dobio sam svoje večeri natrag.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Instruktor jahanja i voditelj rezervacija, TX",
+      "quote": "Organiziramo vožnje u zalasku sunca, jutarnje vožnje i privatne satove - svaki s različitim cijenama i zahtjevima. Duet je sve naučio u tjedan dana. Svaki put izrađuje pravi odgovor za pravu vrstu vožnje.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Obiteljski ranč i staze, CA",
+      "quote": "Osjetljive e-poruke bile su najgore — netko je pitao jesu li preteške ili je li njihovo dijete dovoljno staro. Duet s njima postupa s istom pažnjom koju bih ja radio. Profesionalni, ljubazni i točni. Samo to vrijedi.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Provedite dan s konjima,\nne u tvoj sandučić.",
+  "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Kako Duet rješava osjetljiva pitanja o težini ili zahtjevima za iskustvom?",
+      "answer": "Duet uči vaša specifična pravila i odražava vaš ton. Kad netko pita o ograničenjima težine ili zahtjevima za iskustvom, odgovara profesionalno i toplo — dijeli informacije koje su im potrebne, a da to ne čini neugodnim. Jednom odredite ton, a Duet ga dosljedno slijedi, tako da se svaki gost osjeća poštovanim."
+    },
+    {
+      "question": "Može li Duet upravljati grupnim rezervacijama s različitim potrebama putnika?",
+      "answer": "Da. Duet uči vaše vrste vožnje, veličine grupe, minimalnu dob i sve zahtjeve specifične za vozača. Kada obitelj ili grupa pošalje e-poruku o rezervaciji, ona sastavlja odgovor koji pokriva cijene za cijelu grupu, što svaki vozač treba znati i raspoložive termine. Vi pregledavate i šaljete — nema potrebe za vraćanjem."
+    }
+  ],
+  "pricingNote": "Po cijeni od 100 USD po osobi za grupu od 6 osoba, jedna spremljena vožnja plaća više od dvije godine Pro."
+}

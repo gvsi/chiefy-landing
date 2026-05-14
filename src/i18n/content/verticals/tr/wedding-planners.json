@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail Düğün Planlayıcıları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, düğün planlayıcılarının müşteri ve tedarikçi e-postalarına anında yanıt vermesine yardımcı olur; hatta mekan gezileri sırasında bile. AI, paketleriniz, tedarikçi iletişim bilgileriniz ve ses tonunuzla birlikte taslak halinde yanıtlar oluşturur.",
+  "heroBadge": "400'den fazla düğün organizatörü tarafından güvenilen bir marka.",
+  "heroHeadline": "Etkinlik alanında bulunduğunuz süre boyunca e-posta asistanınız.",
+  "heroSubline": "Duet, tedarikçi iletişim bilgilerinizi, paketlerinizi ve müşteri tercihlerinizi öğrenir ve ardından çiftlerin siz sahada koordinasyon sağlarken beklemesini önlemek için e-posta yanıtları taslağı hazırlar.",
+  "inboxEmails": [
+    {
+      "from": "Emily ve James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "20 Eylül'deki düğün için müsaitliğiniz var mı?",
+      "preview": "Merhaba! Yeni nişanlandık ve 20 Eylül'de yaklaşık 120 kişilik bir düğün planlıyoruz. Müsaitliğiniz var mı? Paketleriniz neler?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Çiçekleri",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Konu: Thompson düğünü — masa süsü örnekleri",
+      "preview": "İşte görüştüğümüz üç masa süsü seçeneği. Bahçe gülleri çok güzel açtı. Çiftin hangi yönde ilerlemek istediğini bana bildirin...",
+      "pill": "Satıcı",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Oturma planı konusunda panikliyorum.",
+      "preview": "Geçen hafta masa düzenini kesinleştirdiğimizi biliyorum ama annem 4 kişi daha katılacağını bildirdi ve onları nereye yerleştireceğimi bilmiyorum. Masaların yerini değiştirebilir miyiz acaba...?",
+      "pill": "Müşteri",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "İlanınızdan gelen yeni sorgu",
+      "preview": "Bir çift, hizmetleriniz hakkında daha fazla bilgi talep etti. Ayrıntıları inceleyin ve yanıt verin...",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Emily ve James, nişanınız için tebrikler! 20 Eylül müsait ve 120 kişilik bir davetli sayısı ideal. Tam planlama, kısmi planlama ve düğün günü koordinasyon paketleri sunuyorum. Vizyonunuzu öğrenmek için ücretsiz bir görüşme ayarlamak isterim. Bu hafta kısa bir görüşme için müsait misiniz?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "düğün",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Bir müşteri, Duet'ın 20 yılı aşkın süredir sağladığı hizmetin bedelini karşılıyor."
+  },
+  "categorizationSubtitle": "Duet, her e-postayı otomatik olarak etiketleyerek önce yeni çiftlerin taleplerini, sonra tedarikçi onaylarını ve asla bülten gürültüsünü görmenizi sağlar. Artık Knot uyarılarının altında kaybolan bir rezervasyon talebini kaçırmayacaksınız.",
+  "draftSubtitle": "Duet paketlerinizi, tercih ettiğiniz tedarikçileri ve üslubunuzu öğrenir. Birkaç kişi soru sorduğunda, müsaitlik durumunuzu ve sonraki adımları içeren sıcak ve eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Thompson düğünü için hangi tedarikçilerden e-postalar geldi?\" \"Cumartesi için tüm tedarikçilere bir zaman çizelgesi güncellemesi taslağı hazırlayın.\" Duet gelen kutunuzu ve müşterilerinizi biliyor - sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Emily ve James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "20 Eylül'deki düğün için müsaitliğiniz var mı?",
+      "preview": "Nişanlandık ve 20 Eylül'ü düşünüyoruz...",
+      "pill": "Şimdi Yanıt Verin",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Çiçekleri",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Konu: Thompson düğünü — masa süsü örnekleri",
+      "pill": "Satıcı",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Konu: Oturma planı — son hali ektedir",
+      "pill": "Müşteri",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "İlanınızdan gelen yeni sorgu",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Minted",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Bu hafta düğün davetiyelerinde %20 indirim.",
+      "pill": "Promosyonlar",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Konu: 20 Eylül'deki düğün için müsaitlik durumu?",
+    "originalFrom": "Emily ve James W. şunları yazdı:",
+    "originalText": "Merhaba! Yeni nişanlandık ve 20 Eylül'de yaklaşık 120 kişilik bir düğün planlıyoruz. Müsaitliğiniz var mı? Paketleriniz ve fiyatlarınız nelerdir?",
+    "lines": [
+      "Merhaba Emily ve James, tebrikler!",
+      "20 Eylül müsait ve 120 kişilik harika bir sayı. Tam planlama, kısmi planlama ve etkinlik günü koordinasyon paketleri sunuyorum, fiyatlar 0.500 ABD dolarından başlıyor.",
+      "Sizin vizyonunuzu dinlemek ve hangi paketin size en uygun olduğunu birlikte değerlendirmek için ücretsiz bir görüşme ayarlamaktan memnuniyet duyarım.",
+      "Bu hafta telefon görüşmesi için müsait misiniz?"
+    ],
+    "highlightText": "20 Eylül müsait ve 120 konuk harika bir sayı.",
+    "tooltipFeatures": [
+      "Paketlerinizi ve müsaitlik durumunuzu biliyor.",
+      "Sesinizdeki taslaklar",
+      "Danışma sonrası adımları içerir.",
+      "Müşterilerinizin tercihlerini öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Bu hafta Thompson'ın düğünüyle ilgili hangi tedarikçilerden e-postalar geldi?",
+    "agentResponse": "Bu hafta Thompson düğünü için 4 tedarikçiden e-posta aldınız: Bella Rosa Florals masa süsü örneklerini gönderdi (çiftin seçimi bekleniyor), Lakeside Venue cuma günü saat 16:00'da yapılacak tören provasını onayladı, DJ Marco güncellenmiş şarkı listesini gönderdi ve Sweet Layers Bakery çarşambaya kadar pastanın son lezzetini istiyor. Bunlardan herhangi birine yanıt taslağı hazırlamamı ister misiniz?",
+    "followUp": "Çiftin tercihini (B seçeneği, bahçe gülleri) belirterek Bella Rosa'ya bir yanıt taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Bella Rosa Florals'a Thompson düğünü için B seçeneğini (bahçe gülü masa süsleri) onaylayan bir yanıt taslağı hazırladım. 14 masa için tam siparişin verilmesi yönünde bir not da ekledim. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "Düğün organizatörleri tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Butik Düğün Organizatörü, CO",
+      "quote": "Haftanın yarısını hiç cep telefonu çekmeyen dağlık bölgelerdeki mekanlarda geçiriyorum. Bu sırada çiftler bana zaman çizelgeleri ve tedarikçi soruları hakkında e-posta gönderiyor. Duet tam olarak paketlerimi ve üslubumu içeren taslak yanıtlar hazırlıyor; ben de kapsama alanına geri döndüğümde bunları inceliyorum.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Kaliforniya'da Tam Hizmet Veren Düğün Organizasyon Şirketi",
+      "quote": "Düğün başına 10'dan fazla tedarikçiyi koordine etmek, yoğun sezonda gelen kutumu adeta bir savaş alanına dönüştürüyor. Duet tedarikçi e-postalarını müşteri e-postalarından ayrı olarak sınıflandırıyor ve benim kendim yazacağım takip e-postalarını taslak haline getiriyor. Artık gerçekten uyuyabiliyorum.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Etkinlik Günü Koordinatörü, TX",
+      "quote": "Düğün günlerinde 14 saat boyunca müsait değilim. Yeni gelen sorular eskiden Pazartesiye kadar cevapsız kalıyordu. Şimdi Duet anında ilgileniyor ve sadece daha hızlı yanıt süreleri sayesinde bu çeyrekte 3 ekstra düğün rezervasyonu aldım.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Hawaii'de Düğün Organizasyonu",
+      "quote": "Çiftlerim dünyanın dört bir yanından geliyor ve günün her saatinde e-posta gönderiyorlar. Duet sık sorulan sorulara verdiğim cevapları (mekan lojistiği, yerel tedarikçiler, neler beklemeli) öğreniyor ve tıpkı benim gibi yazan taslak cevaplar hazırlıyor. Müşterilerin bundan haberi yok.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Düğün ve Etkinlik Planlayıcısı, New York",
+      "quote": "Her gece aynı paket ve müsaitlik sorularını yanıtlamak için 2 saat harcıyordum. Duet bu tekrarlayan işleri hallediyor, böylece ben de gerçekten sevdiğim yaratıcı işlere odaklanabiliyorum. İlk haftada kendini amorti etti.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Törene katılın,\ne-posta kutunuzda kaybolmayın.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Duet tüm tedarikçi koordinasyon e-postalarıyla çalışıyor mu?",
+      "answer": "Evet. Duet, tedarikçi iletişim bilgilerinizi, tercih ettiğiniz tedarikçileri ve her biriyle nasıl iletişim kurduğunuzu öğrenir. Tedarikçi e-postalarını düğüne göre kategorize eder ve doğru ayrıntılarla (onaylar, takip mesajları, zaman çizelgesi güncellemeleri) yanıt taslakları oluşturur. Siz incelersiniz ve gönderirsiniz. Çiçekçiler, catering firmaları, mekanlar, DJ'ler, fotoğrafçılar ve rehberinizdeki diğer tüm tedarikçilerle ilgilenir."
+    },
+    {
+      "question": "Gün boyu düğünlerde ve mekanlarda bulunuyorum. Yeni talepleri kaçırır mıyım?",
+      "answer": "İşte Duet tam olarak bu sorunu çözüyor. Siz yerinde koordinasyon yaparken müsaitlik veya paketler hakkında birkaç e-posta aldığınızda, Duet gerçek müsaitlik durumunuzu ve sonraki adımları içeren sıcak ve profesyonel bir yanıt taslağı hazırlıyor. Müsait olduğunuzda, hatta etkinlikler arasında telefonunuzdan bile inceleyip gönderebilirsiniz. Çoğu organizatör, bunun yoğun sezonda günde 1-2 saatlik e-posta zamanından tasarruf sağladığını söylüyor."
+    }
+  ],
+  "pricingNote": "$8,000/düğün fiyatıyla, bir müşteri Pro'in 20 yıldan fazla süren hizmetinin bedelini karşılıyor."
+}

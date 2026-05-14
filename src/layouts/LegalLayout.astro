@@ -2,10 +2,20 @@
 import BaseLayout from "./BaseLayout.astro"
 import LegalNav from "../components/nav/LegalNav.astro"
 import Footer from "../components/sections/Footer.astro"
+import { formatDate } from "../utils/readingTime"
+import { jsonLdScript } from "../i18n/jsonLd"
+import type { Locale } from "../i18n/locales"
+import { localizedPath, type AlternateLink } from "../i18n/routing"
+import type { Messages } from "../i18n/messages/schema"
+import { t } from "../i18n/messages/schema"
 
 type ActivePage = "terms" | "privacy" | "cookies" | "disclaimer"
 
 type Props = {
+    locale: Locale
+    messages: Messages
+    alternates: AlternateLink[]
+    robotsDirectives?: string
     title: string
     description: string
     canonicalPath: string
@@ -15,6 +25,10 @@ type Props = {
 }
 
 const {
+    locale,
+    messages,
+    alternates,
+    robotsDirectives,
     title,
     description,
     canonicalPath,
@@ -22,6 +36,8 @@ const {
     activeNav,
     contentHtml,
 } = Astro.props
+
+const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
 
 const decodeHtmlEntities = (value: string) =>
     value
@@ -35,30 +51,27 @@ const decodeHtmlEntities = (value: string) =>
 const stripTags = (value: string) =>
     decodeHtmlEntities(value.replace(/<[^>]*>/g, "")).trim()
 
+const metadataComments: Record<string, string> = {}
+const withoutMetadataComments = contentHtml.replace(
+    /^(\s*<!--\s*(lastUpdated|translationStatus):\s*([\s\S]*?)\s*-->\s*)+/u,
+    (match) => {
+        for (const comment of match.matchAll(/<!--\s*(lastUpdated|translationStatus):\s*([\s\S]*?)\s*-->/gu)) {
+            metadataComments[comment[1]] = comment[2].trim()
+        }
+        return ""
+    },
+)
+
 const withoutTitle = (() => {
     const match = contentHtml.match(
         new RegExp("<h1\\b[^>]*>[\\s\\S]*?</h1>", "i")
     )
-    if (!match) return { titleText: undefined, html: contentHtml }
+    if (!match) return { titleText: undefined, html: withoutMetadataComments }
     return {
         titleText: stripTags(
             match[0].replace(new RegExp("</?h1\\b[^>]*>", "gi"), "")
         ),
-        html: contentHtml.replace(match[0], ""),
-    }
-})()
-
-const withoutUpdated = (() => {
-    const match = withoutTitle.html.match(
-        new RegExp("<p\\b[^>]*>[\\s\\S]*?Last updated:[\\s\\S]*?</p>", "i")
-    )
-    if (!match) return { updatedAtText: undefined, html: withoutTitle.html }
-
-    const updatedAtText = stripTags(match[0])
-
-    return {
-        updatedAtText,
-        html: withoutTitle.html.replace(match[0], ""),
+        html: withoutMetadataComments.replace(match[0], ""),
     }
 })()
 
@@ -66,8 +79,46 @@ const pageTitle =
     withoutTitle.titleText ??
     title.replace(/\u00a0/g, " ").replace(/\\s*-\\s*Duet Mail\\s*$/i, "").trim()
 
-const updatedAt = withoutUpdated.updatedAtText
-const bodyHtml = withoutUpdated.html.trim()
+const updatedAtDate = (() => {
+    if (metadataComments.lastUpdated) {
+        const date = new Date(`${metadataComments.lastUpdated}T00:00:00.000Z`)
+        if (Number.isNaN(date.getTime())) {
+            throw new Error(`Invalid legal lastUpdated metadata for ${canonicalPath}: ${metadataComments.lastUpdated}`)
+        }
+        return date
+    }
+    throw new Error(`Missing legal lastUpdated metadata for ${canonicalPath}`)
+})()
+const updatedAt = t(messages, "legal.lastUpdated", { date: formatDate(updatedAtDate, locale) })
+const bodyHtml = withoutTitle.html.trim()
+const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    inLanguage: locale,
+    itemListElement: [
+        {
+            "@type": "ListItem",
+            position: 1,
+            name: t(messages, "legalNav.home"),
+            item: new URL(localizedPath(locale, { kind: "home" }), Astro.site).toString(),
+        },
+        {
+            "@type": "ListItem",
+            position: 2,
+            name: pageTitle,
+            item: canonicalUrl,
+        },
+    ],
+}
+const pageJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    inLanguage: locale,
+    name: pageTitle,
+    description,
+    url: canonicalUrl,
+}
+const extraHeadHtml = `${jsonLdScript(pageJsonLd)}\n${jsonLdScript(breadcrumbJsonLd)}`
 ---
 
 <BaseLayout
@@ -75,8 +126,12 @@ const bodyHtml = withoutUpdated.html.trim()
     description={description}
     canonicalPath={canonicalPath}
     ogImagePath={ogImagePath}
+    locale={locale}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
+    extraHeadHtml={extraHeadHtml}
 >
-    <LegalNav active={activeNav} />
+    <LegalNav active={activeNav} locale={locale} messages={messages} alternates={alternates} />
 
     <main class="relative isolate">
         <div class="mx-auto max-w-4xl px-6 pt-28 pb-20 md:px-10">
@@ -91,7 +146,7 @@ const bodyHtml = withoutUpdated.html.trim()
         </div>
     </main>
 
-    <Footer />
+    <Footer locale={locale} messages={messages} />
 </BaseLayout>
 
 <style>

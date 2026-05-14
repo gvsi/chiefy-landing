@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | Pembantu E-mel AI untuk Gmail dan Outlook",
+    "description": "Pembantu e-mel AI Duet Mail meringkaskan e-mel, menyediakan draf balasan, dan menyusun peti masuk anda. Berfungsi dengan Gmail dan Outlook. Jimat 4+ jam setiap minggu."
+  },
+  "hero": {
+    "badge": "Kini tersedia untuk Gmail dan Outlook",
+    "headlinePrefix": "Pengepalai staf ",
+    "headlineHighlight": "utama",
+    "headlineSuffix": " untuk",
+    "rotatingFeatures": [
+      "mengisih e-mel",
+      "menyediakan draf balasan",
+      "menjadualkan",
+      "mencari jawapan"
+    ],
+    "subline": "Jimat 4+ jam setiap minggu pada e-mel",
+    "primaryCta": "Mula dengan Gmail",
+    "secondaryCta": "Mula dengan Outlook",
+    "trialNote": "Percubaan percuma 14 hari",
+    "cancelNote": "Boleh dibatalkan pada bila-bila masa"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Pengkategorian segera",
+      "Balasan berkuasakan AI"
+    ],
+    "windowTitle": "Peti Masuk",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "Semalam"
+    ],
+    "autodraftLabel": "Autodraf",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Garis Masa Pelancaran Produk",
+        "preview": "Hai! Saya ingin menyemak aset pelancaran. Adakah kita masih berada di landasan untuk minggu depan...",
+        "pill": "Untuk Dibalas"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Panggilan ringkas petang ini?",
+        "preview": "Saya ingin berbincang tentang kemas kini roadmap. Adakah anda lapang sekitar jam 4 petang...",
+        "pill": "Mesyuarat"
+      },
+      {
+        "from": "Pemasaran",
+        "avatarLetter": "M",
+        "subject": "Hasil Kempen Sedia",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Stor anda sedia untuk Black Friday",
+        "pill": "Promosi"
+      }
+    ],
+    "autodraft": "Hai Alex! Ya, kami masih mengikut jadual. Pasukan reka bentuk telah menyiapkan aset semalam dan saya akan menghantar fail akhir sebelum tamat hari ini."
+  },
+  "logos": {
+    "ariaLabel": "Logo pelanggan",
+    "headingPrefix": "Dipercayai oleh profesional dan pasukan yang berfikiran ke hadapan",
+    "headingHighlight": " professional dan pasukan ",
+    "headingSuffix": "di seluruh dunia"
+  },
+  "features": {
+    "ariaLabel": "Ciri-ciri",
+    "eyebrow": "Peti Masuk Anda, Dikuasakan Lebih Hebat",
+    "title": "Peti masuk anda tak sepatutnya menguasai hari anda",
+    "subtitle": "Tukar kekacauan menjadi kejelasan dengan AI yang benar-benar memahami anda.\nJimat 3+ jam setiap minggu dengan pembantu e-mel paling pintar untuk Gmail dan Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "Draf e-mel yang kedengaran seperti anda",
+        "description": "Penulis e-mel AI Duet menyediakan draf untuk e-mel anda yang paling penting. Ia mempelajari nada dan gaya penulisan anda.",
+        "ariaLabel": "Draf e-mel yang kedengaran seperti anda",
+        "mockCopy": {
+          "draftedColdEmail": "Saya telah menyediakan draf e-mel cold yang diperibadikan untuk John",
+          "sampleText": "Saluran paip AI adalah penting untuk membina sistem AI yang kukuh, boleh skala, dan cekap.",
+          "readyToSend": "Sedia untuk dihantar?",
+          "remindFollowUp": "Ingatkan saya untuk membuat susulan."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Ringkasan Segera & Item Tindakan",
+        "description": "Dapatkan TL;DR dan item tindakan daripada kandungan e-mel anda dalam beberapa saat. Tiada lagi membaca novel dalam peti masuk anda.",
+        "ariaLabel": "Ringkasan segera dan item tindakan",
+        "mockCopy": {
+          "sentencePrefix": "Saya mencadangkan kita ",
+          "sentenceHighlight": "bertemu minggu depan",
+          "sentenceSuffix": " ?",
+          "actionTitle": "Item Tindakan Baharu",
+          "actionLead": "Saya jumpa slot kosong ini dalam kalendar anda",
+          "slots": [
+            "Selasa, jam 10 pagi",
+            "Khamis, jam 2 petang",
+            "Jumaat, jam 9 pagi"
+          ],
+          "secondaryButton": "Cari lagi",
+          "primaryButton": "Hantar"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Peringatan Pintar",
+        "description": "Tetapkan dan lupakannya. Duet AI ingat untuk membuat susulan apabila orang lain tidak membalas, supaya tiada perkara yang terlepas pandang.",
+        "ariaLabel": "Peringatan pintar",
+        "mockCopy": {
+          "header": "Peringatan Pintar Berkuasa AI",
+          "stats": [
+            {
+              "label": "Susulan",
+              "value": "12",
+              "unit": "e-mel"
+            },
+            {
+              "label": "Perlu dibalas",
+              "value": "2",
+              "unit": "e-mel"
+            },
+            {
+              "label": "Selesai",
+              "value": "3",
+              "unit": "item tindakan"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Selesaikan tugas penulisan",
+              "time": "2 hari lepas"
+            },
+            {
+              "title": "Penyepaduan Projek",
+              "time": "12 jam lepas"
+            }
+          ],
+          "actions": [
+            "Ikuti",
+            "Jadual semula?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Fokus pada Perkara yang Penting",
+        "description": "Pengkategorian pintar menampilkan e-mel anda yang paling penting terlebih dahulu, dan mengkategorikan e-mel mengikut topik. Pengurusan E-mel tidak pernah semudah ini.",
+        "ariaLabel": "Fokus pada perkara yang penting",
+        "mockCopy": {
+          "analyzing": "SEDANG MENGANALISIS"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "Penganjuran e-mel dan pengkategorian peti masuk pintar",
+    "badge": "Penganjuran",
+    "title": "Duet menyusun peti masuk anda",
+    "subtitle": "Pengkategorian automatik menapis gangguan dan memaparkan perkara yang penting. Lihat serta-merta perkara yang memerlukan tindakan, perkara yang hanya untuk makluman, dan perkara yang boleh ditangguhkan.",
+    "windowTitle": "Peti masuk",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "Semalam",
+      "20 Dis"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "Permintaan Semakan Belanjawan Suku 4",
+        "preview": "Nombor yang dimuktamadkan telah dilampirkan. Sila semak sebelum tamat waktu kerja hari ini.",
+        "pill": "Perlu Tindakan"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Sesi ringkas pasukan esok pada 10 pagi",
+        "pill": "Mesyuarat"
+      },
+      {
+        "from": "Pasukan Reka Bentuk",
+        "avatarLetter": "D",
+        "subject": "Garis panduan jenama baharu telah diterbitkan",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Penyata bulanan anda sudah sedia",
+        "pill": "Promosi"
+      },
+      {
+        "from": "Surat berita",
+        "subject": "Rumusan mingguan",
+        "pill": "Promosi"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "Penyusunan e-mel AI dan penjanaan balasan",
+    "badge": "Penyusunan",
+    "title": "Duet menyusun draf dalam suara anda",
+    "subtitle": "Duet mempelajari cara anda menulis dan merangka balasan yang sepadan dengan nada anda. Semak, laraskan jika perlu, dan hantar dalam beberapa saat.",
+    "windowTitle": "Mesej Baharu",
+    "fieldLabels": {
+      "to": "Kepada:",
+      "subject": "Subjek:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Segerakan ringkas minggu ini?",
+      "originalFrom": "Alex Rivera menulis:",
+      "originalText": "Hai! Saya ingin berbual lanjut tentang perubahan pada pelan hala tuju. Adakah anda lapang untuk panggilan 30 minit minggu ini? Beritahu saya masa yang sesuai untuk anda.",
+      "badge": "Dirangka secara automatik",
+      "lines": [
+        "Hai Alex!",
+        "Saya ingin menyelaraskan mengenai pelan hala tuju. Saya lapang Khamis 2-4 petang atau Jumaat pagi — mana-mana pun sesuai untuk saya.",
+        "Beritahu saya pilihan yang paling sesuai untuk anda dan saya akan hantar jemputan.",
+        "Terima kasih!  "
+      ],
+      "highlightText": "Saya lapang Khamis 2-4 petang atau Jumaat pagi",
+      "actions": [
+        "Hantar",
+        "Sunting"
+      ],
+      "tooltipTitle": "Draf Diperibadikan",
+      "tooltipFeatures": [
+        "Mengetahui kalendar anda",
+        "Merangka dalam suara anda",
+        "Mengetahui konteks melalui memori",
+        "Mempelajari dari masa ke masa"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "Kecerdasan e-mel dan pembantu AI",
+    "badge": "Kecerdasan",
+    "title": "Tanya apa sahaja tentang e-mel anda",
+    "subtitle": "Minta Duet mencari e-mel, menyemak kalendar anda, atau merangka balasan. Ia memahami peti masuk anda dan menjawab serta-merta.",
+    "windowTitle": "Agen Duet",
+    "onlineLabel": "Dalam Talian",
+    "initialUserMessage": "Bolehkah anda cari invois Stripe yang dihantar oleh Accounting?",
+    "processingText": "Sedang mencari peti masuk...",
+    "foundHeader": "Menemui 2 e-mel daripada Stripe",
+    "foundBody": "Saya menemui resit untuk $29.00 USD bertarikh 24 Okt.",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Drafkan balasan"
+      },
+      {
+        "action": "calendar",
+        "label": "Cari masa untuk bertemu"
+      }
+    ],
+    "inputPlaceholder": "Tanya apa sahaja...",
+    "dynamicResponses": {
+      "processingDefault": "Memproses...",
+      "processingDraft": "Menjana draf...",
+      "processingCalendar": "Menyemak ketersediaan...",
+      "draftIntro": "Ini draf balasan untuk Accounting:",
+      "draftHeader": "Draf: accounting@company.com",
+      "draftLines": [
+        "Hai Pasukan,",
+        "Sila lihat lampiran invois Stripe untuk Oktober ($29.00).",
+        "Beritahu saya jika anda perlukan apa-apa lagi.",
+        "Salam,"
+      ],
+      "draftActions": [
+        "Hantar E-mel",
+        "Sunting"
+      ],
+      "calendarIntro": "Anda mempunyai 3 slot kosong esok:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "30 min"
+        },
+        {
+          "time": "2:00 PM",
+          "duration": "30 min"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Juga drafkan balasannya?",
+        "calendarAfterDraft": "Juga jadualkan susulan?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Testimoni",
+    "scrollingAriaLabel": "Testimoni yang sedang menatal",
+    "eyebrow": "Testimoni",
+    "title": "Disukai oleh profesional yang sibuk",
+    "subtitle": "Orang sebenar. Kemenangan peti masuk yang sebenar.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Pekerja bebas",
+        "quote": "Berbaloi setiap sen. Masa yang saya jimatkan pada e-mel membayar Duet Mail 10x ganda. Tak dapat bayangkan bekerja tanpanya sekarang.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Eksekutif Jualan",
+        "quote": "Rumusan segera bagi rantaian emel yang panjang memang magis, dan sangat mesra pengguna. Pelanggan saya fikir saya luar biasa.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Usahawan",
+        "quote": "Saya pada mulanya ragu-ragu tentang penggunaan kecerdasan buatan untuk emel saya. Sekarang, rasanya seperti ada pembantu eksekutif yang cemerlang. Tak dapat saya bayangkan untuk kembali seperti dulu.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Perunding",
+        "quote": "Sebagai seorang perunding, setiap minit amat berharga. Duet Mail bukan sekadar menjimatkan masa saya—ia menjadikan komunikasi emel saya lebih tajam.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "Pengarah Pemasaran",
+        "quote": "Akhirnya, pembantu emel AI yang benar-benar belajar cara saya menulis. Balasan segera itu memang tepat sangat, pasukan saya ingat saya bekerja pada tengah malam.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Harga",
+    "eyebrow": "Harga",
+    "heading": "Harga ringkas, peti masuk berkuasa",
+    "subheading": "Mula percuma, naik taraf bila-bila masa. Boleh batal bila-bila masa.",
+    "billingLegend": "Kekerapan pengebilan",
+    "billingAnnual": "Tahunan",
+    "billingMonthly": "Bulanan",
+    "savingsTag": "Jimat 33%",
+    "priceCadence": "/bulan",
+    "perUserSuffix": "/pengguna",
+    "annualBillingSuffix": "(dibilkan setiap tahun)",
+    "trustItems": [
+      "Pembayaran selamat melalui Stripe",
+      "Boleh batal bila-bila masa"
+    ],
+    "plans": [
+      {
+        "name": "Asas",
+        "description": "Untuk sesiapa yang ingin tahu bagaimana rasa peti masuk yang lebih pintar. Tiada komitmen diperlukan.",
+        "priceLabel": "Free",
+        "features": [
+          {
+            "title": "Rumusan Segera",
+            "description": "Dapatkan inti pati mana-mana rantaian"
+          },
+          {
+            "title": "Draf AI",
+            "description": "Sedikit rasa balasan dalam suara anda"
+          },
+          {
+            "title": "Peti Masuk Pintar",
+            "description": "Organisasi asas untuk memulakan"
+          },
+          {
+            "title": "Pembantu Duet",
+            "description": "Cuba pembantu AI"
+          }
+        ],
+        "ctaLabel": "Pilih Gmail atau Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "Percubaan percuma 14 hari",
+        "description": "Untuk profesional yang mahukan automasi yang lebih mendalam, integrasi, dan peti masuk yang benar-benar tahu cara anda bekerja.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Peti Masuk Pintar",
+            "description": "E-mel diisih secara automatik ke dalam kategori pintar",
+            "highlight": true
+          },
+          {
+            "title": "Draf AI",
+            "description": "Balasan ditulis dalam suara anda, sedia untuk dihantar",
+            "highlight": true
+          },
+          {
+            "title": "Pembantu Duet",
+            "description": "Sembang untuk mencari, draf, atur & banyak lagi",
+            "highlight": true
+          },
+          {
+            "title": "Integrasi Kalendar",
+            "description": "Jadualkan, lihat & urus acara dari peti masuk anda"
+          },
+          {
+            "title": "Ringkasan Segera",
+            "description": "Dapatkan inti pati mana-mana utas atau lampiran"
+          },
+          {
+            "title": "Peringatan Pintar",
+            "description": "Susulan dipaparkan secara automatik supaya tiada yang terlepas"
+          },
+          {
+            "title": "Sokongan Keutamaan",
+            "description": "Manusia sebenar, respons pantas"
+          }
+        ],
+        "ctaLabel": "Pilih Gmail atau Outlook",
+        "featured": true
+      },
+      {
+        "name": "Enterprise",
+        "description": "Untuk organisasi yang memerlukan skala setaraf enterprise, sokongan khusus, dan aliran kerja tersuai. Terbaik untuk pasukan 50+.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Semua dalam Pro",
+            "description": "Semua ciri disertakan"
+          },
+          {
+            "title": "Sokongan Khusus",
+            "description": "Pengurus akaun peribadi"
+          },
+          {
+            "title": "Analitik Pasukan",
+            "description": "Cerapan merentas organisasi anda"
+          },
+          {
+            "title": "Aliran Kerja Berkongsi",
+            "description": "Templat & automasi untuk pasukan"
+          }
+        ],
+        "ctaLabel": "Hubungi jualan",
+        "ctaNote": "Harga tersuai tersedia"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Soalan lazim",
+    "eyebrow": "FAQ",
+    "headingPrefix": "Soalan biasa, ",
+    "headingAccent": "dijawab",
+    "contactDecorative": "?",
+    "contactLabel": "SOKONGAN",
+    "contactHeading": "Masih ada soalan?",
+    "contactCta": "Hubungi kami →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Bagaimanakah Duet Mail melindungi data e-mel saya?",
+        "answer": "Keselamatan anda ialah keutamaan utama kami. Kami menggunakan OAuth 2.0 untuk pengesahan selamat dengan kedua-dua Google dan Microsoft. Kandungan e-mel disulitkan semasa disimpan menggunakan penyulitan peringkat medan di sisi klien, dan kami mematuhi prinsip keistimewaan minimum untuk akses API. Bagi integrasi Google kami, kami menjalani penilaian keselamatan CASA tahunan Google."
+      },
+      {
+        "question": "Bagaimanakah ciri ringkasan e-mel berfungsi?",
+        "answer": "Duet Mail menggunakan AI lanjutan untuk menganalisis utas e-mel anda dan menjana gambaran keseluruhan ringkas yang menyerlahkan perkara utama, keputusan, dan item tindakan. Ini membantu anda memahami konteks dengan cepat tanpa perlu membaca keseluruhan utas."
+      },
+      {
+        "question": "Kebenaran apa yang diperlukan oleh Duet Mail?",
+        "answer": "Duet Mail memerlukan akses kepada e-mel anda untuk menyediakan ringkasan, mengekstrak item tindakan, menjana kandungan, dan menghantar e-mel anda. Kami hanya meminta kebenaran yang benar-benar kami perlukan. Anda boleh menyemak dan menarik balik kebenaran ini pada bila-bila masa dalam tetapan Akaun Google atau Akaun Microsoft anda."
+      },
+      {
+        "question": "Apa yang termasuk dalam percubaan percuma?",
+        "answer": "Percubaan percuma 14 hari termasuk akses penuh kepada semua ciri Pro: ringkasan e-mel tanpa had, pengekstrakan item tindakan, penulis e-mel AI (menjana e-mel dan draf tanpa sebarang had), dan templat e-mel tersuai. Log masuk dengan Google atau Microsoft untuk mula menjimatkan masa dalam pengurusan e-mel."
+      },
+      {
+        "question": "Bolehkah saya menggunakan Duet Mail dengan pembekal e-mel lain?",
+        "answer": "Duet Mail menyokong Gmail, Google Workspace, dan Microsoft Outlook. Log masuk dengan akaun Google atau Microsoft anda untuk bermula."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Mulakan",
+    "headline": "Dapatkan kembali 4 jam.\nSetiap minggu.",
+    "subline": "Sertai para profesional yang memulakan hari mereka dengan kejelasan, bukan kekacauan. Percubaan percuma anda menanti.",
+    "primaryCta": "Mula dengan Gmail",
+    "secondaryCta": "Mula dengan Outlook",
+    "note": "Percubaan percuma 14 hari · Boleh dibatalkan pada bila-bila masa",
+    "trustItems": [
+      "Disemak CASA Google",
+      "Disulitkan semasa disimpan",
+      "OAuth 2.0 selamat"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Pengaki laman web",
+    "brandIconAlt": "Ikon Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Pembantu E-mel AI yang menjimatkan anda berjam-jam setiap minggu",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Terokai",
+        "links": [
+          {
+            "label": "Organisasi",
+            "href": "/ms#organization"
+          },
+          {
+            "label": "Penggubalan",
+            "href": "/ms#drafting"
+          },
+          {
+            "label": "Kecerdasan",
+            "href": "/ms#intelligence"
+          },
+          {
+            "label": "Sambungan Chrome",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Pelanggan",
+        "links": [
+          {
+            "label": "Harga",
+            "href": "/ms#pricing"
+          },
+          {
+            "label": "Testimoni",
+            "href": "/ms#testimonials"
+          },
+          {
+            "label": "FAQ",
+            "href": "/ms#faq"
+          }
+        ]
+      },
+      {
+        "title": "Undang-undang",
+        "links": [
+          {
+            "label": "Privasi",
+            "href": "/ms/privacy"
+          },
+          {
+            "label": "Terma",
+            "href": "/ms/terms"
+          },
+          {
+            "label": "Kuki",
+            "href": "/ms/cookies"
+          },
+          {
+            "label": "Penafian",
+            "href": "/ms/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Sambung",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "/ms/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup Fame",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Pulangan pelaburan",
+    "label": "Pengiraan",
+    "narrativeTemplate": "Pada {pricePerBooking} setiap {bookingUnit}, kehilangan hanya {lostPerMonth} akibat balasan lambat =",
+    "lossSuffix": "/bulan hilang",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Pembantu E-mel AI untuk Gmail dan Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Sokongan Pelanggan",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "Pembantu e-mel AI untuk Gmail dan Outlook yang secara automatik meringkaskan e-mel, mendraf balasan dalam suara anda, dan menyusun peti masuk anda untuk menjimatkan berjam-jam setiap minggu.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Pengurusan dan pengkategorian e-mel pintar",
+      "Penyediaan draf e-mel berkuasa AI dalam suara anda",
+      "Pembantu e-mel pintar dengan integrasi kalendar",
+      "Ringkasan e-mel automatik dan item tindakan",
+      "Peringatan pintar untuk susulan"
+    ],
+    "offers": [
+      {
+        "name": "Pelan Asas",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Pelan percuma dengan ringkasan segera, draf AI, dan peti masuk pintar"
+      },
+      {
+        "name": "Pelan Pro",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Akses penuh dengan pengkategorian peti masuk pintar, draf AI, pembantu, dan integrasi kalendar"
+      }
+    ],
+    "operatingSystem": "Web",
+    "browserRequirements": "Memerlukan JavaScript. Berfungsi dengan Gmail, Google Workspace, dan Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/ms",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Bagaimanakah Duet Mail melindungi data e-mel saya?",
+        "answer": "Keselamatan anda ialah keutamaan utama kami. Kami menggunakan OAuth 2.0 untuk pengesahan selamat dengan Google dan Microsoft. Kandungan e-mel dienkripsi semasa disimpan menggunakan penyulitan tahap medan sisi klien, dan kami mematuhi prinsip akses paling minimum untuk akses API. Untuk integrasi Google kami, kami menjalani penilaian keselamatan CASA tahunan Google."
+      },
+      {
+        "question": "Bagaimanakah ciri ringkasan e-mel berfungsi?",
+        "answer": "Duet Mail menggunakan AI lanjutan untuk menganalisis rangkaian e-mel anda dan menjana gambaran keseluruhan ringkas yang menyorot perkara utama, keputusan, dan item tindakan. Ini membantu anda memahami konteks dengan cepat tanpa membaca keseluruhan rangkaian."
+      },
+      {
+        "question": "Apakah kebenaran yang diperlukan oleh Duet Mail?",
+        "answer": "Duet Mail memerlukan akses kepada e-mel anda untuk menyediakan ringkasan, mengekstrak item tindakan, menjana kandungan, dan menghantar e-mel anda. Kami hanya meminta kebenaran yang benar-benar kami perlukan. Anda boleh menyemak dan membatalkan kebenaran ini pada bila-bila masa dalam tetapan Akaun Google atau Akaun Microsoft anda."
+      },
+      {
+        "question": "Apakah yang termasuk dalam percubaan percuma?",
+        "answer": "Percubaan percuma 14 hari termasuk akses penuh kepada semua ciri Pro: ringkasan e-mel tanpa had, pengekstrakan item tindakan, penulis e-mel AI (menjana e-mel dan draf tanpa sebarang had), dan templat e-mel tersuai. Log masuk dengan Google atau Microsoft untuk mula menjimatkan masa dalam pengurusan e-mel."
+      },
+      {
+        "question": "Bolehkah saya menggunakan Duet Mail dengan penyedia e-mel lain?",
+        "answer": "Duet Mail menyokong Gmail, Google Workspace, dan Microsoft Outlook. Log masuk dengan akaun Google atau Microsoft anda untuk bermula."
+      }
+    ]
+  }
+}

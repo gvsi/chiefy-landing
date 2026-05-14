@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail räätälöidyille jalokivikauppiaille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa räätälöityjä jalokivikauppiaita vastaamaan konsultointipyyntöihin, suunnitteluhyväksyntöihin ja aikajanaa koskeviin kysymyksiin välittömästi – jopa työpöydällä ollessaan. AI-luonnolliset vastaukset prosessillasi, hinnoittelullasi ja äänelläsi.",
+  "heroBadge": "Yli 300 korusuunnittelijan luottama",
+  "heroHeadline": "Sähköpostiavustajasi, kun olet penkillä",
+  "heroSubline": "Duet oppii suunnitteluprosessisi, materiaalisi, hinnoittelusi ja aikajanasi – sitten luonnostelee sähköpostivastauksia, jotta et koskaan menetä mukautettua asiakasohjelmaa hitaiden vastausten takia.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Mukautettu kihlasormusneuvonta?",
+      "preview": "Hei! Kumppanini ja minä olemme kiinnostuneita mukautetusta kihlasormuksesta. Meillä on perheen perintötimantti, jota haluaisimme käyttää. Onko sinulla mahdollisuus konsultaatioon tässä kuussa?",
+      "pill": "Vastaus",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D-malli — voimmeko säätää asetusta?",
+      "preview": "Rakastan yleistä muotoilua! Mutta voisimmeko kokeilla matalampaa profiilia asetuksissa? Laitoin liitteenä kuvan ajattelemastani tyylistä. Muuttaisiko platinaan vaihtaminen myös aikajanaa...",
+      "pill": "Versio",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Aikajanan päivitys hääbändeistä?",
+      "preview": "Hei! Tarkista vain yhteensopivia hääbändejämme. Häät ovat 18. toukokuuta ja haluan varmistaa, että olemme edelleen raiteilla. Voitko lähettää pikapäivityksen...",
+      "pill": "Tila",
+      "pillColor": "blue"
+    },
+    {
+      "from": "solmu",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uusi arvostelu myymälässäsi",
+      "preview": "Pariskunta arvosteli äskettäin yrityksesi The Knotissa. Katso mitä heillä oli sanottavaa ja vastaa...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Rachel! Autan mielelläni sinua suunnittelemaan sormuksen perheesi timantin ympärille – se on yksi suosikkitehtävistäni. Minulla on avoinna tiistai- ja torstai-iltapäivisin tässä kuussa. Tuo kivi ja kaikki inspiraatiokuvat. Neuvottelut kestävät noin tunnin eikä velvoita mihinkään. Haluatko, että pidän aikaa sinulle?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "mukautettu kappale",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Yksi tallennettu asiakas maksaa yli neljän vuoden Duet ista."
+  },
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uudet konsultaatiopyynnöt, toiseksi suunnittelun hyväksynnät ja toimittajan uutiskirjeet ei koskaan. Ei enää kaipaamaan 5 000 dollarin kyselyä toimittajan tarjousten alle.",
+  "draftSubtitle": "Duet oppii prosessisi, materiaalisi, hinnoittelusi ja äänesi. Kun konsultointipyyntö saapuu, se laatii täydellisen vastauksen, jossa kerrotaan saatavuus, mitä ottaa mukaan ja miten prosessisi toimii. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Missä olemme Amandan sormuksen kanssa?\" \"Luonnos aikajanan päivitys Jamesille.\" Duet tuntee jokaisen asiakasketjun – kysy vain.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Mukautettu kihlasormusneuvonta?",
+      "preview": "Kumppanini ja minä olemme kiinnostuneita mukautetusta sormuksesta...",
+      "pill": "Uusi kysely",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D-malli v2 — näyttää täydelliseltä!",
+      "pill": "suunnittelun hyväksyntä",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "-nauhat ovat valmiita – milloin voimme noutaa?",
+      "pill": "Valmiina noudettavaksi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Neuvottelun seuranta – rakasta luonnoksia",
+      "pill": "-konsultointi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Supply",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Kevään alennus – 15 % alennus platinalöydöistä",
+      "pill": "Myyjä/toimittaja",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Mukautettu kihlasormusneuvonta?",
+    "originalFrom": "Rachel T. kirjoitti:",
+    "originalText": "Hei! Kumppanini ja minä olemme kiinnostuneita mukautetusta kihlasormuksesta. Meillä on perheen perintötimantti, jota haluaisimme käyttää. Onko sinulla mahdollisuus konsultaatioon tässä kuussa?",
+    "lines": [
+      "Hei Rachel!",
+      "Autan mielelläni sinua suunnittelemaan jotain erityistä perheesi timanttien ympärille. Minulla on avoinna tiistai- ja torstai-iltapäivisin tässä kuussa.",
+      "Tuo kivi ja kaikki inspiraatiokuvat – Pinterest-taulut, kuvakaappaukset, mikä tahansa auttaa. Neuvottelut kestävät noin tunnin eikä velvoita mihinkään.",
+      "Sieltä prosessi on yleensä: luonnos, 3D-malli, versiot, sitten 3-4 viikkoa tuotannossa. Haluatko, että pidän aikaa sinulle?"
+    ],
+    "highlightText": "luonnos, 3D-malli, versiot, sitten 3-4 viikkoa tuotannossa",
+    "tooltipFeatures": [
+      "tuntee prosessisi ja aikajanasi",
+      "Luonnokset äänessäsi",
+      "Sisältää konsultaatiotiedot automaattisesti",
+      "Oppii ajan myötä"
+    ]
+  },
+  "agent": {
+    "userMessage": "Missä olemme Amandan kihlasormuksen kanssa?",
+    "agentResponse": "Amanda hyväksyi 3D-mallin (v2) 14. helmikuuta. Vahvistit tuotannon alkamisen 16. helmikuuta kolmen viikon arviolla. Tämä merkitsee valmistumista noin 9. maaliskuuta. Hänen viimeinen sähköpostinsa kysyi kaiverrusvaihtoehdoista - siihen ei ole vieläkään vastattu. Haluatko, että laadin vastauksen?",
+    "followUp": "Laadi Jamesille hääbändeistä koskeva aikajanapäivitys",
+    "followUpResponse": "Valmis! Laadiin Jamesille vastauksen, jossa vahvistettiin, että hänen sopivat häänauhansa ovat viimeistelyssä ja ovat valmiita noudettavaksi perjantaihin 7. maaliskuuta mennessä – paljon ennen hänen häitään 18. toukokuuta. Valmiina tarkastettavaksi ja lähetettäväksi."
+  },
+  "testimonialsTitle": "Korusuunnittelijoiden rakastama",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Custom korusuunnittelija, LA",
+      "quote": "Jokainen mukautettu kappale tuottaa 10-15 sähköpostia viikkojen aikana. Kerro se kahdeksalla aktiivisella asiakkaalla ja minä hukkuin. Duet luonnostelee suunnittelupäivitysvastauksia, konsultaatiovahvistuksia, aikajanan vastauksia – kaikki minun äänelläni. Tarkistan castingin välillä ja painan lähetä.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Goldsmith & Studion omistaja, Brooklyn",
+      "quote": "Menetin 7 000 dollarin kihlasormuspalkkion, koska minulla kesti 3 päivää vastata – pariskunta meni jollekin, joka vastasi 2 tunnissa. Duet ista lähtien vastausaikani on alle 30 minuuttia. Sitä ei ole tapahtunut enää.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Bench Jeweller, Chicago",
+      "quote": "Olen penkillä 8 tuntia päivässä taskulamppu kädessäni. En voi lopettaa mid-solderia kirjoittamasta kuulemisvastausta. Duet ti luonnostelee kaiken työskennellessäni – katson puhelintani, hyväksyn, valmis.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "morsiuskorujen suunnittelija, Austin",
+      "quote": "Kihlasukauden aikana saan yli 20 konsultaatiopyyntöä viikossa. Duet oppi koko prosessini – materiaalit, aikajanat, hinnoittelutasot ja mitä tuoda. Se luonnostelee vastauksia, joita tuskin tarvitsee muokata. Ehdoton hengenpelastaja marraskuusta helmikuuhun.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Custom Ring Specialist, Portland",
+      "quote": "3D-version sähköpostit syövät iltani. Asiakas lähettää palautetta, minä luonnostan päivityksen edestakaisin viisi kertaa. Nyt Duet käsittelee rutiinivastaukset ja minä puutun vain suunnittelupäätöksiin. Sain yöni takaisin.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Vietä päiväsi luomalla koruja,\nei vastaa sähköposteihin asiasta.",
+  "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
+  "verticalFaqs": [
+    {
+      "question": "Voiko Duet käsitellä sähköposteja, joissa on viitekuvia ja suunnitteluliitteitä?",
+      "answer": "Kyllä. Duet näkee koko sähköpostiketjun liitteet mukaan lukien, joten se ymmärtää kontekstin, kun asiakas lähettää inspiraatiokuvia tai suunnittelupalautetta. Se ei kuvaile kuvia takaisin, mutta se tietää, että asiakas on juuri lähettänyt viitekuvia ja laatii asianmukaisen vastauksen – vahvistaa vastaanottamisen, esittää tarkentavia kysymyksiä suunnittelusta tai tarjoaa seuraavat vaiheet tavanomaisen työnkulkusi perusteella."
+    },
+    {
+      "question": "Muokatuissa projekteissani on pitkät sähköpostisäikeet, joissa on yli 10 viestiä. Voiko Duet seurata niitä?",
+      "answer": "Duet loistaa juuri siellä. Se lukee koko viestiketjun historian – kuulemismuistiinpanot, suunnitteluversiot, materiaalivalinnat, aikajanan päivitykset – joten jokaisella luonnostetulla vastauksella on koko konteksti. Kun asiakas kysyy \"mikä on sormukseni tila?\" sähköpostissa nro 14 Duet tietää, mikä rengas, missä vaiheessa se on, ja laatii tarkan päivityksen. Sinun ei tarvitse enää itse lukea 3 kuukauden sähköpostit uudelleen."
+    }
+  ],
+  "pricingNote": "Hinta 5 000 $/kpl, yksi säästetty provisio maksaa yli neljän vuoden Pro:n."
+}

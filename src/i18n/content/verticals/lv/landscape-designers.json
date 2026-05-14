@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail ainavu dizaineriem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz ainavu dizaineriem nekavējoties atbildēt uz klientu e-pastiem — pat atrodoties objektā. AI sagatavotas atbildes ar jūsu projekta detaļām, cenām un toni.",
+  "heroBadge": "Uzticas 300+ ainavu dizaineru",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr esat objektā",
+  "heroSubline": "Duet apgūst jūsu projektu detaļas, augu paletes, cenas un procesu — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu klientu lēnas atbildes dēļ.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Pagalma pārveide — vai ir brīvs laiks konsultācijai?",
+      "preview": "Sveiki! Mēs tikko iegādājāmies māju Westlake, un pagalms ir kā tukša lapa. Vēlamies pilnu pārveidi ar vietējo sugu stādījumiem un terasi. Vai pieņemat jaunus klientus?",
+      "pill": "Jāatbild",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Apūdeņošanas specifikācijas Miller projektam?",
+      "preview": "Sveiki, pirmdien esam gatavi sākt tranšeju rakšanu. Vai varat atsūtīt apūdeņošanas plānu un smidzinātāju specifikācijas, lai šonedēļ varam pasūtīt materiālus?",
+      "pill": "Darbuzņēmējs",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Īss jautājums par augu izvēli",
+      "preview": "Dizains mums ļoti patīk! Tikai gribējām pajautāt — vai Japānas kļavu varam nomainīt pret kaut ko ar izteiktāku rudens krāsu? Un vai lavanda ir izturīga pret briežiem?",
+      "pill": "Klients",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Pasūtījums #4821 gatavs saņemšanai",
+      "preview": "Jūsu pasūtījums ar 24 galonu krūmiem, 6 soliterkokiem un zemsedzes augu kastēm ir gatavs. Saņemšana pieejama pirmd.–sestd. 7AM–4PM...",
+      "pill": "Piegādātājs",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Sveika, Rachel! Labprāt palīdzēšu ar jūsu pagalmu. Pašlaik sākotnējās konsultācijas varu ieplānot pēc 2-3 nedēļām. Pirmā vizīte ir 90 minūšu novērtējums uz vietas — apsekošu īpašumu, veicu mērījumus un pārrunāšu jūsu ieceri. Pēc tam sagatavošu koncepcijas plānu. Vai vēlaties, lai ierakstu jūs kalendārā?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projekts",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Viens saglabāts projekts apmaksā Duet gadiem."
+  },
+  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu jaunus konsultāciju pieprasījumus, pēc tam klientu apstiprinājumus, bet piegādātāju troksnis jūs netraucētu. Vairs nekādu pazaudētu potenciālo klientu, kas paslēpies zem stādaudzētavas pasūtījumu apstiprinājumiem.",
+  "draftSubtitle": "Duet apgūst jūsu cenas, procesu un toni. Kad pienāk konsultācijas pieprasījums, tas sagatavo pilnu atbildi ar jūsu pieejamību, gaidāmo procesu un nākamajiem soļiem. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kāds ir Henderson projekta grafiks?\" \"Kuri klienti vēl gaida plāna apstiprināšanu?\" Duet pārzina jūsu iesūtni un projektus — vienkārši pajautājiet.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Pagalma pārveide — vai ir brīvs laiks konsultācijai?",
+      "preview": "Mēs tikko iegādājāmies māju, un pagalms ir kā tukša lapa...",
+      "pill": "Jauns pieprasījums",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Gala dizains — esam gatavi apstiprināt!",
+      "pill": "Klienta apstiprinājums",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Apūdeņošanas specifikācijas Miller projektam?",
+      "pill": "Darbuzņēmējs",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Pasūtījums #4821 gatavs saņemšanai",
+      "pill": "Piegādātājs",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Rēķinu #1047 apskatīja klients",
+      "pill": "Rēķins",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Pagalma pārveide — vai ir brīvs laiks konsultācijai?",
+    "originalFrom": "Rachel T. rakstīja:",
+    "originalText": "Sveiki! Mēs tikko iegādājāmies māju Westlake, un pagalms ir kā tukša lapa. Vēlamies pilnu pārveidi ar vietējo sugu stādījumiem un terasi. Vai pieņemat jaunus klientus?",
+    "lines": [
+      "Sveika, Rachel!",
+      "Apsveicu ar jauno māju — pagalms kā tukša lapa patiesībā ir sapņu projekts. Es noteikti pieņemu jaunus klientus.",
+      "Mans process sākas ar 90 minūšu konsultāciju uz vietas, kuras laikā apsekoju īpašumu, veicu mērījumus un pārrunāju jūsu mērķus. Pēc tam izstrādāju koncepcijas plānu ar stādījumu dizainu, cieto segumu izkārtojumu un pakāpenisku budžetu.",
+      "Nākamo 2-3 nedēļu laikā man ir brīvi laiki. Vai vēlaties, lai atsūtu dažus pieejamos datumus?"
+    ],
+    "highlightText": "Mans process sākas ar 90 minūšu konsultāciju uz vietas",
+    "tooltipFeatures": [
+      "Zina jūsu dizaina procesu un cenas",
+      "Raksta melnrakstus jūsu tonī",
+      "Automātiski iekļauj konsultācijas detaļas",
+      "Laika gaitā mācās"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kuri klienti vēl gaida plāna apstiprināšanu?",
+    "agentResponse": "Balstoties uz jūsu nesenajiem e-pastiem, apstiprinājumu gaida divi klienti: Jennifer & Mark L. (pagalma pārveide — gala plāni nosūtīti pirms 4 dienām, atbildes vēl nav) un Cohens (priekšpagalma pārveide ar vietējiem augiem — pārskatītais plāns nosūtīts pagājušajā nedēļā). Vai sagatavot saudzīgu atgādinājumu kādam no viņiem?",
+    "followUp": "Sagatavo atgādinājumu Jennifer par plāna apstiprināšanu",
+    "followUpResponse": "Gatavs! Es sagatavoju draudzīgu ziņu Jennifer, pajautājot, vai viņa un Mark ir paspējuši pārskatīt gala plānus, un atgādinot, ka varat īsi sazvanīties, lai izietu cauri augu izvēlei. Gatavs pārskatīšanai un nosūtīšanai."
+  },
+  "testimonialsTitle": "Ainavu dizaineru iecienīts",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Ainavu arhitekts, Austin TX",
+      "quote": "Pavasarī es 8 stundas dienā esmu objektā, veicot novērtējumus un uzraugot ierīkošanu. Jauni konsultāciju pieprasījumi mēdza gaidīt dienām. Tagad Duet dažu minūšu laikā atbild ar manu procesu un pieejamību. Esmu rezervējis 3 projektus, kurus noteikti būtu zaudējis.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Dārzu dizainere, Portland OR",
+      "quote": "Koordinācija starp cieto segumu brigādēm, apūdeņošanas uzstādītājiem un klientiem rada absurdi daudz e-pastu. Duet to visu sašķiro un sagatavo atbildes ar pareizajām projekta detaļām. Tas ir kā studijas vadītājs.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Ainavu dizaina studijas īpašnieks, Denver CO",
+      "quote": "Agrāk katru vakaru pēc darba objektā pavadīju, ķerot iekavētos e-pastus. Tie paši jautājumi — cenas, process, termiņi. Duet tiek galā ar visu. Mans atbildes laiks no dienām saruka līdz minūtēm, un noslēgto darījumu īpatsvars ir krietni pieaudzis.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Privātmāju ainavu dizainere, Scottsdale AZ",
+      "quote": "Mani klienti uzdod daudz jautājumu par augu izvēli un kopšanu. Duet apguva manas augu paletes un kopšanas norādījumus un sagatavo atbildes, kuras gandrīz nav jārediģē. Klientiem šķiet, ka esmu neticami atsaucīga.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Ainavu dizainere ar vietējiem augiem, Raleigh NC",
+      "quote": "Es zaudēju jaunus klientus, jo nevarēju atbildēt, kamēr biju līdz ceļiem stādījumu ierīkošanā. Duet sagatavo konsultāciju atbildes ar manu precīzo procesu, cenām un gaidāmo norisi. Tas atmaksājās jau pirmajā nedēļā.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Pavadiet dienas, radot ainavas,\nnevis ķerot iekavētos e-pastus.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
+  "verticalFaqs": [
+    {
+      "question": "Vai Duet var tikt galā ar pavasara steigu, kad konsultāciju pieprasījumi krājas kaudzē?",
+      "answer": "Tieši tad Duet ir visnoderīgākais. Jūsu noslogotākajā sezonā katrs jauns pieprasījums saņem ātru, detalizētu atbildi ar jūsu procesu, termiņiem un pieejamību — pat ja visu dienu esat objektā. Vairs nezaudējiet pavasara potenciālos klientus tāpēc, ka nevarējāt viņiem atbildēt līdz 9 PM."
+    },
+    {
+      "question": "Es koordinēju darbu ar vairākām āra darbu brigādēm. Vai Duet var palīdzēt?",
+      "answer": "Jā. Duet apgūst jūsu projektus un iesaistītos darbuzņēmējus — cietā seguma darbus, apūdeņošanu, stādīšanas brigādes, stādaudzētavas. Tas atsevišķi kategorizē darbuzņēmēju e-pastus un klientu e-pastus, kā arī var sagatavot atbilžu melnrakstus ar projektam specifisku informāciju, piemēram, specifikācijām, termiņiem un materiāliem. Jūs pārvaldāt katras brigādes darbu bez iesūtnes haosa."
+    }
+  ],
+  "pricingNote": "Pie $8,000 par projektu viens saglabāts klients apmaksā Pro gadiem ilgi."
+}

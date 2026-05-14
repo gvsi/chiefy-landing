@@ -1,0 +1,171 @@
+{
+  "slug": "atv-tours",
+  "pageTitle": "Duet Mail ATV & UTV Tours jaoks | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab ATV ja UTV reisijuhtidel broneerimismeilidele koheselt vastata – isegi rajalt. Tehisintellekti koostatud vastused teie hinna, nõuete ja häälega.",
+  "heroBadge": "Usaldab üle 200 giidi",
+  "heroHeadline": "Teie e-posti assistent, kui olete teel",
+  "heroSubline": "Duet õpib tundma teie ringreisi tüüpe, hindu ja sõitjate nõudeid – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi broneeringut aeglase vastuse tõttu.",
+  "inboxEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Saadavus laupäeval 4 masinale?",
+      "preview": "Tere! Oleme 4-liikmeline grupp, kes soovib sel laupäeval broneerida giidiga ATV-ekskursiooni. Kas teil on ruumi? Mis on masina hind?",
+      "pill": "Et vastata",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Kindlustusnõuded?",
+      "preview": "Hei, me toome oma UTV-d. Kas meil on vaja esitada tõend vastutuskindlustuse kohta? Millist katet vajate...",
+      "pill": "küsimus",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Hendersonid",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Milline rada algajatele?",
+      "preview": "Me pole kunagi varem ATV-ga sõitnud. Millist matkamarsruuti soovitaksite kahe teismelisega perele? Kas pakute...",
+      "pill": "Broneerimine",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uus arvustus teie kirje kohta",
+      "preview": "Üks reisija hindas hiljuti teie ettevõtet. Vaadake, mis neil öelda oli, ja vastake...",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Tere Rachel! Laupäev on avatud ja saame võtta 4 masinat ilma probleemita. Ekskursioonid on $200 masina kohta ja kestavad umbes 6–8 tundi. Kohtume kell 9.00 raja peal – saadan juhised, kui olete kinnituse saanud. Kaasas kiivrid ja kaitseprillid. Tahad, et ma su sisse lukustan?",
+  "math": {
+    "pricePerBooking": "$800",
+    "bookingUnit": "grupp (4 masinat)",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,400",
+    "punchline": "Üks salvestatud grupibroneering maksab Duet aasta eest."
+  },
+  "categorizationSubtitle": "Duet märgistab automaatselt kõik meilid, nii et näete kõigepealt broneerimistaotlusi, teiseks kindlustusküsimusi ja mitte kunagi müra. Enam ei puudu TripAdvisor märguannete alla mattunud rühmapäring.",
+  "draftSubtitle": "Duet saab teada teie reisi marsruudid, hinnad ja nõuded sõitjatele. Kui broneeringupäring saabub, koostab see täieliku vastuse koos reisi üksikasjade, hinna ja kaasavõetava teabega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kas selleks nädalavahetuseks on broneeritud mõni grupp?\" \"Vastuse mustand Rachelile, kui see on saadaval laupäeval.\" Duet teab teie postkasti ja ajakava – lihtsalt küsige.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Saadavus laupäeval 4 masinale?",
+      "preview": "Oleme 4-liikmeline grupp, kes soovib broneerida giidiga ATV-ekskursiooni...",
+      "pill": "Vasta kohe",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Broneering kinnitatud – laupäeval kell 9",
+      "pill": "Broneeritud",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Hendersonid",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Mida peaksime rajal kandma?",
+      "pill": "küsimus",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Yelp for Business",
+      "avatarLetter": "Y",
+      "avatarColor": "lavender",
+      "subject": "Teie iganädalane ettevõtte värskendus",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Rocky Mountaini ATV",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Vedrukliirens — osad 25% soodsamalt",
+      "pill": "Pakkumised",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.w@email.com",
+    "subject": "Re: Saadavus laupäeval 4 masinale?",
+    "originalFrom": "Rachel W. kirjutas:",
+    "originalText": "Tere! Oleme 4-liikmeline grupp, kes soovib sel laupäeval broneerida giidiga ATV-ekskursiooni. Kas teil on ruumi? Mis on masina hind?",
+    "lines": [
+      "Tere Rachel!",
+      "Laupäev on avatud 4 masinale. Ekskursioonid on $200 masina kohta ja kestavad 6–8 tundi alates kell 9.00 rajapeatusest.",
+      "Kiivrid ja kaitseprillid on kaasas – kandke lihtsalt pikki pükse, kinniseid kingi ning võtke kaasa vett ja päikesekaitsekreemi. Kui olete kinnituse saanud, saadan kohtumiskoha ja juhised.",
+      "Tahad, et ma su sisse lukustan?"
+    ],
+    "highlightText": "Laupäev on avatud 4 masinale. Ekskursioonid on $200 masina kohta",
+    "tooltipFeatures": [
+      "Teab teie hindu ja reisimarsruute",
+      "Mustandid teie hääles",
+      "Sisaldab automaatselt sõitja nõudeid",
+      "Õpib aja jooksul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kas on selleks nädalavahetuseks gruppe broneeritud?",
+    "agentResponse": "Teie postkasti põhjal on 6-liikmeline grupp kinnitatud laupäevaks kell 9 hommikul ja paar broneeritud pühapäeva hommikuks. Laupäeva pärastlõuna ja pühapäeva pärastlõuna on endiselt avatud. Kas soovite, et koostaksin vastuse nende avadega seotud pooleliolevatele päringutele?",
+    "followUp": "Koostage Rachelile vastus, kui see on saadaval laupäeval",
+    "followUpResponse": "Valmis! Koostasin Rachelile vastuse, milles kinnitasin laupäeva nelja masina kohta $200. See sisaldab teie tavalist koosoleku asukohta, teavet varustuse kohta ja seda, mida selga panna. Ülevaatamiseks ja saatmiseks valmis."
+  },
+  "testimonialsTitle": "Armastasid reisijuhid ja operaatorid",
+  "testimonials": [
+    {
+      "name": "Mike D.",
+      "title": "ATV juhend, Lõuna-Utah",
+      "quote": "Ma viin läbi 8-tunniseid ringreise läbi kanjonite nullrakkude teenindusega. Selleks ajaks, kui ma tagasi jõudsin, olid pooled mu broneerimismeilid külmunud. Duet koostab vastused koos minu hinnakujunduse ja rajateabega – vaatan need lihtsalt päeva lõpus üle.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Tara M.",
+      "title": "UTV reisikorraldaja, Colorado",
+      "quote": "Korraldame ekskursioone 7 päeva nädalas ja ainuüksi kindlustus- ja loobumisküsimused söösid mu hommikuid ära. Duet tegeleb selle kõigega – sõitjanõuete, vanusepiirangute ja sellega, mida kaasa võtta. Kõlab täpselt nagu mina.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Jeep Tour Guide, Moab",
+      "quote": "Inimesed küsivad meili teel, milline rada on nende rühmale õige, millist kogemustaset nad vajavad, kas lapsed saavad sõita. Ikka ja jälle samad 5 küsimust. Duet tabab neid kõiki.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Nicole S.",
+      "title": "Off-Road Adventures, AZ",
+      "quote": "Veetsin igal õhtul üle tunni, et vastata samadele saadavuse küsimustele. Nüüd koostab Duet vastuseid, kui ma jälil olen. Minu reageerimisaeg kestis tundidest minutiteni.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Amanda K.",
+      "title": "Family ATV Tours, Sedona",
+      "quote": "Meile tuleb palju peresid, kes küsivad algajate radade ja vanusenõuete kohta. Duet õppis kõiki meie ringkäigu valikuid ja soovitab igas vastuses õiget. Kliendid ei suuda vahet teha.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Veeda kõrghooaega rajal,\nmitte teie postkastis.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
+  "verticalFaqs": [
+    {
+      "question": "Kas Duet tegeleb kindlustus- ja loobumisküsimustega?",
+      "answer": "Jah. Duet saab teada teie ratturile esitatavad nõuded – vastutuskindlustus, vanusepiirangud, loobumise üksikasjad ja see, mida sõitjatel kaasa tuleb võtta. Kui keegi saadab enne ringkäiku meili, küsides, mida ta vajab, koostab Duet täieliku vastuse koos kõigi üksikasjadega. Vaatate üle ja puudutate saatmist."
+    },
+    {
+      "question": "Olen terve päeva teel ilma mobiiliteenuseta. Kuidas Duet aitab?",
+      "answer": "Just seepärast juhib armastust Duet. Sel ajal, kui juhite signaalita 6–8-tunnist ringkäiku, kuhjuvad broneerimispäringud. Duet koostab vastused kõigile neile – hinnad, saadavus, koosoleku asukoht, mida selga panna. Tagasi tulles vaatate mustandid üle ja saadate. Enamik juhendeid ütleb meile, et see säästab kõrghooajal 1–2 tundi meilisõnumit päevas."
+    }
+  ],
+  "pricingNote": "Kell $200/machine maksab üks 4-liikmeline säästetud grupp rohkem kui aasta Pro eest."
+}

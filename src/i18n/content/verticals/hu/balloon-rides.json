@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail hőlégballonos utazásokhoz | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a ballonpilótáknak azonnal válaszolni a foglalási e-mailekre – még a napfelkelte repülései során is. Az AI által összeállított válaszok az Ön áraival, időjárási szabályzatával és hangjával.",
+  "heroBadge": "Több mint 200 ballonpilóta bízik benne",
+  "heroHeadline": "Az e-mail asszisztens a levegőben",
+  "heroSubline": "A Duet megismeri a repülési menetrendeket, az árakat és az időjárási irányelveket – majd e-mail-válaszokat készít, így soha nem veszíthet el foglalása, miközben napkeltekor indul.",
+  "inboxEmails": [
+    {
+      "from": "Rachel és Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Sunrise járat 2 főre – szombat elérhető?",
+      "preview": "Szia! A férjemmel az évfordulónkra látogatunk el, és szívesen lefoglalnánk egy napkelte léggömböt erre a szombatra. Van helyed? Mennyibe kerül személyenként?",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Repülünk holnap? A szél előrejelzése zordnak tűnik",
+      "preview": "Holnap reggelre foglaltak minket, de az időjárás alkalmazás 15 mérföld/órás széllökéseket mutat. Még mindig repülünk, vagy tervezzünk átütemezést...",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer és Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Privát járat ajánlatért – árképzés?",
+      "preview": "Szeretném meglepni a barátnőmet egy privát ballonos utazással, és a repülés közben ajánlatot tenni. Mennyibe kerül egy privát repülés, és tudnál segíteni a koordinációban...",
+      "pill": "Foglalás",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Mit vegyünk fel? Hol találkozunk?",
+      "preview": "Vasárnap délelőttre vagyunk lefoglalva. Mit vegyünk fel, és hol van pontosan a találkozási pont? Illetve mennyi ideig tart az egész élmény...",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Szia Rachel! Szombaton 2 óra nyitva tart. A Sunrise járatok reggel 6:15 körül indulnak – a pontos időpontot és a találkozó helyszínét előző este erősítjük meg a szelek alapján. Ez 250 dollár/fő, és körülbelül egy órát a levegőben, valamint a leszállás utáni pezsgős koccintást tartalmaz. Öltözz rétegesen és viselj zárt cipőt. Akarod, hogy lefoglaljam a helyeidet?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "repülési",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Egy megtakarított repülés egy év Duetért fizet."
+  },
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kérelmeket látja, másodsorban az időjárással kapcsolatos kérdéseket, a zajt pedig soha. Többé nem hiányzik egy repülési kérdés a hírlevél-figyelmeztetések alatt.",
+  "draftSubtitle": "A Duet megtanulja az árakat, az időjárási szabályzatot és a hangnemet. Amikor megérkezik egy foglalási kérdés, teljes választ készít a repülés részleteivel, a találkozó információival és a viselettel. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Ki van a holnapi manifeszten? – Átütemezhető lemondás az időjárás miatt? A Duet ismeri a postaládáját és a naptárát – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Sunrise járat 2 főre – szombat elérhető?",
+      "preview": "A férjemmel szívesen lefoglalnánk egy napfelkelte ballontúrát...",
+      "pill": "Válaszoljon most",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Foglalás megerősítve – vasárnap 6:15",
+      "pill": "Lefoglalt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Mit vegyünk fel a repüléshez?",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Új vélemény az adatlapodról",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Léggömbszövetség",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Márciusi biztonsági közlemény és emlékeztető a megújításra",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Sunrise járat 2 főre – szombat elérhető?",
+    "originalFrom": "Rachel T. írta:",
+    "originalText": "Szia! A férjemmel az évfordulónkra látogatunk el, és szívesen lefoglalnánk egy napkelte léggömböt erre a szombatra. Van helyed? Mennyibe kerül személyenként?",
+    "lines": [
+      "Szia Rachel!",
+      "A szombati nap 2 fő számára nyitva tart. A Sunrise járatok ára 250 USD/fő, és körülbelül egy órát a levegőben, valamint egy pezsgős koccintást tartalmaz a leszállás után.",
+      "Reggel 6:15 körül indulunk – a pontos találkozó időpontját és helyét a szélviszonyoktól függően előző este küldöm. Öltözz rétegesen és viselj zárt cipőt.",
+      "Gratulálok az évforduló alkalmából! Akarod, hogy lefoglaljam a helyeidet?"
+    ],
+    "highlightText": "Szombaton 2 fő nyitva tart. A Sunrise járatok ára 250 USD/fő",
+    "tooltipFeatures": [
+      "Ismeri az árakat és a repülési menetrendet",
+      "Piszkozatok a hangodban",
+      "Automatikusan tartalmazza az értekezlet részleteit",
+      "Idővel tanul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ki szerepel a holnapi jegyzékben, és milyen az időjárás?",
+    "agentResponse": "A holnapi napkelte járatán 6 utas foglalt helyet 2 foglaláson keresztül: a Thompson-parti (4) és a Lee házaspár (2) között. A jelenlegi előrejelzés szerint szélcsendes, 4 km/h sebességű, és tiszta égbolt induláskor. Még nincsenek lemondási e-mailek. Akarod, hogy elküldjem a találkozási pont megerősítését?",
+    "followUp": "Igen, küldjön visszaigazolást mindkét félnek a 6:15-ös találkozó időpontjával",
+    "followUpResponse": "Kész! Mind a Thompsonoknak, mind a Lees-nek a találkozási pontok visszaigazolását készítettem reggel 6:15-kor a kilövőtéren, hogy mit vegyek fel, és milyen útbaigazítást kaptam. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Szeretik a léggömbpilóták és -kezelők",
+  "testimonials": [
+    {
+      "name": "Mike L. kapitány.",
+      "title": "Balloon Pilot, MN",
+      "quote": "Egyszemélyes operátor vagyok – repülök, személyzetet vállalok, válaszolok az e-mailekre. Kivéve hajnali 5-kor felfújom, nem válaszolok. A Duet válaszokat készít minden „holnap repülünk?” kérdésre. üzenet egyik napról a másikra. Felébredek, megnézem az időjárást, és megnyomom a küldést.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon és Jake B.",
+      "title": "Éves léggömbtúrák, UT",
+      "quote": "Minden nap ugyanazt a 10 kérdést kapjuk. Mit vegyek fel, hol találkozzunk, mi legyen, ha fúj a szél. A Duet mindent megtanult, és most tökéletes válaszokat készít. A minden este egy órás e-mailezésről öt percre váltunk.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Sunrise Flight Operator, AZ",
+      "quote": "A főszezon heti 4-6 járatot jelent, és minden utas legalább kétszer e-mailt küld a repülés előtt. A Duet kezeli a repülés előtti kérdéseket, így én arra tudok koncentrálni, hogy az embereknek életük legjobb reggelét biztosítsam.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Balloon Company társtulajdonos, NM",
+      "quote": "Az időjárási lemondások tönkretették az egész napomat – 8 utasnak személyes átütemezési e-mailre volt szüksége. Most a Duet mindenkit kidolgoz, az átfoglalási szabályzatunkkal együtt. Órákat takarít meg a lemondási reggeleken.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Balloon Ride Operations, CO",
+      "quote": "A lánykéréses repüléseknek annyi oda-vissza koordinációra van szükségük. A Duet rájött, hogyan kezeljük őket – az időzítést, a kódszavakat, a pezsgőbeállítást. Vázlatokat készít, amelyekhez alig kell hozzányúlnom.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Töltsd reggeleidet az égen,\nnem a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "Hogyan kezeli a Duet az időjárás-lemondási e-maileket?",
+      "answer": "A Duet megismeri lemondási és újrafoglalási szabályzatát. Ha az időjárás miatt lemond egy járatot, személyre szabott átütemezési e-maileket küldhet minden érintett utasnak – az Ön szabályzatával, elérhető dátumaival és hangjával. Te átnézed és elküldöd. Ami korábban egy órát vett igénybe az egyéni válaszadáshoz, az percekig tart."
+    },
+    {
+      "question": "A Duet bírja a \"repülünk holnap?\" minden este elárasztják az e-maileket?",
+      "answer": "Igen – ez az egyik leggyakrabban előforduló e-mail, amelyről a ballonkezelők mesélnek nekünk. A Duet megismeri az Ön időjárási irányelveit, és megnyugtató válaszokat fogalmaz meg, amelyek elmagyarázzák a döntési folyamatot, az utolsó hívás időpontját és a várakozásokat. Miután reggel megerősítette a go/no-go beállítást, frissítéseket készíthet mindenki számára a jegyzékben."
+    }
+  ],
+  "pricingNote": "250 USD/fő áron 4 utassal járatonként, egy megtakarított foglalás több mint egy év Pro-t fizet."
+}

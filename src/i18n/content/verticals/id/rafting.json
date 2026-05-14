@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail untuk Penjual Pakaian Arung Jeram & Kayak |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu pemandu arung jeram dan pedagang eceran kayak menanggapi pertanyaan perjalanan secara instan — bahkan dari sungai.  AI -Balasan yang disusun dengan detail perjalanan, harga, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 200+ pemandu sungai",
+  "heroHeadline": "Asisten email Anda saat Anda berada di sungai",
+  "heroSubline": "Duet mempelajari jenis perjalanan, harga, dan daftar perlengkapan perjalanan Anda — lalu menyusun balasan atas pertanyaan pemesanan sehingga pelanggan mendapatkan jawaban saat Anda berlari cepat.",
+  "inboxEmails": [
+    {
+      "from": "jennifer w.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Perjalanan rakit sehari penuh untuk 6 orang pada 9 Agustus?",
+      "preview": "Hai! Kami sekeluarga beranggotakan 6 orang yang berkunjung pada bulan Agustus dan ingin memesan perjalanan arung jeram sehari penuh pada tanggal 9. Berapa harga per orang dan tingkat pengalaman apa yang kami butuhkan?",
+      "pill": "Untuk Menanggapi",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Perjalanan beberapa hari — apa saja yang termasuk?",
+      "preview": "Kami adalah kelompok beranggotakan 4 orang yang sedang melihat ekspedisi 3 hari Anda. Apakah makanan, perlengkapan berkemah, dan tas kering sudah termasuk atau kami perlu membawa sendiri...",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel & Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Anak-anak usia 8 dan 10 tahun — cukup aman?",
+      "preview": "Kami ingin melakukan perjalanan setengah hari tetapi anak-anak kami berusia 8 dan 10 tahun. Apakah bagian Kelas II sesuai dengan usia mereka? Berapa minimalnya...",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baru untuk listing Anda",
+      "preview": "Seorang wisatawan baru-baru ini mengulas bisnis Anda. Lihat apa yang mereka katakan dan tanggapi...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Jennifer! Tanggal 9 Agustus dibuka untuk 6 orang. Perjalanan sehari penuh berharga $150/orang dan memakan waktu sekitar 7 jam — kami berangkat pada pukul 08.30. Tidak diperlukan pengalaman, pemandu kami menangani semuanya. PFD, helm, tas kering, dan makan siang di tepi sungai sudah termasuk. Bawalah saja tabir surya, sepatu air, dan pakaian yang tidak keberatan basah. Ingin saya memesan tempat Anda?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "person",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dua pemesanan tersimpan membayar Duet setahun penuh."
+  },
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga pertanyaan perjalanan muncul terlebih dahulu, pertanyaan perlengkapan kedua, dan kebisingan promo menghilang. Tidak ada lagi kehilangan pemesanan grup yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari jenis perjalanan Anda, kelas jeram, daftar perlengkapan, dan kebijakan pembatalan. Ketika pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan semua kebutuhan pelanggan. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Adakah tempat yang buka pada hari Sabtu sehari penuh?\" \"Buat draf balasan untuk Jennifer dengan ketersediaan.\" Duet mengetahui inbox dan jadwal Anda — tanyakan saja.",
+  "categorizationEmails": [
+    {
+      "from": "jennifer w.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Perjalanan rakit sehari penuh untuk 6 orang pada 9 Agustus?",
+      "preview": "Kami sekeluarga beranggotakan 6 orang yang berkunjung pada bulan Agustus dan ingin memesan...",
+      "pill": "Tanggapi Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Perihal: Ekspedisi 3 hari dikonfirmasi — 15 Agustus",
+      "pill": "Dipesan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "rachel s.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Apakah anak-anak usia 8 dan 10 tahun boleh masuk Kelas II?",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Buku Terbang",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Ringkasan pemesanan mingguan Anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Obral akhir musim — diskon 30% untuk pakaian kering",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Perjalanan rakit sehari penuh untuk 6 orang pada 9 Agustus?",
+    "originalFrom": "Jennifer W. menulis:",
+    "originalText": "Hai! Kami sekeluarga beranggotakan 6 orang yang berkunjung pada bulan Agustus dan ingin memesan perjalanan arung jeram sehari penuh pada tanggal 9. Berapa harga per orang dan tingkat pengalaman apa yang kami butuhkan?",
+    "lines": [
+      "Hai Jennifer!",
+      "Tanggal 9 Agustus terbuka lebar untuk 6 orang. Perjalanan sehari penuh berharga $150/orang dan memakan waktu sekitar 7 jam — kami bertemu di titik masuk pada pukul 08.30.",
+      "Tidak diperlukan pengalaman. PFD, helm, tas kering, dan makan siang di tepi sungai sudah termasuk — cukup bawa tabir surya dan sepatu air.",
+      "Ingin saya memesan tempat Anda?"
+    ],
+    "highlightText": "9 Agustus terbuka lebar untuk 6 orang. Perjalanan sehari penuh adalah $150/orang",
+    "tooltipFeatures": [
+      "Mengetahui jenis & harga perjalanan Anda",
+      "Draf dalam suara Anda",
+      "Termasuk daftar gigi secara otomatis",
+      "Belajar seiring berjalannya waktu"
+    ]
+  },
+  "agent": {
+    "userMessage": "Adakah tempat terbuka untuk perjalanan sehari penuh hari Sabtu?",
+    "agentResponse": "Sehari penuh di hari Sabtu memiliki 4 tempat tersisa dari 10. Anda juga memiliki lari pagi setengah hari yang sudah dipesan penuh dan keberangkatan beberapa hari pada hari Minggu dengan 2 tempat terbuka. Ingin saya membuat draf balasan atas pertanyaan apa pun yang tertunda dengan ketersediaan hari Sabtu?",
+    "followUp": "Draf balasan ke Jennifer dengan ketersediaan 9 Agustus",
+    "followUpResponse": "Selesai! Saya menyusun balasan ke Jennifer yang mengonfirmasi 9 Agustus untuk 6 tamu seharga $150/orang. Ini mencakup detail perjalanan standar Anda, daftar perlengkapan, dan lokasi pertemuan. Siap untuk meninjau dan mengirim."
+  },
+  "testimonialsTitle": "Dicintai oleh pemandu sungai dan pedagang eceran",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Penjual Pakaian Arung Jeram, CO",
+      "quote": "Selama musim puncak saya berada di sungai 6 hari seminggu. Pada saat saya membalas email, separuh grup sudah memesan dengan orang lain. Sekarang draf Duet membalas dengan detail perjalanan dan harga saat saya berada di lokasi.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Tur Kayak & SUP, OR",
+      "quote": "Setiap pelanggan menanyakan lima pertanyaan yang sama — harga, apa yang harus dibawa, tingkat keahlian, ukuran grup, kebijakan pembatalan. Duet mempelajari semuanya di minggu pertama. Saya beralih dari satu jam mengirim email setiap malam menjadi lima menit meninjau draf.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "marcus p.",
+      "title": "Panduan Ekspedisi Beberapa Hari, AK",
+      "quote": "Saya menjalankan perjalanan 5 hari tanpa layanan seluler. Sebelum Duet, setiap pertanyaan tidak terjawab sampai saya kembali ke kota. Sekarang pelanggan mendapatkan balasan terperinci dalam beberapa menit dan saya mengonfirmasinya ketika saya sudah keluar dari sungai.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Manajer Kantor Petualangan Sungai, WV",
+      "quote": "Saya mengelola pemesanan untuk tiga pemandu di empat jenis perjalanan. Duet mengkategorikan setiap email berdasarkan urgensinya dan menyusun balasan dengan perjalanan yang tepat, harga yang tepat, daftar perlengkapan yang tepat. Ini seperti mengkloning diriku sendiri.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "sofia k.",
+      "title": "Arung Jeram Co., ID",
+      "quote": "Kami ragu AI dapat menangani email khusus arung jeram. Namun kebijakan ini sesuai dengan deskripsi Kelas III vs. Kelas IV kami, usia minimum, bahkan kebijakan kayak pintu keluar basah kami. Pelanggan mengira mereka sedang berbicara dengan kami.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Habiskan musim panas di sungai,\ntidak mengejar email.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
+  "verticalFaqs": [
+    {
+      "question": "Apakah Duet menangani penawaran perjalanan khusus dan pertanyaan ekspedisi beberapa hari?",
+      "answer": "Ya. Duet mempelajari daftar lengkap perjalanan Anda — pelayaran setengah hari, jeram sehari penuh, ekspedisi beberapa hari — bersama dengan harga, apa saja yang termasuk, usia minimum, dan tingkat kesulitan. Ketika seseorang bertanya tentang perjalanan 3 hari untuk 6 orang, ia akan menyusun jawaban lengkap dengan detail yang benar. Anda meninjau, mengubah jika perlu, dan mengirim."
+    },
+    {
+      "question": "Saya berada di luar jaringan listrik dalam perjalanan beberapa hari. Apakah Duet masih berfungsi?",
+      "answer": "Itulah masalah yang dipecahkan oleh Duet. Saat Anda berada di sungai tanpa sinyal, draf Duet membalas setiap pertanyaan yang masuk. Saat Anda kembali dalam jangkauan, draf Anda menunggu — cukup tinjau dan kirim. Kebanyakan pemandu memberi tahu kami bahwa ini menghilangkan simpanan yang biasa mereka hadapi setelah setiap perjalanan beberapa hari."
+    }
+  ],
+  "pricingNote": "Dengan $150/orang, dua pemesanan tersimpan mencakup Pro setahun penuh."
+}

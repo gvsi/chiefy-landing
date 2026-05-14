@@ -1,6 +1,19 @@
 ---
 import { HOME_LOGOS } from "./logosData";
 
+type LogosContent = {
+    ariaLabel: string;
+    headingPrefix: string;
+    headingHighlight: string;
+    headingSuffix: string;
+};
+
+type Props = {
+    logos: LogosContent;
+};
+
+const { logos } = Astro.props;
+
 const repeatedLogos = [...HOME_LOGOS, ...HOME_LOGOS];
 
 const logoWidths: Record<string, number> = {
@@ -14,16 +27,15 @@ const logoWidths: Record<string, number> = {
 };
 ---
 
-<section class="home-logos" aria-label="Customer logos">
+<section class="home-logos" aria-label={logos.ariaLabel}>
     <div class="mx-auto max-w-6xl px-6 md:px-10">
         <div class="home-logos__heading">
             <p class="home-logos__text">
-                Trusted by forward-looking
+                {logos.headingPrefix}
                 <span class="home-logos__text-highlight">
-                    {" "}
-                    professionals and teams{" "}
+                    {logos.headingHighlight}
                 </span>
-                worldwide
+                {logos.headingSuffix}
             </p>
         </div>
 

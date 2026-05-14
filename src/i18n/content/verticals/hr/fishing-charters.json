@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail za ribolovne čartere | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže kapetanima ribolovnih čartera da odmah odgovore na e-poštu za rezervacije — čak i iz vode. Odgovori izrađeni umjetnom inteligencijom s vašim cijenama, pravilima i glasom.",
+  "heroBadge": "Vjeruje mu više od 500 čarter kapetana",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na vodi",
+  "heroSubline": "Duet uči vaše cijene, pravila i glas — zatim sastavlja skice odgovora e-poštom kako nikada ne biste izgubili rezervaciju zbog sporog odgovora.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Slobodno 12. srpnja za 4 osobe?",
+      "preview": "Bok! Mi smo grupa od 4 osobe koja želi rezervirati izlet u ribolov 12. srpnja. Imate li slobodnih mjesta? Koja je cijena za cijeli dan?",
+      "pill": "Odgovoriti",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Što trebamo ponijeti?",
+      "preview": "Hej, rezervirani smo za subotu. Brzo pitanje — što trebamo ponijeti? Osiguravate li štapove i pribor ili bismo trebali donijeti svoje...",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike & Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Treba prebaciti na nedjelju",
+      "preview": "Ispričavamo se na kasnoj obavijesti, ali vremenska prognoza za subotu izgleda loša. Možemo li umjesto toga pomaknuti na nedjelju? Isto vrijeme...",
+      "pill": "Rezervacija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova recenzija vašeg unosa",
+      "preview": "Putnik je nedavno pregledao vašu tvrtku. Pogledajte što su imali za reći i odgovorite...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Sarah! 12. srpnja otvoren je za 4 osobe. Cjelodnevni izleti traju 8 sati s početkom u 6 ujutro. Svi štapovi, pribor, mamac i licence su uključeni - samo ponesite kremu za sunčanje, vodu i hladnjak za svoj ulov. Hoćeš da ga zaključam?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "čarter",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Jedna spremljena rezervacija plaća godinu dana Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahtjeve za rezervaciju, zatim pitanja, a nikad buku. Nema više propuštanja upita o putovanju zakopanog ispod TripAdvisor upozorenja.",
+  "draftSubtitle": "Duet uči vaše cijene, pravila i ton. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s detaljima putovanja, cijenama i onim što ponijeti. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Koji su dani otvoreni sljedeći tjedan?\" \"Nacrtajte odgovor Sarah s dostupnošću.\" Duet zna vašu pristiglu poštu i kalendar — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Slobodno 12. srpnja za 4 osobe?",
+      "preview": "Mi smo grupa od 4 osobe koja želi rezervirati ribolov...",
+      "pill": "Odgovorite sada",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervacija potvrđena — subota 7 ujutro",
+      "pill": "Rezervirano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Što trebamo ponijeti u subotu?",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Vaš tjedni sažetak rezervacija",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "West Marine",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Proljetna rasprodaja — 20% popusta na opremu",
+      "pill": "Promaknuća",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Dostupnost 12. srpnja za 4 osobe?",
+    "originalFrom": "Sarah M. je napisala:",
+    "originalText": "Bok! Mi smo grupa od 4 osobe koja želi rezervirati izlet u ribolov 12. srpnja. Imate li slobodnih mjesta? Koja je cijena za cijeli dan?",
+    "lines": [
+      "Hej Sarah!",
+      "12. srpnja otvoren je za 4 osobe. Cjelodnevni izleti koštaju 500 dolara i traju 8 sati počevši od 6 ujutro iz marine.",
+      "Sva oprema, mamac i dozvole za ribolov su uključeni - samo ponesite kremu za sunčanje i hladnjak.",
+      "Hoćeš da ga zaključam?"
+    ],
+    "highlightText": "12. srpnja otvoren je za 4 osobe. Cjelodnevni izleti koštaju 500 USD",
+    "tooltipFeatures": [
+      "Poznaje vaše cijene i dostupnost",
+      "Nacrt u vašem tonu",
+      "Automatski uključuje detalje putovanja",
+      "Uči s vremenom"
+    ]
+  },
+  "agent": {
+    "userMessage": "Koji su dani još otvoreni sljedeći tjedan?",
+    "agentResponse": "Na temelju vašeg kalendara, sljedeći tjedan imate radna mjesta u utorak, četvrtak i subotu. Ponedjeljak i srijeda su popunjeni (po 2 chartera). Želite li da napišem odgovor na sve neriješene upite s ovim datumima?",
+    "followUp": "Nacrtajte odgovor Sarah s dostupnošću 12. srpnja",
+    "followUpResponse": "Gotovo! Napisao sam odgovor Sari u kojem potvrđujem 12. srpnja za 4 gosta po cijeni od 500 USD. Uključuje podatke o vašem standardnom putovanju i mjesto sastanka. Spremno za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga čarter kapetani",
+  "testimonials": [
+    {
+      "name": "Kapetan Mike D.",
+      "title": "Kapetan čarter brodova u moru, FL",
+      "quote": "Tijekom vrhunca sezone izgubio bih 2-3 rezervacije tjedno samo zato što nisam mogao dovoljno brzo odgovoriti s broda. Duet sastavlja skice odgovora s mojim cijenama i pojedinostima o putovanju — samo pritisnem pošalji između hvatanja.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah i Tom K.",
+      "title": "Family Charter Business, OR",
+      "quote": "Imamo dva broda i količina e-pošte tijekom ljeta je luda. Duet razvrstava zahtjeve za rezervaciju od svega ostalog i sastavlja odgovore koji zvuče točno poput nas. Apsolutna promjena igre.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Vodič za obalni ribolov, TX",
+      "quote": "Provodio sam sat vremena svake večeri odgovarajući na ista pitanja o dostupnosti. Sada to rješava Duet. Vrijeme mog odgovora je bilo od sati do minuta i od tada nisam izgubio nijednu rezervaciju.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Voditelj ureda za charter, bok",
+      "quote": "Upravljanje e-poštom za 4 kapetana bio je posao s punim radnim vremenom. Duet sve kategorizira i sastavlja odgovore s pravim brodom, pravom cijenom, pravim kapetanom. Kao da imaš drugog sebe.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Deep Sea Charters, NC",
+      "quote": "Bio sam skeptičan da umjetna inteligencija može obraditi e-poruke o ribolovnim charterima. Ali naučio je naše vrste putovanja, što je uključeno, čak i naša pravila otkazivanja. Klijenti ne mogu uočiti razliku.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Provedite vrhunac sezone na vodi,\nne u tvoj sandučić.",
+  "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Radi li Duet za e-poruke o rezervacijama i dostupnosti?",
+      "answer": "Apsolutno. Duet uči vaše vrste putovanja, cijene, dostupnost i pravila. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s pravim detaljima — cijena, što je uključeno, mjesto sastanka, što ponijeti. Pregledate i dodirnete Pošalji."
+    },
+    {
+      "question": "Cijeli dan sam na vodi. Mogu li koristiti Duet sa svog telefona?",
+      "answer": "Da. Duet radi s uslugama Gmail i Outlook, tako da radi gdje god radi vaša e-pošta — uključujući vaš telefon. Nacrti se pojavljuju automatski. Između hvatanja pregledavate i šaljete jednim dodirom. Većina kapetana kaže nam da im to štedi 1-2 sata vremena za e-poštu dnevno tijekom vrhunca sezone."
+    }
+  ],
+  "pricingNote": "Uz 500 USD/čarter, jedna spremljena rezervacija plaća više od godinu dana Pro."
+}

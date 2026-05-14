@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail für Ausritte und Wanderführer | KI-E-Mail-Assistent",
+  "metaDescription": "Duet Mail hilft Wanderreitbetreibern, sofort auf Buchungs-E-Mails zu reagieren – sogar vom Sattel aus. Von KI erstellte Antworten mit Ihren Preisen, Fahreranforderungen und Ihrer Stimme.",
+  "heroBadge": "Mehr als 300 Wanderführer vertrauen darauf",
+  "heroHeadline": "Ihr E-Mail-Assistent, während Sie unterwegs sind",
+  "heroSubline": "Duet lernt Ihre Fahrarten, Preise, Fahreranforderungen und Streckenbedingungen kennen und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung aufgrund einer langsamen Antwort verlieren.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Gruppenbuchung für 6 Personen – Samstagmorgen?",
+      "preview": "Hallo! Wir sind eine sechsköpfige Familie (2 Erwachsene, 4 Kinder im Alter von 8 bis 14 Jahren) und würden gerne für diesen Samstagmorgen einen Ausritt buchen. Haben Sie Verfügbarkeit? Wie hoch ist der Preis pro Person?",
+      "pill": "Um zu antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Frage zur Gewichtsbeschränkung",
+      "preview": "Hey, ich möchte eine Fahrt buchen, wollte mich aber zunächst nach Ihren Gewichtsanforderungen erkundigen. Ich wiege ungefähr 260 Pfund – wird das ein Problem sein?",
+      "pill": "Frage",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Sonnenuntergangsfahrt zum Jubiläum?",
+      "preview": "Wir feiern nächstes Wochenende unser 10-jähriges Jubiläum und haben deine Fahrt bei Sonnenuntergang auf Instagram gesehen. Ist es am Freitagabend verfügbar? Eventuelle Sonderpakete...",
+      "pill": "Buchung",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Neue Bewertung für Ihren Eintrag",
+      "preview": "Ein Reisender hat Ihr Unternehmen kürzlich bewertet. Sehen Sie, was sie zu sagen und zu antworten hatten...",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hallo Jessica! Samstagmorgen ist für 6 Personen geöffnet. Unsere Ausritte kosten 100 $/Person und dauern etwa 90 Minuten durch das Tal. Kinder ab 8 Jahren sind willkommen – alle von Ihnen sind startklar. Geschlossene Schuhe sind erforderlich, Helme stellen wir zur Verfügung. Soll ich Sie für die 9-Uhr-Fahrt anmelden?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "fahren",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Eine eingesparte Gruppenfahrt deckt mehr als zwei Jahre Duet ab."
+  },
+  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Fahrerfragen und nie Lärm sehen. Keine Gruppenanfrage mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen ist.",
+  "draftSubtitle": "Duet lernt Ihre Fahrarten, Preise und Anforderungen. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit Angaben zur Strecke, Preisen und Kleidung verfasst. Sie überprüfen und senden.",
+  "agentSubtitle": "„Haben dieses Wochenende irgendwelche Fahrgeschäfte geöffnet?“ „Entwerfen Sie eine Antwort an Jessica mit Verfügbarkeit am Samstag.” Duet kennt Ihren Posteingang und Kalender – fragen Sie einfach nach.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Gruppenbuchung für 6 Personen – Samstagmorgen?",
+      "preview": "Wir sind eine 6-köpfige Familie und möchten einen Ausritt buchen...",
+      "pill": "Jetzt antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Betreff: Sonnenuntergangsfahrt bestätigt – Freitag, 17:30 Uhr",
+      "pill": "Gebucht",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Gewichtsbeschränkung und Erfahrungsanforderungen?",
+      "pill": "Frage",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Ihre wöchentliche Buchungsübersicht",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Traktorenversorgung",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Frühlingsschlussverkauf – 15 % Rabatt auf Futter und Zaumzeug",
+      "pill": "Werbung",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Betreff: Gruppenbuchung für 6 Personen – Samstagmorgen?",
+    "originalFrom": "Jessica T. schrieb:",
+    "originalText": "Hallo! Wir sind eine sechsköpfige Familie (2 Erwachsene, 4 Kinder im Alter von 8 bis 14 Jahren) und würden gerne für diesen Samstagmorgen einen Ausritt buchen. Haben Sie Verfügbarkeit? Wie hoch ist der Preis pro Person?",
+    "lines": [
+      "Hallo Jessica!",
+      "Der Samstagmorgen ist für 6 Personen geöffnet. Wanderritte kosten 100 US-Dollar pro Person und dauern etwa 90 Minuten durch das Tal. Kinder ab 8 Jahren sind willkommen, Ihre gesamte Crew kann also loslegen.",
+      "Geschlossene Schuhe sind erforderlich, am besten Stiefel. Wir stellen Helme zur Verfügung und passen jeden Reiter je nach Größe und Erfahrung an ein Pferd an. Vorkenntnisse im Reiten sind nicht erforderlich.",
+      "Soll ich dich für die 9-Uhr-Fahrt einsperren?"
+    ],
+    "highlightText": "Der Samstagmorgen ist für 6 Personen geöffnet. Wanderritte kosten 100 $/Person",
+    "tooltipFeatures": [
+      "Kennt Ihre Preise und Verfügbarkeit",
+      "Entwürfe in deiner Stimme",
+      "Berücksichtigt automatisch die Fahreranforderungen",
+      "Lernt mit der Zeit"
+    ]
+  },
+  "agent": {
+    "userMessage": "Sind an diesem Wochenende irgendwelche Fahrgeschäfte geöffnet? Und wie sieht das Wetter aus?",
+    "agentResponse": "Basierend auf Ihrem Kalender haben Sie samstags um 9:00 und 14:00 Uhr sowie sonntags um 10:00 Uhr geöffnet. Für Samstag sind 21 °C und Sonnenschein vorhergesagt – perfektes Fahrwetter. Am Sonntag besteht eine Wahrscheinlichkeit von 40 %, dass es nachmittags regnen wird, daher ist der Vormittag die sicherere Wahl. Möchten Sie, dass ich mit diesen Zeiten Antworten auf ausstehende Anfragen verfasse?",
+    "followUp": "Verfassen Sie eine Antwort an Jessica mit der Verfügbarkeit am Samstag",
+    "followUpResponse": "Fertig! Ich verfasste eine Antwort an Jessica, in der ich die Bestätigung für Samstag um 9 Uhr für 6 Fahrer für 100 $/Person verfasste. Darin sind die Standardanforderungen eines Fahrers und die Kleidung aufgeführt, die er tragen sollte. Bereit zum Überprüfen und Senden."
+  },
+  "testimonialsTitle": "Beliebt bei Trail-Ride-Anbietern",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Ranchbesitzer und Wanderführer, MT",
+      "quote": "Ich bin 6 Stunden am Tag unterwegs, ohne Mobilfunkempfang. Als ich zurückkam, um zu antworten, hatte die Hälfte der Leute woanders gebucht. Jetzt entwirft Duet Antworten mit meinen Preisen und Fahrdetails – ich überprüfe sie einfach und sende sie, wenn ich zurück in der Scheune bin.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Reiseveranstalter für Pferde, AZ",
+      "quote": "Wir erhalten Dutzende E-Mails mit denselben Fragen – Gewichtsbeschränkungen, Kleidung, Altersvorgaben. Duet kümmert sich um alles und die Antworten klingen genauso wie ich. Meine Gäste haben keine Ahnung, dass es KI ist.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Trail Ride Guide, CO",
+      "quote": "Die Hauptsaison hat mich umgebracht. Über 30 E-Mails pro Tag zusätzlich zu Lauffahrten. Duet sortiert die Buchungsanfragen aus dem Lärm und entwirft Antworten, die alles enthalten – Preise, mitzubringende Gegenstände, vieles mehr. Ich habe meine Abende zurückbekommen.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Reitlehrer und Buchungsmanager, TX",
+      "quote": "Wir bieten Fahrten bei Sonnenuntergang, Morgenfahrten und Privatstunden an – jeweils mit unterschiedlichen Preisen und Anforderungen. Duet habe alles in einer Woche gelernt. Es erstellt jedes Mal die richtige Antwort für den richtigen Fahrttyp.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "Am schlimmsten waren die sensiblen E-Mails – jemand fragte, ob sie zu schwer seien oder ob sein Kind alt genug sei. Duet behandelt diese mit der gleichen Sorgfalt, die ich tun würde.professionell, freundlich und präzise. Das allein ist es wert.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Verbringen Sie den Tag mit den Pferden,\nnicht in Ihrem Posteingang.",
+  "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
+  "verticalFaqs": [
+    {
+      "question": "Wie geht Duet mit sensiblen Fragen zu Gewichts- oder Erfahrungsanforderungen um?",
+      "answer": "Duet lernt Ihre spezifischen Richtlinien und spiegelt Ihren Ton wider. Wenn jemand nach Gewichtsbeschränkungen oder Erfahrungsanforderungen fragt, antwortet er professionell und herzlich und teilt die benötigten Informationen mit, ohne dass es unangenehm wird. Sie geben einmal den Ton an und Duet folgt ihm konsequent, sodass sich jeder Gast respektiert fühlt."
+    },
+    {
+      "question": "Kann Duet Gruppenbuchungen mit unterschiedlichen Fahrerbedürfnissen verarbeiten?",
+      "answer": "Ja. Duet lernt Ihre Fahrtypen, Gruppengrößen, Mindestalter und alle fahrerspezifischen Anforderungen. Wenn eine Familie oder eine Gruppe eine E-Mail bezüglich einer Buchung sendet, wird eine Antwort verfasst, die die Preise für die gesamte Gruppe, die Informationen, die jeder Fahrer wissen muss, und die verfügbaren Zeitfenster enthält. Sie überprüfen und senden – kein Hin und Her erforderlich."
+    }
+  ],
+  "pricingNote": "Bei 100 $/Person für eine Gruppe von 6 Personen reicht eine gesparte Fahrt für mehr als zwei Jahre Pro aus."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail para operadores de rafting e caiaque | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda guias de rafting e operadores de caiaque a responder consultas de passeios instantaneamente — até do rio. Respostas redigidas por IA com detalhes dos seus passeios, preços e tom.",
+  "heroBadge": "Usado por mais de 200 guias de rio",
+  "heroHeadline": "Seu assistente de e-mail enquanto você está no rio",
+  "heroSubline": "O Duet aprende seus tipos de passeio, preços e listas de equipamentos — e então redige respostas para consultas de reserva para que clientes recebam respostas enquanto você desce corredeiras.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Rafting de dia inteiro para 6 em Aug 9?",
+      "preview": "Oi! Somos uma família de 6 visitando em August e queremos reservar um rafting de dia inteiro no dia 9. Qual é o preço por pessoa e que nível de experiência precisamos?",
+      "pill": "Responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Viagem de vários dias — o que está incluído?",
+      "preview": "Somos um grupo de 4 olhando sua expedição de 3 dias. Refeições, equipamento de camping e sacos estanques estão incluídos ou precisamos levar os nossos...",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel & Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Crianças de 8 e 10 anos — é seguro o bastante?",
+      "preview": "Adoraríamos fazer o passeio de meio dia, mas nossos filhos têm 8 e 10 anos. O trecho Classe II é adequado para a idade deles? Qual é o mínimo...",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova avaliação para sua página",
+      "preview": "Um viajante avaliou recentemente sua empresa. Veja o que ele disse e responda...",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Oi Jennifer! August 9 está disponível para 6. As viagens de dia inteiro custam $150/pessoa e duram cerca de 7 horas — entramos no rio às 8:30 AM. Não é preciso experiência; nossos guias cuidam de tudo. PFDs, capacetes, sacos estanques e almoço à beira do rio estão incluídos. Basta levar protetor solar, sapatos para água e roupas que possam molhar. Quer que eu reserve seus lugares?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "pessoa",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Duas reservas recuperadas pagam um ano inteiro de Duet."
+  },
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para que consultas de passeio apareçam primeiro, perguntas sobre equipamento em seguida e ruído promocional desapareça. Chega de perder uma reserva de grupo enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Duet aprende seus tipos de passeio, classes de corredeiras, listas de equipamentos e política de cancelamento. Quando chega uma consulta de reserva, ele redige uma resposta completa com tudo que o cliente precisa. Você revisa e envia.",
+  "agentSubtitle": "\"Alguma vaga no passeio de dia inteiro de sábado?\" \"Redija uma resposta para Jennifer com a disponibilidade.\" O Duet conhece sua caixa de entrada e sua agenda — é só perguntar.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Rafting de dia inteiro para 6 em Aug 9?",
+      "preview": "Somos uma família de 6 visitando em August e queremos reservar...",
+      "pill": "Responder agora",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Expedição de 3 dias confirmada — Aug 15",
+      "pill": "Reservado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Crianças de 8 e 10 anos podem ir na Classe II?",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Resumo semanal das suas reservas",
+      "pill": "Info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Liquidação de fim de temporada — 30% de desconto em roupas secas",
+      "pill": "Promoções",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Rafting de dia inteiro para 6 em Aug 9?",
+    "originalFrom": "Jennifer W. escreveu:",
+    "originalText": "Oi! Somos uma família de 6 visitando em August e queremos reservar um rafting de dia inteiro no dia 9. Qual é o preço por pessoa e que nível de experiência precisamos?",
+    "lines": [
+      "Oi Jennifer!",
+      "August 9 está totalmente disponível para 6. As viagens de dia inteiro custam $150/pessoa e duram cerca de 7 horas — nos encontramos no ponto de entrada no rio às 8:30 AM.",
+      "Não é preciso experiência. PFDs, capacetes, sacos estanques e almoço à beira do rio estão incluídos — basta levar protetor solar e sapatos para água.",
+      "Quer que eu reserve seus lugares?"
+    ],
+    "highlightText": "August 9 está totalmente disponível para 6. As viagens de dia inteiro custam $150/pessoa",
+    "tooltipFeatures": [
+      "Conhece seus tipos de passeio e preços",
+      "Redige no seu tom de voz",
+      "Inclui automaticamente listas de equipamentos",
+      "Aprende com o tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Alguma vaga no passeio de dia inteiro de sábado?",
+    "agentResponse": "O passeio de dia inteiro de sábado tem 4 vagas restantes de 10. Você também tem uma descida de meio dia pela manhã que está lotada e uma saída de vários dias no domingo com 2 vagas abertas. Quer que eu redija uma resposta para alguma consulta pendente com a disponibilidade de sábado?",
+    "followUp": "Redija uma resposta para Jennifer com a disponibilidade de Aug 9",
+    "followUpResponse": "Pronto! Redigi uma resposta para Jennifer confirmando August 9 para 6 convidados a $150/pessoa. Ela inclui seus detalhes padrão do passeio, lista de equipamentos e ponto de encontro. Pronta para revisar e enviar."
+  },
+  "testimonialsTitle": "Adorado por guias de rio e operadores",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Operador de rafting, CO",
+      "quote": "Na alta temporada, fico no rio 6 dias por semana. Quando eu voltava para os emails, metade dos grupos já tinha reservado com outra empresa. Agora o Duet redige respostas com detalhes dos passeios e preços enquanto estou no ponto de entrada no rio.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Passeios de caiaque e SUP, OR",
+      "quote": "Todo cliente faz as mesmas cinco perguntas — preço, o que levar, nível de habilidade, tamanho do grupo, política de cancelamento. O Duet aprendeu tudo na primeira semana. Passei de uma hora de emails toda noite para cinco minutos revisando rascunhos.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Guia de expedições de vários dias, AK",
+      "quote": "Faço viagens de 5 dias sem nenhum sinal de celular. Antes do Duet, cada consulta ficava sem resposta até eu voltar à cidade. Agora os clientes recebem uma resposta detalhada em minutos e eu confirmo quando saio do rio.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Gerente de escritório da River Adventures, WV",
+      "quote": "Gerencio reservas de três guias em quatro tipos de passeio. O Duet categoriza cada email por urgência e redige respostas com o passeio certo, o preço certo, a lista de equipamentos certa. É como me clonar.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "Estávamos céticos de que IA conseguiria lidar com emails específicos de rafting. Mas ela entendeu nossas descrições de Classe III versus Classe IV, idades mínimas e até nossa política de saída molhada para caiaque. Os clientes acham que estão falando conosco.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Passe o verão no rio,\nnão colocando emails em dia.",
+  "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "O Duet lida com orçamentos personalizados e consultas de expedições de vários dias?",
+      "answer": "Sim. O Duet aprende toda a sua linha de passeios — flutuações de meio dia, corredeiras de dia inteiro, expedições de vários dias — junto com preços, o que está incluído, idades mínimas e níveis de dificuldade. Quando alguém pergunta sobre uma viagem de 3 dias para 6, ele redige uma resposta completa com os detalhes certos. Você revisa, ajusta se precisar e envia."
+    },
+    {
+      "question": "Fico sem sinal em viagens de vários dias. O Duet ainda funciona?",
+      "answer": "É exatamente o problema que o Duet resolve. Enquanto você está no rio sem sinal, o Duet redige respostas para cada consulta que chega. Quando você volta para a cobertura, seus rascunhos estão esperando — é só revisar e enviar. A maioria dos guias nos diz que isso elimina o acúmulo que enfrentavam depois de cada viagem de vários dias."
+    }
+  ],
+  "pricingNote": "Com $150/pessoa, duas reservas recuperadas cobrem um ano inteiro de Pro."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail za jahalne izlete in vodnike po poteh | AI e-poštni pomočnik",
+  "metaDescription": "Duet Mail pomaga operaterjem jahalnih izletov takoj odgovoriti na e-pošto o rezervacijah — tudi iz sedla. Osnutki odgovorov z umetno inteligenco z vašimi cenami, zahtevami za jahače in načinom pisanja.",
+  "heroBadge": "Zaupa mu več kot 300 vodnikov po poteh",
+  "heroHeadline": "Vaš e-poštni pomočnik, ko ste na poti",
+  "heroSubline": "Duet se nauči vaših vrst jahanja, cen, zahtev za jahače in razmer na poteh — nato pripravlja osnutke e-poštnih odgovorov, da zaradi počasnega odziva ne izgubite nobene rezervacije.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Skupinska rezervacija za 6 — sobotno jutro?",
+      "preview": "Živjo! Smo 6-članska družina (2 odrasla, 4 otroci, stari 8-14 let) in bi to sobotno jutro radi rezervirali jahalni izlet. Imate prosto? Kakšna je cena na osebo?",
+      "pill": "Za odgovor",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Vprašanje glede omejitve teže",
+      "preview": "Hej, zanima me rezervacija jahanja, vendar bi najprej vprašal o vaših zahtevah glede teže. Tehtam približno 260 lbs — bo to težava...",
+      "pill": "Vprašanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Jahanje ob sončnem zahodu za obletnico?",
+      "preview": "Naslednji konec tedna praznujeva 10. obletnico in sva na Instagramu videla vaše jahanje ob sončnem zahodu. Je na voljo v petek zvečer? Imate kakšne posebne pakete...",
+      "pill": "Rezervacija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova ocena vašega profila",
+      "preview": "Popotnik je nedavno ocenil vaše podjetje. Poglejte, kaj je napisal, in odgovorite...",
+      "pill": "V vednost",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Živjo, Jessica! Sobotno jutro je prosto za 6 oseb. Naši jahalni izleti stanejo $100/osebo in trajajo približno 90 minut skozi dolino. Otroci od 8 let naprej so dobrodošli — vsi vaši lahko sodelujejo. Zahtevani so zaprti čevlji, čelade pa zagotovimo mi. Želite, da vas rezerviram za jahanje ob 9.00?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "jahanje",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Ena rešena skupinska rezervacija jahanja pokrije več kot dve leti uporabe Duet."
+  },
+  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato vprašanja jahačev, šuma pa nikoli. Nič več zgrešenih skupinskih povpraševanj, zakopanih pod opozorili TripAdvisor.",
+  "draftSubtitle": "Duet se nauči vaših vrst jahanja, cen in zahtev. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi poti, ceno in tem, kaj obleči. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Je ta konec tedna še kakšno jahanje prosto?\" \"Pripravi odgovor Jessici s sobotno razpoložljivostjo.\" Duet pozna vaš nabiralnik in koledar — samo vprašajte.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Skupinska rezervacija za 6 — sobotno jutro?",
+      "preview": "Smo 6-članska družina in bi radi rezervirali jahalni izlet...",
+      "pill": "Odgovorite zdaj",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Jahanje ob sončnem zahodu potrjeno — petek ob 17.30",
+      "pill": "Rezervirano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Omejitev teže in zahteve glede izkušenj?",
+      "pill": "Vprašanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Vaš tedenski povzetek rezervacij",
+      "pill": "V vednost",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tractor Supply",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Spomladanska razprodaja — 15 % popusta na krmo in opremo",
+      "pill": "Promocije",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Skupinska rezervacija za 6 — sobotno jutro?",
+    "originalFrom": "Jessica T. je napisala:",
+    "originalText": "Živjo! Smo 6-članska družina (2 odrasla, 4 otroci, stari 8-14 let) in bi to sobotno jutro radi rezervirali jahalni izlet. Imate prosto? Kakšna je cena na osebo?",
+    "lines": [
+      "Živjo, Jessica!",
+      "Sobotno jutro je povsem prosto za 6 oseb. Jahalni izleti stanejo $100/osebo in trajajo približno 90 minut skozi dolino. Otroci od 8 let naprej so dobrodošli, zato lahko sodeluje vsa vaša družba.",
+      "Zaprti čevlji so obvezni — škornji so najboljši. Čelade zagotovimo mi, vsakega jahača pa glede na velikost in izkušnje povežemo s primernim konjem. Predhodne izkušnje z jahanjem niso potrebne.",
+      "Želite, da vas rezerviram za jahanje ob 9.00?"
+    ],
+    "highlightText": "Sobotno jutro je povsem prosto za 6 oseb. Jahalni izleti stanejo $100/osebo",
+    "tooltipFeatures": [
+      "Pozna vaše cene in razpoložljivost",
+      "Pripravlja osnutke v vašem slogu",
+      "Samodejno vključi zahteve za jahače",
+      "Sčasoma se uči"
+    ]
+  },
+  "agent": {
+    "userMessage": "Je ta konec tedna še kakšno jahanje prosto? In kakšno bo vreme?",
+    "agentResponse": "Glede na vaš koledar imate proste termine v soboto ob 9.00 in 14.00 ter v nedeljo ob 10.00. Sobotna napoved je 72\u00b0F in sončno — popolno vreme za jahanje. Za nedeljo je popoldne napovedana 40-odstotna možnost dežja, zato je jutranji termin varnejša izbira. Želite, da pripravim odgovore na čakajoča povpraševanja s temi termini?",
+    "followUp": "Pripravi odgovor Jessici s sobotno razpoložljivostjo",
+    "followUpResponse": "Končano! Pripravil sem odgovor Jessici, ki potrjuje soboto ob 9.00 za 6 jahačev po $100/osebo. Vključuje vaše standardne zahteve za jahače in kaj obleči. Pripravljeno za pregled in pošiljanje."
+  },
+  "testimonialsTitle": "Operaterji jahalnih izletov ga obožujejo",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Lastnik ranča in vodnik po poteh, MT",
+      "quote": "Na poti sem 6 ur na dan brez signala. Ko sem se vrnil in odgovoril, je polovica ljudi že rezervirala drugje. Zdaj Duet pripravlja odgovore z mojimi cenami in podrobnostmi jahanja — ko se vrnem v hlev, jih samo pregledam in pošljem.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Operaterka jahalnih izletov, AZ",
+      "quote": "Dobimo na desetine e-poštnih sporočil z istimi vprašanji — omejitve teže, kaj obleči, starostne zahteve. Duet poskrbi za vse, odgovori pa zvenijo natanko kot jaz. Moji gostje nimajo pojma, da je AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Vodnik jahalnih poti, CO",
+      "quote": "Glavna sezona me je izčrpavala. Več kot 30 e-poštnih sporočil na dan poleg vodenja jahanj. Duet loči zahteve za rezervacijo od šuma in pripravi odgovore, ki vključujejo vse — cene, kaj prinesti, vse podrobnosti. Spet imam večere.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Inštruktorica jahanja in vodja rezervacij, TX",
+      "quote": "Vodimo jahanja ob sončnem zahodu, jutranja jahanja in zasebne ure — vsako z drugačnimi cenami in zahtevami. Duet se je vsega naučil v enem tednu. Vsakič pripravi pravi odgovor za pravo vrsto jahanja.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Družinski ranč in jahalni izleti, CA",
+      "quote": "Občutljiva e-poštna sporočila so bila najtežja — ko kdo vpraša, ali je pretežak, ali ali je njegov otrok dovolj star. Duet jih obravnava z enako skrbnostjo kot jaz. Profesionalno, prijazno in natančno. Že samo to je vredno.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Dan preživite s konji,\nne v nabiralniku.",
+  "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
+  "verticalFaqs": [
+    {
+      "question": "Kako Duet obravnava občutljiva vprašanja o teži ali zahtevah glede izkušenj?",
+      "answer": "Duet se nauči vaših konkretnih pravil in posnema vaš ton. Ko nekdo vpraša o omejitvah teže ali zahtevah glede izkušenj, odgovori profesionalno in toplo — poda informacije, ki jih gost potrebuje, brez neprijetnosti. Ton nastavite enkrat, Duet pa ga dosledno upošteva, da se vsak gost počuti spoštovanega."
+    },
+    {
+      "question": "Ali lahko Duet obravnava skupinske rezervacije z različnimi potrebami jahačev?",
+      "answer": "Da. Duet se nauči vaših vrst jahanja, velikosti skupin, najnižjih starosti in vseh zahtev za posamezne jahače. Ko družina ali skupina piše glede rezervacije, pripravi odgovor, ki zajame ceno za celotno skupino, kaj mora vedeti vsak jahač in proste termine. Vi ga pregledate in pošljete — brez dodatnega dopisovanja."
+    }
+  ],
+  "pricingNote": "Pri $100/osebo za skupino 6 oseb ena rešena rezervacija jahanja pokrije več kot dve leti uporabe Pro."
+}

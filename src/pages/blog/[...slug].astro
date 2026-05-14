@@ -1,29 +1,41 @@
 ---
-import { getCollection, render } from "astro:content"
+import { render } from "astro:content"
 import BlogLayout from "../../layouts/BlogLayout.astro"
+import { DEFAULT_LOCALE } from "../../i18n/locales"
+import { getMessages } from "../../i18n/messages/schema"
+import { getAllBlogPosts, getAlternateLinksForRoute, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content"
 
 export async function getStaticPaths() {
-    const posts = await getCollection("blog", ({ data }) => !data.draft)
+    const posts = await getAllBlogPosts(DEFAULT_LOCALE)
     return posts.map((post) => ({
-        params: { slug: post.id },
-        props: { post },
+        params: { slug: post.slug },
+        props: { post: post.entry, slug: post.slug },
     }))
 }
 
-const { post } = Astro.props
+const { post, slug } = Astro.props
+const locale = DEFAULT_LOCALE
+const messages = getMessages(locale)
+const alternates = await getAlternateLinksForRoute(Astro.site, { kind: "blogPost", slug })
+const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "blogPost", locale, slug }))
 const { Content } = await render(post)
 ---
 
 <BlogLayout
     title={post.data.title}
     description={post.data.description}
+    locale={locale}
+    messages={messages}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
     publishedAt={post.data.publishedAt}
     updatedAt={post.data.updatedAt}
     author={post.data.author}
+    authorType={post.data.authorType}
     coverImage={post.data.coverImage}
     coverImageAlt={post.data.coverImageAlt}
     tags={post.data.tags}
-    slug={post.id}
+    slug={slug}
     body={post.body}
 >
     <Content />

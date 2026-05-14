@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail untuk Pengusaha Rafting & Kayak | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu pemandu rafting dan pengusaha kayak membalas pertanyaan perjalanan dengan serta-merta — walaupun dari sungai. Balasan draf AI dengan butiran trip, harga, dan gaya suara anda.",
+  "heroBadge": "Dipercayai oleh 200+ pemandu sungai",
+  "heroHeadline": "Pembantu e-mel anda semasa anda berada di sungai",
+  "heroSubline": "Duet mempelajari jenis trip, harga, dan senarai peralatan anda — kemudian menyediakan draf balasan kepada pertanyaan tempahan supaya pelanggan mendapat jawapan semasa anda sedang merentas arus deras.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Trip raft sehari penuh untuk 6 orang pada 9 Ogos?",
+      "preview": "Hai! Kami sekeluarga seramai 6 orang akan melawat pada bulan Ogos dan mahu menempah trip rafting sehari penuh pada hari ke-9. Berapakah harga seorang dan tahap pengalaman apa yang diperlukan?",
+      "pill": "Untuk Dibalas",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Trip berbilang hari — apa yang termasuk?",
+      "preview": "Kami kumpulan 4 orang sedang melihat ekspedisi 3 hari anda. Adakah makanan, peralatan perkhemahan, dan dry bag disertakan atau kami perlu bawa sendiri...",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel & Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Kanak-kanak berumur 8 dan 10 tahun — cukup selamat?",
+      "preview": "Kami sangat ingin melakukan trip setengah hari tetapi anak kami berumur 8 dan 10 tahun. Adakah bahagian Class II sesuai untuk umur mereka? Apakah minimum...",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baharu untuk penyenaraian anda",
+      "preview": "Seorang pelancong baru-baru ini telah mengulas perniagaan anda. Lihat apa yang mereka katakan dan balas...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Jennifer! 9 Ogos masih tersedia untuk 6 orang. Trip sehari penuh ialah $150/orang dan mengambil masa kira-kira 7 jam — kami bertolak pada 8:30 AM. Tiada pengalaman diperlukan, pemandu kami menguruskan semuanya. PFD, helmet, dry bag, dan makan tengah hari di tepi sungai semuanya termasuk. Bawa sahaja sunscreen, kasut air, dan pakaian yang anda tidak kisah basah. Mahu saya tempahkan tempat anda?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "orang",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dua tempahan yang disimpan menampung kos setahun penuh Duet."
+  },
+  "categorizationSubtitle": "Duet secara automatik menandakan setiap e-mel supaya pertanyaan trip muncul dahulu, soalan peralatan kedua, dan gangguan promosi hilang. Tiada lagi terlepas tempahan kumpulan yang tersorok di bawah amaran TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari jenis trip, kelas rapids, senarai peralatan, dan polisi pembatalan anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan semua yang pelanggan perlukan. Anda semak dan hantar.",
+  "agentSubtitle": "\"Ada kekosongan pada trip sehari penuh Sabtu ini?\" \"Sediakan draf balasan kepada Jennifer dengan ketersediaan.\" Duet tahu inbox dan jadual anda — cuma tanya.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Trip raft sehari penuh untuk 6 orang pada 9 Ogos?",
+      "preview": "Kami sekeluarga 6 orang akan datang pada bulan Ogos dan ingin menempah...",
+      "pill": "Balas Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Ekspedisi 3 hari disahkan — 15 Ogos",
+      "pill": "Ditempah",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Adakah kanak-kanak berumur 8 dan 10 tahun sesuai untuk Kelas II?",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Ringkasan tempahan mingguan anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Jualan akhir musim — diskaun 30% untuk pakaian selam kering",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Perjalanan rakit sehari penuh untuk 6 orang pada 9 Ogos?",
+    "originalFrom": "Jennifer W. menulis:",
+    "originalText": "Hai! Kami sekeluarga 6 orang akan datang pada bulan Ogos dan ingin menempah perjalanan rafting sehari penuh pada 9 haribulan. Berapakah harga seorang dan tahap pengalaman apa yang kami perlukan?",
+    "lines": [
+      "Hai Jennifer!",
+      "9 Ogos masih tersedia untuk 6 orang. Perjalanan sehari penuh ialah $150/orang dan mengambil kira-kira 7 jam — kami akan bertemu di lokasi mula pada 8:30 AM.",
+      "Tiada pengalaman diperlukan. PFD, helmet, dry bag, dan makan tengah hari di tepi sungai semuanya disertakan — hanya bawa pelindung matahari dan kasut air.",
+      "Perlu saya tempahkan tempat anda?"
+    ],
+    "highlightText": "9 Ogos masih tersedia untuk 6 orang. Perjalanan sehari penuh ialah $150/orang",
+    "tooltipFeatures": [
+      "Tahu jenis perjalanan & harga anda",
+      "Menghasilkan draf mengikut suara anda",
+      "Termasuk senarai peralatan secara automatik",
+      "Belajar dari masa ke masa"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ada tempat kosong pada perjalanan sehari penuh hari Sabtu?",
+    "agentResponse": "Perjalanan sehari penuh hari Sabtu tinggal 4 tempat lagi daripada 10. Anda juga ada perjalanan separuh hari pada waktu pagi yang sudah penuh dan pelepasan berbilang hari pada hari Ahad dengan 2 tempat kosong. Mahu saya drafkan balasan untuk mana-mana pertanyaan yang belum dijawab dengan ketersediaan hari Sabtu?",
+    "followUp": "Drafkan balasan kepada Jennifer dengan ketersediaan 9 Ogos",
+    "followUpResponse": "Siap! Saya telah draf balasan kepada Jennifer yang mengesahkan 9 Ogos untuk 6 tetamu pada $150/orang. Ia merangkumi butiran perjalanan standard anda, senarai peralatan, dan lokasi pertemuan. Sedia untuk disemak dan dihantar."
+  },
+  "testimonialsTitle": "Disukai oleh pemandu sungai dan pengendali pakej",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Pengendali Rafting, CO",
+      "quote": "Semasa musim puncak, saya berada di sungai 6 hari seminggu. Sebaik sahaja saya kembali ke email, separuh daripada kumpulan itu sudah menempah dengan orang lain. Kini Duet draf balasan dengan butiran perjalanan dan harga sementara saya masih di lokasi masuk bot.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Lawatan Kayak & SUP, OR",
+      "quote": "Setiap pelanggan bertanya lima soalan yang sama — harga, apa yang perlu dibawa, tahap kemahiran, saiz kumpulan, polisi pembatalan. Duet mempelajari semuanya dalam minggu pertama. Saya berubah daripada sejam membalas email setiap malam kepada lima minit menyemak draf.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Pemandu Ekspedisi Berbilang Hari, AK",
+      "quote": "Saya mengendalikan perjalanan 5 hari tanpa sebarang liputan telefon. Sebelum Duet, setiap pertanyaan dibiarkan tanpa jawapan sehingga saya kembali ke bandar. Kini pelanggan mendapat balasan terperinci dalam beberapa minit dan saya mengesahkan apabila saya sudah keluar dari sungai.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Pengurus Pejabat River Adventures, WV",
+      "quote": "Saya mengurus tempahan untuk tiga pemandu merentasi empat jenis perjalanan. Duet mengkategorikan setiap email mengikut keutamaan dan mendraf balasan dengan perjalanan yang tepat, harga yang tepat, senarai peralatan yang tepat. Rasanya seperti menggandakan diri saya.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "Kami ragu AI boleh mengendalikan email khusus rafting. Tetapi ia memahami penerangan Class III vs. Class IV kami, had umur, malah polisi wet-exit kayak kami. Pelanggan fikir mereka sedang bercakap dengan kami.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Luangkan musim panas di sungai,\nbukan mengejar ketinggalan email.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
+  "verticalFaqs": [
+    {
+      "question": "Adakah Duet mengendalikan sebut harga trip tersuai dan pertanyaan ekspedisi berbilang hari?",
+      "answer": "Ya. Duet mempelajari keseluruhan senarai trip anda — pelampungan setengah hari, jeram sehari penuh, ekspedisi berbilang hari — bersama-sama harga, apa yang termasuk, had umur, dan tahap kesukaran. Apabila seseorang bertanya tentang trip 3 hari untuk 6 orang, ia mendraf balasan lengkap dengan butiran yang betul. Anda semak, ubah jika perlu, dan hantar."
+    },
+    {
+      "question": "Saya berada di luar liputan pada trip berbilang hari. Adakah Duet masih berfungsi?",
+      "answer": "Itulah masalah yang Duet selesaikan. Semasa anda berada di sungai tanpa isyarat, Duet mendraf balasan kepada setiap pertanyaan yang masuk. Apabila anda kembali dalam liputan, draf anda sudah menunggu — cuma semak dan hantar. Kebanyakan pemandu memberitahu kami ia menghapuskan backlog yang biasa mereka hadapi selepas setiap trip berbilang hari."
+    }
+  ],
+  "pricingNote": "Pada $150/orang, dua tempahan yang berjaya menampung kos penuh setahun Pro."
+}

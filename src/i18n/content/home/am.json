@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | AI ኢሜይል ረዳት ለGmail እና Outlook",
+    "description": "የDuet Mail's AI ኢሜይል ረዳት ኢሜይሎችን ያጠቃልላል፣ ምላሾችን ያዘጋጃል እና የገቢ መልእክት ሳጥንዎን ያደራጃል። ከ Gmail እና Outlook ጋር ይሰራል። በየሳምንቱ 4+ ሰዓታት ይቆጥቡ።"
+  },
+  "hero": {
+    "badge": "አሁን ለGmail እና Outlook ይገኛል።",
+    "headlinePrefix": "ያንተ ",
+    "headlineHighlight": "የሰራተኞች አለቃ",
+    "headlineSuffix": " ለ",
+    "rotatingFeatures": [
+      "ኢሜይል መደርደር",
+      "ምላሾችን መረቀቅ",
+      "ጊዜ መያዝ",
+      "መልሶችን መፈለግ"
+    ],
+    "subline": "በየሳምንቱ በኢሜል 4+ ሰዓታት ይቆጥቡ",
+    "primaryCta": "በGmail ይጀምሩ",
+    "secondaryCta": "በOutlook ይጀምሩ",
+    "trialNote": "ነጻ የ14-ቀን ሙከራ",
+    "cancelNote": "በማንኛውም ጊዜ ይሰርዙ"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "ፈጣን ምደባ",
+      "በAI የሚደገፉ ምላሾች"
+    ],
+    "windowTitle": "የገቢ መልእክት ሳጥን",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "ትናንት"
+    ],
+    "autodraftLabel": "አውቶማቲክ",
+    "emails": [
+      {
+        "from": "አሌክስ ሪቬራ",
+        "avatarLetter": "A",
+        "subject": "ድጋሚ፡ የምርት ማስጀመሪያ ጊዜ መስመር",
+        "preview": "ሄይ! የማስጀመሪያ ንብረቶችን ለማየት ፈልገዋል። ለሚቀጥለው ሳምንት አሁንም በሂደት ላይ ነን...",
+        "pill": "ምላሽ ለመስጠት"
+      },
+      {
+        "from": "ኤማ ፓርክ",
+        "avatarLetter": "E",
+        "subject": "ዛሬ ከሰአት በኋላ በፍጥነት ይመሳሰላል?",
+        "preview": "የፍኖተ ካርታ ማሻሻያዎችን ማግኘት እፈልጋለሁ። ከምሽቱ 4፡00 አካባቢ ነፃ ነዎት...",
+        "pill": "ስብሰባ"
+      },
+      {
+        "from": "ግብይት",
+        "avatarLetter": "M",
+        "subject": "የዘመቻ ውጤቶች ተዘጋጅተዋል።",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "መደብርዎ ለጥቁር አርብ ዝግጁ ነው።",
+        "pill": "ማስተዋወቂያዎች"
+      }
+    ],
+    "autodraft": "ሰላም አሌክስ! አዎ፣ መንገድ ላይ ነን። የንድፍ ቡድኑ ንብረቶቹን ትናንት አጠናቋል እና የመጨረሻዎቹን ፋይሎች ዛሬ በኢኦዲ እልካለሁ።"
+  },
+  "logos": {
+    "ariaLabel": "የደንበኛ አርማዎች",
+    "headingPrefix": "ወደፊት በመመልከት የታመነ",
+    "headingHighlight": " ባለሙያዎች እና ቡድኖች ",
+    "headingSuffix": "በዓለም ዙሪያ"
+  },
+  "features": {
+    "ariaLabel": "ባህሪያት",
+    "eyebrow": "የእርስዎ የገቢ መልእክት ሳጥን፣ ከመጠን በላይ ተሞልቷል።",
+    "title": "የገቢ መልእክት ሳጥንህ የቀንህ ባለቤት መሆን የለበትም",
+    "subtitle": "በትክክል እርስዎን በሚያገኝ በAI ትርምስን ወደ ግልጽነት ይለውጡ።\nለGmail እና Outlook በጣም ብልህ በሆነው የኢሜል ረዳት በየሳምንቱ 3+ ሰዓታት ይቆጥቡ።",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "እርስዎን የሚመስሉ ረቂቆችን ኢሜይል ያድርጉ",
+        "description": "Duet AI ኢሜይል ጸሐፊ በጣም አስፈላጊ ለሆኑ ኢሜይሎችዎ ረቂቆችን ያዘጋጃል። የእርስዎን ድምጽ እና የአጻጻፍ ስልት ይማራል።",
+        "ariaLabel": "እርስዎን የሚመስሉ ረቂቆችን ኢሜይል ያድርጉ",
+        "mockCopy": {
+          "draftedColdEmail": "ለጆን ግላዊ የሆነ ቀዝቃዛ ኢሜይል አዘጋጅቻለሁ",
+          "sampleText": "የAI ቧንቧዎች ጠንካራ፣ ሊለኩ የሚችሉ እና ቀልጣፋ የAI ስርዓቶችን ለመገንባት አስፈላጊ ናቸው።",
+          "readyToSend": "ለመላክ ዝግጁ ነዎት?",
+          "remindFollowUp": "እንድከታተለው አስታውሰኝ።"
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "ፈጣን ማጠቃለያዎች እና የእርምጃ እቃዎች",
+        "description": "ከኢሜይል ይዘቶችዎ በሰከንዶች ውስጥ TL;DR እና የተግባር እቃዎችን ያግኙ። በገቢ መልእክት ሳጥንህ ውስጥ ልቦለዶች ማንበብ የለም።",
+        "ariaLabel": "ፈጣን ማጠቃለያዎች እና የእርምጃ ንጥሎች",
+        "mockCopy": {
+          "sentencePrefix": "ሀሳብ አቀርባለሁ። ",
+          "sentenceHighlight": "በሚቀጥለው ሳምንት መገናኘት",
+          "sentenceSuffix": " ?",
+          "actionTitle": "አዲስ የተግባር ንጥል ነገር",
+          "actionLead": "በቀን መቁጠሪያዎ ውስጥ እነዚህን ነፃ ቦታዎች አግኝቻለሁ",
+          "slots": [
+            "ማክሰኞ፣ 10:00",
+            "ሐሙስ፣ 14:00",
+            "ዓርብ፣ 9:00"
+          ],
+          "secondaryButton": "ተጨማሪ ያግኙ",
+          "primaryButton": "ላክ"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "ብልህ አስታዋሾች",
+        "description": "ያዘጋጁት እና ይረሱት። Duet AI ሌሎች ምላሽ በማይሰጡበት ጊዜ መከታተልን ያስታውሳል፣ ስለዚህ ምንም ነገር በፍንጣቂው ውስጥ አይወድቅም።",
+        "ariaLabel": "ብልህ አስታዋሾች",
+        "mockCopy": {
+          "header": "AI-የተጎላበቱ ስማርት አስታዋሾች",
+          "stats": [
+            {
+              "label": "ክትትል",
+              "value": "12",
+              "unit": "ኢሜይሎች"
+            },
+            {
+              "label": "መልስ ለመስጠት",
+              "value": "2",
+              "unit": "ኢሜይሎች"
+            },
+            {
+              "label": "ተጠናቀቀ",
+              "value": "3",
+              "unit": "የድርጊት እቃዎች"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "የተሟላ የጽሑፍ ስራዎች",
+              "time": "ከ 2 ቀናት በፊት"
+            },
+            {
+              "title": "የፕሮጀክት ውህደት",
+              "time": "ከ 12 ሰዓታት በፊት"
+            }
+          ],
+          "actions": [
+            "ተከታተል",
+            "እንደገና ይቀጠር?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "በጉዳዩ ላይ አተኩር",
+        "description": "ብልጥ ምደባ በመጀመሪያ በጣም አስፈላጊ ኢሜይሎችዎን ያሳያል እና ኢሜይሎችን ወደ አርእስቶች ይመድባል። የኢሜል አስተዳደር ቀላል ሆኖ አያውቅም።",
+        "ariaLabel": "በጉዳዩ ላይ አተኩር",
+        "mockCopy": {
+          "analyzing": "መተንተን"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "የኢሜል ድርጅት እና ብልጥ የገቢ መልእክት ሳጥን ምደባ",
+    "badge": "ድርጅት",
+    "title": "Duet የእርስዎን የገቢ መልእክት ሳጥን ያደራጃል።",
+    "subtitle": "አውቶማቲክ ምድብ ጩኸትን ያጣራል እና አስፈላጊ የሆኑትን ነገሮች ያስተካክላል። እርምጃ ምን እንደሚያስፈልገው፣ FYI ብቻ ምን እንደሆነ እና ምን መጠበቅ እንደሚችል ወዲያውኑ ይመልከቱ።",
+    "windowTitle": "የገቢ መልእክት ሳጥን",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "ትናንት",
+      "20/12"
+    ],
+    "emails": [
+      {
+        "from": "ሳራ ቼን",
+        "avatarLetter": "S",
+        "subject": "Q4 የበጀት ግምገማ ጥያቄ",
+        "preview": "የተጠናቀቁ ቁጥሮች ተያይዘዋል. እባክዎን በEOD ይገምግሙ።",
+        "pill": "እርምጃ ያስፈልጋል"
+      },
+      {
+        "from": "ሚካኤል ቶረስ",
+        "avatarLetter": "M",
+        "subject": "ነገ በ10፡00 ላይ የቡድን መቆም",
+        "pill": "ስብሰባ"
+      },
+      {
+        "from": "የንድፍ ቡድን",
+        "avatarLetter": "D",
+        "subject": "አዲስ የምርት መመሪያዎች ታትመዋል",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "ወርሃዊ መግለጫዎ ዝግጁ ነው።",
+        "pill": "ማስተዋወቂያዎች"
+      },
+      {
+        "from": "ጋዜጣ",
+        "subject": "ሳምንታዊ መፈጨት",
+        "pill": "ማስተዋወቂያዎች"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI ኢሜይል ማርቀቅ እና ምላሽ ማመንጨት",
+    "badge": "ረቂቅ",
+    "title": "በድምጽዎ ውስጥ Duet ረቂቆች",
+    "subtitle": "Duet እንዴት እንደሚጽፉ ይማራል እና ከድምጽዎ ጋር የሚዛመዱ ምላሾችን ይቀርፃል። ይገምግሙ፣ ካስፈለገ ያስተካክሉ እና በሰከንዶች ውስጥ ይላኩ።",
+    "windowTitle": "አዲስ መልእክት",
+    "fieldLabels": {
+      "to": "ለ፡",
+      "subject": "ርዕሰ ጉዳይ፡-"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "ድጋሚ፡ በዚህ ሳምንት ፈጣን ማመሳሰል?",
+      "originalFrom": "አሌክስ ሪቬራ እንዲህ ሲል ጽፏል-",
+      "originalText": "ሄይ! የፍኖተ ካርታ ለውጦችን መከታተል እፈልጋለሁ። በዚህ ሳምንት ለ30 ደቂቃ ጥሪ ነፃ ነዎት? የሚጠቅምህን አሳውቀኝ።",
+      "badge": "በራስ ሰር ተዘጋጅቷል።",
+      "lines": [
+        "ሰላም Alex!",
+        "ስለ roadmap መለዋወጦች መነጋገር ደስ ይለኛል። ሐሙስ ከ2-4pm ወይም ዓርብ ጠዋት ነፃ ነኝ — ሁለቱም ለእኔ ይስማማሉ።",
+        "ለእርስዎ የሚስማማውን ይንገሩኝ፣ ግብዣ እልካለሁ።",
+        "አመሰግናለሁ!  "
+      ],
+      "highlightText": "ሐሙስ 2-4pm ወይም አርብ ጥዋት ነፃ ነኝ",
+      "actions": [
+        "ላክ",
+        "አርትዕ"
+      ],
+      "tooltipTitle": "ለግል የተበጀ ረቂቅ",
+      "tooltipFeatures": [
+        "የቀን መቁጠሪያዎን ያውቃል",
+        "በድምፅዎ ረቂቆችን ይጽፋል",
+        "በማስታወሻ በኩል አውድን ያውቃል",
+        "ከጊዜ ጋር ይማራል"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI የኢሜይል ብልህነት እና ረዳት",
+    "badge": "ብልህነት",
+    "title": "ስለ ኢሜልዎ ማንኛውንም ነገር ይጠይቁ",
+    "subtitle": "ኢሜይሎችን እንዲያገኝ፣ የቀን መቁጠሪያዎን እንዲፈትሽ ወይም ምላሽ እንዲረቀቅ Duetን ይጠይቁ። የእርስዎን የገቢ መልእክት ሳጥን ይረዳል እና ወዲያውኑ ይመልሳል።",
+    "windowTitle": "Duet ወኪል",
+    "onlineLabel": "በመስመር ላይ",
+    "initialUserMessage": "በአካውንቲንግ የተላከውን Stripe ደረሰኝ ማግኘት ይችላሉ?",
+    "processingText": "የገቢ መልእክት ሳጥን በመፈለግ ላይ...",
+    "foundHeader": "ከ Stripe 2 ኢሜይሎች ተገኝተዋል",
+    "foundBody": "ከኦክቶበር 24 ጀምሮ ደረሰኙን በ$29.00 USD አገኘሁት።",
+    "attachment": {
+      "fileName": "ደረሰኝ_ጥቅምት24.pdf",
+      "fileSize": "142 ኪ.ባ"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "ምላሽ አዘጋጅ"
+      },
+      {
+        "action": "calendar",
+        "label": "ለመገናኘት ጊዜ ያግኙ"
+      }
+    ],
+    "inputPlaceholder": "ማንኛውንም ነገር ይጠይቁ ...",
+    "dynamicResponses": {
+      "processingDefault": "በማስሄድ ላይ...",
+      "processingDraft": "ረቂቅ በማመንጨት ላይ...",
+      "processingCalendar": "ተገኝነትን በማጣራት ላይ...",
+      "draftIntro": "ለሂሳብ አያያዝ ረቂቅ ምላሽ እነሆ፡-",
+      "draftHeader": "ረቂቅ፡ accounting@company.com",
+      "draftLines": [
+        "ሰላም ቡድን፣",
+        "እባክዎ የኦክቶበር የ Stripe ደረሰኝ ($29.00) ተያይዞ ያግኙ።",
+        "ሌላ ማንኛውም ነገር ካስፈለገዎት ያሳውቁኝ።",
+        "ከሰላምታ ጋር፣"
+      ],
+      "draftActions": [
+        "ኢሜይል ላክ",
+        "አርትዕ"
+      ],
+      "calendarIntro": "ነገ ክፍት የሆኑ 3 ቦታዎች አሉዎት፡-",
+      "calendarSlots": [
+        {
+          "time": "9፡30 AM",
+          "duration": "30 ደቂቃ"
+        },
+        {
+          "time": "2:00 PM",
+          "duration": "30 ደቂቃ"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "30 ደቂቃ"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "እንዲሁም ምላሹን አርቅቁ?",
+        "calendarAfterDraft": "እንዲሁም ክትትል ለማድረግ ቀጠሮ ይያዙ?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "ምስክርነቶች",
+    "scrollingAriaLabel": "ማሸብለል ምስክርነቶች",
+    "eyebrow": "ምስክርነቶች",
+    "title": "በተጨናነቁ ባለሙያዎች የተወደደ",
+    "subtitle": "እውነተኛ ሰዎች። እውነተኛ የገቢ መልእክት ሳጥን ያሸንፋል።",
+    "items": [
+      {
+        "name": "ፍራንቸስካ ቲ.",
+        "title": "ፍሪላነር",
+        "quote": "ለእያንዳንዱ ሳንቲም ዋጋ ያለው። በኢሜል ላይ የማስቀመጥ ጊዜ ለDuet Mail 10x በላይ ይከፍላል ። ያለሱ መስራት አሁን ማሰብ አይቻልም።",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "ሚካኤል አር.",
+        "title": "የሽያጭ ሥራ አስፈፃሚ",
+        "quote": "የረዥም ኢሜል ክሮች ፈጣን ማጠቃለያዎች ንጹህ አስማት ናቸው እና ለተጠቃሚ ምቹ ናቸው። ደንበኞቼ ከሰው በላይ ነኝ ብለው ያስባሉ።",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "ጆኒ ኤስ.",
+        "title": "ሥራ ፈጣሪ",
+        "quote": "ለኔ ኢሜይሎች አርቴፊሻል ኢንተለጀንስ ስለመጠቀም ተጠራጣሪ ነበር። አሁን፣ ጎበዝ የስራ አስፈፃሚ ረዳት እንዳለን ነው። ወደ ኋላ ለመመለስ ማሰብ አይቻልም።",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "ጄኒፈር ኤል.",
+        "title": "አማካሪ",
+        "quote": "እንደ አማካሪ, እያንዳንዱ ደቂቃ ይቆጠራል. Duet Mail ጊዜን ብቻ አይቆጥብልኝም - የኢሜል ግኑኙነቴን የበለጠ ያሳርፋል።",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "ሳራ ቲ.",
+        "title": "የግብይት ዳይሬክተር",
+        "quote": "በመጨረሻም፣ የAI ደብዳቤ ረዳት እንዴት እንደምጽፍ በትክክል ይማራል። ቅጽበታዊ ምላሾች እንዲሁ በቦታው ላይ ናቸው፣ ቡድኔ እኩለ ሌሊት ላይ የምሰራ መስሎኝ ነበር።",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "የዋጋ አሰጣጥ",
+    "eyebrow": "የዋጋ አሰጣጥ",
+    "heading": "ቀላል ዋጋ ፣ ኃይለኛ የገቢ መልእክት ሳጥን",
+    "subheading": "በነጻ ይጀምሩ፣ በማንኛውም ጊዜ ያሻሽሉ። በማንኛውም ጊዜ ይሰርዙ።",
+    "billingLegend": "የሂሳብ አከፋፈል ችሎታ",
+    "billingAnnual": "አመታዊ",
+    "billingMonthly": "ወርሃዊ",
+    "savingsTag": "33% ይቆጥቡ",
+    "priceCadence": "/ወር",
+    "perUserSuffix": "/ተጠቃሚ",
+    "annualBillingSuffix": "(በዓመት የሚከፈል)",
+    "trustItems": [
+      "በ Stripe በኩል ደህንነቱ የተጠበቀ ክፍያ",
+      "በማንኛውም ጊዜ ይሰርዙ"
+    ],
+    "plans": [
+      {
+        "name": "መሰረታዊ",
+        "description": "ብልህ የሆነ የገቢ መልእክት ሳጥን ምን እንደሚሰማው ለማወቅ ለሚፈልግ ለማንኛውም ሰው። ቁርጠኝነት አያስፈልግም።",
+        "priceLabel": "ነፃ",
+        "features": [
+          {
+            "title": "ፈጣን ማጠቃለያዎች",
+            "description": "የማንኛውም ክር ፍሬ ነገር ያግኙ"
+          },
+          {
+            "title": "AI ረቂቆች",
+            "description": "በድምጽዎ ውስጥ የምላሾች ጣዕም"
+          },
+          {
+            "title": "ብልጥ የገቢ መልእክት ሳጥን",
+            "description": "ለመጀመር መሰረታዊ ድርጅት"
+          },
+          {
+            "title": "Duet ረዳት",
+            "description": "የAI ረዳትን ይሞክሩ"
+          }
+        ],
+        "ctaLabel": "Gmail ወይም Outlook ን ይምረጡ"
+      },
+      {
+        "name": "Pro",
+        "badge": "የ14-ቀን ነጻ ሙከራ",
+        "description": "ጥልቅ አውቶማቲክን፣ ውህደቶችን እና እንዴት እንደሚሰሩ በትክክል የሚያውቅ የገቢ መልእክት ሳጥን ለሚፈልጉ ባለሙያዎች።",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "ብልጥ የገቢ መልእክት ሳጥን",
+            "description": "ኢሜይሎች በራስ-ሰር ወደ ዘመናዊ ምድቦች ተደርድረዋል።",
+            "highlight": true
+          },
+          {
+            "title": "AI ረቂቆች",
+            "description": "ምላሾች በድምጽዎ የተፃፉ፣ ለመላክ ዝግጁ ናቸው።",
+            "highlight": true
+          },
+          {
+            "title": "Duet ረዳት",
+            "description": "ለማግኘት፣ ለመቅረጽ፣ ለማደራጀት እና ሌሎችንም ይወያዩ",
+            "highlight": true
+          },
+          {
+            "title": "የቀን መቁጠሪያ ውህደት",
+            "description": "ከገቢ መልእክት ሳጥንህ ሆነው ዝግጅቶችን መርሐግብር አስያዝ፣ ተመልከት እና አስተዳድር"
+          },
+          {
+            "title": "ፈጣን ማጠቃለያዎች",
+            "description": "የማንኛውም ክር ወይም አባሪ ፍሬ ነገር ያግኙ"
+          },
+          {
+            "title": "ብልጥ አስታዋሾች",
+            "description": "ክትትሎች በራስ-ሰር ስለሚታዩ ምንም ነገር እንዳይንሸራተት"
+          },
+          {
+            "title": "ቅድሚያ የሚሰጠው ድጋፍ",
+            "description": "እውነተኛ ሰዎች ፣ ፈጣን ምላሾች"
+          }
+        ],
+        "ctaLabel": "Gmail ወይም Outlook ን ይምረጡ",
+        "featured": true
+      },
+      {
+        "name": "ድርጅት",
+        "description": "የድርጅት ደረጃ ልኬት፣ ልዩ ድጋፍ እና ብጁ የስራ ፍሰት ለሚፈልጉ ድርጅቶች። ከ50+ በላይ ለሆኑ ቡድኖች ምርጥ።",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "ሁሉም ነገር በ Pro",
+            "description": "ሁሉም ባህሪያት ተካትተዋል"
+          },
+          {
+            "title": "የተሰጠ ድጋፍ",
+            "description": "የግል መለያ አስተዳዳሪ"
+          },
+          {
+            "title": "የቡድን ትንታኔ",
+            "description": "በድርጅትዎ ውስጥ ያሉ ግንዛቤዎች"
+          },
+          {
+            "title": "የተጋሩ የስራ ፍሰቶች",
+            "description": "አብነቶች እና አውቶማቲክስ ለቡድኖች"
+          }
+        ],
+        "ctaLabel": "የእውቂያ ሽያጭ",
+        "ctaNote": "ብጁ ዋጋ አለ።"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "በተደጋጋሚ የሚጠየቁ ጥያቄዎች",
+    "eyebrow": "የሚጠየቁ ጥያቄዎች",
+    "headingPrefix": "የተለመዱ ጥያቄዎች, ",
+    "headingAccent": "ብሎ መለሰ",
+    "contactDecorative": "?",
+    "contactLabel": "እውቂያ",
+    "contactHeading": "አሁንም ጥያቄዎች አሉዎት?",
+    "contactCta": "ተገናኝ →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "የሚጠየቁ ጥያቄዎች",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Duet Mail የኢሜል ውሂቤን እንዴት ይጠብቃል?",
+        "answer": "የእርስዎ ደህንነት ቅድሚያ የምንሰጠው ጉዳይ ነው። ለሁለቱም Google እና ማይክሮሶፍት አስተማማኝ ማረጋገጫ OAuth 2.0 ን እንጠቀማለን። የኢሜል ይዘት በእረፍት ጊዜ በደንበኛ-ጎን የመስክ ደረጃ ምስጠራን በመጠቀም የተመሰጠረ ነው፣ እና ለኤፒአይ መዳረሻ አነስተኛ መብት የሚለውን መርህ እንከተላለን። ለGoogle ውህደታችን፣ የGoogle ዓመታዊ የCASA ደህንነት ግምገማ እናካሂዳለን።"
+      },
+      {
+        "question": "የኢሜል ማጠቃለያ ባህሪ እንዴት ነው የሚሰራው?",
+        "answer": "Duet Mail የኢሜል ክሮችዎን ለመተንተን እና ቁልፍ ነጥቦችን ፣ ውሳኔዎችን እና የድርጊት እቃዎችን የሚያጎላ አጭር አጠቃላይ እይታን ለመፍጠር የላቀ AI ይጠቀማል። ይህ ሙሉውን ክር ሳያነቡ አውዱን በፍጥነት እንዲረዱ ያግዝዎታል።"
+      },
+      {
+        "question": "Duet Mail ምን ፈቃዶች ያስፈልገዋል?",
+        "answer": "Duet Mail ማጠቃለያዎችን ለማቅረብ፣ የተግባር እቃዎችን ለማውጣት፣ ይዘት ለማመንጨት እና ኢሜይሎችዎን ለመላክ የኢሜይሎችዎን መዳረሻ ይፈልጋል። የምንፈልገው ሙሉ በሙሉ ፈቃዶችን ብቻ ነው። እነዚህን ፈቃዶች በማንኛውም ጊዜ በእርስዎ Google መለያ ወይም Microsoft መለያ ቅንብሮች ውስጥ መገምገም ይችላሉ።"
+      },
+      {
+        "question": "በነጻ ሙከራው ውስጥ ምን ይካተታል?",
+        "answer": "የ14-ቀን ነጻ ሙከራ ሁሉንም የ Pro ባህሪያት ሙሉ መዳረሻን ያካትታል፡ ያልተገደበ የኢሜይል ማጠቃለያዎች፣ የተግባር ንጥል ነገር ማውጣት፣ AI ኢሜይል ጸሐፊ (ኢሜይሎችን እና ረቂቆችን ያለምንም ገደብ ማመንጨት) እና ብጁ የኢሜይል አብነቶች። በኢሜል አስተዳደር ጊዜ መቆጠብ ለመጀመር በGoogle ወይም Microsoft ይግቡ።"
+      },
+      {
+        "question": "ከሌሎች የኢሜይል አቅራቢዎች ጋር Duet Mail መጠቀም እችላለሁ?",
+        "answer": "Duet Mail Gmail፣ Google Workspace እና Microsoft Outlookን ይደግፋል። ለመጀመር በGoogle ወይም Microsoft መለያ ይግቡ።"
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "ጀምር",
+    "headline": "4 ሰአታት ይመለሱ።\nበየሳምንቱ።",
+    "subline": "ቀናቸውን በግርግር ሳይሆን በግልፅ የሚጀምሩትን ባለሙያዎች ይቀላቀሉ። የነጻ ሙከራህ እየጠበቀ ነው።",
+    "primaryCta": "በGmail ይጀምሩ",
+    "secondaryCta": "በOutlook ይጀምሩ",
+    "note": "የ14-ቀን ነጻ ሙከራ · በማንኛውም ጊዜ ይሰርዙ",
+    "trustItems": [
+      "Google CASA-assessed",
+      "በማከማቻ ጊዜ የተመሰጠረ",
+      "ደህንነቱ የተጠበቀ OAuth 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "የጣቢያ ግርጌ",
+    "brandIconAlt": "Duet Mail አዶ",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — በየሳምንቱ ሰዓታትን የሚቆጥብልዎትን የAI ኢሜይል ረዳት",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "ያስሱ",
+        "links": [
+          {
+            "label": "ድርጅት",
+            "href": "/am#organization"
+          },
+          {
+            "label": "ረቂቅ",
+            "href": "/am#drafting"
+          },
+          {
+            "label": "ብልህነት",
+            "href": "/am#intelligence"
+          },
+          {
+            "label": "Chrome ቅጥያ",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "ደንበኞች",
+        "links": [
+          {
+            "label": "የዋጋ አሰጣጥ",
+            "href": "/am#pricing"
+          },
+          {
+            "label": "ምስክርነቶች",
+            "href": "/am#testimonials"
+          },
+          {
+            "label": "የሚጠየቁ ጥያቄዎች",
+            "href": "/am#faq"
+          }
+        ]
+      },
+      {
+        "title": "ህጋዊ",
+        "links": [
+          {
+            "label": "ግላዊነት",
+            "href": "/am/privacy"
+          },
+          {
+            "label": "ውሎች",
+            "href": "/am/terms"
+          },
+          {
+            "label": "ኩኪዎች",
+            "href": "/am/cookies"
+          },
+          {
+            "label": "ማስተባበያ",
+            "href": "/am/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "ተገናኝ",
+        "links": [
+          {
+            "label": "ብሎግ",
+            "href": "/am/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "ኢንስታግራም",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "የጅምር ዝና",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "ወደ ኢንቨስትመንት መመለስ",
+    "label": "ሒሳብ",
+    "narrativeTemplate": "በ{pricePerBooking} በ{bookingUnit}፣ ለዘገየ ምላሾች {lostPerMonth} ማጣት =",
+    "lossSuffix": "/ mo ጠፍቷል",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI ኢሜይል ረዳት ለGmail እና Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "የደንበኛ ድጋፍ",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "የAI ኢሜይል ረዳት ለGmail እና Outlook ኢሜይሎችን በራስ-ሰር የሚያጠቃልል፣ረቂቆች በድምጽዎ ምላሽ ይሰጣሉ እና በየሳምንቱ ሰዓታት ለመቆጠብ የገቢ መልእክት ሳጥንዎን ያደራጃል።",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "ብልጥ የኢሜይል አደረጃጀት እና ምደባ",
+      "በAI የሚደገፍ በድምፅዎ የኢሜይል ረቂቅ",
+      "ከቀን መቁጠሪያ ውህደት ጋር ብልህ የኢሜይል ረዳት",
+      "ራስ-ሰር የኢሜይል ማጠቃለያዎች እና የድርጊት ንጥሎች",
+      "ለክትትል ብልጥ ማስታወሻዎች"
+    ],
+    "offers": [
+      {
+        "name": "መሰረታዊ እቅድ",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "ነፃ እቅድ በቅጽበት ማጠቃለያዎች፣ AI ረቂቆች እና ብልጥ የገቢ መልእክት ሳጥን"
+      },
+      {
+        "name": "Pro ዕቅድ",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "ሙሉ መዳረሻ ከብልጥ የገቢ መልእክት ሳጥን ምድብ ፣ AI ረቂቆች ፣ ረዳት እና የቀን መቁጠሪያ ውህደት ጋር"
+      }
+    ],
+    "operatingSystem": "ድር",
+    "browserRequirements": "JavaScript ያስፈልገዋል። ከGmail፣ Google Workspace እና Microsoft Outlook ጋር ይሰራል።",
+    "urls": {
+      "site": "https://duetmail.com/am",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Duet Mail የኢሜል ውሂቤን እንዴት ይጠብቃል?",
+        "answer": "የእርስዎ ደህንነት ቅድሚያ የምንሰጠው ጉዳይ ነው። ለሁለቱም Google እና ማይክሮሶፍት አስተማማኝ ማረጋገጫ OAuth 2.0 ን እንጠቀማለን። የኢሜል ይዘት በእረፍት ጊዜ በደንበኛ-ጎን የመስክ ደረጃ ምስጠራን በመጠቀም የተመሰጠረ ነው፣ እና ለኤፒአይ መዳረሻ አነስተኛ መብት የሚለውን መርህ እንከተላለን። ለGoogle ውህደታችን፣ የGoogle ዓመታዊ የCASA ደህንነት ግምገማ እናካሂዳለን።"
+      },
+      {
+        "question": "የኢሜል ማጠቃለያ ባህሪ እንዴት ነው የሚሰራው?",
+        "answer": "Duet Mail የኢሜል ክሮችዎን ለመተንተን እና ቁልፍ ነጥቦችን ፣ ውሳኔዎችን እና የድርጊት እቃዎችን የሚያጎላ አጭር አጠቃላይ እይታን ለመፍጠር የላቀ AI ይጠቀማል። ይህ ሙሉውን ክር ሳያነቡ አውዱን በፍጥነት እንዲረዱ ያግዝዎታል።"
+      },
+      {
+        "question": "Duet Mail ምን ፈቃዶች ያስፈልገዋል?",
+        "answer": "Duet Mail ማጠቃለያዎችን ለማቅረብ፣ የተግባር እቃዎችን ለማውጣት፣ ይዘት ለማመንጨት እና ኢሜይሎችዎን ለመላክ የኢሜይሎችዎን መዳረሻ ይፈልጋል። የምንፈልገው ሙሉ በሙሉ ፈቃዶችን ብቻ ነው። እነዚህን ፈቃዶች በማንኛውም ጊዜ በእርስዎ Google መለያ ወይም Microsoft መለያ ቅንብሮች ውስጥ መገምገም ይችላሉ።"
+      },
+      {
+        "question": "በነጻ ሙከራው ውስጥ ምን ይካተታል?",
+        "answer": "የ14-ቀን ነጻ ሙከራ ሁሉንም የ Pro ባህሪያት ሙሉ መዳረሻን ያካትታል፡ ያልተገደበ የኢሜይል ማጠቃለያዎች፣ የተግባር ንጥል ነገር ማውጣት፣ AI ኢሜይል ጸሐፊ (ኢሜይሎችን እና ረቂቆችን ያለምንም ገደብ ማመንጨት) እና ብጁ የኢሜይል አብነቶች። በኢሜል አስተዳደር ጊዜ መቆጠብ ለመጀመር በGoogle ወይም Microsoft ይግቡ።"
+      },
+      {
+        "question": "ከሌሎች የኢሜይል አቅራቢዎች ጋር Duet Mail መጠቀም እችላለሁ?",
+        "answer": "Duet Mail Gmail፣ Google Workspace እና Microsoft Outlookን ይደግፋል። ለመጀመር በGoogle ወይም Microsoft መለያ ይግቡ።"
+      }
+    ]
+  }
+}

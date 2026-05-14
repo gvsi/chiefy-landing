@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail suņu pajūgu ekskursijām | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz suņu pajūgu vadītājiem uz rezervācijas e-pastiem atbildēt uzreiz — pat esot trasē. AI sagatavotas atbildes ar jūsu ekskursiju veidiem, cenām, noteikumiem un saziņas stilu.",
+  "heroBadge": "Uzticas vairāk nekā 200 suņu pajūgu vadītāju",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr esat trasē",
+  "heroSubline": "Duet apgūst jūsu ekskursiju veidus, cenas, laikapstākļu noteikumus un papildpakalpojumus — un sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Ziemeļblāzma + suņu pajūgs 4 personām?",
+      "preview": "Sveiki! Mana 4 cilvēku ģimene janvārī apmeklēs Fērbenksu. Vai piedāvājat kombinētu paketi ar suņu pajūgu un ziemeļblāzmas vērošanu? Kāda ir cena?",
+      "pill": "Jāatbild",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Ko mums vilkt mugurā?",
+      "preview": "Mums sestdien ir rezervēta 2 stundu pajūga vadīšanas pieredze. Ko mums vilkt mugurā? Vai jūs nodrošināt ekipējumu, vai mums jāņem savs...",
+      "pill": "Jautājums",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim & Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Bērni 5 un 8 gadus veci — vai viņi var vadīt pajūgu?",
+      "preview": "Mēs ņemsim līdzi divus bērnus (5 un 8). Vai viņi var braukt kamanās vai arī tiešām palīdzēt vadīt pajūgu? Un vai suņi labi sadzīvo ar maziem bērniem...",
+      "pill": "Rezervācija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Jauna atsauksme par jūsu ierakstu",
+      "preview": "Ceļotājs nesen novērtēja jūsu uzņēmumu. Skatiet, ko viņš rakstīja, un atbildiet...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Sveika, Rachel! Mēs labprāt uzņemtu jūsu ģimeni. Mūsu ziemeļblāzmas + pajūga kombinētā pakete maksā $175/personai — jūs saņemsiet 1,5 stundu braucienu kamanās pa takām krēslā, pēc tam karstu kakao pie ugunskura, kamēr gaidīsim ziemeļblāzmu. Viss aukstam laikam paredzētais ekipējums ir nodrošināts. Bērniem līdz 12 gadu vecumam cena ir $125. Vai vēlaties, lai rezervēju jums vietas janvārī?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "ekskursija",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Divas saglabātas rezervācijas apmaksā Duet uz gadu."
+  },
+  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus, bet nekad — lieku troksni. Vairs nekādu nepamanītu ekskursiju pieprasījumu, kas paslēpies zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu ekskursiju veidus, cenas un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar paketes informāciju, ieteikumiem, ko vilkt, un papildpakalpojumiem. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šajā nedēļas nogalē ir kādas rezervācijas?\" \"Sagatavo atbildi par ziemeļblāzmas kombinēto paketi.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Ziemeļblāzma + suņu pajūgs 4 personām?",
+      "preview": "Mana 4 cilvēku ģimene janvārī apmeklēs Fērbenksu...",
+      "pill": "Atbildēt tagad",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervācija apstiprināta — sestdien 1PM",
+      "pill": "Rezervēts",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Vai mūsu bērni (5 un 8) var braukt līdzi?",
+      "pill": "Jautājums",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Jūsu iknedēļas rezervāciju kopsavilkums",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Ziemas izpārdošana — 30% atlaide pajūga iejūgiem",
+      "pill": "Akcijas",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Ziemeļblāzma + suņu pajūgs 4 personām?",
+    "originalFrom": "Rachel T. rakstīja:",
+    "originalText": "Sveiki! Mana 4 cilvēku ģimene janvārī apmeklēs Fērbenksu. Vai piedāvājat kombinētu paketi ar suņu pajūgu un ziemeļblāzmas vērošanu? Kāda ir cena?",
+    "lines": [
+      "Sveika, Rachel!",
+      "Mūsu ziemeļblāzmas + pajūga kombinētā pakete maksā $175/personai — 1,5 stundu brauciens kamanās krēslā, pēc tam karsts kakao un ziemeļblāzmas vērošana pie ugunskura. Bērniem līdz 12 gadu vecumam cena ir $125.",
+      "Viss aukstam laikam paredzētais ekipējums ir nodrošināts (zābaki, kombinezoni, cimdi, sejas maskas). Zem tā vienkārši ģērbieties siltās kārtās.",
+      "Vai vēlaties, lai rezervēju jūsu 4 cilvēku ģimeni janvārim?"
+    ],
+    "highlightText": "Ziemeļblāzmas + pajūga kombinētā pakete maksā $175/personai — 1,5 stundu brauciens kamanās",
+    "tooltipFeatures": [
+      "Pārzina jūsu ekskursiju veidus un cenas",
+      "Raksta melnrakstus jūsu balsī",
+      "Iekļauj ekipējuma un papildpakalpojumu informāciju",
+      "Laika gaitā mācās"
+    ]
+  },
+  "agent": {
+    "userMessage": "Vai šajā nedēļas nogalē ir gaidāmas rezervācijas? Laikapstākļi izskatās nenoteikti.",
+    "agentResponse": "Šajā nedēļas nogalē jums ir rezervētas 3 ekskursijas: audzētavas apmeklējums sestdien plkst. 10 AM (2 viesi), 2 stundu pajūga vadīšanas pieredze sestdien plkst. 1 PM (4 viesi) un ziemeļblāzmas kombinētā pakete svētdien plkst. 4 PM (6 viesi). Svētdienas grupa jautāja par atcelšanas noteikumiem. Vai vēlaties, lai sagatavoju laikapstākļu jaunumu visām trim?",
+    "followUp": "Sagatavo laikapstākļu jaunumu svētdienas ziemeļblāzmas grupai",
+    "followUpResponse": "Gatavs! Es sagatavoju atbildi svētdienas ziemeļblāzmas grupai, informējot, ka jūs sekojat apstākļiem un apstiprināsiet līdz sestdienas vakaram. Tajā iekļauti jūsu pārcelšanas noteikumi un alternatīvi datumi. Gatavs pārskatīšanai un nosūtīšanai."
+  },
+  "testimonialsTitle": "Suņu pajūgu vadītāju un ekskursiju operatoru iecienīts",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Suņu pajūgu ekskursiju operators, AK",
+      "quote": "Es pavadu trasē 6 stundas dienā bez jebkāda mobilā pārklājuma. Līdz brīdim, kad atgriezos, puse rezervācijas pieprasījumu jau bija aizgājusi pie cita pakalpojumu sniedzēja. Duet sagatavo atbildes ar manas ekskursijas informāciju un cenām — viesi saņem atbildi minūtēs, nevis stundās.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Audzētavas un pajūgu ekskursiju īpašniece, AK",
+      "quote": "Mēs piedāvājam audzētavas apmeklējumus, braucienus ar pajūgu un ziemeļblāzmas kombinētās paketes — katram e-pastam vajadzīga cita atbilde. Duet nedēļas laikā saprata visus trīs ekskursiju veidus un tagad katru reizi sagatavo atbildes, kas atbilst pareizajai paketei.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Suņu pajūgu gids, MN",
+      "quote": "Agrāk katru vakaru pavadīju, atbildot uz tiem pašiem jautājumiem par to, ko vilkt, vecuma ierobežojumiem un suņiem. Duet tiek galā ar to visu. Es atgriežos mājās no trases, un viss jau ir sagatavots un gaida.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Ziemeļblāzmas un pajūgu ekskursiju operatore, AK",
+      "quote": "Ziemā laikapstākļu dēļ atcelšanas notiek nepārtraukti. Duet sagatavo pārcelšanas atbildes ar mūsu noteikumiem un alternatīviem datumiem, vēl pirms man ir iespēja pārbaudīt telefonu. Viesiem patīk ātrā atbilde.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Family Dog Sled Adventures, CO",
+      "quote": "Vecāki vienmēr jautā, vai viņu bērni var vadīt pajūgu, vai suņi ir draudzīgi, ko vilkt mugurā — tie paši 10 jautājumi. Duet iemācījās katru atbildi un sagatavo tās perfekti. Tas ir kā klonēt sevi e-pastam.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Pavadiet ziemu trasē ar saviem suņiem,\nnevis iesūtnē.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
+  "verticalFaqs": [
+    {
+      "question": "Kā Duet apstrādā laikapstākļu dēļ atceltas ekskursijas un neskaidrību par ziemeļblāzmu?",
+      "answer": "Duet apgūst jūsu atcelšanas un pārcelšanas noteikumus. Kad viesis raksta par bažām saistībā ar laikapstākļiem vai ziemeļblāzmas redzamību, tas sagatavo atbildi ar jūsu noteikumiem, alternatīviem datumiem un jebkuru būtisku informāciju — piemēram, ka sekojat apstākļiem un apstiprināsiet tuvāk ekskursijai. Jūs pārskatāt un nosūtāt."
+    },
+    {
+      "question": "Es piedāvāju vairākus ekskursiju veidus ar atšķirīgām cenām un papildpakalpojumiem. Vai Duet spēj tos atšķirt?",
+      "answer": "Jā. Duet apgūst katru jūsu ekskursiju veidu — audzētavas apmeklējumus, pajūga vadīšanas pieredzes, ziemeļblāzmas kombinētās paketes, fotografēšanas papildpakalpojumus, transporta paketes — kopā ar to cenām, ilgumu un iekļauto. Kad pienāk pieprasījums, tas piemeklē pareizo ekskursiju un sagatavo atbildi ar korektu informāciju."
+    }
+  ],
+  "pricingNote": "Pie $150 par tūri divas saglabātas rezervācijas sedz vairāk nekā gada Pro izmaksas."
+}

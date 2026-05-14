@@ -2,15 +2,25 @@
 import BaseLayout from "./BaseLayout.astro"
 import Nav from "../components/nav/Nav.astro"
 import Footer from "../components/sections/Footer.astro"
-import { calculateReadingTime, formatReadingTime } from "../utils/readingTime"
+import { calculateReadingTimeForLocale, formatDate, formatReadingTimeForLocale } from "../utils/readingTime"
 import { AUTH_CHOOSER_URL } from "../utils/constants"
+import { escapeHtmlAttribute, jsonLdScript } from "../i18n/jsonLd"
+import type { Locale } from "../i18n/locales"
+import { localizedPath, type AlternateLink } from "../i18n/routing"
+import type { Messages } from "../i18n/messages/schema"
+import { t } from "../i18n/messages/schema"
 
 type Props = {
+    locale: Locale
+    messages: Messages
+    alternates: AlternateLink[]
+    robotsDirectives?: string
     title: string
     description: string
     publishedAt: Date
     updatedAt?: Date
     author: string
+    authorType?: "team" | "person"
     coverImage?: string
     coverImageAlt?: string
     tags?: string[]
@@ -19,11 +29,16 @@ type Props = {
 }
 
 const {
+    locale,
+    messages,
+    alternates,
+    robotsDirectives,
     title,
     description,
     publishedAt,
     updatedAt,
     author,
+    authorType = "team",
     coverImage,
     coverImageAlt,
     tags = [],
@@ -31,24 +46,19 @@ const {
     body = "",
 } = Astro.props
 
-const readingTime = calculateReadingTime(body)
+const readingTime = calculateReadingTimeForLocale(body, locale)
 
-const formattedDate = publishedAt.toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-})
+const formattedDate = formatDate(publishedAt, locale)
+const formattedUpdatedDate = updatedAt ? formatDate(updatedAt, locale) : undefined
+const showAuthorByline = authorType !== "team"
 
-const formattedUpdatedDate = updatedAt?.toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-})
-
-const canonicalPath = `/blog/${slug}`
+const canonicalPath = localizedPath(locale, { kind: "blogPost", slug })
 const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
 const ogImagePath = coverImage || "/og.jpg"
 const ogImageUrl = new URL(ogImagePath, Astro.site).toString()
+const homeUrl = new URL(localizedPath(locale, { kind: "home" }), Astro.site).toString()
+const blogIndexPath = localizedPath(locale, { kind: "blogIndex" })
+const blogIndexUrl = new URL(blogIndexPath, Astro.site).toString()
 
 // Build article meta tags
 const metaLines: string[] = []
@@ -56,15 +66,16 @@ metaLines.push('<meta property="article:published_time" content="' + publishedAt
 if (updatedAt) {
     metaLines.push('<meta property="article:modified_time" content="' + updatedAt.toISOString() + '" />')
 }
-metaLines.push('<meta property="article:author" content="' + author + '" />')
+metaLines.push('<meta property="article:author" content="' + escapeHtmlAttribute(author) + '" />')
 for (const tag of tags) {
-    metaLines.push('<meta property="article:tag" content="' + tag + '" />')
+    metaLines.push('<meta property="article:tag" content="' + escapeHtmlAttribute(tag) + '" />')
 }
 
 // JSON-LD structured data for Article
 const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
+    inLanguage: locale,
     headline: title,
     description: description,
     image: ogImageUrl,
@@ -73,15 +84,17 @@ const articleJsonLd = {
     author: {
         "@type": "Organization",
         name: author,
-        url: "https://duetmail.com",
+        url: homeUrl,
     },
     publisher: {
         "@type": "Organization",
         name: "Duet Mail",
-        url: "https://duetmail.com",
+        url: homeUrl,
         logo: {
             "@type": "ImageObject",
-            url: "https://duetmail.com/favicon.svg",
+            url: new URL("/apple-touch-icon.png", Astro.site).toString(),
+            width: 180,
+            height: 180,
         },
     },
     mainEntityOfPage: {
@@ -95,18 +108,19 @@ const articleJsonLd = {
 const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
+    inLanguage: locale,
     itemListElement: [
         {
             "@type": "ListItem",
             position: 1,
-            name: "Home",
-            item: "https://duetmail.com",
+            name: t(messages, "legalNav.home"),
+            item: homeUrl,
         },
         {
             "@type": "ListItem",
             position: 2,
-            name: "Blog",
-            item: "https://duetmail.com/blog",
+            name: t(messages, "nav.blog"),
+            item: blogIndexUrl,
         },
         {
             "@type": "ListItem",
@@ -117,20 +131,35 @@ const breadcrumbJsonLd = {
     ],
 }
 
-const jsonLdScript = '<script type="application/ld+json">' + JSON.stringify(articleJsonLd) + '<' + '/script>' +
-    '<script type="application/ld+json">' + JSON.stringify(breadcrumbJsonLd) + '<' + '/script>'
-const extraHeadHtml = metaLines.join("\n") + "\n" + jsonLdScript
+const webPageJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    inLanguage: locale,
+    name: title,
+    description,
+    url: canonicalUrl,
+}
+
+const extraHeadHtml = [
+    metaLines.join("\n"),
+    jsonLdScript(articleJsonLd),
+    jsonLdScript(breadcrumbJsonLd),
+    jsonLdScript(webPageJsonLd),
+].join("\n")
 ---
 
 <BaseLayout
-    title={`${title} | Duet Mail Blog`}
+    title={t(messages, "blog.titleSuffix", { title })}
     description={description}
     canonicalPath={canonicalPath}
     ogImagePath={ogImagePath}
+    locale={locale}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
     ogType="article"
     extraHeadHtml={extraHeadHtml}
 >
-    <Nav />
+    <Nav locale={locale} messages={messages} alternates={alternates} />
 
     <div class="reading-progress" id="reading-progress">
         <div class="reading-progress-bar" id="reading-progress-bar"></div>
@@ -140,11 +169,11 @@ const extraHeadHtml = metaLines.join("\n") + "\n" + jsonLdScript
         <article class="blog-article">
             <header class="article-header">
                 <nav class="article-nav">
-                    <a href="/blog" class="article-back">
+                    <a href={blogIndexPath} class="article-back">
                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
                             <path d="M10 12L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
-                        <span>Back to Journal</span>
+                        <span>{t(messages, "blog.backToJournal")}</span>
                     </a>
                 </nav>
 
@@ -154,7 +183,7 @@ const extraHeadHtml = metaLines.join("\n") + "\n" + jsonLdScript
                     </time>
                     <span class="article-meta-dot" aria-hidden="true"></span>
                     <span class="article-reading-time">
-                        {formatReadingTime(readingTime)}
+                        {formatReadingTimeForLocale(readingTime, locale, messages)}
                     </span>
                 </div>
 
@@ -162,16 +191,16 @@ const extraHeadHtml = metaLines.join("\n") + "\n" + jsonLdScript
 
                 <p class="article-description">{description}</p>
 
-                {(author !== "Duet Mail Team" || formattedUpdatedDate) && (
+                {(showAuthorByline || formattedUpdatedDate) && (
                     <div class="article-byline">
-                        {author !== "Duet Mail Team" && (
-                            <span class="article-author">By {author}</span>
+                        {showAuthorByline && (
+                            <span class="article-author">{t(messages, "blog.byAuthor", { author })}</span>
                         )}
-                        {author !== "Duet Mail Team" && formattedUpdatedDate && (
+                        {showAuthorByline && formattedUpdatedDate && (
                             <span class="article-meta-dot" aria-hidden="true"></span>
                         )}
                         {formattedUpdatedDate && (
-                            <span class="article-updated">Updated {formattedUpdatedDate}</span>
+                            <span class="article-updated">{t(messages, "blog.updated", { date: formattedUpdatedDate })}</span>
                         )}
                     </div>
                 )}
@@ -196,7 +225,7 @@ const extraHeadHtml = metaLines.join("\n") + "\n" + jsonLdScript
             <footer class="article-footer">
                 {tags.length > 0 && (
                     <div class="article-tags">
-                        <span class="article-tags-label">Topics</span>
+                        <span class="article-tags-label">{t(messages, "blog.topics")}</span>
                         <div class="article-tags-list">
                             {tags.map((tag) => (
                                 <span class="article-tag">{tag}</span>
@@ -210,27 +239,27 @@ const extraHeadHtml = metaLines.join("\n") + "\n" + jsonLdScript
                 </div>
 
                 <div class="article-cta">
-                    <h2 class="article-cta-title">Transform your inbox</h2>
+                    <h2 class="article-cta-title">{t(messages, "blog.cta.title")}</h2>
                     <p class="article-cta-text">
-                        Join thousands of professionals who've reclaimed their time with AI-powered email management.
+                        {t(messages, "blog.cta.text")}
                     </p>
                     <a href={AUTH_CHOOSER_URL} class="article-cta-button">
-                        Choose Gmail or Outlook
+                        {t(messages, "blog.cta.button")}
                     </a>
                 </div>
 
                 <div class="article-footer-nav">
-                    <a href="/blog" class="article-back article-back--footer">
+                    <a href={blogIndexPath} class="article-back article-back--footer">
                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
                             <path d="M10 12L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
-                        <span>Back to Journal</span>
+                        <span>{t(messages, "blog.backToJournal")}</span>
                     </a>
                 </div>
             </footer>
         </article>
     </main>
-    <Footer />
+    <Footer locale={locale} messages={messages} />
 </BaseLayout>
 
 <script>

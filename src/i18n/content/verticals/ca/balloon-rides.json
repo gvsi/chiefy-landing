@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail per a passejades en globus aerostàtic | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els pilots de globus a respondre als correus electrònics de reserva a l'instant, fins i tot durant els vols de la sortida del sol. Respostes redactades per AI amb els vostres preus, polítiques meteorològiques i veu.",
+  "heroBadge": "Més de 200 pilots de globus confiats",
+  "heroHeadline": "El teu assistent de correu electrònic mentre estàs a l'aire",
+  "heroSubline": "Duet coneix els horaris dels vostres vols, els preus i les polítiques meteorològiques; després redacta esborranys de respostes per correu electrònic perquè no perdeu mai cap reserva mentre lanceu a la sortida del sol.",
+  "inboxEmails": [
+    {
+      "from": "Rachel i Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Vol a la sortida del sol per a 2 — dissabte disponible?",
+      "preview": "Hola! El meu marit i jo estem de visita per al nostre aniversari i ens agradaria reservar un viatge en globus a la sortida del sol aquest dissabte. Tens espai? Quin és el cost per persona?",
+      "pill": "Per respondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Volarem demà? La previsió de vent sembla dura",
+      "preview": "Estem reservats per demà al matí, però l'aplicació meteorològica mostra ratxes de 15 mph. Encara volem o hem de planejar reprogramar...",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer i Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Vol privat per a una proposta: preus?",
+      "preview": "Vull sorprendre la meva xicota amb un viatge privat en globus i proposar-la durant el vol. Quant costa un vol privat i pots ajudar a coordinar...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Què hem de posar? On ens trobem?",
+      "preview": "Estem reservats per diumenge al matí. Què hem de portar i on és exactament el punt de trobada? A més, quant de temps dura tota l'experiència...",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Hola Raquel! Dissabte està obert per a les 2. Els vols de la sortida del sol s'inicien al voltant de les 6:15 del matí; confirmarem l'hora exacta i el lloc de trobada la nit anterior en funció dels vents. És de 250 dòlars per persona i inclou aproximadament una hora a l'aire més un brindis de xampany després de l'aterratge. Vesteix-te amb capes i fes servir sabates tancades. Vols que et reservi les teves places?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "vol",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Un vol guardat paga un any de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, en segon lloc les preguntes meteorològiques i el soroll mai. Ja no et perdis una consulta de vol enterrada sota les alertes del butlletí.",
+  "draftSubtitle": "Duet coneix els vostres preus, les vostres polítiques meteorològiques i el vostre to. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del vol, la informació de la reunió i què cal posar-se. Tu revisa i envia.",
+  "agentSubtitle": "\"Qui apareix al manifest de demà?\" \"Alguna cancel·lació de temps per reprogramar?\" Duet coneix la vostra safata d'entrada i el vostre calendari; només cal que ho pregunteu.",
+  "categorizationEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Vol a la sortida del sol per a 2 — dissabte disponible?",
+      "preview": "El meu marit i jo ens agradaria reservar un viatge en globus a la sortida del sol...",
+      "pill": "Respon ara",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Reserva confirmada — Diumenge 6:15 AM",
+      "pill": "Reservat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Què hem de portar per al vol?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova ressenya per a la teva fitxa",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Federació de Globus",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Butlletí de seguretat de març i recordatori de renovació",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Sunrise flight for 2 — Saturday available?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Hi! My husband and I are visiting for our anniversary and would love to book a sunrise balloon ride this Saturday. Do you have space? What's the cost per person?",
+    "lines": [
+      "Hola Rachel!",
+      "Dissabte està totalment disponible per a 2. Els vols a la sortida del sol costen 250 $ per persona i inclouen aproximadament una hora a l’aire més un brindis amb xampany després de l’aterratge.",
+      "Enlairem cap a les 6:15; t’enviaré l’hora i el lloc de trobada exactes la nit abans segons el vent. Vesteix-te per capes i porta sabates tancades.",
+      "Feliç aniversari! Vols que et reservi les places?"
+    ],
+    "highlightText": "Dissabte està totalment disponible per a 2. Els vols a la sortida del sol costen 250 $ per persona",
+    "tooltipFeatures": [
+      "Coneix la teva programació i el temps",
+      "Redacta amb la teva veu",
+      "Inclou instruccions abans del vol",
+      "Aprèn amb el temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Qui apareix al manifest de demà i quin temps fa?",
+    "agentResponse": "El vol de la sortida del sol de demà té 6 passatgers reservats en 2 reserves: la festa Thompson (4) i la parella Lee (2). La previsió actual mostra vents tranquils a 4 mph i cel clar a l'hora del llançament. Encara no hi ha cap correu electrònic de cancel·lació. Vols que t'enviï les confirmacions del punt de trobada?",
+    "followUp": "Sí, envieu confirmacions a ambdues parts amb l'hora de reunió de les 6:15",
+    "followUpResponse": "Fet! Vaig redactar les confirmacions dels punts de trobada tant per als Thompsons com per als Lees amb les 6:15 del matí al camp de llançament, què posar-me i les indicacions. A punt per revisar i enviar."
+  },
+  "testimonialsTitle": "Estimat pels pilots i operadors de globus",
+  "testimonials": [
+    {
+      "name": "El capità Mike L.",
+      "title": "Pilot de globus, MN",
+      "quote": "Sóc una operació d'un sol home: vola, faig tripulació, responc correus electrònics. Excepte a les 5 del matí estic inflant, sense respondre. Duet redacta respostes a cada \"volarem demà?\" missatge durant la nit. Em desperto, comprovo el temps i premeu enviar.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon i Jake B.",
+      "title": "Tours en globus durant tot l'any, UT",
+      "quote": "Tenim les mateixes 10 preguntes cada dia. Què posar-se, on trobar-se, què passa si fa vent. Duet ho ha après tot i ara redacta respostes perfectes. Passem d'una hora de correus electrònics cada nit a cinc minuts.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Operador de vol Sunrise, AZ",
+      "quote": "La temporada alta significa 4-6 vols a la setmana i cada passatger envia un correu electrònic almenys dues vegades abans del vol. Duet gestiona les preguntes prèvies al vol perquè em pugui centrar a oferir a la gent el millor matí de la seva vida.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Copropietari de l'empresa de globus, NM",
+      "quote": "Les cancel·lacions meteorològiques solien arruïnar el meu dia sencer: 8 passatgers necessitaven correus electrònics personals de reprogramació. Ara Duet redacta tots els esborranys amb la nostra política de canvi de reserves inclosa. M'estalvia hores als matins de cancel·lació.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Operacions de passeig en globus, CO",
+      "quote": "Els vols de proposta necessiten molta coordinació d'anada i tornada. Duet va recollir com els gestionem: el temps, les paraules de codi, la configuració del xampany. Esborra respostes que amb prou feines he de tocar.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Passa els teus matins al cel,\nno a la teva safata d'entrada.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
+  "verticalFaqs": [
+    {
+      "question": "Com gestiona Duet els correus electrònics de cancel·lació del temps?",
+      "answer": "Duet coneix les vostres polítiques de cancel·lació i canvi de reserva. Quan cancel·leu un vol a causa del temps, pot redactar correus electrònics de reprogramació personalitzats per a tots els passatgers afectats, amb la vostra política, les dates disponibles i el vostre to. Tu revisa i envia. El que solia prendre una hora de respostes individuals triga minuts."
+    },
+    {
+      "question": "Duet pot gestionar el \"volarem demà?\" correus electrònics que s'inunden cada vespre?",
+      "answer": "Sí, aquest és un dels correus electrònics més comuns que ens parlen els operadors de globus. Duet coneix les teves polítiques meteorològiques i redacta respostes tranquil·litzadores que expliquen el teu procés de decisió, quan faràs la trucada final i què esperar. Un cop confirmeu l'opció d'anar/no anar al matí, pot redactar actualitzacions per a tothom al manifest."
+    }
+  ],
+  "pricingNote": "A 250 $/persona amb 4 passatgers per vol, una reserva desada paga més d'un any de Pro."
+}

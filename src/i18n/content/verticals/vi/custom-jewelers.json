@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail cho Thợ Kim Hoàn Tùy Chỉnh | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp thợ kim hoàn tùy chỉnh phản hồi yêu cầu tư vấn, phê duyệt thiết kế và câu hỏi về tiến độ ngay lập tức — ngay cả khi đang làm việc tại bàn. Trả lời được soạn thảo bằng AI với quy trình, giá cả và giọng điệu của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 300 nhà thiết kế trang sức",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang làm việc tại bàn",
+  "heroSubline": "Duet học quy trình thiết kế, vật liệu, giá cả và tiến độ của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách hàng tùy chỉnh vì phản hồi chậm.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Tư vấn nhẫn đính hôn tùy chỉnh?",
+      "preview": "Chào bạn! Tôi và bạn đời quan tâm đến một chiếc nhẫn đính hôn tùy chỉnh. Chúng tôi có một viên kim cương gia truyền muốn sử dụng. Bạn có thời gian tư vấn trong tháng này không?",
+      "pill": "Cần Phản Hồi",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: Mô hình 3D — có thể điều chỉnh phần gắn đá không?",
+      "preview": "Rất thích thiết kế tổng thể! Nhưng chúng ta có thể thử phần gắn đá thấp hơn không? Tôi đính kèm ảnh phong cách tôi nghĩ đến. Ngoài ra, chuyển sang bạch kim có làm thay đổi tiến độ không...",
+      "pill": "Chỉnh Sửa",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Cập nhật tiến độ nhẫn cưới?",
+      "preview": "Chào bạn! Tôi chỉ muốn kiểm tra về nhẫn cưới đôi của chúng tôi. Đám cưới là ngày 18 tháng 5 và tôi muốn chắc chắn mọi thứ vẫn đúng tiến độ. Bạn có thể gửi cập nhật nhanh không...",
+      "pill": "Tình Trạng",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Đánh giá mới trên cửa hàng của bạn",
+      "preview": "Một cặp đôi vừa đánh giá doanh nghiệp của bạn trên The Knot. Xem họ nói gì và phản hồi...",
+      "pill": "Thông Báo",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Chào Rachel! Tôi rất muốn giúp bạn thiết kế một chiếc nhẫn quanh viên kim cương gia truyền của bạn — đó là một trong những điều tôi thích nhất. Tôi có thời gian vào chiều thứ Ba và thứ Năm trong tháng này. Mang theo viên đá và bất kỳ ảnh cảm hứng nào. Buổi tư vấn kéo dài khoảng một giờ và không có nghĩa vụ gì. Bạn muốn tôi giữ chỗ cho bạn không?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "món tùy chỉnh",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Một khách hàng được giữ lại trả cho hơn bốn năm sử dụng Duet."
+  },
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu tư vấn mới trước, phê duyệt thiết kế sau, và không bao giờ thấy bản tin nhà cung cấp. Không còn bỏ lỡ yêu cầu $5,000 bị chôn dưới các chương trình khuyến mãi nhà cung cấp.",
+  "draftSubtitle": "Duet học quy trình, vật liệu, giá cả và giọng điệu của bạn. Khi có yêu cầu tư vấn, nó soạn thảo trả lời đầy đủ với thời gian bạn có, những gì cần mang theo và cách quy trình của bạn hoạt động. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Chúng ta đang ở đâu với nhẫn của Amanda?\" \"Soạn thảo cập nhật tiến độ cho James.\" Duet biết mọi chuỗi khách hàng — chỉ cần hỏi.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Tư vấn nhẫn đính hôn tùy chỉnh?",
+      "preview": "Bạn đời và tôi quan tâm đến một chiếc nhẫn tùy chỉnh...",
+      "pill": "Yêu Cầu Mới",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: Mô hình 3D v2 — trông hoàn hảo!",
+      "pill": "Phê Duyệt Thiết Kế",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Nhẫn đã sẵn sàng — khi nào chúng tôi lấy được?",
+      "pill": "Sẵn Sàng Nhận",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Theo dõi tư vấn — thích các bản phác thảo",
+      "pill": "Tư Vấn",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Supply",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Khuyến mãi mùa xuân — giảm 15% phụ kiện bạch kim",
+      "pill": "Nhà Cung Cấp",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Tư vấn nhẫn đính hôn tùy chỉnh?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào bạn! Tôi và bạn đời quan tâm đến một chiếc nhẫn đính hôn tùy chỉnh. Chúng tôi có một viên kim cương gia truyền muốn sử dụng. Bạn có thời gian tư vấn trong tháng này không?",
+    "lines": [
+      "Chào Rachel!",
+      "Tôi rất muốn giúp bạn thiết kế một món đặc biệt quanh viên kim cương gia truyền của bạn. Tôi có thời gian vào chiều thứ Ba và thứ Năm trong tháng này.",
+      "Mang theo viên đá và bất kỳ ảnh cảm hứng nào — bảng Pinterest, ảnh chụp màn hình, bất cứ thứ gì cũng giúp. Buổi tư vấn kéo dài khoảng một giờ và không có nghĩa vụ gì.",
+      "Quy trình thường là: phác thảo, mô hình 3D, chỉnh sửa, rồi 3-4 tuần sản xuất. Bạn muốn tôi giữ chỗ cho bạn không?"
+    ],
+    "highlightText": "phác thảo, mô hình 3D, chỉnh sửa, rồi 3-4 tuần sản xuất",
+    "tooltipFeatures": [
+      "Hiểu quy trình & tiến độ của bạn",
+      "Soạn thảo theo giọng điệu của bạn",
+      "Tự động bao gồm chi tiết tư vấn",
+      "Học hỏi theo thời gian"
+    ]
+  },
+  "agent": {
+    "userMessage": "Chúng ta đang ở đâu với nhẫn đính hôn của Amanda?",
+    "agentResponse": "Amanda đã phê duyệt mô hình 3D (v2) vào ngày 14 tháng 2. Bạn đã xác nhận bắt đầu sản xuất ngày 16 tháng 2 với ước tính 3 tuần. Như vậy dự kiến hoàn thành khoảng ngày 9 tháng 3. Email cuối cùng của cô ấy hỏi về tùy chọn khắc — vẫn chưa trả lời. Bạn muốn tôi soạn trả lời không?",
+    "followUp": "Soạn thảo cập nhật tiến độ cho James về nhẫn cưới",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho James xác nhận nhẫn cưới đôi của anh ấy đang được đánh bóng cuối cùng và sẽ sẵn sàng nhận vào thứ Sáu, ngày 7 tháng 3 — trước đám cưới ngày 18 tháng 5. Sẵn sàng xem lại và gửi."
+  },
+  "testimonialsTitle": "Được các nhà thiết kế trang sức yêu thích",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Nhà Thiết Kế Trang Sức Tùy Chỉnh, LA",
+      "quote": "Mỗi món tùy chỉnh tạo ra 10-15 email trong nhiều tuần. Nhân với 8 khách hàng đang hoạt động, tôi gần như ngập đầu. Duet soạn trả lời cập nhật thiết kế, xác nhận tư vấn, trả lời tiến độ — tất cả bằng giọng tôi. Tôi xem qua giữa các lần đúc và nhấn gửi.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Thợ Vàng & Chủ Xưởng, Brooklyn",
+      "quote": "Tôi mất một đơn nhẫn đính hôn $7,000 vì mất 3 ngày để trả lời — cặp đôi đã chọn người trả lời trong 2 giờ. Từ khi dùng Duet, thời gian phản hồi của tôi dưới 30 phút. Điều đó không xảy ra nữa.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Thợ Kim Hoàn, Chicago",
+      "quote": "Tôi làm việc tại bàn 8 tiếng mỗi ngày với ngọn đèn hàn trên tay. Tôi không thể dừng giữa chừng để gõ trả lời tư vấn. Duet soạn thảo mọi thứ khi tôi làm việc — tôi liếc điện thoại, duyệt, xong.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Nhà Thiết Kế Trang Sức Cưới, Austin",
+      "quote": "Mùa đính hôn tôi nhận hơn 20 yêu cầu tư vấn mỗi tuần. Duet học toàn bộ quy trình của tôi — vật liệu, tiến độ, mức giá, những gì cần mang theo. Nó soạn trả lời mà tôi hầu như không phải chỉnh sửa. Cứu tinh tuyệt đối từ tháng 11 đến tháng 2.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Chuyên Gia Nhẫn Tùy Chỉnh, Portland",
+      "quote": "Email chỉnh sửa 3D từng làm tôi mất buổi tối. Khách gửi phản hồi, tôi soạn cập nhật, qua lại năm lần. Giờ Duet xử lý trả lời thường xuyên và tôi chỉ can thiệp vào quyết định thiết kế. Tôi đã lấy lại được buổi tối của mình.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Dành thời gian tạo ra trang sức,\nkhông phải trả lời email về nó.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
+  "verticalFaqs": [
+    {
+      "question": "Duet có xử lý email kèm ảnh tham khảo và tệp đính kèm thiết kế không?",
+      "answer": "Có. Duet xem toàn bộ chuỗi email bao gồm tệp đính kèm, nên hiểu ngữ cảnh khi khách gửi ảnh cảm hứng hoặc phản hồi thiết kế. Nó sẽ không mô tả lại hình ảnh, nhưng biết khách vừa gửi ảnh tham khảo và soạn trả lời phù hợp — xác nhận đã nhận, hỏi thêm chi tiết về thiết kế, hoặc cung cấp bước tiếp theo dựa trên quy trình thường dùng của bạn."
+    },
+    {
+      "question": "Dự án tùy chỉnh của tôi có chuỗi email dài với hơn 10 tin nhắn. Duet có theo dõi được không?",
+      "answer": "Đó chính là điểm mạnh của Duet. Nó đọc toàn bộ lịch sử chuỗi — ghi chú tư vấn, chỉnh sửa thiết kế, lựa chọn vật liệu, cập nhật tiến độ — nên mọi trả lời soạn đều có đầy đủ ngữ cảnh. Khi khách hỏi 'nhẫn của tôi đang ở đâu?' trong email thứ 14, Duet biết đó là nhẫn nào, đang ở giai đoạn nào và soạn cập nhật chính xác. Bạn không cần phải đọc lại 3 tháng email nữa."
+    }
+  ],
+  "pricingNote": "Với $5,000/món, một đơn hàng giữ lại đủ trả cho hơn bốn năm dùng Pro."
+}

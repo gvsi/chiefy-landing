@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail untuk Penyewaan Memancing |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu kapten kapal sewaan memancing merespons email pemesanan secara instan — bahkan dari dalam air.  AI -Balasan yang disusun dengan harga, kebijakan, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 500+ kapten sewaan",
+  "heroHeadline": "Asisten email Anda saat Anda berada di atas air",
+  "heroSubline": "Duet mempelajari harga, kebijakan, dan pendapat Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Ketersediaan 12 Juli untuk 4 orang?",
+      "preview": "Hai! Kami kelompok 4 orang yang ingin memesan perjalanan memancing pada tanggal 12 Juli. Apa kau punya ketersediaan? Berapa harga untuk sehari penuh?",
+      "pill": "Untuk Menanggapi",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Apa yang harus kami bawa?",
+      "preview": "Hei, kami sudah dipesan untuk hari Sabtu. Pertanyaan singkatnya — apa yang harus kami bawa? Apakah Anda menyediakan tongkat dan tekel atau haruskah kami membawa sendiri...",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike & Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Perlu dijadwal ulang ke hari Minggu",
+      "preview": "Maaf atas keterlambatan pemberitahuannya, tetapi ramalan cuaca tampaknya buruk pada hari Sabtu. Bisakah kita pindah ke hari Minggu saja? Waktu yang sama...",
+      "pill": "Pemesanan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baru untuk listing Anda",
+      "preview": "Seorang wisatawan baru-baru ini mengulas bisnis Anda. Lihat apa yang mereka katakan dan tanggapi...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Sarah! Tanggal 12 Juli dibuka untuk 4 orang. Perjalanan sehari penuh berlangsung 8 jam, dimulai pukul 6 pagi. Semua joran, tekel, umpan, dan lisensi sudah termasuk — cukup bawa tabir surya, air, dan pendingin untuk tangkapan Anda. Ingin aku menguncinya?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "charter",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Satu pemesanan tersimpan membayar untuk satu tahun Duet."
+  },
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan perjalanan yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari harga, kebijakan, dan nada Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail perjalanan, harga, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Hari apa yang buka minggu depan?\" \"Buatlah balasan ke Sarah dengan ketersediaan.\" Duet mengetahui inbox dan kalender Anda — tanyakan saja.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Ketersediaan 12 Juli untuk 4 orang?",
+      "preview": "Kami adalah kelompok 4 orang yang ingin memesan perjalanan memancing...",
+      "pill": "Tanggapi Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Perihal: Pemesanan dikonfirmasi — Sabtu pukul 7 pagi",
+      "pill": "Dipesan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Apa yang harus kita bawa pada hari Sabtu?",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Pemesan Memancing",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Ringkasan pemesanan mingguan Anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marinir Barat",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Obral musim semi — diskon 20% untuk peralatan",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Ketersediaan 12 Juli untuk 4 orang?",
+    "originalFrom": "Sarah M. menulis:",
+    "originalText": "Hai! Kami kelompok 4 orang yang ingin memesan perjalanan memancing pada tanggal 12 Juli. Apa kau punya ketersediaan? Berapa harga untuk sehari penuh?",
+    "lines": [
+      "Hai Sarah!",
+      "12 Juli terbuka lebar untuk 4 orang. Perjalanan sehari penuh berharga $500 dan berlangsung 8 jam mulai pukul 6 pagi dari marina.",
+      "Semua perlengkapan, umpan, dan izin memancing sudah termasuk — cukup bawa tabir surya dan pendingin.",
+      "Ingin aku menguncinya?"
+    ],
+    "highlightText": "12 Juli terbuka lebar untuk 4 orang. Perjalanan sehari penuh adalah $500",
+    "tooltipFeatures": [
+      "Tahu harga & ketersediaan Anda",
+      "Draf dalam suara Anda",
+      "Termasuk detail perjalanan secara otomatis",
+      "Belajar seiring berjalannya waktu"
+    ]
+  },
+  "agent": {
+    "userMessage": "Hari apa yang masih buka minggu depan?",
+    "agentResponse": "Berdasarkan kalender Anda, Anda buka pada hari Selasa, Kamis, dan Sabtu minggu depan. Senin dan Rabu sudah dipesan penuh (masing-masing 2 charter). Ingin saya menyusun tanggapan terhadap pertanyaan apa pun yang tertunda dengan tanggal ini?",
+    "followUp": "Draf balasan ke Sarah dengan ketersediaan 12 Juli",
+    "followUpResponse": "Selesai! Saya menyusun balasan ke Sarah yang mengonfirmasi 12 Juli untuk 4 tamu seharga $500. Ini mencakup detail perjalanan standar dan lokasi pertemuan Anda. Siap untuk meninjau dan mengirim."
+  },
+  "testimonialsTitle": "Dicintai oleh kapten sewaan",
+  "testimonials": [
+    {
+      "name": "Kapten Mike D.",
+      "title": "Kapten Piagam Lepas Pantai, FL",
+      "quote": "Selama musim puncak, saya kehilangan 2-3 pemesanan dalam seminggu hanya karena saya tidak dapat membalas dengan cukup cepat dari kapal. Duetkan tanggapan draf dengan harga dan detail perjalanan saya — Saya cukup menekan kirim antar tangkapan.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah & Tom K.",
+      "title": "Bisnis Piagam Keluarga, ATAU",
+      "quote": "Kami menjalankan dua perahu dan volume email selama musim panas luar biasa. Duet mengurutkan permintaan pemesanan dari yang lainnya dan menyusun balasan yang terdengar persis seperti kami. Pengubah permainan mutlak.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "jaka r.",
+      "title": "Panduan Memancing di Pantai, TX",
+      "quote": "Saya menghabiskan satu jam setiap malam untuk menjawab pertanyaan ketersediaan yang sama. Sekarang Duet menanganinya. Waktu respons saya berubah dari jam ke menit dan saya tidak pernah kehilangan pemesanan lagi sejak saat itu.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Manajer Kantor Piagam, HI",
+      "quote": "Mengelola email untuk 4 kapten adalah pekerjaan penuh waktu. Duet mengkategorikan segalanya dan menyusun balasan dengan perahu yang tepat, harga yang tepat, kapten yang tepat. Ini seperti memiliki diriku yang lain.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Piagam Laut Dalam, NC",
+      "quote": "Merasa skeptis bahwa AI dapat menangani email piagam memancing. Namun ia mempelajari jenis perjalanan kami, apa saja yang termasuk, bahkan kebijakan pembatalan kami. Klien tidak dapat membedakannya.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Habiskan musim puncak di atas air,\ntidak ada di inbox Anda.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
+  "verticalFaqs": [
+    {
+      "question": "Apakah Duet berfungsi untuk email pemesanan dan ketersediaan?",
+      "answer": "Sangat. Duet mempelajari jenis perjalanan Anda, harga, ketersediaan, dan kebijakan. Saat pertanyaan pemesanan masuk, respons lengkap akan disusun dengan detail yang tepat — harga, apa saja yang disertakan, lokasi pertemuan, apa yang harus dibawa. Anda meninjau dan mengetuk kirim."
+    },
+    {
+      "question": "Saya di atas air sepanjang hari. Bisakah saya menggunakan Duet dari ponsel saya?",
+      "answer": "Ya. Duet berfungsi dengan Gmail dan Outlook, sehingga berfungsi di mana pun email Anda berfungsi — termasuk ponsel Anda. Draf muncul secara otomatis. Di antara tangkapan, Anda meninjau dan mengirim dengan satu ketukan. Kebanyakan kapten mengatakan kepada kami bahwa ini menghemat waktu email mereka 1-2 jam per hari selama musim puncak."
+    }
+  ],
+  "pricingNote": "Dengan harga $500/sewaan, satu pemesanan hemat akan membayar Pro selama lebih dari setahun."
+}

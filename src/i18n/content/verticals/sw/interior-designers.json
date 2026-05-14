@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail kwa Wabunifu wa Mambo ya Ndani | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail husaidia wabunifu wa mambo ya ndani kudhibiti barua pepe za wateja, uratibu wa makandarasi, na maagizo ya wauzaji - hata kutoka kwenye tovuti ya kazi. Majibu yaliyoandaliwa na AI pamoja na maelezo ya mradi wako, mapendeleo na sauti.",
+  "heroBadge": "Inaaminiwa na wabunifu 400+ wa mambo ya ndani",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa kwenye tovuti na wateja",
+  "heroSubline": "Duet hujifunza anwani za wachuuzi wako, maelezo ya mradi na mapendeleo ya mteja - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza mteja kwa jibu la polepole.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Ukarabati wa jikoni - mashauriano ya awali?",
+      "preview": "Habari! Tumenunua nyumba huko Westlake na tunataka kurekebisha jikoni kabisa. Je, unachukua miradi mipya? Mchakato wako unaonekanaje?",
+      "pill": "Ili Kujibu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Re: Sasisho la wakati wa kuongoza wa tile ya Backsplash",
+      "preview": "Imesikika hivi punde kutoka kwenye ghala - kigae cha hex cha Calacatta kimeagizwa nyuma kwa wiki 3. Nataka nishikilie agizo lako au niangalie njia mbadala...",
+      "pill": "Agizo la Muuzaji",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — Electrician",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Uunganisho wa waya umekamilika - tayari kwa usakinishaji wa muundo",
+      "preview": "Wiring zote mbaya zimekamilika katika chumba cha kulala cha bwana na sebule. Tuko wazi kwa usakinishaji wa sconce na chandelier wakati wowote ...",
+      "pill": "Mkandarasi",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen & Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Mawazo juu ya sampuli za kitambaa?",
+      "preview": "Tuliangalia chaguzi tatu za kitambaa ulizoacha na tunaegemea kitani kwenye 'Oatmeal' lakini tunataka kuiona dhidi ya rangi ya ukuta...",
+      "pill": "Idhini ya Mteja",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Habari Rachel! Ningependa kusikia zaidi kuhusu jiko lako la Westlake. Kwa sasa ninahifadhi nafasi ya mashauriano ya mwezi ujao. Mchakato wangu huanza na ziara ya nyumbani ambapo tunapitia maono yako, bajeti, na kalenda ya matukio - kisha ninaweka pamoja dhana ya muundo na uteuzi wa nyenzo. Unataka kuweka wakati wa kukutana nyumbani?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "mradi",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Mteja mmoja aliyehifadhiwa hulipa kwa miaka ya Duet."
+  },
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uweze kuona maswali mapya ya mteja kwanza, idhini inayosubiri pili, na majarida ya wauzaji kamwe. Hakuna tena kukosa mashauriano ya muundo uliozikwa chini ya matangazo ya maonyesho ya biashara.",
+  "draftSubtitle": "Duet hujifunza mchakato wako, maelezo ya mradi na sauti. Swali jipya au swali la mteja linapogonga, hutayarisha jibu kamili na upatikanaji wako, hatua zinazofuata na maelezo mahususi ya mradi. Unakagua na kutuma.",
+  "agentSubtitle": "\"Hali gani kwenye mradi wa Henderson?\" \"Ni idhini zipi ambazo bado hazijashughulikiwa?\" Duet inajua kikasha chako na kila mfululizo wa mradi - uliza tu.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Ukarabati wa jikoni - mashauriano ya awali?",
+      "preview": "Tumenunua tu nyumba na tunataka kurekebisha jikoni ...",
+      "pill": "Uchunguzi Mpya",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Re: Sampuli za kitambaa - kwenda na kitani cha Oatmeal",
+      "pill": "Idhini ya Mteja",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mark L.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Uunganisho wa waya umekamilika - tayari kwa usakinishaji wa muundo",
+      "pill": "Mkandarasi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Agizo #4821 limesafirishwa — litawasilishwa Alhamisi",
+      "pill": "Agizo la Muuzaji",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Design Within Reach",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Mpango wa biashara - tukio la akiba ya spring",
+      "pill": "Matangazo",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Ukarabati wa jikoni - mashauriano ya awali?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Tumenunua nyumba huko Westlake na tunataka kurekebisha jikoni kabisa. Je, unachukua miradi mipya? Mchakato wako unaonekanaje?",
+    "lines": [
+      "Habari Rachel!",
+      "Hongera kwa nyumba mpya! Ningependa kukusaidia jikoni yako. Kwa sasa ninahifadhi nafasi ya mashauriano ya mwezi ujao.",
+      "Mchakato wangu huanza na ziara ya nyumbani ili kupitia maono yako, bajeti, na ratiba ya matukio. Kutoka hapo niliweka pamoja dhana ya kubuni na uteuzi wa nyenzo na pendekezo la kina.",
+      "Unataka kuweka wakati wa kukutana nyumbani?"
+    ],
+    "highlightText": "Kwa sasa ninahifadhi nafasi ya mashauriano ya mwezi ujao.",
+    "tooltipFeatures": [
+      "Anajua mchakato na upatikanaji wako",
+      "Rasimu katika sauti yako",
+      "Inajumuisha hatua zinazofuata kiotomatiki",
+      "Anajifunza kwa muda"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ni idhini gani ambazo bado zinasubiri kwenye mradi wa Henderson?",
+    "agentResponse": "Kulingana na maandishi yako ya barua pepe na Hendersons, vipengee viwili bado vinasubiri kuidhinishwa: ubatili wa kuoga (ulituma chaguo za Vifaa vya Urejeshaji Jumanne) na kitambaa cha drape sebuleni (sampuli ziliwasilishwa wiki iliyopita). Karen pia aliuliza kuhusu kung'aa kwa rangi kwa chumba cha kulia lakini bado hajajibu pendekezo lako. Je, ungependa niandae ufuatiliaji?",
+    "followUp": "Rasimu ya ufuatiliaji wa upole kwa Karen kuhusu ubatili na uteuzi wa kitambaa",
+    "followUpResponse": "Imekamilika! Niliandaa ufuatiliaji wa Karen akiangalia ubatili na chaguzi za ubatili, nikitaja ubatili una muda wa wiki 6 kwa hivyo uamuzi hivi karibuni ungeweka mradi kwa ratiba. Tayari kukagua na kutuma."
+  },
+  "testimonialsTitle": "Inapendwa na wabunifu wa mambo ya ndani",
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "title": "Mbuni Mkuu, Austin TX",
+      "quote": "Niko kwenye tovuti saa 6 kwa siku nikiratibu wachoraji, mafundi umeme, na wasakinishaji wa vigae. Wakati huo huo wateja wengine watatu wanatuma barua pepe kuhusu miradi yao. Rasimu za Duet hujibu kwa maelezo sahihi ya mradi - Ninakagua tu kati ya ziara za tovuti.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Mbunifu wa Mambo ya Ndani ya Makazi, Chicago",
+      "quote": "Maswali ya wateja yalikuwa yakikaa kwa siku kwa sababu nilizikwa katika barua pepe za ununuzi na kuratibu kwa kontrakta. Sasa Duet hujibu mwongozo mpya kwa dakika na mchakato wangu na upatikanaji. Nimehifadhi miradi 4 ya ziada robo hii.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Mmiliki wa Studio ya Ubunifu, Nashville",
+      "quote": "Kusimamia barua pepe za miradi 12 inayoendelea kulikuwa kuniua. Duet huainisha kila kitu - maswali mapya, idhini zinazosubiri, maagizo ya wauzaji, masasisho ya kontrakta - kwa hivyo ninajua ni nini hasa kinachohitaji umakini wangu kwanza.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "Mpambaji wa Mambo ya Ndani, San Diego",
+      "quote": "Nilikuwa nikipoteza wateja watarajiwa kwa sababu sikuweza kujibu haraka vya kutosha wakati wa wiki za kusakinisha. Duet ilijifunza mchakato wangu wa mashauriano, muundo wa bei, hata jinsi ninavyoelezea mtindo wangu wa kubuni. Wateja hawajui kuwa inasaidiwa na AI.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Mbuni wa Mambo ya Ndani ya Biashara, Denver",
+      "quote": "Kati ya nyakati za kuongoza kwa muuzaji, ratiba za kontrakta, na maombi ya marekebisho ya mteja, kikasha changu kilikuwa cha fujo. Duet hupanga yote na huandaa ufuatiliaji wa idhini zinazosubiri. Ni kama kuwa na mratibu wa mradi ambaye halali kamwe.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tumia siku zako kuunda nafasi nzuri,\nhaijazikwa kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
+  "verticalFaqs": [
+    {
+      "question": "Ninabadilisha miradi 8-10 mara moja. Je, Duet inaweza kuwaweka sawa?",
+      "answer": "Ndiyo. Duet hufuatilia kila thread ya barua pepe kwa kila mteja na mradi. Unapouliza kuhusu jiko la Henderson au ofisi ya Park Avenue, huchota muktadha kutoka kwa mazungumzo yote yanayohusiana - maagizo ya wauzaji, masasisho ya wakandarasi, idhini za mteja - kwa hivyo majibu yako huwa sahihi kila wakati na mahususi kwa mradi. Hakuna kuchanganya tile ilikuwa ya mteja gani."
+    },
+    {
+      "question": "Ninaratibu na wakandarasi na wachuuzi wengi. Je, Duet inasaidia na hilo?",
+      "answer": "Kabisa. Duet hujifunza anwani za mkandarasi wako, wawakilishi wa wauzaji, na muktadha wa jukumu la kila biashara katika miradi yako. Wakati barua pepe zako za fundi umeme zinapokamilika, Duet inaweza kuandaa jibu kuthibitisha hatua inayofuata au kuunganisha kisakinishi cha kurekebisha. Huweka mtiririko wa kazi ukiendelea hata ukiwa umevuka mji katika tovuti nyingine ya kazi."
+    }
+  ],
+  "pricingNote": "Kwa $10,000/mradi, mteja mmoja aliyehifadhiwa hulipa kwa miaka mingi ya Duet Pro."
+}

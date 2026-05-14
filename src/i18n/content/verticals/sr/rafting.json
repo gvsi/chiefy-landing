@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail za opremu za rafting i kajak | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže vodičima za rafting i opreme za kajak da odmah odgovore na upite o putovanju — čak i sa reke. AI nacrt odgovora sa detaljima o putovanju, cenama i glasom.",
+  "heroBadge": "Ima poverenja od 200+ rečnih vodiča",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na reci",
+  "heroSubline": "Duet uči vaše tipove putovanja, cene i liste opreme — zatim sastavlja nacrte odgovora na upite o rezervacijama kako bi klijenti dobili odgovore dok vi trčite brzacima.",
+  "inboxEmails": [
+    {
+      "from": "Dženifer V.",
+      "avatarLetter": "J",
+      "avatarColor": "roze",
+      "subject": "Celodnevno putovanje splavom za 6 9. avgusta?",
+      "preview": "Zdravo! Mi smo šestočlana porodica u poseti u avgustu i želimo da rezervišemo celodnevni izlet na rafting 9. Koja je cena po osobi i koji nivo iskustva nam je potreban?",
+      "pill": "To Respond",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Brajan T.",
+      "avatarLetter": "B",
+      "avatarColor": "plava",
+      "subject": "Višednevno putovanje — šta je uključeno?",
+      "preview": "Mi smo grupa od 4 osobe koja gleda vašu trodnevnu ekspediciju. Da li su obroci, oprema za kampovanje i suve torbe uključeni ili moramo da ponesemo svoje...",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rejčel i Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "ljubičasta",
+      "subject": "Deca od 8 i 10 godina — dovoljno bezbedna?",
+      "preview": "Voleli bismo da idemo na poludnevni izlet, ali naša deca imaju 8 i 10 godina. Da li je odeljak klase II primeren njihovom uzrastu? Koji je minimum...",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavanda",
+      "subject": "Nova recenzija za vaš unos",
+      "preview": "Putnik je nedavno napisao recenziju o vašem preduzeću. Pogledajte šta su imali da kažu i odgovorite...",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    }
+  ],
+  "autodraft": "Hej Dženifer! 9. avgust je otvoren za 6. Celodnevni izleti koštaju 150 USD po osobi i traju oko 7 sati — ulazimo u 8:30 ujutro. Nije potrebno iskustvo, naši vodiči se bave svime. PFD, šlemovi, suve torbe i ručak pored reke su uključeni. Samo ponesite kremu za sunčanje, cipele za vodu i odeću koja vam ne smeta da se pokvasite. Hoćeš da rezervišem tvoja mesta?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "osoba",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dve sačuvane rezervacije plaćaju celu godinu od Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da se prvo pojavljuju upiti o putovanju, zatim pitanja o opremi, a promotivna buka nestaje. Nema više propuštanja grupne rezervacije zakopane pod TripAdvisor upozorenjima.",
+  "draftSubtitle": "Duet uči vaše tipove putovanja, časove brzaka, liste opreme i politiku otkazivanja. Kada dođe upit za rezervaciju, on sastavlja kompletan odgovor sa svime što je potrebno klijentu. Pregledate i pošaljete.",
+  "agentSubtitle": "„Ima li slobodnih mesta u subotu tokom celog dana?“ „Nacrt odgovora Dženifer uz dostupnost.“ Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Dženifer V.",
+      "avatarLetter": "J",
+      "avatarColor": "roze",
+      "subject": "Celodnevno putovanje splavom za 6 9. avgusta?",
+      "preview": "Mi smo šestočlana porodica u poseti u avgustu i želimo da rezervišemo...",
+      "pill": "Odgovorite odmah",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Brajan T.",
+      "avatarLetter": "B",
+      "avatarColor": "plava",
+      "subject": "Re: Potvrđena 3-dnevna ekspedicija — 15. avgusta",
+      "pill": "Rezervisano",
+      "pillColor": "plava"
+    },
+    {
+      "from": "Rejčel S.",
+      "avatarLetter": "R",
+      "avatarColor": "ljubičasta",
+      "subject": "Da li su deca od 8 i 10 godina u redu za II razred?",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Flibook",
+      "avatarLetter": "F",
+      "avatarColor": "lavanda",
+      "subject": "Vaš nedeljni rezime rezervacije",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavanda",
+      "subject": "Rasprodaja na kraju sezone — 30% popusta na suva odela",
+      "pill": "Promocije",
+      "pillColor": "lavanda"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.v@email.com",
+    "subject": "Re: Celodnevno putovanje splavom za 6 9. avgusta?",
+    "originalFrom": "Dženifer V. je napisala:",
+    "originalText": "Zdravo! Mi smo šestočlana porodica u poseti u avgustu i želimo da rezervišemo celodnevni izlet na rafting 9. Koja je cena po osobi i koji nivo iskustva nam je potreban?",
+    "lines": [
+      "Hej Dženifer!",
+      "9. avgust je širom otvoren za 6. Celodnevna putovanja su 150 dolara po osobi i traju oko 7 sati — sastajemo se na ulazu u 8:30 ujutro.",
+      "Nije potrebno iskustvo. PFD, šlemovi, suve torbe i ručak pored reke su uključeni - samo ponesite kremu za sunčanje i cipele za vodu.",
+      "Hoćeš da rezervišem tvoja mesta?"
+    ],
+    "highlightText": "9. avgust je širom otvoren za 6. Celodnevni izleti su 150 USD po osobi",
+    "tooltipFeatures": [
+      "Poznaje vaše tipove putovanja i cene",
+      "Nacrt u vašem tonu",
+      "Automatski uključuje liste opreme",
+      "Uči tokom vremena"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ima li otvorenih mesta na subotnjem celodnevnom izletu?",
+    "agentResponse": "Subotnji ceo dan ima 4 preostala mesta od 10. Takođe imate poludnevno jutarnje trčanje koje je potpuno popunjeno i višednevni polazak u nedelju sa 2 otvorena mesta. Želite li da napišem odgovor na sve upite na čekanju sa dostupnošću u subotu?",
+    "followUp": "Nacrtajte odgovor Dženifer sa dostupnošću 9. avgusta",
+    "followUpResponse": "Gotovo! Napravio sam odgovor Dženifer koji potvrđuje 9. avgust za 6 gostiju po ceni od 150 dolara po osobi. Uključuje vaše standardne detalje putovanja, listu opreme i lokaciju sastanka. Spremni za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga rečni vodiči i opremači",
+  "testimonials": [
+    {
+      "name": "Rajan M.",
+      "title": "Rafting Outfitter, CO",
+      "quote": "U špici sezone sam na reci 6 dana u nedelji. Dok sam se vratio na e-poštu, polovina grupa je već rezervisala sa nekim drugim. Sada Duet nacrti odgovora sa detaljima o putovanju i cenama dok sam na prijemu.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Kejti L.",
+      "title": "Kajak i SUP ture, OR",
+      "quote": "Svaki kupac postavlja istih pet pitanja — cene, šta da donese, nivo veštine, veličina grupe, politika otkazivanja. Duet je sve to naučio u prvoj nedelji. Prešao sam sa sat vremena na mejlove svake večeri do pet minuta pregledavanja nacrta.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Markus P.",
+      "title": "Višednevni vodič za ekspediciju, AK",
+      "quote": "Vodim 5-dnevna putovanja sa nultom mobilnom uslugom. Pre Duet, svaki upit je ostao bez odgovora dok se nisam vratio u grad. Sada kupci dobijaju detaljan odgovor u roku od nekoliko minuta, a ja potvrđujem kada izađem sa reke.",
+      "avatarKey": "Johnni"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Menadžer kancelarije River Adventures, VV",
+      "quote": "Upravljam rezervacijama za tri vodiča u četiri tipa putovanja. Duet kategoriše svaku e-poštu po hitnosti i sastavlja odgovore sa pravim putovanjem, pravom cenom, pravom listom opreme. To je kao da kloniram sebe.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sofija K.",
+      "title": "Vhitevater Rafting Co., ID",
+      "quote": "Bili smo skeptični da AI može da obradi mejlove specifične za rafting. Ali to je pokupilo naše opise Klase III u odnosu na Klasu IV, minimalne starosne granice, čak i našu politiku kajaka za mokri izlaz. Kupci misle da razgovaraju sa nama.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Provedite leto na reci, \nne sustižući e-poštu.",
+  "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Da li Duet obrađuje prilagođene ponude za putovanja i upite o višednevnim ekspedicijama?",
+      "answer": "Da. Duet uči vašu kompletnu postavu putovanja — poludnevne plovke, celodnevne brzake, višednevne ekspedicije — zajedno sa cenama, šta je uključeno, starosnim minimumom i nivoima težine. Kada neko pita za trodnevno putovanje za 6, sastavlja kompletan odgovor sa pravim detaljima. Pregledate, prilagodite ako je potrebno i pošaljete."
+    },
+    {
+      "question": "Ja sam van mreže na višednevnim putovanjima. Da li Duet i dalje radi?",
+      "answer": "Upravo to je problem koji Duet rešava. Dok ste na reci bez signala, Duet nacrti odgovara na svaki upit koji dođe. Kada se vratite u domet, vaši nacrti čekaju — samo pregledajte i pošaljite. Većina vodiča nam kaže da eliminiše zaostatak sa kojim su se suočavali nakon svakog višednevnog putovanja."
+    }
+  ],
+  "pricingNote": "Sa 150 USD po osobi, dve sačuvane rezervacije pokrivaju celu godinu od Pro."
+}

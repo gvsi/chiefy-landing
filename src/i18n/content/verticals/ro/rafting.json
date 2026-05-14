@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail pentru rafting și caiac | AI Asistent de e-mail",
+  "metaDescription": "Duet Mail ajută ghizii de rafting și furnizorii de caiac să răspundă instantaneu la întrebările de călătorie, chiar și dinspre râu. Răspunsuri redactate de AI cu detaliile călătoriei, prețurile și vocea.",
+  "heroBadge": "De încredere de peste 200 de ghizi fluviali",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe râu",
+  "heroSubline": "Duet învață tipurile de călătorie, prețurile și listele de echipamente, apoi redactează răspunsuri la întrebările de rezervare, astfel încât clienții să primească răspunsuri în timp ce tu alergi rapid.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Excursie cu pluta de o zi întreagă pentru 6 pe 9 august?",
+      "preview": "Hi! Suntem o familie de 6 persoane care vizităm în august și vrem să rezervăm o excursie de rafting de o zi întreagă pe 9. Care este prețul de persoană și de ce nivel de experiență avem nevoie?",
+      "pill": "A Răspunde",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Excursie de mai multe zile - ce este inclus?",
+      "preview": "Suntem un grup de 4 care ne uităm la expediția ta de 3 zile. Sunt incluse mesele, echipamentul de camping și pungi uscate sau trebuie să aducem propriile noastre...",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel și Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Copii cu vârsta de 8 și 10 ani — suficient de siguri?",
+      "preview": "Ne-ar plăcea să facem excursia de jumătate de zi, dar copiii noștri au 8 și 10 ani. Este secțiunea de clasa a II-a potrivită pentru vârsta lor? Care este minimul...",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "O nouă recenzie pentru înregistrarea dvs",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Salut Jennifer! 9 august este deschis pentru 6. Excursiile de o zi întreagă costă 150 USD/persoană și durează aproximativ 7 ore. Nu este nevoie de experiență, ghizii noștri se ocupă de totul. Sunt incluse PFD-uri, căști, genți uscate și un prânz pe malul râului. Pur și simplu aduceți protecție solară, pantofi de apă și haine pe care nu vă deranjează să vă udați. Vrei să-ți rezerv locurile?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "persoană",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Două rezervări salvate plătesc pentru un an întreg de Duet."
+  },
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât întrebările de călătorie să apară mai întâi, întrebările despre echipament în al doilea rând și zgomotul promoțional să dispară. Nu mai lipsește o rezervare de grup îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet învață tipurile de călătorie, cursurile rapide, listele de echipamente și politica de anulare. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu tot ce are nevoie clientul. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Ceva locuri libere în ziua întreagă de sâmbătă? „Scrie un răspuns pentru Jennifer cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Excursie cu pluta de o zi întreagă pentru 6 pe 9 august?",
+      "preview": "Suntem o familie de 6 persoane care vizităm în august și vrem să rezervăm...",
+      "pill": "Răspunde acum",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Expediție de 3 zile confirmată — 15 august",
+      "pill": "Rezervat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Copiii de 8 și 10 ani sunt acceptați pentru clasa a II-a?",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Rezumatul săptămânal al rezervării dvs",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Reducere de sfârșit de sezon — 30% reducere la costume uscate",
+      "pill": "Promoții",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Excursie cu pluta de o zi întreagă pentru 6 persoane pe 9 august?",
+    "originalFrom": "Jennifer W. a scris:",
+    "originalText": "Hi! Suntem o familie de 6 persoane care vizităm în august și vrem să rezervăm o excursie de rafting de o zi întreagă pe 9. Care este prețul de persoană și de ce nivel de experiență avem nevoie?",
+    "lines": [
+      "Salut Jennifer!",
+      "9 august este larg deschis pentru 6. Excursiile de o zi întreagă costă 150 USD/persoană și durează aproximativ 7 ore - ne întâlnim la intrare la 8:30 AM.",
+      "Nu este nevoie de experiență. Sunt incluse PFD-uri, căști, genți uscate și un prânz pe malul râului - trebuie doar să aduceți protecție solară și pantofi de apă.",
+      "Vrei să-ți rezerv locurile?"
+    ],
+    "highlightText": "9 august este deschis pentru 6 persoane. Excursiile de o zi completă costă 150 USD/persoană",
+    "tooltipFeatures": [
+      "Cunoaște tipurile de călătorie și prețurile dvs",
+      "Ciorne în vocea ta",
+      "Include automat liste de echipamente",
+      "Învață în timp"
+    ]
+  },
+  "agent": {
+    "userMessage": "Aveți locuri libere în excursia de o zi întreagă de sâmbătă?",
+    "agentResponse": "Ziua întreagă de sâmbătă are 4 locuri rămase din 10. Ai, de asemenea, o cursă de dimineață de jumătate de zi care este complet rezervată și o plecare de mai multe zile duminică cu 2 locuri deschise. Vrei să redactez un răspuns la orice întrebări în așteptare, cu disponibilitatea de sâmbătă?",
+    "followUp": "Redactează un răspuns pentru Jennifer cu disponibilitatea din 9 august",
+    "followUpResponse": "Făcut! Am redactat un răspuns lui Jennifer confirmând 9 august pentru 6 invitați la 150 USD/persoană. Acesta include detaliile tale standard ale călătoriei, lista de echipamente și locația întâlnirii. Gata de revizuire și de trimis."
+  },
+  "testimonialsTitle": "Îndrăgit de ghizii fluviali și de outfitters",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Rafting Outfitter, CO",
+      "quote": "În timpul sezonului de vârf sunt pe râu 6 zile pe săptămână. Până să mă întorc la e-mailuri, jumătate din grupuri făcuseră deja rezervare cu altcineva. Acum Duet elaborează răspunsuri cu detalii despre călătorie și prețuri, cât timp sunt la intrare.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Tururi cu caiac și SUP, OR",
+      "quote": "Fiecare client pune aceleași cinci întrebări - preț, ce să aducă, nivelul de calificare, dimensiunea grupului, politica de anulare. Duet a învățat totul în prima săptămână. Am trecut de la o oră de e-mailuri în fiecare seară la cinci minute de revizuire a schițelor.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Ghid de expediție de mai multe zile, AK",
+      "quote": "Efectuez excursii de 5 zile cu serviciul zero cell. Înainte de Duet, fiecare întrebare a rămas fără răspuns până când m-am întors în oraș. Acum clienții primesc un răspuns detaliat în câteva minute și confirm când sunt în afara râului.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Manager de birou River Adventures, WV",
+      "quote": "Gestionez rezervările pentru trei ghizi din patru tipuri de călătorie. Duet clasifică fiecare e-mail în funcție de urgență și redactează răspunsuri cu călătoria potrivită, prețul potrivit, lista de echipamente potrivită. Este ca și cum mă clonam.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sofia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "Eram sceptici că AI ar putea gestiona e-mailurile specifice pentru rafting. Dar a preluat descrierile noastre de Clasa III vs. Clasa IV, minimele de vârstă, chiar și politica noastră de ieșire în caiacul umed. Clienții cred că vorbesc cu noi.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Petrece vara pe râu,\nnu ajung din urmă cu e-mailul.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
+  "verticalFaqs": [
+    {
+      "question": "Duet se ocupă de ofertele de călătorie personalizate și de solicitările de expediții de mai multe zile?",
+      "answer": "Da. Duet învață gama ta completă de călătorii — flotoare de jumătate de zi, rapiduri de o zi întreagă, expediții de mai multe zile — împreună cu prețurile, ceea ce este inclus, vârsta minimă și nivelurile de dificultate. Când cineva întreabă despre o excursie de 3 zile pentru 6, redactează un răspuns complet cu detaliile potrivite. Revizuiești, modifici dacă este necesar și trimiți."
+    },
+    {
+      "question": "Sunt în afara rețelei în excursii de mai multe zile. Mai funcționează Duet?",
+      "answer": "Exact aceasta este problema pe care o rezolvă Duet. În timp ce ești pe râu fără semnal, Duet redactează răspunsuri la fiecare întrebare care vine. Când te întorci în rază de acțiune, schițele tale te așteaptă - doar le verifici și trimiți. Majoritatea ghizilor ne spun că elimină restanța cu care se confruntau după fiecare călătorie de mai multe zile."
+    }
+  ],
+  "pricingNote": "La 150 USD/persoană, două rezervări salvate acoperă un an întreg de Pro."
+}

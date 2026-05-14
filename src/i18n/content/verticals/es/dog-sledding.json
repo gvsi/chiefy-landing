@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail para recorridos en trineos tirados por perros | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los mushers a responder los correos electrónicos de reserva al instante, incluso desde el sendero. Respuestas redactadas por IA con sus tipos de recorridos, precios, políticas y voz.",
+  "heroBadge": "Con la confianza de más de 200 mushers",
+  "heroHeadline": "Tu asistente de correo electrónico mientras estás en el camino",
+  "heroSubline": "Duet aprende tus tipos de tours, precios, políticas climáticas y complementos, y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva debido a una respuesta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "¿Combo Aurora + trineo tirado por perros para 4?",
+      "preview": "¡Hola! Mi familia de cuatro personas visitará Fairbanks en enero. ¿Ofrece un paquete combinado con trineos tirados por perros y observación de auroras? ¿Cuál es el precio?",
+      "pill": "Para responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "¿Qué debemos vestir?",
+      "preview": "Estamos reservados para la experiencia de papilla de 2 horas el sábado. ¿Qué debemos vestir? ¿Proporcionas equipo o tenemos que traer el nuestro?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim y Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Niños de 5 y 8 años: ¿pueden hacer papillas?",
+      "preview": "Traeremos a nuestros dos hijos (5 y 8 años). ¿Pueden montar en el trineo o ayudar a hacer papilla? También a los perros les va bien con los niños pequeños...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nueva reseña para tu anuncio",
+      "preview": "Un viajero revisó recientemente su negocio. Vea lo que tenían que decir y responda...",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Raquel! Nos encantaría recibir a su familia. Nuestro combo Aurora + Mush cuesta $ 175 por persona: obtienes un paseo en trineo de 1,5 horas por los senderos al anochecer, luego chocolate caliente junto al fuego mientras esperamos las luces. Se proporciona todo el equipo para clima frío. Los niños menores de 12 años pagan $125. ¿Quieres que te reserve para enero?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "recorrido",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dos reservas guardadas pagan por un año de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas y nunca el ruido. No más perderse una consulta de recorrido oculta bajo alertas TripAdvisor.",
+  "draftSubtitle": "Duet aprende los tipos de recorrido, los precios y el tono. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del paquete, qué ponerse y complementos. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Alguna reserva para este fin de semana?\" \"Redacta una respuesta sobre el combo aurora\". Duet conoce tu bandeja de entrada y tu horario, solo pregúntale.",
+  "categorizationEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "¿Combo Aurora + trineo tirado por perros para 4?",
+      "preview": "Mi familia de 4 personas visitará Fairbanks en enero...",
+      "pill": "Responder ahora",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Reserva confirmada — Sábado 13:00",
+      "pill": "Reservado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "kim l.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "¿Pueden viajar nuestros niños (de 5 y 8 años)?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "viador",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Su resumen de reserva semanal",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Rebajas de invierno: 30 % de descuento en arneses de mushing",
+      "pill": "Promociones",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: ¿Combo Aurora + trineo tirado por perros para 4?",
+    "originalFrom": "Raquel T. escribió:",
+    "originalText": "¡Hola! Mi familia de cuatro personas visitará Fairbanks en enero. ¿Ofrece un paquete combinado con trineos tirados por perros y observación de auroras? ¿Cuál es el precio?",
+    "lines": [
+      "Hola Raquel!",
+      "Nuestro combo Aurora + Mush cuesta $175 por persona: un paseo en trineo de 1,5 horas al anochecer seguido de chocolate caliente y contemplación de la aurora junto al fuego. Los niños menores de 12 años pagan $125.",
+      "Se proporciona todo el equipo para clima frío (botas, petos, guantes, mascarillas). Simplemente vístete con capas cálidas debajo.",
+      "¿Quieres que reserve a tu familia de 4 personas para enero?"
+    ],
+    "highlightText": "El combo Aurora + Mush cuesta $ 175 por persona: un paseo en trineo de 1,5 horas",
+    "tooltipFeatures": [
+      "Conoce los tipos de tours y precios",
+      "Borradores en tu voz",
+      "Incluye equipo y detalles adicionales.",
+      "Aprende con el tiempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "¿Alguna reserva para este fin de semana? El clima parece dudoso.",
+    "agentResponse": "Tienes 3 tours reservados este fin de semana: una visita a la perrera el sábado a las 10 a. m. (2 personas), una experiencia de papilla de 2 horas el sábado a la 1 p. m. (4 personas) y un combo de auroras el domingo a las 4 p. m. (6 personas). El grupo del domingo preguntó sobre la política de cancelación. ¿Quieres que redacte una actualización del clima para los tres?",
+    "followUp": "Redactar una actualización meteorológica para el grupo de auroras dominicales.",
+    "followUpResponse": "¡Listo! Redacté una respuesta al grupo de auroras dominicales para informarles que están monitoreando las condiciones y lo confirmarán el sábado por la noche. Incluye su política de reprogramación y fechas alternativas. Listo para revisar y enviar."
+  },
+  "testimonialsTitle": "Amado por mushers y operadores turísticos.",
+  "testimonials": [
+    {
+      "name": "ryan h.",
+      "title": "Operador turístico de trineos tirados por perros, AK",
+      "quote": "Estoy en el camino 6 horas al día sin servicio celular. Cuando regresé, la mitad de las solicitudes de reserva se habían dirigido a otra empresa. Duet borradores de respuestas con los detalles y precios de mi recorrido: los huéspedes reciben respuesta en minutos, no en horas.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Propietario del Kennel & Mush Tour, AK",
+      "quote": "Ofrecemos visitas a perreras, paseos en papilla y combinaciones de auroras: cada correo electrónico necesita una respuesta diferente. Duet descubrió los tres tipos de giras en una semana y ahora redacta respuestas que siempre coinciden con el paquete correcto.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Guía de trineos tirados por perros, Minnesota",
+      "quote": "Solía ​​pasar todas las noches respondiendo las mismas preguntas sobre qué ponerme, límites de edad y los perros. Duet se encarga de todo. Llego a casa desde el sendero y todo está redactado y esperando.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora y operador turístico en trineo, AK",
+      "quote": "Las cancelaciones por clima son constantes en invierno. Duet redacta borradores de respuestas de reprogramación con nuestra política y fechas alternativas antes de que tenga la oportunidad de revisar mi teléfono. A los huéspedes les encanta la respuesta rápida.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "cara d.",
+      "title": "Aventuras familiares en trineos tirados por perros, CO",
+      "quote": "Los padres siempre preguntan si sus hijos saben hacer puré, si los perros son amigables, qué ponerse: las mismas 10 preguntas. Duet aprendió todas las respuestas y las redacta perfectamente. Es como clonarme para recibir correo electrónico.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Pasa el invierno en el sendero con tus perros,\nno en tu bandeja de entrada.",
+  "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "¿Cómo maneja Duet las cancelaciones climáticas y la incertidumbre de las auroras?",
+      "answer": "Duet conoce sus políticas de cancelación y reprogramación. Cuando un huésped envía un correo electrónico sobre inquietudes sobre el clima o la visibilidad de la aurora, redacta una respuesta con su política, fechas alternativas y cualquier detalle relevante, como monitorear las condiciones y confirmar cuando se acerque el recorrido. Tu revisas y envías."
+    },
+    {
+      "question": "Ofrezco múltiples tipos de tours con diferentes precios y complementos. ¿Puede Duet mantenerlos derechos?",
+      "answer": "Sí. Duet aprende cada uno de sus tipos de recorridos (visitas a perreras, experiencias de papilla, combinaciones de auroras, complementos de fotografía, paquetes de transporte) junto con su precio, duración y qué está incluido. Cuando llega una consulta, coincide con el recorrido correcto y redacta una respuesta con los detalles correctos."
+    }
+  ],
+  "pricingNote": "A $150/tour, dos reservas guardadas pagan más de un año de Pro."
+}

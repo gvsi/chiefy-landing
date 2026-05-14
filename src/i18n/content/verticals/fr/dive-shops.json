@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail pour les centres de plongée | Assistant email IA",
+  "metaDescription": "Duet Mail aide les propriétaires de centres de plongée et les instructeurs PADI à répondre instantanément aux demandes de certification, aux réservations de sorties et aux questions sur le matériel — même depuis sous l'eau.",
+  "heroBadge": "Adopté par plus de 300 opérateurs de plongée",
+  "heroHeadline": "Votre assistant email pendant que vous êtes sous l'eau",
+  "heroSubline": "Duet apprend vos sites de plongée, les conditions de certification, les tarifs et votre ton — puis rédige des réponses par email pour que vous ne perdiez jamais une réservation pendant que vous êtes sur le bateau.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certification Open Water — disponibilité ?",
+      "preview": "Bonjour ! Je viens la première semaine d'août et je souhaite obtenir ma certification Open Water. Combien de jours cela prend-il et qu'est-ce qui est inclus ?",
+      "pill": "Pour répondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin & Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Groupe de 6 pour une plongée 2-tanks samedi",
+      "preview": "Nous sommes 6 plongeurs certifiés et voulons réserver une plongée matinale 2-tanks ce samedi. Avez-vous de la place ? Quel est le tarif par personne...",
+      "pill": "Réservation",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Location de gilet stabilisateur pour le week-end ?",
+      "preview": "Salut, je suis certifié mais je voyage léger. Louez-vous des gilets stabilisateurs et des détendeurs ? J'en aurais besoin de vendredi à dimanche...",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Parrainage étudiant : Rachel Torres",
+      "preview": "Un étudiant a terminé son eLearning et a sélectionné votre centre de plongée pour la formation en milieu protégé et en eau libre...",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Salut Rachel ! Nous serions ravis de vous certifier. Le cours Open Water dure 3 jours — une journée de sessions en piscine et deux jours de plongées en mer. Tout le matériel est inclus. Le mois d'août est totalement disponible. Voulez-vous que je réserve une place pour cette première semaine ?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "plongée",
+    "lostPerMonth": "3 sorties (6 plongeurs chacune)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Une seule plongée de groupe réservée suffit à payer un an de Duet."
+  },
+  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail afin que vous voyiez d’abord les demandes de certification et les réservations de plongée, ensuite les questions sur le matériel, et les alertes PADI quand vous êtes prêt. Plus de réservation de groupe manquée, enfouie sous les newsletters sur l’équipement.",
+  "draftSubtitle": "Duet apprend vos sites de plongée, les prérequis de certification et vos tarifs. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du séjour, ce qui est inclus et ce qu’il faut apporter. Vous relisez et envoyez.",
+  "agentSubtitle": "« Combien de plongeurs sont réservés pour samedi ? » « Rédige une réponse à Rachel avec les disponibilités Open Water. » Duet connaît votre boîte de réception et votre planning — demandez-lui simplement.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certification Open Water — disponibilité ?",
+      "preview": "Je viens la première semaine d’août et je veux obtenir ma certification...",
+      "pill": "Répondre maintenant",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re : Réservation confirmée — plongée 2 bouteilles samedi",
+      "pill": "Réservé",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Location de gilet stabilisateur et de détendeur ce week-end ?",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Nouvel avis sur votre annonce",
+      "pill": "Info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Soldes d’été — -25 % sur les combinaisons",
+      "pill": "Promotions",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re : Certification Open Water — disponibilité ?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Bonjour ! Je viens la première semaine d’août et je veux obtenir ma certification Open Water. Combien de jours cela prend-il et qu’est-ce qui est inclus ?",
+    "lines": [
+      "Salut Rachel !",
+      "Nous serions ravis de vous certifier ! Le cours PADI Open Water dure 3 jours — une séance en piscine et deux plongées en mer sur notre récif. Tout le matériel est inclus.",
+      "Août est encore largement disponible pour le moment. La plupart des élèves commencent un lundi afin de terminer mercredi.",
+      "Souhaitez-vous que je réserve une place ?"
+    ],
+    "highlightText": "La formation PADI Open Water dure 3 jours",
+    "tooltipFeatures": [
+      "Connaît vos cours et vos tarifs",
+      "Rédige dans votre voix",
+      "Inclut automatiquement les exigences de certification",
+      "Apprend au fil du temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Combien de plongeurs sont inscrits pour samedi ?",
+    "agentResponse": "D’après votre boîte de réception, vous avez 8 plongeurs confirmés pour la plongée du samedi matin avec 2 bouteilles — le groupe de 6 de Kevin plus 2 réservations individuelles. Vous avez aussi une demande en attente de Jason concernant la location d’équipement pour la même sortie. Voulez-vous que je rédige une réponse ?",
+    "followUp": "Rédige une réponse à Rachel avec les détails du cours Open Water",
+    "followUpResponse": "C’est fait ! J’ai rédigé une réponse à Rachel confirmant le cours PADI Open Water de 3 jours avec piscine et plongées en mer incluses. Elle mentionne les disponibilités en août et votre politique standard incluant l’équipement. Prête à relire et à envoyer."
+  },
+  "testimonialsTitle": "Adoré par les opérateurs de plongée",
+  "testimonials": [
+    {
+      "name": "Captain Mike T.",
+      "title": "Capitaine de bateau de plongée, FL",
+      "quote": "J’organise des sorties en bateau du vendredi au dimanche et la boutique n’est ouverte que quelques heures le lundi. Les questions sur les certifications et les demandes de sorties s’accumulent pendant que je suis sous l’eau. Duet rédige des réponses avec mes tarifs, mes sites de plongée et ce qui est inclus — je les relis entre deux plongées.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Centre de plongée PADI, HI",
+      "quote": "Nous organisons des plongées, des sorties snorkeling et des observations de baleines depuis les mêmes bateaux. La variété des emails est incroyable — questions sur les certifications, réservations de groupe, locations d’équipement, vérifications météo. Duet trie tout et rédige des réponses qui font la différence. Un vrai sauveur.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Charters de plongée sur épaves, FL",
+      "quote": "La moitié de mes emails demandent « de quelle certification ai-je besoin pour les plongées sur épave ? » et l’autre moitié « ai-je besoin de mon propre équipement ? ». Duet gère les deux en automatique. Mon temps de réponse est passé de plusieurs heures à quelques minutes.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Propriétaire de boutique de plongée, CA",
+      "quote": "En été, nous recevons plus de 30 emails par jour sur les cours, les disponibilités des sorties et le matériel. Je perdais des réservations au profit de boutiques qui répondaient plus vite. Maintenant, Duet rédige tout et je n’ai plus qu’à envoyer entre deux cours.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Moniteur et guide de plongée, NC",
+      "quote": "J’enseigne des cours le matin et j’encadre des plongées l’après-midi. Je n’ai littéralement pas le temps de répondre aux e-mails. Duet a appris mon planning de cours, mes tarifs, même ma politique d’annulation. Les clients ne voient pas la différence.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Passez vos journées sous l’eau,\npas enseveli dans votre boîte de réception.",
+  "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
+  "verticalFaqs": [
+    {
+      "question": "Duet comprend-il les niveaux de certification et les prérequis des cours ?",
+      "answer": "Oui. Duet apprend vos cours spécifiques — Open Water, Advanced, Rescue, Divemaster — ainsi que les prérequis, la durée, les tarifs et ce qui est inclus. Quand quelqu’un demande comment se faire certifier, Duet rédige une réponse avec les bons détails du cours, le planning et les prochaines étapes. Vous relisez et envoyez."
+    },
+    {
+      "question": "Je suis sur le bateau ou sous l’eau toute la journée. Puis-je utiliser Duet depuis mon téléphone ?",
+      "answer": "Oui. Duet fonctionne avec Gmail et Outlook, donc il fonctionne partout où votre e-mail fonctionne — y compris sur votre téléphone. Les brouillons apparaissent automatiquement dans votre boîte de réception. Entre deux plongées ou de retour au quai, vous relisez et envoyez en un seul tap. La plupart des exploitants de centres de plongée nous disent qu’ils économisent 1 à 2 heures de gestion d’e-mails par jour pendant la haute saison."
+    }
+  ],
+  "pricingNote": "À 150 $/plongée avec un groupe de 6, une sortie économisée rembourse plus d’un an de Pro."
+}

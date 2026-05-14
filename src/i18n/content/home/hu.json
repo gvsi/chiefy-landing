@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | AI e-mail asszisztens Gmail és Outlook számára",
+    "description": "A Duet Mail mesterséges intelligencia e-mail-asszisztense összefoglalja az e-maileket, válaszvázlatokat készít, és rendszerezi a beérkező leveleket. Működik a Gmail és Outlook jelekkel. Takarítson meg heti 4+ órát."
+  },
+  "hero": {
+    "badge": "Már elérhető a Gmail és a Outlook számára",
+    "headlinePrefix": "A te ",
+    "headlineHighlight": "törzsfőnök",
+    "headlineSuffix": " számára",
+    "rotatingFeatures": [
+      "e-mailek rendezése",
+      "válaszok megfogalmazása",
+      "ütemezés",
+      "válaszok megtalálása"
+    ],
+    "subline": "Takarítson meg 4+ órát minden héten e-mailben",
+    "primaryCta": "Kezdje Gmail-vel",
+    "secondaryCta": "Kezdje Outlook-vel",
+    "trialNote": "Ingyenes 14 napos próbaverzió",
+    "cancelNote": "Bármikor lemondhatja"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Azonnali kategorizálás",
+      "AI-alapú válaszok"
+    ],
+    "windowTitle": "Beérkezett üzenetek",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "Tegnap"
+    ],
+    "autodraftLabel": "Autodraft",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Termékbevezetési ütemterv",
+        "preview": "Hé! Szeretett volna bejelentkezni az indítóeszközökhöz. Még mindig úton vagyunk a jövő héten...",
+        "pill": "Válaszolni"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Gyors szinkronizálás ma délután?",
+        "preview": "Szeretnék értesülni az ütemterv-frissítésekről. 16 óra körül szabad vagy...",
+        "pill": "Találkozó"
+      },
+      {
+        "from": "Marketing",
+        "avatarLetter": "M",
+        "subject": "A kampány eredményei készen állnak",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Az üzleted készen áll a fekete péntekre",
+        "pill": "Promozgások"
+      }
+    ],
+    "autodraft": "Szia Alex! Igen, jó úton haladunk. A tervezőcsapat tegnap befejezte az eszközöket, és ma elküldöm a végleges fájlokat EOD-val."
+  },
+  "logos": {
+    "ariaLabel": "Ügyfél logók",
+    "headingPrefix": "Megbízható az előretekintő",
+    "headingHighlight": " szakemberek és csapatok ",
+    "headingSuffix": "világszerte"
+  },
+  "features": {
+    "ariaLabel": "Jellemzők",
+    "eyebrow": "Beérkezett üzenetei, feltöltött állapotban",
+    "title": "A beérkező levelek nem birtokolhatják a napod",
+    "subtitle": "Alakítsa át a káoszt tisztasággá a mesterséges intelligencia segítségével, amely valóban magával ragad.\nTakarítson meg hetente 3+ órát a Gmail és Outlook legokosabb e-mail asszisztensével.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "E-mail piszkozatok, amelyek úgy hangzanak, mint Ön",
+        "description": "A Duet AI e-mail író piszkozatokat készít a legfontosabb e-mailjeihez. Megtanulja a hangnemét és az írási stílusát.",
+        "ariaLabel": "E-mail piszkozatok, amelyek úgy hangzanak, mint Ön",
+        "mockCopy": {
+          "draftedColdEmail": "Készítettem egy Johnnak személyre szabott hideg e-mailt",
+          "sampleText": "Az AI-csővezetékek elengedhetetlenek a robusztus, méretezhető és hatékony AI-rendszerek felépítéséhez.",
+          "readyToSend": "Készen áll a küldésre?",
+          "remindFollowUp": "Emlékeztessen, hogy kövessem."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Azonnali összefoglalók és akcióelemek",
+        "description": "Szerezze be a TL;DR-t és a műveleti elemeket az e-mailek tartalmából másodpercek alatt. Nincs többé regényolvasás a postaládájában.",
+        "ariaLabel": "Azonnali összefoglalók és akcióelemek",
+        "mockCopy": {
+          "sentencePrefix": "ajánlom mi ",
+          "sentenceHighlight": "találkozunk a jövő héten",
+          "sentenceSuffix": " ?",
+          "actionTitle": "Új műveleti elem",
+          "actionLead": "Ezeket az ingyenes helyeket találtam a naptáradban",
+          "slots": [
+            "kedden, 10 órakor",
+            "csütörtök, 14 óra",
+            "péntek, 9 óra"
+          ],
+          "secondaryButton": "Keressen többet",
+          "primaryButton": "Elküld"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Intelligens emlékeztetők",
+        "description": "Állítsd be és felejtsd el. A Duet AI eszébe jut, hogy utánajárjon, ha mások nem válaszolnak, így semmi sem esik ki.",
+        "ariaLabel": "Intelligens emlékeztetők",
+        "mockCopy": {
+          "header": "AI-alapú intelligens emlékeztetők",
+          "stats": [
+            {
+              "label": "Nyomon követés",
+              "value": "12",
+              "unit": "e-maileket"
+            },
+            {
+              "label": "Válaszolni",
+              "value": "2",
+              "unit": "e-maileket"
+            },
+            {
+              "label": "Befejezve",
+              "value": "3",
+              "unit": "akcióelemek"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Írási feladatok elvégzése",
+              "time": "2 napja"
+            },
+            {
+              "title": "Projektintegráció",
+              "time": "12 órája"
+            }
+          ],
+          "actions": [
+            "Kövesd",
+            "Átütemezni?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Koncentrálj arra, ami számít",
+        "description": "Az intelligens kategorizálás először a legfontosabb e-mailjeit jeleníti meg, és témák szerint kategorizálja az e-maileket. Az e-mail kezelése soha nem volt ilyen egyszerű.",
+        "ariaLabel": "Koncentrálj arra, ami számít",
+        "mockCopy": {
+          "analyzing": "ELEMZÉS"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "E-mail rendszerezés és intelligens beérkező levelek kategorizálása",
+    "badge": "Szervezet",
+    "title": "A Duet rendszerezi a beérkező leveleket",
+    "subtitle": "Az automatikus kategorizálás kiszűri a zajt, és rávilágít arra, ami számít. Azonnal láthatja, mi az, ami cselekvésre szorul, mi az, ami csak tájékoztató jellegű, és mi várhat.",
+    "windowTitle": "Beérkezett üzenetek",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "Tegnap",
+      "december 20"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "4. negyedéves költségvetés-felülvizsgálati kérelem",
+        "preview": "A végleges számokat mellékeljük. Kérjük, tekintse át az EOD-t.",
+        "pill": "Intézkedés szükséges"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Holnap délelőtt 10 órakor a csapat felállása",
+        "pill": "Találkozó"
+      },
+      {
+        "from": "Tervező csapat",
+        "avatarLetter": "D",
+        "subject": "Megjelent az új márkairányelvek",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Elkészült a havi kimutatásod",
+        "pill": "Promozgások"
+      },
+      {
+        "from": "Hírlevél",
+        "subject": "Heti kivonat",
+        "pill": "Promozgások"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI e-mail-szerkesztés és válaszgenerálás",
+    "badge": "Tervezés",
+    "title": "Duet piszkozatok a hangodban",
+    "subtitle": "A Duet megtanulja, hogyan írjon, és az Ön hangnemének megfelelő válaszokat készít. Tekintse át, módosítsa, ha szükséges, és küldje el másodpercek alatt.",
+    "windowTitle": "Új üzenet",
+    "fieldLabels": {
+      "to": "Címzett:",
+      "subject": "Téma:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Gyors szinkronizálás ezen a héten?",
+      "originalFrom": "Alex Rivera írta:",
+      "originalText": "Hé! Szeretnék utolérni az ütemterv változásait. Szabad egy 30 perces hívás ezen a héten? Mondja el, mi működik az Ön számára.",
+      "badge": "Automatikusan fogalmazva",
+      "lines": [
+        "Szia Alex!",
+        "Szeretnék szinkronizálni az ütemtervvel. Csütörtökön 14:00 és 16:00 óra között vagy péntek reggel szabad vagyok – bármelyik remekül működik nekem.",
+        "Mondja el, melyik a legmegfelelőbb, és küldök egy meghívót.",
+        "Köszönöm!  "
+      ],
+      "highlightText": "Csütörtökön 14-16 óráig vagy péntek reggel vagyok szabad",
+      "actions": [
+        "Elküld",
+        "Szerkesztés"
+      ],
+      "tooltipTitle": "Személyre szabott tervezet",
+      "tooltipFeatures": [
+        "Ismeri a naptárát",
+        "Piszkozatok a hangodban",
+        "Az emlékezeten keresztül ismeri a kontextust",
+        "Idővel tanul"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI e-mail intelligencia és asszisztens",
+    "badge": "Intelligencia",
+    "title": "Kérdezz bármit az e-maileddel kapcsolatban",
+    "subtitle": "Kérje meg a Duetet, hogy keresse meg az e-maileket, ellenőrizze a naptárát, vagy válaszvázlatot készítsen. Megérti a beérkezett üzeneteket, és azonnal válaszol.",
+    "windowTitle": "Duet ügynök",
+    "onlineLabel": "Online",
+    "initialUserMessage": "Megtalálod a Számvitel által küldött Stripe számlát?",
+    "processingText": "Keresés a beérkező levelek között...",
+    "foundHeader": "2 e-mailt találtunk tőle: Stripe",
+    "foundBody": "Megtaláltam a 29,00 USD-s nyugtát október 24-től.",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Válasz tervezete"
+      },
+      {
+        "action": "calendar",
+        "label": "Találj időt a találkozásra"
+      }
+    ],
+    "inputPlaceholder": "Kérdezz bármit...",
+    "dynamicResponses": {
+      "processingDefault": "Feldolgozás...",
+      "processingDraft": "Piszkozat generálása...",
+      "processingCalendar": "Elérhetőség ellenőrzése...",
+      "draftIntro": "Íme egy választervezet a Számvitelnek:",
+      "draftHeader": "Tervezet: accounting@company.com",
+      "draftLines": [
+        "Szia Csapat!",
+        "Mellékelten találja a Stripe októberi számlát (29,00 USD).",
+        "Szólj, ha másra van szükséged.",
+        "Legjobb,"
+      ],
+      "draftActions": [
+        "E-mail küldése",
+        "Szerkesztés"
+      ],
+      "calendarIntro": "Holnap 3 szabad helyed van:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "30 min"
+        },
+        {
+          "time": "2:00 PM",
+          "duration": "30 min"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Fogalmazd meg a választ is?",
+        "calendarAfterDraft": "Tervezzünk nyomon követést is?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Beszámolók",
+    "scrollingAriaLabel": "Görgető ajánlók",
+    "eyebrow": "Beszámolók",
+    "title": "Szeretik az elfoglalt szakemberek",
+    "subtitle": "Igazi emberek. A valódi postafiók nyer.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Szabadúszó",
+        "quote": "Minden fillért megér. Az e-mailen megspórolt idő tízszeresével fizet Duet Mail-ért. Nem tudom elképzelni a munkát nélküle.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Értékesítési vezető",
+        "quote": "A hosszú e-mail szálak azonnali összefoglalói varázslatosak, és annyira felhasználóbarátak. Az ügyfeleim azt hiszik, emberfeletti vagyok.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Vállalkozó",
+        "quote": "Szkeptikus voltam a mesterséges intelligencia használatával kapcsolatban az e-mailjeimhez. Most olyan, mintha egy zseniális ügyvezető asszisztens lenne. Nem tudom elképzelni, hogy visszamenjek.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Tanácsadó",
+        "quote": "Tanácsadóként minden perc számít. A Duet Mail nem csak időt takarít meg, hanem élesebbé teszi az e-mail kommunikációmat.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "marketing igazgató",
+        "quote": "Végül egy AI levelező asszisztens, aki megtanulja, hogyan írjak. Az azonnali válaszok annyira pontszerűek, hogy a csapatom azt hitte, éjfélkor dolgozom.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Árképzés",
+    "eyebrow": "Árképzés",
+    "heading": "Egyszerű árképzés, hatékony postafiók",
+    "subheading": "Kezdje ingyenesen, frissítsen bármikor. Lemondás bármikor.",
+    "billingLegend": "Számlázási ütem",
+    "billingAnnual": "Évi",
+    "billingMonthly": "Havi",
+    "savingsTag": "33% megtakarítás",
+    "priceCadence": "/month",
+    "perUserSuffix": "/user",
+    "annualBillingSuffix": "(évente számlázva)",
+    "trustItems": [
+      "Biztonságos fizetés a Stripe-n keresztül",
+      "Bármikor lemondhatja"
+    ],
+    "plans": [
+      {
+        "name": "Alapvető",
+        "description": "Mindenkinek, aki kíváncsi arra, milyen érzés egy okosabb postafiók. Nem szükséges kötelezettség.",
+        "priceLabel": "Ingyenes",
+        "features": [
+          {
+            "title": "Azonnali összefoglalók",
+            "description": "Fogadd meg minden szál lényegét"
+          },
+          {
+            "title": "AI piszkozatok",
+            "description": "A válaszok íze a hangodban"
+          },
+          {
+            "title": "Smart Inbox",
+            "description": "Alapvető szervezés a kezdéshez"
+          },
+          {
+            "title": "Duet asszisztens",
+            "description": "Próbáld ki az AI-asszisztenst"
+          }
+        ],
+        "ctaLabel": "Válassza a Gmail vagy a Outlook lehetőséget"
+      },
+      {
+        "name": "Pro",
+        "badge": "14 napos ingyenes próbaverzió",
+        "description": "Azoknak a szakembereknek, akik mélyebb automatizálásra, integrációra és egy olyan postafiókra vágynak, amely valóban tudja, hogyan dolgozik.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Smart Inbox",
+            "description": "Az e-mailek automatikusan intelligens kategóriákba rendezve",
+            "highlight": true
+          },
+          {
+            "title": "AI piszkozatok",
+            "description": "Az Ön hangjával írt válaszok küldésre készen",
+            "highlight": true
+          },
+          {
+            "title": "Duet asszisztens",
+            "description": "Csevegés kereshet, tervezhet, rendszerezhet stb",
+            "highlight": true
+          },
+          {
+            "title": "Naptár integráció",
+            "description": "Ütemezzen, tekintsen meg és kezeljen eseményeket a postaládájából"
+          },
+          {
+            "title": "Azonnali összefoglalók",
+            "description": "Ismerje meg bármely szál vagy melléklet lényegét"
+          },
+          {
+            "title": "Intelligens emlékeztetők",
+            "description": "A nyomon követések automatikusan megjelennek, így semmi sem csúszik el"
+          },
+          {
+            "title": "Kiemelt támogatás",
+            "description": "Igazi emberek, gyors válaszok"
+          }
+        ],
+        "ctaLabel": "Válassza a Gmail vagy a Outlook lehetőséget",
+        "featured": true
+      },
+      {
+        "name": "Vállalkozás",
+        "description": "Olyan szervezetek számára, amelyeknek nagyvállalati szintű skálára, dedikált támogatásra és egyedi munkafolyamatokra van szükségük. A legjobb 50 év feletti csapatok számára.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Minden a Pro-ben",
+            "description": "Minden funkció benne van"
+          },
+          {
+            "title": "Dedikált támogatás",
+            "description": "Személyes fiókkezelő"
+          },
+          {
+            "title": "Csapatelemzés",
+            "description": "Betekintés a szervezet egészébe"
+          },
+          {
+            "title": "Megosztott munkafolyamatok",
+            "description": "Sablonok és automatizálások csapatok számára"
+          }
+        ],
+        "ctaLabel": "Lépjen kapcsolatba az értékesítéssel",
+        "ctaNote": "Egyedi árképzés lehetséges"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Gyakran ismételt kérdések",
+    "eyebrow": "GYIK",
+    "headingPrefix": "Gyakori kérdések, ",
+    "headingAccent": "válaszolta",
+    "contactDecorative": "?",
+    "contactLabel": "ÉRINTKEZÉS",
+    "contactHeading": "Van még kérdése?",
+    "contactCta": "Vegye fel a kapcsolatot →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "GYIK",
+    "expandLabel": "[+]",
+    "collapseLabel": "[-]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Hogyan védi Duet Mail az e-mail adataimat?",
+        "answer": "Az Ön biztonsága a legfontosabb számunkra. A OAuth 2.0-t használjuk a biztonságos hitelesítéshez mind a Google, mind a Microsoft esetében. Az e-mail tartalmakat nyugalmi állapotban kliensoldali mezőszintű titkosítással titkosítjuk, és az API-hozzáféréshez a legkisebb jogosultság elvét követjük. A Google integrációhoz alávetjük a Google éves CASA biztonsági értékelését."
+      },
+      {
+        "question": "Hogyan működik az e-mail-összefoglaló funkció?",
+        "answer": "A Duet Mail fejlett mesterséges intelligencia segítségével elemzi az e-mail szálakat, és tömör áttekintést készít, kiemelve a legfontosabb pontokat, döntéseket és műveleteket. Ez segít a szövegkörnyezet gyors megértésében a teljes szál elolvasása nélkül."
+      },
+      {
+        "question": "Milyen engedélyekre van szüksége a Duet Mail-nek?",
+        "answer": "A Duet Mail hozzáférést igényel az Ön e-mailjeihez, hogy összefoglalókat tudjon készíteni, műveletelemeket bontsa ki, tartalmat generáljon és elküldje e-mailjeit. Csak olyan engedélyeket kérünk, amelyekre feltétlenül szükségünk van. Ezeket az engedélyeket bármikor áttekintheti és visszavonhatja a Google Account vagy Microsoft Account beállításaiban."
+      },
+      {
+        "question": "Mit tartalmaz az ingyenes próbaverzió?",
+        "answer": "A 14 napos ingyenes próbaverzió teljes hozzáférést biztosít a Pro összes funkciójához: korlátlan számú e-mail-összefoglalóhoz, műveletelemek kibontásához, mesterséges intelligencia e-mail íróhoz (korlátlanul generál e-maileket és piszkozatokat) és egyéni e-mail sablonokhoz. Jelentkezzen be a Google vagy Microsoft fiókkal, hogy időt takarítson meg az e-mail kezeléssel."
+      },
+      {
+        "question": "Használhatom a Duet Mail-t más e-mail szolgáltatókkal?",
+        "answer": "A Duet Mail támogatja a Gmail, Google Workspace és Microsoft Outlook fájlokat. A kezdéshez jelentkezzen be Google vagy Microsoft fiókjával."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Kezdje el",
+    "headline": "Kapjon vissza 4 órát.\nMinden héten.",
+    "subline": "Csatlakozzon a szakemberekhez, akik tisztán kezdik a napjukat, nem káosszal. Ingyenes próbaidőszaka vár.",
+    "primaryCta": "Kezdje Gmail-vel",
+    "secondaryCta": "Kezdje Outlook-vel",
+    "note": "14 napos ingyenes próbaverzió · Bármikor lemondható",
+    "trustItems": [
+      "Google CASA-értékelve",
+      "Nyugalomban titkosítva",
+      "Biztonságos OAuth 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Webhely lábléce",
+    "brandIconAlt": "Duet Mail ikonra",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail – A mesterséges intelligencia e-mail asszisztense, amely minden héten órákat takarít meg",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Fedezze fel",
+        "links": [
+          {
+            "label": "Szervezet",
+            "href": "/hu#organization"
+          },
+          {
+            "label": "Tervezés",
+            "href": "/hu#drafting"
+          },
+          {
+            "label": "Intelligencia",
+            "href": "/hu#intelligence"
+          },
+          {
+            "label": "Chrome bővítmény",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Ügyfelek",
+        "links": [
+          {
+            "label": "Árképzés",
+            "href": "/hu#pricing"
+          },
+          {
+            "label": "Beszámolók",
+            "href": "/hu#testimonials"
+          },
+          {
+            "label": "GYIK",
+            "href": "/hu#faq"
+          }
+        ]
+      },
+      {
+        "title": "Jogi",
+        "links": [
+          {
+            "label": "Magánélet",
+            "href": "/hu/privacy"
+          },
+          {
+            "label": "Feltételek",
+            "href": "/hu/terms"
+          },
+          {
+            "label": "Cookie-k",
+            "href": "/hu/cookies"
+          },
+          {
+            "label": "Jogi nyilatkozat",
+            "href": "/hu/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Csatlakozás",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "/hu/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup Fame",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "A befektetés megtérülése",
+    "label": "A matek",
+    "narrativeTemplate": "{pricePerBooking} per {bookingUnit}, csak {lostPerMonth} veszteség a lassú válaszok miatt =",
+    "lossSuffix": "/hó veszteség",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet – AI e-mail asszisztens Gmail és Outlook számára",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Ügyfélszolgálat",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "AI e-mail asszisztens a Gmail és Outlook számára, amely automatikusan összefoglalja az e-maileket, az Ön hangjával megvázolja a válaszokat, és rendszerezi a beérkező leveleket, hogy órákat takarítson meg minden héten.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Intelligens e-mail szervezés és kategorizálás",
+      "AI-alapú e-mail-vázlatok az Ön hangjában",
+      "Intelligens e-mail asszisztens naptárintegrációval",
+      "Automatikus e-mail-összefoglalók és teendők",
+      "Intelligens emlékeztetők a nyomon követéshez"
+    ],
+    "offers": [
+      {
+        "name": "Alapterv",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Ingyenes csomag azonnali összefoglalókkal, mesterséges intelligencia-vázlatokkal és intelligens postafiókkal"
+      },
+      {
+        "name": "Pro terv",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Teljes hozzáférés az intelligens beérkező levelek kategorizálásával, mesterséges intelligencia-vázlatokkal, asszisztenssel és naptárintegrációval"
+      }
+    ],
+    "operatingSystem": "Web",
+    "browserRequirements": "JavaScript szükséges. Működik a Gmail, Google Workspace és Microsoft Outlook jelekkel.",
+    "urls": {
+      "site": "https://duetmail.com/hu",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Hogyan védi Duet Mail az e-mail adataimat?",
+        "answer": "Az Ön biztonsága a legfontosabb számunkra. A OAuth 2.0-t használjuk a biztonságos hitelesítéshez mind a Google, mind a Microsoft esetében. Az e-mail tartalmakat nyugalmi állapotban kliensoldali mezőszintű titkosítással titkosítjuk, és az API-hozzáféréshez a legkisebb jogosultság elvét követjük. A Google integrációhoz alávetjük a Google éves CASA biztonsági értékelését."
+      },
+      {
+        "question": "Hogyan működik az e-mail-összefoglaló funkció?",
+        "answer": "A Duet Mail fejlett mesterséges intelligencia segítségével elemzi az e-mail szálakat, és tömör áttekintést készít, kiemelve a legfontosabb pontokat, döntéseket és műveleteket. Ez segít a szövegkörnyezet gyors megértésében a teljes szál elolvasása nélkül."
+      },
+      {
+        "question": "Milyen engedélyekre van szüksége a Duet Mail-nek?",
+        "answer": "A Duet Mail hozzáférést igényel az Ön e-mailjeihez, hogy összefoglalókat tudjon készíteni, műveletelemeket bontsa ki, tartalmat generáljon és elküldje e-mailjeit. Csak olyan engedélyeket kérünk, amelyekre feltétlenül szükségünk van. Ezeket az engedélyeket bármikor áttekintheti és visszavonhatja a Google Account vagy Microsoft Account beállításaiban."
+      },
+      {
+        "question": "Mit tartalmaz az ingyenes próbaverzió?",
+        "answer": "A 14 napos ingyenes próbaverzió teljes hozzáférést biztosít a Pro összes funkciójához: korlátlan számú e-mail-összefoglalóhoz, műveletelemek kibontásához, mesterséges intelligencia e-mail íróhoz (korlátlanul generál e-maileket és piszkozatokat) és egyéni e-mail sablonokhoz. Jelentkezzen be a Google vagy Microsoft fiókkal, hogy időt takarítson meg az e-mail kezeléssel."
+      },
+      {
+        "question": "Használhatom a Duet Mail-t más e-mail szolgáltatókkal?",
+        "answer": "A Duet Mail támogatja a Gmail, Google Workspace és Microsoft Outlook fájlokat. A kezdéshez jelentkezzen be Google vagy Microsoft fiókjával."
+      }
+    ]
+  }
+}

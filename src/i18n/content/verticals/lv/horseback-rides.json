@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail izjādēm un izjāžu gidiem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz izjāžu operatoriem uz rezervāciju e-pastiem atbildēt uzreiz — pat esot seglos. AI sagatavotas atbildes ar jūsu cenām, jātnieku prasībām un balss toni.",
+  "heroBadge": "Uzticas 300+ izjāžu gidi",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr esat takā",
+  "heroSubline": "Duet apgūst jūsu izjāžu veidus, cenas, jātnieku prasības un taku apstākļus — un sagatavo e-pasta atbildes, lai lēnas reakcijas dēļ nezaudētu nevienu rezervāciju.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Grupas rezervācija 6 personām — sestdienas rītā?",
+      "preview": "Sveiki! Esam 6 cilvēku ģimene (2 pieaugušie, 4 bērni vecumā 8–14 gadi) un labprāt rezervētu izjādi šo sestdienas rītu. Vai jums ir pieejams laiks? Kāda ir cena par personu?",
+      "pill": "Jāatbild",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Jautājums par svara ierobežojumu",
+      "preview": "Sveiki, vēlos rezervēt izjādi, bet vispirms gribēju pajautāt par jūsu svara prasībām. Es sveru ap 260 lbs — vai tas būs šķērslis...",
+      "pill": "Jautājums",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Saulrieta izjāde jubilejai?",
+      "preview": "Nākamajā nedēļas nogalē svinam 10. gadadienu un Instagram redzējām jūsu saulrieta izjādi. Vai piektdienas vakarā tā ir pieejama? Vai ir kādi īpaši piedāvājumi...",
+      "pill": "Rezervācija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Jauna atsauksme par jūsu ierakstu",
+      "preview": "Ceļotājs nesen novērtēja jūsu uzņēmumu. Skatiet, ko viņš rakstīja, un atbildiet...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Sveika, Jessica! Sestdienas rīts 6 personām ir pieejams. Mūsu izjādes maksā $100/personai un ilgst apmēram 90 minūtes pa ieleju. Bērni no 8 gadu vecuma ir laipni gaidīti — jūsu gadījumā viss der. Nepieciešami slēgti apavi, un mēs nodrošinām ķiveres. Vai vēlaties, lai rezervēju jums 9 AM izjādi?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "izjāde",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Viena saglabāta grupas izjāde sedz vairāk nekā divu gadu Duet izmaksas."
+  },
+  "categorizationSubtitle": "Duet automātiski marķē katru e-pastu, lai jūs vispirms redzētu rezervāciju pieprasījumus, pēc tam jātnieku jautājumus, bet liekais nekad netraucētu. Vairs nekādu pazaudētu grupu pieprasījumu zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu izjāžu veidus, cenas un prasības. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar informāciju par taku, cenām un piemērotu apģērbu. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šajā nedēļas nogalē ir brīvas izjādes?\" \"Sagatavo atbildi Jessica ar sestdienas pieejamību.\" Duet pārzina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Grupas rezervācija 6 personām — sestdienas rītā?",
+      "preview": "Esam 6 cilvēku ģimene un vēlamies rezervēt izjādi...",
+      "pill": "Atbildēt tagad",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Saulrieta izjāde apstiprināta — piektdien 5:30 PM",
+      "pill": "Rezervēts",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Svara ierobežojums un pieredzes prasības?",
+      "pill": "Jautājums",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Jūsu iknedēļas rezervāciju kopsavilkums",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tractor Supply",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Pavasara izpārdošana — 15% atlaide barībai un zirglietām",
+      "pill": "Akcijas",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Grupas rezervācija 6 personām — sestdienas rītā?",
+    "originalFrom": "Jessica T. rakstīja:",
+    "originalText": "Sveiki! Esam 6 cilvēku ģimene (2 pieaugušie, 4 bērni vecumā 8–14 gadi) un labprāt rezervētu izjādi šo sestdienas rītu. Vai jums ir pieejams laiks? Kāda ir cena par personu?",
+    "lines": [
+      "Sveika, Jessica!",
+      "Sestdienas rīts 6 personām ir pilnīgi brīvs. Izjādes maksā $100/personai un ilgst apmēram 90 minūtes pa ieleju. Bērni no 8 gadu vecuma ir laipni gaidīti, tāpēc visa jūsu grupa var piedalīties.",
+      "Nepieciešami slēgti apavi — vislabāk zābaki. Mēs nodrošinām ķiveres un katram jātniekam piemeklējam zirgu pēc auguma un pieredzes. Iepriekšēja jāšanas pieredze nav vajadzīga.",
+      "Vai vēlaties, lai rezervēju jums 9 AM izjādi?"
+    ],
+    "highlightText": "Sestdienas rīts 6 personām ir pilnīgi brīvs. Izjādes maksā $100/personai",
+    "tooltipFeatures": [
+      "Zina jūsu cenas un pieejamību",
+      "Raksta jūsu balss tonī",
+      "Automātiski iekļauj jātnieku prasības",
+      "Laika gaitā mācās"
+    ]
+  },
+  "agent": {
+    "userMessage": "Vai šajā nedēļas nogalē ir brīvas izjādes? Un kādi laikapstākļi gaidāmi?",
+    "agentResponse": "Pēc jūsu kalendāra jums ir brīvi laiki sestdien 9 AM un 2 PM, kā arī svētdien 10 AM. Sestdien prognoze rāda 72°F un sauli — ideāli laikapstākļi izjādei. Svētdien pēcpusdienā ir 40% lietus iespējamība, tāpēc rīta laiks ir drošāka izvēle. Vai vēlaties, lai sagatavoju atbildes uz gaidošajiem pieprasījumiem ar šiem laikiem?",
+    "followUp": "Sagatavo atbildi Jessica ar sestdienas pieejamību",
+    "followUpResponse": "Gatavs! Sagatavoju atbildi Jessica, apstiprinot sestdienu 9 AM 6 jātniekiem par $100/personai. Tajā iekļautas jūsu standarta prasības jātniekiem un norādes, ko vilkt. Gatavs pārskatīšanai un nosūtīšanai."
+  },
+  "testimonialsTitle": "Izjāžu operatoru iecienīts",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Rančo īpašnieks un izjāžu gids, MT",
+      "quote": "Esmu takā 6 stundas dienā bez mobilā sakaru pārklājuma. Kamēr atgriezos un varēju atbildēt, puse cilvēku jau bija rezervējuši citur. Tagad Duet sagatavo atbildes ar manām cenām un izjāžu informāciju — es tikai pārskatu un nosūtu, kad atgriežos stallī.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Izjāžu tūru operators, AZ",
+      "quote": "Mēs saņemam desmitiem e-pastu ar vieniem un tiem pašiem jautājumiem — svara ierobežojumi, ko vilkt, vecuma prasības. Duet ar visu tiek galā, un atbildes izklausās tieši kā es. Mani viesi pat nenojauš, ka tas ir AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Izjāžu gids, CO",
+      "quote": "Sezonas kulminācija mani nogurdināja. 30+ e-pasti dienā papildus izjāžu vadīšanai. Duet atšķir rezervāciju pieprasījumus no liekā un sagatavo atbildes, kurās ir iekļauts viss — cenas, ko ņemt līdzi, pilnīgi viss. Es atguvu savus vakarus.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Jāšanas instruktore un rezervāciju vadītāja, TX",
+      "quote": "Mēs piedāvājam saulrieta izjādes, rīta izjādes un privātstundas — katrai ir atšķirīgas cenas un prasības. Duet to visu apguva nedēļas laikā. Tas katru reizi sagatavo pareizo atbildi pareizajam izjādes veidam.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Ģimenes rančo un izjādes, CA",
+      "quote": "Visgrūtākie bija jutīgie e-pasti — kad kāds jautā, vai nav par smagu, vai vai bērns ir pietiekami vecs. Duet atbild tikpat rūpīgi, kā to darītu es. Profesionāli, laipni un precīzi. Jau tas vien ir tā vērts.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Pavadiet dienu ar zirgiem,\nnevis savā iesūtnē.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet savu iesūtni 30 sekundēs.",
+  "verticalFaqs": [
+    {
+      "question": "Kā Duet apstrādā jutīgus jautājumus par svaru vai pieredzes prasībām?",
+      "answer": "Duet apgūst jūsu konkrētās politikas un atdarina jūsu toni. Kad kāds jautā par svara ierobežojumiem vai pieredzes prasībām, tas atbild profesionāli un sirsnīgi — sniedzot vajadzīgo informāciju bez neveiklības. Jūs vienreiz nosakāt toni, un Duet to konsekventi ievēro, lai katrs viesis justos cienīts."
+    },
+    {
+      "question": "Vai Duet var apstrādāt grupu rezervācijas ar atšķirīgām jātnieku vajadzībām?",
+      "answer": "Jā. Duet apgūst jūsu izjāžu veidus, grupu lielumus, minimālo vecumu un visas konkrētam jātniekam nepieciešamās prasības. Kad ģimene vai grupa e-pastā jautā par rezervāciju, tas sagatavo atbildi ar cenu visai grupai, informāciju, kas jāzina katram jātniekam, un pieejamajiem laikiem. Jūs pārskatāt un nosūtāt — bez liekas sarakstes."
+    }
+  ],
+  "pricingNote": "Pie cenas 100 $/personai 6 cilvēku grupai viena ietaupīta izjāde sedz Pro izmaksas vairāk nekā diviem gadiem."
+}

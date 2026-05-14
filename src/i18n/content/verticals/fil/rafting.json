@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail para sa Rafting at Kayak Outfitters | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga rafting guide at mga kayak outfitter na tumugon kaagad sa mga katanungan sa paglalakbay — kahit na mula sa ilog. AI-drafted na mga tugon kasama ang iyong mga detalye ng biyahe, pagpepresyo, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 200+ river guide",
+  "heroHeadline": "Ang iyong email assistant habang nasa ilog ka",
+  "heroSubline": "Natututuhan ng duet ang iyong mga uri ng biyahe, pagpepresyo, at mga listahan ng gear — pagkatapos ay mag-draft ng mga tugon sa mga katanungan sa pag-book upang makakuha ng mga sagot ang mga customer habang nagpapatakbo ka ng mabilis.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Buong araw na biyahe sa balsa para sa 6 sa Agosto 9?",
+      "preview": "Hi! Kami ay isang pamilya ng 6 na bumibisita sa Agosto at gustong mag-book ng isang buong araw na rafting trip sa ika-9. Ano ang presyo bawat tao at anong antas ng karanasan ang kailangan natin?",
+      "pill": "Upang Tumugon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Multi-day trip — ano ang kasama?",
+      "preview": "Kami ay isang pangkat ng 4 na tumitingin sa iyong 3-araw na ekspedisyon. Kasama ba ang mga pagkain, gamit sa kamping, at mga tuyong bag o kailangan nating magdala ng sarili nating...",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel at Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Mga batang edad 8 at 10 — sapat na ligtas?",
+      "preview": "Gusto naming gawin ang kalahating araw na paglalakbay ngunit ang aming mga anak ay 8 at 10. Ang seksyon ba ng Class II ay angkop para sa kanilang edad? Ano ang minimum...",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Bagong review para sa iyong listing",
+      "preview": "Sinuri kamakailan ng isang manlalakbay ang iyong negosyo. Tingnan kung ano ang kanilang sasabihin at tumugon...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hoy Jennifer! Bukas ang Agosto 9 para sa 6. Ang mga full-day trip ay $150/tao at tumatakbo nang humigit-kumulang 7 oras — inilalagay namin sa 8:30 AM. Walang karanasan na kailangan, pinangangasiwaan ng aming mga gabay ang lahat. Ang mga PFD, helmet, tuyong bag, at tanghalian sa tabing-ilog ay kasama lahat. Magdala lamang ng sunscreen, sapatos na pang-tubig, at mga damit na hindi mo iniisip na mabasa. Gusto mo bang ipareserba ko ang iyong mga puwesto?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "tao",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dalawang naka-save na booking ang nagbabayad para sa isang buong taon ng Duet."
+  },
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email kaya unang lumabas ang mga tanong sa biyahe, pangalawa ang mga tanong sa gear, at nawawala ang ingay sa promo. Wala nang nawawalang group booking na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
+  "draftSubtitle": "Natutunan ng duet ang iyong mga uri ng biyahe, mga klase sa rapids, mga listahan ng gear, at patakaran sa pagkansela. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon kasama ang lahat ng kailangan ng customer. I-review at ipadala mo.",
+  "agentSubtitle": "\"Any open spot sa buong araw ng Sabado?\" \"Mag-draft ng tugon kay Jennifer na may availability.\" Alam ng duet ang iyong inbox at iskedyul — magtanong lang.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Buong araw na biyahe sa balsa para sa 6 sa Agosto 9?",
+      "preview": "Kami ay isang pamilya ng 6 na bumibisita sa Agosto at gustong mag-book...",
+      "pill": "Tumugon Ngayon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Nakumpirma ang 3-araw na ekspedisyon — Agosto 15",
+      "pill": "Naka-book",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Okay ba ang mga batang edad 8 at 10 para sa Class II?",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Ang Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Ang iyong lingguhang buod ng booking",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "End-of-season sale — 30% off sa mga dry suit",
+      "pill": "Mga promosyon",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Buong araw na raft trip para sa 6 sa Aug 9?",
+    "originalFrom": "Sumulat si Jennifer W.:",
+    "originalText": "Hi! Kami ay isang pamilya ng 6 na bumibisita sa Agosto at gustong mag-book ng isang buong araw na rafting trip sa ika-9. Ano ang presyo bawat tao at anong antas ng karanasan ang kailangan natin?",
+    "lines": [
+      "Hoy Jennifer!",
+      "Bukas ang Agosto 9 para sa 6. Ang mga full-day trip ay $150/tao at tumatakbo nang humigit-kumulang 7 oras — nagkikita kami sa put-in sa 8:30 AM.",
+      "Walang karanasan na kailangan. Ang mga PFD, helmet, tuyong bag, at tanghalian sa tabing-ilog ay kasama lahat — magdala lang ng sunscreen at sapatos na pang-tubig.",
+      "Gusto mo bang ipareserba ko ang iyong mga puwesto?"
+    ],
+    "highlightText": "Bukas ang Agosto 9 para sa 6. Ang mga full-day trip ay $150/tao",
+    "tooltipFeatures": [
+      "Alam ang iyong mga uri ng biyahe at pagpepresyo",
+      "Mga draft sa iyong boses",
+      "Awtomatikong kasama ang mga listahan ng gear",
+      "Natututo sa paglipas ng panahon"
+    ]
+  },
+  "agent": {
+    "userMessage": "Anumang mga bukas na lugar sa buong araw na paglalakbay ng Sabado?",
+    "agentResponse": "Ang buong araw ng Sabado ay may 4 na puwesto na natitira sa 10. Mayroon ka ring kalahating araw na pagtakbo sa umaga na ganap na naka-book at isang multi-araw na pag-alis sa Linggo na may 2 puwesto na bukas. Gusto ko bang mag-draft ng tugon sa anumang nakabinbing mga katanungan na may availability sa Sabado?",
+    "followUp": "Bumuo ng tugon kay Jennifer na may kakayahang magamit sa Agosto 9",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon kay Jennifer na nagkukumpirma sa Agosto 9 para sa 6 na bisita sa $150/tao. Kasama dito ang iyong karaniwang mga detalye ng biyahe, listahan ng gear, at lokasyon ng pagpupulong. Handa nang suriin at ipadala."
+  },
+  "testimonialsTitle": "Gustung-gusto ng mga gabay sa ilog at outfitters",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Rafting Outfitter, CO",
+      "quote": "Sa peak season, nasa ilog ako 6 na araw sa isang linggo. Sa oras na babalik ako sa mga email, kalahati ng mga grupo ay nakapag-book na sa ibang tao. Ngayon, ang mga draft ng Duet ay tumutugon sa mga detalye ng biyahe at pagpepresyo habang ako ay nasa put-in.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Kayak at SUP Tours, OR",
+      "quote": "Ang bawat customer ay nagtatanong ng parehong limang tanong — pagpepresyo, kung ano ang dadalhin, antas ng kasanayan, laki ng grupo, patakaran sa pagkansela. Nalaman ng duet ang lahat ng ito sa unang linggo. Nagpunta ako mula sa isang oras ng mga email bawat gabi hanggang sa limang minuto ng pagrepaso ng mga draft.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Multi-Day Expedition Guide, AK",
+      "quote": "Nagpapatakbo ako ng 5-araw na biyahe nang walang serbisyo sa cell. Bago ang Duet, ang bawat pagtatanong ay hindi nasasagot hanggang sa bumalik ako sa bayan. Ngayon ang mga customer ay nakakakuha ng isang detalyadong tugon sa loob ng ilang minuto at kinukumpirma ko kapag nasa labas na ako ng ilog.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Tagapamahala ng Opisina ng River Adventures, WV",
+      "quote": "Pinamamahalaan ko ang mga booking para sa tatlong gabay sa apat na uri ng biyahe. Kinakategorya ng duet ang bawat email ayon sa pagkaapurahan at mga draft na tugon na may tamang biyahe, tamang presyo, tamang listahan ng gear. Ito ay tulad ng pag-clone ng aking sarili.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "Kami ay nag-aalinlangan na AI ay maaaring humawak ng mga email na partikular sa rafting. Ngunit kinuha nito ang aming mga paglalarawan sa Class III vs. Class IV, mga minimum na edad, maging ang aming patakaran sa wet-exit na kayak. Iniisip ng mga customer na kinakausap nila kami.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Gumugol ng tag-init sa ilog, \nhindi nakakakuha ng email.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
+  "verticalFaqs": [
+    {
+      "question": "Pinangangasiwaan ba ng Duet ang mga custom na quote sa paglalakbay at maraming araw na mga katanungan sa ekspedisyon?",
+      "answer": "Oo. Nalaman ng Duet ang iyong buong lineup ng biyahe — mga half-day float, full-day rapids, multi-day expeditions — kasama ang pagpepresyo, kung ano ang kasama, mga minimum na edad, at mga antas ng kahirapan. Kapag may nagtanong tungkol sa isang 3-araw na biyahe para sa 6, nag-draft ito ng kumpletong tugon na may mga tamang detalye. I-review mo, i-tweak kung kailangan, at ipadala."
+    },
+    {
+      "question": "Off-grid ako sa mga multi-day trip. Gumagana pa ba ang duet?",
+      "answer": "Iyan ang eksaktong problema na nalulutas ng Duet. Habang nasa ilog ka na walang signal, ang mga draft ng Duet ay tumutugon sa bawat tanong na pumapasok. Kapag nakabalik ka na sa hanay, naghihintay ang iyong mga draft — suriin at ipadala lang. Sinasabi sa amin ng karamihan sa mga gabay na inaalis nito ang backlog na kinakaharap nila pagkatapos ng bawat multi-day trip."
+    }
+  ],
+  "pricingNote": "Sa $150/tao, dalawang naka-save na booking ang sumasakop sa isang buong taon na Pro."
+}

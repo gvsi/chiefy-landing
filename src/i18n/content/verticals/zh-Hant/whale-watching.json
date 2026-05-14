@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail 賞鯨之旅 | AI 郵件助手",
+  "metaDescription": "Duet Mail 幫助觀鯨船長即時回覆預訂電子郵件——即使是在水中。 AI 起草的回覆包含您的旅遊詳細資料、價格和語音。",
+  "heroBadge": "受到 300 多名隊長的信賴",
+  "heroHeadline": "當您外出觀賞鯨魚時，您的電子郵件助手",
+  "heroSubline": "Duet 了解您的旅行日程、定價和語音，然後起草電子郵件回覆，這樣您在水上時就不會丟失預訂。",
+  "inboxEmails": [
+    {
+      "from": "雷切爾·T。",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "8 人團體 - 6 月 14 日有空嗎？",
+      "preview": "嗨！我們一家八口來訪一週。 6 月 14 日上午的行程還有空位嗎？一個人的價格是多少？兒童可以嗎？",
+      "pill": "回應",
+      "pillColor": "red"
+    },
+    {
+      "from": "詹姆斯和凱西 L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "私人包機價格？",
+      "preview": "我們很樂意為我們的周年紀念日預訂私人賞鯨之旅。我們兩個人2小時的私人包車費用是多少？",
+      "pill": "高價值",
+      "pillColor": "amber"
+    },
+    {
+      "from": "遊輪港櫃檯",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "時間表變更 — 珊瑚公主號提前 1 小時抵達",
+      "preview": "注意：明天珊瑚公主號的抵達時間已從上午 10 點推遲到上午 9 點。請相應調整任何港口遊覽皮卡...",
+      "pill": "緊急",
+      "pillColor": "blue"
+    },
+    {
+      "from": "到到網",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "對您的清單的新評論",
+      "preview": "一位旅客最近評價了您的商家。看看他們怎麼說並回應...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "嘿雷切爾！ 6 月 14 日上午的遊覽可容納 8 人。遊覽費用為 125 美元/人，4-12 歲兒童半價。我們於上午 9 點從港口出發，行程約 2.5 小時。提供雙筒望遠鏡－只需帶上外套和防曬霜。要我預留8個位置嗎？",
+  "math": {
+    "pricePerBooking": "$750",
+    "bookingUnit": "旅行團",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,250",
+    "punchline": "保存的團體預訂可支付一年的 Duet。"
+  },
+  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，以便您首先看到預訂請求，其次是看到遊輪時間表更改，並且永遠不會產生噪音。再也不會錯過隱藏在 TripAdvisor 警報中的私人包機查詢。",
+  "draftSubtitle": "Duet 了解您的旅行時間、定價和政策。當收到預訂查詢時，它會起草一份完整的回覆，其中包含可用性、包含的內容以及需要攜帶的內容。您審閱並發送。",
+  "agentSubtitle": "“週六早上的行程還剩多少名額？” “起草一份給雷切爾的答复，並有空。” Duet 了解您的收件箱和日程安排 — 只需詢問即可。",
+  "categorizationEmails": [
+    {
+      "from": "雷切爾·T。",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "8 人團體 - 6 月 14 日有空嗎？",
+      "preview": "我們是 8 口之家來訪一週...",
+      "pill": "立即回覆",
+      "pillColor": "red"
+    },
+    {
+      "from": "詹姆斯·L。",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "回覆：私人包機已確認 - 週六下午 2 點",
+      "pill": "已預訂",
+      "pillColor": "blue"
+    },
+    {
+      "from": "梅根·S。",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "明天的巡演會進行嗎？風看起來很粗暴",
+      "pill": "問題",
+      "pillColor": "amber"
+    },
+    {
+      "from": "費爾港",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "每日預訂摘要 — 3 個新預訂",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "船舶供應公司",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "夏季清倉 — 安全裝備 15% 折扣",
+      "pill": "促銷",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "回覆：8 人團體 - 6 月 14 日有空嗎？",
+    "originalFrom": "雷切爾·T.寫道：",
+    "originalText": "嗨！我們一家八口來訪一週。 6 月 14 日上午的行程還有空位嗎？一個人的價格是多少？兒童可以嗎？",
+    "lines": [
+      "嘿雷切爾！",
+      "6月14日上午的遊覽有足夠的空間容納8人。門票125美元/人，4-12歲兒童半價。我們早上 9 點出發，11:30 左右回來。",
+      "提供雙筒望遠鏡和雨具－只需帶上保暖衣物和防曬霜。孩子們很喜歡在觀景台上。",
+      "要我鎖定8個名額嗎？"
+    ],
+    "highlightText": "6月14日上午團，有足夠的空間容納8人。門票125美元/人",
+    "tooltipFeatures": [
+      "了解您的旅行時間和價格",
+      "你的聲音中的草稿",
+      "包括自動攜帶的物品",
+      "隨著時間的推移學習"
+    ]
+  },
+  "agent": {
+    "userMessage": "週六早上的遊覽還剩多少名額？",
+    "agentResponse": "根據您的預訂，週六上午 9 點的旅遊有 44 個席位中的 18 個席位已滿，其中 26 個席位仍在開放中。下午的遊覽在 44 人中的 40 人中幾乎已滿。想要我在周六上午有空的情況下起草一份對任何懸而未決的詢問的答复嗎？",
+    "followUp": "起草給 Rachel 的回覆，確認 8 位客人的 6 月 14 日",
+    "followUpResponse": "完成！我起草了一份給 Rachel 的回覆，確認 6 月 14 日上午的 8 位客人遊覽，價格為 125 美元/人。其中包括出發時間、提供的物品以及攜帶的物品。準備審查並發送。"
+  },
+  "testimonialsTitle": "深受賞鯨船長的喜愛",
+  "testimonials": [
+    {
+      "name": "戴夫H 船長",
+      "title": "阿拉斯加州野生動物旅行社",
+      "quote": "遊輪乘客需要快速得到答案——他們在港口只有 6 個小時的時間。我曾經失去過私人包機，因為當詢價到來時我正在水上。現在，Duet 在我靠岸之前就起草了包含我的定價和提貨詳細資訊的回應。",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "瑪麗亞和路易斯R.",
+      "title": "家庭賞鯨，加州",
+      "quote": "在座頭鯨季節，我們每天進行兩次旅行，電子郵件數量令人難以置信。 “我們會看到鯨魚嗎？” “我該穿什麼？” “明天取消嗎？” Duet 處理重複性問題，我們專注於遊覽。",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "本·T 船長",
+      "title": "夏威夷遠洋遊覽",
+      "quote": "我每晚都回答同樣的 10 個問題——價格、包含什麼、暈船提示、兒童年齡限制。 Duet 在第一週就學會了這一切。我的回覆時間從 8 小時縮短到 8 分鐘。",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "金·W.",
+      "title": "西北太平洋預約經理",
+      "quote": "天氣取消是最糟糕的——有 30 個人需要同時重新預訂，而我卻要忙著打電話。 Duet 為每位客人起草個人化的重新安排電子郵件。以前需要 2 小時的事情現在只需 15 分鐘。",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "傑西和內特P.",
+      "title": "小船野生動物之旅，不列顛哥倫比亞省",
+      "quote": "我們是一個兩人團隊──我負責隊長，她負責後勤工作。在旺季期間，她每晚要花 3 個小時處理電子郵件。 Duet 將時間縮短至 30 分鐘。她現在實際上又恢復了晚上的生活。",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "在水上度過鯨魚季節，\n不在您的收件匣中。",
+  "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
+  "verticalFaqs": [
+    {
+      "question": "Duet 是否可以處理因天氣原因取消和遊輪時間表更改的情況？",
+      "answer": "是的。當您因天氣原因或遊輪到達時間改變而取消旅行時，您可以告知 Duet 一次，它會為每位受影響的客人起草個性化的重新安排或更新電子郵件。不再需要將同一則訊息複製貼上 30 次。每個回覆均包含客人原始的預訂詳細資訊和可用的替代方案。"
+    },
+    {
+      "question": "我們不斷收到同樣的問題—「我們會看到鯨魚嗎？」、「我該穿什麼？」、「孩子可以嗎？」Duet 可以處理這些嗎？",
+      "answer": "這正是 Duet 的閃光點。它會學習您的標準答案——您通常看到的物種、需要攜帶的物品、年齡政策、暈船提示、出發時間——並立即起草完整的答案。您審閱並發送。大多數隊長告訴我們，他們的收件匣中 80% 都是相同的 10 個問題，而 Duet 可以處理所有這些問題。"
+    }
+  ],
+  "pricingNote": "每人 125 美元，節省的 6 人團體可支付一年以上 Pro。"
+}

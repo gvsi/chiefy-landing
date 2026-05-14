@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | AI Email Assistant para sa Gmail at Outlook",
+    "description": "Ang AI email assistant ni Duet Mail ay nagbubuod ng mga email, nag-draft ng mga tugon, at nag-aayos ng iyong inbox. Gumagana sa Gmail at Outlook. Makatipid ng 4+ na oras kada linggo."
+  },
+  "hero": {
+    "badge": "Available na ngayon sa halagang Gmail at Outlook",
+    "headlinePrefix": "Iyong ",
+    "headlineHighlight": "punong tauhan",
+    "headlineSuffix": " para sa",
+    "rotatingFeatures": [
+      "pag-uuri ng email",
+      "pagbalangkas ng mga tugon",
+      "pag-iiskedyul",
+      "paghahanap ng mga sagot"
+    ],
+    "subline": "Makatipid ng 4+ na oras bawat linggo sa email",
+    "primaryCta": "Magsimula sa Gmail",
+    "secondaryCta": "Magsimula sa Outlook",
+    "trialNote": "Libreng 14 na araw na pagsubok",
+    "cancelNote": "Kanselahin anumang oras"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Instant na pagkakategorya",
+      "AI-powered na mga tugon"
+    ],
+    "windowTitle": "Inbox",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "Kahapon"
+    ],
+    "autodraftLabel": "Autodraft",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Timeline ng Paglulunsad ng Produkto",
+        "preview": "Hoy! Gustong mag-check in sa mga asset ng paglulunsad. Nasa track pa ba tayo para sa susunod na linggo...",
+        "pill": "Upang Tumugon"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Mabilis na pag-sync ngayong hapon?",
+        "preview": "Gustung-gusto na makahabol sa mga update sa roadmap. Libre ka ba mga 4pm...",
+        "pill": "Pagpupulong"
+      },
+      {
+        "from": "Marketing",
+        "avatarLetter": "M",
+        "subject": "Handa na ang mga Resulta ng Kampanya",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Handa na ang iyong tindahan para sa Black Friday",
+        "pill": "Mga promosyon"
+      }
+    ],
+    "autodraft": "Hi Alex! Oo, kami ay nasa landas. Natapos ng team ng disenyo ang mga asset kahapon at ipapadala ko ang mga huling file bago ang EOD ngayon."
+  },
+  "logos": {
+    "ariaLabel": "Mga logo ng customer",
+    "headingPrefix": "Pinagkakatiwalaan ng pagtingin sa hinaharap",
+    "headingHighlight": " mga propesyonal at pangkat ",
+    "headingSuffix": "sa buong mundo"
+  },
+  "features": {
+    "ariaLabel": "Mga tampok",
+    "eyebrow": "Ang iyong Inbox, Supercharged",
+    "title": "Hindi dapat pagmamay-ari ng iyong inbox ang araw mo",
+    "subtitle": "Gawing malinaw ang kaguluhan gamit ang AI na talagang nakakakuha sa iyo. \nMakatipid ng 3+ na oras bawat linggo gamit ang pinakamatalinong email assistant para sa Gmail at Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "Mga draft sa email na parang Ikaw",
+        "description": "Ang Duet AI email writer ay naghahanda ng mga draft para sa iyong pinakamahahalagang email. Natututunan nito ang iyong tono at mga istilo ng pagsulat.",
+        "ariaLabel": "Mga draft sa email na parang ikaw",
+        "mockCopy": {
+          "draftedColdEmail": "Nag-draft ako ng malamig na email na naka-personalize para kay John",
+          "sampleText": "AI pipelines ay mahalaga para sa pagbuo ng matatag, scalable, at mahusay na AI system.",
+          "readyToSend": "Handa nang ipadala?",
+          "remindFollowUp": "Paalalahanan akong mag-follow up."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Mga Instant na Buod at Aksyon na Item",
+        "description": "Kunin ang TL;DR at mga item ng pagkilos mula sa iyong mga nilalaman ng email sa ilang segundo. Wala nang nagbabasa ng mga nobela sa iyong inbox.",
+        "ariaLabel": "Mga instant na buod at mga item ng pagkilos",
+        "mockCopy": {
+          "sentencePrefix": "Iminumungkahi ko na tayo ",
+          "sentenceHighlight": "magkita sa susunod na linggo",
+          "sentenceSuffix": " ?",
+          "actionTitle": "Bagong Aksyon Item",
+          "actionLead": "Natagpuan ko ang mga libreng slot na ito sa iyong kalendaryo",
+          "slots": [
+            "Martes, alas-10 ng umaga",
+            "Huwebes, alas-2 ng hapon",
+            "Biyernes, 9am"
+          ],
+          "secondaryButton": "Maghanap ng higit pa",
+          "primaryButton": "Ipadala"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Mga Matalinong Paalala",
+        "description": "Itakda ito at kalimutan ito. Naaalala ni Duet AI na mag-follow up kapag ang iba ay hindi tumugon, kaya walang nahuhulog sa mga bitak.",
+        "ariaLabel": "Mga matalinong paalala",
+        "mockCopy": {
+          "header": "AI-Powered Smart Reminders",
+          "stats": [
+            {
+              "label": "Pagsubaybay",
+              "value": "12",
+              "unit": "mga email"
+            },
+            {
+              "label": "Para sumagot",
+              "value": "2",
+              "unit": "mga email"
+            },
+            {
+              "label": "Nakumpleto",
+              "value": "3",
+              "unit": "mga item ng aksyon"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Kumpletuhin ang mga gawain sa pagsulat",
+              "time": "2 araw ang nakalipas"
+            },
+            {
+              "title": "Pagsasama ng Proyekto",
+              "time": "12 oras ang nakalipas"
+            }
+          ],
+          "actions": [
+            "Sundin",
+            "Mag-reschedule?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Tumutok sa Kung Ano ang Mahalaga",
+        "description": "Pinalalabas muna ng matalinong pagkakategorya ang iyong pinakamahahalagang email, at ikinakategorya ang mga email sa mga paksa. Ang Pamamahala ng Email ay hindi kailanman naging mas madali.",
+        "ariaLabel": "Tumutok sa kung ano ang mahalaga",
+        "mockCopy": {
+          "analyzing": "PAGSUSURI"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "Organisasyon ng email at matalinong pagkakategorya ng inbox",
+    "badge": "Organisasyon",
+    "title": "Inaayos ng duet ang iyong inbox",
+    "subtitle": "Pini-filter ng awtomatikong pagkakategorya ang ingay at pinalalabas kung ano ang mahalaga. Agad na makita kung ano ang nangangailangan ng aksyon, kung ano ang FYI lang, at kung ano ang maaaring maghintay.",
+    "windowTitle": "Inbox",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "Kahapon",
+      "Disyembre 20"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "Q4 Kahilingan sa Pagsusuri ng Badyet",
+        "preview": "Ang mga tinapos na numero ay nakalakip. Mangyaring suriin sa pamamagitan ng EOD.",
+        "pill": "Kailangan ng Aksyon"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Team standup bukas ng 10am",
+        "pill": "Pagpupulong"
+      },
+      {
+        "from": "Koponan ng Disenyo",
+        "avatarLetter": "D",
+        "subject": "Na-publish ang mga bagong alituntunin ng brand",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Ang iyong buwanang pahayag ay handa na",
+        "pill": "Mga promosyon"
+      },
+      {
+        "from": "Newsletter",
+        "subject": "Lingguhang digest",
+        "pill": "Mga promosyon"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI pagbalangkas ng email at pagbuo ng tugon",
+    "badge": "Pag-draft",
+    "title": "Duet draft sa iyong boses",
+    "subtitle": "Natututo ang duet kung paano ka sumulat at nag-draft ng mga tugon na tumutugma sa iyong tono. Suriin, ayusin kung kinakailangan, at ipadala sa ilang segundo.",
+    "windowTitle": "Bagong Mensahe",
+    "fieldLabels": {
+      "to": "kay:",
+      "subject": "Paksa:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Mabilis na pag-sync ngayong linggo?",
+      "originalFrom": "Sumulat si Alex Rivera:",
+      "originalText": "Hoy! Gustong maabutan ang mga pagbabago sa roadmap. Libre ka ba para sa isang 30-min na tawag ngayong linggo? Ipaalam sa akin kung ano ang gumagana para sa iyo.",
+      "badge": "Autodrafted",
+      "lines": [
+        "Hoy Alex!",
+        "Gustong mag-sync sa roadmap. Libre ako Huwebes 2-4pm o Biyernes ng umaga — alinman ay mahusay para sa akin.",
+        "Ipaalam sa akin kung ano ang pinakaangkop sa iyo at magpapadala ako ng imbitasyon.",
+        "Salamat!  "
+      ],
+      "highlightText": "Libre ako Huwebes 2-4pm o Biyernes ng umaga",
+      "actions": [
+        "Ipadala",
+        "I-edit"
+      ],
+      "tooltipTitle": "Personalized na Draft",
+      "tooltipFeatures": [
+        "Alam ang iyong kalendaryo",
+        "Mga draft sa iyong boses",
+        "Alam ang konteksto sa pamamagitan ng memorya",
+        "Natututo sa paglipas ng panahon"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI email intelligence at assistant",
+    "badge": "Katalinuhan",
+    "title": "Magtanong ng kahit ano tungkol sa iyong email",
+    "subtitle": "Hilingin sa Duet na maghanap ng mga email, tingnan ang iyong kalendaryo, o mag-draft ng tugon. Naiintindihan nito ang iyong inbox at sumasagot kaagad.",
+    "windowTitle": "Duet Agent",
+    "onlineLabel": "Online",
+    "initialUserMessage": "Mahahanap mo ba ang Stripe invoice na ipinadala ng Accounting?",
+    "processingText": "Naghahanap sa inbox...",
+    "foundHeader": "Nakakita ng 2 email mula kay Stripe",
+    "foundBody": "Nakita ko ang resibo para sa $29.00 USD mula ika-24 ng Okt.",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Bumuo ng tugon"
+      },
+      {
+        "action": "calendar",
+        "label": "Humanap ng oras para magkita"
+      }
+    ],
+    "inputPlaceholder": "Magtanong ng kahit ano...",
+    "dynamicResponses": {
+      "processingDefault": "Pinoproseso...",
+      "processingDraft": "Bumubuo ng draft...",
+      "processingCalendar": "Sinusuri ang availability...",
+      "draftIntro": "Narito ang isang draft na tugon sa Accounting:",
+      "draftHeader": "Draft: accounting@company.com",
+      "draftLines": [
+        "Hi Team,",
+        "Pakihanap na nakalakip ang Stripe invoice para sa Oktubre ($29.00).",
+        "Ipaalam sa akin kung may kailangan ka pa.",
+        "Pinakamahusay,"
+      ],
+      "draftActions": [
+        "Magpadala ng Email",
+        "I-edit"
+      ],
+      "calendarIntro": "May 3 slot kang bukas bukas:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "30 min"
+        },
+        {
+          "time": "2:00 PM",
+          "duration": "30 min"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "I-draft din ang sagot?",
+        "calendarAfterDraft": "Mag-iskedyul din ng follow-up?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Mga testimonial",
+    "scrollingAriaLabel": "Pag-scroll ng mga testimonial",
+    "eyebrow": "Mga testimonial",
+    "title": "Mahal ng mga abalang propesyonal",
+    "subtitle": "Mga totoong tao. Panalo ang totoong inbox.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Freelancer",
+        "quote": "Sulit ang bawat sentimo. Ang oras na nagtitipid ako sa email ay nagbabayad ng Duet Mail 10x lampas. Hindi ko maisip na magtrabaho nang wala ito ngayon.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Sales Executive",
+        "quote": "Ang mga instant na buod ng mahabang email thread ay purong magic, at kaya user-friendly. Iniisip ng mga kliyente ko na superhuman ako.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Entrepreneur",
+        "quote": "Nag-aalinlangan sa paggamit ng artificial intelligence para sa aking mga email. Ngayon, parang may makikinang na executive assistant. Hindi ko maisip na bumalik.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Consultant",
+        "quote": "Bilang consultant, mahalaga ang bawat minuto. Ang Duet Mail ay hindi lamang nakakatipid sa akin ng oras—nagagawa nitong mas matalas ang aking komunikasyon sa email.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "Direktor sa Marketing",
+        "quote": "Panghuli, isang AI mail assistant na talagang natututo kung paano ako sumulat. Ang mga instant na tugon ay napaka-spot-on, naisip ng aking koponan na nagtatrabaho ako sa hatinggabi.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Pagpepresyo",
+    "eyebrow": "Pagpepresyo",
+    "heading": "Simpleng pagpepresyo, malakas na inbox",
+    "subheading": "Magsimula nang libre, mag-upgrade anumang oras. Kanselahin kahit kailan.",
+    "billingLegend": "Indayog ng pagsingil",
+    "billingAnnual": "Taunang",
+    "billingMonthly": "Buwan-buwan",
+    "savingsTag": "Makatipid ng 33%",
+    "priceCadence": "/month",
+    "perUserSuffix": "/user",
+    "annualBillingSuffix": "(sisingilin taun-taon)",
+    "trustItems": [
+      "Secure na pag-checkout sa pamamagitan ng Stripe",
+      "Kanselahin anumang oras"
+    ],
+    "plans": [
+      {
+        "name": "Basic",
+        "description": "Para sa sinumang gustong malaman kung ano ang pakiramdam ng isang mas matalinong inbox. Walang kinakailangang pangako.",
+        "priceLabel": "Free",
+        "features": [
+          {
+            "title": "Mga Instant na Buod",
+            "description": "Kunin ang diwa ng anumang thread"
+          },
+          {
+            "title": "AI Mga draft",
+            "description": "Isang lasa ng mga tugon sa iyong boses"
+          },
+          {
+            "title": "Smart Inbox",
+            "description": "Pangunahing organisasyon na magsisimula"
+          },
+          {
+            "title": "Duet Assistant",
+            "description": "Subukan ang AI assistant"
+          }
+        ],
+        "ctaLabel": "Piliin ang Gmail o Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "14 na araw na libreng pagsubok",
+        "description": "Para sa mga propesyonal na gusto ng mas malalim na automation, mga pagsasama, at isang inbox na tunay na nakakaalam kung paano ka nagtatrabaho.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Smart Inbox",
+            "description": "Awtomatikong inuri-uri ang mga email sa mga matalinong kategorya",
+            "highlight": true
+          },
+          {
+            "title": "AI Mga draft",
+            "description": "Mga tugon na nakasulat sa iyong boses, handang ipadala",
+            "highlight": true
+          },
+          {
+            "title": "Duet Assistant",
+            "description": "Makipag-chat upang maghanap, mag-draft, mag-ayos at higit pa",
+            "highlight": true
+          },
+          {
+            "title": "Pagsasama ng Kalendaryo",
+            "description": "Mag-iskedyul, tingnan at pamahalaan ang mga kaganapan mula sa iyong inbox"
+          },
+          {
+            "title": "Mga Instant na Buod",
+            "description": "Kunin ang diwa ng anumang thread o attachment"
+          },
+          {
+            "title": "Mga Matalinong Paalala",
+            "description": "Awtomatikong lumalabas ang mga follow-up kaya walang madulas"
+          },
+          {
+            "title": "Priyoridad na Suporta",
+            "description": "Tunay na tao, mabilis na tugon"
+          }
+        ],
+        "ctaLabel": "Piliin ang Gmail o Outlook",
+        "featured": true
+      },
+      {
+        "name": "Enterprise",
+        "description": "Para sa mga organisasyong nangangailangan ng antas ng antas ng negosyo, nakatuong suporta, at mga custom na daloy ng trabaho. Pinakamahusay para sa mga koponan ng 50+.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Lahat sa Pro",
+            "description": "Kasama ang lahat ng mga tampok"
+          },
+          {
+            "title": "Nakatuon na Suporta",
+            "description": "Personal na account manager"
+          },
+          {
+            "title": "Team Analytics",
+            "description": "Mga insight sa iyong organisasyon"
+          },
+          {
+            "title": "Mga Ibinahaging Daloy ng Trabaho",
+            "description": "Mga template at automation para sa mga team"
+          }
+        ],
+        "ctaLabel": "Makipag-ugnayan sa mga benta",
+        "ctaNote": "Available ang custom na pagpepresyo"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Mga madalas itanong",
+    "eyebrow": "FAQ",
+    "headingPrefix": "Mga karaniwang tanong, ",
+    "headingAccent": "sumagot",
+    "contactDecorative": "?",
+    "contactLabel": "CONTACT",
+    "contactHeading": "May mga tanong pa ba?",
+    "contactCta": "Makipag-ugnayan →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Paano pinoprotektahan ng Duet Mail ang data ng aking email?",
+        "answer": "Ang iyong seguridad ang aming pangunahing priyoridad. Gumagamit kami ng OAuth 2.0 para sa secure na pagpapatotoo sa parehong Google at Microsoft. Ang nilalaman ng email ay naka-encrypt nang pahinga gamit ang client-side field-level encryption, at sinusunod namin ang prinsipyo ng hindi bababa sa pribilehiyo para sa API access. Para sa aming Google na pagsasama, sumasailalim kami sa taunang pagtatasa ng seguridad ng CASA ng Google."
+      },
+      {
+        "question": "Paano gumagana ang tampok na buod ng email?",
+        "answer": "Gumagamit ang Duet Mail ng advanced na AI upang suriin ang iyong mga email thread at bumuo ng isang maigsi na pangkalahatang-ideya na nagha-highlight sa mga pangunahing punto, desisyon, at item ng pagkilos. Tinutulungan ka nitong mabilis na maunawaan ang konteksto nang hindi binabasa ang buong thread."
+      },
+      {
+        "question": "Anong mga pahintulot ang kailangan ni Duet Mail?",
+        "answer": "Ang Duet Mail ay nangangailangan ng access sa iyong mga email upang magbigay ng mga buod, kumuha ng mga item ng pagkilos, bumuo ng nilalaman, at ipadala ang iyong mga email. Humihiling lamang kami ng mga pahintulot na talagang kailangan namin. Maaari mong suriin at bawiin ang mga pahintulot na ito anumang oras sa iyong Google Account o Microsoft na mga setting ng Account."
+      },
+      {
+        "question": "Ano ang kasama sa libreng pagsubok?",
+        "answer": "Kasama sa 14 na araw na libreng pagsubok ang ganap na access sa lahat ng Pro na feature: walang limitasyong mga buod ng email, pagkuha ng item ng aksyon, AI na manunulat ng email (bumubuo ng mga email at draft nang walang anumang limitasyon), at mga custom na template ng email. Mag-sign in gamit ang Google o Microsoft upang magsimulang makatipid ng oras sa pamamahala ng email."
+      },
+      {
+        "question": "Maaari ko bang gamitin ang Duet Mail sa ibang mga email provider?",
+        "answer": "Sinusuportahan ng Duet Mail ang Gmail, Google Workspace, at Microsoft Outlook. Mag-sign in gamit ang iyong Google o Microsoft account upang makapagsimula."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Magsimula",
+    "headline": "Kumuha ng 4 na oras pabalik. \nLinggo-linggo.",
+    "subline": "Sumali sa mga propesyonal na nagsisimula sa kanilang araw nang may kalinawan, hindi kaguluhan. Naghihintay ang iyong libreng pagsubok.",
+    "primaryCta": "Magsimula sa Gmail",
+    "secondaryCta": "Magsimula sa Outlook",
+    "note": "14 na araw na libreng pagsubok · Kanselahin anumang oras",
+    "trustItems": [
+      "Google CASA-assessed",
+      "Naka-encrypt sa pahinga",
+      "Secure ang OAuth 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "footer ng site",
+    "brandIconAlt": "icon na Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Ang AI Email Assistant na nakakatipid sa iyo ng oras bawat linggo",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Galugarin",
+        "links": [
+          {
+            "label": "Organisasyon",
+            "href": "/fil#organization"
+          },
+          {
+            "label": "Pag-draft",
+            "href": "/fil#drafting"
+          },
+          {
+            "label": "Katalinuhan",
+            "href": "/fil#intelligence"
+          },
+          {
+            "label": "Extension ng Chrome",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Mga customer",
+        "links": [
+          {
+            "label": "Pagpepresyo",
+            "href": "/fil#pricing"
+          },
+          {
+            "label": "Mga testimonial",
+            "href": "/fil#testimonials"
+          },
+          {
+            "label": "FAQ",
+            "href": "/fil#faq"
+          }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          {
+            "label": "Pagkapribado",
+            "href": "/fil/privacy"
+          },
+          {
+            "label": "Mga tuntunin",
+            "href": "/fil/terms"
+          },
+          {
+            "label": "Mga cookies",
+            "href": "/fil/cookies"
+          },
+          {
+            "label": "Disclaimer",
+            "href": "/fil/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Kumonekta",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "/fil/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup Fame",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Return on investment",
+    "label": "Ang math",
+    "narrativeTemplate": "Sa {pricePerBooking} bawat {bookingUnit}, nawawalan lang ng {lostPerMonth} sa mabagal na tugon =",
+    "lossSuffix": "/mo gone",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI Email Assistant para sa Gmail at Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Suporta sa Customer",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "AI email assistant para sa Gmail at Outlook na awtomatikong nagbubuod ng mga email, nag-draft ng mga tugon sa iyong boses, at nag-aayos ng iyong inbox upang makatipid ng oras bawat linggo.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Smart email na organisasyon at pagkakategorya",
+      "AI-powered na pag-draft ng email sa iyong boses",
+      "Matalinong email assistant na may pagsasama ng kalendaryo",
+      "Mga awtomatikong buod ng email at mga item ng pagkilos",
+      "Mga matalinong paalala para sa mga follow-up"
+    ],
+    "offers": [
+      {
+        "name": "Pangunahing Plano",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Libreng plano na may mga instant na buod, AI draft, at matalinong inbox"
+      },
+      {
+        "name": "Pro Plano",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Buong pag-access gamit ang matalinong pagkakategorya ng inbox, AI draft, katulong, at pagsasama ng kalendaryo"
+      }
+    ],
+    "operatingSystem": "Web",
+    "browserRequirements": "Nangangailangan ng JavaScript. Gumagana sa Gmail, Google Workspace, at Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/fil",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Paano pinoprotektahan ng Duet Mail ang data ng aking email?",
+        "answer": "Ang iyong seguridad ang aming pangunahing priyoridad. Gumagamit kami ng OAuth 2.0 para sa secure na pagpapatotoo sa parehong Google at Microsoft. Ang nilalaman ng email ay naka-encrypt nang pahinga gamit ang client-side field-level encryption, at sinusunod namin ang prinsipyo ng hindi bababa sa pribilehiyo para sa API access. Para sa aming Google na pagsasama, sumasailalim kami sa taunang pagtatasa ng seguridad ng CASA ng Google."
+      },
+      {
+        "question": "Paano gumagana ang tampok na buod ng email?",
+        "answer": "Gumagamit ang Duet Mail ng advanced na AI upang suriin ang iyong mga email thread at bumuo ng isang maigsi na pangkalahatang-ideya na nagha-highlight sa mga pangunahing punto, desisyon, at item ng pagkilos. Tinutulungan ka nitong mabilis na maunawaan ang konteksto nang hindi binabasa ang buong thread."
+      },
+      {
+        "question": "Anong mga pahintulot ang kailangan ni Duet Mail?",
+        "answer": "Ang Duet Mail ay nangangailangan ng access sa iyong mga email upang magbigay ng mga buod, kumuha ng mga item ng pagkilos, bumuo ng nilalaman, at ipadala ang iyong mga email. Humihiling lamang kami ng mga pahintulot na talagang kailangan namin. Maaari mong suriin at bawiin ang mga pahintulot na ito anumang oras sa iyong Google Account o Microsoft na mga setting ng Account."
+      },
+      {
+        "question": "Ano ang kasama sa libreng pagsubok?",
+        "answer": "Kasama sa 14 na araw na libreng pagsubok ang ganap na access sa lahat ng Pro na feature: walang limitasyong mga buod ng email, pagkuha ng item ng aksyon, AI na manunulat ng email (bumubuo ng mga email at draft nang walang anumang limitasyon), at mga custom na template ng email. Mag-sign in gamit ang Google o Microsoft upang magsimulang makatipid ng oras sa pamamahala ng email."
+      },
+      {
+        "question": "Maaari ko bang gamitin ang Duet Mail sa ibang mga email provider?",
+        "answer": "Sinusuportahan ng Duet Mail ang Gmail, Google Workspace, at Microsoft Outlook. Mag-sign in gamit ang iyong Google o Microsoft account upang makapagsimula."
+      }
+    ]
+  }
+}

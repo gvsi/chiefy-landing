@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail per a passejades a cavall i guies de senders | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els operadors de recorreguts a respondre als correus electrònics de reserva a l'instant, fins i tot des de la cadira. Respostes redactades per AI amb els vostres preus, requisits del motorista i veu.",
+  "heroBadge": "Més de 300 guies de senders confiats",
+  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al camí",
+  "heroSubline": "Duet coneix els vostres tipus de viatge, els preus, els requisits dels usuaris i les condicions de la ruta; després redacta les respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Reserva de grup per a 6 — dissabte al matí?",
+      "preview": "Hola! Som una família de 6 persones (2 adults, 4 nens d'entre 8 i 14 anys) i ens agradaria reservar un recorregut per senders aquest dissabte al matí. Tens disponibilitat? Quin és el preu per persona?",
+      "pill": "Per respondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Pregunta sobre el límit de pes",
+      "preview": "Hola, estic interessat a reservar un viatge, però primer volia preguntar sobre els vostres requisits de pes. Penso al voltant de 260 lliures, això serà un problema...",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy i Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Passeig al capvespre per aniversari?",
+      "preview": "Celebrem el nostre 10è aniversari el proper cap de setmana i vam veure la posta de sol a Instagram. Està disponible divendres al vespre? Qualsevol paquet especial...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova ressenya per a la teva fitxa",
+      "preview": "Un viatger ha fet una opinió recent sobre el teu negoci. Mireu què havien de dir i respondre...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Jessica! Dissabte al matí està obert per a les 6. Els nostres recorreguts per senders són de 100 dòlars per persona i tenen uns 90 minuts per la vall. Els nens de més de 8 anys són benvinguts; tots els vostres estan a punt. Cal calçat tancat i proporcionem cascs. Vols que et reservi el viatge de les 9 del matí?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "passeig",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Un viatge en grup guardat paga més de dos anys de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automàticament tots els correus electrònics perquè vegeu primer les sol·licituds de reserva, les preguntes dels usuaris en segon lloc i el soroll mai. Ja no et perdis una consulta de grup soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Duet coneix els vostres tipus de viatge, preus i requisits. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del recorregut, els preus i què cal posar-se. Tu revisa i envia.",
+  "agentSubtitle": "\"Alguna atracció oberta aquest cap de setmana?\" \"Esborra una resposta a Jessica amb disponibilitat dissabte\". Duet coneix la vostra safata d'entrada i el vostre calendari; només cal que ho pregunteu.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Reserva de grup per a 6 — dissabte al matí?",
+      "preview": "Som una família de 6 persones que busquem reservar una ruta...",
+      "pill": "Respon ara",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Sortida confirmada - divendres 17:30",
+      "pill": "Reservat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Límit de pes i requisits d'experiència?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Resum de la teva reserva setmanal",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Subministrament de tractors",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Rebaixes de primavera: 15% de descompte en pinsos i tacs",
+      "pill": "Promocions",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Group booking for 6 — Saturday morning?",
+    "originalFrom": "Jessica T. wrote:",
+    "originalText": "Hi! We're a family of 6 (2 adults, 4 kids ages 8-14) and would love to book a trail ride this Saturday morning. Do you have availability? What's the price per person?",
+    "lines": [
+      "Hola Jessica!",
+      "Dissabte al matí està totalment disponible per a 6. Les rutes a cavall costen 100 $ per persona i duren uns 90 minuts per la vall. Els nens a partir de 8 anys són benvinguts, així que tot el vostre grup pot venir.",
+      "Cal portar sabates tancades; les botes són ideals. Proporcionem cascs i assignem cada genet a un cavall segons la mida i l’experiència. No cal experiència prèvia.",
+      "Vols que et reservi la ruta de les 9 del matí?"
+    ],
+    "highlightText": "Dissabte al matí està totalment disponible per a 6. Les rutes a cavall costen 100 $ per persona",
+    "tooltipFeatures": [
+      "Coneix els teus preus i disponibilitat",
+      "Redacta amb la teva veu",
+      "Inclou automàticament els requisits dels genets",
+      "Aprèn amb el temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Alguna atracció oberta aquest cap de setmana? A més, quin temps fa?",
+    "agentResponse": "Segons el vostre calendari, teniu obertures dissabte a les 9 i a les 14 i diumenge a les 10. El pronòstic de dissabte és de 72 °F i assolellat, un temps perfecte per anar a cavall. Diumenge mostra un 40% de probabilitats de pluja a la tarda, de manera que l'horari del matí és l'aposta més segura. Vols que redacti respostes a qualsevol consulta pendent amb aquests horaris?",
+    "followUp": "Redacta una resposta a Jessica amb la disponibilitat del dissabte",
+    "followUpResponse": "Fet! Vaig redactar una resposta a Jessica confirmant dissabte a les 9 del matí per a 6 corredors a 100 dòlars per persona. Inclou els vostres requisits estàndards per al genet i què heu de posar. A punt per revisar i enviar."
+  },
+  "testimonialsTitle": "Estimat pels operadors de rutes de senders",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Propietari del ranxo i guia de rutes, MT",
+      "quote": "Estic al camí 6 hores al dia sense servei mòbil. Quan vaig tornar a respondre, la meitat de la gent havia reservat en un altre lloc. Ara Duet redacta respostes amb els meus preus i els detalls del viatge: només reviso i envio quan torno al graner.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Operador turístic a cavall, AZ",
+      "quote": "Rebem desenes de correus electrònics que demanen el mateix: límits de pes, què posar-se, requisits d'edat. Duet ho gestiona tot i les respostes sonen exactament com jo. Els meus convidats no tenen ni idea que és AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Trail Ride Guide, CO",
+      "quote": "La temporada alta m'estava matant. Més de 30 correus electrònics al dia a més de passejades corrents. Duet classifica les sol·licituds de reserva a partir del soroll i redacta respostes que inclouen tot: preus, què cal portar, el lot. Vaig recuperar les nits.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Raquel M.",
+      "title": "Instructor d'equitació i gerent de reserves, TX",
+      "quote": "Realitzem passejades al capvespre, passejades al matí i classes privades, cadascuna amb preus i requisits diferents. Duet ho va aprendre tot en una setmana. Elabora la resposta correcta per al tipus de viatge adequat cada vegada.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "Els correus electrònics sensibles eren els pitjors: algú preguntava si pesaven massa o si el seu fill tenia prou edat. Duet tracta aquells amb la mateixa cura que jo. Professional, amable i precís. Només això val la pena.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Passa el dia amb els cavalls,\nno a la teva safata d'entrada.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
+  "verticalFaqs": [
+    {
+      "question": "Com gestiona Duet les preguntes sensibles sobre els requisits de pes o experiència?",
+      "answer": "Duet aprèn les teves polítiques específiques i reflecteix el teu to. Quan algú pregunta sobre els límits de pes o els requisits d'experiència, respon de manera professional i cordial, compartint la informació que necessita sense fer-ho incòmode. Poseu el to una vegada i Duet el segueix constantment, de manera que tots els hostes se sentin respectats."
+    },
+    {
+      "question": "Duet pot gestionar les reserves de grup amb necessitats diferents dels usuaris?",
+      "answer": "Sí. Duet coneix els vostres tipus de viatge, les mides del grup, l'edat mínima i qualsevol requisit específic del motorista. Quan una família o un grup envia un correu electrònic sobre la reserva, redacta una resposta que inclou els preus per a tot el grup, el que cada motorista necessita saber i les franges horàries disponibles. Reviseu i envieu, sense necessitat d'anar i tornar."
+    }
+  ],
+  "pricingNote": "A 100 dòlars per persona per a un grup de 6, un viatge desat paga més de dos anys de Pro."
+}

@@ -1,32 +1,43 @@
 ---
+import LanguageMenu from "./LanguageMenu.astro"
 import ThemeToggle from "../ui/ThemeToggle.astro";
+import type { Locale } from "../../i18n/locales"
+import { localizedPath, type AlternateLink } from "../../i18n/routing"
+import { t, type Messages } from "../../i18n/messages/schema"
 
 type ActivePage = "terms" | "privacy" | "cookies" | "disclaimer"
 
 type Props = {
     active?: ActivePage
+    locale: Locale
+    messages: Messages
+    alternates: AlternateLink[]
 }
 
-const { active } = Astro.props
+const { active, locale, messages, alternates } = Astro.props
 
+const homePath = localizedPath(locale, { kind: "home" })
 const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = [
-    { key: "home", label: "Home", href: "/" },
-    { key: "terms", label: "Terms", href: "/terms" },
-    { key: "privacy", label: "Privacy", href: "/privacy" },
-    { key: "cookies", label: "Cookies", href: "/cookies" },
-    { key: "disclaimer", label: "Disclaimers", href: "/disclaimer" },
+    { key: "home", label: t(messages, "legalNav.home"), href: homePath },
+    { key: "terms", label: t(messages, "legalNav.terms"), href: localizedPath(locale, { kind: "legal", page: "terms" }) },
+    { key: "privacy", label: t(messages, "legalNav.privacy"), href: localizedPath(locale, { kind: "legal", page: "privacy" }) },
+    { key: "cookies", label: t(messages, "legalNav.cookies"), href: localizedPath(locale, { kind: "legal", page: "cookies" }) },
+    { key: "disclaimer", label: t(messages, "legalNav.disclaimer"), href: localizedPath(locale, { kind: "legal", page: "disclaimer" }) },
 ]
+
+const openMenuLabel = t(messages, "nav.openMenu")
+const closeMenuLabel = t(messages, "nav.closeMenu")
 ---
 
 <header class="site-nav fixed inset-x-0 top-0 z-50 backdrop-blur-[8px]">
     <div class="site-nav__bar mx-auto flex max-w-6xl items-center justify-between px-6 md:px-10">
-        <a href="/" class="flex items-center gap-2">
+        <a href={homePath} class="flex items-center gap-2">
             <img
                 src="/favicon.svg"
                 width="27"
                 height="27"
                 class="h-[27px] w-[27px]"
-                alt="Duet Mail icon"
+                alt=""
                 decoding="async"
             />
             <img
@@ -47,7 +58,7 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
             />
         </a>
 
-        <nav class="hidden items-center gap-6 md:flex" aria-label="Legal navigation">
+        <nav class="hidden items-center gap-6 xl:flex" aria-label={t(messages, "legalNav.aria")}>
             {links.map((link) => (
                 <a
                     class:list={[
@@ -69,9 +80,20 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
         </nav>
 
         <div class="flex items-center gap-3">
-            <ThemeToggle />
-            <details class="mobile-menu md:hidden" data-mobile-menu>
-                <summary class="mobile-menu-trigger" aria-label="Open navigation menu">
+            <LanguageMenu
+                locale={locale}
+                messages={messages}
+                alternates={alternates}
+                className="desktop-language-menu"
+            />
+            <ThemeToggle ariaLabel={t(messages, "theme.toggle")} />
+            <details class="mobile-menu xl:hidden" data-mobile-menu>
+                <summary
+                    class="mobile-menu-trigger"
+                    aria-label={openMenuLabel}
+                    data-open-label={openMenuLabel}
+                    data-close-label={closeMenuLabel}
+                >
                     <svg
                         class="mobile-menu-icon mobile-menu-icon--open"
                         width="20"
@@ -105,7 +127,7 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
                     </svg>
                 </summary>
 
-                <nav class="mobile-menu-panel" aria-label="Mobile legal navigation">
+                <nav class="mobile-menu-panel" aria-label={t(messages, "legalNav.mobileAria")}>
                     {links.map((link) => (
                         <a
                             class:list={[
@@ -124,6 +146,12 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
                             {link.label}
                         </a>
                     ))}
+                    <LanguageMenu
+                        locale={locale}
+                        messages={messages}
+                        alternates={alternates}
+                        className="mobile-menu-language"
+                    />
                 </nav>
             </details>
         </div>
@@ -138,11 +166,11 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
         const summary = menu.querySelector("summary")
         const updateAriaLabel = () => {
             if (!summary) return
+            const openLabel = summary.getAttribute("data-open-label")
+            const closeLabel = summary.getAttribute("data-close-label")
             summary.setAttribute(
                 "aria-label",
-                menu.hasAttribute("open")
-                    ? "Close navigation menu"
-                    : "Open navigation menu"
+                menu.hasAttribute("open") ? closeLabel : openLabel
             )
         }
 
@@ -213,7 +241,6 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
 
     @media (max-width: 767px) {
         .site-nav:has(details[data-mobile-menu][open]) {
-            height: 378px;
             background: var(--nav-mobile-bg);
         }
     }
@@ -282,9 +309,14 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
         left: 0;
         right: 0;
         top: 82px;
+        max-height: calc(100vh - 92px);
+        max-height: calc(100dvh - 92px);
+        overflow-y: auto;
         padding: 8px;
         gap: 8px;
         flex-direction: column;
+        background: var(--nav-mobile-bg);
+        border-bottom: 1px solid var(--nav-border);
     }
 
     .mobile-menu[open] .mobile-menu-panel {
@@ -310,8 +342,9 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
     .mobile-menu-link {
         display: flex;
         align-items: center;
-        height: 48px;
-        padding: 0 16px;
+        min-height: 48px;
+        height: auto;
+        padding: 10px 16px;
         font-family: "Manrope Variable", ui-sans-serif, system-ui, -apple-system,
             BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial;
         font-size: 14px;
@@ -320,6 +353,9 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
         color: var(--nav-text);
         text-decoration: none;
         border-radius: 10px;
+        flex-shrink: 0;
+        white-space: normal;
+        overflow-wrap: anywhere;
         transition: background 0.15s ease, color 0.15s ease;
     }
 
@@ -339,5 +375,15 @@ const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = 
 
     :global(html[data-theme="light"]) .mobile-menu-link--active {
         background: rgba(0, 0, 0, 0.04);
+    }
+
+    :global(.desktop-language-menu) {
+        display: none;
+    }
+
+    @media (min-width: 1280px) {
+        :global(.desktop-language-menu) {
+            display: block;
+        }
     }
 </style>

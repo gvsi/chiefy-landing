@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail per Lloguers de Pesca | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els capitans de xàrter de pesca a respondre als correus electrònics de reserva a l'instant, fins i tot des de l'aigua. Respostes redactades per AI amb els vostres preus, polítiques i veu.",
+  "heroBadge": "Confia en més de 500 capitans charter",
+  "heroHeadline": "El teu assistent de correu electrònic mentre estàs a l'aigua",
+  "heroSubline": "Duet coneix els vostres preus, les vostres polítiques i la vostra veu; després redacta esborranys de respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Sara M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Disponibilitat el 12 de juliol per a 4 persones?",
+      "preview": "Hola! Som un grup de 4 persones que busquem reservar una sortida de pesca el 12 de juliol. Tens disponibilitat? Quin és el preu per un dia sencer?",
+      "pill": "Per respondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Què hem de portar?",
+      "preview": "Hola, estem reservats per dissabte. Pregunta ràpida: què hem de portar? Proporcioneu canyes i material o hem de portar els nostres...",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike i Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Cal reprogramar a diumenge",
+      "preview": "Disculpeu l'avís tardà, però el pronòstic meteorològic sembla difícil dissabte. En canvi, podem passar a diumenge? al mateix temps...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova ressenya per a la teva fitxa",
+      "preview": "Un viatger ha fet una opinió recent sobre el teu negoci. Mireu què havien de dir i respondre...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Sarah! El 12 de juliol està obert per a 4. Els viatges de dia sencer tenen una durada de 8 hores, a partir de les 6 del matí. S'inclouen totes les canyes, material, esquer i llicències; només cal que porteu protector solar, aigua i una nevera per a la vostra captura. Vols que el tanqui?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "carta",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Una reserva desada paga un any de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, les preguntes en segon lloc i el soroll mai. Ja no et perdis una consulta de viatge soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Duet coneix els vostres preus, polítiques i to. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, els preus i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Quins dies estan oberts la setmana vinent?\" \"Esborra una resposta a la Sarah amb disponibilitat\". Duet coneix la vostra safata d'entrada i el vostre calendari; només cal que ho pregunteu.",
+  "categorizationEmails": [
+    {
+      "from": "Sara M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Disponibilitat el 12 de juliol per a 4 persones?",
+      "preview": "Som un grup de 4 que busquem reservar una sortida de pesca...",
+      "pill": "Respon ara",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Reserva confirmada: dissabte a les 7 del matí",
+      "pill": "Reservat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Què hem de portar dissabte?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Resum de la teva reserva setmanal",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marina Occidental",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Rebaixes de primavera: 20% de descompte en material",
+      "pill": "Promocions",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Availability July 12 for 4 people?",
+    "originalFrom": "Sarah M. wrote:",
+    "originalText": "Hi! We're a group of 4 looking to book a fishing trip on July 12. Do you have availability? What's the price for a full day?",
+    "lines": [
+      "Hola Sarah!",
+      "El 12 de juliol està totalment disponible per a 4. Les sortides de dia complet costen 500 $ i duren 8 hores, amb sortida a les 6 del matí des del port esportiu.",
+      "Tot l’equip, l’esquer i les llicències de pesca estan inclosos; només cal portar protector solar i una nevera.",
+      "Vols que ho reservi?"
+    ],
+    "highlightText": "El 12 de juliol està totalment disponible per a 4. Les sortides de dia complet costen 500 $",
+    "tooltipFeatures": [
+      "Coneix els teus preus i disponibilitat",
+      "Redacta amb la teva veu",
+      "Inclou equipament i detalls de la sortida",
+      "Aprèn amb el temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quins dies encara estan oberts la setmana vinent?",
+    "agentResponse": "Segons el vostre calendari, teniu obertures els dimarts, dijous i dissabte de la setmana vinent. Dilluns i dimecres estan complets (2 charters cadascun). Vols que redacti una resposta a qualsevol consulta pendent amb aquestes dates?",
+    "followUp": "Esborralleu una resposta a Sarah amb la disponibilitat del 12 de juliol",
+    "followUpResponse": "Fet! Vaig redactar una resposta a la Sarah confirmant el 12 de juliol per a 4 convidats a 500 $. Inclou els detalls del vostre viatge estàndard i la ubicació de la reunió. A punt per revisar i enviar."
+  },
+  "testimonialsTitle": "Estimat pels capitans charter",
+  "testimonials": [
+    {
+      "name": "El capità Mike D.",
+      "title": "Offshore Charter Captain, FL",
+      "quote": "Durant la temporada alta, perdria 2-3 reserves a la setmana només perquè no podia respondre amb prou rapidesa des del vaixell. Duet redacta les respostes amb els meus preus i els detalls del viatge: acabo de prémer enviar entre captures.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah i Tom K.",
+      "title": "Family Charter Business, OR",
+      "quote": "Tenim dos vaixells i el volum de correu electrònic durant l'estiu és boig. Duet classifica les sol·licituds de reserva de tota la resta i redacta respostes que sonen exactament com nosaltres. Un canvi de joc absolut.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Guia de pesca de baix cost, TX",
+      "quote": "Em passava una hora cada nit responent les mateixes preguntes de disponibilitat. Ara Duet ho gestiona. El meu temps de resposta va passar d'hores a minuts i des d'aleshores no he perdut cap reserva.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Charter Office Manager, HI",
+      "quote": "La gestió de correus electrònics per a 4 capitans era una feina a temps complet. Duet ho classifica tot i redacta respostes amb el vaixell adequat, el preu correcte i el capità adequat. És com tenir un altre jo.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Deep Sea Charters, NC",
+      "quote": "Era escèptic que un AI pogués gestionar correus electrònics de lloguer de pesca. Però va conèixer els nostres tipus de viatge, què s'inclou, fins i tot la nostra política de cancel·lació. Els clients no poden notar la diferència.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Passa la temporada alta a l'aigua,\nno a la teva safata d'entrada.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
+  "verticalFaqs": [
+    {
+      "question": "Duet funciona per als correus electrònics de reserves i disponibilitat?",
+      "answer": "Absolutament. Duet coneix els tipus de viatge, els preus, la disponibilitat i les polítiques. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls adequats: preus, què s'inclou, lloc de la reunió, què cal portar. Revisa i toca envia."
+    },
+    {
+      "question": "Estic tot el dia a l'aigua. Puc utilitzar Duet des del meu telèfon?",
+      "answer": "Sí. Duet funciona amb Gmail i Outlook, de manera que funciona allà on funcioni el vostre correu electrònic, inclòs el telèfon. Els esborranys apareixen automàticament. Entre les captures, reviseu i envieu amb un sol toc. La majoria dels capitans ens diuen que els estalvia entre 1 i 2 hores de correu electrònic al dia durant la temporada alta."
+    }
+  ],
+  "pricingNote": "Amb 500 $ per xàrter, una reserva desada paga més d'un any de Pro."
+}

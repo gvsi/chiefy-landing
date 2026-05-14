@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail za ronilačke prodavnice | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže vlasnicima ronilačkih prodavnica i PADI instruktorima da odmah odgovore na upite o sertifikaciji, rezervacije putovanja i pitanja o opremi — čak i pod vodom.",
+  "heroBadge": "Ima poverenja od 300+ ronilačkih operatera",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste pod vodom",
+  "heroSubline": "Duet uči vaše lokacije za ronjenje, zahteve za sertifikaciju, cene i glas — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju dok ste na brodu.",
+  "inboxEmails": [
+    {
+      "from": "Rejčel T.",
+      "avatarLetter": "R",
+      "avatarColor": "roze",
+      "subject": "Open Vater sertifikat — dostupnost?",
+      "preview": "Zdravo! Posećujem prvu nedelju avgusta i želim da dobijem sertifikat za otvorenu vodu. Koliko dana je potrebno i šta je uključeno?",
+      "pill": "To Respond",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Kevin i Ejmi L.",
+      "avatarLetter": "K",
+      "avatarColor": "plava",
+      "subject": "Grupa od 6 za ronjenje sa 2 tenka u subotu",
+      "preview": "Imamo 6 sertifikovanih ronilaca i želimo da rezervišemo jutarnje ronjenje sa 2 rezervoara ove subote. Imate li prostora? Kolika je stopa po osobi...",
+      "pill": "Rezervacija",
+      "pillColor": "plava"
+    },
+    {
+      "from": "Džejson M.",
+      "avatarLetter": "J",
+      "avatarColor": "ljubičasta",
+      "subject": "BCD iznajmljivanje za vikend?",
+      "preview": "Hej, ja sam sertifikovan, ali putujem lagan. Da li iznajmljujete BCD i regulatore? Trebaju mi od petka do nedelje...",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavanda",
+      "subject": "Uputnica učenika: Rejčel Tores",
+      "preview": "Student je završio svoje e-učenje i odabrao vaš ronilački centar za obuku u zatvorenoj i otvorenoj vodi...",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    }
+  ],
+  "autodraft": "Hej Rachel! Voleli bismo da dobijete sertifikat. Kurs otvorene vode traje 3 dana - jedan dan sesija u bazenu i dva dana ronjenja u okeanu. Sva oprema je uključena. Avgust je širom otvoren. Hoćeš da rezervišem mesto za tu prvu nedelju?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "roniti",
+    "lostPerMonth": "3 putovanja (po 6 ronilaca)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Jedno ušteđeno grupno ronjenje plaća se za godinu od Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poruku tako da prvo vidite upite za sertifikaciju i rezervacije ronjenja, zatim pitanja o opremi i PADI upozorenja kada budete spremni. Nema više propuštanja grupne rezervacije zakopane u biltenima o opremi.",
+  "draftSubtitle": "Duet saznaje vaše lokacije za ronjenje, zahteve sertifikata i cene. Kada stigne upit za rezervaciju, sastavlja kompletan odgovor sa detaljima o putovanju, šta je uključeno i šta treba poneti. Pregledate i pošaljete.",
+  "agentSubtitle": "\"Koliko je ronilaca rezervisano za subotu?\" „Nacrt odgovora Rejčel sa dostupnošću Open Vater.“ Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rejčel T.",
+      "avatarLetter": "R",
+      "avatarColor": "roze",
+      "subject": "Open Vater sertifikat — dostupnost?",
+      "preview": "Posećujem prvu nedelju avgusta i želim da dobijem sertifikat...",
+      "pill": "Odgovorite odmah",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "plava",
+      "subject": "Re: Rezervacija potvrđena — subotnje ronjenje sa 2 rezervoara",
+      "pill": "Rezervisano",
+      "pillColor": "plava"
+    },
+    {
+      "from": "Džejson M.",
+      "avatarLetter": "J",
+      "avatarColor": "ljubičasta",
+      "subject": "BCD i najam regulatora ovog vikenda?",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddi",
+      "avatarLetter": "D",
+      "avatarColor": "lavanda",
+      "subject": "Nova recenzija na vašem unosu",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    },
+    {
+      "from": "Dive Gear Ekpress",
+      "avatarLetter": "D",
+      "avatarColor": "lavanda",
+      "subject": "Letnja rasprodaja — 25% popusta na mokra odela",
+      "pill": "Promocije",
+      "pillColor": "lavanda"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Sertifikacija Open Vater — dostupnost?",
+    "originalFrom": "Rejčel T. je napisala:",
+    "originalText": "Zdravo! Posećujem prvu nedelju avgusta i želim da dobijem sertifikat za otvorenu vodu. Koliko dana je potrebno i šta je uključeno?",
+    "lines": [
+      "Hej Rachel!",
+      "Voleli bismo da dobijete sertifikat! Kurs PADI Open Vater traje 3 dana — jedna sesija u bazenu i dva ronjenja u okeanu na našem grebenu. Sva oprema je uključena.",
+      "Avgust je trenutno širom otvoren. Većina učenika počinje u ponedeljak pa završava do srede.",
+      "Hoćeš da rezervišem mesto?"
+    ],
+    "highlightText": "Kurs PADI Open Vater traje 3 dana",
+    "tooltipFeatures": [
+      "Poznaje vaše kurseve i cene",
+      "Nacrt u vašem tonu",
+      "Automatski uključuje zahteve za sertifikate",
+      "Uči tokom vremena"
+    ]
+  },
+  "agent": {
+    "userMessage": "Koliko je ronilaca rezervisano za subotu?",
+    "agentResponse": "Na osnovu vašeg prijemnog sandučeta, imate 8 ronilaca potvrđenih za subotnje jutarnje ronjenje sa 2 rezervoara — Kevinovu grupu od 6 plus 2 pojedinačne rezervacije. Takođe imate na čekanju upit od Džejsona o iznajmljivanju opreme za isto putovanje. Želite li da napišem odgovor?",
+    "followUp": "Nacrtajte odgovor Rejčel sa detaljima kursa Open Vater",
+    "followUpResponse": "Gotovo! Napisao sam odgovor Rejčel kojim potvrđujem trodnevni kurs PADI Open Vater sa uključenim ronjenjima u bazenu i okeanu. Pominje dostupnost u avgustu i vašu standardnu politiku u vezi sa opremom. Spremni za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga ronilački operateri",
+  "testimonials": [
+    {
+      "name": "Kapetan Majk T.",
+      "title": "Kapetan ronilačkog čamca, FL",
+      "quote": "Vodim izlete brodom od petka do nedelje, a prodavnica je otvorena samo nekoliko sati u ponedeljak. Pitanja o sertifikaciji i upiti o putovanjima se gomilaju dok sam pod vodom. Duet nacrte odgovora sa mojim cenama, lokacijama za ronjenje i onim što je uključeno — pregledam ih između ronjenja.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Džen i Mark S.",
+      "title": "PADI Dive Center, HI",
+      "quote": "Vodimo ronjenje, ture s disaljkom i posmatramo kitove sa istih brodova. Raznovrsnost e-pošte je suluda — pitanja o sertifikatima, grupne rezervacije, iznajmljivanje opreme, provere vremena. Duet sve to sortira i sastavlja odgovore koji znaju razliku. Apsolutni spasitelj.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Džejk R.",
+      "title": "Čarters za ronjenje na olupini, FL",
+      "quote": "Polovina mojih e-poruka je 'koji sertifikat mi je potreban za ronjenje na olupinu?' a druga polovina je 'da li mi treba sopstvena oprema?' Duet upravlja oba na autopilotu. Moje vreme odgovora je išlo od sati do minuta.",
+      "avatarKey": "Johnni"
+    },
+    {
+      "name": "Frančeska D.",
+      "title": "Vlasnik ronilačke prodavnice, Kalifornija",
+      "quote": "Tokom leta dobijamo 30+ e-poruka dnevno o kursevima, dostupnosti putovanja i opremi. Gubio sam rezervacije u prodavnicama koje su brže odgovarale. Sada Duet sve ispisuje i ja samo pritisnem pošalji između časova.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sara K.",
+      "title": "Instruktor i vodič ronjenja, NC",
+      "quote": "Predajem kurseve ujutru i vodim ronjenje popodne. Bukvalno nema vremena za odgovaranje na e-poštu. Duet je saznao moj raspored kurseva, cene, čak i moju politiku otkazivanja. Klijenti ne mogu razlikovati.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Provedite dane pod vodom,\nnije sahranjen u vašem prijemnom sandučetu.",
+  "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Da li Duet razume nivoe sertifikacije i zahteve kursa?",
+      "answer": "Da. Duet uči vaše specifične kurseve — Open Vater, Advanced, Rescue, Divemaster — zajedno sa preduslovima, trajanjem, cenama i šta je uključeno. Kada neko pita za dobijanje sertifikata, Duet sastavlja nacrt odgovora sa pravim detaljima kursa, rasporedom i sledećim koracima. Pregledate i pošaljete."
+    },
+    {
+      "question": "Ceo dan sam na brodu ili pod vodom. Mogu li da koristim Duet sa svog telefona?",
+      "answer": "Da. Duet radi sa Gmail i Outlook, tako da radi svuda gde radi vaša e-pošta — uključujući vaš telefon. Nacrti se automatski pojavljuju u prijemnom sandučetu. Između zarona ili nazad na doku, pregledavate i šaljete jednim dodirom. Većina ronilačkih operatera nam kaže da im štedi 1-2 sata e-pošte dnevno tokom špice sezone."
+    }
+  ],
+  "pricingNote": "Za 150 USD po ronjenju sa grupom od 6, jedno ušteđeno putovanje plaća više od godinu dana od Pro."
+}

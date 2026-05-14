@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail pasiplaukiojimui karšto oro balionu |AI el. pašto padėjėjas",
+  "metaDescription": "Duet Mail padeda oro balionų pilotams akimirksniu atsakyti į rezervacijos el. laiškus – net ir saulėtekio metu.AI parengti atsakymai su jūsų kainodara, orų politika ir balsu.",
+  "heroBadge": "Pasitiki daugiau nei 200 oro balionų pilotų",
+  "heroHeadline": "Jūsų el. pašto asistentas, kai esate ore",
+  "heroSubline": "Duet sužino jūsų skrydžių tvarkaraščius, kainas ir oro sąlygas – tada parengia atsakymų el. paštu juodraščius, kad niekada neprarastumėte užsakymo, kai paleisite saulei tekant.",
+  "inboxEmails": [
+    {
+      "from": "Rachel ir Danas T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Ar yra saulėtekio skrydis 2 asmenims – šeštadienis?",
+      "preview": "Sveiki! Mes su vyru lankome savo jubiliejų ir norėtume šį šeštadienį užsisakyti kelionę saulėtekio balionu. Ar turite vietos? Kokia kaina vienam asmeniui?",
+      "pill": "Atsakyti",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevinas L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Ar skrisime rytoj? Vėjo prognozės atrodo apytiksliai",
+      "preview": "Esame rezervuoti rytojaus rytui, bet orų programėlė rodo 15 mylių per valandą gūsius. Ar vis dar skrendame, ar turėtume planuoti kitą laiką...",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer ir Markas P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Privatus skrydis už pasiūlymą – kaina?",
+      "preview": "Noriu nustebinti savo merginą privačiu pasiplaukiojimu oro balionu ir pasipiršti skrydžio metu. Kiek kainuoja privatus skrydis ir ar galite padėti koordinuoti...",
+      "pill": "Užsakymas",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Ką turėtume dėvėti? Kur susitinkame?",
+      "preview": "Esame rezervuoti sekmadienio rytui. Ką turėtume dėvėti ir kur tiksliai yra susitikimo vieta? Be to, kiek laiko trunka visa patirtis...",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Sveiki, Rachel! Šeštadienį dirba 2. Saulėtekio skrydžiai prasideda apie 6.15 val. – tikslų laiką ir susitikimo vietą patvirtinsime išvakarėse, atsižvelgdami į vėjus. Tai 250 USD asmeniui ir apima maždaug valandą buvimą ore ir šampano tostą po nusileidimo. Apsirenkite sluoksniais ir avėkite uždarus batus. Nori, kad rezervuočiau tavo vietas?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "skrydis",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Vienas sutaupytas skrydis sumokamas Duet metus."
+  },
+  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, po to – klausimus apie orą, o triukšmą – niekada. Nebereikia praleisti užklausos apie skrydį, paslėptą po informacinių biuletenių įspėjimais.",
+  "draftSubtitle": "Duet sužino jūsų kainodarą, orų politiką ir toną. Pasiekus užsakymo užklausą, pateikiamas išsamus atsakymo juodraštis su skrydžio informacija, susitikimo informacija ir tuo, ką dėvėti. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "\"Kas rytojaus manifeste?\" „Ar galimi atšaukimai dėl oro sąlygų?Duet žino jūsų gautuosius ir kalendorių – tiesiog paklauskite.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Ar yra saulėtekio skrydis 2 asmenims – šeštadienis?",
+      "preview": "Su vyru norėtume užsisakyti kelionę saulėtekio balionu...",
+      "pill": "Atsakykite dabar",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevinas L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Užsakymas patvirtintas – sekmadienį 6:15 val",
+      "pill": "Užsakyta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Ką turėtume dėvėti skrydžio metu?",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nauja jūsų įrašo apžvalga",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Oro balionų federacija",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Kovo mėnesio saugos biuletenis ir atnaujinimo priminimas",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Saulėtekio skrydis 2 asmenims – ar yra šeštadienis?",
+    "originalFrom": "Rachel T. rašė:",
+    "originalText": "Sveiki! Mes su vyru lankome savo jubiliejų ir norėtume šį šeštadienį užsisakyti kelionę saulėtekio balionu. Ar turite vietos? Kokia kaina vienam asmeniui?",
+    "lines": [
+      "Sveiki, Rachel!",
+      "Šeštadienis yra atviras 2 asmenims. Skrydžiai su saulėtekiu kainuoja 250 USD/asm. Į kainą įskaičiuota maždaug valanda buvimo ore ir tostas su šampanu po nusileidimo.",
+      "Pradedame apie 6.15 val. – Tikslų susitikimo laiką ir vietą atsiųsiu vakare, atsižvelgdami į vėjo sąlygas. Apsirenkite sluoksniais ir avėkite uždarus batus.",
+      "Su jubiliejumi! Nori, kad rezervuočiau tavo vietas?"
+    ],
+    "highlightText": "Šeštadienis yra atviras 2 asmenims. Saulėtekio skrydžiai kainuoja 250 USD/asm",
+    "tooltipFeatures": [
+      "Žino jūsų kainas ir skrydžių tvarkaraštį",
+      "Juodraščiai jūsų balse",
+      "Automatiškai įtraukiama išsami susitikimo informacija",
+      "Laikui bėgant išmoksta"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kas yra rytojaus manifeste ir kaip atrodo orai?",
+    "agentResponse": "Rytojaus saulėtekio skrydis turi 6 keleivius, užsakytus 2 rezervacijose: Thompsono vakarėlyje (4) ir Lee poroje (2). Dabartinė prognozė rodo, kad vėjo greitis yra 4 mylių per valandą, o dangus – giedras starto metu. Atšaukimo el. laiškų dar nėra. Norite, kad atsiųsčiau susitikimo vietos patvirtinimus?",
+    "followUp": "Taip, siųskite patvirtinimus abiem pusėms su susitikimo laiku 6:15 val",
+    "followUpResponse": "Atlikta! 6:15 ryto paleidimo lauke parengiau susitikimo vietos patvirtinimus ir Thompsonams, ir Leesams, ką dėvėti ir nurodymus. Paruošta peržiūrėti ir išsiųsti."
+  },
+  "testimonialsTitle": "Mėgsta oro balionų pilotai ir operatoriai",
+  "testimonials": [
+    {
+      "name": "Kapitonas Mike'as L.",
+      "title": "Oro baliono pilotas, MN",
+      "quote": "Esu vieno žmogaus operacija – skraidau, įgula, atsakau į el. Išskyrus 5 val. ryto, aš išpučiu, neatsakau. Duet rengia atsakymų juodraščius į kiekvieną „ar skrisime rytoj?“ žinutę per naktį. Atsibundu, patikrinu orą ir paspaudžiu siųsti.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon ir Jake B.",
+      "title": "Kelionės oro balionais ištisus metus, UT",
+      "quote": "Kasdien gauname tuos pačius 10 klausimų. Ką apsirengti, kur susitikti, ką daryti, jei pučia vėjas. Duet visa tai sužinojo ir dabar sukuria puikių atsakymų juodraščius. Nuo valandos el. laiškų kiekvieną vakarą perėjome iki penkių minučių.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlosas R.",
+      "title": "Saulėtekio skrydžių operatorius, AZ",
+      "quote": "Sezono metu 4-6 skrydžiai per savaitę ir kiekvienas keleivis siunčia el. laiškus bent du kartus prieš skrydį. Duet sprendžia klausimus prieš skrydį, kad galėčiau sutelkti dėmesį į tai, kad žmonėms būtų suteiktas geriausias jų gyvenimo rytas.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "„Balloon Company“ bendrasavininkis, NM",
+      "quote": "Orų atšaukimai sugadino visą mano dieną – 8 keleiviams visiems reikėjo asmeninių el. laiškų dėl planavimo. Dabar Duet parengia visus juodraščius, įtraukdami mūsų rezervavimo keitimo politiką. Sutaupo valandų atšaukimo rytais.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Marija D.",
+      "title": "Skrydžio oro balionu operacijos, CO",
+      "quote": "Siūlomiems skrydžiams reikia tiek daug koordinavimo pirmyn ir atgal. Duet suprato, kaip mes juos tvarkome – laiką, kodinius žodžius, šampano sąranką. Ji rengia atsakymų juodraščius, kuriuos vos turiu paliesti.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Praleiskite rytą danguje,\nne jūsų pašto dėžutėje.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
+  "verticalFaqs": [
+    {
+      "question": "Kaip Duet tvarko orų atšaukimo el. laiškus?",
+      "answer": "Duet sužino jūsų atšaukimo ir rezervavimo iš naujo taisykles. Kai atšaukiate skrydį dėl oro sąlygų, kiekvienam nukentėjusiam keleiviui galite parengti asmeninius el. laiškus dėl planavimo keitimo – su jūsų politika, galimomis datomis ir jūsų tonu. Jūs peržiūrite ir siunčiate. Tai, kas anksčiau užtrukdavo valandą individualiems atsakymams, trunka kelias minutes."
+    },
+    {
+      "question": "Ar Duet gali susidoroti su „ar skrisime rytoj“? laiškų, kurie užplūsta kiekvieną vakarą?",
+      "answer": "Taip – ​​tai vienas dažniausių el. laiškų, apie kuriuos mums pasakoja balionų operatoriai. Duet sužino apie jūsų oro sąlygas ir parengia įtikinamų atsakymų juodraščius, paaiškinančius jūsų sprendimo procesą, kada skambinsite paskutinį kartą ir ko tikėtis. Kai ryte patvirtinsite eiti/neeiti, naujinimų juodraštis gali būti pateiktas visiems manifeste."
+    }
+  ],
+  "pricingNote": "250 USD asmeniui su 4 keleiviais vienam skrydžiui už vieną sutaupytą užsakymą sumokama daugiau nei metus Pro."
+}

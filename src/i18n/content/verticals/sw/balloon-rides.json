@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail kwa Uendeshaji wa Puto ya Hewa ya Moto | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia marubani wa puto kujibu barua pepe za kuweka nafasi papo hapo — hata wakati wa safari za ndege za macheo. Majibu yaliyoandaliwa na AI pamoja na bei, sera za hali ya hewa na sauti yako.",
+  "heroBadge": "Inaaminiwa na marubani 200+ wa puto",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa hewani",
+  "heroSubline": "Duet hujifunza ratiba zako za safari za ndege, bei na sera za hali ya hewa - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi unapozindua macheo.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Safari ya ndege ya maawio ya 2 - Jumamosi inapatikana?",
+      "preview": "Habari! Mume wangu na mimi tunatembelea kwa ajili ya maadhimisho ya mwaka wetu na tungependa kuweka nafasi ya safari ya puto ya macheo Jumamosi hii. Je! una nafasi? Ni gharama gani kwa kila mtu?",
+      "pill": "Ili Kujibu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Je, tutaruka kesho? Utabiri wa upepo unaonekana kuwa mbaya",
+      "preview": "Tumeweka nafasi ya kesho asubuhi lakini programu ya hali ya hewa inaonyesha kasi ya 15 mph. Bado tunasafiri kwa ndege au tupange kupanga upya...",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Ndege ya kibinafsi kwa pendekezo - bei?",
+      "preview": "Ninataka kumshangaza mpenzi wangu kwa safari ya kibinafsi ya puto na kupendekeza wakati wa kukimbia. Kiasi gani cha safari ya ndege ya kibinafsi na unaweza kusaidia kuratibu...",
+      "pill": "Kuhifadhi",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Tuvae nini? Tunakutana wapi?",
+      "preview": "Tumeweka nafasi kwa ajili ya Jumapili asubuhi. Tunapaswa kuvaa nini na mahali pa mkutano ni wapi hasa? Pia, uzoefu wote unachukua muda gani...",
+      "pill": "Swali",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Habari Rachel! Jumamosi imefunguliwa saa 2. Safari za ndege za macheo huzinduliwa karibu 6:15 AM — tutathibitisha saa kamili na eneo la mkutano jioni kabla kulingana na upepo. Ni $250/mtu na inajumuisha takriban saa moja hewani pamoja na tosti ya shampeni baada ya kutua. Mavazi katika tabaka na kuvaa viatu vilivyofungwa. Unataka nihifadhi matangazo yako?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "ndege",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Ndege moja iliyohifadhiwa hulipa mwaka wa Duet."
+  },
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, maswali ya hali ya hewa ya pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa ndege uliozikwa chini ya arifa za jarida.",
+  "draftSubtitle": "Duet hujifunza kuhusu bei, sera za hali ya hewa na sauti yako. Ombi la kuweka nafasi linapofika, huandaa jibu kamili lenye maelezo ya safari ya ndege, maelezo ya mkutano na mavazi. Unakagua na kutuma.",
+  "agentSubtitle": "\"Nani yuko kwenye manifest ya kesho?\" \"Ughairi wowote wa hali ya hewa ili kupanga upya?\" Duet anajua kikasha chako na kalenda - uliza tu.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Safari ya ndege ya maawio ya 2 - Jumamosi inapatikana?",
+      "preview": "Mume wangu na mimi tungependa kuweka nafasi ya kupanda puto wakati wa mawio...",
+      "pill": "Jibu Sasa",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Uhifadhi umethibitishwa - Jumapili 6:15 AM",
+      "pill": "Imehifadhiwa",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Tunapaswa kuvaa nini kwa ndege?",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Maoni mapya ya tangazo lako",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Balloon Federation",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Taarifa ya usalama ya Machi na ukumbusho wa kusasisha",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Ndege ya macheo kwa 2 - Jumamosi inapatikana?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Mume wangu na mimi tunatembelea kwa ajili ya maadhimisho ya mwaka wetu na tungependa kuweka nafasi ya safari ya puto ya macheo Jumamosi hii. Je! una nafasi? Ni gharama gani kwa kila mtu?",
+    "lines": [
+      "Habari Rachel!",
+      "Jumamosi iko wazi kwa watu 2. Safari za ndege za mawio ya jua ni $250/mtu na hujumuisha takriban saa moja angani pamoja na tosti ya champagne baada ya kutua.",
+      "Tunazinduliwa karibu 6:15 AM — nitakutumia saa kamili ya mkutano na eneo lako jioni kabla kulingana na hali ya upepo. Mavazi katika tabaka na kuvaa viatu vilivyofungwa.",
+      "Furaha ya kumbukumbu! Unataka nihifadhi matangazo yako?"
+    ],
+    "highlightText": "Jumamosi iko wazi kwa 2. Safari za ndege za mawio ni $250/mtu",
+    "tooltipFeatures": [
+      "Anajua bei na ratiba yako ya ndege",
+      "Rasimu katika sauti yako",
+      "Inajumuisha maelezo ya mkutano kiotomatiki",
+      "Anajifunza kwa muda"
+    ]
+  },
+  "agent": {
+    "userMessage": "Nani yuko kwenye manifest ya kesho na hali ya hewa ikoje?",
+    "agentResponse": "Safari ya kesho macheo ya safari ya ndege ina abiria 6 walioweka nafasi katika nafasi 2: sherehe ya Thompson (4) na wanandoa wa Lee (2). Utabiri wa sasa unaonyesha upepo tulivu kwa kasi ya 4 kwa saa na anga safi wakati wa uzinduzi. Bado hakuna barua pepe za kughairiwa. Je, unataka nitume uthibitisho wa sehemu ya mkutano?",
+    "followUp": "Ndiyo, tuma uthibitisho kwa pande zote mbili kwa saa ya mkutano ya 6:15 AM",
+    "followUpResponse": "Imekamilika! Nilitayarisha uthibitishaji wa sehemu ya mkutano kwa akina Thompson na Lees kwa 6:15 AM kwenye uwanja wa uzinduzi, nini cha kuvaa na maelekezo. Tayari kukagua na kutuma."
+  },
+  "testimonialsTitle": "Inapendwa na marubani na waendeshaji puto",
+  "testimonials": [
+    {
+      "name": "Kapteni Mike L.",
+      "title": "Rubani wa Puto, MN",
+      "quote": "Mimi ni operesheni ya mtu mmoja - Ninaruka, ninafanya kazi, najibu barua pepe. Ila saa 5 asubuhi napandisha bei, sijibu. Duet huandaa majibu kwa kila 'je tutasafiri kwa ndege kesho?' ujumbe usiku kucha. Ninaamka, kuangalia hali ya hewa, na kugonga kutuma.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon & Jake B.",
+      "title": "Ziara za Puto za Mwaka Mzima, UT",
+      "quote": "Tunapata maswali 10 sawa kila siku. Nini cha kuvaa, wapi kukutana, nini ikiwa kuna upepo. Duet walijifunza yote na sasa wanatayarisha majibu kamili. Tulitoka kwa saa moja ya barua pepe kila usiku hadi dakika tano.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Opereta wa Ndege ya Jua, AZ",
+      "quote": "Msimu wa kilele unamaanisha safari za ndege 4-6 kwa wiki na kila abiria hutuma barua pepe angalau mara mbili kabla ya safari ya ndege. Duet hushughulikia maswali ya kabla ya safari ya ndege ili niweze kulenga kuwapa watu asubuhi bora zaidi ya maisha yao.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Mmiliki Mwenza wa Kampuni ya Puto, NM",
+      "quote": "Ughairi wa hali ya hewa uliharibu siku yangu nzima - abiria 8 wote wanahitaji barua pepe za kibinafsi za kupanga upya. Sasa Duet inatayarisha kila moja pamoja na sera yetu ya kuhifadhi nafasi tena. Huniokoa saa za asubuhi za kughairiwa.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Operesheni za Kuendesha Puto, CO",
+      "quote": "Safari za ndege zinazopendekezwa zinahitaji uratibu mwingi wa kurudi na kurudi. Duet ilichukua jinsi tunavyozishughulikia - muda, maneno ya siri, usanidi wa champagne. Inatayarisha majibu ambayo sina budi kugusa.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Tumia asubuhi yako mbinguni,\nhaipo kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
+  "verticalFaqs": [
+    {
+      "question": "Je, Duet hushughulikia vipi barua pepe za kughairi hali ya hewa?",
+      "answer": "Duet hujifunza sera zako za kughairi na kuweka nafasi tena. Unapoghairi safari ya ndege kwa sababu ya hali ya hewa, inaweza kuandaa barua pepe za upangaji upya zilizobinafsishwa kwa kila abiria aliyeathiriwa - kwa kutumia sera yako, tarehe zinazopatikana na sauti yako. Unakagua na kutuma. Kinachotumika kuchukua saa moja ya majibu ya mtu binafsi huchukua dakika."
+    },
+    {
+      "question": "Je, Duet inaweza kushughulikia 'je tutasafiri kesho?' barua pepe zinazofurika kila jioni?",
+      "answer": "Ndiyo - hii ni mojawapo ya barua pepe za kawaida ambazo waendeshaji puto hutuambia kuzihusu. Duet hujifunza sera zako za hali ya hewa na rasimu za majibu ya uhakikisho ambayo yanaelezea mchakato wako wa kufanya uamuzi, wakati utakapopiga simu ya mwisho na nini cha kutarajia. Pindi tu utakapothibitisha kwenda/usiende asubuhi, inaweza kuandaa masasisho kwa kila mtu kwenye faili ya maelezo."
+    }
+  ],
+  "pricingNote": "Kwa $250/mtu aliye na abiria 4 kwa kila ndege, nafasi moja iliyohifadhiwa hulipa kwa zaidi ya mwaka mmoja wa Pro."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail kuumailmapallomatkoille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa ilmapallolentäjiä vastaamaan varaussähköposteihin välittömästi – jopa auringonnousun lentojen aikana. AI-luonnolliset vastaukset hinnoilla, sääkäytännöilläsi ja äänelläsi.",
+  "heroBadge": "Yli 200 ilmapallolentäjän luottama",
+  "heroHeadline": "Sähköpostiavustajasi ollessasi ilmassa",
+  "heroSubline": "Duet oppii lentoaikataulusi, hinnoittelusi ja sääkäytäntösi – sitten luonnostelee sähköpostivastauksia, jotta et koskaan menetä varaustasi, kun olet lähdössä auringonnousuun.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Sunrise -lento kahdelle – onko lauantai saatavilla?",
+      "preview": "Hei! Mieheni ja minä vierailemme vuosipäivänämme ja haluaisimme varata auringonnousun ilmapallomatkan tänä lauantaina. Onko sinulla tilaa? Mikä on hinta per henkilö?",
+      "pill": "Vastaus",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Lennetäänkö huomenna? Tuuliennuste näyttää karulta",
+      "preview": "Olemme varattu huomiseen aamuun, mutta sääsovellus näyttää 15 mph puuskissa. Lennämmekö vielä vai pitäisikö meidän suunnitella muuttoa...",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Yksityinen lento ehdotusta varten – hinnoittelu?",
+      "preview": "Haluan yllättää tyttöystäväni yksityisellä ilmapallomatkalla ja kosia lennon aikana. Kuinka paljon yksityinen lento maksaa ja voitko auttaa koordinoimaan...",
+      "pill": "Varaus",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Mitä meidän pitäisi käyttää? Missä tapaamme?",
+      "preview": "Olemme varattu sunnuntaiaamuna. Mitä meidän pitäisi käyttää ja missä kohtaamispaikka on? Lisäksi kuinka kauan koko kokemus kestää...",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Hei Rachel! Lauantai on avoinna 2. Sunrise-lennot alkavat noin klo 6.15 – tarkan ajan ja tapaamispaikan vahvistamme edellisenä iltana tuulen perusteella. Se on 250 dollaria/henkilö ja sisältää noin tunnin ilmassa sekä samppanjapaahtoleivän laskeutumisen jälkeen. Pukeudu kerroksittain ja käytä umpikärkisiä kenkiä. Haluatko, että varaan paikkasi?\nLento",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Yksi säästetty lento maksaa Duet in vuoden."
+  },
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, sääkysymykset sitten ja melu ei koskaan. Uutiskirjehälytysten alle haudottua lentokyselyä ei enää kaipaa.",
+  "draftSubtitle": "Duet oppii hinnoittelusi, sääkäytäntösi ja äänesi. Kun varauskysely saapuu, se luonnostelee täydellisen vastauksen, joka sisältää lennon tiedot, kokoustiedot ja pukeutumisen. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Kuka on huomisen manifestissa?\" \"Onko sääperuutuksia muutettava?\" Duet tuntee postilaatikkosi ja kalenterisi – kysy vain.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Sunrise -lento kahdelle – onko lauantai saatavilla?",
+      "preview": "Mieheni ja minä haluaisimme varata auringonnousun ilmapallomatkan...",
+      "pill": "Vastaa nyt",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Varaus vahvistettu – sunnuntai klo 6.15",
+      "pill": "varattu",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Mitä meidän pitäisi käyttää lennolla?",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uusi arvostelu yrityksellesi",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Ilmapalloliitto",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Maaliskuun turvallisuustiedote ja uusimismuistutus",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Sunrise-lento 2:lle – lauantai saatavilla?",
+    "originalFrom": "Rachel T. kirjoitti:",
+    "originalText": "Hei! Mieheni ja minä vierailemme vuosipäivänämme ja haluaisimme varata auringonnousun ilmapallomatkan tänä lauantaina. Onko sinulla tilaa? Mikä on hinta per henkilö?",
+    "lines": [
+      "Hei Rachel!",
+      "Lauantai on avoinna kahdelle. Sunrise-lennot ovat 250 $/hlö ja sisältävät noin tunnin ilmassa sekä samppanjapaahtoleivän laskeutumisen jälkeen.",
+      "Aloitamme noin klo 6.15 – lähetän tarkan kokousaikasi ja -paikkasi edellisenä iltana tuuliolosuhteiden mukaan. Pukeudu kerroksittain ja käytä umpikärkisiä kenkiä.",
+      "Hyvää vuosipäivää! Haluatko, että varaan paikkasi?"
+    ],
+    "highlightText": "Lauantai on auki kahdelle. Sunrise-lennot ovat 250 $/hlö",
+    "tooltipFeatures": [
+      "Tietää hinnoittelusi ja lentoaikataulusi",
+      "Luonnokset äänessäsi",
+      "Sisältää automaattisesti kokouksen tiedot",
+      "Oppii ajan myötä"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kuka on huomisen manifestissa ja miltä sää näyttää?",
+    "agentResponse": "Huomisen auringonnousun lennolle on varattu 6 matkustajaa kahdessa varauksessa: Thompson-bileet (4) ja Lee-pariskunta (2). Tämänhetkinen ennuste näyttää tyyntä tuulta nopeudella 4 mph ja selkeää taivasta laukaisuhetkellä. Ei vielä peruutussähköpostiviestejä. Haluatko, että lähetän tapaamispaikan vahvistukset?",
+    "followUp": "Kyllä, lähetä vahvistukset molemmille osapuolille klo 6.15 kokousajan mukaan",
+    "followUpResponse": "Valmis! Kirjoitin sekä Thompsoneille että Leesille kohtaamispaikkojen vahvistukset klo 6.15 laukaisukentällä, mitä pukeutua ja ohjeet. Valmiina tarkastettavaksi ja lähetettäväksi."
+  },
+  "testimonialsTitle": "Ilmapallolentäjät ja -operaattorit rakastavat",
+  "testimonials": [
+    {
+      "name": "kapteeni Mike L.",
+      "title": "Balloon Pilot, MN",
+      "quote": "Olen yhden miehen operaatio – lennän, miehistön ja vastaan sähköposteihin. Paitsi kello 5.00, täytän, en vastaa. Duet luonnostelee vastaukset jokaiseen \"lennäänkö huomenna?\" viesti yön yli. Herään, katson sään ja painan lähetä.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon & Jake B.",
+      "title": "ympärivuotiset ilmapallomatkat, UT",
+      "quote": "Saamme samat 10 kysymystä joka päivä. Mitä pukea päälle, missä tavata, mitä jos tuulee. Duet oppi kaiken ja laatii nyt täydellisiä vastauksia. Muutimme tunnin sähköposteista jokailta viiteen minuuttiin.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Sunrise Flight Operator, AZ",
+      "quote": "Huippusesonki tarkoittaa 4-6 lentoa viikossa ja jokainen matkustaja lähettää sähköpostia vähintään kaksi kertaa ennen lentoa. Duet käsittelee lentoa edeltävät kysymykset, jotta voin keskittyä tarjoamaan ihmisille heidän elämänsä parhaan aamun.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Balloon Companyn osaomistaja, NM",
+      "quote": "Sääperuutukset tuhosivat koko päiväni – 8 matkustajaa kaikki tarvitsivat henkilökohtaisia aikataulusähköpostiviestejä. Nyt Duet luonnostelee jokaisen uudelleenvarauskäytäntömme mukaan. Säästää minulta tunteja peruutusaamuissa.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Balloon Ride Operations, CO",
+      "quote": "Ehdotuslennot tarvitsevat niin paljon edestakaisen koordinointia. Duet omaksui sen, miten käsittelemme niitä – ajoituksen, koodisanat, samppanjan asetelman. Se luonnostelee vastauksia, joihin tuskin tarvitsee koskea.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Vietä aamusi taivaalla,\nei postilaatikossasi.",
+  "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
+  "verticalFaqs": [
+    {
+      "question": "Miten Duet käsittelee sään peruutussähköpostiviestejä?",
+      "answer": "Duet oppii peruutus- ja uudelleenvarauskäytäntösi. Kun peruutat lennon sään vuoksi, se voi laatia henkilökohtaisia ​​aikataulusähköpostiviestejä jokaiselle matkustajalle, jota asia koskee – käytäntösi, käytettävissä olevat päivämäärät ja äänesi. Tarkistat ja lähetät. Se, mikä vei aiemmin tunnin yksittäisiin vastauksiin, kestää minuutteja."
+    },
+    {
+      "question": "Kestääkö Duet \"lennäänkö huomenna?\" sähköpostit, jotka tulvii joka ilta?",
+      "answer": "Kyllä — tämä on yksi yleisimmistä sähköpostiviesteistä, joista ilmapallooperaattorit kertovat meille. Duet oppii sääkäytäntösi ja laatii rauhoittavia vastauksia, jotka selittävät päätösprosessisi, milloin soitat viimeisen puhelun ja mitä odottaa. Kun vahvistat mene/ei mene aamulla, se voi luonnostella päivityksiä kaikille luettelossa oleville."
+    }
+  ],
+  "pricingNote": "Hinta 250 $/henkilö ja 4 matkustajaa per lento, yksi tallennettu varaus maksaa yli vuoden Pro:n."
+}

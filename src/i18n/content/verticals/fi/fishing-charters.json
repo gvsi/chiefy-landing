@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail kalastus chartereihin | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa kalastuksen charter-kapteeneja vastaamaan varaussähköposteihin välittömästi – jopa vedestä. AI-muotoiltuja vastauksia, joissa on hintasi, käytäntösi ja äänesi.",
+  "heroBadge": "Yli 500 charter-kapteenin luottama",
+  "heroHeadline": "Sähköpostiavustajasi ollessasi vesillä",
+  "heroSubline": "Duet oppii hintasi, käytäntösi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaiden vastausten takia.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Saatavuus 12. heinäkuuta 4 hengelle?",
+      "preview": "Hei! Olemme 4 hengen ryhmä, joka haluaa varata kalastusmatkan 12. heinäkuuta. Onko teillä vapaata? Mikä on koko päivän hinta?",
+      "pill": "Vastaus",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Mitä meidän pitäisi tuoda?",
+      "preview": "Hei, olemme varattu lauantaille. Pikakysymys – mitä meidän pitäisi tuoda? Tarjoatko vavat ja varusteet vai pitäisikö meidän tuoda omat...",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike & Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Täytyy siirtää sunnuntaille",
+      "preview": "Anteeksi myöhäinen ilmoitus, mutta sääennuste näyttää huonolta lauantaina. Voimmeko muuttaa sen sijaan sunnuntaille? Samaan aikaan...",
+      "pill": "Varaus",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uusi arvostelu yrityksellesi",
+      "preview": "Matkustaja arvosteli äskettäin yrityksesi. Katso mitä heillä oli sanottavaa ja vastaa...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Saara! 12. heinäkuuta on avoinna 4. Koko päivän matkat ajavat 8 tuntia, alkaen klo 6.00. Kaikki vavat, varusteet, syötit ja lisenssit sisältyvät - tuo vain aurinkovoidetta, vettä ja jäähdytin saaliillesi. Haluatko minun lukitsevan sen?\nPeruskirja",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Yksi tallennettu varaus maksaa Duet in vuoden."
+  },
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt matkakysely ei enää jää huomaamatta.",
+  "draftSubtitle": "Duet oppii hinnoittelusi, käytäntösi ja sävysi. Kun varauskysely osuu, se laatii täydellisen vastauksen matkan yksityiskohdista, hinnoittelusta ja mukaan otettavasta. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Mitkä päivät ovat avoinna ensi viikolla?\" \"Luonnos vastaus Sarahille saatavuuden mukaan.\" Duet tuntee postilaatikkosi ja kalenterisi – kysy vain.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Saatavuus 12. heinäkuuta 4 hengelle?",
+      "preview": "Olemme 4 hengen ryhmä, joka haluaa varata kalastusmatkan...",
+      "pill": "Vastaa nyt",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Varaus vahvistettu – lauantai klo 7",
+      "pill": "varattu",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Mitä meidän pitäisi tuoda lauantaina?",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Viikoittainen varausyhteenveto",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "West Marine",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Kevätalennus — 20 %:n alennus varusteista",
+      "pill": "tarjoukset",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Saatavuus 12. heinäkuuta 4 hengelle?",
+    "originalFrom": "Sarah M. kirjoitti:",
+    "originalText": "Hei! Olemme 4 hengen ryhmä, joka haluaa varata kalastusmatkan 12. heinäkuuta. Onko teillä vapaata? Mikä on koko päivän hinta?",
+    "lines": [
+      "Hei Saara!",
+      "12. heinäkuuta on avoinna neljälle. Koko päivän matkat maksavat 500 dollaria ja kestävät 8 tuntia alkaen klo 6.00 venesatamasta.",
+      "Kaikki varusteet, syötit ja kalastuslisenssit sisältyvät - tuo vain aurinkovoidetta ja jäähdytin.",
+      "Haluatko minun lukitsevan sen?"
+    ],
+    "highlightText": "12. heinäkuuta on avoinna neljälle. Koko päivän matkat maksavat 500 dollaria",
+    "tooltipFeatures": [
+      "Tietää hinnoittelusi ja saatavuutesi",
+      "Luonnokset äänessäsi",
+      "Sisältää automaattisesti matkan tiedot",
+      "Oppii ajan myötä"
+    ]
+  },
+  "agent": {
+    "userMessage": "Mitkä päivät ovat vielä avoinna ensi viikolla?",
+    "agentResponse": "Kalenterisi perusteella sinulla on avoinna ensi viikon tiistaina, torstaina ja lauantaina. Maanantai ja keskiviikko ovat täynnä (2 charteria kumpikin). Haluatko, että laadin vastauksen kaikkiin odottaviin tiedusteluihin näillä päivämäärillä?",
+    "followUp": "Luo vastaus Sarahille 12. heinäkuuta saatavuudella",
+    "followUpResponse": "Valmis! Valmistelin Sarahille vastauksen, jossa vahvistettiin heinäkuun 12. päivä 4 hengelle hintaan 500 dollaria. Se sisältää vakiomatkasi tiedot ja kokouspaikan. Valmiina tarkastettavaksi ja lähetettäväksi."
+  },
+  "testimonialsTitle": "Charter-kapteenien rakastama",
+  "testimonials": [
+    {
+      "name": "kapteeni Mike D.",
+      "title": "Offshore Charter Captain, FL",
+      "quote": "Huippusesongin aikana menetin 2-3 varausta viikossa, koska en pystynyt vastaamaan tarpeeksi nopeasti veneestä. Duet luonnostelee vastaukset hinnoillani ja matkan tiedoillani – painan vain lähetä saaliiden välillä.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah & Tom K.",
+      "title": "Family Charter Business, OR",
+      "quote": "Kuljetamme kahta venettä ja sähköpostien määrä kesällä on mieletön. Duet lajittelee varauspyynnöt kaikesta muusta ja laatii vastaukset, jotka kuulostavat täsmälleen samalta kuin me. Ehdoton pelin vaihtaja.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Rannikalastusopas, TX",
+      "quote": "Vietin tunnin joka ilta vastaamaan samoihin saatavuuskysymyksiin. Nyt Duet hoitaa sen. Vastausaikani oli tunneista minuutteihin, enkä ole menettänyt varausta sen jälkeen.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Charter Office Manager, HI",
+      "quote": "Sähköpostien hallinta 4 kapteenille oli kokopäiväistä työtä. Duet luokittelee kaiken ja laatii vastaukset oikealla veneellä, oikealla hinnalla, oikealla kapteenilla. On kuin minulla olisi toinen minä.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Deep Sea Charters, NC",
+      "quote": "Oli skeptinen, että AI pystyisi käsittelemään kalastus charter-sähköpostiviestejä. Mutta se oppi matkatyypit, mitä sisältyy hintaan, jopa peruutuskäytäntömme. Asiakkaat eivät osaa erottaa.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Vietä sesonkiaika vedessä,\nei postilaatikossasi.",
+  "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
+  "verticalFaqs": [
+    {
+      "question": "Toimiiko Duet varaus- ja saatavuussähköpostiviesteissä?",
+      "answer": "Ehdottomasti. Duet oppii matkatyypit, hinnat, saatavuuden ja käytännöt. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on oikeat tiedot – hinnat, mitä sisältyy hintaan, kokouspaikka, mitä tuoda. Tarkistat ja napautat lähetä."
+    },
+    {
+      "question": "Olen vedessä koko päivän. Voinko käyttää Duet ia puhelimellani?",
+      "answer": "Kyllä. Duet toimii Gmailin ja Outlookin kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset tulevat näkyviin automaattisesti. Saaliiden välillä tarkistat ja lähetät yhdellä napautuksella. Useimmat kapteenit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+    }
+  ],
+  "pricingNote": "Hinta 500 $/ charter, yksi tallennettu varaus maksaa yli vuoden Pro."
+}

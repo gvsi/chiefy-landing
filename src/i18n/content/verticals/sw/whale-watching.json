@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail kwa Ziara za Kutazama Nyangumi | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia manahodha wanaotazama nyangumi kujibu barua pepe za kuweka nafasi papo hapo - hata kutoka kwa maji. Majibu yaliyoandaliwa na AI pamoja na maelezo yako ya ziara, bei na sauti.",
+  "heroBadge": "Inaaminiwa na nahodha 300+ wa watalii",
+  "heroHeadline": "Msaidizi wako wa barua pepe wakati uko nje ya kuona nyangumi",
+  "heroSubline": "Duet hujifunza ratiba yako ya ziara, bei na sauti - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi ukiwa kwenye maji.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kikundi cha 8 - upatikanaji Juni 14?",
+      "preview": "Habari! Sisi ni familia ya watu 8 wanaotembelea kwa wiki. Je, una nafasi kwenye ziara ya asubuhi Juni 14? Ni bei gani kwa kila mtu na ni sawa kwa watoto?",
+      "pill": "Ili Kujibu",
+      "pillColor": "red"
+    },
+    {
+      "from": "James & Kathy L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Bei ya kukodisha ya kibinafsi?",
+      "preview": "Tungependa kuweka nafasi ya ziara ya faragha ya kuangalia nyangumi kwa ajili ya maadhimisho yetu. Ni gharama gani kwa kukodisha kwa faragha kwa saa 2 kwa sisi wawili tu...",
+      "pill": "Thamani ya Juu",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Cruise Port Desk",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "Mabadiliko ya ratiba - Coral Princess anawasili 1hr mapema",
+      "preview": "Taarifa: kuwasili kwa Coral Princess kesho kumehamishwa kutoka 10 AM hadi 9 AM. Tafadhali rekebisha picha zozote za safari ya bandari ipasavyo...",
+      "pill": "Haraka",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Maoni mapya ya tangazo lako",
+      "preview": "Msafiri alikagua biashara yako hivi majuzi. Angalia walichosema na ujibu...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Habari Rachel! Ziara ya asubuhi ya Juni 14 ina nafasi ya 8. Ziara ni $125/mtu, watoto 4-12 ni nusu ya bei. Tunaondoka saa 9 asubuhi kutoka bandarini na kukimbia kama masaa 2.5. Binoculars zinazotolewa - kuleta tu tabaka na jua. Je, unataka nihifadhi nafasi 8?",
+  "math": {
+    "pricePerBooking": "$750",
+    "bookingUnit": "kikundi cha watalii",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,250",
+    "punchline": "Uwekaji nafasi wa kikundi kimoja uliohifadhiwa hulipa mwaka wa Duet."
+  },
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, ratiba ya meli ya watalii inabadilika mara ya pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa hati ya kibinafsi uliozikwa chini ya arifa za TripAdvisor.",
+  "draftSubtitle": "Duet hujifunza nyakati zako za ziara, bei na sera. Swali la kuweka nafasi linapofika, hutayarisha jibu kamili pamoja na upatikanaji, ni nini kimejumuishwa na kile cha kuleta. Unakagua na kutuma.",
+  "agentSubtitle": "\"Ni sehemu ngapi zimesalia kwenye ziara ya asubuhi ya Jumamosi?\" \"Rasimu ya jibu kwa Rachel pamoja na upatikanaji.\" Duet anajua kikasha chako na ratiba - uliza tu.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kikundi cha 8 - upatikanaji Juni 14?",
+      "preview": "Sisi ni familia ya watu 8 wanaotembelea kwa wiki ...",
+      "pill": "Jibu Sasa",
+      "pillColor": "red"
+    },
+    {
+      "from": "James L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Hati ya kibinafsi imethibitishwa - Jumamosi 2PM",
+      "pill": "Imehifadhiwa",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Megan S.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Je, ziara ya kesho itaendeshwa? Upepo unaonekana kuwa mkali",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FareHarbor",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Muhtasari wa nafasi ya kila siku - uwekaji nafasi 3 mpya",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marine Supply Co.",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Kibali cha majira ya joto - punguzo la 15% kwa vifaa vya usalama",
+      "pill": "Matangazo",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Kundi la 8 - upatikanaji Juni 14?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Sisi ni familia ya watu 8 wanaotembelea kwa wiki. Je, una nafasi kwenye ziara ya asubuhi Juni 14? Ni bei gani kwa kila mtu na ni sawa kwa watoto?",
+    "lines": [
+      "Habari Rachel!",
+      "Ziara ya asubuhi ya Juni 14 ina nafasi nyingi kwa 8. Tiketi ni $125/mtu, watoto 4-12 ni nusu ya bei. Tunaondoka saa 9 asubuhi na kurudi karibu 11:30.",
+      "Binoculars na zana za mvua zimetolewa - leta tu tabaka zenye joto na mafuta ya jua. Watoto wanapenda sana kwenye staha ya uchunguzi.",
+      "Je, ungependa nifunge katika sehemu 8?"
+    ],
+    "highlightText": "Ziara ya asubuhi ya Juni 14 ina nafasi nyingi kwa 8. Tiketi ni $125/mtu",
+    "tooltipFeatures": [
+      "Anajua bei na nyakati zako za ziara",
+      "Rasimu katika sauti yako",
+      "Inajumuisha kile cha kuleta kiotomatiki",
+      "Anajifunza kwa muda"
+    ]
+  },
+  "agent": {
+    "userMessage": "Je, ni sehemu ngapi zimesalia kwenye ziara ya Jumamosi asubuhi?",
+    "agentResponse": "Kulingana na nafasi ulizohifadhi, ziara ya Jumamosi saa 9 asubuhi ina nafasi 18 kati ya 44 zilizojazwa - 26 bado zimefunguliwa. Ziara ya alasiri inakaribia kujaa saa 40 kati ya 44. Je, ungependa niandikie jibu la maswali yoyote yanayosubiri kuhusu upatikanaji wa Jumamosi asubuhi?",
+    "followUp": "Rasimu ya jibu kwa Rachel akithibitisha Juni 14 kwa wageni 8",
+    "followUpResponse": "Imekamilika! Niliandaa jibu kwa Rachel kuthibitisha ziara ya Juni 14 asubuhi kwa wageni 8 kwa $125/mtu. Inajumuisha wakati wa kuondoka, kile kinachotolewa, na kile cha kuleta. Tayari kukagua na kutuma."
+  },
+  "testimonialsTitle": "Inapendwa na manahodha wanaotazama nyangumi",
+  "testimonials": [
+    {
+      "name": "Kapteni Dave H.",
+      "title": "Opereta wa Ziara ya Wanyamapori, AK",
+      "quote": "Abiria wa meli za kitalii wanahitaji majibu haraka - wana saa 6 pekee bandarini. Nilikuwa nikipoteza hati za malipo ya kibinafsi kwa sababu nilikuwa kwenye maji wakati uchunguzi ulipoingia. Sasa watayarishaji wa Duet wanajibu na maelezo yangu ya bei na kuchukua kabla hata sijapaki.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria na Luis R.",
+      "title": "Family Whale Watch, CA",
+      "quote": "Tunafanya ziara mbili kwa siku wakati wa msimu wa nundu na idadi ya barua pepe si halisi. 'Je, tutaona nyangumi?' 'Nivae nini?' 'Je, kesho imeghairiwa?' Duet hushughulikia maswali yanayojirudia na tunaangazia ziara.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Kapteni Ben T.",
+      "title": "Matembezi ya Bahari, HI",
+      "quote": "Nilikuwa nikijibu maswali yale yale 10 kila usiku - bei, nini kinajumuishwa, vidokezo vya ugonjwa wa bahari, vikwazo vya umri wa watoto. Duet alijifunza yote katika wiki ya kwanza. Muda wangu wa kujibu ulitoka saa 8 hadi dakika 8.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Kim W.",
+      "title": "Meneja Uhifadhi, Pacific NW",
+      "quote": "Ughairi wa hali ya hewa ndio mbaya zaidi - watu 30 wanahitaji kuweka nafasi tena mara moja na ninachanganya simu. Rasimu za Duet panga upya barua pepe zilizobinafsishwa kwa kila mgeni. Kilichokuwa kinanichukua saa 2 kinachukua dakika 15 sasa.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jess na Nate P.",
+      "title": "Ziara Ndogo za Wanyamapori wa Mashua, BC",
+      "quote": "Sisi ni operesheni ya watu wawili - mimi nahodha, anaendesha vifaa. Wakati wa msimu wa kilele alikuwa akitumia saa 3 usiku kwa barua pepe. Duet kata hiyo hadi dakika 30. Kweli anapata jioni zake nyuma sasa.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tumia msimu wa nyangumi juu ya maji,\nhaipo kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
+  "verticalFaqs": [
+    {
+      "question": "Je, Duet inashughulikia kughairiwa kwa hali ya hewa na mabadiliko ya ratiba ya meli?",
+      "answer": "Ndiyo. Unapoghairi ziara kutokana na hali ya hewa au zamu za saa za kuwasili kwa meli, unaweza kuiambia Duet mara moja na ikatayarisha ratiba iliyobinafsishwa au kusasisha barua pepe kwa kila mgeni aliyeathiriwa. Hakuna tena kunakili na kubandika ujumbe ule ule mara 30. Kila jibu linajumuisha maelezo ya awali ya kuhifadhi nafasi ya mgeni na njia mbadala zinazopatikana."
+    },
+    {
+      "question": "Tunapata maswali yale yale kila mara - 'tutaona nyangumi?', 'Nivae nini?', 'Je, ni sawa kwa watoto?' Je, Duet inaweza kushughulikia hizo?",
+      "answer": "Hapo ndipo Duet inang'aa. Hujifunza majibu yako ya kawaida - aina ambazo kwa kawaida unaona, unachopaswa kuleta, sera za umri, vidokezo vya ugonjwa wa bahari, nyakati za kuondoka - na kuandaa majibu kamili papo hapo. Unakagua na kutuma. Manahodha wengi hutuambia 80% ya kikasha chao ni maswali 10 sawa, na Duet hushughulikia yote."
+    }
+  ],
+  "pricingNote": "Kwa $125/mtu, kikundi kimoja kilichohifadhiwa cha 6 hulipa zaidi ya mwaka mmoja wa Pro."
+}

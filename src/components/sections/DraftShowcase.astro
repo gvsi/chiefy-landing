@@ -4,28 +4,60 @@ type DraftData = {
     subject: string;
     originalFrom: string;
     originalText: string;
+    badge?: string;
     lines: string[];
     highlightText: string;
+    actions?: string[];
+    tooltipTitle?: string;
     tooltipFeatures: string[];
 };
 
+type DraftShowcaseContent = {
+    ariaLabel: string;
+    badge: string;
+    title: string;
+    subtitle: string;
+    windowTitle: string;
+    fieldLabels: {
+        to: string;
+        subject: string;
+    };
+    draft: DraftData & {
+        badge: string;
+        actions: string[];
+        tooltipTitle: string;
+    };
+};
+
 type Props = {
+    draftShowcase: DraftShowcaseContent;
     draft?: DraftData;
     draftSubtitle?: string;
 };
 
-const { draft, draftSubtitle } = Astro.props;
+const { draftShowcase, draft, draftSubtitle } = Astro.props;
+const draftContent = { ...draftShowcase.draft, ...(draft ?? {}) };
+const subtitle = draftSubtitle ?? draftShowcase.subtitle;
+const actions = draftContent.actions ?? draftShowcase.draft.actions;
+const tooltipTitle = draftContent.tooltipTitle ?? draftShowcase.draft.tooltipTitle;
 
 // Find which line contains the highlight text (if any)
-const highlightLineIndex = draft?.highlightText
-    ? draft.lines.findIndex((line) => line.includes(draft.highlightText))
+const highlightLineIndex = draftContent.highlightText
+    ? draftContent.lines.findIndex((line) => line.includes(draftContent.highlightText))
     : -1;
+
+const tooltipIconPaths = [
+    "M19 4h-1V2h-2v2H8V2H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z",
+    "M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z",
+    "M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7z",
+    "M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6h-6z",
+];
 ---
 
 <section
     id="drafting"
     class="draft-showcase"
-    aria-label="AI email drafting and reply generation"
+    aria-label={draftShowcase.ariaLabel}
     data-draft-section
 >
     <div class="draft-container">
@@ -37,11 +69,11 @@ const highlightLineIndex = draft?.highlightText
                         <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
                     </svg>
                 </div>
-                <span class="badge-text">Drafting</span>
+                <span class="badge-text">{draftShowcase.badge}</span>
             </div>
-            <h2 class="draft-title">Duet drafts in your voice</h2>
+            <h2 class="draft-title">{draftShowcase.title}</h2>
             <p class="draft-subtitle">
-                {draftSubtitle || "Duet learns how you write and drafts replies that match your tone. Review, adjust if needed, and send in seconds."}
+                {subtitle}
             </p>
         </header>
 
@@ -56,26 +88,26 @@ const highlightLineIndex = draft?.highlightText
                                     <span class="dot dot-yellow"></span>
                                     <span class="dot dot-green"></span>
                                 </div>
-                                <span class="window-title">New Message</span>
+                                <span class="window-title">{draftShowcase.windowTitle}</span>
                                 <div class="header-spacer"></div>
                             </div>
 
                             <div class="compose-body">
                                 <div class="compose-field">
-                                    <span class="field-label">To:</span>
-                                    <span class="field-value">{draft ? draft.to : "alex.rivera@techcorp.io"}</span>
+                                    <span class="field-label">{draftShowcase.fieldLabels.to}</span>
+                                    <span class="field-value">{draftContent.to}</span>
                                 </div>
                                 <div class="compose-field">
-                                    <span class="field-label">Subject:</span>
-                                    <span class="field-value">{draft ? draft.subject : "Re: Quick sync this week?"}</span>
+                                    <span class="field-label">{draftShowcase.fieldLabels.subject}</span>
+                                    <span class="field-value">{draftContent.subject}</span>
                                 </div>
 
                                 <div class="original-preview">
                                     <div class="preview-header">
-                                        <span class="preview-label">{draft ? draft.originalFrom : "Alex Rivera wrote:"}</span>
+                                        <span class="preview-label">{draftContent.originalFrom}</span>
                                     </div>
                                     <p class="preview-text">
-                                        {draft ? draft.originalText : "Hey! Would love to catch up on the roadmap changes. Are you free for a 30-min call this week? Let me know what works for you."}
+                                        {draftContent.originalText}
                                     </p>
                                 </div>
 
@@ -92,22 +124,22 @@ const highlightLineIndex = draft?.highlightText
                                                 d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"
                                             ></path>
                                         </svg>
-                                        <span>Autodrafted</span>
+                                        <span>{draftContent.badge}</span>
                                     </div>
 
                                     <div class="draft-text-container">
-                                        {draft ? (
-                                            draft.lines.map((line, index) => {
+                                        {
+                                            draftContent.lines.map((line, index) => {
                                                 const lineNum = index + 1;
-                                                const isSignature = index === draft.lines.length - 1;
+                                                const isSignature = index === draftContent.lines.length - 1;
                                                 const lineClass = isSignature ? `draft-line line-${lineNum} draft-signature` : `draft-line line-${lineNum}`;
-                                                if (index === highlightLineIndex && draft.highlightText) {
-                                                    const hlPos = line.indexOf(draft.highlightText);
+                                                if (index === highlightLineIndex && draftContent.highlightText) {
+                                                    const hlPos = line.indexOf(draftContent.highlightText);
                                                     const before = line.slice(0, hlPos);
-                                                    const after = line.slice(hlPos + draft.highlightText.length);
+                                                    const after = line.slice(hlPos + draftContent.highlightText.length);
                                                     return (
                                                         <p class={lineClass}>
-                                                            <span class="typing-text">{before}<span class="highlight-text">{draft.highlightText}</span>{after}</span>
+                                                            <span class="typing-text">{before}<span class="highlight-text">{draftContent.highlightText}</span>{after}</span>
                                                         </p>
                                                     );
                                                 }
@@ -117,22 +149,7 @@ const highlightLineIndex = draft?.highlightText
                                                     </p>
                                                 );
                                             })
-                                        ) : (
-                                            <>
-                                                <p class="draft-line line-1">
-                                                    <span class="typing-text">Hey Alex!</span>
-                                                </p>
-                                                <p class="draft-line line-2">
-                                                    <span class="typing-text">Would love to sync on the roadmap. <span class="highlight-text">I'm free Thursday 2-4pm or Friday morning</span> — either works great for me.</span>
-                                                </p>
-                                                <p class="draft-line line-3">
-                                                    <span class="typing-text">Let me know what suits you best and I'll send over an invite.</span>
-                                                </p>
-                                                <p class="draft-line line-4 draft-signature">
-                                                    <span class="typing-text">Thanks!&nbsp;&nbsp;</span>
-                                                </p>
-                                            </>
-                                        )}
+                                        }
                                     </div>
                                 </div>
 
@@ -148,9 +165,9 @@ const highlightLineIndex = draft?.highlightText
                                                 d="M2 21L23 12L2 3V10L17 12L2 14V21Z"
                                             ></path>
                                         </svg>
-                                        Send
+                                        {actions[0]}
                                     </button>
-                                    <button class="btn-edit">Edit</button>
+                                    <button class="btn-edit">{actions[1]}</button>
                                 </div>
                             </div>
                         </div>
@@ -171,46 +188,19 @@ const highlightLineIndex = draft?.highlightText
                                     d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"
                                 ></path>
                             </svg>
-                            <span>Personalized Draft</span>
+                            <span>{tooltipTitle}</span>
                         </div>
                         <ul class="tooltip-features">
-                            {draft?.tooltipFeatures ? (
-                                draft.tooltipFeatures.map((feature) => (
+                            {
+                                draftContent.tooltipFeatures.map((feature, index) => (
                                     <li class="feature-item">
                                         <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
-                                            <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"></path>
+                                            <path d={tooltipIconPaths[index] ?? "M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"}></path>
                                         </svg>
                                         <span>{feature}</span>
                                     </li>
                                 ))
-                            ) : (
-                                <>
-                                    <li class="feature-item">
-                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
-                                            <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z"></path>
-                                        </svg>
-                                        <span>Knows your calendar</span>
-                                    </li>
-                                    <li class="feature-item">
-                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
-                                            <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"></path>
-                                        </svg>
-                                        <span>Drafts in your voice</span>
-                                    </li>
-                                    <li class="feature-item">
-                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
-                                            <path d="M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7z"></path>
-                                        </svg>
-                                        <span>Knows context through memory</span>
-                                    </li>
-                                    <li class="feature-item">
-                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
-                                            <path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6h-6z"></path>
-                                        </svg>
-                                        <span>Learns over time</span>
-                                    </li>
-                                </>
-                            )}
+                            }
                         </ul>
                     </div>
                 </div>

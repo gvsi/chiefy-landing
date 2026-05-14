@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail für Rafting- und Kajak-Ausrüster | KI-E-Mail-Assistent",
+  "metaDescription": "Duet Mail hilft Rafting-Guides und Kajak-Ausrüstern, sofort auf Reiseanfragen zu reagieren – sogar vom Fluss aus. Von der KI erstellte Antworten mit Ihren Reisedetails, Preisen und Ihrer Stimme.",
+  "heroBadge": "Über 200 Flussführer vertrauen darauf",
+  "heroHeadline": "Ihr E-Mail-Assistent, während Sie auf dem Fluss sind",
+  "heroSubline": "Duet lernt Ihre Reisearten, Preise und Ausrüstungslisten – und erstellt dann Antworten auf Buchungsanfragen, damit Kunden Antworten erhalten, während Sie Stromschnellen fahren.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Ganztägige Floßfahrt für 6 Personen am 9. August?",
+      "preview": "Hallo! Wir sind eine sechsköpfige Familie und möchten im August einen ganztägigen Rafting-Ausflug buchen. Wie hoch ist der Preis pro Person und welches Erfahrungsniveau benötigen wir?",
+      "pill": "Um zu antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Mehrtägige Reise – was ist inbegriffen?",
+      "preview": "Wir sind eine 4-köpfige Gruppe und schauen uns Ihre dreitägige Expedition an. Sind Mahlzeiten, Campingausrüstung und Trockentaschen inbegriffen oder müssen wir unsere eigenen mitbringen...",
+      "pill": "Frage",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel & Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Kinder im Alter von 8 und 10 Jahren – sicher genug?",
+      "preview": "Wir würden gerne den Halbtagesausflug machen, aber unsere Kinder sind 8 und 10 Jahre alt. Ist der Abschnitt der Klasse II für ihr Alter geeignet? Was ist das Minimum...",
+      "pill": "Frage",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Neue Bewertung für Ihren Eintrag",
+      "preview": "Ein Reisender hat Ihr Unternehmen kürzlich bewertet. Sehen Sie, was sie zu sagen und zu antworten hatten...",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hallo Jennifer! Der 9. August ist für 6 Personen geöffnet. Ganztagesausflüge kosten 150 $/Person und dauern etwa 7 Stunden – wir starten um 8:30 Uhr. Es sind keine Vorkenntnisse erforderlich, unsere Guides kümmern sich um alles. Schwimmwesten, Helme, Packsäcke und ein Mittagessen am Flussufer sind im Preis inbegriffen. Bringen Sie einfach Sonnencreme, Wasserschuhe und Kleidung mit, bei der es Ihnen nichts ausmacht, nass zu werden. Soll ich Ihre Plätze reservieren?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "Person",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Zwei gespeicherte Buchungen zahlen für ein ganzes Jahr Duet."
+  },
+  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass zuerst Reiseanfragen, dann Ausrüstungsfragen auftauchen und der Werbelärm verschwindet. Keine Gruppenbuchung mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen bleibt.",
+  "draftSubtitle": "Duet lernt Ihre Reisearten, Stromschnellenklassen, Ausrüstungslisten und Stornierungsbedingungen. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit allem verfasst, was der Kunde benötigt. Sie überprüfen und senden.",
+  "agentSubtitle": "„Gibt es am Samstag noch freie Plätze?“ „Entwerfen Sie eine Antwort an Jennifer mit Angabe der Verfügbarkeit.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Ganztägige Floßfahrt für 6 Personen am 9. August?",
+      "preview": "Wir sind eine 6-köpfige Familie, die im August zu Besuch ist und möchten buchen...",
+      "pill": "Jetzt antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Betreff: 3-tägige Expedition bestätigt – 15. August",
+      "pill": "Gebucht",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Sind Kinder im Alter von 8 und 10 Jahren für die Klasse II geeignet?",
+      "pill": "Frage",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Das Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Ihre wöchentliche Buchungsübersicht",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Schlussverkauf – 30 % Rabatt auf Trockenanzüge",
+      "pill": "Werbung",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Betreff: Ganztägige Floßfahrt für 6 Personen am 9. August?",
+    "originalFrom": "Jennifer W. schrieb:",
+    "originalText": "Hallo! Wir sind eine sechsköpfige Familie und möchten im August einen ganztägigen Rafting-Ausflug buchen. Wie hoch ist der Preis pro Person und welches Erfahrungsniveau benötigen wir?",
+    "lines": [
+      "Hallo Jennifer!",
+      "Der 9. August ist für 6 Personen geöffnet. Ganztagesausflüge kosten 150 $/Person und dauern etwa 7 Stunden – wir treffen uns um 8:30 Uhr am Einstieg.",
+      "Keine Erfahrung erforderlich. Schwimmwesten, Helme, Packsäcke und ein Mittagessen am Flussufer sind im Preis inbegriffen – bringen Sie einfach Sonnencreme und Wasserschuhe mit.",
+      "Soll ich Ihre Plätze reservieren?"
+    ],
+    "highlightText": "Der 9. August ist für 6 Personen geöffnet. Ganztagesausflüge kosten 150 $/Person",
+    "tooltipFeatures": [
+      "Kennt Ihre Reisearten und Preise",
+      "Entwürfe in deiner Stimme",
+      "Beinhaltet automatisch Ausrüstungslisten",
+      "Lernt mit der Zeit"
+    ]
+  },
+  "agent": {
+    "userMessage": "Gibt es freie Plätze für den Ganztagesausflug am Samstag?",
+    "agentResponse": "Für den Ganztageslauf am Samstag sind noch 4 von 10 Plätzen frei. Außerdem gibt es einen halbtägigen Vormittagslauf, der ausgebucht ist, und eine mehrtägige Abfahrt am Sonntag, bei der noch 2 Plätze frei sind. Möchten Sie, dass ich eine Antwort auf ausstehende Anfragen mit der Verfügbarkeit am Samstag verfasse?",
+    "followUp": "Verfassen Sie eine Antwort an Jennifer mit der Verfügbarkeit am 9. August",
+    "followUpResponse": "Fertig! Ich verfasste eine Antwort an Jennifer, in der ich den 9. August für 6 Gäste für 150 $/Person bestätigte. Es enthält Ihre Standard-Reisedetails, die Ausrüstungsliste und den Treffpunkt. Bereit zum Überprüfen und Senden."
+  },
+  "testimonialsTitle": "Bei Flussführern und Ausrüstern beliebt",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Rafting Outfitter, CO",
+      "quote": "In der Hochsaison bin ich 6 Tage die Woche am Fluss. Als ich auf die E-Mails zurückkam, hatte die Hälfte der Gruppen bereits bei jemand anderem gebucht. Jetzt entwirft Duet Antworten mit Reisedetails und Preisen, während ich am Eingang bin.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Kajak- und SUP-Touren, OR",
+      "quote": "Jeder Kunde stellt die gleichen fünf Fragen – Preis, was mitzubringen ist, Kenntnisstand, Gruppengröße, Stornierungsbedingungen. Duet habe alles in der ersten Woche gelernt. Ich bin von einer Stunde E-Mails jeden Abend auf fünf Minuten umgestiegen, in denen ich Entwürfe überprüft habe.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Mehrtägiger Expeditionsführer, AK",
+      "quote": "Ich führe 5-tägige Reisen ohne Mobilfunkempfang durch. Vor Duet blieb jede Anfrage unbeantwortet, bis ich wieder in der Stadt war. Jetzt erhalten Kunden innerhalb von Minuten eine detaillierte Antwort und ich bestätige, wenn ich den Fluss verlassen habe.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "River Adventures Büroleiter, WV",
+      "quote": "Ich verwalte Buchungen für drei Guides für vier Reisearten. Duet kategorisiert jede E-Mail nach Dringlichkeit und entwirft Antworten mit der richtigen Reise, dem richtigen Preis und der richtigen Ausrüstungsliste. Es ist, als würde ich mich selbst klonen.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "Wir waren skeptisch, ob die KI mit Rafting-spezifischen E-Mails umgehen könnte. Aber es hat unsere Beschreibungen der Klassen III und IV, die Mindestaltersgrenzen und sogar unsere Richtlinie für Kajaks mit nassem Ausstieg übernommen. Kunden denken, sie reden mit uns.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Verbringen Sie den Sommer am Fluss,\nE-Mails werden nicht beantwortet.",
+  "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
+  "verticalFaqs": [
+    {
+      "question": "Bearbeitet Duet individuelle Reiseangebote und mehrtägige Expeditionsanfragen?",
+      "answer": "Ja. Duet erfährt Ihr gesamtes Reiseprogramm – halbtägige Floßfahrten, ganztägige Stromschnellen, mehrtägige Expeditionen – sowie Preise, enthaltene Leistungen, Mindestalter und Schwierigkeitsgrade. Wenn jemand nach einer dreitägigen Reise für 6 Personen fragt, verfasst er eine vollständige Antwort mit den richtigen Details. Sie überprüfen, optimieren bei Bedarf und senden es."
+    },
+    {
+      "question": "Bei mehrtägigen Reisen bin ich vom Stromnetz getrennt. Funktioniert Duet immer noch?",
+      "answer": "Das ist genau das Problem, das Duet löst. Während Sie ohne Signal auf dem Fluss sind, antwortet Duet Drafts auf jede eingehende Anfrage. Wenn Sie wieder in Reichweite sind, warten Ihre Drafts – überprüfen Sie sie einfach und senden Sie sie. Die meisten Reiseführer sagen uns, dass dadurch der Rückstand beseitigt wird, mit dem sie früher nach jeder mehrtägigen Reise konfrontiert waren."
+    }
+  ],
+  "pricingNote": "Bei einem Preis von 150 $/Person decken zwei gespeicherte Buchungen ein ganzes Jahr Pro ab."
+}

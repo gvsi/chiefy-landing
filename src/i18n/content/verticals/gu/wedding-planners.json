@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Wedding Planners માટે Duet Mail | AI Email Assistant",
+  "metaDescription": "Duet Mail લગ્ન આયોજકોને ક્લાયન્ટ અને વેન્ડરના ઈમેલનો તાત્કાલિક જવાબ આપવામાં મદદ કરે છે — venue walkthroughs દરમ્યાન પણ. તમારા packages, vendor contacts અને voice સાથે AI-drafted replies.",
+  "heroBadge": "400+ wedding planners દ્વારા વિશ્વસનીય",
+  "heroHeadline": "જ્યારે તમે venue પર on-site હો ત્યારે તમારો email assistant",
+  "heroSubline": "Duet તમારા vendor contacts, packages અને client preferences શીખે છે — પછી email replies draft કરે છે, જેથી તમે સ્થળ પર coordinationમાં હો ત્યારે couples ને રાહ ન જોવી પડે.",
+  "inboxEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Sept 20 wedding માટે ઉપલબ્ધતા?",
+      "preview": "Hi! અમે હમણાં જ engaged થયા છીએ અને લગભગ 120 guests માટે September 20th wedding જોઈ રહ્યા છીએ. શું તમારી ઉપલબ્ધતા છે? તમારા packages શું છે...",
+      "pill": "જવાબ આપવાનો",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson wedding — centerpiece mockups",
+      "preview": "અહીં આપણે ચર્ચા કરેલા ત્રણ centerpiece options છે. garden roses સુંદર આવ્યા છે. Couple કઈ દિશામાં આગળ વધવા માંગે છે તે જણાવો...",
+      "pill": "Vendor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Seating chart વિશે બહુ ચિંતા થઈ રહી છે",
+      "preview": "મને ખબર છે કે આપણે ગયા અઠવાડિયે chart final કર્યો હતો, પરંતુ મારી mom એ હમણાં જ 4 extra people માટે RSVP કર્યું છે અને તેમને ક્યાં બેસાડવા તેની મને સમજ નથી. શું આપણે થોડા tables ખસેડી શકીએ...",
+      "pill": "Client",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "તમારી listing પરથી નવી inquiry",
+      "preview": "એક couple એ તમારી services વિશે વધુ માહિતી માગી છે. Details જુઓ અને જવાબ આપો...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hi Emily & James — તમારા engagement માટે અભિનંદન! September 20th ઉપલબ્ધ છે અને 120 guests એક ઉત્તમ size છે. હું full planning, partial planning અને day-of coordination packages ઓફર કરું છું. તમારી vision સમજવા માટે complimentary consultation set up કરવું મને ગમશે. શું તમે આ અઠવાડિયે quick call માટે free છો?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "લગ્ન",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "એક બચાવેલો client Duetના 20 વર્ષથી વધુનો ખર્ચ પૂરો કરી દે છે."
+  },
+  "categorizationSubtitle": "Duet દરેક email ને automatic રીતે tag કરે છે જેથી તમે પહેલા નવા couple inquiries, પછી vendor confirmations અને newsletter noise ક્યારેય નહીં જુઓ. Knot alerts નીચે દબાઈ ગયેલી booking request હવે ચૂકી નહીં જાય.",
+  "draftSubtitle": "Duet તમારા packages, preferred vendors અને tone શીખે છે. જ્યારે couple inquiry કરે છે, ત્યારે તે તમારી availability અને next steps સાથે warm, complete reply draft કરે છે. તમે review કરીને send કરો.",
+  "agentSubtitle": "\"Thompson wedding માટે કયા vendor emails આવ્યા?\" \"Saturday માટે બધા vendors ને timeline update draft કરો.\" Duet તમારા inbox અને clients ને જાણે છે — ફક્ત પૂછો.",
+  "categorizationEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Sept 20 wedding માટે ઉપલબ્ધતા?",
+      "preview": "અમે હમણાં જ engaged થયા છીએ અને September 20th જોઈ રહ્યા છીએ...",
+      "pill": "હમણાં જવાબ આપો",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson wedding — centerpiece mockups",
+      "pill": "Vendor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Seating chart — final version attached",
+      "pill": "Client",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "તમારી listing પરથી નવી inquiry",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Minted",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "આ અઠવાડિયે save-the-dates પર 20% off",
+      "pill": "Promotions",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Sept 20 wedding માટે ઉપલબ્ધતા?",
+    "originalFrom": "Emily & James W. wrote:",
+    "originalText": "Hi! અમે હમણાં જ engaged થયા છીએ અને લગભગ 120 guests માટે September 20th wedding જોઈ રહ્યા છીએ. શું તમારી availability છે? તમારા packages અને pricing શું છે?",
+    "lines": [
+      "Hi Emily & James — અભિનંદન!",
+      "September 20th ઉપલબ્ધ છે અને 120 guests એક સુંદર size છે. હું $3,500 થી શરૂ થતા full planning, partial planning અને day-of coordination packages ઓફર કરું છું.",
+      "તમારી vision સાંભળવા અને કયું package સૌથી યોગ્ય રહેશે તે સમજાવવા માટે complimentary consultation set up કરવું મને ગમશે.",
+      "શું તમે આ અઠવાડિયે call માટે free છો?"
+    ],
+    "highlightText": "September 20th ઉપલબ્ધ છે અને 120 guests એક સુંદર size છે",
+    "tooltipFeatures": [
+      "તમારા packages અને availability જાણે છે",
+      "તમારા voice માં draft કરે છે",
+      "Consultationના next steps સામેલ કરે છે",
+      "તમારા client preferences શીખે છે"
+    ]
+  },
+  "agent": {
+    "userMessage": "આ અઠવાડિયે Thompson wedding માટે કયા vendor emails આવ્યા?",
+    "agentResponse": "આ અઠવાડિયે તમને Thompson wedding માટે 4 vendor emails મળ્યા: Bella Rosa Florals એ centerpiece mockups મોકલ્યા (coupleની પસંદગીની રાહમાં), Lakeside Venue એ Friday at 4 PM ceremony rehearsal confirm કરી, DJ Marco એ updated song list મોકલી, અને Sweet Layers Bakery ને Wednesday સુધી final cake flavor જોઈએ છે. શું હું આમાંથી કોઈ માટે replies draft કરું?",
+    "followUp": "Coupleની પસંદગી સાથે Bella Rosa ને reply draft કરો — Option B, the garden roses",
+    "followUpResponse": "Done! મેં Bella Rosa Florals ને Option B — Thompson wedding માટે garden rose centerpieces confirm કરતો reply draft કર્યો છે. તેમાં 14 tables માટે full order સાથે આગળ વધવાની note સામેલ છે. Review કરીને send કરવા માટે ready."
+  },
+  "testimonialsTitle": "Wedding planners ને ગમતું",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Boutique Wedding Planner, CO",
+      "quote": "મારા અડધા અઠવાડિયે હું mountain venues પર હોઉં છું જ્યાં cell service જ નથી. એ દરમિયાન couples મને timelines અને vendor questions વિશે email કરે છે. Duet મારા exact packages અને tone સાથે replies draft કરે છે — હું rangeમાં પાછી આવું ત્યારે તેમને review કરું છું.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Full-Service Wedding Planner, CA",
+      "quote": "દર weddingમાં 10+ vendors coordinate કરવાના હોવાથી peak season દરમિયાન મારો inbox યુદ્ધક્ષેત્ર બની જાય છે. Duet vendor emails ને client emails થી અલગ categorize કરે છે અને એવા follow-ups draft કરે છે જે હું જાતે લખ્યો હોત. હવે હું ખરેખર ઊંઘી શકું છું.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Day-of Coordinator, TX",
+      "quote": "Wedding days પર હું સતત 14 કલાક unavailable હોઉં છું. નવી inquiries પહેલાં Monday સુધી unanswered રહેતી. હવે Duet તેમને તાત્કાલિક handle કરે છે અને ફક્ત faster response timesને કારણે આ quarterમાં મેં 3 extra weddings book કર્યા છે.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Destination Wedding Planner, HI",
+      "quote": "મારા couples દુનિયાભરમાંથી આવે છે અને કોઈ પણ સમયે email કરે છે. Duet એ મારા FAQ answers શીખી લીધા — venue logistics, local vendors, શું expect કરવું — અને મારી જેમ જ લાગતા replies draft કરે છે. Clients ને ખબર પણ પડતી નથી.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Wedding & Event Planner, NY",
+      "quote": "હું દર રાત્રે એ જ package અને availability questionsના જવાબમાં 2 hours ખર્ચતી હતી. Duet repetitive stuff handle કરે છે જેથી હું જે creative work ખરેખર પ્રેમ કરું છું તેના પર focus કરી શકું. પહેલા જ અઠવાડિયામાં તેનો ખર્ચ વસૂલ થઈ ગયો.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Ceremonyમાં હાજર રહો,\ninboxમાં દટાઈ ન જાઓ.",
+  "ctaSubline": "તમારી free trial શરૂ કરો. 30 secondsમાં તમારો inbox connect કરો.",
+  "verticalFaqs": [
+    {
+      "question": "શું Duet બધા vendor coordination emails સાથે કામ કરે છે?",
+      "answer": "હા. Duet તમારા vendor contacts, preferred vendors અને તમે દરેક સાથે કેવી રીતે communicate કરો છો તે શીખે છે. તે wedding પ્રમાણે vendor emails categorize કરે છે અને યોગ્ય details સાથે replies draft કરે છે — confirmations, follow-ups, timeline updates. તમે review કરીને send કરો. તે florists, caterers, venues, DJs, photographers અને તમારા rolodexના દરેક બીજા vendor ને handle કરે છે."
+    },
+    {
+      "question": "હું આખો દિવસ weddings અને venues પર on-site હોઉં છું. શું નવી inquiries ચૂકી જઈશ?",
+      "answer": "Duet આ જ સમસ્યા હલ કરે છે. જ્યારે તમે on-site coordinate કરી રહ્યા હો અને કોઈ couple availability અથવા packages વિશે email કરે, ત્યારે Duet તમારી real availability અને next steps સાથે warm, professional reply draft કરે છે. જ્યારે તમે free હો ત્યારે review કરીને send કરો — events વચ્ચે તમારા phone પરથી પણ. ઘણા planners અમને કહે છે કે peak season દરમિયાન તે દરરોજ 1-2 hoursનો email time બચાવે છે."
+    }
+  ],
+  "pricingNote": "$8,000/wedding પર, એક બચાવેલો client Pro ના 20 વર્ષથી વધુનો ખર્ચ પૂરો કરી દે છે."
+}

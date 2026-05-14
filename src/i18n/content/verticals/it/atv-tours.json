@@ -1,0 +1,171 @@
+{
+  "slug": "atv-tours",
+  "pageTitle": "Duet Mail per tour ATV e UTV | Assistente e-mail AI",
+  "metaDescription": "Duet Mail aiuta le guide turistiche ATV e UTV a rispondere istantaneamente alle e-mail di prenotazione, anche dal percorso. Risposte elaborate dall'intelligenza artificiale con prezzi, requisiti e voce.",
+  "heroBadge": "Scelto da oltre 200 guide turistiche",
+  "heroHeadline": "Il tuo assistente email mentre sei in viaggio",
+  "heroSubline": "Duet apprende i tipi di tour, i prezzi e i requisiti dei ciclisti, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Disponibilità sabato per 4 macchine?",
+      "preview": "Ciao! Siamo un gruppo di 4 persone che vogliono prenotare un tour guidato in ATV questo sabato. Hai spazio? Qual è il prezzo per macchina?",
+      "pill": "Per rispondere",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Requisiti assicurativi?",
+      "preview": "Ehi, porteremo i nostri UTV. Dobbiamo mostrare la prova dell'assicurazione di responsabilità civile? Di che tipo di copertura hai bisogno...",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Gli Henderson",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Quale percorso per principianti?",
+      "preview": "Non abbiamo mai fatto un giro in ATV prima. Quale itinerario di tour consiglieresti a una famiglia con due adolescenti? Fornisci...",
+      "pill": "Prenotazione",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nuova recensione per la tua inserzione",
+      "preview": "Un viaggiatore ha recentemente recensito la tua attività. Guarda cosa avevano da dire e rispondi...",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ciao Rachele! Sabato è aperto e possiamo prendere 4 macchine senza problemi. I tour costano $ 200 per macchina e durano circa 6-8 ore. Ci incontriamo alle 9:00 all'inizio del sentiero: ti invierò le indicazioni una volta confermato. Caschi e occhiali forniti. Vuoi che ti chiuda dentro?",
+  "math": {
+    "pricePerBooking": "$800",
+    "bookingUnit": "gruppo (4 macchine)",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,400",
+    "punchline": "Una prenotazione di gruppo salvata paga un anno di Duet."
+  },
+  "categorizationSubtitle": "Duet tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande sull'assicurazione e mai il rumore. Non perderai più un'indagine di gruppo sepolta sotto gli avvisi TripAdvisor.",
+  "draftSubtitle": "Duet apprende i percorsi del tour, i prezzi e i requisiti dei ciclisti. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del viaggio, i prezzi e cosa portare. Rivedi e invii.",
+  "agentSubtitle": "\"Ci sono gruppi prenotati per questo fine settimana?\" \"Scrivi una risposta a Rachel con disponibilità per sabato.\" Duet conosce la tua casella di posta e il tuo programma: basta chiedere.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Disponibilità sabato per 4 macchine?",
+      "preview": "Siamo un gruppo di 4 persone e vogliamo prenotare un tour guidato in ATV...",
+      "pill": "Rispondi adesso",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Prenotazione confermata — sabato 9:00",
+      "pill": "Prenotato",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Gli Henderson",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Cosa dovremmo indossare sul percorso?",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Yelp per le imprese",
+      "avatarLetter": "Y",
+      "avatarColor": "lavender",
+      "subject": "Il tuo aggiornamento aziendale settimanale",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "ATV delle Montagne Rocciose",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Svendita primaverile: 25% di sconto sui componenti",
+      "pill": "Promozioni",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.w@email.com",
+    "subject": "Ri: Disponibilità sabato per 4 macchine?",
+    "originalFrom": "Rachel W. ha scritto:",
+    "originalText": "Ciao! Siamo un gruppo di 4 persone che vogliono prenotare un tour guidato in ATV questo sabato. Hai spazio? Qual è il prezzo per macchina?",
+    "lines": [
+      "Ciao Rachele!",
+      "Il sabato è aperto per 4 macchine. I tour costano $ 200 per macchina e durano 6-8 ore a partire dalle 9:00 dall'inizio del sentiero.",
+      "Vengono forniti caschi e occhiali: basta indossare pantaloni lunghi, scarpe chiuse e portare acqua e crema solare. Invierò il punto d'incontro e le indicazioni stradali una volta confermato.",
+      "Vuoi che ti chiuda dentro?"
+    ],
+    "highlightText": "Il sabato è aperto per 4 macchine. I tour costano $ 200 per macchina",
+    "tooltipFeatures": [
+      "Conosce i tuoi prezzi e i percorsi del tour",
+      "Bozze nella tua voce",
+      "Include automaticamente i requisiti del ciclista",
+      "Impara nel tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ci sono gruppi prenotati per questo fine settimana?",
+    "agentResponse": "In base alla tua casella di posta, hai un gruppo di 6 persone confermato per sabato alle 9:00 e una coppia prenotata per domenica mattina. Sabato pomeriggio e domenica pomeriggio sono ancora aperti. Vuoi che rediga una risposta a eventuali domande in sospeso con tali opportunità?",
+    "followUp": "Scrivi una risposta a Rachel con disponibilità per sabato",
+    "followUpResponse": "Fatto! Ho redatto una risposta a Rachel confermando sabato per 4 macchine a $ 200 ciascuna. Include il luogo della riunione standard, informazioni sull'attrezzatura e cosa indossare. Pronto per la revisione e l'invio."
+  },
+  "testimonialsTitle": "Amato dalle guide turistiche e dagli operatori",
+  "testimonials": [
+    {
+      "name": "Mike D.",
+      "title": "Guida ATV, Utah meridionale",
+      "quote": "Conduco tour di 8 ore attraverso i canyon con servizio zero cell. Quando sono tornato, metà delle mie e-mail di prenotazione erano diventate fredde. Duet redige le risposte con i miei prezzi e le informazioni sulla traccia: le rivedo semplicemente alla fine della giornata.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Tara M.",
+      "title": "Tour operator UTV, Colorado",
+      "quote": "Organizziamo tour 7 giorni su 7 e le sole domande sull'assicurazione e sulla rinuncia mi stavano divorando le mattine. Duet gestisce tutto: requisiti del ciclista, limiti di età, cosa portare. Sembra esattamente come me.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Guida turistica in jeep, Moab",
+      "quote": "Le persone inviano email chiedendo quale percorso è adatto al loro gruppo, quale livello di esperienza hanno bisogno, se i bambini possono pedalare. Le stesse 5 domande ancora e ancora. Duet li inchioda tutti.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Nicola S.",
+      "title": "Avventure fuoristrada, Arizona",
+      "quote": "Trascorrevo più di un'ora ogni notte a rispondere alle stesse domande sulla disponibilità. Ora Duet redige le risposte mentre sono in pista. Il mio tempo di risposta è passato da ore a minuti.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Amanda K.",
+      "title": "Tour in ATV per famiglie, Sedona",
+      "quote": "Riceviamo molte famiglie che chiedono informazioni sui percorsi per principianti e sui requisiti di età. Duet ha appreso tutte le nostre opzioni di tour e consiglia quella giusta in ogni risposta. I clienti non possono notare la differenza.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Trascorri l'alta stagione sul sentiero,\nnon nella tua casella di posta.",
+  "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
+  "verticalFaqs": [
+    {
+      "question": "Duet gestisce le domande sull'assicurazione e sulla rinuncia?",
+      "answer": "Sì. Duet apprende i requisiti del tuo ciclista: assicurazione di responsabilità civile, limiti di età, dettagli di esenzione, cosa devono portare i ciclisti. Quando qualcuno invia un'e-mail chiedendo di cosa ha bisogno prima del tour, Duet redige una risposta completa con tutti i dettagli. Rivedi e tocca Invia."
+    },
+    {
+      "question": "Sono in giro tutto il giorno senza servizio cellulare. In che modo Duet aiuta?",
+      "answer": "Questo è esattamente il motivo per cui le guide adorano Duet. Mentre conduci un tour di 6-8 ore senza segnale, le richieste di prenotazione si accumulano. Duet bozze risponde a ognuna di esse: prezzi, disponibilità, luogo dell'incontro, cosa indossare. Quando torni, rivedi le bozze e le invii. La maggior parte delle guide ci dice che questo consente loro di risparmiare 1-2 ore di posta elettronica al giorno durante l'alta stagione."
+    }
+  ],
+  "pricingNote": "A $ 200/macchina, un gruppo di 4 persone salvato paga più di un anno di Pro."
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail for Dog Sled Tours | AI Email Assistant",
+  "metaDescription": "Duet Mail helps mushers respond to booking emails instantly — even from the trail. AI-drafted replies with your tour types, pricing, policies, and voice.",
+
+  "heroBadge": "Trusted by 200+ mushers",
+  "heroHeadline": "Your email assistant while you're on the trail",
+  "heroSubline": "Duet learns your tour types, pricing, weather policies, and add-ons — then drafts email replies so you never lose a booking to a slow response.",
+
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + dog sled combo for 4?",
+      "preview": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+      "pill": "To Respond",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "What should we wear?",
+      "preview": "We're booked for the 2-hour mush experience on Saturday. What should we wear? Do you provide gear or do we need to bring our own...",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim & Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Kids ages 5 and 8 — can they mush?",
+      "preview": "We're bringing our two kids (5 and 8). Can they ride in the sled or actually help mush? Also do the dogs do well with small children...",
+      "pill": "Booking",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "New review for your listing",
+      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+
+  "autodraft": "Hey Rachel! We'd love to host your family. Our Aurora + Mush Combo is $175/person — you get a 1.5-hour sled ride through the trails at dusk, then hot cocoa by the fire while we wait for the lights. All cold-weather gear is provided. Kids 12 and under are $125. Want me to book you in for January?",
+
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "tour",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Two saved bookings pay for a year of Duet."
+  },
+
+  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a tour inquiry buried under TripAdvisor alerts.",
+
+  "draftSubtitle": "Duet learns your tour types, pricing, and tone. When a booking inquiry hits, it drafts a complete reply with package details, what to wear, and add-ons. You review and send.",
+
+  "agentSubtitle": "\"Any bookings this weekend?\" \"Draft a reply about the aurora combo.\" Duet knows your inbox and schedule — just ask.",
+
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + dog sled combo for 4?",
+      "preview": "My family of 4 is visiting Fairbanks in January...",
+      "pill": "Respond Now",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Booking confirmed — Saturday 1PM",
+      "pill": "Booked",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Can our kids (5 and 8) ride along?",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Your weekly booking summary",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Winter sale — 30% off mushing harnesses",
+      "pill": "Promotions",
+      "pillColor": "lavender"
+    }
+  ],
+
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Aurora + dog sled combo for 4?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "lines": [
+      "Hey Rachel!",
+      "Our Aurora + Mush Combo is $175/person — a 1.5-hour sled ride at dusk followed by hot cocoa and aurora viewing by the fire. Kids 12 and under are $125.",
+      "All cold-weather gear is provided (boots, bibs, gloves, face masks). Just dress in warm layers underneath.",
+      "Want me to book your family of 4 for January?"
+    ],
+    "highlightText": "Aurora + Mush Combo is $175/person — a 1.5-hour sled ride",
+    "tooltipFeatures": [
+      "Knows your tour types & pricing",
+      "Drafts in your voice",
+      "Includes gear and add-on details",
+      "Learns over time"
+    ]
+  },
+
+  "agent": {
+    "userMessage": "Any bookings coming up this weekend? Weather looks iffy.",
+    "agentResponse": "You have 3 tours booked this weekend: a kennel visit Saturday at 10 AM (2 guests), a 2-hour mush experience Saturday at 1 PM (4 guests), and an aurora combo Sunday at 4 PM (6 guests). The Sunday group asked about cancellation policy. Want me to draft a weather update to all three?",
+    "followUp": "Draft a weather update to the Sunday aurora group",
+    "followUpResponse": "Done! I drafted a reply to the Sunday aurora group letting them know you're monitoring conditions and will confirm by Saturday evening. It includes your rescheduling policy and alternate dates. Ready to review and send."
+  },
+
+  "testimonialsTitle": "Loved by mushers and tour operators",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Sled Dog Tour Operator, AK",
+      "quote": "I'm on the trail 6 hours a day with zero cell service. By the time I'd get back, half the booking inquiries had gone to another outfit. Duet drafts replies with my tour details and pricing — guests hear back in minutes, not hours.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Kennel & Mush Tour Owner, AK",
+      "quote": "We offer kennel visits, mush rides, and aurora combos — every email needs a different answer. Duet figured out all three tour types in a week and now drafts replies that match the right package every time.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Dog Sled Guide, MN",
+      "quote": "I used to spend every evening answering the same questions about what to wear, age limits, and the dogs. Duet handles all of it. I get home from the trail and everything's drafted and waiting.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Weather cancellations are constant in winter. Duet drafts rescheduling replies with our policy and alternate dates before I even get a chance to check my phone. Guests love the fast response.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Family Dog Sled Adventures, CO",
+      "quote": "Parents always ask if their kids can mush, if the dogs are friendly, what to wear — the same 10 questions. Duet learned every answer and drafts them perfectly. It's like cloning myself for email.",
+      "avatarKey": "francesca"
+    }
+  ],
+
+  "ctaHeadline": "Spend winter on the trail with your dogs,\nnot in your inbox.",
+  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+
+  "verticalFaqs": [
+    {
+      "question": "How does Duet handle weather cancellations and aurora uncertainty?",
+      "answer": "Duet learns your cancellation and rescheduling policies. When a guest emails about weather concerns or aurora visibility, it drafts a reply with your policy, alternate dates, and any relevant details — like monitoring conditions and confirming closer to the tour. You review and send."
+    },
+    {
+      "question": "I offer multiple tour types with different pricing and add-ons. Can Duet keep them straight?",
+      "answer": "Yes. Duet learns each of your tour types — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — along with their pricing, duration, and what's included. When an inquiry comes in, it matches the right tour and drafts a reply with the correct details."
+    }
+  ],
+
+  "pricingNote": "At $150/tour, two saved bookings pay for over a year of Pro."
+}

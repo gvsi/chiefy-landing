@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail per a dissenyadors de paisatge | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els dissenyadors de paisatges a respondre als correus electrònics dels clients a l'instant, fins i tot des del camp. Respostes redactades per AI amb els detalls del projecte, els preus i la veu.",
+  "heroBadge": "Més de 300 dissenyadors de paisatges confiats",
+  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al camp",
+  "heroSubline": "Duet coneix els detalls del vostre projecte, les paletes de plantes, els preus i el procés; després redacta les respostes per correu electrònic perquè mai perdeu un client per una resposta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redisseny del pati del darrere: gratuït per a una consulta?",
+      "preview": "Hola! Acabem de comprar una casa a Westlake i el pati del darrere és una pissarra en blanc. Ens agradaria un redisseny complet amb plantacions autòctones i un pati. Estàs agafant nous clients?",
+      "pill": "Per respondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. - Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Especificacions de reg per al projecte Miller?",
+      "preview": "Ei, estem preparats per començar a fer trinxeres dilluns. Podeu enviar el disseny del reg i les especificacions del capçal perquè puguem demanar materials aquesta setmana?",
+      "pill": "Contractista",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer i Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Pregunta ràpida sobre les seleccions de plantes",
+      "preview": "Ens encanta el disseny! Només em pregunto: podem canviar l'auró japonès per alguna cosa amb més color de tardor? A més, el cérvol lavanda és resistent?",
+      "pill": "Client",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Llar d'infants Valley View",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Comanda #4821 a punt per a la recollida",
+      "preview": "La vostra comanda d'arbustos de 24 galons, 6 exemplars d'arbres i pisos de coberta del sòl està a punt. Recollida disponible de dilluns a dissabte de 7:00 a 16:00...",
+      "pill": "Proveïdor",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Raquel! M'encantaria ajudar-vos amb el vostre pati. Actualment estic reservant les primeres consultes entre 2 i 3 setmanes. La primera visita és una avaluació in situ de 90 minuts: recorreré la propietat, prendré mesures i parlaré de la vostra visió. A partir d'aquí vaig elaborar un pla conceptual. Vols que t'inclogui al calendari?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projecte",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Un projecte guardat paga anys de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de consulta noves, les aprovacions dels clients en segon lloc i el soroll del proveïdor mai. Ja no us faltarà un plom enterrat sota les confirmacions de comanda de viver.",
+  "draftSubtitle": "Duet coneix el vostre preu, procés i to. Quan arriba una sol·licitud de consulta, redacta una resposta completa amb la vostra disponibilitat, què esperar i els propers passos. Tu revisa i envia.",
+  "agentSubtitle": "\"Quina és la cronologia del projecte Henderson?\" \"Quins clients estan esperant l'aprovació del pla?\" Duet coneix la vostra safata d'entrada i els vostres projectes; només cal que ho pregunteu.",
+  "categorizationEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redisseny del pati del darrere: gratuït per a una consulta?",
+      "preview": "Acabem de comprar una casa i el pati del darrere és una pissarra en blanc...",
+      "pill": "Nova consulta",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Disseny final: estem preparats per aprovar-lo!",
+      "pill": "Aprovació del client",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. - Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Especificacions de reg per al projecte Miller?",
+      "pill": "Contractista",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Llar d'infants Valley View",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Comanda #4821 a punt per a la recollida",
+      "pill": "Proveïdor",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Factura #1047 vista pel client",
+      "pill": "Factura",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Backyard redesign — free for a consultation?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Hi! We just bought a home in Westlake and the backyard is a blank slate. We'd love a full redesign with native plantings and a patio. Are you taking new clients?",
+    "lines": [
+      "Hola Rachel!",
+      "Felicitats per la casa nova: un pati en blanc és sincerament un projecte ideal. Sí, estic acceptant clients nous.",
+      "El meu procés comença amb una consulta in situ de 90 minuts en què recorrem la propietat, prenc mesures i parlem dels teus objectius. A partir d’aquí desenvolupo un pla conceptual amb disseny de plantació, distribució d’elements durs i pressupost per fases.",
+      "Tinc disponibilitat en les properes 2-3 setmanes. Vols que t’enviï algunes dates disponibles?"
+    ],
+    "highlightText": "El meu procés comença amb una consulta in situ de 90 minuts",
+    "tooltipFeatures": [
+      "Coneix el teu procés i preus",
+      "Redacta amb la teva veu",
+      "Inclou calendari i passos següents",
+      "Aprèn amb el temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quins clients encara estan esperant l'aprovació del pla?",
+    "agentResponse": "D'acord amb els vostres correus electrònics recents, dos clients estan pendents d'aprovació: Jennifer & Mark L. (redisseny del pati del darrere: els plans finals van enviar fa 4 dies, encara no hi ha resposta) i els Cohens (conversió nativa del pati del davant: el pla revisat va enviar la setmana passada). Voleu que redacti un seguiment suau de qualsevol d'ells?",
+    "followUp": "Elaborar un esborrany de seguiment de Jennifer sobre l'aprovació del pla",
+    "followUpResponse": "Fet! Vaig redactar un registre d'entrada amigable a Jennifer preguntant-li si ella i Mark tenien l'oportunitat de revisar els plans finals i recordant-li que podeu fer una trucada ràpida per recórrer les seleccions de plantes. A punt per revisar i enviar."
+  },
+  "testimonialsTitle": "Estimat pels dissenyadors de paisatge",
+  "testimonials": [
+    {
+      "name": "Miquel S.",
+      "title": "Arquitecte paisatgista, Austin, TX",
+      "quote": "Durant la primavera estic al lloc 8 hores al dia fent avaluacions i instal·lar la supervisió. Les noves sol·licituds de consulta es mantindrien durant dies. Ara Duet respon amb el meu procés i disponibilitat en qüestió de minuts. He reservat 3 projectes que sens dubte hauria perdut.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Dissenyador de jardins, Portland OR",
+      "quote": "La coordinació entre els equips de l'entorn, els instal·ladors de regs i els clients genera una quantitat absurda de correu electrònic. Duet ho ordena tot i redacta respostes que inclouen els detalls adequats del projecte. És com tenir un director d'estudi.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Propietari de l'estudi de disseny del paisatge, Denver CO",
+      "quote": "Em passava cada vespre després del treball de camp posant-me al dia amb els correus electrònics. Les mateixes preguntes: preus, procés, cronologia. Duet s'encarrega de tot. El meu temps de resposta ha passat de dies a minuts i la meva taxa de tancament ha augmentat molt.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Dissenyador de paisatge residencial, Scottsdale AZ",
+      "quote": "Els meus clients fan moltes preguntes sobre la selecció i el manteniment de plantes. Duet va aprendre les meves paletes de plantes i instruccions de cura i esborranys de respostes que amb prou feines necessito editar. Els clients pensen que sóc increïblement sensible.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Dissenyador de paisatge de plantes natives, Raleigh NC",
+      "quote": "Estava perdent nous clients perquè no podia respondre mentre estava fins als genolls en una instal·lació de plantació. Duet redacta respostes de consulta amb el meu procés exacte, els preus i què puc esperar. Es va pagar per si mateix la primera setmana.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Passa els teus dies creant paisatges,\nno posant-te al dia amb el correu electrònic.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
+  "verticalFaqs": [
+    {
+      "question": "Duet pot fer front a la pressa primaveral quan s'acumulen les sol·licituds de consulta?",
+      "answer": "És exactament quan brilla Duet. Durant la vostra temporada de més activitat, cada consulta nova rep una resposta ràpida i detallada amb el vostre procés, cronograma i disponibilitat, fins i tot mentre esteu al lloc durant tot el dia. No més perdre els ploms de primavera perquè no els podríeu tornar fins a les 21 h."
+    },
+    {
+      "question": "Coordino amb múltiples equips a l'aire lliure. Duet ajuda amb això?",
+      "answer": "Sí. Duet coneix els vostres projectes i els contractistes implicats: paisatges, regs, equips de plantació, vivers. Classifica els correus electrònics del contractista per separat dels correus electrònics dels clients i pot redactar respostes amb detalls específics del projecte, com ara especificacions, terminis i materials. Estàs al capdavant de tots els equips sense el caos de la safata d'entrada."
+    }
+  ],
+  "pricingNote": "Amb 8.000 dòlars per projecte, un client desat paga per anys de Pro."
+}

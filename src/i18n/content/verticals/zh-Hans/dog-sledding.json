@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail 狗拉雪橇之旅 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助拉雪橇者即时回复预订电子邮件——即使是在赛道上。 AI-起草回复，其中包含您的旅游类型、价格、政策和声音。",
+  "heroBadge": "受到 200 多名雪橇手的信赖",
+  "heroHeadline": "您旅途中的电子邮件助手",
+  "heroSubline": "Duet 了解您的旅行类型、定价、天气政策和附加服务，然后起草电子邮件回复，这样您就不会因为响应缓慢而失去预订。",
+  "inboxEmails": [
+    {
+      "from": "雷切尔·T。",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "极光 + 狗拉雪橇 4 人组合？",
+      "preview": "嗨！我的四口之家在一月份访问费尔班克斯。你们提供狗拉雪橇和极光观赏的组合套餐吗？价格是多少？",
+      "pill": "回应",
+      "pillColor": "red"
+    },
+    {
+      "from": "詹姆斯·W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "我们应该穿什么？",
+      "preview": "我们预订了周六的 2 小时糊状体验。我们应该穿什么？你们提供装备还是我们需要自带...",
+      "pill": "问题",
+      "pillColor": "amber"
+    },
+    {
+      "from": "金和布莱恩·L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "5 岁和 8 岁的孩子——他们会捣碎吗？",
+      "preview": "我们带着两个孩子（5 岁和 8 岁）。他们可以乘坐雪橇还是真的帮忙拉雪橇？还有，狗和小孩子相处得好吗？",
+      "pill": "预订",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "对您的列表的新评论",
+      "preview": "一位旅行者最近评价了您的商家。看看他们怎么说并回应......",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "嘿雷切尔！我们很乐意接待您的家人。我们的极光 + 蘑菇组合是 $175/person — 您可以在黄昏时乘坐 1.5 小时的雪橇穿越小径，然后在等待灯光亮起时在火边享用热可可。提供所有寒冷天气装备。 12 岁及以下儿童为 $125。要我帮您预订一月份的房间吗？",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "游览",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "两次保存的预订支付一年的Duet。"
+  },
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到预订请求，其次看到问题，而永远不会看到噪音。不再错过隐藏在 TripAdvisor 警报下的旅游查询。",
+  "draftSubtitle": "Duet 了解您的旅行类型、定价和基调。当收到预订查询时，它会起草一份完整的回复，其中包含包裹详细信息、穿什么和附加项目。您审阅并发送。",
+  "agentSubtitle": "“这个周末有预约吗？” “起草一份关于极光组合的回复。” Duet 了解您的收件箱和日程安排 - 只需询问即可。",
+  "categorizationEmails": [
+    {
+      "from": "雷切尔·T。",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "极光 + 狗拉雪橇 4 人组合？",
+      "preview": "我的 4 口之家在一月份访问费尔班克斯......",
+      "pill": "立即回复",
+      "pillColor": "red"
+    },
+    {
+      "from": "詹姆斯·W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "回复：预订已确认 - 周六下午 1 点",
+      "pill": "已预订",
+      "pillColor": "blue"
+    },
+    {
+      "from": "金·L。",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "我们的孩子（5 岁和 8 岁）可以一起骑行吗？",
+      "pill": "问题",
+      "pillColor": "amber"
+    },
+    {
+      "from": "维阿托",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "您的每周预订摘要",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "阿拉斯加齿轮公司",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "冬季促销 — 雪橇安全带 30% 折扣",
+      "pill": "促销",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "回复：极光+狗拉雪橇4人组合？",
+    "originalFrom": "雷切尔·T.写道：",
+    "originalText": "嗨！我的四口之家在一月份访问费尔班克斯。你们提供狗拉雪橇和极光观赏的组合套餐吗？价格是多少？",
+    "lines": [
+      "嘿雷切尔！",
+      "我们的极光 + 蘑菇组合价格为 $175/person — 黄昏时乘坐 1.5 小时的雪橇，然后在火边享用热可可和观赏极光。 12 岁及以下儿童为 $125。",
+      "提供所有寒冷天气装备（靴子、围兜、手套、口罩）。只需在下面穿上保暖的衣服即可。",
+      "要我为您一家四口预订一月份的住宿吗？"
+    ],
+    "highlightText": "极光 + 蘑菇组合 $175/person — 1.5 小时的雪橇之旅",
+    "tooltipFeatures": [
+      "了解您的旅游类型和价格",
+      "你的声音中的草稿",
+      "包括装备和附加细节",
+      "随着时间的推移学习"
+    ]
+  },
+  "agent": {
+    "userMessage": "这个周末有预约吗？天气看起来很不稳定。",
+    "agentResponse": "您本周末预订了 3 个旅游项目：周六 10 AM 参观狗舍（2 位客人）、周六 1 PM 2 小时的糊状体验（4 名客人）以及周日 4 PM 的极光组合（6 名客人）。周日小组询问取消政策。想要我为这三个人起草天气更新吗？",
+    "followUp": "起草周日极光群的天气更新",
+    "followUpResponse": "完成！我起草了一份给周日极光小组的回复，让他们知道你正在监测情况，并将在周六晚上确认。它包括您的重新安排政策和备用日期。准备审查并发送。"
+  },
+  "testimonialsTitle": "深受雪橇爱好者和旅行社的喜爱",
+  "testimonials": [
+    {
+      "name": "瑞恩·H.",
+      "title": "狗拉雪橇旅游运营商，AK",
+      "quote": "我每天在路上 6 小时，手机信号为零。当我回来时，一半的预订查询已经转到了另一家公司。 Duet 草拟回复我的旅行详细信息和价格 - 客人在几分钟内即可收到回复，而不是几个小时。",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "梅根·K.",
+      "title": "Kennel & Mush 旅游老板，AK",
+      "quote": "我们提供狗舍参观、毛茸茸的游乐设施和极光组合——每封电子邮件都需要不同的答案。 Duet 在一周内弄清楚了所有三种旅游类型，现在每次都会起草与正确套餐相匹配的回复。",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "特拉维斯·B.",
+      "title": "狗拉雪橇指南，MN",
+      "quote": "我以前每天晚上都会回答同样的问题，比如穿什么、年龄限制和狗。 Duet 处理所有这一切。我从小路回到家，一切都准备好了并等待着。",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "安妮卡·S。",
+      "title": "极光和雪橇旅游运营商，AK",
+      "quote": "冬季天气取消的情况经常发生。在我有机会查看手机之前，Duet 就根据我们的政策和备用日期起草了重新安排回复的时间。客人喜欢快速响应。",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "卡拉·D.",
+      "title": "家庭狗拉雪橇冒险，CO",
+      "quote": "父母总是问他们的孩子是否可以吃东西、狗是否友善、穿什么——同样的 10 个问题。 Duet 学习了每一个答案并完美地起草了它们。这就像克隆我自己来发送电子邮件一样。",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "和你的狗狗一起在小路上度过冬天，\n不在您的收件箱中。",
+  "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
+  "verticalFaqs": [
+    {
+      "question": "Duet 如何应对天气取消和极光不确定性？",
+      "answer": "Duet 了解您的取消和重新安排政策。当客人通过电子邮件询问天气问题或极光能见度时，它会起草一份回复，其中包含您的政策、备用日期和任何相关详细信息，例如监控状况并确认是否接近旅行。您审阅并发送。"
+    },
+    {
+      "question": "我提供多种不同价格和附加项目的旅游类型。 Duet能让它们保持直线吗？",
+      "answer": "是的。 Duet 了解您的每种旅行类型——狗舍参观、毛茸茸的体验、极光组合、摄影附加项目、交通套餐——以及它们的价格、持续时间和包含的内容。当收到询问时，它会匹配正确的旅行并起草包含正确详细信息的答复。"
+    }
+  ],
+  "pricingNote": "在 $150/tour 时，两次保存的预订支付一年多于 Pro 的费用。"
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail för valskådningsturer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper valskådarkaptener att svara på bokningsmeddelanden direkt – även från vattnet. AI-utkastade svar med dina turnédetaljer, priser och röst.",
+  "heroBadge": "Betrodd av 300+ turnékaptener",
+  "heroHeadline": "Din e-postassistent när du är ute och tittar på valar",
+  "heroSubline": "Duet lär sig ditt turnéschema, prissättning och röst – förbereder sedan e-postsvar så att du aldrig förlorar en bokning medan du är på vattnet.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Grupp om 8 — tillgänglighet 14 juni?",
+      "preview": "Hej! Vi är en familj på 8 som besöker veckan. Har du plats på morgonturnén 14 juni? Vad är priset per person och är det okej för barn?",
+      "pill": "Att svara",
+      "pillColor": "red"
+    },
+    {
+      "from": "James och Kathy L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Privat charterpriser?",
+      "preview": "Vi vill gärna boka en privat valskådningstur för vår bröllopsdag. Vad kostar en 2-timmars privat charter för bara oss två...",
+      "pill": "Högt värde",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Cruise Port Desk",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "Schemaändring — Coral Princess anländer 1 timme för tidigt",
+      "preview": "Observera: morgondagens Coral Princess-ankomst har flyttats från 10:00 till 09:00. Vänligen justera eventuella hamnutflyktshämtningar därefter...",
+      "pill": "Brådskande",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ny recension för din annons",
+      "preview": "En resenär har nyligen recenserat ditt företag. Se vad de hade att säga och svara...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Rachel! 14 juni morgonturen har plats för 8. Turer kostar $125/person, barn 4-12 kostar halva priset. Vi avgår kl 9 från hamnen och kör ca 2,5 timmar. Kikare tillhandahålls - ta bara med lager och solskyddsmedel. Vill du att jag ska boka 8 platser?",
+  "math": {
+    "pricePerBooking": "$750",
+    "bookingUnit": "resegrupp",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,250",
+    "punchline": "En sparad gruppbokning betalar för ett år av Duet."
+  },
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, kryssningsfartygs schema ändras i andra hand och buller aldrig. Saknar inte längre en privat charterförfrågan begravd under TripAdvisor-varningar.",
+  "draftSubtitle": "Duet lär sig dina turnétider, priser och policyer. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med tillgänglighet, vad som ingår och vad du ska ta med. Du granskar och skickar.",
+  "agentSubtitle": "\"Hur många platser finns kvar på lördagens morgonturné?\" \"Skapa ett svar till Rachel med tillgänglighet.\"Duet känner till din inkorg och schema — fråga bara.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Grupp om 8 — tillgänglighet 14 juni?",
+      "preview": "Vi är en familj på 8 som besöker veckan...",
+      "pill": "Svara nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "James L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Privat charter bekräftad — lördag 14:00",
+      "pill": "Bokad",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Megan S.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Kommer morgondagens turné att köras? Vinden ser hård ut",
+      "pill": "Fråga",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FareHarbor",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Daglig bokningssammanfattning — 3 nya bokningar",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marine Supply Co.",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Sommarfrigång — 15 % rabatt på säkerhetsutrustning",
+      "pill": "Kampanjer",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Grupp om 8 — tillgänglighet 14 juni?",
+    "originalFrom": "Rachel T skrev:",
+    "originalText": "Hej! Vi är en familj på 8 som besöker veckan. Har du plats på morgonturnén 14 juni? Vad är priset per person och är det okej för barn?",
+    "lines": [
+      "Hej Rachel!",
+      "Den 14 juni morgonturen har gott om plats för 8. Biljetter kostar $125/person, barn 4-12 kostar halva priset. Vi avgår kl 9 och är tillbaka runt 11:30.",
+      "Kikare och regnkläder tillhandahålls - ta bara med varma lager och solskyddsmedel. Barnen älskar det uppe på observationsdäcket.",
+      "Vill du att jag ska låsa mig på 8 platser?"
+    ],
+    "highlightText": "Morgonturen den 14 juni har gott om plats för 8. Biljetter kostar $125/person",
+    "tooltipFeatures": [
+      "Känner till dina turnétider och priser",
+      "Utkast i din röst",
+      "Inkluderar vad som ska tas med automatiskt",
+      "Lär sig med tiden"
+    ]
+  },
+  "agent": {
+    "userMessage": "Hur många platser finns kvar på lördagens morgonturné?",
+    "agentResponse": "Baserat på dina bokningar har lördagens 9 AM-turné 18 av 44 platser uppsatta - 26 fortfarande öppna. Eftermiddagsturen är nästan full vid 40 av 44. Vill du att jag ska skriva ett svar på alla pågående förfrågningar med tillgänglighet på lördag morgon?",
+    "followUp": "Förbered ett svar till Rachel som bekräftar den 14 juni för 8 gäster",
+    "followUpResponse": "Klart! Jag skrev ett svar till Rachel som bekräftade den 14 juni morgonturné för 8 gäster för 125 USD/person. Det inkluderar avgångstid, vad som tillhandahålls och vad du ska ta med. Klar att granska och skicka."
+  },
+  "testimonialsTitle": "Älskad av valskådningskaptener",
+  "testimonials": [
+    {
+      "name": "Kapten Dave H.",
+      "title": "Wildlife Tour Operator, AK",
+      "quote": "Kryssningsfartygspassagerare behöver svar snabbt – de har bara 6 timmar i hamn. Jag brukade förlora privata charter eftersom jag var på vattnet när förfrågan kom in. Nu Duet utkast till svar med mina priser och upphämtningsuppgifter innan jag ens lägger till.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria och Luis R.",
+      "title": "Family Whale Watch, CA",
+      "quote": "Vi kör två turer om dagen under puckelsäsongen och mejlvolymen är overklig. \"Kommer vi att se valar?\" \"Vad ska jag ha på mig?\" \"Är morgondagen inställd?\"Duet hanterar de repetitiva frågorna och vi fokuserar på turerna.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Kapten Ben T.",
+      "title": "Havsutflykter, HI",
+      "quote": "Jag svarade på samma 10 frågor varje kväll - prissättning, vad som ingår, sjösjuketips, åldersgränser för barn. Duet lärde sig allt under den första veckan. Min svarstid gick från 8 timmar till 8 minuter.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Kim W.",
+      "title": "Bokningschef, Pacific NW",
+      "quote": "Väderavbokningar är värst — 30 personer behöver bokas om samtidigt och jag jonglerar med telefonsamtal. Duet gör utkast till personliga e-postmeddelanden om schemaläggning för varje gäst. Det som brukade ta mig 2 timmar tar 15 minuter nu.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jess & Nate P.",
+      "title": "Small Boat Wildlife Tours, BC",
+      "quote": "Vi är en tvåmansoperation — jag kapten, hon sköter logistiken. Under högsäsong spenderade hon 3 timmar per natt på e-post. Duet minska det till 30 minuter. Hon får faktiskt tillbaka sina kvällar nu.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tillbringa valsäsongen på vattnet,\ninte i din inkorg.",
+  "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
+  "verticalFaqs": [
+    {
+      "question": "Hanterar Duet väderinställda väder och ändringar av kryssningsfartygs schema?",
+      "answer": "Ja. När du avbryter en turné på grund av väder eller ett kryssningsfartygs ankomsttid kan du berätta för Duet en gång och det utarbetar ett personligt omschema eller uppdaterar e-postmeddelanden för varje berörd gäst. Sluta kopiera och klistra in samma meddelande 30 gånger. Varje svar inkluderar gästens ursprungliga bokningsinformation och tillgängliga alternativ."
+    },
+    {
+      "question": "Vi får samma frågor hela tiden - \"kommer vi att se valar?\", \"vad ska jag ha på mig?\", \"är det okej för barn?\" Kan Duet hantera dessa?",
+      "answer": "Det är precis där Duet lyser. Den lär sig dina standardsvar – arter du vanligtvis ser, vad du ska ta med dig, ålderspolicyer, sjösjuketips, avgångstider – och utkast till kompletta svar direkt. Du granskar och skickar. De flesta kaptener säger till oss att 80 % av deras inkorg är samma 10 frågor, och Duet hanterar alla."
+    }
+  ],
+  "pricingNote": "För $125/person betalar en sparad grupp på 6 för över ett år av Pro."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail İç Mimarlar İçin | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, iç mimarların müşteri e-postalarını, yüklenici koordinasyonunu ve tedarikçi siparişlerini yönetmelerine yardımcı olur; hatta şantiye alanından bile. AI, projenizin ayrıntıları, tercihleri ​​ve ses tonunuzla birlikte taslak halinde yanıtlar oluşturur.",
+  "heroBadge": "400'den fazla iç mimar tarafından güvenilen marka",
+  "heroHeadline": "Müşterilerinizle sahada olduğunuz süre boyunca e-posta asistanınız.",
+  "heroSubline": "Duet, tedarikçi iletişim bilgilerinizi, proje detaylarınızı ve müşteri tercihlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece hiçbir müşterinizi yavaş yanıt verme nedeniyle kaybetmezsiniz.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Mutfak tadilatı - ön görüşme?",
+      "preview": "Merhaba! Westlake'te yeni bir ev aldık ve mutfağı tamamen yenilemek istiyoruz. Yeni projeler alıyor musunuz? Süreciniz nasıl işliyor?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "Tony'nin Fayans ve Taş",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Konu: Mutfak tezgahı arkası fayans teslim süresi güncellemesi",
+      "preview": "Depodan az önce geri dönüş aldım — Calacatta altıgen karo 3 hafta gecikmeli olarak temin edilecek. Siparişinizi bekletmemi veya alternatiflere bakmamı ister misiniz?",
+      "pill": "Tedarikçi Siparişi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — Elektrikçi",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Kablolama tamamlandı — armatür montajına hazır.",
+      "preview": "Ana yatak odası ve oturma odasındaki tüm kaba elektrik tesisatı tamamlandı. Duvar aplikleri ve avize montajı için istediğiniz zaman hazırız...",
+      "pill": "Müteahhit",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen ve Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Kumaş örnekleri hakkında ne düşünüyorsunuz?",
+      "preview": "Sunmuş olduğunuz üç kumaş seçeneğine baktık ve 'Yulaf Ezmesi' rengindeki keten kumaşa daha çok eğiliyoruz, ancak duvar rengiyle uyumunu da görmek istiyoruz...",
+      "pill": "Müşteri Onayı",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Rachel! Westlake mutfağınız hakkında daha fazla bilgi edinmeyi çok isterim. Şu anda önümüzdeki ay için danışmanlık görüşmeleri planlıyorum. Sürecim, vizyonunuzu, bütçenizi ve zaman çizelgenizi birlikte ele aldığımız bir ev ziyaretiyle başlıyor; ardından malzeme seçimleriyle birlikte bir tasarım konsepti oluşturuyorum. Evde görüşmek için bir zaman ayarlamak ister misiniz?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "proje",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Bir kez müşteri kazanmak, Duet'ın yıllarca süren masraflarını karşılar."
+  },
+  "categorizationSubtitle": "Duet, her e-postayı otomatik olarak etiketleyerek önce yeni müşteri taleplerini, sonra onay bekleyenleri ve asla tedarikçi bültenlerini görmenizi sağlar. Artık fuar tanıtımlarının altında kaybolan bir tasarım danışmanlığını kaçırmayacaksınız.",
+  "draftSubtitle": "Duet süreçlerinizi, proje detaylarınızı ve üslubunuzu öğrenir. Yeni bir talep veya müşteri sorusu geldiğinde, müsaitlik durumunuzu, sonraki adımları ve proje ayrıntılarını içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Henderson projesinin durumu nedir?\" \"Hangi onaylar hala beklemede?\" Duet gelen kutunuzu ve her proje başlığını biliyor — sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Mutfak tadilatı - ön görüşme?",
+      "preview": "Yeni bir ev aldık ve mutfağı yenilemek istiyoruz...",
+      "pill": "Yeni Soruşturma",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Konu: Kumaş örnekleri — Yulaf ezmesi rengi keten tercih ediyorum",
+      "pill": "Müşteri Onayı",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mark L.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Kablolama tamamlandı — armatür montajına hazır.",
+      "pill": "Müteahhit",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Tony'nin Fayans ve Taş",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "4821 numaralı sipariş gönderildi — teslimat Perşembe",
+      "pill": "Tedarikçi Siparişi",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tasarım Ulaşılabilir",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Ticaret programı — bahar indirim etkinliği",
+      "pill": "Promosyonlar",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Konu: Mutfak tadilatı — ilk görüşme?",
+    "originalFrom": "Rachel T. şöyle yazdı:",
+    "originalText": "Merhaba! Westlake'te yeni bir ev aldık ve mutfağı tamamen yenilemek istiyoruz. Yeni projeler alıyor musunuz? Süreciniz nasıl işliyor?",
+    "lines": [
+      "Merhaba Rachel!",
+      "Yeni eviniz hayırlı olsun! Mutfağınız konusunda size yardımcı olmaktan memnuniyet duyarım. Şu anda önümüzdeki ay için randevu alıyorum.",
+      "Sürecim, vizyonunuzu, bütçenizi ve zaman çizelgenizi görüşmek üzere evinize yaptığım bir ziyaretle başlıyor. Ardından, malzeme seçimleriyle birlikte bir tasarım konsepti ve detaylı bir teklif hazırlıyorum.",
+      "Evde buluşmak için bir zaman belirlemek ister misiniz?"
+    ],
+    "highlightText": "Şu anda önümüzdeki ay için görüşme randevuları alıyorum.",
+    "tooltipFeatures": [
+      "Süreçlerinizi ve müsaitlik durumunuzu biliyor.",
+      "Sesinizdeki taslaklar",
+      "Sonraki adımları otomatik olarak içerir.",
+      "Zamanla öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Henderson projesinde hangi onaylar henüz beklemede?",
+    "agentResponse": "Henderson'larla yaptığınız e-posta yazışmalarına göre, iki konu hala onay bekliyor: ana banyo dolabı (Restoration Hardware seçeneklerini Salı günü gönderdiniz) ve oturma odası perde kumaşı (örnekler geçen hafta teslim edildi). Karen ayrıca yemek odası için boya parlaklığı hakkında da sordu ancak henüz önerinize yanıt vermedi. Bir takip yazısı hazırlamamı ister misiniz?",
+    "followUp": "Makyaj masası ve kumaş seçimleriyle ilgili olarak Karen'a nazik bir takip yazısı taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Karen'e makyaj masası ve perde seçimleriyle ilgili bilgi almak için bir takip yazısı taslağı hazırladım. Makyaj masasının teslimat süresinin 6 hafta olduğunu ve projenin zamanında tamamlanması için kısa süre içinde karar verilmesi gerektiğini belirttim. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "İç mimarlar tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "title": "Baş Tasarımcı, Austin TX",
+      "quote": "Günde 6 saat şantiyede boyacılar, elektrikçiler ve fayans ustalarıyla koordinasyon sağlıyorum. Bu sırada üç farklı müşteri de projeleriyle ilgili e-posta gönderiyor. Duet doğru proje detaylarıyla yanıt taslakları hazırlıyor; ben de şantiye ziyaretleri arasında gözden geçiriyorum.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Konut İç Mekan Tasarımcısı, Chicago",
+      "quote": "Müşteri soruları eskiden günlerce cevapsız kalıyordu çünkü satın alma e-postaları ve yüklenici planlamasıyla boğuşuyordum. Şimdi Duet, yeni potansiyel müşterilere süreçlerim ve müsaitlik durumumla birlikte dakikalar içinde yanıt veriyor. Bu çeyrekte 4 ek proje daha aldım.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Nashville'de Tasarım Stüdyosu Sahibi",
+      "quote": "12 aktif proje için e-postaları yönetmek beni öldürüyordu. Duet her şeyi kategorize ediyor — yeni sorular, onay bekleyenler, tedarikçi siparişleri, yüklenici güncellemeleri — böylece önce neye dikkat etmem gerektiğini tam olarak biliyorum.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "İç Dekorasyon Uzmanı, San Diego",
+      "quote": "Kurulum haftalarında yeterince hızlı yanıt veremediğim için potansiyel müşterileri kaybediyordum. Duet danışmanlık sürecimi, fiyatlandırma yapımı, hatta tasarım stilimi nasıl tanımladığımı bile öğrendi. Müşteriler bunun AI'in yardımıyla olduğunu bilmiyorlar.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Ticari İç Mekan Tasarımcısı, Denver",
+      "quote": "Tedarikçi teslim süreleri, yüklenici programları ve müşteri revizyon talepleri arasında gelen kutum tam bir kaos içindeydi. Duet tüm bunları hallediyor ve onay bekleyen konularla ilgili takip yazıları hazırlıyor. Sanki hiç uyumayan bir proje koordinatörüne sahip olmak gibi.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Günlerinizi e-postalarınıza gömülmek yerine, güzel mekanlar yaratarak geçirin.\n",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Aynı anda 8-10 projeyle uğraşıyorum. Duet bunların hepsini aklı başında tutabilir mi?",
+      "answer": "Evet. Duet her müşteri ve proje için her e-posta yazışmasını takip eder. Henderson mutfağı veya Park Avenue ofisi hakkında soru sorduğunuzda, ilgili tüm konuşmalardan (tedarikçi siparişleri, yüklenici güncellemeleri, müşteri onayları) bağlamı çeker, böylece yanıtlarınız her zaman doğru ve projeye özel olur. Hangi fayansın hangi müşteri için olduğu konusunda karışıklık olmaz."
+    },
+    {
+      "question": "Birçok yüklenici ve tedarikçiyle koordinasyon halindeyim. Duet bu konuda yardımcı olur mu?",
+      "answer": "Kesinlikle. Duet yüklenici iletişim bilgilerinizi, tedarikçi temsilcilerinizi ve projelerinizdeki her bir iş kolunun rolünün bağlamını öğrenir. Elektrikçiniz kaba işlerin bittiğini e-postayla bildirdiğinde, Duet bir sonraki adımı onaylayan veya armatür montajcısını dahil eden bir yanıt taslağı hazırlayabilir. Bu, siz şehrin diğer ucunda başka bir şantiyede olsanız bile iş akışının devam etmesini sağlar."
+    }
+  ],
+  "pricingNote": "$10,000/proje fiyatıyla, kazanılan her bir müşteri Duet Pro'nin yıllarca sürecek masrafını karşılıyor."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail pro vyjížďky na koni & Trail Guides | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá provozovatelům trailových jízd okamžitě reagovat na rezervační e-maily – dokonce i ze sedla. Odpovědi navržené AI s vašimi cenami, požadavky na jezdce a hlasem.",
+  "heroBadge": "Důvěřuje více než 300 turistickým průvodcům",
+  "heroHeadline": "Váš e-mailový asistent, když jste na cestě",
+  "heroSubline": "Duet se naučí vaše typy jízdy, ceny, požadavky na jezdce a podmínky stezky – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Skupinová rezervace pro 6 – sobota ráno?",
+      "preview": "Ahoj! Jsme 6členná rodina (2 dospělí, 4 děti ve věku 8-14 let) a rádi bychom si tuto sobotu ráno zarezervovali výlet. Máte dostupnost? Jaká je cena za osobu?",
+      "pill": "Odpovědět",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Otázka váhového limitu",
+      "preview": "Ahoj, mám zájem o rezervaci jízdy, ale nejdřív jsem se chtěl zeptat na vaše požadavky na váhu. Vážím kolem 260 liber – to bude problém...",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Jízda při západu slunce k výročí?",
+      "preview": "Příští víkend slavíme 10. výročí a viděli jsme vaši jízdu při západu slunce na Instagram. Je k dispozici v pátek večer? Nějaké speciální balíčky...",
+      "pill": "Rezervace",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nová recenze pro váš zápis",
+      "preview": "Cestovatel nedávno recenzoval vaši firmu. Podívejte se, co řekli a odpovězte...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ahoj Jessico! Sobotní ráno je otevřeno na 6. Naše trailové vyjížďky jsou $100/person a poběží asi 90 minut údolím. Děti od 8 let jsou vítány – všechny vaše jsou připraveny. Vyžaduje se obuv s uzavřenou špičkou a poskytujeme přilby. Chcete, abych vás zarezervoval na jízdu 9 AM?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "jízda",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Jedna ušetřená skupinová jízda platí přes dva roky Duet."
+  },
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první uvidíte požadavky na rezervaci, jako druhé otázky jezdce a nikdy nebudete slyšet. Už vám nebude chybět skupinový dotaz skrytý pod výstrahami TripAdvisor.",
+  "draftSubtitle": "Duet se naučí vaše typy jízdy, ceny a požadavky. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o trase, cenách a oblečení. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"O víkendu jsou otevřené nějaké jízdy?\" \"Navrhněte odpověď Jessice s dostupností v sobotu.\" Duet zná vaši doručenou poštu a kalendář – stačí se zeptat.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Skupinová rezervace pro 6 – sobota ráno?",
+      "preview": "Jsme 6členná rodina, která si chce zarezervovat výlet...",
+      "pill": "Odpovězte hned",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Jízda při západu slunce potvrzena — pátek 5:30 PM",
+      "pill": "Zarezervováno",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Váhový limit a požadavky na zkušenosti?",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Váš týdenní přehled rezervací",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tractor Supply",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Jarní výprodej – 15% sleva na krmivo a taštičku",
+      "pill": "Propagační akce",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Skupinová rezervace pro 6 – sobota ráno?",
+    "originalFrom": "Jessica T. napsal:",
+    "originalText": "Ahoj! Jsme 6členná rodina (2 dospělí, 4 děti ve věku 8-14 let) a rádi bychom si tuto sobotu ráno zarezervovali výlet. Máte dostupnost? Jaká je cena za osobu?",
+    "lines": [
+      "Ahoj Jessico!",
+      "Sobotní ráno je otevřeno pro 6. Trailové vyjížďky jsou $100/person a vedou asi 90 minut údolím. Děti od 8 let jsou vítány, takže celá vaše posádka může jít.",
+      "Vyžaduje se obuv s uzavřenou špičkou – nejlepší jsou boty. Poskytujeme přilby a přizpůsobujeme každého jezdce koni na základě velikosti a zkušeností. Nejsou potřeba žádné předchozí zkušenosti s jízdou.",
+      "Chceš, abych tě zavřel na jízdu 9 AM?"
+    ],
+    "highlightText": "Sobotní ráno je otevřeno pro 6. Trailové jízdy jsou $100/person",
+    "tooltipFeatures": [
+      "Zná vaši cenu a dostupnost",
+      "Píše návrhy vaším hlasem",
+      "Automaticky zahrnuje požadavky na jezdce",
+      "Učí se časem"
+    ]
+  },
+  "agent": {
+    "userMessage": "O víkendu jsou otevřeny nějaké jízdy? A jak to vypadá s počasím?",
+    "agentResponse": "Na základě vašeho kalendáře máte otevření v sobotu na 9 AM a 2 PM a v neděli na 10 AM. Sobotní předpověď je 72°F a slunečno – ideální počasí pro jízdu. Neděle ukazuje 40% pravděpodobnost odpoledního deště, takže ranní slot je bezpečnější sázkou. Chcete, abych vypracoval návrhy odpovědí na všechny nevyřízené dotazy s těmito časy?",
+    "followUp": "Navrhněte odpověď Jessice s dostupností v sobotu",
+    "followUpResponse": "Hotovo! Napsal jsem odpověď Jessice potvrzující sobotu na 9 AM pro 6 jezdců na $100/person. Zahrnuje vaše standardní požadavky na jezdce a oblečení. Připraveno ke kontrole a odeslání."
+  },
+  "testimonialsTitle": "Oblíbený provozovateli trailových jízd",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Majitel ranče & Trail Guide, MT",
+      "quote": "Jsem na stopě 6 hodin denně bez mobilní služby. Než jsem se vrátil, abych odpověděl, polovina lidí si rezervovala někde jinde. Nyní Duet navrhuje odpovědi s mými cenami a podrobnostmi o jízdě – jen je zkontroluji a pošlu, až se vrátím do stodoly.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Provozovatel zájezdů na koně, AZ",
+      "quote": "Dostáváme desítky e-mailů s dotazem na totéž – váhové limity, co nosit, věkové požadavky. Duet to všechno zvládá a odpovědi zní přesně jako já. Moji hosté netuší, že je to AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Trail Ride Guide, CO",
+      "quote": "Vrchol sezóny mě zabíjel. 30+ e-mailů denně kromě běžeckých jízd. Duet třídí požadavky na rezervaci od hluku a návrhů odpovědí, které zahrnují vše – ceny, co přinést, množství. Vrátily se mi večery.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Jezdecký instruktor a manažer rezervace, TX",
+      "quote": "Pořádáme vyjížďky při západu slunce, ranní vyjížďky a soukromé lekce – každá s jinou cenou a požadavky. Duet se to všechno naučil za týden. Pokaždé navrhne správnou odpověď pro správný typ jízdy.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "Nejhorší byly citlivé e-maily – někdo se zeptal, zda jsou příliš těžké nebo zda je jejich dítě dost staré. Duet s nimi zachází se stejnou péčí jako já. Profesionální, milé a přesné. Už jen to stojí za to.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Strávit den s koňmi,\nnení ve vaší doručené poště.",
+  "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "Jak Duet řeší citlivé otázky ohledně hmotnosti nebo požadavků na zkušenosti?",
+      "answer": "Duet se naučí vaše specifické zásady a zrcadlí váš tón. Když se někdo zeptá na váhové limity nebo požadavky na zkušenosti, odpoví profesionálně a vřele – sdílí informace, které potřebuje, aniž by to bylo nepříjemné. Tón nastavíte jednou a Duet jej důsledně následuje, takže každý host se cítí respektován."
+    },
+    {
+      "question": "Dokáže Duet zvládnout skupinové rezervace s různými potřebami jezdců?",
+      "answer": "Ano. Duet se naučí vaše typy jízdy, velikosti skupin, věková minima a jakékoli požadavky specifické pro jezdce. Když rodina nebo skupina pošle e-mail o rezervaci, navrhne odpověď, která zahrnuje ceny pro celou skupinu, to, co každý jezdec potřebuje vědět, a dostupné časové úseky. Zkontrolujete a odešlete – není potřeba nic tam a zpět."
+    }
+  ],
+  "pricingNote": "U $100/person pro skupinu 6 platí jedna ušetřená jízda za více než dva roky Pro."
+}

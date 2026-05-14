@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail para lojas de mergulho | Assistente de email com IA",
+  "metaDescription": "O Duet Mail ajuda donos de lojas de mergulho e instrutores PADI a responder consultas de certificação, reservas de passeios e perguntas sobre equipamentos instantaneamente — até debaixo d'água.",
+  "heroBadge": "Usado por mais de 300 operadores de mergulho",
+  "heroHeadline": "O seu assistente de email enquanto o utilizador está debaixo d'água",
+  "heroSubline": "O Duet aprende os seus pontos de mergulho, requisitos de certificação, preços e tom — e então redige respostas de email para não perder nenhuma reserva enquanto está no barco.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certificação Open Water — disponibilidade?",
+      "preview": "Olá! Vou visitar na primeira semana de August e quero tirar a minha certificação Open Water. Quantos dias leva e o que está incluído?",
+      "pill": "Responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin & Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Grupo de 6 para mergulho com 2 cilindros no sábado",
+      "preview": "Temos 6 mergulhadores certificados e queremos reservar um mergulho matinal com 2 cilindros neste sábado. O utilizadores têm vaga? Qual é o valor por pessoa...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Aluguel de BCD para o fim de semana?",
+      "preview": "Olá, sou certificado, mas estou viajando leve. O utilizadores alugam BCDs e reguladores? Eu precisaria de sexta a domingo...",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Encaminhamento de aluno: Rachel Torres",
+      "preview": "Uma aluna concluiu o eLearning e selecionou o seu centro de mergulho para o treinamento em águas confinadas e abertas...",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Olá Rachel! Adoraríamos ajudar a se certificar. O curso Open Water dura 3 dias — um dia de sessões em piscina e dois dias de mergulhos no mar. Todo o equipamento está incluído. August está bem disponível. Quer que eu reserve uma vaga para aquela primeira semana?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "mergulho",
+    "lostPerMonth": "3 viagens (6 mergulhadores cada)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Um mergulho em grupo recuperado paga um ano de Duet."
+  },
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para ver consultas de certificação e reservas de mergulho primeiro, perguntas sobre equipamento em seguida e alertas da PADI quando estiver pronto. Chega de perder uma reserva de grupo enterrada sob newsletters de equipamentos.",
+  "draftSubtitle": "O Duet aprende os seus pontos de mergulho, requisitos de certificação e preços. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da saída, o que está incluído e o que levar. Reveja e envia.",
+  "agentSubtitle": "\"Quantos mergulhadores estão reservados para sábado?\" \"Redija uma resposta para Rachel com a disponibilidade do Open Water.\" O Duet conhece a sua caixa de entrada e a sua agenda — é só perguntar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certificação Open Water — disponibilidade?",
+      "preview": "Vou visitar na primeira semana de August e quero me certificar...",
+      "pill": "Responder agora",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Reserva confirmada — mergulho com 2 cilindros no sábado",
+      "pill": "Reservado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Aluguel de BCD e regulador neste fim de semana?",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Nova avaliação na sua página",
+      "pill": "Info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Promoção de verão — 25% de desconto em roupas de neoprene",
+      "pill": "Promoções",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Certificação Open Water — disponibilidade?",
+    "originalFrom": "Rachel T. escreveu:",
+    "originalText": "Olá! Vou visitar na primeira semana de August e quero tirar a minha certificação Open Water. Quantos dias leva e o que está incluído?",
+    "lines": [
+      "Olá Rachel!",
+      "Adoraríamos ajudar a se certificar! O curso PADI Open Water dura 3 dias — uma sessão em piscina e dois mergulhos no mar no nosso recife. Todo o equipamento está incluído.",
+      "August está bem disponível agora. A maioria dos alunos começa em uma segunda-feira para terminar até quarta.",
+      "Quer que eu reserve uma vaga?"
+    ],
+    "highlightText": "O curso PADI Open Water dura 3 dias",
+    "tooltipFeatures": [
+      "Conhece os seus cursos e preços",
+      "Redige no seu tom de voz",
+      "Inclui automaticamente os requisitos de certificação",
+      "Aprende com o tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quantos mergulhadores estão reservados para sábado?",
+    "agentResponse": "Com base na sua caixa de entrada, tem 8 mergulhadores confirmados para o mergulho matinal de sábado com 2 cilindros — o grupo de 6 do Kevin mais 2 reservas individuais. O utilizador também tem uma consulta pendente do Jason sobre aluguel de equipamento para a mesma saída. Quer que eu redija uma resposta?",
+    "followUp": "Redija uma resposta para Rachel com os detalhes do curso Open Water",
+    "followUpResponse": "Pronto! Redigi uma resposta para Rachel confirmando o curso PADI Open Water de 3 dias, com piscina e mergulhos no mar incluídos. Ela menciona a disponibilidade em August e a sua política padrão de equipamento incluso. Pronta para rever e enviar."
+  },
+  "testimonialsTitle": "Adorado por operadores de mergulho",
+  "testimonials": [
+    {
+      "name": "Captain Mike T.",
+      "title": "Capitão de barco de mergulho, FL",
+      "quote": "Faço saídas de barco de sexta a domingo e a loja só abre por algumas horas na segunda. Perguntas de certificação e consultas de passeio se acumulam enquanto estou debaixo d'água. O Duet redige respostas com os meus preços, pontos de mergulho e o que está incluído — eu reviso entre mergulhos.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Centro de mergulho PADI, HI",
+      "quote": "Fazemos mergulhos, passeios de snorkel e observação de baleias nos mesmos barcos. A variedade de emails é absurda — perguntas de certificação, reservas de grupo, aluguel de equipamento, checagens de clima. O Duet organiza tudo e redige respostas que sabem a diferença. Um salva-vidas absoluto.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Charters de mergulho em naufrágios, FL",
+      "quote": "Metade dos os meus emails é \"que certificação preciso para os mergulhos em naufrágio?\" e a outra metade é \"preciso do o meu próprio equipamento?\". O Duet resolve os dois no automático. O meu tempo de resposta caiu de horas para minutos.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Dona de loja de mergulho, CA",
+      "quote": "No verão, recebemos mais de 30 emails por dia sobre cursos, disponibilidade de saídas e equipamentos. Eu estava perdendo reservas para lojas que respondiam mais rápido. Agora o Duet redige tudo e eu só envio entre as aulas.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Instrutora e guia de mergulho, NC",
+      "quote": "Dou cursos de manhã e guio mergulhos à tarde. Literalmente não sobra tempo para responder email. O Duet aprendeu a minha agenda de cursos, preços e até a minha política de cancelamento. Os clientes não percebem diferença.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Passe os seus dias debaixo d'água,\nnão enterrado na sua caixa de entrada.",
+  "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "O Duet entende níveis de certificação e requisitos dos cursos?",
+      "answer": "Sim. O Duet aprende os seus cursos específicos — Open Water, Advanced, Rescue, Divemaster — junto com pré-requisitos, duração, preços e o que está incluído. Quando alguém pergunta sobre se certificar, o Duet redige uma resposta com os detalhes certos do curso, agenda e próximos passos. Reveja e envia."
+    },
+    {
+      "question": "Fico no barco ou debaixo d'água o dia todo. Posso usar o Duet pelo telemóvel?",
+      "answer": "Sim. O Duet funciona com Gmail e Outlook, então funciona onde o seu email funciona — inclusive no telemóvel. Os rascunhos aparecem automaticamente na sua caixa de entrada. Entre mergulhos ou de volta ao píer, reveja e envia com um toque. A maioria dos operadores de mergulho nos diz que poupa 1-2 horas de email por dia durante a alta temporada."
+    }
+  ],
+  "pricingNote": "Com $150/mergulho para um grupo de 6, uma saída recuperada paga mais de um ano de Pro."
+}

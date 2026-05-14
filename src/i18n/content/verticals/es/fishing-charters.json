@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail para excursiones de pesca | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los capitanes de barcos de pesca a responder los correos electrónicos de reserva al instante, incluso desde el agua. Respuestas redactadas por IA con sus precios, políticas y voz.",
+  "heroBadge": "Con la confianza de más de 500 capitanes de vuelos chárter",
+  "heroHeadline": "Tu asistente de correo electrónico mientras estás en el agua",
+  "heroSubline": "Duet aprende tus precios, políticas y voz, y luego redacta borradores de respuestas por correo electrónico para que nunca pierdas una reserva por una respuesta lenta.",
+  "inboxEmails": [
+    {
+      "from": "sara m.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "¿Disponibilidad 12 de julio para 4 personas?",
+      "preview": "¡Hola! Somos un grupo de 4 personas que queremos reservar un viaje de pesca el 12 de julio. ¿Tienes disponibilidad? ¿Cuál es el precio por un día completo?",
+      "pill": "Para responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "David k.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "¿Qué debemos traer?",
+      "preview": "Oye, estamos reservados para el sábado. Pregunta rápida: ¿qué debemos llevar? ¿Proporcionas cañas y aparejos o deberíamos traer los nuestros?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike y Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Necesita reprogramar para el domingo",
+      "preview": "Perdón por el aviso tardío, pero el pronóstico del tiempo parece complicado para el sábado. ¿Podemos pasar al domingo? Al mismo tiempo...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nueva reseña para tu anuncio",
+      "preview": "Un viajero revisó recientemente su negocio. Vea lo que tenían que decir y responda...",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Sara! El 12 de julio está abierto para 4 personas. Los viajes de día completo duran 8 horas, comenzando a las 6 a.m. Todas las cañas, aparejos, cebos y licencias están incluidos; solo traiga protector solar, agua y una hielera para su captura. ¿Quieres que lo cierre?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "carta",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Una reserva guardada paga por un año de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas y nunca el ruido. No más perder una consulta de viaje oculta bajo alertas TripAdvisor.",
+  "draftSubtitle": "Duet aprende sus precios, políticas y tono. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del viaje, los precios y qué llevar. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Qué días estarán abiertos la próxima semana?\" \"Redacta una respuesta a Sarah con disponibilidad\". Duet conoce tu bandeja de entrada y tu calendario, solo pregúntale.",
+  "categorizationEmails": [
+    {
+      "from": "sara m.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "¿Disponibilidad 12 de julio para 4 personas?",
+      "preview": "Somos un grupo de 4 que buscamos reservar un viaje de pesca...",
+      "pill": "Responder ahora",
+      "pillColor": "red"
+    },
+    {
+      "from": "David k.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Reserva confirmada — Sábado 7AM",
+      "pill": "Reservado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "mike r.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "¿Qué debemos traer el sábado?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PescaBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Su resumen de reserva semanal",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marina del Oeste",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Oferta de primavera: 20 % de descuento en aparejos",
+      "pill": "Promociones",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Disponibilidad el 12 de julio para 4 personas?",
+    "originalFrom": "Sara M. escribió:",
+    "originalText": "¡Hola! Somos un grupo de 4 personas que queremos reservar un viaje de pesca el 12 de julio. ¿Tienes disponibilidad? ¿Cuál es el precio por un día completo?",
+    "lines": [
+      "Hola Sara!",
+      "El 12 de julio está abierto para 4 personas. Los viajes de día completo cuestan $500 y duran 8 horas a partir de las 6 a.m. desde el puerto deportivo.",
+      "Se incluyen todos los equipos, cebos y licencias de pesca; solo traiga protector solar y una hielera.",
+      "¿Quieres que lo cierre?"
+    ],
+    "highlightText": "El 12 de julio está abierto para 4 personas. Los viajes de día completo cuestan $500.",
+    "tooltipFeatures": [
+      "Conoce sus precios y disponibilidad",
+      "Borradores en tu voz",
+      "Incluye detalles del viaje automáticamente.",
+      "Aprende con el tiempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "¿Qué días siguen abiertos la próxima semana?",
+    "agentResponse": "Según su calendario, tiene vacantes los martes, jueves y sábados de la próxima semana. Los lunes y miércoles están completos (2 charters cada uno). ¿Quieres que redacte una respuesta a alguna consulta pendiente con estas fechas?",
+    "followUp": "Redacte una respuesta a Sarah con la disponibilidad del 12 de julio.",
+    "followUpResponse": "¡Listo! Redacté una respuesta a Sarah confirmando el 12 de julio para 4 invitados por $500. Incluye los detalles de su viaje estándar y el lugar de reunión. Listo para revisar y enviar."
+  },
+  "testimonialsTitle": "Amado por los capitanes de vuelos chárter",
+  "testimonials": [
+    {
+      "name": "Capitán Mike D.",
+      "title": "Capitán de charter en alta mar, FL",
+      "quote": "Durante la temporada alta, perdía entre 2 y 3 reservas por semana simplemente porque no podía responder lo suficientemente rápido desde el barco. Duet redacta respuestas con mis precios y detalles de viaje; simplemente presiono enviar entre capturas.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sara y Tom K.",
+      "title": "Empresa familiar charter, O",
+      "quote": "Manejamos dos barcos y el volumen de correo electrónico durante el verano es una locura. Duet separa las solicitudes de reserva de todo lo demás y redacta respuestas que suenan exactamente como nosotros. Absoluto cambio de juego.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "jake r.",
+      "title": "Guía de pesca costera, TX",
+      "quote": "Todas las noches pasaba una hora respondiendo las mismas preguntas sobre disponibilidad. Ahora Duet lo maneja. Mi tiempo de respuesta pasó de horas a minutos y no he perdido ninguna reserva desde entonces.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Gerente de la oficina charter, Hawai",
+      "quote": "Administrar los correos electrónicos de 4 capitanes era un trabajo de tiempo completo. Duet categoriza todo y redacta respuestas con el barco correcto, el precio correcto, el capitán correcto. Es como tener otro yo.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "andrea s.",
+      "title": "Cartas de aguas profundas, Carolina del Norte",
+      "quote": "Era escéptico de que una IA pudiera manejar correos electrónicos de excursiones de pesca. Pero conoció nuestros tipos de viajes, lo que está incluido e incluso nuestra política de cancelación. Los clientes no pueden notar la diferencia.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Pasa la temporada alta en el agua,\nno en tu bandeja de entrada.",
+  "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "¿Duet funciona para los correos electrónicos de reserva y disponibilidad?",
+      "answer": "Absolutamente. Duet aprende sus tipos de viaje, precios, disponibilidad y políticas. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles correctos: precios, qué está incluido, lugar de reunión, qué traer. Revisas y tocas enviar."
+    },
+    {
+      "question": "Estoy en el agua todo el día. ¿Puedo usar Duet desde mi teléfono?",
+      "answer": "Sí. Duet funciona con Gmail y Outlook, por lo que funciona dondequiera que funcione su correo electrónico, incluido su teléfono. Los borradores aparecen automáticamente. Entre capturas, revisas y envías con un solo toque. La mayoría de los capitanes nos dicen que les ahorra entre 1 y 2 horas de correo electrónico por día durante la temporada alta."
+    }
+  ],
+  "pricingNote": "A $500/chárter, una reserva guardada paga más de un año de Pro."
+}

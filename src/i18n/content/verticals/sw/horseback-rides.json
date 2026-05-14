@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail kwa Wapanda Farasi & Waelekezi wa Njia | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia waendeshaji safari za trail kujibu barua pepe za kuweka nafasi papo hapo - hata kutoka kwa tandiko. Majibu yaliyoandaliwa na AI pamoja na bei, mahitaji ya waendeshaji gari na sauti yako.",
+  "heroBadge": "Inaaminiwa na waongozaji 300+",
+  "heroHeadline": "Msaidizi wako wa barua pepe ukiwa kwenye harakati",
+  "heroSubline": "Duet hujifunza aina zako za usafiri, bei, mahitaji ya waendeshaji gari na masharti ya safari yako - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi kwa jibu la polepole.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Uhifadhi wa kikundi kwa 6 - Jumamosi asubuhi?",
+      "preview": "Habari! Sisi ni familia ya 6 (watu wazima 2, watoto 4 wenye umri wa miaka 8-14) na tungependa kuhifadhi nafasi ya safari Jumamosi hii asubuhi. Je, una upatikanaji? Bei gani kwa kila mtu?",
+      "pill": "Ili Kujibu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Swali la kikomo cha uzito",
+      "preview": "Hujambo, ningependa kuweka nafasi ya usafiri lakini nilitaka kuuliza kuhusu mahitaji yako ya uzito kwanza. Nina karibu pauni 260 - hiyo itakuwa suala ...",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Usafiri wa machweo kwa maadhimisho ya miaka?",
+      "preview": "Tunasherehekea kumbukumbu ya miaka 10 wikendi ijayo na tuliona safari yako ya machweo kwenye Instagram. Je, inapatikana Ijumaa jioni? Vifurushi vyovyote maalum...",
+      "pill": "Kuhifadhi",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Maoni mapya ya tangazo lako",
+      "preview": "Msafiri alikagua biashara yako hivi majuzi. Angalia walichosema na ujibu...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Habari Jessica! Jumamosi asubuhi ni wazi kwa 6. Uendeshaji wetu wa uchaguzi ni $100/mtu na huendesha kama dakika 90 kupitia bonde. Watoto walio na umri wa miaka 8+ wanakaribishwa - nyote mko tayari kwenda. Viatu vilivyofungwa vinahitajika, na tunatoa helmeti. Je, ungependa nikuwekee nafasi kwa ajili ya safari ya 9 AM?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "panda",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Safari moja ya kikundi iliyohifadhiwa hulipa kwa zaidi ya miaka miwili ya Duet."
+  },
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, maswali ya waendeshaji wa pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa kikundi uliozikwa chini ya arifa za TripAdvisor.",
+  "draftSubtitle": "Duet hujifunza aina zako za usafiri, bei na mahitaji. Uchunguzi wa kuhifadhi unapofika, huandaa jibu kamili na maelezo ya uchaguzi, bei na mavazi. Unakagua na kutuma.",
+  "agentSubtitle": "\"Uendeshaji wowote umefunguliwa wikendi hii?\" \"Rasimu ya jibu kwa Jessica na upatikanaji wa Jumamosi.\" Duet anajua kikasha chako na kalenda - uliza tu.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Uhifadhi wa kikundi kwa 6 - Jumamosi asubuhi?",
+      "preview": "Sisi ni familia ya watu 6 tunatazamia kuweka nafasi ya safari...",
+      "pill": "Jibu Sasa",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Safari ya machweo imethibitishwa - Ijumaa 5:30 PM",
+      "pill": "Imehifadhiwa",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Kikomo cha uzito na mahitaji ya uzoefu?",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Muhtasari wa nafasi yako ya kila wiki",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tractor Supply",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uuzaji wa majira ya kuchipua - punguzo la 15% kwenye mipasho na bei",
+      "pill": "Matangazo",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Uhifadhi wa kikundi kwa 6 - Jumamosi asubuhi?",
+    "originalFrom": "Jessica T. aliandika:",
+    "originalText": "Habari! Sisi ni familia ya 6 (watu wazima 2, watoto 4 wenye umri wa miaka 8-14) na tungependa kuhifadhi nafasi ya safari Jumamosi hii asubuhi. Je, una upatikanaji? Bei gani kwa kila mtu?",
+    "lines": [
+      "Habari Jessica!",
+      "Jumamosi asubuhi ni wazi kwa 6. Uendeshaji wa trail ni $100/mtu na hudumu kama dakika 90 kupitia bonde. Watoto walio na umri wa miaka 8 na zaidi wanakaribishwa, kwa hivyo wafanyakazi wako wote wako tayari kwenda.",
+      "Viatu vilivyofungwa vinahitajika - buti ni bora zaidi. Tunatoa kofia na kulinganisha kila mpanda farasi kulingana na ukubwa na uzoefu. Hakuna uzoefu wa awali wa kuendesha unaohitajika.",
+      "Je, ungependa nikufungie ndani kwa ajili ya safari ya 9 AM?"
+    ],
+    "highlightText": "Jumamosi asubuhi ni wazi kwa 6. Usafiri wa njia ni $100/mtu",
+    "tooltipFeatures": [
+      "Anajua bei na upatikanaji wako",
+      "Rasimu katika sauti yako",
+      "Inajumuisha mahitaji ya waendeshaji kiotomatiki",
+      "Anajifunza kwa muda"
+    ]
+  },
+  "agent": {
+    "userMessage": "Usafiri wowote utafunguliwa wikendi hii? Pia, hali ya hewa ikoje?",
+    "agentResponse": "Kulingana na kalenda yako, una fursa za kufungua Jumamosi saa 9 asubuhi na 2 PM, na Jumapili saa 10 asubuhi. Utabiri wa Jumamosi ni 72°F na jua - hali ya hewa nzuri ya kupanda. Jumapili huonyesha uwezekano wa 40% wa mvua ya alasiri, kwa hivyo nafasi ya asubuhi ndiyo dau salama zaidi. Je, ungependa niandike majibu kwa maswali yoyote ambayo hayajashughulikiwa na nyakati hizi?",
+    "followUp": "Rasimu ya jibu kwa Jessica na upatikanaji wa Jumamosi",
+    "followUpResponse": "Imekamilika! Niliandaa jibu kwa Jessica nikithibitisha Jumamosi saa 9 AM kwa wanunuzi 6 kwa $ 100/mtu. Inajumuisha mahitaji yako ya kawaida ya mpanda farasi na nini cha kuvaa. Tayari kukagua na kutuma."
+  },
+  "testimonialsTitle": "Inapendwa na waendeshaji wa safari za trail",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Mmiliki wa Ranchi & Mwongozo wa Njia, MT",
+      "quote": "Niko nje kwa njia masaa 6 kwa siku bila huduma ya seli. Kufikia wakati niliporudi kujibu, nusu ya watu walikuwa wameweka nafasi mahali pengine. Sasa Duet huandaa majibu na bei na maelezo yangu ya usafiri - mimi hukagua tu na kutuma ninaporudi kwenye ghalani.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Opereta wa Ziara ya Mpira wa Farasi, AZ",
+      "quote": "Tunapokea barua pepe nyingi zinazouliza kitu kimoja - vikomo vya uzito, nini cha kuvaa, mahitaji ya umri. Duet hushughulikia yote na majibu yanasikika kama mimi. Wageni wangu hawajui ni AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Mwongozo wa Kuendesha Njia, CO",
+      "quote": "Msimu wa kilele ulikuwa unaniua. Barua pepe 30+ kwa siku pamoja na kuendesha gari. Duet hupanga maombi ya kuhifadhi kutoka kwa kelele na majibu ya rasimu ambayo yanajumuisha kila kitu - bei, nini cha kuleta, kura. Nilirudi jioni yangu.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Mkufunzi wa Uendeshaji na Meneja Uhifadhi, TX",
+      "quote": "Tunaendesha safari za machweo, safari za asubuhi na masomo ya kibinafsi - kila moja ikiwa na bei na mahitaji tofauti. Duet alijifunza yote katika wiki. Hutayarisha jibu sahihi kwa aina sahihi ya usafiri kila wakati.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "Barua pepe nyeti zilikuwa mbaya zaidi - mtu akiuliza ikiwa ni nzito sana, au ikiwa mtoto wake ana umri wa kutosha. Duet hushughulikia wale walio na utunzaji sawa na ningefanya. Mtaalamu, mkarimu na sahihi. Hiyo pekee inafaa.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tumia siku na farasi,\nhaipo kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
+  "verticalFaqs": [
+    {
+      "question": "Je, Duet hushughulikia vipi maswali nyeti kuhusu mahitaji ya uzito au uzoefu?",
+      "answer": "Duet hujifunza sera zako mahususi na kuakisi sauti yako. Mtu anapouliza kuhusu vikomo vya uzito au mahitaji ya uzoefu, hujibu kwa ustadi na kwa uchangamfu - kushiriki maelezo anayohitaji bila kuifanya kuwa ya shida. Unaweka sauti mara moja na Duet inaifuata mara kwa mara, kwa hivyo kila mgeni anahisi kuheshimiwa."
+    },
+    {
+      "question": "Je, Duet inaweza kushughulikia uhifadhi wa kikundi na mahitaji tofauti ya wapanda farasi?",
+      "answer": "Ndiyo. Duet hujifunza aina zako za wapanda farasi, ukubwa wa kikundi, kiwango cha chini cha umri na mahitaji yoyote mahususi ya wapanda farasi. Familia au kikundi kinapotuma barua pepe kuhusu kuhifadhi nafasi, huandaa jibu ambalo linajumuisha bei ya kikundi kamili, kile ambacho kila mpanda farasi anahitaji kujua, na muda unaopatikana. Unakagua na kutuma - hauhitaji kurudi na kurudi."
+    }
+  ],
+  "pricingNote": "Kwa $100/mtu kwa kikundi cha 6, safari moja iliyohifadhiwa hulipa kwa zaidi ya miaka miwili ya Pro."
+}

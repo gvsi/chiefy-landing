@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail untuk Tunggangan Belon Udara Panas | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu juruterbang belon membalas e-mel tempahan serta-merta — walaupun semasa penerbangan waktu matahari terbit. Balasan draf AI dengan harga, polisi cuaca, dan gaya anda.",
+  "heroBadge": "Dipercayai oleh 200+ juruterbang belon",
+  "heroHeadline": "Pembantu e-mel anda semasa anda di udara",
+  "heroSubline": "Duet mempelajari jadual penerbangan, harga, dan polisi cuaca anda — kemudian menyediakan draf balasan e-mel supaya anda tidak terlepas tempahan ketika anda berlepas pada waktu matahari terbit.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Penerbangan matahari terbit untuk 2 — tersedia Sabtu?",
+      "preview": "Hai! Suami saya dan saya sedang bercuti untuk ulang tahun kami dan ingin menempah tunggangan belon matahari terbit Sabtu ini. Adakah anda ada kekosongan? Berapakah kos setiap orang?",
+      "pill": "Untuk Dibalas",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Adakah kita akan terbang esok? Ramalan angin nampak teruk",
+      "preview": "Kami sudah ditempah untuk pagi esok tetapi aplikasi cuaca menunjukkan hembusan 15 mph. Adakah kita masih akan terbang atau patut kita rancang untuk menjadualkan semula...",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Penerbangan persendirian untuk lamaran — harga?",
+      "preview": "Saya mahu mengejutkan teman wanita saya dengan tunggangan belon persendirian dan melamarnya semasa penerbangan. Berapakah harga penerbangan persendirian dan bolehkah anda bantu menyelaras...",
+      "pill": "Tempahan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Apa yang perlu kami pakai? Di mana kami perlu bertemu?",
+      "preview": "Kami sudah ditempah untuk pagi Ahad. Apa yang perlu kami pakai dan di mana tepatnya tempat pertemuan? Selain itu, berapa lama keseluruhan pengalaman ini mengambil masa...",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Hai Rachel! Sabtu masih tersedia untuk 2 orang. Penerbangan matahari terbit biasanya berlepas sekitar 6:15 AM — kami akan sahkan masa tepat dan lokasi pertemuan pada petang sebelumnya berdasarkan keadaan angin. Harganya $250/orang dan termasuk kira-kira sejam di udara serta toast champagne selepas mendarat. Pakai lapisan pakaian dan kasut bertutup. Mahu saya simpan tempat anda?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "penerbangan",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Satu penerbangan yang diselamatkan membayar setahun Duet."
+  },
+  "categorizationSubtitle": "Duet secara automatik menandai setiap e-mel supaya anda melihat permintaan tempahan dahulu, soalan cuaca kedua, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan penerbangan yang tertimbus di bawah amaran surat berita.",
+  "draftSubtitle": "Duet mempelajari harga, polisi cuaca, dan nada anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran penerbangan, maklumat tempat pertemuan, dan apa yang perlu dipakai. Anda semak dan hantar.",
+  "agentSubtitle": "\"Siapa yang ada dalam manifest esok?\" \"Ada pembatalan cuaca untuk dijadualkan semula?\" Duet tahu peti masuk dan kalendar anda — tanya sahaja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Penerbangan matahari terbit untuk 2 — Sabtu ada?",
+      "preview": "Saya dan suami saya ingin sangat menempah tunggangan belon matahari terbit...",
+      "pill": "Balas Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Balas: Tempahan disahkan — Ahad 6:15 AM",
+      "pill": "Ditempah",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Apa yang patut kami pakai untuk penerbangan itu?",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baharu untuk penyenaraian anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Balloon Federation",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Buletin keselamatan Mac & peringatan pembaharuan",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Balas: Penerbangan matahari terbit untuk 2 — Sabtu ada?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Saya dan suami saya sedang melawat untuk ulang tahun kami dan ingin sangat menempah tunggangan belon matahari terbit pada hari Sabtu ini. Ada kekosongan? Berapakah kos seorang?",
+    "lines": [
+      "Hai Rachel!",
+      "Sabtu tersedia sepenuhnya untuk 2. Penerbangan matahari terbit ialah $250/orang dan termasuk kira-kira satu jam di udara serta tosti champagne selepas mendarat.",
+      "Kami berlepas sekitar 6:15 AM — saya akan hantar masa dan lokasi pertemuan yang tepat pada petang sebelumnya berdasarkan keadaan angin. Pakailah lapisan pakaian dan kasut bertutup.",
+      "Selamat ulang tahun! Mahu saya tempahkan tempat anda?"
+    ],
+    "highlightText": "Sabtu tersedia sepenuhnya untuk 2. Penerbangan matahari terbit ialah $250/orang",
+    "tooltipFeatures": [
+      "Tahu harga & jadual penerbangan anda",
+      "Menyusun draf dalam suara anda",
+      "Termasuk butiran pertemuan secara automatik",
+      "Belajar dari masa ke masa"
+    ]
+  },
+  "agent": {
+    "userMessage": "Siapa dalam manifes esok dan bagaimana keadaan cuaca?",
+    "agentResponse": "Penerbangan matahari terbit esok mempunyai 6 penumpang yang ditempah merentas 2 tempahan: kumpulan Thompson (4) dan pasangan Lee (2). Ramalan semasa menunjukkan angin tenang pada 4 mph dan langit cerah pada waktu berlepas. Tiada e-mel pembatalan lagi. Mahu saya hantar pengesahan titik pertemuan?",
+    "followUp": "Ya, hantarkan pengesahan kepada kedua-dua pihak dengan masa pertemuan 6:15 AM",
+    "followUpResponse": "Selesai! Saya telah drafkan pengesahan titik pertemuan kepada keluarga Thompson dan Lees dengan 6:15 AM di padang pelancaran, pakaian yang perlu dipakai, dan arah jalan. Sedia untuk disemak dan dihantar."
+  },
+  "testimonialsTitle": "Disukai oleh juruterbang & operator belon",
+  "testimonials": [
+    {
+      "name": "Kapten Mike L.",
+      "title": "Juruterbang Belon, MN",
+      "quote": "Saya mengendalikan semuanya seorang diri — saya terbang, saya bantu kru, saya jawab e-mel. Kecuali pada pukul 5 AM saya sedang mengisi belon, bukan membalas. Duet mendraf balasan untuk setiap mesej 'adakah kita akan terbang esok?' sepanjang malam. Saya bangun, semak cuaca, dan tekan hantar.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon & Jake B.",
+      "title": "Pakej Jelajah Belon Sepanjang Tahun, UT",
+      "quote": "Kami menerima soalan yang sama 10 kali setiap hari. Apa yang perlu dipakai, di mana perlu berjumpa, bagaimana jika berangin. Duet mempelajari semuanya dan kini mendraf balasan yang sempurna. Kami berubah daripada sejam e-mel setiap malam kepada lima minit.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Pengendali Penerbangan Matahari Terbit, AZ",
+      "quote": "Musim puncak bermaksud 4-6 penerbangan seminggu dan setiap penumpang menghantar e-mel sekurang-kurangnya dua kali sebelum penerbangan. Duet mengurus soalan sebelum penerbangan supaya saya boleh fokus memberikan orang pagi terbaik dalam hidup mereka.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Bersama Pemilik Syarikat Belon, NM",
+      "quote": "Pembatalan akibat cuaca dulu merosakkan seluruh hari saya — 8 penumpang semuanya memerlukan e-mel penjadualan semula peribadi. Sekarang Duet mendraf setiap satu dengan polisi tempahan semula kami disertakan. Menjimatkan saya berjam-jam pada pagi pembatalan.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Operasi Tunggangan Belon, CO",
+      "quote": "Penerbangan cadangan memerlukan banyak koordinasi berbalas-balas. Duet memahami cara kami menguruskannya — masa, kata kod, persediaan champagne. Ia mendraf balasan yang hampir tidak perlu saya sentuh.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Luangkan pagi anda di langit,\nbukan di peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
+  "verticalFaqs": [
+    {
+      "question": "Bagaimana Duet mengendalikan e-mel pembatalan cuaca?",
+      "answer": "Duet mempelajari polisi pembatalan dan penjadualan semula anda. Apabila anda membatalkan penerbangan kerana cuaca, ia boleh mendraf e-mel penjadualan semula yang diperibadikan kepada setiap penumpang yang terjejas — dengan polisi anda, tarikh yang tersedia, dan nada anda. Anda semak dan hantar. Apa yang dulu mengambil masa sejam untuk balasan individu kini hanya mengambil beberapa minit."
+    },
+    {
+      "question": "Bolehkah Duet mengendalikan e-mel 'adakah kita akan terbang esok?' yang masuk membanjiri setiap malam?",
+      "answer": "Ya — ini adalah salah satu e-mel paling biasa yang diberitahu oleh pengendali belon kepada kami. Duet mempelajari polisi cuaca anda dan mendraf balasan yang meyakinkan yang menjelaskan proses keputusan anda, bila anda akan membuat keputusan muktamad, dan apa yang boleh dijangka. Setelah anda mengesahkan keputusan terbang/tidak terbang pada waktu pagi, ia boleh mendraf kemas kini kepada semua orang dalam manifest."
+    }
+  ],
+  "pricingNote": "Pada $250/orang dengan 4 penumpang setiap penerbangan, satu tempahan yang dijimatkan membayar lebih daripada setahun Pro."
+}

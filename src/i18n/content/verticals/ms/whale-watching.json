@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail untuk Lawatan Menonton Paus | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu kapten lawatan menonton paus membalas e-mel tempahan dengan segera — walaupun dari atas air. Balasan draf AI dengan butiran lawatan, harga, dan gaya anda.",
+  "heroBadge": "Dipercayai oleh lebih 300 kapten lawatan",
+  "heroHeadline": "Pembantu e-mel anda ketika anda sedang keluar mencari paus",
+  "heroSubline": "Duet mempelajari jadual lawatan, harga, dan gaya anda — kemudian menyediakan draf balasan e-mel supaya anda tidak terlepas tempahan semasa anda berada di laut.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kumpulan 8 — kekosongan 14 Jun?",
+      "preview": "Hai! Kami keluarga seramai 8 orang yang datang untuk minggu ini. Adakah anda ada kekosongan untuk lawatan pagi pada 14 Jun? Berapakah harga seorang dan adakah ia sesuai untuk kanak-kanak?",
+      "pill": "Untuk Dibalas",
+      "pillColor": "red"
+    },
+    {
+      "from": "James & Kathy L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Harga sewa carta peribadi?",
+      "preview": "Kami ingin menempah lawatan menonton paus peribadi untuk ulang tahun kami. Berapakah kos untuk piagam peribadi 2 jam hanya untuk kami berdua...",
+      "pill": "Nilai Tinggi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kaunter Pelabuhan Persiaran",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "Perubahan jadual — Coral Princess tiba 1 jam awal",
+      "preview": "Makluman: ketibaan Coral Princess esok telah dipindahkan dari 10 AM ke 9 AM. Sila laraskan sebarang pengambilan lawatan pelabuhan dengan sewajarnya...",
+      "pill": "Segera",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baharu untuk penyenaraian anda",
+      "preview": "Seorang pengembara baru-baru ini telah mengulas perniagaan anda. Lihat apa yang mereka katakan dan balas...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Rachel! Lawatan pagi 14 Jun masih ada tempat untuk 8 orang. Harga lawatan ialah $125/orang, kanak-kanak 4-12 tahun separuh harga. Kami bertolak pada 9 AM dari pelabuhan dan mengambil masa kira-kira 2.5 jam. Kalis teropong disediakan — cuma bawa lapisan pakaian dan pelindung matahari. Mahu saya tempahkan 8 tempat?",
+  "math": {
+    "pricePerBooking": "$750",
+    "bookingUnit": "kumpulan lawatan",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,250",
+    "punchline": "Satu tempahan kumpulan yang diselamatkan sudah membayar kos Duet selama setahun."
+  },
+  "categorizationSubtitle": "Duet secara automatik menandakan setiap e-mel supaya anda melihat permintaan tempahan terlebih dahulu, perubahan jadual kapal persiaran kedua, dan selebihnya tidak pernah. Tidak lagi terlepas pertanyaan piagam peribadi yang tersorok di bawah makluman TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari waktu lawatan, harga, dan polisi anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan kekosongan, apa yang disertakan, dan apa yang perlu dibawa. Anda semak dan hantar.",
+  "agentSubtitle": "\"Berapa banyak tempat yang tinggal untuk lawatan pagi Sabtu?\" \"Sediakan draf balasan kepada Rachel dengan maklumat kekosongan.\" Duet tahu peti masuk dan jadual anda — tanya sahaja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kumpulan 8 — kekosongan 14 Jun?",
+      "preview": "Kami sebuah keluarga seramai 8 orang yang melawat selama seminggu...",
+      "pill": "Balas Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "James L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Balas: Sewa khas persendirian disahkan — Sabtu 2PTG",
+      "pill": "Ditempah",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Megan S.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Adakah lawatan esok akan diteruskan? Angin kelihatan kuat",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FareHarbor",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Ringkasan tempahan harian — 3 tempahan baharu",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marine Supply Co.",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Jualan akhir musim panas — diskaun 15% untuk kelengkapan keselamatan",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Balas: Kumpulan 8 — ketersediaan 14 Jun?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Kami sebuah keluarga seramai 8 orang yang melawat selama seminggu. Adakah anda ada tempat untuk lawatan pagi pada 14 Jun? Berapakah harga seorang dan adakah ia sesuai untuk kanak-kanak?",
+    "lines": [
+      "Hai Rachel!",
+      "Lawatan pagi 14 Jun masih ada banyak ruang untuk 8 orang. Tiket ialah $125/orang, kanak-kanak 4-12 separuh harga. Kami bertolak pada 9 PAGI dan pulang sekitar 11:30.",
+      "Binokular dan kelengkapan hujan disediakan — cuma bawa lapisan pakaian hangat dan pelindung matahari. Kanak-kanak suka berada di dek pemerhatian.",
+      "Nak saya sahkan 8 tempat?"
+    ],
+    "highlightText": "Lawatan pagi 14 Jun masih ada banyak ruang untuk 8 orang. Tiket ialah $125/orang",
+    "tooltipFeatures": [
+      "Tahu waktu lawatan & harga anda",
+      "Menyediakan draf dalam suara anda",
+      "Termasuk perkara yang perlu dibawa secara automatik",
+      "Mempelajari dari semasa ke semasa"
+    ]
+  },
+  "agent": {
+    "userMessage": "Berapa banyak tempat yang masih tinggal untuk lawatan pagi pada hari Sabtu?",
+    "agentResponse": "Berdasarkan tempahan anda, lawatan Sabtu pukul 9 PAGI telah diisi 18 daripada 44 tempat — 26 masih kosong. Lawatan petang hampir penuh dengan 40 daripada 44. Nak saya drafkan balasan kepada sebarang pertanyaan yang belum dijawab dengan ketersediaan Sabtu pagi?",
+    "followUp": "Drafkan balasan kepada Rachel yang mengesahkan 14 Jun untuk 8 tetamu",
+    "followUpResponse": "Selesai! Saya telah menyediakan draf balasan kepada Rachel yang mengesahkan lawatan pagi 14 Jun untuk 8 tetamu pada harga $125/seorang. Ia termasuk waktu bertolak, apa yang disediakan, dan apa yang perlu dibawa. Sedia untuk disemak dan dihantar."
+  },
+  "testimonialsTitle": "Disukai oleh kapten pemerhatian ikan paus",
+  "testimonials": [
+    {
+      "name": "Kapten Dave H.",
+      "title": "Pengendali Lawatan Hidupan Liar, AK",
+      "quote": "Penumpang kapal persiaran perlukan jawapan dengan pantas — mereka hanya ada 6 jam di pelabuhan. Dulu saya sering kehilangan tempahan charter persendirian kerana saya sedang di laut apabila pertanyaan masuk. Sekarang Duet menyediakan draf balasan dengan harga dan butiran pengambilan saya sebelum saya sempat berlabuh.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria & Luis R.",
+      "title": "Pemerhatian Ikan Paus Keluarga, CA",
+      "quote": "Kami menjalankan dua lawatan sehari semasa musim humpback dan jumlah e-mel memang luar biasa. 'Adakah kita akan melihat ikan paus?' 'Apa yang patut saya pakai?' 'Adakah esok dibatalkan?' Duet mengendalikan soalan berulang dan kami boleh fokus pada lawatan.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Kapten Ben T.",
+      "title": "Penerokaan Laut, HI",
+      "quote": "Saya menjawab 10 soalan yang sama setiap malam — harga, apa yang termasuk, petua mabuk laut, had umur kanak-kanak. Duet mempelajari semuanya dalam minggu pertama. Masa respons saya turun daripada 8 jam kepada 8 minit.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Kim W.",
+      "title": "Pengurus Tempahan, Pacific NW",
+      "quote": "Pembatalan akibat cuaca memang paling sukar — 30 orang perlu dijadualkan semula serentak dan saya pula sibuk mengurus panggilan telefon. Duet menyediakan draf e-mel penjadualan semula yang diperibadikan untuk setiap tetamu. Apa yang dulu mengambil 2 jam kini hanya 15 minit.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jess & Nate P.",
+      "title": "Lawatan Hidupan Liar Bot Kecil, BC",
+      "quote": "Kami operasi dua orang — saya kapten, dia urus logistik. Semasa musim puncak, dia habiskan 3 jam setiap malam untuk e-mel. Duet mengurangkannya kepada 30 minit. Sekarang dia benar-benar dapat menikmati waktu malamnya.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Luangkan musim ikan paus di atas air,\nbukan di peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
+  "verticalFaqs": [
+    {
+      "question": "Adakah Duet mengendalikan pembatalan akibat cuaca dan perubahan jadual kapal persiaran?",
+      "answer": "Ya. Apabila anda membatalkan lawatan kerana cuaca atau waktu ketibaan kapal persiaran berubah, anda boleh beritahu Duet sekali sahaja dan ia menyediakan draf e-mel penjadualan semula atau kemas kini yang diperibadikan untuk setiap tetamu yang terjejas. Tiada lagi salin dan tampal mesej yang sama 30 kali. Setiap balasan termasuk butiran tempahan asal tetamu dan pilihan alternatif yang tersedia."
+    },
+    {
+      "question": "Kami sentiasa menerima soalan yang sama — 'adakah kita akan melihat ikan paus?', 'apa yang patut saya pakai?', 'adakah ia sesuai untuk kanak-kanak?' Bolehkah Duet mengendalikannya?",
+      "answer": "Itulah tepatnya kekuatan Duet. Ia mempelajari jawapan standard anda — spesies yang biasanya anda lihat, apa yang perlu dibawa, polisi umur, petua mabuk laut, waktu bertolak — dan menyediakan draf balasan lengkap dengan serta-merta. Anda semak dan hantar. Kebanyakan kapten memberitahu kami 80% peti masuk mereka terdiri daripada 10 soalan yang sama, dan Duet mengendalikan semuanya."
+    }
+  ],
+  "pricingNote": "Pada harga $125/seorang, satu kumpulan 6 orang yang berjaya dijimatkan sudah membayar lebih daripada setahun Pro."
+}

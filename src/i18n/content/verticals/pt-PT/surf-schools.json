@@ -1,0 +1,171 @@
+{
+  "slug": "surf-schools",
+  "pageTitle": "Duet Mail para escolas de surfe e operadores de paddleboard | Assistente de email com IA",
+  "metaDescription": "O Duet Mail ajuda instrutores de surfe e operadores de paddleboard a responder emails de reserva instantaneamente — até enquanto ensinam. Respostas redigidas por IA com os seus tipos de aula, preços e tom.",
+  "heroBadge": "Usado por mais de 300 instrutores de surfe",
+  "heroHeadline": "O seu assistente de email enquanto o utilizador ensina na água",
+  "heroSubline": "O Duet aprende os seus tipos de aula, preços e condições — e então redige respostas de email para não perder nenhuma reserva por demora na resposta.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aula em grupo para 6 no sábado?",
+      "preview": "Olá! Tenho um grupo de 6 amigos visitando no fim de semana. O utilizadores têm disponibilidade para uma aula de surfe em grupo no sábado de manhã? Qual é o preço?",
+      "pill": "Responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Passeio escolar — 25 alunos, May 15",
+      "preview": "Queremos reservar um dia de surfe para nossa turma do 5º ano com 25 alunos. O utilizadores oferecem tarifas para grupos escolares? Precisaríamos de roupas de neoprene e pranchas fornecidas...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Aluguel de paddleboard + entrega?",
+      "preview": "O utilizadores alugam pranchas de SUP por hora? Estamos hospedados na casa de praia na Elm St — existe chance de entregar? O que está incluído...",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Nicole B.",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Condições para amanhã de manhã?",
+      "preview": "Estamos reservados para 9  amanhã, mas a previsão parece ventosa. A aula ainda vai acontecer? Devemos levar algo extra...",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Olá Rachel! Sábado de manhã está disponível para 6. As aulas em grupo duram 2 horas, começando às 9. Pranchas, roupas de neoprene e camisetas UV estão incluídas — basta levar protetor solar e uma toalha. O preço é $90 por pessoa. Quer que eu reserve o seu grupo?",
+  "math": {
+    "pricePerBooking": "$90",
+    "bookingUnit": "aula",
+    "lostPerMonth": "8",
+    "monthlyLoss": "$720",
+    "punchline": "Duas reservas recuperadas pagam um ano de Duet."
+  },
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para ver reservas de aulas primeiro, perguntas em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo escolar enterrada sob alertas do Yelp.",
+  "draftSubtitle": "O Duet aprende os seus tipos de aula, preços para grupos e tom. Quando chega uma consulta de reserva, ele redige uma resposta completa com disponibilidade, o que está incluído e o que levar. Reveja e envia.",
+  "agentSubtitle": "\"Alguma reserva de grupo chegando esta semana?\" \"Redija uma resposta para a escola com disponibilidade.\" O Duet conhece a sua caixa de entrada e a sua agenda — é só perguntar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aula em grupo para 6 no sábado?",
+      "preview": "Tenho um grupo de 6 amigos visitando no fim de semana...",
+      "pill": "Responder agora",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Re: Passeio escolar confirmado — May 15, 25 alunos",
+      "pill": "Reservado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "O utilizadores alugam paddleboards por hora?",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova avaliação para sua página",
+      "pill": "Info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Surf Warehouse",
+      "avatarLetter": "S",
+      "avatarColor": "lavender",
+      "subject": "Promoção de verão — 30% de desconto em roupas de neoprene",
+      "pill": "Promoções",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Aula em grupo para 6 no sábado?",
+    "originalFrom": "Rachel T. escreveu:",
+    "originalText": "Olá! Tenho um grupo de 6 amigos visitando no fim de semana. O utilizadores têm disponibilidade para uma aula de surfe em grupo no sábado de manhã? Qual é o preço?",
+    "lines": [
+      "Olá Rachel!",
+      "Sábado de manhã está totalmente disponível para 6. As aulas em grupo custam $90/pessoa e duram 2 horas, começando às 9  na praia principal.",
+      "Pranchas, roupas de neoprene e camisetas UV estão incluídas — basta levar protetor solar, água e uma toalha. Não é preciso experiência.",
+      "Quer que eu reserve o seu grupo?"
+    ],
+    "highlightText": "Sábado de manhã está totalmente disponível para 6. As aulas em grupo custam $90/pessoa",
+    "tooltipFeatures": [
+      "Conhece os seus tipos de aula e preços",
+      "Redige no seu tom de voz",
+      "Inclui automaticamente o que é fornecido",
+      "Aprende com o tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Alguma reserva de grupo chegando esta semana?",
+    "agentResponse": "Tem duas reservas de grupo esta semana: Rachel T. no sábado (6 pessoas, 9 ) e Westside Elementary na quarta (25 alunos, passeio escolar às 10 ). O utilizador também tem uma consulta pendente do James P. sobre aluguel de paddleboards. Quer que eu redija uma resposta?",
+    "followUp": "Redija uma resposta para a escola confirmando os detalhes do passeio escolar",
+    "followUpResponse": "Pronto! Redigi uma resposta para Westside Elementary confirmando May 15 para 25 alunos às 10. Ela inclui a sua tarifa para grupos escolares, o que é fornecido, requisitos de autorização e a sua política de cancelamento. Pronta para rever e enviar."
+  },
+  "testimonialsTitle": "Adorado por instrutores de surfe",
+  "testimonials": [
+    {
+      "name": "Coach Mike T.",
+      "title": "Dono de escola de surfe, CA",
+      "quote": "Fico na água ensinando 6 horas por dia. Quando eu checava o email, metade das reservas já tinha ido para outra pessoa. Agora o Duet redige respostas com os meus preços e disponibilidade — eu só reviso entre as sessões.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Aulas e aluguel de paddleboard, HI",
+      "quote": "Operamos aulas e aluguel de pranchas na mesma caixa de entrada. O Duet entendeu a diferença instantaneamente — perguntas de aluguel recebem respostas de aluguel, consultas de aula recebem detalhes de aula. É como ter uma recepção.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Danny R.",
+      "title": "Instrutor de surfe, FL",
+      "quote": "Reservas de grupos escolares costumavam levar 10 emails de ida e volta. Agora o Duet redige a primeira resposta com tarifas de grupo, o que está incluído e a autorização. Corta a conversa pela metade.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Fran C.",
+      "title": "Passeios e aulas de SUP, OR",
+      "quote": "A alta temporada estava me acabando — 30 emails por dia sobre condições, preço, o que levar. As mesmas cinco perguntas sem parar. O Duet responde todas e elas soam exatamente como eu.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Diretora de colônia de surfe infantil, SC",
+      "quote": "Pais mandam os emails mais longos. Datas da colônia, alergias, níveis de habilidade, horários de retirada. O Duet redige respostas detalhadas que cobrem tudo, para eu não ficar digitando parágrafos às 10  depois de um dia inteiro na praia.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Passe o seu verão nas ondas,\nnão na sua caixa de entrada.",
+  "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "O Duet lida com diferentes tipos de aula e aluguel de equipamentos?",
+      "answer": "Sim. O Duet aprende todas as suas ofertas — aulas particulares, aulas em grupo, colônias de férias infantis, aluguel de pranchas, passeios de SUP. Quando chega uma consulta, ele redige uma resposta com preço, duração, o que está incluído e o que levar corretos. Ele sabe que um email de grupo escolar precisa de detalhes diferentes de uma reserva de aula particular."
+    },
+    {
+      "question": "E as perguntas sobre clima e condições?",
+      "answer": "O Duet aprende como o utilizador costuma lidar com emails sobre condições — as suas políticas de cancelamento, remarcação e em que condições o utilizador dá aula. Quando alguém escreve perguntando se a aula vai acontecer, o Duet redige uma resposta no seu tom habitual e conforme a sua política. Reveja e envia em segundos."
+    }
+  ],
+  "pricingNote": "Com $90/aula, duas reservas recuperadas pagam mais de um ano de Pro."
+}

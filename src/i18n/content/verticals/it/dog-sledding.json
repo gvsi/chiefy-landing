@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail per tour con slitte trainate da cani | Assistente e-mail AI",
+  "metaDescription": "Duet Mail aiuta i musher a rispondere istantaneamente alle e-mail di prenotazione, anche dal percorso. Risposte elaborate dall'intelligenza artificiale con tipi di tour, prezzi, politiche e voce.",
+  "heroBadge": "Scelto da oltre 200 musher",
+  "heroHeadline": "Il tuo assistente email mentre sei in viaggio",
+  "heroSubline": "Duet apprende i tipi di tour, i prezzi, le politiche meteorologiche e i componenti aggiuntivi, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Rachele T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Combo Aurora + slitta trainata da cani per 4?",
+      "preview": "Ciao! La mia famiglia di 4 persone visiterà Fairbanks a gennaio. Offri un pacchetto combinato con slitta trainata da cani e osservazione dell'aurora? Qual è il prezzo?",
+      "pill": "Per rispondere",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Cosa dovremmo indossare?",
+      "preview": "Abbiamo prenotato per l'esperienza poltiglia di 2 ore di sabato. Cosa dovremmo indossare? Fornite l'attrezzatura o dobbiamo portare la nostra...",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim e Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Bambini dai 5 agli 8 anni: possono fare la poltiglia?",
+      "preview": "Porteremo i nostri due bambini (5 e 8 anni). Possono viaggiare sulla slitta o effettivamente aiutare la poltiglia? Anche i cani si comportano bene con i bambini piccoli...",
+      "pill": "Prenotazione",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nuova recensione per la tua inserzione",
+      "preview": "Un viaggiatore ha recentemente recensito la tua attività. Guarda cosa avevano da dire e rispondi...",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ciao Rachele! Ci piacerebbe ospitare la tua famiglia. La nostra combinazione Aurora + Mush costa $ 175 a persona: ottieni un giro in slitta di un'ora e mezza attraverso i sentieri al tramonto, poi cioccolata calda accanto al fuoco mentre aspettiamo le luci. Viene fornita tutta l'attrezzatura per la stagione fredda. I bambini fino a 12 anni costano $ 125. Vuoi che ti prenoti per gennaio?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "giro",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Due prenotazioni salvate pagano un anno di Duet."
+  },
+  "categorizationSubtitle": "Duet tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande e mai il rumore. Non perderai più una richiesta di tour sepolta sotto gli avvisi TripAdvisor.",
+  "draftSubtitle": "Duet apprende i tipi di tour, i prezzi e il tono. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del pacchetto, cosa indossare e componenti aggiuntivi. Rivedi e invii.",
+  "agentSubtitle": "\"Ci sono prenotazioni per questo fine settimana?\" \"Scrivi una risposta sulla combo Aurora.\" Duet conosce la tua casella di posta e il tuo programma: basta chiedere.",
+  "categorizationEmails": [
+    {
+      "from": "Rachele T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Combo Aurora + slitta trainata da cani per 4?",
+      "preview": "La mia famiglia di 4 persone visiterà Fairbanks a gennaio...",
+      "pill": "Rispondi adesso",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Ri: Prenotazione confermata — sabato 13:00",
+      "pill": "Prenotato",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "I nostri bambini (5 e 8 anni) possono venire con noi?",
+      "pill": "Domanda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viatore",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Il riepilogo della tua prenotazione settimanale",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Saldi invernali: 30% di sconto sulle imbracature da mushing",
+      "pill": "Promozioni",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Ri: Combo Aurora + slitta trainata da cani per 4?",
+    "originalFrom": "Rachel T. ha scritto:",
+    "originalText": "Ciao! La mia famiglia di 4 persone visiterà Fairbanks a gennaio. Offri un pacchetto combinato con slitta trainata da cani e osservazione dell'aurora? Qual è il prezzo?",
+    "lines": [
+      "Ciao Rachele!",
+      "La nostra combinazione Aurora + Mush costa $ 175 a persona: un giro in slitta di un'ora e mezza al tramonto seguito da cioccolata calda e osservazione dell'aurora accanto al fuoco. I bambini fino a 12 anni costano $ 125.",
+      "Viene fornita tutta l'attrezzatura per la stagione fredda (stivali, bavaglini, guanti, maschere per il viso). Basta vestirsi con strati caldi sotto.",
+      "Vuoi che prenoti la tua famiglia di 4 persone per gennaio?"
+    ],
+    "highlightText": "La combinazione Aurora + Mush costa $ 175 a persona – un giro in slitta di 1,5 ore",
+    "tooltipFeatures": [
+      "Conosce i tipi di tour e i prezzi",
+      "Bozze nella tua voce",
+      "Include attrezzatura e dettagli aggiuntivi",
+      "Impara nel tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ci sono prenotazioni in arrivo questo fine settimana? Il tempo sembra incerto.",
+    "agentResponse": "Hai prenotato 3 tour questo fine settimana: una visita al canile sabato alle 10:00 (2 ospiti), un'esperienza poltiglia di 2 ore sabato alle 13:00 (4 ospiti) e una combinazione aurora domenica alle 16:00 (6 ospiti). Il gruppo della domenica ha chiesto informazioni sulla politica di cancellazione. Vuoi che rediga un aggiornamento meteo per tutti e tre?",
+    "followUp": "Redigere un aggiornamento meteorologico per il gruppo di aurore domenicali",
+    "followUpResponse": "Fatto! Ho redatto una risposta al gruppo Sunday Aurora per informarli che stai monitorando le condizioni e confermerò entro sabato sera. Include la politica di riprogrammazione e le date alternative. Pronto per la revisione e l'invio."
+  },
+  "testimonialsTitle": "Amato dai musher e dai tour operator",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Operatore turistico di cani da slitta, AK",
+      "quote": "Sono in viaggio 6 ore al giorno con il servizio zero cell. Quando sono tornato, metà delle richieste di prenotazione erano andate a un'altra struttura. Duet bozze di risposta con i dettagli e i prezzi del mio tour: gli ospiti rispondono in pochi minuti, non in ore.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Proprietario del tour Kennel & Mush, AK",
+      "quote": "Offriamo visite al canile, mush ride e combinazioni aurora: ogni email ha bisogno di una risposta diversa. Duet ha capito tutti e tre i tipi di tour in una settimana e ora elabora risposte che corrispondono ogni volta al pacchetto giusto.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Guida per slitte trainate da cani, MN",
+      "quote": "Passavo ogni sera a rispondere alle stesse domande su cosa indossare, limiti di età e cani. Duet gestisce tutto. Torno a casa dal sentiero e tutto è pronto e in attesa.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Tour operator Aurora e slitta, AK",
+      "quote": "Le cancellazioni meteorologiche sono costanti in inverno. Duet redige bozze di riprogrammazione delle risposte con la nostra politica e date alternative prima ancora che io abbia la possibilità di controllare il mio telefono. Gli ospiti apprezzano la risposta rapida.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Avventure in slitta trainata da cani per famiglie, CO",
+      "quote": "I genitori chiedono sempre se i loro figli possono fare la poltiglia, se i cani sono amichevoli, cosa indossare: le stesse 10 domande. Duet ha imparato ogni risposta e le abbozza perfettamente. È come clonarmi per la posta elettronica.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Trascorri l'inverno sui sentieri con i tuoi cani,\nnon nella tua casella di posta.",
+  "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
+  "verticalFaqs": [
+    {
+      "question": "In che modo Duet gestisce le cancellazioni meteorologiche e l'incertezza dell'aurora?",
+      "answer": "Duet apprende le tue politiche di cancellazione e riprogrammazione. Quando un ospite invia un'e-mail in merito a problemi meteorologici o visibilità dell'aurora, redige una risposta con la tua politica, date alternative e tutti i dettagli rilevanti, come il monitoraggio delle condizioni e la conferma in prossimità del tour. Rivedi e invii."
+    },
+    {
+      "question": "Offro più tipi di tour con prezzi e componenti aggiuntivi diversi. Duet può mantenerli dritti?",
+      "answer": "Sì. Duet apprende ciascuno dei tuoi tipi di tour: visite al canile, esperienze poltiglia, combinazioni di aurora, componenti aggiuntivi per la fotografia, pacchetti di trasporto, insieme ai prezzi, alla durata e a ciò che è incluso. Quando arriva una richiesta, abbina il tour giusto e redige una risposta con i dettagli corretti."
+    }
+  ],
+  "pricingNote": "A $ 150/tour, due prenotazioni salvate pagano più di un anno di Pro."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail voor rafting- en kajakoutfitters | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt raftinggidsen en kajakwinkels direct te reageren op reisvragen, zelfs vanaf de rivier. AI-opgestelde antwoorden met uw reisgegevens, prijzen en stem.",
+  "heroBadge": "Vertrouwd door meer dan 200 riviergidsen",
+  "heroHeadline": "Uw e-mailassistent terwijl u op de rivier bent",
+  "heroSubline": "Duet leert uw reistypes, prijzen en uitrustingslijsten kennen en stelt vervolgens antwoorden op boekingsvragen op, zodat klanten antwoorden krijgen terwijl u stroomversnellingen maakt.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Een hele dag vlottocht voor 6 personen op 9 augustus?",
+      "preview": "Hallo! We zijn met een gezin van zes op bezoek in augustus en willen een raftingtrip van een hele dag boeken op de 9e. Wat is de prijs per persoon en welk ervaringsniveau hebben we nodig?",
+      "pill": "Om te reageren",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Meerdaagse reis – wat is inbegrepen?",
+      "preview": "We zijn met een groep van vier en kijken naar uw driedaagse expeditie. Zijn maaltijden, kampeerspullen en droge tassen inbegrepen of moeten we deze zelf meenemen...",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel & Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Kinderen van 8 en 10 jaar: veilig genoeg?",
+      "preview": "We willen graag een reis van een halve dag maken, maar onze kinderen zijn 8 en 10. Is het Klasse II-gedeelte geschikt voor hun leeftijd? Wat is het minimum...",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nieuwe recensie voor uw vermelding",
+      "preview": "Een reiziger heeft onlangs uw bedrijf beoordeeld. Kijk wat ze te zeggen hadden en reageer...",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hé Jennifer! 9 augustus is geopend voor 6 personen. Dagtochten kosten $ 150 per persoon en duren ongeveer 7 uur – we beginnen om 8.30 uur. Ervaring is niet nodig, onze gidsen regelen alles. PFD's, helmen, droge tassen en een lunch aan de rivier zijn allemaal inbegrepen. Neem gewoon zonnebrandcrème, waterschoenen en kleding mee waarvan u het niet erg vindt om nat te worden. Wil je dat ik jouw plekken reserveer?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "persoon",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Voor twee opgeslagen boekingen betaal je een heel jaar Duet."
+  },
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat reisvragen als eerste naar voren komen, pasvragen als tweede en de promotieruis verdwijnt. Mis nooit meer een groepsboeking die verborgen is onder TripAdvisor-waarschuwingen.",
+  "draftSubtitle": "Duet leert uw reistypes, stroomversnellingklassen, uitrustingslijsten en annuleringsbeleid. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met alles wat de klant nodig heeft. Je beoordeelt en verzendt.",
+  "agentSubtitle": "'Zijn er nog plekken vrij op zaterdag de hele dag?' \"Stel een antwoord op voor Jennifer met de beschikbaarheid.\"Duet kent uw inbox en planning — vraag het maar.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Een hele dag vlottocht voor 6 personen op 9 augustus?",
+      "preview": "We zijn een gezin van 6 personen die in augustus op bezoek komen en willen boeken...",
+      "pill": "Reageer nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: 3-daagse expeditie bevestigd – 15 augustus",
+      "pill": "Geboekt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Zijn kinderen van 8 en 10 jaar in aanmerking voor klasse II?",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Het Vliegboek",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Uw wekelijkse boekingsoverzicht",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Eindeseizoensuitverkoop — 30% korting op droogpakken",
+      "pill": "Promoties",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Een hele dag vlottocht voor 6 personen op 9 augustus?",
+    "originalFrom": "Jennifer W. schreef:",
+    "originalText": "Hoi! We zijn met een gezin van zes op bezoek in augustus en willen een raftingtrip van een hele dag boeken op de 9e. Wat is de prijs per persoon en welk ervaringsniveau hebben we nodig?",
+    "lines": [
+      "Hé Jennifer!",
+      "9 augustus is wijd open voor 6 personen. Dagtochten kosten $ 150 per persoon en duren ongeveer 7 uur - we ontmoeten elkaar om 8.30 uur bij de aankomst.",
+      "Geen ervaring nodig. PFD's, helmen, droge tassen en een lunch aan de rivier zijn allemaal inbegrepen - neem alleen zonnebrandcrème en waterschoenen mee.",
+      "Wil je dat ik jouw plekken reserveer?"
+    ],
+    "highlightText": "9 augustus is wijd open voor 6 personen. Dagtochten kosten $ 150 per persoon",
+    "tooltipFeatures": [
+      "Kent uw reistypes en prijzen",
+      "Tochten in je stem",
+      "Inclusief uitrustingslijsten automatisch",
+      "Leert in de loop van de tijd"
+    ]
+  },
+  "agent": {
+    "userMessage": "Zijn er nog plekken vrij op de dagexcursie van zaterdag?",
+    "agentResponse": "Voor de hele dag van zaterdag zijn er nog 4 van de 10 plekken vrij. Je hebt ook een ochtendrun van een halve dag die volgeboekt is en een meerdaags vertrek op zondag met nog 2 plekken open. Wil je dat ik een antwoord opstel op openstaande vragen met betrekking tot de beschikbaarheid van zaterdag?",
+    "followUp": "Stel een antwoord op aan Jennifer met de beschikbaarheid van 9 augustus",
+    "followUpResponse": "Klaar! Ik heb een antwoord aan Jennifer opgesteld waarin ik 9 augustus bevestig voor 6 gasten voor $ 150 per persoon. Het bevat uw standaardreisgegevens, uitrustingslijst en vergaderlocatie. Klaar om te beoordelen en te verzenden."
+  },
+  "testimonialsTitle": "Geliefd bij riviergidsen en outfitters",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Rafting Outfitter, CO",
+      "quote": "In het hoogseizoen ben ik 6 dagen per week op de rivier. Tegen de tijd dat ik terugkwam op de e-mails, had de helft van de groepen al bij iemand anders geboekt. Duet stelt nu antwoorden op met reisgegevens en prijzen terwijl ik bij de ingebruikname ben.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Kajak- en SUP-tochten, OR",
+      "quote": "Elke klant stelt dezelfde vijf vragen: prijzen, wat mee te nemen, vaardigheidsniveau, groepsgrootte, annuleringsbeleid. Duet heb het allemaal in de eerste week geleerd. Ik ging van een uur e-mailen per avond naar vijf minuten concepten doornemen.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Meerdaagse expeditiegids, AK",
+      "quote": "Ik voer 5-daagse reizen uit zonder mobiele service. Vóór Duet bleef elke vraag onbeantwoord totdat ik terug in de stad was. Nu krijgen klanten binnen enkele minuten een gedetailleerd antwoord en ik bevestig wanneer ik van de rivier af ben.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Officemanager River Adventures, WV",
+      "quote": "Ik beheer boekingen voor drie gidsen voor vier reistypes. Duet categoriseert elke e-mail op urgentie en stelt antwoorden op met de juiste reis, de juiste prijs, de juiste uitrustingslijst. Het is alsof ik mezelf klonen.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "We waren sceptisch dat AI rafting-specifieke e-mails zou kunnen verwerken. Maar het pakte onze Klasse III versus Klasse IV-beschrijvingen, leeftijdsminima en zelfs ons beleid voor kajakken bij natte uitgang op. Klanten denken dat ze met ons praten.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Breng de zomer door aan de rivier,\ne-mail niet inhalen.",
+  "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
+  "verticalFaqs": [
+    {
+      "question": "Kan Duet offertes voor reizen op maat en vragen over meerdaagse expedities verwerken?",
+      "answer": "Ja. Duet leert uw volledige reisprogramma kennen - praalwagens van een halve dag, stroomversnellingen van een hele dag, meerdaagse expedities - samen met prijzen, wat is inbegrepen, minimumleeftijden en moeilijkheidsgraden. Wanneer iemand vraagt ​​naar een 3-daagse reis voor 6 personen, stelt hij een volledig antwoord op met de juiste details. Je beoordeelt, past indien nodig aan en verzendt."
+    },
+    {
+      "question": "Op meerdaagse reizen ben ik off-grid. Werkt Duet nog steeds?",
+      "answer": "Dat is precies het probleem dat Duet oplost. Terwijl u zich op de rivier bevindt zonder signaal, stelt Duet conceptantwoorden op voor elke vraag die binnenkomt. Wanneer u weer binnen bereik bent, wachten uw concepten op u. U hoeft ze alleen maar te bekijken en te verzenden. De meeste gidsen vertellen ons dat het de achterstand wegwerkt die ze vroeger na elke meerdaagse reis tegenkwamen."
+    }
+  ],
+  "pricingNote": "Voor $ 150/persoon bestrijken twee opgeslagen boekingen een volledig jaar Pro."
+}

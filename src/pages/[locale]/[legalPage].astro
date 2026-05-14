@@ -1,0 +1,42 @@
+---
+import LegalLayout from "../../layouts/LegalLayout.astro"
+import { NON_DEFAULT_LOCALES, type Locale } from "../../i18n/locales"
+import { localizedPath, type LegalPage } from "../../i18n/routing"
+import { getAlternateLinksForRoute, getLegalContent, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content"
+import { getMessages, t } from "../../i18n/messages/schema"
+
+export function getStaticPaths() {
+    const legalPages = ["terms", "privacy", "cookies", "disclaimer"] as const satisfies readonly LegalPage[]
+    return NON_DEFAULT_LOCALES.flatMap((locale) =>
+        legalPages.map((legalPage) => ({
+            params: { locale, legalPage },
+            props: { locale, legalPage },
+        })),
+    )
+}
+
+const { locale, legalPage } = Astro.props as { locale: Locale; legalPage: LegalPage }
+if (!(["terms", "privacy", "cookies", "disclaimer"] as const satisfies readonly LegalPage[]).includes(legalPage)) {
+    throw new Error(`Unsupported legal page: ${legalPage}`)
+}
+
+const messages = getMessages(locale)
+const contentHtml = getLegalContent(locale, legalPage)
+const title = t(messages, `legal.pages.${legalPage}.title`)
+const description = t(messages, `legal.pages.${legalPage}.description`)
+const canonicalPath = localizedPath(locale, { kind: "legal", page: legalPage })
+const alternates = await getAlternateLinksForRoute(Astro.site, { kind: "legal", page: legalPage })
+const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "legal", locale, page: legalPage }))
+---
+
+<LegalLayout
+    locale={locale}
+    messages={messages}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
+    title={title}
+    description={description}
+    canonicalPath={canonicalPath}
+    activeNav={legalPage}
+    contentHtml={contentHtml}
+/>

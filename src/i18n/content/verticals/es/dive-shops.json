@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail para tiendas de buceo | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los propietarios de tiendas de buceo y a los instructores PADI a responder consultas sobre certificaciones, reservas de viajes y preguntas sobre equipos al instante, incluso desde el agua.",
+  "heroBadge": "Con la confianza de más de 300 operadores de buceo",
+  "heroHeadline": "Tu asistente de correo electrónico mientras estás bajo el agua",
+  "heroSubline": "Duet conoce tus sitios de buceo, requisitos de certificación, precios y voz, y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva mientras estás en el barco.",
+  "inboxEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certificación Open Water: ¿disponibilidad?",
+      "preview": "¡Hola! Estoy de visita la primera semana de agosto y quiero obtener mi certificado Open Water. ¿Cuántos días tarda y qué incluye?",
+      "pill": "Para responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin y Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Grupo de 6 para una inmersión con 2 tanques el sábado.",
+      "preview": "Tenemos 6 buceadores certificados y queremos reservar una inmersión matutina con 2 tanques este sábado. ¿Tienes espacio? ¿Cuál es la tarifa por persona...?",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "jason m.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "¿Alquiler de BCD para el fin de semana?",
+      "preview": "Oye, estoy certificado pero viajo ligero. ¿Alquilas BCD y reguladores? Los necesitaría de viernes a domingo...",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Aprendizaje electrónico PADI",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Referencia de estudiantes: Rachel Torres",
+      "preview": "Un estudiante ha completado su eLearning y ha seleccionado su centro de buceo para entrenamiento en aguas confinadas y abiertas...",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Raquel! Nos encantaría certificarlo. El curso Open Water dura 3 días: un día de sesiones en la piscina y dos días de inmersiones en el océano. Todo el equipo está incluido. Agosto está completamente abierto. ¿Quieres que reserve un lugar para esa primera semana?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "bucear",
+    "lostPerMonth": "3 viajes (6 buceadores cada uno)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Una inmersión grupal guardada paga por un año de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las consultas sobre certificaciones y reservas de buceo, luego las preguntas sobre equipo y las alertas PADI cuando estés listo. No más perderse una reserva de grupo enterrada bajo los boletines informativos sobre equipos.",
+  "draftSubtitle": "Duet conoce sus sitios de buceo, requisitos de certificados y precios. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del viaje, qué está incluido y qué llevar. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Cuántos buceadores hay reservados para el sábado?\" \"Redacta una respuesta a Rachel con disponibilidad de Open Water\". Duet conoce tu bandeja de entrada y tu horario, solo pregúntale.",
+  "categorizationEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Certificación Open Water: ¿disponibilidad?",
+      "preview": "Estoy de visita la primera semana de agosto y quiero certificarme...",
+      "pill": "Responder ahora",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin l.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Reserva confirmada — Inmersión con 2 tanques el sábado",
+      "pill": "Reservado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "jason m.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "¿Alquiler de BCD y regulador este fin de semana?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "buceador",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Nueva reseña en tu anuncio",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Equipo de buceo expreso",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Rebajas de verano: 25 % de descuento en trajes de neopreno",
+      "pill": "Promociones",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Certificación Open Water: ¿disponibilidad?",
+    "originalFrom": "Raquel T. escribió:",
+    "originalText": "¡Hola! Estoy de visita la primera semana de agosto y quiero obtener mi certificado Open Water. ¿Cuántos días tarda y qué incluye?",
+    "lines": [
+      "Hola Raquel!",
+      "¡Nos encantaría certificarte! El curso PADI Open Water dura 3 días: una sesión en la piscina y dos inmersiones en el océano en nuestro arrecife. Todo el equipo está incluido.",
+      "Agosto está completamente abierto en este momento. La mayoría de los estudiantes comienzan un lunes, por lo que terminan el miércoles.",
+      "¿Quieres que reserve un lugar?"
+    ],
+    "highlightText": "El curso PADI Open Water tiene una duración de 3 días.",
+    "tooltipFeatures": [
+      "Conoce tus cursos y precios",
+      "Borradores en tu voz",
+      "Incluye requisitos de certificación automáticamente.",
+      "Aprende con el tiempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "¿Cuántos buceadores están reservados para el sábado?",
+    "agentResponse": "Según su bandeja de entrada, tiene 8 buceadores confirmados para la inmersión con 2 tanques del sábado por la mañana: el grupo de 6 de Kevin más 2 reservas individuales. También tienes una consulta pendiente de Jason sobre el alquiler de equipo para el mismo viaje. ¿Quieres que redacte una respuesta?",
+    "followUp": "Redactar una respuesta a Rachel con los detalles del curso Open Water",
+    "followUpResponse": "¡Listo! Redacté una respuesta a Rachel confirmando el curso PADI Open Water de 3 días con inmersiones en piscina y océano incluidas. Menciona la disponibilidad de agosto y su política estándar de equipo incluido. Listo para revisar y enviar."
+  },
+  "testimonialsTitle": "Amado por los operadores de buceo.",
+  "testimonials": [
+    {
+      "name": "Capitán Mike T.",
+      "title": "Capitán de barco de buceo, FL",
+      "quote": "Realizo viajes en barco de viernes a domingo y la tienda solo abre unas pocas horas los lunes. Las preguntas sobre certificaciones y viajes se acumulan mientras estoy bajo el agua. Duet borradores de respuestas con mis precios, sitios de buceo y lo que está incluido; los reviso entre inmersiones.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen y Mark S.",
+      "title": "Centro de buceo PADI, Hawaii",
+      "quote": "Realizamos inmersiones, tours de snorkel y avistamientos de ballenas desde los mismos barcos. La variedad de correos electrónicos es una locura: preguntas sobre certificados, reservas de grupos, alquiler de equipos, comprobaciones meteorológicas. Duet lo ordena todo y redacta respuestas que conocen la diferencia. Absoluto salvavidas.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "jake r.",
+      "title": "Cartas de buceo en naufragios, Florida",
+      "quote": "La mitad de mis correos electrónicos son \"¿qué certificación necesito para las inmersiones en pecios?\" y la otra mitad es \"¿necesito mi propio equipo?\" Duet maneja ambos en piloto automático. Mi tiempo de respuesta pasó de horas a minutos.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "francesca d.",
+      "title": "Propietario de tienda de buceo, CA",
+      "quote": "Durante el verano recibimos más de 30 correos electrónicos al día sobre cursos, disponibilidad de viajes y equipos. Estaba perdiendo reservas en tiendas que respondían más rápido. Ahora Duet redacta todo y simplemente presiono enviar entre clases.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "sara k.",
+      "title": "Instructor y guía de buceo, Carolina del Norte",
+      "quote": "Imparto cursos por la mañana y guío inmersiones por la tarde. Literalmente no hay tiempo para responder correos electrónicos. Duet conoció el horario de mis cursos, los precios e incluso mi política de cancelación. Los clientes no pueden notar la diferencia.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Pasa tus días bajo el agua,\nno enterrado en su bandeja de entrada.",
+  "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "¿Duet comprende los niveles de certificación y los requisitos del curso?",
+      "answer": "Sí. Duet aprende tus cursos específicos (Open Water, Advanced, Rescue, Divemaster) junto con los requisitos previos, la duración, los precios y lo que está incluido. Cuando alguien pregunta acerca de cómo obtener la certificación, Duet redacta una respuesta con los detalles correctos del curso, el cronograma y los próximos pasos. Tu revisas y envías."
+    },
+    {
+      "question": "Estoy en el barco o bajo el agua todo el día. ¿Puedo usar Duet desde mi teléfono?",
+      "answer": "Sí. Duet funciona con Gmail y Outlook, por lo que funciona dondequiera que funcione su correo electrónico, incluido su teléfono. Los borradores aparecen automáticamente en su bandeja de entrada. Entre inmersiones o de regreso al muelle, revisas y envías con un solo toque. La mayoría de los operadores de buceo nos dicen que les ahorra entre 1 y 2 horas de correo electrónico por día durante la temporada alta."
+    }
+  ],
+  "pricingNote": "A $150 por inmersión con un grupo de 6 personas, un viaje guardado paga más de un año de Pro."
+}

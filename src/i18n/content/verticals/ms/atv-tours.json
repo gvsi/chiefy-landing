@@ -1,0 +1,171 @@
+{
+  "slug": "atv-tours",
+  "pageTitle": "Duet Mail untuk Jelajah ATV & UTV | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu pemandu jelajah ATV dan UTV membalas e-mel tempahan dengan serta-merta — walaupun dari laluan. Balasan draf AI dengan harga, keperluan, dan suara anda.",
+  "heroBadge": "Dipercayai oleh 200+ pemandu jelajah",
+  "heroHeadline": "Pembantu e-mel anda semasa anda di laluan",
+  "heroSubline": "Duet mempelajari jenis jelajah anda, harga, dan keperluan penunggang — kemudian menyediakan draf balasan e-mel supaya anda tidak kehilangan tempahan akibat respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Ketersediaan Sabtu untuk 4 mesin?",
+      "preview": "Hai! Kami satu kumpulan 4 orang yang mahu menempah jelajah ATV berpandu pada Sabtu ini. Adakah anda ada ruang? Berapakah harga setiap mesin?",
+      "pill": "Untuk Dibalas",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Keperluan insurans?",
+      "preview": "Hei, kami membawa UTV kami sendiri. Adakah kami perlu menunjukkan bukti insurans liabiliti? Perlindungan jenis apa yang anda perlukan...",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Laluan mana sesuai untuk pemula?",
+      "preview": "Kami belum pernah menunggang ATV sebelum ini. Laluan jelajah yang mana akan anda cadangkan untuk keluarga dengan dua remaja? Adakah anda menyediakan...",
+      "pill": "Tempahan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baharu untuk penyenaraian anda",
+      "preview": "Seorang pelancong недавно menilai perniagaan anda. Lihat apa yang mereka katakan dan balas...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Rachel! Sabtu masih tersedia dan kami boleh menerima 4 mesin tanpa masalah. Jelajah ialah $200 setiap mesin dan berlangsung kira-kira 6-8 jam. Kami berkumpul pada 9 AM di permulaan laluan — saya akan hantar arah selepas anda disahkan. Topi keledar dan gogal disediakan. Mahu saya sahkan tempahan anda?",
+  "math": {
+    "pricePerBooking": "$800",
+    "bookingUnit": "kumpulan (4 mesin)",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,400",
+    "punchline": "Satu tempahan kumpulan yang disimpan sudah menampung kos Duet selama setahun."
+  },
+  "categorizationSubtitle": "Duet secara automatik menanda setiap e-mel supaya anda melihat permintaan tempahan dahulu, soalan insurans kedua, dan bunyi bising langsung tidak. Tiada lagi permintaan kumpulan yang terlepas kerana tersembunyi di bawah amaran TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari laluan jelajah, harga, dan keperluan penunggang anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran perjalanan, harga, dan apa yang perlu dibawa. Anda semak dan hantar.",
+  "agentSubtitle": "\"Ada kumpulan yang sudah ditempah untuk hujung minggu ini?\" \"Sediakan draf balasan kepada Rachel dengan ketersediaan Sabtu.\" Duet tahu peti masuk dan jadual anda — tanya sahaja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Ketersediaan Sabtu untuk 4 mesin?",
+      "preview": "Kami ialah kumpulan 4 yang ingin menempah lawatan ATV berpandu...",
+      "pill": "Balas Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Balasan: Tempahan disahkan — Sabtu 9 AM",
+      "pill": "Ditempah",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Keluarga Henderson",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Apa yang patut kami pakai di laluan?",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Yelp for Business",
+      "avatarLetter": "Y",
+      "avatarColor": "lavender",
+      "subject": "Kemas kini perniagaan mingguan anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Rocky Mountain ATV",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Pembersihan stok musim bunga — 25% diskaun alat ganti",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.w@email.com",
+    "subject": "Balasan: Ketersediaan Sabtu untuk 4 kenderaan?",
+    "originalFrom": "Rachel W. menulis:",
+    "originalText": "Hai! Kami ialah kumpulan 4 yang ingin menempah lawatan ATV berpandu pada Sabtu ini. Adakah anda ada kekosongan? Berapakah harga bagi setiap kenderaan?",
+    "lines": [
+      "Hai Rachel!",
+      "Sabtu masih kosong untuk 4 kenderaan. Lawatan berharga $200 setiap kenderaan dan berlangsung 6-8 jam bermula pada 9 AM dari titik permulaan laluan.",
+      "Helmet dan gogal disediakan — cuma pakai seluar panjang, kasut bertutup, dan bawa air serta pelindung matahari. Saya akan hantarkan lokasi perjumpaan dan arahan selepas anda disahkan.",
+      "Nak saya sahkan tempahan anda?"
+    ],
+    "highlightText": "Sabtu masih kosong untuk 4 kenderaan. Lawatan berharga $200 setiap kenderaan",
+    "tooltipFeatures": [
+      "Mengetahui harga & laluan lawatan anda",
+      "Draf dalam suara anda",
+      "Termasuk keperluan penunggang secara automatik",
+      "Belajar dari semasa ke semasa"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ada kumpulan yang telah ditempah untuk hujung minggu ini?",
+    "agentResponse": "Berdasarkan peti masuk anda, anda mempunyai kumpulan 6 yang disahkan untuk Sabtu pada 9 AM dan sepasang yang telah ditempah untuk pagi Ahad. Petang Sabtu dan petang Ahad masih tersedia. Nak saya drafkan balasan kepada mana-mana pertanyaan yang belum dijawab dengan kekosongan tersebut?",
+    "followUp": "Drafkan balasan kepada Rachel dengan ketersediaan Sabtu",
+    "followUpResponse": "Selesai! Saya telah drafkan balasan kepada Rachel yang mengesahkan Sabtu untuk 4 mesin pada $200 setiap satu. Ia termasuk lokasi mesyuarat standard anda, maklumat gear, dan apa yang perlu dipakai. Sedia untuk semakan dan dihantar."
+  },
+  "testimonialsTitle": "Digemari oleh pemandu pelancong dan pengendali",
+  "testimonials": [
+    {
+      "name": "Mike D.",
+      "title": "Pemandu ATV, Utah Selatan",
+      "quote": "Saya mengetuai lawatan 8 jam melalui ngarai tanpa liputan telefon. Sebaik sahaja saya pulang, separuh daripada e-mel tempahan saya sudah tidak lagi panas. Duet mendraf balasan dengan harga dan maklumat laluan saya — saya cuma semak pada penghujung hari.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Tara M.",
+      "title": "Pengendali Lawatan UTV, Colorado",
+      "quote": "Kami menjalankan lawatan 7 hari seminggu dan soalan tentang insurans serta waiver sahaja sudah memakan masa pagi saya. Duet menguruskan semuanya — keperluan penunggang, sekatan umur, apa yang perlu dibawa. Bunyi betul-betul seperti saya.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Pemandu Lawatan Jeep, Moab",
+      "quote": "Orang menghantar e-mel bertanya laluan mana yang sesuai untuk kumpulan mereka, tahap pengalaman yang diperlukan, sama ada kanak-kanak boleh menaiki. Soalan yang sama 5 kali berulang. Duet tepat pada setiap satu.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Nicole S.",
+      "title": "Pengembaraan Off-Road, AZ",
+      "quote": "Saya menghabiskan lebih sejam setiap malam menjawab soalan ketersediaan yang sama. Sekarang Duet mendraf balasan sementara saya berada di laluan. Masa respons saya turun daripada berjam-jam kepada minit.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Amanda K.",
+      "title": "Lawatan ATV Keluarga, Sedona",
+      "quote": "Kami menerima banyak pertanyaan daripada keluarga tentang laluan untuk pemula dan keperluan umur. Duet mempelajari semua pilihan lawatan kami dan mengesyorkan yang tepat dalam setiap balasan. Pelanggan tidak dapat membezakan.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Luangkan musim puncak di laluan,\nbukan dalam peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
+  "verticalFaqs": [
+    {
+      "question": "Adakah Duet mengendalikan soalan tentang insurans dan waiver?",
+      "answer": "Ya. Duet mempelajari keperluan penunggang anda — insurans liabiliti, sekatan umur, butiran waiver, apa yang perlu dibawa oleh penunggang. Apabila seseorang menghantar e-mel bertanya apa yang mereka perlukan sebelum lawatan mereka, Duet mendraf respons lengkap dengan semua butiran khusus. Anda semak dan tekan hantar."
+    },
+    {
+      "question": "Saya berada di laluan sepanjang hari tanpa liputan telefon. Bagaimana Duet membantu?",
+      "answer": "Itulah sebabnya pemandu pelancong sukakan Duet. Semasa anda mengetuai lawatan 6-8 jam tanpa isyarat, pertanyaan tempahan terus bertambah. Duet mendraf balasan untuk setiap satu — harga, ketersediaan, lokasi mesyuarat, apa yang perlu dipakai. Apabila anda kembali, anda semak draf dan hantar. Kebanyakan pemandu memberitahu kami ia menjimatkan 1-2 jam masa e-mel sehari semasa musim puncak."
+    }
+  ],
+  "pricingNote": "Pada $200/mesin, satu kumpulan 4 yang dijimatkan sudah membayar lebih setahun Pro."
+}

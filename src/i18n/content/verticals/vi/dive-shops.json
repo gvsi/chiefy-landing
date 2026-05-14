@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail cho Cửa hàng Lặn | Trợ lý Email AI",
+  "metaDescription": "Duet Mail giúp chủ cửa hàng lặn và huấn luyện viên PADI trả lời ngay lập tức các yêu cầu chứng nhận, đặt chuyến đi và câu hỏi về thiết bị — ngay cả khi đang dưới nước.",
+  "heroBadge": "Được tin dùng bởi hơn 300 nhà điều hành lặn",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang dưới nước",
+  "heroSubline": "Duet học các điểm lặn, yêu cầu chứng nhận, giá cả và giọng nói của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang trên thuyền.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Chứng nhận Open Water — còn chỗ không?",
+      "preview": "Chào! Tôi sẽ đến vào tuần đầu tháng 8 và muốn lấy chứng nhận Open Water. Mất bao nhiêu ngày và bao gồm những gì?",
+      "pill": "Cần trả lời",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin & Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Nhóm 6 người cho chuyến lặn 2 bình thứ Bảy",
+      "preview": "Chúng tôi có 6 thợ lặn đã chứng nhận và muốn đặt chuyến lặn 2 bình buổi sáng thứ Bảy này. Còn chỗ không? Giá mỗi người là bao nhiêu...",
+      "pill": "Đang đặt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Thuê BCD cho cuối tuần?",
+      "preview": "Chào, tôi đã có chứng nhận nhưng đi nhẹ. Bạn có cho thuê BCD và bộ điều áp không? Tôi cần từ thứ Sáu đến Chủ Nhật...",
+      "pill": "Câu hỏi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Giới thiệu học viên: Rachel Torres",
+      "preview": "Một học viên đã hoàn thành eLearning và chọn trung tâm lặn của bạn để đào tạo trong bể và ngoài biển...",
+      "pill": "Thông tin",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Chào Rachel! Chúng tôi rất muốn giúp bạn lấy chứng nhận. Khóa học Open Water kéo dài 3 ngày — một ngày học trong bể và hai ngày lặn ngoài biển. Bao gồm toàn bộ thiết bị. Tháng 8 còn rất nhiều chỗ. Bạn muốn tôi đặt chỗ cho tuần đầu không?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "chuyến lặn",
+    "lostPerMonth": "3 chuyến (6 thợ lặn mỗi chuyến)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Một nhóm lặn được giữ lại đủ trả tiền Duet cả năm."
+  },
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy trước các yêu cầu chứng nhận và đặt chuyến lặn, tiếp theo là câu hỏi về thiết bị, và cảnh báo PADI khi bạn sẵn sàng. Không còn bỏ lỡ đặt nhóm bị chôn dưới các bản tin thiết bị.",
+  "draftSubtitle": "Duet học các điểm lặn, yêu cầu chứng nhận và giá cả của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến đi, những gì bao gồm và cần mang theo. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Có bao nhiêu thợ lặn đã đặt cho thứ Bảy?\" \"Soạn trả lời cho Rachel về chỗ trống Open Water.\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Chứng nhận Open Water — còn chỗ không?",
+      "preview": "Tôi sẽ đến vào tuần đầu tháng 8 và muốn lấy chứng nhận...",
+      "pill": "Trả lời ngay",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Đặt chỗ xác nhận — chuyến lặn 2 bình thứ Bảy",
+      "pill": "Đã đặt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Thuê BCD và bộ điều áp cuối tuần này?",
+      "pill": "Câu hỏi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Đánh giá mới trên danh sách của bạn",
+      "pill": "Thông tin",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Khuyến mãi mùa hè — giảm 25% đồ lặn",
+      "pill": "Khuyến mãi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Chứng nhận Open Water — còn chỗ không?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào! Tôi sẽ đến vào tuần đầu tháng 8 và muốn lấy chứng nhận Open Water. Mất bao nhiêu ngày và bao gồm những gì?",
+    "lines": [
+      "Chào Rachel!",
+      "Chúng tôi rất muốn giúp bạn lấy chứng nhận! Khóa học PADI Open Water kéo dài 3 ngày — một buổi học trong bể và hai buổi lặn ngoài biển trên rạn san hô của chúng tôi. Bao gồm toàn bộ thiết bị.",
+      "Tháng 8 hiện còn rất nhiều chỗ. Hầu hết học viên bắt đầu vào thứ Hai để hoàn thành vào thứ Tư.",
+      "Bạn muốn tôi đặt chỗ không?"
+    ],
+    "highlightText": "Khóa học PADI Open Water kéo dài 3 ngày",
+    "tooltipFeatures": [
+      "Biết các khóa học & giá của bạn",
+      "Soạn thảo theo giọng nói của bạn",
+      "Tự động bao gồm yêu cầu chứng nhận",
+      "Học hỏi theo thời gian"
+    ]
+  },
+  "agent": {
+    "userMessage": "Có bao nhiêu thợ lặn đã đặt cho thứ Bảy?",
+    "agentResponse": "Dựa trên hộp thư của bạn, có 8 thợ lặn đã xác nhận cho chuyến lặn 2 bình buổi sáng thứ Bảy — nhóm 6 người của Kevin cộng thêm 2 đặt chỗ cá nhân. Bạn cũng có một yêu cầu đang chờ từ Jason về thuê thiết bị cho chuyến đi đó. Bạn muốn tôi soạn trả lời không?",
+    "followUp": "Soạn trả lời cho Rachel với chi tiết khóa học Open Water",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho Rachel xác nhận khóa học PADI Open Water 3 ngày bao gồm học trong bể và lặn ngoài biển. Đề cập đến chỗ trống tháng 8 và chính sách bao gồm thiết bị tiêu chuẩn của bạn. Sẵn sàng để bạn xem lại và gửi."
+  },
+  "testimonialsTitle": "Được các nhà điều hành lặn yêu thích",
+  "testimonials": [
+    {
+      "name": "Thuyền trưởng Mike T.",
+      "title": "Thuyền trưởng tàu lặn, FL",
+      "quote": "Tôi điều hành các chuyến đi từ thứ Sáu đến Chủ Nhật và cửa hàng chỉ mở vài giờ vào thứ Hai. Các câu hỏi chứng nhận và yêu cầu chuyến đi chất đống khi tôi đang dưới nước. Duet soạn trả lời với giá, điểm lặn và những gì bao gồm — tôi xem lại giữa các lần lặn.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Trung tâm lặn PADI, HI",
+      "quote": "Chúng tôi tổ chức lặn, tour snorkel và xem cá voi trên cùng một tàu. Email rất đa dạng — câu hỏi chứng nhận, đặt nhóm, thuê thiết bị, kiểm tra thời tiết. Duet phân loại tất cả và soạn trả lời biết phân biệt. Cứu tinh tuyệt đối.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Dịch vụ lặn xác tàu, FL",
+      "quote": "Một nửa email của tôi là 'tôi cần chứng nhận gì cho lặn xác tàu?' và nửa còn lại là 'tôi có cần thiết bị riêng không?' Duet xử lý cả hai tự động. Thời gian phản hồi của tôi giảm từ giờ xuống phút.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Chủ cửa hàng lặn, CA",
+      "quote": "Mùa hè chúng tôi nhận hơn 30 email mỗi ngày về khóa học, chỗ trống chuyến đi và thiết bị. Tôi đã mất đặt chỗ cho các cửa hàng trả lời nhanh hơn. Giờ Duet soạn tất cả và tôi chỉ việc gửi giữa các lớp học.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Huấn luyện viên & Hướng dẫn lặn, NC",
+      "quote": "Tôi dạy khóa học buổi sáng và hướng dẫn lặn buổi chiều. Thật sự không có thời gian trả lời email. Duet học lịch khóa học, giá cả, thậm chí chính sách hủy của tôi. Khách hàng không nhận ra sự khác biệt.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Dành thời gian dưới nước,\nkhông phải chôn vùi trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
+  "verticalFaqs": [
+    {
+      "question": "Duet có hiểu các cấp độ chứng nhận và yêu cầu khóa học không?",
+      "answer": "Có. Duet học các khóa học cụ thể của bạn — Open Water, Advanced, Rescue, Divemaster — cùng với điều kiện tiên quyết, thời lượng, giá cả và những gì bao gồm. Khi ai đó hỏi về việc lấy chứng nhận, Duet soạn trả lời với chi tiết khóa học phù hợp, lịch trình và bước tiếp theo. Bạn xem lại và gửi."
+    },
+    {
+      "question": "Tôi ở trên thuyền hoặc dưới nước cả ngày. Tôi có thể dùng Duet trên điện thoại không?",
+      "answer": "Có. Duet hoạt động với Gmail và Outlook, nên dùng được ở bất cứ đâu email của bạn hoạt động — kể cả điện thoại. Bản nháp tự động xuất hiện trong hộp thư. Giữa các lần lặn hoặc khi về bến, bạn xem lại và gửi chỉ với một chạm. Hầu hết nhà điều hành lặn nói với chúng tôi rằng nó giúp họ tiết kiệm 1-2 giờ mỗi ngày trong mùa cao điểm."
+    }
+  ],
+  "pricingNote": "Với giá $150/chuyến lặn cho nhóm 6 người, một chuyến được giữ lại đủ trả hơn một năm dùng Pro."
+}

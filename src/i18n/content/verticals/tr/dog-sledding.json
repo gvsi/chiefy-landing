@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail Köpek Kızak Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, köpek kızakçılarına rezervasyon e-postalarına anında, hatta parkurdayken bile yanıt vermelerine yardımcı olur. AI tarafından hazırlanan yanıtlar, tur türlerinizi, fiyatlandırmanızı, politikalarınızı ve ses tonunuzu içerir.",
+  "heroBadge": "200'den fazla köpek kızağı sürücüsü tarafından güvenilen",
+  "heroHeadline": "Yolda olduğunuz süre boyunca e-posta asistanınız",
+  "heroSubline": "Duet tur türlerinizi, fiyatlandırmanızı, hava durumu politikalarınızı ve ek hizmetlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonunuzu kaybetmezsiniz.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + köpek kızağı kombinasyonu 4 kişi için mi?",
+      "preview": "Merhaba! Ocak ayında 4 kişilik ailemizle Fairbanks'ı ziyaret edeceğiz. Köpek kızaklarıyla gezinti ve kuzey ışıklarını izlemeyi içeren kombine bir paketiniz var mı? Fiyatı nedir?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Ne giymeliyiz?",
+      "preview": "Cumartesi günü 2 saatlik köpek kızağı deneyimi için rezervasyon yaptırdık. Ne giymeliyiz? Ekipman sağlıyor musunuz yoksa kendi ekipmanımızı mı getirmemiz gerekiyor?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim ve Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "5 ve 8 yaşındaki çocuklar - kızarma yapabilirler mi?",
+      "preview": "İki çocuğumuzla (5 ve 8 yaşında) geliyoruz. Kızakta binebilirler mi veya kızak çekmeye yardımcı olabilirler mi? Ayrıca köpekler küçük çocuklarla iyi geçinir mi?",
+      "pill": "Rezervasyon",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Rachel! Ailenizi ağırlamaktan mutluluk duyarız. Aurora + Mantar Kombinasyonumuz kişi başı $175 — gün batımında patikalarda 1,5 saatlik kızak yolculuğunun ardından, ışıkları beklerken ateş başında sıcak kakao keyfi yapıyorsunuz. Tüm soğuk hava ekipmanları sağlanmaktadır. 12 yaş ve altı çocuklar $125. Sizi Ocak ayı için rezerve etmemi ister misiniz?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "tur",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Kaydedilen iki rezervasyon, Duet'ın bir yıllık ücretini karşılar."
+  },
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra soruları ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan tur taleplerini kaçırma derdine son.",
+  "draftSubtitle": "Duet tur türlerinizi, fiyatlandırmanızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, paket detayları, ne giyileceği ve ek hizmetler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta sonu için rezervasyonunuz var mı?\" \"Kuzey ışıkları kombinasyonu hakkında bir yanıt taslağı hazırlayın.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + köpek kızağı kombinasyonu 4 kişi için mi?",
+      "preview": "Dört kişilik ailemle Ocak ayında Fairbanks'ı ziyaret edeceğiz...",
+      "pill": "Şimdi Yanıt Verin",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Konu: Rezervasyon onaylandı — Cumartesi 13:00",
+      "pill": "Rezervasyon yapıldı",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Çocuklarımız (5 ve 8 yaşında) bizimle birlikte binebilir mi?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Haftalık rezervasyon özetiniz",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Şirketi",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Kış indirimi — Kızak koşum takımlarında %30 indirim",
+      "pill": "Promosyonlar",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Konu: Aurora + 4 kişilik köpek kızağı kombinasyonu?",
+    "originalFrom": "Rachel T. şöyle yazdı:",
+    "originalText": "Merhaba! Ocak ayında 4 kişilik ailemizle Fairbanks'ı ziyaret edeceğiz. Köpek kızaklarıyla gezinti ve kuzey ışıklarını izlemeyi içeren kombine bir paketiniz var mı? Fiyatı nedir?",
+    "lines": [
+      "Merhaba Rachel!",
+      "Aurora + Mantar Kombinasyonumuz kişi başı $175'dır — alacakaranlıkta 1,5 saatlik kızak yolculuğunun ardından ateş başında sıcak kakao ve aurora izleme. 12 yaş ve altı çocuklar $125'dır.",
+      "Soğuk hava koşullarına uygun tüm ekipmanlar (botlar, tulumlar, eldivenler, yüz maskeleri) sağlanmaktadır. Sadece altına kat kat sıcak giysiler giymeniz yeterli.",
+      "Ocak ayı için 4 kişilik ailenizin rezervasyonunu yapmamı ister misiniz?"
+    ],
+    "highlightText": "Aurora + Mush Kombinasyonu kişi başı $175 — 1,5 saatlik kızak yolculuğu",
+    "tooltipFeatures": [
+      "Tur türlerinizi ve fiyatlandırmanızı biliyor.",
+      "Sesinizdeki taslaklar",
+      "Ekipman ve ek detayları içerir.",
+      "Zamanla öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Bu hafta sonu için rezervasyonunuz var mı? Hava durumu belirsiz görünüyor.",
+    "agentResponse": "Bu hafta sonu için 3 tur rezervasyonu yaptırdınız: Cumartesi saat 10:00'da köpek kulübesi ziyareti (2 kişi), Cumartesi saat 13:00'te 2 saatlik köpek kızağı deneyimi (4 kişi) ve Pazar saat 16:00'da kuzey ışıkları kombinasyonu (6 kişi). Pazar günü grubu iptal politikası hakkında bilgi istedi. Her üç tur için de hava durumu güncellemesi hazırlamamı ister misiniz?",
+    "followUp": "Pazar günü aurora grubu için bir hava durumu güncellemesi taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Pazar günü kutup ışıkları grubuna, koşulları takip ettiğinizi ve Cumartesi akşamına kadar onaylayacağınızı bildiren bir yanıt taslağı hazırladım. Yeniden planlama politikanız ve alternatif tarihler de taslakta yer alıyor. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "Köpek kızakçıları ve tur operatörleri tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Alaska'da Kızak Köpeği Tur Operatörü",
+      "quote": "Günde 6 saat boyunca hiç telefon çekmeyen yollardayım. Geri döndüğümde, rezervasyon taleplerinin yarısı başka bir firmaya gitmiş oluyor. Duet tur detaylarım ve fiyatlandırmamla ilgili taslak yanıtlar gönderiyor; misafirler saatler değil, dakikalar içinde geri dönüş alıyorlar.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Köpek Kulübesi ve Köpek Turu Sahibi, AK",
+      "quote": "Köpek kulübesi ziyaretleri, kızak gezileri ve kuzey ışıkları kombinasyonları sunuyoruz; her e-postaya farklı bir yanıt gerekiyor. Duet bir hafta içinde üç tur türünün de nasıl işlediğini çözdü ve artık her seferinde doğru pakete uyan yanıtlar hazırlıyor.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Köpek Kızak Rehberi, MN",
+      "quote": "Eskiden her akşam ne giyeceğim, yaş sınırları ve köpekler hakkında aynı soruları cevaplamakla geçirirdim. Duet bunların hepsini hallediyor. Patikadan eve döndüğümde her şey hazırlanmış ve beni bekliyor oluyor.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora ve Kızak Tur Operatörü, AK",
+      "quote": "Kış aylarında hava koşulları nedeniyle iptaller sürekli oluyor. Duet daha telefonumu kontrol etme fırsatı bulamadan politikamızı ve alternatif tarihleri ​​içeren yeniden planlama yanıtlarını taslak halinde gönderiyor. Misafirler hızlı yanıtı çok seviyor.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Aile Köpek Kızak Maceraları, CO",
+      "quote": "Ebeveynler her zaman çocuklarının köpek kızağı sürebileceklerini, köpeklerin dost canlısı olup olmadığını, ne giyeceklerini soruyorlar - aynı 10 soru. Duet her cevabı öğrendi ve mükemmel bir şekilde taslak haline getiriyor. Sanki kendimi e-posta için kopyalamış gibiyim.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Kışınızı köpeklerinizle birlikte doğa yürüyüşü yaparak geçirin,\ne-posta kutunuzda değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Duet hava koşullarından kaynaklanan iptaller ve kutup ışıkları belirsizliğiyle nasıl başa çıkıyor?",
+      "answer": "Duet iptal ve yeniden planlama politikalarınızı öğrenir. Bir misafir hava durumu veya kutup ışıklarının görünürlüğüyle ilgili endişelerini e-postayla ilettiğinde, politikanızı, alternatif tarihleri ​​ve ilgili ayrıntıları (örneğin, koşulları izleme ve tura daha yakın bir zamanda teyit etme) içeren bir yanıt taslağı oluşturur. Siz de inceleyip gönderirsiniz."
+    },
+    {
+      "question": "Farklı fiyatlandırma ve ek seçeneklere sahip çeşitli tur türleri sunuyorum. Duet bunları birbirinden ayırt edebilir mi?",
+      "answer": "Evet. Duet, köpek kulübesi ziyaretleri, kızakla gezinti deneyimleri, kuzey ışıkları kombinasyonları, fotoğrafçılık eklentileri, ulaşım paketleri gibi her tur türünüzü fiyatlandırması, süresi ve içeriğiyle birlikte öğrenir. Bir talep geldiğinde, doğru turu eşleştirir ve doğru ayrıntılarla bir yanıt taslağı oluşturur."
+    }
+  ],
+  "pricingNote": "$150/tour adresinde, iki kayıtlı rezervasyon Pro'in bir yıldan fazla süren ücretini karşılıyor."
+}

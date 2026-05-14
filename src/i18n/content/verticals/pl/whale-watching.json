@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail dla wycieczek z obserwacją wielorybów | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga kapitanom obserwującym wieloryby natychmiast odpowiadać na e-maile dotyczące rezerwacji – nawet z wody. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły wycieczki, ceny i głos.",
+  "heroBadge": "Zaufali mu 300+ kapitanowie wycieczek",
+  "heroHeadline": "Twój asystent e-mail podczas polowania na wieloryby",
+  "heroSubline": "Duet poznaje harmonogram wycieczek, ceny i głos, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji na wodzie.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Grupa 8 — dostępność w czerwcu 14?",
+      "preview": "Cześć! Jesteśmy rodziną 8 odwiedzającą tydzień. Czy masz miejsce na poranną wycieczkę w czerwcu 14? Jaka jest cena za osobę i czy jest odpowiednia dla dzieci?",
+      "pill": "Aby odpowiedzieć",
+      "pillColor": "red"
+    },
+    {
+      "from": "James & Kathy L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Ceny czarteru prywatnego?",
+      "preview": "Chcielibyśmy zarezerwować prywatną wycieczkę z obserwacją wielorybów na naszą rocznicę. Jaki jest koszt prywatnego czarteru 2 na godziny tylko dla nas dwojga...",
+      "pill": "Wysoka wartość",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Cruise Port Desk",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "Zmiana harmonogramu — Coral Princess przybędzie 1 godzinę wcześniej",
+      "preview": "Uwaga: jutrzejszy przyjazd Coral Princess został przeniesiony z 10 AM na 9 AM. Proszę odpowiednio dostosować odbiór wycieczek do portu...",
+      "pill": "Pilny",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nowa recenzja Twojego wpisu",
+      "preview": "Podróżny niedawno ocenił Twoją firmę. Zobacz, co mieli do powiedzenia i odpowiedz...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Rachel! Czerwiec Poranna wycieczka 14 ma miejsce na 8. Wycieczki kosztują $125/person, dzieci 4-12 za pół ceny. Wypływamy o 9 AM z portu i kursujemy około 2.5 godzin. Dostarczona lornetka — wystarczy zabrać ze sobą warstwy ochronne i krem ​​​​przeciwsłoneczny. Chcesz, żebym zarezerwował miejsca na 8?",
+  "math": {
+    "pricePerBooking": "$750",
+    "bookingUnit": "grupa wycieczkowa",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,250",
+    "punchline": "Jedna zapisana rezerwacja grupowa płaci za rok Duet."
+  },
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności wyświetlane są prośby o rezerwację, w drugiej kolejności zmiany rozkładu statków wycieczkowych, a hałas nigdy. Nigdy więcej nie przegapisz prywatnego zapytania dotyczącego czarteru ukrytego pod alertami serwisu TripAdvisor.",
+  "draftSubtitle": "Duet poznaje godziny wycieczek, ceny i zasady. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź z informacją o dostępności, zawartości i tym, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Ile miejsc zostało na sobotnią poranną wycieczkę?” „Napisz odpowiedź dla Rachel, podając dostępność”. Duet zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Grupa 8 — dostępność w czerwcu 14?",
+      "preview": "Jesteśmy rodziną 8 przyjezdną na tydzień...",
+      "pill": "Odpowiedz teraz",
+      "pillColor": "red"
+    },
+    {
+      "from": "James L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Potwierdzono prywatny czarter — sobota 14:00",
+      "pill": "Zarezerwowano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Megan S.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Czy jutrzejsza trasa się odbędzie? Wiatr wydaje się wzburzony",
+      "pill": "Pytanie",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FareHarbor",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Dzienne podsumowanie rezerwacji — 3 nowe rezerwacje",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marine Supply Co.",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Letni prześwit — 15% poza sprzętem ochronnym",
+      "pill": "Promocje",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Grupa 8 — dostępność w czerwcu 14?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Cześć! Jesteśmy rodziną 8 odwiedzającą tydzień. Czy masz miejsce na poranną wycieczkę w czerwcu 14? Jaka jest cena za osobę i czy jest odpowiednia dla dzieci?",
+    "lines": [
+      "Hej Rachel!",
+      "Czerwiec Poranna wycieczka 14 ma mnóstwo miejsca dla 8. Bilety kosztują $125/person, dzieci 4-12 za pół ceny. Wyruszamy o 9 AM i wracamy około 11:30.",
+      "Zapewniona lornetka i sprzęt przeciwdeszczowy — wystarczy zabrać ze sobą ciepłą odzież i krem ​​​​przeciwsłoneczny. Dzieci uwielbiają to miejsce na tarasie widokowym.",
+      "Chcesz, żebym zablokował spoty 8?"
+    ],
+    "highlightText": "Czerwiec Poranna wycieczka 14 ma mnóstwo miejsca dla 8. Bilety: $125/person",
+    "tooltipFeatures": [
+      "Zna godziny i ceny wycieczek",
+      "Wersje robocze w Twoim głosie",
+      "Obejmuje to, co należy zabrać ze sobą automatycznie",
+      "Uczy się z czasem"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ile zostało miejsc na sobotnią poranną wycieczkę?",
+    "agentResponse": "Bazując na Twoich rezerwacjach, na sobotnią wycieczkę 9 AM zajęto 18 z 44 miejsc — 26 jest nadal otwarte. Popołudniowa wycieczka jest prawie pełna w 40 w 44. Czy chcesz, żebym przygotował odpowiedź na wszelkie oczekujące zapytania dotyczące dostępności w sobotę rano?",
+    "followUp": "Przygotuj odpowiedź dla Rachel potwierdzającą czerwiec 14 dla gości 8",
+    "followUpResponse": "Gotowe! Napisałem odpowiedź do Rachel, potwierdzającą poranną wycieczkę 14 w czerwcu dla gości 8 w $125/person. Obejmuje czas odlotu, ofertę i co zabrać ze sobą. Gotowe do przejrzenia i wysłania."
+  },
+  "testimonialsTitle": "Uwielbiany przez kapitanów obserwujących wieloryby",
+  "testimonials": [
+    {
+      "name": "Captain Dave H.",
+      "title": "Organizator wycieczek po dzikiej przyrodzie, AK",
+      "quote": "Pasażerowie statków wycieczkowych potrzebują szybkich odpowiedzi — mają tylko 6 godzin w porcie. Kiedyś traciłem prywatne czartery, ponieważ byłem na wodzie, kiedy nadeszło zapytanie. Teraz Duet przygotowuje odpowiedzi z moimi cenami i szczegółami odbioru, zanim jeszcze zacumuję.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria & Luis R.",
+      "title": "Rodzinna obserwacja wielorybów, Kalifornia",
+      "quote": "W sezonie humbaków organizujemy dwie wycieczki dziennie, a liczba e-maili jest nierealna. „Czy zobaczymy wieloryby?” „W co mam się ubrać?” „Czy jutro jest odwołane?” Duet odpowiada na powtarzające się pytania, a my skupiamy się na wycieczkach.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Captain Ben T.",
+      "title": "Ocean Excursion, HI",
+      "quote": "Co wieczór odpowiadałem na te same pytania 10 — ceny, zawartość pakietu, wskazówki dotyczące choroby morskiej, ograniczenia wiekowe dzieci. Duet nauczył się tego wszystkiego w pierwszym tygodniu. Mój czas odpowiedzi wzrósł z 8 godzin do 8 minut.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Kim W.",
+      "title": "Menedżer rezerwacji, Pacific NW",
+      "quote": "Najgorsze są odwołania związane z pogodą — ludzie korzystający z 30 potrzebują natychmiastowej zmiany rezerwacji, a ja muszę pogodzić się z rozmowami telefonicznymi. Duet przygotowuje spersonalizowane e-maile dotyczące zmiany terminu dla każdego gościa. To, co kiedyś zajmowało mi 2 godzin, teraz zajmuje 15 minut.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jess & Nate P.",
+      "title": "Small Boat Wildlife Tours, BC",
+      "quote": "Jesteśmy firmą dwuosobową — ja jestem kapitanem, ona zajmuje się logistyką. W szczycie sezonu spędzała 3 godziny dziennie na korzystaniu z poczty elektronicznej. Duet skrócił to do 30 minut. Teraz naprawdę odzyskuje wieczory.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Spędź sezon wielorybniczy na wodzie,\nnie w Twojej skrzynce odbiorczej.",
+  "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "Czy Duet obsługuje odwołania pogodowe i zmiany rozkładów statków wycieczkowych?",
+      "answer": "Tak. Jeśli anulujesz wycieczkę ze względu na pogodę lub zmianę godziny przybycia statku wycieczkowego, możesz jednokrotnie poinformować o tym Duet, a ona przygotuje spersonalizowaną zmianę terminu lub zaktualizuje e-maile dla każdego gościa, którego to dotyczy. Koniec z kopiowaniem i wklejaniem tej samej wiadomości 30 razy. Każda odpowiedź zawiera pierwotne dane rezerwacji gościa i dostępne alternatywy."
+    },
+    {
+      "question": "Ciągle dostajemy te same pytania: „czy zobaczymy wieloryby?”, „w co mam się ubrać?”, „czy to jest w porządku dla dzieci?” Czy Duet sobie z tym poradzi?",
+      "answer": "Właśnie tam błyszczy Duet. Uczy się standardowych odpowiedzi – jakie gatunki zwykle widujesz, co zabrać ze sobą, zasady dotyczące wieku, wskazówki dotyczące choroby morskiej, godziny odlotów – i natychmiast przygotowuje kompletne odpowiedzi. Sprawdzasz i wysyłasz. Większość kapitanów mówi nam 80%, że w ich skrzynce odbiorczej znajdują się te same pytania 10, a Duet obsługuje je wszystkie."
+    }
+  ],
+  "pricingNote": "W $125/person jedna zaoszczędzona grupa 6 płaci za ponad rok Pro."
+}

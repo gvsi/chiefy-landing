@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail para paisagistas | Assistente de email com IA",
+  "metaDescription": "O Duet Mail ajuda paisagistas a responder emails de clientes instantaneamente — até no campo. Respostas redigidas por IA com detalhes dos os seus projetos, preços e tom.",
+  "heroBadge": "Usado por mais de 300 paisagistas",
+  "heroHeadline": "O seu assistente de email enquanto o utilizador está em campo",
+  "heroSubline": "O Duet aprende detalhes dos os seus projetos, paletas de plantas, preços e processo — e então redige respostas de email para não perder nenhum cliente por demora na resposta.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redesign do quintal — disponível para uma consulta?",
+      "preview": "Olá! Acabamos de comprar uma casa em Westlake e o quintal é uma ecrã em branco. Adoraríamos um redesign completo com plantas nativas e um pátio. O utilizador está aceitando novos clientes?",
+      "pill": "Responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Especificações de irrigação para o projeto Miller?",
+      "preview": "Olá, estamos prontos para começar as valas na segunda. Pode enviar o layout da irrigação e as especificações dos aspersores para pedirmos os materiais esta semana?",
+      "pill": "Empreiteiro",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Pergunta rápida sobre a seleção de plantas",
+      "preview": "Adoramos o projeto! Só uma dúvida — podemos trocar o bordo japonês por algo com mais cor no outono? Além disso, a lavanda é resistente a cervos?",
+      "pill": "Cliente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Pedido #4821 pronto para retirada",
+      "preview": "O seu pedido de 24 arbustos de galão, 6 árvores espécime e bandejas de forração está pronto. Retirada disponível seg–sáb 7:00–16:00...",
+      "pill": "Fornecedor",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Olá Rachel! Eu adoraria ajudar com o seu quintal. No momento estou agendando consultas iniciais para daqui a 2-3 semanas. A primeira visita é uma avaliação no local de 90 minutos — eu percorro a propriedade, tiro medidas e converso sobre a sua visão. A partir daí, preparo um plano conceitual. Quer que eu coloque o utilizador no calendário?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projeto",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Um projeto recuperado paga anos de Duet."
+  },
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para ver novos pedidos de consulta primeiro, aprovações de clientes em seguida e nunca ruído de fornecedores. Chega de perder um lead enterrado sob confirmações de pedidos de viveiros.",
+  "draftSubtitle": "O Duet aprende os seus preços, processo e tom. Quando chega um pedido de consulta, ele redige uma resposta completa com a sua disponibilidade, o que esperar e próximos passos. Reveja e envia.",
+  "agentSubtitle": "\"Qual é o cronograma do projeto Henderson?\" \"Quais clientes estão aguardando aprovação do plano?\" O Duet conhece a sua caixa de entrada e os seus projetos — é só perguntar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redesign do quintal — disponível para uma consulta?",
+      "preview": "Acabamos de comprar uma casa e o quintal é uma ecrã em branco...",
+      "pill": "Nova consulta",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Projeto final — estamos prontos para aprovar!",
+      "pill": "Aprovação do cliente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Especificações de irrigação para o projeto Miller?",
+      "pill": "Empreiteiro",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Pedido #4821 pronto para retirada",
+      "pill": "Fornecedor",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Fatura #1047 visualizada pelo cliente",
+      "pill": "Fatura",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Redesign do quintal — disponível para uma consulta?",
+    "originalFrom": "Rachel T. escreveu:",
+    "originalText": "Olá! Acabamos de comprar uma casa em Westlake e o quintal é uma ecrã em branco. Adoraríamos um redesign completo com plantas nativas e um pátio. O utilizador está aceitando novos clientes?",
+    "lines": [
+      "Olá Rachel!",
+      "Parabéns pela casa nova — um quintal em branco é, sinceramente, o projeto dos sonhos. Estou aceitando novos clientes, sim.",
+      "O meu processo começa com uma consulta no local de 90 minutos, em que percorro a propriedade, tiro medidas e converso sobre os seus objetivos. A partir daí, desenvolvo um plano conceitual com desenho de plantio, layout de áreas construídas e um orçamento por fases.",
+      "Tenho horários disponíveis nas próximas 2-3 semanas. Quer que eu envie algumas datas disponíveis?"
+    ],
+    "highlightText": "O meu processo começa com uma consulta no local de 90 minutos",
+    "tooltipFeatures": [
+      "Conhece o seu processo de design e preços",
+      "Redige no seu tom de voz",
+      "Inclui automaticamente os detalhes da consulta",
+      "Aprende com o tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quais clientes ainda estão aguardando aprovação do plano?",
+    "agentResponse": "Com base nos os os seus emails recentes, dois clientes têm aprovações pendentes: Jennifer & Mark L. (redesign do quintal — planos finais enviados há 4 dias, ainda sem resposta) e os Cohens (conversão do jardim frontal para plantas nativas — plano revisado enviado na semana passada). Quer que eu redija uma mensagem de acompanhamento gentil para algum deles?",
+    "followUp": "Redija uma mensagem de acompanhamento para Jennifer sobre a aprovação do plano",
+    "followUpResponse": "Pronto! Redigi uma mensagem amigável para Jennifer perguntando se ela e Mark tiveram chance de rever os planos finais, e lembrando que pode fazer uma ligação rápida para explicar a seleção de plantas. Pronta para rever e enviar."
+  },
+  "testimonialsTitle": "Adorado por paisagistas",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Arquiteto paisagista, Austin TX",
+      "quote": "Na primavera, fico no local 8 horas por dia fazendo avaliações e supervisão de instalação. Novos pedidos de consulta ficavam parados por dias. Agora o Duet responde com o meu processo e disponibilidade em minutos. Fechei 3 projetos que com certeza teria perdido.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Designer de jardins, Portland OR",
+      "quote": "Coordenar equipes de hardscape, instaladores de irrigação e clientes gera uma quantidade absurda de email. O Duet organiza tudo e redige respostas que incluem os detalhes certos do projeto. É como ter uma gerente de estúdio.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Dono de estúdio de paisagismo, Denver CO",
+      "quote": "Eu costumava passar todas as noites depois do trabalho de campo colocando emails em dia. As mesmas perguntas — preço, processo, prazo. O Duet cuida de tudo. O meu tempo de resposta caiu de dias para minutos e a minha taxa de fechamento subiu muito.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Paisagista residencial, Scottsdale AZ",
+      "quote": "Os os meus clientes fazem muitas perguntas sobre seleção de plantas e manutenção. O Duet aprendeu as minhas paletas de plantas e instruções de cuidado e redige respostas que quase não preciso editar. Os clientes acham que sou incrivelmente responsiva.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Paisagista de plantas nativas, Raleigh NC",
+      "quote": "Eu estava perdendo novos clientes porque não conseguia responder enquanto estava até os joelhos em uma instalação de plantio. O Duet redige respostas de consulta com o meu processo exato, preços e o que esperar. Ele se pagou na primeira semana.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Passe os seus dias criando paisagens,\nnão colocando emails em dia.",
+  "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "O Duet consegue lidar com a correria da primavera, quando os pedidos de consulta se acumulam?",
+      "answer": "É exatamente quando o Duet se destaca. Durante a sua temporada mais movimentada, cada nova consulta recebe uma resposta rápida e detalhada com o seu processo, prazo e disponibilidade — mesmo enquanto o utilizador está no local o dia todo. Chega de perder leads de primavera porque o utilizador não conseguiu responder antes das 9."
+    },
+    {
+      "question": "Coordeno várias equipes externas. O Duet ajuda nisso?",
+      "answer": "Sim. O Duet aprende os seus projetos e os empreiteiros envolvidos — áreas construídas, irrigação, equipes de plantio, viveiros. Categoriza emails de empreiteiros separadamente dos emails de clientes e pode redigir respostas com detalhes específicos do projeto, como especificações, prazos e materiais. O utilizador acompanha cada equipa sem o caos da caixa de entrada."
+    }
+  ],
+  "pricingNote": "Com $8,000/projeto, um cliente recuperado paga anos de Pro."
+}

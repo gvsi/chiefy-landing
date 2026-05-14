@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail untuk Menunggang Kuda & Panduan Jalur |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu operator perjalanan trail merespons email pemesanan secara instan — bahkan dari sadel.  AI -Balasan yang disusun dengan harga, persyaratan pengendara, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 300+ pemandu jalan setapak",
+  "heroHeadline": "Asisten email Anda saat Anda sedang dalam perjalanan",
+  "heroSubline": "Duet mempelajari jenis perjalanan Anda, harga, persyaratan pengendara, dan kondisi jalur — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "jessica t.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Pemesanan grup untuk 6 orang — Sabtu pagi?",
+      "preview": "Hai! Kami sekeluarga beranggotakan 6 orang (2 dewasa, 4 anak usia 8-14 tahun) dan ingin memesan perjalanan lintas alam pada Sabtu pagi ini. Apakah Anda memiliki ketersediaan? Berapa harga per orangnya?",
+      "pill": "Untuk Menanggapi",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Pertanyaan batas berat badan",
+      "preview": "Hai, saya tertarik memesan tumpangan tapi ingin bertanya tentang persyaratan berat badan Anda terlebih dahulu. Berat badan saya sekitar 260 pon - apakah itu akan menjadi masalah...",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Perjalanan matahari terbenam untuk ulang tahun?",
+      "preview": "Kami merayakan ulang tahun ke 10 kami akhir pekan depan dan melihat perjalanan matahari terbenam Anda di Instagram. Apakah tersedia Jumat malam? Paket khusus apa saja...",
+      "pill": "Pemesanan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baru untuk listing Anda",
+      "preview": "Seorang wisatawan baru-baru ini mengulas bisnis Anda. Lihat apa yang mereka katakan dan tanggapi...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Jessica! Sabtu pagi buka untuk 6 orang. Perjalanan jejak kami adalah $100/orang dan berjalan sekitar 90 menit melalui lembah. Anak-anak berusia 8+ tahun dipersilakan — semua anak Anda siap berangkat. Diperlukan sepatu tertutup, dan kami menyediakan helm. Mau aku memesankanmu untuk perjalanan jam 9 pagi?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "ride",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Satu perjalanan grup yang dihemat akan membayar Duet selama lebih dari dua tahun."
+  },
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan pengendara kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan grup yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari jenis perjalanan Anda, harga, dan persyaratan. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail jalur, harga, dan pakaian yang akan dikenakan. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Apakah ada wahana yang buka akhir pekan ini?\" \"Draf balasan untuk Jessica dengan ketersediaan hari Sabtu.\" Duet mengetahui inbox dan kalender Anda — tanyakan saja.",
+  "categorizationEmails": [
+    {
+      "from": "jessica t.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Pemesanan grup untuk 6 orang — Sabtu pagi?",
+      "preview": "Kami sekeluarga beranggotakan 6 orang yang ingin memesan perjalanan jejak...",
+      "pill": "Tanggapi Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "amy w.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Perihal: Perjalanan saat matahari terbenam dikonfirmasi — Jumat 17.30",
+      "pill": "Dipesan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Batasan berat dan persyaratan pengalaman?",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "penerobos",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Ringkasan pemesanan mingguan Anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Pasokan Traktor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Obral musim semi — diskon 15% untuk pakan & taktik",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Perihal: Pemesanan grup untuk 6 orang — Sabtu pagi?",
+    "originalFrom": "Jessica T. menulis:",
+    "originalText": "Hai! Kami sekeluarga beranggotakan 6 orang (2 dewasa, 4 anak usia 8-14 tahun) dan ingin memesan perjalanan lintas alam pada Sabtu pagi ini. Apakah Anda memiliki ketersediaan? Berapa harga per orangnya?",
+    "lines": [
+      "Hai Jessica!",
+      "Sabtu pagi terbuka lebar untuk 6 orang. Biaya perjalanan jejak $100/orang dan berjalan sekitar 90 menit melalui lembah. Anak-anak berusia 8 tahun ke atas dipersilakan, jadi seluruh kru Anda siap berangkat.",
+      "Sepatu dengan ujung tertutup diperlukan — sepatu bot adalah yang terbaik. Kami menyediakan helm dan mencocokkan setiap pengendara dengan seekor kuda berdasarkan ukuran dan pengalaman. Tidak diperlukan pengalaman berkendara sebelumnya.",
+      "Mau aku menguncimu untuk perjalanan jam 9 pagi?"
+    ],
+    "highlightText": "Sabtu pagi terbuka lebar untuk 6 orang. Biaya perjalanan jejak $100/orang",
+    "tooltipFeatures": [
+      "Tahu harga & ketersediaan Anda",
+      "Draf dalam suara Anda",
+      "Termasuk persyaratan pengendara secara otomatis",
+      "Belajar seiring berjalannya waktu"
+    ]
+  },
+  "agent": {
+    "userMessage": "Adakah wahana yang buka akhir pekan ini? Juga, seperti apa cuacanya?",
+    "agentResponse": "Berdasarkan kalender Anda, Anda buka pada hari Sabtu pukul 09.00 dan 14.00, serta hari Minggu pukul 10.00. Prakiraan suhu hari Sabtu adalah 22°F dan cerah — cuaca berkendara yang sempurna. Hari Minggu menunjukkan kemungkinan 40% hujan sore hari, jadi slot pagi hari adalah pilihan yang lebih aman. Ingin saya membuat draf balasan atas pertanyaan apa pun yang tertunda pada waktu-waktu ini?",
+    "followUp": "Draf balasan ke Jessica dengan ketersediaan hari Sabtu",
+    "followUpResponse": "Selesai! Saya menyusun balasan ke Jessica yang mengonfirmasi hari Sabtu pukul 9 pagi untuk 6 pengendara dengan harga $100/orang. Ini mencakup persyaratan standar pengendara Anda dan apa yang harus dikenakan. Siap untuk meninjau dan mengirim."
+  },
+  "testimonialsTitle": "Dicintai oleh operator perjalanan trail",
+  "testimonials": [
+    {
+      "name": "jaka h.",
+      "title": "Pemilik Peternakan & Pemandu Jalur, MT",
+      "quote": "Saya keluar di jalur 6 jam sehari tanpa layanan seluler. Pada saat saya kembali untuk membalas, separuh orang telah memesan di tempat lain. Sekarang Duet menyusun tanggapan dengan harga dan detail perjalanan saya — saya baru meninjau dan mengirimkannya ketika saya kembali ke gudang.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Operator Tur Menunggang Kuda, AZ",
+      "quote": "Kami menerima lusinan email yang menanyakan hal yang sama — batasan berat badan, apa yang harus dikenakan, persyaratan usia. Duet menangani semuanya dan balasannya terdengar persis seperti saya. Tamu saya tidak tahu itu AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Panduan Perjalanan Jejak, CO",
+      "quote": "Musim puncak membunuhku. 30+ email sehari selain perjalanan lari. Duet mengurutkan permintaan pemesanan berdasarkan kebisingan dan draf balasan yang mencakup segalanya — harga, apa yang harus dibawa, dan jumlah barangnya. Aku mendapatkan malamku kembali.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Instruktur Berkuda & Manajer Pemesanan, TX",
+      "quote": "Kami menjalankan wahana saat matahari terbenam, wahana pagi hari, dan pelajaran privat — masing-masing dengan harga dan persyaratan berbeda. Duet mempelajari semuanya dalam seminggu. Ini menyusun balasan yang tepat untuk jenis perjalanan yang tepat setiap saat.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Peternakan Keluarga & Perjalanan Lintas Alam, CA",
+      "quote": "Email sensitif adalah yang terburuk — seseorang menanyakan apakah email tersebut terlalu berat, atau apakah anak mereka sudah cukup umur. Duet menanganinya dengan perhatian yang sama seperti saya. Profesional, baik hati, dan akurat. Itu saja sudah sepadan.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Habiskan hari bersama kuda,\ntidak ada di inbox Anda.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
+  "verticalFaqs": [
+    {
+      "question": "Bagaimana Duet menangani pertanyaan sensitif tentang persyaratan berat badan atau pengalaman?",
+      "answer": "Duet mempelajari kebijakan spesifik Anda dan mencerminkan nada bicara Anda. Ketika seseorang bertanya tentang batasan berat badan atau persyaratan pengalaman, mereka akan merespons secara profesional dan hangat — berbagi informasi yang mereka perlukan tanpa membuatnya canggung. Anda mengatur nadanya satu kali dan Duet mengikutinya secara konsisten, sehingga setiap tamu merasa dihormati."
+    },
+    {
+      "question": "Bisakah Duet menangani pemesanan grup dengan kebutuhan pengendara berbeda?",
+      "answer": "Ya. Duet mempelajari jenis perjalanan Anda, ukuran grup, usia minimum, dan persyaratan khusus pengendara. Saat sebuah keluarga atau grup mengirim email tentang pemesanan, mereka akan menyusun balasan yang mencakup harga untuk seluruh grup, apa yang perlu diketahui setiap pengendara, dan slot waktu yang tersedia. Anda meninjau dan mengirim — tidak perlu bolak-balik."
+    }
+  ],
+  "pricingNote": "Dengan harga $100/orang untuk grup beranggotakan 6 orang, satu perjalanan hemat akan membayar Pro selama lebih dari dua tahun."
+}

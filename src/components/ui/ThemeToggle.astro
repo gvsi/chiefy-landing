@@ -1,12 +1,16 @@
 ---
+type Props = {
+    ariaLabel: string;
+}
 
+const { ariaLabel } = Astro.props;
 ---
 
 <button
     id="theme-toggle"
     type="button"
     class="theme-toggle"
-    aria-label="Toggle theme"
+    aria-label={ariaLabel}
 >
     <svg
         class="sun-icon"
@@ -92,30 +96,12 @@
     (() => {
         const themeToggle = document.getElementById("theme-toggle");
 
-        const safeLocalStorageGet = (key) => {
-            try {
-                return localStorage.getItem(key);
-            } catch (error) {
-                return null;
-            }
-        };
-
         const safeLocalStorageSet = (key, value) => {
             try {
                 localStorage.setItem(key, value);
             } catch (error) {
                 // Ignore storage write failures (Safari private mode, blocked cookies, etc.)
             }
-        };
-
-        const getTheme = () => {
-            const storedTheme = safeLocalStorageGet("theme");
-            if (storedTheme === "dark") {
-                return "dark";
-            }
-
-            // Default to light unless the user explicitly chose dark.
-            return "light";
         };
 
         const setTheme = (theme) => {
@@ -130,10 +116,6 @@
 
         // Initialize toggle click handler
         themeToggle?.addEventListener("click", () => {
-            const currentTheme = getTheme(); // This might read from LS, but for toggling we might want to check current DOM state or just use the same logic
-            // If the user hasn't set a preference yet, getTheme() returns system pref.
-            // If they click toggle, we want to invert that.
-
             // To be robust, let's check what's actually applied
             const isLight =
                 document.documentElement.getAttribute("data-theme") === "light";

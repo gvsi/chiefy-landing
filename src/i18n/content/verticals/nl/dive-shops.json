@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail voor duikwinkels | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt eigenaren van duikwinkels en PADI-instructeurs direct te reageren op certificeringsaanvragen, reisboekingen en vragen over uitrusting, zelfs onder water.",
+  "heroBadge": "Vertrouwd door meer dan 300 duikoperators",
+  "heroHeadline": "Uw e-mailassistent terwijl u onder water bent",
+  "heroSubline": "Duet leert uw duiklocaties, certificeringsvereisten, prijzen en stem kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest terwijl u op de boot bent.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Open Water-certificering – beschikbaarheid?",
+      "preview": "Hallo! Ik bezoek de eerste week van augustus en wil mijn Open Water-certificaat halen. Hoeveel dagen duurt het en wat is inbegrepen?",
+      "pill": "Om te reageren",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin en Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Groep van 6 voor een duik met 2 tanks op zaterdag",
+      "preview": "We hebben 6 gecertificeerde duikers en willen deze zaterdag een ochtendduik met 2 tanks boeken. Heeft u ruimte? Wat is het tarief per persoon...",
+      "pill": "Boeking",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD huren voor het weekend?",
+      "preview": "Hé, ik ben gediplomeerd, maar reis licht. Verhuurt u trimvesten en ademautomaten? Ik heb ze nodig van vrijdag tot en met zondag...",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Studentenverwijzing: Rachel Torres",
+      "preview": "Een student heeft zijn eLearning afgerond en uw duikcentrum geselecteerd voor training in beschut en open water...",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hé Rachel! Wij laten u graag certificeren. De Open Water cursus duurt 3 dagen: één dag zwembadsessies en twee dagen oceaanduiken. Alle uitrusting is inbegrepen. Augustus is wijd open. Wil je dat ik een plekje reserveer voor die eerste week?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "duik",
+    "lostPerMonth": "3 tochten (elk 6 duikers)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Eén opgeslagen groepsduik levert een jaar lang Duet op."
+  },
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat je eerst certificeringsaanvragen en duikboekingen ziet, daarna uitrustingsvragen en PADI-waarschuwingen wanneer je er klaar voor bent. U hoeft nooit meer een groepsboeking te missen die verborgen ligt onder nieuwsbrieven over apparatuur.",
+  "draftSubtitle": "Duet leert uw duiklocaties, certificaatvereisten en prijzen kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met reisgegevens, wat is inbegrepen en wat u moet meenemen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Hoeveel duikers zijn er geboekt voor zaterdag?\" 'Stel een antwoord op aan Rachel met de beschikbaarheid van Open Water.'Duet kent uw inbox en planning — vraag het maar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Open Water-certificering – beschikbaarheid?",
+      "preview": "Ik bezoek de eerste week van augustus en wil gecertificeerd worden...",
+      "pill": "Reageer nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Boeking bevestigd — Zaterdag duik met 2 tanks",
+      "pill": "Geboekt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD en ademautomaat dit weekend huren?",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DuikBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Nieuwe recensie voor uw vermelding",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Duikuitrusting Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Zomeruitverkoop — 25% korting op wetsuits",
+      "pill": "Promoties",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Open Water-certificering — beschikbaarheid?",
+    "originalFrom": "Rachel T. schreef:",
+    "originalText": "Hoi! Ik bezoek de eerste week van augustus en wil mijn Open Water-certificaat halen. Hoeveel dagen duurt het en wat is inbegrepen?",
+    "lines": [
+      "Hé Rachel!",
+      "Wij laten u graag certificeren! De PADI Open Water-cursus duurt 3 dagen: één zwembadsessie en twee oceaanduiken op ons rif. Alle uitrusting is inbegrepen.",
+      "Augustus is momenteel wijd open. De meeste studenten beginnen op maandag en zijn dus op woensdag klaar.",
+      "Wil je dat ik een plekje reserveer?"
+    ],
+    "highlightText": "De PADI Open Water cursus duurt 3 dagen",
+    "tooltipFeatures": [
+      "Kent uw cursussen en prijzen",
+      "Tochten in je stem",
+      "Inclusief certificaatvereisten automatisch",
+      "Leert in de loop van de tijd"
+    ]
+  },
+  "agent": {
+    "userMessage": "Hoeveel duikers zijn er geboekt voor zaterdag?",
+    "agentResponse": "Op basis van je inbox heb je 8 duikers bevestigd voor de duik met 2 tanks op zaterdagochtend – Kevins groep van 6 plus 2 individuele boekingen. Je hebt ook een openstaand verzoek van Jason over de huur van uitrusting voor dezelfde reis. Wil je dat ik een antwoord opstel?",
+    "followUp": "Stel een antwoord op aan Rachel met de details van de Open Water cursus",
+    "followUpResponse": "Klaar! Ik heb een antwoord aan Rachel opgesteld waarin ik de driedaagse PADI Open Water-cursus bevestigde, inclusief zwembad- en oceaanduiken. Het vermeldt de beschikbaarheid in augustus en uw standaardbeleid inclusief uitrusting. Klaar om te beoordelen en te verzenden."
+  },
+  "testimonialsTitle": "Geliefd bij duikoperators",
+  "testimonials": [
+    {
+      "name": "Kapitein Mike T.",
+      "title": "Duikbootkapitein, FL",
+      "quote": "Ik organiseer boottochten van vrijdag tot en met zondag en de winkel is op maandag maar een paar uur open. Certificeringsvragen en reisaanvragen stapelen zich op terwijl ik onder water ben. Duet stelt antwoorden op met mijn prijzen, duiklocaties en wat er bij zit - ik bekijk ze tussen de duiken door.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "PADI-duikcentrum, HI",
+      "quote": "We organiseren duiken, snorkeltochten en walvisobservaties vanaf dezelfde boten. De verscheidenheid aan e-mails is krankzinnig: certificaatvragen, groepsboekingen, verhuur van uitrusting, weercontroles. Duet sorteert het allemaal en stelt antwoorden op die het verschil kennen. Absolute redder in nood.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Wrakduikcharters, FL",
+      "quote": "De helft van mijn e-mails is 'welke certificering heb ik nodig voor de wrakduiken?' en de andere helft is 'heb ik mijn eigen spullen nodig?'Duet verwerkt beide op de automatische piloot. Mijn responstijd ging van uren naar minuten.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Eigenaar van duikwinkel, CA",
+      "quote": "Tijdens de zomer krijgen we meer dan 30 e-mails per dag over cursussen, beschikbaarheid van reizen en uitrusting. Ik verloor boekingen aan winkels die sneller reageerden. Nu stelt Duet alles op en ik druk gewoon op verzenden tussen de lessen.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sara K.",
+      "title": "Duikinstructeur en gids, NC",
+      "quote": "Ik geef 's ochtends cursussen en 's middags begeleid ik duiken. Er is letterlijk geen tijd om e-mail te beantwoorden. Duet leerde mijn cursusrooster, prijzen en zelfs mijn annuleringsbeleid kennen. Klanten kunnen het verschil niet zien.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Breng je dagen onder water door,\nniet begraven in uw inbox.",
+  "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
+  "verticalFaqs": [
+    {
+      "question": "Begrijpt Duet de certificeringsniveaus en cursusvereisten?",
+      "answer": "Ja. Duet leert uw specifieke cursussen – Open Water, Advanced, Rescue, Divemaster – samen met de vereisten, duur, prijzen en wat er allemaal bij zit. Wanneer iemand vraagt ​​of hij/zij gecertificeerd wil worden, stelt Duet een antwoord op met de juiste cursusdetails, planning en volgende stappen. Je beoordeelt en verzendt."
+    },
+    {
+      "question": "Ik ben de hele dag op de boot of onder water. Kan ik Duet vanaf mijn telefoon gebruiken?",
+      "answer": "Ja. Duet werkt met Gmail en Outlook, dus het werkt overal waar uw e-mail werkt, inclusief uw telefoon. Concepten verschijnen automatisch in uw inbox. Tussen de duiken of terug bij de kade kunt u met één tik bekijken en verzenden. De meeste duikoperators vertellen ons dat het hen tijdens het hoogseizoen 1-2 uur e-mailtijd per dag bespaart."
+    }
+  ],
+  "pricingNote": "Voor $ 150/duik met een groep van 6 personen levert één opgeslagen reis meer dan een jaar Pro op."
+}

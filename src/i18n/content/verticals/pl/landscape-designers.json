@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail dla projektantów krajobrazu | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga projektantom krajobrazu natychmiast odpowiadać na e-maile klientów — nawet z terenu. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły projektu, ceny i głos.",
+  "heroBadge": "Zaufali nam projektanci krajobrazu 300+",
+  "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś w terenie",
+  "heroSubline": "Duet poznaje szczegóły Twojego projektu, palety roślin, ceny i proces, a następnie przygotowuje odpowiedzi e-mailowe, dzięki czemu nigdy nie stracisz klienta z powodu powolnej reakcji.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Przeprojektowanie podwórka — bezpłatna konsultacja?",
+      "preview": "Cześć! Właśnie kupiliśmy dom w Westlake, a podwórko jest czystą kartą. Chcielibyśmy całkowicie przeprojektować z rodzimymi nasadzeniami i patio. Przyjmujesz nowych klientów?",
+      "pill": "Aby odpowiedzieć",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Specyfikacje nawadniania dla projektu Miller?",
+      "preview": "Hej, w poniedziałek możemy rozpocząć prace wykopaliskowe. Czy możesz przesłać układ nawadniania i specyfikację głowicy, abyśmy mogli zamówić materiały w tym tygodniu?",
+      "pill": "Wykonawca",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Szybkie pytanie dotyczące wybranych roślin",
+      "preview": "Podoba nam się ten projekt! Zastanawiam się – czy możemy zamienić klon japoński na coś o bardziej jesiennym kolorze? Czy jeleń lawendowy jest odporny?",
+      "pill": "Klient",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Zamówienie #4821 gotowe do odbioru",
+      "preview": "Twoje zamówienie na galonowe krzewy 24, drzewa okazowe 6 i mieszkania okrywowe jest gotowe. Odbiór możliwy od poniedziałku do soboty w godzinach 7:00–16:00...",
+      "pill": "Dostawca",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Cześć Rachel! Chętnie pomogę w pracach na Twoim podwórku. Obecnie rezerwuję wstępne konsultacje 2-3 za kilka tygodni. Pierwsza wizyta to 90-minutowa ocena na miejscu — oprowadzę nieruchomość, dokonam pomiarów i omówię Twoją wizję. Na tej podstawie przygotowałem plan koncepcyjny. Chcesz, żebym umieścił Cię w kalendarzu?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Jeden zaoszczędzony projekt opłaca się przez lata Duet."
+  },
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się nowe prośby o konsultacje, w drugiej kolejności zatwierdzenia klientów, a informacje o dostawcach nigdy. Nigdy więcej brakujących leadów ukrytych pod potwierdzeniami zamówień w żłobku.",
+  "draftSubtitle": "Duet poznaje Twoje ceny, procesy i ton. Kiedy pojawi się prośba o konsultację, sporządzana jest pełna odpowiedź zawierająca Twoją dostępność, czego się spodziewać i dalsze kroki. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Jaki jest harmonogram projektu Henderson?” „Którzy klienci czekają na zatwierdzenie planu?” Duet zna Twoją skrzynkę odbiorczą i projekty — po prostu zapytaj.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Przeprojektowanie podwórka — bezpłatna konsultacja?",
+      "preview": "Właśnie kupiliśmy dom, a podwórko jest czystą kartą...",
+      "pill": "Nowe zapytanie",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Ostateczny projekt — jesteśmy gotowi do zatwierdzenia!",
+      "pill": "Zatwierdzenie klienta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Specyfikacje nawadniania dla projektu Miller?",
+      "pill": "Wykonawca",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Zamówienie #4821 gotowe do odbioru",
+      "pill": "Dostawca",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Faktura #1047 oglądana przez klienta",
+      "pill": "Faktura",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Przeprojektowanie podwórka — bezpłatna konsultacja?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Cześć! Właśnie kupiliśmy dom w Westlake, a podwórko jest czystą kartą. Chcielibyśmy całkowicie przeprojektować z rodzimymi nasadzeniami i patio. Przyjmujesz nowych klientów?",
+    "lines": [
+      "Cześć Rachel!",
+      "Gratulacje z okazji nowego domu — podwórko z pustych łupków to szczerze projekt marzeń. Pilnie przyjmę nowych klientów.",
+      "Mój proces rozpoczyna się od 90-minutowej konsultacji na miejscu, podczas której oprowadzam po nieruchomości, dokonuję pomiarów i omawiam Twoje cele. Następnie opracowuję plan koncepcyjny obejmujący projekt nasadzeń, układ ogrodu i budżet etapowy.",
+      "Mam wolne miejsca w nadchodzących tygodniach 2-3. Chcesz, żebym wysłał kilka dostępnych terminów?"
+    ],
+    "highlightText": "Mój proces rozpoczyna się od 90-minutowej konsultacji na miejscu",
+    "tooltipFeatures": [
+      "Zna proces projektowania i ceny",
+      "Wersje robocze w Twoim głosie",
+      "Automatycznie uwzględnia szczegóły konsultacji",
+      "Uczy się z czasem"
+    ]
+  },
+  "agent": {
+    "userMessage": "Którzy klienci wciąż czekają na zatwierdzenie planu?",
+    "agentResponse": "Z Twoich ostatnich e-maili wynika, że ​​dwóch klientów oczekuje na zatwierdzenie: Jennifer i Mark L. (przeprojektowanie podwórka — przesłane ostateczne plany 4 kilka dni temu, jeszcze bez odpowiedzi) i Cohenowie (konwersja natywnie na podwórku — wysłali poprawiony plan w zeszłym tygodniu). Chcesz, żebym przygotował delikatne uzupełnienie któregokolwiek z nich?",
+    "followUp": "Sporządzenie pisma uzupełniającego dla Jennifer w sprawie zatwierdzenia planu",
+    "followUpResponse": "Gotowe! Przygotowałem przyjacielskie spotkanie z Jennifer, pytając, czy ona i Mark mieli szansę przejrzeć ostateczne plany, i przypominając jej, że możesz szybko zadzwonić, aby zapoznać się z wyborem roślin. Gotowe do przejrzenia i wysłania."
+  },
+  "testimonialsTitle": "Uwielbiany przez projektantów krajobrazu",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Architekt krajobrazu, Austin w Teksasie",
+      "quote": "Wiosną jestem na miejscu 8 godzin dziennie, dokonując ocen i nadzoru nad instalacją. Nowe wnioski o konsultację będą rozpatrywane przez kilka dni. Teraz Duet odpowiada na mój proces i dostępność w ciągu kilku minut. Zarezerwowałem projekty 3, które na pewno bym stracił.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Projektant ogrodów, Portland LUB",
+      "quote": "Koordynacja pracy ekip zajmujących się architekturą ogrodniczą, instalatorami systemów nawadniających i klientami generuje absurdalną liczbę e-maili. Duet sortuje to wszystko i przygotowuje odpowiedzi zawierające właściwe szczegóły projektu. To tak, jakby mieć menadżera studia.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Właściciel studia projektowania krajobrazu, Denver CO",
+      "quote": "Każdy wieczór po pracy w terenie spędzałem nadrabiając zaległości w e-mailach. Te same pytania – cena, proces, harmonogram. Duet obsługuje to wszystko. Mój czas reakcji wydłużył się z dni do minut, a wskaźnik zamykania transakcji znacznie wzrósł.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Projektant krajobrazu mieszkalnego, Scottsdale AZ",
+      "quote": "Moi klienci zadają wiele pytań dotyczących doboru i pielęgnacji roślin. Duet zapoznał się z moimi paletami roślin i instrukcjami pielęgnacji oraz szkicami odpowiedzi, które ledwo muszę edytować. Klienci uważają, że jestem niesamowicie responsywny.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Projektant krajobrazu z rodzimymi roślinami, Raleigh NC",
+      "quote": "Traciłem nowych klientów, ponieważ nie mogłem odpowiedzieć, gdy byłem po kolana w instalacji sadzenia. Duet przygotowuje odpowiedzi na konsultacje, podając mój dokładny proces, ceny i to, czego się spodziewać. Opłaciło się już w pierwszym tygodniu.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Spędzaj dni tworząc krajobrazy,\nnie nadążam za pocztą elektroniczną.",
+  "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "Czy Duet poradzi sobie z wiosenną gorączką, gdy narasta liczba próśb o konsultację?",
+      "answer": "Właśnie wtedy błyszczy Duet. W najbardziej pracowitym sezonie każde nowe zapytanie otrzymuje szybką i szczegółową odpowiedź zawierającą proces, harmonogram i dostępność – nawet jeśli jesteś na miejscu przez cały dzień. Koniec z utratą wiosennych leadów, ponieważ nie można było do nich wrócić aż do 9 PM."
+    },
+    {
+      "question": "Koordynuję pracę z wieloma ekipami zewnętrznymi. Czy Duet pomaga w tym?",
+      "answer": "Tak. Duet uczy się Twoich projektów i zaangażowanych wykonawców — terenów zielonych, nawadniania, ekip sadzących, szkółek. Kategoryzuje wiadomości e-mail wykonawców oddzielnie od wiadomości e-mail klientów i może tworzyć odpowiedzi zawierające szczegóły specyficzne dla projektu, takie jak specyfikacje, harmonogramy i materiały. Będziesz na bieżąco z każdą załogą bez chaosu w skrzynce odbiorczej."
+    }
+  ],
+  "pricingNote": "W $8,000/project jeden zaoszczędzony klient płaci za lata Pro."
+}

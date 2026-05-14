@@ -1,0 +1,185 @@
+{
+  "slug": "atv-tours",
+  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
+  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
+
+  "heroBadge": "Trusted by 200+ tour guides",
+  "heroHeadline": "Your email assistant while you're on the trail",
+  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+
+  "inboxEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Availability Saturday for 4 machines?",
+      "preview": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+      "pill": "To Respond",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Insurance requirements?",
+      "preview": "Hey, we're bringing our own UTVs. Do we need to show proof of liability insurance? What kind of coverage do you require...",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Which trail for beginners?",
+      "preview": "We've never done ATV riding before. Which tour route would you recommend for a family with two teenagers? Do you provide...",
+      "pill": "Booking",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "New review for your listing",
+      "preview": "A traveler recently reviewed your business. See what they had to say and respond...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+
+  "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
+
+  "math": {
+    "pricePerBooking": "$800",
+    "bookingUnit": "group (4 machines)",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,400",
+    "punchline": "One saved group booking pays for a year of Duet."
+  },
+
+  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
+
+  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
+
+  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
+
+  "categorizationEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Availability Saturday for 4 machines?",
+      "preview": "We're a group of 4 looking to book a guided ATV tour...",
+      "pill": "Respond Now",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Booking confirmed — Saturday 9 AM",
+      "pill": "Booked",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "What should we wear on the trail?",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Yelp for Business",
+      "avatarLetter": "Y",
+      "avatarColor": "lavender",
+      "subject": "Your weekly business update",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Rocky Mountain ATV",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Spring clearance — 25% off parts",
+      "pill": "Promotions",
+      "pillColor": "lavender"
+    }
+  ],
+
+  "draft": {
+    "to": "rachel.w@email.com",
+    "subject": "Re: Availability Saturday for 4 machines?",
+    "originalFrom": "Rachel W. wrote:",
+    "originalText": "Hi! We're a group of 4 looking to book a guided ATV tour this Saturday. Do you have room? What's the price per machine?",
+    "lines": [
+      "Hey Rachel!",
+      "Saturday is wide open for 4 machines. Tours are $200 per machine and run 6-8 hours starting at 9 AM from the trailhead.",
+      "Helmets and goggles are provided — just wear long pants, closed-toe shoes, and bring water and sunscreen. I'll send the meeting point and directions once you're confirmed.",
+      "Want me to lock you in?"
+    ],
+    "highlightText": "Saturday is wide open for 4 machines. Tours are $200 per machine",
+    "tooltipFeatures": [
+      "Knows your pricing & tour routes",
+      "Drafts in your voice",
+      "Includes rider requirements automatically",
+      "Learns over time"
+    ]
+  },
+
+  "agent": {
+    "userMessage": "Any groups booked for this weekend?",
+    "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
+    "followUp": "Draft a reply to Rachel with Saturday availability",
+    "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
+  },
+
+  "testimonialsTitle": "Loved by tour guides and operators",
+  "testimonials": [
+    {
+      "name": "Mike D.",
+      "title": "ATV Guide, Southern Utah",
+      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Tara M.",
+      "title": "UTV Tour Operator, Colorado",
+      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Jeep Tour Guide, Moab",
+      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Nicole S.",
+      "title": "Off-Road Adventures, AZ",
+      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Amanda K.",
+      "title": "Family ATV Tours, Sedona",
+      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "avatarKey": "sarah"
+    }
+  ],
+
+  "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
+  "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+
+  "verticalFaqs": [
+    {
+      "question": "Does Duet handle insurance and waiver questions?",
+      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+    },
+    {
+      "question": "I'm on the trail all day with no cell service. How does Duet help?",
+      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+    }
+  ],
+
+  "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
+}

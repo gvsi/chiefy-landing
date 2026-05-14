@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail pro zakázkové klenotníky | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá zakázkovým klenotníkům reagovat na žádosti o konzultace, schválení návrhu a otázky týkající se časové osy okamžitě – i když jsou na pracovním stole. Odpovědi navržené AI s vaším procesem, cenou a hlasem.",
+  "heroBadge": "Důvěřuje více než 300 návrhářům šperků",
+  "heroHeadline": "Váš e-mailový asistent, když jste na lavičce",
+  "heroSubline": "Duet se naučí váš návrhový proces, materiály, ceny a časové osy – poté vytvoří koncepty e-mailových odpovědí, takže nikdy neztratíte vlastního klienta kvůli pomalé odpovědi.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Konzultace zásnubních prstenů na míru?",
+      "preview": "Ahoj! S partnerem máme zájem o zásnubní prsten na míru. Máme rodinný diamant, který bychom rádi použili. Máte tento měsíc volno na konzultaci?",
+      "pill": "Odpovědět",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D model — můžeme upravit nastavení?",
+      "preview": "Milujte celkový design! Ale mohli bychom zkusit nižší profil na nastavení? Přikládám fotku stylu, který přemýšlím. Také by přechod na platinu změnil časovou osu...",
+      "pill": "Revize",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Aktualizace časové osy snubních prstenů?",
+      "preview": "Hej! Právě kontrolujem naše snubní prsteny. Svatba je 18. května a já se chci ujistit, že jsme stále na správné cestě. Můžete poslat rychlou aktualizaci...",
+      "pill": "Postavení",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nová recenze ve vašem obchodě",
+      "preview": "Pár nedávno zhodnotil vaši firmu na The Knot. Podívejte se, co řekli a odpovězte...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ahoj Rachel! Rád bych vám pomohl navrhnout prsten kolem vašeho rodinného diamantu – to je jedna z mých oblíbených věcí. Tento měsíc mám otevřeno v úterý a ve čtvrtek odpoledne. Přineste kámen a případné inspirační fotografie. Konzultace trvají zhruba hodinu a nejsou povinné. Chcete, abych vám podržel termín?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "zakázkový kus",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Jeden ušetřený klient platí přes čtyři roky Duet."
+  },
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první uvidíte nové žádosti o konzultaci, až poté schválení návrhu a nikdy ne. Už vám nebude chybět dotaz $5,000 skrytý pod propagačními akcemi dodavatele.",
+  "draftSubtitle": "Duet se naučí váš proces, materiály, ceny a hlas. Když přistane žádost o konzultaci, navrhne úplnou odpověď s vaší dostupností, co přinést a jak váš proces funguje. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Kde jsme s Amandiným prstenem?\" \"Navrhněte aktualizaci časové osy pro Jamese.\" Duet zná každé klientské vlákno – stačí se zeptat.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Konzultace zásnubních prstenů na míru?",
+      "preview": "S partnerem máme zájem o prsten na míru...",
+      "pill": "Nový dotaz",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D model v2 — vypadá perfektně!",
+      "pill": "Schválení návrhu",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Kapely jsou připraveny – kdy můžeme vyzvednout?",
+      "pill": "Připraveno k vyzvednutí",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Následná konzultace – miluji náčrtky",
+      "pill": "Konzultace",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Supply",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Jarní výprodej – 15% sleva na nálezy platiny",
+      "pill": "Prodejce/dodavatel",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Konzultace se zásnubním prstenem na míru?",
+    "originalFrom": "Rachel T. napsal:",
+    "originalText": "Ahoj! S partnerem máme zájem o zásnubní prsten na míru. Máme rodinný diamant, který bychom rádi použili. Máte tento měsíc volno na konzultaci?",
+    "lines": [
+      "Ahoj Rachel!",
+      "Rád bych vám pomohl navrhnout něco speciálního kolem vašeho rodinného diamantu. Tento měsíc mám otevřeno v úterý a ve čtvrtek odpoledne.",
+      "Přineste kámen a jakékoli inspirační fotografie — nástěnky Pinterestu, snímky obrazovky, cokoliv pomůže. Konzultace trvají zhruba hodinu a nejsou povinné.",
+      "Odtud je proces obvykle: skica, 3D model, revize, pak 3-4 týdny ve výrobě. Chcete, abych vám podržel termín?"
+    ],
+    "highlightText": "skica, 3D model, revize, poté 3-4 týdny ve výrobě",
+    "tooltipFeatures": [
+      "Zná váš proces a časovou osu",
+      "Píše návrhy vaším hlasem",
+      "Zahrnuje detaily konzultace automaticky",
+      "Učí se časem"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kde jsme s Amandiným zásnubním prstenem?",
+    "agentResponse": "Amanda schválila 3D model (v2) 14. února. Potvrdili jste zahájení výroby 16. února s odhadem 3 týdnů. To znamená dokončení kolem 9. března. Její poslední e-mail se ptal na možnosti gravírování – stále je bez odpovědi. Chcete, abych navrhl odpověď?",
+    "followUp": "Navrhněte aktualizaci časové osy pro Jamese ohledně snubních prstenů",
+    "followUpResponse": "Hotovo! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Připraveno ke kontrole a odeslání."
+  },
+  "testimonialsTitle": "Oblíbený návrháři šperků",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Návrhář šperků na zakázku, LA",
+      "quote": "Každý zakázkový kus vygeneruje 10–15 e-mailů během týdnů. Vynásobte to 8 aktivními klienty a topil jsem se. Odpovědi na aktualizaci návrhu návrhů Duet, potvrzení konzultací, odpovědi na časové ose – to vše mým hlasem. Kontroluji mezi castingy a kliknu na odeslat.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Majitel zlatnictví a studia, Brooklyn",
+      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. To už se nestalo.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Bench Jeweller, Chicago",
+      "quote": "Jsem na lavičce 8 hodin denně s baterkou v ruce. Nemohu zastavit střední pájku, abych napsal odpověď na konzultaci. Duet vše kreslí, zatímco pracuji – mrknu na telefon, schválím, hotovo.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Návrhář svatebních šperků, Austin",
+      "quote": "Během zásnubní sezóny dostávám 20+ žádostí o konzultace týdně. Duet se naučil celý můj proces – materiály, časové osy, cenové úrovně, co si mám přinést. Koncepty odpovědí, které sotva potřebuji upravit. Absolutní záchranář od listopadu do února.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Specialista na zakázkové prsteny, Portland",
+      "quote": "E-maily s 3D revizí mi žraly večery. Klient odešle zpětnou vazbu, já navrhnu aktualizaci, pětkrát tam a zpět. Nyní Duet zpracovává rutinní odpovědi a já pouze zasahuji při rozhodování o návrhu. Vrátily se mi noci.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Trávit dny vytvářením šperků,\nneodpovídá na e-maily o tom.",
+  "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "Dokáže Duet zpracovat e-maily s referenčními fotografiemi a přílohami návrhu?",
+      "answer": "Ano. Duet vidí celé vlákno e-mailu včetně příloh, takže chápe kontext, když klient posílá inspirační fotografie nebo zpětnou vazbu k designu. Nepopíše zpět obrázky, ale ví, že klient právě poslal referenční fotografie a navrhne vhodnou odpověď – potvrzení přijetí, položení upřesňujících otázek ohledně návrhu nebo poskytnutí dalších kroků na základě vašeho obvyklého pracovního postupu."
+    },
+    {
+      "question": "Moje vlastní projekty mají dlouhá e-mailová vlákna s více než 10 zprávami. Může je Duet následovat?",
+      "answer": "Přesně tam září Duet. Čte celou historii vlákna – konzultační poznámky, revize návrhu, výběr materiálů, aktualizace časové osy – takže každá navržená odpověď má plný kontext. Když se klient zeptá 'jaký je stav mého prstenu?' v e-mailu č. 14 Duet ví, který prsten, v jaké fázi se nachází, a navrhne přesnou aktualizaci. Už žádné opakované čtení e-mailů za 3 měsíce."
+    }
+  ],
+  "pricingNote": "U $5,000/piece platí jedna ušetřená provize za více než čtyři roky Pro."
+}

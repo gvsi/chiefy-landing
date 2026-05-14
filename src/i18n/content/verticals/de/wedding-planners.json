@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail für Hochzeitsplaner | KI-E-Mail-Assistent",
+  "metaDescription": "Duet Mail hilft Hochzeitsplanern, sofort auf Kunden- und Lieferanten-E-Mails zu reagieren – sogar bei Besichtigungen des Veranstaltungsortes. Von der KI erstellte Antworten mit Ihren Paketen, Lieferantenkontakten und Ihrer Stimme.",
+  "heroBadge": "Über 400 Hochzeitsplaner vertrauen darauf",
+  "heroHeadline": "Ihr E-Mail-Assistent, während Sie vor Ort am Veranstaltungsort sind",
+  "heroSubline": "Duet lernt Ihre Lieferantenkontakte, Pakete und Kundenpräferenzen – und erstellt dann E-Mail-Antworten, damit Paare nie warten müssen, während Sie sich vor Ort koordinieren.",
+  "inboxEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Verfügbarkeit für die Hochzeit am 20. September?",
+      "preview": "Hallo! Wir haben uns gerade verlobt und planen eine Hochzeit am 20. September mit etwa 120 Gästen. Haben Sie Verfügbarkeit? Was sind Ihre Pakete...",
+      "pill": "Um zu antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Blumen",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Betreff: Thompson-Hochzeit – Herzstück-Modelle",
+      "preview": "Hier sind die drei zentralen Optionen, die wir besprochen haben. Die Gartenrosen kamen wunderschön an. Lassen Sie mich wissen, in welche Richtung das Paar gehen möchte...",
+      "pill": "Anbieter",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Ich flippe wegen des Sitzplans aus",
+      "preview": "Ich weiß, dass wir die Tabelle letzte Woche fertiggestellt haben, aber meine Mutter hat gerade vier zusätzlichen Personen zugesagt, und ich habe keine Ahnung, wo ich sie unterbringen soll. Können wir ein paar Tische verschieben?",
+      "pill": "Kunde",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Der Knoten",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Neue Anfrage von Ihrem Eintrag",
+      "preview": "Ein Paar hat um weitere Informationen zu Ihren Dienstleistungen gebeten. Details ansehen und antworten...",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hallo Emily und James – herzlichen Glückwunsch zu Ihrer Verlobung! Der 20. September ist verfügbar und 120 Gäste sind eine perfekte Größe. Ich biete komplette Planungs-, Teilplanungs- und Tageskoordinierungspakete an. Ich würde gerne eine kostenlose Beratung vereinbaren, um Ihre Vision kennenzulernen. Haben Sie diese Woche Zeit für einen kurzen Anruf?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "Hochzeit",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Ein gesparter Kunde zahlt für über 20 Jahre Duet."
+  },
+  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst die Anfragen neuer Paare, dann die Bestätigungen der Anbieter und nie den Newsletter-Rummel sehen. Keine Buchungsanfrage mehr verpassen, die unter Knot-Benachrichtigungen verborgen ist.",
+  "draftSubtitle": "Duet lernt Ihre Pakete, bevorzugten Anbieter und Ihren Ton. Wenn ein Paar nachfragt, verfasst es eine herzliche, umfassende Antwort mit Ihrer Verfügbarkeit und den nächsten Schritten. Sie überprüfen und senden.",
+  "agentSubtitle": "„Welche Lieferanten-E-Mails sind für die Thompson-Hochzeit eingegangen?“ „Entwerfen Sie eine Aktualisierung des Zeitplans für alle Anbieter für Samstag.” Duet kennt Ihren Posteingang und Ihre Kunden – fragen Sie einfach nach.",
+  "categorizationEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Verfügbarkeit für die Hochzeit am 20. September?",
+      "preview": "Wir haben uns gerade verlobt und freuen uns auf den 20. September...",
+      "pill": "Jetzt antworten",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Blumen",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Betreff: Thompson-Hochzeit – Herzstück-Modelle",
+      "pill": "Anbieter",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Betreff: Sitzplan – endgültige Version beigefügt",
+      "pill": "Kunde",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Der Knoten",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Neue Anfrage von Ihrem Eintrag",
+      "pill": "Zu Ihrer Information",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Geprägt",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "20 % Rabatt auf Save-the-Dates diese Woche",
+      "pill": "Werbung",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Betreff: Verfügbarkeit für die Hochzeit am 20. September?",
+    "originalFrom": "Emily & James W. schrieben:",
+    "originalText": "Hallo! Wir haben uns gerade verlobt und planen eine Hochzeit am 20. September mit etwa 120 Gästen. Haben Sie Verfügbarkeit? Was sind Ihre Pakete und Preise?",
+    "lines": [
+      "Hallo Emily und James – herzlichen Glückwunsch!",
+      "Der 20. September steht zur Verfügung und 120 Gäste sind eine wunderbare Größe. Ich biete Komplettplanungs-, Teilplanungs- und Tageskoordinationspakete ab 3.500 $ an.",
+      "Gerne vereinbare ich einen kostenlosen Beratungstermin, um Ihre Vorstellungen kennenzulernen und Ihnen zu zeigen, welches Paket am besten passt.",
+      "Haben Sie diese Woche Zeit für einen Anruf?"
+    ],
+    "highlightText": "Der 20. September steht zur Verfügung und 120 Gäste sind eine wunderbare Größe",
+    "tooltipFeatures": [
+      "Kennt Ihre Pakete und Verfügbarkeit",
+      "Entwürfe in deiner Stimme",
+      "Inklusive Beratung zu den nächsten Schritten",
+      "Lernt Ihre Kundenpräferenzen kennen"
+    ]
+  },
+  "agent": {
+    "userMessage": "Welche E-Mails von Anbietern gingen diese Woche zur Thompson-Hochzeit ein?",
+    "agentResponse": "Sie haben diese Woche vier Lieferanten-E-Mails für die Thompson-Hochzeit erhalten: Bella Rosa Florals hat Mockups für die Tafelaufsätze geschickt (wartet auf die Wahl des Paares), Lakeside Venue bestätigte die Zeremonieprobe für Freitag um 16:00 Uhr, DJ Marco schickte die aktualisierte Songliste und Sweet Layers Bakery braucht bis Mittwoch den letzten Kuchengeschmack. Soll ich Antworten auf diese Fragen verfassen?",
+    "followUp": "Verfassen Sie eine Antwort an Bella Rosa mit der Wahl des Paares – Option B, die Gartenrosen",
+    "followUpResponse": "Fertig! Ich verfasste eine Antwort an Bella Rosa Florals, in der ich Option B bestätigte – die Gartenrosen-Mittelstücke für die Thompson-Hochzeit. Es enthält einen Hinweis, mit der vollständigen Bestellung für 14 Tische fortzufahren. Bereit zum Überprüfen und Senden."
+  },
+  "testimonialsTitle": "Von Hochzeitsplanern geliebt",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Boutique-Hochzeitsplaner, CO",
+      "quote": "Die Hälfte meiner Woche bin ich an Veranstaltungsorten in den Bergen ohne Mobilfunkempfang. In der Zwischenzeit schicken mir Paare E-Mails zu Zeitplänen und Anbieterfragen. Duet entwirft Antworten mit meinen genauen Paketen und meinem Ton – ich überprüfe sie, wenn ich wieder in Reichweite bin.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Full-Service-Hochzeitsplaner, CA",
+      "quote": "Die Koordination von mehr als 10 Anbietern pro Hochzeit bedeutet, dass mein Posteingang in der Hochsaison ein Kriegsgebiet ist. Duet kategorisiert Lieferanten-E-Mails getrennt von Kunden-E-Mails und Follow-up-Entwürfen, die ich selbst geschrieben hätte. Ich schlafe jetzt tatsächlich.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Tag des Koordinators, TX",
+      "quote": "An Hochzeitstagen bin ich 14 Stunden am Stück nicht erreichbar. Früher blieben neue Anfragen bis Montag unbeantwortet. Jetzt kümmert sich Duet sofort um sie und ich habe allein aufgrund der schnelleren Reaktionszeiten in diesem Quartal drei zusätzliche Hochzeiten gebucht.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Hochzeitsplaner für Reiseziele, HI",
+      "quote": "Meine Paare fliegen aus der ganzen Welt ein und senden rund um die Uhr E-Mails. Duet habe meine FAQ-Antworten gelernt – Veranstaltungsortlogistik, lokale Anbieter, was zu erwarten ist – und Antwortentwürfe, die genau nach mir klingen. Kunden haben keine Ahnung.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Hochzeits- und Veranstaltungsplaner, NY",
+      "quote": "Ich verbrachte jeden Abend zwei Stunden damit, die gleichen Paket- und Verfügbarkeitsfragen zu beantworten. Duet kümmert sich um die sich wiederholenden Dinge, sodass ich mich auf die kreative Arbeit konzentrieren kann, die ich wirklich liebe. Es hat sich in der ersten Woche amortisiert.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Seien Sie bei der Zeremonie anwesend,\nnicht in Ihrem Posteingang vergraben.",
+  "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
+  "verticalFaqs": [
+    {
+      "question": "Funktioniert Duet mit allen Lieferantenkoordinierungs-E-Mails?",
+      "answer": "Ja. Duet lernt Ihre Lieferantenkontakte, bevorzugte Lieferanten und wie Sie mit jedem einzelnen kommunizieren. Es kategorisiert Lieferanten-E-Mails nach Hochzeit und entwirft Antworten mit den richtigen Details – Bestätigungen, Nachfassaktionen, Zeitplanaktualisierungen. Sie überprüfen und senden. Es verwaltet Floristen, Caterer, Veranstaltungsorte, DJs, Fotografen und jeden anderen Anbieter in Ihrem Rolodex."
+    },
+    {
+      "question": "Ich bin den ganzen Tag bei Hochzeiten und Veranstaltungsorten vor Ort. Verpasse ich neue Anfragen?",
+      "answer": "Genau das löst Duet. Wenn Sie während der Koordination vor Ort ein paar E-Mails mit der Frage nach Verfügbarkeit oder Paketen erhalten, verfasst Duet eine freundliche, professionelle Antwort mit Ihrer tatsächlichen Verfügbarkeit und den nächsten Schritten. Sie überprüfen und senden, wann immer Sie Zeit haben – auch von Ihrem Telefon aus zwischen den Veranstaltungen. Die meisten Planer sagen uns, dass sie dadurch in der Hochsaison 1–2 Stunden E-Mail-Zeit pro Tag sparen."
+    }
+  ],
+  "pricingNote": "Bei 8.000 $/Hochzeit zahlt ein gesparter Kunde für über 20 Jahre Pro."
+}

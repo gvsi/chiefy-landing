@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail para diseñadores de interiores | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los diseñadores de interiores a administrar los correos electrónicos de los clientes, la coordinación de los contratistas y los pedidos de los proveedores, incluso desde el lugar de trabajo. Respuestas redactadas por IA con los detalles, preferencias y voz de su proyecto.",
+  "heroBadge": "Con la confianza de más de 400 diseñadores de interiores",
+  "heroHeadline": "Tu asistente de correo electrónico mientras estás en el sitio con los clientes",
+  "heroSubline": "Duet aprende los contactos de sus proveedores, los detalles del proyecto y las preferencias de los clientes y luego redacta borradores de respuestas por correo electrónico para que nunca pierda un cliente debido a una respuesta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Reforma de cocina: ¿consulta inicial?",
+      "preview": "¡Hola! Acabamos de comprar una casa en Westlake y queremos rehacer completamente la cocina. ¿Estás asumiendo nuevos proyectos? ¿Cómo es tu proceso?",
+      "pill": "Para responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Azulejos y piedras de Tony",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Re: Actualización del tiempo de entrega del mosaico del protector contra salpicaduras",
+      "preview": "Acabo de recibir noticias del almacén: la loseta hexagonal Calacatta tiene pedidos pendientes de entrega desde hace 3 semanas. Quieres que retenga tu pedido o mire alternativas...",
+      "pill": "Orden de proveedor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — Electricista",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Cableado realizado: listo para instalar el dispositivo",
+      "preview": "Todo el cableado preliminar está terminado en el dormitorio principal y la sala de estar. Estamos autorizados a instalar el aplique y la lámpara de araña siempre que...",
+      "pill": "Contratista",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen y Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "¿Pensamientos sobre las muestras de telas?",
+      "preview": "Miramos las tres opciones de tela que dejaste y nos inclinamos por el lino en 'Oatmeal' pero queremos verlo contra el color de la pared...",
+      "pill": "Aprobación del cliente",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Raquel! Me encantaría saber más sobre su cocina Westlake. Actualmente estoy reservando consultas para el próximo mes. Mi proceso comienza con una visita a domicilio en la que analizamos su visión, presupuesto y cronograma; luego, preparo un concepto de diseño con selecciones de materiales. ¿Quieres programar una hora para reunirnos en la casa?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "proyecto",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Un cliente guardado paga por años de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que vea primero las consultas de nuevos clientes, luego las aprobaciones pendientes y nunca los boletines informativos de los proveedores. No más perderse una consulta de diseño oculta bajo promociones de ferias comerciales.",
+  "draftSubtitle": "Duet aprende su proceso, los detalles del proyecto y el tono. Cuando llega una nueva consulta o pregunta de un cliente, redacta una respuesta completa con su disponibilidad, los próximos pasos y los detalles del proyecto. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Cuál es el estado del proyecto Henderson?\" \"¿Qué aprobaciones están todavía pendientes?\" Duet conoce tu bandeja de entrada y cada hilo del proyecto, solo pregunta.",
+  "categorizationEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Reforma de cocina: ¿consulta inicial?",
+      "preview": "Acabamos de comprar una casa y queremos rehacer la cocina...",
+      "pill": "Nueva consulta",
+      "pillColor": "red"
+    },
+    {
+      "from": "karen w.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Re: Muestras de telas: uso de lino color avena",
+      "pill": "Aprobación del cliente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Marcos l.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Cableado realizado: listo para instalar el dispositivo",
+      "pill": "Contratista",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Azulejos y piedras de Tony",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Pedido n.º 4821 enviado: entrega el jueves",
+      "pill": "Orden de proveedor",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Diseño al alcance",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Programa comercial: evento de ahorro de primavera",
+      "pill": "Promociones",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Renovación de la cocina: ¿consulta inicial?",
+    "originalFrom": "Raquel T. escribió:",
+    "originalText": "¡Hola! Acabamos de comprar una casa en Westlake y queremos rehacer completamente la cocina. ¿Estás asumiendo nuevos proyectos? ¿Cómo es tu proceso?",
+    "lines": [
+      "Hola Raquel!",
+      "¡Felicitaciones por el nuevo hogar! Me encantaría ayudarte con tu cocina. Actualmente estoy reservando consultas para el próximo mes.",
+      "Mi proceso comienza con una visita a domicilio para analizar su visión, presupuesto y cronograma. A partir de ahí armé un concepto de diseño con selecciones de materiales y una propuesta detallada.",
+      "¿Quieres programar una hora para reunirnos en la casa?"
+    ],
+    "highlightText": "Actualmente estoy reservando consultas para el próximo mes.",
+    "tooltipFeatures": [
+      "Conoce su proceso y disponibilidad",
+      "Borradores en tu voz",
+      "Incluye los siguientes pasos automáticamente.",
+      "Aprende con el tiempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "¿Qué aprobaciones quedan aún pendientes para el proyecto Henderson?",
+    "agentResponse": "Según sus hilos de correo electrónico con los Henderson, dos artículos aún están pendientes de aprobación: el tocador del baño principal (envió las opciones de hardware de restauración el martes) y la tela para cortinas de la sala de estar (se entregaron muestras la semana pasada). Karen también preguntó sobre el brillo de la pintura del comedor, pero aún no respondió a su recomendación. ¿Quieres que redacte un seguimiento?",
+    "followUp": "Redacte un amable seguimiento de Karen sobre la selección de tocadores y telas.",
+    "followUpResponse": "¡Listo! Redacté un seguimiento para que Karen revisara las selecciones de tocador y cortinas, mencionando que el tocador tiene un plazo de entrega de 6 semanas, por lo que una decisión pronto mantendría el proyecto según lo programado. Listo para revisar y enviar."
+  },
+  "testimonialsTitle": "Amado por los diseñadores de interiores.",
+  "testimonials": [
+    {
+      "name": "michael r.",
+      "title": "Diseñador principal, Austin TX",
+      "quote": "Estoy en el sitio 6 horas al día coordinando pintores, electricistas e instaladores de azulejos. Mientras tanto, otros tres clientes envían correos electrónicos sobre sus proyectos. Duet borradores de respuestas con los detalles correctos del proyecto; solo los reviso entre visitas al sitio.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "francesca d.",
+      "title": "Diseñador de interiores residenciales, Chicago",
+      "quote": "Las consultas de los clientes solían permanecer durante días porque estaba enterrado en correos electrónicos de adquisiciones y programación de contratistas. Ahora Duet responde a nuevos clientes potenciales en minutos con mi proceso y disponibilidad. He reservado 4 proyectos adicionales este trimestre.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Propietario del estudio de diseño, Nashville",
+      "quote": "Administrar correos electrónicos para 12 proyectos activos me estaba matando. Duet clasifica todo (nuevas consultas, aprobaciones pendientes, pedidos de proveedores, actualizaciones de contratistas) para que sepa exactamente qué necesita mi atención primero.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "Decorador de interiores, San Diego",
+      "quote": "Estaba perdiendo clientes potenciales porque no podía responder lo suficientemente rápido durante las semanas de instalación. Duet aprendió mi proceso de consulta, estructura de precios e incluso cómo describo mi estilo de diseño. Los clientes no tienen idea de que está asistido por IA.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "sara k.",
+      "title": "Diseñador de interiores comerciales, Denver",
+      "quote": "Entre los plazos de entrega de los proveedores, los cronogramas de los contratistas y las solicitudes de revisión de los clientes, mi bandeja de entrada era un caos. Duet lo ordena todo y redacta seguimientos de aprobaciones pendientes. Es como tener un coordinador de proyecto que nunca duerme.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Pasa tus días creando hermosos espacios,\nno enterrado en su bandeja de entrada.",
+  "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "Hago malabarismos con entre 8 y 10 proyectos a la vez. ¿Puede Duet mantenerlos derechos?",
+      "answer": "Sí. Duet rastrea cada hilo de correo electrónico por cliente y proyecto. Cuando pregunta sobre la cocina de Henderson o la oficina de Park Avenue, obtiene el contexto de todas las conversaciones relacionadas (pedidos de proveedores, actualizaciones de contratistas, aprobaciones de clientes) para que sus respuestas sean siempre precisas y específicas del proyecto. No se puede confundir qué mosaico era para cada cliente."
+    },
+    {
+      "question": "Coordino con muchos contratistas y proveedores. ¿Duet ayuda con eso?",
+      "answer": "Absolutamente. Duet aprende los contactos de sus contratistas, representantes de proveedores y el contexto del rol de cada sector en sus proyectos. Cuando su electricista le envíe un correo electrónico informándole que ya ha terminado, Duet puede redactar una respuesta confirmando el siguiente paso o realizar un bucle en el instalador del dispositivo. Mantiene el flujo de trabajo en movimiento incluso cuando se encuentra al otro lado de la ciudad en otro lugar de trabajo."
+    }
+  ],
+  "pricingNote": "A $10,000/proyecto, un cliente ahorrado paga por años de Duet Pro."
+}

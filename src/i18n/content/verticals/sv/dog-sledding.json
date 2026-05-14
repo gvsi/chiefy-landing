@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail för hundspannturer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper körare att svara på bokningsmeddelanden direkt – även från leden. AI-utkastade svar med dina turnétyper, priser, policyer och röst.",
+  "heroBadge": "Betrodd av 200+ förare",
+  "heroHeadline": "Din e-postassistent när du är på spåren",
+  "heroSubline": "Duet lär sig dina resetyper, priser, väderpolicyer och tillägg – förbereder sedan e-postsvar så att du aldrig förlorar en bokning på grund av ett långsamt svar.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + hundspann combo för 4?",
+      "preview": "Hej! Min familj på 4 besöker Fairbanks i januari. Erbjuder ni ett kombopaket med hundspann och norrskensvisning? Vad är priset?",
+      "pill": "Att svara",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Vad ska vi ha på oss?",
+      "preview": "Vi är bokade för 2-timmars mush-upplevelsen på lördag. Vad ska vi ha på oss? Tillhandahåller du utrustning eller behöver vi ta med egen...",
+      "pill": "Fråga",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim och Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Barn i åldrarna 5 och 8 — kan de mosa?",
+      "preview": "Vi tar med våra två barn (5 och 8). Kan de åka i släden eller faktiskt hjälpa till att mosa? Även hundarna klarar sig bra med små barn...",
+      "pill": "Bokning",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ny recension för din annons",
+      "preview": "En resenär har nyligen recenserat ditt företag. Se vad de hade att säga och svara...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Rachel! Vi tar gärna emot din familj. Vår Aurora + Mush Combo kostar 175 USD/person — du får en 1,5-timmars slädtur genom stigarna i skymningen, sedan varm kakao vid brasan medan vi väntar på ljusen. All kallvädersutrustning tillhandahålls. Barn 12 och under är $125. Vill du att jag ska boka in dig i januari?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "turné",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Två sparade bokningar betalar för ett år av Duet."
+  },
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, frågor sedan och aldrig brus. Saknar inte längre en turförfrågan begravd under TripAdvisor-varningar.",
+  "draftSubtitle": "Duet lär sig dina turnétyper, prissättning och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med paketdetaljer, vad man ska ha på sig och tillägg. Du granskar och skickar.",
+  "agentSubtitle": "\"Några bokningar i helgen?\" \"Skapa ett svar om aurora-kombinationen.\"Duet känner till din inkorg och schema — fråga bara.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Aurora + hundspann combo för 4?",
+      "preview": "Min familj på 4 besöker Fairbanks i januari...",
+      "pill": "Svara nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Bokning bekräftad — lördag 13:00",
+      "pill": "Bokad",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Kan våra barn (5 och 8) åka med?",
+      "pill": "Fråga",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Din veckobokningssammanfattning",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Vinterrea — 30 % rabatt på mushingselar",
+      "pill": "Kampanjer",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Aurora + hundspann combo för 4?",
+    "originalFrom": "Rachel T skrev:",
+    "originalText": "Hej! Min familj på 4 besöker Fairbanks i januari. Erbjuder ni ett kombopaket med hundspann och norrskensvisning? Vad är priset?",
+    "lines": [
+      "Hej Rachel!",
+      "Vår Aurora + Mush Combo kostar 175 USD/person — en 1,5-timmars slädtur i skymningen följt av varm kakao och norrsken vid brasan. Barn 12 och under är $125.",
+      "All kallvädersutrustning tillhandahålls (stövlar, haklappar, handskar, ansiktsmasker). Klä dig bara i varma lager under.",
+      "Vill du att jag ska boka din familj på 4 för januari?"
+    ],
+    "highlightText": "Aurora + Mush Combo är $175/person - en 1,5-timmars slädtur",
+    "tooltipFeatures": [
+      "Känner till dina resetyper och priser",
+      "Utkast i din röst",
+      "Inkluderar utrustning och tilläggsdetaljer",
+      "Lär sig med tiden"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kommer det några bokningar i helgen? Vädret ser osäkert ut.",
+    "agentResponse": "Du har 3 turer bokade denna helg: ett kennelbesök lördag kl. 10.00 (2 gäster), en 2-timmars mush-upplevelse på lördag kl. 13.00 (4 gäster) och en kombination av norrsken kl. 16.00 (6 gäster). Söndagsgruppen frågade om avbokningsregler. Vill du att jag ska göra en väderuppdatering för alla tre?",
+    "followUp": "Gör ett utkast till en väderuppdatering för söndagens norrskensgrupp",
+    "followUpResponse": "Klart! Jag skrev ett svar till Sunday Aurora-gruppen och berättade för dem att du övervakar förhållandena och kommer att bekräfta senast på lördag kväll. Det inkluderar din ombokningspolicy och alternativa datum. Klar att granska och skicka."
+  },
+  "testimonialsTitle": "Älskad av körare och researrangörer",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Slädehundsresearrangör, AK",
+      "quote": "Jag är på spåret 6 timmar om dagen med noll cellservice. När jag skulle komma tillbaka hade hälften av bokningsförfrågningarna gått till en annan outfit. Duet utkast till svar med mina turnédetaljer och priser – gäster hör av sig på några minuter, inte timmar.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Kennel & Mush Tour Owner, AK",
+      "quote": "Vi erbjuder kennelbesök, mysturer och aurorakombinationer - varje e-postmeddelande behöver ett annat svar. Duet har listat ut alla tre turtyperna under en vecka och har nu utkast till svar som matchar rätt paket varje gång.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Hundspannsguide, MN",
+      "quote": "Jag brukade ägna varje kväll åt att svara på samma frågor om vad jag skulle ha på mig, åldersgränser och hundarna. Duet hanterar allt. Jag kommer hem från stigen och allt är utarbetat och väntar.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Väderavstängningar är konstanta på vintern. Duet utkast till ombokning av svar med vår policy och alternativa datum innan jag ens får en chans att kolla min telefon. Gästerna älskar den snabba responsen.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Family Dog Sled Adventures, CO",
+      "quote": "Föräldrar frågar alltid om deras barn kan mosa, om hundarna är vänliga, vad de ska ha på sig - samma 10 frågor. Duet lärde sig varje svar och formulerar dem perfekt. Det är som att klona mig själv för e-post.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Tillbringa vintern på leden med dina hundar,\ninte i din inkorg.",
+  "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
+  "verticalFaqs": [
+    {
+      "question": "Hur hanterar Duet väderinställelser och norrskens osäkerhet?",
+      "answer": "Duet lär sig dina avboknings- och ombokningspolicyer. När en gäst skickar e-postmeddelanden om väderproblem eller norrskens synlighet, utarbetar den ett svar med din policy, alternativa datum och alla relevanta detaljer – som att övervaka förhållanden och bekräfta närmare turnén. Du granskar och skickar."
+    },
+    {
+      "question": "Jag erbjuder flera turtyper med olika priser och tillägg. Kan Duet hålla dem raka?",
+      "answer": "Ja. Duet lär sig var och en av dina turtyper – kennelbesök, mush-upplevelser, norrskenskombinationer, fototillägg, transportpaket – tillsammans med deras prissättning, varaktighet och vad som ingår. När en förfrågan kommer in matchar den rätt tur och utkastar ett svar med korrekta uppgifter."
+    }
+  ],
+  "pricingNote": "För $150/turné betalar två sparade bokningar för över ett år av Pro."
+}

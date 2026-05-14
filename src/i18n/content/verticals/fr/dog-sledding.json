@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail pour les tours en traîneau à chiens | Assistant e-mail IA",
+  "metaDescription": "Duet Mail aide les mushers à répondre instantanément aux e-mails de réservation — même depuis la piste. Des réponses rédigées par l’IA avec vos types de tours, tarifs, politiques et votre ton.",
+  "heroBadge": "Approuvé par plus de 200 mushers",
+  "heroHeadline": "Votre assistant e-mail pendant que vous êtes sur la piste",
+  "heroSubline": "Duet apprend vos types de tours, tarifs, politiques météo et options — puis rédige des réponses e-mail pour que vous ne perdiez jamais une réservation à cause d’une réponse trop lente.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Combo aurores + traîneau à chiens pour 4 personnes ?",
+      "preview": "Bonjour ! Ma famille de 4 personnes visite Fairbanks en janvier. Proposez-vous un forfait combiné traîneau à chiens et observation des aurores ? Quel est le prix ?",
+      "pill": "À répondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Que devons-nous porter ?",
+      "preview": "Nous avons réservé l’expérience mush de 2 heures samedi. Que devons-nous porter ? Fournissez-vous l’équipement ou devons-nous apporter le nôtre...",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim & Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Des enfants de 5 et 8 ans — peuvent-ils participer au mush ?",
+      "preview": "Nous venons avec nos deux enfants (5 et 8 ans). Peuvent-ils prendre place dans le traîneau ou même aider à conduire l’attelage ? Les chiens sont-ils aussi à l’aise avec de jeunes enfants...",
+      "pill": "Réservation",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nouvel avis pour votre annonce",
+      "preview": "Un voyageur a récemment laissé un avis sur votre entreprise. Découvrez ce qu’il a dit et répondez...",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Salut Rachel ! Nous serions ravis d’accueillir votre famille. Notre combo Aurores + Mush est à 175 $/personne — vous profitez d’une balade en traîneau de 1,5 heure sur les sentiers au crépuscule, puis d’un chocolat chaud près du feu pendant que nous attendons les aurores. Tout l’équipement grand froid est fourni. Les enfants de 12 ans et moins sont à 125 $. Voulez-vous que je vous réserve une place pour janvier ?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "tour",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Deux réservations enregistrées couvrent un an de Duet."
+  },
+  "categorizationSubtitle": "Duet attribue automatiquement des étiquettes à chaque e-mail pour que vous voyiez d’abord les demandes de réservation, puis les questions, et jamais le reste. Plus besoin de rater une demande de circuit noyée sous les alertes TripAdvisor.",
+  "draftSubtitle": "Duet apprend vos types de circuits, vos tarifs et votre ton. Quand une demande de réservation arrive, il rédige une réponse complète avec les détails du forfait, quoi porter et les options supplémentaires. Vous relisez et envoyez.",
+  "agentSubtitle": "« Des réservations ce week-end ? » « Rédige une réponse sur le combo aurores. » Duet connaît votre boîte de réception et votre agenda — demandez-lui simplement.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Combo aurores + traîneau à chiens pour 4 ?",
+      "preview": "Ma famille de 4 personnes visite Fairbanks en janvier...",
+      "pill": "Répondre maintenant",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re : Réservation confirmée — samedi 13h",
+      "pill": "Réservé",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Nos enfants (5 et 8 ans) peuvent-ils monter aussi ?",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Votre récapitulatif hebdomadaire des réservations",
+      "pill": "Info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Soldes d’hiver — 30 % de réduction sur les harnais de mushing",
+      "pill": "Promotions",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re : Combo aurores + traîneau à chiens pour 4 ?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Bonjour ! Ma famille de 4 personnes visite Fairbanks en janvier. Proposez-vous un forfait combinant traîneau à chiens et observation des aurores ? Quel est le prix ?",
+    "lines": [
+      "Salut Rachel !",
+      "Notre combo Aurores + Mushing est à 175 $/personne — une balade en traîneau de 1,5 heure au crépuscule, suivie de chocolat chaud et d’une observation des aurores près du feu. Les enfants de 12 ans et moins paient 125 $.",
+      "Tout l’équipement grand froid est fourni (bottes, salopettes, gants, masques pour le visage). Il suffit de porter des couches chaudes en dessous.",
+      "Vous voulez que je réserve pour votre famille de 4 personnes en janvier ?"
+    ],
+    "highlightText": "Combo aurores boréales + mush à 175 $/person — une balade en traîneau de 1 h 30",
+    "tooltipFeatures": [
+      "Connaît vos types de circuits et vos tarifs",
+      "Rédige dans votre style",
+      "Inclut l’équipement et les détails des options supplémentaires",
+      "Apprend au fil du temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Des réservations à venir ce week-end ? La météo semble incertaine.",
+    "agentResponse": "Vous avez 3 circuits réservés ce week-end : une visite du chenil samedi à 10 h (2 invités), une expérience mush de 2 heures samedi à 13 h (4 invités) et un combo aurores dimanche à 16 h (6 invités). Le groupe de dimanche a demandé la politique d’annulation. Voulez-vous que je rédige une mise à jour météo pour les trois ?",
+    "followUp": "Rédiger une mise à jour météo pour le groupe aurores de dimanche",
+    "followUpResponse": "C’est fait ! J’ai rédigé une réponse pour le groupe aurores de dimanche pour leur indiquer que vous surveillez les conditions et que vous confirmerez d’ici samedi soir. Elle inclut votre politique de report et des dates alternatives. Prêt à relire et à envoyer."
+  },
+  "testimonialsTitle": "Adoré par les mushers et les opérateurs de circuits",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Opérateur de circuits de chiens de traîneau, AK",
+      "quote": "Je suis sur la piste 6 heures par jour, sans aucun service cellulaire. Le temps que je revienne, la moitié des demandes de réservation étaient déjà parties chez un concurrent. Duet rédige des réponses avec les détails de mes circuits et mes tarifs — les invités reçoivent une réponse en quelques minutes, pas en quelques heures.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Propriétaire de chenil et de circuits mush, AK",
+      "quote": "Nous proposons des visites du chenil, des sorties mush et des combos aurores — chaque e-mail nécessite une réponse différente. Duet a compris les trois types de circuits en une semaine et rédige maintenant des réponses qui correspondent à la bonne formule à chaque fois.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Guide de chiens de traîneau, MN",
+      "quote": "Avant, je passais chaque soirée à répondre aux mêmes questions sur quoi porter, les limites d’âge et les chiens. Duet gère tout. Je rentre de la piste et tout est déjà rédigé et prêt.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Opérateur de circuits aurores et traîneau, AK",
+      "quote": "Les annulations liées à la météo sont constantes en hiver. Duet rédige des réponses de report avec notre politique et des dates alternatives avant même que j’aie le temps de vérifier mon téléphone. Les invités apprécient cette réponse rapide.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Aventures familiales en chiens de traîneau, CO",
+      "quote": "Les parents demandent toujours si leurs enfants peuvent faire du mush, si les chiens sont gentils, quoi porter — les mêmes 10 questions. Duet a appris chaque réponse et les rédige parfaitement. C’est comme me cloner pour les e-mails.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Passez l’hiver sur les sentiers avec vos chiens,\npas dans votre boîte de réception.",
+  "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
+  "verticalFaqs": [
+    {
+      "question": "Comment Duet gère-t-il les annulations liées à la météo et l’incertitude sur les aurores ?",
+      "answer": "Duet apprend vos politiques d’annulation et de replanification. Lorsqu’un client envoie un e-mail au sujet des conditions météo ou de la visibilité des aurores, il rédige une réponse avec votre politique, des dates de remplacement et tout détail pertinent — comme surveiller les conditions et confirmer plus près de la date de la visite. Vous relisez et envoyez."
+    },
+    {
+      "question": "Je propose plusieurs types de tours avec des tarifs et des options supplémentaires différents. Duet peut-il s’y retrouver ?",
+      "answer": "Oui. Duet apprend chacun de vos types de tours — visites du chenil, expériences de mushing, formules aurores, options photo, forfaits de transport — ainsi que leurs tarifs, leur durée et ce qui est inclus. Lorsqu’une demande arrive, il associe le bon tour et rédige une réponse avec les bons détails."
+    }
+  ],
+  "pricingNote": "À 150 $/tour, deux réservations économisées couvrent plus d’un an de Pro."
+}

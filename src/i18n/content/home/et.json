@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | AI e-posti assistent numbritele Gmail ja Outlook",
+    "description": "Duet Mail tehisintellekti e-posti assistent teeb meilidest kokkuvõtte, koostab vastuste mustandid ja korrastab teie postkasti. Töötab numbritega Gmail ja Outlook. Säästke 4+ tundi nädalas."
+  },
+  "hero": {
+    "badge": "Nüüd saadaval Gmail ja Outlook jaoks",
+    "headlinePrefix": "Sinu",
+    "headlineHighlight": "staabiülem",
+    "headlineSuffix": " jaoks",
+    "rotatingFeatures": [
+      "meili sorteerimine",
+      "vastuste koostamine",
+      "ajakava koostamine",
+      "vastuste leidmine"
+    ],
+    "subline": "Säästke meili teel igal nädalal 4+ tundi",
+    "primaryCta": "Alusta Gmail",
+    "secondaryCta": "Alusta Outlook",
+    "trialNote": "Tasuta 14-päevane prooviperiood",
+    "cancelNote": "Tühistage igal ajal"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Kohene kategoriseerimine",
+      "AI-toega vastused"
+    ],
+    "windowTitle": "Postkast",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "15:42",
+      "14:18",
+      "10:05 AM",
+      "eile"
+    ],
+    "autodraftLabel": "Automaatne mustand",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Toote turuletuleku ajaskaala",
+        "preview": "Hei! Tahtsin stardivarasid kontrollida. Kas oleme järgmiseks nädalaks ikka õigel teel...",
+        "pill": "Et vastata"
+      },
+      {
+        "from": "Emma park",
+        "avatarLetter": "E",
+        "subject": "Kiire sünkroonimine täna pärastlõunal?",
+        "preview": "Oleks hea meelega kursis teekaardi uuendustega. Kas olete kella 16 paiku vaba...",
+        "pill": "Koosolek"
+      },
+      {
+        "from": "Turundus",
+        "avatarLetter": "M",
+        "subject": "Kampaania tulemused on valmis",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Teie pood on mustaks reedeks valmis",
+        "pill": "Kampaaniad"
+      }
+    ],
+    "autodraft": "Tere Alex! Jah, me oleme õigel teel. Disainimeeskond lõpetas varad eile ja ma saadan lõplikud failid EOD-ga täna üle."
+  },
+  "logos": {
+    "ariaLabel": "Klientide logod",
+    "headingPrefix": "Usaldab tulevikku vaatavalt",
+    "headingHighlight": "spetsialistid ja meeskonnad",
+    "headingSuffix": "kogu maailmas"
+  },
+  "features": {
+    "ariaLabel": "Omadused",
+    "eyebrow": "Teie postkast, ülelaaditud",
+    "title": "Teie postkast ei tohiks teie päeva kuuluda",
+    "subtitle": "Muutke kaos selguseks tehisintellektiga, mis teid tegelikult teeb.\nSäästke iga nädal 3+ tundi, kasutades numbrite Gmail ja Outlook jaoks nutikaimat meiliabi.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "Saatke mustandid, mis kõlavad nagu teie",
+        "description": "Duet Tehisintellekti meilikirjutaja koostab teie kõige olulisemate meilide jaoks mustandid. See õpib teie tooni ja kirjutamisstiile.",
+        "ariaLabel": "Saatke mustandid, mis kõlavad nagu teie",
+        "mockCopy": {
+          "draftedColdEmail": "Koostasin Johnile isikupärastatud külma meili",
+          "sampleText": "AI torujuhtmed on olulised tugevate, skaleeritavate ja tõhusate AI-süsteemide ehitamiseks.",
+          "readyToSend": "Kas olete saatmiseks valmis?",
+          "remindFollowUp": "Tuleta mulle meelde, et ma jälgiksin."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Kiired kokkuvõtted ja tegevusüksused",
+        "description": "Hankige TL;DR ja tegevusüksused oma meili sisust sekunditega. Enam ei loe oma postkastis romaane.",
+        "ariaLabel": "Kiired kokkuvõtted ja tegevusüksused",
+        "mockCopy": {
+          "sentencePrefix": "Ma pakun meile",
+          "sentenceHighlight": "kohtume järgmisel nädalal",
+          "sentenceSuffix": "?",
+          "actionTitle": "Uus tegevusüksus",
+          "actionLead": "Leidsin teie kalendrist need vabad kohad",
+          "slots": [
+            "Teisipäeval, kell 10 hommikul",
+            "Neljapäeval, kell 14.00",
+            "Reedel, kell 9"
+          ],
+          "secondaryButton": "Otsige rohkem",
+          "primaryButton": "Saada"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Intelligentsed meeldetuletused",
+        "description": "Seadke see ja unustage see. Duet AI peab meeles pidama, et tuleb järgida, kui teised ei reageeri, nii et midagi ei kuku läbi.",
+        "ariaLabel": "Arukad meeldetuletused",
+        "mockCopy": {
+          "header": "AI-toega nutikad meeldetuletused",
+          "stats": [
+            {
+              "label": "Järeltegevus",
+              "value": "12",
+              "unit": "meilid"
+            },
+            {
+              "label": "Et vastata",
+              "value": "2",
+              "unit": "meilid"
+            },
+            {
+              "label": "Lõpetatud",
+              "value": "3",
+              "unit": "tegevusüksused"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Täitke kirjutamisülesanded",
+              "time": "2 päeva tagasi"
+            },
+            {
+              "title": "Projekti integreerimine",
+              "time": "12 tundi tagasi"
+            }
+          ],
+          "actions": [
+            "Jälgi",
+            "Ajastada ümber?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Keskendu sellele, mis on oluline",
+        "description": "Nutikas kategoriseerimine toob kõigepealt esile teie kõige olulisemad meilid ja liigitab meilid teemade kaupa. Meilihaldus pole kunagi olnud lihtsam.",
+        "ariaLabel": "Keskendu sellele, mis on oluline",
+        "mockCopy": {
+          "analyzing": "ANALYZING"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "Meilide korraldamine ja nutikas postkasti kategoriseerimine",
+    "badge": "Organisatsioon",
+    "title": "Duet korraldab teie postkasti",
+    "subtitle": "Automaatne kategoriseerimine filtreerib müra ja toob esile olulise. Näete kohe, mis vajab tegutsemist, mis on lihtsalt teadmiseks ja mis võib oodata.",
+    "windowTitle": "Postkast",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "14:34",
+      "11:05 AM",
+      "9:22 AM",
+      "eile",
+      "20. detsember"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "4. kvartali eelarve ülevaatamise taotlus",
+        "preview": "Lõplikud numbrid on lisatud. Palun vaadake üle EOD.",
+        "pill": "Vajalik tegevus"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Homme kell 10",
+        "pill": "Koosolek"
+      },
+      {
+        "from": "Disainimeeskond",
+        "avatarLetter": "D",
+        "subject": "Avaldatud uued brändijuhised",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Teie igakuine väljavõte on valmis",
+        "pill": "Kampaaniad"
+      },
+      {
+        "from": "Infoleht",
+        "subject": "Iganädalane kokkuvõte",
+        "pill": "Kampaaniad"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI e-kirjade koostamine ja vastuste genereerimine",
+    "badge": "Kavandamine",
+    "title": "Duet mustandid teie häälega",
+    "subtitle": "Duet õpib, kuidas kirjutate, ja koostab teie toonile vastavad vastused. Review, adjust if needed, and send in seconds.",
+    "windowTitle": "Uus sõnum",
+    "fieldLabels": {
+      "to": "Saaja:",
+      "subject": "Teema:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Kiire sünkroonimine sel nädalal?",
+      "originalFrom": "Alex Rivera kirjutas:",
+      "originalText": "Hei! Oleks hea meelega kursis teekaardi muudatustega. Kas teil on sel nädalal tasuta 30-minutiline kõne? Andke mulle teada, mis teie jaoks töötab.",
+      "badge": "Automaatselt koostatud",
+      "lines": [
+        "Tere Alex!",
+        "Tahaks sünkroonida teekaardil. Mul on vaba neljapäev 14–16 või reede hommik – kumbki sobib mulle suurepäraselt.",
+        "Andke mulle teada, mis teile kõige paremini sobib ja saadan kutse.",
+        "Aitäh!"
+      ],
+      "highlightText": "Olen vaba neljapäeval 14-16 või reede hommikul",
+      "actions": [
+        "Saada",
+        "Muuda"
+      ],
+      "tooltipTitle": "Isikupärastatud mustand",
+      "tooltipFeatures": [
+        "Teab teie kalendrit",
+        "Mustandid teie hääles",
+        "Teab konteksti mälu kaudu",
+        "Õpib aja jooksul"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI e-posti luure ja assistent",
+    "badge": "Intelligentsus",
+    "title": "Küsige midagi oma meili kohta",
+    "subtitle": "Paluge Duet meilide leidmiseks, kalendri kontrollimiseks või vastuse mustandiks. See mõistab teie postkasti ja vastab koheselt.",
+    "windowTitle": "Duet Agent",
+    "onlineLabel": "Internetis",
+    "initialUserMessage": "Kas leiate raamatupidamise saadetud arve Stripe?",
+    "processingText": "Postkasti otsimine...",
+    "foundHeader": "Leiti 2 meili aadressilt Stripe",
+    "foundBody": "Leidsin 24. oktoobril kviitungi $29.00 USD kohta.",
+    "attachment": {
+      "fileName": "arve_okt24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Koostage vastus"
+      },
+      {
+        "action": "calendar",
+        "label": "Leia aega kohtumiseks"
+      }
+    ],
+    "inputPlaceholder": "Küsi midagi...",
+    "dynamicResponses": {
+      "processingDefault": "Töötlemine...",
+      "processingDraft": "Mustandi genereerimine...",
+      "processingCalendar": "Saadavuse kontrollimine...",
+      "draftIntro": "Siin on raamatupidamise vastuse mustand:",
+      "draftHeader": "Eelnõu: accounting@company.com",
+      "draftLines": [
+        "Tere meeskond,",
+        "Lisatud on oktoobri arve Stripe (29,00 dollarit).",
+        "Andke mulle teada, kui vajate midagi muud.",
+        "Parim,"
+      ],
+      "draftActions": [
+        "Saada meil",
+        "Muuda"
+      ],
+      "calendarIntro": "Sul on homme avatud 3 kohta:",
+      "calendarSlots": [
+        {
+          "time": "9:30",
+          "duration": "30 min"
+        },
+        {
+          "time": "14:00",
+          "duration": "30 min"
+        },
+        {
+          "time": "16:30",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Kas ka vastuse koostamine?",
+        "calendarAfterDraft": "Kas planeerida ka järelkontroll?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Iseloomustused",
+    "scrollingAriaLabel": "Kerivad iseloomustused",
+    "eyebrow": "Iseloomustused",
+    "title": "Armastatud hõivatud spetsialistide poolt",
+    "subtitle": "Päris inimesed. Päris postkast võidab.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Vabakutseline",
+        "quote": "Igat senti väärt. Aeg, mille ma meili pealt säästan, maksab Duet Mail 10 korda rohkem. Ei kujutaks praegu ettegi ilma selleta töötamist.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Müügijuht",
+        "quote": "Pikkade meililõimede kiirkokkuvõtted on puhas võlu ja nii kasutajasõbralikud. Minu kliendid arvavad, et olen üliinimene.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Ettevõtja",
+        "quote": "Olin skeptiline tehisintellekti kasutamise suhtes minu meilide jaoks. Nüüd on see nagu suurepärane abiline. Ei kujuta ette tagasiminekut.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "konsultant",
+        "quote": "Konsultandina loeb iga minut. Duet Mail ei säästa ainult aega – see muudab mu meilisuhtluse teravamaks.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "turundusdirektor",
+        "quote": "Lõpuks AI postiassistent, kes tegelikult õpib, kuidas ma kirjutan. Kiirvastused on nii täpsed, et mu meeskond arvas, et töötan südaööl.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Hinnakujundus",
+    "eyebrow": "Hinnakujundus",
+    "heading": "Lihtne hind, võimas postkast",
+    "subheading": "Alustage tasuta, uuendage igal ajal. Tühistage millal iganes.",
+    "billingLegend": "Arveldussagedus",
+    "billingAnnual": "Aastane",
+    "billingMonthly": "Igakuine",
+    "savingsTag": "Säästa 33%",
+    "priceCadence": "/kuus",
+    "perUserSuffix": "/kasutaja",
+    "annualBillingSuffix": "(arvestatakse igal aastal)",
+    "trustItems": [
+      "Turvaline maksmine Stripe kaudu",
+      "Tühistage igal ajal"
+    ],
+    "plans": [
+      {
+        "name": "Põhiline",
+        "description": "Kõigile, kes tahavad teada, milline on nutikam postkast. Pühendumist pole vaja.",
+        "priceLabel": "Free",
+        "features": [
+          {
+            "title": "Kiired kokkuvõtted",
+            "description": "Saate aru mis tahes lõime olemusest"
+          },
+          {
+            "title": "AI mustandid",
+            "description": "Vastuste maitse teie hääles"
+          },
+          {
+            "title": "Nutikas postkast",
+            "description": "Alustamiseks põhiline korraldus"
+          },
+          {
+            "title": "Duet assistent",
+            "description": "Proovige AI-assistenti"
+          }
+        ],
+        "ctaLabel": "Valige Gmail või Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "14-päevane tasuta prooviperiood",
+        "description": "Professionaalidele, kes soovivad sügavamat automatiseerimist, integreerimist ja postkasti, mis teaks tõeliselt teie tööd.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Nutikas postkast",
+            "description": "Meilid sorteeritakse automaatselt nutikatesse kategooriatesse",
+            "highlight": true
+          },
+          {
+            "title": "AI mustandid",
+            "description": "Teie häälega kirjutatud vastused, saatmiseks valmis",
+            "highlight": true
+          },
+          {
+            "title": "Duet assistent",
+            "description": "Vestelge, et otsida, koostada, korraldada ja palju muud",
+            "highlight": true
+          },
+          {
+            "title": "Kalendri integreerimine",
+            "description": "Planeerige, vaadake ja hallake sündmusi oma postkastis"
+          },
+          {
+            "title": "Kiired kokkuvõtted",
+            "description": "Saate aru mis tahes niidi või manuse põhiolemusest"
+          },
+          {
+            "title": "Nutikad meeldetuletused",
+            "description": "Järelmeetmed ilmuvad automaatselt, nii et miski ei libise"
+          },
+          {
+            "title": "Prioriteetne tugi",
+            "description": "Tõelised inimesed, kiired vastused"
+          }
+        ],
+        "ctaLabel": "Valige Gmail või Outlook",
+        "featured": true
+      },
+      {
+        "name": "Ettevõtlus",
+        "description": "Organisatsioonide jaoks, mis vajavad ettevõtte tasemel skaalat, spetsiaalset tuge ja kohandatud töövooge. Parim 50+ meeskondade jaoks.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Kõik Pro",
+            "description": "Kõik funktsioonid on kaasas"
+          },
+          {
+            "title": "Pühendatud tugi",
+            "description": "Isiklik kontohaldur"
+          },
+          {
+            "title": "Meeskonna analüüs",
+            "description": "Teie organisatsiooni ülevaated"
+          },
+          {
+            "title": "Jagatud töövood",
+            "description": "Mallid ja automaatika meeskondadele"
+          }
+        ],
+        "ctaLabel": "Võtke ühendust müügiga",
+        "ctaNote": "Saadaval kohandatud hinnakujundus"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Korduma kippuvad küsimused",
+    "eyebrow": "FAQ",
+    "headingPrefix": "Levinud küsimused,",
+    "headingAccent": "vastas",
+    "contactDecorative": "?",
+    "contactLabel": "CONTACT",
+    "contactHeading": "Kas teil on endiselt küsimusi?",
+    "contactCta": "Võtke ühendust →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[-]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Kuidas Duet Mail minu meiliandmeid kaitseb?",
+        "answer": "Teie turvalisus on meie prioriteet. Kasutame OAuth 2.0 turvaliseks autentimiseks nii numbritega Google kui ka Microsoft. Meili sisu krüpteeritakse puhkeolekus kliendipoolse väljataseme krüptimise abil ja me järgime API-juurdepääsul minimaalsete privileegide põhimõtet. Oma Google integreerimiseks läbime Google iga-aastase CASA turvahindamise."
+      },
+      {
+        "question": "Kuidas meili kokkuvõtte funktsioon töötab?",
+        "answer": "Duet Mail kasutab täiustatud AI-d, et analüüsida teie meililõime ja luua lühike ülevaade, mis tõstab esile põhipunktid, otsused ja tegevusüksused. See aitab teil kontekstist kiiresti aru saada ilma kogu lõime lugemata."
+      },
+      {
+        "question": "Milliseid õigusi Duet Mail vajab?",
+        "answer": "Duet Mail nõuab juurdepääsu teie meilidele, et teha kokkuvõtteid, ekstraktida tegevusüksusi, luua sisu ja saata e-kirju. Küsime ainult neid õigusi, mida me tingimata vajame. Saate need õigused igal ajal üle vaadata ja tühistada jaotises Google Konto või Microsoft Konto seadetes."
+      },
+      {
+        "question": "Mida tasuta prooviversioon sisaldab?",
+        "answer": "14-päevane tasuta prooviversioon sisaldab täielikku juurdepääsu kõikidele Pro funktsioonidele: piiramatule meilikokkuvõtetele, tegevusüksuste ekstraheerimisele, tehisintellekti meilikirjutajale (piiranguteta meilide ja mustandite genereerimine) ja kohandatud meilimallidele. Logige sisse numbritega Google või Microsoft, et säästa aega meilide haldamisel."
+      },
+      {
+        "question": "Kas ma saan kasutada numbrit Duet Mail koos teiste meiliteenuse pakkujatega?",
+        "answer": "Duet Mail toetab Gmail, Google tööruumi ja Microsoft Outlook. Alustamiseks logige sisse oma Google või Microsoft kontoga."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Alustage",
+    "headline": "Saa 4 tundi tagasi.\nIga nädal.",
+    "subline": "Liituge professionaalidega, kes alustavad oma päeva selgelt, mitte kaosega. Teie tasuta prooviperiood ootab.",
+    "primaryCta": "Alusta Gmail",
+    "secondaryCta": "Alusta Outlook",
+    "note": "14-päevane tasuta prooviperiood · Tühistage igal ajal",
+    "trustItems": [
+      "Google CASA-hinnatud",
+      "Krüpteeritud puhkeolekus",
+      "Turvaline OAuth 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Saidi jalus",
+    "brandIconAlt": "Duet Mail ikoon",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail – tehisintellekti e-posti assistent, mis säästab teie tunde igal nädalal",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Uurige",
+        "links": [
+          {
+            "label": "Organisatsioon",
+            "href": "/#organisatsioon"
+          },
+          {
+            "label": "Kavandamine",
+            "href": "/#kavandamine"
+          },
+          {
+            "label": "Intelligentsus",
+            "href": "/#intelligentsus"
+          },
+          {
+            "label": "Chrome'i laiendus",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Kliendid",
+        "links": [
+          {
+            "label": "Hinnakujundus",
+            "href": "/#hinnakujundus"
+          },
+          {
+            "label": "Iseloomustused",
+            "href": "/#tunnistused"
+          },
+          {
+            "label": "FAQ",
+            "href": "/#faq"
+          }
+        ]
+      },
+      {
+        "title": "Juriidiline",
+        "links": [
+          {
+            "label": "Privaatsus",
+            "href": "/privaatsus"
+          },
+          {
+            "label": "Tingimused",
+            "href": "/terminid"
+          },
+          {
+            "label": "Küpsised",
+            "href": "/küpsised"
+          },
+          {
+            "label": "Vastutusest loobumine",
+            "href": "/ lahtiütlemine"
+          }
+        ]
+      },
+      {
+        "title": "Ühendage",
+        "links": [
+          {
+            "label": "Blogi",
+            "href": "/blogi"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup Fame",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Investeeringutasuvus",
+    "label": "Matemaatika",
+    "narrativeTemplate": "{pricePerBooking} {bookingUnit} kohta, kaotades aeglaste vastuste korral vaid {lostPerMonth} =",
+    "lossSuffix": "/mo läinud",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "30 dollarit kuus"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet – tehisintellekti e-posti assistent numbritele Gmail ja Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Klienditugi",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "Tehisintellekti e-posti assistent numbritele Gmail ja Outlook, mis teeb meilidest automaatselt kokkuvõtte, koostab teie häälega vastused ja korrastab teie postkasti, et säästa tunde igal nädalal.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Nutikas meilikorraldus ja kategoriseerimine",
+      "AI-toega meilide koostamine teie häälega",
+      "Arukas meiliassistent koos kalendri integreerimisega",
+      "Automaatsed meilikokkuvõtted ja tegevusüksused",
+      "Nutikad meeldetuletused järelmeetmete jaoks"
+    ],
+    "offers": [
+      {
+        "name": "Põhiplaan",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Tasuta plaan kiirkokkuvõtete, AI mustandite ja nutika postkastiga"
+      },
+      {
+        "name": "Pro Plaan",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Täielik juurdepääs nutika postkasti kategoriseerimise, AI mustandite, assistendi ja kalendri integreerimisega"
+      }
+    ],
+    "operatingSystem": "Veeb",
+    "browserRequirements": "Nõuab JavaScripti. Töötab parameetritega Gmail, Google tööruumi ja Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/et",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Kuidas Duet Mail minu meiliandmeid kaitseb?",
+        "answer": "Teie turvalisus on meie prioriteet. Kasutame OAuth 2.0 turvaliseks autentimiseks nii numbritega Google kui ka Microsoft. Meili sisu krüpteeritakse puhkeolekus kliendipoolse väljataseme krüptimise abil ja me järgime API-juurdepääsul minimaalsete privileegide põhimõtet. Oma Google integreerimiseks läbime Google iga-aastase CASA turvahindamise."
+      },
+      {
+        "question": "Kuidas meili kokkuvõtte funktsioon töötab?",
+        "answer": "Duet Mail kasutab täiustatud AI-d, et analüüsida teie meililõime ja luua lühike ülevaade, mis tõstab esile põhipunktid, otsused ja tegevusüksused. See aitab teil kontekstist kiiresti aru saada ilma kogu lõime lugemata."
+      },
+      {
+        "question": "Milliseid õigusi Duet Mail vajab?",
+        "answer": "Duet Mail nõuab juurdepääsu teie meilidele, et teha kokkuvõtteid, ekstraktida tegevusüksusi, luua sisu ja saata e-kirju. Küsime ainult neid õigusi, mida me tingimata vajame. Saate need õigused igal ajal üle vaadata ja tühistada jaotises Google Konto või Microsoft Konto seadetes."
+      },
+      {
+        "question": "Mida tasuta prooviversioon sisaldab?",
+        "answer": "14-päevane tasuta prooviversioon sisaldab täielikku juurdepääsu kõikidele Pro funktsioonidele: piiramatule meilikokkuvõtetele, tegevusüksuste ekstraheerimisele, tehisintellekti meilikirjutajale (piiranguteta meilide ja mustandite genereerimine) ja kohandatud meilimallidele. Logige sisse numbritega Google või Microsoft, et säästa aega meilide haldamisel."
+      },
+      {
+        "question": "Kas ma saan kasutada numbrit Duet Mail koos teiste meiliteenuse pakkujatega?",
+        "answer": "Duet Mail toetab Gmail, Google tööruumi ja Microsoft Outlook. Alustamiseks logige sisse oma Google või Microsoft kontoga."
+      }
+    ]
+  }
+}

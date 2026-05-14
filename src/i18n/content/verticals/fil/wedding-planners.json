@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail para sa mga Wedding Planner | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga wedding planner na tumugon kaagad sa mga email ng kliyente at vendor — kahit na mula sa mga walkthrough ng venue. AI-drafted na mga tugon kasama ng iyong mga package, mga contact sa vendor, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 400+ wedding planner",
+  "heroHeadline": "Ang iyong email assistant habang ikaw ay on-site sa venue",
+  "heroSubline": "Natutunan ng Duet ang iyong mga contact sa vendor, mga pakete, at mga kagustuhan ng kliyente — pagkatapos ay nag-draft ng mga tugon sa email upang hindi na maghintay ang mga mag-asawa habang nakikipag-ugnayan ka sa ground.",
+  "inboxEmails": [
+    {
+      "from": "Emily at James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Availability para sa Sept 20 na kasal?",
+      "preview": "Hi! Kaka-engage lang namin at naghahanap ng kasal sa ika-20 ng Setyembre para sa mga 120 bisita. May availability ka ba? Ano ang iyong mga pakete...",
+      "pill": "Upang Tumugon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson wedding — centerpiece mockups",
+      "preview": "Narito ang tatlong opsyon sa centerpiece na aming tinalakay. Ang ganda ng mga garden roses na pumasok. Ipaalam sa akin kung saang direksyon gustong puntahan ng mag-asawa...",
+      "pill": "Nagtitinda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Kinakabahan tungkol sa seating chart",
+      "preview": "Alam kong na-finalize namin ang chart noong nakaraang linggo ngunit nag-RSVP lang ang nanay ko ng 4 na dagdag na tao at wala akong ideya kung saan sila ilalagay. Maaari ba tayong magpalipat-lipat ng ilang mesa...",
+      "pill": "Kliyente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Ang Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Bagong pagtatanong mula sa iyong listahan",
+      "preview": "Ang isang mag-asawa ay humiling ng higit pang impormasyon tungkol sa iyong mga serbisyo. Tingnan ang mga detalye at tumugon...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Kumusta Emily at James — binabati kita sa iyong pakikipag-ugnayan! Available ang ika-20 ng Setyembre at perpektong sukat ang 120 bisita. Nag-aalok ako ng buong pagpaplano, bahagyang pagpaplano, at araw-ng mga pakete ng koordinasyon. Gusto kong mag-set up ng komplimentaryong konsultasyon para matutunan ang iyong pananaw. Libre ka ba para sa isang mabilis na tawag ngayong linggo?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "kasal",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Ang isang naka-save na kliyente ay nagbabayad para sa higit sa 20 taon ng Duet."
+  },
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga bagong tanong ng mag-asawa, pangalawa ang mga pagkumpirma ng vendor, at hindi kailanman ingay sa newsletter. Wala nang nawawalang kahilingan sa pag-book na nakabaon sa ilalim ng mga alerto sa Knot.",
+  "draftSubtitle": "Natutunan ng Duet ang iyong mga pakete, gustong vendor, at tono. Kapag nagtanong ang isang mag-asawa, nag-draft ito ng mainit at kumpletong tugon kasama ang iyong availability at mga susunod na hakbang. I-review at ipadala mo.",
+  "agentSubtitle": "\"Anong mga email ng vendor ang pumasok para sa kasal ni Thompson?\" \"Mag-draft ng update sa timeline sa lahat ng vendor para sa Sabado.\" Alam ng duet ang iyong inbox at mga kliyente — magtanong lang.",
+  "categorizationEmails": [
+    {
+      "from": "Emily at James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Availability para sa Sept 20 na kasal?",
+      "preview": "Kaka-engage lang namin at tumitingin sa September 20...",
+      "pill": "Tumugon Ngayon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson wedding — centerpiece mockups",
+      "pill": "Nagtitinda",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Seating chart — nakalakip na huling bersyon",
+      "pill": "Kliyente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Ang Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Bagong pagtatanong mula sa iyong listahan",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Minted",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "20% diskwento sa mga save-the-date ngayong linggo",
+      "pill": "Mga promosyon",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Availability para sa Sept 20 na kasal?",
+    "originalFrom": "Sumulat sina Emily at James W.:",
+    "originalText": "Hi! Kaka-engage lang namin at naghahanap ng kasal sa ika-20 ng Setyembre para sa mga 120 bisita. May availability ka ba? Ano ang iyong mga pakete at pagpepresyo?",
+    "lines": [
+      "Hi Emily at James — congratulations!",
+      "Available ang ika-20 ng Setyembre at napakagandang laki ng 120 bisita. Nag-aalok ako ng buong pagpaplano, bahagyang pagpaplano, at araw ng mga pakete ng koordinasyon simula sa $3,500.",
+      "Gusto kong mag-set up ng komplimentaryong konsultasyon para marinig ang iyong paningin at gabayan ka kung aling pakete ang pinakaangkop.",
+      "Libre ka ba para sa isang tawag ngayong linggo?"
+    ],
+    "highlightText": "Available ang ika-20 ng Setyembre at napakagandang laki ng 120 bisita",
+    "tooltipFeatures": [
+      "Alam ang iyong mga pakete at availability",
+      "Mga draft sa iyong boses",
+      "Kasama ang konsultasyon sa mga susunod na hakbang",
+      "Natututunan ang mga kagustuhan ng iyong kliyente"
+    ]
+  },
+  "agent": {
+    "userMessage": "Anong mga email ng vendor ang pumasok para sa kasal ni Thompson ngayong linggo?",
+    "agentResponse": "Nakatanggap ka ng 4 na email ng vendor para sa kasal ni Thompson ngayong linggo: Nagpadala si Bella Rosa Florals ng mga centerpiece mockup (naghihintay sa pagpili ng mag-asawa), kinumpirma ng Lakeside Venue ang pag-eensayo ng seremonya para sa Biyernes nang 4 PM, ipinadala ni DJ Marco ang na-update na listahan ng kanta, at kailangan ng Sweet Layers Bakery ng final cake flavor sa Miyerkules. Gusto ko bang mag-draft ng mga tugon sa alinman sa mga ito?",
+    "followUp": "Bumuo ng tugon kay Bella Rosa kasama ang pinili ng mag-asawa — Opsyon B, ang mga rosas sa hardin",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon kay Bella Rosa Florals na nagkukumpirma sa Opsyon B — ang garden rose centerpieces para sa kasal ni Thompson. May kasama itong tala upang magpatuloy sa buong order para sa 14 na talahanayan. Handa nang suriin at ipadala."
+  },
+  "testimonialsTitle": "Mahal ng mga wedding planner",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Boutique Wedding Planner, CO",
+      "quote": "Ako ay nasa mga lugar ng bundok na walang cell service sa kalahati ng aking linggo. Samantala, ang mga mag-asawa ay nag-email sa akin tungkol sa mga timeline at mga tanong sa vendor. Ang mga draft ng duet ay tumutugon sa aking eksaktong mga pakete at tono — sinusuri ko ang mga ito kapag bumalik na ako sa hanay.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Full-Service na Wedding Planner, CA",
+      "quote": "Ang pag-coordinate ng 10+ vendor sa bawat kasal ay nangangahulugan na ang aking inbox ay isang war zone sa panahon ng peak season. Pinaghihiwalay ng duet ang mga email ng vendor mula sa mga email ng kliyente at mga draft na follow-up na ako mismo ang sumulat. Tulog na talaga ako ngayon.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Araw ng Coordinator, TX",
+      "quote": "Sa mga araw ng kasal, hindi ako available ng 14 na oras. Ang mga bagong katanungan ay dating hindi nasasagot hanggang Lunes. Ngayon ang Duet ay agad na humahawak sa kanila at nag-book ako ng 3 dagdag na kasal ngayong quarter mula sa mas mabilis na mga oras ng pagtugon nang mag-isa.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Destination Wedding Planner, HI",
+      "quote": "Lumipad ang aking mga mag-asawa mula sa buong mundo at mag-email sa lahat ng oras. Nalaman ng duet ang aking FAQ na mga sagot — logistik ng venue, mga lokal na vendor, kung ano ang aasahan — at mga draft na tugon na katulad ko. Walang ideya ang mga kliyente.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Planner ng Kasal at Kaganapan, NY",
+      "quote": "Gumugugol ako ng 2 oras bawat gabi sa pagsagot sa parehong pakete at mga tanong sa availability. Pinangangasiwaan ng duet ang mga paulit-ulit na bagay para makapag-focus ako sa malikhaing gawain na talagang gusto ko. Binayaran nito ang sarili nito sa unang linggo.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Dumalo sa seremonya, \nhindi nakabaon sa iyong inbox.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
+  "verticalFaqs": [
+    {
+      "question": "Gumagana ba ang Duet sa lahat ng email ng koordinasyon ng vendor?",
+      "answer": "Oo. Natutunan ng Duet ang iyong mga contact sa vendor, mga gustong vendor, at kung paano ka nakikipag-usap sa bawat isa. Kinakategorya nito ang mga email ng vendor ayon sa kasal at mga draft na tugon na may mga tamang detalye — mga kumpirmasyon, follow-up, mga update sa timeline. I-review at ipadala mo. Pinangangasiwaan nito ang mga florist, caterer, venue, DJ, photographer, at bawat iba pang vendor sa iyong rolodex."
+    },
+    {
+      "question": "On-site ako sa mga kasalan at venue buong araw. Makaligtaan ko ba ang mga bagong katanungan?",
+      "answer": "Ganyan talaga ang solusyon ng Duet. Kapag may mag-asawang email na nagtatanong tungkol sa availability o mga package habang nakikipag-ugnayan ka on-site, nag-draft ang Duet ng isang mainit at propesyonal na tugon kasama ang iyong tunay na kakayahang magamit at mga susunod na hakbang. Nagsusuri at nagpapadala ka sa tuwing libre ka — kahit na mula sa iyong telepono sa pagitan ng mga kaganapan. Sinasabi sa amin ng karamihan sa mga tagaplano na nakakatipid ito sa kanila ng 1-2 oras ng oras ng email bawat araw sa panahon ng peak season."
+    }
+  ],
+  "pricingNote": "Sa $8,000/kasal, ang isang naka-save na kliyente ay magbabayad ng higit sa 20 taon ng Pro."
+}

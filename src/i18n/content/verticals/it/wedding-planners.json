@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail per Wedding Planner | Assistente e-mail AI",
+  "metaDescription": "Duet Mail aiuta i wedding planner a rispondere istantaneamente alle e-mail di clienti e fornitori, anche durante le procedure dettagliate della sede. Risposte redatte dall'intelligenza artificiale con i tuoi pacchi, i contatti dei fornitori e la voce.",
+  "heroBadge": "Scelto da oltre 400 wedding planner",
+  "heroHeadline": "Il tuo assistente email mentre sei sul posto presso la sede",
+  "heroSubline": "Duet apprende i contatti dei fornitori, i pacchetti e le preferenze dei clienti, quindi elabora le risposte via email in modo che le coppie non aspetteranno mai mentre ti coordini sul campo.",
+  "inboxEmails": [
+    {
+      "from": "Emily e James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Disponibilità per il matrimonio del 20 settembre?",
+      "preview": "Ciao! Ci siamo appena fidanzati e stiamo organizzando un matrimonio per il 20 settembre con circa 120 invitati. Hai disponibilità? Quali sono i vostri pacchetti...",
+      "pill": "Per rispondere",
+      "pillColor": "red"
+    },
+    {
+      "from": "Fiori Bella Rosa",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Ri: Matrimonio Thompson: modelli di centrotavola",
+      "preview": "Ecco le tre opzioni centrali di cui abbiamo discusso. Le rose del giardino sono arrivate magnificamente. Fatemi sapere in che direzione vuole andare la coppia...",
+      "pill": "Venditore",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Sto impazzendo per la mappa dei posti a sedere",
+      "preview": "So che abbiamo finalizzato la classifica la scorsa settimana, ma mia madre ha appena risposto a 4 persone in più e non ho idea di dove metterle. Possiamo spostare qualche tavolo...",
+      "pill": "Cliente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Il nodo",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nuova richiesta dalla tua inserzione",
+      "preview": "Una coppia ha richiesto maggiori informazioni sui vostri servizi. Visualizza i dettagli e rispondi...",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ciao Emily e James, congratulazioni per il vostro fidanzamento! Il 20 settembre è disponibile e 120 ospiti sono una dimensione perfetta. Offro pacchetti di pianificazione completa, pianificazione parziale e giorno di coordinamento. Mi piacerebbe fissare una consulenza gratuita per conoscere la tua visione. Sei libero per una chiamata veloce questa settimana?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "matrimonio",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Un cliente salvato paga per oltre 20 anni di Duet."
+  },
+  "categorizationSubtitle": "Duet tagga automaticamente ogni e-mail in modo da visualizzare prima le richieste di nuove coppie, poi le conferme dei fornitori e mai il rumore delle newsletter. Non perderai più una richiesta di prenotazione sepolta sotto gli avvisi di Knot.",
+  "draftSubtitle": "Duet apprende i tuoi pacchetti, i fornitori preferiti e il tono. Quando una coppia chiede informazioni, redige una risposta calorosa e completa con la tua disponibilità e i passaggi successivi. Rivedi e invii.",
+  "agentSubtitle": "\"Quali e-mail di fornitori sono arrivate per il matrimonio di Thompson?\" \"Elabora un aggiornamento della cronologia per tutti i fornitori per sabato.\" Duet conosce la tua casella di posta e i tuoi clienti: basta chiedere.",
+  "categorizationEmails": [
+    {
+      "from": "Emily e James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Disponibilità per il matrimonio del 20 settembre?",
+      "preview": "Ci siamo appena fidanzati e pensiamo al 20 settembre...",
+      "pill": "Rispondi adesso",
+      "pillColor": "red"
+    },
+    {
+      "from": "Fiori Bella Rosa",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Ri: Matrimonio Thompson: modelli di centrotavola",
+      "pill": "Venditore",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Ri: Disposizione dei posti a sedere – versione finale allegata",
+      "pill": "Cliente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Il nodo",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nuova richiesta dalla tua inserzione",
+      "pill": "Per tua informazione",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Coniato",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "20% di sconto sulle date salvate questa settimana",
+      "pill": "Promozioni",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Ri: Disponibilità per il matrimonio del 20 settembre?",
+    "originalFrom": "Emily e James W. hanno scritto:",
+    "originalText": "Ciao! Ci siamo appena fidanzati e stiamo organizzando un matrimonio per il 20 settembre con circa 120 invitati. Hai disponibilità? Quali sono i vostri pacchetti e prezzi?",
+    "lines": [
+      "Ciao Emily e James, congratulazioni!",
+      "Il 20 settembre è disponibile e 120 ospiti sono una dimensione meravigliosa. Offro pacchetti di pianificazione completa, pianificazione parziale e coordinamento giornaliero a partire da $ 3.500.",
+      "Mi piacerebbe fissare una consulenza gratuita per ascoltare la tua visione e guidarti attraverso il pacchetto più adatto.",
+      "Sei libero per una chiamata questa settimana?"
+    ],
+    "highlightText": "Il 20 settembre è disponibile e 120 ospiti sono una dimensione meravigliosa",
+    "tooltipFeatures": [
+      "Conosce i tuoi pacchetti e la tua disponibilità",
+      "Bozze nella tua voce",
+      "Include la consultazione dei passaggi successivi",
+      "Impara le preferenze del tuo cliente"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quali e-mail di fornitori sono arrivate per il matrimonio di Thompson questa settimana?",
+    "agentResponse": "Hai ricevuto email da 4 fornitori per il matrimonio di Thompson questa settimana: Bella Rosa Florals ha inviato modelli di centrotavola (in attesa della scelta della coppia), Lakeside Venue ha confermato le prove della cerimonia per venerdì alle 16:00, DJ Marco ha inviato l'elenco aggiornato dei brani e Sweet Layers Bakery ha bisogno del sapore finale della torta entro mercoledì. Vuoi che rediga una bozza di risposta a qualcuno di questi?",
+    "followUp": "Scrivi una risposta a Bella Rosa con la scelta della coppia: Opzione B, le rose da giardino",
+    "followUpResponse": "Fatto! Ho redatto una risposta a Bella Rosa Florals confermando l'Opzione B: i centrotavola di rose da giardino per il matrimonio di Thompson. Include una nota per procedere con l'ordine completo per 14 tavoli. Pronto per la revisione e l'invio."
+  },
+  "testimonialsTitle": "Amato dai wedding planner",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Organizzatore di matrimoni in boutique, CO",
+      "quote": "Sono in luoghi di montagna con servizio zero cell per metà settimana. Nel frattempo le coppie mi stanno inviando e-mail su tempistiche e domande sui fornitori. Duet bozza delle risposte con i miei pacchetti e toni esatti: le rivedo quando torno a portata di mano.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Organizzatore di matrimoni a servizio completo, CA",
+      "quote": "Coordinare più di 10 fornitori per matrimonio significa che la mia casella di posta è una zona di guerra durante l'alta stagione. Duet classifica le e-mail dei fornitori separatamente dalle e-mail dei clienti e dalle bozze di follow-up che avrei scritto io stesso. In realtà adesso dormo.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sara L.",
+      "title": "Giorno del coordinatore, TX",
+      "quote": "Nei giorni del matrimonio non sono disponibile per 14 ore di fila. Le nuove richieste rimanevano senza risposta fino a lunedì. Ora Duet li gestisce istantaneamente e ho prenotato 3 matrimoni extra in questo trimestre solo grazie ai tempi di risposta più rapidi.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Destinazione Wedding Planner, Ciao",
+      "quote": "Le mie coppie arrivano da tutto il mondo e mandano email a tutte le ore. Duet ha appreso le mie risposte alle domande frequenti (logistica della sede, venditori locali, cosa aspettarsi) e bozze di risposte che suonano esattamente come me. I clienti non ne hanno idea.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Organizzatore di matrimoni ed eventi, New York",
+      "quote": "Trascorrevo 2 ore ogni notte rispondendo alle stesse domande su pacchetto e disponibilità. Duet gestisce le cose ripetitive così posso concentrarmi sul lavoro creativo che amo davvero. Si è ripagato nella prima settimana.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Essere presenti alla cerimonia,\nnon sepolto nella tua casella di posta.",
+  "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
+  "verticalFaqs": [
+    {
+      "question": "Duet funziona con tutte le e-mail di coordinamento dei fornitori?",
+      "answer": "Sì. Duet apprende i contatti dei tuoi fornitori, i fornitori preferiti e il modo in cui comunichi con ciascuno di essi. Classifica le e-mail dei fornitori in base al matrimonio e redige le risposte con i dettagli giusti: conferme, follow-up, aggiornamenti della sequenza temporale. Rivedi e invii. Gestisce fioristi, ristoratori, locali, DJ, fotografi e ogni altro venditore nel tuo rolodex."
+    },
+    {
+      "question": "Sono presente ai matrimoni e alle location tutto il giorno. Mi mancheranno nuove richieste?",
+      "answer": "Questo è esattamente ciò che risolve Duet. Quando un paio di e-mail ti chiedono informazioni sulla disponibilità o sui pacchetti mentre ti stai coordinando sul posto, Duet redige una risposta calorosa e professionale con la tua reale disponibilità e i passaggi successivi. Puoi rivedere e inviare quando sei libero, anche dal tuo telefono tra un evento e l'altro. La maggior parte dei pianificatori ci dice che risparmiano 1-2 ore di email al giorno durante l'alta stagione."
+    }
+  ],
+  "pricingNote": "A $ 8.000/matrimonio, un cliente salvato paga per oltre 20 anni di Pro."
+}

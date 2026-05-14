@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail hevosajeluille ja polkuoppaille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa polkupyöräilijöitä vastaamaan varaussähköposteihin välittömästi – jopa satulasta käsin. AI-luonnolliset vastaukset hinnoittelullasi, kuljettajavaatimuksillasi ja äänelläsi.",
+  "heroBadge": "Yli 300 polkuoppaan luottama",
+  "heroHeadline": "Sähköpostiavustajasi, kun olet matkalla",
+  "heroSubline": "Duet oppii ajotyypit, hinnoittelun, ratsastajavaatimukset ja reittiolosuhteet – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaalle vastaukselle.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Ryhmävaraus kuudelle - lauantaiaamuna?",
+      "preview": "Hei! Olemme 6-henkinen perhe (2 aikuista, 4 8-14-vuotiasta lasta) ja haluaisimme varata polkumatkan tänä lauantaiaamuna. Onko sinulla saatavuutta? Mikä on hinta per henkilö?",
+      "pill": "Vastaus",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Painorajoituskysymys",
+      "preview": "Hei, olen kiinnostunut varaamaan kyydin, mutta halusin ensin kysyä painovaatimuksistasi. Olen noin 260 kiloa - tuleeko siitä ongelma...",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Auringonlaskun kyyti vuosipäiväksi?",
+      "preview": "Vietämme 10-vuotispäivää ensi viikonloppuna ja näimme auringonlaskun kyydissä Instagram:llä. Onko saatavilla perjantai-iltana? Erikoispaketteja...",
+      "pill": "Varaus",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uusi arvostelu yrityksellesi",
+      "preview": "Matkustaja arvosteli äskettäin yrityksesi. Katso mitä heillä oli sanottavaa ja vastaa...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Jessica! Lauantaiaamu on avoinna 6. Polkumatkamme ovat 100 dollaria/hlö ja ne kulkevat laakson läpi noin 90 minuuttia. Yli 8-vuotiaat lapset ovat tervetulleita – kaikki ovat tervetulleita mukaan. Tarvitaan umpikärkiset kengät, ja tarjoamme kypärät. Haluatko, että varaan sinut klo 9.00 kyydille?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "-ajo",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Yksi säästetty ryhmämatka maksaa yli kahden vuoden Duet in."
+  },
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, ajajan kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt ryhmäkysely ei enää jää huomaamatta.",
+  "draftSubtitle": "Duet oppii ajotyylisi, hinnoittelusi ja vaatimukset. Kun varauskysely osuu, se laatii täydellisen vastauksen, jossa on tiedot reitistä, hinnoittelusta ja pukeutumisesta. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Onko ajeluja auki tänä viikonloppuna?\" \"Luonnos vastaus Jessicalle lauantain saatavuuden mukaan.\" Duet tuntee postilaatikkosi ja kalenterisi – kysy vain.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Ryhmävaraus kuudelle - lauantaiaamuna?",
+      "preview": "Olemme 6-henkinen perhe, joka haluaa varata polkumatkan...",
+      "pill": "Vastaa nyt",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Auringonlaskun kyyti vahvistettu – perjantai klo 17.30",
+      "pill": "varattu",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Painorajoitus ja kokemusvaatimukset?",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Viikoittainen varausyhteenveto",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Traktoritarvikkeet",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Kevään alennus – 15 %:n alennus rehuista ja tackista",
+      "pill": "tarjoukset",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Ryhmävaraus 6:lle - lauantaiaamuna?",
+    "originalFrom": "Jessica T. kirjoitti:",
+    "originalText": "Hei! Olemme 6-henkinen perhe (2 aikuista, 4 8-14-vuotiasta lasta) ja haluaisimme varata polkumatkan tänä lauantaiaamuna. Onko sinulla saatavuutta? Mikä on hinta per henkilö?",
+    "lines": [
+      "Hei Jessica!",
+      "Lauantaiaamu on auki kuudelle. Polkumatkat ovat 100 dollaria/henkilö ja ne kulkevat noin 90 minuuttia laakson läpi. 8-vuotiaat ja sitä vanhemmat lapset ovat tervetulleita, joten koko porukkasi on hyvä lähteä mukaan.",
+      "Suljetut kengät vaaditaan – saappaat ovat parhaat. Tarjoamme kypärät ja sovitamme jokaisen ratsastajan hevosen koon ja kokemuksen perusteella. Aikaisempaa ajokokemusta ei tarvita.",
+      "Haluatko, että lukitsen sinut kello 9:n kyytiin?"
+    ],
+    "highlightText": "Lauantaiaamu on auki 6. Polkumatkat 100 $/hlö",
+    "tooltipFeatures": [
+      "Tietää hinnoittelusi ja saatavuutesi",
+      "Luonnokset äänessäsi",
+      "Sisältää ajajan vaatimukset automaattisesti",
+      "Oppii ajan myötä"
+    ]
+  },
+  "agent": {
+    "userMessage": "Onko ajoja auki tänä viikonloppuna? Lisäksi miltä sää näyttää?",
+    "agentResponse": "Kalenterisi perusteella sinulla on aukioloajat lauantaina klo 9 ja 14 ja sunnuntaina klo 10. Lauantain sääennuste on 72 °F ja aurinkoista - täydellinen ratsastussää. Sunnuntai näyttää 40 %:n todennäköisyydellä sateen iltapäivällä, joten aamupäivä on turvallisempi veto. Haluatko, että laadin vastaukset kaikkiin odottaviin tiedusteluihin näillä aikoja?",
+    "followUp": "Laadi vastaus Jessicalle lauantain saatavuudesta",
+    "followUpResponse": "Valmis! Kirjoitin Jessicalle vastauksen, jossa vahvistettiin lauantaina klo 9.00 kuudelle ratsastajalle hintaan 100 dollaria/henkilö. Se sisältää tavalliset ratsastajavaatimukset ja pukeutumisen. Valmiina tarkastettavaksi ja lähetettäväksi."
+  },
+  "testimonialsTitle": "Polkupyöräilijöiden rakastama",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Ranch Owner & Trail Guide, MT",
+      "quote": "Olen polulla 6 tuntia päivässä ilman matkapuhelinpalvelua. Kun palasin vastaamaan, puolet ihmisistä oli varannut jonnekin muualle. Nyt Duet laatii vastaukset hinta- ja matkatietoihini – vain tarkistan ja lähetän, kun palaan navettaan.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Horseback Tour Operator, AZ",
+      "quote": "Saamme kymmeniä sähköposteja, joissa kysytään samaa – painorajoitukset, pukeutumiset, ikävaatimukset. Duet ti hoitaa kaiken ja vastaukset kuulostavat täsmälleen minulta. Vieraani eivät tiedä, että se on AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Trail Ride Guide, CO",
+      "quote": "Huippukausi tappoi minut. Yli 30 sähköpostiviestiä päivässä juoksumatkojen lisäksi. Duet lajittelee varauspyynnöt melusta ja laatii vastaukset, jotka sisältävät kaiken - hinnoittelun, tuotavan, tontin. Sain iltani takaisin.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Ratsastusopettaja ja varauspäällikkö, TX",
+      "quote": "Järjestämme auringonlaskuajeluja, aamuajeluja ja yksityistunteja – jokaisella on erilaiset hinnat ja vaatimukset. Duet oppi kaiken sen viikossa. Se laatii oikean vastauksen oikealle ajotyypille joka kerta.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "Arkaluonteiset sähköpostit olivat pahimpia – joku kysyi, ovatko ne liian raskaita tai onko hänen lapsensa tarpeeksi vanha. Duet ti käsittelee niitä yhtä huolellisesti kuin minäkin. Ammattitaitoinen, ystävällinen ja tarkka. Se yksin on sen arvoista.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Vietä päivä hevosten kanssa,\nei postilaatikossasi.",
+  "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
+  "verticalFaqs": [
+    {
+      "question": "Kuinka Duet käsittelee arkaluonteisia painoa tai kokemusta koskevia kysymyksiä?",
+      "answer": "Duet oppii sinun erityiskäytäntösi ja heijastaa sävyäsi. Kun joku kysyy painorajoista tai kokemusvaatimuksista, se vastaa ammattimaisesti ja lämpimästi – jakaa tarvitsemansa tiedot tekemättä siitä kiusallista. Asetat sävyn kerran ja Duet seuraa sitä johdonmukaisesti, joten jokainen vieras tuntee olonsa arvostetuksi."
+    },
+    {
+      "question": "Voiko Duet käsitellä ryhmävarauksia erilaisilla ratsastajatarpeilla?",
+      "answer": "Kyllä. Duet oppii ratsastustyypit, ryhmäkoot, iän vähimmäisvaatimukset ja ratsastajakohtaiset vaatimukset. Kun perhe tai ryhmä lähettää sähköpostia varauksesta, se laatii vastauksen, joka kattaa koko ryhmän hinnoittelun, mitä kunkin ratsastajan tulee tietää ja käytettävissä olevat aikaajat. Tarkistat ja lähetät – edestakaisin ei tarvita."
+    }
+  ],
+  "pricingNote": "Hinta 100 $/hlö 6 hengen ryhmälle, yksi säästetty kyyti maksaa yli kahden vuoden Pro:n."
+}

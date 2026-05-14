@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail pour les paysagistes | Assistant e-mail IA",
+  "metaDescription": "Duet Mail aide les paysagistes à répondre instantanément aux e-mails des clients — même sur le terrain. Des réponses rédigées par l’IA avec les détails de vos projets, vos tarifs et votre style.",
+  "heroBadge": "Approuvé par plus de 300 paysagistes",
+  "heroHeadline": "Votre assistant e-mail pendant que vous êtes sur le terrain",
+  "heroSubline": "Duet apprend les détails de vos projets, vos palettes végétales, vos tarifs et votre méthode — puis rédige des réponses aux e-mails pour que vous ne perdiez jamais un client à cause d’une réponse trop lente.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Réaménagement de jardin — gratuit pour une consultation ?",
+      "preview": "Bonjour ! Nous venons d’acheter une maison à Westlake et le jardin est une page blanche. Nous aimerions un réaménagement complet avec des plantations locales et une terrasse. Prenez-vous de nouveaux clients ?",
+      "pill": "À répondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Spécifications d’irrigation pour le projet Miller ?",
+      "preview": "Salut, nous sommes prêts à commencer le creusement lundi. Pouvez-vous nous envoyer le plan d’irrigation et les spécifications des têtes afin que nous puissions commander les matériaux cette semaine ?",
+      "pill": "Entrepreneur",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Question rapide sur les choix de plantes",
+      "preview": "Nous adorons le design ! Nous nous demandions simplement — peut-on remplacer l’érable du Japon par quelque chose avec plus de couleurs d’automne ? Et, la lavande est-elle résistante aux cerfs ?",
+      "pill": "Client",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Commande n°4821 prête à être retirée",
+      "preview": "Votre commande de 24 arbustes en conteneur d’un gallon, 6 arbres spécimens et des plaques de couvre-sol est prête. Retrait disponible du lun. au sam. de 7h à 16h...",
+      "pill": "Fournisseur",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Bonjour Rachel ! J’aimerais beaucoup vous aider pour votre jardin. Je réserve actuellement les consultations initiales avec 2 à 3 semaines d’avance. La première visite est une évaluation sur site de 90 minutes — j’examinerai la propriété, prendrai les mesures et discuterai de votre vision. Ensuite, je prépare un plan de concept. Voulez-vous que je vous mette au planning ?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projet",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Un projet enregistré à lui seul paie des années de Duet."
+  },
+  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes de consultation, puis les approbations clients, et jamais le bruit des fournisseurs. Plus besoin de laisser passer un prospect sous une pile de confirmations de commande en pépinière.",
+  "draftSubtitle": "Duet apprend votre tarification, votre processus et votre ton. Lorsqu’une demande de consultation arrive, il rédige une réponse complète avec vos disponibilités, ce à quoi s’attendre et les prochaines étapes. Vous relisez et envoyez.",
+  "agentSubtitle": "\"Quel est le délai sur le projet Henderson ?\" \"Quels clients attendent l’approbation du plan ?\" Duet connaît votre boîte de réception et vos projets — demandez simplement.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Réaménagement de jardin — consultation gratuite ?",
+      "preview": "Nous venons d’acheter une maison et le jardin est une page blanche...",
+      "pill": "Nouvelle demande",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re : Design final — nous sommes prêts à approuver !",
+      "pill": "Approbation client",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Spécifications d’irrigation pour le projet Miller ?",
+      "pill": "Entrepreneur",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Commande #4821 prête à retirer",
+      "pill": "Fournisseur",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Facture #1047 consultée par le client",
+      "pill": "Facture",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re : Réaménagement de jardin — consultation gratuite ?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Bonjour ! Nous venons d’acheter une maison à Westlake et le jardin est une page blanche. Nous aimerions un réaménagement complet avec des plantations locales et une terrasse. Prenez-vous de nouveaux clients ?",
+    "lines": [
+      "Bonjour Rachel !",
+      "Félicitations pour votre nouvelle maison — un jardin en page blanche, c’est franchement le projet idéal. Je prends tout à fait de nouveaux clients.",
+      "Mon processus commence par une consultation sur site de 90 minutes, au cours de laquelle j’examine le terrain, prends les mesures et discute de vos objectifs. Ensuite, j’élabore un plan conceptuel avec la conception des plantations, l’agencement des aménagements paysagers et un budget par phases.",
+      "J’ai des disponibilités dans les 2-3 prochaines semaines. Voulez-vous que je vous envoie quelques dates disponibles ?"
+    ],
+    "highlightText": "Mon processus commence par une consultation sur site de 90 minutes",
+    "tooltipFeatures": [
+      "Connaît votre processus de conception et vos tarifs",
+      "Rédige dans votre ton",
+      "Inclut automatiquement les détails de la consultation",
+      "Apprend au fil du temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quels clients attendent encore l’approbation du plan ?",
+    "agentResponse": "D’après vos e-mails récents, deux clients attendent une approbation : Jennifer & Mark L. (requalification de l’arrière-cour — plans finaux envoyés il y a 4 jours, sans réponse à ce jour) et les Cohens (conversion en végétation indigène du jardin avant — plan révisé envoyé la semaine dernière). Voulez-vous que je rédige un relance courtoise pour l’un ou l’autre ?",
+    "followUp": "Rédige une relance à Jennifer au sujet de l’approbation du plan",
+    "followUpResponse": "C’est fait ! J’ai rédigé un message de relance amical à Jennifer lui demandant si elle et Mark ont eu l’occasion de consulter les plans finaux, et lui rappelant que vous pouvez prendre un appel rapide pour passer en revue les choix de plantes. Prêt à relire et envoyer."
+  },
+  "testimonialsTitle": "Adoré par les designers paysagistes",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Architecte paysagiste, Austin TX",
+      "quote": "Au printemps, je suis sur site 8 heures par jour à faire des relevés et à superviser les installations. Les nouvelles demandes de consultation restaient en attente pendant des jours. Maintenant, Duet répond avec mon processus et mes disponibilités en quelques minutes. J’ai signé 3 projets que j’aurais clairement perdus.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Designer paysagiste, Portland OR",
+      "quote": "Coordonner entre les équipes de maçonnerie paysagère, les installateurs d’irrigation et les clients génère une quantité absurde d’e-mails. Duet trie tout cela et rédige des réponses qui incluent les bons détails du projet. C’est comme avoir un office manager.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Propriétaire d’un studio de design paysager, Denver CO",
+      "quote": "Je passais autrefois chaque soir, après le travail sur le terrain, à rattraper mes e-mails. Toujours les mêmes questions — tarifs, processus, calendrier. Duet s’occupe de tout. Mon délai de réponse est passé de plusieurs jours à quelques minutes et mon taux de conversion a fortement augmenté.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Designer paysagiste résidentiel, Scottsdale AZ",
+      "quote": "Mes clients posent beaucoup de questions sur les choix de plantes et l’entretien. Duet a appris mes palettes végétales et mes consignes d’entretien, et rédige des réponses que je n’ai presque pas besoin de modifier. Les clients pensent que je suis incroyablement réactif.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Designer paysagiste spécialisé en plantes indigènes, Raleigh NC",
+      "quote": "Je perdais de nouveaux clients parce que je ne pouvais pas répondre alors que j’étais jusqu’aux genoux dans une plantation. Duet rédige des réponses de consultation avec mon processus exact, mes tarifs et ce à quoi s’attendre. Il a été rentabilisé dès la première semaine.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Passez vos journées à créer des paysages,\npas à rattraper vos e-mails.",
+  "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
+  "verticalFaqs": [
+    {
+      "question": "Duet peut-il gérer l'afflux printanier quand les demandes de consultation s'accumulent ?",
+      "answer": "C’est précisément là que Duet excelle. Pendant votre période la plus chargée, chaque nouvelle demande reçoit une réponse rapide et détaillée avec votre processus, votre planning et vos disponibilités — même lorsque vous êtes sur le terrain toute la journée. Plus besoin de perdre des prospects du printemps parce que vous ne pouviez leur répondre qu’à 21 h."
+    },
+    {
+      "question": "Je coordonne plusieurs équipes extérieures. Duet peut-il m’aider pour ça ?",
+      "answer": "Oui. Duet apprend vos projets et les intervenants impliqués — maçonnerie paysagère, irrigation, équipes de plantation, pépinières. Il classe séparément les e-mails des prestataires et ceux des clients, et peut rédiger des réponses avec des détails propres au projet, comme les spécifications, les délais et les matériaux. Vous gardez la maîtrise de chaque équipe sans le chaos de la boîte de réception."
+    }
+  ],
+  "pricingNote": "À 8 000 $/projet, un client conservé suffit à rentabiliser Pro pendant des années."
+}

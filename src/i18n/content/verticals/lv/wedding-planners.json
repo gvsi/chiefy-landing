@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail kāzu plānotājiem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz kāzu plānotājiem uzreiz atbildēt uz klientu un piegādātāju e-pastiem — pat no norises vietu apskatēm. AI sagatavotas atbildes ar jūsu paketēm, piegādātāju kontaktiem un balss toni.",
+  "heroBadge": "Uzticas 400+ kāzu plānotāji",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr esat uz vietas norises vietā",
+  "heroSubline": "Duet apgūst jūsu piegādātāju kontaktus, paketes un klientu vēlmes — pēc tam sagatavo e-pasta atbildes, lai pāriem nav jāgaida, kamēr jūs koordinējat darbus uz vietas.",
+  "inboxEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Pieejamība kāzām 20. septembrī?",
+      "preview": "Sveiki! Mēs tikko saderinājāmies un plānojam kāzas 20. septembrī apmēram 120 viesiem. Vai jums ir pieejamība? Kādas ir jūsu paketes...",
+      "pill": "Jāatbild",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson kāzas — galda dekoru paraugi",
+      "preview": "Šeit ir trīs galda dekoru varianti, ko apspriedām. Dārza rozes ir ļoti skaistas. Dodiet ziņu, kuru virzienu pāris vēlas izvēlēties...",
+      "pill": "Piegādātājs",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Panikā par sēdvietu plānu",
+      "preview": "Es zinu, ka pagājušajā nedēļā apstiprinājām plānu, bet mana mamma tikko pieteica vēl 4 cilvēkus, un man nav ne jausmas, kur viņus sēdināt. Vai varam pārbīdīt dažus galdus...",
+      "pill": "Klients",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Jauns pieprasījums no jūsu sludinājuma",
+      "preview": "Pāris ir pieprasījis vairāk informācijas par jūsu pakalpojumiem. Skatiet informāciju un atbildiet...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Sveiki, Emily un James — apsveicu ar saderināšanos! 20. septembris ir pieejams, un 120 viesi ir ideāls skaits. Piedāvāju pilnu plānošanu, daļēju plānošanu un koordinēšanu kāzu dienā. Labprāt sarunātu bezmaksas konsultāciju, lai uzzinātu vairāk par jūsu ieceri. Vai šonedēļ varat īsi sazvanīties?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "kāzas",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Viens saglabāts klients apmaksā vairāk nekā 20 Duet gadus."
+  },
+  "categorizationSubtitle": "Duet automātiski marķē katru e-pastu, lai jūs vispirms redzētu jaunos pāru pieprasījumus, pēc tam piegādātāju apstiprinājumus, bet jaunumu vēstuļu troksni — nekad. Vairs nekādu nokavētu rezervācijas pieprasījumu, kas pazuduši zem Knot paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu paketes, vēlamos piegādātājus un toni. Kad pāris nosūta pieprasījumu, tas sagatavo siltu, pilnīgu atbildi ar jūsu pieejamību un nākamajiem soļiem. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kādi piegādātāju e-pasti šonedēļ pienāca par Thompson kāzām?\" \"Sagatavo laika plāna atjauninājumu visiem piegādātājiem sestdienai.\" Duet pārzina jūsu iesūtni un klientus — vienkārši pajautājiet.",
+  "categorizationEmails": [
+    {
+      "from": "Emily & James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Pieejamība kāzām 20. septembrī?",
+      "preview": "Mēs tikko saderinājāmies un plānojam 20. septembri...",
+      "pill": "Atbildēt tagad",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson kāzas — galda dekoru paraugi",
+      "pill": "Piegādātājs",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Sēdvietu plāns — pievienota gala versija",
+      "pill": "Klients",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Jauns pieprasījums no jūsu sludinājuma",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Minted",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "20% atlaide save-the-date kartītēm šonedēļ",
+      "pill": "Akcijas",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Pieejamība kāzām 20. septembrī?",
+    "originalFrom": "Emily un James W. rakstīja:",
+    "originalText": "Sveiki! Mēs tikko saderinājāmies un plānojam kāzas 20. septembrī apmēram 120 viesiem. Vai jums ir pieejamība? Kādas ir jūsu paketes un cenas?",
+    "lines": [
+      "Sveiki, Emily un James — apsveicu!",
+      "20. septembris ir pieejams, un 120 viesi ir lielisks skaits. Piedāvāju pilnu plānošanu, daļēju plānošanu un koordinēšanu kāzu dienā, sākot no $3,500.",
+      "Labprāt sarunātu bezmaksas konsultāciju, lai uzklausītu jūsu ieceri un izskaidrotu, kura pakete būtu piemērotākā.",
+      "Vai šonedēļ varat sazvanīties?"
+    ],
+    "highlightText": "20. septembris ir pieejams, un 120 viesi ir lielisks skaits",
+    "tooltipFeatures": [
+      "Zina jūsu paketes un pieejamību",
+      "Raksta jūsu balss tonī",
+      "Iekļauj nākamos soļus konsultācijai",
+      "Apgūst jūsu klientu vēlmes"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kādi piegādātāju e-pasti šonedēļ pienāca par Thompson kāzām?",
+    "agentResponse": "Šonedēļ saņēmāt 4 piegādātāju e-pastus par Thompson kāzām: Bella Rosa Florals nosūtīja galda dekoru paraugus (gaida pāra izvēli), Lakeside Venue apstiprināja ceremonijas mēģinājumu piektdien plkst. 16:00, DJ Marco nosūtīja atjaunināto dziesmu sarakstu, un Sweet Layers Bakery līdz trešdienai vajadzīga gala kūkas garšas izvēle. Vai vēlaties, lai sagatavoju atbildes uz kādu no tiem?",
+    "followUp": "Sagatavo atbildi Bella Rosa ar pāra izvēli — B variants, dārza rozes",
+    "followUpResponse": "Gatavs! Sagatavoju atbildi Bella Rosa Florals, apstiprinot B variantu — dārza rožu galda dekorus Thompson kāzām. Iekļauta piezīme turpināt pilno pasūtījumu 14 galdiem. Gatavs pārskatīšanai un nosūtīšanai."
+  },
+  "testimonialsTitle": "Kāzu plānotāju iecienīts",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Boutique kāzu plānotāja, CO",
+      "quote": "Pusi nedēļas esmu kalnu norises vietās bez jebkāda mobilā sakara. Tikmēr pāri man raksta par laika plāniem un piegādātāju jautājumiem. Duet sagatavo atbildes ar manām precīzajām paketēm un toni — es tās pārskatu, kad atkal esmu zonā.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Pilna servisa kāzu plānotājs, CA",
+      "quote": "Koordinēt 10+ piegādātājus katrām kāzām nozīmē, ka sezonas pīķī mana iesūtne ir kara zona. Duet atdala piegādātāju e-pastus no klientu e-pastiem un sagatavo turpinājuma atbildes, ko es būtu uzrakstījis pats. Tagad es tiešām guļu.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Kāzu dienas koordinatore, TX",
+      "quote": "Kāzu dienās esmu nepieejama 14 stundas pēc kārtas. Jaunie pieprasījumi agrāk palika neatbildēti līdz pirmdienai. Tagad Duet tos apstrādā uzreiz, un tikai ātrākas atbildes dēļ šajā ceturksnī esmu rezervējusi 3 papildu kāzas.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Galamērķa kāzu plānotājs, HI",
+      "quote": "Mani pāri atlido no visas pasaules un raksta jebkurā diennakts laikā. Duet apguva manas FAQ atbildes — norises vietas loģistiku, vietējos piegādātājus, ko sagaidīt — un sagatavo atbildes, kas skan tieši kā es. Klienti pat nenojauš.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Kāzu un pasākumu plānotāja, NY",
+      "quote": "Katru vakaru pavadīju 2 stundas, atbildot uz vieniem un tiem pašiem jautājumiem par paketēm un pieejamību. Duet tiek galā ar atkārtotajiem darbiem, lai es varētu koncentrēties uz radošo darbu, ko patiešām mīlu. Tas atmaksājās jau pirmajā nedēļā.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Esiet klātesošs ceremonijā,\nnevis aprakts iesūtnē.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
+  "verticalFaqs": [
+    {
+      "question": "Vai Duet darbojas ar visiem piegādātāju koordinēšanas e-pastiem?",
+      "answer": "Jā. Duet apgūst jūsu piegādātāju kontaktus, vēlamos piegādātājus un to, kā sazināties ar katru no tiem. Tas kategorizē piegādātāju e-pastus pēc kāzām un sagatavo atbildes ar pareizajām detaļām — apstiprinājumiem, turpinājuma ziņām, laika plāna atjauninājumiem. Jūs pārskatāt un nosūtāt. Tas tiek galā ar floristiem, ēdinātājiem, norises vietām, DJ, fotogrāfiem un visiem pārējiem piegādātājiem jūsu kontaktu sarakstā."
+    },
+    {
+      "question": "Es visu dienu esmu uz vietas kāzās un norises vietās. Vai palaidīšu garām jaunus pieprasījumus?",
+      "answer": "Tieši to Duet atrisina. Kad pāris raksta par pieejamību vai paketēm, kamēr jūs koordinējat darbus uz vietas, Duet sagatavo siltu, profesionālu atbildi ar jūsu reālo pieejamību un nākamajiem soļiem. Jūs pārskatāt un nosūtāt, kad jums ir brīvs brīdis — pat no tālruņa starp pasākumiem. Lielākā daļa plānotāju mums saka, ka sezonas pīķī tas ietaupa 1-2 stundas e-pasta darba dienā."
+    }
+  ],
+  "pricingNote": "Pie 8 000 $ par kāzām viens noturēts klients sedz vairāk nekā 20 Pro lietošanas gadus."
+}

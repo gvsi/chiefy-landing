@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | Asistent de e-mail AI pentru Gmail și Outlook",
+    "description": "Asistentul de e-mail AI al lui Duet Mail rezumă e-mailurile, redactează răspunsuri și organizează căsuța de e-mail. Funcționează cu Gmail și Outlook. Economisiți peste 4 ore pe săptămână."
+  },
+  "hero": {
+    "badge": "Acum disponibil pentru Gmail și Outlook",
+    "headlinePrefix": "Dvs",
+    "headlineHighlight": "şef de cabinet",
+    "headlineSuffix": "pentru",
+    "rotatingFeatures": [
+      "sortarea e-mailului",
+      "redactarea răspunsurilor",
+      "programare",
+      "găsirea de răspunsuri"
+    ],
+    "subline": "Economisiți peste 4 ore în fiecare săptămână pe e-mail",
+    "primaryCta": "Începeți cu Gmail",
+    "secondaryCta": "Începeți cu Outlook",
+    "trialNote": "Probă gratuită de 14 zile",
+    "cancelNote": "Anulați oricând"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Clasificare instantanee",
+      "Răspunsuri bazate pe inteligență artificială"
+    ],
+    "windowTitle": "Inbox",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "15:42",
+      "14:18",
+      "10:05 AM",
+      "Ieri"
+    ],
+    "autodraftLabel": "Schiță automată",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Cronologia lansării produsului",
+        "preview": "Hei! Am vrut să verific elementele de lansare. Mai suntem pe drumul cel bun pentru saptamana viitoare...",
+        "pill": "A Răspunde"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Sincronizare rapidă în această după-amiază?",
+        "preview": "Mi-ar plăcea să ajung la curent cu actualizările foii de parcurs. Ești liber în jurul orei 16...",
+        "pill": "Întâlnire"
+      },
+      {
+        "from": "Marketing",
+        "avatarLetter": "M",
+        "subject": "Rezultatele campaniei sunt gata",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Magazinul tău este pregătit pentru Black Friday",
+        "pill": "Promoții"
+      }
+    ],
+    "autodraft": "Salut Alex! Da, suntem pe drumul cel bun. Echipa de proiectare a terminat activele ieri și voi trimite fișierele finale prin EOD astăzi."
+  },
+  "logos": {
+    "ariaLabel": "Siglele clientului",
+    "headingPrefix": "De încredere de către perspectivă",
+    "headingHighlight": "profesionisti si echipe",
+    "headingSuffix": "la nivel mondial"
+  },
+  "features": {
+    "ariaLabel": "Caracteristici",
+    "eyebrow": "Mesaje primite, supraalimentată",
+    "title": "Căsuța dvs. de e-mail nu ar trebui să vă dețină ziua",
+    "subtitle": "Transformă haosul în claritate cu AI care te prinde cu adevărat.\nEconomisiți peste 3 ore în fiecare săptămână cu cel mai inteligent asistent de e-mail pentru Gmail și Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "Ciorne de e-mail care sună ca tine",
+        "description": "Scriitorul de e-mail Duet AI pregătește schițe pentru cele mai importante e-mailuri. Îți învață tonul și stilurile de scriere.",
+        "ariaLabel": "Ciorne de e-mail care sună ca tine",
+        "mockCopy": {
+          "draftedColdEmail": "Am redactat un e-mail rece personalizat pentru John",
+          "sampleText": "Conductele AI sunt esențiale pentru construirea de sisteme AI robuste, scalabile și eficiente.",
+          "readyToSend": "Gata de trimis?",
+          "remindFollowUp": "Amintește-mi să urmăresc."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Rezumate instant și elemente de acțiune",
+        "description": "Obțineți TL;DR și elementele de acțiune din conținutul dvs. de e-mail în câteva secunde. Nu mai citești romane în căsuța de e-mail.",
+        "ariaLabel": "Rezumate instantanee și elemente de acțiune",
+        "mockCopy": {
+          "sentencePrefix": "eu ne propun",
+          "sentenceHighlight": "ne întâlnim săptămâna viitoare",
+          "sentenceSuffix": " ?",
+          "actionTitle": "Acțiune nouă",
+          "actionLead": "Am găsit aceste sloturi gratuite în calendarul tău",
+          "slots": [
+            "Marți, la ora 10",
+            "joi, la ora 14.00",
+            "Vineri, ora 9"
+          ],
+          "secondaryButton": "Găsiți mai multe",
+          "primaryButton": "Trimite"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Mementouri inteligente",
+        "description": "Setează-l și uită-l. Duet AI își amintește să urmărească atunci când alții nu răspund, așa că nimic nu cade prin fisuri.",
+        "ariaLabel": "Mementouri inteligente",
+        "mockCopy": {
+          "header": "Mementouri inteligente bazate pe AI",
+          "stats": [
+            {
+              "label": "Urmare",
+              "value": "12",
+              "unit": "e-mailuri"
+            },
+            {
+              "label": "Pentru a răspunde",
+              "value": "2",
+              "unit": "e-mailuri"
+            },
+            {
+              "label": "Terminat",
+              "value": "3",
+              "unit": "elemente de acțiune"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Finalizați sarcinile de scriere",
+              "time": "acum 2 zile"
+            },
+            {
+              "title": "Integrarea proiectului",
+              "time": "acum 12 ore"
+            }
+          ],
+          "actions": [
+            "Urmăriți",
+            "Reprogramați?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Concentrați-vă pe ceea ce contează",
+        "description": "Categorizarea inteligentă prezintă mai întâi cele mai importante e-mailuri și clasifică e-mailurile în subiecte. Gestionarea e-mailului nu a fost niciodată mai ușoară.",
+        "ariaLabel": "Concentrează-te pe ceea ce contează",
+        "mockCopy": {
+          "analyzing": "ANALIZAREA"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "Organizarea e-mailului și clasificarea inteligentă în căsuța de e-mail",
+    "badge": "Organizare",
+    "title": "Duet vă organizează căsuța de e-mail",
+    "subtitle": "Categorizarea automată filtrează zgomotul și evidențiază ceea ce contează. Vedeți instantaneu ce necesită acțiune, ce este doar FYI și ce poate aștepta.",
+    "windowTitle": "Inbox",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "14:34",
+      "11:05 AM",
+      "9:22 AM",
+      "Ieri",
+      "20 dec"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "Solicitarea de revizuire a bugetului Q4",
+        "preview": "Numerele finalizate sunt atașate. Vă rugăm să revizuiți de către EOD.",
+        "pill": "Acțiune necesară"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Standup de echipă mâine la 10:00",
+        "pill": "Întâlnire"
+      },
+      {
+        "from": "Design Team",
+        "avatarLetter": "D",
+        "subject": "Noi ghiduri de marcă publicate",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Extrasul dvs. lunar este gata",
+        "pill": "Promoții"
+      },
+      {
+        "from": "Newsletter",
+        "subject": "Rezumat săptămânal",
+        "pill": "Promoții"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "Redactarea e-mailurilor AI și generarea de răspunsuri",
+    "badge": "Redactarea",
+    "title": "Duet schiță în voce",
+    "subtitle": "Duet învață cum scrii și redactează răspunsuri care se potrivesc cu tonul tău. Examinați, ajustați dacă este necesar și trimiteți în câteva secunde.",
+    "windowTitle": "Mesaj nou",
+    "fieldLabels": {
+      "to": "La:",
+      "subject": "Subiect:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Sincronizare rapidă săptămâna aceasta?",
+      "originalFrom": "Alex Rivera a scris:",
+      "originalText": "Hei! Mi-ar plăcea să ajung din urmă cu schimbările din foaia de parcurs. Ești liber pentru un apel de 30 de minute săptămâna aceasta? Spune-mi ce funcționează pentru tine.",
+      "badge": "Creat automat",
+      "lines": [
+        "Hei Alex!",
+        "Mi-ar plăcea să se sincronizeze pe foaia de parcurs. Sunt liber joi, între orele 14 și 16 sau vineri dimineața, fie funcționează grozav pentru mine.",
+        "Spune-mi ce ți se potrivește cel mai bine și îți voi trimite o invitație.",
+        "Mulţumesc!"
+      ],
+      "highlightText": "Sunt liber joi 14-16 sau vineri dimineața",
+      "actions": [
+        "Trimite",
+        "Edita"
+      ],
+      "tooltipTitle": "Ciornă personalizată",
+      "tooltipFeatures": [
+        "Îți cunoaște calendarul",
+        "Ciorne în vocea ta",
+        "Cunoaște contextul prin memorie",
+        "Învață în timp"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "Inteligență și asistent de e-mail AI",
+    "badge": "Inteligența",
+    "title": "Întreabă orice despre e-mailul tău",
+    "subtitle": "Solicitați lui Duet să găsească e-mailuri, să vă verifice calendarul sau să redacteze un răspuns. Îți înțelege căsuța de e-mail și răspunde instantaneu.",
+    "windowTitle": "Agent Duet",
+    "onlineLabel": "Online",
+    "initialUserMessage": "Puteți găsi factura Stripe trimisă de Contabilitate?",
+    "processingText": "Se caută în căsuța de e-mail...",
+    "foundHeader": "S-au găsit 2 e-mailuri de la Stripe",
+    "foundBody": "Am găsit chitanța de 29 USD din 24 octombrie.",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Redați un răspuns"
+      },
+      {
+        "action": "calendar",
+        "label": "Găsiți timp să vă întâlniți"
+      }
+    ],
+    "inputPlaceholder": "Întreabă orice...",
+    "dynamicResponses": {
+      "processingDefault": "Prelucrare...",
+      "processingDraft": "Se generează schița...",
+      "processingCalendar": "Se verifică disponibilitatea...",
+      "draftIntro": "Iată o schiță de răspuns la Contabilitate:",
+      "draftHeader": "Schiță: accounting@company.com",
+      "draftLines": [
+        "Salut echipa,",
+        "Vă rugăm să găsiți atașat factura Stripe pentru octombrie (29,00 USD).",
+        "Anunță-mă dacă mai ai nevoie de ceva.",
+        "Cel mai bun,"
+      ],
+      "draftActions": [
+        "Trimite e-mail",
+        "Edita"
+      ],
+      "calendarIntro": "Aveți 3 sloturi deschise mâine:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "30 min"
+        },
+        {
+          "time": "14:00",
+          "duration": "30 min"
+        },
+        {
+          "time": "16:30",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Elaborați și răspunsul?",
+        "calendarAfterDraft": "Programează și o urmărire?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Mărturii",
+    "scrollingAriaLabel": "Derularea mărturiilor",
+    "eyebrow": "Mărturii",
+    "title": "Iubit de profesioniștii ocupați",
+    "subtitle": "Oameni reali. Inbox real câștigă.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Freelancer",
+        "quote": "Merita fiecare banut. Timpul pe care îl economisesc pe e-mail plătește Duet Mail de 10 ori peste. Nu-mi pot imagina că lucrez fără ea acum.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Director de vânzări",
+        "quote": "Rezumatele instantanee ale firelor lungi de e-mail sunt magie pură și, prin urmare, ușor de utilizat. Clienții mei cred că sunt supraomenesc.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Antreprenor",
+        "quote": "Am fost sceptic cu privire la utilizarea inteligenței artificiale pentru e-mailurile mele. Acum, este ca și cum ai avea un asistent executiv genial. Nu-mi pot imagina să mă întorc.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Consultant",
+        "quote": "Ca consultant, fiecare minut contează. Duet Mail nu doar mă economisește timp, ci face comunicarea prin e-mail mai clară.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "Director de marketing",
+        "quote": "În cele din urmă, un asistent de e-mail AI care învață de fapt cum scriu. Răspunsurile instantanee sunt atât de bune, încât echipa mea a crezut că lucrez la miezul nopții.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Prețuri",
+    "eyebrow": "Prețuri",
+    "heading": "Preț simplu, căsuță de e-mail puternică",
+    "subheading": "Începe gratuit, upgrade oricând. Anulează oricând.",
+    "billingLegend": "Cadenta de facturare",
+    "billingAnnual": "Anual",
+    "billingMonthly": "Lunar",
+    "savingsTag": "Economisiți 33%",
+    "priceCadence": "/lună",
+    "perUserSuffix": "/utilizator",
+    "annualBillingSuffix": "(facturat anual)",
+    "trustItems": [
+      "Checkout securizat prin Stripe",
+      "Anulați oricând"
+    ],
+    "plans": [
+      {
+        "name": "De bază",
+        "description": "Pentru oricine este curios despre cum se simte o căsuță de e-mail mai inteligentă. Nu este necesar niciun angajament.",
+        "priceLabel": "Free",
+        "features": [
+          {
+            "title": "Rezumate instant",
+            "description": "Obțineți esența oricărui thread"
+          },
+          {
+            "title": "Schițe AI",
+            "description": "Un gust de răspunsuri în vocea ta"
+          },
+          {
+            "title": "Inbox inteligent",
+            "description": "Organizarea de bază pentru a începe"
+          },
+          {
+            "title": "Duet Asistent",
+            "description": "Încercați asistentul AI"
+          }
+        ],
+        "ctaLabel": "Alegeți Gmail sau Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "Probă gratuită de 14 zile",
+        "description": "Pentru profesioniștii care doresc o automatizare mai profundă, integrări și o căsuță de e-mail care știe cu adevărat cum lucrați.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Inbox inteligent",
+            "description": "E-mailurile sortate automat în categorii inteligente",
+            "highlight": true
+          },
+          {
+            "title": "Schițe AI",
+            "description": "Răspunsuri scrise cu vocea ta, gata de trimis",
+            "highlight": true
+          },
+          {
+            "title": "Duet Asistent",
+            "description": "Chat pentru a găsi, schița, organiza și multe altele",
+            "highlight": true
+          },
+          {
+            "title": "Integrarea calendarului",
+            "description": "Programați, vizualizați și gestionați evenimente din căsuța dvs. de e-mail"
+          },
+          {
+            "title": "Rezumate instant",
+            "description": "Obțineți esența oricărui fir sau atașament"
+          },
+          {
+            "title": "Mementouri inteligente",
+            "description": "Urmăririle apar automat, astfel încât nimic să alunece"
+          },
+          {
+            "title": "Suport prioritar",
+            "description": "Oameni reali, răspunsuri rapide"
+          }
+        ],
+        "ctaLabel": "Alegeți Gmail sau Outlook",
+        "featured": true
+      },
+      {
+        "name": "Întreprindere",
+        "description": "Pentru organizațiile care au nevoie de o scară de nivel enterprise, asistență dedicată și fluxuri de lucru personalizate. Cel mai bun pentru echipe de peste 50 de ani.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Totul în Pro",
+            "description": "Toate caracteristicile incluse"
+          },
+          {
+            "title": "Suport dedicat",
+            "description": "Manager de cont personal"
+          },
+          {
+            "title": "Analiza echipei",
+            "description": "Informații despre organizația dvs"
+          },
+          {
+            "title": "Fluxuri de lucru partajate",
+            "description": "Șabloane și automatizări pentru echipe"
+          }
+        ],
+        "ctaLabel": "Contactați vânzările",
+        "ctaNote": "Prețuri personalizate disponibile"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Întrebări frecvente",
+    "eyebrow": "FAQ",
+    "headingPrefix": "Întrebări comune,",
+    "headingAccent": "răspunse",
+    "contactDecorative": "?",
+    "contactLabel": "CONTACT",
+    "contactHeading": "Mai ai întrebări?",
+    "contactCta": "Luați legătura →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Cum protejează Duet Mail datele mele de e-mail?",
+        "answer": "Securitatea dumneavoastră este prioritatea noastră principală. Folosim OAuth 2.0 pentru autentificarea sigură atât cu Google, cât și cu Microsoft. Conținutul de e-mail este criptat în repaus folosind criptarea la nivel de câmp la nivel de client și respectăm principiul celui mai mic privilegiu pentru accesul API. Pentru integrarea noastră Google, ne supunem evaluării anuale de securitate CASA a Google."
+      },
+      {
+        "question": "Cum funcționează funcția de rezumat prin e-mail?",
+        "answer": "Duet Mail folosește AI avansată pentru a analiza firele de e-mail și pentru a genera o prezentare generală concisă care evidențiază punctele cheie, deciziile și elementele de acțiune. Acest lucru vă ajută să înțelegeți rapid contextul fără a citi întregul fir."
+      },
+      {
+        "question": "De ce permisiuni are nevoie Duet Mail?",
+        "answer": "Duet Mail necesită acces la e-mailurile dvs. pentru a furniza rezumate, pentru a extrage elemente de acțiune, pentru a genera conținut și pentru a vă trimite e-mailurile. Solicităm doar permisiunile de care avem absolut nevoie. Puteți examina și revoca aceste permisiuni în orice moment din setările Contului dvs. Google sau ale contului Microsoft."
+      },
+      {
+        "question": "Ce este inclus în perioada de încercare gratuită?",
+        "answer": "Perioada de încercare gratuită de 14 zile include acces complet la toate funcțiile Pro: rezumate nelimitate de e-mail, extragerea elementelor de acțiune, redactare de e-mailuri AI (generarea de e-mailuri și schițe fără limite) și șabloane de e-mail personalizate. Conectați-vă cu Google sau Microsoft pentru a începe să economisiți timp în gestionarea e-mailului."
+      },
+      {
+        "question": "Pot folosi Duet Mail cu alți furnizori de e-mail?",
+        "answer": "Duet Mail acceptă Gmail, Google Workspace și Microsoft Outlook. Conectați-vă cu contul dvs. Google sau Microsoft pentru a începe."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Începeți",
+    "headline": "Primiți 4 ore înapoi.\nÎn fiecare săptămână.",
+    "subline": "Alăturați-vă profesioniștilor care își încep ziua cu claritate, nu cu haos. Proba dvs. gratuită vă așteaptă.",
+    "primaryCta": "Începeți cu Gmail",
+    "secondaryCta": "Începeți cu Outlook",
+    "note": "Probă gratuită de 14 zile · Anulați oricând",
+    "trustItems": [
+      "Google CASA-evaluat",
+      "Criptat în repaus",
+      "OAuth securizat 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Subsolul site-ului",
+    "brandIconAlt": "Pictograma Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Asistentul de e-mail AI care vă economisește ore în fiecare săptămână",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Explora",
+        "links": [
+          {
+            "label": "Organizare",
+            "href": "/#organizare"
+          },
+          {
+            "label": "Redactarea",
+            "href": "/#redarea"
+          },
+          {
+            "label": "Inteligența",
+            "href": "/#inteligență"
+          },
+          {
+            "label": "Extensie Chrome",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Clienții",
+        "links": [
+          {
+            "label": "Prețuri",
+            "href": "/#prețuri"
+          },
+          {
+            "label": "Mărturii",
+            "href": "/#mărturii"
+          },
+          {
+            "label": "FAQ",
+            "href": "/#FAQ"
+          }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          {
+            "label": "Confidențialitate",
+            "href": "/confidențialitate"
+          },
+          {
+            "label": "Termeni",
+            "href": "/termeni"
+          },
+          {
+            "label": "Cookie-uri",
+            "href": "/cookies"
+          },
+          {
+            "label": "Disclaimer",
+            "href": "/ declinare a răspunderii"
+          }
+        ]
+      },
+      {
+        "title": "Conectați-vă",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup Fame",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Rentabilitatea investiției",
+    "label": "Matematica",
+    "narrativeTemplate": "La {pricePerBooking} per {bookingUnit}, pierderea doar {lostPerMonth} pentru răspunsurile lente =",
+    "lossSuffix": "/ mo plecat",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "30 USD/lună"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Asistent de e-mail AI pentru Gmail și Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Asistență pentru clienți",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "Asistent de e-mail AI pentru Gmail și Outlook care rezumă automat e-mailurile, redactează răspunsuri în voce și organizează căsuța de e-mail pentru a economisi ore în fiecare săptămână.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Organizare și clasificare inteligentă a e-mailului",
+      "Redactarea e-mailurilor bazată pe inteligență artificială în vocea dvs",
+      "Asistent de e-mail inteligent cu integrare în calendar",
+      "Rezumate automate prin e-mail și elemente de acțiune",
+      "Mementouri inteligente pentru urmăriri"
+    ],
+    "offers": [
+      {
+        "name": "Plan de bază",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Plan gratuit cu rezumate instantanee, schițe AI și căsuță de e-mail inteligentă"
+      },
+      {
+        "name": "Planul Pro",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Acces complet cu categorizare inteligentă în căsuța de e-mail, schițe AI, asistent și integrare în calendar"
+      }
+    ],
+    "operatingSystem": "Web",
+    "browserRequirements": "Necesită JavaScript. Funcționează cu Gmail, Google Workspace și Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/ro/",
+      "logo": "https://duetmail.com/ro/favicon.svg",
+      "screenshot": "https://duetmail.com/ro/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Cum protejează Duet Mail datele mele de e-mail?",
+        "answer": "Securitatea dumneavoastră este prioritatea noastră principală. Folosim OAuth 2.0 pentru autentificarea sigură atât cu Google, cât și cu Microsoft. Conținutul de e-mail este criptat în repaus folosind criptarea la nivel de câmp la nivel de client și respectăm principiul celui mai mic privilegiu pentru accesul API. Pentru integrarea noastră Google, ne supunem evaluării anuale de securitate CASA a Google."
+      },
+      {
+        "question": "Cum funcționează funcția de rezumat prin e-mail?",
+        "answer": "Duet Mail folosește AI avansată pentru a analiza firele de e-mail și pentru a genera o prezentare generală concisă care evidențiază punctele cheie, deciziile și elementele de acțiune. Acest lucru vă ajută să înțelegeți rapid contextul fără a citi întregul fir."
+      },
+      {
+        "question": "De ce permisiuni are nevoie Duet Mail?",
+        "answer": "Duet Mail necesită acces la e-mailurile dvs. pentru a furniza rezumate, pentru a extrage elemente de acțiune, pentru a genera conținut și pentru a vă trimite e-mailurile. Solicităm doar permisiunile de care avem absolut nevoie. Puteți examina și revoca aceste permisiuni în orice moment din setările Contului dvs. Google sau ale contului Microsoft."
+      },
+      {
+        "question": "Ce este inclus în perioada de încercare gratuită?",
+        "answer": "Perioada de încercare gratuită de 14 zile include acces complet la toate funcțiile Pro: rezumate nelimitate de e-mail, extragerea elementelor de acțiune, redactare de e-mailuri AI (generarea de e-mailuri și schițe fără limite) și șabloane de e-mail personalizate. Conectați-vă cu Google sau Microsoft pentru a începe să economisiți timp în gestionarea e-mailului."
+      },
+      {
+        "question": "Pot folosi Duet Mail cu alți furnizori de e-mail?",
+        "answer": "Duet Mail acceptă Gmail, Google Workspace și Microsoft Outlook. Conectați-vă cu contul dvs. Google sau Microsoft pentru a începe."
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail untuk Desainer Interior |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu desainer interior mengelola email klien, koordinasi kontraktor, dan pesanan vendor — bahkan dari lokasi kerja.  AI -Balasan yang disusun dengan detail proyek, preferensi, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 400+ desainer interior",
+  "heroHeadline": "Asisten email Anda saat Anda berada di lokasi bersama klien",
+  "heroSubline": "Duet mempelajari kontak vendor Anda, detail proyek, dan preferensi klien — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien karena respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Renovasi dapur — konsultasi awal?",
+      "preview": "Hai! Kami baru saja membeli rumah di Westlake dan ingin merombak dapur sepenuhnya. Apakah Anda mengambil proyek baru? Seperti apa proses Anda?",
+      "pill": "Untuk Menanggapi",
+      "pillColor": "red"
+    },
+    {
+      "from": "Ubin & Batu Tony",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Perihal: Pembaruan waktu tunggu ubin Backsplash",
+      "preview": "Baru saja mendapat kabar dari gudang — ubin hex Calacatta dipesan kembali dalam 3 minggu. Ingin saya menahan pesanan Anda atau mencari alternatif...",
+      "pill": "Pesanan Penjual",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. - Tukang Listrik",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Pengkabelan selesai — siap untuk pemasangan perlengkapan",
+      "preview": "Semua pemasangan kabel kasar diselesaikan di kamar tidur utama dan ruang tamu. Kami siap untuk pemasangan tempat lilin dan lampu gantung kapan pun Anda...",
+      "pill": "Kontraktor",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen & Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Pendapat tentang sampel kain?",
+      "preview": "Kami melihat tiga pilihan kain yang Anda tinggalkan dan kami condong ke arah linen dalam 'Oatmeal' tetapi ingin melihatnya dengan warna dinding...",
+      "pill": "Persetujuan Klien",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Rachel! Saya ingin mendengar lebih banyak tentang dapur Westlake Anda. Saat ini saya sedang memesan konsultasi untuk bulan depan. Proses saya dimulai dengan kunjungan ke rumah di mana kami menelusuri visi, anggaran, dan garis waktu Anda — lalu saya menyusun konsep desain dengan pilihan material. Ingin mengatur waktu untuk bertemu di rumah?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "project",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Satu klien yang disimpan membayar Duet selama bertahun-tahun."
+  },
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat pertanyaan klien baru terlebih dahulu, menunggu persetujuan kedua, dan buletin vendor tidak pernah. Tidak ada lagi kehilangan konsultasi desain yang terkubur dalam promosi pameran dagang.",
+  "draftSubtitle": "Duet mempelajari proses, detail proyek, dan nada Anda. Saat ada pertanyaan baru atau pertanyaan klien, ia akan menyusun balasan lengkap dengan ketersediaan Anda, langkah selanjutnya, dan spesifikasi proyek. Anda meninjau dan mengirim.",
+  "agentSubtitle": "“Bagaimana status proyek Henderson?” “Persetujuan mana yang masih menunggu keputusan?” Duet mengetahui inbox Anda dan setiap rangkaian proyek — tanyakan saja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Renovasi dapur — konsultasi awal?",
+      "preview": "Kami baru saja membeli rumah dan ingin merombak dapurnya...",
+      "pill": "Pertanyaan Baru",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Perihal: Sampel kain — menggunakan linen Oatmeal",
+      "pill": "Persetujuan Klien",
+      "pillColor": "blue"
+    },
+    {
+      "from": "tandai l.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Pengkabelan selesai — siap untuk pemasangan perlengkapan",
+      "pill": "Kontraktor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Ubin & Batu Tony",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Pesanan #4821 terkirim — pengiriman Kamis",
+      "pill": "Pesanan Penjual",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Desain Dalam Jangkauan",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Program perdagangan — acara tabungan musim semi",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Perihal: Renovasi dapur — konsultasi awal?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Kami baru saja membeli rumah di Westlake dan ingin merombak dapur sepenuhnya. Apakah Anda mengambil proyek baru? Seperti apa proses Anda?",
+    "lines": [
+      "Hai Rachel!",
+      "Selamat atas rumah barunya! Saya ingin membantu dapur Anda. Saat ini saya sedang memesan konsultasi untuk bulan depan.",
+      "Proses saya dimulai dengan kunjungan ke rumah untuk menelusuri visi, anggaran, dan jadwal Anda. Dari situ saya menyusun konsep desain dengan pilihan material dan proposal yang detail.",
+      "Ingin mengatur waktu untuk bertemu di rumah?"
+    ],
+    "highlightText": "Saat ini saya sedang memesan konsultasi untuk bulan depan.",
+    "tooltipFeatures": [
+      "Mengetahui proses & ketersediaan Anda",
+      "Draf dalam suara Anda",
+      "Termasuk langkah selanjutnya secara otomatis",
+      "Belajar seiring berjalannya waktu"
+    ]
+  },
+  "agent": {
+    "userMessage": "Persetujuan apa yang masih menunggu untuk proyek Henderson?",
+    "agentResponse": "Berdasarkan rangkaian email Anda dengan keluarga Henderson, dua item masih menunggu persetujuan: meja rias kamar mandi utama (Anda mengirimkan opsi Perangkat Keras Restorasi pada hari Selasa) dan kain gorden ruang tamu (sampel dikirimkan minggu lalu). Karen juga bertanya tentang kilau cat untuk ruang makan namun belum menanggapi rekomendasi Anda. Ingin saya membuat draf tindak lanjut?",
+    "followUp": "Buatlah draf tindak lanjut yang lembut untuk Karen tentang pilihan meja rias dan kain",
+    "followUpResponse": "Selesai! Saya menyusun tindak lanjut dari Karen yang memeriksa pilihan meja rias dan gorden, dengan menyebutkan bahwa meja rias tersebut memiliki waktu tunggu 6 minggu sehingga keputusan segera akan menjaga proyek tetap sesuai jadwal. Siap untuk meninjau dan mengirim."
+  },
+  "testimonialsTitle": "Dicintai oleh desainer interior",
+  "testimonials": [
+    {
+      "name": "michael r.",
+      "title": "Desainer Utama, Austin TX",
+      "quote": "Saya berada di lokasi 6 jam sehari untuk mengoordinasikan tukang cat, tukang listrik, dan pemasang ubin. Sementara itu tiga klien lainnya mengirim email tentang proyek mereka. Draf duet membalas dengan detail proyek yang tepat — Saya hanya meninjau di antara kunjungan lokasi.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Desainer Interior Perumahan, Chicago",
+      "quote": "Biasanya pertanyaan klien tertunda berhari-hari karena saya terkubur dalam email pengadaan dan penjadwalan kontraktor. Sekarang Duet merespons prospek baru dalam hitungan menit dengan proses dan ketersediaan saya. Saya telah memesan 4 proyek tambahan pada kuartal ini.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Pemilik Studio Desain, Nashville",
+      "quote": "Mengelola email untuk 12 proyek aktif sangat merugikan saya. Duet mengkategorikan semuanya — pertanyaan baru, persetujuan yang tertunda, pesanan vendor, pembaruan kontraktor — jadi saya tahu persis apa yang perlu saya perhatikan terlebih dahulu.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "jennifer s.",
+      "title": "Dekorator Interior, San Diego",
+      "quote": "Saya kehilangan klien potensial karena saya tidak dapat merespons dengan cukup cepat selama minggu-minggu pemasangan. Duet mempelajari proses konsultasi saya, struktur harga, bahkan cara saya mendeskripsikan gaya desain saya. Klien tidak tahu itu dibantu AI.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Desainer Interior Komersial, Denver",
+      "quote": "Antara waktu tunggu vendor, jadwal kontraktor, dan permintaan revisi klien, inbox saya kacau. Duet mengurutkan semuanya dan menyusun tindak lanjut atas persetujuan yang tertunda. Ini seperti memiliki koordinator proyek yang tidak pernah tidur.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Habiskan hari-hari Anda menciptakan ruang yang indah,\ntidak terkubur di inbox Anda.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
+  "verticalFaqs": [
+    {
+      "question": "Saya menangani 8-10 proyek sekaligus. Bisakah Duet menjaganya tetap lurus?",
+      "answer": "Ya. Duet melacak setiap thread email per klien dan proyek. Saat Anda bertanya tentang dapur Henderson atau kantor Park Avenue, pertanyaan tersebut mengambil konteks dari semua percakapan terkait — pesanan vendor, pembaruan kontraktor, persetujuan klien — sehingga balasan Anda selalu akurat dan spesifik untuk proyek. Tidak perlu mencampuradukkan ubin mana untuk klien yang mana."
+    },
+    {
+      "question": "Saya berkoordinasi dengan banyak kontraktor dan vendor. Apakah Duet membantu dalam hal itu?",
+      "answer": "Sangat. Duet mempelajari kontak kontraktor Anda, perwakilan vendor, dan konteks peran masing-masing perdagangan dalam proyek Anda. Ketika teknisi listrik Anda mengirim email tentang penyelesaian kasar, Duet dapat membuat draf balasan yang mengonfirmasi langkah atau putaran berikutnya dalam pemasang perlengkapan. Ini membuat alur kerja tetap berjalan bahkan saat Anda berada di seberang kota di lokasi kerja lain."
+    }
+  ],
+  "pricingNote": "Dengan $10.000/proyek, satu klien yang disimpan membayar Duet Pro selama bertahun-tahun."
+}

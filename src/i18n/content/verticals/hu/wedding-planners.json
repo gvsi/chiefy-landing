@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail esküvőszervezőknek | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít az esküvőszervezőknek, hogy azonnal válaszoljanak az ügyfelek és az eladók e-mailjeire – akár a helyszíni bemutatókból is. AI által készített válaszok csomagjaival, szállítói kapcsolataival és hangjával.",
+  "heroBadge": "Több mint 400 esküvőszervező megbízik benne",
+  "heroHeadline": "Az Ön e-mail asszisztense, amíg a helyszínen tartózkodik",
+  "heroSubline": "A Duet megtanulja a szállító kapcsolatait, a csomagokat és az ügyfelek beállításait – majd e-mail-válaszokat készít, így a párok soha nem várnak, amíg Ön a helyszínen koordinál.",
+  "inboxEmails": [
+    {
+      "from": "Emily és James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Elérhető a szeptember 20-i esküvőre?",
+      "preview": "Szia! Nemrég jegyeztük el egymást, és egy szeptember 20-i esküvőre készülünk, körülbelül 120 vendéggel. Van elérhetősége? Milyen csomagjaid vannak...",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa virágok",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson esküvő – központi makettek",
+      "preview": "Itt van a három központi lehetőség, amelyet megvitattunk. Szépen bejöttek a kerti rózsák. Hadd tudjam meg, hogy a pár melyik irányba akar menni...",
+      "pill": "Eladó",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Kiborult az üléstáblázattól",
+      "preview": "Tudom, hogy a múlt héten véglegesítettük a táblázatot, de anyám csak 4 további embert kért, és fogalmam sincs, hova tegyem őket. Áthelyezhetnénk néhány asztalt...",
+      "pill": "Ügyfél",
+      "pillColor": "blue"
+    },
+    {
+      "from": "A csomó",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Új megkeresés az adatlapodról",
+      "preview": "Egy pár további információt kért a szolgáltatásairól. Tekintse meg a részleteket és válaszoljon...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Szia Emily és James – gratulálunk az eljegyzésedhez! Szeptember 20. elérhető és 120 vendég tökéletes méret. Teljes tervezési, résztervezési és napi koordinációs csomagokat kínálok. Szeretnék egy ingyenes konzultációt szervezni, hogy megismerje az elképzeléseit. Szabad egy gyors telefonhívásra ezen a héten?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "esküvő",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Egy megmentett ügyfél több mint 20 évnyi Duetért fizet."
+  },
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először az új párok megkereséseit látja, másodsorban a szállítói visszaigazolásokat, és soha nem hallja a hírlevél zaját. Nincs többé hiányzó foglalási kérés a csomó riasztások alatt.",
+  "draftSubtitle": "A Duet megtanulja a csomagokat, a preferált szállítókat és a hangszínt. Amikor egy pár érdeklődik, meleg, teljes választ készít az elérhetőségéről és a következő lépésekről. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Milyen eladói e-mailek érkeztek a thompsoni esküvőre? \"Szombatra készítsen idővonal-frissítést minden szállító számára.\" A Duet ismeri a beérkezett üzeneteket és az ügyfeleket – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Emily és James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Elérhető a szeptember 20-i esküvőre?",
+      "preview": "Nemrég jegyeztük el egymást, és szeptember 20-án nézünk...",
+      "pill": "Válaszoljon most",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa virágok",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Thompson esküvő – központi makettek",
+      "pill": "Eladó",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Üléstáblázat – a végleges változat mellékelve",
+      "pill": "Ügyfél",
+      "pillColor": "blue"
+    },
+    {
+      "from": "A csomó",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Új megkeresés az adatlapodról",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Verés",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "20% kedvezménnyel ezen a héten",
+      "pill": "Promozgások",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Elérhető a szeptember 20-i esküvő?",
+    "originalFrom": "Emily és James W. írta:",
+    "originalText": "Szia! Nemrég jegyeztük el egymást, és egy szeptember 20-i esküvőre készülünk, körülbelül 120 vendéggel. Van elérhetősége? Milyenek a csomagok és az árak?",
+    "lines": [
+      "Szia Emily és James – gratulálunk!",
+      "Szeptember 20. elérhető és 120 vendég csodálatos méret. Teljes tervezési, résztervezési és napi koordinációs csomagokat kínálok 3500 dollártól.",
+      "Szeretnék egy ingyenes konzultációt szervezni, hogy meghallgathassa elképzelését, és végigvezethessük, melyik csomag a legmegfelelőbb.",
+      "Szabad hívásra ezen a héten?"
+    ],
+    "highlightText": "Szeptember 20. elérhető és 120 vendég csodálatos méret",
+    "tooltipFeatures": [
+      "Ismeri csomagjait és elérhetőségét",
+      "Piszkozatok a hangodban",
+      "Tartalmazza a következő lépések konzultációját",
+      "Megtanulja az ügyfél preferenciáit"
+    ]
+  },
+  "agent": {
+    "userMessage": "Milyen eladó e-mailjei érkeztek a héten a Thompson esküvőre?",
+    "agentResponse": "A héten 4 eladó e-mailt kapott a Thompson esküvőről: Bella Rosa Florals központi maketteket küldött (a pár választására vár), a Lakeside Venue megerősítette a ceremónia próbáját pénteken 16 órakor, DJ Marco elküldte a frissített dallistát, és a Sweet Layers Bakery-nek szerdára szüksége van a torta végső ízére. Akarod, hogy válaszokat írjak ezek közül bármelyikre?",
+    "followUp": "Írjon választ Bella Rosának a pár választásával – B lehetőség, a kerti rózsák",
+    "followUpResponse": "Kész! Választ fogalmaztam meg Bella Rosa Floralsnak, megerősítve a B lehetőséget – a kerti rózsa központi elemeit a Thompson esküvőn. Tartalmaz egy megjegyzést, hogy folytassa a 14 asztal teljes megrendelését. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Szeretik az esküvőszervezők",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Boutique Esküvőszervező, CO",
+      "quote": "A hetem felében hegyi helyszíneken vagyok nulla cellás kiszolgálással. Eközben párok e-mailt küldenek nekem az idővonalakról és az eladókkal kapcsolatos kérdésekről. A Duet piszkozatai a pontos csomagommal és hangnemekkel válaszolnak – átnézem őket, amikor újra a hatótávolságon belül vagyok.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Michael T.",
+      "title": "Teljes körű esküvőszervező, CA",
+      "quote": "Ha esküvőnként több mint 10 eladót koordinál, a postafiókom a főszezonban háborús övezet. A Duet külön kategorizálja a szállítói e-maileket az ügyfelek e-mailjeitől és az általam írt nyomon követési piszkozatoktól. Most már tényleg alszom.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Koordinátor napja, TX",
+      "quote": "Az esküvő napján 14 órán keresztül nem vagyok elérhető. Az új megkeresések hétfőig megválaszolatlanul maradtak. Most a Duet azonnal kezeli őket, és ebben a negyedévben 3 extra esküvőt foglaltam le pusztán a gyorsabb válaszidő miatt.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Úticél esküvőszervező, HI",
+      "quote": "A párjaim a világ minden tájáról repülnek, és minden órában leveleznek. A Duet megtanulta a GYIK-re adott válaszaimat – a helyszín logisztikája, a helyi szállítók, mire számíthat – és olyan válaszvázlatokat, amelyek pontosan úgy hangzanak, mint én. Az ügyfeleknek fogalmuk sincs.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Esküvő- és rendezvényszervező, NY",
+      "quote": "Minden este 2 órát töltöttem ugyanarra a csomagra és a rendelkezésre állásra vonatkozó kérdések megválaszolásával. A Duet kezeli az ismétlődő dolgokat, így arra a kreatív munkára koncentrálhatok, amelyet valójában szeretek. Már az első héten megtérült.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Legyen jelen a szertartáson,\nnincs eltemetve a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "A Duet működik az összes szállítói koordinációs e-maillel?",
+      "answer": "Igen. A Duet megtanulja a szállítói kapcsolattartóit, az előnyben részesített szállítókat és azt, hogyan kommunikál velük. Esküvő szerint kategorizálja a szállítók e-mailjeit, és a válaszok piszkozatait a megfelelő részletekkel – visszaigazolásokkal, nyomon követéssel, idővonal-frissítésekkel – készíti el. Te átnézed és elküldöd. Kezeli a virágüzleteket, vendéglátókat, helyszíneket, DJ-ket, fotósokat és minden más eladót a rolodexben."
+    },
+    {
+      "question": "Egész nap a helyszínen vagyok esküvőkön és helyszíneken. Lemaradok az új megkeresésekről?",
+      "answer": "A Duet pontosan ezt oldja meg. Amikor néhány e-mailt kérdez az elérhetőségről vagy a csomagokról, miközben Ön a helyszínen koordinálja, a Duet meleg, professzionális választ készít a tényleges elérhetőségről és a következő lépésekről. Áttekintheti és elküldheti, amikor szabadon van – akár telefonjáról is az események között. A legtöbb tervező azt mondja, hogy a csúcsszezonban napi 1-2 óra e-mail-időt takarít meg."
+    }
+  ],
+  "pricingNote": "Esküvőnként 8000 dollárért egy megtakarított ügyfél több mint 20 évnyi Pro-ért fizet."
+}

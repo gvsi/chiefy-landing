@@ -1,0 +1,171 @@
+{
+  "slug": "atv-tours",
+  "pageTitle": "Duet Mail pre ATV a UTV túry | AI asistent na e-maily",
+  "metaDescription": "Duet Mail pomáha sprievodcom ATV a UTV túr okamžite odpovedať na e-maily s rezerváciami — aj priamo z trasy. AI pripraví odpovede s vašimi cenami, požiadavkami a vaším štýlom.",
+  "heroBadge": "Dôveruje mu viac ako 200 sprievodcov",
+  "heroHeadline": "Váš e-mailový asistent, keď ste na trase",
+  "heroSubline": "Duet sa naučí typy vašich túr, ceny a požiadavky na jazdcov — a potom pripraví odpovede na e-maily, aby ste nikdy neprišli o rezerváciu pre pomalú reakciu.",
+  "inboxEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Voľné miesto v sobotu pre 4 stroje?",
+      "preview": "Ahoj! Sme skupina 4 osôb a chceme si rezervovať sprievodcu na ATV túru túto sobotu. Máte voľno? Aká je cena za stroj?",
+      "pill": "Treba odpovedať",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Požiadavky na poistenie?",
+      "preview": "Ahoj, prídeme s vlastnými UTV. Treba predložiť doklad o zodpovednostnom poistení? Aké krytie požadujete...",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Ktorá trasa je vhodná pre začiatočníkov?",
+      "preview": "Ešte sme nikdy nejazdili na ATV. Ktorú trasu by ste odporučili rodine s dvoma tínedžermi? Poskytujete...",
+      "pill": "Rezervácia",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nová recenzia pre vašu ponuku",
+      "preview": "Cestovateľ nedávno ohodnotil vašu firmu. Pozrite si, čo povedal, a odpovedzte...",
+      "pill": "Pre info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ahoj Rachel! V sobotu máme voľno a 4 stroje vezmeme bez problémov. Tury stoja 200 $ za stroj a trvajú približne 6–8 hodín. Stretávame sa o 9:00 na začiatku trasy — po potvrdení pošlem presné pokyny. Prilby a okuliare sú v cene. Chceš, aby som ti to zarezervoval?",
+  "math": {
+    "pricePerBooking": "$800",
+    "bookingUnit": "skupina (4 stroje)",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,400",
+    "punchline": "Jedna zachránená skupinová rezervácia zaplatí rok Duet."
+  },
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže najprv vidíte žiadosti o rezerváciu, potom otázky o poistení a hluk nikdy. Už žiadne prehliadnuté skupinové dopyty skryté pod upozorneniami TripAdvisor.",
+  "draftSubtitle": "Duet sa naučí trasy vašich túr, ceny a požiadavky na jazdcov. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s detailmi výletu, cenou a tým, čo si priniesť. Vy ju skontrolujete a odošlete.",
+  "agentSubtitle": "\"Máte nejaké skupiny rezervované na tento víkend?\" \"Priprav odpoveď Rachel s voľnou kapacitou v sobotu.\" Duet pozná vašu doručenú poštu aj rozvrh — stačí sa opýtať.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Voľné miesto v sobotu pre 4 stroje?",
+      "preview": "Sme skupina 4 osôb a chceme si rezervovať sprievodcu na ATV túru...",
+      "pill": "Odpovedať teraz",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervácia potvrdená — sobota 9:00",
+      "pill": "Rezervované",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Čo si máme obliecť na trasu?",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Yelp for Business",
+      "avatarLetter": "Y",
+      "avatarColor": "lavender",
+      "subject": "Váš týždenný prehľad podnikania",
+      "pill": "Pre info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Rocky Mountain ATV",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Jarný výpredaj — 25 % zľava na diely",
+      "pill": "Akcie",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.w@email.com",
+    "subject": "Re: Voľné miesto v sobotu pre 4 stroje?",
+    "originalFrom": "Rachel W. napísala:",
+    "originalText": "Ahoj! Sme skupina 4 osôb a chceme si rezervovať sprievodcu na ATV túru túto sobotu. Máte voľno? Aká je cena za stroj?",
+    "lines": [
+      "Ahoj Rachel!",
+      "V sobotu máme voľno pre 4 stroje. Tury stoja 200 $ za stroj a trvajú 6–8 hodín, začiatok je o 9:00 od začiatku trasy.",
+      "Prilby a okuliare poskytujeme — stačí mať dlhé nohavice, uzavretú obuv a priniesť si vodu a opaľovací krém. Po potvrdení pošlem miesto stretnutia a pokyny.",
+      "Chceš, aby som ti to zarezervoval?"
+    ],
+    "highlightText": "V sobotu máme voľno pre 4 stroje. Tury stoja 200 $ za stroj",
+    "tooltipFeatures": [
+      "Pozná vaše ceny a trasy túr",
+      "Pripravuje text vo vašom štýle",
+      "Automaticky pridáva požiadavky na jazdcov",
+      "Postupne sa učí"
+    ]
+  },
+  "agent": {
+    "userMessage": "Máte na tento víkend nejaké rezervované skupiny?",
+    "agentResponse": "Na základe vašej doručenej pošty máte jednu potvrdenú skupinu 6 osôb na sobotu o 9:00 a jednu rezerváciu na nedeľné ráno. Sobota popoludní aj nedeľa popoludní sú stále voľné. Chcete, aby som pripravil odpoveď na niektorý z čakajúcich dopytov s týmito voľnými termínmi?",
+    "followUp": "Priprav odpoveď pre Rachel s voľnou kapacitou v sobotu",
+    "followUpResponse": "Hotovo! Pripravil som odpoveď pre Rachel s potvrdením soboty pre 4 stroje po 200 $ za kus. Zahŕňa vaše štandardné miesto stretnutia, informácie o výbave a čo si obliecť. Je pripravená na kontrolu a odoslanie."
+  },
+  "testimonialsTitle": "Obľúbené medzi sprievodcami a prevádzkovateľmi túr",
+  "testimonials": [
+    {
+      "name": "Mike D.",
+      "title": "Sprievodca ATV, južný Utah",
+      "quote": "Vediem 8-hodinové túry kaňonmi bez signálu. Kým som sa vrátil, polovica mojich e-mailov s rezerváciami stratila záujem. Duet pripraví odpovede s mojimi cenami a informáciami o trase — ja ich len na konci dňa skontrolujem.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Tara M.",
+      "title": "Prevádzkovateľ UTV túr, Colorado",
+      "quote": "Robíme túry 7 dní v týždni a samotné otázky o poistení a zrieknutí sa zodpovednosti mi brali celé rána. Duet vybaví všetko — požiadavky na jazdcov, vekové obmedzenia, čo si priniesť. Znie presne ako ja.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Sprievodca Jeep túr, Moab",
+      "quote": "Ľudia píšu a pýtajú sa, ktorá trasa je vhodná pre ich skupinu, akú úroveň skúseností potrebujú, či môžu ísť aj deti. Stále tie isté 5 otázky dokola. Duet trafí každú z nich presne.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Nicole S.",
+      "title": "Off-Road Adventures, AZ",
+      "quote": "Každý večer som trávila viac než hodinu odpovedaním na tie isté otázky o dostupnosti. Teraz Duet pripravuje odpovede, zatiaľ čo som na trase. Môj čas reakcie sa skrátil z hodín na minúty.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Amanda K.",
+      "title": "Rodinné ATV túry, Sedona",
+      "quote": "Dostávame veľa otázok od rodín o trasách pre začiatočníkov a vekových požiadavkách. Duet sa naučil všetky naše možnosti túr a v každej odpovedi odporučí tú správnu. Klienti nevedia rozoznať rozdiel.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Trávte špičku sezóny na trase,\nnie v e-mailovej schránke.",
+  "ctaSubline": "Začnite bezplatnú skúšobnú verziu. Pripojte si inbox za 30 sekúnd.",
+  "verticalFaqs": [
+    {
+      "question": "Zvláda Duet otázky o poistení a formulároch o zrieknutí sa zodpovednosti?",
+      "answer": "Áno. Duet sa naučí požiadavky na jazdcov — zodpovednostné poistenie, vekové obmedzenia, detaily formulárov, čo si jazdci majú priniesť. Keď niekto napíše a pýta sa, čo potrebuje pred túrou, Duet pripraví kompletnú odpoveď so všetkými detailmi. Vy ju skontrolujete a odošlete."
+    },
+    {
+      "question": "Som celý deň na trase bez signálu. Ako mi Duet pomôže?",
+      "answer": "Presne preto si sprievodcovia Duet obľúbili. Zatiaľ čo vediete 6–8-hodinovú túru bez signálu, dopyty na rezervácie sa hromadia. Duet pripraví odpovede na každý z nich — ceny, dostupnosť, miesto stretnutia, čo si obliecť. Keď sa vrátite, návrhy skontrolujete a odošlete. Väčšina sprievodcov nám hovorí, že im to počas hlavnej sezóny ušetrí 1–2 hodiny denne."
+    }
+  ],
+  "pricingNote": "Pri 200 $ za stroj ušetrí jedna skupina 4 osôb viac než rok Pro."
+}

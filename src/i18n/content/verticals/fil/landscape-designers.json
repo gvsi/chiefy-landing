@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail para sa Mga Disenyo ng Landscape | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga landscape designer na tumugon kaagad sa mga email ng kliyente — kahit na mula sa field. AI-drafted na mga tugon kasama ang mga detalye ng iyong proyekto, pagpepresyo, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 300+ landscape designer",
+  "heroHeadline": "Ang iyong email assistant habang ikaw ay nasa field",
+  "heroSubline": "Natutunan ng Duet ang mga detalye ng iyong proyekto, mga palette ng halaman, pagpepresyo, at proseso — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng kliyente sa mabagal na pagtugon.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Muling disenyo sa likod-bahay — libre para sa isang konsultasyon?",
+      "preview": "Hi! Bumili lang kami ng bahay sa Westlake at blangko ang likod-bahay. Gusto namin ang isang buong muling disenyo na may mga katutubong planting at patio. Kumuha ka ba ng mga bagong kliyente?",
+      "pill": "Upang Tumugon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Mga detalye ng patubig para sa proyekto ng Miller?",
+      "preview": "Uy, handa na kaming magsimulang mag-trench sa Lunes. Maaari mo bang ipadala ang layout ng irigasyon at mga detalye ng ulo para makapag-order kami ng mga materyales ngayong linggo?",
+      "pill": "Kontratista",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Sina Jennifer at Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Mabilis na tanong tungkol sa mga seleksyon ng halaman",
+      "preview": "Gustung-gusto namin ang disenyo! Nagtataka lang — maaari ba nating palitan ang Japanese maple para sa isang bagay na may higit na kulay ng taglagas? Gayundin, ang lavender deer-resistant ba?",
+      "pill": "Kliyente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Order #4821 ready for pickup",
+      "preview": "Ang iyong order ng 24 gallon shrubs, 6 specimen tree, at ground cover flats ay handa na. Available ang pickup Mon–Sab 7AM–4PM...",
+      "pill": "Supplier",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hi Rachel! Gusto kong tumulong sa iyong likod-bahay. Kasalukuyan akong nagbu-book ng mga paunang konsultasyon 2-3 linggo. Ang unang pagbisita ay isang 90 minutong on-site na pagtatasa — lalakad ako sa property, magsusukat, at tatalakayin ang iyong paningin. Mula doon ay naglagay ako ng isang plano ng konsepto. Gusto mo bang isama kita sa kalendaryo?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "proyekto",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Ang isang naka-save na proyekto ay nagbabayad para sa mga taon ng Duet."
+  },
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga bagong kahilingan sa konsultasyon, pangalawa ang mga pag-apruba ng kliyente, at hindi kailanman ingay ng supplier. Wala nang nawawalang lead na nakabaon sa ilalim ng kumpirmasyon ng order ng nursery.",
+  "draftSubtitle": "Natutunan ng duet ang iyong pagpepresyo, proseso, at tono. Kapag tumama ang isang kahilingan sa konsultasyon, nag-draft ito ng kumpletong tugon kasama ang iyong availability, kung ano ang aasahan, at mga susunod na hakbang. I-review at ipadala mo.",
+  "agentSubtitle": "\"Ano ang timeline sa proyekto ng Henderson?\" \"Aling mga kliyente ang naghihintay sa pag-apruba ng plano?\" Alam ng duet ang iyong inbox at mga proyekto — magtanong lang.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Muling disenyo sa likod-bahay — libre para sa isang konsultasyon?",
+      "preview": "Bumili lang kami ng bahay at blangko ang likod-bahay...",
+      "pill": "Bagong Pagtatanong",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Panghuling disenyo — handa na kaming aprubahan!",
+      "pill": "Pag-apruba ng Kliyente",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Mga detalye ng patubig para sa proyekto ng Miller?",
+      "pill": "Kontratista",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Order #4821 ready for pickup",
+      "pill": "Supplier",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Mga QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Invoice #1047 na tiningnan ng kliyente",
+      "pill": "Invoice",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Backyard redesign — libre para sa isang konsultasyon?",
+    "originalFrom": "Sumulat si Rachel T.:",
+    "originalText": "Hi! Bumili lang kami ng bahay sa Westlake at blangko ang likod-bahay. Gusto namin ang isang buong muling disenyo na may mga katutubong planting at patio. Kumuha ka ba ng mga bagong kliyente?",
+    "lines": [
+      "Hi Rachel!",
+      "Binabati kita sa bagong tahanan — isang blangkong slate sa likod-bahay ay sa totoo lang ang pangarap na proyekto. Talagang kumukuha ako ng mga bagong kliyente.",
+      "Nagsisimula ang aking proseso sa isang 90 minutong konsultasyon sa lugar kung saan nilalakad ko ang property, nagsusukat, at pinag-uusapan ang iyong mga layunin. Mula roon ay bumuo ako ng isang konseptong plano na may disenyo ng pagtatanim, layout ng hardscape, at isang unti-unting badyet.",
+      "Mayroon akong mga pagbubukas sa susunod na 2-3 linggo. Gusto ko bang magpadala sa ilang available na petsa?"
+    ],
+    "highlightText": "Nagsisimula ang aking proseso sa isang 90 minutong konsultasyon sa lugar",
+    "tooltipFeatures": [
+      "Alam ang proseso ng iyong disenyo at pagpepresyo",
+      "Mga draft sa iyong boses",
+      "Awtomatikong kasama ang mga detalye ng konsultasyon",
+      "Natututo sa paglipas ng panahon"
+    ]
+  },
+  "agent": {
+    "userMessage": "Sinong mga kliyente ang naghihintay pa rin sa pag-apruba ng plano?",
+    "agentResponse": "Batay sa iyong mga kamakailang email, dalawang kliyente ang nakabinbing pag-apruba: Jennifer at Mark L. (backyard redesign — nagpadala ng mga huling plano 4 na araw ang nakalipas, wala pang tugon) at ang Cohens (front yard native conversion — nagpadala ng binagong plano noong nakaraang linggo). Gusto ko bang gumawa ng magiliw na follow-up sa alinman?",
+    "followUp": "Mag-draft ng follow-up kay Jennifer tungkol sa pag-apruba ng plano",
+    "followUpResponse": "Tapos na! Nag-draft ako ng magiliw na pag-check-in kay Jennifer na nagtatanong kung nagkaroon sila ni Mark ng pagkakataong suriin ang mga huling plano, at ipinapaalala sa kanya na maaari kang sumakay sa isang mabilis na tawag upang maglakad sa mga seleksyon ng halaman. Handa nang suriin at ipadala."
+  },
+  "testimonialsTitle": "Gustung-gusto ng mga taga-disenyo ng landscape",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Arkitekto ng Landscape, Austin TX",
+      "quote": "Sa panahon ng tagsibol, nasa site ako 8 oras sa isang araw na gumagawa ng mga pagtatasa at pagsubaybay sa pag-install. Ang mga bagong kahilingan sa konsultasyon ay tatagal ng ilang araw. Ngayon ang Duet ay tumugon sa aking proseso at kakayahang magamit sa loob ng ilang minuto. Nakapag-book ako ng 3 proyekto na tiyak na mawawala ako.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Disenyo ng Hardin, Portland O",
+      "quote": "Ang pakikipag-ugnayan sa pagitan ng mga crew ng hardscape, mga installer ng patubig, at mga kliyente ay bumubuo ng isang walang katotohanan na dami ng email. Pinag-uuri-uriin ng duet ang lahat at nag-draft ng mga tugon na kinabibilangan ng mga tamang detalye ng proyekto. Parang may studio manager.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "May-ari ng Landscape Design Studio, Denver CO",
+      "quote": "Madalas akong gumugugol tuwing gabi pagkatapos ng fieldwork sa pagbabasa ng mga email. Parehong mga tanong — pagpepresyo, proseso, timeline. Duet ang humahawak sa lahat ng ito. Ang oras ng pagtugon ko ay nagpunta mula sa mga araw hanggang minuto at ang aking malapit na rate ay tumataas.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Residential Landscape Designer, Scottsdale AZ",
+      "quote": "Ang aking mga kliyente ay nagtatanong ng maraming tanong tungkol sa mga seleksyon at pagpapanatili ng halaman. Natutunan ng duet ang aking mga palette ng halaman at mga tagubilin sa pangangalaga at mga draft na tugon na halos hindi ko na kailangang i-edit. Iniisip ng mga kliyente na hindi ako kapani-paniwalang tumutugon.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Native Plant Landscape Designer, Raleigh NC",
+      "quote": "Nawawalan ako ng mga bagong kliyente dahil hindi ako nakasagot habang hanggang tuhod ako sa isang planting install. Ang duet ay gumagawa ng mga tugon sa konsultasyon sa aking eksaktong proseso, pagpepresyo, at kung ano ang aasahan. Nagbayad ito para sa sarili nitong unang linggo.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Gumugol ng iyong mga araw sa paglikha ng mga landscape, \nhindi nakakakuha ng email.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
+  "verticalFaqs": [
+    {
+      "question": "Kakayanin ba ng Duet ang spring rush kapag tumambak ang mga kahilingan sa konsultasyon?",
+      "answer": "Ganyan talaga kapag Duet ang kumikinang. Sa panahon ng iyong pinaka-abalang season, ang bawat bagong pagtatanong ay nakakakuha ng mabilis, detalyadong tugon sa iyong proseso, timeline, at availability — kahit na nasa site ka buong araw. Wala nang nawawalang spring leads dahil hindi ka makakabalik sa kanila hanggang 9 PM."
+    },
+    {
+      "question": "Nakikipag-coordinate ako sa maraming crew sa labas. Nakakatulong ba ang Duet diyan?",
+      "answer": "Oo. Natutunan ng Duet ang iyong mga proyekto at ang mga kontratistang kasangkot — hardscape, irigasyon, planting crew, nursery. Ikinakategorya nito ang mga email ng kontratista nang hiwalay mula sa mga email ng kliyente, at maaaring mag-draft ng mga tugon na may mga detalyeng partikular sa proyekto tulad ng mga spec, timeline, at materyales. Mananatili ka sa tuktok ng bawat crew nang walang kaguluhan sa inbox."
+    }
+  ],
+  "pricingNote": "Sa $8,000/proyekto, ang isang naka-save na kliyente ay nagbabayad para sa mga taon ng Pro."
+}

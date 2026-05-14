@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail Peyzaj Tasarımcıları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, peyzaj tasarımcılarının müşteri e-postalarına anında, hatta sahadayken bile yanıt vermelerine yardımcı olur. AI tarafından hazırlanan yanıtlar, projenizin ayrıntılarını, fiyatlandırmayı ve ses tonunuzu içerir.",
+  "heroBadge": "300'den fazla peyzaj tasarımcısı tarafından güvenilen marka",
+  "heroHeadline": "Sahada olduğunuz süre boyunca e-posta yardımcınız.",
+  "heroSubline": "Duet projenizin detaylarını, bitki paletlerini, fiyatlandırmayı ve süreci öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece hiçbir müşterinizi yavaş yanıt verme nedeniyle kaybetmezsiniz.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Bahçe yeniden tasarımı - ücretsiz danışmanlık hizmeti mi?",
+      "preview": "Merhaba! Westlake'te yeni bir ev aldık ve arka bahçe tamamen boş. Yerel bitkilerle ve bir verandayla tam bir yeniden tasarım istiyoruz. Yeni müşteri kabul ediyor musunuz?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Peyzaj Düzenleme Şirketi",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Miller projesi için sulama sistemi özellikleri nelerdir?",
+      "preview": "Merhaba, pazartesi günü kazı çalışmalarına başlamaya hazırız. Sulama düzeni ve sulama başlığı özelliklerini bize gönderebilir misiniz, böylece bu hafta malzeme siparişi verebiliriz?",
+      "pill": "Müteahhit",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer ve Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Bitki seçimleriyle ilgili kısa bir soru.",
+      "preview": "Tasarımı çok beğendik! Sadece merak ettiğimiz bir şey var: Japon akçaağacı yerine sonbahar renklerine daha uygun bir şey kullanabilir miyiz? Ayrıca, lavanta geyiklere karşı dayanıklı mı?",
+      "pill": "Müşteri",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Vadi Manzarası Fidanlığı",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "4821 numaralı sipariş teslim almaya hazır.",
+      "preview": "24 galonluk saksılarda bulunan çalılar, 6 adet özel ağaç ve yer örtücü bitkilerden oluşan siparişiniz hazır. Teslim alma saatleri Pazartesi-Cumartesi 07:00-16:00 arasındadır.",
+      "pill": "Tedarikçi",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Rachel! Bahçenizle ilgili size yardımcı olmaktan mutluluk duyarım. Şu anda ilk görüşmeleri 2-3 hafta sonrasına planlıyorum. İlk ziyaret 90 dakikalık yerinde bir değerlendirme olacak; araziyi gezeceğim, ölçümler alacağım ve vizyonunuzu görüşeceğim. Ardından bir konsept planı oluşturacağım. Sizi takvime eklememi ister misiniz?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "proje",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Kurtarılan bir proje, yıllarca süren Duet masraflarını karşılıyor."
+  },
+  "categorizationSubtitle": "Duet, her e-postayı otomatik olarak etiketleyerek önce yeni danışma taleplerini, sonra müşteri onaylarını ve tedarikçi kaynaklı gereksiz mesajları asla görmemenizi sağlar. Artık fidanlık sipariş onaylarının altında gizlenmiş bir potansiyel müşteriyi kaçırmayacaksınız.",
+  "draftSubtitle": "Duet fiyatlandırmanızı, sürecinizi ve üslubunuzu öğrenir. Bir danışma talebi geldiğinde, müsaitlik durumunuzu, neler bekleyeceğinizi ve sonraki adımları içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Henderson projesinin zaman çizelgesi nedir?\" \"Hangi müşteriler plan onayını bekliyor?\" Duet gelen kutunuzu ve projelerinizi biliyor — sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Bahçe yeniden tasarımı - ücretsiz danışmanlık hizmeti mi?",
+      "preview": "Yeni bir ev aldık ve arka bahçe bomboş...",
+      "pill": "Yeni Soruşturma",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Konu: Son tasarım — onaylamaya hazırız!",
+      "pill": "Müşteri Onayı",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Peyzaj Düzenleme Şirketi",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Miller projesi için sulama sistemi özellikleri nelerdir?",
+      "pill": "Müteahhit",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Vadi Manzarası Fidanlığı",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "4821 numaralı sipariş teslim almaya hazır.",
+      "pill": "Tedarikçi",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Müşteri tarafından görüntülenen 1047 numaralı fatura.",
+      "pill": "Fatura",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Konu: Bahçe yeniden tasarımı — ücretsiz danışmanlık hizmeti?",
+    "originalFrom": "Rachel T. şöyle yazdı:",
+    "originalText": "Merhaba! Westlake'te yeni bir ev aldık ve arka bahçe tamamen boş. Yerel bitkilerle ve bir verandayla tam bir yeniden tasarım istiyoruz. Yeni müşteri kabul ediyor musunuz?",
+    "lines": [
+      "Merhaba Rachel!",
+      "Yeni eviniz hayırlı olsun — bomboş bir arka bahçe gerçekten de hayal gibi bir proje. Kesinlikle yeni müşteriler kabul ediyorum.",
+      "Sürecim, mülkü gezdiğim, ölçümler aldığım ve hedeflerinizi konuştuğum 90 dakikalık yerinde bir danışmanlık görüşmesiyle başlıyor. Buradan yola çıkarak, bitki tasarımı, peyzaj düzenlemesi ve aşamalı bir bütçe içeren bir konsept planı geliştiriyorum.",
+      "Önümüzdeki 2-3 hafta içinde müsaitliklerim var. Size müsait olduğum tarihleri ​​göndermemi ister misiniz?"
+    ],
+    "highlightText": "Sürecim 90 dakikalık yerinde görüşmeyle başlıyor.",
+    "tooltipFeatures": [
+      "Tasarım sürecinizi ve fiyatlandırmanızı biliyor.",
+      "Sesinizdeki taslaklar",
+      "Danışma detaylarını otomatik olarak içerir.",
+      "Zamanla öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Hangi müşteriler hâlâ plan onayını bekliyor?",
+    "agentResponse": "Son e-postalarınıza göre, iki müşteri onay bekliyor: Jennifer ve Mark L. (arka bahçe yeniden tasarımı - son planları 4 gün önce gönderdiler, henüz yanıt yok) ve Cohen'ler (ön bahçenin doğal bitki örtüsüne dönüştürülmesi - revize edilmiş planı geçen hafta gönderdiler). İkisinden birine nazik bir takip yazısı yazmamı ister misiniz?",
+    "followUp": "Jennifer'a plan onayına ilişkin bir takip yazısı taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Jennifer'a, kendisinin ve Mark'ın son planları gözden geçirme fırsatı bulup bulmadıklarını soran ve bitki seçimlerini görüşmek üzere kısa bir telefon görüşmesi yapabileceklerini hatırlatan samimi bir not taslağı hazırladım. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "Peyzaj tasarımcıları tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Peyzaj Mimarı, Austin TX",
+      "quote": "Bahar aylarında günde 8 saat sahada değerlendirme ve kurulum denetimi yapıyorum. Yeni danışmanlık talepleri günlerce bekliyordu. Şimdi ise Duet dakikalar içinde süreç ve müsaitlik durumumla ilgili yanıt veriyor. Kesinlikle kaybedeceğim 3 projeyi kazandım.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Bahçe Tasarımcısı, Portland OR",
+      "quote": "Peyzaj düzenleme ekipleri, sulama sistemi kurulumcuları ve müşteriler arasında koordinasyon sağlamak inanılmaz miktarda e-posta trafiğine yol açıyor. Duet tüm bunları düzenliyor ve doğru proje detaylarını içeren yanıt taslakları hazırlıyor. Sanki bir stüdyo yöneticiniz varmış gibi.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Peyzaj Tasarım Stüdyosu Sahibi, Denver CO",
+      "quote": "Eskiden saha çalışmalarından sonra her akşam e-postalarıma bakarak vakit geçirirdim. Hep aynı sorular: fiyatlandırma, süreç, zaman çizelgesi. Duet bunların hepsini hallediyor. Yanıt sürem günlerden dakikalara indi ve satış oranım da çok arttı.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Konut Peyzaj Tasarımcısı, Scottsdale AZ",
+      "quote": "Müşterilerim bitki seçimi ve bakımı hakkında çok soru soruyor. Duet bitki paletlerimi ve bakım talimatlarımı öğrendi ve neredeyse hiç düzenleme yapmama gerek kalmayan taslak yanıtlar hazırlıyor. Müşteriler inanılmaz derecede hızlı yanıt verdiğimi düşünüyor.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Yerel Bitki Peyzaj Tasarımcısı, Raleigh NC",
+      "quote": "Yeni müşterilerimi kaybediyordum çünkü bir bitki dikimiyle uğraşırken onlara cevap veremiyordum. Duet, danışma taleplerine tam olarak izlediğim süreci, fiyatlandırmayı ve neler beklemeniz gerektiğini içeren taslak yanıtlar hazırlıyor. İlk hafta kendini amorti etti.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Günlerinizi manzara resimleri çizerek geçirin,\ne-postalarınıza bakarak değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Duet, danışma taleplerinin biriktiği bahar yoğunluğunun üstesinden gelebilir mi?",
+      "answer": "İşte tam da bu noktada Duet devreye giriyor. En yoğun sezonunuzda, her yeni talebe, süreç, zaman çizelgesi ve müsaitlik durumunuzla ilgili hızlı ve ayrıntılı bir yanıt alıyorsunuz; hatta tüm gün sahada olsanız bile. Artık bahar aylarındaki potansiyel müşterileri, akşam 9'a kadar geri dönemediğiniz için kaybetmek yok."
+    },
+    {
+      "question": "Çeşitli dış mekan ekipleriyle koordinasyon sağlıyorum. Duet bu konuda yardımcı olabilir mi?",
+      "answer": "Evet. Duet projelerinizi ve ilgili yüklenicileri (peyzaj, sulama, bitki dikim ekipleri, fidanlıklar) öğrenir. Yüklenici e-postalarını müşteri e-postalarından ayrı olarak kategorize eder ve proje özelinde ayrıntılar (teknik özellikler, zaman çizelgeleri ve malzemeler gibi) içeren yanıt taslakları oluşturabilir. Gelen kutunuzdaki karmaşaya gerek kalmadan her ekibi takip edebilirsiniz."
+    }
+  ],
+  "pricingNote": "$8,000/proje fiyatıyla, kazanılan her bir müşteri Pro'in yıllarca sürecek hizmetinin bedelini karşılıyor."
+}

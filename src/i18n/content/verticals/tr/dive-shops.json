@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail Dalış Mağazaları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, dalış mağazası sahiplerinin ve PADI eğitmenlerinin sertifikasyon sorularına, gezi rezervasyonlarına ve ekipman sorularına anında -hatta su altından bile- yanıt vermelerine yardımcı olur.",
+  "heroBadge": "300'den fazla dalış operatörü tarafından güvenilen",
+  "heroHeadline": "Sualtıdayken e-posta asistanınız",
+  "heroSubline": "Duet dalış noktalarınızı, sertifika gereksinimlerinizi, fiyatlandırmayı ve sesinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece teknedeyken hiçbir rezervasyonunuzu kaybetmezsiniz.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Açık Su Dalgıçlığı sertifikası — mevcut mu?",
+      "preview": "Merhaba! Ağustos ayının ilk haftasında ziyaret edeceğim ve Açık Su Dalış Sertifikası almak istiyorum. Kaç gün sürüyor ve neleri kapsıyor?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin ve Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Cumartesi günü 2 tüplü dalış için 6 kişilik grup.",
+      "preview": "6 sertifikalı dalgıcımız var ve bu Cumartesi sabahı 2 tüplü dalış rezervasyonu yaptırmak istiyoruz. Yeriniz var mı? Kişi başı ücretiniz nedir?",
+      "pill": "Rezervasyon",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Haftasonu için BCD kiralama?",
+      "preview": "Merhaba, sertifikam var ama hafif ekipmanla seyahat ediyorum. Cuma-Pazar günleri için dalış yeleği ve regülatör kiralıyor musunuz? Bunlara ihtiyacım olacak...",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI e-Öğrenme",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Öğrenci yönlendirmesi: Rachel Torres",
+      "preview": "Bir öğrenci uzaktan eğitimini tamamladı ve kapalı ve açık su dalış eğitimleri için sizin dalış merkezinizi seçti...",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Rachel! Sertifikanı almanı çok isteriz. Açık Su Dalış kursu 3 gün sürüyor; bir gün havuz seansları ve iki gün okyanus dalışları. Tüm ekipman dahil. Ağustos ayı tamamen müsait. İlk hafta için yer ayırtmamı ister misin?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "dalmak",
+    "lostPerMonth": "3 trips (6 divers each)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Kurtarılan bir grup dalışı, Duet'ın bir yıllık ücretini karşılıyor."
+  },
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce sertifika sorgularını ve dalış rezervasyonlarını, sonra ekipman sorularını ve hazır olduğunuzda PADI uyarılarını görmenizi sağlar. Artık ekipman bültenlerinin altında kaybolan grup rezervasyonlarını kaçırmayacaksınız.",
+  "draftSubtitle": "Duet dalış noktalarınızı, sertifika gereksinimlerinizi ve fiyatlandırmayı öğrenir. Bir rezervasyon talebi geldiğinde, gezi detayları, nelerin dahil olduğu ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Cumartesi için kaç dalgıç rezervasyon yaptırdı?\" \"Rachel'a Açık Su dalışı müsaitliğiyle ilgili bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Açık Su Dalgıçlığı sertifikası — mevcut mu?",
+      "preview": "Ağustos ayının ilk haftasında ziyaret edeceğim ve sertifika almak istiyorum...",
+      "pill": "Şimdi Yanıt Verin",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Konu: Rezervasyon onaylandı — Cumartesi 2 tüplü dalış",
+      "pill": "Rezervasyon yapıldı",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Bu hafta sonu BCD ve regülatör kiralama?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Dalış Arkadaşı",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "İlanınıza yeni yorum",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dalış Ekipmanları Ekspresi",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Yaz indirimi — dalış kıyafetlerinde %25 indirim",
+      "pill": "Promosyonlar",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Konu: Açık Su Dalış Sertifikası — Erişilebilirlik?",
+    "originalFrom": "Rachel T. şöyle yazdı:",
+    "originalText": "Merhaba! Ağustos ayının ilk haftasında ziyaret edeceğim ve Açık Su Dalış Sertifikası almak istiyorum. Kaç gün sürüyor ve neleri kapsıyor?",
+    "lines": [
+      "Merhaba Rachel!",
+      "Sertifika almanızı çok isteriz! PADI Açık Su Dalış kursu 3 gün sürer; bir havuz seansı ve resifimizde iki okyanus dalışı içerir. Tüm ekipman dahildir.",
+      "Ağustos ayı şu an için tamamen açık. Çoğu öğrenci Pazartesi başlıyor ve Çarşamba günü bitiriyor.",
+      "Yer ayırtmamı ister misiniz?"
+    ],
+    "highlightText": "PADI Açık Su Dalış kursu 3 gün sürmektedir.",
+    "tooltipFeatures": [
+      "Kurslarınızı ve fiyatlandırmanızı biliyor.",
+      "Sesinizdeki taslaklar",
+      "Sertifika gereksinimlerini otomatik olarak içerir.",
+      "Zamanla öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Cumartesi günü için kaç dalgıç rezervasyon yaptırdı?",
+    "agentResponse": "Gelen kutunuza göre, Cumartesi sabahı yapılacak 2 tüplü dalış için 8 dalgıcınız onaylanmış durumda: Kevin'in 6 kişilik grubu ve 2 bireysel rezervasyon. Ayrıca Jason'dan aynı gezi için ekipman kiralama ile ilgili bekleyen bir sorunuz var. Bir yanıt taslağı hazırlamamı ister misiniz?",
+    "followUp": "Rachel'a Açık Su Kayağı kursunun detaylarını içeren bir yanıt taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Rachel'a 3 günlük PADI Açık Su Dalış kursunu (havuz ve okyanus dalışları dahil) onaylayan bir yanıt taslağı hazırladım. Ağustos ayı müsaitliğinden ve standart ekipman dahil politikanızdan bahsediyor. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "Dalış operatörleri tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Kaptan Mike T.",
+      "title": "Dalgıç Teknesi Kaptanı, FL",
+      "quote": "Cuma, Cumartesi ve Pazar günleri tekne turları düzenliyorum ve dükkan Pazartesi günleri sadece birkaç saat açık oluyor. Su altında olduğum süre boyunca sertifikasyon soruları ve tur talepleri birikiyor. Duet fiyatlandırmam, dalış noktalarım ve nelerin dahil olduğuyla ilgili yanıt taslaklarını hazırlıyor - ben de dalışlar arasında bunları gözden geçiriyorum.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen ve Mark S.",
+      "title": "PADI Dalış Merkezi, HI",
+      "quote": "Aynı teknelerden dalış, şnorkelli yüzme turları ve balina gözlemleri düzenliyoruz. Gelen e-postaların çeşitliliği inanılmaz – sertifika soruları, grup rezervasyonları, ekipman kiralama, hava durumu kontrolleri. Duet bunların hepsini hallediyor ve aradaki farkı bilen yanıtlar hazırlıyor. Tam bir kurtarıcı.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Batık Dalış Turları, Florida",
+      "quote": "E-postalarımın yarısı 'batık dalışları için hangi sertifikaya ihtiyacım var?', diğer yarısı ise 'kendi ekipmanıma ihtiyacım var mı?' şeklinde. Duet her ikisini de otomatik olarak hallediyor. Yanıt sürem saatlerden dakikalara indi.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Dalış Malzemeleri Mağazası Sahibi, Kaliforniya",
+      "quote": "Yaz aylarında kurslar, gezi olanakları ve ekipmanlarla ilgili günde 30'dan fazla e-posta alıyoruz. Daha hızlı yanıt veren dükkanlara rezervasyon kaybediyordum. Şimdi Duet her şeyi taslak olarak hazırlıyor ve ben de ders aralarında sadece gönder tuşuna basıyorum.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Dalış Eğitmeni ve Rehberi, Kuzey Carolina",
+      "quote": "Sabahları ders veriyorum, öğleden sonraları ise dalış rehberliği yapıyorum. E-postalara cevap verecek vaktim yok. Duet ders programımı, fiyatlarımı, hatta iptal politikamı bile öğrendi. Müşteriler hiçbir fark göremiyor.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Günlerinizi su altında geçirin,\ne-posta kutunuza gömülerek değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Duet sertifika seviyelerini ve kurs gereksinimlerini anlıyor mu?",
+      "answer": "Evet. Duet, Açık Su Dalışı, İleri Seviye Dalış, Kurtarma Dalışı, Dalış Eğitmenliği gibi özel kurslarınızı, ön koşullarını, süresini, fiyatını ve nelerin dahil olduğunu öğrenir. Birisi sertifika almak hakkında soru sorduğunda, Duet doğru kurs detayları, programı ve sonraki adımları içeren bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz."
+    },
+    {
+      "question": "Bütün gün teknede veya su altındayım. Telefonumdan Duet kullanabilir miyim?",
+      "answer": "Evet. Duet, Gmail ve Outlook ile birlikte çalışır, bu nedenle e-postanızın çalıştığı her yerde (telefonunuz dahil) çalışır. Taslaklar otomatik olarak gelen kutunuzda görünür. Dalışlar arasında veya iskeleye döndüğünüzde, tek bir dokunuşla gözden geçirip gönderebilirsiniz. Çoğu dalış operatörü, yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladıklarını söylüyor."
+    }
+  ],
+  "pricingNote": "$150/dive'da 6 kişilik bir grupla yapılan bir dalış gezisi, Pro'in bir yıldan fazla süren masrafını karşılıyor."
+}

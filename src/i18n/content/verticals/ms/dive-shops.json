@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail untuk Kedai Menyelam | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu pemilik kedai menyelam dan pengajar PADI membalas pertanyaan pensijilan, tempahan trip, dan soalan peralatan dengan serta-merta — walaupun dari bawah air.",
+  "heroBadge": "Dipercayai oleh 300+ operator menyelam",
+  "heroHeadline": "Pembantu e-mel anda semasa anda di bawah air",
+  "heroSubline": "Duet mempelajari lokasi selaman anda, keperluan pensijilan, harga, dan gaya suara anda — kemudian menyusun draf balasan e-mel supaya anda tidak terlepas tempahan walaupun anda sedang di atas bot.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Pensijilan Open Water — ada kekosongan?",
+      "preview": "Hai! Saya akan datang pada minggu pertama Ogos dan ingin mendapatkan sijil Open Water saya. Berapa hari ia mengambil masa dan apa yang disertakan?",
+      "pill": "Untuk Dibalas",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin & Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Kumpulan 6 orang untuk selaman 2-tangki hari Sabtu",
+      "preview": "Kami ada 6 penyelam bertauliah dan ingin menempah selaman pagi 2-tangki pada hari Sabtu ini. Adakah anda ada kekosongan? Berapakah kadar seorang...",
+      "pill": "Tempahan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Sewa BCD untuk hujung minggu?",
+      "preview": "Hai, saya ada sijil tetapi melancong ringan. Adakah anda menyewakan BCD dan regulator? Saya perlukan dari Jumaat hingga Ahad...",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Rujukan pelajar: Rachel Torres",
+      "preview": "Seorang pelajar telah menamatkan eLearning mereka dan memilih pusat selaman anda untuk latihan confined dan open water...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Rachel! Kami teruja untuk membantu anda mendapatkan sijil. Kursus Open Water berlangsung selama 3 hari — satu hari sesi kolam dan dua hari selaman laut. Semua peralatan disertakan. Bulan Ogos masih banyak kekosongan. Mahu saya tempahkan tempat untuk minggu pertama itu?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "selaman",
+    "lostPerMonth": "3 trips (6 divers each)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Satu selaman kumpulan yang berjaya dijimatkan sudah membayar kos Duet untuk setahun."
+  },
+  "categorizationSubtitle": "Duet secara automatik menandakan setiap e-mel supaya anda melihat pertanyaan pensijilan dan tempahan selaman terlebih dahulu, soalan peralatan kedua, dan makluman PADI apabila anda sudah bersedia. Tiada lagi tempahan kumpulan yang terlepas kerana tersorok di bawah surat berita peralatan.",
+  "draftSubtitle": "Duet mempelajari lokasi selaman anda, keperluan pensijilan, dan harga. Apabila pertanyaan tempahan masuk, Duet menyusun draf balasan lengkap dengan butiran trip, apa yang disertakan, dan apa yang perlu dibawa. Anda semak dan hantar.",
+  "agentSubtitle": "\"Berapa ramai penyelam yang ditempah untuk hari Sabtu?\" \"Sediakan draf balasan kepada Rachel dengan kekosongan Open Water.\" Duet tahu peti masuk dan jadual anda — tanya saja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Pensijilan Open Water — ada kekosongan?",
+      "preview": "Saya akan melawat pada minggu pertama bulan Ogos dan ingin mendapatkan pensijilan...",
+      "pill": "Balas Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Tempahan disahkan — selaman 2 tangki pada hari Sabtu",
+      "pill": "Ditempah",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD dan sewaan regulator hujung minggu ini?",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baharu pada penyenaraian anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Jualan musim panas — diskaun 25% untuk wetsuit",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Pensijilan Open Water — ketersediaan?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Saya akan melawat pada minggu pertama bulan Ogos dan ingin mendapatkan sijil Open Water saya. Berapa hari diperlukan dan apa yang termasuk?",
+    "lines": [
+      "Hai Rachel!",
+      "Kami dengan senang hati membantu anda mendapatkan pensijilan! Kursus PADI Open Water berlangsung selama 3 hari — satu sesi kolam renang dan dua selaman laut di terumbu kami. Semua peralatan disertakan.",
+      "Bulan Ogos masih banyak kekosongan buat masa ini. Kebanyakan pelajar bermula pada hari Isnin supaya mereka selesai menjelang hari Rabu.",
+      "Nak saya tempah satu tempat?"
+    ],
+    "highlightText": "Kursus PADI Open Water berlangsung selama 3 hari",
+    "tooltipFeatures": [
+      "Tahu kursus dan harga anda",
+      "Draf dalam suara anda",
+      "Termasuk syarat pensijilan secara automatik",
+      "Belajar dari masa ke masa"
+    ]
+  },
+  "agent": {
+    "userMessage": "Berapa ramai penyelam telah ditempah untuk hari Sabtu?",
+    "agentResponse": "Berdasarkan peti masuk anda, anda mempunyai 8 penyelam yang disahkan untuk selaman 2 tangki pagi pada hari Sabtu — kumpulan Kevin seramai 6 orang ditambah 2 tempahan individu. Anda juga mempunyai pertanyaan yang belum selesai daripada Jason tentang sewaan peralatan untuk trip yang sama. Nak saya drafkan balasan?",
+    "followUp": "Drafkan balasan kepada Rachel dengan butiran kursus Open Water",
+    "followUpResponse": "Selesai! Saya telah menyediakan draf balasan kepada Rachel yang mengesahkan kursus PADI Open Water 3 hari termasuk selaman kolam dan laut. Ia menyebut ketersediaan pada bulan Ogos dan polisi standard anda yang termasuk peralatan. Sedia untuk disemak dan dihantar."
+  },
+  "testimonialsTitle": "Disukai oleh pengendali selam",
+  "testimonials": [
+    {
+      "name": "Kapten Mike T.",
+      "title": "Kapten Bot Selam, FL",
+      "quote": "Saya menjalankan trip bot dari Jumaat hingga Ahad dan kedai hanya dibuka beberapa jam pada hari Isnin. Soalan pensijilan dan pertanyaan trip bertimbun sementara saya berada di bawah air. Duet menyediakan draf balasan dengan harga saya, lokasi selam, dan apa yang termasuk — saya semak antara selaman.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Pusat Selam PADI, HI",
+      "quote": "Kami menjalankan selaman, lawatan snorkeling, dan pemerhatian paus menggunakan bot yang sama. Variasi emel memang banyak — soalan pensijilan, tempahan berkumpulan, sewaan peralatan, semakan cuaca. Duet menyusun semuanya dan menyediakan draf balasan yang memahami perbezaannya. Sangat membantu.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Penyewaan Selam Bangkai Kapal, FL",
+      "quote": "Separuh daripada emel saya ialah 'apa pensijilan yang saya perlukan untuk selaman bangkai kapal?' dan separuh lagi ialah 'adakah saya perlukan peralatan sendiri?' Duet mengurus kedua-duanya secara automatik. Masa respons saya turun daripada berjam-jam kepada minit.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Pemilik Kedai Selam, CA",
+      "quote": "Semasa musim panas kami menerima 30+ emel sehari tentang kursus, ketersediaan trip, dan peralatan. Saya kehilangan tempahan kepada kedai yang membalas lebih cepat. Kini Duet menyediakan draf semua perkara dan saya hanya tekan hantar antara kelas.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Pengajar & Pemandu Selam, NC",
+      "quote": "Saya mengajar kursus pada waktu pagi dan memandu selaman pada waktu petang. Memang tiada masa untuk menjawab emel. Duet mempelajari jadual kursus saya, harga, malah polisi pembatalan saya. Pelanggan tidak dapat membezakan perbezaannya.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Luangkan hari anda di bawah air,\nbukan tenggelam dalam peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
+  "verticalFaqs": [
+    {
+      "question": "Adakah Duet memahami tahap pensijilan dan keperluan kursus?",
+      "answer": "Ya. Duet mempelajari kursus khusus anda — Open Water, Advanced, Rescue, Divemaster — bersama prasyarat, tempoh, harga, dan apa yang termasuk. Apabila seseorang bertanya tentang mendapatkan pensijilan, Duet menyediakan draf balasan dengan butiran kursus, jadual, dan langkah seterusnya yang tepat. Anda semak dan hantar."
+    },
+    {
+      "question": "Saya berada di bot atau di bawah air sepanjang hari. Bolehkah saya menggunakan Duet dari telefon saya?",
+      "answer": "Ya. Duet berfungsi dengan Gmail dan Outlook, jadi ia berfungsi di mana sahaja emel anda berfungsi — termasuk telefon anda. Draf muncul secara automatik dalam peti masuk anda. Di antara selaman atau kembali ke jeti, anda semak dan hantar dengan satu ketikan. Kebanyakan pengendali selam memberitahu kami ia menjimatkan mereka 1-2 jam masa emel setiap hari semasa musim puncak."
+    }
+  ],
+  "pricingNote": "Pada $150/selam dengan kumpulan 6 orang, satu trip yang dijimatkan membayar lebih daripada setahun Pro."
+}

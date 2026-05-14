@@ -1,15 +1,29 @@
 ---
 import LegalLayout from "../layouts/LegalLayout.astro"
-import contentHtml from "../snippets/legal/disclaimer.html?raw"
+import { DEFAULT_LOCALE } from "../i18n/locales"
+import { localizedPath } from "../i18n/routing"
+import { getAlternateLinksForRoute, getLegalContent, getRouteTranslationState, robotsForTranslationState } from "../i18n/content"
+import { getMessages, t } from "../i18n/messages/schema"
 
-const title = "Disclaimer - Duet Mail"
-const description = "Duet Mail's Disclaimer Legal Page"
+const locale = DEFAULT_LOCALE
+const page = "disclaimer"
+const messages = getMessages(locale)
+const contentHtml = getLegalContent(locale, page)
+const title = t(messages, "legal.pages.disclaimer.title")
+const description = t(messages, "legal.pages.disclaimer.description")
+const canonicalPath = localizedPath(locale, { kind: "legal", page })
+const alternates = await getAlternateLinksForRoute(Astro.site, { kind: "legal", page })
+const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "legal", locale, page }))
 ---
 
 <LegalLayout
+    locale={locale}
+    messages={messages}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
     title={title}
     description={description}
-    canonicalPath="/disclaimer"
+    canonicalPath={canonicalPath}
     activeNav="disclaimer"
     contentHtml={contentHtml}
 />

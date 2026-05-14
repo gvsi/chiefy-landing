@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail cho Hướng dẫn viên Rafting & Kayak | Trợ lý Email AI",
+  "metaDescription": "Duet Mail giúp hướng dẫn viên rafting và nhà cung cấp kayak trả lời các yêu cầu chuyến đi ngay lập tức — ngay cả khi đang trên sông. Các phản hồi do AI soạn thảo với chi tiết chuyến đi, giá cả và phong cách của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 200 hướng dẫn viên sông",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang trên sông",
+  "heroSubline": "Duet học các loại chuyến đi, giá cả và danh sách thiết bị của bạn — sau đó soạn thảo phản hồi cho các yêu cầu đặt chỗ để khách hàng nhận được câu trả lời khi bạn đang vượt thác.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Chuyến đi rafting cả ngày cho 6 người vào ngày 9 tháng 8?",
+      "preview": "Chào! Chúng tôi là gia đình 6 người đến thăm vào tháng 8 và muốn đặt chuyến đi rafting cả ngày vào ngày 9. Giá mỗi người là bao nhiêu và cần kinh nghiệm như thế nào?",
+      "pill": "Cần trả lời",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Chuyến đi nhiều ngày — bao gồm những gì?",
+      "preview": "Chúng tôi là nhóm 4 người đang xem chuyến thám hiểm 3 ngày của bạn. Có bao gồm bữa ăn, thiết bị cắm trại và túi chống nước hay chúng tôi phải tự mang theo...",
+      "pill": "Câu hỏi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel & Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Trẻ em 8 và 10 tuổi — có an toàn không?",
+      "preview": "Chúng tôi muốn tham gia chuyến đi nửa ngày nhưng con chúng tôi 8 và 10 tuổi. Đoạn thác lớp II có phù hợp với độ tuổi của các bé không? Yêu cầu tối thiểu là gì...",
+      "pill": "Câu hỏi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "preview": "Một khách du lịch vừa đánh giá doanh nghiệp của bạn. Xem họ nói gì và phản hồi...",
+      "pill": "Thông báo",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Chào Jennifer! Ngày 9 tháng 8 còn chỗ cho 6 người. Chuyến đi cả ngày giá 150$/người và kéo dài khoảng 7 tiếng — chúng tôi bắt đầu lúc 8:30 sáng. Không cần kinh nghiệm, hướng dẫn viên sẽ lo hết. Áo phao, mũ bảo hiểm, túi chống nước và bữa trưa bên bờ sông đều bao gồm. Chỉ cần mang kem chống nắng, giày nước và quần áo không ngại ướt. Bạn muốn tôi đặt chỗ cho bạn không?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "người",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Hai lượt đặt chỗ được giữ lại đủ trả cho một năm sử dụng Duet."
+  },
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để các yêu cầu chuyến đi được ưu tiên hiển thị trước, câu hỏi về thiết bị đứng thứ hai, và các thông báo quảng cáo biến mất. Không còn bỏ lỡ đặt nhóm bị chôn vùi dưới các cảnh báo TripAdvisor.",
+  "draftSubtitle": "Duet học các loại chuyến đi, cấp độ thác, danh sách thiết bị và chính sách hủy. Khi có yêu cầu đặt chỗ, nó soạn thảo phản hồi đầy đủ với mọi thông tin khách cần. Bạn chỉ việc xem lại và gửi.",
+  "agentSubtitle": "\"Còn chỗ nào cho chuyến đi cả ngày thứ Bảy không?\" \"Soạn phản hồi cho Jennifer về tình trạng chỗ.\" Duet hiểu hộp thư và lịch của bạn — chỉ cần hỏi.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Chuyến đi rafting cả ngày cho 6 người vào ngày 9 tháng 8?",
+      "preview": "Chúng tôi là gia đình 6 người đến thăm vào tháng 8 và muốn đặt...",
+      "pill": "Trả lời ngay",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Xác nhận chuyến thám hiểm 3 ngày — 15 tháng 8",
+      "pill": "Đã đặt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Trẻ em 8 và 10 tuổi có phù hợp với lớp thác II không?",
+      "pill": "Câu hỏi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Tóm tắt đặt chỗ hàng tuần của bạn",
+      "pill": "Thông báo",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Giảm giá cuối mùa — 30% cho bộ đồ khô",
+      "pill": "Khuyến mãi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Chuyến đi rafting cả ngày cho 6 người vào ngày 9 tháng 8?",
+    "originalFrom": "Jennifer W. đã viết:",
+    "originalText": "Chào! Chúng tôi là gia đình 6 người đến thăm vào tháng 8 và muốn đặt chuyến đi rafting cả ngày vào ngày 9. Giá mỗi người là bao nhiêu và cần kinh nghiệm như thế nào?",
+    "lines": [
+      "Chào Jennifer!",
+      "Ngày 9 tháng 8 còn chỗ cho 6 người. Chuyến đi cả ngày giá 150$/người và kéo dài khoảng 7 tiếng — chúng tôi gặp nhau tại điểm xuất phát lúc 8:30 sáng.",
+      "Không cần kinh nghiệm. Áo phao, mũ bảo hiểm, túi chống nước và bữa trưa bên bờ sông đều bao gồm — chỉ cần mang kem chống nắng và giày nước.",
+      "Bạn muốn tôi đặt chỗ cho bạn không?"
+    ],
+    "highlightText": "Ngày 9 tháng 8 còn chỗ cho 6 người. Chuyến đi cả ngày giá 150$/người",
+    "tooltipFeatures": [
+      "Hiểu các loại chuyến đi & giá cả của bạn",
+      "Soạn thảo theo phong cách của bạn",
+      "Tự động bao gồm danh sách thiết bị",
+      "Học hỏi theo thời gian"
+    ]
+  },
+  "agent": {
+    "userMessage": "Còn chỗ nào cho chuyến đi cả ngày thứ Bảy không?",
+    "agentResponse": "Chuyến đi cả ngày thứ Bảy còn 4 chỗ trong tổng số 10. Bạn cũng có chuyến nửa ngày buổi sáng đã đầy chỗ và chuyến đi nhiều ngày khởi hành Chủ nhật còn 2 chỗ. Bạn muốn tôi soạn phản hồi cho các yêu cầu đang chờ với tình trạng chỗ của thứ Bảy không?",
+    "followUp": "Soạn phản hồi cho Jennifer về tình trạng chỗ ngày 9 tháng 8",
+    "followUpResponse": "Xong! Tôi đã soạn phản hồi cho Jennifer xác nhận ngày 9 tháng 8 cho 6 khách với giá 150$/người. Bao gồm chi tiết chuyến đi tiêu chuẩn, danh sách thiết bị và địa điểm gặp. Sẵn sàng để bạn xem lại và gửi."
+  },
+  "testimonialsTitle": "Được yêu thích bởi hướng dẫn viên và nhà cung cấp",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Nhà cung cấp Rafting, CO",
+      "quote": "Mùa cao điểm tôi ở trên sông 6 ngày mỗi tuần. Khi tôi quay lại email, một nửa nhóm đã đặt với người khác. Giờ Duet soạn phản hồi với chi tiết chuyến đi và giá cả khi tôi còn ở điểm xuất phát.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Tour Kayak & SUP, OR",
+      "quote": "Mỗi khách đều hỏi 5 câu giống nhau — giá, mang gì theo, trình độ, số lượng nhóm, chính sách hủy. Duet học hết trong tuần đầu. Tôi từ mất một giờ mỗi tối trả lời email giờ chỉ còn năm phút xem lại bản nháp.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Hướng dẫn viên Thám hiểm Nhiều Ngày, AK",
+      "quote": "Tôi tổ chức chuyến đi 5 ngày không có sóng điện thoại. Trước Duet, mọi yêu cầu đều không trả lời cho đến khi tôi về thị trấn. Giờ khách nhận được phản hồi chi tiết trong vài phút và tôi xác nhận khi rời sông.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Quản lý Văn phòng River Adventures, WV",
+      "quote": "Tôi quản lý đặt chỗ cho ba hướng dẫn viên với bốn loại chuyến đi. Duet phân loại email theo mức độ ưu tiên và soạn phản hồi với chuyến đi, giá cả, danh sách thiết bị phù hợp. Giống như nhân bản chính mình.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Công ty Rafting Thác trắng, ID",
+      "quote": "Chúng tôi nghi ngờ AI có thể xử lý email riêng về rafting. Nhưng nó hiểu mô tả lớp thác III và IV, tuổi tối thiểu, thậm chí chính sách thoát kayak khi ướt. Khách nghĩ họ đang nói chuyện với chúng tôi.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Dành mùa hè trên sông,\nkhông phải lo bắt kịp email.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
+  "verticalFaqs": [
+    {
+      "question": "Duet có xử lý báo giá chuyến đi tùy chỉnh và yêu cầu thám hiểm nhiều ngày không?",
+      "answer": "Có. Duet học toàn bộ danh mục chuyến đi của bạn — chuyến nửa ngày, chuyến thác cả ngày, thám hiểm nhiều ngày — cùng với giá cả, những gì bao gồm, tuổi tối thiểu và mức độ khó. Khi ai đó hỏi về chuyến 3 ngày cho 6 người, nó soạn phản hồi đầy đủ với thông tin chính xác. Bạn xem lại, chỉnh sửa nếu cần và gửi."
+    },
+    {
+      "question": "Tôi không có sóng khi đi thám hiểm nhiều ngày. Duet vẫn hoạt động chứ?",
+      "answer": "Đó chính là vấn đề Duet giải quyết. Khi bạn trên sông không có sóng, Duet soạn phản hồi cho mọi yêu cầu đến. Khi bạn về vùng có sóng, bản nháp đã sẵn sàng — chỉ việc xem lại và gửi. Hầu hết hướng dẫn viên nói rằng nó loại bỏ được tồn đọng email họ từng gặp sau mỗi chuyến nhiều ngày."
+    }
+  ],
+  "pricingNote": "Với giá 150$/người, hai lượt đặt chỗ được giữ lại đủ trả cho một năm dùng Pro."
+}

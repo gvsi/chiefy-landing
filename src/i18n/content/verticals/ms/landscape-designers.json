@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail untuk Pereka Landskap | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu pereka landskap membalas e-mel pelanggan serta-merta — walaupun dari lapangan. Balasan draf AI dengan butiran projek, harga dan gaya anda.",
+  "heroBadge": "Dipercayai oleh 300+ pereka landskap",
+  "heroHeadline": "Pembantu e-mel anda semasa anda berada di lapangan",
+  "heroSubline": "Duet mempelajari butiran projek, palet tanaman, harga dan proses anda — kemudian menyediakan draf balasan e-mel supaya anda tidak kehilangan pelanggan kerana respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Pembangunan semula halaman belakang — percuma untuk konsultasi?",
+      "preview": "Hai! Kami baru sahaja membeli rumah di Westlake dan halaman belakangnya masih kosong sepenuhnya. Kami ingin pembangunan semula penuh dengan tanaman asli dan teres. Adakah anda menerima pelanggan baharu?",
+      "pill": "Untuk Dibalas",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Spesifikasi pengairan untuk projek Miller?",
+      "preview": "Hei, kami sedia untuk mula menggali parit pada hari Isnin. Boleh hantarkan susun atur pengairan dan spesifikasi kepala supaya kami boleh memesan bahan minggu ini?",
+      "pill": "Kontraktor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Soalan ringkas tentang pilihan tanaman",
+      "preview": "Kami suka reka bentuk itu! Cuma tertanya-tanya — bolehkah kami tukar Japanese maple kepada sesuatu yang lebih berwarna pada musim luruh? Selain itu, adakah lavender tahan rusa?",
+      "pill": "Pelanggan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Pesanan #4821 sedia untuk diambil",
+      "preview": "Pesanan anda untuk pokok renek 24 gallon, 6 pokok spesimen, dan anak pokok penutup tanah sudah sedia. Pengambilan tersedia Isnin–Sabtu 7AM–4PM...",
+      "pill": "Pembekal",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Rachel! Saya berbesar hati untuk membantu dengan halaman belakang anda. Saya sedang menempah konsultasi awal 2-3 minggu lebih awal. Lawatan pertama ialah penilaian di lokasi selama 90 minit — saya akan meninjau hartanah, mengambil ukuran dan membincangkan visi anda. Selepas itu saya akan sediakan pelan konsep. Mahu saya masukkan anda ke dalam kalendar?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projek",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Satu projek yang berjaya dijimatkan sudah membayar Duet selama bertahun-tahun."
+  },
+  "categorizationSubtitle": "Duet menandakan setiap e-mel secara automatik supaya anda melihat permintaan konsultasi baharu dahulu, kelulusan pelanggan kedua, dan bunyi bising pembekal tidak pernah. Tiada lagi terlepas prospek yang tersembunyi di bawah pengesahan pesanan nurseri.",
+  "draftSubtitle": "Duet mempelajari harga, proses dan nada anda. Apabila permintaan konsultasi masuk, ia menyediakan draf balasan lengkap dengan ketersediaan anda, perkara yang boleh dijangkakan dan langkah seterusnya. Anda semak dan hantar.",
+  "agentSubtitle": "\"Apakah garis masa untuk projek Henderson?\" \"Pelanggan mana yang sedang menunggu kelulusan pelan?\" Duet tahu peti masuk dan projek anda — tanya sahaja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Penyusunan semula halaman belakang — percuma untuk sesi konsultasi?",
+      "preview": "Kami baru sahaja membeli rumah dan halaman belakang masih kosong...",
+      "pill": "Pertanyaan Baharu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Balas: Reka bentuk akhir — kami sedia untuk meluluskan!",
+      "pill": "Kelulusan Pelanggan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Spesifikasi pengairan untuk projek Miller?",
+      "pill": "Kontraktor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Pesanan #4821 sedia untuk diambil",
+      "pill": "Pembekal",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Invois #1047 telah dilihat oleh klien",
+      "pill": "Invois",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Balas: Penyusunan semula halaman belakang — percuma untuk sesi konsultasi?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Kami baru sahaja membeli rumah di Westlake dan halaman belakangnya masih kosong. Kami inginkan reka bentuk semula penuh dengan tanaman tempatan dan patio. Adakah anda menerima klien baharu?",
+    "lines": [
+      "Hai Rachel!",
+      "Tahniah atas rumah baharu — halaman belakang yang kosong memang projek impian. Saya sememangnya menerima klien baharu.",
+      "Proses saya bermula dengan sesi konsultasi di lokasi selama 90 minit, di mana saya akan meninjau hartanah, mengambil ukuran, dan berbincang tentang matlamat anda. Selepas itu saya akan menyediakan pelan konsep dengan reka bentuk tanaman, susun atur hardscape, dan bajet berfasa.",
+      "Saya ada kekosongan dalam 2-3 minggu akan datang. Mahu saya hantarkan beberapa tarikh yang tersedia?"
+    ],
+    "highlightText": "Proses saya bermula dengan sesi konsultasi di lokasi selama 90 minit",
+    "tooltipFeatures": [
+      "Tahu proses reka bentuk & harga anda",
+      "Draf dalam suara anda",
+      "Termasuk butiran konsultasi secara automatik",
+      "Mempelajari dari semasa ke semasa"
+    ]
+  },
+  "agent": {
+    "userMessage": "Klien yang mana masih menunggu kelulusan pelan?",
+    "agentResponse": "Berdasarkan e-mel anda yang terbaru, dua klien sedang menunggu kelulusan: Jennifer & Mark L. (reka semula halaman belakang — hantar pelan akhir 4 hari lalu, belum ada balasan lagi) dan keluarga Cohen (penukaran halaman hadapan kepada tanaman tempatan — hantar pelan yang disemak minggu lepas). Mahu saya drafkan susulan yang lembut kepada salah satu daripada mereka?",
+    "followUp": "Drafkan susulan kepada Jennifer tentang kelulusan pelan",
+    "followUpResponse": "Selesai! Saya telah drafkan semakan mesra kepada Jennifer yang bertanya sama ada dia dan Mark sempat meneliti pelan akhir, serta mengingatkan beliau bahawa anda boleh mengadakan panggilan ringkas untuk menerangkan pemilihan tanaman. Sedia untuk disemak dan dihantar."
+  },
+  "testimonialsTitle": "Disukai oleh pereka landskap",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Arkitek Landskap, Austin TX",
+      "quote": "Semasa musim bunga, saya berada di lokasi selama 8 jam sehari untuk menjalankan penilaian dan menyelia pemasangan. Permintaan rundingan baharu akan terbiar selama berhari-hari. Sekarang Duet membalas dengan proses dan ketersediaan saya dalam beberapa minit. Saya telah menempah 3 projek yang pasti akan saya kehilangan.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Pereka Taman, Portland OR",
+      "quote": "Menyelaras antara pasukan hardscape, pemasang pengairan, dan klien menghasilkan jumlah e-mel yang sangat banyak. Duet menyusunnya semua dan drafkan balasan yang merangkumi butiran projek yang tepat. Ia seperti mempunyai pengurus studio.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Pemilik Studio Reka Bentuk Landskap, Denver CO",
+      "quote": "Dulu saya menghabiskan setiap malam selepas kerja lapangan untuk mengejar e-mel yang tertunggak. Soalan yang sama — harga, proses, garis masa. Duet menguruskan semuanya. Masa respons saya berubah daripada hari kepada minit dan kadar penutupan saya meningkat dengan ketara.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Pereka Landskap Kediaman, Scottsdale AZ",
+      "quote": "Klien saya banyak bertanya tentang pemilihan tanaman dan penyelenggaraan. Duet telah mempelajari palet tanaman dan arahan penjagaan saya dan drafkan balasan yang hampir tidak perlu saya sunting. Klien fikir saya sangat responsif.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Pereka Landskap Tanaman Asli, Raleigh NC",
+      "quote": "Saya kehilangan klien baharu kerana saya tidak dapat membalas semasa saya sedang sibuk dengan pemasangan penanaman. Duet drafkan respons rundingan dengan proses saya yang tepat, harga, dan apa yang boleh dijangka. Ia sudah menampung kosnya pada minggu pertama.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Luangkan hari anda mencipta landskap,\nbukan mengejar e-mel.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
+  "verticalFaqs": [
+    {
+      "question": "Bolehkah Duet mengendalikan kesibukan musim bunga apabila permintaan rundingan bertimbun?",
+      "answer": "Itulah saat Duet benar-benar menyerlah. Semasa musim paling sibuk anda, setiap pertanyaan baharu mendapat balasan yang pantas dan terperinci dengan proses, garis masa, dan ketersediaan anda — walaupun anda berada di lokasi sepanjang hari. Tiada lagi kehilangan prospek musim bunga kerana anda tidak sempat membalas mereka sehingga 9 malam."
+    },
+    {
+      "question": "Saya menyelaras dengan beberapa pasukan luar. Adakah Duet membantu dengan itu?",
+      "answer": "Ya. Duet mempelajari projek anda dan kontraktor yang terlibat — kerja hardscape, pengairan, kru penanaman, nurseri. Ia mengkategorikan e-mel kontraktor secara berasingan daripada e-mel klien, dan boleh menyediakan draf balasan dengan butiran khusus projek seperti spesifikasi, garis masa, dan bahan. Anda sentiasa mengawal setiap kru tanpa kekacauan peti masuk."
+    }
+  ],
+  "pricingNote": "Pada $8,000/projek, satu klien yang terjimat sudah menampung kos Pro selama bertahun-tahun."
+}

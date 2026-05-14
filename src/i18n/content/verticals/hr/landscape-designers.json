@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail za dizajnere krajobraza | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže dizajnerima pejzaža da odmah odgovore na e-poštu klijenata — čak i s terena. Odgovori izrađeni AI s detaljima vašeg projekta, cijenama i glasom.",
+  "heroBadge": "Vjeruje mu više od 300 krajobraznih dizajnera",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na terenu",
+  "heroSubline": "Duet uči detalje vašeg projekta, palete biljaka, cijene i proces — zatim sastavlja skice odgovora e-poštom tako da nikad ne izgubite klijenta zbog sporog odgovora.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redizajn dvorišta — besplatno za konzultacije?",
+      "preview": "Bok! Upravo smo kupili kuću u Westlakeu, a dvorište je prazna ploča. Voljeli bismo potpuni redizajn s autohtonim nasadima i terasom. Primate li nove klijente?",
+      "pill": "Odgovoriti",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Specifikacije navodnjavanja za Millerov projekt?",
+      "preview": "Hej, spremni smo za početak kopanja rovova u ponedjeljak. Možete li poslati raspored navodnjavanja i specifikacije glave kako bismo mogli naručiti materijale ovaj tjedan?",
+      "pill": "Izvođač",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Brzo pitanje o izboru biljaka",
+      "preview": "Sviđa nam se dizajn! Samo se pitam — možemo li japanski javor zamijeniti nečim s više jesenskih boja? Također, je li lavanda otporna na jelene?",
+      "pill": "Klijent",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Narudžba #4821 spremna za preuzimanje",
+      "preview": "Vaša narudžba od 24 galona grmova, 6 primjeraka drveća i ploča koje pokrivaju tlo je spremna. Preuzimanje je dostupno pon–sub od 7 do 16 sati...",
+      "pill": "Dobavljač",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Bok Rachel! Volio bih pomoći s vašim dvorištem. Trenutno rezerviram prve konzultacije za 2-3 tjedna. Prvi posjet je 90-minutna procjena na licu mjesta — prošetat ću imanjem, izvršiti mjerenja i razgovarati o vašoj viziji. Odatle sam sastavio konceptualni plan. Hoćeš da te stavim na kalendar?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Jedan spremljeni projekt plaća godine Duet-a."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite nove zahtjeve za konzultacije, potom odobrenja klijenata, a nikad buku dobavljača. Nema više propuštanja kontakta zakopanog ispod potvrda narudžbi za vrtić.",
+  "draftSubtitle": "Duet uči vaše cijene, postupak i ton. Kada stigne zahtjev za konzultaciju, sastavlja potpuni odgovor s vašom dostupnošću, što možete očekivati ​​i sljedećim koracima. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Koji je vremenski okvir Hendersonovog projekta?\" \"Koji klijenti čekaju na odobrenje plana?\" Duet zna vašu pristiglu poštu i projekte - samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redizajn dvorišta — besplatno za konzultacije?",
+      "preview": "Upravo smo kupili kuću, a dvorište je prazna ploča...",
+      "pill": "Novi upit",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Konačni dizajn — spremni smo za odobrenje!",
+      "pill": "Odobrenje klijenta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Specifikacije navodnjavanja za Millerov projekt?",
+      "pill": "Izvođač",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Narudžba #4821 spremna za preuzimanje",
+      "pill": "Dobavljač",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Faktura #1047 koju je pogledao klijent",
+      "pill": "Dostavnica",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Redizajn dvorišta — besplatno za konzultacije?",
+    "originalFrom": "Rachel T. je napisala:",
+    "originalText": "Bok! Upravo smo kupili kuću u Westlakeu, a dvorište je prazna ploča. Voljeli bismo potpuni redizajn s autohtonim nasadima i terasom. Primate li nove klijente?",
+    "lines": [
+      "Bok Rachel!",
+      "Čestitamo na novom domu — prazno dvorište je projekt iz snova. Apsolutno primam nove klijente.",
+      "Moj proces počinje 90-minutnim savjetovanjem na licu mjesta gdje obilazim posjed, uzimam mjerenja i govorim o vašim ciljevima. Odatle razvijam konceptualni plan s dizajnom sadnje, tlocrtnim izgledom i proračunom u fazama.",
+      "Imam slobodna mjesta u sljedeća 2-3 tjedna. Želite li da vam pošaljem neke slobodne datume?"
+    ],
+    "highlightText": "Moj proces počinje 90-minutnim savjetovanjem na licu mjesta",
+    "tooltipFeatures": [
+      "Poznaje vaš proces dizajna i cijene",
+      "Nacrt u vašem tonu",
+      "Automatski uključuje detalje konzultacija",
+      "Uči s vremenom"
+    ]
+  },
+  "agent": {
+    "userMessage": "Koji klijenti još čekaju na odobrenje plana?",
+    "agentResponse": "Na temelju vaših nedavnih e-poruka, dva klijenta čekaju odobrenje: Jennifer & Mark L. (redizajn dvorišta — poslani konačni planovi prije 4 dana, još nema odgovora) i Cohenovi (izmijenjeni plan dvorišta — poslani prošli tjedan). Želite li da napišem nježni nastavak bilo kojeg od njih?",
+    "followUp": "Napravite nastavak Jennifer o odobrenju plana",
+    "followUpResponse": "Gotovo! Napisao sam prijateljsku prijavu za Jennifer pitajući je da li su ona i Mark imali priliku pregledati konačne planove i podsjetio je da možete uskočiti na brzi poziv da prođete kroz odabir biljaka. Spremno za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga krajobrazni dizajneri",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Krajobrazni arhitekt, Austin TX",
+      "quote": "Tijekom proljeća sam na licu mjesta 8 sati dnevno radeći procjene i nadzor montaže. Novi zahtjevi za konzultacije čekali bi danima. Sada Duet odgovara s mojim procesom i dostupnošću u roku od nekoliko minuta. Rezervirao sam 3 projekta koje bih sigurno izgubio.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Dizajner vrtova, Portland OR",
+      "quote": "Koordinacija između ekipa za uređenje okoliša, instalatera za navodnjavanje i klijenata stvara apsurdnu količinu e-pošte. Duet sve sortira i sastavlja odgovore koji uključuju prave detalje projekta. To je kao da imate voditelja studija.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Vlasnik studija za krajobrazni dizajn, Denver CO",
+      "quote": "Svaku večer nakon terenske nastave provodio sam nadoknađujući e-poštu. Ista pitanja — cijene, proces, vremenski okvir. Duet rješava sve to. Moje vrijeme odgovora pošlo je s dana na minute, a stopa zatvaranja mi je daleko veća.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Dizajner rezidencijalnog krajolika, Scottsdale AZ",
+      "quote": "Moji klijenti postavljaju puno pitanja o odabiru i održavanju biljaka. Duet je naučio moje palete biljaka i upute za njegu te nacrte odgovora koje jedva da moram uređivati. Klijenti misle da sam nevjerojatno osjetljiv.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Dizajner krajolika domaćih biljaka, Raleigh NC",
+      "quote": "Gubio sam nove klijente jer nisam mogao odgovoriti dok sam bio do koljena u instalaciji sadnje. Duet sastavlja odgovore na konzultacije s mojim točnim procesom, cijenama i onim što mogu očekivati. Isplatio se prvi tjedan.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Provodite dane stvarajući krajolike,\nne sustižući e-poštu.",
+  "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Može li Duet podnijeti proljetnu gužvu kada se zahtjevi za savjetovanjem gomilaju?",
+      "answer": "Upravo tada Duet blista. Tijekom sezone s najvećim prometom, svaki novi upit dobiva brz, detaljan odgovor s vašim procesom, vremenskim okvirom i dostupnošću — čak i dok ste cijeli dan na licu mjesta. Nema više gubljenja proljetnih potencijalnih klijenata jer im se niste mogli javiti do 21 sat."
+    },
+    {
+      "question": "Koordiniram s više ekipa na otvorenom. Pomaže li Duet u tome?",
+      "answer": "Da. Duet uči vaše projekte i izvođače koji su uključeni — okoliš, navodnjavanje, posade za sadnju, rasadnici. Kategorizira e-poštu izvođača zasebno od e-pošte klijenata i može sastavljati odgovore s detaljima specifičnim za projekt kao što su specifikacije, rokovi i materijali. Ostajete u tijeku sa svakom ekipom bez kaosa u pristigloj pošti."
+    }
+  ],
+  "pricingNote": "Uz 8000 USD po projektu, jedan spremljeni klijent plaća godine Pro."
+}

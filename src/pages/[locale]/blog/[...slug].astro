@@ -1,0 +1,47 @@
+---
+import { render } from "astro:content"
+import BlogLayout from "../../../layouts/BlogLayout.astro"
+import { NON_DEFAULT_LOCALES, type Locale } from "../../../i18n/locales"
+import { getMessages } from "../../../i18n/messages/schema"
+import { getAllBlogPosts, getAlternateLinksForRoute, getRouteTranslationState, robotsForTranslationState } from "../../../i18n/content"
+
+export async function getStaticPaths() {
+    const paths = []
+    for (const locale of NON_DEFAULT_LOCALES) {
+        const posts = await getAllBlogPosts(locale)
+        for (const post of posts) {
+            paths.push({
+                params: { locale, slug: post.slug },
+                props: { locale, post: post.entry, slug: post.slug },
+            })
+        }
+    }
+    return paths
+}
+
+const { locale, post, slug } = Astro.props as { locale: Locale; post: any; slug: string }
+const messages = getMessages(locale)
+const alternates = await getAlternateLinksForRoute(Astro.site, { kind: "blogPost", slug })
+const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "blogPost", locale, slug }))
+const { Content } = await render(post)
+---
+
+<BlogLayout
+    title={post.data.title}
+    description={post.data.description}
+    locale={locale}
+    messages={messages}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
+    publishedAt={post.data.publishedAt}
+    updatedAt={post.data.updatedAt}
+    author={post.data.author}
+    authorType={post.data.authorType}
+    coverImage={post.data.coverImage}
+    coverImageAlt={post.data.coverImageAlt}
+    tags={post.data.tags}
+    slug={slug}
+    body={post.body}
+>
+    <Content />
+</BlogLayout>

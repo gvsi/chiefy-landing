@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail pro výlety se psím spřežením | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá musherům okamžitě reagovat na rezervační e-maily – dokonce i ze stezky. Odpovědi navržené umělou inteligencí s typy vašich zájezdů, cenami, zásadami a hlasem.",
+  "heroBadge": "Důvěřuje více než 200 musherům",
+  "heroHeadline": "Váš e-mailový asistent, když jste na cestě",
+  "heroSubline": "Duet se naučí vaše typy zájezdů, ceny, zásady počasí a doplňky – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kombinace Aurora + psí spřežení pro 4?",
+      "preview": "Ahoj! Moje čtyřčlenná rodina navštíví Fairbanks v lednu. Nabízíte kombinovaný balíček se psím spřežením a sledováním polární záře? jaká je cena?",
+      "pill": "Odpovědět",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Co bychom měli nosit?",
+      "preview": "V sobotu jsme rezervováni na 2hodinový zážitek z kaše. Co bychom měli nosit? Poskytujete vybavení nebo si musíme přinést vlastní...",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim & Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Děti ve věku 5 a 8 let – umí kašovat?",
+      "preview": "Bereme naše dvě děti (5 a 8). Mohou jezdit v saních nebo skutečně pomáhat kaši? Psi také dobře zvládají malé děti...",
+      "pill": "Rezervace",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nová recenze pro váš zápis",
+      "preview": "Cestovatel nedávno recenzoval vaši firmu. Podívejte se, co řekli a odpovězte...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ahoj Rachel! Rádi ubytujeme vaši rodinu. Naše Aurora + Mush Combo je $175/person — dostanete 1,5hodinovou jízdu na saních stezkami za soumraku a pak horké kakao u ohně, zatímco čekáme na světla. K dispozici je veškeré vybavení do chladného počasí. Děti do 12 let jsou $125. Chceš, abych tě zarezervoval na leden?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "prohlídka",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dvě uložené rezervace platí za rok Duet."
+  },
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první vidíte požadavky na rezervaci, jako druhé otázky a nikdy nic. Už vám nebude chybět dotaz na prohlídku skrytý pod upozorněními TripAdvisor.",
+  "draftSubtitle": "Duet se naučí vaše typy zájezdů, ceny a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o balíčku, oblečením a doplňky. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Nějaké rezervace na tento víkend?\" \"Navrhněte odpověď o kombu polární záře.\" Duet zná vaši doručenou poštu a plán – stačí se zeptat.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kombinace Aurora + psí spřežení pro 4?",
+      "preview": "Moje čtyřčlenná rodina navštíví Fairbanks v lednu...",
+      "pill": "Odpovězte hned",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervace potvrzena — sobota 1PM",
+      "pill": "Zarezervováno",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Mohou naše děti (5 a 8) jezdit spolu?",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Váš týdenní přehled rezervací",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Zimní výprodej – 30% sleva na mushingové postroje",
+      "pill": "Propagační akce",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Aurora + psí spřežení kombo pro 4?",
+    "originalFrom": "Rachel T. napsal:",
+    "originalText": "Ahoj! Moje čtyřčlenná rodina navštíví Fairbanks v lednu. Nabízíte kombinovaný balíček se psím spřežením a sledováním polární záře? jaká je cena?",
+    "lines": [
+      "Ahoj Rachel!",
+      "Naše Aurora + Mush Combo je $175/person – 1,5hodinová jízda na saních za soumraku následovaná horkým kakaem a pozorováním polární záře u ohně. Děti do 12 let jsou $125.",
+      "K dispozici je veškeré vybavení do chladného počasí (holínky, bryndáčky, rukavice, roušky). Stačí se obléknout do teplých vrstev.",
+      "Chcete, abych zarezervoval vaši čtyřčlennou rodinu na leden?"
+    ],
+    "highlightText": "Aurora + Mush Combo je $175/person – 1,5hodinová jízda na saních",
+    "tooltipFeatures": [
+      "Zná vaše typy zájezdů a ceny",
+      "Píše návrhy vaším hlasem",
+      "Zahrnuje vybavení a doplňky",
+      "Učí se časem"
+    ]
+  },
+  "agent": {
+    "userMessage": "Chystáte se na tento víkend nějaké rezervace? Počasí vypadá nadějně.",
+    "agentResponse": "Tento víkend máte zarezervované 3 prohlídky: sobotní návštěva chovatelské stanice v 10 AM (2 hosté), 2hodinová sobotní zážitková kaše v 1 PM (4 hosté) a kombo polární záře v 4 PM (6 hostů). Nedělní skupina se zeptala na storno podmínky. Chcete, abych navrhl aktualizaci počasí pro všechny tři?",
+    "followUp": "Navrhněte aktualizaci počasí pro skupinu Sunday aurora",
+    "followUpResponse": "Hotovo! Sepsal jsem odpověď nedělní skupině Aurora, ve které jsem jim dal vědět, že monitorujete podmínky, a potvrdím to do sobotního večera. Zahrnuje vaše zásady přeplánování a náhradní data. Připraveno ke kontrole a odeslání."
+  },
+  "testimonialsTitle": "Milovaný mushery a cestovními kancelářemi",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Touroperátor psích spřežení, AK",
+      "quote": "Jsem na stopě 6 hodin denně s nulovou mobilní službou. Než jsem se vrátil, polovina dotazů na rezervaci směřovala k jinému oblečení. Odpovědi na návrhy Duet s podrobnostmi o prohlídce a cenou – hosté se ozvou během několika minut, nikoli hodin.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Majitel chovatelské stanice & Mush Tour, AK",
+      "quote": "Nabízíme návštěvy chovatelských stanic, projížďky se spřežením a kombinace polární záře – každý e-mail potřebuje jinou odpověď. Duet zjistil všechny tři typy prohlídek za týden a nyní navrhuje odpovědi, které pokaždé odpovídají správnému balíčku.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Průvodce psím spřežením, MN",
+      "quote": "Každý večer jsem trávila odpovídáním na stejné otázky o tom, co si obléct, věkové limity a psy. Duet to všechno zvládá. Dostanu se domů ze stezky a vše je načrtnuté a čeká se.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Zrušení počasí je v zimě konstantní. Duet předkládá nové návrhy odpovědí s našimi zásadami a alternativními daty, než vůbec dostanu příležitost zkontrolovat svůj telefon. Hosté milují rychlou odezvu.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Dobrodružství rodinných psích spřežení, CO",
+      "quote": "Rodiče se vždy ptají, jestli jejich děti umí kašovat, jestli jsou psi přátelští, co na sebe – stejných 10 otázek. Duet se naučil každou odpověď a perfektně je vypracuje. Je to jako bych se klonoval pro e-mail.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Strávte zimu na stezce se svými psy,\nnení ve vaší doručené poště.",
+  "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "Jak Duet řeší zrušení počasí a nejistotu polární záře?",
+      "answer": "Duet se dozví vaše zásady zrušení a změny termínu. Když host pošle e-mail o obavách z počasí nebo viditelnosti polární záře, navrhne odpověď s vašimi zásadami, náhradními termíny a všemi relevantními podrobnostmi – jako je sledování podmínek a potvrzení blíž k prohlídce. Zkontrolujete a odešlete."
+    },
+    {
+      "question": "Nabízím několik typů zájezdů s různými cenami a doplňky. Dokáže je Duet udržet rovně?",
+      "answer": "Ano. Duet se naučí každý z vašich typů zájezdů – návštěvy chovatelské stanice, kašovité zážitky, komba polární záře, fotografické doplňky, přepravní balíčky – spolu s jejich cenou, délkou trvání a tím, co je zahrnuto. Když přijde dotaz, spojí se se správnou prohlídkou a navrhne odpověď se správnými podrobnostmi."
+    }
+  ],
+  "pricingNote": "U $150/tour platí dvě ušetřené rezervace za více než rok Pro."
+}

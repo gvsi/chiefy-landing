@@ -1,0 +1,171 @@
+{
+  "slug": "surf-schools",
+  "pageTitle": "Duet Mail za škole surfanja i operatere daska za veslanje | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže instruktorima surfovanja i operaterima daske za veslanje da odmah odgovore na e-poruke o rezervacijama — čak i tokom predavanja. AI nacrt odgovora sa vašim tipovima lekcija, cenama i glasom.",
+  "heroBadge": "Ima poverenja od 300+ instruktora surfanja",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok predajete na vodi",
+  "heroSubline": "Duet uči vaše vrste lekcija, cene i uslove — zatim sastavlja nacrte odgovora putem e-pošte tako da nikada ne izgubite rezervaciju zbog sporog odgovora.",
+  "inboxEmails": [
+    {
+      "from": "Rejčel T.",
+      "avatarLetter": "R",
+      "avatarColor": "roze",
+      "subject": "Grupni čas za 6 u subotu?",
+      "preview": "Zdravo! Imam grupu od 6 prijatelja u poseti za vikend. Imate li slobodnih mesta za grupni čas surfanja u subotu ujutru? Koja je cena?",
+      "pill": "To Respond",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Vestside Elementari",
+      "avatarLetter": "V",
+      "avatarColor": "plava",
+      "subject": "Školska ekskurzija — 25 učenika, 15. maj",
+      "preview": "Tražimo da rezervišemo dan surfovanja za naše odeljenje 5. razreda od 25 učenika. Da li nudite tarife za školske grupe? Biće nam potrebna odela i daske...",
+      "pill": "Rezervacija",
+      "pillColor": "plava"
+    },
+    {
+      "from": "Džejms P.",
+      "avatarLetter": "J",
+      "avatarColor": "ljubičasta",
+      "subject": "Iznajmljivanje daske za veslanje + dostava?",
+      "preview": "Da li iznajmljujete SUP daske na sat? Odsedamo u kući na plaži u ulici Elm - imate li šanse da isporučite? Šta je uključeno...",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Nikol B.",
+      "avatarLetter": "N",
+      "avatarColor": "lavanda",
+      "subject": "Uslovi za sutra ujutru?",
+      "preview": "Rezervisani smo za sutra u 9 ujutro, ali prognoza izgleda vetrovito. Hoće li se lekcija još nastaviti? Da ponesemo nešto dodatno...",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    }
+  ],
+  "autodraft": "Hej Rachel! Subota ujutru je otvorena za 6. Grupni časovi traju 2 sata sa početkom u 9 sati. Daske, odela i štitnici od osipa su uključeni - samo ponesite kremu za sunčanje i peškir. To je 90 dolara po osobi. Hoćeš da zaključam tvoju grupu?",
+  "math": {
+    "pricePerBooking": "$90",
+    "bookingUnit": "lekcija",
+    "lostPerMonth": "8",
+    "monthlyLoss": "$720",
+    "punchline": "Dve sačuvane rezervacije plaćaju godinu dana od Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite rezervacije za lekcije, zatim pitanja, a buku nikada. Nema više propuštanja upitnika školske grupe zakopane pod Ielp upozorenjima.",
+  "draftSubtitle": "Duet uči vaše vrste lekcija, grupne cene i ton. Kada se pojavi upit za rezervaciju, on sastavlja kompletan odgovor sa dostupnošću, šta je uključeno i šta treba doneti. Pregledate i pošaljete.",
+  "agentSubtitle": "„Ide li neke grupne rezervacije ove nedelje?“ „Nacrt odgovora školi sa dostupnošću. Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rejčel T.",
+      "avatarLetter": "R",
+      "avatarColor": "roze",
+      "subject": "Grupni čas za 6 u subotu?",
+      "preview": "Imam grupu od 6 prijatelja u poseti za vikend...",
+      "pill": "Odgovorite odmah",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Vestside Elementari",
+      "avatarLetter": "V",
+      "avatarColor": "plava",
+      "subject": "Re: Potvrđen izlet — 15. maj, 25 učenika",
+      "pill": "Rezervisano",
+      "pillColor": "plava"
+    },
+    {
+      "from": "Džejms P.",
+      "avatarLetter": "J",
+      "avatarColor": "ljubičasta",
+      "subject": "Da li iznajmljujete daske za vesla na sat?",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavanda",
+      "subject": "Nova recenzija za vaš unos",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    },
+    {
+      "from": "Surf Varehouse",
+      "avatarLetter": "S",
+      "avatarColor": "lavanda",
+      "subject": "Letnja rasprodaja — 30% popusta na mokra odela",
+      "pill": "Promocije",
+      "pillColor": "lavanda"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Grupni čas za 6 u subotu?",
+    "originalFrom": "Rejčel T. je napisala:",
+    "originalText": "Zdravo! Imam grupu od 6 prijatelja u poseti za vikend. Imate li slobodnih mesta za grupni čas surfanja u subotu ujutru? Koja je cena?",
+    "lines": [
+      "Hej Rachel!",
+      "Subota ujutro je širom otvorena za 6. Grupni časovi su 90 USD po osobi i traju 2 sata počevši od 9 ujutro na glavnoj plaži.",
+      "Uključene su daske, vlažna odela i štitnici za osip - samo ponesite kremu za sunčanje, vodu i peškir. Nije potrebno iskustvo.",
+      "Hoćeš da zaključam tvoju grupu?"
+    ],
+    "highlightText": "Subota ujutro je širom otvorena za 6. Grupni časovi su 90 USD po osobi",
+    "tooltipFeatures": [
+      "Poznaje vaše vrste lekcija i cene",
+      "Nacrt u vašem tonu",
+      "Uključuje ono što se dobija automatski",
+      "Uči tokom vremena"
+    ]
+  },
+  "agent": {
+    "userMessage": "Predstoje li grupne rezervacije ove nedelje?",
+    "agentResponse": "Ove nedelje imate dve grupne rezervacije: Rachel T. u subotu (6 osoba, 9 ujutro) i Vestside Elementari u srijedu (25 učenika, izlet u 10 sati). Takođe imate na čekanju upit od Džejmsa P. o iznajmljivanju daske za veslanje. Želite li da napišem odgovor?",
+    "followUp": "Nacrtajte odgovor školi koji potvrđuje detalje izleta",
+    "followUpResponse": "Gotovo! Napravio sam odgovor za Vestside Elementari potvrđujući 15. maj za 25 učenika u 10 ujutro. To uključuje stopu vaše školske grupe, ono što je obezbeđeno, uslove za potvrdu i vašu politiku otkazivanja. Spremni za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga instruktori surfanja",
+  "testimonials": [
+    {
+      "name": "Trener Majk T.",
+      "title": "Vlasnik škole surfanja, Kalifornija",
+      "quote": "U vodi predajem 6 sati dnevno. Dok sam proverio e-poštu, polovina rezervacija je otišla nekom drugom. Sada Duet nacrta odgovora sa mojim cenama i dostupnošću — samo pregledam između sesija.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Džen i Mark S.",
+      "title": "Paddleboard lekcije i iznajmljivanje, HI",
+      "quote": "Izvodimo časove i iznajmljivanje tabli iz istog prijemnog sandučeta. Duet je odmah shvatio razliku — pitanja o iznajmljivanju dobijaju odgovore za iznajmljivanje, upiti o lekcijama dobijaju detalje o lekciji. To je kao da imate recepciju.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Danni R.",
+      "title": "Instruktor surfanja, FL",
+      "quote": "Školske grupne rezervacije su nosile 10 mejlova napred-nazad. Sada Duet sastavlja prvi odgovor sa grupnim cenama, šta je uključeno i listom dozvole. Preseče ceo konac na pola.",
+      "avatarKey": "Johnni"
+    },
+    {
+      "name": "Fran C.",
+      "title": "SUP ture i lekcije, OR",
+      "quote": "Vrhunac sezone me je ubijao — 30 mejlova dnevno o uslovima, cenama, šta da ponesem. Istih pet pitanja iznova i iznova. Duet upravlja svima njima i zvuče baš kao ja.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sara K.",
+      "title": "Direktor dečjeg surf kampa, SC",
+      "quote": "Roditelji šalju najduže imejlove. Datumi kampa, alergije, nivoi veština, vreme preuzimanja. Duet nacrte detaljnih odgovora koji pokrivaju sve, tako da ne kucam pasuse u 22 sata posle celog dana na plaži.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Provedite leto u talasima, \nne u prijemnom sandučetu.",
+  "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Da li se Duet bavi različitim vrstama lekcija i iznajmljivanjem opreme?",
+      "answer": "Da. Duet uči sve vaše ponude — privatne časove, grupne časove, dečije kampove, iznajmljivanje pansiona, SUP ture. Kada stigne upit, sastavlja se odgovor sa tačnom cenom, trajanjem, šta je uključeno i šta treba doneti. Ono zna da su e-poruci školske grupe potrebni drugačiji detalji od rezervacije privatnog časa."
+    },
+    {
+      "question": "Šta je sa pitanjima o vremenu i uslovima?",
+      "answer": "Duet uči kako obično postupate sa e-poštom sa uslovima – vaše smernice o otkazivanju, odlaganju i uslovima u kojima predajete. Kada neko pošalje e-poštu sa pitanjem da li će se njegova lekcija nastaviti, Duet sastavlja odgovor koji odgovara vašem uobičajenom tonu i politici. Pregledate i pošaljete za sekunde."
+    }
+  ],
+  "pricingNote": "Sa 90 USD po lekciji, dve sačuvane rezervacije plaćaju više od godinu dana od Pro."
+}

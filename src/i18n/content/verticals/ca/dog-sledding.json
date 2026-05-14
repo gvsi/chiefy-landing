@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail per a excursions amb trineus per gossos | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els mushers a respondre als correus electrònics de reserva a l'instant, fins i tot des de la pista. Respostes redactades per AI amb els vostres tipus de viatge, preus, polítiques i veu.",
+  "heroBadge": "Més de 200 mushers confiats",
+  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al camí",
+  "heroSubline": "Duet coneix els tipus de viatges, els preus, les polítiques meteorològiques i els complements; després redacta les respostes per correu electrònic perquè no perdis mai una reserva per una resposta lenta.",
+  "inboxEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Combo Aurora + trineu de gossos per a 4?",
+      "preview": "Hola! La meva família de 4 persones visita Fairbanks al gener. Ofereix un paquet combinat amb trineus de gossos i visualització d'aurores? Quin és el preu?",
+      "pill": "Per respondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Què hem de posar?",
+      "preview": "Estem reservats per a l'experiència de mush de 2 hores de dissabte. Què hem de posar? Proporcioneu material o hem de portar el nostre...",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim i Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Nens de 5 i 8 anys: es poden fer papilles?",
+      "preview": "Portem els nostres dos fills (5 i 8 anys). Poden muntar amb el trineu o realment ajudar a la papilla? També els gossos els va bé amb els nens petits...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova ressenya per a la teva fitxa",
+      "preview": "Un viatger ha fet una opinió recent sobre el teu negoci. Mireu què havien de dir i respondre...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Rachel! Ens encantaria acollir la vostra família. El nostre Aurora + Mush Combo és de 175 dòlars per persona: obteniu un passeig en trineu d'1,5 hores per les rutes al capvespre, i després cacau calent al costat del foc mentre esperem les llums. Es proporciona tot l'equip de temps fred. Els nens menors de 12 anys tenen un preu de 125 dòlars. Vols que et reservi per al gener?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "gira",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dues reserves desades paguen un any de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, les preguntes en segon lloc i el soroll mai. Ja no us perdeu una consulta d'excursions soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Duet coneix els tipus de viatges, els preus i el to. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del paquet, què cal posar-se i complements. Tu revisa i envia.",
+  "agentSubtitle": "\"Alguna reserva aquest cap de setmana?\" \"Esborra una resposta sobre el combo d'aurora\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
+  "categorizationEmails": [
+    {
+      "from": "Raquel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Combo Aurora + trineu de gossos per a 4?",
+      "preview": "La meva família de 4 persones visita Fairbanks al gener...",
+      "pill": "Respon ara",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Reserva confirmada — Dissabte 13:00",
+      "pill": "Reservat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Els nostres fills (5 i 8 anys) poden muntar?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Resum de la teva reserva setmanal",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Rebaixes d'hivern: 30% de descompte en arnesos de mushing",
+      "pill": "Promocions",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Aurora + dog sled combo for 4?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Hi! My family of 4 is visiting Fairbanks in January. Do you offer a combo package with dog sledding and aurora viewing? What's the price?",
+    "lines": [
+      "Hola Rachel!",
+      "El nostre combinat Aurora + Mush costa 175 $ per persona: un passeig en trineu d’1,5 hores al capvespre, seguit de cacau calent i observació d’aurores al costat del foc. Els nens de 12 anys o menys paguen 125 $.",
+      "Proporcionem tot l’equip per al fred (botes, petos, guants i passamuntanyes). Només cal vestir-se amb capes càlides a sota.",
+      "Vols que reservi la teva família de 4 per al gener?"
+    ],
+    "highlightText": "El combinat Aurora + Mush costa 175 $ per persona: un passeig en trineu d’1,5 hores",
+    "tooltipFeatures": [
+      "Coneix els teus tipus de tour i preus",
+      "Redacta amb la teva veu",
+      "Inclou equipament i detalls dels complements",
+      "Aprèn amb el temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Alguna reserva per aquest cap de setmana? El temps sembla dubtós.",
+    "agentResponse": "Teniu 3 visites reservades aquest cap de setmana: una visita a la gossera dissabte a les 10:00 (2 convidats), una experiència de papilla de 2 hores dissabte a les 13:00 (4 convidats) i un combo d'aurora diumenge a les 16:00 (6 convidats). El grup de diumenge va preguntar sobre la política de cancel·lació. Vols que redacti una actualització del temps per a tots tres?",
+    "followUp": "Esborrany d'una actualització del temps per al grup Aurora de diumenge",
+    "followUpResponse": "Fet! Vaig redactar una resposta al grup d'aurora del diumenge per informar-los que esteu supervisant les condicions i la confirmaré dissabte al vespre. Inclou la vostra política de reprogramació i dates alternatives. A punt per revisar i enviar."
+  },
+  "testimonialsTitle": "Estimat pels mushers i els operadors turístics",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Operador turístic de gossos de trineu, Alaska",
+      "quote": "Estic al camí 6 hores al dia amb un servei de cel·lular zero. Quan vaig tornar, la meitat de les consultes de reserva s'havien anat a un altre equip. Duet esborra les respostes amb els detalls de la meva gira i els preus: els convidats escolten en qüestió de minuts, no hores.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Kennel & Mush Tour Owner, AK",
+      "quote": "Oferim visites a la gossera, passejades amb bolets i combinacions d'aurora: cada correu electrònic necessita una resposta diferent. Duet va descobrir els tres tipus de viatges en una setmana i ara redacta respostes que coincideixen amb el paquet adequat cada vegada.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Guia de trineus de gossos, MN",
+      "quote": "Em passava cada vespre responent a les mateixes preguntes sobre què posar-me, els límits d'edat i els gossos. Duet s'encarrega de tot. Arribo a casa des de la pista i tot està preparat i esperant.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Les cancel·lacions meteorològiques són constants a l'hivern. Duet redacta les respostes de reprogramació amb la nostra política i dates alternatives abans que tingui l'oportunitat de comprovar el meu telèfon. Als convidats els encanta la resposta ràpida.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Family Dog Sled Adventures, CO",
+      "quote": "Els pares sempre demanen si els seus fills poden empassar-se, si els gossos són amables, què posar-se, les mateixes 10 preguntes. Duet ha après totes les respostes i les redacta perfectament. És com clonar-me per correu electrònic.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Passa l'hivern a la pista amb els teus gossos,\nno a la teva safata d'entrada.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
+  "verticalFaqs": [
+    {
+      "question": "Com gestiona Duet les cancel·lacions meteorològiques i la incertesa de l'aurora?",
+      "answer": "Duet coneix les vostres polítiques de cancel·lació i reprogramació. Quan un convidat envia un correu electrònic sobre problemes meteorològics o visibilitat de l'aurora, redacta una resposta amb la vostra política, dates alternatives i qualsevol detall rellevant, com ara el seguiment de les condicions i la confirmació més propera a la gira. Tu revisa i envia."
+    },
+    {
+      "question": "Ofereixo diversos tipus de viatges amb diferents preus i complements. Duet pot mantenir-los rectes?",
+      "answer": "Sí. Duet aprèn cadascun dels vostres tipus de viatge: visites a gosseres, experiències mush, combos d'aurora, complements de fotografia, paquets de transport, juntament amb els seus preus, durada i què s'inclou. Quan arriba una consulta, coincideix amb el recorregut adequat i redacta una resposta amb els detalls correctes."
+    }
+  ],
+  "pricingNote": "Amb 150 $/tour, dues reserves desades paguen més d'un any de Pro."
+}

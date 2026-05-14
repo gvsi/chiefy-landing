@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail pentru excursii cu sania de câini | Asistent de e-mail AI",
+  "metaDescription": "Duet Mail îi ajută pe mushers să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu tipurile tale de tur, prețurile, politicile și vocea ta.",
+  "heroBadge": "Au încredere de peste 200 de mushers",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe traseu",
+  "heroSubline": "Duet învață tipurile de tur, prețurile, politicile meteo și suplimentele tale - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Combo Aurora + sanie de câini pentru 4?",
+      "preview": "Hi! Familia mea de 4 persoane vizitează Fairbanks în ianuarie. Oferiți un pachet combinat cu sania de câini și vizionarea aurorelor? Care este pretul?",
+      "pill": "A Răspunde",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Ce ar trebui să purtăm?",
+      "preview": "Suntem rezervați pentru experiența de 2 ore de ciupercă de sâmbătă. Ce ar trebui să purtăm? Oferiți echipament sau trebuie să aducem propriile noastre...",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim & Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Copiii cu vârsta de 5 și 8 ani - se pot împodobi?",
+      "preview": "Ne aducem cei doi copii (5 și 8). Se pot plimba cu sania sau chiar pot ajuta la mush? De asemenea, câinii se descurcă bine cu copiii mici...",
+      "pill": "Rezervare",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "O nouă recenzie pentru listarea ta",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Rachel! Ne-ar plăcea să găzduim familia ta. Combinația noastră Aurora + Mush costă 175 USD/persoană - include o plimbare de 1,5 ore cu sania prin poteci la amurg, apoi cacao fierbinte lângă foc în timp ce așteptăm luminile. Toate echipamentele pentru vreme rece sunt furnizate. Copiii cu vârsta de până la 12 ani costă 125 USD. Vrei să te rezerv pentru ianuarie?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "tur",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Două rezervări salvate plătesc pentru un an de Duet."
+  },
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vezi mai întâi cererile de rezervare, apoi întrebările și niciodată zgomotul. Nu mai ratezi o întrebare despre tur îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet învață tipurile de tur, prețurile și tonul tău. Când ajunge o solicitare de rezervare, redactează un răspuns complet cu detalii despre pachet, ce să poarte și suplimente. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Ai rezervări în acest weekend?” „Redactează un răspuns despre combinația de aurore.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Combo Aurora + sanie de câini pentru 4?",
+      "preview": "Familia mea de 4 persoane vizitează Fairbanks în ianuarie...",
+      "pill": "Răspunde acum",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervare confirmată — sâmbătă, ora 13:00",
+      "pill": "Rezervat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Copiii noștri (5 și 8 ani) pot merge împreună?",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Rezumatul săptămânal al rezervărilor tale",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Reducere de iarnă — 30% reducere la hamurile de mushing",
+      "pill": "Promoții",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Combo Aurora + sanie de câini pentru 4?",
+    "originalFrom": "Rachel T. a scris:",
+    "originalText": "Hi! Familia mea de 4 persoane vizitează Fairbanks în ianuarie. Oferiți un pachet combinat cu sania de câini și vizionarea aurorelor? Care este pretul?",
+    "lines": [
+      "Hei Rachel!",
+      "Combo nostru Aurora + Mush costă 175 USD/persoană - o plimbare cu sania de 1,5 ore la amurg, urmată de cacao fierbinte și vizionare de aurore lângă foc. Copiii cu vârsta de până la 12 ani costă 125 USD.",
+      "Toate echipamentele pentru vreme rece sunt furnizate (ghete, bavete, mănuși, măști de față). Pur și simplu îmbrăcați-vă în straturi calde dedesubt.",
+      "Vrei să rezerv familia ta de 4 pentru ianuarie?"
+    ],
+    "highlightText": "Aurora + Mush Combo costă 175 USD/persoană - o plimbare cu sania de 1,5 ore",
+    "tooltipFeatures": [
+      "Cunoaște tipurile tale de tur și prețurile",
+      "Ciorne în vocea ta",
+      "Include echipament și detalii suplimentare",
+      "Învață în timp"
+    ]
+  },
+  "agent": {
+    "userMessage": "Urmează rezervări în acest weekend? Vremea pare nesigură.",
+    "agentResponse": "Ai 3 excursii rezervate în acest weekend: o vizită la canisa sâmbătă la ora 10:00 (2 oaspeți), o experiență de mush de 2 ore sâmbătă la ora 13:00 (4 persoane) și un combo cu aurora duminică la ora 16:00 (6 invitați). Grupul de duminică a întrebat despre politica de anulare. Vrei să scriu o actualizare meteo pentru toate trei?",
+    "followUp": "Creează o actualizare meteo pentru grupul de aurore de duminică",
+    "followUpResponse": "Făcut! Am redactat un răspuns pentru grupul Aurora de duminică, anunțându-i că monitorizați condițiile și le voi confirma până sâmbătă seara. Include politica de reprogramare și date alternative. Gata de revizuire și de trimis."
+  },
+  "testimonialsTitle": "Iubit de mushers și touroperatori",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Sled Dog Tour Operator, AK",
+      "quote": "Sunt pe traseu 6 ore pe zi, cu serviciul de telefon zero. Până mă întorceam, jumătate din solicitările de rezervare ajunseseră la o altă ținută. Duet elaborează răspunsuri cu detaliile turului meu și prețurile — oaspeții au răspuns în câteva minute, nu în ore.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Proprietar al turului Kennel & Mush, AK",
+      "quote": "Oferim vizite la canisa, plimbări cu mush și combinații de aurore - fiecare e-mail are nevoie de un răspuns diferit. Duet a descoperit toate cele trei tipuri de tur într-o săptămână și acum redactează răspunsuri care se potrivesc de fiecare dată cu pachetul potrivit.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Ghid de sanie de câini, MN",
+      "quote": "Obișnuiam să petrec în fiecare seară răspunzând la aceleași întrebări despre ce să mă îmbrac, limitele de vârstă și câinii. Duet se ocupă de toate acestea. Ajung acasă de pe traseu și totul e pregătit și așteaptă.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Anulările meteo sunt constante iarna. Duet întocmește răspunsurile de reprogramare cu politica noastră și date alternative chiar înainte de a avea ocazia să-mi verific telefonul. Oaspeților le place răspunsul rapid.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Family Dog Sled Adventures, CO",
+      "quote": "Părinții întreabă întotdeauna dacă copiii lor se pot zgâri, dacă câinii sunt prietenoși, cu ce să se poarte - aceleași 10 întrebări. Duet a învățat fiecare răspuns și le-a redactat perfect. Este ca și cum mă clonez pentru e-mail.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Petrece iarna pe traseu cu câinii tăi,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
+  "verticalFaqs": [
+    {
+      "question": "Cum gestionează Duet anulările meteo și incertitudinea aurorelor?",
+      "answer": "Duet află politicile tale de anulare și reprogramare. Când un oaspete trimite e-mailuri despre probleme legate de vreme sau de vizibilitatea aurorelor, redactează un răspuns cu politica ta, date alternative și orice detalii relevante - cum ar fi monitorizarea condițiilor și confirmarea mai aproape de tur. Tu revizuiești și trimiți."
+    },
+    {
+      "question": "Ofer mai multe tipuri de tur cu prețuri și suplimente diferite. Duet le poate menține drept?",
+      "answer": "Da. Duet învață fiecare dintre tipurile tale de tur - vizite la canisa, experiențe de mushing, combinații de aurore, suplimente de fotografie, pachete de transport - împreună cu prețurile, durata și ceea ce este inclus. Când vine o întrebare, se potrivește cu turul potrivit și redactează un răspuns cu detaliile corecte."
+    }
+  ],
+  "pricingNote": "La 150 USD/tur, două rezervări salvate plătesc pentru peste un an de Pro."
+}

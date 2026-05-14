@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | AI Gmail および Outlook 用の電子メール アシスタント",
+    "description": "Duet Mail の AI 電子メール アシスタントは、電子メールを要約し、返信の下書きを作成し、受信トレイを整理します。 Gmail および Outlook で動作します。 毎週 4 時間以上を節約します。"
+  },
+  "hero": {
+    "badge": "Gmail および Outlook で利用可能になりました",
+    "headlinePrefix": "あなたの ",
+    "headlineHighlight": "参謀長",
+    "headlineSuffix": "：",
+    "rotatingFeatures": [
+      "メールの仕分け",
+      "返信の下書き",
+      "スケジュール設定",
+      "答えを見つける"
+    ],
+    "subline": "メールにかかる時間を毎週 4 時間以上節約できます",
+    "primaryCta": "Gmail から始める",
+    "secondaryCta": "Outlook から始める",
+    "trialNote": "14日間の無料トライアル",
+    "cancelNote": "いつでもキャンセル可能"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "瞬時の分類",
+      "AI による返信"
+    ],
+    "windowTitle": "受信箱",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "昨日"
+    ],
+    "autodraftLabel": "オートドラフト",
+    "emails": [
+      {
+        "from": "アレックス・リベラ",
+        "avatarLetter": "A",
+        "subject": "Re: 製品発売のタイムライン",
+        "preview": "おい！ ローンチアセットをチェックインしたいと考えていました。 来週もまだ予定はあるのか…...",
+        "pill": "応答するには"
+      },
+      {
+        "from": "エマ・パーク",
+        "avatarLetter": "E",
+        "subject": "今日の午後にクイック同期しますか?",
+        "preview": "ロードマップの最新情報をキャッチアップしたいと思います。 16時頃空いてますか？...",
+        "pill": "ミーティング"
+      },
+      {
+        "from": "マーケティング",
+        "avatarLetter": "M",
+        "subject": "キャンペーン結果の準備完了",
+        "pill": "FYI"
+      },
+      {
+        "from": "ショッピファイ",
+        "avatarLetter": "S",
+        "subject": "あなたの店はブラック フライデーの準備ができています",
+        "pill": "プロモーション"
+      }
+    ],
+    "autodraft": "こんにちは、アレックス！ はい、順調に進んでいます。 デザイン チームは昨日アセットを完成させたので、今日 EOD までに最終ファイルを送信する予定です。"
+  },
+  "logos": {
+    "ariaLabel": "顧客のロゴ",
+    "headingPrefix": "先進的な企業から信頼される",
+    "headingHighlight": " 専門家とチーム ",
+    "headingSuffix": "世界中で"
+  },
+  "features": {
+    "ariaLabel": "特徴",
+    "eyebrow": "あなたの受信箱、スーパーチャージ",
+    "title": "あなたの受信箱があなたの一日を支配するべきではありません",
+    "subtitle": "実際にあなたを魅了する AI を使用して、混沌を明晰に変えましょう。 \nGmail と Outlook 用の最もスマートな電子メール アシスタントを使用して、毎週 3 時間以上を節約します。",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "あなたらしいメールの下書き",
+        "description": "Duet AI メール ライターは、最も重要なメールの下書きを準備します。 あなたの口調と書き方を学習します。",
+        "ariaLabel": "あなたらしく見える下書きをメールで送信する",
+        "mockCopy": {
+          "draftedColdEmail": "私はジョンのためにパーソナライズされたコールドメールの下書きを作成しました",
+          "sampleText": "AI パイプラインは、堅牢でスケーラブルで効率的な AI システムを構築するために不可欠です。",
+          "readyToSend": "送信する準備はできましたか?",
+          "remindFollowUp": "フォローアップするよう思い出させてください。"
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "インスタントサマリーとアクションアイテム",
+        "description": "電子メールの内容から TL;DR とアクション アイテムを数秒で取得します。 もう受信箱で小説を読む必要はありません。",
+        "ariaLabel": "即時の概要とアクションアイテム",
+        "mockCopy": {
+          "sentencePrefix": "私たちは提案します ",
+          "sentenceHighlight": "来週会う",
+          "sentenceSuffix": " ?",
+          "actionTitle": "新しいアクションアイテム",
+          "actionLead": "あなたのカレンダーでこれらの無料スロットを見つけました",
+          "slots": [
+            "火曜日、午前10時",
+            "木曜日、午後2時",
+            "金曜日、午前9時"
+          ],
+          "secondaryButton": "もっと探す",
+          "primaryButton": "送信"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "インテリジェントなリマインダー",
+        "description": "設定したらあとは忘れてください。 Duet AI は、他の人が応答しない場合でも忘れずにフォローアップするため、漏れはありません。",
+        "ariaLabel": "インテリジェントなリマインダー",
+        "mockCopy": {
+          "header": "AI を利用したスマート リマインダー",
+          "stats": [
+            {
+              "label": "フォローアップ",
+              "value": "12",
+              "unit": "電子メール"
+            },
+            {
+              "label": "返信するには",
+              "value": "2",
+              "unit": "電子メール"
+            },
+            {
+              "label": "完了",
+              "value": "3",
+              "unit": "アクションアイテム"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "執筆タスクを完了する",
+              "time": "2日前"
+            },
+            {
+              "title": "プロジェクトの統合",
+              "time": "12時間前"
+            }
+          ],
+          "actions": [
+            "フォローする",
+            "スケジュールを変更しますか?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "重要なことに集中する",
+        "description": "スマートな分類により、最も重要なメールが最初に表示され、メールがトピックに分類されます。 電子メール管理がかつてないほど簡単になりました。",
+        "ariaLabel": "重要なことに集中する",
+        "mockCopy": {
+          "analyzing": "分析中"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "電子メールの整理とスマートな受信箱の分類",
+    "badge": "組織",
+    "title": "Duet は受信トレイを整理します",
+    "subtitle": "自動分類によりノイズがフィルターされ、重要なものが明らかになります。 アクションが必要なもの、参考までに何が必要か、何が待っていればよいのかを即座に確認できます。",
+    "windowTitle": "受信箱",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "昨日",
+      "12月20日"
+    ],
+    "emails": [
+      {
+        "from": "サラ・チェン",
+        "avatarLetter": "S",
+        "subject": "第4四半期の予算レビューリクエスト",
+        "preview": "確定した数値を添付します。 EODまでにレビューしてください。",
+        "pill": "必要なアクション"
+      },
+      {
+        "from": "マイケル・トーレス",
+        "avatarLetter": "M",
+        "subject": "明日午前10時にチームスタンドアップ",
+        "pill": "ミーティング"
+      },
+      {
+        "from": "デザインチーム",
+        "avatarLetter": "D",
+        "subject": "新しいブランドガイドラインを公開",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "毎月の明細書が完成しました",
+        "pill": "プロモーション"
+      },
+      {
+        "from": "ニュースレター",
+        "subject": "毎週のダイジェスト",
+        "pill": "プロモーション"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI 電子メールの作成と返信の生成",
+    "badge": "製図",
+    "title": "あなたの声でDuetドラフト",
+    "subtitle": "Duet はあなたの書き方を学習し、あなたの口調に合った返信の下書きを作成します。 確認して必要に応じて調整し、数秒で送信します。",
+    "windowTitle": "新しいメッセージ",
+    "fieldLabels": {
+      "to": "に：",
+      "subject": "主題："
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: 今週はクイック同期しますか?",
+      "originalFrom": "アレックス・リベラは次のように書いています。",
+      "originalText": "おい！ ロードマップの変更を追いつきたいと思っています。 今週は 30 分間通話できますか? 何が効果があるのか​​教えてください。",
+      "badge": "自動ドラフト",
+      "lines": [
+        "おい、アレックス！",
+        "ロードマップ上で同期したいと考えています。 木曜日の午後 2 時から午後 4 時まで、または金曜日の午前中は空いています。どちらでも私には最適です。",
+        "あなたに最適なものをお知らせください。招待状をお送りします。",
+        "ありがとう！  "
+      ],
+      "highlightText": "木曜日の午後 2 時から午後 4 時まで、または金曜日の午前中は空いています",
+      "actions": [
+        "送信",
+        "編集"
+      ],
+      "tooltipTitle": "パーソナライズされたドラフト",
+      "tooltipFeatures": [
+        "あなたのカレンダーを知っています",
+        "あなたの声の下書き",
+        "記憶を通じて文脈を知る",
+        "時間の経過とともに学習します"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI 電子メール インテリジェンスとアシスタント",
+    "badge": "知能",
+    "title": "メールについて何でも質問してください",
+    "subtitle": "Duet にメールの検索、カレンダーの確認、返信の下書きを依頼します。 あなたの受信箱を理解し、即座に応答します。",
+    "windowTitle": "Duetエージェント",
+    "onlineLabel": "オンライン",
+    "initialUserMessage": "経理部門から送信された Stripe 請求書を見つけられますか?",
+    "processingText": "受信トレイを検索しています...",
+    "foundHeader": "Stripe からのメールが 2 件見つかりました",
+    "foundBody": "10月24日の$29.00 USDの領収書を見つけました。",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "返信の下書きを作成する"
+      },
+      {
+        "action": "calendar",
+        "label": "時間を見つけて会う"
+      }
+    ],
+    "inputPlaceholder": "何でも聞いてください...",
+    "dynamicResponses": {
+      "processingDefault": "処理...",
+      "processingDraft": "ドラフトを生成中...",
+      "processingCalendar": "空き状況を確認中...",
+      "draftIntro": "Accounting への返信草案は次のとおりです。",
+      "draftHeader": "ドラフト: accounting@company.com",
+      "draftLines": [
+        "こんにちは、チームです。",
+        "10 月の Stripe 請求書 ($29.00) を添付しましたのでご確認ください。",
+        "他に何か必要な場合はお知らせください。",
+        "最高、"
+      ],
+      "draftActions": [
+        "電子メールを送信する",
+        "編集"
+      ],
+      "calendarIntro": "明日は 3 つのスロットが空いています:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "30分"
+        },
+        {
+          "time": "2:00 PM",
+          "duration": "30分"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "30分"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "返信の下書きもしますか?",
+        "calendarAfterDraft": "フォローアップの予定も立てますか?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "お客様の声",
+    "scrollingAriaLabel": "スクロールする体験談",
+    "eyebrow": "お客様の声",
+    "title": "多忙なプロフェッショナルに愛される",
+    "subtitle": "本物の人々。 実際の受信箱が勝ちます。",
+    "items": [
+      {
+        "name": "フランチェスカ T.",
+        "title": "フリーランサー",
+        "quote": "あらゆるペニーの価値があります。 メールにかかる時間を節約すると、Duet Mail の費用が 10 倍以上かかります。 今ではこれなしで働くことは考えられません。",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "マイケル R.",
+        "title": "営業責任者",
+        "quote": "長い電子メール スレッドの即時要約はまさに魔法であり、非常にユーザーフレンドリーです。 私のクライアントは私を超人だと思っています。",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "ジョニー・S",
+        "title": "起業家",
+        "quote": "私の電子メールに人工知能が使用されていることに懐疑的でした。 今では、優秀なエグゼクティブアシスタントがいるようなものです。 戻ることは想像できません。",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "ジェニファー L.",
+        "title": "コンサルタント",
+        "quote": "コンサルタントとしては、一分一秒が勝負です。 Duet Mail は時間を節約するだけでなく、電子メールでのコミュニケーションをより鮮明にしてくれます。",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "サラ・T",
+        "title": "マーケティングディレクター",
+        "quote": "最後に、実際に私の書き方を学習する AI メール アシスタントです。 即座に返信が的確なので、チームは私が真夜中に仕事をしているのではないかと思ったほどです。",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "価格設定",
+    "eyebrow": "価格設定",
+    "heading": "シンプルな価格設定、強力な受信トレイ",
+    "subheading": "無料で始められ、いつでもアップグレードできます。 いつでもキャンセルしてください。",
+    "billingLegend": "請求頻度",
+    "billingAnnual": "年間",
+    "billingMonthly": "毎月",
+    "savingsTag": "33% 割引",
+    "priceCadence": "/month",
+    "perUserSuffix": "/user",
+    "annualBillingSuffix": "(毎年請求されます)",
+    "trustItems": [
+      "Stripe による安全なチェックアウト",
+      "いつでもキャンセル可能"
+    ],
+    "plans": [
+      {
+        "name": "基本",
+        "description": "よりスマートな受信トレイがどのようなものかを知りたい人向け。 コミットメントは必要ありません。",
+        "priceLabel": "Free",
+        "features": [
+          {
+            "title": "インスタントサマリー",
+            "description": "スレッドの要点を把握する"
+          },
+          {
+            "title": "AI 下書き",
+            "description": "あなたの声で答える味"
+          },
+          {
+            "title": "スマート受信箱",
+            "description": "始めるための基本編成"
+          },
+          {
+            "title": "Duetアシスタント",
+            "description": "AI アシスタントを試してみる"
+          }
+        ],
+        "ctaLabel": "Gmail または Outlook を選択してください"
+      },
+      {
+        "name": "Pro",
+        "badge": "14日間の無料トライアル",
+        "description": "より深い自動化、統合、そして仕事のやり方を真に理解する受信箱を求めるプロフェッショナル向け。",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "スマート受信箱",
+            "description": "メールをスマートカテゴリに自動分類",
+            "highlight": true
+          },
+          {
+            "title": "AI 下書き",
+            "description": "あなたの声で書かれた返信をすぐに送信できます",
+            "highlight": true
+          },
+          {
+            "title": "Duetアシスタント",
+            "description": "チャットして検索、下書き、整理などを行う",
+            "highlight": true
+          },
+          {
+            "title": "カレンダーの統合",
+            "description": "受信トレイからイベントをスケジュール、表示、管理します"
+          },
+          {
+            "title": "インスタントサマリー",
+            "description": "スレッドまたは添付ファイルの要点を取得する"
+          },
+          {
+            "title": "スマートリマインダー",
+            "description": "フォローアップは自動的に表示されるため、何も滑ることはありません"
+          },
+          {
+            "title": "優先サポート",
+            "description": "本物の人間、素早い反応"
+          }
+        ],
+        "ctaLabel": "Gmail または Outlook を選択してください",
+        "featured": true
+      },
+      {
+        "name": "企業",
+        "description": "エンタープライズ グレードの規模、専用のサポート、カスタム ワークフローを必要とする組織向け。 50 名以上のチームに最適です。",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Pro のすべて",
+            "description": "すべての機能が含まれています"
+          },
+          {
+            "title": "専用のサポート",
+            "description": "個人アカウントマネージャー"
+          },
+          {
+            "title": "チーム分析",
+            "description": "組織全体にわたる洞察"
+          },
+          {
+            "title": "共有ワークフロー",
+            "description": "チーム向けのテンプレートと自動化"
+          }
+        ],
+        "ctaLabel": "営業担当者にお問い合わせください",
+        "ctaNote": "カスタム価格設定が可能"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "よくある質問",
+    "eyebrow": "FAQ",
+    "headingPrefix": "よくある質問、 ",
+    "headingAccent": "答えた",
+    "contactDecorative": "?",
+    "contactLabel": "接触",
+    "contactHeading": "まだ質問がありますか?",
+    "contactCta": "お問い合わせ→",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Duet Mail は私の電子メール データをどのように保護しますか?",
+        "answer": "お客様のセキュリティは当社の最優先事項です。 Google と Microsoft の両方で安全な認証のために OAuth 2.0 を使用します。 電子メールのコンテンツは、クライアント側のフィールドレベルの暗号化を使用して保存時に暗号化され、API アクセスには最小権限の原則に従います。 Google の統合では、Google の年次 CASA セキュリティ評価を受けています。"
+      },
+      {
+        "question": "電子メールの概要機能はどのように機能しますか?",
+        "answer": "Duet Mail は、高度な AI を使用して電子メール スレッドを分析し、重要なポイント、決定事項、アクション アイテムを強調した簡潔な概要を生成します。 これにより、スレッド全体を読まなくてもコンテキストをすぐに理解できます。"
+      },
+      {
+        "question": "Duet Mail にはどのような権限が必要ですか?",
+        "answer": "Duet Mail では、概要の提供、アクション アイテムの抽出、コンテンツの生成、電子メールの送信を行うために電子メールにアクセスする必要があります。 絶対に必要な権限のみをリクエストします。 これらの権限は、Google アカウントまたは Microsoft アカウント設定でいつでも確認して取り消すことができます。"
+      },
+      {
+        "question": "無料トライアルには何が含まれていますか?",
+        "answer": "14 日間の無料トライアルには、無制限の電子メールの概要、アクション アイテムの抽出、AI 電子メール ライター (無制限の電子メールと下書きの生成)、およびカスタム電子メール テンプレートなど、すべての Pro 機能へのフル アクセスが含まれます。 Google または Microsoft でサインインして、電子メール管理の時間を節約してください。"
+      },
+      {
+        "question": "Duet Mail を他の電子メール プロバイダーで使用できますか?",
+        "answer": "Duet Mail は、Gmail、Google Workspace、および Microsoft Outlook をサポートします。 開始するには、Google または Microsoft アカウントでサインインしてください。"
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "始めましょう",
+    "headline": "4時間を取り戻してください。 \n毎週。",
+    "subline": "混乱ではなく、明確な状態で 1 日を始めるプロフェッショナルに加わってください。 無料トライアルが待っています。",
+    "primaryCta": "Gmail から始める",
+    "secondaryCta": "Outlook から始める",
+    "note": "14 日間の無料トライアル · いつでもキャンセル可能",
+    "trustItems": [
+      "Google CASA 評価済み",
+      "保存時に暗号化される",
+      "セキュアなOAuth 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "サイトフッター",
+    "brandIconAlt": "Duet Mail アイコン",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — 毎週時間を節約する AI 電子メール アシスタント",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "探検する",
+        "links": [
+          {
+            "label": "組織",
+            "href": "/ja#organization"
+          },
+          {
+            "label": "製図",
+            "href": "/ja#drafting"
+          },
+          {
+            "label": "知能",
+            "href": "/ja#intelligence"
+          },
+          {
+            "label": "Chrome拡張機能",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "お客様",
+        "links": [
+          {
+            "label": "価格設定",
+            "href": "/ja#pricing"
+          },
+          {
+            "label": "お客様の声",
+            "href": "/ja#testimonials"
+          },
+          {
+            "label": "FAQ",
+            "href": "/ja#faq"
+          }
+        ]
+      },
+      {
+        "title": "法律上の",
+        "links": [
+          {
+            "label": "プライバシー",
+            "href": "/ja/privacy"
+          },
+          {
+            "label": "条項",
+            "href": "/ja/terms"
+          },
+          {
+            "label": "クッキー",
+            "href": "/ja/cookies"
+          },
+          {
+            "label": "免責事項",
+            "href": "/ja/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "接続する",
+        "links": [
+          {
+            "label": "ブログ",
+            "href": "/ja/blog"
+          },
+          {
+            "label": "リンクトイン",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "インスタグラム",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "スタートアップの名声",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "投資収益率",
+    "label": "数学",
+    "narrativeTemplate": "{bookingUnit} あたり {pricePerBooking} では、返信が遅いために失われるのは {lostPerMonth} だけです =",
+    "lossSuffix": "/mo",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Gmail および Outlook 用の AI 電子メール アシスタント",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "カスタマーサポート",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "Gmail および Outlook 用の AI 電子メール アシスタント。電子メールを自動的に要約し、音声で返信の下書きを作成し、受信トレイを整理して毎週時間を節約します。",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "スマートな電子メールの整理と分類",
+      "AI を利用したあなたの声での電子メールの下書き",
+      "カレンダーと統合されたインテリジェントな電子メール アシスタント",
+      "自動電子メールの概要とアクションアイテム",
+      "フォローアップのためのスマートなリマインダー"
+    ],
+    "offers": [
+      {
+        "name": "基本プラン",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "即時要約、AI 下書き、スマート受信箱を備えた無料プラン"
+      },
+      {
+        "name": "Pro 計画",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "スマートな受信箱の分類、AI 下書き、アシスタント、カレンダーの統合によるフルアクセス"
+      }
+    ],
+    "operatingSystem": "Web",
+    "browserRequirements": "JavaScriptが必要です。 Gmail、Google Workspace、Microsoft Outlook で動作します。",
+    "urls": {
+      "site": "https://duetmail.com/ja",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Duet Mail は私の電子メール データをどのように保護しますか?",
+        "answer": "お客様のセキュリティは当社の最優先事項です。 Google と Microsoft の両方で安全な認証のために OAuth 2.0 を使用します。 電子メールのコンテンツは、クライアント側のフィールドレベルの暗号化を使用して保存時に暗号化され、API アクセスには最小権限の原則に従います。 Google の統合では、Google の年次 CASA セキュリティ評価を受けています。"
+      },
+      {
+        "question": "電子メールの概要機能はどのように機能しますか?",
+        "answer": "Duet Mail は、高度な AI を使用して電子メール スレッドを分析し、重要なポイント、決定事項、アクション アイテムを強調した簡潔な概要を生成します。 これにより、スレッド全体を読まなくてもコンテキストをすぐに理解できます。"
+      },
+      {
+        "question": "Duet Mail にはどのような権限が必要ですか?",
+        "answer": "Duet Mail では、概要の提供、アクション アイテムの抽出、コンテンツの生成、電子メールの送信を行うために電子メールにアクセスする必要があります。 絶対に必要な権限のみをリクエストします。 これらの権限は、Google アカウントまたは Microsoft アカウント設定でいつでも確認して取り消すことができます。"
+      },
+      {
+        "question": "無料トライアルには何が含まれていますか?",
+        "answer": "14 日間の無料トライアルには、無制限の電子メールの概要、アクション アイテムの抽出、AI 電子メール ライター (無制限の電子メールと下書きの生成)、およびカスタム電子メール テンプレートなど、すべての Pro 機能へのフル アクセスが含まれます。 Google または Microsoft でサインインして、電子メール管理の時間を節約してください。"
+      },
+      {
+        "question": "Duet Mail を他の電子メール プロバイダーで使用できますか?",
+        "answer": "Duet Mail は、Gmail、Google Workspace、および Microsoft Outlook をサポートします。 開始するには、Google または Microsoft アカウントでサインインしてください。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail lovagláshoz és túravezetőkhöz | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a túravezetőknek azonnal válaszolni a foglalási e-mailekre – akár a nyeregből is. AI által összeállított válaszok az árakkal, a versenyzői követelményekkel és a hanggal.",
+  "heroBadge": "Több mint 300 túravezető megbízható",
+  "heroHeadline": "Az e-mail asszisztens, amíg úton van",
+  "heroSubline": "A Duet megtanulja az Ön utazási típusait, árait, versenyzői követelményeit és a nyomvonal körülményeit – majd e-mail-válaszokat készít, hogy soha ne veszítse el a foglalást egy lassú válasz miatt.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Csoportos foglalás 6-ra – szombat reggel?",
+      "preview": "Szia! 6 tagú család vagyunk (2 felnőtt, 4 gyerek 8-14 éves korig), és szívesen lefoglalnánk egy túrát szombat reggelre. Van elérhetősége? Mennyi az ár személyenként?",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Súlykorlátozás kérdése",
+      "preview": "Hé, fuvar foglalása érdekel, de először a súlyigényedről akartam kérdezni. Körülbelül 260 kiló vagyok – ez baj lesz...",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy és Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Naplemente lovaglás évfordulóra?",
+      "preview": "Jövő hétvégén ünnepeljük fennállásunk 10. évfordulóját, és láthattuk a naplementét az Instagramon. Péntek este kapható? Bármilyen speciális csomag...",
+      "pill": "Foglalás",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Új vélemény az adatlapodról",
+      "preview": "Egy utazó nemrégiben véleményezte vállalkozását. Nézd meg, mit mondtak, és válaszolj...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Szia Jessica! Szombat reggel 6 óráig tart nyitva. A túra ára 100 USD/fő, és körülbelül 90 percig tart a völgyön keresztül. A 8 év feletti gyerekeket szeretettel várjuk – mindenkit szívesen fogadunk. Zárt orrú cipő szükséges, sisakot biztosítunk. Akarod, hogy lefoglaljalak a reggel 9 órás útra?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "lovagol",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Egy megtakarított csoportos utazás több mint két év Duetért fizet."
+  },
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kérelmeket látja, a lovas kérdéseit másodsorban, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá rejtett csoportos megkeresés.",
+  "draftSubtitle": "A Duet megtanulja az Ön utazási típusait, árait és követelményeit. Amikor egy foglalási lekérdezés érkezik, teljes választ ad a nyomvonal részleteivel, az árakkal és a viselnivalókkal. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Nyitva van a hétvégén? \"Választervezet Jessicának szombati elérhetőséggel.\" A Duet ismeri a postaládáját és a naptárát – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Csoportos foglalás 6-ra – szombat reggel?",
+      "preview": "6 tagú család vagyunk, akik túrázást szeretnének foglalni...",
+      "pill": "Válaszoljon most",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Naplemente utazás megerősítve – péntek 17:30",
+      "pill": "Lefoglalt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Súlykorlátozás és tapasztalati követelmények?",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Utazó",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Az Ön heti foglalási összefoglalója",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Traktorellátás",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Tavaszi kiárusítás – 15% kedvezmény a takarmányból és tackból",
+      "pill": "Promozgások",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Csoportos foglalás 6-ra – szombat reggel?",
+    "originalFrom": "Jessica T. írta:",
+    "originalText": "Szia! 6 tagú család vagyunk (2 felnőtt, 4 gyerek 8-14 éves korig), és szívesen lefoglalnánk egy túrát szombat reggelre. Van elérhetősége? Mennyi az ár személyenként?",
+    "lines": [
+      "Szia Jessica!",
+      "Szombat délelőtt 6 főre nyitva tart. A túra ára 100 USD/fő, és körülbelül 90 percig tart a völgyön keresztül. A 8 éves és annál idősebb gyerekeket szeretettel várjuk, így az egész csapat készen áll.",
+      "Zárt orrú cipő szükséges – a csizma a legjobb. Sisakot biztosítunk, és minden lovast a méret és a tapasztalat alapján lóhoz illesztünk. Előzetes lovas tapasztalat nem szükséges.",
+      "Akarod, hogy bezárjalak a reggel 9-es útra?"
+    ],
+    "highlightText": "Szombat délelőtt 6 főre nyitva tart. A túrák ára 100 USD/fő",
+    "tooltipFeatures": [
+      "Ismeri az árát és elérhetőségét",
+      "Piszkozatok a hangodban",
+      "A lovas követelményeket automatikusan tartalmazza",
+      "Idővel tanul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Nyitva vannak fuvarok ezen a hétvégén? Illetve milyen az időjárás?",
+    "agentResponse": "A naptárad alapján szombaton 9 órakor és 14 órakor, vasárnap pedig 10 órakor van nyitva. A szombati előrejelzés 72°F és napos – tökéletes lovaglási idő. Vasárnap 40% esély van a délutáni esőre, így a reggeli rés a biztonságosabb. Szeretné, ha ezekkel az időpontokkal válaszolnék minden függőben lévő kérdésre?",
+    "followUp": "Írjon választ Jessicának a szombati elérhetőséggel",
+    "followUpResponse": "Kész! Választ fogalmaztam meg Jessicának, amelyben szombaton reggel 9-kor erősítettem meg, 6 versenyző számára 100 USD/fő áron. Tartalmazza a szokásos motoros követelményeket és a viseletet. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Szeretik a túravezetők",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Ranch Owner & Trail Guide, MT",
+      "quote": "Napi 6 órában kint vagyok mobilszolgáltatás nélkül. Mire visszaértem válaszolni, az emberek fele máshol foglalt. A Duet most összeállítja a válaszokat az árakkal és az utazási adataimmal – én csak átnézem és elküldöm, amikor visszatérek az istállóba.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Horseback Tour Operator, AZ",
+      "quote": "Több tucat e-mailt kapunk, amelyekben ugyanazt kérdezik – súlykorlátozást, viseletet, életkori követelményeket. A Duet kezeli az egészet, és a válaszok pontosan úgy hangzanak, mint én. A vendégeim nem is sejtik, hogy ez a mesterséges intelligencia.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Trail Ride Guide, CO",
+      "quote": "A főszezon megölt. Napi 30+ e-mail a futó túrákon felül. A Duet a zajból kiválogatja a foglalási kérelmeket, és válaszvázlatokat készít, amelyek mindent tartalmaznak – árat, mit vigyen magával, a tételt. Visszakaptam az estéimet.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Lovasoktató és foglalási menedzser, TX",
+      "quote": "Naplemente túrákat, reggeli túrákat és magánórákat szervezünk – mindegyik más-más árakkal és követelményekkel. A Duet egy hét alatt mindent megtanult. Minden alkalommal elkészíti a megfelelő választ a megfelelő utazástípushoz.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "Az érzékeny e-mailek voltak a legrosszabbak – valaki megkérdezte, hogy túl nehezek-e, vagy elég idős-e a gyereke. A Duet ugyanolyan gondossággal kezeli őket, mint én. Proszakszerű, kedves és pontos. Ez már önmagában megéri.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Töltsd a napot a lovakkal,\nnem a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "Hogyan kezeli a Duet a súly- vagy tapasztalati követelményekkel kapcsolatos kényes kérdéseket?",
+      "answer": "A Duet megtanulja az Ön konkrét irányelveit, és tükrözi az Ön hangnemét. Ha valaki a súlykorlátokról vagy a tapasztalati követelményekről kérdez, az professzionálisan és melegen válaszol – megosztja a szükséges információkat anélkül, hogy kínossá tenné. Ön egyszer megadja az alaphangot, és a Duet következetesen követi azt, így minden vendég tiszteletben érzi magát."
+    },
+    {
+      "question": "A Duet képes kezelni a csoportos foglalásokat különböző versenyzői igényekkel?",
+      "answer": "Igen. A Duet megtanulja az Ön utazási típusait, csoportméreteit, életkorát és a versenyzőkre vonatkozó követelményeket. Amikor egy család vagy csoport e-mailt küld a foglalásról, válaszvázlatot készít, amely tartalmazza a teljes csoport árait, azt, amit minden versenyzőnek tudnia kell, és a rendelkezésre álló idősávokat. Ön felülvizsgálja és elküldi – nincs szükség oda-vissza."
+    }
+  ],
+  "pricingNote": "100 USD/fő áron 6 fős csoport esetén egy megtakarított út több mint két év Pro-ért fizet."
+}

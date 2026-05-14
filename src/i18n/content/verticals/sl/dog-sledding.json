@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail za izlete s pasjo vprego | AI e-poštni pomočnik",
+  "metaDescription": "Duet Mail pomaga vodnikom pasjih vpreg takoj odgovoriti na e-pošto o rezervacijah — tudi s poti. Osnutki odgovorov z umetno inteligenco z vašimi vrstami izletov, cenami, pravili in načinom pisanja.",
+  "heroBadge": "Zaupa mu več kot 200 vodnikov pasjih vpreg",
+  "heroHeadline": "Vaš e-poštni pomočnik, ko ste na poti",
+  "heroSubline": "Duet se nauči vaših vrst izletov, cen, vremenskih pravil in dodatkov — nato pripravlja osnutke e-poštnih odgovorov, da zaradi počasnega odziva ne izgubite nobene rezervacije.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kombinacija polarnega sija in pasje vprege za 4?",
+      "preview": "Živjo! Moja 4-članska družina januarja obišče Fairbanks. Ali ponujate paket s pasjo vprego in opazovanjem polarnega sija? Kakšna je cena?",
+      "pill": "Za odgovor",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Kaj naj oblečemo?",
+      "preview": "Rezervirani smo za 2-urno izkušnjo s pasjo vprego v soboto. Kaj naj oblečemo? Ali opremo zagotovite vi ali moramo prinesti svojo...",
+      "pill": "Vprašanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim & Brian L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Otroka stara 5 in 8 let — lahko sodelujeta pri vpregi?",
+      "preview": "S seboj pripeljeva dva otroka (5 in 8). Se lahko peljeta v saneh ali dejansko pomagata pri vodenju vprege? In ali so psi vajeni majhnih otrok...",
+      "pill": "Rezervacija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova ocena vašega profila",
+      "preview": "Popotnik je nedavno ocenil vaše podjetje. Poglejte, kaj je napisal, in odgovorite...",
+      "pill": "V vednost",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Živjo, Rachel! Z veseljem gostimo vašo družino. Naš Aurora + Mush Combo stane $175/osebo — dobite 1,5-urno vožnjo s sanmi po poteh ob mraku, nato pa vročo čokolado ob ognju, medtem ko čakamo na polarni sij. Vsa oprema za mraz je vključena. Otroci do vključno 12 let so $125. Želite, da vas rezerviram za januar?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "izlet",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dve rešeni rezervaciji pokrijeta leto uporabe Duet."
+  },
+  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato vprašanja, šuma pa nikoli. Nič več zgrešenih povpraševanj za izlete, zakopanih pod opozorili TripAdvisor.",
+  "draftSubtitle": "Duet se nauči vaših vrst izletov, cen in tona. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi paketa, tem, kaj obleči, in dodatki. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Kakšne rezervacije imamo ta konec tedna?\" \"Pripravi odgovor o paketu s polarnim sijem.\" Duet pozna vaš nabiralnik in urnik — samo vprašajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kombinacija polarnega sija in pasje vprege za 4?",
+      "preview": "Moja 4-članska družina januarja obišče Fairbanks...",
+      "pill": "Odgovorite zdaj",
+      "pillColor": "red"
+    },
+    {
+      "from": "James W.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervacija potrjena — sobota ob 13.00",
+      "pill": "Rezervirano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "purple",
+      "subject": "Ali se lahko otroka (5 in 8 let) peljeta zraven?",
+      "pill": "Vprašanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Vaš tedenski povzetek rezervacij",
+      "pill": "V vednost",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Zimska razprodaja — 30 % popusta na oprtnice za vprego",
+      "pill": "Promocije",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Kombinacija polarnega sija in pasje vprege za 4?",
+    "originalFrom": "Rachel T. je napisala:",
+    "originalText": "Živjo! Moja 4-članska družina januarja obišče Fairbanks. Ali ponujate paket s pasjo vprego in opazovanjem polarnega sija? Kakšna je cena?",
+    "lines": [
+      "Živjo, Rachel!",
+      "Naš Aurora + Mush Combo stane $175/osebo — 1,5-urna vožnja s sanmi ob mraku, nato vroča čokolada in opazovanje polarnega sija ob ognju. Otroci do vključno 12 let so $125.",
+      "Vsa oprema za mraz je vključena (škornji, hlače z naramnicami, rokavice, obrazne maske). Spodaj se le oblecite v tople sloje.",
+      "Želite, da vašo 4-člansko družino rezerviram za januar?"
+    ],
+    "highlightText": "Aurora + Mush Combo je $175/osebo — 1,5-urna vožnja s sanmi",
+    "tooltipFeatures": [
+      "Pozna vaše vrste izletov in cene",
+      "Pripravlja osnutke v vašem slogu",
+      "Vključi podrobnosti o opremi in dodatkih",
+      "Sčasoma se uči"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kakšne rezervacije prihajajo ta konec tedna? Vreme je videti negotovo.",
+    "agentResponse": "Ta konec tedna imate rezervirane 3 izlete: obisk psarne v soboto ob 10.00 (2 gosta), 2-urno izkušnjo s pasjo vprego v soboto ob 13.00 (4 gostje) in paket s polarnim sijem v nedeljo ob 16.00 (6 gostov). Nedeljska skupina je vprašala o pravilih odpovedi. Želite, da pripravim vremensko obvestilo za vse tri?",
+    "followUp": "Pripravi vremensko obvestilo za nedeljsko skupino za polarni sij",
+    "followUpResponse": "Končano! Pripravil sem odgovor za nedeljsko skupino za polarni sij, da spremljate razmere in jih boste potrdili do sobotnega večera. Vključuje vaša pravila prestavitve in nadomestne datume. Pripravljeno za pregled in pošiljanje."
+  },
+  "testimonialsTitle": "Vodniki pasjih vpreg in turistični operaterji ga obožujejo",
+  "testimonials": [
+    {
+      "name": "Ryan H.",
+      "title": "Operater izletov s pasjo vprego, AK",
+      "quote": "Na poti sem 6 ur na dan brez signala. Ko bi se vrnil, bi polovica povpraševanj za rezervacijo že odšla drugam. Duet pripravlja odgovore z mojimi podrobnostmi izletov in cenami — gostje dobijo odgovor v minutah, ne urah.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Lastnica psarne in izletov s pasjo vprego, AK",
+      "quote": "Ponujamo obiske psarne, vožnje s pasjo vprego in pakete s polarnim sijem — vsako e-poštno sporočilo potrebuje drugačen odgovor. Duet je v enem tednu razumel vse tri vrste izletov in zdaj vedno pripravi odgovor za pravi paket.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Vodnik pasje vprege, MN",
+      "quote": "Vsak večer sem odgovarjal na ista vprašanja o tem, kaj obleči, starostnih omejitvah in psih. Duet poskrbi za vse. Ko se vrnem s poti, me osnutki že čakajo.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Annika S.",
+      "title": "Operaterka izletov s polarnim sijem in sanmi, AK",
+      "quote": "Vremenske odpovedi so pozimi stalnica. Duet pripravi odgovore za prestavitev z našimi pravili in nadomestnimi datumi, še preden sploh uspem pogledati telefon. Gostje obožujejo hiter odziv.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Družinske pustolovščine s pasjo vprego, CO",
+      "quote": "Starši vedno sprašujejo, ali lahko otroci sodelujejo pri vpregi, ali so psi prijazni, kaj naj oblečejo — istih 10 vprašanj. Duet se je naučil vsakega odgovora in jih pripravi odlično. Kot da bi podvojila sebe za e-pošto.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Zimo preživite na poti s svojimi psi,\nne v nabiralniku.",
+  "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
+  "verticalFaqs": [
+    {
+      "question": "Kako Duet obravnava vremenske odpovedi in negotovost glede polarnega sija?",
+      "answer": "Duet se nauči vaših pravil odpovedi in prestavitve. Ko gost piše zaradi vremenskih skrbi ali vidljivosti polarnega sija, pripravi odgovor z vašimi pravili, nadomestnimi datumi in pomembnimi podrobnostmi — na primer da spremljate razmere in boste potrdili bližje izletu. Vi ga pregledate in pošljete."
+    },
+    {
+      "question": "Ponujam več vrst izletov z različnimi cenami in dodatki. Jih lahko Duet loči?",
+      "answer": "Da. Duet se nauči vsake vaše vrste izleta — obiskov psarne, izkušenj s pasjo vprego, paketov s polarnim sijem, fotografskih dodatkov, prevoznih paketov — skupaj s cenami, trajanjem in tem, kaj je vključeno. Ko pride povpraševanje, izbere pravi izlet in pripravi odgovor s pravilnimi podrobnostmi."
+    }
+  ],
+  "pricingNote": "Pri $150/izlet dve rešeni rezervaciji pokrijeta več kot leto uporabe Pro."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail do lotów balonem na ogrzane powietrze | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga pilotom balonów natychmiastowo odpowiadać na e-maile dotyczące rezerwacji – nawet podczas lotów o wschodzie słońca. Odpowiedzi opracowane przez sztuczną inteligencję zawierające Twoje ceny, zasady pogodowe i głos.",
+  "heroBadge": "Zaufali mu piloci balonów 200+",
+  "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś w powietrzu",
+  "heroSubline": "Duet poznaje Twoje rozkłady lotów, ceny i zasady pogodowe, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji podczas startu o wschodzie słońca.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Lot o wschodzie słońca do 2 — sobota dostępna?",
+      "preview": "Cześć! Mój mąż i ja przyjeżdżamy z okazji naszej rocznicy i chcielibyśmy zarezerwować lot balonem o wschodzie słońca w tę sobotę. Czy masz miejsce? Jaki jest koszt na osobę?",
+      "pill": "Aby odpowiedzieć",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Czy polecimy jutro? Prognoza wiatru wygląda fatalnie",
+      "preview": "Mamy rezerwację na jutro rano, ale aplikacja pogodowa pokazuje porywy 15 mil na godzinę. Czy nadal lecimy, czy planujemy przełożyć...",
+      "pill": "Pytanie",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Prywatny lot w sprawie propozycji – ceny?",
+      "preview": "Chcę zaskoczyć moją dziewczynę prywatnym przelotem balonem i oświadczyć się podczas lotu. Ile kosztuje prywatny lot i czy możesz pomóc w koordynowaniu...",
+      "pill": "Rezerwacja",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "W co powinniśmy się ubrać? Gdzie się spotykamy?",
+      "preview": "Mamy rezerwację na niedzielę rano. W co powinniśmy się ubrać i gdzie dokładnie jest miejsce spotkania? Oraz ile czasu zajmuje całe to doświadczenie...",
+      "pill": "Pytanie",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Cześć Rachel! Sobota jest otwarta dla 2. Loty o wschodzie słońca rozpoczynają się około 6:15 AM — dokładny czas i miejsce spotkania potwierdzimy poprzedniego wieczoru w oparciu o wiatr. To $250/person i obejmuje około godzinę w powietrzu oraz toast szampanem po wylądowaniu. Ubieraj się warstwowo i noś buty z zakrytymi palcami. Chcesz, żebym zarezerwował Twoje miejsca?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "lot",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Jeden zaoszczędzony lot płaci za rok Duet."
+  },
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się prośby o rezerwację, w drugiej kolejności pytania o pogodę, a hałas nigdy. Koniec z przegapianiem zapytań o loty ukrytych pod powiadomieniami w biuletynie.",
+  "draftSubtitle": "Duet poznaje Twoje ceny, zasady pogodowe i ton. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź zawierającą szczegóły lotu, informacje o spotkaniu i w co się ubrać. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Kto jest w jutrzejszym manifeście?” „Czy są jakieś odwołania pogodowe, które należy przełożyć?” Duet zna Twoją skrzynkę odbiorczą i kalendarz — po prostu zapytaj.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Lot o wschodzie słońca do 2 — sobota dostępna?",
+      "preview": "Mój mąż i ja chcielibyśmy zarezerwować lot balonem o wschodzie słońca...",
+      "pill": "Odpowiedz teraz",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Rezerwacja potwierdzona — niedziela 6:15 AM",
+      "pill": "Zarezerwowano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "W co się ubrać na lot?",
+      "pill": "Pytanie",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nowa recenzja Twojego wpisu",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Balloon Federation",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Biuletyn bezpieczeństwa w marcu i przypomnienie o odnowieniu",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Lot o wschodzie słońca dla 2 — dostępna sobota?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Cześć! Mój mąż i ja przyjeżdżamy z okazji naszej rocznicy i chcielibyśmy zarezerwować lot balonem o wschodzie słońca w tę sobotę. Czy masz miejsce? Jaki jest koszt na osobę?",
+    "lines": [
+      "Cześć Rachel!",
+      "Sobota jest szeroko otwarta dla 2. Loty o wschodzie słońca to $250/person i obejmują około godziny w powietrzu oraz toast szampanem po wylądowaniu.",
+      "Wystartujemy około 6:15 AM — dokładny czas i miejsce spotkania wyślę wieczorem wcześniej, w zależności od warunków wietrznych. Ubieraj się warstwowo i noś buty z zakrytymi palcami.",
+      "Wszystkiego najlepszego z okazji rocznicy! Chcesz, żebym zarezerwował Twoje miejsca?"
+    ],
+    "highlightText": "Sobota jest szeroko otwarta dla 2. Loty o wschodzie słońca to $250/person",
+    "tooltipFeatures": [
+      "Zna cenę i rozkład lotów",
+      "Wersje robocze w Twoim głosie",
+      "Automatycznie uwzględnia szczegóły spotkania",
+      "Uczy się z czasem"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kto będzie w jutrzejszym manifeście i jaka będzie pogoda?",
+    "agentResponse": "Na jutrzejszy lot o wschodzie słońca pasażerowie 6 mają zarezerwowane rezerwacje 2: impreza Thompsona (4) i para Lee (2). Aktualna prognoza pokazuje spokojne wiatry z prędkością 4 mil na godzinę i czyste niebo w momencie startu. Nie ma jeszcze żadnych e-maili o anulowaniu. Chcesz, żebym wysłał potwierdzenia miejsc spotkań?",
+    "followUp": "Tak, wyślij potwierdzenia do obu stron z godziną spotkania 6:15 AM",
+    "followUpResponse": "Gotowe! Sporządziłem projekty potwierdzeń miejsc spotkań zarówno dla Thompsons, jak i Lees z 6:15 AM na polu startowym, informując o tym, w co się ubrać i wskazówki. Gotowe do przejrzenia i wysłania."
+  },
+  "testimonialsTitle": "Uwielbiany przez pilotów i operatorów balonów",
+  "testimonials": [
+    {
+      "name": "Captain Mike L.",
+      "title": "Pilot balonu, MN",
+      "quote": "Prowadzę działalność jednoosobową — latam, jestem załogą, odpowiadam na e-maile. Z wyjątkiem 5 AM, pompuję, nie odpowiadam. Duet przygotowuje odpowiedzi na każde pytanie „czy polecimy jutro?” wiadomość w nocy. Budzę się, sprawdzam pogodę i klikam „wyślij”.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon & Jake B.",
+      "title": "Całoroczne wycieczki balonem, UT",
+      "quote": "Codziennie otrzymujemy te same pytania 10. W co się ubrać, gdzie się spotkać, a co jeśli będzie wietrznie. Duet nauczył się tego wszystkiego i teraz przygotowuje doskonałe odpowiedzi. Z godziny wysyłania e-maili każdego wieczoru przeszliśmy do pięciu minut.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Operator lotu Sunrise, AZ",
+      "quote": "Szczyt sezonu oznacza loty 4-6 tygodniowo, a każdy pasażer wysyła e-mail co najmniej dwa razy przed lotem. Duet odpowiada na pytania przed lotem, dzięki czemu mogę skupić się na zapewnieniu ludziom najlepszego poranka w ich życiu.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Współwłaściciel firmy Balloon Company, Nowy Meksyk",
+      "quote": "Anulowanie pogody zrujnowało mi cały dzień — wszyscy pasażerowie 8 potrzebowali osobistych e-maili w sprawie zmiany terminu. Teraz Duet opracowuje każdy z nich, uwzględniając nasze zasady zmiany rezerwacji. Oszczędzam godziny w przypadku porannych odwołań.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Loty balonem, CO",
+      "quote": "Loty w ramach propozycji wymagają dużej koordynacji tam i z powrotem. Duet zauważył, jak sobie z nimi radzimy — czas, słowa kodowe, konfiguracja szampana. Tworzy odpowiedzi, których ledwo muszę dotykać.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Spędzaj poranki w niebie,\nnie w Twojej skrzynce odbiorczej.",
+  "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "W jaki sposób Duet obsługuje e-maile dotyczące anulowania pogody?",
+      "answer": "Duet poznaje Twoje zasady anulowania i zmiany rezerwacji. Gdy anulujesz lot ze względu na pogodę, może przygotować spersonalizowane e-maile dotyczące zmiany terminu lotu do każdego pasażera, którego to dotyczy – zawierające Twoją polisę, dostępne daty i Twój ton. Sprawdzasz i wysyłasz. To, co kiedyś zajmowało godzinę indywidualnych odpowiedzi, zajmuje kilka minut."
+    },
+    {
+      "question": "Czy Duet może poradzić sobie z pytaniem „czy polecimy jutro?” e-maile, które zalewają Cię każdego wieczoru?",
+      "answer": "Tak — jest to jedna z najczęstszych wiadomości e-mail, o których informują nas operatorzy dymków. Duet poznaje Twoje zasady dotyczące pogody i przygotowuje uspokajające odpowiedzi, które wyjaśniają Twój proces decyzyjny, kiedy wykonasz ostateczną rozmowę i czego się spodziewać. Gdy rano potwierdzisz zgodę/nie, może przygotować aktualizacje dla wszystkich osób znajdujących się w manifeście."
+    }
+  ],
+  "pricingNote": "W przypadku $250/person z pasażerami 4 na lot jedna zapisana rezerwacja płaci za ponad rok Pro."
+}

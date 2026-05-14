@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail Rafting & Kayak Outfitters | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab raftingujuhtidel ja kajakivarustusega tegelejatel vastata reisipäringutele kohe – isegi jõest. Tehisintellekti koostatud vastused koos teie reisi üksikasjade, hindade ja häälega.",
+  "heroBadge": "Usaldab üle 200 jõegiidi",
+  "heroHeadline": "Teie e-posti assistent, kui olete jõel",
+  "heroSubline": "Duet õpib tundma teie reisitüüpe, hindu ja varustusloendeid – seejärel koostab broneeringupäringutele vastused, et kliendid saaksid vastuseid, kui jooksete kärestikku.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Terve päeva parvematk 6-le 9. augustil?",
+      "preview": "Tere! Oleme 6-liikmeline pere, kes külastab augustis ja soovime broneerida 9. kuupäevaks terve päeva raftingu. Mis on hind inimese kohta ja millist kogemustaset me vajame?",
+      "pill": "Et vastata",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Mitmepäevane reis – mis on hinna sees?",
+      "preview": "Oleme 4-liikmeline rühm, kes vaatab teie 3-päevast ekspeditsiooni. Kas söögid, matkavarustus ja kuivkotid on hinna sees või peame kaasa võtma oma...",
+      "pill": "küsimus",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel ja Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "8- ja 10-aastased lapsed – piisavalt ohutud?",
+      "preview": "Sooviksime teha poolepäevase reisi, kuid meie lapsed on 8- ja 10-aastased. Kas jaotis Class II on nende vanusele sobiv? Mis on miinimum...",
+      "pill": "küsimus",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uus arvustus teie kirje kohta",
+      "preview": "Üks reisija hindas hiljuti teie ettevõtet. Vaadake, mis neil öelda oli, ja vastake...",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Tere Jennifer! 9. august on avatud 6-le. Terve päeva reisid on $150/person ja kestavad umbes 7 tundi – me panime sisse 8:30 AM. Kogemust pole vaja, kõigega tegelevad meie giidid. Hinna sees on PFD-d, kiivrid, kuivkotid ja jõeäärne lõunasöök. Võtke lihtsalt kaasa päikesekaitsekreem, veejalatsid ja riided, mida te ei pahanda märjaks saamisest. Kas soovite, et ma broneeriksin teie kohad?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "isik",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Kaks salvestatud broneeringut maksavad terve aasta Duet eest."
+  },
+  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et reisipäringud ilmuvad esimesena, käiguga seotud küsimused teiseks ja reklaamimüra kaob. Enam ei puudu TripAdvisor märguannete alla mattunud grupibroneering.",
+  "draftSubtitle": "Duet saab teada teie reisitüübid, kärestike klassid, varustusloendid ja tühistamisreeglid. Kui broneeringupäring saabub, koostab see täieliku vastuse koos kõige vajalikuga. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kas laupäevasel täispäeval on vabu kohti?\" \"Jenniferile vastuse mustand koos saadavusega.\" Duet teab teie postkasti ja ajakava – lihtsalt küsige.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Terve päeva parvematk 6-le 9. augustil?",
+      "preview": "Oleme 6-liikmeline perekond augustis külas ja soovime broneerida...",
+      "pill": "Vasta kohe",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: 3-päevane ekspeditsioon kinnitatud — 15. aug",
+      "pill": "Broneeritud",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Kas 8- ja 10-aastased lapsed on Class II jaoks sobivad?",
+      "pill": "küsimus",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Teie iganädalane broneeringu kokkuvõte",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Hooaja lõpu müük – kuivülikonnad 30% soodsamalt",
+      "pill": "Pakkumised",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: 9. augustil terve päeva parvematk 6-le?",
+    "originalFrom": "Jennifer W. kirjutas:",
+    "originalText": "Tere! Oleme 6-liikmeline pere, kes külastab augustis ja soovime broneerida 9. kuupäevaks terve päeva raftingu. Mis on hind inimese kohta ja millist kogemustaset me vajame?",
+    "lines": [
+      "Tere Jennifer!",
+      "9. august on avatud 6-le. Terve päeva reisid on $150/person ja kestavad umbes 7 tundi – kohtume kohapeal 8:30 AM.",
+      "Kogemust pole vaja. PFD-d, kiivrid, kuivkotid ja jõeäärne lõunasöök on kõik hinna sees – võtke kaasa päikesekaitsekreem ja veejalatsid.",
+      "Kas soovite, et ma broneeriksin teie kohad?"
+    ],
+    "highlightText": "9. august on avatud 6. Terve päeva reisid on $150/person",
+    "tooltipFeatures": [
+      "Teab teie reisitüüpe ja hindu",
+      "Mustandid teie hääles",
+      "Sisaldab automaatselt käikude loendeid",
+      "Õpib aja jooksul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kas laupäevasel terve päeva reisil on vaba kohti?",
+    "agentResponse": "Laupäevasel täispäeval on jäänud 4 kohta 10-st. Teil on ka poolepäevane hommikujooks, mis on täis broneeritud, ja mitmepäevane väljumine pühapäeval, kus on 2 vaba kohta. Kas soovite, et annan vastuse kõikidele pooleliolevatele päringutele laupäevase saadavuse kohta?",
+    "followUp": "Koostage Jenniferile vastus, mis on saadaval 9. augustil",
+    "followUpResponse": "Valmis! Koostasin Jenniferile vastuse, milles kinnitasin 9. augusti 6 külalisele $150/person. See sisaldab teie tavapäraseid reisi üksikasju, varustusloendit ja koosoleku asukohta. Ülevaatamiseks ja saatmiseks valmis."
+  },
+  "testimonialsTitle": "Armastatud jõegiidide ja varustusmeistrite poolt",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Rafting Outfitter, CO",
+      "quote": "Tipphooajal olen 6 päeva nädalas jõel. Selleks ajaks, kui ma e-kirjade juurde tagasi jõudsin, olid pooled rühmad juba kellegi teise juures broneerinud. Nüüd koostab Duet vastused koos reisi üksikasjade ja hindadega, kui ma olen sisestamisel.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Kayak & SUP Tours, OR",
+      "quote": "Iga klient esitab samad viis küsimust – hind, mida kaasa võtta, oskuste tase, grupi suurus, tühistamiseeskirjad. Duet õppis seda kõike esimesel nädalal. Ma läksin igaõhtuselt tund aega meilide saatmisest viieminutilise mustandite ülevaatamiseni.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Mitmepäevase ekspeditsiooni juhend, AK",
+      "quote": "Ma korraldan 5-päevaseid reise nullelemendi teenusega. Enne Duet jäi igale päringule vastuseta, kuni olin tagasi linnas. Nüüd saavad kliendid mõne minuti jooksul üksikasjaliku vastuse ja ma kinnitan, kui olen jõest väljas.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "River Adventuresi kontorijuht, WV",
+      "quote": "Haldan broneeringuid kolmele giidile nelja reisitüübi vahel. Duet kategoriseerib kõik meilid kiireloomulisuse järgi ja koostab vastused õige reisi, õige hinna ja õige varustusloendiga. See on nagu enda kloonimine.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "Olime skeptilised, et tehisintellekt saaks hakkama raftingut puudutavate meilidega. Kuid see võttis kasutusele meie Class III vs Class IV kirjeldused, vanuse alammäärad ja isegi meie märjalt väljumise süstapoliitika. Kliendid arvavad, et nad räägivad meiega.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Veeda suvi jõel,\nei jõua meilile järele.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
+  "verticalFaqs": [
+    {
+      "question": "Kas Duet tegeleb kohandatud reisipakkumiste ja mitmepäevaste ekspeditsioonide päringutega?",
+      "answer": "Jah. Duet õpib tundma teie reisi kogu koosseisu – poolepäevased ujukid, täispäevased kärestikud, mitmepäevased ekspeditsioonid – koos hinnakujunduse, kaasasoleva, vanuse alampiiride ja raskusastmetega. Kui keegi küsib 3-päevase reisi kohta kuuele inimesele, koostab see täieliku vastuse koos õigete üksikasjadega. Vaatad üle, näpistad vajadusel ja saadad."
+    },
+    {
+      "question": "Olen mitmepäevastel reisidel võrgust väljas. Kas Duet töötab ikka veel?",
+      "answer": "See on täpselt see probleem, mille Duet lahendab. Kui olete jõel ilma signaalita, vastab Duet mustanditele igale saabuvale päringule. Kui olete tagasi levialas, ootavad teie mustandid – lihtsalt vaadake üle ja saatke. Enamik giide ütleb meile, et see kõrvaldab mahajäämuse, millega nad pärast iga mitmepäevast reisi kokku puutusid."
+    }
+  ],
+  "pricingNote": "Kell $150/person katavad kaks salvestatud broneeringut Pro terve aasta."
+}

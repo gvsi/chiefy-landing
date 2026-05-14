@@ -1,0 +1,171 @@
+{
+  "slug": "surf-schools",
+  "pageTitle": "Duet Mail voor surfscholen en paddleboard-exploitanten | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt surfinstructeurs en paddleboard-exploitanten direct te reageren op boekings-e-mails - zelfs tijdens het lesgeven. Door AI opgestelde antwoorden met uw lestypen, prijzen en stem.",
+  "heroBadge": "Vertrouwd door meer dan 300 surfinstructeurs",
+  "heroHeadline": "Uw e-mailassistent terwijl u lesgeeft op het water",
+  "heroSubline": "Duet leert uw lestypes, prijzen en voorwaarden kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Groepsles voor 6 op zaterdag?",
+      "preview": "Hallo! Ik heb een groep van 6 vrienden op bezoek voor het weekend. Heb jij beschikbaarheid voor een groepssurfles op zaterdagochtend? Wat is de prijs?",
+      "pill": "Om te reageren",
+      "pillColor": "red"
+    },
+    {
+      "from": "Basisschool Westzijde",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Schoolreisje — 25 leerlingen, 15 mei",
+      "preview": "We willen een surfdag boeken voor onze klas van groep 5, bestaande uit 25 leerlingen. Biedt u schoolgroeptarieven aan? We hebben wetsuits en boards nodig...",
+      "pill": "Boeking",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Paddleboard huren + bezorgen?",
+      "preview": "Huur je SUP-boards per uur? We logeren in het strandhuis aan Elm St. Is er een kans dat je bezorgt? Wat is inbegrepen...",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Nicole B.",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Voorwaarden voor morgenochtend?",
+      "preview": "We zijn morgen om 9.00 uur geboekt, maar de voorspelling ziet er winderig uit. Gaat de les nog door? Moeten we nog iets extra's meenemen...",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hé Rachel! Zaterdagochtend is open voor 6 personen. Groepslessen duren 2 uur vanaf 9.00 uur. Boards, wetsuits en rashguards zijn allemaal inbegrepen; neem alleen zonnebrandcrème en een handdoek mee. Het kost $90 per persoon. Wil je dat ik je groep opsluit?",
+  "math": {
+    "pricePerBooking": "$90",
+    "bookingUnit": "les",
+    "lostPerMonth": "8",
+    "monthlyLoss": "$720",
+    "punchline": "Twee opgeslagen boekingen betalen een jaar lang Duet."
+  },
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat je eerst de lesboekingen ziet, daarna de vragen en nooit meer ruis. Nooit meer een schoolgroeponderzoek missen dat verborgen ligt onder Yelp-meldingen.",
+  "draftSubtitle": "Duet leert uw lestypes, groepsprijzen en toon kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met de beschikbaarheid, wat is inbegrepen en wat u moet meenemen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Zijn er groepsboekingen deze week?\" \"Stel een antwoord op aan de school met de beschikbaarheid.\"Duet kent uw inbox en planning — vraag het maar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Groepsles voor 6 op zaterdag?",
+      "preview": "Ik heb een groep van 6 vrienden op bezoek voor het weekend...",
+      "pill": "Reageer nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Basisschool Westzijde",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Re: Excursie bevestigd — 15 mei, 25 studenten",
+      "pill": "Geboekt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Huur je paddleboards per uur?",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nieuwe recensie voor uw vermelding",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Surfmagazijn",
+      "avatarLetter": "S",
+      "avatarColor": "lavender",
+      "subject": "Zomeruitverkoop — 30% korting op wetsuits",
+      "pill": "Promoties",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Groepsles voor 6 op zaterdag?",
+    "originalFrom": "Rachel T. schreef:",
+    "originalText": "Hallo! Ik heb een groep van 6 vrienden op bezoek voor het weekend. Heb jij beschikbaarheid voor een groepssurfles op zaterdagochtend? Wat is de prijs?",
+    "lines": [
+      "Hé Rachel!",
+      "Zaterdagochtend is open voor 6 personen. Groepslessen kosten $ 90 per persoon en duren 2 uur vanaf 09.00 uur op het strand.",
+      "Boards, wetsuits en rashguards zijn allemaal inbegrepen. Neem alleen zonnebrandcrème, water en een handdoek mee. Geen ervaring nodig.",
+      "Wil je dat ik je groep opsluit?"
+    ],
+    "highlightText": "Zaterdagochtend is wijd open voor 6 personen. Groepslessen kosten $ 90 per persoon",
+    "tooltipFeatures": [
+      "Kent uw lestypes en prijzen",
+      "Tochten in je stem",
+      "Omvat wat automatisch wordt verstrekt",
+      "Leert in de loop van de tijd"
+    ]
+  },
+  "agent": {
+    "userMessage": "Komen er groepsboekingen deze week?",
+    "agentResponse": "Je hebt deze week twee groepsboekingen: Rachel T. op zaterdag (6 personen, 9.00 uur) en Westside Elementary op woensdag (25 studenten, 10.00 uur excursie). U heeft ook een openstaand verzoek van James P. over de verhuur van paddleboards. Wil je dat ik een antwoord opstel?",
+    "followUp": "Stel een antwoord op aan de school waarin de details van de excursie worden bevestigd",
+    "followUpResponse": "Klaar! Ik heb een antwoord opgesteld aan Westside Elementary waarin ik 15 mei om 10.00 uur bevestigde voor 25 leerlingen. Het omvat uw schoolgroepstarief, wat er wordt verstrekt, de vereisten voor het toestemmingsformulier en uw annuleringsbeleid. Klaar om te beoordelen en te verzenden."
+  },
+  "testimonialsTitle": "Geliefd bij surfinstructeurs",
+  "testimonials": [
+    {
+      "name": "Trainer Mike T.",
+      "title": "Eigenaar van een surfschool, CA",
+      "quote": "Ik ben 6 uur per dag in het water en geef les. Tegen de tijd dat ik mijn e-mail checkte, was de helft van de boekingen naar iemand anders gegaan. Duet stelt nu antwoorden op met mijn prijzen en beschikbaarheid - ik bekijk ze gewoon tussen de sessies door.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Paddleboardlessen en verhuur, HI",
+      "quote": "We beheren lessen en boardverhuur vanuit dezelfde inbox. Duet ontdekte meteen het verschil: huurvragen krijgen huurantwoorden, lesaanvragen krijgen lesdetails. Het is alsof je een receptie hebt.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Danny R.",
+      "title": "Surfinstructeur, FL",
+      "quote": "Bij boekingen voor schoolgroepen moesten er vroeger tien e-mails heen en weer worden gestuurd. Duet stelt nu het eerste antwoord op met de groepstarieven, wat is inbegrepen en het toestemmingsformulier. Knipt de hele draad doormidden.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Frans C.",
+      "title": "SUP-tours en -lessen, OR",
+      "quote": "Het hoogseizoen was mijn dood: 30 e-mails per dag over de voorwaarden, prijzen en wat ik moest meenemen. Steeds dezelfde vijf vragen. Duet kan ze allemaal aan en ze klinken precies zoals ik.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sara K.",
+      "title": "Directeur surfkamp voor kinderen, SC",
+      "quote": "Ouders sturen de langste e-mails. Kampdata, allergieën, vaardigheidsniveaus, ophaaltijden. Duet stelt gedetailleerde antwoorden op die alles omvatten, dus ik typ geen paragrafen om 22.00 uur na een hele dag op het strand.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Breng je zomer door in de golven,\nniet in uw inbox.",
+  "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
+  "verticalFaqs": [
+    {
+      "question": "Kan Duet verschillende lestypen en materiaalverhuur regelen?",
+      "answer": "Ja. Duet leert al uw aanbod kennen: privélessen, groepslessen, kinderkampen, boardverhuur, SUP-tochten. Wanneer er een aanvraag binnenkomt, wordt er een antwoord opgesteld met de juiste prijs, duur, wat is inbegrepen en wat u moet meenemen. Het weet dat een e-mail voor een schoolgroep andere gegevens nodig heeft dan een privélesboeking."
+    },
+    {
+      "question": "Hoe zit het met vragen over weer en omstandigheden?",
+      "answer": "Duet leert hoe u normaal gesproken omgaat met e-mails met voorwaarden: uw beleid inzake annuleringen, herschikking en onder welke voorwaarden u lesgeeft. Wanneer iemand een e-mail stuurt met de vraag of zijn of haar les doorgaat, stelt Duet een antwoord op dat overeenkomt met uw gebruikelijke toon en beleid. U bekijkt en verzendt binnen enkele seconden."
+    }
+  ],
+  "pricingNote": "Voor $ 90/les betalen twee opgeslagen boekingen voor meer dan een jaar Pro."
+}

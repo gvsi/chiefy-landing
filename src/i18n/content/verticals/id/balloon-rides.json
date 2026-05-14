@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail untuk Naik Balon Udara |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu pilot balon merespons email pemesanan secara instan — bahkan selama penerbangan saat matahari terbit.  AI -Balasan yang disusun dengan harga, kebijakan cuaca, dan suara Anda.",
+  "heroBadge": "Dipercaya oleh 200+ pilot balon",
+  "heroHeadline": "Asisten email Anda saat Anda berada di udara",
+  "heroSubline": "Duet mempelajari jadwal penerbangan, harga, dan kebijakan cuaca Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan saat Anda meluncurkannya saat matahari terbit.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Penerbangan matahari terbit untuk 2 orang — Sabtu tersedia?",
+      "preview": "Hai! Aku dan suamiku berkunjung untuk ulang tahun pernikahan kami dan ingin memesan perjalanan balon matahari terbit pada hari Sabtu ini. Apakah Anda punya ruang? Berapa biayanya per orang?",
+      "pill": "Untuk Menanggapi",
+      "pillColor": "red"
+    },
+    {
+      "from": "kevin l.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Akankah kita terbang besok? Prakiraan angin terlihat buruk",
+      "preview": "Kami sudah memesan tiket untuk besok pagi, tetapi aplikasi cuaca menunjukkan kecepatan angin 15 mph. Apakah kami masih terbang atau haruskah kami berencana menjadwal ulang...",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Penerbangan pribadi untuk proposal — harga?",
+      "preview": "Saya ingin mengejutkan pacar saya dengan naik balon pribadi dan melamar selama penerbangan. Berapa harga penerbangan pribadi dan dapatkah Anda membantu mengoordinasikannya...",
+      "pill": "Pemesanan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "amy s.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Apa yang harus kita pakai? Dimana kita bertemu?",
+      "preview": "Kami sudah dipesan untuk Minggu pagi. Apa yang sebaiknya kita kenakan dan di mana tepatnya titik pertemuannya? Juga, berapa lama waktu yang dibutuhkan untuk seluruh pengalaman...",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Hai Rachel! Sabtu buka pukul 2. Penerbangan Sunrise diluncurkan sekitar pukul 06.15 — kami akan mengonfirmasi waktu pasti dan lokasi pertemuan pada malam sebelumnya berdasarkan kondisi angin. Biayanya $250/orang dan termasuk sekitar satu jam di udara ditambah roti panggang sampanye setelah mendarat. Berpakaianlah berlapis-lapis dan kenakan sepatu dengan ujung tertutup. Ingin saya memesan tempat Anda?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "flight",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Satu penerbangan hemat membayar untuk satu tahun Duet."
+  },
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan cuaca kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan penerbangan yang hilang yang terkubur di bawah peringatan buletin.",
+  "draftSubtitle": "Duet mempelajari harga, kebijakan cuaca, dan nada Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail penerbangan, info pertemuan, dan pakaian yang akan dikenakan. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Siapa yang ada di manifes besok?\" \"Apakah ada pembatalan cuaca yang perlu dijadwal ulang?\" Duet mengetahui inbox dan kalender Anda — tanyakan saja.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Penerbangan matahari terbit untuk 2 orang — Sabtu tersedia?",
+      "preview": "Suamiku dan aku ingin memesan perjalanan balon matahari terbit...",
+      "pill": "Tanggapi Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "kevin l.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Perihal: Pemesanan dikonfirmasi — Minggu 06:15",
+      "pill": "Dipesan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "amy s.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Apa yang harus kita kenakan untuk penerbangan?",
+      "pill": "Pertanyaan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baru untuk listing Anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Federasi Balon",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Buletin keselamatan bulan Maret & pengingat pembaruan",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Perihal: Penerbangan matahari terbit untuk 2 orang — Sabtu tersedia?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Aku dan suamiku berkunjung untuk ulang tahun pernikahan kami dan ingin memesan perjalanan balon matahari terbit pada hari Sabtu ini. Apakah Anda punya ruang? Berapa biayanya per orang?",
+    "lines": [
+      "Hai Rachel!",
+      "Sabtu terbuka lebar untuk 2 orang. Penerbangan Sunrise berharga $250/orang dan mencakup sekitar satu jam di udara ditambah roti panggang sampanye setelah mendarat.",
+      "Kami memulainya sekitar pukul 06.15 — Saya akan mengirimkan waktu dan lokasi pertemuan persisnya pada malam sebelumnya berdasarkan kondisi angin. Berpakaianlah berlapis-lapis dan kenakan sepatu dengan ujung tertutup.",
+      "Selamat hari jadi! Ingin saya memesan tempat Anda?"
+    ],
+    "highlightText": "Sabtu terbuka lebar untuk 2 orang. Penerbangan Sunrise seharga $250/orang",
+    "tooltipFeatures": [
+      "Mengetahui harga & jadwal penerbangan Anda",
+      "Draf dalam suara Anda",
+      "Termasuk detail rapat secara otomatis",
+      "Belajar seiring berjalannya waktu"
+    ]
+  },
+  "agent": {
+    "userMessage": "Siapa saja yang hadir dalam manifes besok dan bagaimana cuacanya?",
+    "agentResponse": "Penerbangan matahari terbit besok memiliki 6 penumpang yang dipesan di 2 reservasi: pihak Thompson (4) dan pasangan Lee (2). Prakiraan saat ini menunjukkan angin tenang dengan kecepatan 4 mph dan langit cerah pada waktu peluncuran. Belum ada email pembatalan. Ingin saya mengirimkan konfirmasi titik pertemuan?",
+    "followUp": "Ya, kirimkan konfirmasi ke kedua belah pihak dengan waktu pertemuan pukul 06.15",
+    "followUpResponse": "Selesai! Saya menyusun konfirmasi titik pertemuan untuk keluarga Thompson dan Lee pada pukul 06.15 di lapangan peluncuran, pakaian yang akan dikenakan, dan petunjuk arah. Siap untuk meninjau dan mengirim."
+  },
+  "testimonialsTitle": "Dicintai oleh pilot & operator balon",
+  "testimonials": [
+    {
+      "name": "Kapten Mike L.",
+      "title": "Pilot Balon, MN",
+      "quote": "Saya bekerja satu orang — saya terbang, saya menjadi kru, saya menjawab email. Kecuali jam 5 pagi saya menggembungkan, tidak membalas. Duet menyusun tanggapan untuk setiap pertanyaan 'akankah kita terbang besok?' pesan dalam semalam. Saya bangun, memeriksa cuaca, dan menekan kirim.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon & Jake B.",
+      "title": "Tur Balon Sepanjang Tahun, UT",
+      "quote": "Kami mendapat 10 pertanyaan yang sama setiap hari. Apa yang harus dipakai, di mana bertemu, bagaimana jika cuaca berangin. Duet mempelajari semuanya dan sekarang menyusun balasan yang sempurna. Kami beralih dari satu jam mengirim email setiap malam menjadi lima menit.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Operator Penerbangan Sunrise, AZ",
+      "quote": "Musim puncak berarti 4-6 penerbangan dalam seminggu dan setiap penumpang mengirim email setidaknya dua kali sebelum penerbangan. Duet menangani pertanyaan sebelum penerbangan sehingga saya dapat fokus untuk memberikan pagi terbaik dalam hidup mereka kepada orang-orang.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Rekan Pemilik Perusahaan Balon, NM",
+      "quote": "Pembatalan karena cuaca biasanya merusak seluruh hari saya — 8 penumpang semuanya memerlukan email penjadwalan ulang pribadi. Sekarang Duet menyusun semuanya dengan menyertakan kebijakan pemesanan ulang kami. Menghemat waktu berjam-jam pada pagi hari pembatalan.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "maria d.",
+      "title": "Operasi Naik Balon, CO",
+      "quote": "Penerbangan proposal membutuhkan banyak koordinasi bolak-balik. Duet memahami cara kami menanganinya — pengaturan waktunya, kata sandi, pengaturan sampanye. Ini menyusun balasan yang hampir tidak perlu saya sentuh.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Habiskan pagimu di langit,\ntidak ada di inbox Anda.",
+  "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
+  "verticalFaqs": [
+    {
+      "question": "Bagaimana Duet menangani email pembatalan cuaca?",
+      "answer": "Duet mempelajari kebijakan pembatalan dan pemesanan ulang Anda. Saat Anda membatalkan penerbangan karena cuaca, mereka dapat membuat draf email penjadwalan ulang yang dipersonalisasi untuk setiap penumpang yang terkena dampak — dengan kebijakan Anda, tanggal yang tersedia, dan nada bicara Anda. Anda meninjau dan mengirim. Apa yang biasanya memakan waktu satu jam untuk membalas satu per satu hanya membutuhkan waktu beberapa menit."
+    },
+    {
+      "question": "Bisakah Duet menangani pertanyaan 'apakah kita akan terbang besok?' email yang membanjiri setiap malam?",
+      "answer": "Ya — ini adalah salah satu email paling umum yang diberitahukan oleh operator balon kepada kami. Duet mempelajari kebijakan cuaca Anda dan menyusun balasan yang meyakinkan yang menjelaskan proses pengambilan keputusan Anda, kapan Anda akan melakukan panggilan terakhir, dan apa yang diharapkan. Setelah Anda mengonfirmasi boleh/tidak boleh berangkat di pagi hari, ia dapat membuat draf pembaruan untuk semua orang di manifes."
+    }
+  ],
+  "pricingNote": "Dengan harga $250/orang dengan 4 penumpang per penerbangan, satu pemesanan hemat akan membayar Pro selama lebih dari setahun."
+}

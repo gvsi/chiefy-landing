@@ -1,0 +1,171 @@
+{
+  "slug": "atv-tours",
+  "pageTitle": "Duet Mail za ATV & UTV Tours | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže ATV i UTV turističkim vodičima da odmah odgovore na e-poruke o rezervacijama — čak i sa staze. AI nacrt odgovora sa vašim cenama, zahtevima i glasom.",
+  "heroBadge": "Ima poverenja od 200+ turističkih vodiča",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na tragu",
+  "heroSubline": "Duet uči vaše tipove obilazaka, cene i zahteve vozača — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju zbog sporog odgovora.",
+  "inboxEmails": [
+    {
+      "from": "Rejčel V.",
+      "avatarLetter": "R",
+      "avatarColor": "roze",
+      "subject": "Dostupnost subotom za 4 mašine?",
+      "preview": "Zdravo! Mi smo grupa od 4 osobe koja želi da rezerviše obilazak ATV-a sa vodičem ove subote. Imate li mesta? Koja je cena po mašini?",
+      "pill": "To Respond",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Džejson P.",
+      "avatarLetter": "J",
+      "avatarColor": "plava",
+      "subject": "Zahtevi za osiguranje?",
+      "preview": "Hej, mi donosimo naše UTV-ove. Da li treba da pokažemo dokaz o osiguranju od odgovornosti? Kakvo pokriće vam je potrebno...",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Hendersonovi",
+      "avatarLetter": "H",
+      "avatarColor": "ljubičasta",
+      "subject": "Koja staza za početnike?",
+      "preview": "Nikada ranije nismo vozili ATV. Koju rutu obilaska biste preporučili porodici sa dvoje tinejdžera? Da li obezbeđujete...",
+      "pill": "Rezervacija",
+      "pillColor": "plava"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavanda",
+      "subject": "Nova recenzija za vaš unos",
+      "preview": "Putnik je nedavno napisao recenziju o vašem preduzeću. Pogledajte šta su imali da kažu i odgovorite...",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    }
+  ],
+  "autodraft": "Hej Rachel! Subota je otvorena i možemo uzeti 4 mašine bez problema. Obilasci su 200 dolara po mašini i traju oko 6-8 sati. Sastajemo se u 9 ujutro na početku staze — poslaću vam uputstva kada budete potvrđeni. Obezbeđeni šlemovi i naočare. Hoćeš da te zaključam?",
+  "math": {
+    "pricePerBooking": "$800",
+    "bookingUnit": "grupa (4 mašine)",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,400",
+    "punchline": "Jedna sačuvana grupna rezervacija plaća se za godinu dana od Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, drugo pitanja o osiguranju, a buku nikada. Nema više propuštanja grupnog upita zakopanog u obaveštenjima TripAdvisora.",
+  "draftSubtitle": "Duet uči vaše rute obilaska, cene i zahteve vozača. Kada dođe upit za rezervaciju, on sastavlja kompletan odgovor sa detaljima o putovanju, cenama i šta treba doneti. Pregledate i pošaljete.",
+  "agentSubtitle": "\"Da li su grupe rezervisane za ovaj vikend?\" „Nacrt odgovora Rejčel sa dostupnošću u subotu.“ Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rejčel V.",
+      "avatarLetter": "R",
+      "avatarColor": "roze",
+      "subject": "Dostupnost subotom za 4 mašine?",
+      "preview": "Mi smo grupa od 4 osobe koja želi da rezerviše obilazak ATV-a sa vodičem...",
+      "pill": "Odgovorite odmah",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Džejson P.",
+      "avatarLetter": "J",
+      "avatarColor": "plava",
+      "subject": "Re: Rezervacija potvrđena — subota 9:00",
+      "pill": "Rezervisano",
+      "pillColor": "plava"
+    },
+    {
+      "from": "Hendersonovi",
+      "avatarLetter": "H",
+      "avatarColor": "ljubičasta",
+      "subject": "Šta da obučemo na stazi?",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Ielp for Business",
+      "avatarLetter": "I",
+      "avatarColor": "lavanda",
+      "subject": "Vaše nedeljno poslovno ažuriranje",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    },
+    {
+      "from": "Rocki Mountain ATV",
+      "avatarLetter": "R",
+      "avatarColor": "lavanda",
+      "subject": "Zazor opruge — 25% popusta na delove",
+      "pill": "Promocije",
+      "pillColor": "lavanda"
+    }
+  ],
+  "draft": {
+    "to": "rachel.v@email.com",
+    "subject": "Re: Dostupnost u subotu za 4 mašine?",
+    "originalFrom": "Rejčel V. je napisala:",
+    "originalText": "Zdravo! Mi smo grupa od 4 osobe koja želi da rezerviše obilazak ATV-a sa vodičem ove subote. Imate li mesta? Koja je cena po mašini?",
+    "lines": [
+      "Hej Rachel!",
+      "Subota je širom otvorena za 4 mašine. Obilasci koštaju 200 dolara po mašini i traju 6-8 sati počevši od 9 ujutro od vrha staze.",
+      "Obezbeđeni su šlemovi i naočare - samo nosite dugačke pantalone, cipele sa zatvorenim prstima i ponesite vodu i kremu za sunčanje. Poslaću vam mesto sastanka i uputstva kada budete potvrđeni.",
+      "Hoćeš da te zaključam?"
+    ],
+    "highlightText": "Subota je širom otvorena za 4 mašine. Obilasci su 200 dolara po mašini",
+    "tooltipFeatures": [
+      "Poznaje vaše cene i rute obilaska",
+      "Nacrt u vašem tonu",
+      "Automatski uključuje zahteve vozača",
+      "Uči tokom vremena"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ima li grupa rezervisanih za ovaj vikend?",
+    "agentResponse": "Na osnovu vašeg prijemnog sandučeta, imate grupu od 6 potvrđenih za subotu u 9 ujutro i par rezervisanih za nedelju ujutro. Subota popodne i nedelja popodne su i dalje otvoreni. Da li želite da sačinim odgovor na sve upite na čekanju sa tim otvorima?",
+    "followUp": "Nacrt odgovora Rejčel sa dostupnošću subotom",
+    "followUpResponse": "Gotovo! Nacrtao sam odgovor Rejčel koji potvrđuje subotu za 4 mašine po 200 dolara svaka. Uključuje vašu standardnu lokaciju sastanka, informacije o opremi i šta ćete obući. Spremni za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga turistički vodiči i operateri",
+  "testimonials": [
+    {
+      "name": "Majk D.",
+      "title": "ATV vodič, Južna Juta",
+      "quote": "Vodim 8-časovne ture kroz kanjone sa nultom mobilnom službom. Dok sam se vratio, polovina mojih e-poruka o rezervacijama se ohladila. Duet sastavlja nacrte odgovora sa mojim cenama i informacijama o stazi — samo ih pregledam na kraju dana.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Tara M.",
+      "title": "Turoperator UTV, Kolorado",
+      "quote": "Vodimo obilaske 7 dana u nedelji, a sama pitanja osiguranja i odricanja su izjedala moja jutra. Duet sve to rešava — zahteve vozača, starosna ograničenja, šta da ponesete. Zvuči baš kao ja.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Džejk R.",
+      "title": "Vodič za džip, Moav",
+      "quote": "Ljudi e-poštom pitaju koja staza je prava za njihovu grupu, koji nivo iskustva im je potreban, da li deca mogu da jašu. Istih 5 pitanja iznova i iznova. Duet zakucava svaki od njih.",
+      "avatarKey": "Johnni"
+    },
+    {
+      "name": "Nikol S.",
+      "title": "Off-Road avanture, AZ",
+      "quote": "Svake noći sam provodio više od sat vremena odgovarajući na ista pitanja o dostupnosti. Sada Duet nacrta odgovora dok sam na tragu. Moje vreme odgovora je išlo od sati do minuta.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Amanda K.",
+      "title": "Famili ATV Tours, Sedona",
+      "quote": "Imamo mnogo porodica koje pitaju o stazama za početnike i zahtevima za uzrast. Duet je naučio sve naše opcije obilaska i preporučuje onu pravu u svakom odgovoru. Klijenti ne mogu razlikovati.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Provedite vrhunac sezone na stazi, \nne u prijemnom sandučetu.",
+  "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Da li se Duet bavi pitanjima osiguranja i odricanja?",
+      "answer": "Da. Duet saznaje vaše zahteve za vozača — osiguranje od odgovornosti, starosna ograničenja, detalje o odricanju, šta vozači treba da ponesu. Kada neko pošalje e-poštu sa pitanjem šta mu treba pre obilaska, Duet sastavlja kompletan odgovor sa svim detaljima. Pregledate i dodirnete poslati."
+    },
+    {
+      "question": "Ceo dan sam na tragu bez mobilne usluge. Kako Duet pomaže?",
+      "answer": "Upravo zato vodiči vole Duet. Dok vodite obilazak od 6-8 sati bez signala, upiti za rezervaciju se gomilaju. Duet nacrti odgovara na svaki od njih — cene, dostupnost, lokacija sastanka, šta obući. Kada se vratite, pregledate nacrte i pošaljete ih. Većina vodiča nam kaže da im to štedi 1-2 sata e-pošte dnevno tokom špice sezone."
+    }
+  ],
+  "pricingNote": "Sa 200 USD po mašini, jedna ušteđena grupa od 4 osobe plaća više od godinu dana od Pro."
+}

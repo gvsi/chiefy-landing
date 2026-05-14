@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail Özel Kuyumcular için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, özel kuyumcuların danışma taleplerine, tasarım onaylarına ve zaman çizelgesi sorularına anında yanıt vermelerine yardımcı olur; hatta atölyede çalışırken bile. AI tarafından hazırlanan yanıtlar, sizin süreciniz, fiyatlandırmanız ve ses tonunuzla birlikte gelir.",
+  "heroBadge": "300'den fazla mücevher tasarımcısı tarafından güvenilen marka.",
+  "heroHeadline": "Siz yedek kulübesindeyken e-posta asistanınız.",
+  "heroSubline": "Duet tasarım sürecinizi, malzemelerinizi, fiyatlandırmanızı ve zaman çizelgelerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirerek, yavaş yanıt verme nedeniyle hiçbir zaman özel bir müşterinizi kaybetmemenizi sağlar.",
+  "inboxEmails": [
+    {
+      "from": "Rachel ve David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Özel tasarım nişan yüzüğü danışmanlığı?",
+      "preview": "Merhaba! Partnerimle birlikte özel tasarım bir nişan yüzüğü yaptırmak istiyoruz. Aile yadigarı bir pırlantamız var ve onu kullanmayı çok arzu ediyoruz. Bu ay içinde bir görüşme için müsaitliğiniz var mı?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "3D model ile ilgili olarak: Ayarları değiştirebilir miyiz?",
+      "preview": "Genel tasarımı çok beğendim! Ama ayarların daha sade bir profilde olmasını deneyebilir miyiz? Düşündüğüm stilin fotoğrafını ekledim. Ayrıca, platin renge geçmek zaman çizelgesini değiştirir mi?",
+      "pill": "Revizyon",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Düğün yüzükleriyle ilgili zaman çizelgesi güncellemesi?",
+      "preview": "Merhaba! Düğün yüzüklerimizle ilgili son durumu öğrenmek istiyorum. Düğün 18 Mayıs'ta ve her şeyin yolunda gittiğinden emin olmak istiyorum. Kısa bir güncelleme gönderebilir misiniz?",
+      "pill": "Durum",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Mağazanızda yeni yorum",
+      "preview": "Bir çift yakın zamanda The Knot adresinde işletmeniz hakkında yorum yaptı. Ne dediklerine bakın ve yanıt verin...",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Rachel! Aile yadigarı elmasınız etrafında bir yüzük tasarlamanıza yardımcı olmaktan mutluluk duyarım; bu benim en sevdiğim işlerden biri. Bu ay Salı ve Perşembe öğleden sonraları müsaitliklerim var. Taşı ve ilham aldığınız fotoğrafları getirin. Görüşmeler yaklaşık bir saat sürüyor ve herhangi bir yükümlülük yok. Sizin için bir zaman ayırmamı ister misiniz?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "özel yapım parça",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Bir müşteri, Duet'ın dört yıldan fazla süren hizmetinin masraflarını karşılıyor."
+  },
+  "categorizationSubtitle": "Duet, her e-postayı otomatik olarak etiketleyerek önce yeni danışma taleplerini, sonra tasarım onaylarını ve asla tedarikçi bültenlerini görmenizi sağlar. Tedarikçi promosyonlarının altında gizlenmiş $5,000'den fazla talebi kaçırmak artık yok.",
+  "draftSubtitle": "Duet, süreçlerinizi, malzemelerinizi, fiyatlandırmanızı ve ses tonunuzu öğrenir. Bir danışma talebi geldiğinde, müsaitlik durumunuzu, yanınızda getirmeniz gerekenleri ve sürecinizin nasıl işlediğini içeren eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Amanda'nın yüzüğü konusunda ne durumdayız?\" \"James için bir zaman çizelgesi güncellemesi taslağı hazırlayın.\" Duet her müşteri yazışma başlığını biliyor - sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Özel tasarım nişan yüzüğü danışmanlığı?",
+      "preview": "Eşim ve ben özel tasarım bir yüzük yaptırmakla ilgileniyoruz...",
+      "pill": "Yeni Soruşturma",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Konu: 3D model v2 — mükemmel görünüyor!",
+      "pill": "Tasarım Onayı",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Gruplar hazır — ne zaman alabiliriz?",
+      "pill": "Teslim almaya hazır",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Konu: Danışma sonrası takip mesajı — çizimleri çok beğendim.",
+      "pill": "Danışma",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Tedarik",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Bahar indirimi — platin takılarda %15 indirim",
+      "pill": "Vendor/Supplier",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Konu: Özel tasarım nişan yüzüğü danışmanlığı?",
+    "originalFrom": "Rachel T. şöyle yazdı:",
+    "originalText": "Merhaba! Partnerimle birlikte özel tasarım bir nişan yüzüğü yaptırmak istiyoruz. Aile yadigarı bir pırlantamız var ve onu kullanmayı çok arzu ediyoruz. Bu ay içinde bir görüşme için müsaitliğiniz var mı?",
+    "lines": [
+      "Merhaba Rachel!",
+      "Aile yadigarı elmasınız etrafında özel bir tasarım oluşturmanıza yardımcı olmaktan mutluluk duyarım. Bu ay salı ve perşembe öğleden sonraları müsaitliklerim var.",
+      "Taşı ve ilham alabileceğiniz fotoğrafları (Pinterest panoları, ekran görüntüleri, her şey yardımcı olur) getirin. Danışmanlık görüşmeleri yaklaşık bir saat sürer ve herhangi bir yükümlülük yoktur.",
+      "Bundan sonraki süreç genellikle şu şekilde ilerler: eskiz, 3D model, revizyonlar ve ardından 3-4 haftalık üretim. Sizin için bir zaman ayırmamı ister misiniz?"
+    ],
+    "highlightText": "Çizim, 3D model, revizyonlar, ardından 3-4 haftalık üretim süreci.",
+    "tooltipFeatures": [
+      "Süreçlerinizi ve zaman çizelgenizi biliyor.",
+      "Sesinizdeki taslaklar",
+      "Danışma detaylarını otomatik olarak içerir.",
+      "Zamanla öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Amanda'nın nişan yüzüğü konusunda ne durumdayız?",
+    "agentResponse": "Amanda 14 Şubat'ta 3D modeli (v2) onayladı. Siz de 16 Şubat'ta 3 haftalık bir tahminle üretim başlangıcını onayladınız. Bu da tamamlanma tarihini yaklaşık 9 Mart olarak gösteriyor. Son e-postasında gravür seçenekleri hakkında bilgi istemişti - hâlâ cevaplanmadı. Bir cevap taslağı hazırlamamı ister misiniz?",
+    "followUp": "James için alyanslarla ilgili bir zaman çizelgesi güncellemesi taslağı hazırlayın.",
+    "followUpResponse": "Tamam! James'e, alyanslarının son rötuşlarının tamamlandığını ve 18 Mayıs'taki düğününden çok önce, 7 Mart Cuma günü teslim alınmaya hazır olacağını teyit eden bir yanıt taslağı hazırladım. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "Mücevher tasarımcıları tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Özel Takı Tasarımcısı, Los Angeles",
+      "quote": "Her özel tasarım parçası haftalar içinde 10-15 e-posta oluşturuyor. Bunu 8 aktif müşteriyle çarptığınızda boğuluyordum. Duet taslak tasarım güncelleme yanıtları, danışma onayları, zaman çizelgesi yanıtları - hepsi benim sesimle. Dökümler arasında gözden geçiriyorum ve gönder düğmesine basıyorum.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Brooklyn'de Kuyumcu ve Stüdyo Sahibi",
+      "quote": "$7,000 dolarlık bir nişan yüzüğü siparişini, yanıt vermekte 3 gün geciktiğim için kaybettim; çift, 2 saat içinde yanıt veren başka birine gitti. Duet tarihinden beri yanıt sürem 30 dakikanın altında. Bu durum bir daha tekrarlanmadı.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Kuyumcu Tezgahı, Chicago",
+      "quote": "Günde 8 saat elimde kaynak makinesiyle tezgahın başındayım. Lehimleme işlemini yarıda kesip danışma yanıtı yazamam. Duet ben çalışırken her şeyi taslak haline getiriyor; ben de telefonuma bakıp onaylıyorum, iş bitiyor.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Austin'de Gelin Takı Tasarımcısı",
+      "quote": "Nişan sezonunda haftada 20'den fazla danışmanlık talebi alıyorum. Duet tüm sürecimi öğrendi - malzemeler, zaman çizelgeleri, fiyatlandırma kademeleri, ne getirmem gerektiği. Düzenlemem gereken cevap taslakları oluşturuyor. Kasım'dan Şubat'a kadar mutlak bir kurtarıcı.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Özel Yüzük Uzmanı, Portland",
+      "quote": "3D revizyon e-postaları akşamlarımı mahvediyordu. Müşteri geri bildirim gönderiyor, ben güncellemeyi taslak haline getiriyorum, bu beş kez tekrarlanıyordu. Şimdi Duet rutin yanıtları hallediyor ve ben sadece tasarım kararları için devreye giriyorum. Akşamlarımı geri kazandım.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Günlerinizi takı tasarlayarak geçirin,\ntakı yapımıyla ilgili e-postalara cevap vererek değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Duet referans fotoğrafları ve tasarım ekleri içeren e-postaları işleyebilir mi?",
+      "answer": "Evet. Duet ekler de dahil olmak üzere tüm e-posta yazışmalarını görür, bu nedenle bir müşteri ilham fotoğrafları veya tasarım geri bildirimi gönderdiğinde bağlamı anlar. Görselleri açıklamaz, ancak bir müşterinin referans fotoğrafları gönderdiğini bilir ve uygun bir yanıt taslağı hazırlar; alındığını onaylar, tasarım hakkında açıklayıcı sorular sorar veya her zamanki iş akışınıza göre sonraki adımları sunar."
+    },
+    {
+      "question": "Özel projelerimde 10'dan fazla mesaj içeren uzun e-posta yazışmaları var. Duet bunları takip edebilir mi?",
+      "answer": "İşte tam da bu noktada Duet devreye giriyor. Danışma notları, tasarım revizyonları, malzeme seçimleri, zaman çizelgesi güncellemeleri gibi tüm yazışma geçmişini okuyor, böylece her taslak yanıt tam bağlam içinde sunuluyor. Bir müşteri 14. e-postada 'yüzüğümün durumu nedir?' diye sorduğunda, Duet hangi yüzükten, hangi aşamada olduğundan haberdar oluyor ve doğru bir güncelleme taslağı hazırlıyor. Artık 3 aylık e-postaları kendiniz tekrar okumanıza gerek yok."
+    }
+  ],
+  "pricingNote": "Parça başına $5,000$'dan elde edilen bir sipariş, dört yıldan fazla Pro'in masrafını karşılar."
+}

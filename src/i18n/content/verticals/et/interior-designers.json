@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail sisekujundajatele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab sisekujundajatel hallata klientide e-kirju, töövõtjate koordineerimist ja hankijate tellimusi – isegi töökohalt. AI-koostatud vastused teie projekti üksikasjade, eelistuste ja häälega.",
+  "heroBadge": "Usaldab üle 400 sisekujundaja",
+  "heroHeadline": "Teie meiliassistent, kui olete klientidega kohapeal",
+  "heroSubline": "Duet saab teada teie hankija kontaktid, projekti üksikasjad ja kliendi eelistused – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi klienti aeglase vastuse tõttu.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Köögi remont – esmane konsultatsioon?",
+      "preview": "Tere! Ostsime just kodu Westlake'is ja tahame köögi täielikult ümber teha. Kas võtate ette uusi projekte? Kuidas teie protsess välja näeb?",
+      "pill": "Et vastata",
+      "pillColor": "red"
+    },
+    {
+      "from": "Tony plaat ja kivi",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Re: Backsplashi plaatide tarneaja värskendus",
+      "preview": "Just kuulsin laost – Calacatta kuuskantplaat on järeltellitud 3 nädalat. Tahad, et hoian teie tellimust või vaatan alternatiive...",
+      "pill": "Müüja tellimus",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — elektrik",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Juhtmed tehtud – kinnitusdetailide paigaldamiseks valmis",
+      "preview": "Peamagamistoas ja elutoas on viimistletud kogu jämedalt sisse ehitatud juhtmestik. Oleme kindlad, et paigaldate lõõri ja lühtri, kui teie...",
+      "pill": "Töövõtja",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen ja Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Mõtteid kanganäidiste kohta?",
+      "preview": "Vaatasime kolme kangavalikut, mille te jätsite, ja kaldume kaerajahu linase poole, kuid tahame seda näha seinavärvi taustal...",
+      "pill": "Kliendi heakskiit",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Tere Rachel! Tahaksin teie Westlake'i köögist rohkem kuulda. Hetkel broneerin konsultatsiooni järgmiseks kuuks. Minu protsess algab kodukülastusega, kus käime läbi teie visiooni, eelarve ja ajakava – seejärel panen kokku kujunduskontseptsiooni koos materjalide valikuga. Kas soovite majas kohtumiseks aja kokku leppida?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Üks säästetud klient maksab Duet aastate eest."
+  },
+  "categorizationSubtitle": "Duet märgistab automaatselt iga e-kirja, nii et näete esmalt uusi kliendipäringuid, teiseks ootel kinnitusi ja mitte kunagi hankijate uudiskirju. Enam ei saa puududa disainikonsultatsioonist, mis on messikampaaniate alla mattunud.",
+  "draftSubtitle": "Duet õpib teie protsessi, projekti üksikasju ja tooni. Kui saabub uus päring või kliendi küsimus, koostab see täieliku vastuse koos teie saadavuse, järgmiste sammude ja projekti spetsiifikaga. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Mis seisus on Hendersoni projektis?\" \"Millised kooskõlastused on veel pooleli?\" Duet teab teie postkasti ja kõiki projektilõime – lihtsalt küsige.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Köögi remont – esmane konsultatsioon?",
+      "preview": "Ostsime just kodu ja tahame kööki ümber teha...",
+      "pill": "Uus päring",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Re: Kanganäidised — Kaerajahu linaga minemine",
+      "pill": "Kliendi heakskiit",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mark L.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Juhtmed tehtud – kinnitusdetailide paigaldamiseks valmis",
+      "pill": "Töövõtja",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Tony plaat ja kivi",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Tellimus nr 4821 tarnitud – kohaletoimetamine neljapäeval",
+      "pill": "Müüja tellimus",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Disain käeulatuses",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Kaubandusprogramm — kevadine säästuüritus",
+      "pill": "Pakkumised",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Köögi remont — esmane konsultatsioon?",
+    "originalFrom": "Rachel T. kirjutas:",
+    "originalText": "Tere! Ostsime just kodu Westlake'is ja tahame köögi täielikult ümber teha. Kas võtate ette uusi projekte? Kuidas teie protsess välja näeb?",
+    "lines": [
+      "Tere Rachel!",
+      "Õnnitlused uue kodu puhul! Aitaksin hea meelega teie köögiga. Hetkel broneerin konsultatsiooni järgmiseks kuuks.",
+      "Minu protsess algab kodukülastusega, et tutvuda teie visiooni, eelarve ja ajakavaga. Sealt panin kokku kujunduskontseptsiooni koos materjalivaliku ja üksikasjaliku ettepanekuga.",
+      "Kas soovite majas kohtumiseks aja kokku leppida?"
+    ],
+    "highlightText": "Hetkel broneerin konsultatsiooni järgmiseks kuuks.",
+    "tooltipFeatures": [
+      "Teab teie protsessi ja saadavust",
+      "Mustandid teie hääles",
+      "Sisaldab automaatselt järgmisi samme",
+      "Õpib aja jooksul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Millised heakskiitmised on veel Hendersoni projekti jaoks ootel?",
+    "agentResponse": "Teie Hendersonidega saadetud meililõimede põhjal ootavad veel kinnitamist kaks üksust: vanni vannitupp (teisipäeval saatsite taastamisriistvara valikud) ja elutoa draperikangas (näidised tarniti eelmisel nädalal). Karen küsis ka söögitoa värviläike kohta, kuid pole veel teie soovitusele vastanud. Kas soovite, et koostaksin järelkontrolli?",
+    "followUp": "Koostage Karenile edevus- ja kangavalikute kohta õrn järelmeelsus",
+    "followUpResponse": "Valmis! Koostasin Karenile edevuste ja eesriiete valikute kontrollimise järelmeetme, mainides, et vanityl on 6-nädalane teostusaeg, nii et peagi tehtud otsus hoiab projekti ajakavas. Ülevaatamiseks ja saatmiseks valmis."
+  },
+  "testimonialsTitle": "Armastatud sisekujundajate poolt",
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "title": "Peadisainer, Austin TX",
+      "quote": "Olen 6 tundi päevas kohapeal, koordineerin maalreid, elektrikuid ja plaatide paigaldajaid. Samal ajal saadavad kolm teist klienti oma projektide kohta meile. Duet koostab vastused õigete projekti üksikasjadega – vaatan lihtsalt üle kohapealsete külastuste vahel.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Elamu sisekujundaja, Chicago",
+      "quote": "Klientide päringud kestsid päevi, sest olin maetud hankemeilidesse ja töövõtjate ajakavadesse. Nüüd Duet reageerib uutele müügivihjetele minutitega minu protsessi ja kättesaadavusega. Olen selles kvartalis broneerinud 4 lisaprojekti.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Disainistuudio omanik, Nashville",
+      "quote": "12 aktiivse projekti meilide haldamine tappis mind. Duet kategoriseerib kõik – uued päringud, ootelolevad kinnitused, hankija tellimused, töövõtjate värskendused – nii et ma tean täpselt, millele tuleb kõigepealt tähelepanu pöörata.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "Sisekujundaja, San Diego",
+      "quote": "Kaotasin potentsiaalseid kliente, sest ma ei suutnud installinädalate jooksul piisavalt kiiresti vastata. Duet õppis minu konsultatsiooniprotsessi, hinnastruktuuri ja isegi seda, kuidas ma oma disainistiili kirjeldan. Kliendid ei tea, et see on tehisintellekti abiga.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Kaubanduslik sisekujundaja, Denver",
+      "quote": "Tarnija teostusaegade, töövõtjate ajakavade ja klientide läbivaatamistaotluste vahel valitses minu postkastis kaos. Duet sorteerib selle kõik ja koostab ootel olevate kinnituste järelmeetmete mustandid. See on nagu projekti koordinaator, kes ei maga kunagi.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Veetke oma päevi ilusaid ruume luues,\npole teie postkasti maetud.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
+  "verticalFaqs": [
+    {
+      "question": "Ma žongleerin 8-10 projektiga korraga. Kas Duet suudab neid sirgena hoida?",
+      "answer": "Jah. Duet jälgib iga meililõimi kliendi ja projekti kohta. Kui küsite Hendersoni köögi või Park Avenue kontori kohta, tõmbab see konteksti kõigist seotud vestlustest (müüja tellimused, töövõtjate värskendused, klientide kinnitused), nii et teie vastused on alati täpsed ja projektipõhised. Ei tohi segamini ajada, milline plaat millise kliendi jaoks oli."
+    },
+    {
+      "question": "Ma kooskõlastan paljude töövõtjate ja müüjatega. Kas Duet aitab selle vastu?",
+      "answer": "Absoluutselt. Duet õpib teie töövõtjate kontakte, müüja esindajaid ja iga tehingu konteksti teie projektides. Kui teie elektrik saadab meili, et töötlemine on lõpetatud, saab Duet koostada vastuse, mis kinnitab kinnitusseadme paigaldaja järgmist sammu või tsüklit. See hoiab töövoo liikumas isegi siis, kui olete teisel töökohal üle linna."
+    }
+  ],
+  "pricingNote": "Kell $10,000/project maksab üks säästetud klient aastate Duet Pro eest."
+}

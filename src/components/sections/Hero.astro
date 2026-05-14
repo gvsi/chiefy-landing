@@ -1,20 +1,29 @@
 ---
 import { GMAIL_START_URL, OUTLOOK_START_URL } from "../../utils/constants";
 
+type HeroContent = {
+    badge: string;
+    headlinePrefix: string;
+    headlineHighlight: string;
+    headlineSuffix: string;
+    rotatingFeatures: string[];
+    subline: string;
+    primaryCta: string;
+    secondaryCta: string;
+    trialNote: string;
+    cancelNote: string;
+};
+
 type Props = {
+    hero: HeroContent;
     heroHeadline?: string;
     heroSubline?: string;
     heroBadge?: string;
 };
 
-const { heroHeadline, heroSubline, heroBadge } = Astro.props;
+const { hero, heroHeadline, heroSubline, heroBadge } = Astro.props;
 
-const features = [
-    "sorting email",
-    "drafting replies",
-    "scheduling",
-    "finding answers",
-];
+const features = hero.rotatingFeatures;
 const featureIntervalSeconds = 2;
 const featureCycleSeconds = features.length * featureIntervalSeconds;
 ---
@@ -33,9 +42,7 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
                 <span
                     class="online-dot h-2 w-2 rounded-full bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.4)]"
                 ></span>
-                <span class="font-sans font-medium"
-                    >{heroBadge || "Now available for Gmail and Outlook"}</span
-                >
+                <span class="font-sans font-medium">{heroBadge || hero.badge}</span>
             </div>
 
             <div class="mb-12">
@@ -46,9 +53,9 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
                 ) : (
                     <>
                         <h1 class="headline" style="color: var(--prose-heading);">
-                            <span>Your </span>
-                            <span class="headline-highlight">chief of staff</span>
-                            <span> for</span>
+                            <span>{hero.headlinePrefix}</span>
+                            <span class="headline-highlight">{hero.headlineHighlight}</span>
+                            <span>{hero.headlineSuffix}</span>
                         </h1>
 
                         <div class="feature-line" aria-live="polite">
@@ -78,7 +85,7 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
                 class="hero-subheading mb-5 max-w-xl font-sans text-pretty text-[17px] leading-[1.5] tracking-[0.01em]"
                 style="color: var(--prose-text);"
             >
-                {heroSubline || "Save 4+ hours every week on email"}
+                {heroSubline || hero.subline}
             </p>
 
             <div
@@ -109,7 +116,7 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
                                 d="M52 51v8l20 15V48l-5.6-4.2c-5.94-4.45-14.4-.22-14.4 7.2"></path>
                         </svg>
                     </span>
-                    <span class="relative z-10">Start with Gmail</span>
+                    <span class="relative z-10">{hero.primaryCta}</span>
                 </a>
 
                 <a
@@ -137,7 +144,7 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
                                 fill="white"></path>
                         </svg>
                     </span>
-                    <span>Start with Outlook</span>
+                    <span>{hero.secondaryCta}</span>
                 </a>
             </div>
 
@@ -145,9 +152,9 @@ const featureCycleSeconds = features.length * featureIntervalSeconds;
                 class="hero-meta mt-4 flex items-center justify-center gap-3 text-sm tracking-[0.01em]"
                 style="color: var(--duet-muted);"
             >
-                <span>Free 14-day trial</span>
+                <span>{hero.trialNote}</span>
                 <span class="hero-meta-dot h-1 w-1 rounded-full"></span>
-                <span>Cancel anytime</span>
+                <span>{hero.cancelNote}</span>
             </div>
         </div>
 

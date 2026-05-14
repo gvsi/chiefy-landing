@@ -1,0 +1,171 @@
+{
+  "slug": "surf-schools",
+  "pageTitle": "Duet Mail untuk Sekolah Luncur dan Pengusaha Paddleboard | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu pengajar luncur dan pengusaha paddleboard membalas e-mel tempahan dengan segera — walaupun semasa mengajar. Balasan draf AI dengan jenis pelajaran, harga, dan suara anda.",
+  "heroBadge": "Dipercayai oleh 300+ pengajar luncur",
+  "heroHeadline": "Pembantu e-mel anda semasa anda mengajar di atas air",
+  "heroSubline": "Duet mempelajari jenis pelajaran, harga, dan syarat anda — kemudian mendraf balasan e-mel supaya anda tidak kehilangan tempahan kerana respons yang lambat.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Pelajaran berkumpulan untuk 6 orang pada Sabtu?",
+      "preview": "Hai! Saya ada kumpulan 6 orang rakan yang melawat hujung minggu ini. Adakah anda mempunyai kekosongan untuk pelajaran luncur berkumpulan pada pagi Sabtu? Berapakah harganya?",
+      "pill": "Untuk Dibalas",
+      "pillColor": "red"
+    },
+    {
+      "from": "Sekolah Rendah Westside",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Lawatan sekolah — 25 pelajar, 15 Mei",
+      "preview": "Kami ingin menempah hari luncur untuk kelas darjah 5 kami yang terdiri daripada 25 pelajar. Adakah anda menawarkan kadar kumpulan sekolah? Kami perlukan pakaian selam dan papan disediakan...",
+      "pill": "Tempahan",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Sewa paddleboard + penghantaran?",
+      "preview": "Adakah anda menyewakan papan SUP mengikut jam? Kami menginap di rumah pantai di Elm St — ada kemungkinan anda menghantar? Apa yang termasuk...",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Nicole B.",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Keadaan untuk pagi esok?",
+      "preview": "Kami sudah ditempah untuk 9 AM esok tetapi ramalan kelihatan berangin. Adakah pelajaran masih akan diteruskan? Perlukah kami bawa apa-apa tambahan...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hai Rachel! Pagi Sabtu masih tersedia untuk 6 orang. Pelajaran berkumpulan berlangsung selama 2 jam bermula pada 9 AM. Papan, pakaian selam, dan rash guard semuanya termasuk — cuma bawa pelindung matahari dan tuala. Harganya $90 seorang. Mahu saya sahkan kumpulan anda?",
+  "math": {
+    "pricePerBooking": "$90",
+    "bookingUnit": "pelajaran",
+    "lostPerMonth": "8",
+    "monthlyLoss": "$720",
+    "punchline": "Dua tempahan yang diselamatkan sudah menampung kos setahun Duet."
+  },
+  "categorizationSubtitle": "Duet menandakan setiap e-mel secara automatik supaya anda nampak tempahan pelajaran dahulu, soalan kedua, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan kumpulan sekolah yang tersorok di bawah amaran Yelp.",
+  "draftSubtitle": "Duet mempelajari jenis pelajaran, harga kumpulan, dan nada anda. Apabila pertanyaan tempahan masuk, ia mendraf balasan lengkap dengan ketersediaan, apa yang termasuk, dan apa yang perlu dibawa. Anda semak dan hantar.",
+  "agentSubtitle": "\"Ada tempahan kumpulan yang akan datang minggu ini?\" \"Drafkan balasan kepada sekolah itu dengan ketersediaan.\" Duet tahu peti masuk dan jadual anda — cuma tanya.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Pelajaran berkumpulan untuk 6 orang pada Sabtu?",
+      "preview": "Saya ada kumpulan 6 rakan yang datang untuk hujung minggu...",
+      "pill": "Balas Sekarang",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Re: Lawatan sambil belajar disahkan — 15 Mei, 25 pelajar",
+      "pill": "Ditempah",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Adakah anda menyewa paddleboard mengikut jam?",
+      "pill": "Soalan",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Ulasan baharu untuk penyenaraian anda",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Surf Warehouse",
+      "avatarLetter": "S",
+      "avatarColor": "lavender",
+      "subject": "Jualan musim panas — diskaun 30% untuk wetsuit",
+      "pill": "Promosi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Kelas kumpulan untuk 6 orang pada hari Sabtu?",
+    "originalFrom": "Rachel T. menulis:",
+    "originalText": "Hai! Saya ada kumpulan 6 rakan yang datang untuk hujung minggu. Adakah anda ada kekosongan untuk kelas luncur berkumpulan pada pagi Sabtu? Berapakah harganya?",
+    "lines": [
+      "Hai Rachel!",
+      "Pagi Sabtu masih lapang untuk 6 orang. Kelas kumpulan berharga $90/orang dan berlangsung 2 jam bermula pada 9 AM di pantai utama.",
+      "Papan, wetsuit, dan rash guard semuanya termasuk — cuma bawa pelindung matahari, air, dan tuala. Tiada pengalaman diperlukan.",
+      "Nak saya sahkan tempahan kumpulan anda?"
+    ],
+    "highlightText": "Pagi Sabtu masih lapang untuk 6 orang. Kelas kumpulan berharga $90/orang",
+    "tooltipFeatures": [
+      "Tahu jenis kelas & harga anda",
+      "Draf mengikut suara anda",
+      "Termasuk apa yang disediakan secara automatik",
+      "Belajar dari masa ke masa"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ada tempahan kumpulan yang akan datang minggu ini?",
+    "agentResponse": "Anda ada dua tempahan kumpulan minggu ini: Rachel T. pada hari Sabtu (6 orang, 9 AM) dan Westside Elementary pada hari Rabu (25 pelajar, lawatan sambil belajar 10 AM). Anda juga ada pertanyaan yang belum dijawab daripada James P. tentang sewaan paddleboard. Nak saya drafkan balasan?",
+    "followUp": "Drafkan balasan kepada pihak sekolah untuk mengesahkan butiran lawatan sambil belajar",
+    "followUpResponse": "Siap! Saya telah menyediakan draf balasan kepada Westside Elementary yang mengesahkan 15 Mei untuk 25 pelajar pada 10 AM. Ia termasuk kadar kumpulan sekolah anda, apa yang disediakan, keperluan slip kebenaran, dan polisi pembatalan anda. Sedia untuk disemak dan dihantar."
+  },
+  "testimonialsTitle": "Disukai oleh pengajar luncur",
+  "testimonials": [
+    {
+      "name": "Coach Mike T.",
+      "title": "Pemilik Sekolah Luncur, CA",
+      "quote": "Saya berada di air mengajar 6 jam sehari. Pada masa saya semak e-mel, separuh tempahan sudah pergi kepada orang lain. Kini Duet menyediakan draf balasan dengan harga dan ketersediaan saya — saya hanya semak di antara sesi.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Pelajaran & Sewa Papan Dayung, HI",
+      "quote": "Kami mengendalikan pelajaran dan sewaan papan dari peti masuk yang sama. Duet terus memahami perbezaannya — soalan sewaan mendapat jawapan sewaan, pertanyaan pelajaran mendapat butiran pelajaran. Rasanya seperti ada kaunter depan.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Danny R.",
+      "title": "Pengajar Luncur, FL",
+      "quote": "Tempahan kumpulan sekolah dulu memerlukan 10 e-mel pergi balik. Kini Duet menyediakan draf balasan pertama dengan kadar kumpulan, apa yang termasuk, dan slip kebenaran. Memendekkan keseluruhan perbualan separuh.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Fran C.",
+      "title": "Lawatan & Pelajaran SUP, OR",
+      "quote": "Musim puncak benar-benar memenatkan saya — 30 e-mel sehari tentang keadaan, harga, apa yang perlu dibawa. Soalan yang sama lima perkara berulang kali. Duet mengurus semuanya dan bunyinya tepat seperti saya.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Pengarah Kem Luncur Kanak-kanak, SC",
+      "quote": "Ibu bapa menghantar e-mel yang paling panjang. Tarikh kem, alahan, tahap kemahiran, masa pengambilan. Duet menyediakan draf balasan terperinci yang meliputi semuanya supaya saya tidak perlu menaip perenggan pada 10 PM selepas seharian di pantai.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Luangkan musim panas anda di ombak,\nbukan di peti masuk anda.",
+  "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
+  "verticalFaqs": [
+    {
+      "question": "Adakah Duet mengendalikan jenis pelajaran dan sewaan peralatan yang berbeza?",
+      "answer": "Ya. Duet mempelajari semua tawaran anda — pelajaran peribadi, pelajaran berkumpulan, kem kanak-kanak, sewaan papan, lawatan SUP. Apabila satu pertanyaan masuk, ia menyediakan draf balasan dengan harga yang betul, tempoh, apa yang termasuk, dan apa yang perlu dibawa. Ia tahu e-mel kumpulan sekolah memerlukan butiran yang berbeza berbanding tempahan pelajaran peribadi."
+    },
+    {
+      "question": "Bagaimana dengan soalan cuaca dan keadaan?",
+      "answer": "Duet mempelajari cara anda biasanya mengendalikan e-mel berkaitan keadaan — polisi anda tentang pembatalan, penjadualan semula, dan keadaan yang anda ajar. Apabila seseorang menghantar e-mel bertanya sama ada pelajaran mereka akan diteruskan, Duet menyediakan draf balasan yang sepadan dengan nada dan polisi biasa anda. Anda semak dan hantar dalam beberapa saat."
+    }
+  ],
+  "pricingNote": "Pada $90/lesson, dua tempahan yang disimpan membayar untuk lebih setahun Pro."
+}

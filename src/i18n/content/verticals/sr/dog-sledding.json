@@ -1,0 +1,171 @@
+{
+  "slug": "dog-sledding",
+  "pageTitle": "Duet Mail for Dog San Tours | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže sakupljačima da odmah odgovore na e-poruke o rezervacijama — čak i sa traga. AI nacrt odgovora sa vašim tipovima obilaska, cenama, smernicama i glasom.",
+  "heroBadge": "Ima poverenja od 200+ musera",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na tragu",
+  "heroSubline": "Duet uči vaše tipove obilazaka, cene, vremensku politiku i dodatke — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju zbog sporog odgovora.",
+  "inboxEmails": [
+    {
+      "from": "Rejčel T.",
+      "avatarLetter": "R",
+      "avatarColor": "roze",
+      "subject": "Kombinacija Aurora + pseće sanke za 4?",
+      "preview": "Zdravo! Moja četvoročlana porodica je u poseti Ferbanksu u januaru. Da li nudite kombinovani paket sa sankama za pse i posmatranjem aurore? Koja je cena?",
+      "pill": "To Respond",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Džejms V.",
+      "avatarLetter": "J",
+      "avatarColor": "plava",
+      "subject": "Šta da obučemo?",
+      "preview": "Rezervisani smo za 2-časovno iskustvo kaše u subotu. Šta da obučemo? Da li obezbeđujete opremu ili moramo da donesemo sopstvenu...",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Kim i Brajan L.",
+      "avatarLetter": "K",
+      "avatarColor": "ljubičasta",
+      "subject": "Deca uzrasta od 5 i 8 godina — mogu li da gaze?",
+      "preview": "Vodimo naše dvoje dece (5 i 8 godina). Mogu li se voziti u sankama ili zapravo pomoći u kaši? I psi se dobro slažu sa malom decom...",
+      "pill": "Rezervacija",
+      "pillColor": "plava"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavanda",
+      "subject": "Nova recenzija za vaš unos",
+      "preview": "Putnik je nedavno napisao recenziju o vašem preduzeću. Pogledajte šta su imali da kažu i odgovorite...",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    }
+  ],
+  "autodraft": "Hej Rachel! Voleli bismo da ugostimo vašu porodicu. Naša kombinacija Aurora + Mush košta 175 dolara po osobi — dobijate 1,5-časovnu vožnju saonicama kroz staze u sumrak, a zatim vrući kakao pored vatre dok čekamo svetla. Obezbeđena je sva oprema za hladno vreme. Deca do 12 godina su 125 dolara. Hoćeš da te rezervišem za januar?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "tour",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Dve sačuvane rezervacije plaćaju godinu dana od Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, zatim pitanja, a buku nikada. Više nema propuštanja upita o obilasku koji je zakopan u obaveštenjima TripAdvisor-a.",
+  "draftSubtitle": "Duet uči vaše tipove obilazaka, cene i ton. Kada dođe upit za rezervaciju, sastavlja kompletan odgovor sa detaljima o paketu, šta da obučete i dodacima. Pregledate i pošaljete.",
+  "agentSubtitle": "„Ima li rezervacija ovog vikenda?“ „Nacrt odgovora o kombinaciji aurore.“ Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rejčel T.",
+      "avatarLetter": "R",
+      "avatarColor": "roze",
+      "subject": "Kombinacija Aurora + pseće sanke za 4?",
+      "preview": "Moja četvoročlana porodica posećuje Ferbanks u januaru...",
+      "pill": "Odgovorite odmah",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Džejms V.",
+      "avatarLetter": "J",
+      "avatarColor": "plava",
+      "subject": "Re: Rezervacija potvrđena — subota 13:00",
+      "pill": "Rezervisano",
+      "pillColor": "plava"
+    },
+    {
+      "from": "Kim L.",
+      "avatarLetter": "K",
+      "avatarColor": "ljubičasta",
+      "subject": "Mogu li naša deca (5 i 8) da se voze?",
+      "pill": "Pitanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavanda",
+      "subject": "Vaš nedeljni rezime rezervacije",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    },
+    {
+      "from": "Alaska Gear Co.",
+      "avatarLetter": "A",
+      "avatarColor": "lavanda",
+      "subject": "Zimska rasprodaja — 30% popusta na pojaseve za gnječenje",
+      "pill": "Promocije",
+      "pillColor": "lavanda"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Kombinacija Aurora + pseće sanke za 4?",
+    "originalFrom": "Rejčel T. je napisala:",
+    "originalText": "Zdravo! Moja četvoročlana porodica je u poseti Ferbanksu u januaru. Da li nudite kombinovani paket sa sankama za pse i posmatranjem aurore? Koja je cena?",
+    "lines": [
+      "Hej Rachel!",
+      "Naša kombinacija Aurora + Mush košta 175 dolara po osobi — 1,5-časovna vožnja sankama u sumrak praćena vrućim kakaom i aurorom uz vatru. Deca do 12 godina su 125 dolara.",
+      "Obezbeđena je sva oprema za hladno vreme (čizme, bibs, rukavice, maske za lice). Samo se obucite u toplim slojevima ispod.",
+      "Hoćeš da rezervišem tvoju četvoročlanu porodicu za januar?"
+    ],
+    "highlightText": "Aurora + Mush Combo je 175 dolara po osobi - 1,5-časovna vožnja sankama",
+    "tooltipFeatures": [
+      "Poznaje vaše vrste putovanja i cene",
+      "Nacrt u vašem tonu",
+      "Uključuje detalje opreme i dodataka",
+      "Uči tokom vremena"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ima li rezervacija ovog vikenda? Vreme izgleda sumnjivo.",
+    "agentResponse": "Ovog vikenda imate rezervisana 3 ture: poseta odgajivačnici u subotu u 10:00 (2 gosta), 2-časovno iskustvo sa kašom u subotu u 13:00 (4 gosta) i aurora kombinacija u nedelju u 16:00 (6 gostiju). Nedeljna grupa je pitala o politici otkazivanja. Hoćeš da napravim ažuriranje vremena za sva tri?",
+    "followUp": "Nacrtajte ažuriranje vremena za grupu aurora u nedelju",
+    "followUpResponse": "Gotovo! Napravio sam nacrt odgovora grupi Sundai Aurora u kojem ih obaveštavate da pratite uslove i potvrdiću do subote uveče. Uključuje vašu politiku reprogramiranja i alternativne datume. Spremni za pregled i slanje."
+  },
+  "testimonialsTitle": "Omiljeni musheri i turoperatori",
+  "testimonials": [
+    {
+      "name": "Rajan H.",
+      "title": "Turoperator za sanke za pse, AK",
+      "quote": "Na tragu sam 6 sati dnevno bez mobilnog servisa. Dok sam se vratio, polovina upita za rezervacije je otišla na drugu odeću. Duet nacrti odgovora sa mojim detaljima obilaska i cenama — gosti se čuju za nekoliko minuta, a ne sati.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Megan K.",
+      "title": "Kennel & Mush Tour Vlasnik, AK",
+      "quote": "Nudimo posete odgajivačnici, jahanje kaše i kombinacije aurora — na svaki e-mail treba drugačiji odgovor. Duet je shvatio sva tri tipa obilaska za nedelju dana i sada svaki put pravi nacrte odgovora koji odgovaraju pravom paketu.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Travis B.",
+      "title": "Vodič za pseće sanke, MN",
+      "quote": "Provodio sam svako veče odgovarajući na ista pitanja o tome šta da obučem, starosnim granicama i psima. Duet se bavi svim tim. Dođem kući sa staze i sve je nacrtano i čeka.",
+      "avatarKey": "Johnni"
+    },
+    {
+      "name": "Anika S.",
+      "title": "Aurora & Sled Tour Operator, AK",
+      "quote": "Vremenska otkazivanja su konstantna zimi. Duet nacrti reprogramiranje odgovora sa našom politikom i alternativnim datumima pre nego što uopšte dobijem priliku da proverim svoj telefon. Gosti vole brz odgovor.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Cara D.",
+      "title": "Porodične avanture sa psećim saonicama, CO",
+      "quote": "Roditelji uvek pitaju da li njihova deca umeju da mušu, da li su psi druželjubivi, šta da nose - istih 10 pitanja. Duet je naučio svaki odgovor i savršeno ih nacrtao. To je kao da se kloniram za imejl.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Provedite zimu na stazi sa svojim psima,\nne u prijemnom sandučetu.",
+  "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Kako se Duet nosi sa otkazivanjem vremena i neizvesnošću aurore?",
+      "answer": "Duet saznaje vaše smernice za otkazivanje i odlaganje. Kada gost pošalje e-poštu o vremenskim prilikama ili vidljivosti aurore, on sastavlja nacrt odgovora sa vašom politikom, alternativnim datumima i svim relevantnim detaljima — poput praćenja uslova i potvrđivanja bliže obilasku. Pregledate i pošaljete."
+    },
+    {
+      "question": "Nudim više vrsta obilazaka sa različitim cenama i dodacima. Može li ih Duet držati ravno?",
+      "answer": "Da. Duet uči svaki od vaših tipova obilaska — posete odgajivačnici, iskustva sa kašom, kombinacije aurore, dodaci za fotografije, paketi za prevoz — zajedno sa njihovim cenama, trajanjem i šta je uključeno. Kada stigne upit, on odgovara pravom obilasku i sastavlja nacrt odgovora sa tačnim detaljima."
+    }
+  ],
+  "pricingNote": "Sa 150 USD po turneji, dve sačuvane rezervacije plaćaju više od godinu dana od Pro."
+}

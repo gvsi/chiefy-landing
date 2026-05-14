@@ -1,0 +1,171 @@
+{
+  "slug": "surf-schools",
+  "pageTitle": "Duet Mail surf mokykloms ir irklentžių operatoriams | DI el. pašto asistentas",
+  "metaDescription": "Duet Mail padeda banglenčių instruktoriams ir irklentžių operatoriams akimirksniu atsakyti į rezervacijų el. laiškus — net mokant. DI parengti atsakymai pagal jūsų pamokų tipus, kainodarą ir stilių.",
+  "heroBadge": "Pasitiki 300+ banglenčių instruktorių",
+  "heroHeadline": "Jūsų el. pašto asistentas, kol mokote vandenyje",
+  "heroSubline": "Duet išmoksta jūsų pamokų tipus, kainodarą ir sąlygas — tada parengia el. laiškų atsakymus, kad niekada neprarastumėte rezervacijos dėl lėto atsakymo.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Grupinė pamoka 6 asmenims šeštadienį?",
+      "preview": "Sveiki! Turiu 6 draugų grupę, kurie atvyksta savaitgaliui. Ar šeštadienio rytui turite vietos grupinei banglenčių pamokai? Kokia kaina?",
+      "pill": "Reikia atsakyti",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Mokyklinė išvyka — 25 mokiniai, gegužės 15 d.",
+      "preview": "Ieškome vietos banglenčių dienai mūsų 5 klasės 25 mokiniams. Ar siūlote mokyklinėms grupėms taikomas kainas? Reikėtų, kad būtų suteikti hidrokostiumai ir lentos...",
+      "pill": "Rezervacija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Irklentės nuoma + pristatymas?",
+      "preview": "Ar SUP lentas nuomojate valandomis? Apsistojame paplūdimio name Elm St — gal galite pristatyti? Kas įskaičiuota...",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Nicole B.",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Rytojaus ryto sąlygos?",
+      "preview": "Esame užsakyti rytoj 9:00, bet prognozė atrodo vėjuota. Ar pamoka vis tiek įvyks? Ar turėtume atsinešti ką nors papildomai...",
+      "pill": "Informacijai",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Sveika, Rachel! Šeštadienio rytas 6 asmenims laisvas. Grupinės pamokos trunka 2 valandas ir prasideda 9:00 prie pagrindinio paplūdimio. Lentos, hidrokostiumai ir rash guard marškinėliai įskaičiuoti — tiesiog atsineškite kremą nuo saulės ir rankšluostį. Kaina — 90 USD asmeniui. Ar norite, kad užtvirtinčiau jūsų grupę?",
+  "math": {
+    "pricePerBooking": "$90",
+    "bookingUnit": "pamoka",
+    "lostPerMonth": "8",
+    "monthlyLoss": "$720",
+    "punchline": "Dvi išsaugotos rezervacijos padengia visų metų Duet."
+  },
+  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, kad pirmiausia matytumėte pamokų rezervacijas, tada klausimus, o triukšmo — niekada. Daugiau nepraleisite mokyklinės grupės užklausos, pasislėpusios po Yelp pranešimais.",
+  "draftSubtitle": "Duet išmoksta jūsų pamokų tipus, grupių kainodarą ir toną. Kai ateina rezervacijos užklausa, jis parengia pilną atsakymą su laisvu laiku, kas įskaičiuota ir ką atsinešti. Jūs peržiūrite ir išsiunčiate.",
+  "agentSubtitle": "\"Ar šią savaitę laukia kokių nors grupinių rezervacijų?\" \"Parenk atsakymo juodraštį mokyklai su laisvais laikais.\" Duet pažįsta jūsų gautuosius ir tvarkaraštį — tiesiog paklauskite.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Grupinė pamoka 6 asmenims šeštadienį?",
+      "preview": "Turiu 6 draugų grupę, kurie atvyksta savaitgaliui...",
+      "pill": "Atsakyti dabar",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Re: Išvyka patvirtinta — gegužės 15 d., 25 mokiniai",
+      "pill": "Rezervuota",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Ar nuomojate irklentes valandomis?",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nauja apžvalga jūsų įrašui",
+      "pill": "Informacijai",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Surf Warehouse",
+      "avatarLetter": "S",
+      "avatarColor": "lavender",
+      "subject": "Vasaros išpardavimas — 30% nuolaida hidrokostiumams",
+      "pill": "Akcijos",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Grupinė pamoka 6 asmenims šeštadienį?",
+    "originalFrom": "Rachel T. rašė:",
+    "originalText": "Sveiki! Turiu 6 draugų grupę, kurie atvyksta savaitgaliui. Ar šeštadienio rytui turite vietos grupinei banglenčių pamokai? Kokia kaina?",
+    "lines": [
+      "Sveika, Rachel!",
+      "Šeštadienio rytas 6 asmenims visiškai laisvas. Grupinės pamokos kainuoja 90 USD/asmeniui ir trunka 2 valandas, pradedant 9:00 prie pagrindinio paplūdimio.",
+      "Lentos, hidrokostiumai ir rash guard marškinėliai įskaičiuoti — tiesiog atsineškite kremą nuo saulės, vandens ir rankšluostį. Patirties nereikia.",
+      "Ar norite, kad užtvirtinčiau jūsų grupę?"
+    ],
+    "highlightText": "Šeštadienio rytas 6 asmenims visiškai laisvas. Grupinės pamokos kainuoja 90 USD/asmeniui",
+    "tooltipFeatures": [
+      "Žino jūsų pamokų tipus ir kainodarą",
+      "Parengia jūsų stiliumi",
+      "Automatiškai įtraukia, kas suteikiama",
+      "Mokosi laikui bėgant"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ar šią savaitę laukia kokių nors grupinių rezervacijų?",
+    "agentResponse": "Šią savaitę turite dvi grupines rezervacijas: Rachel T. šeštadienį (6 žmonės, 9:00) ir Westside Elementary trečiadienį (25 mokiniai, 10:00 išvyka). Taip pat turite neatsakytą James P. užklausą dėl irklentžių nuomos. Ar norite, kad parengčiau atsakymo juodraštį?",
+    "followUp": "Parenk atsakymo juodraštį mokyklai, patvirtinant išvykos detales",
+    "followUpResponse": "Atlikta! Parengiau atsakymo juodraštį Westside Elementary, patvirtinantį gegužės 15 d. laiką 25 mokiniams 10:00. Įtraukta jūsų mokyklinės grupės kaina, kas suteikiama, tėvų sutikimo lapų reikalavimai ir atšaukimo politika. Paruošta peržiūrai ir išsiuntimui."
+  },
+  "testimonialsTitle": "Mėgstamas banglenčių instruktorių",
+  "testimonials": [
+    {
+      "name": "Coach Mike T.",
+      "title": "Banglenčių mokyklos savininkas, CA",
+      "quote": "Visą dieną, 6 valandas, mokau vandenyje. Kol patikrindavau el. paštą, pusė rezervacijų jau būdavo atitekę kam nors kitam. Dabar Duet parengia atsakymus su mano kainomis ir laisvu laiku — aš tik peržiūriu tarp užsiėmimų.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Irklentžių pamokos ir nuoma, HI",
+      "quote": "Iš to paties gautųjų laiškų dėžutės teikiame pamokas ir nuomojame lentas. Duet iškart suprato skirtumą — nuomos klausimai gauna nuomos atsakymus, pamokų užklausos gauna pamokų detales. Tarsi turėtume registratūrą.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Danny R.",
+      "title": "Banglenčių instruktorius, FL",
+      "quote": "Mokyklinių grupių rezervacijos anksčiau reikalaudavo 10 laiškų pirmyn ir atgal. Dabar Duet parengia pirmą atsakymą su grupės kainomis, kas įskaičiuota ir tėvų sutikimo lapu. Visą susirašinėjimą sutrumpina perpus.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Fran C.",
+      "title": "SUP turai ir pamokos, OR",
+      "quote": "Piko sezonas mane žudė — 30 el. laiškų per dieną apie sąlygas, kainas, ką atsinešti. Tie patys penki klausimai vėl ir vėl. Duet visus juos tvarko, ir jie skamba visiškai kaip aš.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Vaikų banglenčių stovyklos direktorė, SC",
+      "quote": "Tėvai siunčia ilgiausius laiškus. Stovyklos datos, alergijos, įgūdžių lygiai, paėmimo laikai. Duet parengia išsamius atsakymus, kurie aprėpia viską, tad man nereikia 22 val. po ilgos dienos paplūdimyje rašyti ištisų pastraipų.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Praleiskite vasarą bangose,\no ne savo gautuosiuose.",
+  "ctaSubline": "Pradėkite nemokamą bandomąjį laikotarpį. Prijunkite savo gautuosius per 30 sekundžių.",
+  "verticalFaqs": [
+    {
+      "question": "Ar Duet apdoroja skirtingus pamokų tipus ir įrangos nuomą?",
+      "answer": "Taip. Duet išmoksta visus jūsų pasiūlymus — privačias pamokas, grupines pamokas, vaikų stovyklas, lentų nuomą, SUP turus. Kai ateina užklausa, jis parengia atsakymą su tinkama kaina, trukme, kas įskaičiuota ir ką atsinešti. Jis žino, kad mokyklinės grupės el. laiškui reikia kitų detalių nei privačios pamokos rezervacijai."
+    },
+    {
+      "question": "O kaip dėl orų ir sąlygų klausimų?",
+      "answer": "Duet išmoksta, kaip paprastai tvarkote el. laiškus apie sąlygas — jūsų atšaukimo, perkėlimo ir sąlygų, kuriomis mokote, politiką. Kai kas nors parašo, klausdami, ar jų pamoka vis tiek įvyks, Duet parengia atsakymą, atitinkantį jūsų įprastą toną ir politiką. Jūs peržiūrite ir išsiunčiate per kelias sekundes."
+    }
+  ],
+  "pricingNote": "Esant 90 USD/pamokai, dvi išsaugotos rezervacijos padengia daugiau nei vienų metų Pro."
+}

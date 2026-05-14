@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail cho Tour Ngắm Cá Voi | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp các thuyền trưởng tour ngắm cá voi trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên biển. Trả lời được soạn thảo bằng AI với chi tiết tour, giá cả và phong cách của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 300 thuyền trưởng tour",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang đi ngắm cá voi",
+  "heroSubline": "Duet học lịch trình tour, giá cả và phong cách của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang trên biển.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Nhóm 8 người — còn chỗ ngày 14 tháng 6?",
+      "preview": "Chào bạn! Chúng tôi là gia đình 8 người đến thăm trong tuần. Bạn còn chỗ cho tour buổi sáng ngày 14 tháng 6 không? Giá mỗi người là bao nhiêu và có phù hợp cho trẻ em không?",
+      "pill": "Cần trả lời",
+      "pillColor": "red"
+    },
+    {
+      "from": "James & Kathy L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Giá thuê riêng?",
+      "preview": "Chúng tôi muốn đặt tour ngắm cá voi riêng cho kỷ niệm của mình. Giá thuê riêng 2 giờ cho chỉ hai người là bao nhiêu...",
+      "pill": "Giá trị cao",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Cruise Port Desk",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "Thay đổi lịch trình — Coral Princess đến sớm 1 giờ",
+      "preview": "Thông báo: lịch đến của tàu Coral Princess ngày mai đã được dời từ 10 giờ sáng sang 9 giờ sáng. Vui lòng điều chỉnh việc đón khách tham quan cảng cho phù hợp...",
+      "pill": "Khẩn cấp",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "preview": "Một khách du lịch vừa đánh giá doanh nghiệp của bạn. Xem họ nói gì và trả lời...",
+      "pill": "Thông tin",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Chào Rachel! Tour buổi sáng ngày 14 tháng 6 còn chỗ cho 8 người. Giá tour là 125$/người, trẻ em từ 4-12 tuổi được giảm một nửa. Chúng tôi khởi hành lúc 9 giờ sáng từ cảng và kéo dài khoảng 2,5 giờ. Có kính nhìn xa — bạn chỉ cần mang áo ấm và kem chống nắng. Bạn muốn tôi đặt 8 chỗ không?",
+  "math": {
+    "pricePerBooking": "750$",
+    "bookingUnit": "nhóm tour",
+    "lostPerMonth": "3",
+    "monthlyLoss": "2.250$",
+    "punchline": "Chỉ cần một nhóm đặt chỗ được giữ lại là đủ trả tiền Duet trong một năm."
+  },
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, thay đổi lịch trình tàu du lịch thứ hai, và không bao giờ bị làm phiền bởi tin nhảm. Không còn bỏ lỡ yêu cầu thuê riêng bị chôn vùi dưới các cảnh báo TripAdvisor.",
+  "draftSubtitle": "Duet học giờ tour, giá cả và chính sách của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với tình trạng chỗ, những gì bao gồm và cần mang theo. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Còn bao nhiêu chỗ cho tour sáng thứ Bảy?\" \"Soạn trả lời cho Rachel về tình trạng chỗ.\" Duet biết hộp thư và lịch trình của bạn — chỉ cần hỏi.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Nhóm 8 người — còn chỗ ngày 14 tháng 6?",
+      "preview": "Chúng tôi là gia đình 8 người đến thăm trong tuần...",
+      "pill": "Trả lời ngay",
+      "pillColor": "red"
+    },
+    {
+      "from": "James L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Thuê riêng đã xác nhận — Thứ Bảy 2 giờ chiều",
+      "pill": "Đã đặt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Megan S.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Tour ngày mai có diễn ra không? Gió có vẻ mạnh",
+      "pill": "Câu hỏi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FareHarbor",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Tóm tắt đặt chỗ hàng ngày — 3 đặt mới",
+      "pill": "Thông tin",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marine Supply Co.",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Xả kho mùa hè — giảm 15% đồ bảo hộ",
+      "pill": "Khuyến mãi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Nhóm 8 người — còn chỗ ngày 14 tháng 6?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào bạn! Chúng tôi là gia đình 8 người đến thăm trong tuần. Bạn còn chỗ cho tour buổi sáng ngày 14 tháng 6 không? Giá mỗi người là bao nhiêu và có phù hợp cho trẻ em không?",
+    "lines": [
+      "Chào Rachel!",
+      "Tour buổi sáng ngày 14 tháng 6 còn rất nhiều chỗ cho 8 người. Vé là 125$/người, trẻ em từ 4-12 tuổi được giảm một nửa. Chúng tôi khởi hành lúc 9 giờ sáng và về khoảng 11:30.",
+      "Có kính nhìn xa và đồ mưa — bạn chỉ cần mang áo ấm và kem chống nắng. Trẻ em rất thích ở trên boong quan sát.",
+      "Bạn muốn tôi giữ 8 chỗ không?"
+    ],
+    "highlightText": "Tour buổi sáng ngày 14 tháng 6 còn rất nhiều chỗ cho 8 người. Vé là 125$/người",
+    "tooltipFeatures": [
+      "Biết giờ tour & giá cả của bạn",
+      "Soạn thảo theo phong cách của bạn",
+      "Tự động bao gồm những gì cần mang theo",
+      "Học hỏi theo thời gian"
+    ]
+  },
+  "agent": {
+    "userMessage": "Còn bao nhiêu chỗ cho tour sáng thứ Bảy?",
+    "agentResponse": "Dựa trên các đặt chỗ của bạn, tour 9 giờ sáng thứ Bảy đã có 18/44 chỗ đã đặt — còn 26 chỗ trống. Tour buổi chiều gần đầy với 40/44 chỗ. Bạn muốn tôi soạn trả lời cho các yêu cầu đang chờ với tình trạng chỗ sáng thứ Bảy không?",
+    "followUp": "Soạn trả lời cho Rachel xác nhận ngày 14 tháng 6 cho 8 khách",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho Rachel xác nhận tour sáng ngày 14 tháng 6 cho 8 khách với giá 125$/người. Bao gồm giờ khởi hành, những gì được cung cấp và cần mang theo. Sẵn sàng để bạn xem lại và gửi."
+  },
+  "testimonialsTitle": "Được yêu thích bởi các thuyền trưởng tour ngắm cá voi",
+  "testimonials": [
+    {
+      "name": "Thuyền trưởng Dave H.",
+      "title": "Nhà điều hành tour động vật hoang dã, AK",
+      "quote": "Hành khách tàu du lịch cần câu trả lời nhanh — họ chỉ có 6 giờ ở cảng. Tôi từng mất các thuê riêng vì đang trên biển khi có yêu cầu. Giờ Duet soạn trả lời với giá và chi tiết đón khách trước khi tôi cập bến.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria & Luis R.",
+      "title": "Gia đình Ngắm Cá Voi, CA",
+      "quote": "Chúng tôi chạy hai tour mỗi ngày trong mùa cá voi lưng gù và lượng email rất lớn. 'Chúng tôi có thấy cá voi không?' 'Nên mặc gì?' 'Ngày mai có hủy không?' Duet xử lý các câu hỏi lặp đi lặp lại để chúng tôi tập trung vào tour.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Thuyền trưởng Ben T.",
+      "title": "Chuyến đi biển, HI",
+      "quote": "Tôi trả lời cùng 10 câu hỏi mỗi tối — giá cả, bao gồm gì, mẹo chống say sóng, giới hạn tuổi trẻ em. Duet học hết trong tuần đầu. Thời gian phản hồi của tôi giảm từ 8 giờ xuống còn 8 phút.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Kim W.",
+      "title": "Quản lý đặt chỗ, Pacific NW",
+      "quote": "Hủy do thời tiết là tệ nhất — 30 người cần đặt lại cùng lúc và tôi phải xử lý điện thoại. Duet soạn email cá nhân hóa để dời lịch cho từng khách. Việc từng mất 2 giờ giờ chỉ còn 15 phút.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jess & Nate P.",
+      "title": "Tour động vật hoang dã bằng thuyền nhỏ, BC",
+      "quote": "Chúng tôi chỉ hai người — tôi làm thuyền trưởng, cô ấy lo logistics. Mùa cao điểm cô ấy dành 3 giờ mỗi tối cho email. Duet giảm xuống còn 30 phút. Cô ấy thực sự có lại buổi tối của mình.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Dành mùa cá voi trên biển,\nkhông phải trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
+  "verticalFaqs": [
+    {
+      "question": "Duet có xử lý hủy tour do thời tiết và thay đổi lịch tàu du lịch không?",
+      "answer": "Có. Khi bạn hủy tour do thời tiết hoặc lịch đến tàu du lịch thay đổi, bạn chỉ cần thông báo một lần cho Duet và nó sẽ soạn email cá nhân hóa để dời lịch hoặc cập nhật cho từng khách bị ảnh hưởng. Không còn phải sao chép dán cùng một tin nhắn 30 lần. Mỗi trả lời bao gồm chi tiết đặt chỗ gốc của khách và các lựa chọn thay thế có sẵn."
+    },
+    {
+      "question": "Chúng tôi thường nhận cùng một câu hỏi — 'chúng tôi có thấy cá voi không?', 'nên mặc gì?', 'có phù hợp cho trẻ em không?' Duet có xử lý được không?",
+      "answer": "Đó chính là điểm mạnh của Duet. Nó học các câu trả lời chuẩn của bạn — các loài thường thấy, những gì cần mang theo, chính sách tuổi, mẹo chống say sóng, giờ khởi hành — và soạn trả lời đầy đủ ngay lập tức. Bạn xem lại và gửi. Hầu hết các thuyền trưởng nói với chúng tôi 80% hộp thư của họ là 10 câu hỏi giống nhau, và Duet xử lý tất cả."
+    }
+  ],
+  "pricingNote": "Với giá 125$/người, chỉ cần giữ lại một nhóm 6 người là đủ trả tiền Pro hơn một năm."
+}

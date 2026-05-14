@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | AI-e-mailassistent voor Gmail en Outlook",
+    "description": "De AI-e-mailassistent van Duet Mail vat e-mails samen, stelt antwoorden op en organiseert uw inbox. Werkt met Gmail en Outlook. Bespaar 4+ uur per week."
+  },
+  "hero": {
+    "badge": "Nu beschikbaar voor Gmail en Outlook",
+    "headlinePrefix": "Jouw ",
+    "headlineHighlight": "stafchef",
+    "headlineSuffix": " voor",
+    "rotatingFeatures": [
+      "e-mail sorteren",
+      "antwoorden opstellen",
+      "planning",
+      "antwoorden vinden"
+    ],
+    "subline": "Bespaar elke week meer dan 4 uur aan e-mail",
+    "primaryCta": "Begin met Gmail",
+    "secondaryCta": "Begin met Outlook",
+    "trialNote": "Gratis proefperiode van 14 dagen",
+    "cancelNote": "Annuleer op elk gewenst moment"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Directe categorisering",
+      "AI-aangedreven antwoorden"
+    ],
+    "windowTitle": "Postvak IN",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "Gisteren"
+    ],
+    "autodraftLabel": "Automatisch concept",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Productlanceringstijdlijn",
+        "preview": "Hé! Ik wilde even kijken naar de lanceringsmiddelen. Zijn we nog op koers voor volgende week...",
+        "pill": "Om te reageren"
+      },
+      {
+        "from": "Emmapark",
+        "avatarLetter": "E",
+        "subject": "Snelle synchronisatie vanmiddag?",
+        "preview": "Ik zou graag op de hoogte blijven van de updates van de routekaart. Ben je rond 16.00 uur vrij...",
+        "pill": "Vergadering"
+      },
+      {
+        "from": "Marketing",
+        "avatarLetter": "M",
+        "subject": "Campagneresultaten gereed",
+        "pill": "Ter info"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Jouw winkel is klaar voor Black Friday",
+        "pill": "Promoties"
+      }
+    ],
+    "autodraft": "Hallo Alex! Ja, we liggen op koers. Het ontwerpteam heeft gisteren de assets voltooid en vandaag stuur ik de definitieve bestanden door EOD."
+  },
+  "logos": {
+    "ariaLabel": "Logo's van klanten",
+    "headingPrefix": "Vertrouwd door vooruit te kijken",
+    "headingHighlight": " professionals en teams ",
+    "headingSuffix": "wereldwijd"
+  },
+  "features": {
+    "ariaLabel": "Kenmerken",
+    "eyebrow": "Uw inbox, supercharged",
+    "title": "Je inbox mag niet jouw dag bepalen",
+    "subtitle": "Transformeer chaos in duidelijkheid met AI die u daadwerkelijk te pakken krijgt.\nBespaar elke week meer dan 3 uur met de slimste e-mailassistent voor Gmail en Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "E-mailconcepten die op u lijken",
+        "description": "Duet AI-e-mailschrijver bereidt concepten voor voor uw belangrijkste e-mails. Het leert uw toon en schrijfstijl.",
+        "ariaLabel": "E-mailconcepten die op u lijken",
+        "mockCopy": {
+          "draftedColdEmail": "Ik heb een koude e-mail opgesteld, gepersonaliseerd voor John",
+          "sampleText": "AI-pijplijnen zijn essentieel voor het bouwen van robuuste, schaalbare en efficiënte AI-systemen.",
+          "readyToSend": "Klaar om te verzenden?",
+          "remindFollowUp": "Herinner me eraan om verder te gaan."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Directe samenvattingen en actiepunten",
+        "description": "Haal binnen enkele seconden de TL;DR en actie-items uit uw e-mailinhoud. Geen romans meer lezen in uw inbox.",
+        "ariaLabel": "Directe samenvattingen en actiepunten",
+        "mockCopy": {
+          "sentencePrefix": "Ik stel wij voor ",
+          "sentenceHighlight": "volgende week ontmoeten",
+          "sentenceSuffix": "?",
+          "actionTitle": "Nieuw actie-item",
+          "actionLead": "Ik heb deze vrije plaatsen in je agenda gevonden",
+          "slots": [
+            "Dinsdag, om 10.00 uur",
+            "Donderdag, om 14.00 uur",
+            "Vrijdag, 9.00 uur"
+          ],
+          "secondaryButton": "Vind meer",
+          "primaryButton": "Verzenden"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Intelligente herinneringen",
+        "description": "Stel het in en vergeet het. Duet AI onthoudt om op te volgen als anderen niet reageren, zodat er niets door de kieren valt.",
+        "ariaLabel": "Intelligente herinneringen",
+        "mockCopy": {
+          "header": "AI-aangedreven slimme herinneringen",
+          "stats": [
+            {
+              "label": "Vervolg",
+              "value": "12",
+              "unit": "e-mails"
+            },
+            {
+              "label": "Om te antwoorden",
+              "value": "2",
+              "unit": "e-mails"
+            },
+            {
+              "label": "Voltooid",
+              "value": "3",
+              "unit": "actiepunten"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Schrijfopdrachten voltooien",
+              "time": "2 dagen geleden"
+            },
+            {
+              "title": "Project-integratie",
+              "time": "12 uur geleden"
+            }
+          ],
+          "actions": [
+            "Volg",
+            "Opnieuw plannen?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Focus op wat er toe doet",
+        "description": "Slimme categorisatie brengt uw belangrijkste e-mails als eerste naar voren en categoriseert e-mails in onderwerpen. E-mailbeheer was nog nooit zo eenvoudig.",
+        "ariaLabel": "Focus op wat belangrijk is",
+        "mockCopy": {
+          "analyzing": "ANALYSEREN"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "E-mailorganisatie en slimme inboxcategorisering",
+    "badge": "Organisatie",
+    "title": "Duet organiseert uw inbox",
+    "subtitle": "Automatische categorisatie filtert ruis en brengt naar voren wat belangrijk is. Zie direct wat actie nodig heeft, wat ter informatie is en wat kan wachten.",
+    "windowTitle": "Postvak IN",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "Gisteren",
+      "20 december"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "Verzoek om budgetcontrole voor het vierde kwartaal",
+        "preview": "De definitieve cijfers zijn bijgevoegd. Gelieve te beoordelen door EOD.",
+        "pill": "Actie nodig"
+      },
+      {
+        "from": "Michaël Torres",
+        "avatarLetter": "M",
+        "subject": "Teamstandup morgen om 10.00 uur",
+        "pill": "Vergadering"
+      },
+      {
+        "from": "Ontwerpteam",
+        "avatarLetter": "D",
+        "subject": "Nieuwe merkrichtlijnen gepubliceerd",
+        "pill": "Ter info"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Je maandafschrift is klaar",
+        "pill": "Promoties"
+      },
+      {
+        "from": "Nieuwsbrief",
+        "subject": "Wekelijkse samenvatting",
+        "pill": "Promoties"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI-e-mail opstellen en antwoorden genereren",
+    "badge": "Opstellen",
+    "title": "Duet tocht in je stem",
+    "subtitle": "Duet leert hoe u antwoorden schrijft en opstelt die bij uw toon passen. Controleer, pas indien nodig aan en verzend binnen enkele seconden.",
+    "windowTitle": "Nieuw bericht",
+    "fieldLabels": {
+      "to": "Aan:",
+      "subject": "Onderwerp:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Snelle synchronisatie deze week?",
+      "originalFrom": "Alex Rivera schreef:",
+      "originalText": "Hé! Ik zou graag op de hoogte blijven van de wijzigingen in de routekaart. Ben jij deze week vrij voor een gesprek van 30 minuten? Laat me weten wat voor jou werkt.",
+      "badge": "Automatisch opgesteld",
+      "lines": [
+        "Hé Alex!",
+        "Zou graag synchroniseren op de routekaart. Ik ben vrij van donderdag 14.00 tot 16.00 uur of vrijdagochtend – beide werken prima voor mij.",
+        "Laat me weten wat het beste bij je past, dan stuur ik je een uitnodiging.",
+        "Bedankt!  "
+      ],
+      "highlightText": "Ik ben vrij van donderdag 14.00 tot 16.00 uur of vrijdagochtend",
+      "actions": [
+        "Verzenden",
+        "Bewerken"
+      ],
+      "tooltipTitle": "Gepersonaliseerde schets",
+      "tooltipFeatures": [
+        "Kent uw agenda",
+        "Tochten in je stem",
+        "Kent de context via het geheugen",
+        "Leert in de loop van de tijd"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI e-mailintelligentie en assistent",
+    "badge": "Intelligentie",
+    "title": "Vraag alles over uw e-mail",
+    "subtitle": "Vraag Duet om e-mails te vinden, uw agenda te bekijken of een antwoord op te stellen. Het begrijpt uw ​​inbox en antwoordt onmiddellijk.",
+    "windowTitle": "Duet Agent",
+    "onlineLabel": "Online",
+    "initialUserMessage": "Kunt u de Stripe factuur vinden die door Accounting is verzonden?",
+    "processingText": "Postvak IN zoeken...",
+    "foundHeader": "2 e-mails gevonden van Stripe",
+    "foundBody": "Ik vond de bon voor $ 29,00 USD van 24 oktober.",
+    "attachment": {
+      "fileName": "factuur_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Stel een antwoord op"
+      },
+      {
+        "action": "calendar",
+        "label": "Vind tijd om elkaar te ontmoeten"
+      }
+    ],
+    "inputPlaceholder": "Vraag alles...",
+    "dynamicResponses": {
+      "processingDefault": "Wordt verwerkt...",
+      "processingDraft": "Concept genereren...",
+      "processingCalendar": "Beschikbaarheid controleren...",
+      "draftIntro": "Hier is een conceptantwoord op Accounting:",
+      "draftHeader": "Concept: accounting@company.com",
+      "draftLines": [
+        "Hallo team,",
+        "Bijgevoegd vindt u de Stripe factuur voor oktober ($29,00).",
+        "Laat het me weten als je nog iets nodig hebt.",
+        "Beste,"
+      ],
+      "draftActions": [
+        "E-mail verzenden",
+        "Bewerken"
+      ],
+      "calendarIntro": "Morgen zijn er 3 plekken open:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "30 min"
+        },
+        {
+          "time": "2:00 PM",
+          "duration": "30 min"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Ook het antwoord opstellen?",
+        "calendarAfterDraft": "Ook een vervolgafspraak inplannen?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Getuigenissen",
+    "scrollingAriaLabel": "Getuigenissen scrollen",
+    "eyebrow": "Getuigenissen",
+    "title": "Geliefd bij drukke professionals",
+    "subtitle": "Echte mensen. Echte inbox wint.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Freelancer",
+        "quote": "Elke cent waard. De tijd die ik bespaar op e-mail levert Duet Mail 10x meer op. Ik kan me niet voorstellen dat ik nu zonder zou werken.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michaël R.",
+        "title": "Verkoopdirecteur",
+        "quote": "De directe samenvattingen van lange e-mailthreads zijn pure magie en zeer gebruiksvriendelijk. Mijn klanten denken dat ik bovenmenselijk ben.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Ondernemer",
+        "quote": "Was sceptisch over het gebruik van kunstmatige intelligentie voor mijn e-mails. Nu is het alsof je een briljante uitvoerend assistent hebt. Kan me niet voorstellen dat ik terugga.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Adviseur",
+        "quote": "Als consultant telt elke minuut. Duet Mail bespaart mij niet alleen tijd, het maakt mijn e-mailcommunicatie ook scherper.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sara T.",
+        "title": "Marketingdirecteur",
+        "quote": "Eindelijk een AI-mailassistent die daadwerkelijk leert hoe ik schrijf. De directe antwoorden zijn zo treffend dat mijn team dacht dat ik om middernacht aan het werk was.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Prijzen",
+    "eyebrow": "Prijzen",
+    "heading": "Eenvoudige prijzen, krachtige inbox",
+    "subheading": "Begin gratis, upgrade op elk moment. Annuleer wanneer dan ook.",
+    "billingLegend": "Factureringscadans",
+    "billingAnnual": "Jaarlijks",
+    "billingMonthly": "Maandelijks",
+    "savingsTag": "Bespaar 33%",
+    "priceCadence": "/maand",
+    "perUserSuffix": "/gebruiker",
+    "annualBillingSuffix": "(jaarlijks gefactureerd)",
+    "trustItems": [
+      "Veilig afrekenen via Stripe",
+      "Annuleer op elk gewenst moment"
+    ],
+    "plans": [
+      {
+        "name": "Basis",
+        "description": "Voor iedereen die nieuwsgierig is naar hoe een slimmere inbox aanvoelt. Geen verplichting vereist.",
+        "priceLabel": "Free",
+        "features": [
+          {
+            "title": "Directe samenvattingen",
+            "description": "Krijg de essentie van elk onderwerp"
+          },
+          {
+            "title": "AI-concepten",
+            "description": "Een voorproefje van antwoorden in je stem"
+          },
+          {
+            "title": "Slimme inbox",
+            "description": "Basisorganisatie om te beginnen"
+          },
+          {
+            "title": "Duet Assistent",
+            "description": "Probeer de AI-assistent"
+          }
+        ],
+        "ctaLabel": "Kies Gmail of Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "Gratis proefperiode van 14 dagen",
+        "description": "Voor professionals die diepere automatisering, integraties en een inbox willen die echt weet hoe je werkt.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Slimme inbox",
+            "description": "E-mails automatisch gesorteerd in slimme categorieën",
+            "highlight": true
+          },
+          {
+            "title": "AI-concepten",
+            "description": "Antwoorden geschreven met uw stem, klaar om te verzenden",
+            "highlight": true
+          },
+          {
+            "title": "Duet Assistent",
+            "description": "Chat om te vinden, op te stellen, te organiseren en meer",
+            "highlight": true
+          },
+          {
+            "title": "Agenda-integratie",
+            "description": "Plan, bekijk en beheer evenementen vanuit uw inbox"
+          },
+          {
+            "title": "Directe samenvattingen",
+            "description": "Krijg de essentie van elke discussie of bijlage"
+          },
+          {
+            "title": "Slimme herinneringen",
+            "description": "Follow-ups komen automatisch naar boven, zodat er niets uitglijdt"
+          },
+          {
+            "title": "Prioritaire ondersteuning",
+            "description": "Echte mensen, snelle reacties"
+          }
+        ],
+        "ctaLabel": "Kies Gmail of Outlook",
+        "featured": true
+      },
+      {
+        "name": "Onderneming",
+        "description": "Voor organisaties die schaalgrootte op ondernemingsniveau, speciale ondersteuning en aangepaste workflows nodig hebben. Beste voor teams van 50+.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Alles in Pro",
+            "description": "Alle functies inbegrepen"
+          },
+          {
+            "title": "Toegewijde ondersteuning",
+            "description": "Persoonlijke accountmanager"
+          },
+          {
+            "title": "Teamanalyse",
+            "description": "Inzichten in uw hele organisatie"
+          },
+          {
+            "title": "Gedeelde workflows",
+            "description": "Sjablonen en automatiseringen voor teams"
+          }
+        ],
+        "ctaLabel": "Neem contact op met de verkoop",
+        "ctaNote": "Aangepaste prijzen beschikbaar"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Veelgestelde vragen",
+    "eyebrow": "Veelgestelde vragen",
+    "headingPrefix": "Veelgestelde vragen, ",
+    "headingAccent": "beantwoord",
+    "contactDecorative": "?",
+    "contactLabel": "CONTACT",
+    "contactHeading": "Heeft u nog vragen?",
+    "contactCta": "Neem contact op →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "Veelgestelde vragen",
+    "expandLabel": "[+]",
+    "collapseLabel": "[-]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Hoe beschermt Duet Mail mijn e-mailgegevens?",
+        "answer": "Uw veiligheid is onze topprioriteit. We gebruiken OAuth 2.0 voor veilige authenticatie met zowel Google als Microsoft. E-mailinhoud wordt in rust versleuteld met behulp van versleuteling op veldniveau aan de clientzijde, en we volgen het principe van minimale privileges voor API-toegang. Voor onze Google-integratie ondergaan we de jaarlijkse CASA-beveiligingsbeoordeling van Google."
+      },
+      {
+        "question": "Hoe werkt de functie voor e-mailoverzichten?",
+        "answer": "Duet Mail maakt gebruik van geavanceerde AI om uw e-mailthreads te analyseren en een beknopt overzicht te genereren waarin de belangrijkste punten, beslissingen en actiepunten worden benadrukt. Dit helpt je snel de context te begrijpen zonder de hele thread te lezen."
+      },
+      {
+        "question": "Welke machtigingen heeft Duet Mail nodig?",
+        "answer": "Duet Mail vereist toegang tot uw e-mails om samenvattingen te geven, actie-items te extraheren, inhoud te genereren en uw e-mails te verzenden. Wij vragen alleen toestemmingen die wij absoluut nodig hebben. U kunt deze machtigingen op elk gewenst moment bekijken en intrekken in uw Google Account of Microsoft Accountinstellingen."
+      },
+      {
+        "question": "Wat is inbegrepen in de gratis proefperiode?",
+        "answer": "De gratis proefperiode van 14 dagen biedt volledige toegang tot alle Pro-functies: onbeperkte e-mailsamenvattingen, extractie van actie-items, AI-e-mailschrijver (zonder enige beperking e-mails en concepten genereren) en aangepaste e-mailsjablonen. Meld u aan met Google of Microsoft om tijd te besparen op e-mailbeheer."
+      },
+      {
+        "question": "Kan ik Duet Mail gebruiken met andere e-mailproviders?",
+        "answer": "Duet Mail ondersteunt Gmail, Google Workspace en Microsoft Outlook. Meld u aan met uw Google- of Microsoft-account om aan de slag te gaan."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Ga aan de slag",
+    "headline": "Krijg 4 uur terug.\nElke week.",
+    "subline": "Sluit u aan bij de professionals die hun dag helder beginnen, en niet in chaos. Je gratis proefperiode wacht.",
+    "primaryCta": "Begin met Gmail",
+    "secondaryCta": "Begin met Outlook",
+    "note": "Gratis proefperiode van 14 dagen · Annuleer op elk moment",
+    "trustItems": [
+      "Google CASA-beoordeeld",
+      "Versleuteld in rust",
+      "VeiligOAuth2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Voettekst van de site",
+    "brandIconAlt": "Duet Mail-pictogram",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — De AI-e-mailassistent waarmee u elke week uren bespaart",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Ontdek",
+        "links": [
+          {
+            "label": "Organisatie",
+            "href": "/#organization"
+          },
+          {
+            "label": "Opstellen",
+            "href": "/#drafting"
+          },
+          {
+            "label": "Intelligentie",
+            "href": "/#intelligence"
+          },
+          {
+            "label": "Chrome-extensie",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Klanten",
+        "links": [
+          {
+            "label": "Prijzen",
+            "href": "/#pricing"
+          },
+          {
+            "label": "Getuigenissen",
+            "href": "/#testimonials"
+          },
+          {
+            "label": "Veelgestelde vragen",
+            "href": "/#faq"
+          }
+        ]
+      },
+      {
+        "title": "Legaal",
+        "links": [
+          {
+            "label": "Privacy",
+            "href": "/nl/privacy"
+          },
+          {
+            "label": "Voorwaarden",
+            "href": "/nl/terms"
+          },
+          {
+            "label": "Koekjes",
+            "href": "/nl/cookies"
+          },
+          {
+            "label": "Disclaimer",
+            "href": "/nl/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Verbinden",
+        "links": [
+          {
+            "label": "Bloggen",
+            "href": "/nl/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup-faam",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Rendement op investering",
+    "label": "De wiskunde",
+    "narrativeTemplate": "Met{pricePerBooking}per{bookingUnit}verliest u slechts{lostPerMonth}door langzame antwoorden =",
+    "lossSuffix": "/mo weg",
+    "dividerLabel": "versus",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI-e-mailassistent voor Gmail en Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Klantenondersteuning",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "AI-e-mailassistent voor Gmail en Outlook die automatisch e-mails samenvat, antwoorden in uw stem opstelt en uw inbox organiseert om elke week uren te besparen.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Slimme e-mailorganisatie en categorisering",
+      "Door AI aangedreven e-mail opstellen met uw stem",
+      "Intelligente e-mailassistent met agenda-integratie",
+      "Automatische e-mailsamenvattingen en actiepunten",
+      "Slimme herinneringen voor follow-ups"
+    ],
+    "offers": [
+      {
+        "name": "Basisplan",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Gratis abonnement met directe samenvattingen, AI-concepten en slimme inbox"
+      },
+      {
+        "name": "Pro Plan",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Volledige toegang met slimme inbox-categorisatie, AI-concepten, assistent en agenda-integratie"
+      }
+    ],
+    "operatingSystem": "Web",
+    "browserRequirements": "Vereist JavaScript. Werkt met Gmail, Google Workspace en Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/nl",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Hoe beschermt Duet Mail mijn e-mailgegevens?",
+        "answer": "Uw veiligheid is onze topprioriteit. We gebruiken OAuth 2.0 voor veilige authenticatie met zowel Google als Microsoft. E-mailinhoud wordt in rust versleuteld met behulp van versleuteling op veldniveau aan de clientzijde, en we volgen het principe van minimale privileges voor API-toegang. Voor onze Google-integratie ondergaan we de jaarlijkse CASA-beveiligingsbeoordeling van Google."
+      },
+      {
+        "question": "Hoe werkt de functie voor e-mailoverzichten?",
+        "answer": "Duet Mail maakt gebruik van geavanceerde AI om uw e-mailthreads te analyseren en een beknopt overzicht te genereren waarin de belangrijkste punten, beslissingen en actiepunten worden benadrukt. Dit helpt je snel de context te begrijpen zonder de hele thread te lezen."
+      },
+      {
+        "question": "Welke machtigingen heeft Duet Mail nodig?",
+        "answer": "Duet Mail vereist toegang tot uw e-mails om samenvattingen te geven, actie-items te extraheren, inhoud te genereren en uw e-mails te verzenden. Wij vragen alleen toestemmingen die wij absoluut nodig hebben. U kunt deze machtigingen op elk gewenst moment bekijken en intrekken in uw Google Account of Microsoft Accountinstellingen."
+      },
+      {
+        "question": "Wat is inbegrepen in de gratis proefperiode?",
+        "answer": "De gratis proefperiode van 14 dagen biedt volledige toegang tot alle Pro-functies: onbeperkte e-mailsamenvattingen, extractie van actie-items, AI-e-mailschrijver (zonder enige beperking e-mails en concepten genereren) en aangepaste e-mailsjablonen. Meld u aan met Google of Microsoft om tijd te besparen op e-mailbeheer."
+      },
+      {
+        "question": "Kan ik Duet Mail gebruiken met andere e-mailproviders?",
+        "answer": "Duet Mail ondersteunt Gmail, Google Workspace en Microsoft Outlook. Meld u aan met uw Google- of Microsoft-account om aan de slag te gaan."
+      }
+    ]
+  }
+}

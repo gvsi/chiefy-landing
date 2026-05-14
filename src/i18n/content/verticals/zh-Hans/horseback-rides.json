@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail 骑马和步道指南 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助越野骑行运营商即时回复预订电子邮件——甚至在车座上也是如此。 AI-起草回复，其中包含您的定价、骑手要求和声音。",
+  "heroBadge": "300 多名步道向导信赖",
+  "heroHeadline": "您旅途中的电子邮件助手",
+  "heroSubline": "Duet 会学习您的骑行类型、价格、骑手要求和步道条件，然后起草电子邮件回复，让您不再因为回复太慢而错失预订。",
+  "inboxEmails": [
+    {
+      "from": "杰西卡·T。",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Group booking for 6 — Saturday morning?",
+      "preview": "嗨！我们是一个 6 口之家（2 名成人，4 名 8-14 岁的孩子），很想在本周六早上预订一次越野骑行。您有空吗？一个人的价格是多少？",
+      "pill": "回应",
+      "pillColor": "red"
+    },
+    {
+      "from": "布莱恩·L。",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "体重限制问题",
+      "preview": "嘿，我有兴趣预订行程，但想先询问一下您的体重要求。我大约 260 磅——这会是一个问题吗？",
+      "pill": "问题",
+      "pillColor": "amber"
+    },
+    {
+      "from": "艾米和丹·W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Sunset ride for anniversary?",
+      "preview": "下周末我们将庆祝成立 10 周年，并在 Instagram 看到了您的日落骑行。周五晚上有空吗？有什么特别的套餐吗...",
+      "pill": "预订",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "对您的列表的新评论",
+      "preview": "一位旅行者最近评价了您的商家。看看他们怎么说并回应......",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "嘿杰西卡！周六早上 6 点开放。我们的越野骑行路线为 $100/person，穿越山谷约 90 分钟。欢迎 8 岁以上的孩子 - 你们所有人都可以出发。需要穿脚趾鞋，我们提供头盔。要我为您预订 9 AM 的行程吗？",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "骑",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "一次节省的团体乘车费用可支付两年多的Duet。"
+  },
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到预订请求，其次看到乘客问题，而永远不会出现噪音。不再错过隐藏在 TripAdvisor 警报下的群组查询。",
+  "draftSubtitle": "Duet 了解您的乘车类型、价格和要求。当收到预订查询时，它会起草一份完整的回复，其中包含路线详细信息、价格和着装。您审阅并发送。",
+  "agentSubtitle": "“这个周末有开放的游乐设施吗？” “起草一份给杰西卡的回复，周六有空。” Duet 了解您的收件箱和日历 - 只需询问即可。",
+  "categorizationEmails": [
+    {
+      "from": "杰西卡·T。",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "周六早上 6 人团体预订？",
+      "preview": "我们一家六口想要预订越野骑行......",
+      "pill": "立即回复",
+      "pillColor": "red"
+    },
+    {
+      "from": "艾米·W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "回复：日落骑行已确认 - 周五5:30 PM",
+      "pill": "已预订",
+      "pillColor": "blue"
+    },
+    {
+      "from": "布莱恩·L。",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "体重限制和经验要求？",
+      "pill": "问题",
+      "pillColor": "amber"
+    },
+    {
+      "from": "维阿托",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "您的每周预订摘要",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "拖拉机供应",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "春季促销 — 饲料和大头钉 15% 折扣",
+      "pill": "促销",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "回复：周六早上 6 人团体预订？",
+    "originalFrom": "杰西卡·T.写道：",
+    "originalText": "嗨！我们是一个 6 口之家（2 名成人，4 名 8-14 岁的孩子），很想在本周六早上预订一次越野骑行。您有空吗？一个人的价格是多少？",
+    "lines": [
+      "嘿杰西卡！",
+      "周六早上 6 点开放。步道骑行费用为 $100/person，穿越山谷约 90 分钟。欢迎 8 岁及以上的儿童，因此您的整个团队都可以出发。",
+      "需要穿不露趾的鞋子——靴子是最好的。我们提供头盔，并根据体型和经验为每位骑手匹配马匹。无需事先有骑行经验。",
+      "想让我锁定你 9 AM 的行程吗？"
+    ],
+    "highlightText": "周六早上 6 点开放。越野骑行费用为 $100/person",
+    "tooltipFeatures": [
+      "了解您的定价和供货情况",
+      "你的声音中的草稿",
+      "自动包含骑手要求",
+      "随着时间的推移学习"
+    ]
+  },
+  "agent": {
+    "userMessage": "这个周末有开放的游乐设施吗？另外，天气怎么样？",
+    "agentResponse": "根据您的日历，周六开放时间为 9 AM 和 2 PM，周日开放时间为 10 AM。周六预计气温为 72°F，天气晴朗，是完美的骑行天气。周日下午有 40% 的机会下雨，因此上午时段是更安全的选择。希望我在这些时间起草对任何悬而未决的询问的答复吗？",
+    "followUp": "起草一份给杰西卡的回复，说明周六有空",
+    "followUpResponse": "完成！我起草了一份给 Jessica 的回复，确认周六 9 AM 为 6 名骑手在 $100/person 服务。它包括您的标准骑手要求和着装。准备审查并发送。"
+  },
+  "testimonialsTitle": "深受越野骑行运营商的喜爱",
+  "testimonials": [
+    {
+      "name": "杰克·H.",
+      "title": "牧场主和步道指南，MT",
+      "quote": "我每天要在路上走 6 个小时，而且没有手机信号。当我回来回复时，一半的人已经在其他地方预订了。现在Duet起草包含我的定价和乘车详细信息的回复——我只是在回到谷仓时查看并发送。",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "玛丽亚·C.",
+      "title": "骑马旅游经营者，AZ",
+      "quote": "我们收到数十封电子邮件询问同样的问题——体重限制、穿什么、年龄要求。 Duet 处理所有这一切，而且回复听起来和我一模一样。我的客人不知道这是AI。",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "泰勒·S。",
+      "title": "越野骑行指南，CO",
+      "quote": "旺季快要杀了我。除了跑步骑行之外，每天还会发送 30 多封电子邮件。 Duet 从噪音中对预订请求进行排序，并起草回复，其中包括所有内容 - 价格、要携带的物品、批次。我又回到了夜晚。",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "雷切尔·M。",
+      "title": "Riding Instructor & Booking Manager, TX",
+      "quote": "我们提供日落骑行、早晨骑行和私人课程——每种都有不同的价格和要求。 Duet learned all of it in a week.它每次都会为正确的骑行类型起草正确的回复。",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "黛安·K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "敏感电子邮件是最糟糕的——有人询问他们是否太重，或者他们的孩子是否足够大。 Duet 像我一样小心地对待那些人。 Professional, kind, and accurate.仅此一点就值得了。",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Spend the day with the horses,\n不在您的收件箱中。",
+  "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
+  "verticalFaqs": [
+    {
+      "question": "Duet 如何处理有关体重或经验要求的敏感问题？",
+      "answer": "Duet 了解您的具体政策并反映您的语气。当有人询问体重限制或经验要求时，它会专业而热情地回应——分享他们需要的信息，而不会让他们感到尴尬。您一旦定下基调，Duet就会始终如一地遵循，让每位客人都感到受到尊重。"
+    },
+    {
+      "question": "Duet可以处理不同乘客需求的团体预订吗？",
+      "answer": "是的。 Duet 了解您的骑行类型、团体规模、最低年龄以及任何骑手特定要求。当一个家庭或团体通过电子邮件发送有关预订的信息时，它会起草一份回复，其中涵盖整个团体的价格、每个乘客需要了解的内容以及可用的时段。您审阅并发送——无需来回。"
+    }
+  ],
+  "pricingNote": "对于 6 人团体，按 $100/person 计算，节省的一次乘车费用可支付两年多的 Pro。"
+}

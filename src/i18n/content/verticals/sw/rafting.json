@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail kwa Rafting & Kayak Outfitters | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail husaidia waelekezi wa kuweka rafting na wavaaji wa kayak kujibu maswali ya safari papo hapo - hata kutoka mtoni. Majibu yaliyoandaliwa na AI pamoja na maelezo ya safari yako, bei na sauti.",
+  "heroBadge": "Inaaminiwa na viongozi 200+ wa mito",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa mtoni",
+  "heroSubline": "Duet hujifunza aina za safari, bei na orodha za gia - kisha huandaa majibu ya maswali ya kuweka nafasi ili wateja wapate majibu unapoendesha kasi.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Safari ya siku nzima ya raft tarehe 6 Agosti 9?",
+      "preview": "Habari! Sisi ni familia ya watu 6 waliotembelea mwezi wa Agosti na tunataka kuhifadhi safari ya siku nzima ya kupanda rafu tarehe 9. Ni bei gani kwa kila mtu na tunahitaji kiwango gani cha uzoefu?",
+      "pill": "Ili Kujibu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Safari ya siku nyingi - ni pamoja na nini?",
+      "preview": "Sisi ni kundi la watu 4 wanaoangalia msafara wako wa siku 3. Je, milo, vifaa vya kupigia kambi, na mifuko kavu imejumuishwa au tunahitaji kuleta vyetu...",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel & Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Watoto wenye umri wa miaka 8 na 10 - wako salama vya kutosha?",
+      "preview": "Tungependa kufanya safari ya nusu siku lakini watoto wetu wana miaka 8 na 10. Je, sehemu ya Daraja la II inafaa kwa umri wao? Ni nini kiwango cha chini...",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Maoni mapya ya tangazo lako",
+      "preview": "Msafiri alikagua biashara yako hivi majuzi. Angalia walichosema na ujibu...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Habari Jennifer! Tarehe 9 Agosti imefunguliwa kwa saa 6. Safari za siku nzima ni $150/mtu na huenda kwa takriban saa 7 — tutafika saa 8:30 AM. Hakuna uzoefu unaohitajika, viongozi wetu hushughulikia kila kitu. PFD, helmeti, mifuko kavu, na chakula cha mchana kando ya mto vyote vimejumuishwa. Lete tu mafuta ya kuzuia jua, viatu vya maji, na nguo huna shida kupata mvua. Unataka nihifadhi matangazo yako?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "mtu",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Nafasi mbili zilizohifadhiwa hulipa mwaka mzima wa Duet."
+  },
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili maswali ya safari yaonekane kwanza, maswali ya gia ya pili, na kelele ya matangazo kutoweka. Hakuna tena kukosa nafasi ya kikundi iliyozikwa chini ya arifa za TripAdvisor.",
+  "draftSubtitle": "Duet hujifunza aina za safari zako, madarasa ya kasi, orodha za gia na sera ya kughairi. Uchunguzi wa kuhifadhi unapofika, huandaa jibu kamili na kila kitu anachohitaji mteja. Unakagua na kutuma.",
+  "agentSubtitle": "\"Maeneo yoyote ya wazi siku kamili ya Jumamosi?\" \"Rasimu ya jibu kwa Jennifer pamoja na upatikanaji.\" Duet anajua kikasha chako na ratiba - uliza tu.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Safari ya siku nzima ya raft tarehe 6 Agosti 9?",
+      "preview": "Sisi ni familia ya watu 6 waliotembelea mwezi wa Agosti na tunataka kuweka nafasi...",
+      "pill": "Jibu Sasa",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: msafara wa siku 3 umethibitishwa - Agosti 15",
+      "pill": "Imehifadhiwa",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Je! watoto wa miaka 8 na 10 wako sawa kwa Darasa la II?",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Muhtasari wa nafasi yako ya kila wiki",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Uuzaji wa mwisho wa msimu - punguzo la 30% la suti kavu",
+      "pill": "Matangazo",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Re: Safari ya siku nzima ya raft kwa 6 Agosti 9?",
+    "originalFrom": "Jennifer W. aliandika:",
+    "originalText": "Habari! Sisi ni familia ya watu 6 waliotembelea mwezi wa Agosti na tunataka kuhifadhi safari ya siku nzima ya kupanda rafu tarehe 9. Ni bei gani kwa kila mtu na tunahitaji kiwango gani cha uzoefu?",
+    "lines": [
+      "Habari Jennifer!",
+      "Tarehe 9 Agosti iko wazi kwa watu 6. Safari za siku nzima ni $150/mtu na huenda kwa takriban saa 7 - tutakutana saa 8:30 asubuhi.",
+      "Hakuna uzoefu unaohitajika. PFD, helmeti, mifuko kavu, na chakula cha mchana kando ya mto vyote vimejumuishwa - leta tu mafuta ya jua na viatu vya maji.",
+      "Unataka nihifadhi matangazo yako?"
+    ],
+    "highlightText": "Tarehe 9 Agosti iko wazi kwa 6. Safari za siku nzima ni $150/mtu",
+    "tooltipFeatures": [
+      "Anajua aina na bei za safari zako",
+      "Rasimu katika sauti yako",
+      "Inajumuisha orodha za gia kiotomatiki",
+      "Anajifunza kwa muda"
+    ]
+  },
+  "agent": {
+    "userMessage": "Maeneo yoyote ya wazi kwenye safari ya siku nzima ya Jumamosi?",
+    "agentResponse": "Siku nzima ya Jumamosi ina nafasi 4 kati ya 10 zilizosalia. Pia una kukimbia kwa nusu siku asubuhi ambako umeweka nafasi kamili na kuondoka kwa siku nyingi Jumapili na maeneo 2 yamefunguliwa. Je, ungependa niandike jibu la maswali yoyote yanayosubiri kuhusu upatikanaji wa Jumamosi?",
+    "followUp": "Rasimu ya jibu kwa Jennifer na upatikanaji wa Agosti 9",
+    "followUpResponse": "Imekamilika! Niliandaa jibu kwa Jennifer nikithibitisha tarehe 9 Agosti kwa wageni 6 kwa $150/mtu. Inajumuisha maelezo yako ya kawaida ya safari, orodha ya gia na eneo la mkutano. Tayari kukagua na kutuma."
+  },
+  "testimonialsTitle": "Inapendwa na viongozi wa mito na watengenezaji wa nguo",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Rafting Outfitter, CO",
+      "quote": "Wakati wa msimu wa kilele mimi niko mtoni siku 6 kwa wiki. Kufikia wakati niliporudi kwa barua pepe, nusu ya vikundi vilikuwa vimeweka nafasi na mtu mwingine. Sasa rasimu za Duet hujibu pamoja na maelezo ya safari na bei nikiwa kwenye kuweka.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Ziara za Kayak na SUP, AU",
+      "quote": "Kila mteja anauliza maswali matano sawa - bei, nini cha kuleta, kiwango cha ujuzi, ukubwa wa kikundi, sera ya kughairi. Duet alijifunza yote katika wiki ya kwanza. Nilitoka kwa saa moja ya barua pepe kila usiku hadi dakika tano za kukagua rasimu.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Mwongozo wa Safari wa Siku nyingi, AK",
+      "quote": "Ninaendesha safari za siku 5 na huduma ya seli sifuri. Kabla ya Duet, kila swali lilikaa bila kujibiwa hadi niliporudi mjini. Sasa wateja wanapata jibu la kina ndani ya dakika chache na ninathibitisha nikitoka mtoni.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "Meneja wa Ofisi ya River Adventures, WV",
+      "quote": "Ninadhibiti uhifadhi wa waelekezi watatu katika aina nne za safari. Duet hupanga kila barua pepe kwa dharura na majibu ya rasimu kulingana na safari inayofaa, bei inayofaa, orodha sahihi ya gia. Ni kama kujipanga mwenyewe.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Whitewater Rafting Co., ID",
+      "quote": "Tulikuwa na mashaka AI inaweza kushughulikia barua pepe mahususi za rafting. Lakini ilichukua maelezo yetu ya Daraja la III dhidi ya Darasa la IV, viwango vya chini vya umri, hata sera yetu ya kutoka kwa kayak. Wateja wanafikiri wanazungumza nasi.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Tumia majira ya joto kwenye mto,\nsi kupata barua pepe.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
+  "verticalFaqs": [
+    {
+      "question": "Je, Duet hushughulikia bei maalum za safari na maswali ya safari ya siku nyingi?",
+      "answer": "Ndiyo. Duet hujifunza orodha yako kamili ya safari - kuelea kwa nusu siku, kasi ya siku nzima, safari za siku nyingi - pamoja na bei, kile kinachojumuishwa, viwango vya chini vya umri na viwango vya ugumu. Mtu anapouliza kuhusu safari ya siku 3 kwa 6, huandaa jibu kamili na maelezo sahihi. Unakagua, rekebisha ikihitajika na utume."
+    },
+    {
+      "question": "Siko kwenye gridi ya taifa kwa safari za siku nyingi. Je, Duet bado inafanya kazi?",
+      "answer": "Hilo ndilo tatizo ambalo Duet hutatua. Ukiwa mtoni bila ishara yoyote, rasimu za Duet hujibu kila swali linalokuja. Ukiwa tayari kupokea rasimu, rasimu zako zinasubiri - kagua tu na utume. Waelekezi wengi hutuambia kuwa inaondoa mrundikano waliokuwa wakikabiliana nao baada ya kila safari ya siku nyingi."
+    }
+  ],
+  "pricingNote": "Kwa $150/mtu, nafasi mbili zilizohifadhiwa hugharimu mwaka mzima wa Pro."
+}

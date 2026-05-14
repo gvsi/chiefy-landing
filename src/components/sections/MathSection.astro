@@ -1,16 +1,29 @@
 ---
+import { t, type Messages } from "../../i18n/messages/schema";
+
 type Props = {
     pricePerBooking: string;
     bookingUnit: string;
     lostPerMonth: string;
     monthlyLoss: string;
     punchline: string;
+    messages: Messages;
 };
 
-const { pricePerBooking, bookingUnit, lostPerMonth, monthlyLoss, punchline } = Astro.props;
+const {
+    pricePerBooking,
+    bookingUnit,
+    lostPerMonth,
+    monthlyLoss,
+    punchline,
+    messages,
+} = Astro.props;
+
+const narrativeTemplate = t(messages, "math.narrativeTemplate");
+const narrativeParts = narrativeTemplate.split(/(\{pricePerBooking\}|\{bookingUnit\}|\{lostPerMonth\})/g);
 ---
 
-<section class="math-section" aria-label="Return on investment" data-math-section>
+<section class="math-section" aria-label={t(messages, "math.aria")} data-math-section>
     <div class="math-outer">
         <div class="math-card">
             <div class="math-card__border" aria-hidden="true"></div>
@@ -18,27 +31,32 @@ const { pricePerBooking, bookingUnit, lostPerMonth, monthlyLoss, punchline } = A
             <div class="math-card__inner">
                 <div class="math-label">
                     <span class="math-label__dot" aria-hidden="true"></span>
-                    <span>The math</span>
+                    <span>{t(messages, "math.label")}</span>
                 </div>
 
                 <p class="math-narrative">
-                    At <strong>{pricePerBooking}</strong> per {bookingUnit}, losing just <strong>{lostPerMonth}</strong> to slow replies&nbsp;=
+                    {narrativeParts.map((part) => {
+                        if (part === "{pricePerBooking}") return <strong>{pricePerBooking}</strong>;
+                        if (part === "{bookingUnit}") return bookingUnit;
+                        if (part === "{lostPerMonth}") return <strong>{lostPerMonth}</strong>;
+                        return part;
+                    })}
                 </p>
 
                 <div class="math-loss">
                     <span class="math-loss__amount">{monthlyLoss}</span>
-                    <span class="math-loss__suffix">/mo gone</span>
+                    <span class="math-loss__suffix">{t(messages, "math.lossSuffix")}</span>
                 </div>
 
                 <div class="math-divider" aria-hidden="true">
                     <span class="math-divider__line"></span>
-                    <span class="math-divider__vs">vs</span>
+                    <span class="math-divider__vs">{t(messages, "math.vs")}</span>
                     <span class="math-divider__line"></span>
                 </div>
 
                 <div class="math-duet">
-                    <span class="math-duet__label">Duet</span>
-                    <span class="math-duet__price">$30/mo</span>
+                    <span class="math-duet__label">{t(messages, "math.duetLabel")}</span>
+                    <span class="math-duet__price">{t(messages, "math.duetPrice")}</span>
                 </div>
 
                 <p class="math-punchline">{punchline}</p>

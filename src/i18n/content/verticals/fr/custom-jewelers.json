@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail pour les bijoutiers sur mesure | Assistant email IA",
+  "metaDescription": "Duet Mail aide les bijoutiers sur mesure à répondre instantanément aux demandes de consultation, aux validations de design et aux questions sur les délais — même à l’établi. Des réponses rédigées par l’IA selon votre processus, vos tarifs et votre ton.",
+  "heroBadge": "Plébiscité par plus de 300 designers de bijoux",
+  "heroHeadline": "Votre assistant email pendant que vous êtes à l’établi",
+  "heroSubline": "Duet apprend votre processus de création, vos matériaux, vos tarifs et vos délais — puis rédige des réponses email pour que vous ne perdiez jamais un client sur mesure à cause d’une réponse trop lente.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Consultation pour une bague de fiançailles sur mesure ?",
+      "preview": "Bonjour ! Mon partenaire et moi recherchons une bague de fiançailles sur mesure. Nous avons un diamant de famille que nous aimerions utiliser. Avez-vous des disponibilités pour une consultation ce mois-ci ?",
+      "pill": "À répondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Objet : maquette 3D — peut-on ajuster le sertissage ?",
+      "preview": "Nous adorons le design global ! Mais pourrions-nous essayer un sertissage plus bas ? J’ai joint une photo du style que j’imagine. Aussi, passer au platine changerait-il le délai...",
+      "pill": "Révision",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Mise à jour du délai pour les alliances ?",
+      "preview": "Salut ! Je prends juste des nouvelles de nos alliances assorties. Le mariage a lieu le 18 mai et je veux m’assurer que tout est toujours dans les temps. Peux-tu envoyer une rapide mise à jour...",
+      "pill": "Statut",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nouvel avis sur votre vitrine",
+      "preview": "Un couple a récemment laissé un avis sur votre entreprise sur The Knot. Voyez ce qu’ils ont dit et répondez...",
+      "pill": "Pour info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Bonjour Rachel ! J’adorerais vous aider à concevoir une bague autour de votre diamant familial — c’est l’une de mes activités préférées. J’ai des créneaux mardi et jeudi après-midi ce mois-ci. Apportez la pierre et quelques photos d’inspiration. Les consultations durent environ une heure et sans engagement. Voulez-vous que je vous réserve un créneau ?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "pièce sur mesure",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Un seul client conservé paie plus de quatre ans de Duet."
+  },
+  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes de consultation, ensuite les approbations de design, et jamais les newsletters fournisseurs. Fini les demandes à 5 000 $ perdues au milieu des promos des fournisseurs.",
+  "draftSubtitle": "Duet apprend votre processus, vos matériaux, vos tarifs et votre ton. Lorsqu’une demande de consultation arrive, il rédige une réponse complète avec vos disponibilités, ce qu’il faut apporter et le déroulement de votre processus. Vous relisez et envoyez.",
+  "agentSubtitle": "« Où en est-on avec la bague d’Amanda ? » « Rédige une mise à jour du calendrier pour James. » Duet connaît chaque échange client — il suffit de demander.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Consultation pour une bague de fiançailles sur mesure ?",
+      "preview": "Mon partenaire et moi sommes intéressés par une bague sur mesure...",
+      "pill": "Nouvelle demande",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re : maquette 3D v2 — parfait !",
+      "pill": "Approbation du design",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Les alliances sont prêtes — quand pouvons-nous venir les récupérer ?",
+      "pill": "Prête pour le retrait",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re : suite de la consultation — j’adore les croquis",
+      "pill": "Consultation",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Supply",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Promo de printemps — 15 % de réduction sur les apprêts en platine",
+      "pill": "Fournisseur",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re : consultation pour une bague de fiançailles sur mesure ?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Bonjour ! Mon partenaire et moi sommes intéressés par une bague de fiançailles sur mesure. Nous avons un diamant de famille que nous aimerions utiliser. Avez-vous de la disponibilité pour une consultation ce mois-ci ?",
+    "lines": [
+      "Bonjour Rachel !",
+      "Je serais ravi de vous aider à concevoir quelque chose d’unique autour de votre diamant de famille. J’ai des disponibilités mardi et jeudi après-midi ce mois-ci.",
+      "Apportez la pierre et quelques photos d’inspiration — tableaux Pinterest, captures d’écran, tout est utile. Les consultations durent environ une heure et sans engagement.",
+      "Ensuite, le processus est généralement le suivant : croquis, maquette 3D, révisions, puis 3 à 4 semaines de fabrication. Voulez-vous que je vous réserve un créneau ?"
+    ],
+    "highlightText": "croquis, modèle 3D, révisions, puis 3 à 4 semaines de production",
+    "tooltipFeatures": [
+      "Connaît votre processus et votre calendrier",
+      "Rédige dans votre style",
+      "Inclut automatiquement les détails de la consultation",
+      "Apprend au fil du temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Où en sommes-nous avec la bague de fiançailles d'Amanda ?",
+    "agentResponse": "Amanda a approuvé le modèle 3D (v2) le 14 février. Vous avez confirmé le début de la production le 16 février avec un délai estimé de 3 semaines. La livraison est donc prévue autour du 9 mars. Son dernier e-mail demandait des options de gravure — il est toujours sans réponse. Vous voulez que je rédige une réponse ?",
+    "followUp": "Rédige une mise à jour du calendrier pour James au sujet des alliances",
+    "followUpResponse": "C'est fait ! J'ai rédigé une réponse à James confirmant que ses alliances assorties sont dans la phase de polissage final et seront prêtes à être retirées le vendredi 7 mars — bien avant son mariage du 18 mai. Prêt à relire et à envoyer."
+  },
+  "testimonialsTitle": "Adoré par les créateurs de bijoux",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Créatrice de bijoux sur mesure, LA",
+      "quote": "Chaque pièce sur mesure génère 10 à 15 e-mails sur plusieurs semaines. Multipliez cela par 8 clients actifs et j'étais débordée. Duet rédige les réponses aux mises à jour de design, les confirmations de consultation, les réponses sur les délais — tout dans mon style. Je relis entre deux coulées et j'envoie.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Orfèvre et propriétaire de studio, Brooklyn",
+      "quote": "J'ai perdu une commande de bague de fiançailles à 7 000 $ parce que j'ai mis 3 jours à répondre — le couple est allé voir quelqu'un qui a répondu en 2 heures. Depuis Duet, mon délai de réponse est inférieur à 30 minutes. Cela ne s'est plus reproduit.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Bijoutier sur établi, Chicago",
+      "quote": "Je suis à l'établi 8 heures par jour, le chalumeau à la main. Je ne peux pas m'arrêter en plein soudage pour taper une réponse de consultation. Duet rédige tout pendant que je travaille — je jette un œil à mon téléphone, j'approuve, c'est fait.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Créatrice de bijoux de mariage, Austin",
+      "quote": "Pendant la saison des fiançailles, je reçois plus de 20 demandes de consultation par semaine. Duet a appris tout mon processus — matériaux, délais, niveaux de prix, quoi apporter. Il rédige des réponses que j'ai à peine besoin de modifier. Un vrai sauveur de novembre à février.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Spécialiste des bagues sur mesure, Portland",
+      "quote": "Les e-mails de révision 3D me prenaient mes soirées. Le client envoie ses commentaires, je rédige la mise à jour, aller-retour cinq fois. Maintenant, Duet gère les réponses courantes et je n'interviens que pour les choix de design. J'ai retrouvé mes soirées.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Passez vos journées à créer des bijoux,\npas à répondre à des e-mails à leur sujet.",
+  "ctaSubline": "Démarrez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
+  "verticalFaqs": [
+    {
+      "question": "Duet peut-il gérer les e-mails avec des photos de référence et des pièces jointes de conception ?",
+      "answer": "Oui. Duet voit le fil d’e-mails complet, y compris les pièces jointes, donc il comprend le contexte lorsqu’un client envoie des photos d’inspiration ou un retour sur le design. Il ne décrit pas les images, mais il sait qu’un client vient d’envoyer des photos de référence et rédige une réponse appropriée — en confirmant la réception, en posant des questions de précision sur le design, ou en indiquant les prochaines étapes selon votre flux de travail habituel."
+    },
+    {
+      "question": "Mes projets sur mesure ont de longs fils d’e-mails avec plus de 10 messages. Duet peut-il les suivre ?",
+      "answer": "C’est exactement là que Duet excelle. Il lit tout l’historique du fil — notes de consultation, révisions du design, choix des matériaux, mises à jour du calendrier — afin que chaque réponse rédigée dispose de tout le contexte. Quand un client demande « quel est le statut de ma bague ? » dans l’e-mail n°14, Duet sait de quelle bague il s’agit, à quelle étape elle en est, et rédige une mise à jour précise. Plus besoin de relire vous-même 3 mois d’e-mails."
+    }
+  ],
+  "pricingNote": "À $5,000/pièce, une seule commande gagnée rembourse plus de quatre ans de Pro."
+}

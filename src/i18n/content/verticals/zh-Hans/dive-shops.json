@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail 潜水店 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助潜水店老板和 PADI 教练即时回复认证查询、旅行预订和装备问题 - 即使在水下也是如此。",
+  "heroBadge": "受到 300 多家潜水运营商的信赖",
+  "heroHeadline": "您在水下时的电子邮件助手",
+  "heroSubline": "Duet 了解您的潜水地点、认证要求、定价和语音，然后起草电子邮件回复，这样您在船上时就不会丢失预订。",
+  "inboxEmails": [
+    {
+      "from": "雷切尔·T。",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "开放水域认证——可用性？",
+      "preview": "嗨！我将在八月的第一周来访，想要获得我的开放水域证书。需要多少天以及包含什么？",
+      "pill": "回应",
+      "pillColor": "red"
+    },
+    {
+      "from": "凯文和艾米 L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "周六 6 人一组进行 2 瓶潜水",
+      "preview": "我们有 6 名经过认证的潜水员，想要预订本周六早上的 2 罐潜水。你有空间吗？人均价格是多少...",
+      "pill": "预订",
+      "pillColor": "blue"
+    },
+    {
+      "from": "杰森·M。",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD 周末出租？",
+      "preview": "嘿，我已获得认证，但要轻装上阵。你们租用 BCD 和调节器吗？我周五到周日都需要它们......",
+      "pill": "问题",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI 电子学习",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "学生推荐：雷切尔·托雷斯",
+      "preview": "一名学生已完成在线学习并选择了您的潜水中心进行封闭水域和开放水域培训...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "嘿雷切尔！我们很乐意为您提供认证。开放水域课程为期 3 天，其中一天是泳池课程，两天是海洋潜水。所有装备均包含在内。八月是敞开的。想要我预订第一周的位置吗？",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "潜水",
+    "lostPerMonth": "3 trips (6 divers each)",
+    "monthlyLoss": "$2,700",
+    "punchline": "一次保存的团体潜水费用为一年的Duet。"
+  },
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到认证查询和潜水预订，其次看到装备问题，然后在您准备好时 PADI 发出提醒。不再错过埋在设备通讯中的团体预订。",
+  "draftSubtitle": "Duet 了解您的潜水地点、证书要求和定价。当收到预订查询时，它会起草一份完整的回复，其中包含旅行详细信息、包含的内容以及需要携带的物品。您审阅并发送。",
+  "agentSubtitle": "“周六有多少潜水员被预订了？” “起草一份给雷切尔的回复，说明开放水域的可用性。” Duet 了解您的收件箱和日程安排 - 只需询问即可。",
+  "categorizationEmails": [
+    {
+      "from": "雷切尔·T。",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "开放水域认证——可用性？",
+      "preview": "我将在八月的第一周访问并希望获得认证......",
+      "pill": "立即回复",
+      "pillColor": "red"
+    },
+    {
+      "from": "凯文·L。",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "回复：预订已确认 — 周六 2 罐潜水",
+      "pill": "已预订",
+      "pillColor": "blue"
+    },
+    {
+      "from": "杰森·M。",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD 这个周末还有调节器租赁吗？",
+      "pill": "问题",
+      "pillColor": "amber"
+    },
+    {
+      "from": "潜水伙伴",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "对您的房源进行新审核",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "潜水装备快递",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "夏季促销 — 潜水服 25% 折扣",
+      "pill": "促销",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "回复：开放水域认证——可用性？",
+    "originalFrom": "雷切尔·T.写道：",
+    "originalText": "嗨！我将在八月的第一周来访，想要获得我的开放水域证书。需要多少天以及包含什么？",
+    "lines": [
+      "嘿雷切尔！",
+      "我们很乐意为您提供认证！ PADI 开放水域课程为期 3 天 - 一次泳池课程和两次在我们的珊瑚礁上进行海洋潜水。所有装备均包含在内。",
+      "八月现在已经敞开了。大多数学生在周一开始，因此他们在周三完成。",
+      "要我预留位置吗？"
+    ],
+    "highlightText": "PADI 开放水域课程为期 3 天",
+    "tooltipFeatures": [
+      "了解您的课程和定价",
+      "你的声音中的草稿",
+      "自动包含证书要求",
+      "随着时间的推移学习"
+    ]
+  },
+  "agent": {
+    "userMessage": "周六预订了多少名潜水员？",
+    "agentResponse": "根据您的收件箱，您已确认 8 名潜水员参加周六早上的 2 次气瓶潜水——Kevin 的 6 人小组加上 2 名个人预订。您还有 Jason 提出的关于同一行程的装备租赁的待处理询问。要我起草回复吗？",
+    "followUp": "起草一份给 Rachel 的回复，其中包含开放水域课程的详细信息",
+    "followUpResponse": "完成！我起草了一份给 Rachel 的回复，确认为期 3 天的 PADI 开放水域课程，包括泳池和海洋潜水。它提到了八月份的可用性和您的标准装备包含政策。准备审查并发送。"
+  },
+  "testimonialsTitle": "深受潜水员喜爱",
+  "testimonials": [
+    {
+      "name": "迈克·T 船长",
+      "title": "潜水船船长，FL",
+      "quote": "我周五到周日进行乘船旅行，而商店周一只营业几个小时。当我在水下时，认证问题和旅行查询堆积如山。 Duet 草拟回复，其中包含我的定价、潜水地点以及所包含的内容 - 我在潜水之间查看它们。",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "珍和马克·S.",
+      "title": "PADI 潜水中心、HI",
+      "quote": "我们在同一条船上进行潜水、浮潜之旅和观鲸活动。电子邮件种类繁多——证书问题、团体预订、装备租赁、天气检查。 Duet 对所有内容进行排序，并起草知道区别的回复。绝对的救星。",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "杰克·R。",
+      "title": "沉船潜水包机，FL",
+      "quote": "我的一半电子邮件都是“沉船潜水需要什么认证？”另一半是“我需要自己的装备吗？” Duet 在自动驾驶仪上处理两者。我的回复时间从几小时缩短到几分钟。",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "弗朗西斯卡·D.",
+      "title": "潜水店老板CA",
+      "quote": "夏季期间，我们每天会收到 30 多封有关课程、旅行可用性和设备的电子邮件。我的预订逐渐被那些回复速度更快的商店抢走了。现在Duet起草了所有内容，我只需在课间点击发送即可。",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "莎拉·K.",
+      "title": "潜水教练和导游，NC",
+      "quote": "我上午教授课程，下午指导潜水。确实没有时间回复电子邮件。 Duet 了解了我的课程安排、定价，甚至我的取消政策。客户无法区分。",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "在水下度过你的日子，\n没有埋在你的收件箱里。",
+  "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
+  "verticalFaqs": [
+    {
+      "question": "Duet了解认证级别和课程要求吗？",
+      "answer": "是的。 Duet 学习您的特定课程 - 开放水域、高级、救援、潜水长 - 以及先决条件、持续时间、价格以及包含的内容。当有人询问如何获得认证时，Duet 会起草一份回复，其中包含正确的课程详细信息、时间表和后续步骤。您审阅并发送。"
+    },
+    {
+      "question": "我整天都在船上或水下。我可以通过手机使用Duet吗？",
+      "answer": "是的。 Duet 可与 Gmail 和 Outlook 配合使用，因此无论您的电子邮件有效，它都可以使用 — 包括您的手机。草稿会自动出现在您的收件箱中。在潜水之间或返回码头时，您只需轻轻一按即可查看并发送。大多数潜水经营者告诉我们，在旺季期间，这可以每天为他们节省 1-2 小时的电子邮件时间。"
+    }
+  ],
+  "pricingNote": "按 6 人团体每人 $150/dive 计算，挽回一次行程就能支付超过一年的 Pro。"
+}

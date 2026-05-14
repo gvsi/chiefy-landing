@@ -1,0 +1,171 @@
+{
+  "slug": "rafting",
+  "pageTitle": "Duet Mail Rafting ve Kayak Ekipmanları Tedarikçileri için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, rafting rehberlerinin ve kayak ekipmanı sağlayıcılarının gezi taleplerine anında, hatta nehirdeyken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, gezi ayrıntılarınızı, fiyatlandırmanızı ve sesinizi içerir.",
+  "heroBadge": "200'den fazla nehir rehberi tarafından güvenilen marka.",
+  "heroHeadline": "Nehirde olduğunuz süre boyunca e-posta asistanınız.",
+  "heroSubline": "Duet gezi türlerinizi, fiyatlandırmanızı ve ekipman listelerinizi öğrenir ve ardından rezervasyon sorularına yanıt taslakları hazırlar, böylece siz nehirde rafting yaparken müşteriler yanıt alabilirler.",
+  "inboxEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "9 Ağustos'ta 6 kişi için tam günlük rafting turu mu?",
+      "preview": "Merhaba! Ağustos ayında 6 kişilik bir aile olarak ziyarete geliyoruz ve 9'unda tam günlük bir rafting turu rezervasyonu yaptırmak istiyoruz. Kişi başı fiyat ne kadar ve hangi deneyim seviyesine ihtiyacımız var?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Çok günlük gezi — neler dahildir?",
+      "preview": "4 kişilik bir grubuz ve 3 günlük gezinize katılmak istiyoruz. Yemekler, kamp malzemeleri ve su geçirmez çantalar dahil mi yoksa kendimizi mi getirmemiz gerekiyor?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rachel ve Mark S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "8 ve 10 yaşındaki çocuklar için yeterince güvenli mi?",
+      "preview": "Yarım günlük geziye katılmayı çok isterdik ama çocuklarımız 8 ve 10 yaşında. II. sınıf bölümü onların yaşına uygun mu? Minimum gereksinimler nelerdir...?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Jennifer! 9 Ağustos'ta 6 kişilik yerimiz var. Tam günlük turlar kişi başı $150 ve yaklaşık 7 saat sürüyor - sabah 8:30'da suya giriyoruz. Deneyim gerekmiyor, rehberlerimiz her şeyi hallediyor. Can yelekleri, kasklar, su geçirmez çantalar ve nehir kenarında öğle yemeği fiyata dahil. Sadece güneş kremi, su ayakkabısı ve ıslanmasında sakınca olmayan kıyafetler getirin. Yerlerinizi ayırtmamı ister misiniz?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "kişi",
+    "lostPerMonth": "5",
+    "monthlyLoss": "$750",
+    "punchline": "Kaydedilen iki rezervasyon, Duet'ın bir yıllık ücretini karşılar."
+  },
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek seyahat sorgularının önce, ekipman sorularının ikinci sırada görünmesini ve promosyon gürültüsünün kaybolmasını sağlar. Artık TripAdvisor uyarılarının altında kalan grup rezervasyonlarını kaçırmayacaksınız.",
+  "draftSubtitle": "Duet gezi türlerinizi, akıntı sınıflarınızı, ekipman listelerinizi ve iptal politikanızı öğrenir. Bir rezervasyon talebi geldiğinde, müşterinin ihtiyaç duyduğu her şeyi içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Cumartesi günü tam gün için boş yer var mı?\" \"Jennifer'a müsaitlik durumunuzu belirten bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Jennifer W.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "9 Ağustos'ta 6 kişi için tam günlük rafting turu mu?",
+      "preview": "Ağustos ayında ziyaret edecek 6 kişilik bir aileyiz ve rezervasyon yaptırmak istiyoruz...",
+      "pill": "Şimdi Yanıt Verin",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian T.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Konu: 3 günlük keşif gezisi onaylandı — 15 Ağustos",
+      "pill": "Rezervasyon yapıldı",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Rachel S.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "8 ve 10 yaşındaki çocuklar 2. sınıf için uygun mu?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Flybook",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Haftalık rezervasyon özetiniz",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "NRS",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Sezon sonu indirimi — kuru dalış kıyafetlerinde %30 indirim",
+      "pill": "Promosyonlar",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jennifer.w@email.com",
+    "subject": "Konu: 9 Ağustos'ta 6 kişilik tam günlük rafting gezisi?",
+    "originalFrom": "Jennifer W. şunları yazdı:",
+    "originalText": "Merhaba! Ağustos ayında 6 kişilik bir aile olarak ziyarete geliyoruz ve 9'unda tam günlük bir rafting turu rezervasyonu yaptırmak istiyoruz. Kişi başı fiyat ne kadar ve hangi deneyim seviyesine ihtiyacımız var?",
+    "lines": [
+      "Merhaba Jennifer!",
+      "9 Ağustos için 6 kişilik kontenjan tamamen açık. Tam günlük geziler kişi başı $150 olup yaklaşık 7 saat sürmektedir - sabah 8:30'da başlangıç ​​noktasında buluşuyoruz.",
+      "Deneyim gerekmiyor. Can yelekleri, kasklar, su geçirmez çantalar ve nehir kenarında öğle yemeği fiyata dahildir; sadece güneş kremi ve su ayakkabılarınızı getirmeniz yeterli.",
+      "Sizin için yer ayırtmamı ister misiniz?"
+    ],
+    "highlightText": "9 Ağustos için 6 kişilik kontenjan tamamen açık. Tam günlük geziler kişi başı $150.",
+    "tooltipFeatures": [
+      "Seyahat türlerinizi ve fiyatlandırmayı biliyor.",
+      "Sesinizdeki taslaklar",
+      "Ekipman listelerini otomatik olarak içerir.",
+      "Zamanla öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Cumartesi günü yapılacak tam günlük gezi için boş yer var mı?",
+    "agentResponse": "Cumartesi günü tam gün programında 10 kişilik kontenjandan 4 yer kaldı. Ayrıca, tamamen dolu olan yarım günlük sabah programı ve Pazar günü için 2 kişilik boş kontenjan bulunan çok günlük bir program da mevcut. Cumartesi günü müsaitlik durumuyla ilgili bekleyen sorulara yanıt yazmamı ister misiniz?",
+    "followUp": "Jennifer'a 9 Ağustos'taki müsaitlik durumunu içeren bir yanıt taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Jennifer'a 9 Ağustos'ta $150/kişi adresinde 6 misafir için rezervasyonumu onaylayan bir yanıt taslağı hazırladım. Standart seyahat detaylarınızı, ekipman listenizi ve buluşma yerinizi içeriyor. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "Nehir rehberleri ve ekipman sağlayıcıları tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Ryan M.",
+      "title": "Rafting Malzemeleri Tedarikçisi, CO",
+      "quote": "Yoğun sezonda haftanın 6 günü nehirdeyim. E-postalarıma geri döndüğümde, grupların yarısı zaten başka bir firmayla rezervasyon yaptırmış oluyor. Şimdi ise Duet ben suya giriş noktasındayken gezi detayları ve fiyatlandırma içeren yanıt taslakları hazırlıyor.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Katie L.",
+      "title": "Kayak ve SUP Turları, OR",
+      "quote": "Her müşteri aynı beş soruyu soruyor: fiyatlandırma, ne getirmeli, beceri seviyesi, grup büyüklüğü, iptal politikası. Duet bunların hepsini ilk haftada öğrendi. Her gece bir saat e-postayla uğraşmaktan, taslakları beş dakikada gözden geçirmeye geçtim.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Marcus P.",
+      "title": "Alaska Çok Günlük Keşif Gezisi Rehberi",
+      "quote": "Cep telefonu sinyalinin olmadığı 5 günlük turlar düzenliyorum. Duet öncesinde, her soru ben şehre dönene kadar cevapsız kalıyordu. Şimdi müşteriler birkaç dakika içinde detaylı bir yanıt alıyor ve ben de nehirden ayrıldığımı teyit ediyorum.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Elena R.",
+      "title": "River Adventures Ofis Müdürü, WV",
+      "quote": "Dört farklı gezi türü için üç rehberin rezervasyonlarını yönetiyorum. Duet her e-postayı aciliyetine göre sınıflandırıyor ve doğru gezi, doğru fiyat, doğru ekipman listesiyle yanıt taslakları hazırlıyor. Sanki kendimi kopyalıyorum.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sophia K.",
+      "title": "Beyaz Su Rafting Şirketi, ID",
+      "quote": "AI'ın rafting ile ilgili e-postaları işleyebileceğinden şüphe duyuyorduk. Ancak sınıf III ve sınıf IV açıklamalarımızı, yaş sınırlarımızı, hatta ıslak çıkışlı kayak politikamızı bile algıladı. Müşteriler bizimle konuştuklarını sanıyorlar.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Yazı nehirde geçirin,\ne-postalarınıza bakmakla uğraşmayın.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Duet özel gezi fiyat teklifleri ve çok günlük keşif gezisi talepleriyle ilgileniyor mu?",
+      "answer": "Evet. Duet, yarım günlük nehir gezileri, tam günlük rafting turları, çok günlük keşif gezileri gibi tüm gezi programınızı fiyatlandırma, nelerin dahil olduğu, yaş sınırları ve zorluk seviyeleriyle birlikte öğrenir. Birisi 6 kişilik 3 günlük bir gezi sorduğunda, doğru ayrıntılarla eksiksiz bir yanıt taslağı oluşturur. Siz incelersiniz, gerekirse düzenlemeler yaparsınız ve gönderirsiniz."
+    },
+    {
+      "question": "Çok günlük gezilerde şebeke bağlantısından uzak kalıyorum. Duet hâlâ çalışıyor mu?",
+      "answer": "İşte Duet tam olarak bu sorunu çözüyor. Siz nehirde sinyal yokken, Duet gelen her sorguya yanıt taslağı hazırlıyor. Tekrar kapsama alanına girdiğinizde, taslaklarınız sizi bekliyor olacak; sadece gözden geçirin ve gönderin. Rehberlerin çoğu, bunun her çok günlük geziden sonra karşılaştıkları birikmiş iş yükünü ortadan kaldırdığını söylüyor."
+    }
+  ],
+  "pricingNote": "Kişi başı $150 fiyatıyla, kaydedilen iki rezervasyon Pro'in tam bir yılını kapsar."
+}

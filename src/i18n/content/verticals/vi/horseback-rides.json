@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail cho Chuyến Đi Cưỡi Ngựa & Hướng Dẫn Đường Mòn | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp các nhà điều hành chuyến đi đường mòn trả lời email đặt chỗ ngay lập tức — ngay cả khi đang cưỡi ngựa. Trả lời được soạn thảo bằng AI với giá cả, yêu cầu người cưỡi và giọng điệu của bạn.",
+  "heroBadge": "Được tin dùng bởi hơn 300 hướng dẫn viên đường mòn",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang trên đường mòn",
+  "heroSubline": "Duet học các loại chuyến đi, giá cả, yêu cầu người cưỡi và điều kiện đường mòn của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất đặt chỗ vì phản hồi chậm.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Đặt nhóm cho 6 người — sáng thứ Bảy?",
+      "preview": "Chào! Chúng tôi là gia đình 6 người (2 người lớn, 4 trẻ em từ 8-14 tuổi) và muốn đặt chuyến đi đường mòn vào sáng thứ Bảy này. Bạn còn chỗ không? Giá mỗi người là bao nhiêu?",
+      "pill": "Cần trả lời",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Câu hỏi về giới hạn cân nặng",
+      "preview": "Chào, tôi muốn đặt chuyến đi nhưng muốn hỏi trước về yêu cầu cân nặng. Tôi khoảng 260 lbs — có vấn đề gì không...",
+      "pill": "Câu hỏi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Chuyến đi ngắm hoàng hôn cho kỷ niệm?",
+      "preview": "Chúng tôi đang kỷ niệm 10 năm vào cuối tuần tới và thấy chuyến đi ngắm hoàng hôn của bạn trên Instagram. Có còn chỗ tối thứ Sáu không? Có gói đặc biệt nào...",
+      "pill": "Đã đặt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Đánh giá mới cho danh sách của bạn",
+      "preview": "Một khách du lịch vừa đánh giá doanh nghiệp của bạn. Xem họ nói gì và trả lời...",
+      "pill": "Thông tin",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Chào Jessica! Sáng thứ Bảy còn chỗ cho 6 người. Chuyến đi đường mòn giá 100$/người và kéo dài khoảng 90 phút qua thung lũng. Trẻ em từ 8 tuổi trở lên được chào đón — tất cả các bé của bạn đều phù hợp. Yêu cầu mang giày kín mũi, chúng tôi cung cấp mũ bảo hiểm. Bạn muốn tôi đặt chỗ cho chuyến 9 giờ sáng không?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "chuyến đi",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Một chuyến đi nhóm được giữ lại đủ trả hơn hai năm Duet."
+  },
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi người cưỡi sau, và không bao giờ bị làm phiền bởi những tin nhảm. Không còn bỏ lỡ yêu cầu nhóm bị chôn vùi dưới thông báo TripAdvisor.",
+  "draftSubtitle": "Duet học các loại chuyến đi, giá cả và yêu cầu của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết đường mòn, giá cả và trang phục cần thiết. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Có chuyến đi nào còn chỗ cuối tuần này không?\" \"Soạn trả lời Jessica với chỗ trống thứ Bảy.\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Đặt nhóm cho 6 người — sáng thứ Bảy?",
+      "preview": "Chúng tôi là gia đình 6 người muốn đặt chuyến đi đường mòn...",
+      "pill": "Trả lời ngay",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Xác nhận chuyến đi ngắm hoàng hôn — thứ Sáu 5:30 chiều",
+      "pill": "Đã đặt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Giới hạn cân nặng và yêu cầu kinh nghiệm?",
+      "pill": "Câu hỏi",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Tóm tắt đặt chỗ hàng tuần của bạn",
+      "pill": "Thông tin",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tractor Supply",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Khuyến mãi mùa xuân — giảm 15% thức ăn & dụng cụ",
+      "pill": "Khuyến mãi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Đặt nhóm cho 6 người — sáng thứ Bảy?",
+    "originalFrom": "Jessica T. đã viết:",
+    "originalText": "Chào! Chúng tôi là gia đình 6 người (2 người lớn, 4 trẻ em từ 8-14 tuổi) và muốn đặt chuyến đi đường mòn vào sáng thứ Bảy này. Bạn còn chỗ không? Giá mỗi người là bao nhiêu?",
+    "lines": [
+      "Chào Jessica!",
+      "Sáng thứ Bảy còn chỗ cho 6 người. Chuyến đi đường mòn giá 100$/người và kéo dài khoảng 90 phút qua thung lũng. Trẻ em từ 8 tuổi trở lên được chào đón, vậy cả nhóm bạn đều phù hợp.",
+      "Yêu cầu mang giày kín mũi — tốt nhất là giày ủng. Chúng tôi cung cấp mũ bảo hiểm và chọn ngựa phù hợp cho từng người dựa trên kích thước và kinh nghiệm. Không cần kinh nghiệm cưỡi trước đó.",
+      "Bạn muốn tôi đặt chỗ cho chuyến 9 giờ sáng không?"
+    ],
+    "highlightText": "Sáng thứ Bảy còn chỗ cho 6 người. Chuyến đi đường mòn giá 100$/người",
+    "tooltipFeatures": [
+      "Biết giá và chỗ trống của bạn",
+      "Soạn thảo theo giọng điệu của bạn",
+      "Tự động bao gồm yêu cầu người cưỡi",
+      "Học theo thời gian"
+    ]
+  },
+  "agent": {
+    "userMessage": "Có chuyến đi nào còn chỗ cuối tuần này không? Ngoài ra, thời tiết thế nào?",
+    "agentResponse": "Dựa trên lịch của bạn, còn chỗ vào thứ Bảy lúc 9 giờ sáng và 2 giờ chiều, và Chủ Nhật lúc 10 giờ sáng. Dự báo thứ Bảy là 72°F và trời nắng — thời tiết lý tưởng để cưỡi ngựa. Chủ Nhật có 40% khả năng mưa vào buổi chiều, nên khung giờ sáng an toàn hơn. Bạn muốn tôi soạn trả lời cho các yêu cầu đang chờ với các khung giờ này không?",
+    "followUp": "Soạn trả lời Jessica với chỗ trống thứ Bảy",
+    "followUpResponse": "Xong! Tôi đã soạn trả lời cho Jessica xác nhận chỗ thứ Bảy lúc 9 giờ sáng cho 6 người với giá 100$/người. Bao gồm yêu cầu người cưỡi tiêu chuẩn và trang phục cần thiết. Sẵn sàng để bạn xem lại và gửi."
+  },
+  "testimonialsTitle": "Được các nhà điều hành chuyến đi đường mòn yêu thích",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Chủ trang trại & Hướng dẫn viên đường mòn, MT",
+      "quote": "Tôi ở trên đường mòn 6 giờ mỗi ngày mà không có sóng điện thoại. Khi tôi về để trả lời, một nửa số người đã đặt chỗ ở nơi khác. Giờ Duet soạn trả lời với giá và chi tiết chuyến đi của tôi — tôi chỉ cần xem lại và gửi khi về chuồng.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Nhà điều hành tour cưỡi ngựa, AZ",
+      "quote": "Chúng tôi nhận hàng chục email hỏi cùng một điều — giới hạn cân nặng, trang phục, yêu cầu tuổi. Duet xử lý tất cả và trả lời nghe y hệt tôi. Khách của tôi không hề biết đó là AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Hướng dẫn viên đường mòn, CO",
+      "quote": "Mùa cao điểm làm tôi mệt mỏi. Hơn 30 email mỗi ngày bên cạnh việc điều hành chuyến đi. Duet phân loại yêu cầu đặt chỗ và tin nhảm, soạn trả lời đầy đủ — giá, mang gì, tất cả. Tôi có lại buổi tối của mình.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Huấn luyện viên cưỡi ngựa & Quản lý đặt chỗ, TX",
+      "quote": "Chúng tôi có chuyến đi ngắm hoàng hôn, chuyến đi sáng và bài học riêng — mỗi loại có giá và yêu cầu khác nhau. Duet học hết trong một tuần. Nó soạn trả lời đúng cho từng loại chuyến đi mỗi lần.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Trang trại gia đình & Chuyến đi đường mòn, CA",
+      "quote": "Email nhạy cảm là tệ nhất — ai đó hỏi có quá nặng không, hay con họ đủ tuổi chưa. Duet xử lý những email đó với sự quan tâm như tôi sẽ làm. Chuyên nghiệp, thân thiện và chính xác. Chỉ riêng điều đó đã rất đáng giá.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Dành cả ngày với ngựa,\nkhông phải trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
+  "verticalFaqs": [
+    {
+      "question": "Duet xử lý các câu hỏi nhạy cảm về cân nặng hoặc yêu cầu kinh nghiệm như thế nào?",
+      "answer": "Duet học chính sách cụ thể của bạn và phản ánh giọng điệu của bạn. Khi ai đó hỏi về giới hạn cân nặng hoặc yêu cầu kinh nghiệm, nó trả lời một cách chuyên nghiệp và thân thiện — cung cấp thông tin họ cần mà không gây khó xử. Bạn thiết lập giọng điệu một lần và Duet theo sát, để mọi khách đều cảm thấy được tôn trọng."
+    },
+    {
+      "question": "Duet có thể xử lý đặt chỗ nhóm với các nhu cầu người cưỡi khác nhau không?",
+      "answer": "Có. Duet học các loại chuyến đi, kích thước nhóm, tuổi tối thiểu và mọi yêu cầu riêng của người cưỡi. Khi một gia đình hoặc nhóm gửi email đặt chỗ, nó soạn trả lời bao gồm giá cho toàn nhóm, những gì mỗi người cần biết và các khung giờ có sẵn. Bạn xem lại và gửi — không cần trao đổi qua lại."
+    }
+  ],
+  "pricingNote": "Với giá 100$/người cho nhóm 6 người, một chuyến đi được giữ lại đủ trả hơn hai năm Pro."
+}

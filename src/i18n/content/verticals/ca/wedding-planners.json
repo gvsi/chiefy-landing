@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail per a planificadors de casaments | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els planificadors de casaments a respondre als correus electrònics de clients i venedors a l'instant, fins i tot des de les visites guiades del lloc. Respostes redactades per AI amb els vostres paquets, contactes de proveïdors i veu.",
+  "heroBadge": "Més de 400 organitzadors de casaments confiats",
+  "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al lloc del lloc",
+  "heroSubline": "Duet coneix els contactes del proveïdor, els paquets i les preferències del client; després redacta esborranys de respostes per correu electrònic perquè les parelles no esperin mai mentre esteu coordinant-vos sobre el terreny.",
+  "inboxEmails": [
+    {
+      "from": "Emily i James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Disponibilitat per al casament del 20 de setembre?",
+      "preview": "Hola! Ens acabem de prometre i estem buscant un casament el 20 de setembre per a uns 120 convidats. Tens disponibilitat? Quins són els teus paquets...",
+      "pill": "Per respondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Casament de Thompson: maquetes de peces centrals",
+      "preview": "Aquí teniu les tres opcions centrals que hem comentat. Les roses del jardí van entrar molt bé. Feu-me saber quina direcció vol anar la parella...",
+      "pill": "Venedor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Raquel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Flipant per la taula de seients",
+      "preview": "Sé que vam finalitzar el gràfic la setmana passada, però la meva mare només va respondre a 4 persones addicionals i no tinc ni idea d'on posar-les. Podem moure unes taules...",
+      "pill": "Client",
+      "pillColor": "blue"
+    },
+    {
+      "from": "El Nus",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova consulta de la vostra fitxa",
+      "preview": "Una parella ha demanat més informació sobre els vostres serveis. Consulta els detalls i respon...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola, Emily i James, felicitats pel teu compromís! El 20 de setembre està disponible i 120 convidats és una mida perfecta. Ofereixo paquets de planificació completa, planificació parcial i jornada de coordinació. M'encantaria organitzar una consulta gratuïta per conèixer la vostra visió. Estàs lliure per a una trucada ràpida aquesta setmana?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "casament",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Un client guardat paga més de 20 anys de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automàticament tots els correus electrònics perquè vegeu primer les consultes de parelles noves, les confirmacions de proveïdors en segon lloc i el soroll del butlletí mai. Ja no et perdis una sol·licitud de reserva soterrada sota les alertes de nus.",
+  "draftSubtitle": "Duet coneix els vostres paquets, els venedors preferits i el to. Quan una parella pregunta, redacta una resposta càlida i completa amb la vostra disponibilitat i els passos següents. Tu revisa i envia.",
+  "agentSubtitle": "\"Quins correus electrònics de proveïdors van rebre per al casament de Thompson?\" \"Esborra una actualització de la cronologia per a tots els venedors per dissabte\". Duet coneix la vostra safata d'entrada i els vostres clients; només cal que pregunteu.",
+  "categorizationEmails": [
+    {
+      "from": "Emily i James W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Disponibilitat per al casament del 20 de setembre?",
+      "preview": "Ens acabem de casar i estem mirant el 20 de setembre...",
+      "pill": "Respon ara",
+      "pillColor": "red"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Re: Casament de Thompson: maquetes de peces centrals",
+      "pill": "Venedor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Raquel K.",
+      "avatarLetter": "R",
+      "avatarColor": "purple",
+      "subject": "Re: Gràfic de seients - versió final adjunta",
+      "pill": "Client",
+      "pillColor": "blue"
+    },
+    {
+      "from": "El Nus",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova consulta de la vostra fitxa",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Encunyat",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "20% off save-the-dates this week",
+      "pill": "Promocions",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "emily.james.w@email.com",
+    "subject": "Re: Availability for Sept 20 wedding?",
+    "originalFrom": "Emily & James W. wrote:",
+    "originalText": "Hi! We just got engaged and are looking at a September 20th wedding for about 120 guests. Do you have availability? What are your packages and pricing?",
+    "lines": [
+      "Hola Emily i James, felicitats!",
+      "El 20 de setembre està disponible i 120 convidats és una mida fantàstica. Ofereixo paquets de planificació completa, planificació parcial i coordinació del dia de l’esdeveniment a partir de 3.500 $.",
+      "M’encantaria organitzar una consulta gratuïta per escoltar la vostra visió i explicar-vos quin paquet encaixa millor.",
+      "Teniu disponibilitat per a una trucada aquesta setmana?"
+    ],
+    "highlightText": "El 20 de setembre està disponible i 120 convidats és una mida fantàstica",
+    "tooltipFeatures": [
+      "Coneix els teus paquets i venedors",
+      "Redacta amb la teva veu",
+      "Inclou disponibilitat i passos següents",
+      "Aprèn amb el temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Quins correus electrònics de proveïdors van rebre per al casament de Thompson aquesta setmana?",
+    "agentResponse": "Aquesta setmana heu rebut 4 correus electrònics de proveïdors per al casament de Thompson: Bella Rosa Florals va enviar maquetes de peces centrals (esperant l'elecció de la parella), Lakeside Venue va confirmar l'assaig de la cerimònia per divendres a les 16:00, DJ Marco va enviar la llista de cançons actualitzada i Sweet Layers Bakery necessita el sabor del pastís final per dimecres. Vols que redacti respostes a qualsevol d'aquestes?",
+    "followUp": "Redacta una resposta a Bella Rosa amb l'elecció de la parella: l'opció B, les roses del jardí",
+    "followUpResponse": "Fet! Vaig redactar una resposta a Bella Rosa Florals confirmant l'opció B: els centres de roses del jardí per al casament de Thompson. Inclou una nota per procedir amb la comanda completa de 14 taules. A punt per revisar i enviar."
+  },
+  "testimonialsTitle": "Estimat pels planificadors de casaments",
+  "testimonials": [
+    {
+      "name": "Francesca M.",
+      "title": "Boutique Wedding Planner, CO",
+      "quote": "Estic a llocs de muntanya amb servei cel·lular zero la meitat de la setmana. Mentrestant, les parelles m'envien un correu electrònic sobre els terminis i les preguntes dels proveïdors. Duet redacta les respostes amb els meus paquets i el meu to exactes: els reviso quan torno a l'abast.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Miquel T.",
+      "title": "Planificador de bodes de servei complet, CA",
+      "quote": "La coordinació de més de 10 venedors per casament significa que la meva safata d'entrada és una zona de guerra durant la temporada alta. Duet classifica els correus electrònics dels proveïdors per separat dels correus electrònics dels clients i els esborranys de seguiment que hauria escrit jo mateix. De fet dormo ara.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Dia del coordinador, TX",
+      "quote": "Els dies del casament no estic disponible durant 14 hores seguides. Les noves consultes solien quedar sense resposta fins dilluns. Ara Duet els gestiona a l'instant i he reservat 3 casaments addicionals aquest trimestre només amb temps de resposta més ràpids.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Johnny R.",
+      "title": "Destination Wedding Planner, HI",
+      "quote": "Les meves parelles volen des d'arreu del món i envien correu electrònic a tota hora. Duet va saber les meves respostes de preguntes freqüents (logística del lloc, venedors locals, què esperar) i esborranys de respostes que sonen exactament com jo. Els clients no en tenen ni idea.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer A.",
+      "title": "Planificador de casaments i esdeveniments, Nova York",
+      "quote": "Vaig passar 2 hores cada nit responent el mateix paquet i preguntes de disponibilitat. Duet gestiona les coses repetitives perquè em pugui centrar en el treball creatiu que realment m'agrada. Es va pagar per si mateix la primera setmana.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Sigues present a la cerimònia,\nno enterrat a la teva safata d'entrada.",
+  "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
+  "verticalFaqs": [
+    {
+      "question": "Duet funciona amb tots els correus electrònics de coordinació de proveïdors?",
+      "answer": "Sí. Duet coneix els contactes dels vostres proveïdors, els venedors preferits i com us comuniqueu amb cadascun. Classifica els correus electrònics dels proveïdors per casaments i redacta les respostes amb els detalls adequats: confirmacions, seguiments, actualitzacions de cronologia. Tu revisa i envia. S'encarrega de floristes, càterings, locals, DJs, fotògrafs i tots els altres venedors del vostre rolodex."
+    },
+    {
+      "question": "Estic a casaments i llocs durant tot el dia. Em perdré noves consultes?",
+      "answer": "Això és exactament el que resol Duet. Quan un parell de correus electrònics pregunten sobre la disponibilitat o els paquets mentre us esteu coordinant al lloc, Duet redacta una resposta càlida i professional amb la vostra disponibilitat real i els passos següents. Revisa i envia sempre que siguis lliure, fins i tot des del telèfon entre esdeveniments. La majoria dels planificadors ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta."
+    }
+  ],
+  "pricingNote": "Amb 8.000 dòlars per casament, un client guardat paga més de 20 anys de Pro."
+}

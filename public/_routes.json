@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/_astro/*",
+    "/avatars/*",
+    "/blog/images/*",
+    "/email/*",
+    "/.well-known/*",
+    "/favicon.svg",
+    "/*.css",
+    "/*.js",
+    "/*.map",
+    "/*.png",
+    "/*.jpg",
+    "/*.jpeg",
+    "/*.webp",
+    "/*.svg",
+    "/*.ico",
+    "/*.xml",
+    "/*.txt"
+  ]
+}

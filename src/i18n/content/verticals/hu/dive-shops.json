@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail búvárboltok számára | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a búvárboltok tulajdonosainak és a PADI oktatóinak azonnali megválaszolásában a tanúsítási kérdésekre, az utazások lefoglalására és a felszereléssel kapcsolatos kérdésekre – akár a víz alatt is.",
+  "heroBadge": "Több mint 300 búvárkezelő megbízható",
+  "heroHeadline": "Az e-mail asszisztens a víz alatt",
+  "heroSubline": "A Duet megismeri a merülési helyeket, a minősítési követelményeket, az árakat és a hangot – majd e-mail-válaszokat készít, így Ön soha nem veszít el egy foglalást, miközben a hajón van.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Open Water tanúsítás – elérhetőség?",
+      "preview": "Szia! Augusztus első hetében járok, és szeretném megszerezni a nyíltvízi bizonyítványomat. Hány napig tart és mit tartalmaz?",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin és Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "6 fős csoport egy 2 tankos merülésre szombaton",
+      "preview": "6 okleveles búvárunk van, és szeretnénk lefoglalni egy reggeli 2 tankos merülést ezen a szombaton. Van helyed? Mennyi az egy főre jutó díj...",
+      "pill": "Foglalás",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD bérlés hétvégére?",
+      "preview": "Hé, okleveles vagyok, de könnyen utazom. Bérelsz BCD-ket és szabályozókat? Szükségem lenne rájuk péntektől vasárnapig...",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Hallgatói ajánlás: Rachel Torres",
+      "preview": "Egy diák befejezte az eLearning-ot, és kiválasztotta az Ön búvárközpontját zárt és nyíltvízi képzéshez...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Szia Rachel! Szeretnénk tanúsítványt szerezni. Az Open Water tanfolyam 3 napig tart – egy nap medencés foglalkozások és két nap óceáni merülések. Minden felszerelés benne van. Az augusztus tárva-nyitva van. Foglaljak helyet az első hétre?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "merülés",
+    "lostPerMonth": "3 kirándulás (egyenként 6 búvár)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Egy megmentett csoportos merülés egy év Duetért fizet."
+  },
+  "categorizationSubtitle": "A Duet automatikusan megcímkéz minden e-mailt, így először a tanúsítási kéréseket és a merülési foglalásokat látja, másodsorban a felszereléssel kapcsolatos kérdéseket, és a PADI figyelmeztetéseket, ha készen áll. Többé nem hiányzik egy csoportos foglalás, amelyet a berendezések hírlevelei alá temetnek.",
+  "draftSubtitle": "A Duet megismeri a merülési helyeket, a tanúsítvány követelményeit és az árakat. Amikor megérkezik egy foglalási kérdés, teljes választ készít az utazás részleteivel, a benne foglaltakkal és a magával hozni. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Hány búvár van lefoglalva szombatra? \"Válaszvázlat Rachelnek a nyíltvízi elérhetőséggel.\" A Duet ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Open Water tanúsítás – elérhetőség?",
+      "preview": "Augusztus első hetében járok, és szeretnék bizonyítványt szerezni...",
+      "pill": "Válaszoljon most",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Foglalás megerősítve – szombat 2 tankos merülés",
+      "pill": "Lefoglalt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD és szabályozó bérlés ezen a hétvégén?",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Új vélemény az adatlapodról",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Nyári akció – 25% kedvezmény a búvárruhákra",
+      "pill": "Promozgások",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Open Water tanúsítás – elérhetőség?",
+    "originalFrom": "Rachel T. írta:",
+    "originalText": "Szia! Augusztus első hetében járok, és szeretném megszerezni a nyíltvízi bizonyítványomat. Hány napig tart és mit tartalmaz?",
+    "lines": [
+      "Szia Rachel!",
+      "Szeretnénk, ha tanúsítványt szereznénk! A PADI Open Water tanfolyam 3 napig tart – egy medencei edzés és két óceáni merülés a zátonyunkon. Minden felszerelés benne van.",
+      "Az augusztus most tárva-nyitva van. A legtöbb diák hétfőn kezdi, így szerdára fejezi be.",
+      "Foglaljak helyet?"
+    ],
+    "highlightText": "A PADI Open Water tanfolyam 3 napig tart",
+    "tooltipFeatures": [
+      "Ismeri a tanfolyamokat és az árakat",
+      "Piszkozatok a hangodban",
+      "Automatikusan tartalmazza a tanúsítványkövetelményeket",
+      "Idővel tanul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Hány búvár van lefoglalva szombatra?",
+    "agentResponse": "Beérkezett üzenetei alapján 8 búvár van visszaigazolva a szombat reggeli 2 tankos merülésre – Kevin 6 fős csoportja plusz 2 egyéni foglalás. Önnek is van egy függőben lévő kérdése Jasontól az ugyanarra az útra vonatkozó felszerelés bérlésével kapcsolatban. Akarod, hogy megfogalmazzam a választ?",
+    "followUp": "Írjon választ Rachelnek a nyíltvízi kurzus részleteivel",
+    "followUpResponse": "Kész! Választ fogalmaztam meg Rachelnek, amelyben megerősítettem a 3 napos PADI Open Water tanfolyamot medencés és óceáni merüléssel. Megemlíti az augusztusi rendelkezésre állást és a normál felszereléssel kapcsolatos szabályzatát. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Szeretik a búvárkezelők",
+  "testimonials": [
+    {
+      "name": "Mike T. kapitány.",
+      "title": "Búvárhajó kapitány, FL",
+      "quote": "Péntektől vasárnapig hajókirándulásokat szervezek, és az üzlet hétfőn csak néhány órát tart nyitva. A bizonyítványokkal kapcsolatos kérdések és az utazással kapcsolatos kérdések felhalmozódnak, miközben víz alatt vagyok. Duet piszkozatok válaszolnak az áraimmal, a merülési helyeimmel és a benne foglaltakkal – a merülések között átnézem őket.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen és Mark S.",
+      "title": "PADI búvárközpont, HI",
+      "quote": "Ugyanazon hajókon búvárkodunk, snorkel túrákat és bálnanézőket szervezünk. Az e-mailek sokfélesége őrült – tanúsítványkérdések, csoportos foglalások, felszerelés kölcsönzés, időjárás-ellenőrzés. A Duet mindent rendez, és válaszokat készít, amelyek ismerik a különbséget. Abszolút életmentő.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Wreck Diving Charters, FL",
+      "quote": "Az e-mailjeim fele a következő: \"milyen tanúsítványra van szükségem a roncsmerülésekhez?\" a másik fele pedig \"szükségem van a saját felszerelésemre?\" A duett mindkettőt robotpilóton kezeli. A válaszidőm órákról percekre változott.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Dive Shop tulajdonos, CA",
+      "quote": "Nyáron naponta több mint 30 e-mailt kapunk a tanfolyamokról, az utazások elérhetőségéről és a felszerelésekről. Elvesztettem a foglalásokat azokkal az üzletekkel szemben, amelyek gyorsabban válaszoltak. Most a Duet rajzol mindent, én pedig csak megnyomom a küldést az órák között.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Búvároktató és útmutató, NC",
+      "quote": "Délelőtt tanfolyamokat tartok, délután pedig vezetői merüléseket. Szó szerint nincs idő e-mailekre válaszolni. A Duet megismerte a tanfolyami ütemtervemet, az árakat, sőt még a lemondási szabályzatomat is. Az ügyfelek nem tudnak különbséget tenni.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Töltsd a napjaidat a víz alatt,\nnincs eltemetve a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "A Duet megérti a képesítési szinteket és a tanfolyami követelményeket?",
+      "answer": "Igen. A Duet megtanulja az Ön speciális tanfolyamait – Open Water, Advanced, Rescue, Divemaster – az előfeltételekkel, az időtartammal, az árakkal és a benne foglaltakkal együtt. Amikor valaki a minősítés megszerzéséről kérdez, a Duet válaszvázlatot készít a tanfolyam megfelelő részleteivel, ütemtervével és a következő lépésekkel. Te átnézed és elküldöd."
+    },
+    {
+      "question": "Egész nap a hajón vagy a víz alatt vagyok. Használhatom a Duetet a telefonomról?",
+      "answer": "Igen. A Duet működik a Gmail és Outlook jelekkel, így mindenhol működik, ahol az e-mailje működik – beleértve a telefont is. A piszkozatok automatikusan megjelennek a beérkező levelek között. A merülések között vagy vissza a dokkba egyetlen érintéssel áttekintheti és elküldheti. A legtöbb búvárüzemeltető azt mondja, hogy ezzel napi 1-2 óra e-mail-időt takarít meg a főszezonban."
+    }
+  ],
+  "pricingNote": "150 USD/merülés 6 fős csoport esetén egy megtakarított utazás több mint egy év Pro-t fizet."
+}

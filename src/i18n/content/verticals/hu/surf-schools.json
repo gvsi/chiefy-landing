@@ -1,0 +1,171 @@
+{
+  "slug": "surf-schools",
+  "pageTitle": "Duet Mail szörfiskoláknak és paddleboard-üzemeltetőknek | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a szörfoktatóknak és a paddleboard-kezelőknek azonnal válaszolni a foglalási e-mailekre – még tanítás közben is. AI által megfogalmazott válaszok az óratípusokkal, árakkal és hanggal.",
+  "heroBadge": "Több mint 300 szörfoktató megbízható",
+  "heroHeadline": "Az e-mail asszisztens, miközben a vízen tanít",
+  "heroSubline": "A Duet megtanulja az óratípusokat, az árakat és a feltételeket – majd e-mail-válaszokat készít, így soha nem veszíthet el egy foglalást a lassú válasz miatt.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Csoportos óra 6 fős szombaton?",
+      "preview": "Szia! 6 fős baráti társaságom látogat el hétvégére. Van szabad helyed egy csoportos szörfórára szombat délelőtt? Mi az ár?",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Iskolai kirándulás – 25 diák, május 15",
+      "preview": "Szörfnapot keresünk 25 fős 5. osztályos osztályunk számára. Iskolai csoportos árakat kínál? Búvárruhára és deszkára lenne szükségünk...",
+      "pill": "Foglalás",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Paddleboard bérlés + szállítás?",
+      "preview": "Óránként bérel SUP deszkát? Az Elm utcai tengerparti házban szállunk meg – van rá esély, hogy szállít? Amit tartalmaz...",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Nicole B.",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Holnap reggeli feltételek?",
+      "preview": "Holnap reggel 9-re vagyunk lefoglalva, de az előrejelzés szelesnek tűnik. Továbbra is megy a lecke? Vigyünk valami pluszt...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Szia Rachel! Szombat délelőtt 6 óráig tart nyitva. A csoportos órák 2 órásak 9 órától. Deszkák, búvárruhák és bőrkiütésvédők mind benne vannak – csak vigyen magával fényvédőt és törölközőt. 90 dollár személyenként. Akarod, hogy bezárjam a csoportodat?",
+  "math": {
+    "pricePerBooking": "$90",
+    "bookingUnit": "lecke",
+    "lostPerMonth": "8",
+    "monthlyLoss": "$720",
+    "punchline": "Két megtakarított foglalás egy év Duetért fizet."
+  },
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a leckék foglalását látja, a második a kérdéseket, a zajt pedig soha. Többé nem hiányzik egy iskolai csoportos megkeresés a Yelp-riasztások alatt.",
+  "draftSubtitle": "A Duet megtanulja az óratípusokat, a csoportos árakat és a hangnemet. Amikor egy foglalási lekérdezés érkezik, teljes választ készít a rendelkezésre állásról, a csomag tartalmáról és a magával hozandó mennyiségről. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Jönnek csoportos foglalások ezen a héten? \"Választervezet az iskolának a rendelkezésre állás megadásával.\" A Duet ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Csoportos óra 6 fős szombaton?",
+      "preview": "6 fős baráti társaságom látogat el hétvégére...",
+      "pill": "Válaszoljon most",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Re: Területi kirándulás megerősítve — május 15., 25 diák",
+      "pill": "Lefoglalt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Óránként bérel eveződeszkát?",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Új vélemény az adatlapodról",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Surf Raktár",
+      "avatarLetter": "S",
+      "avatarColor": "lavender",
+      "subject": "Nyári akció – 30% kedvezmény a búvárruhákra",
+      "pill": "Promozgások",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Csoportos óra 6 fős szombaton?",
+    "originalFrom": "Rachel T. írta:",
+    "originalText": "Szia! 6 fős baráti társaságom látogat el hétvégére. Van szabad helyed egy csoportos szörfórára szombat délelőtt? Mi az ár?",
+    "lines": [
+      "Szia Rachel!",
+      "A szombat délelőtt 6 főre nyitva tart. A csoportos órák ára 90 USD/fő, és 2 órán keresztül tart, reggel 9 órától a fő strandon.",
+      "Deszkák, búvárruhák és bőrkiütésvédők mind benne vannak – csak vigyen magával fényvédőt, vizet és törölközőt. Nem szükséges tapasztalat.",
+      "Akarod, hogy bezárjam a csoportodat?"
+    ],
+    "highlightText": "Szombat délelőtt 6-ra nyitva. A csoportos órák ára 90 USD/fő",
+    "tooltipFeatures": [
+      "Ismeri az óratípusokat és az árakat",
+      "Piszkozatok a hangodban",
+      "Tartalmazza az automatikusan biztosítottakat",
+      "Idővel tanul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Jönnek csoportos foglalások ezen a héten?",
+    "agentResponse": "Ezen a héten két csoportos foglalásod van: Rachel T. szombaton (6 fő, 9:00) és Westside Elementary szerdán (25 diák, 10 óra kirándulás). James P. függőben lévő kérdése is van az eveződeszka bérlésével kapcsolatban. Akarod, hogy megfogalmazzam a választ?",
+    "followUp": "Válasz tervezete az iskolának, megerősítve a kirándulás részleteit",
+    "followUpResponse": "Kész! Választ fogalmaztam meg a Westside Elementary-nek, amely május 15-ét 25 diák számára 10 órakor megerősítette. Tartalmazza az iskolai csoportok díját, a biztosítottakat, az engedélyre vonatkozó követelményeket és a lemondási szabályzatot. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Szeretik a szörfoktatók",
+  "testimonials": [
+    {
+      "name": "Edző, Mike T.",
+      "title": "Szörfiskola tulajdonosa, CA",
+      "quote": "Napi 6 órát tanítok a vízben. Mire megnéztem az e-maileket, a foglalások fele máshoz került. Most a Duet piszkozatai választ adnak az áraimmal és a rendelkezésre állásommal – csak átnézem a munkamenetek között.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen és Mark S.",
+      "title": "Paddleboard Lessons & Rentals, HI",
+      "quote": "Ugyanabból a postafiókból tartjuk az órákat és a táblabérlést. A Duet azonnal rájött a különbségre – a kölcsönzési kérdésekre a bérleti díjra, a leckékre vonatkozó kérdésekre pedig a leckék részletei. Olyan, mintha egy recepciós lenne.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Danny R.",
+      "title": "Szörfoktató, FL",
+      "quote": "Az iskolai csoportos foglalások 10 e-mailt igényeltek oda-vissza. Most a Duet elkészíti az első választ a csoportdíjakkal, a benne foglaltakkal és az engedélyszelvénnyel. Az egész szálat kettévágja.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Fran C.",
+      "title": "SUP Tours & Lessons, OR",
+      "quote": "A csúcsszezon megöletett – napi 30 e-mail a feltételekről, az árakról és arról, hogy mit vigyek. Ugyanaz az öt kérdés újra és újra. A Duet mindegyiket kezeli, és pontosan úgy szólnak, mint én.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Kids Surf Camp igazgatója, SC",
+      "quote": "A szülők küldik a leghosszabb e-maileket. Tábori időpontok, allergiák, képzettségi szintek, felvételi időpontok. A Duet részletes válaszokat készít, amelyek mindent lefednek, így nem gépelek be bekezdéseket este 10-kor egy teljes tengerparti nap után.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Töltsd a nyarat a hullámokban,\nnem a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "A Duet foglalkozik a különböző óratípusokkal és eszközök kölcsönzésével?",
+      "answer": "Igen. A Duet megtanulja az Ön összes ajánlatát – magánleckéket, csoportos leckéket, gyerektáborokat, táblabérlést, SUP túrákat. Amikor beérkezik egy megkeresés, megírja a választ a megfelelő árakkal, időtartammal, a csomag tartalmával és a magával hozandó termékekkel. Tudja, hogy egy iskolai csoportos e-mailhez más adatokra van szükség, mint a magánórai foglaláshoz."
+    },
+    {
+      "question": "Mi a helyzet az időjárással és körülményekkel kapcsolatos kérdésekkel?",
+      "answer": "A Duet megtanulja, hogyan kezeli általában a feltételekkel kapcsolatos e-maileket – a lemondásokra és az átütemezésekre vonatkozó szabályzatait, és milyen feltételeket tanít be. Amikor valaki e-mailben megkérdezi, hogy a leckéje folytatódik-e, a Duet az Ön szokásos hangnemének és szabályzatának megfelelő választ készít. Másodperceken belül átnézed és elküldöd."
+    }
+  ],
+  "pricingNote": "90 USD/lecke áron, két megtakarított foglalás több mint egy év Pro-ért fizet."
+}

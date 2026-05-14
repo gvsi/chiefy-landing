@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail para paseos a caballo y guías de senderos | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los operadores de recorridos por senderos a responder los correos electrónicos de reserva al instante, incluso desde la silla de montar. Respuestas redactadas por IA con tus precios, requisitos de usuario y voz.",
+  "heroBadge": "Con la confianza de más de 300 guías de senderos",
+  "heroHeadline": "Tu asistente de correo electrónico mientras estás en el camino",
+  "heroSubline": "Duet aprende los tipos de viajes, los precios, los requisitos de los pasajeros y las condiciones de los senderos y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva por responder tarde.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Reserva de grupo para 6 personas: ¿sábado por la mañana?",
+      "preview": "¡Hola! Somos una familia de 6 personas (2 adultos, 4 niños de 8 a 14 años) y nos encantaría reservar un paseo por el sendero este sábado por la mañana. ¿Tienes disponibilidad? ¿Cuál es el precio por persona?",
+      "pill": "Para responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "pregunta sobre el límite de peso",
+      "preview": "Oye, estoy interesado en reservar un viaje, pero primero quería preguntarte sobre tus requisitos de peso. Peso alrededor de 260 libras. ¿Eso va a ser un problema?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy y Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "¿Paseo al atardecer para aniversario?",
+      "preview": "Celebraremos nuestro décimo aniversario el próximo fin de semana y vimos tu paseo al atardecer en Instagram. ¿Está disponible el viernes por la noche? Algún paquete especial...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nueva reseña para tu anuncio",
+      "preview": "Un viajero reseñó recientemente tu negocio. Mira lo que dijo y responde...",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hola Jessica! El sábado por la mañana está abierto para 6 personas. Nuestros recorridos por senderos cuestan $ 100 por persona y duran aproximadamente 90 minutos a través del valle. Los niños mayores de 8 años son bienvenidos; todos los tuyos están listos para comenzar. Se requieren zapatos cerrados y proporcionamos cascos. ¿Quieres que te reserve el viaje de las 9 a.m.?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "montar",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Un viaje grupal guardado paga más de dos años de Duet."
+  },
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas de los usuarios y nunca el ruido. No más perderse una consulta grupal enterrada bajo alertas TripAdvisor.",
+  "draftSubtitle": "Duet aprende los tipos de viajes, precios y requisitos. Cuando llega una consulta de reserva, redacta una respuesta completa con detalles del recorrido, precios y qué ponerse. Tú revisas y envías.",
+  "agentSubtitle": "\"¿Hay alguna atracción abierta este fin de semana?\" \"Redacta una respuesta a Jessica con disponibilidad para el sábado\". Duet conoce tu bandeja de entrada y tu calendario, solo pregúntale.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Reserva de grupo para 6 personas: ¿sábado por la mañana?",
+      "preview": "Somos una familia de 6 personas que buscamos reservar un paseo por el sendero...",
+      "pill": "Responder ahora",
+      "pillColor": "red"
+    },
+    {
+      "from": "amy w.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Paseo al atardecer confirmado: viernes a las 5:30 p. m.",
+      "pill": "Reservado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "¿Límite de peso y requisitos de experiencia?",
+      "pill": "Pregunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "viador",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Su resumen de reserva semanal",
+      "pill": "Para su información",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Suministro de tractores",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Oferta de primavera: 15 % de descuento en piensos y aperos",
+      "pill": "Promociones",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: ¿Reserva de grupo para 6 personas el sábado por la mañana?",
+    "originalFrom": "Jessica T. escribió:",
+    "originalText": "¡Hola! Somos una familia de 6 personas (2 adultos, 4 niños de 8 a 14 años) y nos encantaría reservar un paseo por el sendero este sábado por la mañana. ¿Tienes disponibilidad? ¿Cuál es el precio por persona?",
+    "lines": [
+      "Hola Jessica!",
+      "El sábado por la mañana está abierto para 6 personas. Los paseos por senderos cuestan $ 100 por persona y duran aproximadamente 90 minutos a través del valle. Los niños de 8 años en adelante son bienvenidos, por lo que todo el equipo está listo para comenzar.",
+      "Se requieren zapatos cerrados; las botas son mejores. Proporcionamos cascos y emparejamos a cada jinete con un caballo según su tamaño y experiencia. No se necesita experiencia previa en conducción.",
+      "¿Quieres que te reserve el paseo de las 9 a.m.?"
+    ],
+    "highlightText": "El sábado por la mañana está abierto para 6 personas. Los paseos por los senderos cuestan $ 100 por persona.",
+    "tooltipFeatures": [
+      "Conoce tus precios y disponibilidad",
+      "Borradores en tu voz",
+      "Incluye los requisitos del pasajero automáticamente.",
+      "Aprende con el tiempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "¿Alguna atracción abierta este fin de semana? Además, ¿cómo está el tiempo?",
+    "agentResponse": "Según tu calendario, tienes aperturas el sábado a las 9 a. m. y a las 2 p. m., y el domingo a las 10 a. m. El pronóstico del sábado es 72°F y soleado: clima perfecto para montar. El domingo muestra un 40% de probabilidad de lluvia por la tarde, por lo que el horario de la mañana es la apuesta más segura. ¿Quieres que redacte respuestas a alguna consulta pendiente con estos tiempos?",
+    "followUp": "Redactar una respuesta a Jessica con la disponibilidad del sábado.",
+    "followUpResponse": "¡Listo! Redacté una respuesta a Jessica confirmando el sábado a las 9 a.m. para 6 pasajeros a $100 por persona. Incluye los requisitos estándar del pasajero y qué ponerse. Listo para revisar y enviar."
+  },
+  "testimonialsTitle": "Amado por los operadores de senderos",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Propietario de rancho y guía de senderos, MT",
+      "quote": "Estoy de viaje 6 horas al día sin servicio móvil. Cuando volví a responder, la mitad de las personas habían reservado en otro lugar. Ahora Duet redacta respuestas con mis precios y detalles del viaje; yo simplemente las reviso y las envío cuando vuelvo al granero.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "María C.",
+      "title": "Operador turístico a caballo, AZ",
+      "quote": "Recibimos docenas de correos electrónicos preguntando lo mismo: límites de peso, qué ponerse, requisitos de edad. Duet maneja todo y las respuestas suenan exactamente como yo. Mis invitados no tienen idea de que es IA.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "tyler s.",
+      "title": "Guía de paseos por senderos, CO",
+      "quote": "La temporada alta me estaba matando. Más de 30 correos electrónicos al día además de las carreras. Duet separa las solicitudes de reserva del ruido y redacta respuestas que incluyen todo: precios, qué traer, el lote. Recuperé mis tardes.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "raquel m.",
+      "title": "Instructor de equitación y gerente de reservas, TX",
+      "quote": "Realizamos paseos al atardecer, paseos por la mañana y lecciones privadas, cada uno con diferentes precios y requisitos. Duet aprendió todo en una semana. Siempre redacta la respuesta correcta para el tipo de viaje correcto.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "diane k.",
+      "title": "Paseos familiares en ranchos y senderos, CA",
+      "quote": "Los correos electrónicos confidenciales fueron los peores: alguien preguntando si pesan demasiado o si su hijo tiene edad suficiente. Duet los maneja con el mismo cuidado que yo. Profesional, amable y preciso. Solo eso vale la pena.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Pasa el día con los caballos,\nno en tu bandeja de entrada.",
+  "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "¿Cómo maneja Duet preguntas delicadas sobre requisitos de peso o experiencia?",
+      "answer": "Duet aprende tus políticas específicas y refleja tu tono. Cuando alguien pregunta sobre los límites de peso o los requisitos de experiencia, responde de manera profesional y cálida, compartiendo la información que necesita sin que resulte incómodo. Tú defines el tono una vez y Duet lo sigue constantemente, para que todos los invitados se sientan respetados."
+    },
+    {
+      "question": "¿Puede Duet gestionar reservas de grupos con diferentes necesidades de pasajeros?",
+      "answer": "Sí. Duet aprende los tipos de viajes, el tamaño de los grupos, la edad mínima y los requisitos específicos del usuario. Cuando una familia o grupo envía un correo electrónico sobre la reserva, redacta una respuesta que cubre los precios para todo el grupo, lo que cada pasajero necesita saber y los horarios disponibles. Tú revisas y envías, sin necesidad de ir y venir."
+    }
+  ],
+  "pricingNote": "A $100 por persona para un grupo de 6 personas, un viaje ahorrado paga más de dos años de Pro."
+}

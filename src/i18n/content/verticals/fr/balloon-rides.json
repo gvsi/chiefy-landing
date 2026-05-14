@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail pour les vols en montgolfière | Assistant e-mail IA",
+  "metaDescription": "Duet Mail aide les pilotes de montgolfière à répondre instantanément aux e-mails de réservation — même pendant les vols au lever du soleil. Des réponses rédigées par l’IA avec vos tarifs, vos politiques météo et votre ton.",
+  "heroBadge": "Approuvé par plus de 200 pilotes de montgolfière",
+  "heroHeadline": "Votre assistant e-mail pendant que vous êtes en l’air",
+  "heroSubline": "Duet apprend vos horaires de vol, vos tarifs et vos politiques météo — puis rédige les réponses aux e-mails pour que vous ne perdiez jamais une réservation pendant un décollage au lever du soleil.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Vol au lever du soleil pour 2 — disponible samedi ?",
+      "preview": "Bonjour ! Mon mari et moi sommes de passage pour notre anniversaire et aimerions réserver un vol en montgolfière au lever du soleil ce samedi. Avez-vous de la place ? Quel est le prix par personne ?",
+      "pill": "À répondre",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Volons-nous demain ? Les prévisions de vent ont l’air mauvaises",
+      "preview": "Nous sommes réservés pour demain matin, mais l’application météo annonce des rafales à 15 mph. Volons-nous toujours ou devons-nous prévoir un report...",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Vol privé pour une demande en mariage — tarifs ?",
+      "preview": "Je veux faire une surprise à ma copine avec un vol privé en montgolfière et faire ma demande pendant le vol. Combien coûte un vol privé et pouvez-vous aider à coordonner...",
+      "pill": "Réservation",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Que devons-nous porter ? Où doit-on se retrouver ?",
+      "preview": "Nous sommes réservés pour dimanche matin. Que devons-nous porter et où se trouve exactement le point de rendez-vous ? Et combien de temps dure l’expérience au total...",
+      "pill": "Question",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Bonjour Rachel ! Samedi est disponible pour 2 personnes. Les vols au lever du soleil décollent vers 6:15 AM — nous confirmerons l’heure exacte et le lieu de rendez-vous la veille au soir en fonction des vents. C’est 250 $/personne et cela inclut environ une heure en l’air, puis un toast au champagne après l’atterrissage. Habillez-vous en couches et portez des chaussures fermées. Souhaitez-vous que je réserve vos places ?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "vol",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Un seul vol réservé rembourse une année de Duet."
+  },
+  "categorizationSubtitle": "Duet attribue automatiquement des libellés à chaque e-mail pour que vous voyiez d’abord les demandes de réservation, ensuite les questions sur la météo, et jamais le bruit. Plus de demande de vol perdue au milieu des alertes de newsletters.",
+  "draftSubtitle": "Duet apprend vos tarifs, vos politiques météo et votre ton. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du vol, les infos de rendez-vous et quoi porter. Vous relisez et envoyez.",
+  "agentSubtitle": "« Qui est sur le manifeste de demain ? » « Des annulations météo à reprogrammer ? » Duet connaît votre boîte de réception et votre calendrier — demandez simplement.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Vol au lever du soleil pour 2 — disponible samedi ?",
+      "preview": "Mon mari et moi aimerions réserver un vol en montgolfière au lever du soleil...",
+      "pill": "Répondre maintenant",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re : Réservation confirmée — dimanche 6 h 15",
+      "pill": "Réservé",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Que devons-nous porter pour le vol ?",
+      "pill": "Question",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nouvel avis pour votre annonce",
+      "pill": "Info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Balloon Federation",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Bulletin de sécurité de mars & rappel de renouvellement",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re : Vol au lever du soleil pour 2 — disponible samedi ?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Bonjour ! Mon mari et moi sommes en visite pour notre anniversaire et nous aimerions réserver un vol en montgolfière au lever du soleil ce samedi. Avez-vous de la place ? Quel est le prix par personne ?",
+    "lines": [
+      "Bonjour Rachel !",
+      "Samedi est largement disponible pour 2. Les vols au lever du soleil sont à 250 $/personne et incluent environ une heure de vol ainsi qu’un toast au champagne après l’atterrissage.",
+      "Nous décollons vers 6 h 15 — je vous enverrai votre heure et votre lieu de rendez-vous exacts la veille au soir, en fonction des conditions de vent. Habillez-vous en couches et portez des chaussures fermées.",
+      "Joyeux anniversaire ! Voulez-vous que je réserve vos places ?"
+    ],
+    "highlightText": "Samedi est totalement disponible pour 2 personnes. Les vols au lever du soleil sont à 250 $/personne",
+    "tooltipFeatures": [
+      "Connaît vos tarifs et votre programme de vols",
+      "Rédige dans votre style",
+      "Inclut automatiquement les détails de la réunion",
+      "Apprend au fil du temps"
+    ]
+  },
+  "agent": {
+    "userMessage": "Qui figure sur la liste de vol de demain et quel temps est prévu ?",
+    "agentResponse": "Le vol au lever du soleil de demain a 6 passagers réservés sur 2 réservations : le groupe Thompson (4) et le couple Lee (2). Les prévisions actuelles annoncent des vents calmes à 4 mph et un ciel dégagé au moment du décollage. Aucun e-mail d’annulation pour le moment. Voulez-vous que j’envoie les confirmations du point de rendez-vous ?",
+    "followUp": "Oui, envoie les confirmations aux deux groupes avec l’heure de rendez-vous à 6h15",
+    "followUpResponse": "C’est fait ! J’ai rédigé les confirmations du point de rendez-vous pour les Thompson et les Lee avec 6h15 au champ de décollage, quoi porter et les indications. Prêt à relire et à envoyer."
+  },
+  "testimonialsTitle": "Apprécié des pilotes et opérateurs de montgolfière",
+  "testimonials": [
+    {
+      "name": "Captain Mike L.",
+      "title": "Pilote de montgolfière, MN",
+      "quote": "Je travaille seul : je pilote, je fais l’assistance au sol, je réponds aux e-mails. Sauf à 5 h du matin, je gonfle, je ne réponds pas. Duet rédige des réponses à chaque message du type « volons-nous demain ? » pendant la nuit. Je me réveille, je vérifie la météo et j’envoie.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon & Jake B.",
+      "title": "Tours en montgolfière toute l’année, UT",
+      "quote": "On reçoit les mêmes 10 questions chaque jour. Quoi porter, où se retrouver, que faire s’il y a du vent. Duet a tout appris et rédige maintenant des réponses parfaites. On est passés d’une heure d’e-mails chaque soir à cinq minutes.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Exploitant de vols au lever du soleil, AZ",
+      "quote": "La haute saison, c’est 4 à 6 vols par semaine et chaque passager envoie au moins deux e-mails avant le vol. Duet gère les questions avant le vol pour que je puisse me concentrer sur offrir aux gens la meilleure matinée de leur vie.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Copropriétaire d’une société de montgolfières, NM",
+      "quote": "Les annulations météo gâchaient toute ma journée : 8 passagers avaient tous besoin d’e-mails de reprogrammation personnalisés. Maintenant, Duet rédige chacun d’eux avec notre politique de report incluse. Ça me fait gagner des heures les matins d’annulation.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Exploitation de vols en montgolfière, CO",
+      "quote": "Les vols de proposition demandent énormément d’aller-retour pour tout coordonner. Duet a compris notre façon de les gérer : le timing, les mots-code, la mise en place du champagne. Il rédige des réponses que je n’ai presque pas besoin de retoucher.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Passez vos matinées dans le ciel,\npas dans votre boîte de réception.",
+  "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
+  "verticalFaqs": [
+    {
+      "question": "Comment Duet gère-t-il les e-mails d’annulation liés à la météo ?",
+      "answer": "Duet apprend vos politiques d’annulation et de reprogrammation. Lorsque vous annulez un vol en raison de la météo, il peut rédiger des e-mails de reprogrammation personnalisés pour chaque passager concerné — avec votre politique, les dates disponibles et votre ton. Vous relisez et envoyez. Ce qui prenait une heure de réponses individuelles ne prend plus que quelques minutes."
+    },
+    {
+      "question": "Duet peut-il gérer les e-mails « volerons-nous demain ? » qui affluent chaque soir ?",
+      "answer": "Oui — c’est l’un des e-mails les plus courants dont les exploitants de montgolfières nous parlent. Duet apprend vos politiques météo et rédige des réponses rassurantes qui expliquent votre processus de décision, quand vous prendrez la décision finale et à quoi s’attendre. Une fois que vous confirmez le feu vert ou le non-feu vert le matin, il peut rédiger des mises à jour pour toutes les personnes sur le manifeste."
+    }
+  ],
+  "pricingNote": "À 250 $/personne avec 4 passagers par vol, une seule réservation économisée paie plus d’un an de Pro."
+}

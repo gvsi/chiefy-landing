@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail sukellusliikkeille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa sukelluskauppojen omistajia ja PADI-ohjaajia vastaamaan sertifiointikyselyihin, matkavarauksiin ja varustekysymyksiin välittömästi – jopa veden alla.",
+  "heroBadge": "Yli 300 sukellusoperaattorin luottama",
+  "heroHeadline": "Sähköpostiavustajasi veden alla",
+  "heroSubline": "Duet oppii sukelluspaikkasi, sertifiointivaatimukset, hinnoittelusi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta ollessasi veneessä.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Open Water -sertifiointi – saatavuus?",
+      "preview": "Hei! Vierailen elokuun ensimmäisellä viikolla ja haluan saada Open Water -sertifikaattini. Kuinka monta päivää se kestää ja mitä se sisältää?",
+      "pill": "Vastaus",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin & Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "6 hengen ryhmä 2 säiliön sukellukseen lauantaina",
+      "preview": "Meillä on 6 sertifioitua sukeltajaa ja haluamme varata aamusukelluksen 2 tankilla tälle lauantaille. Onko sinulla tilaa? Mikä on per henkilö...",
+      "pill": "Varaus",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD:n vuokraus viikonlopuksi?",
+      "preview": "Hei, olen sertifioitu, mutta matkustan kevyesti. Vuokraatko BCD-levyjä ja säätimiä? Tarvitsen niitä perjantaista sunnuntaihin...",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Opiskelijan suositus: Rachel Torres",
+      "preview": "Opiskelija on suorittanut eLearning-kurssinsa ja valinnut sukelluskeskuksesi suljetun ja avoimen veden harjoittelua varten...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Rachel! Haluaisimme saada sinulle todistuksen. Open Water -kurssi kestää 3 päivää - yksi päivä uima-allasistuntoja ja kaksi päivää merisukellusta. Kaikki varusteet sisältyvät hintaan. Elokuu on auki. Haluatko, että varaan paikan ensimmäiselle viikolle?\nSukellus",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "",
+    "lostPerMonth": "3 trips (6 divers each)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Yksi tallennettu ryhmäsukellus maksaa Duet in vuoden."
+  },
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin sertifiointikyselyt ja sukellusvaraukset, sitten varustekysymykset ja PADI-ilmoitukset, kun olet valmis. Ei enää kaipaa ryhmävarausta, joka on haudattu laiteuutiskirjeiden alle.",
+  "draftSubtitle": "Duet oppii sukelluspaikat, sertifikaattivaatimukset ja hinnoittelun. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on matkan tiedot, mitä sisältyy hintaan ja mitä ottaa mukaan. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Kuinka monta sukeltajaa on varattu lauantaille?\" \"Luonnos vastaus Rachelille avoimen veden saatavuudella.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Open Water -sertifiointi – saatavuus?",
+      "preview": "Vierailen elokuun ensimmäisellä viikolla ja haluan saada sertifikaatin...",
+      "pill": "Vastaa nyt",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Varaus vahvistettu – lauantai 2 tankin sukellus",
+      "pill": "varattu",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "BCD:n ja säätimen vuokraus tänä viikonloppuna?",
+      "pill": "Kysymys",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Uusi arvostelu tiedoissasi",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Kesäale — 25 % alennus märkäpuvuista",
+      "pill": "tarjoukset",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Open Water -sertifiointi – saatavuus?",
+    "originalFrom": "Rachel T. kirjoitti:",
+    "originalText": "Hei! Vierailen elokuun ensimmäisellä viikolla ja haluan saada Open Water -sertifikaattini. Kuinka monta päivää se kestää ja mitä se sisältää?",
+    "lines": [
+      "Hei Rachel!",
+      "Haluaisimme saada sinulle sertifikaatin! PADI Open Water -kurssi kestää 3 päivää – yksi uima-allasjakso ja kaksi valtamerisukellusta riutallamme. Kaikki varusteet sisältyvät hintaan.",
+      "August on auki juuri nyt. Useimmat opiskelijat aloittavat maanantaina, joten he lopettavat keskiviikkoon mennessä.",
+      "Haluatko, että varaan paikan?"
+    ],
+    "highlightText": "PADI Open Water -kurssi kestää 3 päivää",
+    "tooltipFeatures": [
+      "Tietää kurssisi ja hinnoittelusi",
+      "Luonnokset äänessäsi",
+      "Sisältää automaattisesti sertifikaattivaatimukset",
+      "Oppii ajan myötä"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kuinka monta sukeltajaa on varattu lauantaille?",
+    "agentResponse": "Postilaatikkosi perusteella sinulla on 8 sukeltajaa vahvistettuna lauantaiaamuna 2 tankin sukellukseen – Kevinin 6 hengen ryhmä plus 2 yksittäistä varausta. Sinulla on myös odottava kysely Jasonilta varustevuokrauksesta samalle matkalle. Haluatko, että laadin vastauksen?",
+    "followUp": "Laadi vastaus Rachelille ja kerro avoimen veden kurssitiedot",
+    "followUpResponse": "Valmis! Kirjoitin Rachelille vastauksen, jossa vahvistettiin 3 päivän PADI Open Water -kurssi uima-altaalla ja merisukelluksella. Siinä mainitaan elokuun saatavuus ja vakiovarusteet sisältävä käytäntö. Valmiina tarkastettavaksi ja lähetettäväksi."
+  },
+  "testimonialsTitle": "Sukellusoperaattoreiden rakastama",
+  "testimonials": [
+    {
+      "name": "kapteeni Mike T.",
+      "title": "sukellusveneen kapteeni, FL",
+      "quote": "Teen veneretkiä perjantaista sunnuntaihin ja kauppa on avoinna vain muutaman tunnin maanantaina. Sertifiointikysymykset ja matkakyselyt kasaantuvat, kun olen veden alla. Duet-luonnokset vastaukset hintoihini, sukelluspaikkoihini ja sisältööni – tarkistan ne sukellusten välillä.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "PADI -sukelluskeskus, HI",
+      "quote": "Järjestämme sukelluksia, snorkkeliretkiä ja valaskatseluita samoilla veneillä. Sähköpostien valikoima on mieletön – sertifikaattikysymykset, ryhmävaraukset, varustevuokrat, säätarkistukset. Duet lajittelee kaiken ja laatii vastaukset, jotka tietävät eron. Ehdoton hengenpelastaja.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Wreck Diving Charters, FL",
+      "quote": "Puolet sähköposteistani ovat \"mitä sertifikaattia tarvitsen hylkysukelluksiin?\" ja toinen puoli on \"Tarvitsenko omat varusteeni?\" Duet ti käsittelee molemmat autopilotissa. Vastausaikani oli tunneista minuutteihin.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "sukellusliikkeen omistaja, CA",
+      "quote": "Kesällä saamme yli 30 sähköpostiviestiä päivässä kursseista, matkan saatavuudesta ja varusteista. Hävisin varaukset kaupoista, jotka vastasivat nopeammin. Nyt Duet luonnostelee kaiken ja minä vain painan lähetä tuntien välillä.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "sukelluskouluttaja ja -opas, NC",
+      "quote": "Opetan kursseja aamulla ja opastan sukelluksia iltapäivällä. Ei kirjaimellisesti ole aikaa vastata sähköpostiin. Duet sai tietää kurssiaikatauluni, hinnoitteluni ja jopa peruutusehtoni. Asiakkaat eivät osaa erottaa.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Vietä päiväsi veden alla,\nei haudattu postilaatikkoosi.",
+  "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
+  "verticalFaqs": [
+    {
+      "question": "Ymmärtääkö Duet sertifiointitasot ja kurssivaatimukset?",
+      "answer": "Kyllä. Duet oppii sinun tietyt kurssisi – Open Water, Advanced, Rescue, Divemaster – sekä esitiedot, keston, hinnoittelun ja mitä sisältyy hintaan. Kun joku kysyy sertifioinnin hankkimisesta, Duet laatii vastauksen, jossa on oikeat kurssitiedot, aikataulu ja seuraavat vaiheet. Tarkistat ja lähetät."
+    },
+    {
+      "question": "Olen veneessä tai veden alla koko päivän. Voinko käyttää Duet ia puhelimellani?",
+      "answer": "Kyllä. Duet toimii Gmailin ja Outlookin kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset näkyvät automaattisesti postilaatikossasi. Sukellusten välillä tai takaisin laiturille tarkistat ja lähetät yhdellä napautuksella. Useimmat sukellusoperaattorit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+    }
+  ],
+  "pricingNote": "Hinta 150 dollaria/sukellus 6 hengen ryhmällä yksi säästetty matka maksaa yli vuoden Pro:n."
+}

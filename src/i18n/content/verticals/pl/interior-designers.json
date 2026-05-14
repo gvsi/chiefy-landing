@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail dla projektantów wnętrz | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga projektantom wnętrz zarządzać pocztą elektroniczną klientów, koordynacją wykonawców i zamówieniami dostawców – nawet z miejsca pracy. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły projektu, preferencje i głos.",
+  "heroBadge": "Zaufany przez projektantów wnętrz 400+",
+  "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś na miejscu u klientów",
+  "heroSubline": "Duet poznaje dane kontaktowe dostawców, szczegóły projektu i preferencje klientów, a następnie przygotowuje odpowiedzi e-mailowe, dzięki czemu nigdy nie stracisz klienta z powodu powolnej reakcji.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Remont kuchni – wstępna konsultacja?",
+      "preview": "Cześć! Właśnie kupiliśmy dom w Westlake i chcemy całkowicie przerobić kuchnię. Podejmujesz się nowych projektów? Jak wygląda Twój proces?",
+      "pill": "Aby odpowiedzieć",
+      "pillColor": "red"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Re: Aktualizacja czasu realizacji kafelków Backsplash",
+      "preview": "Właśnie otrzymaliśmy wiadomość z magazynu – zamówienie na sześciokątną płytkę Calacatta wynosi 3 tygodni. Chcesz, żebym wstrzymał Twoje zamówienie lub rozejrzał się za alternatywami...",
+      "pill": "Zamówienie dostawcy",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — Electrician",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Okablowanie wykonane — gotowe do montażu opraw",
+      "preview": "Wszystkie wstępne okablowanie w głównej sypialni i salonie zostało ukończone. Mamy jasność co do montażu kinkietu i żyrandola, gdy tylko...",
+      "pill": "Wykonawca",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen & Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Czy masz na myśli próbki tkanin?",
+      "preview": "Przyjrzeliśmy się trzem wybranym przez Ciebie opcjom tkanin i skłaniamy się ku lnu w kolorze „Owsianka”, ale chcemy go zobaczyć na tle koloru ściany...",
+      "pill": "Zatwierdzenie klienta",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Cześć Rachel! Chętnie dowiem się więcej o Twojej kuchni w Westlake. Aktualnie prowadzę zapisy na konsultacje na przyszły miesiąc. Mój proces rozpoczyna się od wizyty w domu, podczas której omawiamy Twoją wizję, budżet i harmonogram, a następnie opracowuję koncepcję projektu z wyborem materiałów. Chcesz umówić się na spotkanie w domu?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Jeden zaoszczędzony klient płaci za lata Duet."
+  },
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności widzisz zapytania nowych klientów, w drugiej kolejności oczekujące na zatwierdzenie, a biuletyny dostawców nigdy. Nigdy więcej nie przegapisz konsultacji projektowych ukrytych pod promocjami na targach.",
+  "draftSubtitle": "Duet uczy się Twojego procesu, szczegółów projektu i tonu. Gdy pojawi się nowe zapytanie lub pytanie klienta, przygotowuje pełną odpowiedź zawierającą Twoją dostępność, kolejne kroki i szczegóły projektu. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Jaki jest status projektu Henderson?” „Które zatwierdzenia są nadal w toku?” Duet zna Twoją skrzynkę odbiorczą i każdy wątek projektu — po prostu zapytaj.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Remont kuchni – wstępna konsultacja?",
+      "preview": "Właśnie kupiliśmy dom i chcemy odnowić kuchnię...",
+      "pill": "Nowe zapytanie",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Re: Próbki tkanin — z pościelą owsianą",
+      "pill": "Zatwierdzenie klienta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mark L.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Wykonane okablowanie — gotowe do montażu osprzętu",
+      "pill": "Wykonawca",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Zamówienie #4821 wysłane — dostawa w czwartek",
+      "pill": "Zamówienie dostawcy",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Design Within Reach",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Program handlowy — wiosenna impreza oszczędnościowa",
+      "pill": "Promocje",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Remont kuchni — wstępna konsultacja?",
+    "originalFrom": "Rachel T. wrote:",
+    "originalText": "Cześć! Właśnie kupiliśmy dom w Westlake i chcemy całkowicie przerobić kuchnię. Podejmujesz się nowych projektów? Jak wygląda Twój proces?",
+    "lines": [
+      "Cześć Rachel!",
+      "Gratulacje z okazji nowego domu! Chętnie pomogę w Twojej kuchni. Aktualnie prowadzę zapisy na konsultacje na przyszły miesiąc.",
+      "Mój proces rozpoczyna się od wizyty w domu, podczas której omawiamy Twoją wizję, budżet i harmonogram. Stamtąd opracowuję koncepcję projektu z doborem materiałów i szczegółową propozycją.",
+      "Chcesz umówić się na spotkanie w domu?"
+    ],
+    "highlightText": "Aktualnie rezerwuję konsultacje na przyszły miesiąc.",
+    "tooltipFeatures": [
+      "Zna Twój proces i dostępność",
+      "Wersje robocze w Twoim głosie",
+      "Automatycznie uwzględnia kolejne kroki",
+      "Uczy się z czasem"
+    ]
+  },
+  "agent": {
+    "userMessage": "Jakie zatwierdzenia projektu Henderson nadal oczekują?",
+    "agentResponse": "Z Twoich wątków e-mailowych z rodziną Hendersonowie wynika, że ​​dwa przedmioty wciąż oczekują na zatwierdzenie: toaletka główna (wysłałeś opcje sprzętu do renowacji we wtorek) i tkanina na zasłony do salonu (próbki dostarczono w zeszłym tygodniu). Karen pytała również o połysk farby w jadalni, ale nie odpowiedziała jeszcze na Twoją rekomendację. Chcesz, żebym sporządził kontynuację?",
+    "followUp": "Przygotuj dla Karen delikatne uzupełnienie dotyczące toaletki i wyboru tkanin",
+    "followUpResponse": "Gotowe! Przygotowałem dalszy ciąg po tym, jak Karen sprawdziła wybór toaletek i draperiów, wspominając, że czas realizacji toaletki wynosi 6 w tygodniu, więc szybka decyzja pozwoli na dotrzymanie harmonogramu projektu. Gotowe do przejrzenia i wysłania."
+  },
+  "testimonialsTitle": "Uwielbiany przez projektantów wnętrz",
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "title": "Główny projektant, Austin w Teksasie",
+      "quote": "Jestem na miejscu 6 godzin dziennie, koordynując malarzy, elektryków i instalatorów płytek. W międzyczasie trzech innych klientów wysyła e-maile dotyczące swoich projektów. Duet przygotowuje odpowiedzi z właściwymi szczegółami projektu — po prostu przeglądam je między wizytami w terenie.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Projektant wnętrz mieszkalnych, Chicago",
+      "quote": "Zapytania klientów czekały całymi dniami, ponieważ byłem zawalony e-mailami dotyczącymi zamówień i harmonogramami wykonawców. Teraz Duet reaguje na nowych potencjalnych klientów w ciągu kilku minut dzięki mojemu procesowi i dostępności. Zarezerwowałem dodatkowe projekty 4 na ten kwartał.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Właściciel studia projektowego, Nashville",
+      "quote": "Zarządzanie e-mailami dla aktywnych projektów 12 doprowadzało mnie do szału. Duet kategoryzuje wszystko — nowe zapytania, oczekujące zatwierdzenia, zamówienia od dostawców, aktualizacje wykonawców — dzięki czemu wiem dokładnie, co w pierwszej kolejności wymaga mojej uwagi.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "Dekorator wnętrz, San Diego",
+      "quote": "Traciłem potencjalnych klientów, ponieważ nie mogłem reagować wystarczająco szybko podczas tygodni instalacji. Duet poznał mój proces konsultacji, strukturę cen, a nawet to, jak opisuję swój styl projektowania. Klienci nie mają pojęcia, że ​​jest to wspomagane sztuczną inteligencją.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Projektant wnętrz komercyjnych, Denver",
+      "quote": "Pomiędzy terminami realizacji zamówień przez dostawców, harmonogramami wykonawców i prośbami klientów o wprowadzenie zmian w mojej skrzynce odbiorczej panował chaos. Duet sortuje to wszystko i przygotowuje działania następcze w związku z oczekującymi zatwierdzeniami. To tak, jakby mieć koordynatora projektu, który nigdy nie śpi.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Spędzaj dni tworząc piękne przestrzenie,\nnie zakopane w Twojej skrzynce odbiorczej.",
+  "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "Żongluję projektami 8-10 na raz. Czy Duet może utrzymać je prosto?",
+      "answer": "Tak. Duet śledzi każdy wątek e-mailowy dla każdego klienta i projektu. Kiedy pytasz o kuchnię Henderson lub biuro przy Park Avenue, wyciągasz kontekst ze wszystkich powiązanych rozmów – zamówień dostawców, aktualizacji wykonawców, zatwierdzeń klientów – dzięki czemu Twoje odpowiedzi są zawsze dokładne i specyficzne dla projektu. Żadnego mieszania, która płytka jest przeznaczona dla którego klienta."
+    },
+    {
+      "question": "Koordynuję współpracę z wieloma wykonawcami i dostawcami. Czy Duet pomaga w tym?",
+      "answer": "Zdecydowanie. Duet poznaje kontakty z wykonawcami, przedstawicieli dostawców i kontekst roli każdej branży w Twoich projektach. Kiedy elektryk prześle wiadomość e-mail z informacją o zakończeniu prac wstępnych, Duet może przygotować odpowiedź potwierdzającą następny krok lub pętlę w instalatorze oprawy. Utrzymuje przepływ pracy nawet wtedy, gdy jesteś po drugiej stronie miasta, w innym miejscu pracy."
+    }
+  ],
+  "pricingNote": "W $10,000/project jeden zaoszczędzony klient płaci za lata Duet Pro."
+}

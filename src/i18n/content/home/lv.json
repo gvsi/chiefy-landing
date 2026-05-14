@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | MI e-pasta asistents Gmail un Outlook",
+    "description": "Duet Mail MI e-pasta asistents apkopo e-pastus, sagatavo atbilžu melnrakstus un organizē jūsu iesūtni. Darbojas ar Gmail un Outlook. Ietaupiet 4+ stundas nedēļā."
+  },
+  "hero": {
+    "badge": "Tagad pieejams Gmail un Outlook",
+    "headlinePrefix": "Jūsu ",
+    "headlineHighlight": "personīgais darba vadītājs",
+    "headlineSuffix": " ",
+    "rotatingFeatures": [
+      "e-pasta šķirošanai",
+      "atbilžu melnrakstu sagatavošanai",
+      "plānošanai",
+      "atbilžu atrašanai"
+    ],
+    "subline": "Ietaupiet 4+ stundas katru nedēļu darbam ar e-pastu",
+    "primaryCta": "Sākt ar Gmail",
+    "secondaryCta": "Sākt ar Outlook",
+    "trialNote": "Bezmaksas 14 dienu izmēģinājums",
+    "cancelNote": "Atceliet jebkurā laikā"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Tūlītēja kategorizēšana",
+      "MI darbinātas atbildes"
+    ],
+    "windowTitle": "Iesūtne",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "15:42",
+      "14:18",
+      "10:05",
+      "Vakar"
+    ],
+    "autodraftLabel": "Automātisks melnraksts",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Produkta palaišanas laika grafiks",
+        "preview": "Sveiki! Vēlējos apjautāties par palaišanas materiāliem. Vai joprojām iekļaujamies nākamās nedēļas plānā...",
+        "pill": "Jāatbild"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Īsa sinhronizācija šopēcpusdien?",
+        "preview": "Labprāt pārrunātu ceļa kartes atjauninājumus. Vai esi brīvs ap 16:00...",
+        "pill": "Tikšanās"
+      },
+      {
+        "from": "Marketing",
+        "avatarLetter": "M",
+        "subject": "Kampaņas rezultāti ir gatavi",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Jūsu veikals ir gatavs Black Friday",
+        "pill": "Akcijas"
+      }
+    ],
+    "autodraft": "Sveiks, Alex! Jā, mēs iekļaujamies grafikā. Dizaina komanda vakar pabeidza materiālus, un es šodien līdz darba dienas beigām nosūtīšu gala failus."
+  },
+  "logos": {
+    "ariaLabel": "Klientu logotipi",
+    "headingPrefix": "Uzticas uz nākotni vērsti",
+    "headingHighlight": " profesionāļi un komandas ",
+    "headingSuffix": "visā pasaulē"
+  },
+  "features": {
+    "ariaLabel": "Funkcijas",
+    "eyebrow": "Jūsu iesūtne jaunā jaudā",
+    "title": "Jūsu iesūtnei nevajadzētu noteikt jūsu dienu",
+    "subtitle": "Pārvērtiet haosu skaidrībā ar MI, kas jūs patiešām saprot.\nIetaupiet 3+ stundas katru nedēļu ar gudrāko e-pasta asistentu Gmail un Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "E-pasta melnraksti, kas skan kā jūs",
+        "description": "Duet MI e-pasta rakstītājs sagatavo melnrakstus jūsu svarīgākajiem e-pastiem. Tas apgūst jūsu toni un rakstīšanas stilu.",
+        "ariaLabel": "E-pasta melnraksti, kas skan kā jūs",
+        "mockCopy": {
+          "draftedColdEmail": "Sagatavoju John personalizētu pirmā kontakta e-pasta melnrakstu",
+          "sampleText": "MI konveijeri ir būtiski, lai veidotu robustas, mērogojamas un efektīvas MI sistēmas.",
+          "readyToSend": "Gatavs nosūtīšanai?",
+          "remindFollowUp": "Atgādini man sekot līdzi."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Tūlītēji kopsavilkumi un veicamie uzdevumi",
+        "description": "Dažu sekunžu laikā iegūstiet īso kopsavilkumu un veicamos uzdevumus no e-pasta satura. Vairs nekādas romānu lasīšanas iesūtnē.",
+        "ariaLabel": "Tūlītēji kopsavilkumi un veicamie uzdevumi",
+        "mockCopy": {
+          "sentencePrefix": "Es ierosinu ",
+          "sentenceHighlight": "tikties nākamnedēļ",
+          "sentenceSuffix": "?",
+          "actionTitle": "Jauns veicamais uzdevums",
+          "actionLead": "Es atradu šos brīvos laikus jūsu kalendārā",
+          "slots": [
+            "Otrdien, plkst. 10:00",
+            "Ceturtdien, plkst. 14:00",
+            "Piektdien, 9:00"
+          ],
+          "secondaryButton": "Atrast vēl",
+          "primaryButton": "Sūtīt"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Viedi atgādinājumi",
+        "description": "Iestatiet un aizmirstiet. Duet MI atceras sekot līdzi, kad citi neatbild, lai nekas nepaslīdētu garām.",
+        "ariaLabel": "Viedi atgādinājumi",
+        "mockCopy": {
+          "header": "MI darbināti viedie atgādinājumi",
+          "stats": [
+            {
+              "label": "Sekošana",
+              "value": "12",
+              "unit": "e-pasti"
+            },
+            {
+              "label": "Jāatbild",
+              "value": "2",
+              "unit": "e-pasti"
+            },
+            {
+              "label": "Pabeigts",
+              "value": "3",
+              "unit": "darāmie uzdevumi"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Pabeigt rakstīšanas uzdevumus",
+              "time": "pirms 2 dienām"
+            },
+            {
+              "title": "Projekta integrācija",
+              "time": "pirms 12 stundām"
+            }
+          ],
+          "actions": [
+            "Sekot līdzi",
+            "Pārcelt?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Koncentrējieties uz svarīgo",
+        "description": "Viedā kategorizēšana vispirms izceļ jūsu svarīgākos e-pastus un sakārto tos pa tēmām. E-pasta pārvaldība nekad nav bijusi vienkāršāka.",
+        "ariaLabel": "Koncentrējieties uz svarīgo",
+        "mockCopy": {
+          "analyzing": "ANALIZĒ"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "E-pasta organizēšana un viedā iesūtnes kategorizēšana",
+    "badge": "Organizācija",
+    "title": "Duet sakārto jūsu iesūtni",
+    "subtitle": "Automātiskā kategorizēšana filtrē troksni un izceļ svarīgo. Uzreiz redziet, kam nepieciešama rīcība, kas ir tikai informācijai un kas var pagaidīt.",
+    "windowTitle": "Iesūtne",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "14:34",
+      "11:05",
+      "9:22",
+      "Vakar",
+      "20. dec."
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "4. ceturkšņa budžeta pārskatīšanas pieprasījums",
+        "preview": "Galīgie skaitļi ir pievienoti. Lūdzu, pārskatiet līdz dienas beigām.",
+        "pill": "Nepieciešama rīcība"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Komandas ikdienas sapulce rīt plkst. 10:00",
+        "pill": "Sapulce"
+      },
+      {
+        "from": "Design Team",
+        "avatarLetter": "D",
+        "subject": "Publicētas jaunās zīmola vadlīnijas",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Jūsu mēneša pārskats ir gatavs",
+        "pill": "Akcijas"
+      },
+      {
+        "from": "Newsletter",
+        "subject": "Nedēļas kopsavilkums",
+        "pill": "Akcijas"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI e-pasta melnrakstu un atbilžu ģenerēšana",
+    "badge": "Melnraksti",
+    "title": "Duet raksta melnrakstus jūsu balsī",
+    "subtitle": "Duet iemācās, kā jūs rakstāt, un sagatavo atbildes, kas atbilst jūsu tonim. Pārskatiet, vajadzības gadījumā pielāgojiet un nosūtiet dažu sekunžu laikā.",
+    "windowTitle": "Jauns ziņojums",
+    "fieldLabels": {
+      "to": "To:",
+      "subject": "Temats:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Ātra saskaņošana šonedēļ?",
+      "originalFrom": "Alex Rivera rakstīja:",
+      "originalText": "Sveiki! Labprāt pārrunātu izmaiņas ceļa kartē. Vai šonedēļ esat brīvs 30 minūšu zvanam? Dodiet ziņu, kas jums der.",
+      "badge": "Automātiski izveidots melnraksts",
+      "lines": [
+        "Sveiks, Alex!",
+        "Labprāt saskaņotu ceļa karti. Esmu brīvs ceturtdien no 14:00 līdz 16:00 vai piektdienas rītā — abi varianti man der lieliski.",
+        "Dod ziņu, kas tev der vislabāk, un es nosūtīšu uzaicinājumu.",
+        "Paldies!  "
+      ],
+      "highlightText": "Esmu brīvs ceturtdien no 14:00 līdz 16:00 vai piektdienas rītā",
+      "actions": [
+        "Sūtīt",
+        "Rediģēt"
+      ],
+      "tooltipTitle": "Personalizēts melnraksts",
+      "tooltipFeatures": [
+        "Pārzina jūsu kalendāru",
+        "Raksta melnrakstus jūsu balsī",
+        "Pārzina kontekstu, izmantojot atmiņu",
+        "Laika gaitā mācās"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI e-pasta inteliģence un asistents",
+    "badge": "Inteliģence",
+    "title": "Jautājiet jebko par savu e-pastu",
+    "subtitle": "Palūdziet Duet atrast e-pastus, pārbaudīt jūsu kalendāru vai sagatavot atbildes melnrakstu. Tas saprot jūsu iesūtni un atbild uzreiz.",
+    "windowTitle": "Duet Agent",
+    "onlineLabel": "Tiešsaistē",
+    "initialUserMessage": "Vai vari atrast Stripe rēķinu, ko nosūtīja grāmatvedība?",
+    "processingText": "Meklē iesūtnē...",
+    "foundHeader": "Atrasti 2 e-pasta ziņojumi no Stripe",
+    "foundBody": "Atradu kvīti par $29.00 USD no 24. oktobra.",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Sagatavot atbildes melnrakstu"
+      },
+      {
+        "action": "calendar",
+        "label": "Atrast laiku tikšanās reizei"
+      }
+    ],
+    "inputPlaceholder": "Jautājiet jebko...",
+    "dynamicResponses": {
+      "processingDefault": "Apstrādā...",
+      "processingDraft": "Ģenerē melnrakstu...",
+      "processingCalendar": "Pārbauda pieejamību...",
+      "draftIntro": "Lūk, atbildes melnraksts grāmatvedībai:",
+      "draftHeader": "Melnraksts: accounting@company.com",
+      "draftLines": [
+        "Sveika, komanda,",
+        "Pielikumā atradīsiet Stripe rēķinu par oktobri ($29.00).",
+        "Dodiet ziņu, ja nepieciešams vēl kas.",
+        "Ar cieņu,"
+      ],
+      "draftActions": [
+        "Sūtīt e-pastu",
+        "Rediģēt"
+      ],
+      "calendarIntro": "Rīt jums ir 3 brīvi laiki:",
+      "calendarSlots": [
+        {
+          "time": "9:30 no rīta",
+          "duration": "30 min"
+        },
+        {
+          "time": "2:00 pēcpusdienā",
+          "duration": "30 min"
+        },
+        {
+          "time": "4:30 pēcpusdienā",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Vai sagatavot arī atbildes melnrakstu?",
+        "calendarAfterDraft": "Vai ieplānot arī atgādinājumu?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Atsauksmes",
+    "scrollingAriaLabel": "Ritināmas atsauksmes",
+    "eyebrow": "Atsauksmes",
+    "title": "Aizņemtu profesionāļu iecienīts",
+    "subtitle": "Īsti cilvēki. Reāli panākumi iesūtnē.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Ārštata speciāliste",
+        "quote": "Vērts katru centu. Laiks, ko ietaupu e-pastā, atmaksā Duet Mail desmitkārtīgi. Tagad vairs nevaru iedomāties darbu bez tā.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Pārdošanas vadītājs",
+        "quote": "Tūlītējie garu e-pasta sarakstu kopsavilkumi ir tīra maģija un ļoti ērti lietojami. Mani klienti domā, ka esmu pārcilvēks.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Uzņēmējs",
+        "quote": "Biju skeptisks par mākslīgā intelekta izmantošanu saviem e-pastiem. Tagad tas ir kā izcils izpildasistents. Nevaru iedomāties atgriešanos pie vecā.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Konsultante",
+        "quote": "Kā konsultantei man svarīga ir katra minūte. Duet Mail ne tikai ietaupa man laiku — tas padara manu e-pasta saziņu precīzāku.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "Mārketinga direktore",
+        "quote": "Beidzot AI e-pasta asistents, kas tiešām iemācās, kā es rakstu. Tūlītējās atbildes ir tik precīzas, ka mana komanda domāja — strādāju pusnaktī.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Cenas",
+    "eyebrow": "Cenas",
+    "heading": "Vienkāršas cenas, jaudīga iesūtne",
+    "subheading": "Sāciet bez maksas, jauniniet jebkurā laikā. Atceliet, kad vien vēlaties.",
+    "billingLegend": "Norēķinu periods",
+    "billingAnnual": "Gada",
+    "billingMonthly": "Mēneša",
+    "savingsTag": "Ietaupiet 33%",
+    "priceCadence": "/mēnesī",
+    "perUserSuffix": "/lietotājs",
+    "annualBillingSuffix": "(rēķins reizi gadā)",
+    "trustItems": [
+      "Droša apmaksa ar Stripe",
+      "Atceliet jebkurā laikā"
+    ],
+    "plans": [
+      {
+        "name": "Pamata",
+        "description": "Ikvienam, kurš vēlas izmēģināt, kāda ir gudrāka iesūtne. Bez saistībām.",
+        "priceLabel": "Free",
+        "features": [
+          {
+            "title": "Tūlītēji kopsavilkumi",
+            "description": "Iegūstiet jebkuras sarakstes būtību"
+          },
+          {
+            "title": "AI melnraksti",
+            "description": "Ieskats atbildēs jūsu stilā"
+          },
+          {
+            "title": "Viedā iesūtne",
+            "description": "Pamata organizēšana iesākumam"
+          },
+          {
+            "title": "Duet Assistant",
+            "description": "Izmēģiniet AI asistentu"
+          }
+        ],
+        "ctaLabel": "Izvēlieties Gmail vai Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "14 dienu bezmaksas izmēģinājums",
+        "description": "Profesionāļiem, kuri vēlas dziļāku automatizāciju, integrācijas un iesūtni, kas patiesi zina, kā jūs strādājat.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Viedā iesūtne",
+            "description": "E-pasti tiek automātiski kārtoti viedās kategorijās",
+            "highlight": true
+          },
+          {
+            "title": "AI melnraksti",
+            "description": "Atbildes jūsu stilā, gatavas nosūtīšanai",
+            "highlight": true
+          },
+          {
+            "title": "Duet asistents",
+            "description": "Tērzējiet, lai meklētu, veidotu melnrakstus, organizētu un paveiktu vairāk",
+            "highlight": true
+          },
+          {
+            "title": "Kalendāra integrācija",
+            "description": "Plānojiet, skatiet un pārvaldiet notikumus no savas iesūtnes"
+          },
+          {
+            "title": "Tūlītēji kopsavilkumi",
+            "description": "Ātri uztveriet jebkuras sarakstes vai pielikuma būtību"
+          },
+          {
+            "title": "Viedie atgādinājumi",
+            "description": "Turpmākie soļi tiek izcelti automātiski, lai nekas nepazustu"
+          },
+          {
+            "title": "Prioritārs atbalsts",
+            "description": "Īsti cilvēki, ātras atbildes"
+          }
+        ],
+        "ctaLabel": "Izvēlieties Gmail vai Outlook",
+        "featured": true
+      },
+      {
+        "name": "Uzņēmumiem",
+        "description": "Organizācijām, kurām nepieciešama uzņēmuma līmeņa mērogojamība, specializēts atbalsts un pielāgotas darbplūsmas. Vislabāk komandām ar 50+ cilvēkiem.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Viss, kas iekļauts Pro",
+            "description": "Iekļautas visas funkcijas"
+          },
+          {
+            "title": "Specializēts atbalsts",
+            "description": "Personīgais konta pārvaldnieks"
+          },
+          {
+            "title": "Komandas analītika",
+            "description": "Ieskati visā jūsu organizācijā"
+          },
+          {
+            "title": "Koplietotas darbplūsmas",
+            "description": "Veidnes un automatizācijas komandām"
+          }
+        ],
+        "ctaLabel": "Sazināties ar pārdošanas komandu",
+        "ctaNote": "Pieejama individuāla cena"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Biežāk uzdotie jautājumi",
+    "eyebrow": "FAQ",
+    "headingPrefix": "Biežākie jautājumi, ",
+    "headingAccent": "atbildēti",
+    "contactDecorative": "?",
+    "contactLabel": "KONTAKTI",
+    "contactHeading": "Joprojām ir jautājumi?",
+    "contactCta": "Sazinieties →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Kā Duet Mail aizsargā manus e-pasta datus?",
+        "answer": "Jūsu drošība ir mūsu augstākā prioritāte. Drošai autentifikācijai gan ar Google, gan Microsoft izmantojam OAuth 2.0. E-pasta saturs glabāšanas laikā tiek šifrēts, izmantojot klienta puses lauku līmeņa šifrēšanu, un API piekļuvei ievērojam minimālo privilēģiju principu. Google integrācijai mēs veicam Google ikgadējo CASA drošības novērtējumu."
+      },
+      {
+        "question": "Kā darbojas e-pasta kopsavilkumu funkcija?",
+        "answer": "Duet Mail izmanto progresīvu AI, lai analizētu jūsu e-pasta sarakstes un izveidotu īsu pārskatu, izceļot galvenos punktus, lēmumus un veicamos uzdevumus. Tas palīdz ātri izprast kontekstu, nelasot visu saraksti."
+      },
+      {
+        "question": "Kādas atļaujas nepieciešamas Duet Mail?",
+        "answer": "Duet Mail nepieciešama piekļuve jūsu e-pastiem, lai sniegtu kopsavilkumus, izgūtu veicamos uzdevumus, ģenerētu saturu un nosūtītu jūsu e-pastus. Mēs pieprasām tikai tās atļaujas, kas mums patiešām nepieciešamas. Jūs jebkurā laikā varat pārskatīt un atsaukt šīs atļaujas sava Google konta vai Microsoft konta iestatījumos."
+      },
+      {
+        "question": "Kas iekļauts bezmaksas izmēģinājumā?",
+        "answer": "14 dienu bezmaksas izmēģinājums ietver pilnu piekļuvi visām Pro funkcijām: neierobežoti e-pasta kopsavilkumi, veicamo uzdevumu izgūšana, AI e-pastu rakstītājs (e-pastu un melnrakstu ģenerēšana bez jebkādiem ierobežojumiem) un pielāgotas e-pasta veidnes. Pierakstieties ar Google vai Microsoft, lai sāktu ietaupīt laiku e-pasta pārvaldībā."
+      },
+      {
+        "question": "Vai varu izmantot Duet Mail ar citiem e-pasta pakalpojumu sniedzējiem?",
+        "answer": "Duet Mail atbalsta Gmail, Google Workspace un Microsoft Outlook. Pierakstieties ar savu Google vai Microsoft kontu, lai sāktu darbu."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Sākt darbu",
+    "headline": "Atgūstiet 4 stundas.\nKatru nedēļu.",
+    "subline": "Pievienojieties profesionāļiem, kuri dienu sāk ar skaidrību, nevis haosu. Jūsu bezmaksas izmēģinājums gaida.",
+    "primaryCta": "Sākt ar Gmail",
+    "secondaryCta": "Sākt ar Outlook",
+    "note": "14 dienu bezmaksas izmēģinājums · Atceliet jebkurā laikā",
+    "trustItems": [
+      "Novērtēts pēc Google CASA",
+      "Šifrēts glabāšanas laikā",
+      "Drošs OAuth 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Vietnes kājene",
+    "brandIconAlt": "Duet Mail ikona",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — AI e-pasta asistents, kas katru nedēļu ietaupa jums stundas",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Izpētīt",
+        "links": [
+          {
+            "label": "Organizēšana",
+            "href": "/#organization"
+          },
+          {
+            "label": "Melnrakstu veidošana",
+            "href": "/#drafting"
+          },
+          {
+            "label": "Viedās funkcijas",
+            "href": "/#intelligence"
+          },
+          {
+            "label": "Chrome paplašinājums",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Klienti",
+        "links": [
+          {
+            "label": "Cenas",
+            "href": "/#pricing"
+          },
+          {
+            "label": "Atsauksmes",
+            "href": "/#testimonials"
+          },
+          {
+            "label": "FAQ",
+            "href": "/#faq"
+          }
+        ]
+      },
+      {
+        "title": "Juridiskā informācija",
+        "links": [
+          {
+            "label": "Privātums",
+            "href": "/privacy"
+          },
+          {
+            "label": "Noteikumi",
+            "href": "/terms"
+          },
+          {
+            "label": "Sīkfaili",
+            "href": "/cookies"
+          },
+          {
+            "label": "Atruna",
+            "href": "/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Saziņa",
+        "links": [
+          {
+            "label": "Blogs",
+            "href": "/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup slava",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Ieguldījumu atdeve",
+    "label": "Aprēķins",
+    "narrativeTemplate": "Ja {bookingUnit} cena ir {pricePerBooking}, zaudēt vien {lostPerMonth} lēnu atbilžu dēļ =",
+    "lossSuffix": "/mēn. zaudēti",
+    "dividerLabel": "pret",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI e-pasta asistents Gmail un Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Klientu atbalsts",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "AI e-pasta asistents Gmail un Outlook, kas automātiski apkopo e-pastus, sagatavo atbildes jūsu stilā un organizē jūsu iesūtni, lai katru nedēļu ietaupītu stundas.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Vieda e-pasta organizēšana un kategorizēšana",
+      "Ar AI darbināta e-pastu sagatavošana jūsu stilā",
+      "Inteliģents e-pasta asistents ar kalendāra integrāciju",
+      "Automātiski e-pasta kopsavilkumi un veicamie uzdevumi",
+      "Viedi atgādinājumi par turpmākām darbībām"
+    ],
+    "offers": [
+      {
+        "name": "Pamata plāns",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Bezmaksas plāns ar tūlītējiem kopsavilkumiem, AI melnrakstiem un viedo iesūtni"
+      },
+      {
+        "name": "Pro plāns",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Pilna piekļuve ar viedu iesūtnes kategorizēšanu, AI melnrakstiem, asistentu un kalendāra integrāciju"
+      }
+    ],
+    "operatingSystem": "Tīmeklis",
+    "browserRequirements": "Nepieciešams JavaScript. Darbojas ar Gmail, Google Workspace un Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Kā Duet Mail aizsargā manus e-pasta datus?",
+        "answer": "Jūsu drošība ir mūsu galvenā prioritāte. Drošai autentifikācijai gan ar Google, gan Microsoft izmantojam OAuth 2.0. E-pastu saturs tiek šifrēts miera stāvoklī, izmantojot klienta puses lauka līmeņa šifrēšanu, un API piekļuvei ievērojam vismazāko privilēģiju principu. Google integrācijai mēs ik gadu veicam Google CASA drošības novērtējumu."
+      },
+      {
+        "question": "Kā darbojas e-pasta kopsavilkumu funkcija?",
+        "answer": "Duet Mail izmanto progresīvu AI, lai analizētu jūsu e-pasta sarakstes un izveidotu kodolīgu pārskatu, izceļot galvenos punktus, lēmumus un veicamos uzdevumus. Tas palīdz ātri izprast kontekstu, nelasot visu saraksti."
+      },
+      {
+        "question": "Kādas atļaujas nepieciešamas Duet Mail?",
+        "answer": "Duet Mail nepieciešama piekļuve jūsu e-pastiem, lai nodrošinātu kopsavilkumus, izvilktu veicamos uzdevumus, ģenerētu saturu un nosūtītu jūsu e-pastus. Mēs pieprasām tikai tās atļaujas, kas mums patiešām nepieciešamas. Šīs atļaujas jebkurā laikā varat pārskatīt un atsaukt sava Google Account vai Microsoft Account iestatījumos."
+      },
+      {
+        "question": "Kas ir iekļauts bezmaksas izmēģinājumā?",
+        "answer": "14 dienu bezmaksas izmēģinājums ietver pilnu piekļuvi visām Pro funkcijām: neierobežotiem e-pasta kopsavilkumiem, veicamo uzdevumu izvilkšanai, AI e-pastu rakstītājam (e-pastu un melnrakstu ģenerēšanai bez jebkādiem ierobežojumiem) un pielāgotām e-pasta veidnēm. Pierakstieties ar Google vai Microsoft, lai sāktu taupīt laiku e-pasta pārvaldībā."
+      },
+      {
+        "question": "Vai varu izmantot Duet Mail ar citiem e-pasta pakalpojumu sniedzējiem?",
+        "answer": "Duet Mail atbalsta Gmail, Google Workspace un Microsoft Outlook. Lai sāktu, pierakstieties ar savu Google vai Microsoft kontu."
+      }
+    ]
+  }
+}

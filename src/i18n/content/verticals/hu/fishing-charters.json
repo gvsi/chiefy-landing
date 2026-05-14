@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail horgászbérletekhez | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a horgászhajó kapitányainak azonnal válaszolni a foglalási e-mailekre – még a vízből is. AI által összeállított válaszok az Ön áraival, irányelveivel és hangjával.",
+  "heroBadge": "Több mint 500 charter kapitány bízik benne",
+  "heroHeadline": "Az e-mail-asszisztens a vízen",
+  "heroSubline": "A Duet megtanulja az Ön árait, irányelveit és hangját – majd e-mail-válaszokat készít, így Ön soha nem veszít el egy foglalást a lassú válasz miatt.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Elérhetőség július 12-től 4 főre?",
+      "preview": "Szia! 4 fős csoport vagyunk, akik horgásztúrát szeretnének lefoglalni július 12-én. Van szabad hely? Mi az ára egy teljes napra?",
+      "pill": "Válaszolni",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Mit vigyünk?",
+      "preview": "Szia, szombatra foglaltunk. Gyors kérdés – mit vigyünk? Ön biztosít botot és felszerelést, vagy vigyünk magunkkal...",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike és Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Vasárnapra kell átütemezni",
+      "preview": "Elnézést a késői értesítésért, de az időjárás előrejelzés szombaton zordnak ígérkezik. Költözhetnénk inkább vasárnapra? Ugyanebben az időben...",
+      "pill": "Foglalás",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Új vélemény az adatlapodról",
+      "preview": "Egy utazó nemrégiben véleményezte vállalkozását. Nézd meg, mit mondtak, és válaszolj...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Szia Sarah! Július 12-én 4 óráig tartanak nyitva. Az egész napos kirándulások 8 órásak, reggel 6 órától. Az összes botot, felszerelést, csalit és engedélyt tartalmazza – csak vigyen magával fényvédőt, vizet és hűtőt a fogásához. Akarod, hogy bezárjam?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "charter",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Egy elmentett foglalás egy év Duetért fizet."
+  },
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kéréseket látja, a kérdéseket csak utána, a zajt pedig soha. Többé nem hiányzik egy utazási kérdés a TripAdvisor figyelmeztetések alá.",
+  "draftSubtitle": "A Duet megtanulja az Ön árait, irányelveit és hangnemét. Amikor egy foglalási kérdés érkezik, teljes választ készít az utazás részleteiről, az árakról és arról, hogy mit vigyen magával. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Mely napok lesznek nyitva a jövő héten? \"Választervezet Sarah-nak az elérhetőséggel.\" A Duet ismeri a postaládáját és a naptárát – csak kérdezzen.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Elérhetőség július 12-től 4 főre?",
+      "preview": "4 fős csoport vagyunk, akik horgásztúrát szeretnének foglalni...",
+      "pill": "Válaszoljon most",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Foglalás megerősítve – szombat reggel 7 óra",
+      "pill": "Lefoglalt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Mit vigyünk szombaton?",
+      "pill": "Kérdés",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Az Ön heti foglalási összefoglalója",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Nyugati tengerészgyalogos",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Tavaszi akció – 20% kedvezmény a kellékekre",
+      "pill": "Promozgások",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Elérhetőség július 12-én 4 főre?",
+    "originalFrom": "Sarah M. írta:",
+    "originalText": "Szia! 4 fős csoport vagyunk, akik horgásztúrát szeretnének lefoglalni július 12-én. Van szabad hely? Mi az ára egy teljes napra?",
+    "lines": [
+      "Szia Sarah!",
+      "Július 12-én 4-en vehetnek részt. Az egész napos kirándulások ára 500 dollár, és 8 órán keresztül indul reggel 6 órától a kikötőből.",
+      "Az összes felszerelést, csalit és horgászengedélyt tartalmazza – csak hozzon magával fényvédőt és hűtőt.",
+      "Akarod, hogy bezárjam?"
+    ],
+    "highlightText": "Július 12-én 4-en vehetnek részt. Az egész napos kirándulások ára 500 dollár",
+    "tooltipFeatures": [
+      "Ismeri az árát és elérhetőségét",
+      "Piszkozatok a hangodban",
+      "Az utazás részleteit automatikusan tartalmazza",
+      "Idővel tanul"
+    ]
+  },
+  "agent": {
+    "userMessage": "A jövő héten mely napok vannak még nyitva?",
+    "agentResponse": "A naptárad alapján jövő héten kedden, csütörtökön és szombaton van nyitva. Hétfőn és szerdán teljesen lefoglaltak (2 charter). Szeretné, ha ezekkel a dátumokkal válaszolnék minden függőben lévő kérdésre?",
+    "followUp": "Írjon egy választ Sarah-nak a július 12-i elérhetőséggel",
+    "followUpResponse": "Kész! Írtam egy választ Sarah-nak, amelyben megerősítettem, hogy július 12-e 4 vendég számára 500 dollár. Tartalmazza a szokásos utazási adatokat és a találkozó helyét. Áttekintésre és küldésre kész."
+  },
+  "testimonialsTitle": "Szeretik a charter kapitányok",
+  "testimonials": [
+    {
+      "name": "Mike D kapitány.",
+      "title": "Offshore Charter Captain, FL",
+      "quote": "A főszezonban heti 2-3 foglalást elvesztettem volna, csak mert nem tudtam elég gyorsan válaszolni a hajóról. A Duet válaszokat készít az árakkal és az utazásom részleteivel – csak a küldés gombra kattintottam a fogások között.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah és Tom K.",
+      "title": "Family Charter Business, VAGY",
+      "quote": "Két hajót üzemeltetünk, és nyáron az e-mailek száma őrült. A Duet minden mástól válogatja a foglalási kérelmeket, és olyan válaszokat készít, amelyek pontosan úgy hangzanak, mint mi. Abszolút játékváltó.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Part menti halászati ​​útmutató, TX",
+      "quote": "Minden este egy órát töltöttem azzal, hogy ugyanazokra a rendelkezésre állási kérdésekre válaszoljak. Most a Duet kezeli. A válaszidőm órákról percekre változott, és azóta sem veszítettem el foglalást.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Charter Office Manager, HI",
+      "quote": "Az e-mailek kezelése 4 kapitány számára teljes munkaidős munka volt. A Duet mindent kategorizál, és válaszokat készít a megfelelő hajóval, a megfelelő áron, a megfelelő kapitánnyal. Olyan, mintha egy másik én lennék.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Deep Sea Charters, NC",
+      "quote": "Szkeptikus volt, hogy egy mesterséges intelligencia képes kezelni a horgász charter e-maileket. De megtanulta az utazási típusainkat, a benne foglaltakat, még a lemondási szabályzatunkat is. Az ügyfelek nem tudnak különbséget tenni.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Töltsd a főszezont a vízen,\nnem a postaládájában.",
+  "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
+  "verticalFaqs": [
+    {
+      "question": "A Duet működik foglalási és elérhetőségi e-mailek esetén?",
+      "answer": "Teljesen. A Duet megismeri az Ön utazási típusait, árait, elérhetőségét és szabályzatait. Amikor beérkezik egy foglalási kérés, teljes választ készít a megfelelő részletekkel – árakkal, az árakkal, a találkozó helyével, mit vigyen magával. Áttekinti, és megérinti a küldést."
+    },
+    {
+      "question": "Egész nap a vízen vagyok. Használhatom a Duetet a telefonomról?",
+      "answer": "Igen. A Duet működik a Gmail és Outlook jelekkel, így mindenhol működik, ahol az e-mailje működik – beleértve a telefont is. A piszkozatok automatikusan megjelennek. A fogások között egyetlen koppintással áttekintheti és elküldheti. A legtöbb kapitány azt mondja, hogy ezzel napi 1-2 óra e-mail-időt takarít meg a főszezonban."
+    }
+  ],
+  "pricingNote": "500 USD/charter áron egy megtakarított foglalás több mint egy év Pro-t fizet."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail para passeios a cavalo e guias de trilha | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda operadores de passeios a cavalo a responder emails de reserva instantaneamente — até da sela. Respostas redigidas por IA com seus preços, requisitos para cavaleiros e tom.",
+  "heroBadge": "Usado por mais de 300 guias de trilha",
+  "heroHeadline": "Seu assistente de e-mail enquanto você está na trilha",
+  "heroSubline": "O Duet aprende seus tipos de passeio, preços, requisitos para cavaleiros e condições da trilha — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Reserva de grupo para 6 — sábado de manhã?",
+      "preview": "Oi! Somos uma família de 6 (2 adultos, 4 crianças de 8-14 anos) e adoraríamos reservar um passeio a cavalo neste sábado de manhã. Vocês têm disponibilidade? Qual é o preço por pessoa?",
+      "pill": "Responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Pergunta sobre limite de peso",
+      "preview": "Oi, tenho interesse em reservar um passeio, mas queria perguntar primeiro sobre seus requisitos de peso. Tenho cerca de 260 lbs — isso será um problema...",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy & Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Passeio ao pôr do sol para aniversário?",
+      "preview": "Vamos comemorar nosso 10º aniversário no próximo fim de semana e vimos seu passeio ao pôr do sol no Instagram. Ele está disponível na sexta à noite? Há pacotes especiais...",
+      "pill": "Reserva",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova avaliação para sua página",
+      "preview": "Um viajante avaliou recentemente sua empresa. Veja o que ele disse e responda...",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Oi Jessica! Sábado de manhã está disponível para 6. Nossos passeios a cavalo custam $100/pessoa e duram cerca de 90 minutos pelo vale. Crianças a partir de 8 anos são bem-vindas — todos os seus estão liberados. Sapatos fechados são obrigatórios, e fornecemos capacetes. Quer que eu reserve vocês para o passeio das 9 AM?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "passeio",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Um passeio em grupo recuperado paga mais de dois anos de Duet."
+  },
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver pedidos de reserva primeiro, perguntas de cavaleiros em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Duet aprende seus tipos de passeio, preços e requisitos. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da trilha, preço e o que vestir. Você revisa e envia.",
+  "agentSubtitle": "\"Algum passeio livre neste fim de semana?\" \"Redija uma resposta para Jessica com a disponibilidade de sábado.\" O Duet conhece sua caixa de entrada e seu calendário — é só perguntar.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Reserva de grupo para 6 — sábado de manhã?",
+      "preview": "Somos uma família de 6 querendo reservar um passeio a cavalo...",
+      "pill": "Responder agora",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Passeio ao pôr do sol confirmado — sexta 5:30 PM",
+      "pill": "Reservado",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Limite de peso e requisitos de experiência?",
+      "pill": "Pergunta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Resumo semanal das suas reservas",
+      "pill": "Info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Tractor Supply",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Promoção de primavera — 15% de desconto em ração e arreios",
+      "pill": "Promoções",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Reserva de grupo para 6 — sábado de manhã?",
+    "originalFrom": "Jessica T. escreveu:",
+    "originalText": "Oi! Somos uma família de 6 (2 adultos, 4 crianças de 8-14 anos) e adoraríamos reservar um passeio a cavalo neste sábado de manhã. Vocês têm disponibilidade? Qual é o preço por pessoa?",
+    "lines": [
+      "Oi Jessica!",
+      "Sábado de manhã está totalmente disponível para 6. Os passeios a cavalo custam $100/pessoa e duram cerca de 90 minutos pelo vale. Crianças a partir de 8 anos são bem-vindas, então todo o grupo está liberado.",
+      "Sapatos fechados são obrigatórios — botas são o ideal. Fornecemos capacetes e combinamos cada cavaleiro com um cavalo conforme tamanho e experiência. Não é preciso experiência prévia.",
+      "Quer que eu reserve vocês para o passeio das 9 AM?"
+    ],
+    "highlightText": "Sábado de manhã está totalmente disponível para 6. Os passeios a cavalo custam $100/pessoa",
+    "tooltipFeatures": [
+      "Conhece seus preços e disponibilidade",
+      "Redige no seu tom de voz",
+      "Inclui automaticamente os requisitos para cavaleiros",
+      "Aprende com o tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Algum passeio livre neste fim de semana? E como está a previsão do tempo?",
+    "agentResponse": "Com base no seu calendário, você tem horários livres no sábado às 9 AM e 2 PM, e no domingo às 10 AM. A previsão de sábado é 72°F e sol — clima perfeito para cavalgar. Domingo mostra 40% de chance de chuva à tarde, então o horário da manhã é a opção mais segura. Quer que eu redija respostas para alguma consulta pendente com esses horários?",
+    "followUp": "Redija uma resposta para Jessica com a disponibilidade de sábado",
+    "followUpResponse": "Pronto! Redigi uma resposta para Jessica confirmando sábado às 9 AM para 6 cavaleiros a $100/pessoa. Ela inclui seus requisitos padrão para cavaleiros e o que vestir. Pronta para revisar e enviar."
+  },
+  "testimonialsTitle": "Adorado por operadores de passeios a cavalo",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Dono de rancho e guia de trilha, MT",
+      "quote": "Fico na trilha 6 horas por dia sem sinal de celular. Quando eu voltava para responder, metade das pessoas já tinha reservado em outro lugar. Agora o Duet redige respostas com meus preços e detalhes dos passeios — eu só reviso e envio quando volto ao celeiro.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Operadora de passeios a cavalo, AZ",
+      "quote": "Recebemos dezenas de emails perguntando a mesma coisa — limites de peso, o que vestir, requisitos de idade. O Duet cuida de tudo isso e as respostas soam exatamente como eu. Meus hóspedes não fazem ideia de que é IA.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Guia de passeios em trilha, CO",
+      "quote": "A alta temporada estava me acabando. Mais de 30 emails por dia além de conduzir passeios. O Duet separa os pedidos de reserva do ruído e redige respostas que incluem tudo — preços, o que levar, tudo mesmo. Recuperei minhas noites.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Instrutora de equitação e gerente de reservas, TX",
+      "quote": "Fazemos passeios ao pôr do sol, passeios pela manhã e aulas particulares — cada um com preços e requisitos diferentes. O Duet aprendeu tudo em uma semana. Ele redige a resposta certa para o tipo certo de passeio todas as vezes.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Rancho familiar e passeios em trilha, CA",
+      "quote": "Os emails sensíveis eram os piores — alguém perguntando se é pesado demais ou se o filho tem idade suficiente. O Duet responde com o mesmo cuidado que eu teria. Profissional, gentil e preciso. Só isso já vale a pena.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Passe o dia com os cavalos,\nnão na sua caixa de entrada.",
+  "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "Como o Duet lida com perguntas sensíveis sobre peso ou requisitos de experiência?",
+      "answer": "O Duet aprende suas políticas específicas e espelha seu tom. Quando alguém pergunta sobre limites de peso ou requisitos de experiência, ele responde de forma profissional e acolhedora — compartilhando as informações necessárias sem tornar a situação desconfortável. Você define o tom uma vez e o Duet o segue de forma consistente, para que cada visitante se sinta respeitado."
+    },
+    {
+      "question": "O Duet consegue lidar com reservas de grupo com necessidades diferentes para cada cavaleiro?",
+      "answer": "Sim. O Duet aprende seus tipos de passeio, tamanhos de grupo, idades mínimas e quaisquer requisitos específicos de cavaleiros. Quando uma família ou grupo escreve sobre reserva, ele redige uma resposta que cobre o preço do grupo inteiro, o que cada cavaleiro precisa saber e os horários disponíveis. Você revisa e envia — sem precisar ficar indo e voltando."
+    }
+  ],
+  "pricingNote": "Com $100/pessoa para um grupo de 6, um passeio recuperado paga mais de dois anos de Pro."
+}

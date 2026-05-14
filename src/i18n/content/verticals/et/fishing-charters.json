@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail kalapüügi charteridele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab kalapüügi tšarterreiside kaptenitel koheselt broneerimiskirjadele vastata – isegi veest. Tehisintellekti koostatud vastused teie hinnakujunduse, eeskirjade ja häälega.",
+  "heroBadge": "Usaldab 500+ tšarterkaptenit",
+  "heroHeadline": "Teie meiliassistent vee peal viibimise ajal",
+  "heroSubline": "Duet saab teada teie hinnad, eeskirjad ja hääle – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi broneeringut aeglase vastuse tõttu.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Saadavus 12. juulil 4 inimesele?",
+      "preview": "Tere! Oleme 4-liikmeline grupp, kes soovib broneerida kalapüügireisi 12. juuliks. Kas teil on vabu kohti? Mis on terve päeva hind?",
+      "pill": "Et vastata",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Mida peaksime kaasa võtma?",
+      "preview": "Hei, me oleme laupäevaks broneeritud. Kiire küsimus – mida kaasa võtta? Kas pakute ridvad ja varustust või peaksime tooma oma...",
+      "pill": "küsimus",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike ja Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Vaja ajada pühapäevale",
+      "preview": "Vabandame hilise teate pärast, kuid ilmateade näib laupäeval karm. Kas võiksime kolida hoopis pühapäevale? Samal ajal...",
+      "pill": "Broneerimine",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uus arvustus teie kirje kohta",
+      "preview": "Üks reisija hindas hiljuti teie ettevõtet. Vaadake, mis neil öelda oli, ja vastake...",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Tere Saara! 12. juulil on avatud 4. Terve päeva reisid kestavad 8 tundi, algusega kell 6.00. Kõik ridvad, varustus, sööt ja litsentsid on kaasas – võtke lihtsalt kaasa päikesekaitsekreem, vesi ja jahuti. Tahad, et ma selle luku tahan?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "harta",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Üks salvestatud broneering maksab Duet aasta eest."
+  },
+  "categorizationSubtitle": "Duet märgistab automaatselt kõik meilid, nii et näete kõigepealt broneerimistaotlusi, seejärel küsimusi ja mitte kunagi müra. Enam ei puudu reisipäring, mis on maetud TripAdvisor märguannete alla.",
+  "draftSubtitle": "Duet saab teada teie hinnakujunduse, poliitika ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos reisi üksikasjade, hinna ja kaasavõetava teabega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Millised päevad on järgmisel nädalal avatud?\" \"Vastuse mustand Sarah'le koos saadavusega.\" Duet teab teie postkasti ja kalendrit – lihtsalt küsige.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "Saadavus 12. juulil 4 inimesele?",
+      "preview": "Oleme 4-liikmeline grupp, kes soovib broneerida kalaretke...",
+      "pill": "Vasta kohe",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Re: Broneering kinnitatud – laupäeval kell 7.00",
+      "pill": "Broneeritud",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Mida peaksime laupäeval kaasa võtma?",
+      "pill": "küsimus",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Teie iganädalane broneeringu kokkuvõte",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Lääne merejalavägi",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Kevadmüük – varustus 20% soodsamalt",
+      "pill": "Pakkumised",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Re: Saadavus 12. juuli 4 inimesele?",
+    "originalFrom": "Sarah M. kirjutas:",
+    "originalText": "Tere! Oleme 4-liikmeline grupp, kes soovib broneerida kalapüügireisi 12. juuliks. Kas teil on vabu kohti? Mis on terve päeva hind?",
+    "lines": [
+      "Tere Saara!",
+      "12. juuli on avatud neljale. Terve päeva reisid on $500 ja kestavad 8 tundi alates kell 6 jahisadamast.",
+      "Kaasas on kõik püügivahendid, sööt ja kalapüügilitsentsid – võtke lihtsalt kaasa päikesekaitsekreem ja jahuti.",
+      "Tahad, et ma selle luku tahan?"
+    ],
+    "highlightText": "12. juuli on avatud 4-le. Terve päeva reisid on $500",
+    "tooltipFeatures": [
+      "Teab teie hindu ja saadavust",
+      "Mustandid teie hääles",
+      "Sisaldab automaatselt reisi üksikasju",
+      "Õpib aja jooksul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Millised päevad on järgmisel nädalal veel avatud?",
+    "agentResponse": "Teie kalendri järgi on teil järgmise nädala teisipäeval, neljapäeval ja laupäeval avatud. Esmaspäev ja kolmapäev on täis broneeritud (mõlemad 2 tšarterit). Kas soovite, et koostaksin vastused kõikidele pooleliolevatele päringutele nende kuupäevadega?",
+    "followUp": "Koostage Sarah'le vastus, mis on saadaval 12. juulil",
+    "followUpResponse": "Valmis! Koostasin Sarah'le vastuse, milles kinnitasin 12. juulit 4 külalisele $500. See sisaldab teie tavapäraseid reisi üksikasju ja koosoleku asukohta. Ülevaatamiseks ja saatmiseks valmis."
+  },
+  "testimonialsTitle": "Armastatud tšarterlendude kaptenite poolt",
+  "testimonials": [
+    {
+      "name": "Kapten Mike D.",
+      "title": "Offshore tšarter kapten, FL",
+      "quote": "Kõrghooajal kaotasin 2–3 broneeringut nädalas lihtsalt sellepärast, et ma ei saanud paadist piisavalt kiiresti vastata. Duet koostab vastuste mustandid koos minu hinna ja reisi üksikasjadega – vajutasin püüdmiste vahel lihtsalt saatmisnuppu.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah ja Tom K.",
+      "title": "Family Charter Business, VÕI",
+      "quote": "Me sõidame kahe paati ja meilide hulk on suvel meeletu. Duet sorteerib broneerimistaotlused kõigest muust ja koostab vastused, mis kõlavad täpselt nagu meie. Absoluutne mängumuutja.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Rannikupüügi juhend, TX",
+      "quote": "Veetsin igal õhtul tund aega samadele saadavuse küsimustele vastamisele. Nüüd tegeleb sellega Duet. Minu reageerimisaeg kestis tundidest minutiteni ja pärast seda pole ma broneeringut kaotanud.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Charter Office Manager, HI",
+      "quote": "Nelja kapteni meilide haldamine oli täiskohaga töö. Duet kategoriseerib kõik ja koostab vastused õige paadiga, õige hinnaga, õige kapteniga. See on nagu teine ​​mina.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Deep Sea Charters, NC",
+      "quote": "Oli skeptiline, kas tehisintellekt suudab kalapüügi tšarterkirjadega hakkama saada. Kuid see sai selgeks meie reisitüübid, selle, mis sisaldab, isegi meie tühistamiseeskirjad. Kliendid ei suuda vahet teha.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Veeda kõrghooaeg vee peal,\nmitte teie postkastis.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
+  "verticalFaqs": [
+    {
+      "question": "Kas Duet töötab broneerimise ja saadavuse e-kirjade puhul?",
+      "answer": "Absoluutselt. Duet saab teada teie reisitüübid, hinnad, saadavuse ja eeskirjad. Kui saabub broneeringupäring, koostab see täieliku vastuse koos õigete üksikasjadega – hinnakujundus, mis sisaldab, koosoleku asukoht, mida kaasa võtta. Vaatate üle ja puudutate saatmist."
+    },
+    {
+      "question": "Olen terve päeva vee peal. Kas ma saan oma telefonist Duet kasutada?",
+      "answer": "Jah. Duet töötab koos Gmail ja Outlook, nii et see töötab kõikjal, kus teie e-post töötab – sealhulgas teie telefon. Mustandid ilmuvad automaatselt. Püükide vahel vaatate üle ja saadate ühe puudutusega. Enamik kapteneid ütleb meile, et see säästab neile tipphooajal 1–2 tundi meiliaega päevas."
+    }
+  ],
+  "pricingNote": "Kell $500/charter maksab üks salvestatud broneering rohkem kui aasta Pro eest."
+}

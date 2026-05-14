@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail Atlı Geziler ve Patika Rehberleri için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, atlı gezi operatörlerinin rezervasyon e-postalarına anında, hatta at sırtındayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, binici gereksinimleriniz ve ses tonunuzla birlikte gelir.",
+  "heroBadge": "300'den fazla doğa yürüyüşü rehberi tarafından güvenilen marka.",
+  "heroHeadline": "Yolda olduğunuz süre boyunca e-posta asistanınız",
+  "heroSubline": "Duet sürüş türlerinizi, fiyatlandırmanızı, sürücü gereksinimlerinizi ve parkur koşullarını öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
+  "inboxEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "6 kişilik grup rezervasyonu — Cumartesi sabahı?",
+      "preview": "Merhaba! 6 kişilik bir aileyiz (2 yetişkin, 8-14 yaş arası 4 çocuk) ve bu Cumartesi sabahı bir atlı gezintiye çıkmak istiyoruz. Müsaitliğiniz var mı? Kişi başı fiyat nedir?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Ağırlık sınırı sorusu",
+      "preview": "Merhaba, araç kiralama hizmeti almak istiyorum ancak öncelikle ağırlık gereksinimleriniz hakkında bilgi almak istedim. Yaklaşık 118 kg ağırlığındayım, bu bir sorun teşkil eder mi?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy ve Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Yıldönümü için gün batımı turu mu?",
+      "preview": "Gelecek hafta sonu 10. yıl dönümümüzü kutluyoruz ve Instagram'daki gün batımı turunuzu gördük. Cuma akşamı müsait mi? Özel paketleriniz var mı?",
+      "pill": "Rezervasyon",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Jessica! Cumartesi sabahı 6 kişilik kontenjanımız var. Atlı turlarımız kişi başı 0,5 ABD doları ve vadide yaklaşık 90 dakika sürüyor. 8 yaş ve üzeri çocuklar katılabilir, tüm çocuklarınız da gelebilir. Kapalı ayakkabı giymek zorunludur ve kaskları biz sağlıyoruz. Sizi sabah 9'daki tura kaydetmemi ister misiniz?",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "sürmek",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Bir grup sürüşünden elde edilen tasarruf, iki yıldan fazla süren Duet masrafını karşılıyor."
+  },
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra sürücü sorularını ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan grup sorularını kaçırma derdine son.",
+  "draftSubtitle": "Duet sürüş türlerinizi, fiyatlandırmayı ve gereksinimlerinizi öğrenir. Bir rezervasyon talebi geldiğinde, parkur detayları, fiyatlandırma ve ne giyileceğiyle ilgili eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta sonu müsait olan var mı?\" \"Cumartesi müsaitliğiyle ilgili olarak Jessica'ya bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Jessica T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "6 kişilik grup rezervasyonu — Cumartesi sabahı?",
+      "preview": "Altı kişilik bir aile olarak atlı gezi rezervasyonu yaptırmak istiyoruz...",
+      "pill": "Şimdi Yanıt Verin",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Konu: Gün batımı turu onaylandı — Cuma 17:30",
+      "pill": "Rezervasyon yapıldı",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brian L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Ağırlık sınırı ve deneyim şartları nelerdir?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viator",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Haftalık rezervasyon özetiniz",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Traktör Tedarik",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Bahar indirimi — yem ve ekipmanlarda %15 indirim",
+      "pill": "Promosyonlar",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Konu: Cumartesi sabahı için 6 kişilik grup rezervasyonu?",
+    "originalFrom": "Jessica T. şöyle yazdı:",
+    "originalText": "Merhaba! 6 kişilik bir aileyiz (2 yetişkin, 8-14 yaş arası 4 çocuk) ve bu Cumartesi sabahı bir atlı gezintiye çıkmak istiyoruz. Müsaitliğiniz var mı? Kişi başı fiyat nedir?",
+    "lines": [
+      "Merhaba Jessica!",
+      "Cumartesi sabahı saat 6 için müsait. Atlı geziler kişi başı $100 olup vadide yaklaşık 90 dakika sürmektedir. 8 yaş ve üzeri çocuklar da katılabilir, yani tüm ekibiniz hazır.",
+      "Kapalı burunlu ayakkabılar zorunludur; botlar en iyisidir. Kask sağlıyoruz ve her biniciyi boyutuna ve deneyimine göre bir ata eşleştiriyoruz. Daha önce binicilik deneyimi gerekmez.",
+      "Sabah 9'daki yolculuk için seni kilitlememi ister misin?"
+    ],
+    "highlightText": "Cumartesi sabahı saat 6 için tamamen müsait. Atlı geziler kişi başı $100.",
+    "tooltipFeatures": [
+      "Fiyatlandırmanızı ve müsaitlik durumunuzu biliyor.",
+      "Sesinizdeki taslaklar",
+      "Sürücü gereksinimlerini otomatik olarak içerir.",
+      "Zamanla öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Bu hafta sonu açık olan eğlence parkı var mı? Ayrıca, hava nasıl olacak?",
+    "agentResponse": "Takviminize göre, Cumartesi günü saat 9:00 ve 14:00'te, Pazar günü ise saat 10:00'da müsaitlikleriniz var. Cumartesi günü hava tahmini 22°C ve güneşli; mükemmel bir sürüş havası. Pazar günü öğleden sonra yağmur yağma olasılığı %40, bu nedenle sabah saatleri daha güvenli bir seçenek. Bu saatleri kullanarak bekleyen sorulara yanıt taslağı hazırlamamı ister misiniz?",
+    "followUp": "Jessica'ya cumartesi günü müsaitliğinizi belirten bir yanıt taslağı gönderin.",
+    "followUpResponse": "Tamam! Jessica'ya Cumartesi sabah 9'da $100/kişi ücretiyle 6 kişi için buluşmayı teyit eden bir yanıt taslağı hazırladım. Standart binici gereksinimlerinizi ve ne giyeceğinizi içeriyor. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "Atlı tur operatörleri tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Jake H.",
+      "title": "Çiftlik Sahibi ve Patika Rehberi, MT",
+      "quote": "Günde 6 saat boyunca cep telefonu çekmeyen yollardayım. Cevap vermek için geri döndüğümde, insanların yarısı başka bir yere rezervasyon yaptırmıştı bile. Şimdi Duet fiyatlandırma ve sürüş detaylarımla birlikte yanıt taslaklarını hazırlıyor; ben de ahıra döndüğümde gözden geçirip gönderiyorum.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Atlı Tur Operatörü, Arizona",
+      "quote": "Aynı şeyi soran düzinelerce e-posta alıyoruz - ağırlık sınırları, ne giyileceği, yaş şartları. Duet bunların hepsini hallediyor ve yanıtlar tıpkı benim gibi geliyor. Misafirlerim bunun AI olduğunu bilmiyorlar bile.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Tyler S.",
+      "title": "Atlı Gezi Rehberi, CO",
+      "quote": "Yoğun sezon beni mahvediyordu. Günde 30'dan fazla e-postaya cevap vermenin yanı sıra, turlar da düzenliyordum. Duet rezervasyon taleplerini gereksiz olanlardan ayırıyor ve her şeyi içeren yanıtlar hazırlıyor - fiyatlandırma, ne getirilmesi gerektiği, her şey. Akşamlarımı geri kazandım.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Binicilik Eğitmeni ve Rezervasyon Yöneticisi, Teksas",
+      "quote": "Gün batımı turları, sabah turları ve özel dersler düzenliyoruz; her birinin fiyatlandırması ve gereksinimleri farklı. Duet bunların hepsini bir haftada öğrendi. Her seferinde doğru tur türü için doğru cevabı hazırlıyor.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Aile Çiftliği ve Atlı Geziler, Kaliforniya",
+      "quote": "Hassas konularla ilgili e-postalar en kötüsüydü; biri çok ağır olup olmadığını veya çocuğunun yeterince büyük olup olmadığını soruyordu. Duet bu tür e-postaları da benim gibi özenle ele alıyor. Profesyonel, nazik ve doğru. Sadece bu bile yeterli.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Günü atlarla geçirin,\ne-posta kutunuzda değil.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Duet, kilo veya deneyim gereksinimleriyle ilgili hassas soruları nasıl ele alıyor?",
+      "answer": "Duet, sizin özel politikalarınızı öğrenir ve sizin üslubunuzu yansıtır. Birisi ağırlık sınırları veya deneyim gereksinimleri hakkında soru sorduğunda, profesyonel ve sıcak bir şekilde yanıt verir; ihtiyaç duydukları bilgiyi garip bir durum yaratmadan paylaşır. Siz bir kez üslubu belirlersiniz ve Duet bunu tutarlı bir şekilde takip eder, böylece her misafir saygı gördüğünü hisseder."
+    },
+    {
+      "question": "Duet farklı sürücü ihtiyaçlarına sahip grup rezervasyonlarını yönetebilir mi?",
+      "answer": "Evet. Duet sürüş türlerinizi, grup büyüklüklerinizi, yaş sınırlarınızı ve her bir yolcuya özel gereksinimlerinizi öğrenir. Bir aile veya grup rezervasyon için e-posta gönderdiğinde, tüm grup için fiyatlandırmayı, her bir yolcunun bilmesi gerekenleri ve müsait zaman dilimlerini kapsayan bir yanıt taslağı oluşturur. Siz incelersiniz ve gönderirsiniz; karşılıklı yazışma gerekmez."
+    }
+  ],
+  "pricingNote": "6 kişilik bir grup için kişi başı $100 fiyatıyla, bir yolculuk tasarrufu iki yıldan fazla Pro ücretini karşılıyor."
+}

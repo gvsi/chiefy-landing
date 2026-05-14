@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail kohandatud juveliiridele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab kohandatud juveliiridel koheselt vastata konsultatsioonitaotlustele, disainilahenduste kinnitustele ja ajakavaga seotud küsimustele – isegi töölaual olles. AI koostatud vastused teie protsessi, hinnakujunduse ja häälega.",
+  "heroBadge": "Usaldab üle 300 ehtedisaineri",
+  "heroHeadline": "Teie e-posti assistent, kui olete pingil",
+  "heroSubline": "Duet õpib tundma teie projekteerimisprotsessi, materjale, hindu ja ajakavasid – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi kohandatud klienti aeglase vastuse tõttu.",
+  "inboxEmails": [
+    {
+      "from": "Rachel ja David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kohandatud kihlasõrmuse konsultatsioon?",
+      "preview": "Tere! Oleme elukaaslasega huvitatud kohandatud kihlasõrmust. Meil on perekonna pärand teemant, mida sooviksime hea meelega kasutada. Kas teil on sel kuul konsultatsioonile võimalus?",
+      "pill": "Et vastata",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D-mudel — kas me saame seadistust reguleerida?",
+      "preview": "Armastan üldist disaini! Aga kas võiksime proovida seadistusel madalamat profiili? Lisasin foto stiilist, mida ma mõtlen. Samuti muudaks plaatinale üleminek ajaskaala...",
+      "pill": "Läbivaatamine",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Ajaskaala värskendus pulmabändide kohta?",
+      "preview": "Hei! Lihtsalt kontrollin meie sobivaid pulmabände. Pulmad on 18. mail ja ma tahan olla kindel, et oleme ikka õigel teel. Kas saate saata kiire värskenduse...",
+      "pill": "Olek",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Uus arvustus teie poes",
+      "preview": "Paar hindas teie ettevõtet hiljuti saidil The Knot. Vaadake, mis neil öelda oli, ja vastake...",
+      "pill": "Teadmiseks",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Tere Rachel! Aitaksin teil hea meelega kujundada sõrmust oma pere teemandi ümber – see on üks minu lemmiktegevusi. Mul on sel kuul teisipäeva ja neljapäeva pärastlõunal avatud. Tooge kivi ja kõik inspiratsioonifotod. Konsultatsioonid kestavad umbes tund ja kohustust pole. Tahad, ma leian sulle aja?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "kohandatud tükk",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Üks säästetud klient maksab rohkem kui nelja aasta Duet eest."
+  },
+  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et näete esmalt uusi konsultatsioonitaotlusi, teiseks disaini kinnitusi ja mitte kunagi hankijate uudiskirju. Enam ei puudu $5,000 tarnijate pakkumiste alla maetud päring.",
+  "draftSubtitle": "Duet õpib tundma teie protsesse, materjale, hindu ja häält. Kui konsultatsioonitaotlus laekub, koostab see täieliku vastuse koos teie saadavuse, kaasavõetava ja teie protsessi toimimisega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kus me Amanda sõrmusega oleme?\" \"Järgista Jamesi ajaskaala värskendus.\" Duet tunneb iga kliendi lõime – lihtsalt küsige.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Kohandatud kihlasõrmuse konsultatsioon?",
+      "preview": "Oleme partneriga huvitatud kohandatud sõrmust...",
+      "pill": "Uus päring",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D mudel v2 — näeb ideaalne välja!",
+      "pill": "Disaini heakskiit",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Bändid on valmis – millal saame järele tulla?",
+      "pill": "Järelevõtmiseks valmis",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Konsultatsiooni järg – meeldivad visandid",
+      "pill": "Konsultatsioon",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande varustamine",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Kevadmüük — plaatinaleidudelt 15% soodsam",
+      "pill": "Müüja/tarnija",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Kohandatud kihlasõrmuse konsultatsioon?",
+    "originalFrom": "Rachel T. kirjutas:",
+    "originalText": "Tere! Oleme elukaaslasega huvitatud kohandatud kihlasõrmust. Meil on perekonna pärand teemant, mida sooviksime hea meelega kasutada. Kas teil on sel kuul konsultatsioonile võimalus?",
+    "lines": [
+      "Tere Rachel!",
+      "Mul on hea meel aidata teil kujundada midagi erilist oma pere teemandi ümber. Mul on sel kuul teisipäeva ja neljapäeva pärastlõunal avatud.",
+      "Tooge kivi ja kõik inspiratsioonifotod – Pinteresti tahvlid, ekraanipildid ja kõik, mis aitab. Konsultatsioonid kestavad umbes tund ja kohustust pole.",
+      "Sealt edasi on protsess tavaliselt: eskiis, 3D-mudel, revisjonid, seejärel 3-4 nädalat tootmises. Tahad, ma leian sulle aja?"
+    ],
+    "highlightText": "eskiis, 3D mudel, revisjonid, siis 3-4 nädalat tootmises",
+    "tooltipFeatures": [
+      "Teab teie protsessi ja ajakava",
+      "Mustandid teie hääles",
+      "Sisaldab automaatselt konsultatsiooni üksikasju",
+      "Õpib aja jooksul"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kus me Amanda kihlasõrmusega oleme?",
+    "agentResponse": "Amanda kiitis 3D-mudeli (v2) heaks 14. veebruaril. Kinnitasite 3-nädalase prognoosiga tootmise algust 16. veebruaril. See tähendab, et see lõpetatakse umbes 9. märtsil. Tema viimane e-kiri küsis graveerimisvõimaluste kohta – see on siiani vastamata. Kas soovite, et ma kirjutan vastuse?",
+    "followUp": "Koostage Jamesile ajaskaala värskendus pulmabändide kohta",
+    "followUpResponse": "Valmis! Koostasin Jamesile vastuse, milles kinnitasin, et tema sobivad pulmapaelad on lõppviimistluses ja on valmis kättesaamiseks reedel, 7. märtsil – palju enne tema 18. mail toimuvaid pulmi. Ülevaatamiseks ja saatmiseks valmis."
+  },
+  "testimonialsTitle": "Armastatud ehtedisainerite poolt",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Kohandatud ehete disainer, LA",
+      "quote": "Iga kohandatud tükk genereerib nädala jooksul 10–15 meili. Korrutage see 8 aktiivse kliendiga ja ma uppusin. Duet koostab disaini värskenduste vastuste, konsultatsiooni kinnituste ja ajaskaala vastuste mustandid – kõik minu häälega. Vaatan castingu vahel üle ja vajutan saada.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Goldsmith & Studio omanik, Brooklyn",
+      "quote": "Ma kaotasin $7,000 kihlasõrmuse vahendustasu, kuna mul kulus vastamiseks 3 päeva – paar läks kellegi juurde, kes vastas 2 tunniga. Alates Duet on minu reageerimisaeg alla 30 minuti. Seda pole enam juhtunud.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Bench Jeweller, Chicago",
+      "quote": "Olen 8 tundi päevas pingis, taskulamp käes. Ma ei saa lõpetada keskjoodet, et tippida konsultatsioonivastust. Duet koostab töö ajal kõik mustandid – heidan telefonile pilgu, kiidan heaks, valmis.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Pruudi ehete disainer, Austin",
+      "quote": "Kihlushooajal saan nädalas 20+ konsultatsioonitaotlust. Duet õppis ära kogu minu protsessi – materjalid, ajagraafikud, hinnatasemed ja mida kaasa võtta. See koostab vastused, mida mul pole vaja peaaegu muuta. Absoluutne elupäästja novembrist veebruarini.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Kohandatud rõnga spetsialist, Portland",
+      "quote": "3D-revisjoni meilid sõid mu õhtuid. Klient saadab tagasisidet, mina koostan uuenduse viis korda edasi-tagasi. Nüüd tegeleb Duet rutiinsete vastustega ja mina sekkun ainult disainiotsuste tegemisel. Sain oma ööd tagasi.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Veeda oma päevi ehteid luues,\nei vasta selleteemalistele meilidele.",
+  "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
+  "verticalFaqs": [
+    {
+      "question": "Kas Duet saab hakkama viitefotode ja kujundusmanustega meilidega?",
+      "answer": "Jah. Duet näeb kogu meililõime koos manustega, nii et see mõistab konteksti, kui klient saadab inspiratsioonifotosid või disaini tagasisidet. See ei kirjelda pilte tagasi, kuid teab, et klient saatis just viitefotod ja koostab asjakohase vastuse – kinnitades kättesaamist, esitades kujunduse kohta täpsustavaid küsimusi või esitades teie tavapärase töövoo põhjal järgmised sammud."
+    },
+    {
+      "question": "Minu kohandatud projektidel on pikad meililõimed 10+ sõnumiga. Kas Duet saab neid jälgida?",
+      "answer": "Täpselt seal särab Duet. See loeb kogu lõime ajalugu – konsultatsioonimärkmed, kujunduse versioonid, materjali valikud, ajaskaala värskendused – nii et igal koostatud vastusel on täielik kontekst. Kui klient küsib \"mis on minu sõrmuse olek?\" e-kirjas nr 14 teab Duet, milline helin, millises staadiumis see on, ja koostab täpse värskenduse. Enam ei pea te ise 3 kuu e-kirju uuesti läbi lugema."
+    }
+  ],
+  "pricingNote": "Kell $5,000/piece maksab üks säästetud vahendustasu rohkem kui nelja aasta Pro eest."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail pro výlety za pozorováním velryb | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá kapitánům na pozorování velryb okamžitě reagovat na rezervační e-maily – dokonce i z vody. Odpovědi navržené umělou inteligencí s podrobnostmi o vaší prohlídce, cenou a hlasem.",
+  "heroBadge": "Důvěřuje více než 300 kapitánům zájezdů",
+  "heroHeadline": "Váš e-mailový asistent, když budete venku pozorovat velryby",
+  "heroSubline": "Duet se naučí váš plán zájezdu, ceny a hlas – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci, když jste na vodě.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Skupina 8 — dostupnost 14. června?",
+      "preview": "Ahoj! Jsme 8členná rodina na návštěvě na týden. Máte prostor na ranní prohlídce 14. června? Jaká je cena za osobu a je to vhodné pro děti?",
+      "pill": "Odpovědět",
+      "pillColor": "red"
+    },
+    {
+      "from": "James & Kathy L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Ceny soukromého pronájmu?",
+      "preview": "Rádi bychom si k našemu výročí zarezervovali soukromou prohlídku velryb. Jaká je cena za 2hodinový soukromý charter jen pro nás dva...",
+      "pill": "Vysoká hodnota",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Cruise Port Desk",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "Změna plánu — Coral Princess dorazí o 1 hodinu dříve",
+      "preview": "Pozor: zítřejší příjezd Coral Princess byl přesunut ze 10 AM na 9 AM. Upravte odpovídajícím způsobem jakékoli vyzvednutí výletu do přístavu...",
+      "pill": "Naléhavé",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nová recenze pro váš zápis",
+      "preview": "Cestovatel nedávno recenzoval vaši firmu. Podívejte se, co řekli a odpovězte...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ahoj Rachel! Ranní prohlídka 14. června má místo pro 8. Prohlídky jsou $125/person, děti 4-12 jsou poloviční. Vyplouváme na 9 AM z přístavu a běžíme asi 2,5 hodiny. Dalekohled součástí – stačí si vzít vrstvy a opalovací krém. Chcete, abych si zarezervoval 8 míst?",
+  "math": {
+    "pricePerBooking": "$750",
+    "bookingUnit": "zájezdová skupina",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,250",
+    "punchline": "Jedna uložená skupinová rezervace platí na rok Duet."
+  },
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první vidíte požadavky na rezervaci, jako druhé se mění plán výletních lodí a žádný hluk. Už vám nebude chybět soukromá žádost o charter, která je pohřbena pod upozorněními TripAdvisor.",
+  "draftSubtitle": "Duet se dozví vaše časy prohlídek, ceny a zásady. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s dostupností, co je zahrnuto a co si vzít s sebou. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Kolik míst zbývá na sobotní ranní prohlídce?\" \"Navrhněte odpověď Rachel s dostupností.\" Duet zná vaši doručenou poštu a plán – stačí se zeptat.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Skupina 8 — dostupnost 14. června?",
+      "preview": "Jsme 8členná rodina na týdenní návštěvě...",
+      "pill": "Odpovězte hned",
+      "pillColor": "red"
+    },
+    {
+      "from": "James L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Soukromá charta potvrzena — sobota 2PM",
+      "pill": "Zarezervováno",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Megan S.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Poběží zítřejší prohlídka? Vítr vypadá drsně",
+      "pill": "Otázka",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FareHarbor",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Denní souhrn rezervací — 3 nové rezervace",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marine Supply Co.",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Letní výprodej – 15% sleva na bezpečnostní vybavení",
+      "pill": "Propagační akce",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Skupina 8 — dostupnost 14. června?",
+    "originalFrom": "Rachel T. napsal:",
+    "originalText": "Ahoj! Jsme 8členná rodina na návštěvě na týden. Máte prostor na ranní prohlídce 14. června? Jaká je cena za osobu a je to vhodné pro děti?",
+    "lines": [
+      "Ahoj Rachel!",
+      "Ranní prohlídka 14. června má dostatek místa pro 8. Vstupenky jsou $125/person, děti 4-12 jsou poloviční. Odjíždíme v 9 AM a vracíme se kolem 11:30.",
+      "Dalekohled a vybavení do deště součástí – stačí si vzít teplé vrstvy a opalovací krém. Děti to na vyhlídkové plošině milují.",
+      "Chcete, abych vám rezervoval 8 míst?"
+    ],
+    "highlightText": "Ranní prohlídka 14. června má dostatek místa pro 8. Vstupenky jsou $125/person",
+    "tooltipFeatures": [
+      "Zná vaše časy a ceny zájezdů",
+      "Píše návrhy vaším hlasem",
+      "Zahrnuje, co automaticky přinést",
+      "Učí se časem"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kolik míst zbývá na sobotní ranní prohlídku?",
+    "agentResponse": "Na základě vašich rezervací má sobotní prohlídka 9 AM obsazeno 18 ze 44 míst — 26 je stále otevřených. Odpolední prohlídka je téměř plná ve 40 ze 44. Chcete, abych navrhl odpověď na jakékoli nevyřízené dotazy s dostupností v sobotu dopoledne?",
+    "followUp": "Navrhněte odpověď Rachel s potvrzením 14. června pro 8 hostů",
+    "followUpResponse": "Hotovo! Napsal jsem odpověď Rachel, která potvrzuje ranní prohlídku 14. června pro 8 hostů v $125/person. Zahrnuje čas odjezdu, co je zajištěno a co si vzít s sebou. Připraveno ke kontrole a odeslání."
+  },
+  "testimonialsTitle": "Oblíbený kapitány pozorování velryb",
+  "testimonials": [
+    {
+      "name": "Captain Dave H.",
+      "title": "Wildlife Tour Operator, AK",
+      "quote": "Cestující na výletních lodích potřebují odpovědi rychle – v přístavu mají jen 6 hodin. Kdysi jsem ztrácel soukromé chartery, protože jsem byl na vodě, když přišel dotaz. Nyní Duet návrhy odpovědí s mými cenami a podrobnostmi o vyzvednutí, než jsem vůbec zakotvil.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria & Luis R.",
+      "title": "Family Whale Watch, CA",
+      "quote": "Během sezóny keporkaků pořádáme dvě prohlídky denně a objem e-mailů je neskutečný. \"Uvidíme velryby?\" \"Co si mám vzít?\" \"Je zítra zrušený?\" Duet řeší opakované otázky a zaměřujeme se na prohlídky.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Captain Ben T.",
+      "title": "Ocean Excursions, HI",
+      "quote": "Každý večer jsem odpovídal na stejných 10 otázek – ceny, co je v ceně, tipy na mořskou nemoc, věkové limity dětí. Duet se to všechno naučil během prvního týdne. Moje doba odezvy se pohybovala z 8 hodin na 8 minut.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Kim W.",
+      "title": "Rezervační manažer, Pacific NW",
+      "quote": "Zrušení počasí je nejhorší — 30 lidí potřebuje přerezervovat najednou a já žongluji s telefonními hovory. Duet navrhuje personalizované e-maily s přeplánováním pro každého hosta. To, co mi dříve trvalo 2 hodiny, nyní trvá 15 minut.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jess & Nate P.",
+      "title": "Small Boat Wildlife Tours, BC",
+      "quote": "Jsme operace pro dvě osoby - já kapitán, ona řídí logistiku. Během hlavní sezóny trávila 3 hodiny v noci na e-mailu. Duet to zkrátil na 30 minut. Teď se jí vlastně vrací večery.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Strávit velrybí sezónu na vodě,\nnení ve vaší doručené poště.",
+  "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
+  "verticalFaqs": [
+    {
+      "question": "Zvládá Duet zrušení počasí a změny jízdního řádu výletních lodí?",
+      "answer": "Ano. Když zrušíte prohlídku kvůli počasí nebo posunu času příjezdu výletní lodi, můžete to oznámit Duet jednou a ta navrhne přizpůsobený přeplánování nebo e-maily s aktualizací pro každého dotčeného hosta. Už žádné kopírování a vkládání stejné zprávy 30krát. Každá odpověď obsahuje podrobnosti o původní rezervaci hosta a dostupné alternativy."
+    },
+    {
+      "question": "Neustále dostáváme stejné otázky – „uvidíme velryby?“, „co si mám vzít?“, „je to pro děti v pořádku?“ Zvládne je Duet?",
+      "answer": "Přesně tam září Duet. Učí se vaše standardní odpovědi – druhy, které obvykle vidíte, co si vzít s sebou, věkové zásady, tipy na mořskou nemoc, časy odjezdů – a okamžitě vypracuje návrhy kompletních odpovědí. Zkontrolujete a odešlete. Většina kapitánů nám říká, že 80 % jejich doručené pošty tvoří stejných 10 otázek a Duet zvládá všechny."
+    }
+  ],
+  "pricingNote": "U $125/person platí jedna ušetřená skupina 6 za více než rok Pro."
+}

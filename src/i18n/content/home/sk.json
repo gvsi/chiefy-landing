@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | AI asistent pre e-mail pre Gmail a Outlook",
+    "description": "AI asistent pre e-mail od Duet Mail sumarizuje e-maily, pripravuje odpovede a organizuje vašu doručenú poštu. Funguje s Gmail a Outlook. Ušetrite viac ako 4 hodiny týždenne."
+  },
+  "hero": {
+    "badge": "Teraz dostupné pre Gmail a Outlook",
+    "headlinePrefix": "Váš ",
+    "headlineHighlight": "chief of staff",
+    "headlineSuffix": " pre",
+    "rotatingFeatures": [
+      "triedenie e-mailov",
+      "prípravu odpovedí",
+      "plánovanie",
+      "hľadanie odpovedí"
+    ],
+    "subline": "Ušetrite viac ako 4 hodiny každý týždeň na e-maile",
+    "primaryCta": "Začať s Gmail",
+    "secondaryCta": "Začať s Outlook",
+    "trialNote": "14-dňová skúšobná verzia zdarma",
+    "cancelNote": "Zrušiť kedykoľvek"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Okamžité kategorizovanie",
+      "Odpovede poháňané AI"
+    ],
+    "windowTitle": "Doručená pošta",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "Včera"
+    ],
+    "autodraftLabel": "Autodraft",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Časový plán uvedenia produktu na trh",
+        "preview": "Ahoj! Chcel som sa informovať o podkladoch k uvedeniu. Stále sme na dobrej ceste na budúci týždeň...",
+        "pill": "Na odpoveď"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Rýchly sync dnes popoludní?",
+        "preview": "Rada by som prebrala aktualizácie plánu. Máte okolo 4pm čas...",
+        "pill": "Stretnutie"
+      },
+      {
+        "from": "Marketing",
+        "avatarLetter": "M",
+        "subject": "Výsledky kampane sú pripravené",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Váš obchod je pripravený na Black Friday",
+        "pill": "Propagácie"
+      }
+    ],
+    "autodraft": "Ahoj Alex! Áno, sme na dobrej ceste. Dizajnérsky tím dokončil podklady včera a finálne súbory pošlem dnes do konca pracovného dňa."
+  },
+  "logos": {
+    "ariaLabel": "Logá zákazníkov",
+    "headingPrefix": "Dôverujú mu progresívni",
+    "headingHighlight": " profesionáli a tímy ",
+    "headingSuffix": "po celom svete"
+  },
+  "features": {
+    "ariaLabel": "Funkcie",
+    "eyebrow": "Vaša doručená pošta, vylepšená AI",
+    "title": "Vaša doručená pošta by nemala riadiť váš deň",
+    "subtitle": "Premeňte chaos na prehľadnosť s AI, ktorá vám naozaj rozumie.\nUšetrite viac ako 3 hodiny každý týždeň s najinteligentnejším e-mailovým asistentom pre Gmail a Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "Koncepty e-mailov, ktoré znejú ako vy",
+        "description": "Duet AI email writer pripravuje koncepty pre vaše najdôležitejšie e-maily. Učí sa váš tón a štýl písania.",
+        "ariaLabel": "Koncepty e-mailov, ktoré znejú ako vy",
+        "mockCopy": {
+          "draftedColdEmail": "Pripravil som personalizovaný cold e-mail pre Johna",
+          "sampleText": "AI pipelines sú nevyhnutné na budovanie spoľahlivých, škálovateľných a efektívnych AI systémov.",
+          "readyToSend": "Pripravené na odoslanie?",
+          "remindFollowUp": "Pripomeň mi, aby som sa ozval."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Okamžité súhrny a úlohy",
+        "description": "Získajte TL;DR a úlohy z obsahu e-mailov za pár sekúnd. Už žiadne čítanie románov vo vašej doručenej pošte.",
+        "ariaLabel": "Okamžité súhrny a úlohy",
+        "mockCopy": {
+          "sentencePrefix": "Navrhujem, aby sme sa ",
+          "sentenceHighlight": "stretli budúci týždeň",
+          "sentenceSuffix": " ?",
+          "actionTitle": "Nová úloha",
+          "actionLead": "Našiel som tieto voľné termíny vo vašom kalendári",
+          "slots": [
+            "Utorok, o 10am",
+            "Štvrtok, o 2pm",
+            "Piatok, 9am"
+          ],
+          "secondaryButton": "Nájsť viac",
+          "primaryButton": "Odoslať"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Inteligentné pripomienky",
+        "description": "Nastavte a zabudnite. Duet AI si pamätá, aby sa pripomenul, keď ostatní neodpovedajú, takže sa nič nestratí.",
+        "ariaLabel": "Inteligentné pripomienky",
+        "mockCopy": {
+          "header": "Inteligentné pripomienky poháňané AI",
+          "stats": [
+            {
+              "label": "Následná kontrola",
+              "value": "12",
+              "unit": "e-mailov"
+            },
+            {
+              "label": "Na odpoveď",
+              "value": "2",
+              "unit": "e-maily"
+            },
+            {
+              "label": "Dokončené",
+              "value": "3",
+              "unit": "úlohy"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Dokončiť písacie úlohy",
+              "time": "pred 2 dňami"
+            },
+            {
+              "title": "Projektová integrácia",
+              "time": "pred 12 hodinami"
+            }
+          ],
+          "actions": [
+            "Sledovať",
+            "Preplánovať?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Sústreďte sa na to podstatné",
+        "description": "Inteligentná kategorizácia zobrazí vaše najdôležitejšie e-maily ako prvé a triedi e-maily do tém. Správa e-mailov ešte nikdy nebola jednoduchšia.",
+        "ariaLabel": "Sústreďte sa na to podstatné",
+        "mockCopy": {
+          "analyzing": "ANALYZING"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "Organizácia e-mailov a inteligentná kategorizácia doručenej pošty",
+    "badge": "Organizácia",
+    "title": "Duet organizuje vašu doručenú poštu",
+    "subtitle": "Automatická kategorizácia odfiltruje hluk a zvýrazní to, na čom záleží. Okamžite uvidíte, čo vyžaduje akciu, čo je len FYI a čo môže počkať.",
+    "windowTitle": "Doručená pošta",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "Včera",
+      "20. 12."
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "Žiadosť o kontrolu rozpočtu za Q4",
+        "preview": "Finálne čísla sú priložené. Prosím, skontrolujte ich do EOD.",
+        "pill": "Vyžaduje akciu"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Tímový standup zajtra o 10am",
+        "pill": "Stretnutie"
+      },
+      {
+        "from": "Design Team",
+        "avatarLetter": "D",
+        "subject": "Nové brand guidelines boli zverejnené",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Váš mesačný výpis je pripravený",
+        "pill": "Propagácie"
+      },
+      {
+        "from": "Newsletter",
+        "subject": "Týždenný digest",
+        "pill": "Propagácie"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI návrhy e-mailov a generovanie odpovedí",
+    "badge": "Tvorba konceptov",
+    "title": "Duet pripravuje koncepty vaším hlasom",
+    "subtitle": "Duet sa učí, ako píšete, a pripravuje odpovede, ktoré zodpovedajú vášmu tónu. Skontrolujte, upravte podľa potreby a odošlite za pár sekúnd.",
+    "windowTitle": "Nová správa",
+    "fieldLabels": {
+      "to": "Komu:",
+      "subject": "Predmet:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Rýchly sync tento týždeň?",
+      "originalFrom": "Alex Rivera napísal:",
+      "originalText": "Ahoj! Rád by som prebral zmeny v pláne. Máte tento týždeň čas na 30-minútový hovor? Dajte vedieť, čo vám vyhovuje.",
+      "badge": "Autodraft",
+      "lines": [
+        "Ahoj Alex!",
+        "Rád by som si prešiel plán. Vo štvrtok som voľný od 2-4pm alebo v piatok ráno — oboje mi vyhovuje.",
+        "Daj vedieť, čo ti najviac vyhovuje, a pošlem pozvánku.",
+        "Ďakujem!  "
+      ],
+      "highlightText": "Vo štvrtok som voľný od 2-4pm alebo v piatok ráno",
+      "actions": [
+        "Odoslať",
+        "Upraviť"
+      ],
+      "tooltipTitle": "Personalizovaný koncept",
+      "tooltipFeatures": [
+        "Pozná váš kalendár",
+        "Pripravuje koncepty vaším hlasom",
+        "Pozná kontext cez pamäť",
+        "Učí sa postupne"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI inteligencia e-mailov a asistent",
+    "badge": "Inteligencia",
+    "title": "Opýtajte sa na čokoľvek o svojom e-maile",
+    "subtitle": "Požiadajte Duet, aby našiel e-maily, skontroloval váš kalendár alebo pripravil odpoveď. Rozumie vašej doručenej pošte a odpovedá okamžite.",
+    "windowTitle": "Duet Agent",
+    "onlineLabel": "Online",
+    "initialUserMessage": "Môžete nájsť faktúru Stripe odoslanú účtovníctvom?",
+    "processingText": "Vyhľadávam v doručenej pošte...",
+    "foundHeader": "Našiel som 2 e-maily od Stripe",
+    "foundBody": "Našiel som potvrdenie na $29.00 USD z Oct 24th.",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Pripraviť odpoveď"
+      },
+      {
+        "action": "calendar",
+        "label": "Nájsť čas na stretnutie"
+      }
+    ],
+    "inputPlaceholder": "Opýtajte sa na čokoľvek...",
+    "dynamicResponses": {
+      "processingDefault": "Spracúvam...",
+      "processingDraft": "Vytváram koncept...",
+      "processingCalendar": "Kontrolujem dostupnosť...",
+      "draftIntro": "Tu je návrh odpovede pre účtovníctvo:",
+      "draftHeader": "Koncept: accounting@company.com",
+      "draftLines": [
+        "Ahoj tím,",
+        "V prílohe posielam faktúru Stripe za October ($29.00).",
+        "Dajte vedieť, ak budete potrebovať ešte niečo.",
+        "S pozdravom,"
+      ],
+      "draftActions": [
+        "Odoslať e-mail",
+        "Upraviť"
+      ],
+      "calendarIntro": "Zajtra máte otvorené 3 termíny:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "30 min"
+        },
+        {
+          "time": "2:00 PM",
+          "duration": "30 min"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Pripraviť aj odpoveď?",
+        "calendarAfterDraft": "Naplánovať aj follow-up?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Referencie",
+    "scrollingAriaLabel": "Prechádzajúce referencie",
+    "eyebrow": "Referencie",
+    "title": "Obľúbené medzi zaneprázdnenými profesionálmi",
+    "subtitle": "Skutoční ľudia. Skutočné víťazstvá v doručenej pošte.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Freelancer",
+        "quote": "Stojí za každý cent. Čas, ktorý ušetrím na e-mailoch, sa mi vráti 10-násobne vďaka Duet Mail. Teraz si bez neho prácu neviem predstaviť.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Obchodný riaditeľ",
+        "quote": "Okamžité súhrny dlhých e-mailových vlákien sú čistá mágia a pritom veľmi používateľsky prívetivé. Moji klienti si myslia, že som superhuman.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Podnikateľ",
+        "quote": "Bol som skeptický voči používaniu umelej inteligencie v mojich e-mailoch. Teraz je to, akoby som mal brilantného výkonného asistenta. Neviem si predstaviť návrat späť.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Konzultantka",
+        "quote": "Ako konzultantke sa mi ráta každá minúta. Duet Mail mi nielen šetrí čas, ale robí moju e-mailovú komunikáciu presnejšou.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "Marketingová riaditeľka",
+        "quote": "Konečne AI asistent pre e-maily, ktorý sa naozaj učí, ako píšem. Okamžité odpovede sedia tak presne, že si môj tím myslel, že pracujem o polnoci.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Cenník",
+    "eyebrow": "Cenník",
+    "heading": "Jednoduché ceny, výkonná doručená pošta",
+    "subheading": "Začnite zdarma, prejdite na vyšší plán kedykoľvek. Zrušiť môžete kedykoľvek.",
+    "billingLegend": "Frekvencia fakturácie",
+    "billingAnnual": "Ročne",
+    "billingMonthly": "Mesačne",
+    "savingsTag": "Ušetrite 33 %",
+    "priceCadence": "/mesiac",
+    "perUserSuffix": "/používateľ",
+    "annualBillingSuffix": "(fakturované ročne)",
+    "trustItems": [
+      "Bezpečná platba cez Stripe",
+      "Zrušiť kedykoľvek"
+    ],
+    "plans": [
+      {
+        "name": "Basic",
+        "description": "Pre každého, kto chce zistiť, ako vyzerá inteligentnejšia doručená pošta. Bez záväzkov.",
+        "priceLabel": "Zdarma",
+        "features": [
+          {
+            "title": "Okamžité súhrny",
+            "description": "Získajte podstatu každého vlákna"
+          },
+          {
+            "title": "AI koncepty",
+            "description": "Ochutnávka odpovedí vaším hlasom"
+          },
+          {
+            "title": "Smart Inbox",
+            "description": "Základná organizácia na začiatok"
+          },
+          {
+            "title": "Duet Assistant",
+            "description": "Vyskúšajte AI asistenta"
+          }
+        ],
+        "ctaLabel": "Vyberte si Gmail alebo Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "14-dňová skúšobná verzia zdarma",
+        "description": "Pre profesionálov, ktorí chcú hlbšiu automatizáciu, integrácie a doručenú poštu, ktorá skutočne pozná, ako pracujete.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Smart Inbox",
+            "description": "E-maily automaticky zoradené do inteligentných kategórií",
+            "highlight": true
+          },
+          {
+            "title": "AI koncepty",
+            "description": "Odpovede napísané vaším hlasom, pripravené na odoslanie",
+            "highlight": true
+          },
+          {
+            "title": "Duet Assistant",
+            "description": "Chat na vyhľadávanie, tvorbu konceptov, organizáciu a ďalšie",
+            "highlight": true
+          },
+          {
+            "title": "Integrácia kalendára",
+            "description": "Plánujte, zobrazujte a spravujte udalosti priamo z doručenej pošty"
+          },
+          {
+            "title": "Okamžité súhrny",
+            "description": "Získajte podstatu akéhokoľvek vlákna alebo prílohy"
+          },
+          {
+            "title": "Inteligentné pripomienky",
+            "description": "Následné kroky sa zobrazia automaticky, takže nič neprepadne"
+          },
+          {
+            "title": "Prioritná podpora",
+            "description": "Skutoční ľudia, rýchle odpovede"
+          }
+        ],
+        "ctaLabel": "Vyberte si Gmail alebo Outlook",
+        "featured": true
+      },
+      {
+        "name": "Enterprise",
+        "description": "Pre organizácie, ktoré potrebujú škálovanie na úrovni enterprise, vyhradenú podporu a vlastné workflow. Najlepšie pre tímy s 50+ členmi.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Všetko z Pro",
+            "description": "Všetky funkcie sú zahrnuté"
+          },
+          {
+            "title": "Vyhradená podpora",
+            "description": "Osobný account manager"
+          },
+          {
+            "title": "Tímová analytika",
+            "description": "Prehľady naprieč vašou organizáciou"
+          },
+          {
+            "title": "Zdieľané workflow",
+            "description": "Šablóny a automatizácie pre tímy"
+          }
+        ],
+        "ctaLabel": "Kontaktovať obchod",
+        "ctaNote": "Dostupné je vlastné nacenenie"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Často kladené otázky",
+    "eyebrow": "FAQ",
+    "headingPrefix": "Bežné otázky, ",
+    "headingAccent": "zodpovedané",
+    "contactDecorative": "?",
+    "contactLabel": "KONTAKT",
+    "contactHeading": "Stále máte otázky?",
+    "contactCta": "Kontaktujte nás →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Ako Duet Mail chráni moje e-mailové údaje?",
+        "answer": "Vaša bezpečnosť je našou najvyššou prioritou. Na bezpečné overovanie s Google aj Microsoft používame OAuth 2.0. Obsah e-mailov je šifrovaný pri uložení pomocou client-side field-level encryption a pri prístupe cez API dodržiavame zásadu najnižších oprávnení. Pri našej integrácii s Google absolvujeme každoročné bezpečnostné hodnotenie CASA od Google."
+      },
+      {
+        "question": "Ako funguje funkcia súhrnu e-mailov?",
+        "answer": "Duet Mail používa pokročilú AI na analýzu vašich e-mailových vlákien a vytvorenie stručného prehľadu, ktorý zvýrazní kľúčové body, rozhodnutia a úlohy. Pomáha vám rýchlo pochopiť kontext bez čítania celého vlákna."
+      },
+      {
+        "question": "Aké oprávnenia Duet Mail potrebuje?",
+        "answer": "Duet Mail potrebuje prístup k vašim e-mailom, aby mohol poskytovať súhrny, extrahovať úlohy, generovať obsah a odosielať vaše e-maily. Žiadame len oprávnenia, ktoré skutočne potrebujeme. Tieto oprávnenia si môžete kedykoľvek skontrolovať a odvolať v nastaveniach vášho Google Account alebo Microsoft Account."
+      },
+      {
+        "question": "Čo je zahrnuté v bezplatnej skúšobnej verzii?",
+        "answer": "14-dňová bezplatná skúšobná verzia zahŕňa plný prístup ku všetkým funkciám Pro: neobmedzené súhrny e-mailov, extrakciu úloh, AI email writer (generovanie e-mailov a konceptov bez akýchkoľvek limitov) a vlastné e-mailové šablóny. Prihláste sa pomocou Google alebo Microsoft a začnite šetriť čas pri správe e-mailov."
+      },
+      {
+        "question": "Môžem používať Duet Mail s inými poskytovateľmi e-mailu?",
+        "answer": "Duet Mail podporuje Gmail, Google Workspace a Microsoft Outlook. Na začiatok sa prihláste pomocou svojho Google alebo Microsoft účtu."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Začať",
+    "headline": "Získajte späť 4 hodiny.\nKaždý týždeň.",
+    "subline": "Pridajte sa k profesionálom, ktorí začínajú deň s prehľadom, nie chaosom. Vaša bezplatná skúšobná verzia čaká.",
+    "primaryCta": "Začať s Gmail",
+    "secondaryCta": "Začať s Outlook",
+    "note": "14-dňová skúšobná verzia zdarma · Zrušiť kedykoľvek",
+    "trustItems": [
+      "Google CASA-assessed",
+      "Šifrované pri uložení",
+      "Bezpečné OAuth 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Pätička webu",
+    "brandIconAlt": "Ikona Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — AI asistent pre e-mail, ktorý vám každý týždeň ušetrí hodiny",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Preskúmať",
+        "links": [
+          {
+            "label": "Organizácia",
+            "href": "/#organization"
+          },
+          {
+            "label": "Tvorba konceptov",
+            "href": "/#drafting"
+          },
+          {
+            "label": "Inteligencia",
+            "href": "/#intelligence"
+          },
+          {
+            "label": "Chrome Extension",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Zákazníci",
+        "links": [
+          {
+            "label": "Cenník",
+            "href": "/#pricing"
+          },
+          {
+            "label": "Referencie",
+            "href": "/#testimonials"
+          },
+          {
+            "label": "FAQ",
+            "href": "/#faq"
+          }
+        ]
+      },
+      {
+        "title": "Právne",
+        "links": [
+          {
+            "label": "Ochrana súkromia",
+            "href": "/sk/privacy"
+          },
+          {
+            "label": "Podmienky",
+            "href": "/sk/terms"
+          },
+          {
+            "label": "Cookies",
+            "href": "/sk/cookies"
+          },
+          {
+            "label": "Disclaimer",
+            "href": "/sk/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Spojte sa",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "/sk/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup Fame",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Návratnosť investície",
+    "label": "Matematika",
+    "narrativeTemplate": "Pri {pricePerBooking} za {bookingUnit}, strata len {lostPerMonth} kvôli pomalým odpovediam =",
+    "lossSuffix": "/mes. preč",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI asistent pre e-mail pre Gmail a Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Customer Support",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "AI asistent pre e-mail pre Gmail a Outlook, ktorý automaticky sumarizuje e-maily, pripravuje odpovede vaším hlasom a organizuje vašu doručenú poštu, aby vám ušetril hodiny každý týždeň.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Inteligentná organizácia a kategorizácia e-mailov",
+      "Tvorba e-mailov pomocou AI vo vašom štýle",
+      "Inteligentný e-mailový asistent s integráciou kalendára",
+      "Automatické súhrny e-mailov a úlohy",
+      "Inteligentné pripomienky na follow-upy"
+    ],
+    "offers": [
+      {
+        "name": "Basic Plan",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Bezplatný plán s okamžitými súhrnmi, AI konceptmi a smart inbox"
+      },
+      {
+        "name": "Pro Plan",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Plný prístup s inteligentnou kategorizáciou doručenej pošty, AI konceptmi, asistentom a integráciou kalendára"
+      }
+    ],
+    "operatingSystem": "Web",
+    "browserRequirements": "Vyžaduje JavaScript. Funguje s Gmail, Google Workspace a Microsoft Outlook.",
+    "urls": {
+      "site": "/sk/",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Ako Duet Mail chráni moje e-mailové údaje?",
+        "answer": "Vaša bezpečnosť je našou najvyššou prioritou. Na bezpečné overovanie s Google aj Microsoft používame OAuth 2.0. Obsah e-mailov je šifrovaný pri uložení pomocou client-side field-level encryption a pri prístupe cez API dodržiavame zásadu najnižších oprávnení. Pri našej integrácii s Google absolvujeme každoročné bezpečnostné hodnotenie CASA od Google."
+      },
+      {
+        "question": "Ako funguje funkcia súhrnu e-mailov?",
+        "answer": "Duet Mail používa pokročilú AI na analýzu vašich e-mailových vlákien a vytvorenie stručného prehľadu, ktorý zvýrazní kľúčové body, rozhodnutia a úlohy. Pomáha vám rýchlo pochopiť kontext bez čítania celého vlákna."
+      },
+      {
+        "question": "Aké oprávnenia Duet Mail potrebuje?",
+        "answer": "Duet Mail potrebuje prístup k vašim e-mailom, aby mohol poskytovať súhrny, extrahovať úlohy, generovať obsah a odosielať vaše e-maily. Žiadame len oprávnenia, ktoré skutočne potrebujeme. Tieto oprávnenia si môžete kedykoľvek skontrolovať a odvolať v nastaveniach vášho Google Account alebo Microsoft Account."
+      },
+      {
+        "question": "Čo je zahrnuté v bezplatnej skúšobnej verzii?",
+        "answer": "14-dňová bezplatná skúšobná verzia zahŕňa plný prístup ku všetkým funkciám Pro: neobmedzené súhrny e-mailov, extrakciu úloh, AI email writer (generovanie e-mailov a konceptov bez akýchkoľvek limitov) a vlastné e-mailové šablóny. Prihláste sa pomocou Google alebo Microsoft a začnite šetriť čas pri správe e-mailov."
+      },
+      {
+        "question": "Môžem používať Duet Mail s inými poskytovateľmi e-mailu?",
+        "answer": "Duet Mail podporuje Gmail, Google Workspace a Microsoft Outlook. Na začiatok sa prihláste pomocou svojho Google alebo Microsoft účtu."
+      }
+    ]
+  }
+}

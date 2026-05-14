@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | AI Email Assistant för Gmail och Outlook",
+    "description": "Duet Mail s e-postassistent för AI sammanfattar e-postmeddelanden, utkast till svar och organiserar din inkorg. Fungerar med Gmail och Outlook. Spara 4+ timmar i veckan."
+  },
+  "hero": {
+    "badge": "Nu tillgänglig för Gmail och Outlook",
+    "headlinePrefix": "Din ",
+    "headlineHighlight": "stabschef",
+    "headlineSuffix": " för",
+    "rotatingFeatures": [
+      "sortera e-post",
+      "utarbeta svar",
+      "schemaläggning",
+      "hitta svar"
+    ],
+    "subline": "Spara 4+ timmar varje vecka på e-post",
+    "primaryCta": "Börja med Gmail",
+    "secondaryCta": "Börja med Outlook",
+    "trialNote": "Gratis 14 dagars provperiod",
+    "cancelNote": "Avbryt när som helst"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Omedelbar kategorisering",
+      "AI-drivna svar"
+    ],
+    "windowTitle": "Inkorg",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "Igår"
+    ],
+    "autodraftLabel": "Automatiskt utkast",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Tidslinje för produktlansering",
+        "preview": "Hej! Ville kolla in lanseringstillgångarna. Är vi fortfarande på rätt spår inför nästa vecka...",
+        "pill": "Att svara"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Snabbsynkronisering i eftermiddag?",
+        "preview": "Skulle gärna vilja komma ikapp med uppdateringarna av färdplanen. Är du ledig runt kl 16...",
+        "pill": "Möte"
+      },
+      {
+        "from": "Marknadsföring",
+        "avatarLetter": "M",
+        "subject": "Kampanjresultat redo",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Din butik är redo för Black Friday",
+        "pill": "Kampanjer"
+      }
+    ],
+    "autodraft": "Hej Alex! Ja, vi är på rätt spår. Designteamet avslutade tillgångarna igår och jag kommer att skicka över de sista filerna av EOD idag."
+  },
+  "logos": {
+    "ariaLabel": "Kundlogotyper",
+    "headingPrefix": "Betrodd av framåtblickande",
+    "headingHighlight": " proffs och team ",
+    "headingSuffix": "över hela världen"
+  },
+  "features": {
+    "ariaLabel": "Funktioner",
+    "eyebrow": "Din inkorg, överladdad",
+    "title": "Din inkorg ska inte äga din dag",
+    "subtitle": "Förvandla kaos till klarhet med AI som verkligen får dig.\nSpara 3+ timmar varje vecka med den smartaste e-postassistenten för Gmail och Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "E-postutkast som låter som Du",
+        "description": "Duet AI-e-postskribent förbereder utkast till dina viktigaste e-postmeddelanden. Den lär sig din ton och skrivstilar.",
+        "ariaLabel": "E-postutkast som låter som du",
+        "mockCopy": {
+          "draftedColdEmail": "Jag skrev ett kallt e-postmeddelande anpassat för John",
+          "sampleText": "AI-pipelines är avgörande för att bygga robusta, skalbara och effektiva AI-system.",
+          "readyToSend": "Redo att skicka?",
+          "remindFollowUp": "Påminn mig om att följa upp."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Omedelbara sammanfattningar och åtgärder",
+        "description": "Få TL;DR och åtgärder från ditt e-postinnehåll på några sekunder. Inga fler läsromaner i din inkorg.",
+        "ariaLabel": "Omedelbara sammanfattningar och åtgärder",
+        "mockCopy": {
+          "sentencePrefix": "Jag föreslår vi ",
+          "sentenceHighlight": "träffas nästa vecka",
+          "sentenceSuffix": "?",
+          "actionTitle": "Nytt åtgärdsobjekt",
+          "actionLead": "Jag hittade dessa gratis platser i din kalender",
+          "slots": [
+            "tisdag, klockan 10",
+            "Torsdag, klockan 14.00",
+            "fredag, 9.00"
+          ],
+          "secondaryButton": "Hitta mer",
+          "primaryButton": "Skicka"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Intelligenta påminnelser",
+        "description": "Ställ in det och glöm det. Duet AI kommer ihåg att följa upp när andra inte svarar, så inget faller mellan stolarna.",
+        "ariaLabel": "Intelligenta påminnelser",
+        "mockCopy": {
+          "header": "AI-drivna smarta påminnelser",
+          "stats": [
+            {
+              "label": "Uppföljning",
+              "value": "12",
+              "unit": "e-postmeddelanden"
+            },
+            {
+              "label": "För att svara",
+              "value": "2",
+              "unit": "e-postmeddelanden"
+            },
+            {
+              "label": "Avslutad",
+              "value": "3",
+              "unit": "åtgärder"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Slutföra skrivuppgifter",
+              "time": "2 dagar sedan"
+            },
+            {
+              "title": "Projektintegration",
+              "time": "12 timmar sedan"
+            }
+          ],
+          "actions": [
+            "Följ",
+            "Ändra schema?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Fokusera på det som betyder något",
+        "description": "Smart kategorisering visar dina viktigaste e-postmeddelanden först och kategoriserar e-postmeddelanden i ämnen. E-posthantering har aldrig varit enklare.",
+        "ariaLabel": "Fokusera på det som är viktigt",
+        "mockCopy": {
+          "analyzing": "ANALYSERAR"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "E-postorganisation och smart inkorgskategorisering",
+    "badge": "Organisation",
+    "title": "Duet organiserar din inkorg",
+    "subtitle": "Automatisk kategorisering filtrerar brus och ytor det som är viktigt. Se omedelbart vad som behöver åtgärder, vad som bara är FYI och vad som kan vänta.",
+    "windowTitle": "Inkorg",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "Igår",
+      "20 dec"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "Q4 Budget Granskning Begäran",
+        "preview": "De slutgiltiga siffrorna bifogas. Vänligen granska av EOD.",
+        "pill": "Åtgärd behövs"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Team standup imorgon kl 10.00",
+        "pill": "Möte"
+      },
+      {
+        "from": "Designteam",
+        "avatarLetter": "D",
+        "subject": "Nya varumärkesriktlinjer publicerade",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Ditt månadsutdrag är klart",
+        "pill": "Kampanjer"
+      },
+      {
+        "from": "Nyhetsbrev",
+        "subject": "Veckosammanfattning",
+        "pill": "Kampanjer"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "AI e-postutformning och svarsgenerering",
+    "badge": "Utformning",
+    "title": "Duet utkast i din röst",
+    "subtitle": "Duet lär sig hur du skriver och utformar svar som matchar din ton. Granska, justera om det behövs och skicka på några sekunder.",
+    "windowTitle": "Nytt meddelande",
+    "fieldLabels": {
+      "to": "Till:",
+      "subject": "Ämne:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Snabbsynkning den här veckan?",
+      "originalFrom": "Alex Rivera skrev:",
+      "originalText": "Hej! Skulle gärna komma ikapp med förändringarna i färdplanen. Är du ledig för ett 30-minuterssamtal denna vecka? Låt mig veta vad som fungerar för dig.",
+      "badge": "Autoritad",
+      "lines": [
+        "Hej Alex!",
+        "Skulle gärna synka på färdplanen. Jag är ledig torsdag 14-16 eller fredag ​​morgon – antingen fungerar det utmärkt för mig.",
+        "Låt mig veta vad som passar dig bäst så skickar jag en inbjudan.",
+        "Tack!  "
+      ],
+      "highlightText": "Jag är ledig torsdag 14-16 eller fredag morgon",
+      "actions": [
+        "Skicka",
+        "Redigera"
+      ],
+      "tooltipTitle": "Personligt utkast",
+      "tooltipFeatures": [
+        "Kan din kalender",
+        "Utkast i din röst",
+        "Känner till sammanhang genom minnet",
+        "Lär sig med tiden"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI e-postintelligens och assistent",
+    "badge": "Intelligens",
+    "title": "Fråga vad som helst om din e-post",
+    "subtitle": "Be Duet att hitta e-postmeddelanden, kolla din kalender eller skriva ett svar. Den förstår din inkorg och svarar direkt.",
+    "windowTitle": "Duet Agent",
+    "onlineLabel": "Online",
+    "initialUserMessage": "Hittar du Stripe fakturan som skickats av Bokföring?",
+    "processingText": "Söker inkorgen...",
+    "foundHeader": "Hittade 2 e-postmeddelanden från Stripe",
+    "foundBody": "Jag hittade kvittot på 29,00 USD från den 24 oktober.",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Förbered ett svar"
+      },
+      {
+        "action": "calendar",
+        "label": "Hitta tid att träffas"
+      }
+    ],
+    "inputPlaceholder": "Fråga vad som helst...",
+    "dynamicResponses": {
+      "processingDefault": "Bearbetar...",
+      "processingDraft": "Genererar utkast...",
+      "processingCalendar": "Kontrollerar tillgänglighet...",
+      "draftIntro": "Här är ett utkast till svar till Redovisning:",
+      "draftHeader": "Utkast: accounting@company.com",
+      "draftLines": [
+        "Hej Team,",
+        "Vänligen se bifogad Stripe faktura för oktober ($29,00).",
+        "Säg till om du behöver något mer.",
+        "Bästa,"
+      ],
+      "draftActions": [
+        "Skicka e-post",
+        "Redigera"
+      ],
+      "calendarIntro": "Du har 3 platser öppna imorgon:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "30 min"
+        },
+        {
+          "time": "2:00 PM",
+          "duration": "30 min"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "30 min"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Även utkast till svaret?",
+        "calendarAfterDraft": "Planera också en uppföljning?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Rekommendationer",
+    "scrollingAriaLabel": "Rullande vittnesmål",
+    "eyebrow": "Rekommendationer",
+    "title": "Älskad av upptagna proffs",
+    "subtitle": "Riktiga människor. Riktiga inbox vinner.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Frilansare",
+        "quote": "Värt varenda krona. Tiden jag sparar på e-post betalar Duet Mail 10 gånger mer. Kan inte tänka mig att jobba utan det nu.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Försäljningschef",
+        "quote": "De omedelbara sammanfattningarna av långa e-posttrådar är ren magi och så användarvänliga. Mina kunder tycker att jag är övermänsklig.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Entreprenör",
+        "quote": "Var skeptisk till användning av artificiell intelligens för mina e-postmeddelanden. Nu är det som att ha en briljant verkställande assistent. Kan inte tänka mig att gå tillbaka.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Konsult",
+        "quote": "Som konsult räknas varje minut. Duet Mail sparar mig inte bara tid – det gör min e-postkommunikation skarpare.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "Marknadsdirektör",
+        "quote": "Äntligen en AI-postassistent som faktiskt lär sig hur jag skriver. De direkta svaren är så perfekta att mitt team trodde att jag jobbade vid midnatt.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Prissättning",
+    "eyebrow": "Prissättning",
+    "heading": "Enkel prissättning, kraftfull inkorg",
+    "subheading": "Börja gratis, uppgradera när som helst. Avbryt när som helst.",
+    "billingLegend": "Faktureringskadens",
+    "billingAnnual": "Årlig",
+    "billingMonthly": "Månadsvis",
+    "savingsTag": "Spara 33%",
+    "priceCadence": "/månad",
+    "perUserSuffix": "/användare",
+    "annualBillingSuffix": "(faktureras årligen)",
+    "trustItems": [
+      "Säker utcheckning via Stripe",
+      "Avbryt när som helst"
+    ],
+    "plans": [
+      {
+        "name": "Grundläggande",
+        "description": "För alla som är nyfikna på hur en smartare inkorg känns. Inget åtagande krävs.",
+        "priceLabel": "Free",
+        "features": [
+          {
+            "title": "Omedelbara sammanfattningar",
+            "description": "Ta reda på kärnan i vilken tråd som helst"
+          },
+          {
+            "title": "AI-utkast",
+            "description": "En smak av svar i din röst"
+          },
+          {
+            "title": "Smart inkorg",
+            "description": "Grundläggande organisation att starta"
+          },
+          {
+            "title": "Duet Assistent",
+            "description": "Prova AI-assistenten"
+          }
+        ],
+        "ctaLabel": "Välj Gmail eller Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "14 dagars gratis provperiod",
+        "description": "För proffs som vill ha djupare automatisering, integrationer och en inkorg som verkligen vet hur du arbetar.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Smart inkorg",
+            "description": "E-postmeddelanden sorteras automatiskt i smarta kategorier",
+            "highlight": true
+          },
+          {
+            "title": "AI-utkast",
+            "description": "Svar skrivna med din röst, redo att skickas",
+            "highlight": true
+          },
+          {
+            "title": "Duet Assistent",
+            "description": "Chatta för att hitta, skapa utkast, organisera och mer",
+            "highlight": true
+          },
+          {
+            "title": "Kalenderintegration",
+            "description": "Schemalägg, visa och hantera händelser från din inkorg"
+          },
+          {
+            "title": "Omedelbara sammanfattningar",
+            "description": "Ta reda på kärnan i vilken tråd eller bilaga som helst"
+          },
+          {
+            "title": "Smarta påminnelser",
+            "description": "Uppföljningar dyker upp automatiskt så att inget glider"
+          },
+          {
+            "title": "Prioriterad support",
+            "description": "Riktiga människor, snabba svar"
+          }
+        ],
+        "ctaLabel": "Välj Gmail eller Outlook",
+        "featured": true
+      },
+      {
+        "name": "Företag",
+        "description": "För organisationer som behöver skala i företagsklass, dedikerad support och anpassade arbetsflöden. Bäst för lag på 50+.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Allt i Pro",
+            "description": "Alla funktioner ingår"
+          },
+          {
+            "title": "Dedikerad support",
+            "description": "Personlig kontoansvarig"
+          },
+          {
+            "title": "Team Analytics",
+            "description": "Insikter i hela din organisation"
+          },
+          {
+            "title": "Delade arbetsflöden",
+            "description": "Mallar och automatiseringar för team"
+          }
+        ],
+        "ctaLabel": "Kontakta försäljningen",
+        "ctaNote": "Anpassad prissättning tillgänglig"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Vanliga frågor",
+    "eyebrow": "FAQ",
+    "headingPrefix": "Vanliga frågor, ",
+    "headingAccent": "svarade",
+    "contactDecorative": "?",
+    "contactLabel": "KONTAKT",
+    "contactHeading": "Har du fortfarande frågor?",
+    "contactCta": "Hör av dig →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Hur skyddar Duet Mail min e-postdata?",
+        "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google-integration genomgår vi Googles årliga CASA-säkerhetsbedömning."
+      },
+      {
+        "question": "Hur fungerar e-postsammanfattningsfunktionen?",
+        "answer": "Duet Mail använder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
+      },
+      {
+        "question": "Vilka behörigheter behöver Duet Mail?",
+        "answer": "Duet Mail kräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i ditt Google konto eller Microsoft kontoinställningar."
+      },
+      {
+        "question": "Vad ingår i den kostnadsfria provperioden?",
+        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till alla Pro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
+      },
+      {
+        "question": "Kan jag använda Duet Mail med andra e-postleverantörer?",
+        "answer": "Duet Mail stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Kom igång",
+    "headline": "Få 4 timmar tillbaka.\nVarje vecka.",
+    "subline": "Följ med proffsen som börjar sin dag med klarhet, inte kaos. Din kostnadsfria provperiod väntar.",
+    "primaryCta": "Börja med Gmail",
+    "secondaryCta": "Börja med Outlook",
+    "note": "14 dagars gratis provperiod · Avbryt när som helst",
+    "trustItems": [
+      "Google CASA-bedömd",
+      "Krypterad i vila",
+      "SäkerOAuth2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Sidfot på webbplatsen",
+    "brandIconAlt": "Duet Mail ikon",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — AI Email Assistant som sparar timmar varje vecka",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Utforska",
+        "links": [
+          {
+            "label": "Organisation",
+            "href": "/#organization"
+          },
+          {
+            "label": "Utformning",
+            "href": "/#drafting"
+          },
+          {
+            "label": "Intelligens",
+            "href": "/#intelligence"
+          },
+          {
+            "label": "Chrome-tillägg",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Kunder",
+        "links": [
+          {
+            "label": "Prissättning",
+            "href": "/#pricing"
+          },
+          {
+            "label": "Rekommendationer",
+            "href": "/#testimonials"
+          },
+          {
+            "label": "FAQ",
+            "href": "/#faq"
+          }
+        ]
+      },
+      {
+        "title": "Lagligt",
+        "links": [
+          {
+            "label": "Sekretess",
+            "href": "/sv/privacy"
+          },
+          {
+            "label": "Villkor",
+            "href": "/sv/terms"
+          },
+          {
+            "label": "Cookies",
+            "href": "/sv/cookies"
+          },
+          {
+            "label": "Ansvarsfriskrivning",
+            "href": "/sv/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Anslut",
+        "links": [
+          {
+            "label": "Blogg",
+            "href": "/sv/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup Fame",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Avkastning på investeringen",
+    "label": "Matematiken",
+    "narrativeTemplate": "Vid{pricePerBooking}per{bookingUnit}, förlorar bara{lostPerMonth}till långsamma svar =",
+    "lossSuffix": "/mån borta",
+    "dividerLabel": "vs",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI Email Assistant för Gmail och Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Kundsupport",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "AI-e-postassistent för Gmail och Outlook som automatiskt sammanfattar e-postmeddelanden, utkast till svar med din röst och organiserar din inkorg för att spara timmar varje vecka.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Smart e-postorganisation och kategorisering",
+      "AI-driven e-postritning i din röst",
+      "Intelligent e-postassistent med kalenderintegration",
+      "Automatiska e-postsammanfattningar och åtgärder",
+      "Smarta påminnelser för uppföljningar"
+    ],
+    "offers": [
+      {
+        "name": "Grundplan",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Gratis plan med omedelbara sammanfattningar, AI-utkast och smart inkorg"
+      },
+      {
+        "name": "Pro Plan",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Full åtkomst med smart inkorgskategorisering, AI-utkast, assistent och kalenderintegrering"
+      }
+    ],
+    "operatingSystem": "Webb",
+    "browserRequirements": "Kräver JavaScript. Fungerar med Gmail, Google Workspace och Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/sv",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Hur skyddar Duet Mail min e-postdata?",
+        "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google-integration genomgår vi Googles årliga CASA-säkerhetsbedömning."
+      },
+      {
+        "question": "Hur fungerar e-postsammanfattningsfunktionen?",
+        "answer": "Duet Mail använder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
+      },
+      {
+        "question": "Vilka behörigheter behöver Duet Mail?",
+        "answer": "Duet Mail kräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i ditt Google konto eller Microsoft kontoinställningar."
+      },
+      {
+        "question": "Vad ingår i den kostnadsfria provperioden?",
+        "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till alla Pro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
+      },
+      {
+        "question": "Kan jag använda Duet Mail med andra e-postleverantörer?",
+        "answer": "Duet Mail stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
+      }
+    ]
+  }
+}

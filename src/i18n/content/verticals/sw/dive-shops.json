@@ -1,0 +1,171 @@
+{
+  "slug": "dive-shops",
+  "pageTitle": "Duet Mail kwa Maduka ya Kuzamia | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia wamiliki wa maduka ya kupiga mbizi na wakufunzi wa PADI kujibu maswali ya vyeti, kuhifadhi nafasi za safari na maswali ya gia papo hapo - hata chini ya maji.",
+  "heroBadge": "Inaaminiwa na waendeshaji 300+ wa kupiga mbizi",
+  "heroHeadline": "Mratibu wako wa barua pepe ukiwa chini ya maji",
+  "heroSubline": "Duet hujifunza tovuti zako za kupiga mbizi, mahitaji ya uidhinishaji, bei na sauti - kisha huandaa majibu ya barua pepe ili usipoteze nafasi uliyohifadhi ukiwa ndani ya boti.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Fungua cheti cha Maji - upatikanaji?",
+      "preview": "Habari! Ninatembelea wiki ya kwanza ya Agosti na ninataka kupata cheti changu cha Maji Huria. Je, inachukua siku ngapi na ni pamoja na nini?",
+      "pill": "Ili Kujibu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin & Amy L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Kundi la 6 kwa ajili ya kupiga mbizi ya tanki 2 Jumamosi",
+      "preview": "Tuna wapiga mbizi 6 walioidhinishwa na tunataka kuweka miadi ya asubuhi ya kuzamia kwa tanki 2 Jumamosi hii. Je! una nafasi? Ni bei gani ya mtu binafsi...",
+      "pill": "Kuhifadhi",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Ukodishaji wa BCD kwa wikendi?",
+      "preview": "Halo, nimeidhinishwa lakini ni mwanga wa kusafiri. Je, unakodisha BCDs na vidhibiti? Ningezihitaji Ijumaa hadi Jumapili ...",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "PADI eLearning",
+      "avatarLetter": "P",
+      "avatarColor": "lavender",
+      "subject": "Rufaa ya wanafunzi: Rachel Torres",
+      "preview": "Mwanafunzi amemaliza elimu yake ya kielektroniki na akachagua kituo chako cha kupiga mbizi kwa ajili ya mafunzo ya maji fupi na ya wazi...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Habari Rachel! Tungependa kukuidhinisha. Kozi ya Open Water huchukua siku 3 - siku moja ya vipindi vya kuogelea na siku mbili za kupiga mbizi baharini. Gia zote zimejumuishwa. Agosti ni wazi. Je, ungependa nihifadhi eneo kwa wiki hiyo ya kwanza?",
+  "math": {
+    "pricePerBooking": "$150",
+    "bookingUnit": "kupiga mbizi",
+    "lostPerMonth": "3 trips (6 divers each)",
+    "monthlyLoss": "$2,700",
+    "punchline": "Kupiga mbizi kwa kikundi kimoja kulipia mwaka wa Duet."
+  },
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maswali ya uidhinishaji na uhifadhi nafasi kwanza, maswali ya gia pili, na arifa za PADI ukiwa tayari. Hakuna tena kukosa nafasi ya kikundi iliyozikwa chini ya majarida ya vifaa.",
+  "draftSubtitle": "Duet hujifunza tovuti zako za kupiga mbizi, mahitaji ya cheti, na bei. Swali la kuweka nafasi linapofika, hutayarisha jibu kamili lenye maelezo ya safari, ni nini kimejumuishwa na kile cha kuleta. Unakagua na kutuma.",
+  "agentSubtitle": "\"Ni wapiga mbizi wangapi wamehifadhiwa kwa ajili ya Jumamosi?\" \"Rasimu ya jibu kwa Rachel kuhusu upatikanaji wa Maji Huria.\" Duet anajua kikasha chako na ratiba - uliza tu.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Fungua cheti cha Maji - upatikanaji?",
+      "preview": "Ninatembelea wiki ya kwanza ya Agosti na ninataka kuthibitishwa...",
+      "pill": "Jibu Sasa",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Uhifadhi umethibitishwa - Jumamosi 2-tank kupiga mbizi",
+      "pill": "Imehifadhiwa",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Jason M.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Ukodishaji wa BCD na kidhibiti wikendi hii?",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "DiveBuddy",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Ukaguzi mpya kwenye tangazo lako",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Dive Gear Express",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Uuzaji wa msimu wa joto - punguzo la 25% la suti za mvua",
+      "pill": "Matangazo",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Cheti cha Maji wazi - upatikanaji?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Ninatembelea wiki ya kwanza ya Agosti na ninataka kupata cheti changu cha Maji Huria. Je, inachukua siku ngapi na ni pamoja na nini?",
+    "lines": [
+      "Habari Rachel!",
+      "Tungependa kukuidhinisha! Kozi ya Maji Huria ya PADI huchukua siku 3 - kipindi kimoja cha kuogelea na maji mawili ya baharini kwenye miamba yetu. Gia zote zimejumuishwa.",
+      "Agosti ni wazi sasa hivi. Wanafunzi wengi huanza Jumatatu kwa hivyo wanamaliza kufikia Jumatano.",
+      "Je, unataka nihifadhi nafasi?"
+    ],
+    "highlightText": "Kozi ya PADI Open Water huchukua siku 3",
+    "tooltipFeatures": [
+      "Anajua kozi na bei zako",
+      "Rasimu katika sauti yako",
+      "Inajumuisha mahitaji ya cheti kiotomatiki",
+      "Anajifunza kwa muda"
+    ]
+  },
+  "agent": {
+    "userMessage": "Je, ni wazamiaji wangapi wamehifadhiwa kwa ajili ya Jumamosi?",
+    "agentResponse": "Kulingana na kisanduku pokezi chako, una wapiga mbizi 8 waliothibitishwa kwa ajili ya kupiga mbizi kwenye tanki 2 Jumamosi asubuhi - kikundi cha Kevin cha watu 6 pamoja na nafasi 2 za mtu binafsi. Pia una swali ambalo linasubiri kutoka kwa Jason kuhusu kukodisha gia kwa safari hiyo hiyo. Je, unataka nitayarishe jibu?",
+    "followUp": "Rasimu ya jibu kwa Rachel na maelezo ya kozi ya Open Water",
+    "followUpResponse": "Imekamilika! Niliandaa jibu kwa Rachel nikithibitisha kozi ya siku 3 ya PADI Open Water pamoja na dimbwi la kuogelea na dimbwi la baharini. Inataja upatikanaji wa Agosti na sera yako ya kawaida ya kujumuisha gia. Tayari kukagua na kutuma."
+  },
+  "testimonialsTitle": "Inapendwa na waendeshaji wa kupiga mbizi",
+  "testimonials": [
+    {
+      "name": "Kapteni Mike T.",
+      "title": "Nahodha wa Boti ya Dive, FL",
+      "quote": "Ninaendesha safari za mashua Ijumaa hadi Jumapili na duka linafunguliwa saa chache tu Jumatatu. Maswali ya vyeti na maswali ya safari hurundikana nikiwa chini ya maji. Rasimu za Duet hujibu na bei yangu, tovuti za kupiga mbizi, na kile kilichojumuishwa - ninazipitia kati ya kupiga mbizi.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Kituo cha Kupiga mbizi cha PADI, HI",
+      "quote": "Tunapiga mbizi, safari za snorkel, na saa za nyangumi kutoka kwa mashua zile zile. Aina ya barua pepe ni ya kichaa - maswali ya cheti, uhifadhi wa vikundi, ukodishaji wa gia, ukaguzi wa hali ya hewa. Duet hupanga yote na kuandaa majibu ambayo yanajua tofauti. Kiokoa maisha kabisa.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Hati za Kupiga mbizi za Wreck, FL",
+      "quote": "Nusu ya barua pepe zangu ni 'ni cheti gani ninachohitaji kwa ajili ya kupiga mbizi kwenye ajali?' na nusu nyingine ni 'Je, nahitaji gia yangu mwenyewe?' Duet hushughulikia zote mbili kwenye majaribio ya kiotomatiki. Muda wangu wa kujibu ulienda kutoka saa hadi dakika.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Mmiliki wa Duka la Dive, CA",
+      "quote": "Wakati wa kiangazi tunapokea barua pepe 30+ kwa siku kuhusu kozi, upatikanaji wa safari na vifaa. Nilikuwa nikipoteza nafasi kwenye maduka ambayo yalijibu haraka. Sasa Duet inaandaa kila kitu na ninagonga tu kutuma kati ya madarasa.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Mkufunzi na Mwongozo wa Dive, NC",
+      "quote": "Ninafundisha kozi asubuhi na kuongoza kupiga mbizi mchana. Hakuna wakati wa kujibu barua pepe. Duet ilijifunza ratiba yangu ya kozi, bei, hata sera yangu ya kughairi. Wateja hawawezi kutofautisha.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tumia siku zako chini ya maji,\nhaijazikwa kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
+  "verticalFaqs": [
+    {
+      "question": "Je, Duet inaelewa viwango vya vyeti na mahitaji ya kozi?",
+      "answer": "Ndiyo. Duet hujifunza kozi zako mahususi - Open Water, Advanced, Rescue, Divemaster - pamoja na sharti, muda, bei, na kile kinachojumuishwa. Mtu anapouliza kuhusu kuthibitishwa, Duet huandaa jibu lenye maelezo sahihi ya kozi, ratiba na hatua zinazofuata. Unakagua na kutuma."
+    },
+    {
+      "question": "Niko kwenye mashua au chini ya maji siku nzima. Je, ninaweza kutumia Duet kutoka kwa simu yangu?",
+      "answer": "Ndiyo. Duet hufanya kazi na Gmail na Outlook, kwa hivyo inafanya kazi popote barua pepe yako inafanya kazi - ikiwa ni pamoja na simu yako. Rasimu huonekana kiotomatiki kwenye kikasha chako. Kati ya kupiga mbizi au kurudi kwenye kizimbani, unakagua na kutuma kwa mguso mmoja. Waendeshaji wengi wa kupiga mbizi hutuambia inawaokoa saa 1-2 za wakati wa barua pepe kwa siku wakati wa msimu wa kilele."
+    }
+  ],
+  "pricingNote": "Kwa $150/kupiga mbizi na kikundi cha watu 6, safari moja iliyohifadhiwa hulipa kwa zaidi ya mwaka mmoja wa Pro."
+}

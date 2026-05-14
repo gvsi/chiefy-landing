@@ -1,0 +1,171 @@
+{
+  "slug": "whale-watching",
+  "pageTitle": "Duet Mail para sa Whale Watching Tours | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga whale watching captain na tumugon kaagad sa mga email sa pag-book — kahit na mula sa tubig. AI-drafted na mga tugon kasama ng iyong mga detalye ng tour, pagpepresyo, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 300+ tour captain",
+  "heroHeadline": "Ang iyong email assistant habang nakikita mo ang mga balyena",
+  "heroSubline": "Natutunan ng Duet ang iyong iskedyul ng tour, pagpepresyo, at boses — pagkatapos ay nag-draft ng mga tugon sa email para hindi ka mawalan ng booking habang nasa tubig ka.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Grupo ng 8 — availability Hunyo 14?",
+      "preview": "Hi! Kami ay isang pamilya ng 8 bumibisita para sa linggo. May espasyo ka ba sa morning tour June 14? Magkano ang presyo bawat tao at pwede ba ito para sa mga bata?",
+      "pill": "Upang Tumugon",
+      "pillColor": "red"
+    },
+    {
+      "from": "James at Kathy L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Pribadong charter na pagpepresyo?",
+      "preview": "Gusto naming mag-book ng pribadong whale watching tour para sa aming anibersaryo. Magkano ang halaga para sa isang 2 oras na pribadong charter para sa aming dalawa lamang...",
+      "pill": "Mataas na Halaga",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Cruise Port Desk",
+      "avatarLetter": "C",
+      "avatarColor": "purple",
+      "subject": "Pagbabago ng iskedyul — Darating ang Coral Princess ng 1 oras nang maaga",
+      "preview": "Paalala: ang pagdating bukas sa Coral Princess ay inilipat mula 10 AM hanggang 9 AM. Mangyaring ayusin ang anumang port excursion pickup nang naaayon...",
+      "pill": "Urgent",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Bagong review para sa iyong listing",
+      "preview": "Sinuri kamakailan ng isang manlalakbay ang iyong negosyo. Tingnan kung ano ang kanilang sasabihin at tumugon...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hoy Rachel! June 14 morning tour ay may espasyo para sa 8. Ang mga tour ay $125/tao, ang mga batang 4-12 ay kalahating presyo. Aalis kami ng 9 AM mula sa daungan at tumatakbo nang halos 2.5 oras. Binocular na ibinigay — magdala lamang ng mga layer at sunscreen. Gusto ko bang magpareserba ng 8 puwesto?",
+  "math": {
+    "pricePerBooking": "$750",
+    "bookingUnit": "grupo ng paglalakbay",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,250",
+    "punchline": "Ang isang naka-save na group booking ay nagbabayad para sa isang taon ng Duet."
+  },
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang iskedyul ng cruise ship, at hindi kailanman ingay. Wala nang nawawalang pribadong pagtatanong sa charter na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
+  "draftSubtitle": "Natutunan ng duet ang iyong mga oras ng paglilibot, pagpepresyo, at mga patakaran. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may kakayahang magamit, kung ano ang kasama, at kung ano ang dadalhin. I-review at ipadala mo.",
+  "agentSubtitle": "\"Ilang spot ang natitira sa morning tour ng Sabado?\" \"Mag-draft ng tugon kay Rachel na may availability.\" Alam ng duet ang iyong inbox at iskedyul — magtanong lang.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Grupo ng 8 — availability Hunyo 14?",
+      "preview": "Kami ay isang pamilya ng 8 bumibisita para sa linggo...",
+      "pill": "Tumugon Ngayon",
+      "pillColor": "red"
+    },
+    {
+      "from": "James L.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Nakumpirma ang pribadong charter — Sabado 2PM",
+      "pill": "Naka-book",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Megan S.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Tatakbo ba ang tour bukas? Mukhang masungit ang hangin",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FareHarbor",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Pang-araw-araw na buod ng booking — 3 bagong reserbasyon",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Marine Supply Co.",
+      "avatarLetter": "M",
+      "avatarColor": "lavender",
+      "subject": "Summer clearance — 15% diskwento sa gamit pangkaligtasan",
+      "pill": "Mga promosyon",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Group of 8 — availability June 14?",
+    "originalFrom": "Sumulat si Rachel T.:",
+    "originalText": "Hi! Kami ay isang pamilya ng 8 bumibisita para sa linggo. May espasyo ka ba sa morning tour June 14? Magkano ang presyo bawat tao at pwede ba ito para sa mga bata?",
+    "lines": [
+      "Hoy Rachel!",
+      "Ang paglilibot sa umaga sa Hunyo 14 ay may maraming silid para sa 8. Ang mga tiket ay $125/tao, ang mga batang 4-12 ay kalahating presyo. Aalis kami ng 9 AM at babalik bandang 11:30.",
+      "Binocular at rain gear na ibinigay — magdala lamang ng mga mainit na layer at sunscreen. Gustung-gusto ito ng mga bata sa observation deck.",
+      "Gusto mo bang i-lock ko sa 8 spot?"
+    ],
+    "highlightText": "Ang June 14 morning tour ay may maraming puwang para sa 8. Ang mga tiket ay $125/tao",
+    "tooltipFeatures": [
+      "Alam ang iyong mga oras ng paglilibot at pagpepresyo",
+      "Mga draft sa iyong boses",
+      "Kasama kung ano ang awtomatikong dadalhin",
+      "Natututo sa paglipas ng panahon"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ilang puwesto ang natitira sa paglilibot sa umaga ng Sabado?",
+    "agentResponse": "Batay sa iyong mga booking, ang 9 AM tour ng Sabado ay may 18 sa 44 na mga puwesto na napuno — 26 ay bukas pa rin. Halos puno na ang afternoon tour sa 40 ng 44. Gusto mo bang mag-draft ako ng tugon sa anumang nakabinbing mga katanungan na may availability sa Sabado ng umaga?",
+    "followUp": "Bumuo ng tugon kay Rachel na nagkukumpirma sa Hunyo 14 para sa 8 bisita",
+    "followUpResponse": "Tapos na! Nag-draft ako ng tugon kay Rachel na nagkukumpirma noong Hunyo 14 na paglilibot sa umaga para sa 8 bisita sa $125/tao. Kasama dito ang oras ng pag-alis, kung ano ang ibinigay, at kung ano ang dadalhin. Handa nang suriin at ipadala."
+  },
+  "testimonialsTitle": "Mahilig sa whale watching captains",
+  "testimonials": [
+    {
+      "name": "Kapitan Dave H.",
+      "title": "Wildlife Tour Operator, AK",
+      "quote": "Ang mga pasahero ng cruise ship ay nangangailangan ng mga sagot nang mabilis — mayroon lamang silang 6 na oras sa daungan. Nawalan ako noon ng mga pribadong charter dahil nasa tubig ako nang pumasok ang pagtatanong. Ngayon, ang mga draft ng Duet ay tumutugon sa aking mga detalye ng pagpepresyo at pickup bago pa man ako magdaong.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria at Luis R.",
+      "title": "Family Whale Watch, CA",
+      "quote": "Nagpapatakbo kami ng dalawang paglilibot sa isang araw sa panahon ng humpback at hindi totoo ang dami ng email. 'Makakakita ba tayo ng mga balyena?' 'Ano ang isusuot ko?' 'Kansel ba bukas?' Hinahawakan ng duet ang mga paulit-ulit na tanong at nakatuon kami sa mga paglilibot.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Kapitan Ben T.",
+      "title": "Mga Ekskursiyon sa Karagatan, HI",
+      "quote": "Sinasagot ko ang parehong 10 tanong bawat gabi — pagpepresyo, kung ano ang kasama, mga tip sa pagkahilo, mga limitasyon sa edad ng bata. Nalaman ng duet ang lahat ng ito sa unang linggo. Ang oras ng pagtugon ko ay mula 8 oras hanggang 8 minuto.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Kim W.",
+      "title": "Tagapamahala ng Booking, Pacific NW",
+      "quote": "Ang mga pagkansela ng panahon ay ang pinakamasama — 30 tao ang nangangailangan ng rebooking nang sabay-sabay at ako ay nakikipag-juggling sa mga tawag sa telepono. Duet drafts personalized reschedule email para sa bawat bisita. Ang dating inaabot ko ng 2 oras ay tumatagal ng 15 minuto ngayon.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Jess at Nate P.",
+      "title": "Maliit na Bangka Wildlife Tours, BC",
+      "quote": "Two-person operation kami — ako captain, she runs logistics. Sa peak season, gumugugol siya ng 3 oras sa isang gabi sa email. Duet cut that to 30 minutes. Binabalik niya talaga ang mga gabi niya ngayon.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Gumugol ng panahon ng balyena sa tubig, \nwala sa inbox mo.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
+  "verticalFaqs": [
+    {
+      "question": "Pinangangasiwaan ba ng Duet ang mga pagkansela ng panahon at mga pagbabago sa iskedyul ng cruise ship?",
+      "answer": "Oo. Kapag kinansela mo ang isang paglilibot dahil sa lagay ng panahon o pagbabago ng oras ng pagdating ng cruise ship, maaari mong sabihin sa Duet nang isang beses at ito ay nag-draft ng personalized na reschedule o nag-a-update ng mga email para sa bawat apektadong bisita. Wala nang pagkopya at pag-paste ng parehong mensahe nang 30 beses. Kasama sa bawat tugon ang orihinal na mga detalye ng booking ng bisita at mga available na alternatibo."
+    },
+    {
+      "question": "Nakukuha namin ang parehong mga tanong palagi — 'makakakita ba tayo ng mga balyena?', 'ano ang dapat kong isuot?', 'okay lang ba sa mga bata?' Kayanin kaya ng Duet ang mga iyon?",
+      "answer": "Doon talaga kumikinang ang Duet. Natututuhan nito ang iyong mga karaniwang sagot — mga species na karaniwan mong nakikita, kung ano ang dadalhin, mga patakaran sa edad, mga tip sa pagkahilo, mga oras ng pag-alis — at mga draft na kumpletong mga tugon. I-review at ipadala mo. Karamihan sa mga kapitan ay nagsasabi sa amin na 80% ng kanilang inbox ay ang parehong 10 tanong, at ang Duet ang humahawak sa lahat ng ito."
+    }
+  ],
+  "pricingNote": "Sa $125/tao, ang isang naka-save na grupo ng 6 ay nagbabayad ng higit sa isang taon na Pro."
+}

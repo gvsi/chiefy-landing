@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail voor ballonvaarten | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt ballonpiloten direct te reageren op boekings-e-mails, zelfs tijdens vluchten bij zonsopgang. Door AI opgestelde antwoorden met uw prijzen, weerbeleid en stem.",
+  "heroBadge": "Vertrouwd door meer dan 200 ballonpiloten",
+  "heroHeadline": "Uw e-mailassistent terwijl u in de lucht bent",
+  "heroSubline": "Duet leert uw vluchtschema's, prijzen en weerbeleid kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest terwijl u bij zonsopgang vertrekt.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Zonsopgangvlucht voor 2 — Zaterdag beschikbaar?",
+      "preview": "Hallo! Mijn man en ik zijn op bezoek voor ons jubileum en willen graag een ballonvaart bij zonsopgang boeken aanstaande zaterdag. Heeft u ruimte? Wat zijn de kosten per persoon?",
+      "pill": "Om te reageren",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Gaan we morgen vliegen? De windvoorspelling ziet er ruw uit",
+      "preview": "We zijn geboekt voor morgenochtend, maar de weer-app toont windstoten van 24 km/u. Vliegen we nog of moeten we een nieuwe afspraak maken...",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer en Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Privévlucht voor een voorstel — prijzen?",
+      "preview": "Ik wil mijn vriendin verrassen met een privéballonvaart en tijdens de vlucht een aanzoek doen. Hoeveel kost een privévlucht en kunt u helpen bij het coördineren...",
+      "pill": "Boeking",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Wat moeten we dragen? Waar ontmoeten we elkaar?",
+      "preview": "We zijn geboekt voor zondagochtend. Wat moeten we dragen en waar is het ontmoetingspunt precies? En hoe lang duurt de hele ervaring...",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Hallo Rachel! Zaterdag is geopend voor 2 personen. Zonsopgangvluchten starten rond 06:15 uur. De avond ervoor bevestigen we de exacte tijd en locatie van de bijeenkomst op basis van de wind. Het kost $ 250 per persoon en omvat ongeveer een uur in de lucht plus een champagnetoost na de landing. Kleed je in laagjes en draag schoenen met gesloten neus. Wil je dat ik jouw plekken reserveer?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "vlucht",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Eén opgeslagen vlucht levert een jaar lang Duet op."
+  },
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst boekingsaanvragen ziet, daarna vragen over het weer en nooit lawaai. U hoeft geen vluchtaanvraag meer te missen die verborgen ligt onder nieuwsbriefwaarschuwingen.",
+  "draftSubtitle": "Duet leert uw prijzen, weerbeleid en toon kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met vluchtgegevens, vergaderinformatie en wat te dragen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "'Wie staat er morgen op het manifest?' \"Zijn er weerannuleringen die opnieuw gepland kunnen worden?\"Duet kent uw inbox en agenda — vraag het maar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Zonsopgangvlucht voor 2 — Zaterdag beschikbaar?",
+      "preview": "Mijn man en ik willen graag een ballonvaart bij zonsopgang boeken...",
+      "pill": "Reageer nu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Boeking bevestigd — zondag 06:15 uur",
+      "pill": "Geboekt",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Wat moeten we dragen tijdens de vlucht?",
+      "pill": "Vraag",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nieuwe recensie voor uw vermelding",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Ballon Federatie",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Veiligheidsbulletin en verlengingsherinnering van maart",
+      "pill": "Ter info",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Sunrise-vlucht voor 2 personen - zaterdag beschikbaar?",
+    "originalFrom": "Rachel T. schreef:",
+    "originalText": "Hallo! Mijn man en ik zijn op bezoek voor ons jubileum en willen graag een ballonvaart bij zonsopgang boeken aanstaande zaterdag. Heeft u ruimte? Wat zijn de kosten per persoon?",
+    "lines": [
+      "Hallo Rachel!",
+      "Zaterdag is wijd open voor twee personen. Zonsopgangvluchten kosten $ 250 per persoon en omvatten ongeveer een uur in de lucht plus een champagnetoost na de landing.",
+      "We vertrekken rond 06:15 uur. Ik stuur je de avond ervoor je exacte vergadertijd en locatie op basis van de windomstandigheden. Kleed je in laagjes en draag schoenen met gesloten neus.",
+      "Fijne verjaardag! Wil je dat ik jouw plekken reserveer?"
+    ],
+    "highlightText": "Zaterdag is wijd open voor 2 personen. Sunrise-vluchten kosten $ 250 per persoon",
+    "tooltipFeatures": [
+      "Kent uw prijzen en vluchtschema",
+      "Tochten in je stem",
+      "Bevat automatisch vergaderingsgegevens",
+      "Leert in de loop van de tijd"
+    ]
+  },
+  "agent": {
+    "userMessage": "Wie staat er morgen op het manifest en hoe ziet het weer eruit?",
+    "agentResponse": "Voor de zonsopgangsvlucht van morgen zijn 6 passagiers geboekt, verdeeld over 2 reserveringen: het Thompson-feest (4) en het Lee-paar (2). De huidige voorspelling laat kalme wind zien met een snelheid van 6 km/uur en een heldere hemel bij de lancering. Nog geen annuleringsmails. Wil je dat ik de ontmoetingspuntbevestigingen stuur?",
+    "followUp": "Ja, stuur bevestigingen naar beide partijen met de vergadertijd van 06.15 uur",
+    "followUpResponse": "Klaar! Ik stelde om 06.15 uur op het lanceerveld een bevestiging van het ontmoetingspunt op voor zowel de Thompsons als de Lees, wat ik moest dragen en een routebeschrijving. Klaar om te beoordelen en te verzenden."
+  },
+  "testimonialsTitle": "Geliefd bij ballonpiloten en operators",
+  "testimonials": [
+    {
+      "name": "Kapitein Mike L.",
+      "title": "Ballonpiloot, MN",
+      "quote": "Ik ben een eenmansbedrijf: ik vlieg, ik beman, ik beantwoord e-mails. Behalve om 5 uur 's ochtends ben ik aan het opblazen en antwoord ik niet. Duet stelt reacties op op elke 'zullen we morgen vliegen?' boodschap van de ene op de andere dag. Ik word wakker, controleer het weer en druk op verzenden.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon en Jake B.",
+      "title": "Het hele jaar door ballonvaarten, UT",
+      "quote": "We krijgen elke dag dezelfde 10 vragen. Wat te dragen, waar te ontmoeten, wat als het winderig is. Duet heb alles geleerd en stel nu perfecte antwoorden op. We gingen van een uur aan e-mails per avond naar vijf minuten.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Sunrise Flight Operator, AZ",
+      "quote": "Hoogseizoen betekent 4-6 vluchten per week en elke passagier e-mailt minstens twee keer vóór de vlucht. Duet behandelt de vragen voorafgaand aan de vlucht, zodat ik me kan concentreren op het geven van mensen de beste ochtend van hun leven.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Mede-eigenaar van Balloon Company, NM",
+      "quote": "Weersannuleringen verwoestten vroeger mijn hele dag – 8 passagiers hadden allemaal persoonlijke e-mails voor herschikking nodig. Nu stelt Duet ze allemaal op, inclusief ons omboekingsbeleid. Bespaart mij uren op annuleringsochtenden.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Ballonvaartoperaties, CO",
+      "quote": "Aanzoekvluchten vereisen zoveel heen-en-weer-coördinatie. Duet ging in op de manier waarop we ermee omgaan: de timing, de codewoorden, de champagne-opstelling. Het stelt antwoorden op die ik nauwelijks hoef aan te raken.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Breng je ochtenden door in de lucht,\nniet in uw inbox.",
+  "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
+  "verticalFaqs": [
+    {
+      "question": "Hoe gaat Duet om met e-mails over weerannuleringen?",
+      "answer": "Duet leert uw annulerings- en omboekingsbeleid kennen. Wanneer u een vlucht annuleert vanwege weersomstandigheden, kan er een gepersonaliseerde e-mail met een nieuwe planning worden opgesteld voor elke betrokken passagier, met uw polis, beschikbare data en uw toon. Je beoordeelt en verzendt. Wat vroeger een uur aan individuele antwoorden kostte, duurt minuten."
+    },
+    {
+      "question": "Kan Duet omgaan met de vraag 'zullen we morgen vliegen?' e-mails die elke avond binnenstromen?",
+      "answer": "Ja, dit is een van de meest voorkomende e-mails waarover ballonexploitanten ons vertellen. Duet leert uw weerbeleid kennen en stelt geruststellende antwoorden op waarin uw beslissingsproces wordt uitgelegd, wanneer u de laatste beslissing neemt en wat u kunt verwachten. Zodra u 's ochtends de go/no-go bevestigt, kan het updates opstellen voor iedereen op het manifest."
+    }
+  ],
+  "pricingNote": "Bij $ 250/persoon met 4 passagiers per vlucht, betaalt één opgeslagen boeking voor meer dan een jaar Pro."
+}

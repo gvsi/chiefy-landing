@@ -1,0 +1,171 @@
+{
+  "slug": "horseback-rides",
+  "pageTitle": "Duet Mail pasivažinėjimams žirgais ir gidams |AI el. pašto padėjėjas",
+  "metaDescription": "Duet Mail padeda važiavimo takais operatoriams akimirksniu atsakyti į rezervavimo el. laiškus – net ir iš balno.AI parengti atsakymai su jūsų kainodara, vairuotojo reikalavimais ir balsu.",
+  "heroBadge": "Pasitiki daugiau nei 300 gidų",
+  "heroHeadline": "Jūsų el. pašto asistentas, kai esate kelyje",
+  "heroSubline": "Duet sužino jūsų važiavimo tipus, kainas, motociklininko reikalavimus ir trasos sąlygas – tada parengia atsakymų el. paštu juodraščius, kad niekada neprarastumėte užsakymo dėl lėto atsakymo.",
+  "inboxEmails": [
+    {
+      "from": "Džesika T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Grupinis užsakymas 6 valandoms – šeštadienio rytą?",
+      "preview": "Sveiki! Esame 6 asmenų šeima (2 suaugusieji, 4 vaikai nuo 8 iki 14 metų amžiaus) ir norėtume šį šeštadienio rytą užsisakyti pasivažinėjimą taku. Ar turite laisvų vietų? Kokia kaina vienam asmeniui?",
+      "pill": "Atsakyti",
+      "pillColor": "red"
+    },
+    {
+      "from": "Brianas L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Svorio apribojimo klausimas",
+      "preview": "Sveiki, noriu užsisakyti kelionę, bet pirmiausia norėjau pasiteirauti apie jūsų svorio reikalavimus. Sveriu apie 260 svarų – ar tai bus problema...",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Amy ir Dan W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Saulėlydžio pasivažinėjimas jubiliejaus proga?",
+      "preview": "Kitą savaitgalį švenčiame 10 metų jubiliejų ir matėme jūsų saulėlydžio kelionęInstagram. Ar galima gauti penktadienio vakarą? Bet kokie specialūs paketai...",
+      "pill": "Užsakymas",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nauja jūsų įrašo apžvalga",
+      "preview": "Keliautojas neseniai peržiūrėjo jūsų įmonę. Pažiūrėkite, ką jie turėjo pasakyti, ir atsakykite...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Sveiki, Jessica! Šeštadienio rytas yra atviras 6. Mūsų taku važiuoja yra $ 100/person ir paleisti apie 90 minučių per slėnį. Laukiami 8 metų ir vyresni vaikai – visi jūsų laukiami. Reikalingi uždari batai, o mes suteikiame šalmus. Norite, kad užsakyčiau jus kelionei 9 val.",
+  "math": {
+    "pricePerBooking": "$600",
+    "bookingUnit": "važiuoti",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,400",
+    "punchline": "Vienas sutaupytas važiavimas grupe moka daugiau nei dvejus metus Duet."
+  },
+  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, paskui – motociklininko klausimus, o triukšmą – niekada. Daugiau netrūksta grupės užklausos, paslėptos poTripAdvisorįspėjimais.",
+  "draftSubtitle": "Duet sužino jūsų važiavimo tipus, kainas ir reikalavimus. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia trasos informacija, kainomis ir tuo, ką dėvėti. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "„Ar šį savaitgalį atidaromi atrakcionai? „Surašyk atsakymą Jessicai, jei bus pasiekiamas šeštadienį“. Duet žino jūsų gautuosius ir kalendorių – tiesiog paklauskite.",
+  "categorizationEmails": [
+    {
+      "from": "Džesika T.",
+      "avatarLetter": "J",
+      "avatarColor": "pink",
+      "subject": "Grupinis užsakymas 6 valandoms – šeštadienio rytą?",
+      "preview": "Esame 6 asmenų šeima, norime užsisakyti pasivažinėjimą...",
+      "pill": "Atsakykite dabar",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amy W.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Re: Saulėlydžio kelionė patvirtinta – penktadienis 5:30PM",
+      "pill": "Užsakyta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Brianas L.",
+      "avatarLetter": "B",
+      "avatarColor": "blue",
+      "subject": "Svorio limitas ir patirties reikalavimai?",
+      "pill": "Klausimas",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Viatorius",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Jūsų savaitės užsakymo suvestinė",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Traktorių tiekimas",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Pavasario išpardavimas – 15% nuolaida pašarams ir lipniams",
+      "pill": "Akcijos",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "jessica.t@email.com",
+    "subject": "Re: Grupinis užsakymas 6 valandoms – šeštadienio rytą?",
+    "originalFrom": "Jessica T. rašė:",
+    "originalText": "Sveiki! Esame 6 asmenų šeima (2 suaugusieji, 4 vaikai nuo 8 iki 14 metų amžiaus) ir norėtume šį šeštadienio rytą užsisakyti pasivažinėjimą taku. Ar turite laisvų vietų? Kokia kaina vienam asmeniui?",
+    "lines": [
+      "Sveiki, Jessica!",
+      "Šeštadienio rytas yra plačiai atviras 6. Trail važiuoja $ 100/person ir paleisti apie 90 minučių per slėnį. Vaikai nuo 8 metų yra laukiami, todėl visa jūsų komanda gali eiti.",
+      "Reikalingi batai su uždaru nosu – geriausiai tinka batai. Mes suteikiame šalmus ir prideriname kiekvieną raitelį prie žirgo pagal dydį ir patirtį. Ankstesnė vairavimo patirtis nebūtina.",
+      "Nori, kad uždaryčiau tave į kelionę 9 val."
+    ],
+    "highlightText": "Šeštadienio rytas yra atviras 6. Kelionės taku kainuoja 100 USD/asm",
+    "tooltipFeatures": [
+      "Žino jūsų kainas ir prieinamumą",
+      "Juodraščiai jūsų balse",
+      "Automatiškai įtraukiami motociklininko reikalavimai",
+      "Laikui bėgant išmoksta"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ar šį savaitgalį veikia atrakcionai? Be to, kaip atrodo oras?",
+    "agentResponse": "Remiantis jūsų kalendoriumi, šeštadienį dirbate 9 val. ir 2PM, o sekmadienį - 10 val. Šeštadienio prognozė yra 72 ° F ir saulėta - puikus oras jodinėjimui. Sekmadienis rodo 40% tikimybę, kad po pietų lietus, todėl rytinis laiko tarpas yra saugesnis pasirinkimas. Norite, kad šiuo laiku pateikčiau atsakymus į visus laukiamus klausimus?",
+    "followUp": "Paruoškite atsakymą Jessicai, nurodydami šeštadienį",
+    "followUpResponse": "Atlikta! Parašiau atsakymą Jessicai, patvirtinantį, kad šeštadienį 9 val. 6 motociklininkai kainuoja 100 USD asmeniui. Tai apima jūsų standartinius motociklininko reikalavimus ir tai, ką dėvėti. Paruošta peržiūrėti ir išsiųsti."
+  },
+  "testimonialsTitle": "Mėgsta trail operatorių",
+  "testimonials": [
+    {
+      "name": "Džeikas H.",
+      "title": "Ranch Owner & Trail Guide, MT",
+      "quote": "Aš vaikščioju 6 valandas per dieną be mobiliojo ryšio paslaugų. Kol grįžau atsakyti, pusė žmonių buvo užsisakę kur nors kitur. Dabar Duet rengiu atsakymų juodraščius su mano kainodara ir informacija apie važiavimą – aš tiesiog peržiūriu ir išsiunčiau, kai grįžtu į tvartą.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Maria C.",
+      "title": "Žirgų kelionių organizatorius, AZ",
+      "quote": "Gauname dešimtis el. laiškų, kuriuose klausiama to paties – svorio apribojimai, ką dėvėti, amžiaus reikalavimai. Duet tvarko visa tai ir atsakymai skamba lygiai taip pat, kaip aš. Mano svečiai neįsivaizduoja, kad tai AI.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Taileris S.",
+      "title": "„Trail Ride Guide“, CO",
+      "quote": "Piko sezonas mane žudė. Daugiau nei 30 el. laiškų per dieną be bėgimo. Duet surūšiuoja užsakymo užklausas pagal triukšmą ir parengia atsakymų juodraščius, kuriuose yra viskas – kaina, ką atsinešti, aikštelė. Atgavau vakarus.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Rachel M.",
+      "title": "Jojimo instruktorius ir užsakymų vadybininkas, TX",
+      "quote": "Vykdome saulėlydžio, ryto pasivažinėjimus ir privačias pamokas, kurių kainos ir reikalavimai skiriasi. Duet visa tai išmoko per savaitę. Jis kiekvieną kartą parengia tinkamą atsakymą tinkamam važiavimo tipui.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Diane K.",
+      "title": "Family Ranch & Trail Rides, CA",
+      "quote": "Skelbtini el. laiškai buvo patys blogiausi – kažkas klausia, ar jie per sunkūs, ar jų vaikas pakankamai senas. Duet su jais elgiasi taip pat atsargiai, kaip ir aš. Profesionalus, malonus ir tikslus. Vien tai verta.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Praleisk dieną su žirgais,\nne jūsų pašto dėžutėje.",
+  "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
+  "verticalFaqs": [
+    {
+      "question": "Kaip Duet sprendžia jautrius klausimus apie svorio ar patirties reikalavimus?",
+      "answer": "Duet sužino jūsų konkrečią politiką ir atspindi jūsų toną. Kai kas nors klausia apie svorio apribojimus ar patirties reikalavimus, jis atsako profesionaliai ir šiltai – dalijasi reikiama informacija, nesukeldamas jos nepatogumų. Jūs nustatote toną vieną kartą, o Duet jo laikosi nuolat, todėl kiekvienas svečias jaučiasi gerbiamas."
+    },
+    {
+      "question": "Ar Duet gali tvarkyti grupinius užsakymus su skirtingais motociklininkų poreikiais?",
+      "answer": "Taip. Duet sužino jūsų važiavimo tipus, grupių dydžius, minimalų amžių ir visus motociklininkui būdingus reikalavimus. Kai šeima ar grupė siunčia el. laišką apie rezervavimą, ji parengia atsakymo juodraštį, kuriame nurodoma visos grupės kaina, tai, ką turi žinoti kiekvienas motociklininkas, ir galimi laiko tarpai. Jūs peržiūrite ir siunčiate – nereikia pirmyn ir atgal."
+    }
+  ],
+  "pricingNote": "100 USD/asmeniui 6 asmenų grupei vienas sutaupytas važiavimas moka daugiau nei dvejus metus Pro."
+}

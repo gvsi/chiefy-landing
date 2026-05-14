@@ -1,0 +1,171 @@
+{
+  "slug": "atv-tours",
+  "pageTitle": "Duet Mail pentru tururi ATV și UTV | Asistent de e-mail AI",
+  "metaDescription": "Duet Mail îi ajută pe ghizii turistici ATV și UTV să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu prețurile, cerințele și vocea ta.",
+  "heroBadge": "De încredere de peste 200 de ghizi turistici",
+  "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe drum",
+  "heroSubline": "Duet învață tipurile de tur, prețurile și cerințele pentru călători, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare din cauza unui răspuns lent.",
+  "inboxEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Disponibilitate sambata pentru 4 aparate?",
+      "preview": "Hi! Suntem un grup de 4 care caută să rezervăm un tur cu ghid cu ATV-ul sâmbătă. ai loc? Care este prețul pe mașină?",
+      "pill": "A Răspunde",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Cerințe de asigurare?",
+      "preview": "Hei, ne aducem propriile noastre UTV-uri. Trebuie să prezentăm dovada asigurării de răspundere civilă? Ce fel de acoperire ai nevoie...",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "The Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Ce traseu pentru începători?",
+      "preview": "Nu am mai făcut niciodată cu ATV-uri. Ce traseu de tur ai recomanda unei familii cu doi adolescenti? Oferiți...",
+      "pill": "Rezervare",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "O nouă recenzie pentru înregistrarea ta",
+      "preview": "Un călător a evaluat recent afacerea ta. Vezi ce a spus și răspunde...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Rachel! Sambata este deschis si putem lua 4 utilaje fara probleme. Tururile costă 200 USD per mașină și durează aproximativ 6-8 ore. Ne întâlnim la ora 9 dimineața la începutul traseului — voi trimite indicații după ce veți fi confirmat. Se furnizează căști și ochelari de protecție. Vrei să te închid?",
+  "math": {
+    "pricePerBooking": "$800",
+    "bookingUnit": "grup (4 mașini)",
+    "lostPerMonth": "3",
+    "monthlyLoss": "$2,400",
+    "punchline": "O rezervare de grup salvată plătește pentru un an de Duet."
+  },
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările de asigurare în al doilea rând și zgomotul niciodată. Nu mai lipsește o întrebare de grup îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet învață rutele, prețurile și cerințele pentru călători. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„S-au rezervat grupuri pentru acest weekend?” „Scrie un răspuns pentru Rachel cu disponibilitate pentru sâmbătă”. Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel W.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Disponibilitate sambata pentru 4 aparate?",
+      "preview": "Suntem un grup de 4 care caută să rezervăm un tur cu ghid cu ATV-ul...",
+      "pill": "Răspunde acum",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jason P.",
+      "avatarLetter": "J",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervare confirmată — sâmbătă, ora 9:00",
+      "pill": "Rezervat",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Hendersons",
+      "avatarLetter": "H",
+      "avatarColor": "purple",
+      "subject": "Ce ar trebui să purtăm pe traseu?",
+      "pill": "Întrebare",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Yelp for Business",
+      "avatarLetter": "Y",
+      "avatarColor": "lavender",
+      "subject": "Actualizarea săptămânală a afacerii dvs",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Rocky Mountain ATV",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Clearance de primăvară - 25% reducere la piese",
+      "pill": "Promoții",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.w@email.com",
+    "subject": "Re: Disponibilitate sambata pentru 4 aparate?",
+    "originalFrom": "Rachel W. a scris:",
+    "originalText": "Hi! Suntem un grup de 4 care caută să rezervăm un tur cu ghid cu ATV-ul sâmbătă. ai loc? Care este prețul pe mașină?",
+    "lines": [
+      "Hei Rachel!",
+      "Sâmbătă este larg deschis pentru 4 mașini. Tururile costă 200 USD per mașină și rulează 6-8 ore începând cu ora 9:00 de la capătul traseului.",
+      "Sunt furnizate căști și ochelari de protecție - pur și simplu purtați pantaloni lungi, pantofi cu vârfuri închise și aduceți apă și protecție solară. Îți voi trimite punctul de întâlnire și indicațiile după ce vei fi confirmat.",
+      "Vrei să te închid?"
+    ],
+    "highlightText": "Sâmbătă este larg deschis pentru 4 mașini. Tururile costă 200 USD per mașină",
+    "tooltipFeatures": [
+      "Cunoaște prețurile și rutele tale de tur",
+      "Ciorne în vocea ta",
+      "Include automat cerințele călăreților",
+      "Învață în timp"
+    ]
+  },
+  "agent": {
+    "userMessage": "S-au rezervat grupuri pentru acest weekend?",
+    "agentResponse": "Pe baza căsuței primite, ai un grup de 6 confirmat pentru sâmbătă la ora 9:00 și un cuplu rezervat pentru duminică dimineața. Sambata dupa-amiaza si duminica dupa-amiaza sunt inca deschise. Vrei să redactez un răspuns la orice întrebări în așteptare cu aceste deschideri?",
+    "followUp": "Redactează un răspuns pentru Rachel cu disponibilitate pentru sâmbătă",
+    "followUpResponse": "Făcut! Am redactat un răspuns pentru Rachel confirmând sâmbătă pentru 4 mașini la 200 USD fiecare. Include locația standard de întâlnire, informații despre echipament și ce să purtați. Gata de revizuire și de trimis."
+  },
+  "testimonialsTitle": "Iubit de ghizii turistici și operatori",
+  "testimonials": [
+    {
+      "name": "Mike D.",
+      "title": "Ghid ATV, Utah de Sud",
+      "quote": "Conduc excursii de 8 ore prin canioane cu serviciu de celulă zero. Până mă întorceam, jumătate din e-mailurile mele de rezervare se înghețaseră. Duet elaborează răspunsuri cu informații despre prețuri și trasee — le examinez doar la sfârșitul zilei.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Tara M.",
+      "title": "Operator de turism UTV, Colorado",
+      "quote": "Facem excursii 7 zile pe săptămână și numai întrebările privind asigurarea și scutirea îmi stăruiau diminețile. Duet se ocupă de toate — cerințele pentru călăreți, restricțiile de vârstă, ce să aduci. Sună exact ca mine.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Ghid turistic Jeep, Moab",
+      "quote": "Oamenii e-mail întrebat ce traseu este potrivit pentru grupul lor, ce nivel de experiență au nevoie, dacă copiii pot merge. Aceleași 5 întrebări din nou și din nou. Duet pune în cuie pe fiecare dintre ele.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Nicole S.",
+      "title": "Off-Road Adventures, AZ",
+      "quote": "Petreceam peste o oră în fiecare noapte răspunzând la aceleași întrebări despre disponibilitate. Acum, Duet elaborează răspunsuri în timp ce sunt pe urmă. Timpul meu de răspuns a trecut de la ore la minute.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Amanda K.",
+      "title": "Tururi cu ATV pentru familie, Sedona",
+      "quote": "Primim o mulțime de familii care întreabă despre traseele pentru începători și despre cerințele de vârstă. Duet a învățat toate opțiunile noastre de tur și o recomandă pe cea potrivită în fiecare răspuns. Clienții nu pot face diferența.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Petrece sezonul de vârf pe traseu,\nnu în căsuța ta de e-mail.",
+  "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
+  "verticalFaqs": [
+    {
+      "question": "Duet se ocupă de întrebările privind asigurarea și renunțarea?",
+      "answer": "Da. Duet învață cerințele tale pentru călători — asigurare de răspundere civilă, restricții de vârstă, detalii despre renunțare, ce trebuie să aducă călătorii. Când cineva trimite un e-mail și întreabă de ce are nevoie înainte de tur, Duet redactează un răspuns complet cu toate detaliile. Verifici și apeși pe trimitere."
+    },
+    {
+      "question": "Sunt pe traseu toată ziua fără serviciu de telefonie mobilă. Cum ajută Duet?",
+      "answer": "Tocmai de aceea ghizii iubesc Duet. În timp ce conduci un tur de 6-8 ore fără semnal, solicitările de rezervare se adună. Duet scrie răspunsuri la fiecare dintre ele — prețuri, disponibilitate, locația întâlnirii, ce să poarte. Când te întorci, verifici schițele și trimiți. Majoritatea ghizilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
+    }
+  ],
+  "pricingNote": "La 200 USD/mașină, un grup salvat de 4 plătește pentru peste un an de Pro."
+}

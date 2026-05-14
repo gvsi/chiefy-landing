@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail 乘坐热气球 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助气球飞行员立即回复预订电子邮件——即使是在日出飞行期间。 AI-起草回复，其中包含您的定价、天气政策和语音。",
+  "heroBadge": "受到 200 多名气球飞行员的信赖",
+  "heroHeadline": "您在空中时的电子邮件助手",
+  "heroSubline": "Duet 了解您的航班时刻表、价格和天气政策，然后起草电子邮件回复，这样您在日出时起飞时就不会丢失预订。",
+  "inboxEmails": [
+    {
+      "from": "雷切尔和丹·T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "周六 2 人日出航班可以吗？",
+      "preview": "嗨！我和我丈夫来这里庆祝我们的周年纪念日，很想预订本周六的日出热气球之旅。你有空间吗？每人费用是多少？",
+      "pill": "回应",
+      "pillColor": "red"
+    },
+    {
+      "from": "凯文·L。",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "我们明天会飞吗？风力预报看起来很粗糙",
+      "preview": "我们预订了明天早上的航班，但天气应用程序显示阵风为 15 英里/小时。我们还在飞行还是应该计划重新安排...",
+      "pill": "问题",
+      "pillColor": "amber"
+    },
+    {
+      "from": "詹妮弗和马克·P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "私人飞行求婚——定价？",
+      "preview": "我想通过私人热气球之旅给我的女朋友一个惊喜，并在飞行过程中求婚。私人航班多少钱？您能帮忙协调一下吗？",
+      "pill": "预订",
+      "pillColor": "blue"
+    },
+    {
+      "from": "艾米·S。",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "我们应该穿什么？我们在哪里见面？",
+      "preview": "我们已经预订了周日早上。我们应该穿什么以及集合点到底在哪里？另外，整个体验需要多长时间...",
+      "pill": "问题",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "嗨，雷切尔！周六开放 2 点。日出航班在 6:15 AM 左右起飞 — 我们将在前一天晚上根据风向确认确切的时间和集合地点。飞行时间为$250/person，包括大约一个小时的空中飞行以及着陆后的香槟祝酒。多穿几层衣服并穿不露趾的鞋子。要我给你预留位置吗？",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "飞行",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "保存一次航班可支付一年 Duet 的费用。"
+  },
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到预订请求，其次看到天气问题，而永远不会看到噪音。不再错过时事通讯警报中隐藏的航班查询。",
+  "draftSubtitle": "Duet 了解您的定价、天气政策和语气。当收到预订查询时，它会起草一份完整的回复，其中包含航班详细信息、会议信息和着装。您审阅并发送。",
+  "agentSubtitle": "“明天的名单上有谁？” “是否有因天气原因取消行程的情况？” Duet 了解您的收件箱和日历 - 只需询问即可。",
+  "categorizationEmails": [
+    {
+      "from": "雷切尔·T。",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "周六 2 人日出航班可以吗？",
+      "preview": "我和我丈夫很想预订日出气球之旅......",
+      "pill": "立即回复",
+      "pillColor": "red"
+    },
+    {
+      "from": "凯文·L。",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "回复：预订已确认 - 周日6:15 AM",
+      "pill": "已预订",
+      "pillColor": "blue"
+    },
+    {
+      "from": "艾米·S。",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "乘飞机我们应该穿什么？",
+      "pill": "问题",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "对您的列表的新评论",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "气球联合会",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "三月安全公告及更新提醒",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "回复: 周六 2 人日出航班可以吗？",
+    "originalFrom": "雷切尔·T.写道：",
+    "originalText": "嗨！我和我丈夫来这里庆祝我们的周年纪念日，很想预订本周六的日出热气球之旅。你有空间吗？每人费用是多少？",
+    "lines": [
+      "嗨，雷切尔！",
+      "周六对 2 人开放。日出航班的飞行时间为$250/person，包括大约一个小时的空中飞行以及着陆后的香槟祝酒。",
+      "我们在 6:15 AM 左右出发 — 我会根据风力状况在前一天晚上向您发送确切的集合时间和地点。多穿几层衣服并穿不露趾的鞋子。",
+      "周年快乐！要我给你预留位置吗？"
+    ],
+    "highlightText": "周六对 2 人开放。日出航班为 $250/person",
+    "tooltipFeatures": [
+      "了解您的定价和航班时刻表",
+      "你的声音中的草稿",
+      "自动包含会议详细信息",
+      "随着时间的推移学习"
+    ]
+  },
+  "agent": {
+    "userMessage": "谁在明天的名单上？天气怎么样？",
+    "agentResponse": "明天的日出航班有 6 名乘客，共 2 个预订：汤普森一家（4 人）和李夫妇（2 人）。目前的预报显示，发射时风速为 4 英里/小时，天空晴朗。还没有取消电子邮件。需要我发送集合点确认信息吗？",
+    "followUp": "是的，向双方发送确认函并注明6:15 AM会议时间",
+    "followUpResponse": "完成！我起草了与汤普森一家和李一家在发射场的6:15 AM会面地点确认书、着装和指示。准备审查并发送。"
+  },
+  "testimonialsTitle": "深受气球飞行员和操作员的喜爱",
+  "testimonials": [
+    {
+      "name": "迈克·L船长",
+      "title": "气球飞行员，MN",
+      "quote": "我是一个单人行动——我飞行、我机组人员、我回复电子邮件。除了 5 AM 我在膨胀，没有回复。 Duet 起草对每个“我们明天会飞吗？”的回复连夜发消息。我醒来，查看天气，然后点击发送。",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "香农和杰克 B.",
+      "title": "全年热气球之旅，UT",
+      "quote": "我们每天都会收到同样的 10 个问题。穿什么，在哪里见面，如果刮风怎么办。 Duet 已了解所有内容，现在可以起草完美的回复。我们每天晚上发送电子邮件的时间从一小时减少到五分钟。",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "卡洛斯·R。",
+      "title": "日出航班运营商，AZ",
+      "quote": "旺季意味着每周有 4-6 个航班，每位乘客在航班起飞前至少发送两次电子邮件。 Duet 处理飞行前的问题，这样我就可以专注于为人们提供一生中最美好的早晨。",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "丽莎·W.",
+      "title": "气球公司共同所有人，NM",
+      "quote": "天气取消常常毁掉我的一整天——8 位乘客都需要个人重新安排电子邮件。现在Duet起草了每一份，其中包括我们的重新预订政策。为我节省了早上取消预订的时间。",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "玛丽亚·D.",
+      "title": "气球乘坐操作，CO",
+      "quote": "求婚航班需要大量来回协调。Duet 学会了我们如何处理这些细节——时间安排、暗号、香槟布置。它起草的回复我几乎不用改。",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "在天空中度过你的早晨，\n不在您的收件箱中。",
+  "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
+  "verticalFaqs": [
+    {
+      "question": "Duet 如何处理天气取消电子邮件？",
+      "answer": "Duet 了解您的取消和重新预订政策。当您因天气原因取消航班时，它可以向每位受影响的乘客起草个性化的重新安排电子邮件，其中包含您的政策、可用日期和语气。您审阅并发送。过去需要一个小时的个人回复现在只需几分钟。"
+    },
+    {
+      "question": "Duet 可以处理“我们明天会飞吗？”每天晚上都会收到大量电子邮件？",
+      "answer": "是的——这是气球运营商告诉我们的最常见的电子邮件之一。 Duet 了解您的天气政策并起草令人放心的回复，解释您的决策过程、您何时做出最终决定以及预期结果。一旦你早上确认了去/不去，它就可以为清单上的每个人起草更新。"
+    }
+  ],
+  "pricingNote": "按 $250/person、每个航班 4 名乘客计算，挽回一笔预订就能支付超过一年的 Pro。"
+}

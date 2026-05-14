@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail para sa Hot Air Balloon Rides | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga balloon pilot na tumugon kaagad sa mga booking email — kahit na sa pagsikat ng araw na flight. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga patakaran sa lagay ng panahon, at boses.",
+  "heroBadge": "Pinagkakatiwalaan ng 200+ balloon pilot",
+  "heroHeadline": "Ang iyong email assistant habang nasa ere ka",
+  "heroSubline": "Natutunan ng Duet ang iyong mga iskedyul ng flight, pagpepresyo, at mga patakaran sa lagay ng panahon — pagkatapos ay mag-draft ng mga tugon sa email upang hindi ka mawalan ng booking habang naglulunsad ka sa pagsikat ng araw.",
+  "inboxEmails": [
+    {
+      "from": "Rachel at Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Sunrise flight para sa 2 — available ang Sabado?",
+      "preview": "Hi! Kami ng asawa ko ay bumibisita para sa aming anibersaryo at gustong mag-book ng sunrise balloon ride ngayong Sabado. May space ka ba? Ano ang halaga ng bawat tao?",
+      "pill": "Upang Tumugon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Lilipad ba tayo bukas? Mukhang magaspang ang forecast ng hangin",
+      "preview": "Naka-book kami para bukas ng umaga ngunit ang weather app ay nagpapakita ng 15 mph na bugsong. Lumilipad pa ba tayo o dapat magplanong mag-reschedule...",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Sina Jennifer at Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Pribadong flight para sa isang panukala — pagpepresyo?",
+      "preview": "Gusto kong sorpresahin ang aking kasintahan ng isang pribadong biyahe sa lobo at mag-propose habang nasa byahe. Magkano ang isang pribadong flight at maaari kang tumulong sa pag-coordinate...",
+      "pill": "Pagbu-book",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Ano ang dapat nating isuot? Saan tayo magkikita?",
+      "preview": "Naka-book na kami para sa Linggo ng umaga. Ano ang dapat nating isuot at saan nga ba ang tagpuan? Gayundin, gaano katagal ang buong karanasan...",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Hi Rachel! Bukas ang Sabado para sa 2. Ilulunsad ang mga flight ng Sunrise bandang 6:15 AM — kukumpirmahin namin ang eksaktong oras at lokasyon ng pagpupulong sa gabi bago ito batay sa hangin. Ito ay $250/tao at may kasamang halos isang oras sa himpapawid kasama ang isang champagne toast pagkatapos lumapag. Magsuot ng patong-patong at magsuot ng saradong paa na sapatos. Gusto mo bang ipareserba ko ang iyong mga puwesto?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "paglipad",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "Ang isang naka-save na flight ay nagbabayad para sa isang taon ng Duet."
+  },
+  "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong sa lagay ng panahon, at hindi kailanman ingay. Wala nang nawawalang flight inquiry na nakabaon sa ilalim ng mga alerto sa newsletter.",
+  "draftSubtitle": "Natutunan ng duet ang iyong pagpepresyo, mga patakaran sa panahon, at tono. Kapag tumama ang isang booking inquiry, nag-draft ito ng kumpletong tugon na may mga detalye ng flight, impormasyon ng meeting, at kung ano ang isusuot. I-review at ipadala mo.",
+  "agentSubtitle": "\"Sino ang nasa manifest bukas?\" \"Any weather cancellation to reschedule?\" Alam ng duet ang iyong inbox at kalendaryo — magtanong lang.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Sunrise flight para sa 2 — available ang Sabado?",
+      "preview": "Gusto naming mag-asawa na mag-book ng sunrise balloon ride...",
+      "pill": "Tumugon Ngayon",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Nakumpirma ang booking — Linggo 6:15 AM",
+      "pill": "Naka-book",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Ano ang dapat nating isuot para sa paglipad?",
+      "pill": "Tanong",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Bagong review para sa iyong listing",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Balloon Federation",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Bulletin sa kaligtasan ng Marso at paalala sa pag-renew",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Sunrise flight para sa 2 — available ang Sabado?",
+    "originalFrom": "Sumulat si Rachel T.:",
+    "originalText": "Hi! Kami ng asawa ko ay bumibisita para sa aming anibersaryo at gustong mag-book ng sunrise balloon ride ngayong Sabado. May space ka ba? Ano ang halaga ng bawat tao?",
+    "lines": [
+      "Hi Rachel!",
+      "Bukas ang Sabado para sa 2. Ang mga flight ng Sunrise ay $250/tao at may kasamang halos isang oras sa himpapawid at isang champagne toast pagkatapos lumapag.",
+      "Naglulunsad kami ng bandang 6:15 AM — Ipapadala ko ang iyong eksaktong oras at lokasyon ng pagpupulong sa gabi bago batay sa lagay ng hangin. Magsuot ng patong-patong at magsuot ng saradong paa na sapatos.",
+      "Maligayang anibersaryo! Gusto mo bang ipareserba ko ang iyong mga puwesto?"
+    ],
+    "highlightText": "Bukas ang Sabado para sa 2. Ang mga flight ng Sunrise ay $250/tao",
+    "tooltipFeatures": [
+      "Alam ang iyong pagpepresyo at iskedyul ng flight",
+      "Mga draft sa iyong boses",
+      "Awtomatikong kasama ang mga detalye ng pulong",
+      "Natututo sa paglipas ng panahon"
+    ]
+  },
+  "agent": {
+    "userMessage": "Sino ang nasa manifest bukas at ano ang hitsura ng panahon?",
+    "agentResponse": "Ang sunrise flight bukas ay may 6 na pasaherong na-book sa 2 reservation: ang Thompson party (4) at ang Lee couple (2). Ang kasalukuyang pagtataya ay nagpapakita ng mahinang hangin sa 4 mph at maaliwalas na kalangitan sa oras ng paglulunsad. Wala pang mga email sa pagkansela. Gusto ko bang ipadala ang mga kumpirmasyon sa meeting-point?",
+    "followUp": "Oo, magpadala ng mga kumpirmasyon sa magkabilang partido sa 6:15 AM oras ng pagpupulong",
+    "followUpResponse": "Tapos na! Nag-draft ako ng mga kumpirmasyon sa meeting-point sa Thompson at Lees nang 6:15 AM sa launch field, kung ano ang isusuot, at mga direksyon. Handa nang suriin at ipadala."
+  },
+  "testimonialsTitle": "Gusto ng mga balloon pilot at operator",
+  "testimonials": [
+    {
+      "name": "Kapitan Mike L.",
+      "title": "Balloon Pilot, MN",
+      "quote": "One-man operation ako — lumilipad ako, crew ako, sumasagot ako ng mga email. Maliban sa 5 AM ako ay nagpapalaki, hindi nagre-reply. Duet draft ng mga tugon sa bawat 'lilipad ba tayo bukas?' mensahe sa magdamag. Gumising ako, tingnan ang panahon, at pindutin ang ipadala.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sina Shannon at Jake B.",
+      "title": "Year-Round Balloon Tours, UT",
+      "quote": "Nakukuha namin ang parehong 10 tanong araw-araw. Ano ang isusuot, saan magkikita, paano kung mahangin. Natutunan ng duet ang lahat ng ito at ngayon ay gumagawa ng mga perpektong tugon. Nagpunta kami mula sa isang oras ng email gabi-gabi hanggang limang minuto.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Sunrise Flight Operator, AZ",
+      "quote": "Ang peak season ay nangangahulugang 4-6 na flight sa isang linggo at bawat pasahero ay nag-email ng hindi bababa sa dalawang beses bago ang flight. Pinangangasiwaan ng Duet ang mga tanong bago ang paglipad para makapag-focus ako sa pagbibigay sa mga tao ng pinakamagandang umaga ng kanilang buhay.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Co-Owner ng Balloon Company, NM",
+      "quote": "Ang mga pagkansela ng panahon ay nasira ang aking buong araw — 8 pasahero ang lahat ay nangangailangan ng personal na muling pag-iskedyul ng mga email. Ngayon, binabalangkas ng Duet ang bawat isa kasama ang aming patakaran sa rebooking. Makakatipid sa akin ng mga oras sa umaga ng pagkansela.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Maria D.",
+      "title": "Mga Pagpapatakbo ng Balloon Ride, CO",
+      "quote": "Ang mga panukalang flight ay nangangailangan ng napakaraming pabalik-balik na koordinasyon. Nalaman ng duet kung paano namin pinangangasiwaan ang mga ito — ang timing, ang mga codeword, ang setup ng champagne. Nag-draft ito ng mga tugon na halos hindi ko na kailangang hawakan.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Gumugol ng iyong umaga sa langit, \nwala sa inbox mo.",
+  "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
+  "verticalFaqs": [
+    {
+      "question": "Paano pinangangasiwaan ng Duet ang mga email sa pagkansela ng panahon?",
+      "answer": "Nalaman ng duet ang iyong mga patakaran sa pagkansela at pag-rebook. Kapag kinansela mo ang isang flight dahil sa lagay ng panahon, maaari itong mag-draft ng personalized na muling pag-iskedyul ng mga email sa bawat apektadong pasahero — kasama ang iyong patakaran, mga available na petsa, at ang iyong tono. I-review at ipadala mo. Ang dating tumatagal ng isang oras ng mga indibidwal na tugon ay tumatagal ng ilang minuto."
+    },
+    {
+      "question": "Kayanin kaya ni Duet ang 'lipad ba tayo bukas?' mga email na dumadaloy tuwing gabi?",
+      "answer": "Oo — isa ito sa mga pinakakaraniwang email na sinasabi sa amin ng mga balloon operator. Natutunan ng Duet ang iyong mga patakaran sa lagay ng panahon at mga draft na nagbibigay-katiyakan na mga tugon na nagpapaliwanag sa proseso ng iyong pagpapasya, kung kailan mo gagawin ang huling tawag, at kung ano ang aasahan. Kapag nakumpirma mo ang go/no-go sa umaga, maaari itong mag-draft ng mga update sa lahat ng nasa manifest."
+    }
+  ],
+  "pricingNote": "Sa $250/tao na may 4 na pasahero bawat flight, ang isang naka-save na booking ay magbabayad ng higit sa isang taon na Pro."
+}

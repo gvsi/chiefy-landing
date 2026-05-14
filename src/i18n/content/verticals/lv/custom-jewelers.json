@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail individuālo rotu meistariem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz individuālo rotu meistariem nekavējoties atbildēt uz konsultāciju pieprasījumiem, dizaina apstiprinājumiem un jautājumiem par termiņiem — pat strādājot pie darbagalda. AI sagatavotas atbildes ar jūsu procesu, cenām un saziņas stilu.",
+  "heroBadge": "Uzticas 300+ rotu dizaineru",
+  "heroHeadline": "Jūsu e-pasta asistents, kamēr strādājat pie darbagalda",
+  "heroSubline": "Duet apgūst jūsu dizaina procesu, materiālus, cenas un termiņus — pēc tam sagatavo e-pasta atbildes, lai lēnas atbildes dēļ jūs nekad nezaudētu individuālu klientu.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Konsultācija par individuālu saderināšanās gredzenu?",
+      "preview": "Sveiki! Mēs ar partneri interesējamies par individuālu saderināšanās gredzenu. Mums ir ģimenes mantojuma dimants, ko labprāt izmantotu. Vai jums šomēnes ir pieejams laiks konsultācijai?",
+      "pill": "Jāatbild",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D modelis — vai varam pielāgot ietvaru?",
+      "preview": "Kopējais dizains ļoti patīk! Bet vai varētu pamēģināt zemāku ietvara profilu? Pievienoju foto ar stilu, par kuru domāju. Vai pāreja uz platīnu mainītu termiņu...",
+      "pill": "Labojums",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Termiņa atjauninājums par laulību gredzeniem?",
+      "preview": "Sveiki! Vēlos uzzināt, kā sokas ar mūsu saskaņotajiem laulību gredzeniem. Kāzas ir 18. maijā, un gribu pārliecināties, ka viss vēl notiek pēc plāna. Vai varat atsūtīt īsu atjauninājumu...",
+      "pill": "Statuss",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Jauna atsauksme jūsu veikala profilā",
+      "preview": "Kāds pāris nesen novērtēja jūsu uzņēmumu The Knot. Skatiet, ko viņi teica, un atbildiet...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Sveika, Rachel! Es labprāt palīdzētu jums izveidot gredzenu ap jūsu ģimenes dimantu — tā ir viena no manām iecienītākajām lietām. Šomēnes man ir brīvi laiki otrdienu un ceturtdienu pēcpusdienās. Paņemiet līdzi akmeni un jebkurus iedvesmas attēlus. Konsultācija ilgst apmēram stundu un neuzliek nekādas saistības. Vai vēlaties, lai rezervēju jums laiku?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "individuāls izstrādājums",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Viens saglabāts klients apmaksā vairāk nekā četrus Duet gadus."
+  },
+  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu jaunus konsultāciju pieprasījumus, pēc tam dizaina apstiprinājumus, bet piegādātāju jaunumus — nekad. Vairs nekādu nokavētu $5,000 pieprasījumu, kas aprakti zem piegādātāju akcijām.",
+  "draftSubtitle": "Duet apgūst jūsu procesu, materiālus, cenas un saziņas stilu. Kad pienāk konsultācijas pieprasījums, tas sagatavo pilnu atbildi ar jūsu pieejamību, informāciju par to, ko paņemt līdzi, un kā darbojas jūsu process. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kurā posmā esam ar Amanda gredzenu?\" \"Sagatavo termiņa atjauninājumu James.\" Duet pārzina katru klienta sarakstes pavedienu — vienkārši pajautājiet.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Konsultācija par individuālu saderināšanās gredzenu?",
+      "preview": "Mēs ar partneri interesējamies par individuālu gredzenu...",
+      "pill": "Jauns pieprasījums",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: 3D modelis v2 — izskatās perfekti!",
+      "pill": "Dizaina apstiprinājums",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Gredzeni ir gatavi — kad varam saņemt?",
+      "pill": "Gatavs saņemšanai",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Pēc konsultācijas — skices ļoti patīk",
+      "pill": "Konsultācija",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Supply",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Pavasara izpārdošana — 15% atlaide platīna detaļām",
+      "pill": "Pārdevējs/piegādātājs",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Konsultācija par individuālu saderināšanās gredzenu?",
+    "originalFrom": "Rachel T. rakstīja:",
+    "originalText": "Sveiki! Mēs ar partneri interesējamies par individuālu saderināšanās gredzenu. Mums ir ģimenes mantojuma dimants, ko labprāt izmantotu. Vai jums šomēnes ir pieejams laiks konsultācijai?",
+    "lines": [
+      "Sveika, Rachel!",
+      "Es labprāt palīdzētu jums izveidot kaut ko īpašu ap jūsu ģimenes dimantu. Šomēnes man ir brīvi laiki otrdienu un ceturtdienu pēcpusdienās.",
+      "Paņemiet līdzi akmeni un jebkurus iedvesmas attēlus — Pinterest dēļus, ekrānuzņēmumus, noderēs jebkas. Konsultācija ilgst apmēram stundu un neuzliek nekādas saistības.",
+      "Tālāk process parasti ir šāds: skice, 3D modelis, labojumi, pēc tam 3-4 nedēļas izgatavošanā. Vai vēlaties, lai rezervēju jums laiku?"
+    ],
+    "highlightText": "skice, 3D modelis, labojumi, pēc tam 3-4 nedēļas izgatavošanā",
+    "tooltipFeatures": [
+      "Pārzina jūsu procesu un termiņus",
+      "Raksta melnrakstus jūsu stilā",
+      "Automātiski iekļauj konsultācijas detaļas",
+      "Laika gaitā mācās"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kurā posmā esam ar Amanda saderināšanās gredzenu?",
+    "agentResponse": "Amanda apstiprināja 3D modeli (v2) 14. februārī. Jūs apstiprinājāt ražošanas sākumu 16. februārī ar 3 nedēļu aplēsi. Tas nozīmē pabeigšanu ap 9. martu. Viņas pēdējais e-pasts bija par gravēšanas iespējām — tas vēl nav atbildēts. Vai sagatavot atbildi?",
+    "followUp": "Sagatavo James termiņa atjauninājumu par laulību gredzeniem",
+    "followUpResponse": "Gatavs! Es sagatavoju atbildi James, apstiprinot, ka viņa saskaņotie laulību gredzeni ir pēdējā pulēšanas posmā un būs gatavi saņemšanai līdz piektdienai, 7. martam — krietni pirms viņa kāzām 18. maijā. Gatavs pārskatīšanai un nosūtīšanai."
+  },
+  "testimonialsTitle": "Rotu dizaineru iecienīts",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Individuālo rotu dizainers, LA",
+      "quote": "Katrs individuālais izstrādājums nedēļu gaitā rada 10-15 e-pastus. Pareiziniet to ar 8 aktīviem klientiem, un es slīku sarakstē. Duet sagatavo atbildes par dizaina atjauninājumiem, konsultāciju apstiprinājumiem, termiņiem — visu manā stilā. Pārskatu starp liešanām un nospiežu sūtīt.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Zeltkale un studijas īpašniece, Brooklyn",
+      "quote": "Es zaudēju $7,000 saderināšanās gredzena pasūtījumu, jo atbildēju pēc 3 dienām — pāris aizgāja pie kāda, kurš atbildēja 2 stundu laikā. Kopš Duet mana atbildes laika ir zem 30 minūtēm. Tas vairs nav atkārtojies.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Juvelieris pie darbagalda, Chicago",
+      "quote": "Es 8 stundas dienā esmu pie darbagalda ar degli rokā. Es nevaru apstāties lodēšanas vidū, lai rakstītu konsultācijas atbildi. Duet sagatavo visu, kamēr strādāju — paskatos telefonā, apstiprinu, gatavs.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Kāzu rotu dizainere, Austin",
+      "quote": "Saderināšanās sezonā saņemu 20+ konsultāciju pieprasījumus nedēļā. Duet apguva visu manu procesu — materiālus, termiņus, cenu līmeņus, ko paņemt līdzi. Tas sagatavo atbildes, kuras man gandrīz nav jārediģē. Pilnīgs glābiņš no novembra līdz februārim.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Individuālo gredzenu speciāliste, Portland",
+      "quote": "3D labojumu e-pasti agrāk aizņēma manus vakarus. Klients atsūta atsauksmes, es sagatavoju atjauninājumu, piecas reizes turp un atpakaļ. Tagad Duet apstrādā ikdienas atbildes, un es iesaistos tikai dizaina lēmumos. Es atguvu savus vakarus.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Pavadiet dienas, radot rotas,\nnevis atbildot uz e-pastiem par tām.",
+  "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet savu iesūtni 30 sekundēs.",
+  "verticalFaqs": [
+    {
+      "question": "Vai Duet var apstrādāt e-pastus ar atsauces fotoattēliem un dizaina pielikumiem?",
+      "answer": "Jā. Duet redz pilnu e-pasta pavedienu, tostarp pielikumus, tāpēc saprot kontekstu, kad klients nosūta iedvesmas fotoattēlus vai dizaina atsauksmes. Tas neaprakstīs attēlus atpakaļ, bet zinās, ka klients tikko nosūtīja atsauces fotoattēlus, un sagatavos atbilstošu atbildi — apstiprinās saņemšanu, uzdos precizējošus jautājumus par dizainu vai sniegs nākamos soļus atbilstoši jūsu ierastajai darba plūsmai."
+    },
+    {
+      "question": "Maniem individuālajiem projektiem ir gari e-pasta pavedieni ar 10+ ziņojumiem. Vai Duet var tiem sekot?",
+      "answer": "Tieši tur Duet izceļas. Tas nolasa visu sarakstes pavediena vēsturi — konsultāciju piezīmes, dizaina labojumus, materiālu izvēles, termiņu atjauninājumus — lai katrai sagatavotajai atbildei būtu pilns konteksts. Kad klients 14. e-pastā jautā “kāds ir mana gredzena statuss?”, Duet zina, par kuru gredzenu ir runa, kurā posmā tas ir, un sagatavo precīzu atjauninājumu. Jums vairs pašam nav jāpārlasa 3 mēnešu e-pasti."
+    }
+  ],
+  "pricingNote": "Pie 5 000 $ par izstrādājumu viens saglabāts pasūtījums apmaksā vairāk nekā četrus gadus Pro."
+}

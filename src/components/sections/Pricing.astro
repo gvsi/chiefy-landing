@@ -10,10 +10,25 @@ import { AUTH_CHOOSER_URL, SUPPORT_MAILTO } from "../../utils/constants";
  */
 
 type Props = {
+    pricing: {
+        ariaLabel: string;
+        eyebrow: string;
+        heading: string;
+        subheading: string;
+        billingLegend: string;
+        billingAnnual: string;
+        billingMonthly: string;
+        savingsTag: string;
+        priceCadence: string;
+        perUserSuffix: string;
+        annualBillingSuffix: string;
+        trustItems: string[];
+        plans: PlanContent[];
+    };
     pricingNote?: string;
 };
 
-const { pricingNote } = Astro.props;
+const { pricing, pricingNote } = Astro.props;
 
 type Billing = "annual" | "monthly";
 
@@ -37,74 +52,25 @@ type Feature = {
     highlight?: boolean;
 };
 
-const plans: Plan[] = [
-    {
-        name: "Basic",
-        description: "For anyone curious about what a smarter inbox feels like. No commitment required.",
-        priceLabel: "Free",
-        features: [
-            { title: "Instant Summaries", description: "Get the gist of any thread" },
-            { title: "AI Drafts", description: "A taste of replies in your voice" },
-            { title: "Smart Inbox", description: "Basic organization to start" },
-            { title: "Duet Assistant", description: "Try the AI assistant" },
-        ],
-        ctaLabel: "Choose Gmail or Outlook",
-        ctaHref: AUTH_CHOOSER_URL,
-    },
-    {
-        name: "Pro",
-        badge: "14-day free trial",
-        description: "For professionals who want deeper automation, integrations, and an inbox that truly knows how you work.",
-        priceByBilling: {
-            annual: "19.99",
-            monthly: "29.99",
-        },
-        features: [
-            { title: "Smart Inbox", description: "Emails auto-sorted into smart categories", highlight: true },
-            { title: "AI Drafts", description: "Replies written in your voice, ready to send", highlight: true },
-            { title: "Duet Assistant", description: "Chat to find, draft, organize & more", highlight: true },
-            { title: "Calendar Integration", description: "Schedule, view & manage events from your inbox" },
-            { title: "Instant Summaries", description: "Get the gist of any thread or attachment" },
-            { title: "Smart Reminders", description: "Follow-ups surface automatically so nothing slips" },
-            { title: "Priority Support", description: "Real humans, fast responses" },
-        ],
-        ctaLabel: "Choose Gmail or Outlook",
-        ctaHref: AUTH_CHOOSER_URL,
-        featured: true,
-    },
-    {
-        name: "Enterprise",
-        description: "For organizations that need enterprise-grade scale, dedicated support, and custom workflows. Best for teams of 50+.",
-        priceByBilling: {
-            annual: "49.99",
-            monthly: "69.99",
-        },
-        perUser: true,
-        features: [
-            { title: "Everything in Pro", description: "All features included" },
-            { title: "Dedicated Support", description: "Personal account manager" },
-            { title: "Team Analytics", description: "Insights across your organization" },
-            { title: "Shared Workflows", description: "Templates & automations for teams" },
-        ],
-        ctaLabel: "Contact sales",
-        ctaHref: `${SUPPORT_MAILTO}?subject=Duet%20Mail%20Enterprise`,
-        ctaNote: "Custom pricing available",
-    },
-];
+type PlanContent = Omit<Plan, "ctaHref">;
+
+const plans: PlanContent[] = pricing.plans;
+const ctaHrefForPlan = (plan: PlanContent) =>
+    plan.perUser ? `${SUPPORT_MAILTO}?subject=Duet%20Mail%20Enterprise` : AUTH_CHOOSER_URL;
 ---
 
-<section id="pricing" class="pricing" aria-label="Pricing">
+<section id="pricing" class="pricing" aria-label={pricing.ariaLabel}>
     <div class="pricing__container">
         <header class="pricing__header">
-            <span class="pricing__pill">Pricing</span>
-            <h2 class="pricing__title">Simple pricing, powerful inbox</h2>
+            <span class="pricing__pill">{pricing.eyebrow}</span>
+            <h2 class="pricing__title">{pricing.heading}</h2>
             <p class="pricing__subtitle">
-                Start free, upgrade anytime. Cancel whenever.
+                {pricing.subheading}
             </p>
         </header>
 
         <fieldset class="pricing__fieldset">
-            <legend class="sr-only">Billing cadence</legend>
+            <legend class="sr-only">{pricing.billingLegend}</legend>
             
             <input
                 id="billing-annual"
@@ -124,11 +90,11 @@ const plans: Plan[] = [
 
             <div class="pricing__toggle">
                 <label class="pricing__toggle-label" for="billing-annual">
-                    Annual
-                    <span class="pricing__savings-tag">Save 33%</span>
+                    {pricing.billingAnnual}
+                    <span class="pricing__savings-tag">{pricing.savingsTag}</span>
                 </label>
                 <label class="pricing__toggle-label" for="billing-monthly">
-                    Monthly
+                    {pricing.billingMonthly}
                 </label>
                 <span class="pricing__toggle-slider"></span>
             </div>
@@ -174,9 +140,9 @@ const plans: Plan[] = [
                                                 <span class="price" data-billing="annual">${plan.priceByBilling?.annual}</span>
                                                 <span class="price" data-billing="monthly">${plan.priceByBilling?.monthly}</span>
                                             </span>
-                                            <span class="pricing__price-cadence">/month{plan.perUser ? '/user' : ''}</span>
+                                            <span class="pricing__price-cadence">{pricing.priceCadence}{plan.perUser ? pricing.perUserSuffix : ''}</span>
                                             {(plan.featured || plan.perUser) && (
-                                                <span class="pricing__price-suffix" data-billing="annual">(billed yearly)</span>
+                                                <span class="pricing__price-suffix" data-billing="annual">{pricing.annualBillingSuffix}</span>
                                             )}
                                         </>
                                     )}
@@ -210,7 +176,7 @@ const plans: Plan[] = [
                                         "pricing__cta",
                                         plan.featured && "pricing__cta--featured"
                                     ]}
-                                    href={plan.ctaHref}
+                                    href={ctaHrefForPlan(plan)}
                                 >
                                     {plan.ctaLabel}
                                 </a>
@@ -219,20 +185,24 @@ const plans: Plan[] = [
                                 )}
                                 {plan.featured && (
                                     <div class="pricing__trust-inline">
-                                        <span class="pricing__trust-item">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                                                <rect width="18" height="11" x="3" y="11" rx="2" ry="2"/>
-                                                <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-                                            </svg>
-                                            Secure checkout via Stripe
-                                        </span>
-                                        <span class="pricing__trust-dot">·</span>
-                                        <span class="pricing__trust-item">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                                                <path d="M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/>
-                                            </svg>
-                                            Cancel anytime
-                                        </span>
+                                        {pricing.trustItems.map((trustItem, trustIndex) => (
+                                            <>
+                                                {trustIndex > 0 && <span class="pricing__trust-dot">·</span>}
+                                                <span class="pricing__trust-item">
+                                                    {trustIndex === 0 ? (
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                                                            <rect width="18" height="11" x="3" y="11" rx="2" ry="2"/>
+                                                            <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+                                                        </svg>
+                                                    ) : (
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                                                            <path d="M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/>
+                                                        </svg>
+                                                    )}
+                                                    {trustItem}
+                                                </span>
+                                            </>
+                                        ))}
                                     </div>
                                 )}
                             </footer>

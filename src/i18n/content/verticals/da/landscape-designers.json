@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail for landskabsdesignere | AI-e-mail-assistent",
+  "metaDescription": "Duet Mail hjælper landskabsdesignere med at reagere på klient-e-mails med det samme - selv fra marken. AI-udkastede svar med dine projektdetaljer, priser og stemme.",
+  "heroBadge": "Betroet af 300+ landskabsdesignere",
+  "heroHeadline": "Din e-mail-assistent, mens du er i marken",
+  "heroSubline": "Duet lærer dine projektdetaljer, plantepaletter, prissætning og proces – derefter udarbejder e-mail-svar, så du aldrig mister en klient på grund af et langsomt svar.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redesign af baggård - gratis for en konsultation?",
+      "preview": "Hej! Vi har lige købt et hjem i Westlake, og baghaven er en blank tavle. Vi ville elske et komplet redesign med indfødte beplantninger og en gårdhave. Tager du nye kunder?",
+      "pill": "At reagere",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Vandingsspecifikationer for Miller-projektet?",
+      "preview": "Hej, vi er klar til at begynde at grave på mandag. Kan du sende vandingslayoutet og hovedspecifikationerne, så vi kan bestille materialer i denne uge?",
+      "pill": "Entreprenør",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer og Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Hurtigt spørgsmål om plantevalgene",
+      "preview": "Vi elsker designet! Bare spekulerer på - kan vi bytte den japanske ahorn til noget med mere efterårsfarve? Er lavendelhjorten også modstandsdygtig?",
+      "pill": "klient",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View børnehave",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Ordre #4821 klar til afhentning",
+      "preview": "Din ordre på 24 gallon buske, 6 prøvetræer og bunddækkede lejligheder er klar. Kan afhentes man-lør kl. 07.00-16.00...",
+      "pill": "Leverandør",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hej Rachel! Jeg vil meget gerne hjælpe med din baghave. Jeg booker i øjeblikket indledende konsultationer 2-3 uger ude. Det første besøg er en 90-minutters vurdering på stedet - jeg går rundt i ejendommen, tager mål og diskuterer din vision. Derfra lavede jeg en konceptplan. Skal jeg have dig med i kalenderen?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Et gemt projekt betaler for mange år på Duet."
+  },
+  "categorizationSubtitle": "Duet tagger automatisk hver e-mail, så du ser nye høringsanmodninger først, klientgodkendelser dernæst og leverandørstøj aldrig. Man mangler ikke længere en ledning begravet under børnehaveordrebekræftelser.",
+  "draftSubtitle": "Duet lærer din prissætning, proces og tone. Når en konsultationsanmodning rammer, udarbejder den et komplet svar med din tilgængelighed, hvad du kan forvente og næste skridt. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvad er tidslinjen på Henderson-projektet?\" \"Hvilke kunder venter på planens godkendelse?\"Duet kender din indbakke og dine projekter - bare spørg.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redesign af baggård - gratis for en konsultation?",
+      "preview": "Vi har lige købt et hjem, og baghaven er en blank tavle...",
+      "pill": "Ny henvendelse",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Endeligt design — vi er klar til at godkende!",
+      "pill": "Kundegodkendelse",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Vandingsspecifikationer for Miller-projektet?",
+      "pill": "Entreprenør",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View børnehave",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Ordre #4821 klar til afhentning",
+      "pill": "Leverandør",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Faktura #1047 set af klient",
+      "pill": "Faktura",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Redesign af baggård — gratis for en konsultation?",
+    "originalFrom": "Rachel T. skrev:",
+    "originalText": "Hej! Vi har lige købt et hjem i Westlake, og baghaven er en blank tavle. Vi ville elske et komplet redesign med indfødte beplantninger og en gårdhave. Tager du nye kunder?",
+    "lines": [
+      "Hej Rachel!",
+      "Tillykke med det nye hjem - en baggård med blank tavl er ærlig talt drømmeprojektet. Jeg tager absolut nye kunder.",
+      "Min proces starter med en 90-minutters konsultation på stedet, hvor jeg går rundt i ejendommen, tager mål og snakker dine mål igennem. Derfra udvikler jeg en konceptplan med plantedesign, hardscape layout og et trinvis budget.",
+      "Jeg har ledige de næste 2-3 uger. Skal jeg sende nogle ledige datoer over?"
+    ],
+    "highlightText": "Min proces starter med en 90-minutters konsultation på stedet",
+    "tooltipFeatures": [
+      "Kender din designproces og prissætning",
+      "Kladder i din stemme",
+      "Indeholder automatisk konsultationsdetaljer",
+      "Lærer over tid"
+    ]
+  },
+  "agent": {
+    "userMessage": "Hvilke kunder venter stadig på plangodkendelse?",
+    "agentResponse": "Baseret på dine seneste e-mails afventer to klienter godkendelse: Jennifer & Mark L. (baggårdsredesign - sendt endelige planer for 4 dage siden, intet svar endnu) og Cohens (forhaveindfødt konvertering - sendte revideret plan i sidste uge). Vil du have, at jeg udarbejder en blid opfølgning på enten?",
+    "followUp": "Lav et udkast til en opfølgning til Jennifer om planens godkendelse",
+    "followUpResponse": "Færdig! Jeg lavede en venlig check-in til Jennifer og spurgte, om hun og Mark havde en chance for at gennemgå de endelige planer, og minde hende om, at du kan hoppe på et hurtigt opkald for at gå gennem plantevalgene. Klar til at gennemgå og sende."
+  },
+  "testimonialsTitle": "Elsket af landskabsdesignere",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Landskabsarkitekt, Austin TX",
+      "quote": "I løbet af foråret er jeg på stedet 8 timer om dagen og laver vurderinger og installerer supervision. Nye høringsanmodninger vil ligge i dagevis. Nu svarer Duet med min proces og tilgængelighed inden for få minutter. Jeg har reserveret 3 projekter, jeg helt sikkert ville have mistet.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Havedesigner, Portland OR",
+      "quote": "Koordinering mellem hardscape-besætninger, kunstvandingsinstallatører og klienter genererer en absurd mængde e-mail. Duet sorterer det hele og udarbejder svar, der indeholder de rigtige projektdetaljer. Det er som at have en studieleder.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Landscape Design Studio Ejer, Denver CO",
+      "quote": "Jeg plejede at bruge hver aften efter feltarbejde på at indhente e-mails. Samme spørgsmål - prissætning, proces, tidslinje. Duet håndterer det hele. Min svartid gik fra dage til minutter, og min lukkerate er langt op.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Boliglandskabsdesigner, Scottsdale AZ",
+      "quote": "Mine kunder stiller mange spørgsmål om anlægsvalg og vedligeholdelse. Duet lærte mine plantepaletter og plejeinstruktioner og udkast til svar, jeg næsten ikke behøver at redigere. Kunder synes, jeg er utrolig lydhør.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Native Plant Landscape Designer, Raleigh NC",
+      "quote": "Jeg mistede nye kunder, fordi jeg ikke kunne svare, mens jeg var i knæ i en planteinstallation. Duet udarbejder høringssvar med min nøjagtige proces, priser og hvad man kan forvente. Det betalte sig selv den første uge.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Brug dine dage på at skabe landskaber,\nikke indhente e-mail.",
+  "ctaSubline": "Start din gratis prøveperiode. Tilslut din indbakke på 30 sekunder.",
+  "verticalFaqs": [
+    {
+      "question": "Kan Duet klare forårssuset, når høringsønsker hober sig op?",
+      "answer": "Det er præcis, når Duet skinner. I din travleste sæson får hver ny forespørgsel et hurtigt, detaljeret svar med din proces, tidslinje og tilgængelighed - selv mens du er på stedet hele dagen. Ikke flere tab af forårsledninger, fordi du ikke kunne komme tilbage til dem før kl. 21.00."
+    },
+    {
+      "question": "Jeg koordinerer med flere udendørs besætninger. Hjælper Duet med det?",
+      "answer": "Ja. Duet lærer dine projekter og de involverede entreprenører at kende - hardscape, kunstvanding, plantebesætninger, planteskoler. Det kategoriserer entreprenør-e-mails separat fra klient-e-mails og kan udarbejde svar med projektspecifikke detaljer som specifikationer, tidslinjer og materialer. Du forbliver på toppen af ​​hvert mandskab uden indbakkekaos."
+    }
+  ],
+  "pricingNote": "Til $8.000/projekt betaler én sparet klient for mange år på Pro."
+}

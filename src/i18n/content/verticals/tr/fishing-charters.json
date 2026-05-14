@@ -1,0 +1,171 @@
+{
+  "slug": "fishing-charters",
+  "pageTitle": "Duet Mail Balıkçılık Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, balıkçılık turu kaptanlarının rezervasyon e-postalarına anında, hatta sudayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, politikalarınız ve ses tonunuzla birlikte gelir.",
+  "heroBadge": "500'den fazla tekne kaptanı tarafından güvenilen",
+  "heroHeadline": "Denizde olduğunuz süre boyunca e-posta asistanınız.",
+  "heroSubline": "Duet fiyatlandırmanızı, politikalarınızı ve ses tonunuzu öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
+  "inboxEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "12 Temmuz için 4 kişilik yer mevcut mu?",
+      "preview": "Merhaba! 12 Temmuz'da balık tutma gezisi rezervasyonu yaptırmak isteyen 4 kişilik bir grubuz. Müsaitliğiniz var mı? Tam gün için fiyat nedir?",
+      "pill": "Yanıtlamak için",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Yanımızda ne getirmeliyiz?",
+      "preview": "Merhaba, Cumartesi için rezervasyon yaptırdık. Kısa bir sorum var: Ne getirmeliyiz? Olta ve ekipman sağlıyor musunuz yoksa kendi ekipmanlarımızı mı getirmeliyiz?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mike ve Lisa R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Pazar gününe ertelememiz gerekiyor.",
+      "preview": "Geç haber verdiğim için özür dilerim ama cumartesi günü hava tahminleri kötü görünüyor. Pazar gününe alabilir miyiz? Saat aynı olsun...",
+      "pill": "Rezervasyon",
+      "pillColor": "blue"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "İlanınız için yeni yorum",
+      "preview": "Geçtiğimiz günlerde bir gezgin işletmeniz hakkında yorum yaptı. Yorumlarını okuyun ve yanıt verin...",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Merhaba Sarah! 12 Temmuz'da 4 kişilik yerimiz var. Tam gün süren turlar 8 saat sürüyor ve sabah 6'da başlıyor. Tüm olta takımları, yemler ve lisanslar dahil; sadece güneş kremi, su ve yakaladığınız balıklar için bir soğutucu getirmeniz yeterli. Rezervasyonu kesinleştirmemi ister misin?",
+  "math": {
+    "pricePerBooking": "$500",
+    "bookingUnit": "tüzük",
+    "lostPerMonth": "4",
+    "monthlyLoss": "$2,000",
+    "punchline": "Kaydedilen tek bir rezervasyon, Duet'ın bir yıllık ücretini karşılar."
+  },
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra soruları ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan bir seyahat sorgusunu kaçırma derdine son.",
+  "draftSubtitle": "Duet fiyatlandırmanızı, politikalarınızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, seyahat detayları, fiyatlandırma ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Gelecek hafta hangi günler müsait?\" \"Sarah'ya müsaitlik durumunuzu belirten bir yanıt taslağı yazın.\" Duet gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
+  "categorizationEmails": [
+    {
+      "from": "Sarah M.",
+      "avatarLetter": "S",
+      "avatarColor": "pink",
+      "subject": "12 Temmuz için 4 kişilik yer mevcut mu?",
+      "preview": "Dört kişilik bir grup olarak balık avı gezisi rezervasyonu yaptırmak istiyoruz...",
+      "pill": "Şimdi Yanıt Verin",
+      "pillColor": "red"
+    },
+    {
+      "from": "David K.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Konu: Rezervasyon onaylandı — Cumartesi sabah 7",
+      "pill": "Rezervasyon yapıldı",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mike R.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Cumartesi günü yanımızda ne getirmeliyiz?",
+      "pill": "Soru",
+      "pillColor": "amber"
+    },
+    {
+      "from": "FishingBooker",
+      "avatarLetter": "F",
+      "avatarColor": "lavender",
+      "subject": "Haftalık rezervasyon özetiniz",
+      "pill": "Bilginize",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Batı Denizciliği",
+      "avatarLetter": "W",
+      "avatarColor": "lavender",
+      "subject": "Bahar indirimi — Balıkçılık malzemelerinde %20 indirim",
+      "pill": "Promosyonlar",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "sarah.m@email.com",
+    "subject": "Konu: 12 Temmuz için 4 kişilik yer müsaitliği?",
+    "originalFrom": "Sarah M. şöyle yazdı:",
+    "originalText": "Merhaba! 12 Temmuz'da balık tutma gezisi rezervasyonu yaptırmak isteyen 4 kişilik bir grubuz. Müsaitliğiniz var mı? Tam gün için fiyat nedir?",
+    "lines": [
+      "Merhaba Sarah!",
+      "12 Temmuz için 4 kişilik kontenjan tamamen açık. Tam gün süren turlar $500 olup, marinadan sabah 6'da başlayarak 8 saat sürmektedir.",
+      "Tüm ekipman, yem ve balıkçılık lisansları dahildir; sadece güneş kremi ve soğutucu getirmeniz yeterli.",
+      "Kilitlememi ister misin?"
+    ],
+    "highlightText": "12 Temmuz için 4 kişilik kontenjan tamamen açık. Tam günlük geziler $500",
+    "tooltipFeatures": [
+      "Fiyatlandırmanızı ve müsaitlik durumunuzu biliyor.",
+      "Sesinizdeki taslaklar",
+      "Seyahat detaylarını otomatik olarak içerir.",
+      "Zamanla öğrenir."
+    ]
+  },
+  "agent": {
+    "userMessage": "Gelecek hafta hangi günler hala açık?",
+    "agentResponse": "Takviminize göre, önümüzdeki hafta Salı, Perşembe ve Cumartesi günleri müsaitliğiniz var. Pazartesi ve Çarşamba günleri ise tamamen dolu (her gün 2 kiralama). Bu tarihlerle ilgili bekleyen sorulara yanıt taslağı hazırlamamı ister misiniz?",
+    "followUp": "Sarah'ya 12 Temmuz'daki müsaitlik durumunu içeren bir yanıt taslağı hazırlayın.",
+    "followUpResponse": "Tamam! Sarah'ya 12 Temmuz'da $500 adresinde 4 misafir için onay içeren bir yanıt taslağı hazırladım. Standart seyahat detaylarınızı ve buluşma yerinizi içeriyor. Gözden geçirmeye ve göndermeye hazır."
+  },
+  "testimonialsTitle": "Tekne kaptanları tarafından çok seviliyor.",
+  "testimonials": [
+    {
+      "name": "Kaptan Mike D.",
+      "title": "Açık Deniz Tekne Kiralama Kaptanı, FL",
+      "quote": "Yoğun sezonda, tekneden yeterince hızlı yanıt veremediğim için haftada 2-3 rezervasyon kaybediyordum. Duet fiyatlandırma ve gezi detaylarımla birlikte yanıt taslaklarını hazırlıyor; ben de balık avı arasında gönder tuşuna basıyorum.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah ve Tom K.",
+      "title": "Aile Şirketi, Oregon",
+      "quote": "İki teknemiz var ve yaz aylarında e-posta trafiği inanılmaz derecede yoğun oluyor. Duet rezervasyon taleplerini diğerlerinden ayırıyor ve tam olarak bizim tarzımıza uygun yanıtlar hazırlıyor. Gerçekten oyunun kurallarını değiştiriyor.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Jake R.",
+      "title": "Kıyı Balıkçılığı Rehberi, Teksas",
+      "quote": "Her gece aynı müsaitlik sorularını yanıtlamak için bir saat harcıyordum. Şimdi Duet hallediyor. Yanıt sürem saatlerden dakikalara indi ve o zamandan beri hiçbir rezervasyon kaybetmedim.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa M.",
+      "title": "Kiralama Ofisi Müdürü, HI",
+      "quote": "4 kaptanın e-postalarını yönetmek tam zamanlı bir işti. Duet her şeyi kategorize ediyor ve doğru tekne, doğru fiyat, doğru kaptan ile yanıt taslakları hazırlıyor. Sanki bir tane daha ben varmış gibi.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Andrea S.",
+      "title": "Derin Deniz Kiralama Şirketleri, NC",
+      "quote": "Bir AI'ın balıkçılık turu e-postalarını işleyebileceğinden şüphe duyuyordum. Ancak tur türlerimizi, nelerin dahil olduğunu, hatta iptal politikamızı bile öğrendi. Müşteriler hiçbir fark göremiyor.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Sezonun en yoğun dönemini e-posta kutunuzda değil, suda geçirin.",
+  "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
+  "verticalFaqs": [
+    {
+      "question": "Duet rezervasyon ve müsaitlik e-postaları için çalışıyor mu?",
+      "answer": "Kesinlikle. Duet seyahat türlerinizi, fiyatlandırmayı, müsaitliği ve politikalarınızı öğrenir. Bir rezervasyon talebi geldiğinde, doğru ayrıntılarla (fiyatlandırma, nelerin dahil olduğu, buluşma yeri, yanınızda getirmeniz gerekenler) eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönder düğmesine basarsınız."
+    },
+    {
+      "question": "Bütün gün sudayım. Telefonumdan Duet kullanabilir miyim?",
+      "answer": "Evet. Duet, Gmail ve Outlook ile birlikte çalışır, bu nedenle e-postanızın çalıştığı her yerde (telefonunuz dahil) çalışır. Taslaklar otomatik olarak görünür. Yakalamalar arasında, tek dokunuşla gözden geçirip gönderebilirsiniz. Çoğu kaptan, yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladıklarını söylüyor."
+    }
+  ],
+  "pricingNote": "$500/charter adresinde, kaydedilen tek bir rezervasyon Pro'in bir yıldan fazla süren ücretini karşılıyor."
+}

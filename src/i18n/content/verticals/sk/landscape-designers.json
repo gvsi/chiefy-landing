@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail pre krajinných architektov | AI asistent pre e-maily",
+  "metaDescription": "Duet Mail pomáha krajinným architektom okamžite odpovedať na e-maily klientov — aj priamo z terénu. Odpovede vygenerované AI s detailmi vášho projektu, cenami a vaším štýlom.",
+  "heroBadge": "Dôveruje mu viac ako 300 krajinných architektov",
+  "heroHeadline": "Váš e-mailový asistent, kým ste v teréne",
+  "heroSubline": "Duet sa naučí detaily vašich projektov, rastlinné palety, ceny a postup — a potom pripraví odpovede na e-maily, aby ste nikdy nestratili klienta kvôli pomalej reakcii.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redizajn záhrady — prvá konzultácia zadarmo?",
+      "preview": "Ahoj! Práve sme kúpili dom vo Westlake a zadný dvor je úplne prázdne plátno. Chceli by sme kompletný redizajn s pôvodnými rastlinami a terasou. Prijímate nových klientov?",
+      "pill": "Na odpoveď",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Špecifikácie závlahy pre projekt Miller?",
+      "preview": "Ahoj, v pondelok chceme začať s výkopmi. Môžeš poslať rozloženie závlahy a špecifikácie hlavíc, aby sme tento týždeň mohli objednať materiál?",
+      "pill": "Dodávateľ",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Rýchla otázka k výberu rastlín",
+      "preview": "Návrh sa nám páči! Len sa chceme spýtať — môžeme japonský javor vymeniť za niečo s výraznejšou jesennou farbou? A je levanduľa odolná voči jeleňom?",
+      "pill": "Klient",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Objednávka č. 4821 pripravená na vyzdvihnutie",
+      "preview": "Vaša objednávka 24-galónových kríkov, 6 vzorových stromov a plochých sadieb pôdopokryvných rastlín je pripravená. Vyzdvihnutie možné Po–So 7:00–16:00...",
+      "pill": "Dodávateľ",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Ahoj Rachel! Rád pomôžem s vaším dvorom. Momentálne prijímam úvodné konzultácie s odstupom 2–3 týždňov. Prvá návšteva je 90-minútové obhliadkové stretnutie na mieste — prejdeme pozemok, zoberiem rozmery a preberieme vašu predstavu. Potom pripravím koncept návrhu. Chcete, aby som vás pridal do kalendára?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projekt",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Jeden zachránený projekt zaplatí roky Duet."
+  },
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže nové žiadosti o konzultáciu uvidíte ako prvé, schválenia od klientov druhé a hluk od dodávateľov nikdy. Už žiadne prehliadnuté leady skryté pod potvrdeniami objednávok zo škôlky.",
+  "draftSubtitle": "Duet sa naučí vaše ceny, postup a tón. Keď príde žiadosť o konzultáciu, pripraví kompletnú odpoveď s vašou dostupnosťou, očakávaniami a ďalšími krokmi. Vy ju skontrolujete a odošlete.",
+  "agentSubtitle": "\"Aký je časový plán projektu Henderson?\" \"Ktorí klienti čakajú na schválenie návrhu?\" Duet pozná vašu schránku aj projekty — stačí sa spýtať.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Redizajn záhrady — prvá konzultácia zadarmo?",
+      "preview": "Práve sme kúpili dom a zadný dvor je úplne prázdne plátno...",
+      "pill": "Nový dopyt",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Finálny návrh — sme pripravení schváliť!",
+      "pill": "Schválenie klienta",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. — Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Špecifikácie závlahy pre projekt Miller?",
+      "pill": "Dodávateľ",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Objednávka č. 4821 pripravená na vyzdvihnutie",
+      "pill": "Dodávateľ",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Faktúru č. 1047 si klient prezrel",
+      "pill": "Faktúra",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Redizajn záhrady — prvá konzultácia zadarmo?",
+    "originalFrom": "Rachel T. napísala:",
+    "originalText": "Ahoj! Práve sme kúpili dom vo Westlake a zadný dvor je úplne prázdne plátno. Chceli by sme kompletný redizajn s pôvodnými rastlinami a terasou. Prijímate nových klientov?",
+    "lines": [
+      "Ahoj Rachel!",
+      "Gratulujem k novému domu — zadný dvor ako prázdne plátno je úprimne vysnívaný projekt. Nových klientov určite prijímam.",
+      "Môj postup začína 90-minútovou konzultáciou na mieste, počas ktorej prejdem pozemok, zoberiem rozmery a preberiem vaše ciele. Potom pripravím koncept návrhu s návrhom výsadby, rozložením hardscape prvkov a rozpočtom po etapách.",
+      "Mám voľné termíny v najbližších 2–3 týždňoch. Chcete, aby som vám poslal niekoľko dostupných dátumov?"
+    ],
+    "highlightText": "Môj postup začína 90-minútovou konzultáciou na mieste",
+    "tooltipFeatures": [
+      "Pozná váš postup dizajnu a ceny",
+      "Pripravuje návrhy vaším štýlom",
+      "Automaticky pridáva detaily konzultácie",
+      "Postupne sa učí"
+    ]
+  },
+  "agent": {
+    "userMessage": "Ktorí klienti ešte čakajú na schválenie návrhu?",
+    "agentResponse": "Podľa vašich posledných e-mailov čakajú na schválenie dvaja klienti: Jennifer & Mark L. (redizajn zadného dvora — finálne plány odoslané pred 4 dňami, zatiaľ bez odpovede) a Cohensovci (premena predzáhradky na pôvodné druhy — upravený návrh odoslaný minulý týždeň). Chcete, aby som pripravil jemné pripomenutie pre niektorého z nich?",
+    "followUp": "Priprav pripomenutie pre Jennifer ohľadom schválenia návrhu",
+    "followUpResponse": "Hotovo! Pripravil som Jennifer priateľné pripomenutie, v ktorom sa pýtate, či si s Markom mali čas prezrieť finálne plány, a pripomínate, že si môžu rýchlo zavolať a prejsť výber rastlín. Pripravené na kontrolu a odoslanie."
+  },
+  "testimonialsTitle": "Obľúbený medzi krajinnými architektmi",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Krajinný architekt, Austin TX",
+      "quote": "Na jar som 8 hodín denne v teréne pri posudzovaní a dohľade nad realizáciami. Nové požiadavky na konzultáciu by ležali celé dni. Teraz Duet odpovedá mojím postupom a dostupnosťou v priebehu minút. Získal som 3 projekty, ktoré by som určite stratil.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Záhradná dizajnérka, Portland OR",
+      "quote": "Koordinácia medzi hardscape tímami, inštalatérmi závlah a klientmi vytvára absurdné množstvo e-mailov. Duet ich všetky triedi a pripravuje odpovede so správnymi detailmi projektu. Je to ako mať manažéra štúdia.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Majiteľ štúdia záhradného dizajnu, Denver CO",
+      "quote": "Predtým som každý večer po práci v teréne dobiehal e-maily. Tie isté otázky — ceny, postup, časový plán. Duet vybaví všetko. Moja doba reakcie sa z dní skrátila na minúty a miera uzavretia obchodov je oveľa vyššia.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Rezidenčná krajinná dizajnérka, Scottsdale AZ",
+      "quote": "Moji klienti sa veľa pýtajú na výber rastlín a údržbu. Duet sa naučil moje rastlinné palety a pokyny na starostlivosť a pripravuje odpovede, ktoré takmer nemusím upravovať. Klienti si myslia, že reagujem neuveriteľne rýchlo.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Krajinná dizajnérka pre pôvodné rastliny, Raleigh NC",
+      "quote": "Strácala som nových klientov, pretože som nemohla odpovedať, keď som bola po kolená v inštalácii výsadby. Duet pripravuje odpovede na konzultácie s mojím presným postupom, cenami a očakávaniami. Už v prvom týždni sa mi zaplatil.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Trávte dni tvorbou krajiny,\nnie dobiehaním e-mailov.",
+  "ctaSubline": "Začnite bezplatnú skúšobnú verziu. Pripojte si schránku za 30 sekúnd.",
+  "verticalFaqs": [
+    {
+      "question": "Zvládne Duet jarný nápor, keď sa žiadosti o konzultácie nahromadia?",
+      "answer": "Presne vtedy Duet žiari. Počas vašej najrušnejšej sezóny dostane každý nový dopyt rýchlu, podrobnú odpoveď s vaším postupom, časovým harmonogramom a dostupnosťou — aj keď ste celý deň v teréne. Už žiadne stratené jarné leady len preto, že ste sa im nestihli ozvať do 21:00."
+    },
+    {
+      "question": "Koordinujem viacero vonkajších tímov. Pomáha s tým Duet?",
+      "answer": "Áno. Duet sa naučí vaše projekty aj zapojených dodávateľov — hardscape, závlahy, výsadbové tímy, škôlky. E-maily od dodávateľov triedi oddelene od e-mailov klientov a dokáže pripravovať odpovede s detailmi špecifickými pre projekt, ako sú špecifikácie, termíny a materiály. Budete mať prehľad o každom tíme bez chaosu v schránke."
+    }
+  ],
+  "pricingNote": "Pri cene $8,000/projekt jeden zachránený klient zaplatí roky Pro."
+}

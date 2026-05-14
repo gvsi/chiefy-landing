@@ -1,0 +1,171 @@
+{
+  "slug": "landscape-designers",
+  "pageTitle": "Duet Mail maisemasuunnittelijoille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa maisemasuunnittelijoita vastaamaan asiakkaiden sähköposteihin välittömästi – jopa kentältä. AI-muotoiltuja vastauksia, joissa on projektisi tiedot, hinnat ja ääni.",
+  "heroBadge": "Yli 300 maisemasuunnittelijan luottama",
+  "heroHeadline": "Sähköpostiavustajasi, kun olet kentällä",
+  "heroSubline": "Duet oppii projektisi yksityiskohdat, kasvipaletit, hinnoittelun ja prosessin – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä asiakasta hitaiden vastausten takia.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Takapihan uudelleensuunnittelu – ilmainen konsultaatio?",
+      "preview": "Hei! Ostimme juuri kodin Westlakesta ja takapiha on tyhjä pöytä. Haluaisimme täydellisen uudelleensuunnittelun alkuperäisillä istutuksilla ja patiolla. Otatko uusia asiakkaita?",
+      "pill": "Vastaus",
+      "pillColor": "red"
+    },
+    {
+      "from": "Dan W. – Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Miller-projektin kastelutiedot?",
+      "preview": "Hei, olemme valmiita aloittamaan kaivauksen maanantaina. Voitko lähettää kastelusuunnitelman ja pään tiedot, jotta voimme tilata materiaaleja tällä viikolla?",
+      "pill": "urakoitsija",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Nopea kysymys kasvivalinnoista",
+      "preview": "Rakastamme suunnittelua! Mietin vain - voimmeko vaihtaa japanilaisen vaahteran johonkin, jossa on enemmän syysväriä? Onko laventelipeura myös kestävä?",
+      "pill": "asiakas",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Tilaus #4821 valmiina noudettavaksi",
+      "preview": "Tilauksesi, joka sisältää 24 gallonan pensaita, 6 näytepuuta ja maapeiteasuntoa, on valmis. Nouto ma-la klo 7-16...",
+      "pill": "Toimittaja",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Hei Rachel! Autan mielelläni takapihasi kanssa. Varaan tällä hetkellä ensimmäiset konsultaatiot 2-3 viikon päästä. Ensimmäinen käynti on 90 minuutin mittainen arviointi paikan päällä – kävelen kiinteistön, mittaan ja keskustelen näkemyksestäsi. Sieltä tein konseptisuunnitelman. Haluatko, että laitan sinut kalenteriin?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "projekti",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Yksi tallennettu projekti maksaa Duet in vuosien."
+  },
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uudet konsultaatiopyynnöt, toiseksi asiakkaiden hyväksynnät ja toimittajan melu ei koskaan. Ei enää puuttuu lyijyä, joka on haudattu lastenhuoneen tilausvahvistusten alle.",
+  "draftSubtitle": "Duet oppii hinnoittelusi, prosessisi ja sävysi. Kun konsultointipyyntö saapuu, se laatii täydellisen vastauksen, jossa kerrotaan saatavuus, mitä odottaa ja seuraavat vaiheet. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Mikä on Henderson-projektin aikajana?\" \"Mitkä asiakkaat odottavat suunnitelman hyväksyntää?\" Duet tuntee postilaatikkosi ja projektisi – kysy vain.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Takapihan uudelleensuunnittelu – ilmainen konsultaatio?",
+      "preview": "Ostimme juuri kodin ja takapiha on tyhjä pöytä...",
+      "pill": "Uusi kysely",
+      "pillColor": "red"
+    },
+    {
+      "from": "Jennifer L.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Re: Lopullinen suunnittelu – olemme valmiita hyväksymään!",
+      "pill": "Asiakkaan hyväksyntä",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Dan W. – Hardscape Co.",
+      "avatarLetter": "D",
+      "avatarColor": "blue",
+      "subject": "Miller-projektin kastelutiedot?",
+      "pill": "urakoitsija",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Valley View Nursery",
+      "avatarLetter": "V",
+      "avatarColor": "lavender",
+      "subject": "Tilaus #4821 valmiina noudettavaksi",
+      "pill": "Toimittaja",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "QuickBooks",
+      "avatarLetter": "Q",
+      "avatarColor": "lavender",
+      "subject": "Lasku #1047 asiakkaan katsoma",
+      "pill": "lasku",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Takapihan uudelleensuunnittelu – ilmainen konsultaatio?",
+    "originalFrom": "Rachel T. kirjoitti:",
+    "originalText": "Hei! Ostimme juuri kodin Westlakesta ja takapiha on tyhjä pöytä. Haluaisimme täydellisen uudelleensuunnittelun alkuperäisillä istutuksilla ja patiolla. Otatko uusia asiakkaita?",
+    "lines": [
+      "Hei Rachel!",
+      "Onnittelut uudesta kodista – tyhjä pöytäpiha on unelmaprojekti. Otan ehdottomasti uusia asiakkaita.",
+      "Prosessini alkaa 90 minuutin mittaisella konsultaatiolla paikan päällä, jossa kävelen kiinteistössä, mittaan ja keskustelen tavoitteistasi. Sieltä kehitän konseptisuunnitelman, jossa on istutussuunnittelu, hardscape layout ja vaiheittainen budjetti.",
+      "Minulla on avoimia 2-3 viikon sisällä. Haluatko, että lähetän joitakin vapaana olevia päivämääriä?"
+    ],
+    "highlightText": "Prosessini alkaa 90 minuutin mittaisella konsultaatiolla paikan päällä",
+    "tooltipFeatures": [
+      "tuntee suunnitteluprosessisi ja hinnoittelusi",
+      "Luonnokset äänessäsi",
+      "Sisältää konsultaatiotiedot automaattisesti",
+      "Oppii ajan myötä"
+    ]
+  },
+  "agent": {
+    "userMessage": "Mitkä asiakkaat odottavat vielä suunnitelman hyväksyntää?",
+    "agentResponse": "Viimeaikaisten sähköpostiesi perusteella kaksi asiakasta odottavat hyväksyntää: Jennifer & Mark L. (takapihan uudelleensuunnittelu – lopulliset suunnitelmat lähetetty 4 päivää sitten, ei vielä vastausta) ja Cohens (etupihan natiivimuunnos – lähetetty tarkistettu suunnitelma viime viikolla). Haluatko, että laadin lempeän jatkotoimenpiteen jommallekummalle?",
+    "followUp": "Laadi Jenniferille seurantasuunnitelma suunnitelman hyväksymisestä",
+    "followUpResponse": "Valmis! Suunnittelin Jenniferille ystävällisen lähtöselvityksen, jossa kysyin, olisiko hänellä ja Markilla mahdollisuus käydä läpi lopulliset suunnitelmat, ja muistutin häntä, että voit soittaa pikapuhelun ja käydä läpi kasvivalinnat. Valmiina tarkastettavaksi ja lähetettäväksi."
+  },
+  "testimonialsTitle": "Maisemasuunnittelijoiden rakastama",
+  "testimonials": [
+    {
+      "name": "Michael S.",
+      "title": "Maisema-arkkitehti, Austin TX",
+      "quote": "Kevään aikana olen paikan päällä 8 tuntia päivässä tekemässä arviointeja ja asennusvalvontaa. Uudet neuvottelupyynnöt kestäisivät päiviä. Nyt Duet vastaa prosessistani ja saatavuudestani muutamassa minuutissa. Olen varannut 3 projektia, jotka olisin varmasti menettänyt.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca G.",
+      "title": "Garden Designer, Portland OR",
+      "quote": "Hardscape-miehistön, kasteluasentajien ja asiakkaiden välinen koordinointi tuottaa järjettömän määrän sähköpostia. Duet lajittelee kaiken ja laatii vastaukset, jotka sisältävät oikeat projektitiedot. Se on kuin studiopäällikkö.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Maisemasuunnittelustudion omistaja, Denver CO",
+      "quote": "Vietin joka ilta kenttätöiden jälkeen sähköpostien lukemiseen. Samat kysymykset - hinnoittelu, prosessi, aikajana. Duet ti hoitaa kaiken. Vastausaikani oli päivistä minuutteihin ja sulkemisnopeusni on paljon korkeampi.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer R.",
+      "title": "Residential Landscape Designer, Scottsdale AZ",
+      "quote": "Asiakkaani kysyvät paljon tehdasvalinnoista ja kunnossapidosta. Duet oppi kasvipaletit ja hoito-ohjeet ja luonnokset, joita minun tuskin tarvitsee muokata. Asiakkaiden mielestä olen uskomattoman reagoiva.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Native Plant Landscape Designer, Raleigh NC",
+      "quote": "Menetin uusia asiakkaita, koska en voinut vastata, kun olin polveen asti istutusasennuksessa. Duet laatii konsultaatiovastaukset tarkan prosessini, hinnoitteluni ja odotusteni mukaan. Se maksoi itsensä takaisin ensimmäisen viikon aikana.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Vietä päiväsi maisemia luomalla,\nei saa sähköpostiin kiinni.",
+  "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
+  "verticalFaqs": [
+    {
+      "question": "Kestääkö Duet kevään kiireen, kun konsultointipyyntöjä kasaantuu?",
+      "answer": "Juuri silloin Duet loistaa. Vilkaimman kauden aikana jokainen uusi tiedustelu saa nopean ja yksityiskohtaisen vastauksen prosessistasi, aikajanastasi ja saatavuudestasi – vaikka olisit paikan päällä koko päivän. Ei enää kevään johtojen häviämistä, koska et päässyt takaisin niihin vasta klo 21.00."
+    },
+    {
+      "question": "Teen yhteistyötä useiden ulkoilmaryhmien kanssa. Auttaako Duet tähän?",
+      "answer": "Kyllä. Duet oppii projektisi ja mukana olevat urakoitsijat – maasto, kastelu, istutusryhmät, taimitarhat. Se luokittelee urakoitsijoiden sähköpostit erillään asiakassähköpostiviesteistä ja voi laatia vastaukset projektikohtaisilla tiedoilla, kuten teknisillä tiedoilla, aikatauluilla ja materiaaleilla. Pysyt jokaisen miehistön kärjessä ilman postilaatikon kaaosta."
+    }
+  ],
+  "pricingNote": "Hinta 8 000 dollaria/projekti, yksi säästänyt asiakas maksaa vuosia Pro:stä."
+}

@@ -1,0 +1,210 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro"
+import "../../../styles/blog-index.css"
+import Nav from "../../../components/nav/Nav.astro"
+import Footer from "../../../components/sections/Footer.astro"
+import { calculateReadingTimeForLocale, formatDate, formatReadingTimeForLocale } from "../../../utils/readingTime"
+import type { Locale } from "../../../i18n/locales"
+import { getNonDefaultStaticLocalePaths, localizedPath } from "../../../i18n/routing"
+import { getAllBlogPosts, getAlternateLinksForRoute, getRouteTranslationState, robotsForTranslationState } from "../../../i18n/content"
+import { getMessages, t } from "../../../i18n/messages/schema"
+import { jsonLdScript } from "../../../i18n/jsonLd"
+
+export function getStaticPaths() {
+    return getNonDefaultStaticLocalePaths()
+}
+
+const { locale } = Astro.props as { locale: Locale }
+const messages = getMessages(locale)
+const posts = await getAllBlogPosts(locale)
+
+const postsWithReadingTime = await Promise.all(
+    posts.map(async (post) => {
+        const readingTime = calculateReadingTimeForLocale(post.body || "", locale)
+        return { ...post, readingTime, routeSlug: post.slug }
+    })
+)
+
+const title = t(messages, "blog.pages.index.title")
+const description = t(messages, "blog.pages.index.description")
+const canonicalPath = localizedPath(locale, { kind: "blogIndex" })
+const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
+const alternates = await getAlternateLinksForRoute(Astro.site, { kind: "blogIndex" })
+const robotsDirectives = robotsForTranslationState(await getRouteTranslationState({ kind: "blogIndex", locale }))
+const homeUrl = new URL(localizedPath(locale, { kind: "home" }), Astro.site).toString()
+const extraHeadHtml = [
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        inLanguage: locale,
+        name: title,
+        description,
+        url: canonicalUrl,
+    }),
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        inLanguage: locale,
+        itemListElement: [
+            {
+                "@type": "ListItem",
+                position: 1,
+                name: t(messages, "legalNav.home"),
+                item: homeUrl,
+            },
+            {
+                "@type": "ListItem",
+                position: 2,
+                name: t(messages, "nav.blog"),
+                item: canonicalUrl,
+            },
+        ],
+    }),
+].join("\n")
+
+function getIssueNumber(index: number, total: number): string {
+    return String(total - index).padStart(2, "0")
+}
+---
+
+<BaseLayout
+    title={title}
+    description={description}
+    canonicalPath={canonicalPath}
+    ogImagePath="/og.jpg"
+    locale={locale}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
+    extraHeadHtml={extraHeadHtml}
+>
+    <Nav locale={locale} messages={messages} alternates={alternates} />
+    <main class="blog-index">
+        <header class="blog-header">
+            <div class="blog-header-inner">
+                <p class="blog-header-label">{t(messages, "blog.index.eyebrow")}</p>
+                <h1 class="blog-header-title">{t(messages, "blog.index.title")}</h1>
+                <p class="blog-header-description">
+                    {t(messages, "blog.index.description")}
+                </p>
+            </div>
+            <div class="blog-header-divider">
+                <span class="blog-header-divider-line"></span>
+                <span class="blog-header-divider-ornament"></span>
+                <span class="blog-header-divider-line"></span>
+            </div>
+        </header>
+
+        {
+            postsWithReadingTime.length === 0 ? (
+                <div class="blog-empty">
+                    <p class="blog-empty-text">
+                        {t(messages, "blog.index.empty")}
+                    </p>
+                </div>
+            ) : (
+                <>
+                    {postsWithReadingTime.length > 0 && (
+                        <section class="blog-featured">
+                            <article class="blog-featured-article">
+                                <a
+                                    href={localizedPath(locale, { kind: "blogPost", slug: postsWithReadingTime[0].routeSlug })}
+                                    class="blog-featured-link"
+                                >
+                                    {postsWithReadingTime[0].entry.data.coverImage && (
+                                        <figure class="blog-featured-image-wrapper">
+                                            <img
+                                                src={postsWithReadingTime[0].entry.data.coverImage}
+                                                alt={
+                                                    postsWithReadingTime[0].entry.data.coverImageAlt ||
+                                                    postsWithReadingTime[0].entry.data.title
+                                                }
+                                                class="blog-featured-image"
+                                                loading="eager"
+                                                decoding="async"
+                                            />
+                                        </figure>
+                                    )}
+                                    <div class="blog-featured-content">
+                                        <div class="blog-featured-meta">
+                                            <span class="blog-featured-issue">
+                                                {t(messages, "blog.index.issue", { issue: getIssueNumber(0, postsWithReadingTime.length) })}
+                                            </span>
+                                            <span class="blog-meta-separator" aria-hidden="true" />
+                                            <time datetime={postsWithReadingTime[0].entry.data.publishedAt.toISOString()}>
+                                                {formatDate(postsWithReadingTime[0].entry.data.publishedAt, locale)}
+                                            </time>
+                                        </div>
+                                        <h2 class="blog-featured-title">
+                                            {postsWithReadingTime[0].entry.data.title}
+                                        </h2>
+                                        <p class="blog-featured-excerpt">
+                                            {postsWithReadingTime[0].entry.data.description}
+                                        </p>
+                                        <div class="blog-featured-footer">
+                                            <span class="blog-reading-time">
+                                                {formatReadingTimeForLocale(postsWithReadingTime[0].readingTime, locale, messages)}
+                                            </span>
+                                            <span class="blog-read-more">
+                                                {t(messages, "blog.readArticle")}
+                                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+                                                    <path d="M3 7h8M8 4l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                                                </svg>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </article>
+                        </section>
+                    )}
+
+                    {postsWithReadingTime.length > 1 && (
+                        <section class="blog-grid-section">
+                            <div class="blog-grid-header">
+                                <h2 class="blog-grid-title">{t(messages, "blog.recentArticles")}</h2>
+                                <span class="blog-grid-count">{t(messages, "blog.index.count", { count: postsWithReadingTime.length - 1 })}</span>
+                            </div>
+                            <div class="blog-grid">
+                                {postsWithReadingTime.slice(1).map((post, index) => (
+                                    <article class="blog-card">
+                                        <a href={localizedPath(locale, { kind: "blogPost", slug: post.routeSlug })} class="blog-card-link">
+                                            {post.entry.data.coverImage && (
+                                                <figure class="blog-card-image-wrapper">
+                                                    <img
+                                                        src={post.entry.data.coverImage}
+                                                        alt={post.entry.data.coverImageAlt || post.entry.data.title}
+                                                        class="blog-card-image"
+                                                        loading="lazy"
+                                                        decoding="async"
+                                                    />
+                                                </figure>
+                                            )}
+                                            <div class="blog-card-content">
+                                                <div class="blog-card-meta">
+                                                    <span class="blog-card-issue">
+                                                        {t(messages, "blog.index.issue", { issue: getIssueNumber(index + 1, postsWithReadingTime.length) })}
+                                                    </span>
+                                                    <span class="blog-meta-separator" aria-hidden="true" />
+                                                    <time datetime={post.entry.data.publishedAt.toISOString()}>
+                                                        {formatDate(post.entry.data.publishedAt, locale)}
+                                                    </time>
+                                                </div>
+                                                <h3 class="blog-card-title">{post.entry.data.title}</h3>
+                                                <p class="blog-card-excerpt">{post.entry.data.description}</p>
+                                                <div class="blog-card-footer">
+                                                    <span class="blog-reading-time">
+                                                        {formatReadingTimeForLocale(post.readingTime, locale, messages)}
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                ))}
+                            </div>
+                        </section>
+                    )}
+                </>
+            )
+        }
+    </main>
+    <Footer locale={locale} messages={messages} />
+</BaseLayout>

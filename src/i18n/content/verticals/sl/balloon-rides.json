@@ -1,0 +1,171 @@
+{
+  "slug": "balloon-rides",
+  "pageTitle": "Duet Mail za vožnje z balonom | AI E-poštni pomočnik",
+  "metaDescription": "Duet Mail pomaga pilotom balonov takoj odgovoriti na e-poštna sporočila o rezervaciji — tudi med leti ob sončnem vzhodu. Odgovori, pripravljeni z umetno inteligenco, z vašimi cenami, vremensko politiko in glasom.",
+  "heroBadge": "Zaupa mu več kot 200 pilotov balona",
+  "heroHeadline": "Vaš e-poštni pomočnik, ko ste v zraku",
+  "heroSubline": "Duet se seznani z vašimi urniki letov, cenami in vremenskimi politikami — nato pripravi osnutke e-poštnih odgovorov, tako da nikoli ne izgubite rezervacije, medtem ko spuščate ob sončnem vzhodu.",
+  "inboxEmails": [
+    {
+      "from": "Rachel in Dan T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Let ob sončnem vzhodu za 2 osebi – sobota je na voljo?",
+      "preview": "zdravo Z možem sva na obisku zaradi naše obletnice in to soboto bi rada rezervirala polet z balonom ob sončnem vzhodu. imaš prostor? Kakšna je cena na osebo?",
+      "pill": "Odzvati se",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Bomo jutri leteli? Napoved vetra je videti groba",
+      "preview": "Naročeni smo za jutri zjutraj, vendar vremenska aplikacija kaže sunke 15 mph. Ali še vedno letimo ali bi morali načrtovati prestavitev...",
+      "pill": "vprašanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Jennifer & Mark P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Zasebni let za ponudbo – cena?",
+      "preview": "Rad bi presenetil svojo punco z zasebno vožnjo z balonom in jo zaprosil med letom. Koliko stane zasebni let in ali lahko pomagate pri koordinaciji...",
+      "pill": "Rezervacija",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "lavender",
+      "subject": "Kaj naj oblečemo? Kje se dobimo?",
+      "preview": "Naročeni smo za nedeljo zjutraj. Kaj naj oblečemo in kje točno je zbirališče? Tudi, koliko časa traja celotna izkušnja ...",
+      "pill": "vprašanje",
+      "pillColor": "amber"
+    }
+  ],
+  "autodraft": "Živjo Rachel! Sobota je odprta za 2. Leti ob sončnem vzhodu se začnejo okoli 6.15 – točen čas in lokacijo srečanja bomo potrdili večer prej na podlagi vetra. Stane 250 $/osebo in vključuje približno eno uro v zraku ter nazdravljanje s šampanjcem po pristanku. Oblecite se večplastno in nosite zaprte čevlje. Želite, da rezerviram vaša mesta?",
+  "math": {
+    "pricePerBooking": "$1,000",
+    "bookingUnit": "polet",
+    "lostPerMonth": "2",
+    "monthlyLoss": "$2,000",
+    "punchline": "En shranjeni let plača eno leto Duet."
+  },
+  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, tako da najprej vidite zahteve za rezervacije, nato vprašanja o vremenu in nikoli hrupa. Nič več pogrešanja povpraševanja o letu, ki je zakopano pod opozorili o novicah.",
+  "draftSubtitle": "Duet izve vaše cene, vremensko politiko in ton. Ko prejme poizvedbo o rezervaciji, pripravi popoln odgovor s podrobnostmi o letu, informacijami o sestanku in tem, kaj obleči. Pregledate in pošljete.",
+  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet pozna vašo mapo »Prejeto« in koledar — samo vprašajte.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Let ob sončnem vzhodu za 2 osebi – sobota je na voljo?",
+      "preview": "Z možem bi rada rezervirala vožnjo z balonom ob sončnem vzhodu...",
+      "pill": "Odgovorite zdaj",
+      "pillColor": "red"
+    },
+    {
+      "from": "Kevin L.",
+      "avatarLetter": "K",
+      "avatarColor": "blue",
+      "subject": "Re: Rezervacija potrjena — nedelja 6.15",
+      "pill": "Rezervirano",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Amy S.",
+      "avatarLetter": "A",
+      "avatarColor": "purple",
+      "subject": "Kaj naj oblečemo za let?",
+      "pill": "vprašanje",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Novo mnenje za vaš seznam",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Balonarska zveza",
+      "avatarLetter": "B",
+      "avatarColor": "lavender",
+      "subject": "Marčevski varnostni bilten in opomnik za podaljšanje",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Let Sunrise za 2 osebi – sobota je na voljo?",
+    "originalFrom": "Rachel T. je napisala:",
+    "originalText": "zdravo Z možem sva na obisku zaradi naše obletnice in to soboto bi rada rezervirala polet z balonom ob sončnem vzhodu. imaš prostor? Kakšna je cena na osebo?",
+    "lines": [
+      "Živjo Rachel!",
+      "Sobota je odprta za 2. Leti ob sončnem vzhodu stanejo 250 $/osebo in vključujejo približno eno uro v zraku ter zdravico s šampanjcem po pristanku.",
+      "Začnemo okrog 6.15 zjutraj – vaš točen čas sestanka in lokacijo vam bom poslal večer prej glede na razmere vetra. Oblecite se večplastno in nosite zaprte čevlje.",
+      "Srečna obletnica! Želite, da rezerviram vaša mesta?"
+    ],
+    "highlightText": "Sobota je odprta za 2. Leti ob sončnem vzhodu stanejo 250 $/osebo",
+    "tooltipFeatures": [
+      "Pozna vaše cene in urnik letov",
+      "Osnutki v tvojem glasu",
+      "Samodejno vključuje podrobnosti sestanka",
+      "Sčasoma se uči"
+    ]
+  },
+  "agent": {
+    "userMessage": "Kdo je na jutrišnjem manifestu in kakšno je vreme?",
+    "agentResponse": "Za jutrišnji let ob sončnem vzhodu je rezerviranih 6 potnikov v dveh rezervacijah: zabava Thompson (4) in par Lee (2). Trenutna napoved kaže miren veter s hitrostjo 4 mph in jasno nebo ob času izstrelitve. E-poštnih sporočil o preklicu še ni. Želite, da pošljem potrditve zbirališč?",
+    "followUp": "Da, obema stranema pošlji potrditve s časom srečanja ob 6.15",
+    "followUpResponse": "Končano! Pripravil sem osnutek potrditve točke srečanja tako za Thompsona kot za Leesa ob 6.15 zjutraj na izstrelišču, kaj naj oblečem in navodila. Pripravljeno za pregled in pošiljanje."
+  },
+  "testimonialsTitle": "Obožujejo piloti in operaterji balonov",
+  "testimonials": [
+    {
+      "name": "Kapetan Mike L.",
+      "title": "Pilot balona, ​​MN",
+      "quote": "Sem ena oseba – letim, delam v posadki, odgovarjam na e-pošto. Razen ob 5. uri zjutraj napihujem, ne odgovarjam. Duet pripravi osnutke odgovorov na vsak \"bomo jutri leteli?\" sporočilo čez noč. Zbudim se, preverim vreme in pritisnem Pošlji.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Shannon & Jake B.",
+      "title": "Celoletni izleti z balonom, UT",
+      "quote": "Vsak dan dobimo istih 10 vprašanj. Kaj obleči, kje se dobiti, kaj če piha. Duet se je naučil vsega in zdaj piše popolne odgovore. Z ene ure e-pošte vsak večer smo prešli na pet minut.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Carlos R.",
+      "title": "Operater letenja Sunrise, AZ",
+      "quote": "Visoka sezona pomeni 4-6 letov na teden in vsak potnik pošlje e-pošto vsaj dvakrat pred letom. Duet obravnava vprašanja pred letom, da se lahko osredotočim na to, da ljudem omogočim najboljše jutro v življenju.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Lisa W.",
+      "title": "Solastnik podjetja Balloon, NM",
+      "quote": "Vremenske odpovedi so mi pokvarile cel dan – 8 potnikov je vseh potrebovalo osebna e-poštna sporočila o prestavitvi. Zdaj Duet pripravlja osnutke vseh z našo politiko ponovne rezervacije. Prihrani mi ure ob jutrih odpovedi.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Marija D.",
+      "title": "Balloon Ride Operations, CO",
+      "quote": "Predlagani leti potrebujejo toliko usklajevanja naprej in nazaj. Duet je izvedel, kako jih obravnavamo — čas, kodne besede, nastavitev šampanjca. Piše odgovore, ki se jih komaj dotaknem.",
+      "avatarKey": "francesca"
+    }
+  ],
+  "ctaHeadline": "Preživite jutra na nebu,\nni v vašem nabiralniku.",
+  "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svojo mapo »Prejeto« v 30 sekundah.",
+  "verticalFaqs": [
+    {
+      "question": "Kako Duet obravnava e-poštna sporočila o odpovedi vremena?",
+      "answer": "Duet se seznani z vašimi politikami odpovedi in ponovne rezervacije. Ko odpoveste let zaradi vremena, lahko vsakemu prizadetemu potniku pripravi prilagojena e-poštna sporočila o prerazporedu – z vašim pravilnikom, razpoložljivimi datumi in vašim tonom. Pregledate in pošljete. Kar je včasih trajalo uro posameznih odgovorov, traja nekaj minut."
+    },
+    {
+      "question": "Ali lahko Duet obravnava 'bomo jutri leteli?' e-poštna sporočila, ki prihajajo vsak večer?",
+      "answer": "Da – to je eno najpogostejših e-poštnih sporočil, o katerih nam pripovedujejo operaterji oblačkov. Duet izve vašo vremensko politiko in pripravi osnutke pomirjujočih odgovorov, ki pojasnjujejo vaš postopek odločanja, kdaj boste opravili zadnji klic in kaj lahko pričakujete. Ko zjutraj potrdite iti/ne iti, lahko osnutke posodobi za vse v manifestu."
+    }
+  ],
+  "pricingNote": "Pri 250 $/osebo s 4 potniki na let ena shranjena rezervacija plača več kot eno leto Pro."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "surf-schools",
+  "pageTitle": "Duet Mail kwa Shule za Surf & Waendeshaji Paddleboard | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia wakufunzi wa kutumia mawimbi na waendeshaji paddleboard kujibu barua pepe za kuweka nafasi papo hapo - hata wanapofundisha. Majibu yaliyoandaliwa na AI pamoja na aina za somo lako, bei na sauti.",
+  "heroBadge": "Inaaminiwa na wakufunzi 300+ wa kuteleza kwenye mawimbi",
+  "heroHeadline": "Msaidizi wako wa barua pepe wakati unafundisha juu ya maji",
+  "heroSubline": "Duet hujifunza aina za somo lako, bei na masharti - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi kwa jibu la polepole.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Somo la kikundi la 6 Jumamosi?",
+      "preview": "Habari! Nina kundi la marafiki 6 wanaotembelea wikendi. Je, una fursa ya kupata somo la kuteleza kwenye mawimbi ya kikundi Jumamosi asubuhi? Je, ni bei gani?",
+      "pill": "Ili Kujibu",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Safari ya shule - wanafunzi 25, Mei 15",
+      "preview": "Tunatazamia kuweka nafasi ya siku ya kuteleza kwa mawimbi kwa ajili ya darasa letu la 5 la wanafunzi 25. Je, unatoa viwango vya vikundi vya shule? Tutahitaji suti za mvua na bodi zinazotolewa ...",
+      "pill": "Kuhifadhi",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Ukodishaji wa paddleboard + uwasilishaji?",
+      "preview": "Je, unakodisha bodi za SUP kwa saa? Tunakaa katika nyumba ya ufuo kwenye Elm St - kuna nafasi gani utaleta? Ni nini kimejumuishwa...",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Nicole B.",
+      "avatarLetter": "N",
+      "avatarColor": "lavender",
+      "subject": "Masharti ya kesho asubuhi?",
+      "preview": "Tumeweka nafasi kesho saa 9 asubuhi lakini utabiri unaonekana kuwa na upepo. Je, somo bado litaendelea? Je, tunapaswa kuleta chochote cha ziada...",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Habari Rachel! Jumamosi asubuhi hufunguliwa saa 6. Masomo ya kikundi huanza saa 2 kuanzia 9 AM. Ubao, suti za mvua, na walinzi wa upele zote zimejumuishwa - jiletee tu kinga ya jua na taulo. Ni $90 kwa kila mtu. Je, unataka nifunge kikundi chako ndani?",
+  "math": {
+    "pricePerBooking": "$90",
+    "bookingUnit": "somo",
+    "lostPerMonth": "8",
+    "monthlyLoss": "$720",
+    "punchline": "Nafasi mbili zilizohifadhiwa hulipa kwa mwaka wa Duet."
+  },
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone uhifadhi wa somo kwanza, maswali ya pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa kikundi cha shule uliozikwa chini ya arifa za Yelp.",
+  "draftSubtitle": "Duet hujifunza aina za somo lako, bei za kikundi na sauti. Swali la kuweka nafasi linapofika, hutayarisha jibu kamili pamoja na upatikanaji, ni nini kimejumuishwa na kile cha kuleta. Unakagua na kutuma.",
+  "agentSubtitle": "\"Hifadhi zozote za kikundi zitafanyika wiki hii?\" \"Rasimu ya jibu kwa shule inayopatikana.\" Duet anajua kikasha chako na ratiba - uliza tu.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Somo la kikundi la 6 Jumamosi?",
+      "preview": "Nina kikundi cha marafiki 6 wanaotembelea wikendi...",
+      "pill": "Jibu Sasa",
+      "pillColor": "red"
+    },
+    {
+      "from": "Westside Elementary",
+      "avatarLetter": "W",
+      "avatarColor": "blue",
+      "subject": "Re: Safari ya shambani imethibitishwa - Mei 15, wanafunzi 25",
+      "pill": "Imehifadhiwa",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James P.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Je, unakodisha paddleboards kwa saa?",
+      "pill": "Swali",
+      "pillColor": "amber"
+    },
+    {
+      "from": "TripAdvisor",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Maoni mapya ya tangazo lako",
+      "pill": "FYI",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Surf Warehouse",
+      "avatarLetter": "S",
+      "avatarColor": "lavender",
+      "subject": "Uuzaji wa msimu wa joto - punguzo la 30% kwenye suti za mvua",
+      "pill": "Matangazo",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Somo la kikundi kwa 6 siku ya Jumamosi?",
+    "originalFrom": "Rachel T. aliandika:",
+    "originalText": "Habari! Nina kundi la marafiki 6 wanaotembelea wikendi. Je, una fursa ya kupata somo la kuteleza kwenye mawimbi ya kikundi Jumamosi asubuhi? Je, ni bei gani?",
+    "lines": [
+      "Habari Rachel!",
+      "Jumamosi asubuhi ni wazi kwa 6. Masomo ya kikundi ni $90/mtu na yanaendeshwa saa 2 kuanzia 9 AM kwenye ufuo mkuu.",
+      "Ubao, suti za mvua, na walinzi wa upele zote zimejumuishwa - jiletee tu mafuta ya jua, maji na taulo. Hakuna uzoefu unaohitajika.",
+      "Je, unataka nifunge kikundi chako ndani?"
+    ],
+    "highlightText": "Jumamosi asubuhi ni wazi kwa 6. Masomo ya kikundi ni $90/mtu",
+    "tooltipFeatures": [
+      "Anajua aina na bei za somo lako",
+      "Rasimu katika sauti yako",
+      "Inajumuisha kile kinachotolewa kiotomatiki",
+      "Anajifunza kwa muda"
+    ]
+  },
+  "agent": {
+    "userMessage": "Je, uhifadhi wowote wa kikundi unakuja wiki hii?",
+    "agentResponse": "Una nafasi mbili za kuweka vikundi wiki hii: Rachel T. siku ya Jumamosi (watu 6, 9 AM) na Westside Elementary siku ya Jumatano (wanafunzi 25, safari ya 10 AM). Pia una swali linalosubiri kutoka kwa James P. kuhusu ukodishaji wa ubao wa paddle. Je, unataka nitayarishe jibu?",
+    "followUp": "Rasimu ya jibu kwa shule kuthibitisha maelezo ya safari ya uwanjani",
+    "followUpResponse": "Imekamilika! Niliandika jibu kwa Westside Elementary nikithibitisha Mei 15 kwa wanafunzi 25 saa 10 asubuhi. Inajumuisha kiwango cha kikundi chako cha shule, kile kilichotolewa, mahitaji ya hati ya ruhusa na sera yako ya kughairi. Tayari kukagua na kutuma."
+  },
+  "testimonialsTitle": "Inapendwa na waalimu wa surf",
+  "testimonials": [
+    {
+      "name": "Kocha Mike T.",
+      "title": "Mmiliki wa Shule ya Surf, CA",
+      "quote": "Niko majini nikifundisha masaa 6 kwa siku. Kufikia wakati ningeangalia barua pepe, nusu ya uhifadhi ulikuwa umeenda kwa mtu mwingine. Sasa rasimu za Duet zinajibu bei na upatikanaji wangu - Ninakagua tu kati ya vipindi.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Jen & Mark S.",
+      "title": "Masomo na Ukodishaji wa Paddleboard, HI",
+      "quote": "Tunaendesha masomo na ukodishaji wa bodi kutoka kwa kikasha sawa. Duet ilibaini tofauti hiyo papo hapo - maswali ya ukodishaji hupata majibu ya ukodishaji, maswali ya somo hupata maelezo ya somo. Ni kama kuwa na dawati la mbele.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Danny R.",
+      "title": "Mkufunzi wa Mawimbi, FL",
+      "quote": "Uhifadhi wa kikundi cha shule ulitumika kuchukua barua pepe 10 na kurudi. Sasa Duet inatayarisha jibu la kwanza na viwango vya kikundi, ni nini kilichojumuishwa, na hati ya ruhusa. Inakata thread nzima kwa nusu.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Fran C.",
+      "title": "SUP Tours & Masomo, AU",
+      "quote": "Msimu wa kilele ulikuwa ukiniua - barua pepe 30 kwa siku kuhusu hali, bei, nini cha kuleta. Maswali matano yale yale tena na tena. Duet hushughulikia zote na zinasikika kama mimi.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Mkurugenzi wa Kambi ya Watoto Surf, SC",
+      "quote": "Wazazi hutuma barua pepe ndefu zaidi. Tarehe za kambi, mizio, viwango vya ujuzi, nyakati za kuchukua. Duet huandaa majibu ya kina ambayo hushughulikia kila kitu ili nisiandike aya saa 10 jioni baada ya siku nzima ufukweni.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Tumia majira yako ya joto kwenye mawimbi,\nhaipo kwenye kikasha chako.",
+  "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
+  "verticalFaqs": [
+    {
+      "question": "Je, Duet inashughulikia aina tofauti za somo na ukodishaji wa vifaa?",
+      "answer": "Ndiyo. Duet hujifunza matoleo yako yote - masomo ya kibinafsi, masomo ya kikundi, kambi za watoto, ukodishaji wa bodi, ziara za SUP. Swali linapokuja, hutayarisha jibu lenye bei sahihi, muda, kilichojumuishwa na kile cha kuleta. Inajua barua pepe ya kikundi cha shule inahitaji maelezo tofauti na kuhifadhi nafasi ya somo la kibinafsi."
+    },
+    {
+      "question": "Vipi kuhusu maswali ya hali ya hewa na hali?",
+      "answer": "Duet hujifunza jinsi kwa kawaida unavyoshughulikia barua pepe za masharti - sera zako kuhusu kughairiwa, kupanga upya ratiba na masharti unayofundisha. Mtu anapotuma barua pepe akiuliza ikiwa somo lake litaendelea, Duet huandaa jibu linalolingana na sauti na sera yako ya kawaida. Unakagua na kutuma kwa sekunde."
+    }
+  ],
+  "pricingNote": "Kwa $90/somo, nafasi mbili zilizohifadhiwa hulipa kwa zaidi ya mwaka mmoja wa Pro."
+}

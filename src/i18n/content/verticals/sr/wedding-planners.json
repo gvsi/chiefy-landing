@@ -1,0 +1,171 @@
+{
+  "slug": "wedding-planners",
+  "pageTitle": "Duet Mail za organizatore venčanja | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže planerima venčanja da odmah odgovore na imejlove klijenata i dobavljača — čak i iz obilaska mesta održavanja. AI-nacrtani odgovori sa vašim paketima, kontaktima dobavljača i glasom.",
+  "heroBadge": "Ima poverenja od 400+ organizatora venčanja",
+  "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na licu mesta na mestu događaja",
+  "heroSubline": "Duet saznaje vaše kontakte dobavljača, pakete i preferencije klijenata — zatim sastavlja nacrte odgovora e-poštom tako da parovi nikada ne čekaju dok vi koordinirate na terenu.",
+  "inboxEmails": [
+    {
+      "from": "Emili i Džejms V.",
+      "avatarLetter": "E",
+      "avatarColor": "roze",
+      "subject": "Dostupno za venčanje 20. septembra?",
+      "preview": "Zdravo! Upravo smo se verili i očekujemo venčanje 20. septembra za oko 120 gostiju. Da li imate raspoloživost? Koji su tvoji paketi...",
+      "pill": "To Respond",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "plava",
+      "subject": "Re: Tompsonovo venčanje — makete centralnog dela",
+      "preview": "Evo tri centralne opcije o kojima smo razgovarali. Baštenske ruže su ušle prelepo. Javite mi u kom pravcu par želi da ide...",
+      "pill": "Vendor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rejčel K.",
+      "avatarLetter": "R",
+      "avatarColor": "ljubičasta",
+      "subject": "Ludim zbog rasporeda sedenja",
+      "preview": "Znam da smo finalizirali tabelu prošle nedelje, ali moja mama je samo odgovorila na 4 dodatna lica i nemam pojma gde da ih stavim. Možemo li da pomerimo neke stolove...",
+      "pill": "Klijent",
+      "pillColor": "plava"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavanda",
+      "subject": "Novi upit sa vašeg unosa",
+      "preview": "Par je zatražio više informacija o vašim uslugama. Pogledajte detalje i odgovorite...",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    }
+  ],
+  "autodraft": "Zdravo Emili i Džejms — čestitamo na veridbi! 20. septembar je dostupan i 120 gostiju je savršena veličina. Nudim kompletno planiranje, delimično planiranje i pakete za koordinaciju na dan. Voleo bih da organizujem besplatnu konsultaciju da saznam vašu viziju. Da li ste slobodni za brzi poziv ove nedelje?",
+  "math": {
+    "pricePerBooking": "$8,000",
+    "bookingUnit": "venčanje",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$8,000",
+    "punchline": "Jedan sačuvani klijent plaća više od 20 godina od Duet."
+  },
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite nove upite za par, zatim potvrde dobavljača, a buku iz biltena nikada. Više nema propuštanja zahteva za rezervaciju sahranjenih pod upozorenjima o čvorovima.",
+  "draftSubtitle": "Duet uči vaše pakete, željene dobavljače i ton. Kada se par pita, sastavlja topao, potpun odgovor sa vašom dostupnošću i sledećim koracima. Pregledate i pošaljete.",
+  "agentSubtitle": "„Koje e-poruke dobavljača su pristigle za Tompsonovo venčanje?“ „Nacrtajte ažuriranje vremenske linije za sve dobavljače za subotu.“ Duet poznaje vaše prijemno sanduče i klijente — samo pitajte.",
+  "categorizationEmails": [
+    {
+      "from": "Emili i Džejms V.",
+      "avatarLetter": "E",
+      "avatarColor": "roze",
+      "subject": "Dostupno za venčanje 20. septembra?",
+      "preview": "Upravo smo se verili i čekamo 20. septembar...",
+      "pill": "Odgovorite odmah",
+      "pillColor": "crvena"
+    },
+    {
+      "from": "Bella Rosa Florals",
+      "avatarLetter": "B",
+      "avatarColor": "plava",
+      "subject": "Re: Tompsonovo venčanje — makete centralnog dela",
+      "pill": "Vendor",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rejčel K.",
+      "avatarLetter": "R",
+      "avatarColor": "ljubičasta",
+      "subject": "Re: Shema sedenja — konačna verzija u prilogu",
+      "pill": "Klijent",
+      "pillColor": "plava"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavanda",
+      "subject": "Novi upit sa vašeg unosa",
+      "pill": "FII",
+      "pillColor": "lavanda"
+    },
+    {
+      "from": "Kovan",
+      "avatarLetter": "M",
+      "avatarColor": "lavanda",
+      "subject": "20% popusta na čuvanje datuma ove nedelje",
+      "pill": "Promocije",
+      "pillColor": "lavanda"
+    }
+  ],
+  "draft": {
+    "to": "emili.james.v@email.com",
+    "subject": "Re: Dostupnost za venčanje 20. septembra?",
+    "originalFrom": "Emili & James V. napisali su:",
+    "originalText": "Zdravo! Upravo smo se verili i očekujemo venčanje 20. septembra za oko 120 gostiju. Da li imate raspoloživost? Koji su vaši paketi i cene?",
+    "lines": [
+      "Zdravo Emili i Džejms — čestitamo!",
+      "20. septembar je dostupan i 120 gostiju je divna veličina. Nudim kompletno planiranje, delimično planiranje i pakete za koordinaciju na dan počevši od 3.500 USD.",
+      "Voleo bih da organizujem besplatnu konsultaciju da čujem vašu viziju i vodim vas kroz koji paket najbolje odgovara.",
+      "Da li ste slobodni za poziv ove nedelje?"
+    ],
+    "highlightText": "20. septembar je dostupan i 120 gostiju je divna veličina",
+    "tooltipFeatures": [
+      "Zna vaše pakete i dostupnost",
+      "Nacrt u vašem tonu",
+      "Uključuje konsultacije naredne korake",
+      "Uči preferencije vaših klijenata"
+    ]
+  },
+  "agent": {
+    "userMessage": "Koje e-poruke dobavljača su stigle za Tompsonovo venčanje ove nedelje?",
+    "agentResponse": "Dobili ste 4 e-poruke dobavljača za venčanje u Tompsonu ove nedelje: Bella Rosa Florals je poslala makete centralnog dela (čekajući izbor para), Lakeside Venue je potvrdio probu ceremonije u petak u 16:00, DJ Marko je poslao ažuriranu listu pesama, a Sveet Laiers Bakeri treba poslednji ukus torte od Vednesdai. Želite li da napravim nacrt odgovora na bilo koji od ovih?",
+    "followUp": "Nacrtajte odgovor za Bella Rosa sa izborom para — opcija B, baštenske ruže",
+    "followUpResponse": "Gotovo! Napravio sam odgovor za Bella Rosa Florals potvrđujući opciju B — centralne delove baštenskih ruža za venčanje u Tompsonu. Sadrži napomenu da se nastavi sa kompletnim redosledom za 14 tabela. Spremni za pregled i slanje."
+  },
+  "testimonialsTitle": "Vole ga organizatori venčanja",
+  "testimonials": [
+    {
+      "name": "Frančeska M.",
+      "title": "Boutikue Vedding Planner, CO",
+      "quote": "Pola nedelje sam na planinskim mestima sa nultom mobilnom mrežom. U međuvremenu, parovi mi šalju e-poštu o rokovima i pitanjima o dobavljačima. Duet nacrti odgovora sa mojim tačnim paketima i tonom — pregledam ih kada se vratim u domet.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Majkl T.",
+      "title": "Planer venčanja sa kompletnom uslugom, Kalifornija",
+      "quote": "Koordinacija 10+ dobavljača po venčanju znači da je moje prijemno sanduče ratna zona tokom špice sezone. Duet kategorizuje e-poruke dobavljača odvojeno od e-poruka klijenta i nacrte naknadnih radnji koje bih sam napisao. Sada zapravo spavam.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sara L.",
+      "title": "Dan koordinatora, Teksas",
+      "quote": "Na dane venčanja nisam dostupan po 14 sati. Novi upiti su ostajali bez odgovora do ponedeljka. Sada ih Duet rešava odmah i rezervisao sam 3 dodatna venčanja u ovom kvartalu samo zbog bržeg vremena odgovora.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Džoni R.",
+      "title": "Planer venčanja na destinaciji, HI",
+      "quote": "Moji parovi lete iz celog sveta i šalju e-poštu u svako doba. Duet je saznao moje odgovore na česta pitanja — logistika mesta, lokalni dobavljači, šta da očekujem — i nacrte odgovora koji zvuče baš kao ja. Klijenti nemaju pojma.",
+      "avatarKey": "Johnni"
+    },
+    {
+      "name": "Dženifer A.",
+      "title": "Planer venčanja i događaja, Njujork",
+      "quote": "Provodio sam 2 sata svake noći odgovarajući na pitanja o istom paketu i dostupnosti. Duet obrađuje stvari koje se ponavljaju tako da se mogu fokusirati na kreativni rad koji zaista volim. To se isplatilo u prvoj nedelji.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Budite prisutni na ceremoniji, \nnije sahranjen u vašem prijemnom sandučetu.",
+  "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
+  "verticalFaqs": [
+    {
+      "question": "Da li Duet radi sa svim imejlovima za koordinaciju dobavljača?",
+      "answer": "Da. Duet uči vaše kontakte dobavljača, željene dobavljače i način na koji komunicirate sa svakim od njih. On kategoriše e-poruke dobavljača prema venčanju i nacrte odgovora sa pravim detaljima — potvrde, praćenje, ažuriranja vremenske linije. Pregledate i pošaljete. Obrađuje cvećare, ugostitelje, lokale, DJ-eve, fotografe i svakog drugog prodavca u vašem rolodek-u."
+    },
+    {
+      "question": "Ceo dan sam na licu mesta na svadbama i mestima. Da li ću propustiti nove upite?",
+      "answer": "To je upravo ono što Duet rešava. Kada nekoliko mejlova pitaju o dostupnosti ili paketima dok koordinirate na licu mesta, Duet sastavlja topao, profesionalan odgovor sa vašom stvarnom dostupnošću i sledećim koracima. Pregledate i šaljete kad god ste slobodni — čak i sa telefona između događaja. Većina planera nam kaže da im štedi 1-2 sata e-pošte dnevno tokom špice sezone."
+    }
+  ],
+  "pricingNote": "Sa 8.000 dolara po venčanju, jedan ušteđeni klijent plaća više od 20 godina od Pro."
+}

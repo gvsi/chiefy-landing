@@ -1,0 +1,171 @@
+{
+  "slug": "custom-jewelers",
+  "pageTitle": "Duet Mail para joalheiros sob medida | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda joalheiros sob medida a responder pedidos de consulta, aprovações de design e dúvidas sobre prazos instantaneamente — até na bancada. Respostas redigidas por IA com seu processo, preços e tom.",
+  "heroBadge": "Usado por mais de 300 designers de joias",
+  "heroHeadline": "Seu assistente de e-mail enquanto você está na bancada",
+  "heroSubline": "O Duet aprende seu processo de design, materiais, preços e prazos — e então redige respostas de e-mail para você não perder nenhum cliente sob medida por demora na resposta.",
+  "inboxEmails": [
+    {
+      "from": "Rachel & David T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Consulta para anel de noivado sob medida?",
+      "preview": "Oi! Meu parceiro e eu temos interesse em um anel de noivado sob medida. Temos um diamante de família que adoraríamos usar. Você tem disponibilidade para uma consulta este mês?",
+      "pill": "Responder",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: Modelo 3D — podemos ajustar a cravação?",
+      "preview": "Adorei o design geral! Mas poderíamos testar uma cravação mais baixa? Anexei uma foto do estilo que estou imaginando. Além disso, trocar para platina mudaria o prazo...",
+      "pill": "Revisão",
+      "pillColor": "amber"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "Atualização de prazo das alianças?",
+      "preview": "Oi! Só queria saber como estão nossas alianças combinando. O casamento é May 18 e quero garantir que ainda estamos no prazo. Pode enviar uma atualização rápida...",
+      "pill": "Status",
+      "pillColor": "blue"
+    },
+    {
+      "from": "The Knot",
+      "avatarLetter": "T",
+      "avatarColor": "lavender",
+      "subject": "Nova avaliação na sua vitrine",
+      "preview": "Um casal avaliou recentemente sua empresa no The Knot. Veja o que eles disseram e responda...",
+      "pill": "Info",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Oi Rachel! Eu adoraria ajudar vocês a criar um anel em torno do diamante de família — é uma das coisas que mais gosto de fazer. Tenho horários disponíveis nas tardes de terça e quinta este mês. Tragam a pedra e qualquer foto de inspiração. As consultas duram cerca de uma hora e não há compromisso. Quer que eu reserve um horário para vocês?",
+  "math": {
+    "pricePerBooking": "$5,000",
+    "bookingUnit": "peça sob medida",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$5,000",
+    "punchline": "Um cliente recuperado paga mais de quatro anos de Duet."
+  },
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver novos pedidos de consulta primeiro, aprovações de design em seguida e nunca newsletters de fornecedores. Chega de perder uma consulta de $5,000 enterrada sob promoções de fornecedores.",
+  "draftSubtitle": "O Duet aprende seu processo, materiais, preços e tom. Quando chega um pedido de consulta, ele redige uma resposta completa com sua disponibilidade, o que levar e como seu processo funciona. Você revisa e envia.",
+  "agentSubtitle": "\"Como está o anel da Amanda?\" \"Redija uma atualização de prazo para James.\" O Duet conhece cada conversa com cliente — é só perguntar.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Consulta para anel de noivado sob medida?",
+      "preview": "Meu parceiro e eu temos interesse em um anel sob medida...",
+      "pill": "Nova consulta",
+      "pillColor": "red"
+    },
+    {
+      "from": "Amanda S.",
+      "avatarLetter": "A",
+      "avatarColor": "blue",
+      "subject": "Re: Modelo 3D v2 — ficou perfeito!",
+      "pill": "Aprovação de design",
+      "pillColor": "blue"
+    },
+    {
+      "from": "James K.",
+      "avatarLetter": "J",
+      "avatarColor": "purple",
+      "subject": "As alianças estão prontas — quando podemos retirar?",
+      "pill": "Pronto para retirada",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Emily W.",
+      "avatarLetter": "E",
+      "avatarColor": "pink",
+      "subject": "Re: Acompanhamento da consulta — adorei os esboços",
+      "pill": "Consulta",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Rio Grande Supply",
+      "avatarLetter": "R",
+      "avatarColor": "lavender",
+      "subject": "Promoção de primavera — 15% de desconto em componentes de platina",
+      "pill": "Fornecedor",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Consulta para anel de noivado sob medida?",
+    "originalFrom": "Rachel T. escreveu:",
+    "originalText": "Oi! Meu parceiro e eu temos interesse em um anel de noivado sob medida. Temos um diamante de família que adoraríamos usar. Você tem disponibilidade para uma consulta este mês?",
+    "lines": [
+      "Oi Rachel!",
+      "Eu adoraria ajudar vocês a criar algo especial em torno do diamante de família. Tenho horários disponíveis nas tardes de terça e quinta este mês.",
+      "Tragam a pedra e qualquer foto de inspiração — pastas do Pinterest, capturas de tela, qualquer coisa ajuda. As consultas duram cerca de uma hora e não há compromisso.",
+      "A partir daí, o processo costuma ser: esboço, modelo 3D, revisões e depois 3-4 semanas de produção. Quer que eu reserve um horário para vocês?"
+    ],
+    "highlightText": "esboço, modelo 3D, revisões e depois 3-4 semanas de produção",
+    "tooltipFeatures": [
+      "Conhece seu processo e prazo",
+      "Redige no seu tom de voz",
+      "Inclui automaticamente os detalhes da consulta",
+      "Aprende com o tempo"
+    ]
+  },
+  "agent": {
+    "userMessage": "Como está o anel de noivado da Amanda?",
+    "agentResponse": "Amanda aprovou o modelo 3D (v2) em February 14. Você confirmou o início da produção em February 16 com estimativa de 3 semanas. Isso coloca a conclusão por volta de March 9. O último email dela perguntava sobre opções de gravação — ainda está sem resposta. Quer que eu redija uma resposta?",
+    "followUp": "Redija uma atualização de prazo para James sobre as alianças",
+    "followUpResponse": "Pronto! Redigi uma resposta para James confirmando que as alianças combinando dele estão no polimento final e ficarão prontas para retirada até sexta-feira, March 7 — bem antes do casamento dele em May 18. Pronta para revisar e enviar."
+  },
+  "testimonialsTitle": "Adorado por designers de joias",
+  "testimonials": [
+    {
+      "name": "Marco R.",
+      "title": "Designer de joias sob medida, LA",
+      "quote": "Cada peça sob medida gera 10-15 emails ao longo de semanas. Multiplique isso por 8 clientes ativos e eu estava afogado. O Duet redige respostas de atualização de design, confirmações de consulta, respostas sobre prazo — tudo no meu tom. Eu reviso entre fundições e envio.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Sarah L.",
+      "title": "Ourives e proprietária de estúdio, Brooklyn",
+      "quote": "Perdi uma comissão de anel de noivado de $7,000 porque levei 3 dias para responder — o casal foi para alguém que respondeu em 2 horas. Desde o Duet, meu tempo de resposta fica abaixo de 30 minutos. Isso não aconteceu de novo.",
+      "avatarKey": "sarah"
+    },
+    {
+      "name": "Danny K.",
+      "title": "Joalheiro de bancada, Chicago",
+      "quote": "Fico na bancada 8 horas por dia com um maçarico na mão. Não posso parar no meio de uma solda para digitar uma resposta de consulta. O Duet redige tudo enquanto eu trabalho — olho no celular, aprovo, pronto.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Alessia M.",
+      "title": "Designer de joias de noiva, Austin",
+      "quote": "Na temporada de noivados, recebo mais de 20 pedidos de consulta por semana. O Duet aprendeu todo o meu processo — materiais, prazos, faixas de preço, o que trazer. Ele redige respostas que quase não preciso editar. Um salva-vidas absoluto de novembro a fevereiro.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Nina C.",
+      "title": "Especialista em anéis sob medida, Portland",
+      "quote": "Os emails de revisão 3D consumiam minhas noites. O cliente manda feedback, eu redijo a atualização, vai e volta cinco vezes. Agora o Duet cuida das respostas de rotina e eu só entro nas decisões de design. Recuperei minhas noites.",
+      "avatarKey": "jennifer"
+    }
+  ],
+  "ctaHeadline": "Passe seus dias criando joias,\nnão respondendo emails sobre elas.",
+  "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
+  "verticalFaqs": [
+    {
+      "question": "O Duet consegue lidar com emails que têm fotos de referência e anexos de design?",
+      "answer": "Sim. O Duet vê a conversa completa por email, incluindo anexos, então entende o contexto quando um cliente envia fotos de inspiração ou feedback de design. Ele não descreve as imagens de volta, mas sabe que o cliente acabou de enviar fotos de referência e redige uma resposta adequada — confirmando o recebimento, fazendo perguntas de esclarecimento sobre o design ou indicando os próximos passos com base no seu fluxo de trabalho habitual."
+    },
+    {
+      "question": "Meus projetos sob medida têm conversas longas com mais de 10 mensagens. O Duet acompanha isso?",
+      "answer": "É exatamente aí que o Duet se destaca. Ele lê todo o histórico da conversa — notas de consulta, revisões de design, escolhas de material, atualizações de prazo — para que cada resposta redigida tenha contexto completo. Quando um cliente pergunta \"qual é o status do meu anel?\" no email #14, o Duet sabe qual anel, em que etapa está e redige uma atualização precisa. Chega de reler 3 meses de emails por conta própria."
+    }
+  ],
+  "pricingNote": "Com $5,000/peça, uma comissão recuperada paga mais de quatro anos de Pro."
+}

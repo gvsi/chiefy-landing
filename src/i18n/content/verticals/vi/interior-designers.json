@@ -1,0 +1,171 @@
+{
+  "slug": "interior-designers",
+  "pageTitle": "Duet Mail cho Nhà Thiết Kế Nội Thất | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp nhà thiết kế nội thất quản lý email khách hàng, phối hợp nhà thầu và đặt hàng nhà cung cấp — ngay cả khi đang tại công trường. Trả lời email được AI soạn dựa trên chi tiết dự án, sở thích và phong cách của bạn.",
+  "heroBadge": "Được hơn 400 nhà thiết kế nội thất tin dùng",
+  "heroHeadline": "Trợ lý email của bạn khi bạn đang làm việc cùng khách hàng tại hiện trường",
+  "heroSubline": "Duet ghi nhớ liên hệ nhà cung cấp, chi tiết dự án và sở thích khách hàng — rồi soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
+  "inboxEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Cải tạo bếp — tư vấn ban đầu?",
+      "preview": "Chào bạn! Chúng tôi vừa mua nhà ở Westlake và muốn làm lại toàn bộ bếp. Bạn có nhận dự án mới không? Quy trình của bạn như thế nào?",
+      "pill": "Cần Trả Lời",
+      "pillColor": "red"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Re: Cập nhật thời gian giao gạch ốp tường",
+      "preview": "Vừa nhận được phản hồi từ kho — gạch Calacatta hình lục giác đang bị hoãn 3 tuần. Bạn muốn tôi giữ đơn hàng hay xem các lựa chọn khác...",
+      "pill": "Đơn Hàng Nhà Cung Cấp",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Mark L. — Thợ Điện",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Đã hoàn thành đi dây — sẵn sàng lắp đặt thiết bị",
+      "preview": "Tất cả đi dây thô đã xong ở phòng ngủ chính và phòng khách. Chúng tôi sẵn sàng lắp đèn tường và đèn chùm khi bạn...",
+      "pill": "Nhà Thầu",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Karen & Steve W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Ý kiến về mẫu vải?",
+      "preview": "Chúng tôi đã xem ba mẫu vải bạn để lại và nghiêng về vải lanh màu 'Oatmeal' nhưng muốn xem thử với màu tường...",
+      "pill": "Phê Duyệt Khách Hàng",
+      "pillColor": "lavender"
+    }
+  ],
+  "autodraft": "Chào Rachel! Tôi rất muốn nghe thêm về bếp Westlake của bạn. Hiện tôi đang nhận đặt lịch tư vấn cho tháng tới. Quy trình của tôi bắt đầu với việc đến nhà bạn để trao đổi về tầm nhìn, ngân sách và tiến độ — sau đó tôi sẽ lên ý tưởng thiết kế kèm lựa chọn vật liệu. Bạn muốn đặt lịch gặp tại nhà không?",
+  "math": {
+    "pricePerBooking": "$10,000",
+    "bookingUnit": "dự án",
+    "lostPerMonth": "1",
+    "monthlyLoss": "$10,000",
+    "punchline": "Một khách hàng giữ lại đủ trả tiền Duet nhiều năm."
+  },
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy trước các yêu cầu khách hàng mới, tiếp theo là các phê duyệt đang chờ, và không bao giờ bị làm phiền bởi bản tin nhà cung cấp. Không còn bỏ lỡ cuộc tư vấn thiết kế vì bị chôn vùi dưới các chương trình khuyến mãi.",
+  "draftSubtitle": "Duet học quy trình, chi tiết dự án và phong cách của bạn. Khi có yêu cầu mới hoặc câu hỏi khách hàng, nó sẽ soạn thảo trả lời đầy đủ với lịch trống, bước tiếp theo và thông tin dự án. Bạn chỉ việc xem lại và gửi.",
+  "agentSubtitle": "\"Tình trạng dự án Henderson thế nào?\" \"Còn phê duyệt nào chưa xong?\" Duet biết rõ hộp thư và mọi chuỗi dự án — chỉ cần hỏi.",
+  "categorizationEmails": [
+    {
+      "from": "Rachel T.",
+      "avatarLetter": "R",
+      "avatarColor": "pink",
+      "subject": "Cải tạo bếp — tư vấn ban đầu?",
+      "preview": "Chúng tôi vừa mua nhà và muốn làm lại bếp...",
+      "pill": "Yêu Cầu Mới",
+      "pillColor": "red"
+    },
+    {
+      "from": "Karen W.",
+      "avatarLetter": "K",
+      "avatarColor": "lavender",
+      "subject": "Re: Mẫu vải — chọn vải lanh Oatmeal",
+      "pill": "Phê Duyệt Khách Hàng",
+      "pillColor": "blue"
+    },
+    {
+      "from": "Mark L.",
+      "avatarLetter": "M",
+      "avatarColor": "purple",
+      "subject": "Đã hoàn thành đi dây — sẵn sàng lắp đặt thiết bị",
+      "pill": "Nhà Thầu",
+      "pillColor": "amber"
+    },
+    {
+      "from": "Tony's Tile & Stone",
+      "avatarLetter": "T",
+      "avatarColor": "blue",
+      "subject": "Đơn hàng #4821 đã gửi — giao thứ Năm",
+      "pill": "Đơn Hàng Nhà Cung Cấp",
+      "pillColor": "lavender"
+    },
+    {
+      "from": "Design Within Reach",
+      "avatarLetter": "D",
+      "avatarColor": "lavender",
+      "subject": "Chương trình thương mại — sự kiện tiết kiệm mùa xuân",
+      "pill": "Khuyến Mãi",
+      "pillColor": "lavender"
+    }
+  ],
+  "draft": {
+    "to": "rachel.t@email.com",
+    "subject": "Re: Cải tạo bếp — tư vấn ban đầu?",
+    "originalFrom": "Rachel T. đã viết:",
+    "originalText": "Chào bạn! Chúng tôi vừa mua nhà ở Westlake và muốn làm lại toàn bộ bếp. Bạn có nhận dự án mới không? Quy trình của bạn như thế nào?",
+    "lines": [
+      "Chào Rachel!",
+      "Chúc mừng bạn đã có nhà mới! Tôi rất muốn giúp bạn với bếp. Hiện tôi đang nhận đặt lịch tư vấn cho tháng tới.",
+      "Quy trình của tôi bắt đầu với việc đến nhà bạn để trao đổi về tầm nhìn, ngân sách và tiến độ. Sau đó tôi sẽ lên ý tưởng thiết kế kèm lựa chọn vật liệu và đề xuất chi tiết.",
+      "Bạn muốn đặt lịch gặp tại nhà không?"
+    ],
+    "highlightText": "Hiện tôi đang nhận đặt lịch tư vấn cho tháng tới.",
+    "tooltipFeatures": [
+      "Hiểu quy trình & lịch trống của bạn",
+      "Soạn thảo theo giọng điệu của bạn",
+      "Tự động bao gồm bước tiếp theo",
+      "Học hỏi theo thời gian"
+    ]
+  },
+  "agent": {
+    "userMessage": "Còn phê duyệt nào chưa xong trong dự án Henderson?",
+    "agentResponse": "Dựa trên chuỗi email với gia đình Henderson, còn hai mục đang chờ phê duyệt: tủ lavabo phòng tắm chính (bạn đã gửi các lựa chọn Restoration Hardware vào thứ Ba) và vải rèm phòng khách (mẫu đã giao tuần trước). Karen cũng hỏi về độ bóng sơn phòng ăn nhưng chưa phản hồi đề xuất của bạn. Bạn muốn tôi soạn thư nhắc nhở nhẹ nhàng không?",
+    "followUp": "Soạn thư nhắc nhẹ nhàng cho Karen về tủ lavabo và lựa chọn vải rèm",
+    "followUpResponse": "Xong! Tôi đã soạn thư nhắc Karen về tủ lavabo và rèm, đề cập tủ lavabo có thời gian chờ 6 tuần nên quyết định sớm sẽ giữ tiến độ dự án. Bạn xem lại và gửi nhé."
+  },
+  "testimonialsTitle": "Được các nhà thiết kế nội thất yêu thích",
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "title": "Chủ nhiệm Thiết Kế, Austin TX",
+      "quote": "Tôi có mặt tại công trường 6 giờ mỗi ngày để phối hợp thợ sơn, thợ điện và thợ lát gạch. Trong khi đó, ba khách hàng khác đang gửi email về dự án của họ. Duet soạn trả lời với chi tiết dự án chính xác — tôi chỉ việc xem lại giữa các lần đến công trường.",
+      "avatarKey": "michael"
+    },
+    {
+      "name": "Francesca D.",
+      "title": "Nhà Thiết Kế Nội Thất Nhà Ở, Chicago",
+      "quote": "Trước đây các yêu cầu khách hàng thường bị bỏ qua vài ngày vì tôi bị ngập email đặt hàng và lịch nhà thầu. Giờ Duet trả lời khách hàng mới trong vài phút với quy trình và lịch trống của tôi. Tôi đã nhận thêm 4 dự án trong quý này.",
+      "avatarKey": "francesca"
+    },
+    {
+      "name": "Johnny M.",
+      "title": "Chủ Studio Thiết Kế, Nashville",
+      "quote": "Quản lý email cho 12 dự án đang chạy làm tôi mệt mỏi. Duet phân loại tất cả — yêu cầu mới, phê duyệt chờ, đơn hàng nhà cung cấp, cập nhật nhà thầu — để tôi biết chính xác việc nào cần ưu tiên.",
+      "avatarKey": "johnny"
+    },
+    {
+      "name": "Jennifer S.",
+      "title": "Nhà Trang Trí Nội Thất, San Diego",
+      "quote": "Tôi mất khách vì không thể trả lời nhanh trong tuần thi công. Duet học quy trình tư vấn, cấu trúc giá, thậm chí cách tôi mô tả phong cách thiết kế. Khách hàng không hề biết có AI hỗ trợ.",
+      "avatarKey": "jennifer"
+    },
+    {
+      "name": "Sarah K.",
+      "title": "Nhà Thiết Kế Nội Thất Thương Mại, Denver",
+      "quote": "Giữa thời gian chờ nhà cung cấp, lịch nhà thầu và yêu cầu chỉnh sửa của khách, hộp thư tôi hỗn loạn. Duet phân loại và soạn thư nhắc nhở phê duyệt chờ. Giống như có một điều phối viên dự án không bao giờ nghỉ.",
+      "avatarKey": "sarah"
+    }
+  ],
+  "ctaHeadline": "Dành thời gian tạo ra không gian đẹp,\nkhông phải chôn vùi trong hộp thư.",
+  "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
+  "verticalFaqs": [
+    {
+      "question": "Tôi cùng lúc quản lý 8-10 dự án. Duet có thể theo dõi được không?",
+      "answer": "Có. Duet theo dõi mọi chuỗi email theo từng khách hàng và dự án. Khi bạn hỏi về bếp Henderson hay văn phòng Park Avenue, nó sẽ lấy ngữ cảnh từ tất cả các cuộc trò chuyện liên quan — đơn hàng nhà cung cấp, cập nhật nhà thầu, phê duyệt khách hàng — để trả lời luôn chính xác và cụ thể cho dự án. Không bị nhầm lẫn gạch cho khách nào."
+    },
+    {
+      "question": "Tôi phối hợp với nhiều nhà thầu và nhà cung cấp. Duet có hỗ trợ không?",
+      "answer": "Chắc chắn rồi. Duet học các liên hệ nhà thầu, đại diện nhà cung cấp và vai trò từng bên trong dự án của bạn. Khi thợ điện báo đã xong đi dây thô, Duet có thể soạn thư xác nhận bước tiếp theo hoặc thêm thợ lắp thiết bị vào cuộc trao đổi. Nó giữ cho quy trình làm việc trôi chảy ngay cả khi bạn đang ở công trường khác."
+    }
+  ],
+  "pricingNote": "Với $10,000/dự án, một khách hàng giữ lại đủ trả tiền Duet Pro nhiều năm."
+}

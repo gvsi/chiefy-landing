@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | Trợ lý Email AI cho Gmail và Outlook",
+    "description": "Trợ lý email AI của Duet Mail tóm tắt email, soạn thảo trả lời và tổ chức hộp thư đến của bạn. Hoạt động với Gmail và Outlook. Tiết kiệm hơn 4 giờ mỗi tuần."
+  },
+  "hero": {
+    "badge": "Đã có cho Gmail và Outlook",
+    "headlinePrefix": "Người ",
+    "headlineHighlight": "trợ lý giám đốc",
+    "headlineSuffix": " của bạn cho",
+    "rotatingFeatures": [
+      "phân loại email",
+      "soạn thảo trả lời",
+      "lên lịch",
+      "tìm câu trả lời"
+    ],
+    "subline": "Tiết kiệm hơn 4 giờ mỗi tuần với email",
+    "primaryCta": "Bắt đầu với Gmail",
+    "secondaryCta": "Bắt đầu với Outlook",
+    "trialNote": "Dùng thử miễn phí 14 ngày",
+    "cancelNote": "Hủy bất cứ lúc nào"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Phân loại tức thì",
+      "Trả lời AI"
+    ],
+    "windowTitle": "Hộp thư đến",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 CH",
+      "2:18 CH",
+      "10:05 SA",
+      "Hôm qua"
+    ],
+    "autodraftLabel": "Soạn tự động",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Lịch trình ra mắt sản phẩm",
+        "preview": "Chào! Muốn kiểm tra tài liệu ra mắt. Chúng ta vẫn đúng tiến độ cho tuần tới chứ...",
+        "pill": "Cần trả lời"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Họp nhanh chiều nay?",
+        "preview": "Mình muốn cập nhật tiến độ lộ trình. Bạn có rảnh khoảng 4 giờ chiều không...",
+        "pill": "Cuộc họp"
+      },
+      {
+        "from": "Marketing",
+        "avatarLetter": "M",
+        "subject": "Kết quả chiến dịch đã sẵn sàng",
+        "pill": "Thông tin"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Cửa hàng của bạn đã sẵn sàng cho Black Friday",
+        "pill": "Khuyến mãi"
+      }
+    ],
+    "autodraft": "Chào Alex! Vâng, chúng ta đang đúng tiến độ. Nhóm thiết kế đã hoàn thành tài liệu hôm qua và tôi sẽ gửi file cuối cùng trước khi kết thúc ngày hôm nay."
+  },
+  "logos": {
+    "ariaLabel": "Logo khách hàng",
+    "headingPrefix": "Được tin dùng bởi các ",
+    "headingHighlight": "chuyên gia và nhóm ",
+    "headingSuffix": " trên toàn thế giới"
+  },
+  "features": {
+    "ariaLabel": "Tính năng",
+    "eyebrow": "Hộp thư của bạn, nâng tầm",
+    "title": "Hộp thư không nên chiếm trọn ngày của bạn",
+    "subtitle": "Biến hỗn loạn thành rõ ràng với AI thực sự hiểu bạn.\nTiết kiệm hơn 3 giờ mỗi tuần với trợ lý email thông minh nhất cho Gmail và Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "Soạn email giống như bạn",
+        "description": "Trình soạn email AI của Duet chuẩn bị bản nháp cho những email quan trọng nhất. Nó học giọng điệu và phong cách viết của bạn.",
+        "ariaLabel": "Soạn email giống bạn",
+        "mockCopy": {
+          "draftedColdEmail": "Tôi đã soạn email tiếp cận cá nhân hóa cho John",
+          "sampleText": "Các pipeline AI rất cần thiết để xây dựng hệ thống AI mạnh mẽ, mở rộng và hiệu quả.",
+          "readyToSend": "Sẵn sàng gửi?",
+          "remindFollowUp": "Nhắc tôi theo dõi."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Tóm tắt & Hành động tức thì",
+        "description": "Nhận tóm tắt và các mục hành động từ nội dung email trong vài giây. Không còn phải đọc dài dòng trong hộp thư.",
+        "ariaLabel": "Tóm tắt và mục hành động tức thì",
+        "mockCopy": {
+          "sentencePrefix": "Tôi đề xuất chúng ta ",
+          "sentenceHighlight": "gặp nhau tuần tới",
+          "sentenceSuffix": " ?",
+          "actionTitle": "Mục hành động mới",
+          "actionLead": "Tôi tìm thấy các khoảng trống trong lịch của bạn",
+          "slots": [
+            "Thứ Ba, lúc 10 giờ sáng",
+            "Thứ Năm, lúc 2 giờ chiều",
+            "Thứ Sáu, 9 giờ sáng"
+          ],
+          "secondaryButton": "Tìm thêm",
+          "primaryButton": "Gửi"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Nhắc nhở thông minh",
+        "description": "Cài đặt rồi quên đi. Duet AI nhớ theo dõi khi người khác không trả lời, để không bỏ sót việc nào.",
+        "ariaLabel": "Nhắc nhở thông minh",
+        "mockCopy": {
+          "header": "Nhắc nhở thông minh AI",
+          "stats": [
+            {
+              "label": "Theo dõi",
+              "value": "12",
+              "unit": "email"
+            },
+            {
+              "label": "Cần trả lời",
+              "value": "2",
+              "unit": "email"
+            },
+            {
+              "label": "Hoàn thành",
+              "value": "3",
+              "unit": "mục hành động"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Hoàn thành nhiệm vụ viết",
+              "time": "2 ngày trước"
+            },
+            {
+              "title": "Tích hợp dự án",
+              "time": "12 giờ trước"
+            }
+          ],
+          "actions": [
+            "Theo dõi",
+            "Dời lịch?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Tập trung vào điều quan trọng",
+        "description": "Phân loại thông minh giúp bạn thấy email quan trọng nhất trước, và phân loại email theo chủ đề. Quản lý email chưa bao giờ dễ dàng đến thế.",
+        "ariaLabel": "Tập trung vào điều quan trọng",
+        "mockCopy": {
+          "analyzing": "ĐANG PHÂN TÍCH"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "Tổ chức email và phân loại hộp thư thông minh",
+    "badge": "Tổ chức",
+    "title": "Duet tổ chức hộp thư của bạn",
+    "subtitle": "Phân loại tự động lọc bớt tiếng ồn và làm nổi bật điều quan trọng. Ngay lập tức thấy việc cần xử lý, thông tin chỉ để biết, và việc có thể chờ.",
+    "windowTitle": "Hộp thư đến",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 CH",
+      "11:05 SA",
+      "9:22 SA",
+      "Hôm qua",
+      "20 Tháng 12"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "Yêu cầu xem xét ngân sách Q4",
+        "preview": "Số liệu cuối cùng đã đính kèm. Vui lòng xem xét trước khi kết thúc ngày.",
+        "pill": "Cần hành động"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Họp nhóm sáng mai lúc 10 giờ",
+        "pill": "Cuộc họp"
+      },
+      {
+        "from": "Nhóm Thiết kế",
+        "avatarLetter": "D",
+        "subject": "Hướng dẫn thương hiệu mới đã được công bố",
+        "pill": "Thông tin"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Bảng sao kê hàng tháng của bạn đã sẵn sàng",
+        "pill": "Khuyến mãi"
+      },
+      {
+        "from": "Bản tin",
+        "subject": "Tóm tắt tuần",
+        "pill": "Khuyến mãi"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "Soạn thảo email AI và tạo trả lời",
+    "badge": "Soạn thảo",
+    "title": "Duet soạn thảo theo giọng bạn",
+    "subtitle": "Duet học cách bạn viết và soạn trả lời phù hợp giọng điệu. Xem lại, chỉnh sửa nếu cần, và gửi trong vài giây.",
+    "windowTitle": "Tin nhắn mới",
+    "fieldLabels": {
+      "to": "Đến:",
+      "subject": "Chủ đề:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Họp nhanh tuần này?",
+      "originalFrom": "Alex Rivera đã viết:",
+      "originalText": "Chào! Muốn cập nhật các thay đổi lộ trình. Bạn có rảnh gọi 30 phút tuần này không? Cho tôi biết thời gian phù hợp.",
+      "badge": "Soạn tự động",
+      "lines": [
+        "Chào Alex!",
+        "Mình muốn đồng bộ về lộ trình. Mình rảnh thứ Năm 2-4 giờ chiều hoặc sáng thứ Sáu — đều được.",
+        "Cho mình biết thời gian bạn thích và mình sẽ gửi lời mời.",
+        "Cảm ơn!  "
+      ],
+      "highlightText": "Mình rảnh thứ Năm 2-4 giờ chiều hoặc sáng thứ Sáu",
+      "actions": [
+        "Gửi",
+        "Chỉnh sửa"
+      ],
+      "tooltipTitle": "Bản nháp cá nhân hóa",
+      "tooltipFeatures": [
+        "Hiểu lịch của bạn",
+        "Soạn theo giọng bạn",
+        "Hiểu ngữ cảnh qua bộ nhớ",
+        "Học theo thời gian"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "Trí tuệ email AI và trợ lý",
+    "badge": "Trí tuệ",
+    "title": "Hỏi bất cứ điều gì về email của bạn",
+    "subtitle": "Hỏi Duet tìm email, kiểm tra lịch, hoặc soạn trả lời. Nó hiểu hộp thư và trả lời ngay lập tức.",
+    "windowTitle": "Trợ lý Duet",
+    "onlineLabel": "Trực tuyến",
+    "initialUserMessage": "Bạn có thể tìm hóa đơn Stripe do Kế toán gửi không?",
+    "processingText": "Đang tìm trong hộp thư...",
+    "foundHeader": "Tìm thấy 2 email từ Stripe",
+    "foundBody": "Tôi tìm thấy biên nhận $29.00 USD từ ngày 24 tháng 10.",
+    "attachment": {
+      "fileName": "invoice_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Soạn trả lời"
+      },
+      {
+        "action": "calendar",
+        "label": "Tìm thời gian họp"
+      }
+    ],
+    "inputPlaceholder": "Hỏi bất cứ điều gì...",
+    "dynamicResponses": {
+      "processingDefault": "Đang xử lý...",
+      "processingDraft": "Đang tạo bản nháp...",
+      "processingCalendar": "Đang kiểm tra lịch...",
+      "draftIntro": "Đây là bản nháp trả lời Kế toán:",
+      "draftHeader": "Bản nháp: accounting@company.com",
+      "draftLines": [
+        "Chào Team,",
+        "Đính kèm hóa đơn Stripe tháng Mười ($29.00).",
+        "Cho tôi biết nếu cần gì thêm.",
+        "Trân trọng,"
+      ],
+      "draftActions": [
+        "Gửi Email",
+        "Chỉnh sửa"
+      ],
+      "calendarIntro": "Bạn có 3 khoảng trống ngày mai:",
+      "calendarSlots": [
+        {
+          "time": "9:30 SA",
+          "duration": "30 phút"
+        },
+        {
+          "time": "2:00 CH",
+          "duration": "30 phút"
+        },
+        {
+          "time": "4:30 CH",
+          "duration": "30 phút"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Cũng soạn trả lời luôn?",
+        "calendarAfterDraft": "Cũng lên lịch theo dõi?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Lời chứng thực",
+    "scrollingAriaLabel": "Lời chứng thực cuộn",
+    "eyebrow": "Lời chứng thực",
+    "title": "Được yêu thích bởi các chuyên gia bận rộn",
+    "subtitle": "Người thật. Thành công thật.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Freelancer",
+        "quote": "Đáng từng đồng. Thời gian tôi tiết kiệm được nhờ email trả lại giá trị gấp 10 lần chi phí Duet Mail. Không thể tưởng tượng làm việc mà không có nó.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Giám đốc bán hàng",
+        "quote": "Tóm tắt tức thì các chuỗi email dài thật kỳ diệu và rất dễ dùng. Khách hàng nghĩ tôi siêu nhân.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Doanh nhân",
+        "quote": "Tôi từng nghi ngờ AI cho email. Giờ thì như có trợ lý điều hành xuất sắc. Không thể quay lại cách cũ.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Tư vấn viên",
+        "quote": "Là tư vấn viên, từng phút đều quý giá. Duet Mail không chỉ tiết kiệm thời gian mà còn làm giao tiếp email sắc nét hơn.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "Giám đốc Marketing",
+        "quote": "Cuối cùng có trợ lý mail AI thực sự học cách tôi viết. Trả lời tức thì chính xác đến mức nhóm tôi tưởng tôi làm việc nửa đêm.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Bảng giá",
+    "eyebrow": "Bảng giá",
+    "heading": "Giá đơn giản, hộp thư mạnh mẽ",
+    "subheading": "Bắt đầu miễn phí, nâng cấp bất cứ lúc nào. Hủy dễ dàng.",
+    "billingLegend": "Chu kỳ thanh toán",
+    "billingAnnual": "Hàng năm",
+    "billingMonthly": "Hàng tháng",
+    "savingsTag": "Tiết kiệm 33%",
+    "priceCadence": "/tháng",
+    "perUserSuffix": "/người dùng",
+    "annualBillingSuffix": "(thanh toán hàng năm)",
+    "trustItems": [
+      "Thanh toán an toàn qua Stripe",
+      "Hủy bất cứ lúc nào"
+    ],
+    "plans": [
+      {
+        "name": "Cơ bản",
+        "description": "Dành cho ai tò mò muốn trải nghiệm hộp thư thông minh. Không cần cam kết.",
+        "priceLabel": "Miễn phí",
+        "features": [
+          {
+            "title": "Tóm tắt tức thì",
+            "description": "Nắm bắt nội dung nhanh chóng"
+          },
+          {
+            "title": "Soạn AI",
+            "description": "Thử trả lời theo giọng bạn"
+          },
+          {
+            "title": "Hộp thư thông minh",
+            "description": "Tổ chức cơ bản để bắt đầu"
+          },
+          {
+            "title": "Trợ lý Duet",
+            "description": "Dùng thử trợ lý AI"
+          }
+        ],
+        "ctaLabel": "Chọn Gmail hoặc Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "Dùng thử miễn phí 14 ngày",
+        "description": "Dành cho chuyên gia muốn tự động hóa sâu hơn, tích hợp và hộp thư hiểu cách bạn làm việc.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Hộp thư thông minh",
+            "description": "Email tự động phân loại thông minh",
+            "highlight": true
+          },
+          {
+            "title": "Soạn AI",
+            "description": "Trả lời viết theo giọng bạn, sẵn sàng gửi",
+            "highlight": true
+          },
+          {
+            "title": "Trợ lý Duet",
+            "description": "Chat để tìm, soạn, tổ chức & hơn thế nữa",
+            "highlight": true
+          },
+          {
+            "title": "Tích hợp Lịch",
+            "description": "Lên lịch, xem & quản lý sự kiện từ hộp thư"
+          },
+          {
+            "title": "Tóm tắt tức thì",
+            "description": "Nắm bắt nội dung chuỗi hoặc tệp đính kèm"
+          },
+          {
+            "title": "Nhắc nhở thông minh",
+            "description": "Theo dõi tự động để không bỏ sót"
+          },
+          {
+            "title": "Hỗ trợ ưu tiên",
+            "description": "Con người thật, phản hồi nhanh"
+          }
+        ],
+        "ctaLabel": "Chọn Gmail hoặc Outlook",
+        "featured": true
+      },
+      {
+        "name": "Doanh nghiệp",
+        "description": "Dành cho tổ chức cần quy mô doanh nghiệp, hỗ trợ riêng và quy trình tùy chỉnh. Tốt nhất cho nhóm 50+ người.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Tất cả trong Pro",
+            "description": "Bao gồm mọi tính năng"
+          },
+          {
+            "title": "Hỗ trợ riêng",
+            "description": "Quản lý tài khoản cá nhân"
+          },
+          {
+            "title": "Phân tích nhóm",
+            "description": "Thông tin tổng quan tổ chức"
+          },
+          {
+            "title": "Quy trình chia sẻ",
+            "description": "Mẫu & tự động hóa cho nhóm"
+          }
+        ],
+        "ctaLabel": "Liên hệ bán hàng",
+        "ctaNote": "Có giá tùy chỉnh"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Câu hỏi thường gặp",
+    "eyebrow": "FAQ",
+    "headingPrefix": "Câu hỏi phổ biến, ",
+    "headingAccent": "đã trả lời",
+    "contactDecorative": "?",
+    "contactLabel": "LIÊN HỆ",
+    "contactHeading": "Vẫn còn thắc mắc?",
+    "contactCta": "Liên hệ →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "FAQ",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Duet Mail bảo vệ dữ liệu email của tôi như thế nào?",
+        "answer": "Bảo mật của bạn là ưu tiên hàng đầu. Chúng tôi sử dụng OAuth 2.0 để xác thực an toàn với Google và Microsoft. Nội dung email được mã hóa khi lưu trữ bằng mã hóa cấp trường phía client, và chúng tôi tuân thủ nguyên tắc quyền truy cập tối thiểu cho API. Với tích hợp Google, chúng tôi trải qua đánh giá bảo mật CASA hàng năm của Google."
+      },
+      {
+        "question": "Tính năng tóm tắt email hoạt động ra sao?",
+        "answer": "Duet Mail sử dụng AI tiên tiến để phân tích chuỗi email và tạo bản tóm tắt ngắn gọn, làm nổi bật điểm chính, quyết định và mục hành động. Giúp bạn nhanh chóng hiểu bối cảnh mà không cần đọc toàn bộ chuỗi."
+      },
+      {
+        "question": "Duet Mail cần những quyền gì?",
+        "answer": "Duet Mail cần truy cập email của bạn để cung cấp tóm tắt, trích xuất mục hành động, tạo nội dung và gửi email. Chúng tôi chỉ yêu cầu quyền cần thiết. Bạn có thể xem và thu hồi quyền bất cứ lúc nào trong cài đặt Tài khoản Google hoặc Microsoft."
+      },
+      {
+        "question": "Dùng thử miễn phí bao gồm gì?",
+        "answer": "Dùng thử miễn phí 14 ngày bao gồm truy cập đầy đủ các tính năng Pro: tóm tắt email không giới hạn, trích xuất mục hành động, trình soạn email AI (tạo email và bản nháp không giới hạn), và mẫu email tùy chỉnh. Đăng nhập bằng Google hoặc Microsoft để bắt đầu tiết kiệm thời gian quản lý email."
+      },
+      {
+        "question": "Tôi có thể dùng Duet Mail với nhà cung cấp email khác không?",
+        "answer": "Duet Mail hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Bắt đầu",
+    "headline": "Lấy lại 4 giờ.\nMỗi tuần.",
+    "subline": "Tham gia cùng các chuyên gia bắt đầu ngày mới với sự rõ ràng, không hỗn loạn. Dùng thử miễn phí đang chờ bạn.",
+    "primaryCta": "Bắt đầu với Gmail",
+    "secondaryCta": "Bắt đầu với Outlook",
+    "note": "Dùng thử miễn phí 14 ngày · Hủy bất cứ lúc nào",
+    "trustItems": [
+      "Được Google CASA đánh giá",
+      "Mã hóa khi lưu trữ",
+      "OAuth 2.0 an toàn"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "Chân trang",
+    "brandIconAlt": "Biểu tượng Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Trợ lý Email AI giúp bạn tiết kiệm hàng giờ mỗi tuần",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Khám phá",
+        "links": [
+          {
+            "label": "Tổ chức",
+            "href": "/vi#organization"
+          },
+          {
+            "label": "Soạn thảo",
+            "href": "/vi#drafting"
+          },
+          {
+            "label": "Trí tuệ",
+            "href": "/vi#intelligence"
+          },
+          {
+            "label": "Tiện ích Chrome",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Khách hàng",
+        "links": [
+          {
+            "label": "Bảng giá",
+            "href": "/vi#pricing"
+          },
+          {
+            "label": "Lời chứng thực",
+            "href": "/vi#testimonials"
+          },
+          {
+            "label": "FAQ",
+            "href": "/vi#faq"
+          }
+        ]
+      },
+      {
+        "title": "Pháp lý",
+        "links": [
+          {
+            "label": "Quyền riêng tư",
+            "href": "/vi/privacy"
+          },
+          {
+            "label": "Điều khoản",
+            "href": "/vi/terms"
+          },
+          {
+            "label": "Cookie",
+            "href": "/vi/cookies"
+          },
+          {
+            "label": "Tuyên bố từ chối",
+            "href": "/vi/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Kết nối",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "/vi/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Startup Fame",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Lợi tức đầu tư",
+    "label": "Phép tính",
+    "narrativeTemplate": "Ở mức {pricePerBooking} cho mỗi {bookingUnit}, mất chỉ {lostPerMonth} do trả lời chậm =",
+    "lossSuffix": "/tháng mất",
+    "dividerLabel": "so với",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/tháng"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Trợ lý Email AI cho Gmail và Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Hỗ trợ khách hàng",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "Trợ lý email AI cho Gmail và Outlook tự động tóm tắt email, soạn trả lời theo giọng bạn và tổ chức hộp thư giúp tiết kiệm hàng giờ mỗi tuần.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Tổ chức và phân loại email thông minh",
+      "Soạn email AI theo giọng bạn",
+      "Trợ lý email thông minh tích hợp lịch",
+      "Tóm tắt email và mục hành động tự động",
+      "Nhắc nhở thông minh cho theo dõi"
+    ],
+    "offers": [
+      {
+        "name": "Gói Cơ bản",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Gói miễn phí với tóm tắt tức thì, soạn AI và hộp thư thông minh"
+      },
+      {
+        "name": "Gói Pro",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Truy cập đầy đủ với phân loại hộp thư thông minh, soạn AI, trợ lý và tích hợp lịch"
+      }
+    ],
+    "operatingSystem": "Web",
+    "browserRequirements": "Yêu cầu JavaScript. Hoạt động với Gmail, Google Workspace và Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/vi",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Duet Mail bảo vệ dữ liệu email của tôi như thế nào?",
+        "answer": "Bảo mật của bạn là ưu tiên hàng đầu. Chúng tôi sử dụng OAuth 2.0 để xác thực an toàn với Google và Microsoft. Nội dung email được mã hóa khi lưu trữ bằng mã hóa cấp trường phía client, và chúng tôi tuân thủ nguyên tắc quyền truy cập tối thiểu cho API. Với tích hợp Google, chúng tôi trải qua đánh giá bảo mật CASA hàng năm của Google."
+      },
+      {
+        "question": "Tính năng tóm tắt email hoạt động ra sao?",
+        "answer": "Duet Mail sử dụng AI tiên tiến để phân tích chuỗi email và tạo bản tóm tắt ngắn gọn, làm nổi bật điểm chính, quyết định và mục hành động. Giúp bạn nhanh chóng hiểu bối cảnh mà không cần đọc toàn bộ chuỗi."
+      },
+      {
+        "question": "Duet Mail cần những quyền gì?",
+        "answer": "Duet Mail cần truy cập email của bạn để cung cấp tóm tắt, trích xuất mục hành động, tạo nội dung và gửi email. Chúng tôi chỉ yêu cầu quyền cần thiết. Bạn có thể xem và thu hồi quyền bất cứ lúc nào trong cài đặt Tài khoản Google hoặc Microsoft."
+      },
+      {
+        "question": "Dùng thử miễn phí bao gồm gì?",
+        "answer": "Dùng thử miễn phí 14 ngày bao gồm truy cập đầy đủ các tính năng Pro: tóm tắt email không giới hạn, trích xuất mục hành động, trình soạn email AI (tạo email và bản nháp không giới hạn), và mẫu email tùy chỉnh. Đăng nhập bằng Google hoặc Microsoft để bắt đầu tiết kiệm thời gian quản lý email."
+      },
+      {
+        "question": "Tôi có thể dùng Duet Mail với nhà cung cấp email khác không?",
+        "answer": "Duet Mail hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
+      }
+    ]
+  }
+}

@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "title": "Duet Mail | Msaidizi wa Barua pepe wa AI kwa Gmail na Outlook",
+    "description": "Msaidizi wa barua pepe wa AI wa Duet Mail hufanya muhtasari wa barua pepe, majibu ya rasimu, na kupanga kisanduku pokezi chako. Inafanya kazi na Gmail na Outlook. Okoa saa 4+ kila wiki."
+  },
+  "hero": {
+    "badge": "Sasa inapatikana kwa Gmail na Outlook",
+    "headlinePrefix": "Wako ",
+    "headlineHighlight": "mkuu wa wafanyakazi",
+    "headlineSuffix": " kwa",
+    "rotatingFeatures": [
+      "barua pepe ya kupanga",
+      "kuandaa majibu",
+      "kupanga ratiba",
+      "kutafuta majibu"
+    ],
+    "subline": "Okoa saa 4+ kila wiki kwenye barua pepe",
+    "primaryCta": "Anza na Gmail",
+    "secondaryCta": "Anza na Outlook",
+    "trialNote": "Jaribio la bure la siku 14",
+    "cancelNote": "Ghairi wakati wowote"
+  },
+  "inboxHeroMockup": {
+    "ariaHidden": true,
+    "callouts": [
+      "Uainishaji wa papo hapo",
+      "Majibu yanayoendeshwa na AI"
+    ],
+    "windowTitle": "Kikasha",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "3:42 PM",
+      "2:18 PM",
+      "10:05 AM",
+      "Jana"
+    ],
+    "autodraftLabel": "Rasimu otomatiki",
+    "emails": [
+      {
+        "from": "Alex Rivera",
+        "avatarLetter": "A",
+        "subject": "Re: Rekodi ya Uzinduzi wa Bidhaa",
+        "preview": "Habari! Nilitaka kuangalia mali ya uzinduzi. Je, bado tuko kwenye mstari kwa wiki ijayo...",
+        "pill": "Ili Kujibu"
+      },
+      {
+        "from": "Emma Park",
+        "avatarLetter": "E",
+        "subject": "Usawazishaji wa haraka leo mchana?",
+        "preview": "Ningependa kupata masasisho ya ramani ya barabara. Uko huru saa kumi jioni...",
+        "pill": "Mkutano"
+      },
+      {
+        "from": "Marketing",
+        "avatarLetter": "M",
+        "subject": "Matokeo ya Kampeni Yako Tayari",
+        "pill": "FYI"
+      },
+      {
+        "from": "Shopify",
+        "avatarLetter": "S",
+        "subject": "Duka lako liko tayari kwa Ijumaa Nyeusi",
+        "pill": "Matangazo"
+      }
+    ],
+    "autodraft": "Habari Alex! Ndiyo, tuko kwenye mstari. Timu ya usanifu ilimaliza vipengee jana na nitatuma faili za mwisho kufikia EOD leo."
+  },
+  "logos": {
+    "ariaLabel": "Nembo za mteja",
+    "headingPrefix": "Inaaminika kwa kutazama mbele",
+    "headingHighlight": " wataalamu na timu ",
+    "headingSuffix": "duniani kote"
+  },
+  "features": {
+    "ariaLabel": "Vipengele",
+    "eyebrow": "Kikasha chako, Chaji Zaidi",
+    "title": "Kikasha chako hakipaswi kumiliki siku yako",
+    "subtitle": "Badilisha machafuko kuwa uwazi na AI ambayo inakupata.\nOkoa saa 3+ kila wiki ukitumia kiratibu mahiri zaidi cha barua pepe cha Gmail na Outlook.",
+    "cards": [
+      {
+        "id": "drafts",
+        "title": "Tuma rasimu za barua pepe zinazosikika kama Wewe",
+        "description": "Mwandishi wa barua pepe wa Duet AI huandaa rasimu za barua pepe zako muhimu zaidi. Inajifunza sauti yako na mitindo ya uandishi.",
+        "ariaLabel": "Tuma rasimu za barua pepe zinazosikika kama wewe",
+        "mockCopy": {
+          "draftedColdEmail": "Niliandika barua pepe baridi iliyobinafsishwa kwa ajili ya John",
+          "sampleText": "Mabomba ya AI ni muhimu kwa ajili ya kujenga mifumo thabiti ya AI, inayoweza kupanuka na yenye ufanisi.",
+          "readyToSend": "Je, uko tayari kutuma?",
+          "remindFollowUp": "Nikumbushe kufuatilia."
+        }
+      },
+      {
+        "id": "summaries",
+        "title": "Muhtasari wa Papo Hapo na Vipengee vya Kushughulikia",
+        "description": "Pata TL;DR na vipengee vya kushughulikia kutoka kwa yaliyomo kwenye barua pepe yako kwa sekunde. Hakuna tena kusoma riwaya katika kikasha chako.",
+        "ariaLabel": "Muhtasari wa papo hapo na vipengee vya kushughulikia",
+        "mockCopy": {
+          "sentencePrefix": "Napendekeza sisi ",
+          "sentenceHighlight": "tukutane wiki ijayo",
+          "sentenceSuffix": " ?",
+          "actionTitle": "Kipengele Kipya cha Kitendo",
+          "actionLead": "Nimepata nafasi hizi za bure kwenye kalenda yako",
+          "slots": [
+            "Jumanne, saa 10 asubuhi",
+            "Alhamisi, saa 2 usiku",
+            "Ijumaa, 9am"
+          ],
+          "secondaryButton": "Tafuta zaidi",
+          "primaryButton": "Tuma"
+        }
+      },
+      {
+        "id": "reminders",
+        "title": "Vikumbusho vya Akili",
+        "description": "Weka na uisahau. Duet AI inakumbuka kufuatilia wakati wengine hawajibu, kwa hivyo hakuna kitu kinachoanguka kupitia nyufa.",
+        "ariaLabel": "Vikumbusho vya akili",
+        "mockCopy": {
+          "header": "Vikumbusho Mahiri vinavyoendeshwa na AI",
+          "stats": [
+            {
+              "label": "Ufuatiliaji",
+              "value": "12",
+              "unit": "barua pepe"
+            },
+            {
+              "label": "Kujibu",
+              "value": "2",
+              "unit": "barua pepe"
+            },
+            {
+              "label": "Imekamilika",
+              "value": "3",
+              "unit": "vitu vya vitendo"
+            }
+          ],
+          "reminders": [
+            {
+              "title": "Kamilisha kazi za uandishi",
+              "time": "siku 2 zilizopita"
+            },
+            {
+              "title": "Ujumuishaji wa Mradi",
+              "time": "saa 12 zilizopita"
+            }
+          ],
+          "actions": [
+            "Fuata",
+            "Je, ungependa kupanga upya?"
+          ]
+        }
+      },
+      {
+        "id": "focus",
+        "title": "Zingatia Mambo Yanayohusu",
+        "description": "Uainishaji mahiri huonyesha barua pepe zako muhimu zaidi kwanza, na hupanga barua pepe katika mada. Usimamizi wa Barua Pepe haijawahi kuwa rahisi.",
+        "ariaLabel": "Zingatia mambo muhimu",
+        "mockCopy": {
+          "analyzing": "UCHAMBUZI"
+        }
+      }
+    ]
+  },
+  "categorizationShowcase": {
+    "ariaLabel": "Kupanga barua pepe na uainishaji mahiri wa kikasha pokezi",
+    "badge": "Shirika",
+    "title": "Duet hupanga kikasha chako",
+    "subtitle": "Uainishaji kiotomatiki huchuja kelele na kuibua mambo muhimu. Ona papo hapo kinachohitaji hatua, ni nini FYI pekee, na kinachoweza kusubiri.",
+    "windowTitle": "Kikasha",
+    "providers": [
+      "Gmail",
+      "Outlook"
+    ],
+    "emailTimes": [
+      "2:34 PM",
+      "11:05 AM",
+      "9:22 AM",
+      "Jana",
+      "20 Des"
+    ],
+    "emails": [
+      {
+        "from": "Sarah Chen",
+        "avatarLetter": "S",
+        "subject": "Ombi la Mapitio ya Bajeti ya Q4",
+        "preview": "Nambari zilizokamilishwa zimeambatanishwa. Tafadhali kagua na EOD.",
+        "pill": "Hatua Inahitajika"
+      },
+      {
+        "from": "Michael Torres",
+        "avatarLetter": "M",
+        "subject": "Timu kusimama kesho saa 10 asubuhi",
+        "pill": "Mkutano"
+      },
+      {
+        "from": "Design Team",
+        "avatarLetter": "D",
+        "subject": "Miongozo mpya ya chapa iliyochapishwa",
+        "pill": "FYI"
+      },
+      {
+        "from": "Stripe",
+        "subject": "Taarifa yako ya kila mwezi iko tayari",
+        "pill": "Matangazo"
+      },
+      {
+        "from": "Newsletter",
+        "subject": "Digest ya kila wiki",
+        "pill": "Matangazo"
+      }
+    ]
+  },
+  "draftShowcase": {
+    "ariaLabel": "Kutayarisha barua pepe ya AI na kutengeneza majibu",
+    "badge": "Kuandika",
+    "title": "Duet rasimu katika sauti yako",
+    "subtitle": "Duet hujifunza jinsi unavyoandika na kuandaa majibu yanayolingana na sauti yako. Kagua, rekebisha ikihitajika, na utume kwa sekunde.",
+    "windowTitle": "Ujumbe Mpya",
+    "fieldLabels": {
+      "to": "To:",
+      "subject": "Mada:"
+    },
+    "draft": {
+      "to": "alex.rivera@techcorp.io",
+      "subject": "Re: Usawazishaji wa haraka wiki hii?",
+      "originalFrom": "Alex Rivera aliandika:",
+      "originalText": "Habari! Ningependa kupata mabadiliko ya ramani ya barabara. Je, uko bila malipo kwa simu ya dakika 30 wiki hii? Nijulishe kinachofaa kwako.",
+      "badge": "Imeandaliwa kiotomatiki",
+      "lines": [
+        "Habari Alex!",
+        "Ningependa kusawazisha kwenye ramani ya barabara. Sina malipo Alhamisi 2-4pm au Ijumaa asubuhi - ama inanifanyia kazi vyema.",
+        "Nijulishe kinachokufaa zaidi na nitatuma mwaliko.",
+        "Asante!  "
+      ],
+      "highlightText": "Sina malipo Alhamisi 2-4pm au Ijumaa asubuhi",
+      "actions": [
+        "Tuma",
+        "Hariri"
+      ],
+      "tooltipTitle": "Rasimu Iliyobinafsishwa",
+      "tooltipFeatures": [
+        "Anajua kalenda yako",
+        "Rasimu katika sauti yako",
+        "Anajua muktadha kupitia kumbukumbu",
+        "Anajifunza kwa muda"
+      ]
+    }
+  },
+  "agentChatShowcase": {
+    "ariaLabel": "AI email akili na msaidizi",
+    "badge": "Akili",
+    "title": "Uliza chochote kuhusu barua pepe yako",
+    "subtitle": "Uliza Duet itafute barua pepe, angalia kalenda yako au uandike jibu. Inaelewa kikasha chako na majibu papo hapo.",
+    "windowTitle": "Wakala wa Duet",
+    "onlineLabel": "Mtandaoni",
+    "initialUserMessage": "Je, unaweza kupata ankara ya Stripe iliyotumwa na Uhasibu?",
+    "processingText": "Inatafuta kikasha...",
+    "foundHeader": "Imepata barua pepe 2 kutoka kwa Stripe",
+    "foundBody": "Nilipata risiti ya $29.00 USD kuanzia tarehe 24 Oktoba.",
+    "attachment": {
+      "fileName": "ankara_oct24.pdf",
+      "fileSize": "142 KB"
+    },
+    "suggestions": [
+      {
+        "action": "draft",
+        "label": "Rasimu ya jibu"
+      },
+      {
+        "action": "calendar",
+        "label": "Tafuta muda wa kukutana"
+      }
+    ],
+    "inputPlaceholder": "Uliza chochote...",
+    "dynamicResponses": {
+      "processingDefault": "Inachakata...",
+      "processingDraft": "Inazalisha rasimu...",
+      "processingCalendar": "Inakagua upatikanaji...",
+      "draftIntro": "Hapa kuna rasimu ya jibu kwa Uhasibu:",
+      "draftHeader": "Rasimu: accounting@company.com",
+      "draftLines": [
+        "Habari Timu,",
+        "Tafadhali tafuta ankara ya Stripe iliyoambatishwa ya Oktoba ($29.00).",
+        "Nijulishe ikiwa unahitaji kitu kingine chochote.",
+        "Bora zaidi,"
+      ],
+      "draftActions": [
+        "Tuma Barua Pepe",
+        "Hariri"
+      ],
+      "calendarIntro": "Una nafasi 3 zilizofunguliwa kesho:",
+      "calendarSlots": [
+        {
+          "time": "9:30 AM",
+          "duration": "Dakika 30"
+        },
+        {
+          "time": "2:00 Usiku",
+          "duration": "Dakika 30"
+        },
+        {
+          "time": "4:30 PM",
+          "duration": "Dakika 30"
+        }
+      ],
+      "followUps": {
+        "draftAfterCalendar": "Pia andika jibu?",
+        "calendarAfterDraft": "Je, ungependa kupanga ufuatiliaji?"
+      }
+    }
+  },
+  "testimonials": {
+    "ariaLabel": "Ushuhuda",
+    "scrollingAriaLabel": "Kusogeza ushuhuda",
+    "eyebrow": "Ushuhuda",
+    "title": "Inapendwa na wataalamu wenye shughuli nyingi",
+    "subtitle": "Watu halisi. Inbox halisi imeshinda.",
+    "items": [
+      {
+        "name": "Francesca T.",
+        "title": "Mfanyakazi huru",
+        "quote": "Inastahili kila senti. Muda ninaohifadhi kwenye barua pepe hulipia Duet Mail 10x zaidi. Siwezi kufikiria kufanya kazi bila hiyo sasa.",
+        "logoName": "Airtable",
+        "avatarKey": "francesca"
+      },
+      {
+        "name": "Michael R.",
+        "title": "Mtendaji wa mauzo",
+        "quote": "Muhtasari wa papo hapo wa nyuzi ndefu za barua pepe ni uchawi mtupu, na kwa hivyo ni rahisi kwa watumiaji. Wateja wangu wanadhani mimi ni mtu wa juu kuliko binadamu.",
+        "logoName": "Upwork",
+        "avatarKey": "michael"
+      },
+      {
+        "name": "Johnny S.",
+        "title": "Mjasiriamali",
+        "quote": "Nilikuwa na shaka na matumizi ya akili bandia kwa barua pepe zangu. Sasa, ni kama kuwa na msaidizi mkuu mahiri. Siwezi kufikiria kurudi nyuma.",
+        "logoName": "Fiverr",
+        "avatarKey": "johnny"
+      },
+      {
+        "name": "Jennifer L.",
+        "title": "Mshauri",
+        "quote": "Kama mshauri, kila dakika ni muhimu. Duet Mail hainiokoi wakati tu—hufanya mawasiliano yangu ya barua pepe kuwa makali zaidi.",
+        "logoName": "Ahrefs",
+        "avatarKey": "jennifer"
+      },
+      {
+        "name": "Sarah T.",
+        "title": "Mkurugenzi wa Masoko",
+        "quote": "Mwishowe, msaidizi wa barua wa AI ambaye hujifunza jinsi ninavyoandika. Majibu ya papo hapo ni ya moja kwa moja, timu yangu ilifikiri nilikuwa nikifanya kazi usiku wa manane.",
+        "logoName": "Wise",
+        "avatarKey": "sarah"
+      }
+    ]
+  },
+  "pricing": {
+    "ariaLabel": "Bei",
+    "eyebrow": "Bei",
+    "heading": "Bei rahisi, kikasha chenye nguvu",
+    "subheading": "Anza bila malipo, pata toleo jipya la wakati wowote. Ghairi wakati wowote.",
+    "billingLegend": "Upungufu wa bili",
+    "billingAnnual": "Mwaka",
+    "billingMonthly": "Kila mwezi",
+    "savingsTag": "Okoa 33%",
+    "priceCadence": "/mwezi",
+    "perUserSuffix": "/mtumiaji",
+    "annualBillingSuffix": "(hutozwa kila mwaka)",
+    "trustItems": [
+      "Malipo salama kupitia Stripe",
+      "Ghairi wakati wowote"
+    ],
+    "plans": [
+      {
+        "name": "Msingi",
+        "description": "Kwa yeyote anayetaka kujua jinsi kikasha bora zaidi kinavyohisi. Hakuna ahadi inayohitajika.",
+        "priceLabel": "Bila malipo",
+        "features": [
+          {
+            "title": "Muhtasari wa Papo Hapo",
+            "description": "Pata maelezo ya thread yoyote"
+          },
+          {
+            "title": "Rasimu za AI",
+            "description": "Ladha ya majibu katika sauti yako"
+          },
+          {
+            "title": "Kikasha mahiri",
+            "description": "Shirika la msingi la kuanza"
+          },
+          {
+            "title": "Msaidizi wa Duet",
+            "description": "Jaribu msaidizi wa AI"
+          }
+        ],
+        "ctaLabel": "Chagua Gmail au Outlook"
+      },
+      {
+        "name": "Pro",
+        "badge": "Jaribio la bure la siku 14",
+        "description": "Kwa wataalamu wanaotaka uwekaji kiotomatiki, miunganisho na kikasha ambacho kinajua kikamilifu jinsi unavyofanya kazi.",
+        "priceByBilling": {
+          "annual": "19.99",
+          "monthly": "29.99"
+        },
+        "features": [
+          {
+            "title": "Kikasha mahiri",
+            "description": "Barua pepe zimepangwa kiotomatiki katika kategoria mahiri",
+            "highlight": true
+          },
+          {
+            "title": "Rasimu za AI",
+            "description": "Majibu yaliyoandikwa kwa sauti yako, tayari kutumwa",
+            "highlight": true
+          },
+          {
+            "title": "Msaidizi wa Duet",
+            "description": "Piga gumzo ili kupata, kuandika, kupanga na zaidi",
+            "highlight": true
+          },
+          {
+            "title": "Ujumuishaji wa Kalenda",
+            "description": "Ratibu, tazama na udhibiti matukio kutoka kwa kikasha chako"
+          },
+          {
+            "title": "Muhtasari wa Papo Hapo",
+            "description": "Pata muhtasari wa uzi au kiambatisho chochote"
+          },
+          {
+            "title": "Vikumbusho Mahiri",
+            "description": "Ufuatiliaji hujidhihirisha kiotomatiki ili hakuna kitu kinachoteleza"
+          },
+          {
+            "title": "Msaada wa Kipaumbele",
+            "description": "Wanadamu halisi, majibu ya haraka"
+          }
+        ],
+        "ctaLabel": "Chagua Gmail au Outlook",
+        "featured": true
+      },
+      {
+        "name": "Biashara",
+        "description": "Kwa mashirika ambayo yanahitaji kiwango cha kiwango cha biashara, usaidizi uliojitolea, na mtiririko maalum wa kazi. Bora kwa timu za 50+.",
+        "priceByBilling": {
+          "annual": "49.99",
+          "monthly": "69.99"
+        },
+        "perUser": true,
+        "features": [
+          {
+            "title": "Kila kitu katika Pro",
+            "description": "Vipengele vyote pamoja"
+          },
+          {
+            "title": "Msaada wa kujitolea",
+            "description": "Msimamizi wa akaunti ya kibinafsi"
+          },
+          {
+            "title": "Uchanganuzi wa Timu",
+            "description": "Maarifa kote shirika lako"
+          },
+          {
+            "title": "Mitiririko ya Kazi iliyoshirikiwa",
+            "description": "Violezo na otomatiki kwa timu"
+          }
+        ],
+        "ctaLabel": "Wasiliana na mauzo",
+        "ctaNote": "Bei maalum inapatikana"
+      }
+    ]
+  },
+  "faq": {
+    "ariaLabel": "Maswali yanayoulizwa mara kwa mara",
+    "eyebrow": "Maswali Yanayoulizwa Mara kwa Mara",
+    "headingPrefix": "Maswali ya kawaida, ",
+    "headingAccent": "akajibu",
+    "contactDecorative": "?",
+    "contactLabel": "WASILIANA NA",
+    "contactHeading": "Bado una maswali?",
+    "contactCta": "Wasiliana →",
+    "footerBrand": "DUET MAIL",
+    "footerLabel": "Maswali Yanayoulizwa Mara kwa Mara",
+    "expandLabel": "[+]",
+    "collapseLabel": "[−]",
+    "answerMarker": "→",
+    "items": [
+      {
+        "question": "Je, Duet Mail inalindaje data yangu ya barua pepe?",
+        "answer": "Usalama wako ndio kipaumbele chetu kikuu. Tunatumia OAuth 2.0 kwa uthibitishaji salama na Google na Microsoft. Maudhui ya barua pepe husimbwa kwa njia fiche wakati wa mapumziko kwa kutumia usimbaji wa kiwango cha uga wa mteja, na tunafuata kanuni ya fursa ndogo zaidi ya ufikiaji wa API. Kwa muunganisho wetu wa Google, tunapitia tathmini ya usalama ya CASA ya kila mwaka ya Google."
+      },
+      {
+        "question": "Je, kipengele cha muhtasari wa barua pepe hufanya kazi vipi?",
+        "answer": "Duet Mail hutumia AI ya hali ya juu kuchanganua maandishi yako ya barua pepe na kutoa muhtasari mfupi unaoangazia mambo muhimu, maamuzi na vipengee vya kushughulikia. Hii hukusaidia kuelewa kwa haraka muktadha bila kusoma thread nzima."
+      },
+      {
+        "question": "Duet Mail inahitaji ruhusa gani?",
+        "answer": "Duet Mail inahitaji ufikiaji wa barua pepe zako ili kutoa muhtasari, kutoa vitu vya kushughulikia, kutoa maudhui na kutuma barua pepe zako. Tunaomba tu ruhusa tunazohitaji kabisa. Unaweza kukagua na kubatilisha ruhusa hizi wakati wowote katika Akaunti yako ya Google au mipangilio ya Akaunti ya Microsoft."
+      },
+      {
+        "question": "Je, ni nini kimejumuishwa katika jaribio lisilolipishwa?",
+        "answer": "Jaribio lisilolipishwa la siku 14 linajumuisha ufikiaji kamili wa vipengele vyote vya Pro: muhtasari wa barua pepe usio na kikomo, uchimbaji wa kipengee cha kushughulikia, mwandishi wa barua pepe wa AI (kutengeneza barua pepe na rasimu bila kikomo chochote), na violezo maalum vya barua pepe. Ingia ukitumia Google au Microsoft ili kuanza kuokoa muda kwenye usimamizi wa barua pepe."
+      },
+      {
+        "question": "Je, ninaweza kutumia Duet Mail na watoa huduma wengine wa barua pepe?",
+        "answer": "Duet Mail inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
+      }
+    ]
+  },
+  "finalCta": {
+    "ariaLabel": "Anza",
+    "headline": "Pata saa 4 nyuma.\nKila wiki.",
+    "subline": "Jiunge na wataalamu wanaoanza siku yao kwa uwazi, sio fujo. Jaribio lako la bila malipo linasubiri.",
+    "primaryCta": "Anza na Gmail",
+    "secondaryCta": "Anza na Outlook",
+    "note": "Jaribio lisilolipishwa la siku 14 · Ghairi wakati wowote",
+    "trustItems": [
+      "Google CASA-tathmini",
+      "Imesimbwa kwa njia fiche wakati wa mapumziko",
+      "Salama OAuth 2.0"
+    ]
+  },
+  "footer": {
+    "ariaLabel": "kijachini cha tovuti",
+    "brandIconAlt": "Ikoni ya Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail - Msaidizi wa Barua pepe wa AI ambao hukuokoa saa kila wiki",
+    "copyrightTemplate": "Duet Mail © {year}",
+    "groups": [
+      {
+        "title": "Chunguza",
+        "links": [
+          {
+            "label": "Shirika",
+            "href": "/sw#organization"
+          },
+          {
+            "label": "Kuandika",
+            "href": "/sw#drafting"
+          },
+          {
+            "label": "Akili",
+            "href": "/sw#intelligence"
+          },
+          {
+            "label": "Kiendelezi cha Chrome",
+            "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+            "external": true
+          }
+        ]
+      },
+      {
+        "title": "Wateja",
+        "links": [
+          {
+            "label": "Bei",
+            "href": "/sw#pricing"
+          },
+          {
+            "label": "Ushuhuda",
+            "href": "/sw#testimonials"
+          },
+          {
+            "label": "Maswali Yanayoulizwa Mara kwa Mara",
+            "href": "/sw#faq"
+          }
+        ]
+      },
+      {
+        "title": "Kisheria",
+        "links": [
+          {
+            "label": "Faragha",
+            "href": "/sw/privacy"
+          },
+          {
+            "label": "Masharti",
+            "href": "/sw/terms"
+          },
+          {
+            "label": "Vidakuzi",
+            "href": "/sw/cookies"
+          },
+          {
+            "label": "Kanusho",
+            "href": "/sw/disclaimer"
+          }
+        ]
+      },
+      {
+        "title": "Unganisha",
+        "links": [
+          {
+            "label": "Blogu",
+            "href": "/sw/blog"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/company/duetmail",
+            "external": true
+          },
+          {
+            "label": "X",
+            "href": "https://x.com/DuetMailApp",
+            "external": true
+          },
+          {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/duetmail/",
+            "external": true
+          },
+          {
+            "label": "Umaarufu wa Kuanzisha",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "external": true
+          }
+        ]
+      }
+    ]
+  },
+  "math": {
+    "ariaLabel": "Kurudi kwenye uwekezaji",
+    "label": "Hisabati",
+    "narrativeTemplate": "Kwa {pricePerBooking} kwa {bookingUnit}, ikipoteza tu {lostPerMonth} kutoa majibu polepole =",
+    "lossSuffix": "/mwezi zimepotea",
+    "dividerLabel": "dhidi ya",
+    "duetLabel": "Duet",
+    "duetPrice": "$30/mo"
+  },
+  "jsonLd": {
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Msaidizi wa Barua pepe wa AI kwa Gmail na Outlook",
+    "organizationName": "Duet Mail",
+    "organizationContactType": "Usaidizi wa Wateja",
+    "softwareName": "Duet Mail",
+    "softwareDescription": "Msaidizi wa barua pepe wa AI wa Gmail na Outlook ambao hufanya muhtasari wa barua pepe kiotomatiki, kutayarisha majibu kwa sauti yako, na kupanga kisanduku pokezi chako ili kuokoa saa kila wiki.",
+    "applicationCategory": "CommunicationApplication",
+    "featureList": [
+      "Shirika mahiri la barua pepe na uainishaji",
+      "Uandishi wa barua pepe unaoendeshwa na AI katika sauti yako",
+      "Msaidizi wa barua pepe mwenye akili na muunganisho wa kalenda",
+      "Muhtasari wa barua pepe otomatiki na vipengee vya kushughulikia",
+      "Vikumbusho mahiri kwa ufuatiliaji"
+    ],
+    "offers": [
+      {
+        "name": "Mpango wa Msingi",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Mpango usiolipishwa na muhtasari wa papo hapo, rasimu za AI na kikasha mahiri"
+      },
+      {
+        "name": "Mpango wa Pro",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "unitText": "MONTH",
+        "description": "Ufikiaji kamili kwa uainishaji mahiri wa kikasha pokezi, rasimu za AI, mratibu na muunganisho wa kalenda"
+      }
+    ],
+    "operatingSystem": "Mtandao",
+    "browserRequirements": "Inahitaji JavaScript. Inafanya kazi na Gmail, Google Workspace, na Microsoft Outlook.",
+    "urls": {
+      "site": "https://duetmail.com/sw",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Je, Duet Mail inalindaje data yangu ya barua pepe?",
+        "answer": "Usalama wako ndio kipaumbele chetu kikuu. Tunatumia OAuth 2.0 kwa uthibitishaji salama na Google na Microsoft. Maudhui ya barua pepe husimbwa kwa njia fiche wakati wa mapumziko kwa kutumia usimbaji wa kiwango cha uga wa mteja, na tunafuata kanuni ya fursa ndogo zaidi ya ufikiaji wa API. Kwa muunganisho wetu wa Google, tunapitia tathmini ya usalama ya CASA ya kila mwaka ya Google."
+      },
+      {
+        "question": "Je, kipengele cha muhtasari wa barua pepe hufanya kazi vipi?",
+        "answer": "Duet Mail hutumia AI ya hali ya juu kuchanganua maandishi yako ya barua pepe na kutoa muhtasari mfupi unaoangazia mambo muhimu, maamuzi na vipengee vya kushughulikia. Hii hukusaidia kuelewa kwa haraka muktadha bila kusoma thread nzima."
+      },
+      {
+        "question": "Duet Mail inahitaji ruhusa gani?",
+        "answer": "Duet Mail inahitaji ufikiaji wa barua pepe zako ili kutoa muhtasari, kutoa vitu vya kushughulikia, kutoa maudhui na kutuma barua pepe zako. Tunaomba tu ruhusa tunazohitaji kabisa. Unaweza kukagua na kubatilisha ruhusa hizi wakati wowote katika Akaunti yako ya Google au mipangilio ya Akaunti ya Microsoft."
+      },
+      {
+        "question": "Je, ni nini kimejumuishwa katika jaribio lisilolipishwa?",
+        "answer": "Jaribio lisilolipishwa la siku 14 linajumuisha ufikiaji kamili wa vipengele vyote vya Pro: muhtasari wa barua pepe usio na kikomo, uchimbaji wa kipengee cha kushughulikia, mwandishi wa barua pepe wa AI (kutengeneza barua pepe na rasimu bila kikomo chochote), na violezo maalum vya barua pepe. Ingia ukitumia Google au Microsoft ili kuanza kuokoa muda kwenye usimamizi wa barua pepe."
+      },
+      {
+        "question": "Je, ninaweza kutumia Duet Mail na watoa huduma wengine wa barua pepe?",
+        "answer": "Duet Mail inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
+      }
+    ]
+  }
+}
