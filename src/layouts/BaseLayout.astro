@@ -5,6 +5,7 @@ import gtmNoscriptHtml from "../snippets/gtm-noscript.html?raw";
 import {
     DEFAULT_LOCALE,
     OPEN_GRAPH_LOCALES,
+    SUPPORTED_LOCALES,
     isRuntimeLocale,
     type Locale,
     type RenderLocale,
@@ -49,6 +50,7 @@ const runtimeAlternateLocales = alternates.filter(
         alternate.locale !== "x-default" && isRuntimeLocale(alternate.locale),
 );
 const shouldEmitOgLocaleAlternates =
+    runtimeAlternateLocales.length === SUPPORTED_LOCALES.length &&
     runtimeAlternateLocales.length > 1 && !robotsDirectives?.includes("noindex");
 ---
 

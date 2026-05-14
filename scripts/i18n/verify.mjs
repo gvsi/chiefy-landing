@@ -730,6 +730,7 @@ function assertContractsPhase() {
         "src/i18n/locales.ts",
         "src/i18n/routing.ts",
         "src/i18n/fieldClassifications.json",
+        "astro.config.mjs",
         "scripts/i18n/sync-locales.mjs",
         "scripts/i18n/sync-glossary.mjs",
         "scripts/i18n/verify.mjs",
@@ -752,6 +753,10 @@ function assertContractsPhase() {
     assertLocaleContract()
     assertGlossaryContract()
     assertPackageScripts()
+    const astroConfig = readText("astro.config.mjs")
+    if (!astroConfig.includes("filterSitemapPage") || !astroConfig.includes("hasBootstrapLocales")) {
+        fail("astro.config.mjs must filter localized sitemap output while bootstrap locales exist")
+    }
     runNodeScript("scripts/i18n/redirect-contracts.mjs", ["--check"])
 }
 

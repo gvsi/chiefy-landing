@@ -125,9 +125,12 @@ export async function getRouteTranslationState(input: TranslationRouteInput): Pr
         case "home":
             consumed.push(getHomeContent(input.locale))
             break
-        case "blogIndex":
-            consumed.push(...(await getAllBlogPosts(input.locale)).map((post) => post.entry.data))
+        case "blogIndex": {
+            const posts = await getAllBlogPosts(input.locale)
+            if (posts.length === 0) return "bootstrap"
+            consumed.push(...posts.map((post) => post.entry.data))
             break
+        }
         case "blogPost": {
             const post = await getBlogPost(input.locale, input.slug)
             if (!post) throw new Error(`Missing blog post for ${input.locale}/${input.slug}`)
