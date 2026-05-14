@@ -151,8 +151,6 @@ De markt voor AI-e-mailtools breidt zich snel uit. Hoe kies je de juiste voor jo
 
 - **Zelfstandige apps:** Deze bieden mogelijk bredere functies, maar vereisen mogelijk kopiëren/plakken of werken in een apart venster, waardoor de stroom mogelijk wordt verstoord, tenzij ze een uitstekende browserintegratie hebben.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Schermafbeelding met een voorbeeld van een AI-e-mailassistent geïntegreerd in de Gmail-interface, met suggesties., bijschrift:Geïntegreerde AI-assistenten werken rechtstreeks binnen uw bestaande e-mailclient voor een soepelere workflow.]
-
 **Checklist belangrijkste functies:** Evalueer tools op basis van de functies die voor u het belangrijkst zijn:
 
 - **Prioritisering/triage:** Hoe effectief worden belangrijke e-mails zichtbaar?
@@ -168,8 +166,6 @@ De markt voor AI-e-mailtools breidt zich snel uit. Hoe kies je de juiste voor jo
 - **Gebruiksgemak:** Is de interface intuïtief?
 
 - **Prijzen:** Biedt het een gratis proefperiode of abonnement? Rechtvaardigen de kosten de waarde?
-
-\[url:placeholder_table_features; alt_text:Tabel waarin de belangrijkste functies van verschillende soorten AI-e-mailassistenten worden vergeleken (bijvoorbeeld triage, opstellen, samenvatten, gesproken leren)., caption: Evalueer AI-e-mailtools op basis van de functies die uw grootste pijnpunten aanpakken.]
 
 **Afgestemd op behoeften:** Sommige tools zijn algemene productiviteitsverhogers, terwijl andere zich specialiseren. [Lavender richt zich op verkoopbereik](https://www.helpscout.com/blog/ai-for-email/), terwijl tools die zijn geïntegreerd in platforms zoals [Help Scout gericht zijn op klantenondersteuning](https://www.helpscout.com/blog/ai-for-email/). Kies er een die aansluit bij uw primaire gebruiksscenario.
 

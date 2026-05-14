@@ -635,7 +635,7 @@
     "organizationContactType": "Asistență pentru clienți",
     "softwareName": "Duet Mail",
     "softwareDescription": "Asistent de e-mail AI pentru Gmail și Outlook care rezumă automat e-mailurile, redactează răspunsuri în voce și organizează căsuța de e-mail pentru a economisi ore în fiecare săptămână.",
-    "applicationCategory": "ComunicareAplicație",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Organizare și clasificare inteligentă a e-mailului",
       "Redactarea e-mailurilor bazată pe inteligență artificială în vocea dvs",
@@ -654,7 +654,7 @@
         "name": "Planul Pro",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "LUNĂ",
+        "unitText": "MONTH",
         "description": "Acces complet cu categorizare inteligentă în căsuța de e-mail, schițe AI, asistent și integrare în calendar"
       }
     ],

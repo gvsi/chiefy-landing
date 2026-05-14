@@ -148,7 +148,7 @@
           ],
           "actions": [
             "Segui",
-            "Riprogrammare?"
+            "Riprogramma?"
           ]
         }
       },
@@ -266,7 +266,7 @@
     "suggestions": [
       {
         "action": "draft",
-        "label": "Redigere una risposta"
+        "label": "Redigi una risposta"
       },
       {
         "action": "calendar",
@@ -306,8 +306,8 @@
         }
       ],
       "followUps": {
-        "draftAfterCalendar": "Redigere anche la risposta?",
-        "calendarAfterDraft": "Pianificare anche un follow-up?"
+        "draftAfterCalendar": "Redigi anche la risposta?",
+        "calendarAfterDraft": "Pianifica anche un follow-up?"
       }
     }
   },
@@ -579,7 +579,7 @@
             "href": "/it/terms"
           },
           {
-            "label": "Biscotti",
+            "label": "Cookie",
             "href": "/it/cookies"
           },
           {
@@ -635,7 +635,7 @@
     "organizationContactType": "Assistenza clienti",
     "softwareName": "Duet Mail",
     "softwareDescription": "Assistente email IA per Gmail e Outlook che riepiloga automaticamente le email, crea bozze di risposte con la tua voce e organizza la tua casella di posta per risparmiare ore ogni settimana.",
-    "applicationCategory": "Applicazione di comunicazione",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Organizzazione e categorizzazione intelligente della posta elettronica",
       "Redazione di email basata sull'intelligenza artificiale con la tua voce",
@@ -654,7 +654,7 @@
         "name": "Piano Pro",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MESE",
+        "unitText": "MONTH",
         "description": "Accesso completo con categorizzazione intelligente della casella di posta, bozze IA, assistente e integrazione del calendario"
       }
     ],

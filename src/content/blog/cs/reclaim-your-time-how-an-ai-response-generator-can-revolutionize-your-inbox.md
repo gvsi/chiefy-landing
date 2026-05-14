@@ -151,8 +151,6 @@ Trh s e-mailovými nástroji AI se rychle rozšiřuje. Jak si vybrat tu pravou p
 
 - **Samostatné aplikace:** Tyto aplikace mohou nabízet širší funkce, ale mohou vyžadovat kopírování/vkládání nebo práci v samostatném okně, což může potenciálně narušit tok, pokud nemají vynikající integraci s prohlížečem.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Snímek obrazovky ukazující příklad e-mailového asistenta AI integrovaného do rozhraní Gmail, který nabízí návrhy., caption:Integrovaní asistenti AI pracují přímo ve vašem stávajícím e-mailovém klientovi pro hladší pracovní postup.]
-
 **Kontrolní seznam klíčových funkcí:** Vyhodnoťte nástroje na základě funkcí, které jsou pro vás nejdůležitější:
 
 - **Stanovení priorit/třídění:** Jak efektivně zobrazuje důležité e-maily?
@@ -168,8 +166,6 @@ Trh s e-mailovými nástroji AI se rychle rozšiřuje. Jak si vybrat tu pravou p
 - **Snadné použití:** Je rozhraní intuitivní?
 
 - **Cena:** Nabízí bezplatné zkušební období nebo plán? Odůvodňuje náklady hodnotu?
-
-\[url:placeholder_table_features; alt_text:Tabulka srovnávající klíčové funkce různých typů e-mailových asistentů AI (např. Triage, Navrhování, Summarization, Voice Learning)., caption:Vyhodnoťte e-mailové nástroje AI na základě funkcí, které řeší vaše největší problémy.]
 
 **Přizpůsobení potřebám:** Některé nástroje obecně zvyšují produktivitu, zatímco jiné se specializují. [Lavender se zaměřuje na dosah prodeje](https://www.helpscout.com/blog/ai-for-email/), zatímco nástroje integrované do platforem jako [Help Scout jsou zaměřeny na zákaznickou podporu](https://www.helpscout.com/blog/ai-for-email/). Vyberte si takový, který odpovídá vašemu primárnímu případu použití.
 

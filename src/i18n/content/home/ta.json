@@ -635,7 +635,7 @@
     "organizationContactType": "வாடிக்கையாளர் ஆதரவு",
     "softwareName": "Duet Mail",
     "softwareDescription": "Gmail மற்றும் Outlook க்கான AI மின்னஞ்சல் உதவியாளர், இது தானாகவே மின்னஞ்சல்களைச் சுருக்கி, உங்கள் குரலில் பதில்களை வரைகிறது மற்றும் ஒவ்வொரு வாரமும் மணிநேரங்களைச் சேமிக்க உங்கள் இன்பாக்ஸை ஒழுங்கமைக்கிறது.",
-    "applicationCategory": "தொடர்பு பயன்பாடு",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "ஸ்மார்ட் மின்னஞ்சல் அமைப்பு மற்றும் வகைப்படுத்தல்",
       "உங்கள் குரலில் AI-இயக்கப்படும் மின்னஞ்சல் வரைவு",

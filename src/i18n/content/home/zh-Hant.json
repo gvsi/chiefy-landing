@@ -635,7 +635,7 @@
     "organizationContactType": "客戶支援",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI 適用於 Gmail 和 Outlook 的電子郵件助手，可自動匯總電子郵件、用語音起草回覆並整理收件箱，每週節省時間。",
-    "applicationCategory": "通訊應用",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "智慧電子郵件組織與分類",
       "AI 支援的語音電子郵件起草功能",

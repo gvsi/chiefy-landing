@@ -219,9 +219,6 @@ El mercat de les eines de correu electrònic AI s'està expandint ràpidament. C
 - **Aplicacions autònomes:** Aquestes poden oferir funcions més àmplies, però poden requerir copiar/enganxar o treballar en una finestra independent, cosa que podria interrompre el flux tret que tinguin una integració excel·lent del navegador.
 
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Captura de pantalla que mostra un exemple d'un assistent de correu electrònic AI integrat a la interfície Gmail, que ofereix suggeriments., subtítol:Els assistents AI integrats treballen directament al vostre client de correu electrònic existent per a un flux de treball més fluid.]
-
-
 **Llista de verificació de funcions clau:** Avalueu les eines en funció de les funcions més importants per a vosaltres:
 
 
@@ -244,9 +241,6 @@ El mercat de les eines de correu electrònic AI s'està expandint ràpidament. C
 
 
 - **Preus:** Ofereix una prova gratuïta o un pla? El cost justifica el valor?
-
-
-\[url:placeholder_table_features; alt_text:Taula que compara les funcions clau de diferents tipus d'assistents de correu electrònic AI (p. ex., Triatge, Redacció, Resum, Aprenentatge per veu)., subtítol: Avalueu les eines de correu electrònic AI en funció de les funcions que aborden els vostres problemes més importants.]
 
 
 **Adaptació a les necessitats:** Algunes eines augmenten la productivitat general, mentre que d'altres s'especialitzen. [Lavender se centra en la divulgació de vendes](https://www.helpscout.com/blog/ai-for-email/), mentre que les eines integrades a plataformes com [Help Scout estan orientades a l'atenció al client](https://www.helpscout.com/blog/ai-for-email/). Trieu-ne un que s'ajusti al vostre cas d'ús principal.

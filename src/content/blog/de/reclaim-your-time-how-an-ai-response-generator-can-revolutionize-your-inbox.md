@@ -151,8 +151,6 @@ Der Markt für KI-E-Mail-Tools wächst rasant. Wie wählen Sie das Richtige für
 
 - **Eigenständige Apps:** Diese bieten möglicherweise umfassendere Funktionen, erfordern jedoch möglicherweise das Kopieren/Einfügen oder das Arbeiten in einem separaten Fenster, was möglicherweise den Ablauf unterbricht, sofern sie nicht über eine hervorragende Browserintegration verfügen.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Screenshot eines Beispiels eines KI-E-Mail-Assistenten, der in die Gmail-Schnittstelle integriert ist und Vorschläge bietet., Bildunterschrift:Integrierte KI-Assistenten arbeiten direkt in Ihrem vorhandenen E-Mail-Client und sorgen für einen reibungsloseren Arbeitsablauf.]
-
 **Checkliste für die wichtigsten Funktionen:** Bewerten Sie Tools anhand der für Sie wichtigsten Funktionen:
 
 - **Priorisierung/Triage:** Wie effektiv werden wichtige E-Mails angezeigt?
@@ -168,8 +166,6 @@ Der Markt für KI-E-Mail-Tools wächst rasant. Wie wählen Sie das Richtige für
 - **Benutzerfreundlichkeit:** Ist die Benutzeroberfläche intuitiv?
 
 - **Preise:** Bietet es eine kostenlose Testversion oder einen kostenlosen Plan? Rechtfertigen die Kosten den Wert?
-
-\[url:placeholder_table_features; alt_text:Tabelle zum Vergleich der wichtigsten Funktionen verschiedener Arten von KI-E-Mail-Assistenten (z. B. Triage, Drafting, Summarization, Voice Learning)., Bildunterschrift:Bewerten Sie KI-E-Mail-Tools anhand der Funktionen, die Ihre größten Probleme lösen.]
 
 **Anforderungen anpassen:** Einige Tools sind allgemeine Produktivitätssteigerer, während andere spezialisiert sind. [Lavender konzentriert sich auf die Vertriebsreichweite](https://www.helpscout.com/blog/ai-for-email/), während in Plattformen wie [Help Scout integrierte Tools auf den Kundensupport ausgerichtet sind](https://www.helpscout.com/blog/ai-for-email/). Wählen Sie eine, die zu Ihrem primären Anwendungsfall passt.
 

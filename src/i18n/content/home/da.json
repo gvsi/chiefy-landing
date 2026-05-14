@@ -255,7 +255,7 @@
     "subtitle": "Bed Duet om at finde e-mails, tjekke din kalender eller udarbejde et svar. Den forstår din indbakke og svarer med det samme.",
     "windowTitle": "Duet Agent",
     "onlineLabel": "Online",
-    "initialUserMessage": "Kan du findeStripe fakturaen sendt af Regnskab?",
+    "initialUserMessage": "Kan du finde Stripe fakturaen sendt af Regnskab?",
     "processingText": "Søger indbakke...",
     "foundHeader": "Fundet 2 e-mails fra Stripe",
     "foundBody": "Jeg fandt kvitteringen på 29,00 USD fra den 24. oktober.",
@@ -282,7 +282,7 @@
       "draftHeader": "Udkast: accounting@company.com",
       "draftLines": [
         "Hej Team,",
-        "VedhæftetStripe faktura for oktober ($29,00).",
+        "Vedhæftet Stripe faktura for oktober ($29,00).",
         "Sig til, hvis du har brug for andet.",
         "Bedste,"
       ],
@@ -368,7 +368,7 @@
     "perUserSuffix": "/bruger",
     "annualBillingSuffix": "(faktureres årligt)",
     "trustItems": [
-      "Sikker checkout viaStripe",
+      "Sikker checkout via Stripe",
       "Annuller når som helst"
     ],
     "plans": [
@@ -526,7 +526,7 @@
     "brandIconAlt": "Duet Mail ikon",
     "brandLogoAlt": "Duet Mail",
     "tagline": "Duet Mail — AI Email Assistant, der sparer dig timer hver uge",
-    "copyrightTemplate": "Duet Mail ©{year}",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Udforsk",
@@ -635,7 +635,7 @@
     "organizationContactType": "Kundesupport",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI-e-mail-assistent for Gmail og Outlook, der automatisk opsummerer e-mails, laver kladder til svar med din stemme og organiserer din indbakke for at spare timer hver uge.",
-    "applicationCategory": "Kommunikationsapplikation",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Smart e-mail organisering og kategorisering",
       "AI-drevet e-mail-udkast i din stemme",
@@ -654,7 +654,7 @@
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MÅNED",
+        "unitText": "MONTH",
         "description": "Fuld adgang med smart indbakke-kategorisering, AI-kladder, assistent og kalenderintegration"
       }
     ],

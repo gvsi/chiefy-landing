@@ -151,8 +151,6 @@ Rynek narzędzi e-mailowych AI rozwija się bardzo szybko. Jak wybrać odpowiedn
 
 - **Aplikacje samodzielne:** Mogą oferować szerszy zakres funkcji, ale mogą wymagać kopiowania/wklejania lub pracy w osobnym oknie, co potencjalnie zakłóca płynność, chyba że mają świetną integrację z przeglądarką.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Zrzut ekranu pokazujący przykład asystenta e-mailowego AI zintegrowanego z interfejsem Gmail, oferującego sugestie., caption:Zintegrowani asystenci AI działają bezpośrednio w Twoim obecnym kliencie poczty, zapewniając płynniejszy przepływ pracy.]
-
 **Lista kluczowych funkcji:** Oceniaj narzędzia na podstawie funkcji, które są dla Ciebie najważniejsze:
 
 - **Priorytetyzacja/triage:** Jak skutecznie wyróżnia ważne e-maile?
@@ -168,8 +166,6 @@ Rynek narzędzi e-mailowych AI rozwija się bardzo szybko. Jak wybrać odpowiedn
 - **Łatwość użycia:** Czy interfejs jest intuicyjny?
 
 - **Cennik:** Czy oferuje darmowy okres próbny lub plan? Czy koszt jest uzasadniony wartością?
-
-\[url:placeholder_table_features; alt_text:Tabela porównująca kluczowe funkcje różnych typów asystentów e-mailowych AI (np. Triage, Drafting, Summarization, Voice Learning)., caption:Oceniaj narzędzia e-mailowe AI na podstawie funkcji, które rozwiązują Twoje największe bolączki.]
 
 **Dopasowanie do potrzeb:** Niektóre narzędzia są ogólnymi zwiększaczami produktywności, inne się specjalizują. [Lavender koncentruje się na sprzedażowym outreachu](https://www.helpscout.com/blog/ai-for-email/), podczas gdy narzędzia zintegrowane z platformami takimi jak [Help Scout są nastawione na obsługę klienta](https://www.helpscout.com/blog/ai-for-email/). Wybierz takie, które odpowiada Twojemu głównemu zastosowaniu.
 

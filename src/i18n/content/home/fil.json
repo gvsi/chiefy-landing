@@ -635,7 +635,7 @@
     "organizationContactType": "Suporta sa Customer",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI email assistant para sa Gmail at Outlook na awtomatikong nagbubuod ng mga email, nag-draft ng mga tugon sa iyong boses, at nag-aayos ng iyong inbox upang makatipid ng oras bawat linggo.",
-    "applicationCategory": "Application ng Komunikasyon",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Smart email na organisasyon at pagkakategorya",
       "AI-powered na pag-draft ng email sa iyong boses",

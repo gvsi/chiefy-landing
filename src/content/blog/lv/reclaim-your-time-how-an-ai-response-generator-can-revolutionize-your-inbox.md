@@ -151,8 +151,6 @@ Mākslīgā intelekta e-pasta rīku tirgus strauji paplašinās. Kā izvēlētie
 
 - **Atsevišķas lietotnes:** Tās var piedāvāt plašākas funkcijas, taču var būt nepieciešama kopēšana/ielīmēšana vai darbs atsevišķā logā, kas var traucēt darbību, ja vien tām nav lieliskas integrācijas ar pārlūkprogrammu.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Ekrānuzņēmums, kurā parādīts Gmail saskarnē integrēta mākslīgā intelekta e-pasta asistenta piemērs ar ieteikumiem., paraksts:Integrētie mākslīgā intelekta asistenti darbojas tieši jūsu esošajā e-pasta klientā, nodrošinot vienmērīgāku darbplūsmu.]
-
 **Galveno funkciju kontrolsaraksts:** Novērtējiet rīkus, pamatojoties uz jums vissvarīgākajām funkcijām:
 
 - **Prioritāšu noteikšana/triāža:** Cik efektīvi tas parāda svarīgus e-pastus?
@@ -168,8 +166,6 @@ Mākslīgā intelekta e-pasta rīku tirgus strauji paplašinās. Kā izvēlētie
 - **Lietošanas ērtums:** Vai saskarne ir intuitīva?
 
 - **Cena:** Vai tiek piedāvāta bezmaksas izmēģinājuma versija vai plāns? Vai cena attaisno vērtību?
-
-\[url:placeholder_table_features; alt_text:Tabula, kurā salīdzinātas dažādu veidu mākslīgā intelekta e-pasta asistentu galvenās funkcijas (piemēram, triāža, melnrakstu veidošana, apkopošana, balss apguve)., paraksts:Novērtējiet mākslīgā intelekta e-pasta rīkus, pamatojoties uz funkcijām, kas risina jūsu lielākās problēmu zonas.]
 
 **Atbilstība vajadzībām:** Daži rīki ir vispārīgi produktivitātes veicinātāji, bet citi specializējas. [Lavender koncentrējas uz pārdošanas veicināšanu](https://www.helpscout.com/blog/ai-for-email/), savukārt rīki, kas integrēti tādās platformās kā [Help Scout, ir paredzēti klientu atbalstam](https://www.helpscout.com/blog/ai-for-email/). Izvēlieties tādu, kas atbilst jūsu galvenajam lietošanas gadījumam.
 

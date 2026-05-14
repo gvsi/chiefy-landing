@@ -151,8 +151,6 @@ Piața instrumentelor de e-mail bazate pe inteligență artificială se extinde 
 
 - **Aplicații independente:** Acestea pot oferi funcții mai ample, dar pot necesita copiere/lipire sau lucrul într-o fereastră separată, ceea ce ar putea perturba fluxul de lucru, cu excepția cazului în care au o integrare excelentă în browser.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Captură de ecran care prezintă un exemplu de asistent de e-mail bazat pe inteligență artificială integrat în interfața Gmail, oferind sugestii., legendă:Asistenții integrați cu inteligență artificială funcționează direct în clientul de e-mail existent pentru un flux de lucru mai fluid.]
-
 **Lista de verificare a caracteristicilor cheie:** Evaluați instrumentele pe baza caracteristicilor cele mai importante pentru dvs.:
 
 - **Prioritizare/Triare:** Cât de eficient scoate la iveală e-mailurile importante?
@@ -168,8 +166,6 @@ Piața instrumentelor de e-mail bazate pe inteligență artificială se extinde 
 - **Ușurință în utilizare:** Interfața este intuitivă?
 
 - **Prețuri:** Oferă o perioadă de probă gratuită sau un abonament? Justifică prețul valoarea?
-
-\[url:placeholder_table_features; alt_text:Tabel care compară caracteristicile cheie ale diferitelor tipuri de asistenți de e-mail cu inteligență artificială (de exemplu, Triaj, Redactare, Sumarizare, Învățare vocală)., caption:Evaluați instrumentele de e-mail cu inteligență artificială pe baza caracteristicilor care abordează cele mai mari probleme ale dvs.]
 
 **Adaptarea la nevoi:** Unele instrumente sunt instrumente generale de creștere a productivității, în timp ce altele sunt specializate. [Lavender se concentrează pe extinderea vânzărilor](https://www.helpscout.com/blog/ai-for-email/), în timp ce instrumentele integrate în platforme precum [Help Scout sunt orientate către asistența clienților](https://www.helpscout.com/blog/ai-for-email/). Alegeți unul care se potrivește cu cazul dvs. principal de utilizare.
 

@@ -121,7 +121,7 @@
           "header": "Inteligentné pripomienky poháňané AI",
           "stats": [
             {
-              "label": "Follow-up",
+              "label": "Následná kontrola",
               "value": "12",
               "unit": "e-mailov"
             },
@@ -147,7 +147,7 @@
             }
           ],
           "actions": [
-            "Follow",
+            "Sledovať",
             "Preplánovať?"
           ]
         }
@@ -178,7 +178,7 @@
       "11:05 AM",
       "9:22 AM",
       "Včera",
-      "Dec 20"
+      "20. 12."
     ],
     "emails": [
       {
@@ -430,7 +430,7 @@
           },
           {
             "title": "Inteligentné pripomienky",
-            "description": "Follow-upy sa zobrazia automaticky, takže nič neprepadne"
+            "description": "Následné kroky sa zobrazia automaticky, takže nič neprepadne"
           },
           {
             "title": "Prioritná podpora",

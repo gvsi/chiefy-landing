@@ -41,7 +41,7 @@ Boomerang 提供类似的核心功能，包括日程安排、提醒和已读回�
 
 对于销售专业人士、管理客户组合的自由职业者以及任何涉及培育业务关系的人来说，在电子邮件环境中保持清晰的交互、交易进度和联系历史记录至关重要。然而，不断地在收件箱和单独的客户关系管理 (CRM) 系统之间切换是一种常见的浪费时间的行为。
 
-GmailCRM扩展通过将核心CRM功能直接嵌入到Gmail接口中来解决这个问题。 Streak 是一个值得注意的例子，它有效地将 Gmail 转换为函数 CRM [(Mailshake)](https://mailshake.com/zh-Hans/blog/gmail-extensions/)。它允许用户管理销售渠道、跟踪各个阶段的销售线索、轻松地与团队成员共享电子邮件线程和上下文而无需繁琐的转发，以及组织整体通信流程 [(Mailshake)](https://mailshake.com/zh-Hans/blog/gmail-extensions/)。其高用户评级（例如，G2 上的 4.5/5 [(Leadfeeder)](https://www.leadfeeder.com/zh-Hans/blog/best-email-tracking-tools/)）和灵活的定价结构（从免费个人使用到企业计划 [(Mailshake)](https://mailshake.com/zh-Hans/blog/gmail-extensions/)）使其广受欢迎。
+Gmail CRM扩展通过将核心CRM功能直接嵌入到Gmail接口中来解决这个问题。 Streak 是一个值得注意的例子，它有效地将 Gmail 转换为函数 CRM [(Mailshake)](https://mailshake.com/zh-Hans/blog/gmail-extensions/)。它允许用户管理销售渠道、跟踪各个阶段的销售线索、轻松地与团队成员共享电子邮件线程和上下文而无需繁琐的转发，以及组织整体通信流程 [(Mailshake)](https://mailshake.com/zh-Hans/blog/gmail-extensions/)。其高用户评级（例如，G2 上的 4.5/5 [(Leadfeeder)](https://www.leadfeeder.com/zh-Hans/blog/best-email-tracking-tools/)）和灵活的定价结构（从免费个人使用到企业计划 [(Mailshake)](https://mailshake.com/zh-Hans/blog/gmail-extensions/)）使其广受欢迎。
 
 HubSpot 销售是另一个广泛使用的扩展，对于通过电子邮件打开和点击来跟踪潜在客户参与度、管理联系人记录以及潜在地利用电子邮件模板和自动序列 [(Right Inbox)](https://www.rightinbox.com/zh-Hans/blog/gmail-extensions) 尤其有价值。其集成能力是一项关键优势，使其成为许多销售和营销团队的主要产品[(Whale)](https://usewhale.io/zh-Hans/blog/chrome-extensions-for-productivity/)。 NetHunt [(Right Inbox)](https://www.rightinbox.com/zh-Hans/blog/top-gmail-automation-tools) 和 Salesflare [(Salesflare)](https://blog.salesflare.com/best-crm-for-startups) 等其他集成也提供类似的 in-Gmail CRM 功能，展示了可用选项的广泛性。
 

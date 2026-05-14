@@ -151,8 +151,6 @@ Markedet for AI-e-mail-værktøjer vokser hurtigt. Hvordan vælger du den rigtig
 
 - **Fristående apps:** Disse tilbyder muligvis bredere funktioner, men kan kræve kopiering/indsættelse eller arbejde i et separat vindue, hvilket potentielt forstyrrer flowet, medmindre de har fremragende browserintegration.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Skærmbillede, der viser et eksempel på en AI-e-mail-assistent integreret i Gmail-grænsefladen, der giver forslag., caption:Integrerede AI-assistenter arbejder direkte i din eksisterende e-mail-klient for at få en mere jævn arbejdsgang.]
-
 **Tjekliste for nøglefunktioner:** Evaluer værktøjer baseret på de funktioner, der er vigtigst for dig:
 
 - **Prioritering/Triage:** Hvor effektivt viser det vigtige e-mails?

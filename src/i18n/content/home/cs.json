@@ -635,7 +635,7 @@
     "organizationContactType": "Zákaznická podpora",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI e-mailový asistent pro Gmail a Outlook, který automaticky shrnuje e-maily, navrhuje odpovědi vaším hlasem a organizuje vaši doručenou poštu tak, aby každý týden ušetřil hodiny.",
-    "applicationCategory": "Komunikační aplikace",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Inteligentní organizace a kategorizace e-mailů",
       "Vytváření e-mailů pomocí AI vaším hlasem",

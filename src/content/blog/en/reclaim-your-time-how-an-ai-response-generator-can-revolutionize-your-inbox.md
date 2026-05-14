@@ -151,8 +151,6 @@ The market for AI email tools is expanding rapidly. How do you choose the right 
 
 - **Standalone Apps:** These might offer broader features but may require copying/pasting or working in a separate window, potentially disrupting flow unless they have excellent browser integration.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Screenshot showing an example of an AI email assistant integrated within the Gmail interface, offering suggestions., caption:Integrated AI assistants work directly within your existing email client for a smoother workflow.]
-
 **Key Features Checklist:** Evaluate tools based on the features most important to you:
 
 - **Prioritization/Triage:** How effectively does it surface important emails?
@@ -168,8 +166,6 @@ The market for AI email tools is expanding rapidly. How do you choose the right 
 - **Ease of Use:** Is the interface intuitive?
 
 - **Pricing:** Does it offer a free trial or plan? Does the cost justify the value?
-
-\[url:placeholder_table_features; alt_text:Table comparing key features across different types of AI email assistants (e.g., Triage, Drafting, Summarization, Voice Learning)., caption:Evaluate AI email tools based on the features that address your biggest pain points.]
 
 **Matching to Needs:** Some tools are general productivity boosters, while others specialize. [Lavender focuses on sales outreach](https://www.helpscout.com/blog/ai-for-email/), while tools integrated into platforms like [Help Scout are geared towards customer support](https://www.helpscout.com/blog/ai-for-email/). Choose one that aligns with your primary use case.
 

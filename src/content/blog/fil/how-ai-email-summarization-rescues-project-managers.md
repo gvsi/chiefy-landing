@@ -68,7 +68,7 @@ Isipin na kumuha ng digital highlighter sa iyong email thread. Gumagana ang extr
 
 - **Halimbawa para sa mga PM:** Pagbubuod sa isang thread tungkol sa isang kritikal na pag-aayos ng bug, ang isang extractive na buod ay maaaring maglabas ng mga pangungusap tulad ng: "Iniulat ng user ang kritikal na bug na 'LoginFail' na nakakaapekto sa lahat ng mga user ng EU.", "Kinumpirma ng Dev team na ang pangunahing dahilan ay ang pag-update ng module ng pagpapatotoo mula Martes.", at "Ang isang hotfix patch ay naka-iskedyul para sa pag-deploy sa Biyernes ng 5 PM CET."
 
-\[Placeholder para sa Larawan: Diagram na naghahambing ng extractive at abstractive na pagbubuod]Ang extractive na pagbubuod ay direktang kumukuha ng mga pangunahing pangungusap, habang ang abstractive na pagbubuod ay nauunawaan ang nilalaman at bumubuo ng isang bago, maigsi na pangkalahatang-ideya.
+Ang extractive na pagbubuod ay direktang kumukuha ng mga pangunahing pangungusap, habang ang abstractive na pagbubuod ay nauunawaan ang nilalaman at bumubuo ng isang bago, maigsi na pangkalahatang-ideya.
 
 **Abstractive Summarization:**\
 Ang pamamaraang ito ay mas sopistikado at naglalayong gayahin kung paano magbubuod ang isang tao. Ang AI ay unang nagbabasa at naiintindihan ang _kahulugan_ ng buong pag-uusap o dokumento. Pagkatapos, ito ay bumubuo ng _new_ na mga pangungusap, gamit ang sarili nitong mga salita, upang makuha ang pangunahing esensya nang maigsi. Madalas itong kinasasangkutan ng mga advanced na AI na modelo tulad ng nasa likod ng ChatGPT o Google Gemini, na maaaring mag-paraphrase, magsama-sama ng mga ideya, at mag-synthesize ng impormasyon.

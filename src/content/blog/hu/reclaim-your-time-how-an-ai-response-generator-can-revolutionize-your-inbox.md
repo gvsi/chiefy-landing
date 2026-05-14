@@ -152,8 +152,6 @@ Az AI e-mail eszközök piaca gyorsan bővül. Hogyan választod ki a számodra 
 
 - **Önálló alkalmazások:** Ezek szélesebb szolgáltatásokat kínálhatnak, de másolást/beillesztést vagy külön ablakban való munkát igényelhetnek, ami megzavarhatja az áramlást, hacsak nem rendelkeznek kiváló böngészőintegrációval.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text: Képernyőkép, amely a Gmail felületbe integrált mesterséges intelligencia e-mail asszisztens példáját mutatja, javaslatokat kínálva., caption: Az integrált mesterséges intelligencia asszisztensek közvetlenül a meglévő levelezőprogramon belül működnek a gördülékenyebb munkafolyamat érdekében.]
-
 **Főbb jellemzők ellenőrző listája:** Értékelje az eszközöket az Ön számára legfontosabb funkciók alapján:
 
 - **Prioritás/kiosztás:** Mennyire hatékonyan jeleníti meg a fontos e-maileket?
@@ -169,8 +167,6 @@ Az AI e-mail eszközök piaca gyorsan bővül. Hogyan választod ki a számodra 
 - **Könnyű használat:** A kezelőfelület intuitív?
 
 - **Árak:** Ingyenes próbaverziót vagy csomagot kínál? A költség igazolja az értéket?
-
-\[url:placeholder_table_features; alt_text:Táblázat, amely összehasonlítja a különböző típusú mesterséges intelligencia e-mail asszisztensek főbb funkcióit (pl. Triage, Rajzolás, Összegzés, Hangtanulás)., caption: Értékelje az AI e-mail eszközöket azon funkciók alapján, amelyek kezelik a legnagyobb fájdalmat.]
 
 **Igényeknek való megfelelés:** Egyes eszközök általános termelékenységnövelők, míg mások erre specializálódtak. [A Lavender az értékesítési tevékenységre összpontosít](https://www.helpscout.com/blog/ai-for-email/), míg az olyan platformokba integrált eszközök, mint a [Help Scout, az ügyfélszolgálatot szolgálják](https://www.helpscout.com/blog/ai-for-email/). Válasszon egyet, amely megfelel az elsődleges használati esetnek.
 

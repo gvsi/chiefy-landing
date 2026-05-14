@@ -68,7 +68,7 @@ Bayangkan menggunakan penyerlah digital pada thread emel anda. Ringkasan ekstrak
 
 - **Contoh untuk PM:** Meringkaskan thread tentang pembaikan pepijat kritikal, ringkasan ekstraktif mungkin menarik ayat seperti: "Pengguna melaporkan pepijat kritikal 'LoginFail' yang menjejaskan semua pengguna EU.", "Pasukan dev mengesahkan punca utama ialah kemas kini modul pengesahan dari hari Selasa.", dan "Tampalan hotfix dijadualkan untuk penerapan pada hari Jumaat pukul 5 petang CET."
 
-\[Placeholder untuk Imej: Rajah yang membandingkan ringkasan ekstraktif dan abstraktif]Ringkasan ekstraktif menarik ayat utama secara langsung, manakala ringkasan abstraktif memahami kandungan dan menjana gambaran keseluruhan baharu yang padat.
+Ringkasan ekstraktif menarik ayat utama secara langsung, manakala ringkasan abstraktif memahami kandungan dan menjana gambaran keseluruhan baharu yang padat.
 
 **Ringkasan Abstraktif:**\
 Kaedah ini lebih canggih dan bertujuan meniru cara manusia membuat ringkasan. AI terlebih dahulu membaca dan memahami _makna_ keseluruhan perbualan atau dokumen. Kemudian, ia menjana ayat _baharu_, menggunakan kata-katanya sendiri, untuk menangkap inti pati secara padat. Ini sering melibatkan model AI lanjutan seperti yang berada di sebalik ChatGPT atau Google Gemini, yang boleh memparafrasa, menggabungkan idea, dan mensintesis maklumat.

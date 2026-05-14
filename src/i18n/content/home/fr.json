@@ -35,7 +35,7 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "Hier"
     ],
     "autodraftLabel": "Rédaction automatique",
     "emails": [
@@ -177,7 +177,7 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
+      "Hier",
       "20 déc."
     ],
     "emails": [
@@ -654,7 +654,7 @@
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MOIS",
+        "unitText": "MONTH",
         "description": "Accès complet avec catégorisation intelligente de la boîte de réception, brouillons IA, assistant et intégration du calendrier"
       }
     ],

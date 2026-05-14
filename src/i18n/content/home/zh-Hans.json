@@ -255,7 +255,7 @@
     "subtitle": "请 Duet 查找电子邮件、查看日历或起草回复。它了解您的收件箱并立即回复。",
     "windowTitle": "Duet Agent",
     "onlineLabel": "在线",
-    "initialUserMessage": "您能找到会计发送的Stripe发票吗？",
+    "initialUserMessage": "您能找到会计发送的 Stripe 发票吗？",
     "processingText": "正在搜索收件箱...",
     "foundHeader": "找到 2 封来自 Stripe 的电子邮件",
     "foundBody": "我找到了10月24日的$29.00USD的收据。",
@@ -282,7 +282,7 @@
       "draftHeader": "草稿：accounting@company.com",
       "draftLines": [
         "嗨，团队，",
-        "请查收附件 10 月份 ($29.00) 的Stripe 发票。",
+        "请查收附件 10 月份 ($29.00) 的 Stripe 发票。",
         "如果您还需要什么，请告诉我。",
         "最好的，"
       ],
@@ -368,7 +368,7 @@
     "perUserSuffix": "/user",
     "annualBillingSuffix": "（按年计费）",
     "trustItems": [
-      "通过Stripe安全结账",
+      "通过 Stripe 安全结账",
       "随时取消"
     ],
     "plans": [
@@ -504,7 +504,7 @@
       },
       {
         "question": "我可以将 Duet Mail 与其他电子邮件提供商一起使用吗？",
-        "answer": "Duet Mail支持Gmail、Google Workspace和MicrosoftOutlook。使用您的 Google 或 Microsoft 帐户登录即可开始。"
+        "answer": "Duet Mail支持Gmail、Google Workspace和Microsoft Outlook。使用您的 Google 或 Microsoft 帐户登录即可开始。"
       }
     ]
   },
@@ -635,7 +635,7 @@
     "organizationContactType": "客户支持",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI Gmail 和 Outlook 的电子邮件助手，可自动汇总电子邮件、用语音起草回复并整理收件箱，每周节省时间。",
-    "applicationCategory": "通讯应用",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "智能电子邮件组织和分类",
       "AI 支持用您的声音起草电子邮件",
@@ -693,7 +693,7 @@
       },
       {
         "question": "我可以将 Duet Mail 与其他电子邮件提供商一起使用吗？",
-        "answer": "Duet Mail支持Gmail、Google Workspace和MicrosoftOutlook。使用您的 Google 或 Microsoft 帐户登录即可开始。"
+        "answer": "Duet Mail支持Gmail、Google Workspace和Microsoft Outlook。使用您的 Google 或 Microsoft 帐户登录即可开始。"
       }
     ]
   }

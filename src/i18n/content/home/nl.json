@@ -255,9 +255,9 @@
     "subtitle": "Vraag Duet om e-mails te vinden, uw agenda te bekijken of een antwoord op te stellen. Het begrijpt uw ​​inbox en antwoordt onmiddellijk.",
     "windowTitle": "Duet Agent",
     "onlineLabel": "Online",
-    "initialUserMessage": "Kunt u deStripefactuur vinden die door Accounting is verzonden?",
+    "initialUserMessage": "Kunt u de Stripe factuur vinden die door Accounting is verzonden?",
     "processingText": "Postvak IN zoeken...",
-    "foundHeader": "2 e-mails gevonden vanStripe",
+    "foundHeader": "2 e-mails gevonden van Stripe",
     "foundBody": "Ik vond de bon voor $ 29,00 USD van 24 oktober.",
     "attachment": {
       "fileName": "factuur_oct24.pdf",
@@ -282,7 +282,7 @@
       "draftHeader": "Concept: accounting@company.com",
       "draftLines": [
         "Hallo team,",
-        "Bijgevoegd vindt u deStripefactuur voor oktober ($29,00).",
+        "Bijgevoegd vindt u de Stripe factuur voor oktober ($29,00).",
         "Laat het me weten als je nog iets nodig hebt.",
         "Beste,"
       ],
@@ -368,7 +368,7 @@
     "perUserSuffix": "/gebruiker",
     "annualBillingSuffix": "(jaarlijks gefactureerd)",
     "trustItems": [
-      "Veilig afrekenen viaStripe",
+      "Veilig afrekenen via Stripe",
       "Annuleer op elk gewenst moment"
     ],
     "plans": [
@@ -526,7 +526,7 @@
     "brandIconAlt": "Duet Mail-pictogram",
     "brandLogoAlt": "Duet Mail",
     "tagline": "Duet Mail — De AI-e-mailassistent waarmee u elke week uren bespaart",
-    "copyrightTemplate": "Duet Mail ©{year}",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Ontdek",
@@ -635,7 +635,7 @@
     "organizationContactType": "Klantenondersteuning",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI-e-mailassistent voor Gmail en Outlook die automatisch e-mails samenvat, antwoorden in uw stem opstelt en uw inbox organiseert om elke week uren te besparen.",
-    "applicationCategory": "CommunicatieApplicatie",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Slimme e-mailorganisatie en categorisering",
       "Door AI aangedreven e-mail opstellen met uw stem",
@@ -654,7 +654,7 @@
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MAAND",
+        "unitText": "MONTH",
         "description": "Volledige toegang met slimme inbox-categorisatie, AI-concepten, assistent en agenda-integratie"
       }
     ],

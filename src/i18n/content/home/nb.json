@@ -237,7 +237,7 @@
       "highlightText": "Jeg er ledig torsdag 14-16 eller fredag ​​morgen",
       "actions": [
         "Sende",
-        "Redigere"
+        "Rediger"
       ],
       "tooltipTitle": "Personlig utkast",
       "tooltipFeatures": [
@@ -288,7 +288,7 @@
       ],
       "draftActions": [
         "Send e-post",
-        "Redigere"
+        "Rediger"
       ],
       "calendarIntro": "Du har 3 plasser åpne i morgen:",
       "calendarSlots": [
@@ -635,7 +635,7 @@
     "organizationContactType": "Kundestøtte",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI-e-postassistent for Gmail og Outlook som automatisk oppsummerer e-poster, utkast til svar med stemmen din og organiserer innboksen din for å spare timer hver uke.",
-    "applicationCategory": "Kommunikasjonsapplikasjon",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Smart e-postorganisering og kategorisering",
       "AI-drevet e-postutkast i stemmen din",
@@ -654,7 +654,7 @@
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MÅNED",
+        "unitText": "MONTH",
         "description": "Full tilgang med smart innbokskategorisering, AI-utkast, assistent og kalenderintegrasjon"
       }
     ],

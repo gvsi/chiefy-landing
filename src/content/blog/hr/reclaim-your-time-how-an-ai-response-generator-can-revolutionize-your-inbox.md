@@ -151,8 +151,6 @@ Tržište AI alata za e-poštu brzo se širi. Kako odabrati ono pravo za sebe?
 
 - **Samostalne aplikacije:** One mogu ponuditi šire značajke, ali mogu zahtijevati kopiranje/lijepljenje ili rad u zasebnom prozoru, što potencijalno ometa tijek osim ako nemaju odličnu integraciju preglednika.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Snimka zaslona koja prikazuje primjer AI pomoćnika za e-poštu integriranog u Gmail sučelje, nudi prijedloge., naslov:Integrirani AI pomoćnici rade izravno unutar vašeg postojećeg klijenta e-pošte radi lakšeg tijeka rada.]
-
 **Kontrolni popis ključnih značajki:** Procijenite alate na temelju značajki koje su vam najvažnije:
 
 - **Određivanje prioriteta/svrstavanje:** Koliko učinkovito otkriva važne e-poruke?
@@ -168,8 +166,6 @@ Tržište AI alata za e-poštu brzo se širi. Kako odabrati ono pravo za sebe?
 - **Jednostavnost upotrebe:** Je li sučelje intuitivno?
 
 - **Cijene:** Nudi li besplatno probno razdoblje ili plan? Opravdava li trošak vrijednost?
-
-\[url:placeholder_table_features; alt_text:Tablica koja uspoređuje ključne značajke različitih vrsta AI pomoćnika za e-poštu (npr. trijaža, izrada nacrta, sažimanje, glasovno učenje)., naslov:Ocijenite AI alate za e-poštu na temelju značajki koje rješavaju vaše najveće bolne točke.]
 
 **Prilagođavanje potrebama:** Neki alati općenito pospješuju produktivnost, dok su drugi specijalizirani. [Lavender se fokusira na doseg prodaje](https://www.helpscout.com/blog/ai-for-email/), dok su alati integrirani u platforme poput [Help Scout usmjereni na korisničku podršku](https://www.helpscout.com/blog/ai-for-email/). Odaberite onaj koji je u skladu s vašim primarnim slučajem upotrebe.
 

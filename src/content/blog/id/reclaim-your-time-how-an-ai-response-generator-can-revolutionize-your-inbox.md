@@ -151,8 +151,6 @@ Pasar alat email AI berkembang pesat. Bagaimana Anda memilih yang tepat untuk An
 
 - **Aplikasi Mandiri:** Ini mungkin menawarkan fitur yang lebih luas tetapi mungkin memerlukan penyalinan/penempelan atau bekerja di jendela terpisah, sehingga berpotensi mengganggu alur kecuali aplikasi tersebut memiliki integrasi browser yang sangat baik.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Tangkapan layar yang menunjukkan contoh asisten email AI yang terintegrasi dalam antarmuka Gmail, menawarkan saran., caption:Asisten AI terintegrasi bekerja langsung dalam klien email Anda yang ada untuk alur kerja yang lebih lancar.]
-
 **Daftar Periksa Fitur Utama:** Evaluasi alat berdasarkan fitur yang paling penting bagi Anda:
 
 - **Prioritas/Triase:** Seberapa efektif cara ini menampilkan email penting?
@@ -168,8 +166,6 @@ Pasar alat email AI berkembang pesat. Bagaimana Anda memilih yang tepat untuk An
 - **Kemudahan Penggunaan:** Apakah antarmukanya intuitif?
 
 - **Harga:** Apakah ia menawarkan uji coba atau paket gratis? Apakah biayanya sesuai dengan nilainya?
-
-\[url:placeholder_table_features; alt_text:Tabel yang membandingkan fitur-fitur utama di berbagai jenis asisten email AI (misalnya, Triage, Drafting, Summarization, Voice Learning)., caption:Evaluasi alat email AI berdasarkan fitur yang mengatasi masalah terbesar Anda.]
 
 **Menyesuaikan dengan Kebutuhan:** Beberapa alat merupakan peningkat produktivitas umum, sementara alat lainnya bersifat khusus. [Lavender berfokus pada penjangkauan penjualan](https://www.helpscout.com/blog/ai-for-email/), sementara alat yang diintegrasikan ke dalam platform seperti [Help Scout diarahkan untuk dukungan pelanggan](https://www.helpscout.com/blog/ai-for-email/). Pilih salah satu yang sesuai dengan kasus penggunaan utama Anda.
 

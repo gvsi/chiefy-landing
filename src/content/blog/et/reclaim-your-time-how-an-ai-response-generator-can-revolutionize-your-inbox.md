@@ -151,8 +151,6 @@ Tehisintellekti meilitööriistade turg laieneb kiiresti. Kuidas valida endale s
 
 - **Eriotstarbelised rakendused:** need võivad pakkuda laiemaid funktsioone, kuid võivad nõuda kopeerimist/kleepimist või töötamist eraldi aknas, mis võib voogu häirida, välja arvatud juhul, kui neil on suurepärane brauseri integratsioon.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Ekraanipilt, mis näitab näidet Gmail liidesesse integreeritud tehisintellekti e-posti assistendist, pakkudes soovitusi., pealkiri: Integreeritud AI-abilised töötavad sujuvama töövoo tagamiseks otse teie olemasolevas meilikliendis.]
-
 **Põhifunktsioonide kontroll-loend:** hinnake tööriistu teie jaoks kõige olulisemate funktsioonide põhjal.
 
 - **Prioriteedid/triaaž:** Kui tõhusalt see olulisi e-kirju esile tõstab?

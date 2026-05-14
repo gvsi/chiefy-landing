@@ -35,7 +35,7 @@
       "3:42 PM",
       "2:18 PM",
       "10:05 AM",
-      "Yesterday"
+      "Jana"
     ],
     "autodraftLabel": "Rasimu otomatiki",
     "emails": [
@@ -177,8 +177,8 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "Jana",
+      "20 Des"
     ],
     "emails": [
       {
@@ -635,7 +635,7 @@
     "organizationContactType": "Usaidizi wa Wateja",
     "softwareName": "Duet Mail",
     "softwareDescription": "Msaidizi wa barua pepe wa AI wa Gmail na Outlook ambao hufanya muhtasari wa barua pepe kiotomatiki, kutayarisha majibu kwa sauti yako, na kupanga kisanduku pokezi chako ili kuokoa saa kila wiki.",
-    "applicationCategory": "MawasilianoMaombi",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Shirika mahiri la barua pepe na uainishaji",
       "Uandishi wa barua pepe unaoendeshwa na AI katika sauti yako",
@@ -654,7 +654,7 @@
         "name": "Mpango wa Pro",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MWEZI",
+        "unitText": "MONTH",
         "description": "Ufikiaji kamili kwa uainishaji mahiri wa kikasha pokezi, rasimu za AI, mratibu na muunganisho wa kalenda"
       }
     ],

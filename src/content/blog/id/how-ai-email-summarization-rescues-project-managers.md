@@ -68,7 +68,7 @@ Bayangkan membawa penyorot digital ke thread email Anda. Peringkasan ekstraktif 
 
 - **Contoh untuk PM:** Saat meringkas rangkaian pesan tentang perbaikan bug kritis, ringkasan ekstraktif mungkin mengeluarkan kalimat seperti: "Pengguna melaporkan bug kritis 'LoginFail' yang berdampak pada semua pengguna UE.", "Tim pengembang mengonfirmasi akar permasalahannya adalah pembaruan modul autentikasi mulai hari Selasa.", dan "Patch perbaikan terbaru dijadwalkan untuk diterapkan pada hari Jumat pukul 17.00 CET."
 
-\[Placeholder untuk Gambar: Diagram yang membandingkan peringkasan ekstraktif dan abstraktif]Peringkasan ekstraktif menarik kalimat-kalimat kunci secara langsung, sedangkan peringkasan abstraktif memahami konten dan menghasilkan ikhtisar baru yang ringkas.
+Peringkasan ekstraktif menarik kalimat-kalimat kunci secara langsung, sedangkan peringkasan abstraktif memahami konten dan menghasilkan ikhtisar baru yang ringkas.
 
 **Ringkasan Abstraktif:**\
 Metode ini lebih canggih dan bertujuan untuk meniru cara manusia meringkas. AI pertama-tama membaca dan memahami _makna_ keseluruhan percakapan atau dokumen. Kemudian, ia menghasilkan kalimat _baru_, menggunakan kata-katanya sendiri, untuk menangkap esensi inti secara ringkas. Hal ini sering kali melibatkan model AI tingkat lanjut seperti model di belakang ChatGPT atau Google Gemini, yang dapat memparafrasekan, menggabungkan ide, dan mensintesis informasi.

@@ -151,8 +151,6 @@ Pasaran untuk alat e-mel AI berkembang dengan pesat. Bagaimana anda memilih yang
 
 - **Aplikasi Kendiri:** Ini mungkin menawarkan ciri yang lebih luas tetapi mungkin memerlukan salin/tampal atau bekerja dalam tetingkap berasingan, berpotensi mengganggu aliran kecuali ia mempunyai integrasi pelayar yang sangat baik.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Tangkapan skrin yang menunjukkan contoh pembantu e-mel AI yang disepadukan dalam antara muka Gmail, menawarkan cadangan., caption:Pembantu AI bersepadu berfungsi terus dalam klien e-mel sedia ada anda untuk aliran kerja yang lebih lancar.]
-
 **Senarai Semak Ciri Utama:** Nilai alat berdasarkan ciri yang paling penting bagi anda:
 
 - **Pengutamaan/Triage:** Sejauh manakah ia berkesan memaparkan e-mel penting?
@@ -168,8 +166,6 @@ Pasaran untuk alat e-mel AI berkembang dengan pesat. Bagaimana anda memilih yang
 - **Kemudahan Penggunaan:** Adakah antara mukanya intuitif?
 
 - **Harga:** Adakah ia menawarkan percubaan atau pelan percuma? Adakah kosnya berbaloi dengan nilainya?
-
-\[url:placeholder_table_features; alt_text:Jadual membandingkan ciri utama merentas pelbagai jenis pembantu e-mel AI (cth., Triage, Penyusunan Draf, Peringkasan, Pembelajaran Suara)., caption:Nilai alat e-mel AI berdasarkan ciri yang menangani masalah paling besar anda.]
 
 **Padanan dengan Keperluan:** Sesetengah alat ialah penggalak produktiviti umum, manakala yang lain lebih khusus. [Lavender memberi tumpuan kepada jangkauan jualan](https://www.helpscout.com/blog/ai-for-email/), manakala alat yang disepadukan dalam platform seperti [Help Scout lebih ditujukan kepada sokongan pelanggan](https://www.helpscout.com/blog/ai-for-email/). Pilih yang sejajar dengan kes penggunaan utama anda.
 

@@ -635,7 +635,7 @@
     "organizationContactType": "Suporte ao Cliente",
     "softwareName": "Duet Mail",
     "softwareDescription": "Assistente de e-mail de IA para Gmail e Outlook que resume e-mails automaticamente, rascunha respostas em sua voz e organiza sua caixa de entrada para economizar horas todas as semanas.",
-    "applicationCategory": "ComunicaçãoAplicativo",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Organização e categorização inteligente de e-mail",
       "Elaboração de e-mails com tecnologia de IA na sua voz",
@@ -654,7 +654,7 @@
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MÊS",
+        "unitText": "MONTH",
         "description": "Acesso total com categorização inteligente de caixa de entrada, rascunhos de IA, assistente e integração de calendário"
       }
     ],

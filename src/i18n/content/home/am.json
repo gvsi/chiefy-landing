@@ -104,9 +104,9 @@
           "actionTitle": "አዲስ የተግባር ንጥል ነገር",
           "actionLead": "በቀን መቁጠሪያዎ ውስጥ እነዚህን ነፃ ቦታዎች አግኝቻለሁ",
           "slots": [
-            "Tuesday, at 10am",
-            "Thursday, at 2pm",
-            "Friday, 9am"
+            "ማክሰኞ፣ 10:00",
+            "ሐሙስ፣ 14:00",
+            "ዓርብ፣ 9:00"
           ],
           "secondaryButton": "ተጨማሪ ያግኙ",
           "primaryButton": "ላክ"
@@ -147,8 +147,8 @@
             }
           ],
           "actions": [
-            "Follow",
-            "Reschedule?"
+            "ተከታተል",
+            "እንደገና ይቀጠር?"
           ]
         }
       },
@@ -177,8 +177,8 @@
       "2:34 PM",
       "11:05 AM",
       "9:22 AM",
-      "Yesterday",
-      "Dec 20"
+      "ትናንት",
+      "20/12"
     ],
     "emails": [
       {
@@ -257,7 +257,7 @@
     "onlineLabel": "በመስመር ላይ",
     "initialUserMessage": "በአካውንቲንግ የተላከውን Stripe ደረሰኝ ማግኘት ይችላሉ?",
     "processingText": "የገቢ መልእክት ሳጥን በመፈለግ ላይ...",
-    "foundHeader": "ከStripe 2 ኢሜይሎች ተገኝተዋል",
+    "foundHeader": "ከ Stripe 2 ኢሜይሎች ተገኝተዋል",
     "foundBody": "ከኦክቶበር 24 ጀምሮ ደረሰኙን በ$29.00 USD አገኘሁት።",
     "attachment": {
       "fileName": "ደረሰኝ_ጥቅምት24.pdf",
@@ -282,7 +282,7 @@
       "draftHeader": "ረቂቅ፡ accounting@company.com",
       "draftLines": [
         "ሰላም ቡድን፣",
-        "እባክዎ የኦክቶበር የStripe ደረሰኝ ($29.00) ተያይዞ ያግኙ።",
+        "እባክዎ የኦክቶበር የ Stripe ደረሰኝ ($29.00) ተያይዞ ያግኙ።",
         "ሌላ ማንኛውም ነገር ካስፈለገዎት ያሳውቁኝ።",
         "ከሰላምታ ጋር፣"
       ],
@@ -368,7 +368,7 @@
     "perUserSuffix": "/ተጠቃሚ",
     "annualBillingSuffix": "(በዓመት የሚከፈል)",
     "trustItems": [
-      "በStripe በኩል ደህንነቱ የተጠበቀ ክፍያ",
+      "በ Stripe በኩል ደህንነቱ የተጠበቀ ክፍያ",
       "በማንኛውም ጊዜ ይሰርዙ"
     ],
     "plans": [
@@ -635,7 +635,7 @@
     "organizationContactType": "የደንበኛ ድጋፍ",
     "softwareName": "Duet Mail",
     "softwareDescription": "የAI ኢሜይል ረዳት ለGmail እና Outlook ኢሜይሎችን በራስ-ሰር የሚያጠቃልል፣ረቂቆች በድምጽዎ ምላሽ ይሰጣሉ እና በየሳምንቱ ሰዓታት ለመቆጠብ የገቢ መልእክት ሳጥንዎን ያደራጃል።",
-    "applicationCategory": "የግንኙነት መተግበሪያ",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "ብልጥ የኢሜይል አደረጃጀት እና ምደባ",
       "በAI የሚደገፍ በድምፅዎ የኢሜይል ረቂቅ",
@@ -654,7 +654,7 @@
         "name": "Pro ዕቅድ",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "ወር",
+        "unitText": "MONTH",
         "description": "ሙሉ መዳረሻ ከብልጥ የገቢ መልእክት ሳጥን ምድብ ፣ AI ረቂቆች ፣ ረዳት እና የቀን መቁጠሪያ ውህደት ጋር"
       }
     ],

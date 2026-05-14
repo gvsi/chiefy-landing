@@ -151,8 +151,6 @@ Ang merkado para sa AI na mga tool sa email ay mabilis na lumalawak. Paano mo pi
 
 - **Standalone Apps:** Maaaring mag-alok ang mga ito ng mas malawak na feature ngunit maaaring mangailangan ng pagkopya/pag-paste o pagtatrabaho sa isang hiwalay na window, na posibleng makagambala sa daloy maliban kung mayroon silang mahusay na pagsasama ng browser.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Screenshot na nagpapakita ng halimbawa ng isang AI email assistant na isinama sa loob ng Gmail interface, nag-aalok ng mga mungkahi., caption:Ang pinagsama-samang AI na mga assistant ay direktang gumagana sa loob ng iyong kasalukuyang email client para sa mas maayos na daloy ng trabaho.]
-
 **Checklist ng Mga Pangunahing Tampok:** Suriin ang mga tool batay sa mga feature na pinakamahalaga sa iyo:
 
 - **Priyoridad/Triage:** Gaano ito kaepektibong nagpapakita ng mahahalagang email?
@@ -168,8 +166,6 @@ Ang merkado para sa AI na mga tool sa email ay mabilis na lumalawak. Paano mo pi
 - **Dali ng Paggamit:** Intuitive ba ang interface?
 
 - **Pagpepresyo:** Nag-aalok ba ito ng libreng pagsubok o plano? Nabibigyang katwiran ba ng gastos ang halaga?
-
-\[url:placeholder_table_features; alt_text:Table na naghahambing ng mga pangunahing feature sa iba't ibang uri ng AI email assistant (hal., Triage, Drafting, Summarization, Voice Learning)., caption:Suriin ang AI na mga tool sa email batay sa mga feature na tumutugon sa iyong pinakamalalaking sakit.]
 
 **Pagtutugma sa Mga Pangangailangan:** Ang ilang mga tool ay pangkalahatang productivity boosters, habang ang iba ay dalubhasa. [Tumuon ang Lavender sa sales outreach](https://www.helpscout.com/blog/ai-for-email/), habang ang mga tool na isinama sa mga platform tulad ng [Help Scout ay nakatuon sa customer support](https://www.helpscout.com/blog/ai-for-email/). Pumili ng isa na naaayon sa iyong pangunahing kaso ng paggamit.
 

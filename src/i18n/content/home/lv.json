@@ -635,7 +635,7 @@
     "organizationContactType": "Klientu atbalsts",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI e-pasta asistents Gmail un Outlook, kas automātiski apkopo e-pastus, sagatavo atbildes jūsu stilā un organizē jūsu iesūtni, lai katru nedēļu ietaupītu stundas.",
-    "applicationCategory": "Saziņas lietotne",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Vieda e-pasta organizēšana un kategorizēšana",
       "Ar AI darbināta e-pastu sagatavošana jūsu stilā",
@@ -654,7 +654,7 @@
         "name": "Pro plāns",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MĒNESIS",
+        "unitText": "MONTH",
         "description": "Pilna piekļuve ar viedu iesūtnes kategorizēšanu, AI melnrakstiem, asistentu un kalendāra integrāciju"
       }
     ],

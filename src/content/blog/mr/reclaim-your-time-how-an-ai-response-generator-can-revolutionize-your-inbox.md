@@ -151,8 +151,6 @@ AI ईमेल साधनांचा बाजार वेगाने व�
 
 - **स्वतंत्र अॅप्स:** यामध्ये विस्तृत वैशिष्ट्ये असू शकतात, पण त्यासाठी कॉपी/पेस्ट करणे किंवा वेगळ्या विंडोमध्ये काम करणे लागू शकते, ज्यामुळे उत्कृष्ट ब्राउझर एकत्रीकरण नसेल तर प्रवाह खंडित होऊ शकतो.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Screenshot showing an example of an AI email assistant integrated within the Gmail interface, offering suggestions., caption:Integrated AI assistants work directly within your existing email client for a smoother workflow.]
-
 **मुख्य वैशिष्ट्यांची चेकलिस्ट:** तुमच्यासाठी सर्वाधिक महत्त्वाच्या वैशिष्ट्यांनुसार साधनांचे मूल्यांकन करा:
 
 - **प्राधान्यक्रम/त्रायाज:** महत्त्वाचे ईमेल ते किती प्रभावीपणे वर आणते?
@@ -168,8 +166,6 @@ AI ईमेल साधनांचा बाजार वेगाने व�
 - **वापरण्याची सुलभता:** इंटरफेस सहज समजण्याजोगा आहे का?
 
 - **किंमत:** ते मोफत चाचणी किंवा योजना देते का? खर्च मूल्याच्या तुलनेत योग्य ठरतो का?
-
-\[url:placeholder_table_features; alt_text:Table comparing key features across different types of AI email assistants (e.g., Triage, Drafting, Summarization, Voice Learning)., caption:Evaluate AI email tools based on the features that address your biggest pain points.]
 
 **गरजेनुसार जुळवणी:** काही साधने सर्वसाधारण उत्पादकता वाढवणारी असतात, तर काही विशिष्ट क्षेत्रात तज्ज्ञ असतात. [Lavender विक्री संपर्कावर लक्ष केंद्रित करते](https://www.helpscout.com/blog/ai-for-email/), तर [Help Scout सारख्या प्लॅटफॉर्ममध्ये एकत्रित साधने ग्राहक समर्थनासाठी तयार केलेली असतात](https://www.helpscout.com/blog/ai-for-email/). तुमच्या प्राथमिक वापरप्रसंगाशी जुळणारे साधन निवडा.
 

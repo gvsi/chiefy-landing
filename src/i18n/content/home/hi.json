@@ -635,7 +635,7 @@
     "organizationContactType": "ग्राहक सहायता",
     "softwareName": "Duet Mail",
     "softwareDescription": "Gmail और Outlook के लिए AI ईमेल सहायक जो स्वचालित रूप से ईमेल का सारांश देता है, आपकी आवाज़ में उत्तरों को ड्राफ्ट करता है, और हर हफ्ते घंटे बचाने के लिए आपके इनबॉक्स को व्यवस्थित करता है।",
-    "applicationCategory": "संचार अनुप्रयोग",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "स्मार्ट ईमेल संगठन और वर्गीकरण\nआपकी आवाज़ में",
       "AI-संचालित ईमेल ड्राफ्टिंग",

@@ -139,11 +139,11 @@
           "reminders": [
             {
               "title": "Ολοκληρώστε τις εργασίες γραφής",
-              "time": "2 days ago"
+              "time": "πριν από 2 ημέρες"
             },
             {
               "title": "Ένταξη Έργου",
-              "time": "12 hours ago"
+              "time": "πριν από 12 ώρες"
             }
           ],
           "actions": [
@@ -635,7 +635,7 @@
     "organizationContactType": "Υποστήριξη Πελατών",
     "softwareName": "Duet Mail",
     "softwareDescription": "Βοηθός email AI για Gmail και Outlook που συνοψίζει αυτόματα τα email, συντάσσει πρόχειρες απαντήσεις φωνητικά και οργανώνει τα εισερχόμενά σας για εξοικονόμηση ωρών κάθε εβδομάδα.",
-    "applicationCategory": "Εφαρμογή Επικοινωνίας",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Έξυπνη οργάνωση και κατηγοριοποίηση email",
       "Σύνταξη email με τη φωνή σας με υποστήριξη AI",
@@ -654,7 +654,7 @@
         "name": "Σχέδιο Pro",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "ΜΗΝΑΣ",
+        "unitText": "MONTH",
         "description": "Πλήρης πρόσβαση με έξυπνη κατηγοριοποίηση εισερχομένων, προσχέδια AI, βοηθό και ενσωμάτωση ημερολογίου"
       }
     ],

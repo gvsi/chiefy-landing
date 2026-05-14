@@ -635,7 +635,7 @@
     "organizationContactType": "Klienditugi",
     "softwareName": "Duet Mail",
     "softwareDescription": "Tehisintellekti e-posti assistent numbritele Gmail ja Outlook, mis teeb meilidest automaatselt kokkuvõtte, koostab teie häälega vastused ja korrastab teie postkasti, et säästa tunde igal nädalal.",
-    "applicationCategory": "Suhtlusrakendus",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Nutikas meilikorraldus ja kategoriseerimine",
       "AI-toega meilide koostamine teie häälega",

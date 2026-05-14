@@ -148,7 +148,7 @@
           ],
           "actions": [
             "Pratite",
-            "Reschedule?"
+            "Promeni termin?"
           ]
         }
       },
@@ -654,7 +654,7 @@
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MESEC",
+        "unitText": "MONTH",
         "description": "Potpun pristup sa pametnom kategorizacijom prijemnog sandučeta, AI nacrtima, pomoćnikom i integracijom kalendara"
       }
     ],

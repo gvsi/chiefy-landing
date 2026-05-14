@@ -151,8 +151,6 @@ Thị trường công cụ email AI đang mở rộng rất nhanh. Vậy bạn n
 
 - **Ứng dụng độc lập:** Các ứng dụng này có thể có nhiều tính năng hơn nhưng đôi khi yêu cầu sao chép/dán hoặc làm việc trong cửa sổ riêng, có thể làm gián đoạn luồng công việc nếu tích hợp trình duyệt không tốt.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Ảnh chụp màn hình minh họa một trợ lý email AI tích hợp trong giao diện Gmail và đưa ra gợi ý.; caption:Trợ lý AI tích hợp hoạt động trực tiếp trong ứng dụng email hiện có để quy trình mượt hơn.]
-
 **Danh sách tính năng cần kiểm tra:** Đánh giá công cụ dựa trên các tính năng quan trọng nhất với bạn:
 
 - **Ưu tiên/Triage:** Công cụ hiển thị email quan trọng hiệu quả đến đâu?
@@ -168,8 +166,6 @@ Thị trường công cụ email AI đang mở rộng rất nhanh. Vậy bạn n
 - **Dễ sử dụng:** Giao diện có trực quan không?
 
 - **Giá:** Có gói hoặc bản dùng thử miễn phí không? Chi phí có xứng đáng với giá trị nhận được không?
-
-\[url:placeholder_table_features; alt_text:Bảng so sánh các tính năng chính của nhiều loại trợ lý email AI, ví dụ Triage, soạn thảo, tóm tắt, học giọng văn.; caption:Đánh giá công cụ email AI dựa trên những tính năng giải quyết điểm đau lớn nhất của bạn.]
 
 **Khớp với nhu cầu:** Một số công cụ là bộ tăng năng suất tổng quát, trong khi những công cụ khác chuyên biệt hơn. [Lavender tập trung vào tiếp cận bán hàng](https://www.helpscout.com/blog/ai-for-email/), còn các công cụ tích hợp trong nền tảng như [Help Scout hướng đến hỗ trợ khách hàng](https://www.helpscout.com/blog/ai-for-email/). Hãy chọn công cụ phù hợp với trường hợp sử dụng chính của bạn.
 

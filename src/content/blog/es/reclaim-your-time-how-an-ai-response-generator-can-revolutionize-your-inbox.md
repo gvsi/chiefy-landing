@@ -151,8 +151,6 @@ El mercado de herramientas de correo electrónico con IA se está expandiendo r�
 
 - **Aplicaciones independientes:** Estas pueden ofrecer funciones más amplias, pero pueden requerir copiar/pegar o trabajar en una ventana separada, lo que podría interrumpir el flujo a menos que tengan una excelente integración con el navegador.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Captura de pantalla que muestra un ejemplo de un asistente de correo electrónico con IA integrado en la interfaz Gmail, que ofrece sugerencias., caption:Los asistentes de IA integrados funcionan directamente dentro de su cliente de correo electrónico existente para un flujo de trabajo más fluido.]
-
 **Lista de verificación de funciones clave:** Evalúe las herramientas según las funciones más importantes para usted:
 
 - **Priorización/Triaje:** ¿Con qué eficacia aparecen los correos electrónicos importantes?
@@ -168,8 +166,6 @@ El mercado de herramientas de correo electrónico con IA se está expandiendo r�
 - **Facilidad de uso:** ¿La interfaz es intuitiva?
 
 - **Precios:** ¿Ofrece una prueba o un plan gratuito? ¿El costo justifica el valor?
-
-\[url:placeholder_table_features; alt_text:Tabla que compara las funciones clave entre diferentes tipos de asistentes de correo electrónico de IA (por ejemplo, clasificación, redacción, resumen, Voice Learning)., caption:Evalúe las herramientas de correo electrónico de IA en función de las funciones que abordan sus mayores puntos débiles.]
 
 **Ajuste a las necesidades:** Algunas herramientas aumentan la productividad en general, mientras que otras se especializan. [Lavender se centra en el alcance de ventas](https://www.helpscout.com/blog/ai-for-email/), mientras que las herramientas integradas en plataformas como [Help Scout están orientadas a la atención al cliente](https://www.helpscout.com/blog/ai-for-email/). Elija uno que se alinee con su caso de uso principal.
 

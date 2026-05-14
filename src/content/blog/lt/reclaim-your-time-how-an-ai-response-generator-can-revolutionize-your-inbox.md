@@ -151,8 +151,6 @@ DI el. pašto įrankių rinka sparčiai plečiasi. Kaip pasirinkti tinkamą?
 
 - **Atskiros programos:** Jos gali siūlyti platesnes funkcijas, bet gali reikalauti kopijuoti/įklijuoti arba dirbti atskirame lange, taip trikdydamos eigą, nebent turi puikią naršyklės integraciją.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Ekrano kopija, rodanti DI el. pašto asistento integracijos Gmail sąsajoje pavyzdį su pasiūlymais., caption:Integruoti DI asistentai veikia tiesiai esamame el. pašto kliente, kad darbo eiga būtų sklandesnė.]
-
 **Pagrindinių funkcijų kontrolinis sąrašas:** Vertinkite įrankius pagal funkcijas, kurios jums svarbiausios:
 
 - **Prioritetai / atranka:** Kaip efektyviai jis iškelia svarbius laiškus?
@@ -168,8 +166,6 @@ DI el. pašto įrankių rinka sparčiai plečiasi. Kaip pasirinkti tinkamą?
 - **Naudojimo paprastumas:** Ar sąsaja intuityvi?
 
 - **Kainodara:** Ar siūlomas nemokamas bandymas arba planas? Ar kaina pateisina vertę?
-
-\[url:placeholder_table_features; alt_text:Lentelė, lyginanti pagrindines skirtingų DI el. pašto asistentų tipų funkcijas, pvz., atranką, juodraščius, santraukas, balso mokymąsi., caption:Vertinkite DI el. pašto įrankius pagal funkcijas, kurios sprendžia didžiausius jūsų skausmo taškus.]
 
 **Atitikimas poreikiams:** Kai kurie įrankiai yra bendri produktyvumo stiprintuvai, kiti specializuojasi. [Lavender orientuojasi į pardavimų laiškus](https://www.helpscout.com/blog/ai-for-email/), o į tokias platformas kaip [Help Scout integruoti įrankiai skirti klientų aptarnavimui](https://www.helpscout.com/blog/ai-for-email/). Rinkitės tai, kas atitinka pagrindinį jūsų naudojimo atvejį.
 

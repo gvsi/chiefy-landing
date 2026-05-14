@@ -35,6 +35,8 @@ function readText(relativePath) {
     return readFileSync(path.join(repoRoot, relativePath), "utf8")
 }
 
+const glossarySource = readJson("src/i18n/glossary.source.json")
+
 function runNodeScript(relativePath, scriptArgs = []) {
     const result = spawnSync(process.execPath, [path.join(repoRoot, relativePath), ...scriptArgs], {
         cwd: repoRoot,
@@ -199,9 +201,23 @@ const publishedContentLeftoverPhrases = [
 
 const publishedContentLeftoverPatterns = [
     /\\?\[Placeholder for Image:[^\]]+\]/u,
+    /\\?\[Placeholder[^\]]+\]/iu,
+    /\\?\[url:placeholder_[^\]]+\]/iu,
+    /\*\*(?:Képhelyőrző|Kueri Gambar Placeholder)[^\n]*/iu,
 ]
 
+function escapeRegex(value) {
+    return value.replace(/[.*+?^${}()|[\]\\]/gu, "\\$&")
+}
+
+const glossaryGlueTerms = [...new Set(glossarySource.provider_terms ?? [])]
+const glossaryGluePatterns = glossaryGlueTerms.flatMap((term) => [
+    new RegExp(`(?<=[\\p{Script=Latin}\\p{N}])${escapeRegex(term)}`, "u"),
+    new RegExp(`${escapeRegex(term)}(?=[\\p{Lu}\\p{N}])`, "u"),
+])
+
 const protectedTermGluePatterns = [
+    ...glossaryGluePatterns,
     /\bAI(?=[\p{Ll}]{2,}|\p{N})/u,
     /(?<=[\p{Ll}\p{N}])AI\b/u,
     /(?<=[\p{Script=Latin}\p{N}])ChatGPT/u,
@@ -258,6 +274,12 @@ function assertNoProtectedTermGlue(locale, relativePath, content) {
             fail(`Protected glossary term appears glued to surrounding text in ${relativePath}: ${excerpt}`)
         }
     }
+}
+
+function assertNoProtectedTermGlueInValue(locale, relativePath, value) {
+    visitStringValues(value, (content, keyPath) => {
+        assertNoProtectedTermGlue(locale, `${relativePath}:${keyPath.join(".")}`, content)
+    })
 }
 
 function assertNoLongEnglishRuns(locale, relativePath, content) {
@@ -323,6 +345,9 @@ function assertMessageQualityContracts(locale, messages, englishMessages) {
         if (/[\p{Script=Latin}]\{[A-Za-z_][A-Za-z0-9_]*\}/u.test(value) || /\{[A-Za-z_][A-Za-z0-9_]*\}[\p{Script=Latin}]/u.test(value)) {
             fail(`Message placeholder is glued to Latin text for ${locale}: ${key}`)
         }
+        if (/[:©]\{[A-Za-z_][A-Za-z0-9_]*\}/u.test(value)) {
+            fail(`Message placeholder is missing visible separator spacing for ${locale}: ${key}`)
+        }
         if (disallowedLocalizedMessageValues[key]?.has(value)) {
             fail(`Message contains known wrong-context translation for ${locale}: ${key}`)
         }
@@ -372,9 +397,50 @@ function assertMessagePlaceholderParity(locale, messages, englishMessages) {
     }
 }
 
+function visitStringValues(value, visitor, keyPath = []) {
+    if (typeof value === "string") {
+        visitor(value, keyPath)
+    } else if (Array.isArray(value)) {
+        value.forEach((item, index) => visitStringValues(item, visitor, [...keyPath, String(index)]))
+    } else if (value && typeof value === "object") {
+        for (const [key, nested] of Object.entries(value)) {
+            visitStringValues(nested, visitor, [...keyPath, key])
+        }
+    }
+}
+
+const disallowedNonEnglishHomeExactValues = new Set([
+    "Tuesday, at 10am",
+    "Thursday, at 2pm",
+    "Friday, 9am",
+    "Follow",
+    "Reschedule?",
+    "Yesterday",
+    "Dec 20",
+    "2 days ago",
+    "12 hours ago",
+])
+
+const disallowedItalianHomeExactValues = new Set([
+    "Biscotti",
+    "Redigere una risposta",
+    "Redigere anche la risposta?",
+    "Riprogrammare?",
+    "Pianificare anche un follow-up?",
+])
+
 function assertHomeQualityContracts(locale, home, englishHome) {
     if (locale !== "en-XA" && home.faq?.footerBrand !== "DUET MAIL") {
         fail(`Home FAQ brand must preserve Duet Mail for ${locale}`)
+    }
+
+    if (home.jsonLd?.applicationCategory !== englishHome.jsonLd?.applicationCategory) {
+        fail(`Home JSON-LD applicationCategory must preserve schema.org enum for ${locale}`)
+    }
+    const englishOfferUnitTexts = (englishHome.jsonLd?.offers ?? []).map((offer) => offer.unitText ?? null)
+    const localizedOfferUnitTexts = (home.jsonLd?.offers ?? []).map((offer) => offer.unitText ?? null)
+    if (JSON.stringify(localizedOfferUnitTexts) !== JSON.stringify(englishOfferUnitTexts)) {
+        fail(`Home JSON-LD offer unitText must preserve schema.org unit codes for ${locale}`)
     }
 
     const englishActions = englishHome.agentChatShowcase?.suggestions?.map((suggestion) => suggestion.action) ?? []
@@ -382,6 +448,18 @@ function assertHomeQualityContracts(locale, home, englishHome) {
     if (JSON.stringify(localizedActions) !== JSON.stringify(englishActions)) {
         fail(`Home agent chat suggestion actions must preserve stable enum values for ${locale}`)
     }
+
+    visitStringValues(home, (value, keyPath) => {
+        if (locale !== "en" && locale !== "en-XA" && disallowedNonEnglishHomeExactValues.has(value)) {
+            fail(`Home content contains high-visibility English UI fragment for ${locale}: ${keyPath.join(".")}`)
+        }
+        if (locale === "it" && disallowedItalianHomeExactValues.has(value)) {
+            fail(`Italian home content contains known wrong-context UI translation: ${keyPath.join(".")}`)
+        }
+        if (/[:©]\{[A-Za-z_][A-Za-z0-9_]*\}/u.test(value)) {
+            fail(`Home content placeholder is missing visible separator spacing for ${locale}: ${keyPath.join(".")}`)
+        }
+    })
 
     const serialized = JSON.stringify(home)
     if (locale === "it") {
@@ -760,11 +838,11 @@ async function assertSourceContentFiles({ complete }) {
         assertMessageKeyParity(locale, messages, englishMessages)
         assertMessagePlaceholderParity(locale, messages, englishMessages)
         assertMessageQualityContracts(locale, messages, englishMessages)
-        assertNoProtectedTermGlue(locale, `src/i18n/messages/${locale}.json`, JSON.stringify(messages))
+        assertNoProtectedTermGlueInValue(locale, `src/i18n/messages/${locale}.json`, messages)
         const home = readJson(`src/i18n/content/home/${locale}.json`)
         const englishHome = readJson("src/i18n/content/home/en.json")
         assertHomeQualityContracts(locale, home, englishHome)
-        assertNoProtectedTermGlue(locale, `src/i18n/content/home/${locale}.json`, JSON.stringify(home))
+        assertNoProtectedTermGlueInValue(locale, `src/i18n/content/home/${locale}.json`, home)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.title", home.meta?.title, englishHome.meta?.title)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.description", home.meta?.description, englishHome.meta?.description)
         if (locale === localeSource.default_locale) {
@@ -814,7 +892,7 @@ async function assertSourceContentFiles({ complete }) {
             }
             const vertical = readJson(`src/i18n/content/verticals/${locale}/${file}`)
             const englishVertical = readJson(`src/i18n/content/verticals/en/${file}`)
-            assertNoProtectedTermGlue(locale, `src/i18n/content/verticals/${locale}/${file}`, JSON.stringify(vertical))
+            assertNoProtectedTermGlueInValue(locale, `src/i18n/content/verticals/${locale}/${file}`, vertical)
             assertLocalizedSeoValue(locale, `src/i18n/content/verticals/${locale}/${file}`, "pageTitle", vertical.pageTitle, englishVertical.pageTitle)
             assertLocalizedSeoValue(locale, `src/i18n/content/verticals/${locale}/${file}`, "metaDescription", vertical.metaDescription, englishVertical.metaDescription)
             if (locale === localeSource.default_locale) {

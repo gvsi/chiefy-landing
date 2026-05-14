@@ -151,8 +151,6 @@ Marknaden för AI-e-postverktyg växer snabbt. Hur väljer du rätt för dig?
 
 - **Fristående appar:** Dessa kan erbjuda bredare funktioner men kan kräva kopiering/klistring eller arbete i ett separat fönster, vilket kan störa flödet om de inte har utmärkt webbläsarintegration.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Skärmdump som visar ett exempel på en AI-e-postassistent integrerad i Gmail-gränssnittet, med förslag., caption:Integrerade AI-assistenter arbetar direkt i din befintliga e-postklient för ett smidigare arbetsflöde.]
-
 **Checklista för nyckelfunktioner:** Utvärdera verktyg baserat på funktionerna som är viktigast för dig:
 
 - **Prioritering/Triage:** Hur effektivt visas viktiga e-postmeddelanden?
@@ -168,8 +166,6 @@ Marknaden för AI-e-postverktyg växer snabbt. Hur väljer du rätt för dig?
 - **Användarvänlighet:** Är gränssnittet intuitivt?
 
 - **Priser:** Erbjuder det en gratis provperiod eller plan? Motiverar kostnaden värdet?
-
-\[url:placeholder_table_features; alt_text:Tabell som jämför nyckelfunktioner mellan olika typer av AI-e-postassistenter (t.ex. Triage, Drafting, Summarization, Voice Learning)., caption:Utvärdera AI-e-postverktyg baserat på funktionerna som adresserar dina största smärtpunkter.]
 
 **Anpassar efter behov:** Vissa verktyg är generella produktivitetshöjare, medan andra är specialiserade. [Lavender fokuserar på säljuppsökande](https://www.helpscout.com/blog/ai-for-email/), medan verktyg integrerade i plattformar som [Help Scout är inriktade på kundsupport](https://www.helpscout.com/blog/ai-for-email/). Välj en som passar ditt primära användningsfall.
 

@@ -635,7 +635,7 @@
     "organizationContactType": "カスタマーサポート",
     "softwareName": "Duet Mail",
     "softwareDescription": "Gmail および Outlook 用の AI 電子メール アシスタント。電子メールを自動的に要約し、音声で返信の下書きを作成し、受信トレイを整理して毎週時間を節約します。",
-    "applicationCategory": "通信アプリケーション",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "スマートな電子メールの整理と分類",
       "AI を利用したあなたの声での電子メールの下書き",

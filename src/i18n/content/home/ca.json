@@ -139,11 +139,11 @@
           "reminders": [
             {
               "title": "Completar les tasques d'escriptura",
-              "time": "2 days ago"
+              "time": "fa 2 dies"
             },
             {
               "title": "Integració de projectes",
-              "time": "12 hours ago"
+              "time": "fa 12 hores"
             }
           ],
           "actions": [
@@ -635,7 +635,7 @@
     "organizationContactType": "Atenció al client",
     "softwareName": "Duet Mail",
     "softwareDescription": "Assistent de correu electrònic AI per a Gmail i Outlook que resumeix automàticament els correus electrònics, redacta esborranys de respostes a la teva veu i organitza la teva safata d'entrada per estalviar hores cada setmana.",
-    "applicationCategory": "Comunicació Aplicació",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Organització i categorització intel·ligent del correu electrònic",
       "Redacció de correu electrònic amb la tecnologia AI a la teva veu",
@@ -654,7 +654,7 @@
         "name": "Pla Pro",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MES",
+        "unitText": "MONTH",
         "description": "Accés complet amb categorització intel·ligent de la safata d'entrada, esborranys AI, assistent i integració del calendari"
       }
     ],

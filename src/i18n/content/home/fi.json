@@ -635,7 +635,7 @@
     "organizationContactType": "Asiakastuki",
     "softwareName": "Duet Mail",
     "softwareDescription": "AI-sähköpostiavustaja Gmailille ja Outlookille, joka tekee automaattisesti yhteenvedon sähköposteista, luonnostelee vastauksia äänelläsi ja järjestää postilaatikkosi tuntien säästämiseksi joka viikko.",
-    "applicationCategory": "viestintäsovellus",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Älykäs sähköpostin järjestäminen ja luokittelu",
       "AI-käyttöinen sähköpostin luonnos äänelläsi",

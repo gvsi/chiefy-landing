@@ -150,8 +150,6 @@ AI-sähköpostityökalujen markkinat laajenevat nopeasti. Miten valitset itselle
 
 – **Erilliset sovellukset:** Nämä voivat tarjota laajempia ominaisuuksia, mutta saattavat edellyttää kopioimista/liittämistä tai työskentelyä erillisessä ikkunassa, mikä saattaa häiritä kulkua, ellei niissä ole erinomaista selainintegraatiota.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Kuvakaappaus, jossa on esimerkki Gmail-käyttöliittymään integroidusta AI-sähköpostiapustajasta, joka tarjoaa ehdotuksia., caption: Integroidut AI-avustajat toimivat suoraan nykyisessä sähköpostiohjelmassasi sujuvamman työnkulun takaamiseksi.]
-
 **Avainominaisuuksien tarkistuslista:** Arvioi työkaluja sinulle tärkeimpien ominaisuuksien perusteella:
 
 – **Priorisointi/Triage:** Kuinka tehokkaasti se tuo esiin tärkeät sähköpostit?
@@ -167,8 +165,6 @@ AI-sähköpostityökalujen markkinat laajenevat nopeasti. Miten valitset itselle
 - **Helppokäyttöisyys:** Onko käyttöliittymä intuitiivinen?
 
 – **Hinnoittelu:** Tarjoaako se ilmaisen kokeilujakson tai paketin? Perusteleeko hinta arvon?
-
-\[url:placeholder_table_features; alt_text: Taulukko, jossa verrataan erityyppisten AI-sähköpostiapulaisten tärkeimpiä ominaisuuksia (esim. triage, luonnos, yhteenveto, äänioppiminen)., caption: Arvioi AI-sähköpostityökaluja niiden ominaisuuksien perusteella, jotka ratkaisevat suurimmat kipukohdat.]
 
 **Tarpeiden mukainen:** Jotkut työkalut lisäävät yleistä tuottavuutta, kun taas toiset ovat erikoistuneet. [Lavender keskittyy myynnin tavoittamiseen](https://www.helpscout.com/blog/ai-for-email/), kun taas työkalut, jotka on integroitu alustoihin, kuten [Help Scout on suunnattu asiakastukeen](https://www.helpscout.com/blog/ai-for-email/). Valitse sellainen, joka sopii ensisijaiseen käyttötapaasi.
 

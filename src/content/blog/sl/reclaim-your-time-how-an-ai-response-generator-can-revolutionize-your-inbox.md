@@ -151,8 +151,6 @@ Trg AI-orodij za e-pošto se hitro širi. Kako izbrati pravo orodje zase?
 
 - **Samostojne aplikacije:** Lahko ponujajo širše funkcije, vendar lahko zahtevajo kopiranje/lepljenje ali delo v ločenem oknu, kar lahko moti tok, razen če imajo odlično integracijo z brskalnikom.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Posnetek zaslona s primerom AI-pomočnika za e-pošto, integriranega v vmesnik Gmail, ki ponuja predloge., caption:Integrirani AI-pomočniki delujejo neposredno v obstoječem e-poštnem odjemalcu za bolj gladek potek dela.]
-
 **Kontrolni seznam ključnih funkcij:** Orodja ocenite glede na funkcije, ki so za vas najpomembnejše:
 
 - **Prioritizacija/triaža:** Kako učinkovito izpostavi pomembna sporočila?
@@ -168,8 +166,6 @@ Trg AI-orodij za e-pošto se hitro širi. Kako izbrati pravo orodje zase?
 - **Preprostost uporabe:** Je vmesnik intuitiven?
 
 - **Cene:** Ponuja brezplačen preskus ali paket? Ali cena upraviči vrednost?
-
-\[url:placeholder_table_features; alt_text:Tabela, ki primerja ključne funkcije različnih vrst AI-pomočnikov za e-pošto (npr. triaža, osnutki, povzemanje, učenje glasu)., caption:AI-orodja za e-pošto ocenite glede na funkcije, ki rešujejo vaše največje bolečine.]
 
 **Ujemanje s potrebami:** Nekatera orodja so splošni pospeševalniki produktivnosti, druga so specializirana. [Lavender se osredotoča na prodajna sporočila](https://www.helpscout.com/blog/ai-for-email/), medtem ko so orodja, vgrajena v platforme, kot je [Help Scout, namenjena podpori strankam](https://www.helpscout.com/blog/ai-for-email/). Izberite tisto, ki ustreza vašemu glavnemu primeru uporabe.
 

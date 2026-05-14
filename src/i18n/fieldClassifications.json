@@ -12,9 +12,12 @@
     "$.type",
     "$.agentChatShowcase.suggestions[*].action",
     "$.jsonLd.@context",
-    "$.jsonLd.@type"
+    "$.jsonLd.@type",
+    "$.jsonLd.applicationCategory",
+    "$.jsonLd.offers[*].unitText"
   ],
   "lockedValuePathPatterns": [
+    "applicationCategory",
     "avatarColor",
     "avatarKey",
     "billingAmount",
@@ -30,7 +33,8 @@
     "priceLabel",
     "savings",
     "slug",
-    "trialDays"
+    "trialDays",
+    "unitText"
   ],
   "urlClasses": {
     "staticAsset": ["^/", "^/blog/images/", "^\\./", "^\\.\\./"],

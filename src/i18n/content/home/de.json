@@ -255,7 +255,7 @@
     "subtitle": "Bitten Sie Duet, E-Mails zu finden, Ihren Kalender zu überprüfen oder eine Antwort zu verfassen. Es versteht Ihren Posteingang und antwortet sofort.",
     "windowTitle": "Duet Agent",
     "onlineLabel": "Online",
-    "initialUserMessage": "Können Sie die von der Buchhaltung gesendeteStripe-Rechnung finden?",
+    "initialUserMessage": "Können Sie die von der Buchhaltung gesendete Stripe-Rechnung finden?",
     "processingText": "Posteingang wird durchsucht...",
     "foundHeader": "Es wurden 2 E-Mails von Stripe gefunden",
     "foundBody": "Ich habe die Quittung über 29,00 USD vom 24. Oktober gefunden.",
@@ -282,7 +282,7 @@
       "draftHeader": "Entwurf: Accounting@company.com",
       "draftLines": [
         "Hallo Team,",
-        "Anbei finden Sie die RechnungStripefür Oktober (29,00 $).",
+        "Anbei finden Sie die Rechnung Stripe für Oktober (29,00 $).",
         "Lassen Sie mich wissen, wenn Sie noch etwas benötigen.",
         "Am besten,"
       ],
@@ -368,7 +368,7 @@
     "perUserSuffix": "/Benutzer",
     "annualBillingSuffix": "(wird jährlich abgerechnet)",
     "trustItems": [
-      "Sicherer Checkout überStripe",
+      "Sicherer Checkout über Stripe",
       "Jederzeit kündbar"
     ],
     "plans": [
@@ -526,7 +526,7 @@
     "brandIconAlt": "Duet Mail-Symbol",
     "brandLogoAlt": "Duet Mail",
     "tagline": "Duet Mail – Der KI-E-Mail-Assistent, der Ihnen jede Woche Stunden spart",
-    "copyrightTemplate": "Duet Mail ©{year}",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Entdecken",
@@ -635,7 +635,7 @@
     "organizationContactType": "Kundensupport",
     "softwareName": "Duet Mail",
     "softwareDescription": "KI-E-Mail-Assistent für Gmail und Outlook, der E-Mails automatisch zusammenfasst, Antworten mit Ihrer Stimme entwirft und Ihren Posteingang organisiert, um jede Woche Stunden zu sparen.",
-    "applicationCategory": "Kommunikationsanwendung",
+    "applicationCategory": "CommunicationApplication",
     "featureList": [
       "Intelligente E-Mail-Organisation und Kategorisierung",
       "KI-gestütztes Verfassen von E-Mails mit Ihrer Stimme",
@@ -654,7 +654,7 @@
         "name": "Pro Plan",
         "price": "19.99",
         "priceCurrency": "USD",
-        "unitText": "MONAT",
+        "unitText": "MONTH",
         "description": "Voller Zugriff mit intelligenter Posteingangskategorisierung, KI-Entwürfen, Assistent und Kalenderintegration"
       }
     ],

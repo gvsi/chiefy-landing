@@ -59,7 +59,6 @@ Mempertahankan suara otentik sangatlah penting. Di sinilah alat yang dirancang k
 
 **Solusi AI:** Asisten email AI bertindak seperti alat pengarahan pribadi. Mereka dapat secara otomatis menganalisis dan menyingkat percakapan email yang panjang, dokumen terlampir (seperti file PDF atau Word), atau bahkan transkrip rapat menjadi ringkasan yang singkat dan mudah dicerna. Yang terpenting, mereka unggul dalam mengekstraksi sinyal dari kebisingan – mengidentifikasi keputusan penting yang diambil, item tindakan yang perlu dilakukan, pertanyaan penting yang diajukan, dan tenggat waktu yang disebutkan.
 
-**Kueri Gambar PlaceholderGoogle Gambar:** Infografis ringkasan rangkaian email AI**Teks ​​Alt:** Infografis yang menampilkan rangkaian email yang panjang dan rumit yang diringkas oleh AI menjadi 3 poin penting: Pengambilan Keputusan, Item Tindakan, Pertanyaan Kunci.**Keterangan:** Alat ringkasan AI mengatasi kebisingan, mengekstraksi informasi penting dari rangkaian email yang panjang.
 
 **Kasus Penggunaan:** Kemampuan ini sangat berharga untuk mendapatkan informasi terbaru dengan cepat setelah pergi, memahami konteks masalah yang kompleks tanpa membaca ulang seluruh riwayat, atau secara efisien berbagi inti percakapan dengan anggota tim yang perlu diikutsertakan.
 

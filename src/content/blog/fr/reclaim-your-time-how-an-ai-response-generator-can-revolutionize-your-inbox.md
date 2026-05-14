@@ -151,8 +151,6 @@ Le marché des outils d’e-mail IA se développe rapidement. Comment choisir ce
 
 - **Applications autonomes :** Elles peuvent offrir des fonctionnalités plus étendues, mais nécessitent parfois de copier/coller ou de travailler dans une fenêtre séparée, ce qui peut perturber le flux de travail sauf si leur intégration au navigateur est excellente.
 
-[url:placeholder_screenshot_integrated_ai; alt_text:Capture d’écran montrant un exemple d’assistant de messagerie IA intégré à l’interface Gmail, offrant des suggestions., caption:Les assistants IA intégrés fonctionnent directement dans votre client de messagerie existant pour un flux de travail plus fluide.]
-
 **Liste de contrôle des fonctionnalités clés :** Évaluez les outils selon les fonctionnalités les plus importantes pour vous :
 
 - **Priorisation/Triage :** Dans quelle mesure fait-il remonter efficacement les e-mails importants ?
@@ -168,8 +166,6 @@ Le marché des outils d’e-mail IA se développe rapidement. Comment choisir ce
 - **Facilité d’utilisation :** L’interface est-elle intuitive ?
 
 - **Tarification :** Propose-t-il un essai gratuit ou une formule gratuite ? Le coût est-il justifié par la valeur ?
-
-[url:placeholder_table_features; alt_text:Tableau comparant les fonctionnalités clés entre différents types d’assistants e-mail IA (par exemple, triage, rédaction, synthèse, apprentissage de la voix)., caption:Évaluez les outils d’e-mail IA selon les fonctionnalités qui répondent à vos principaux points de friction.]
 
 **Adapter à vos besoins :** Certains outils sont de simples accélérateurs de productivité, tandis que d’autres se spécialisent. [Lavender se concentre sur la prospection commerciale](https://www.helpscout.com/blog/ai-for-email/), tandis que les outils intégrés à des plateformes comme [Help Scout sont pensés pour le support client](https://www.helpscout.com/blog/ai-for-email/). Choisissez celui qui correspond à votre cas d’usage principal.
 

@@ -151,8 +151,6 @@ Il mercato degli strumenti di posta elettronica basati sull’intelligenza artif
 
 - **App autonome:** potrebbero offrire funzionalità più ampie ma potrebbero richiedere operazioni di copia/incolla o di lavoro in una finestra separata, interrompendo potenzialmente il flusso a meno che non dispongano di un'eccellente integrazione con il browser.
 
-\[url:placeholder_screenshot_integrated_ai; alt_text:Screenshot che mostra un esempio di un assistente e-mail AI integrato nell'interfaccia Gmail, che offre suggerimenti., caption:Gli assistenti AI integrati funzionano direttamente nel client di posta elettronica esistente per un flusso di lavoro più fluido.]
-
 **Elenco di controllo delle funzionalità principali:** valuta gli strumenti in base alle funzionalità più importanti per te:
 
 - **Priorità/Triage:** con quale efficacia vengono evidenziate le email importanti?
@@ -168,8 +166,6 @@ Il mercato degli strumenti di posta elettronica basati sull’intelligenza artif
 - **Facilità d'uso:** l'interfaccia è intuitiva?
 
 - **Prezzi:** Offre una prova o un piano gratuito? Il costo giustifica il valore?
-
-\[url:placeholder_table_features; alt_text:Tabella che confronta le funzionalità chiave di diversi tipi di assistenti e-mail AI (ad es. Triage, Redazione, Riepilogo, Apprendimento vocale)., caption:Valuta gli strumenti e-mail AI in base alle funzionalità che risolvono i tuoi maggiori punti critici.]
 
 **Abbinamento alle esigenze:** alcuni strumenti aumentano la produttività generale, mentre altri sono specializzati. [Lavender si concentra sulla sensibilizzazione delle vendite](https://www.helpscout.com/blog/ai-for-email/), mentre gli strumenti integrati in piattaforme come [Help Scout sono orientati all'assistenza clienti](https://www.helpscout.com/blog/ai-for-email/). Scegline uno che sia in linea con il tuo caso d'uso principale.
 
