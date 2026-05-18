@@ -1,18 +1,16 @@
 ---
-import LanguageMenu from "./LanguageMenu.astro";
 import ThemeToggle from "../ui/ThemeToggle.astro";
 import { AUTH_CHOOSER_URL } from "../../utils/constants";
 import type { Locale } from "../../i18n/locales";
-import { localizedPath, type AlternateLink } from "../../i18n/routing";
+import { localizedPath } from "../../i18n/routing";
 import { t, type Messages } from "../../i18n/messages/schema";
 
 type Props = {
     locale: Locale;
     messages: Messages;
-    alternates: AlternateLink[];
 };
 
-const { locale, messages, alternates } = Astro.props;
+const { locale, messages } = Astro.props;
 
 const homePath = localizedPath(locale, { kind: "home" });
 const anchor = (id: string) => `${homePath}#${id}`;
@@ -66,12 +64,6 @@ const closeMenuLabel = t(messages, "nav.closeMenu");
         </nav>
 
         <div class="flex items-center gap-3">
-            <LanguageMenu
-                locale={locale}
-                messages={messages}
-                alternates={alternates}
-                className="desktop-language-menu"
-            />
             <ThemeToggle ariaLabel={t(messages, "theme.toggle")} />
             <a class="nav-cta" href={AUTH_CHOOSER_URL}>{t(messages, "nav.getStarted")}</a>
 
@@ -117,12 +109,6 @@ const closeMenuLabel = t(messages, "nav.closeMenu");
                     {navLinks.map((link) => (
                         <a class="mobile-menu-link" href={link.href}>{link.label}</a>
                     ))}
-                    <LanguageMenu
-                        locale={locale}
-                        messages={messages}
-                        alternates={alternates}
-                        className="mobile-menu-language"
-                    />
                 </nav>
             </details>
         </div>
@@ -398,13 +384,4 @@ const closeMenuLabel = t(messages, "nav.closeMenu");
         outline-offset: 2px;
     }
 
-    :global(.desktop-language-menu) {
-        display: none;
-    }
-
-    @media (min-width: 1280px) {
-        :global(.desktop-language-menu) {
-            display: block;
-        }
-    }
 </style>

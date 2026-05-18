@@ -200,21 +200,28 @@ function originRelativeHref(href: string): string {
         outline-offset: 2px;
     }
 
-    :global(.mobile-menu-language.language-menu) {
-        width: 100%;
+    :global(.footer-language-menu.language-menu) {
+        width: fit-content;
+        max-width: 100%;
+        margin-top: 18px;
     }
 
-    :global(.mobile-menu-language.language-menu) .language-menu-trigger {
-        width: 100%;
-        justify-content: space-between;
-        padding: 10px 16px;
-        border-radius: 10px;
+    :global(.footer-language-menu.language-menu) .language-menu-trigger {
+        min-height: 38px;
+        padding: 8px 12px;
+        border-color: var(--nav-border);
+        color: var(--duet-muted);
     }
 
-    :global(.mobile-menu-language.language-menu) .language-menu-panel {
-        position: static;
-        max-height: 240px;
-        margin-top: 6px;
-        box-shadow: none;
+    :global(.footer-language-menu.language-menu) .language-menu-trigger:hover {
+        color: var(--prose-heading);
+    }
+
+    :global(.footer-language-menu.language-menu) .language-menu-panel {
+        right: auto;
+        left: 0;
+        top: auto;
+        bottom: calc(100% + 8px);
+        max-height: min(360px, calc(100vh - 96px));
     }
 </style>

@@ -49,7 +49,7 @@ const alternates = englishOnlyAlternates(Astro.site, { kind: "home" });
     alternates={alternates}
     robotsDirectives="noindex,noarchive"
 >
-    <Nav locale={routeLocale} messages={messages} alternates={alternates} />
+    <Nav locale={routeLocale} messages={messages} />
     <main class="relative isolate">
         <HeroBackground />
         <Hero hero={homeSections.hero}>
@@ -68,5 +68,5 @@ const alternates = englishOnlyAlternates(Astro.site, { kind: "home" });
         <FAQ faq={homeSections.faq} />
     </main>
     <FinalCTA finalCta={homeSections.finalCta} />
-    <Footer locale={routeLocale} messages={messages} />
+    <Footer locale={routeLocale} messages={messages} alternates={alternates} />
 </BaseLayout>

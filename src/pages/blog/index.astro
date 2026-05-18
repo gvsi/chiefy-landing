@@ -75,7 +75,7 @@ function getIssueNumber(index: number, total: number): string {
     robotsDirectives={robotsDirectives}
     extraHeadHtml={extraHeadHtml}
 >
-    <Nav locale={locale} messages={messages} alternates={alternates} />
+    <Nav locale={locale} messages={messages} />
     <main class="blog-index">
         <header class="blog-header">
             <div class="blog-header-inner">
@@ -206,5 +206,5 @@ function getIssueNumber(index: number, total: number): string {
             )
         }
     </main>
-    <Footer locale={locale} messages={messages} />
+    <Footer locale={locale} messages={messages} alternates={alternates} />
 </BaseLayout>

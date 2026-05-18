@@ -84,7 +84,7 @@ const extraHeadHtml = [
     robotsDirectives={robotsDirectives}
     extraHeadHtml={extraHeadHtml}
 >
-    <Nav locale={locale} messages={messages} alternates={alternates} />
+    <Nav locale={locale} messages={messages} />
     <main class="relative isolate">
         <HeroBackground />
         <Hero hero={homeSections.hero} heroHeadline={data.heroHeadline} heroSubline={data.heroSubline} heroBadge={data.heroBadge}>
@@ -110,5 +110,5 @@ const extraHeadHtml = [
         <FAQ faq={homeSections.faq} verticalFaqs={data.verticalFaqs} />
     </main>
     <FinalCTA finalCta={homeSections.finalCta} ctaHeadline={data.ctaHeadline} ctaSubline={data.ctaSubline} />
-    <Footer locale={locale} messages={messages} />
+    <Footer locale={locale} messages={messages} alternates={alternates} />
 </BaseLayout>
