@@ -108,7 +108,7 @@ const extraHeadHtml = [
     robotsDirectives={robotsDirectives}
     extraHeadHtml={extraHeadHtml}
 >
-    <Nav locale={locale} messages={messages} alternates={alternates} />
+    <Nav locale={locale} messages={messages} />
     <main class="relative isolate">
         <HeroBackground />
         <Hero hero={homeSections.hero}>
@@ -127,5 +127,5 @@ const extraHeadHtml = [
         <FAQ faq={homeSections.faq} />
     </main>
     <FinalCTA finalCta={homeSections.finalCta} />
-    <Footer locale={locale} messages={messages} />
+    <Footer locale={locale} messages={messages} alternates={alternates} />
 </BaseLayout>

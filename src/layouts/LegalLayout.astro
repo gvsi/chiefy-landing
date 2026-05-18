@@ -131,7 +131,7 @@ const extraHeadHtml = `${jsonLdScript(pageJsonLd)}\n${jsonLdScript(breadcrumbJso
     robotsDirectives={robotsDirectives}
     extraHeadHtml={extraHeadHtml}
 >
-    <LegalNav active={activeNav} locale={locale} messages={messages} alternates={alternates} />
+    <LegalNav active={activeNav} locale={locale} messages={messages} />
 
     <main class="relative isolate">
         <div class="mx-auto max-w-4xl px-6 pt-28 pb-20 md:px-10">
@@ -146,7 +146,7 @@ const extraHeadHtml = `${jsonLdScript(pageJsonLd)}\n${jsonLdScript(breadcrumbJso
         </div>
     </main>
 
-    <Footer locale={locale} messages={messages} />
+    <Footer locale={locale} messages={messages} alternates={alternates} />
 </BaseLayout>
 
 <style>

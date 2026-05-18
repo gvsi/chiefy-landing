@@ -1,8 +1,7 @@
 ---
-import LanguageMenu from "./LanguageMenu.astro"
 import ThemeToggle from "../ui/ThemeToggle.astro";
 import type { Locale } from "../../i18n/locales"
-import { localizedPath, type AlternateLink } from "../../i18n/routing"
+import { localizedPath } from "../../i18n/routing"
 import { t, type Messages } from "../../i18n/messages/schema"
 
 type ActivePage = "terms" | "privacy" | "cookies" | "disclaimer"
@@ -11,10 +10,9 @@ type Props = {
     active?: ActivePage
     locale: Locale
     messages: Messages
-    alternates: AlternateLink[]
 }
 
-const { active, locale, messages, alternates } = Astro.props
+const { active, locale, messages } = Astro.props
 
 const homePath = localizedPath(locale, { kind: "home" })
 const links: Array<{ key: ActivePage | "home"; label: string; href: string }> = [
@@ -80,12 +78,6 @@ const closeMenuLabel = t(messages, "nav.closeMenu")
         </nav>
 
         <div class="flex items-center gap-3">
-            <LanguageMenu
-                locale={locale}
-                messages={messages}
-                alternates={alternates}
-                className="desktop-language-menu"
-            />
             <ThemeToggle ariaLabel={t(messages, "theme.toggle")} />
             <details class="mobile-menu xl:hidden" data-mobile-menu>
                 <summary
@@ -146,12 +138,6 @@ const closeMenuLabel = t(messages, "nav.closeMenu")
                             {link.label}
                         </a>
                     ))}
-                    <LanguageMenu
-                        locale={locale}
-                        messages={messages}
-                        alternates={alternates}
-                        className="mobile-menu-language"
-                    />
                 </nav>
             </details>
         </div>
@@ -377,13 +363,4 @@ const closeMenuLabel = t(messages, "nav.closeMenu")
         background: rgba(0, 0, 0, 0.04);
     }
 
-    :global(.desktop-language-menu) {
-        display: none;
-    }
-
-    @media (min-width: 1280px) {
-        :global(.desktop-language-menu) {
-            display: block;
-        }
-    }
 </style>

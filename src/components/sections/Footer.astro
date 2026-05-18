@@ -1,6 +1,7 @@
 ---
+import LanguageMenu from "../nav/LanguageMenu.astro";
 import type { Locale } from "../../i18n/locales";
-import { localizedPath } from "../../i18n/routing";
+import { localizedPath, type AlternateLink } from "../../i18n/routing";
 import { t, type Messages } from "../../i18n/messages/schema";
 
 type FooterLink = {
@@ -19,9 +20,10 @@ type FooterGroup = {
 type Props = {
     locale: Locale;
     messages: Messages;
+    alternates: AlternateLink[];
 };
 
-const { locale, messages } = Astro.props;
+const { locale, messages, alternates } = Astro.props;
 const year = new Date().getFullYear();
 const homePath = localizedPath(locale, { kind: "home" });
 const anchor = (id: string) => `${homePath}#${id}`;
@@ -124,6 +126,13 @@ const groups: FooterGroup[] = [
                 <p class="footer-tagline mt-5 mb-0 max-w-sm text-pretty">
                     {t(messages, "footer.tagline")}
                 </p>
+
+                <LanguageMenu
+                    locale={locale}
+                    messages={messages}
+                    alternates={alternates}
+                    className="footer-language-menu"
+                />
 
                 <p class="footer-copyright mt-10 mb-0">
                     {t(messages, "footer.copyright", { year })}

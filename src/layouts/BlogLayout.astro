@@ -159,7 +159,7 @@ const extraHeadHtml = [
     ogType="article"
     extraHeadHtml={extraHeadHtml}
 >
-    <Nav locale={locale} messages={messages} alternates={alternates} />
+    <Nav locale={locale} messages={messages} />
 
     <div class="reading-progress" id="reading-progress">
         <div class="reading-progress-bar" id="reading-progress-bar"></div>
@@ -259,7 +259,7 @@ const extraHeadHtml = [
             </footer>
         </article>
     </main>
-    <Footer locale={locale} messages={messages} />
+    <Footer locale={locale} messages={messages} alternates={alternates} />
 </BaseLayout>
 
 <script>
