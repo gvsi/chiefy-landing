@@ -26,6 +26,7 @@
             'utm_creative_format',
             'utm_marketing_tactic',
         ];
+        var STORED_PARAM_KEYS = UTM_KEYS.concat(['ref']);
         var STORAGE_KEY = 'duet__utm_params';
         var COOKIE_NAME = 'duet_utms';
         var COOKIE_MAX_AGE = 60 * 60 * 24 * 365; // 1 year
@@ -35,8 +36,8 @@
             if (!raw) {
                 return result;
             }
-            for (var i = 0; i < UTM_KEYS.length; i++) {
-                var key = UTM_KEYS[i];
+            for (var i = 0; i < STORED_PARAM_KEYS.length; i++) {
+                var key = STORED_PARAM_KEYS[i];
                 var value = raw[key];
                 if (typeof value === 'string') {
                     var trimmed = value.trim();
@@ -115,11 +116,12 @@
                     hasValue = true;
                 }
             }
-            if (!hasValue) {
-                var ref = params.get('ref');
-                if (ref) {
+            var ref = params.get('ref');
+            if (ref) {
+                collected.ref = ref;
+                hasValue = true;
+                if (!collected.utm_source) {
                     collected.utm_source = ref;
-                    hasValue = true;
                 }
             }
             if (!hasValue) {
@@ -128,8 +130,26 @@
             return sanitizeParams(collected);
         }
 
+        // Step 2: click beacon — fires before early-return so returning visitors are counted
+        try {
+            var beaconRef = new URLSearchParams(window.location.search || '').get('ref');
+            if (beaconRef && /^[a-z0-9]{4,16}$/.test(beaconRef) && navigator.sendBeacon) {
+                navigator.sendBeacon(
+                    'https://api.duetmail.com/referral/click',
+                    new Blob([JSON.stringify({ code: beaconRef })], { type: 'text/plain' })
+                );
+            }
+        } catch (error) {
+            /* analytics only — never break the page */
+        }
+
         var existingCookie = readCookie();
+        var urlRefValue = new URLSearchParams(window.location.search || '').get('ref');
         if (Object.keys(existingCookie).length > 0) {
+            if (urlRefValue && /^[a-z0-9]{4,16}$/.test(urlRefValue) && existingCookie.ref !== urlRefValue) {
+                existingCookie.ref = urlRefValue;
+                writeCookie(existingCookie);
+            }
             writeLocalStorage(existingCookie);
             return;
         }
