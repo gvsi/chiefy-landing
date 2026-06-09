@@ -118,10 +118,13 @@
             }
             var ref = params.get('ref');
             if (ref) {
-                collected.ref = ref;
-                hasValue = true;
+                if (/^[a-z0-9]{4,16}$/.test(ref)) {
+                    collected.ref = ref;
+                    hasValue = true;
+                }
                 if (!collected.utm_source) {
                     collected.utm_source = ref;
+                    hasValue = true;
                 }
             }
             if (!hasValue) {
