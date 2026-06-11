@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail pour les architectes d’intérieur | Assistant e-mail IA",
-  "metaDescription": "Duet Mail aide les architectes d’intérieur à gérer les e-mails clients, la coordination des entrepreneurs et les commandes fournisseurs — même depuis le chantier. Des réponses rédigées par l’IA avec les détails de votre projet, vos préférences et votre ton.",
+  "pageTitle": "Chiefy pour les architectes d’intérieur | Assistant e-mail IA",
+  "metaDescription": "Chiefy aide les architectes d’intérieur à gérer les e-mails clients, la coordination des entrepreneurs et les commandes fournisseurs — même depuis le chantier. Des réponses rédigées par l’IA avec les détails de votre projet, vos préférences et votre ton.",
   "heroBadge": "Approuvé par plus de 400 architectes d’intérieur",
   "heroHeadline": "Votre assistant e-mail pendant que vous êtes sur site avec vos clients",
-  "heroSubline": "Duet apprend vos contacts fournisseurs, les détails de vos projets et les préférences de vos clients — puis rédige des réponses par e-mail pour que vous ne perdiez jamais un client à cause d’une réponse trop lente.",
+  "heroSubline": "Chiefy apprend vos contacts fournisseurs, les détails de vos projets et les préférences de vos clients — puis rédige des réponses par e-mail pour que vous ne perdiez jamais un client à cause d’une réponse trop lente.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projet",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Un seul client sauvegardé paie des années de Duet."
+    "punchline": "Un seul client sauvegardé paie des années de Chiefy."
   },
-  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes clients, ensuite les validations en attente, et jamais les newsletters des fournisseurs. Plus besoin de manquer une consultation de design noyée sous les promotions de salons professionnels.",
-  "draftSubtitle": "Duet apprend votre méthode, les détails du projet et votre ton. Lorsqu’une nouvelle demande ou question client arrive, il rédige une réponse complète avec vos disponibilités, les prochaines étapes et les spécificités du projet. Vous relisez et envoyez.",
-  "agentSubtitle": "« Quel est le statut du projet Henderson ? » « Quelles validations sont encore en attente ? » Duet connaît votre boîte de réception et chaque fil de projet — il vous suffit de demander.",
+  "categorizationSubtitle": "Chiefy classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes clients, ensuite les validations en attente, et jamais les newsletters des fournisseurs. Plus besoin de manquer une consultation de design noyée sous les promotions de salons professionnels.",
+  "draftSubtitle": "Chiefy apprend votre méthode, les détails du projet et votre ton. Lorsqu’une nouvelle demande ou question client arrive, il rédige une réponse complète avec vos disponibilités, les prochaines étapes et les spécificités du projet. Vous relisez et envoyez.",
+  "agentSubtitle": "« Quel est le statut du projet Henderson ? » « Quelles validations sont encore en attente ? » Chiefy connaît votre boîte de réception et chaque fil de projet — il vous suffit de demander.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Concepteur principal, Austin TX",
-      "quote": "Je suis sur site 6 heures par jour à coordonner peintres, électriciens et poseurs de carrelage. Pendant ce temps, trois autres clients m’écrivent au sujet de leurs projets. Duet rédige des réponses avec les bons détails du projet — je n’ai plus qu’à relire entre deux visites de chantier.",
+      "quote": "Je suis sur site 6 heures par jour à coordonner peintres, électriciens et poseurs de carrelage. Pendant ce temps, trois autres clients m’écrivent au sujet de leurs projets. Chiefy rédige des réponses avec les bons détails du projet — je n’ai plus qu’à relire entre deux visites de chantier.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Architecte d’intérieur résidentiel, Chicago",
-      "quote": "Les demandes des clients restaient parfois sans réponse pendant des jours parce que j’étais submergé par les e-mails d’approvisionnement et la planification des artisans. Maintenant, Duet répond aux nouveaux prospects en quelques minutes avec mon processus et mes disponibilités. J’ai signé 4 projets supplémentaires ce trimestre.",
+      "quote": "Les demandes des clients restaient parfois sans réponse pendant des jours parce que j’étais submergé par les e-mails d’approvisionnement et la planification des artisans. Maintenant, Chiefy répond aux nouveaux prospects en quelques minutes avec mon processus et mes disponibilités. J’ai signé 4 projets supplémentaires ce trimestre.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Propriétaire de studio de design, Nashville",
-      "quote": "Gérer les e-mails de 12 projets actifs me vidait de mon énergie. Duet classe tout — nouvelles demandes, approbations en attente, commandes fournisseurs, mises à jour des artisans — pour que je sache exactement ce qui nécessite mon attention en premier.",
+      "quote": "Gérer les e-mails de 12 projets actifs me vidait de mon énergie. Chiefy classe tout — nouvelles demandes, approbations en attente, commandes fournisseurs, mises à jour des artisans — pour que je sache exactement ce qui nécessite mon attention en premier.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Décorateur d’intérieur, San Diego",
-      "quote": "Je perdais des clients potentiels parce que je ne pouvais pas répondre assez vite pendant les phases d’installation. Duet a appris mon processus de consultation, ma structure tarifaire, même la façon dont je décris mon style de design. Les clients n’imaginent pas que l’IA intervient.",
+      "quote": "Je perdais des clients potentiels parce que je ne pouvais pas répondre assez vite pendant les phases d’installation. Chiefy a appris mon processus de consultation, ma structure tarifaire, même la façon dont je décris mon style de design. Les clients n’imaginent pas que l’IA intervient.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Architecte d’intérieur commercial, Denver",
-      "quote": "Entre les délais fournisseurs, les plannings des artisans et les demandes de révision des clients, ma boîte de réception était un chaos total. Duet trie tout et rédige des suivis sur les approbations en attente. C’est comme avoir un coordinateur de projet qui ne dort jamais.",
+      "quote": "Entre les délais fournisseurs, les plannings des artisans et les demandes de révision des clients, ma boîte de réception était un chaos total. Chiefy trie tout et rédige des suivis sur les approbations en attente. C’est comme avoir un coordinateur de projet qui ne dort jamais.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Je gère 8 à 10 projets à la fois. Duet peut-il les garder bien distincts ?",
-      "answer": "Oui. Duet suit chaque fil de discussion par client et par projet. Quand vous posez une question sur la cuisine Henderson ou le bureau Park Avenue, il récupère le contexte de toutes les conversations associées — commandes fournisseurs, mises à jour des entrepreneurs, validations clients — pour que vos réponses soient toujours exactes et spécifiques au projet. Plus de confusion sur le carrelage prévu pour quel client."
+      "question": "Je gère 8 à 10 projets à la fois. Chiefy peut-il les garder bien distincts ?",
+      "answer": "Oui. Chiefy suit chaque fil de discussion par client et par projet. Quand vous posez une question sur la cuisine Henderson ou le bureau Park Avenue, il récupère le contexte de toutes les conversations associées — commandes fournisseurs, mises à jour des entrepreneurs, validations clients — pour que vos réponses soient toujours exactes et spécifiques au projet. Plus de confusion sur le carrelage prévu pour quel client."
     },
     {
-      "question": "Je coordonne avec beaucoup d'entrepreneurs et de fournisseurs. Duet peut-il m'aider pour ça ?",
-      "answer": "Absolument. Duet apprend vos contacts d'entrepreneurs, vos interlocuteurs fournisseurs et le contexte du rôle de chaque corps de métier dans vos projets. Quand votre électricien envoie un e-mail pour dire que le câblage encastré est terminé, Duet peut rédiger une réponse confirmant la prochaine étape ou inclure l'installateur des luminaires. Il fait avancer le travail même quand vous êtes de l'autre côté de la ville, sur un autre chantier."
+      "question": "Je coordonne avec beaucoup d'entrepreneurs et de fournisseurs. Chiefy peut-il m'aider pour ça ?",
+      "answer": "Absolument. Chiefy apprend vos contacts d'entrepreneurs, vos interlocuteurs fournisseurs et le contexte du rôle de chaque corps de métier dans vos projets. Quand votre électricien envoie un e-mail pour dire que le câblage encastré est terminé, Chiefy peut rédiger une réponse confirmant la prochaine étape ou inclure l'installateur des luminaires. Il fait avancer le travail même quand vous êtes de l'autre côté de la ville, sur un autre chantier."
     }
   ],
-  "pricingNote": "À 10 000 $/projet, un seul client économisé paie des années de Duet Pro."
+  "pricingNote": "À 10 000 $/projet, un seul client économisé paie des années de Chiefy Pro."
 }

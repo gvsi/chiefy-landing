@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail pour les paysagistes | Assistant e-mail IA",
-  "metaDescription": "Duet Mail aide les paysagistes à répondre instantanément aux e-mails des clients — même sur le terrain. Des réponses rédigées par l’IA avec les détails de vos projets, vos tarifs et votre style.",
+  "pageTitle": "Chiefy pour les paysagistes | Assistant e-mail IA",
+  "metaDescription": "Chiefy aide les paysagistes à répondre instantanément aux e-mails des clients — même sur le terrain. Des réponses rédigées par l’IA avec les détails de vos projets, vos tarifs et votre style.",
   "heroBadge": "Approuvé par plus de 300 paysagistes",
   "heroHeadline": "Votre assistant e-mail pendant que vous êtes sur le terrain",
-  "heroSubline": "Duet apprend les détails de vos projets, vos palettes végétales, vos tarifs et votre méthode — puis rédige des réponses aux e-mails pour que vous ne perdiez jamais un client à cause d’une réponse trop lente.",
+  "heroSubline": "Chiefy apprend les détails de vos projets, vos palettes végétales, vos tarifs et votre méthode — puis rédige des réponses aux e-mails pour que vous ne perdiez jamais un client à cause d’une réponse trop lente.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projet",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Un projet enregistré à lui seul paie des années de Duet."
+    "punchline": "Un projet enregistré à lui seul paie des années de Chiefy."
   },
-  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes de consultation, puis les approbations clients, et jamais le bruit des fournisseurs. Plus besoin de laisser passer un prospect sous une pile de confirmations de commande en pépinière.",
-  "draftSubtitle": "Duet apprend votre tarification, votre processus et votre ton. Lorsqu’une demande de consultation arrive, il rédige une réponse complète avec vos disponibilités, ce à quoi s’attendre et les prochaines étapes. Vous relisez et envoyez.",
-  "agentSubtitle": "\"Quel est le délai sur le projet Henderson ?\" \"Quels clients attendent l’approbation du plan ?\" Duet connaît votre boîte de réception et vos projets — demandez simplement.",
+  "categorizationSubtitle": "Chiefy classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes de consultation, puis les approbations clients, et jamais le bruit des fournisseurs. Plus besoin de laisser passer un prospect sous une pile de confirmations de commande en pépinière.",
+  "draftSubtitle": "Chiefy apprend votre tarification, votre processus et votre ton. Lorsqu’une demande de consultation arrive, il rédige une réponse complète avec vos disponibilités, ce à quoi s’attendre et les prochaines étapes. Vous relisez et envoyez.",
+  "agentSubtitle": "\"Quel est le délai sur le projet Henderson ?\" \"Quels clients attendent l’approbation du plan ?\" Chiefy connaît votre boîte de réception et vos projets — demandez simplement.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Architecte paysagiste, Austin TX",
-      "quote": "Au printemps, je suis sur site 8 heures par jour à faire des relevés et à superviser les installations. Les nouvelles demandes de consultation restaient en attente pendant des jours. Maintenant, Duet répond avec mon processus et mes disponibilités en quelques minutes. J’ai signé 3 projets que j’aurais clairement perdus.",
+      "quote": "Au printemps, je suis sur site 8 heures par jour à faire des relevés et à superviser les installations. Les nouvelles demandes de consultation restaient en attente pendant des jours. Maintenant, Chiefy répond avec mon processus et mes disponibilités en quelques minutes. J’ai signé 3 projets que j’aurais clairement perdus.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Designer paysagiste, Portland OR",
-      "quote": "Coordonner entre les équipes de maçonnerie paysagère, les installateurs d’irrigation et les clients génère une quantité absurde d’e-mails. Duet trie tout cela et rédige des réponses qui incluent les bons détails du projet. C’est comme avoir un office manager.",
+      "quote": "Coordonner entre les équipes de maçonnerie paysagère, les installateurs d’irrigation et les clients génère une quantité absurde d’e-mails. Chiefy trie tout cela et rédige des réponses qui incluent les bons détails du projet. C’est comme avoir un office manager.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Propriétaire d’un studio de design paysager, Denver CO",
-      "quote": "Je passais autrefois chaque soir, après le travail sur le terrain, à rattraper mes e-mails. Toujours les mêmes questions — tarifs, processus, calendrier. Duet s’occupe de tout. Mon délai de réponse est passé de plusieurs jours à quelques minutes et mon taux de conversion a fortement augmenté.",
+      "quote": "Je passais autrefois chaque soir, après le travail sur le terrain, à rattraper mes e-mails. Toujours les mêmes questions — tarifs, processus, calendrier. Chiefy s’occupe de tout. Mon délai de réponse est passé de plusieurs jours à quelques minutes et mon taux de conversion a fortement augmenté.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Designer paysagiste résidentiel, Scottsdale AZ",
-      "quote": "Mes clients posent beaucoup de questions sur les choix de plantes et l’entretien. Duet a appris mes palettes végétales et mes consignes d’entretien, et rédige des réponses que je n’ai presque pas besoin de modifier. Les clients pensent que je suis incroyablement réactif.",
+      "quote": "Mes clients posent beaucoup de questions sur les choix de plantes et l’entretien. Chiefy a appris mes palettes végétales et mes consignes d’entretien, et rédige des réponses que je n’ai presque pas besoin de modifier. Les clients pensent que je suis incroyablement réactif.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Designer paysagiste spécialisé en plantes indigènes, Raleigh NC",
-      "quote": "Je perdais de nouveaux clients parce que je ne pouvais pas répondre alors que j’étais jusqu’aux genoux dans une plantation. Duet rédige des réponses de consultation avec mon processus exact, mes tarifs et ce à quoi s’attendre. Il a été rentabilisé dès la première semaine.",
+      "quote": "Je perdais de nouveaux clients parce que je ne pouvais pas répondre alors que j’étais jusqu’aux genoux dans une plantation. Chiefy rédige des réponses de consultation avec mon processus exact, mes tarifs et ce à quoi s’attendre. Il a été rentabilisé dès la première semaine.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Duet peut-il gérer l'afflux printanier quand les demandes de consultation s'accumulent ?",
-      "answer": "C’est précisément là que Duet excelle. Pendant votre période la plus chargée, chaque nouvelle demande reçoit une réponse rapide et détaillée avec votre processus, votre planning et vos disponibilités — même lorsque vous êtes sur le terrain toute la journée. Plus besoin de perdre des prospects du printemps parce que vous ne pouviez leur répondre qu’à 21 h."
+      "question": "Chiefy peut-il gérer l'afflux printanier quand les demandes de consultation s'accumulent ?",
+      "answer": "C’est précisément là que Chiefy excelle. Pendant votre période la plus chargée, chaque nouvelle demande reçoit une réponse rapide et détaillée avec votre processus, votre planning et vos disponibilités — même lorsque vous êtes sur le terrain toute la journée. Plus besoin de perdre des prospects du printemps parce que vous ne pouviez leur répondre qu’à 21 h."
     },
     {
-      "question": "Je coordonne plusieurs équipes extérieures. Duet peut-il m’aider pour ça ?",
-      "answer": "Oui. Duet apprend vos projets et les intervenants impliqués — maçonnerie paysagère, irrigation, équipes de plantation, pépinières. Il classe séparément les e-mails des prestataires et ceux des clients, et peut rédiger des réponses avec des détails propres au projet, comme les spécifications, les délais et les matériaux. Vous gardez la maîtrise de chaque équipe sans le chaos de la boîte de réception."
+      "question": "Je coordonne plusieurs équipes extérieures. Chiefy peut-il m’aider pour ça ?",
+      "answer": "Oui. Chiefy apprend vos projets et les intervenants impliqués — maçonnerie paysagère, irrigation, équipes de plantation, pépinières. Il classe séparément les e-mails des prestataires et ceux des clients, et peut rédiger des réponses avec des détails propres au projet, comme les spécifications, les délais et les matériaux. Vous gardez la maîtrise de chaque équipe sans le chaos de la boîte de réception."
     }
   ],
   "pricingNote": "À 8 000 $/projet, un client conservé suffit à rentabiliser Pro pendant des années."

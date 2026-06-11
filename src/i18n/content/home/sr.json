@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI Pomoćnik za e-poštu za Gmail i Outlook",
-    "description": "Pomoćnik za e-poštu Duet Mail AI rezimira e-poštu, sastavlja odgovore i organizuje vaše prijemno sanduče. Radi sa Gmail i Outlook. Uštedite 4+ sata nedeljno."
+    "title": "Chiefy | AI Pomoćnik za e-poštu za Gmail i Outlook",
+    "description": "Pomoćnik za e-poštu Chiefy AI rezimira e-poštu, sastavlja odgovore i organizuje vaše prijemno sanduče. Radi sa Gmail i Outlook. Uštedite 4+ sata nedeljno."
   },
   "hero": {
     "badge": "Sada dostupno za Gmail i Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "nacrti",
         "title": "Pošaljite nacrte koji zvuče kao Vi",
-        "description": "Duet AI pisac e-pošte priprema nacrte za vaše najvažnije poruke e-pošte. Uči vaš ton i stilove pisanja.",
+        "description": "Chiefy AI pisac e-pošte priprema nacrte za vaše najvažnije poruke e-pošte. Uči vaš ton i stilove pisanja.",
         "ariaLabel": "Pošaljite nacrte koji zvuče kao vi",
         "mockCopy": {
           "draftedColdEmail": "Napravio sam hladnu e-poštu personalizovanu za Džona",
@@ -115,7 +115,7 @@
       {
         "id": "podsetnici",
         "title": "Inteligentni podsetnici",
-        "description": "Postavite i zaboravite. Duet AI pamti da prati kada drugi ne reaguju, tako da ništa ne pada u vodu.",
+        "description": "Postavite i zaboravite. Chiefy AI pamti da prati kada drugi ne reaguju, tako da ništa ne pada u vodu.",
         "ariaLabel": "Inteligentni podsetnici",
         "mockCopy": {
           "header": "AI-Pametni podsetnici sa napajanjem",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Organizacija e-pošte i pametna kategorizacija prijemnog sandučeta",
     "badge": "Organizacija",
-    "title": "Duet organizuje vaše prijemno sanduče",
+    "title": "Chiefy organizuje vaše prijemno sanduče",
     "subtitle": "Automatska kategorizacija filtrira buku i otkriva ono što je važno. Odmah vidite šta treba preduzeti, šta je samo za vašu informaciju, a šta može da sačeka.",
     "windowTitle": "Inbok",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI Izrada e-pošte i generisanje odgovora",
     "badge": "Izrada",
-    "title": "Duet propuha u tvom glasu",
-    "subtitle": "Duet uči kako pišete i sastavlja odgovore koji odgovaraju vašem tonu. Pregledajte, prilagodite ako je potrebno i pošaljite za nekoliko sekundi.",
+    "title": "Chiefy propuha u tvom glasu",
+    "subtitle": "Chiefy uči kako pišete i sastavlja odgovore koji odgovaraju vašem tonu. Pregledajte, prilagodite ako je potrebno i pošaljite za nekoliko sekundi.",
     "windowTitle": "Nova poruka",
     "fieldLabels": {
       "to": "Za:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI e-mail inteligencija i pomoćnik",
     "badge": "Intelligence",
     "title": "Pitajte bilo šta o svojoj e-pošti",
-    "subtitle": "Zamolite Duet da pronađe imejlove, proveri kalendar ili nacrta odgovor. Razume vaše prijemno sanduče i odmah odgovara.",
-    "windowTitle": "Duet Agent",
+    "subtitle": "Zamolite Chiefy da pronađe imejlove, proveri kalendar ili nacrta odgovor. Razume vaše prijemno sanduče i odmah odgovara.",
+    "windowTitle": "Chiefy Agent",
     "onlineLabel": "Online",
     "initialUserMessage": "Možete li pronaći fakturu Stripe koju je poslalo računovodstvo?",
     "processingText": "Pretraživanje prijemnog sandučeta...",
@@ -321,7 +321,7 @@
       {
         "name": "Frančeska T.",
         "title": "Frilenser",
-        "quote": "Vredi svakog penija. Vreme koje uštedim na imejlu plaća se Duet Mail 10k više. Ne mogu da zamislim rad bez toga sada.",
+        "quote": "Vredi svakog penija. Vreme koje uštedim na imejlu plaća se Chiefy 10k više. Ne mogu da zamislim rad bez toga sada.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Dženifer L.",
         "title": "konsultant",
-        "quote": "Kao konsultantu, svaki minut je važan. Duet Mail mi ne štedi samo vreme – on čini moju komunikaciju e-poštom oštrijom.",
+        "quote": "Kao konsultantu, svaki minut je važan. Chiefy mi ne štedi samo vreme – on čini moju komunikaciju e-poštom oštrijom.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Osnovna organizacija za početak"
           },
           {
-            "title": "Duet asistent",
+            "title": "Chiefy asistent",
             "description": "Probajte pomoćnika AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet asistent",
+            "title": "Chiefy asistent",
             "description": "Ćaskajte da biste pronašli, nacrtali, organizovali i još mnogo toga",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "KONTAKT",
     "contactHeading": "Imate još pitanja?",
     "contactCta": "Javite se →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAK",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Kako Duet Mail štiti moje podatke e-pošte?",
+        "question": "Kako Chiefy štiti moje podatke e-pošte?",
         "answer": "Vaša bezbednost je naš glavni prioritet. Koristimo OAuth 2.0 za bezbednu autentifikaciju sa Google i Microsoft. Sadržaj e-pošte je šifrovan u mirovanju korišćenjem šifrovanja na nivou polja na strani klijenta i sledimo princip najmanje privilegija za pristup API-ju. Za našu integraciju Google prolazimo kroz godišnju CASA bezbednosnu procenu Google."
       },
       {
         "question": "Kako funkcioniše funkcija sažetka e-pošte?",
-        "answer": "Duet Mail koristi napredni AI za analizu vaših poruka e-pošte i generisanje sažetog pregleda naglašavajući ključne tačke, odluke i akcije. Ovo vam pomaže da brzo razumete kontekst bez čitanja cele teme."
+        "answer": "Chiefy koristi napredni AI za analizu vaših poruka e-pošte i generisanje sažetog pregleda naglašavajući ključne tačke, odluke i akcije. Ovo vam pomaže da brzo razumete kontekst bez čitanja cele teme."
       },
       {
-        "question": "Koje dozvole su potrebne za Duet Mail?",
-        "answer": "Duet Mail zahteva pristup vašim imejlovima za pružanje rezimea, izdvajanje radnji, generisanje sadržaja i slanje e-pošte. Tražimo samo dozvole koje su nam apsolutno potrebne. Možete da pregledate i opozovete ove dozvole u ​​bilo kom trenutku u podešavanjima naloga Google ili Microsoft naloga."
+        "question": "Koje dozvole su potrebne za Chiefy?",
+        "answer": "Chiefy zahteva pristup vašim imejlovima za pružanje rezimea, izdvajanje radnji, generisanje sadržaja i slanje e-pošte. Tražimo samo dozvole koje su nam apsolutno potrebne. Možete da pregledate i opozovete ove dozvole u ​​bilo kom trenutku u podešavanjima naloga Google ili Microsoft naloga."
       },
       {
         "question": "Šta je uključeno u besplatnu probnu verziju?",
         "answer": "Besplatna 14-dnevna probna verzija uključuje potpuni pristup svim funkcijama Pro: neograničeni rezimei e-pošte, ekstrakcija akcija, AI pisac e-pošte (generisanje e-poruka i nacrta bez ikakvih ograničenja) i prilagođeni šabloni e-pošte. Prijavite se sa Google ili Microsoft da biste počeli da štedite vreme na upravljanju imejlom."
       },
       {
-        "question": "Mogu li da koristim Duet Mail sa drugim provajderima e-pošte?",
-        "answer": "Duet Mail podržava Gmail, Google Workspace i Microsoft Outlook. Prijavite se pomoću naloga Google ili Microsoft da biste započeli."
+        "question": "Mogu li da koristim Chiefy sa drugim provajderima e-pošte?",
+        "answer": "Chiefy podržava Gmail, Google Workspace i Microsoft Outlook. Prijavite se pomoću naloga Google ili Microsoft da biste započeli."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Podnožje sajta",
-    "brandIconAlt": "Duet Mail ikona",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — Pomoćnik za e-poštu AI koji vam štedi sate svake nedelje",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Chiefy ikona",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Istražite",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "Povraćaj investicije",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "Na {pricePerBooking} po {bookingUnit}, gubeći samo {lostPerMonth} zbog sporih odgovora =",
     "lossSuffix": "/mesec izgubljeno",
     "dividerLabel": "naspram",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "30 USD mesečno"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Pomoćnik za e-poštu za Gmail i Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - AI Pomoćnik za e-poštu za Gmail i Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "Korisnička podrška",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI pomoćnik za e-poštu za Gmail i Outlook koji automatski sumira e-poštu, nacrte odgovore u vašem glasu i organizuje vaše prijemno sanduče da uštedi sate svake nedelje.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Veb",
     "browserRequirements": "Zahteva JavaScript. Radi sa Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/sr",
-      "logo": "https://duetmail.com/sr/favicon.svg",
-      "screenshot": "https://duetmail.com/sr/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Kako Duet Mail štiti moje podatke e-pošte?",
+        "question": "Kako Chiefy štiti moje podatke e-pošte?",
         "answer": "Vaša bezbednost je naš glavni prioritet. Koristimo OAuth 2.0 za bezbednu autentifikaciju sa Google i Microsoft. Sadržaj e-pošte je šifrovan u mirovanju korišćenjem šifrovanja na nivou polja na strani klijenta i sledimo princip najmanje privilegija za pristup API-ju. Za našu integraciju Google prolazimo kroz godišnju CASA bezbednosnu procenu Google."
       },
       {
         "question": "Kako funkcioniše funkcija sažetka e-pošte?",
-        "answer": "Duet Mail koristi napredni AI za analizu vaših poruka e-pošte i generisanje sažetog pregleda naglašavajući ključne tačke, odluke i akcije. Ovo vam pomaže da brzo razumete kontekst bez čitanja cele teme."
+        "answer": "Chiefy koristi napredni AI za analizu vaših poruka e-pošte i generisanje sažetog pregleda naglašavajući ključne tačke, odluke i akcije. Ovo vam pomaže da brzo razumete kontekst bez čitanja cele teme."
       },
       {
-        "question": "Koje dozvole su potrebne za Duet Mail?",
-        "answer": "Duet Mail zahteva pristup vašim imejlovima za pružanje rezimea, izdvajanje radnji, generisanje sadržaja i slanje e-pošte. Tražimo samo dozvole koje su nam apsolutno potrebne. Možete da pregledate i opozovete ove dozvole u ​​bilo kom trenutku u podešavanjima naloga Google ili Microsoft naloga."
+        "question": "Koje dozvole su potrebne za Chiefy?",
+        "answer": "Chiefy zahteva pristup vašim imejlovima za pružanje rezimea, izdvajanje radnji, generisanje sadržaja i slanje e-pošte. Tražimo samo dozvole koje su nam apsolutno potrebne. Možete da pregledate i opozovete ove dozvole u ​​bilo kom trenutku u podešavanjima naloga Google ili Microsoft naloga."
       },
       {
         "question": "Šta je uključeno u besplatnu probnu verziju?",
         "answer": "Besplatna 14-dnevna probna verzija uključuje potpuni pristup svim funkcijama Pro: neograničeni rezimei e-pošte, ekstrakcija akcija, AI pisac e-pošte (generisanje e-poruka i nacrta bez ikakvih ograničenja) i prilagođeni šabloni e-pošte. Prijavite se sa Google ili Microsoft da biste počeli da štedite vreme na upravljanju imejlom."
       },
       {
-        "question": "Mogu li da koristim Duet Mail sa drugim provajderima e-pošte?",
-        "answer": "Duet Mail podržava Gmail, Google Workspace i Microsoft Outlook. Prijavite se pomoću naloga Google ili Microsoft da biste započeli."
+        "question": "Mogu li da koristim Chiefy sa drugim provajderima e-pošte?",
+        "answer": "Chiefy podržava Gmail, Google Workspace i Microsoft Outlook. Prijavite se pomoću naloga Google ili Microsoft da biste započeli."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

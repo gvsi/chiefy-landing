@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail pour les excursions d’observation des baleines | Assistant e-mail IA",
-  "metaDescription": "Duet Mail aide les capitaines d’excursions d’observation des baleines à répondre instantanément aux e-mails de réservation — même depuis l’eau. Réponses rédigées par l’IA avec les détails de votre excursion, vos tarifs et votre ton.",
+  "pageTitle": "Chiefy pour les excursions d’observation des baleines | Assistant e-mail IA",
+  "metaDescription": "Chiefy aide les capitaines d’excursions d’observation des baleines à répondre instantanément aux e-mails de réservation — même depuis l’eau. Réponses rédigées par l’IA avec les détails de votre excursion, vos tarifs et votre ton.",
   "heroBadge": "Approuvé par plus de 300 capitaines d’excursion",
   "heroHeadline": "Votre assistant e-mail pendant que vous observez les baleines",
-  "heroSubline": "Duet apprend votre planning, vos tarifs et votre ton — puis rédige des réponses e-mail pour que vous ne manquiez jamais une réservation pendant que vous êtes sur l’eau.",
+  "heroSubline": "Chiefy apprend votre planning, vos tarifs et votre ton — puis rédige des réponses e-mail pour que vous ne manquiez jamais une réservation pendant que vous êtes sur l’eau.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "groupe d’excursion",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Une réservation de groupe sauvegardée rembourse une année de Duet."
+    "punchline": "Une réservation de groupe sauvegardée rembourse une année de Chiefy."
   },
-  "categorizationSubtitle": "Duet étiquette automatiquement chaque e-mail afin que vous voyiez d’abord les demandes de réservation, ensuite les changements d’horaire des croisières, et jamais le reste du bruit. Fini les demandes d’affrètement privé perdues au milieu des alertes TripAdvisor.",
-  "draftSubtitle": "Duet apprend vos horaires de sortie, vos tarifs et vos conditions. Quand une demande de réservation arrive, il rédige une réponse complète avec les disponibilités, ce qui est inclus et ce qu’il faut apporter. Vous relisez et envoyez.",
-  "agentSubtitle": "« Combien de places restent-il pour la visite matinale de samedi ? » « Rédige une réponse à Rachel avec les disponibilités. » Duet connaît votre boîte de réception et votre planning — demandez simplement.",
+  "categorizationSubtitle": "Chiefy étiquette automatiquement chaque e-mail afin que vous voyiez d’abord les demandes de réservation, ensuite les changements d’horaire des croisières, et jamais le reste du bruit. Fini les demandes d’affrètement privé perdues au milieu des alertes TripAdvisor.",
+  "draftSubtitle": "Chiefy apprend vos horaires de sortie, vos tarifs et vos conditions. Quand une demande de réservation arrive, il rédige une réponse complète avec les disponibilités, ce qui est inclus et ce qu’il faut apporter. Vous relisez et envoyez.",
+  "agentSubtitle": "« Combien de places restent-il pour la visite matinale de samedi ? » « Rédige une réponse à Rachel avec les disponibilités. » Chiefy connaît votre boîte de réception et votre planning — demandez simplement.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Dave H.",
       "title": "Opérateur de tours nature, AK",
-      "quote": "Les passagers des bateaux de croisière ont besoin de réponses rapides — ils n’ont que 6 heures à quai. Je perdais des charters privés parce que j’étais sur l’eau quand la demande arrivait. Maintenant, Duet rédige des réponses avec mes tarifs et mes détails de prise en charge avant même que je n’accoste.",
+      "quote": "Les passagers des bateaux de croisière ont besoin de réponses rapides — ils n’ont que 6 heures à quai. Je perdais des charters privés parce que j’étais sur l’eau quand la demande arrivait. Maintenant, Chiefy rédige des réponses avec mes tarifs et mes détails de prise en charge avant même que je n’accoste.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Observation des baleines en famille, CA",
-      "quote": "Nous organisons deux tours par jour pendant la saison des baleines à bosse et le volume d’e-mails est énorme. « Verra-t-on des baleines ? » « Que dois-je porter ? » « Demain est-il annulé ? » Duet gère les questions répétitives et nous nous concentrons sur les sorties.",
+      "quote": "Nous organisons deux tours par jour pendant la saison des baleines à bosse et le volume d’e-mails est énorme. « Verra-t-on des baleines ? » « Que dois-je porter ? » « Demain est-il annulé ? » Chiefy gère les questions répétitives et nous nous concentrons sur les sorties.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
       "title": "Excursions en mer, HI",
-      "quote": "Je répondais aux mêmes 10 questions tous les soirs — tarifs, ce qui est inclus, conseils contre le mal de mer, limites d’âge pour les enfants. Duet a tout appris dès la première semaine. Mon temps de réponse est passé de 8 heures à 8 minutes.",
+      "quote": "Je répondais aux mêmes 10 questions tous les soirs — tarifs, ce qui est inclus, conseils contre le mal de mer, limites d’âge pour les enfants. Chiefy a tout appris dès la première semaine. Mon temps de réponse est passé de 8 heures à 8 minutes.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Responsable des réservations, Nord-Ouest Pacifique",
-      "quote": "Les annulations dues à la météo sont le pire — 30 personnes doivent être reprogrammées d’un coup et je jongle avec les appels. Duet rédige des e-mails de report personnalisés pour chaque invité. Ce qui me prenait 2 heures prend maintenant 15 minutes.",
+      "quote": "Les annulations dues à la météo sont le pire — 30 personnes doivent être reprogrammées d’un coup et je jongle avec les appels. Chiefy rédige des e-mails de report personnalisés pour chaque invité. Ce qui me prenait 2 heures prend maintenant 15 minutes.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Petits tours d’observation de la faune en bateau, C.-B.",
-      "quote": "Nous sommes une équipe de deux personnes — je pilote, elle gère la logistique. En haute saison, elle passait 3 heures par nuit sur les e-mails. Duet a réduit cela à 30 minutes. Elle récupère enfin ses soirées.",
+      "quote": "Nous sommes une équipe de deux personnes — je pilote, elle gère la logistique. En haute saison, elle passait 3 heures par nuit sur les e-mails. Chiefy a réduit cela à 30 minutes. Elle récupère enfin ses soirées.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Duet gère-t-il les annulations liées à la météo et les changements d’horaire des croisières ?",
-      "answer": "Oui. Lorsque vous annulez une excursion à cause de la météo ou qu’une heure d’arrivée de croisière change, vous pouvez l’indiquer une seule fois à Duet, et il rédige des e-mails personnalisés de reprogrammation ou de mise à jour pour chaque invité concerné. Plus besoin de copier-coller le même message 30 fois. Chaque réponse inclut les détails de réservation initiaux de l’invité et les alternatives disponibles."
+      "question": "Chiefy gère-t-il les annulations liées à la météo et les changements d’horaire des croisières ?",
+      "answer": "Oui. Lorsque vous annulez une excursion à cause de la météo ou qu’une heure d’arrivée de croisière change, vous pouvez l’indiquer une seule fois à Chiefy, et il rédige des e-mails personnalisés de reprogrammation ou de mise à jour pour chaque invité concerné. Plus besoin de copier-coller le même message 30 fois. Chaque réponse inclut les détails de réservation initiaux de l’invité et les alternatives disponibles."
     },
     {
-      "question": "Nous recevons sans cesse les mêmes questions — « verrons-nous des baleines ? », « que dois-je porter ? », « est-ce adapté aux enfants ? » Duet peut-il gérer ça ?",
-      "answer": "C’est exactement là que Duet excelle. Il apprend vos réponses standard — les espèces que vous voyez généralement, ce qu’il faut apporter, les règles d’âge, des conseils contre le mal de mer, les heures de départ — et rédige instantanément des réponses complètes. Vous relisez et envoyez. La plupart des capitaines nous disent que 80 % de leur boîte de réception concerne les mêmes 10 questions, et Duet les gère toutes."
+      "question": "Nous recevons sans cesse les mêmes questions — « verrons-nous des baleines ? », « que dois-je porter ? », « est-ce adapté aux enfants ? » Chiefy peut-il gérer ça ?",
+      "answer": "C’est exactement là que Chiefy excelle. Il apprend vos réponses standard — les espèces que vous voyez généralement, ce qu’il faut apporter, les règles d’âge, des conseils contre le mal de mer, les heures de départ — et rédige instantanément des réponses complètes. Vous relisez et envoyez. La plupart des capitaines nous disent que 80 % de leur boîte de réception concerne les mêmes 10 questions, et Chiefy les gère toutes."
     }
   ],
   "pricingNote": "À 125 $/personne, une seule réservation de groupe de 6 suffit à payer plus d’un an de Pro."

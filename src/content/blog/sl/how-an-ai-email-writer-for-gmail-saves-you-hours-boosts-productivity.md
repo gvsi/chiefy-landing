@@ -2,7 +2,7 @@
 title: "Kako AI-pisec e-pošte za Gmail prihrani ure in poveča produktivnost"
 description: "Se utapljate v e-pošti? Odkrijte, kako lahko AI-pisec e-pošte za Gmail pripravi odgovore, povzame niti in vam vrne delovni dan."
 publishedAt: 2025-07-25
-author: "Ekipa Duet Mail"
+author: "Ekipa Chiefy"
 tags: ["AI", "Gmail", "Produktivnost", "Pisanje e-pošte"]
 draft: false
 ---
@@ -111,7 +111,7 @@ Na trgu so različni igralci, vsak s svojimi prednostmi:
 
 | Orodje                           | Glavni poudarek                         | Ključne AI-funkcije                                                                         | Tipičen cenovni model                    | Edinstvena prednost (USP)                                                   |
 | -------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
-| **Duet Mail**                    | Inteligentni pomočnik (triaža in osnutki) | AI-triaža, avtentični AI-osnutki (učenje glasu), pametno povzemanje, kontekstualno razumevanje | Naročnina (podrobnosti običajno na strani) | Poudarek na avtentičnem ujemanju glasu in inteligentni nadzorni plošči za prioritizacijo. |
+| **Chiefy**                    | Inteligentni pomočnik (triaža in osnutki) | AI-triaža, avtentični AI-osnutki (učenje glasu), pametno povzemanje, kontekstualno razumevanje | Naročnina (podrobnosti običajno na strani) | Poudarek na avtentičnem ujemanju glasu in inteligentni nadzorni plošči za prioritizacijo. |
 | **Google Gemini (v Workspace)**  | Integrirani AI za Workspace             | Help me write (osnutki), povzemanje, Smart Compose/Reply, integracija z aplikacijami Workspace | Dodatek Workspace ($20-$30/uporabnik/mesec+) | Globoka integracija v ekosistem Google.                                    |
 | **MailMaestro**                  | AI-pomočnik za Gmail/Outlook            | Sestavi, odgovori, izboljšaj, povzemi, predloge, nadzor tona/jezika, poudarek na varnosti    | Freemium, Pro ($15/uporabnik/mesec)       | Pristop z več LLM-ji, močan poudarek na varnosti.                          |
 | **Auto Gmail**                   | AI-osnutki za velik obseg               | AI-osnutki (GPT-4/Llama-3), učenje sloga, vnos konteksta, črni seznami                      | Freemium, stopenjsko ($27-$47/mesec)      | Poudarek na hitrosti in obsegu avtomatiziranega ustvarjanja osnutkov.       |
@@ -125,9 +125,9 @@ _Opomba: Funkcije in cene se lahko spremenijo. Za najnovejše informacije vedno 
 
 Tu zasije naslednja generacija AI-pomočnikov, ki se ne osredotoča le na *pisanje*, ampak na *pametno komunikacijo*. Ključ sta dve področji: **avtentično posnemanje glasu** in **inteligentna triaža**.
 
-Namesto da bi AI ustvarjal zgolj slovnično pravilno besedilo, napredni sistemi poskušajo ujeti *vaš* edinstveni glas. Kako? Z analizo vaših preteklih poslanih sporočil - izbire besed, stavčnih struktur, pogostih fraz in celo običajne ravni formalnosti pri različnih stikih. Tako lahko AI pripravi osnutke, ki res zvenijo, kot da prihajajo od vas, ter ohrani doslednost in osebno povezanost, obenem pa prihrani čas. Orodja, kot je [**Duet Mail**](https://duetmail.com/sl), so posebej zasnovana okoli tega načela in dajejo prednost **avtentičnemu pripravljanju AI-osnutkov**, da vaš AI-pomočnik res govori vaš jezik.
+Namesto da bi AI ustvarjal zgolj slovnično pravilno besedilo, napredni sistemi poskušajo ujeti *vaš* edinstveni glas. Kako? Z analizo vaših preteklih poslanih sporočil - izbire besed, stavčnih struktur, pogostih fraz in celo običajne ravni formalnosti pri različnih stikih. Tako lahko AI pripravi osnutke, ki res zvenijo, kot da prihajajo od vas, ter ohrani doslednost in osebno povezanost, obenem pa prihrani čas. Orodja, kot je [**Chiefy**](https://chiefy.com/sl), so posebej zasnovana okoli tega načela in dajejo prednost **avtentičnemu pripravljanju AI-osnutkov**, da vaš AI-pomočnik res govori vaš jezik.
 
-Na strani prejemanja sporočil ukrotitev kaosa v nabiralniku zahteva več kot hitrejše odgovore. Zahteva določanje prednosti. Predstavljajte si inteligenten sistem, ki samodejno pregleda vašo prihajajočo e-pošto, prepozna sporočila, ki zahtevajo nujno ukrepanje ali odločitev, in jih prikaže v jasnem, osredotočenem pogledu, ločeno od hrupa novic in manj pomembnih kopij. To je moč **AI-triaže**. Pomočniki, kot je Duet Mail, vključujejo **osredotočeno nadzorno ploščo**, ki jo poganja AI-triaža in je zasnovana tako, da preseka nered ter takoj izpostavi, kaj zdaj potrebuje vašo pozornost. V kombinaciji s **pametnim povzemanjem**, ki strne dolge niti, lahko veliko hitreje razumete kontekst in potrebna dejanja.
+Na strani prejemanja sporočil ukrotitev kaosa v nabiralniku zahteva več kot hitrejše odgovore. Zahteva določanje prednosti. Predstavljajte si inteligenten sistem, ki samodejno pregleda vašo prihajajočo e-pošto, prepozna sporočila, ki zahtevajo nujno ukrepanje ali odločitev, in jih prikaže v jasnem, osredotočenem pogledu, ločeno od hrupa novic in manj pomembnih kopij. To je moč **AI-triaže**. Pomočniki, kot je Chiefy, vključujejo **osredotočeno nadzorno ploščo**, ki jo poganja AI-triaža in je zasnovana tako, da preseka nered ter takoj izpostavi, kaj zdaj potrebuje vašo pozornost. V kombinaciji s **pametnim povzemanjem**, ki strne dolge niti, lahko veliko hitreje razumete kontekst in potrebna dejanja.
 
 
 Z združitvijo avtentičnega pripravljanja osnutkov z inteligentnim določanjem prednosti in povzemanjem se AI-pomočniki za e-pošto razvijejo iz preprostih piscev v prave partnerje za produktivnost, ki rešujejo tako izzive sestavljanja kot upravljanja sodobne e-pošte.
@@ -168,4 +168,4 @@ E-pošta ne bo izginila, vendar se način njenega upravljanja zaradi umetne inte
 
 Od priprave odgovorov v nekaj sekundah do povzemanja zapletenih niti in celo pomoči pri določanju prednosti dela - ta orodja prinašajo konkretne pridobitve za produktivnost. Ključno je, da izbirate premišljeno in dajete prednost orodjem, ki spoštujejo zasebnost vaših podatkov ter vam predvsem pomagajo ohraniti avtentičen glas. Najboljši AI-pomočniki okrepijo vaše sposobnosti, da lahko komunicirate učinkoviteje in hitreje, ne da bi zveneli kot robot.
 
-Ste pripravljeni porabiti manj časa za spopadanje z nabiralnikom in več časa za delo z učinkom? Morda je čas, da raziščete, kako lahko AI-pomočnik za e-pošto spremeni vašo izkušnjo z Gmail. Razmislite o preizkusu orodja, kot je [**Duet Mail**](https://duetmail.com/sl), ki združuje inteligentno triažo z avtentičnim pripravljanjem AI-osnutkov, in preverite, kako vam lahko pomaga vzeti delovni dan nazaj.
+Ste pripravljeni porabiti manj časa za spopadanje z nabiralnikom in več časa za delo z učinkom? Morda je čas, da raziščete, kako lahko AI-pomočnik za e-pošto spremeni vašo izkušnjo z Gmail. Razmislite o preizkusu orodja, kot je [**Chiefy**](https://chiefy.com/sl), ki združuje inteligentno triažo z avtentičnim pripravljanjem AI-osnutkov, in preverite, kako vam lahko pomaga vzeti delovni dan nazaj.

@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail ATV un UTV tūrēm | AI e-pasta asistents",
-  "metaDescription": "Duet Mail palīdz ATV un UTV tūru gidiem uzreiz atbildēt uz rezervācijas e-pastiem — pat atrodoties trasē. AI sagatavotas atbildes ar jūsu cenām, prasībām un saziņas stilu.",
+  "pageTitle": "Chiefy ATV un UTV tūrēm | AI e-pasta asistents",
+  "metaDescription": "Chiefy palīdz ATV un UTV tūru gidiem uzreiz atbildēt uz rezervācijas e-pastiem — pat atrodoties trasē. AI sagatavotas atbildes ar jūsu cenām, prasībām un saziņas stilu.",
   "heroBadge": "Uzticas vairāk nekā 200 tūru gidu",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat trasē",
-  "heroSubline": "Duet apgūst jūsu tūru veidus, cenas un braucēju prasības — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
+  "heroSubline": "Chiefy apgūst jūsu tūru veidus, cenas un braucēju prasības — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grupa (4 tehnikas vienības)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Viena saglabāta grupas rezervācija apmaksā Duet uz gadu."
+    "punchline": "Viena saglabāta grupas rezervācija apmaksā Chiefy uz gadu."
   },
-  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam apdrošināšanas jautājumus, bet troksni — nekad. Vairs nekādu palaistu grupu pieprasījumu, kas aprakti zem TripAdvisor paziņojumiem.",
-  "draftSubtitle": "Duet apgūst jūsu tūru maršrutus, cenas un braucēju prasības. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar brauciena informāciju, cenām un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Vai šai nedēļas nogalei ir rezervētas kādas grupas?\" \"Sagatavo atbildi Rachel ar sestdienas pieejamību.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Chiefy automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam apdrošināšanas jautājumus, bet troksni — nekad. Vairs nekādu palaistu grupu pieprasījumu, kas aprakti zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Chiefy apgūst jūsu tūru maršrutus, cenas un braucēju prasības. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar brauciena informāciju, cenām un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šai nedēļas nogalei ir rezervētas kādas grupas?\" \"Sagatavo atbildi Rachel ar sestdienas pieejamību.\" Chiefy pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "ATV gids, Dienvidjūta",
-      "quote": "Es vadu 8 stundu tūres pa kanjoniem bez jebkāda mobilā pārklājuma. Kad atgriezos, puse manu rezervācijas e-pastu jau bija atdzisuši. Duet sagatavo atbildes ar manām cenām un taku informāciju — dienas beigās es tās tikai pārskatu.",
+      "quote": "Es vadu 8 stundu tūres pa kanjoniem bez jebkāda mobilā pārklājuma. Kad atgriezos, puse manu rezervācijas e-pastu jau bija atdzisuši. Chiefy sagatavo atbildes ar manām cenām un taku informāciju — dienas beigās es tās tikai pārskatu.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV tūru operatore, Kolorādo",
-      "quote": "Mēs rīkojam tūres 7 dienas nedēļā, un apdrošināšanas un atteikuma veidlapu jautājumi vien jau aizņēma manus rītus. Duet tiek galā ar visu — braucēju prasībām, vecuma ierobežojumiem, to, kas jāņem līdzi. Izklausās tieši kā es.",
+      "quote": "Mēs rīkojam tūres 7 dienas nedēļā, un apdrošināšanas un atteikuma veidlapu jautājumi vien jau aizņēma manus rītus. Chiefy tiek galā ar visu — braucēju prasībām, vecuma ierobežojumiem, to, kas jāņem līdzi. Izklausās tieši kā es.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep tūru gids, Moab",
-      "quote": "Cilvēki raksta, jautājot, kura taka ir piemērota viņu grupai, kāds pieredzes līmenis vajadzīgs, vai bērni drīkst braukt. Tie paši 5 jautājumi atkal un atkal. Duet precīzi atbild uz katru.",
+      "quote": "Cilvēki raksta, jautājot, kura taka ir piemērota viņu grupai, kāds pieredzes līmenis vajadzīgs, vai bērni drīkst braukt. Tie paši 5 jautājumi atkal un atkal. Chiefy precīzi atbild uz katru.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Katru vakaru pavadīju vairāk nekā stundu, atbildot uz tiem pašiem pieejamības jautājumiem. Tagad Duet sagatavo atbildes, kamēr esmu trasē. Mans atbildes laiks samazinājās no stundām līdz minūtēm.",
+      "quote": "Katru vakaru pavadīju vairāk nekā stundu, atbildot uz tiem pašiem pieejamības jautājumiem. Tagad Chiefy sagatavo atbildes, kamēr esmu trasē. Mans atbildes laiks samazinājās no stundām līdz minūtēm.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Family ATV Tours, Sedona",
-      "quote": "Mums daudz ģimeņu jautā par iesācēju takām un vecuma prasībām. Duet apguva visas mūsu tūru iespējas un katrā atbildē iesaka pareizo. Klienti nevar pateikt atšķirību.",
+      "quote": "Mums daudz ģimeņu jautā par iesācēju takām un vecuma prasībām. Chiefy apguva visas mūsu tūru iespējas un katrā atbildē iesaka pareizo. Klienti nevar pateikt atšķirību.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Vai Duet apstrādā apdrošināšanas un atteikuma veidlapu jautājumus?",
-      "answer": "Jā. Duet apgūst jūsu braucēju prasības — civiltiesiskās atbildības apdrošināšanu, vecuma ierobežojumus, atteikuma veidlapu informāciju un to, kas braucējiem jāņem līdzi. Kad kāds e-pastā jautā, kas nepieciešams pirms tūres, Duet sagatavo pilnu atbildi ar visu konkrēto informāciju. Jūs pārskatāt un pieskaraties sūtīšanai."
+      "question": "Vai Chiefy apstrādā apdrošināšanas un atteikuma veidlapu jautājumus?",
+      "answer": "Jā. Chiefy apgūst jūsu braucēju prasības — civiltiesiskās atbildības apdrošināšanu, vecuma ierobežojumus, atteikuma veidlapu informāciju un to, kas braucējiem jāņem līdzi. Kad kāds e-pastā jautā, kas nepieciešams pirms tūres, Chiefy sagatavo pilnu atbildi ar visu konkrēto informāciju. Jūs pārskatāt un pieskaraties sūtīšanai."
     },
     {
-      "question": "Es visu dienu esmu trasē bez mobilā pārklājuma. Kā Duet palīdz?",
-      "answer": "Tieši tāpēc gidi mīl Duet. Kamēr jūs vadāt 6–8 stundu tūri bez signāla, rezervācijas pieprasījumi krājas. Duet sagatavo atbildes uz katru no tiem — cenas, pieejamību, tikšanās vietu, ko vilkt. Kad atgriežaties, pārskatāt melnrakstus un nosūtāt. Lielākā daļa gidu mums saka, ka sezonas karstākajā laikā tas ietaupa 1–2 stundas e-pasta darba dienā."
+      "question": "Es visu dienu esmu trasē bez mobilā pārklājuma. Kā Chiefy palīdz?",
+      "answer": "Tieši tāpēc gidi mīl Chiefy. Kamēr jūs vadāt 6–8 stundu tūri bez signāla, rezervācijas pieprasījumi krājas. Chiefy sagatavo atbildes uz katru no tiem — cenas, pieejamību, tikšanās vietu, ko vilkt. Kad atgriežaties, pārskatāt melnrakstus un nosūtāt. Lielākā daļa gidu mums saka, ka sezonas karstākajā laikā tas ietaupa 1–2 stundas e-pasta darba dienā."
     }
   ],
   "pricingNote": "Ja cena ir $200 par transportlīdzekli, viena noturēta 4 cilvēku grupa sedz Pro izmaksas vairāk nekā gadam."

@@ -2,7 +2,7 @@
 title: "বার্তায় ডুবে যাচ্ছেন? Gmail ইনবক্স সামলানোর বিশেষজ্ঞ কৌশল"
 description: "ইমেল overload বন্ধ করুন। Gmail ইনবক্স সামলানোর ক্লাসিক কৌশল, AI টুল এবং উৎপাদনশীলতা ফেরানোর বাস্তব পদ্ধতি শিখুন।"
 publishedAt: 2025-07-04
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "ইনবক্স ব্যবস্থাপনা", "ইমেল"]
 draft: false
 ---
@@ -49,7 +49,7 @@ Archive মানে finished বা reference। Snooze মানে এখন 
 
 AI tools inbox management-কে নিয়মভিত্তিক sorting থেকে context-aware triage-এ নিয়ে যায়। এগুলো জরুরি ভাষা, deadline, sender relationship এবং thread history দেখে গুরুত্বপূর্ণ বার্তা সামনে আনতে পারে। দীর্ঘ thread সারাংশ করে, action items বের করে এবং উত্তরের খসড়া তৈরি করে।
 
-[Duet Mail](https://duetmail.com/bn) AI Triage দিয়ে কোন বার্তায় মন দেওয়া দরকার তা দেখায়, Smart Summarization দিয়ে কথোপকথনের সারাংশ দেয় এবং Authentic AI Drafting দিয়ে আপনার স্বরের মতো উত্তর লিখতে সাহায্য করে।
+[Chiefy](https://chiefy.com/bn) AI Triage দিয়ে কোন বার্তায় মন দেওয়া দরকার তা দেখায়, Smart Summarization দিয়ে কথোপকথনের সারাংশ দেয় এবং Authentic AI Drafting দিয়ে আপনার স্বরের মতো উত্তর লিখতে সাহায্য করে।
 
 ## দৈনিক রুটিন
 

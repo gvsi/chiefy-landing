@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail dla czarterów wędkarskich | AI Email Assistant",
-  "metaDescription": "Duet Mail pomaga kapitanom statków rybackich natychmiast odpowiadać na e-maile dotyczące rezerwacji – nawet z wody. Odpowiedzi opracowane przez sztuczną inteligencję zawierające Twoje ceny, zasady i głos.",
+  "pageTitle": "Chiefy dla czarterów wędkarskich | AI Email Assistant",
+  "metaDescription": "Chiefy pomaga kapitanom statków rybackich natychmiast odpowiadać na e-maile dotyczące rezerwacji – nawet z wody. Odpowiedzi opracowane przez sztuczną inteligencję zawierające Twoje ceny, zasady i głos.",
   "heroBadge": "Zaufany przez 500+ kapitanów czarterowych",
   "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś na wodzie",
-  "heroSubline": "Duet poznaje Twoje ceny, zasady i głos, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji z powodu powolnej odpowiedzi.",
+  "heroSubline": "Chiefy poznaje Twoje ceny, zasady i głos, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji z powodu powolnej odpowiedzi.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "czarter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Jedna zapisana rezerwacja płaci za rok Duet."
+    "punchline": "Jedna zapisana rezerwacja płaci za rok Chiefy."
   },
-  "categorizationSubtitle": "Duet automatycznie taguje każdy e-mail, dzięki czemu w pierwszej kolejności pojawiają się prośby o rezerwację, pytania w drugiej kolejności, a nigdy szumu. Nigdy więcej nie przegapisz zapytania dotyczącego podróży ukrytego pod alertami serwisu TripAdvisor.",
-  "draftSubtitle": "Duet poznaje Twoje ceny, zasady i ton. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź zawierającą szczegóły podróży, cenę i to, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„W które dni w przyszłym tygodniu są otwarte?” „Napisz odpowiedź do Sarah z informacją o dostępności”. Duet zna Twoją skrzynkę odbiorczą i kalendarz — po prostu zapytaj.",
+  "categorizationSubtitle": "Chiefy automatycznie taguje każdy e-mail, dzięki czemu w pierwszej kolejności pojawiają się prośby o rezerwację, pytania w drugiej kolejności, a nigdy szumu. Nigdy więcej nie przegapisz zapytania dotyczącego podróży ukrytego pod alertami serwisu TripAdvisor.",
+  "draftSubtitle": "Chiefy poznaje Twoje ceny, zasady i ton. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź zawierającą szczegóły podróży, cenę i to, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„W które dni w przyszłym tygodniu są otwarte?” „Napisz odpowiedź do Sarah z informacją o dostępności”. Chiefy zna Twoją skrzynkę odbiorczą i kalendarz — po prostu zapytaj.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Captain Mike D.",
       "title": "Kapitan czarterowy offshore, Floryda",
-      "quote": "W szczycie sezonu traciłem rezerwacje 2-3 w tygodniu tylko dlatego, że nie mogłem wystarczająco szybko odpowiedzieć z łodzi. Duet przygotowuje odpowiedzi z moimi cenami i szczegółami podróży — po prostu klikam „wyślij” między połowami.",
+      "quote": "W szczycie sezonu traciłem rezerwacje 2-3 w tygodniu tylko dlatego, że nie mogłem wystarczająco szybko odpowiedzieć z łodzi. Chiefy przygotowuje odpowiedzi z moimi cenami i szczegółami podróży — po prostu klikam „wyślij” między połowami.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Rodzinna firma czarterowa, LUB",
-      "quote": "Prowadzimy dwie łodzie, a latem liczba e-maili jest niesamowita. Duet oddziela prośby o rezerwację od wszystkiego innego i przygotowuje odpowiedzi, które brzmią dokładnie tak jak my. Absolutna zmiana zasad gry.",
+      "quote": "Prowadzimy dwie łodzie, a latem liczba e-maili jest niesamowita. Chiefy oddziela prośby o rezerwację od wszystkiego innego i przygotowuje odpowiedzi, które brzmią dokładnie tak jak my. Absolutna zmiana zasad gry.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Przewodnik wędkarstwa przybrzeżnego, Teksas",
-      "quote": "Każdego wieczoru spędzałem godzinę, odpowiadając na te same pytania dotyczące dostępności. Teraz zajmuje się tym Duet. Mój czas reakcji wzrósł z godzin do minut i od tego czasu nie straciłem rezerwacji.",
+      "quote": "Każdego wieczoru spędzałem godzinę, odpowiadając na te same pytania dotyczące dostępności. Teraz zajmuje się tym Chiefy. Mój czas reakcji wzrósł z godzin do minut i od tego czasu nie straciłem rezerwacji.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Kierownik biura czarterowego, HI",
-      "quote": "Zarządzanie e-mailami dla kapitanów 4 było pracą na pełny etat. Duet kategoryzuje wszystko i przygotowuje odpowiedzi z podaniem właściwej łodzi, właściwej ceny i odpowiedniego kapitana. To jak mieć drugiego siebie.",
+      "quote": "Zarządzanie e-mailami dla kapitanów 4 było pracą na pełny etat. Chiefy kategoryzuje wszystko i przygotowuje odpowiedzi z podaniem właściwej łodzi, właściwej ceny i odpowiedniego kapitana. To jak mieć drugiego siebie.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Czy Duet działa w przypadku e-maili dotyczących rezerwacji i dostępności?",
-      "answer": "Zdecydowanie. Duet poznaje rodzaje Twoich podróży, ceny, dostępność i zasady. Kiedy przychodzi zapytanie o rezerwację, przygotowuje pełną odpowiedź zawierającą odpowiednie szczegóły – cenę, zawartość, miejsce spotkania, co zabrać ze sobą. Sprawdzasz i klikasz wyślij."
+      "question": "Czy Chiefy działa w przypadku e-maili dotyczących rezerwacji i dostępności?",
+      "answer": "Zdecydowanie. Chiefy poznaje rodzaje Twoich podróży, ceny, dostępność i zasady. Kiedy przychodzi zapytanie o rezerwację, przygotowuje pełną odpowiedź zawierającą odpowiednie szczegóły – cenę, zawartość, miejsce spotkania, co zabrać ze sobą. Sprawdzasz i klikasz wyślij."
     },
     {
-      "question": "Cały dzień jestem na wodzie. Czy mogę używać Duet z mojego telefonu?",
-      "answer": "Tak. Duet współpracuje z Gmail i Outlook, więc działa wszędzie tam, gdzie działa Twoja poczta e-mail — łącznie z telefonem. Wersje robocze pojawiają się automatycznie. Pomiędzy połowami przeglądasz i wysyłasz jednym dotknięciem. Większość kapitanów twierdzi, że w szczycie sezonu oszczędza im to 1-2 godzin poczty elektronicznej dziennie."
+      "question": "Cały dzień jestem na wodzie. Czy mogę używać Chiefy z mojego telefonu?",
+      "answer": "Tak. Chiefy współpracuje z Gmail i Outlook, więc działa wszędzie tam, gdzie działa Twoja poczta e-mail — łącznie z telefonem. Wersje robocze pojawiają się automatycznie. Pomiędzy połowami przeglądasz i wysyłasz jednym dotknięciem. Większość kapitanów twierdzi, że w szczycie sezonu oszczędza im to 1-2 godzin poczty elektronicznej dziennie."
     }
   ],
   "pricingNote": "W $500/charter jedna zapisana rezerwacja płaci za ponad rok Pro."

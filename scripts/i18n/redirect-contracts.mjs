@@ -50,11 +50,11 @@ async function assertFixtures() {
         fail("Redirect fixtures drifted. Run node scripts/i18n/redirect-contracts.mjs --write-fixtures if intentional.")
     }
 
-    const redirectResponse = await handleLandingRequest(new Request("https://duetmail.com/pt"), async () => new Response("ok"))
+    const redirectResponse = await handleLandingRequest(new Request("https://chiefy.com/pt"), async () => new Response("ok"))
     assertSecurityHeaders(redirectResponse, "redirect response")
 
     const passThroughResponse = await handleLandingRequest(
-        new Request("https://duetmail.com/de"),
+        new Request("https://chiefy.com/de"),
         async () =>
             new Response("ok", {
                 headers: {

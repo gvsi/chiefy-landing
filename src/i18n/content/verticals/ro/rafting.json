@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mail pentru rafting și caiac | AI Asistent de e-mail",
-  "metaDescription": "Duet Mail ajută ghizii de rafting și furnizorii de caiac să răspundă instantaneu la întrebările de călătorie, chiar și dinspre râu. Răspunsuri redactate de AI cu detaliile călătoriei, prețurile și vocea.",
+  "pageTitle": "Chiefy pentru rafting și caiac | AI Asistent de e-mail",
+  "metaDescription": "Chiefy ajută ghizii de rafting și furnizorii de caiac să răspundă instantaneu la întrebările de călătorie, chiar și dinspre râu. Răspunsuri redactate de AI cu detaliile călătoriei, prețurile și vocea.",
   "heroBadge": "De încredere de peste 200 de ghizi fluviali",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe râu",
-  "heroSubline": "Duet învață tipurile de călătorie, prețurile și listele de echipamente, apoi redactează răspunsuri la întrebările de rezervare, astfel încât clienții să primească răspunsuri în timp ce tu alergi rapid.",
+  "heroSubline": "Chiefy învață tipurile de călătorie, prețurile și listele de echipamente, apoi redactează răspunsuri la întrebările de rezervare, astfel încât clienții să primească răspunsuri în timp ce tu alergi rapid.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "persoană",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Două rezervări salvate plătesc pentru un an întreg de Duet."
+    "punchline": "Două rezervări salvate plătesc pentru un an întreg de Chiefy."
   },
-  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât întrebările de călătorie să apară mai întâi, întrebările despre echipament în al doilea rând și zgomotul promoțional să dispară. Nu mai lipsește o rezervare de grup îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Duet învață tipurile de călătorie, cursurile rapide, listele de echipamente și politica de anulare. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu tot ce are nevoie clientul. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Ceva locuri libere în ziua întreagă de sâmbătă? „Scrie un răspuns pentru Jennifer cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât întrebările de călătorie să apară mai întâi, întrebările despre echipament în al doilea rând și zgomotul promoțional să dispară. Nu mai lipsește o rezervare de grup îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Chiefy învață tipurile de călătorie, cursurile rapide, listele de echipamente și politica de anulare. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu tot ce are nevoie clientul. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Ceva locuri libere în ziua întreagă de sâmbătă? „Scrie un răspuns pentru Jennifer cu disponibilitate.” Chiefy îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "În timpul sezonului de vârf sunt pe râu 6 zile pe săptămână. Până să mă întorc la e-mailuri, jumătate din grupuri făcuseră deja rezervare cu altcineva. Acum Duet elaborează răspunsuri cu detalii despre călătorie și prețuri, cât timp sunt la intrare.",
+      "quote": "În timpul sezonului de vârf sunt pe râu 6 zile pe săptămână. Până să mă întorc la e-mailuri, jumătate din grupuri făcuseră deja rezervare cu altcineva. Acum Chiefy elaborează răspunsuri cu detalii despre călătorie și prețuri, cât timp sunt la intrare.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Tururi cu caiac și SUP, OR",
-      "quote": "Fiecare client pune aceleași cinci întrebări - preț, ce să aducă, nivelul de calificare, dimensiunea grupului, politica de anulare. Duet a învățat totul în prima săptămână. Am trecut de la o oră de e-mailuri în fiecare seară la cinci minute de revizuire a schițelor.",
+      "quote": "Fiecare client pune aceleași cinci întrebări - preț, ce să aducă, nivelul de calificare, dimensiunea grupului, politica de anulare. Chiefy a învățat totul în prima săptămână. Am trecut de la o oră de e-mailuri în fiecare seară la cinci minute de revizuire a schițelor.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Ghid de expediție de mai multe zile, AK",
-      "quote": "Efectuez excursii de 5 zile cu serviciul zero cell. Înainte de Duet, fiecare întrebare a rămas fără răspuns până când m-am întors în oraș. Acum clienții primesc un răspuns detaliat în câteva minute și confirm când sunt în afara râului.",
+      "quote": "Efectuez excursii de 5 zile cu serviciul zero cell. Înainte de Chiefy, fiecare întrebare a rămas fără răspuns până când m-am întors în oraș. Acum clienții primesc un răspuns detaliat în câteva minute și confirm când sunt în afara râului.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "Manager de birou River Adventures, WV",
-      "quote": "Gestionez rezervările pentru trei ghizi din patru tipuri de călătorie. Duet clasifică fiecare e-mail în funcție de urgență și redactează răspunsuri cu călătoria potrivită, prețul potrivit, lista de echipamente potrivită. Este ca și cum mă clonam.",
+      "quote": "Gestionez rezervările pentru trei ghizi din patru tipuri de călătorie. Chiefy clasifică fiecare e-mail în funcție de urgență și redactează răspunsuri cu călătoria potrivită, prețul potrivit, lista de echipamente potrivită. Este ca și cum mă clonam.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Duet se ocupă de ofertele de călătorie personalizate și de solicitările de expediții de mai multe zile?",
-      "answer": "Da. Duet învață gama ta completă de călătorii — flotoare de jumătate de zi, rapiduri de o zi întreagă, expediții de mai multe zile — împreună cu prețurile, ceea ce este inclus, vârsta minimă și nivelurile de dificultate. Când cineva întreabă despre o excursie de 3 zile pentru 6, redactează un răspuns complet cu detaliile potrivite. Revizuiești, modifici dacă este necesar și trimiți."
+      "question": "Chiefy se ocupă de ofertele de călătorie personalizate și de solicitările de expediții de mai multe zile?",
+      "answer": "Da. Chiefy învață gama ta completă de călătorii — flotoare de jumătate de zi, rapiduri de o zi întreagă, expediții de mai multe zile — împreună cu prețurile, ceea ce este inclus, vârsta minimă și nivelurile de dificultate. Când cineva întreabă despre o excursie de 3 zile pentru 6, redactează un răspuns complet cu detaliile potrivite. Revizuiești, modifici dacă este necesar și trimiți."
     },
     {
-      "question": "Sunt în afara rețelei în excursii de mai multe zile. Mai funcționează Duet?",
-      "answer": "Exact aceasta este problema pe care o rezolvă Duet. În timp ce ești pe râu fără semnal, Duet redactează răspunsuri la fiecare întrebare care vine. Când te întorci în rază de acțiune, schițele tale te așteaptă - doar le verifici și trimiți. Majoritatea ghizilor ne spun că elimină restanța cu care se confruntau după fiecare călătorie de mai multe zile."
+      "question": "Sunt în afara rețelei în excursii de mai multe zile. Mai funcționează Chiefy?",
+      "answer": "Exact aceasta este problema pe care o rezolvă Chiefy. În timp ce ești pe râu fără semnal, Chiefy redactează răspunsuri la fiecare întrebare care vine. Când te întorci în rază de acțiune, schițele tale te așteaptă - doar le verifici și trimiți. Majoritatea ghizilor ne spun că elimină restanța cu care se confruntau după fiecare călătorie de mai multe zile."
     }
   ],
   "pricingNote": "La 150 USD/persoană, două rezervări salvate acoperă un an întreg de Pro."

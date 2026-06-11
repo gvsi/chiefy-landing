@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail cho Thợ Kim Hoàn Tùy Chỉnh | Trợ Lý Email AI",
-  "metaDescription": "Duet Mail giúp thợ kim hoàn tùy chỉnh phản hồi yêu cầu tư vấn, phê duyệt thiết kế và câu hỏi về tiến độ ngay lập tức — ngay cả khi đang làm việc tại bàn. Trả lời được soạn thảo bằng AI với quy trình, giá cả và giọng điệu của bạn.",
+  "pageTitle": "Chiefy cho Thợ Kim Hoàn Tùy Chỉnh | Trợ Lý Email AI",
+  "metaDescription": "Chiefy giúp thợ kim hoàn tùy chỉnh phản hồi yêu cầu tư vấn, phê duyệt thiết kế và câu hỏi về tiến độ ngay lập tức — ngay cả khi đang làm việc tại bàn. Trả lời được soạn thảo bằng AI với quy trình, giá cả và giọng điệu của bạn.",
   "heroBadge": "Được tin dùng bởi hơn 300 nhà thiết kế trang sức",
   "heroHeadline": "Trợ lý email của bạn khi bạn đang làm việc tại bàn",
-  "heroSubline": "Duet học quy trình thiết kế, vật liệu, giá cả và tiến độ của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách hàng tùy chỉnh vì phản hồi chậm.",
+  "heroSubline": "Chiefy học quy trình thiết kế, vật liệu, giá cả và tiến độ của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách hàng tùy chỉnh vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "món tùy chỉnh",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Một khách hàng được giữ lại trả cho hơn bốn năm sử dụng Duet."
+    "punchline": "Một khách hàng được giữ lại trả cho hơn bốn năm sử dụng Chiefy."
   },
-  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu tư vấn mới trước, phê duyệt thiết kế sau, và không bao giờ thấy bản tin nhà cung cấp. Không còn bỏ lỡ yêu cầu $5,000 bị chôn dưới các chương trình khuyến mãi nhà cung cấp.",
-  "draftSubtitle": "Duet học quy trình, vật liệu, giá cả và giọng điệu của bạn. Khi có yêu cầu tư vấn, nó soạn thảo trả lời đầy đủ với thời gian bạn có, những gì cần mang theo và cách quy trình của bạn hoạt động. Bạn xem lại và gửi.",
-  "agentSubtitle": "\"Chúng ta đang ở đâu với nhẫn của Amanda?\" \"Soạn thảo cập nhật tiến độ cho James.\" Duet biết mọi chuỗi khách hàng — chỉ cần hỏi.",
+  "categorizationSubtitle": "Chiefy tự động gắn thẻ mọi email để bạn thấy yêu cầu tư vấn mới trước, phê duyệt thiết kế sau, và không bao giờ thấy bản tin nhà cung cấp. Không còn bỏ lỡ yêu cầu $5,000 bị chôn dưới các chương trình khuyến mãi nhà cung cấp.",
+  "draftSubtitle": "Chiefy học quy trình, vật liệu, giá cả và giọng điệu của bạn. Khi có yêu cầu tư vấn, nó soạn thảo trả lời đầy đủ với thời gian bạn có, những gì cần mang theo và cách quy trình của bạn hoạt động. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Chúng ta đang ở đâu với nhẫn của Amanda?\" \"Soạn thảo cập nhật tiến độ cho James.\" Chiefy biết mọi chuỗi khách hàng — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Nhà Thiết Kế Trang Sức Tùy Chỉnh, LA",
-      "quote": "Mỗi món tùy chỉnh tạo ra 10-15 email trong nhiều tuần. Nhân với 8 khách hàng đang hoạt động, tôi gần như ngập đầu. Duet soạn trả lời cập nhật thiết kế, xác nhận tư vấn, trả lời tiến độ — tất cả bằng giọng tôi. Tôi xem qua giữa các lần đúc và nhấn gửi.",
+      "quote": "Mỗi món tùy chỉnh tạo ra 10-15 email trong nhiều tuần. Nhân với 8 khách hàng đang hoạt động, tôi gần như ngập đầu. Chiefy soạn trả lời cập nhật thiết kế, xác nhận tư vấn, trả lời tiến độ — tất cả bằng giọng tôi. Tôi xem qua giữa các lần đúc và nhấn gửi.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Thợ Vàng & Chủ Xưởng, Brooklyn",
-      "quote": "Tôi mất một đơn nhẫn đính hôn $7,000 vì mất 3 ngày để trả lời — cặp đôi đã chọn người trả lời trong 2 giờ. Từ khi dùng Duet, thời gian phản hồi của tôi dưới 30 phút. Điều đó không xảy ra nữa.",
+      "quote": "Tôi mất một đơn nhẫn đính hôn $7,000 vì mất 3 ngày để trả lời — cặp đôi đã chọn người trả lời trong 2 giờ. Từ khi dùng Chiefy, thời gian phản hồi của tôi dưới 30 phút. Điều đó không xảy ra nữa.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Thợ Kim Hoàn, Chicago",
-      "quote": "Tôi làm việc tại bàn 8 tiếng mỗi ngày với ngọn đèn hàn trên tay. Tôi không thể dừng giữa chừng để gõ trả lời tư vấn. Duet soạn thảo mọi thứ khi tôi làm việc — tôi liếc điện thoại, duyệt, xong.",
+      "quote": "Tôi làm việc tại bàn 8 tiếng mỗi ngày với ngọn đèn hàn trên tay. Tôi không thể dừng giữa chừng để gõ trả lời tư vấn. Chiefy soạn thảo mọi thứ khi tôi làm việc — tôi liếc điện thoại, duyệt, xong.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Nhà Thiết Kế Trang Sức Cưới, Austin",
-      "quote": "Mùa đính hôn tôi nhận hơn 20 yêu cầu tư vấn mỗi tuần. Duet học toàn bộ quy trình của tôi — vật liệu, tiến độ, mức giá, những gì cần mang theo. Nó soạn trả lời mà tôi hầu như không phải chỉnh sửa. Cứu tinh tuyệt đối từ tháng 11 đến tháng 2.",
+      "quote": "Mùa đính hôn tôi nhận hơn 20 yêu cầu tư vấn mỗi tuần. Chiefy học toàn bộ quy trình của tôi — vật liệu, tiến độ, mức giá, những gì cần mang theo. Nó soạn trả lời mà tôi hầu như không phải chỉnh sửa. Cứu tinh tuyệt đối từ tháng 11 đến tháng 2.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Chuyên Gia Nhẫn Tùy Chỉnh, Portland",
-      "quote": "Email chỉnh sửa 3D từng làm tôi mất buổi tối. Khách gửi phản hồi, tôi soạn cập nhật, qua lại năm lần. Giờ Duet xử lý trả lời thường xuyên và tôi chỉ can thiệp vào quyết định thiết kế. Tôi đã lấy lại được buổi tối của mình.",
+      "quote": "Email chỉnh sửa 3D từng làm tôi mất buổi tối. Khách gửi phản hồi, tôi soạn cập nhật, qua lại năm lần. Giờ Chiefy xử lý trả lời thường xuyên và tôi chỉ can thiệp vào quyết định thiết kế. Tôi đã lấy lại được buổi tối của mình.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Duet có xử lý email kèm ảnh tham khảo và tệp đính kèm thiết kế không?",
-      "answer": "Có. Duet xem toàn bộ chuỗi email bao gồm tệp đính kèm, nên hiểu ngữ cảnh khi khách gửi ảnh cảm hứng hoặc phản hồi thiết kế. Nó sẽ không mô tả lại hình ảnh, nhưng biết khách vừa gửi ảnh tham khảo và soạn trả lời phù hợp — xác nhận đã nhận, hỏi thêm chi tiết về thiết kế, hoặc cung cấp bước tiếp theo dựa trên quy trình thường dùng của bạn."
+      "question": "Chiefy có xử lý email kèm ảnh tham khảo và tệp đính kèm thiết kế không?",
+      "answer": "Có. Chiefy xem toàn bộ chuỗi email bao gồm tệp đính kèm, nên hiểu ngữ cảnh khi khách gửi ảnh cảm hứng hoặc phản hồi thiết kế. Nó sẽ không mô tả lại hình ảnh, nhưng biết khách vừa gửi ảnh tham khảo và soạn trả lời phù hợp — xác nhận đã nhận, hỏi thêm chi tiết về thiết kế, hoặc cung cấp bước tiếp theo dựa trên quy trình thường dùng của bạn."
     },
     {
-      "question": "Dự án tùy chỉnh của tôi có chuỗi email dài với hơn 10 tin nhắn. Duet có theo dõi được không?",
-      "answer": "Đó chính là điểm mạnh của Duet. Nó đọc toàn bộ lịch sử chuỗi — ghi chú tư vấn, chỉnh sửa thiết kế, lựa chọn vật liệu, cập nhật tiến độ — nên mọi trả lời soạn đều có đầy đủ ngữ cảnh. Khi khách hỏi 'nhẫn của tôi đang ở đâu?' trong email thứ 14, Duet biết đó là nhẫn nào, đang ở giai đoạn nào và soạn cập nhật chính xác. Bạn không cần phải đọc lại 3 tháng email nữa."
+      "question": "Dự án tùy chỉnh của tôi có chuỗi email dài với hơn 10 tin nhắn. Chiefy có theo dõi được không?",
+      "answer": "Đó chính là điểm mạnh của Chiefy. Nó đọc toàn bộ lịch sử chuỗi — ghi chú tư vấn, chỉnh sửa thiết kế, lựa chọn vật liệu, cập nhật tiến độ — nên mọi trả lời soạn đều có đầy đủ ngữ cảnh. Khi khách hỏi 'nhẫn của tôi đang ở đâu?' trong email thứ 14, Chiefy biết đó là nhẫn nào, đang ở giai đoạn nào và soạn cập nhật chính xác. Bạn không cần phải đọc lại 3 tháng email nữa."
     }
   ],
   "pricingNote": "Với $5,000/món, một đơn hàng giữ lại đủ trả cho hơn bốn năm dùng Pro."

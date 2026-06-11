@@ -2,7 +2,7 @@
 title: "Topíte sa v správach? Odborné stratégie na správu vašej Gmail schránky"
 description: "Zastavte preťaženie e-mailami! Naučte sa odborné stratégie na správu vašej Gmail schránky — od klasických postupov po AI nástroje — a získajte späť svoju produktivitu."
 publishedAt: 2025-07-04
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Správa schránky", "E-mail"]
 draft: false
 ---
@@ -157,7 +157,7 @@ AI e-mail asistenti idú za hranice jednoduchej automatizácie; ponúkajú intel
 
 **Prínos:** Namiesto toho, aby ste sa prehrabávali v kôpke správ, AI automaticky zvýrazní e-maily vyžadujúce okamžitú akciu. To dramaticky skracuje čas triedenia, zaisťuje, že kritické položky neuniknú, znižuje stres z preplnenej schránky a umožňuje vám sústrediť energiu na dôležitú prácu namiesto administrácie schránky.
 
-**Duet Mail Link (Contextual):** _Práve takto inteligentné triedenie zaneprázdnení profesionáli potrebujú. V tom vynikajú nástroje ako _[_Duet Mail_](/sk/)_ , ktoré pomocou **AI triedenia** analyzujú naliehavosť, potrebné akcie a rozhodnutia a prehľadne ich zobrazujú v **Focused Dashboard**, aby ste okamžite vedeli, čo si vyžaduje pozornosť._
+**Chiefy Link (Contextual):** _Práve takto inteligentné triedenie zaneprázdnení profesionáli potrebujú. V tom vynikajú nástroje ako _[_Chiefy_](/sk/)_ , ktoré pomocou **AI triedenia** analyzujú naliehavosť, potrebné akcie a rozhodnutia a prehľadne ich zobrazujú v **Focused Dashboard**, aby ste okamžite vedeli, čo si vyžaduje pozornosť._
 
 ### Inteligentné sumarizovanie: okamžité pochopenie dlhých vlákien a príloh
 
@@ -217,4 +217,4 @@ Technológia, najmä nástup inteligentných AI e-mail asistentov, prináša v t
 
 Zvládnutie Gmailu nie je len o upratanom digitálnom priestore. Ide o výrazné zníženie pracovného stresu, získanie hodín cenného času každý týždeň, ochranu schopnosti sústrediť sa na hlbokú a zmysluplnú prácu a napokon o zvýšenie vašej celkovej efektívnosti a pohody. Keď rozumne skombinujete disciplinované návyky so strategickým používaním inteligentných nástrojov, môžete zmeniť svoju schránku zo zdroja obáv na zvládnuteľný komunikačný uzol.
 
-Chcete zažiť, ako AI dokáže zmeniť váš vzťah k e-mailom? Urobte prvý krok k pokojnejšiemu a produktívnejšiemu pracovnému dňu. Zistite, ako [Duet Mail](/sk/) využíva AI triedenie, inteligentné sumarizovanie a autentické návrhy na písanie, aby pomohol zaneprázdneným profesionálom, ako ste vy, zvládnuť ich schránku.
+Chcete zažiť, ako AI dokáže zmeniť váš vzťah k e-mailom? Urobte prvý krok k pokojnejšiemu a produktívnejšiemu pracovnému dňu. Zistite, ako [Chiefy](/sk/) využíva AI triedenie, inteligentné sumarizovanie a autentické návrhy na písanie, aby pomohol zaneprázdneným profesionálom, ako ste vy, zvládnuť ich schránku.

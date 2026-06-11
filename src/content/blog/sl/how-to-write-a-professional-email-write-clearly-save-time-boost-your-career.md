@@ -2,7 +2,7 @@
 title: "Kako napisati profesionalno e-pošto: pišite jasno, prihranite čas in okrepite kariero"
 description: "Naučite se pisati profesionalna e-poštna sporočila, ki gradijo zaupanje in prihranijo čas. Obvladajte zadeve, ton, strukturo in bonton."
 publishedAt: 2025-05-27
-author: "Ekipa Duet Mail"
+author: "Ekipa Chiefy"
 tags: ["AI", "Produktivnost", "Pisanje e-pošte"]
 draft: false
 ---
@@ -184,9 +184,9 @@ Ključne koristi vključujejo:
 
 - **Prihranek časa in manj stresa**: Z obravnavo ponavljajočih se nalog, kot so razvrščanje, filtriranje in celo priprava odgovorov, lahko AI-pomočniki strokovnjakom prihranijo ure na teden in bistveno zmanjšajo stres, povezan z nabiralnikom.
 
-Se počutite zakopani? Tu so lahko funkcije AI-triaže, kot jih najdete v orodjih, kot je [**Duet Mail**](https://duetmail.com/sl), prava sprememba. Samodejno razvrščajo prihajajočo pošto, z AI prepoznajo nujna sporočila, ki zahtevajo dejanje ali odločitev, in jih prikažejo na [**osredotočeni nadzorni plošči**](https://peerlist.io/giovanni/project/duet-mail), da takoj vidite, kaj je najpomembnejše.
+Se počutite zakopani? Tu so lahko funkcije AI-triaže, kot jih najdete v orodjih, kot je [**Chiefy**](https://chiefy.com/sl), prava sprememba. Samodejno razvrščajo prihajajočo pošto, z AI prepoznajo nujna sporočila, ki zahtevajo dejanje ali odločitev, in jih prikažejo na [**osredotočeni nadzorni plošči**](https://peerlist.io/giovanni/project/duet-mail), da takoj vidite, kaj je najpomembnejše.
 
-Imate težave s hitrim odgovarjanjem, hkrati pa želite ostati profesionalni in avtentični? Napredni AI-pomočniki lahko pomagajo. [**Duet Mail**](https://duetmail.com/sl) na primer uporablja [**avtentično pripravljanje AI-osnutkov**](https://peerlist.io/giovanni/project/duet-mail), ki se iz vaših preteklih sporočil dejansko nauči vašega edinstvenega sloga pisanja in besedišča.64 Predlaga osnutke, ki zvenijo kot vi, prihrani ure in hkrati ohrani ključen osebni ton v profesionalni komunikaciji. To "učenje glasu" zagotavlja, da vaši AI-podprti odgovori še vedno delujejo pristno.
+Imate težave s hitrim odgovarjanjem, hkrati pa želite ostati profesionalni in avtentični? Napredni AI-pomočniki lahko pomagajo. [**Chiefy**](https://chiefy.com/sl) na primer uporablja [**avtentično pripravljanje AI-osnutkov**](https://peerlist.io/giovanni/project/duet-mail), ki se iz vaših preteklih sporočil dejansko nauči vašega edinstvenega sloga pisanja in besedišča.64 Predlaga osnutke, ki zvenijo kot vi, prihrani ure in hkrati ohrani ključen osebni ton v profesionalni komunikaciji. To "učenje glasu" zagotavlja, da vaši AI-podprti odgovori še vedno delujejo pristno.
 
 Razvoj teh orodij je zanimiv. Od osnovnih slovničnih pregledovalnikov smo prišli do naprednih pomočnikov, ki rešujejo celovit izziv e-pošte - ne samo pravilnost, temveč tudi upravljanje kognitivne obremenitve zaradi preobremenjenosti (triaža, povzemanje) in ohranjanje osebne povezanosti v večjem obsegu (učenje glasu). To odraža, kako kompleksna je postala profesionalna komunikacija in kako potrebujemo orodja, ki nas podpirajo celovito.
 
@@ -196,6 +196,6 @@ Obvladovanje profesionalne e-pošte ni stvar togih pravil; gre za jasno, spoštl
 
 Ne pozabite, postati odličen e-poštni komunikator je stalni proces izboljševanja. Te nasvete začnite dosledno uporabljati in opazili boste razliko v odgovorih, ki jih prejmete, ter času, ki ga prihranite.
 
-Ste pripravljeni prevzeti nadzor nad nabiralnikom in komunicirati kot profesionalec? Začnite te strategije uporabljati že danes. Če pa želite prihraniti ure in zmanjšati e-poštni stres, raziščite, kako lahko AI-pomočniki, kot je [**Duet Mail**](https://duetmail.com/sl), z inteligentno triažo in avtentičnimi osnutki preobrazijo vaš potek dela.
+Ste pripravljeni prevzeti nadzor nad nabiralnikom in komunicirati kot profesionalec? Začnite te strategije uporabljati že danes. Če pa želite prihraniti ure in zmanjšati e-poštni stres, raziščite, kako lahko AI-pomočniki, kot je [**Chiefy**](https://chiefy.com/sl), z inteligentno triažo in avtentičnimi osnutki preobrazijo vaš potek dela.
 
 Se vam je zdelo koristno? Delite s sodelavci, ki bi jim lahko koristilo!

@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for fiskecharter | AI-e-postassistent",
-  "metaDescription": "Duet Mail hjelper fiskecharterkapteiner med å svare på bestillings-e-poster umiddelbart – selv fra vannet. AI-utkast til svar med priser, retningslinjer og stemme.",
+  "pageTitle": "Chiefy for fiskecharter | AI-e-postassistent",
+  "metaDescription": "Chiefy hjelper fiskecharterkapteiner med å svare på bestillings-e-poster umiddelbart – selv fra vannet. AI-utkast til svar med priser, retningslinjer og stemme.",
   "heroBadge": "Betrodd av 500+ charterkapteiner",
   "heroHeadline": "Din e-postassistent mens du er på vannet",
-  "heroSubline": "Duet lærer prisene, retningslinjene og stemmen din – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
+  "heroSubline": "Chiefy lærer prisene, retningslinjene og stemmen din – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "En lagret bestilling betaler for et år på Duet."
+    "punchline": "En lagret bestilling betaler for et år på Chiefy."
   },
-  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser bestillingsforespørsler først, spørsmål deretter, og aldri støy. Du mangler ikke lenger en turforespørsel begravet under TripAdvisor-varsler.",
-  "draftSubtitle": "Duet lærer priser, retningslinjer og tone. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med reisedetaljer, priser og hva du skal ta med. Du anmelder og sender.",
-  "agentSubtitle": "\"Hvilke dager er åpne neste uke?\" \"Utkast et svar til Sarah med tilgjengelighet.\"Duet kjenner innboksen og kalenderen din – bare spør.",
+  "categorizationSubtitle": "Chiefy merker automatisk hver e-post slik at du ser bestillingsforespørsler først, spørsmål deretter, og aldri støy. Du mangler ikke lenger en turforespørsel begravet under TripAdvisor-varsler.",
+  "draftSubtitle": "Chiefy lærer priser, retningslinjer og tone. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med reisedetaljer, priser og hva du skal ta med. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvilke dager er åpne neste uke?\" \"Utkast et svar til Sarah med tilgjengelighet.\"Chiefy kjenner innboksen og kalenderen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Kaptein Mike D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "I høysesongen ville jeg mistet 2-3 bestillinger i uken bare fordi jeg ikke kunne svare raskt nok fra båten. Duet lager utkast til svar med mine priser og reisedetaljer – jeg trykker bare på send mellom fangstene.",
+      "quote": "I høysesongen ville jeg mistet 2-3 bestillinger i uken bare fordi jeg ikke kunne svare raskt nok fra båten. Chiefy lager utkast til svar med mine priser og reisedetaljer – jeg trykker bare på send mellom fangstene.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah og Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "Vi kjører to båter og e-postvolumet om sommeren er vanvittig. Duet sorterer bestillingsforespørsler fra alt annet og utkast til svar som høres ut akkurat som oss. Absolutt game changer.",
+      "quote": "Vi kjører to båter og e-postvolumet om sommeren er vanvittig. Chiefy sorterer bestillingsforespørsler fra alt annet og utkast til svar som høres ut akkurat som oss. Absolutt game changer.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Kystfiskeguide, TX",
-      "quote": "Jeg brukte en time hver natt på å svare på de samme tilgjengelighetsspørsmålene. Nå håndterer Duet det. Svartiden min gikk fra timer til minutter, og jeg har ikke mistet en bestilling siden.",
+      "quote": "Jeg brukte en time hver natt på å svare på de samme tilgjengelighetsspørsmålene. Nå håndterer Chiefy det. Svartiden min gikk fra timer til minutter, og jeg har ikke mistet en bestilling siden.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Charter Office Manager, HI",
-      "quote": "Å administrere e-post for 4 kapteiner var en fulltidsjobb. Duet kategoriserer alt og utarbeider svar med rett båt, rett pris, rett kaptein. Det er som å ha en annen meg.",
+      "quote": "Å administrere e-post for 4 kapteiner var en fulltidsjobb. Chiefy kategoriserer alt og utarbeider svar med rett båt, rett pris, rett kaptein. Det er som å ha en annen meg.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Fungerer Duet for e-poster om bestilling og tilgjengelighet?",
-      "answer": "Absolutt. Duet lærer reisetyper, priser, tilgjengelighet og retningslinjer. Når en bestillingsforespørsel kommer inn, utarbeider den et komplett svar med de riktige detaljene – priser, hva som er inkludert, møtested, hva du skal ta med. Du anmelder og trykker på send."
+      "question": "Fungerer Chiefy for e-poster om bestilling og tilgjengelighet?",
+      "answer": "Absolutt. Chiefy lærer reisetyper, priser, tilgjengelighet og retningslinjer. Når en bestillingsforespørsel kommer inn, utarbeider den et komplett svar med de riktige detaljene – priser, hva som er inkludert, møtested, hva du skal ta med. Du anmelder og trykker på send."
     },
     {
-      "question": "Jeg er på vannet hele dagen. Kan jeg bruke Duet fra telefonen min?",
-      "answer": "Ja. Duet fungerer med Gmail og Outlook, så det fungerer uansett hvor e-posten din fungerer – inkludert telefonen. Utkast vises automatisk. Mellom fangstene gjennomgår og sender du med ett trykk. De fleste kapteiner forteller oss at det sparer dem 1-2 timer med e-posttid per dag i høysesongen."
+      "question": "Jeg er på vannet hele dagen. Kan jeg bruke Chiefy fra telefonen min?",
+      "answer": "Ja. Chiefy fungerer med Gmail og Outlook, så det fungerer uansett hvor e-posten din fungerer – inkludert telefonen. Utkast vises automatisk. Mellom fangstene gjennomgår og sender du med ett trykk. De fleste kapteiner forteller oss at det sparer dem 1-2 timer med e-posttid per dag i høysesongen."
     }
   ],
   "pricingNote": "For $500/charter betaler én lagret bestilling for over ett år med Pro."

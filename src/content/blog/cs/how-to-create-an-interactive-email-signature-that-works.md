@@ -2,7 +2,7 @@
 title: "Jak vytvořit interaktivní e-mailový podpis, který funguje"
 description: "Naučte se, jak vytvořit interaktivní e-mailový podpis, který zvýší zapojení, budování značky a potenciální zákazníky. Podrobný průvodce pro freelancery a startupy"
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Interaktivní podpis je navržen tak, aby vyvolal akci – kliknutí, hovor, rez
 
 To je místo, kde integrace vaší podpisové strategie s inteligentními nástroji pro správu e-mailů může znamenat rozdíl. Když potenciální zákazníci začnou klikat na odkaz „Rezervovat schůzku“ vygenerovaný vaším úžasným podpisem, potřebujete systém, který hladce zvládne následné plánování a komunikaci. Stejně tak zachování profesionálního tónu nastaveného vaším podpisem v každém následném e-mailu je klíčem k budování vztahů.
 
-Nástroje navržené pro produktivitu e-mailu, jako je [Duet Mail](https://duetmail.com/cs), mohou pomoci překonat tuto mezeru. Představte si, že by vám umělá inteligence pomohla při vytváření rychlých personalizovaných odpovědí, které si udrží váš jedinečný hlas poté, co někdo interaguje s CTA vašeho podpisu. Funkce Duet Mail, jako je **AI Triage**, mohou pomoci objevit důležité odpovědi generované z podpisových interakcí, zatímco jeho **Autentické AI Navrhování** zajišťuje, že vaše následné kroky budou znít stejně jako vy a zachová profesionalitu vašich podpisových projektů. Proměňuje zapojení vyvolané vaším podpisem v dobře vedené a produktivní rozhovory.
+Nástroje navržené pro produktivitu e-mailu, jako je [Chiefy](https://chiefy.com/cs), mohou pomoci překonat tuto mezeru. Představte si, že by vám umělá inteligence pomohla při vytváření rychlých personalizovaných odpovědí, které si udrží váš jedinečný hlas poté, co někdo interaguje s CTA vašeho podpisu. Funkce Chiefy, jako je **AI Triage**, mohou pomoci objevit důležité odpovědi generované z podpisových interakcí, zatímco jeho **Autentické AI Navrhování** zajišťuje, že vaše následné kroky budou znít stejně jako vy a zachová profesionalitu vašich podpisových projektů. Proměňuje zapojení vyvolané vaším podpisem v dobře vedené a produktivní rozhovory.
 
 ## Jste připraveni aktivovat svůj podpis?
 

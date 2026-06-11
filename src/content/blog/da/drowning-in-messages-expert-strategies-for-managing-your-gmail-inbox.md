@@ -2,7 +2,7 @@
 title: "Drukner du i beskeder? Ekspertstrategier til at administrere din Gmail indbakke"
 description: "Stop overbelastning af e-mail! Lær ekspertstrategier til at administrere din Gmail indbakke, fra klassiske taktikker til AI-værktøjer, og genvind din produktivitet."
 publishedAt: 2025-07-04
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Indbakkestyring", "E-mail"]
 draft: false
 ---
@@ -157,7 +157,7 @@ AI-e-mail-assistenter bevæger sig ud over simpel automatisering; de tilbyder in
 
 **Fordelen:** I stedet for at du graver gennem bunken, viser AI automatisk e-mails, der kræver øjeblikkelig handling. Dette reducerer sorteringstiden drastisk, sikrer, at vigtige elementer ikke går glip af, reducerer stresset ved overbelastning af indbakken og frigør dig til at fokusere din energi på effektfuldt arbejde frem for indbakkeadministration.
 
-**Duet Mail Link (Kontekstuel):** _Denne intelligente sortering er præcis, hvad travle fagfolk har brug for. Det er her værktøjer som _[_Duet Mail_](https://duetmail.com/da)_ udmærker sig ved at bruge **AI Triage** til at analysere haster, påkrævede handlinger og beslutninger, og præsentere dem tydeligt i et **Focused Dashboard**, så du med det samme ved, hvad der kræver opmærksomhed._
+**Chiefy Link (Kontekstuel):** _Denne intelligente sortering er præcis, hvad travle fagfolk har brug for. Det er her værktøjer som _[_Chiefy_](https://chiefy.com/da)_ udmærker sig ved at bruge **AI Triage** til at analysere haster, påkrævede handlinger og beslutninger, og præsentere dem tydeligt i et **Focused Dashboard**, så du med det samme ved, hvad der kræver opmærksomhed._
 
 ### Smart opsummering: Forstå lange tråde og vedhæftede filer øjeblikkeligt
 
@@ -217,4 +217,4 @@ Teknologi, især fremkomsten af intelligente AI-e-mail-assistenter, tilbyder et 
 
 At mestre din Gmail handler ikke kun om at opnå et ryddeligt digitalt rum. Det handler om at reducere stress på arbejdspladsen markant, genvinde timers værdifuld tid hver uge, beskytte din evne til at fokusere på dybt, meningsfuldt arbejde og i sidste ende booste din generelle effektivitet og velvære. Ved omhyggeligt at blande disciplinerede vaner med den strategiske brug af intelligente værktøjer, kan du forvandle din indbakke fra en kilde til frygt til en overskuelig kommunikationshub.
 
-Klar til at opleve, hvordan kunstig intelligens kan transformere dit forhold til e-mail? Tag det første skridt mod en roligere og mere produktiv arbejdsdag. Udforsk, hvordan [Duet Mail](https://duetmail.com/da) bruger AI-triage, smart opsummering og autentisk udkast til at hjælpe travle fagfolk som dig med at erobre deres indbakke.
+Klar til at opleve, hvordan kunstig intelligens kan transformere dit forhold til e-mail? Tag det første skridt mod en roligere og mere produktiv arbejdsdag. Udforsk, hvordan [Chiefy](https://chiefy.com/da) bruger AI-triage, smart opsummering og autentisk udkast til at hjælpe travle fagfolk som dig med at erobre deres indbakke.

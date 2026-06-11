@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail İç Mimarlar İçin | AI E-posta Asistanı",
-  "metaDescription": "Duet Mail, iç mimarların müşteri e-postalarını, yüklenici koordinasyonunu ve tedarikçi siparişlerini yönetmelerine yardımcı olur; hatta şantiye alanından bile. AI, projenizin ayrıntıları, tercihleri ​​ve ses tonunuzla birlikte taslak halinde yanıtlar oluşturur.",
+  "pageTitle": "Chiefy İç Mimarlar İçin | AI E-posta Asistanı",
+  "metaDescription": "Chiefy, iç mimarların müşteri e-postalarını, yüklenici koordinasyonunu ve tedarikçi siparişlerini yönetmelerine yardımcı olur; hatta şantiye alanından bile. AI, projenizin ayrıntıları, tercihleri ​​ve ses tonunuzla birlikte taslak halinde yanıtlar oluşturur.",
   "heroBadge": "400'den fazla iç mimar tarafından güvenilen marka",
   "heroHeadline": "Müşterilerinizle sahada olduğunuz süre boyunca e-posta asistanınız.",
-  "heroSubline": "Duet, tedarikçi iletişim bilgilerinizi, proje detaylarınızı ve müşteri tercihlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece hiçbir müşterinizi yavaş yanıt verme nedeniyle kaybetmezsiniz.",
+  "heroSubline": "Chiefy, tedarikçi iletişim bilgilerinizi, proje detaylarınızı ve müşteri tercihlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece hiçbir müşterinizi yavaş yanıt verme nedeniyle kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "proje",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Bir kez müşteri kazanmak, Duet'ın yıllarca süren masraflarını karşılar."
+    "punchline": "Bir kez müşteri kazanmak, Chiefy'ın yıllarca süren masraflarını karşılar."
   },
-  "categorizationSubtitle": "Duet, her e-postayı otomatik olarak etiketleyerek önce yeni müşteri taleplerini, sonra onay bekleyenleri ve asla tedarikçi bültenlerini görmenizi sağlar. Artık fuar tanıtımlarının altında kaybolan bir tasarım danışmanlığını kaçırmayacaksınız.",
-  "draftSubtitle": "Duet süreçlerinizi, proje detaylarınızı ve üslubunuzu öğrenir. Yeni bir talep veya müşteri sorusu geldiğinde, müsaitlik durumunuzu, sonraki adımları ve proje ayrıntılarını içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
-  "agentSubtitle": "\"Henderson projesinin durumu nedir?\" \"Hangi onaylar hala beklemede?\" Duet gelen kutunuzu ve her proje başlığını biliyor — sadece sorun.",
+  "categorizationSubtitle": "Chiefy, her e-postayı otomatik olarak etiketleyerek önce yeni müşteri taleplerini, sonra onay bekleyenleri ve asla tedarikçi bültenlerini görmenizi sağlar. Artık fuar tanıtımlarının altında kaybolan bir tasarım danışmanlığını kaçırmayacaksınız.",
+  "draftSubtitle": "Chiefy süreçlerinizi, proje detaylarınızı ve üslubunuzu öğrenir. Yeni bir talep veya müşteri sorusu geldiğinde, müsaitlik durumunuzu, sonraki adımları ve proje ayrıntılarını içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Henderson projesinin durumu nedir?\" \"Hangi onaylar hala beklemede?\" Chiefy gelen kutunuzu ve her proje başlığını biliyor — sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Baş Tasarımcı, Austin TX",
-      "quote": "Günde 6 saat şantiyede boyacılar, elektrikçiler ve fayans ustalarıyla koordinasyon sağlıyorum. Bu sırada üç farklı müşteri de projeleriyle ilgili e-posta gönderiyor. Duet doğru proje detaylarıyla yanıt taslakları hazırlıyor; ben de şantiye ziyaretleri arasında gözden geçiriyorum.",
+      "quote": "Günde 6 saat şantiyede boyacılar, elektrikçiler ve fayans ustalarıyla koordinasyon sağlıyorum. Bu sırada üç farklı müşteri de projeleriyle ilgili e-posta gönderiyor. Chiefy doğru proje detaylarıyla yanıt taslakları hazırlıyor; ben de şantiye ziyaretleri arasında gözden geçiriyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Konut İç Mekan Tasarımcısı, Chicago",
-      "quote": "Müşteri soruları eskiden günlerce cevapsız kalıyordu çünkü satın alma e-postaları ve yüklenici planlamasıyla boğuşuyordum. Şimdi Duet, yeni potansiyel müşterilere süreçlerim ve müsaitlik durumumla birlikte dakikalar içinde yanıt veriyor. Bu çeyrekte 4 ek proje daha aldım.",
+      "quote": "Müşteri soruları eskiden günlerce cevapsız kalıyordu çünkü satın alma e-postaları ve yüklenici planlamasıyla boğuşuyordum. Şimdi Chiefy, yeni potansiyel müşterilere süreçlerim ve müsaitlik durumumla birlikte dakikalar içinde yanıt veriyor. Bu çeyrekte 4 ek proje daha aldım.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Nashville'de Tasarım Stüdyosu Sahibi",
-      "quote": "12 aktif proje için e-postaları yönetmek beni öldürüyordu. Duet her şeyi kategorize ediyor — yeni sorular, onay bekleyenler, tedarikçi siparişleri, yüklenici güncellemeleri — böylece önce neye dikkat etmem gerektiğini tam olarak biliyorum.",
+      "quote": "12 aktif proje için e-postaları yönetmek beni öldürüyordu. Chiefy her şeyi kategorize ediyor — yeni sorular, onay bekleyenler, tedarikçi siparişleri, yüklenici güncellemeleri — böylece önce neye dikkat etmem gerektiğini tam olarak biliyorum.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "İç Dekorasyon Uzmanı, San Diego",
-      "quote": "Kurulum haftalarında yeterince hızlı yanıt veremediğim için potansiyel müşterileri kaybediyordum. Duet danışmanlık sürecimi, fiyatlandırma yapımı, hatta tasarım stilimi nasıl tanımladığımı bile öğrendi. Müşteriler bunun AI'in yardımıyla olduğunu bilmiyorlar.",
+      "quote": "Kurulum haftalarında yeterince hızlı yanıt veremediğim için potansiyel müşterileri kaybediyordum. Chiefy danışmanlık sürecimi, fiyatlandırma yapımı, hatta tasarım stilimi nasıl tanımladığımı bile öğrendi. Müşteriler bunun AI'in yardımıyla olduğunu bilmiyorlar.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Ticari İç Mekan Tasarımcısı, Denver",
-      "quote": "Tedarikçi teslim süreleri, yüklenici programları ve müşteri revizyon talepleri arasında gelen kutum tam bir kaos içindeydi. Duet tüm bunları hallediyor ve onay bekleyen konularla ilgili takip yazıları hazırlıyor. Sanki hiç uyumayan bir proje koordinatörüne sahip olmak gibi.",
+      "quote": "Tedarikçi teslim süreleri, yüklenici programları ve müşteri revizyon talepleri arasında gelen kutum tam bir kaos içindeydi. Chiefy tüm bunları hallediyor ve onay bekleyen konularla ilgili takip yazıları hazırlıyor. Sanki hiç uyumayan bir proje koordinatörüne sahip olmak gibi.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Aynı anda 8-10 projeyle uğraşıyorum. Duet bunların hepsini aklı başında tutabilir mi?",
-      "answer": "Evet. Duet her müşteri ve proje için her e-posta yazışmasını takip eder. Henderson mutfağı veya Park Avenue ofisi hakkında soru sorduğunuzda, ilgili tüm konuşmalardan (tedarikçi siparişleri, yüklenici güncellemeleri, müşteri onayları) bağlamı çeker, böylece yanıtlarınız her zaman doğru ve projeye özel olur. Hangi fayansın hangi müşteri için olduğu konusunda karışıklık olmaz."
+      "question": "Aynı anda 8-10 projeyle uğraşıyorum. Chiefy bunların hepsini aklı başında tutabilir mi?",
+      "answer": "Evet. Chiefy her müşteri ve proje için her e-posta yazışmasını takip eder. Henderson mutfağı veya Park Avenue ofisi hakkında soru sorduğunuzda, ilgili tüm konuşmalardan (tedarikçi siparişleri, yüklenici güncellemeleri, müşteri onayları) bağlamı çeker, böylece yanıtlarınız her zaman doğru ve projeye özel olur. Hangi fayansın hangi müşteri için olduğu konusunda karışıklık olmaz."
     },
     {
-      "question": "Birçok yüklenici ve tedarikçiyle koordinasyon halindeyim. Duet bu konuda yardımcı olur mu?",
-      "answer": "Kesinlikle. Duet yüklenici iletişim bilgilerinizi, tedarikçi temsilcilerinizi ve projelerinizdeki her bir iş kolunun rolünün bağlamını öğrenir. Elektrikçiniz kaba işlerin bittiğini e-postayla bildirdiğinde, Duet bir sonraki adımı onaylayan veya armatür montajcısını dahil eden bir yanıt taslağı hazırlayabilir. Bu, siz şehrin diğer ucunda başka bir şantiyede olsanız bile iş akışının devam etmesini sağlar."
+      "question": "Birçok yüklenici ve tedarikçiyle koordinasyon halindeyim. Chiefy bu konuda yardımcı olur mu?",
+      "answer": "Kesinlikle. Chiefy yüklenici iletişim bilgilerinizi, tedarikçi temsilcilerinizi ve projelerinizdeki her bir iş kolunun rolünün bağlamını öğrenir. Elektrikçiniz kaba işlerin bittiğini e-postayla bildirdiğinde, Chiefy bir sonraki adımı onaylayan veya armatür montajcısını dahil eden bir yanıt taslağı hazırlayabilir. Bu, siz şehrin diğer ucunda başka bir şantiyede olsanız bile iş akışının devam etmesini sağlar."
     }
   ],
-  "pricingNote": "$10,000/proje fiyatıyla, kazanılan her bir müşteri Duet Pro'nin yıllarca sürecek masrafını karşılıyor."
+  "pricingNote": "$10,000/proje fiyatıyla, kazanılan her bir müşteri Chiefy Pro'nin yıllarca sürecek masrafını karşılıyor."
 }

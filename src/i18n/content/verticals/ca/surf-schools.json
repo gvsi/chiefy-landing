@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail per a escoles de surf i operadors de paddleboard | AI Assistent de correu electrònic",
-  "metaDescription": "Duet Mail ajuda els instructors de surf i els operadors de paddleboard a respondre als correus electrònics de reserva a l'instant, fins i tot mentre ensenya. Respostes redactades per AI amb els tipus de lliçons, els preus i la veu.",
+  "pageTitle": "Chiefy per a escoles de surf i operadors de paddleboard | AI Assistent de correu electrònic",
+  "metaDescription": "Chiefy ajuda els instructors de surf i els operadors de paddleboard a respondre als correus electrònics de reserva a l'instant, fins i tot mentre ensenya. Respostes redactades per AI amb els tipus de lliçons, els preus i la veu.",
   "heroBadge": "Amb la confiança de més de 300 instructors de surf",
   "heroHeadline": "El vostre assistent de correu electrònic mentre esteu ensenyant a l'aigua",
-  "heroSubline": "Duet aprèn els tipus de lliçons, els preus i les condicions; després redacta esborranys de respostes per correu electrònic perquè mai perdis una reserva per una resposta lenta.",
+  "heroSubline": "Chiefy aprèn els tipus de lliçons, els preus i les condicions; després redacta esborranys de respostes per correu electrònic perquè mai perdis una reserva per una resposta lenta.",
   "inboxEmails": [
     {
       "from": "Raquel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lliçó",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Dues reserves desades paguen un any de Duet."
+    "punchline": "Dues reserves desades paguen un any de Chiefy."
   },
-  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les reserves de lliçons, les preguntes en segon lloc i el soroll mai. Ja no us perdeu una consulta de grup escolar soterrada sota les alertes de Yelp.",
-  "draftSubtitle": "Duet aprèn els tipus de lliçons, els preus de grup i el to. Quan arriba una consulta de reserva, redacta una resposta completa amb disponibilitat, què s'inclou i què cal portar. Tu revisa i envia.",
-  "agentSubtitle": "\"Alguna reserva de grup aquesta setmana?\" \"Esborrar una resposta a l'escola amb disponibilitat\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
+  "categorizationSubtitle": "Chiefy etiqueta automàticament cada correu electrònic perquè vegeu primer les reserves de lliçons, les preguntes en segon lloc i el soroll mai. Ja no us perdeu una consulta de grup escolar soterrada sota les alertes de Yelp.",
+  "draftSubtitle": "Chiefy aprèn els tipus de lliçons, els preus de grup i el to. Quan arriba una consulta de reserva, redacta una resposta completa amb disponibilitat, què s'inclou i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Alguna reserva de grup aquesta setmana?\" \"Esborrar una resposta a l'escola amb disponibilitat\". Chiefy coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
       "from": "Raquel T.",
@@ -127,31 +127,31 @@
     {
       "name": "L'entrenador Mike T.",
       "title": "Propietari de l'escola de surf, CA",
-      "quote": "Estic a l'aigua ensenyant 6 hores al dia. Quan vaig comprovar el correu electrònic, la meitat de les reserves havien anat a una altra persona. Ara Duet redacta les respostes amb el meu preu i la meva disponibilitat; només reviso entre sessions.",
+      "quote": "Estic a l'aigua ensenyant 6 hores al dia. Quan vaig comprovar el correu electrònic, la meitat de les reserves havien anat a una altra persona. Ara Chiefy redacta les respostes amb el meu preu i la meva disponibilitat; només reviso entre sessions.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen i Mark S.",
       "title": "Lliçons i lloguers de paddleboard, HI",
-      "quote": "Oferim classes i lloguer de pensió des de la mateixa safata d'entrada. Duet va descobrir la diferència a l'instant: les preguntes de lloguer obtenen respostes, les consultes de lliçons obtenen detalls de la lliçó. És com tenir una recepció.",
+      "quote": "Oferim classes i lloguer de pensió des de la mateixa safata d'entrada. Chiefy va descobrir la diferència a l'instant: les preguntes de lloguer obtenen respostes, les consultes de lliçons obtenen detalls de la lliçó. És com tenir una recepció.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Instructor de surf, FL",
-      "quote": "Les reserves de grups escolars solien rebre 10 correus electrònics d'anada i tornada. Ara, Duet redacta la primera resposta amb les tarifes de grup, el que s'inclou i el full de permís. Talla tot el fil per la meitat.",
+      "quote": "Les reserves de grups escolars solien rebre 10 correus electrònics d'anada i tornada. Ara, Chiefy redacta la primera resposta amb les tarifes de grup, el que s'inclou i el full de permís. Talla tot el fil per la meitat.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP Tours & Classes, OR",
-      "quote": "La temporada alta m'estava matant: 30 correus electrònics al dia sobre condicions, preus, què cal portar. Les mateixes cinc preguntes una i altra vegada. Duet els gestiona tots i sonen exactament com jo.",
+      "quote": "La temporada alta m'estava matant: 30 correus electrònics al dia sobre condicions, preus, què cal portar. Les mateixes cinc preguntes una i altra vegada. Chiefy els gestiona tots i sonen exactament com jo.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Director de Kids Surf Camp, SC",
-      "quote": "Els pares envien els correus electrònics més llargs. Dates del campament, al·lèrgies, nivells d'habilitat, hores de recollida. Duet redacta respostes detallades que ho cobreixen tot, així que no estic escrivint paràgrafs a les 22:00 després d'un dia sencer a la platja.",
+      "quote": "Els pares envien els correus electrònics més llargs. Dates del campament, al·lèrgies, nivells d'habilitat, hores de recollida. Chiefy redacta respostes detallades que ho cobreixen tot, així que no estic escrivint paràgrafs a les 22:00 després d'un dia sencer a la platja.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Duet gestiona diferents tipus de lliçons i lloguer d'equips?",
-      "answer": "Sí. Duet aprèn totes les teves ofertes: classes privades, classes en grup, colònies infantils, lloguer de taules, excursions SUP. Quan arriba una consulta, redacta una resposta amb el preu correcte, la durada, què s'inclou i què cal portar. Sap que un correu electrònic d'un grup escolar necessita detalls diferents de la reserva d'una lliçó privada."
+      "question": "Chiefy gestiona diferents tipus de lliçons i lloguer d'equips?",
+      "answer": "Sí. Chiefy aprèn totes les teves ofertes: classes privades, classes en grup, colònies infantils, lloguer de taules, excursions SUP. Quan arriba una consulta, redacta una resposta amb el preu correcte, la durada, què s'inclou i què cal portar. Sap que un correu electrònic d'un grup escolar necessita detalls diferents de la reserva d'una lliçó privada."
     },
     {
       "question": "Què passa amb les preguntes sobre el temps i les condicions?",
-      "answer": "Duet s'assabenta de com gestioneu normalment els correus electrònics de condicions: les vostres polítiques sobre cancel·lacions, reprogramacions i quines condicions ensenyeu. Quan algú envia un correu electrònic preguntant-se si la lliçó continuarà, Duet redacta una resposta que coincideix amb el vostre to i política habituals. Revisa i envia en qüestió de segons."
+      "answer": "Chiefy s'assabenta de com gestioneu normalment els correus electrònics de condicions: les vostres polítiques sobre cancel·lacions, reprogramacions i quines condicions ensenyeu. Quan algú envia un correu electrònic preguntant-se si la lliçó continuarà, Chiefy redacta una resposta que coincideix amb el vostre to i política habituals. Revisa i envia en qüestió de segons."
     }
   ],
   "pricingNote": "Amb 90 dòlars per lliçó, dues reserves desades paguen més d'un any de Pro."

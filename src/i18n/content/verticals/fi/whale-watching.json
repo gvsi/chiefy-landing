@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail Whale-katselukierroksille | AI-sähköpostiavustaja",
-  "metaDescription": "Duet Mail auttaa valaita tarkkailevia kapteeneja vastaamaan varaussähköposteihin välittömästi – jopa vedestä. AI:n muotoillut vastaukset, joissa on kiertueesi tiedot, hinnat ja ääni.",
+  "pageTitle": "Chiefy Whale-katselukierroksille | AI-sähköpostiavustaja",
+  "metaDescription": "Chiefy auttaa valaita tarkkailevia kapteeneja vastaamaan varaussähköposteihin välittömästi – jopa vedestä. AI:n muotoillut vastaukset, joissa on kiertueesi tiedot, hinnat ja ääni.",
   "heroBadge": "Yli 300 kiertueen kapteenin luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet tarkkailemassa valaita",
-  "heroSubline": "Duet oppii kiertueaikataulusi, hinnoittelusi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta ollessasi vesillä.",
+  "heroSubline": "Chiefy oppii kiertueaikataulusi, hinnoittelusi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta ollessasi vesillä.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "kiertueryhmä",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Yksi tallennettu ryhmävaraus maksaa Duet in vuoden."
+    "punchline": "Yksi tallennettu ryhmävaraus maksaa Chiefy in vuoden."
   },
-  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, risteilyalusten aikataulumuutokset toiseksi ja melu ei koskaan. Enää ei puutu yksityistä tilauskyselyä TripAdvisor-hälytysten alle.",
-  "draftSubtitle": "Duet oppii kiertueaikasi, hinnoittelusi ja käytäntösi. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on saatavuus, mitä sisältyy ja mitä tuoda. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Kuinka monta paikkaa on jäljellä lauantain aamukiertueella?\" \"Luonnos vastaus Rachelille saatavuuden mukaan.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
+  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, risteilyalusten aikataulumuutokset toiseksi ja melu ei koskaan. Enää ei puutu yksityistä tilauskyselyä TripAdvisor-hälytysten alle.",
+  "draftSubtitle": "Chiefy oppii kiertueaikasi, hinnoittelusi ja käytäntösi. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on saatavuus, mitä sisältyy ja mitä tuoda. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Kuinka monta paikkaa on jäljellä lauantain aamukiertueella?\" \"Luonnos vastaus Rachelille saatavuuden mukaan.\" Chiefy tietää postilaatikkosi ja aikataulusi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "kapteeni Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "Risteilyalusten matkustajat tarvitsevat vastauksia nopeasti – heillä on vain 6 tuntia satamassa. Aiemmin menetin yksityiset charterit, koska olin vesillä, kun tiedustelu tuli sisään. Nyt Duet vastaa hinnoittelu- ja noutotietoihini ennen kuin edes telakoitun.",
+      "quote": "Risteilyalusten matkustajat tarvitsevat vastauksia nopeasti – heillä on vain 6 tuntia satamassa. Aiemmin menetin yksityiset charterit, koska olin vesillä, kun tiedustelu tuli sisään. Nyt Chiefy vastaa hinnoittelu- ja noutotietoihini ennen kuin edes telakoitun.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Järjestämme kaksi kierrosta päivässä ryhäselän aikana ja sähköpostien määrä on epätodellista. \"Nähdäänkö valaita?\" \"Mitä minun pitäisi laittaa päälleni?\" \"Onko huominen peruttu?\" Duet ti käsittelee toistuvia kysymyksiä ja keskitymme kierroksiin.",
+      "quote": "Järjestämme kaksi kierrosta päivässä ryhäselän aikana ja sähköpostien määrä on epätodellista. \"Nähdäänkö valaita?\" \"Mitä minun pitäisi laittaa päälleni?\" \"Onko huominen peruttu?\" Chiefy ti käsittelee toistuvia kysymyksiä ja keskitymme kierroksiin.",
       "avatarKey": "francesca"
     },
     {
       "name": "kapteeni Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "Vastasin samaan 10 kysymykseen joka ilta – hinnat, mitä sisältyy hintaan, merisairausvinkkejä, lasten ikärajat. Duet oppi kaiken ensimmäisen viikon aikana. Vastausaikani oli 8 tunnista 8 minuuttiin.",
+      "quote": "Vastasin samaan 10 kysymykseen joka ilta – hinnat, mitä sisältyy hintaan, merisairausvinkkejä, lasten ikärajat. Chiefy oppi kaiken ensimmäisen viikon aikana. Vastausaikani oli 8 tunnista 8 minuuttiin.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Varauspäällikkö, Pacific NW",
-      "quote": "Sään peruutukset ovat pahimpia – 30 ihmistä tarvitsee uudelleenvarauksen kerralla, ja minä jongleerin puheluilla. Duet luonnostelee henkilökohtaisia ​​sähköpostiviestejä jokaiselle vieraalle. Se mikä minulla kesti ennen 2 tuntia, kestää nyt 15 minuuttia.",
+      "quote": "Sään peruutukset ovat pahimpia – 30 ihmistä tarvitsee uudelleenvarauksen kerralla, ja minä jongleerin puheluilla. Chiefy luonnostelee henkilökohtaisia ​​sähköpostiviestejä jokaiselle vieraalle. Se mikä minulla kesti ennen 2 tuntia, kestää nyt 15 minuuttia.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Olemme kahden hengen operaatio – minä kapteeni, hän hoitaa logistiikan. Sesonkiaikana hän vietti 3 tuntia yössä sähköpostin parissa. Duet ti leikkasi sen 30 minuuttiin. Hän todella saa iltansa takaisin nyt.",
+      "quote": "Olemme kahden hengen operaatio – minä kapteeni, hän hoitaa logistiikan. Sesonkiaikana hän vietti 3 tuntia yössä sähköpostin parissa. Chiefy ti leikkasi sen 30 minuuttiin. Hän todella saa iltansa takaisin nyt.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Käsitteleekö Duet sään peruutuksia ja risteilyalusten aikataulumuutoksia?",
-      "answer": "Kyllä. Kun peruutat kiertueen sään tai risteilyaluksen saapumisajan muutosten vuoksi, voit kertoa Duet ille kerran ja se laatii henkilökohtaisen aikataulun tai päivittää sähköpostit jokaiselle asiakkaalle. Ei enää saman viestin kopioimista ja liittämistä 30 kertaa. Jokainen vastaus sisältää vieraan alkuperäiset varaustiedot ja käytettävissä olevat vaihtoehdot."
+      "question": "Käsitteleekö Chiefy sään peruutuksia ja risteilyalusten aikataulumuutoksia?",
+      "answer": "Kyllä. Kun peruutat kiertueen sään tai risteilyaluksen saapumisajan muutosten vuoksi, voit kertoa Chiefy ille kerran ja se laatii henkilökohtaisen aikataulun tai päivittää sähköpostit jokaiselle asiakkaalle. Ei enää saman viestin kopioimista ja liittämistä 30 kertaa. Jokainen vastaus sisältää vieraan alkuperäiset varaustiedot ja käytettävissä olevat vaihtoehdot."
     },
     {
-      "question": "Saamme jatkuvasti samoja kysymyksiä – 'nähdäänkö valaita?', 'mitä minun pitäisi pukea?', 'sopiiko se lapsille?' Pystyykö Duet käsittelemään niitä?",
-      "answer": "Duet loistaa juuri siellä. Se oppii tavalliset vastauksesi – lajit, joita tyypillisesti näet, mitä ottaa mukaan, ikäsäännöt, merisairausvinkit, lähtöajat – ja laatii täydelliset vastaukset välittömästi. Tarkistat ja lähetät. Useimmat kapteenit kertovat meille, että 80 % heidän postilaatikostaan ​​on samat 10 kysymystä, ja Duet käsittelee ne kaikki."
+      "question": "Saamme jatkuvasti samoja kysymyksiä – 'nähdäänkö valaita?', 'mitä minun pitäisi pukea?', 'sopiiko se lapsille?' Pystyykö Chiefy käsittelemään niitä?",
+      "answer": "Chiefy loistaa juuri siellä. Se oppii tavalliset vastauksesi – lajit, joita tyypillisesti näet, mitä ottaa mukaan, ikäsäännöt, merisairausvinkit, lähtöajat – ja laatii täydelliset vastaukset välittömästi. Tarkistat ja lähetät. Useimmat kapteenit kertovat meille, että 80 % heidän postilaatikostaan ​​on samat 10 kysymystä, ja Chiefy käsittelee ne kaikki."
     }
   ],
   "pricingNote": "Hinta 125 dollaria/henkilö, yksi säästetty 6 hengen ryhmä maksaa yli vuoden Pro:n."

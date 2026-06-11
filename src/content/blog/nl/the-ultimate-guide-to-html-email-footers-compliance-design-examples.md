@@ -2,7 +2,7 @@
 title: "De ultieme gids voor HTML-e-mailvoetteksten: compliance, ontwerp en voorbeelden"
 description: "Master HTML-e-mailvoetteksten: essentiële elementen, ontwerptips, wettelijke naleving (CAN-SPAM,GDPR,CASL) en merkvoorbeelden."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -120,4 +120,4 @@ Uw HTML-e-mailvoettekst is misschien het laatste wat ontvangers zien, maar het z
 
 Het schept vertrouwen, versterkt uw merk, zorgt voor compliance en biedt nuttige navigatie voor uw publiek. Neem even de tijd om uw huidige e-mailvoettekst te bekijken. Is het conform? Is het duidelijk? Is het mobielvriendelijk? Het maken van deze kleine verbeteringen kan een grote impact hebben op hoe uw e-mails (en uw merk) worden waargenomen.
 
-Bent u op zoek naar manieren om uw algehele e-mailbeheer efficiënter en professioneler te maken? Overweeg om tools te verkennen die zijn ontworpen voor drukke professionals. Als u bijvoorbeeld leert hoe [Duet Mail de e-mailproductiviteit vereenvoudigt](https://duetmail.com/nl) met AI-functies, kunt u meer tijd vrijmaken om u te concentreren op het perfectioneren van details zoals uw voettekst en ervoor te zorgen dat elke communicatie u goed vertegenwoordigt.
+Bent u op zoek naar manieren om uw algehele e-mailbeheer efficiënter en professioneler te maken? Overweeg om tools te verkennen die zijn ontworpen voor drukke professionals. Als u bijvoorbeeld leert hoe [Chiefy de e-mailproductiviteit vereenvoudigt](https://chiefy.com/nl) met AI-functies, kunt u meer tijd vrijmaken om u te concentreren op het perfectioneren van details zoals uw voettekst en ervoor te zorgen dat elke communicatie u goed vertegenwoordigt.

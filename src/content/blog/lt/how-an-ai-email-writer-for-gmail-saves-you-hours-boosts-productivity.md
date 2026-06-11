@@ -2,7 +2,7 @@
 title: "Kaip DI el. laiškų rašymo įrankis Gmail sutaupo valandų ir didina produktyvumą"
 description: "Skęstate el. laiškuose? Sužinokite, kaip DI el. laiškų rašymo įrankis Gmail gali rengti atsakymų juodraščius, apibendrinti gijas ir grąžinti jums darbo dieną. Didinkite produktyvumą jau šiandien!"
 publishedAt: 2025-07-25
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["DI", "Gmail", "Produktyvumas", "El. laiškų rašymas"]
 draft: false
 ---
@@ -107,7 +107,7 @@ Rinkoje yra įvairių žaidėjų, kiekvienas su savo stiprybėmis:
 
 | Įrankis                          | Pagrindinis fokusas                       | Pagrindinės DI funkcijos                                                                      | Tipinis kainodaros modelis             | Unikalus vertės pasiūlymas (USP)                                          |
 | -------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- |
-| **Duet Mail**                    | Išmanus asistentas (atranka ir juodraščiai) | DI atranka, autentiški DI juodraščiai (balso mokymasis), išmanios santraukos, konteksto suvokimas | Prenumerata (išsami informacija paprastai svetainėje) | Dėmesys autentiškam balso atitikimui ir išmaniajam prioritetų valdymo skydeliui. |
+| **Chiefy**                    | Išmanus asistentas (atranka ir juodraščiai) | DI atranka, autentiški DI juodraščiai (balso mokymasis), išmanios santraukos, konteksto suvokimas | Prenumerata (išsami informacija paprastai svetainėje) | Dėmesys autentiškam balso atitikimui ir išmaniajam prioritetų valdymo skydeliui. |
 | **Google Gemini (in Workspace)** | Integruotas Workspace DI                  | Help me write (juodraščiai), santraukos, Smart Compose / Reply, integracija su Workspace programomis | Workspace priedas ($20–$30/naudotojui/mėn.+) | Gili integracija Google ekosistemoje.                                     |
 | **MailMaestro**                  | Gmail / Outlook DI asistentas             | Rašymas, atsakymai, tobulinimas, santraukos, šablonai, tono / kalbos valdymas, dėmesys saugumui | Freemium, Pro ($15/naudotojui/mėn.)    | Kelių LLM metodas, stiprus saugumo akcentas.                              |
 | **Auto Gmail**                   | Didelio kiekio DI juodraščiai             | DI juodraščiai (GPT-4 / Llama-3), stiliaus mokymasis, konteksto įvestis, juodieji sąrašai     | Freemium, pakopos ($27–$47/mėn.)       | Dėmesys automatizuotų juodraščių generavimo greičiui ir apimčiai.         |
@@ -121,9 +121,9 @@ Nors greitis yra didelis privalumas, didžiausia daugelio specialistų dvejonė 
 
 Čia atsiskleidžia naujos kartos DI asistentai, orientuoti ne tik į *rašymą*, bet ir į *išmanų bendravimą*. Svarbiausia slypi dviejose srityse: **autentiško balso atkūrime** ir **išmanioje atrankoje**.
 
-Užuot vien generavęs gramatiškai taisyklingą tekstą, pažangus DI siekia pagauti *jūsų* unikalų balsą. Kaip? Analizuodamas jūsų anksčiau išsiųstus el. laiškus – žodyno pasirinkimus, sakinių struktūras, dažnas frazes ir net įprastą formalumo lygį su skirtingais kontaktais. Tai leidžia DI kurti juodraščius, kurie iš tiesų skamba taip, lyg būtų parašyti jūsų, išlaikant nuoseklumą ir asmeninį ryšį, kartu taupant laiką. Tokie įrankiai kaip [**Duet Mail**](/lt) yra specialiai sukurti remiantis šiuo principu, teikiant pirmenybę **autentiškiems DI juodraščiams**, kad jūsų DI asistentas iš tiesų kalbėtų jūsų kalba.
+Užuot vien generavęs gramatiškai taisyklingą tekstą, pažangus DI siekia pagauti *jūsų* unikalų balsą. Kaip? Analizuodamas jūsų anksčiau išsiųstus el. laiškus – žodyno pasirinkimus, sakinių struktūras, dažnas frazes ir net įprastą formalumo lygį su skirtingais kontaktais. Tai leidžia DI kurti juodraščius, kurie iš tiesų skamba taip, lyg būtų parašyti jūsų, išlaikant nuoseklumą ir asmeninį ryšį, kartu taupant laiką. Tokie įrankiai kaip [**Chiefy**](/lt) yra specialiai sukurti remiantis šiuo principu, teikiant pirmenybę **autentiškiems DI juodraščiams**, kad jūsų DI asistentas iš tiesų kalbėtų jūsų kalba.
 
-Gaunamųjų laiškų pusėje gautųjų chaosui suvaldyti reikia daugiau nei greitesnių atsakymų. Reikia prioritetų nustatymo. Įsivaizduokite išmanią sistemą, kuri automatiškai peržiūri gaunamus el. laiškus, atpažįsta tuos, kuriems reikia skubaus veiksmo ar sprendimo, ir pateikia juos aiškiame, sutelktame vaizde, atskirai nuo naujienlaiškių ir žemo prioriteto CC triukšmo. Tai yra **DI atrankos** galia. Tokie asistentai kaip Duet Mail turi **sutelkto valdymo skydelį**, veikiantį su DI atranka, kad prasibrautų pro netvarką ir iškart parodytų, kam dabar reikia jūsų dėmesio. Kartu su **išmaniomis santraukomis**, kurios sutraukia ilgas gijas, galite daug greičiau suprasti kontekstą ir reikalingus veiksmus.
+Gaunamųjų laiškų pusėje gautųjų chaosui suvaldyti reikia daugiau nei greitesnių atsakymų. Reikia prioritetų nustatymo. Įsivaizduokite išmanią sistemą, kuri automatiškai peržiūri gaunamus el. laiškus, atpažįsta tuos, kuriems reikia skubaus veiksmo ar sprendimo, ir pateikia juos aiškiame, sutelktame vaizde, atskirai nuo naujienlaiškių ir žemo prioriteto CC triukšmo. Tai yra **DI atrankos** galia. Tokie asistentai kaip Chiefy turi **sutelkto valdymo skydelį**, veikiantį su DI atranka, kad prasibrautų pro netvarką ir iškart parodytų, kam dabar reikia jūsų dėmesio. Kartu su **išmaniomis santraukomis**, kurios sutraukia ilgas gijas, galite daug greičiau suprasti kontekstą ir reikalingus veiksmus.
 
 
 Derindami autentišką juodraščių rengimą su išmaniu prioritetų nustatymu ir santraukomis, DI el. pašto asistentai iš paprastų rašymo įrankių virsta tikrais produktyvumo partneriais, sprendžiančiais tiek šiuolaikinio el. pašto rašymo, tiek valdymo iššūkius.
@@ -162,4 +162,4 @@ El. paštas niekur nedings, tačiau tai, kaip jį valdome, dėl dirbtinio intele
 
 Nuo atsakymų juodraščių per kelias sekundes iki sudėtingų gijų santraukų ir net pagalbos nustatant darbo krūvio prioritetus – šie įrankiai suteikia apčiuopiamą produktyvumo naudą. Svarbiausia rinktis apgalvotai, teikiant pirmenybę įrankiams, kurie gerbia jūsų duomenų privatumą ir, svarbiausia, padeda išlaikyti autentišką balsą. Geriausi DI asistentai sustiprina jūsų gebėjimus, leisdami bendrauti efektyviau ir veiksmingiau, neskambant kaip robotui.
 
-Norite mažiau laiko kovoti su gautaisiais ir daugiau dėmesio skirti prasmingam darbui? Galbūt metas išbandyti, kaip DI el. pašto asistentas gali pakeisti jūsų Gmail patirtį. Apsvarstykite galimybę išbandyti tokį įrankį kaip [**Duet Mail**](/lt), kuris derina išmanią atranką su autentiškais DI juodraščiais, ir pamatykite, kaip jis gali padėti susigrąžinti darbo dieną.
+Norite mažiau laiko kovoti su gautaisiais ir daugiau dėmesio skirti prasmingam darbui? Galbūt metas išbandyti, kaip DI el. pašto asistentas gali pakeisti jūsų Gmail patirtį. Apsvarstykite galimybę išbandyti tokį įrankį kaip [**Chiefy**](/lt), kuris derina išmanią atranką su autentiškais DI juodraščiais, ir pamatykite, kaip jis gali padėti susigrąžinti darbo dieną.

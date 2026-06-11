@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail bálnaleső túrákhoz | AI e-mail asszisztens",
-  "metaDescription": "A Duet Mail segít a bálnaleső kapitányoknak azonnal válaszolni a foglalási e-mailekre – még a vízből is. AI által összeállított válaszok a körút részleteivel, árával és hangjával.",
+  "pageTitle": "Chiefy bálnaleső túrákhoz | AI e-mail asszisztens",
+  "metaDescription": "A Chiefy segít a bálnaleső kapitányoknak azonnal válaszolni a foglalási e-mailekre – még a vízből is. AI által összeállított válaszok a körút részleteivel, árával és hangjával.",
   "heroBadge": "Több mint 300 túrakapitány bízik benne",
   "heroHeadline": "Az e-mail asszisztense, miközben bálnákat észlel",
-  "heroSubline": "A Duet megtanulja a turné ütemezését, árait és hangját – majd e-mail-válaszokat készít, így soha nem veszíthet el egy foglalást a vízen.",
+  "heroSubline": "A Chiefy megtanulja a turné ütemezését, árait és hangját – majd e-mail-válaszokat készít, így soha nem veszíthet el egy foglalást a vízen.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "túracsoport",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Egy elmentett csoportos foglalás egy év Duetért fizet."
+    "punchline": "Egy elmentett csoportos foglalás egy év Chiefyért fizet."
   },
-  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kéréseket látja, a második helyen a tengerjáró hajó menetrendjének változásait, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá temetett privát charter-lekérdezés.",
-  "draftSubtitle": "A Duet megismeri a turnéid időpontját, árait és szabályzatát. Amikor egy foglalási lekérdezés érkezik, teljes választ készít a rendelkezésre állásról, a csomag tartalmáról és a magával hozandó mennyiségről. Te átnézed és elküldöd.",
-  "agentSubtitle": "– Hány hely maradt még a szombat délelőtti túrán? \"Választervezet Rachelnek az elérhetőséggel.\" A Duet ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
+  "categorizationSubtitle": "A Chiefy minden e-mailt automatikusan megcímkéz, így először a foglalási kéréseket látja, a második helyen a tengerjáró hajó menetrendjének változásait, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá temetett privát charter-lekérdezés.",
+  "draftSubtitle": "A Chiefy megismeri a turnéid időpontját, árait és szabályzatát. Amikor egy foglalási lekérdezés érkezik, teljes választ készít a rendelkezésre állásról, a csomag tartalmáról és a magával hozandó mennyiségről. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Hány hely maradt még a szombat délelőtti túrán? \"Választervezet Rachelnek az elérhetőséggel.\" A Chiefy ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapitány Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "A tengerjáró hajók utasainak gyors válaszra van szükségük – már csak 6 órájuk van a kikötőben. Korábban elvesztettem a privát chartereket, mert a vízen voltam, amikor megérkezett a megkeresés. Most a Duet vázlatok válaszolnak az árazási és felvételi adataimmal, mielőtt még kikötnék.",
+      "quote": "A tengerjáró hajók utasainak gyors válaszra van szükségük – már csak 6 órájuk van a kikötőben. Korábban elvesztettem a privát chartereket, mert a vízen voltam, amikor megérkezett a megkeresés. Most a Chiefy vázlatok válaszolnak az árazási és felvételi adataimmal, mielőtt még kikötnék.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria és Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Naponta két turnét szervezünk a púpos szezonban, és az e-mailek mennyisége irreális. – Látni fogunk bálnákat? – Mit vegyek fel? – A holnap elmarad? A Duet az ismétlődő kérdéseket kezeli, mi pedig a túrákra koncentrálunk.",
+      "quote": "Naponta két turnét szervezünk a púpos szezonban, és az e-mailek mennyisége irreális. – Látni fogunk bálnákat? – Mit vegyek fel? – A holnap elmarad? A Chiefy az ismétlődő kérdéseket kezeli, mi pedig a túrákra koncentrálunk.",
       "avatarKey": "francesca"
     },
     {
       "name": "Ben T kapitány.",
       "title": "Ocean Excursions, HI",
-      "quote": "Minden este ugyanarra a 10 kérdésre válaszoltam – árak, mit tartalmaz, tengeribetegségre vonatkozó tippek, gyerekek korhatára. A Duet az első héten mindent megtanult. A válaszidőm 8 óráról 8 percre ment.",
+      "quote": "Minden este ugyanarra a 10 kérdésre válaszoltam – árak, mit tartalmaz, tengeribetegségre vonatkozó tippek, gyerekek korhatára. A Chiefy az első héten mindent megtanult. A válaszidőm 8 óráról 8 percre ment.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Foglalási menedzser, Pacific NW",
-      "quote": "Az időjárás lemondása a legrosszabb – 30 embernek kell egyszerre újrafoglalnia, én pedig telefonhívásokkal zsonglőrködök. A Duet személyre szabott átütemezési e-maileket készít minden vendég számára. Ami korábban 2 óráig tartott, az most 15 percet vesz igénybe.",
+      "quote": "Az időjárás lemondása a legrosszabb – 30 embernek kell egyszerre újrafoglalnia, én pedig telefonhívásokkal zsonglőrködök. A Chiefy személyre szabott átütemezési e-maileket készít minden vendég számára. Ami korábban 2 óráig tartott, az most 15 percet vesz igénybe.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess és Nate P.",
       "title": "Kishajós Wildlife Tours, Kr. e",
-      "quote": "Mi egy kétszemélyes művelet – én kapitány, ő irányítja a logisztikát. A főszezonban éjszakánként 3 órát töltött e-mailekkel. A Duet ezt 30 percre vágta. Most már tényleg visszakapja az estéit.",
+      "quote": "Mi egy kétszemélyes művelet – én kapitány, ő irányítja a logisztikát. A főszezonban éjszakánként 3 órát töltött e-mailekkel. A Chiefy ezt 30 percre vágta. Most már tényleg visszakapja az estéit.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "A Duet kezeli az időjárási viszonyok törlését és a tengerjáró hajók menetrendjének változásait?",
+      "question": "A Chiefy kezeli az időjárási viszonyok törlését és a tengerjáró hajók menetrendjének változásait?",
       "answer": "Igen. Ha lemond egy túrát az időjárás miatt vagy egy tengerjáró hajó érkezési idejének eltolódása miatt, egyszer értesítheti a Duetet, és személyre szabott átütemezést készít, vagy frissíti az e-maileket minden érintett vendég számára. Nem kell többé ugyanazt az üzenetet 30-szor másolni és beilleszteni. Minden válasz tartalmazza a vendég eredeti foglalási adatait és a rendelkezésre álló alternatívákat."
     },
     {
-      "question": "Folyamatosan ugyanazokat a kérdéseket kapjuk – 'látunk-e bálnákat?', 'mit vegyek fel?', 'jó gyerekeknek?' A Duet kezeli ezeket?",
-      "answer": "Pontosan ott ragyog a Duet. Megtanulja a szokásos válaszokat – a jellemzően látható fajokat, mit vigyen magával, életkorra vonatkozó szabályokat, tengeribetegségre vonatkozó tippeket, indulási időpontokat – és azonnal elkészíti a teljes válaszokat. Te átnézed és elküldöd. A legtöbb kapitány azt mondja, hogy a postaládájának 80%-a ugyanaz a 10 kérdés, és a Duet mindegyiket kezeli."
+      "question": "Folyamatosan ugyanazokat a kérdéseket kapjuk – 'látunk-e bálnákat?', 'mit vegyek fel?', 'jó gyerekeknek?' A Chiefy kezeli ezeket?",
+      "answer": "Pontosan ott ragyog a Chiefy. Megtanulja a szokásos válaszokat – a jellemzően látható fajokat, mit vigyen magával, életkorra vonatkozó szabályokat, tengeribetegségre vonatkozó tippeket, indulási időpontokat – és azonnal elkészíti a teljes válaszokat. Te átnézed és elküldöd. A legtöbb kapitány azt mondja, hogy a postaládájának 80%-a ugyanaz a 10 kérdés, és a Chiefy mindegyiket kezeli."
     }
   ],
   "pricingNote": "125 dollár/fő áron egy 6 fős megtakarított csoport több mint egy év Pro-t fizet."

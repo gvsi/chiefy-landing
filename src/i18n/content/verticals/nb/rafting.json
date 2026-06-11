@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mail for rafting- og kajakkutstyr | AI-e-postassistent",
-  "metaDescription": "Duet Mail hjelper raftingguider og kajakkutstyrere med å svare på turforespørsler umiddelbart - selv fra elven. AI-utkastede svar med reisedetaljer, priser og stemme.",
+  "pageTitle": "Chiefy for rafting- og kajakkutstyr | AI-e-postassistent",
+  "metaDescription": "Chiefy hjelper raftingguider og kajakkutstyrere med å svare på turforespørsler umiddelbart - selv fra elven. AI-utkastede svar med reisedetaljer, priser og stemme.",
   "heroBadge": "Godkjent av 200+ elveguider",
   "heroHeadline": "Din e-postassistent mens du er på elven",
-  "heroSubline": "Duet lærer reisetypene, prisene og utstyrslistene dine – og utarbeider deretter svar på bestillingsforespørsler slik at kundene får svar mens du kjører stryk.",
+  "heroSubline": "Chiefy lærer reisetypene, prisene og utstyrslistene dine – og utarbeider deretter svar på bestillingsforespørsler slik at kundene får svar mens du kjører stryk.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "person",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "To lagrede bestillinger betaler for et helt år på Duet."
+    "punchline": "To lagrede bestillinger betaler for et helt år på Chiefy."
   },
-  "categorizationSubtitle": "Duet merker automatisk hver e-post så turforespørsler dukker opp først, girspørsmål deretter, og reklamestøy forsvinner. Ikke mer mangler en gruppebestilling begravet under TripAdvisor-varsler.",
-  "draftSubtitle": "Duet lærer turtypene dine, strykklasser, utstyrslister og avbestillingsregler. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med alt kunden trenger. Du anmelder og sender.",
-  "agentSubtitle": "\"Noen åpne plasser på lørdagens heldag?\" \"Utkast et svar til Jennifer med tilgjengelighet.\"Duet kjenner innboksen og timeplanen din – bare spør.",
+  "categorizationSubtitle": "Chiefy merker automatisk hver e-post så turforespørsler dukker opp først, girspørsmål deretter, og reklamestøy forsvinner. Ikke mer mangler en gruppebestilling begravet under TripAdvisor-varsler.",
+  "draftSubtitle": "Chiefy lærer turtypene dine, strykklasser, utstyrslister og avbestillingsregler. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med alt kunden trenger. Du anmelder og sender.",
+  "agentSubtitle": "\"Noen åpne plasser på lørdagens heldag?\" \"Utkast et svar til Jennifer med tilgjengelighet.\"Chiefy kjenner innboksen og timeplanen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "I høysesongen er jeg på elven 6 dager i uken. Da jeg kom tilbake til e-postene, hadde halvparten av gruppene allerede bestilt hos noen andre. Nå lager Duet utkast til svar med reisedetaljer og priser mens jeg er ved innleveringen.",
+      "quote": "I høysesongen er jeg på elven 6 dager i uken. Da jeg kom tilbake til e-postene, hadde halvparten av gruppene allerede bestilt hos noen andre. Nå lager Chiefy utkast til svar med reisedetaljer og priser mens jeg er ved innleveringen.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Kajakk- og SUP-turer, OR",
-      "quote": "Hver kunde stiller de samme fem spørsmålene - pris, hva du skal ta med, ferdighetsnivå, gruppestørrelse, avbestillingsregler. Duet lærte alt den første uken. Jeg gikk fra en time med e-poster hver kveld til fem minutter med gjennomgang av utkast.",
+      "quote": "Hver kunde stiller de samme fem spørsmålene - pris, hva du skal ta med, ferdighetsnivå, gruppestørrelse, avbestillingsregler. Chiefy lærte alt den første uken. Jeg gikk fra en time med e-poster hver kveld til fem minutter med gjennomgang av utkast.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Flerdagers ekspedisjonsguide, AK",
-      "quote": "Jeg kjører 5-dagers turer med null celleservice. Før Duet var alle henvendelser ubesvart til jeg var tilbake i byen. Nå får kundene et detaljert svar i løpet av minutter, og jeg bekrefter når jeg er ute av elven.",
+      "quote": "Jeg kjører 5-dagers turer med null celleservice. Før Chiefy var alle henvendelser ubesvart til jeg var tilbake i byen. Nå får kundene et detaljert svar i løpet av minutter, og jeg bekrefter når jeg er ute av elven.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "River Adventures kontorsjef, WV",
-      "quote": "Jeg administrerer bestillinger for tre guider på tvers av fire turtyper. Duet kategoriserer hver e-post etter hastegrad og utkast til svar med riktig reise, riktig pris, riktig utstyrsliste. Det er som å klone meg selv.",
+      "quote": "Jeg administrerer bestillinger for tre guider på tvers av fire turtyper. Chiefy kategoriserer hver e-post etter hastegrad og utkast til svar med riktig reise, riktig pris, riktig utstyrsliste. Det er som å klone meg selv.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Håndterer Duet tilpassede reisetilbud og flerdagers ekspedisjonsforespørsler?",
-      "answer": "Ja. Duet lærer hele turen din – halvdags flyter, heldags stryk, flerdagers ekspedisjoner – sammen med priser, hva som er inkludert, aldersminimum og vanskelighetsgrader. Når noen spør om en 3-dagers tur for 6, utarbeider den et fullstendig svar med de riktige detaljene. Du vurderer, justerer om nødvendig og sender."
+      "question": "Håndterer Chiefy tilpassede reisetilbud og flerdagers ekspedisjonsforespørsler?",
+      "answer": "Ja. Chiefy lærer hele turen din – halvdags flyter, heldags stryk, flerdagers ekspedisjoner – sammen med priser, hva som er inkludert, aldersminimum og vanskelighetsgrader. Når noen spør om en 3-dagers tur for 6, utarbeider den et fullstendig svar med de riktige detaljene. Du vurderer, justerer om nødvendig og sender."
     },
     {
-      "question": "Jeg er off-grid på flerdagers turer. Fungerer Duet fortsatt?",
-      "answer": "Det er akkurat det problemet Duet løser. Mens du er på elven uten signal,Duet skriver utkast på hver henvendelse som kommer inn. Når du er tilbake innen rekkevidde, venter utkastene dine – bare gjennomgå og send. De fleste guider forteller oss at det eliminerer etterslepet de pleide å møte etter hver flerdagers tur."
+      "question": "Jeg er off-grid på flerdagers turer. Fungerer Chiefy fortsatt?",
+      "answer": "Det er akkurat det problemet Chiefy løser. Mens du er på elven uten signal,Chiefy skriver utkast på hver henvendelse som kommer inn. Når du er tilbake innen rekkevidde, venter utkastene dine – bare gjennomgå og send. De fleste guider forteller oss at det eliminerer etterslepet de pleide å møte etter hver flerdagers tur."
     }
   ],
   "pricingNote": "For $150/person dekker to lagrede bestillinger et helt år på Pro."

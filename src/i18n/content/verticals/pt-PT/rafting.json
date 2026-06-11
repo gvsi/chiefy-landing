@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mail para operadores de rafting e caiaque | Assistente de email com IA",
-  "metaDescription": "O Duet Mail ajuda guias de rafting e operadores de caiaque a responder consultas de passeios instantaneamente — até do rio. Respostas redigidas por IA com detalhes dos os seus passeios, preços e tom.",
+  "pageTitle": "Chiefy para operadores de rafting e caiaque | Assistente de email com IA",
+  "metaDescription": "O Chiefy ajuda guias de rafting e operadores de caiaque a responder consultas de passeios instantaneamente — até do rio. Respostas redigidas por IA com detalhes dos os seus passeios, preços e tom.",
   "heroBadge": "Usado por mais de 200 guias de rio",
   "heroHeadline": "O seu assistente de email enquanto o utilizador está no rio",
-  "heroSubline": "O Duet aprende os seus tipos de passeio, preços e listas de equipamentos — e então redige respostas para consultas de reserva para que clientes recebam respostas enquanto o utilizador desce corredeiras.",
+  "heroSubline": "O Chiefy aprende os seus tipos de passeio, preços e listas de equipamentos — e então redige respostas para consultas de reserva para que clientes recebam respostas enquanto o utilizador desce corredeiras.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "pessoa",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Duas reservas recuperadas pagam um ano inteiro de Duet."
+    "punchline": "Duas reservas recuperadas pagam um ano inteiro de Chiefy."
   },
-  "categorizationSubtitle": "O Duet marca automaticamente cada email para que consultas de passeio apareçam primeiro, perguntas sobre equipamento em seguida e ruído promocional desapareça. Chega de perder uma reserva de grupo enterrada sob alertas do TripAdvisor.",
-  "draftSubtitle": "O Duet aprende os seus tipos de passeio, classes de corredeiras, listas de equipamentos e política de cancelamento. Quando chega uma consulta de reserva, ele redige uma resposta completa com tudo que o cliente precisa. Reveja e envia.",
-  "agentSubtitle": "\"Alguma vaga no passeio de dia inteiro de sábado?\" \"Redija uma resposta para Jennifer com a disponibilidade.\" O Duet conhece a sua caixa de entrada e a sua agenda — é só perguntar.",
+  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para que consultas de passeio apareçam primeiro, perguntas sobre equipamento em seguida e ruído promocional desapareça. Chega de perder uma reserva de grupo enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Chiefy aprende os seus tipos de passeio, classes de corredeiras, listas de equipamentos e política de cancelamento. Quando chega uma consulta de reserva, ele redige uma resposta completa com tudo que o cliente precisa. Reveja e envia.",
+  "agentSubtitle": "\"Alguma vaga no passeio de dia inteiro de sábado?\" \"Redija uma resposta para Jennifer com a disponibilidade.\" O Chiefy conhece a sua caixa de entrada e a sua agenda — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Operador de rafting, CO",
-      "quote": "Na alta temporada, fico no rio 6 dias por semana. Quando eu voltava para os emails, metade dos grupos já tinha reservado com outra empresa. Agora o Duet redige respostas com detalhes dos passeios e preços enquanto estou no ponto de entrada no rio.",
+      "quote": "Na alta temporada, fico no rio 6 dias por semana. Quando eu voltava para os emails, metade dos grupos já tinha reservado com outra empresa. Agora o Chiefy redige respostas com detalhes dos passeios e preços enquanto estou no ponto de entrada no rio.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Passeios de caiaque e SUP, OR",
-      "quote": "Todo cliente faz as mesmas cinco perguntas — preço, o que levar, nível de habilidade, tamanho do grupo, política de cancelamento. O Duet aprendeu tudo na primeira semana. Passei de uma hora de emails toda noite para cinco minutos revisando rascunhos.",
+      "quote": "Todo cliente faz as mesmas cinco perguntas — preço, o que levar, nível de habilidade, tamanho do grupo, política de cancelamento. O Chiefy aprendeu tudo na primeira semana. Passei de uma hora de emails toda noite para cinco minutos revisando rascunhos.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Guia de expedições de vários dias, AK",
-      "quote": "Faço viagens de 5 dias sem nenhum sinal de telemóvel. Antes do Duet, cada consulta ficava sem resposta até eu voltar à cidade. Agora os clientes recebem uma resposta detalhada em minutos e eu confirmo quando saio do rio.",
+      "quote": "Faço viagens de 5 dias sem nenhum sinal de telemóvel. Antes do Chiefy, cada consulta ficava sem resposta até eu voltar à cidade. Agora os clientes recebem uma resposta detalhada em minutos e eu confirmo quando saio do rio.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "Gerente de escritório da River Adventures, WV",
-      "quote": "Gerencio reservas de três guias em quatro tipos de passeio. O Duet categoriza cada email por urgência e redige respostas com o passeio certo, o preço certo, a lista de equipamentos certa. É como me clonar.",
+      "quote": "Gerencio reservas de três guias em quatro tipos de passeio. O Chiefy categoriza cada email por urgência e redige respostas com o passeio certo, o preço certo, a lista de equipamentos certa. É como me clonar.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "O Duet lida com orçamentos personalizados e consultas de expedições de vários dias?",
-      "answer": "Sim. O Duet aprende toda sua linha de passeios — flutuações de meio dia, corredeiras de dia inteiro, expedições de vários dias — junto com preços, o que está incluído, idades mínimas e níveis de dificuldade. Quando alguém pergunta sobre uma viagem de 3 dias para 6, ele redige uma resposta completa com os detalhes certos. Reveja, ajusta se precisar e envia."
+      "question": "O Chiefy lida com orçamentos personalizados e consultas de expedições de vários dias?",
+      "answer": "Sim. O Chiefy aprende toda sua linha de passeios — flutuações de meio dia, corredeiras de dia inteiro, expedições de vários dias — junto com preços, o que está incluído, idades mínimas e níveis de dificuldade. Quando alguém pergunta sobre uma viagem de 3 dias para 6, ele redige uma resposta completa com os detalhes certos. Reveja, ajusta se precisar e envia."
     },
     {
-      "question": "Fico sem sinal em viagens de vários dias. O Duet ainda funciona?",
-      "answer": "É exatamente o problema que o Duet resolve. Enquanto o utilizador está no rio sem sinal, o Duet redige respostas para cada consulta que chega. Quando o utilizador volta para a cobertura, os seus rascunhos estão esperando — é só rever e enviar. A maioria dos guias nos diz que isso elimina o acúmulo que enfrentavam depois de cada viagem de vários dias."
+      "question": "Fico sem sinal em viagens de vários dias. O Chiefy ainda funciona?",
+      "answer": "É exatamente o problema que o Chiefy resolve. Enquanto o utilizador está no rio sem sinal, o Chiefy redige respostas para cada consulta que chega. Quando o utilizador volta para a cobertura, os seus rascunhos estão esperando — é só rever e enviar. A maioria dos guias nos diz que isso elimina o acúmulo que enfrentavam depois de cada viagem de vários dias."
     }
   ],
   "pricingNote": "Com $150/pessoa, duas reservas recuperadas cobrem um ano inteiro de Pro."

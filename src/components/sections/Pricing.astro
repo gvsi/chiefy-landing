@@ -56,7 +56,7 @@ type PlanContent = Omit<Plan, "ctaHref">;
 
 const plans: PlanContent[] = pricing.plans;
 const ctaHrefForPlan = (plan: PlanContent) =>
-    plan.perUser ? `${SUPPORT_MAILTO}?subject=Duet%20Mail%20Enterprise` : AUTH_CHOOSER_URL;
+    plan.perUser ? `${SUPPORT_MAILTO}?subject=Chiefy%20Enterprise` : AUTH_CHOOSER_URL;
 ---
 
 <section id="pricing" class="pricing" aria-label={pricing.ariaLabel}>

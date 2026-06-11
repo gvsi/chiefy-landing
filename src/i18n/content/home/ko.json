@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI Gmail 및 Outlook용 이메일 도우미",
-    "description": "Duet Mail의 AI 이메일 도우미는 이메일을 요약하고, 답장을 초안으로 작성하고, 받은 편지함을 정리합니다. Gmail 및 Outlook과 함께 작동합니다. 매주 4시간 이상을 절약하세요."
+    "title": "Chiefy | AI Gmail 및 Outlook용 이메일 도우미",
+    "description": "Chiefy의 AI 이메일 도우미는 이메일을 요약하고, 답장을 초안으로 작성하고, 받은 편지함을 정리합니다. Gmail 및 Outlook과 함께 작동합니다. 매주 4시간 이상을 절약하세요."
   },
   "hero": {
     "badge": "이제 Gmail 및 Outlook에 사용 가능",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "당신처럼 들리는 이메일 초안",
-        "description": "Duet AI 이메일 작성자는 가장 중요한 이메일의 초안을 준비합니다. 당신의 어조와 글쓰기 스타일을 학습합니다.",
+        "description": "Chiefy AI 이메일 작성자는 가장 중요한 이메일의 초안을 준비합니다. 당신의 어조와 글쓰기 스타일을 학습합니다.",
         "ariaLabel": "당신과 비슷한 이메일 초안",
         "mockCopy": {
           "draftedColdEmail": "John을 위해 개인화된 콜드 이메일 초안을 작성했습니다.",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "지능형 알림",
-        "description": "설정하고 잊어버리세요. Duet AI은 다른 사람이 응답하지 않을 때 후속 조치를 취하는 것을 기억하므로 문제가 발생하지 않습니다.",
+        "description": "설정하고 잊어버리세요. Chiefy AI은 다른 사람이 응답하지 않을 때 후속 조치를 취하는 것을 기억하므로 문제가 발생하지 않습니다.",
         "ariaLabel": "지능형 알림",
         "mockCopy": {
           "header": "AI-전원 스마트 알림",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "이메일 정리 및 스마트 받은편지함 분류",
     "badge": "조직",
-    "title": "Duet은 받은 편지함을 정리합니다",
+    "title": "Chiefy은 받은 편지함을 정리합니다",
     "subtitle": "자동 분류는 중요한 소음과 표면을 필터링합니다. 조치가 필요한 항목, 참고할 만한 항목, 기다릴 수 있는 항목을 즉시 확인하세요.",
     "windowTitle": "받은편지함",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI 이메일 초안 작성 및 답변 생성",
     "badge": "제도",
-    "title": "당신의 목소리로 Duet 초안을 작성하세요",
-    "subtitle": "Duet은 귀하의 작성 방법을 학습하고 귀하의 어조에 맞는 답변 초안을 작성합니다. 필요한 경우 검토하고 조정한 후 몇 초 안에 보내세요.",
+    "title": "당신의 목소리로 Chiefy 초안을 작성하세요",
+    "subtitle": "Chiefy은 귀하의 작성 방법을 학습하고 귀하의 어조에 맞는 답변 초안을 작성합니다. 필요한 경우 검토하고 조정한 후 몇 초 안에 보내세요.",
     "windowTitle": "새 메시지",
     "fieldLabels": {
       "to": "에게:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI 이메일 인텔리전스 및 도우미",
     "badge": "지능",
     "title": "이메일에 관해 무엇이든 물어보세요",
-    "subtitle": "Duet에게 이메일 찾기, 캘린더 확인, 답장 초안 작성을 요청하세요. 받은 편지함을 이해하고 즉시 답변합니다.",
-    "windowTitle": "Duet 에이전트",
+    "subtitle": "Chiefy에게 이메일 찾기, 캘린더 확인, 답장 초안 작성을 요청하세요. 받은 편지함을 이해하고 즉시 답변합니다.",
+    "windowTitle": "Chiefy 에이전트",
     "onlineLabel": "온라인",
     "initialUserMessage": "회계팀에서 보낸 Stripe 송장을 찾을 수 있나요?",
     "processingText": "받은편지함 검색 중...",
@@ -321,7 +321,7 @@
       {
         "name": "프란체스카 T.",
         "title": "프리랜서",
-        "quote": "모든 페니의 가치가 있습니다. 이메일로 절약한 시간은 Duet Mail의 10배 이상을 지불합니다. 지금은 그것 없이 일하는 것을 상상할 수 없습니다.",
+        "quote": "모든 페니의 가치가 있습니다. 이메일로 절약한 시간은 Chiefy의 10배 이상을 지불합니다. 지금은 그것 없이 일하는 것을 상상할 수 없습니다.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "제니퍼 L.",
         "title": "컨설턴트",
-        "quote": "컨설턴트에게는 매 순간이 중요합니다. Duet Mail은 시간을 절약해줄 뿐만 아니라 이메일 커뮤니케이션을 더욱 선명하게 만들어줍니다.",
+        "quote": "컨설턴트에게는 매 순간이 중요합니다. Chiefy은 시간을 절약해줄 뿐만 아니라 이메일 커뮤니케이션을 더욱 선명하게 만들어줍니다.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "시작하기 위한 기본 조직"
           },
           {
-            "title": "Duet 어시스턴트",
+            "title": "Chiefy 어시스턴트",
             "description": "AI 어시스턴트를 사용해 보세요"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet 어시스턴트",
+            "title": "Chiefy 어시스턴트",
             "description": "채팅을 통해 찾기, 초안 작성, 정리 등",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "연락하다",
     "contactHeading": "아직도 질문이 있으신가요?",
     "contactCta": "연락하기 →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Duet Mail은(는) 내 이메일 데이터를 어떻게 보호하나요?",
+        "question": "Chiefy은(는) 내 이메일 데이터를 어떻게 보호하나요?",
         "answer": "귀하의 보안이 우리의 최우선 사항입니다. 우리는 Google 및 Microsoft 모두에 대한 보안 인증을 위해 OAuth 2.0을 사용합니다. 이메일 콘텐츠는 클라이언트 측 필드 수준 암호화를 사용하여 저장 시 암호화되며 API 액세스에 대한 최소 권한 원칙을 따릅니다. Google 통합을 위해 우리는 Google의 연간 CASA 보안 평가를 받습니다."
       },
       {
         "question": "이메일 요약 기능은 어떻게 작동하나요?",
-        "answer": "Duet Mail은 고급 AI을 사용하여 이메일 스레드를 분석하고 핵심 사항, 결정 및 작업 항목을 강조하는 간결한 개요를 생성합니다. 이렇게 하면 전체 스레드를 읽지 않고도 컨텍스트를 빠르게 이해할 수 있습니다."
+        "answer": "Chiefy은 고급 AI을 사용하여 이메일 스레드를 분석하고 핵심 사항, 결정 및 작업 항목을 강조하는 간결한 개요를 생성합니다. 이렇게 하면 전체 스레드를 읽지 않고도 컨텍스트를 빠르게 이해할 수 있습니다."
       },
       {
-        "question": "Duet Mail에는 어떤 권한이 필요합니까?",
-        "answer": "Duet Mail에서는 요약 제공, 작업 항목 추출, 콘텐츠 생성 및 이메일 전송을 위해 이메일에 대한 액세스 권한이 필요합니다. 우리는 꼭 필요한 권한만 요청합니다. 귀하는 Google 계정 또는 Microsoft 계정 설정에서 언제든지 이러한 권한을 검토하고 취소할 수 있습니다."
+        "question": "Chiefy에는 어떤 권한이 필요합니까?",
+        "answer": "Chiefy에서는 요약 제공, 작업 항목 추출, 콘텐츠 생성 및 이메일 전송을 위해 이메일에 대한 액세스 권한이 필요합니다. 우리는 꼭 필요한 권한만 요청합니다. 귀하는 Google 계정 또는 Microsoft 계정 설정에서 언제든지 이러한 권한을 검토하고 취소할 수 있습니다."
       },
       {
         "question": "무료 평가판에는 무엇이 포함되어 있나요?",
         "answer": "14일 무료 평가판에는 무제한 이메일 요약, 작업 항목 추출, AI 이메일 작성기(제한 없이 이메일 및 초안 생성), 사용자 정의 이메일 템플릿 등 모든 Pro 기능에 대한 전체 액세스가 포함됩니다. Google 또는 Microsoft로 로그인하여 이메일 관리 시간을 절약하세요."
       },
       {
-        "question": "다른 이메일 제공업체에서 Duet Mail을(를) 사용할 수 있나요?",
-        "answer": "Duet Mail은 Gmail, Google Workspace 및 Microsoft Outlook을 지원합니다. 시작하려면 Google 또는 Microsoft 계정으로 로그인하세요."
+        "question": "다른 이메일 제공업체에서 Chiefy을(를) 사용할 수 있나요?",
+        "answer": "Chiefy은 Gmail, Google Workspace 및 Microsoft Outlook을 지원합니다. 시작하려면 Google 또는 Microsoft 계정으로 로그인하세요."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "사이트 바닥글",
-    "brandIconAlt": "Duet Mail 아이콘",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — 매주 시간을 절약해 주는 AI 이메일 도우미",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Chiefy 아이콘",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "탐구하다",
@@ -597,27 +597,28 @@
           },
           {
             "label": "링크드인",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "인스타그램",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "스타트업 명성",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "투자 수익",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "{bookingUnit}당 {pricePerBooking}에서 느린 응답으로 인해 {lostPerMonth}만 손실됨 =",
     "lossSuffix": "/mo",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - Gmail 및 Outlook용 AI 이메일 도우미",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - Gmail 및 Outlook용 AI 이메일 도우미",
+    "organizationName": "Chiefy",
     "organizationContactType": "고객 지원",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI Gmail 및 Outlook용 이메일 도우미는 자동으로 이메일을 요약하고 음성으로 답장을 초안으로 작성하며 받은 편지함을 정리하여 매주 시간을 절약합니다.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Web",
     "browserRequirements": "자바스크립트가 필요합니다. Gmail, Google Workspace 및 Microsoft Outlook와 함께 작동합니다.",
     "urls": {
-      "site": "https://duetmail.com/ko",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Duet Mail은(는) 내 이메일 데이터를 어떻게 보호하나요?",
+        "question": "Chiefy은(는) 내 이메일 데이터를 어떻게 보호하나요?",
         "answer": "귀하의 보안이 우리의 최우선 사항입니다. 우리는 Google 및 Microsoft 모두에 대한 보안 인증을 위해 OAuth 2.0을 사용합니다. 이메일 콘텐츠는 클라이언트 측 필드 수준 암호화를 사용하여 저장 시 암호화되며 API 액세스에 대한 최소 권한 원칙을 따릅니다. Google 통합을 위해 우리는 Google의 연간 CASA 보안 평가를 받습니다."
       },
       {
         "question": "이메일 요약 기능은 어떻게 작동하나요?",
-        "answer": "Duet Mail은 고급 AI을 사용하여 이메일 스레드를 분석하고 핵심 사항, 결정 및 작업 항목을 강조하는 간결한 개요를 생성합니다. 이렇게 하면 전체 스레드를 읽지 않고도 컨텍스트를 빠르게 이해할 수 있습니다."
+        "answer": "Chiefy은 고급 AI을 사용하여 이메일 스레드를 분석하고 핵심 사항, 결정 및 작업 항목을 강조하는 간결한 개요를 생성합니다. 이렇게 하면 전체 스레드를 읽지 않고도 컨텍스트를 빠르게 이해할 수 있습니다."
       },
       {
-        "question": "Duet Mail에는 어떤 권한이 필요합니까?",
-        "answer": "Duet Mail에서는 요약 제공, 작업 항목 추출, 콘텐츠 생성 및 이메일 전송을 위해 이메일에 대한 액세스 권한이 필요합니다. 우리는 꼭 필요한 권한만 요청합니다. 귀하는 Google 계정 또는 Microsoft 계정 설정에서 언제든지 이러한 권한을 검토하고 취소할 수 있습니다."
+        "question": "Chiefy에는 어떤 권한이 필요합니까?",
+        "answer": "Chiefy에서는 요약 제공, 작업 항목 추출, 콘텐츠 생성 및 이메일 전송을 위해 이메일에 대한 액세스 권한이 필요합니다. 우리는 꼭 필요한 권한만 요청합니다. 귀하는 Google 계정 또는 Microsoft 계정 설정에서 언제든지 이러한 권한을 검토하고 취소할 수 있습니다."
       },
       {
         "question": "무료 평가판에는 무엇이 포함되어 있나요?",
         "answer": "14일 무료 평가판에는 무제한 이메일 요약, 작업 항목 추출, AI 이메일 작성기(제한 없이 이메일 및 초안 생성), 사용자 정의 이메일 템플릿 등 모든 Pro 기능에 대한 전체 액세스가 포함됩니다. Google 또는 Microsoft로 로그인하여 이메일 관리 시간을 절약하세요."
       },
       {
-        "question": "다른 이메일 제공업체에서 Duet Mail을(를) 사용할 수 있나요?",
-        "answer": "Duet Mail은 Gmail, Google Workspace 및 Microsoft Outlook을 지원합니다. 시작하려면 Google 또는 Microsoft 계정으로 로그인하세요."
+        "question": "다른 이메일 제공업체에서 Chiefy을(를) 사용할 수 있나요?",
+        "answer": "Chiefy은 Gmail, Google Workspace 및 Microsoft Outlook을 지원합니다. 시작하려면 Google 또는 Microsoft 계정으로 로그인하세요."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

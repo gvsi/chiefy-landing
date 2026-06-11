@@ -1,12 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail for Custom Jewelers | AI Email Assistant",
-  "metaDescription": "Duet Mail helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
-
+  "pageTitle": "Chiefy for Custom Jewelers | AI Email Assistant",
+  "metaDescription": "Chiefy helps custom jewelers respond to consultation requests, design approvals, and timeline questions instantly — even while at the workbench. AI-drafted replies with your process, pricing, and voice.",
   "heroBadge": "Trusted by 300+ jewelry designers",
   "heroHeadline": "Your email assistant while you're at the bench",
-  "heroSubline": "Duet learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
-
+  "heroSubline": "Chiefy learns your design process, materials, pricing, and timelines — then drafts email replies so you never lose a custom client to a slow response.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -45,23 +43,17 @@
       "pillColor": "lavender"
     }
   ],
-
   "autodraft": "Hi Rachel! I'd love to help you design a ring around your family diamond — that's one of my favorite things to do. I have openings on Tuesday and Thursday afternoons this month. Bring the stone and any inspiration photos. Consultations run about an hour and there's no obligation. Want me to hold a time for you?",
-
   "math": {
     "pricePerBooking": "$5,000",
     "bookingUnit": "custom piece",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "One saved client pays for over four years of Duet."
+    "punchline": "One saved client pays for over four years of Chiefy."
   },
-
-  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
-
-  "draftSubtitle": "Duet learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
-
-  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Duet knows every client thread — just ask.",
-
+  "categorizationSubtitle": "Chiefy automatically tags every email so you see new consultation requests first, design approvals second, and vendor newsletters never. No more missing a $5,000 inquiry buried under supplier promos.",
+  "draftSubtitle": "Chiefy learns your process, materials, pricing, and voice. When a consultation request lands, it drafts a complete reply with your availability, what to bring, and how your process works. You review and send.",
+  "agentSubtitle": "\"Where are we with Amanda's ring?\" \"Draft a timeline update for James.\" Chiefy knows every client thread — just ask.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -105,7 +97,6 @@
       "pillColor": "lavender"
     }
   ],
-
   "draft": {
     "to": "rachel.t@email.com",
     "subject": "Re: Custom engagement ring consultation?",
@@ -125,61 +116,56 @@
       "Learns over time"
     ]
   },
-
   "agent": {
     "userMessage": "Where are we with Amanda's engagement ring?",
     "agentResponse": "Amanda approved the 3D model (v2) on February 14. You confirmed production start on February 16 with a 3-week estimate. That puts completion around March 9. Her last email was asking about engraving options — it's still unanswered. Want me to draft a reply?",
     "followUp": "Draft a timeline update for James about the wedding bands",
     "followUpResponse": "Done! I drafted a reply to James confirming his matching wedding bands are in final polish and will be ready for pickup by Friday, March 7 — well ahead of his May 18 wedding. Ready to review and send."
   },
-
   "testimonialsTitle": "Loved by jewelry designers",
   "testimonials": [
     {
       "name": "Marco R.",
       "title": "Custom Jewelry Designer, LA",
-      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Duet drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
+      "quote": "Each custom piece generates 10-15 emails over weeks. Multiply that by 8 active clients and I was drowning. Chiefy drafts design update replies, consultation confirmations, timeline answers — all in my voice. I review between castings and hit send.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. That hasn't happened again.",
+      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Chiefy, my response time is under 30 minutes. That hasn't happened again.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Jeweler, Chicago",
-      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Duet drafts everything while I work — I glance at my phone, approve, done.",
+      "quote": "I'm at the bench 8 hours a day with a torch in my hand. I can't stop mid-solder to type out a consultation reply. Chiefy drafts everything while I work — I glance at my phone, approve, done.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Bridal Jewelry Designer, Austin",
-      "quote": "During engagement season I get 20+ consultation requests a week. Duet learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
+      "quote": "During engagement season I get 20+ consultation requests a week. Chiefy learned my entire process — materials, timelines, pricing tiers, what to bring. It drafts replies I barely need to edit. Absolute lifesaver from November through February.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Custom Ring Specialist, Portland",
-      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Duet handles the routine replies and I only step in for the design decisions. I got my nights back.",
+      "quote": "The 3D revision emails used to eat my evenings. Client sends feedback, I draft the update, back and forth five times. Now Chiefy handles the routine replies and I only step in for the design decisions. I got my nights back.",
       "avatarKey": "jennifer"
     }
   ],
-
   "ctaHeadline": "Spend your days creating jewelry,\nnot answering emails about it.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
-
   "verticalFaqs": [
     {
-      "question": "Can Duet handle emails with reference photos and design attachments?",
-      "answer": "Yes. Duet sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
+      "question": "Can Chiefy handle emails with reference photos and design attachments?",
+      "answer": "Yes. Chiefy sees the full email thread including attachments, so it understands the context when a client sends inspiration photos or design feedback. It won't describe the images back, but it knows a client just sent reference photos and drafts an appropriate reply — confirming receipt, asking clarifying questions about the design, or providing next steps based on your usual workflow."
     },
     {
-      "question": "My custom projects have long email threads with 10+ messages. Can Duet follow those?",
-      "answer": "That's exactly where Duet shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Duet knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
+      "question": "My custom projects have long email threads with 10+ messages. Can Chiefy follow those?",
+      "answer": "That's exactly where Chiefy shines. It reads the entire thread history — consultation notes, design revisions, material choices, timeline updates — so every drafted reply has full context. When a client asks 'what's the status of my ring?' in email #14, Chiefy knows which ring, what stage it's in, and drafts an accurate update. No more re-reading 3 months of emails yourself."
     }
   ],
-
   "pricingNote": "At $5,000/piece, one saved commission pays for over four years of Pro."
 }

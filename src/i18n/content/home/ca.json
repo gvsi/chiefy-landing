@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI Assistent de correu electrònic per a Gmail i Outlook",
-    "description": "L'assistent de correu electrònic AI de Duet Mail resumeix els correus electrònics, redacta les respostes i organitza la vostra safata d'entrada. Funciona amb Gmail i Outlook. Estalvia més de 4 hores setmanals."
+    "title": "Chiefy | AI Assistent de correu electrònic per a Gmail i Outlook",
+    "description": "L'assistent de correu electrònic AI de Chiefy resumeix els correus electrònics, redacta les respostes i organitza la vostra safata d'entrada. Funciona amb Gmail i Outlook. Estalvia més de 4 hores setmanals."
   },
   "hero": {
     "badge": "Ara disponible per a Gmail i Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Esborranys de correu electrònic que sonen com tu",
-        "description": "L'escriptor de correu electrònic Duet AI prepara esborranys per als vostres correus electrònics més importants. Aprèn el teu to i estils d'escriptura.",
+        "description": "L'escriptor de correu electrònic Chiefy AI prepara esborranys per als vostres correus electrònics més importants. Aprèn el teu to i estils d'escriptura.",
         "ariaLabel": "Esborranys de correu electrònic que et sonen",
         "mockCopy": {
           "draftedColdEmail": "Vaig redactar un correu electrònic fred personalitzat per a John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Recordatoris intel·ligents",
-        "description": "Configureu-lo i oblideu-lo. Duet AI recorda fer un seguiment quan els altres no responen, de manera que res no cau entre les esquerdes.",
+        "description": "Configureu-lo i oblideu-lo. Chiefy AI recorda fer un seguiment quan els altres no responen, de manera que res no cau entre les esquerdes.",
         "ariaLabel": "Recordatoris intel·ligents",
         "mockCopy": {
           "header": "Recordatoris intel·ligents alimentats amb AI",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Organització del correu electrònic i categorització intel·ligent de la safata d'entrada",
     "badge": "Organització",
-    "title": "Duet organitza la teva safata d'entrada",
+    "title": "Chiefy organitza la teva safata d'entrada",
     "subtitle": "La categorització automàtica filtra el soroll i fa visible el que importa. Vegeu a l'instant què necessita acció, què és només per informació i què pot esperar.",
     "windowTitle": "Safata d'entrada",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI Redacció de correu electrònic i generació de respostes",
     "badge": "Redacció",
-    "title": "Duet esborranys a la teva veu",
-    "subtitle": "Duet aprèn com escrius i redacta respostes que coincideixen amb el teu to. Revisa, ajusta si cal i envia en qüestió de segons.",
+    "title": "Chiefy esborranys a la teva veu",
+    "subtitle": "Chiefy aprèn com escrius i redacta respostes que coincideixen amb el teu to. Revisa, ajusta si cal i envia en qüestió de segons.",
     "windowTitle": "Nou missatge",
     "fieldLabels": {
       "to": "A:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI intel·ligència i assistent de correu electrònic",
     "badge": "Intel·ligència",
     "title": "Pregunta qualsevol cosa sobre el teu correu electrònic",
-    "subtitle": "Demana a Duet que trobi correus electrònics, consulti el teu calendari o escrigui una resposta. Entén la teva safata d'entrada i respon a l'instant.",
-    "windowTitle": "Duet Agent",
+    "subtitle": "Demana a Chiefy que trobi correus electrònics, consulti el teu calendari o escrigui una resposta. Entén la teva safata d'entrada i respon a l'instant.",
+    "windowTitle": "Chiefy Agent",
     "onlineLabel": "En línia",
     "initialUserMessage": "Pots trobar la factura Stripe enviada per Comptabilitat?",
     "processingText": "S'està cercant la safata d'entrada...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Autònom",
-        "quote": "Val la pena cada cèntim. El temps que estalvio al correu electrònic paga Duet Mail 10 vegades més. No em puc imaginar treballar sense ell ara.",
+        "quote": "Val la pena cada cèntim. El temps que estalvio al correu electrònic paga Chiefy 10 vegades més. No em puc imaginar treballar sense ell ara.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Consultor",
-        "quote": "Com a consultor, cada minut compta. Duet Mail no només m'estalvia temps, sinó que fa que la meva comunicació per correu electrònic sigui més nítida.",
+        "quote": "Com a consultor, cada minut compta. Chiefy no només m'estalvia temps, sinó que fa que la meva comunicació per correu electrònic sigui més nítida.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Organització bàsica per començar"
           },
           {
-            "title": "Duet Assistent",
+            "title": "Chiefy Assistent",
             "description": "Proveu l'assistent AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet Assistent",
+            "title": "Chiefy Assistent",
             "description": "Xateja per trobar, esborranyar, organitzar i molt més",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "CONTACTE",
     "contactHeading": "Encara tens preguntes?",
     "contactCta": "Posa't en contacte →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "Preguntes freqüents",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Com protegeix Duet Mail les meves dades de correu electrònic?",
+        "question": "Com protegeix Chiefy les meves dades de correu electrònic?",
         "answer": "La vostra seguretat és la nostra màxima prioritat. Utilitzem OAuth 2.0 per a l'autenticació segura tant amb Google com amb Microsoft. El contingut del correu electrònic es xifra en repòs mitjançant el xifratge a nivell de camp del costat del client i seguim el principi del mínim privilegi per a l'accés a l'API. Per a la nostra integració Google, ens sotmetem a l'avaluació anual de seguretat CASA de Google."
       },
       {
         "question": "Com funciona la funció de resum del correu electrònic?",
-        "answer": "Duet Mail utilitza AI avançat per analitzar els vostres fils de correu electrònic i generar una visió general concisa que destaqui els punts clau, les decisions i els elements d'acció. Això us ajuda a entendre ràpidament el context sense llegir tot el fil."
+        "answer": "Chiefy utilitza AI avançat per analitzar els vostres fils de correu electrònic i generar una visió general concisa que destaqui els punts clau, les decisions i els elements d'acció. Això us ajuda a entendre ràpidament el context sense llegir tot el fil."
       },
       {
-        "question": "Quins permisos necessita Duet Mail?",
-        "answer": "Duet Mail requereix accés als vostres correus electrònics per proporcionar resums, extreure elements d'acció, generar contingut i enviar els vostres correus electrònics. Només demanem els permisos que necessitem absolutament. Pots revisar i revocar aquests permisos en qualsevol moment a la configuració del teu compte Google o Microsoft."
+        "question": "Quins permisos necessita Chiefy?",
+        "answer": "Chiefy requereix accés als vostres correus electrònics per proporcionar resums, extreure elements d'acció, generar contingut i enviar els vostres correus electrònics. Només demanem els permisos que necessitem absolutament. Pots revisar i revocar aquests permisos en qualsevol moment a la configuració del teu compte Google o Microsoft."
       },
       {
         "question": "Què inclou la prova gratuïta?",
         "answer": "La prova gratuïta de 14 dies inclou accés complet a totes les funcions de Pro: resums de correu electrònic il·limitats, extracció d'elements d'acció, redactor de correu electrònic AI (generació de correus electrònics i esborranys sense cap límit) i plantilles de correu electrònic personalitzades. Inicieu la sessió amb Google o Microsoft per començar a estalviar temps en la gestió del correu electrònic."
       },
       {
-        "question": "Puc utilitzar Duet Mail amb altres proveïdors de correu electrònic?",
-        "answer": "Duet Mail és compatible amb Gmail, Google Workspace i Microsoft Outlook. Inicieu la sessió amb el vostre compte Google o Microsoft per començar."
+        "question": "Puc utilitzar Chiefy amb altres proveïdors de correu electrònic?",
+        "answer": "Chiefy és compatible amb Gmail, Google Workspace i Microsoft Outlook. Inicieu la sessió amb el vostre compte Google o Microsoft per començar."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Peu de pàgina del lloc",
-    "brandIconAlt": "Icona Duet Mail",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail: l'assistent de correu electrònic AI que us estalvia hores cada setmana",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Icona Chiefy",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Explora",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "Retorn de la inversió",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "A {pricePerBooking} per {bookingUnit}, es perd només {lostPerMonth} per les respostes més lentes =",
     "lossSuffix": "/mo se n'ha anat",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Assistent de correu electrònic per a Gmail i Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - AI Assistent de correu electrònic per a Gmail i Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "Atenció al client",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "Assistent de correu electrònic AI per a Gmail i Outlook que resumeix automàticament els correus electrònics, redacta esborranys de respostes a la teva veu i organitza la teva safata d'entrada per estalviar hores cada setmana.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Web",
     "browserRequirements": "Requereix JavaScript. Funciona amb Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/ca",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Com protegeix Duet Mail les meves dades de correu electrònic?",
+        "question": "Com protegeix Chiefy les meves dades de correu electrònic?",
         "answer": "La vostra seguretat és la nostra màxima prioritat. Utilitzem OAuth 2.0 per a l'autenticació segura tant amb Google com amb Microsoft. El contingut del correu electrònic es xifra en repòs mitjançant el xifratge a nivell de camp del costat del client i seguim el principi del mínim privilegi per a l'accés a l'API. Per a la nostra integració Google, ens sotmetem a l'avaluació anual de seguretat CASA de Google."
       },
       {
         "question": "Com funciona la funció de resum del correu electrònic?",
-        "answer": "Duet Mail utilitza AI avançat per analitzar els vostres fils de correu electrònic i generar una visió general concisa que destaqui els punts clau, les decisions i els elements d'acció. Això us ajuda a entendre ràpidament el context sense llegir tot el fil."
+        "answer": "Chiefy utilitza AI avançat per analitzar els vostres fils de correu electrònic i generar una visió general concisa que destaqui els punts clau, les decisions i els elements d'acció. Això us ajuda a entendre ràpidament el context sense llegir tot el fil."
       },
       {
-        "question": "Quins permisos necessita Duet Mail?",
-        "answer": "Duet Mail requereix accés als vostres correus electrònics per proporcionar resums, extreure elements d'acció, generar contingut i enviar els vostres correus electrònics. Només demanem els permisos que necessitem absolutament. Pots revisar i revocar aquests permisos en qualsevol moment a la configuració del teu compte Google o Microsoft."
+        "question": "Quins permisos necessita Chiefy?",
+        "answer": "Chiefy requereix accés als vostres correus electrònics per proporcionar resums, extreure elements d'acció, generar contingut i enviar els vostres correus electrònics. Només demanem els permisos que necessitem absolutament. Pots revisar i revocar aquests permisos en qualsevol moment a la configuració del teu compte Google o Microsoft."
       },
       {
         "question": "Què inclou la prova gratuïta?",
         "answer": "La prova gratuïta de 14 dies inclou accés complet a totes les funcions de Pro: resums de correu electrònic il·limitats, extracció d'elements d'acció, redactor de correu electrònic AI (generació de correus electrònics i esborranys sense cap límit) i plantilles de correu electrònic personalitzades. Inicieu la sessió amb Google o Microsoft per començar a estalviar temps en la gestió del correu electrònic."
       },
       {
-        "question": "Puc utilitzar Duet Mail amb altres proveïdors de correu electrònic?",
-        "answer": "Duet Mail és compatible amb Gmail, Google Workspace i Microsoft Outlook. Inicieu la sessió amb el vostre compte Google o Microsoft per començar."
+        "question": "Puc utilitzar Chiefy amb altres proveïdors de correu electrònic?",
+        "answer": "Chiefy és compatible amb Gmail, Google Workspace i Microsoft Outlook. Inicieu la sessió amb el vostre compte Google o Microsoft per començar."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

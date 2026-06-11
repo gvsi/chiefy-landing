@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail surffauskouluille ja melontalautailijoille | AI-sähköpostiavustaja",
-  "metaDescription": "Duet Mail auttaa surffausohjaajia ja melontalautailijoita vastaamaan varaussähköposteihin välittömästi – jopa opetuksen aikana. AI-luonnolliset vastaukset oppituntityypeilläsi, hinnoittelullasi ja äänelläsi.",
+  "pageTitle": "Chiefy surffauskouluille ja melontalautailijoille | AI-sähköpostiavustaja",
+  "metaDescription": "Chiefy auttaa surffausohjaajia ja melontalautailijoita vastaamaan varaussähköposteihin välittömästi – jopa opetuksen aikana. AI-luonnolliset vastaukset oppituntityypeilläsi, hinnoittelullasi ja äänelläsi.",
   "heroBadge": "Yli 300 surffausohjaajan luottama",
   "heroHeadline": "Sähköpostiavustajasi opettaessasi vesillä",
-  "heroSubline": "Duet oppii oppituntityypit, hinnat ja ehdot – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaiden vastausten takia.",
+  "heroSubline": "Chiefy oppii oppituntityypit, hinnat ja ehdot – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaiden vastausten takia.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "oppitunti",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Kaksi tallennettua varausta maksaa Duet in vuoden."
+    "punchline": "Kaksi tallennettua varausta maksaa Chiefy in vuoden."
   },
-  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet oppituntivaraukset ensin, kysymykset sitten ja melu ei koskaan. Yelp-hälytysten alle jäänyt kouluryhmäkysely ei enää jää huomaamatta.",
-  "draftSubtitle": "Duet oppii oppituntityypit, ryhmähinnoittelun ja sävyn. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on saatavuus, mitä sisältyy ja mitä tuoda. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Onko tällä viikolla tulossa ryhmävarauksia?\" \"Luonnos vastaus koululle saatavuuden mukaan.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
+  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet oppituntivaraukset ensin, kysymykset sitten ja melu ei koskaan. Yelp-hälytysten alle jäänyt kouluryhmäkysely ei enää jää huomaamatta.",
+  "draftSubtitle": "Chiefy oppii oppituntityypit, ryhmähinnoittelun ja sävyn. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on saatavuus, mitä sisältyy ja mitä tuoda. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Onko tällä viikolla tulossa ryhmävarauksia?\" \"Luonnos vastaus koululle saatavuuden mukaan.\" Chiefy tietää postilaatikkosi ja aikataulusi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Valmentaja Mike T.",
       "title": "Surf School Owner, CA",
-      "quote": "Opetan vedessä 6 tuntia päivässä. Kun tarkistin sähköpostin, puolet varauksista oli mennyt jollekin muulle. Nyt Duet luonnostelee vastaukset hinnoillani ja saatavuudellani – tarkistan vain istuntojen välillä.",
+      "quote": "Opetan vedessä 6 tuntia päivässä. Kun tarkistin sähköpostin, puolet varauksista oli mennyt jollekin muulle. Nyt Chiefy luonnostelee vastaukset hinnoillani ja saatavuudellani – tarkistan vain istuntojen välillä.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Melalautatunnit ja vuokraus, HI",
-      "quote": "Pidämme oppitunteja ja vuokraamme tauluja samasta postilaatikosta. Duet huomasi eron välittömästi – vuokrakysymykset saavat vuokravastauksia, oppituntikyselyt oppitunnin tiedot. Se on kuin vastaanotto.",
+      "quote": "Pidämme oppitunteja ja vuokraamme tauluja samasta postilaatikosta. Chiefy huomasi eron välittömästi – vuokrakysymykset saavat vuokravastauksia, oppituntikyselyt oppitunnin tiedot. Se on kuin vastaanotto.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Surf Instructor, FL",
-      "quote": "Koulun ryhmävaraukset veivät 10 sähköpostia edestakaisin. Nyt Duet laatii ensimmäisen vastauksen, jossa on ryhmähinnat, mitä sisältyy hintaan ja lupalappu. Leikkaa koko langan puoliksi.",
+      "quote": "Koulun ryhmävaraukset veivät 10 sähköpostia edestakaisin. Nyt Chiefy laatii ensimmäisen vastauksen, jossa on ryhmähinnat, mitä sisältyy hintaan ja lupalappu. Leikkaa koko langan puoliksi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP Tours & Lessons, OR",
-      "quote": "Huippusesonki tappoi minut – 30 sähköpostiviestiä päivässä ehdoista, hinnoittelusta ja tuomisesta. Samat viisi kysymystä kerta toisensa jälkeen. Duet ti hoitaa ne kaikki ja he kuulostavat täsmälleen minulta.",
+      "quote": "Huippusesonki tappoi minut – 30 sähköpostiviestiä päivässä ehdoista, hinnoittelusta ja tuomisesta. Samat viisi kysymystä kerta toisensa jälkeen. Chiefy ti hoitaa ne kaikki ja he kuulostavat täsmälleen minulta.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Kids Surf Camp johtaja, SC",
-      "quote": "Vanhemmat lähettävät pisimmät sähköpostit. Leiripäivät, allergiat, taitotasot, noutoajat. Duet luonnostelee yksityiskohtaisia ​​vastauksia, jotka kattavat kaiken, joten en kirjoita kappaleita kello 22 vietetyn koko päivän rannalla.",
+      "quote": "Vanhemmat lähettävät pisimmät sähköpostit. Leiripäivät, allergiat, taitotasot, noutoajat. Chiefy luonnostelee yksityiskohtaisia ​​vastauksia, jotka kattavat kaiken, joten en kirjoita kappaleita kello 22 vietetyn koko päivän rannalla.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Hoitaako Duet erilaisia ​​tuntityyppejä ja välinevuokrausta?",
-      "answer": "Kyllä. Duet oppii kaiken tarjouksesi – yksityistunnit, ryhmätunnit, lasten leirit, lautojen vuokraukset, SUP-matkat. Kun tiedustelu saapuu, se laatii vastauksen, jossa on oikea hinta, kesto, mitä sisältyy hintaan ja mitä ottaa mukaan. Se tietää, että kouluryhmän sähköposti tarvitsee eri tietoja kuin yksityistuntivaraus."
+      "question": "Hoitaako Chiefy erilaisia ​​tuntityyppejä ja välinevuokrausta?",
+      "answer": "Kyllä. Chiefy oppii kaiken tarjouksesi – yksityistunnit, ryhmätunnit, lasten leirit, lautojen vuokraukset, SUP-matkat. Kun tiedustelu saapuu, se laatii vastauksen, jossa on oikea hinta, kesto, mitä sisältyy hintaan ja mitä ottaa mukaan. Se tietää, että kouluryhmän sähköposti tarvitsee eri tietoja kuin yksityistuntivaraus."
     },
     {
       "question": "Entä sää- ja sääkysymykset?",
-      "answer": "Duet oppii, kuinka tyypillisesti käsittelet ehtosähköpostiviestejä – peruutuksia, uudelleenjärjestelyjä ja ehtoja, joihin opetat. Kun joku lähettää sähköpostia ja kysyy, jatkuuko oppitunti, Duet laatii vastauksen, joka vastaa tavanomaista sävyäsi ja käytäntöäsi. Tarkistat ja lähetät sekunneissa."
+      "answer": "Chiefy oppii, kuinka tyypillisesti käsittelet ehtosähköpostiviestejä – peruutuksia, uudelleenjärjestelyjä ja ehtoja, joihin opetat. Kun joku lähettää sähköpostia ja kysyy, jatkuuko oppitunti, Chiefy laatii vastauksen, joka vastaa tavanomaista sävyäsi ja käytäntöäsi. Tarkistat ja lähetät sekunneissa."
     }
   ],
   "pricingNote": "Hinta 90 dollaria/tunti, kaksi tallennettua varausta maksavat yli vuoden Pro:n."

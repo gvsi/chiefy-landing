@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail Sörf Okulları ve Kürek Sörfü İşletmecileri için | AI E-posta Asistanı",
-  "metaDescription": "Duet Mail, sörf eğitmenlerinin ve kürek sörfü operatörlerinin ders verirken bile rezervasyon e-postalarına anında yanıt vermelerine yardımcı olur. AI tarafından hazırlanan yanıtlar, ders türlerinizi, fiyatlandırmanızı ve ses tonunuzu içerir.",
+  "pageTitle": "Chiefy Sörf Okulları ve Kürek Sörfü İşletmecileri için | AI E-posta Asistanı",
+  "metaDescription": "Chiefy, sörf eğitmenlerinin ve kürek sörfü operatörlerinin ders verirken bile rezervasyon e-postalarına anında yanıt vermelerine yardımcı olur. AI tarafından hazırlanan yanıtlar, ders türlerinizi, fiyatlandırmanızı ve ses tonunuzu içerir.",
   "heroBadge": "300'den fazla sörf eğitmeni tarafından güvenilen bir marka.",
   "heroHeadline": "Su üzerinde ders verirken e-posta asistanınız.",
-  "heroSubline": "Duet ders türlerinizi, fiyatlandırmanızı ve koşullarınızı öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
+  "heroSubline": "Chiefy ders türlerinizi, fiyatlandırmanızı ve koşullarınızı öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ders",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Kaydedilen iki rezervasyon, Duet'ın bir yıllık ücretini karşılar."
+    "punchline": "Kaydedilen iki rezervasyon, Chiefy'ın bir yıllık ücretini karşılar."
   },
-  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce ders rezervasyonlarını, sonra soruları görmenizi ve gereksiz mesajları asla görmemenizi sağlar. Yelp uyarılarının altında kalan okul grubu sorularını kaçırma derdine son.",
-  "draftSubtitle": "Duet ders türlerinizi, grup fiyatlandırmanızı ve tonunuzu öğrenir. Bir rezervasyon talebi geldiğinde, müsaitlik durumunu, nelerin dahil olduğunu ve ne getirmeniz gerektiğini içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
-  "agentSubtitle": "\"Bu hafta için grup rezervasyonlarınız var mı?\" \"Uygunluk durumunuzu belirterek okula bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
+  "categorizationSubtitle": "Chiefy her e-postayı otomatik olarak etiketleyerek önce ders rezervasyonlarını, sonra soruları görmenizi ve gereksiz mesajları asla görmemenizi sağlar. Yelp uyarılarının altında kalan okul grubu sorularını kaçırma derdine son.",
+  "draftSubtitle": "Chiefy ders türlerinizi, grup fiyatlandırmanızı ve tonunuzu öğrenir. Bir rezervasyon talebi geldiğinde, müsaitlik durumunu, nelerin dahil olduğunu ve ne getirmeniz gerektiğini içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta için grup rezervasyonlarınız var mı?\" \"Uygunluk durumunuzu belirterek okula bir yanıt taslağı gönderin.\" Chiefy gelen kutunuzu ve programınızı biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Antrenör Mike T.",
       "title": "Sörf Okulu Sahibi, Kaliforniya",
-      "quote": "Günde 6 saat suda ders veriyorum. E-postalarımı kontrol ettiğimde, rezervasyonların yarısı başkasına gitmiş oluyor. Şimdi Duet fiyatlandırmam ve müsaitlik durumumla ilgili yanıt taslaklarını hazırlıyor - ben de seanslar arasında gözden geçiriyorum.",
+      "quote": "Günde 6 saat suda ders veriyorum. E-postalarımı kontrol ettiğimde, rezervasyonların yarısı başkasına gitmiş oluyor. Şimdi Chiefy fiyatlandırmam ve müsaitlik durumumla ilgili yanıt taslaklarını hazırlıyor - ben de seanslar arasında gözden geçiriyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen ve Mark S.",
       "title": "Hawaii'de Kürek Sörfü Dersleri ve Kiralama Hizmetleri",
-      "quote": "Dersleri ve snowboard kiralama işlemlerini aynı gelen kutusundan yönetiyoruz. Duet farkı anında anladı — kiralama sorularına kiralama cevapları, ders taleplerine ise ders detayları geliyor. Sanki bir resepsiyonumuz varmış gibi.",
+      "quote": "Dersleri ve snowboard kiralama işlemlerini aynı gelen kutusundan yönetiyoruz. Chiefy farkı anında anladı — kiralama sorularına kiralama cevapları, ders taleplerine ise ders detayları geliyor. Sanki bir resepsiyonumuz varmış gibi.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Sörf Eğitmeni, Florida",
-      "quote": "Okul grubu rezervasyonları eskiden 10 e-posta alışverişi gerektiriyordu. Şimdi Duet grup fiyatları, nelerin dahil olduğu ve izin belgesiyle birlikte ilk yanıtı hazırlıyor. Tüm yazışma süresini yarıya indiriyor.",
+      "quote": "Okul grubu rezervasyonları eskiden 10 e-posta alışverişi gerektiriyordu. Şimdi Chiefy grup fiyatları, nelerin dahil olduğu ve izin belgesiyle birlikte ilk yanıtı hazırlıyor. Tüm yazışma süresini yarıya indiriyor.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP Turlar ve Dersler, OR",
-      "quote": "Yoğun sezon beni mahvediyordu — koşullar, fiyatlar, ne getirmem gerektiği hakkında günde 30 e-posta. Aynı beş soru tekrar tekrar. Duet bunların hepsini hallediyor ve tıpkı benim gibi konuşuyorlar.",
+      "quote": "Yoğun sezon beni mahvediyordu — koşullar, fiyatlar, ne getirmem gerektiği hakkında günde 30 e-posta. Aynı beş soru tekrar tekrar. Chiefy bunların hepsini hallediyor ve tıpkı benim gibi konuşuyorlar.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Çocuk Sörf Kampı Direktörü, SC",
-      "quote": "En uzun e-postaları ebeveynler gönderiyor. Kamp tarihleri, alerjiler, beceri seviyeleri, alma saatleri... Duet her şeyi kapsayan detaylı yanıtlar hazırlıyor, böylece ben plajda geçirdiğim dolu bir günün ardından akşam 10'da paragraflar yazmak zorunda kalmıyorum.",
+      "quote": "En uzun e-postaları ebeveynler gönderiyor. Kamp tarihleri, alerjiler, beceri seviyeleri, alma saatleri... Chiefy her şeyi kapsayan detaylı yanıtlar hazırlıyor, böylece ben plajda geçirdiğim dolu bir günün ardından akşam 10'da paragraflar yazmak zorunda kalmıyorum.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Duet farklı ders türleri ve ekipman kiralama hizmetleri sunuyor mu?",
-      "answer": "Evet. Duet tüm tekliflerinizi öğrenir — özel dersler, grup dersleri, çocuk kampları, sörf tahtası kiralama, SUP turları. Bir talep geldiğinde, doğru fiyatlandırma, süre, nelerin dahil olduğu ve ne getirilmesi gerektiğiyle ilgili bir yanıt taslağı oluşturur. Bir okul grubu e-postasının, özel ders rezervasyonundan farklı ayrıntılar gerektirdiğini bilir."
+      "question": "Chiefy farklı ders türleri ve ekipman kiralama hizmetleri sunuyor mu?",
+      "answer": "Evet. Chiefy tüm tekliflerinizi öğrenir — özel dersler, grup dersleri, çocuk kampları, sörf tahtası kiralama, SUP turları. Bir talep geldiğinde, doğru fiyatlandırma, süre, nelerin dahil olduğu ve ne getirilmesi gerektiğiyle ilgili bir yanıt taslağı oluşturur. Bir okul grubu e-postasının, özel ders rezervasyonundan farklı ayrıntılar gerektirdiğini bilir."
     },
     {
       "question": "Hava durumu ve koşullar hakkındaki sorulara ne dersiniz?",
-      "answer": "Duet, iptal, yeniden planlama ve hangi koşullarda ders verdiğinizle ilgili politikalarınızı içeren, koşullarla ilgili e-postaları nasıl ele aldığınızı öğrenir. Birisi dersinin devam edip etmeyeceğini soran bir e-posta gönderdiğinde, Duet her zamanki tonunuza ve politikanıza uygun bir yanıt taslağı hazırlar. Siz de saniyeler içinde gözden geçirip gönderirsiniz."
+      "answer": "Chiefy, iptal, yeniden planlama ve hangi koşullarda ders verdiğinizle ilgili politikalarınızı içeren, koşullarla ilgili e-postaları nasıl ele aldığınızı öğrenir. Birisi dersinin devam edip etmeyeceğini soran bir e-posta gönderdiğinde, Chiefy her zamanki tonunuza ve politikanıza uygun bir yanıt taslağı hazırlar. Siz de saniyeler içinde gözden geçirip gönderirsiniz."
     }
   ],
   "pricingNote": "$90/ders adresinde, kaydedilen iki rezervasyon Pro'in bir yıldan fazla süren ücretini karşılıyor."

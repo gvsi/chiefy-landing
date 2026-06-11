@@ -1,12 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail for Dive Shops | AI Email Assistant",
-  "metaDescription": "Duet Mail helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
-
+  "pageTitle": "Chiefy for Dive Shops | AI Email Assistant",
+  "metaDescription": "Chiefy helps dive shop owners and PADI instructors respond to certification inquiries, trip bookings, and gear questions instantly — even from underwater.",
   "heroBadge": "Trusted by 300+ dive operators",
   "heroHeadline": "Your email assistant while you're underwater",
-  "heroSubline": "Duet learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
-
+  "heroSubline": "Chiefy learns your dive sites, certification requirements, pricing, and voice — then drafts email replies so you never lose a booking while you're on the boat.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -45,23 +43,17 @@
       "pillColor": "lavender"
     }
   ],
-
   "autodraft": "Hey Rachel! We'd love to get you certified. The Open Water course runs 3 days — one day of pool sessions and two days of ocean dives. All gear is included. August is wide open. Want me to reserve a spot for that first week?",
-
   "math": {
     "pricePerBooking": "$150",
     "bookingUnit": "dive",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "One saved group dive pays for a year of Duet."
+    "punchline": "One saved group dive pays for a year of Chiefy."
   },
-
-  "categorizationSubtitle": "Duet automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
-
-  "draftSubtitle": "Duet learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
-
-  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Duet knows your inbox and schedule — just ask.",
-
+  "categorizationSubtitle": "Chiefy automatically tags every email so you see certification inquiries and dive bookings first, gear questions second, and PADI alerts when you're ready. No more missing a group booking buried under equipment newsletters.",
+  "draftSubtitle": "Chiefy learns your dive sites, cert requirements, and pricing. When a booking inquiry hits, it drafts a complete reply with trip details, what's included, and what to bring. You review and send.",
+  "agentSubtitle": "\"How many divers are booked for Saturday?\" \"Draft a reply to Rachel with Open Water availability.\" Chiefy knows your inbox and schedule — just ask.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -105,7 +97,6 @@
       "pillColor": "lavender"
     }
   ],
-
   "draft": {
     "to": "rachel.t@email.com",
     "subject": "Re: Open Water certification — availability?",
@@ -125,61 +116,56 @@
       "Learns over time"
     ]
   },
-
   "agent": {
     "userMessage": "How many divers are booked for Saturday?",
     "agentResponse": "Based on your inbox, you have 8 divers confirmed for Saturday's morning 2-tank dive — Kevin's group of 6 plus 2 individual bookings. You also have a pending inquiry from Jason about gear rental for the same trip. Want me to draft a reply?",
     "followUp": "Draft a reply to Rachel with the Open Water course details",
     "followUpResponse": "Done! I drafted a reply to Rachel confirming the 3-day PADI Open Water course with pool and ocean dives included. It mentions August availability and your standard gear-included policy. Ready to review and send."
   },
-
   "testimonialsTitle": "Loved by dive operators",
   "testimonials": [
     {
       "name": "Captain Mike T.",
       "title": "Dive Boat Captain, FL",
-      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Duet drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
+      "quote": "I run boat trips Friday through Sunday and the shop is only open a few hours on Monday. Certification questions and trip inquiries pile up while I'm underwater. Chiefy drafts replies with my pricing, dive sites, and what's included — I review them between dives.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI Dive Center, HI",
-      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Duet sorts it all and drafts replies that know the difference. Absolute lifesaver.",
+      "quote": "We run dives, snorkel tours, and whale watches off the same boats. The email variety is insane — cert questions, group bookings, gear rentals, weather checks. Chiefy sorts it all and drafts replies that know the difference. Absolute lifesaver.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Duet handles both on autopilot. My response time went from hours to minutes.",
+      "quote": "Half my emails are 'what certification do I need for the wreck dives?' and the other half are 'do I need my own gear?' Chiefy handles both on autopilot. My response time went from hours to minutes.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Dive Shop Owner, CA",
-      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Duet drafts everything and I just hit send between classes.",
+      "quote": "During summer we get 30+ emails a day about courses, trip availability, and equipment. I was losing bookings to shops that replied faster. Now Chiefy drafts everything and I just hit send between classes.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Dive Instructor & Guide, NC",
-      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Duet learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
+      "quote": "I teach courses in the morning and guide dives in the afternoon. There's literally no time to answer email. Chiefy learned my course schedule, pricing, even my cancellation policy. Clients can't tell the difference.",
       "avatarKey": "sarah"
     }
   ],
-
   "ctaHeadline": "Spend your days underwater,\nnot buried in your inbox.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
-
   "verticalFaqs": [
     {
-      "question": "Does Duet understand certification levels and course requirements?",
-      "answer": "Yes. Duet learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Duet drafts a reply with the right course details, schedule, and next steps. You review and send."
+      "question": "Does Chiefy understand certification levels and course requirements?",
+      "answer": "Yes. Chiefy learns your specific courses — Open Water, Advanced, Rescue, Divemaster — along with prerequisites, duration, pricing, and what's included. When someone asks about getting certified, Chiefy drafts a reply with the right course details, schedule, and next steps. You review and send."
     },
     {
-      "question": "I'm on the boat or underwater all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "I'm on the boat or underwater all day. Can I use Chiefy from my phone?",
+      "answer": "Yes. Chiefy works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically in your inbox. Between dives or back at the dock, you review and send with one tap. Most dive operators tell us it saves them 1-2 hours of email time per day during peak season."
     }
   ],
-
   "pricingNote": "At $150/dive with a group of 6, one saved trip pays for over a year of Pro."
 }

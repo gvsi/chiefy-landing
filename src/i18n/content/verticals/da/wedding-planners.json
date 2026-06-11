@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail til bryllupsplanlæggere | AI-e-mail-assistent",
-  "metaDescription": "Duet Mail hjælper bryllupsplanlæggere med at reagere på klient- og sælger-e-mails med det samme - selv fra mødestedsgennemgange. AI-udkastede svar med dine pakker, leverandørkontakter og stemme.",
+  "pageTitle": "Chiefy til bryllupsplanlæggere | AI-e-mail-assistent",
+  "metaDescription": "Chiefy hjælper bryllupsplanlæggere med at reagere på klient- og sælger-e-mails med det samme - selv fra mødestedsgennemgange. AI-udkastede svar med dine pakker, leverandørkontakter og stemme.",
   "heroBadge": "Betroet af 400+ bryllupsplanlæggere",
   "heroHeadline": "Din e-mail-assistent, mens du er på stedet på stedet",
-  "heroSubline": "Duet lærer dine leverandørkontakter, pakker og klientpræferencer at kende – og udarbejder derefter e-mailsvar, så par aldrig venter, mens I koordinerer på stedet.",
+  "heroSubline": "Chiefy lærer dine leverandørkontakter, pakker og klientpræferencer at kende – og udarbejder derefter e-mailsvar, så par aldrig venter, mens I koordinerer på stedet.",
   "inboxEmails": [
     {
       "from": "Emily og James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "bryllup",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Én sparet klient betaler for over 20 år for Duet."
+    "punchline": "Én sparet klient betaler for over 20 år for Chiefy."
   },
-  "categorizationSubtitle": "Duet tagger automatisk hver e-mail, så du ser nye parforespørgsler først, leverandørbekræftelser derefter og nyhedsbrevsstøj aldrig. Ikke mere mangler en reservationsanmodning begravet under Knot-alarmer.",
-  "draftSubtitle": "Duet lærer dine pakker, foretrukne leverandører og tone. Når et par spørger, udarbejder det et varmt, fuldstændigt svar med din tilgængelighed og næste trin. Du anmelder og sender.",
-  "agentSubtitle": "\"Hvilke sælger-e-mails kom ind til Thompson-brylluppet?\" \"Udfør en tidslinjeopdatering til alle leverandører for lørdag.\"Duet kender din indbakke og dine kunder - bare spørg.",
+  "categorizationSubtitle": "Chiefy tagger automatisk hver e-mail, så du ser nye parforespørgsler først, leverandørbekræftelser derefter og nyhedsbrevsstøj aldrig. Ikke mere mangler en reservationsanmodning begravet under Knot-alarmer.",
+  "draftSubtitle": "Chiefy lærer dine pakker, foretrukne leverandører og tone. Når et par spørger, udarbejder det et varmt, fuldstændigt svar med din tilgængelighed og næste trin. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvilke sælger-e-mails kom ind til Thompson-brylluppet?\" \"Udfør en tidslinjeopdatering til alle leverandører for lørdag.\"Chiefy kender din indbakke og dine kunder - bare spørg.",
   "categorizationEmails": [
     {
       "from": "Emily og James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "Jeg er på bjergspillesteder med nul celleservice halvdelen af min uge. I mellemtiden sender par mig en e-mail om tidslinjer og leverandørspørgsmål. Duet udkast til svar med mine nøjagtige pakker og tone — jeg gennemgår dem, når jeg er tilbage inden for rækkevidde.",
+      "quote": "Jeg er på bjergspillesteder med nul celleservice halvdelen af min uge. I mellemtiden sender par mig en e-mail om tidslinjer og leverandørspørgsmål. Chiefy udkast til svar med mine nøjagtige pakker og tone — jeg gennemgår dem, når jeg er tilbage inden for rækkevidde.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Full-Service Wedding Planner, CA",
-      "quote": "Koordinering af 10+ leverandører pr. bryllup betyder, at min indbakke er en krigszone i højsæsonen. Duet kategoriserer leverandør-e-mails adskilt fra klient-e-mails og udkast til opfølgninger, jeg selv ville have skrevet. Jeg sover faktisk nu.",
+      "quote": "Koordinering af 10+ leverandører pr. bryllup betyder, at min indbakke er en krigszone i højsæsonen. Chiefy kategoriserer leverandør-e-mails adskilt fra klient-e-mails og udkast til opfølgninger, jeg selv ville have skrevet. Jeg sover faktisk nu.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Dag for koordinator, TX",
-      "quote": "På bryllupsdage er jeg utilgængelig i 14 timer i træk. Nye henvendelser plejede at sidde ubesvarede indtil mandag. Nu håndterer Duet dem med det samme, og jeg har reserveret 3 ekstra bryllupper i dette kvartal fra hurtigere svartider alene.",
+      "quote": "På bryllupsdage er jeg utilgængelig i 14 timer i træk. Nye henvendelser plejede at sidde ubesvarede indtil mandag. Nu håndterer Chiefy dem med det samme, og jeg har reserveret 3 ekstra bryllupper i dette kvartal fra hurtigere svartider alene.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "Mine par flyver ind fra hele verden og e-mailer hele tiden. Duet lærte mine svar på ofte stillede spørgsmål – spillestedslogistik, lokale leverandører, hvad man kan forvente – og udkast til svar, der lyder præcis som mig. Kunderne aner det ikke.",
+      "quote": "Mine par flyver ind fra hele verden og e-mailer hele tiden. Chiefy lærte mine svar på ofte stillede spørgsmål – spillestedslogistik, lokale leverandører, hvad man kan forvente – og udkast til svar, der lyder præcis som mig. Kunderne aner det ikke.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Bryllups- og begivenhedsplanlægger, NY",
-      "quote": "Jeg brugte 2 timer hver nat på at besvare de samme spørgsmål om pakke og tilgængelighed. Duet håndterer de gentagne ting, så jeg kan fokusere på det kreative arbejde, jeg faktisk elsker. Det betalte sig selv i den første uge.",
+      "quote": "Jeg brugte 2 timer hver nat på at besvare de samme spørgsmål om pakke og tilgængelighed. Chiefy håndterer de gentagne ting, så jeg kan fokusere på det kreative arbejde, jeg faktisk elsker. Det betalte sig selv i den første uge.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Tilslut din indbakke på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Fungerer Duet med alle leverandørkoordineringsmails?",
-      "answer": "Ja. Duet lærer dine leverandørkontakter, foretrukne leverandører, og hvordan du kommunikerer med hver enkelt. Det kategoriserer sælgers e-mails efter bryllup og udkast til svar med de rigtige detaljer - bekræftelser, opfølgninger, tidslinjeopdateringer. Du anmelder og sender. Det håndterer blomsterhandlere, cateringfirmaer, spillesteder, DJ'er, fotografer og alle andre leverandører i din rolodex."
+      "question": "Fungerer Chiefy med alle leverandørkoordineringsmails?",
+      "answer": "Ja. Chiefy lærer dine leverandørkontakter, foretrukne leverandører, og hvordan du kommunikerer med hver enkelt. Det kategoriserer sælgers e-mails efter bryllup og udkast til svar med de rigtige detaljer - bekræftelser, opfølgninger, tidslinjeopdateringer. Du anmelder og sender. Det håndterer blomsterhandlere, cateringfirmaer, spillesteder, DJ'er, fotografer og alle andre leverandører i din rolodex."
     },
     {
       "question": "Jeg er på stedet ved bryllupper og spillesteder hele dagen. Kommer jeg til at savne nye henvendelser?",
-      "answer": "Det er præcis, hvad Duet løser. Når et par e-mails spørger om tilgængelighed eller pakker, mens du koordinerer på stedet, udarbejder Duet et varmt, professionelt svar med din reelle tilgængelighed og næste skridt. Du gennemgår og sender, når du er ledig - selv fra din telefon mellem begivenheder. De fleste planlæggere fortæller os, at det sparer dem 1-2 timers e-mail-tid om dagen i højsæsonen."
+      "answer": "Det er præcis, hvad Chiefy løser. Når et par e-mails spørger om tilgængelighed eller pakker, mens du koordinerer på stedet, udarbejder Chiefy et varmt, professionelt svar med din reelle tilgængelighed og næste skridt. Du gennemgår og sender, når du er ledig - selv fra din telefon mellem begivenheder. De fleste planlæggere fortæller os, at det sparer dem 1-2 timers e-mail-tid om dagen i højsæsonen."
     }
   ],
   "pricingNote": "Til $8.000/bryllup betaler én sparet klient for over 20 års Pro."

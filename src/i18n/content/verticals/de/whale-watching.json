@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail für Walbeobachtungstouren | KI-E-Mail-Assistent",
-  "metaDescription": "Duet Mail hilft Walbeobachtungskapitänen, sofort auf Buchungs-E-Mails zu reagieren – sogar vom Wasser aus. Von der KI erstellte Antworten mit Ihren Tourdetails, Preisen und Ihrer Stimme.",
+  "pageTitle": "Chiefy für Walbeobachtungstouren | KI-E-Mail-Assistent",
+  "metaDescription": "Chiefy hilft Walbeobachtungskapitänen, sofort auf Buchungs-E-Mails zu reagieren – sogar vom Wasser aus. Von der KI erstellte Antworten mit Ihren Tourdetails, Preisen und Ihrer Stimme.",
   "heroBadge": "Mehr als 300 Tourkapitäne vertrauen darauf",
   "heroHeadline": "Ihr E-Mail-Assistent, während Sie Wale beobachten",
-  "heroSubline": "Duet lernt Ihren Tourplan, Ihre Preise und Ihre Stimme – und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung verlieren, während Sie auf dem Wasser sind.",
+  "heroSubline": "Chiefy lernt Ihren Tourplan, Ihre Preise und Ihre Stimme – und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung verlieren, während Sie auf dem Wasser sind.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "Reisegruppe",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Eine gespeicherte Gruppenbuchung zahlt für ein Jahr Duet."
+    "punchline": "Eine gespeicherte Gruppenbuchung zahlt für ein Jahr Chiefy."
   },
-  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Änderungen im Kreuzfahrtschiffplan und nie Lärm sehen. Keine privaten Charteranfragen mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen bleiben.",
-  "draftSubtitle": "Duet erfährt Ihre Tourzeiten, Preise und Richtlinien. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Angaben zur Verfügbarkeit, den enthaltenen Leistungen und den mitzubringenden Angaben erstellt. Sie überprüfen und senden.",
-  "agentSubtitle": "„Wie viele Plätze sind auf der Samstagmorgentour noch frei?“ „Entwerfen Sie eine Antwort an Rachel mit Angabe der Verfügbarkeit.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "categorizationSubtitle": "Chiefy markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Änderungen im Kreuzfahrtschiffplan und nie Lärm sehen. Keine privaten Charteranfragen mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen bleiben.",
+  "draftSubtitle": "Chiefy erfährt Ihre Tourzeiten, Preise und Richtlinien. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Angaben zur Verfügbarkeit, den enthaltenen Leistungen und den mitzubringenden Angaben erstellt. Sie überprüfen und senden.",
+  "agentSubtitle": "„Wie viele Plätze sind auf der Samstagmorgentour noch frei?“ „Entwerfen Sie eine Antwort an Rachel mit Angabe der Verfügbarkeit.” Chiefy kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapitän Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "Kreuzfahrtpassagiere brauchen schnelle Antworten – sie haben nur 6 Stunden im Hafen. Früher habe ich private Charterflüge verloren, weil ich auf dem Wasser war, als die Anfrage einging. Jetzt erstellt Duet Antworten mit meinen Preisen und Abholdetails, bevor ich überhaupt anlege.",
+      "quote": "Kreuzfahrtpassagiere brauchen schnelle Antworten – sie haben nur 6 Stunden im Hafen. Früher habe ich private Charterflüge verloren, weil ich auf dem Wasser war, als die Anfrage einging. Jetzt erstellt Chiefy Antworten mit meinen Preisen und Abholdetails, bevor ich überhaupt anlege.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Wir führen während der Buckelwal-Saison zwei Touren pro Tag durch und das E-Mail-Volumen ist unvorstellbar. „Werden wir Wale sehen?“ „Was soll ich anziehen?“ „Ist morgen abgesagt?” Duet kümmert sich um die wiederkehrenden Fragen und wir konzentrieren uns auf die Touren.",
+      "quote": "Wir führen während der Buckelwal-Saison zwei Touren pro Tag durch und das E-Mail-Volumen ist unvorstellbar. „Werden wir Wale sehen?“ „Was soll ich anziehen?“ „Ist morgen abgesagt?” Chiefy kümmert sich um die wiederkehrenden Fragen und wir konzentrieren uns auf die Touren.",
       "avatarKey": "francesca"
     },
     {
       "name": "Kapitän Ben T.",
       "title": "Ozeanausflüge, HI",
-      "quote": "Ich beantwortete jeden Abend die gleichen 10 Fragen – Preise, was im Preis inbegriffen ist, Tipps gegen Seekrankheit, Altersgrenzen für Kinder. Duet habe alles in der ersten Woche gelernt. Meine Reaktionszeit verringerte sich von 8 Stunden auf 8 Minuten.",
+      "quote": "Ich beantwortete jeden Abend die gleichen 10 Fragen – Preise, was im Preis inbegriffen ist, Tipps gegen Seekrankheit, Altersgrenzen für Kinder. Chiefy habe alles in der ersten Woche gelernt. Meine Reaktionszeit verringerte sich von 8 Stunden auf 8 Minuten.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Buchungsmanager, Pacific NW",
-      "quote": "Wetterstornierungen sind das Schlimmste – 30 Personen müssen auf einmal umgebucht werden und ich jongliere mit Telefonanrufen. Duet erstellt für jeden Gast personalisierte E-Mails zur Umplanung. Was früher 2 Stunden gedauert hat, dauert jetzt 15 Minuten.",
+      "quote": "Wetterstornierungen sind das Schlimmste – 30 Personen müssen auf einmal umgebucht werden und ich jongliere mit Telefonanrufen. Chiefy erstellt für jeden Gast personalisierte E-Mails zur Umplanung. Was früher 2 Stunden gedauert hat, dauert jetzt 15 Minuten.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Kleine Boots-Wildlife-Touren, BC",
-      "quote": "Wir sind ein Zwei-Personen-Unternehmen – ich bin Kapitänin, sie kümmert sich um die Logistik. In der Hochsaison verbrachte sie drei Stunden pro Nacht mit E-Mails. Duet kürzen Sie das auf 30 Minuten. Sie bekommt jetzt tatsächlich ihre Abende zurück.",
+      "quote": "Wir sind ein Zwei-Personen-Unternehmen – ich bin Kapitänin, sie kümmert sich um die Logistik. In der Hochsaison verbrachte sie drei Stunden pro Nacht mit E-Mails. Chiefy kürzen Sie das auf 30 Minuten. Sie bekommt jetzt tatsächlich ihre Abende zurück.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
   "verticalFaqs": [
     {
-      "question": "Behandelt Duet Wetterstornierungen und Fahrplanänderungen von Kreuzfahrtschiffen?",
-      "answer": "Ja. Wenn Sie eine Tour aufgrund des Wetters oder einer Verschiebung der Ankunftszeit eines Kreuzfahrtschiffes stornieren, können Sie dies Duet einmal mitteilen und es erstellt für jeden betroffenen Gast personalisierte Umplanungs- oder Aktualisierungs-E-Mails. Kein 30-maliges Kopieren und Einfügen derselben Nachricht mehr. Jede Antwort enthält die ursprünglichen Buchungsdetails des Gastes und verfügbare Alternativen."
+      "question": "Behandelt Chiefy Wetterstornierungen und Fahrplanänderungen von Kreuzfahrtschiffen?",
+      "answer": "Ja. Wenn Sie eine Tour aufgrund des Wetters oder einer Verschiebung der Ankunftszeit eines Kreuzfahrtschiffes stornieren, können Sie dies Chiefy einmal mitteilen und es erstellt für jeden betroffenen Gast personalisierte Umplanungs- oder Aktualisierungs-E-Mails. Kein 30-maliges Kopieren und Einfügen derselben Nachricht mehr. Jede Antwort enthält die ursprünglichen Buchungsdetails des Gastes und verfügbare Alternativen."
     },
     {
-      "question": "Wir bekommen ständig die gleichen Fragen: „Werden wir Wale sehen?“, „Was soll ich anziehen?“, „Ist es für Kinder in Ordnung?“ Kann Duet damit umgehen?",
-      "answer": "Genau da glänzt Duet. Es lernt Ihre Standardantworten – Arten, die Sie normalerweise sehen, was Sie mitbringen sollten, Altersrichtlinien, Tipps zur Seekrankheit, Abfahrtszeiten – und erstellt sofort vollständige Antworten. Sie überprüfen und senden. Die meisten Kapitäne teilen uns mit, dass 80 % ihres Posteingangs aus den gleichen 10 Fragen bestehen, und Duet kümmert sich um alle."
+      "question": "Wir bekommen ständig die gleichen Fragen: „Werden wir Wale sehen?“, „Was soll ich anziehen?“, „Ist es für Kinder in Ordnung?“ Kann Chiefy damit umgehen?",
+      "answer": "Genau da glänzt Chiefy. Es lernt Ihre Standardantworten – Arten, die Sie normalerweise sehen, was Sie mitbringen sollten, Altersrichtlinien, Tipps zur Seekrankheit, Abfahrtszeiten – und erstellt sofort vollständige Antworten. Sie überprüfen und senden. Die meisten Kapitäne teilen uns mit, dass 80 % ihres Posteingangs aus den gleichen 10 Fragen bestehen, und Chiefy kümmert sich um alle."
     }
   ],
   "pricingNote": "Bei 125 $/Person zahlt eine gesparte Gruppe von 6 Personen für mehr als ein Jahr Pro."

@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail per giri in mongolfiera | Assistente e-mail AI",
-  "metaDescription": "Duet Mail aiuta i piloti di mongolfiere a rispondere istantaneamente alle e-mail di prenotazione, anche durante i voli all'alba. Risposte elaborate dall'intelligenza artificiale con prezzi, politiche meteorologiche e voce.",
+  "pageTitle": "Chiefy per giri in mongolfiera | Assistente e-mail AI",
+  "metaDescription": "Chiefy aiuta i piloti di mongolfiere a rispondere istantaneamente alle e-mail di prenotazione, anche durante i voli all'alba. Risposte elaborate dall'intelligenza artificiale con prezzi, politiche meteorologiche e voce.",
   "heroBadge": "Scelto da oltre 200 piloti di mongolfiere",
   "heroHeadline": "Il tuo assistente email mentre sei in volo",
-  "heroSubline": "Duet apprende gli orari dei voli, i prezzi e le politiche meteorologiche, quindi elabora le risposte via email in modo da non perdere mai una prenotazione durante il lancio all'alba.",
+  "heroSubline": "Chiefy apprende gli orari dei voli, i prezzi e le politiche meteorologiche, quindi elabora le risposte via email in modo da non perdere mai una prenotazione durante il lancio all'alba.",
   "inboxEmails": [
     {
       "from": "Rachel e Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "volo",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Un volo salvato vale un anno di Duet."
+    "punchline": "Un volo salvato vale un anno di Chiefy."
   },
-  "categorizationSubtitle": "Duet tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande sul meteo e mai il rumore. Non perderai più una richiesta di volo sepolta sotto gli avvisi della newsletter.",
-  "draftSubtitle": "Duet apprende i tuoi prezzi, le politiche meteorologiche e il tono. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del volo, le informazioni sulla riunione e cosa indossare. Rivedi e invii.",
-  "agentSubtitle": "\"Chi c'è sulla lista di domani?\" \"Ci sono cancellazioni meteorologiche da riprogrammare?\" Duet conosce la tua casella di posta e il tuo calendario: basta chiedere.",
+  "categorizationSubtitle": "Chiefy tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande sul meteo e mai il rumore. Non perderai più una richiesta di volo sepolta sotto gli avvisi della newsletter.",
+  "draftSubtitle": "Chiefy apprende i tuoi prezzi, le politiche meteorologiche e il tono. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del volo, le informazioni sulla riunione e cosa indossare. Rivedi e invii.",
+  "agentSubtitle": "\"Chi c'è sulla lista di domani?\" \"Ci sono cancellazioni meteorologiche da riprogrammare?\" Chiefy conosce la tua casella di posta e il tuo calendario: basta chiedere.",
   "categorizationEmails": [
     {
       "from": "Rachele T.",
@@ -127,31 +127,31 @@
     {
       "name": "Capitano Mike L.",
       "title": "Pilota di mongolfiere, Minnesota",
-      "quote": "Sono un'operazione individuale: volo, faccio parte dell'equipaggio, rispondo alle e-mail. Tranne che alle 5 del mattino mi sto gonfiando, non rispondo. Duet elabora risposte a ogni \"voleremo domani?\" messaggio durante la notte. Mi sveglio, controllo il meteo e premo invio.",
+      "quote": "Sono un'operazione individuale: volo, faccio parte dell'equipaggio, rispondo alle e-mail. Tranne che alle 5 del mattino mi sto gonfiando, non rispondo. Chiefy elabora risposte a ogni \"voleremo domani?\" messaggio durante la notte. Mi sveglio, controllo il meteo e premo invio.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon e Jake B.",
       "title": "Tour in mongolfiera tutto l'anno, UT",
-      "quote": "Riceviamo le stesse 10 domande ogni giorno. Cosa indossare, dove incontrarsi, cosa succede se c'è vento. Duet ha imparato tutto e ora scrive risposte perfette. Siamo passati da un'ora di email ogni notte a cinque minuti.",
+      "quote": "Riceviamo le stesse 10 domande ogni giorno. Cosa indossare, dove incontrarsi, cosa succede se c'è vento. Chiefy ha imparato tutto e ora scrive risposte perfette. Siamo passati da un'ora di email ogni notte a cinque minuti.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Operatore di volo Sunrise, Arizona",
-      "quote": "Alta stagione significa 4-6 voli a settimana e ogni passeggero invia un'e-mail almeno due volte prima del volo. Duet gestisce le domande pre-volo così posso concentrarmi sul dare alle persone la mattinata più bella della loro vita.",
+      "quote": "Alta stagione significa 4-6 voli a settimana e ogni passeggero invia un'e-mail almeno due volte prima del volo. Chiefy gestisce le domande pre-volo così posso concentrarmi sul dare alle persone la mattinata più bella della loro vita.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Co-proprietario della Balloon Company, New Mexico",
-      "quote": "Le cancellazioni meteorologiche mi rovinavano l'intera giornata: 8 passeggeri avevano tutti bisogno di e-mail di riprogrammazione personali. Ora Duet redige tutti con la nostra politica di riprenotazione inclusa. Mi fa risparmiare ore nelle mattine di cancellazione.",
+      "quote": "Le cancellazioni meteorologiche mi rovinavano l'intera giornata: 8 passeggeri avevano tutti bisogno di e-mail di riprogrammazione personali. Ora Chiefy redige tutti con la nostra politica di riprenotazione inclusa. Mi fa risparmiare ore nelle mattine di cancellazione.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Operazioni di giro in mongolfiera, CO",
-      "quote": "I voli delle proposte necessitano di tanto coordinamento avanti e indietro. Duet ha capito come li gestiamo: i tempi, le parole in codice, la configurazione dello champagne. Elabora risposte che a malapena devo toccare.",
+      "quote": "I voli delle proposte necessitano di tanto coordinamento avanti e indietro. Chiefy ha capito come li gestiamo: i tempi, le parole in codice, la configurazione dello champagne. Elabora risposte che a malapena devo toccare.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
   "verticalFaqs": [
     {
-      "question": "In che modo Duet gestisce le e-mail di cancellazione del meteo?",
-      "answer": "Duet apprende le tue politiche di cancellazione e riprenotazione. Quando annulli un volo a causa del maltempo, può redigere e-mail di riprogrammazione personalizzate per ogni passeggero interessato, con la tua politica, le date disponibili e il tuo tono. Rivedi e invii. Ciò che prima richiedeva un'ora di risposte individuali richiede pochi minuti."
+      "question": "In che modo Chiefy gestisce le e-mail di cancellazione del meteo?",
+      "answer": "Chiefy apprende le tue politiche di cancellazione e riprenotazione. Quando annulli un volo a causa del maltempo, può redigere e-mail di riprogrammazione personalizzate per ogni passeggero interessato, con la tua politica, le date disponibili e il tuo tono. Rivedi e invii. Ciò che prima richiedeva un'ora di risposte individuali richiede pochi minuti."
     },
     {
-      "question": "Duet può gestire la domanda \"voleremo domani?\" email che arrivano ogni sera?",
-      "answer": "Sì, questa è una delle e-mail più comuni di cui ci parlano gli operatori di palloncini. Duet apprende le tue politiche meteorologiche e redige risposte rassicuranti che spiegano il tuo processo decisionale, quando effettuerai la chiamata finale e cosa aspettarti. Una volta confermato il via/non-via al mattino, può redigere aggiornamenti per tutti sul manifest."
+      "question": "Chiefy può gestire la domanda \"voleremo domani?\" email che arrivano ogni sera?",
+      "answer": "Sì, questa è una delle e-mail più comuni di cui ci parlano gli operatori di palloncini. Chiefy apprende le tue politiche meteorologiche e redige risposte rassicuranti che spiegano il tuo processo decisionale, quando effettuerai la chiamata finale e cosa aspettarti. Una volta confermato il via/non-via al mattino, può redigere aggiornamenti per tutti sul manifest."
     }
   ],
   "pricingNote": "A $ 250 a persona con 4 passeggeri per volo, una prenotazione salvata paga più di un anno di Pro."

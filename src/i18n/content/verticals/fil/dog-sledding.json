@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail para sa Dog Sled Tours | AI Email Assistant",
-  "metaDescription": "Tinutulungan ng Duet Mail ang mga musher na tumugon kaagad sa pag-book ng mga email — kahit na mula sa trail. AI-drafted na mga tugon kasama ng iyong mga uri ng tour, pagpepresyo, mga patakaran, at boses.",
+  "pageTitle": "Chiefy para sa Dog Sled Tours | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Chiefy ang mga musher na tumugon kaagad sa pag-book ng mga email — kahit na mula sa trail. AI-drafted na mga tugon kasama ng iyong mga uri ng tour, pagpepresyo, mga patakaran, at boses.",
   "heroBadge": "Pinagkakatiwalaan ng 200+ mushers",
   "heroHeadline": "Ang iyong email assistant habang ikaw ay nasa trail",
-  "heroSubline": "Natutunan ng Duet ang iyong mga uri ng tour, pagpepresyo, mga patakaran sa panahon, at mga add-on — pagkatapos ay mag-draft ng mga tugon sa email para hindi ka mawalan ng booking sa isang mabagal na tugon.",
+  "heroSubline": "Natutunan ng Chiefy ang iyong mga uri ng tour, pagpepresyo, mga patakaran sa panahon, at mga add-on — pagkatapos ay mag-draft ng mga tugon sa email para hindi ka mawalan ng booking sa isang mabagal na tugon.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,7 +49,7 @@
     "bookingUnit": "paglilibot",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dalawang naka-save na booking ang nagbabayad para sa isang taon ng Duet."
+    "punchline": "Dalawang naka-save na booking ang nagbabayad para sa isang taon ng Chiefy."
   },
   "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong, at hindi kailanman ingay. Wala nang nawawalang tour inquiry na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
   "draftSubtitle": "Natutunan ng duet ang iyong mga uri ng tour, pagpepresyo, at tono. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may mga detalye ng package, kung ano ang isusuot, at mga add-on. I-review at ipadala mo.",
@@ -139,7 +139,7 @@
     {
       "name": "Travis B.",
       "title": "Dog Sled Guide, MN",
-      "quote": "Madalas akong gumugugol tuwing gabi sa pagsagot sa parehong mga tanong tungkol sa kung ano ang isusuot, mga limitasyon sa edad, at ang mga aso. Duet ang humahawak sa lahat ng ito. Umuwi ako mula sa trail at lahat ay naka-draft at naghihintay.",
+      "quote": "Madalas akong gumugugol tuwing gabi sa pagsagot sa parehong mga tanong tungkol sa kung ano ang isusuot, mga limitasyon sa edad, at ang mga aso. Chiefy ang humahawak sa lahat ng ito. Umuwi ako mula sa trail at lahat ay naka-draft at naghihintay.",
       "avatarKey": "johnny"
     },
     {
@@ -159,11 +159,11 @@
   "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Paano pinangangasiwaan ng Duet ang mga pagkansela ng panahon at kawalan ng katiyakan ng aurora?",
+      "question": "Paano pinangangasiwaan ng Chiefy ang mga pagkansela ng panahon at kawalan ng katiyakan ng aurora?",
       "answer": "Nalaman ng duet ang iyong mga patakaran sa pagkansela at muling pag-iskedyul. Kapag nag-email ang isang bisita tungkol sa mga alalahanin sa lagay ng panahon o visibility ng aurora, nag-draft ito ng tugon kasama ng iyong patakaran, mga kahaliling petsa, at anumang nauugnay na detalye — tulad ng mga kundisyon sa pagsubaybay at pagkumpirma ng mas malapit sa paglilibot. I-review at ipadala mo."
     },
     {
-      "question": "Nag-aalok ako ng maraming uri ng tour na may iba't ibang pagpepresyo at mga add-on. Maaari bang panatilihing tuwid sila ng Duet?",
+      "question": "Nag-aalok ako ng maraming uri ng tour na may iba't ibang pagpepresyo at mga add-on. Maaari bang panatilihing tuwid sila ng Chiefy?",
       "answer": "Oo. Natutunan ng duet ang bawat isa sa iyong mga uri ng paglilibot — mga pagbisita sa kulungan ng aso, mga karanasan sa mush, mga aurora combo, mga add-on sa photography, mga pakete ng transportasyon — kasama ang kanilang pagpepresyo, tagal, at kung ano ang kasama. Kapag pumasok ang isang pagtatanong, tumutugma ito sa tamang paglilibot at nag-draft ng tugon na may mga tamang detalye."
     }
   ],

@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail per tour con slitte trainate da cani | Assistente e-mail AI",
-  "metaDescription": "Duet Mail aiuta i musher a rispondere istantaneamente alle e-mail di prenotazione, anche dal percorso. Risposte elaborate dall'intelligenza artificiale con tipi di tour, prezzi, politiche e voce.",
+  "pageTitle": "Chiefy per tour con slitte trainate da cani | Assistente e-mail AI",
+  "metaDescription": "Chiefy aiuta i musher a rispondere istantaneamente alle e-mail di prenotazione, anche dal percorso. Risposte elaborate dall'intelligenza artificiale con tipi di tour, prezzi, politiche e voce.",
   "heroBadge": "Scelto da oltre 200 musher",
   "heroHeadline": "Il tuo assistente email mentre sei in viaggio",
-  "heroSubline": "Duet apprende i tipi di tour, i prezzi, le politiche meteorologiche e i componenti aggiuntivi, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
+  "heroSubline": "Chiefy apprende i tipi di tour, i prezzi, le politiche meteorologiche e i componenti aggiuntivi, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
   "inboxEmails": [
     {
       "from": "Rachele T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "giro",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Due prenotazioni salvate pagano un anno di Duet."
+    "punchline": "Due prenotazioni salvate pagano un anno di Chiefy."
   },
-  "categorizationSubtitle": "Duet tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande e mai il rumore. Non perderai più una richiesta di tour sepolta sotto gli avvisi TripAdvisor.",
-  "draftSubtitle": "Duet apprende i tipi di tour, i prezzi e il tono. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del pacchetto, cosa indossare e componenti aggiuntivi. Rivedi e invii.",
-  "agentSubtitle": "\"Ci sono prenotazioni per questo fine settimana?\" \"Scrivi una risposta sulla combo Aurora.\" Duet conosce la tua casella di posta e il tuo programma: basta chiedere.",
+  "categorizationSubtitle": "Chiefy tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande e mai il rumore. Non perderai più una richiesta di tour sepolta sotto gli avvisi TripAdvisor.",
+  "draftSubtitle": "Chiefy apprende i tipi di tour, i prezzi e il tono. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del pacchetto, cosa indossare e componenti aggiuntivi. Rivedi e invii.",
+  "agentSubtitle": "\"Ci sono prenotazioni per questo fine settimana?\" \"Scrivi una risposta sulla combo Aurora.\" Chiefy conosce la tua casella di posta e il tuo programma: basta chiedere.",
   "categorizationEmails": [
     {
       "from": "Rachele T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Operatore turistico di cani da slitta, AK",
-      "quote": "Sono in viaggio 6 ore al giorno con il servizio zero cell. Quando sono tornato, metà delle richieste di prenotazione erano andate a un'altra struttura. Duet bozze di risposta con i dettagli e i prezzi del mio tour: gli ospiti rispondono in pochi minuti, non in ore.",
+      "quote": "Sono in viaggio 6 ore al giorno con il servizio zero cell. Quando sono tornato, metà delle richieste di prenotazione erano andate a un'altra struttura. Chiefy bozze di risposta con i dettagli e i prezzi del mio tour: gli ospiti rispondono in pochi minuti, non in ore.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Proprietario del tour Kennel & Mush, AK",
-      "quote": "Offriamo visite al canile, mush ride e combinazioni aurora: ogni email ha bisogno di una risposta diversa. Duet ha capito tutti e tre i tipi di tour in una settimana e ora elabora risposte che corrispondono ogni volta al pacchetto giusto.",
+      "quote": "Offriamo visite al canile, mush ride e combinazioni aurora: ogni email ha bisogno di una risposta diversa. Chiefy ha capito tutti e tre i tipi di tour in una settimana e ora elabora risposte che corrispondono ogni volta al pacchetto giusto.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Guida per slitte trainate da cani, MN",
-      "quote": "Passavo ogni sera a rispondere alle stesse domande su cosa indossare, limiti di età e cani. Duet gestisce tutto. Torno a casa dal sentiero e tutto è pronto e in attesa.",
+      "quote": "Passavo ogni sera a rispondere alle stesse domande su cosa indossare, limiti di età e cani. Chiefy gestisce tutto. Torno a casa dal sentiero e tutto è pronto e in attesa.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Tour operator Aurora e slitta, AK",
-      "quote": "Le cancellazioni meteorologiche sono costanti in inverno. Duet redige bozze di riprogrammazione delle risposte con la nostra politica e date alternative prima ancora che io abbia la possibilità di controllare il mio telefono. Gli ospiti apprezzano la risposta rapida.",
+      "quote": "Le cancellazioni meteorologiche sono costanti in inverno. Chiefy redige bozze di riprogrammazione delle risposte con la nostra politica e date alternative prima ancora che io abbia la possibilità di controllare il mio telefono. Gli ospiti apprezzano la risposta rapida.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Avventure in slitta trainata da cani per famiglie, CO",
-      "quote": "I genitori chiedono sempre se i loro figli possono fare la poltiglia, se i cani sono amichevoli, cosa indossare: le stesse 10 domande. Duet ha imparato ogni risposta e le abbozza perfettamente. È come clonarmi per la posta elettronica.",
+      "quote": "I genitori chiedono sempre se i loro figli possono fare la poltiglia, se i cani sono amichevoli, cosa indossare: le stesse 10 domande. Chiefy ha imparato ogni risposta e le abbozza perfettamente. È come clonarmi per la posta elettronica.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
   "verticalFaqs": [
     {
-      "question": "In che modo Duet gestisce le cancellazioni meteorologiche e l'incertezza dell'aurora?",
-      "answer": "Duet apprende le tue politiche di cancellazione e riprogrammazione. Quando un ospite invia un'e-mail in merito a problemi meteorologici o visibilità dell'aurora, redige una risposta con la tua politica, date alternative e tutti i dettagli rilevanti, come il monitoraggio delle condizioni e la conferma in prossimità del tour. Rivedi e invii."
+      "question": "In che modo Chiefy gestisce le cancellazioni meteorologiche e l'incertezza dell'aurora?",
+      "answer": "Chiefy apprende le tue politiche di cancellazione e riprogrammazione. Quando un ospite invia un'e-mail in merito a problemi meteorologici o visibilità dell'aurora, redige una risposta con la tua politica, date alternative e tutti i dettagli rilevanti, come il monitoraggio delle condizioni e la conferma in prossimità del tour. Rivedi e invii."
     },
     {
-      "question": "Offro più tipi di tour con prezzi e componenti aggiuntivi diversi. Duet può mantenerli dritti?",
-      "answer": "Sì. Duet apprende ciascuno dei tuoi tipi di tour: visite al canile, esperienze poltiglia, combinazioni di aurora, componenti aggiuntivi per la fotografia, pacchetti di trasporto, insieme ai prezzi, alla durata e a ciò che è incluso. Quando arriva una richiesta, abbina il tour giusto e redige una risposta con i dettagli corretti."
+      "question": "Offro più tipi di tour con prezzi e componenti aggiuntivi diversi. Chiefy può mantenerli dritti?",
+      "answer": "Sì. Chiefy apprende ciascuno dei tuoi tipi di tour: visite al canile, esperienze poltiglia, combinazioni di aurora, componenti aggiuntivi per la fotografia, pacchetti di trasporto, insieme ai prezzi, alla durata e a ciò che è incluso. Quando arriva una richiesta, abbina il tour giusto e redige una risposta con i dettagli corretti."
     }
   ],
   "pricingNote": "A $ 150/tour, due prenotazioni salvate pagano più di un anno di Pro."

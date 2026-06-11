@@ -2,7 +2,7 @@
 title: "Slik bruker du AI og GPT for Gmail og tar dagen tilbake"
 description: "Lar hvordan du bruker GPT for Gmail til å håndtere e-postoverbelastning med utkast, oppsummering og triage."
 publishedAt: 2025-06-10
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Produktivitet", "E-post"]
 draft: false
 ---
@@ -26,7 +26,7 @@ Typiske bruksområder:
 
 ### **1. Start med triage**
 
-For du skriver noe, må du vite hva som haster. AI kan vurdere meldinger etter avsender, innhold, frister og tidligere monster. [**Duet Mail**](https://duetmail.com/nb) bruker AI Triage til å vise hvilke e-poster som krever handling, beslutning eller raskt svar.
+For du skriver noe, må du vite hva som haster. AI kan vurdere meldinger etter avsender, innhold, frister og tidligere monster. [**Chiefy**](https://chiefy.com/nb) bruker AI Triage til å vise hvilke e-poster som krever handling, beslutning eller raskt svar.
 
 ### **2. Oppsummer for du svarer**
 
@@ -52,9 +52,9 @@ AI kan foreslå høflige oppfølginger, finne ubesvarte tråder og hjelpe deg me
 - Bruk verktoy som er laget for e-post og personvern.
 - Hold svarene korte og konkrete.
 
-## Hvor Duet Mail passer inn
+## Hvor Chiefy passer inn
 
-Duet Mail kombinerer flere AI-funksjoner i én Gmail-orientert arbeidsflyt. I stedet for å kopiere tekst ut til en separat chatbot kan du bruke triage, oppsummering og autentiske utkast der e-posten allerede ligger.
+Chiefy kombinerer flere AI-funksjoner i én Gmail-orientert arbeidsflyt. I stedet for å kopiere tekst ut til en separat chatbot kan du bruke triage, oppsummering og autentiske utkast der e-posten allerede ligger.
 
 Det er spesielt nyttig når du vil:
 
@@ -67,4 +67,4 @@ Det er spesielt nyttig når du vil:
 
 AI og GPT for Gmail er mest verdifullt når de hjelper deg med å ta bedre beslutninger raskere. De skal ikke erstatte vurderingsevnen din, men fjerne repetitivt arbeid rundt lesing, sortering og forsteutkast.
 
-Vil du bruke AI direkte i Gmail-arbeidsflyten din? Utforsk hvordan [**Duet Mail**](https://duetmail.com/nb) hjelper deg med å gjenvinne fokus og kontroll over innboksen.
+Vil du bruke AI direkte i Gmail-arbeidsflyten din? Utforsk hvordan [**Chiefy**](https://chiefy.com/nb) hjelper deg med å gjenvinne fokus og kontroll over innboksen.

@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail dla szkół surfingu i operatorów paddleboardów | AI Email Assistant",
-  "metaDescription": "Duet Mail pomaga instruktorom surfingu i operatorom paddleboardów natychmiast reagować na e-maile z rezerwacjami - nawet podczas nauczania. Odpowiedzi opracowane przez sztuczną inteligencję zawierające rodzaje lekcji, ceny i głos.",
+  "pageTitle": "Chiefy dla szkół surfingu i operatorów paddleboardów | AI Email Assistant",
+  "metaDescription": "Chiefy pomaga instruktorom surfingu i operatorom paddleboardów natychmiast reagować na e-maile z rezerwacjami - nawet podczas nauczania. Odpowiedzi opracowane przez sztuczną inteligencję zawierające rodzaje lekcji, ceny i głos.",
   "heroBadge": "Zaufali nam instruktorzy surfingu 300+",
   "heroHeadline": "Twój asystent e-mail podczas nauczania na wodzie",
-  "heroSubline": "Duet poznaje rodzaje, ceny i warunki Twoich lekcji, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji z powodu powolnej odpowiedzi.",
+  "heroSubline": "Chiefy poznaje rodzaje, ceny i warunki Twoich lekcji, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji z powodu powolnej odpowiedzi.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lekcja",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Dwie zapisane rezerwacje płacą za rok Duet."
+    "punchline": "Dwie zapisane rezerwacje płacą za rok Chiefy."
   },
-  "categorizationSubtitle": "Duet automatycznie taguje każdy e-mail, dzięki czemu na pierwszym miejscu widzisz rezerwacje lekcji, na drugim miejscu pytania, a nigdy nie ma hałasu. Nigdy więcej nie przegapisz zapytania dotyczącego grupy szkolnej ukrytego pod alertami Yelp.",
-  "draftSubtitle": "Duet uczy się typów lekcji, cen grupowych i tonu. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź z informacją o dostępności, zawartości i tym, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„W tym tygodniu pojawią się jakieś rezerwacje grupowe?” „Napisz odpowiedź dla szkoły, podając dostępność”. Duet zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj.",
+  "categorizationSubtitle": "Chiefy automatycznie taguje każdy e-mail, dzięki czemu na pierwszym miejscu widzisz rezerwacje lekcji, na drugim miejscu pytania, a nigdy nie ma hałasu. Nigdy więcej nie przegapisz zapytania dotyczącego grupy szkolnej ukrytego pod alertami Yelp.",
+  "draftSubtitle": "Chiefy uczy się typów lekcji, cen grupowych i tonu. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź z informacją o dostępności, zawartości i tym, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„W tym tygodniu pojawią się jakieś rezerwacje grupowe?” „Napisz odpowiedź dla szkoły, podając dostępność”. Chiefy zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Coach Mike T.",
       "title": "Właściciel szkoły surfingu, Kalifornia",
-      "quote": "Jestem w wodzie, ucząc 6 godzin dziennie. Zanim sprawdziłem pocztę, połowa rezerwacji została już przekazana komuś innemu. Teraz Duet przygotowuje odpowiedzi z moimi cenami i dostępnością — po prostu przeglądam je między sesjami.",
+      "quote": "Jestem w wodzie, ucząc 6 godzin dziennie. Zanim sprawdziłem pocztę, połowa rezerwacji została już przekazana komuś innemu. Teraz Chiefy przygotowuje odpowiedzi z moimi cenami i dostępnością — po prostu przeglądam je między sesjami.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Lekcje i wypożyczalnie paddleboardów, HI",
-      "quote": "Prowadzimy lekcje i wypożyczamy deski z tej samej skrzynki odbiorczej. Duet natychmiast odkrył różnicę — pytania dotyczące wypożyczenia otrzymują odpowiedzi dotyczące wypożyczenia, zapytania dotyczące lekcji — szczegóły lekcji. To tak, jakby mieć recepcję.",
+      "quote": "Prowadzimy lekcje i wypożyczamy deski z tej samej skrzynki odbiorczej. Chiefy natychmiast odkrył różnicę — pytania dotyczące wypożyczenia otrzymują odpowiedzi dotyczące wypożyczenia, zapytania dotyczące lekcji — szczegóły lekcji. To tak, jakby mieć recepcję.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Instruktor surfingu, Floryda",
-      "quote": "Rezerwacje grupowe w szkole polegały na przesyłaniu e-maili 10 tam i z powrotem. Teraz Duet przygotowuje pierwszą odpowiedź zawierającą stawki grupowe, zawartość pakietu i potwierdzenie pozwolenia. Przecina całą nić na pół.",
+      "quote": "Rezerwacje grupowe w szkole polegały na przesyłaniu e-maili 10 tam i z powrotem. Teraz Chiefy przygotowuje pierwszą odpowiedź zawierającą stawki grupowe, zawartość pakietu i potwierdzenie pozwolenia. Przecina całą nić na pół.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "Wycieczki i lekcje SUP, LUB",
-      "quote": "Szczyt sezonu mnie dobijał — 30 codziennie wysyła e-maile na temat warunków, cen i tego, co zabrać ze sobą. W kółko te same pięć pytań. Duet obsługuje je wszystkie i brzmią dokładnie tak jak ja.",
+      "quote": "Szczyt sezonu mnie dobijał — 30 codziennie wysyła e-maile na temat warunków, cen i tego, co zabrać ze sobą. W kółko te same pięć pytań. Chiefy obsługuje je wszystkie i brzmią dokładnie tak jak ja.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Dyrektor obozu surfingowego dla dzieci, SC",
-      "quote": "Rodzice wysyłają najdłuższe e-maile. Daty obozów, alergie, poziomy umiejętności, godziny odbioru. Duet przygotowuje szczegółowe odpowiedzi, które obejmują wszystko, więc nie piszę akapitów na PM 10 po całym dniu spędzonym na plaży.",
+      "quote": "Rodzice wysyłają najdłuższe e-maile. Daty obozów, alergie, poziomy umiejętności, godziny odbioru. Chiefy przygotowuje szczegółowe odpowiedzi, które obejmują wszystko, więc nie piszę akapitów na PM 10 po całym dniu spędzonym na plaży.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Czy Duet obsługuje różne rodzaje lekcji i wypożyczanie sprzętu?",
-      "answer": "Tak. Duet poznaje całą Twoją ofertę — lekcje prywatne, lekcje grupowe, obozy dla dzieci, wypożyczalnie desek, wycieczki SUP. Kiedy przychodzi zapytanie, przygotowuje odpowiedź zawierającą prawidłową cenę, czas trwania, zawartość i co zabrać ze sobą. Wie, że e-mail grupy szkolnej wymaga innych szczegółów niż rezerwacja lekcji prywatnej."
+      "question": "Czy Chiefy obsługuje różne rodzaje lekcji i wypożyczanie sprzętu?",
+      "answer": "Tak. Chiefy poznaje całą Twoją ofertę — lekcje prywatne, lekcje grupowe, obozy dla dzieci, wypożyczalnie desek, wycieczki SUP. Kiedy przychodzi zapytanie, przygotowuje odpowiedź zawierającą prawidłową cenę, czas trwania, zawartość i co zabrać ze sobą. Wie, że e-mail grupy szkolnej wymaga innych szczegółów niż rezerwacja lekcji prywatnej."
     },
     {
       "question": "A co z pytaniami o pogodę i warunki?",
-      "answer": "Duet dowiaduje się, jak zazwyczaj radzisz sobie z e-mailami z warunkami – zasadami dotyczącymi anulowania zajęć, zmiany harmonogramu i warunkami, w jakich uczysz. Kiedy ktoś wysyła e-mail z pytaniem, czy jego lekcja się odbędzie, Duet przygotowuje odpowiedź odpowiadającą Twojemu zwykłemu tonowi i zasadom. Sprawdzasz i wysyłasz w ciągu kilku sekund."
+      "answer": "Chiefy dowiaduje się, jak zazwyczaj radzisz sobie z e-mailami z warunkami – zasadami dotyczącymi anulowania zajęć, zmiany harmonogramu i warunkami, w jakich uczysz. Kiedy ktoś wysyła e-mail z pytaniem, czy jego lekcja się odbędzie, Chiefy przygotowuje odpowiedź odpowiadającą Twojemu zwykłemu tonowi i zasadom. Sprawdzasz i wysyłasz w ciągu kilku sekund."
     }
   ],
   "pricingNote": "W $90/lesson dwie zapisane rezerwacje płacą za ponad rok Pro."

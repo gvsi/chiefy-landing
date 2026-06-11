@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail dla jubilerów na zamówienie | AI Email Assistant",
-  "metaDescription": "Duet Mail pomaga jubilerom na zamówienie natychmiast odpowiadać na prośby o konsultacje, zatwierdzenia projektów i pytania dotyczące harmonogramu – nawet będąc przy stole warsztatowym. Odpowiedzi opracowane przez sztuczną inteligencję zawierające Twój proces, ceny i głos.",
+  "pageTitle": "Chiefy dla jubilerów na zamówienie | AI Email Assistant",
+  "metaDescription": "Chiefy pomaga jubilerom na zamówienie natychmiast odpowiadać na prośby o konsultacje, zatwierdzenia projektów i pytania dotyczące harmonogramu – nawet będąc przy stole warsztatowym. Odpowiedzi opracowane przez sztuczną inteligencję zawierające Twój proces, ceny i głos.",
   "heroBadge": "Zaufali mu projektanci biżuterii 300+",
   "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś na stanowisku",
-  "heroSubline": "Duet poznaje Twój proces projektowania, materiały, ceny i harmonogramy, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz niestandardowego klienta z powodu powolnej reakcji.",
+  "heroSubline": "Chiefy poznaje Twój proces projektowania, materiały, ceny i harmonogramy, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz niestandardowego klienta z powodu powolnej reakcji.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "element niestandardowy",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Jeden zaoszczędzony klient płaci za ponad cztery lata Duet."
+    "punchline": "Jeden zaoszczędzony klient płaci za ponad cztery lata Chiefy."
   },
-  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się nowe prośby o konsultacje, w drugiej kolejności zatwierdzenia projektów, a biuletyny dostawców nigdy. Koniec z pomijaniem zapytań $5,000 ukrytych pod promocjami dostawców.",
-  "draftSubtitle": "Duet poznaje Twój proces, materiały, ceny i głos. Kiedy wyślemy prośbę o konsultację, zostanie sporządzona pełna odpowiedź zawierająca Twoją dostępność, co zabrać ze sobą i jak działa Twój proces. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„Gdzie jesteśmy z pierścionkiem Amandy?” „Przygotuj aktualizację osi czasu dla Jamesa”. Duet zna każdy wątek klienta — wystarczy zapytać.",
+  "categorizationSubtitle": "Chiefy automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się nowe prośby o konsultacje, w drugiej kolejności zatwierdzenia projektów, a biuletyny dostawców nigdy. Koniec z pomijaniem zapytań $5,000 ukrytych pod promocjami dostawców.",
+  "draftSubtitle": "Chiefy poznaje Twój proces, materiały, ceny i głos. Kiedy wyślemy prośbę o konsultację, zostanie sporządzona pełna odpowiedź zawierająca Twoją dostępność, co zabrać ze sobą i jak działa Twój proces. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Gdzie jesteśmy z pierścionkiem Amandy?” „Przygotuj aktualizację osi czasu dla Jamesa”. Chiefy zna każdy wątek klienta — wystarczy zapytać.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Projektant biżuterii na zamówienie, Los Angeles",
-      "quote": "Każdy niestandardowy element generuje e-maile 10-15 przez tygodnie. Pomnóż to przez aktywnych klientów 8 i utonę. Duet opracowuje projekty odpowiedzi na aktualizacje projektu, potwierdzenia konsultacji, odpowiedzi na temat harmonogramu — wszystko moim głosem. Sprawdzam pomiędzy castingami i klikam „wyślij”.",
+      "quote": "Każdy niestandardowy element generuje e-maile 10-15 przez tygodnie. Pomnóż to przez aktywnych klientów 8 i utonę. Chiefy opracowuje projekty odpowiedzi na aktualizacje projektu, potwierdzenia konsultacji, odpowiedzi na temat harmonogramu — wszystko moim głosem. Sprawdzam pomiędzy castingami i klikam „wyślij”.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Właściciel Goldsmith & Studio, Brooklyn",
-      "quote": "Straciłem prowizję za pierścionek zaręczynowy $7,000, ponieważ na odpowiedź czekałem 3 dni — para poszła do kogoś, kto odpowiedział w ciągu 2 godzin. Od czasu Duet mój czas odpowiedzi wynosi mniej niż 30 minut. To się nie powtórzyło.",
+      "quote": "Straciłem prowizję za pierścionek zaręczynowy $7,000, ponieważ na odpowiedź czekałem 3 dni — para poszła do kogoś, kto odpowiedział w ciągu 2 godzin. Od czasu Chiefy mój czas odpowiedzi wynosi mniej niż 30 minut. To się nie powtórzyło.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Jubiler na ławce, Chicago",
-      "quote": "Siedzę na ławce 8 godzinami dziennie z pochodnią w dłoni. Nie mogę przerwać lutowania i napisać odpowiedzi w ramach konsultacji. Duet szkicuje wszystko, gdy ja pracuję — spoglądam na telefon, zatwierdzam i gotowe.",
+      "quote": "Siedzę na ławce 8 godzinami dziennie z pochodnią w dłoni. Nie mogę przerwać lutowania i napisać odpowiedzi w ramach konsultacji. Chiefy szkicuje wszystko, gdy ja pracuję — spoglądam na telefon, zatwierdzam i gotowe.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Projektant biżuterii ślubnej, Austin",
-      "quote": "W sezonie zaręczynowym co tydzień otrzymuję prośby o konsultację 20+. Duet poznał cały mój proces — materiały, harmonogramy, poziomy cenowe, co zabrać ze sobą. Tworzy projekty odpowiedzi, które ledwo muszę edytować. Absolutny ratunek od listopada do lutego.",
+      "quote": "W sezonie zaręczynowym co tydzień otrzymuję prośby o konsultację 20+. Chiefy poznał cały mój proces — materiały, harmonogramy, poziomy cenowe, co zabrać ze sobą. Tworzy projekty odpowiedzi, które ledwo muszę edytować. Absolutny ratunek od listopada do lutego.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Specjalista ds. pierścieni niestandardowych, Portland",
-      "quote": "E-maile z wersjami 3D zjadały mi wieczory. Klient przesyła opinię, ja przygotowuję wersję roboczą aktualizacji, tam i z powrotem pięć razy. Teraz Duet zajmuje się rutynowymi odpowiedziami, a ja wkraczam tylko w decyzje projektowe. Odzyskałem noce.",
+      "quote": "E-maile z wersjami 3D zjadały mi wieczory. Klient przesyła opinię, ja przygotowuję wersję roboczą aktualizacji, tam i z powrotem pięć razy. Teraz Chiefy zajmuje się rutynowymi odpowiedziami, a ja wkraczam tylko w decyzje projektowe. Odzyskałem noce.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Czy Duet może obsługiwać wiadomości e-mail zawierające zdjęcia referencyjne i załączniki do projektów?",
-      "answer": "Tak. Duet widzi cały wątek wiadomości e-mail, w tym załączniki, więc rozumie kontekst, gdy klient wysyła zdjęcia inspiracji lub opinie na temat projektu. Nie będzie opisywać obrazów, ale wie, że klient właśnie przesłał zdjęcia referencyjne i przygotowuje odpowiednią odpowiedź — potwierdzającą otrzymanie, zadając pytania wyjaśniające dotyczące projektu lub przedstawiając kolejne kroki w oparciu o zwykły przepływ pracy."
+      "question": "Czy Chiefy może obsługiwać wiadomości e-mail zawierające zdjęcia referencyjne i załączniki do projektów?",
+      "answer": "Tak. Chiefy widzi cały wątek wiadomości e-mail, w tym załączniki, więc rozumie kontekst, gdy klient wysyła zdjęcia inspiracji lub opinie na temat projektu. Nie będzie opisywać obrazów, ale wie, że klient właśnie przesłał zdjęcia referencyjne i przygotowuje odpowiednią odpowiedź — potwierdzającą otrzymanie, zadając pytania wyjaśniające dotyczące projektu lub przedstawiając kolejne kroki w oparciu o zwykły przepływ pracy."
     },
     {
-      "question": "Moje niestandardowe projekty mają długie wątki e-maili z wiadomościami 10+. Czy Duet może je śledzić?",
-      "answer": "Właśnie tam błyszczy Duet. Odczytuje całą historię wątku — notatki z konsultacji, zmiany w projekcie, wybory materiałów, aktualizacje osi czasu — dzięki czemu każda sporządzona odpowiedź ma pełny kontekst. Kiedy klient pyta: „Jaki jest status mojego pierścionka?” w e-mailu #14, Duet wie, który pierścień, na jakim jest etapie, i przygotowuje dokładną aktualizację. Koniec z ponownym czytaniem e-maili z 3 miesięcy."
+      "question": "Moje niestandardowe projekty mają długie wątki e-maili z wiadomościami 10+. Czy Chiefy może je śledzić?",
+      "answer": "Właśnie tam błyszczy Chiefy. Odczytuje całą historię wątku — notatki z konsultacji, zmiany w projekcie, wybory materiałów, aktualizacje osi czasu — dzięki czemu każda sporządzona odpowiedź ma pełny kontekst. Kiedy klient pyta: „Jaki jest status mojego pierścionka?” w e-mailu #14, Chiefy wie, który pierścień, na jakim jest etapie, i przygotowuje dokładną aktualizację. Koniec z ponownym czytaniem e-maili z 3 miesięcy."
     }
   ],
   "pricingNote": "W $5,000/piece jedna zaoszczędzona prowizja płaci przez ponad cztery lata Pro."

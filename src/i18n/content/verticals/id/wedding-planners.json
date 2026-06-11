@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail untuk Perencana Pernikahan |  AI Asisten Email",
-  "metaDescription": "Duet Mail membantu perencana pernikahan merespons email klien dan vendor secara instan — bahkan dari penelusuran lokasi.  AI - rancangan balasan dengan paket, kontak vendor, dan suara Anda.",
+  "pageTitle": "Chiefy untuk Perencana Pernikahan |  AI Asisten Email",
+  "metaDescription": "Chiefy membantu perencana pernikahan merespons email klien dan vendor secara instan — bahkan dari penelusuran lokasi.  AI - rancangan balasan dengan paket, kontak vendor, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 400+ perencana pernikahan",
   "heroHeadline": "Asisten email Anda saat Anda berada di lokasi",
-  "heroSubline": "Duet mempelajari kontak vendor, paket, dan preferensi klien Anda — lalu menyusun balasan email sehingga pasangan tidak perlu menunggu saat Anda berkoordinasi di lapangan.",
+  "heroSubline": "Chiefy mempelajari kontak vendor, paket, dan preferensi klien Anda — lalu menyusun balasan email sehingga pasangan tidak perlu menunggu saat Anda berkoordinasi di lapangan.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "wedding",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Satu klien yang disimpan membayar Duet selama lebih dari 20 tahun."
+    "punchline": "Satu klien yang disimpan membayar Chiefy selama lebih dari 20 tahun."
   },
-  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat pertanyaan pasangan baru terlebih dahulu, konfirmasi vendor kedua, dan tidak ada suara buletin. Tidak ada lagi permintaan pemesanan yang hilang yang terkubur di bawah peringatan Knot.",
-  "draftSubtitle": "Duet mempelajari paket Anda, vendor pilihan, dan nada. Ketika pasangan bertanya, mereka akan menyusun balasan yang hangat dan lengkap dengan ketersediaan Anda dan langkah selanjutnya. Anda meninjau dan mengirim.",
-  "agentSubtitle": "\"Email vendor apa yang masuk untuk pernikahan Thompson?\" \"Draf pembaruan garis waktu untuk semua vendor untuk hari Sabtu.\" Duet mengetahui inbox dan klien Anda — tanyakan saja.",
+  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat pertanyaan pasangan baru terlebih dahulu, konfirmasi vendor kedua, dan tidak ada suara buletin. Tidak ada lagi permintaan pemesanan yang hilang yang terkubur di bawah peringatan Knot.",
+  "draftSubtitle": "Chiefy mempelajari paket Anda, vendor pilihan, dan nada. Ketika pasangan bertanya, mereka akan menyusun balasan yang hangat dan lengkap dengan ketersediaan Anda dan langkah selanjutnya. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Email vendor apa yang masuk untuk pernikahan Thompson?\" \"Draf pembaruan garis waktu untuk semua vendor untuk hari Sabtu.\" Chiefy mengetahui inbox dan klien Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -133,25 +133,25 @@
     {
       "name": "michael t.",
       "title": "Perencana Pernikahan Layanan Lengkap, CA",
-      "quote": "Mengkoordinasikan 10+ vendor per pernikahan berarti inbox saya adalah zona perang selama musim puncak. Duet mengkategorikan email vendor secara terpisah dari email klien dan draf tindak lanjut yang saya tulis sendiri. Aku sebenarnya tidur sekarang.",
+      "quote": "Mengkoordinasikan 10+ vendor per pernikahan berarti inbox saya adalah zona perang selama musim puncak. Chiefy mengkategorikan email vendor secara terpisah dari email klien dan draf tindak lanjut yang saya tulis sendiri. Aku sebenarnya tidur sekarang.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Hari Koordinator, TX",
-      "quote": "Pada hari pernikahan saya tidak bisa hadir selama 14 jam berturut-turut. Pertanyaan-pertanyaan baru biasanya tidak terjawab hingga hari Senin. Sekarang Duet langsung menanganinya dan saya telah memesan 3 pernikahan tambahan pada kuartal ini hanya dari waktu respons yang lebih cepat.",
+      "quote": "Pada hari pernikahan saya tidak bisa hadir selama 14 jam berturut-turut. Pertanyaan-pertanyaan baru biasanya tidak terjawab hingga hari Senin. Sekarang Chiefy langsung menanganinya dan saya telah memesan 3 pernikahan tambahan pada kuartal ini hanya dari waktu respons yang lebih cepat.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Perencana Pernikahan Tujuan, HI",
-      "quote": "Pasangan saya terbang dari seluruh dunia dan mengirim email setiap saat. Duet mempelajari jawaban FAQ saya — logistik tempat, vendor lokal, apa yang diharapkan — dan draf balasan yang terdengar persis seperti saya. Klien tidak tahu.",
+      "quote": "Pasangan saya terbang dari seluruh dunia dan mengirim email setiap saat. Chiefy mempelajari jawaban FAQ saya — logistik tempat, vendor lokal, apa yang diharapkan — dan draf balasan yang terdengar persis seperti saya. Klien tidak tahu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Perencana Pernikahan & Acara, NY",
-      "quote": "Saya menghabiskan 2 jam setiap malam untuk menjawab pertanyaan paket dan ketersediaan yang sama. Duet menangani hal-hal yang berulang sehingga saya bisa fokus pada karya kreatif yang benar-benar saya sukai. Itu terbayar sendiri di minggu pertama.",
+      "quote": "Saya menghabiskan 2 jam setiap malam untuk menjawab pertanyaan paket dan ketersediaan yang sama. Chiefy menangani hal-hal yang berulang sehingga saya bisa fokus pada karya kreatif yang benar-benar saya sukai. Itu terbayar sendiri di minggu pertama.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Apakah Duet berfungsi dengan semua email koordinasi vendor?",
-      "answer": "Ya. Duet mempelajari kontak vendor Anda, vendor pilihan, dan cara Anda berkomunikasi dengan masing-masing vendor. Ini mengkategorikan email vendor berdasarkan pernikahan dan draf balasan dengan detail yang tepat — konfirmasi, tindak lanjut, pembaruan garis waktu. Anda meninjau dan mengirim. Ini menangani toko bunga, katering, venue, DJ, fotografer, dan vendor lain di rolodex Anda."
+      "question": "Apakah Chiefy berfungsi dengan semua email koordinasi vendor?",
+      "answer": "Ya. Chiefy mempelajari kontak vendor Anda, vendor pilihan, dan cara Anda berkomunikasi dengan masing-masing vendor. Ini mengkategorikan email vendor berdasarkan pernikahan dan draf balasan dengan detail yang tepat — konfirmasi, tindak lanjut, pembaruan garis waktu. Anda meninjau dan mengirim. Ini menangani toko bunga, katering, venue, DJ, fotografer, dan vendor lain di rolodex Anda."
     },
     {
       "question": "Saya berada di lokasi di pesta pernikahan dan tempat sepanjang hari. Apakah saya akan melewatkan pertanyaan baru?",
-      "answer": "Itulah yang dipecahkan oleh Duet. Ketika beberapa email menanyakan ketersediaan atau paket saat Anda berkoordinasi di tempat, Duet menyusun balasan yang hangat dan profesional dengan ketersediaan Anda yang sebenarnya dan langkah selanjutnya. Anda meninjau dan mengirim kapan pun Anda senggang — bahkan dari ponsel di sela-sela acara. Kebanyakan perencana mengatakan kepada kami bahwa ini menghemat waktu email mereka 1-2 jam per hari selama musim puncak."
+      "answer": "Itulah yang dipecahkan oleh Chiefy. Ketika beberapa email menanyakan ketersediaan atau paket saat Anda berkoordinasi di tempat, Chiefy menyusun balasan yang hangat dan profesional dengan ketersediaan Anda yang sebenarnya dan langkah selanjutnya. Anda meninjau dan mengirim kapan pun Anda senggang — bahkan dari ponsel di sela-sela acara. Kebanyakan perencana mengatakan kepada kami bahwa ini menghemat waktu email mereka 1-2 jam per hari selama musim puncak."
     }
   ],
   "pricingNote": "Dengan $8.000/pernikahan, satu klien yang disimpan membayar Pro selama lebih dari 20 tahun."

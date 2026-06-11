@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail pro vyjížďky na koni & Trail Guides | AI e-mailový asistent",
-  "metaDescription": "Duet Mail pomáhá provozovatelům trailových jízd okamžitě reagovat na rezervační e-maily – dokonce i ze sedla. Odpovědi navržené AI s vašimi cenami, požadavky na jezdce a hlasem.",
+  "pageTitle": "Chiefy pro vyjížďky na koni & Trail Guides | AI e-mailový asistent",
+  "metaDescription": "Chiefy pomáhá provozovatelům trailových jízd okamžitě reagovat na rezervační e-maily – dokonce i ze sedla. Odpovědi navržené AI s vašimi cenami, požadavky na jezdce a hlasem.",
   "heroBadge": "Důvěřuje více než 300 turistickým průvodcům",
   "heroHeadline": "Váš e-mailový asistent, když jste na cestě",
-  "heroSubline": "Duet se naučí vaše typy jízdy, ceny, požadavky na jezdce a podmínky stezky – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
+  "heroSubline": "Chiefy se naučí vaše typy jízdy, ceny, požadavky na jezdce a podmínky stezky – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "jízda",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Jedna ušetřená skupinová jízda platí přes dva roky Duet."
+    "punchline": "Jedna ušetřená skupinová jízda platí přes dva roky Chiefy."
   },
-  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první uvidíte požadavky na rezervaci, jako druhé otázky jezdce a nikdy nebudete slyšet. Už vám nebude chybět skupinový dotaz skrytý pod výstrahami TripAdvisor.",
-  "draftSubtitle": "Duet se naučí vaše typy jízdy, ceny a požadavky. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o trase, cenách a oblečení. Zkontrolujete a odešlete.",
-  "agentSubtitle": "\"O víkendu jsou otevřené nějaké jízdy?\" \"Navrhněte odpověď Jessice s dostupností v sobotu.\" Duet zná vaši doručenou poštu a kalendář – stačí se zeptat.",
+  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže jako první uvidíte požadavky na rezervaci, jako druhé otázky jezdce a nikdy nebudete slyšet. Už vám nebude chybět skupinový dotaz skrytý pod výstrahami TripAdvisor.",
+  "draftSubtitle": "Chiefy se naučí vaše typy jízdy, ceny a požadavky. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o trase, cenách a oblečení. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"O víkendu jsou otevřené nějaké jízdy?\" \"Navrhněte odpověď Jessice s dostupností v sobotu.\" Chiefy zná vaši doručenou poštu a kalendář – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Majitel ranče & Trail Guide, MT",
-      "quote": "Jsem na stopě 6 hodin denně bez mobilní služby. Než jsem se vrátil, abych odpověděl, polovina lidí si rezervovala někde jinde. Nyní Duet navrhuje odpovědi s mými cenami a podrobnostmi o jízdě – jen je zkontroluji a pošlu, až se vrátím do stodoly.",
+      "quote": "Jsem na stopě 6 hodin denně bez mobilní služby. Než jsem se vrátil, abych odpověděl, polovina lidí si rezervovala někde jinde. Nyní Chiefy navrhuje odpovědi s mými cenami a podrobnostmi o jízdě – jen je zkontroluji a pošlu, až se vrátím do stodoly.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Provozovatel zájezdů na koně, AZ",
-      "quote": "Dostáváme desítky e-mailů s dotazem na totéž – váhové limity, co nosit, věkové požadavky. Duet to všechno zvládá a odpovědi zní přesně jako já. Moji hosté netuší, že je to AI.",
+      "quote": "Dostáváme desítky e-mailů s dotazem na totéž – váhové limity, co nosit, věkové požadavky. Chiefy to všechno zvládá a odpovědi zní přesně jako já. Moji hosté netuší, že je to AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Vrchol sezóny mě zabíjel. 30+ e-mailů denně kromě běžeckých jízd. Duet třídí požadavky na rezervaci od hluku a návrhů odpovědí, které zahrnují vše – ceny, co přinést, množství. Vrátily se mi večery.",
+      "quote": "Vrchol sezóny mě zabíjel. 30+ e-mailů denně kromě běžeckých jízd. Chiefy třídí požadavky na rezervaci od hluku a návrhů odpovědí, které zahrnují vše – ceny, co přinést, množství. Vrátily se mi večery.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Jezdecký instruktor a manažer rezervace, TX",
-      "quote": "Pořádáme vyjížďky při západu slunce, ranní vyjížďky a soukromé lekce – každá s jinou cenou a požadavky. Duet se to všechno naučil za týden. Pokaždé navrhne správnou odpověď pro správný typ jízdy.",
+      "quote": "Pořádáme vyjížďky při západu slunce, ranní vyjížďky a soukromé lekce – každá s jinou cenou a požadavky. Chiefy se to všechno naučil za týden. Pokaždé navrhne správnou odpověď pro správný typ jízdy.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "Nejhorší byly citlivé e-maily – někdo se zeptal, zda jsou příliš těžké nebo zda je jejich dítě dost staré. Duet s nimi zachází se stejnou péčí jako já. Profesionální, milé a přesné. Už jen to stojí za to.",
+      "quote": "Nejhorší byly citlivé e-maily – někdo se zeptal, zda jsou příliš těžké nebo zda je jejich dítě dost staré. Chiefy s nimi zachází se stejnou péčí jako já. Profesionální, milé a přesné. Už jen to stojí za to.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Jak Duet řeší citlivé otázky ohledně hmotnosti nebo požadavků na zkušenosti?",
-      "answer": "Duet se naučí vaše specifické zásady a zrcadlí váš tón. Když se někdo zeptá na váhové limity nebo požadavky na zkušenosti, odpoví profesionálně a vřele – sdílí informace, které potřebuje, aniž by to bylo nepříjemné. Tón nastavíte jednou a Duet jej důsledně následuje, takže každý host se cítí respektován."
+      "question": "Jak Chiefy řeší citlivé otázky ohledně hmotnosti nebo požadavků na zkušenosti?",
+      "answer": "Chiefy se naučí vaše specifické zásady a zrcadlí váš tón. Když se někdo zeptá na váhové limity nebo požadavky na zkušenosti, odpoví profesionálně a vřele – sdílí informace, které potřebuje, aniž by to bylo nepříjemné. Tón nastavíte jednou a Chiefy jej důsledně následuje, takže každý host se cítí respektován."
     },
     {
-      "question": "Dokáže Duet zvládnout skupinové rezervace s různými potřebami jezdců?",
-      "answer": "Ano. Duet se naučí vaše typy jízdy, velikosti skupin, věková minima a jakékoli požadavky specifické pro jezdce. Když rodina nebo skupina pošle e-mail o rezervaci, navrhne odpověď, která zahrnuje ceny pro celou skupinu, to, co každý jezdec potřebuje vědět, a dostupné časové úseky. Zkontrolujete a odešlete – není potřeba nic tam a zpět."
+      "question": "Dokáže Chiefy zvládnout skupinové rezervace s různými potřebami jezdců?",
+      "answer": "Ano. Chiefy se naučí vaše typy jízdy, velikosti skupin, věková minima a jakékoli požadavky specifické pro jezdce. Když rodina nebo skupina pošle e-mail o rezervaci, navrhne odpověď, která zahrnuje ceny pro celou skupinu, to, co každý jezdec potřebuje vědět, a dostupné časové úseky. Zkontrolujete a odešlete – není potřeba nic tam a zpět."
     }
   ],
   "pricingNote": "U $100/person pro skupinu 6 platí jedna ušetřená jízda za více než dva roky Pro."

@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail za ATV & UTV Tours | AI Pomoćnik za e-poštu",
-  "metaDescription": "Duet Mail pomaže ATV i UTV turističkim vodičima da odmah odgovore na e-poruke o rezervacijama — čak i sa staze. AI nacrt odgovora sa vašim cenama, zahtevima i glasom.",
+  "pageTitle": "Chiefy za ATV & UTV Tours | AI Pomoćnik za e-poštu",
+  "metaDescription": "Chiefy pomaže ATV i UTV turističkim vodičima da odmah odgovore na e-poruke o rezervacijama — čak i sa staze. AI nacrt odgovora sa vašim cenama, zahtevima i glasom.",
   "heroBadge": "Ima poverenja od 200+ turističkih vodiča",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na tragu",
-  "heroSubline": "Duet uči vaše tipove obilazaka, cene i zahteve vozača — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju zbog sporog odgovora.",
+  "heroSubline": "Chiefy uči vaše tipove obilazaka, cene i zahteve vozača — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju zbog sporog odgovora.",
   "inboxEmails": [
     {
       "from": "Rejčel V.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grupa (4 mašine)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Jedna sačuvana grupna rezervacija plaća se za godinu dana od Duet."
+    "punchline": "Jedna sačuvana grupna rezervacija plaća se za godinu dana od Chiefy."
   },
-  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, drugo pitanja o osiguranju, a buku nikada. Nema više propuštanja grupnog upita zakopanog u obaveštenjima TripAdvisora.",
-  "draftSubtitle": "Duet uči vaše rute obilaska, cene i zahteve vozača. Kada dođe upit za rezervaciju, on sastavlja kompletan odgovor sa detaljima o putovanju, cenama i šta treba doneti. Pregledate i pošaljete.",
-  "agentSubtitle": "\"Da li su grupe rezervisane za ovaj vikend?\" „Nacrt odgovora Rejčel sa dostupnošću u subotu.“ Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, drugo pitanja o osiguranju, a buku nikada. Nema više propuštanja grupnog upita zakopanog u obaveštenjima TripAdvisora.",
+  "draftSubtitle": "Chiefy uči vaše rute obilaska, cene i zahteve vozača. Kada dođe upit za rezervaciju, on sastavlja kompletan odgovor sa detaljima o putovanju, cenama i šta treba doneti. Pregledate i pošaljete.",
+  "agentSubtitle": "\"Da li su grupe rezervisane za ovaj vikend?\" „Nacrt odgovora Rejčel sa dostupnošću u subotu.“ Chiefy zna vaše prijemno sanduče i raspored — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rejčel V.",
@@ -127,31 +127,31 @@
     {
       "name": "Majk D.",
       "title": "ATV vodič, Južna Juta",
-      "quote": "Vodim 8-časovne ture kroz kanjone sa nultom mobilnom službom. Dok sam se vratio, polovina mojih e-poruka o rezervacijama se ohladila. Duet sastavlja nacrte odgovora sa mojim cenama i informacijama o stazi — samo ih pregledam na kraju dana.",
+      "quote": "Vodim 8-časovne ture kroz kanjone sa nultom mobilnom službom. Dok sam se vratio, polovina mojih e-poruka o rezervacijama se ohladila. Chiefy sastavlja nacrte odgovora sa mojim cenama i informacijama o stazi — samo ih pregledam na kraju dana.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "Turoperator UTV, Kolorado",
-      "quote": "Vodimo obilaske 7 dana u nedelji, a sama pitanja osiguranja i odricanja su izjedala moja jutra. Duet sve to rešava — zahteve vozača, starosna ograničenja, šta da ponesete. Zvuči baš kao ja.",
+      "quote": "Vodimo obilaske 7 dana u nedelji, a sama pitanja osiguranja i odricanja su izjedala moja jutra. Chiefy sve to rešava — zahteve vozača, starosna ograničenja, šta da ponesete. Zvuči baš kao ja.",
       "avatarKey": "francesca"
     },
     {
       "name": "Džejk R.",
       "title": "Vodič za džip, Moav",
-      "quote": "Ljudi e-poštom pitaju koja staza je prava za njihovu grupu, koji nivo iskustva im je potreban, da li deca mogu da jašu. Istih 5 pitanja iznova i iznova. Duet zakucava svaki od njih.",
+      "quote": "Ljudi e-poštom pitaju koja staza je prava za njihovu grupu, koji nivo iskustva im je potreban, da li deca mogu da jašu. Istih 5 pitanja iznova i iznova. Chiefy zakucava svaki od njih.",
       "avatarKey": "Johnni"
     },
     {
       "name": "Nikol S.",
       "title": "Off-Road avanture, AZ",
-      "quote": "Svake noći sam provodio više od sat vremena odgovarajući na ista pitanja o dostupnosti. Sada Duet nacrta odgovora dok sam na tragu. Moje vreme odgovora je išlo od sati do minuta.",
+      "quote": "Svake noći sam provodio više od sat vremena odgovarajući na ista pitanja o dostupnosti. Sada Chiefy nacrta odgovora dok sam na tragu. Moje vreme odgovora je išlo od sati do minuta.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Famili ATV Tours, Sedona",
-      "quote": "Imamo mnogo porodica koje pitaju o stazama za početnike i zahtevima za uzrast. Duet je naučio sve naše opcije obilaska i preporučuje onu pravu u svakom odgovoru. Klijenti ne mogu razlikovati.",
+      "quote": "Imamo mnogo porodica koje pitaju o stazama za početnike i zahtevima za uzrast. Chiefy je naučio sve naše opcije obilaska i preporučuje onu pravu u svakom odgovoru. Klijenti ne mogu razlikovati.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Da li se Duet bavi pitanjima osiguranja i odricanja?",
-      "answer": "Da. Duet saznaje vaše zahteve za vozača — osiguranje od odgovornosti, starosna ograničenja, detalje o odricanju, šta vozači treba da ponesu. Kada neko pošalje e-poštu sa pitanjem šta mu treba pre obilaska, Duet sastavlja kompletan odgovor sa svim detaljima. Pregledate i dodirnete poslati."
+      "question": "Da li se Chiefy bavi pitanjima osiguranja i odricanja?",
+      "answer": "Da. Chiefy saznaje vaše zahteve za vozača — osiguranje od odgovornosti, starosna ograničenja, detalje o odricanju, šta vozači treba da ponesu. Kada neko pošalje e-poštu sa pitanjem šta mu treba pre obilaska, Chiefy sastavlja kompletan odgovor sa svim detaljima. Pregledate i dodirnete poslati."
     },
     {
-      "question": "Ceo dan sam na tragu bez mobilne usluge. Kako Duet pomaže?",
-      "answer": "Upravo zato vodiči vole Duet. Dok vodite obilazak od 6-8 sati bez signala, upiti za rezervaciju se gomilaju. Duet nacrti odgovara na svaki od njih — cene, dostupnost, lokacija sastanka, šta obući. Kada se vratite, pregledate nacrte i pošaljete ih. Većina vodiča nam kaže da im to štedi 1-2 sata e-pošte dnevno tokom špice sezone."
+      "question": "Ceo dan sam na tragu bez mobilne usluge. Kako Chiefy pomaže?",
+      "answer": "Upravo zato vodiči vole Chiefy. Dok vodite obilazak od 6-8 sati bez signala, upiti za rezervaciju se gomilaju. Chiefy nacrti odgovara na svaki od njih — cene, dostupnost, lokacija sastanka, šta obući. Kada se vratite, pregledate nacrte i pošaljete ih. Većina vodiča nam kaže da im to štedi 1-2 sata e-pošte dnevno tokom špice sezone."
     }
   ],
   "pricingNote": "Sa 200 USD po mašini, jedna ušteđena grupa od 4 osobe plaća više od godinu dana od Pro."

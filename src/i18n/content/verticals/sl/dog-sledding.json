@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail za izlete s pasjo vprego | AI e-poštni pomočnik",
-  "metaDescription": "Duet Mail pomaga vodnikom pasjih vpreg takoj odgovoriti na e-pošto o rezervacijah — tudi s poti. Osnutki odgovorov z umetno inteligenco z vašimi vrstami izletov, cenami, pravili in načinom pisanja.",
+  "pageTitle": "Chiefy za izlete s pasjo vprego | AI e-poštni pomočnik",
+  "metaDescription": "Chiefy pomaga vodnikom pasjih vpreg takoj odgovoriti na e-pošto o rezervacijah — tudi s poti. Osnutki odgovorov z umetno inteligenco z vašimi vrstami izletov, cenami, pravili in načinom pisanja.",
   "heroBadge": "Zaupa mu več kot 200 vodnikov pasjih vpreg",
   "heroHeadline": "Vaš e-poštni pomočnik, ko ste na poti",
-  "heroSubline": "Duet se nauči vaših vrst izletov, cen, vremenskih pravil in dodatkov — nato pripravlja osnutke e-poštnih odgovorov, da zaradi počasnega odziva ne izgubite nobene rezervacije.",
+  "heroSubline": "Chiefy se nauči vaših vrst izletov, cen, vremenskih pravil in dodatkov — nato pripravlja osnutke e-poštnih odgovorov, da zaradi počasnega odziva ne izgubite nobene rezervacije.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "izlet",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dve rešeni rezervaciji pokrijeta leto uporabe Duet."
+    "punchline": "Dve rešeni rezervaciji pokrijeta leto uporabe Chiefy."
   },
-  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato vprašanja, šuma pa nikoli. Nič več zgrešenih povpraševanj za izlete, zakopanih pod opozorili TripAdvisor.",
-  "draftSubtitle": "Duet se nauči vaših vrst izletov, cen in tona. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi paketa, tem, kaj obleči, in dodatki. Vi ga pregledate in pošljete.",
-  "agentSubtitle": "\"Kakšne rezervacije imamo ta konec tedna?\" \"Pripravi odgovor o paketu s polarnim sijem.\" Duet pozna vaš nabiralnik in urnik — samo vprašajte.",
+  "categorizationSubtitle": "Chiefy samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato vprašanja, šuma pa nikoli. Nič več zgrešenih povpraševanj za izlete, zakopanih pod opozorili TripAdvisor.",
+  "draftSubtitle": "Chiefy se nauči vaših vrst izletov, cen in tona. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi paketa, tem, kaj obleči, in dodatki. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Kakšne rezervacije imamo ta konec tedna?\" \"Pripravi odgovor o paketu s polarnim sijem.\" Chiefy pozna vaš nabiralnik in urnik — samo vprašajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Operater izletov s pasjo vprego, AK",
-      "quote": "Na poti sem 6 ur na dan brez signala. Ko bi se vrnil, bi polovica povpraševanj za rezervacijo že odšla drugam. Duet pripravlja odgovore z mojimi podrobnostmi izletov in cenami — gostje dobijo odgovor v minutah, ne urah.",
+      "quote": "Na poti sem 6 ur na dan brez signala. Ko bi se vrnil, bi polovica povpraševanj za rezervacijo že odšla drugam. Chiefy pripravlja odgovore z mojimi podrobnostmi izletov in cenami — gostje dobijo odgovor v minutah, ne urah.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Lastnica psarne in izletov s pasjo vprego, AK",
-      "quote": "Ponujamo obiske psarne, vožnje s pasjo vprego in pakete s polarnim sijem — vsako e-poštno sporočilo potrebuje drugačen odgovor. Duet je v enem tednu razumel vse tri vrste izletov in zdaj vedno pripravi odgovor za pravi paket.",
+      "quote": "Ponujamo obiske psarne, vožnje s pasjo vprego in pakete s polarnim sijem — vsako e-poštno sporočilo potrebuje drugačen odgovor. Chiefy je v enem tednu razumel vse tri vrste izletov in zdaj vedno pripravi odgovor za pravi paket.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Vodnik pasje vprege, MN",
-      "quote": "Vsak večer sem odgovarjal na ista vprašanja o tem, kaj obleči, starostnih omejitvah in psih. Duet poskrbi za vse. Ko se vrnem s poti, me osnutki že čakajo.",
+      "quote": "Vsak večer sem odgovarjal na ista vprašanja o tem, kaj obleči, starostnih omejitvah in psih. Chiefy poskrbi za vse. Ko se vrnem s poti, me osnutki že čakajo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Operaterka izletov s polarnim sijem in sanmi, AK",
-      "quote": "Vremenske odpovedi so pozimi stalnica. Duet pripravi odgovore za prestavitev z našimi pravili in nadomestnimi datumi, še preden sploh uspem pogledati telefon. Gostje obožujejo hiter odziv.",
+      "quote": "Vremenske odpovedi so pozimi stalnica. Chiefy pripravi odgovore za prestavitev z našimi pravili in nadomestnimi datumi, še preden sploh uspem pogledati telefon. Gostje obožujejo hiter odziv.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Družinske pustolovščine s pasjo vprego, CO",
-      "quote": "Starši vedno sprašujejo, ali lahko otroci sodelujejo pri vpregi, ali so psi prijazni, kaj naj oblečejo — istih 10 vprašanj. Duet se je naučil vsakega odgovora in jih pripravi odlično. Kot da bi podvojila sebe za e-pošto.",
+      "quote": "Starši vedno sprašujejo, ali lahko otroci sodelujejo pri vpregi, ali so psi prijazni, kaj naj oblečejo — istih 10 vprašanj. Chiefy se je naučil vsakega odgovora in jih pripravi odlično. Kot da bi podvojila sebe za e-pošto.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
   "verticalFaqs": [
     {
-      "question": "Kako Duet obravnava vremenske odpovedi in negotovost glede polarnega sija?",
-      "answer": "Duet se nauči vaših pravil odpovedi in prestavitve. Ko gost piše zaradi vremenskih skrbi ali vidljivosti polarnega sija, pripravi odgovor z vašimi pravili, nadomestnimi datumi in pomembnimi podrobnostmi — na primer da spremljate razmere in boste potrdili bližje izletu. Vi ga pregledate in pošljete."
+      "question": "Kako Chiefy obravnava vremenske odpovedi in negotovost glede polarnega sija?",
+      "answer": "Chiefy se nauči vaših pravil odpovedi in prestavitve. Ko gost piše zaradi vremenskih skrbi ali vidljivosti polarnega sija, pripravi odgovor z vašimi pravili, nadomestnimi datumi in pomembnimi podrobnostmi — na primer da spremljate razmere in boste potrdili bližje izletu. Vi ga pregledate in pošljete."
     },
     {
-      "question": "Ponujam več vrst izletov z različnimi cenami in dodatki. Jih lahko Duet loči?",
-      "answer": "Da. Duet se nauči vsake vaše vrste izleta — obiskov psarne, izkušenj s pasjo vprego, paketov s polarnim sijem, fotografskih dodatkov, prevoznih paketov — skupaj s cenami, trajanjem in tem, kaj je vključeno. Ko pride povpraševanje, izbere pravi izlet in pripravi odgovor s pravilnimi podrobnostmi."
+      "question": "Ponujam več vrst izletov z različnimi cenami in dodatki. Jih lahko Chiefy loči?",
+      "answer": "Da. Chiefy se nauči vsake vaše vrste izleta — obiskov psarne, izkušenj s pasjo vprego, paketov s polarnim sijem, fotografskih dodatkov, prevoznih paketov — skupaj s cenami, trajanjem in tem, kaj je vključeno. Ko pride povpraševanje, izbere pravi izlet in pripravi odgovor s pravilnimi podrobnostmi."
     }
   ],
   "pricingNote": "Pri $150/izlet dve rešeni rezervaciji pokrijeta več kot leto uporabe Pro."

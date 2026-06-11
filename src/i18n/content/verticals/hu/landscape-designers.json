@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail tájtervezőknek | AI e-mail asszisztens",
-  "metaDescription": "A Duet Mail segít a tájtervezőknek abban, hogy azonnal válaszoljanak az ügyfelek e-mailjeire – akár a helyszínről is. AI által összeállított válaszok a projekt részleteivel, árával és hangjával.",
+  "pageTitle": "Chiefy tájtervezőknek | AI e-mail asszisztens",
+  "metaDescription": "A Chiefy segít a tájtervezőknek abban, hogy azonnal válaszoljanak az ügyfelek e-mailjeire – akár a helyszínről is. AI által összeállított válaszok a projekt részleteivel, árával és hangjával.",
   "heroBadge": "Több mint 300 tájtervező megbízható",
   "heroHeadline": "Az Ön e-mail asszisztense a terepen",
-  "heroSubline": "A Duet megtanulja a projekt részleteit, az üzemi palettákat, az árakat és a folyamatot – majd e-mail-válaszokat készít, így soha nem veszíthet el ügyfelet a lassú válasz miatt.",
+  "heroSubline": "A Chiefy megtanulja a projekt részleteit, az üzemi palettákat, az árakat és a folyamatot – majd e-mail-válaszokat készít, így soha nem veszíthet el ügyfelet a lassú válasz miatt.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Egy megmentett projekt több éves Duetért fizet."
+    "punchline": "Egy megmentett projekt több éves Chiefyért fizet."
   },
-  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először az új konzultációs kéréseket, másodsorban az ügyfelek jóváhagyását látja, és soha a beszállítói zajt. Többé nem hiányzik a bölcsődei rendelés visszaigazolása alá temetett ólom.",
-  "draftSubtitle": "A Duet megtanulja az árképzést, a folyamatot és a hangnemet. Amikor megérkezik egy konzultációs kérés, a rendszer egy teljes választ vázol fel, amely tartalmazza az Ön elérhetőségét, mire számíthat és a következő lépéseket. Te átnézed és elküldöd.",
-  "agentSubtitle": "\"Mi a Henderson-projekt idővonala?\" \"Mely ügyfelek várnak a terv jóváhagyására?\" A Duet ismeri a postaládáját és a projektjeit – csak kérdezzen.",
+  "categorizationSubtitle": "A Chiefy minden e-mailt automatikusan megcímkéz, így először az új konzultációs kéréseket, másodsorban az ügyfelek jóváhagyását látja, és soha a beszállítói zajt. Többé nem hiányzik a bölcsődei rendelés visszaigazolása alá temetett ólom.",
+  "draftSubtitle": "A Chiefy megtanulja az árképzést, a folyamatot és a hangnemet. Amikor megérkezik egy konzultációs kérés, a rendszer egy teljes választ vázol fel, amely tartalmazza az Ön elérhetőségét, mire számíthat és a következő lépéseket. Te átnézed és elküldöd.",
+  "agentSubtitle": "\"Mi a Henderson-projekt idővonala?\" \"Mely ügyfelek várnak a terv jóváhagyására?\" A Chiefy ismeri a postaládáját és a projektjeit – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Tájépítész, Austin TX",
-      "quote": "Tavasszal napi 8 órában a helyszínen vagyok felmérésekkel és telepítési felügyelettel. Az új konzultációs kérések napokig telnek. Most a Duet perceken belül válaszol a folyamatommal és a rendelkezésre állásommal. Lefoglaltam 3 projektet, amit biztosan elvesztettem volna.",
+      "quote": "Tavasszal napi 8 órában a helyszínen vagyok felmérésekkel és telepítési felügyelettel. Az új konzultációs kérések napokig telnek. Most a Chiefy perceken belül válaszol a folyamatommal és a rendelkezésre állásommal. Lefoglaltam 3 projektet, amit biztosan elvesztettem volna.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Kerttervező, Portland VAGY",
-      "quote": "A hardscape személyzete, az öntözőszerelők és az ügyfelek közötti koordináció abszurd mennyiségű e-mailt generál. A Duet mindent rendez, és válaszokat készít, amelyek tartalmazzák a projekt megfelelő részleteit. Mintha egy stúdióvezető lenne.",
+      "quote": "A hardscape személyzete, az öntözőszerelők és az ügyfelek közötti koordináció abszurd mennyiségű e-mailt generál. A Chiefy mindent rendez, és válaszokat készít, amelyek tartalmazzák a projekt megfelelő részleteit. Mintha egy stúdióvezető lenne.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Tájtervező stúdió tulajdonosa, Denver CO",
-      "quote": "A terepmunka után minden estét e-mailekkel töltöttem. Ugyanazok a kérdések – árképzés, folyamat, idővonal. A Duet kezeli az egészet. A válaszidőm napról percre változott, és a bezárási arányom jóval feljebb.",
+      "quote": "A terepmunka után minden estét e-mailekkel töltöttem. Ugyanazok a kérdések – árképzés, folyamat, idővonal. A Chiefy kezeli az egészet. A válaszidőm napról percre változott, és a bezárási arányom jóval feljebb.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Lakossági tájtervező, Scottsdale AZ",
-      "quote": "Ügyfeleim rengeteg kérdést tesznek fel növényválasztással és karbantartással kapcsolatban. A Duet megtanulta a növénypalettáimat, a gondozási utasításaimat és a válaszok piszkozatait, amelyeket alig kell szerkesztenem. Az ügyfelek azt gondolják, hogy hihetetlenül érzékeny vagyok.",
+      "quote": "Ügyfeleim rengeteg kérdést tesznek fel növényválasztással és karbantartással kapcsolatban. A Chiefy megtanulta a növénypalettáimat, a gondozási utasításaimat és a válaszok piszkozatait, amelyeket alig kell szerkesztenem. Az ügyfelek azt gondolják, hogy hihetetlenül érzékeny vagyok.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "Új ügyfeleket vesztettem el, mert nem tudtam válaszolni, miközben térdig ültem egy ültetésben. A Duet konzultációs válaszokat készít a pontos folyamattal, árakkal és azzal, hogy mire számíthatok. Az első héten megtérült.",
+      "quote": "Új ügyfeleket vesztettem el, mert nem tudtam válaszolni, miközben térdig ültem egy ültetésben. A Chiefy konzultációs válaszokat készít a pontos folyamattal, árakkal és azzal, hogy mire számíthatok. Az első héten megtérült.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "A Duet bírja a tavaszi rohanást, amikor felgyűlnek a konzultációs kérések?",
-      "answer": "Pontosan ekkor ragyog a Duet. A legforgalmasabb szezonban minden új megkeresésre gyors, részletes választ kap a folyamatról, az idővonalról és a rendelkezésre állásról – még akkor is, ha egész nap a helyszínen tartózkodik. Nincs többé vesztes tavaszi vezetés, mert csak este 9-ig érhetsz vissza hozzájuk."
+      "question": "A Chiefy bírja a tavaszi rohanást, amikor felgyűlnek a konzultációs kérések?",
+      "answer": "Pontosan ekkor ragyog a Chiefy. A legforgalmasabb szezonban minden új megkeresésre gyors, részletes választ kap a folyamatról, az idővonalról és a rendelkezésre állásról – még akkor is, ha egész nap a helyszínen tartózkodik. Nincs többé vesztes tavaszi vezetés, mert csak este 9-ig érhetsz vissza hozzájuk."
     },
     {
-      "question": "Több kültéri személyzettel egyeztetek. A Duet segít ebben?",
-      "answer": "Igen. A Duet megismeri az Ön projektjeit és az érintett vállalkozókat – a kertészetet, az öntözést, az ültetőszemélyzetet, a faiskolákat. A vállalkozói e-maileket az ügyfelek e-mailjeitől elkülönítve kategorizálja, és a válaszokat projektspecifikus részletekkel, például specifikációkkal, idővonalakkal és anyagokkal vázolhatja. A beérkező levelek káosza nélkül minden csapat élén maradhat."
+      "question": "Több kültéri személyzettel egyeztetek. A Chiefy segít ebben?",
+      "answer": "Igen. A Chiefy megismeri az Ön projektjeit és az érintett vállalkozókat – a kertészetet, az öntözést, az ültetőszemélyzetet, a faiskolákat. A vállalkozói e-maileket az ügyfelek e-mailjeitől elkülönítve kategorizálja, és a válaszokat projektspecifikus részletekkel, például specifikációkkal, idővonalakkal és anyagokkal vázolhatja. A beérkező levelek káosza nélkül minden csapat élén maradhat."
     }
   ],
   "pricingNote": "8000 dollár/projekt áron egy megtakarított ügyfél évekig fizet Pro-ért."

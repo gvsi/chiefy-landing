@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail pentru designeri de interior | AI Asistent de e-mail",
-  "metaDescription": "Duet Mail îi ajută pe designerii de interior să gestioneze e-mailurile clienților, coordonarea contractanților și comenzile furnizorilor, chiar și de la șantier. Răspunsuri redactate de AI cu detaliile proiectului, preferințele și vocea ta.",
+  "pageTitle": "Chiefy pentru designeri de interior | AI Asistent de e-mail",
+  "metaDescription": "Chiefy îi ajută pe designerii de interior să gestioneze e-mailurile clienților, coordonarea contractanților și comenzile furnizorilor, chiar și de la șantier. Răspunsuri redactate de AI cu detaliile proiectului, preferințele și vocea ta.",
   "heroBadge": "Încrederea a peste 400 de designeri de interior",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești la fața locului cu clienții",
-  "heroSubline": "Duet învață contactele furnizorilor tăi, detaliile proiectului și preferințele clienților, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată un client din cauza unui răspuns lent.",
+  "heroSubline": "Chiefy învață contactele furnizorilor tăi, detaliile proiectului și preferințele clienților, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată un client din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "proiect",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Un client salvat plătește pentru ani de Duet."
+    "punchline": "Un client salvat plătește pentru ani de Chiefy."
   },
-  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi întrebările clienților noi, apoi aprobările în așteptare, iar buletinele informative ale furnizorilor niciodată. Nu mai lipsește o consultație de design îngropată sub promoțiile expoziționale.",
-  "draftSubtitle": "Duet îți învață procesul, detaliile proiectului și tonul. Când apare o nouă întrebare sau o întrebare a clientului, acesta redactează un răspuns complet cu disponibilitatea ta, pașii următori și detaliile proiectului. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Care este starea proiectului Henderson? „Ce aprobări sunt încă în așteptare?” Duet îți cunoaște căsuța de e-mail și fiecare fir de discuție al proiectului - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi întrebările clienților noi, apoi aprobările în așteptare, iar buletinele informative ale furnizorilor niciodată. Nu mai lipsește o consultație de design îngropată sub promoțiile expoziționale.",
+  "draftSubtitle": "Chiefy îți învață procesul, detaliile proiectului și tonul. Când apare o nouă întrebare sau o întrebare a clientului, acesta redactează un răspuns complet cu disponibilitatea ta, pașii următori și detaliile proiectului. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Care este starea proiectului Henderson? „Ce aprobări sunt încă în așteptare?” Chiefy îți cunoaște căsuța de e-mail și fiecare fir de discuție al proiectului - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Designer principal, Austin TX",
-      "quote": "Sunt la fața locului 6 ore pe zi coordonând pictori, electricieni și instalatori de gresie. Între timp, alți trei clienți trimit prin e-mail despre proiectele lor. Duet drafts răspund cu detaliile corecte ale proiectului — eu doar revizuiesc între vizitele la fața locului.",
+      "quote": "Sunt la fața locului 6 ore pe zi coordonând pictori, electricieni și instalatori de gresie. Între timp, alți trei clienți trimit prin e-mail despre proiectele lor. Chiefy drafts răspund cu detaliile corecte ale proiectului — eu doar revizuiesc între vizitele la fața locului.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Designer de interior rezidențial, Chicago",
-      "quote": "Întrebările clienților obișnuiau să stea zile întregi, deoarece eram îngropat în e-mailurile de achiziții și în programarea contractorilor. Acum Duet răspunde noilor clienți potențiali în câteva minute cu procesul și disponibilitatea mea. Am rezervat 4 proiecte suplimentare în acest trimestru.",
+      "quote": "Întrebările clienților obișnuiau să stea zile întregi, deoarece eram îngropat în e-mailurile de achiziții și în programarea contractorilor. Acum Chiefy răspunde noilor clienți potențiali în câteva minute cu procesul și disponibilitatea mea. Am rezervat 4 proiecte suplimentare în acest trimestru.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Proprietar studio de design, Nashville",
-      "quote": "Gestionarea e-mailurilor pentru 12 proiecte active mă ucidea. Duet clasifică totul – întrebări noi, aprobări în așteptare, comenzi ale furnizorilor, actualizări ale contractorilor – așa că știu exact ce necesită atenția mea mai întâi.",
+      "quote": "Gestionarea e-mailurilor pentru 12 proiecte active mă ucidea. Chiefy clasifică totul – întrebări noi, aprobări în așteptare, comenzi ale furnizorilor, actualizări ale contractorilor – așa că știu exact ce necesită atenția mea mai întâi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Decorator de interior, San Diego",
-      "quote": "Pierdeam clienți potențiali, deoarece nu puteam răspunde suficient de rapid în timpul săptămânilor de instalare. Duet a învățat procesul meu de consultare, structura prețurilor, chiar și cum îmi descriu stilul de design. Clienții nu au idee că este asistat de AI.",
+      "quote": "Pierdeam clienți potențiali, deoarece nu puteam răspunde suficient de rapid în timpul săptămânilor de instalare. Chiefy a învățat procesul meu de consultare, structura prețurilor, chiar și cum îmi descriu stilul de design. Clienții nu au idee că este asistat de AI.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Designer de interior comercial, Denver",
-      "quote": "Între timpii de livrare a furnizorilor, programul contractantului și cererile de revizuire ale clienților, căsuța mea de e-mail era haos. Duet le sortează pe toate și pregătește urmărirea aprobărilor în așteptare. Este ca și cum ai avea un coordonator de proiect care nu doarme niciodată.",
+      "quote": "Între timpii de livrare a furnizorilor, programul contractantului și cererile de revizuire ale clienților, căsuța mea de e-mail era haos. Chiefy le sortează pe toate și pregătește urmărirea aprobărilor în așteptare. Este ca și cum ai avea un coordonator de proiect care nu doarme niciodată.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Jonglez cu 8-10 proiecte deodată. Poate Duet să le țină drepte?",
-      "answer": "Da. Duet urmărește fiecare fir de e-mail pentru fiecare client și proiect. Când întrebi despre bucătăria Henderson sau biroul din Park Avenue, acesta extrage contextul din toate conversațiile conexe - comenzile furnizorilor, actualizările contractorilor, aprobările clienților - astfel încât răspunsurile tale să fie întotdeauna exacte și specifice proiectului. Fără confuzie ce plăci au fost pentru care client."
+      "question": "Jonglez cu 8-10 proiecte deodată. Poate Chiefy să le țină drepte?",
+      "answer": "Da. Chiefy urmărește fiecare fir de e-mail pentru fiecare client și proiect. Când întrebi despre bucătăria Henderson sau biroul din Park Avenue, acesta extrage contextul din toate conversațiile conexe - comenzile furnizorilor, actualizările contractorilor, aprobările clienților - astfel încât răspunsurile tale să fie întotdeauna exacte și specifice proiectului. Fără confuzie ce plăci au fost pentru care client."
     },
     {
-      "question": "Coordonez cu o mulțime de antreprenori și vânzători. Duet ajută la asta?",
-      "answer": "Absolut. Duet învață contactele contractanților tăi, reprezentanții furnizorilor și contextul rolului fiecărei afaceri în proiectele tale. Când electricianul tău trimite prin e-mail că s-a terminat, Duet poate redacta un răspuns care confirmă următorul pas sau include instalatorul de corpuri de iluminat. Menține fluxul de lucru în mișcare chiar și atunci când ești în oraș la un alt șantier."
+      "question": "Coordonez cu o mulțime de antreprenori și vânzători. Chiefy ajută la asta?",
+      "answer": "Absolut. Chiefy învață contactele contractanților tăi, reprezentanții furnizorilor și contextul rolului fiecărei afaceri în proiectele tale. Când electricianul tău trimite prin e-mail că s-a terminat, Chiefy poate redacta un răspuns care confirmă următorul pas sau include instalatorul de corpuri de iluminat. Menține fluxul de lucru în mișcare chiar și atunci când ești în oraș la un alt șantier."
     }
   ],
-  "pricingNote": "La 10.000 USD/proiect, un client salvat plătește pentru ani de Duet Pro."
+  "pricingNote": "La 10.000 USD/proiect, un client salvat plătește pentru ani de Chiefy Pro."
 }

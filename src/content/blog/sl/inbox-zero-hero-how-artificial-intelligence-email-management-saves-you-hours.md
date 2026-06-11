@@ -2,7 +2,7 @@
 title: "Junak Inbox Zero: kako AI-upravljanje e-pošte prihrani ure"
 description: "Nehajte se utapljati v e-pošti. Spoznajte, kako AI-orodja za upravljanje e-pošte avtomatizirajo razvrščanje, prioritete in osnutke."
 publishedAt: 2025-09-29
-author: "Ekipa Duet Mail"
+author: "Ekipa Chiefy"
 tags: ["AI", "Upravljanje nabiralnika", "E-pošta"]
 draft: false
 ---
@@ -59,7 +59,7 @@ Ocenjujejo različne dejavnike, med drugim:
 
 - **Analiza razpoloženja:** Nekatera orodja ocenijo čustveni ton, da prepoznajo potencialno kritične zadeve.
 
-Tu pridejo v igro funkcije AI-triaže, kot jih najdete v orodjih, kot je [Duet Mail](https://duetmail.com/sl), ki samodejno izpostavijo sporočila, ki zahtevajo dejanje ali odločitev, v osredotočeni nadzorni plošči. S prepoznavanjem in poudarjanjem sporočil visoke prioritete ti sistemi močno zmanjšajo čas razvrščanja in zmanjšajo tveganje, da bi spregledali kritične informacije.
+Tu pridejo v igro funkcije AI-triaže, kot jih najdete v orodjih, kot je [Chiefy](https://chiefy.com/sl), ki samodejno izpostavijo sporočila, ki zahtevajo dejanje ali odločitev, v osredotočeni nadzorni plošči. S prepoznavanjem in poudarjanjem sporočil visoke prioritete ti sistemi močno zmanjšajo čas razvrščanja in zmanjšajo tveganje, da bi spregledali kritične informacije.
 
 ### AI-osnutki: hitrost z avtentičnostjo
 
@@ -67,7 +67,7 @@ Gledate v prazno okno za odgovor? AI lahko pomaga. Številni e-poštni pomočnik
 
 Pogost pomislek pa je, da bi AI-ustvarjena e-pošta zvenela generično ali robotsko. Osnovni AI lahko res ustvari standardno besedilo, naprednejša orodja pa ta izziv rešujejo. Ključ je **personalizacija**. Dobri AI-pomočniki omogočajo prilagajanje tona (formalno, sproščeno, prijazno) in dolžine.
 
-Najboljša orodja gredo še dlje in se učijo vaših edinstvenih komunikacijskih vzorcev. [Duet Mail](https://duetmail.com/sl) na primer z avtentičnim pripravljanjem AI-osnutkov analizira vašo preteklo e-pošto, da ustvari odgovore, ki res zvenijo kot vi ter ujamejo vaše besedišče in slogovne odtenke. Ne pozabite: cilj ni zamenjati vašega glasu, ampak ga okrepiti. AI-osnutke pred pošiljanjem vedno preglejte in prilagodite, da dodate konkreten kontekst ali osebni poudarek.
+Najboljša orodja gredo še dlje in se učijo vaših edinstvenih komunikacijskih vzorcev. [Chiefy](https://chiefy.com/sl) na primer z avtentičnim pripravljanjem AI-osnutkov analizira vašo preteklo e-pošto, da ustvari odgovore, ki res zvenijo kot vi ter ujamejo vaše besedišče in slogovne odtenke. Ne pozabite: cilj ni zamenjati vašega glasu, ampak ga okrepiti. AI-osnutke pred pošiljanjem vedno preglejte in prilagodite, da dodate konkreten kontekst ali osebni poudarek.
 
 ### Ukrotitev dolgih niti z AI-povzemanjem
 
@@ -79,7 +79,7 @@ Obstajata dva glavna pristopa:
 
 - **Abstraktivno povzemanje:** Razume kontekst in ustvari *nove* stavke, ki prenesejo osrednji pomen, pogosto z bolj tekočimi povzetki.
 
-Ne glede na metodo je korist jasna: bistvo pogovora razumete v sekundah, ne minutah. [Gartnerjeva raziskava](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) je pokazala, da lahko AI-povzemanje poveča produktivnost uporabnikov do 32 %. AI-povzemanje, kot je funkcija pametnega povzemanja v [Duet Mail](https://duetmail.com/sl), hitro izlušči ključne točke in naloge, celo z ohranjanjem konteksta iz prejšnjih interakcij, ter vam prihrani dragocen čas branja.
+Ne glede na metodo je korist jasna: bistvo pogovora razumete v sekundah, ne minutah. [Gartnerjeva raziskava](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) je pokazala, da lahko AI-povzemanje poveča produktivnost uporabnikov do 32 %. AI-povzemanje, kot je funkcija pametnega povzemanja v [Chiefy](https://chiefy.com/sl), hitro izlušči ključne točke in naloge, celo z ohranjanjem konteksta iz prejšnjih interakcij, ter vam prihrani dragocen čas branja.
 
 
 AI-povzemanje strne dolge e-poštne niti v ključne točke in prihrani veliko časa pri branju.
