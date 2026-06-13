@@ -53,7 +53,7 @@ assertIncludes("astro.config.mjs", 'site: "https://chiefy.com"');
 assertIncludes("src/utils/constants.ts", 'APP_URL = "https://app.chiefy.com"');
 assertIncludes("src/utils/constants.ts", 'SUPPORT_EMAIL = "hello@chiefy.com"');
 assertIncludes("src/layouts/BaseLayout.astro", 'content="Chiefy"');
-assertIncludes("src/layouts/BaseLayout.astro", 'content="@chiefy"');
+assertIncludes("src/layouts/BaseLayout.astro", 'content="@ChiefyApp"');
 
 assertJsonValue("src/i18n/content/home/en.json", (home) => home.meta.title, "Chiefy | AI chief of staff for Gmail and Outlook");
 assertJsonValue("src/i18n/content/home/en.json", (home) => home.jsonLd.websiteName, "Chiefy");
