@@ -122,14 +122,43 @@
                     hasValue = true;
                 }
             }
+            var ref = params.get('ref');
+            if (ref) {
+                if (/^[a-z0-9]{4,16}$/.test(ref)) {
+                    collected.ref = ref;
+                    hasValue = true;
+                }
+                if (!collected.utm_source) {
+                    collected.utm_source = ref;
+                    hasValue = true;
+                }
+            }
             if (!hasValue) {
                 return {};
             }
             return sanitizeParams(collected);
         }
 
+        // Step 2: click beacon — fires before early-return so returning visitors are counted
+        try {
+            var beaconRef = new URLSearchParams(window.location.search || '').get('ref');
+            if (beaconRef && /^[a-z0-9]{4,16}$/.test(beaconRef) && navigator.sendBeacon) {
+                navigator.sendBeacon(
+                    'https://api.duetmail.com/referral/click',
+                    new Blob([JSON.stringify({ code: beaconRef })], { type: 'text/plain' })
+                );
+            }
+        } catch (error) {
+            /* analytics only — never break the page */
+        }
+
         var existingCookie = readCookie();
+        var urlRefValue = new URLSearchParams(window.location.search || '').get('ref');
         if (Object.keys(existingCookie).length > 0) {
+            if (urlRefValue && /^[a-z0-9]{4,16}$/.test(urlRefValue) && existingCookie.ref !== urlRefValue) {
+                existingCookie.ref = urlRefValue;
+                writeCookie(existingCookie);
+            }
             writeLocalStorage(existingCookie);
             return;
         }
