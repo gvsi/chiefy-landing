@@ -115,13 +115,6 @@
                     hasValue = true;
                 }
             }
-            if (!hasValue) {
-                var ref = params.get('ref');
-                if (ref) {
-                    collected.utm_source = ref;
-                    hasValue = true;
-                }
-            }
             var ref = params.get('ref');
             if (ref) {
                 if (/^[a-z0-9]{4,16}$/.test(ref)) {
