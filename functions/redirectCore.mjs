@@ -226,7 +226,17 @@ export function wrapResponseWithSecurityHeaders(response) {
     })
 }
 
+export function computeWwwToApexRedirect(request) {
+    const url = new URL(request.url)
+    if (!url.hostname.startsWith("www.")) return null
+    const target = new URL(request.url)
+    target.hostname = url.hostname.slice(4)
+    return target.toString()
+}
+
 export async function handleLandingRequest(request, next) {
+    const wwwLocation = computeWwwToApexRedirect(request)
+    if (wwwLocation) return redirectResponse(wwwLocation)
     const redirectLocation = computeCanonicalRedirect(request)
     if (redirectLocation) return redirectResponse(redirectLocation)
     return wrapResponseWithSecurityHeaders(await next())
