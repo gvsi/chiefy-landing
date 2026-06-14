@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Chiefy per a planificadors de casaments | AI Assistent de correu electrònic",
-  "metaDescription": "Chiefy ajuda els planificadors de casaments a respondre als correus electrònics de clients i venedors a l'instant, fins i tot des de les visites guiades del lloc. Respostes redactades per AI amb els vostres paquets, contactes de proveïdors i veu.",
+  "pageTitle": "Duet Mail per a planificadors de casaments | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els planificadors de casaments a respondre als correus electrònics de clients i venedors a l'instant, fins i tot des de les visites guiades del lloc. Respostes redactades per AI amb els vostres paquets, contactes de proveïdors i veu.",
   "heroBadge": "Més de 400 organitzadors de casaments confiats",
   "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al lloc del lloc",
-  "heroSubline": "Chiefy coneix els contactes del proveïdor, els paquets i les preferències del client; després redacta esborranys de respostes per correu electrònic perquè les parelles no esperin mai mentre esteu coordinant-vos sobre el terreny.",
+  "heroSubline": "Duet coneix els contactes del proveïdor, els paquets i les preferències del client; després redacta esborranys de respostes per correu electrònic perquè les parelles no esperin mai mentre esteu coordinant-vos sobre el terreny.",
   "inboxEmails": [
     {
       "from": "Emily i James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "casament",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Un client guardat paga més de 20 anys de Chiefy."
+    "punchline": "Un client guardat paga més de 20 anys de Duet."
   },
-  "categorizationSubtitle": "Chiefy etiqueta automàticament tots els correus electrònics perquè vegeu primer les consultes de parelles noves, les confirmacions de proveïdors en segon lloc i el soroll del butlletí mai. Ja no et perdis una sol·licitud de reserva soterrada sota les alertes de nus.",
-  "draftSubtitle": "Chiefy coneix els vostres paquets, els venedors preferits i el to. Quan una parella pregunta, redacta una resposta càlida i completa amb la vostra disponibilitat i els passos següents. Tu revisa i envia.",
-  "agentSubtitle": "\"Quins correus electrònics de proveïdors van rebre per al casament de Thompson?\" \"Esborra una actualització de la cronologia per a tots els venedors per dissabte\". Chiefy coneix la vostra safata d'entrada i els vostres clients; només cal que pregunteu.",
+  "categorizationSubtitle": "Duet etiqueta automàticament tots els correus electrònics perquè vegeu primer les consultes de parelles noves, les confirmacions de proveïdors en segon lloc i el soroll del butlletí mai. Ja no et perdis una sol·licitud de reserva soterrada sota les alertes de nus.",
+  "draftSubtitle": "Duet coneix els vostres paquets, els venedors preferits i el to. Quan una parella pregunta, redacta una resposta càlida i completa amb la vostra disponibilitat i els passos següents. Tu revisa i envia.",
+  "agentSubtitle": "\"Quins correus electrònics de proveïdors van rebre per al casament de Thompson?\" \"Esborra una actualització de la cronologia per a tots els venedors per dissabte\". Duet coneix la vostra safata d'entrada i els vostres clients; només cal que pregunteu.",
   "categorizationEmails": [
     {
       "from": "Emily i James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "Estic a llocs de muntanya amb servei cel·lular zero la meitat de la setmana. Mentrestant, les parelles m'envien un correu electrònic sobre els terminis i les preguntes dels proveïdors. Chiefy redacta les respostes amb els meus paquets i el meu to exactes: els reviso quan torno a l'abast.",
+      "quote": "Estic a llocs de muntanya amb servei cel·lular zero la meitat de la setmana. Mentrestant, les parelles m'envien un correu electrònic sobre els terminis i les preguntes dels proveïdors. Duet redacta les respostes amb els meus paquets i el meu to exactes: els reviso quan torno a l'abast.",
       "avatarKey": "francesca"
     },
     {
       "name": "Miquel T.",
       "title": "Planificador de bodes de servei complet, CA",
-      "quote": "La coordinació de més de 10 venedors per casament significa que la meva safata d'entrada és una zona de guerra durant la temporada alta. Chiefy classifica els correus electrònics dels proveïdors per separat dels correus electrònics dels clients i els esborranys de seguiment que hauria escrit jo mateix. De fet dormo ara.",
+      "quote": "La coordinació de més de 10 venedors per casament significa que la meva safata d'entrada és una zona de guerra durant la temporada alta. Duet classifica els correus electrònics dels proveïdors per separat dels correus electrònics dels clients i els esborranys de seguiment que hauria escrit jo mateix. De fet dormo ara.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Dia del coordinador, TX",
-      "quote": "Els dies del casament no estic disponible durant 14 hores seguides. Les noves consultes solien quedar sense resposta fins dilluns. Ara Chiefy els gestiona a l'instant i he reservat 3 casaments addicionals aquest trimestre només amb temps de resposta més ràpids.",
+      "quote": "Els dies del casament no estic disponible durant 14 hores seguides. Les noves consultes solien quedar sense resposta fins dilluns. Ara Duet els gestiona a l'instant i he reservat 3 casaments addicionals aquest trimestre només amb temps de resposta més ràpids.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "Les meves parelles volen des d'arreu del món i envien correu electrònic a tota hora. Chiefy va saber les meves respostes de preguntes freqüents (logística del lloc, venedors locals, què esperar) i esborranys de respostes que sonen exactament com jo. Els clients no en tenen ni idea.",
+      "quote": "Les meves parelles volen des d'arreu del món i envien correu electrònic a tota hora. Duet va saber les meves respostes de preguntes freqüents (logística del lloc, venedors locals, què esperar) i esborranys de respostes que sonen exactament com jo. Els clients no en tenen ni idea.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Planificador de casaments i esdeveniments, Nova York",
-      "quote": "Vaig passar 2 hores cada nit responent el mateix paquet i preguntes de disponibilitat. Chiefy gestiona les coses repetitives perquè em pugui centrar en el treball creatiu que realment m'agrada. Es va pagar per si mateix la primera setmana.",
+      "quote": "Vaig passar 2 hores cada nit responent el mateix paquet i preguntes de disponibilitat. Duet gestiona les coses repetitives perquè em pugui centrar en el treball creatiu que realment m'agrada. Es va pagar per si mateix la primera setmana.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Chiefy funciona amb tots els correus electrònics de coordinació de proveïdors?",
-      "answer": "Sí. Chiefy coneix els contactes dels vostres proveïdors, els venedors preferits i com us comuniqueu amb cadascun. Classifica els correus electrònics dels proveïdors per casaments i redacta les respostes amb els detalls adequats: confirmacions, seguiments, actualitzacions de cronologia. Tu revisa i envia. S'encarrega de floristes, càterings, locals, DJs, fotògrafs i tots els altres venedors del vostre rolodex."
+      "question": "Duet funciona amb tots els correus electrònics de coordinació de proveïdors?",
+      "answer": "Sí. Duet coneix els contactes dels vostres proveïdors, els venedors preferits i com us comuniqueu amb cadascun. Classifica els correus electrònics dels proveïdors per casaments i redacta les respostes amb els detalls adequats: confirmacions, seguiments, actualitzacions de cronologia. Tu revisa i envia. S'encarrega de floristes, càterings, locals, DJs, fotògrafs i tots els altres venedors del vostre rolodex."
     },
     {
       "question": "Estic a casaments i llocs durant tot el dia. Em perdré noves consultes?",
-      "answer": "Això és exactament el que resol Chiefy. Quan un parell de correus electrònics pregunten sobre la disponibilitat o els paquets mentre us esteu coordinant al lloc, Chiefy redacta una resposta càlida i professional amb la vostra disponibilitat real i els passos següents. Revisa i envia sempre que siguis lliure, fins i tot des del telèfon entre esdeveniments. La majoria dels planificadors ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta."
+      "answer": "Això és exactament el que resol Duet. Quan un parell de correus electrònics pregunten sobre la disponibilitat o els paquets mentre us esteu coordinant al lloc, Duet redacta una resposta càlida i professional amb la vostra disponibilitat real i els passos següents. Revisa i envia sempre que siguis lliure, fins i tot des del telèfon entre esdeveniments. La majoria dels planificadors ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta."
     }
   ],
   "pricingNote": "Amb 8.000 dòlars per casament, un client guardat paga més de 20 anys de Pro."

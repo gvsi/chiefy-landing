@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy cho Nhà Thiết Kế Cảnh Quan | Trợ Lý Email AI",
-  "metaDescription": "Chiefy giúp các nhà thiết kế cảnh quan phản hồi email khách hàng ngay lập tức — ngay cả khi đang ở hiện trường. Trả lời được soạn thảo bằng AI với chi tiết dự án, giá cả và phong cách của bạn.",
+  "pageTitle": "Duet Mail cho Nhà Thiết Kế Cảnh Quan | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp các nhà thiết kế cảnh quan phản hồi email khách hàng ngay lập tức — ngay cả khi đang ở hiện trường. Trả lời được soạn thảo bằng AI với chi tiết dự án, giá cả và phong cách của bạn.",
   "heroBadge": "Được tin dùng bởi hơn 300 nhà thiết kế cảnh quan",
   "heroHeadline": "Trợ lý email của bạn khi bạn đang ở hiện trường",
-  "heroSubline": "Chiefy học các chi tiết dự án, bảng cây trồng, giá cả và quy trình của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
+  "heroSubline": "Duet học các chi tiết dự án, bảng cây trồng, giá cả và quy trình của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "dự án",
     "lostPerMonth": "1",
     "monthlyLoss": "8.000$",
-    "punchline": "Một dự án được giữ lại đủ trả tiền Chiefy nhiều năm."
+    "punchline": "Một dự án được giữ lại đủ trả tiền Duet nhiều năm."
   },
-  "categorizationSubtitle": "Chiefy tự động gắn thẻ mọi email để bạn thấy yêu cầu tư vấn mới trước, phê duyệt khách hàng sau, và không bao giờ bị làm phiền bởi các email nhà cung cấp. Không còn bỏ lỡ khách hàng tiềm năng bị chôn dưới các xác nhận đơn hàng vườn ươm.",
-  "draftSubtitle": "Chiefy học giá cả, quy trình và phong cách của bạn. Khi có yêu cầu tư vấn, nó soạn thảo trả lời đầy đủ với lịch trống, những gì cần biết và bước tiếp theo. Bạn chỉ việc xem lại và gửi.",
-  "agentSubtitle": "\"Dự án Henderson tiến độ thế nào?\" \"Khách nào đang chờ phê duyệt kế hoạch?\" Chiefy biết hộp thư và dự án của bạn — cứ hỏi thôi.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu tư vấn mới trước, phê duyệt khách hàng sau, và không bao giờ bị làm phiền bởi các email nhà cung cấp. Không còn bỏ lỡ khách hàng tiềm năng bị chôn dưới các xác nhận đơn hàng vườn ươm.",
+  "draftSubtitle": "Duet học giá cả, quy trình và phong cách của bạn. Khi có yêu cầu tư vấn, nó soạn thảo trả lời đầy đủ với lịch trống, những gì cần biết và bước tiếp theo. Bạn chỉ việc xem lại và gửi.",
+  "agentSubtitle": "\"Dự án Henderson tiến độ thế nào?\" \"Khách nào đang chờ phê duyệt kế hoạch?\" Duet biết hộp thư và dự án của bạn — cứ hỏi thôi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Kiến Trúc Sư Cảnh Quan, Austin TX",
-      "quote": "Mùa xuân tôi có mặt tại hiện trường 8 tiếng mỗi ngày để đánh giá và giám sát thi công. Yêu cầu tư vấn mới thường bị bỏ qua vài ngày. Giờ Chiefy trả lời với quy trình và lịch trống của tôi trong vài phút. Tôi đã đặt được 3 dự án mà chắc chắn đã mất nếu không có Chiefy.",
+      "quote": "Mùa xuân tôi có mặt tại hiện trường 8 tiếng mỗi ngày để đánh giá và giám sát thi công. Yêu cầu tư vấn mới thường bị bỏ qua vài ngày. Giờ Duet trả lời với quy trình và lịch trống của tôi trong vài phút. Tôi đã đặt được 3 dự án mà chắc chắn đã mất nếu không có Duet.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Nhà Thiết Kế Vườn, Portland OR",
-      "quote": "Phối hợp giữa đội thi công hardscape, lắp đặt tưới và khách hàng tạo ra lượng email khổng lồ. Chiefy phân loại tất cả và soạn trả lời có chi tiết dự án chính xác. Giống như có một quản lý studio.",
+      "quote": "Phối hợp giữa đội thi công hardscape, lắp đặt tưới và khách hàng tạo ra lượng email khổng lồ. Duet phân loại tất cả và soạn trả lời có chi tiết dự án chính xác. Giống như có một quản lý studio.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Chủ Studio Thiết Kế Cảnh Quan, Denver CO",
-      "quote": "Trước đây tôi dành mỗi tối sau công việc ngoài hiện trường để trả lời email. Câu hỏi lặp lại — giá, quy trình, tiến độ. Chiefy xử lý hết. Thời gian phản hồi của tôi giảm từ vài ngày xuống vài phút và tỷ lệ chốt dự án tăng đáng kể.",
+      "quote": "Trước đây tôi dành mỗi tối sau công việc ngoài hiện trường để trả lời email. Câu hỏi lặp lại — giá, quy trình, tiến độ. Duet xử lý hết. Thời gian phản hồi của tôi giảm từ vài ngày xuống vài phút và tỷ lệ chốt dự án tăng đáng kể.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Nhà Thiết Kế Cảnh Quan Nhà Ở, Scottsdale AZ",
-      "quote": "Khách hàng tôi hỏi rất nhiều về lựa chọn cây trồng và cách chăm sóc. Chiefy học bảng cây và hướng dẫn chăm sóc của tôi, soạn trả lời mà tôi hầu như không phải chỉnh sửa. Khách hàng nghĩ tôi rất nhanh nhạy.",
+      "quote": "Khách hàng tôi hỏi rất nhiều về lựa chọn cây trồng và cách chăm sóc. Duet học bảng cây và hướng dẫn chăm sóc của tôi, soạn trả lời mà tôi hầu như không phải chỉnh sửa. Khách hàng nghĩ tôi rất nhanh nhạy.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Nhà Thiết Kế Cảnh Quan Cây Bản Địa, Raleigh NC",
-      "quote": "Tôi mất khách mới vì không thể trả lời khi đang bận thi công trồng cây. Chiefy soạn trả lời tư vấn với quy trình, giá cả và những gì cần biết chính xác của tôi. Nó đã tự trả tiền trong tuần đầu tiên.",
+      "quote": "Tôi mất khách mới vì không thể trả lời khi đang bận thi công trồng cây. Duet soạn trả lời tư vấn với quy trình, giá cả và những gì cần biết chính xác của tôi. Nó đã tự trả tiền trong tuần đầu tiên.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Chiefy có xử lý được mùa cao điểm khi yêu cầu tư vấn dồn dập không?",
-      "answer": "Đó chính là lúc Chiefy phát huy. Trong mùa bận rộn nhất, mỗi yêu cầu mới đều được trả lời nhanh, chi tiết với quy trình, tiến độ và lịch trống của bạn — ngay cả khi bạn ở hiện trường cả ngày. Không còn mất khách mùa xuân vì không thể phản hồi đến 9 giờ tối."
+      "question": "Duet có xử lý được mùa cao điểm khi yêu cầu tư vấn dồn dập không?",
+      "answer": "Đó chính là lúc Duet phát huy. Trong mùa bận rộn nhất, mỗi yêu cầu mới đều được trả lời nhanh, chi tiết với quy trình, tiến độ và lịch trống của bạn — ngay cả khi bạn ở hiện trường cả ngày. Không còn mất khách mùa xuân vì không thể phản hồi đến 9 giờ tối."
     },
     {
-      "question": "Tôi phối hợp với nhiều đội ngoài trời. Chiefy có giúp được không?",
-      "answer": "Có. Chiefy học dự án và các nhà thầu liên quan — hardscape, lắp đặt tưới, đội trồng cây, vườn ươm. Nó phân loại email nhà thầu riêng biệt với email khách hàng, và có thể soạn trả lời với chi tiết dự án như thông số, tiến độ và vật liệu. Bạn kiểm soát được mọi đội mà không bị hỗn loạn hộp thư."
+      "question": "Tôi phối hợp với nhiều đội ngoài trời. Duet có giúp được không?",
+      "answer": "Có. Duet học dự án và các nhà thầu liên quan — hardscape, lắp đặt tưới, đội trồng cây, vườn ươm. Nó phân loại email nhà thầu riêng biệt với email khách hàng, và có thể soạn trả lời với chi tiết dự án như thông số, tiến độ và vật liệu. Bạn kiểm soát được mọi đội mà không bị hỗn loạn hộp thư."
     }
   ],
   "pricingNote": "Với 8.000$/dự án, một khách hàng được giữ lại đủ trả tiền Pro nhiều năm."

@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy 室内设计师 | AI 邮件助手",
-  "metaDescription": "Chiefy 帮助室内设计师管理客户电子邮件、承包商协调和供应商订单——甚至在工作现场也是如此。 AI-起草回复，其中包含您的项目详细信息、偏好和声音。",
+  "pageTitle": "Duet Mail 室内设计师 | AI 邮件助手",
+  "metaDescription": "Duet Mail 帮助室内设计师管理客户电子邮件、承包商协调和供应商订单——甚至在工作现场也是如此。 AI-起草回复，其中包含您的项目详细信息、偏好和声音。",
   "heroBadge": "受到 400 多名室内设计师的信赖",
   "heroHeadline": "当您在现场与客户交流时，您的电子邮件助手",
-  "heroSubline": "Chiefy 了解您的供应商联系方式、项目详细信息和客户偏好，然后起草电子邮件回复，这样您就不会因响应缓慢而失去客户。",
+  "heroSubline": "Duet 了解您的供应商联系方式、项目详细信息和客户偏好，然后起草电子邮件回复，这样您就不会因响应缓慢而失去客户。",
   "inboxEmails": [
     {
       "from": "雷切尔·T。",
@@ -49,11 +49,11 @@
     "bookingUnit": "项目",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "一位保存的客户支付 Chiefy 年的费用。"
+    "punchline": "一位保存的客户支付 Duet 年的费用。"
   },
-  "categorizationSubtitle": "Chiefy 自动标记每封电子邮件，以便您首先看到新客户询问，其次看到等待批准，而永远不会看到供应商新闻通讯。不再错过隐藏在贸易展览促销活动中的设计咨询。",
-  "draftSubtitle": "Chiefy 了解您的流程、项目细节和语气。当出现新的询问或客户问题时，它会起草一份完整的答复，其中包含您的空闲时间、后续步骤和项目细节。您审阅并发送。",
-  "agentSubtitle": "“亨德森项目进展如何？” “哪些审批仍在等待中？” Chiefy 了解您的收件箱和每个项目线程 - 只需询问即可。",
+  "categorizationSubtitle": "Duet 自动标记每封电子邮件，以便您首先看到新客户询问，其次看到等待批准，而永远不会看到供应商新闻通讯。不再错过隐藏在贸易展览促销活动中的设计咨询。",
+  "draftSubtitle": "Duet 了解您的流程、项目细节和语气。当出现新的询问或客户问题时，它会起草一份完整的答复，其中包含您的空闲时间、后续步骤和项目细节。您审阅并发送。",
+  "agentSubtitle": "“亨德森项目进展如何？” “哪些审批仍在等待中？” Duet 了解您的收件箱和每个项目线程 - 只需询问即可。",
   "categorizationEmails": [
     {
       "from": "雷切尔·T。",
@@ -127,31 +127,31 @@
     {
       "name": "迈克尔·R。",
       "title": "Principal Designer, Austin TX",
-      "quote": "我每天在现场工作 6 小时，协调油漆工、电工和瓷砖安装工。与此同时，另外三个客户正在通过电子邮件谈论他们的项目。 Chiefy 草拟包含正确项目详细信息的回复 - 我只是在现场访问之间进行审查。",
+      "quote": "我每天在现场工作 6 小时，协调油漆工、电工和瓷砖安装工。与此同时，另外三个客户正在通过电子邮件谈论他们的项目。 Duet 草拟包含正确项目详细信息的回复 - 我只是在现场访问之间进行审查。",
       "avatarKey": "michael"
     },
     {
       "name": "弗朗西斯卡·D.",
       "title": "住宅室内设计师，芝加哥",
-      "quote": "客户的询问过去常常需要等待好几天，因为我忙于采购电子邮件和承包商日程安排。现在，Chiefy 通过我的流程和可用性在几分钟内回复新的潜在客户。本季度我预订了 4 个额外项目。",
+      "quote": "客户的询问过去常常需要等待好几天，因为我忙于采购电子邮件和承包商日程安排。现在，Duet 通过我的流程和可用性在几分钟内回复新的潜在客户。本季度我预订了 4 个额外项目。",
       "avatarKey": "francesca"
     },
     {
       "name": "约翰尼·M.",
       "title": "设计工作室所有者，纳什维尔",
-      "quote": "管理 12 个进行中项目的电子邮件让我很累。Chiefy 会把所有内容分类——新咨询、待批准事项、供应商订单、承包商更新——这样我就能清楚知道什么最需要先处理。",
+      "quote": "管理 12 个进行中项目的电子邮件让我很累。Duet 会把所有内容分类——新咨询、待批准事项、供应商订单、承包商更新——这样我就能清楚知道什么最需要先处理。",
       "avatarKey": "johnny"
     },
     {
       "name": "詹妮弗·S。",
       "title": "室内装饰师，圣迭戈",
-      "quote": "在安装周期间，我因为回复不够快而失去潜在客户。Chiefy 学会了我的咨询流程、定价结构，甚至学会了我如何描述自己的设计风格。客户完全看不出这是 AI 辅助的。",
+      "quote": "在安装周期间，我因为回复不够快而失去潜在客户。Duet 学会了我的咨询流程、定价结构，甚至学会了我如何描述自己的设计风格。客户完全看不出这是 AI 辅助的。",
       "avatarKey": "jennifer"
     },
     {
       "name": "莎拉·K.",
       "title": "商业室内设计师，丹佛",
-      "quote": "在供应商交货时间、承包商时间表和客户修改请求之间，我的收件箱一片混乱。 Chiefy 对所有内容进行排序，并起草待批准的后续文件。这就像有一个从不睡觉的项目协调员。",
+      "quote": "在供应商交货时间、承包商时间表和客户修改请求之间，我的收件箱一片混乱。 Duet 对所有内容进行排序，并起草待批准的后续文件。这就像有一个从不睡觉的项目协调员。",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Chiefy能让它们保持直线吗？",
-      "answer": "是的。 Chiefy 跟踪每个客户和项目的每个电子邮件线程。 When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "I juggle 8-10 projects at once. Duet能让它们保持直线吗？",
+      "answer": "是的。 Duet 跟踪每个客户和项目的每个电子邮件线程。 When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
     },
     {
-      "question": "我与许多承包商和供应商进行协调。 Chiefy 有帮助吗？",
-      "answer": "绝对的。 Chiefy 了解您的承包商联系人、供应商代表以及每个行业在项目中的角色背景。当您的电工通过电子邮件告知初步完成后，Chiefy 可以起草回复，确认灯具安装程序中的下一步或循环。即使您跨越城镇到另一个工作地点，它也能保持工作流程顺利进行。"
+      "question": "我与许多承包商和供应商进行协调。 Duet 有帮助吗？",
+      "answer": "绝对的。 Duet 了解您的承包商联系人、供应商代表以及每个行业在项目中的角色背景。当您的电工通过电子邮件告知初步完成后，Duet 可以起草回复，确认灯具安装程序中的下一步或循环。即使您跨越城镇到另一个工作地点，它也能保持工作流程顺利进行。"
     }
   ],
-  "pricingNote": "在 $10,000/project 时，一位节省的客户支付 Chiefy Pro 年的费用。"
+  "pricingNote": "在 $10,000/project 时，一位节省的客户支付 Duet Pro 年的费用。"
 }

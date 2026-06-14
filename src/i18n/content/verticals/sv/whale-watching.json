@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy för valskådningsturer | AI-e-postassistent",
-  "metaDescription": "Chiefy hjälper valskådarkaptener att svara på bokningsmeddelanden direkt – även från vattnet. AI-utkastade svar med dina turnédetaljer, priser och röst.",
+  "pageTitle": "Duet Mail för valskådningsturer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper valskådarkaptener att svara på bokningsmeddelanden direkt – även från vattnet. AI-utkastade svar med dina turnédetaljer, priser och röst.",
   "heroBadge": "Betrodd av 300+ turnékaptener",
   "heroHeadline": "Din e-postassistent när du är ute och tittar på valar",
-  "heroSubline": "Chiefy lär sig ditt turnéschema, prissättning och röst – förbereder sedan e-postsvar så att du aldrig förlorar en bokning medan du är på vattnet.",
+  "heroSubline": "Duet lär sig ditt turnéschema, prissättning och röst – förbereder sedan e-postsvar så att du aldrig förlorar en bokning medan du är på vattnet.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "resegrupp",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "En sparad gruppbokning betalar för ett år av Chiefy."
+    "punchline": "En sparad gruppbokning betalar för ett år av Duet."
   },
-  "categorizationSubtitle": "Chiefy taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, kryssningsfartygs schema ändras i andra hand och buller aldrig. Saknar inte längre en privat charterförfrågan begravd under TripAdvisor-varningar.",
-  "draftSubtitle": "Chiefy lär sig dina turnétider, priser och policyer. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med tillgänglighet, vad som ingår och vad du ska ta med. Du granskar och skickar.",
-  "agentSubtitle": "\"Hur många platser finns kvar på lördagens morgonturné?\" \"Skapa ett svar till Rachel med tillgänglighet.\"Chiefy känner till din inkorg och schema — fråga bara.",
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, kryssningsfartygs schema ändras i andra hand och buller aldrig. Saknar inte längre en privat charterförfrågan begravd under TripAdvisor-varningar.",
+  "draftSubtitle": "Duet lär sig dina turnétider, priser och policyer. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med tillgänglighet, vad som ingår och vad du ska ta med. Du granskar och skickar.",
+  "agentSubtitle": "\"Hur många platser finns kvar på lördagens morgonturné?\" \"Skapa ett svar till Rachel med tillgänglighet.\"Duet känner till din inkorg och schema — fråga bara.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "Kryssningsfartygspassagerare behöver svar snabbt – de har bara 6 timmar i hamn. Jag brukade förlora privata charter eftersom jag var på vattnet när förfrågan kom in. Nu Chiefy utkast till svar med mina priser och upphämtningsuppgifter innan jag ens lägger till.",
+      "quote": "Kryssningsfartygspassagerare behöver svar snabbt – de har bara 6 timmar i hamn. Jag brukade förlora privata charter eftersom jag var på vattnet när förfrågan kom in. Nu Duet utkast till svar med mina priser och upphämtningsuppgifter innan jag ens lägger till.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria och Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Vi kör två turer om dagen under puckelsäsongen och mejlvolymen är overklig. \"Kommer vi att se valar?\" \"Vad ska jag ha på mig?\" \"Är morgondagen inställd?\"Chiefy hanterar de repetitiva frågorna och vi fokuserar på turerna.",
+      "quote": "Vi kör två turer om dagen under puckelsäsongen och mejlvolymen är overklig. \"Kommer vi att se valar?\" \"Vad ska jag ha på mig?\" \"Är morgondagen inställd?\"Duet hanterar de repetitiva frågorna och vi fokuserar på turerna.",
       "avatarKey": "francesca"
     },
     {
       "name": "Kapten Ben T.",
       "title": "Havsutflykter, HI",
-      "quote": "Jag svarade på samma 10 frågor varje kväll - prissättning, vad som ingår, sjösjuketips, åldersgränser för barn. Chiefy lärde sig allt under den första veckan. Min svarstid gick från 8 timmar till 8 minuter.",
+      "quote": "Jag svarade på samma 10 frågor varje kväll - prissättning, vad som ingår, sjösjuketips, åldersgränser för barn. Duet lärde sig allt under den första veckan. Min svarstid gick från 8 timmar till 8 minuter.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Bokningschef, Pacific NW",
-      "quote": "Väderavbokningar är värst — 30 personer behöver bokas om samtidigt och jag jonglerar med telefonsamtal. Chiefy gör utkast till personliga e-postmeddelanden om schemaläggning för varje gäst. Det som brukade ta mig 2 timmar tar 15 minuter nu.",
+      "quote": "Väderavbokningar är värst — 30 personer behöver bokas om samtidigt och jag jonglerar med telefonsamtal. Duet gör utkast till personliga e-postmeddelanden om schemaläggning för varje gäst. Det som brukade ta mig 2 timmar tar 15 minuter nu.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Vi är en tvåmansoperation — jag kapten, hon sköter logistiken. Under högsäsong spenderade hon 3 timmar per natt på e-post. Chiefy minska det till 30 minuter. Hon får faktiskt tillbaka sina kvällar nu.",
+      "quote": "Vi är en tvåmansoperation — jag kapten, hon sköter logistiken. Under högsäsong spenderade hon 3 timmar per natt på e-post. Duet minska det till 30 minuter. Hon får faktiskt tillbaka sina kvällar nu.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Hanterar Chiefy väderinställda väder och ändringar av kryssningsfartygs schema?",
-      "answer": "Ja. När du avbryter en turné på grund av väder eller ett kryssningsfartygs ankomsttid kan du berätta för Chiefy en gång och det utarbetar ett personligt omschema eller uppdaterar e-postmeddelanden för varje berörd gäst. Sluta kopiera och klistra in samma meddelande 30 gånger. Varje svar inkluderar gästens ursprungliga bokningsinformation och tillgängliga alternativ."
+      "question": "Hanterar Duet väderinställda väder och ändringar av kryssningsfartygs schema?",
+      "answer": "Ja. När du avbryter en turné på grund av väder eller ett kryssningsfartygs ankomsttid kan du berätta för Duet en gång och det utarbetar ett personligt omschema eller uppdaterar e-postmeddelanden för varje berörd gäst. Sluta kopiera och klistra in samma meddelande 30 gånger. Varje svar inkluderar gästens ursprungliga bokningsinformation och tillgängliga alternativ."
     },
     {
-      "question": "Vi får samma frågor hela tiden - \"kommer vi att se valar?\", \"vad ska jag ha på mig?\", \"är det okej för barn?\" Kan Chiefy hantera dessa?",
-      "answer": "Det är precis där Chiefy lyser. Den lär sig dina standardsvar – arter du vanligtvis ser, vad du ska ta med dig, ålderspolicyer, sjösjuketips, avgångstider – och utkast till kompletta svar direkt. Du granskar och skickar. De flesta kaptener säger till oss att 80 % av deras inkorg är samma 10 frågor, och Chiefy hanterar alla."
+      "question": "Vi får samma frågor hela tiden - \"kommer vi att se valar?\", \"vad ska jag ha på mig?\", \"är det okej för barn?\" Kan Duet hantera dessa?",
+      "answer": "Det är precis där Duet lyser. Den lär sig dina standardsvar – arter du vanligtvis ser, vad du ska ta med dig, ålderspolicyer, sjösjuketips, avgångstider – och utkast till kompletta svar direkt. Du granskar och skickar. De flesta kaptener säger till oss att 80 % av deras inkorg är samma 10 frågor, och Duet hanterar alla."
     }
   ],
   "pricingNote": "För $125/person betalar en sparad grupp på 6 för över ett år av Pro."

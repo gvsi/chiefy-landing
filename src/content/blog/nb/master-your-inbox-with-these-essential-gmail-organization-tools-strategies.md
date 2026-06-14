@@ -2,7 +2,7 @@
 title: "Få kontroll på innboksen med viktige Gmail-verktoy og strategier"
 description: "Lar Gmail-organisering, strategier som Inbox Zero og GTD, og hvordan AI-assistenter kan hjelpe deg med å mestre innboksen."
 publishedAt: 2025-09-01
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Innbokshandtering", "Verktoy"]
 draft: false
 ---
@@ -31,7 +31,7 @@ Getting Things Done handler om å flytte oppgaver ut av hodet og inn i et pålit
 
 Gmail gir deg byggesteinene, men ikke alltid prioriteringen. Du må fortsatt lese, tolke og bestemme hva som haster. Det er her AI-assistenter hjelper.
 
-[**Chiefy**](https://chiefy.com/nb) bruker AI Triage til å identifisere e-poster som krever handling, beslutning eller rask respons. Den kan også oppsummere lange tråder og skrive utkast, slik at organiseringen blir koblet til faktisk arbeid.
+[**Duet Mail**](https://duetmail.com/nb) bruker AI Triage til å identifisere e-poster som krever handling, beslutning eller rask respons. Den kan også oppsummere lange tråder og skrive utkast, slik at organiseringen blir koblet til faktisk arbeid.
 
 ## En enkel daglig rutine
 
@@ -52,4 +52,4 @@ Gmail gir deg byggesteinene, men ikke alltid prioriteringen. Du må fortsatt les
 
 God Gmail-organisering krever både struktur og prioritering. Etiketter, filtre og snooze hjelper deg med orden, mens AI kan hjelpe deg med å vite hva som faktisk betyr noe.
 
-For en mer fokusert Gmail-hverdag kan du kombinere egne rutiner med [**Chiefy**](https://chiefy.com/nb) for triage, oppsummering og smartere utkast.
+For en mer fokusert Gmail-hverdag kan du kombinere egne rutiner med [**Duet Mail**](https://duetmail.com/nb) for triage, oppsummering og smartere utkast.

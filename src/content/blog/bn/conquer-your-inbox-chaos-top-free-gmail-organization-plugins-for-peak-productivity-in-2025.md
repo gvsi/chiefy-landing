@@ -2,7 +2,7 @@
 title: "ইনবক্সের বিশৃঙ্খলা জয় করুন: 2025 সালে সর্বোচ্চ উৎপাদনশীলতার জন্য শীর্ষ ফ্রি Gmail organization plugins"
 description: "Gmail বিশৃঙ্খলায় ক্লান্ত? ইমেল overload সামলাতে, workflow সাজাতে এবং productivity বাড়াতে 2025 সালের শীর্ষ ফ্রি Gmail organization plugins দেখুন।"
 publishedAt: 2025-07-27
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "উৎপাদনশীলতা", "ইনবক্স ব্যবস্থাপনা"]
 draft: false
 ---
@@ -43,7 +43,7 @@ Labels, filters, stars, snooze, templates এবং multiple inboxes free এব
 
 ## AI assistant কোথায় ফিট করে?
 
-ফ্রি plugins সংগঠন করে, কিন্তু কোন email সত্যিই গুরুত্বপূর্ণ তা সবসময় বোঝে না। AI assistant context পড়ে triage, summary ও drafting করতে পারে। [Chiefy](https://chiefy.com/bn) জরুরি বার্তা সামনে আনা, দীর্ঘ thread সংক্ষেপ করা এবং আপনার voice অনুযায়ী খসড়া তৈরির জন্য তৈরি।
+ফ্রি plugins সংগঠন করে, কিন্তু কোন email সত্যিই গুরুত্বপূর্ণ তা সবসময় বোঝে না। AI assistant context পড়ে triage, summary ও drafting করতে পারে। [Duet Mail](https://duetmail.com/bn) জরুরি বার্তা সামনে আনা, দীর্ঘ thread সংক্ষেপ করা এবং আপনার voice অনুযায়ী খসড়া তৈরির জন্য তৈরি।
 
 ## ফ্রি plugin বেছে নেওয়ার checklist
 

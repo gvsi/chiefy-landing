@@ -2,7 +2,7 @@
 title: "HTML email footer-এর পূর্ণাঙ্গ গাইড: compliance, design ও উদাহরণ"
 description: "HTML email footer আয়ত্ত করুন: প্রয়োজনীয় উপাদান, design tips, legal compliance (CAN-SPAM, GDPR, CASL) এবং branding examples।"
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "ইমেল"]
 draft: false
 ---
@@ -81,7 +81,7 @@ footer ছোট হলেও তথ্যের গুরুত্ব আলা
 
 Footer একবার ঠিকভাবে বানিয়ে template হিসেবে সংরক্ষণ করুন। team-wide signature বা campaign template থাকলে brand consistency বজায় থাকে এবং প্রতিবার নতুন করে legal footer লিখতে হয় না।
 
-ইমেল workflow আরও দক্ষ করতে চাইলে [Chiefy](https://chiefy.com/bn) এর মতো AI-powered email productivity tool দেখতে পারেন। ইনবক্স triage, smart summaries এবং authentic drafting আপনাকে footer-এর মতো সূক্ষ্ম পেশাদার detail ঠিক রাখার জন্য আরও সময় ফিরিয়ে দিতে পারে।
+ইমেল workflow আরও দক্ষ করতে চাইলে [Duet Mail](https://duetmail.com/bn) এর মতো AI-powered email productivity tool দেখতে পারেন। ইনবক্স triage, smart summaries এবং authentic drafting আপনাকে footer-এর মতো সূক্ষ্ম পেশাদার detail ঠিক রাখার জন্য আরও সময় ফিরিয়ে দিতে পারে।
 
 ## শেষ কথা
 

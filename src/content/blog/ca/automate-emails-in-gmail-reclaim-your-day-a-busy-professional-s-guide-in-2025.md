@@ -2,7 +2,7 @@
 title: "Automatitzeu els correus electrònics a Gmail i recupereu el vostre dia: una guia per a professionals ocupats el 2025"
 description: "Deixa d'ofegar-te a la teva safata d'entrada! Obteniu informació sobre com automatitzar els correus electrònics a Gmail mitjançant funcions integrades, extensions i assistents AI per estalviar hores i augmentar la productivitat"
 publishedAt: 2025-11-16
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI","Gmail","Productivitat","Automatització"]
 draft: false
 ---
@@ -165,19 +165,19 @@ Els assistents AI aprofiten l'aprenentatge automàtic i el processament del llen
 ### AI-Powered Triage: Trobar el senyal al soroll
 
 
-Et sents aclaparat pel gran volum? El triatge AI actua com un assistent virtual, examinant la vostra safata d'entrada per trobar allò que realment requereix la vostra atenció. Mitjançant l'anàlisi de diversos senyals, aquestes eines classifiquen i prioritzen automàticament els missatges, allunyant els elements de baixa prioritat (com ara butlletins o notificacions) i destacant les sol·licituds urgents o les comunicacions importants. Eines com [Emilio](https://getemil.io/blog/ai-email-triage/) o el sistema descrit per [Mailmodo](https://www.mailmodo.com/guides/ai-email-triage/) són un exemple d'aquest enfocament. Aquí és on eines com [**Chiefy**](https://chiefy.com/) poden ser transformadores, utilitzant el seu AI Triage per analitzar la urgència i les accions necessàries, presentant-les en un tauler centrat perquè vegeu immediatament allò que requereix atenció, reduint dràsticament el temps de classificació.
+Et sents aclaparat pel gran volum? El triatge AI actua com un assistent virtual, examinant la vostra safata d'entrada per trobar allò que realment requereix la vostra atenció. Mitjançant l'anàlisi de diversos senyals, aquestes eines classifiquen i prioritzen automàticament els missatges, allunyant els elements de baixa prioritat (com ara butlletins o notificacions) i destacant les sol·licituds urgents o les comunicacions importants. Eines com [Emilio](https://getemil.io/blog/ai-email-triage/) o el sistema descrit per [Mailmodo](https://www.mailmodo.com/guides/ai-email-triage/) són un exemple d'aquest enfocament. Aquí és on eines com [**Duet Mail**](https://duetmail.com/) poden ser transformadores, utilitzant el seu AI Triage per analitzar la urgència i les accions necessàries, presentant-les en un tauler centrat perquè vegeu immediatament allò que requereix atenció, reduint dràsticament el temps de classificació.
 
 
 ### Resum intel·ligent: agafar fils llargs a l'instant
 
 
-Saltar a una llarga cadena de correu electrònic pot semblar un treball de detectiu. Les eines de resum AI llegeixen tot el fil i us proporcionen l'essència (decisions clau, preguntes pendents i elements d'acció) en qüestió de segons. Això estalvia un temps valuós que, d'una altra manera, gastaríeu rellegint l'historial. Eines líders com [Superhuman](https://superhuman.com/) i la pròpia [Gemini per a Gmail](https://workspace.google.com/solutions/ai/) de Google ofereixen aquesta capacitat. De la mateixa manera, **Chiefy** aprofita el resum intel·ligent amb consciència contextual, assegurant-vos no només obtenir el resum, sinó que també incorpori detalls rellevants d'interaccions anteriors o del context del projecte.
+Saltar a una llarga cadena de correu electrònic pot semblar un treball de detectiu. Les eines de resum AI llegeixen tot el fil i us proporcionen l'essència (decisions clau, preguntes pendents i elements d'acció) en qüestió de segons. Això estalvia un temps valuós que, d'una altra manera, gastaríeu rellegint l'historial. Eines líders com [Superhuman](https://superhuman.com/) i la pròpia [Gemini per a Gmail](https://workspace.google.com/solutions/ai/) de Google ofereixen aquesta capacitat. De la mateixa manera, **Duet Mail** aprofita el resum intel·ligent amb consciència contextual, assegurant-vos no només obtenir el resum, sinó que també incorpori detalls rellevants d'interaccions anteriors o del context del projecte.
 
 
 ### Redacció AI autèntica: respon més ràpid, sona com tu
 
 
-La redacció de respostes, especialment les rutinàries, consumeix hores. AI pot generar esborranys de respostes en funció del context del correu electrònic, sovint proporcionant diverses opcions. El repte clau és mantenir la teva veu autèntica. Els assistents avançats de AI es centren cada cop més a aprendre el vostre estil de comunicació únic, vocabulari i to dels vostres correus electrònics passats. Això vol dir que els esborranys que suggereixen se senten menys robòtics i més semblants a alguna cosa que realment escriuries. Aquesta capacitat és fonamental per a l'esborrany autèntic AI de **Chiefy**, que se centra específicament en aprendre *la teva* veu per generar respostes personalitzades i amb sons naturals ràpidament.
+La redacció de respostes, especialment les rutinàries, consumeix hores. AI pot generar esborranys de respostes en funció del context del correu electrònic, sovint proporcionant diverses opcions. El repte clau és mantenir la teva veu autèntica. Els assistents avançats de AI es centren cada cop més a aprendre el vostre estil de comunicació únic, vocabulari i to dels vostres correus electrònics passats. Això vol dir que els esborranys que suggereixen se senten menys robòtics i més semblants a alguna cosa que realment escriuries. Aquesta capacitat és fonamental per a l'esborrany autèntic AI de **Duet Mail**, que se centra específicament en aprendre *la teva* veu per generar respostes personalitzades i amb sons naturals ràpidament.
 
 
 L'espai de correu electrònic AI està evolucionant ràpidament, amb nombroses eines com [MailMaestro](https://www.maestrolabs.com/), [SaneBox](https://www.sanebox.com/) i altres que ofereixen diverses combinacions d'aquestes funcions intel·ligents, sovint integrades directament a Gmail mitjançant extensions o aplicacions separades.
@@ -237,4 +237,4 @@ L'objectiu no és només una safata d'entrada buida, sinó una jornada laboral m
 Recupereu el vostre temps i reduïu l'estrès del correu electrònic mitjançant una automatització eficaç.
 
 
-Preparat per conquistar la teva safata d'entrada? Proveu d'implementar filtres avui mateix, exploreu una extensió per a una necessitat específica o comproveu com un assistent de AI com [**Chiefy**](https://chiefy.com/) pot automatitzar de manera intel·ligent el triatge, el resum i l'esborrany per transformar el vostre flux de treball.
+Preparat per conquistar la teva safata d'entrada? Proveu d'implementar filtres avui mateix, exploreu una extensió per a una necessitat específica o comproveu com un assistent de AI com [**Duet Mail**](https://duetmail.com/) pot automatitzar de manera intel·ligent el triatge, el resum i l'esborrany per transformar el vostre flux de treball.

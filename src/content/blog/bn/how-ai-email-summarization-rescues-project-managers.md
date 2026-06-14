@@ -2,7 +2,7 @@
 title: "AI email summarization কীভাবে project manager-দের বাঁচায়"
 description: "ইমেলে ডুবে যাচ্ছেন? AI email summarization কীভাবে project manager-দের সময় বাঁচাতে, সিদ্ধান্ত ট্র্যাক করতে ও inbox chaos কমাতে সাহায্য করে।"
 publishedAt: 2025-09-21
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "ইমেল সংক্ষিপ্তকরণ", "ইনবক্স ব্যবস্থাপনা"]
 draft: false
 ---
@@ -47,9 +47,9 @@ Extractive summary মূল ইমেল থেকে গুরুত্বপ�
 
 কে কী করবে এবং কখন করবে তা summary থেকে task system-এ নেওয়া যায়।
 
-## Chiefy কীভাবে সাহায্য করে
+## Duet Mail কীভাবে সাহায্য করে
 
-[Chiefy](https://chiefy.com/bn) Smart Summarization-কে contextual awareness-এর সঙ্গে যুক্ত করে। এটি project ও relationship context মনে রেখে summary দেয়, AI Triage দিয়ে জরুরি বিষয় সামনে আনে এবং Authentic AI Drafting দিয়ে stakeholder follow-up খসড়া করতে সাহায্য করে।
+[Duet Mail](https://duetmail.com/bn) Smart Summarization-কে contextual awareness-এর সঙ্গে যুক্ত করে। এটি project ও relationship context মনে রেখে summary দেয়, AI Triage দিয়ে জরুরি বিষয় সামনে আনে এবং Authentic AI Drafting দিয়ে stakeholder follow-up খসড়া করতে সাহায্য করে।
 
 ## সতর্কতা
 

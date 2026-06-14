@@ -2,7 +2,7 @@
 title: "Mwongozo wa Mwisho wa Vijachini vya Barua Pepe vya HTML: Uzingatiaji, Usanifu & Mifano"
 description: "Vijachini vya barua pepe vya Master HTML: vipengele muhimu, vidokezo vya kubuni, kufuata sheria (CAN-SPAM, GDPR, CASL) na mifano ya chapa."
 publishedAt: 2026-01-05
-author: "Timu ya Chiefy"
+author: "Timu ya Duet Mail"
 tags: ["AI", "Barua pepe"]
 draft: false
 ---
@@ -123,4 +123,4 @@ kijachini chako cha barua pepe cha HTML kinaweza kuwa kitu cha mwisho kuona wapo
 
 Hujenga uaminifu, huimarisha chapa yako, huhakikisha utii, na hutoa uelekezaji wa manufaa kwa hadhira yako. Chukua muda mfupi kukagua kijachini chako cha sasa cha barua pepe. Je, inaendana? Je, ni wazi? Je, ni rahisi kutumia simu? Kufanya maboresho haya madogo kunaweza kuwa na athari kubwa kwa jinsi barua pepe zako—na chapa yako—zinachukuliwa.
 
-Je, unatafuta njia za kufanya usimamizi wako wa barua pepe kwa ujumla kuwa mzuri na wa kitaalamu zaidi? Zingatia kuchunguza zana zilizoundwa kwa ajili ya wataalamu wenye shughuli nyingi. Kwa mfano, kujifunza jinsi [Chiefy hurahisisha tija ya barua pepe](https://chiefy.com/sw) kwa kutumia vipengele vinavyoendeshwa na AI kunaweza kuongeza muda wa kuzingatia ukamilifu wa maelezo kama vile kijachini na kuhakikisha kuwa kila mawasiliano yanakuwakilisha vyema.
+Je, unatafuta njia za kufanya usimamizi wako wa barua pepe kwa ujumla kuwa mzuri na wa kitaalamu zaidi? Zingatia kuchunguza zana zilizoundwa kwa ajili ya wataalamu wenye shughuli nyingi. Kwa mfano, kujifunza jinsi [Duet Mail hurahisisha tija ya barua pepe](https://duetmail.com/sw) kwa kutumia vipengele vinavyoendeshwa na AI kunaweza kuongeza muda wa kuzingatia ukamilifu wa maelezo kama vile kijachini na kuhakikisha kuwa kila mawasiliano yanakuwakilisha vyema.

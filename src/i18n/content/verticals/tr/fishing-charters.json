@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy Balıkçılık Turları için | AI E-posta Asistanı",
-  "metaDescription": "Chiefy, balıkçılık turu kaptanlarının rezervasyon e-postalarına anında, hatta sudayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, politikalarınız ve ses tonunuzla birlikte gelir.",
+  "pageTitle": "Duet Mail Balıkçılık Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, balıkçılık turu kaptanlarının rezervasyon e-postalarına anında, hatta sudayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, politikalarınız ve ses tonunuzla birlikte gelir.",
   "heroBadge": "500'den fazla tekne kaptanı tarafından güvenilen",
   "heroHeadline": "Denizde olduğunuz süre boyunca e-posta asistanınız.",
-  "heroSubline": "Chiefy fiyatlandırmanızı, politikalarınızı ve ses tonunuzu öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
+  "heroSubline": "Duet fiyatlandırmanızı, politikalarınızı ve ses tonunuzu öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tüzük",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Kaydedilen tek bir rezervasyon, Chiefy'ın bir yıllık ücretini karşılar."
+    "punchline": "Kaydedilen tek bir rezervasyon, Duet'ın bir yıllık ücretini karşılar."
   },
-  "categorizationSubtitle": "Chiefy her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra soruları ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan bir seyahat sorgusunu kaçırma derdine son.",
-  "draftSubtitle": "Chiefy fiyatlandırmanızı, politikalarınızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, seyahat detayları, fiyatlandırma ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
-  "agentSubtitle": "\"Gelecek hafta hangi günler müsait?\" \"Sarah'ya müsaitlik durumunuzu belirten bir yanıt taslağı yazın.\" Chiefy gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra soruları ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan bir seyahat sorgusunu kaçırma derdine son.",
+  "draftSubtitle": "Duet fiyatlandırmanızı, politikalarınızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, seyahat detayları, fiyatlandırma ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Gelecek hafta hangi günler müsait?\" \"Sarah'ya müsaitlik durumunuzu belirten bir yanıt taslağı yazın.\" Duet gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Kaptan Mike D.",
       "title": "Açık Deniz Tekne Kiralama Kaptanı, FL",
-      "quote": "Yoğun sezonda, tekneden yeterince hızlı yanıt veremediğim için haftada 2-3 rezervasyon kaybediyordum. Chiefy fiyatlandırma ve gezi detaylarımla birlikte yanıt taslaklarını hazırlıyor; ben de balık avı arasında gönder tuşuna basıyorum.",
+      "quote": "Yoğun sezonda, tekneden yeterince hızlı yanıt veremediğim için haftada 2-3 rezervasyon kaybediyordum. Duet fiyatlandırma ve gezi detaylarımla birlikte yanıt taslaklarını hazırlıyor; ben de balık avı arasında gönder tuşuna basıyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah ve Tom K.",
       "title": "Aile Şirketi, Oregon",
-      "quote": "İki teknemiz var ve yaz aylarında e-posta trafiği inanılmaz derecede yoğun oluyor. Chiefy rezervasyon taleplerini diğerlerinden ayırıyor ve tam olarak bizim tarzımıza uygun yanıtlar hazırlıyor. Gerçekten oyunun kurallarını değiştiriyor.",
+      "quote": "İki teknemiz var ve yaz aylarında e-posta trafiği inanılmaz derecede yoğun oluyor. Duet rezervasyon taleplerini diğerlerinden ayırıyor ve tam olarak bizim tarzımıza uygun yanıtlar hazırlıyor. Gerçekten oyunun kurallarını değiştiriyor.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Kıyı Balıkçılığı Rehberi, Teksas",
-      "quote": "Her gece aynı müsaitlik sorularını yanıtlamak için bir saat harcıyordum. Şimdi Chiefy hallediyor. Yanıt sürem saatlerden dakikalara indi ve o zamandan beri hiçbir rezervasyon kaybetmedim.",
+      "quote": "Her gece aynı müsaitlik sorularını yanıtlamak için bir saat harcıyordum. Şimdi Duet hallediyor. Yanıt sürem saatlerden dakikalara indi ve o zamandan beri hiçbir rezervasyon kaybetmedim.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Kiralama Ofisi Müdürü, HI",
-      "quote": "4 kaptanın e-postalarını yönetmek tam zamanlı bir işti. Chiefy her şeyi kategorize ediyor ve doğru tekne, doğru fiyat, doğru kaptan ile yanıt taslakları hazırlıyor. Sanki bir tane daha ben varmış gibi.",
+      "quote": "4 kaptanın e-postalarını yönetmek tam zamanlı bir işti. Duet her şeyi kategorize ediyor ve doğru tekne, doğru fiyat, doğru kaptan ile yanıt taslakları hazırlıyor. Sanki bir tane daha ben varmış gibi.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Chiefy rezervasyon ve müsaitlik e-postaları için çalışıyor mu?",
-      "answer": "Kesinlikle. Chiefy seyahat türlerinizi, fiyatlandırmayı, müsaitliği ve politikalarınızı öğrenir. Bir rezervasyon talebi geldiğinde, doğru ayrıntılarla (fiyatlandırma, nelerin dahil olduğu, buluşma yeri, yanınızda getirmeniz gerekenler) eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönder düğmesine basarsınız."
+      "question": "Duet rezervasyon ve müsaitlik e-postaları için çalışıyor mu?",
+      "answer": "Kesinlikle. Duet seyahat türlerinizi, fiyatlandırmayı, müsaitliği ve politikalarınızı öğrenir. Bir rezervasyon talebi geldiğinde, doğru ayrıntılarla (fiyatlandırma, nelerin dahil olduğu, buluşma yeri, yanınızda getirmeniz gerekenler) eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönder düğmesine basarsınız."
     },
     {
-      "question": "Bütün gün sudayım. Telefonumdan Chiefy kullanabilir miyim?",
-      "answer": "Evet. Chiefy, Gmail ve Outlook ile birlikte çalışır, bu nedenle e-postanızın çalıştığı her yerde (telefonunuz dahil) çalışır. Taslaklar otomatik olarak görünür. Yakalamalar arasında, tek dokunuşla gözden geçirip gönderebilirsiniz. Çoğu kaptan, yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladıklarını söylüyor."
+      "question": "Bütün gün sudayım. Telefonumdan Duet kullanabilir miyim?",
+      "answer": "Evet. Duet, Gmail ve Outlook ile birlikte çalışır, bu nedenle e-postanızın çalıştığı her yerde (telefonunuz dahil) çalışır. Taslaklar otomatik olarak görünür. Yakalamalar arasında, tek dokunuşla gözden geçirip gönderebilirsiniz. Çoğu kaptan, yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladıklarını söylüyor."
     }
   ],
   "pricingNote": "$500/charter adresinde, kaydedilen tek bir rezervasyon Pro'in bir yıldan fazla süren ücretini karşılıyor."

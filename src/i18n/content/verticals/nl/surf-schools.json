@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy voor surfscholen en paddleboard-exploitanten | AI-e-mailassistent",
-  "metaDescription": "Chiefy helpt surfinstructeurs en paddleboard-exploitanten direct te reageren op boekings-e-mails - zelfs tijdens het lesgeven. Door AI opgestelde antwoorden met uw lestypen, prijzen en stem.",
+  "pageTitle": "Duet Mail voor surfscholen en paddleboard-exploitanten | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt surfinstructeurs en paddleboard-exploitanten direct te reageren op boekings-e-mails - zelfs tijdens het lesgeven. Door AI opgestelde antwoorden met uw lestypen, prijzen en stem.",
   "heroBadge": "Vertrouwd door meer dan 300 surfinstructeurs",
   "heroHeadline": "Uw e-mailassistent terwijl u lesgeeft op het water",
-  "heroSubline": "Chiefy leert uw lestypes, prijzen en voorwaarden kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
+  "heroSubline": "Duet leert uw lestypes, prijzen en voorwaarden kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "les",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Twee opgeslagen boekingen betalen een jaar lang Chiefy."
+    "punchline": "Twee opgeslagen boekingen betalen een jaar lang Duet."
   },
-  "categorizationSubtitle": "Chiefy tagt automatisch elke e-mail, zodat je eerst de lesboekingen ziet, daarna de vragen en nooit meer ruis. Nooit meer een schoolgroeponderzoek missen dat verborgen ligt onder Yelp-meldingen.",
-  "draftSubtitle": "Chiefy leert uw lestypes, groepsprijzen en toon kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met de beschikbaarheid, wat is inbegrepen en wat u moet meenemen. Je beoordeelt en verzendt.",
-  "agentSubtitle": "\"Zijn er groepsboekingen deze week?\" \"Stel een antwoord op aan de school met de beschikbaarheid.\"Chiefy kent uw inbox en planning — vraag het maar.",
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat je eerst de lesboekingen ziet, daarna de vragen en nooit meer ruis. Nooit meer een schoolgroeponderzoek missen dat verborgen ligt onder Yelp-meldingen.",
+  "draftSubtitle": "Duet leert uw lestypes, groepsprijzen en toon kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met de beschikbaarheid, wat is inbegrepen en wat u moet meenemen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Zijn er groepsboekingen deze week?\" \"Stel een antwoord op aan de school met de beschikbaarheid.\"Duet kent uw inbox en planning — vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Trainer Mike T.",
       "title": "Eigenaar van een surfschool, CA",
-      "quote": "Ik ben 6 uur per dag in het water en geef les. Tegen de tijd dat ik mijn e-mail checkte, was de helft van de boekingen naar iemand anders gegaan. Chiefy stelt nu antwoorden op met mijn prijzen en beschikbaarheid - ik bekijk ze gewoon tussen de sessies door.",
+      "quote": "Ik ben 6 uur per dag in het water en geef les. Tegen de tijd dat ik mijn e-mail checkte, was de helft van de boekingen naar iemand anders gegaan. Duet stelt nu antwoorden op met mijn prijzen en beschikbaarheid - ik bekijk ze gewoon tussen de sessies door.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Paddleboardlessen en verhuur, HI",
-      "quote": "We beheren lessen en boardverhuur vanuit dezelfde inbox. Chiefy ontdekte meteen het verschil: huurvragen krijgen huurantwoorden, lesaanvragen krijgen lesdetails. Het is alsof je een receptie hebt.",
+      "quote": "We beheren lessen en boardverhuur vanuit dezelfde inbox. Duet ontdekte meteen het verschil: huurvragen krijgen huurantwoorden, lesaanvragen krijgen lesdetails. Het is alsof je een receptie hebt.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Surfinstructeur, FL",
-      "quote": "Bij boekingen voor schoolgroepen moesten er vroeger tien e-mails heen en weer worden gestuurd. Chiefy stelt nu het eerste antwoord op met de groepstarieven, wat is inbegrepen en het toestemmingsformulier. Knipt de hele draad doormidden.",
+      "quote": "Bij boekingen voor schoolgroepen moesten er vroeger tien e-mails heen en weer worden gestuurd. Duet stelt nu het eerste antwoord op met de groepstarieven, wat is inbegrepen en het toestemmingsformulier. Knipt de hele draad doormidden.",
       "avatarKey": "johnny"
     },
     {
       "name": "Frans C.",
       "title": "SUP-tours en -lessen, OR",
-      "quote": "Het hoogseizoen was mijn dood: 30 e-mails per dag over de voorwaarden, prijzen en wat ik moest meenemen. Steeds dezelfde vijf vragen. Chiefy kan ze allemaal aan en ze klinken precies zoals ik.",
+      "quote": "Het hoogseizoen was mijn dood: 30 e-mails per dag over de voorwaarden, prijzen en wat ik moest meenemen. Steeds dezelfde vijf vragen. Duet kan ze allemaal aan en ze klinken precies zoals ik.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sara K.",
       "title": "Directeur surfkamp voor kinderen, SC",
-      "quote": "Ouders sturen de langste e-mails. Kampdata, allergieën, vaardigheidsniveaus, ophaaltijden. Chiefy stelt gedetailleerde antwoorden op die alles omvatten, dus ik typ geen paragrafen om 22.00 uur na een hele dag op het strand.",
+      "quote": "Ouders sturen de langste e-mails. Kampdata, allergieën, vaardigheidsniveaus, ophaaltijden. Duet stelt gedetailleerde antwoorden op die alles omvatten, dus ik typ geen paragrafen om 22.00 uur na een hele dag op het strand.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "Kan Chiefy verschillende lestypen en materiaalverhuur regelen?",
-      "answer": "Ja. Chiefy leert al uw aanbod kennen: privélessen, groepslessen, kinderkampen, boardverhuur, SUP-tochten. Wanneer er een aanvraag binnenkomt, wordt er een antwoord opgesteld met de juiste prijs, duur, wat is inbegrepen en wat u moet meenemen. Het weet dat een e-mail voor een schoolgroep andere gegevens nodig heeft dan een privélesboeking."
+      "question": "Kan Duet verschillende lestypen en materiaalverhuur regelen?",
+      "answer": "Ja. Duet leert al uw aanbod kennen: privélessen, groepslessen, kinderkampen, boardverhuur, SUP-tochten. Wanneer er een aanvraag binnenkomt, wordt er een antwoord opgesteld met de juiste prijs, duur, wat is inbegrepen en wat u moet meenemen. Het weet dat een e-mail voor een schoolgroep andere gegevens nodig heeft dan een privélesboeking."
     },
     {
       "question": "Hoe zit het met vragen over weer en omstandigheden?",
-      "answer": "Chiefy leert hoe u normaal gesproken omgaat met e-mails met voorwaarden: uw beleid inzake annuleringen, herschikking en onder welke voorwaarden u lesgeeft. Wanneer iemand een e-mail stuurt met de vraag of zijn of haar les doorgaat, stelt Chiefy een antwoord op dat overeenkomt met uw gebruikelijke toon en beleid. U bekijkt en verzendt binnen enkele seconden."
+      "answer": "Duet leert hoe u normaal gesproken omgaat met e-mails met voorwaarden: uw beleid inzake annuleringen, herschikking en onder welke voorwaarden u lesgeeft. Wanneer iemand een e-mail stuurt met de vraag of zijn of haar les doorgaat, stelt Duet een antwoord op dat overeenkomt met uw gebruikelijke toon en beleid. U bekijkt en verzendt binnen enkele seconden."
     }
   ],
   "pricingNote": "Voor $ 90/les betalen twee opgeslagen boekingen voor meer dan een jaar Pro."

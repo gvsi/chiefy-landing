@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy para sa Mga Custom na Alahas | AI Email Assistant",
-  "metaDescription": "Tinutulungan ng Chiefy ang mga custom na alahas na tumugon sa mga kahilingan sa konsultasyon, pag-apruba sa disenyo, at mga tanong sa timeline kaagad — kahit na nasa workbench. AI-drafted na mga tugon sa iyong proseso, pagpepresyo, at boses.",
+  "pageTitle": "Duet Mail para sa Mga Custom na Alahas | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga custom na alahas na tumugon sa mga kahilingan sa konsultasyon, pag-apruba sa disenyo, at mga tanong sa timeline kaagad — kahit na nasa workbench. AI-drafted na mga tugon sa iyong proseso, pagpepresyo, at boses.",
   "heroBadge": "Pinagkakatiwalaan ng 300+ na designer ng alahas",
   "heroHeadline": "Ang iyong email assistant habang nasa bench ka",
-  "heroSubline": "Natutunan ng Chiefy ang iyong proseso ng disenyo, mga materyales, pagpepresyo, at mga timeline — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng custom na kliyente sa isang mabagal na tugon.",
+  "heroSubline": "Natutunan ng Duet ang iyong proseso ng disenyo, mga materyales, pagpepresyo, at mga timeline — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng custom na kliyente sa isang mabagal na tugon.",
   "inboxEmails": [
     {
       "from": "Rachel at David T.",
@@ -49,7 +49,7 @@
     "bookingUnit": "pasadyang piraso",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Ang isang naka-save na kliyente ay nagbabayad para sa higit sa apat na taon ng Chiefy."
+    "punchline": "Ang isang naka-save na kliyente ay nagbabayad para sa higit sa apat na taon ng Duet."
   },
   "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga bagong kahilingan sa konsultasyon, pangalawa ang mga pag-apruba sa disenyo, at hindi kailanman ang mga newsletter ng vendor. Wala nang nawawalang $5,000 na pagtatanong na nakabaon sa ilalim ng mga promo ng supplier.",
   "draftSubtitle": "Natutunan ng duet ang iyong proseso, materyales, pagpepresyo, at boses. Kapag dumating ang isang kahilingan sa konsultasyon, nag-draft ito ng kumpletong tugon kasama ang iyong availability, kung ano ang dadalhin, at kung paano gumagana ang iyong proseso. I-review at ipadala mo.",
@@ -133,13 +133,13 @@
     {
       "name": "Sarah L.",
       "title": "Goldsmith at May-ari ng Studio, Brooklyn",
-      "quote": "Nawalan ako ng $7,000 engagement ring komisyon dahil tumagal ako ng 3 araw bago tumugon — pinuntahan ng mag-asawa ang isang taong sumagot sa loob ng 2 oras. Since Chiefy, wala pang 30 minutes ang response time ko. Hindi na iyon naulit.",
+      "quote": "Nawalan ako ng $7,000 engagement ring komisyon dahil tumagal ako ng 3 araw bago tumugon — pinuntahan ng mag-asawa ang isang taong sumagot sa loob ng 2 oras. Since Duet, wala pang 30 minutes ang response time ko. Hindi na iyon naulit.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Jeweller, Chicago",
-      "quote": "Ako ay nasa bangko 8 oras sa isang araw na may sulo sa aking kamay. Hindi ko mapigilan ang mid-solder para mag-type ng tugon sa konsultasyon. Chiefy draft lahat habang nagtatrabaho ako — sumulyap ako sa aking telepono, aprubahan, tapos na.",
+      "quote": "Ako ay nasa bangko 8 oras sa isang araw na may sulo sa aking kamay. Hindi ko mapigilan ang mid-solder para mag-type ng tugon sa konsultasyon. Duet draft lahat habang nagtatrabaho ako — sumulyap ako sa aking telepono, aprubahan, tapos na.",
       "avatarKey": "johnny"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Nina C.",
       "title": "Custom Ring Specialist, Portland",
-      "quote": "Kinakain ng mga 3D revision email ang aking mga gabi. Nagpapadala ang kliyente ng feedback, binabalangkas ko ang update, pabalik-balik ng limang beses. Ngayon, ang Chiefy ang humahawak sa mga nakagawiang tugon at pumapasok lang ako para sa mga desisyon sa disenyo. Binalikan ko ang mga gabi ko.",
+      "quote": "Kinakain ng mga 3D revision email ang aking mga gabi. Nagpapadala ang kliyente ng feedback, binabalangkas ko ang update, pabalik-balik ng limang beses. Ngayon, ang Duet ang humahawak sa mga nakagawiang tugon at pumapasok lang ako para sa mga desisyon sa disenyo. Binalikan ko ang mga gabi ko.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Magagawa ba ng Chiefy ang mga email na may mga reference na larawan at mga attachment ng disenyo?",
-      "answer": "Oo. Nakikita ng Chiefy ang buong thread ng email kasama ang mga attachment, kaya nauunawaan nito ang konteksto kapag nagpadala ang isang kliyente ng mga inspirasyong larawan o feedback sa disenyo. Hindi nito ilalarawan pabalik ang mga larawan, ngunit alam nitong nagpadala lang ang isang kliyente ng mga reference na larawan at nag-draft ng naaangkop na tugon — pagkumpirma ng resibo, pagtatanong ng mga paglilinaw tungkol sa disenyo, o pagbibigay ng mga susunod na hakbang batay sa iyong karaniwang daloy ng trabaho."
+      "question": "Magagawa ba ng Duet ang mga email na may mga reference na larawan at mga attachment ng disenyo?",
+      "answer": "Oo. Nakikita ng Duet ang buong thread ng email kasama ang mga attachment, kaya nauunawaan nito ang konteksto kapag nagpadala ang isang kliyente ng mga inspirasyong larawan o feedback sa disenyo. Hindi nito ilalarawan pabalik ang mga larawan, ngunit alam nitong nagpadala lang ang isang kliyente ng mga reference na larawan at nag-draft ng naaangkop na tugon — pagkumpirma ng resibo, pagtatanong ng mga paglilinaw tungkol sa disenyo, o pagbibigay ng mga susunod na hakbang batay sa iyong karaniwang daloy ng trabaho."
     },
     {
-      "question": "Ang aking mga custom na proyekto ay may mahabang email thread na may 10+ mensahe. Masusunod kaya ng Chiefy ang mga iyon?",
-      "answer": "Doon talaga kumikinang ang Chiefy. Binabasa nito ang buong kasaysayan ng thread — mga tala sa konsultasyon, mga pagbabago sa disenyo, mga pagpipilian sa materyal, mga update sa timeline — kaya ang bawat nakabalangkas na tugon ay may buong konteksto. Kapag tinanong ng isang kliyente 'ano ang status ng aking singsing?' sa email #14, alam ng Chiefy kung aling singsing, kung anong yugto ito, at nag-draft ng tumpak na update. Wala nang muling pagbabasa ng 3 buwan ng mga email sa iyong sarili."
+      "question": "Ang aking mga custom na proyekto ay may mahabang email thread na may 10+ mensahe. Masusunod kaya ng Duet ang mga iyon?",
+      "answer": "Doon talaga kumikinang ang Duet. Binabasa nito ang buong kasaysayan ng thread — mga tala sa konsultasyon, mga pagbabago sa disenyo, mga pagpipilian sa materyal, mga update sa timeline — kaya ang bawat nakabalangkas na tugon ay may buong konteksto. Kapag tinanong ng isang kliyente 'ano ang status ng aking singsing?' sa email #14, alam ng Duet kung aling singsing, kung anong yugto ito, at nag-draft ng tumpak na update. Wala nang muling pagbabasa ng 3 buwan ng mga email sa iyong sarili."
     }
   ],
   "pricingNote": "Sa $5,000/piraso, ang isang naka-save na komisyon ay nagbabayad para sa higit sa apat na taon ng Pro."

@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Chiefy for ATV- og UTV-turer | AI-e-postassistent",
-  "metaDescription": "Chiefy hjelper ATV- og UTV-turguider med å svare på bestillings-e-poster umiddelbart - selv fra stien. AI-utkast til svar med priser, krav og stemme.",
+  "pageTitle": "Duet Mail for ATV- og UTV-turer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper ATV- og UTV-turguider med å svare på bestillings-e-poster umiddelbart - selv fra stien. AI-utkast til svar med priser, krav og stemme.",
   "heroBadge": "Godkjent av 200+ reiseledere",
   "heroHeadline": "Din e-postassistent mens du er på sporet",
-  "heroSubline": "Chiefy lærer dine turtyper, priser og krav til ryttere – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
+  "heroSubline": "Duet lærer dine turtyper, priser og krav til ryttere – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "gruppe (4 maskiner)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "En lagret gruppebestilling betaler for et år med Chiefy."
+    "punchline": "En lagret gruppebestilling betaler for et år med Duet."
   },
-  "categorizationSubtitle": "Chiefy merker automatisk hver e-post slik at du ser bestillingsforespørsler først, forsikringsspørsmål dernest og aldri støy. Ikke mer mangler en gruppeforespørsel begravet under TripAdvisor-varsler.",
-  "draftSubtitle": "Chiefy lærer turrutene dine, priser og rytterkrav. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med reisedetaljer, priser og hva du skal ta med. Du anmelder og sender.",
-  "agentSubtitle": "\"Noen grupper som er bestilt denne helgen?\" \"Sett utkast til et svar til Rachel med tilgjengelighet på lørdag.\" Chiefy kjenner innboksen og timeplanen din – bare spør.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser bestillingsforespørsler først, forsikringsspørsmål dernest og aldri støy. Ikke mer mangler en gruppeforespørsel begravet under TripAdvisor-varsler.",
+  "draftSubtitle": "Duet lærer turrutene dine, priser og rytterkrav. Når en bestillingsforespørsel treffer, utarbeider den et fullstendig svar med reisedetaljer, priser og hva du skal ta med. Du anmelder og sender.",
+  "agentSubtitle": "\"Noen grupper som er bestilt denne helgen?\" \"Sett utkast til et svar til Rachel med tilgjengelighet på lørdag.\" Duet kjenner innboksen og timeplanen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "ATV Guide, Sør-Utah",
-      "quote": "Jeg leder 8-timers turer gjennom canyons med null celleservice. Da jeg kom tilbake, var halvparten av bestillings-e-postene mine blitt kalde. Chiefy utarbeider svar med pris- og løypeinformasjonen min – jeg vurderer dem bare på slutten av dagen.",
+      "quote": "Jeg leder 8-timers turer gjennom canyons med null celleservice. Da jeg kom tilbake, var halvparten av bestillings-e-postene mine blitt kalde. Duet utarbeider svar med pris- og løypeinformasjonen min – jeg vurderer dem bare på slutten av dagen.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV turoperatør, Colorado",
-      "quote": "Vi kjører turer 7 dager i uken, og spørsmålene om forsikring og frafall alene spiste opp morgenene mine. Chiefy håndterer alt - rytterkrav, aldersbegrensninger, hva du skal ta med. Høres akkurat ut som meg.",
+      "quote": "Vi kjører turer 7 dager i uken, og spørsmålene om forsikring og frafall alene spiste opp morgenene mine. Duet håndterer alt - rytterkrav, aldersbegrensninger, hva du skal ta med. Høres akkurat ut som meg.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "Folk sender e-post og spør hvilken løype som er riktig for gruppen deres, hvilket erfaringsnivå de trenger, om barna kan sykle. De samme 5 spørsmålene om og om igjen. Chiefy t negler hver og en av dem.",
+      "quote": "Folk sender e-post og spør hvilken løype som er riktig for gruppen deres, hvilket erfaringsnivå de trenger, om barna kan sykle. De samme 5 spørsmålene om og om igjen. Duet t negler hver og en av dem.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Jeg brukte over en time hver natt på å svare på de samme tilgjengelighetsspørsmålene. Nå lager Chiefy svar mens jeg er ute i løypa. Svartiden min gikk fra timer til minutter.",
+      "quote": "Jeg brukte over en time hver natt på å svare på de samme tilgjengelighetsspørsmålene. Nå lager Duet svar mens jeg er ute i løypa. Svartiden min gikk fra timer til minutter.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Familie-ATV-turer, Sedona",
-      "quote": "Vi får mange familier som spør om nybegynnerløyper og alderskrav. Chiefy lærte alle turalternativene våre og anbefaler den rette i hvert svar. Kunder kan ikke se forskjell.",
+      "quote": "Vi får mange familier som spør om nybegynnerløyper og alderskrav. Duet lærte alle turalternativene våre og anbefaler den rette i hvert svar. Kunder kan ikke se forskjell.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Håndterer Chiefy forsikrings- og frafallsspørsmål?",
-      "answer": "Ja. Chiefy lærer dine rytterkrav – ansvarsforsikring, aldersbegrensninger, frafallsdetaljer, hva ryttere trenger å ta med. Når noen sender en e-post og spør hva de trenger før turen, lager Chiefy et komplett svar med alle detaljene. Du anmelder og trykker på send."
+      "question": "Håndterer Duet forsikrings- og frafallsspørsmål?",
+      "answer": "Ja. Duet lærer dine rytterkrav – ansvarsforsikring, aldersbegrensninger, frafallsdetaljer, hva ryttere trenger å ta med. Når noen sender en e-post og spør hva de trenger før turen, lager Duet et komplett svar med alle detaljene. Du anmelder og trykker på send."
     },
     {
-      "question": "Jeg er på sporet hele dagen uten mobiltjeneste. Hvordan hjelper Chiefy?",
-      "answer": "Det er nettopp derfor guider elsker Chiefy. Mens du leder en 6-8 timers tur uten signal, hoper det seg opp bookingforespørsler. Chiefy-utkast svarer til hver og en av dem - priser, tilgjengelighet, møtested, hva du skal ha på deg. Når du kommer tilbake, går du gjennom utkastene og sender. De fleste guider forteller oss at det sparer dem 1-2 timer med e-posttid per dag i høysesongen."
+      "question": "Jeg er på sporet hele dagen uten mobiltjeneste. Hvordan hjelper Duet?",
+      "answer": "Det er nettopp derfor guider elsker Duet. Mens du leder en 6-8 timers tur uten signal, hoper det seg opp bookingforespørsler. Duet-utkast svarer til hver og en av dem - priser, tilgjengelighet, møtested, hva du skal ha på deg. Når du kommer tilbake, går du gjennom utkastene og sender. De fleste guider forteller oss at det sparer dem 1-2 timer med e-posttid per dag i høysesongen."
     }
   ],
   "pricingNote": "Med $200/maskin betaler en lagret gruppe på 4 for over et år med Pro."

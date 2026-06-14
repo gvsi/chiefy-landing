@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Chiefy za poročne organizatorje | AI e-poštni pomočnik",
-  "metaDescription": "Chiefy pomaga poročnim organizatorjem takoj odgovoriti na e-pošto strank in ponudnikov — tudi z ogledov lokacij. Osnutki odgovorov z umetno inteligenco z vašimi paketi, stiki ponudnikov in načinom pisanja.",
+  "pageTitle": "Duet Mail za poročne organizatorje | AI e-poštni pomočnik",
+  "metaDescription": "Duet Mail pomaga poročnim organizatorjem takoj odgovoriti na e-pošto strank in ponudnikov — tudi z ogledov lokacij. Osnutki odgovorov z umetno inteligenco z vašimi paketi, stiki ponudnikov in načinom pisanja.",
   "heroBadge": "Zaupa mu več kot 400 poročnih organizatorjev",
   "heroHeadline": "Vaš e-poštni pomočnik, ko ste na lokaciji poroke",
-  "heroSubline": "Chiefy se nauči vaših stikov ponudnikov, paketov in preferenc strank — nato pripravlja osnutke e-poštnih odgovorov, da pari ne čakajo, medtem ko vi usklajujete na terenu.",
+  "heroSubline": "Duet se nauči vaših stikov ponudnikov, paketov in preferenc strank — nato pripravlja osnutke e-poštnih odgovorov, da pari ne čakajo, medtem ko vi usklajujete na terenu.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "poroka",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Ena rešena stranka pokrije več kot 20 let uporabe Chiefy."
+    "punchline": "Ena rešena stranka pokrije več kot 20 let uporabe Duet."
   },
-  "categorizationSubtitle": "Chiefy samodejno označi vsako e-pošto, da najprej vidite nova povpraševanja parov, nato potrditve ponudnikov, novičarskega šuma pa nikoli. Nič več zgrešenih zahtev za rezervacijo, zakopanih pod opozorili The Knot.",
-  "draftSubtitle": "Chiefy se nauči vaših paketov, priljubljenih ponudnikov in tona. Ko par pošlje povpraševanje, pripravi topel, celovit odgovor z vašo razpoložljivostjo in naslednjimi koraki. Vi ga pregledate in pošljete.",
-  "agentSubtitle": "\"Katera e-pošta ponudnikov je prišla za poroko Thompson?\" \"Pripravi posodobitev časovnice za vse sobotne ponudnike.\" Chiefy pozna vaš nabiralnik in stranke — samo vprašajte.",
+  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite nova povpraševanja parov, nato potrditve ponudnikov, novičarskega šuma pa nikoli. Nič več zgrešenih zahtev za rezervacijo, zakopanih pod opozorili The Knot.",
+  "draftSubtitle": "Duet se nauči vaših paketov, priljubljenih ponudnikov in tona. Ko par pošlje povpraševanje, pripravi topel, celovit odgovor z vašo razpoložljivostjo in naslednjimi koraki. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Katera e-pošta ponudnikov je prišla za poroko Thompson?\" \"Pripravi posodobitev časovnice za vse sobotne ponudnike.\" Duet pozna vaš nabiralnik in stranke — samo vprašajte.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Butična poročna organizatorica, CO",
-      "quote": "Pol tedna sem na gorskih lokacijah brez signala. Medtem mi pari pišejo o časovnicah in vprašanjih za ponudnike. Chiefy pripravlja odgovore z mojimi natančnimi paketi in tonom — pregledam jih, ko sem spet v dosegu.",
+      "quote": "Pol tedna sem na gorskih lokacijah brez signala. Medtem mi pari pišejo o časovnicah in vprašanjih za ponudnike. Duet pripravlja odgovore z mojimi natančnimi paketi in tonom — pregledam jih, ko sem spet v dosegu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Poročni organizator celovitih storitev, CA",
-      "quote": "Usklajevanje več kot 10 ponudnikov na poroko pomeni, da je moj nabiralnik v glavni sezoni bojno polje. Chiefy kategorizira e-pošto ponudnikov ločeno od e-pošte strank in pripravlja opomnike, ki bi jih napisala sama. Zdaj dejansko spim.",
+      "quote": "Usklajevanje več kot 10 ponudnikov na poroko pomeni, da je moj nabiralnik v glavni sezoni bojno polje. Duet kategorizira e-pošto ponudnikov ločeno od e-pošte strank in pripravlja opomnike, ki bi jih napisala sama. Zdaj dejansko spim.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Koordinatorica na dan poroke, TX",
-      "quote": "Na poročne dni sem nedosegljiva 14 ur zapored. Nova povpraševanja so prej neodgovorjena čakala do ponedeljka. Zdaj jih Chiefy obdela takoj in samo zaradi hitrejših odzivov sem to četrtletje rezervirala 3 dodatne poroke.",
+      "quote": "Na poročne dni sem nedosegljiva 14 ur zapored. Nova povpraševanja so prej neodgovorjena čakala do ponedeljka. Zdaj jih Duet obdela takoj in samo zaradi hitrejših odzivov sem to četrtletje rezervirala 3 dodatne poroke.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Organizator porok na destinaciji, HI",
-      "quote": "Moji pari priletijo z vsega sveta in pišejo ob vseh urah. Chiefy se je naučil mojih odgovorov na pogosta vprašanja — logistike lokacij, lokalnih ponudnikov, kaj pričakovati — in pripravlja odgovore, ki zvenijo natanko kot jaz. Stranke nimajo pojma.",
+      "quote": "Moji pari priletijo z vsega sveta in pišejo ob vseh urah. Duet se je naučil mojih odgovorov na pogosta vprašanja — logistike lokacij, lokalnih ponudnikov, kaj pričakovati — in pripravlja odgovore, ki zvenijo natanko kot jaz. Stranke nimajo pojma.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Organizatorka porok in dogodkov, NY",
-      "quote": "Vsak večer sem porabila 2 uri za odgovarjanje na ista vprašanja o paketih in razpoložljivosti. Chiefy ureja ponavljajoče se stvari, da se lahko osredotočim na ustvarjalno delo, ki ga imam zares rada. Povrnil se je že prvi teden.",
+      "quote": "Vsak večer sem porabila 2 uri za odgovarjanje na ista vprašanja o paketih in razpoložljivosti. Duet ureja ponavljajoče se stvari, da se lahko osredotočim na ustvarjalno delo, ki ga imam zares rada. Povrnil se je že prvi teden.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
   "verticalFaqs": [
     {
-      "question": "Ali Chiefy deluje z vso e-pošto za usklajevanje ponudnikov?",
-      "answer": "Da. Chiefy se nauči vaših stikov ponudnikov, priljubljenih ponudnikov in načina komunikacije z vsakim. E-pošto ponudnikov kategorizira po poroki in pripravi odgovore s pravimi podrobnostmi — potrditvami, opomniki, posodobitvami časovnice. Vi jih pregledate in pošljete. Obravnava cvetličarje, catering, lokacije, DJ-je, fotografe in vsakega drugega ponudnika v vašem imeniku."
+      "question": "Ali Duet deluje z vso e-pošto za usklajevanje ponudnikov?",
+      "answer": "Da. Duet se nauči vaših stikov ponudnikov, priljubljenih ponudnikov in načina komunikacije z vsakim. E-pošto ponudnikov kategorizira po poroki in pripravi odgovore s pravimi podrobnostmi — potrditvami, opomniki, posodobitvami časovnice. Vi jih pregledate in pošljete. Obravnava cvetličarje, catering, lokacije, DJ-je, fotografe in vsakega drugega ponudnika v vašem imeniku."
     },
     {
       "question": "Ves dan sem na lokacijah porok in ogledih. Bom zamudila nova povpraševanja?",
-      "answer": "To je natanko tisto, kar Chiefy rešuje. Ko par piše o razpoložljivosti ali paketih, medtem ko vi usklajujete na lokaciji, Chiefy pripravi topel, profesionalen odgovor z vašo dejansko razpoložljivostjo in naslednjimi koraki. Vi ga pregledate in pošljete, ko imate čas — tudi s telefona med dogodki. Večina organizatorjev nam pove, da jim v glavni sezoni prihrani 1-2 uri e-pošte na dan."
+      "answer": "To je natanko tisto, kar Duet rešuje. Ko par piše o razpoložljivosti ali paketih, medtem ko vi usklajujete na lokaciji, Duet pripravi topel, profesionalen odgovor z vašo dejansko razpoložljivostjo in naslednjimi koraki. Vi ga pregledate in pošljete, ko imate čas — tudi s telefona med dogodki. Večina organizatorjev nam pove, da jim v glavni sezoni prihrani 1-2 uri e-pošte na dan."
     }
   ],
   "pricingNote": "Pri $8,000/poroko ena rešena stranka pokrije več kot 20 let uporabe Pro."

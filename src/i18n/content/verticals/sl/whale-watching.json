@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy za izlete opazovanja kitov | AI e-poštni pomočnik",
-  "metaDescription": "Chiefy pomaga kapitanom izletov opazovanja kitov takoj odgovoriti na e-pošto o rezervacijah — tudi z vode. Osnutki odgovorov z umetno inteligenco s podrobnostmi izletov, cenami in vašim načinom pisanja.",
+  "pageTitle": "Duet Mail za izlete opazovanja kitov | AI e-poštni pomočnik",
+  "metaDescription": "Duet Mail pomaga kapitanom izletov opazovanja kitov takoj odgovoriti na e-pošto o rezervacijah — tudi z vode. Osnutki odgovorov z umetno inteligenco s podrobnostmi izletov, cenami in vašim načinom pisanja.",
   "heroBadge": "Zaupa mu več kot 300 kapitanov izletov",
   "heroHeadline": "Vaš e-poštni pomočnik, ko ste na opazovanju kitov",
-  "heroSubline": "Chiefy se nauči vašega urnika izletov, cen in načina pisanja — nato pripravlja osnutke e-poštnih odgovorov, da medtem ko ste na vodi ne izgubite nobene rezervacije.",
+  "heroSubline": "Duet se nauči vašega urnika izletov, cen in načina pisanja — nato pripravlja osnutke e-poštnih odgovorov, da medtem ko ste na vodi ne izgubite nobene rezervacije.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "skupina za izlet",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Ena rešena skupinska rezervacija pokrije leto uporabe Chiefy."
+    "punchline": "Ena rešena skupinska rezervacija pokrije leto uporabe Duet."
   },
-  "categorizationSubtitle": "Chiefy samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato spremembe urnikov križark, šuma pa nikoli. Nič več zgrešenih povpraševanj za zasebni čarter, zakopanih pod opozorili TripAdvisor.",
-  "draftSubtitle": "Chiefy se nauči vaših ur izletov, cen in pravil. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor z razpoložljivostjo, tem, kaj je vključeno, in kaj prinesti. Vi ga pregledate in pošljete.",
-  "agentSubtitle": "\"Koliko mest je še na sobotnem jutranjem izletu?\" \"Pripravi odgovor Rachel z razpoložljivostjo.\" Chiefy pozna vaš nabiralnik in urnik — samo vprašajte.",
+  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato spremembe urnikov križark, šuma pa nikoli. Nič več zgrešenih povpraševanj za zasebni čarter, zakopanih pod opozorili TripAdvisor.",
+  "draftSubtitle": "Duet se nauči vaših ur izletov, cen in pravil. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor z razpoložljivostjo, tem, kaj je vključeno, in kaj prinesti. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Koliko mest je še na sobotnem jutranjem izletu?\" \"Pripravi odgovor Rachel z razpoložljivostjo.\" Duet pozna vaš nabiralnik in urnik — samo vprašajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Dave H.",
       "title": "Operater izletov z opazovanjem divjih živali, AK",
-      "quote": "Potniki s križark potrebujejo odgovore hitro — v pristanišču imajo samo 6 ur. Zasebne čarterje sem prej izgubljal, ker sem bil na vodi, ko je prišlo povpraševanje. Zdaj Chiefy pripravi odgovore z mojimi cenami in podrobnostmi prevzema, še preden pristanem.",
+      "quote": "Potniki s križark potrebujejo odgovore hitro — v pristanišču imajo samo 6 ur. Zasebne čarterje sem prej izgubljal, ker sem bil na vodi, ko je prišlo povpraševanje. Zdaj Duet pripravi odgovore z mojimi cenami in podrobnostmi prevzema, še preden pristanem.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Družinsko opazovanje kitov, CA",
-      "quote": "V sezoni grbavcev vodimo dva izleta na dan in količina e-pošte je neverjetna. 'Bomo videli kite?' 'Kaj naj oblečem?' 'Je jutri odpovedano?' Chiefy obravnava ponavljajoča se vprašanja, mi pa se osredotočimo na izlete.",
+      "quote": "V sezoni grbavcev vodimo dva izleta na dan in količina e-pošte je neverjetna. 'Bomo videli kite?' 'Kaj naj oblečem?' 'Je jutri odpovedano?' Duet obravnava ponavljajoča se vprašanja, mi pa se osredotočimo na izlete.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "Vsak večer sem odgovarjal na istih 10 vprašanj — cene, kaj je vključeno, nasveti proti morski bolezni, starostne omejitve za otroke. Chiefy se je vsega naučil v prvem tednu. Moj odzivni čas se je z 8 ur skrajšal na 8 minut.",
+      "quote": "Vsak večer sem odgovarjal na istih 10 vprašanj — cene, kaj je vključeno, nasveti proti morski bolezni, starostne omejitve za otroke. Duet se je vsega naučil v prvem tednu. Moj odzivni čas se je z 8 ur skrajšal na 8 minut.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Vodja rezervacij, Pacific NW",
-      "quote": "Vremenske odpovedi so najhujše — 30 ljudi je treba naenkrat ponovno rezervirati, jaz pa usklajujem telefonske klice. Chiefy za vsakega gosta pripravi osebno e-pošto za prestavitev. Kar mi je prej vzelo 2 uri, zdaj traja 15 minut.",
+      "quote": "Vremenske odpovedi so najhujše — 30 ljudi je treba naenkrat ponovno rezervirati, jaz pa usklajujem telefonske klice. Duet za vsakega gosta pripravi osebno e-pošto za prestavitev. Kar mi je prej vzelo 2 uri, zdaj traja 15 minut.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Izleti opazovanja divjih živali z majhnim čolnom, BC",
-      "quote": "Sva ekipa dveh — jaz sem kapitan, ona vodi logistiko. V glavni sezoni je za e-pošto porabila 3 ure na večer. Chiefy je to skrajšal na 30 minut. Zdaj dejansko dobi večere nazaj.",
+      "quote": "Sva ekipa dveh — jaz sem kapitan, ona vodi logistiko. V glavni sezoni je za e-pošto porabila 3 ure na večer. Duet je to skrajšal na 30 minut. Zdaj dejansko dobi večere nazaj.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
   "verticalFaqs": [
     {
-      "question": "Ali Chiefy obravnava vremenske odpovedi in spremembe urnikov križark?",
-      "answer": "Da. Ko izlet odpoveste zaradi vremena ali se spremeni čas prihoda križarke, lahko Chiefy obvestite enkrat, on pa pripravi osebna e-poštna sporočila za prestavitev ali posodobitev za vsakega prizadetega gosta. Nič več kopiranja in lepljenja istega sporočila 30-krat. Vsak odgovor vključuje izvirne podrobnosti rezervacije gosta in razpoložljive alternative."
+      "question": "Ali Duet obravnava vremenske odpovedi in spremembe urnikov križark?",
+      "answer": "Da. Ko izlet odpoveste zaradi vremena ali se spremeni čas prihoda križarke, lahko Duet obvestite enkrat, on pa pripravi osebna e-poštna sporočila za prestavitev ali posodobitev za vsakega prizadetega gosta. Nič več kopiranja in lepljenja istega sporočila 30-krat. Vsak odgovor vključuje izvirne podrobnosti rezervacije gosta in razpoložljive alternative."
     },
     {
-      "question": "Stalno dobivamo ista vprašanja — 'bomo videli kite?', 'kaj naj oblečem?', 'je primerno za otroke?' Ali jih lahko Chiefy obravnava?",
-      "answer": "Prav tu Chiefy najbolj zasije. Nauči se vaših standardnih odgovorov — vrst, ki jih običajno vidite, kaj prinesti, pravil glede starosti, nasvetov proti morski bolezni, časov odhoda — in takoj pripravi celovite odgovore. Vi jih pregledate in pošljete. Večina kapitanov nam pove, da je 80 % njihovega nabiralnika istih 10 vprašanj, Chiefy pa jih obravnava vsa."
+      "question": "Stalno dobivamo ista vprašanja — 'bomo videli kite?', 'kaj naj oblečem?', 'je primerno za otroke?' Ali jih lahko Duet obravnava?",
+      "answer": "Prav tu Duet najbolj zasije. Nauči se vaših standardnih odgovorov — vrst, ki jih običajno vidite, kaj prinesti, pravil glede starosti, nasvetov proti morski bolezni, časov odhoda — in takoj pripravi celovite odgovore. Vi jih pregledate in pošljete. Večina kapitanov nam pove, da je 80 % njihovega nabiralnika istih 10 vprašanj, Duet pa jih obravnava vsa."
     }
   ],
   "pricingNote": "Pri $125/osebo ena rešena skupina 6 oseb pokrije več kot leto uporabe Pro."

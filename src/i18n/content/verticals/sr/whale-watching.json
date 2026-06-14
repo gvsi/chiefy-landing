@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy za obilaske za posmatranje kitova | AI Pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže kapetanima koji posmatraju kitove da odmah odgovore na e-poruke o rezervacijama — čak i iz vode. AI nacrt odgovora sa detaljima o obilasku, cenama i glasom.",
+  "pageTitle": "Duet Mail za obilaske za posmatranje kitova | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže kapetanima koji posmatraju kitove da odmah odgovore na e-poruke o rezervacijama — čak i iz vode. AI nacrt odgovora sa detaljima o obilasku, cenama i glasom.",
   "heroBadge": "Ima poverenja od 300+ kapitena turneje",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste napolju da uočavate kitove",
-  "heroSubline": "Chiefy uči vaš raspored obilaska, cene i glas — zatim sastavlja nacrte odgovora putem e-pošte tako da nikada ne izgubite rezervaciju dok ste na vodi.",
+  "heroSubline": "Duet uči vaš raspored obilaska, cene i glas — zatim sastavlja nacrte odgovora putem e-pošte tako da nikada ne izgubite rezervaciju dok ste na vodi.",
   "inboxEmails": [
     {
       "from": "Rejčel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "turistička grupa",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Jedna sačuvana grupna rezervacija plaća se za godinu dana od Chiefy."
+    "punchline": "Jedna sačuvana grupna rezervacija plaća se za godinu dana od Duet."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, zatim se menja raspored brodova za krstarenje, a buku nikada. Nema više propuštanja privatnog upita za čarter koji je zakopan u obaveštenjima TripAdvisor-a.",
-  "draftSubtitle": "Chiefy saznaje vaše vreme obilaska, cene i smernice. Kada se pojavi upit za rezervaciju, on sastavlja kompletan odgovor sa dostupnošću, šta je uključeno i šta treba doneti. Pregledate i pošaljete.",
-  "agentSubtitle": "„Koliko je još mesta ostalo za subotnju jutarnju turneju?“ „Nacrt odgovora Rejčel sa dostupnošću.“ Chiefy zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, zatim se menja raspored brodova za krstarenje, a buku nikada. Nema više propuštanja privatnog upita za čarter koji je zakopan u obaveštenjima TripAdvisor-a.",
+  "draftSubtitle": "Duet saznaje vaše vreme obilaska, cene i smernice. Kada se pojavi upit za rezervaciju, on sastavlja kompletan odgovor sa dostupnošću, šta je uključeno i šta treba doneti. Pregledate i pošaljete.",
+  "agentSubtitle": "„Koliko je još mesta ostalo za subotnju jutarnju turneju?“ „Nacrt odgovora Rejčel sa dostupnošću.“ Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rejčel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapetan Dejv H.",
       "title": "Turoperator za divlje životinje, AK",
-      "quote": "Putnicima na kruzerima su odgovori potrebni brzo — imaju samo 6 sati u luci. Nekada sam gubio privatne čartere jer sam bio na vodi kada je stigao upit. Sada Chiefy nacrti odgovara sa mojim cenama i detaljima o preuzimanju pre nego što uopšte pristanem.",
+      "quote": "Putnicima na kruzerima su odgovori potrebni brzo — imaju samo 6 sati u luci. Nekada sam gubio privatne čartere jer sam bio na vodi kada je stigao upit. Sada Duet nacrti odgovara sa mojim cenama i detaljima o preuzimanju pre nego što uopšte pristanem.",
       "avatarKey": "michael"
     },
     {
       "name": "Marija i Luis R.",
       "title": "Porodično posmatranje kitova, Kalifornija",
-      "quote": "Vodimo dve ture dnevno tokom sezone grbača i obim e-pošte je nestvaran. 'Hoćemo li videti kitove?' 'Šta da obučem?' 'Da li je sutra otkazan?' Chiefy rešava pitanja koja se ponavljaju, a mi se fokusiramo na obilaske.",
+      "quote": "Vodimo dve ture dnevno tokom sezone grbača i obim e-pošte je nestvaran. 'Hoćemo li videti kitove?' 'Šta da obučem?' 'Da li je sutra otkazan?' Duet rešava pitanja koja se ponavljaju, a mi se fokusiramo na obilaske.",
       "avatarKey": "francesca"
     },
     {
       "name": "Kapetan Ben T.",
       "title": "Ocean Ekcursions, HI",
-      "quote": "Svake večeri sam odgovarao na istih 10 pitanja — cene, šta je uključeno, saveti za morsku bolest, starosne granice dece. Chiefy je sve to naučio u prvoj nedelji. Moje vreme odgovora je prošlo od 8 sati do 8 minuta.",
+      "quote": "Svake večeri sam odgovarao na istih 10 pitanja — cene, šta je uključeno, saveti za morsku bolest, starosne granice dece. Duet je sve to naučio u prvoj nedelji. Moje vreme odgovora je prošlo od 8 sati do 8 minuta.",
       "avatarKey": "Johnni"
     },
     {
       "name": "Kim V.",
       "title": "Menadžer rezervacija, Pacific NV",
-      "quote": "Otkazivanje po vremenskim prilikama je najgore — 30 ljudi treba da se rezerviše odjednom, a ja žongliram telefonskim pozivima. Chiefy nacrte personalizovanih e-poruka o pomeranju rasporeda za svakog gosta. Ono što mi je nekada trebalo 2 sata, sada mi je potrebno 15 minuta.",
+      "quote": "Otkazivanje po vremenskim prilikama je najgore — 30 ljudi treba da se rezerviše odjednom, a ja žongliram telefonskim pozivima. Duet nacrte personalizovanih e-poruka o pomeranju rasporeda za svakog gosta. Ono što mi je nekada trebalo 2 sata, sada mi je potrebno 15 minuta.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Džes i Nejt P.",
       "title": "Male čamce Vildlife Tours, BC",
-      "quote": "Mi smo operacija za dve osobe — ja kapetan, ona vodi logistiku. Tokom špice sezone provodila je 3 sata noću na imejlu. Chiefy smanjite to na 30 minuta. Sada joj se vraćaju večeri.",
+      "quote": "Mi smo operacija za dve osobe — ja kapetan, ona vodi logistiku. Tokom špice sezone provodila je 3 sata noću na imejlu. Duet smanjite to na 30 minuta. Sada joj se vraćaju večeri.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Da li Chiefy obrađuje vremenske otkaze i promene rasporeda brodova za krstarenje?",
-      "answer": "Da. Kada otkažete obilazak zbog vremenskih prilika ili promene vremena dolaska broda za krstarenje, možete jednom reći Chiefy i on će sastaviti personalizovani raspored ili ažurirati imejlove za svakog pogođenog gosta. Nema više kopiranja i lepljenja iste poruke 30 puta. Svaki odgovor uključuje originalne detalje o rezervaciji gosta i dostupne alternative."
+      "question": "Da li Duet obrađuje vremenske otkaze i promene rasporeda brodova za krstarenje?",
+      "answer": "Da. Kada otkažete obilazak zbog vremenskih prilika ili promene vremena dolaska broda za krstarenje, možete jednom reći Duet i on će sastaviti personalizovani raspored ili ažurirati imejlove za svakog pogođenog gosta. Nema više kopiranja i lepljenja iste poruke 30 puta. Svaki odgovor uključuje originalne detalje o rezervaciji gosta i dostupne alternative."
     },
     {
-      "question": "Stalno dobijamo ista pitanja — 'hoćemo li videti kitove?', 'šta da obučem?', 'da li je to u redu za decu?' Može li Chiefy to da podnese?",
-      "answer": "Upravo tu sija Chiefy. Uči vaše standardne odgovore – vrste koje obično viđate, šta da ponesete, starosne smernice, savete o morskoj bolesti, vreme polaska – i odmah sastavlja kompletne odgovore. Pregledate i pošaljete. Većina kapetana nam kaže da je 80% njihovog prijemnog sandučeta istih 10 pitanja, a Chiefy se bavi svim njima."
+      "question": "Stalno dobijamo ista pitanja — 'hoćemo li videti kitove?', 'šta da obučem?', 'da li je to u redu za decu?' Može li Duet to da podnese?",
+      "answer": "Upravo tu sija Duet. Uči vaše standardne odgovore – vrste koje obično viđate, šta da ponesete, starosne smernice, savete o morskoj bolesti, vreme polaska – i odmah sastavlja kompletne odgovore. Pregledate i pošaljete. Većina kapetana nam kaže da je 80% njihovog prijemnog sandučeta istih 10 pitanja, a Duet se bavi svim njima."
     }
   ],
   "pricingNote": "Sa 125 USD po osobi, jedna ušteđena grupa od 6 osoba plaća više od godinu dana od Pro."

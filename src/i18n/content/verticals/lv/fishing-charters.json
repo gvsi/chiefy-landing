@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy makšķerēšanas čarteriem | AI e-pasta asistents",
-  "metaDescription": "Chiefy palīdz makšķerēšanas čarteru kapteiņiem uzreiz atbildēt uz rezervācijas e-pastiem — pat atrodoties uz ūdens. AI sagatavotas atbildes ar jūsu cenām, noteikumiem un saziņas stilu.",
+  "pageTitle": "Duet Mail makšķerēšanas čarteriem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz makšķerēšanas čarteru kapteiņiem uzreiz atbildēt uz rezervācijas e-pastiem — pat atrodoties uz ūdens. AI sagatavotas atbildes ar jūsu cenām, noteikumiem un saziņas stilu.",
   "heroBadge": "Uzticas 500+ čarteru kapteiņi",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat uz ūdens",
-  "heroSubline": "Chiefy apgūst jūsu cenas, noteikumus un saziņas stilu — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
+  "heroSubline": "Duet apgūst jūsu cenas, noteikumus un saziņas stilu — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "čarteris",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Viena saglabāta rezervācija atmaksā Chiefy uz gadu."
+    "punchline": "Viena saglabāta rezervācija atmaksā Duet uz gadu."
   },
-  "categorizationSubtitle": "Chiefy automātiski atzīmē katru e-pastu, lai vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus, bet troksni — nekad. Vairs nekādu pazudušu brauciena pieprasījumu zem TripAdvisor paziņojumiem.",
-  "draftSubtitle": "Chiefy apgūst jūsu cenas, noteikumus un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar brauciena informāciju, cenām un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Kuras dienas nākamnedēļ ir brīvas?\" \"Sagatavo atbildi Sarah ar pieejamību.\" Chiefy zina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus, bet troksni — nekad. Vairs nekādu pazudušu brauciena pieprasījumu zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu cenas, noteikumus un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar brauciena informāciju, cenām un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kuras dienas nākamnedēļ ir brīvas?\" \"Sagatavo atbildi Sarah ar pieejamību.\" Duet zina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Captain Mike D.",
       "title": "Atklātās jūras čartera kapteinis, FL",
-      "quote": "Sezonas karstumā es zaudētu 2-3 rezervācijas nedēļā tikai tāpēc, ka nevarēju pietiekami ātri atbildēt no laivas. Chiefy sagatavo atbildes ar manām cenām un brauciena informāciju — man tikai jānosūta starp lomiem.",
+      "quote": "Sezonas karstumā es zaudētu 2-3 rezervācijas nedēļā tikai tāpēc, ka nevarēju pietiekami ātri atbildēt no laivas. Duet sagatavo atbildes ar manām cenām un brauciena informāciju — man tikai jānosūta starp lomiem.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Ģimenes čarteru uzņēmums, OR",
-      "quote": "Mēs vadām divas laivas, un e-pastu apjoms vasarā ir neprātīgs. Chiefy atdala rezervācijas pieprasījumus no visa pārējā un sagatavo atbildes, kas skan tieši kā mēs. Pilnīga spēles noteikumu maiņa.",
+      "quote": "Mēs vadām divas laivas, un e-pastu apjoms vasarā ir neprātīgs. Duet atdala rezervācijas pieprasījumus no visa pārējā un sagatavo atbildes, kas skan tieši kā mēs. Pilnīga spēles noteikumu maiņa.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Piekrastes makšķerēšanas gids, TX",
-      "quote": "Katru vakaru pavadīju stundu, atbildot uz tiem pašiem pieejamības jautājumiem. Tagad to dara Chiefy. Mans atbildes laiks saruka no stundām līdz minūtēm, un kopš tā laika neesmu zaudējis nevienu rezervāciju.",
+      "quote": "Katru vakaru pavadīju stundu, atbildot uz tiem pašiem pieejamības jautājumiem. Tagad to dara Duet. Mans atbildes laiks saruka no stundām līdz minūtēm, un kopš tā laika neesmu zaudējis nevienu rezervāciju.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Čarteru biroja vadītāja, HI",
-      "quote": "Pārvaldīt e-pastus 4 kapteiņiem bija pilnas slodzes darbs. Chiefy visu kategorizē un sagatavo atbildes ar pareizo laivu, pareizo cenu un pareizo kapteini. It kā man būtu vēl viena es.",
+      "quote": "Pārvaldīt e-pastus 4 kapteiņiem bija pilnas slodzes darbs. Duet visu kategorizē un sagatavo atbildes ar pareizo laivu, pareizo cenu un pareizo kapteini. It kā man būtu vēl viena es.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Vai Chiefy darbojas ar rezervāciju un pieejamības e-pastiem?",
-      "answer": "Pilnīgi noteikti. Chiefy apgūst jūsu braucienu veidus, cenas, pieejamību un noteikumus. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar pareizajām detaļām — cenu, iekļauto, tikšanās vietu un to, kas jāņem līdzi. Jūs pārskatāt un pieskaraties, lai nosūtītu."
+      "question": "Vai Duet darbojas ar rezervāciju un pieejamības e-pastiem?",
+      "answer": "Pilnīgi noteikti. Duet apgūst jūsu braucienu veidus, cenas, pieejamību un noteikumus. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar pareizajām detaļām — cenu, iekļauto, tikšanās vietu un to, kas jāņem līdzi. Jūs pārskatāt un pieskaraties, lai nosūtītu."
     },
     {
-      "question": "Es visu dienu esmu uz ūdens. Vai varu lietot Chiefy no tālruņa?",
-      "answer": "Jā. Chiefy darbojas ar Gmail un Outlook, tāpēc tas darbojas visur, kur darbojas jūsu e-pasts — arī tālrunī. Melnraksti parādās automātiski. Starp lomiem jūs pārskatāt un nosūtāt ar vienu pieskārienu. Lielākā daļa kapteiņu mums saka, ka sezonas laikā tas ietaupa 1-2 stundas e-pasta darba dienā."
+      "question": "Es visu dienu esmu uz ūdens. Vai varu lietot Duet no tālruņa?",
+      "answer": "Jā. Duet darbojas ar Gmail un Outlook, tāpēc tas darbojas visur, kur darbojas jūsu e-pasts — arī tālrunī. Melnraksti parādās automātiski. Starp lomiem jūs pārskatāt un nosūtāt ar vienu pieskārienu. Lielākā daļa kapteiņu mums saka, ka sezonas laikā tas ietaupa 1-2 stundas e-pasta darba dienā."
     }
   ],
   "pricingNote": "Pie $500 par čarteru viena nezaudēta rezervācija sedz vairāk nekā gada Pro izmaksas."

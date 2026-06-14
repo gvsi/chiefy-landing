@@ -2,7 +2,7 @@
 title: "Tenggelam dalam Pesan? Strategi Pakar untuk Mengelola Kotak Masuk Gmail Anda"
 description: "Hentikan kelebihan email! Pelajari strategi ahli untuk mengelola inbox Gmail Anda, mulai dari taktik klasik hingga alat AI, dan dapatkan kembali produktivitas Anda."
 publishedAt: 2025-07-04
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Manajemen Inbox", "Email"]
 draft: false
 ---
@@ -157,7 +157,7 @@ Asisten email AI melampaui otomatisasi sederhana; mereka menawarkan kemampuan ce
 
 **Manfaatnya:** Daripada Anda menelusuri tumpukannya, AI secara otomatis memunculkan email yang meminta tindakan segera. Hal ini secara drastis mengurangi waktu penyortiran, memastikan item penting tidak terlewatkan, mengurangi stres karena kelebihan inbox, dan membebaskan Anda untuk memfokuskan energi pada pekerjaan yang berdampak dibandingkan administrasi inbox.
 
-** Tautan Chiefy (Kontekstual):** _Penyortiran cerdas ini persis seperti yang dibutuhkan oleh para profesional yang sibuk. Di sinilah alat seperti _[_ Chiefy _](https://chiefy.com/id)_ unggul, menggunakan ** AI Triage** untuk menganalisis urgensi, tindakan yang diperlukan, dan keputusan, menyajikannya dengan jelas di **Dasbor Terfokus** sehingga Anda segera mengetahui apa yang perlu diperhatikan._
+** Tautan Duet Mail (Kontekstual):** _Penyortiran cerdas ini persis seperti yang dibutuhkan oleh para profesional yang sibuk. Di sinilah alat seperti _[_ Duet Mail _](https://duetmail.com/id)_ unggul, menggunakan ** AI Triage** untuk menganalisis urgensi, tindakan yang diperlukan, dan keputusan, menyajikannya dengan jelas di **Dasbor Terfokus** sehingga Anda segera mengetahui apa yang perlu diperhatikan._
 
 ### Peringkasan Cerdas: Memahami Thread Panjang dan Lampiran Secara Instan
 
@@ -217,4 +217,4 @@ Teknologi, khususnya munculnya asisten email AI yang cerdas, menawarkan persenja
 
 Menguasai Gmail Anda bukan hanya tentang mencapai ruang digital yang rapi. Ini tentang mengurangi stres di tempat kerja secara signifikan, mendapatkan kembali waktu berharga setiap minggunya, melindungi kemampuan Anda untuk fokus pada pekerjaan yang mendalam dan bermakna, dan pada akhirnya meningkatkan efektivitas dan kesejahteraan Anda secara keseluruhan. Dengan memadukan kebiasaan disiplin dengan penggunaan alat cerdas secara strategis, Anda dapat mengubah inbox Anda dari sumber ketakutan menjadi pusat komunikasi yang mudah dikelola.
 
-Siap merasakan bagaimana AI dapat mengubah hubungan Anda dengan email? Ambil langkah pertama menuju hari kerja yang lebih tenang dan produktif. Jelajahi bagaimana [Chiefy](https://chiefy.com/id) menggunakan triase AI, ringkasan cerdas, dan penyusunan autentik untuk membantu profesional sibuk seperti Anda menguasai inbox mereka.
+Siap merasakan bagaimana AI dapat mengubah hubungan Anda dengan email? Ambil langkah pertama menuju hari kerja yang lebih tenang dan produktif. Jelajahi bagaimana [Duet Mail](https://duetmail.com/id) menggunakan triase AI, ringkasan cerdas, dan penyusunan autentik untuk membantu profesional sibuk seperti Anda menguasai inbox mereka.

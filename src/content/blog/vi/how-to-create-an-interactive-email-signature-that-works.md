@@ -2,7 +2,7 @@
 title: "Cách tạo chữ ký email tương tác thật sự hiệu quả"
 description: "Tìm hiểu cách tạo chữ ký email tương tác để tăng tương tác, xây dựng thương hiệu và tạo lead. Hướng dẫn từng bước cho freelancer và startup"
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Chữ ký tương tác được thiết kế để khơi gợi hành động: m�
 
 Đây là lúc việc kết hợp chiến lược chữ ký với các công cụ quản lý email thông minh có thể tạo khác biệt. Khi lead bắt đầu nhấp vào liên kết "Book a Meeting" được tạo bởi chữ ký tuyệt vời của bạn, bạn cần một hệ thống để xử lý việc đặt lịch và trao đổi tiếp theo một cách trơn tru. Tương tự, giữ được giọng điệu chuyên nghiệp mà chữ ký đã thiết lập trong mọi email follow-up là yếu tố quan trọng để xây dựng quan hệ.
 
-Các công cụ được thiết kế cho năng suất email, như [Chiefy](https://chiefy.com/vi), có thể giúp nối khoảng cách này. Hãy tưởng tượng bạn được AI hỗ trợ soạn các phản hồi nhanh, cá nhân hóa mà vẫn giữ giọng văn riêng sau khi ai đó tương tác với CTA trong chữ ký. Các tính năng của Chiefy như **AI Triage** có thể giúp đưa các phản hồi quan trọng phát sinh từ tương tác với chữ ký lên trước, trong khi **Authentic AI Drafting** đảm bảo follow-up nghe giống bạn, giữ nguyên sự chuyên nghiệp mà chữ ký truyền tải. Nó biến tương tác được chữ ký khơi gợi thành các cuộc trò chuyện được quản lý tốt và hiệu quả.
+Các công cụ được thiết kế cho năng suất email, như [Duet Mail](https://duetmail.com/vi), có thể giúp nối khoảng cách này. Hãy tưởng tượng bạn được AI hỗ trợ soạn các phản hồi nhanh, cá nhân hóa mà vẫn giữ giọng văn riêng sau khi ai đó tương tác với CTA trong chữ ký. Các tính năng của Duet Mail như **AI Triage** có thể giúp đưa các phản hồi quan trọng phát sinh từ tương tác với chữ ký lên trước, trong khi **Authentic AI Drafting** đảm bảo follow-up nghe giống bạn, giữ nguyên sự chuyên nghiệp mà chữ ký truyền tải. Nó biến tương tác được chữ ký khơi gợi thành các cuộc trò chuyện được quản lý tốt và hiệu quả.
 
 ## Sẵn sàng kích hoạt chữ ký của bạn?
 

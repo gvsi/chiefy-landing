@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy | Asistent de e-mail AI pentru Gmail și Outlook",
-    "description": "Asistentul de e-mail AI al lui Chiefy rezumă e-mailurile, redactează răspunsuri și organizează căsuța de e-mail. Funcționează cu Gmail și Outlook. Economisiți peste 4 ore pe săptămână."
+    "title": "Duet Mail | Asistent de e-mail AI pentru Gmail și Outlook",
+    "description": "Asistentul de e-mail AI al lui Duet Mail rezumă e-mailurile, redactează răspunsuri și organizează căsuța de e-mail. Funcționează cu Gmail și Outlook. Economisiți peste 4 ore pe săptămână."
   },
   "hero": {
     "badge": "Acum disponibil pentru Gmail și Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Ciorne de e-mail care sună ca tine",
-        "description": "Scriitorul de e-mail Chiefy AI pregătește schițe pentru cele mai importante e-mailuri. Îți învață tonul și stilurile de scriere.",
+        "description": "Scriitorul de e-mail Duet AI pregătește schițe pentru cele mai importante e-mailuri. Îți învață tonul și stilurile de scriere.",
         "ariaLabel": "Ciorne de e-mail care sună ca tine",
         "mockCopy": {
           "draftedColdEmail": "Am redactat un e-mail rece personalizat pentru John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Mementouri inteligente",
-        "description": "Setează-l și uită-l. Chiefy AI își amintește să urmărească atunci când alții nu răspund, așa că nimic nu cade prin fisuri.",
+        "description": "Setează-l și uită-l. Duet AI își amintește să urmărească atunci când alții nu răspund, așa că nimic nu cade prin fisuri.",
         "ariaLabel": "Mementouri inteligente",
         "mockCopy": {
           "header": "Mementouri inteligente bazate pe AI",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Organizarea e-mailului și clasificarea inteligentă în căsuța de e-mail",
     "badge": "Organizare",
-    "title": "Chiefy vă organizează căsuța de e-mail",
+    "title": "Duet vă organizează căsuța de e-mail",
     "subtitle": "Categorizarea automată filtrează zgomotul și evidențiază ceea ce contează. Vedeți instantaneu ce necesită acțiune, ce este doar FYI și ce poate aștepta.",
     "windowTitle": "Inbox",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "Redactarea e-mailurilor AI și generarea de răspunsuri",
     "badge": "Redactarea",
-    "title": "Chiefy schiță în voce",
-    "subtitle": "Chiefy învață cum scrii și redactează răspunsuri care se potrivesc cu tonul tău. Examinați, ajustați dacă este necesar și trimiteți în câteva secunde.",
+    "title": "Duet schiță în voce",
+    "subtitle": "Duet învață cum scrii și redactează răspunsuri care se potrivesc cu tonul tău. Examinați, ajustați dacă este necesar și trimiteți în câteva secunde.",
     "windowTitle": "Mesaj nou",
     "fieldLabels": {
       "to": "La:",
@@ -252,8 +252,8 @@
     "ariaLabel": "Inteligență și asistent de e-mail AI",
     "badge": "Inteligența",
     "title": "Întreabă orice despre e-mailul tău",
-    "subtitle": "Solicitați lui Chiefy să găsească e-mailuri, să vă verifice calendarul sau să redacteze un răspuns. Îți înțelege căsuța de e-mail și răspunde instantaneu.",
-    "windowTitle": "Agent Chiefy",
+    "subtitle": "Solicitați lui Duet să găsească e-mailuri, să vă verifice calendarul sau să redacteze un răspuns. Îți înțelege căsuța de e-mail și răspunde instantaneu.",
+    "windowTitle": "Agent Duet",
     "onlineLabel": "Online",
     "initialUserMessage": "Puteți găsi factura Stripe trimisă de Contabilitate?",
     "processingText": "Se caută în căsuța de e-mail...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Freelancer",
-        "quote": "Merita fiecare banut. Timpul pe care îl economisesc pe e-mail plătește Chiefy de 10 ori peste. Nu-mi pot imagina că lucrez fără ea acum.",
+        "quote": "Merita fiecare banut. Timpul pe care îl economisesc pe e-mail plătește Duet Mail de 10 ori peste. Nu-mi pot imagina că lucrez fără ea acum.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Consultant",
-        "quote": "Ca consultant, fiecare minut contează. Chiefy nu doar mă economisește timp, ci face comunicarea prin e-mail mai clară.",
+        "quote": "Ca consultant, fiecare minut contează. Duet Mail nu doar mă economisește timp, ci face comunicarea prin e-mail mai clară.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Organizarea de bază pentru a începe"
           },
           {
-            "title": "Chiefy Asistent",
+            "title": "Duet Asistent",
             "description": "Încercați asistentul AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Asistent",
+            "title": "Duet Asistent",
             "description": "Chat pentru a găsi, schița, organiza și multe altele",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "CONTACT",
     "contactHeading": "Mai ai întrebări?",
     "contactCta": "Luați legătura →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Cum protejează Chiefy datele mele de e-mail?",
+        "question": "Cum protejează Duet Mail datele mele de e-mail?",
         "answer": "Securitatea dumneavoastră este prioritatea noastră principală. Folosim OAuth 2.0 pentru autentificarea sigură atât cu Google, cât și cu Microsoft. Conținutul de e-mail este criptat în repaus folosind criptarea la nivel de câmp la nivel de client și respectăm principiul celui mai mic privilegiu pentru accesul API. Pentru integrarea noastră Google, ne supunem evaluării anuale de securitate CASA a Google."
       },
       {
         "question": "Cum funcționează funcția de rezumat prin e-mail?",
-        "answer": "Chiefy folosește AI avansată pentru a analiza firele de e-mail și pentru a genera o prezentare generală concisă care evidențiază punctele cheie, deciziile și elementele de acțiune. Acest lucru vă ajută să înțelegeți rapid contextul fără a citi întregul fir."
+        "answer": "Duet Mail folosește AI avansată pentru a analiza firele de e-mail și pentru a genera o prezentare generală concisă care evidențiază punctele cheie, deciziile și elementele de acțiune. Acest lucru vă ajută să înțelegeți rapid contextul fără a citi întregul fir."
       },
       {
-        "question": "De ce permisiuni are nevoie Chiefy?",
-        "answer": "Chiefy necesită acces la e-mailurile dvs. pentru a furniza rezumate, pentru a extrage elemente de acțiune, pentru a genera conținut și pentru a vă trimite e-mailurile. Solicităm doar permisiunile de care avem absolut nevoie. Puteți examina și revoca aceste permisiuni în orice moment din setările Contului dvs. Google sau ale contului Microsoft."
+        "question": "De ce permisiuni are nevoie Duet Mail?",
+        "answer": "Duet Mail necesită acces la e-mailurile dvs. pentru a furniza rezumate, pentru a extrage elemente de acțiune, pentru a genera conținut și pentru a vă trimite e-mailurile. Solicităm doar permisiunile de care avem absolut nevoie. Puteți examina și revoca aceste permisiuni în orice moment din setările Contului dvs. Google sau ale contului Microsoft."
       },
       {
         "question": "Ce este inclus în perioada de încercare gratuită?",
         "answer": "Perioada de încercare gratuită de 14 zile include acces complet la toate funcțiile Pro: rezumate nelimitate de e-mail, extragerea elementelor de acțiune, redactare de e-mailuri AI (generarea de e-mailuri și schițe fără limite) și șabloane de e-mail personalizate. Conectați-vă cu Google sau Microsoft pentru a începe să economisiți timp în gestionarea e-mailului."
       },
       {
-        "question": "Pot folosi Chiefy cu alți furnizori de e-mail?",
-        "answer": "Chiefy acceptă Gmail, Google Workspace și Microsoft Outlook. Conectați-vă cu contul dvs. Google sau Microsoft pentru a începe."
+        "question": "Pot folosi Duet Mail cu alți furnizori de e-mail?",
+        "answer": "Duet Mail acceptă Gmail, Google Workspace și Microsoft Outlook. Conectați-vă cu contul dvs. Google sau Microsoft pentru a începe."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Subsolul site-ului",
-    "brandIconAlt": "Pictograma Chiefy",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "Pictograma Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Asistentul de e-mail AI care vă economisește ore în fiecare săptămână",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Explora",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "Rentabilitatea investiției",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "La {pricePerBooking} per {bookingUnit}, pierderea doar {lostPerMonth} pentru răspunsurile lente =",
     "lossSuffix": "/ mo plecat",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "30 USD/lună"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - Asistent de e-mail AI pentru Gmail și Outlook",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Asistent de e-mail AI pentru Gmail și Outlook",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Asistență pentru clienți",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "Asistent de e-mail AI pentru Gmail și Outlook care rezumă automat e-mailurile, redactează răspunsuri în voce și organizează căsuța de e-mail pentru a economisi ore în fiecare săptămână.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Web",
     "browserRequirements": "Necesită JavaScript. Funcționează cu Gmail, Google Workspace și Microsoft Outlook.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "https://duetmail.com/ro/",
+      "logo": "https://duetmail.com/ro/favicon.svg",
+      "screenshot": "https://duetmail.com/ro/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "Cum protejează Chiefy datele mele de e-mail?",
+        "question": "Cum protejează Duet Mail datele mele de e-mail?",
         "answer": "Securitatea dumneavoastră este prioritatea noastră principală. Folosim OAuth 2.0 pentru autentificarea sigură atât cu Google, cât și cu Microsoft. Conținutul de e-mail este criptat în repaus folosind criptarea la nivel de câmp la nivel de client și respectăm principiul celui mai mic privilegiu pentru accesul API. Pentru integrarea noastră Google, ne supunem evaluării anuale de securitate CASA a Google."
       },
       {
         "question": "Cum funcționează funcția de rezumat prin e-mail?",
-        "answer": "Chiefy folosește AI avansată pentru a analiza firele de e-mail și pentru a genera o prezentare generală concisă care evidențiază punctele cheie, deciziile și elementele de acțiune. Acest lucru vă ajută să înțelegeți rapid contextul fără a citi întregul fir."
+        "answer": "Duet Mail folosește AI avansată pentru a analiza firele de e-mail și pentru a genera o prezentare generală concisă care evidențiază punctele cheie, deciziile și elementele de acțiune. Acest lucru vă ajută să înțelegeți rapid contextul fără a citi întregul fir."
       },
       {
-        "question": "De ce permisiuni are nevoie Chiefy?",
-        "answer": "Chiefy necesită acces la e-mailurile dvs. pentru a furniza rezumate, pentru a extrage elemente de acțiune, pentru a genera conținut și pentru a vă trimite e-mailurile. Solicităm doar permisiunile de care avem absolut nevoie. Puteți examina și revoca aceste permisiuni în orice moment din setările Contului dvs. Google sau ale contului Microsoft."
+        "question": "De ce permisiuni are nevoie Duet Mail?",
+        "answer": "Duet Mail necesită acces la e-mailurile dvs. pentru a furniza rezumate, pentru a extrage elemente de acțiune, pentru a genera conținut și pentru a vă trimite e-mailurile. Solicităm doar permisiunile de care avem absolut nevoie. Puteți examina și revoca aceste permisiuni în orice moment din setările Contului dvs. Google sau ale contului Microsoft."
       },
       {
         "question": "Ce este inclus în perioada de încercare gratuită?",
         "answer": "Perioada de încercare gratuită de 14 zile include acces complet la toate funcțiile Pro: rezumate nelimitate de e-mail, extragerea elementelor de acțiune, redactare de e-mailuri AI (generarea de e-mailuri și schițe fără limite) și șabloane de e-mail personalizate. Conectați-vă cu Google sau Microsoft pentru a începe să economisiți timp în gestionarea e-mailului."
       },
       {
-        "question": "Pot folosi Chiefy cu alți furnizori de e-mail?",
-        "answer": "Chiefy acceptă Gmail, Google Workspace și Microsoft Outlook. Conectați-vă cu contul dvs. Google sau Microsoft pentru a începe."
+        "question": "Pot folosi Duet Mail cu alți furnizori de e-mail?",
+        "answer": "Duet Mail acceptă Gmail, Google Workspace și Microsoft Outlook. Conectați-vă cu contul dvs. Google sau Microsoft pentru a începe."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

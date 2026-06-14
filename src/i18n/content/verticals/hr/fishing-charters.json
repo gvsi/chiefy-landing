@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy za ribolovne čartere | AI pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže kapetanima ribolovnih čartera da odmah odgovore na e-poštu za rezervacije — čak i iz vode. Odgovori izrađeni umjetnom inteligencijom s vašim cijenama, pravilima i glasom.",
+  "pageTitle": "Duet Mail za ribolovne čartere | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže kapetanima ribolovnih čartera da odmah odgovore na e-poštu za rezervacije — čak i iz vode. Odgovori izrađeni umjetnom inteligencijom s vašim cijenama, pravilima i glasom.",
   "heroBadge": "Vjeruje mu više od 500 čarter kapetana",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na vodi",
-  "heroSubline": "Chiefy uči vaše cijene, pravila i glas — zatim sastavlja skice odgovora e-poštom kako nikada ne biste izgubili rezervaciju zbog sporog odgovora.",
+  "heroSubline": "Duet uči vaše cijene, pravila i glas — zatim sastavlja skice odgovora e-poštom kako nikada ne biste izgubili rezervaciju zbog sporog odgovora.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "čarter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Jedna spremljena rezervacija plaća godinu dana Chiefy."
+    "punchline": "Jedna spremljena rezervacija plaća godinu dana Duet."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite zahtjeve za rezervaciju, zatim pitanja, a nikad buku. Nema više propuštanja upita o putovanju zakopanog ispod TripAdvisor upozorenja.",
-  "draftSubtitle": "Chiefy uči vaše cijene, pravila i ton. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s detaljima putovanja, cijenama i onim što ponijeti. Vi pregledate i pošaljete.",
-  "agentSubtitle": "\"Koji su dani otvoreni sljedeći tjedan?\" \"Nacrtajte odgovor Sarah s dostupnošću.\" Chiefy zna vašu pristiglu poštu i kalendar — samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahtjeve za rezervaciju, zatim pitanja, a nikad buku. Nema više propuštanja upita o putovanju zakopanog ispod TripAdvisor upozorenja.",
+  "draftSubtitle": "Duet uči vaše cijene, pravila i ton. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s detaljima putovanja, cijenama i onim što ponijeti. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Koji su dani otvoreni sljedeći tjedan?\" \"Nacrtajte odgovor Sarah s dostupnošću.\" Duet zna vašu pristiglu poštu i kalendar — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Kapetan Mike D.",
       "title": "Kapetan čarter brodova u moru, FL",
-      "quote": "Tijekom vrhunca sezone izgubio bih 2-3 rezervacije tjedno samo zato što nisam mogao dovoljno brzo odgovoriti s broda. Chiefy sastavlja skice odgovora s mojim cijenama i pojedinostima o putovanju — samo pritisnem pošalji između hvatanja.",
+      "quote": "Tijekom vrhunca sezone izgubio bih 2-3 rezervacije tjedno samo zato što nisam mogao dovoljno brzo odgovoriti s broda. Duet sastavlja skice odgovora s mojim cijenama i pojedinostima o putovanju — samo pritisnem pošalji između hvatanja.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah i Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "Imamo dva broda i količina e-pošte tijekom ljeta je luda. Chiefy razvrstava zahtjeve za rezervaciju od svega ostalog i sastavlja odgovore koji zvuče točno poput nas. Apsolutna promjena igre.",
+      "quote": "Imamo dva broda i količina e-pošte tijekom ljeta je luda. Duet razvrstava zahtjeve za rezervaciju od svega ostalog i sastavlja odgovore koji zvuče točno poput nas. Apsolutna promjena igre.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Vodič za obalni ribolov, TX",
-      "quote": "Provodio sam sat vremena svake večeri odgovarajući na ista pitanja o dostupnosti. Sada to rješava Chiefy. Vrijeme mog odgovora je bilo od sati do minuta i od tada nisam izgubio nijednu rezervaciju.",
+      "quote": "Provodio sam sat vremena svake večeri odgovarajući na ista pitanja o dostupnosti. Sada to rješava Duet. Vrijeme mog odgovora je bilo od sati do minuta i od tada nisam izgubio nijednu rezervaciju.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Voditelj ureda za charter, bok",
-      "quote": "Upravljanje e-poštom za 4 kapetana bio je posao s punim radnim vremenom. Chiefy sve kategorizira i sastavlja odgovore s pravim brodom, pravom cijenom, pravim kapetanom. Kao da imaš drugog sebe.",
+      "quote": "Upravljanje e-poštom za 4 kapetana bio je posao s punim radnim vremenom. Duet sve kategorizira i sastavlja odgovore s pravim brodom, pravom cijenom, pravim kapetanom. Kao da imaš drugog sebe.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Radi li Chiefy za e-poruke o rezervacijama i dostupnosti?",
-      "answer": "Apsolutno. Chiefy uči vaše vrste putovanja, cijene, dostupnost i pravila. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s pravim detaljima — cijena, što je uključeno, mjesto sastanka, što ponijeti. Pregledate i dodirnete Pošalji."
+      "question": "Radi li Duet za e-poruke o rezervacijama i dostupnosti?",
+      "answer": "Apsolutno. Duet uči vaše vrste putovanja, cijene, dostupnost i pravila. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s pravim detaljima — cijena, što je uključeno, mjesto sastanka, što ponijeti. Pregledate i dodirnete Pošalji."
     },
     {
-      "question": "Cijeli dan sam na vodi. Mogu li koristiti Chiefy sa svog telefona?",
-      "answer": "Da. Chiefy radi s uslugama Gmail i Outlook, tako da radi gdje god radi vaša e-pošta — uključujući vaš telefon. Nacrti se pojavljuju automatski. Između hvatanja pregledavate i šaljete jednim dodirom. Većina kapetana kaže nam da im to štedi 1-2 sata vremena za e-poštu dnevno tijekom vrhunca sezone."
+      "question": "Cijeli dan sam na vodi. Mogu li koristiti Duet sa svog telefona?",
+      "answer": "Da. Duet radi s uslugama Gmail i Outlook, tako da radi gdje god radi vaša e-pošta — uključujući vaš telefon. Nacrti se pojavljuju automatski. Između hvatanja pregledavate i šaljete jednim dodirom. Većina kapetana kaže nam da im to štedi 1-2 sata vremena za e-poštu dnevno tijekom vrhunca sezone."
     }
   ],
   "pricingNote": "Uz 500 USD/čarter, jedna spremljena rezervacija plaća više od godinu dana Pro."

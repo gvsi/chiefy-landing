@@ -2,7 +2,7 @@
 title: "La guía definitiva para pies de página de correo electrónico HTML: cumplimiento, diseño y ejemplos"
 description: "Domine los pies de página de correo electrónico HTML: elementos esenciales, consejos de diseño, cumplimiento legal (CAN-SPAM, GDPR, CASL) y ejemplos de marca."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["IA", "Correo electrónico"]
 draft: false
 ---
@@ -122,4 +122,4 @@ El pie de página de tu correo electrónico HTML puede ser lo último que ven lo
 
 Genera confianza, refuerza su marca, garantiza el cumplimiento y proporciona una navegación útil para su audiencia. Tómate unos minutos para revisar el pie de página de tu correo electrónico actual. ¿Es compatible? ¿Está claro? ¿Es compatible con dispositivos móviles? Realizar estas pequeñas mejoras puede tener un gran impacto en cómo se perciben sus correos electrónicos y su marca.
 
-¿Busca formas de hacer que la gestión general de su correo electrónico sea más eficiente y profesional? Considere explorar herramientas diseñadas para profesionales ocupados. Por ejemplo, aprender cómo [Chiefy simplifica la productividad del correo electrónico](https://chiefy.com/es) con funciones impulsadas por IA podría liberar más tiempo para concentrarse en perfeccionar detalles como su pie de página y garantizar que cada comunicación lo represente bien.
+¿Busca formas de hacer que la gestión general de su correo electrónico sea más eficiente y profesional? Considere explorar herramientas diseñadas para profesionales ocupados. Por ejemplo, aprender cómo [Duet Mail simplifica la productividad del correo electrónico](https://duetmail.com/es) con funciones impulsadas por IA podría liberar más tiempo para concentrarse en perfeccionar detalles como su pie de página y garantizar que cada comunicación lo represente bien.

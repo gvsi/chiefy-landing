@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy dla projektantów krajobrazu | AI Email Assistant",
-  "metaDescription": "Chiefy pomaga projektantom krajobrazu natychmiast odpowiadać na e-maile klientów — nawet z terenu. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły projektu, ceny i głos.",
+  "pageTitle": "Duet Mail dla projektantów krajobrazu | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga projektantom krajobrazu natychmiast odpowiadać na e-maile klientów — nawet z terenu. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły projektu, ceny i głos.",
   "heroBadge": "Zaufali nam projektanci krajobrazu 300+",
   "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś w terenie",
-  "heroSubline": "Chiefy poznaje szczegóły Twojego projektu, palety roślin, ceny i proces, a następnie przygotowuje odpowiedzi e-mailowe, dzięki czemu nigdy nie stracisz klienta z powodu powolnej reakcji.",
+  "heroSubline": "Duet poznaje szczegóły Twojego projektu, palety roślin, ceny i proces, a następnie przygotowuje odpowiedzi e-mailowe, dzięki czemu nigdy nie stracisz klienta z powodu powolnej reakcji.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Jeden zaoszczędzony projekt opłaca się przez lata Chiefy."
+    "punchline": "Jeden zaoszczędzony projekt opłaca się przez lata Duet."
   },
-  "categorizationSubtitle": "Chiefy automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się nowe prośby o konsultacje, w drugiej kolejności zatwierdzenia klientów, a informacje o dostawcach nigdy. Nigdy więcej brakujących leadów ukrytych pod potwierdzeniami zamówień w żłobku.",
-  "draftSubtitle": "Chiefy poznaje Twoje ceny, procesy i ton. Kiedy pojawi się prośba o konsultację, sporządzana jest pełna odpowiedź zawierająca Twoją dostępność, czego się spodziewać i dalsze kroki. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„Jaki jest harmonogram projektu Henderson?” „Którzy klienci czekają na zatwierdzenie planu?” Chiefy zna Twoją skrzynkę odbiorczą i projekty — po prostu zapytaj.",
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się nowe prośby o konsultacje, w drugiej kolejności zatwierdzenia klientów, a informacje o dostawcach nigdy. Nigdy więcej brakujących leadów ukrytych pod potwierdzeniami zamówień w żłobku.",
+  "draftSubtitle": "Duet poznaje Twoje ceny, procesy i ton. Kiedy pojawi się prośba o konsultację, sporządzana jest pełna odpowiedź zawierająca Twoją dostępność, czego się spodziewać i dalsze kroki. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Jaki jest harmonogram projektu Henderson?” „Którzy klienci czekają na zatwierdzenie planu?” Duet zna Twoją skrzynkę odbiorczą i projekty — po prostu zapytaj.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Architekt krajobrazu, Austin w Teksasie",
-      "quote": "Wiosną jestem na miejscu 8 godzin dziennie, dokonując ocen i nadzoru nad instalacją. Nowe wnioski o konsultację będą rozpatrywane przez kilka dni. Teraz Chiefy odpowiada na mój proces i dostępność w ciągu kilku minut. Zarezerwowałem projekty 3, które na pewno bym stracił.",
+      "quote": "Wiosną jestem na miejscu 8 godzin dziennie, dokonując ocen i nadzoru nad instalacją. Nowe wnioski o konsultację będą rozpatrywane przez kilka dni. Teraz Duet odpowiada na mój proces i dostępność w ciągu kilku minut. Zarezerwowałem projekty 3, które na pewno bym stracił.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Projektant ogrodów, Portland LUB",
-      "quote": "Koordynacja pracy ekip zajmujących się architekturą ogrodniczą, instalatorami systemów nawadniających i klientami generuje absurdalną liczbę e-maili. Chiefy sortuje to wszystko i przygotowuje odpowiedzi zawierające właściwe szczegóły projektu. To tak, jakby mieć menadżera studia.",
+      "quote": "Koordynacja pracy ekip zajmujących się architekturą ogrodniczą, instalatorami systemów nawadniających i klientami generuje absurdalną liczbę e-maili. Duet sortuje to wszystko i przygotowuje odpowiedzi zawierające właściwe szczegóły projektu. To tak, jakby mieć menadżera studia.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Właściciel studia projektowania krajobrazu, Denver CO",
-      "quote": "Każdy wieczór po pracy w terenie spędzałem nadrabiając zaległości w e-mailach. Te same pytania – cena, proces, harmonogram. Chiefy obsługuje to wszystko. Mój czas reakcji wydłużył się z dni do minut, a wskaźnik zamykania transakcji znacznie wzrósł.",
+      "quote": "Każdy wieczór po pracy w terenie spędzałem nadrabiając zaległości w e-mailach. Te same pytania – cena, proces, harmonogram. Duet obsługuje to wszystko. Mój czas reakcji wydłużył się z dni do minut, a wskaźnik zamykania transakcji znacznie wzrósł.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Projektant krajobrazu mieszkalnego, Scottsdale AZ",
-      "quote": "Moi klienci zadają wiele pytań dotyczących doboru i pielęgnacji roślin. Chiefy zapoznał się z moimi paletami roślin i instrukcjami pielęgnacji oraz szkicami odpowiedzi, które ledwo muszę edytować. Klienci uważają, że jestem niesamowicie responsywny.",
+      "quote": "Moi klienci zadają wiele pytań dotyczących doboru i pielęgnacji roślin. Duet zapoznał się z moimi paletami roślin i instrukcjami pielęgnacji oraz szkicami odpowiedzi, które ledwo muszę edytować. Klienci uważają, że jestem niesamowicie responsywny.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Projektant krajobrazu z rodzimymi roślinami, Raleigh NC",
-      "quote": "Traciłem nowych klientów, ponieważ nie mogłem odpowiedzieć, gdy byłem po kolana w instalacji sadzenia. Chiefy przygotowuje odpowiedzi na konsultacje, podając mój dokładny proces, ceny i to, czego się spodziewać. Opłaciło się już w pierwszym tygodniu.",
+      "quote": "Traciłem nowych klientów, ponieważ nie mogłem odpowiedzieć, gdy byłem po kolana w instalacji sadzenia. Duet przygotowuje odpowiedzi na konsultacje, podając mój dokładny proces, ceny i to, czego się spodziewać. Opłaciło się już w pierwszym tygodniu.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Czy Chiefy poradzi sobie z wiosenną gorączką, gdy narasta liczba próśb o konsultację?",
-      "answer": "Właśnie wtedy błyszczy Chiefy. W najbardziej pracowitym sezonie każde nowe zapytanie otrzymuje szybką i szczegółową odpowiedź zawierającą proces, harmonogram i dostępność – nawet jeśli jesteś na miejscu przez cały dzień. Koniec z utratą wiosennych leadów, ponieważ nie można było do nich wrócić aż do 9 PM."
+      "question": "Czy Duet poradzi sobie z wiosenną gorączką, gdy narasta liczba próśb o konsultację?",
+      "answer": "Właśnie wtedy błyszczy Duet. W najbardziej pracowitym sezonie każde nowe zapytanie otrzymuje szybką i szczegółową odpowiedź zawierającą proces, harmonogram i dostępność – nawet jeśli jesteś na miejscu przez cały dzień. Koniec z utratą wiosennych leadów, ponieważ nie można było do nich wrócić aż do 9 PM."
     },
     {
-      "question": "Koordynuję pracę z wieloma ekipami zewnętrznymi. Czy Chiefy pomaga w tym?",
-      "answer": "Tak. Chiefy uczy się Twoich projektów i zaangażowanych wykonawców — terenów zielonych, nawadniania, ekip sadzących, szkółek. Kategoryzuje wiadomości e-mail wykonawców oddzielnie od wiadomości e-mail klientów i może tworzyć odpowiedzi zawierające szczegóły specyficzne dla projektu, takie jak specyfikacje, harmonogramy i materiały. Będziesz na bieżąco z każdą załogą bez chaosu w skrzynce odbiorczej."
+      "question": "Koordynuję pracę z wieloma ekipami zewnętrznymi. Czy Duet pomaga w tym?",
+      "answer": "Tak. Duet uczy się Twoich projektów i zaangażowanych wykonawców — terenów zielonych, nawadniania, ekip sadzących, szkółek. Kategoryzuje wiadomości e-mail wykonawców oddzielnie od wiadomości e-mail klientów i może tworzyć odpowiedzi zawierające szczegóły specyficzne dla projektu, takie jak specyfikacje, harmonogramy i materiały. Będziesz na bieżąco z każdą załogą bez chaosu w skrzynce odbiorczej."
     }
   ],
   "pricingNote": "W $8,000/project jeden zaoszczędzony klient płaci za lata Pro."

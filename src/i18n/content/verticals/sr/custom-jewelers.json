@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy za Custom Jevellers | AI Pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže juvelirima da odmah odgovore na zahteve za konsultacije, odobrenja dizajna i pitanja o vremenskoj liniji — čak i dok su na radnom stolu. AI nacrt odgovora sa vašim procesom, cenama i glasom.",
+  "pageTitle": "Duet Mail za Custom Jevellers | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže juvelirima da odmah odgovore na zahteve za konsultacije, odobrenja dizajna i pitanja o vremenskoj liniji — čak i dok su na radnom stolu. AI nacrt odgovora sa vašim procesom, cenama i glasom.",
   "heroBadge": "Ima poverenja od 300+ dizajnera nakita",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na klupi",
-  "heroSubline": "Chiefy uči vaš proces dizajna, materijale, cene i vremenske okvire — zatim pravi nacrte odgovora e-poštom tako da nikada ne izgubite prilagođenog klijenta zbog sporog odgovora.",
+  "heroSubline": "Duet uči vaš proces dizajna, materijale, cene i vremenske okvire — zatim pravi nacrte odgovora e-poštom tako da nikada ne izgubite prilagođenog klijenta zbog sporog odgovora.",
   "inboxEmails": [
     {
       "from": "Rejčel i Dejvid T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "prilagođeni komad",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Jedan sačuvani klijent plaća više od četiri godine od Chiefy."
+    "punchline": "Jedan sačuvani klijent plaća više od četiri godine od Duet."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite nove zahteve za konsultacije, zatim odobrenja dizajna, a biltene dobavljača nikada. Nema više propuštanja upita od 5.000 dolara zakopanih u promocijama dobavljača.",
-  "draftSubtitle": "Chiefy uči vaš proces, materijale, cene i glas. Kada stigne zahtev za konsultacije, on sastavlja kompletan odgovor sa vašom dostupnošću, šta da donesete i kako vaš proces funkcioniše. Pregledate i pošaljete.",
-  "agentSubtitle": "„Gde smo sa Amandinim prstenom?“ „Nacrtaj ažuriranje vremenske linije za Džejmsa.“ Chiefy poznaje svaku klijentsku nit — samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite nove zahteve za konsultacije, zatim odobrenja dizajna, a biltene dobavljača nikada. Nema više propuštanja upita od 5.000 dolara zakopanih u promocijama dobavljača.",
+  "draftSubtitle": "Duet uči vaš proces, materijale, cene i glas. Kada stigne zahtev za konsultacije, on sastavlja kompletan odgovor sa vašom dostupnošću, šta da donesete i kako vaš proces funkcioniše. Pregledate i pošaljete.",
+  "agentSubtitle": "„Gde smo sa Amandinim prstenom?“ „Nacrtaj ažuriranje vremenske linije za Džejmsa.“ Duet poznaje svaku klijentsku nit — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rejčel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marko R.",
       "title": "Dizajner nakita po meri, LA",
-      "quote": "Svaki prilagođeni komad generiše 10-15 e-poruka tokom nedelja. Pomnožite to sa 8 aktivnih klijenata i ja sam se davio. Chiefy nacrta odgovora o ažuriranju dizajna, potvrde konsultacija, odgovora na vremenskoj liniji — sve u mom glasu. Pregledam između kastinga i pritisnem pošalji.",
+      "quote": "Svaki prilagođeni komad generiše 10-15 e-poruka tokom nedelja. Pomnožite to sa 8 aktivnih klijenata i ja sam se davio. Duet nacrta odgovora o ažuriranju dizajna, potvrde konsultacija, odgovora na vremenskoj liniji — sve u mom glasu. Pregledam između kastinga i pritisnem pošalji.",
       "avatarKey": "michael"
     },
     {
       "name": "Sara L.",
       "title": "Goldsmith & Studio Ovner, Bruklin",
-      "quote": "Izgubio sam proviziju od 7.000 dolara za verenički prsten jer mi je trebalo 3 dana da odgovorim — par je otišao kod nekoga ko je odgovorio za 2 sata. Od Chiefy, moje vreme odgovora je manje od 30 minuta. To se nije ponovilo.",
+      "quote": "Izgubio sam proviziju od 7.000 dolara za verenički prsten jer mi je trebalo 3 dana da odgovorim — par je otišao kod nekoga ko je odgovorio za 2 sata. Od Duet, moje vreme odgovora je manje od 30 minuta. To se nije ponovilo.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danni K.",
       "title": "Bench Jeveller, Čikago",
-      "quote": "Na klupi sam 8 sati dnevno sa bakljom u ruci. Ne mogu da zaustavim mid-lemljenje da otkucam konsultativni odgovor. Chiefy sve ispisuje dok radim — bacim pogled na telefon, odobravam, gotovo.",
+      "quote": "Na klupi sam 8 sati dnevno sa bakljom u ruci. Ne mogu da zaustavim mid-lemljenje da otkucam konsultativni odgovor. Duet sve ispisuje dok radim — bacim pogled na telefon, odobravam, gotovo.",
       "avatarKey": "Johnni"
     },
     {
       "name": "Alessia M.",
       "title": "Dizajner svadbenog nakita, Ostin",
-      "quote": "Tokom sezone angažmana dobijam 20+ zahteva za konsultacije nedeljno. Chiefy je naučio ceo moj proces — materijale, rokove, nivoe cena, šta da donesem. Sastavlja nacrte odgovora koje jedva da moram uređivati. Apsolutni spas od novembra do februara.",
+      "quote": "Tokom sezone angažmana dobijam 20+ zahteva za konsultacije nedeljno. Duet je naučio ceo moj proces — materijale, rokove, nivoe cena, šta da donesem. Sastavlja nacrte odgovora koje jedva da moram uređivati. Apsolutni spas od novembra do februara.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Specijalista za prilagođene prstenove, Portland",
-      "quote": "E-poruke o 3D reviziji su mi jele večeri. Klijent šalje povratne informacije, ja nacrtam ažuriranje, napred i nazad pet puta. Sada Chiefy upravlja rutinskim odgovorima, a ja samo ulazim u odluke o dizajnu. Vratio sam svoje noći.",
+      "quote": "E-poruke o 3D reviziji su mi jele večeri. Klijent šalje povratne informacije, ja nacrtam ažuriranje, napred i nazad pet puta. Sada Duet upravlja rutinskim odgovorima, a ja samo ulazim u odluke o dizajnu. Vratio sam svoje noći.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Može li Chiefy da obrađuje e-poštu sa referentnim fotografijama i prilozima za dizajn?",
-      "answer": "Da. Chiefy vidi celu nit e-pošte uključujući priloge, tako da razume kontekst kada klijent šalje fotografije inspiracije ili povratne informacije o dizajnu. Neće opisati slike nazad, ali zna da je klijent upravo poslao referentne fotografije i sastavlja odgovarajući odgovor — potvrđujući prijem, postavljajući pojašnjavajuća pitanja o dizajnu ili pružajući sledeće korake na osnovu vašeg uobičajenog toka posla."
+      "question": "Može li Duet da obrađuje e-poštu sa referentnim fotografijama i prilozima za dizajn?",
+      "answer": "Da. Duet vidi celu nit e-pošte uključujući priloge, tako da razume kontekst kada klijent šalje fotografije inspiracije ili povratne informacije o dizajnu. Neće opisati slike nazad, ali zna da je klijent upravo poslao referentne fotografije i sastavlja odgovarajući odgovor — potvrđujući prijem, postavljajući pojašnjavajuća pitanja o dizajnu ili pružajući sledeće korake na osnovu vašeg uobičajenog toka posla."
     },
     {
-      "question": "Moji prilagođeni projekti imaju dugačke poruke e-pošte sa 10+ poruka. Može li Chiefy da ih prati?",
-      "answer": "Upravo tu sija Chiefy. Čita čitavu istoriju niti – beleške o konsultaciji, revizije dizajna, izbor materijala, ažuriranja vremenske linije – tako da svaki nacrt odgovora ima pun kontekst. Kada klijent pita „koji je status mog prstena?“ u e-poruci #14, Chiefy zna u kom prstenu, u kojoj se fazi nalazi i pravi tačnu ispravku. Nema više da sami ponovo čitate 3 meseca e-pošte."
+      "question": "Moji prilagođeni projekti imaju dugačke poruke e-pošte sa 10+ poruka. Može li Duet da ih prati?",
+      "answer": "Upravo tu sija Duet. Čita čitavu istoriju niti – beleške o konsultaciji, revizije dizajna, izbor materijala, ažuriranja vremenske linije – tako da svaki nacrt odgovora ima pun kontekst. Kada klijent pita „koji je status mog prstena?“ u e-poruci #14, Duet zna u kom prstenu, u kojoj se fazi nalazi i pravi tačnu ispravku. Nema više da sami ponovo čitate 3 meseca e-pošte."
     }
   ],
   "pricingNote": "Sa 5.000 dolara po komadu, jedna ušteđena provizija plaća više od četiri godine od Pro."

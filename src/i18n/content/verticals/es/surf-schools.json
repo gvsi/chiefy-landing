@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy para escuelas de surf y operadores de tablas de remo | Asistente de correo electrónico con IA",
-  "metaDescription": "Chiefy ayuda a los instructores de surf y operadores de paddleboard a responder los correos electrónicos de reservas al instante, incluso mientras enseñan. Respuestas redactadas por IA con sus tipos de lecciones, precios y voz.",
+  "pageTitle": "Duet Mail para escuelas de surf y operadores de tablas de remo | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los instructores de surf y operadores de paddleboard a responder los correos electrónicos de reservas al instante, incluso mientras enseñan. Respuestas redactadas por IA con sus tipos de lecciones, precios y voz.",
   "heroBadge": "Con la confianza de más de 300 instructores de surf",
   "heroHeadline": "Tu asistente de correo electrónico mientras enseñas en el agua",
-  "heroSubline": "Chiefy aprende los tipos de lecciones, precios y condiciones y luego redacta borradores de respuestas por correo electrónico para que nunca pierda una reserva debido a una respuesta lenta.",
+  "heroSubline": "Duet aprende los tipos de lecciones, precios y condiciones y luego redacta borradores de respuestas por correo electrónico para que nunca pierda una reserva debido a una respuesta lenta.",
   "inboxEmails": [
     {
       "from": "Raquel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lección",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Dos reservas guardadas pagan por un año de Chiefy."
+    "punchline": "Dos reservas guardadas pagan por un año de Duet."
   },
-  "categorizationSubtitle": "Chiefy etiqueta automáticamente cada correo electrónico para que veas primero las reservas de lecciones, luego las preguntas y nunca el ruido. No más perder una consulta de grupo escolar enterrada bajo alertas Yelp.",
-  "draftSubtitle": "Chiefy aprende los tipos de lecciones, el precio del grupo y el tono. Cuando llega una consulta de reserva, redacta una respuesta completa con disponibilidad, qué está incluido y qué traer. Tu revisas y envías.",
-  "agentSubtitle": "\"¿Alguna reserva de grupo próximamente esta semana?\" \"Redacta una respuesta a la escuela con disponibilidad\". Chiefy conoce tu bandeja de entrada y tu horario, solo pregúntale.",
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las reservas de lecciones, luego las preguntas y nunca el ruido. No más perder una consulta de grupo escolar enterrada bajo alertas Yelp.",
+  "draftSubtitle": "Duet aprende los tipos de lecciones, el precio del grupo y el tono. Cuando llega una consulta de reserva, redacta una respuesta completa con disponibilidad, qué está incluido y qué traer. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Alguna reserva de grupo próximamente esta semana?\" \"Redacta una respuesta a la escuela con disponibilidad\". Duet conoce tu bandeja de entrada y tu horario, solo pregúntale.",
   "categorizationEmails": [
     {
       "from": "Raquel T.",
@@ -127,31 +127,31 @@
     {
       "name": "El entrenador Mike T.",
       "title": "Propietario de la escuela de surf, CA",
-      "quote": "Estoy en el agua enseñando 6 horas al día. Cuando revisé el correo electrónico, la mitad de las reservas habían ido a parar a otra persona. Ahora Chiefy borradores responde con mi precio y disponibilidad; solo reviso entre sesiones.",
+      "quote": "Estoy en el agua enseñando 6 horas al día. Cuando revisé el correo electrónico, la mitad de las reservas habían ido a parar a otra persona. Ahora Duet borradores responde con mi precio y disponibilidad; solo reviso entre sesiones.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen y Mark S.",
       "title": "Clases y alquileres de paddleboard, Hawai",
-      "quote": "Realizamos lecciones y alquiler de tablas desde la misma bandeja de entrada. Chiefy descubrió la diferencia al instante: las preguntas sobre alquileres obtienen respuestas sobre alquileres, las consultas sobre lecciones obtienen detalles de las mismas. Es como tener una recepción.",
+      "quote": "Realizamos lecciones y alquiler de tablas desde la misma bandeja de entrada. Duet descubrió la diferencia al instante: las preguntas sobre alquileres obtienen respuestas sobre alquileres, las consultas sobre lecciones obtienen detalles de las mismas. Es como tener una recepción.",
       "avatarKey": "jennifer"
     },
     {
       "name": "danny r.",
       "title": "Instructor de surf, Florida",
-      "quote": "Las reservas de grupos escolares solían recibir 10 correos electrónicos de ida y vuelta. Ahora Chiefy redacta la primera respuesta con las tarifas grupales, lo que se incluye y la hoja de permiso. Corta todo el hilo por la mitad.",
+      "quote": "Las reservas de grupos escolares solían recibir 10 correos electrónicos de ida y vuelta. Ahora Duet redacta la primera respuesta con las tarifas grupales, lo que se incluye y la hoja de permiso. Corta todo el hilo por la mitad.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "Tours y lecciones de SUP, O",
-      "quote": "La temporada alta me estaba matando: 30 correos electrónicos al día sobre condiciones, precios y qué llevar. Las mismas cinco preguntas una y otra vez. Chiefy los maneja todos y suenan exactamente como yo.",
+      "quote": "La temporada alta me estaba matando: 30 correos electrónicos al día sobre condiciones, precios y qué llevar. Las mismas cinco preguntas una y otra vez. Duet los maneja todos y suenan exactamente como yo.",
       "avatarKey": "francesca"
     },
     {
       "name": "sara k.",
       "title": "Director del campamento de surf para niños, Carolina del Sur",
-      "quote": "Los padres envían los correos electrónicos más largos. Fechas de campamento, alergias, niveles de habilidad, horarios de recogida. Chiefy redacta respuestas detalladas que cubren todo, por lo que no tengo que escribir párrafos a las 10 p.m. después de un día completo en la playa.",
+      "quote": "Los padres envían los correos electrónicos más largos. Fechas de campamento, alergias, niveles de habilidad, horarios de recogida. Duet redacta respuestas detalladas que cubren todo, por lo que no tengo que escribir párrafos a las 10 p.m. después de un día completo en la playa.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "¿Chiefy maneja diferentes tipos de lecciones y alquiler de equipos?",
-      "answer": "Sí. Chiefy aprende todas tus ofertas: lecciones privadas, lecciones grupales, campamentos para niños, alquiler de tablas, tours de SUP. Cuando llega una consulta, redacta una respuesta con el precio correcto, la duración, lo que se incluye y lo que se debe llevar. Sabe que el correo electrónico de un grupo escolar necesita detalles diferentes a los de la reserva de una lección privada."
+      "question": "¿Duet maneja diferentes tipos de lecciones y alquiler de equipos?",
+      "answer": "Sí. Duet aprende todas tus ofertas: lecciones privadas, lecciones grupales, campamentos para niños, alquiler de tablas, tours de SUP. Cuando llega una consulta, redacta una respuesta con el precio correcto, la duración, lo que se incluye y lo que se debe llevar. Sabe que el correo electrónico de un grupo escolar necesita detalles diferentes a los de la reserva de una lección privada."
     },
     {
       "question": "¿Qué pasa con las preguntas sobre el clima y las condiciones?",
-      "answer": "Chiefy aprende cómo maneja normalmente los correos electrónicos de condiciones: sus políticas sobre cancelaciones, reprogramaciones y en qué condiciones enseña. Cuando alguien envía un correo electrónico preguntando si su lección continuará, Chiefy redacta una respuesta que coincide con su tono y política habituales. Lo revisas y lo envías en segundos."
+      "answer": "Duet aprende cómo maneja normalmente los correos electrónicos de condiciones: sus políticas sobre cancelaciones, reprogramaciones y en qué condiciones enseña. Cuando alguien envía un correo electrónico preguntando si su lección continuará, Duet redacta una respuesta que coincide con su tono y política habituales. Lo revisas y lo envías en segundos."
     }
   ],
   "pricingNote": "A $90 por lección, dos reservas guardadas pagan más de un año de Pro."

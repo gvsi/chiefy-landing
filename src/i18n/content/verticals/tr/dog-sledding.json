@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Chiefy Köpek Kızak Turları için | AI E-posta Asistanı",
-  "metaDescription": "Chiefy, köpek kızakçılarına rezervasyon e-postalarına anında, hatta parkurdayken bile yanıt vermelerine yardımcı olur. AI tarafından hazırlanan yanıtlar, tur türlerinizi, fiyatlandırmanızı, politikalarınızı ve ses tonunuzu içerir.",
+  "pageTitle": "Duet Mail Köpek Kızak Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, köpek kızakçılarına rezervasyon e-postalarına anında, hatta parkurdayken bile yanıt vermelerine yardımcı olur. AI tarafından hazırlanan yanıtlar, tur türlerinizi, fiyatlandırmanızı, politikalarınızı ve ses tonunuzu içerir.",
   "heroBadge": "200'den fazla köpek kızağı sürücüsü tarafından güvenilen",
   "heroHeadline": "Yolda olduğunuz süre boyunca e-posta asistanınız",
-  "heroSubline": "Chiefy tur türlerinizi, fiyatlandırmanızı, hava durumu politikalarınızı ve ek hizmetlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonunuzu kaybetmezsiniz.",
+  "heroSubline": "Duet tur türlerinizi, fiyatlandırmanızı, hava durumu politikalarınızı ve ek hizmetlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonunuzu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tur",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Kaydedilen iki rezervasyon, Chiefy'ın bir yıllık ücretini karşılar."
+    "punchline": "Kaydedilen iki rezervasyon, Duet'ın bir yıllık ücretini karşılar."
   },
-  "categorizationSubtitle": "Chiefy her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra soruları ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan tur taleplerini kaçırma derdine son.",
-  "draftSubtitle": "Chiefy tur türlerinizi, fiyatlandırmanızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, paket detayları, ne giyileceği ve ek hizmetler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
-  "agentSubtitle": "\"Bu hafta sonu için rezervasyonunuz var mı?\" \"Kuzey ışıkları kombinasyonu hakkında bir yanıt taslağı hazırlayın.\" Chiefy gelen kutunuzu ve programınızı biliyor - sadece sorun.",
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra soruları ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan tur taleplerini kaçırma derdine son.",
+  "draftSubtitle": "Duet tur türlerinizi, fiyatlandırmanızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, paket detayları, ne giyileceği ve ek hizmetler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta sonu için rezervasyonunuz var mı?\" \"Kuzey ışıkları kombinasyonu hakkında bir yanıt taslağı hazırlayın.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Alaska'da Kızak Köpeği Tur Operatörü",
-      "quote": "Günde 6 saat boyunca hiç telefon çekmeyen yollardayım. Geri döndüğümde, rezervasyon taleplerinin yarısı başka bir firmaya gitmiş oluyor. Chiefy tur detaylarım ve fiyatlandırmamla ilgili taslak yanıtlar gönderiyor; misafirler saatler değil, dakikalar içinde geri dönüş alıyorlar.",
+      "quote": "Günde 6 saat boyunca hiç telefon çekmeyen yollardayım. Geri döndüğümde, rezervasyon taleplerinin yarısı başka bir firmaya gitmiş oluyor. Duet tur detaylarım ve fiyatlandırmamla ilgili taslak yanıtlar gönderiyor; misafirler saatler değil, dakikalar içinde geri dönüş alıyorlar.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Köpek Kulübesi ve Köpek Turu Sahibi, AK",
-      "quote": "Köpek kulübesi ziyaretleri, kızak gezileri ve kuzey ışıkları kombinasyonları sunuyoruz; her e-postaya farklı bir yanıt gerekiyor. Chiefy bir hafta içinde üç tur türünün de nasıl işlediğini çözdü ve artık her seferinde doğru pakete uyan yanıtlar hazırlıyor.",
+      "quote": "Köpek kulübesi ziyaretleri, kızak gezileri ve kuzey ışıkları kombinasyonları sunuyoruz; her e-postaya farklı bir yanıt gerekiyor. Duet bir hafta içinde üç tur türünün de nasıl işlediğini çözdü ve artık her seferinde doğru pakete uyan yanıtlar hazırlıyor.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Köpek Kızak Rehberi, MN",
-      "quote": "Eskiden her akşam ne giyeceğim, yaş sınırları ve köpekler hakkında aynı soruları cevaplamakla geçirirdim. Chiefy bunların hepsini hallediyor. Patikadan eve döndüğümde her şey hazırlanmış ve beni bekliyor oluyor.",
+      "quote": "Eskiden her akşam ne giyeceğim, yaş sınırları ve köpekler hakkında aynı soruları cevaplamakla geçirirdim. Duet bunların hepsini hallediyor. Patikadan eve döndüğümde her şey hazırlanmış ve beni bekliyor oluyor.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora ve Kızak Tur Operatörü, AK",
-      "quote": "Kış aylarında hava koşulları nedeniyle iptaller sürekli oluyor. Chiefy daha telefonumu kontrol etme fırsatı bulamadan politikamızı ve alternatif tarihleri ​​içeren yeniden planlama yanıtlarını taslak halinde gönderiyor. Misafirler hızlı yanıtı çok seviyor.",
+      "quote": "Kış aylarında hava koşulları nedeniyle iptaller sürekli oluyor. Duet daha telefonumu kontrol etme fırsatı bulamadan politikamızı ve alternatif tarihleri ​​içeren yeniden planlama yanıtlarını taslak halinde gönderiyor. Misafirler hızlı yanıtı çok seviyor.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Aile Köpek Kızak Maceraları, CO",
-      "quote": "Ebeveynler her zaman çocuklarının köpek kızağı sürebileceklerini, köpeklerin dost canlısı olup olmadığını, ne giyeceklerini soruyorlar - aynı 10 soru. Chiefy her cevabı öğrendi ve mükemmel bir şekilde taslak haline getiriyor. Sanki kendimi e-posta için kopyalamış gibiyim.",
+      "quote": "Ebeveynler her zaman çocuklarının köpek kızağı sürebileceklerini, köpeklerin dost canlısı olup olmadığını, ne giyeceklerini soruyorlar - aynı 10 soru. Duet her cevabı öğrendi ve mükemmel bir şekilde taslak haline getiriyor. Sanki kendimi e-posta için kopyalamış gibiyim.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Chiefy hava koşullarından kaynaklanan iptaller ve kutup ışıkları belirsizliğiyle nasıl başa çıkıyor?",
-      "answer": "Chiefy iptal ve yeniden planlama politikalarınızı öğrenir. Bir misafir hava durumu veya kutup ışıklarının görünürlüğüyle ilgili endişelerini e-postayla ilettiğinde, politikanızı, alternatif tarihleri ​​ve ilgili ayrıntıları (örneğin, koşulları izleme ve tura daha yakın bir zamanda teyit etme) içeren bir yanıt taslağı oluşturur. Siz de inceleyip gönderirsiniz."
+      "question": "Duet hava koşullarından kaynaklanan iptaller ve kutup ışıkları belirsizliğiyle nasıl başa çıkıyor?",
+      "answer": "Duet iptal ve yeniden planlama politikalarınızı öğrenir. Bir misafir hava durumu veya kutup ışıklarının görünürlüğüyle ilgili endişelerini e-postayla ilettiğinde, politikanızı, alternatif tarihleri ​​ve ilgili ayrıntıları (örneğin, koşulları izleme ve tura daha yakın bir zamanda teyit etme) içeren bir yanıt taslağı oluşturur. Siz de inceleyip gönderirsiniz."
     },
     {
-      "question": "Farklı fiyatlandırma ve ek seçeneklere sahip çeşitli tur türleri sunuyorum. Chiefy bunları birbirinden ayırt edebilir mi?",
-      "answer": "Evet. Chiefy, köpek kulübesi ziyaretleri, kızakla gezinti deneyimleri, kuzey ışıkları kombinasyonları, fotoğrafçılık eklentileri, ulaşım paketleri gibi her tur türünüzü fiyatlandırması, süresi ve içeriğiyle birlikte öğrenir. Bir talep geldiğinde, doğru turu eşleştirir ve doğru ayrıntılarla bir yanıt taslağı oluşturur."
+      "question": "Farklı fiyatlandırma ve ek seçeneklere sahip çeşitli tur türleri sunuyorum. Duet bunları birbirinden ayırt edebilir mi?",
+      "answer": "Evet. Duet, köpek kulübesi ziyaretleri, kızakla gezinti deneyimleri, kuzey ışıkları kombinasyonları, fotoğrafçılık eklentileri, ulaşım paketleri gibi her tur türünüzü fiyatlandırması, süresi ve içeriğiyle birlikte öğrenir. Bir talep geldiğinde, doğru turu eşleştirir ve doğru ayrıntılarla bir yanıt taslağı oluşturur."
     }
   ],
   "pricingNote": "$150/tour adresinde, iki kayıtlı rezervasyon Pro'in bir yıldan fazla süren ücretini karşılıyor."

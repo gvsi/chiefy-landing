@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "適合婚禮策劃者的 Chiefy | AI 郵件助手",
-  "metaDescription": "Chiefy 幫助婚禮策劃者立即回覆客戶和供應商的電子郵件——甚至可以透過場地走查來回覆。 AI 起草的回覆包含您的包裹、供應商聯絡人和語音。",
+  "pageTitle": "適合婚禮策劃者的 Duet Mail | AI 郵件助手",
+  "metaDescription": "Duet Mail 幫助婚禮策劃者立即回覆客戶和供應商的電子郵件——甚至可以透過場地走查來回覆。 AI 起草的回覆包含您的包裹、供應商聯絡人和語音。",
   "heroBadge": "受到 400 多位婚禮策劃師的信賴",
   "heroHeadline": "您在現場時的電子郵件助理",
-  "heroSubline": "Chiefy 會了解您的供應商聯絡資訊、包裹和客戶偏好，然後起草電子郵件回覆，以便情侶在您現場協調時無需等待。",
+  "heroSubline": "Duet 會了解您的供應商聯絡資訊、包裹和客戶偏好，然後起草電子郵件回覆，以便情侶在您現場協調時無需等待。",
   "inboxEmails": [
     {
       "from": "艾米麗和詹姆斯 W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "婚禮",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "一位節省下來的客戶支付了 20 多年的 Chiefy。"
+    "punchline": "一位節省下來的客戶支付了 20 多年的 Duet。"
   },
-  "categorizationSubtitle": "Chiefy 會自動標記每封電子郵件，因此您首先會看到新的夫婦詢問，其次是供應商確認，而永遠不會看到新聞通訊噪音。不再錯過隱藏在 Knot 警報下的預訂請求。",
-  "draftSubtitle": "Chiefy 會學習您的軟體包、首選供應商和語調。當一對夫婦詢問時，它會起草一份熱情、完整的答复，其中包含您的空閒時間和後續步驟。您審閱並發送。",
-  "agentSubtitle": "「湯普森婚禮收到了哪些供應商電子郵件？」「起草週六向所有供應商更新的時間表。」Chiefy 了解您的收件匣和客戶 - 只需詢問即可。",
+  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，因此您首先會看到新的夫婦詢問，其次是供應商確認，而永遠不會看到新聞通訊噪音。不再錯過隱藏在 Knot 警報下的預訂請求。",
+  "draftSubtitle": "Duet 會學習您的軟體包、首選供應商和語調。當一對夫婦詢問時，它會起草一份熱情、完整的答复，其中包含您的空閒時間和後續步驟。您審閱並發送。",
+  "agentSubtitle": "「湯普森婚禮收到了哪些供應商電子郵件？」「起草週六向所有供應商更新的時間表。」Duet 了解您的收件匣和客戶 - 只需詢問即可。",
   "categorizationEmails": [
     {
       "from": "艾米麗和詹姆斯 W.",
@@ -127,31 +127,31 @@
     {
       "name": "弗朗西斯卡·M。",
       "title": "科羅拉多州精品婚禮策劃師",
-      "quote": "我一週有半週的時間在山區場地，手機服務是零。同時，一些夫婦透過電子郵件向我詢問時間表和供應商問題。 Chiefy 用我的確切包裹和語氣起草回應——當我回到範圍內時我會檢查它們。",
+      "quote": "我一週有半週的時間在山區場地，手機服務是零。同時，一些夫婦透過電子郵件向我詢問時間表和供應商問題。 Duet 用我的確切包裹和語氣起草回應——當我回到範圍內時我會檢查它們。",
       "avatarKey": "francesca"
     },
     {
       "name": "麥可·T.",
       "title": "全方位婚禮策劃師，加州",
-      "quote": "每次婚禮都要協調 10 多個供應商，這意味著我的收件匣在旺季期間就像一個戰區。 Chiefy 將供應商電子郵件與客戶電子郵件分開分類，並起草我自己編寫的後續內容。我現在真的睡了。",
+      "quote": "每次婚禮都要協調 10 多個供應商，這意味著我的收件匣在旺季期間就像一個戰區。 Duet 將供應商電子郵件與客戶電子郵件分開分類，並起草我自己編寫的後續內容。我現在真的睡了。",
       "avatarKey": "michael"
     },
     {
       "name": "莎拉L。",
       "title": "德州協調員日",
-      "quote": "婚禮當天我連續 14 小時都沒有空。過去，新的詢問直到週一才得到回應。現在，Chiefy 可以立即處理這些問題，僅憑更快的回應時間，我就在本季額外預訂了 3 場婚禮。",
+      "quote": "婚禮當天我連續 14 小時都沒有空。過去，新的詢問直到週一才得到回應。現在，Duet 可以立即處理這些問題，僅憑更快的回應時間，我就在本季額外預訂了 3 場婚禮。",
       "avatarKey": "sarah"
     },
     {
       "name": "約翰尼R。",
       "title": "目的地婚禮策劃師，夏威夷",
-      "quote": "我的夫婦從世界各地飛來，隨時發送電子郵件。 Chiefy 了解了我對 FAQ 的回答——場館物流、當地供應商、期待什麼——並起草了聽起來與我一模一樣的回應。客戶不知道。",
+      "quote": "我的夫婦從世界各地飛來，隨時發送電子郵件。 Duet 了解了我對 FAQ 的回答——場館物流、當地供應商、期待什麼——並起草了聽起來與我一模一樣的回應。客戶不知道。",
       "avatarKey": "johnny"
     },
     {
       "name": "珍妮佛A.",
       "title": "紐約婚禮和活動策劃師",
-      "quote": "我每天晚上都要花 2 個小時回答相同的套餐和可用性問題。 Chiefy handles the repetitive stuff so I can focus on the creative work I actually love.第一週就收回了成本。",
+      "quote": "我每天晚上都要花 2 個小時回答相同的套餐和可用性問題。 Duet handles the repetitive stuff so I can focus on the creative work I actually love.第一週就收回了成本。",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
   "verticalFaqs": [
     {
-      "question": "Does Chiefy work with all the vendor coordination emails?",
-      "answer": "是的。Chiefy 會學習您的供應商聯絡人、偏好的供應商，以及您與每位供應商的溝通方式。它按婚禮对供應商電子郵件进行分类，并起草回覆并提供正确的详细資訊——确认、跟进、时间表更新。您審閱並發送。它可以處理花店、餐飲服務商、場館、DJ、攝影師以及名片盒中的所有其他供應商。"
+      "question": "Does Duet work with all the vendor coordination emails?",
+      "answer": "是的。Duet 會學習您的供應商聯絡人、偏好的供應商，以及您與每位供應商的溝通方式。它按婚禮对供應商電子郵件进行分类，并起草回覆并提供正确的详细資訊——确认、跟进、时间表更新。您審閱並發送。它可以處理花店、餐飲服務商、場館、DJ、攝影師以及名片盒中的所有其他供應商。"
     },
     {
       "question": "我整天都在婚禮和場地現場。我會錯過新的詢問嗎？",
-      "answer": "這正是 Chiefy 解決的問題。 When a couple emails asking about availability or packages while you're coordinating on-site, Chiefy drafts a warm, professional reply with your real availability and next steps.只要有空，您就可以查看并发送，甚至可以在活动间隙使用手機进行查看和发送。大多數規劃者告訴我們，在旺季期間，這可以為他們每天節省 1-2 小時的電子郵件時間。"
+      "answer": "這正是 Duet 解決的問題。 When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps.只要有空，您就可以查看并发送，甚至可以在活动间隙使用手機进行查看和发送。大多數規劃者告訴我們，在旺季期間，這可以為他們每天節省 1-2 小時的電子郵件時間。"
     }
   ],
   "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."

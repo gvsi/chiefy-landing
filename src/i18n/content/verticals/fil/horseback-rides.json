@@ -1,7 +1,7 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy para sa Horseback Rides at Trail Guides | AI Email Assistant",
-  "metaDescription": "Tinutulungan ng Chiefy ang mga operator ng trail ride na tumugon kaagad sa mga email sa pag-book — kahit na mula sa saddle. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga kinakailangan sa rider, at boses.",
+  "pageTitle": "Duet Mail para sa Horseback Rides at Trail Guides | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga operator ng trail ride na tumugon kaagad sa mga email sa pag-book — kahit na mula sa saddle. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga kinakailangan sa rider, at boses.",
   "heroBadge": "Pinagkakatiwalaan ng 300+ trail guide",
   "heroHeadline": "Ang iyong email assistant habang ikaw ay nasa trail",
   "heroSubline": "Natututuhan ng duet ang iyong mga uri ng biyahe, pagpepresyo, mga kinakailangan sa rider, at kundisyon ng trail — pagkatapos ay mag-draft ng mga tugon sa email para hindi ka mawalan ng booking sa mabagal na pagtugon.",
@@ -49,7 +49,7 @@
     "bookingUnit": "sumakay",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Ang isang naka-save na biyahe ng grupo ay nagbabayad para sa higit sa dalawang taon ng Chiefy."
+    "punchline": "Ang isang naka-save na biyahe ng grupo ay nagbabayad para sa higit sa dalawang taon ng Duet."
   },
   "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong ng rider, at hindi kailanman ingay. Wala nang nawawalang pagtatanong ng grupo na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
   "draftSubtitle": "Natutunan ng duet ang iyong mga uri ng biyahe, pagpepresyo, at mga kinakailangan. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may mga detalye ng trail, pagpepresyo, at kung ano ang isusuot. I-review at ipadala mo.",
@@ -127,7 +127,7 @@
     {
       "name": "Jake H.",
       "title": "May-ari ng Ranch at Trail Guide, MT",
-      "quote": "Nasa labas ako sa trail 6 na oras sa isang araw na walang cell service. Sa oras na bumalik ako upang tumugon, kalahati ng mga tao ay nag-book sa ibang lugar. Ngayon, ang Chiefy ay bumubalangkas ng mga tugon kasama ang aking mga detalye sa pagpepresyo at pagsakay — nagre-review at nagpapadala lang ako kapag bumalik ako sa kamalig.",
+      "quote": "Nasa labas ako sa trail 6 na oras sa isang araw na walang cell service. Sa oras na bumalik ako upang tumugon, kalahati ng mga tao ay nag-book sa ibang lugar. Ngayon, ang Duet ay bumubalangkas ng mga tugon kasama ang aking mga detalye sa pagpepresyo at pagsakay — nagre-review at nagpapadala lang ako kapag bumalik ako sa kamalig.",
       "avatarKey": "michael"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Paano pinangangasiwaan ng Chiefy ang mga sensitibong tanong tungkol sa mga kinakailangan sa timbang o karanasan?",
-      "answer": "Natututuhan ng duet ang iyong mga partikular na patakaran at sinasalamin ang iyong tono. Kapag may nagtanong tungkol sa mga limitasyon sa timbang o mga kinakailangan sa karanasan, tumutugon ito nang propesyonal at mainit — nagbabahagi ng impormasyong kailangan nila nang hindi ginagawang awkward. Isang beses mong itinakda ang tono at palagi itong sinusundan ng Chiefy, kaya pakiramdam ng bawat bisita ay iginagalang."
+      "question": "Paano pinangangasiwaan ng Duet ang mga sensitibong tanong tungkol sa mga kinakailangan sa timbang o karanasan?",
+      "answer": "Natututuhan ng duet ang iyong mga partikular na patakaran at sinasalamin ang iyong tono. Kapag may nagtanong tungkol sa mga limitasyon sa timbang o mga kinakailangan sa karanasan, tumutugon ito nang propesyonal at mainit — nagbabahagi ng impormasyong kailangan nila nang hindi ginagawang awkward. Isang beses mong itinakda ang tono at palagi itong sinusundan ng Duet, kaya pakiramdam ng bawat bisita ay iginagalang."
     },
     {
-      "question": "Magagawa ba ng Chiefy ang mga group booking na may iba't ibang pangangailangan ng rider?",
-      "answer": "Oo. Natutunan ng Chiefy ang iyong mga uri ng biyahe, laki ng grupo, minimum na edad, at anumang mga kinakailangan na partikular sa rider. Kapag nag-email ang isang pamilya o grupo tungkol sa booking, nag-draft ito ng tugon na sumasaklaw sa pagpepresyo para sa buong grupo, kung ano ang kailangang malaman ng bawat rider, at mga available na time slot. Sinusuri at ipinapadala mo — hindi na kailangan ng pabalik-balik."
+      "question": "Magagawa ba ng Duet ang mga group booking na may iba't ibang pangangailangan ng rider?",
+      "answer": "Oo. Natutunan ng Duet ang iyong mga uri ng biyahe, laki ng grupo, minimum na edad, at anumang mga kinakailangan na partikular sa rider. Kapag nag-email ang isang pamilya o grupo tungkol sa booking, nag-draft ito ng tugon na sumasaklaw sa pagpepresyo para sa buong grupo, kung ano ang kailangang malaman ng bawat rider, at mga available na time slot. Sinusuri at ipinapadala mo — hindi na kailangan ng pabalik-balik."
     }
   ],
   "pricingNote": "Sa $100/tao para sa isang grupo ng 6, ang isang naka-save na biyahe ay magbabayad para sa higit sa dalawang taon na Pro."

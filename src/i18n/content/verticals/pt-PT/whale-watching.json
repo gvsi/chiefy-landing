@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy para passeios de observação de baleias | Assistente de email com IA",
-  "metaDescription": "O Chiefy ajuda capitães de passeios de observação de baleias a responder emails de reserva instantaneamente — até da água. Respostas redigidas por IA com detalhes dos os seus passeios, preços e tom.",
+  "pageTitle": "Duet Mail para passeios de observação de baleias | Assistente de email com IA",
+  "metaDescription": "O Duet Mail ajuda capitães de passeios de observação de baleias a responder emails de reserva instantaneamente — até da água. Respostas redigidas por IA com detalhes dos os seus passeios, preços e tom.",
   "heroBadge": "Usado por mais de 300 capitães de passeio",
   "heroHeadline": "O seu assistente de email enquanto o utilizador está avistando baleias",
-  "heroSubline": "O Chiefy aprende a sua agenda de passeios, preços e tom — e então redige respostas de email para não perder nenhuma reserva enquanto está na água.",
+  "heroSubline": "O Duet aprende a sua agenda de passeios, preços e tom — e então redige respostas de email para não perder nenhuma reserva enquanto está na água.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grupo de passeio",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Uma reserva de grupo recuperada paga um ano de Chiefy."
+    "punchline": "Uma reserva de grupo recuperada paga um ano de Duet."
   },
-  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para ver pedidos de reserva primeiro, mudanças de horário de cruzeiros em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de passeio privativo enterrada sob alertas do TripAdvisor.",
-  "draftSubtitle": "O Chiefy aprende os seus horários de passeio, preços e políticas. Quando chega uma consulta de reserva, ele redige uma resposta completa com disponibilidade, o que está incluído e o que levar. Reveja e envia.",
-  "agentSubtitle": "\"Quantas vagas restam no passeio de sábado de manhã?\" \"Redija uma resposta para Rachel com a disponibilidade.\" O Chiefy conhece a sua caixa de entrada e a sua agenda — é só perguntar.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para ver pedidos de reserva primeiro, mudanças de horário de cruzeiros em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de passeio privativo enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Duet aprende os seus horários de passeio, preços e políticas. Quando chega uma consulta de reserva, ele redige uma resposta completa com disponibilidade, o que está incluído e o que levar. Reveja e envia.",
+  "agentSubtitle": "\"Quantas vagas restam no passeio de sábado de manhã?\" \"Redija uma resposta para Rachel com a disponibilidade.\" O Duet conhece a sua caixa de entrada e a sua agenda — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Dave H.",
       "title": "Operador de passeios de vida selvagem, AK",
-      "quote": "Passageiros de cruzeiro precisam de respostas rápidas — eles têm só 6 horas no porto. Eu costumava perder passeios privativos porque estava na água quando a consulta chegava. Agora o Chiefy redige respostas com os meus preços e detalhes de recolha antes mesmo de eu atracar.",
+      "quote": "Passageiros de cruzeiro precisam de respostas rápidas — eles têm só 6 horas no porto. Eu costumava perder passeios privativos porque estava na água quando a consulta chegava. Agora o Duet redige respostas com os meus preços e detalhes de recolha antes mesmo de eu atracar.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Fazemos dois passeios por dia durante a temporada das jubartes e o volume de emails é surreal. \"Vamos ver baleias?\" \"O que devo vestir?\" \"O passeio de amanhã foi cancelado?\" O Chiefy cuida das perguntas repetitivas e nós focamos nos passeios.",
+      "quote": "Fazemos dois passeios por dia durante a temporada das jubartes e o volume de emails é surreal. \"Vamos ver baleias?\" \"O que devo vestir?\" \"O passeio de amanhã foi cancelado?\" O Duet cuida das perguntas repetitivas e nós focamos nos passeios.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "Eu respondia às mesmas 10 perguntas toda noite — preço, o que está incluído, dicas contra enjoo, limites de idade para crianças. O Chiefy aprendeu tudo na primeira semana. O meu tempo de resposta caiu de 8 horas para 8 minutos.",
+      "quote": "Eu respondia às mesmas 10 perguntas toda noite — preço, o que está incluído, dicas contra enjoo, limites de idade para crianças. O Duet aprendeu tudo na primeira semana. O meu tempo de resposta caiu de 8 horas para 8 minutos.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Gerente de reservas, Pacific NW",
-      "quote": "Cancelamentos por clima são os piores — 30 pessoas precisam remarcar de uma vez e eu fico equilibrando ligações. O Chiefy redige emails personalizados de remarcação para cada convidado. O que antes levava 2 horas agora leva 15 minutos.",
+      "quote": "Cancelamentos por clima são os piores — 30 pessoas precisam remarcar de uma vez e eu fico equilibrando ligações. O Duet redige emails personalizados de remarcação para cada convidado. O que antes levava 2 horas agora leva 15 minutos.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Somos uma operação de duas pessoas — eu sou capitão, ela cuida da logística. Na alta temporada, ela passava 3 horas por noite no email. O Chiefy reduziu isso para 30 minutos. Agora ela realmente recupera as noites.",
+      "quote": "Somos uma operação de duas pessoas — eu sou capitão, ela cuida da logística. Na alta temporada, ela passava 3 horas por noite no email. O Duet reduziu isso para 30 minutos. Agora ela realmente recupera as noites.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "O Chiefy lida com cancelamentos por clima e mudanças de horário de cruzeiros?",
-      "answer": "Sim. Quando o utilizador cancela um passeio por causa do clima ou o horário de chegada de um cruzeiro muda, pode avisar o Chiefy uma vez e ele redige emails personalizados de remarcação ou atualização para cada convidado afetado. Chega de copiar e colar a mesma mensagem 30 vezes. Cada resposta inclui os detalhes da reserva original do convidado e alternativas disponíveis."
+      "question": "O Duet lida com cancelamentos por clima e mudanças de horário de cruzeiros?",
+      "answer": "Sim. Quando o utilizador cancela um passeio por causa do clima ou o horário de chegada de um cruzeiro muda, pode avisar o Duet uma vez e ele redige emails personalizados de remarcação ou atualização para cada convidado afetado. Chega de copiar e colar a mesma mensagem 30 vezes. Cada resposta inclui os detalhes da reserva original do convidado e alternativas disponíveis."
     },
     {
-      "question": "Recebemos as mesmas perguntas o tempo todo — \"vamos ver baleias?\", \"o que devo vestir?\", \"é adequado para crianças?\" O Chiefy dá conta?",
-      "answer": "É exatamente aí que o Chiefy se destaca. Aprende as suas respostas padrão — espécies que o utilizadores costumam ver, o que levar, políticas de idade, dicas contra enjoo, horários de saída — e redige respostas completas instantaneamente. Reveja e envia. A maioria dos capitães nos diz que 80% da caixa de entrada são as mesmas 10 perguntas, e o Chiefy cuida de todas elas."
+      "question": "Recebemos as mesmas perguntas o tempo todo — \"vamos ver baleias?\", \"o que devo vestir?\", \"é adequado para crianças?\" O Duet dá conta?",
+      "answer": "É exatamente aí que o Duet se destaca. Aprende as suas respostas padrão — espécies que o utilizadores costumam ver, o que levar, políticas de idade, dicas contra enjoo, horários de saída — e redige respostas completas instantaneamente. Reveja e envia. A maioria dos capitães nos diz que 80% da caixa de entrada são as mesmas 10 perguntas, e o Duet cuida de todas elas."
     }
   ],
   "pricingNote": "Com $125/pessoa, um grupo de 6 recuperado paga mais de um ano de Pro."

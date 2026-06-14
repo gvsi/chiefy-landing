@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Chiefy for hundesledeturer | AI-e-postassistent",
-  "metaDescription": "Chiefy hjelper kjørere å svare på bestillings-e-poster umiddelbart – selv fra stien. AI-utkast til svar med turtyper, priser, retningslinjer og stemme.",
+  "pageTitle": "Duet Mail for hundesledeturer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper kjørere å svare på bestillings-e-poster umiddelbart – selv fra stien. AI-utkast til svar med turtyper, priser, retningslinjer og stemme.",
   "heroBadge": "Godkjent av 200+ kjørere",
   "heroHeadline": "Din e-postassistent mens du er på sporet",
-  "heroSubline": "Chiefy lærer turtypene, prisene, værreglene og tilleggene dine – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
+  "heroSubline": "Duet lærer turtypene, prisene, værreglene og tilleggene dine – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "omvisning",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "To lagrede bestillinger betaler for et år på Chiefy."
+    "punchline": "To lagrede bestillinger betaler for et år på Duet."
   },
-  "categorizationSubtitle": "Chiefy merker automatisk hver e-post slik at du ser bestillingsforespørsler først, spørsmål deretter, og aldri støy. Ikke mer mangler en turforespørsel begravet under TripAdvisor-varsler.",
-  "draftSubtitle": "Chiefy lærer turtyper, priser og tone. Når en bestillingsforespørsel treffer, utarbeider den et komplett svar med pakkedetaljer, hva du skal ha på deg og tilleggsprogrammer. Du anmelder og sender.",
-  "agentSubtitle": "\"Noen bestillinger denne helgen?\" \"Utkast et svar om aurora-kombinasjonen.\"Chiefy kjenner innboksen og timeplanen din – bare spør.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser bestillingsforespørsler først, spørsmål deretter, og aldri støy. Ikke mer mangler en turforespørsel begravet under TripAdvisor-varsler.",
+  "draftSubtitle": "Duet lærer turtyper, priser og tone. Når en bestillingsforespørsel treffer, utarbeider den et komplett svar med pakkedetaljer, hva du skal ha på deg og tilleggsprogrammer. Du anmelder og sender.",
+  "agentSubtitle": "\"Noen bestillinger denne helgen?\" \"Utkast et svar om aurora-kombinasjonen.\"Duet kjenner innboksen og timeplanen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Turoperatør for sledehunder, AK",
-      "quote": "Jeg er på sporet 6 timer i døgnet med null celleservice. Da jeg kom tilbake, hadde halvparten av bookingforespørslene gått til et annet antrekk. Chiefy utkast til svar med turdetaljene mine og priser – gjestene hører tilbake i løpet av minutter, ikke timer.",
+      "quote": "Jeg er på sporet 6 timer i døgnet med null celleservice. Da jeg kom tilbake, hadde halvparten av bookingforespørslene gått til et annet antrekk. Duet utkast til svar med turdetaljene mine og priser – gjestene hører tilbake i løpet av minutter, ikke timer.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour Eier, AK",
-      "quote": "Vi tilbyr kennelbesøk, grøtturer og aurora-kombinasjoner - hver e-post trenger et annet svar. Chiefy fant ut alle tre turtypene i løpet av en uke og utarbeider nå utkast til svar som matcher den riktige pakken hver gang.",
+      "quote": "Vi tilbyr kennelbesøk, grøtturer og aurora-kombinasjoner - hver e-post trenger et annet svar. Duet fant ut alle tre turtypene i løpet av en uke og utarbeider nå utkast til svar som matcher den riktige pakken hver gang.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Hundesledeguide, MN",
-      "quote": "Jeg pleide å bruke hver kveld på å svare på de samme spørsmålene om hva jeg skulle ha på meg, aldersgrenser og hundene. Chiefy håndterer alt. Jeg kommer hjem fra stien og alt er trukket og venter.",
+      "quote": "Jeg pleide å bruke hver kveld på å svare på de samme spørsmålene om hva jeg skulle ha på meg, aldersgrenser og hundene. Duet håndterer alt. Jeg kommer hjem fra stien og alt er trukket og venter.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Værkanselleringer er konstante om vinteren. Chiefy utkast til omplanlegging av svar med våre retningslinjer og alternative datoer før jeg i det hele tatt får en sjanse til å sjekke telefonen min. Gjestene elsker den raske responsen.",
+      "quote": "Værkanselleringer er konstante om vinteren. Duet utkast til omplanlegging av svar med våre retningslinjer og alternative datoer før jeg i det hele tatt får en sjanse til å sjekke telefonen min. Gjestene elsker den raske responsen.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Familiehundesledeeventyr, CO",
-      "quote": "Foreldre spør alltid om barna deres kan mose, om hundene er vennlige, hva de skal ha på seg - de samme 10 spørsmålene. Chiefy lærte hvert svar og utarbeider dem perfekt. Det er som å klone meg selv for e-post.",
+      "quote": "Foreldre spør alltid om barna deres kan mose, om hundene er vennlige, hva de skal ha på seg - de samme 10 spørsmålene. Duet lærte hvert svar og utarbeider dem perfekt. Det er som å klone meg selv for e-post.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Hvordan håndterer Chiefy værkanselleringer og nordlysusikkerhet?",
-      "answer": "Chiefy lærer retningslinjene dine for kansellering og omplanlegging. Når en gjest sender e-post om værproblemer eller nordlyssynlighet, utarbeider den et svar med retningslinjene dine, alternative datoer og eventuelle relevante detaljer – som overvåking av forhold og bekreftelse nærmere turen. Du anmelder og sender."
+      "question": "Hvordan håndterer Duet værkanselleringer og nordlysusikkerhet?",
+      "answer": "Duet lærer retningslinjene dine for kansellering og omplanlegging. Når en gjest sender e-post om værproblemer eller nordlyssynlighet, utarbeider den et svar med retningslinjene dine, alternative datoer og eventuelle relevante detaljer – som overvåking av forhold og bekreftelse nærmere turen. Du anmelder og sender."
     },
     {
-      "question": "Jeg tilbyr flere turtyper med forskjellige priser og tillegg. Kan Chiefy holde dem rett?",
-      "answer": "Ja. Chiefy lærer hver av turtypene dine – kennelbesøk, grøtopplevelser, nordlyskombinasjoner, fotografitillegg, transportpakker – sammen med priser, varighet og hva som er inkludert. Når en henvendelse kommer inn, samsvarer den med den riktige turen og utkast til et svar med de riktige detaljene."
+      "question": "Jeg tilbyr flere turtyper med forskjellige priser og tillegg. Kan Duet holde dem rett?",
+      "answer": "Ja. Duet lærer hver av turtypene dine – kennelbesøk, grøtopplevelser, nordlyskombinasjoner, fotografitillegg, transportpakker – sammen med priser, varighet og hva som er inkludert. Når en henvendelse kommer inn, samsvarer den med den riktige turen og utkast til et svar med de riktige detaljene."
     }
   ],
   "pricingNote": "For $150/tur betaler to lagrede bestillinger for over ett år med Pro."

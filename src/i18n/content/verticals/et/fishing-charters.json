@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy kalapüügi charteridele | AI e-posti assistent",
-  "metaDescription": "Chiefy aitab kalapüügi tšarterreiside kaptenitel koheselt broneerimiskirjadele vastata – isegi veest. Tehisintellekti koostatud vastused teie hinnakujunduse, eeskirjade ja häälega.",
+  "pageTitle": "Duet Mail kalapüügi charteridele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab kalapüügi tšarterreiside kaptenitel koheselt broneerimiskirjadele vastata – isegi veest. Tehisintellekti koostatud vastused teie hinnakujunduse, eeskirjade ja häälega.",
   "heroBadge": "Usaldab 500+ tšarterkaptenit",
   "heroHeadline": "Teie meiliassistent vee peal viibimise ajal",
-  "heroSubline": "Chiefy saab teada teie hinnad, eeskirjad ja hääle – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi broneeringut aeglase vastuse tõttu.",
+  "heroSubline": "Duet saab teada teie hinnad, eeskirjad ja hääle – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi broneeringut aeglase vastuse tõttu.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "harta",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Üks salvestatud broneering maksab Chiefy aasta eest."
+    "punchline": "Üks salvestatud broneering maksab Duet aasta eest."
   },
-  "categorizationSubtitle": "Chiefy märgistab automaatselt kõik meilid, nii et näete kõigepealt broneerimistaotlusi, seejärel küsimusi ja mitte kunagi müra. Enam ei puudu reisipäring, mis on maetud TripAdvisor märguannete alla.",
-  "draftSubtitle": "Chiefy saab teada teie hinnakujunduse, poliitika ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos reisi üksikasjade, hinna ja kaasavõetava teabega. Vaatad üle ja saadad.",
-  "agentSubtitle": "\"Millised päevad on järgmisel nädalal avatud?\" \"Vastuse mustand Sarah'le koos saadavusega.\" Chiefy teab teie postkasti ja kalendrit – lihtsalt küsige.",
+  "categorizationSubtitle": "Duet märgistab automaatselt kõik meilid, nii et näete kõigepealt broneerimistaotlusi, seejärel küsimusi ja mitte kunagi müra. Enam ei puudu reisipäring, mis on maetud TripAdvisor märguannete alla.",
+  "draftSubtitle": "Duet saab teada teie hinnakujunduse, poliitika ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos reisi üksikasjade, hinna ja kaasavõetava teabega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Millised päevad on järgmisel nädalal avatud?\" \"Vastuse mustand Sarah'le koos saadavusega.\" Duet teab teie postkasti ja kalendrit – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Kapten Mike D.",
       "title": "Offshore tšarter kapten, FL",
-      "quote": "Kõrghooajal kaotasin 2–3 broneeringut nädalas lihtsalt sellepärast, et ma ei saanud paadist piisavalt kiiresti vastata. Chiefy koostab vastuste mustandid koos minu hinna ja reisi üksikasjadega – vajutasin püüdmiste vahel lihtsalt saatmisnuppu.",
+      "quote": "Kõrghooajal kaotasin 2–3 broneeringut nädalas lihtsalt sellepärast, et ma ei saanud paadist piisavalt kiiresti vastata. Duet koostab vastuste mustandid koos minu hinna ja reisi üksikasjadega – vajutasin püüdmiste vahel lihtsalt saatmisnuppu.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah ja Tom K.",
       "title": "Family Charter Business, VÕI",
-      "quote": "Me sõidame kahe paati ja meilide hulk on suvel meeletu. Chiefy sorteerib broneerimistaotlused kõigest muust ja koostab vastused, mis kõlavad täpselt nagu meie. Absoluutne mängumuutja.",
+      "quote": "Me sõidame kahe paati ja meilide hulk on suvel meeletu. Duet sorteerib broneerimistaotlused kõigest muust ja koostab vastused, mis kõlavad täpselt nagu meie. Absoluutne mängumuutja.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Rannikupüügi juhend, TX",
-      "quote": "Veetsin igal õhtul tund aega samadele saadavuse küsimustele vastamisele. Nüüd tegeleb sellega Chiefy. Minu reageerimisaeg kestis tundidest minutiteni ja pärast seda pole ma broneeringut kaotanud.",
+      "quote": "Veetsin igal õhtul tund aega samadele saadavuse küsimustele vastamisele. Nüüd tegeleb sellega Duet. Minu reageerimisaeg kestis tundidest minutiteni ja pärast seda pole ma broneeringut kaotanud.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Charter Office Manager, HI",
-      "quote": "Nelja kapteni meilide haldamine oli täiskohaga töö. Chiefy kategoriseerib kõik ja koostab vastused õige paadiga, õige hinnaga, õige kapteniga. See on nagu teine ​​mina.",
+      "quote": "Nelja kapteni meilide haldamine oli täiskohaga töö. Duet kategoriseerib kõik ja koostab vastused õige paadiga, õige hinnaga, õige kapteniga. See on nagu teine ​​mina.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Kas Chiefy töötab broneerimise ja saadavuse e-kirjade puhul?",
-      "answer": "Absoluutselt. Chiefy saab teada teie reisitüübid, hinnad, saadavuse ja eeskirjad. Kui saabub broneeringupäring, koostab see täieliku vastuse koos õigete üksikasjadega – hinnakujundus, mis sisaldab, koosoleku asukoht, mida kaasa võtta. Vaatate üle ja puudutate saatmist."
+      "question": "Kas Duet töötab broneerimise ja saadavuse e-kirjade puhul?",
+      "answer": "Absoluutselt. Duet saab teada teie reisitüübid, hinnad, saadavuse ja eeskirjad. Kui saabub broneeringupäring, koostab see täieliku vastuse koos õigete üksikasjadega – hinnakujundus, mis sisaldab, koosoleku asukoht, mida kaasa võtta. Vaatate üle ja puudutate saatmist."
     },
     {
-      "question": "Olen terve päeva vee peal. Kas ma saan oma telefonist Chiefy kasutada?",
-      "answer": "Jah. Chiefy töötab koos Gmail ja Outlook, nii et see töötab kõikjal, kus teie e-post töötab – sealhulgas teie telefon. Mustandid ilmuvad automaatselt. Püükide vahel vaatate üle ja saadate ühe puudutusega. Enamik kapteneid ütleb meile, et see säästab neile tipphooajal 1–2 tundi meiliaega päevas."
+      "question": "Olen terve päeva vee peal. Kas ma saan oma telefonist Duet kasutada?",
+      "answer": "Jah. Duet töötab koos Gmail ja Outlook, nii et see töötab kõikjal, kus teie e-post töötab – sealhulgas teie telefon. Mustandid ilmuvad automaatselt. Püükide vahel vaatate üle ja saadate ühe puudutusega. Enamik kapteneid ütleb meile, et see säästab neile tipphooajal 1–2 tundi meiliaega päevas."
     }
   ],
   "pricingNote": "Kell $500/charter maksab üks salvestatud broneering rohkem kui aasta Pro eest."

@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Chiefy kuumaõhupalliga sõitmiseks | AI e-posti assistent",
-  "metaDescription": "Chiefy aitab õhupallipilootidel broneerimismeilidele koheselt vastata – isegi päikesetõusu lendude ajal. Tehisintellekti koostatud vastused teie hinnakujunduse, ilmapoliitika ja häälega.",
+  "pageTitle": "Duet Mail kuumaõhupalliga sõitmiseks | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab õhupallipilootidel broneerimismeilidele koheselt vastata – isegi päikesetõusu lendude ajal. Tehisintellekti koostatud vastused teie hinnakujunduse, ilmapoliitika ja häälega.",
   "heroBadge": "Usaldab üle 200 õhupallipiloodi",
   "heroHeadline": "Teie meiliassistent õhus viibimise ajal",
-  "heroSubline": "Chiefy saab teada teie lennugraafikud, hinna- ja ilmapoliitika – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi broneeringut, kui lendate päikesetõusu ajal.",
+  "heroSubline": "Duet saab teada teie lennugraafikud, hinna- ja ilmapoliitika – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi broneeringut, kui lendate päikesetõusu ajal.",
   "inboxEmails": [
     {
       "from": "Rachel ja Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lendu",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Üks säästetud lend maksab aasta Chiefy eest."
+    "punchline": "Üks säästetud lend maksab aasta Duet eest."
   },
-  "categorizationSubtitle": "Chiefy märgistab automaatselt iga meili, nii et näete kõigepealt broneerimistaotlusi, teiseks ilmateateid ja mitte kunagi müra. Enam ei jää enam uudiskirja märguannete alla mattunud lennupäringust ilma.",
-  "draftSubtitle": "Chiefy saab teada teie hinnakujunduse, ilmapoliitika ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos lennu üksikasjade, koosoleku teabe ja sellega, mida selga panna. Vaatad üle ja saadad.",
-  "agentSubtitle": "\"Kes on homsel manifestil?\" \"Kas ilmateate tühistamist tuleb ajastada?\" Chiefy teab teie postkasti ja kalendrit – lihtsalt küsige.",
+  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et näete kõigepealt broneerimistaotlusi, teiseks ilmateateid ja mitte kunagi müra. Enam ei jää enam uudiskirja märguannete alla mattunud lennupäringust ilma.",
+  "draftSubtitle": "Duet saab teada teie hinnakujunduse, ilmapoliitika ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos lennu üksikasjade, koosoleku teabe ja sellega, mida selga panna. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kes on homsel manifestil?\" \"Kas ilmateate tühistamist tuleb ajastada?\" Duet teab teie postkasti ja kalendrit – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Mike L.",
       "title": "Õhupallipiloot, MN",
-      "quote": "Olen ühemeheoperatsioon – lendan, meeskonnatööna, vastan meilidele. Välja arvatud kell 5:00, ma paisun, ei vasta. Chiefy koostab vastused igale küsimusele \"kas lendame homme?\" sõnum üleöö. Ärkan üles, vaatan ilma ja vajutan Saada.",
+      "quote": "Olen ühemeheoperatsioon – lendan, meeskonnatööna, vastan meilidele. Välja arvatud kell 5:00, ma paisun, ei vasta. Duet koostab vastused igale küsimusele \"kas lendame homme?\" sõnum üleöö. Ärkan üles, vaatan ilma ja vajutan Saada.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon ja Jake B.",
       "title": "Aastaringsed õhupallireisid, TÜ",
-      "quote": "Iga päev saame samad 10 küsimust. Mida selga panna, kus kohtuda, mis siis, kui on tuuline. Chiefy õppis seda kõike ja koostab nüüd täiuslikke vastuseid. Igaõhtune tund meilide saatmisest läks viie minutini.",
+      "quote": "Iga päev saame samad 10 küsimust. Mida selga panna, kus kohtuda, mis siis, kui on tuuline. Duet õppis seda kõike ja koostab nüüd täiuslikke vastuseid. Igaõhtune tund meilide saatmisest läks viie minutini.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Päikesetõusu lennuoperaator, AZ",
-      "quote": "Kõrghooaeg tähendab 4-6 lendu nädalas ja iga reisija saadab vähemalt kaks korda enne lendu meili. Chiefy tegeleb lennueelsete küsimustega, et saaksin keskenduda inimestele nende elu parima hommiku pakkumisele.",
+      "quote": "Kõrghooaeg tähendab 4-6 lendu nädalas ja iga reisija saadab vähemalt kaks korda enne lendu meili. Duet tegeleb lennueelsete küsimustega, et saaksin keskenduda inimestele nende elu parima hommiku pakkumisele.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Balloon Company kaasomanik, NM",
-      "quote": "Ilmastikust tingitud tühistamised rikkusid kogu mu päeva – 8 reisijat vajasid isiklikke ajakava muutmise e-kirju. Nüüd koostab Chiefy kõik mustandid meie ümberbroneerimispoliitikaga. Säästab mul tunde tühistamishommikute pealt.",
+      "quote": "Ilmastikust tingitud tühistamised rikkusid kogu mu päeva – 8 reisijat vajasid isiklikke ajakava muutmise e-kirju. Nüüd koostab Duet kõik mustandid meie ümberbroneerimispoliitikaga. Säästab mul tunde tühistamishommikute pealt.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Balloon Ride Operations, CO",
-      "quote": "Kihlumislennud vajavad nii palju edasi-tagasi koordineerimist. Chiefy sai aru, kuidas me nendega tegeleme – ajastus, koodsõnad, šampanja seadistus. See koostab vastused, mida ma vaevu puudutama pean.",
+      "quote": "Kihlumislennud vajavad nii palju edasi-tagasi koordineerimist. Duet sai aru, kuidas me nendega tegeleme – ajastus, koodsõnad, šampanja seadistus. See koostab vastused, mida ma vaevu puudutama pean.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Kuidas Chiefy käsitleb ilmateate tühistamise e-kirju?",
-      "answer": "Chiefy saab teada teie tühistamise ja ümberbroneerimise eeskirjad. Kui tühistate lennu ilmastikuolude tõttu, saab see koostada igale mõjutatud reisijale isikupärastatud ajakava muutmise e-kirjad koos teie poliitika, saadaolevate kuupäevade ja teie tooniga. Vaatad üle ja saadad. See, mis varem võttis üksikute vastuste saamiseks tund aega, võtab minuteid."
+      "question": "Kuidas Duet käsitleb ilmateate tühistamise e-kirju?",
+      "answer": "Duet saab teada teie tühistamise ja ümberbroneerimise eeskirjad. Kui tühistate lennu ilmastikuolude tõttu, saab see koostada igale mõjutatud reisijale isikupärastatud ajakava muutmise e-kirjad koos teie poliitika, saadaolevate kuupäevade ja teie tooniga. Vaatad üle ja saadad. See, mis varem võttis üksikute vastuste saamiseks tund aega, võtab minuteid."
     },
     {
-      "question": "Kas Chiefy saab hakkama küsimusega \"kas lendame homme?\" meilid, mis igal õhtul üle ujuvad?",
-      "answer": "Jah – see on üks levinumaid e-kirju, millest õhupallioperaatorid meile räägivad. Chiefy õpib tundma teie ilmapoliitikat ja koostab rahustavaid vastuseid, mis selgitavad teie otsustusprotsessi, millal teete viimase kõne ja mida oodata. Kui kinnitate hommikul mineku/keelamise, saab see kõigi manifestis olevate värskenduste mustandid."
+      "question": "Kas Duet saab hakkama küsimusega \"kas lendame homme?\" meilid, mis igal õhtul üle ujuvad?",
+      "answer": "Jah – see on üks levinumaid e-kirju, millest õhupallioperaatorid meile räägivad. Duet õpib tundma teie ilmapoliitikat ja koostab rahustavaid vastuseid, mis selgitavad teie otsustusprotsessi, millal teete viimase kõne ja mida oodata. Kui kinnitate hommikul mineku/keelamise, saab see kõigi manifestis olevate värskenduste mustandid."
     }
   ],
   "pricingNote": "$250/person 4 reisijaga lennu kohta maksab üks salvestatud broneering rohkem kui aasta Pro eest."

@@ -11,9 +11,9 @@ Each run writes the 3 GIFs to both locations:
 
 Hosted URLs after landing deploy:
 
-- `https://chiefy.com/email/autodraft-demo.gif`
-- `https://chiefy.com/email/inbox-categories-demo.gif`
-- `https://chiefy.com/email/agent-chat-demo.gif`
+- `https://duetmail.com/email/autodraft-demo.gif`
+- `https://duetmail.com/email/inbox-categories-demo.gif`
+- `https://duetmail.com/email/agent-chat-demo.gif`
 
 ## Run
 

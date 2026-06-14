@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy kwa Wabunifu wa Mambo ya Ndani | Msaidizi wa barua pepe wa AI",
-  "metaDescription": "Chiefy husaidia wabunifu wa mambo ya ndani kudhibiti barua pepe za wateja, uratibu wa makandarasi, na maagizo ya wauzaji - hata kutoka kwenye tovuti ya kazi. Majibu yaliyoandaliwa na AI pamoja na maelezo ya mradi wako, mapendeleo na sauti.",
+  "pageTitle": "Duet Mail kwa Wabunifu wa Mambo ya Ndani | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail husaidia wabunifu wa mambo ya ndani kudhibiti barua pepe za wateja, uratibu wa makandarasi, na maagizo ya wauzaji - hata kutoka kwenye tovuti ya kazi. Majibu yaliyoandaliwa na AI pamoja na maelezo ya mradi wako, mapendeleo na sauti.",
   "heroBadge": "Inaaminiwa na wabunifu 400+ wa mambo ya ndani",
   "heroHeadline": "Mratibu wako wa barua pepe ukiwa kwenye tovuti na wateja",
-  "heroSubline": "Chiefy hujifunza anwani za wachuuzi wako, maelezo ya mradi na mapendeleo ya mteja - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza mteja kwa jibu la polepole.",
+  "heroSubline": "Duet hujifunza anwani za wachuuzi wako, maelezo ya mradi na mapendeleo ya mteja - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza mteja kwa jibu la polepole.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "mradi",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Mteja mmoja aliyehifadhiwa hulipa kwa miaka ya Chiefy."
+    "punchline": "Mteja mmoja aliyehifadhiwa hulipa kwa miaka ya Duet."
   },
-  "categorizationSubtitle": "Chiefy huweka lebo kiotomatiki kila barua pepe ili uweze kuona maswali mapya ya mteja kwanza, idhini inayosubiri pili, na majarida ya wauzaji kamwe. Hakuna tena kukosa mashauriano ya muundo uliozikwa chini ya matangazo ya maonyesho ya biashara.",
-  "draftSubtitle": "Chiefy hujifunza mchakato wako, maelezo ya mradi na sauti. Swali jipya au swali la mteja linapogonga, hutayarisha jibu kamili na upatikanaji wako, hatua zinazofuata na maelezo mahususi ya mradi. Unakagua na kutuma.",
-  "agentSubtitle": "\"Hali gani kwenye mradi wa Henderson?\" \"Ni idhini zipi ambazo bado hazijashughulikiwa?\" Chiefy inajua kikasha chako na kila mfululizo wa mradi - uliza tu.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uweze kuona maswali mapya ya mteja kwanza, idhini inayosubiri pili, na majarida ya wauzaji kamwe. Hakuna tena kukosa mashauriano ya muundo uliozikwa chini ya matangazo ya maonyesho ya biashara.",
+  "draftSubtitle": "Duet hujifunza mchakato wako, maelezo ya mradi na sauti. Swali jipya au swali la mteja linapogonga, hutayarisha jibu kamili na upatikanaji wako, hatua zinazofuata na maelezo mahususi ya mradi. Unakagua na kutuma.",
+  "agentSubtitle": "\"Hali gani kwenye mradi wa Henderson?\" \"Ni idhini zipi ambazo bado hazijashughulikiwa?\" Duet inajua kikasha chako na kila mfululizo wa mradi - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Mbuni Mkuu, Austin TX",
-      "quote": "Niko kwenye tovuti saa 6 kwa siku nikiratibu wachoraji, mafundi umeme, na wasakinishaji wa vigae. Wakati huo huo wateja wengine watatu wanatuma barua pepe kuhusu miradi yao. Rasimu za Chiefy hujibu kwa maelezo sahihi ya mradi - Ninakagua tu kati ya ziara za tovuti.",
+      "quote": "Niko kwenye tovuti saa 6 kwa siku nikiratibu wachoraji, mafundi umeme, na wasakinishaji wa vigae. Wakati huo huo wateja wengine watatu wanatuma barua pepe kuhusu miradi yao. Rasimu za Duet hujibu kwa maelezo sahihi ya mradi - Ninakagua tu kati ya ziara za tovuti.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Mbunifu wa Mambo ya Ndani ya Makazi, Chicago",
-      "quote": "Maswali ya wateja yalikuwa yakikaa kwa siku kwa sababu nilizikwa katika barua pepe za ununuzi na kuratibu kwa kontrakta. Sasa Chiefy hujibu mwongozo mpya kwa dakika na mchakato wangu na upatikanaji. Nimehifadhi miradi 4 ya ziada robo hii.",
+      "quote": "Maswali ya wateja yalikuwa yakikaa kwa siku kwa sababu nilizikwa katika barua pepe za ununuzi na kuratibu kwa kontrakta. Sasa Duet hujibu mwongozo mpya kwa dakika na mchakato wangu na upatikanaji. Nimehifadhi miradi 4 ya ziada robo hii.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Mmiliki wa Studio ya Ubunifu, Nashville",
-      "quote": "Kusimamia barua pepe za miradi 12 inayoendelea kulikuwa kuniua. Chiefy huainisha kila kitu - maswali mapya, idhini zinazosubiri, maagizo ya wauzaji, masasisho ya kontrakta - kwa hivyo ninajua ni nini hasa kinachohitaji umakini wangu kwanza.",
+      "quote": "Kusimamia barua pepe za miradi 12 inayoendelea kulikuwa kuniua. Duet huainisha kila kitu - maswali mapya, idhini zinazosubiri, maagizo ya wauzaji, masasisho ya kontrakta - kwa hivyo ninajua ni nini hasa kinachohitaji umakini wangu kwanza.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Mpambaji wa Mambo ya Ndani, San Diego",
-      "quote": "Nilikuwa nikipoteza wateja watarajiwa kwa sababu sikuweza kujibu haraka vya kutosha wakati wa wiki za kusakinisha. Chiefy ilijifunza mchakato wangu wa mashauriano, muundo wa bei, hata jinsi ninavyoelezea mtindo wangu wa kubuni. Wateja hawajui kuwa inasaidiwa na AI.",
+      "quote": "Nilikuwa nikipoteza wateja watarajiwa kwa sababu sikuweza kujibu haraka vya kutosha wakati wa wiki za kusakinisha. Duet ilijifunza mchakato wangu wa mashauriano, muundo wa bei, hata jinsi ninavyoelezea mtindo wangu wa kubuni. Wateja hawajui kuwa inasaidiwa na AI.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Mbuni wa Mambo ya Ndani ya Biashara, Denver",
-      "quote": "Kati ya nyakati za kuongoza kwa muuzaji, ratiba za kontrakta, na maombi ya marekebisho ya mteja, kikasha changu kilikuwa cha fujo. Chiefy hupanga yote na huandaa ufuatiliaji wa idhini zinazosubiri. Ni kama kuwa na mratibu wa mradi ambaye halali kamwe.",
+      "quote": "Kati ya nyakati za kuongoza kwa muuzaji, ratiba za kontrakta, na maombi ya marekebisho ya mteja, kikasha changu kilikuwa cha fujo. Duet hupanga yote na huandaa ufuatiliaji wa idhini zinazosubiri. Ni kama kuwa na mratibu wa mradi ambaye halali kamwe.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "Ninabadilisha miradi 8-10 mara moja. Je, Chiefy inaweza kuwaweka sawa?",
-      "answer": "Ndiyo. Chiefy hufuatilia kila thread ya barua pepe kwa kila mteja na mradi. Unapouliza kuhusu jiko la Henderson au ofisi ya Park Avenue, huchota muktadha kutoka kwa mazungumzo yote yanayohusiana - maagizo ya wauzaji, masasisho ya wakandarasi, idhini za mteja - kwa hivyo majibu yako huwa sahihi kila wakati na mahususi kwa mradi. Hakuna kuchanganya tile ilikuwa ya mteja gani."
+      "question": "Ninabadilisha miradi 8-10 mara moja. Je, Duet inaweza kuwaweka sawa?",
+      "answer": "Ndiyo. Duet hufuatilia kila thread ya barua pepe kwa kila mteja na mradi. Unapouliza kuhusu jiko la Henderson au ofisi ya Park Avenue, huchota muktadha kutoka kwa mazungumzo yote yanayohusiana - maagizo ya wauzaji, masasisho ya wakandarasi, idhini za mteja - kwa hivyo majibu yako huwa sahihi kila wakati na mahususi kwa mradi. Hakuna kuchanganya tile ilikuwa ya mteja gani."
     },
     {
-      "question": "Ninaratibu na wakandarasi na wachuuzi wengi. Je, Chiefy inasaidia na hilo?",
-      "answer": "Kabisa. Chiefy hujifunza anwani za mkandarasi wako, wawakilishi wa wauzaji, na muktadha wa jukumu la kila biashara katika miradi yako. Wakati barua pepe zako za fundi umeme zinapokamilika, Chiefy inaweza kuandaa jibu kuthibitisha hatua inayofuata au kuunganisha kisakinishi cha kurekebisha. Huweka mtiririko wa kazi ukiendelea hata ukiwa umevuka mji katika tovuti nyingine ya kazi."
+      "question": "Ninaratibu na wakandarasi na wachuuzi wengi. Je, Duet inasaidia na hilo?",
+      "answer": "Kabisa. Duet hujifunza anwani za mkandarasi wako, wawakilishi wa wauzaji, na muktadha wa jukumu la kila biashara katika miradi yako. Wakati barua pepe zako za fundi umeme zinapokamilika, Duet inaweza kuandaa jibu kuthibitisha hatua inayofuata au kuunganisha kisakinishi cha kurekebisha. Huweka mtiririko wa kazi ukiendelea hata ukiwa umevuka mji katika tovuti nyingine ya kazi."
     }
   ],
-  "pricingNote": "Kwa $10,000/mradi, mteja mmoja aliyehifadhiwa hulipa kwa miaka mingi ya Chiefy Pro."
+  "pricingNote": "Kwa $10,000/mradi, mteja mmoja aliyehifadhiwa hulipa kwa miaka mingi ya Duet Pro."
 }

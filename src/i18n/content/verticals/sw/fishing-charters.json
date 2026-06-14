@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy kwa Hati za Uvuvi | Msaidizi wa barua pepe wa AI",
-  "metaDescription": "Chiefy huwasaidia nahodha wa kukodisha wavuvi kujibu barua pepe za kuweka nafasi papo hapo - hata kutoka kwa maji. Majibu yaliyoandaliwa na AI pamoja na bei, sera na sauti yako.",
+  "pageTitle": "Duet Mail kwa Hati za Uvuvi | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Duet Mail huwasaidia nahodha wa kukodisha wavuvi kujibu barua pepe za kuweka nafasi papo hapo - hata kutoka kwa maji. Majibu yaliyoandaliwa na AI pamoja na bei, sera na sauti yako.",
   "heroBadge": "Inaaminiwa na manahodha 500+ wa kukodishwa",
   "heroHeadline": "Mratibu wako wa barua pepe ukiwa kwenye maji",
-  "heroSubline": "Chiefy hujifunza kuhusu bei, sera na sauti yako - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi kwa jibu la polepole.",
+  "heroSubline": "Duet hujifunza kuhusu bei, sera na sauti yako - kisha huandaa majibu ya barua pepe ili usiwahi kupoteza nafasi uliyohifadhi kwa jibu la polepole.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "mkataba",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Uhifadhi mmoja uliohifadhiwa unalipa kwa mwaka wa Chiefy."
+    "punchline": "Uhifadhi mmoja uliohifadhiwa unalipa kwa mwaka wa Duet."
   },
-  "categorizationSubtitle": "Chiefy huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, maswali ya pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa safari uliozikwa chini ya arifa za TripAdvisor.",
-  "draftSubtitle": "Chiefy hujifunza kuhusu bei, sera na sauti yako. Ombi la kuweka nafasi linapofika, huandaa jibu kamili lenye maelezo ya safari, bei na kile cha kuleta. Unakagua na kutuma.",
-  "agentSubtitle": "\"Ni siku gani zimefunguliwa wiki ijayo?\" \"Rasimu ya jibu kwa Sarah pamoja na upatikanaji.\" Chiefy anajua kikasha chako na kalenda - uliza tu.",
+  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maombi ya kuhifadhi nafasi kwanza, maswali ya pili, na kelele kamwe. Hakuna tena kukosa uchunguzi wa safari uliozikwa chini ya arifa za TripAdvisor.",
+  "draftSubtitle": "Duet hujifunza kuhusu bei, sera na sauti yako. Ombi la kuweka nafasi linapofika, huandaa jibu kamili lenye maelezo ya safari, bei na kile cha kuleta. Unakagua na kutuma.",
+  "agentSubtitle": "\"Ni siku gani zimefunguliwa wiki ijayo?\" \"Rasimu ya jibu kwa Sarah pamoja na upatikanaji.\" Duet anajua kikasha chako na kalenda - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Kapteni Mike D.",
       "title": "Nahodha wa Mkataba wa Offshore, FL",
-      "quote": "Wakati wa msimu wa kilele ningepoteza nafasi 2-3 kwa wiki kwa sababu tu sikuweza kujibu haraka vya kutosha kutoka kwenye mashua. Chiefy huandaa majibu kwa bei na maelezo yangu ya safari - Nimegonga tuma kati ya data nilizopata.",
+      "quote": "Wakati wa msimu wa kilele ningepoteza nafasi 2-3 kwa wiki kwa sababu tu sikuweza kujibu haraka vya kutosha kutoka kwenye mashua. Duet huandaa majibu kwa bei na maelezo yangu ya safari - Nimegonga tuma kati ya data nilizopata.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Biashara ya Mkataba wa Familia, AU",
-      "quote": "Tunaendesha boti mbili na kiasi cha barua pepe wakati wa majira ya joto ni wazimu. Chiefy hupanga maombi ya kuhifadhi kutoka kwa kila kitu kingine na majibu ya rasimu ambayo yanafanana kabisa na sisi. Kubadilisha mchezo kabisa.",
+      "quote": "Tunaendesha boti mbili na kiasi cha barua pepe wakati wa majira ya joto ni wazimu. Duet hupanga maombi ya kuhifadhi kutoka kwa kila kitu kingine na majibu ya rasimu ambayo yanafanana kabisa na sisi. Kubadilisha mchezo kabisa.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Mwongozo wa Uvuvi wa Ndani, TX",
-      "quote": "Nilikuwa nikitumia saa moja kila usiku kujibu maswali yale yale ya upatikanaji. Sasa Chiefy inashughulikia. Muda wangu wa kujibu ulienda kutoka saa hadi dakika na sijapoteza nafasi tangu wakati huo.",
+      "quote": "Nilikuwa nikitumia saa moja kila usiku kujibu maswali yale yale ya upatikanaji. Sasa Duet inashughulikia. Muda wangu wa kujibu ulienda kutoka saa hadi dakika na sijapoteza nafasi tangu wakati huo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Meneja wa Ofisi ya Mkataba, HI",
-      "quote": "Kusimamia barua pepe za manahodha 4 ilikuwa kazi ya muda wote. Chiefy huainisha kila kitu na majibu ya rasimu kwa kutumia mashua inayofaa, bei inayofaa, nahodha anayefaa. Ni kama kuwa na mimi mwingine.",
+      "quote": "Kusimamia barua pepe za manahodha 4 ilikuwa kazi ya muda wote. Duet huainisha kila kitu na majibu ya rasimu kwa kutumia mashua inayofaa, bei inayofaa, nahodha anayefaa. Ni kama kuwa na mimi mwingine.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "Je, Chiefy inafanya kazi kwa uhifadhi na upatikanaji wa barua pepe?",
-      "answer": "Kabisa. Chiefy hujifunza aina za safari, bei, upatikanaji na sera. Ombi la kuweka nafasi linapokuja, huandaa jibu kamili na maelezo sahihi - bei, nini kimejumuishwa, eneo la mkutano, nini cha kuleta. Unakagua na ugonge tuma."
+      "question": "Je, Duet inafanya kazi kwa uhifadhi na upatikanaji wa barua pepe?",
+      "answer": "Kabisa. Duet hujifunza aina za safari, bei, upatikanaji na sera. Ombi la kuweka nafasi linapokuja, huandaa jibu kamili na maelezo sahihi - bei, nini kimejumuishwa, eneo la mkutano, nini cha kuleta. Unakagua na ugonge tuma."
     },
     {
-      "question": "Niko juu ya maji siku nzima. Je, ninaweza kutumia Chiefy kutoka kwa simu yangu?",
-      "answer": "Ndiyo. Chiefy hufanya kazi na Gmail na Outlook, kwa hivyo inafanya kazi popote barua pepe yako inafanya kazi - ikiwa ni pamoja na simu yako. Rasimu huonekana kiotomatiki. Kati ya data iliyopokelewa, unakagua na kutuma kwa mguso mmoja. Manahodha wengi wanatuambia inawaokoa saa 1-2 za muda wa barua pepe kwa siku wakati wa msimu wa kilele."
+      "question": "Niko juu ya maji siku nzima. Je, ninaweza kutumia Duet kutoka kwa simu yangu?",
+      "answer": "Ndiyo. Duet hufanya kazi na Gmail na Outlook, kwa hivyo inafanya kazi popote barua pepe yako inafanya kazi - ikiwa ni pamoja na simu yako. Rasimu huonekana kiotomatiki. Kati ya data iliyopokelewa, unakagua na kutuma kwa mguso mmoja. Manahodha wengi wanatuambia inawaokoa saa 1-2 za muda wa barua pepe kwa siku wakati wa msimu wa kilele."
     }
   ],
   "pricingNote": "Kwa $500/charter, nafasi moja iliyohifadhiwa hulipa kwa zaidi ya mwaka mmoja wa Pro."

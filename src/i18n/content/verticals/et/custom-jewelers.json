@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy kohandatud juveliiridele | AI e-posti assistent",
-  "metaDescription": "Chiefy aitab kohandatud juveliiridel koheselt vastata konsultatsioonitaotlustele, disainilahenduste kinnitustele ja ajakavaga seotud küsimustele – isegi töölaual olles. AI koostatud vastused teie protsessi, hinnakujunduse ja häälega.",
+  "pageTitle": "Duet Mail kohandatud juveliiridele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab kohandatud juveliiridel koheselt vastata konsultatsioonitaotlustele, disainilahenduste kinnitustele ja ajakavaga seotud küsimustele – isegi töölaual olles. AI koostatud vastused teie protsessi, hinnakujunduse ja häälega.",
   "heroBadge": "Usaldab üle 300 ehtedisaineri",
   "heroHeadline": "Teie e-posti assistent, kui olete pingil",
-  "heroSubline": "Chiefy õpib tundma teie projekteerimisprotsessi, materjale, hindu ja ajakavasid – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi kohandatud klienti aeglase vastuse tõttu.",
+  "heroSubline": "Duet õpib tundma teie projekteerimisprotsessi, materjale, hindu ja ajakavasid – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi kohandatud klienti aeglase vastuse tõttu.",
   "inboxEmails": [
     {
       "from": "Rachel ja David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "kohandatud tükk",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Üks säästetud klient maksab rohkem kui nelja aasta Chiefy eest."
+    "punchline": "Üks säästetud klient maksab rohkem kui nelja aasta Duet eest."
   },
-  "categorizationSubtitle": "Chiefy märgistab automaatselt iga meili, nii et näete esmalt uusi konsultatsioonitaotlusi, teiseks disaini kinnitusi ja mitte kunagi hankijate uudiskirju. Enam ei puudu $5,000 tarnijate pakkumiste alla maetud päring.",
-  "draftSubtitle": "Chiefy õpib tundma teie protsesse, materjale, hindu ja häält. Kui konsultatsioonitaotlus laekub, koostab see täieliku vastuse koos teie saadavuse, kaasavõetava ja teie protsessi toimimisega. Vaatad üle ja saadad.",
-  "agentSubtitle": "\"Kus me Amanda sõrmusega oleme?\" \"Järgista Jamesi ajaskaala värskendus.\" Chiefy tunneb iga kliendi lõime – lihtsalt küsige.",
+  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et näete esmalt uusi konsultatsioonitaotlusi, teiseks disaini kinnitusi ja mitte kunagi hankijate uudiskirju. Enam ei puudu $5,000 tarnijate pakkumiste alla maetud päring.",
+  "draftSubtitle": "Duet õpib tundma teie protsesse, materjale, hindu ja häält. Kui konsultatsioonitaotlus laekub, koostab see täieliku vastuse koos teie saadavuse, kaasavõetava ja teie protsessi toimimisega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kus me Amanda sõrmusega oleme?\" \"Järgista Jamesi ajaskaala värskendus.\" Duet tunneb iga kliendi lõime – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Kohandatud ehete disainer, LA",
-      "quote": "Iga kohandatud tükk genereerib nädala jooksul 10–15 meili. Korrutage see 8 aktiivse kliendiga ja ma uppusin. Chiefy koostab disaini värskenduste vastuste, konsultatsiooni kinnituste ja ajaskaala vastuste mustandid – kõik minu häälega. Vaatan castingu vahel üle ja vajutan saada.",
+      "quote": "Iga kohandatud tükk genereerib nädala jooksul 10–15 meili. Korrutage see 8 aktiivse kliendiga ja ma uppusin. Duet koostab disaini värskenduste vastuste, konsultatsiooni kinnituste ja ajaskaala vastuste mustandid – kõik minu häälega. Vaatan castingu vahel üle ja vajutan saada.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Goldsmith & Studio omanik, Brooklyn",
-      "quote": "Ma kaotasin $7,000 kihlasõrmuse vahendustasu, kuna mul kulus vastamiseks 3 päeva – paar läks kellegi juurde, kes vastas 2 tunniga. Alates Chiefy on minu reageerimisaeg alla 30 minuti. Seda pole enam juhtunud.",
+      "quote": "Ma kaotasin $7,000 kihlasõrmuse vahendustasu, kuna mul kulus vastamiseks 3 päeva – paar läks kellegi juurde, kes vastas 2 tunniga. Alates Duet on minu reageerimisaeg alla 30 minuti. Seda pole enam juhtunud.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Jeweller, Chicago",
-      "quote": "Olen 8 tundi päevas pingis, taskulamp käes. Ma ei saa lõpetada keskjoodet, et tippida konsultatsioonivastust. Chiefy koostab töö ajal kõik mustandid – heidan telefonile pilgu, kiidan heaks, valmis.",
+      "quote": "Olen 8 tundi päevas pingis, taskulamp käes. Ma ei saa lõpetada keskjoodet, et tippida konsultatsioonivastust. Duet koostab töö ajal kõik mustandid – heidan telefonile pilgu, kiidan heaks, valmis.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Pruudi ehete disainer, Austin",
-      "quote": "Kihlushooajal saan nädalas 20+ konsultatsioonitaotlust. Chiefy õppis ära kogu minu protsessi – materjalid, ajagraafikud, hinnatasemed ja mida kaasa võtta. See koostab vastused, mida mul pole vaja peaaegu muuta. Absoluutne elupäästja novembrist veebruarini.",
+      "quote": "Kihlushooajal saan nädalas 20+ konsultatsioonitaotlust. Duet õppis ära kogu minu protsessi – materjalid, ajagraafikud, hinnatasemed ja mida kaasa võtta. See koostab vastused, mida mul pole vaja peaaegu muuta. Absoluutne elupäästja novembrist veebruarini.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Kohandatud rõnga spetsialist, Portland",
-      "quote": "3D-revisjoni meilid sõid mu õhtuid. Klient saadab tagasisidet, mina koostan uuenduse viis korda edasi-tagasi. Nüüd tegeleb Chiefy rutiinsete vastustega ja mina sekkun ainult disainiotsuste tegemisel. Sain oma ööd tagasi.",
+      "quote": "3D-revisjoni meilid sõid mu õhtuid. Klient saadab tagasisidet, mina koostan uuenduse viis korda edasi-tagasi. Nüüd tegeleb Duet rutiinsete vastustega ja mina sekkun ainult disainiotsuste tegemisel. Sain oma ööd tagasi.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Kas Chiefy saab hakkama viitefotode ja kujundusmanustega meilidega?",
-      "answer": "Jah. Chiefy näeb kogu meililõime koos manustega, nii et see mõistab konteksti, kui klient saadab inspiratsioonifotosid või disaini tagasisidet. See ei kirjelda pilte tagasi, kuid teab, et klient saatis just viitefotod ja koostab asjakohase vastuse – kinnitades kättesaamist, esitades kujunduse kohta täpsustavaid küsimusi või esitades teie tavapärase töövoo põhjal järgmised sammud."
+      "question": "Kas Duet saab hakkama viitefotode ja kujundusmanustega meilidega?",
+      "answer": "Jah. Duet näeb kogu meililõime koos manustega, nii et see mõistab konteksti, kui klient saadab inspiratsioonifotosid või disaini tagasisidet. See ei kirjelda pilte tagasi, kuid teab, et klient saatis just viitefotod ja koostab asjakohase vastuse – kinnitades kättesaamist, esitades kujunduse kohta täpsustavaid küsimusi või esitades teie tavapärase töövoo põhjal järgmised sammud."
     },
     {
-      "question": "Minu kohandatud projektidel on pikad meililõimed 10+ sõnumiga. Kas Chiefy saab neid jälgida?",
-      "answer": "Täpselt seal särab Chiefy. See loeb kogu lõime ajalugu – konsultatsioonimärkmed, kujunduse versioonid, materjali valikud, ajaskaala värskendused – nii et igal koostatud vastusel on täielik kontekst. Kui klient küsib \"mis on minu sõrmuse olek?\" e-kirjas nr 14 teab Chiefy, milline helin, millises staadiumis see on, ja koostab täpse värskenduse. Enam ei pea te ise 3 kuu e-kirju uuesti läbi lugema."
+      "question": "Minu kohandatud projektidel on pikad meililõimed 10+ sõnumiga. Kas Duet saab neid jälgida?",
+      "answer": "Täpselt seal särab Duet. See loeb kogu lõime ajalugu – konsultatsioonimärkmed, kujunduse versioonid, materjali valikud, ajaskaala värskendused – nii et igal koostatud vastusel on täielik kontekst. Kui klient küsib \"mis on minu sõrmuse olek?\" e-kirjas nr 14 teab Duet, milline helin, millises staadiumis see on, ja koostab täpse värskenduse. Enam ei pea te ise 3 kuu e-kirju uuesti läbi lugema."
     }
   ],
   "pricingNote": "Kell $5,000/piece maksab üks säästetud vahendustasu rohkem kui nelja aasta Pro eest."

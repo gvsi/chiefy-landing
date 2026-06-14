@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy untuk Wisata Mengamati Paus |  AI Asisten Email",
-  "metaDescription": "Chiefy membantu kapten pengamat paus merespons email pemesanan secara instan — bahkan dari dalam air.  AI -Balasan yang disusun dengan detail tur, harga, dan suara Anda.",
+  "pageTitle": "Duet Mail untuk Wisata Mengamati Paus |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu kapten pengamat paus merespons email pemesanan secara instan — bahkan dari dalam air.  AI -Balasan yang disusun dengan detail tur, harga, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 300+ kapten tur",
   "heroHeadline": "Asisten email Anda saat Anda sedang melihat ikan paus",
-  "heroSubline": "Chiefy mempelajari jadwal tur, harga, dan suara Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan saat berada di perairan.",
+  "heroSubline": "Duet mempelajari jadwal tur, harga, dan suara Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan saat berada di perairan.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grup wisata",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Satu pemesanan grup tersimpan membayar untuk satu tahun Chiefy."
+    "punchline": "Satu pemesanan grup tersimpan membayar untuk satu tahun Duet."
   },
-  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, jadwal kapal pesiar berubah kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan sewa pribadi yang hilang yang terkubur di bawah peringatan TripAdvisor.",
-  "draftSubtitle": "Chiefy mempelajari waktu tur, harga, dan kebijakan Anda. Ketika pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan ketersediaan, apa saja yang disertakan, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
-  "agentSubtitle": "“Berapa banyak tempat yang tersisa pada tur pagi hari Sabtu?” \"Buatlah draf balasan untuk Rachel dengan ketersediaannya.\" Chiefy mengetahui inbox dan jadwal Anda — tanyakan saja.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, jadwal kapal pesiar berubah kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan sewa pribadi yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari waktu tur, harga, dan kebijakan Anda. Ketika pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan ketersediaan, apa saja yang disertakan, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
+  "agentSubtitle": "“Berapa banyak tempat yang tersisa pada tur pagi hari Sabtu?” \"Buatlah draf balasan untuk Rachel dengan ketersediaannya.\" Duet mengetahui inbox dan jadwal Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Dave H.",
       "title": "Operator Wisata Satwa Liar, AK",
-      "quote": "Penumpang kapal pesiar butuh jawaban cepat — mereka hanya punya waktu 6 jam di pelabuhan. Saya dulu kehilangan sewa pribadi karena saya berada di atas air ketika pertanyaan masuk. Sekarang draft Chiefy membalas dengan harga dan rincian penjemputan saya bahkan sebelum saya berlabuh.",
+      "quote": "Penumpang kapal pesiar butuh jawaban cepat — mereka hanya punya waktu 6 jam di pelabuhan. Saya dulu kehilangan sewa pribadi karena saya berada di atas air ketika pertanyaan masuk. Sekarang draft Duet membalas dengan harga dan rincian penjemputan saya bahkan sebelum saya berlabuh.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Pengawasan Paus Keluarga, CA",
-      "quote": "Kami menjalankan dua tur sehari selama musim bungkuk dan volume emailnya tidak nyata. 'Apakah kita akan melihat ikan paus?' 'Apa yang harus aku pakai?' 'Apakah besok dibatalkan?' Chiefy menangani pertanyaan berulang dan kami fokus pada tur.",
+      "quote": "Kami menjalankan dua tur sehari selama musim bungkuk dan volume emailnya tidak nyata. 'Apakah kita akan melihat ikan paus?' 'Apa yang harus aku pakai?' 'Apakah besok dibatalkan?' Duet menangani pertanyaan berulang dan kami fokus pada tur.",
       "avatarKey": "francesca"
     },
     {
       "name": "Kapten Ben T.",
       "title": "Wisata Laut, HI",
-      "quote": "Saya menjawab 10 pertanyaan yang sama setiap malam — harga, apa saja yang termasuk, tips mabuk laut, batasan usia anak. Chiefy mempelajari semuanya di minggu pertama. Waktu respons saya berubah dari 8 jam menjadi 8 menit.",
+      "quote": "Saya menjawab 10 pertanyaan yang sama setiap malam — harga, apa saja yang termasuk, tips mabuk laut, batasan usia anak. Duet mempelajari semuanya di minggu pertama. Waktu respons saya berubah dari 8 jam menjadi 8 menit.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Manajer Pemesanan, Pacific NW",
-      "quote": "Pembatalan karena cuaca adalah yang terburuk — 30 orang perlu memesan ulang sekaligus dan saya harus menangani panggilan telepon. Chiefy menyusun email penjadwalan ulang yang dipersonalisasi untuk setiap tamu. Yang biasanya memakan waktu 2 jam kini menjadi 15 menit.",
+      "quote": "Pembatalan karena cuaca adalah yang terburuk — 30 orang perlu memesan ulang sekaligus dan saya harus menangani panggilan telepon. Duet menyusun email penjadwalan ulang yang dipersonalisasi untuk setiap tamu. Yang biasanya memakan waktu 2 jam kini menjadi 15 menit.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Tur Satwa Liar Perahu Kecil, BC",
-      "quote": "Operasi kami terdiri dari dua orang — saya kapten, dia menjalankan logistik. Selama musim puncak dia menghabiskan 3 jam semalam untuk mengirim email. Chiefy potong menjadi 30 menit. Dia benar-benar mendapatkan malamnya kembali sekarang.",
+      "quote": "Operasi kami terdiri dari dua orang — saya kapten, dia menjalankan logistik. Selama musim puncak dia menghabiskan 3 jam semalam untuk mengirim email. Duet potong menjadi 30 menit. Dia benar-benar mendapatkan malamnya kembali sekarang.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Apakah Chiefy menangani pembatalan cuaca dan perubahan jadwal kapal pesiar?",
-      "answer": "Ya. Saat Anda membatalkan tur karena cuaca atau perubahan waktu kedatangan kapal pesiar, Anda dapat memberi tahu Chiefy satu kali dan Chiefy akan menyusun penjadwalan ulang yang dipersonalisasi atau memperbarui email untuk setiap tamu yang terkena dampak. Tidak perlu lagi menyalin dan menempelkan pesan yang sama sebanyak 30 kali. Setiap balasan mencakup rincian pemesanan asli tamu dan alternatif yang tersedia."
+      "question": "Apakah Duet menangani pembatalan cuaca dan perubahan jadwal kapal pesiar?",
+      "answer": "Ya. Saat Anda membatalkan tur karena cuaca atau perubahan waktu kedatangan kapal pesiar, Anda dapat memberi tahu Duet satu kali dan Duet akan menyusun penjadwalan ulang yang dipersonalisasi atau memperbarui email untuk setiap tamu yang terkena dampak. Tidak perlu lagi menyalin dan menempelkan pesan yang sama sebanyak 30 kali. Setiap balasan mencakup rincian pemesanan asli tamu dan alternatif yang tersedia."
     },
     {
-      "question": "Kita selalu mendapatkan pertanyaan yang sama — 'apakah kita akan melihat ikan paus?', 'apa yang harus saya pakai?', 'apakah boleh untuk anak-anak?' Bisakah Chiefy mengatasinya?",
-      "answer": "Di situlah Chiefy bersinar. Ia mempelajari jawaban standar Anda — spesies yang biasa Anda lihat, apa yang harus dibawa, kebijakan usia, tip mabuk laut, waktu keberangkatan — dan menyusun balasan lengkap secara instan. Anda meninjau dan mengirim. Kebanyakan kapten memberi tahu kami bahwa 80% inbox mereka berisi 10 pertanyaan yang sama, dan Chiefy menangani semuanya."
+      "question": "Kita selalu mendapatkan pertanyaan yang sama — 'apakah kita akan melihat ikan paus?', 'apa yang harus saya pakai?', 'apakah boleh untuk anak-anak?' Bisakah Duet mengatasinya?",
+      "answer": "Di situlah Duet bersinar. Ia mempelajari jawaban standar Anda — spesies yang biasa Anda lihat, apa yang harus dibawa, kebijakan usia, tip mabuk laut, waktu keberangkatan — dan menyusun balasan lengkap secara instan. Anda meninjau dan mengirim. Kebanyakan kapten memberi tahu kami bahwa 80% inbox mereka berisi 10 pertanyaan yang sama, dan Duet menangani semuanya."
     }
   ],
   "pricingNote": "Dengan $125/orang, satu grup simpanan beranggotakan 6 orang membayar Pro selama lebih dari setahun."

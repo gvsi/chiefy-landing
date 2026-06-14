@@ -2,7 +2,7 @@
 title: "Den ultimata guiden till sidfot för e-post i HTML: efterlevnad, design och exempel"
 description: "Master HTML-sidfot för e-post: väsentliga element, designtips, laglig efterlevnad (CAN-SPAM,GDPR,CASL) och varumärkesexempel."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "E-post"]
 draft: false
 ---
@@ -120,4 +120,4 @@ Din HTML-e-postsidfot kan vara det sista som mottagarna ser, men det borde inte 
 
 Det bygger förtroende, stärker ditt varumärke, säkerställer efterlevnad och ger användbar navigering för din publik. Ta dig tid att granska din nuvarande sidfot för e-post. Är det kompatibelt? Är det klart? Är det mobilanpassat? Att göra dessa små förbättringar kan ha stor inverkan på hur dina e-postmeddelanden – och ditt varumärke – uppfattas.
 
-Letar du efter sätt att göra din övergripande e-posthantering mer effektiv och professionell? Överväg att utforska verktyg som är utformade för upptagna proffs. Om du till exempel lär dig hur [Chiefy förenklar e-postproduktiviteten](https://chiefy.com/sv) med AI-drivna funktioner kan frigöra mer tid för att fokusera på att fullända detaljer som sidfoten och se till att varje kommunikation representerar dig väl.
+Letar du efter sätt att göra din övergripande e-posthantering mer effektiv och professionell? Överväg att utforska verktyg som är utformade för upptagna proffs. Om du till exempel lär dig hur [Duet Mail förenklar e-postproduktiviteten](https://duetmail.com/sv) med AI-drivna funktioner kan frigöra mer tid för att fokusera på att fullända detaljer som sidfoten och se till att varje kommunikation representerar dig väl.

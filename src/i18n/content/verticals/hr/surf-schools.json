@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy za škole surfanja i operatere daske za veslanje | AI pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže instruktorima surfanja i operaterima daske za veslanje da odmah odgovore na e-poruke s rezervacijama — čak i dok podučavaju. Odgovori koje je izradila umjetna inteligencija s vašim vrstama lekcija, cijenama i glasom.",
+  "pageTitle": "Duet Mail za škole surfanja i operatere daske za veslanje | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže instruktorima surfanja i operaterima daske za veslanje da odmah odgovore na e-poruke s rezervacijama — čak i dok podučavaju. Odgovori koje je izradila umjetna inteligencija s vašim vrstama lekcija, cijenama i glasom.",
   "heroBadge": "Vjeruje mu više od 300 instruktora surfanja",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok podučavate na vodi",
-  "heroSubline": "Chiefy uči vaše vrste lekcija, cijene i uvjete — zatim sastavlja skice odgovora e-poštom tako da nikad ne izgubite rezervaciju zbog sporog odgovora.",
+  "heroSubline": "Duet uči vaše vrste lekcija, cijene i uvjete — zatim sastavlja skice odgovora e-poštom tako da nikad ne izgubite rezervaciju zbog sporog odgovora.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lekcija",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Dvije spremljene rezervacije plaćaju godinu Chiefy."
+    "punchline": "Dvije spremljene rezervacije plaćaju godinu Duet."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite rezervacije lekcija, zatim pitanja, a nikad buku. Nema više propuštanja upita za školsku grupu skrivenog pod Yelp upozorenjima.",
-  "draftSubtitle": "Chiefy uči vaše vrste lekcija, grupne cijene i ton. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s dostupnošću, što je uključeno i što ponijeti. Vi pregledate i pošaljete.",
-  "agentSubtitle": "\"Ima li grupnih rezervacija ovaj tjedan?\" \"Nacrtajte odgovor školi s dostupnošću.\" Chiefy zna vašu pristiglu poštu i raspored — samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite rezervacije lekcija, zatim pitanja, a nikad buku. Nema više propuštanja upita za školsku grupu skrivenog pod Yelp upozorenjima.",
+  "draftSubtitle": "Duet uči vaše vrste lekcija, grupne cijene i ton. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s dostupnošću, što je uključeno i što ponijeti. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Ima li grupnih rezervacija ovaj tjedan?\" \"Nacrtajte odgovor školi s dostupnošću.\" Duet zna vašu pristiglu poštu i raspored — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Trener Mike T.",
       "title": "Vlasnik škole surfanja, CA",
-      "quote": "U vodi sam i predajem 6 sati dnevno. Dok sam provjeravao e-poštu, pola rezervacija je otišlo nekom drugom. Sada Chiefy sastavlja odgovore s mojim cijenama i dostupnošću — samo pregledavam između sesija.",
+      "quote": "U vodi sam i predajem 6 sati dnevno. Dok sam provjeravao e-poštu, pola rezervacija je otišlo nekom drugom. Sada Duet sastavlja odgovore s mojim cijenama i dostupnošću — samo pregledavam između sesija.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Tečajevi i iznajmljivanje daske za veslanje, HI",
-      "quote": "Vodimo lekcije i iznajmljujemo daske iz istog sandučića. Chiefy je odmah shvatio razliku — pitanja o najmu dobivaju odgovore o najmu, upiti o lekciji dobivaju detalje lekcije. To je kao da imate recepciju.",
+      "quote": "Vodimo lekcije i iznajmljujemo daske iz istog sandučića. Duet je odmah shvatio razliku — pitanja o najmu dobivaju odgovore o najmu, upiti o lekciji dobivaju detalje lekcije. To je kao da imate recepciju.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Instruktor surfanja, FL",
-      "quote": "Školske grupne rezervacije znale su poslati 10 e-poruka naprijed-natrag. Sada Chiefy sastavlja prvi odgovor s grupnim cijenama, onim što je uključeno i dopuštenjem. Reže cijeli konac na pola.",
+      "quote": "Školske grupne rezervacije znale su poslati 10 e-poruka naprijed-natrag. Sada Duet sastavlja prvi odgovor s grupnim cijenama, onim što je uključeno i dopuštenjem. Reže cijeli konac na pola.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP obilasci i lekcije, OR",
-      "quote": "Vrhunac sezone me ubijao — 30 e-poruka dnevno o uvjetima, cijenama, što ponijeti. Istih pet pitanja iznova i iznova. Chiefy obrađuje sve njih i zvuče točno poput mene.",
+      "quote": "Vrhunac sezone me ubijao — 30 e-poruka dnevno o uvjetima, cijenama, što ponijeti. Istih pet pitanja iznova i iznova. Duet obrađuje sve njih i zvuče točno poput mene.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Direktor dječjeg surfačkog kampa, SC",
-      "quote": "Roditelji šalju najduže e-mailove. Datumi kampa, alergije, razine vještina, vrijeme preuzimanja. Chiefy sastavlja detaljne odgovore koji pokrivaju sve tako da ne tipkam odlomke u 22 sata nakon cijelog dana na plaži.",
+      "quote": "Roditelji šalju najduže e-mailove. Datumi kampa, alergije, razine vještina, vrijeme preuzimanja. Duet sastavlja detaljne odgovore koji pokrivaju sve tako da ne tipkam odlomke u 22 sata nakon cijelog dana na plaži.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Vodi li Chiefy različite vrste lekcija i iznajmljivanje opreme?",
-      "answer": "Da. Chiefy uči sve vaše ponude — privatne sate, grupne sate, dječje kampove, iznajmljivanje dasaka, SUP izlete. Kada stigne upit, sastavlja odgovor s točnom cijenom, trajanjem, što je uključeno i što ponijeti. Zna da e-pošta školske grupe zahtijeva različite pojedinosti od rezervacije privatnog sata."
+      "question": "Vodi li Duet različite vrste lekcija i iznajmljivanje opreme?",
+      "answer": "Da. Duet uči sve vaše ponude — privatne sate, grupne sate, dječje kampove, iznajmljivanje dasaka, SUP izlete. Kada stigne upit, sastavlja odgovor s točnom cijenom, trajanjem, što je uključeno i što ponijeti. Zna da e-pošta školske grupe zahtijeva različite pojedinosti od rezervacije privatnog sata."
     },
     {
       "question": "Što je s pitanjima o vremenu i uvjetima?",
-      "answer": "Chiefy uči kako obično postupate s e-poštom o uvjetima - vaša pravila o otkazivanju, preraspodjeli i pod kojim uvjetima podučavate. Kada netko pošalje e-poruku s pitanjem hoće li se njegova lekcija održati, Chiefy sastavlja odgovor koji odgovara vašem uobičajenom tonu i politici. Pregledavate i šaljete za nekoliko sekundi."
+      "answer": "Duet uči kako obično postupate s e-poštom o uvjetima - vaša pravila o otkazivanju, preraspodjeli i pod kojim uvjetima podučavate. Kada netko pošalje e-poruku s pitanjem hoće li se njegova lekcija održati, Duet sastavlja odgovor koji odgovara vašem uobičajenom tonu i politici. Pregledavate i šaljete za nekoliko sekundi."
     }
   ],
   "pricingNote": "Po 90 USD po satu, dvije spremljene rezervacije plaćaju više od godinu dana Pro."

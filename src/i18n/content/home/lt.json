@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy |AI el. pašto asistentas, skirtas Gmail ir Outlook",
-    "description": "Chiefy AI el. pašto asistentas apibendrina el. laiškus, rengia atsakymų juodraščius ir tvarko gautuosius. Veikia su Gmail ir Outlook. Sutaupykite daugiau nei 4 valandas per savaitę."
+    "title": "Duet Mail |AI el. pašto asistentas, skirtas Gmail ir Outlook",
+    "description": "Duet Mail AI el. pašto asistentas apibendrina el. laiškus, rengia atsakymų juodraščius ir tvarko gautuosius. Veikia su Gmail ir Outlook. Sutaupykite daugiau nei 4 valandas per savaitę."
   },
   "hero": {
     "badge": "Dabar galima Gmail ir Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "El. pašto juodraščiai, kurie skamba kaip jūs",
-        "description": "Chiefy AI el. laiškų rašytojas paruošia svarbiausių el. laiškų juodraščius. Jis išmoksta jūsų toną ir rašymo stilių.",
+        "description": "Duet AI el. laiškų rašytojas paruošia svarbiausių el. laiškų juodraščius. Jis išmoksta jūsų toną ir rašymo stilių.",
         "ariaLabel": "El. pašto juodraščiai, kurie skamba kaip jūs",
         "mockCopy": {
           "draftedColdEmail": "Parašiau šaltą laišką, pritaikytą Jonui",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Išmanūs priminimai",
-        "description": "Nustatykite ir pamirškite. Chiefy AI prisimena sekti, kai kiti neatsako, todėl niekas neiškrenta.",
+        "description": "Nustatykite ir pamirškite. Duet AI prisimena sekti, kai kiti neatsako, todėl niekas neiškrenta.",
         "ariaLabel": "Išmanūs priminimai",
         "mockCopy": {
           "header": "AI-Galimi išmanieji priminimai",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "El. pašto tvarkymas ir išmaniųjų gautųjų skirstymas į kategorijas",
     "badge": "Organizacija",
-    "title": "Chiefy tvarko gautuosius",
+    "title": "Duet tvarko gautuosius",
     "subtitle": "Automatinis skirstymas į kategorijas filtruoja triukšmą ir atskleidžia tai, kas svarbu. Akimirksniu pamatysite, ką reikia imtis, kas tikFYIir kas gali palaukti.",
     "windowTitle": "Gautieji",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI el. laiškų rengimas ir atsakymų generavimas",
     "badge": "Rengimas",
-    "title": "Chiefy juodraščiai jūsų balsu",
-    "subtitle": "Chiefy išmoksta, kaip rašote, ir parengia jūsų toną atitinkančius atsakymų juodraščius. Peržiūrėkite, prireikus pakoreguokite ir išsiųskite per kelias sekundes.",
+    "title": "Duet juodraščiai jūsų balsu",
+    "subtitle": "Duet išmoksta, kaip rašote, ir parengia jūsų toną atitinkančius atsakymų juodraščius. Peržiūrėkite, prireikus pakoreguokite ir išsiųskite per kelias sekundes.",
     "windowTitle": "Nauja žinutė",
     "fieldLabels": {
       "to": "Kam:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI el. pašto žvalgyba ir asistentas",
     "badge": "Intelektas",
     "title": "Paklauskite bet ko apie savo el",
-    "subtitle": "Paprašykite Chiefy rasti el. laiškų, patikrinti kalendorių arba atsakymo juodraštį. Jis supranta jūsų gautuosius ir iš karto atsako.",
-    "windowTitle": "Chiefy Agentas",
+    "subtitle": "Paprašykite Duet rasti el. laiškų, patikrinti kalendorių arba atsakymo juodraštį. Jis supranta jūsų gautuosius ir iš karto atsako.",
+    "windowTitle": "Duet Agentas",
     "onlineLabel": "Prisijungę",
     "initialUserMessage": "Ar galite rasti Buhalterijos atsiųstą Stripe sąskaitą faktūrą?",
     "processingText": "Ieškoma gautuosiuose...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Laisvai samdomas darbuotojas",
-        "quote": "Verta kiekvieno cento. Laikas, kurį sutaupau el. paštu, mokamas Chiefy 10 kartų daugiau. Dabar neįsivaizduoju darbo be jo.",
+        "quote": "Verta kiekvieno cento. Laikas, kurį sutaupau el. paštu, mokamas Duet Mail 10 kartų daugiau. Dabar neįsivaizduoju darbo be jo.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "konsultantas",
-        "quote": "Kaip konsultantui svarbi kiekviena minutė. Chiefy ne tik sutaupo laiko, bet ir pagerina ryšį el. paštu.",
+        "quote": "Kaip konsultantui svarbi kiekviena minutė. Duet Mail ne tik sutaupo laiko, bet ir pagerina ryšį el. paštu.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Pradėti pagrindinė organizacija"
           },
           {
-            "title": "Chiefy Asistentas",
+            "title": "Duet Asistentas",
             "description": "Išbandykite AI asistentą"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Asistentas",
+            "title": "Duet Asistentas",
             "description": "Kalbėkite, kad rastumėte, sukurtumėte, tvarkytumėte ir daugiau",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "CONTACT",
     "contactHeading": "Vis dar turite klausimų?",
     "contactCta": "Susisiekite →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Kaip Chiefy apsaugo mano el. pašto duomenis?",
+        "question": "Kaip Duet Mail apsaugo mano el. pašto duomenis?",
         "answer": "Jūsų saugumas yra mūsų prioritetas. Naudojame OAuth 2.0 saugiam autentifikavimui su Google ir Microsoft. El. pašto turinys ramybės būsenoje šifruojamas naudojant kliento lauko lygio šifravimą, o mes laikomės mažiausios prieigos prieAPIprivilegijos. Siekdami integruoti Google, atliekame Google metinį CASAsaugos įvertinimą."
       },
       {
         "question": "Kaip veikia el. pašto suvestinės funkcija?",
-        "answer": "Chiefy naudoja pažangius AI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
+        "answer": "Duet Mail naudoja pažangius AI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
       },
       {
-        "question": "Kokių leidimų reikia Chiefy?",
-        "answer": "Chiefy reikalinga prieiga prie jūsų el. laiškų, kad būtų galima teikti santraukas, išgauti veiksmų elementus, generuoti turinį ir siųsti el. laiškus. Mes tik prašome leidimų, kurių mums tikrai reikia. Šiuos leidimus galite bet kada peržiūrėti ir atšaukti savo Google paskyros arba Microsoft paskyros nustatymuose."
+        "question": "Kokių leidimų reikia Duet Mail?",
+        "answer": "Duet Mail reikalinga prieiga prie jūsų el. laiškų, kad būtų galima teikti santraukas, išgauti veiksmų elementus, generuoti turinį ir siųsti el. laiškus. Mes tik prašome leidimų, kurių mums tikrai reikia. Šiuos leidimus galite bet kada peržiūrėti ir atšaukti savo Google paskyros arba Microsoft paskyros nustatymuose."
       },
       {
         "question": "Kas įtraukta į nemokamą bandomąją versiją?",
         "answer": "14 dienų nemokama bandomoji versija apima visišką prieigą prie visų Pro funkcijų: neribotų el. laiškų santraukų, veiksmo elementų ištraukimo, AI el. laiškų rašymo programos (el. laiškų ir juodraščių generavimas be jokių apribojimų) ir tinkintų el. pašto šablonų. Prisijunkite naudodami Google arba Microsoft, kad sutaupytumėte laiko el. pašto tvarkymui."
       },
       {
-        "question": "Ar galiu naudoti Chiefy su kitais el. pašto paslaugų teikėjais?",
-        "answer": "Chiefy palaiko Gmail, Google Workspace ir Microsoft Outlook. Jei norite pradėti, prisijunkite naudodami savo Google arba Microsoft paskyrą."
+        "question": "Ar galiu naudoti Duet Mail su kitais el. pašto paslaugų teikėjais?",
+        "answer": "Duet Mail palaiko Gmail, Google Workspace ir Microsoft Outlook. Jei norite pradėti, prisijunkite naudodami savo Google arba Microsoft paskyrą."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Svetainės poraštė",
-    "brandIconAlt": "Chiefy piktogramą",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "Duet Mail piktogramą",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail —AI el. pašto asistentas, kuris kiekvieną savaitę taupo valandas",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Naršyti",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "Investicijų grąža",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "{pricePerBooking}už{bookingUnit}, prarandama tik{lostPerMonth}dėl lėtų atsakymų =",
     "lossSuffix": "/mo dingo",
     "dividerLabel": "prieš",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - AI el. pašto asistentas, skirtas Gmail ir Outlook",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI el. pašto asistentas, skirtas Gmail ir Outlook",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Pagalba klientams",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "AI el. pašto asistentas, skirtas Gmail ir Outlook, kuris automatiškai apibendrina el. laiškus, rengia atsakymų juodraščius jūsų balsu ir tvarko gautuosius, kad sutaupytumėte valandų kiekvieną savaitę.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Žiniatinklis",
     "browserRequirements": "Reikia JavaScript. Veikia su Gmail, Google Workspace ir Microsoft Outlook.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "https://duetmail.com/lt",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "Kaip Chiefy apsaugo mano el. pašto duomenis?",
+        "question": "Kaip Duet Mail apsaugo mano el. pašto duomenis?",
         "answer": "Jūsų saugumas yra mūsų prioritetas. Naudojame OAuth 2.0 saugiam autentifikavimui su Google ir Microsoft. El. pašto turinys ramybės būsenoje šifruojamas naudojant kliento lauko lygio šifravimą, o mes laikomės mažiausios prieigos prieAPIprivilegijos. Siekdami integruoti Google, atliekame Google metinį CASAsaugos įvertinimą."
       },
       {
         "question": "Kaip veikia el. pašto suvestinės funkcija?",
-        "answer": "Chiefy naudoja pažangius AI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
+        "answer": "Duet Mail naudoja pažangius AI, kad analizuotų jūsų el. pašto gijas ir sukurtų glaustą apžvalgą, pabrėždama pagrindinius dalykus, sprendimus ir veiksmus. Tai padeda greitai suprasti kontekstą neskaitant visos temos."
       },
       {
-        "question": "Kokių leidimų reikia Chiefy?",
-        "answer": "Chiefy reikalinga prieiga prie jūsų el. laiškų, kad būtų galima teikti santraukas, išgauti veiksmų elementus, generuoti turinį ir siųsti el. laiškus. Mes tik prašome leidimų, kurių mums tikrai reikia. Šiuos leidimus galite bet kada peržiūrėti ir atšaukti savo Google paskyros arba Microsoft paskyros nustatymuose."
+        "question": "Kokių leidimų reikia Duet Mail?",
+        "answer": "Duet Mail reikalinga prieiga prie jūsų el. laiškų, kad būtų galima teikti santraukas, išgauti veiksmų elementus, generuoti turinį ir siųsti el. laiškus. Mes tik prašome leidimų, kurių mums tikrai reikia. Šiuos leidimus galite bet kada peržiūrėti ir atšaukti savo Google paskyros arba Microsoft paskyros nustatymuose."
       },
       {
         "question": "Kas įtraukta į nemokamą bandomąją versiją?",
         "answer": "14 dienų nemokama bandomoji versija apima visišką prieigą prie visų Pro funkcijų: neribotų el. laiškų santraukų, veiksmo elementų ištraukimo, AI el. laiškų rašymo programos (el. laiškų ir juodraščių generavimas be jokių apribojimų) ir tinkintų el. pašto šablonų. Prisijunkite naudodami Google arba Microsoft, kad sutaupytumėte laiko el. pašto tvarkymui."
       },
       {
-        "question": "Ar galiu naudoti Chiefy su kitais el. pašto paslaugų teikėjais?",
-        "answer": "Chiefy palaiko Gmail, Google Workspace ir Microsoft Outlook. Jei norite pradėti, prisijunkite naudodami savo Google arba Microsoft paskyrą."
+        "question": "Ar galiu naudoti Duet Mail su kitais el. pašto paslaugų teikėjais?",
+        "answer": "Duet Mail palaiko Gmail, Google Workspace ir Microsoft Outlook. Jei norite pradėti, prisijunkite naudodami savo Google arba Microsoft paskyrą."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

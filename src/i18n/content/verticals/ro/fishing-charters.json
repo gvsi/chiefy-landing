@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy pentru charter de pescuit | Asistent de e-mail AI",
-  "metaDescription": "Chiefy îi ajută pe căpitanii de pescuit charter să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri elaborate de AI cu prețurile, politicile și vocea ta.",
+  "pageTitle": "Duet Mail pentru charter de pescuit | Asistent de e-mail AI",
+  "metaDescription": "Duet Mail îi ajută pe căpitanii de pescuit charter să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri elaborate de AI cu prețurile, politicile și vocea ta.",
   "heroBadge": "Au încredere de peste 500 de căpitani charter",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe apă",
-  "heroSubline": "Chiefy învață prețurile, politicile și vocea ta, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
+  "heroSubline": "Duet învață prețurile, politicile și vocea ta, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "O rezervare salvată plătește pentru un an de Chiefy."
+    "punchline": "O rezervare salvată plătește pentru un an de Duet."
   },
-  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările în al doilea rând și zgomotul niciodată. Nu mai ratați o întrebare de călătorie îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Chiefy învață prețurile, politicile și tonul tău. Când ajunge o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Ce zile sunt deschise săptămâna viitoare?” „Scrie un răspuns pentru Sarah cu disponibilitate.” Chiefy îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările în al doilea rând și zgomotul niciodată. Nu mai ratați o întrebare de călătorie îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet învață prețurile, politicile și tonul tău. Când ajunge o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Ce zile sunt deschise săptămâna viitoare?” „Scrie un răspuns pentru Sarah cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Căpitanul Mike D.",
       "title": "Căpitanul charter offshore, FL",
-      "quote": "În timpul sezonului de vârf aș pierde 2-3 rezervări pe săptămână doar pentru că nu puteam răspunde suficient de repede de pe barcă. Chiefy elaborează răspunsuri cu detaliile privind prețurile și călătoria mea — doar am apăsat pe trimitere între capturi.",
+      "quote": "În timpul sezonului de vârf aș pierde 2-3 rezervări pe săptămână doar pentru că nu puteam răspunde suficient de repede de pe barcă. Duet elaborează răspunsuri cu detaliile privind prețurile și călătoria mea — doar am apăsat pe trimitere între capturi.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah și Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "Conducem două bărci și volumul de e-mail pe timpul verii este nebunesc. Chiefy sortează solicitările de rezervare din orice altceva și redactează răspunsuri care sună exact ca noi. Schimbător absolut de joc.",
+      "quote": "Conducem două bărci și volumul de e-mail pe timpul verii este nebunesc. Duet sortează solicitările de rezervare din orice altceva și redactează răspunsuri care sună exact ca noi. Schimbător absolut de joc.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Ghid de pescuit de coastă, TX",
-      "quote": "Petreceam o oră în fiecare seară răspunzând la aceleași întrebări despre disponibilitate. Acum Chiefy se ocupă de asta. Timpul meu de răspuns a trecut de la ore la minute și nu am pierdut nicio rezervare de atunci.",
+      "quote": "Petreceam o oră în fiecare seară răspunzând la aceleași întrebări despre disponibilitate. Acum Duet se ocupă de asta. Timpul meu de răspuns a trecut de la ore la minute și nu am pierdut nicio rezervare de atunci.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Charter Office Manager, HI",
-      "quote": "Gestionarea e-mailurilor pentru 4 căpitani a fost o muncă cu normă întreagă. Chiefy clasifică totul și redactează răspunsuri cu barca potrivită, prețul potrivit, căpitanul potrivit. E ca și cum ai avea un alt eu.",
+      "quote": "Gestionarea e-mailurilor pentru 4 căpitani a fost o muncă cu normă întreagă. Duet clasifică totul și redactează răspunsuri cu barca potrivită, prețul potrivit, căpitanul potrivit. E ca și cum ai avea un alt eu.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Chiefy funcționează pentru e-mailurile de rezervare și disponibilitate?",
-      "answer": "Absolut. Chiefy află tipurile de călătorie, prețurile, disponibilitatea și politicile tale. Când vine o solicitare de rezervare, acesta redactează un răspuns complet cu detaliile potrivite - preț, ce este inclus, locația întâlnirii, ce să aduci. Verifici și apeși pe trimitere."
+      "question": "Duet funcționează pentru e-mailurile de rezervare și disponibilitate?",
+      "answer": "Absolut. Duet află tipurile de călătorie, prețurile, disponibilitatea și politicile tale. Când vine o solicitare de rezervare, acesta redactează un răspuns complet cu detaliile potrivite - preț, ce este inclus, locația întâlnirii, ce să aduci. Verifici și apeși pe trimitere."
     },
     {
-      "question": "Sunt pe apă toată ziua. Pot folosi Chiefy de pe telefonul meu?",
-      "answer": "Da. Chiefy funcționează cu Gmail și Outlook, așa că funcționează oriunde funcționează e-mailul tău, inclusiv telefonul. Schițele apar automat. Între capturi, revizuiești și trimiți cu o singură atingere. Majoritatea căpitanilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
+      "question": "Sunt pe apă toată ziua. Pot folosi Duet de pe telefonul meu?",
+      "answer": "Da. Duet funcționează cu Gmail și Outlook, așa că funcționează oriunde funcționează e-mailul tău, inclusiv telefonul. Schițele apar automat. Între capturi, revizuiești și trimiți cu o singură atingere. Majoritatea căpitanilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
     }
   ],
   "pricingNote": "La 500 USD/charter, o rezervare salvată plătește pentru peste un an de Pro."

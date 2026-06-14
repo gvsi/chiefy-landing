@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy para paseos a caballo y guías de senderos | Asistente de correo electrónico con IA",
-  "metaDescription": "Chiefy ayuda a los operadores de recorridos por senderos a responder los correos electrónicos de reserva al instante, incluso desde la silla de montar. Respuestas redactadas por IA con tus precios, requisitos de usuario y voz.",
+  "pageTitle": "Duet Mail para paseos a caballo y guías de senderos | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los operadores de recorridos por senderos a responder los correos electrónicos de reserva al instante, incluso desde la silla de montar. Respuestas redactadas por IA con tus precios, requisitos de usuario y voz.",
   "heroBadge": "Con la confianza de más de 300 guías de senderos",
   "heroHeadline": "Tu asistente de correo electrónico mientras estás en el camino",
-  "heroSubline": "Chiefy aprende los tipos de viajes, los precios, los requisitos de los pasajeros y las condiciones de los senderos y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva por responder tarde.",
+  "heroSubline": "Duet aprende los tipos de viajes, los precios, los requisitos de los pasajeros y las condiciones de los senderos y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva por responder tarde.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "montar",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Un viaje grupal guardado paga más de dos años de Chiefy."
+    "punchline": "Un viaje grupal guardado paga más de dos años de Duet."
   },
-  "categorizationSubtitle": "Chiefy etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas de los usuarios y nunca el ruido. No más perderse una consulta grupal enterrada bajo alertas TripAdvisor.",
-  "draftSubtitle": "Chiefy aprende los tipos de viajes, precios y requisitos. Cuando llega una consulta de reserva, redacta una respuesta completa con detalles del recorrido, precios y qué ponerse. Tú revisas y envías.",
-  "agentSubtitle": "\"¿Hay alguna atracción abierta este fin de semana?\" \"Redacta una respuesta a Jessica con disponibilidad para el sábado\". Chiefy conoce tu bandeja de entrada y tu calendario, solo pregúntale.",
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas de los usuarios y nunca el ruido. No más perderse una consulta grupal enterrada bajo alertas TripAdvisor.",
+  "draftSubtitle": "Duet aprende los tipos de viajes, precios y requisitos. Cuando llega una consulta de reserva, redacta una respuesta completa con detalles del recorrido, precios y qué ponerse. Tú revisas y envías.",
+  "agentSubtitle": "\"¿Hay alguna atracción abierta este fin de semana?\" \"Redacta una respuesta a Jessica con disponibilidad para el sábado\". Duet conoce tu bandeja de entrada y tu calendario, solo pregúntale.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Propietario de rancho y guía de senderos, MT",
-      "quote": "Estoy de viaje 6 horas al día sin servicio móvil. Cuando volví a responder, la mitad de las personas habían reservado en otro lugar. Ahora Chiefy redacta respuestas con mis precios y detalles del viaje; yo simplemente las reviso y las envío cuando vuelvo al granero.",
+      "quote": "Estoy de viaje 6 horas al día sin servicio móvil. Cuando volví a responder, la mitad de las personas habían reservado en otro lugar. Ahora Duet redacta respuestas con mis precios y detalles del viaje; yo simplemente las reviso y las envío cuando vuelvo al granero.",
       "avatarKey": "michael"
     },
     {
       "name": "María C.",
       "title": "Operador turístico a caballo, AZ",
-      "quote": "Recibimos docenas de correos electrónicos preguntando lo mismo: límites de peso, qué ponerse, requisitos de edad. Chiefy maneja todo y las respuestas suenan exactamente como yo. Mis invitados no tienen idea de que es IA.",
+      "quote": "Recibimos docenas de correos electrónicos preguntando lo mismo: límites de peso, qué ponerse, requisitos de edad. Duet maneja todo y las respuestas suenan exactamente como yo. Mis invitados no tienen idea de que es IA.",
       "avatarKey": "francesca"
     },
     {
       "name": "tyler s.",
       "title": "Guía de paseos por senderos, CO",
-      "quote": "La temporada alta me estaba matando. Más de 30 correos electrónicos al día además de las carreras. Chiefy separa las solicitudes de reserva del ruido y redacta respuestas que incluyen todo: precios, qué traer, el lote. Recuperé mis tardes.",
+      "quote": "La temporada alta me estaba matando. Más de 30 correos electrónicos al día además de las carreras. Duet separa las solicitudes de reserva del ruido y redacta respuestas que incluyen todo: precios, qué traer, el lote. Recuperé mis tardes.",
       "avatarKey": "johnny"
     },
     {
       "name": "raquel m.",
       "title": "Instructor de equitación y gerente de reservas, TX",
-      "quote": "Realizamos paseos al atardecer, paseos por la mañana y lecciones privadas, cada uno con diferentes precios y requisitos. Chiefy aprendió todo en una semana. Siempre redacta la respuesta correcta para el tipo de viaje correcto.",
+      "quote": "Realizamos paseos al atardecer, paseos por la mañana y lecciones privadas, cada uno con diferentes precios y requisitos. Duet aprendió todo en una semana. Siempre redacta la respuesta correcta para el tipo de viaje correcto.",
       "avatarKey": "jennifer"
     },
     {
       "name": "diane k.",
       "title": "Paseos familiares en ranchos y senderos, CA",
-      "quote": "Los correos electrónicos confidenciales fueron los peores: alguien preguntando si pesan demasiado o si su hijo tiene edad suficiente. Chiefy los maneja con el mismo cuidado que yo. Profesional, amable y preciso. Solo eso vale la pena.",
+      "quote": "Los correos electrónicos confidenciales fueron los peores: alguien preguntando si pesan demasiado o si su hijo tiene edad suficiente. Duet los maneja con el mismo cuidado que yo. Profesional, amable y preciso. Solo eso vale la pena.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "¿Cómo maneja Chiefy preguntas delicadas sobre requisitos de peso o experiencia?",
-      "answer": "Chiefy aprende tus políticas específicas y refleja tu tono. Cuando alguien pregunta sobre los límites de peso o los requisitos de experiencia, responde de manera profesional y cálida, compartiendo la información que necesita sin que resulte incómodo. Tú defines el tono una vez y Chiefy lo sigue constantemente, para que todos los invitados se sientan respetados."
+      "question": "¿Cómo maneja Duet preguntas delicadas sobre requisitos de peso o experiencia?",
+      "answer": "Duet aprende tus políticas específicas y refleja tu tono. Cuando alguien pregunta sobre los límites de peso o los requisitos de experiencia, responde de manera profesional y cálida, compartiendo la información que necesita sin que resulte incómodo. Tú defines el tono una vez y Duet lo sigue constantemente, para que todos los invitados se sientan respetados."
     },
     {
-      "question": "¿Puede Chiefy gestionar reservas de grupos con diferentes necesidades de pasajeros?",
-      "answer": "Sí. Chiefy aprende los tipos de viajes, el tamaño de los grupos, la edad mínima y los requisitos específicos del usuario. Cuando una familia o grupo envía un correo electrónico sobre la reserva, redacta una respuesta que cubre los precios para todo el grupo, lo que cada pasajero necesita saber y los horarios disponibles. Tú revisas y envías, sin necesidad de ir y venir."
+      "question": "¿Puede Duet gestionar reservas de grupos con diferentes necesidades de pasajeros?",
+      "answer": "Sí. Duet aprende los tipos de viajes, el tamaño de los grupos, la edad mínima y los requisitos específicos del usuario. Cuando una familia o grupo envía un correo electrónico sobre la reserva, redacta una respuesta que cubre los precios para todo el grupo, lo que cada pasajero necesita saber y los horarios disponibles. Tú revisas y envías, sin necesidad de ir y venir."
     }
   ],
   "pricingNote": "A $100 por persona para un grupo de 6 personas, un viaje ahorrado paga más de dos años de Pro."

@@ -2,7 +2,7 @@
 title: "Te îneci în mesaje? Strategii de specialitate pentru gestionarea căsuței poștale Gmail"
 description: "Opriți supraîncărcarea cu e-mailuri! Învățați strategii de specialitate pentru gestionarea inboxului Gmail, de la tactici clasice la instrumente de inteligență artificială, și recâștigați-vă productivitatea."
 publishedAt: 2025-07-04
-author: "Echipa Chiefy"
+author: "Echipa Duet Mail"
 tags: ["IA", "Gmail", "Gestionarea căsuței poștale", "E-mail"]
 draft: false
 ---
@@ -158,7 +158,7 @@ Asistenții de e-mail bazați pe inteligență artificială depășesc simpla au
 
 **Avantajul:** În loc să fii nevoit să cauți prin teanc, inteligența artificială afișează automat e-mailurile care necesită acțiune imediată. Acest lucru reduce drastic timpul de sortare, asigură că elementele critice nu sunt omise, reduce stresul supraîncărcării inbox-ului și te eliberează pentru a-ți concentra energia pe munca importantă, mai degrabă decât pe administrarea inbox-ului.
 
-**Link Chiefy (Contextual):** _Această sortare inteligentă este exact ceea ce au nevoie profesioniștii ocupați. Aici excelează instrumente precum _[_Chiefy_](/ro)_, folosind **Triajul prin inteligență artificială** pentru a analiza urgența, acțiunile necesare și deciziile, prezentându-le clar într-un **Tablou de bord concentrat**, astfel încât să știi imediat ce necesită atenție._
+**Link Duet Mail (Contextual):** _Această sortare inteligentă este exact ceea ce au nevoie profesioniștii ocupați. Aici excelează instrumente precum _[_Duet Mail_](/ro)_, folosind **Triajul prin inteligență artificială** pentru a analiza urgența, acțiunile necesare și deciziile, prezentându-le clar într-un **Tablou de bord concentrat**, astfel încât să știi imediat ce necesită atenție._
 
 ### Rezumat inteligent: Înțelegerea instantanee a firelor lungi de execuție și a atașamentelor
 
@@ -218,4 +218,4 @@ Tehnologia, în special creșterea asistenților inteligenți de e-mail bazați 
 
 Stăpânirea Gmail nu înseamnă doar obținerea unui spațiu digital ordonat. Este vorba despre reducerea semnificativă a stresului la locul de muncă, recuperarea unor ore valoroase de timp în fiecare săptămână, protejarea capacității de a vă concentra asupra unei munci profunde și semnificative și, în cele din urmă, creșterea eficienței și bunăstării generale. Prin combinarea atentă a obiceiurilor disciplinate cu utilizarea strategică a instrumentelor inteligente, vă puteți transforma inbox-ul dintr-o sursă de teamă într-un centru de comunicare ușor de gestionat.
 
-Ești gata să experimentezi cum inteligența artificială îți poate transforma relația cu e-mailul? Fă primul pas către o zi de lucru mai calmă și mai productivă. Explorează cum [Chiefy](/ro) folosește triajul inteligenței artificiale, sumarizarea inteligentă și redactarea autentică pentru a ajuta profesioniștii ocupați ca tine să își cucerească inboxul.
+Ești gata să experimentezi cum inteligența artificială îți poate transforma relația cu e-mailul? Fă primul pas către o zi de lucru mai calmă și mai productivă. Explorează cum [Duet Mail](/ro) folosește triajul inteligenței artificiale, sumarizarea inteligentă și redactarea autentică pentru a ajuta profesioniștii ocupați ca tine să își cucerească inboxul.

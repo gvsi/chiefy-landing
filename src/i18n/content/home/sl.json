@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy | AI E-poštni pomočnik za Gmail in Outlook",
-    "description": "E-poštni pomočnik Chiefy z umetno inteligenco povzema e-poštna sporočila, osnutke odgovorov in organizira vašo mapo »Prejeto«. Deluje z Gmail in Outlook. Prihranite 4+ ure tedensko."
+    "title": "Duet Mail | AI E-poštni pomočnik za Gmail in Outlook",
+    "description": "E-poštni pomočnik Duet Mail z umetno inteligenco povzema e-poštna sporočila, osnutke odgovorov in organizira vašo mapo »Prejeto«. Deluje z Gmail in Outlook. Prihranite 4+ ure tedensko."
   },
   "hero": {
     "badge": "Zdaj na voljo za Gmail in Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "osnutki",
         "title": "Pošljite osnutke, ki zvenijo kot vi",
-        "description": "Chiefy AI pisec e-pošte pripravi osnutke za vaša najpomembnejša e-poštna sporočila. Nauči se vašega tona in stilov pisanja.",
+        "description": "Duet AI pisec e-pošte pripravi osnutke za vaša najpomembnejša e-poštna sporočila. Nauči se vašega tona in stilov pisanja.",
         "ariaLabel": "Pošljite osnutke, ki zvenijo kot vi",
         "mockCopy": {
           "draftedColdEmail": "Napisal sem hladno e-pošto, prilagojeno Johnu",
@@ -115,7 +115,7 @@
       {
         "id": "opomniki",
         "title": "Inteligentni opomniki",
-        "description": "Nastavite in pozabite. Chiefy AI se spomni, da sledi, ko se drugi ne odzovejo, tako da nič ne pade skozi razpoke.",
+        "description": "Nastavite in pozabite. Duet AI se spomni, da sledi, ko se drugi ne odzovejo, tako da nič ne pade skozi razpoke.",
         "ariaLabel": "Inteligentni opomniki",
         "mockCopy": {
           "header": "Pametni opomniki, ki jih poganja AI",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Organizacija e-pošte in pametna kategorizacija prejetih sporočil",
     "badge": "Organizacija",
-    "title": "Chiefy organizira vašo mapo »Prejeto«.",
+    "title": "Duet organizira vašo mapo »Prejeto«.",
     "subtitle": "Samodejna kategorizacija filtrira hrup in površine, ki so pomembne. Takoj si oglejte, kaj potrebuje ukrepanje, kaj je samo v vaši bližini in kaj lahko počaka.",
     "windowTitle": "Prejeto",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI pisanje e-pošte in generiranje odgovorov",
     "badge": "Osnutek",
-    "title": "Chiefy osnutki v tvojem glasu",
-    "subtitle": "Chiefy se nauči, kako pišete, in pripravi odgovore, ki ustrezajo vašemu tonu. Preglejte, po potrebi prilagodite in pošljite v nekaj sekundah.",
+    "title": "Duet osnutki v tvojem glasu",
+    "subtitle": "Duet se nauči, kako pišete, in pripravi odgovore, ki ustrezajo vašemu tonu. Preglejte, po potrebi prilagodite in pošljite v nekaj sekundah.",
     "windowTitle": "Novo sporočilo",
     "fieldLabels": {
       "to": "Za:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI e-poštna inteligenca in pomočnik",
     "badge": "Inteligenca",
     "title": "Vprašajte kar koli o svoji e-pošti",
-    "subtitle": "Prosite Chiefy, da poišče e-pošto, preveri vaš koledar ali pripravi odgovor. Razume vašo mapo »Prejeto« in takoj odgovori.",
-    "windowTitle": "Chiefy Agent",
+    "subtitle": "Prosite Duet, da poišče e-pošto, preveri vaš koledar ali pripravi odgovor. Razume vašo mapo »Prejeto« in takoj odgovori.",
+    "windowTitle": "Duet Agent",
     "onlineLabel": "Na spletu",
     "initialUserMessage": "Ali najdete Stripe račun, ki ga je poslalo računovodstvo?",
     "processingText": "Iskanje mape »Prejeto« ...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "svobodnjak",
-        "quote": "Vredno vsakega penija. Čas, ki ga prihranim pri e-pošti, se za Chiefy izplača 10-krat več. Zdaj si ne morem predstavljati dela brez tega.",
+        "quote": "Vredno vsakega penija. Čas, ki ga prihranim pri e-pošti, se za Duet Mail izplača 10-krat več. Zdaj si ne morem predstavljati dela brez tega.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Svetovalec",
-        "quote": "Kot svetovalec šteje vsaka minuta. Chiefy mi ne prihrani le časa, temveč naredi mojo e-poštno komunikacijo ostrejšo.",
+        "quote": "Kot svetovalec šteje vsaka minuta. Duet Mail mi ne prihrani le časa, temveč naredi mojo e-poštno komunikacijo ostrejšo.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Osnovna organizacija za začetek"
           },
           {
-            "title": "Chiefy Pomočnik",
+            "title": "Duet Pomočnik",
             "description": "Preizkusite pomočnika AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Pomočnik",
+            "title": "Duet Pomočnik",
             "description": "Klepetajte za iskanje, osnutke, organiziranje in drugo",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "KONTAKT",
     "contactHeading": "Imate še vprašanja?",
     "contactCta": "Stopite v stik →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "pogosta vprašanja",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Kako Chiefy ščiti moje e-poštne podatke?",
+        "question": "Kako Duet Mail ščiti moje e-poštne podatke?",
         "answer": "Vaša varnost je naša glavna prioriteta. OAuth 2.0 uporabljamo za varno avtentikacijo z Google in Microsoft. E-poštna vsebina je v mirovanju šifrirana s šifriranjem na ravni polja na strani odjemalca in upoštevamo načelo najmanjših privilegijev za dostop API. Za našo integracijo Google opravimo letno varnostno oceno CASA Google."
       },
       {
         "question": "Kako deluje funkcija e-poštnega povzetka?",
-        "answer": "Chiefy uporablja napredno umetno inteligenco za analizo vaših e-poštnih niti in ustvarjanje jedrnatega pregleda, ki poudarja ključne točke, odločitve in elemente dejanj. To vam pomaga hitro razumeti kontekst, ne da bi prebrali celotno nit."
+        "answer": "Duet Mail uporablja napredno umetno inteligenco za analizo vaših e-poštnih niti in ustvarjanje jedrnatega pregleda, ki poudarja ključne točke, odločitve in elemente dejanj. To vam pomaga hitro razumeti kontekst, ne da bi prebrali celotno nit."
       },
       {
-        "question": "Kakšna dovoljenja potrebuje Chiefy?",
-        "answer": "Chiefy zahteva dostop do vaših e-poštnih sporočil za zagotavljanje povzetkov, pridobivanje elementov dejanj, ustvarjanje vsebine in pošiljanje vaših e-poštnih sporočil. Zahtevamo samo dovoljenja, ki jih nujno potrebujemo. Ta dovoljenja lahko kadar koli pregledate in prekličete v nastavitvah računa Google ali Microsoft."
+        "question": "Kakšna dovoljenja potrebuje Duet Mail?",
+        "answer": "Duet Mail zahteva dostop do vaših e-poštnih sporočil za zagotavljanje povzetkov, pridobivanje elementov dejanj, ustvarjanje vsebine in pošiljanje vaših e-poštnih sporočil. Zahtevamo samo dovoljenja, ki jih nujno potrebujemo. Ta dovoljenja lahko kadar koli pregledate in prekličete v nastavitvah računa Google ali Microsoft."
       },
       {
         "question": "Kaj je vključeno v brezplačno preskusno obdobje?",
         "answer": "14-dnevna brezplačna preskusna različica vključuje popoln dostop do vseh funkcij Pro: neomejenih e-poštnih povzetkov, ekstrakcije elementov dejanja, pisatelja e-pošte z umetno inteligenco (ustvarjanje e-poštnih sporočil in osnutkov brez kakršnih koli omejitev) in predloge e-pošte po meri. Prijavite se z Google ali Microsoft, da začnete prihraniti čas pri upravljanju e-pošte."
       },
       {
-        "question": "Ali lahko uporabljam Chiefy z drugimi ponudniki e-pošte?",
-        "answer": "Chiefy podpira Gmail, Google Workspace in Microsoft Outlook. Za začetek se prijavite s svojim računom Google ali Microsoft."
+        "question": "Ali lahko uporabljam Duet Mail z drugimi ponudniki e-pošte?",
+        "answer": "Duet Mail podpira Gmail, Google Workspace in Microsoft Outlook. Za začetek se prijavite s svojim računom Google ali Microsoft."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Noga spletnega mesta",
-    "brandIconAlt": "Chiefy ikona",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "Duet Mail ikona",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — E-poštni pomočnik z umetno inteligenco, ki vam vsak teden prihrani ure",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Raziščite",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "Donosnost naložbe",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "Pri {pricePerBooking} na {bookingUnit}, izguba samo {lostPerMonth} zaradi počasnih odgovorov =",
     "lossSuffix": "/mo ni več",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "30 USD/mesec"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - AI e-poštni pomočnik za Gmail in Outlook",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI e-poštni pomočnik za Gmail in Outlook",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Podpora uporabnikom",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "E-poštni pomočnik z umetno inteligenco za Gmail in Outlook, ki samodejno povzema e-poštna sporočila, pripravlja osnutke odgovorov z vašim glasom in organizira vašo mapo »Prejeto«, da prihranite ure vsak teden.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Splet",
     "browserRequirements": "Potreben je JavaScript. Deluje z Gmail, Google Workspace in Microsoft Outlook.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "/sl/",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "Kako Chiefy ščiti moje e-poštne podatke?",
+        "question": "Kako Duet Mail ščiti moje e-poštne podatke?",
         "answer": "Vaša varnost je naša glavna prioriteta. OAuth 2.0 uporabljamo za varno avtentikacijo z Google in Microsoft. E-poštna vsebina je v mirovanju šifrirana s šifriranjem na ravni polja na strani odjemalca in upoštevamo načelo najmanjših privilegijev za dostop API. Za našo integracijo Google opravimo letno varnostno oceno CASA Google."
       },
       {
         "question": "Kako deluje funkcija e-poštnega povzetka?",
-        "answer": "Chiefy uporablja napredno umetno inteligenco za analizo vaših e-poštnih niti in ustvarjanje jedrnatega pregleda, ki poudarja ključne točke, odločitve in elemente dejanj. To vam pomaga hitro razumeti kontekst, ne da bi prebrali celotno nit."
+        "answer": "Duet Mail uporablja napredno umetno inteligenco za analizo vaših e-poštnih niti in ustvarjanje jedrnatega pregleda, ki poudarja ključne točke, odločitve in elemente dejanj. To vam pomaga hitro razumeti kontekst, ne da bi prebrali celotno nit."
       },
       {
-        "question": "Kakšna dovoljenja potrebuje Chiefy?",
-        "answer": "Chiefy zahteva dostop do vaših e-poštnih sporočil za zagotavljanje povzetkov, pridobivanje elementov dejanj, ustvarjanje vsebine in pošiljanje vaših e-poštnih sporočil. Zahtevamo samo dovoljenja, ki jih nujno potrebujemo. Ta dovoljenja lahko kadar koli pregledate in prekličete v nastavitvah računa Google ali Microsoft."
+        "question": "Kakšna dovoljenja potrebuje Duet Mail?",
+        "answer": "Duet Mail zahteva dostop do vaših e-poštnih sporočil za zagotavljanje povzetkov, pridobivanje elementov dejanj, ustvarjanje vsebine in pošiljanje vaših e-poštnih sporočil. Zahtevamo samo dovoljenja, ki jih nujno potrebujemo. Ta dovoljenja lahko kadar koli pregledate in prekličete v nastavitvah računa Google ali Microsoft."
       },
       {
         "question": "Kaj je vključeno v brezplačno preskusno obdobje?",
         "answer": "14-dnevna brezplačna preskusna različica vključuje popoln dostop do vseh funkcij Pro: neomejenih e-poštnih povzetkov, ekstrakcije elementov dejanja, pisatelja e-pošte z umetno inteligenco (ustvarjanje e-poštnih sporočil in osnutkov brez kakršnih koli omejitev) in predloge e-pošte po meri. Prijavite se z Google ali Microsoft, da začnete prihraniti čas pri upravljanju e-pošte."
       },
       {
-        "question": "Ali lahko uporabljam Chiefy z drugimi ponudniki e-pošte?",
-        "answer": "Chiefy podpira Gmail, Google Workspace in Microsoft Outlook. Za začetek se prijavite s svojim računom Google ali Microsoft."
+        "question": "Ali lahko uporabljam Duet Mail z drugimi ponudniki e-pošte?",
+        "answer": "Duet Mail podpira Gmail, Google Workspace in Microsoft Outlook. Za začetek se prijavite s svojim računom Google ali Microsoft."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

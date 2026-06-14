@@ -2,7 +2,7 @@
 title: "Tenggelam dalam Mesej? Strategi Pakar untuk Mengurus Peti Masuk Gmail Anda"
 description: "Hentikan beban e-mel! Pelajari strategi pakar untuk mengurus peti masuk Gmail anda, daripada taktik klasik hingga alat AI, dan pulihkan produktiviti anda."
 publishedAt: 2025-07-04
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Inbox Management", "Email"]
 draft: false
 ---
@@ -157,7 +157,7 @@ Pembantu e-mel AI melangkaui automasi ringkas; mereka menawarkan keupayaan pinta
 
 **Faedah:** Daripada anda menggali timbunan mesej, AI secara automatik menyerlahkan e-mel yang memerlukan tindakan segera. Ini secara drastik mengurangkan masa penyusunan, memastikan item kritikal tidak terlepas, mengurangkan tekanan akibat beban peti masuk, dan membebaskan anda untuk menumpukan tenaga pada kerja yang memberi impak, bukannya pentadbiran peti masuk.
 
-**Pautan Chiefy (Kontekstual):** _Penyusunan pintar inilah yang diperlukan oleh profesional sibuk. Di sinilah alat seperti _[_Chiefy_](https://chiefy.com/ms)_ cemerlang, menggunakan **AI Triage** untuk menganalisis urgensi, tindakan yang diperlukan, dan keputusan, membentangkannya dengan jelas dalam **Focused Dashboard** supaya anda segera tahu apa yang memerlukan perhatian._
+**Pautan Duet Mail (Kontekstual):** _Penyusunan pintar inilah yang diperlukan oleh profesional sibuk. Di sinilah alat seperti _[_Duet Mail_](https://duetmail.com/ms)_ cemerlang, menggunakan **AI Triage** untuk menganalisis urgensi, tindakan yang diperlukan, dan keputusan, membentangkannya dengan jelas dalam **Focused Dashboard** supaya anda segera tahu apa yang memerlukan perhatian._
 
 ### Ringkasan Pintar: Memahami Urutan Panjang dan Lampiran dengan Segera
 
@@ -217,4 +217,4 @@ Teknologi, khususnya kebangkitan pembantu e-mel AI yang pintar, menawarkan senja
 
 Menguasai Gmail anda bukan sekadar tentang mencapai ruang digital yang kemas. Ia tentang mengurangkan tekanan di tempat kerja dengan ketara, mendapatkan semula jam-jam masa berharga setiap minggu, melindungi keupayaan anda untuk menumpukan pada kerja mendalam yang bermakna, dan akhirnya meningkatkan keberkesanan serta kesejahteraan keseluruhan anda. Dengan menggabungkan tabiat yang berdisiplin dengan penggunaan strategik alat pintar secara teliti, anda boleh mengubah peti masuk anda daripada sumber kebimbangan menjadi hab komunikasi yang boleh diurus.
 
-Bersedia untuk merasai bagaimana AI boleh mengubah hubungan anda dengan e-mel? Ambil langkah pertama ke arah hari kerja yang lebih tenang dan lebih produktif. Terokai bagaimana [Chiefy](https://chiefy.com/ms) menggunakan AI triage, ringkasan pintar, dan draf autentik untuk membantu profesional sibuk seperti anda menakluki peti masuk mereka.
+Bersedia untuk merasai bagaimana AI boleh mengubah hubungan anda dengan e-mel? Ambil langkah pertama ke arah hari kerja yang lebih tenang dan lebih produktif. Terokai bagaimana [Duet Mail](https://duetmail.com/ms) menggunakan AI triage, ringkasan pintar, dan draf autentik untuk membantu profesional sibuk seperti anda menakluki peti masuk mereka.

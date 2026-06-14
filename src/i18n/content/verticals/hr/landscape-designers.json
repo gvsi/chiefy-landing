@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy za dizajnere krajobraza | AI pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže dizajnerima pejzaža da odmah odgovore na e-poštu klijenata — čak i s terena. Odgovori izrađeni AI s detaljima vašeg projekta, cijenama i glasom.",
+  "pageTitle": "Duet Mail za dizajnere krajobraza | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže dizajnerima pejzaža da odmah odgovore na e-poštu klijenata — čak i s terena. Odgovori izrađeni AI s detaljima vašeg projekta, cijenama i glasom.",
   "heroBadge": "Vjeruje mu više od 300 krajobraznih dizajnera",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na terenu",
-  "heroSubline": "Chiefy uči detalje vašeg projekta, palete biljaka, cijene i proces — zatim sastavlja skice odgovora e-poštom tako da nikad ne izgubite klijenta zbog sporog odgovora.",
+  "heroSubline": "Duet uči detalje vašeg projekta, palete biljaka, cijene i proces — zatim sastavlja skice odgovora e-poštom tako da nikad ne izgubite klijenta zbog sporog odgovora.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Jedan spremljeni projekt plaća godine Chiefy-a."
+    "punchline": "Jedan spremljeni projekt plaća godine Duet-a."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite nove zahtjeve za konzultacije, potom odobrenja klijenata, a nikad buku dobavljača. Nema više propuštanja kontakta zakopanog ispod potvrda narudžbi za vrtić.",
-  "draftSubtitle": "Chiefy uči vaše cijene, postupak i ton. Kada stigne zahtjev za konzultaciju, sastavlja potpuni odgovor s vašom dostupnošću, što možete očekivati ​​i sljedećim koracima. Vi pregledate i pošaljete.",
-  "agentSubtitle": "\"Koji je vremenski okvir Hendersonovog projekta?\" \"Koji klijenti čekaju na odobrenje plana?\" Chiefy zna vašu pristiglu poštu i projekte - samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite nove zahtjeve za konzultacije, potom odobrenja klijenata, a nikad buku dobavljača. Nema više propuštanja kontakta zakopanog ispod potvrda narudžbi za vrtić.",
+  "draftSubtitle": "Duet uči vaše cijene, postupak i ton. Kada stigne zahtjev za konzultaciju, sastavlja potpuni odgovor s vašom dostupnošću, što možete očekivati ​​i sljedećim koracima. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Koji je vremenski okvir Hendersonovog projekta?\" \"Koji klijenti čekaju na odobrenje plana?\" Duet zna vašu pristiglu poštu i projekte - samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Krajobrazni arhitekt, Austin TX",
-      "quote": "Tijekom proljeća sam na licu mjesta 8 sati dnevno radeći procjene i nadzor montaže. Novi zahtjevi za konzultacije čekali bi danima. Sada Chiefy odgovara s mojim procesom i dostupnošću u roku od nekoliko minuta. Rezervirao sam 3 projekta koje bih sigurno izgubio.",
+      "quote": "Tijekom proljeća sam na licu mjesta 8 sati dnevno radeći procjene i nadzor montaže. Novi zahtjevi za konzultacije čekali bi danima. Sada Duet odgovara s mojim procesom i dostupnošću u roku od nekoliko minuta. Rezervirao sam 3 projekta koje bih sigurno izgubio.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Dizajner vrtova, Portland OR",
-      "quote": "Koordinacija između ekipa za uređenje okoliša, instalatera za navodnjavanje i klijenata stvara apsurdnu količinu e-pošte. Chiefy sve sortira i sastavlja odgovore koji uključuju prave detalje projekta. To je kao da imate voditelja studija.",
+      "quote": "Koordinacija između ekipa za uređenje okoliša, instalatera za navodnjavanje i klijenata stvara apsurdnu količinu e-pošte. Duet sve sortira i sastavlja odgovore koji uključuju prave detalje projekta. To je kao da imate voditelja studija.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Vlasnik studija za krajobrazni dizajn, Denver CO",
-      "quote": "Svaku večer nakon terenske nastave provodio sam nadoknađujući e-poštu. Ista pitanja — cijene, proces, vremenski okvir. Chiefy rješava sve to. Moje vrijeme odgovora pošlo je s dana na minute, a stopa zatvaranja mi je daleko veća.",
+      "quote": "Svaku večer nakon terenske nastave provodio sam nadoknađujući e-poštu. Ista pitanja — cijene, proces, vremenski okvir. Duet rješava sve to. Moje vrijeme odgovora pošlo je s dana na minute, a stopa zatvaranja mi je daleko veća.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Dizajner rezidencijalnog krajolika, Scottsdale AZ",
-      "quote": "Moji klijenti postavljaju puno pitanja o odabiru i održavanju biljaka. Chiefy je naučio moje palete biljaka i upute za njegu te nacrte odgovora koje jedva da moram uređivati. Klijenti misle da sam nevjerojatno osjetljiv.",
+      "quote": "Moji klijenti postavljaju puno pitanja o odabiru i održavanju biljaka. Duet je naučio moje palete biljaka i upute za njegu te nacrte odgovora koje jedva da moram uređivati. Klijenti misle da sam nevjerojatno osjetljiv.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Dizajner krajolika domaćih biljaka, Raleigh NC",
-      "quote": "Gubio sam nove klijente jer nisam mogao odgovoriti dok sam bio do koljena u instalaciji sadnje. Chiefy sastavlja odgovore na konzultacije s mojim točnim procesom, cijenama i onim što mogu očekivati. Isplatio se prvi tjedan.",
+      "quote": "Gubio sam nove klijente jer nisam mogao odgovoriti dok sam bio do koljena u instalaciji sadnje. Duet sastavlja odgovore na konzultacije s mojim točnim procesom, cijenama i onim što mogu očekivati. Isplatio se prvi tjedan.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Može li Chiefy podnijeti proljetnu gužvu kada se zahtjevi za savjetovanjem gomilaju?",
-      "answer": "Upravo tada Chiefy blista. Tijekom sezone s najvećim prometom, svaki novi upit dobiva brz, detaljan odgovor s vašim procesom, vremenskim okvirom i dostupnošću — čak i dok ste cijeli dan na licu mjesta. Nema više gubljenja proljetnih potencijalnih klijenata jer im se niste mogli javiti do 21 sat."
+      "question": "Može li Duet podnijeti proljetnu gužvu kada se zahtjevi za savjetovanjem gomilaju?",
+      "answer": "Upravo tada Duet blista. Tijekom sezone s najvećim prometom, svaki novi upit dobiva brz, detaljan odgovor s vašim procesom, vremenskim okvirom i dostupnošću — čak i dok ste cijeli dan na licu mjesta. Nema više gubljenja proljetnih potencijalnih klijenata jer im se niste mogli javiti do 21 sat."
     },
     {
-      "question": "Koordiniram s više ekipa na otvorenom. Pomaže li Chiefy u tome?",
-      "answer": "Da. Chiefy uči vaše projekte i izvođače koji su uključeni — okoliš, navodnjavanje, posade za sadnju, rasadnici. Kategorizira e-poštu izvođača zasebno od e-pošte klijenata i može sastavljati odgovore s detaljima specifičnim za projekt kao što su specifikacije, rokovi i materijali. Ostajete u tijeku sa svakom ekipom bez kaosa u pristigloj pošti."
+      "question": "Koordiniram s više ekipa na otvorenom. Pomaže li Duet u tome?",
+      "answer": "Da. Duet uči vaše projekte i izvođače koji su uključeni — okoliš, navodnjavanje, posade za sadnju, rasadnici. Kategorizira e-poštu izvođača zasebno od e-pošte klijenata i može sastavljati odgovore s detaljima specifičnim za projekt kao što su specifikacije, rokovi i materijali. Ostajete u tijeku sa svakom ekipom bez kaosa u pristigloj pošti."
     }
   ],
   "pricingNote": "Uz 8000 USD po projektu, jedan spremljeni klijent plaća godine Pro."

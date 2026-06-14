@@ -2,7 +2,7 @@
 title: "Išsamus HTML el. laiškų poraščių gidas: atitiktis, dizainas ir pavyzdžiai"
 description: "Įvaldykite HTML el. laiškų poraštes: būtini elementai, dizaino patarimai, teisinė atitiktis (CAN-SPAM, GDPR, CASL) ir prekių ženklo pavyzdžiai."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["DI", "El. paštas"]
 draft: false
 ---
@@ -120,4 +120,4 @@ Jūsų HTML el. laiško poraštė gali būti paskutinis dalykas, kurį mato gav�
 
 Ji kuria pasitikėjimą, stiprina prekių ženklą, padeda laikytis reikalavimų ir suteikia auditorijai naudingą navigaciją. Skirkite kelias minutes peržiūrėti dabartinę el. laiškų poraštę. Ar ji atitinka reikalavimus? Ar ji aiški? Ar patogi mobiliajame? Šie nedideli patobulinimai gali reikšmingai paveikti tai, kaip suvokiami jūsų el. laiškai ir jūsų prekių ženklas.
 
-Ieškote būdų, kaip padaryti bendrą el. pašto valdymą efektyvesnį ir profesionalesnį? Apsvarstykite įrankius, sukurtus užimtiems specialistams. Pavyzdžiui, sužinoję, kaip [Chiefy supaprastina el. pašto produktyvumą](https://chiefy.com/lt) naudodamas DI funkcijas, galite atlaisvinti daugiau laiko tokioms detalėms kaip poraštė tobulinti ir užtikrinti, kad kiekviena komunikacija jus reprezentuotų tinkamai.
+Ieškote būdų, kaip padaryti bendrą el. pašto valdymą efektyvesnį ir profesionalesnį? Apsvarstykite įrankius, sukurtus užimtiems specialistams. Pavyzdžiui, sužinoję, kaip [Duet Mail supaprastina el. pašto produktyvumą](https://duetmail.com/lt) naudodamas DI funkcijas, galite atlaisvinti daugiau laiko tokioms detalėms kaip poraštė tobulinti ir užtikrinti, kad kiekviena komunikacija jus reprezentuotų tinkamai.

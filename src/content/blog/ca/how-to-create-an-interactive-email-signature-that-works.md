@@ -2,7 +2,7 @@
 title: "Com crear una signatura de correu electrònic interactiva que funcioni"
 description: "Apreneu a crear una signatura de correu electrònic interactiva per augmentar el compromís, la marca i els clients potencials. Guia pas a pas per a autònoms i startups"
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI","Correu electrònic"]
 draft: false
 ---
@@ -187,7 +187,7 @@ Una signatura interactiva està dissenyada per provocar acció: un clic, una tru
 
 Aquí és on integrar la vostra estratègia de signatura amb eines intel·ligents de gestió de correu electrònic pot marcar la diferència. Quan els clients potencials comencen a fer clic a l'enllaç "Reserva una reunió" generat per la teva signatura fantàstica, necessites un sistema per gestionar la programació i la comunicació posteriors sense problemes. De la mateixa manera, mantenir el to professional marcat per la vostra signatura a cada correu electrònic de seguiment és clau per establir relacions.
 
-Les eines dissenyades per a la productivitat del correu electrònic, com ara [Chiefy](https://chiefy.com/), poden ajudar a superar aquesta bretxa. Imagineu-vos rebre ajuda de AI per redactar respostes personalitzades i sol·licitades que mantinguin la vostra veu única després que algú interaccioni amb la CTA de la vostra signatura. Les funcions de Chiefy com **AI Triage** poden ajudar a emergir respostes importants generades a partir de les interaccions de signatura, mentre que el seu **Authentic AI Drafting** garanteix que els vostres seguiments sonin igual que vosaltres, preservant la professionalitat dels vostres projectes de signatura. Converteix el compromís generat per la teva signatura en converses productives i ben gestionades.
+Les eines dissenyades per a la productivitat del correu electrònic, com ara [Duet Mail](https://duetmail.com/), poden ajudar a superar aquesta bretxa. Imagineu-vos rebre ajuda de AI per redactar respostes personalitzades i sol·licitades que mantinguin la vostra veu única després que algú interaccioni amb la CTA de la vostra signatura. Les funcions de Duet Mail com **AI Triage** poden ajudar a emergir respostes importants generades a partir de les interaccions de signatura, mentre que el seu **Authentic AI Drafting** garanteix que els vostres seguiments sonin igual que vosaltres, preservant la professionalitat dels vostres projectes de signatura. Converteix el compromís generat per la teva signatura en converses productives i ben gestionades.
 
 
 ## Preparat per activar la teva signatura?

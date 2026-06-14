@@ -2,7 +2,7 @@
 title: "Ovládněte svou doručenou poštu pomocí těchto základních organizačních nástrojů a strategií Gmail"
 description: "Seznamte se se základními organizačními nástroji Gmail, strategiemi jako Inbox Zero & GTD a s tím, jak vám asistenti AI mohou pomoci ovládnout vaši doručenou poštu a zvýšit produktivitu."
 publishedAt: 2025-09-01
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Správa doručené pošty", "Nástroje"]
 draft: false
 ---
@@ -209,7 +209,7 @@ Představte si schránku, která automaticky ví, co je naléhavé. Třídění 
 
 **Výhody:** Výrazně zkracuje čas ručního třídění, zobrazuje kritické zprávy, které by se mohly zasypat, minimalizuje rozptylování od pošty s nízkou prioritou a bojuje proti únavě z rozhodování tím, že pro vás provede počáteční hodnocení „důležité/nedůležité“. Nástroje jako [**SaneBox**](https://www.sanebox.com/) a [**Superhuman**](https://superhuman.com/) jsou známé svými možnostmi třídění pomocí umělé inteligence.
 
-Toto inteligentní třídění je přesně to, k čemu jsou určeny nástroje jako [Chiefy](https://chiefy.com/cs). Jeho AI Triage analyzuje příchozí poštu z hlediska naléhavosti a požadovaných akcí a prezentuje je na Focused Dashboard, takže okamžitě uvidíte, co vyžaduje pozornost, a překlene hluk tradiční chronologické schránky.
+Toto inteligentní třídění je přesně to, k čemu jsou určeny nástroje jako [Duet Mail](https://duetmail.com/cs). Jeho AI Triage analyzuje příchozí poštu z hlediska naléhavosti a požadovaných akcí a prezentuje je na Focused Dashboard, takže okamžitě uvidíte, co vyžaduje pozornost, a překlene hluk tradiční chronologické schránky.
 
 ### Okamžité porozumění: Sumarizace založená na umělé inteligenci
 
@@ -217,7 +217,7 @@ Otevřeli jste někdy e-mailové vlákno s 50 odpověďmi a cítili jste, že se
 
 **Výhody:** Ušetří to obrovské množství času při dohánění kontextu, pomáhá nepřehlédnout důležité informace a zlepšuje celkové porozumění, zejména u složitých projektových nebo klientských diskusí. Tuto schopnost nabízí několik nástrojů AI, včetně [**Outlook Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot-for-microsoft-365), [**Shortwave**](https://shortwave.com/) a specializovaných doplňků Gmail, jako je [**AI Mail Assistant**](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) nebo [**MailMaestro**](https://www.maestrolabs.com/).
 
-Představte si, že skočíte do dlouhého klientského vlákna a okamžitě se chopíte klíčových informací. Asistenti umělé inteligence jako Chiefy nabízejí Smart Summarization, automaticky zhušťují konverzace a pamatují si kontextové podrobnosti o projektech a vztazích, takže můžete reagovat rychle a přesně, aniž byste museli vše znovu číst.
+Představte si, že skočíte do dlouhého klientského vlákna a okamžitě se chopíte klíčových informací. Asistenti umělé inteligence jako Duet Mail nabízejí Smart Summarization, automaticky zhušťují konverzace a pamatují si kontextové podrobnosti o projektech a vztazích, takže můžete reagovat rychle a přesně, aniž byste museli vše znovu číst.
 
 ### Komunikace bez námahy: Kontextové navrhování
 
@@ -225,7 +225,7 @@ Psaní e-mailů, zejména těch běžných, zabere značný kus času. Asistenti
 
 **Výhody:** To výrazně zrychluje odezvu, zajišťuje profesionální a konzistentní komunikaci a zbavuje vás mentální únavy z opakovaného psaní podobných zpráv. Nabízí to mnoho nástrojů, od obecných autorů AI jako [**ComposeIt**](https://www.scribowriter.com/post/best-ai-email-assistant) až po integrované asistenty v [**Superhuman**](https://superhuman.com/) nebo [**Gemini pro Google Workspace**](https://workspace.google.com/solutions/ai/).
 
-Vytváření personalizovaných odpovědí vyžaduje čas. Návrháři AI to mohou urychlit, ale klíčové je znít autenticky. Chiefy Authentic AI Navrhování se učí vaši specifickou slovní zásobu a tón z minulých e-mailů, navrhuje odpovědi, které skutečně zní jako vy, udržuje vztahy a šetří hodiny.
+Vytváření personalizovaných odpovědí vyžaduje čas. Návrháři AI to mohou urychlit, ale klíčové je znít autenticky. Duet Mail Authentic AI Navrhování se učí vaši specifickou slovní zásobu a tón z minulých e-mailů, navrhuje odpovědi, které skutečně zní jako vy, udržuje vztahy a šetří hodiny.
 
 Umělá inteligence představuje zásadní posun od _správy_ e-mailů k _rozšiřování_ souvisejících kognitivních úkolů – porozumění, stanovení priorit, shrnutí a komunikace. Klíčem je najít nástroje umělé inteligence, které se naučí _vaše_ specifické potřeby a styl, a nabízejí personalizovanou pomoc, která působí přirozeně a důvěryhodně.
 
@@ -241,7 +241,7 @@ Pravdou je, že **neexistuje jediná správná odpověď.** Nejlepší organiza�
 
 - **Projektový manažer** může integrovat Asana nebo Todoist a široce používat štítky pro sledování projektu.
 
-- **nadšenec do produktivity** může zkombinovat principy Inbox Zero s dávkovým zpracováním a experimentovat s nástroji AI, jako jsou Superhuman nebo Chiefy.
+- **nadšenec do produktivity** může zkombinovat principy Inbox Zero s dávkovým zpracováním a experimentovat s nástroji AI, jako jsou Superhuman nebo Duet Mail.
 
 **Zde je cesta k nalezení ideálního nastavení:**
 
@@ -253,7 +253,7 @@ Pravdou je, že **neexistuje jediná správná odpověď.** Nejlepší organiza�
 
 4. **Prozkoumejte řešení:** Hledejte nástroje třetích stran nebo AI, které konkrétně řeší vaše největší překážky.
 
-5. **Zvažte integrovanou AI:** Pokud vás více funkcí AI osloví (třídění, shrnutí, navrhování), prozkoumejte platformy jako [Chiefy](https://chiefy.com/cs), které kombinují tyto možnosti pro soudržný zážitek a potenciálně zjednoduší vaši sadu nástrojů.
+5. **Zvažte integrovanou AI:** Pokud vás více funkcí AI osloví (třídění, shrnutí, navrhování), prozkoumejte platformy jako [Duet Mail](https://duetmail.com/cs), které kombinují tyto možnosti pro soudržný zážitek a potenciálně zjednoduší vaši sadu nástrojů.
 
 6. **Upřesnit:** Průběžně vylaďujte svůj systém. To, co fungovalo minulý měsíc, může vyžadovat úpravu, protože se mění vaše role nebo projekty.
 
@@ -263,4 +263,4 @@ Přetížení e-mailem je všudypřítomnou výzvou na moderním pracovišti, al
 
 Konečným cílem je trávit méně času _správou_ e-mailů a více času dělat práci, na které skutečně záleží. Ať už začnete nastavením několika klíčových filtrů, zavážete se k dávkovému zpracování nebo prozkoumáte asistenta AI, udělejte ještě dnes jeden krok směrem ke klidnějšímu a organizovanějšímu digitálnímu životu.
 
-Jste připraveni vyzkoušet sílu e-mailové organizace řízené umělou inteligencí, která se naučí váš styl a priority? [**Zjistěte, jak může Chiefy**](https://chiefy.com/cs) změnit váš vztah k vaší doručené poště a vrátit vám hodiny každý týden. Zkuste to ještě dnes!
+Jste připraveni vyzkoušet sílu e-mailové organizace řízené umělou inteligencí, která se naučí váš styl a priority? [**Zjistěte, jak může Duet Mail**](https://duetmail.com/cs) změnit váš vztah k vaší doručené poště a vrátit vám hodiny každý týden. Zkuste to ještě dnes!

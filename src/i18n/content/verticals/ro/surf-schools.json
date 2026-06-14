@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy pentru școli de surf și operatori de paddleboard | AI Asistent de e-mail",
-  "metaDescription": "Chiefy ajută instructorii de surf și operatorii de paddleboard să răspundă instantaneu la e-mailurile de rezervare – chiar și în timp ce predau. Răspunsuri redactate de AI cu tipurile de lecții, prețuri și voce.",
+  "pageTitle": "Duet Mail pentru școli de surf și operatori de paddleboard | AI Asistent de e-mail",
+  "metaDescription": "Duet Mail ajută instructorii de surf și operatorii de paddleboard să răspundă instantaneu la e-mailurile de rezervare – chiar și în timp ce predau. Răspunsuri redactate de AI cu tipurile de lecții, prețuri și voce.",
   "heroBadge": "De încredere de peste 300 de instructori de surf",
   "heroHeadline": "Asistentul tău de e-mail în timp ce predai pe apă",
-  "heroSubline": "Chiefy îți învață tipurile de lecții, prețurile și condițiile, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
+  "heroSubline": "Duet îți învață tipurile de lecții, prețurile și condițiile, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lecţie",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Două rezervări salvate plătesc pentru un an de Chiefy."
+    "punchline": "Două rezervări salvate plătesc pentru un an de Duet."
   },
-  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi rezervările de lecții, întrebările în al doilea rând și zgomotul niciodată. Nu mai lipsește o anchetă de grup școlar îngropată sub alertele Yelp.",
-  "draftSubtitle": "Chiefy îți învață tipurile de lecții, prețurile de grup și tonul. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Vor rezervări de grup săptămâna aceasta?” „Redactează un răspuns pentru școală cu disponibilitate.” Chiefy îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi rezervările de lecții, întrebările în al doilea rând și zgomotul niciodată. Nu mai lipsește o anchetă de grup școlar îngropată sub alertele Yelp.",
+  "draftSubtitle": "Duet îți învață tipurile de lecții, prețurile de grup și tonul. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Vor rezervări de grup săptămâna aceasta?” „Redactează un răspuns pentru școală cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,25 +127,25 @@
     {
       "name": "Antrenorul Mike T.",
       "title": "Proprietar școală de surf, CA",
-      "quote": "Sunt în apă predând 6 ore pe zi. Până când am verificat e-mailul, jumătate din rezervări fuseseră duse la altcineva. Acum, Chiefy drafts răspunde cu prețul și disponibilitatea mea — eu doar examinez între sesiuni.",
+      "quote": "Sunt în apă predând 6 ore pe zi. Până când am verificat e-mailul, jumătate din rezervări fuseseră duse la altcineva. Acum, Duet drafts răspunde cu prețul și disponibilitatea mea — eu doar examinez între sesiuni.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen și Mark S.",
       "title": "Lecții și închirieri de paddleboard, HI",
-      "quote": "Oferim lecții și închirieri de masă din aceeași căsuță de e-mail. Chiefy și-a dat seama imediat de diferența — întrebările privind închirierea primesc răspunsuri, întrebările despre lecție primesc detalii despre lecție. E ca și cum ai avea o recepție.",
+      "quote": "Oferim lecții și închirieri de masă din aceeași căsuță de e-mail. Duet și-a dat seama imediat de diferența — întrebările privind închirierea primesc răspunsuri, întrebările despre lecție primesc detalii despre lecție. E ca și cum ai avea o recepție.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Instructor de surf, FL",
-      "quote": "Rezervările pentru grupuri școlare obișnuiau să primească 10 e-mailuri înainte și înapoi. Acum Chiefy redactează primul răspuns cu tarifele de grup, ceea ce este inclus și borderoul de permisiune. Tăiați tot firul în jumătate.",
+      "quote": "Rezervările pentru grupuri școlare obișnuiau să primească 10 e-mailuri înainte și înapoi. Acum Duet redactează primul răspuns cu tarifele de grup, ceea ce este inclus și borderoul de permisiune. Tăiați tot firul în jumătate.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "Tururi și lecții de SUP, SAU",
-      "quote": "Sezonul de vârf mă ucide – 30 de e-mailuri pe zi despre condiții, prețuri, ce să aduc. Aceleași cinci întrebări din nou și din nou. Chiefy se ocupă de toate și sună exact ca mine.",
+      "quote": "Sezonul de vârf mă ucide – 30 de e-mailuri pe zi despre condiții, prețuri, ce să aduc. Aceleași cinci întrebări din nou și din nou. Duet se ocupă de toate și sună exact ca mine.",
       "avatarKey": "francesca"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Chiefy gestionează diferite tipuri de lecții și închirieri de echipamente?",
-      "answer": "Da. Chiefy învață toate ofertele tale — lecții private, lecții de grup, tabere pentru copii, închiriere de scânduri, tururi SUP. Când vine o întrebare, acesta redactează un răspuns cu prețul corect, durata, ce este inclus și ce să aducă. Știe că e-mailul unui grup școlar are nevoie de detalii diferite decât rezervarea unei lecții private."
+      "question": "Duet gestionează diferite tipuri de lecții și închirieri de echipamente?",
+      "answer": "Da. Duet învață toate ofertele tale — lecții private, lecții de grup, tabere pentru copii, închiriere de scânduri, tururi SUP. Când vine o întrebare, acesta redactează un răspuns cu prețul corect, durata, ce este inclus și ce să aducă. Știe că e-mailul unui grup școlar are nevoie de detalii diferite decât rezervarea unei lecții private."
     },
     {
       "question": "Dar întrebările despre vreme și condiții?",
-      "answer": "Chiefy află cum gestionezi în mod obișnuit e-mailurile privind condițiile - politicile tale privind anulările, reprogramarea și condițiile în care predai. Când cineva îți trimite e-mail să întrebe dacă lecția va continua, Chiefy redactează un răspuns care se potrivește cu tonul și politica obișnuite. Verifici și trimiți în câteva secunde."
+      "answer": "Duet află cum gestionezi în mod obișnuit e-mailurile privind condițiile - politicile tale privind anulările, reprogramarea și condițiile în care predai. Când cineva îți trimite e-mail să întrebe dacă lecția va continua, Duet redactează un răspuns care se potrivește cu tonul și politica obișnuite. Verifici și trimiți în câteva secunde."
     }
   ],
   "pricingNote": "La 90 USD/lecție, două rezervări salvate plătesc peste un an de Pro."

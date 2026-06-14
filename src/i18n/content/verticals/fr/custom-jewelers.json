@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy pour les bijoutiers sur mesure | Assistant email IA",
-  "metaDescription": "Chiefy aide les bijoutiers sur mesure à répondre instantanément aux demandes de consultation, aux validations de design et aux questions sur les délais — même à l’établi. Des réponses rédigées par l’IA selon votre processus, vos tarifs et votre ton.",
+  "pageTitle": "Duet Mail pour les bijoutiers sur mesure | Assistant email IA",
+  "metaDescription": "Duet Mail aide les bijoutiers sur mesure à répondre instantanément aux demandes de consultation, aux validations de design et aux questions sur les délais — même à l’établi. Des réponses rédigées par l’IA selon votre processus, vos tarifs et votre ton.",
   "heroBadge": "Plébiscité par plus de 300 designers de bijoux",
   "heroHeadline": "Votre assistant email pendant que vous êtes à l’établi",
-  "heroSubline": "Chiefy apprend votre processus de création, vos matériaux, vos tarifs et vos délais — puis rédige des réponses email pour que vous ne perdiez jamais un client sur mesure à cause d’une réponse trop lente.",
+  "heroSubline": "Duet apprend votre processus de création, vos matériaux, vos tarifs et vos délais — puis rédige des réponses email pour que vous ne perdiez jamais un client sur mesure à cause d’une réponse trop lente.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "pièce sur mesure",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Un seul client conservé paie plus de quatre ans de Chiefy."
+    "punchline": "Un seul client conservé paie plus de quatre ans de Duet."
   },
-  "categorizationSubtitle": "Chiefy classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes de consultation, ensuite les approbations de design, et jamais les newsletters fournisseurs. Fini les demandes à 5 000 $ perdues au milieu des promos des fournisseurs.",
-  "draftSubtitle": "Chiefy apprend votre processus, vos matériaux, vos tarifs et votre ton. Lorsqu’une demande de consultation arrive, il rédige une réponse complète avec vos disponibilités, ce qu’il faut apporter et le déroulement de votre processus. Vous relisez et envoyez.",
-  "agentSubtitle": "« Où en est-on avec la bague d’Amanda ? » « Rédige une mise à jour du calendrier pour James. » Chiefy connaît chaque échange client — il suffit de demander.",
+  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes de consultation, ensuite les approbations de design, et jamais les newsletters fournisseurs. Fini les demandes à 5 000 $ perdues au milieu des promos des fournisseurs.",
+  "draftSubtitle": "Duet apprend votre processus, vos matériaux, vos tarifs et votre ton. Lorsqu’une demande de consultation arrive, il rédige une réponse complète avec vos disponibilités, ce qu’il faut apporter et le déroulement de votre processus. Vous relisez et envoyez.",
+  "agentSubtitle": "« Où en est-on avec la bague d’Amanda ? » « Rédige une mise à jour du calendrier pour James. » Duet connaît chaque échange client — il suffit de demander.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Créatrice de bijoux sur mesure, LA",
-      "quote": "Chaque pièce sur mesure génère 10 à 15 e-mails sur plusieurs semaines. Multipliez cela par 8 clients actifs et j'étais débordée. Chiefy rédige les réponses aux mises à jour de design, les confirmations de consultation, les réponses sur les délais — tout dans mon style. Je relis entre deux coulées et j'envoie.",
+      "quote": "Chaque pièce sur mesure génère 10 à 15 e-mails sur plusieurs semaines. Multipliez cela par 8 clients actifs et j'étais débordée. Duet rédige les réponses aux mises à jour de design, les confirmations de consultation, les réponses sur les délais — tout dans mon style. Je relis entre deux coulées et j'envoie.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Orfèvre et propriétaire de studio, Brooklyn",
-      "quote": "J'ai perdu une commande de bague de fiançailles à 7 000 $ parce que j'ai mis 3 jours à répondre — le couple est allé voir quelqu'un qui a répondu en 2 heures. Depuis Chiefy, mon délai de réponse est inférieur à 30 minutes. Cela ne s'est plus reproduit.",
+      "quote": "J'ai perdu une commande de bague de fiançailles à 7 000 $ parce que j'ai mis 3 jours à répondre — le couple est allé voir quelqu'un qui a répondu en 2 heures. Depuis Duet, mon délai de réponse est inférieur à 30 minutes. Cela ne s'est plus reproduit.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bijoutier sur établi, Chicago",
-      "quote": "Je suis à l'établi 8 heures par jour, le chalumeau à la main. Je ne peux pas m'arrêter en plein soudage pour taper une réponse de consultation. Chiefy rédige tout pendant que je travaille — je jette un œil à mon téléphone, j'approuve, c'est fait.",
+      "quote": "Je suis à l'établi 8 heures par jour, le chalumeau à la main. Je ne peux pas m'arrêter en plein soudage pour taper une réponse de consultation. Duet rédige tout pendant que je travaille — je jette un œil à mon téléphone, j'approuve, c'est fait.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Créatrice de bijoux de mariage, Austin",
-      "quote": "Pendant la saison des fiançailles, je reçois plus de 20 demandes de consultation par semaine. Chiefy a appris tout mon processus — matériaux, délais, niveaux de prix, quoi apporter. Il rédige des réponses que j'ai à peine besoin de modifier. Un vrai sauveur de novembre à février.",
+      "quote": "Pendant la saison des fiançailles, je reçois plus de 20 demandes de consultation par semaine. Duet a appris tout mon processus — matériaux, délais, niveaux de prix, quoi apporter. Il rédige des réponses que j'ai à peine besoin de modifier. Un vrai sauveur de novembre à février.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Spécialiste des bagues sur mesure, Portland",
-      "quote": "Les e-mails de révision 3D me prenaient mes soirées. Le client envoie ses commentaires, je rédige la mise à jour, aller-retour cinq fois. Maintenant, Chiefy gère les réponses courantes et je n'interviens que pour les choix de design. J'ai retrouvé mes soirées.",
+      "quote": "Les e-mails de révision 3D me prenaient mes soirées. Le client envoie ses commentaires, je rédige la mise à jour, aller-retour cinq fois. Maintenant, Duet gère les réponses courantes et je n'interviens que pour les choix de design. J'ai retrouvé mes soirées.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Démarrez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Chiefy peut-il gérer les e-mails avec des photos de référence et des pièces jointes de conception ?",
-      "answer": "Oui. Chiefy voit le fil d’e-mails complet, y compris les pièces jointes, donc il comprend le contexte lorsqu’un client envoie des photos d’inspiration ou un retour sur le design. Il ne décrit pas les images, mais il sait qu’un client vient d’envoyer des photos de référence et rédige une réponse appropriée — en confirmant la réception, en posant des questions de précision sur le design, ou en indiquant les prochaines étapes selon votre flux de travail habituel."
+      "question": "Duet peut-il gérer les e-mails avec des photos de référence et des pièces jointes de conception ?",
+      "answer": "Oui. Duet voit le fil d’e-mails complet, y compris les pièces jointes, donc il comprend le contexte lorsqu’un client envoie des photos d’inspiration ou un retour sur le design. Il ne décrit pas les images, mais il sait qu’un client vient d’envoyer des photos de référence et rédige une réponse appropriée — en confirmant la réception, en posant des questions de précision sur le design, ou en indiquant les prochaines étapes selon votre flux de travail habituel."
     },
     {
-      "question": "Mes projets sur mesure ont de longs fils d’e-mails avec plus de 10 messages. Chiefy peut-il les suivre ?",
-      "answer": "C’est exactement là que Chiefy excelle. Il lit tout l’historique du fil — notes de consultation, révisions du design, choix des matériaux, mises à jour du calendrier — afin que chaque réponse rédigée dispose de tout le contexte. Quand un client demande « quel est le statut de ma bague ? » dans l’e-mail n°14, Chiefy sait de quelle bague il s’agit, à quelle étape elle en est, et rédige une mise à jour précise. Plus besoin de relire vous-même 3 mois d’e-mails."
+      "question": "Mes projets sur mesure ont de longs fils d’e-mails avec plus de 10 messages. Duet peut-il les suivre ?",
+      "answer": "C’est exactement là que Duet excelle. Il lit tout l’historique du fil — notes de consultation, révisions du design, choix des matériaux, mises à jour du calendrier — afin que chaque réponse rédigée dispose de tout le contexte. Quand un client demande « quel est le statut de ma bague ? » dans l’e-mail n°14, Duet sait de quelle bague il s’agit, à quelle étape elle en est, et rédige une mise à jour précise. Plus besoin de relire vous-même 3 mois d’e-mails."
     }
   ],
   "pricingNote": "À $5,000/pièce, une seule commande gagnée rembourse plus de quatre ans de Pro."

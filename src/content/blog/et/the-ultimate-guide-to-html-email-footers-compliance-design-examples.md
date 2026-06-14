@@ -2,7 +2,7 @@
 title: "HTML-i e-posti jaluste ülim juhend: vastavus, kujundus ja näited"
 description: "HTML-meilide jalused: olulised elemendid, disaininõuanded, õiguslik vastavus (CAN-SPAM, GDPR, CASL) ja kaubamärginäited."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Meil"]
 draft: false
 ---
@@ -120,4 +120,4 @@ Teie HTML-meili jalus võib olla viimane asi, mida adressaadid näevad, kuid see
 
 See suurendab usaldust, tugevdab teie kaubamärki, tagab vastavuse ja pakub teie vaatajaskonnale kasulikku navigeerimist. Võtke mõni hetk oma praeguse meili jaluse ülevaatamiseks. Kas see on nõuetele vastav? Kas see on selge? Kas see on mobiilisõbralik? Nende väikeste täiustuste tegemine võib oluliselt mõjutada seda, kuidas teie e-kirju ja teie kaubamärki tajutakse.
 
-Kas otsite viise, kuidas muuta oma üldine meilihaldus tõhusamaks ja professionaalsemaks? Kaaluge hõivatud professionaalidele mõeldud tööriistade uurimist. Näiteks võib õppimine, kuidas Chiefy tehisintellekti toega funktsioonidega e-posti produktiivsust](https://chiefy.com/et) lihtsustab, vabastada rohkem aega, et keskenduda detailide (nt jaluse) täiustamisele ja tagada, et iga suhtlus esindab teid hästi.
+Kas otsite viise, kuidas muuta oma üldine meilihaldus tõhusamaks ja professionaalsemaks? Kaaluge hõivatud professionaalidele mõeldud tööriistade uurimist. Näiteks võib õppimine, kuidas Duet Mail tehisintellekti toega funktsioonidega e-posti produktiivsust](https://duetmail.com/et) lihtsustab, vabastada rohkem aega, et keskenduda detailide (nt jaluse) täiustamisele ja tagada, et iga suhtlus esindab teid hästi.

@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy pro rybářské chartery | AI e-mailový asistent",
-  "metaDescription": "Chiefy pomáhá kapitánům rybářských charter okamžitě reagovat na rezervační e-maily – dokonce i z vody. Odpovědi navržené AI s vašimi cenami, zásadami a hlasem.",
+  "pageTitle": "Duet Mail pro rybářské chartery | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá kapitánům rybářských charter okamžitě reagovat na rezervační e-maily – dokonce i z vody. Odpovědi navržené AI s vašimi cenami, zásadami a hlasem.",
   "heroBadge": "Důvěřuje více než 500 kapitánům charterových lodí",
   "heroHeadline": "Váš e-mailový asistent, když jste na vodě",
-  "heroSubline": "Chiefy se naučí vaše ceny, zásady a hlas – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
+  "heroSubline": "Duet se naučí vaše ceny, zásady a hlas – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "charta",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Jedna ušetřená rezervace platí na rok Chiefy."
+    "punchline": "Jedna ušetřená rezervace platí na rok Duet."
   },
-  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže jako první vidíte požadavky na rezervaci, jako druhé otázky a nikdy nic. Už vám nebude chybět dotaz na cestu skrytý pod upozorněními TripAdvisor.",
-  "draftSubtitle": "Chiefy se naučí vaše ceny, zásady a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o cestě, cenou a tím, co si vzít s sebou. Zkontrolujete a odešlete.",
-  "agentSubtitle": "\"Které dny jsou otevřeny příští týden?\" \"Navrhněte odpověď Sarah s dostupností.\" Chiefy zná vaši doručenou poštu a kalendář – stačí se zeptat.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první vidíte požadavky na rezervaci, jako druhé otázky a nikdy nic. Už vám nebude chybět dotaz na cestu skrytý pod upozorněními TripAdvisor.",
+  "draftSubtitle": "Duet se naučí vaše ceny, zásady a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o cestě, cenou a tím, co si vzít s sebou. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Které dny jsou otevřeny příští týden?\" \"Navrhněte odpověď Sarah s dostupností.\" Duet zná vaši doručenou poštu a kalendář – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Captain Mike D.",
       "title": "Kapitán Offshore Charter, FL",
-      "quote": "Během hlavní sezóny jsem ztratil 2-3 rezervace týdně jen proto, že jsem nemohl dostatečně rychle odpovědět z lodi. Chiefy navrhuje odpovědi s mými cenami a podrobnostmi o cestě – mezi úlovky jsem jen klikl na odeslat.",
+      "quote": "Během hlavní sezóny jsem ztratil 2-3 rezervace týdně jen proto, že jsem nemohl dostatečně rychle odpovědět z lodi. Duet navrhuje odpovědi s mými cenami a podrobnostmi o cestě – mezi úlovky jsem jen klikl na odeslat.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "Provozujeme dvě lodě a objem e-mailů během léta je šílený. Chiefy třídí požadavky na rezervaci od všeho ostatního a navrhuje odpovědi, které zní přesně jako my. Absolutní změna hry.",
+      "quote": "Provozujeme dvě lodě a objem e-mailů během léta je šílený. Duet třídí požadavky na rezervaci od všeho ostatního a navrhuje odpovědi, které zní přesně jako my. Absolutní změna hry.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Průvodce pobřežním rybolovem, TX",
-      "quote": "Strávil jsem každou noc hodinu odpovídáním na stejné otázky týkající se dostupnosti. Nyní to zvládá Chiefy. Moje doba odezvy se změnila z hodin na minuty a od té doby jsem o rezervaci nepřišel.",
+      "quote": "Strávil jsem každou noc hodinu odpovídáním na stejné otázky týkající se dostupnosti. Nyní to zvládá Duet. Moje doba odezvy se změnila z hodin na minuty a od té doby jsem o rezervaci nepřišel.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Manažer charterové kanceláře, HI",
-      "quote": "Správa emailů pro 4 kapitány byla práce na plný úvazek. Chiefy vše kategorizuje a navrhuje odpovědi se správnou lodí, správnou cenou, správným kapitánem. Je to jako mít jiné já.",
+      "quote": "Správa emailů pro 4 kapitány byla práce na plný úvazek. Duet vše kategorizuje a navrhuje odpovědi se správnou lodí, správnou cenou, správným kapitánem. Je to jako mít jiné já.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Funguje Chiefy pro e-maily o rezervaci a dostupnosti?",
-      "answer": "Absolutně. Chiefy se naučí typy vašich cest, ceny, dostupnost a zásady. Když přijde požadavek na rezervaci, vypracuje kompletní odpověď se správnými detaily – cena, co je v ceně, místo schůzky, co si vzít s sebou. Zkontrolujete a klepněte na odeslat."
+      "question": "Funguje Duet pro e-maily o rezervaci a dostupnosti?",
+      "answer": "Absolutně. Duet se naučí typy vašich cest, ceny, dostupnost a zásady. Když přijde požadavek na rezervaci, vypracuje kompletní odpověď se správnými detaily – cena, co je v ceně, místo schůzky, co si vzít s sebou. Zkontrolujete a klepněte na odeslat."
     },
     {
-      "question": "Jsem celý den na vodě. Mohu použít Chiefy z mého telefonu?",
-      "answer": "Ano. Chiefy spolupracuje se Gmail a Outlook, takže funguje všude, kde funguje váš e-mail – včetně vašeho telefonu. Koncepty se zobrazují automaticky. Mezi úlovky zkontrolujete a odešlete jedním klepnutím. Většina kapitánů nám říká, že jim to během hlavní sezóny ušetří 1-2 hodiny e-mailového času denně."
+      "question": "Jsem celý den na vodě. Mohu použít Duet z mého telefonu?",
+      "answer": "Ano. Duet spolupracuje se Gmail a Outlook, takže funguje všude, kde funguje váš e-mail – včetně vašeho telefonu. Koncepty se zobrazují automaticky. Mezi úlovky zkontrolujete a odešlete jedním klepnutím. Většina kapitánů nám říká, že jim to během hlavní sezóny ušetří 1-2 hodiny e-mailového času denně."
     }
   ],
   "pricingNote": "U $500/charter platí jedna ušetřená rezervace za více než rok Pro."

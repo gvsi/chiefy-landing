@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Chiefy kāzu plānotājiem | AI e-pasta asistents",
-  "metaDescription": "Chiefy palīdz kāzu plānotājiem uzreiz atbildēt uz klientu un piegādātāju e-pastiem — pat no norises vietu apskatēm. AI sagatavotas atbildes ar jūsu paketēm, piegādātāju kontaktiem un balss toni.",
+  "pageTitle": "Duet Mail kāzu plānotājiem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz kāzu plānotājiem uzreiz atbildēt uz klientu un piegādātāju e-pastiem — pat no norises vietu apskatēm. AI sagatavotas atbildes ar jūsu paketēm, piegādātāju kontaktiem un balss toni.",
   "heroBadge": "Uzticas 400+ kāzu plānotāji",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat uz vietas norises vietā",
-  "heroSubline": "Chiefy apgūst jūsu piegādātāju kontaktus, paketes un klientu vēlmes — pēc tam sagatavo e-pasta atbildes, lai pāriem nav jāgaida, kamēr jūs koordinējat darbus uz vietas.",
+  "heroSubline": "Duet apgūst jūsu piegādātāju kontaktus, paketes un klientu vēlmes — pēc tam sagatavo e-pasta atbildes, lai pāriem nav jāgaida, kamēr jūs koordinējat darbus uz vietas.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "kāzas",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Viens saglabāts klients apmaksā vairāk nekā 20 Chiefy gadus."
+    "punchline": "Viens saglabāts klients apmaksā vairāk nekā 20 Duet gadus."
   },
-  "categorizationSubtitle": "Chiefy automātiski marķē katru e-pastu, lai jūs vispirms redzētu jaunos pāru pieprasījumus, pēc tam piegādātāju apstiprinājumus, bet jaunumu vēstuļu troksni — nekad. Vairs nekādu nokavētu rezervācijas pieprasījumu, kas pazuduši zem Knot paziņojumiem.",
-  "draftSubtitle": "Chiefy apgūst jūsu paketes, vēlamos piegādātājus un toni. Kad pāris nosūta pieprasījumu, tas sagatavo siltu, pilnīgu atbildi ar jūsu pieejamību un nākamajiem soļiem. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Kādi piegādātāju e-pasti šonedēļ pienāca par Thompson kāzām?\" \"Sagatavo laika plāna atjauninājumu visiem piegādātājiem sestdienai.\" Chiefy pārzina jūsu iesūtni un klientus — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Duet automātiski marķē katru e-pastu, lai jūs vispirms redzētu jaunos pāru pieprasījumus, pēc tam piegādātāju apstiprinājumus, bet jaunumu vēstuļu troksni — nekad. Vairs nekādu nokavētu rezervācijas pieprasījumu, kas pazuduši zem Knot paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu paketes, vēlamos piegādātājus un toni. Kad pāris nosūta pieprasījumu, tas sagatavo siltu, pilnīgu atbildi ar jūsu pieejamību un nākamajiem soļiem. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kādi piegādātāju e-pasti šonedēļ pienāca par Thompson kāzām?\" \"Sagatavo laika plāna atjauninājumu visiem piegādātājiem sestdienai.\" Duet pārzina jūsu iesūtni un klientus — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique kāzu plānotāja, CO",
-      "quote": "Pusi nedēļas esmu kalnu norises vietās bez jebkāda mobilā sakara. Tikmēr pāri man raksta par laika plāniem un piegādātāju jautājumiem. Chiefy sagatavo atbildes ar manām precīzajām paketēm un toni — es tās pārskatu, kad atkal esmu zonā.",
+      "quote": "Pusi nedēļas esmu kalnu norises vietās bez jebkāda mobilā sakara. Tikmēr pāri man raksta par laika plāniem un piegādātāju jautājumiem. Duet sagatavo atbildes ar manām precīzajām paketēm un toni — es tās pārskatu, kad atkal esmu zonā.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Pilna servisa kāzu plānotājs, CA",
-      "quote": "Koordinēt 10+ piegādātājus katrām kāzām nozīmē, ka sezonas pīķī mana iesūtne ir kara zona. Chiefy atdala piegādātāju e-pastus no klientu e-pastiem un sagatavo turpinājuma atbildes, ko es būtu uzrakstījis pats. Tagad es tiešām guļu.",
+      "quote": "Koordinēt 10+ piegādātājus katrām kāzām nozīmē, ka sezonas pīķī mana iesūtne ir kara zona. Duet atdala piegādātāju e-pastus no klientu e-pastiem un sagatavo turpinājuma atbildes, ko es būtu uzrakstījis pats. Tagad es tiešām guļu.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Kāzu dienas koordinatore, TX",
-      "quote": "Kāzu dienās esmu nepieejama 14 stundas pēc kārtas. Jaunie pieprasījumi agrāk palika neatbildēti līdz pirmdienai. Tagad Chiefy tos apstrādā uzreiz, un tikai ātrākas atbildes dēļ šajā ceturksnī esmu rezervējusi 3 papildu kāzas.",
+      "quote": "Kāzu dienās esmu nepieejama 14 stundas pēc kārtas. Jaunie pieprasījumi agrāk palika neatbildēti līdz pirmdienai. Tagad Duet tos apstrādā uzreiz, un tikai ātrākas atbildes dēļ šajā ceturksnī esmu rezervējusi 3 papildu kāzas.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Galamērķa kāzu plānotājs, HI",
-      "quote": "Mani pāri atlido no visas pasaules un raksta jebkurā diennakts laikā. Chiefy apguva manas FAQ atbildes — norises vietas loģistiku, vietējos piegādātājus, ko sagaidīt — un sagatavo atbildes, kas skan tieši kā es. Klienti pat nenojauš.",
+      "quote": "Mani pāri atlido no visas pasaules un raksta jebkurā diennakts laikā. Duet apguva manas FAQ atbildes — norises vietas loģistiku, vietējos piegādātājus, ko sagaidīt — un sagatavo atbildes, kas skan tieši kā es. Klienti pat nenojauš.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Kāzu un pasākumu plānotāja, NY",
-      "quote": "Katru vakaru pavadīju 2 stundas, atbildot uz vieniem un tiem pašiem jautājumiem par paketēm un pieejamību. Chiefy tiek galā ar atkārtotajiem darbiem, lai es varētu koncentrēties uz radošo darbu, ko patiešām mīlu. Tas atmaksājās jau pirmajā nedēļā.",
+      "quote": "Katru vakaru pavadīju 2 stundas, atbildot uz vieniem un tiem pašiem jautājumiem par paketēm un pieejamību. Duet tiek galā ar atkārtotajiem darbiem, lai es varētu koncentrēties uz radošo darbu, ko patiešām mīlu. Tas atmaksājās jau pirmajā nedēļā.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Vai Chiefy darbojas ar visiem piegādātāju koordinēšanas e-pastiem?",
-      "answer": "Jā. Chiefy apgūst jūsu piegādātāju kontaktus, vēlamos piegādātājus un to, kā sazināties ar katru no tiem. Tas kategorizē piegādātāju e-pastus pēc kāzām un sagatavo atbildes ar pareizajām detaļām — apstiprinājumiem, turpinājuma ziņām, laika plāna atjauninājumiem. Jūs pārskatāt un nosūtāt. Tas tiek galā ar floristiem, ēdinātājiem, norises vietām, DJ, fotogrāfiem un visiem pārējiem piegādātājiem jūsu kontaktu sarakstā."
+      "question": "Vai Duet darbojas ar visiem piegādātāju koordinēšanas e-pastiem?",
+      "answer": "Jā. Duet apgūst jūsu piegādātāju kontaktus, vēlamos piegādātājus un to, kā sazināties ar katru no tiem. Tas kategorizē piegādātāju e-pastus pēc kāzām un sagatavo atbildes ar pareizajām detaļām — apstiprinājumiem, turpinājuma ziņām, laika plāna atjauninājumiem. Jūs pārskatāt un nosūtāt. Tas tiek galā ar floristiem, ēdinātājiem, norises vietām, DJ, fotogrāfiem un visiem pārējiem piegādātājiem jūsu kontaktu sarakstā."
     },
     {
       "question": "Es visu dienu esmu uz vietas kāzās un norises vietās. Vai palaidīšu garām jaunus pieprasījumus?",
-      "answer": "Tieši to Chiefy atrisina. Kad pāris raksta par pieejamību vai paketēm, kamēr jūs koordinējat darbus uz vietas, Chiefy sagatavo siltu, profesionālu atbildi ar jūsu reālo pieejamību un nākamajiem soļiem. Jūs pārskatāt un nosūtāt, kad jums ir brīvs brīdis — pat no tālruņa starp pasākumiem. Lielākā daļa plānotāju mums saka, ka sezonas pīķī tas ietaupa 1-2 stundas e-pasta darba dienā."
+      "answer": "Tieši to Duet atrisina. Kad pāris raksta par pieejamību vai paketēm, kamēr jūs koordinējat darbus uz vietas, Duet sagatavo siltu, profesionālu atbildi ar jūsu reālo pieejamību un nākamajiem soļiem. Jūs pārskatāt un nosūtāt, kad jums ir brīvs brīdis — pat no tālruņa starp pasākumiem. Lielākā daļa plānotāju mums saka, ka sezonas pīķī tas ietaupa 1-2 stundas e-pasta darba dienā."
     }
   ],
   "pricingNote": "Pie 8 000 $ par kāzām viens noturēts klients sedz vairāk nekā 20 Pro lietošanas gadus."

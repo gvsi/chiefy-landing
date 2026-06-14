@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Chiefy dla planistów ślubnych | AI Email Assistant",
-  "metaDescription": "Chiefy pomaga organizatorom wesel natychmiast odpowiadać na e-maile klientów i dostawców – nawet na podstawie przewodników po lokalach. Odpowiedzi opracowane przez sztuczną inteligencję zawierające Twoje pakiety, kontakty do dostawców i głos.",
+  "pageTitle": "Duet Mail dla planistów ślubnych | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga organizatorom wesel natychmiast odpowiadać na e-maile klientów i dostawców – nawet na podstawie przewodników po lokalach. Odpowiedzi opracowane przez sztuczną inteligencję zawierające Twoje pakiety, kontakty do dostawców i głos.",
   "heroBadge": "Zaufali organizatorzy ślubów 400+",
   "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś na miejscu",
-  "heroSubline": "Chiefy poznaje dane kontaktowe dostawców, pakiety i preferencje klientów, a następnie przygotowuje odpowiedzi e-mailowe, aby pary nigdy nie czekały, podczas gdy Ty koordynujesz swoje działania na miejscu.",
+  "heroSubline": "Duet poznaje dane kontaktowe dostawców, pakiety i preferencje klientów, a następnie przygotowuje odpowiedzi e-mailowe, aby pary nigdy nie czekały, podczas gdy Ty koordynujesz swoje działania na miejscu.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ślub",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Jeden zapisany klient płaci za ponad 20 lata Chiefy."
+    "punchline": "Jeden zapisany klient płaci za ponad 20 lata Duet."
   },
-  "categorizationSubtitle": "Chiefy automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się zapytania dotyczące nowych par, w drugiej kolejności potwierdzenia dostawców, a biuletynów nigdy. Nigdy więcej nie przegapisz prośby o rezerwację ukrytej pod alertami Knot.",
-  "draftSubtitle": "Chiefy uczy się Twoich pakietów, preferowanych dostawców i tonu. Kiedy para o to pyta, przygotowuje ciepłą, kompletną odpowiedź, podając Twoją dostępność i dalsze kroki. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„Jakie e-maile od dostawców przyszły w związku ze ślubem Thompsona?” „Przygotuj aktualizację harmonogramu dla wszystkich dostawców na sobotę”. Chiefy zna Twoją skrzynkę odbiorczą i klientów — po prostu zapytaj.",
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności pojawiają się zapytania dotyczące nowych par, w drugiej kolejności potwierdzenia dostawców, a biuletynów nigdy. Nigdy więcej nie przegapisz prośby o rezerwację ukrytej pod alertami Knot.",
+  "draftSubtitle": "Duet uczy się Twoich pakietów, preferowanych dostawców i tonu. Kiedy para o to pyta, przygotowuje ciepłą, kompletną odpowiedź, podając Twoją dostępność i dalsze kroki. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Jakie e-maile od dostawców przyszły w związku ze ślubem Thompsona?” „Przygotuj aktualizację harmonogramu dla wszystkich dostawców na sobotę”. Duet zna Twoją skrzynkę odbiorczą i klientów — po prostu zapytaj.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Butikowa organizatorka ślubów, Kolorado",
-      "quote": "Przez pół tygodnia jestem w miejscach w górach, gdzie nie ma zasięgu komórkowego. W międzyczasie pary wysyłają mi e-maile dotyczące terminów i pytań do dostawców. Chiefy przygotowuje odpowiedzi z moimi dokładnymi pakietami i tonem — przeglądam je, gdy ponownie znajdę się w zasięgu.",
+      "quote": "Przez pół tygodnia jestem w miejscach w górach, gdzie nie ma zasięgu komórkowego. W międzyczasie pary wysyłają mi e-maile dotyczące terminów i pytań do dostawców. Duet przygotowuje odpowiedzi z moimi dokładnymi pakietami i tonem — przeglądam je, gdy ponownie znajdę się w zasięgu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Planista ślubu z pełnym zakresem usług, Kalifornia",
-      "quote": "Koordynowanie dostawców 10+ na każdy ślub oznacza, że ​​moja skrzynka odbiorcza to strefa działań wojennych w szczycie sezonu. Chiefy kategoryzuje e-maile dostawców oddzielnie od e-maili klientów i przygotowuje wersje robocze dalszych działań, które sam bym napisał. Właściwie to teraz śpię.",
+      "quote": "Koordynowanie dostawców 10+ na każdy ślub oznacza, że ​​moja skrzynka odbiorcza to strefa działań wojennych w szczycie sezonu. Duet kategoryzuje e-maile dostawców oddzielnie od e-maili klientów i przygotowuje wersje robocze dalszych działań, które sam bym napisał. Właściwie to teraz śpię.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Koordynator dnia, Teksas",
-      "quote": "W dni weselne jestem niedostępna przez całe 14 godziny. Nowe zapytania pozostawały bez odpowiedzi aż do poniedziałku. Teraz Chiefy obsługuje je natychmiast, a ja zarezerwowałem dodatkowe wesela w 3 w tym kwartale, dzięki samym krótszym czasom reakcji.",
+      "quote": "W dni weselne jestem niedostępna przez całe 14 godziny. Nowe zapytania pozostawały bez odpowiedzi aż do poniedziałku. Teraz Duet obsługuje je natychmiast, a ja zarezerwowałem dodatkowe wesela w 3 w tym kwartale, dzięki samym krótszym czasom reakcji.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "Moje pary przylatują z całego świata i wysyłają e-maile o każdej porze. Chiefy poznał moje odpowiedzi na najczęściej zadawane pytania – logistyka miejsca, lokalni dostawcy, czego się spodziewać – i przygotował wersje robocze odpowiedzi, które brzmią dokładnie tak jak ja. Klienci nie mają pojęcia.",
+      "quote": "Moje pary przylatują z całego świata i wysyłają e-maile o każdej porze. Duet poznał moje odpowiedzi na najczęściej zadawane pytania – logistyka miejsca, lokalni dostawcy, czego się spodziewać – i przygotował wersje robocze odpowiedzi, które brzmią dokładnie tak jak ja. Klienci nie mają pojęcia.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Planista wesel i wydarzeń, Nowy Jork",
-      "quote": "Każdego wieczoru spędzałem 2 godziny, odpowiadając na te same pytania dotyczące pakietu i dostępności. Chiefy zajmuje się powtarzalnymi sprawami, dzięki czemu mogę skupić się na pracy twórczej, którą naprawdę kocham. Zwróciło się już w pierwszym tygodniu.",
+      "quote": "Każdego wieczoru spędzałem 2 godziny, odpowiadając na te same pytania dotyczące pakietu i dostępności. Duet zajmuje się powtarzalnymi sprawami, dzięki czemu mogę skupić się na pracy twórczej, którą naprawdę kocham. Zwróciło się już w pierwszym tygodniu.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Czy Chiefy współpracuje ze wszystkimi e-mailami dotyczącymi koordynacji dostawców?",
-      "answer": "Tak. Chiefy uczy się kontaktów z dostawcami, preferowanych dostawców i sposobu komunikacji z każdym z nich. Kategoryzuje wiadomości e-mail od dostawców według ślubu i przygotowuje odpowiedzi zawierające odpowiednie szczegóły — potwierdzenia, działania uzupełniające, aktualizacje osi czasu. Sprawdzasz i wysyłasz. Obsługuje kwiaciarnie, firmy cateringowe, lokale, DJ-ów, fotografów i wszystkich innych dostawców w Twoim rolodexie."
+      "question": "Czy Duet współpracuje ze wszystkimi e-mailami dotyczącymi koordynacji dostawców?",
+      "answer": "Tak. Duet uczy się kontaktów z dostawcami, preferowanych dostawców i sposobu komunikacji z każdym z nich. Kategoryzuje wiadomości e-mail od dostawców według ślubu i przygotowuje odpowiedzi zawierające odpowiednie szczegóły — potwierdzenia, działania uzupełniające, aktualizacje osi czasu. Sprawdzasz i wysyłasz. Obsługuje kwiaciarnie, firmy cateringowe, lokale, DJ-ów, fotografów i wszystkich innych dostawców w Twoim rolodexie."
     },
     {
       "question": "Jestem obecny na weselach i innych imprezach przez cały dzień. Czy przegapię nowe zapytania?",
-      "answer": "Właśnie to rozwiązuje Chiefy. Kiedy podczas koordynacji na miejscu otrzymasz kilka e-maili z pytaniami o dostępność lub pakiety, Chiefy przygotowuje ciepłą, profesjonalną odpowiedź, podając Twoją rzeczywistą dostępność i dalsze kroki. Przeglądasz i wysyłasz, kiedy tylko masz wolną chwilę — nawet na telefonie między wydarzeniami. Większość planistów twierdzi, że w szczycie sezonu oszczędza im to 1-2 godzin poczty elektronicznej dziennie."
+      "answer": "Właśnie to rozwiązuje Duet. Kiedy podczas koordynacji na miejscu otrzymasz kilka e-maili z pytaniami o dostępność lub pakiety, Duet przygotowuje ciepłą, profesjonalną odpowiedź, podając Twoją rzeczywistą dostępność i dalsze kroki. Przeglądasz i wysyłasz, kiedy tylko masz wolną chwilę — nawet na telefonie między wydarzeniami. Większość planistów twierdzi, że w szczycie sezonu oszczędza im to 1-2 godzin poczty elektronicznej dziennie."
     }
   ],
   "pricingNote": "W $8,000/wedding jeden zapisany klient płaci za ponad 20 lata Pro."

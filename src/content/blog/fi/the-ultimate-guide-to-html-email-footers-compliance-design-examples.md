@@ -2,7 +2,7 @@
 title: "Lopullinen opas HTML-sähköpostin alatunnisteisiin: vaatimustenmukaisuus, suunnittelu ja esimerkit"
 description: "Master HTML -sähköpostin alatunnisteet: olennaiset elementit, suunnitteluvinkit, lainmukaisuus (CAN-SPAM, GDPR, CASL) ja brändäysesimerkkejä."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Sähköposti"]
 draft: false
 ---
@@ -119,4 +119,4 @@ HTML-sähköpostin alatunniste saattaa olla viimeinen asia, jonka vastaanottajat
 
 Se rakentaa luottamusta, vahvistaa brändiäsi, varmistaa vaatimustenmukaisuuden ja tarjoaa hyödyllistä navigointia yleisöllesi. Käytä hetki tarkistaaksesi nykyisen sähköpostisi alatunnisteen. Onko se yhteensopiva? Onko se selvää? Onko se mobiiliystävällinen? Näillä pienillä parannuksilla voi olla suuri vaikutus siihen, miten sähköpostisi – ja brändisi – koetaan.
 
-Etsitkö tapoja tehdä sähköpostin hallinnastasi tehokkaampaa ja ammattimaisempaa? Harkitse kiireisille ammattilaisille suunniteltujen työkalujen tutkimista. Esimerkiksi, kun oppii kuinka [Chiefy yksinkertaistaa sähköpostin tuottavuutta](https://chiefy.com/fi) AI-ominaisuuksilla, voit vapauttaa enemmän aikaa keskittyä yksityiskohtien, kuten alatunnisteen, parantamiseen ja varmistaa, että jokainen viestintä edustaa sinua hyvin.
+Etsitkö tapoja tehdä sähköpostin hallinnastasi tehokkaampaa ja ammattimaisempaa? Harkitse kiireisille ammattilaisille suunniteltujen työkalujen tutkimista. Esimerkiksi, kun oppii kuinka [Duet Mail yksinkertaistaa sähköpostin tuottavuutta](https://duetmail.com/fi) AI-ominaisuuksilla, voit vapauttaa enemmän aikaa keskittyä yksityiskohtien, kuten alatunnisteen, parantamiseen ja varmistaa, että jokainen viestintä edustaa sinua hyvin.

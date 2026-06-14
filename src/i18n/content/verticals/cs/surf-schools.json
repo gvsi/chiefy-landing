@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy pro surfařské školy a operátory paddleboardů | AI e-mailový asistent",
-  "metaDescription": "Chiefy pomáhá instruktorům surfování a operátorům paddleboardů okamžitě reagovat na rezervační e-maily – dokonce i během výuky. Odpovědi navržené umělou inteligencí s typy lekcí, cenami a hlasem.",
+  "pageTitle": "Duet Mail pro surfařské školy a operátory paddleboardů | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá instruktorům surfování a operátorům paddleboardů okamžitě reagovat na rezervační e-maily – dokonce i během výuky. Odpovědi navržené umělou inteligencí s typy lekcí, cenami a hlasem.",
   "heroBadge": "Důvěřuje více než 300 instruktorům surfování",
   "heroHeadline": "Váš e-mailový asistent, když učíte na vodě",
-  "heroSubline": "Chiefy se naučí vaše typy lekcí, ceny a podmínky – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
+  "heroSubline": "Duet se naučí vaše typy lekcí, ceny a podmínky – poté navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci kvůli pomalé odpovědi.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lekce",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Dvě uložené rezervace platí za rok Chiefy."
+    "punchline": "Dvě uložené rezervace platí za rok Duet."
   },
-  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže jako první vidíte rezervace lekcí, jako druhé otázky a nikdy nešum. Už žádné zmeškání dotazu na školní skupinu zasypané upozorněními Yelp.",
-  "draftSubtitle": "Chiefy se naučí vaše typy lekcí, skupinové ceny a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s dostupností, co je zahrnuto a co si vzít s sebou. Zkontrolujete a odešlete.",
-  "agentSubtitle": "\"Chystají se tento týden nějaké skupinové rezervace?\" \"Napište odpověď škole s dostupností.\" Chiefy zná vaši doručenou poštu a plán – stačí se zeptat.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první vidíte rezervace lekcí, jako druhé otázky a nikdy nešum. Už žádné zmeškání dotazu na školní skupinu zasypané upozorněními Yelp.",
+  "draftSubtitle": "Duet se naučí vaše typy lekcí, skupinové ceny a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s dostupností, co je zahrnuto a co si vzít s sebou. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Chystají se tento týden nějaké skupinové rezervace?\" \"Napište odpověď škole s dostupností.\" Duet zná vaši doručenou poštu a plán – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Coach Mike T.",
       "title": "Vlastník školy surfování, CA",
-      "quote": "Jsem ve vodě a učím 6 hodin denně. V době, kdy jsem zkontroloval e-mail, polovina rezervací odešla někomu jinému. Nyní návrhy Chiefy odpoví s mými cenami a dostupností – mezi relacemi pouze přezkoumávám.",
+      "quote": "Jsem ve vodě a učím 6 hodin denně. V době, kdy jsem zkontroloval e-mail, polovina rezervací odešla někomu jinému. Nyní návrhy Duet odpoví s mými cenami a dostupností – mezi relacemi pouze přezkoumávám.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Lekce a půjčovny paddleboardů, HI",
-      "quote": "Provozujeme lekce a půjčovny desek ze stejné schránky. Chiefy okamžitě zjistila rozdíl – otázky týkající se pronájmu získají odpovědi na pronájem, dotazy týkající se lekce získají podrobnosti o lekci. Je to jako mít recepci.",
+      "quote": "Provozujeme lekce a půjčovny desek ze stejné schránky. Duet okamžitě zjistila rozdíl – otázky týkající se pronájmu získají odpovědi na pronájem, dotazy týkající se lekce získají podrobnosti o lekci. Je to jako mít recepci.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Instruktor surfování, FL",
-      "quote": "Školní skupinové rezervace dříve přebíraly 10 e-mailů tam a zpět. Nyní Chiefy navrhuje první odpověď se skupinovými sazbami, tím, co je zahrnuto, a stvrzenkou o povolení. Přestřihne celou nit na polovinu.",
+      "quote": "Školní skupinové rezervace dříve přebíraly 10 e-mailů tam a zpět. Nyní Duet navrhuje první odpověď se skupinovými sazbami, tím, co je zahrnuto, a stvrzenkou o povolení. Přestřihne celou nit na polovinu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP Tours & Lessons, OR",
-      "quote": "Hlavní sezóna mě zabíjela – 30 e-mailů denně o podmínkách, cenách, co si vzít s sebou. Stále dokola stejných pět otázek. Chiefy zvládá všechny a znějí přesně jako já.",
+      "quote": "Hlavní sezóna mě zabíjela – 30 e-mailů denně o podmínkách, cenách, co si vzít s sebou. Stále dokola stejných pět otázek. Duet zvládá všechny a znějí přesně jako já.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Ředitel dětského surfového tábora, SC",
-      "quote": "Rodiče posílají nejdelší e-maily. Termíny táborů, alergie, úrovně dovedností, časy vyzvednutí. Chiefy navrhuje podrobné odpovědi, které pokrývají vše, takže po celém dni na pláži nepíšu odstavce na 10 PM.",
+      "quote": "Rodiče posílají nejdelší e-maily. Termíny táborů, alergie, úrovně dovedností, časy vyzvednutí. Duet navrhuje podrobné odpovědi, které pokrývají vše, takže po celém dni na pláži nepíšu odstavce na 10 PM.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Zvládá Chiefy různé typy lekcí a zapůjčení vybavení?",
-      "answer": "Ano. Chiefy se naučí všechny vaše nabídky – soukromé lekce, skupinové lekce, dětské tábory, půjčovny prken, zájezdy SUP. Když přijde dotaz, navrhne odpověď se správnou cenou, dobou trvání, tím, co je zahrnuto a co má přinést. Ví, že e-mail školní skupiny potřebuje jiné podrobnosti než rezervace soukromé lekce."
+      "question": "Zvládá Duet různé typy lekcí a zapůjčení vybavení?",
+      "answer": "Ano. Duet se naučí všechny vaše nabídky – soukromé lekce, skupinové lekce, dětské tábory, půjčovny prken, zájezdy SUP. Když přijde dotaz, navrhne odpověď se správnou cenou, dobou trvání, tím, co je zahrnuto a co má přinést. Ví, že e-mail školní skupiny potřebuje jiné podrobnosti než rezervace soukromé lekce."
     },
     {
       "question": "A co otázky ohledně počasí a podmínek?",
-      "answer": "Chiefy se naučí, jak obvykle zacházíte s e-maily s podmínkami – vaše zásady týkající se zrušení, přeplánování a podmínek, za kterých učíte. Když někdo pošle e-mail s dotazem, zda bude jeho lekce pokračovat, Chiefy navrhne odpověď odpovídající vašemu obvyklému tónu a zásadám. Zkontrolujete a odešlete během několika sekund."
+      "answer": "Duet se naučí, jak obvykle zacházíte s e-maily s podmínkami – vaše zásady týkající se zrušení, přeplánování a podmínek, za kterých učíte. Když někdo pošle e-mail s dotazem, zda bude jeho lekce pokračovat, Duet navrhne odpověď odpovídající vašemu obvyklému tónu a zásadám. Zkontrolujete a odešlete během několika sekund."
     }
   ],
   "pricingNote": "U $90/lesson platí dvě ušetřené rezervace za více než rok Pro."

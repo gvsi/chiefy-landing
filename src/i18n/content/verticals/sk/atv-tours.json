@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Chiefy pre ATV a UTV túry | AI asistent na e-maily",
-  "metaDescription": "Chiefy pomáha sprievodcom ATV a UTV túr okamžite odpovedať na e-maily s rezerváciami — aj priamo z trasy. AI pripraví odpovede s vašimi cenami, požiadavkami a vaším štýlom.",
+  "pageTitle": "Duet Mail pre ATV a UTV túry | AI asistent na e-maily",
+  "metaDescription": "Duet Mail pomáha sprievodcom ATV a UTV túr okamžite odpovedať na e-maily s rezerváciami — aj priamo z trasy. AI pripraví odpovede s vašimi cenami, požiadavkami a vaším štýlom.",
   "heroBadge": "Dôveruje mu viac ako 200 sprievodcov",
   "heroHeadline": "Váš e-mailový asistent, keď ste na trase",
-  "heroSubline": "Chiefy sa naučí typy vašich túr, ceny a požiadavky na jazdcov — a potom pripraví odpovede na e-maily, aby ste nikdy neprišli o rezerváciu pre pomalú reakciu.",
+  "heroSubline": "Duet sa naučí typy vašich túr, ceny a požiadavky na jazdcov — a potom pripraví odpovede na e-maily, aby ste nikdy neprišli o rezerváciu pre pomalú reakciu.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "skupina (4 stroje)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Jedna zachránená skupinová rezervácia zaplatí rok Chiefy."
+    "punchline": "Jedna zachránená skupinová rezervácia zaplatí rok Duet."
   },
-  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže najprv vidíte žiadosti o rezerváciu, potom otázky o poistení a hluk nikdy. Už žiadne prehliadnuté skupinové dopyty skryté pod upozorneniami TripAdvisor.",
-  "draftSubtitle": "Chiefy sa naučí trasy vašich túr, ceny a požiadavky na jazdcov. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s detailmi výletu, cenou a tým, čo si priniesť. Vy ju skontrolujete a odošlete.",
-  "agentSubtitle": "\"Máte nejaké skupiny rezervované na tento víkend?\" \"Priprav odpoveď Rachel s voľnou kapacitou v sobotu.\" Chiefy pozná vašu doručenú poštu aj rozvrh — stačí sa opýtať.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže najprv vidíte žiadosti o rezerváciu, potom otázky o poistení a hluk nikdy. Už žiadne prehliadnuté skupinové dopyty skryté pod upozorneniami TripAdvisor.",
+  "draftSubtitle": "Duet sa naučí trasy vašich túr, ceny a požiadavky na jazdcov. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s detailmi výletu, cenou a tým, čo si priniesť. Vy ju skontrolujete a odošlete.",
+  "agentSubtitle": "\"Máte nejaké skupiny rezervované na tento víkend?\" \"Priprav odpoveď Rachel s voľnou kapacitou v sobotu.\" Duet pozná vašu doručenú poštu aj rozvrh — stačí sa opýtať.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "Sprievodca ATV, južný Utah",
-      "quote": "Vediem 8-hodinové túry kaňonmi bez signálu. Kým som sa vrátil, polovica mojich e-mailov s rezerváciami stratila záujem. Chiefy pripraví odpovede s mojimi cenami a informáciami o trase — ja ich len na konci dňa skontrolujem.",
+      "quote": "Vediem 8-hodinové túry kaňonmi bez signálu. Kým som sa vrátil, polovica mojich e-mailov s rezerváciami stratila záujem. Duet pripraví odpovede s mojimi cenami a informáciami o trase — ja ich len na konci dňa skontrolujem.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "Prevádzkovateľ UTV túr, Colorado",
-      "quote": "Robíme túry 7 dní v týždni a samotné otázky o poistení a zrieknutí sa zodpovednosti mi brali celé rána. Chiefy vybaví všetko — požiadavky na jazdcov, vekové obmedzenia, čo si priniesť. Znie presne ako ja.",
+      "quote": "Robíme túry 7 dní v týždni a samotné otázky o poistení a zrieknutí sa zodpovednosti mi brali celé rána. Duet vybaví všetko — požiadavky na jazdcov, vekové obmedzenia, čo si priniesť. Znie presne ako ja.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Sprievodca Jeep túr, Moab",
-      "quote": "Ľudia píšu a pýtajú sa, ktorá trasa je vhodná pre ich skupinu, akú úroveň skúseností potrebujú, či môžu ísť aj deti. Stále tie isté 5 otázky dokola. Chiefy trafí každú z nich presne.",
+      "quote": "Ľudia píšu a pýtajú sa, ktorá trasa je vhodná pre ich skupinu, akú úroveň skúseností potrebujú, či môžu ísť aj deti. Stále tie isté 5 otázky dokola. Duet trafí každú z nich presne.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Každý večer som trávila viac než hodinu odpovedaním na tie isté otázky o dostupnosti. Teraz Chiefy pripravuje odpovede, zatiaľ čo som na trase. Môj čas reakcie sa skrátil z hodín na minúty.",
+      "quote": "Každý večer som trávila viac než hodinu odpovedaním na tie isté otázky o dostupnosti. Teraz Duet pripravuje odpovede, zatiaľ čo som na trase. Môj čas reakcie sa skrátil z hodín na minúty.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Rodinné ATV túry, Sedona",
-      "quote": "Dostávame veľa otázok od rodín o trasách pre začiatočníkov a vekových požiadavkách. Chiefy sa naučil všetky naše možnosti túr a v každej odpovedi odporučí tú správnu. Klienti nevedia rozoznať rozdiel.",
+      "quote": "Dostávame veľa otázok od rodín o trasách pre začiatočníkov a vekových požiadavkách. Duet sa naučil všetky naše možnosti túr a v každej odpovedi odporučí tú správnu. Klienti nevedia rozoznať rozdiel.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite bezplatnú skúšobnú verziu. Pripojte si inbox za 30 sekúnd.",
   "verticalFaqs": [
     {
-      "question": "Zvláda Chiefy otázky o poistení a formulároch o zrieknutí sa zodpovednosti?",
-      "answer": "Áno. Chiefy sa naučí požiadavky na jazdcov — zodpovednostné poistenie, vekové obmedzenia, detaily formulárov, čo si jazdci majú priniesť. Keď niekto napíše a pýta sa, čo potrebuje pred túrou, Chiefy pripraví kompletnú odpoveď so všetkými detailmi. Vy ju skontrolujete a odošlete."
+      "question": "Zvláda Duet otázky o poistení a formulároch o zrieknutí sa zodpovednosti?",
+      "answer": "Áno. Duet sa naučí požiadavky na jazdcov — zodpovednostné poistenie, vekové obmedzenia, detaily formulárov, čo si jazdci majú priniesť. Keď niekto napíše a pýta sa, čo potrebuje pred túrou, Duet pripraví kompletnú odpoveď so všetkými detailmi. Vy ju skontrolujete a odošlete."
     },
     {
-      "question": "Som celý deň na trase bez signálu. Ako mi Chiefy pomôže?",
-      "answer": "Presne preto si sprievodcovia Chiefy obľúbili. Zatiaľ čo vediete 6–8-hodinovú túru bez signálu, dopyty na rezervácie sa hromadia. Chiefy pripraví odpovede na každý z nich — ceny, dostupnosť, miesto stretnutia, čo si obliecť. Keď sa vrátite, návrhy skontrolujete a odošlete. Väčšina sprievodcov nám hovorí, že im to počas hlavnej sezóny ušetrí 1–2 hodiny denne."
+      "question": "Som celý deň na trase bez signálu. Ako mi Duet pomôže?",
+      "answer": "Presne preto si sprievodcovia Duet obľúbili. Zatiaľ čo vediete 6–8-hodinovú túru bez signálu, dopyty na rezervácie sa hromadia. Duet pripraví odpovede na každý z nich — ceny, dostupnosť, miesto stretnutia, čo si obliecť. Keď sa vrátite, návrhy skontrolujete a odošlete. Väčšina sprievodcov nám hovorí, že im to počas hlavnej sezóny ušetrí 1–2 hodiny denne."
     }
   ],
   "pricingNote": "Pri 200 $ za stroj ušetrí jedna skupina 4 osôb viac než rok Pro."

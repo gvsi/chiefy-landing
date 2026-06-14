@@ -2,7 +2,7 @@
 title: "Hur man skapar en interaktiv e-postsignatur som fungerar"
 description: "Lär dig hur du skapar en interaktiv e-postsignatur för att öka engagemang, varumärke och potentiella kunder. Steg-för-steg-guide för frilansare och nystartade företag"
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "E-post"]
 draft: false
 ---
@@ -126,7 +126,7 @@ En interaktiv signatur är utformad för att utlösa action – ett klick, ett s
 
 Det är här som integration av din signaturstrategi med smarta verktyg för e-posthantering kan göra skillnad. När potentiella kunder börjar klicka på länken "Boka ett möte" som genereras av din fantastiska signatur, behöver du ett system för att hantera efterföljande schemaläggning och kommunikation smidigt. På samma sätt är det nyckeln till att bygga relationer att behålla den professionella ton som din signatur anger i varje uppföljande e-postmeddelande.
 
-Verktyg utformade för e-postproduktivitet, som [Chiefy](https://chiefy.com/sv), kan hjälpa till att överbrygga detta gap. Föreställ dig att få AI-hjälp för att skapa snabba, personliga svar som bibehåller din unika röst efter att någon interagerar med din signaturs CTA. Chiefy s funktioner som **AI Triage** kan hjälpa till att få fram viktiga svar som genereras från signaturinteraktioner, medan dess **Autentiska AI-utkast** säkerställer att dina uppföljningar låter precis som du, och bevarar den professionalism som dina signaturprojekt ger. Det förvandlar engagemanget som utlösts av din signatur till välskötta, produktiva konversationer.
+Verktyg utformade för e-postproduktivitet, som [Duet Mail](https://duetmail.com/sv), kan hjälpa till att överbrygga detta gap. Föreställ dig att få AI-hjälp för att skapa snabba, personliga svar som bibehåller din unika röst efter att någon interagerar med din signaturs CTA. Duet Mail s funktioner som **AI Triage** kan hjälpa till att få fram viktiga svar som genereras från signaturinteraktioner, medan dess **Autentiska AI-utkast** säkerställer att dina uppföljningar låter precis som du, och bevarar den professionalism som dina signaturprojekt ger. Det förvandlar engagemanget som utlösts av din signatur till välskötta, produktiva konversationer.
 
 ## Är du redo att aktivera din signatur?
 

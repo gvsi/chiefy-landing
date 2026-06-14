@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy vaalavaatlustuuridele | AI e-posti assistent",
-  "metaDescription": "Chiefy aitab vaalavaatluskaptenitel broneerimiskirjadele koheselt vastata – isegi veest. Tehisintellekti koostatud vastused koos teie ringkäigu üksikasjade, hindade ja häälega.",
+  "pageTitle": "Duet Mail vaalavaatlustuuridele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab vaalavaatluskaptenitel broneerimiskirjadele koheselt vastata – isegi veest. Tehisintellekti koostatud vastused koos teie ringkäigu üksikasjade, hindade ja häälega.",
   "heroBadge": "Usaldab 300+ reisikaptenit",
   "heroHeadline": "Teie e-posti assistent, kui olete vaalu märkamas",
-  "heroSubline": "Chiefy saab teada teie ringreisi ajakava, hinnad ja hääle – seejärel koostab meilivastuste mustandid, et te ei kaotaks kunagi broneeringut, kui olete vee peal.",
+  "heroSubline": "Duet saab teada teie ringreisi ajakava, hinnad ja hääle – seejärel koostab meilivastuste mustandid, et te ei kaotaks kunagi broneeringut, kui olete vee peal.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "reisigrupp",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Üks salvestatud grupibroneering maksab Chiefy aasta eest."
+    "punchline": "Üks salvestatud grupibroneering maksab Duet aasta eest."
   },
-  "categorizationSubtitle": "Chiefy märgistab automaatselt kõik meilid, nii et näete esmalt broneerimistaotlusi, seejärel kruiisilaevade ajakava muudatusi ja mitte kunagi müra. Enam ei puudu TripAdvisor hoiatusteadete alla mattunud privaatne tšarterreisipäring.",
-  "draftSubtitle": "Chiefy saab teada teie ringreisi ajad, hinnad ja eeskirjad. Kui broneeringupäring saabub, koostab see täieliku vastuse koos saadavuse, kaasasoleva ja kaasavõetava teabega. Vaatad üle ja saadad.",
-  "agentSubtitle": "\"Mitu kohta on jäänud laupäeva hommikusele tuurile?\" \"Vastuse mustand Rachelile saadavuse korral.\" Chiefy teab teie postkasti ja ajakava – lihtsalt küsige.",
+  "categorizationSubtitle": "Duet märgistab automaatselt kõik meilid, nii et näete esmalt broneerimistaotlusi, seejärel kruiisilaevade ajakava muudatusi ja mitte kunagi müra. Enam ei puudu TripAdvisor hoiatusteadete alla mattunud privaatne tšarterreisipäring.",
+  "draftSubtitle": "Duet saab teada teie ringreisi ajad, hinnad ja eeskirjad. Kui broneeringupäring saabub, koostab see täieliku vastuse koos saadavuse, kaasasoleva ja kaasavõetava teabega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Mitu kohta on jäänud laupäeva hommikusele tuurile?\" \"Vastuse mustand Rachelile saadavuse korral.\" Duet teab teie postkasti ja ajakava – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "Kruiisilaevareisijad vajavad kiiresti vastuseid – neil on sadamas vaid 6 tundi. Varem kaotasin eratšarterreisid, kuna olin päringu saabudes vee peal. Nüüd koostab Chiefy vastused minu hinnakujunduse ja pealevõtmise üksikasjadega enne, kui ma dokki saan.",
+      "quote": "Kruiisilaevareisijad vajavad kiiresti vastuseid – neil on sadamas vaid 6 tundi. Varem kaotasin eratšarterreisid, kuna olin päringu saabudes vee peal. Nüüd koostab Duet vastused minu hinnakujunduse ja pealevõtmise üksikasjadega enne, kui ma dokki saan.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria ja Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Teeme küüruhooajal kaks tuuri päevas ja meilide maht on ebareaalne. \"Kas me näeme vaalu?\" \"Mida ma peaksin kandma?\" \"Kas homne on ära jäänud?\" Chiefy tegeleb korduvate küsimustega ja meie keskendume ringkäikudele.",
+      "quote": "Teeme küüruhooajal kaks tuuri päevas ja meilide maht on ebareaalne. \"Kas me näeme vaalu?\" \"Mida ma peaksin kandma?\" \"Kas homne on ära jäänud?\" Duet tegeleb korduvate küsimustega ja meie keskendume ringkäikudele.",
       "avatarKey": "francesca"
     },
     {
       "name": "Kapten Ben T.",
       "title": "Ookeaniekskursioonid, HI",
-      "quote": "Vastasin igal õhtul samale kümnele küsimusele – hinnad, hinnad, merehaiguse näpunäited, laste vanusepiirangud. Chiefy õppis seda kõike esimesel nädalal. Minu reageerimisaeg läks 8 tunnilt 8 minutile.",
+      "quote": "Vastasin igal õhtul samale kümnele küsimusele – hinnad, hinnad, merehaiguse näpunäited, laste vanusepiirangud. Duet õppis seda kõike esimesel nädalal. Minu reageerimisaeg läks 8 tunnilt 8 minutile.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Broneerimisjuht, Vaikse ookeani loodeosa",
-      "quote": "Ilmastiku tühistamised on kõige hullemad — 30 inimest vajab korraga ümberbroneerimist ja mina žongleerin telefonikõnedega. Chiefy koostab iga külalise jaoks isikupärastatud ajakava muutmise e-kirjad. See, mis mul varem võttis 2 tundi, võtab nüüd 15 minutit.",
+      "quote": "Ilmastiku tühistamised on kõige hullemad — 30 inimest vajab korraga ümberbroneerimist ja mina žongleerin telefonikõnedega. Duet koostab iga külalise jaoks isikupärastatud ajakava muutmise e-kirjad. See, mis mul varem võttis 2 tundi, võtab nüüd 15 minutit.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess ja Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Oleme kahe inimese operatsioon – mina kapten, tema juhib logistikat. Tipphooajal veetis ta 3 tundi öösel meilile. Chiefy lõikas selle 30 minutiks. Ta saab tegelikult oma õhtud nüüd tagasi.",
+      "quote": "Oleme kahe inimese operatsioon – mina kapten, tema juhib logistikat. Tipphooajal veetis ta 3 tundi öösel meilile. Duet lõikas selle 30 minutiks. Ta saab tegelikult oma õhtud nüüd tagasi.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Kas Chiefy tegeleb ilmateate tühistamiste ja kruiisilaevade ajakava muudatustega?",
-      "answer": "Jah. Kui tühistate ringreisi ilmastikuolude või ristluslaeva saabumisaja nihke tõttu, saate Chiefy ile ühe korra teatada ja see koostab iga mõjutatud külalise jaoks isikupärastatud ajakava või värskendab meilisõnumeid. Enam pole vaja sama sõnumit 30 korda kopeerida ja kleepida. Iga vastus sisaldab külalise esialgseid broneeringu üksikasju ja saadaolevaid alternatiive."
+      "question": "Kas Duet tegeleb ilmateate tühistamiste ja kruiisilaevade ajakava muudatustega?",
+      "answer": "Jah. Kui tühistate ringreisi ilmastikuolude või ristluslaeva saabumisaja nihke tõttu, saate Duet ile ühe korra teatada ja see koostab iga mõjutatud külalise jaoks isikupärastatud ajakava või värskendab meilisõnumeid. Enam pole vaja sama sõnumit 30 korda kopeerida ja kleepida. Iga vastus sisaldab külalise esialgseid broneeringu üksikasju ja saadaolevaid alternatiive."
     },
     {
-      "question": "Meile esitatakse pidevalt samu küsimusi - \"kas me näeme vaalu?\", \"Mida ma peaksin selga panema?\", \"Kas see sobib lastele?\" Kas Chiefy saab nendega hakkama?",
-      "answer": "Täpselt seal särab Chiefy. See õpib selgeks teie standardvastused – liigid, mida tavaliselt näete, mida kaasa võtta, vanusepoliitika, merehaiguse näpunäited, väljumisajad – ja koostab koheselt täielikud vastused. Vaatad üle ja saadad. Enamik kapteneid ütleb meile, et 80% nende postkastist on samad 10 küsimust ja Chiefy käsitleb neid kõiki."
+      "question": "Meile esitatakse pidevalt samu küsimusi - \"kas me näeme vaalu?\", \"Mida ma peaksin selga panema?\", \"Kas see sobib lastele?\" Kas Duet saab nendega hakkama?",
+      "answer": "Täpselt seal särab Duet. See õpib selgeks teie standardvastused – liigid, mida tavaliselt näete, mida kaasa võtta, vanusepoliitika, merehaiguse näpunäited, väljumisajad – ja koostab koheselt täielikud vastused. Vaatad üle ja saadad. Enamik kapteneid ütleb meile, et 80% nende postkastist on samad 10 küsimust ja Duet käsitleb neid kõiki."
     }
   ],
   "pricingNote": "Kell $125/person maksab üks säästetud 6-liikmeline grupp rohkem kui aasta Pro eest."

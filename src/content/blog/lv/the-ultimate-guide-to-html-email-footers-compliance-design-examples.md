@@ -2,7 +2,7 @@
 title: "Pilnīgs HTML e-pasta kājenes ceļvedis: atbilstība, dizains un piemēri"
 description: "HTML e-pasta kājenes apguve: svarīgākie elementi, dizaina padomi, atbilstība tiesību aktiem (CAN-SPAM, GDPR, CASL) un zīmola veidošanas piemēri."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["Mākslīgais intelekts", "E-pasts"]
 draft: false
 ---
@@ -120,4 +120,4 @@ Jūsu HTML e-pasta kājene varētu būt pēdējā lieta, ko redz adresāti, tač
 
 Tas veido uzticību, stiprina jūsu zīmolu, nodrošina atbilstību prasībām un nodrošina noderīgu navigāciju jūsu auditorijai. Veltiet dažas minūtes, lai pārskatītu savu pašreizējo e-pasta kājeni. Vai tā ir atbilstoša prasībām? Vai tā ir skaidra? Vai tā ir piemērota mobilajām ierīcēm? Šo nelielo uzlabojumu veikšana var būtiski ietekmēt to, kā tiek uztverti jūsu e-pasti un jūsu zīmols.
 
-Meklējat veidus, kā padarīt savu e-pasta pārvaldību efektīvāku un profesionālāku? Apsveriet iespēju izpētīt rīkus, kas paredzēti aizņemtiem profesionāļiem. Piemēram, uzzinot, kā [Chiefy vienkāršo e-pasta produktivitāti](https://chiefy.com/lv/lv) ar mākslīgā intelekta darbinātām funkcijām, varētu būt vairāk laika, ko veltīt tādu detaļu kā kājenes pilnveidošanai un nodrošināt, lai katra saziņa jūs labi atspoguļotu.
+Meklējat veidus, kā padarīt savu e-pasta pārvaldību efektīvāku un profesionālāku? Apsveriet iespēju izpētīt rīkus, kas paredzēti aizņemtiem profesionāļiem. Piemēram, uzzinot, kā [Duet Mail vienkāršo e-pasta produktivitāti](https://duetmail.com/lv/lv) ar mākslīgā intelekta darbinātām funkcijām, varētu būt vairāk laika, ko veltīt tādu detaļu kā kājenes pilnveidošanai un nodrošināt, lai katra saziņa jūs labi atspoguļotu.

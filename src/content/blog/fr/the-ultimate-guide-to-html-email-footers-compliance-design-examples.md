@@ -2,7 +2,7 @@
 title: "Le guide ultime des pieds de page d’e-mails HTML : conformité, design et exemples"
 description: "Maîtrisez les pieds de page d’e-mails HTML : éléments essentiels, conseils de design, conformité légale (CAN-SPAM, GDPR, CASL) et exemples de branding."
 publishedAt: 2026-01-05
-author: "Équipe Chiefy"
+author: "Équipe Duet Mail"
 tags: ["IA", "Email"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Votre pied de page HTML d’e-mail est peut-être la dernière chose que voient 
 
 Il renforce la confiance, consolide votre marque, assure la conformité et offre une navigation utile à votre audience. Prenez quelques minutes pour revoir votre pied de page actuel. Est-il conforme ? Est-il clair ? Est-il adapté au mobile ? Ces petites améliorations peuvent avoir un impact important sur la perception de vos e-mails — et de votre marque.
 
-Vous cherchez des moyens de rendre la gestion globale de vos e-mails plus efficace et plus professionnelle ? Pensez à explorer des outils conçus pour les professionnels très occupés. Par exemple, apprendre comment [Chiefy simplifie la productivité e-mail](https://chiefy.com/fr) grâce à des fonctionnalités optimisées par l’IA pourrait vous libérer du temps pour vous concentrer sur le perfectionnement de détails comme votre pied de page et sur le fait que chaque communication vous représente au mieux.
+Vous cherchez des moyens de rendre la gestion globale de vos e-mails plus efficace et plus professionnelle ? Pensez à explorer des outils conçus pour les professionnels très occupés. Par exemple, apprendre comment [Duet Mail simplifie la productivité e-mail](https://duetmail.com/fr) grâce à des fonctionnalités optimisées par l’IA pourrait vous libérer du temps pour vous concentrer sur le perfectionnement de détails comme votre pied de page et sur le fait que chaque communication vous représente au mieux.

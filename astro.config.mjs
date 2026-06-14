@@ -57,7 +57,7 @@ function filterSitemapPage(page) {
 
 export default defineConfig({
     output: "static",
-    site: "https://chiefy.com",
+    site: "https://duetmail.com",
     trailingSlash: "never",
     build: {
         format: "file",

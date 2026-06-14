@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy za dizajnere enterijera | AI Pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže dizajnerima enterijera da upravljaju imejlovima klijenata, koordinaciji izvođača i narudžbinama dobavljača — čak i sa gradilišta. AI nacrt odgovora sa detaljima vašeg projekta, preferencijama i glasom.",
+  "pageTitle": "Duet Mail za dizajnere enterijera | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže dizajnerima enterijera da upravljaju imejlovima klijenata, koordinaciji izvođača i narudžbinama dobavljača — čak i sa gradilišta. AI nacrt odgovora sa detaljima vašeg projekta, preferencijama i glasom.",
   "heroBadge": "Ima poverenja od 400+ dizajnera enterijera",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na licu mesta sa klijentima",
-  "heroSubline": "Chiefy saznaje vaše kontakte dobavljača, detalje projekta i preferencije klijenata — zatim pravi nacrte odgovora e-poštom tako da nikada ne izgubite klijenta zbog sporog odgovora.",
+  "heroSubline": "Duet saznaje vaše kontakte dobavljača, detalje projekta i preferencije klijenata — zatim pravi nacrte odgovora e-poštom tako da nikada ne izgubite klijenta zbog sporog odgovora.",
   "inboxEmails": [
     {
       "from": "Rejčel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekat",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Jedan sačuvani klijent plaća za godine od Chiefy."
+    "punchline": "Jedan sačuvani klijent plaća za godine od Duet."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite nove upite klijenata, zatim odobrenja na čekanju, a biltene dobavljača nikada. Nema više propuštanja konsultacija o dizajnu zakopanih u promocijama sajmova.",
-  "draftSubtitle": "Chiefy uči vaš proces, detalje projekta i ton. Kada se pojavi novi upit ili pitanje klijenta, on sastavlja kompletan odgovor sa vašom dostupnošću, sledećim koracima i specifičnostima projekta. Pregledate i pošaljete.",
-  "agentSubtitle": "„Kakav je status projekta Henderson?“ „Koja odobrenja još čekaju?“ Chiefy zna vaše prijemno sanduče i svaku nit projekta — samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite nove upite klijenata, zatim odobrenja na čekanju, a biltene dobavljača nikada. Nema više propuštanja konsultacija o dizajnu zakopanih u promocijama sajmova.",
+  "draftSubtitle": "Duet uči vaš proces, detalje projekta i ton. Kada se pojavi novi upit ili pitanje klijenta, on sastavlja kompletan odgovor sa vašom dostupnošću, sledećim koracima i specifičnostima projekta. Pregledate i pošaljete.",
+  "agentSubtitle": "„Kakav je status projekta Henderson?“ „Koja odobrenja još čekaju?“ Duet zna vaše prijemno sanduče i svaku nit projekta — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rejčel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Majkl R.",
       "title": "Glavni dizajner, Austin TKS",
-      "quote": "Na licu mesta sam 6 sati dnevno i koordiniram molere, električare i instalatere pločica. U međuvremenu tri druga klijenta šalju e-poštu o svojim projektima. Chiefy nacrti odgovora sa pravim detaljima projekta — samo pregledam između poseta sajtu.",
+      "quote": "Na licu mesta sam 6 sati dnevno i koordiniram molere, električare i instalatere pločica. U međuvremenu tri druga klijenta šalju e-poštu o svojim projektima. Duet nacrti odgovora sa pravim detaljima projekta — samo pregledam između poseta sajtu.",
       "avatarKey": "michael"
     },
     {
       "name": "Frančeska D.",
       "title": "Dizajner stambenog enterijera, Čikago",
-      "quote": "Pitanja klijenata su trajala danima jer sam bio zatrpan mejlovima o nabavkama i zakazivanju izvođača. Sada Chiefy odgovara na nove potencijalne klijente za nekoliko minuta sa mojim procesom i dostupnošću. Rezervisao sam 4 dodatna projekta u ovom tromesečju.",
+      "quote": "Pitanja klijenata su trajala danima jer sam bio zatrpan mejlovima o nabavkama i zakazivanju izvođača. Sada Duet odgovara na nove potencijalne klijente za nekoliko minuta sa mojim procesom i dostupnošću. Rezervisao sam 4 dodatna projekta u ovom tromesečju.",
       "avatarKey": "francesca"
     },
     {
       "name": "Džoni M.",
       "title": "Vlasnik dizajnerskog studija, Nešvil",
-      "quote": "Ubijalo me je upravljanje imejlovima za 12 aktivnih projekata. Chiefy kategorizuje sve — nove upite, odobrenja na čekanju, porudžbine dobavljača, ažuriranja izvođača — tako da znam tačno šta prvo treba da obratim pažnju.",
+      "quote": "Ubijalo me je upravljanje imejlovima za 12 aktivnih projekata. Duet kategorizuje sve — nove upite, odobrenja na čekanju, porudžbine dobavljača, ažuriranja izvođača — tako da znam tačno šta prvo treba da obratim pažnju.",
       "avatarKey": "Johnni"
     },
     {
       "name": "Dženifer S.",
       "title": "Dekorater enterijera, San Dijego",
-      "quote": "Gubio sam potencijalne klijente jer nisam mogao da odgovorim dovoljno brzo tokom nedelja instaliranja. Chiefy je naučio moj proces konsultacija, strukturu cena, čak i kako opisujem svoj stil dizajna. Klijenti nemaju pojma da je uz pomoć AI.",
+      "quote": "Gubio sam potencijalne klijente jer nisam mogao da odgovorim dovoljno brzo tokom nedelja instaliranja. Duet je naučio moj proces konsultacija, strukturu cena, čak i kako opisujem svoj stil dizajna. Klijenti nemaju pojma da je uz pomoć AI.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sara K.",
       "title": "Dizajner komercijalnih enterijera, Denver",
-      "quote": "Između vremena isporuke dobavljača, rasporeda izvođača i zahteva klijenta za reviziju, moje prijemno sanduče je bilo haos. Chiefy sve to sortira i pravi nacrte praćenja odobrenja na čekanju. To je kao da imate koordinatora projekta koji nikada ne spava.",
+      "quote": "Između vremena isporuke dobavljača, rasporeda izvođača i zahteva klijenta za reviziju, moje prijemno sanduče je bilo haos. Duet sve to sortira i pravi nacrte praćenja odobrenja na čekanju. To je kao da imate koordinatora projekta koji nikada ne spava.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Žongliram sa 8-10 projekata odjednom. Može li ih Chiefy držati ravno?",
-      "answer": "Da. Chiefy prati svaku nit e-pošte po klijentu i projektu. Kada pitate o kuhinji Henderson ili kancelariji Park Avenue, ona izvlači kontekst iz svih povezanih razgovora — narudžbine dobavljača, ažuriranja izvođača, odobrenja klijenata — tako da su vaši odgovori uvek tačni i specifični za projekat. Nema mešanja koja je pločica za kojeg klijenta."
+      "question": "Žongliram sa 8-10 projekata odjednom. Može li ih Duet držati ravno?",
+      "answer": "Da. Duet prati svaku nit e-pošte po klijentu i projektu. Kada pitate o kuhinji Henderson ili kancelariji Park Avenue, ona izvlači kontekst iz svih povezanih razgovora — narudžbine dobavljača, ažuriranja izvođača, odobrenja klijenata — tako da su vaši odgovori uvek tačni i specifični za projekat. Nema mešanja koja je pločica za kojeg klijenta."
     },
     {
-      "question": "Koordiniram sa mnogim izvođačima i prodavcima. Da li Chiefy pomaže u tome?",
-      "answer": "Apsolutno. Chiefy saznaje kontakte vaših izvođača, predstavnike dobavljača i kontekst uloge svake trgovine u vašim projektima. Kada vaš električar pošalje e-poštu da je grubo uređivanje završeno, Chiefy može da nacrta odgovor koji potvrđuje sledeći korak ili petlju u instalateru uređaja. Održava tok posla u pokretu čak i kada ste u drugom delu grada na drugom radnom mestu."
+      "question": "Koordiniram sa mnogim izvođačima i prodavcima. Da li Duet pomaže u tome?",
+      "answer": "Apsolutno. Duet saznaje kontakte vaših izvođača, predstavnike dobavljača i kontekst uloge svake trgovine u vašim projektima. Kada vaš električar pošalje e-poštu da je grubo uređivanje završeno, Duet može da nacrta odgovor koji potvrđuje sledeći korak ili petlju u instalateru uređaja. Održava tok posla u pokretu čak i kada ste u drugom delu grada na drugom radnom mestu."
     }
   ],
-  "pricingNote": "Sa 10.000 dolara po projektu, jedan ušteđeni klijent plaća godine od Chiefy Pro."
+  "pricingNote": "Sa 10.000 dolara po projektu, jedan ušteđeni klijent plaća godine od Duet Pro."
 }

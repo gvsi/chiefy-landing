@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy for indretningsarkitekter | AI-e-mail-assistent",
-  "metaDescription": "Chiefy hjælper indretningsarkitekter med at administrere kunde-e-mails, entreprenørkoordinering og leverandørordrer - selv fra arbejdspladsen. AI-udkastede svar med dine projektdetaljer, præferencer og stemme.",
+  "pageTitle": "Duet Mail for indretningsarkitekter | AI-e-mail-assistent",
+  "metaDescription": "Duet Mail hjælper indretningsarkitekter med at administrere kunde-e-mails, entreprenørkoordinering og leverandørordrer - selv fra arbejdspladsen. AI-udkastede svar med dine projektdetaljer, præferencer og stemme.",
   "heroBadge": "Betroet af 400+ indretningsarkitekter",
   "heroHeadline": "Din e-mail-assistent, mens du er på stedet med kunder",
-  "heroSubline": "Chiefy lærer dine leverandørkontakter, projektdetaljer og klientpræferencer at kende - og udarbejder derefter e-mailsvar, så du aldrig mister en klient på grund af et langsomt svar.",
+  "heroSubline": "Duet lærer dine leverandørkontakter, projektdetaljer og klientpræferencer at kende - og udarbejder derefter e-mailsvar, så du aldrig mister en klient på grund af et langsomt svar.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Én gemt klient betaler for mange år på Chiefy."
+    "punchline": "Én gemt klient betaler for mange år på Duet."
   },
-  "categorizationSubtitle": "Chiefy tagger automatisk hver e-mail, så du ser nye kundeforespørgsler først, dernæst afventende godkendelser, og leverandørens nyhedsbreve aldrig. Gå ikke længere glip af en designkonsultation begravet under messekampagner.",
-  "draftSubtitle": "Chiefy lærer din proces, projektdetaljer og tone. Når en ny forespørgsel eller kundespørgsmål rammer, udarbejder den et komplet svar med din tilgængelighed, næste trin og projektspecifikationer. Du anmelder og sender.",
-  "agentSubtitle": "\"Hvad er status på Henderson-projektet?\" \"Hvilke godkendelser mangler stadig?\"Chiefy kender din indbakke og hver projekttråd - bare spørg.",
+  "categorizationSubtitle": "Duet tagger automatisk hver e-mail, så du ser nye kundeforespørgsler først, dernæst afventende godkendelser, og leverandørens nyhedsbreve aldrig. Gå ikke længere glip af en designkonsultation begravet under messekampagner.",
+  "draftSubtitle": "Duet lærer din proces, projektdetaljer og tone. Når en ny forespørgsel eller kundespørgsmål rammer, udarbejder den et komplet svar med din tilgængelighed, næste trin og projektspecifikationer. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvad er status på Henderson-projektet?\" \"Hvilke godkendelser mangler stadig?\"Duet kender din indbakke og hver projekttråd - bare spørg.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Hoveddesigner, Austin TX",
-      "quote": "Jeg er på stedet 6 timer om dagen og koordinerer malere, elektrikere og flisemontører. I mellemtiden e-mailer tre andre kunder om deres projekter. Chiefy udkast til svar med de rigtige projektdetaljer — jeg gennemgår bare mellem besøg på webstedet.",
+      "quote": "Jeg er på stedet 6 timer om dagen og koordinerer malere, elektrikere og flisemontører. I mellemtiden e-mailer tre andre kunder om deres projekter. Duet udkast til svar med de rigtige projektdetaljer — jeg gennemgår bare mellem besøg på webstedet.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Boligindretningsarkitekt, Chicago",
-      "quote": "Kundeforespørgsler plejede at sidde i dagevis, fordi jeg blev begravet i indkøbsmails og entreprenørplanlægning. Nu svarer Chiefy på nye kundeemner på få minutter med min proces og tilgængelighed. Jeg har booket 4 ekstra projekter i dette kvartal.",
+      "quote": "Kundeforespørgsler plejede at sidde i dagevis, fordi jeg blev begravet i indkøbsmails og entreprenørplanlægning. Nu svarer Duet på nye kundeemner på få minutter med min proces og tilgængelighed. Jeg har booket 4 ekstra projekter i dette kvartal.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Ejer af designstudie, Nashville",
-      "quote": "At administrere e-mails for 12 aktive projekter dræbte mig. Chiefy kategoriserer alt - nye forespørgsler, afventende godkendelser, leverandørordrer, entreprenøropdateringer - så jeg ved præcis, hvad der skal min opmærksomhed først.",
+      "quote": "At administrere e-mails for 12 aktive projekter dræbte mig. Duet kategoriserer alt - nye forespørgsler, afventende godkendelser, leverandørordrer, entreprenøropdateringer - så jeg ved præcis, hvad der skal min opmærksomhed først.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Indretningsarkitekt, San Diego",
-      "quote": "Jeg mistede potentielle kunder, fordi jeg ikke kunne reagere hurtigt nok under installationsuger. Chiefy lærte min høringsproces, prisstruktur, selv hvordan jeg beskriver min designstil. Kunder aner ikke, at det er AI-assisteret.",
+      "quote": "Jeg mistede potentielle kunder, fordi jeg ikke kunne reagere hurtigt nok under installationsuger. Duet lærte min høringsproces, prisstruktur, selv hvordan jeg beskriver min designstil. Kunder aner ikke, at det er AI-assisteret.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Kommerciel indretningsarkitekt, Denver",
-      "quote": "Mellem leverandørens leveringstider, entreprenørplaner og anmodninger om klientrevision var min indbakke kaos. Chiefy sorterer det hele og udarbejder opfølgninger på afventende godkendelser. Det er som at have en projektkoordinator, der aldrig sover.",
+      "quote": "Mellem leverandørens leveringstider, entreprenørplaner og anmodninger om klientrevision var min indbakke kaos. Duet sorterer det hele og udarbejder opfølgninger på afventende godkendelser. Det er som at have en projektkoordinator, der aldrig sover.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Start din gratis prøveperiode. Tilslut din indbakke på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Jeg jonglerer med 8-10 projekter på én gang. Kan Chiefy holde dem ved lige?",
-      "answer": "Ja. Chiefy sporer hver e-mail-tråd pr. klient og projekt. Når du spørger om Henderson-køkkenet eller Park Avenue-kontoret, trækker det konteksten fra alle relaterede samtaler - leverandørordrer, entreprenøropdateringer, klientgodkendelser - så dine svar altid er nøjagtige og projektspecifikke. Ingen sammenblanding af, hvilken flise der var til hvilken klient."
+      "question": "Jeg jonglerer med 8-10 projekter på én gang. Kan Duet holde dem ved lige?",
+      "answer": "Ja. Duet sporer hver e-mail-tråd pr. klient og projekt. Når du spørger om Henderson-køkkenet eller Park Avenue-kontoret, trækker det konteksten fra alle relaterede samtaler - leverandørordrer, entreprenøropdateringer, klientgodkendelser - så dine svar altid er nøjagtige og projektspecifikke. Ingen sammenblanding af, hvilken flise der var til hvilken klient."
     },
     {
-      "question": "Jeg koordinerer med en masse entreprenører og leverandører. Hjælper Chiefy med det?",
-      "answer": "Absolut. Chiefy lærer dine entreprenørkontakter, leverandørrepræsentanter og konteksten for hver branches rolle i dine projekter at kende. Når din elektriker sender en e-mail om, at rough-in er udført, kan Chiefy udarbejde et svar, der bekræfter det næste trin eller sløjfe i armaturets installatør. Det holder arbejdsgangen i gang, selv når du er på tværs af byen på en anden arbejdsplads."
+      "question": "Jeg koordinerer med en masse entreprenører og leverandører. Hjælper Duet med det?",
+      "answer": "Absolut. Duet lærer dine entreprenørkontakter, leverandørrepræsentanter og konteksten for hver branches rolle i dine projekter at kende. Når din elektriker sender en e-mail om, at rough-in er udført, kan Duet udarbejde et svar, der bekræfter det næste trin eller sløjfe i armaturets installatør. Det holder arbejdsgangen i gang, selv når du er på tværs af byen på en anden arbejdsplads."
     }
   ],
-  "pricingNote": "Til $10.000/projekt betaler én sparet klient for årevis af Chiefy Pro."
+  "pricingNote": "Til $10.000/projekt betaler én sparet klient for årevis af Duet Pro."
 }

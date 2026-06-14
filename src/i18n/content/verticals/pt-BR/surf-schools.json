@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy para escolas de surfe e operadores de paddleboard | Assistente de e-mail com IA",
-  "metaDescription": "O Chiefy ajuda instrutores de surfe e operadores de paddleboard a responder emails de reserva instantaneamente — até enquanto ensinam. Respostas redigidas por IA com seus tipos de aula, preços e tom.",
+  "pageTitle": "Duet Mail para escolas de surfe e operadores de paddleboard | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda instrutores de surfe e operadores de paddleboard a responder emails de reserva instantaneamente — até enquanto ensinam. Respostas redigidas por IA com seus tipos de aula, preços e tom.",
   "heroBadge": "Usado por mais de 300 instrutores de surfe",
   "heroHeadline": "Seu assistente de e-mail enquanto você ensina na água",
-  "heroSubline": "O Chiefy aprende seus tipos de aula, preços e condições — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
+  "heroSubline": "O Duet aprende seus tipos de aula, preços e condições — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "aula",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Duas reservas recuperadas pagam um ano de Chiefy."
+    "punchline": "Duas reservas recuperadas pagam um ano de Duet."
   },
-  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para você ver reservas de aulas primeiro, perguntas em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo escolar enterrada sob alertas do Yelp.",
-  "draftSubtitle": "O Chiefy aprende seus tipos de aula, preços para grupos e tom. Quando chega uma consulta de reserva, ele redige uma resposta completa com disponibilidade, o que está incluído e o que levar. Você revisa e envia.",
-  "agentSubtitle": "\"Alguma reserva de grupo chegando esta semana?\" \"Redija uma resposta para a escola com disponibilidade.\" O Chiefy conhece sua caixa de entrada e sua agenda — é só perguntar.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver reservas de aulas primeiro, perguntas em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo escolar enterrada sob alertas do Yelp.",
+  "draftSubtitle": "O Duet aprende seus tipos de aula, preços para grupos e tom. Quando chega uma consulta de reserva, ele redige uma resposta completa com disponibilidade, o que está incluído e o que levar. Você revisa e envia.",
+  "agentSubtitle": "\"Alguma reserva de grupo chegando esta semana?\" \"Redija uma resposta para a escola com disponibilidade.\" O Duet conhece sua caixa de entrada e sua agenda — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Coach Mike T.",
       "title": "Dono de escola de surfe, CA",
-      "quote": "Fico na água ensinando 6 horas por dia. Quando eu checava o email, metade das reservas já tinha ido para outra pessoa. Agora o Chiefy redige respostas com meus preços e disponibilidade — eu só reviso entre as sessões.",
+      "quote": "Fico na água ensinando 6 horas por dia. Quando eu checava o email, metade das reservas já tinha ido para outra pessoa. Agora o Duet redige respostas com meus preços e disponibilidade — eu só reviso entre as sessões.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Aulas e aluguel de paddleboard, HI",
-      "quote": "Operamos aulas e aluguel de pranchas na mesma caixa de entrada. O Chiefy entendeu a diferença instantaneamente — perguntas de aluguel recebem respostas de aluguel, consultas de aula recebem detalhes de aula. É como ter uma recepção.",
+      "quote": "Operamos aulas e aluguel de pranchas na mesma caixa de entrada. O Duet entendeu a diferença instantaneamente — perguntas de aluguel recebem respostas de aluguel, consultas de aula recebem detalhes de aula. É como ter uma recepção.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Instrutor de surfe, FL",
-      "quote": "Reservas de grupos escolares costumavam levar 10 emails de ida e volta. Agora o Chiefy redige a primeira resposta com tarifas de grupo, o que está incluído e a autorização. Corta a conversa pela metade.",
+      "quote": "Reservas de grupos escolares costumavam levar 10 emails de ida e volta. Agora o Duet redige a primeira resposta com tarifas de grupo, o que está incluído e a autorização. Corta a conversa pela metade.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "Passeios e aulas de SUP, OR",
-      "quote": "A alta temporada estava me acabando — 30 emails por dia sobre condições, preço, o que levar. As mesmas cinco perguntas sem parar. O Chiefy responde todas e elas soam exatamente como eu.",
+      "quote": "A alta temporada estava me acabando — 30 emails por dia sobre condições, preço, o que levar. As mesmas cinco perguntas sem parar. O Duet responde todas e elas soam exatamente como eu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Diretora de colônia de surfe infantil, SC",
-      "quote": "Pais mandam os emails mais longos. Datas da colônia, alergias, níveis de habilidade, horários de retirada. O Chiefy redige respostas detalhadas que cobrem tudo, para eu não ficar digitando parágrafos às 10 PM depois de um dia inteiro na praia.",
+      "quote": "Pais mandam os emails mais longos. Datas da colônia, alergias, níveis de habilidade, horários de retirada. O Duet redige respostas detalhadas que cobrem tudo, para eu não ficar digitando parágrafos às 10 PM depois de um dia inteiro na praia.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "O Chiefy lida com diferentes tipos de aula e aluguel de equipamentos?",
-      "answer": "Sim. O Chiefy aprende todas as suas ofertas — aulas particulares, aulas em grupo, colônias de férias infantis, aluguel de pranchas, passeios de SUP. Quando chega uma consulta, ele redige uma resposta com preço, duração, o que está incluído e o que levar corretos. Ele sabe que um email de grupo escolar precisa de detalhes diferentes de uma reserva de aula particular."
+      "question": "O Duet lida com diferentes tipos de aula e aluguel de equipamentos?",
+      "answer": "Sim. O Duet aprende todas as suas ofertas — aulas particulares, aulas em grupo, colônias de férias infantis, aluguel de pranchas, passeios de SUP. Quando chega uma consulta, ele redige uma resposta com preço, duração, o que está incluído e o que levar corretos. Ele sabe que um email de grupo escolar precisa de detalhes diferentes de uma reserva de aula particular."
     },
     {
       "question": "E as perguntas sobre clima e condições?",
-      "answer": "O Chiefy aprende como você costuma lidar com emails sobre condições — suas políticas de cancelamento, remarcação e em que condições você dá aula. Quando alguém escreve perguntando se a aula vai acontecer, o Chiefy redige uma resposta no seu tom habitual e conforme sua política. Você revisa e envia em segundos."
+      "answer": "O Duet aprende como você costuma lidar com emails sobre condições — suas políticas de cancelamento, remarcação e em que condições você dá aula. Quando alguém escreve perguntando se a aula vai acontecer, o Duet redige uma resposta no seu tom habitual e conforme sua política. Você revisa e envia em segundos."
     }
   ],
   "pricingNote": "Com $90/aula, duas reservas recuperadas pagam mais de um ano de Pro."

@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Chiefy per a equips de ràfting i caiacs | AI Assistent de correu electrònic",
-  "metaDescription": "Chiefy ajuda els guies de ràfting i els equips de caiacs a respondre a les consultes de viatges a l'instant, fins i tot des del riu. Respostes redactades per AI amb els detalls del viatge, els preus i la veu.",
+  "pageTitle": "Duet Mail per a equips de ràfting i caiacs | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els guies de ràfting i els equips de caiacs a respondre a les consultes de viatges a l'instant, fins i tot des del riu. Respostes redactades per AI amb els detalls del viatge, els preus i la veu.",
   "heroBadge": "La confiança de més de 200 guies fluvials",
   "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al riu",
-  "heroSubline": "Chiefy coneix els vostres tipus de viatge, els vostres preus i les llistes d'equips i, a continuació, redacta les respostes a les consultes de reserva perquè els clients rebin respostes mentre esteu corrent.",
+  "heroSubline": "Duet coneix els vostres tipus de viatge, els vostres preus i les llistes d'equips i, a continuació, redacta les respostes a les consultes de reserva perquè els clients rebin respostes mentre esteu corrent.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "persona",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dues reserves desades paguen un any complet de Chiefy."
+    "punchline": "Dues reserves desades paguen un any complet de Duet."
   },
-  "categorizationSubtitle": "Chiefy etiqueta automàticament tots els correus electrònics de manera que les consultes dels viatges apareixen primer, les preguntes d'engranatges en segon lloc i el soroll promocional desapareix. Ja no et perdis una reserva de grup soterrada sota les alertes de TripAdvisor.",
-  "draftSubtitle": "Chiefy coneix els vostres tipus de viatge, classes de ràpids, llistes d'equips i política de cancel·lació. Quan arriba una consulta de reserva, redacta una resposta completa amb tot el que necessita el client. Tu revisa i envia.",
-  "agentSubtitle": "\"Alguna plaça oberta durant el dia complet de dissabte?\" \"Esborra una resposta a Jennifer amb disponibilitat\". Chiefy coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
+  "categorizationSubtitle": "Duet etiqueta automàticament tots els correus electrònics de manera que les consultes dels viatges apareixen primer, les preguntes d'engranatges en segon lloc i el soroll promocional desapareix. Ja no et perdis una reserva de grup soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Duet coneix els vostres tipus de viatge, classes de ràpids, llistes d'equips i política de cancel·lació. Quan arriba una consulta de reserva, redacta una resposta completa amb tot el que necessita el client. Tu revisa i envia.",
+  "agentSubtitle": "\"Alguna plaça oberta durant el dia complet de dissabte?\" \"Esborra una resposta a Jennifer amb disponibilitat\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "Durant la temporada alta estic al riu 6 dies a la setmana. Quan vaig tornar als correus electrònics, la meitat dels grups ja havien reservat amb una altra persona. Ara, Chiefy redacta respostes amb detalls del viatge i preus mentre estic a la posada.",
+      "quote": "Durant la temporada alta estic al riu 6 dies a la setmana. Quan vaig tornar als correus electrònics, la meitat dels grups ja havien reservat amb una altra persona. Ara, Duet redacta respostes amb detalls del viatge i preus mentre estic a la posada.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Tours en caiac i SUP, OR",
-      "quote": "Cada client fa les mateixes cinc preguntes: preus, què cal portar, nivell d'habilitat, mida del grup, política de cancel·lació. Chiefy ho va aprendre tot durant la primera setmana. Vaig passar d'una hora de correus electrònics cada nit a cinc minuts de revisió d'esborranys.",
+      "quote": "Cada client fa les mateixes cinc preguntes: preus, què cal portar, nivell d'habilitat, mida del grup, política de cancel·lació. Duet ho va aprendre tot durant la primera setmana. Vaig passar d'una hora de correus electrònics cada nit a cinc minuts de revisió d'esborranys.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Guia d'expedició de diversos dies, Alaska",
-      "quote": "Realitzo viatges de 5 dies amb servei cel·lular zero. Abans de Chiefy, totes les preguntes es van quedar sense resposta fins que vaig tornar a la ciutat. Ara els clients reben una resposta detallada en qüestió de minuts i confirmo quan estic fora del riu.",
+      "quote": "Realitzo viatges de 5 dies amb servei cel·lular zero. Abans de Duet, totes les preguntes es van quedar sense resposta fins que vaig tornar a la ciutat. Ara els clients reben una resposta detallada en qüestió de minuts i confirmo quan estic fora del riu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "Gerent d'oficina de River Adventures, WV",
-      "quote": "Gestiono les reserves de tres guies de quatre tipus de viatge. Chiefy classifica cada correu electrònic per urgència i redacta les respostes amb el viatge adequat, el preu correcte i la llista d'equips adequada. És com clonar-me.",
+      "quote": "Gestiono les reserves de tres guies de quatre tipus de viatge. Duet classifica cada correu electrònic per urgència i redacta les respostes amb el viatge adequat, el preu correcte i la llista d'equips adequada. És com clonar-me.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Chiefy gestiona els pressupostos de viatges personalitzats i les consultes d'expedició de diversos dies?",
-      "answer": "Sí. Chiefy aprèn la vostra programació completa de viatges: carrosses de mig dia, ràpids de dia sencer, expedicions de diversos dies, juntament amb els preus, el que s'inclou, l'edat mínima i els nivells de dificultat. Quan algú pregunta sobre un viatge de 3 dies per a 6, redacta una resposta completa amb els detalls adequats. Reviseu, modifiqueu si cal i envieu."
+      "question": "Duet gestiona els pressupostos de viatges personalitzats i les consultes d'expedició de diversos dies?",
+      "answer": "Sí. Duet aprèn la vostra programació completa de viatges: carrosses de mig dia, ràpids de dia sencer, expedicions de diversos dies, juntament amb els preus, el que s'inclou, l'edat mínima i els nivells de dificultat. Quan algú pregunta sobre un viatge de 3 dies per a 6, redacta una resposta completa amb els detalls adequats. Reviseu, modifiqueu si cal i envieu."
     },
     {
-      "question": "Estic fora de la xarxa en viatges de diversos dies. Chiefy encara funciona?",
-      "answer": "Aquest és exactament el problema que resol Chiefy. Mentre esteu al riu sense cap senyal, Chiefy redacta les respostes a totes les consultes que us facin. Quan torneu a l'abast, els vostres esborranys estan esperant; només heu de revisar-los i enviar-los. La majoria de guies ens diuen que elimina l'endarreriment que solien enfrontar-se després de cada viatge de diversos dies."
+      "question": "Estic fora de la xarxa en viatges de diversos dies. Duet encara funciona?",
+      "answer": "Aquest és exactament el problema que resol Duet. Mentre esteu al riu sense cap senyal, Duet redacta les respostes a totes les consultes que us facin. Quan torneu a l'abast, els vostres esborranys estan esperant; només heu de revisar-los i enviar-los. La majoria de guies ens diuen que elimina l'endarreriment que solien enfrontar-se després de cada viatge de diversos dies."
     }
   ],
   "pricingNote": "Amb 150 dòlars per persona, dues reserves desades cobreixen un any complet de Pro."

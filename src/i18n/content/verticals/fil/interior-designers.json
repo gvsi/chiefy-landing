@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy para sa mga Interior Designer | AI Email Assistant",
-  "metaDescription": "Tinutulungan ng Chiefy ang mga interior designer na pamahalaan ang mga email ng kliyente, koordinasyon ng kontratista, at mga order ng vendor — kahit na mula sa lugar ng trabaho. AI-drafted na mga tugon kasama ng iyong mga detalye ng proyekto, mga kagustuhan, at boses.",
+  "pageTitle": "Duet Mail para sa mga Interior Designer | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga interior designer na pamahalaan ang mga email ng kliyente, koordinasyon ng kontratista, at mga order ng vendor — kahit na mula sa lugar ng trabaho. AI-drafted na mga tugon kasama ng iyong mga detalye ng proyekto, mga kagustuhan, at boses.",
   "heroBadge": "Pinagkakatiwalaan ng 400+ interior designer",
   "heroHeadline": "Ang iyong email assistant habang on-site ka kasama ng mga kliyente",
-  "heroSubline": "Natutunan ng Chiefy ang iyong mga contact sa vendor, mga detalye ng proyekto, at mga kagustuhan ng kliyente — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng kliyente sa isang mabagal na tugon.",
+  "heroSubline": "Natutunan ng Duet ang iyong mga contact sa vendor, mga detalye ng proyekto, at mga kagustuhan ng kliyente — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng kliyente sa isang mabagal na tugon.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,7 +49,7 @@
     "bookingUnit": "proyekto",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Isang naka-save na kliyente ang nagbabayad para sa mga taon ng Chiefy."
+    "punchline": "Isang naka-save na kliyente ang nagbabayad para sa mga taon ng Duet."
   },
   "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga bagong katanungan ng kliyente, pangalawa ang nakabinbing pag-apruba, at hindi kailanman ang mga newsletter ng vendor. Wala nang nawawalang konsultasyon sa disenyo na nakabaon sa ilalim ng mga promosyon sa trade show.",
   "draftSubtitle": "Natutunan ng duet ang iyong proseso, mga detalye ng proyekto, at tono. Kapag tumama ang isang bagong pagtatanong o tanong ng kliyente, nag-draft ito ng kumpletong tugon kasama ang iyong availability, mga susunod na hakbang, at mga detalye ng proyekto. I-review at ipadala mo.",
@@ -133,7 +133,7 @@
     {
       "name": "Francesca D.",
       "title": "Residential Interior Designer, Chicago",
-      "quote": "Ang mga katanungan ng kliyente ay umuupo nang ilang araw dahil ako ay inilibing sa mga email sa pagkuha at pag-iskedyul ng kontratista. Ngayon ay tumutugon ang Chiefy sa mga bagong lead sa ilang minuto gamit ang aking proseso at availability. Nag-book ako ng 4 na karagdagang proyekto ngayong quarter.",
+      "quote": "Ang mga katanungan ng kliyente ay umuupo nang ilang araw dahil ako ay inilibing sa mga email sa pagkuha at pag-iskedyul ng kontratista. Ngayon ay tumutugon ang Duet sa mga bagong lead sa ilang minuto gamit ang aking proseso at availability. Nag-book ako ng 4 na karagdagang proyekto ngayong quarter.",
       "avatarKey": "francesca"
     },
     {
@@ -159,13 +159,13 @@
   "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "I-juggle ko ang 8-10 projects nang sabay-sabay. Maaari bang panatilihing tuwid sila ng Chiefy?",
+      "question": "I-juggle ko ang 8-10 projects nang sabay-sabay. Maaari bang panatilihing tuwid sila ng Duet?",
       "answer": "Oo. Sinusubaybayan ng duet ang bawat thread ng email bawat kliyente at proyekto. Kapag nagtanong ka tungkol sa kusina ng Henderson o sa opisina ng Park Avenue, kinukuha nito ang konteksto mula sa lahat ng nauugnay na pag-uusap — mga order ng vendor, mga update ng kontratista, mga pag-apruba ng kliyente — kaya ang iyong mga tugon ay palaging tumpak at partikular sa proyekto. Walang paghahalo kung aling tile ang para sa kung aling kliyente."
     },
     {
-      "question": "Nakikipag-coordinate ako sa maraming contractor at vendor. Nakakatulong ba ang Chiefy diyan?",
-      "answer": "Talagang. Natutunan ng Chiefy ang iyong mga contact sa kontratista, mga vendor rep, at ang konteksto ng papel ng bawat trade sa iyong mga proyekto. Kapag nag-email ang iyong electrician na tapos na ang rough-in, maaaring mag-draft ang Chiefy ng tugon na nagkukumpirma sa susunod na hakbang o loop sa fixture installer. Pinapanatili nitong gumagalaw ang daloy ng trabaho kahit na nasa kabilang bayan ka sa ibang lugar ng trabaho."
+      "question": "Nakikipag-coordinate ako sa maraming contractor at vendor. Nakakatulong ba ang Duet diyan?",
+      "answer": "Talagang. Natutunan ng Duet ang iyong mga contact sa kontratista, mga vendor rep, at ang konteksto ng papel ng bawat trade sa iyong mga proyekto. Kapag nag-email ang iyong electrician na tapos na ang rough-in, maaaring mag-draft ang Duet ng tugon na nagkukumpirma sa susunod na hakbang o loop sa fixture installer. Pinapanatili nitong gumagalaw ang daloy ng trabaho kahit na nasa kabilang bayan ka sa ibang lugar ng trabaho."
     }
   ],
-  "pricingNote": "Sa $10,000/proyekto, ang isang naka-save na kliyente ay nagbabayad para sa mga taon ng Chiefy Pro."
+  "pricingNote": "Sa $10,000/proyekto, ang isang naka-save na kliyente ay nagbabayad para sa mga taon ng Duet Pro."
 }

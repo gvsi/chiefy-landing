@@ -1,10 +1,12 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy for Surf Schools & Paddleboard Operators | AI Email Assistant",
-  "metaDescription": "Chiefy helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
+  "pageTitle": "Duet Mail for Surf Schools & Paddleboard Operators | AI Email Assistant",
+  "metaDescription": "Duet Mail helps surf instructors and paddleboard operators respond to booking emails instantly — even while teaching. AI-drafted replies with your lesson types, pricing, and voice.",
+
   "heroBadge": "Trusted by 300+ surf instructors",
   "heroHeadline": "Your email assistant while you're teaching on the water",
-  "heroSubline": "Chiefy learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+  "heroSubline": "Duet learns your lesson types, pricing, and conditions — then drafts email replies so you never lose a booking to a slow response.",
+
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -43,17 +45,23 @@
       "pillColor": "lavender"
     }
   ],
+
   "autodraft": "Hey Rachel! Saturday morning is open for 6. Group lessons run 2 hours starting at 9 AM. Boards, wetsuits, and rash guards are all included — just bring sunscreen and a towel. It's $90 per person. Want me to lock your group in?",
+
   "math": {
     "pricePerBooking": "$90",
     "bookingUnit": "lesson",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Two saved bookings pay for a year of Chiefy."
+    "punchline": "Two saved bookings pay for a year of Duet."
   },
-  "categorizationSubtitle": "Chiefy automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
-  "draftSubtitle": "Chiefy learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Chiefy knows your inbox and schedule — just ask.",
+
+  "categorizationSubtitle": "Duet automatically tags every email so you see lesson bookings first, questions second, and noise never. No more missing a school group inquiry buried under Yelp alerts.",
+
+  "draftSubtitle": "Duet learns your lesson types, group pricing, and tone. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
+
+  "agentSubtitle": "\"Any group bookings coming up this week?\" \"Draft a reply to the school with availability.\" Duet knows your inbox and schedule — just ask.",
+
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -97,6 +105,7 @@
       "pillColor": "lavender"
     }
   ],
+
   "draft": {
     "to": "rachel.t@email.com",
     "subject": "Re: Group lesson for 6 on Saturday?",
@@ -116,56 +125,61 @@
       "Learns over time"
     ]
   },
+
   "agent": {
     "userMessage": "Any group bookings coming up this week?",
     "agentResponse": "You have two group bookings this week: Rachel T. on Saturday (6 people, 9 AM) and Westside Elementary on Wednesday (25 students, 10 AM field trip). You also have a pending inquiry from James P. about paddleboard rentals. Want me to draft a reply?",
     "followUp": "Draft a reply to the school confirming the field trip details",
     "followUpResponse": "Done! I drafted a reply to Westside Elementary confirming May 15 for 25 students at 10 AM. It includes your school group rate, what's provided, permission slip requirements, and your cancellation policy. Ready to review and send."
   },
+
   "testimonialsTitle": "Loved by surf instructors",
   "testimonials": [
     {
       "name": "Coach Mike T.",
       "title": "Surf School Owner, CA",
-      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Chiefy drafts replies with my pricing and availability — I just review between sessions.",
+      "quote": "I'm in the water teaching 6 hours a day. By the time I'd check email, half the bookings had gone to someone else. Now Duet drafts replies with my pricing and availability — I just review between sessions.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Paddleboard Lessons & Rentals, HI",
-      "quote": "We run lessons and board rentals out of the same inbox. Chiefy figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
+      "quote": "We run lessons and board rentals out of the same inbox. Duet figured out the difference instantly — rental questions get rental answers, lesson inquiries get lesson details. It's like having a front desk.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Surf Instructor, FL",
-      "quote": "School group bookings used to take 10 emails back and forth. Now Chiefy drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
+      "quote": "School group bookings used to take 10 emails back and forth. Now Duet drafts the first reply with group rates, what's included, and the permission slip. Cuts the whole thread in half.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP Tours & Lessons, OR",
-      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Chiefy handles all of them and they sound exactly like me.",
+      "quote": "Peak season was killing me — 30 emails a day about conditions, pricing, what to bring. The same five questions over and over. Duet handles all of them and they sound exactly like me.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Kids Surf Camp Director, SC",
-      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Chiefy drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
+      "quote": "Parents send the longest emails. Camp dates, allergies, skill levels, pickup times. Duet drafts detailed replies that cover everything so I'm not typing paragraphs at 10 PM after a full day on the beach.",
       "avatarKey": "sarah"
     }
   ],
+
   "ctaHeadline": "Spend your summer in the waves,\nnot in your inbox.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+
   "verticalFaqs": [
     {
-      "question": "Does Chiefy handle different lesson types and equipment rentals?",
-      "answer": "Yes. Chiefy learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
+      "question": "Does Duet handle different lesson types and equipment rentals?",
+      "answer": "Yes. Duet learns all your offerings — private lessons, group lessons, kids camps, board rentals, SUP tours. When an inquiry comes in, it drafts a reply with the correct pricing, duration, what's included, and what to bring. It knows a school group email needs different details than a private lesson booking."
     },
     {
       "question": "What about weather and conditions questions?",
-      "answer": "Chiefy learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Chiefy drafts a reply matching your usual tone and policy. You review and send in seconds."
+      "answer": "Duet learns how you typically handle conditions emails — your policies on cancellations, rescheduling, and what conditions you teach in. When someone emails asking if their lesson will go ahead, Duet drafts a reply matching your usual tone and policy. You review and send in seconds."
     }
   ],
+
   "pricingNote": "At $90/lesson, two saved bookings pay for over a year of Pro."
 }

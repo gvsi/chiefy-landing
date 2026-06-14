@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Chiefy für Rafting- und Kajak-Ausrüster | KI-E-Mail-Assistent",
-  "metaDescription": "Chiefy hilft Rafting-Guides und Kajak-Ausrüstern, sofort auf Reiseanfragen zu reagieren – sogar vom Fluss aus. Von der KI erstellte Antworten mit Ihren Reisedetails, Preisen und Ihrer Stimme.",
+  "pageTitle": "Duet Mail für Rafting- und Kajak-Ausrüster | KI-E-Mail-Assistent",
+  "metaDescription": "Duet Mail hilft Rafting-Guides und Kajak-Ausrüstern, sofort auf Reiseanfragen zu reagieren – sogar vom Fluss aus. Von der KI erstellte Antworten mit Ihren Reisedetails, Preisen und Ihrer Stimme.",
   "heroBadge": "Über 200 Flussführer vertrauen darauf",
   "heroHeadline": "Ihr E-Mail-Assistent, während Sie auf dem Fluss sind",
-  "heroSubline": "Chiefy lernt Ihre Reisearten, Preise und Ausrüstungslisten – und erstellt dann Antworten auf Buchungsanfragen, damit Kunden Antworten erhalten, während Sie Stromschnellen fahren.",
+  "heroSubline": "Duet lernt Ihre Reisearten, Preise und Ausrüstungslisten – und erstellt dann Antworten auf Buchungsanfragen, damit Kunden Antworten erhalten, während Sie Stromschnellen fahren.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "Person",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Zwei gespeicherte Buchungen zahlen für ein ganzes Jahr Chiefy."
+    "punchline": "Zwei gespeicherte Buchungen zahlen für ein ganzes Jahr Duet."
   },
-  "categorizationSubtitle": "Chiefy markiert automatisch jede E-Mail, sodass zuerst Reiseanfragen, dann Ausrüstungsfragen auftauchen und der Werbelärm verschwindet. Keine Gruppenbuchung mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen bleibt.",
-  "draftSubtitle": "Chiefy lernt Ihre Reisearten, Stromschnellenklassen, Ausrüstungslisten und Stornierungsbedingungen. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit allem verfasst, was der Kunde benötigt. Sie überprüfen und senden.",
-  "agentSubtitle": "„Gibt es am Samstag noch freie Plätze?“ „Entwerfen Sie eine Antwort an Jennifer mit Angabe der Verfügbarkeit.” Chiefy kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass zuerst Reiseanfragen, dann Ausrüstungsfragen auftauchen und der Werbelärm verschwindet. Keine Gruppenbuchung mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen bleibt.",
+  "draftSubtitle": "Duet lernt Ihre Reisearten, Stromschnellenklassen, Ausrüstungslisten und Stornierungsbedingungen. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit allem verfasst, was der Kunde benötigt. Sie überprüfen und senden.",
+  "agentSubtitle": "„Gibt es am Samstag noch freie Plätze?“ „Entwerfen Sie eine Antwort an Jennifer mit Angabe der Verfügbarkeit.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "In der Hochsaison bin ich 6 Tage die Woche am Fluss. Als ich auf die E-Mails zurückkam, hatte die Hälfte der Gruppen bereits bei jemand anderem gebucht. Jetzt entwirft Chiefy Antworten mit Reisedetails und Preisen, während ich am Eingang bin.",
+      "quote": "In der Hochsaison bin ich 6 Tage die Woche am Fluss. Als ich auf die E-Mails zurückkam, hatte die Hälfte der Gruppen bereits bei jemand anderem gebucht. Jetzt entwirft Duet Antworten mit Reisedetails und Preisen, während ich am Eingang bin.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Kajak- und SUP-Touren, OR",
-      "quote": "Jeder Kunde stellt die gleichen fünf Fragen – Preis, was mitzubringen ist, Kenntnisstand, Gruppengröße, Stornierungsbedingungen. Chiefy habe alles in der ersten Woche gelernt. Ich bin von einer Stunde E-Mails jeden Abend auf fünf Minuten umgestiegen, in denen ich Entwürfe überprüft habe.",
+      "quote": "Jeder Kunde stellt die gleichen fünf Fragen – Preis, was mitzubringen ist, Kenntnisstand, Gruppengröße, Stornierungsbedingungen. Duet habe alles in der ersten Woche gelernt. Ich bin von einer Stunde E-Mails jeden Abend auf fünf Minuten umgestiegen, in denen ich Entwürfe überprüft habe.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Mehrtägiger Expeditionsführer, AK",
-      "quote": "Ich führe 5-tägige Reisen ohne Mobilfunkempfang durch. Vor Chiefy blieb jede Anfrage unbeantwortet, bis ich wieder in der Stadt war. Jetzt erhalten Kunden innerhalb von Minuten eine detaillierte Antwort und ich bestätige, wenn ich den Fluss verlassen habe.",
+      "quote": "Ich führe 5-tägige Reisen ohne Mobilfunkempfang durch. Vor Duet blieb jede Anfrage unbeantwortet, bis ich wieder in der Stadt war. Jetzt erhalten Kunden innerhalb von Minuten eine detaillierte Antwort und ich bestätige, wenn ich den Fluss verlassen habe.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "River Adventures Büroleiter, WV",
-      "quote": "Ich verwalte Buchungen für drei Guides für vier Reisearten. Chiefy kategorisiert jede E-Mail nach Dringlichkeit und entwirft Antworten mit der richtigen Reise, dem richtigen Preis und der richtigen Ausrüstungsliste. Es ist, als würde ich mich selbst klonen.",
+      "quote": "Ich verwalte Buchungen für drei Guides für vier Reisearten. Duet kategorisiert jede E-Mail nach Dringlichkeit und entwirft Antworten mit der richtigen Reise, dem richtigen Preis und der richtigen Ausrüstungsliste. Es ist, als würde ich mich selbst klonen.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
   "verticalFaqs": [
     {
-      "question": "Bearbeitet Chiefy individuelle Reiseangebote und mehrtägige Expeditionsanfragen?",
-      "answer": "Ja. Chiefy erfährt Ihr gesamtes Reiseprogramm – halbtägige Floßfahrten, ganztägige Stromschnellen, mehrtägige Expeditionen – sowie Preise, enthaltene Leistungen, Mindestalter und Schwierigkeitsgrade. Wenn jemand nach einer dreitägigen Reise für 6 Personen fragt, verfasst er eine vollständige Antwort mit den richtigen Details. Sie überprüfen, optimieren bei Bedarf und senden es."
+      "question": "Bearbeitet Duet individuelle Reiseangebote und mehrtägige Expeditionsanfragen?",
+      "answer": "Ja. Duet erfährt Ihr gesamtes Reiseprogramm – halbtägige Floßfahrten, ganztägige Stromschnellen, mehrtägige Expeditionen – sowie Preise, enthaltene Leistungen, Mindestalter und Schwierigkeitsgrade. Wenn jemand nach einer dreitägigen Reise für 6 Personen fragt, verfasst er eine vollständige Antwort mit den richtigen Details. Sie überprüfen, optimieren bei Bedarf und senden es."
     },
     {
-      "question": "Bei mehrtägigen Reisen bin ich vom Stromnetz getrennt. Funktioniert Chiefy immer noch?",
-      "answer": "Das ist genau das Problem, das Chiefy löst. Während Sie ohne Signal auf dem Fluss sind, antwortet Chiefy Drafts auf jede eingehende Anfrage. Wenn Sie wieder in Reichweite sind, warten Ihre Drafts – überprüfen Sie sie einfach und senden Sie sie. Die meisten Reiseführer sagen uns, dass dadurch der Rückstand beseitigt wird, mit dem sie früher nach jeder mehrtägigen Reise konfrontiert waren."
+      "question": "Bei mehrtägigen Reisen bin ich vom Stromnetz getrennt. Funktioniert Duet immer noch?",
+      "answer": "Das ist genau das Problem, das Duet löst. Während Sie ohne Signal auf dem Fluss sind, antwortet Duet Drafts auf jede eingehende Anfrage. Wenn Sie wieder in Reichweite sind, warten Ihre Drafts – überprüfen Sie sie einfach und senden Sie sie. Die meisten Reiseführer sagen uns, dass dadurch der Rückstand beseitigt wird, mit dem sie früher nach jeder mehrtägigen Reise konfrontiert waren."
     }
   ],
   "pricingNote": "Bei einem Preis von 150 $/Person decken zwei gespeicherte Buchungen ein ganzes Jahr Pro ab."

@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Chiefy untuk Tur ATV & UTV |  AI Asisten Email",
-  "metaDescription": "Chiefy membantu pemandu wisata ATV dan UTV merespons email pemesanan secara instan — bahkan dari jalur perjalanan.  AI -Balasan yang disusun dengan harga, persyaratan, dan suara Anda.",
+  "pageTitle": "Duet Mail untuk Tur ATV & UTV |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu pemandu wisata ATV dan UTV merespons email pemesanan secara instan — bahkan dari jalur perjalanan.  AI -Balasan yang disusun dengan harga, persyaratan, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 200+ pemandu wisata",
   "heroHeadline": "Asisten email Anda saat Anda sedang dalam perjalanan",
-  "heroSubline": "Chiefy mempelajari jenis tur, harga, dan persyaratan pengendara Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
+  "heroSubline": "Duet mempelajari jenis tur, harga, dan persyaratan pengendara Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "rachel w.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grup (4 mesin)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Satu pemesanan grup tersimpan membayar untuk satu tahun Chiefy."
+    "punchline": "Satu pemesanan grup tersimpan membayar untuk satu tahun Duet."
   },
-  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan asuransi kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan grup yang hilang yang terkubur di bawah peringatan TripAdvisor.",
-  "draftSubtitle": "Chiefy mempelajari rute tur Anda, harga, dan kebutuhan pengendara. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail perjalanan, harga, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
-  "agentSubtitle": "\"Adakah grup yang dipesan untuk akhir pekan ini?\" \"Buat draf balasan untuk Rachel dengan ketersediaan hari Sabtu.\" Chiefy mengetahui inbox dan jadwal Anda — tanyakan saja.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan asuransi kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan grup yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari rute tur Anda, harga, dan kebutuhan pengendara. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail perjalanan, harga, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Adakah grup yang dipesan untuk akhir pekan ini?\" \"Buat draf balasan untuk Rachel dengan ketersediaan hari Sabtu.\" Duet mengetahui inbox dan jadwal Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "rachel w.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "Panduan ATV, Utah Selatan",
-      "quote": "Saya memimpin tur 8 jam melalui ngarai tanpa layanan seluler. Pada saat saya kembali, separuh email pemesanan saya sudah dingin. Chiefy menyusun tanggapan dengan harga dan info jejak saya — Saya baru meninjaunya di penghujung hari.",
+      "quote": "Saya memimpin tur 8 jam melalui ngarai tanpa layanan seluler. Pada saat saya kembali, separuh email pemesanan saya sudah dingin. Duet menyusun tanggapan dengan harga dan info jejak saya — Saya baru meninjaunya di penghujung hari.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "Operator Tur UTV, Colorado",
-      "quote": "Kami menjalankan tur 7 hari seminggu dan pertanyaan tentang asuransi dan pengabaian saja sudah menghabiskan pagi hari saya. Chiefy menangani semuanya — persyaratan pengendara, batasan usia, apa yang harus dibawa. Kedengarannya persis seperti saya.",
+      "quote": "Kami menjalankan tur 7 hari seminggu dan pertanyaan tentang asuransi dan pengabaian saja sudah menghabiskan pagi hari saya. Duet menangani semuanya — persyaratan pengendara, batasan usia, apa yang harus dibawa. Kedengarannya persis seperti saya.",
       "avatarKey": "francesca"
     },
     {
       "name": "jaka r.",
       "title": "Pemandu Wisata Jeep, Moab",
-      "quote": "Orang-orang mengirim email untuk menanyakan jalur mana yang tepat untuk kelompok mereka, tingkat pengalaman apa yang mereka butuhkan, apakah anak-anak dapat bersepeda. 5 pertanyaan yang sama berulang kali. Chiefy memakukan semuanya.",
+      "quote": "Orang-orang mengirim email untuk menanyakan jalur mana yang tepat untuk kelompok mereka, tingkat pengalaman apa yang mereka butuhkan, apakah anak-anak dapat bersepeda. 5 pertanyaan yang sama berulang kali. Duet memakukan semuanya.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Petualangan Off-Road, AZ",
-      "quote": "Saya menghabiskan lebih dari satu jam setiap malam untuk menjawab pertanyaan ketersediaan yang sama. Sekarang Chiefy membuat draf balasan saat saya sedang dalam perjalanan. Waktu respons saya berubah dari jam ke menit.",
+      "quote": "Saya menghabiskan lebih dari satu jam setiap malam untuk menjawab pertanyaan ketersediaan yang sama. Sekarang Duet membuat draf balasan saat saya sedang dalam perjalanan. Waktu respons saya berubah dari jam ke menit.",
       "avatarKey": "jennifer"
     },
     {
       "name": "amanda k.",
       "title": "Tur Keluarga ATV, Sedona",
-      "quote": "Kami mendapatkan banyak keluarga yang bertanya tentang jalur pemula dan persyaratan usia. Chiefy mempelajari semua opsi tur kami dan merekomendasikan opsi yang tepat di setiap balasan. Klien tidak dapat membedakannya.",
+      "quote": "Kami mendapatkan banyak keluarga yang bertanya tentang jalur pemula dan persyaratan usia. Duet mempelajari semua opsi tur kami dan merekomendasikan opsi yang tepat di setiap balasan. Klien tidak dapat membedakannya.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Apakah Chiefy menangani pertanyaan asuransi dan pelepasan hak?",
-      "answer": "Ya. Chiefy mempelajari persyaratan pengendara Anda — asuransi pertanggungjawaban, batasan usia, detail surat pernyataan pengabaian, apa saja yang perlu dibawa oleh pengendara. Ketika seseorang mengirim email menanyakan apa yang mereka butuhkan sebelum tur, Chiefy menyusun tanggapan lengkap dengan semua detailnya. Anda meninjau dan mengetuk kirim."
+      "question": "Apakah Duet menangani pertanyaan asuransi dan pelepasan hak?",
+      "answer": "Ya. Duet mempelajari persyaratan pengendara Anda — asuransi pertanggungjawaban, batasan usia, detail surat pernyataan pengabaian, apa saja yang perlu dibawa oleh pengendara. Ketika seseorang mengirim email menanyakan apa yang mereka butuhkan sebelum tur, Duet menyusun tanggapan lengkap dengan semua detailnya. Anda meninjau dan mengetuk kirim."
     },
     {
-      "question": "Saya berada di jalan sepanjang hari tanpa layanan seluler. Bagaimana Chiefy membantu?",
-      "answer": "Itulah mengapa pemandu menyukai Chiefy. Saat Anda memimpin tur 6-8 jam tanpa sinyal, pertanyaan pemesanan menumpuk. Draf duet membalas semuanya — harga, ketersediaan, lokasi pertemuan, apa yang akan dikenakan. Saat Anda kembali, Anda meninjau drafnya dan mengirimkannya. Sebagian besar pemandu memberi tahu kami bahwa ini menghemat waktu mengirim email 1-2 jam per hari selama musim puncak."
+      "question": "Saya berada di jalan sepanjang hari tanpa layanan seluler. Bagaimana Duet membantu?",
+      "answer": "Itulah mengapa pemandu menyukai Duet. Saat Anda memimpin tur 6-8 jam tanpa sinyal, pertanyaan pemesanan menumpuk. Draf duet membalas semuanya — harga, ketersediaan, lokasi pertemuan, apa yang akan dikenakan. Saat Anda kembali, Anda meninjau drafnya dan mengirimkannya. Sebagian besar pemandu memberi tahu kami bahwa ini menghemat waktu mengirim email 1-2 jam per hari selama musim puncak."
     }
   ],
   "pricingNote": "Dengan $200/mesin, satu grup simpanan beranggotakan 4 orang membayar Pro selama lebih dari setahun."

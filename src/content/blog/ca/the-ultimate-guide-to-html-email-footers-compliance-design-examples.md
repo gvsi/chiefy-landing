@@ -2,7 +2,7 @@
 title: "La guia definitiva dels peus de pàgina de correu electrònic HTML: compliment, disseny i exemples"
 description: "Mestre els peus de pàgina de correu electrònic HTML: elements essencials, consells de disseny, compliment legal (CAN-SPAM, GDPR, CASL) i exemples de marca."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI","Correu electrònic"]
 draft: false
 ---
@@ -173,4 +173,4 @@ El peu de pàgina del vostre correu electrònic HTML pot ser l'últim que veuen 
 Genera confiança, reforça la teva marca, garanteix el compliment i proporciona una navegació útil per al teu públic. Preneu-vos uns moments per revisar el peu de pàgina actual del vostre correu electrònic. És conforme? Està clar? És compatible amb mòbils? Fer aquestes petites millores pot tenir un gran impacte en com es perceben els vostres correus electrònics i la vostra marca.
 
 
-Esteu buscant maneres de fer que la vostra gestió global del correu electrònic sigui més eficient i professional? Penseu en explorar eines dissenyades per a professionals ocupats. Per exemple, aprendre com [Chiefy simplifica la productivitat del correu electrònic](https://chiefy.com/) amb les funcions basades en AI pot alliberar més temps per centrar-vos a perfeccionar detalls com el peu de pàgina i assegurar-vos que cada comunicació us representi bé.
+Esteu buscant maneres de fer que la vostra gestió global del correu electrònic sigui més eficient i professional? Penseu en explorar eines dissenyades per a professionals ocupats. Per exemple, aprendre com [Duet Mail simplifica la productivitat del correu electrònic](https://duetmail.com/) amb les funcions basades en AI pot alliberar més temps per centrar-vos a perfeccionar detalls com el peu de pàgina i assegurar-vos que cada comunicació us representi bé.

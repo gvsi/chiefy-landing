@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy para sa Fishing Charter | AI Email Assistant",
-  "metaDescription": "Tinutulungan ng Chiefy ang mga kapitan ng charter ng pangingisda na tumugon kaagad sa mga email sa pag-book — kahit na mula sa tubig. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga patakaran, at boses.",
+  "pageTitle": "Duet Mail para sa Fishing Charter | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga kapitan ng charter ng pangingisda na tumugon kaagad sa mga email sa pag-book — kahit na mula sa tubig. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga patakaran, at boses.",
   "heroBadge": "Pinagkakatiwalaan ng 500+ charter captain",
   "heroHeadline": "Ang iyong email assistant habang nasa tubig ka",
-  "heroSubline": "Natutunan ng Chiefy ang iyong pagpepresyo, mga patakaran, at boses — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng booking sa isang mabagal na tugon.",
+  "heroSubline": "Natutunan ng Duet ang iyong pagpepresyo, mga patakaran, at boses — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng booking sa isang mabagal na tugon.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,7 +49,7 @@
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Ang isang naka-save na booking ay nagbabayad para sa isang taon ng Chiefy."
+    "punchline": "Ang isang naka-save na booking ay nagbabayad para sa isang taon ng Duet."
   },
   "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong, at hindi kailanman ingay. Wala nang nawawalang pagtatanong sa paglalakbay na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
   "draftSubtitle": "Natutunan ng duet ang iyong pagpepresyo, mga patakaran, at tono. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may mga detalye ng biyahe, pagpepresyo, at kung ano ang dadalhin. I-review at ipadala mo.",
@@ -127,7 +127,7 @@
     {
       "name": "Kapitan Mike D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "Sa peak season, mawawalan ako ng 2-3 booking sa isang linggo dahil lang sa hindi ako makasagot nang mabilis mula sa bangka. Chiefy draft ng mga tugon kasama ang aking mga detalye ng pagpepresyo at biyahe — Pinindot ko lang ang ipadala sa pagitan ng mga catch.",
+      "quote": "Sa peak season, mawawalan ako ng 2-3 booking sa isang linggo dahil lang sa hindi ako makasagot nang mabilis mula sa bangka. Duet draft ng mga tugon kasama ang aking mga detalye ng pagpepresyo at biyahe — Pinindot ko lang ang ipadala sa pagitan ng mga catch.",
       "avatarKey": "michael"
     },
     {
@@ -139,7 +139,7 @@
     {
       "name": "Jake R.",
       "title": "Gabay sa Pangingisda sa Pampang, TX",
-      "quote": "Gumugugol ako ng isang oras gabi-gabi sa pagsagot sa parehong mga tanong sa availability. Ngayon ang Chiefy ang humahawak nito. Ang oras ng pagtugon ko ay naging ilang oras hanggang minuto at hindi pa ako nawawalan ng booking mula noon.",
+      "quote": "Gumugugol ako ng isang oras gabi-gabi sa pagsagot sa parehong mga tanong sa availability. Ngayon ang Duet ang humahawak nito. Ang oras ng pagtugon ko ay naging ilang oras hanggang minuto at hindi pa ako nawawalan ng booking mula noon.",
       "avatarKey": "johnny"
     },
     {
@@ -159,11 +159,11 @@
   "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Gumagana ba ang Chiefy para sa mga email sa booking at availability?",
+      "question": "Gumagana ba ang Duet para sa mga email sa booking at availability?",
       "answer": "Talagang. Natutunan ng duet ang iyong mga uri ng biyahe, pagpepresyo, availability, at mga patakaran. Kapag pumasok ang isang booking inquiry, nag-draft ito ng kumpletong tugon na may mga tamang detalye — pagpepresyo, kung ano ang kasama, lokasyon ng pagpupulong, kung ano ang dadalhin. Suriin mo at i-tap ang ipadala."
     },
     {
-      "question": "Buong araw akong nasa tubig. Maaari ko bang gamitin ang Chiefy mula sa aking telepono?",
+      "question": "Buong araw akong nasa tubig. Maaari ko bang gamitin ang Duet mula sa aking telepono?",
       "answer": "Oo. Gumagana ang duet sa Gmail at Outlook, kaya gumagana ito saanman gumagana ang iyong email — kasama ang iyong telepono. Awtomatikong lumalabas ang mga draft. Sa pagitan ng mga catch, nagre-review ka at nagpapadala sa isang tap. Karamihan sa mga kapitan ay nagsasabi sa amin na nakakatipid ito sa kanila ng 1-2 oras ng oras ng email bawat araw sa panahon ng peak season."
     }
   ],

@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy kalastus chartereihin | AI-sähköpostiavustaja",
-  "metaDescription": "Chiefy auttaa kalastuksen charter-kapteeneja vastaamaan varaussähköposteihin välittömästi – jopa vedestä. AI-muotoiltuja vastauksia, joissa on hintasi, käytäntösi ja äänesi.",
+  "pageTitle": "Duet Mail kalastus chartereihin | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa kalastuksen charter-kapteeneja vastaamaan varaussähköposteihin välittömästi – jopa vedestä. AI-muotoiltuja vastauksia, joissa on hintasi, käytäntösi ja äänesi.",
   "heroBadge": "Yli 500 charter-kapteenin luottama",
   "heroHeadline": "Sähköpostiavustajasi ollessasi vesillä",
-  "heroSubline": "Chiefy oppii hintasi, käytäntösi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaiden vastausten takia.",
+  "heroSubline": "Duet oppii hintasi, käytäntösi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaiden vastausten takia.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Yksi tallennettu varaus maksaa Chiefy in vuoden."
+    "punchline": "Yksi tallennettu varaus maksaa Duet in vuoden."
   },
-  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt matkakysely ei enää jää huomaamatta.",
-  "draftSubtitle": "Chiefy oppii hinnoittelusi, käytäntösi ja sävysi. Kun varauskysely osuu, se laatii täydellisen vastauksen matkan yksityiskohdista, hinnoittelusta ja mukaan otettavasta. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Mitkä päivät ovat avoinna ensi viikolla?\" \"Luonnos vastaus Sarahille saatavuuden mukaan.\" Chiefy tuntee postilaatikkosi ja kalenterisi – kysy vain.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt matkakysely ei enää jää huomaamatta.",
+  "draftSubtitle": "Duet oppii hinnoittelusi, käytäntösi ja sävysi. Kun varauskysely osuu, se laatii täydellisen vastauksen matkan yksityiskohdista, hinnoittelusta ja mukaan otettavasta. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Mitkä päivät ovat avoinna ensi viikolla?\" \"Luonnos vastaus Sarahille saatavuuden mukaan.\" Duet tuntee postilaatikkosi ja kalenterisi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "kapteeni Mike D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "Huippusesongin aikana menetin 2-3 varausta viikossa, koska en pystynyt vastaamaan tarpeeksi nopeasti veneestä. Chiefy luonnostelee vastaukset hinnoillani ja matkan tiedoillani – painan vain lähetä saaliiden välillä.",
+      "quote": "Huippusesongin aikana menetin 2-3 varausta viikossa, koska en pystynyt vastaamaan tarpeeksi nopeasti veneestä. Duet luonnostelee vastaukset hinnoillani ja matkan tiedoillani – painan vain lähetä saaliiden välillä.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "Kuljetamme kahta venettä ja sähköpostien määrä kesällä on mieletön. Chiefy lajittelee varauspyynnöt kaikesta muusta ja laatii vastaukset, jotka kuulostavat täsmälleen samalta kuin me. Ehdoton pelin vaihtaja.",
+      "quote": "Kuljetamme kahta venettä ja sähköpostien määrä kesällä on mieletön. Duet lajittelee varauspyynnöt kaikesta muusta ja laatii vastaukset, jotka kuulostavat täsmälleen samalta kuin me. Ehdoton pelin vaihtaja.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Rannikalastusopas, TX",
-      "quote": "Vietin tunnin joka ilta vastaamaan samoihin saatavuuskysymyksiin. Nyt Chiefy hoitaa sen. Vastausaikani oli tunneista minuutteihin, enkä ole menettänyt varausta sen jälkeen.",
+      "quote": "Vietin tunnin joka ilta vastaamaan samoihin saatavuuskysymyksiin. Nyt Duet hoitaa sen. Vastausaikani oli tunneista minuutteihin, enkä ole menettänyt varausta sen jälkeen.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Charter Office Manager, HI",
-      "quote": "Sähköpostien hallinta 4 kapteenille oli kokopäiväistä työtä. Chiefy luokittelee kaiken ja laatii vastaukset oikealla veneellä, oikealla hinnalla, oikealla kapteenilla. On kuin minulla olisi toinen minä.",
+      "quote": "Sähköpostien hallinta 4 kapteenille oli kokopäiväistä työtä. Duet luokittelee kaiken ja laatii vastaukset oikealla veneellä, oikealla hinnalla, oikealla kapteenilla. On kuin minulla olisi toinen minä.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Toimiiko Chiefy varaus- ja saatavuussähköpostiviesteissä?",
-      "answer": "Ehdottomasti. Chiefy oppii matkatyypit, hinnat, saatavuuden ja käytännöt. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on oikeat tiedot – hinnat, mitä sisältyy hintaan, kokouspaikka, mitä tuoda. Tarkistat ja napautat lähetä."
+      "question": "Toimiiko Duet varaus- ja saatavuussähköpostiviesteissä?",
+      "answer": "Ehdottomasti. Duet oppii matkatyypit, hinnat, saatavuuden ja käytännöt. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on oikeat tiedot – hinnat, mitä sisältyy hintaan, kokouspaikka, mitä tuoda. Tarkistat ja napautat lähetä."
     },
     {
-      "question": "Olen vedessä koko päivän. Voinko käyttää Chiefy ia puhelimellani?",
-      "answer": "Kyllä. Chiefy toimii Gmailin ja Outlookin kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset tulevat näkyviin automaattisesti. Saaliiden välillä tarkistat ja lähetät yhdellä napautuksella. Useimmat kapteenit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+      "question": "Olen vedessä koko päivän. Voinko käyttää Duet ia puhelimellani?",
+      "answer": "Kyllä. Duet toimii Gmailin ja Outlookin kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset tulevat näkyviin automaattisesti. Saaliiden välillä tarkistat ja lähetät yhdellä napautuksella. Useimmat kapteenit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
     }
   ],
   "pricingNote": "Hinta 500 $/ charter, yksi tallennettu varaus maksaa yli vuoden Pro."

@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy para tiendas de buceo | Asistente de correo electrónico con IA",
-  "metaDescription": "Chiefy ayuda a los propietarios de tiendas de buceo y a los instructores PADI a responder consultas sobre certificaciones, reservas de viajes y preguntas sobre equipos al instante, incluso desde el agua.",
+  "pageTitle": "Duet Mail para tiendas de buceo | Asistente de correo electrónico con IA",
+  "metaDescription": "Duet Mail ayuda a los propietarios de tiendas de buceo y a los instructores PADI a responder consultas sobre certificaciones, reservas de viajes y preguntas sobre equipos al instante, incluso desde el agua.",
   "heroBadge": "Con la confianza de más de 300 operadores de buceo",
   "heroHeadline": "Tu asistente de correo electrónico mientras estás bajo el agua",
-  "heroSubline": "Chiefy conoce tus sitios de buceo, requisitos de certificación, precios y voz, y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva mientras estás en el barco.",
+  "heroSubline": "Duet conoce tus sitios de buceo, requisitos de certificación, precios y voz, y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva mientras estás en el barco.",
   "inboxEmails": [
     {
       "from": "Raquel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "bucear",
     "lostPerMonth": "3 viajes (6 buceadores cada uno)",
     "monthlyLoss": "$2,700",
-    "punchline": "Una inmersión grupal guardada paga por un año de Chiefy."
+    "punchline": "Una inmersión grupal guardada paga por un año de Duet."
   },
-  "categorizationSubtitle": "Chiefy etiqueta automáticamente cada correo electrónico para que veas primero las consultas sobre certificaciones y reservas de buceo, luego las preguntas sobre equipo y las alertas PADI cuando estés listo. No más perderse una reserva de grupo enterrada bajo los boletines informativos sobre equipos.",
-  "draftSubtitle": "Chiefy conoce sus sitios de buceo, requisitos de certificados y precios. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del viaje, qué está incluido y qué llevar. Tu revisas y envías.",
-  "agentSubtitle": "\"¿Cuántos buceadores hay reservados para el sábado?\" \"Redacta una respuesta a Rachel con disponibilidad de Open Water\". Chiefy conoce tu bandeja de entrada y tu horario, solo pregúntale.",
+  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las consultas sobre certificaciones y reservas de buceo, luego las preguntas sobre equipo y las alertas PADI cuando estés listo. No más perderse una reserva de grupo enterrada bajo los boletines informativos sobre equipos.",
+  "draftSubtitle": "Duet conoce sus sitios de buceo, requisitos de certificados y precios. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del viaje, qué está incluido y qué llevar. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Cuántos buceadores hay reservados para el sábado?\" \"Redacta una respuesta a Rachel con disponibilidad de Open Water\". Duet conoce tu bandeja de entrada y tu horario, solo pregúntale.",
   "categorizationEmails": [
     {
       "from": "Raquel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Capitán Mike T.",
       "title": "Capitán de barco de buceo, FL",
-      "quote": "Realizo viajes en barco de viernes a domingo y la tienda solo abre unas pocas horas los lunes. Las preguntas sobre certificaciones y viajes se acumulan mientras estoy bajo el agua. Chiefy borradores de respuestas con mis precios, sitios de buceo y lo que está incluido; los reviso entre inmersiones.",
+      "quote": "Realizo viajes en barco de viernes a domingo y la tienda solo abre unas pocas horas los lunes. Las preguntas sobre certificaciones y viajes se acumulan mientras estoy bajo el agua. Duet borradores de respuestas con mis precios, sitios de buceo y lo que está incluido; los reviso entre inmersiones.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen y Mark S.",
       "title": "Centro de buceo PADI, Hawaii",
-      "quote": "Realizamos inmersiones, tours de snorkel y avistamientos de ballenas desde los mismos barcos. La variedad de correos electrónicos es una locura: preguntas sobre certificados, reservas de grupos, alquiler de equipos, comprobaciones meteorológicas. Chiefy lo ordena todo y redacta respuestas que conocen la diferencia. Absoluto salvavidas.",
+      "quote": "Realizamos inmersiones, tours de snorkel y avistamientos de ballenas desde los mismos barcos. La variedad de correos electrónicos es una locura: preguntas sobre certificados, reservas de grupos, alquiler de equipos, comprobaciones meteorológicas. Duet lo ordena todo y redacta respuestas que conocen la diferencia. Absoluto salvavidas.",
       "avatarKey": "jennifer"
     },
     {
       "name": "jake r.",
       "title": "Cartas de buceo en naufragios, Florida",
-      "quote": "La mitad de mis correos electrónicos son \"¿qué certificación necesito para las inmersiones en pecios?\" y la otra mitad es \"¿necesito mi propio equipo?\" Chiefy maneja ambos en piloto automático. Mi tiempo de respuesta pasó de horas a minutos.",
+      "quote": "La mitad de mis correos electrónicos son \"¿qué certificación necesito para las inmersiones en pecios?\" y la otra mitad es \"¿necesito mi propio equipo?\" Duet maneja ambos en piloto automático. Mi tiempo de respuesta pasó de horas a minutos.",
       "avatarKey": "johnny"
     },
     {
       "name": "francesca d.",
       "title": "Propietario de tienda de buceo, CA",
-      "quote": "Durante el verano recibimos más de 30 correos electrónicos al día sobre cursos, disponibilidad de viajes y equipos. Estaba perdiendo reservas en tiendas que respondían más rápido. Ahora Chiefy redacta todo y simplemente presiono enviar entre clases.",
+      "quote": "Durante el verano recibimos más de 30 correos electrónicos al día sobre cursos, disponibilidad de viajes y equipos. Estaba perdiendo reservas en tiendas que respondían más rápido. Ahora Duet redacta todo y simplemente presiono enviar entre clases.",
       "avatarKey": "francesca"
     },
     {
       "name": "sara k.",
       "title": "Instructor y guía de buceo, Carolina del Norte",
-      "quote": "Imparto cursos por la mañana y guío inmersiones por la tarde. Literalmente no hay tiempo para responder correos electrónicos. Chiefy conoció el horario de mis cursos, los precios e incluso mi política de cancelación. Los clientes no pueden notar la diferencia.",
+      "quote": "Imparto cursos por la mañana y guío inmersiones por la tarde. Literalmente no hay tiempo para responder correos electrónicos. Duet conoció el horario de mis cursos, los precios e incluso mi política de cancelación. Los clientes no pueden notar la diferencia.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "¿Chiefy comprende los niveles de certificación y los requisitos del curso?",
-      "answer": "Sí. Chiefy aprende tus cursos específicos (Open Water, Advanced, Rescue, Divemaster) junto con los requisitos previos, la duración, los precios y lo que está incluido. Cuando alguien pregunta acerca de cómo obtener la certificación, Chiefy redacta una respuesta con los detalles correctos del curso, el cronograma y los próximos pasos. Tu revisas y envías."
+      "question": "¿Duet comprende los niveles de certificación y los requisitos del curso?",
+      "answer": "Sí. Duet aprende tus cursos específicos (Open Water, Advanced, Rescue, Divemaster) junto con los requisitos previos, la duración, los precios y lo que está incluido. Cuando alguien pregunta acerca de cómo obtener la certificación, Duet redacta una respuesta con los detalles correctos del curso, el cronograma y los próximos pasos. Tu revisas y envías."
     },
     {
-      "question": "Estoy en el barco o bajo el agua todo el día. ¿Puedo usar Chiefy desde mi teléfono?",
-      "answer": "Sí. Chiefy funciona con Gmail y Outlook, por lo que funciona dondequiera que funcione su correo electrónico, incluido su teléfono. Los borradores aparecen automáticamente en su bandeja de entrada. Entre inmersiones o de regreso al muelle, revisas y envías con un solo toque. La mayoría de los operadores de buceo nos dicen que les ahorra entre 1 y 2 horas de correo electrónico por día durante la temporada alta."
+      "question": "Estoy en el barco o bajo el agua todo el día. ¿Puedo usar Duet desde mi teléfono?",
+      "answer": "Sí. Duet funciona con Gmail y Outlook, por lo que funciona dondequiera que funcione su correo electrónico, incluido su teléfono. Los borradores aparecen automáticamente en su bandeja de entrada. Entre inmersiones o de regreso al muelle, revisas y envías con un solo toque. La mayoría de los operadores de buceo nos dicen que les ahorra entre 1 y 2 horas de correo electrónico por día durante la temporada alta."
     }
   ],
   "pricingNote": "A $150 por inmersión con un grupo de 6 personas, un viaje guardado paga más de un año de Pro."

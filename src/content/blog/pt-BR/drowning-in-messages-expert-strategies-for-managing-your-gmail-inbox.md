@@ -2,7 +2,7 @@
 title: "Afogando-se em mensagens? Estratégias de especialistas para gerenciar sua caixa de entrada do Gmail"
 description: "Pare a sobrecarga de e-mails. Aprenda estratégias de especialistas para gerenciar sua caixa de entrada do Gmail, de táticas clássicas a ferramentas de IA, e recupere sua produtividade."
 publishedAt: 2025-07-04
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["IA", "Gmail", "Gestão da caixa de entrada", "E-mail"]
 draft: false
 ---
@@ -156,7 +156,7 @@ Assistentes de e-mail com IA vão além da automação simples; eles oferecem ca
 
 **O benefício:** Em vez de você cavar a pilha, a IA destaca automaticamente os e-mails que exigem ação imediata. Isso reduz drasticamente o tempo de classificação, garante que itens críticos não sejam perdidos, diminui o estresse da sobrecarga da caixa de entrada e libera sua energia para trabalho de impacto, não para administração de e-mails.
 
-**Link do Chiefy (contextual):** _Essa classificação inteligente é exatamente o que profissionais ocupados precisam. É aqui que ferramentas como _[Chiefy](https://chiefy.com/pt-BR)_ se destacam, usando **triagem por IA** para analisar urgência, ações necessárias e decisões, apresentando tudo com clareza em um **painel focado** para que você saiba imediatamente o que precisa de atenção._
+**Link do Duet Mail (contextual):** _Essa classificação inteligente é exatamente o que profissionais ocupados precisam. É aqui que ferramentas como _[Duet Mail](https://duetmail.com/pt-BR)_ se destacam, usando **triagem por IA** para analisar urgência, ações necessárias e decisões, apresentando tudo com clareza em um **painel focado** para que você saiba imediatamente o que precisa de atenção._
 
 ### Resumo inteligente: entenda conversas longas e anexos instantaneamente
 
@@ -216,4 +216,4 @@ A tecnologia, especialmente a ascensão de assistentes inteligentes de e-mail co
 
 Dominar o Gmail não é apenas alcançar um espaço digital arrumado. É reduzir significativamente o estresse no trabalho, recuperar horas valiosas por semana, proteger sua capacidade de focar em trabalho profundo e significativo e, em última análise, aumentar sua eficácia e bem-estar. Ao combinar hábitos disciplinados com o uso estratégico de ferramentas inteligentes, você pode transformar sua caixa de entrada de fonte de apreensão em um centro de comunicação gerenciável.
 
-Pronto para experimentar como a IA pode transformar sua relação com e-mail? Dê o primeiro passo rumo a um dia de trabalho mais calmo e produtivo. Veja como o [Chiefy](https://chiefy.com/pt-BR) usa triagem com IA, resumo inteligente e redação autêntica para ajudar profissionais ocupados como você a dominar a caixa de entrada.
+Pronto para experimentar como a IA pode transformar sua relação com e-mail? Dê o primeiro passo rumo a um dia de trabalho mais calmo e produtivo. Veja como o [Duet Mail](https://duetmail.com/pt-BR) usa triagem com IA, resumo inteligente e redação autêntica para ajudar profissionais ocupados como você a dominar a caixa de entrada.

@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Chiefy za obilaske psećih zaprega | AI pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže musherima da odmah odgovore na e-poruke s rezervacijama — čak i sa staze. Odgovori izrađeni pomoću umjetne inteligencije s vašim vrstama putovanja, cijenama, pravilima i glasom.",
+  "pageTitle": "Duet Mail za obilaske psećih zaprega | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže musherima da odmah odgovore na e-poruke s rezervacijama — čak i sa staze. Odgovori izrađeni pomoću umjetne inteligencije s vašim vrstama putovanja, cijenama, pravilima i glasom.",
   "heroBadge": "Vjeruje mu 200+ mushera",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na stazi",
-  "heroSubline": "Chiefy uči vaše vrste putovanja, cijene, vremensku politiku i dodatke — zatim sastavlja skice odgovora e-poštom kako nikada ne biste izgubili rezervaciju zbog sporog odgovora.",
+  "heroSubline": "Duet uči vaše vrste putovanja, cijene, vremensku politiku i dodatke — zatim sastavlja skice odgovora e-poštom kako nikada ne biste izgubili rezervaciju zbog sporog odgovora.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "turneja",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dvije spremljene rezervacije plaćaju godinu Chiefy."
+    "punchline": "Dvije spremljene rezervacije plaćaju godinu Duet."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite zahtjeve za rezervaciju, zatim pitanja, a nikad buku. Nema više propuštanja upita o obilasku zakopanog pod TripAdvisor upozorenjima.",
-  "draftSubtitle": "Chiefy uči vaše vrste putovanja, cijene i ton. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s pojedinostima o paketu, što odjenuti i dodacima. Vi pregledate i pošaljete.",
-  "agentSubtitle": "\"Ima li rezervacija ovaj vikend?\" \"Nacrtaj odgovor o kombinaciji aurora.\" Chiefy zna vašu pristiglu poštu i raspored — samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahtjeve za rezervaciju, zatim pitanja, a nikad buku. Nema više propuštanja upita o obilasku zakopanog pod TripAdvisor upozorenjima.",
+  "draftSubtitle": "Duet uči vaše vrste putovanja, cijene i ton. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s pojedinostima o paketu, što odjenuti i dodacima. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Ima li rezervacija ovaj vikend?\" \"Nacrtaj odgovor o kombinaciji aurora.\" Duet zna vašu pristiglu poštu i raspored — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Turoperator za sanjke pasa, AK",
-      "quote": "Na stazi sam 6 sati dnevno bez mobilnog servisa. Dok sam se vratio, polovica upita za rezervacije otišla je drugoj tvrtki. Chiefy sastavlja odgovore s detaljima mog obilaska i cijenama — gosti se javljaju za nekoliko minuta, a ne za nekoliko sati.",
+      "quote": "Na stazi sam 6 sati dnevno bez mobilnog servisa. Dok sam se vratio, polovica upita za rezervacije otišla je drugoj tvrtki. Duet sastavlja odgovore s detaljima mog obilaska i cijenama — gosti se javljaju za nekoliko minuta, a ne za nekoliko sati.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Vlasnik Kennel & Mush Tour, AK",
-      "quote": "Nudimo posjete uzgajivačnici, vožnju kašom i kombinacije aurore — svaka e-poruka zahtijeva drugačiji odgovor. Chiefy je shvatio sve tri vrste putovanja u tjedan dana i sada svaki put sastavlja odgovore koji odgovaraju pravom paketu.",
+      "quote": "Nudimo posjete uzgajivačnici, vožnju kašom i kombinacije aurore — svaka e-poruka zahtijeva drugačiji odgovor. Duet je shvatio sve tri vrste putovanja u tjedan dana i sada svaki put sastavlja odgovore koji odgovaraju pravom paketu.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Vodič za pseće zaprege, MN",
-      "quote": "Nekad sam provodio svaku večer odgovarajući na ista pitanja o tome što odjenuti, dobnim granicama i psima. Chiefy rješava sve to. Dođem kući sa staze i sve je nacrtano i čeka.",
+      "quote": "Nekad sam provodio svaku večer odgovarajući na ista pitanja o tome što odjenuti, dobnim granicama i psima. Duet rješava sve to. Dođem kući sa staze i sve je nacrtano i čeka.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Turoperator Aurora & Sled, AK",
-      "quote": "Otkazivanja vremenskih uvjeta zimi su stalna. Chiefy izrađuje skice odgovora s ponovnim rasporedom s našim pravilima i alternativnim datumima prije nego što uopće dobijem priliku provjeriti svoj telefon. Gosti vole brz odgovor.",
+      "quote": "Otkazivanja vremenskih uvjeta zimi su stalna. Duet izrađuje skice odgovora s ponovnim rasporedom s našim pravilima i alternativnim datumima prije nego što uopće dobijem priliku provjeriti svoj telefon. Gosti vole brz odgovor.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Obiteljske avanture za pseće zaprege, CO",
-      "quote": "Roditelji uvijek pitaju mogu li njihova djeca kašati, jesu li psi prijateljski nastrojeni, što obući — istih 10 pitanja. Chiefy je naučio svaki odgovor i savršeno ga sastavlja. To je kao da se kloniram za e-poštu.",
+      "quote": "Roditelji uvijek pitaju mogu li njihova djeca kašati, jesu li psi prijateljski nastrojeni, što obući — istih 10 pitanja. Duet je naučio svaki odgovor i savršeno ga sastavlja. To je kao da se kloniram za e-poštu.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Kako se Chiefy nosi s otkazivanjem vremena i neizvjesnošću polarne svjetlosti?",
-      "answer": "Chiefy uči vaša pravila otkazivanja i pomicanja termina. Kada gost pošalje e-poruku o problemima s vremenskim prilikama ili vidljivosti polarne svjetlosti, on sastavlja skicu odgovora s vašim pravilima, alternativnim datumima i svim relevantnim detaljima — poput praćenja uvjeta i potvrde približavanja obilasku. Vi pregledate i pošaljete."
+      "question": "Kako se Duet nosi s otkazivanjem vremena i neizvjesnošću polarne svjetlosti?",
+      "answer": "Duet uči vaša pravila otkazivanja i pomicanja termina. Kada gost pošalje e-poruku o problemima s vremenskim prilikama ili vidljivosti polarne svjetlosti, on sastavlja skicu odgovora s vašim pravilima, alternativnim datumima i svim relevantnim detaljima — poput praćenja uvjeta i potvrde približavanja obilasku. Vi pregledate i pošaljete."
     },
     {
-      "question": "Nudim više vrsta putovanja s različitim cijenama i dodacima. Može li ih Chiefy držati ispravnima?",
-      "answer": "Da. Chiefy uči svaki od vaših tipova putovanja - posjete uzgajivačnici, iskustva s kašom, kombinacije aurore, dodatke za fotografije, prijevozne pakete - zajedno s njihovim cijenama, trajanjem i onim što je uključeno. Kada stigne upit, ono odgovara ispravnom obilasku i sastavlja odgovor s točnim detaljima."
+      "question": "Nudim više vrsta putovanja s različitim cijenama i dodacima. Može li ih Duet držati ispravnima?",
+      "answer": "Da. Duet uči svaki od vaših tipova putovanja - posjete uzgajivačnici, iskustva s kašom, kombinacije aurore, dodatke za fotografije, prijevozne pakete - zajedno s njihovim cijenama, trajanjem i onim što je uključeno. Kada stigne upit, ono odgovara ispravnom obilasku i sastavlja odgovor s točnim detaljima."
     }
   ],
   "pricingNote": "Po cijeni od 150 USD po obilasku, dvije spremljene rezervacije plaćaju više od godinu dana Pro."

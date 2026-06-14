@@ -2,7 +2,7 @@
 title: "Domineu la vostra safata d'entrada amb aquestes eines i estratègies d'organització essencials de Gmail"
 description: "Obteniu informació sobre les eines d'organització Gmail essencials, estratègies com ara Inbox Zero i GTD, i com els assistents AI us poden ajudar a dominar la vostra safata d'entrada i augmentar la productivitat."
 publishedAt: 2025-09-01
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI","Gmail","Gestió de la safata d'entrada","Eines"]
 draft: false
 ---
@@ -299,7 +299,7 @@ Imagineu una safata d'entrada que sap automàticament què és urgent. El triatg
 
 **Avantatges:** Redueix dràsticament el temps d'ordenació manual, mostra missatges crítics que poden quedar enterrats, minimitza les distraccions del correu de baixa prioritat i combat el cansament de les decisions fent l'avaluació inicial "important/no important" per a tu. Eines com [**SaneBox**](https://www.sanebox.com/) i [**Superhuman**](https://superhuman.com/) són conegudes per les seves capacitats d'ordenació impulsades per AI.
 
-Aquesta ordenació intel·ligent és exactament per a què estan dissenyades eines com [Chiefy](https://chiefy.com/). El seu AI Triage analitza el correu entrant per a la urgència i les accions necessàries, presentant-los en un tauler de control centrat perquè vegeu immediatament què necessita atenció, eliminant el soroll d'una bústia d'entrada cronològica tradicional.
+Aquesta ordenació intel·ligent és exactament per a què estan dissenyades eines com [Duet Mail](https://duetmail.com/). El seu AI Triage analitza el correu entrant per a la urgència i les accions necessàries, presentant-los en un tauler de control centrat perquè vegeu immediatament què necessita atenció, eliminant el soroll d'una bústia d'entrada cronològica tradicional.
 
 
 ### Comprensió instantània: AI-Powered Sumarization
@@ -311,7 +311,7 @@ Heu obert mai un fil de correu electrònic de 50 respostes i heu sentit que us e
 **Avantatges:** Això estalvia enormes quantitats de temps per posar-se al dia, evita que es perdi informació crucial i millora la comprensió general, especialment en debats complexos de projectes o clients. Diverses eines AI, com ara [**Outlook Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot-for-microsoft-365), [**Shortwave**](https://shortwave.com/) i complements dedicats Gmail com [**AI Mail Assistant**](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) o []**QX7, aquesta capacitat o []**Q.
 
 
-Imagineu-vos saltar a un llarg fil de client i agafar instantàniament els punts clau. Els assistents AI com Chiefy ofereixen un resum intel·ligent, que condensa automàticament les converses i recorda detalls contextuals sobre projectes i relacions, de manera que pugueu respondre de manera ràpida i precisa sense tornar a llegir-ho tot.
+Imagineu-vos saltar a un llarg fil de client i agafar instantàniament els punts clau. Els assistents AI com Duet Mail ofereixen un resum intel·ligent, que condensa automàticament les converses i recorda detalls contextuals sobre projectes i relacions, de manera que pugueu respondre de manera ràpida i precisa sense tornar a llegir-ho tot.
 
 
 ### Comunicació sense esforç: Redacció conscient del context
@@ -323,7 +323,7 @@ Escriure correus electrònics, especialment els rutinaris, consumeix una gran pa
 **Avantatges:** això accelera dràsticament els temps de resposta, garanteix una comunicació professional i coherent i us allibera de la pèrdua mental de redactar missatges similars repetidament. Moltes eines ofereixen això, des d'escriptors generals de AI com [**ComposeIt**](https://www.scribowriter.com/post/best-ai-email-assistant) fins a assistents integrats a [**Superhuman**](https://superhuman.com/) o [**Gemini per a Google Workspace**](https://workspace.google.com/solutions/ai/).
 
 
-L'elaboració de respostes personalitzades requereix temps. Els redactors de AI poden accelerar-ho, però sonar autèntic és clau. L'Authentic AI Drafting de Chiefy aprèn el vostre vocabulari i el to específics dels correus electrònics anteriors, suggerint respostes que sonen realment com vosaltres, mantenint relacions alhora que estalvieu hores.
+L'elaboració de respostes personalitzades requereix temps. Els redactors de AI poden accelerar-ho, però sonar autèntic és clau. L'Authentic AI Drafting de Duet Mail aprèn el vostre vocabulari i el to específics dels correus electrònics anteriors, suggerint respostes que sonen realment com vosaltres, mantenint relacions alhora que estalvieu hores.
 
 
 AI representa un canvi fonamental de _gestionar_ correus electrònics a _augmentar_ les tasques cognitives implicades: entendre, prioritzar, resumir i comunicar-se. La clau és trobar eines AI que aprenguin les vostres necessitats i estils específics, oferint una assistència personalitzada que sembli natural i fiable.
@@ -346,7 +346,7 @@ La veritat és que **no hi ha una única resposta correcta**. El millor sistema 
 - Un **gestor de projectes** podria integrar Asana o Todoist i utilitzar etiquetes àmpliament per al seguiment del projecte.
 
 
-- Un **entusiasta de la productivitat** pot combinar els principis Inbox Zero amb el processament per lots i experimentar amb eines AI com Superhuman o Chiefy.
+- Un **entusiasta de la productivitat** pot combinar els principis Inbox Zero amb el processament per lots i experimentar amb eines AI com Superhuman o Duet Mail.
 
 
 **Aquí teniu un camí per trobar la vostra configuració ideal:**
@@ -364,7 +364,7 @@ La veritat és que **no hi ha una única resposta correcta**. El millor sistema 
 4. **Exploreu solucions:** cerqueu eines de tercers o AI que abordin específicament el vostre coll d'ampolla més gran.
 
 
-5. **Penseu en AI integrat:** Si atracten diverses funcions de AI (triatge, resum, esborrany), exploreu plataformes com [Chiefy](https://chiefy.com/) que combinen aquestes capacitats per a una experiència cohesionada, la qual cosa podria simplificar el vostre conjunt d'eines.
+5. **Penseu en AI integrat:** Si atracten diverses funcions de AI (triatge, resum, esborrany), exploreu plataformes com [Duet Mail](https://duetmail.com/) que combinen aquestes capacitats per a una experiència cohesionada, la qual cosa podria simplificar el vostre conjunt d'eines.
 
 
 6. **Afinar:** Ajusta contínuament el teu sistema. El que va funcionar el mes passat podria necessitar ajustar-se a mesura que canvien el vostre rol o els vostres projectes.
@@ -379,4 +379,4 @@ La sobrecàrrega de correu electrònic és un repte generalitzat en el lloc de t
 L'objectiu final és dedicar menys temps a _gestionar_ el correu electrònic i més temps a fer la feina que realment importa. Tant si comenceu configurant uns quants filtres clau, us comprometeu amb el processament per lots o exploreu un assistent AI, feu un pas avui cap a una vida digital més tranquil·la i organitzada.
 
 
-Estàs preparat per experimentar el poder de l'organització de correu electrònic impulsada per AI que aprèn el teu estil i prioritats? [**Explora com Chiefy**](https://chiefy.com/) pot transformar la teva relació amb la teva safata d'entrada i tornar-te hores cada setmana. Prova-ho avui!
+Estàs preparat per experimentar el poder de l'organització de correu electrònic impulsada per AI que aprèn el teu estil i prioritats? [**Explora com Duet Mail**](https://duetmail.com/) pot transformar la teva relació amb la teva safata d'entrada i tornar-te hores cada setmana. Prova-ho avui!

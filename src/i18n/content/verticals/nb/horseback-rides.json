@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy for rideturer og stiguider | AI-e-postassistent",
-  "metaDescription": "Chiefy hjelper turoperatører med å svare på bestillings-e-poster umiddelbart – selv fra salen. AI-utkastede svar med dine priser, krav til rytter og stemme.",
+  "pageTitle": "Duet Mail for rideturer og stiguider | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper turoperatører med å svare på bestillings-e-poster umiddelbart – selv fra salen. AI-utkastede svar med dine priser, krav til rytter og stemme.",
   "heroBadge": "Godkjent av 300+ stiguider",
   "heroHeadline": "Din e-postassistent mens du er på sporet",
-  "heroSubline": "Chiefy lærer turtypene dine, priser, krav til ryttere og løypeforhold – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
+  "heroSubline": "Duet lærer turtypene dine, priser, krav til ryttere og løypeforhold – og lager deretter utkast til e-postsvar slik at du aldri mister en bestilling på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ri",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Én lagret gruppetur betaler for over to år med Chiefy."
+    "punchline": "Én lagret gruppetur betaler for over to år med Duet."
   },
-  "categorizationSubtitle": "Chiefy merker automatisk hver e-post, slik at du ser bestillingsforespørsler først, rytterspørsmål etter det, og aldri støy. Ikke mer mangler en gruppeforespørsel begravet under TripAdvisor-varsler.",
-  "draftSubtitle": "Chiefy lærer dine kjøretyper, priser og krav. Når en bestillingsforespørsel treffer, utarbeider den et komplett svar med løypedetaljer, priser og hva du skal ha på deg. Du anmelder og sender.",
-  "agentSubtitle": "\"Er det noen turer som er åpne denne helgen?\" \"Utkast et svar til Jessica med tilgjengelighet på lørdag.\"Chiefy kjenner innboksen og kalenderen din – bare spør.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post, slik at du ser bestillingsforespørsler først, rytterspørsmål etter det, og aldri støy. Ikke mer mangler en gruppeforespørsel begravet under TripAdvisor-varsler.",
+  "draftSubtitle": "Duet lærer dine kjøretyper, priser og krav. Når en bestillingsforespørsel treffer, utarbeider den et komplett svar med løypedetaljer, priser og hva du skal ha på deg. Du anmelder og sender.",
+  "agentSubtitle": "\"Er det noen turer som er åpne denne helgen?\" \"Utkast et svar til Jessica med tilgjengelighet på lørdag.\"Duet kjenner innboksen og kalenderen din – bare spør.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Ranch-eier og stiguide, MT",
-      "quote": "Jeg er ute på stien 6 timer i døgnet uten mobiltjeneste. Da jeg kom tilbake for å svare, hadde halvparten av folket bestilt et annet sted. Nå legger Chiefy utkast til svar med pris- og kjøredetaljene mine – jeg bare gjennomgår og sender når jeg kommer tilbake til låven.",
+      "quote": "Jeg er ute på stien 6 timer i døgnet uten mobiltjeneste. Da jeg kom tilbake for å svare, hadde halvparten av folket bestilt et annet sted. Nå legger Duet utkast til svar med pris- og kjøredetaljene mine – jeg bare gjennomgår og sender når jeg kommer tilbake til låven.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Turoperatør på hesteryggen, AZ",
-      "quote": "Vi får dusinvis av e-poster som spør om det samme – vektgrenser, hva vi skal ha på oss, alderskrav. Chiefy håndterer alt og svarene høres akkurat ut som meg. Gjestene mine aner ikke at det er AI.",
+      "quote": "Vi får dusinvis av e-poster som spør om det samme – vektgrenser, hva vi skal ha på oss, alderskrav. Duet håndterer alt og svarene høres akkurat ut som meg. Gjestene mine aner ikke at det er AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Høysesongen tok livet av meg. 30+ e-poster om dagen på toppen av løpeturer. Chiefy sorterer bestillingsforespørslene fra støyen og utkast til svar som inkluderer alt - priser, hva du skal ta med, partiet. Jeg fikk tilbake kveldene mine.",
+      "quote": "Høysesongen tok livet av meg. 30+ e-poster om dagen på toppen av løpeturer. Duet sorterer bestillingsforespørslene fra støyen og utkast til svar som inkluderer alt - priser, hva du skal ta med, partiet. Jeg fikk tilbake kveldene mine.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Rideinstruktør og bookingsjef, TX",
-      "quote": "Vi kjører solnedgangsturer, morgenturer og privattimer - hver med forskjellige priser og krav. Chiefy lærte alt på en uke. Den utarbeider det riktige svaret for den riktige kjøretypen hver gang.",
+      "quote": "Vi kjører solnedgangsturer, morgenturer og privattimer - hver med forskjellige priser og krav. Duet lærte alt på en uke. Den utarbeider det riktige svaret for den riktige kjøretypen hver gang.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "De sensitive e-postene var de verste - noen som spør om de er for tunge, eller om barnet deres er gammelt nok. Chiefy håndterer de med samme omsorg som jeg ville gjort. fesjonell, snill og nøyaktig. Det alene er verdt det.",
+      "quote": "De sensitive e-postene var de verste - noen som spør om de er for tunge, eller om barnet deres er gammelt nok. Duet håndterer de med samme omsorg som jeg ville gjort. fesjonell, snill og nøyaktig. Det alene er verdt det.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Hvordan håndterer Chiefy sensitive spørsmål om vekt eller erfaringskrav?",
-      "answer": "Chiefy lærer dine spesifikke retningslinjer og speiler tonen din. Når noen spør om vektgrenser eller erfaringskrav, svarer de profesjonelt og varmt – deler informasjonen de trenger uten å gjøre det vanskelig. Du setter tonen én gang og Chiefy følger den konsekvent, slik at hver gjest føler seg respektert."
+      "question": "Hvordan håndterer Duet sensitive spørsmål om vekt eller erfaringskrav?",
+      "answer": "Duet lærer dine spesifikke retningslinjer og speiler tonen din. Når noen spør om vektgrenser eller erfaringskrav, svarer de profesjonelt og varmt – deler informasjonen de trenger uten å gjøre det vanskelig. Du setter tonen én gang og Duet følger den konsekvent, slik at hver gjest føler seg respektert."
     },
     {
-      "question": "Kan Chiefy håndtere gruppebestillinger med ulike rytterbehov?",
-      "answer": "Ja. Chiefy lærer dine kjøretyper, gruppestørrelser, aldersminimum og eventuelle rytterspesifikke krav. Når en familie eller gruppe sender e-post om bestilling, utarbeider den et svar som dekker priser for hele gruppen, hva hver enkelt rytter trenger å vite og tilgjengelige tidsluker. Du gjennomgår og sender - ingen frem og tilbake nødvendig."
+      "question": "Kan Duet håndtere gruppebestillinger med ulike rytterbehov?",
+      "answer": "Ja. Duet lærer dine kjøretyper, gruppestørrelser, aldersminimum og eventuelle rytterspesifikke krav. Når en familie eller gruppe sender e-post om bestilling, utarbeider den et svar som dekker priser for hele gruppen, hva hver enkelt rytter trenger å vite og tilgjengelige tidsluker. Du gjennomgår og sender - ingen frem og tilbake nødvendig."
     }
   ],
   "pricingNote": "For $100/person for en gruppe på 6, betaler én spart tur for over to år med Pro."

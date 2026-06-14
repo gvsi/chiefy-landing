@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy maisemasuunnittelijoille | AI-sähköpostiavustaja",
-  "metaDescription": "Chiefy auttaa maisemasuunnittelijoita vastaamaan asiakkaiden sähköposteihin välittömästi – jopa kentältä. AI-muotoiltuja vastauksia, joissa on projektisi tiedot, hinnat ja ääni.",
+  "pageTitle": "Duet Mail maisemasuunnittelijoille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa maisemasuunnittelijoita vastaamaan asiakkaiden sähköposteihin välittömästi – jopa kentältä. AI-muotoiltuja vastauksia, joissa on projektisi tiedot, hinnat ja ääni.",
   "heroBadge": "Yli 300 maisemasuunnittelijan luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet kentällä",
-  "heroSubline": "Chiefy oppii projektisi yksityiskohdat, kasvipaletit, hinnoittelun ja prosessin – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä asiakasta hitaiden vastausten takia.",
+  "heroSubline": "Duet oppii projektisi yksityiskohdat, kasvipaletit, hinnoittelun ja prosessin – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä asiakasta hitaiden vastausten takia.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekti",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Yksi tallennettu projekti maksaa Chiefy in vuosien."
+    "punchline": "Yksi tallennettu projekti maksaa Duet in vuosien."
   },
-  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uudet konsultaatiopyynnöt, toiseksi asiakkaiden hyväksynnät ja toimittajan melu ei koskaan. Ei enää puuttuu lyijyä, joka on haudattu lastenhuoneen tilausvahvistusten alle.",
-  "draftSubtitle": "Chiefy oppii hinnoittelusi, prosessisi ja sävysi. Kun konsultointipyyntö saapuu, se laatii täydellisen vastauksen, jossa kerrotaan saatavuus, mitä odottaa ja seuraavat vaiheet. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Mikä on Henderson-projektin aikajana?\" \"Mitkä asiakkaat odottavat suunnitelman hyväksyntää?\" Chiefy tuntee postilaatikkosi ja projektisi – kysy vain.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uudet konsultaatiopyynnöt, toiseksi asiakkaiden hyväksynnät ja toimittajan melu ei koskaan. Ei enää puuttuu lyijyä, joka on haudattu lastenhuoneen tilausvahvistusten alle.",
+  "draftSubtitle": "Duet oppii hinnoittelusi, prosessisi ja sävysi. Kun konsultointipyyntö saapuu, se laatii täydellisen vastauksen, jossa kerrotaan saatavuus, mitä odottaa ja seuraavat vaiheet. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Mikä on Henderson-projektin aikajana?\" \"Mitkä asiakkaat odottavat suunnitelman hyväksyntää?\" Duet tuntee postilaatikkosi ja projektisi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Maisema-arkkitehti, Austin TX",
-      "quote": "Kevään aikana olen paikan päällä 8 tuntia päivässä tekemässä arviointeja ja asennusvalvontaa. Uudet neuvottelupyynnöt kestäisivät päiviä. Nyt Chiefy vastaa prosessistani ja saatavuudestani muutamassa minuutissa. Olen varannut 3 projektia, jotka olisin varmasti menettänyt.",
+      "quote": "Kevään aikana olen paikan päällä 8 tuntia päivässä tekemässä arviointeja ja asennusvalvontaa. Uudet neuvottelupyynnöt kestäisivät päiviä. Nyt Duet vastaa prosessistani ja saatavuudestani muutamassa minuutissa. Olen varannut 3 projektia, jotka olisin varmasti menettänyt.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Garden Designer, Portland OR",
-      "quote": "Hardscape-miehistön, kasteluasentajien ja asiakkaiden välinen koordinointi tuottaa järjettömän määrän sähköpostia. Chiefy lajittelee kaiken ja laatii vastaukset, jotka sisältävät oikeat projektitiedot. Se on kuin studiopäällikkö.",
+      "quote": "Hardscape-miehistön, kasteluasentajien ja asiakkaiden välinen koordinointi tuottaa järjettömän määrän sähköpostia. Duet lajittelee kaiken ja laatii vastaukset, jotka sisältävät oikeat projektitiedot. Se on kuin studiopäällikkö.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Maisemasuunnittelustudion omistaja, Denver CO",
-      "quote": "Vietin joka ilta kenttätöiden jälkeen sähköpostien lukemiseen. Samat kysymykset - hinnoittelu, prosessi, aikajana. Chiefy ti hoitaa kaiken. Vastausaikani oli päivistä minuutteihin ja sulkemisnopeusni on paljon korkeampi.",
+      "quote": "Vietin joka ilta kenttätöiden jälkeen sähköpostien lukemiseen. Samat kysymykset - hinnoittelu, prosessi, aikajana. Duet ti hoitaa kaiken. Vastausaikani oli päivistä minuutteihin ja sulkemisnopeusni on paljon korkeampi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "Asiakkaani kysyvät paljon tehdasvalinnoista ja kunnossapidosta. Chiefy oppi kasvipaletit ja hoito-ohjeet ja luonnokset, joita minun tuskin tarvitsee muokata. Asiakkaiden mielestä olen uskomattoman reagoiva.",
+      "quote": "Asiakkaani kysyvät paljon tehdasvalinnoista ja kunnossapidosta. Duet oppi kasvipaletit ja hoito-ohjeet ja luonnokset, joita minun tuskin tarvitsee muokata. Asiakkaiden mielestä olen uskomattoman reagoiva.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "Menetin uusia asiakkaita, koska en voinut vastata, kun olin polveen asti istutusasennuksessa. Chiefy laatii konsultaatiovastaukset tarkan prosessini, hinnoitteluni ja odotusteni mukaan. Se maksoi itsensä takaisin ensimmäisen viikon aikana.",
+      "quote": "Menetin uusia asiakkaita, koska en voinut vastata, kun olin polveen asti istutusasennuksessa. Duet laatii konsultaatiovastaukset tarkan prosessini, hinnoitteluni ja odotusteni mukaan. Se maksoi itsensä takaisin ensimmäisen viikon aikana.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Kestääkö Chiefy kevään kiireen, kun konsultointipyyntöjä kasaantuu?",
-      "answer": "Juuri silloin Chiefy loistaa. Vilkaimman kauden aikana jokainen uusi tiedustelu saa nopean ja yksityiskohtaisen vastauksen prosessistasi, aikajanastasi ja saatavuudestasi – vaikka olisit paikan päällä koko päivän. Ei enää kevään johtojen häviämistä, koska et päässyt takaisin niihin vasta klo 21.00."
+      "question": "Kestääkö Duet kevään kiireen, kun konsultointipyyntöjä kasaantuu?",
+      "answer": "Juuri silloin Duet loistaa. Vilkaimman kauden aikana jokainen uusi tiedustelu saa nopean ja yksityiskohtaisen vastauksen prosessistasi, aikajanastasi ja saatavuudestasi – vaikka olisit paikan päällä koko päivän. Ei enää kevään johtojen häviämistä, koska et päässyt takaisin niihin vasta klo 21.00."
     },
     {
-      "question": "Teen yhteistyötä useiden ulkoilmaryhmien kanssa. Auttaako Chiefy tähän?",
-      "answer": "Kyllä. Chiefy oppii projektisi ja mukana olevat urakoitsijat – maasto, kastelu, istutusryhmät, taimitarhat. Se luokittelee urakoitsijoiden sähköpostit erillään asiakassähköpostiviesteistä ja voi laatia vastaukset projektikohtaisilla tiedoilla, kuten teknisillä tiedoilla, aikatauluilla ja materiaaleilla. Pysyt jokaisen miehistön kärjessä ilman postilaatikon kaaosta."
+      "question": "Teen yhteistyötä useiden ulkoilmaryhmien kanssa. Auttaako Duet tähän?",
+      "answer": "Kyllä. Duet oppii projektisi ja mukana olevat urakoitsijat – maasto, kastelu, istutusryhmät, taimitarhat. Se luokittelee urakoitsijoiden sähköpostit erillään asiakassähköpostiviesteistä ja voi laatia vastaukset projektikohtaisilla tiedoilla, kuten teknisillä tiedoilla, aikatauluilla ja materiaaleilla. Pysyt jokaisen miehistön kärjessä ilman postilaatikon kaaosta."
     }
   ],
   "pricingNote": "Hinta 8 000 dollaria/projekti, yksi säästänyt asiakas maksaa vuosia Pro:stä."

@@ -2,7 +2,7 @@
 title: "Paano Gumawa ng Interactive Email Signature na Gumagana"
 description: "Matutunan kung paano gumawa ng interactive na email signature para mapalakas ang pakikipag-ugnayan, pagba-brand, at mga lead. Step-by-step na gabay para sa mga freelancer at startup"
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Ang isang interactive na lagda ay idinisenyo upang mag-spark ng pagkilos - isang
 
 Dito maaaring gumawa ng pagbabago ang pagsasama ng iyong diskarte sa lagda sa matalinong mga tool sa pamamahala ng email. Kapag nagsimulang i-click ng mga lead ang link na "Mag-book ng Meeting" na nabuo ng iyong kahanga-hangang lagda, kailangan mo ng system upang mapangasiwaan ang kasunod na pag-iskedyul at komunikasyon nang maayos. Katulad nito, ang pagpapanatili ng propesyonal na tono na itinakda ng iyong lagda sa bawat follow-up na email ay susi sa pagbuo ng mga relasyon.
 
-Ang mga tool na idinisenyo para sa pagiging produktibo ng email, tulad ng [Chiefy](https://chiefy.com/fil), ay maaaring makatulong sa paglapit sa agwat na ito. Isipin ang pagkuha ng AI na tulong upang mag-draft ng prompt, personalized na mga tugon na nagpapanatili ng iyong natatanging boses pagkatapos na may makipag-ugnayan sa CTA ng iyong lagda. Makakatulong ang mga feature ng Chiefy tulad ng **AI Triage** na ipakita ang mahahalagang tugon na nabuo mula sa mga signature na pakikipag-ugnayan, habang tinitiyak ng **Authentic AI Drafting** nito ang iyong mga follow-up na katulad mo, na pinapanatili ang propesyonalismo na iyong mga signature na proyekto. Ginagawa nitong maayos at produktibong mga pag-uusap ang pakikipag-ugnayan na pinasimulan ng iyong lagda.
+Ang mga tool na idinisenyo para sa pagiging produktibo ng email, tulad ng [Duet Mail](https://duetmail.com/fil), ay maaaring makatulong sa paglapit sa agwat na ito. Isipin ang pagkuha ng AI na tulong upang mag-draft ng prompt, personalized na mga tugon na nagpapanatili ng iyong natatanging boses pagkatapos na may makipag-ugnayan sa CTA ng iyong lagda. Makakatulong ang mga feature ng Duet Mail tulad ng **AI Triage** na ipakita ang mahahalagang tugon na nabuo mula sa mga signature na pakikipag-ugnayan, habang tinitiyak ng **Authentic AI Drafting** nito ang iyong mga follow-up na katulad mo, na pinapanatili ang propesyonalismo na iyong mga signature na proyekto. Ginagawa nitong maayos at produktibong mga pag-uusap ang pakikipag-ugnayan na pinasimulan ng iyong lagda.
 
 ## Handa nang I-activate ang Iyong Lagda?
 

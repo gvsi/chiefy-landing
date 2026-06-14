@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy for spesialtilpassede gullsmeder | AI-e-postassistent",
-  "metaDescription": "Chiefy hjelper spesialtilpassede juvelerere med å svare på konsultasjonsforespørsler, designgodkjenninger og tidslinjespørsmål umiddelbart – selv når de er på arbeidsbenken. AI-utkastede svar med prosessen din, priser og stemme.",
+  "pageTitle": "Duet Mail for spesialtilpassede gullsmeder | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjelper spesialtilpassede juvelerere med å svare på konsultasjonsforespørsler, designgodkjenninger og tidslinjespørsmål umiddelbart – selv når de er på arbeidsbenken. AI-utkastede svar med prosessen din, priser og stemme.",
   "heroBadge": "Godkjent av 300+ smykkedesignere",
   "heroHeadline": "Din e-postassistent mens du sitter på benken",
-  "heroSubline": "Chiefy lærer designprosessen, materialene, prisene og tidslinjene dine – og lager deretter utkast til e-postsvar slik at du aldri mister en tilpasset klient på grunn av treg respons.",
+  "heroSubline": "Duet lærer designprosessen, materialene, prisene og tidslinjene dine – og lager deretter utkast til e-postsvar slik at du aldri mister en tilpasset klient på grunn av treg respons.",
   "inboxEmails": [
     {
       "from": "Rachel og David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tilpasset stykke",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Én lagret klient betaler for over fire år med Chiefy."
+    "punchline": "Én lagret klient betaler for over fire år med Duet."
   },
-  "categorizationSubtitle": "Chiefy merker automatisk hver e-post slik at du ser nye konsultasjonsforespørsler først, designgodkjenninger deretter, og leverandørens nyhetsbrev aldri. Ikke mer mangler en henvendelse på $5 000 begravet under leverandørkampanjer.",
-  "draftSubtitle": "Chiefy lærer prosessen, materialene, prisene og stemmen din. Når en konsultasjonsforespørsel lander, utarbeider den et fullstendig svar med tilgjengelighet, hva du skal ta med og hvordan prosessen fungerer. Du anmelder og sender.",
-  "agentSubtitle": "\"Hvor er vi med Amandas ring?\" \"Sett utkast til en tidslinjeoppdatering for James.\"Chiefy kjenner hver klienttråd – bare spør.",
+  "categorizationSubtitle": "Duet merker automatisk hver e-post slik at du ser nye konsultasjonsforespørsler først, designgodkjenninger deretter, og leverandørens nyhetsbrev aldri. Ikke mer mangler en henvendelse på $5 000 begravet under leverandørkampanjer.",
+  "draftSubtitle": "Duet lærer prosessen, materialene, prisene og stemmen din. Når en konsultasjonsforespørsel lander, utarbeider den et fullstendig svar med tilgjengelighet, hva du skal ta med og hvordan prosessen fungerer. Du anmelder og sender.",
+  "agentSubtitle": "\"Hvor er vi med Amandas ring?\" \"Sett utkast til en tidslinjeoppdatering for James.\"Duet kjenner hver klienttråd – bare spør.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Custom smykkedesigner, LA",
-      "quote": "Hver tilpasset del genererer 10-15 e-poster over uker. Multipliser det med 8 aktive klienter og jeg druknet. Chiefy utkast til designoppdateringssvar, konsultasjonsbekreftelser, tidslinjesvar – alt i min stemme. Jeg anmelder mellom castingene og trykker send.",
+      "quote": "Hver tilpasset del genererer 10-15 e-poster over uker. Multipliser det med 8 aktive klienter og jeg druknet. Duet utkast til designoppdateringssvar, konsultasjonsbekreftelser, tidslinjesvar – alt i min stemme. Jeg anmelder mellom castingene og trykker send.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Goldsmith & Studio-eier, Brooklyn",
-      "quote": "Jeg mistet en provisjon på $7 000 for forlovelsesringen fordi jeg tok 3 dager å svare - paret gikk til noen som svarte i løpet av 2 timer. Siden Chiefy er responstiden min under 30 minutter. Det har ikke skjedd igjen.",
+      "quote": "Jeg mistet en provisjon på $7 000 for forlovelsesringen fordi jeg tok 3 dager å svare - paret gikk til noen som svarte i løpet av 2 timer. Siden Duet er responstiden min under 30 minutter. Det har ikke skjedd igjen.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Jeweller, Chicago",
-      "quote": "Jeg er på benken 8 timer om dagen med en lommelykt i hånden. Jeg kan ikke stoppe mellomloddet for å skrive ut et konsultasjonssvar. Chiefy skriver utkast til alt mens jeg jobber — jeg ser på telefonen min, godkjenner, er ferdig.",
+      "quote": "Jeg er på benken 8 timer om dagen med en lommelykt i hånden. Jeg kan ikke stoppe mellomloddet for å skrive ut et konsultasjonssvar. Duet skriver utkast til alt mens jeg jobber — jeg ser på telefonen min, godkjenner, er ferdig.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Designer for brudesmykker, Austin",
-      "quote": "I løpet av engasjementssesongen mottar jeg 20+ konsultasjonsforespørsler i uken. Chiefy lærte hele prosessen min – materialer, tidslinjer, prisnivåer, hva jeg skal ta med. Den lager utkast til svar jeg knapt trenger å redigere. Absolutt livredder fra november til februar.",
+      "quote": "I løpet av engasjementssesongen mottar jeg 20+ konsultasjonsforespørsler i uken. Duet lærte hele prosessen min – materialer, tidslinjer, prisnivåer, hva jeg skal ta med. Den lager utkast til svar jeg knapt trenger å redigere. Absolutt livredder fra november til februar.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Custom Ring Specialist, Portland",
-      "quote": "3D-revisjons-e-postene pleide å spise kveldene mine. Klienten sender tilbakemelding, jeg utarbeider oppdateringen, frem og tilbake fem ganger. Nå håndterer Chiefy de rutinemessige svarene og jeg går bare inn for designbeslutningene. Jeg fikk nettene mine tilbake.",
+      "quote": "3D-revisjons-e-postene pleide å spise kveldene mine. Klienten sender tilbakemelding, jeg utarbeider oppdateringen, frem og tilbake fem ganger. Nå håndterer Duet de rutinemessige svarene og jeg går bare inn for designbeslutningene. Jeg fikk nettene mine tilbake.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start din gratis prøveperiode. Koble til innboksen din på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Kan Chiefy håndtere e-poster med referansebilder og designvedlegg?",
-      "answer": "Ja. Chiefy ser hele e-posttråden inkludert vedlegg, slik at den forstår konteksten når en klient sender inspirasjonsbilder eller designtilbakemeldinger. Den vil ikke beskrive bildene tilbake, men den vet at en klient nettopp har sendt referansebilder og utkast til et passende svar – bekrefter mottak, stiller oppklarende spørsmål om designet eller gir neste trinn basert på din vanlige arbeidsflyt."
+      "question": "Kan Duet håndtere e-poster med referansebilder og designvedlegg?",
+      "answer": "Ja. Duet ser hele e-posttråden inkludert vedlegg, slik at den forstår konteksten når en klient sender inspirasjonsbilder eller designtilbakemeldinger. Den vil ikke beskrive bildene tilbake, men den vet at en klient nettopp har sendt referansebilder og utkast til et passende svar – bekrefter mottak, stiller oppklarende spørsmål om designet eller gir neste trinn basert på din vanlige arbeidsflyt."
     },
     {
-      "question": "Mine egendefinerte prosjekter har lange e-posttråder med 10+ meldinger. Kan Chiefy følge disse?",
-      "answer": "Det er akkurat der Chiefy skinner. Den leser hele trådhistorien – høringsnotater, designrevisjoner, materialvalg, tidslinjeoppdateringer – slik at hvert utkast til svar har full kontekst. Når en klient spør \"hva er statusen til ringen min?\" i e-post #14 vet Chiefy hvilken ring, hvilket stadium den er i, og utarbeider en nøyaktig oppdatering. Ikke mer å lese 3 måneder med e-poster på nytt selv."
+      "question": "Mine egendefinerte prosjekter har lange e-posttråder med 10+ meldinger. Kan Duet følge disse?",
+      "answer": "Det er akkurat der Duet skinner. Den leser hele trådhistorien – høringsnotater, designrevisjoner, materialvalg, tidslinjeoppdateringer – slik at hvert utkast til svar har full kontekst. Når en klient spør \"hva er statusen til ringen min?\" i e-post #14 vet Duet hvilken ring, hvilket stadium den er i, og utarbeider en nøyaktig oppdatering. Ikke mer å lese 3 måneder med e-poster på nytt selv."
     }
   ],
   "pricingNote": "Med $5 000/stk betaler én spart provisjon for over fire år med Pro."

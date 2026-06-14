@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy sisustussuunnittelijoille | AI-sähköpostiavustaja",
-  "metaDescription": "Chiefy auttaa sisustussuunnittelijoita hallitsemaan asiakassähköpostiviestejä, urakoitsijoiden koordinointia ja toimittajien tilauksia – jopa työmaalla. Tekoälyn laatimat vastaukset huomioivat projektisi tiedot, mieltymyksesi ja oman äänesi.",
+  "pageTitle": "Duet Mail sisustussuunnittelijoille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa sisustussuunnittelijoita hallitsemaan asiakassähköpostiviestejä, urakoitsijoiden koordinointia ja toimittajien tilauksia – jopa työmaalla. Tekoälyn laatimat vastaukset huomioivat projektisi tiedot, mieltymyksesi ja oman äänesi.",
   "heroBadge": "Yli 400 sisustussuunnittelijan luottama",
   "heroHeadline": "Sähköpostiavustajasi ollessasi paikan päällä asiakkaiden kanssa",
-  "heroSubline": "Chiefy oppii toimittajasi yhteystiedot, projektisi tiedot ja asiakasasetukset – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä asiakasta hitaiden vastausten takia.",
+  "heroSubline": "Duet oppii toimittajasi yhteystiedot, projektisi tiedot ja asiakasasetukset – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä asiakasta hitaiden vastausten takia.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekti",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Yksi pelastettu asiakas maksaa Chiefy in vuosien."
+    "punchline": "Yksi pelastettu asiakas maksaa Duet in vuosien."
   },
-  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uudet asiakaskyselyt, toisena odottavat hyväksynnät ja toimittajien uutiskirjeet ei koskaan. Ei enää kaipaa suunnittelukonsultaatiota messujen promootioiden alla.",
-  "draftSubtitle": "Chiefy oppii prosessisi, projektisi yksityiskohdat ja sävyn. Kun uusi tiedustelu tai asiakaskysymys osuu, se luonnostelee täydellisen vastauksen saatavuudestasi, seuraavista vaiheistasi ja projektin yksityiskohdista. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Mikä on Henderson-projektin tila?\" \"Mitkä hyväksynnät ovat vielä kesken?\" Chiefy tuntee postilaatikkosi ja kaikki projektiketjut – kysy vain.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uudet asiakaskyselyt, toisena odottavat hyväksynnät ja toimittajien uutiskirjeet ei koskaan. Ei enää kaipaa suunnittelukonsultaatiota messujen promootioiden alla.",
+  "draftSubtitle": "Duet oppii prosessisi, projektisi yksityiskohdat ja sävyn. Kun uusi tiedustelu tai asiakaskysymys osuu, se luonnostelee täydellisen vastauksen saatavuudestasi, seuraavista vaiheistasi ja projektin yksityiskohdista. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Mikä on Henderson-projektin tila?\" \"Mitkä hyväksynnät ovat vielä kesken?\" Duet tuntee postilaatikkosi ja kaikki projektiketjut – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "pääsuunnittelija, Austin TX",
-      "quote": "Olen paikan päällä 6 tuntia päivässä ja koordinoin maalareita, sähköasentajia ja laattojen asentajia. Samaan aikaan kolme muuta asiakasta lähettää sähköpostia projekteistaan. Chiefy luonnostelee vastaukset oikeilla projektitiedoilla – käyn läpi vain käyntien välillä.",
+      "quote": "Olen paikan päällä 6 tuntia päivässä ja koordinoin maalareita, sähköasentajia ja laattojen asentajia. Samaan aikaan kolme muuta asiakasta lähettää sähköpostia projekteistaan. Duet luonnostelee vastaukset oikeilla projektitiedoilla – käyn läpi vain käyntien välillä.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "asuinsisustussuunnittelija, Chicago",
-      "quote": "Asiakkaiden tiedustelut kestivät päiviä, koska olin haudattu hankintasähköposteihin ja urakoitsijoiden aikatauluihin. Nyt Chiefy vastaa uusiin liideihin minuuteissa minun prosessini ja saatavuudeni mukaan. Olen varannut 4 ylimääräistä projektia tälle vuosineljännekselle.",
+      "quote": "Asiakkaiden tiedustelut kestivät päiviä, koska olin haudattu hankintasähköposteihin ja urakoitsijoiden aikatauluihin. Nyt Duet vastaa uusiin liideihin minuuteissa minun prosessini ja saatavuudeni mukaan. Olen varannut 4 ylimääräistä projektia tälle vuosineljännekselle.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Design Studion omistaja, Nashville",
-      "quote": "Sähköpostien hallinta 12 aktiivisessa projektissa tappoi minut. Chiefy luokittelee kaiken – uudet tiedustelut, vireillä olevat hyväksynnät, toimittajatilaukset, urakoitsijan päivitykset – joten tiedän tarkalleen, mihin minun on kiinnitettävä huomiota ensin.",
+      "quote": "Sähköpostien hallinta 12 aktiivisessa projektissa tappoi minut. Duet luokittelee kaiken – uudet tiedustelut, vireillä olevat hyväksynnät, toimittajatilaukset, urakoitsijan päivitykset – joten tiedän tarkalleen, mihin minun on kiinnitettävä huomiota ensin.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "sisustussuunnittelija, San Diego",
-      "quote": "Menetin potentiaalisia asiakkaita, koska en pystynyt vastaamaan tarpeeksi nopeasti asennusviikkojen aikana. Chiefy oppi konsultaatioprosessini, hinnoittelurakenteeni ja jopa sen, kuinka kuvailen suunnittelutyyliäni. Asiakkaat eivät tiedä, että se on AI-avusteinen.",
+      "quote": "Menetin potentiaalisia asiakkaita, koska en pystynyt vastaamaan tarpeeksi nopeasti asennusviikkojen aikana. Duet oppi konsultaatioprosessini, hinnoittelurakenteeni ja jopa sen, kuinka kuvailen suunnittelutyyliäni. Asiakkaat eivät tiedä, että se on AI-avusteinen.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "kaupallinen sisustussuunnittelija, Denver",
-      "quote": "Toimittajan toimitusaikojen, urakoitsijoiden aikataulujen ja asiakkaan tarkistuspyyntöjen välillä postilaatikkoni oli kaaosta. Chiefy lajittelee kaiken ja laatii jatkotoimenpiteet odottaville hyväksynnille. Se on kuin projektikoordinaattorilla, joka ei koskaan nuku.",
+      "quote": "Toimittajan toimitusaikojen, urakoitsijoiden aikataulujen ja asiakkaan tarkistuspyyntöjen välillä postilaatikkoni oli kaaosta. Duet lajittelee kaiken ja laatii jatkotoimenpiteet odottaville hyväksynnille. Se on kuin projektikoordinaattorilla, joka ei koskaan nuku.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Jongleeraan 8-10 projektia kerralla. Pystyykö Chiefy pitämään ne suorina?",
-      "answer": "Kyllä. Chiefy seuraa jokaista sähköpostisäiettä asiakasta ja projektia kohti. Kun kysyt Hendersonin keittiöstä tai Park Avenuen toimistosta, se hakee kontekstin kaikista asiaan liittyvistä keskusteluista – myyjätilauksista, urakoitsijoiden päivityksistä, asiakkaiden hyväksynnöistä – joten vastauksesi ovat aina tarkkoja ja projektikohtaisia. Ei pidä sekoittaa, mikä laatta oli millekin asiakkaalle."
+      "question": "Jongleeraan 8-10 projektia kerralla. Pystyykö Duet pitämään ne suorina?",
+      "answer": "Kyllä. Duet seuraa jokaista sähköpostisäiettä asiakasta ja projektia kohti. Kun kysyt Hendersonin keittiöstä tai Park Avenuen toimistosta, se hakee kontekstin kaikista asiaan liittyvistä keskusteluista – myyjätilauksista, urakoitsijoiden päivityksistä, asiakkaiden hyväksynnöistä – joten vastauksesi ovat aina tarkkoja ja projektikohtaisia. Ei pidä sekoittaa, mikä laatta oli millekin asiakkaalle."
     },
     {
-      "question": "Teen yhteistyötä monien urakoitsijoiden ja myyjien kanssa. Auttaako Chiefy tähän?",
-      "answer": "Ehdottomasti. Chiefy oppii urakoitsijakontaktisi, myyjäedustajasi ja kunkin kaupan kontekstin projekteissasi. Kun sähköasentajasi ilmoittaa, että esikäsittely on valmis, Chiefy voi laatia vastauksen, joka vahvistaa seuraavan vaiheen tai silmukan valaisimen asennusohjelmassa. Se pitää työnkulun liikkeessä, vaikka olisit kaupungin toisella puolella toisella työmaalla."
+      "question": "Teen yhteistyötä monien urakoitsijoiden ja myyjien kanssa. Auttaako Duet tähän?",
+      "answer": "Ehdottomasti. Duet oppii urakoitsijakontaktisi, myyjäedustajasi ja kunkin kaupan kontekstin projekteissasi. Kun sähköasentajasi ilmoittaa, että esikäsittely on valmis, Duet voi laatia vastauksen, joka vahvistaa seuraavan vaiheen tai silmukan valaisimen asennusohjelmassa. Se pitää työnkulun liikkeessä, vaikka olisit kaupungin toisella puolella toisella työmaalla."
     }
   ],
-  "pricingNote": "Hinta 10 000 dollaria/projekti, yksi säästänyt asiakas maksaa Chiefy Pro:n vuosia."
+  "pricingNote": "Hinta 10 000 dollaria/projekti, yksi säästänyt asiakas maksaa Duet Pro:n vuosia."
 }

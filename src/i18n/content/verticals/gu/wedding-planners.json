@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Wedding Planners માટે Chiefy | AI Email Assistant",
-  "metaDescription": "Chiefy લગ્ન આયોજકોને ક્લાયન્ટ અને વેન્ડરના ઈમેલનો તાત્કાલિક જવાબ આપવામાં મદદ કરે છે — venue walkthroughs દરમ્યાન પણ. તમારા packages, vendor contacts અને voice સાથે AI-drafted replies.",
+  "pageTitle": "Wedding Planners માટે Duet Mail | AI Email Assistant",
+  "metaDescription": "Duet Mail લગ્ન આયોજકોને ક્લાયન્ટ અને વેન્ડરના ઈમેલનો તાત્કાલિક જવાબ આપવામાં મદદ કરે છે — venue walkthroughs દરમ્યાન પણ. તમારા packages, vendor contacts અને voice સાથે AI-drafted replies.",
   "heroBadge": "400+ wedding planners દ્વારા વિશ્વસનીય",
   "heroHeadline": "જ્યારે તમે venue પર on-site હો ત્યારે તમારો email assistant",
-  "heroSubline": "Chiefy તમારા vendor contacts, packages અને client preferences શીખે છે — પછી email replies draft કરે છે, જેથી તમે સ્થળ પર coordinationમાં હો ત્યારે couples ને રાહ ન જોવી પડે.",
+  "heroSubline": "Duet તમારા vendor contacts, packages અને client preferences શીખે છે — પછી email replies draft કરે છે, જેથી તમે સ્થળ પર coordinationમાં હો ત્યારે couples ને રાહ ન જોવી પડે.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "લગ્ન",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "એક બચાવેલો client Chiefyના 20 વર્ષથી વધુનો ખર્ચ પૂરો કરી દે છે."
+    "punchline": "એક બચાવેલો client Duetના 20 વર્ષથી વધુનો ખર્ચ પૂરો કરી દે છે."
   },
-  "categorizationSubtitle": "Chiefy દરેક email ને automatic રીતે tag કરે છે જેથી તમે પહેલા નવા couple inquiries, પછી vendor confirmations અને newsletter noise ક્યારેય નહીં જુઓ. Knot alerts નીચે દબાઈ ગયેલી booking request હવે ચૂકી નહીં જાય.",
-  "draftSubtitle": "Chiefy તમારા packages, preferred vendors અને tone શીખે છે. જ્યારે couple inquiry કરે છે, ત્યારે તે તમારી availability અને next steps સાથે warm, complete reply draft કરે છે. તમે review કરીને send કરો.",
-  "agentSubtitle": "\"Thompson wedding માટે કયા vendor emails આવ્યા?\" \"Saturday માટે બધા vendors ને timeline update draft કરો.\" Chiefy તમારા inbox અને clients ને જાણે છે — ફક્ત પૂછો.",
+  "categorizationSubtitle": "Duet દરેક email ને automatic રીતે tag કરે છે જેથી તમે પહેલા નવા couple inquiries, પછી vendor confirmations અને newsletter noise ક્યારેય નહીં જુઓ. Knot alerts નીચે દબાઈ ગયેલી booking request હવે ચૂકી નહીં જાય.",
+  "draftSubtitle": "Duet તમારા packages, preferred vendors અને tone શીખે છે. જ્યારે couple inquiry કરે છે, ત્યારે તે તમારી availability અને next steps સાથે warm, complete reply draft કરે છે. તમે review કરીને send કરો.",
+  "agentSubtitle": "\"Thompson wedding માટે કયા vendor emails આવ્યા?\" \"Saturday માટે બધા vendors ને timeline update draft કરો.\" Duet તમારા inbox અને clients ને જાણે છે — ફક્ત પૂછો.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "મારા અડધા અઠવાડિયે હું mountain venues પર હોઉં છું જ્યાં cell service જ નથી. એ દરમિયાન couples મને timelines અને vendor questions વિશે email કરે છે. Chiefy મારા exact packages અને tone સાથે replies draft કરે છે — હું rangeમાં પાછી આવું ત્યારે તેમને review કરું છું.",
+      "quote": "મારા અડધા અઠવાડિયે હું mountain venues પર હોઉં છું જ્યાં cell service જ નથી. એ દરમિયાન couples મને timelines અને vendor questions વિશે email કરે છે. Duet મારા exact packages અને tone સાથે replies draft કરે છે — હું rangeમાં પાછી આવું ત્યારે તેમને review કરું છું.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Full-Service Wedding Planner, CA",
-      "quote": "દર weddingમાં 10+ vendors coordinate કરવાના હોવાથી peak season દરમિયાન મારો inbox યુદ્ધક્ષેત્ર બની જાય છે. Chiefy vendor emails ને client emails થી અલગ categorize કરે છે અને એવા follow-ups draft કરે છે જે હું જાતે લખ્યો હોત. હવે હું ખરેખર ઊંઘી શકું છું.",
+      "quote": "દર weddingમાં 10+ vendors coordinate કરવાના હોવાથી peak season દરમિયાન મારો inbox યુદ્ધક્ષેત્ર બની જાય છે. Duet vendor emails ને client emails થી અલગ categorize કરે છે અને એવા follow-ups draft કરે છે જે હું જાતે લખ્યો હોત. હવે હું ખરેખર ઊંઘી શકું છું.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Day-of Coordinator, TX",
-      "quote": "Wedding days પર હું સતત 14 કલાક unavailable હોઉં છું. નવી inquiries પહેલાં Monday સુધી unanswered રહેતી. હવે Chiefy તેમને તાત્કાલિક handle કરે છે અને ફક્ત faster response timesને કારણે આ quarterમાં મેં 3 extra weddings book કર્યા છે.",
+      "quote": "Wedding days પર હું સતત 14 કલાક unavailable હોઉં છું. નવી inquiries પહેલાં Monday સુધી unanswered રહેતી. હવે Duet તેમને તાત્કાલિક handle કરે છે અને ફક્ત faster response timesને કારણે આ quarterમાં મેં 3 extra weddings book કર્યા છે.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "મારા couples દુનિયાભરમાંથી આવે છે અને કોઈ પણ સમયે email કરે છે. Chiefy એ મારા FAQ answers શીખી લીધા — venue logistics, local vendors, શું expect કરવું — અને મારી જેમ જ લાગતા replies draft કરે છે. Clients ને ખબર પણ પડતી નથી.",
+      "quote": "મારા couples દુનિયાભરમાંથી આવે છે અને કોઈ પણ સમયે email કરે છે. Duet એ મારા FAQ answers શીખી લીધા — venue logistics, local vendors, શું expect કરવું — અને મારી જેમ જ લાગતા replies draft કરે છે. Clients ને ખબર પણ પડતી નથી.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Wedding & Event Planner, NY",
-      "quote": "હું દર રાત્રે એ જ package અને availability questionsના જવાબમાં 2 hours ખર્ચતી હતી. Chiefy repetitive stuff handle કરે છે જેથી હું જે creative work ખરેખર પ્રેમ કરું છું તેના પર focus કરી શકું. પહેલા જ અઠવાડિયામાં તેનો ખર્ચ વસૂલ થઈ ગયો.",
+      "quote": "હું દર રાત્રે એ જ package અને availability questionsના જવાબમાં 2 hours ખર્ચતી હતી. Duet repetitive stuff handle કરે છે જેથી હું જે creative work ખરેખર પ્રેમ કરું છું તેના પર focus કરી શકું. પહેલા જ અઠવાડિયામાં તેનો ખર્ચ વસૂલ થઈ ગયો.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "તમારી free trial શરૂ કરો. 30 secondsમાં તમારો inbox connect કરો.",
   "verticalFaqs": [
     {
-      "question": "શું Chiefy બધા vendor coordination emails સાથે કામ કરે છે?",
-      "answer": "હા. Chiefy તમારા vendor contacts, preferred vendors અને તમે દરેક સાથે કેવી રીતે communicate કરો છો તે શીખે છે. તે wedding પ્રમાણે vendor emails categorize કરે છે અને યોગ્ય details સાથે replies draft કરે છે — confirmations, follow-ups, timeline updates. તમે review કરીને send કરો. તે florists, caterers, venues, DJs, photographers અને તમારા rolodexના દરેક બીજા vendor ને handle કરે છે."
+      "question": "શું Duet બધા vendor coordination emails સાથે કામ કરે છે?",
+      "answer": "હા. Duet તમારા vendor contacts, preferred vendors અને તમે દરેક સાથે કેવી રીતે communicate કરો છો તે શીખે છે. તે wedding પ્રમાણે vendor emails categorize કરે છે અને યોગ્ય details સાથે replies draft કરે છે — confirmations, follow-ups, timeline updates. તમે review કરીને send કરો. તે florists, caterers, venues, DJs, photographers અને તમારા rolodexના દરેક બીજા vendor ને handle કરે છે."
     },
     {
       "question": "હું આખો દિવસ weddings અને venues પર on-site હોઉં છું. શું નવી inquiries ચૂકી જઈશ?",
-      "answer": "Chiefy આ જ સમસ્યા હલ કરે છે. જ્યારે તમે on-site coordinate કરી રહ્યા હો અને કોઈ couple availability અથવા packages વિશે email કરે, ત્યારે Chiefy તમારી real availability અને next steps સાથે warm, professional reply draft કરે છે. જ્યારે તમે free હો ત્યારે review કરીને send કરો — events વચ્ચે તમારા phone પરથી પણ. ઘણા planners અમને કહે છે કે peak season દરમિયાન તે દરરોજ 1-2 hoursનો email time બચાવે છે."
+      "answer": "Duet આ જ સમસ્યા હલ કરે છે. જ્યારે તમે on-site coordinate કરી રહ્યા હો અને કોઈ couple availability અથવા packages વિશે email કરે, ત્યારે Duet તમારી real availability અને next steps સાથે warm, professional reply draft કરે છે. જ્યારે તમે free હો ત્યારે review કરીને send કરો — events વચ્ચે તમારા phone પરથી પણ. ઘણા planners અમને કહે છે કે peak season દરમિયાન તે દરરોજ 1-2 hoursનો email time બચાવે છે."
     }
   ],
   "pricingNote": "$8,000/wedding પર, એક બચાવેલો client Pro ના 20 વર્ષથી વધુનો ખર્ચ પૂરો કરી દે છે."

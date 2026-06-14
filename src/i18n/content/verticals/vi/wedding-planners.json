@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Chiefy cho Người tổ chức đám cưới | Trợ lý Email AI",
-  "metaDescription": "Chiefy giúp người tổ chức đám cưới trả lời email khách hàng và nhà cung cấp ngay lập tức — ngay cả khi đang đi khảo sát địa điểm. Trả lời được soạn thảo bằng AI với gói dịch vụ, liên hệ nhà cung cấp và giọng điệu của bạn.",
+  "pageTitle": "Duet Mail cho Người tổ chức đám cưới | Trợ lý Email AI",
+  "metaDescription": "Duet Mail giúp người tổ chức đám cưới trả lời email khách hàng và nhà cung cấp ngay lập tức — ngay cả khi đang đi khảo sát địa điểm. Trả lời được soạn thảo bằng AI với gói dịch vụ, liên hệ nhà cung cấp và giọng điệu của bạn.",
   "heroBadge": "Được tin dùng bởi hơn 400 người tổ chức đám cưới",
   "heroHeadline": "Trợ lý email của bạn khi bạn có mặt tại địa điểm",
-  "heroSubline": "Chiefy học các liên hệ nhà cung cấp, gói dịch vụ và sở thích khách hàng của bạn — rồi soạn thảo trả lời email để các cặp đôi không phải chờ đợi khi bạn đang phối hợp tại chỗ.",
+  "heroSubline": "Duet học các liên hệ nhà cung cấp, gói dịch vụ và sở thích khách hàng của bạn — rồi soạn thảo trả lời email để các cặp đôi không phải chờ đợi khi bạn đang phối hợp tại chỗ.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "đám cưới",
     "lostPerMonth": "1",
     "monthlyLoss": "8.000 USD",
-    "punchline": "Một khách hàng được giữ lại bù đắp hơn 20 năm sử dụng Chiefy."
+    "punchline": "Một khách hàng được giữ lại bù đắp hơn 20 năm sử dụng Duet."
   },
-  "categorizationSubtitle": "Chiefy tự động gắn thẻ mọi email để bạn thấy yêu cầu từ các cặp đôi mới trước, xác nhận nhà cung cấp sau, và không bao giờ bị làm phiền bởi các bản tin. Không còn bỏ lỡ yêu cầu đặt chỗ bị chôn dưới các thông báo từ Knot.",
-  "draftSubtitle": "Chiefy học các gói dịch vụ, nhà cung cấp ưu tiên và giọng điệu của bạn. Khi có yêu cầu, nó soạn thảo trả lời thân thiện, đầy đủ với tình trạng sẵn có và bước tiếp theo. Bạn duyệt và gửi.",
-  "agentSubtitle": "\"Có email nhà cung cấp nào cho đám cưới Thompson không?\" \"Soạn thảo cập nhật lịch trình cho tất cả nhà cung cấp vào thứ Bảy.\" Chiefy hiểu hộp thư và khách hàng của bạn — chỉ cần hỏi.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu từ các cặp đôi mới trước, xác nhận nhà cung cấp sau, và không bao giờ bị làm phiền bởi các bản tin. Không còn bỏ lỡ yêu cầu đặt chỗ bị chôn dưới các thông báo từ Knot.",
+  "draftSubtitle": "Duet học các gói dịch vụ, nhà cung cấp ưu tiên và giọng điệu của bạn. Khi có yêu cầu, nó soạn thảo trả lời thân thiện, đầy đủ với tình trạng sẵn có và bước tiếp theo. Bạn duyệt và gửi.",
+  "agentSubtitle": "\"Có email nhà cung cấp nào cho đám cưới Thompson không?\" \"Soạn thảo cập nhật lịch trình cho tất cả nhà cung cấp vào thứ Bảy.\" Duet hiểu hộp thư và khách hàng của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Người tổ chức đám cưới Boutique, CO",
-      "quote": "Tôi ở các địa điểm núi với sóng điện thoại gần như không có nửa tuần. Trong khi đó các cặp đôi vẫn gửi email hỏi về lịch trình và nhà cung cấp. Chiefy soạn trả lời với gói dịch vụ và giọng điệu chính xác của tôi — tôi duyệt khi có sóng.",
+      "quote": "Tôi ở các địa điểm núi với sóng điện thoại gần như không có nửa tuần. Trong khi đó các cặp đôi vẫn gửi email hỏi về lịch trình và nhà cung cấp. Duet soạn trả lời với gói dịch vụ và giọng điệu chính xác của tôi — tôi duyệt khi có sóng.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Người tổ chức đám cưới toàn diện, CA",
-      "quote": "Phối hợp hơn 10 nhà cung cấp mỗi đám cưới khiến hộp thư tôi như chiến trường mùa cao điểm. Chiefy phân loại email nhà cung cấp riêng biệt với email khách hàng và soạn theo dõi mà tôi tự viết. Giờ tôi ngủ ngon hơn.",
+      "quote": "Phối hợp hơn 10 nhà cung cấp mỗi đám cưới khiến hộp thư tôi như chiến trường mùa cao điểm. Duet phân loại email nhà cung cấp riêng biệt với email khách hàng và soạn theo dõi mà tôi tự viết. Giờ tôi ngủ ngon hơn.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Điều phối ngày cưới, TX",
-      "quote": "Ngày cưới tôi không rảnh suốt 14 tiếng. Trước đây các yêu cầu mới thường không được trả lời đến thứ Hai. Giờ Chiefy xử lý ngay và tôi đã nhận thêm 3 đám cưới quý này chỉ nhờ trả lời nhanh hơn.",
+      "quote": "Ngày cưới tôi không rảnh suốt 14 tiếng. Trước đây các yêu cầu mới thường không được trả lời đến thứ Hai. Giờ Duet xử lý ngay và tôi đã nhận thêm 3 đám cưới quý này chỉ nhờ trả lời nhanh hơn.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Người tổ chức đám cưới điểm đến, HI",
-      "quote": "Các cặp đôi của tôi bay từ khắp nơi trên thế giới và gửi email mọi lúc. Chiefy học câu trả lời FAQ của tôi — logistics địa điểm, nhà cung cấp địa phương, những điều cần biết — và soạn trả lời y hệt tôi. Khách hàng không hề hay biết.",
+      "quote": "Các cặp đôi của tôi bay từ khắp nơi trên thế giới và gửi email mọi lúc. Duet học câu trả lời FAQ của tôi — logistics địa điểm, nhà cung cấp địa phương, những điều cần biết — và soạn trả lời y hệt tôi. Khách hàng không hề hay biết.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Người tổ chức đám cưới & sự kiện, NY",
-      "quote": "Tôi từng mất 2 tiếng mỗi tối trả lời cùng một câu hỏi về gói dịch vụ và tình trạng. Chiefy xử lý phần lặp đi lặp lại để tôi tập trung vào công việc sáng tạo mà tôi yêu thích. Nó đã hoàn vốn trong tuần đầu.",
+      "quote": "Tôi từng mất 2 tiếng mỗi tối trả lời cùng một câu hỏi về gói dịch vụ và tình trạng. Duet xử lý phần lặp đi lặp lại để tôi tập trung vào công việc sáng tạo mà tôi yêu thích. Nó đã hoàn vốn trong tuần đầu.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Chiefy có xử lý được tất cả email phối hợp nhà cung cấp không?",
-      "answer": "Có. Chiefy học các liên hệ nhà cung cấp, nhà cung cấp ưu tiên và cách bạn giao tiếp với từng người. Nó phân loại email nhà cung cấp theo từng đám cưới và soạn trả lời với chi tiết phù hợp — xác nhận, theo dõi, cập nhật lịch trình. Bạn duyệt và gửi. Nó xử lý hoa, dịch vụ ăn uống, địa điểm, DJ, nhiếp ảnh gia và mọi nhà cung cấp trong danh bạ của bạn."
+      "question": "Duet có xử lý được tất cả email phối hợp nhà cung cấp không?",
+      "answer": "Có. Duet học các liên hệ nhà cung cấp, nhà cung cấp ưu tiên và cách bạn giao tiếp với từng người. Nó phân loại email nhà cung cấp theo từng đám cưới và soạn trả lời với chi tiết phù hợp — xác nhận, theo dõi, cập nhật lịch trình. Bạn duyệt và gửi. Nó xử lý hoa, dịch vụ ăn uống, địa điểm, DJ, nhiếp ảnh gia và mọi nhà cung cấp trong danh bạ của bạn."
     },
     {
       "question": "Tôi có mặt tại đám cưới và địa điểm cả ngày. Tôi có bỏ lỡ yêu cầu mới không?",
-      "answer": "Đó chính là vấn đề Chiefy giải quyết. Khi một cặp đôi gửi email hỏi về tình trạng sẵn có hoặc gói dịch vụ trong lúc bạn đang phối hợp tại chỗ, Chiefy soạn trả lời thân thiện, chuyên nghiệp với tình trạng thực tế và bước tiếp theo. Bạn duyệt và gửi khi rảnh — ngay cả trên điện thoại giữa các sự kiện. Hầu hết người tổ chức nói rằng nó giúp họ tiết kiệm 1-2 giờ email mỗi ngày trong mùa cao điểm."
+      "answer": "Đó chính là vấn đề Duet giải quyết. Khi một cặp đôi gửi email hỏi về tình trạng sẵn có hoặc gói dịch vụ trong lúc bạn đang phối hợp tại chỗ, Duet soạn trả lời thân thiện, chuyên nghiệp với tình trạng thực tế và bước tiếp theo. Bạn duyệt và gửi khi rảnh — ngay cả trên điện thoại giữa các sự kiện. Hầu hết người tổ chức nói rằng nó giúp họ tiết kiệm 1-2 giờ email mỗi ngày trong mùa cao điểm."
     }
   ],
   "pricingNote": "Với giá 8.000 USD/đám cưới, một khách hàng được giữ lại bù đắp hơn 20 năm dùng Pro."

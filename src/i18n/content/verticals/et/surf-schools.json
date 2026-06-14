@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy surfikoolidele ja aerulauaoperaatoritele | AI e-posti assistent",
-  "metaDescription": "Chiefy aitab surfiõpetajatel ja aerulauaoperaatoritel broneerimiskirjadele koheselt vastata – isegi õpetamise ajal. Tehisintellekti koostatud vastused koos teie õppetundide tüüpide, hinnakujunduse ja häälega.",
+  "pageTitle": "Duet Mail surfikoolidele ja aerulauaoperaatoritele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab surfiõpetajatel ja aerulauaoperaatoritel broneerimiskirjadele koheselt vastata – isegi õpetamise ajal. Tehisintellekti koostatud vastused koos teie õppetundide tüüpide, hinnakujunduse ja häälega.",
   "heroBadge": "Usaldab üle 300 surfiinstruktori",
   "heroHeadline": "Teie meiliassistent vee peal õpetamise ajal",
-  "heroSubline": "Chiefy õpib tundma teie õppetundide tüüpe, hindu ja tingimusi – seejärel koostab meilivastuste mustandid, nii et te ei kaota kunagi broneeringut aeglase vastuse tõttu.",
+  "heroSubline": "Duet õpib tundma teie õppetundide tüüpe, hindu ja tingimusi – seejärel koostab meilivastuste mustandid, nii et te ei kaota kunagi broneeringut aeglase vastuse tõttu.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "õppetund",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Kaks salvestatud broneeringut maksavad aasta Chiefy eest."
+    "punchline": "Kaks salvestatud broneeringut maksavad aasta Duet eest."
   },
-  "categorizationSubtitle": "Chiefy märgistab automaatselt iga meili, nii et näete kõigepealt tundide broneeringuid, seejärel küsimusi ja mitte kunagi müra. Enam ei puudu Yelpi märguannete alla mattunud kooligrupi päring.",
-  "draftSubtitle": "Chiefy õpib tundma teie tundide tüüpe, rühmahindu ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos saadavuse, kaasasoleva ja kaasavõetava teabega. Vaatad üle ja saadad.",
-  "agentSubtitle": "\"Kas sel nädalal on tulemas grupibroneeringuid?\" \"Koostage koolile vastuse mustand saadavuse korral.\" Chiefy teab teie postkasti ja ajakava – lihtsalt küsige.",
+  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et näete kõigepealt tundide broneeringuid, seejärel küsimusi ja mitte kunagi müra. Enam ei puudu Yelpi märguannete alla mattunud kooligrupi päring.",
+  "draftSubtitle": "Duet õpib tundma teie tundide tüüpe, rühmahindu ja tooni. Kui broneeringupäring saabub, koostab see täieliku vastuse koos saadavuse, kaasasoleva ja kaasavõetava teabega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kas sel nädalal on tulemas grupibroneeringuid?\" \"Koostage koolile vastuse mustand saadavuse korral.\" Duet teab teie postkasti ja ajakava – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Treener Mike T.",
       "title": "Surfikooli omanik, CA",
-      "quote": "Olen vees ja õpetan 6 tundi päevas. Selleks ajaks, kui ma meili kontrollisin, olid pooled broneeringud läinud kellelegi teisele. Nüüd koostab Chiefy vastused minu hinna ja saadavuse kohta – vaatan lihtsalt seansside vahel üle.",
+      "quote": "Olen vees ja õpetan 6 tundi päevas. Selleks ajaks, kui ma meili kontrollisin, olid pooled broneeringud läinud kellelegi teisele. Nüüd koostab Duet vastused minu hinna ja saadavuse kohta – vaatan lihtsalt seansside vahel üle.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen ja Mark S.",
       "title": "Aerulauatunnid ja -rent, HI",
-      "quote": "Me korraldame tunde ja laua laenutamist samast postkastist. Chiefy avastas erinevuse koheselt – laenutusküsimustele antakse vastused, õppetundide päringutele õppetundide üksikasjad. See on nagu vastuvõtt.",
+      "quote": "Me korraldame tunde ja laua laenutamist samast postkastist. Duet avastas erinevuse koheselt – laenutusküsimustele antakse vastused, õppetundide päringutele õppetundide üksikasjad. See on nagu vastuvõtt.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Surfiinstruktor, FL",
-      "quote": "Varem kulus kooligrupibroneeringutele 10 meili edasi-tagasi. Nüüd koostab Chiefy esimese vastuse koos grupihindade, kaasasoleva ja loatõendiga. Lõikab kogu niidi pooleks.",
+      "quote": "Varem kulus kooligrupibroneeringutele 10 meili edasi-tagasi. Nüüd koostab Duet esimese vastuse koos grupihindade, kaasasoleva ja loatõendiga. Lõikab kogu niidi pooleks.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP Tours & Lessons, OR",
-      "quote": "Kõrghooaeg tapas mind – 30 meili päevas tingimuste, hindade ja kaasavõtmise kohta. Ikka ja jälle samad viis küsimust. Chiefy käsitleb neid kõiki ja nad kõlavad täpselt nagu mina.",
+      "quote": "Kõrghooaeg tapas mind – 30 meili päevas tingimuste, hindade ja kaasavõtmise kohta. Ikka ja jälle samad viis küsimust. Duet käsitleb neid kõiki ja nad kõlavad täpselt nagu mina.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Laste surfilaagri direktor, SC",
-      "quote": "Vanemad saadavad kõige pikemaid e-kirju. Laagri kuupäevad, allergiad, oskuste tase, pealevõtmise ajad. Chiefy koostab üksikasjalikud vastused, mis hõlmavad kõike, nii et ma ei kirjuta lõike kell 22.00 pärast tervet päeva rannas.",
+      "quote": "Vanemad saadavad kõige pikemaid e-kirju. Laagri kuupäevad, allergiad, oskuste tase, pealevõtmise ajad. Duet koostab üksikasjalikud vastused, mis hõlmavad kõike, nii et ma ei kirjuta lõike kell 22.00 pärast tervet päeva rannas.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Kas Chiefy tegeleb erinevate õppetundide ja varustuse rentimisega?",
-      "answer": "Jah. Chiefy õpib kõiki teie pakkumisi – eratunnid, rühmatunnid, lastelaagrid, laualaenutus, SUP-reisid. Kui päring saabub, koostab see vastuse koos õige hinna, kestuse, hinna ja kaasasoleva sisuga. Ta teab, et koolirühma e-posti aadress vajab erinevaid üksikasju kui eratundide broneerimine."
+      "question": "Kas Duet tegeleb erinevate õppetundide ja varustuse rentimisega?",
+      "answer": "Jah. Duet õpib kõiki teie pakkumisi – eratunnid, rühmatunnid, lastelaagrid, laualaenutus, SUP-reisid. Kui päring saabub, koostab see vastuse koos õige hinna, kestuse, hinna ja kaasasoleva sisuga. Ta teab, et koolirühma e-posti aadress vajab erinevaid üksikasju kui eratundide broneerimine."
     },
     {
       "question": "Kuidas on lood ilma ja tingimustega seotud küsimustega?",
-      "answer": "Chiefy õpib, kuidas te tavaliselt tingimustega meilisõnumeid käsitlete – teie tühistamiste, ajakavade muutmise ja õpetatavate tingimuste eeskirjad. Kui keegi saadab meili, küsides, kas tema õppetund läheb edasi, koostab Chiefy vastuse, mis vastab teie tavapärasele toonile ja poliitikale. Vaatate üle ja saadate sekunditega."
+      "answer": "Duet õpib, kuidas te tavaliselt tingimustega meilisõnumeid käsitlete – teie tühistamiste, ajakavade muutmise ja õpetatavate tingimuste eeskirjad. Kui keegi saadab meili, küsides, kas tema õppetund läheb edasi, koostab Duet vastuse, mis vastab teie tavapärasele toonile ja poliitikale. Vaatate üle ja saadate sekunditega."
     }
   ],
   "pricingNote": "Kell $90/lesson maksavad kaks salvestatud broneeringut rohkem kui aasta Pro eest."

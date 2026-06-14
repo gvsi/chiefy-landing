@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy per a passejades a cavall i guies de senders | AI Assistent de correu electrònic",
-  "metaDescription": "Chiefy ajuda els operadors de recorreguts a respondre als correus electrònics de reserva a l'instant, fins i tot des de la cadira. Respostes redactades per AI amb els vostres preus, requisits del motorista i veu.",
+  "pageTitle": "Duet Mail per a passejades a cavall i guies de senders | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els operadors de recorreguts a respondre als correus electrònics de reserva a l'instant, fins i tot des de la cadira. Respostes redactades per AI amb els vostres preus, requisits del motorista i veu.",
   "heroBadge": "Més de 300 guies de senders confiats",
   "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al camí",
-  "heroSubline": "Chiefy coneix els vostres tipus de viatge, els preus, els requisits dels usuaris i les condicions de la ruta; després redacta les respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
+  "heroSubline": "Duet coneix els vostres tipus de viatge, els preus, els requisits dels usuaris i les condicions de la ruta; després redacta les respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "passeig",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Un viatge en grup guardat paga més de dos anys de Chiefy."
+    "punchline": "Un viatge en grup guardat paga més de dos anys de Duet."
   },
-  "categorizationSubtitle": "Chiefy etiqueta automàticament tots els correus electrònics perquè vegeu primer les sol·licituds de reserva, les preguntes dels usuaris en segon lloc i el soroll mai. Ja no et perdis una consulta de grup soterrada sota les alertes de TripAdvisor.",
-  "draftSubtitle": "Chiefy coneix els vostres tipus de viatge, preus i requisits. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del recorregut, els preus i què cal posar-se. Tu revisa i envia.",
-  "agentSubtitle": "\"Alguna atracció oberta aquest cap de setmana?\" \"Esborra una resposta a Jessica amb disponibilitat dissabte\". Chiefy coneix la vostra safata d'entrada i el vostre calendari; només cal que ho pregunteu.",
+  "categorizationSubtitle": "Duet etiqueta automàticament tots els correus electrònics perquè vegeu primer les sol·licituds de reserva, les preguntes dels usuaris en segon lloc i el soroll mai. Ja no et perdis una consulta de grup soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Duet coneix els vostres tipus de viatge, preus i requisits. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del recorregut, els preus i què cal posar-se. Tu revisa i envia.",
+  "agentSubtitle": "\"Alguna atracció oberta aquest cap de setmana?\" \"Esborra una resposta a Jessica amb disponibilitat dissabte\". Duet coneix la vostra safata d'entrada i el vostre calendari; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Propietari del ranxo i guia de rutes, MT",
-      "quote": "Estic al camí 6 hores al dia sense servei mòbil. Quan vaig tornar a respondre, la meitat de la gent havia reservat en un altre lloc. Ara Chiefy redacta respostes amb els meus preus i els detalls del viatge: només reviso i envio quan torno al graner.",
+      "quote": "Estic al camí 6 hores al dia sense servei mòbil. Quan vaig tornar a respondre, la meitat de la gent havia reservat en un altre lloc. Ara Duet redacta respostes amb els meus preus i els detalls del viatge: només reviso i envio quan torno al graner.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Operador turístic a cavall, AZ",
-      "quote": "Rebem desenes de correus electrònics que demanen el mateix: límits de pes, què posar-se, requisits d'edat. Chiefy ho gestiona tot i les respostes sonen exactament com jo. Els meus convidats no tenen ni idea que és AI.",
+      "quote": "Rebem desenes de correus electrònics que demanen el mateix: límits de pes, què posar-se, requisits d'edat. Duet ho gestiona tot i les respostes sonen exactament com jo. Els meus convidats no tenen ni idea que és AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "La temporada alta m'estava matant. Més de 30 correus electrònics al dia a més de passejades corrents. Chiefy classifica les sol·licituds de reserva a partir del soroll i redacta respostes que inclouen tot: preus, què cal portar, el lot. Vaig recuperar les nits.",
+      "quote": "La temporada alta m'estava matant. Més de 30 correus electrònics al dia a més de passejades corrents. Duet classifica les sol·licituds de reserva a partir del soroll i redacta respostes que inclouen tot: preus, què cal portar, el lot. Vaig recuperar les nits.",
       "avatarKey": "johnny"
     },
     {
       "name": "Raquel M.",
       "title": "Instructor d'equitació i gerent de reserves, TX",
-      "quote": "Realitzem passejades al capvespre, passejades al matí i classes privades, cadascuna amb preus i requisits diferents. Chiefy ho va aprendre tot en una setmana. Elabora la resposta correcta per al tipus de viatge adequat cada vegada.",
+      "quote": "Realitzem passejades al capvespre, passejades al matí i classes privades, cadascuna amb preus i requisits diferents. Duet ho va aprendre tot en una setmana. Elabora la resposta correcta per al tipus de viatge adequat cada vegada.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "Els correus electrònics sensibles eren els pitjors: algú preguntava si pesaven massa o si el seu fill tenia prou edat. Chiefy tracta aquells amb la mateixa cura que jo. Professional, amable i precís. Només això val la pena.",
+      "quote": "Els correus electrònics sensibles eren els pitjors: algú preguntava si pesaven massa o si el seu fill tenia prou edat. Duet tracta aquells amb la mateixa cura que jo. Professional, amable i precís. Només això val la pena.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Com gestiona Chiefy les preguntes sensibles sobre els requisits de pes o experiència?",
-      "answer": "Chiefy aprèn les teves polítiques específiques i reflecteix el teu to. Quan algú pregunta sobre els límits de pes o els requisits d'experiència, respon de manera professional i cordial, compartint la informació que necessita sense fer-ho incòmode. Poseu el to una vegada i Chiefy el segueix constantment, de manera que tots els hostes se sentin respectats."
+      "question": "Com gestiona Duet les preguntes sensibles sobre els requisits de pes o experiència?",
+      "answer": "Duet aprèn les teves polítiques específiques i reflecteix el teu to. Quan algú pregunta sobre els límits de pes o els requisits d'experiència, respon de manera professional i cordial, compartint la informació que necessita sense fer-ho incòmode. Poseu el to una vegada i Duet el segueix constantment, de manera que tots els hostes se sentin respectats."
     },
     {
-      "question": "Chiefy pot gestionar les reserves de grup amb necessitats diferents dels usuaris?",
-      "answer": "Sí. Chiefy coneix els vostres tipus de viatge, les mides del grup, l'edat mínima i qualsevol requisit específic del motorista. Quan una família o un grup envia un correu electrònic sobre la reserva, redacta una resposta que inclou els preus per a tot el grup, el que cada motorista necessita saber i les franges horàries disponibles. Reviseu i envieu, sense necessitat d'anar i tornar."
+      "question": "Duet pot gestionar les reserves de grup amb necessitats diferents dels usuaris?",
+      "answer": "Sí. Duet coneix els vostres tipus de viatge, les mides del grup, l'edat mínima i qualsevol requisit específic del motorista. Quan una família o un grup envia un correu electrònic sobre la reserva, redacta una resposta que inclou els preus per a tot el grup, el que cada motorista necessita saber i les franges horàries disponibles. Reviseu i envieu, sense necessitat d'anar i tornar."
     }
   ],
   "pricingNote": "A 100 dòlars per persona per a un grup de 6, un viatge desat paga més de dos anys de Pro."

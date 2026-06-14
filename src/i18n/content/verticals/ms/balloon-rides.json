@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Chiefy untuk Tunggangan Belon Udara Panas | Pembantu E-mel AI",
-  "metaDescription": "Chiefy membantu juruterbang belon membalas e-mel tempahan serta-merta — walaupun semasa penerbangan waktu matahari terbit. Balasan draf AI dengan harga, polisi cuaca, dan gaya anda.",
+  "pageTitle": "Duet Mail untuk Tunggangan Belon Udara Panas | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu juruterbang belon membalas e-mel tempahan serta-merta — walaupun semasa penerbangan waktu matahari terbit. Balasan draf AI dengan harga, polisi cuaca, dan gaya anda.",
   "heroBadge": "Dipercayai oleh 200+ juruterbang belon",
   "heroHeadline": "Pembantu e-mel anda semasa anda di udara",
-  "heroSubline": "Chiefy mempelajari jadual penerbangan, harga, dan polisi cuaca anda — kemudian menyediakan draf balasan e-mel supaya anda tidak terlepas tempahan ketika anda berlepas pada waktu matahari terbit.",
+  "heroSubline": "Duet mempelajari jadual penerbangan, harga, dan polisi cuaca anda — kemudian menyediakan draf balasan e-mel supaya anda tidak terlepas tempahan ketika anda berlepas pada waktu matahari terbit.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "penerbangan",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Satu penerbangan yang diselamatkan membayar setahun Chiefy."
+    "punchline": "Satu penerbangan yang diselamatkan membayar setahun Duet."
   },
-  "categorizationSubtitle": "Chiefy secara automatik menandai setiap e-mel supaya anda melihat permintaan tempahan dahulu, soalan cuaca kedua, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan penerbangan yang tertimbus di bawah amaran surat berita.",
-  "draftSubtitle": "Chiefy mempelajari harga, polisi cuaca, dan nada anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran penerbangan, maklumat tempat pertemuan, dan apa yang perlu dipakai. Anda semak dan hantar.",
-  "agentSubtitle": "\"Siapa yang ada dalam manifest esok?\" \"Ada pembatalan cuaca untuk dijadualkan semula?\" Chiefy tahu peti masuk dan kalendar anda — tanya sahaja.",
+  "categorizationSubtitle": "Duet secara automatik menandai setiap e-mel supaya anda melihat permintaan tempahan dahulu, soalan cuaca kedua, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan penerbangan yang tertimbus di bawah amaran surat berita.",
+  "draftSubtitle": "Duet mempelajari harga, polisi cuaca, dan nada anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran penerbangan, maklumat tempat pertemuan, dan apa yang perlu dipakai. Anda semak dan hantar.",
+  "agentSubtitle": "\"Siapa yang ada dalam manifest esok?\" \"Ada pembatalan cuaca untuk dijadualkan semula?\" Duet tahu peti masuk dan kalendar anda — tanya sahaja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Mike L.",
       "title": "Juruterbang Belon, MN",
-      "quote": "Saya mengendalikan semuanya seorang diri — saya terbang, saya bantu kru, saya jawab e-mel. Kecuali pada pukul 5 AM saya sedang mengisi belon, bukan membalas. Chiefy mendraf balasan untuk setiap mesej 'adakah kita akan terbang esok?' sepanjang malam. Saya bangun, semak cuaca, dan tekan hantar.",
+      "quote": "Saya mengendalikan semuanya seorang diri — saya terbang, saya bantu kru, saya jawab e-mel. Kecuali pada pukul 5 AM saya sedang mengisi belon, bukan membalas. Duet mendraf balasan untuk setiap mesej 'adakah kita akan terbang esok?' sepanjang malam. Saya bangun, semak cuaca, dan tekan hantar.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "Pakej Jelajah Belon Sepanjang Tahun, UT",
-      "quote": "Kami menerima soalan yang sama 10 kali setiap hari. Apa yang perlu dipakai, di mana perlu berjumpa, bagaimana jika berangin. Chiefy mempelajari semuanya dan kini mendraf balasan yang sempurna. Kami berubah daripada sejam e-mel setiap malam kepada lima minit.",
+      "quote": "Kami menerima soalan yang sama 10 kali setiap hari. Apa yang perlu dipakai, di mana perlu berjumpa, bagaimana jika berangin. Duet mempelajari semuanya dan kini mendraf balasan yang sempurna. Kami berubah daripada sejam e-mel setiap malam kepada lima minit.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Pengendali Penerbangan Matahari Terbit, AZ",
-      "quote": "Musim puncak bermaksud 4-6 penerbangan seminggu dan setiap penumpang menghantar e-mel sekurang-kurangnya dua kali sebelum penerbangan. Chiefy mengurus soalan sebelum penerbangan supaya saya boleh fokus memberikan orang pagi terbaik dalam hidup mereka.",
+      "quote": "Musim puncak bermaksud 4-6 penerbangan seminggu dan setiap penumpang menghantar e-mel sekurang-kurangnya dua kali sebelum penerbangan. Duet mengurus soalan sebelum penerbangan supaya saya boleh fokus memberikan orang pagi terbaik dalam hidup mereka.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Bersama Pemilik Syarikat Belon, NM",
-      "quote": "Pembatalan akibat cuaca dulu merosakkan seluruh hari saya — 8 penumpang semuanya memerlukan e-mel penjadualan semula peribadi. Sekarang Chiefy mendraf setiap satu dengan polisi tempahan semula kami disertakan. Menjimatkan saya berjam-jam pada pagi pembatalan.",
+      "quote": "Pembatalan akibat cuaca dulu merosakkan seluruh hari saya — 8 penumpang semuanya memerlukan e-mel penjadualan semula peribadi. Sekarang Duet mendraf setiap satu dengan polisi tempahan semula kami disertakan. Menjimatkan saya berjam-jam pada pagi pembatalan.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Operasi Tunggangan Belon, CO",
-      "quote": "Penerbangan cadangan memerlukan banyak koordinasi berbalas-balas. Chiefy memahami cara kami menguruskannya — masa, kata kod, persediaan champagne. Ia mendraf balasan yang hampir tidak perlu saya sentuh.",
+      "quote": "Penerbangan cadangan memerlukan banyak koordinasi berbalas-balas. Duet memahami cara kami menguruskannya — masa, kata kod, persediaan champagne. Ia mendraf balasan yang hampir tidak perlu saya sentuh.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "Bagaimana Chiefy mengendalikan e-mel pembatalan cuaca?",
-      "answer": "Chiefy mempelajari polisi pembatalan dan penjadualan semula anda. Apabila anda membatalkan penerbangan kerana cuaca, ia boleh mendraf e-mel penjadualan semula yang diperibadikan kepada setiap penumpang yang terjejas — dengan polisi anda, tarikh yang tersedia, dan nada anda. Anda semak dan hantar. Apa yang dulu mengambil masa sejam untuk balasan individu kini hanya mengambil beberapa minit."
+      "question": "Bagaimana Duet mengendalikan e-mel pembatalan cuaca?",
+      "answer": "Duet mempelajari polisi pembatalan dan penjadualan semula anda. Apabila anda membatalkan penerbangan kerana cuaca, ia boleh mendraf e-mel penjadualan semula yang diperibadikan kepada setiap penumpang yang terjejas — dengan polisi anda, tarikh yang tersedia, dan nada anda. Anda semak dan hantar. Apa yang dulu mengambil masa sejam untuk balasan individu kini hanya mengambil beberapa minit."
     },
     {
-      "question": "Bolehkah Chiefy mengendalikan e-mel 'adakah kita akan terbang esok?' yang masuk membanjiri setiap malam?",
-      "answer": "Ya — ini adalah salah satu e-mel paling biasa yang diberitahu oleh pengendali belon kepada kami. Chiefy mempelajari polisi cuaca anda dan mendraf balasan yang meyakinkan yang menjelaskan proses keputusan anda, bila anda akan membuat keputusan muktamad, dan apa yang boleh dijangka. Setelah anda mengesahkan keputusan terbang/tidak terbang pada waktu pagi, ia boleh mendraf kemas kini kepada semua orang dalam manifest."
+      "question": "Bolehkah Duet mengendalikan e-mel 'adakah kita akan terbang esok?' yang masuk membanjiri setiap malam?",
+      "answer": "Ya — ini adalah salah satu e-mel paling biasa yang diberitahu oleh pengendali belon kepada kami. Duet mempelajari polisi cuaca anda dan mendraf balasan yang meyakinkan yang menjelaskan proses keputusan anda, bila anda akan membuat keputusan muktamad, dan apa yang boleh dijangka. Setelah anda mengesahkan keputusan terbang/tidak terbang pada waktu pagi, ia boleh mendraf kemas kini kepada semua orang dalam manifest."
     }
   ],
   "pricingNote": "Pada $250/orang dengan 4 penumpang setiap penerbangan, satu tempahan yang dijimatkan membayar lebih daripada setahun Pro."

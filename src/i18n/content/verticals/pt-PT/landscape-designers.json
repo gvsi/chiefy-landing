@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy para paisagistas | Assistente de email com IA",
-  "metaDescription": "O Chiefy ajuda paisagistas a responder emails de clientes instantaneamente — até no campo. Respostas redigidas por IA com detalhes dos os seus projetos, preços e tom.",
+  "pageTitle": "Duet Mail para paisagistas | Assistente de email com IA",
+  "metaDescription": "O Duet Mail ajuda paisagistas a responder emails de clientes instantaneamente — até no campo. Respostas redigidas por IA com detalhes dos os seus projetos, preços e tom.",
   "heroBadge": "Usado por mais de 300 paisagistas",
   "heroHeadline": "O seu assistente de email enquanto o utilizador está em campo",
-  "heroSubline": "O Chiefy aprende detalhes dos os seus projetos, paletas de plantas, preços e processo — e então redige respostas de email para não perder nenhum cliente por demora na resposta.",
+  "heroSubline": "O Duet aprende detalhes dos os seus projetos, paletas de plantas, preços e processo — e então redige respostas de email para não perder nenhum cliente por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projeto",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Um projeto recuperado paga anos de Chiefy."
+    "punchline": "Um projeto recuperado paga anos de Duet."
   },
-  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para ver novos pedidos de consulta primeiro, aprovações de clientes em seguida e nunca ruído de fornecedores. Chega de perder um lead enterrado sob confirmações de pedidos de viveiros.",
-  "draftSubtitle": "O Chiefy aprende os seus preços, processo e tom. Quando chega um pedido de consulta, ele redige uma resposta completa com a sua disponibilidade, o que esperar e próximos passos. Reveja e envia.",
-  "agentSubtitle": "\"Qual é o cronograma do projeto Henderson?\" \"Quais clientes estão aguardando aprovação do plano?\" O Chiefy conhece a sua caixa de entrada e os seus projetos — é só perguntar.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para ver novos pedidos de consulta primeiro, aprovações de clientes em seguida e nunca ruído de fornecedores. Chega de perder um lead enterrado sob confirmações de pedidos de viveiros.",
+  "draftSubtitle": "O Duet aprende os seus preços, processo e tom. Quando chega um pedido de consulta, ele redige uma resposta completa com a sua disponibilidade, o que esperar e próximos passos. Reveja e envia.",
+  "agentSubtitle": "\"Qual é o cronograma do projeto Henderson?\" \"Quais clientes estão aguardando aprovação do plano?\" O Duet conhece a sua caixa de entrada e os seus projetos — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Arquiteto paisagista, Austin TX",
-      "quote": "Na primavera, fico no local 8 horas por dia fazendo avaliações e supervisão de instalação. Novos pedidos de consulta ficavam parados por dias. Agora o Chiefy responde com o meu processo e disponibilidade em minutos. Fechei 3 projetos que com certeza teria perdido.",
+      "quote": "Na primavera, fico no local 8 horas por dia fazendo avaliações e supervisão de instalação. Novos pedidos de consulta ficavam parados por dias. Agora o Duet responde com o meu processo e disponibilidade em minutos. Fechei 3 projetos que com certeza teria perdido.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Designer de jardins, Portland OR",
-      "quote": "Coordenar equipes de hardscape, instaladores de irrigação e clientes gera uma quantidade absurda de email. O Chiefy organiza tudo e redige respostas que incluem os detalhes certos do projeto. É como ter uma gerente de estúdio.",
+      "quote": "Coordenar equipes de hardscape, instaladores de irrigação e clientes gera uma quantidade absurda de email. O Duet organiza tudo e redige respostas que incluem os detalhes certos do projeto. É como ter uma gerente de estúdio.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Dono de estúdio de paisagismo, Denver CO",
-      "quote": "Eu costumava passar todas as noites depois do trabalho de campo colocando emails em dia. As mesmas perguntas — preço, processo, prazo. O Chiefy cuida de tudo. O meu tempo de resposta caiu de dias para minutos e a minha taxa de fechamento subiu muito.",
+      "quote": "Eu costumava passar todas as noites depois do trabalho de campo colocando emails em dia. As mesmas perguntas — preço, processo, prazo. O Duet cuida de tudo. O meu tempo de resposta caiu de dias para minutos e a minha taxa de fechamento subiu muito.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Paisagista residencial, Scottsdale AZ",
-      "quote": "Os os meus clientes fazem muitas perguntas sobre seleção de plantas e manutenção. O Chiefy aprendeu as minhas paletas de plantas e instruções de cuidado e redige respostas que quase não preciso editar. Os clientes acham que sou incrivelmente responsiva.",
+      "quote": "Os os meus clientes fazem muitas perguntas sobre seleção de plantas e manutenção. O Duet aprendeu as minhas paletas de plantas e instruções de cuidado e redige respostas que quase não preciso editar. Os clientes acham que sou incrivelmente responsiva.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Paisagista de plantas nativas, Raleigh NC",
-      "quote": "Eu estava perdendo novos clientes porque não conseguia responder enquanto estava até os joelhos em uma instalação de plantio. O Chiefy redige respostas de consulta com o meu processo exato, preços e o que esperar. Ele se pagou na primeira semana.",
+      "quote": "Eu estava perdendo novos clientes porque não conseguia responder enquanto estava até os joelhos em uma instalação de plantio. O Duet redige respostas de consulta com o meu processo exato, preços e o que esperar. Ele se pagou na primeira semana.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "O Chiefy consegue lidar com a correria da primavera, quando os pedidos de consulta se acumulam?",
-      "answer": "É exatamente quando o Chiefy se destaca. Durante a sua temporada mais movimentada, cada nova consulta recebe uma resposta rápida e detalhada com o seu processo, prazo e disponibilidade — mesmo enquanto o utilizador está no local o dia todo. Chega de perder leads de primavera porque o utilizador não conseguiu responder antes das 9."
+      "question": "O Duet consegue lidar com a correria da primavera, quando os pedidos de consulta se acumulam?",
+      "answer": "É exatamente quando o Duet se destaca. Durante a sua temporada mais movimentada, cada nova consulta recebe uma resposta rápida e detalhada com o seu processo, prazo e disponibilidade — mesmo enquanto o utilizador está no local o dia todo. Chega de perder leads de primavera porque o utilizador não conseguiu responder antes das 9."
     },
     {
-      "question": "Coordeno várias equipes externas. O Chiefy ajuda nisso?",
-      "answer": "Sim. O Chiefy aprende os seus projetos e os empreiteiros envolvidos — áreas construídas, irrigação, equipes de plantio, viveiros. Categoriza emails de empreiteiros separadamente dos emails de clientes e pode redigir respostas com detalhes específicos do projeto, como especificações, prazos e materiais. O utilizador acompanha cada equipa sem o caos da caixa de entrada."
+      "question": "Coordeno várias equipes externas. O Duet ajuda nisso?",
+      "answer": "Sim. O Duet aprende os seus projetos e os empreiteiros envolvidos — áreas construídas, irrigação, equipes de plantio, viveiros. Categoriza emails de empreiteiros separadamente dos emails de clientes e pode redigir respostas com detalhes específicos do projeto, como especificações, prazos e materiais. O utilizador acompanha cada equipa sem o caos da caixa de entrada."
     }
   ],
   "pricingNote": "Com $8,000/projeto, um cliente recuperado paga anos de Pro."

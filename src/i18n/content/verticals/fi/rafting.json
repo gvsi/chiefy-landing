@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Chiefy koskenlasku- ja kajakkivarusteille | AI-sähköpostiavustaja",
-  "metaDescription": "Chiefy auttaa koskenlaskuoppaita ja kajakkivalmistajia vastaamaan matkakyselyihin välittömästi – jopa joesta käsin. AI-muotoiltuja vastauksia, joissa on matkasi tiedot, hinnat ja ääni.",
+  "pageTitle": "Duet Mail koskenlasku- ja kajakkivarusteille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa koskenlaskuoppaita ja kajakkivalmistajia vastaamaan matkakyselyihin välittömästi – jopa joesta käsin. AI-muotoiltuja vastauksia, joissa on matkasi tiedot, hinnat ja ääni.",
   "heroBadge": "Yli 200 jokioppaan luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet joella",
-  "heroSubline": "Chiefy oppii matkatyypit, hinnat ja varusteluettelot – sitten luonnostelee vastaukset varauskyselyihin, jotta asiakkaat saavat vastaukset, kun juokset koskia.",
+  "heroSubline": "Duet oppii matkatyypit, hinnat ja varusteluettelot – sitten luonnostelee vastaukset varauskyselyihin, jotta asiakkaat saavat vastaukset, kun juokset koskia.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "henkilö",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Kaksi tallennettua varausta maksaa kokonaisen vuoden Chiefy in."
+    "punchline": "Kaksi tallennettua varausta maksaa kokonaisen vuoden Duet in."
   },
-  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten matkakyselyt tulevat esiin ensin, vaihdekysymykset sitten ja promootioääni katoaa. TripAdvisor-hälytysten alle jääneestä ryhmävarauksesta ei enää puututa.",
-  "draftSubtitle": "Chiefy oppii matkatyypit, koskiluokat, varusteluettelot ja peruutuskäytännöt. Kun varauskysely osuu, se laatii täydellisen vastauksen, jossa on kaikki asiakkaan tarpeet. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Onko paikkoja lauantain kokopäivänä?\" \"Luonnos vastaus Jenniferille saatavuuden mukaan.\" Chiefy tietää postilaatikkosi ja aikataulusi – kysy vain.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten matkakyselyt tulevat esiin ensin, vaihdekysymykset sitten ja promootioääni katoaa. TripAdvisor-hälytysten alle jääneestä ryhmävarauksesta ei enää puututa.",
+  "draftSubtitle": "Duet oppii matkatyypit, koskiluokat, varusteluettelot ja peruutuskäytännöt. Kun varauskysely osuu, se laatii täydellisen vastauksen, jossa on kaikki asiakkaan tarpeet. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Onko paikkoja lauantain kokopäivänä?\" \"Luonnos vastaus Jenniferille saatavuuden mukaan.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Koskenlasku Outfitter, CO",
-      "quote": "Sesonkiaikana olen joella 6 päivää viikossa. Kun palasin sähköposteihin, puolet ryhmistä oli jo varannut jonkun muun. Nyt Chiefy luonnostelee vastaukset matkan yksityiskohdilla ja hinnoittelulla, kun olen paikalla.",
+      "quote": "Sesonkiaikana olen joella 6 päivää viikossa. Kun palasin sähköposteihin, puolet ryhmistä oli jo varannut jonkun muun. Nyt Duet luonnostelee vastaukset matkan yksityiskohdilla ja hinnoittelulla, kun olen paikalla.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Kayak & SUP Tours, OR",
-      "quote": "Jokainen asiakas kysyy samat viisi kysymystä - hinta, mitä ottaa mukaan, taitotaso, ryhmäkoko, peruutusehdot. Chiefy oppi kaiken ensimmäisen viikon aikana. Vaihdoin tunnin sähköposteista jokailta viiteen minuuttiin luonnosten tarkistamiseen.",
+      "quote": "Jokainen asiakas kysyy samat viisi kysymystä - hinta, mitä ottaa mukaan, taitotaso, ryhmäkoko, peruutusehdot. Duet oppi kaiken ensimmäisen viikon aikana. Vaihdoin tunnin sähköposteista jokailta viiteen minuuttiin luonnosten tarkistamiseen.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Multi-Day Expedition Guide, AK",
-      "quote": "Teen 5 päivän matkoja nollasolupalvelulla. Ennen Chiefy ia kaikki kyselyt jäivät ilman vastausta, kunnes palasin kaupunkiin. Nyt asiakkaat saavat yksityiskohtaisen vastauksen muutamassa minuutissa ja vahvistan, kun olen poissa joesta.",
+      "quote": "Teen 5 päivän matkoja nollasolupalvelulla. Ennen Duet ia kaikki kyselyt jäivät ilman vastausta, kunnes palasin kaupunkiin. Nyt asiakkaat saavat yksityiskohtaisen vastauksen muutamassa minuutissa ja vahvistan, kun olen poissa joesta.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "River Adventuresin toimistopäällikkö, WV",
-      "quote": "Hallinnoin kolmen oppaan varauksia neljälle matkatyypille. Chiefy luokittelee jokaisen sähköpostin kiireellisyyden mukaan ja laatii vastaukset oikean matkan, oikean hinnan, oikean varusteluettelon. Se on kuin itseni kloonaamista.",
+      "quote": "Hallinnoin kolmen oppaan varauksia neljälle matkatyypille. Duet luokittelee jokaisen sähköpostin kiireellisyyden mukaan ja laatii vastaukset oikean matkan, oikean hinnan, oikean varusteluettelon. Se on kuin itseni kloonaamista.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Hoitaako Chiefy mukautettuja matkatarjouksia ja usean päivän tutkimusretkiä?",
-      "answer": "Kyllä. Chiefy oppii koko matkasi - puolen päivän kellunta, koko päivän koski, usean päivän tutkimusmatkat - sekä hinnoittelun, mitä sisältyy hintaan, ikärajat ja vaikeustasot. Kun joku kysyy 3 päivän matkasta 6 hengelle, se laatii täydellisen vastauksen, jossa on oikeat tiedot. Tarkistat, muokkaat tarvittaessa ja lähetät."
+      "question": "Hoitaako Duet mukautettuja matkatarjouksia ja usean päivän tutkimusretkiä?",
+      "answer": "Kyllä. Duet oppii koko matkasi - puolen päivän kellunta, koko päivän koski, usean päivän tutkimusmatkat - sekä hinnoittelun, mitä sisältyy hintaan, ikärajat ja vaikeustasot. Kun joku kysyy 3 päivän matkasta 6 hengelle, se laatii täydellisen vastauksen, jossa on oikeat tiedot. Tarkistat, muokkaat tarvittaessa ja lähetät."
     },
     {
-      "question": "Olen off-grid usean päivän matkoilla. Vieläkö Chiefy toimii?",
-      "answer": "Juuri tämän ongelman Chiefy ratkaisee. Kun olet joella ilman signaalia, Chiefy-luonnokset vastaavat kaikkiin saapuviin tiedusteluihin. Kun olet takaisin kantaman alueella, luonnoksesi odottavat – tarkista ja lähetä. Useimmat oppaat kertovat meille, että se poistaa ruuhkan, jota heillä oli tapana kohdata jokaisen monipäiväisen matkan jälkeen."
+      "question": "Olen off-grid usean päivän matkoilla. Vieläkö Duet toimii?",
+      "answer": "Juuri tämän ongelman Duet ratkaisee. Kun olet joella ilman signaalia, Duet-luonnokset vastaavat kaikkiin saapuviin tiedusteluihin. Kun olet takaisin kantaman alueella, luonnoksesi odottavat – tarkista ja lähetä. Useimmat oppaat kertovat meille, että se poistaa ruuhkan, jota heillä oli tapana kohdata jokaisen monipäiväisen matkan jälkeen."
     }
   ],
   "pricingNote": "Hinta 150 $/henkilö, kaksi tallennettua varausta kattavat koko vuoden Pro."

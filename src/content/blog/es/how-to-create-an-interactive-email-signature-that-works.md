@@ -2,7 +2,7 @@
 title: "Cómo crear una firma de correo electrónico interactiva que funcione"
 description: "Aprenda a crear una firma de correo electrónico interactiva para impulsar la participación, la marca y los clientes potenciales. Guía paso a paso para autónomos y startups"
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["IA", "Correo electrónico"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Una firma interactiva está diseñada para generar acción: un clic, una llamada
 
 Aquí es donde integrar su estrategia de firma con herramientas inteligentes de gestión de correo electrónico puede marcar la diferencia. Cuando los clientes potenciales comienzan a hacer clic en el enlace "Reservar una reunión" generado por su increíble firma, necesita un sistema para manejar la programación y la comunicación posteriores sin problemas. De manera similar, mantener el tono profesional establecido por su firma en cada correo electrónico de seguimiento es clave para construir relaciones.
 
-Las herramientas diseñadas para la productividad del correo electrónico, como [Chiefy](https://chiefy.com/es), pueden ayudar a cerrar esta brecha. Imagine recibir asistencia de IA para redactar respuestas rápidas y personalizadas que mantengan su voz única después de que alguien interactúe con la CTA de su firma. Las características de Chiefy como **AI Triage** pueden ayudar a mostrar respuestas importantes generadas a partir de interacciones de firmas, mientras que **Authentic AI Drafting** garantiza que sus seguimientos suenen como usted, preservando el profesionalismo de sus proyectos exclusivos. Convierte el compromiso generado por su firma en conversaciones productivas y bien administradas.
+Las herramientas diseñadas para la productividad del correo electrónico, como [Duet Mail](https://duetmail.com/es), pueden ayudar a cerrar esta brecha. Imagine recibir asistencia de IA para redactar respuestas rápidas y personalizadas que mantengan su voz única después de que alguien interactúe con la CTA de su firma. Las características de Duet Mail como **AI Triage** pueden ayudar a mostrar respuestas importantes generadas a partir de interacciones de firmas, mientras que **Authentic AI Drafting** garantiza que sus seguimientos suenen como usted, preservando el profesionalismo de sus proyectos exclusivos. Convierte el compromiso generado por su firma en conversaciones productivas y bien administradas.
 
 ## ¿Listo para activar su firma?
 

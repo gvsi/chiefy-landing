@@ -2,7 +2,7 @@
 title: "Como escrever um e-mail profissional: seja claro, economize tempo e impulsione sua carreira"
 description: "Aprenda a escrever e-mails profissionais que geram confiança e economizam tempo. Domine assunto, tom, estrutura e etiqueta."
 publishedAt: 2025-05-27
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["IA", "Produtividade", "Escrita de e-mails"]
 draft: false
 ---
@@ -180,9 +180,9 @@ Os principais benefícios incluem:
 
 - **Economia de tempo e redução de estresse:** ao lidar com tarefas repetitivas como classificar, filtrar e até rascunhar respostas, assistentes de IA podem economizar horas por semana e reduzir muito o estresse ligado à caixa de entrada.
 
-Sentindo-se soterrado? É aqui que recursos de triagem com IA, como os de ferramentas como [**Chiefy**](https://chiefy.com/pt-BR), podem mudar o jogo. Eles classificam automaticamente os e-mails recebidos, usando IA para identificar itens urgentes que precisam de ação ou decisão e apresentá-los em um [**painel focado**](https://peerlist.io/giovanni/project/duet-mail), cortando a desordem para que você veja instantaneamente o que importa.
+Sentindo-se soterrado? É aqui que recursos de triagem com IA, como os de ferramentas como [**Duet Mail**](https://duetmail.com/pt-BR), podem mudar o jogo. Eles classificam automaticamente os e-mails recebidos, usando IA para identificar itens urgentes que precisam de ação ou decisão e apresentá-los em um [**painel focado**](https://peerlist.io/giovanni/project/duet-mail), cortando a desordem para que você veja instantaneamente o que importa.
 
-Com dificuldade para responder rápido mantendo profissionalismo e autenticidade? Assistentes avançados de IA podem ajudar. Por exemplo, [**Chiefy**](https://chiefy.com/pt-BR) usa [**rascunhos autênticos com IA**](https://peerlist.io/giovanni/project/duet-mail) que aprendem de verdade seu estilo de escrita e vocabulário a partir de e-mails anteriores. Ele sugere rascunhos que soam como você, economizando horas e mantendo aquele toque pessoal crucial nas comunicações profissionais. Esse aprendizado de voz garante que respostas assistidas por IA ainda pareçam genuínas.
+Com dificuldade para responder rápido mantendo profissionalismo e autenticidade? Assistentes avançados de IA podem ajudar. Por exemplo, [**Duet Mail**](https://duetmail.com/pt-BR) usa [**rascunhos autênticos com IA**](https://peerlist.io/giovanni/project/duet-mail) que aprendem de verdade seu estilo de escrita e vocabulário a partir de e-mails anteriores. Ele sugere rascunhos que soam como você, economizando horas e mantendo aquele toque pessoal crucial nas comunicações profissionais. Esse aprendizado de voz garante que respostas assistidas por IA ainda pareçam genuínas.
 
 A evolução dessas ferramentas é fascinante. Saímos de verificadores básicos de gramática para assistentes sofisticados que enfrentam o desafio completo do e-mail: não apenas correção, mas gestão da carga cognitiva da sobrecarga, com triagem e resumos, e manutenção da conexão pessoal em escala, com aprendizado de voz. Isso reflete a complexidade que a comunicação profissional assumiu e a necessidade de ferramentas que ofereçam suporte amplo.
 
@@ -192,6 +192,6 @@ Dominar o e-mail profissional não é seguir regras rígidas; é comunicar-se co
 
 Lembre-se: tornar-se um ótimo comunicador por e-mail é um processo contínuo de refinamento. Comece a aplicar essas dicas de forma consistente e você perceberá diferença nas respostas que recebe e no tempo que economiza.
 
-Pronto para assumir o controle da caixa de entrada e se comunicar como profissional? Comece a implementar essas estratégias hoje. E se você quer economizar horas e reduzir o estresse do e-mail, explore como assistentes de IA como [**Chiefy**](https://chiefy.com/pt-BR) podem transformar seu fluxo com triagem inteligente e rascunhos autênticos.
+Pronto para assumir o controle da caixa de entrada e se comunicar como profissional? Comece a implementar essas estratégias hoje. E se você quer economizar horas e reduzir o estresse do e-mail, explore como assistentes de IA como [**Duet Mail**](https://duetmail.com/pt-BR) podem transformar seu fluxo com triagem inteligente e rascunhos autênticos.
 
 Achou útil? Compartilhe com colegas que também podem se beneficiar.

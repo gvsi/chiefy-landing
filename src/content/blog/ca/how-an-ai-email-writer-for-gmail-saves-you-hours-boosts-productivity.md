@@ -2,7 +2,7 @@
 title: "Com un escriptor de correu electrònic AI per a Gmail us estalvia hores i augmenta la productivitat"
 description: "Ofegar-se als correus electrònics? Descobriu com un redactor de correu electrònic AI per a Gmail pot redactar respostes, resumir fils i recuperar la vostra jornada laboral. Augmenta la productivitat avui!"
 publishedAt: 2025-07-25
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI","Gmail","Productivitat","Redacció de correu electrònic"]
 draft: false
 ---
@@ -158,7 +158,7 @@ El paisatge inclou diversos actors, cadascun amb punts forts:
 
 | Eina | Enfocament primari | Característiques clau de AI | Model de preus típics | Punt de venda únic (USP) |
 | --------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------------------------- |
-| **Chiefy** | Assistent intel·ligent (triatge i dibuix) | Triatge AI, Redacció AI autèntica (aprenentatge per veu), resum intel·ligent, consciència contextual | Subscripció (Detalls normalment al lloc) | Centra't en la concordança de veu autèntica i el tauler de priorització intel·ligent. |
+| **Duet Mail** | Assistent intel·ligent (triatge i dibuix) | Triatge AI, Redacció AI autèntica (aprenentatge per veu), resum intel·ligent, consciència contextual | Subscripció (Detalls normalment al lloc) | Centra't en la concordança de veu autèntica i el tauler de priorització intel·ligent. |
 | **Google Gemini (a l'espai de treball)** | Espai de treball integrat AI | Ajuda'm a escriure (esborrany), resum, redacció intel·ligent/resposta, integració amb aplicacions d'espai de treball | Complement d'espai de treball ($20-$30/usuari/mes) | Integració profunda dins de l'ecosistema Google.                                 |
 | **MailMaestro** | Gmail/Outlook AI Assistent | Redactar, respondre, millorar, resumir, plantilles, control de to/idioma, focus de seguretat | Freemium, Pro ($15/usuari/mes) | Enfocament multi-LLM, fort èmfasi en seguretat.                             |
 | **Auto Gmail** | Redacció d'alt volum AI | AI Redacció (GPT-4/Llama-3), aprenentatge d'estils, entrada de context, llista negra | Freemium, escalonat ($27-$47/mes) | Centra't en la velocitat i el volum de generació d'esborranys automatitzats.                       |
@@ -176,10 +176,10 @@ Tot i que la velocitat és un avantatge important, el dubte més gran que tenen 
 
 Aquí és on brilla la propera generació d'assistents AI, centrant-se no només en *escriure* sinó en *comunicació intel·ligent*. La clau es troba en dues àrees: **replicació de veu autèntica** i **triatge intel·ligent**.
 
-En lloc de només generar text gramaticalment correcte, AI avançat té com a objectiu capturar *la vostra* veu única. Com? Analitzant els vostres correus electrònics enviats anteriorment: les vostres opcions de vocabulari, estructures de frases, frases habituals i fins i tot el vostre nivell típic de formalitat amb diferents contactes. Això permet que el AI generi esborranys que sonen realment com si provenen de vosaltres, mantenint la coherència i la connexió personal tot estalviant temps. Eines com [**Chiefy**](https://chiefy.com/) estan dissenyades específicament entorn d'aquest principi, prioritzant **Esborrany AI autèntic** per garantir que l'assistent AI parli realment el vostre idioma.
+En lloc de només generar text gramaticalment correcte, AI avançat té com a objectiu capturar *la vostra* veu única. Com? Analitzant els vostres correus electrònics enviats anteriorment: les vostres opcions de vocabulari, estructures de frases, frases habituals i fins i tot el vostre nivell típic de formalitat amb diferents contactes. Això permet que el AI generi esborranys que sonen realment com si provenen de vosaltres, mantenint la coherència i la connexió personal tot estalviant temps. Eines com [**Duet Mail**](https://duetmail.com/) estan dissenyades específicament entorn d'aquest principi, prioritzant **Esborrany AI autèntic** per garantir que l'assistent AI parli realment el vostre idioma.
 
 
-A l'extrem receptor, abordar el caos de la safata d'entrada requereix més que respostes més ràpides. Demana priorització. Imagineu-vos un sistema intel·ligent que escanegi automàticament els vostres correus electrònics entrants, identifiqui aquells que requereixen una acció urgent o una decisió i els mostra en una visió clara i focalitzada, separada del soroll dels butlletins de notícies i dels CC de baixa prioritat. Aquest és el poder de **AI Triage**. Els assistents com Chiefy inclouen un **Tauler de control enfocat** impulsat per AI Triage, dissenyat per eliminar el desordre i destacar immediatament allò que necessita la vostra atenció ara. Combinat amb **Smart Summarization**, que resumeix fils llargs, podeu comprendre el context i les accions necessàries molt més ràpidament.
+A l'extrem receptor, abordar el caos de la safata d'entrada requereix més que respostes més ràpides. Demana priorització. Imagineu-vos un sistema intel·ligent que escanegi automàticament els vostres correus electrònics entrants, identifiqui aquells que requereixen una acció urgent o una decisió i els mostra en una visió clara i focalitzada, separada del soroll dels butlletins de notícies i dels CC de baixa prioritat. Aquest és el poder de **AI Triage**. Els assistents com Duet Mail inclouen un **Tauler de control enfocat** impulsat per AI Triage, dissenyat per eliminar el desordre i destacar immediatament allò que necessita la vostra atenció ara. Combinat amb **Smart Summarization**, que resumeix fils llargs, podeu comprendre el context i les accions necessàries molt més ràpidament.
 
 
 
@@ -239,4 +239,4 @@ El correu electrònic no desapareix, però com el gestionem està experimentant 
 Des de redactar respostes en qüestió de segons fins a resumir fils complexos i fins i tot ajudar a prioritzar la vostra càrrega de treball, aquestes eines proporcionen guanys de productivitat tangibles. La clau és triar sàviament, prioritzant eines que respectin la vostra privadesa de dades i, sobretot, us ajudin a mantenir la vostra veu autèntica. Els millors assistents AI augmenten les vostres habilitats i us permeten comunicar-vos de manera més eficaç i eficient sense semblar un robot.
 
 
-Estàs preparat per passar menys temps lluitant amb la teva safata d'entrada i més temps centrat en un treball impactant? Pot ser que sigui el moment d'explorar com un assistent de correu electrònic AI pot revolucionar la vostra experiència Gmail. Penseu en provar una eina com [**Chiefy**](https://chiefy.com/), que se centra a combinar el triatge intel·ligent amb un esborrany AI autèntic i comproveu com us pot ajudar a recuperar la vostra jornada laboral.
+Estàs preparat per passar menys temps lluitant amb la teva safata d'entrada i més temps centrat en un treball impactant? Pot ser que sigui el moment d'explorar com un assistent de correu electrònic AI pot revolucionar la vostra experiència Gmail. Penseu en provar una eina com [**Duet Mail**](https://duetmail.com/), que se centra a combinar el triatge intel·ligent amb un esborrany AI autèntic i comproveu com us pot ajudar a recuperar la vostra jornada laboral.

@@ -2,7 +2,7 @@
 title: "Skęstate žinutėse? Ekspertų strategijos, kaip valdyti savo Gmail gautuosius"
 description: "Nustokite skęsti el. pašto sraute! Sužinokite ekspertų strategijas, kaip valdyti savo Gmail gautuosius — nuo klasikinių taktikų iki DI įrankių — ir susigrąžinkite produktyvumą."
 publishedAt: 2025-07-04
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["DI", "Gmail", "Gautųjų valdymas", "El. paštas"]
 draft: false
 ---
@@ -155,7 +155,7 @@ DI el. pašto asistentai peržengia paprastos automatizacijos ribas; jie siūlo 
 
 **Nauda:** Užuot jums pačiam kapstantis po krūvą laiškų, DI automatiškai iškelia tuos, kuriems reikia neatidėliotino veiksmo. Tai smarkiai sumažina rūšiavimo laiką, užtikrina, kad svarbūs dalykai neliks nepastebėti, sumažina gautųjų perkrovos keliamą stresą ir leidžia sutelkti energiją į reikšmingą darbą, o ne į gautųjų administravimą.
 
-**Chiefy nuoroda (kontekstinė):** _Būtent toks išmanus rūšiavimas ir yra tai, ko reikia užsiėmusiems specialistams. Čia puikiai veikia tokie įrankiai kaip _[_Chiefy_](https://chiefy.com/lt)_, kurie naudoja **DI rūšiavimą**, kad analizuotų skubumą, reikalingus veiksmus ir sprendimus, o viską aiškiai pateiktų **sutelktoje valdymo srityje**, kad iš karto žinotumėte, kam reikia dėmesio._
+**Duet Mail nuoroda (kontekstinė):** _Būtent toks išmanus rūšiavimas ir yra tai, ko reikia užsiėmusiems specialistams. Čia puikiai veikia tokie įrankiai kaip _[_Duet Mail_](https://duetmail.com/lt)_, kurie naudoja **DI rūšiavimą**, kad analizuotų skubumą, reikalingus veiksmus ir sprendimus, o viską aiškiai pateiktų **sutelktoje valdymo srityje**, kad iš karto žinotumėte, kam reikia dėmesio._
 
 ### Išmanios santraukos: akimirksniu supraskite ilgas gijas ir priedus
 
@@ -215,4 +215,4 @@ Technologijos, ypač išmaniųjų DI el. pašto asistentų atsiradimas, suteikia
 
 Įvaldyti Gmail reiškia ne tik palaikyti tvarkingą skaitmeninę erdvę. Tai reiškia reikšmingai sumažinti stresą darbe, susigrąžinti vertingas darbo valandas kiekvieną savaitę, apsaugoti gebėjimą susitelkti į gilų, prasmingą darbą ir galiausiai padidinti bendrą veiksmingumą bei savijautą. Apgalvotai derindami disciplinuotus įpročius su strategišku išmanių įrankių naudojimu, galite paversti savo gautuosius iš baimę keliančio šaltinio į valdomą komunikacijos centrą.
 
-Pasiruošę patirti, kaip DI gali pakeisti jūsų santykį su el. paštu? Ženkite pirmą žingsnį ramesnės, produktyvesnės darbo dienos link. Sužinokite, kaip [Chiefy](https://chiefy.com/lt) naudoja DI rūšiavimą, išmaniąsias santraukas ir autentišką juodraščių rengimą, kad padėtų tokiems užsiėmusiems specialistams kaip jūs įveikti savo gautuosius.
+Pasiruošę patirti, kaip DI gali pakeisti jūsų santykį su el. paštu? Ženkite pirmą žingsnį ramesnės, produktyvesnės darbo dienos link. Sužinokite, kaip [Duet Mail](https://duetmail.com/lt) naudoja DI rūšiavimą, išmaniąsias santraukas ir autentišką juodraščių rengimą, kad padėtų tokiems užsiėmusiems specialistams kaip jūs įveikti savo gautuosius.

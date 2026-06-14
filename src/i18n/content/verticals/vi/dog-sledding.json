@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Chiefy cho Tour Xe Trượt Chó | Trợ Lý Email AI",
-  "metaDescription": "Chiefy giúp người điều khiển xe trượt chó trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên đường. Trả lời được soạn thảo bằng AI với loại tour, giá cả, chính sách và phong cách của bạn.",
+  "pageTitle": "Duet Mail cho Tour Xe Trượt Chó | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp người điều khiển xe trượt chó trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên đường. Trả lời được soạn thảo bằng AI với loại tour, giá cả, chính sách và phong cách của bạn.",
   "heroBadge": "Được tin dùng bởi hơn 200 người điều khiển xe trượt chó",
   "heroHeadline": "Trợ lý email của bạn khi bạn đang trên đường",
-  "heroSubline": "Chiefy học loại tour, giá cả, chính sách thời tiết và các dịch vụ bổ sung — sau đó soạn thảo trả lời email để bạn không bao giờ mất đặt chỗ vì phản hồi chậm.",
+  "heroSubline": "Duet học loại tour, giá cả, chính sách thời tiết và các dịch vụ bổ sung — sau đó soạn thảo trả lời email để bạn không bao giờ mất đặt chỗ vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tour",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Hai đặt chỗ được giữ lại đủ trả một năm dùng Chiefy."
+    "punchline": "Hai đặt chỗ được giữ lại đủ trả một năm dùng Duet."
   },
-  "categorizationSubtitle": "Chiefy tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi sau, và không bao giờ bỏ lỡ tin nhắn không quan trọng. Không còn bỏ lỡ yêu cầu tour bị chôn dưới thông báo TripAdvisor.",
-  "draftSubtitle": "Chiefy học loại tour, giá cả và phong cách của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết gói, hướng dẫn mặc đồ và dịch vụ bổ sung. Bạn xem lại và gửi.",
-  "agentSubtitle": "\"Có đặt chỗ nào cuối tuần này không?\" \"Soạn trả lời về combo cực quang.\" Chiefy hiểu hộp thư và lịch của bạn — chỉ cần hỏi.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi sau, và không bao giờ bỏ lỡ tin nhắn không quan trọng. Không còn bỏ lỡ yêu cầu tour bị chôn dưới thông báo TripAdvisor.",
+  "draftSubtitle": "Duet học loại tour, giá cả và phong cách của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết gói, hướng dẫn mặc đồ và dịch vụ bổ sung. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Có đặt chỗ nào cuối tuần này không?\" \"Soạn trả lời về combo cực quang.\" Duet hiểu hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Nhà tổ chức tour xe trượt chó, AK",
-      "quote": "Tôi đi trên đường 6 giờ mỗi ngày mà không có sóng điện thoại. Khi tôi về, một nửa yêu cầu đặt chỗ đã chuyển sang bên khác. Chiefy soạn trả lời với chi tiết tour và giá — khách nhận phản hồi trong vài phút, không phải vài giờ.",
+      "quote": "Tôi đi trên đường 6 giờ mỗi ngày mà không có sóng điện thoại. Khi tôi về, một nửa yêu cầu đặt chỗ đã chuyển sang bên khác. Duet soạn trả lời với chi tiết tour và giá — khách nhận phản hồi trong vài phút, không phải vài giờ.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Chủ chuồng chó & tour xe trượt, AK",
-      "quote": "Chúng tôi có thăm chuồng, trải nghiệm xe trượt và combo cực quang — mỗi email cần câu trả lời khác nhau. Chiefy đã hiểu cả ba loại tour trong một tuần và giờ soạn trả lời đúng gói mỗi lần.",
+      "quote": "Chúng tôi có thăm chuồng, trải nghiệm xe trượt và combo cực quang — mỗi email cần câu trả lời khác nhau. Duet đã hiểu cả ba loại tour trong một tuần và giờ soạn trả lời đúng gói mỗi lần.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Hướng dẫn xe trượt chó, MN",
-      "quote": "Trước đây tôi dành mỗi tối trả lời cùng câu hỏi về mặc gì, giới hạn tuổi, và chó. Chiefy xử lý hết. Tôi về đến nhà thì mọi thứ đã được soạn sẵn chờ gửi.",
+      "quote": "Trước đây tôi dành mỗi tối trả lời cùng câu hỏi về mặc gì, giới hạn tuổi, và chó. Duet xử lý hết. Tôi về đến nhà thì mọi thứ đã được soạn sẵn chờ gửi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Nhà tổ chức tour cực quang & xe trượt, AK",
-      "quote": "Hủy tour vì thời tiết là chuyện thường mùa đông. Chiefy soạn trả lời đổi lịch với chính sách và ngày thay thế trước khi tôi kịp xem điện thoại. Khách rất thích phản hồi nhanh.",
+      "quote": "Hủy tour vì thời tiết là chuyện thường mùa đông. Duet soạn trả lời đổi lịch với chính sách và ngày thay thế trước khi tôi kịp xem điện thoại. Khách rất thích phản hồi nhanh.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Phiêu lưu xe trượt chó gia đình, CO",
-      "quote": "Phụ huynh luôn hỏi trẻ có thể điều khiển không, chó có thân thiện không, mặc gì — 10 câu hỏi lặp đi lặp lại. Chiefy học hết và soạn trả lời hoàn hảo. Giống như nhân bản tôi cho email.",
+      "quote": "Phụ huynh luôn hỏi trẻ có thể điều khiển không, chó có thân thiện không, mặc gì — 10 câu hỏi lặp đi lặp lại. Duet học hết và soạn trả lời hoàn hảo. Giống như nhân bản tôi cho email.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Chiefy xử lý hủy tour do thời tiết và không chắc chắn về cực quang thế nào?",
-      "answer": "Chiefy học chính sách hủy và đổi lịch của bạn. Khi khách hỏi về thời tiết hoặc khả năng nhìn thấy cực quang, nó soạn trả lời với chính sách, ngày thay thế và các chi tiết liên quan — như theo dõi điều kiện và xác nhận gần ngày tour. Bạn xem lại và gửi."
+      "question": "Duet xử lý hủy tour do thời tiết và không chắc chắn về cực quang thế nào?",
+      "answer": "Duet học chính sách hủy và đổi lịch của bạn. Khi khách hỏi về thời tiết hoặc khả năng nhìn thấy cực quang, nó soạn trả lời với chính sách, ngày thay thế và các chi tiết liên quan — như theo dõi điều kiện và xác nhận gần ngày tour. Bạn xem lại và gửi."
     },
     {
-      "question": "Tôi có nhiều loại tour với giá và dịch vụ bổ sung khác nhau. Chiefy có thể phân biệt được không?",
-      "answer": "Có. Chiefy học từng loại tour của bạn — thăm chuồng, trải nghiệm xe trượt, combo cực quang, dịch vụ chụp ảnh, gói vận chuyển — cùng giá, thời lượng và những gì bao gồm. Khi có yêu cầu, nó chọn đúng tour và soạn trả lời với chi tiết chính xác."
+      "question": "Tôi có nhiều loại tour với giá và dịch vụ bổ sung khác nhau. Duet có thể phân biệt được không?",
+      "answer": "Có. Duet học từng loại tour của bạn — thăm chuồng, trải nghiệm xe trượt, combo cực quang, dịch vụ chụp ảnh, gói vận chuyển — cùng giá, thời lượng và những gì bao gồm. Khi có yêu cầu, nó chọn đúng tour và soạn trả lời với chi tiết chính xác."
     }
   ],
   "pricingNote": "Với giá 150$/tour, hai đặt chỗ được giữ lại đủ trả hơn một năm dùng Pro."

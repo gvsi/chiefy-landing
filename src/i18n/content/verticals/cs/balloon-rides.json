@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Chiefy pro lety horkovzdušným balónem | AI e-mailový asistent",
-  "metaDescription": "Chiefy pomáhá pilotům balónů okamžitě reagovat na rezervační e-maily – dokonce i během letů při východu slunce. Odpovědi navržené AI s vašimi cenami, zásadami počasí a hlasem.",
+  "pageTitle": "Duet Mail pro lety horkovzdušným balónem | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá pilotům balónů okamžitě reagovat na rezervační e-maily – dokonce i během letů při východu slunce. Odpovědi navržené AI s vašimi cenami, zásadami počasí a hlasem.",
   "heroBadge": "Důvěřuje více než 200 pilotům balónů",
   "heroHeadline": "Váš e-mailový asistent, když jste ve vzduchu",
-  "heroSubline": "Chiefy se naučí vaše letové řády, ceny a pravidla počasí – poté vám navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci, když startujete při východu slunce.",
+  "heroSubline": "Duet se naučí vaše letové řády, ceny a pravidla počasí – poté vám navrhne e-mailové odpovědi, takže nikdy neztratíte rezervaci, když startujete při východu slunce.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "let",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Jeden ušetřený let platí za rok Chiefy."
+    "punchline": "Jeden ušetřený let platí za rok Duet."
   },
-  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže jako první vidíte požadavky na rezervaci, jako druhé otázky ohledně počasí a žádný hluk. Už žádné zmeškání letového dotazu skrytého pod upozorněními v newsletteru.",
-  "draftSubtitle": "Chiefy se naučí vaše ceny, zásady počasí a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o letu, informacemi o schůzce a oblečením. Zkontrolujete a odešlete.",
-  "agentSubtitle": "\"Kdo je na zítřejším manifestu?\" \"Nějaká zrušení počasí kvůli přeplánování?\" Chiefy zná vaši doručenou poštu a kalendář – stačí se zeptat.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první vidíte požadavky na rezervaci, jako druhé otázky ohledně počasí a žádný hluk. Už žádné zmeškání letového dotazu skrytého pod upozorněními v newsletteru.",
+  "draftSubtitle": "Duet se naučí vaše ceny, zásady počasí a tón. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď s podrobnostmi o letu, informacemi o schůzce a oblečením. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Kdo je na zítřejším manifestu?\" \"Nějaká zrušení počasí kvůli přeplánování?\" Duet zná vaši doručenou poštu a kalendář – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Mike L.",
       "title": "Pilot balónu, MN",
-      "quote": "Jsem operace jednoho muže – létám, dělám posádku, odpovídám na e-maily. Kromě 5 AM nafukuji, neodpovídám. Chiefy navrhuje odpovědi na každé „poletíme zítra?“ zpráva přes noc. Probudím se, zkontroluji počasí a stisknu odeslat.",
+      "quote": "Jsem operace jednoho muže – létám, dělám posádku, odpovídám na e-maily. Kromě 5 AM nafukuji, neodpovídám. Duet navrhuje odpovědi na každé „poletíme zítra?“ zpráva přes noc. Probudím se, zkontroluji počasí a stisknu odeslat.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "Celoroční balónové výlety, UT",
-      "quote": "Každý den dostáváme stejných 10 otázek. Co si vzít na sebe, kde se sejít, co když fouká. Chiefy se to všechno naučil a nyní navrhuje perfektní odpovědi. Z hodiny e-mailů každý večer jsme přešli na pět minut.",
+      "quote": "Každý den dostáváme stejných 10 otázek. Co si vzít na sebe, kde se sejít, co když fouká. Duet se to všechno naučil a nyní navrhuje perfektní odpovědi. Z hodiny e-mailů každý večer jsme přešli na pět minut.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Hlavní sezóna znamená 4-6 letů týdně a každý cestující pošle e-mail alespoň dvakrát před letem. Chiefy zpracovává předletové otázky, takže se mohu soustředit na to, abych lidem poskytl to nejlepší ráno v jejich životě.",
+      "quote": "Hlavní sezóna znamená 4-6 letů týdně a každý cestující pošle e-mail alespoň dvakrát před letem. Duet zpracovává předletové otázky, takže se mohu soustředit na to, abych lidem poskytl to nejlepší ráno v jejich životě.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Spolumajitel společnosti Balloon Company, NM",
-      "quote": "Zrušení počasí mi zničilo celý den – 8 cestujících, kteří všichni potřebovali osobní e-maily o změně termínu. Nyní Chiefy navrhne každého s našimi zásadami změny rezervace. Šetří mi hodiny ráno při zrušení.",
+      "quote": "Zrušení počasí mi zničilo celý den – 8 cestujících, kteří všichni potřebovali osobní e-maily o změně termínu. Nyní Duet navrhne každého s našimi zásadami změny rezervace. Šetří mi hodiny ráno při zrušení.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Balon Ride Operations, CO",
-      "quote": "Návrhové lety vyžadují tolik koordinace tam a zpět. Chiefy pochopil, jak s nimi zacházíme – načasování, kódová slova, nastavení šampaňského. Vykresluje odpovědi, kterých se sotva musím dotknout.",
+      "quote": "Návrhové lety vyžadují tolik koordinace tam a zpět. Duet pochopil, jak s nimi zacházíme – načasování, kódová slova, nastavení šampaňského. Vykresluje odpovědi, kterých se sotva musím dotknout.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Jak Chiefy zpracovává e-maily o zrušení počasí?",
-      "answer": "Chiefy se naučí vaše zásady zrušení a změny rezervace. Když zrušíte let kvůli počasí, může navrhnout personalizované e-maily s přeplánováním pro každého dotčeného cestujícího – s vašimi zásadami, dostupnými daty a vaším tónem. Zkontrolujete a odešlete. To, co dříve trvalo hodinu jednotlivých odpovědí, trvá minuty."
+      "question": "Jak Duet zpracovává e-maily o zrušení počasí?",
+      "answer": "Duet se naučí vaše zásady zrušení a změny rezervace. Když zrušíte let kvůli počasí, může navrhnout personalizované e-maily s přeplánováním pro každého dotčeného cestujícího – s vašimi zásadami, dostupnými daty a vaším tónem. Zkontrolujete a odešlete. To, co dříve trvalo hodinu jednotlivých odpovědí, trvá minuty."
     },
     {
-      "question": "Dokáže Chiefy zvládnout otázku 'budeme zítra létat?' e-maily, které zaplavují každý večer?",
-      "answer": "Ano – toto je jeden z nejčastějších e-mailů, o kterých nám provozovatelé balónů sdělují. Chiefy se naučí vaše zásady počasí a navrhne uklidňující odpovědi, které vysvětlí váš rozhodovací proces, kdy uskutečníte poslední hovor a co můžete očekávat. Jakmile ráno potvrdíte go/no-go, bude moci navrhnout aktualizace všem v manifestu."
+      "question": "Dokáže Duet zvládnout otázku 'budeme zítra létat?' e-maily, které zaplavují každý večer?",
+      "answer": "Ano – toto je jeden z nejčastějších e-mailů, o kterých nám provozovatelé balónů sdělují. Duet se naučí vaše zásady počasí a navrhne uklidňující odpovědi, které vysvětlí váš rozhodovací proces, kdy uskutečníte poslední hovor a co můžete očekávat. Jakmile ráno potvrdíte go/no-go, bude moci navrhnout aktualizace všem v manifestu."
     }
   ],
   "pricingNote": "U $250/person se 4 cestujícími na let platí jedna ušetřená rezervace za více než rok Pro."

@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy sukellusliikkeille | AI-sähköpostiavustaja",
-  "metaDescription": "Chiefy auttaa sukelluskauppojen omistajia ja PADI-ohjaajia vastaamaan sertifiointikyselyihin, matkavarauksiin ja varustekysymyksiin välittömästi – jopa veden alla.",
+  "pageTitle": "Duet Mail sukellusliikkeille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa sukelluskauppojen omistajia ja PADI-ohjaajia vastaamaan sertifiointikyselyihin, matkavarauksiin ja varustekysymyksiin välittömästi – jopa veden alla.",
   "heroBadge": "Yli 300 sukellusoperaattorin luottama",
   "heroHeadline": "Sähköpostiavustajasi veden alla",
-  "heroSubline": "Chiefy oppii sukelluspaikkasi, sertifiointivaatimukset, hinnoittelusi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta ollessasi veneessä.",
+  "heroSubline": "Duet oppii sukelluspaikkasi, sertifiointivaatimukset, hinnoittelusi ja äänesi – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta ollessasi veneessä.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Yksi tallennettu ryhmäsukellus maksaa Chiefy in vuoden."
+    "punchline": "Yksi tallennettu ryhmäsukellus maksaa Duet in vuoden."
   },
-  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin sertifiointikyselyt ja sukellusvaraukset, sitten varustekysymykset ja PADI-ilmoitukset, kun olet valmis. Ei enää kaipaa ryhmävarausta, joka on haudattu laiteuutiskirjeiden alle.",
-  "draftSubtitle": "Chiefy oppii sukelluspaikat, sertifikaattivaatimukset ja hinnoittelun. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on matkan tiedot, mitä sisältyy hintaan ja mitä ottaa mukaan. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Kuinka monta sukeltajaa on varattu lauantaille?\" \"Luonnos vastaus Rachelille avoimen veden saatavuudella.\" Chiefy tietää postilaatikkosi ja aikataulusi – kysy vain.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin sertifiointikyselyt ja sukellusvaraukset, sitten varustekysymykset ja PADI-ilmoitukset, kun olet valmis. Ei enää kaipaa ryhmävarausta, joka on haudattu laiteuutiskirjeiden alle.",
+  "draftSubtitle": "Duet oppii sukelluspaikat, sertifikaattivaatimukset ja hinnoittelun. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on matkan tiedot, mitä sisältyy hintaan ja mitä ottaa mukaan. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Kuinka monta sukeltajaa on varattu lauantaille?\" \"Luonnos vastaus Rachelille avoimen veden saatavuudella.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "kapteeni Mike T.",
       "title": "sukellusveneen kapteeni, FL",
-      "quote": "Teen veneretkiä perjantaista sunnuntaihin ja kauppa on avoinna vain muutaman tunnin maanantaina. Sertifiointikysymykset ja matkakyselyt kasaantuvat, kun olen veden alla. Chiefy-luonnokset vastaukset hintoihini, sukelluspaikkoihini ja sisältööni – tarkistan ne sukellusten välillä.",
+      "quote": "Teen veneretkiä perjantaista sunnuntaihin ja kauppa on avoinna vain muutaman tunnin maanantaina. Sertifiointikysymykset ja matkakyselyt kasaantuvat, kun olen veden alla. Duet-luonnokset vastaukset hintoihini, sukelluspaikkoihini ja sisältööni – tarkistan ne sukellusten välillä.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI -sukelluskeskus, HI",
-      "quote": "Järjestämme sukelluksia, snorkkeliretkiä ja valaskatseluita samoilla veneillä. Sähköpostien valikoima on mieletön – sertifikaattikysymykset, ryhmävaraukset, varustevuokrat, säätarkistukset. Chiefy lajittelee kaiken ja laatii vastaukset, jotka tietävät eron. Ehdoton hengenpelastaja.",
+      "quote": "Järjestämme sukelluksia, snorkkeliretkiä ja valaskatseluita samoilla veneillä. Sähköpostien valikoima on mieletön – sertifikaattikysymykset, ryhmävaraukset, varustevuokrat, säätarkistukset. Duet lajittelee kaiken ja laatii vastaukset, jotka tietävät eron. Ehdoton hengenpelastaja.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "Puolet sähköposteistani ovat \"mitä sertifikaattia tarvitsen hylkysukelluksiin?\" ja toinen puoli on \"Tarvitsenko omat varusteeni?\" Chiefy ti käsittelee molemmat autopilotissa. Vastausaikani oli tunneista minuutteihin.",
+      "quote": "Puolet sähköposteistani ovat \"mitä sertifikaattia tarvitsen hylkysukelluksiin?\" ja toinen puoli on \"Tarvitsenko omat varusteeni?\" Duet ti käsittelee molemmat autopilotissa. Vastausaikani oli tunneista minuutteihin.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "sukellusliikkeen omistaja, CA",
-      "quote": "Kesällä saamme yli 30 sähköpostiviestiä päivässä kursseista, matkan saatavuudesta ja varusteista. Hävisin varaukset kaupoista, jotka vastasivat nopeammin. Nyt Chiefy luonnostelee kaiken ja minä vain painan lähetä tuntien välillä.",
+      "quote": "Kesällä saamme yli 30 sähköpostiviestiä päivässä kursseista, matkan saatavuudesta ja varusteista. Hävisin varaukset kaupoista, jotka vastasivat nopeammin. Nyt Duet luonnostelee kaiken ja minä vain painan lähetä tuntien välillä.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "sukelluskouluttaja ja -opas, NC",
-      "quote": "Opetan kursseja aamulla ja opastan sukelluksia iltapäivällä. Ei kirjaimellisesti ole aikaa vastata sähköpostiin. Chiefy sai tietää kurssiaikatauluni, hinnoitteluni ja jopa peruutusehtoni. Asiakkaat eivät osaa erottaa.",
+      "quote": "Opetan kursseja aamulla ja opastan sukelluksia iltapäivällä. Ei kirjaimellisesti ole aikaa vastata sähköpostiin. Duet sai tietää kurssiaikatauluni, hinnoitteluni ja jopa peruutusehtoni. Asiakkaat eivät osaa erottaa.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Ymmärtääkö Chiefy sertifiointitasot ja kurssivaatimukset?",
-      "answer": "Kyllä. Chiefy oppii sinun tietyt kurssisi – Open Water, Advanced, Rescue, Divemaster – sekä esitiedot, keston, hinnoittelun ja mitä sisältyy hintaan. Kun joku kysyy sertifioinnin hankkimisesta, Chiefy laatii vastauksen, jossa on oikeat kurssitiedot, aikataulu ja seuraavat vaiheet. Tarkistat ja lähetät."
+      "question": "Ymmärtääkö Duet sertifiointitasot ja kurssivaatimukset?",
+      "answer": "Kyllä. Duet oppii sinun tietyt kurssisi – Open Water, Advanced, Rescue, Divemaster – sekä esitiedot, keston, hinnoittelun ja mitä sisältyy hintaan. Kun joku kysyy sertifioinnin hankkimisesta, Duet laatii vastauksen, jossa on oikeat kurssitiedot, aikataulu ja seuraavat vaiheet. Tarkistat ja lähetät."
     },
     {
-      "question": "Olen veneessä tai veden alla koko päivän. Voinko käyttää Chiefy ia puhelimellani?",
-      "answer": "Kyllä. Chiefy toimii Gmailin ja Outlookin kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset näkyvät automaattisesti postilaatikossasi. Sukellusten välillä tai takaisin laiturille tarkistat ja lähetät yhdellä napautuksella. Useimmat sukellusoperaattorit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+      "question": "Olen veneessä tai veden alla koko päivän. Voinko käyttää Duet ia puhelimellani?",
+      "answer": "Kyllä. Duet toimii Gmailin ja Outlookin kanssa, joten se toimii kaikkialla, missä sähköpostisi toimii – myös puhelimessasi. Luonnokset näkyvät automaattisesti postilaatikossasi. Sukellusten välillä tai takaisin laiturille tarkistat ja lähetät yhdellä napautuksella. Useimmat sukellusoperaattorit kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
     }
   ],
   "pricingNote": "Hinta 150 dollaria/sukellus 6 hengen ryhmällä yksi säästetty matka maksaa yli vuoden Pro:n."

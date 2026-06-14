@@ -2,7 +2,7 @@
 title: "সর্বোচ্চ উৎপাদনশীলতার জন্য সেরা Gmail AI extension features-এর গাইড"
 description: "Smart drafting, summarization ও triage-এর মতো Gmail AI extension features কীভাবে email overload নিয়ন্ত্রণ ও productivity বাড়ায় তা জানুন।"
 publishedAt: 2025-04-15
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "উৎপাদনশীলতা", "টুল"]
 draft: false
 ---
@@ -15,7 +15,7 @@ Gmail AI extension বেছে নেওয়ার সময় শুধু "AI �
 
 দ্রুত খসড়া তৈরি করা ভালো, কিন্তু generic AI reply সম্পর্কের ক্ষতি করতে পারে। সেরা Gmail AI extension আপনার tone, vocabulary ও phrasing শেখে যাতে উত্তর আপনার মতো শোনায়।
 
-[Chiefy](https://chiefy.com/bn) Authentic AI Drafting দিয়ে অতীতের sent emails থেকে আপনার writing style বোঝার চেষ্টা করে। এতে speed ও personal touch একসঙ্গে থাকে।
+[Duet Mail](https://duetmail.com/bn) Authentic AI Drafting দিয়ে অতীতের sent emails থেকে আপনার writing style বোঝার চেষ্টা করে। এতে speed ও personal touch একসঙ্গে থাকে।
 
 ## 2. Smart summarization
 
@@ -57,4 +57,4 @@ AI extension আপনার email content পড়তে পারে, তাই 
 
 ## শেষ কথা
 
-সেরা Gmail AI extension হলো যে আপনার inbox-কে আরও জটিল করে না। এটি গুরুত্বপূর্ণ বার্তা দেখায়, দীর্ঘ কথোপকথন বোঝায় এবং আপনার কণ্ঠে দ্রুত উত্তর লিখতে সাহায্য করে। আপনি যদি email overwhelm কমাতে চান, [Chiefy](https://chiefy.com/bn) এর মতো AI assistant পরীক্ষা করা একটি বাস্তব পরের ধাপ হতে পারে।
+সেরা Gmail AI extension হলো যে আপনার inbox-কে আরও জটিল করে না। এটি গুরুত্বপূর্ণ বার্তা দেখায়, দীর্ঘ কথোপকথন বোঝায় এবং আপনার কণ্ঠে দ্রুত উত্তর লিখতে সাহায্য করে। আপনি যদি email overwhelm কমাতে চান, [Duet Mail](https://duetmail.com/bn) এর মতো AI assistant পরীক্ষা করা একটি বাস্তব পরের ধাপ হতে পারে।

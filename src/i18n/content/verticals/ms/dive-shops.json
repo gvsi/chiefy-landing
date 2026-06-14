@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy untuk Kedai Menyelam | Pembantu E-mel AI",
-  "metaDescription": "Chiefy membantu pemilik kedai menyelam dan pengajar PADI membalas pertanyaan pensijilan, tempahan trip, dan soalan peralatan dengan serta-merta — walaupun dari bawah air.",
+  "pageTitle": "Duet Mail untuk Kedai Menyelam | Pembantu E-mel AI",
+  "metaDescription": "Duet Mail membantu pemilik kedai menyelam dan pengajar PADI membalas pertanyaan pensijilan, tempahan trip, dan soalan peralatan dengan serta-merta — walaupun dari bawah air.",
   "heroBadge": "Dipercayai oleh 300+ operator menyelam",
   "heroHeadline": "Pembantu e-mel anda semasa anda di bawah air",
-  "heroSubline": "Chiefy mempelajari lokasi selaman anda, keperluan pensijilan, harga, dan gaya suara anda — kemudian menyusun draf balasan e-mel supaya anda tidak terlepas tempahan walaupun anda sedang di atas bot.",
+  "heroSubline": "Duet mempelajari lokasi selaman anda, keperluan pensijilan, harga, dan gaya suara anda — kemudian menyusun draf balasan e-mel supaya anda tidak terlepas tempahan walaupun anda sedang di atas bot.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "selaman",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Satu selaman kumpulan yang berjaya dijimatkan sudah membayar kos Chiefy untuk setahun."
+    "punchline": "Satu selaman kumpulan yang berjaya dijimatkan sudah membayar kos Duet untuk setahun."
   },
-  "categorizationSubtitle": "Chiefy secara automatik menandakan setiap e-mel supaya anda melihat pertanyaan pensijilan dan tempahan selaman terlebih dahulu, soalan peralatan kedua, dan makluman PADI apabila anda sudah bersedia. Tiada lagi tempahan kumpulan yang terlepas kerana tersorok di bawah surat berita peralatan.",
-  "draftSubtitle": "Chiefy mempelajari lokasi selaman anda, keperluan pensijilan, dan harga. Apabila pertanyaan tempahan masuk, Chiefy menyusun draf balasan lengkap dengan butiran trip, apa yang disertakan, dan apa yang perlu dibawa. Anda semak dan hantar.",
-  "agentSubtitle": "\"Berapa ramai penyelam yang ditempah untuk hari Sabtu?\" \"Sediakan draf balasan kepada Rachel dengan kekosongan Open Water.\" Chiefy tahu peti masuk dan jadual anda — tanya saja.",
+  "categorizationSubtitle": "Duet secara automatik menandakan setiap e-mel supaya anda melihat pertanyaan pensijilan dan tempahan selaman terlebih dahulu, soalan peralatan kedua, dan makluman PADI apabila anda sudah bersedia. Tiada lagi tempahan kumpulan yang terlepas kerana tersorok di bawah surat berita peralatan.",
+  "draftSubtitle": "Duet mempelajari lokasi selaman anda, keperluan pensijilan, dan harga. Apabila pertanyaan tempahan masuk, Duet menyusun draf balasan lengkap dengan butiran trip, apa yang disertakan, dan apa yang perlu dibawa. Anda semak dan hantar.",
+  "agentSubtitle": "\"Berapa ramai penyelam yang ditempah untuk hari Sabtu?\" \"Sediakan draf balasan kepada Rachel dengan kekosongan Open Water.\" Duet tahu peti masuk dan jadual anda — tanya saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Mike T.",
       "title": "Kapten Bot Selam, FL",
-      "quote": "Saya menjalankan trip bot dari Jumaat hingga Ahad dan kedai hanya dibuka beberapa jam pada hari Isnin. Soalan pensijilan dan pertanyaan trip bertimbun sementara saya berada di bawah air. Chiefy menyediakan draf balasan dengan harga saya, lokasi selam, dan apa yang termasuk — saya semak antara selaman.",
+      "quote": "Saya menjalankan trip bot dari Jumaat hingga Ahad dan kedai hanya dibuka beberapa jam pada hari Isnin. Soalan pensijilan dan pertanyaan trip bertimbun sementara saya berada di bawah air. Duet menyediakan draf balasan dengan harga saya, lokasi selam, dan apa yang termasuk — saya semak antara selaman.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Pusat Selam PADI, HI",
-      "quote": "Kami menjalankan selaman, lawatan snorkeling, dan pemerhatian paus menggunakan bot yang sama. Variasi emel memang banyak — soalan pensijilan, tempahan berkumpulan, sewaan peralatan, semakan cuaca. Chiefy menyusun semuanya dan menyediakan draf balasan yang memahami perbezaannya. Sangat membantu.",
+      "quote": "Kami menjalankan selaman, lawatan snorkeling, dan pemerhatian paus menggunakan bot yang sama. Variasi emel memang banyak — soalan pensijilan, tempahan berkumpulan, sewaan peralatan, semakan cuaca. Duet menyusun semuanya dan menyediakan draf balasan yang memahami perbezaannya. Sangat membantu.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Penyewaan Selam Bangkai Kapal, FL",
-      "quote": "Separuh daripada emel saya ialah 'apa pensijilan yang saya perlukan untuk selaman bangkai kapal?' dan separuh lagi ialah 'adakah saya perlukan peralatan sendiri?' Chiefy mengurus kedua-duanya secara automatik. Masa respons saya turun daripada berjam-jam kepada minit.",
+      "quote": "Separuh daripada emel saya ialah 'apa pensijilan yang saya perlukan untuk selaman bangkai kapal?' dan separuh lagi ialah 'adakah saya perlukan peralatan sendiri?' Duet mengurus kedua-duanya secara automatik. Masa respons saya turun daripada berjam-jam kepada minit.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Pemilik Kedai Selam, CA",
-      "quote": "Semasa musim panas kami menerima 30+ emel sehari tentang kursus, ketersediaan trip, dan peralatan. Saya kehilangan tempahan kepada kedai yang membalas lebih cepat. Kini Chiefy menyediakan draf semua perkara dan saya hanya tekan hantar antara kelas.",
+      "quote": "Semasa musim panas kami menerima 30+ emel sehari tentang kursus, ketersediaan trip, dan peralatan. Saya kehilangan tempahan kepada kedai yang membalas lebih cepat. Kini Duet menyediakan draf semua perkara dan saya hanya tekan hantar antara kelas.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Pengajar & Pemandu Selam, NC",
-      "quote": "Saya mengajar kursus pada waktu pagi dan memandu selaman pada waktu petang. Memang tiada masa untuk menjawab emel. Chiefy mempelajari jadual kursus saya, harga, malah polisi pembatalan saya. Pelanggan tidak dapat membezakan perbezaannya.",
+      "quote": "Saya mengajar kursus pada waktu pagi dan memandu selaman pada waktu petang. Memang tiada masa untuk menjawab emel. Duet mempelajari jadual kursus saya, harga, malah polisi pembatalan saya. Pelanggan tidak dapat membezakan perbezaannya.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "Adakah Chiefy memahami tahap pensijilan dan keperluan kursus?",
-      "answer": "Ya. Chiefy mempelajari kursus khusus anda — Open Water, Advanced, Rescue, Divemaster — bersama prasyarat, tempoh, harga, dan apa yang termasuk. Apabila seseorang bertanya tentang mendapatkan pensijilan, Chiefy menyediakan draf balasan dengan butiran kursus, jadual, dan langkah seterusnya yang tepat. Anda semak dan hantar."
+      "question": "Adakah Duet memahami tahap pensijilan dan keperluan kursus?",
+      "answer": "Ya. Duet mempelajari kursus khusus anda — Open Water, Advanced, Rescue, Divemaster — bersama prasyarat, tempoh, harga, dan apa yang termasuk. Apabila seseorang bertanya tentang mendapatkan pensijilan, Duet menyediakan draf balasan dengan butiran kursus, jadual, dan langkah seterusnya yang tepat. Anda semak dan hantar."
     },
     {
-      "question": "Saya berada di bot atau di bawah air sepanjang hari. Bolehkah saya menggunakan Chiefy dari telefon saya?",
-      "answer": "Ya. Chiefy berfungsi dengan Gmail dan Outlook, jadi ia berfungsi di mana sahaja emel anda berfungsi — termasuk telefon anda. Draf muncul secara automatik dalam peti masuk anda. Di antara selaman atau kembali ke jeti, anda semak dan hantar dengan satu ketikan. Kebanyakan pengendali selam memberitahu kami ia menjimatkan mereka 1-2 jam masa emel setiap hari semasa musim puncak."
+      "question": "Saya berada di bot atau di bawah air sepanjang hari. Bolehkah saya menggunakan Duet dari telefon saya?",
+      "answer": "Ya. Duet berfungsi dengan Gmail dan Outlook, jadi ia berfungsi di mana sahaja emel anda berfungsi — termasuk telefon anda. Draf muncul secara automatik dalam peti masuk anda. Di antara selaman atau kembali ke jeti, anda semak dan hantar dengan satu ketikan. Kebanyakan pengendali selam memberitahu kami ia menjimatkan mereka 1-2 jam masa emel setiap hari semasa musim puncak."
     }
   ],
   "pricingNote": "Pada $150/selam dengan kumpulan 6 orang, satu trip yang dijimatkan membayar lebih daripada setahun Pro."

@@ -2,7 +2,7 @@
 title: "Inbox Zero Hero : comment la gestion des e-mails par intelligence artificielle vous fait gagner des heures"
 description: "Fini de vous noyer sous les e-mails ! Découvrez comment les outils de gestion des e-mails par intelligence artificielle automatisent le tri, hiérarchisent les tâches et rédigent des réponses pour vous faire gagner des heures."
 publishedAt: 2025-09-29
-author: "Équipe Chiefy"
+author: "Équipe Duet Mail"
 tags: ["IA", "Gestion de la boîte de réception", "Email"]
 draft: false
 ---
@@ -59,7 +59,7 @@ Ils évaluent différents facteurs, notamment :
 
 - **Analyse du ton :** certains outils évaluent la tonalité émotionnelle pour identifier d’éventuels sujets critiques.
 
-C’est là que les fonctionnalités de tri IA, comme celles d’outils tels que [Chiefy](https://chiefy.com/fr), entrent en jeu, en faisant automatiquement remonter dans un tableau de bord dédié les e-mails nécessitant une action ou une décision. En identifiant et en mettant en avant les messages prioritaires, ces systèmes réduisent considérablement le temps de tri et minimisent le risque de passer à côté d’informations critiques.
+C’est là que les fonctionnalités de tri IA, comme celles d’outils tels que [Duet Mail](https://duetmail.com/fr), entrent en jeu, en faisant automatiquement remonter dans un tableau de bord dédié les e-mails nécessitant une action ou une décision. En identifiant et en mettant en avant les messages prioritaires, ces systèmes réduisent considérablement le temps de tri et minimisent le risque de passer à côté d’informations critiques.
 
 ### Rédaction assistée par l’IA : la vitesse au service de l’authenticité
 
@@ -67,7 +67,7 @@ Vous fixez une fenêtre de réponse vide ? L’IA peut vous aider. De nombreux a
 
 Cependant, une crainte fréquente est que les e-mails générés par l’IA paraissent génériques ou robotiques. Si une IA basique peut produire un texte standard, des outils plus sophistiqués s’attaquent à ce défi. La clé, c’est la **personnalisation**. Les bons assistants IA vous permettent d’ajuster le ton (formel, décontracté, amical) et la longueur.
 
-Les meilleurs outils vont plus loin et apprennent vos propres schémas de communication. Par exemple, l’Authentic AI Drafting de [Chiefy](https://chiefy.com/fr) analyse vos anciens e-mails pour générer des réponses qui vous ressemblent vraiment, en reprenant votre vocabulaire et vos nuances de style. N’oubliez pas : l’objectif n’est pas de remplacer votre voix, mais de la renforcer. Relisez et adaptez toujours les brouillons générés par l’IA pour ajouter un contexte précis ou une touche personnelle avant d’envoyer.
+Les meilleurs outils vont plus loin et apprennent vos propres schémas de communication. Par exemple, l’Authentic AI Drafting de [Duet Mail](https://duetmail.com/fr) analyse vos anciens e-mails pour générer des réponses qui vous ressemblent vraiment, en reprenant votre vocabulaire et vos nuances de style. N’oubliez pas : l’objectif n’est pas de remplacer votre voix, mais de la renforcer. Relisez et adaptez toujours les brouillons générés par l’IA pour ajouter un contexte précis ou une touche personnelle avant d’envoyer.
 
 ### Dompter les longs fils de discussion avec la synthèse par l’IA
 
@@ -79,7 +79,7 @@ Il existe deux grandes approches :
 
 - **Résumé abstrait :** comprend le contexte et génère de *nouvelles* phrases pour transmettre l’idée essentielle, ce qui aboutit souvent à des résumés plus fluides.
 
-Quelle que soit la méthode, l’avantage est clair : vous saisissez l’essentiel de la conversation en quelques secondes, et non en minutes. Une [étude Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) indique que le résumé par IA peut augmenter la productivité des utilisateurs jusqu’à 32 %. Le résumé par IA, comme la fonctionnalité de résumé intelligent dans [Chiefy](https://chiefy.com/fr), extrait rapidement les points clés et les actions à mener, tout en mémorisant le contexte des interactions précédentes, vous faisant gagner un temps de lecture précieux.
+Quelle que soit la méthode, l’avantage est clair : vous saisissez l’essentiel de la conversation en quelques secondes, et non en minutes. Une [étude Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) indique que le résumé par IA peut augmenter la productivité des utilisateurs jusqu’à 32 %. Le résumé par IA, comme la fonctionnalité de résumé intelligent dans [Duet Mail](https://duetmail.com/fr), extrait rapidement les points clés et les actions à mener, tout en mémorisant le contexte des interactions précédentes, vous faisant gagner un temps de lecture précieux.
 
 
 Le résumé par IA condense de longs fils de mails en points clés, vous faisant gagner beaucoup de temps de lecture.

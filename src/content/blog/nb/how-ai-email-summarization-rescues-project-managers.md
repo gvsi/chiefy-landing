@@ -2,7 +2,7 @@
 title: "Slik hjelper AI-oppsummering av e-post prosjektledere"
 description: "Drukner du i e-post? Se hvordan AI-oppsummering hjelper prosjektledere med å spare tid, spore beslutninger og redusere innbokskaos."
 publishedAt: 2025-09-21
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "E-postoppsummering", "Innbokshandtering"]
 draft: false
 ---
@@ -64,7 +64,7 @@ AI-oppsummering hjelper prosjektledere med å spare tid, spore viktig informasjo
 
 De beste AI-verktoyene stopper ikke ved et kort sammendrag. De forstår kontekst: hvilket prosjekt tråden gjelder, hvem interessentene er, og hvilke temaer som vanligvis haster.
 
-[**Chiefy**](https://chiefy.com/nb) er laget for denne typen arbeidsflyt. Smart Summarization trekker ut det viktigste fra tråder, mens Contextual Awareness hjelper systemet med å forstå prosjekter, relasjoner og tidligere samtaler. Når en oppsummering viser en hasteforesporsel eller en beslutning som krever svar, kan AI Triage lofte den frem i stedet for at den forsvinner i kronologisk rekkefolge.
+[**Duet Mail**](https://duetmail.com/nb) er laget for denne typen arbeidsflyt. Smart Summarization trekker ut det viktigste fra tråder, mens Contextual Awareness hjelper systemet med å forstå prosjekter, relasjoner og tidligere samtaler. Når en oppsummering viser en hasteforesporsel eller en beslutning som krever svar, kan AI Triage lofte den frem i stedet for at den forsvinner i kronologisk rekkefolge.
 
 ## Vanlige spørsmål
 
@@ -84,4 +84,4 @@ Nei. AI fjerner administrativt arbeid, men prosjektledelse krever fortsatt vurde
 
 Prosjektledere trenger klarhet, ikke bare flere meldinger. AI-oppsummering gjor innboksen om fra et passivt arkiv til en kilde til strukturert informasjon: beslutninger, kontekst og handlinger når du trenger dem.
 
-Hvis du vil redusere innbokskaos og bruke mer tid på faktisk prosjektledelse, kan du se hvordan [**Chiefy**](https://chiefy.com/nb) kombinerer oppsummering, kontekst og AI Triage for travle prosjektledere.
+Hvis du vil redusere innbokskaos og bruke mer tid på faktisk prosjektledelse, kan du se hvordan [**Duet Mail**](https://duetmail.com/nb) kombinerer oppsummering, kontekst og AI Triage for travle prosjektledere.

@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Chiefy Sıcak Hava Balonu Turları için | AI E-posta Asistanı",
-  "metaDescription": "Chiefy balon pilotlarının rezervasyon e-postalarına anında yanıt vermesine yardımcı olur; hatta gün doğumu uçuşları sırasında bile. AI tarafından hazırlanan yanıtlar fiyatlandırmanız, hava durumu politikalarınız ve ses tonunuzu içerir.",
+  "pageTitle": "Duet Mail Sıcak Hava Balonu Turları için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail balon pilotlarının rezervasyon e-postalarına anında yanıt vermesine yardımcı olur; hatta gün doğumu uçuşları sırasında bile. AI tarafından hazırlanan yanıtlar fiyatlandırmanız, hava durumu politikalarınız ve ses tonunuzu içerir.",
   "heroBadge": "200'den fazla balon pilotu tarafından güvenilen bir marka.",
   "heroHeadline": "Uçaktayken e-posta asistanınız.",
-  "heroSubline": "Chiefy uçuş programlarınızı, fiyatlandırmanızı ve hava durumu politikalarınızı öğrenir ve ardından gün doğumuyla birlikte kalkış yaparken hiçbir rezervasyonunuzu kaybetmemeniz için e-posta yanıtları taslağı hazırlar.",
+  "heroSubline": "Duet uçuş programlarınızı, fiyatlandırmanızı ve hava durumu politikalarınızı öğrenir ve ardından gün doğumuyla birlikte kalkış yaparken hiçbir rezervasyonunuzu kaybetmemeniz için e-posta yanıtları taslağı hazırlar.",
   "inboxEmails": [
     {
       "from": "Rachel ve Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "uçuş",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Bir uçuş bileti tasarrufu, bir yıllık Chiefy ücretini karşılar."
+    "punchline": "Bir uçuş bileti tasarrufu, bir yıllık Duet ücretini karşılar."
   },
-  "categorizationSubtitle": "Chiefy, her e-postayı otomatik olarak etiketleyerek önce rezervasyon taleplerini, sonra hava durumu sorularını ve asla gereksiz mesajları görmenizi sağlar. Artık bülten uyarılarının altında kalan uçuş sorgularını kaçırmayacaksınız.",
-  "draftSubtitle": "Chiefy fiyatlandırmanızı, hava durumu politikalarınızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, uçuş detayları, toplantı bilgileri ve ne giyileceği gibi bilgileri içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
-  "agentSubtitle": "\"Yarınki programda kimler var?\" \"Hava koşulları nedeniyle iptal edilen ve yeniden planlanması gereken bir etkinlik var mı?\" Chiefy gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
+  "categorizationSubtitle": "Duet, her e-postayı otomatik olarak etiketleyerek önce rezervasyon taleplerini, sonra hava durumu sorularını ve asla gereksiz mesajları görmenizi sağlar. Artık bülten uyarılarının altında kalan uçuş sorgularını kaçırmayacaksınız.",
+  "draftSubtitle": "Duet fiyatlandırmanızı, hava durumu politikalarınızı ve üslubunuzu öğrenir. Bir rezervasyon talebi geldiğinde, uçuş detayları, toplantı bilgileri ve ne giyileceği gibi bilgileri içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönderirsiniz.",
+  "agentSubtitle": "\"Yarınki programda kimler var?\" \"Hava koşulları nedeniyle iptal edilen ve yeniden planlanması gereken bir etkinlik var mı?\" Duet gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kaptan Mike L.",
       "title": "Balon Pilotu, MN",
-      "quote": "Tek kişilik bir operasyonum var — uçuruyorum, mürettebatı yönetiyorum, e-postaları yanıtlıyorum. Ancak sabah 5'te yanıt vermek yerine şişirme işlemi yapıyorum. Chiefy, \"yarın uçacak mıyız?\" mesajlarına gece boyunca taslak yanıtlar hazırlıyor. Ben uyanıyorum, hava durumunu kontrol ediyorum ve gönder tuşuna basıyorum.",
+      "quote": "Tek kişilik bir operasyonum var — uçuruyorum, mürettebatı yönetiyorum, e-postaları yanıtlıyorum. Ancak sabah 5'te yanıt vermek yerine şişirme işlemi yapıyorum. Duet, \"yarın uçacak mıyız?\" mesajlarına gece boyunca taslak yanıtlar hazırlıyor. Ben uyanıyorum, hava durumunu kontrol ediyorum ve gönder tuşuna basıyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon ve Jake B.",
       "title": "Utah'ta Yıl Boyu Balon Turları",
-      "quote": "Her gün aynı 10 soruyu alıyoruz. Ne giyeceğiz, nerede buluşacağız, rüzgarlı olursa ne olacak? Chiefy bunların hepsini öğrendi ve artık mükemmel cevaplar hazırlıyor. Her gece bir saat süren e-posta yazışmalarından beş dakikaya indik.",
+      "quote": "Her gün aynı 10 soruyu alıyoruz. Ne giyeceğiz, nerede buluşacağız, rüzgarlı olursa ne olacak? Duet bunların hepsini öğrendi ve artık mükemmel cevaplar hazırlıyor. Her gece bir saat süren e-posta yazışmalarından beş dakikaya indik.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Uçuş Operatörü, AZ",
-      "quote": "Yoğun sezon demek haftada 4-6 uçuş demek ve her yolcu uçuş öncesinde en az iki kez e-posta gönderiyor. Chiefy uçuş öncesi soruları yanıtlıyor, böylece ben de insanlara hayatlarının en güzel sabahını yaşatmaya odaklanabiliyorum.",
+      "quote": "Yoğun sezon demek haftada 4-6 uçuş demek ve her yolcu uçuş öncesinde en az iki kez e-posta gönderiyor. Duet uçuş öncesi soruları yanıtlıyor, böylece ben de insanlara hayatlarının en güzel sabahını yaşatmaya odaklanabiliyorum.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Balon Şirketi Ortak Sahibi, NM",
-      "quote": "Hava koşulları nedeniyle iptaller eskiden tüm günümü mahvediyordu; 8 yolcunun her birine ayrı ayrı yeniden planlama e-postaları yazmam gerekiyordu. Şimdi Chiefy her birine yeniden rezervasyon politikamızı da içeren bir taslak hazırlıyor. Bu sayede iptallerin olduğu sabahlar saatlerce zamandan tasarruf ediyorum.",
+      "quote": "Hava koşulları nedeniyle iptaller eskiden tüm günümü mahvediyordu; 8 yolcunun her birine ayrı ayrı yeniden planlama e-postaları yazmam gerekiyordu. Şimdi Duet her birine yeniden rezervasyon politikamızı da içeren bir taslak hazırlıyor. Bu sayede iptallerin olduğu sabahlar saatlerce zamandan tasarruf ediyorum.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Balon Turu İşletmeleri, CO",
-      "quote": "Evlilik teklifi uçuşları çok fazla karşılıklı koordinasyon gerektiriyor. Chiefy bizim bunları nasıl ele aldığımızı – zamanlamayı, şifreleri, şampanya hazırlığını – fark etti. Benim neredeyse hiç dokunmama gerek kalmadan yanıt taslakları hazırlıyor.",
+      "quote": "Evlilik teklifi uçuşları çok fazla karşılıklı koordinasyon gerektiriyor. Duet bizim bunları nasıl ele aldığımızı – zamanlamayı, şifreleri, şampanya hazırlığını – fark etti. Benim neredeyse hiç dokunmama gerek kalmadan yanıt taslakları hazırlıyor.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Chiefy hava durumu nedeniyle iptal edilen e-postaları nasıl ele alıyor?",
-      "answer": "Chiefy iptal ve yeniden rezervasyon politikalarınızı öğrenir. Hava koşulları nedeniyle bir uçuşu iptal ettiğinizde, etkilenen her yolcuya kişiselleştirilmiş yeniden planlama e-postaları taslağı hazırlayabilir; bu e-postalar politikanızı, müsait tarihleri ​​ve üslubunuzu içerir. Siz de gözden geçirip gönderirsiniz. Eskiden bir saat süren bireysel yanıtlar artık dakikalar içinde işleme alınır."
+      "question": "Duet hava durumu nedeniyle iptal edilen e-postaları nasıl ele alıyor?",
+      "answer": "Duet iptal ve yeniden rezervasyon politikalarınızı öğrenir. Hava koşulları nedeniyle bir uçuşu iptal ettiğinizde, etkilenen her yolcuya kişiselleştirilmiş yeniden planlama e-postaları taslağı hazırlayabilir; bu e-postalar politikanızı, müsait tarihleri ​​ve üslubunuzu içerir. Siz de gözden geçirip gönderirsiniz. Eskiden bir saat süren bireysel yanıtlar artık dakikalar içinde işleme alınır."
     },
     {
-      "question": "Chiefy her akşam yağan \"yarın uçacak mıyız?\" e-postalarıyla başa çıkabilir mi?",
-      "answer": "Evet, bu balon operatörlerinin bize en sık anlattığı e-postalardan biri. Chiefy hava durumu politikalarınızı öğreniyor ve karar verme sürecinizi, nihai kararı ne zaman vereceğinizi ve neler bekleyeceğinizi açıklayan güven verici yanıtlar hazırlıyor. Sabah onayınızı verdikten sonra, listedeki herkese güncellemeler gönderebiliyor."
+      "question": "Duet her akşam yağan \"yarın uçacak mıyız?\" e-postalarıyla başa çıkabilir mi?",
+      "answer": "Evet, bu balon operatörlerinin bize en sık anlattığı e-postalardan biri. Duet hava durumu politikalarınızı öğreniyor ve karar verme sürecinizi, nihai kararı ne zaman vereceğinizi ve neler bekleyeceğinizi açıklayan güven verici yanıtlar hazırlıyor. Sabah onayınızı verdikten sonra, listedeki herkese güncellemeler gönderebiliyor."
     }
   ],
   "pricingNote": "Uçuş başına 4 yolcu ile kişi başı $250 fiyatıyla, kaydedilen tek bir rezervasyon Pro'in bir yıldan fazla süren masrafını karşılıyor."

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy | AI Email Assistant para sa Gmail at Outlook",
-    "description": "Ang AI email assistant ni Chiefy ay nagbubuod ng mga email, nag-draft ng mga tugon, at nag-aayos ng iyong inbox. Gumagana sa Gmail at Outlook. Makatipid ng 4+ na oras kada linggo."
+    "title": "Duet Mail | AI Email Assistant para sa Gmail at Outlook",
+    "description": "Ang AI email assistant ni Duet Mail ay nagbubuod ng mga email, nag-draft ng mga tugon, at nag-aayos ng iyong inbox. Gumagana sa Gmail at Outlook. Makatipid ng 4+ na oras kada linggo."
   },
   "hero": {
     "badge": "Available na ngayon sa halagang Gmail at Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Mga draft sa email na parang Ikaw",
-        "description": "Ang Chiefy AI email writer ay naghahanda ng mga draft para sa iyong pinakamahahalagang email. Natututunan nito ang iyong tono at mga istilo ng pagsulat.",
+        "description": "Ang Duet AI email writer ay naghahanda ng mga draft para sa iyong pinakamahahalagang email. Natututunan nito ang iyong tono at mga istilo ng pagsulat.",
         "ariaLabel": "Mga draft sa email na parang ikaw",
         "mockCopy": {
           "draftedColdEmail": "Nag-draft ako ng malamig na email na naka-personalize para kay John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Mga Matalinong Paalala",
-        "description": "Itakda ito at kalimutan ito. Naaalala ni Chiefy AI na mag-follow up kapag ang iba ay hindi tumugon, kaya walang nahuhulog sa mga bitak.",
+        "description": "Itakda ito at kalimutan ito. Naaalala ni Duet AI na mag-follow up kapag ang iba ay hindi tumugon, kaya walang nahuhulog sa mga bitak.",
         "ariaLabel": "Mga matalinong paalala",
         "mockCopy": {
           "header": "AI-Powered Smart Reminders",
@@ -215,7 +215,7 @@
   "draftShowcase": {
     "ariaLabel": "AI pagbalangkas ng email at pagbuo ng tugon",
     "badge": "Pag-draft",
-    "title": "Chiefy draft sa iyong boses",
+    "title": "Duet draft sa iyong boses",
     "subtitle": "Natututo ang duet kung paano ka sumulat at nag-draft ng mga tugon na tumutugma sa iyong tono. Suriin, ayusin kung kinakailangan, at ipadala sa ilang segundo.",
     "windowTitle": "Bagong Mensahe",
     "fieldLabels": {
@@ -252,8 +252,8 @@
     "ariaLabel": "AI email intelligence at assistant",
     "badge": "Katalinuhan",
     "title": "Magtanong ng kahit ano tungkol sa iyong email",
-    "subtitle": "Hilingin sa Chiefy na maghanap ng mga email, tingnan ang iyong kalendaryo, o mag-draft ng tugon. Naiintindihan nito ang iyong inbox at sumasagot kaagad.",
-    "windowTitle": "Chiefy Agent",
+    "subtitle": "Hilingin sa Duet na maghanap ng mga email, tingnan ang iyong kalendaryo, o mag-draft ng tugon. Naiintindihan nito ang iyong inbox at sumasagot kaagad.",
+    "windowTitle": "Duet Agent",
     "onlineLabel": "Online",
     "initialUserMessage": "Mahahanap mo ba ang Stripe invoice na ipinadala ng Accounting?",
     "processingText": "Naghahanap sa inbox...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Freelancer",
-        "quote": "Sulit ang bawat sentimo. Ang oras na nagtitipid ako sa email ay nagbabayad ng Chiefy 10x lampas. Hindi ko maisip na magtrabaho nang wala ito ngayon.",
+        "quote": "Sulit ang bawat sentimo. Ang oras na nagtitipid ako sa email ay nagbabayad ng Duet Mail 10x lampas. Hindi ko maisip na magtrabaho nang wala ito ngayon.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Consultant",
-        "quote": "Bilang consultant, mahalaga ang bawat minuto. Ang Chiefy ay hindi lamang nakakatipid sa akin ng oras—nagagawa nitong mas matalas ang aking komunikasyon sa email.",
+        "quote": "Bilang consultant, mahalaga ang bawat minuto. Ang Duet Mail ay hindi lamang nakakatipid sa akin ng oras—nagagawa nitong mas matalas ang aking komunikasyon sa email.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Pangunahing organisasyon na magsisimula"
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Duet Assistant",
             "description": "Subukan ang AI assistant"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Duet Assistant",
             "description": "Makipag-chat upang maghanap, mag-draft, mag-ayos at higit pa",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "CONTACT",
     "contactHeading": "May mga tanong pa ba?",
     "contactCta": "Makipag-ugnayan →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Paano pinoprotektahan ng Chiefy ang data ng aking email?",
+        "question": "Paano pinoprotektahan ng Duet Mail ang data ng aking email?",
         "answer": "Ang iyong seguridad ang aming pangunahing priyoridad. Gumagamit kami ng OAuth 2.0 para sa secure na pagpapatotoo sa parehong Google at Microsoft. Ang nilalaman ng email ay naka-encrypt nang pahinga gamit ang client-side field-level encryption, at sinusunod namin ang prinsipyo ng hindi bababa sa pribilehiyo para sa API access. Para sa aming Google na pagsasama, sumasailalim kami sa taunang pagtatasa ng seguridad ng CASA ng Google."
       },
       {
         "question": "Paano gumagana ang tampok na buod ng email?",
-        "answer": "Gumagamit ang Chiefy ng advanced na AI upang suriin ang iyong mga email thread at bumuo ng isang maigsi na pangkalahatang-ideya na nagha-highlight sa mga pangunahing punto, desisyon, at item ng pagkilos. Tinutulungan ka nitong mabilis na maunawaan ang konteksto nang hindi binabasa ang buong thread."
+        "answer": "Gumagamit ang Duet Mail ng advanced na AI upang suriin ang iyong mga email thread at bumuo ng isang maigsi na pangkalahatang-ideya na nagha-highlight sa mga pangunahing punto, desisyon, at item ng pagkilos. Tinutulungan ka nitong mabilis na maunawaan ang konteksto nang hindi binabasa ang buong thread."
       },
       {
-        "question": "Anong mga pahintulot ang kailangan ni Chiefy?",
-        "answer": "Ang Chiefy ay nangangailangan ng access sa iyong mga email upang magbigay ng mga buod, kumuha ng mga item ng pagkilos, bumuo ng nilalaman, at ipadala ang iyong mga email. Humihiling lamang kami ng mga pahintulot na talagang kailangan namin. Maaari mong suriin at bawiin ang mga pahintulot na ito anumang oras sa iyong Google Account o Microsoft na mga setting ng Account."
+        "question": "Anong mga pahintulot ang kailangan ni Duet Mail?",
+        "answer": "Ang Duet Mail ay nangangailangan ng access sa iyong mga email upang magbigay ng mga buod, kumuha ng mga item ng pagkilos, bumuo ng nilalaman, at ipadala ang iyong mga email. Humihiling lamang kami ng mga pahintulot na talagang kailangan namin. Maaari mong suriin at bawiin ang mga pahintulot na ito anumang oras sa iyong Google Account o Microsoft na mga setting ng Account."
       },
       {
         "question": "Ano ang kasama sa libreng pagsubok?",
         "answer": "Kasama sa 14 na araw na libreng pagsubok ang ganap na access sa lahat ng Pro na feature: walang limitasyong mga buod ng email, pagkuha ng item ng aksyon, AI na manunulat ng email (bumubuo ng mga email at draft nang walang anumang limitasyon), at mga custom na template ng email. Mag-sign in gamit ang Google o Microsoft upang magsimulang makatipid ng oras sa pamamahala ng email."
       },
       {
-        "question": "Maaari ko bang gamitin ang Chiefy sa ibang mga email provider?",
-        "answer": "Sinusuportahan ng Chiefy ang Gmail, Google Workspace, at Microsoft Outlook. Mag-sign in gamit ang iyong Google o Microsoft account upang makapagsimula."
+        "question": "Maaari ko bang gamitin ang Duet Mail sa ibang mga email provider?",
+        "answer": "Sinusuportahan ng Duet Mail ang Gmail, Google Workspace, at Microsoft Outlook. Mag-sign in gamit ang iyong Google o Microsoft account upang makapagsimula."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "footer ng site",
-    "brandIconAlt": "icon na Chiefy",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "icon na Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Ang AI Email Assistant na nakakatipid sa iyo ng oras bawat linggo",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Galugarin",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "Return on investment",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "Sa {pricePerBooking} bawat {bookingUnit}, nawawalan lang ng {lostPerMonth} sa mabagal na tugon =",
     "lossSuffix": "/mo gone",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - AI Email Assistant para sa Gmail at Outlook",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI Email Assistant para sa Gmail at Outlook",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Suporta sa Customer",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "AI email assistant para sa Gmail at Outlook na awtomatikong nagbubuod ng mga email, nag-draft ng mga tugon sa iyong boses, at nag-aayos ng iyong inbox upang makatipid ng oras bawat linggo.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Web",
     "browserRequirements": "Nangangailangan ng JavaScript. Gumagana sa Gmail, Google Workspace, at Microsoft Outlook.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "https://duetmail.com/fil",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "Paano pinoprotektahan ng Chiefy ang data ng aking email?",
+        "question": "Paano pinoprotektahan ng Duet Mail ang data ng aking email?",
         "answer": "Ang iyong seguridad ang aming pangunahing priyoridad. Gumagamit kami ng OAuth 2.0 para sa secure na pagpapatotoo sa parehong Google at Microsoft. Ang nilalaman ng email ay naka-encrypt nang pahinga gamit ang client-side field-level encryption, at sinusunod namin ang prinsipyo ng hindi bababa sa pribilehiyo para sa API access. Para sa aming Google na pagsasama, sumasailalim kami sa taunang pagtatasa ng seguridad ng CASA ng Google."
       },
       {
         "question": "Paano gumagana ang tampok na buod ng email?",
-        "answer": "Gumagamit ang Chiefy ng advanced na AI upang suriin ang iyong mga email thread at bumuo ng isang maigsi na pangkalahatang-ideya na nagha-highlight sa mga pangunahing punto, desisyon, at item ng pagkilos. Tinutulungan ka nitong mabilis na maunawaan ang konteksto nang hindi binabasa ang buong thread."
+        "answer": "Gumagamit ang Duet Mail ng advanced na AI upang suriin ang iyong mga email thread at bumuo ng isang maigsi na pangkalahatang-ideya na nagha-highlight sa mga pangunahing punto, desisyon, at item ng pagkilos. Tinutulungan ka nitong mabilis na maunawaan ang konteksto nang hindi binabasa ang buong thread."
       },
       {
-        "question": "Anong mga pahintulot ang kailangan ni Chiefy?",
-        "answer": "Ang Chiefy ay nangangailangan ng access sa iyong mga email upang magbigay ng mga buod, kumuha ng mga item ng pagkilos, bumuo ng nilalaman, at ipadala ang iyong mga email. Humihiling lamang kami ng mga pahintulot na talagang kailangan namin. Maaari mong suriin at bawiin ang mga pahintulot na ito anumang oras sa iyong Google Account o Microsoft na mga setting ng Account."
+        "question": "Anong mga pahintulot ang kailangan ni Duet Mail?",
+        "answer": "Ang Duet Mail ay nangangailangan ng access sa iyong mga email upang magbigay ng mga buod, kumuha ng mga item ng pagkilos, bumuo ng nilalaman, at ipadala ang iyong mga email. Humihiling lamang kami ng mga pahintulot na talagang kailangan namin. Maaari mong suriin at bawiin ang mga pahintulot na ito anumang oras sa iyong Google Account o Microsoft na mga setting ng Account."
       },
       {
         "question": "Ano ang kasama sa libreng pagsubok?",
         "answer": "Kasama sa 14 na araw na libreng pagsubok ang ganap na access sa lahat ng Pro na feature: walang limitasyong mga buod ng email, pagkuha ng item ng aksyon, AI na manunulat ng email (bumubuo ng mga email at draft nang walang anumang limitasyon), at mga custom na template ng email. Mag-sign in gamit ang Google o Microsoft upang magsimulang makatipid ng oras sa pamamahala ng email."
       },
       {
-        "question": "Maaari ko bang gamitin ang Chiefy sa ibang mga email provider?",
-        "answer": "Sinusuportahan ng Chiefy ang Gmail, Google Workspace, at Microsoft Outlook. Mag-sign in gamit ang iyong Google o Microsoft account upang makapagsimula."
+        "question": "Maaari ko bang gamitin ang Duet Mail sa ibang mga email provider?",
+        "answer": "Sinusuportahan ng Duet Mail ang Gmail, Google Workspace, at Microsoft Outlook. Mag-sign in gamit ang iyong Google o Microsoft account upang makapagsimula."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

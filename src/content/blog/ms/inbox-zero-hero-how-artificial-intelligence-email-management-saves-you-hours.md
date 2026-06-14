@@ -2,7 +2,7 @@
 title: "Wira Inbox Zero: Bagaimana Pengurusan E-mel Kecerdasan Buatan Menjimatkan Berjam-jam Masa Anda"
 description: "Hentikan diri daripada tenggelam dalam e-mel! Pelajari bagaimana alat pengurusan e-mel kecerdasan buatan mengautomasikan pengisihan, mengutamakan tugas, dan menyediakan draf balasan untuk menjimatkan masa anda."
 publishedAt: 2025-09-29
-author: "Pasukan Chiefy"
+author: "Pasukan Duet Mail"
 tags: ["AI", "Inbox Management", "Email"]
 draft: false
 ---
@@ -59,7 +59,7 @@ Mereka menilai pelbagai faktor, termasuk:
 
 - **Analisis Sentimen:** Sesetengah alat menilai nada emosi untuk mengenal pasti isu yang berkemungkinan kritikal.
 
-Di sinilah ciri AI Triage, seperti dalam alat seperti [Chiefy](https://chiefy.com/ms), memainkan peranan, secara automatik memaparkan e-mel yang memerlukan tindakan atau keputusan dalam papan pemuka yang fokus. Dengan mengenal pasti dan menonjolkan mesej keutamaan tinggi, sistem ini mengurangkan masa pengisihan dengan ketara dan meminimumkan risiko terlepas maklumat kritikal.
+Di sinilah ciri AI Triage, seperti dalam alat seperti [Duet Mail](https://duetmail.com/ms), memainkan peranan, secara automatik memaparkan e-mel yang memerlukan tindakan atau keputusan dalam papan pemuka yang fokus. Dengan mengenal pasti dan menonjolkan mesej keutamaan tinggi, sistem ini mengurangkan masa pengisihan dengan ketara dan meminimumkan risiko terlepas maklumat kritikal.
 
 ### Draf Berkuasa AI: Kelajuan Bertemu Keaslian
 
@@ -67,7 +67,7 @@ Terpaku pada tetingkap balasan yang kosong? AI boleh membantu. Banyak pembantu e
 
 Namun, kebimbangan yang biasa ialah e-mel yang dijana AI mungkin kedengaran umum atau robotik. Walaupun AI asas mungkin menghasilkan teks standard, alat yang lebih canggih sedang menangani cabaran ini. Kuncinya ialah **pemperibadian**. Pembantu AI yang baik membolehkan anda melaraskan nada (formal, santai, mesra) dan panjang.
 
-Alat terbaik melangkah lebih jauh, mempelajari corak komunikasi unik anda. Contohnya, AI Drafting Asli [Chiefy](https://chiefy.com/ms) menganalisis e-mel lama anda untuk menjana balasan yang benar-benar kedengaran seperti anda, menangkap perbendaharaan kata dan nuansa gaya anda. Ingat, matlamatnya bukan untuk menggantikan suara anda tetapi untuk menambah baiknya. Sentiasa semak dan ubah suai draf AI untuk menambah konteks khusus atau sentuhan peribadi sebelum menekan hantar.
+Alat terbaik melangkah lebih jauh, mempelajari corak komunikasi unik anda. Contohnya, AI Drafting Asli [Duet Mail](https://duetmail.com/ms) menganalisis e-mel lama anda untuk menjana balasan yang benar-benar kedengaran seperti anda, menangkap perbendaharaan kata dan nuansa gaya anda. Ingat, matlamatnya bukan untuk menggantikan suara anda tetapi untuk menambah baiknya. Sentiasa semak dan ubah suai draf AI untuk menambah konteks khusus atau sentuhan peribadi sebelum menekan hantar.
 
 ### Menjinakkan Benang Panjang dengan Ringkasan AI
 
@@ -79,7 +79,7 @@ Terdapat dua pendekatan utama:
 
 - **Ringkasan Abstraktif:** Memahami konteks dan menjana ayat *baharu* untuk menyampaikan maksud teras, yang sering menghasilkan ringkasan yang lebih lancar.
 
-Tanpa mengira kaedahnya, manfaatnya jelas: anda memahami inti pati perbualan dalam beberapa saat, bukan minit. Satu [kajian Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) menunjukkan bahawa ringkasan AI boleh meningkatkan produktiviti pengguna sehingga 32%. Ringkasan AI, seperti ciri Smart Summarization dalam [Chiefy](https://chiefy.com/ms), dengan cepat mengekstrak poin utama dan perkara tindakan, malah mengingati konteks daripada interaksi sebelumnya, menjimatkan masa membaca yang amat berharga.
+Tanpa mengira kaedahnya, manfaatnya jelas: anda memahami inti pati perbualan dalam beberapa saat, bukan minit. Satu [kajian Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) menunjukkan bahawa ringkasan AI boleh meningkatkan produktiviti pengguna sehingga 32%. Ringkasan AI, seperti ciri Smart Summarization dalam [Duet Mail](https://duetmail.com/ms), dengan cepat mengekstrak poin utama dan perkara tindakan, malah mengingati konteks daripada interaksi sebelumnya, menjimatkan masa membaca yang amat berharga.
 
 
 Ringkasan AI memadatkan benang e-mel yang panjang kepada poin utama, menjimatkan masa membaca yang ketara.

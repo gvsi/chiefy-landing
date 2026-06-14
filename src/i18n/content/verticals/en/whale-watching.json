@@ -1,10 +1,12 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy for Whale Watching Tours | AI Email Assistant",
-  "metaDescription": "Chiefy helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
+  "pageTitle": "Duet Mail for Whale Watching Tours | AI Email Assistant",
+  "metaDescription": "Duet Mail helps whale watching captains respond to booking emails instantly — even from the water. AI-drafted replies with your tour details, pricing, and voice.",
+
   "heroBadge": "Trusted by 300+ tour captains",
   "heroHeadline": "Your email assistant while you're out spotting whales",
-  "heroSubline": "Chiefy learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+  "heroSubline": "Duet learns your tour schedule, pricing, and voice — then drafts email replies so you never lose a booking while you're on the water.",
+
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -43,17 +45,23 @@
       "pillColor": "lavender"
     }
   ],
+
   "autodraft": "Hey Rachel! June 14 morning tour has space for 8. Tours are $125/person, kids 4-12 are half price. We depart at 9 AM from the harbor and run about 2.5 hours. Binoculars provided — just bring layers and sunscreen. Want me to reserve 8 spots?",
+
   "math": {
     "pricePerBooking": "$750",
     "bookingUnit": "tour group",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "One saved group booking pays for a year of Chiefy."
+    "punchline": "One saved group booking pays for a year of Duet."
   },
-  "categorizationSubtitle": "Chiefy automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
-  "draftSubtitle": "Chiefy learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
-  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Chiefy knows your inbox and schedule — just ask.",
+
+  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, cruise ship schedule changes second, and noise never. No more missing a private charter inquiry buried under TripAdvisor alerts.",
+
+  "draftSubtitle": "Duet learns your tour times, pricing, and policies. When a booking inquiry hits, it drafts a complete reply with availability, what's included, and what to bring. You review and send.",
+
+  "agentSubtitle": "\"How many spots are left on Saturday's morning tour?\" \"Draft a reply to Rachel with availability.\" Duet knows your inbox and schedule — just ask.",
+
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -97,6 +105,7 @@
       "pillColor": "lavender"
     }
   ],
+
   "draft": {
     "to": "rachel.t@email.com",
     "subject": "Re: Group of 8 — availability June 14?",
@@ -116,56 +125,61 @@
       "Learns over time"
     ]
   },
+
   "agent": {
     "userMessage": "How many spots are left on Saturday's morning tour?",
     "agentResponse": "Based on your bookings, Saturday's 9 AM tour has 18 of 44 spots filled — 26 still open. The afternoon tour is almost full at 40 of 44. Want me to draft a reply to any pending inquiries with Saturday morning availability?",
     "followUp": "Draft a reply to Rachel confirming June 14 for 8 guests",
     "followUpResponse": "Done! I drafted a reply to Rachel confirming June 14 morning tour for 8 guests at $125/person. It includes departure time, what's provided, and what to bring. Ready to review and send."
   },
+
   "testimonialsTitle": "Loved by whale watching captains",
   "testimonials": [
     {
       "name": "Captain Dave H.",
       "title": "Wildlife Tour Operator, AK",
-      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Chiefy drafts replies with my pricing and pickup details before I even dock.",
+      "quote": "Cruise ship passengers need answers fast — they've only got 6 hours in port. I used to lose private charters because I was on the water when the inquiry came in. Now Duet drafts replies with my pricing and pickup details before I even dock.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Chiefy handles the repetitive questions and we focus on the tours.",
+      "quote": "We run two tours a day during humpback season and the email volume is unreal. 'Will we see whales?' 'What should I wear?' 'Is tomorrow canceled?' Duet handles the repetitive questions and we focus on the tours.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Chiefy learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
+      "quote": "I was answering the same 10 questions every night — pricing, what's included, seasickness tips, kid age limits. Duet learned all of it in the first week. My response time went from 8 hours to 8 minutes.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Booking Manager, Pacific NW",
-      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Chiefy drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
+      "quote": "Weather cancellations are the worst — 30 people need rebooking at once and I'm juggling phone calls. Duet drafts personalized reschedule emails for each guest. What used to take me 2 hours takes 15 minutes now.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Chiefy cut that to 30 minutes. She actually gets her evenings back now.",
+      "quote": "We're a two-person operation — I captain, she runs logistics. During peak season she was spending 3 hours a night on email. Duet cut that to 30 minutes. She actually gets her evenings back now.",
       "avatarKey": "sarah"
     }
   ],
+
   "ctaHeadline": "Spend whale season on the water,\nnot in your inbox.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+
   "verticalFaqs": [
     {
-      "question": "Does Chiefy handle weather cancellations and cruise ship schedule changes?",
-      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Chiefy once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
+      "question": "Does Duet handle weather cancellations and cruise ship schedule changes?",
+      "answer": "Yes. When you cancel a tour due to weather or a cruise ship arrival time shifts, you can tell Duet once and it drafts personalized reschedule or update emails for every affected guest. No more copying and pasting the same message 30 times. Each reply includes the guest's original booking details and available alternatives."
     },
     {
-      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Chiefy handle those?",
-      "answer": "That's exactly where Chiefy shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Chiefy handles all of them."
+      "question": "We get the same questions constantly — 'will we see whales?', 'what should I wear?', 'is it okay for kids?' Can Duet handle those?",
+      "answer": "That's exactly where Duet shines. It learns your standard answers — species you typically see, what to bring, age policies, seasickness tips, departure times — and drafts complete replies instantly. You review and send. Most captains tell us 80% of their inbox is the same 10 questions, and Duet handles all of them."
     }
   ],
+
   "pricingNote": "At $125/person, one saved group of 6 pays for over a year of Pro."
 }

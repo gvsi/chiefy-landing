@@ -1,10 +1,12 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy for Interior Designers | AI Email Assistant",
-  "metaDescription": "Chiefy helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
+  "pageTitle": "Duet Mail for Interior Designers | AI Email Assistant",
+  "metaDescription": "Duet Mail helps interior designers manage client emails, contractor coordination, and vendor orders — even from the job site. AI-drafted replies with your project details, preferences, and voice.",
+
   "heroBadge": "Trusted by 400+ interior designers",
   "heroHeadline": "Your email assistant while you're on-site with clients",
-  "heroSubline": "Chiefy learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+  "heroSubline": "Duet learns your vendor contacts, project details, and client preferences — then drafts email replies so you never lose a client to a slow response.",
+
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -43,17 +45,23 @@
       "pillColor": "lavender"
     }
   ],
+
   "autodraft": "Hi Rachel! I'd love to hear more about your Westlake kitchen. I'm currently booking consultations for next month. My process starts with an in-home visit where we walk through your vision, budget, and timeline — then I put together a design concept with material selections. Want to set up a time to meet at the house?",
+
   "math": {
     "pricePerBooking": "$10,000",
     "bookingUnit": "project",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "One saved client pays for years of Chiefy."
+    "punchline": "One saved client pays for years of Duet."
   },
-  "categorizationSubtitle": "Chiefy automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
-  "draftSubtitle": "Chiefy learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
-  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Chiefy knows your inbox and every project thread — just ask.",
+
+  "categorizationSubtitle": "Duet automatically tags every email so you see new client inquiries first, pending approvals second, and vendor newsletters never. No more missing a design consultation buried under trade show promotions.",
+
+  "draftSubtitle": "Duet learns your process, project details, and tone. When a new inquiry or client question hits, it drafts a complete reply with your availability, next steps, and project specifics. You review and send.",
+
+  "agentSubtitle": "\"What's the status on the Henderson project?\" \"Which approvals are still pending?\" Duet knows your inbox and every project thread — just ask.",
+
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -97,6 +105,7 @@
       "pillColor": "lavender"
     }
   ],
+
   "draft": {
     "to": "rachel.t@email.com",
     "subject": "Re: Kitchen renovation — initial consultation?",
@@ -116,56 +125,61 @@
       "Learns over time"
     ]
   },
+
   "agent": {
     "userMessage": "What approvals are still pending on the Henderson project?",
     "agentResponse": "Based on your email threads with the Hendersons, two items are still pending approval: the master bath vanity (you sent the Restoration Hardware options on Tuesday) and the living room drapery fabric (samples were delivered last week). Karen also asked about paint sheen for the dining room but hasn't responded to your recommendation yet. Want me to draft a follow-up?",
     "followUp": "Draft a gentle follow-up to Karen about the vanity and fabric selections",
     "followUpResponse": "Done! I drafted a follow-up to Karen checking in on the vanity and drapery selections, mentioning the vanity has a 6-week lead time so a decision soon would keep the project on schedule. Ready to review and send."
   },
+
   "testimonialsTitle": "Loved by interior designers",
   "testimonials": [
     {
       "name": "Michael R.",
       "title": "Principal Designer, Austin TX",
-      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Chiefy drafts replies with the right project details — I just review between site visits.",
+      "quote": "I'm on-site 6 hours a day coordinating painters, electricians, and tile installers. Meanwhile three other clients are emailing about their projects. Duet drafts replies with the right project details — I just review between site visits.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Residential Interior Designer, Chicago",
-      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Chiefy responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
+      "quote": "Client inquiries used to sit for days because I was buried in procurement emails and contractor scheduling. Now Duet responds to new leads in minutes with my process and availability. I've booked 4 extra projects this quarter.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Design Studio Owner, Nashville",
-      "quote": "Managing emails for 12 active projects was killing me. Chiefy categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
+      "quote": "Managing emails for 12 active projects was killing me. Duet categorizes everything — new inquiries, pending approvals, vendor orders, contractor updates — so I know exactly what needs my attention first.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Interior Decorator, San Diego",
-      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Chiefy learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
+      "quote": "I was losing potential clients because I couldn't respond fast enough during install weeks. Duet learned my consultation process, pricing structure, even how I describe my design style. Clients have no idea it's AI-assisted.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Commercial Interior Designer, Denver",
-      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Chiefy sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
+      "quote": "Between vendor lead times, contractor schedules, and client revision requests, my inbox was chaos. Duet sorts it all and drafts follow-ups on pending approvals. It's like having a project coordinator who never sleeps.",
       "avatarKey": "sarah"
     }
   ],
+
   "ctaHeadline": "Spend your days creating beautiful spaces,\nnot buried in your inbox.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+
   "verticalFaqs": [
     {
-      "question": "I juggle 8-10 projects at once. Can Chiefy keep them straight?",
-      "answer": "Yes. Chiefy tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
+      "question": "I juggle 8-10 projects at once. Can Duet keep them straight?",
+      "answer": "Yes. Duet tracks every email thread per client and project. When you ask about the Henderson kitchen or the Park Avenue office, it pulls context from all related conversations — vendor orders, contractor updates, client approvals — so your replies are always accurate and project-specific. No mixing up which tile was for which client."
     },
     {
-      "question": "I coordinate with a lot of contractors and vendors. Does Chiefy help with that?",
-      "answer": "Absolutely. Chiefy learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Chiefy can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
+      "question": "I coordinate with a lot of contractors and vendors. Does Duet help with that?",
+      "answer": "Absolutely. Duet learns your contractor contacts, vendor reps, and the context of each trade's role in your projects. When your electrician emails that rough-in is done, Duet can draft a reply confirming the next step or loop in the fixture installer. It keeps the workflow moving even when you're across town at another job site."
     }
   ],
-  "pricingNote": "At $10,000/project, one saved client pays for years of Chiefy Pro."
+
+  "pricingNote": "At $10,000/project, one saved client pays for years of Duet Pro."
 }

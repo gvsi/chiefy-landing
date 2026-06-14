@@ -2,7 +2,7 @@
 title: "Lås opp topp produktivitet: Gmail-verktoyene innboksen din trenger i 2025"
 description: "Oppdag de beste Gmail-verktoyene og AI-assistentene i 2025 for å håndtere overbelastning, oke produktivitet og ta dagen tilbake."
 publishedAt: 2025-05-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Produktivitet", "Innbokshandtering"]
 draft: false
 ---
@@ -24,7 +24,7 @@ Gmail er kraftig, men en travel innboks trenger ofte mer enn standardfunksjoner.
 
 ### **AI-assistenter**
 
-AI-assistenter gir stor effekt når de kombinerer triage, oppsummering og utkast. [**Chiefy**](https://chiefy.com/nb) er laget for å hjelpe Gmail-brukere med å vite hva som haster, forstå kontekst og skrive svar raskere.
+AI-assistenter gir stor effekt når de kombinerer triage, oppsummering og utkast. [**Duet Mail**](https://duetmail.com/nb) er laget for å hjelpe Gmail-brukere med å vite hva som haster, forstå kontekst og skrive svar raskere.
 
 ### **Planleggingsverktoy**
 
@@ -54,4 +54,4 @@ Phishing, feilvedlegg og sensitive data gjor sikkerhet viktig. Velg verktoy med 
 
 De beste Gmail-verktoyene i 2025 er de som gjor arbeidsdagen roligere. De hjelper deg med å prioritere, forstå og handle.
 
-Hvis innboksen trenger AI-basert triage, oppsummeringer og utkast, kan [**Chiefy**](https://chiefy.com/nb) være et godt sted å starte.
+Hvis innboksen trenger AI-basert triage, oppsummeringer og utkast, kan [**Duet Mail**](https://duetmail.com/nb) være et godt sted å starte.

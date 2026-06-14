@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Chiefy kuumailmapallomatkoille | AI-sähköpostiavustaja",
-  "metaDescription": "Chiefy auttaa ilmapallolentäjiä vastaamaan varaussähköposteihin välittömästi – jopa auringonnousun lentojen aikana. AI-luonnolliset vastaukset hinnoilla, sääkäytännöilläsi ja äänelläsi.",
+  "pageTitle": "Duet Mail kuumailmapallomatkoille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa ilmapallolentäjiä vastaamaan varaussähköposteihin välittömästi – jopa auringonnousun lentojen aikana. AI-luonnolliset vastaukset hinnoilla, sääkäytännöilläsi ja äänelläsi.",
   "heroBadge": "Yli 200 ilmapallolentäjän luottama",
   "heroHeadline": "Sähköpostiavustajasi ollessasi ilmassa",
-  "heroSubline": "Chiefy oppii lentoaikataulusi, hinnoittelusi ja sääkäytäntösi – sitten luonnostelee sähköpostivastauksia, jotta et koskaan menetä varaustasi, kun olet lähdössä auringonnousuun.",
+  "heroSubline": "Duet oppii lentoaikataulusi, hinnoittelusi ja sääkäytäntösi – sitten luonnostelee sähköpostivastauksia, jotta et koskaan menetä varaustasi, kun olet lähdössä auringonnousuun.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Yksi säästetty lento maksaa Chiefy in vuoden."
+    "punchline": "Yksi säästetty lento maksaa Duet in vuoden."
   },
-  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, sääkysymykset sitten ja melu ei koskaan. Uutiskirjehälytysten alle haudottua lentokyselyä ei enää kaipaa.",
-  "draftSubtitle": "Chiefy oppii hinnoittelusi, sääkäytäntösi ja äänesi. Kun varauskysely saapuu, se luonnostelee täydellisen vastauksen, joka sisältää lennon tiedot, kokoustiedot ja pukeutumisen. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Kuka on huomisen manifestissa?\" \"Onko sääperuutuksia muutettava?\" Chiefy tuntee postilaatikkosi ja kalenterisi – kysy vain.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, sääkysymykset sitten ja melu ei koskaan. Uutiskirjehälytysten alle haudottua lentokyselyä ei enää kaipaa.",
+  "draftSubtitle": "Duet oppii hinnoittelusi, sääkäytäntösi ja äänesi. Kun varauskysely saapuu, se luonnostelee täydellisen vastauksen, joka sisältää lennon tiedot, kokoustiedot ja pukeutumisen. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Kuka on huomisen manifestissa?\" \"Onko sääperuutuksia muutettava?\" Duet tuntee postilaatikkosi ja kalenterisi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "kapteeni Mike L.",
       "title": "Balloon Pilot, MN",
-      "quote": "Olen yhden miehen operaatio – lennän, miehistön ja vastaan sähköposteihin. Paitsi kello 5.00, täytän, en vastaa. Chiefy luonnostelee vastaukset jokaiseen \"lennäänkö huomenna?\" viesti yön yli. Herään, katson sään ja painan lähetä.",
+      "quote": "Olen yhden miehen operaatio – lennän, miehistön ja vastaan sähköposteihin. Paitsi kello 5.00, täytän, en vastaa. Duet luonnostelee vastaukset jokaiseen \"lennäänkö huomenna?\" viesti yön yli. Herään, katson sään ja painan lähetä.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "ympärivuotiset ilmapallomatkat, UT",
-      "quote": "Saamme samat 10 kysymystä joka päivä. Mitä pukea päälle, missä tavata, mitä jos tuulee. Chiefy oppi kaiken ja laatii nyt täydellisiä vastauksia. Muutimme tunnin sähköposteista jokailta viiteen minuuttiin.",
+      "quote": "Saamme samat 10 kysymystä joka päivä. Mitä pukea päälle, missä tavata, mitä jos tuulee. Duet oppi kaiken ja laatii nyt täydellisiä vastauksia. Muutimme tunnin sähköposteista jokailta viiteen minuuttiin.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Huippusesonki tarkoittaa 4-6 lentoa viikossa ja jokainen matkustaja lähettää sähköpostia vähintään kaksi kertaa ennen lentoa. Chiefy käsittelee lentoa edeltävät kysymykset, jotta voin keskittyä tarjoamaan ihmisille heidän elämänsä parhaan aamun.",
+      "quote": "Huippusesonki tarkoittaa 4-6 lentoa viikossa ja jokainen matkustaja lähettää sähköpostia vähintään kaksi kertaa ennen lentoa. Duet käsittelee lentoa edeltävät kysymykset, jotta voin keskittyä tarjoamaan ihmisille heidän elämänsä parhaan aamun.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Balloon Companyn osaomistaja, NM",
-      "quote": "Sääperuutukset tuhosivat koko päiväni – 8 matkustajaa kaikki tarvitsivat henkilökohtaisia aikataulusähköpostiviestejä. Nyt Chiefy luonnostelee jokaisen uudelleenvarauskäytäntömme mukaan. Säästää minulta tunteja peruutusaamuissa.",
+      "quote": "Sääperuutukset tuhosivat koko päiväni – 8 matkustajaa kaikki tarvitsivat henkilökohtaisia aikataulusähköpostiviestejä. Nyt Duet luonnostelee jokaisen uudelleenvarauskäytäntömme mukaan. Säästää minulta tunteja peruutusaamuissa.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Balloon Ride Operations, CO",
-      "quote": "Ehdotuslennot tarvitsevat niin paljon edestakaisen koordinointia. Chiefy omaksui sen, miten käsittelemme niitä – ajoituksen, koodisanat, samppanjan asetelman. Se luonnostelee vastauksia, joihin tuskin tarvitsee koskea.",
+      "quote": "Ehdotuslennot tarvitsevat niin paljon edestakaisen koordinointia. Duet omaksui sen, miten käsittelemme niitä – ajoituksen, koodisanat, samppanjan asetelman. Se luonnostelee vastauksia, joihin tuskin tarvitsee koskea.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Miten Chiefy käsittelee sään peruutussähköpostiviestejä?",
-      "answer": "Chiefy oppii peruutus- ja uudelleenvarauskäytäntösi. Kun peruutat lennon sään vuoksi, se voi laatia henkilökohtaisia ​​aikataulusähköpostiviestejä jokaiselle matkustajalle, jota asia koskee – käytäntösi, käytettävissä olevat päivämäärät ja äänesi. Tarkistat ja lähetät. Se, mikä vei aiemmin tunnin yksittäisiin vastauksiin, kestää minuutteja."
+      "question": "Miten Duet käsittelee sään peruutussähköpostiviestejä?",
+      "answer": "Duet oppii peruutus- ja uudelleenvarauskäytäntösi. Kun peruutat lennon sään vuoksi, se voi laatia henkilökohtaisia ​​aikataulusähköpostiviestejä jokaiselle matkustajalle, jota asia koskee – käytäntösi, käytettävissä olevat päivämäärät ja äänesi. Tarkistat ja lähetät. Se, mikä vei aiemmin tunnin yksittäisiin vastauksiin, kestää minuutteja."
     },
     {
-      "question": "Kestääkö Chiefy \"lennäänkö huomenna?\" sähköpostit, jotka tulvii joka ilta?",
-      "answer": "Kyllä — tämä on yksi yleisimmistä sähköpostiviesteistä, joista ilmapallooperaattorit kertovat meille. Chiefy oppii sääkäytäntösi ja laatii rauhoittavia vastauksia, jotka selittävät päätösprosessisi, milloin soitat viimeisen puhelun ja mitä odottaa. Kun vahvistat mene/ei mene aamulla, se voi luonnostella päivityksiä kaikille luettelossa oleville."
+      "question": "Kestääkö Duet \"lennäänkö huomenna?\" sähköpostit, jotka tulvii joka ilta?",
+      "answer": "Kyllä — tämä on yksi yleisimmistä sähköpostiviesteistä, joista ilmapallooperaattorit kertovat meille. Duet oppii sääkäytäntösi ja laatii rauhoittavia vastauksia, jotka selittävät päätösprosessisi, milloin soitat viimeisen puhelun ja mitä odottaa. Kun vahvistat mene/ei mene aamulla, se voi luonnostella päivityksiä kaikille luettelossa oleville."
     }
   ],
   "pricingNote": "Hinta 250 $/henkilö ja 4 matkustajaa per lento, yksi tallennettu varaus maksaa yli vuoden Pro:n."

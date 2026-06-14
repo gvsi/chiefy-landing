@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy za ronilačke trgovine | AI pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže vlasnicima ronilačkih trgovina i PADI instruktorima da odmah odgovore na upite o certifikaciji, rezervacije putovanja i pitanja o opremi — čak i pod vodom.",
+  "pageTitle": "Duet Mail za ronilačke trgovine | AI pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže vlasnicima ronilačkih trgovina i PADI instruktorima da odmah odgovore na upite o certifikaciji, rezervacije putovanja i pitanja o opremi — čak i pod vodom.",
   "heroBadge": "Vjeruje mu više od 300 ronilačkih operatera",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste pod vodom",
-  "heroSubline": "Chiefy uči vaša mjesta za ronjenje, zahtjeve za certifikaciju, cijene i glas — zatim sastavlja odgovore e-poštom tako da nikad ne izgubite rezervaciju dok ste na brodu.",
+  "heroSubline": "Duet uči vaša mjesta za ronjenje, zahtjeve za certifikaciju, cijene i glas — zatim sastavlja odgovore e-poštom tako da nikad ne izgubite rezervaciju dok ste na brodu.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ronjenje",
     "lostPerMonth": "3 izleta (po 6 ronioca)",
     "monthlyLoss": "$2,700",
-    "punchline": "Jedno spremljeno grupno ronjenje plaća godinu dana Chiefy."
+    "punchline": "Jedno spremljeno grupno ronjenje plaća godinu dana Duet."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite upite o certifikaciji i rezervacije ronjenja, zatim pitanja o opremi, a PADI upozorenja kada budete spremni. Nema više propuštanja grupne rezervacije zakopane ispod biltena o opremi.",
-  "draftSubtitle": "Chiefy saznaje vaša mjesta za ronjenje, zahtjeve certifikata i cijene. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s pojedinostima putovanja, što je uključeno i što ponijeti. Vi pregledate i pošaljete.",
-  "agentSubtitle": "\"Koliko je ronilaca rezervirano za subotu?\" \"Nacrtajte odgovor Rachel s dostupnošću Open Water.\" Chiefy zna vašu pristiglu poštu i raspored — samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite upite o certifikaciji i rezervacije ronjenja, zatim pitanja o opremi, a PADI upozorenja kada budete spremni. Nema više propuštanja grupne rezervacije zakopane ispod biltena o opremi.",
+  "draftSubtitle": "Duet saznaje vaša mjesta za ronjenje, zahtjeve certifikata i cijene. Kada stigne upit za rezervaciju, sastavlja potpuni odgovor s pojedinostima putovanja, što je uključeno i što ponijeti. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Koliko je ronilaca rezervirano za subotu?\" \"Nacrtajte odgovor Rachel s dostupnošću Open Water.\" Duet zna vašu pristiglu poštu i raspored — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapetan Mike T.",
       "title": "Kapetan ronilačkog broda, FL",
-      "quote": "Vodim izlete brodom od petka do nedjelje, a trgovina je otvorena samo nekoliko sati ponedjeljkom. Pitanja o certifikatima i upiti o putovanjima gomilaju se dok sam pod vodom. Chiefy sastavlja odgovore s mojim cijenama, stranicama za ronjenje i onim što je uključeno — pregledavam ih između ronjenja.",
+      "quote": "Vodim izlete brodom od petka do nedjelje, a trgovina je otvorena samo nekoliko sati ponedjeljkom. Pitanja o certifikatima i upiti o putovanjima gomilaju se dok sam pod vodom. Duet sastavlja odgovore s mojim cijenama, stranicama za ronjenje i onim što je uključeno — pregledavam ih između ronjenja.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI Dive Center, HI",
-      "quote": "Vodimo ronjenja, ture s disalicom i promatramo kitove s istih brodova. Raznolikost e-pošte je suluda - pitanja o certifikatima, grupne rezervacije, iznajmljivanje opreme, provjere vremena. Chiefy sve sortira i sastavlja odgovore koji znaju razliku. Apsolutni spas.",
+      "quote": "Vodimo ronjenja, ture s disalicom i promatramo kitove s istih brodova. Raznolikost e-pošte je suluda - pitanja o certifikatima, grupne rezervacije, iznajmljivanje opreme, provjere vremena. Duet sve sortira i sastavlja odgovore koji znaju razliku. Apsolutni spas.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Ronjenje na olupinama, FL",
-      "quote": "Polovica mojih e-poruka glasi 'koja mi je potvrda potrebna za ronjenje s olupinama?' a druga polovica je 'trebam li vlastitu opremu?' Chiefy obrađuje oboje na autopilotu. Moje vrijeme odgovora išlo je od sati do minuta.",
+      "quote": "Polovica mojih e-poruka glasi 'koja mi je potvrda potrebna za ronjenje s olupinama?' a druga polovica je 'trebam li vlastitu opremu?' Duet obrađuje oboje na autopilotu. Moje vrijeme odgovora išlo je od sati do minuta.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Vlasnik ronilačke trgovine, CA",
-      "quote": "Tijekom ljeta primamo više od 30 e-poruka dnevno o tečajevima, dostupnosti putovanja i opremi. Gubio sam rezervacije zbog trgovina koje su brže odgovarale. Sada Chiefy izrađuje sve, a ja samo pritisnem slanje između razreda.",
+      "quote": "Tijekom ljeta primamo više od 30 e-poruka dnevno o tečajevima, dostupnosti putovanja i opremi. Gubio sam rezervacije zbog trgovina koje su brže odgovarale. Sada Duet izrađuje sve, a ja samo pritisnem slanje između razreda.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Instruktor i vodič ronjenja, NC",
-      "quote": "Ujutro predajem tečajeve, a poslijepodne vodim ronjenje. Doslovno nema vremena za odgovaranje na e-poštu. Chiefy je naučio moj raspored tečajeva, cijene, čak i moja pravila otkazivanja. Klijenti ne mogu uočiti razliku.",
+      "quote": "Ujutro predajem tečajeve, a poslijepodne vodim ronjenje. Doslovno nema vremena za odgovaranje na e-poštu. Duet je naučio moj raspored tečajeva, cijene, čak i moja pravila otkazivanja. Klijenti ne mogu uočiti razliku.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Razumije li Chiefy razine certifikacije i zahtjeve tečaja?",
-      "answer": "Da. Chiefy uči vaše specifične tečajeve — Open Water, Advanced, Rescue, Divemaster — zajedno s preduvjetima, trajanjem, cijenama i onim što je uključeno. Kada netko pita o dobivanju certifikata, Chiefy sastavlja odgovor s pravim detaljima tečaja, rasporedom i sljedećim koracima. Vi pregledate i pošaljete."
+      "question": "Razumije li Duet razine certifikacije i zahtjeve tečaja?",
+      "answer": "Da. Duet uči vaše specifične tečajeve — Open Water, Advanced, Rescue, Divemaster — zajedno s preduvjetima, trajanjem, cijenama i onim što je uključeno. Kada netko pita o dobivanju certifikata, Duet sastavlja odgovor s pravim detaljima tečaja, rasporedom i sljedećim koracima. Vi pregledate i pošaljete."
     },
     {
-      "question": "Cijeli dan sam na brodu ili pod vodom. Mogu li koristiti Chiefy sa svog telefona?",
-      "answer": "Da. Chiefy radi s uslugama Gmail i Outlook, tako da radi gdje god radi vaša e-pošta — uključujući vaš telefon. Skice se automatski pojavljuju u vašoj pristigloj pošti. Između ronjenja ili povratka na dok, pregledavate i šaljete jednim dodirom. Većina ronilačkih operatera kaže nam da im to štedi 1-2 sata vremena za e-poštu dnevno tijekom vrhunca sezone."
+      "question": "Cijeli dan sam na brodu ili pod vodom. Mogu li koristiti Duet sa svog telefona?",
+      "answer": "Da. Duet radi s uslugama Gmail i Outlook, tako da radi gdje god radi vaša e-pošta — uključujući vaš telefon. Skice se automatski pojavljuju u vašoj pristigloj pošti. Između ronjenja ili povratka na dok, pregledavate i šaljete jednim dodirom. Većina ronilačkih operatera kaže nam da im to štedi 1-2 sata vremena za e-poštu dnevno tijekom vrhunca sezone."
     }
   ],
   "pricingNote": "Po cijeni od 150 USD po ronjenju s grupom od 6 osoba, jedno spremljeno putovanje plaća više od godinu dana Pro."

@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy sukeldumispoodidele | AI e-posti assistent",
-  "metaDescription": "Chiefy aitab sukeldumispoodide omanikel ja PADI juhendajatel vastata koheselt sertifitseerimispäringutele, reiside broneeringutele ja varustusega seotud küsimustele – isegi vee all.",
+  "pageTitle": "Duet Mail sukeldumispoodidele | AI e-posti assistent",
+  "metaDescription": "Duet Mail aitab sukeldumispoodide omanikel ja PADI juhendajatel vastata koheselt sertifitseerimispäringutele, reiside broneeringutele ja varustusega seotud küsimustele – isegi vee all.",
   "heroBadge": "Usaldab üle 300 sukeldumisoperaatori",
   "heroHeadline": "Teie meiliassistent vee all viibides",
-  "heroSubline": "Chiefy õpib tundma teie sukeldumiskohad, sertifitseerimisnõuded, hinnakujunduse ja hääle – seejärel koostab meilivastuste mustandid, et te ei kaotaks kunagi broneeringut, kui olete paadis.",
+  "heroSubline": "Duet õpib tundma teie sukeldumiskohad, sertifitseerimisnõuded, hinnakujunduse ja hääle – seejärel koostab meilivastuste mustandid, et te ei kaotaks kunagi broneeringut, kui olete paadis.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "sukelduma",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Üks salvestatud rühmasukeldumine maksab Chiefy aasta eest."
+    "punchline": "Üks salvestatud rühmasukeldumine maksab Duet aasta eest."
   },
-  "categorizationSubtitle": "Chiefy märgistab automaatselt iga meili, nii et näete esmalt sertifitseerimispäringuid ja sukeldumisbroneeringuid, teiseks varustusküsimusi ja PADI hoiatusi, kui olete valmis. Seadmete infolehtede alla mattunud grupibroneeringud pole enam puudu.",
-  "draftSubtitle": "Chiefy saab teada teie sukeldumiskohad, sertifikaadinõuded ja hinnakujundus. Kui broneeringupäring saabub, koostab see täieliku vastuse koos reisi üksikasjade, kaasasoleva ja kaasavõetava teabega. Vaatad üle ja saadad.",
-  "agentSubtitle": "\"Kui palju sukeldujaid on laupäevaks broneeritud?\" \"Vastuse mustand Rachelile avatud vee kättesaadavusega.\" Chiefy teab teie postkasti ja ajakava – lihtsalt küsige.",
+  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et näete esmalt sertifitseerimispäringuid ja sukeldumisbroneeringuid, teiseks varustusküsimusi ja PADI hoiatusi, kui olete valmis. Seadmete infolehtede alla mattunud grupibroneeringud pole enam puudu.",
+  "draftSubtitle": "Duet saab teada teie sukeldumiskohad, sertifikaadinõuded ja hinnakujundus. Kui broneeringupäring saabub, koostab see täieliku vastuse koos reisi üksikasjade, kaasasoleva ja kaasavõetava teabega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Kui palju sukeldujaid on laupäevaks broneeritud?\" \"Vastuse mustand Rachelile avatud vee kättesaadavusega.\" Duet teab teie postkasti ja ajakava – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Mike T.",
       "title": "Sukeldumispaadi kapten, FL",
-      "quote": "Ma korraldan laevareise reedest pühapäevani ja pood on esmaspäeval avatud vaid paar tundi. Sertifitseerimisküsimused ja reisipäringud kuhjuvad vee all viibides. Chiefy koostab vastuste mustandid koos minu hinnakujunduse, sukeldumiskohtade ja sellega, mis sisaldab – vaatan need sukeldumiste vahel üle.",
+      "quote": "Ma korraldan laevareise reedest pühapäevani ja pood on esmaspäeval avatud vaid paar tundi. Sertifitseerimisküsimused ja reisipäringud kuhjuvad vee all viibides. Duet koostab vastuste mustandid koos minu hinnakujunduse, sukeldumiskohtade ja sellega, mis sisaldab – vaatan need sukeldumiste vahel üle.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen ja Mark S.",
       "title": "PADI sukeldumiskeskus, HI",
-      "quote": "Korraldame sukeldumisi, snorgeldamisreise ja vaalavaatlusi samadel paatidel. Meilisõnumite valik on meeletu – sertifikaadiküsimused, grupibroneeringud, varustuse rent, ilmastikukontroll. Chiefy sorteerib selle kõik ja koostab vastused, mis teavad erinevust. Absoluutne elupäästja.",
+      "quote": "Korraldame sukeldumisi, snorgeldamisreise ja vaalavaatlusi samadel paatidel. Meilisõnumite valik on meeletu – sertifikaadiküsimused, grupibroneeringud, varustuse rent, ilmastikukontroll. Duet sorteerib selle kõik ja koostab vastused, mis teavad erinevust. Absoluutne elupäästja.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Vrakkide sukeldumise tšarter, FL",
-      "quote": "Pooled minu e-kirjadest on vastuseks „millist sertifikaati ma vraki sukeldumiseks vajan?” ja teine ​​pool on \"kas mul on vaja oma varustust?\" Chiefy käsitleb mõlemat autopiloodil. Minu reageerimisaeg kestis tundidest minutiteni.",
+      "quote": "Pooled minu e-kirjadest on vastuseks „millist sertifikaati ma vraki sukeldumiseks vajan?” ja teine ​​pool on \"kas mul on vaja oma varustust?\" Duet käsitleb mõlemat autopiloodil. Minu reageerimisaeg kestis tundidest minutiteni.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Sukeldumispoe omanik, CA",
-      "quote": "Suvel saame päevas üle 30 meili kursuste, reiside saadavuse ja varustuse kohta. Kaotasin broneeringuid kiiremini vastanud kauplustele. Nüüd koostab Chiefy kõik mustandid ja ma lihtsalt vajutan tundide vahel saada.",
+      "quote": "Suvel saame päevas üle 30 meili kursuste, reiside saadavuse ja varustuse kohta. Kaotasin broneeringuid kiiremini vastanud kauplustele. Nüüd koostab Duet kõik mustandid ja ma lihtsalt vajutan tundide vahel saada.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Sukeldumisinstruktor ja giid, NC",
-      "quote": "Ma õpetan hommikul kursusi ja pärastlõunal juhendan sukeldumisi. Meile pole sõna otseses mõttes aega vastata. Chiefy sai teada minu kursuste ajakava, hinnad ja isegi minu tühistamisreeglid. Kliendid ei suuda vahet teha.",
+      "quote": "Ma õpetan hommikul kursusi ja pärastlõunal juhendan sukeldumisi. Meile pole sõna otseses mõttes aega vastata. Duet sai teada minu kursuste ajakava, hinnad ja isegi minu tühistamisreeglid. Kliendid ei suuda vahet teha.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Kas Chiefy mõistab sertifitseerimistasemeid ja kursuse nõudeid?",
-      "answer": "Jah. Chiefy õpib teie konkreetseid kursusi – Open Water, Advanced, Rescue, Divemaster – koos eeltingimuste, kestuse, hinnakujunduse ja hinna sees sisalduvatega. Kui keegi küsib sertifikaadi saamise kohta, koostab Chiefy vastuse koos õigete kursuse üksikasjade, ajakava ja järgmiste sammudega. Vaatad üle ja saadad."
+      "question": "Kas Duet mõistab sertifitseerimistasemeid ja kursuse nõudeid?",
+      "answer": "Jah. Duet õpib teie konkreetseid kursusi – Open Water, Advanced, Rescue, Divemaster – koos eeltingimuste, kestuse, hinnakujunduse ja hinna sees sisalduvatega. Kui keegi küsib sertifikaadi saamise kohta, koostab Duet vastuse koos õigete kursuse üksikasjade, ajakava ja järgmiste sammudega. Vaatad üle ja saadad."
     },
     {
-      "question": "Olen terve päeva paadis või vee all. Kas ma saan oma telefonist Chiefy kasutada?",
-      "answer": "Jah. Chiefy töötab koos Gmail ja Outlook, nii et see töötab kõikjal, kus teie e-post töötab – sealhulgas teie telefon. Mustandid ilmuvad automaatselt teie postkasti. Sukeldumiste vahel või dokis vaatate üle ja saadate ühe puudutusega. Enamik sukeldumisoperaatoreid ütleb meile, et see säästab neile tipphooajal 1–2 tundi meiliaega päevas."
+      "question": "Olen terve päeva paadis või vee all. Kas ma saan oma telefonist Duet kasutada?",
+      "answer": "Jah. Duet töötab koos Gmail ja Outlook, nii et see töötab kõikjal, kus teie e-post töötab – sealhulgas teie telefon. Mustandid ilmuvad automaatselt teie postkasti. Sukeldumiste vahel või dokis vaatate üle ja saadate ühe puudutusega. Enamik sukeldumisoperaatoreid ütleb meile, et see säästab neile tipphooajal 1–2 tundi meiliaega päevas."
     }
   ],
   "pricingNote": "Kuueliikmelise grupiga $150/dive maksab üks säästetud reis rohkem kui aasta Pro eest."

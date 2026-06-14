@@ -2,7 +2,7 @@
 title: "Obvladajte nabiralnik s ključnimi orodji in strategijami za organizacijo aplikacije Gmail"
 description: "Spoznajte ključna orodja za organizacijo aplikacije Gmail, metode, kot sta Inbox Zero in GTD, ter kako lahko AI-pomočniki pomagajo obvladati nabiralnik."
 publishedAt: 2025-09-01
-author: "Ekipa Chiefy"
+author: "Ekipa Duet Mail"
 tags: ["AI", "Gmail", "Upravljanje nabiralnika", "Orodja"]
 draft: false
 ---
@@ -209,7 +209,7 @@ Predstavljajte si nabiralnik, ki samodejno ve, kaj je nujno. AI-triaža e-pošte
 
 **Koristi:** Dramatično zmanjša čas ročnega razvrščanja, izpostavi kritična sporočila, ki bi se lahko zakopala, zmanjša motnje zaradi manj pomembne pošte in se bori proti utrujenosti pri odločanju, saj začetno oceno "pomembno/nepomembno" opravi namesto vas. Orodja, kot sta [**SaneBox**](https://www.sanebox.com/) in [**Superhuman**](https://superhuman.com/), so znana po AI-podprtem razvrščanju.
 
-Prav za takšno inteligentno razvrščanje je zasnovan [Chiefy](https://chiefy.com/sl). Njegova AI-triaža analizira prihajajočo pošto glede nujnosti in potrebnih dejanj ter jo prikaže v osredotočeni nadzorni plošči, da takoj vidite, kaj potrebuje pozornost, brez šuma tradicionalnega kronološkega nabiralnika.
+Prav za takšno inteligentno razvrščanje je zasnovan [Duet Mail](https://duetmail.com/sl). Njegova AI-triaža analizira prihajajočo pošto glede nujnosti in potrebnih dejanj ter jo prikaže v osredotočeni nadzorni plošči, da takoj vidite, kaj potrebuje pozornost, brez šuma tradicionalnega kronološkega nabiralnika.
 
 ### Takojšnje razumevanje: AI-povzemanje
 
@@ -217,7 +217,7 @@ Ste že kdaj odprli nit s 50 odgovori in vam je zastal dih? AI-orodja za povzema
 
 **Koristi:** To prihrani ogromno časa pri vračanju v tok, prepreči spregled ključnih informacij in izboljša splošno razumevanje, zlasti pri kompleksnih projektnih ali strankarskih pogovorih. Več AI-orodij, med njimi [**Outlook Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot-for-microsoft-365), [**Shortwave**](https://shortwave.com/) in namenski dodatki za Gmail, kot sta [**AI Mail Assistant**](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) ali [**MailMaestro**](https://www.maestrolabs.com/), ponuja to zmožnost.
 
-Predstavljajte si, da odprete dolgo nit s stranko in takoj razumete ključne zaključke. AI-pomočniki, kot je Chiefy, ponujajo pametno povzemanje, samodejno strnejo pogovore in si zapomnijo kontekstualne podrobnosti o projektih in odnosih, zato lahko odgovorite hitro in natančno brez ponovnega branja vsega.
+Predstavljajte si, da odprete dolgo nit s stranko in takoj razumete ključne zaključke. AI-pomočniki, kot je Duet Mail, ponujajo pametno povzemanje, samodejno strnejo pogovore in si zapomnijo kontekstualne podrobnosti o projektih in odnosih, zato lahko odgovorite hitro in natančno brez ponovnega branja vsega.
 
 ### Komunikacija brez napora: kontekstualni osnutki
 
@@ -225,7 +225,7 @@ Pisanje e-pošte, posebej rutinske, porabi velik del časa. AI-pomočniki za osn
 
 **Koristi:** To močno pospeši odzivne čase, zagotovi profesionalno in dosledno komunikacijo ter vas razbremeni miselnega napora pri sestavljanju podobnih sporočil znova in znova. To ponuja veliko orodij, od splošnih AI-piscev, kot je [**ComposeIt**](https://www.scribowriter.com/post/best-ai-email-assistant), do integriranih pomočnikov v [**Superhuman**](https://superhuman.com/) ali [**Gemini for Google Workspace**](https://workspace.google.com/solutions/ai/).
 
-Priprava personaliziranih odgovorov zahteva čas. AI-pisci lahko to pospešijo, vendar je avtentičen zven ključen. Avtentično pripravljanje AI-osnutkov v Chiefy se iz preteklih sporočil nauči vašega specifičnega besedišča in tona ter predlaga odgovore, ki res zvenijo kot vi, kar ohranja odnose in hkrati prihrani ure.
+Priprava personaliziranih odgovorov zahteva čas. AI-pisci lahko to pospešijo, vendar je avtentičen zven ključen. Avtentično pripravljanje AI-osnutkov v Duet Mail se iz preteklih sporočil nauči vašega specifičnega besedišča in tona ter predlaga odgovore, ki res zvenijo kot vi, kar ohranja odnose in hkrati prihrani ure.
 
 AI pomeni temeljni premik od _upravljanja_ e-pošte k _nadgrajevanju_ kognitivnih nalog, povezanih z njo - razumevanja, določanja prednosti, povzemanja in komuniciranja. Ključno je najti AI-orodja, ki se učijo _vaših_ konkretnih potreb in sloga ter ponujajo personalizirano pomoč, ki deluje naravno in zaupanja vredno.
 
@@ -241,7 +241,7 @@ Resnica je, da **ni enega samega pravega odgovora.** Najboljši sistem organizac
 
 - **Vodja projektov** bo morda integriral Asano ali Todoist in obsežno uporabljal oznake za sledenje projektom.
 
-- **Navdušenec nad produktivnostjo** bo morda združil načela Inbox Zero s paketno obdelavo in preizkusil AI-orodja, kot sta Superhuman ali Chiefy.
+- **Navdušenec nad produktivnostjo** bo morda združil načela Inbox Zero s paketno obdelavo in preizkusil AI-orodja, kot sta Superhuman ali Duet Mail.
 
 **Pot do idealne nastavitve:**
 
@@ -253,7 +253,7 @@ Resnica je, da **ni enega samega pravega odgovora.** Najboljši sistem organizac
 
 4. **Raziščite rešitve:** Poiščite orodja tretjih ponudnikov ali AI-orodja, ki konkretno rešujejo največje ozko grlo.
 
-5. **Razmislite o integriranem AI:** Če vas zanima več AI-funkcij (triaža, povzemanje, osnutki), raziščite platforme, kot je [Chiefy](https://chiefy.com/sl), ki te zmožnosti združujejo v povezano izkušnjo in lahko poenostavijo nabor orodij.
+5. **Razmislite o integriranem AI:** Če vas zanima več AI-funkcij (triaža, povzemanje, osnutki), raziščite platforme, kot je [Duet Mail](https://duetmail.com/sl), ki te zmožnosti združujejo v povezano izkušnjo in lahko poenostavijo nabor orodij.
 
 6. **Izboljšujte:** Sistem nenehno prilagajajte. Kar je delovalo prejšnji mesec, se lahko spremeni z vašo vlogo ali projekti.
 
@@ -263,4 +263,4 @@ Preobremenjenost z e-pošto je razširjen izziv sodobnega delovnega okolja, vend
 
 Končni cilj je porabiti manj časa za _upravljanje_ e-pošte in več časa za delo, ki res šteje. Ne glede na to, ali začnete z nekaj ključnimi filtri, se zavežete paketni obdelavi ali raziščete AI-pomočnika, naredite danes en korak k mirnejšemu in bolj organiziranemu digitalnemu življenju.
 
-Ste pripravljeni izkusiti moč AI-podprte organizacije e-pošte, ki se uči vašega sloga in prioritet? [**Raziščite, kako lahko Chiefy**](https://chiefy.com/sl) preoblikuje vaš odnos z nabiralnikom in vam vsak teden vrne ure. Preizkusite ga še danes!
+Ste pripravljeni izkusiti moč AI-podprte organizacije e-pošte, ki se uči vašega sloga in prioritet? [**Raziščite, kako lahko Duet Mail**](https://duetmail.com/sl) preoblikuje vaš odnos z nabiralnikom in vam vsak teden vrne ure. Preizkusite ga še danes!

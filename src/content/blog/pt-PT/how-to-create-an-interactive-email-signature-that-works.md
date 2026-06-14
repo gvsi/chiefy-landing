@@ -2,7 +2,7 @@
 title: "Como criar uma assinatura de email interativa que funciona"
 description: "Aprenda a criar uma assinatura de email interativa para aumentar engajamento, marca e leads. Guia passo a passo para freelancers e startups."
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["IA", "Email"]
 draft: false
 ---
@@ -69,7 +69,7 @@ Mobile importa: garanta que a sua assinatura fique bonita e funcione bem em todo
 ## Fazendo as interações valerem: além do clique
 Uma assinatura interativa é feita para gerar ação: um clique, uma ligação, um agendamento. Mas o que acontece depois? Gerir os follow-ups com eficiência e manter a imagem profissional é crucial.
 É aqui que integrar a sua estratégia de assinatura com ferramentas inteligentes de gestão de email pode fazer diferença. Quando leads começam a clicar no link "Agende uma reunião" criado pela sua ótima assinatura, precisa de um sistema para lidar com o agendamento e a comunicação seguinte sem atrito. Do mesmo modo, manter em todo follow-up o tom profissional definido pela assinatura é essencial para construir relacionamentos.
-Ferramentas de produtividade de email, como [Chiefy](https://chiefy.com/pt-PT), podem ajudar a preencher essa lacuna. Imagine receber ajuda de IA para rascunhar respostas rápidas e personalizadas que mantêm a sua voz única depois que alguém interage com o CTA da sua assinatura. Funcionalidades do Chiefy, como **triagem com IA**, ajudam a destacar respostas importantes geradas a partir dessas interações, enquanto os **rascunhos autênticos com IA** garantem que os seus follow-ups soem como o utilizador, preservando o profissionalismo que a sua assinatura transmite. Isso transforma o engajamento gerado pela assinatura em conversas bem gerenciadas e produtivas.
+Ferramentas de produtividade de email, como [Duet Mail](https://duetmail.com/pt-PT), podem ajudar a preencher essa lacuna. Imagine receber ajuda de IA para rascunhar respostas rápidas e personalizadas que mantêm a sua voz única depois que alguém interage com o CTA da sua assinatura. Funcionalidades do Duet Mail, como **triagem com IA**, ajudam a destacar respostas importantes geradas a partir dessas interações, enquanto os **rascunhos autênticos com IA** garantem que os seus follow-ups soem como o utilizador, preservando o profissionalismo que a sua assinatura transmite. Isso transforma o engajamento gerado pela assinatura em conversas bem gerenciadas e produtivas.
 ## Pronto para ativar a sua assinatura?
 A sua assinatura de email é mais do que um encerramento; é uma ferramenta poderosa e econômica esperando para ser ativada. Ao incorporar elementos interativos com intenção e seguir boas práticas de design, pode transformá-la em uma fonte constante de reforço de marca, tráfego e leads.
 Seja a usar um gerador fácil ou codificando por conta própria, o essencial é criar algo profissional, funcional e alinhado aos seus objetivos. Começar pequeno: adicione um link clicável para o site e o seu perfil social mais importante. Teste. Depois, considere incluir uma chamada para ação clara ou um link de agendamento. Acompanhe os resultados se possível, pois [muitos geradores oferecem analytics](https://mysignature.io/blog/email-signature-statistics/), e refine com o tempo.

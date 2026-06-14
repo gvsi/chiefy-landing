@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy Atlı Geziler ve Patika Rehberleri için | AI E-posta Asistanı",
-  "metaDescription": "Chiefy, atlı gezi operatörlerinin rezervasyon e-postalarına anında, hatta at sırtındayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, binici gereksinimleriniz ve ses tonunuzla birlikte gelir.",
+  "pageTitle": "Duet Mail Atlı Geziler ve Patika Rehberleri için | AI E-posta Asistanı",
+  "metaDescription": "Duet Mail, atlı gezi operatörlerinin rezervasyon e-postalarına anında, hatta at sırtındayken bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, binici gereksinimleriniz ve ses tonunuzla birlikte gelir.",
   "heroBadge": "300'den fazla doğa yürüyüşü rehberi tarafından güvenilen marka.",
   "heroHeadline": "Yolda olduğunuz süre boyunca e-posta asistanınız",
-  "heroSubline": "Chiefy sürüş türlerinizi, fiyatlandırmanızı, sürücü gereksinimlerinizi ve parkur koşullarını öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
+  "heroSubline": "Duet sürüş türlerinizi, fiyatlandırmanızı, sürücü gereksinimlerinizi ve parkur koşullarını öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "sürmek",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Bir grup sürüşünden elde edilen tasarruf, iki yıldan fazla süren Chiefy masrafını karşılıyor."
+    "punchline": "Bir grup sürüşünden elde edilen tasarruf, iki yıldan fazla süren Duet masrafını karşılıyor."
   },
-  "categorizationSubtitle": "Chiefy her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra sürücü sorularını ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan grup sorularını kaçırma derdine son.",
-  "draftSubtitle": "Chiefy sürüş türlerinizi, fiyatlandırmayı ve gereksinimlerinizi öğrenir. Bir rezervasyon talebi geldiğinde, parkur detayları, fiyatlandırma ve ne giyileceğiyle ilgili eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
-  "agentSubtitle": "\"Bu hafta sonu müsait olan var mı?\" \"Cumartesi müsaitliğiyle ilgili olarak Jessica'ya bir yanıt taslağı gönderin.\" Chiefy gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
+  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon isteklerini, sonra sürücü sorularını ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan grup sorularını kaçırma derdine son.",
+  "draftSubtitle": "Duet sürüş türlerinizi, fiyatlandırmayı ve gereksinimlerinizi öğrenir. Bir rezervasyon talebi geldiğinde, parkur detayları, fiyatlandırma ve ne giyileceğiyle ilgili eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta sonu müsait olan var mı?\" \"Cumartesi müsaitliğiyle ilgili olarak Jessica'ya bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve takviminizi biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Çiftlik Sahibi ve Patika Rehberi, MT",
-      "quote": "Günde 6 saat boyunca cep telefonu çekmeyen yollardayım. Cevap vermek için geri döndüğümde, insanların yarısı başka bir yere rezervasyon yaptırmıştı bile. Şimdi Chiefy fiyatlandırma ve sürüş detaylarımla birlikte yanıt taslaklarını hazırlıyor; ben de ahıra döndüğümde gözden geçirip gönderiyorum.",
+      "quote": "Günde 6 saat boyunca cep telefonu çekmeyen yollardayım. Cevap vermek için geri döndüğümde, insanların yarısı başka bir yere rezervasyon yaptırmıştı bile. Şimdi Duet fiyatlandırma ve sürüş detaylarımla birlikte yanıt taslaklarını hazırlıyor; ben de ahıra döndüğümde gözden geçirip gönderiyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Atlı Tur Operatörü, Arizona",
-      "quote": "Aynı şeyi soran düzinelerce e-posta alıyoruz - ağırlık sınırları, ne giyileceği, yaş şartları. Chiefy bunların hepsini hallediyor ve yanıtlar tıpkı benim gibi geliyor. Misafirlerim bunun AI olduğunu bilmiyorlar bile.",
+      "quote": "Aynı şeyi soran düzinelerce e-posta alıyoruz - ağırlık sınırları, ne giyileceği, yaş şartları. Duet bunların hepsini hallediyor ve yanıtlar tıpkı benim gibi geliyor. Misafirlerim bunun AI olduğunu bilmiyorlar bile.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Atlı Gezi Rehberi, CO",
-      "quote": "Yoğun sezon beni mahvediyordu. Günde 30'dan fazla e-postaya cevap vermenin yanı sıra, turlar da düzenliyordum. Chiefy rezervasyon taleplerini gereksiz olanlardan ayırıyor ve her şeyi içeren yanıtlar hazırlıyor - fiyatlandırma, ne getirilmesi gerektiği, her şey. Akşamlarımı geri kazandım.",
+      "quote": "Yoğun sezon beni mahvediyordu. Günde 30'dan fazla e-postaya cevap vermenin yanı sıra, turlar da düzenliyordum. Duet rezervasyon taleplerini gereksiz olanlardan ayırıyor ve her şeyi içeren yanıtlar hazırlıyor - fiyatlandırma, ne getirilmesi gerektiği, her şey. Akşamlarımı geri kazandım.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Binicilik Eğitmeni ve Rezervasyon Yöneticisi, Teksas",
-      "quote": "Gün batımı turları, sabah turları ve özel dersler düzenliyoruz; her birinin fiyatlandırması ve gereksinimleri farklı. Chiefy bunların hepsini bir haftada öğrendi. Her seferinde doğru tur türü için doğru cevabı hazırlıyor.",
+      "quote": "Gün batımı turları, sabah turları ve özel dersler düzenliyoruz; her birinin fiyatlandırması ve gereksinimleri farklı. Duet bunların hepsini bir haftada öğrendi. Her seferinde doğru tur türü için doğru cevabı hazırlıyor.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Aile Çiftliği ve Atlı Geziler, Kaliforniya",
-      "quote": "Hassas konularla ilgili e-postalar en kötüsüydü; biri çok ağır olup olmadığını veya çocuğunun yeterince büyük olup olmadığını soruyordu. Chiefy bu tür e-postaları da benim gibi özenle ele alıyor. Profesyonel, nazik ve doğru. Sadece bu bile yeterli.",
+      "quote": "Hassas konularla ilgili e-postalar en kötüsüydü; biri çok ağır olup olmadığını veya çocuğunun yeterince büyük olup olmadığını soruyordu. Duet bu tür e-postaları da benim gibi özenle ele alıyor. Profesyonel, nazik ve doğru. Sadece bu bile yeterli.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Chiefy, kilo veya deneyim gereksinimleriyle ilgili hassas soruları nasıl ele alıyor?",
-      "answer": "Chiefy, sizin özel politikalarınızı öğrenir ve sizin üslubunuzu yansıtır. Birisi ağırlık sınırları veya deneyim gereksinimleri hakkında soru sorduğunda, profesyonel ve sıcak bir şekilde yanıt verir; ihtiyaç duydukları bilgiyi garip bir durum yaratmadan paylaşır. Siz bir kez üslubu belirlersiniz ve Chiefy bunu tutarlı bir şekilde takip eder, böylece her misafir saygı gördüğünü hisseder."
+      "question": "Duet, kilo veya deneyim gereksinimleriyle ilgili hassas soruları nasıl ele alıyor?",
+      "answer": "Duet, sizin özel politikalarınızı öğrenir ve sizin üslubunuzu yansıtır. Birisi ağırlık sınırları veya deneyim gereksinimleri hakkında soru sorduğunda, profesyonel ve sıcak bir şekilde yanıt verir; ihtiyaç duydukları bilgiyi garip bir durum yaratmadan paylaşır. Siz bir kez üslubu belirlersiniz ve Duet bunu tutarlı bir şekilde takip eder, böylece her misafir saygı gördüğünü hisseder."
     },
     {
-      "question": "Chiefy farklı sürücü ihtiyaçlarına sahip grup rezervasyonlarını yönetebilir mi?",
-      "answer": "Evet. Chiefy sürüş türlerinizi, grup büyüklüklerinizi, yaş sınırlarınızı ve her bir yolcuya özel gereksinimlerinizi öğrenir. Bir aile veya grup rezervasyon için e-posta gönderdiğinde, tüm grup için fiyatlandırmayı, her bir yolcunun bilmesi gerekenleri ve müsait zaman dilimlerini kapsayan bir yanıt taslağı oluşturur. Siz incelersiniz ve gönderirsiniz; karşılıklı yazışma gerekmez."
+      "question": "Duet farklı sürücü ihtiyaçlarına sahip grup rezervasyonlarını yönetebilir mi?",
+      "answer": "Evet. Duet sürüş türlerinizi, grup büyüklüklerinizi, yaş sınırlarınızı ve her bir yolcuya özel gereksinimlerinizi öğrenir. Bir aile veya grup rezervasyon için e-posta gönderdiğinde, tüm grup için fiyatlandırmayı, her bir yolcunun bilmesi gerekenleri ve müsait zaman dilimlerini kapsayan bir yanıt taslağı oluşturur. Siz incelersiniz ve gönderirsiniz; karşılıklı yazışma gerekmez."
     }
   ],
   "pricingNote": "6 kişilik bir grup için kişi başı $100 fiyatıyla, bir yolculuk tasarrufu iki yıldan fazla Pro ücretini karşılıyor."

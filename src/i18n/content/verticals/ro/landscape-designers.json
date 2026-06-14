@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy pentru designeri de peisaj | AI Asistent de e-mail",
-  "metaDescription": "Chiefy îi ajută pe designerii de peisaj să răspundă instantaneu la e-mailurile clienților, chiar și din teren. Răspunsuri redactate de AI cu detaliile proiectului, prețurile și vocea.",
+  "pageTitle": "Duet Mail pentru designeri de peisaj | AI Asistent de e-mail",
+  "metaDescription": "Duet Mail îi ajută pe designerii de peisaj să răspundă instantaneu la e-mailurile clienților, chiar și din teren. Răspunsuri redactate de AI cu detaliile proiectului, prețurile și vocea.",
   "heroBadge": "De încredere de peste 300 de designeri de peisaj",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe teren",
-  "heroSubline": "Chiefy învață detaliile proiectului, paletele plantelor, prețurile și procesele - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată un client din cauza unui răspuns lent.",
+  "heroSubline": "Duet învață detaliile proiectului, paletele plantelor, prețurile și procesele - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată un client din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "proiect",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Un proiect salvat plătește ani de Chiefy."
+    "punchline": "Un proiect salvat plătește ani de Duet."
   },
-  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi noile cereri de consultare, apoi aprobările clienților și niciodată zgomotul furnizorului. Nu mai lipsește un plumb îngropat sub confirmările comenzilor de pepinieră.",
-  "draftSubtitle": "Chiefy învață prețurile, procesul și tonul tău. Când o solicitare de consultare ajunge, aceasta redactează un răspuns complet cu disponibilitatea ta, la ce să se aștepte și pașii următori. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Care este cronologia proiectului Henderson?” „Care clienți așteaptă aprobarea planului?” Chiefy îți cunoaște căsuța de e-mail și proiectele - doar întreabă.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi noile cereri de consultare, apoi aprobările clienților și niciodată zgomotul furnizorului. Nu mai lipsește un plumb îngropat sub confirmările comenzilor de pepinieră.",
+  "draftSubtitle": "Duet învață prețurile, procesul și tonul tău. Când o solicitare de consultare ajunge, aceasta redactează un răspuns complet cu disponibilitatea ta, la ce să se aștepte și pașii următori. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Care este cronologia proiectului Henderson?” „Care clienți așteaptă aprobarea planului?” Duet îți cunoaște căsuța de e-mail și proiectele - doar întreabă.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Arhitect peisagist, Austin TX",
-      "quote": "În timpul primăverii, sunt la fața locului 8 ore pe zi, fac evaluări și supraveghează instalarea. Noile solicitări de consultare ar dura zile întregi. Acum Chiefy îmi răspunde cu procesul și disponibilitatea în câteva minute. Am rezervat 3 proiecte pe care cu siguranță le-aș fi pierdut.",
+      "quote": "În timpul primăverii, sunt la fața locului 8 ore pe zi, fac evaluări și supraveghează instalarea. Noile solicitări de consultare ar dura zile întregi. Acum Duet îmi răspunde cu procesul și disponibilitatea în câteva minute. Am rezervat 3 proiecte pe care cu siguranță le-aș fi pierdut.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Designer de grădină, Portland OR",
-      "quote": "Coordonarea între echipele hardscape, instalatorii de irigații și clienți generează o cantitate absurdă de e-mail. Chiefy sortează totul și redactează răspunsuri care includ detaliile corecte ale proiectului. E ca și cum ai avea un manager de studio.",
+      "quote": "Coordonarea între echipele hardscape, instalatorii de irigații și clienți generează o cantitate absurdă de e-mail. Duet sortează totul și redactează răspunsuri care includ detaliile corecte ale proiectului. E ca și cum ai avea un manager de studio.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Proprietar studio de design peisagistic, Denver CO",
-      "quote": "Obișnuiam să-mi petrec în fiecare seară după munca de teren să ating e-mailurile. Aceleași întrebări - preț, proces, cronologie. Chiefy se ocupă de toate. Timpul meu de răspuns a trecut de la zile la minute și rata mea de închidere este mult mai mare.",
+      "quote": "Obișnuiam să-mi petrec în fiecare seară după munca de teren să ating e-mailurile. Aceleași întrebări - preț, proces, cronologie. Duet se ocupă de toate. Timpul meu de răspuns a trecut de la zile la minute și rata mea de închidere este mult mai mare.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Designer de peisaj rezidențial, Scottsdale AZ",
-      "quote": "Clienții mei pun o mulțime de întrebări despre selecția și întreținerea plantelor. Chiefy mi-a învățat paletele de plante și instrucțiunile de îngrijire și a scris răspunsuri pe care abia trebuie să le editez. Clienții cred că sunt incredibil de receptiv.",
+      "quote": "Clienții mei pun o mulțime de întrebări despre selecția și întreținerea plantelor. Duet mi-a învățat paletele de plante și instrucțiunile de îngrijire și a scris răspunsuri pe care abia trebuie să le editez. Clienții cred că sunt incredibil de receptiv.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Designer de peisaj cu plante native, Raleigh NC",
-      "quote": "Pierdeam clienți noi pentru că nu puteam să răspund în timp ce eram până la genunchi într-o instalație de plantare. Chiefy elaborează răspunsuri la consultare cu procesul meu exact, prețurile și la ce să mă aștept. S-a plătit singur în prima săptămână.",
+      "quote": "Pierdeam clienți noi pentru că nu puteam să răspund în timp ce eram până la genunchi într-o instalație de plantare. Duet elaborează răspunsuri la consultare cu procesul meu exact, prețurile și la ce să mă aștept. S-a plătit singur în prima săptămână.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Poate Chiefy să facă față goanei de primăvară când cererile de consultare se adună?",
-      "answer": "Exact atunci strălucește Chiefy. În timpul sezonului tău cel mai aglomerat, fiecare întrebare nouă primește un răspuns rapid și detaliat cu procesul, calendarul și disponibilitatea ta - chiar și atunci când ești la fața locului toată ziua. Nu mai pierzi leaduri de primăvară pentru că nu puteai reveni la ele până la ora 21.00."
+      "question": "Poate Duet să facă față goanei de primăvară când cererile de consultare se adună?",
+      "answer": "Exact atunci strălucește Duet. În timpul sezonului tău cel mai aglomerat, fiecare întrebare nouă primește un răspuns rapid și detaliat cu procesul, calendarul și disponibilitatea ta - chiar și atunci când ești la fața locului toată ziua. Nu mai pierzi leaduri de primăvară pentru că nu puteai reveni la ele până la ora 21.00."
     },
     {
-      "question": "Coordonez cu mai multe echipe în aer liber. Chiefy ajută la asta?",
-      "answer": "Da. Chiefy învață proiectele tale și antreprenorii implicați - peisaj, irigații, echipe de plantare, pepiniere. Clasifică e-mailurile contractorului separat de e-mailurile clienților și poate redacta răspunsuri cu detalii specifice proiectului, cum ar fi specificații, calendare și materiale. Rămâi la curent cu fiecare echipaj fără haosul din căsuța de e-mail."
+      "question": "Coordonez cu mai multe echipe în aer liber. Duet ajută la asta?",
+      "answer": "Da. Duet învață proiectele tale și antreprenorii implicați - peisaj, irigații, echipe de plantare, pepiniere. Clasifică e-mailurile contractorului separat de e-mailurile clienților și poate redacta răspunsuri cu detalii specifice proiectului, cum ar fi specificații, calendare și materiale. Rămâi la curent cu fiecare echipaj fără haosul din căsuța de e-mail."
     }
   ],
   "pricingNote": "La 8.000 USD/proiect, un client salvat plătește pentru ani de Pro."

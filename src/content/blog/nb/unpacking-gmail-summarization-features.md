@@ -2,7 +2,7 @@
 title: "Gmail-oppsummering forklart"
 description: "Sliter du med e-postoverbelastning? Utforsk Gmails oppsummeringsfunksjoner drevet av Gemini, fordeler, ulemper og om de er nok."
 publishedAt: 2025-09-26
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "E-postoppsummering"]
 draft: false
 ---
@@ -43,7 +43,7 @@ AI-oppsummeringer kan miste nyanser, feiltolke intensjon eller utelate detaljer.
 
 Innebygd oppsummering er nyttig, men mange brukere trenger også prioritering og utkast. Det er ikke nok å vite hva tråden sier hvis du fortsatt ikke vet hva som haster.
 
-[**Chiefy**](https://chiefy.com/nb) kombinerer oppsummering med AI Triage og autentiske utkast. Det hjelper deg med å se hvilke meldinger som krever handling, forstå konteksten og svare raskere.
+[**Duet Mail**](https://duetmail.com/nb) kombinerer oppsummering med AI Triage og autentiske utkast. Det hjelper deg med å se hvilke meldinger som krever handling, forstå konteksten og svare raskere.
 
 ## Beste praksis
 
@@ -57,4 +57,4 @@ Innebygd oppsummering er nyttig, men mange brukere trenger også prioritering og
 
 Gmail-oppsummering kan spare tid og redusere stoy, men den er mest nyttig når den inngår i en bredere arbeidsflyt. For travle brukere er kombinasjonen av oppsummering, triage og utkast ofte det som gir reell produktivitetsgevinst.
 
-Utforsk hvordan [**Chiefy**](https://chiefy.com/nb) bygger dette direkte inn i Gmail-arbeidet ditt.
+Utforsk hvordan [**Duet Mail**](https://duetmail.com/nb) bygger dette direkte inn i Gmail-arbeidet ditt.

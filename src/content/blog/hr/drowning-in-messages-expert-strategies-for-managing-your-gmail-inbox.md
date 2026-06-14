@@ -2,7 +2,7 @@
 title: "Utapanje u porukama? Stručne strategije za upravljanje Vašim Gmail Inboxom"
 description: "Zaustavite preopterećenje e-poštom! Naučite stručne strategije za upravljanje svojim Gmail pristiglim spremnikom, od klasičnih taktika do AI alata, i vratite svoju produktivnost."
 publishedAt: 2025-07-04
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Upravljanje pristiglom poštom", "E-mail"]
 draft: false
 ---
@@ -157,7 +157,7 @@ AI pomoćnici za e-poštu idu dalje od jednostavne automatizacije; nude intelige
 
 **Prednost:** Umjesto da kopate po hrpi, AI automatski izvlači e-poruke koje zahtijevaju hitnu akciju. Ovo drastično skraćuje vrijeme razvrstavanja, osigurava da kritične stavke nisu propuštene, smanjuje stres od preopterećenosti pristigle pošte i oslobađa vas da svoju energiju usmjerite na djelotvoran rad, a ne na administraciju pristigle pošte.
 
-**Chiefy veza (kontekstualno):** _Ovo inteligentno sortiranje je upravo ono što zaposleni profesionalci trebaju. Tu briljiraju alati poput _[_Chiefy_](https://chiefy.com/hr)_ koji koriste **AI triage** za analizu hitnosti, potrebnih radnji i odluka, jasno ih prikazujući na **Fokusiranoj nadzornoj ploči** tako da odmah znate na što treba obratiti pozornost._
+**Duet Mail veza (kontekstualno):** _Ovo inteligentno sortiranje je upravo ono što zaposleni profesionalci trebaju. Tu briljiraju alati poput _[_Duet Mail_](https://duetmail.com/hr)_ koji koriste **AI triage** za analizu hitnosti, potrebnih radnji i odluka, jasno ih prikazujući na **Fokusiranoj nadzornoj ploči** tako da odmah znate na što treba obratiti pozornost._
 
 ### Pametno sažimanje: Trenutačno razumijevanje dugih niti i privitaka
 
@@ -217,4 +217,4 @@ Tehnologija, posebice porast inteligentnih AI pomoćnika za e-poštu, nudi snaž
 
 Ovladavanje vašim Gmail-om ne znači samo postizanje urednog digitalnog prostora. Radi se o značajnom smanjenju stresa na radnom mjestu, vraćanju sati dragocjenog vremena svaki tjedan, zaštiti vaše sposobnosti da se usredotočite na dubok, smislen rad i na kraju jačanju vaše ukupne učinkovitosti i dobrobiti. Pažljivim spajanjem discipliniranih navika sa strateškom upotrebom inteligentnih alata, možete transformirati svoju pristiglu poštu iz izvora straha u upravljivo komunikacijsko središte.
 
-Jeste li spremni iskusiti kako umjetna inteligencija može promijeniti vaš odnos s e-poštom? Učinite prvi korak prema mirnijem i produktivnijem radnom danu. Istražite kako [Chiefy](https://chiefy.com/hr) koristi AI trijažu, pametno sažimanje i autentično sastavljanje kako bi pomogao zaposlenim profesionalcima poput vas da osvoje njihov sandučić.
+Jeste li spremni iskusiti kako umjetna inteligencija može promijeniti vaš odnos s e-poštom? Učinite prvi korak prema mirnijem i produktivnijem radnom danu. Istražite kako [Duet Mail](https://duetmail.com/hr) koristi AI trijažu, pametno sažimanje i autentično sastavljanje kako bi pomogao zaposlenim profesionalcima poput vas da osvoje njihov sandučić.

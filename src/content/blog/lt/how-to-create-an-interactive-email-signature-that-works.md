@@ -2,7 +2,7 @@
 title: "Kaip sukurti interaktyvų el. pašto parašą, kuris veikia"
 description: "Sužinokite, kaip sukurti interaktyvų el. pašto parašą, kuris didina įsitraukimą, stiprina prekės ženklą ir generuoja potencialius klientus. Žingsnis po žingsnio gidas laisvai samdomiems specialistams ir startuoliams"
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["DI", "El. paštas"]
 draft: false
 ---
@@ -126,7 +126,7 @@ Interaktyvus parašas sukurtas paskatinti veiksmą – paspaudimą, skambutį, r
 
 Čia jūsų parašo strategijos integravimas su išmaniais el. pašto valdymo įrankiais gali duoti apčiuopiamą naudą. Kai potencialūs klientai pradeda spausti nuorodą „Rezervuoti susitikimą“, kurią sugeneravo jūsų puikus parašas, jums reikia sistemos, kuri sklandžiai valdytų tolesnį planavimą ir komunikaciją. Taip pat svarbu kiekviename tolesniame el. laiške išlaikyti profesionalų toną, kurį sukuria jūsų parašas – tai padeda kurti santykius.
 
-El. pašto produktyvumui skirti įrankiai, tokie kaip [Chiefy](/lt), gali padėti užpildyti šią spragą. Įsivaizduokite, kad po to, kai kas nors sureaguoja į jūsų parašo CTA, gaunate DI pagalbą greitiems, suasmenintiems atsakymams parengti, išlaikant jūsų unikalų balsą. Chiefy funkcijos, tokios kaip **DI rūšiavimas**, gali padėti iškelti svarbius atsakymus, kilusius iš parašo sąveikų, o **autentiškas DI juodraščių rengimas** užtikrina, kad tolesni laiškai skambėtų kaip jūs ir išsaugotų profesionalumą, kurį perteikia jūsų parašas. Taip jūsų parašo sukeltas įsitraukimas virsta gerai valdomais, produktyviais pokalbiais.
+El. pašto produktyvumui skirti įrankiai, tokie kaip [Duet Mail](/lt), gali padėti užpildyti šią spragą. Įsivaizduokite, kad po to, kai kas nors sureaguoja į jūsų parašo CTA, gaunate DI pagalbą greitiems, suasmenintiems atsakymams parengti, išlaikant jūsų unikalų balsą. Duet Mail funkcijos, tokios kaip **DI rūšiavimas**, gali padėti iškelti svarbius atsakymus, kilusius iš parašo sąveikų, o **autentiškas DI juodraščių rengimas** užtikrina, kad tolesni laiškai skambėtų kaip jūs ir išsaugotų profesionalumą, kurį perteikia jūsų parašas. Taip jūsų parašo sukeltas įsitraukimas virsta gerai valdomais, produktyviais pokalbiais.
 
 ## Pasiruošę aktyvuoti savo parašą?
 

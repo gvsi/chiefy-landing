@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy niršanas veikaliem | AI e-pasta asistents",
-  "metaDescription": "Chiefy palīdz niršanas veikalu īpašniekiem un PADI instruktoriem nekavējoties atbildēt uz jautājumiem par sertifikāciju, braucienu rezervācijām un ekipējumu — pat atrodoties zem ūdens.",
+  "pageTitle": "Duet Mail niršanas veikaliem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz niršanas veikalu īpašniekiem un PADI instruktoriem nekavējoties atbildēt uz jautājumiem par sertifikāciju, braucienu rezervācijām un ekipējumu — pat atrodoties zem ūdens.",
   "heroBadge": "Uzticas vairāk nekā 300 niršanas operatori",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat zem ūdens",
-  "heroSubline": "Chiefy apgūst jūsu niršanas vietas, sertifikācijas prasības, cenas un saziņas stilu — un sagatavo e-pasta atbilžu melnrakstus, lai jūs nezaudētu rezervāciju, kamēr esat uz laivas.",
+  "heroSubline": "Duet apgūst jūsu niršanas vietas, sertifikācijas prasības, cenas un saziņas stilu — un sagatavo e-pasta atbilžu melnrakstus, lai jūs nezaudētu rezervāciju, kamēr esat uz laivas.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "niršana",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Viena saglabāta grupas niršana sedz Chiefy gada izmaksas."
+    "punchline": "Viena saglabāta grupas niršana sedz Duet gada izmaksas."
   },
-  "categorizationSubtitle": "Chiefy automātiski piešķir atzīmes katram e-pastam, lai vispirms redzētu sertifikācijas jautājumus un niršanas rezervācijas, pēc tam ekipējuma jautājumus, bet PADI paziņojumus — kad esat gatavs. Vairs nekādu zaudētu grupas rezervāciju, kas paslēpusies starp ekipējuma jaunumu vēstulēm.",
-  "draftSubtitle": "Chiefy apgūst jūsu niršanas vietas, sertifikācijas prasības un cenas. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildes melnrakstu ar brauciena informāciju, iekļauto un līdzi ņemamo. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Cik nirēju ir rezervēti sestdienai?\" \"Sagatavo atbildi Rachel par Open Water pieejamību.\" Chiefy pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Duet automātiski piešķir atzīmes katram e-pastam, lai vispirms redzētu sertifikācijas jautājumus un niršanas rezervācijas, pēc tam ekipējuma jautājumus, bet PADI paziņojumus — kad esat gatavs. Vairs nekādu zaudētu grupas rezervāciju, kas paslēpusies starp ekipējuma jaunumu vēstulēm.",
+  "draftSubtitle": "Duet apgūst jūsu niršanas vietas, sertifikācijas prasības un cenas. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildes melnrakstu ar brauciena informāciju, iekļauto un līdzi ņemamo. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Cik nirēju ir rezervēti sestdienai?\" \"Sagatavo atbildi Rachel par Open Water pieejamību.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapteinis Mike T.",
       "title": "Niršanas laivas kapteinis, FL",
-      "quote": "Es vadu laivu braucienus no piektdienas līdz svētdienai, un veikals pirmdien ir atvērts tikai dažas stundas. Sertifikācijas jautājumi un braucienu pieprasījumi krājas, kamēr esmu zem ūdens. Chiefy sagatavo atbildes ar manām cenām, niršanas vietām un iekļauto — es tās pārskatu starp niršanām.",
+      "quote": "Es vadu laivu braucienus no piektdienas līdz svētdienai, un veikals pirmdien ir atvērts tikai dažas stundas. Sertifikācijas jautājumi un braucienu pieprasījumi krājas, kamēr esmu zem ūdens. Duet sagatavo atbildes ar manām cenām, niršanas vietām un iekļauto — es tās pārskatu starp niršanām.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI niršanas centrs, HI",
-      "quote": "No vienām un tām pašām laivām organizējam niršanas, snorkelēšanas tūres un vaļu vērošanu. E-pastu dažādība ir neticama — sertifikācijas jautājumi, grupu rezervācijas, ekipējuma noma, laikapstākļu pārbaudes. Chiefy to visu sakārto un sagatavo atbildes, kas saprot atšķirību. Īsts glābiņš.",
+      "quote": "No vienām un tām pašām laivām organizējam niršanas, snorkelēšanas tūres un vaļu vērošanu. E-pastu dažādība ir neticama — sertifikācijas jautājumi, grupu rezervācijas, ekipējuma noma, laikapstākļu pārbaudes. Duet to visu sakārto un sagatavo atbildes, kas saprot atšķirību. Īsts glābiņš.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Vraku niršanas čarteri, FL",
-      "quote": "Puse manu e-pastu ir par to, \"kāda sertifikācija man vajadzīga vraku niršanām?\", bet otra puse — \"vai man vajag savu ekipējumu?\" Chiefy tiek galā ar abiem autopilotā. Mans atbildes laiks samazinājās no stundām līdz minūtēm.",
+      "quote": "Puse manu e-pastu ir par to, \"kāda sertifikācija man vajadzīga vraku niršanām?\", bet otra puse — \"vai man vajag savu ekipējumu?\" Duet tiek galā ar abiem autopilotā. Mans atbildes laiks samazinājās no stundām līdz minūtēm.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Niršanas veikala īpašniece, CA",
-      "quote": "Vasarā saņemam vairāk nekā 30 e-pastu dienā par kursiem, braucienu pieejamību un ekipējumu. Es zaudēju rezervācijas veikaliem, kas atbildēja ātrāk. Tagad Chiefy sagatavo visu, un es starp nodarbībām tikai nospiežu sūtīt.",
+      "quote": "Vasarā saņemam vairāk nekā 30 e-pastu dienā par kursiem, braucienu pieejamību un ekipējumu. Es zaudēju rezervācijas veikaliem, kas atbildēja ātrāk. Tagad Duet sagatavo visu, un es starp nodarbībām tikai nospiežu sūtīt.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Niršanas instruktore un gide, NC",
-      "quote": "No rītiem pasniedzu kursus, bet pēcpusdienās vadu niršanas. E-pastiem burtiski nav laika. Chiefy apguva manu kursu grafiku, cenas un pat atcelšanas politiku. Klienti neredz atšķirību.",
+      "quote": "No rītiem pasniedzu kursus, bet pēcpusdienās vadu niršanas. E-pastiem burtiski nav laika. Duet apguva manu kursu grafiku, cenas un pat atcelšanas politiku. Klienti neredz atšķirību.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Vai Chiefy saprot sertifikācijas līmeņus un kursu prasības?",
-      "answer": "Jā. Chiefy apgūst jūsu konkrētos kursus — Open Water, Advanced, Rescue, Divemaster — kopā ar priekšnosacījumiem, ilgumu, cenām un iekļauto. Kad kāds jautā par sertifikācijas iegūšanu, Chiefy sagatavo atbildi ar pareizo kursa informāciju, grafiku un nākamajiem soļiem. Jūs pārskatāt un nosūtāt."
+      "question": "Vai Duet saprot sertifikācijas līmeņus un kursu prasības?",
+      "answer": "Jā. Duet apgūst jūsu konkrētos kursus — Open Water, Advanced, Rescue, Divemaster — kopā ar priekšnosacījumiem, ilgumu, cenām un iekļauto. Kad kāds jautā par sertifikācijas iegūšanu, Duet sagatavo atbildi ar pareizo kursa informāciju, grafiku un nākamajiem soļiem. Jūs pārskatāt un nosūtāt."
     },
     {
-      "question": "Es visu dienu esmu uz laivas vai zem ūdens. Vai varu lietot Chiefy no tālruņa?",
-      "answer": "Jā. Chiefy darbojas ar Gmail un Outlook, tāpēc tas darbojas visur, kur darbojas jūsu e-pasts — arī tālrunī. Melnraksti automātiski parādās jūsu iesūtnē. Starp niršanām vai atgriežoties piestātnē, jūs pārskatāt un nosūtāt ar vienu pieskārienu. Lielākā daļa niršanas operatoru mums saka, ka sezonas laikā tas ietaupa 1-2 stundas e-pasta darba dienā."
+      "question": "Es visu dienu esmu uz laivas vai zem ūdens. Vai varu lietot Duet no tālruņa?",
+      "answer": "Jā. Duet darbojas ar Gmail un Outlook, tāpēc tas darbojas visur, kur darbojas jūsu e-pasts — arī tālrunī. Melnraksti automātiski parādās jūsu iesūtnē. Starp niršanām vai atgriežoties piestātnē, jūs pārskatāt un nosūtāt ar vienu pieskārienu. Lielākā daļa niršanas operatoru mums saka, ka sezonas laikā tas ietaupa 1-2 stundas e-pasta darba dienā."
     }
   ],
   "pricingNote": "Pie 150 $ par niršanu 6 cilvēku grupai viens ietaupīts brauciens apmaksā vairāk nekā gadu ar Pro."

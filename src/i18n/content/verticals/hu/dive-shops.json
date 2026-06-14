@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy búvárboltok számára | AI e-mail asszisztens",
-  "metaDescription": "A Chiefy segít a búvárboltok tulajdonosainak és a PADI oktatóinak azonnali megválaszolásában a tanúsítási kérdésekre, az utazások lefoglalására és a felszereléssel kapcsolatos kérdésekre – akár a víz alatt is.",
+  "pageTitle": "Duet Mail búvárboltok számára | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a búvárboltok tulajdonosainak és a PADI oktatóinak azonnali megválaszolásában a tanúsítási kérdésekre, az utazások lefoglalására és a felszereléssel kapcsolatos kérdésekre – akár a víz alatt is.",
   "heroBadge": "Több mint 300 búvárkezelő megbízható",
   "heroHeadline": "Az e-mail asszisztens a víz alatt",
-  "heroSubline": "A Chiefy megismeri a merülési helyeket, a minősítési követelményeket, az árakat és a hangot – majd e-mail-válaszokat készít, így Ön soha nem veszít el egy foglalást, miközben a hajón van.",
+  "heroSubline": "A Duet megismeri a merülési helyeket, a minősítési követelményeket, az árakat és a hangot – majd e-mail-válaszokat készít, így Ön soha nem veszít el egy foglalást, miközben a hajón van.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "merülés",
     "lostPerMonth": "3 kirándulás (egyenként 6 búvár)",
     "monthlyLoss": "$2,700",
-    "punchline": "Egy megmentett csoportos merülés egy év Chiefyért fizet."
+    "punchline": "Egy megmentett csoportos merülés egy év Duetért fizet."
   },
-  "categorizationSubtitle": "A Chiefy automatikusan megcímkéz minden e-mailt, így először a tanúsítási kéréseket és a merülési foglalásokat látja, másodsorban a felszereléssel kapcsolatos kérdéseket, és a PADI figyelmeztetéseket, ha készen áll. Többé nem hiányzik egy csoportos foglalás, amelyet a berendezések hírlevelei alá temetnek.",
-  "draftSubtitle": "A Chiefy megismeri a merülési helyeket, a tanúsítvány követelményeit és az árakat. Amikor megérkezik egy foglalási kérdés, teljes választ készít az utazás részleteivel, a benne foglaltakkal és a magával hozni. Te átnézed és elküldöd.",
-  "agentSubtitle": "– Hány búvár van lefoglalva szombatra? \"Válaszvázlat Rachelnek a nyíltvízi elérhetőséggel.\" A Chiefy ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
+  "categorizationSubtitle": "A Duet automatikusan megcímkéz minden e-mailt, így először a tanúsítási kéréseket és a merülési foglalásokat látja, másodsorban a felszereléssel kapcsolatos kérdéseket, és a PADI figyelmeztetéseket, ha készen áll. Többé nem hiányzik egy csoportos foglalás, amelyet a berendezések hírlevelei alá temetnek.",
+  "draftSubtitle": "A Duet megismeri a merülési helyeket, a tanúsítvány követelményeit és az árakat. Amikor megérkezik egy foglalási kérdés, teljes választ készít az utazás részleteivel, a benne foglaltakkal és a magával hozni. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Hány búvár van lefoglalva szombatra? \"Válaszvázlat Rachelnek a nyíltvízi elérhetőséggel.\" A Duet ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,13 +127,13 @@
     {
       "name": "Mike T. kapitány.",
       "title": "Búvárhajó kapitány, FL",
-      "quote": "Péntektől vasárnapig hajókirándulásokat szervezek, és az üzlet hétfőn csak néhány órát tart nyitva. A bizonyítványokkal kapcsolatos kérdések és az utazással kapcsolatos kérdések felhalmozódnak, miközben víz alatt vagyok. Chiefy piszkozatok válaszolnak az áraimmal, a merülési helyeimmel és a benne foglaltakkal – a merülések között átnézem őket.",
+      "quote": "Péntektől vasárnapig hajókirándulásokat szervezek, és az üzlet hétfőn csak néhány órát tart nyitva. A bizonyítványokkal kapcsolatos kérdések és az utazással kapcsolatos kérdések felhalmozódnak, miközben víz alatt vagyok. Duet piszkozatok válaszolnak az áraimmal, a merülési helyeimmel és a benne foglaltakkal – a merülések között átnézem őket.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen és Mark S.",
       "title": "PADI búvárközpont, HI",
-      "quote": "Ugyanazon hajókon búvárkodunk, snorkel túrákat és bálnanézőket szervezünk. Az e-mailek sokfélesége őrült – tanúsítványkérdések, csoportos foglalások, felszerelés kölcsönzés, időjárás-ellenőrzés. A Chiefy mindent rendez, és válaszokat készít, amelyek ismerik a különbséget. Abszolút életmentő.",
+      "quote": "Ugyanazon hajókon búvárkodunk, snorkel túrákat és bálnanézőket szervezünk. Az e-mailek sokfélesége őrült – tanúsítványkérdések, csoportos foglalások, felszerelés kölcsönzés, időjárás-ellenőrzés. A Duet mindent rendez, és válaszokat készít, amelyek ismerik a különbséget. Abszolút életmentő.",
       "avatarKey": "jennifer"
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "Francesca D.",
       "title": "Dive Shop tulajdonos, CA",
-      "quote": "Nyáron naponta több mint 30 e-mailt kapunk a tanfolyamokról, az utazások elérhetőségéről és a felszerelésekről. Elvesztettem a foglalásokat azokkal az üzletekkel szemben, amelyek gyorsabban válaszoltak. Most a Chiefy rajzol mindent, én pedig csak megnyomom a küldést az órák között.",
+      "quote": "Nyáron naponta több mint 30 e-mailt kapunk a tanfolyamokról, az utazások elérhetőségéről és a felszerelésekről. Elvesztettem a foglalásokat azokkal az üzletekkel szemben, amelyek gyorsabban válaszoltak. Most a Duet rajzol mindent, én pedig csak megnyomom a küldést az órák között.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Búvároktató és útmutató, NC",
-      "quote": "Délelőtt tanfolyamokat tartok, délután pedig vezetői merüléseket. Szó szerint nincs idő e-mailekre válaszolni. A Chiefy megismerte a tanfolyami ütemtervemet, az árakat, sőt még a lemondási szabályzatomat is. Az ügyfelek nem tudnak különbséget tenni.",
+      "quote": "Délelőtt tanfolyamokat tartok, délután pedig vezetői merüléseket. Szó szerint nincs idő e-mailekre válaszolni. A Duet megismerte a tanfolyami ütemtervemet, az árakat, sőt még a lemondási szabályzatomat is. Az ügyfelek nem tudnak különbséget tenni.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "A Chiefy megérti a képesítési szinteket és a tanfolyami követelményeket?",
-      "answer": "Igen. A Chiefy megtanulja az Ön speciális tanfolyamait – Open Water, Advanced, Rescue, Divemaster – az előfeltételekkel, az időtartammal, az árakkal és a benne foglaltakkal együtt. Amikor valaki a minősítés megszerzéséről kérdez, a Chiefy válaszvázlatot készít a tanfolyam megfelelő részleteivel, ütemtervével és a következő lépésekkel. Te átnézed és elküldöd."
+      "question": "A Duet megérti a képesítési szinteket és a tanfolyami követelményeket?",
+      "answer": "Igen. A Duet megtanulja az Ön speciális tanfolyamait – Open Water, Advanced, Rescue, Divemaster – az előfeltételekkel, az időtartammal, az árakkal és a benne foglaltakkal együtt. Amikor valaki a minősítés megszerzéséről kérdez, a Duet válaszvázlatot készít a tanfolyam megfelelő részleteivel, ütemtervével és a következő lépésekkel. Te átnézed és elküldöd."
     },
     {
       "question": "Egész nap a hajón vagy a víz alatt vagyok. Használhatom a Duetet a telefonomról?",
-      "answer": "Igen. A Chiefy működik a Gmail és Outlook jelekkel, így mindenhol működik, ahol az e-mailje működik – beleértve a telefont is. A piszkozatok automatikusan megjelennek a beérkező levelek között. A merülések között vagy vissza a dokkba egyetlen érintéssel áttekintheti és elküldheti. A legtöbb búvárüzemeltető azt mondja, hogy ezzel napi 1-2 óra e-mail-időt takarít meg a főszezonban."
+      "answer": "Igen. A Duet működik a Gmail és Outlook jelekkel, így mindenhol működik, ahol az e-mailje működik – beleértve a telefont is. A piszkozatok automatikusan megjelennek a beérkező levelek között. A merülések között vagy vissza a dokkba egyetlen érintéssel áttekintheti és elküldheti. A legtöbb búvárüzemeltető azt mondja, hogy ezzel napi 1-2 óra e-mail-időt takarít meg a főszezonban."
     }
   ],
   "pricingNote": "150 USD/merülés 6 fős csoport esetén egy megtakarított utazás több mint egy év Pro-t fizet."

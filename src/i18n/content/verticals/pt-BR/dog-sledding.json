@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Chiefy para passeios de trenó com cães | Assistente de e-mail com IA",
-  "metaDescription": "O Chiefy ajuda mushers a responder emails de reserva instantaneamente — até na trilha. Respostas redigidas por IA com seus tipos de passeio, preços, políticas e tom.",
+  "pageTitle": "Duet Mail para passeios de trenó com cães | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda mushers a responder emails de reserva instantaneamente — até na trilha. Respostas redigidas por IA com seus tipos de passeio, preços, políticas e tom.",
   "heroBadge": "Usado por mais de 200 mushers",
   "heroHeadline": "Seu assistente de e-mail enquanto você está na trilha",
-  "heroSubline": "O Chiefy aprende seus tipos de passeio, preços, políticas de clima e adicionais — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
+  "heroSubline": "O Duet aprende seus tipos de passeio, preços, políticas de clima e adicionais — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "passeio",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Duas reservas recuperadas pagam um ano de Chiefy."
+    "punchline": "Duas reservas recuperadas pagam um ano de Duet."
   },
-  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para você ver pedidos de reserva primeiro, perguntas em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de passeio enterrada sob alertas do TripAdvisor.",
-  "draftSubtitle": "O Chiefy aprende seus tipos de passeio, preços e tom. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes do pacote, o que vestir e adicionais. Você revisa e envia.",
-  "agentSubtitle": "\"Alguma reserva neste fim de semana?\" \"Redija uma resposta sobre o combo aurora.\" O Chiefy conhece sua caixa de entrada e sua agenda — é só perguntar.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver pedidos de reserva primeiro, perguntas em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de passeio enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Duet aprende seus tipos de passeio, preços e tom. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes do pacote, o que vestir e adicionais. Você revisa e envia.",
+  "agentSubtitle": "\"Alguma reserva neste fim de semana?\" \"Redija uma resposta sobre o combo aurora.\" O Duet conhece sua caixa de entrada e sua agenda — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Operador de passeios de trenó com cães, AK",
-      "quote": "Fico na trilha 6 horas por dia sem nenhum sinal de celular. Quando eu voltava, metade das consultas de reserva já tinha ido para outra empresa. O Chiefy redige respostas com detalhes dos meus passeios e preços — os hóspedes recebem retorno em minutos, não horas.",
+      "quote": "Fico na trilha 6 horas por dia sem nenhum sinal de celular. Quando eu voltava, metade das consultas de reserva já tinha ido para outra empresa. O Duet redige respostas com detalhes dos meus passeios e preços — os hóspedes recebem retorno em minutos, não horas.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Proprietária de canil e passeios mush, AK",
-      "quote": "Oferecemos visitas ao canil, passeios mush e combos de aurora — cada email precisa de uma resposta diferente. O Chiefy entendeu os três tipos de passeio em uma semana e agora redige respostas que combinam com o pacote certo todas as vezes.",
+      "quote": "Oferecemos visitas ao canil, passeios mush e combos de aurora — cada email precisa de uma resposta diferente. O Duet entendeu os três tipos de passeio em uma semana e agora redige respostas que combinam com o pacote certo todas as vezes.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Guia de trenó com cães, MN",
-      "quote": "Eu costumava passar todas as noites respondendo às mesmas perguntas sobre o que vestir, limites de idade e os cães. O Chiefy cuida de tudo isso. Chego da trilha e tudo está redigido e esperando.",
+      "quote": "Eu costumava passar todas as noites respondendo às mesmas perguntas sobre o que vestir, limites de idade e os cães. O Duet cuida de tudo isso. Chego da trilha e tudo está redigido e esperando.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Operadora de passeios de aurora e trenó, AK",
-      "quote": "Cancelamentos por clima são constantes no inverno. O Chiefy redige respostas de remarcação com nossa política e datas alternativas antes mesmo de eu conseguir olhar o celular. Os hóspedes adoram a resposta rápida.",
+      "quote": "Cancelamentos por clima são constantes no inverno. O Duet redige respostas de remarcação com nossa política e datas alternativas antes mesmo de eu conseguir olhar o celular. Os hóspedes adoram a resposta rápida.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Family Dog Sled Adventures, CO",
-      "quote": "Os pais sempre perguntam se os filhos podem conduzir, se os cães são amigáveis, o que vestir — as mesmas 10 perguntas. O Chiefy aprendeu cada resposta e as redige perfeitamente. É como me clonar para o email.",
+      "quote": "Os pais sempre perguntam se os filhos podem conduzir, se os cães são amigáveis, o que vestir — as mesmas 10 perguntas. O Duet aprendeu cada resposta e as redige perfeitamente. É como me clonar para o email.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "Como o Chiefy lida com cancelamentos por clima e incerteza da aurora?",
-      "answer": "O Chiefy aprende suas políticas de cancelamento e remarcação. Quando um hóspede escreve sobre preocupações com o clima ou visibilidade da aurora, ele redige uma resposta com sua política, datas alternativas e quaisquer detalhes relevantes — como monitorar as condições e confirmar mais perto do passeio. Você revisa e envia."
+      "question": "Como o Duet lida com cancelamentos por clima e incerteza da aurora?",
+      "answer": "O Duet aprende suas políticas de cancelamento e remarcação. Quando um hóspede escreve sobre preocupações com o clima ou visibilidade da aurora, ele redige uma resposta com sua política, datas alternativas e quaisquer detalhes relevantes — como monitorar as condições e confirmar mais perto do passeio. Você revisa e envia."
     },
     {
-      "question": "Ofereço vários tipos de passeio com preços e adicionais diferentes. O Chiefy consegue organizar isso?",
-      "answer": "Sim. O Chiefy aprende cada tipo de passeio — visitas ao canil, experiências mush, combos de aurora, adicionais de fotografia, pacotes de transporte — junto com preço, duração e o que está incluído. Quando chega uma consulta, ele identifica o passeio certo e redige uma resposta com os detalhes corretos."
+      "question": "Ofereço vários tipos de passeio com preços e adicionais diferentes. O Duet consegue organizar isso?",
+      "answer": "Sim. O Duet aprende cada tipo de passeio — visitas ao canil, experiências mush, combos de aurora, adicionais de fotografia, pacotes de transporte — junto com preço, duração e o que está incluído. Quando chega uma consulta, ele identifica o passeio certo e redige uma resposta com os detalhes corretos."
     }
   ],
   "pricingNote": "Com $150/passeio, duas reservas recuperadas pagam mais de um ano de Pro."

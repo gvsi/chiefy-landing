@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy hevosajeluille ja polkuoppaille | AI-sähköpostiavustaja",
-  "metaDescription": "Chiefy auttaa polkupyöräilijöitä vastaamaan varaussähköposteihin välittömästi – jopa satulasta käsin. AI-luonnolliset vastaukset hinnoittelullasi, kuljettajavaatimuksillasi ja äänelläsi.",
+  "pageTitle": "Duet Mail hevosajeluille ja polkuoppaille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa polkupyöräilijöitä vastaamaan varaussähköposteihin välittömästi – jopa satulasta käsin. AI-luonnolliset vastaukset hinnoittelullasi, kuljettajavaatimuksillasi ja äänelläsi.",
   "heroBadge": "Yli 300 polkuoppaan luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet matkalla",
-  "heroSubline": "Chiefy oppii ajotyypit, hinnoittelun, ratsastajavaatimukset ja reittiolosuhteet – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaalle vastaukselle.",
+  "heroSubline": "Duet oppii ajotyypit, hinnoittelun, ratsastajavaatimukset ja reittiolosuhteet – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaalle vastaukselle.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "-ajo",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Yksi säästetty ryhmämatka maksaa yli kahden vuoden Chiefy in."
+    "punchline": "Yksi säästetty ryhmämatka maksaa yli kahden vuoden Duet in."
   },
-  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, ajajan kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt ryhmäkysely ei enää jää huomaamatta.",
-  "draftSubtitle": "Chiefy oppii ajotyylisi, hinnoittelusi ja vaatimukset. Kun varauskysely osuu, se laatii täydellisen vastauksen, jossa on tiedot reitistä, hinnoittelusta ja pukeutumisesta. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Onko ajeluja auki tänä viikonloppuna?\" \"Luonnos vastaus Jessicalle lauantain saatavuuden mukaan.\" Chiefy tuntee postilaatikkosi ja kalenterisi – kysy vain.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, ajajan kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt ryhmäkysely ei enää jää huomaamatta.",
+  "draftSubtitle": "Duet oppii ajotyylisi, hinnoittelusi ja vaatimukset. Kun varauskysely osuu, se laatii täydellisen vastauksen, jossa on tiedot reitistä, hinnoittelusta ja pukeutumisesta. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Onko ajeluja auki tänä viikonloppuna?\" \"Luonnos vastaus Jessicalle lauantain saatavuuden mukaan.\" Duet tuntee postilaatikkosi ja kalenterisi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "Olen polulla 6 tuntia päivässä ilman matkapuhelinpalvelua. Kun palasin vastaamaan, puolet ihmisistä oli varannut jonnekin muualle. Nyt Chiefy laatii vastaukset hinta- ja matkatietoihini – vain tarkistan ja lähetän, kun palaan navettaan.",
+      "quote": "Olen polulla 6 tuntia päivässä ilman matkapuhelinpalvelua. Kun palasin vastaamaan, puolet ihmisistä oli varannut jonnekin muualle. Nyt Duet laatii vastaukset hinta- ja matkatietoihini – vain tarkistan ja lähetän, kun palaan navettaan.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Horseback Tour Operator, AZ",
-      "quote": "Saamme kymmeniä sähköposteja, joissa kysytään samaa – painorajoitukset, pukeutumiset, ikävaatimukset. Chiefy ti hoitaa kaiken ja vastaukset kuulostavat täsmälleen minulta. Vieraani eivät tiedä, että se on AI.",
+      "quote": "Saamme kymmeniä sähköposteja, joissa kysytään samaa – painorajoitukset, pukeutumiset, ikävaatimukset. Duet ti hoitaa kaiken ja vastaukset kuulostavat täsmälleen minulta. Vieraani eivät tiedä, että se on AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "Huippukausi tappoi minut. Yli 30 sähköpostiviestiä päivässä juoksumatkojen lisäksi. Chiefy lajittelee varauspyynnöt melusta ja laatii vastaukset, jotka sisältävät kaiken - hinnoittelun, tuotavan, tontin. Sain iltani takaisin.",
+      "quote": "Huippukausi tappoi minut. Yli 30 sähköpostiviestiä päivässä juoksumatkojen lisäksi. Duet lajittelee varauspyynnöt melusta ja laatii vastaukset, jotka sisältävät kaiken - hinnoittelun, tuotavan, tontin. Sain iltani takaisin.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Ratsastusopettaja ja varauspäällikkö, TX",
-      "quote": "Järjestämme auringonlaskuajeluja, aamuajeluja ja yksityistunteja – jokaisella on erilaiset hinnat ja vaatimukset. Chiefy oppi kaiken sen viikossa. Se laatii oikean vastauksen oikealle ajotyypille joka kerta.",
+      "quote": "Järjestämme auringonlaskuajeluja, aamuajeluja ja yksityistunteja – jokaisella on erilaiset hinnat ja vaatimukset. Duet oppi kaiken sen viikossa. Se laatii oikean vastauksen oikealle ajotyypille joka kerta.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "Arkaluonteiset sähköpostit olivat pahimpia – joku kysyi, ovatko ne liian raskaita tai onko hänen lapsensa tarpeeksi vanha. Chiefy ti käsittelee niitä yhtä huolellisesti kuin minäkin. Ammattitaitoinen, ystävällinen ja tarkka. Se yksin on sen arvoista.",
+      "quote": "Arkaluonteiset sähköpostit olivat pahimpia – joku kysyi, ovatko ne liian raskaita tai onko hänen lapsensa tarpeeksi vanha. Duet ti käsittelee niitä yhtä huolellisesti kuin minäkin. Ammattitaitoinen, ystävällinen ja tarkka. Se yksin on sen arvoista.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Kuinka Chiefy käsittelee arkaluonteisia painoa tai kokemusta koskevia kysymyksiä?",
-      "answer": "Chiefy oppii sinun erityiskäytäntösi ja heijastaa sävyäsi. Kun joku kysyy painorajoista tai kokemusvaatimuksista, se vastaa ammattimaisesti ja lämpimästi – jakaa tarvitsemansa tiedot tekemättä siitä kiusallista. Asetat sävyn kerran ja Chiefy seuraa sitä johdonmukaisesti, joten jokainen vieras tuntee olonsa arvostetuksi."
+      "question": "Kuinka Duet käsittelee arkaluonteisia painoa tai kokemusta koskevia kysymyksiä?",
+      "answer": "Duet oppii sinun erityiskäytäntösi ja heijastaa sävyäsi. Kun joku kysyy painorajoista tai kokemusvaatimuksista, se vastaa ammattimaisesti ja lämpimästi – jakaa tarvitsemansa tiedot tekemättä siitä kiusallista. Asetat sävyn kerran ja Duet seuraa sitä johdonmukaisesti, joten jokainen vieras tuntee olonsa arvostetuksi."
     },
     {
-      "question": "Voiko Chiefy käsitellä ryhmävarauksia erilaisilla ratsastajatarpeilla?",
-      "answer": "Kyllä. Chiefy oppii ratsastustyypit, ryhmäkoot, iän vähimmäisvaatimukset ja ratsastajakohtaiset vaatimukset. Kun perhe tai ryhmä lähettää sähköpostia varauksesta, se laatii vastauksen, joka kattaa koko ryhmän hinnoittelun, mitä kunkin ratsastajan tulee tietää ja käytettävissä olevat aikaajat. Tarkistat ja lähetät – edestakaisin ei tarvita."
+      "question": "Voiko Duet käsitellä ryhmävarauksia erilaisilla ratsastajatarpeilla?",
+      "answer": "Kyllä. Duet oppii ratsastustyypit, ryhmäkoot, iän vähimmäisvaatimukset ja ratsastajakohtaiset vaatimukset. Kun perhe tai ryhmä lähettää sähköpostia varauksesta, se laatii vastauksen, joka kattaa koko ryhmän hinnoittelun, mitä kunkin ratsastajan tulee tietää ja käytettävissä olevat aikaajat. Tarkistat ja lähetät – edestakaisin ei tarvita."
     }
   ],
   "pricingNote": "Hinta 100 $/hlö 6 hengen ryhmälle, yksi säästetty kyyti maksaa yli kahden vuoden Pro:n."

@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy untuk Menunggang Kuda & Panduan Jalur |  AI Asisten Email",
-  "metaDescription": "Chiefy membantu operator perjalanan trail merespons email pemesanan secara instan — bahkan dari sadel.  AI -Balasan yang disusun dengan harga, persyaratan pengendara, dan suara Anda.",
+  "pageTitle": "Duet Mail untuk Menunggang Kuda & Panduan Jalur |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu operator perjalanan trail merespons email pemesanan secara instan — bahkan dari sadel.  AI -Balasan yang disusun dengan harga, persyaratan pengendara, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 300+ pemandu jalan setapak",
   "heroHeadline": "Asisten email Anda saat Anda sedang dalam perjalanan",
-  "heroSubline": "Chiefy mempelajari jenis perjalanan Anda, harga, persyaratan pengendara, dan kondisi jalur — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
+  "heroSubline": "Duet mempelajari jenis perjalanan Anda, harga, persyaratan pengendara, dan kondisi jalur — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "jessica t.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ride",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Satu perjalanan grup yang dihemat akan membayar Chiefy selama lebih dari dua tahun."
+    "punchline": "Satu perjalanan grup yang dihemat akan membayar Duet selama lebih dari dua tahun."
   },
-  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan pengendara kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan grup yang hilang yang terkubur di bawah peringatan TripAdvisor.",
-  "draftSubtitle": "Chiefy mempelajari jenis perjalanan Anda, harga, dan persyaratan. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail jalur, harga, dan pakaian yang akan dikenakan. Anda meninjau dan mengirim.",
-  "agentSubtitle": "\"Apakah ada wahana yang buka akhir pekan ini?\" \"Draf balasan untuk Jessica dengan ketersediaan hari Sabtu.\" Chiefy mengetahui inbox dan kalender Anda — tanyakan saja.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan pengendara kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan grup yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari jenis perjalanan Anda, harga, dan persyaratan. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail jalur, harga, dan pakaian yang akan dikenakan. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Apakah ada wahana yang buka akhir pekan ini?\" \"Draf balasan untuk Jessica dengan ketersediaan hari Sabtu.\" Duet mengetahui inbox dan kalender Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "jessica t.",
@@ -127,31 +127,31 @@
     {
       "name": "jaka h.",
       "title": "Pemilik Peternakan & Pemandu Jalur, MT",
-      "quote": "Saya keluar di jalur 6 jam sehari tanpa layanan seluler. Pada saat saya kembali untuk membalas, separuh orang telah memesan di tempat lain. Sekarang Chiefy menyusun tanggapan dengan harga dan detail perjalanan saya — saya baru meninjau dan mengirimkannya ketika saya kembali ke gudang.",
+      "quote": "Saya keluar di jalur 6 jam sehari tanpa layanan seluler. Pada saat saya kembali untuk membalas, separuh orang telah memesan di tempat lain. Sekarang Duet menyusun tanggapan dengan harga dan detail perjalanan saya — saya baru meninjau dan mengirimkannya ketika saya kembali ke gudang.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Operator Tur Menunggang Kuda, AZ",
-      "quote": "Kami menerima lusinan email yang menanyakan hal yang sama — batasan berat badan, apa yang harus dikenakan, persyaratan usia. Chiefy menangani semuanya dan balasannya terdengar persis seperti saya. Tamu saya tidak tahu itu AI.",
+      "quote": "Kami menerima lusinan email yang menanyakan hal yang sama — batasan berat badan, apa yang harus dikenakan, persyaratan usia. Duet menangani semuanya dan balasannya terdengar persis seperti saya. Tamu saya tidak tahu itu AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Panduan Perjalanan Jejak, CO",
-      "quote": "Musim puncak membunuhku. 30+ email sehari selain perjalanan lari. Chiefy mengurutkan permintaan pemesanan berdasarkan kebisingan dan draf balasan yang mencakup segalanya — harga, apa yang harus dibawa, dan jumlah barangnya. Aku mendapatkan malamku kembali.",
+      "quote": "Musim puncak membunuhku. 30+ email sehari selain perjalanan lari. Duet mengurutkan permintaan pemesanan berdasarkan kebisingan dan draf balasan yang mencakup segalanya — harga, apa yang harus dibawa, dan jumlah barangnya. Aku mendapatkan malamku kembali.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Instruktur Berkuda & Manajer Pemesanan, TX",
-      "quote": "Kami menjalankan wahana saat matahari terbenam, wahana pagi hari, dan pelajaran privat — masing-masing dengan harga dan persyaratan berbeda. Chiefy mempelajari semuanya dalam seminggu. Ini menyusun balasan yang tepat untuk jenis perjalanan yang tepat setiap saat.",
+      "quote": "Kami menjalankan wahana saat matahari terbenam, wahana pagi hari, dan pelajaran privat — masing-masing dengan harga dan persyaratan berbeda. Duet mempelajari semuanya dalam seminggu. Ini menyusun balasan yang tepat untuk jenis perjalanan yang tepat setiap saat.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Peternakan Keluarga & Perjalanan Lintas Alam, CA",
-      "quote": "Email sensitif adalah yang terburuk — seseorang menanyakan apakah email tersebut terlalu berat, atau apakah anak mereka sudah cukup umur. Chiefy menanganinya dengan perhatian yang sama seperti saya. Profesional, baik hati, dan akurat. Itu saja sudah sepadan.",
+      "quote": "Email sensitif adalah yang terburuk — seseorang menanyakan apakah email tersebut terlalu berat, atau apakah anak mereka sudah cukup umur. Duet menanganinya dengan perhatian yang sama seperti saya. Profesional, baik hati, dan akurat. Itu saja sudah sepadan.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Bagaimana Chiefy menangani pertanyaan sensitif tentang persyaratan berat badan atau pengalaman?",
-      "answer": "Chiefy mempelajari kebijakan spesifik Anda dan mencerminkan nada bicara Anda. Ketika seseorang bertanya tentang batasan berat badan atau persyaratan pengalaman, mereka akan merespons secara profesional dan hangat — berbagi informasi yang mereka perlukan tanpa membuatnya canggung. Anda mengatur nadanya satu kali dan Chiefy mengikutinya secara konsisten, sehingga setiap tamu merasa dihormati."
+      "question": "Bagaimana Duet menangani pertanyaan sensitif tentang persyaratan berat badan atau pengalaman?",
+      "answer": "Duet mempelajari kebijakan spesifik Anda dan mencerminkan nada bicara Anda. Ketika seseorang bertanya tentang batasan berat badan atau persyaratan pengalaman, mereka akan merespons secara profesional dan hangat — berbagi informasi yang mereka perlukan tanpa membuatnya canggung. Anda mengatur nadanya satu kali dan Duet mengikutinya secara konsisten, sehingga setiap tamu merasa dihormati."
     },
     {
-      "question": "Bisakah Chiefy menangani pemesanan grup dengan kebutuhan pengendara berbeda?",
-      "answer": "Ya. Chiefy mempelajari jenis perjalanan Anda, ukuran grup, usia minimum, dan persyaratan khusus pengendara. Saat sebuah keluarga atau grup mengirim email tentang pemesanan, mereka akan menyusun balasan yang mencakup harga untuk seluruh grup, apa yang perlu diketahui setiap pengendara, dan slot waktu yang tersedia. Anda meninjau dan mengirim — tidak perlu bolak-balik."
+      "question": "Bisakah Duet menangani pemesanan grup dengan kebutuhan pengendara berbeda?",
+      "answer": "Ya. Duet mempelajari jenis perjalanan Anda, ukuran grup, usia minimum, dan persyaratan khusus pengendara. Saat sebuah keluarga atau grup mengirim email tentang pemesanan, mereka akan menyusun balasan yang mencakup harga untuk seluruh grup, apa yang perlu diketahui setiap pengendara, dan slot waktu yang tersedia. Anda meninjau dan mengirim — tidak perlu bolak-balik."
     }
   ],
   "pricingNote": "Dengan harga $100/orang untuk grup beranggotakan 6 orang, satu perjalanan hemat akan membayar Pro selama lebih dari dua tahun."

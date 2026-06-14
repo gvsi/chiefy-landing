@@ -2,7 +2,7 @@
 title: "Hoe u een interactieve e-mailhandtekening maakt die werkt"
 description: "Leer hoe u een interactieve e-mailhandtekening kunt maken om de betrokkenheid, branding en leads te vergroten. Stap-voor-stap handleiding voor freelancers en startups"
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -126,7 +126,7 @@ Een interactieve handtekening is ontworpen om actie uit te lokken: een klik, een
 
 Dit is waar het integreren van uw handtekeningstrategie met slimme e-mailbeheertools een verschil kan maken. Wanneer leads op de link 'Boek een vergadering' klikken die wordt gegenereerd door uw geweldige handtekening, heeft u een systeem nodig om de daaropvolgende planning en communicatie soepel af te handelen. Op dezelfde manier is het handhaven van de professionele toon die wordt bepaald door uw handtekening in elke vervolg-e-mail de sleutel tot het opbouwen van relaties.
 
-Tools die zijn ontworpen voor e-mailproductiviteit, zoals [Chiefy](https://chiefy.com/nl), kunnen deze kloof helpen overbruggen. Stel je voor dat je AI-hulp krijgt om snelle, gepersonaliseerde antwoorden op te stellen die je unieke stem behouden nadat iemand interactie heeft gehad met de CTA van je handtekening. De functies van Chiefy, zoals **AI Triage**, kunnen helpen belangrijke antwoorden naar voren te brengen die zijn gegenereerd op basis van handtekeninginteracties, terwijl de **Authentieke AI Drafting** ervoor zorgt dat uw vervolgacties net zo klinken als u, waardoor de professionaliteit van uw handtekeningprojecten behouden blijft. Het zet de betrokkenheid die door uw handtekening wordt opgewekt, om in goed beheerde, productieve gesprekken.
+Tools die zijn ontworpen voor e-mailproductiviteit, zoals [Duet Mail](https://duetmail.com/nl), kunnen deze kloof helpen overbruggen. Stel je voor dat je AI-hulp krijgt om snelle, gepersonaliseerde antwoorden op te stellen die je unieke stem behouden nadat iemand interactie heeft gehad met de CTA van je handtekening. De functies van Duet Mail, zoals **AI Triage**, kunnen helpen belangrijke antwoorden naar voren te brengen die zijn gegenereerd op basis van handtekeninginteracties, terwijl de **Authentieke AI Drafting** ervoor zorgt dat uw vervolgacties net zo klinken als u, waardoor de professionaliteit van uw handtekeningprojecten behouden blijft. Het zet de betrokkenheid die door uw handtekening wordt opgewekt, om in goed beheerde, productieve gesprekken.
 
 ## Klaar om uw handtekening te activeren?
 

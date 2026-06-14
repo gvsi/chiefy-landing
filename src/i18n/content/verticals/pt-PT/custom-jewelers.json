@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy para joalheiros sob medida | Assistente de email com IA",
-  "metaDescription": "O Chiefy ajuda joalheiros sob medida a responder pedidos de consulta, aprovações de design e dúvidas sobre prazos instantaneamente — até na bancada. Respostas redigidas por IA com o seu processo, preços e tom.",
+  "pageTitle": "Duet Mail para joalheiros sob medida | Assistente de email com IA",
+  "metaDescription": "O Duet Mail ajuda joalheiros sob medida a responder pedidos de consulta, aprovações de design e dúvidas sobre prazos instantaneamente — até na bancada. Respostas redigidas por IA com o seu processo, preços e tom.",
   "heroBadge": "Usado por mais de 300 designers de joias",
   "heroHeadline": "O seu assistente de email enquanto o utilizador está na bancada",
-  "heroSubline": "O Chiefy aprende o seu processo de design, materiais, preços e prazos — e então redige respostas de email para não perder nenhum cliente sob medida por demora na resposta.",
+  "heroSubline": "O Duet aprende o seu processo de design, materiais, preços e prazos — e então redige respostas de email para não perder nenhum cliente sob medida por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "peça sob medida",
     "lostPerMonth": "1",
     "monthlyLoss": "US$5.000",
-    "punchline": "Um cliente recuperado paga mais de quatro anos de Chiefy."
+    "punchline": "Um cliente recuperado paga mais de quatro anos de Duet."
   },
-  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para ver novos pedidos de consulta primeiro, aprovações de design em seguida e nunca newsletters de fornecedores. Chega de perder uma consulta de US$5.000 enterrada sob promoções de fornecedores.",
-  "draftSubtitle": "O Chiefy aprende o seu processo, materiais, preços e tom. Quando chega um pedido de consulta, ele redige uma resposta completa com a sua disponibilidade, o que levar e como seu processo funciona. Reveja e envia.",
-  "agentSubtitle": "\"Como está o anel da Amanda?\" \"Redija uma atualização de prazo para James.\" O Chiefy conhece cada conversa com cliente — é só perguntar.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para ver novos pedidos de consulta primeiro, aprovações de design em seguida e nunca newsletters de fornecedores. Chega de perder uma consulta de US$5.000 enterrada sob promoções de fornecedores.",
+  "draftSubtitle": "O Duet aprende o seu processo, materiais, preços e tom. Quando chega um pedido de consulta, ele redige uma resposta completa com a sua disponibilidade, o que levar e como seu processo funciona. Reveja e envia.",
+  "agentSubtitle": "\"Como está o anel da Amanda?\" \"Redija uma atualização de prazo para James.\" O Duet conhece cada conversa com cliente — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Designer de joias sob medida, LA",
-      "quote": "Cada peça sob medida gera 10-15 emails ao longo de semanas. Multiplique isso por 8 clientes ativos e eu estava afogado. O Chiefy redige respostas de atualização de design, confirmações de consulta, respostas sobre prazo — tudo no o meu tom. Eu reviso entre fundições e envio.",
+      "quote": "Cada peça sob medida gera 10-15 emails ao longo de semanas. Multiplique isso por 8 clientes ativos e eu estava afogado. O Duet redige respostas de atualização de design, confirmações de consulta, respostas sobre prazo — tudo no o meu tom. Eu reviso entre fundições e envio.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Ourives e proprietária de estúdio, Brooklyn",
-      "quote": "Perdi uma comissão de anel de noivado de $7,000 porque levei 3 dias para responder — o casal foi para alguém que respondeu em 2 horas. Desde o Chiefy, o meu tempo de resposta fica abaixo de 30 minutos. Isso não aconteceu de novo.",
+      "quote": "Perdi uma comissão de anel de noivado de $7,000 porque levei 3 dias para responder — o casal foi para alguém que respondeu em 2 horas. Desde o Duet, o meu tempo de resposta fica abaixo de 30 minutos. Isso não aconteceu de novo.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Joalheiro de bancada, Chicago",
-      "quote": "Fico na bancada 8 horas por dia com um maçarico na mão. Não posso parar no meio de uma solda para digitar uma resposta de consulta. O Chiefy redige tudo enquanto eu trabalho — olho no telemóvel, aprovo, pronto.",
+      "quote": "Fico na bancada 8 horas por dia com um maçarico na mão. Não posso parar no meio de uma solda para digitar uma resposta de consulta. O Duet redige tudo enquanto eu trabalho — olho no telemóvel, aprovo, pronto.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Designer de joias de noiva, Austin",
-      "quote": "Na temporada de noivados, recebo mais de 20 pedidos de consulta por semana. O Chiefy aprendeu todo o o meu processo — materiais, prazos, faixas de preço, o que trazer. Ele redige respostas que quase não preciso editar. Um salva-vidas absoluto de novembro a fevereiro.",
+      "quote": "Na temporada de noivados, recebo mais de 20 pedidos de consulta por semana. O Duet aprendeu todo o o meu processo — materiais, prazos, faixas de preço, o que trazer. Ele redige respostas que quase não preciso editar. Um salva-vidas absoluto de novembro a fevereiro.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Especialista em anéis sob medida, Portland",
-      "quote": "Os emails de revisão 3D consumiam as minhas noites. O cliente manda feedback, eu redijo a atualização, vai e volta cinco vezes. Agora o Chiefy cuida das respostas de rotina e eu só entro nas decisões de design. Recuperei as minhas noites.",
+      "quote": "Os emails de revisão 3D consumiam as minhas noites. O cliente manda feedback, eu redijo a atualização, vai e volta cinco vezes. Agora o Duet cuida das respostas de rotina e eu só entro nas decisões de design. Recuperei as minhas noites.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "O Chiefy consegue lidar com emails que têm fotos de referência e anexos de design?",
-      "answer": "Sim. O Chiefy vê a conversa completa por email, incluindo anexos, então entende o contexto quando um cliente envia fotos de inspiração ou feedback de design. Ele não descreve as imagens de volta, mas sabe que o cliente acabou de enviar fotos de referência e redige uma resposta adequada — confirmando o recebimento, fazendo perguntas de esclarecimento sobre o design ou indicando os próximos passos com base no seu fluxo de trabalho habitual."
+      "question": "O Duet consegue lidar com emails que têm fotos de referência e anexos de design?",
+      "answer": "Sim. O Duet vê a conversa completa por email, incluindo anexos, então entende o contexto quando um cliente envia fotos de inspiração ou feedback de design. Ele não descreve as imagens de volta, mas sabe que o cliente acabou de enviar fotos de referência e redige uma resposta adequada — confirmando o recebimento, fazendo perguntas de esclarecimento sobre o design ou indicando os próximos passos com base no seu fluxo de trabalho habitual."
     },
     {
-      "question": "Os os meus projetos sob medida têm conversas longas com mais de 10 mensagens. O Chiefy acompanha isso?",
-      "answer": "É exatamente aí que o Chiefy se destaca. Ele lê todo o histórico da conversa — notas de consulta, revisões de design, escolhas de material, atualizações de prazo — para que cada resposta redigida tenha contexto completo. Quando um cliente pergunta \"qual é o status do o meu anel?\" no email #14, o Chiefy sabe qual anel, em que etapa está e redige uma atualização precisa. Chega de reler 3 meses de emails por conta própria."
+      "question": "Os os meus projetos sob medida têm conversas longas com mais de 10 mensagens. O Duet acompanha isso?",
+      "answer": "É exatamente aí que o Duet se destaca. Ele lê todo o histórico da conversa — notas de consulta, revisões de design, escolhas de material, atualizações de prazo — para que cada resposta redigida tenha contexto completo. Quando um cliente pergunta \"qual é o status do o meu anel?\" no email #14, o Duet sabe qual anel, em que etapa está e redige uma atualização precisa. Chega de reler 3 meses de emails por conta própria."
     }
   ],
   "pricingNote": "Com US$5.000/peça, uma comissão recuperada paga mais de quatro anos de Pro."

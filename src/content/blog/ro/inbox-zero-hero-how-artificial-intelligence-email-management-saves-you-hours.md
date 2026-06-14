@@ -2,7 +2,7 @@
 title: "Inbox Zero Hero: Cum gestionarea e-mailurilor prin inteligență artificială vă economisește ore întregi"
 description: "Nu te mai îneca în e-mailuri! Află cum instrumentele de gestionare a e-mailurilor cu inteligență artificială automatizează sortarea, prioritizează sarcinile și schițează răspunsuri pentru a economisi ore întregi."
 publishedAt: 2025-09-29
-author: "Echipa Chiefy"
+author: "Echipa Duet Mail"
 tags: ["IA", "Gestionarea căsuței poștale", "E-mail"]
 draft: false
 ---
@@ -59,7 +59,7 @@ Aceștia evaluează diverși factori, printre care:
 
 - **Analiza sentimentelor:** Unele instrumente evaluează tonusul emoțional pentru a identifica potențiale probleme critice.
 
-Aici intră în joc funcțiile de triere bazate pe inteligență artificială, precum cele din instrumente precum [Chiefy](/ro), afișând automat e-mailurile care necesită acțiune sau decizii într-un tablou de bord specific. Prin identificarea și evidențierea mesajelor cu prioritate ridicată, aceste sisteme reduc dramatic timpul de sortare și minimizează riscul de a omite informații critice.
+Aici intră în joc funcțiile de triere bazate pe inteligență artificială, precum cele din instrumente precum [Duet Mail](/ro), afișând automat e-mailurile care necesită acțiune sau decizii într-un tablou de bord specific. Prin identificarea și evidențierea mesajelor cu prioritate ridicată, aceste sisteme reduc dramatic timpul de sortare și minimizează riscul de a omite informații critice.
 
 ### Redactare bazată pe inteligență artificială: Viteza întâlnește autenticitatea
 
@@ -67,7 +67,7 @@ Te uiți fix la o fereastră de răspuns goală? Inteligența artificială te po
 
 Totuși, o preocupare comună este că e-mailurile generate de inteligența artificială ar putea suna generic sau robotic. În timp ce inteligența artificială de bază ar putea produce text standard, instrumente sofisticate abordează această provocare. Cheia este **personalizarea**. Asistenții inteligenți artificiali buni vă permit să ajustați tonul (formal, casual, prietenos) și lungimea.
 
-Cele mai bune instrumente merg mai departe, învățând tiparele tale unice de comunicare. De exemplu, funcția de redactare autentică cu ajutorul inteligenței artificiale (AI Drafting) a [Chiefy](/ro) analizează e-mailurile tale anterioare pentru a genera răspunsuri care sună cu adevărat ca tine, surprinzând vocabularul și nuanțele tale stilistice. Nu uita, scopul nu este de a-ți înlocui vocea, ci de a o completa. Revizuiește și ajustează întotdeauna schițele cu inteligență artificială pentru a adăuga un context specific sau o notă personală înainte de a apăsa butonul de trimitere.
+Cele mai bune instrumente merg mai departe, învățând tiparele tale unice de comunicare. De exemplu, funcția de redactare autentică cu ajutorul inteligenței artificiale (AI Drafting) a [Duet Mail](/ro) analizează e-mailurile tale anterioare pentru a genera răspunsuri care sună cu adevărat ca tine, surprinzând vocabularul și nuanțele tale stilistice. Nu uita, scopul nu este de a-ți înlocui vocea, ci de a o completa. Revizuiește și ajustează întotdeauna schițele cu inteligență artificială pentru a adăuga un context specific sau o notă personală înainte de a apăsa butonul de trimitere.
 
 ### Îmblânzirea firelor lungi cu sumarizarea prin inteligență artificială
 
@@ -79,7 +79,7 @@ Există două abordări principale:
 
 - **Rezumat abstract:** Înțelege contextul și generează propoziții *noi* pentru a transmite sensul esențial, rezultând adesea rezumate mai fluente.
 
-Indiferent de metodă, beneficiul este clar: înțelegeți esența conversației în câteva secunde, nu în minute. Un [studiu Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) a indicat că sumarizarea prin inteligență artificială poate crește productivitatea utilizatorilor cu până la 32%. Sumarizarea prin inteligență artificială, la fel ca funcția Smart Sumarization din [Chiefy](/ro), extrage rapid punctele cheie și acțiunile de acțiune, chiar amintindu-vă contextul din interacțiunile anterioare, economisind un timp neprețuit de citire.
+Indiferent de metodă, beneficiul este clar: înțelegeți esența conversației în câteva secunde, nu în minute. Un [studiu Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) a indicat că sumarizarea prin inteligență artificială poate crește productivitatea utilizatorilor cu până la 32%. Sumarizarea prin inteligență artificială, la fel ca funcția Smart Sumarization din [Duet Mail](/ro), extrage rapid punctele cheie și acțiunile de acțiune, chiar amintindu-vă contextul din interacțiunile anterioare, economisind un timp neprețuit de citire.
 
 
 Sumarizarea prin inteligență artificială condensează firele lungi de e-mailuri în puncte cheie, economisind semnificativ timp de citire.

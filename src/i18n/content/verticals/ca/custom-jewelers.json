@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy per a joiers personalitzats | AI Assistent de correu electrònic",
-  "metaDescription": "Chiefy ajuda els joiers personalitzats a respondre a les sol·licituds de consulta, aprovacions de disseny i preguntes de cronologia a l'instant, fins i tot mentre estan al banc de treball. Respostes redactades per AI amb el vostre procés, preus i veu.",
+  "pageTitle": "Duet Mail per a joiers personalitzats | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els joiers personalitzats a respondre a les sol·licituds de consulta, aprovacions de disseny i preguntes de cronologia a l'instant, fins i tot mentre estan al banc de treball. Respostes redactades per AI amb el vostre procés, preus i veu.",
   "heroBadge": "Amb la confiança de més de 300 dissenyadors de joieria",
   "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al banc",
-  "heroSubline": "Chiefy aprèn el procés de disseny, els materials, els preus i les cronologies; després redacta les respostes per correu electrònic perquè no perdis mai un client personalitzat per una resposta lenta.",
+  "heroSubline": "Duet aprèn el procés de disseny, els materials, els preus i les cronologies; després redacta les respostes per correu electrònic perquè no perdis mai un client personalitzat per una resposta lenta.",
   "inboxEmails": [
     {
       "from": "Rachel i David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "peça personalitzada",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Un client desat paga més de quatre anys de Chiefy."
+    "punchline": "Un client desat paga més de quatre anys de Duet."
   },
-  "categorizationSubtitle": "Chiefy etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de consulta noves, les aprovacions de dissenys en segon lloc i mai els butlletins de proveïdors. Ja no us perdeu una consulta de 5.000 dòlars enterrada sota promocions de proveïdors.",
-  "draftSubtitle": "Chiefy aprèn el vostre procés, materials, preus i veu. Quan arriba una sol·licitud de consulta, redacta una resposta completa amb la vostra disponibilitat, què heu de portar i com funciona el vostre procés. Tu revisa i envia.",
-  "agentSubtitle": "\"On som amb l'anell de l'Amanda?\" \"Esborra una actualització de la cronologia per a James\". Chiefy coneix tots els fils del client; només cal que pregunteu.",
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de consulta noves, les aprovacions de dissenys en segon lloc i mai els butlletins de proveïdors. Ja no us perdeu una consulta de 5.000 dòlars enterrada sota promocions de proveïdors.",
+  "draftSubtitle": "Duet aprèn el vostre procés, materials, preus i veu. Quan arriba una sol·licitud de consulta, redacta una resposta completa amb la vostra disponibilitat, què heu de portar i com funciona el vostre procés. Tu revisa i envia.",
+  "agentSubtitle": "\"On som amb l'anell de l'Amanda?\" \"Esborra una actualització de la cronologia per a James\". Duet coneix tots els fils del client; només cal que pregunteu.",
   "categorizationEmails": [
     {
       "from": "Raquel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Dissenyador de joies personalitzades, LA",
-      "quote": "Cada peça personalitzada genera entre 10 i 15 correus electrònics durant setmanes. Multipliqui això per 8 clients actius i m'estava ofegant. Chiefy redacta respostes d'actualització del disseny, confirmacions de consultes, respostes de cronologia, tot a la meva veu. Reviso entre càstings i premeu enviar.",
+      "quote": "Cada peça personalitzada genera entre 10 i 15 correus electrònics durant setmanes. Multipliqui això per 8 clients actius i m'estava ofegant. Duet redacta respostes d'actualització del disseny, confirmacions de consultes, respostes de cronologia, tot a la meva veu. Reviso entre càstings i premeu enviar.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "Vaig perdre una comissió d'anell de compromís de 7.000 dòlars perquè vaig trigar 3 dies a respondre: la parella va anar a algú que va respondre en 2 hores. Des de Chiefy, el meu temps de resposta és inferior a 30 minuts. Això no ha tornat a passar.",
+      "quote": "Vaig perdre una comissió d'anell de compromís de 7.000 dòlars perquè vaig trigar 3 dies a respondre: la parella va anar a algú que va respondre en 2 hores. Des de Duet, el meu temps de resposta és inferior a 30 minuts. Això no ha tornat a passar.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Jeweller, Chicago",
-      "quote": "Estic al banc 8 hores al dia amb una torxa a la mà. No puc aturar la soldadura mitjana per escriure una resposta de consulta. Chiefy ho redacta tot mentre treballo: miro el meu telèfon, aprovo, he fet.",
+      "quote": "Estic al banc 8 hores al dia amb una torxa a la mà. No puc aturar la soldadura mitjana per escriure una resposta de consulta. Duet ho redacta tot mentre treballo: miro el meu telèfon, aprovo, he fet.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Dissenyador de joies de núvia, Austin",
-      "quote": "Durant la temporada de compromís, rebo més de 20 sol·licituds de consulta a la setmana. Chiefy vaig aprendre tot el meu procés: materials, terminis, nivells de preus, què he de portar. Esborra respostes que amb prou feines necessito editar. Salvavides absolut de novembre a febrer.",
+      "quote": "Durant la temporada de compromís, rebo més de 20 sol·licituds de consulta a la setmana. Duet vaig aprendre tot el meu procés: materials, terminis, nivells de preus, què he de portar. Esborra respostes que amb prou feines necessito editar. Salvavides absolut de novembre a febrer.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Especialista en anell personalitzat, Portland",
-      "quote": "Els correus electrònics de revisió 3D solien menjar-me les nits. El client envia comentaris, jo redacto l'actualització, d'anada i tornada cinc vegades. Ara Chiefy s'encarrega de les respostes rutinàries i només interveno per a les decisions de disseny. Vaig recuperar les nits.",
+      "quote": "Els correus electrònics de revisió 3D solien menjar-me les nits. El client envia comentaris, jo redacto l'actualització, d'anada i tornada cinc vegades. Ara Duet s'encarrega de les respostes rutinàries i només interveno per a les decisions de disseny. Vaig recuperar les nits.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Chiefy pot gestionar correus electrònics amb fotos de referència i fitxers adjunts de disseny?",
-      "answer": "Sí. Chiefy veu el fil de correu electrònic complet, inclosos els fitxers adjunts, de manera que entén el context quan un client envia fotos d'inspiració o comentaris de disseny. No descriurà les imatges de nou, però sap que un client acaba d'enviar fotos de referència i redacta una resposta adequada: confirmant la recepció, fent preguntes clarificadores sobre el disseny o proporcionant els passos següents basats en el vostre flux de treball habitual."
+      "question": "Duet pot gestionar correus electrònics amb fotos de referència i fitxers adjunts de disseny?",
+      "answer": "Sí. Duet veu el fil de correu electrònic complet, inclosos els fitxers adjunts, de manera que entén el context quan un client envia fotos d'inspiració o comentaris de disseny. No descriurà les imatges de nou, però sap que un client acaba d'enviar fotos de referència i redacta una resposta adequada: confirmant la recepció, fent preguntes clarificadores sobre el disseny o proporcionant els passos següents basats en el vostre flux de treball habitual."
     },
     {
-      "question": "Els meus projectes personalitzats tenen fils de correu electrònic llargs amb més de 10 missatges. Chiefy els pot seguir?",
-      "answer": "Aquí és exactament on brilla Chiefy. Llegeix tot l'historial del fil (notes de consulta, revisions de disseny, eleccions de materials, actualitzacions de cronologia), de manera que cada resposta redactada té un context complet. Quan un client pregunta \"Quin és l'estat del meu anell?\" al correu electrònic núm. 14, Chiefy sap quin anell, en quina fase es troba i elabora una actualització precisa. No més tornar a llegir 3 mesos de correus electrònics tu mateix."
+      "question": "Els meus projectes personalitzats tenen fils de correu electrònic llargs amb més de 10 missatges. Duet els pot seguir?",
+      "answer": "Aquí és exactament on brilla Duet. Llegeix tot l'historial del fil (notes de consulta, revisions de disseny, eleccions de materials, actualitzacions de cronologia), de manera que cada resposta redactada té un context complet. Quan un client pregunta \"Quin és l'estat del meu anell?\" al correu electrònic núm. 14, Duet sap quin anell, en quina fase es troba i elabora una actualització precisa. No més tornar a llegir 3 mesos de correus electrònics tu mateix."
     }
   ],
   "pricingNote": "Amb 5.000 dòlars per peça, una comissió estalviada paga més de quatre anys de Pro."

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy | Pembantu E-mel AI untuk Gmail dan Outlook",
-    "description": "Pembantu e-mel AI Chiefy meringkaskan e-mel, menyediakan draf balasan, dan menyusun peti masuk anda. Berfungsi dengan Gmail dan Outlook. Jimat 4+ jam setiap minggu."
+    "title": "Duet Mail | Pembantu E-mel AI untuk Gmail dan Outlook",
+    "description": "Pembantu e-mel AI Duet Mail meringkaskan e-mel, menyediakan draf balasan, dan menyusun peti masuk anda. Berfungsi dengan Gmail dan Outlook. Jimat 4+ jam setiap minggu."
   },
   "hero": {
     "badge": "Kini tersedia untuk Gmail dan Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Draf e-mel yang kedengaran seperti anda",
-        "description": "Penulis e-mel AI Chiefy menyediakan draf untuk e-mel anda yang paling penting. Ia mempelajari nada dan gaya penulisan anda.",
+        "description": "Penulis e-mel AI Duet menyediakan draf untuk e-mel anda yang paling penting. Ia mempelajari nada dan gaya penulisan anda.",
         "ariaLabel": "Draf e-mel yang kedengaran seperti anda",
         "mockCopy": {
           "draftedColdEmail": "Saya telah menyediakan draf e-mel cold yang diperibadikan untuk John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Peringatan Pintar",
-        "description": "Tetapkan dan lupakannya. Chiefy AI ingat untuk membuat susulan apabila orang lain tidak membalas, supaya tiada perkara yang terlepas pandang.",
+        "description": "Tetapkan dan lupakannya. Duet AI ingat untuk membuat susulan apabila orang lain tidak membalas, supaya tiada perkara yang terlepas pandang.",
         "ariaLabel": "Peringatan pintar",
         "mockCopy": {
           "header": "Peringatan Pintar Berkuasa AI",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Penganjuran e-mel dan pengkategorian peti masuk pintar",
     "badge": "Penganjuran",
-    "title": "Chiefy menyusun peti masuk anda",
+    "title": "Duet menyusun peti masuk anda",
     "subtitle": "Pengkategorian automatik menapis gangguan dan memaparkan perkara yang penting. Lihat serta-merta perkara yang memerlukan tindakan, perkara yang hanya untuk makluman, dan perkara yang boleh ditangguhkan.",
     "windowTitle": "Peti masuk",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "Penyusunan e-mel AI dan penjanaan balasan",
     "badge": "Penyusunan",
-    "title": "Chiefy menyusun draf dalam suara anda",
-    "subtitle": "Chiefy mempelajari cara anda menulis dan merangka balasan yang sepadan dengan nada anda. Semak, laraskan jika perlu, dan hantar dalam beberapa saat.",
+    "title": "Duet menyusun draf dalam suara anda",
+    "subtitle": "Duet mempelajari cara anda menulis dan merangka balasan yang sepadan dengan nada anda. Semak, laraskan jika perlu, dan hantar dalam beberapa saat.",
     "windowTitle": "Mesej Baharu",
     "fieldLabels": {
       "to": "Kepada:",
@@ -252,8 +252,8 @@
     "ariaLabel": "Kecerdasan e-mel dan pembantu AI",
     "badge": "Kecerdasan",
     "title": "Tanya apa sahaja tentang e-mel anda",
-    "subtitle": "Minta Chiefy mencari e-mel, menyemak kalendar anda, atau merangka balasan. Ia memahami peti masuk anda dan menjawab serta-merta.",
-    "windowTitle": "Agen Chiefy",
+    "subtitle": "Minta Duet mencari e-mel, menyemak kalendar anda, atau merangka balasan. Ia memahami peti masuk anda dan menjawab serta-merta.",
+    "windowTitle": "Agen Duet",
     "onlineLabel": "Dalam Talian",
     "initialUserMessage": "Bolehkah anda cari invois Stripe yang dihantar oleh Accounting?",
     "processingText": "Sedang mencari peti masuk...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Pekerja bebas",
-        "quote": "Berbaloi setiap sen. Masa yang saya jimatkan pada e-mel membayar Chiefy 10x ganda. Tak dapat bayangkan bekerja tanpanya sekarang.",
+        "quote": "Berbaloi setiap sen. Masa yang saya jimatkan pada e-mel membayar Duet Mail 10x ganda. Tak dapat bayangkan bekerja tanpanya sekarang.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Perunding",
-        "quote": "Sebagai seorang perunding, setiap minit amat berharga. Chiefy bukan sekadar menjimatkan masa saya—ia menjadikan komunikasi emel saya lebih tajam.",
+        "quote": "Sebagai seorang perunding, setiap minit amat berharga. Duet Mail bukan sekadar menjimatkan masa saya—ia menjadikan komunikasi emel saya lebih tajam.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Organisasi asas untuk memulakan"
           },
           {
-            "title": "Pembantu Chiefy",
+            "title": "Pembantu Duet",
             "description": "Cuba pembantu AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Pembantu Chiefy",
+            "title": "Pembantu Duet",
             "description": "Sembang untuk mencari, draf, atur & banyak lagi",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "SOKONGAN",
     "contactHeading": "Masih ada soalan?",
     "contactCta": "Hubungi kami →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Bagaimanakah Chiefy melindungi data e-mel saya?",
+        "question": "Bagaimanakah Duet Mail melindungi data e-mel saya?",
         "answer": "Keselamatan anda ialah keutamaan utama kami. Kami menggunakan OAuth 2.0 untuk pengesahan selamat dengan kedua-dua Google dan Microsoft. Kandungan e-mel disulitkan semasa disimpan menggunakan penyulitan peringkat medan di sisi klien, dan kami mematuhi prinsip keistimewaan minimum untuk akses API. Bagi integrasi Google kami, kami menjalani penilaian keselamatan CASA tahunan Google."
       },
       {
         "question": "Bagaimanakah ciri ringkasan e-mel berfungsi?",
-        "answer": "Chiefy menggunakan AI lanjutan untuk menganalisis utas e-mel anda dan menjana gambaran keseluruhan ringkas yang menyerlahkan perkara utama, keputusan, dan item tindakan. Ini membantu anda memahami konteks dengan cepat tanpa perlu membaca keseluruhan utas."
+        "answer": "Duet Mail menggunakan AI lanjutan untuk menganalisis utas e-mel anda dan menjana gambaran keseluruhan ringkas yang menyerlahkan perkara utama, keputusan, dan item tindakan. Ini membantu anda memahami konteks dengan cepat tanpa perlu membaca keseluruhan utas."
       },
       {
-        "question": "Kebenaran apa yang diperlukan oleh Chiefy?",
-        "answer": "Chiefy memerlukan akses kepada e-mel anda untuk menyediakan ringkasan, mengekstrak item tindakan, menjana kandungan, dan menghantar e-mel anda. Kami hanya meminta kebenaran yang benar-benar kami perlukan. Anda boleh menyemak dan menarik balik kebenaran ini pada bila-bila masa dalam tetapan Akaun Google atau Akaun Microsoft anda."
+        "question": "Kebenaran apa yang diperlukan oleh Duet Mail?",
+        "answer": "Duet Mail memerlukan akses kepada e-mel anda untuk menyediakan ringkasan, mengekstrak item tindakan, menjana kandungan, dan menghantar e-mel anda. Kami hanya meminta kebenaran yang benar-benar kami perlukan. Anda boleh menyemak dan menarik balik kebenaran ini pada bila-bila masa dalam tetapan Akaun Google atau Akaun Microsoft anda."
       },
       {
         "question": "Apa yang termasuk dalam percubaan percuma?",
         "answer": "Percubaan percuma 14 hari termasuk akses penuh kepada semua ciri Pro: ringkasan e-mel tanpa had, pengekstrakan item tindakan, penulis e-mel AI (menjana e-mel dan draf tanpa sebarang had), dan templat e-mel tersuai. Log masuk dengan Google atau Microsoft untuk mula menjimatkan masa dalam pengurusan e-mel."
       },
       {
-        "question": "Bolehkah saya menggunakan Chiefy dengan pembekal e-mel lain?",
-        "answer": "Chiefy menyokong Gmail, Google Workspace, dan Microsoft Outlook. Log masuk dengan akaun Google atau Microsoft anda untuk bermula."
+        "question": "Bolehkah saya menggunakan Duet Mail dengan pembekal e-mel lain?",
+        "answer": "Duet Mail menyokong Gmail, Google Workspace, dan Microsoft Outlook. Log masuk dengan akaun Google atau Microsoft anda untuk bermula."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Pengaki laman web",
-    "brandIconAlt": "Ikon Chiefy",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "Ikon Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Pembantu E-mel AI yang menjimatkan anda berjam-jam setiap minggu",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Terokai",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "Pulangan pelaburan",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "Pada {pricePerBooking} setiap {bookingUnit}, kehilangan hanya {lostPerMonth} akibat balasan lambat =",
     "lossSuffix": "/bulan hilang",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - Pembantu E-mel AI untuk Gmail dan Outlook",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Pembantu E-mel AI untuk Gmail dan Outlook",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Sokongan Pelanggan",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "Pembantu e-mel AI untuk Gmail dan Outlook yang secara automatik meringkaskan e-mel, mendraf balasan dalam suara anda, dan menyusun peti masuk anda untuk menjimatkan berjam-jam setiap minggu.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Web",
     "browserRequirements": "Memerlukan JavaScript. Berfungsi dengan Gmail, Google Workspace, dan Microsoft Outlook.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "https://duetmail.com/ms",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "Bagaimanakah Chiefy melindungi data e-mel saya?",
+        "question": "Bagaimanakah Duet Mail melindungi data e-mel saya?",
         "answer": "Keselamatan anda ialah keutamaan utama kami. Kami menggunakan OAuth 2.0 untuk pengesahan selamat dengan Google dan Microsoft. Kandungan e-mel dienkripsi semasa disimpan menggunakan penyulitan tahap medan sisi klien, dan kami mematuhi prinsip akses paling minimum untuk akses API. Untuk integrasi Google kami, kami menjalani penilaian keselamatan CASA tahunan Google."
       },
       {
         "question": "Bagaimanakah ciri ringkasan e-mel berfungsi?",
-        "answer": "Chiefy menggunakan AI lanjutan untuk menganalisis rangkaian e-mel anda dan menjana gambaran keseluruhan ringkas yang menyorot perkara utama, keputusan, dan item tindakan. Ini membantu anda memahami konteks dengan cepat tanpa membaca keseluruhan rangkaian."
+        "answer": "Duet Mail menggunakan AI lanjutan untuk menganalisis rangkaian e-mel anda dan menjana gambaran keseluruhan ringkas yang menyorot perkara utama, keputusan, dan item tindakan. Ini membantu anda memahami konteks dengan cepat tanpa membaca keseluruhan rangkaian."
       },
       {
-        "question": "Apakah kebenaran yang diperlukan oleh Chiefy?",
-        "answer": "Chiefy memerlukan akses kepada e-mel anda untuk menyediakan ringkasan, mengekstrak item tindakan, menjana kandungan, dan menghantar e-mel anda. Kami hanya meminta kebenaran yang benar-benar kami perlukan. Anda boleh menyemak dan membatalkan kebenaran ini pada bila-bila masa dalam tetapan Akaun Google atau Akaun Microsoft anda."
+        "question": "Apakah kebenaran yang diperlukan oleh Duet Mail?",
+        "answer": "Duet Mail memerlukan akses kepada e-mel anda untuk menyediakan ringkasan, mengekstrak item tindakan, menjana kandungan, dan menghantar e-mel anda. Kami hanya meminta kebenaran yang benar-benar kami perlukan. Anda boleh menyemak dan membatalkan kebenaran ini pada bila-bila masa dalam tetapan Akaun Google atau Akaun Microsoft anda."
       },
       {
         "question": "Apakah yang termasuk dalam percubaan percuma?",
         "answer": "Percubaan percuma 14 hari termasuk akses penuh kepada semua ciri Pro: ringkasan e-mel tanpa had, pengekstrakan item tindakan, penulis e-mel AI (menjana e-mel dan draf tanpa sebarang had), dan templat e-mel tersuai. Log masuk dengan Google atau Microsoft untuk mula menjimatkan masa dalam pengurusan e-mel."
       },
       {
-        "question": "Bolehkah saya menggunakan Chiefy dengan penyedia e-mel lain?",
-        "answer": "Chiefy menyokong Gmail, Google Workspace, dan Microsoft Outlook. Log masuk dengan akaun Google atau Microsoft anda untuk bermula."
+        "question": "Bolehkah saya menggunakan Duet Mail dengan penyedia e-mel lain?",
+        "answer": "Duet Mail menyokong Gmail, Google Workspace, dan Microsoft Outlook. Log masuk dengan akaun Google atau Microsoft anda untuk bermula."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

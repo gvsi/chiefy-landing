@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Chiefy per tour ATV e UTV | Assistente e-mail AI",
-  "metaDescription": "Chiefy aiuta le guide turistiche ATV e UTV a rispondere istantaneamente alle e-mail di prenotazione, anche dal percorso. Risposte elaborate dall'intelligenza artificiale con prezzi, requisiti e voce.",
+  "pageTitle": "Duet Mail per tour ATV e UTV | Assistente e-mail AI",
+  "metaDescription": "Duet Mail aiuta le guide turistiche ATV e UTV a rispondere istantaneamente alle e-mail di prenotazione, anche dal percorso. Risposte elaborate dall'intelligenza artificiale con prezzi, requisiti e voce.",
   "heroBadge": "Scelto da oltre 200 guide turistiche",
   "heroHeadline": "Il tuo assistente email mentre sei in viaggio",
-  "heroSubline": "Chiefy apprende i tipi di tour, i prezzi e i requisiti dei ciclisti, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
+  "heroSubline": "Duet apprende i tipi di tour, i prezzi e i requisiti dei ciclisti, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "gruppo (4 macchine)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Una prenotazione di gruppo salvata paga un anno di Chiefy."
+    "punchline": "Una prenotazione di gruppo salvata paga un anno di Duet."
   },
-  "categorizationSubtitle": "Chiefy tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande sull'assicurazione e mai il rumore. Non perderai più un'indagine di gruppo sepolta sotto gli avvisi TripAdvisor.",
-  "draftSubtitle": "Chiefy apprende i percorsi del tour, i prezzi e i requisiti dei ciclisti. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del viaggio, i prezzi e cosa portare. Rivedi e invii.",
-  "agentSubtitle": "\"Ci sono gruppi prenotati per questo fine settimana?\" \"Scrivi una risposta a Rachel con disponibilità per sabato.\" Chiefy conosce la tua casella di posta e il tuo programma: basta chiedere.",
+  "categorizationSubtitle": "Duet tagga automaticamente ogni email in modo da visualizzare prima le richieste di prenotazione, poi le domande sull'assicurazione e mai il rumore. Non perderai più un'indagine di gruppo sepolta sotto gli avvisi TripAdvisor.",
+  "draftSubtitle": "Duet apprende i percorsi del tour, i prezzi e i requisiti dei ciclisti. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del viaggio, i prezzi e cosa portare. Rivedi e invii.",
+  "agentSubtitle": "\"Ci sono gruppi prenotati per questo fine settimana?\" \"Scrivi una risposta a Rachel con disponibilità per sabato.\" Duet conosce la tua casella di posta e il tuo programma: basta chiedere.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "Guida ATV, Utah meridionale",
-      "quote": "Conduco tour di 8 ore attraverso i canyon con servizio zero cell. Quando sono tornato, metà delle mie e-mail di prenotazione erano diventate fredde. Chiefy redige le risposte con i miei prezzi e le informazioni sulla traccia: le rivedo semplicemente alla fine della giornata.",
+      "quote": "Conduco tour di 8 ore attraverso i canyon con servizio zero cell. Quando sono tornato, metà delle mie e-mail di prenotazione erano diventate fredde. Duet redige le risposte con i miei prezzi e le informazioni sulla traccia: le rivedo semplicemente alla fine della giornata.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "Tour operator UTV, Colorado",
-      "quote": "Organizziamo tour 7 giorni su 7 e le sole domande sull'assicurazione e sulla rinuncia mi stavano divorando le mattine. Chiefy gestisce tutto: requisiti del ciclista, limiti di età, cosa portare. Sembra esattamente come me.",
+      "quote": "Organizziamo tour 7 giorni su 7 e le sole domande sull'assicurazione e sulla rinuncia mi stavano divorando le mattine. Duet gestisce tutto: requisiti del ciclista, limiti di età, cosa portare. Sembra esattamente come me.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Guida turistica in jeep, Moab",
-      "quote": "Le persone inviano email chiedendo quale percorso è adatto al loro gruppo, quale livello di esperienza hanno bisogno, se i bambini possono pedalare. Le stesse 5 domande ancora e ancora. Chiefy li inchioda tutti.",
+      "quote": "Le persone inviano email chiedendo quale percorso è adatto al loro gruppo, quale livello di esperienza hanno bisogno, se i bambini possono pedalare. Le stesse 5 domande ancora e ancora. Duet li inchioda tutti.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicola S.",
       "title": "Avventure fuoristrada, Arizona",
-      "quote": "Trascorrevo più di un'ora ogni notte a rispondere alle stesse domande sulla disponibilità. Ora Chiefy redige le risposte mentre sono in pista. Il mio tempo di risposta è passato da ore a minuti.",
+      "quote": "Trascorrevo più di un'ora ogni notte a rispondere alle stesse domande sulla disponibilità. Ora Duet redige le risposte mentre sono in pista. Il mio tempo di risposta è passato da ore a minuti.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Tour in ATV per famiglie, Sedona",
-      "quote": "Riceviamo molte famiglie che chiedono informazioni sui percorsi per principianti e sui requisiti di età. Chiefy ha appreso tutte le nostre opzioni di tour e consiglia quella giusta in ogni risposta. I clienti non possono notare la differenza.",
+      "quote": "Riceviamo molte famiglie che chiedono informazioni sui percorsi per principianti e sui requisiti di età. Duet ha appreso tutte le nostre opzioni di tour e consiglia quella giusta in ogni risposta. I clienti non possono notare la differenza.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
   "verticalFaqs": [
     {
-      "question": "Chiefy gestisce le domande sull'assicurazione e sulla rinuncia?",
-      "answer": "Sì. Chiefy apprende i requisiti del tuo ciclista: assicurazione di responsabilità civile, limiti di età, dettagli di esenzione, cosa devono portare i ciclisti. Quando qualcuno invia un'e-mail chiedendo di cosa ha bisogno prima del tour, Chiefy redige una risposta completa con tutti i dettagli. Rivedi e tocca Invia."
+      "question": "Duet gestisce le domande sull'assicurazione e sulla rinuncia?",
+      "answer": "Sì. Duet apprende i requisiti del tuo ciclista: assicurazione di responsabilità civile, limiti di età, dettagli di esenzione, cosa devono portare i ciclisti. Quando qualcuno invia un'e-mail chiedendo di cosa ha bisogno prima del tour, Duet redige una risposta completa con tutti i dettagli. Rivedi e tocca Invia."
     },
     {
-      "question": "Sono in giro tutto il giorno senza servizio cellulare. In che modo Chiefy aiuta?",
-      "answer": "Questo è esattamente il motivo per cui le guide adorano Chiefy. Mentre conduci un tour di 6-8 ore senza segnale, le richieste di prenotazione si accumulano. Chiefy bozze risponde a ognuna di esse: prezzi, disponibilità, luogo dell'incontro, cosa indossare. Quando torni, rivedi le bozze e le invii. La maggior parte delle guide ci dice che questo consente loro di risparmiare 1-2 ore di posta elettronica al giorno durante l'alta stagione."
+      "question": "Sono in giro tutto il giorno senza servizio cellulare. In che modo Duet aiuta?",
+      "answer": "Questo è esattamente il motivo per cui le guide adorano Duet. Mentre conduci un tour di 6-8 ore senza segnale, le richieste di prenotazione si accumulano. Duet bozze risponde a ognuna di esse: prezzi, disponibilità, luogo dell'incontro, cosa indossare. Quando torni, rivedi le bozze e le invii. La maggior parte delle guide ci dice che questo consente loro di risparmiare 1-2 ore di posta elettronica al giorno durante l'alta stagione."
     }
   ],
   "pricingNote": "A $ 200/macchina, un gruppo di 4 persone salvato paga più di un anno di Pro."

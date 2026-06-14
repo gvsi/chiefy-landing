@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Chiefy para sa Hot Air Balloon Rides | AI Email Assistant",
-  "metaDescription": "Tinutulungan ng Chiefy ang mga balloon pilot na tumugon kaagad sa mga booking email — kahit na sa pagsikat ng araw na flight. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga patakaran sa lagay ng panahon, at boses.",
+  "pageTitle": "Duet Mail para sa Hot Air Balloon Rides | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Duet Mail ang mga balloon pilot na tumugon kaagad sa mga booking email — kahit na sa pagsikat ng araw na flight. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga patakaran sa lagay ng panahon, at boses.",
   "heroBadge": "Pinagkakatiwalaan ng 200+ balloon pilot",
   "heroHeadline": "Ang iyong email assistant habang nasa ere ka",
-  "heroSubline": "Natutunan ng Chiefy ang iyong mga iskedyul ng flight, pagpepresyo, at mga patakaran sa lagay ng panahon — pagkatapos ay mag-draft ng mga tugon sa email upang hindi ka mawalan ng booking habang naglulunsad ka sa pagsikat ng araw.",
+  "heroSubline": "Natutunan ng Duet ang iyong mga iskedyul ng flight, pagpepresyo, at mga patakaran sa lagay ng panahon — pagkatapos ay mag-draft ng mga tugon sa email upang hindi ka mawalan ng booking habang naglulunsad ka sa pagsikat ng araw.",
   "inboxEmails": [
     {
       "from": "Rachel at Dan T.",
@@ -49,7 +49,7 @@
     "bookingUnit": "paglipad",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Ang isang naka-save na flight ay nagbabayad para sa isang taon ng Chiefy."
+    "punchline": "Ang isang naka-save na flight ay nagbabayad para sa isang taon ng Duet."
   },
   "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong sa lagay ng panahon, at hindi kailanman ingay. Wala nang nawawalang flight inquiry na nakabaon sa ilalim ng mga alerto sa newsletter.",
   "draftSubtitle": "Natutunan ng duet ang iyong pagpepresyo, mga patakaran sa panahon, at tono. Kapag tumama ang isang booking inquiry, nag-draft ito ng kumpletong tugon na may mga detalye ng flight, impormasyon ng meeting, at kung ano ang isusuot. I-review at ipadala mo.",
@@ -127,7 +127,7 @@
     {
       "name": "Kapitan Mike L.",
       "title": "Balloon Pilot, MN",
-      "quote": "One-man operation ako — lumilipad ako, crew ako, sumasagot ako ng mga email. Maliban sa 5 AM ako ay nagpapalaki, hindi nagre-reply. Chiefy draft ng mga tugon sa bawat 'lilipad ba tayo bukas?' mensahe sa magdamag. Gumising ako, tingnan ang panahon, at pindutin ang ipadala.",
+      "quote": "One-man operation ako — lumilipad ako, crew ako, sumasagot ako ng mga email. Maliban sa 5 AM ako ay nagpapalaki, hindi nagre-reply. Duet draft ng mga tugon sa bawat 'lilipad ba tayo bukas?' mensahe sa magdamag. Gumising ako, tingnan ang panahon, at pindutin ang ipadala.",
       "avatarKey": "michael"
     },
     {
@@ -139,13 +139,13 @@
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Ang peak season ay nangangahulugang 4-6 na flight sa isang linggo at bawat pasahero ay nag-email ng hindi bababa sa dalawang beses bago ang flight. Pinangangasiwaan ng Chiefy ang mga tanong bago ang paglipad para makapag-focus ako sa pagbibigay sa mga tao ng pinakamagandang umaga ng kanilang buhay.",
+      "quote": "Ang peak season ay nangangahulugang 4-6 na flight sa isang linggo at bawat pasahero ay nag-email ng hindi bababa sa dalawang beses bago ang flight. Pinangangasiwaan ng Duet ang mga tanong bago ang paglipad para makapag-focus ako sa pagbibigay sa mga tao ng pinakamagandang umaga ng kanilang buhay.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Co-Owner ng Balloon Company, NM",
-      "quote": "Ang mga pagkansela ng panahon ay nasira ang aking buong araw — 8 pasahero ang lahat ay nangangailangan ng personal na muling pag-iskedyul ng mga email. Ngayon, binabalangkas ng Chiefy ang bawat isa kasama ang aming patakaran sa rebooking. Makakatipid sa akin ng mga oras sa umaga ng pagkansela.",
+      "quote": "Ang mga pagkansela ng panahon ay nasira ang aking buong araw — 8 pasahero ang lahat ay nangangailangan ng personal na muling pag-iskedyul ng mga email. Ngayon, binabalangkas ng Duet ang bawat isa kasama ang aming patakaran sa rebooking. Makakatipid sa akin ng mga oras sa umaga ng pagkansela.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Paano pinangangasiwaan ng Chiefy ang mga email sa pagkansela ng panahon?",
+      "question": "Paano pinangangasiwaan ng Duet ang mga email sa pagkansela ng panahon?",
       "answer": "Nalaman ng duet ang iyong mga patakaran sa pagkansela at pag-rebook. Kapag kinansela mo ang isang flight dahil sa lagay ng panahon, maaari itong mag-draft ng personalized na muling pag-iskedyul ng mga email sa bawat apektadong pasahero — kasama ang iyong patakaran, mga available na petsa, at ang iyong tono. I-review at ipadala mo. Ang dating tumatagal ng isang oras ng mga indibidwal na tugon ay tumatagal ng ilang minuto."
     },
     {
-      "question": "Kayanin kaya ni Chiefy ang 'lipad ba tayo bukas?' mga email na dumadaloy tuwing gabi?",
-      "answer": "Oo — isa ito sa mga pinakakaraniwang email na sinasabi sa amin ng mga balloon operator. Natutunan ng Chiefy ang iyong mga patakaran sa lagay ng panahon at mga draft na nagbibigay-katiyakan na mga tugon na nagpapaliwanag sa proseso ng iyong pagpapasya, kung kailan mo gagawin ang huling tawag, at kung ano ang aasahan. Kapag nakumpirma mo ang go/no-go sa umaga, maaari itong mag-draft ng mga update sa lahat ng nasa manifest."
+      "question": "Kayanin kaya ni Duet ang 'lipad ba tayo bukas?' mga email na dumadaloy tuwing gabi?",
+      "answer": "Oo — isa ito sa mga pinakakaraniwang email na sinasabi sa amin ng mga balloon operator. Natutunan ng Duet ang iyong mga patakaran sa lagay ng panahon at mga draft na nagbibigay-katiyakan na mga tugon na nagpapaliwanag sa proseso ng iyong pagpapasya, kung kailan mo gagawin ang huling tawag, at kung ano ang aasahan. Kapag nakumpirma mo ang go/no-go sa umaga, maaari itong mag-draft ng mga update sa lahat ng nasa manifest."
     }
   ],
   "pricingNote": "Sa $250/tao na may 4 na pasahero bawat flight, ang isang naka-save na booking ay magbabayad ng higit sa isang taon na Pro."

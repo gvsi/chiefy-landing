@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Chiefy ATV- ja UTV-matkoille | AI-sähköpostiavustaja",
-  "metaDescription": "Chiefy auttaa ATV- ja UTV-matkaoppaita vastaamaan varaussähköposteihin välittömästi – jopa polulla. AI-muotoiltuja vastauksia, joissa on hintasi, vaatimukset ja äänesi.",
+  "pageTitle": "Duet Mail ATV- ja UTV-matkoille | AI-sähköpostiavustaja",
+  "metaDescription": "Duet Mail auttaa ATV- ja UTV-matkaoppaita vastaamaan varaussähköposteihin välittömästi – jopa polulla. AI-muotoiltuja vastauksia, joissa on hintasi, vaatimukset ja äänesi.",
   "heroBadge": "Yli 200 oppaan luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet matkalla",
-  "heroSubline": "Chiefy oppii matkatyypit, hinnoittelun ja kuljettajavaatimukset – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaalle vastaukselle.",
+  "heroSubline": "Duet oppii matkatyypit, hinnoittelun ja kuljettajavaatimukset – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaalle vastaukselle.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ryhmä (4 konetta)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Yksi tallennettu ryhmävaraus maksaa Chiefy in vuoden."
+    "punchline": "Yksi tallennettu ryhmävaraus maksaa Duet in vuoden."
   },
-  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, vakuutuskysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt ryhmäkysely ei enää jää huomaamatta.",
-  "draftSubtitle": "Chiefy oppii kiertuereitit, hinnoittelun ja ajajavaatimukset. Kun varauskysely osuu, se laatii täydellisen vastauksen matkan yksityiskohdista, hinnoittelusta ja mukaan otettavasta. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Onko tälle viikonlopulle varattu ryhmiä?\" \"Luonnos vastaus Rachelille lauantain saatavuuden mukaan.\" Chiefy tietää postilaatikkosi ja aikataulusi – kysy vain.",
+  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, vakuutuskysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt ryhmäkysely ei enää jää huomaamatta.",
+  "draftSubtitle": "Duet oppii kiertuereitit, hinnoittelun ja ajajavaatimukset. Kun varauskysely osuu, se laatii täydellisen vastauksen matkan yksityiskohdista, hinnoittelusta ja mukaan otettavasta. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Onko tälle viikonlopulle varattu ryhmiä?\" \"Luonnos vastaus Rachelille lauantain saatavuuden mukaan.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "ATV Guide, Southern Utah",
-      "quote": "Johdan 8 tunnin retkiä kanjonien läpi nollasolupalvelulla. Kun palasin takaisin, puolet varaussähköposteistani oli jäähtynyt. Chiefy luonnostelee vastaukset hinta- ja reittitietoihini – tarkistan ne vain päivän päätteeksi.",
+      "quote": "Johdan 8 tunnin retkiä kanjonien läpi nollasolupalvelulla. Kun palasin takaisin, puolet varaussähköposteistani oli jäähtynyt. Duet luonnostelee vastaukset hinta- ja reittitietoihini – tarkistan ne vain päivän päätteeksi.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV-matkanjärjestäjä, Colorado",
-      "quote": "Järjestämme retkiä 7 päivää viikossa, ja yksin vakuutus- ja luopumiskysymykset syövät aamuni. Chiefy ti hoitaa kaiken - ratsastajavaatimukset, ikärajoitukset, mitä ottaa mukaan. Kuulostaa aivan minulta.",
+      "quote": "Järjestämme retkiä 7 päivää viikossa, ja yksin vakuutus- ja luopumiskysymykset syövät aamuni. Duet ti hoitaa kaiken - ratsastajavaatimukset, ikärajoitukset, mitä ottaa mukaan. Kuulostaa aivan minulta.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "Ihmiset kysyvät sähköpostitse, mikä polku sopii heidän ryhmälleen, minkä kokemuksen he tarvitsevat, voivatko lapset ajaa. Samat 5 kysymystä uudestaan ​​ja uudestaan. Chiefy ti kynnet jokainen niistä.",
+      "quote": "Ihmiset kysyvät sähköpostitse, mikä polku sopii heidän ryhmälleen, minkä kokemuksen he tarvitsevat, voivatko lapset ajaa. Samat 5 kysymystä uudestaan ​​ja uudestaan. Duet ti kynnet jokainen niistä.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Vietin yli tunnin joka ilta vastaamaan samoihin saatavuuskysymyksiin. Nyt Chiefy luonnostelee vastauksia, kun olen matkalla. Vastausaikani oli tunneista minuutteihin.",
+      "quote": "Vietin yli tunnin joka ilta vastaamaan samoihin saatavuuskysymyksiin. Nyt Duet luonnostelee vastauksia, kun olen matkalla. Vastausaikani oli tunneista minuutteihin.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Family ATV Tours, Sedona",
-      "quote": "Saamme monet perheet kyselemään aloittelijareiteistä ja ikävaatimuksista. Chiefy oppi kaikki kiertuevaihtoehtomme ja suosittelee oikeaa jokaisessa vastauksessa. Asiakkaat eivät osaa erottaa.",
+      "quote": "Saamme monet perheet kyselemään aloittelijareiteistä ja ikävaatimuksista. Duet oppi kaikki kiertuevaihtoehtomme ja suosittelee oikeaa jokaisessa vastauksessa. Asiakkaat eivät osaa erottaa.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Hoitaako Chiefy vakuutus- ja luopumiskysymyksiä?",
-      "answer": "Kyllä. Chiefy oppii ratsastajavaatimukset - vastuuvakuutuksen, ikärajoitukset, luopumistiedot ja mitä ratsastajien tulee tuoda. Kun joku lähettää sähköpostia ja kysyy, mitä hän tarvitsee ennen kiertuettaan, Chiefy laatii täydellisen vastauksen kaikkine yksityiskohtineen. Tarkistat ja napautat lähetä."
+      "question": "Hoitaako Duet vakuutus- ja luopumiskysymyksiä?",
+      "answer": "Kyllä. Duet oppii ratsastajavaatimukset - vastuuvakuutuksen, ikärajoitukset, luopumistiedot ja mitä ratsastajien tulee tuoda. Kun joku lähettää sähköpostia ja kysyy, mitä hän tarvitsee ennen kiertuettaan, Duet laatii täydellisen vastauksen kaikkine yksityiskohtineen. Tarkistat ja napautat lähetä."
     },
     {
-      "question": "Olen matkalla koko päivän ilman matkapuhelinpalvelua. Miten Chiefy auttaa?",
-      "answer": "Juuri siksi oppaat rakastavat Chiefy tia. Kun johdat 6–8 tunnin kierrosta ilman signaalia, varauskyselyt kasaantuvat. Chiefy-luonnokset vastaavat jokaiseen niistä – hinnoittelusta, saatavuudesta, kokouspaikasta ja pukeutumisesta. Palattuasi tarkistat luonnokset ja lähetät ne. Useimmat oppaat kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+      "question": "Olen matkalla koko päivän ilman matkapuhelinpalvelua. Miten Duet auttaa?",
+      "answer": "Juuri siksi oppaat rakastavat Duet tia. Kun johdat 6–8 tunnin kierrosta ilman signaalia, varauskyselyt kasaantuvat. Duet-luonnokset vastaavat jokaiseen niistä – hinnoittelusta, saatavuudesta, kokouspaikasta ja pukeutumisesta. Palattuasi tarkistat luonnokset ja lähetät ne. Useimmat oppaat kertovat meille, että se säästää heille 1-2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
     }
   ],
   "pricingNote": "Hinta 200 dollaria/kone, yksi pelastettu 4 hengen ryhmä maksaa yli vuoden Pro:stä."

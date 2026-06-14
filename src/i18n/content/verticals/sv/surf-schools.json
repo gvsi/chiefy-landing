@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Chiefy för surfskolor och paddleboardoperatörer | AI-e-postassistent",
-  "metaDescription": "Chiefy hjälper surfinstruktörer och paddleboardoperatörer att svara på bokningsmeddelanden direkt – även när de undervisar. AI-utkastade svar med dina lektionstyper, prissättning och röst.",
+  "pageTitle": "Duet Mail för surfskolor och paddleboardoperatörer | AI-e-postassistent",
+  "metaDescription": "Duet Mail hjälper surfinstruktörer och paddleboardoperatörer att svara på bokningsmeddelanden direkt – även när de undervisar. AI-utkastade svar med dina lektionstyper, prissättning och röst.",
   "heroBadge": "Betrodd av 300+ surfinstruktörer",
   "heroHeadline": "Din e-postassistent medan du undervisar på vattnet",
-  "heroSubline": "Chiefy lär sig dina lektionstyper, prissättning och villkor – förbereder sedan e-postsvar så att du aldrig förlorar en bokning på grund av ett långsamt svar.",
+  "heroSubline": "Duet lär sig dina lektionstyper, prissättning och villkor – förbereder sedan e-postsvar så att du aldrig förlorar en bokning på grund av ett långsamt svar.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lektion",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Två sparade bokningar betalar för ett år av Chiefy."
+    "punchline": "Två sparade bokningar betalar för ett år av Duet."
   },
-  "categorizationSubtitle": "Chiefy taggar automatiskt varje e-postmeddelande så att du ser lektionsbokningar först, frågor sedan och aldrig buller. Saknar inte längre en skolgruppsförfrågan begravd under Yelp-varningar.",
-  "draftSubtitle": "Chiefy lär sig dina lektionstyper, gruppprissättning och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med tillgänglighet, vad som ingår och vad du ska ta med. Du granskar och skickar.",
-  "agentSubtitle": "\"Några gruppbokningar på gång den här veckan?\" \"Skapa ett svar till skolan med tillgänglighet.\"Chiefy känner till din inkorg och schema — fråga bara.",
+  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser lektionsbokningar först, frågor sedan och aldrig buller. Saknar inte längre en skolgruppsförfrågan begravd under Yelp-varningar.",
+  "draftSubtitle": "Duet lär sig dina lektionstyper, gruppprissättning och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med tillgänglighet, vad som ingår och vad du ska ta med. Du granskar och skickar.",
+  "agentSubtitle": "\"Några gruppbokningar på gång den här veckan?\" \"Skapa ett svar till skolan med tillgänglighet.\"Duet känner till din inkorg och schema — fråga bara.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Tränaren Mike T.",
       "title": "Surfskolaägare, CA",
-      "quote": "Jag är i vattnet och undervisar 6 timmar om dagen. När jag kollade e-post hade hälften av bokningarna gått till någon annan. Nu har Chiefy utkast till svar med mina priser och tillgänglighet — jag granskar bara mellan sessionerna.",
+      "quote": "Jag är i vattnet och undervisar 6 timmar om dagen. När jag kollade e-post hade hälften av bokningarna gått till någon annan. Nu har Duet utkast till svar med mina priser och tillgänglighet — jag granskar bara mellan sessionerna.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen och Mark S.",
       "title": "Paddleboard lektioner och uthyrning, HI",
-      "quote": "Vi kör lektioner och styrelseuthyrning ur samma inkorg. Chiefy kom på skillnaden direkt - hyresfrågor får hyressvar, lektionsförfrågningar får lektionsdetaljer. Det är som att ha en reception.",
+      "quote": "Vi kör lektioner och styrelseuthyrning ur samma inkorg. Duet kom på skillnaden direkt - hyresfrågor får hyressvar, lektionsförfrågningar får lektionsdetaljer. Det är som att ha en reception.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Surfinstruktör, FL",
-      "quote": "Skolgruppsbokningar brukade ta 10 e-postmeddelanden fram och tillbaka. Nu skriver Chiefy det första svaret med grupppriser, vad som ingår och tillståndssedeln. Skär hela tråden på mitten.",
+      "quote": "Skolgruppsbokningar brukade ta 10 e-postmeddelanden fram och tillbaka. Nu skriver Duet det första svaret med grupppriser, vad som ingår och tillståndssedeln. Skär hela tråden på mitten.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP-turer och lektioner, OR",
-      "quote": "Högsäsongen dödade mig - 30 e-postmeddelanden om dagen om villkor, priser, vad jag ska ta med. Samma fem frågor om och om igen. Chiefy hanterar alla och de låter precis som jag.",
+      "quote": "Högsäsongen dödade mig - 30 e-postmeddelanden om dagen om villkor, priser, vad jag ska ta med. Samma fem frågor om och om igen. Duet hanterar alla och de låter precis som jag.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Kids Surf Camp Director, SC",
-      "quote": "Föräldrar skickar de längsta mejlen. Lägerdatum, allergier, kompetensnivåer, hämtningstider. Chiefy utarbetar detaljerade svar som täcker allt så jag skriver inte stycken klockan 22.00 efter en hel dag på stranden.",
+      "quote": "Föräldrar skickar de längsta mejlen. Lägerdatum, allergier, kompetensnivåer, hämtningstider. Duet utarbetar detaljerade svar som täcker allt så jag skriver inte stycken klockan 22.00 efter en hel dag på stranden.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Hanterar Chiefy olika lektionstyper och uthyrning av utrustning?",
-      "answer": "Ja. Chiefy lär sig alla dina erbjudanden – privatlektioner, grupplektioner, barnläger, styrelseuthyrning, SUP-turer. När en förfrågan kommer in, utarbetar den ett svar med rätt prissättning, varaktighet, vad som ingår och vad som ska tas med. Den vet att en skolgrupps e-post behöver andra detaljer än en privatlektionsbokning."
+      "question": "Hanterar Duet olika lektionstyper och uthyrning av utrustning?",
+      "answer": "Ja. Duet lär sig alla dina erbjudanden – privatlektioner, grupplektioner, barnläger, styrelseuthyrning, SUP-turer. När en förfrågan kommer in, utarbetar den ett svar med rätt prissättning, varaktighet, vad som ingår och vad som ska tas med. Den vet att en skolgrupps e-post behöver andra detaljer än en privatlektionsbokning."
     },
     {
       "question": "Hur är det med frågor om väder och förhållanden?",
-      "answer": "Chiefy lär sig hur du vanligtvis hanterar e-postmeddelanden med villkor – dina policyer för avbokningar, ombokningar och vilka villkor du undervisar i. När någon skickar e-postmeddelanden och frågar om deras lektion kommer att genomföras,Chiefy utformar ett svar som matchar din vanliga ton och policy. Du granskar och skickar på några sekunder."
+      "answer": "Duet lär sig hur du vanligtvis hanterar e-postmeddelanden med villkor – dina policyer för avbokningar, ombokningar och vilka villkor du undervisar i. När någon skickar e-postmeddelanden och frågar om deras lektion kommer att genomföras,Duet utformar ett svar som matchar din vanliga ton och policy. Du granskar och skickar på några sekunder."
     }
   ],
   "pricingNote": "För $90/lektion betalar två sparade bokningar för över ett år av Pro."

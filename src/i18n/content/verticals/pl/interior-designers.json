@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy dla projektantów wnętrz | AI Email Assistant",
-  "metaDescription": "Chiefy pomaga projektantom wnętrz zarządzać pocztą elektroniczną klientów, koordynacją wykonawców i zamówieniami dostawców – nawet z miejsca pracy. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły projektu, preferencje i głos.",
+  "pageTitle": "Duet Mail dla projektantów wnętrz | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga projektantom wnętrz zarządzać pocztą elektroniczną klientów, koordynacją wykonawców i zamówieniami dostawców – nawet z miejsca pracy. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły projektu, preferencje i głos.",
   "heroBadge": "Zaufany przez projektantów wnętrz 400+",
   "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś na miejscu u klientów",
-  "heroSubline": "Chiefy poznaje dane kontaktowe dostawców, szczegóły projektu i preferencje klientów, a następnie przygotowuje odpowiedzi e-mailowe, dzięki czemu nigdy nie stracisz klienta z powodu powolnej reakcji.",
+  "heroSubline": "Duet poznaje dane kontaktowe dostawców, szczegóły projektu i preferencje klientów, a następnie przygotowuje odpowiedzi e-mailowe, dzięki czemu nigdy nie stracisz klienta z powodu powolnej reakcji.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Jeden zaoszczędzony klient płaci za lata Chiefy."
+    "punchline": "Jeden zaoszczędzony klient płaci za lata Duet."
   },
-  "categorizationSubtitle": "Chiefy automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności widzisz zapytania nowych klientów, w drugiej kolejności oczekujące na zatwierdzenie, a biuletyny dostawców nigdy. Nigdy więcej nie przegapisz konsultacji projektowych ukrytych pod promocjami na targach.",
-  "draftSubtitle": "Chiefy uczy się Twojego procesu, szczegółów projektu i tonu. Gdy pojawi się nowe zapytanie lub pytanie klienta, przygotowuje pełną odpowiedź zawierającą Twoją dostępność, kolejne kroki i szczegóły projektu. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„Jaki jest status projektu Henderson?” „Które zatwierdzenia są nadal w toku?” Chiefy zna Twoją skrzynkę odbiorczą i każdy wątek projektu — po prostu zapytaj.",
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności widzisz zapytania nowych klientów, w drugiej kolejności oczekujące na zatwierdzenie, a biuletyny dostawców nigdy. Nigdy więcej nie przegapisz konsultacji projektowych ukrytych pod promocjami na targach.",
+  "draftSubtitle": "Duet uczy się Twojego procesu, szczegółów projektu i tonu. Gdy pojawi się nowe zapytanie lub pytanie klienta, przygotowuje pełną odpowiedź zawierającą Twoją dostępność, kolejne kroki i szczegóły projektu. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Jaki jest status projektu Henderson?” „Które zatwierdzenia są nadal w toku?” Duet zna Twoją skrzynkę odbiorczą i każdy wątek projektu — po prostu zapytaj.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Główny projektant, Austin w Teksasie",
-      "quote": "Jestem na miejscu 6 godzin dziennie, koordynując malarzy, elektryków i instalatorów płytek. W międzyczasie trzech innych klientów wysyła e-maile dotyczące swoich projektów. Chiefy przygotowuje odpowiedzi z właściwymi szczegółami projektu — po prostu przeglądam je między wizytami w terenie.",
+      "quote": "Jestem na miejscu 6 godzin dziennie, koordynując malarzy, elektryków i instalatorów płytek. W międzyczasie trzech innych klientów wysyła e-maile dotyczące swoich projektów. Duet przygotowuje odpowiedzi z właściwymi szczegółami projektu — po prostu przeglądam je między wizytami w terenie.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Projektant wnętrz mieszkalnych, Chicago",
-      "quote": "Zapytania klientów czekały całymi dniami, ponieważ byłem zawalony e-mailami dotyczącymi zamówień i harmonogramami wykonawców. Teraz Chiefy reaguje na nowych potencjalnych klientów w ciągu kilku minut dzięki mojemu procesowi i dostępności. Zarezerwowałem dodatkowe projekty 4 na ten kwartał.",
+      "quote": "Zapytania klientów czekały całymi dniami, ponieważ byłem zawalony e-mailami dotyczącymi zamówień i harmonogramami wykonawców. Teraz Duet reaguje na nowych potencjalnych klientów w ciągu kilku minut dzięki mojemu procesowi i dostępności. Zarezerwowałem dodatkowe projekty 4 na ten kwartał.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Właściciel studia projektowego, Nashville",
-      "quote": "Zarządzanie e-mailami dla aktywnych projektów 12 doprowadzało mnie do szału. Chiefy kategoryzuje wszystko — nowe zapytania, oczekujące zatwierdzenia, zamówienia od dostawców, aktualizacje wykonawców — dzięki czemu wiem dokładnie, co w pierwszej kolejności wymaga mojej uwagi.",
+      "quote": "Zarządzanie e-mailami dla aktywnych projektów 12 doprowadzało mnie do szału. Duet kategoryzuje wszystko — nowe zapytania, oczekujące zatwierdzenia, zamówienia od dostawców, aktualizacje wykonawców — dzięki czemu wiem dokładnie, co w pierwszej kolejności wymaga mojej uwagi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Dekorator wnętrz, San Diego",
-      "quote": "Traciłem potencjalnych klientów, ponieważ nie mogłem reagować wystarczająco szybko podczas tygodni instalacji. Chiefy poznał mój proces konsultacji, strukturę cen, a nawet to, jak opisuję swój styl projektowania. Klienci nie mają pojęcia, że ​​jest to wspomagane sztuczną inteligencją.",
+      "quote": "Traciłem potencjalnych klientów, ponieważ nie mogłem reagować wystarczająco szybko podczas tygodni instalacji. Duet poznał mój proces konsultacji, strukturę cen, a nawet to, jak opisuję swój styl projektowania. Klienci nie mają pojęcia, że ​​jest to wspomagane sztuczną inteligencją.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Projektant wnętrz komercyjnych, Denver",
-      "quote": "Pomiędzy terminami realizacji zamówień przez dostawców, harmonogramami wykonawców i prośbami klientów o wprowadzenie zmian w mojej skrzynce odbiorczej panował chaos. Chiefy sortuje to wszystko i przygotowuje działania następcze w związku z oczekującymi zatwierdzeniami. To tak, jakby mieć koordynatora projektu, który nigdy nie śpi.",
+      "quote": "Pomiędzy terminami realizacji zamówień przez dostawców, harmonogramami wykonawców i prośbami klientów o wprowadzenie zmian w mojej skrzynce odbiorczej panował chaos. Duet sortuje to wszystko i przygotowuje działania następcze w związku z oczekującymi zatwierdzeniami. To tak, jakby mieć koordynatora projektu, który nigdy nie śpi.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Żongluję projektami 8-10 na raz. Czy Chiefy może utrzymać je prosto?",
-      "answer": "Tak. Chiefy śledzi każdy wątek e-mailowy dla każdego klienta i projektu. Kiedy pytasz o kuchnię Henderson lub biuro przy Park Avenue, wyciągasz kontekst ze wszystkich powiązanych rozmów – zamówień dostawców, aktualizacji wykonawców, zatwierdzeń klientów – dzięki czemu Twoje odpowiedzi są zawsze dokładne i specyficzne dla projektu. Żadnego mieszania, która płytka jest przeznaczona dla którego klienta."
+      "question": "Żongluję projektami 8-10 na raz. Czy Duet może utrzymać je prosto?",
+      "answer": "Tak. Duet śledzi każdy wątek e-mailowy dla każdego klienta i projektu. Kiedy pytasz o kuchnię Henderson lub biuro przy Park Avenue, wyciągasz kontekst ze wszystkich powiązanych rozmów – zamówień dostawców, aktualizacji wykonawców, zatwierdzeń klientów – dzięki czemu Twoje odpowiedzi są zawsze dokładne i specyficzne dla projektu. Żadnego mieszania, która płytka jest przeznaczona dla którego klienta."
     },
     {
-      "question": "Koordynuję współpracę z wieloma wykonawcami i dostawcami. Czy Chiefy pomaga w tym?",
-      "answer": "Zdecydowanie. Chiefy poznaje kontakty z wykonawcami, przedstawicieli dostawców i kontekst roli każdej branży w Twoich projektach. Kiedy elektryk prześle wiadomość e-mail z informacją o zakończeniu prac wstępnych, Chiefy może przygotować odpowiedź potwierdzającą następny krok lub pętlę w instalatorze oprawy. Utrzymuje przepływ pracy nawet wtedy, gdy jesteś po drugiej stronie miasta, w innym miejscu pracy."
+      "question": "Koordynuję współpracę z wieloma wykonawcami i dostawcami. Czy Duet pomaga w tym?",
+      "answer": "Zdecydowanie. Duet poznaje kontakty z wykonawcami, przedstawicieli dostawców i kontekst roli każdej branży w Twoich projektach. Kiedy elektryk prześle wiadomość e-mail z informacją o zakończeniu prac wstępnych, Duet może przygotować odpowiedź potwierdzającą następny krok lub pętlę w instalatorze oprawy. Utrzymuje przepływ pracy nawet wtedy, gdy jesteś po drugiej stronie miasta, w innym miejscu pracy."
     }
   ],
-  "pricingNote": "W $10,000/project jeden zaoszczędzony klient płaci za lata Chiefy Pro."
+  "pricingNote": "W $10,000/project jeden zaoszczędzony klient płaci za lata Duet Pro."
 }

@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Chiefy na wycieczki psim zaprzęgiem | AI Email Assistant",
-  "metaDescription": "Chiefy pomaga maszerom natychmiastowo odpowiadać na e-maile dotyczące rezerwacji – nawet będąc na szlaku. Odpowiedzi opracowane przez sztuczną inteligencję zawierające rodzaje wycieczek, ceny, zasady i głos.",
+  "pageTitle": "Duet Mail na wycieczki psim zaprzęgiem | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga maszerom natychmiastowo odpowiadać na e-maile dotyczące rezerwacji – nawet będąc na szlaku. Odpowiedzi opracowane przez sztuczną inteligencję zawierające rodzaje wycieczek, ceny, zasady i głos.",
   "heroBadge": "Zaufany przez maszerów 200+",
   "heroHeadline": "Twój asystent e-mail, gdy jesteś na szlaku",
-  "heroSubline": "Chiefy poznaje Twoje typy wycieczek, ceny, zasady pogodowe i dodatki, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji z powodu powolnej odpowiedzi. Zestaw",
+  "heroSubline": "Duet poznaje Twoje typy wycieczek, ceny, zasady pogodowe i dodatki, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji z powodu powolnej odpowiedzi. Zestaw",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "wycieczka",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dwie zapisane rezerwacje płacą za rok Chiefy."
+    "punchline": "Dwie zapisane rezerwacje płacą za rok Duet."
   },
-  "categorizationSubtitle": "Chiefy automatycznie taguje każdy e-mail, dzięki czemu w pierwszej kolejności pojawiają się prośby o rezerwację, pytania w drugiej kolejności, a nigdy szumu. Nigdy więcej nie przegapisz zapytania o wycieczkę ukrytego pod alertami serwisu TripAdvisor.",
-  "draftSubtitle": "Chiefy poznaje rodzaje wycieczek, ceny i ton. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź zawierającą szczegóły pakietu, w co się ubrać i dodatki. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„Jakieś rezerwacje na ten weekend?” „Napisz odpowiedź na temat kombinacji zorzy.” Chiefy zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj. Zestaw",
+  "categorizationSubtitle": "Duet automatycznie taguje każdy e-mail, dzięki czemu w pierwszej kolejności pojawiają się prośby o rezerwację, pytania w drugiej kolejności, a nigdy szumu. Nigdy więcej nie przegapisz zapytania o wycieczkę ukrytego pod alertami serwisu TripAdvisor.",
+  "draftSubtitle": "Duet poznaje rodzaje wycieczek, ceny i ton. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź zawierającą szczegóły pakietu, w co się ubrać i dodatki. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Jakieś rezerwacje na ten weekend?” „Napisz odpowiedź na temat kombinacji zorzy.” Duet zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj. Zestaw",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Organizator wycieczek psimi zaprzęgami, AK",
-      "quote": "Jestem na szlaku 6 godzin dziennie z zerową obsługą komórkową. Zanim wróciłem, połowa zapytań o rezerwację została skierowana do innego sklepu. Chiefy przygotowuje odpowiedzi zawierające szczegóły mojej wycieczki i ceny — goście otrzymują odpowiedź w ciągu kilku minut, a nie godzin.",
+      "quote": "Jestem na szlaku 6 godzin dziennie z zerową obsługą komórkową. Zanim wróciłem, połowa zapytań o rezerwację została skierowana do innego sklepu. Duet przygotowuje odpowiedzi zawierające szczegóły mojej wycieczki i ceny — goście otrzymują odpowiedź w ciągu kilku minut, a nie godzin.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Właściciel hodowli i wycieczek Mush, AK",
-      "quote": "Oferujemy wizyty w hodowli, przejażdżki papką i kombinacje zorzy polarnej — każdy e-mail wymaga innej odpowiedzi. Chiefy rozpracował wszystkie trzy typy wycieczek w ciągu tygodnia i teraz za każdym razem tworzy wersje robocze odpowiedzi, które pasują do odpowiedniego pakietu.",
+      "quote": "Oferujemy wizyty w hodowli, przejażdżki papką i kombinacje zorzy polarnej — każdy e-mail wymaga innej odpowiedzi. Duet rozpracował wszystkie trzy typy wycieczek w ciągu tygodnia i teraz za każdym razem tworzy wersje robocze odpowiedzi, które pasują do odpowiedniego pakietu.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Przewodnik po psich zaprzęgach, MN",
-      "quote": "Każdego wieczoru spędzałem, odpowiadając na te same pytania dotyczące ubioru, ograniczeń wiekowych i psów. Chiefy obsługuje to wszystko. Wracam do domu ze szlaku, wszystko przygotowane i czeka.",
+      "quote": "Każdego wieczoru spędzałem, odpowiadając na te same pytania dotyczące ubioru, ograniczeń wiekowych i psów. Duet obsługuje to wszystko. Wracam do domu ze szlaku, wszystko przygotowane i czeka.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Organizator wycieczek po zorzy polarnej i saniach, AK",
-      "quote": "W zimie odwołania pogodowe są stałe. Chiefy przygotowuje odpowiedzi dotyczące zmiany terminu, uwzględniając nasze zasady i alternatywne daty, zanim w ogóle zdążę sprawdzić telefon. Goście uwielbiają szybką reakcję.",
+      "quote": "W zimie odwołania pogodowe są stałe. Duet przygotowuje odpowiedzi dotyczące zmiany terminu, uwzględniając nasze zasady i alternatywne daty, zanim w ogóle zdążę sprawdzić telefon. Goście uwielbiają szybką reakcję.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Rodzinne psie zaprzęgi, Kolorado",
-      "quote": "Rodzice zawsze pytają, czy ich dzieci mogą papkować, czy psy są przyjazne, w co się ubrać — te same pytania 10. Chiefy nauczył się każdej odpowiedzi i doskonale ją opracowuje. To jakby klonować się do poczty elektronicznej.",
+      "quote": "Rodzice zawsze pytają, czy ich dzieci mogą papkować, czy psy są przyjazne, w co się ubrać — te same pytania 10. Duet nauczył się każdej odpowiedzi i doskonale ją opracowuje. To jakby klonować się do poczty elektronicznej.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Jak Chiefy radzi sobie z odwołaniami pogodowymi i niepewnością dotyczącą zorzy polarnej?",
-      "answer": "Chiefy poznaje Twoje zasady anulowania i zmiany terminu. Kiedy gość wysyła e-mail na temat problemów związanych z pogodą lub widocznością zorzy polarnej, przygotowuje odpowiedź zawierającą Twoje zasady, alternatywne daty i wszelkie istotne szczegóły, takie jak warunki monitorowania i potwierdzenie bliżej wycieczki. Sprawdzasz i wysyłasz."
+      "question": "Jak Duet radzi sobie z odwołaniami pogodowymi i niepewnością dotyczącą zorzy polarnej?",
+      "answer": "Duet poznaje Twoje zasady anulowania i zmiany terminu. Kiedy gość wysyła e-mail na temat problemów związanych z pogodą lub widocznością zorzy polarnej, przygotowuje odpowiedź zawierającą Twoje zasady, alternatywne daty i wszelkie istotne szczegóły, takie jak warunki monitorowania i potwierdzenie bliżej wycieczki. Sprawdzasz i wysyłasz."
     },
     {
-      "question": "Oferuję wiele rodzajów wycieczek z różnymi cenami i dodatkami. Czy Chiefy może utrzymać je prosto?",
-      "answer": "Tak. Chiefy uczy się każdego rodzaju wycieczek – wizyt w hodowli, wrażeń z papką, kombinacji zorzy polarnej, dodatków fotograficznych, pakietów transportowych – wraz z ich cenami, czasem trwania i tym, co jest wliczone w cenę. Gdy nadejdzie zapytanie, dopasowuje odpowiednią wycieczkę i przygotowuje odpowiedź zawierającą prawidłowe szczegóły."
+      "question": "Oferuję wiele rodzajów wycieczek z różnymi cenami i dodatkami. Czy Duet może utrzymać je prosto?",
+      "answer": "Tak. Duet uczy się każdego rodzaju wycieczek – wizyt w hodowli, wrażeń z papką, kombinacji zorzy polarnej, dodatków fotograficznych, pakietów transportowych – wraz z ich cenami, czasem trwania i tym, co jest wliczone w cenę. Gdy nadejdzie zapytanie, dopasowuje odpowiednią wycieczkę i przygotowuje odpowiedź zawierającą prawidłowe szczegóły."
     }
   ],
   "pricingNote": "W $150/tour dwie zapisane rezerwacje płacą za ponad rok Pro."

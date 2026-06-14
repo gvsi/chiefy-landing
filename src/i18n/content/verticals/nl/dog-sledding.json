@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Chiefy voor hondensledetochten | AI-e-mailassistent",
-  "metaDescription": "Chiefy helpt mushers direct te reageren op boekings-e-mails, zelfs vanaf de route. Door AI opgestelde antwoorden met uw tourtypes, prijzen, beleid en stem.",
+  "pageTitle": "Duet Mail voor hondensledetochten | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt mushers direct te reageren op boekings-e-mails, zelfs vanaf de route. Door AI opgestelde antwoorden met uw tourtypes, prijzen, beleid en stem.",
   "heroBadge": "Vertrouwd door meer dan 200 mushers",
   "heroHeadline": "Uw e-mailassistent terwijl u onderweg bent",
-  "heroSubline": "Chiefy leert uw tourtypes, prijzen, weerbeleid en add-ons kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
+  "heroSubline": "Duet leert uw tourtypes, prijzen, weerbeleid en add-ons kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "rondleiding",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Twee opgeslagen boekingen betalen een jaar lang Chiefy."
+    "punchline": "Twee opgeslagen boekingen betalen een jaar lang Duet."
   },
-  "categorizationSubtitle": "Chiefy tagt automatisch elke e-mail, zodat u eerst de boekingsaanvragen ziet, daarna de vragen en nooit meer ruis. U hoeft nooit meer een reisaanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
-  "draftSubtitle": "Chiefy leert uw tourtypes, prijzen en toon kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met pakketgegevens, wat te dragen en add-ons. Je beoordeelt en verzendt.",
-  "agentSubtitle": "\"Nog boekingen dit weekend?\" \"Stel een antwoord op over de aurora-combo.\"Chiefy kent uw inbox en planning — vraag het maar.",
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst de boekingsaanvragen ziet, daarna de vragen en nooit meer ruis. U hoeft nooit meer een reisaanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
+  "draftSubtitle": "Duet leert uw tourtypes, prijzen en toon kennen. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met pakketgegevens, wat te dragen en add-ons. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Nog boekingen dit weekend?\" \"Stel een antwoord op over de aurora-combo.\"Duet kent uw inbox en planning — vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Sledehondentouroperator, AK",
-      "quote": "Ik ben 6 uur per dag onderweg zonder mobiel bereik. Tegen de tijd dat ik terugkwam, was de helft van de boekingsaanvragen naar een andere outfit gegaan. Chiefy stelt antwoorden op met mijn tourgegevens en prijzen - gasten horen binnen enkele minuten terug, niet uren.",
+      "quote": "Ik ben 6 uur per dag onderweg zonder mobiel bereik. Tegen de tijd dat ik terugkwam, was de helft van de boekingsaanvragen naar een andere outfit gegaan. Duet stelt antwoorden op met mijn tourgegevens en prijzen - gasten horen binnen enkele minuten terug, niet uren.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour-eigenaar, AK",
-      "quote": "We bieden kennelbezoeken, brijritten en aurora-combo's aan - elke e-mail heeft een ander antwoord nodig. Chiefy heeft alle drie de tourtypes in een week ontdekt en stelt nu elke keer antwoorden op die bij het juiste pakket passen.",
+      "quote": "We bieden kennelbezoeken, brijritten en aurora-combo's aan - elke e-mail heeft een ander antwoord nodig. Duet heeft alle drie de tourtypes in een week ontdekt en stelt nu elke keer antwoorden op die bij het juiste pakket passen.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Hondensledegids, MN",
-      "quote": "Ik was elke avond bezig met het beantwoorden van dezelfde vragen over wat ik moest dragen, leeftijdsgrenzen en de honden. Chiefy regelt het allemaal. Ik kom thuis van het pad en alles is opgesteld en wacht.",
+      "quote": "Ik was elke avond bezig met het beantwoorden van dezelfde vragen over wat ik moest dragen, leeftijdsgrenzen en de honden. Duet regelt het allemaal. Ik kom thuis van het pad en alles is opgesteld en wacht.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Weersannuleringen zijn constant in de winter. Chiefy stelt een nieuwe planning van antwoorden op met ons beleid en alternatieve datums voordat ik zelfs maar de kans krijg om mijn telefoon te controleren. Gasten waarderen de snelle reactie.",
+      "quote": "Weersannuleringen zijn constant in de winter. Duet stelt een nieuwe planning van antwoorden op met ons beleid en alternatieve datums voordat ik zelfs maar de kans krijg om mijn telefoon te controleren. Gasten waarderen de snelle reactie.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Familiehondenslee-avonturen, CO",
-      "quote": "Ouders vragen altijd of hun kinderen kunnen papperen, of de honden vriendelijk zijn, wat ze moeten dragen – dezelfde 10 vragen. Chiefy heeft elk antwoord geleerd en perfect opgesteld. Het is alsof ik mezelf klonen voor e-mail.",
+      "quote": "Ouders vragen altijd of hun kinderen kunnen papperen, of de honden vriendelijk zijn, wat ze moeten dragen – dezelfde 10 vragen. Duet heeft elk antwoord geleerd en perfect opgesteld. Het is alsof ik mezelf klonen voor e-mail.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "Hoe gaat Chiefy om met weersannuleringen en aurora-onzekerheid?",
-      "answer": "Chiefy leert uw annulerings- en herschikkingsbeleid kennen. Wanneer een gast e-mailt over zorgen over het weer of de zichtbaarheid van het noorderlicht, stelt hij een antwoord op met uw beleid, alternatieve data en alle relevante details, zoals het monitoren van de omstandigheden en het bevestigen dat de tour dichterbij komt. Je beoordeelt en verzendt."
+      "question": "Hoe gaat Duet om met weersannuleringen en aurora-onzekerheid?",
+      "answer": "Duet leert uw annulerings- en herschikkingsbeleid kennen. Wanneer een gast e-mailt over zorgen over het weer of de zichtbaarheid van het noorderlicht, stelt hij een antwoord op met uw beleid, alternatieve data en alle relevante details, zoals het monitoren van de omstandigheden en het bevestigen dat de tour dichterbij komt. Je beoordeelt en verzendt."
     },
     {
-      "question": "Ik bied meerdere tourtypes aan met verschillende prijzen en add-ons. Kan Chiefy ze recht houden?",
-      "answer": "Ja. Chiefy leert elk type tour kennen — kennelbezoeken, mush-ervaringen, aurora-combo's, fotografie-add-ons, transportpakketten — samen met hun prijzen, duur en wat er is inbegrepen. Wanneer er een aanvraag binnenkomt, matcht deze de juiste tour en stelt een antwoord op met de juiste details."
+      "question": "Ik bied meerdere tourtypes aan met verschillende prijzen en add-ons. Kan Duet ze recht houden?",
+      "answer": "Ja. Duet leert elk type tour kennen — kennelbezoeken, mush-ervaringen, aurora-combo's, fotografie-add-ons, transportpakketten — samen met hun prijzen, duur en wat er is inbegrepen. Wanneer er een aanvraag binnenkomt, matcht deze de juiste tour en stelt een antwoord op met de juiste details."
     }
   ],
   "pricingNote": "Bij $ 150/tour betalen twee opgeslagen boekingen voor meer dan een jaar Pro."

@@ -98,8 +98,8 @@ function assertLegalHtmlStructure(relativePath, content) {
     if (/<ahref=/iu.test(content)) {
         fail(`Malformed collapsed anchor tag in ${relativePath}`)
     }
-    if (/href=["']chiefy\.com["']/iu.test(content)) {
-        fail(`Legal file must use an explicit HTTPS URL for chiefy.com: ${relativePath}`)
+    if (/href=["']duetmail\.com["']/iu.test(content)) {
+        fail(`Legal file must use an explicit HTTPS URL for duetmail.com: ${relativePath}`)
     }
 
     const html = stripLeadingMetadataComments(content).trim()
@@ -132,8 +132,8 @@ function assertLegalHtmlStructure(relativePath, content) {
         }
         const href = getHtmlAttr(node, "href")
         if (!href) fail(`Legal anchor missing href in ${relativePath}`)
-        if (href === "chiefy.com") {
-            fail(`Legal anchor must use https://chiefy.com in ${relativePath}`)
+        if (href === "duetmail.com") {
+            fail(`Legal anchor must use https://duetmail.com in ${relativePath}`)
         }
         if (/^https?:\/\//iu.test(href)) {
             const rel = getHtmlAttr(node, "rel")
@@ -430,8 +430,8 @@ const disallowedItalianHomeExactValues = new Set([
 ])
 
 function assertHomeQualityContracts(locale, home, englishHome) {
-    if (locale !== "en-XA" && home.faq?.footerBrand !== "CHIEFY") {
-        fail(`Home FAQ brand must preserve Chiefy for ${locale}`)
+    if (locale !== "en-XA" && home.faq?.footerBrand !== "DUET MAIL") {
+        fail(`Home FAQ brand must preserve Duet Mail for ${locale}`)
     }
 
     if (home.jsonLd?.applicationCategory !== englishHome.jsonLd?.applicationCategory) {
@@ -486,7 +486,7 @@ function assertLayoutContracts() {
     }
 
     const blogLayoutSource = readText("src/layouts/BlogLayout.astro")
-    if (blogLayoutSource.includes('author !== "Chiefy Team"')) {
+    if (blogLayoutSource.includes('author !== "Duet Mail Team"')) {
         fail("BlogLayout.astro must not suppress team bylines by comparing localized author display strings")
     }
 }
@@ -524,7 +524,7 @@ function assertNoDuplicateTopLevelJsonKeys(relativePath) {
 function containsUnlocalizedSameOriginRoute(content) {
     const routePathPattern = String.raw`(\/(?:blog|privacy|terms|cookies|disclaimer|for)(?:[/?#][^\s)"'<]*|(?=[\s)"'<]|$)))`
     const patterns = [
-        new RegExp(String.raw`https:\/\/chiefy\.com${routePathPattern}`, "gu"),
+        new RegExp(String.raw`https:\/\/duetmail\.com${routePathPattern}`, "gu"),
         new RegExp(String.raw`(?:\]\(|href=["']|["'])${routePathPattern}`, "gu"),
     ]
     return patterns.some((pattern) =>

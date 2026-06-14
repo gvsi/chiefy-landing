@@ -2,7 +2,7 @@
 title: "Slik skriver du profesjonelle e-poster: tydeligere, raskere og bedre for karrieren"
 description: "Lar å skrive profesjonelle e-poster som bygger tillit og sparer tid. Mestre emnefelt, tone, struktur og etikette."
 publishedAt: 2025-05-27
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Produktivitet", "E-postskriving"]
 draft: false
 ---
@@ -71,7 +71,7 @@ Takk,
 
 AI kan skrive forsteutkast, forkorte tekst, forbedre tone og foreslå tydeligere emnefelt. Men du bor fortsatt eie budskapet. Bruk AI til å komme raskere til et godt utkast, og rediger for presisjon.
 
-[**Chiefy**](https://chiefy.com/nb) kan hjelpe med autentiske AI-utkast som tar hensyn til trådkontekst og skrivestil, slik at svaret blir raskere uten å bli generisk.
+[**Duet Mail**](https://duetmail.com/nb) kan hjelpe med autentiske AI-utkast som tar hensyn til trådkontekst og skrivestil, slik at svaret blir raskere uten å bli generisk.
 
 ## Konklusjon
 

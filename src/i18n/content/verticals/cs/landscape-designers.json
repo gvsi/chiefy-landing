@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy pro krajinné designéry | AI e-mailový asistent",
-  "metaDescription": "Chiefy pomáhá zahradním designérům okamžitě reagovat na e-maily klientů – dokonce i z terénu. Odpovědi navržené AI s podrobnostmi o vašem projektu, cenou a hlasem.",
+  "pageTitle": "Duet Mail pro krajinné designéry | AI e-mailový asistent",
+  "metaDescription": "Duet Mail pomáhá zahradním designérům okamžitě reagovat na e-maily klientů – dokonce i z terénu. Odpovědi navržené AI s podrobnostmi o vašem projektu, cenou a hlasem.",
   "heroBadge": "Důvěřuje více než 300 krajinářům",
   "heroHeadline": "Váš e-mailový asistent, když jste v terénu",
-  "heroSubline": "Chiefy se naučí podrobnosti o vašem projektu, palety závodů, ceny a procesy – poté vytvoří koncepty e-mailových odpovědí, takže nikdy neztratíte klienta kvůli pomalé odpovědi.",
+  "heroSubline": "Duet se naučí podrobnosti o vašem projektu, palety závodů, ceny a procesy – poté vytvoří koncepty e-mailových odpovědí, takže nikdy neztratíte klienta kvůli pomalé odpovědi.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Jeden ušetřený projekt platí roky Chiefy."
+    "punchline": "Jeden ušetřený projekt platí roky Duet."
   },
-  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže jako první uvidíte nové žádosti o konzultaci, až poté schválení klientů a nikdy nešum od dodavatelů. Už vám nebude chybět olovo zakopané pod potvrzením objednávky školky.",
-  "draftSubtitle": "Chiefy se naučí vaše ceny, proces a tón. Když přijde žádost o konzultaci, vypracuje kompletní odpověď s vaší dostupností, tím, co můžete očekávat, a dalšími kroky. Zkontrolujete a odešlete.",
-  "agentSubtitle": "\"Jaká je časová osa projektu Henderson?\" \"Kteří klienti čekají na schválení plánu?\" Chiefy zná vaši doručenou poštu a projekty – stačí se zeptat.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první uvidíte nové žádosti o konzultaci, až poté schválení klientů a nikdy nešum od dodavatelů. Už vám nebude chybět olovo zakopané pod potvrzením objednávky školky.",
+  "draftSubtitle": "Duet se naučí vaše ceny, proces a tón. Když přijde žádost o konzultaci, vypracuje kompletní odpověď s vaší dostupností, tím, co můžete očekávat, a dalšími kroky. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Jaká je časová osa projektu Henderson?\" \"Kteří klienti čekají na schválení plánu?\" Duet zná vaši doručenou poštu a projekty – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Krajinářský architekt, Austin TX",
-      "quote": "Během jara jsem na místě 8 hodin denně, provádím hodnocení a dozor nad instalací. Nové žádosti o konzultace budou trvat několik dní. Nyní Chiefy odpoví s mým procesem a dostupností během několika minut. Zarezervoval jsem si 3 projekty, o které bych určitě přišel.",
+      "quote": "Během jara jsem na místě 8 hodin denně, provádím hodnocení a dozor nad instalací. Nové žádosti o konzultace budou trvat několik dní. Nyní Duet odpoví s mým procesem a dostupností během několika minut. Zarezervoval jsem si 3 projekty, o které bych určitě přišel.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Zahradní designér, Portland OR",
-      "quote": "Koordinace mezi týmy hardscape, instalatéry zavlažování a klienty generuje absurdní množství e-mailů. Chiefy to vše seřadí a vytvoří návrhy odpovědí, které obsahují správné podrobnosti o projektu. Je to jako mít manažera studia.",
+      "quote": "Koordinace mezi týmy hardscape, instalatéry zavlažování a klienty generuje absurdní množství e-mailů. Duet to vše seřadí a vytvoří návrhy odpovědí, které obsahují správné podrobnosti o projektu. Je to jako mít manažera studia.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Majitel studia zahradního designu, Denver CO",
-      "quote": "Každý večer po práci v terénu jsem trávil doháněním e-mailů. Stejné otázky – cena, proces, časová osa. Chiefy to všechno zvládá. Moje doba odezvy se prodloužila ze dnů na minuty a moje míra zavření se výrazně zvýšila.",
+      "quote": "Každý večer po práci v terénu jsem trávil doháněním e-mailů. Stejné otázky – cena, proces, časová osa. Duet to všechno zvládá. Moje doba odezvy se prodloužila ze dnů na minuty a moje míra zavření se výrazně zvýšila.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Návrhář obytné krajiny, Scottsdale AZ",
-      "quote": "Moji klienti kladou mnoho otázek ohledně výběru rostlin a údržby. Chiefy se naučil moje palety rostlin a pokyny k péči a odpovědi na návrhy, které sotva potřebuji upravovat. Klienti si myslí, že jsem neuvěřitelně citlivý.",
+      "quote": "Moji klienti kladou mnoho otázek ohledně výběru rostlin a údržby. Duet se naučil moje palety rostlin a pokyny k péči a odpovědi na návrhy, které sotva potřebuji upravovat. Klienti si myslí, že jsem neuvěřitelně citlivý.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "Ztrácel jsem nové klienty, protože jsem nemohl odpovědět, když jsem byl po kolena v instalaci výsadby. Chiefy navrhuje odpovědi na konzultace s mým přesným postupem, cenou a tím, co očekávat. Vyplatilo se to hned první týden.",
+      "quote": "Ztrácel jsem nové klienty, protože jsem nemohl odpovědět, když jsem byl po kolena v instalaci výsadby. Duet navrhuje odpovědi na konzultace s mým přesným postupem, cenou a tím, co očekávat. Vyplatilo se to hned první týden.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Dokáže Chiefy zvládnout jarní nápor, když se hromadí žádosti o konzultace?",
-      "answer": "Přesně tehdy září Chiefy. Během vaší nejrušnější sezóny dostane každý nový dotaz rychlou a podrobnou odpověď s vaším postupem, časovou osou a dostupností – i když jste celý den na místě. Už žádné ztráty jarních vedení, protože jste se k nim nemohli vrátit až do 9 PM."
+      "question": "Dokáže Duet zvládnout jarní nápor, když se hromadí žádosti o konzultace?",
+      "answer": "Přesně tehdy září Duet. Během vaší nejrušnější sezóny dostane každý nový dotaz rychlou a podrobnou odpověď s vaším postupem, časovou osou a dostupností – i když jste celý den na místě. Už žádné ztráty jarních vedení, protože jste se k nim nemohli vrátit až do 9 PM."
     },
     {
-      "question": "Koordinuji s více venkovními týmy. Pomáhá s tím Chiefy?",
-      "answer": "Ano. Chiefy se naučí vaše projekty a zúčastněné dodavatele – terén, zavlažování, výsadbu, školky. Kategorizuje e-maily dodavatelů odděleně od e-mailů klientů a může navrhovat odpovědi s podrobnostmi konkrétními projektu, jako jsou specifikace, časové osy a materiály. Zůstanete na vrcholu každé posádky bez chaosu ve schránce."
+      "question": "Koordinuji s více venkovními týmy. Pomáhá s tím Duet?",
+      "answer": "Ano. Duet se naučí vaše projekty a zúčastněné dodavatele – terén, zavlažování, výsadbu, školky. Kategorizuje e-maily dodavatelů odděleně od e-mailů klientů a může navrhovat odpovědi s podrobnostmi konkrétními projektu, jako jsou specifikace, časové osy a materiály. Zůstanete na vrcholu každé posádky bez chaosu ve schránce."
     }
   ],
   "pricingNote": "U $8,000/project platí jeden ušetřený klient roky Pro."

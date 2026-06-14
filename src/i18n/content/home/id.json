@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy |  AI Asisten Email untuk Gmail dan Outlook",
-    "description": "Asisten email Chiefy AI merangkum email, menyusun balasan, dan mengatur inbox Anda. Bekerja dengan Gmail dan Outlook. Hemat 4+ jam setiap minggu."
+    "title": "Duet Mail |  AI Asisten Email untuk Gmail dan Outlook",
+    "description": "Asisten email Duet Mail AI merangkum email, menyusun balasan, dan mengatur inbox Anda. Bekerja dengan Gmail dan Outlook. Hemat 4+ jam setiap minggu."
   },
   "hero": {
     "badge": "Sekarang tersedia untuk Gmail dan Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Draf email yang terdengar seperti Anda",
-        "description": "Penulis email Chiefy AI menyiapkan draf untuk email terpenting Anda. Ini mempelajari nada dan gaya menulis Anda.",
+        "description": "Penulis email Duet AI menyiapkan draf untuk email terpenting Anda. Ini mempelajari nada dan gaya menulis Anda.",
         "ariaLabel": "Draf email yang terdengar seperti Anda",
         "mockCopy": {
           "draftedColdEmail": "Saya menyusun email dingin yang dipersonalisasi untuk John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Pengingat Cerdas",
-        "description": "Atur dan lupakan. Chiefy AI ingat untuk menindaklanjuti ketika orang lain tidak merespons, sehingga tidak ada yang gagal.",
+        "description": "Atur dan lupakan. Duet AI ingat untuk menindaklanjuti ketika orang lain tidak merespons, sehingga tidak ada yang gagal.",
         "ariaLabel": "Pengingat yang cerdas",
         "mockCopy": {
           "header": "AI -Pengingat Cerdas Bertenaga",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Organisasi email dan kategorisasi inbox cerdas",
     "badge": "Organisasi",
-    "title": "Chiefy mengatur inbox Anda",
+    "title": "Duet mengatur inbox Anda",
     "subtitle": "Kategorisasi otomatis menyaring kebisingan dan memunculkan hal-hal yang penting. Segera lihat apa yang perlu ditindaklanjuti, apa saja yang perlu diketahui, dan apa yang perlu ditunggu.",
     "windowTitle": "Inbox",
     "providers": [
@@ -216,7 +216,7 @@
     "ariaLabel": "AI penyusunan email dan pembuatan balasan",
     "badge": "Penyusunan",
     "title": "Draf duet dalam suara Anda",
-    "subtitle": "Chiefy mempelajari cara Anda menulis dan menyusun balasan yang sesuai dengan nada bicara Anda. Tinjau, sesuaikan jika perlu, dan kirim dalam hitungan detik.",
+    "subtitle": "Duet mempelajari cara Anda menulis dan menyusun balasan yang sesuai dengan nada bicara Anda. Tinjau, sesuaikan jika perlu, dan kirim dalam hitungan detik.",
     "windowTitle": "Pesan Baru",
     "fieldLabels": {
       "to": "To:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI intelijen dan asisten email",
     "badge": "Intelijen",
     "title": "Tanyakan apa pun tentang email Anda",
-    "subtitle": "Minta Chiefy untuk mencari email, memeriksa kalender Anda, atau membuat draf balasan. Ia memahami inbox Anda dan menjawab secara instan.",
-    "windowTitle": "Agen Chiefy",
+    "subtitle": "Minta Duet untuk mencari email, memeriksa kalender Anda, atau membuat draf balasan. Ia memahami inbox Anda dan menjawab secara instan.",
+    "windowTitle": "Agen Duet",
     "onlineLabel": "On line",
     "initialUserMessage": "Dapatkah Anda menemukan faktur Stripe yang dikirim oleh Bagian Akuntansi?",
     "processingText": "Mencari inbox...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "pekerja lepas",
-        "quote": "Bernilai setiap sen. Waktu yang saya hemat untuk email terbayar Chiefy 10x lipat. Tidak dapat membayangkan bekerja tanpanya sekarang.",
+        "quote": "Bernilai setiap sen. Waktu yang saya hemat untuk email terbayar Duet Mail 10x lipat. Tidak dapat membayangkan bekerja tanpanya sekarang.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Konsultan",
-        "quote": "Sebagai seorang konsultan, setiap menit berarti.  Chiefy tidak hanya menghemat waktu saya—tetapi juga membuat komunikasi email saya lebih tajam.",
+        "quote": "Sebagai seorang konsultan, setiap menit berarti.  Duet Mail tidak hanya menghemat waktu saya—tetapi juga membuat komunikasi email saya lebih tajam.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Organisasi dasar untuk memulai"
           },
           {
-            "title": "Asisten Chiefy",
+            "title": "Asisten Duet",
             "description": "Coba asisten AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Asisten Chiefy",
+            "title": "Asisten Duet",
             "description": "Ngobrol untuk menemukan, membuat draf, mengatur & lainnya",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "CONTACT",
     "contactHeading": "Masih ada pertanyaan?",
     "contactCta": "Hubungi →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Bagaimana Chiefy melindungi data email saya?",
+        "question": "Bagaimana Duet Mail melindungi data email saya?",
         "answer": "Keamanan Anda adalah prioritas utama kami. Kami menggunakan OAuth 2.0 untuk autentikasi aman dengan Google dan Microsoft. Konten email dienkripsi saat tidak digunakan menggunakan enkripsi tingkat bidang sisi klien, dan kami mengikuti prinsip hak istimewa paling rendah untuk akses API. Untuk integrasi Google, kami menjalani penilaian keamanan CASA tahunan CASA."
       },
       {
         "question": "Bagaimana cara kerja fitur ringkasan email?",
-        "answer": "Chiefy menggunakan AI tingkat lanjut untuk menganalisis rangkaian email Anda dan menghasilkan ikhtisar singkat yang menyoroti poin-poin penting, keputusan, dan item tindakan. Ini membantu Anda memahami konteks dengan cepat tanpa membaca keseluruhan topik."
+        "answer": "Duet Mail menggunakan AI tingkat lanjut untuk menganalisis rangkaian email Anda dan menghasilkan ikhtisar singkat yang menyoroti poin-poin penting, keputusan, dan item tindakan. Ini membantu Anda memahami konteks dengan cepat tanpa membaca keseluruhan topik."
       },
       {
-        "question": "Izin apa yang dibutuhkan Chiefy?",
-        "answer": "Chiefy memerlukan akses ke email Anda untuk memberikan ringkasan, mengekstrak item tindakan, membuat konten, dan mengirim email Anda. Kami hanya meminta izin yang benar-benar kami perlukan. Anda dapat meninjau dan mencabut izin ini kapan saja di pengaturan Google Account atau Microsoft Account Anda."
+        "question": "Izin apa yang dibutuhkan Duet Mail?",
+        "answer": "Duet Mail memerlukan akses ke email Anda untuk memberikan ringkasan, mengekstrak item tindakan, membuat konten, dan mengirim email Anda. Kami hanya meminta izin yang benar-benar kami perlukan. Anda dapat meninjau dan mencabut izin ini kapan saja di pengaturan Google Account atau Microsoft Account Anda."
       },
       {
         "question": "Apa saja yang termasuk dalam uji coba gratis?",
         "answer": "Uji coba gratis 14 hari mencakup akses penuh ke semua fitur Pro: ringkasan email tak terbatas, ekstraksi item tindakan, penulis email AI (menghasilkan email dan draf tanpa batas apa pun), dan templat email khusus. Masuk dengan Google atau Microsoft untuk mulai menghemat waktu dalam pengelolaan email."
       },
       {
-        "question": "Bisakah saya menggunakan Chiefy dengan penyedia email lain?",
-        "answer": "Chiefy mendukung Gmail, Google Workspace, dan Microsoft Outlook. Masuk dengan akun Google atau Microsoft Anda untuk memulai."
+        "question": "Bisakah saya menggunakan Duet Mail dengan penyedia email lain?",
+        "answer": "Duet Mail mendukung Gmail, Google Workspace, dan Microsoft Outlook. Masuk dengan akun Google atau Microsoft Anda untuk memulai."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Catatan kaki situs",
-    "brandIconAlt": "ikon Chiefy",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "ikon Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Asisten Email AI yang menghemat waktu Anda setiap minggu",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Mengeksplorasi",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "Pengembalian investasi",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "Pada {pricePerBooking} per {bookingUnit}, hanya kehilangan {lostPerMonth} karena memperlambat balasan =",
     "lossSuffix": "/bln pergi",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "$30/bln"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - Asisten Email AI untuk Gmail dan Outlook",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Asisten Email AI untuk Gmail dan Outlook",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Dukungan Pelanggan",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "Asisten email AI untuk Gmail dan Outlook yang secara otomatis merangkum email, menyusun balasan dalam suara Anda, dan mengatur inbox Anda untuk menghemat waktu setiap minggu.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Web",
     "browserRequirements": "Membutuhkan JavaScript. Bekerja dengan Gmail, Google Workspace, dan Microsoft Outlook.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "https://duetmail.com/id",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "Bagaimana Chiefy melindungi data email saya?",
+        "question": "Bagaimana Duet Mail melindungi data email saya?",
         "answer": "Keamanan Anda adalah prioritas utama kami. Kami menggunakan OAuth 2.0 untuk autentikasi aman dengan Google dan Microsoft. Konten email dienkripsi saat tidak digunakan menggunakan enkripsi tingkat bidang sisi klien, dan kami mengikuti prinsip hak istimewa paling rendah untuk akses API. Untuk integrasi Google, kami menjalani penilaian keamanan CASA tahunan CASA."
       },
       {
         "question": "Bagaimana cara kerja fitur ringkasan email?",
-        "answer": "Chiefy menggunakan AI tingkat lanjut untuk menganalisis rangkaian email Anda dan menghasilkan ikhtisar singkat yang menyoroti poin-poin penting, keputusan, dan item tindakan. Ini membantu Anda memahami konteks dengan cepat tanpa membaca keseluruhan topik."
+        "answer": "Duet Mail menggunakan AI tingkat lanjut untuk menganalisis rangkaian email Anda dan menghasilkan ikhtisar singkat yang menyoroti poin-poin penting, keputusan, dan item tindakan. Ini membantu Anda memahami konteks dengan cepat tanpa membaca keseluruhan topik."
       },
       {
-        "question": "Izin apa yang dibutuhkan Chiefy?",
-        "answer": "Chiefy memerlukan akses ke email Anda untuk memberikan ringkasan, mengekstrak item tindakan, membuat konten, dan mengirim email Anda. Kami hanya meminta izin yang benar-benar kami perlukan. Anda dapat meninjau dan mencabut izin ini kapan saja di pengaturan Google Account atau Microsoft Account Anda."
+        "question": "Izin apa yang dibutuhkan Duet Mail?",
+        "answer": "Duet Mail memerlukan akses ke email Anda untuk memberikan ringkasan, mengekstrak item tindakan, membuat konten, dan mengirim email Anda. Kami hanya meminta izin yang benar-benar kami perlukan. Anda dapat meninjau dan mencabut izin ini kapan saja di pengaturan Google Account atau Microsoft Account Anda."
       },
       {
         "question": "Apa saja yang termasuk dalam uji coba gratis?",
         "answer": "Uji coba gratis 14 hari mencakup akses penuh ke semua fitur Pro: ringkasan email tak terbatas, ekstraksi item tindakan, penulis email AI (menghasilkan email dan draf tanpa batas apa pun), dan templat email khusus. Masuk dengan Google atau Microsoft untuk mulai menghemat waktu dalam pengelolaan email."
       },
       {
-        "question": "Bisakah saya menggunakan Chiefy dengan penyedia email lain?",
-        "answer": "Chiefy mendukung Gmail, Google Workspace, dan Microsoft Outlook. Masuk dengan akun Google atau Microsoft Anda untuk memulai."
+        "question": "Bisakah saya menggunakan Duet Mail dengan penyedia email lain?",
+        "answer": "Duet Mail mendukung Gmail, Google Workspace, dan Microsoft Outlook. Masuk dengan akun Google atau Microsoft Anda untuk memulai."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

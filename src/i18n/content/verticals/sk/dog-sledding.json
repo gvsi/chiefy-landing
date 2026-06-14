@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Chiefy pre výlety psím záprahom | AI asistent pre e-maily",
-  "metaDescription": "Chiefy pomáha musherom okamžite odpovedať na rezervačné e-maily — aj priamo z trasy. AI návrhy odpovedí s typmi vašich výletov, cenami, pravidlami a štýlom.",
+  "pageTitle": "Duet Mail pre výlety psím záprahom | AI asistent pre e-maily",
+  "metaDescription": "Duet Mail pomáha musherom okamžite odpovedať na rezervačné e-maily — aj priamo z trasy. AI návrhy odpovedí s typmi vašich výletov, cenami, pravidlami a štýlom.",
   "heroBadge": "Dôveruje mu viac než 200 musherov",
   "heroHeadline": "Váš e-mailový asistent, kým ste na trase",
-  "heroSubline": "Chiefy sa naučí typy vašich výletov, ceny, pravidlá pre počasie a doplnky — a potom pripraví návrhy odpovedí, aby ste nikdy neprišli o rezerváciu kvôli pomalej reakcii.",
+  "heroSubline": "Duet sa naučí typy vašich výletov, ceny, pravidlá pre počasie a doplnky — a potom pripraví návrhy odpovedí, aby ste nikdy neprišli o rezerváciu kvôli pomalej reakcii.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "výlet",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dve zachránené rezervácie zaplatia ročné používanie Chiefy."
+    "punchline": "Dve zachránené rezervácie zaplatia ročné používanie Duet."
   },
-  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže najprv vidíte žiadosti o rezerváciu, potom otázky a hluk nikdy. Už žiadne prehliadnuté dopyty po výlete schované pod upozorneniami z TripAdvisor.",
-  "draftSubtitle": "Chiefy sa naučí typy vašich výletov, ceny a tón komunikácie. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s detailmi balíka, čo si obliecť a doplnkami. Vy ju skontrolujete a odošlete.",
-  "agentSubtitle": "\"Máme tento víkend nejaké rezervácie?\" \"Priprav odpoveď o balíku s polárnou žiarou.\" Chiefy pozná vašu schránku aj rozvrh — stačí sa opýtať.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže najprv vidíte žiadosti o rezerváciu, potom otázky a hluk nikdy. Už žiadne prehliadnuté dopyty po výlete schované pod upozorneniami z TripAdvisor.",
+  "draftSubtitle": "Duet sa naučí typy vašich výletov, ceny a tón komunikácie. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s detailmi balíka, čo si obliecť a doplnkami. Vy ju skontrolujete a odošlete.",
+  "agentSubtitle": "\"Máme tento víkend nejaké rezervácie?\" \"Priprav odpoveď o balíku s polárnou žiarou.\" Duet pozná vašu schránku aj rozvrh — stačí sa opýtať.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Prevádzkovateľ výletov so psím záprahom, AK",
-      "quote": "Denne som 6 hodín na trase bez signálu. Kým som sa vrátil, polovica dopytov na rezerváciu už odišla ku konkurencii. Chiefy pripravuje odpovede s detailmi mojich výletov a cenami — hostia dostanú odpoveď za minúty, nie hodiny.",
+      "quote": "Denne som 6 hodín na trase bez signálu. Kým som sa vrátil, polovica dopytov na rezerváciu už odišla ku konkurencii. Duet pripravuje odpovede s detailmi mojich výletov a cenami — hostia dostanú odpoveď za minúty, nie hodiny.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Majiteľka výletov do chovnej stanice a mush, AK",
-      "quote": "Ponúkame návštevy chovnej stanice, mush jazdy a balíky s polárnou žiarou — každý e-mail potrebuje inú odpoveď. Chiefy sa do týždňa naučil všetky tri typy výletov a teraz pripravuje odpovede, ktoré vždy zodpovedajú správnemu balíku.",
+      "quote": "Ponúkame návštevy chovnej stanice, mush jazdy a balíky s polárnou žiarou — každý e-mail potrebuje inú odpoveď. Duet sa do týždňa naučil všetky tri typy výletov a teraz pripravuje odpovede, ktoré vždy zodpovedajú správnemu balíku.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Sprievodca psím záprahom, MN",
-      "quote": "Predtým som každý večer trávil odpovedaním na tie isté otázky o oblečení, vekových limitoch a psoch. Chiefy zvládne všetko. Vraciam sa z trasy domov a všetko je už pripravené v návrhoch.",
+      "quote": "Predtým som každý večer trávil odpovedaním na tie isté otázky o oblečení, vekových limitoch a psoch. Duet zvládne všetko. Vraciam sa z trasy domov a všetko je už pripravené v návrhoch.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Prevádzkovateľka výletov s polárnou žiarou a sanami, AK",
-      "quote": "Zrušenia kvôli počasiu sú v zime bežné. Chiefy pripraví odpovede o presune termínu s našimi pravidlami a alternatívnymi dátumami ešte skôr, než stihnem pozrieť do telefónu. Hostia milujú rýchlu reakciu.",
+      "quote": "Zrušenia kvôli počasiu sú v zime bežné. Duet pripraví odpovede o presune termínu s našimi pravidlami a alternatívnymi dátumami ešte skôr, než stihnem pozrieť do telefónu. Hostia milujú rýchlu reakciu.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Rodinné dobrodružstvá so psím záprahom, CO",
-      "quote": "Rodičia sa vždy pýtajú, či ich deti môžu mushovať, či sú psy priateľské, čo si obliecť — tých istých 10 otázok. Chiefy sa naučil každú odpoveď a pripravuje ich perfektne. Je to ako mať vlastnú kópiu na e-maily.",
+      "quote": "Rodičia sa vždy pýtajú, či ich deti môžu mushovať, či sú psy priateľské, čo si obliecť — tých istých 10 otázok. Duet sa naučil každú odpoveď a pripravuje ich perfektne. Je to ako mať vlastnú kópiu na e-maily.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite bezplatnú skúšobnú verziu. Prepojte si schránku za 30 sekúnd.",
   "verticalFaqs": [
     {
-      "question": "Ako Chiefy rieši zrušenia kvôli počasiu a neistotu polárnej žiary?",
-      "answer": "Chiefy sa naučí vaše storno a presunové pravidlá. Keď hosť napíše o obavách z počasia alebo viditeľnosti polárnej žiary, pripraví odpoveď s vašimi pravidlami, alternatívnymi dátumami a prípadnými relevantnými detailmi — napríklad že sledujete podmienky a potvrdíte bližšie k výletu. Vy ju skontrolujete a odošlete."
+      "question": "Ako Duet rieši zrušenia kvôli počasiu a neistotu polárnej žiary?",
+      "answer": "Duet sa naučí vaše storno a presunové pravidlá. Keď hosť napíše o obavách z počasia alebo viditeľnosti polárnej žiary, pripraví odpoveď s vašimi pravidlami, alternatívnymi dátumami a prípadnými relevantnými detailmi — napríklad že sledujete podmienky a potvrdíte bližšie k výletu. Vy ju skontrolujete a odošlete."
     },
     {
-      "question": "Ponúkam viacero typov výletov s rôznymi cenami a doplnkami. Vie si ich Chiefy udržať oddelené?",
-      "answer": "Áno. Chiefy sa naučí každý z vašich typov výletov — návštevy chovnej stanice, mush zážitky, balíky s polárnou žiarou, doplnky s fotografovaním, dopravné balíky — spolu s ich cenou, trvaním a tým, čo obsahujú. Keď príde dopyt, priradí správny výlet a pripraví odpoveď so správnymi detailmi."
+      "question": "Ponúkam viacero typov výletov s rôznymi cenami a doplnkami. Vie si ich Duet udržať oddelené?",
+      "answer": "Áno. Duet sa naučí každý z vašich typov výletov — návštevy chovnej stanice, mush zážitky, balíky s polárnou žiarou, doplnky s fotografovaním, dopravné balíky — spolu s ich cenou, trvaním a tým, čo obsahujú. Keď príde dopyt, priradí správny výlet a pripraví odpoveď so správnymi detailmi."
     }
   ],
   "pricingNote": "Pri cene $150/výlet vám dve zachránené rezervácie zaplatia viac než rok používania Pro."

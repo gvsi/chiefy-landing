@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Chiefy für Hochzeitsplaner | KI-E-Mail-Assistent",
-  "metaDescription": "Chiefy hilft Hochzeitsplanern, sofort auf Kunden- und Lieferanten-E-Mails zu reagieren – sogar bei Besichtigungen des Veranstaltungsortes. Von der KI erstellte Antworten mit Ihren Paketen, Lieferantenkontakten und Ihrer Stimme.",
+  "pageTitle": "Duet Mail für Hochzeitsplaner | KI-E-Mail-Assistent",
+  "metaDescription": "Duet Mail hilft Hochzeitsplanern, sofort auf Kunden- und Lieferanten-E-Mails zu reagieren – sogar bei Besichtigungen des Veranstaltungsortes. Von der KI erstellte Antworten mit Ihren Paketen, Lieferantenkontakten und Ihrer Stimme.",
   "heroBadge": "Über 400 Hochzeitsplaner vertrauen darauf",
   "heroHeadline": "Ihr E-Mail-Assistent, während Sie vor Ort am Veranstaltungsort sind",
-  "heroSubline": "Chiefy lernt Ihre Lieferantenkontakte, Pakete und Kundenpräferenzen – und erstellt dann E-Mail-Antworten, damit Paare nie warten müssen, während Sie sich vor Ort koordinieren.",
+  "heroSubline": "Duet lernt Ihre Lieferantenkontakte, Pakete und Kundenpräferenzen – und erstellt dann E-Mail-Antworten, damit Paare nie warten müssen, während Sie sich vor Ort koordinieren.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "Hochzeit",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Ein gesparter Kunde zahlt für über 20 Jahre Chiefy."
+    "punchline": "Ein gesparter Kunde zahlt für über 20 Jahre Duet."
   },
-  "categorizationSubtitle": "Chiefy markiert automatisch jede E-Mail, sodass Sie zuerst die Anfragen neuer Paare, dann die Bestätigungen der Anbieter und nie den Newsletter-Rummel sehen. Keine Buchungsanfrage mehr verpassen, die unter Knot-Benachrichtigungen verborgen ist.",
-  "draftSubtitle": "Chiefy lernt Ihre Pakete, bevorzugten Anbieter und Ihren Ton. Wenn ein Paar nachfragt, verfasst es eine herzliche, umfassende Antwort mit Ihrer Verfügbarkeit und den nächsten Schritten. Sie überprüfen und senden.",
-  "agentSubtitle": "„Welche Lieferanten-E-Mails sind für die Thompson-Hochzeit eingegangen?“ „Entwerfen Sie eine Aktualisierung des Zeitplans für alle Anbieter für Samstag.” Chiefy kennt Ihren Posteingang und Ihre Kunden – fragen Sie einfach nach.",
+  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst die Anfragen neuer Paare, dann die Bestätigungen der Anbieter und nie den Newsletter-Rummel sehen. Keine Buchungsanfrage mehr verpassen, die unter Knot-Benachrichtigungen verborgen ist.",
+  "draftSubtitle": "Duet lernt Ihre Pakete, bevorzugten Anbieter und Ihren Ton. Wenn ein Paar nachfragt, verfasst es eine herzliche, umfassende Antwort mit Ihrer Verfügbarkeit und den nächsten Schritten. Sie überprüfen und senden.",
+  "agentSubtitle": "„Welche Lieferanten-E-Mails sind für die Thompson-Hochzeit eingegangen?“ „Entwerfen Sie eine Aktualisierung des Zeitplans für alle Anbieter für Samstag.” Duet kennt Ihren Posteingang und Ihre Kunden – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique-Hochzeitsplaner, CO",
-      "quote": "Die Hälfte meiner Woche bin ich an Veranstaltungsorten in den Bergen ohne Mobilfunkempfang. In der Zwischenzeit schicken mir Paare E-Mails zu Zeitplänen und Anbieterfragen. Chiefy entwirft Antworten mit meinen genauen Paketen und meinem Ton – ich überprüfe sie, wenn ich wieder in Reichweite bin.",
+      "quote": "Die Hälfte meiner Woche bin ich an Veranstaltungsorten in den Bergen ohne Mobilfunkempfang. In der Zwischenzeit schicken mir Paare E-Mails zu Zeitplänen und Anbieterfragen. Duet entwirft Antworten mit meinen genauen Paketen und meinem Ton – ich überprüfe sie, wenn ich wieder in Reichweite bin.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Full-Service-Hochzeitsplaner, CA",
-      "quote": "Die Koordination von mehr als 10 Anbietern pro Hochzeit bedeutet, dass mein Posteingang in der Hochsaison ein Kriegsgebiet ist. Chiefy kategorisiert Lieferanten-E-Mails getrennt von Kunden-E-Mails und Follow-up-Entwürfen, die ich selbst geschrieben hätte. Ich schlafe jetzt tatsächlich.",
+      "quote": "Die Koordination von mehr als 10 Anbietern pro Hochzeit bedeutet, dass mein Posteingang in der Hochsaison ein Kriegsgebiet ist. Duet kategorisiert Lieferanten-E-Mails getrennt von Kunden-E-Mails und Follow-up-Entwürfen, die ich selbst geschrieben hätte. Ich schlafe jetzt tatsächlich.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Tag des Koordinators, TX",
-      "quote": "An Hochzeitstagen bin ich 14 Stunden am Stück nicht erreichbar. Früher blieben neue Anfragen bis Montag unbeantwortet. Jetzt kümmert sich Chiefy sofort um sie und ich habe allein aufgrund der schnelleren Reaktionszeiten in diesem Quartal drei zusätzliche Hochzeiten gebucht.",
+      "quote": "An Hochzeitstagen bin ich 14 Stunden am Stück nicht erreichbar. Früher blieben neue Anfragen bis Montag unbeantwortet. Jetzt kümmert sich Duet sofort um sie und ich habe allein aufgrund der schnelleren Reaktionszeiten in diesem Quartal drei zusätzliche Hochzeiten gebucht.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Hochzeitsplaner für Reiseziele, HI",
-      "quote": "Meine Paare fliegen aus der ganzen Welt ein und senden rund um die Uhr E-Mails. Chiefy habe meine FAQ-Antworten gelernt – Veranstaltungsortlogistik, lokale Anbieter, was zu erwarten ist – und Antwortentwürfe, die genau nach mir klingen. Kunden haben keine Ahnung.",
+      "quote": "Meine Paare fliegen aus der ganzen Welt ein und senden rund um die Uhr E-Mails. Duet habe meine FAQ-Antworten gelernt – Veranstaltungsortlogistik, lokale Anbieter, was zu erwarten ist – und Antwortentwürfe, die genau nach mir klingen. Kunden haben keine Ahnung.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Hochzeits- und Veranstaltungsplaner, NY",
-      "quote": "Ich verbrachte jeden Abend zwei Stunden damit, die gleichen Paket- und Verfügbarkeitsfragen zu beantworten. Chiefy kümmert sich um die sich wiederholenden Dinge, sodass ich mich auf die kreative Arbeit konzentrieren kann, die ich wirklich liebe. Es hat sich in der ersten Woche amortisiert.",
+      "quote": "Ich verbrachte jeden Abend zwei Stunden damit, die gleichen Paket- und Verfügbarkeitsfragen zu beantworten. Duet kümmert sich um die sich wiederholenden Dinge, sodass ich mich auf die kreative Arbeit konzentrieren kann, die ich wirklich liebe. Es hat sich in der ersten Woche amortisiert.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
   "verticalFaqs": [
     {
-      "question": "Funktioniert Chiefy mit allen Lieferantenkoordinierungs-E-Mails?",
-      "answer": "Ja. Chiefy lernt Ihre Lieferantenkontakte, bevorzugte Lieferanten und wie Sie mit jedem einzelnen kommunizieren. Es kategorisiert Lieferanten-E-Mails nach Hochzeit und entwirft Antworten mit den richtigen Details – Bestätigungen, Nachfassaktionen, Zeitplanaktualisierungen. Sie überprüfen und senden. Es verwaltet Floristen, Caterer, Veranstaltungsorte, DJs, Fotografen und jeden anderen Anbieter in Ihrem Rolodex."
+      "question": "Funktioniert Duet mit allen Lieferantenkoordinierungs-E-Mails?",
+      "answer": "Ja. Duet lernt Ihre Lieferantenkontakte, bevorzugte Lieferanten und wie Sie mit jedem einzelnen kommunizieren. Es kategorisiert Lieferanten-E-Mails nach Hochzeit und entwirft Antworten mit den richtigen Details – Bestätigungen, Nachfassaktionen, Zeitplanaktualisierungen. Sie überprüfen und senden. Es verwaltet Floristen, Caterer, Veranstaltungsorte, DJs, Fotografen und jeden anderen Anbieter in Ihrem Rolodex."
     },
     {
       "question": "Ich bin den ganzen Tag bei Hochzeiten und Veranstaltungsorten vor Ort. Verpasse ich neue Anfragen?",
-      "answer": "Genau das löst Chiefy. Wenn Sie während der Koordination vor Ort ein paar E-Mails mit der Frage nach Verfügbarkeit oder Paketen erhalten, verfasst Chiefy eine freundliche, professionelle Antwort mit Ihrer tatsächlichen Verfügbarkeit und den nächsten Schritten. Sie überprüfen und senden, wann immer Sie Zeit haben – auch von Ihrem Telefon aus zwischen den Veranstaltungen. Die meisten Planer sagen uns, dass sie dadurch in der Hochsaison 1–2 Stunden E-Mail-Zeit pro Tag sparen."
+      "answer": "Genau das löst Duet. Wenn Sie während der Koordination vor Ort ein paar E-Mails mit der Frage nach Verfügbarkeit oder Paketen erhalten, verfasst Duet eine freundliche, professionelle Antwort mit Ihrer tatsächlichen Verfügbarkeit und den nächsten Schritten. Sie überprüfen und senden, wann immer Sie Zeit haben – auch von Ihrem Telefon aus zwischen den Veranstaltungen. Die meisten Planer sagen uns, dass sie dadurch in der Hochsaison 1–2 Stunden E-Mail-Zeit pro Tag sparen."
     }
   ],
   "pricingNote": "Bei 8.000 $/Hochzeit zahlt ein gesparter Kunde für über 20 Jahre Pro."

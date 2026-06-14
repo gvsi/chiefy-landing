@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Chiefy voor ATV- en UTV-tochten | AI-e-mailassistent",
-  "metaDescription": "Chiefy helpt ATV- en UTV-gidsen direct te reageren op boekings-e-mails, zelfs vanaf de route. Door AI opgestelde antwoorden met uw prijzen, vereisten en stem.",
+  "pageTitle": "Duet Mail voor ATV- en UTV-tochten | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt ATV- en UTV-gidsen direct te reageren op boekings-e-mails, zelfs vanaf de route. Door AI opgestelde antwoorden met uw prijzen, vereisten en stem.",
   "heroBadge": "Vertrouwd door meer dan 200 gidsen",
   "heroHeadline": "Uw e-mailassistent terwijl u onderweg bent",
-  "heroSubline": "Chiefy leert uw tourtypes, prijzen en passagiersvereisten kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
+  "heroSubline": "Duet leert uw tourtypes, prijzen en passagiersvereisten kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "groep (4 machines)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Eén opgeslagen groepsboeking betaalt een jaar lang Chiefy."
+    "punchline": "Eén opgeslagen groepsboeking betaalt een jaar lang Duet."
   },
-  "categorizationSubtitle": "Chiefy tagt automatisch elke e-mail, zodat u eerst boekingsaanvragen ziet, daarna verzekeringsvragen en nooit meer lawaai. U hoeft nooit meer een groepsaanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
-  "draftSubtitle": "Chiefy leert uw tourroutes, prijzen en rijdervereisten. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met reisgegevens, prijzen en wat u moet meenemen. Je beoordeelt en verzendt.",
-  "agentSubtitle": "\"Zijn er groepen geboekt voor dit weekend?\" 'Stel een antwoord op aan Rachel met de beschikbaarheid op zaterdag.'Chiefy kent uw inbox en planning — vraag het maar.",
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst boekingsaanvragen ziet, daarna verzekeringsvragen en nooit meer lawaai. U hoeft nooit meer een groepsaanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
+  "draftSubtitle": "Duet leert uw tourroutes, prijzen en rijdervereisten. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met reisgegevens, prijzen en wat u moet meenemen. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Zijn er groepen geboekt voor dit weekend?\" 'Stel een antwoord op aan Rachel met de beschikbaarheid op zaterdag.'Duet kent uw inbox en planning — vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "ATV-gids, Zuid-Utah",
-      "quote": "Ik leid 8-uur durende tochten door de canyons zonder mobiele service. Tegen de tijd dat ik terugkwam, was de helft van mijn boekings-e-mails koud geworden. Chiefy stelt reacties op met mijn prijs- en trajectinformatie - ik bekijk ze gewoon aan het eind van de dag.",
+      "quote": "Ik leid 8-uur durende tochten door de canyons zonder mobiele service. Tegen de tijd dat ik terugkwam, was de helft van mijn boekings-e-mails koud geworden. Duet stelt reacties op met mijn prijs- en trajectinformatie - ik bekijk ze gewoon aan het eind van de dag.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV-touroperator, Colorado",
-      "quote": "We organiseren 7 dagen per week rondleidingen en alleen al de vragen over verzekeringen en vrijstellingen slokten mijn ochtenden op. Chiefy regelt het allemaal: eisen van de rijder, leeftijdsbeperkingen, wat mee te nemen. Klinkt precies zoals ik.",
+      "quote": "We organiseren 7 dagen per week rondleidingen en alleen al de vragen over verzekeringen en vrijstellingen slokten mijn ochtenden op. Duet regelt het allemaal: eisen van de rijder, leeftijdsbeperkingen, wat mee te nemen. Klinkt precies zoals ik.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep-gids, Moab",
-      "quote": "Mensen e-mailen met de vraag welk parcours geschikt is voor hun groep, welk ervaringsniveau ze nodig hebben en of kinderen kunnen rijden. Steeds dezelfde 5 vragen. Chiefy nagelt ze allemaal.",
+      "quote": "Mensen e-mailen met de vraag welk parcours geschikt is voor hun groep, welk ervaringsniveau ze nodig hebben en of kinderen kunnen rijden. Steeds dezelfde 5 vragen. Duet nagelt ze allemaal.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Offroad-avonturen, AZ",
-      "quote": "Ik besteedde elke avond meer dan een uur aan het beantwoorden van dezelfde beschikbaarheidsvragen. Chiefy stelt nu antwoorden op terwijl ik onderweg ben. Mijn responstijd ging van uren naar minuten.",
+      "quote": "Ik besteedde elke avond meer dan een uur aan het beantwoorden van dezelfde beschikbaarheidsvragen. Duet stelt nu antwoorden op terwijl ik onderweg ben. Mijn responstijd ging van uren naar minuten.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Familie ATV-tochten, Sedona",
-      "quote": "We krijgen veel gezinnen die vragen naar beginnerspaden en leeftijdseisen. Chiefy heeft al onze touropties geleerd en beveelt in elk antwoord de juiste aan. Klanten kunnen het verschil niet zien.",
+      "quote": "We krijgen veel gezinnen die vragen naar beginnerspaden en leeftijdseisen. Duet heeft al onze touropties geleerd en beveelt in elk antwoord de juiste aan. Klanten kunnen het verschil niet zien.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "Behandelt Chiefy vragen over verzekeringen en vrijstellingen?",
-      "answer": "Ja. Chiefy leert de vereisten van uw rijder: aansprakelijkheidsverzekering, leeftijdsbeperkingen, ontheffingsdetails, wat rijders moeten meenemen. Wanneer iemand een e-mail stuurt met de vraag wat hij nodig heeft voor zijn tour, stelt Chiefy een volledig antwoord op met alle details. Je bekijkt het en tikt op verzenden."
+      "question": "Behandelt Duet vragen over verzekeringen en vrijstellingen?",
+      "answer": "Ja. Duet leert de vereisten van uw rijder: aansprakelijkheidsverzekering, leeftijdsbeperkingen, ontheffingsdetails, wat rijders moeten meenemen. Wanneer iemand een e-mail stuurt met de vraag wat hij nodig heeft voor zijn tour, stelt Duet een volledig antwoord op met alle details. Je bekijkt het en tikt op verzenden."
     },
     {
-      "question": "Ik ben de hele dag onderweg zonder mobiel bereik. Hoe helpt Chiefy?",
-      "answer": "Dat is precies waarom gidsen van Chiefy houden. Terwijl u een 6-8 uur durende tour leidt zonder signaal, stapelen de boekingsaanvragen zich op. Chiefy stelt antwoorden op voor elk van hen: prijzen, beschikbaarheid, vergaderlocatie, wat te dragen. Wanneer u terugkomt, bekijkt u de concepten en verzendt u deze. De meeste gidsen vertellen ons dat dit hen tijdens het hoogseizoen 1-2 uur e-mailtijd per dag bespaart."
+      "question": "Ik ben de hele dag onderweg zonder mobiel bereik. Hoe helpt Duet?",
+      "answer": "Dat is precies waarom gidsen van Duet houden. Terwijl u een 6-8 uur durende tour leidt zonder signaal, stapelen de boekingsaanvragen zich op. Duet stelt antwoorden op voor elk van hen: prijzen, beschikbaarheid, vergaderlocatie, wat te dragen. Wanneer u terugkomt, bekijkt u de concepten en verzendt u deze. De meeste gidsen vertellen ons dat dit hen tijdens het hoogseizoen 1-2 uur e-mailtijd per dag bespaart."
     }
   ],
   "pricingNote": "Bij $ 200/machine betaalt één opgeslagen groep van 4 voor meer dan een jaar Pro."

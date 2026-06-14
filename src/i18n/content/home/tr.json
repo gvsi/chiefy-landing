@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy | AI Gmail ve Outlook için E-posta Yardımcısı",
-    "description": "Chiefy'ın AI e-posta asistanı, e-postaları özetler, yanıt taslakları oluşturur ve gelen kutunuzu düzenler. Gmail ve Outlook ile birlikte çalışır. Haftada 4 saatten fazla zaman tasarrufu sağlar."
+    "title": "Duet Mail | AI Gmail ve Outlook için E-posta Yardımcısı",
+    "description": "Duet Mail'ın AI e-posta asistanı, e-postaları özetler, yanıt taslakları oluşturur ve gelen kutunuzu düzenler. Gmail ve Outlook ile birlikte çalışır. Haftada 4 saatten fazla zaman tasarrufu sağlar."
   },
   "hero": {
     "badge": "Artık Gmail ve Outlook için kullanılabilir.",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Sizin tarzınıza uygun e-posta taslakları",
-        "description": "Chiefy AI e-posta yazıcısı, en önemli e-postalarınız için taslaklar hazırlar. Üslubunuzu ve yazım tarzınızı öğrenir.",
+        "description": "Duet AI e-posta yazıcısı, en önemli e-postalarınız için taslaklar hazırlar. Üslubunuzu ve yazım tarzınızı öğrenir.",
         "ariaLabel": "Sizin gibi ses çıkaran e-posta taslakları",
         "mockCopy": {
           "draftedColdEmail": "John için kişiselleştirilmiş bir \"soğuk tanıtım e-postası\" taslağı hazırladım.",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Akıllı Hatırlatıcılar",
-        "description": "Bir kere ayarlayın ve unutun. Chiefy AI, diğerleri yanıt vermediğinde takip etmeyi hatırlıyor, böylece hiçbir şey gözden kaçmıyor.",
+        "description": "Bir kere ayarlayın ve unutun. Duet AI, diğerleri yanıt vermediğinde takip etmeyi hatırlıyor, böylece hiçbir şey gözden kaçmıyor.",
         "ariaLabel": "Akıllı hatırlatıcılar",
         "mockCopy": {
           "header": "AI-Powered Akıllı Hatırlatıcılar",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "E-posta organizasyonu ve akıllı gelen kutusu kategorizasyonu",
     "badge": "Organizasyon",
-    "title": "Chiefy gelen kutunuzu düzenler",
+    "title": "Duet gelen kutunuzu düzenler",
     "subtitle": "Otomatik kategorizasyon, gereksiz bilgileri filtreleyerek önemli olanları ortaya çıkarır. Neyin harekete geçilmesi gerektiğini, neyin sadece bilgi amaçlı olduğunu ve neyin bekleyebileceğini anında görün.",
     "windowTitle": "Gelen Kutusu",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI e-posta taslağı oluşturma ve yanıt üretme",
     "badge": "Taslak hazırlama",
-    "title": "Chiefy sesinizdeki taslaklar",
-    "subtitle": "Chiefy, yazma tarzınızı öğrenir ve üslubunuza uygun yanıt taslakları oluşturur. Gözden geçirin, gerekirse ayarlayın ve saniyeler içinde gönderin.",
+    "title": "Duet sesinizdeki taslaklar",
+    "subtitle": "Duet, yazma tarzınızı öğrenir ve üslubunuza uygun yanıt taslakları oluşturur. Gözden geçirin, gerekirse ayarlayın ve saniyeler içinde gönderin.",
     "windowTitle": "Yeni Mesaj",
     "fieldLabels": {
       "to": "To:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI e-posta zekası ve asistanı",
     "badge": "İstihbarat",
     "title": "E-postanızla ilgili her şeyi sorabilirsiniz.",
-    "subtitle": "Chiefy'dan e-postaları bulmasını, takviminizi kontrol etmesini veya bir yanıt taslağı hazırlamasını isteyin. Gelen kutunuzu anlar ve anında yanıt verir.",
-    "windowTitle": "Chiefy Ajan",
+    "subtitle": "Duet'dan e-postaları bulmasını, takviminizi kontrol etmesini veya bir yanıt taslağı hazırlamasını isteyin. Gelen kutunuzu anlar ve anında yanıt verir.",
+    "windowTitle": "Duet Ajan",
     "onlineLabel": "Çevrimiçi",
     "initialUserMessage": "Muhasebe departmanı tarafından gönderilen Stripe numaralı faturayı bulabilir misiniz?",
     "processingText": "Gelen kutusunda arama yapılıyor...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Serbest çalışan",
-        "quote": "Her kuruşuna değer. E-postada tasarruf ettiğim zaman, Chiefy'ın maliyetini 10 kat fazlasıyla karşılıyor. Artık onsuz çalışmayı hayal bile edemiyorum.",
+        "quote": "Her kuruşuna değer. E-postada tasarruf ettiğim zaman, Duet Mail'ın maliyetini 10 kat fazlasıyla karşılıyor. Artık onsuz çalışmayı hayal bile edemiyorum.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Danışman",
-        "quote": "Bir danışman olarak her dakika önemlidir. Chiefy sadece zaman kazandırmakla kalmıyor, e-posta iletişimimi de daha verimli hale getiriyor.",
+        "quote": "Bir danışman olarak her dakika önemlidir. Duet Mail sadece zaman kazandırmakla kalmıyor, e-posta iletişimimi de daha verimli hale getiriyor.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Başlangıç ​​için temel organizasyon"
           },
           {
-            "title": "Chiefy Asistan",
+            "title": "Duet Asistan",
             "description": "AI asistanını deneyin"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Asistan",
+            "title": "Duet Asistan",
             "description": "Aramak, taslak oluşturmak, düzenlemek ve daha fazlası için sohbet edin",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "TEMAS ETMEK",
     "contactHeading": "Hâlâ sorularınız mı var?",
     "contactCta": "İletişime geçin →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "SSS",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Chiefy e-posta verilerimi nasıl koruyor?",
+        "question": "Duet Mail e-posta verilerimi nasıl koruyor?",
         "answer": "Güvenliğiniz bizim önceliğimizdir. Hem Google hem de Microsoft ile güvenli kimlik doğrulama için OAuth 2.0 kullanıyoruz. E-posta içeriği, istemci tarafı alan düzeyinde şifreleme kullanılarak bekleme durumundayken şifrelenir ve API erişimi için en az ayrıcalık ilkesini izliyoruz. Google entegrasyonumuz için, Google'ün yıllık CASA güvenlik değerlendirmesinden geçiyoruz."
       },
       {
         "question": "E-posta özetleme özelliği nasıl çalışır?",
-        "answer": "Chiefy, e-posta yazışmalarınızı analiz etmek ve önemli noktaları, kararları ve eylem maddelerini vurgulayan özlü bir özet oluşturmak için gelişmiş AI özelliğini kullanır. Bu, tüm yazışmaları okumadan bağlamı hızlıca anlamanıza yardımcı olur."
+        "answer": "Duet Mail, e-posta yazışmalarınızı analiz etmek ve önemli noktaları, kararları ve eylem maddelerini vurgulayan özlü bir özet oluşturmak için gelişmiş AI özelliğini kullanır. Bu, tüm yazışmaları okumadan bağlamı hızlıca anlamanıza yardımcı olur."
       },
       {
-        "question": "Chiefy hangi izinlere ihtiyaç duyuyor?",
-        "answer": "Chiefy, özetler sunmak, eylem öğelerini çıkarmak, içerik oluşturmak ve e-postalarınızı göndermek için e-postalarınıza erişim gerektirir. Yalnızca kesinlikle ihtiyaç duyduğumuz izinleri talep ediyoruz. Bu izinleri istediğiniz zaman Google Account veya Microsoft Account ayarlarınızda inceleyebilir ve iptal edebilirsiniz."
+        "question": "Duet Mail hangi izinlere ihtiyaç duyuyor?",
+        "answer": "Duet Mail, özetler sunmak, eylem öğelerini çıkarmak, içerik oluşturmak ve e-postalarınızı göndermek için e-postalarınıza erişim gerektirir. Yalnızca kesinlikle ihtiyaç duyduğumuz izinleri talep ediyoruz. Bu izinleri istediğiniz zaman Google Account veya Microsoft Account ayarlarınızda inceleyebilir ve iptal edebilirsiniz."
       },
       {
         "question": "Ücretsiz deneme sürümüne neler dahildir?",
         "answer": "14 günlük ücretsiz deneme sürümü, tüm Pro özelliklerine tam erişim içerir: sınırsız e-posta özetleri, eylem öğesi çıkarma, AI e-posta yazıcısı (sınırsız e-posta ve taslak oluşturma) ve özel e-posta şablonları. E-posta yönetiminde zamandan tasarruf etmeye başlamak için Google veya Microsoft ile giriş yapın."
       },
       {
-        "question": "Chiefy ifadesini diğer e-posta sağlayıcılarıyla da kullanabilir miyim?",
-        "answer": "Chiefy, Gmail, Google Workspace ve Microsoft Outlook sürümlerini desteklemektedir. Başlamak için Google veya Microsoft hesabınızla giriş yapın."
+        "question": "Duet Mail ifadesini diğer e-posta sağlayıcılarıyla da kullanabilir miyim?",
+        "answer": "Duet Mail, Gmail, Google Workspace ve Microsoft Outlook sürümlerini desteklemektedir. Başlamak için Google veya Microsoft hesabınızla giriş yapın."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Site altbilgisi",
-    "brandIconAlt": "Chiefy simgesi",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "Duet Mail simgesi",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — Her hafta size saatler kazandıran AI E-posta Asistanı",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Keşfetmek",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "yatırım getirisi",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "{pricePerBooking}'da {bookingUnit} başına, yavaş yanıtlar nedeniyle sadece {lostPerMonth} kaybediliyor =",
     "lossSuffix": "/mo gitti",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - AI Gmail ve Outlook için E-posta Yardımcısı",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - AI Gmail ve Outlook için E-posta Yardımcısı",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Müşteri Desteği",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "AI, Gmail ve Outlook için e-postaları otomatik olarak özetleyen, yanıt taslaklarını sizin sesinizle hazırlayan ve gelen kutunuzu düzenleyerek her hafta saatlerce zamandan tasarruf etmenizi sağlayan bir e-posta asistanıdır.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Web",
     "browserRequirements": "JavaScript gerektirir. Gmail, Google Workspace ve Microsoft Outlook ile çalışır.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "https://duetmail.com/",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "Chiefy e-posta verilerimi nasıl koruyor?",
+        "question": "Duet Mail e-posta verilerimi nasıl koruyor?",
         "answer": "Güvenliğiniz bizim önceliğimizdir. Hem Google hem de Microsoft ile güvenli kimlik doğrulama için OAuth 2.0 kullanıyoruz. E-posta içeriği, istemci tarafı alan düzeyinde şifreleme kullanılarak bekleme durumundayken şifrelenir ve API erişimi için en az ayrıcalık ilkesini izliyoruz. Google entegrasyonumuz için, Google'ün yıllık CASA güvenlik değerlendirmesinden geçiyoruz."
       },
       {
         "question": "E-posta özetleme özelliği nasıl çalışır?",
-        "answer": "Chiefy, e-posta yazışmalarınızı analiz etmek ve önemli noktaları, kararları ve eylem maddelerini vurgulayan özlü bir özet oluşturmak için gelişmiş AI özelliğini kullanır. Bu, tüm yazışmaları okumadan bağlamı hızlıca anlamanıza yardımcı olur."
+        "answer": "Duet Mail, e-posta yazışmalarınızı analiz etmek ve önemli noktaları, kararları ve eylem maddelerini vurgulayan özlü bir özet oluşturmak için gelişmiş AI özelliğini kullanır. Bu, tüm yazışmaları okumadan bağlamı hızlıca anlamanıza yardımcı olur."
       },
       {
-        "question": "Chiefy hangi izinlere ihtiyaç duyuyor?",
-        "answer": "Chiefy, özetler sunmak, eylem öğelerini çıkarmak, içerik oluşturmak ve e-postalarınızı göndermek için e-postalarınıza erişim gerektirir. Yalnızca kesinlikle ihtiyaç duyduğumuz izinleri talep ediyoruz. Bu izinleri istediğiniz zaman Google Account veya Microsoft Account ayarlarınızda inceleyebilir ve iptal edebilirsiniz."
+        "question": "Duet Mail hangi izinlere ihtiyaç duyuyor?",
+        "answer": "Duet Mail, özetler sunmak, eylem öğelerini çıkarmak, içerik oluşturmak ve e-postalarınızı göndermek için e-postalarınıza erişim gerektirir. Yalnızca kesinlikle ihtiyaç duyduğumuz izinleri talep ediyoruz. Bu izinleri istediğiniz zaman Google Account veya Microsoft Account ayarlarınızda inceleyebilir ve iptal edebilirsiniz."
       },
       {
         "question": "Ücretsiz deneme sürümüne neler dahildir?",
         "answer": "14 günlük ücretsiz deneme sürümü, tüm Pro özelliklerine tam erişim içerir: sınırsız e-posta özetleri, eylem öğesi çıkarma, AI e-posta yazıcısı (sınırsız e-posta ve taslak oluşturma) ve özel e-posta şablonları. E-posta yönetiminde zamandan tasarruf etmeye başlamak için Google veya Microsoft ile giriş yapın."
       },
       {
-        "question": "Chiefy ifadesini diğer e-posta sağlayıcılarıyla da kullanabilir miyim?",
-        "answer": "Chiefy, Gmail, Google Workspace ve Microsoft Outlook sürümlerini desteklemektedir. Başlamak için Google veya Microsoft hesabınızla giriş yapın."
+        "question": "Duet Mail ifadesini diğer e-posta sağlayıcılarıyla da kullanabilir miyim?",
+        "answer": "Duet Mail, Gmail, Google Workspace ve Microsoft Outlook sürümlerini desteklemektedir. Başlamak için Google veya Microsoft hesabınızla giriş yapın."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

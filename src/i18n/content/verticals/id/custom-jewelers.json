@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy untuk Perhiasan Kustom |  AI Asisten Email",
-  "metaDescription": "Chiefy membantu pembuat perhiasan khusus merespons permintaan konsultasi, persetujuan desain, dan pertanyaan garis waktu secara instan — bahkan saat berada di meja kerja.  AI -Balasan yang disusun dengan proses, harga, dan suara Anda.",
+  "pageTitle": "Duet Mail untuk Perhiasan Kustom |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu pembuat perhiasan khusus merespons permintaan konsultasi, persetujuan desain, dan pertanyaan garis waktu secara instan — bahkan saat berada di meja kerja.  AI -Balasan yang disusun dengan proses, harga, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 300+ desainer perhiasan",
   "heroHeadline": "Asisten email Anda saat Anda berada di bangku cadangan",
-  "heroSubline": "Chiefy mempelajari proses desain, material, harga, dan jadwal Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien khusus karena respons yang lambat.",
+  "heroSubline": "Duet mempelajari proses desain, material, harga, dan jadwal Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien khusus karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "potongan khusus",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Satu klien yang disimpan membayar Chiefy selama lebih dari empat tahun."
+    "punchline": "Satu klien yang disimpan membayar Duet selama lebih dari empat tahun."
   },
-  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat permintaan konsultasi baru terlebih dahulu, persetujuan desain kedua, dan buletin vendor tidak pernah lagi. Tidak ada lagi pertanyaan senilai $5.000 yang hilang karena promo pemasok.",
-  "draftSubtitle": "Chiefy mempelajari proses, materi, harga, dan suara Anda. Ketika permintaan konsultasi diterima, ia akan menyusun balasan lengkap dengan ketersediaan Anda, apa yang harus dibawa, dan bagaimana proses Anda bekerja. Anda meninjau dan mengirim.",
-  "agentSubtitle": "\"Di mana kita dengan cincin Amanda?\" \"Draf pembaruan garis waktu untuk James.\" Chiefy mengetahui setiap thread klien — tanyakan saja.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan konsultasi baru terlebih dahulu, persetujuan desain kedua, dan buletin vendor tidak pernah lagi. Tidak ada lagi pertanyaan senilai $5.000 yang hilang karena promo pemasok.",
+  "draftSubtitle": "Duet mempelajari proses, materi, harga, dan suara Anda. Ketika permintaan konsultasi diterima, ia akan menyusun balasan lengkap dengan ketersediaan Anda, apa yang harus dibawa, dan bagaimana proses Anda bekerja. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Di mana kita dengan cincin Amanda?\" \"Draf pembaruan garis waktu untuk James.\" Duet mengetahui setiap thread klien — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -133,25 +133,25 @@
     {
       "name": "Sarah L.",
       "title": "Tukang Emas & Pemilik Studio, Brooklyn",
-      "quote": "Saya kehilangan komisi cincin pertunangan sebesar $7.000 karena saya membutuhkan waktu 3 hari untuk merespons — pasangan tersebut mendatangi seseorang yang membalas dalam 2 jam. Sejak Chiefy, waktu respons saya kurang dari 30 menit. Hal itu tidak terjadi lagi.",
+      "quote": "Saya kehilangan komisi cincin pertunangan sebesar $7.000 karena saya membutuhkan waktu 3 hari untuk merespons — pasangan tersebut mendatangi seseorang yang membalas dalam 2 jam. Sejak Duet, waktu respons saya kurang dari 30 menit. Hal itu tidak terjadi lagi.",
       "avatarKey": "sarah"
     },
     {
       "name": "Dani K.",
       "title": "Toko Perhiasan Bangku, Chicago",
-      "quote": "Saya berada di bangku cadangan 8 jam sehari dengan obor di tangan saya. Saya tidak bisa berhenti menyolder untuk mengetik balasan konsultasi. Chiefy menyusun semuanya selagi aku bekerja — aku melirik ponselku, menyetujuinya, selesai.",
+      "quote": "Saya berada di bangku cadangan 8 jam sehari dengan obor di tangan saya. Saya tidak bisa berhenti menyolder untuk mengetik balasan konsultasi. Duet menyusun semuanya selagi aku bekerja — aku melirik ponselku, menyetujuinya, selesai.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Desainer Perhiasan Pengantin, Austin",
-      "quote": "Selama musim pertunangan saya mendapatkan 20+ permintaan konsultasi dalam seminggu. Chiefy mempelajari seluruh proses saya — materi, jadwal, tingkatan harga, apa yang harus dibawa. Ini menyusun balasan yang hampir tidak perlu saya edit. Penyelamat mutlak dari bulan November hingga Februari.",
+      "quote": "Selama musim pertunangan saya mendapatkan 20+ permintaan konsultasi dalam seminggu. Duet mempelajari seluruh proses saya — materi, jadwal, tingkatan harga, apa yang harus dibawa. Ini menyusun balasan yang hampir tidak perlu saya edit. Penyelamat mutlak dari bulan November hingga Februari.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Spesialis Cincin Kustom, Portland",
-      "quote": "Email revisi 3D biasa menghabiskan malam saya. Klien mengirimkan umpan balik, saya menyusun pembaruan, bolak-balik lima kali. Sekarang Chiefy menangani balasan rutin dan saya hanya turun tangan untuk mengambil keputusan desain. Aku mendapatkan malamku kembali.",
+      "quote": "Email revisi 3D biasa menghabiskan malam saya. Klien mengirimkan umpan balik, saya menyusun pembaruan, bolak-balik lima kali. Sekarang Duet menangani balasan rutin dan saya hanya turun tangan untuk mengambil keputusan desain. Aku mendapatkan malamku kembali.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Bisakah Chiefy menangani email dengan foto referensi dan lampiran desain?",
-      "answer": "Ya. Chiefy melihat rangkaian email lengkap termasuk lampiran, sehingga memahami konteks saat klien mengirimkan foto inspirasi atau masukan desain. Ini tidak akan mendeskripsikan kembali gambar tersebut, namun ia mengetahui bahwa klien baru saja mengirimkan foto referensi dan membuat draf balasan yang sesuai — mengonfirmasi penerimaan, mengajukan pertanyaan klarifikasi tentang desain, atau memberikan langkah selanjutnya berdasarkan alur kerja Anda yang biasa."
+      "question": "Bisakah Duet menangani email dengan foto referensi dan lampiran desain?",
+      "answer": "Ya. Duet melihat rangkaian email lengkap termasuk lampiran, sehingga memahami konteks saat klien mengirimkan foto inspirasi atau masukan desain. Ini tidak akan mendeskripsikan kembali gambar tersebut, namun ia mengetahui bahwa klien baru saja mengirimkan foto referensi dan membuat draf balasan yang sesuai — mengonfirmasi penerimaan, mengajukan pertanyaan klarifikasi tentang desain, atau memberikan langkah selanjutnya berdasarkan alur kerja Anda yang biasa."
     },
     {
-      "question": "Proyek khusus saya memiliki rangkaian email yang panjang dengan 10+ pesan. Bisakah Chiefy mengikuti itu?",
-      "answer": "Di situlah Chiefy bersinar. Ia membaca seluruh riwayat thread — catatan konsultasi, revisi desain, pilihan material, pembaruan garis waktu — sehingga setiap draf balasan memiliki konteks penuh. Saat klien bertanya 'apa status cincin saya?' di email #14, Chiefy mengetahui dering mana, di tahap apa, dan menyusun pembaruan yang akurat. Tidak perlu lagi membaca ulang email selama 3 bulan sendiri."
+      "question": "Proyek khusus saya memiliki rangkaian email yang panjang dengan 10+ pesan. Bisakah Duet mengikuti itu?",
+      "answer": "Di situlah Duet bersinar. Ia membaca seluruh riwayat thread — catatan konsultasi, revisi desain, pilihan material, pembaruan garis waktu — sehingga setiap draf balasan memiliki konteks penuh. Saat klien bertanya 'apa status cincin saya?' di email #14, Duet mengetahui dering mana, di tahap apa, dan menyusun pembaruan yang akurat. Tidak perlu lagi membaca ulang email selama 3 bulan sendiri."
     }
   ],
   "pricingNote": "Dengan harga $5.000/potong, satu komisi yang dihemat akan dibayarkan selama lebih dari empat tahun Pro."

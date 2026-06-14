@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Chiefy raftinga un kajaku tūru rīkotājiem | AI e-pasta asistents",
-  "metaDescription": "Chiefy palīdz raftinga gidiem un kajaku tūru rīkotājiem uzreiz atbildēt uz braucienu pieprasījumiem — pat, kamēr viņi ir uz upes. AI sagatavotas atbildes ar jūsu braucienu informāciju, cenām un jūsu saziņas stilu.",
+  "pageTitle": "Duet Mail raftinga un kajaku tūru rīkotājiem | AI e-pasta asistents",
+  "metaDescription": "Duet Mail palīdz raftinga gidiem un kajaku tūru rīkotājiem uzreiz atbildēt uz braucienu pieprasījumiem — pat, kamēr viņi ir uz upes. AI sagatavotas atbildes ar jūsu braucienu informāciju, cenām un jūsu saziņas stilu.",
   "heroBadge": "Uzticas 200+ upju gidu",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat uz upes",
-  "heroSubline": "Chiefy apgūst jūsu braucienu veidus, cenas un inventāra sarakstus — pēc tam sagatavo atbildes uz rezervācijas pieprasījumiem, lai klienti saņemtu atbildes, kamēr jūs vadāt laivas cauri krācēm.",
+  "heroSubline": "Duet apgūst jūsu braucienu veidus, cenas un inventāra sarakstus — pēc tam sagatavo atbildes uz rezervācijas pieprasījumiem, lai klienti saņemtu atbildes, kamēr jūs vadāt laivas cauri krācēm.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "persona",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Divas saglabātas rezervācijas apmaksā pilnu Chiefy gadu."
+    "punchline": "Divas saglabātas rezervācijas apmaksā pilnu Duet gadu."
   },
-  "categorizationSubtitle": "Chiefy automātiski marķē katru e-pastu, lai braucienu pieprasījumi būtu redzami pirmie, inventāra jautājumi — otrie, bet reklāmu troksnis pazustu. Vairs nekādu grupas rezervāciju, kas pazūd zem TripAdvisor paziņojumiem.",
-  "draftSubtitle": "Chiefy apgūst jūsu braucienu veidus, krāču klases, inventāra sarakstus un atcelšanas politiku. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar visu, kas klientam jāzina. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Vai sestdienas pilnas dienas braucienā vēl ir brīvas vietas?\" \"Sagatavo atbildi Jennifer ar pieejamību.\" Chiefy pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Duet automātiski marķē katru e-pastu, lai braucienu pieprasījumi būtu redzami pirmie, inventāra jautājumi — otrie, bet reklāmu troksnis pazustu. Vairs nekādu grupas rezervāciju, kas pazūd zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Duet apgūst jūsu braucienu veidus, krāču klases, inventāra sarakstus un atcelšanas politiku. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar visu, kas klientam jāzina. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai sestdienas pilnas dienas braucienā vēl ir brīvas vietas?\" \"Sagatavo atbildi Jennifer ar pieejamību.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Raftinga tūru rīkotājs, CO",
-      "quote": "Sezonas kulminācijā esmu uz upes 6 dienas nedēļā. Kamēr tiku atpakaļ pie e-pastiem, puse grupu jau bija rezervējusi pie kāda cita. Tagad Chiefy sagatavo atbildes ar brauciena informāciju un cenām, kamēr esmu starta vietā.",
+      "quote": "Sezonas kulminācijā esmu uz upes 6 dienas nedēļā. Kamēr tiku atpakaļ pie e-pastiem, puse grupu jau bija rezervējusi pie kāda cita. Tagad Duet sagatavo atbildes ar brauciena informāciju un cenām, kamēr esmu starta vietā.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Kajaku un SUP tūres, OR",
-      "quote": "Katrs klients uzdod tos pašus piecus jautājumus — cena, ko ņemt līdzi, prasmju līmenis, grupas lielums, atcelšanas politika. Chiefy to visu apguva pirmajā nedēļā. No stundas e-pastiem katru vakaru pārgāju uz piecām minūtēm melnrakstu pārskatīšanai.",
+      "quote": "Katrs klients uzdod tos pašus piecus jautājumus — cena, ko ņemt līdzi, prasmju līmenis, grupas lielums, atcelšanas politika. Duet to visu apguva pirmajā nedēļā. No stundas e-pastiem katru vakaru pārgāju uz piecām minūtēm melnrakstu pārskatīšanai.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Vairāku dienu ekspedīciju gids, AK",
-      "quote": "Vadu 5 dienu braucienus bez jebkāda mobilā pārklājuma. Pirms Chiefy katrs pieprasījums palika neatbildēts, līdz atgriezos pilsētā. Tagad klienti saņem detalizētu atbildi dažu minūšu laikā, un es apstiprinu, kad esmu nost no upes.",
+      "quote": "Vadu 5 dienu braucienus bez jebkāda mobilā pārklājuma. Pirms Duet katrs pieprasījums palika neatbildēts, līdz atgriezos pilsētā. Tagad klienti saņem detalizētu atbildi dažu minūšu laikā, un es apstiprinu, kad esmu nost no upes.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "River Adventures biroja vadītāja, WV",
-      "quote": "Es pārvaldu rezervācijas trim gidiem četros braucienu veidos. Chiefy sakārto katru e-pastu pēc steidzamības un sagatavo atbildes ar pareizo braucienu, pareizo cenu un pareizo inventāra sarakstu. Tas ir kā noklonēt sevi.",
+      "quote": "Es pārvaldu rezervācijas trim gidiem četros braucienu veidos. Duet sakārto katru e-pastu pēc steidzamības un sagatavo atbildes ar pareizo braucienu, pareizo cenu un pareizo inventāra sarakstu. Tas ir kā noklonēt sevi.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pieslēdziet savu iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Vai Chiefy apstrādā individuālus braucienu cenu piedāvājumus un vairāku dienu ekspedīciju pieprasījumus?",
-      "answer": "Jā. Chiefy apgūst visu jūsu braucienu klāstu — pusdienas mierīgos nobraucienus, pilnas dienas krāces, vairāku dienu ekspedīcijas — kopā ar cenām, iekļauto, minimālo vecumu un grūtības pakāpēm. Kad kāds jautā par 3 dienu braucienu 6 cilvēkiem, tas sagatavo pilnu atbildi ar pareizo informāciju. Jūs pārskatāt, vajadzības gadījumā pielabojat un nosūtāt."
+      "question": "Vai Duet apstrādā individuālus braucienu cenu piedāvājumus un vairāku dienu ekspedīciju pieprasījumus?",
+      "answer": "Jā. Duet apgūst visu jūsu braucienu klāstu — pusdienas mierīgos nobraucienus, pilnas dienas krāces, vairāku dienu ekspedīcijas — kopā ar cenām, iekļauto, minimālo vecumu un grūtības pakāpēm. Kad kāds jautā par 3 dienu braucienu 6 cilvēkiem, tas sagatavo pilnu atbildi ar pareizo informāciju. Jūs pārskatāt, vajadzības gadījumā pielabojat un nosūtāt."
     },
     {
-      "question": "Vairāku dienu braucienos esmu bez sakariem. Vai Chiefy joprojām darbojas?",
-      "answer": "Tieši šo problēmu Chiefy arī risina. Kamēr esat uz upes bez signāla, Chiefy sagatavo atbildes uz katru ienākošo pieprasījumu. Kad atkal esat zonā, melnraksti jūs jau gaida — atliek tikai pārskatīt un nosūtīt. Lielākā daļa gidu mums saka, ka tas novērš uzkrāto e-pastu kaudzi, ar ko agrāk nācās saskarties pēc katra vairāku dienu brauciena."
+      "question": "Vairāku dienu braucienos esmu bez sakariem. Vai Duet joprojām darbojas?",
+      "answer": "Tieši šo problēmu Duet arī risina. Kamēr esat uz upes bez signāla, Duet sagatavo atbildes uz katru ienākošo pieprasījumu. Kad atkal esat zonā, melnraksti jūs jau gaida — atliek tikai pārskatīt un nosūtīt. Lielākā daļa gidu mums saka, ka tas novērš uzkrāto e-pastu kaudzi, ar ko agrāk nācās saskarties pēc katra vairāku dienu brauciena."
     }
   ],
   "pricingNote": "Pie $150 par personu divas saglabātas rezervācijas sedz pilnu Pro gadu."

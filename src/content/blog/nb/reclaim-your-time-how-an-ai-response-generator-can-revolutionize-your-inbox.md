@@ -2,7 +2,7 @@
 title: "Ta tiden tilbake: slik kan en AI-svargenerator endre innboksen din"
 description: "Drukner du i e-post? Se hvordan en AI-svargenerator sparer timer, oker produktivitet og hjelper deg med bedre svar raskere."
 publishedAt: 2025-12-24
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Produktivitet", "Innbokshandtering", "E-post"]
 draft: false
 ---
@@ -35,9 +35,9 @@ Les alltid gjennom tall, datoer, navn og forpliktelser. AI kan hjelpe med formul
 
 Et svar som er raskt, men upersonlig, kan koste mer enn det sparer. Velg verktoy som lærer skrivestilen din.
 
-## Hvor Chiefy passer inn
+## Hvor Duet Mail passer inn
 
-[**Chiefy**](https://chiefy.com/nb) kombinerer AI-svar med trådkontekst og prioritering. Det betyr at du kan starte med de viktigste meldingene, forstå hva som skjer, og få et utkast som passer situasjonen.
+[**Duet Mail**](https://duetmail.com/nb) kombinerer AI-svar med trådkontekst og prioritering. Det betyr at du kan starte med de viktigste meldingene, forstå hva som skjer, og få et utkast som passer situasjonen.
 
 ## Eksempler
 
@@ -49,4 +49,4 @@ Et svar som er raskt, men upersonlig, kan koste mer enn det sparer. Velg verktoy
 
 En AI-svargenerator er mest verdifull når den gir deg fart uten å fjerne kontroll. Bruk den til utkast, tone og struktur, men behold menneskelig vurdering for relasjoner og beslutninger.
 
-Hvis du vil svare raskere uten å miste kontekst, kan du se hvordan [**Chiefy**](https://chiefy.com/nb) hjelper travle fagfolk med smartere innbokshandtering.
+Hvis du vil svare raskere uten å miste kontekst, kan du se hvordan [**Duet Mail**](https://duetmail.com/nb) hjelper travle fagfolk med smartere innbokshandtering.

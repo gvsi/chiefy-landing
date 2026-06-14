@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy para designers de interiores | Assistente de email com IA",
-  "metaDescription": "O Chiefy ajuda designers de interiores a gerir emails de clientes, coordenação com empreiteiros e pedidos de fornecedores — até do canteiro. Respostas redigidas por IA com detalhes dos os seus projetos, preferências e tom.",
+  "pageTitle": "Duet Mail para designers de interiores | Assistente de email com IA",
+  "metaDescription": "O Duet Mail ajuda designers de interiores a gerir emails de clientes, coordenação com empreiteiros e pedidos de fornecedores — até do canteiro. Respostas redigidas por IA com detalhes dos os seus projetos, preferências e tom.",
   "heroBadge": "Usado por mais de 400 designers de interiores",
   "heroHeadline": "O seu assistente de email enquanto o utilizador está no local com clientes",
-  "heroSubline": "O Chiefy aprende os seus contactos de fornecedores, detalhes de projetos e preferências de clientes — e então redige respostas de email para não perder nenhum cliente por demora na resposta.",
+  "heroSubline": "O Duet aprende os seus contactos de fornecedores, detalhes de projetos e preferências de clientes — e então redige respostas de email para não perder nenhum cliente por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projeto",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Um cliente recuperado paga anos de Chiefy."
+    "punchline": "Um cliente recuperado paga anos de Duet."
   },
-  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para ver novas consultas de clientes primeiro, aprovações pendentes em seguida e nunca newsletters de fornecedores. Chega de perder uma consulta de design enterrada sob promoções de feiras do setor.",
-  "draftSubtitle": "O Chiefy aprende o seu processo, detalhes de projetos e tom. Quando chega uma nova consulta ou pergunta de cliente, ele redige uma resposta completa com a sua disponibilidade, próximos passos e detalhes específicos do projeto. Reveja e envia.",
-  "agentSubtitle": "\"Qual é o status do projeto Henderson?\" \"Quais aprovações ainda estão pendentes?\" O Chiefy conhece a sua caixa de entrada e cada conversa de projeto — é só perguntar.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para ver novas consultas de clientes primeiro, aprovações pendentes em seguida e nunca newsletters de fornecedores. Chega de perder uma consulta de design enterrada sob promoções de feiras do setor.",
+  "draftSubtitle": "O Duet aprende o seu processo, detalhes de projetos e tom. Quando chega uma nova consulta ou pergunta de cliente, ele redige uma resposta completa com a sua disponibilidade, próximos passos e detalhes específicos do projeto. Reveja e envia.",
+  "agentSubtitle": "\"Qual é o status do projeto Henderson?\" \"Quais aprovações ainda estão pendentes?\" O Duet conhece a sua caixa de entrada e cada conversa de projeto — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Designer principal, Austin TX",
-      "quote": "Fico no local 6 horas por dia coordenando pintores, eletricistas e instaladores de revestimento. Enquanto isso, outros três clientes estão me mandando emails sobre os seus projetos. O Chiefy redige respostas com os detalhes certos do projeto — eu só reviso entre visitas.",
+      "quote": "Fico no local 6 horas por dia coordenando pintores, eletricistas e instaladores de revestimento. Enquanto isso, outros três clientes estão me mandando emails sobre os seus projetos. O Duet redige respostas com os detalhes certos do projeto — eu só reviso entre visitas.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Designer de interiores residenciais, Chicago",
-      "quote": "As consultas de clientes costumavam ficar paradas por dias porque eu estava enterrada em emails de compras e agendamento de empreiteiros. Agora o Chiefy responde novos leads em minutos com o meu processo e disponibilidade. Fechei 4 projetos extras neste trimestre.",
+      "quote": "As consultas de clientes costumavam ficar paradas por dias porque eu estava enterrada em emails de compras e agendamento de empreiteiros. Agora o Duet responde novos leads em minutos com o meu processo e disponibilidade. Fechei 4 projetos extras neste trimestre.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Dono de estúdio de design, Nashville",
-      "quote": "Gerir emails de 12 projetos ativos estava me acabando. O Chiefy categoriza tudo — novas consultas, aprovações pendentes, pedidos de fornecedores, atualizações de empreiteiros — para eu saber exatamente o que precisa da a minha atenção primeiro.",
+      "quote": "Gerir emails de 12 projetos ativos estava me acabando. O Duet categoriza tudo — novas consultas, aprovações pendentes, pedidos de fornecedores, atualizações de empreiteiros — para eu saber exatamente o que precisa da a minha atenção primeiro.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Decoradora de interiores, San Diego",
-      "quote": "Eu estava perdendo clientes potenciais porque não conseguia responder rápido o bastante durante semanas de instalação. O Chiefy aprendeu o meu processo de consulta, estrutura de preços e até como descrevo o meu estilo de design. Os clientes não fazem ideia de que há IA ajudando.",
+      "quote": "Eu estava perdendo clientes potenciais porque não conseguia responder rápido o bastante durante semanas de instalação. O Duet aprendeu o meu processo de consulta, estrutura de preços e até como descrevo o meu estilo de design. Os clientes não fazem ideia de que há IA ajudando.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Designer de interiores comerciais, Denver",
-      "quote": "Entre prazos de fornecedores, agendas de empreiteiros e pedidos de revisão de clientes, a minha caixa de entrada era um caos. O Chiefy organiza tudo e redige follow-ups sobre aprovações pendentes. É como ter uma coordenadora de projetos que nunca dorme.",
+      "quote": "Entre prazos de fornecedores, agendas de empreiteiros e pedidos de revisão de clientes, a minha caixa de entrada era um caos. O Duet organiza tudo e redige follow-ups sobre aprovações pendentes. É como ter uma coordenadora de projetos que nunca dorme.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "Eu gerencio 8-10 projetos ao mesmo tempo. O Chiefy consegue manter tudo organizado?",
-      "answer": "Sim. O Chiefy acompanha cada conversa de email por cliente e projeto. Quando o utilizador pergunta sobre a cozinha Henderson ou o escritório Park Avenue, ele puxa o contexto de todas as conversas relacionadas — pedidos de fornecedores, atualizações de empreiteiros, aprovações de clientes — para que as suas respostas sejam sempre precisas e específicas do projeto. Nada de confundir qual revestimento era de qual cliente."
+      "question": "Eu gerencio 8-10 projetos ao mesmo tempo. O Duet consegue manter tudo organizado?",
+      "answer": "Sim. O Duet acompanha cada conversa de email por cliente e projeto. Quando o utilizador pergunta sobre a cozinha Henderson ou o escritório Park Avenue, ele puxa o contexto de todas as conversas relacionadas — pedidos de fornecedores, atualizações de empreiteiros, aprovações de clientes — para que as suas respostas sejam sempre precisas e específicas do projeto. Nada de confundir qual revestimento era de qual cliente."
     },
     {
-      "question": "Coordeno muitos empreiteiros e fornecedores. O Chiefy ajuda nisso?",
-      "answer": "Com certeza. O Chiefy aprende os seus contactos de empreiteiros, representantes de fornecedores e o contexto do papel de cada profissional nos os seus projetos. Quando o eletricista envia um email dizendo que a fiação inicial terminou, o Chiefy pode redigir uma resposta confirmando o próximo passo ou incluir o instalador das luminárias. Ele mantém o fluxo andando mesmo quando o utilizador está do outro lado da cidade em outro canteiro."
+      "question": "Coordeno muitos empreiteiros e fornecedores. O Duet ajuda nisso?",
+      "answer": "Com certeza. O Duet aprende os seus contactos de empreiteiros, representantes de fornecedores e o contexto do papel de cada profissional nos os seus projetos. Quando o eletricista envia um email dizendo que a fiação inicial terminou, o Duet pode redigir uma resposta confirmando o próximo passo ou incluir o instalador das luminárias. Ele mantém o fluxo andando mesmo quando o utilizador está do outro lado da cidade em outro canteiro."
     }
   ],
-  "pricingNote": "Com $10,000/projeto, um cliente recuperado paga anos de Chiefy Pro."
+  "pricingNote": "Com $10,000/projeto, um cliente recuperado paga anos de Duet Pro."
 }

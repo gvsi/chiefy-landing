@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy dla wycieczek z obserwacją wielorybów | AI Email Assistant",
-  "metaDescription": "Chiefy pomaga kapitanom obserwującym wieloryby natychmiast odpowiadać na e-maile dotyczące rezerwacji – nawet z wody. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły wycieczki, ceny i głos.",
+  "pageTitle": "Duet Mail dla wycieczek z obserwacją wielorybów | AI Email Assistant",
+  "metaDescription": "Duet Mail pomaga kapitanom obserwującym wieloryby natychmiast odpowiadać na e-maile dotyczące rezerwacji – nawet z wody. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły wycieczki, ceny i głos.",
   "heroBadge": "Zaufali mu 300+ kapitanowie wycieczek",
   "heroHeadline": "Twój asystent e-mail podczas polowania na wieloryby",
-  "heroSubline": "Chiefy poznaje harmonogram wycieczek, ceny i głos, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji na wodzie.",
+  "heroSubline": "Duet poznaje harmonogram wycieczek, ceny i głos, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji na wodzie.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grupa wycieczkowa",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Jedna zapisana rezerwacja grupowa płaci za rok Chiefy."
+    "punchline": "Jedna zapisana rezerwacja grupowa płaci za rok Duet."
   },
-  "categorizationSubtitle": "Chiefy automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności wyświetlane są prośby o rezerwację, w drugiej kolejności zmiany rozkładu statków wycieczkowych, a hałas nigdy. Nigdy więcej nie przegapisz prywatnego zapytania dotyczącego czarteru ukrytego pod alertami serwisu TripAdvisor.",
-  "draftSubtitle": "Chiefy poznaje godziny wycieczek, ceny i zasady. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź z informacją o dostępności, zawartości i tym, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„Ile miejsc zostało na sobotnią poranną wycieczkę?” „Napisz odpowiedź dla Rachel, podając dostępność”. Chiefy zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj.",
+  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności wyświetlane są prośby o rezerwację, w drugiej kolejności zmiany rozkładu statków wycieczkowych, a hałas nigdy. Nigdy więcej nie przegapisz prywatnego zapytania dotyczącego czarteru ukrytego pod alertami serwisu TripAdvisor.",
+  "draftSubtitle": "Duet poznaje godziny wycieczek, ceny i zasady. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź z informacją o dostępności, zawartości i tym, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Ile miejsc zostało na sobotnią poranną wycieczkę?” „Napisz odpowiedź dla Rachel, podając dostępność”. Duet zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Dave H.",
       "title": "Organizator wycieczek po dzikiej przyrodzie, AK",
-      "quote": "Pasażerowie statków wycieczkowych potrzebują szybkich odpowiedzi — mają tylko 6 godzin w porcie. Kiedyś traciłem prywatne czartery, ponieważ byłem na wodzie, kiedy nadeszło zapytanie. Teraz Chiefy przygotowuje odpowiedzi z moimi cenami i szczegółami odbioru, zanim jeszcze zacumuję.",
+      "quote": "Pasażerowie statków wycieczkowych potrzebują szybkich odpowiedzi — mają tylko 6 godzin w porcie. Kiedyś traciłem prywatne czartery, ponieważ byłem na wodzie, kiedy nadeszło zapytanie. Teraz Duet przygotowuje odpowiedzi z moimi cenami i szczegółami odbioru, zanim jeszcze zacumuję.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Rodzinna obserwacja wielorybów, Kalifornia",
-      "quote": "W sezonie humbaków organizujemy dwie wycieczki dziennie, a liczba e-maili jest nierealna. „Czy zobaczymy wieloryby?” „W co mam się ubrać?” „Czy jutro jest odwołane?” Chiefy odpowiada na powtarzające się pytania, a my skupiamy się na wycieczkach.",
+      "quote": "W sezonie humbaków organizujemy dwie wycieczki dziennie, a liczba e-maili jest nierealna. „Czy zobaczymy wieloryby?” „W co mam się ubrać?” „Czy jutro jest odwołane?” Duet odpowiada na powtarzające się pytania, a my skupiamy się na wycieczkach.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
       "title": "Ocean Excursion, HI",
-      "quote": "Co wieczór odpowiadałem na te same pytania 10 — ceny, zawartość pakietu, wskazówki dotyczące choroby morskiej, ograniczenia wiekowe dzieci. Chiefy nauczył się tego wszystkiego w pierwszym tygodniu. Mój czas odpowiedzi wzrósł z 8 godzin do 8 minut.",
+      "quote": "Co wieczór odpowiadałem na te same pytania 10 — ceny, zawartość pakietu, wskazówki dotyczące choroby morskiej, ograniczenia wiekowe dzieci. Duet nauczył się tego wszystkiego w pierwszym tygodniu. Mój czas odpowiedzi wzrósł z 8 godzin do 8 minut.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Menedżer rezerwacji, Pacific NW",
-      "quote": "Najgorsze są odwołania związane z pogodą — ludzie korzystający z 30 potrzebują natychmiastowej zmiany rezerwacji, a ja muszę pogodzić się z rozmowami telefonicznymi. Chiefy przygotowuje spersonalizowane e-maile dotyczące zmiany terminu dla każdego gościa. To, co kiedyś zajmowało mi 2 godzin, teraz zajmuje 15 minut.",
+      "quote": "Najgorsze są odwołania związane z pogodą — ludzie korzystający z 30 potrzebują natychmiastowej zmiany rezerwacji, a ja muszę pogodzić się z rozmowami telefonicznymi. Duet przygotowuje spersonalizowane e-maile dotyczące zmiany terminu dla każdego gościa. To, co kiedyś zajmowało mi 2 godzin, teraz zajmuje 15 minut.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Jesteśmy firmą dwuosobową — ja jestem kapitanem, ona zajmuje się logistyką. W szczycie sezonu spędzała 3 godziny dziennie na korzystaniu z poczty elektronicznej. Chiefy skrócił to do 30 minut. Teraz naprawdę odzyskuje wieczory.",
+      "quote": "Jesteśmy firmą dwuosobową — ja jestem kapitanem, ona zajmuje się logistyką. W szczycie sezonu spędzała 3 godziny dziennie na korzystaniu z poczty elektronicznej. Duet skrócił to do 30 minut. Teraz naprawdę odzyskuje wieczory.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Czy Chiefy obsługuje odwołania pogodowe i zmiany rozkładów statków wycieczkowych?",
-      "answer": "Tak. Jeśli anulujesz wycieczkę ze względu na pogodę lub zmianę godziny przybycia statku wycieczkowego, możesz jednokrotnie poinformować o tym Chiefy, a ona przygotuje spersonalizowaną zmianę terminu lub zaktualizuje e-maile dla każdego gościa, którego to dotyczy. Koniec z kopiowaniem i wklejaniem tej samej wiadomości 30 razy. Każda odpowiedź zawiera pierwotne dane rezerwacji gościa i dostępne alternatywy."
+      "question": "Czy Duet obsługuje odwołania pogodowe i zmiany rozkładów statków wycieczkowych?",
+      "answer": "Tak. Jeśli anulujesz wycieczkę ze względu na pogodę lub zmianę godziny przybycia statku wycieczkowego, możesz jednokrotnie poinformować o tym Duet, a ona przygotuje spersonalizowaną zmianę terminu lub zaktualizuje e-maile dla każdego gościa, którego to dotyczy. Koniec z kopiowaniem i wklejaniem tej samej wiadomości 30 razy. Każda odpowiedź zawiera pierwotne dane rezerwacji gościa i dostępne alternatywy."
     },
     {
-      "question": "Ciągle dostajemy te same pytania: „czy zobaczymy wieloryby?”, „w co mam się ubrać?”, „czy to jest w porządku dla dzieci?” Czy Chiefy sobie z tym poradzi?",
-      "answer": "Właśnie tam błyszczy Chiefy. Uczy się standardowych odpowiedzi – jakie gatunki zwykle widujesz, co zabrać ze sobą, zasady dotyczące wieku, wskazówki dotyczące choroby morskiej, godziny odlotów – i natychmiast przygotowuje kompletne odpowiedzi. Sprawdzasz i wysyłasz. Większość kapitanów mówi nam 80%, że w ich skrzynce odbiorczej znajdują się te same pytania 10, a Chiefy obsługuje je wszystkie."
+      "question": "Ciągle dostajemy te same pytania: „czy zobaczymy wieloryby?”, „w co mam się ubrać?”, „czy to jest w porządku dla dzieci?” Czy Duet sobie z tym poradzi?",
+      "answer": "Właśnie tam błyszczy Duet. Uczy się standardowych odpowiedzi – jakie gatunki zwykle widujesz, co zabrać ze sobą, zasady dotyczące wieku, wskazówki dotyczące choroby morskiej, godziny odlotów – i natychmiast przygotowuje kompletne odpowiedzi. Sprawdzasz i wysyłasz. Większość kapitanów mówi nam 80%, że w ich skrzynce odbiorczej znajdują się te same pytania 10, a Duet obsługuje je wszystkie."
     }
   ],
   "pricingNote": "W $125/person jedna zaoszczędzona grupa 6 płaci za ponad rok Pro."

@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Chiefy za opremu za rafting i kajak | AI Pomoćnik za e-poštu",
-  "metaDescription": "Chiefy pomaže vodičima za rafting i opreme za kajak da odmah odgovore na upite o putovanju — čak i sa reke. AI nacrt odgovora sa detaljima o putovanju, cenama i glasom.",
+  "pageTitle": "Duet Mail za opremu za rafting i kajak | AI Pomoćnik za e-poštu",
+  "metaDescription": "Duet Mail pomaže vodičima za rafting i opreme za kajak da odmah odgovore na upite o putovanju — čak i sa reke. AI nacrt odgovora sa detaljima o putovanju, cenama i glasom.",
   "heroBadge": "Ima poverenja od 200+ rečnih vodiča",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na reci",
-  "heroSubline": "Chiefy uči vaše tipove putovanja, cene i liste opreme — zatim sastavlja nacrte odgovora na upite o rezervacijama kako bi klijenti dobili odgovore dok vi trčite brzacima.",
+  "heroSubline": "Duet uči vaše tipove putovanja, cene i liste opreme — zatim sastavlja nacrte odgovora na upite o rezervacijama kako bi klijenti dobili odgovore dok vi trčite brzacima.",
   "inboxEmails": [
     {
       "from": "Dženifer V.",
@@ -49,11 +49,11 @@
     "bookingUnit": "osoba",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dve sačuvane rezervacije plaćaju celu godinu od Chiefy."
+    "punchline": "Dve sačuvane rezervacije plaćaju celu godinu od Duet."
   },
-  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da se prvo pojavljuju upiti o putovanju, zatim pitanja o opremi, a promotivna buka nestaje. Nema više propuštanja grupne rezervacije zakopane pod TripAdvisor upozorenjima.",
-  "draftSubtitle": "Chiefy uči vaše tipove putovanja, časove brzaka, liste opreme i politiku otkazivanja. Kada dođe upit za rezervaciju, on sastavlja kompletan odgovor sa svime što je potrebno klijentu. Pregledate i pošaljete.",
-  "agentSubtitle": "„Ima li slobodnih mesta u subotu tokom celog dana?“ „Nacrt odgovora Dženifer uz dostupnost.“ Chiefy zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da se prvo pojavljuju upiti o putovanju, zatim pitanja o opremi, a promotivna buka nestaje. Nema više propuštanja grupne rezervacije zakopane pod TripAdvisor upozorenjima.",
+  "draftSubtitle": "Duet uči vaše tipove putovanja, časove brzaka, liste opreme i politiku otkazivanja. Kada dođe upit za rezervaciju, on sastavlja kompletan odgovor sa svime što je potrebno klijentu. Pregledate i pošaljete.",
+  "agentSubtitle": "„Ima li slobodnih mesta u subotu tokom celog dana?“ „Nacrt odgovora Dženifer uz dostupnost.“ Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Dženifer V.",
@@ -127,25 +127,25 @@
     {
       "name": "Rajan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "U špici sezone sam na reci 6 dana u nedelji. Dok sam se vratio na e-poštu, polovina grupa je već rezervisala sa nekim drugim. Sada Chiefy nacrti odgovora sa detaljima o putovanju i cenama dok sam na prijemu.",
+      "quote": "U špici sezone sam na reci 6 dana u nedelji. Dok sam se vratio na e-poštu, polovina grupa je već rezervisala sa nekim drugim. Sada Duet nacrti odgovora sa detaljima o putovanju i cenama dok sam na prijemu.",
       "avatarKey": "michael"
     },
     {
       "name": "Kejti L.",
       "title": "Kajak i SUP ture, OR",
-      "quote": "Svaki kupac postavlja istih pet pitanja — cene, šta da donese, nivo veštine, veličina grupe, politika otkazivanja. Chiefy je sve to naučio u prvoj nedelji. Prešao sam sa sat vremena na mejlove svake večeri do pet minuta pregledavanja nacrta.",
+      "quote": "Svaki kupac postavlja istih pet pitanja — cene, šta da donese, nivo veštine, veličina grupe, politika otkazivanja. Duet je sve to naučio u prvoj nedelji. Prešao sam sa sat vremena na mejlove svake večeri do pet minuta pregledavanja nacrta.",
       "avatarKey": "sarah"
     },
     {
       "name": "Markus P.",
       "title": "Višednevni vodič za ekspediciju, AK",
-      "quote": "Vodim 5-dnevna putovanja sa nultom mobilnom uslugom. Pre Chiefy, svaki upit je ostao bez odgovora dok se nisam vratio u grad. Sada kupci dobijaju detaljan odgovor u roku od nekoliko minuta, a ja potvrđujem kada izađem sa reke.",
+      "quote": "Vodim 5-dnevna putovanja sa nultom mobilnom uslugom. Pre Duet, svaki upit je ostao bez odgovora dok se nisam vratio u grad. Sada kupci dobijaju detaljan odgovor u roku od nekoliko minuta, a ja potvrđujem kada izađem sa reke.",
       "avatarKey": "Johnni"
     },
     {
       "name": "Elena R.",
       "title": "Menadžer kancelarije River Adventures, VV",
-      "quote": "Upravljam rezervacijama za tri vodiča u četiri tipa putovanja. Chiefy kategoriše svaku e-poštu po hitnosti i sastavlja odgovore sa pravim putovanjem, pravom cenom, pravom listom opreme. To je kao da kloniram sebe.",
+      "quote": "Upravljam rezervacijama za tri vodiča u četiri tipa putovanja. Duet kategoriše svaku e-poštu po hitnosti i sastavlja odgovore sa pravim putovanjem, pravom cenom, pravom listom opreme. To je kao da kloniram sebe.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Da li Chiefy obrađuje prilagođene ponude za putovanja i upite o višednevnim ekspedicijama?",
-      "answer": "Da. Chiefy uči vašu kompletnu postavu putovanja — poludnevne plovke, celodnevne brzake, višednevne ekspedicije — zajedno sa cenama, šta je uključeno, starosnim minimumom i nivoima težine. Kada neko pita za trodnevno putovanje za 6, sastavlja kompletan odgovor sa pravim detaljima. Pregledate, prilagodite ako je potrebno i pošaljete."
+      "question": "Da li Duet obrađuje prilagođene ponude za putovanja i upite o višednevnim ekspedicijama?",
+      "answer": "Da. Duet uči vašu kompletnu postavu putovanja — poludnevne plovke, celodnevne brzake, višednevne ekspedicije — zajedno sa cenama, šta je uključeno, starosnim minimumom i nivoima težine. Kada neko pita za trodnevno putovanje za 6, sastavlja kompletan odgovor sa pravim detaljima. Pregledate, prilagodite ako je potrebno i pošaljete."
     },
     {
-      "question": "Ja sam van mreže na višednevnim putovanjima. Da li Chiefy i dalje radi?",
-      "answer": "Upravo to je problem koji Chiefy rešava. Dok ste na reci bez signala, Chiefy nacrti odgovara na svaki upit koji dođe. Kada se vratite u domet, vaši nacrti čekaju — samo pregledajte i pošaljite. Većina vodiča nam kaže da eliminiše zaostatak sa kojim su se suočavali nakon svakog višednevnog putovanja."
+      "question": "Ja sam van mreže na višednevnim putovanjima. Da li Duet i dalje radi?",
+      "answer": "Upravo to je problem koji Duet rešava. Dok ste na reci bez signala, Duet nacrti odgovara na svaki upit koji dođe. Kada se vratite u domet, vaši nacrti čekaju — samo pregledajte i pošaljite. Većina vodiča nam kaže da eliminiše zaostatak sa kojim su se suočavali nakon svakog višednevnog putovanja."
     }
   ],
   "pricingNote": "Sa 150 USD po osobi, dve sačuvane rezervacije pokrivaju celu godinu od Pro."

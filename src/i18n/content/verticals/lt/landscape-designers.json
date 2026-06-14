@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy kraštovaizdžio dizaineriams | DI el. pašto asistentas",
-  "metaDescription": "Chiefy padeda kraštovaizdžio dizaineriams akimirksniu atsakyti į klientų el. laiškus — net būnant objekte. DI parengti atsakymai su jūsų projekto detalėmis, kainomis ir tonu.",
+  "pageTitle": "Duet Mail kraštovaizdžio dizaineriams | DI el. pašto asistentas",
+  "metaDescription": "Duet Mail padeda kraštovaizdžio dizaineriams akimirksniu atsakyti į klientų el. laiškus — net būnant objekte. DI parengti atsakymai su jūsų projekto detalėmis, kainomis ir tonu.",
   "heroBadge": "Pasitiki 300+ kraštovaizdžio dizainerių",
   "heroHeadline": "Jūsų el. pašto asistentas, kol dirbate objekte",
-  "heroSubline": "Chiefy išmoksta jūsų projekto detales, augalų paletes, kainodarą ir procesą — tada parengia el. laiškų atsakymus, kad dėl lėto atsakymo neprarastumėte kliento.",
+  "heroSubline": "Duet išmoksta jūsų projekto detales, augalų paletes, kainodarą ir procesą — tada parengia el. laiškų atsakymus, kad dėl lėto atsakymo neprarastumėte kliento.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projektas",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Vienas išsaugotas projektas atsiperka Chiefy metams."
+    "punchline": "Vienas išsaugotas projektas atsiperka Duet metams."
   },
-  "categorizationSubtitle": "Chiefy automatiškai sužymi kiekvieną el. laišką, kad pirmiausia matytumėte naujas konsultacijų užklausas, po to klientų patvirtinimus, o tiekėjų triukšmas niekada neužgožtų svarbiausių laiškų. Daugiau nebereikės praleisti potencialaus kliento, pasimetusio tarp medelyno užsakymų patvirtinimų.",
-  "draftSubtitle": "Chiefy išmoksta jūsų kainodarą, procesą ir toną. Kai gaunama konsultacijos užklausa, jis parengia visą atsakymą su jūsų prieinamumu, ko tikėtis ir kokie tolesni žingsniai. Jūs peržiūrite ir išsiunčiate.",
-  "agentSubtitle": "\"Kokia Henderson projekto eiga?\" \"Kurie klientai laukia plano patvirtinimo?\" Chiefy žino jūsų gautuosius ir projektus — tiesiog paklauskite.",
+  "categorizationSubtitle": "Duet automatiškai sužymi kiekvieną el. laišką, kad pirmiausia matytumėte naujas konsultacijų užklausas, po to klientų patvirtinimus, o tiekėjų triukšmas niekada neužgožtų svarbiausių laiškų. Daugiau nebereikės praleisti potencialaus kliento, pasimetusio tarp medelyno užsakymų patvirtinimų.",
+  "draftSubtitle": "Duet išmoksta jūsų kainodarą, procesą ir toną. Kai gaunama konsultacijos užklausa, jis parengia visą atsakymą su jūsų prieinamumu, ko tikėtis ir kokie tolesni žingsniai. Jūs peržiūrite ir išsiunčiate.",
+  "agentSubtitle": "\"Kokia Henderson projekto eiga?\" \"Kurie klientai laukia plano patvirtinimo?\" Duet žino jūsų gautuosius ir projektus — tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Kraštovaizdžio architektas, Austin TX",
-      "quote": "Pavasarį aš 8 valandas per dieną būnu objekte, atlieku vertinimus ir prižiūriu montavimą. Naujos konsultacijų užklausos gulėdavo dienomis. Dabar Chiefy per kelias minutes atsako mano procesu ir prieinamumu. Užsakiau 3 projektus, kuriuos tikrai būčiau praradęs.",
+      "quote": "Pavasarį aš 8 valandas per dieną būnu objekte, atlieku vertinimus ir prižiūriu montavimą. Naujos konsultacijų užklausos gulėdavo dienomis. Dabar Duet per kelias minutes atsako mano procesu ir prieinamumu. Užsakiau 3 projektus, kuriuos tikrai būčiau praradęs.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Sodo dizainerė, Portland OR",
-      "quote": "Koordinavimas tarp kietųjų dangų brigadų, drėkinimo sistemų montuotojų ir klientų sukuria absurdiškai daug el. laiškų. Chiefy viską surūšiuoja ir parengia atsakymus su tinkamomis projekto detalėmis. Tai tarsi turėti studijos vadovą.",
+      "quote": "Koordinavimas tarp kietųjų dangų brigadų, drėkinimo sistemų montuotojų ir klientų sukuria absurdiškai daug el. laiškų. Duet viską surūšiuoja ir parengia atsakymus su tinkamomis projekto detalėmis. Tai tarsi turėti studijos vadovą.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Kraštovaizdžio dizaino studijos savininkas, Denver CO",
-      "quote": "Anksčiau kiekvieną vakarą po darbo objekte praleisdavau pasivydamas el. laiškus. Tie patys klausimai — kainos, procesas, laikas. Chiefy susitvarko su viskuo. Mano atsakymo laikas sutrumpėjo nuo dienų iki minučių, o sandorių užbaigimo rodiklis smarkiai išaugo.",
+      "quote": "Anksčiau kiekvieną vakarą po darbo objekte praleisdavau pasivydamas el. laiškus. Tie patys klausimai — kainos, procesas, laikas. Duet susitvarko su viskuo. Mano atsakymo laikas sutrumpėjo nuo dienų iki minučių, o sandorių užbaigimo rodiklis smarkiai išaugo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Gyvenamųjų namų kraštovaizdžio dizainerė, Scottsdale AZ",
-      "quote": "Mano klientai daug klausia apie augalų parinkimą ir priežiūrą. Chiefy išmoko mano augalų paletes ir priežiūros instrukcijas bei parengia atsakymus, kuriuos man beveik nereikia taisyti. Klientams atrodo, kad esu neįtikėtinai greita.",
+      "quote": "Mano klientai daug klausia apie augalų parinkimą ir priežiūrą. Duet išmoko mano augalų paletes ir priežiūros instrukcijas bei parengia atsakymus, kuriuos man beveik nereikia taisyti. Klientams atrodo, kad esu neįtikėtinai greita.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Vietinių augalų kraštovaizdžio dizainerė, Raleigh NC",
-      "quote": "Prarasdavau naujus klientus, nes negalėdavau atsakyti būdama iki kelių įsisukusi į sodinimo montavimą. Chiefy parengia konsultacijų atsakymus su mano tiksliu procesu, kainomis ir tuo, ko tikėtis. Jis atsipirko jau pirmą savaitę.",
+      "quote": "Prarasdavau naujus klientus, nes negalėdavau atsakyti būdama iki kelių įsisukusi į sodinimo montavimą. Duet parengia konsultacijų atsakymus su mano tiksliu procesu, kainomis ir tuo, ko tikėtis. Jis atsipirko jau pirmą savaitę.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "Ar Chiefy gali susidoroti su pavasario antplūdžiu, kai konsultacijų užklausos ima kauptis?",
-      "answer": "Būtent tada Chiefy ir atsiskleidžia. Per jūsų intensyviausią sezoną kiekviena nauja užklausa gauna greitą, išsamų atsakymą su jūsų procesu, terminais ir prieinamumu — net jei visą dieną būnate objekte. Daugiau nebereikės prarasti pavasario potencialių klientų vien todėl, kad negalėjote atsakyti iki 21 val."
+      "question": "Ar Duet gali susidoroti su pavasario antplūdžiu, kai konsultacijų užklausos ima kauptis?",
+      "answer": "Būtent tada Duet ir atsiskleidžia. Per jūsų intensyviausią sezoną kiekviena nauja užklausa gauna greitą, išsamų atsakymą su jūsų procesu, terminais ir prieinamumu — net jei visą dieną būnate objekte. Daugiau nebereikės prarasti pavasario potencialių klientų vien todėl, kad negalėjote atsakyti iki 21 val."
     },
     {
-      "question": "Koordinuoju darbą su keliomis lauko brigadomis. Ar Chiefy padeda su tuo?",
-      "answer": "Taip. Chiefy išmoksta jūsų projektus ir su jais susijusius rangovus — kietųjų dangų, drėkinimo, sodinimo brigadas, medelynus. Jis atskiria rangovų el. laiškus nuo klientų el. laiškų ir gali parengti atsakymus su konkretaus projekto detalėmis, pvz., specifikacijomis, terminais ir medžiagomis. Jūs išlaikote visų brigadų kontrolę be gautųjų chaoso."
+      "question": "Koordinuoju darbą su keliomis lauko brigadomis. Ar Duet padeda su tuo?",
+      "answer": "Taip. Duet išmoksta jūsų projektus ir su jais susijusius rangovus — kietųjų dangų, drėkinimo, sodinimo brigadas, medelynus. Jis atskiria rangovų el. laiškus nuo klientų el. laiškų ir gali parengti atsakymus su konkretaus projekto detalėmis, pvz., specifikacijomis, terminais ir medžiagomis. Jūs išlaikote visų brigadų kontrolę be gautųjų chaoso."
     }
   ],
   "pricingNote": "Esant $8,000/projektas, vienas išsaugotas klientas atsiperka Pro metams."

@@ -2,7 +2,7 @@
 title: "Inbox Zero Hero: Kā mākslīgā intelekta e-pasta pārvaldība ietaupa jūsu stundas"
 description: "Beidziet slīkt e-pastos! Uzziniet, kā mākslīgā intelekta e-pasta pārvaldības rīki automatizē kārtošanu, uzdevumu prioritāti un atbilžu melnrakstus, lai ietaupītu jums stundas."
 publishedAt: 2025-09-29
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["Mākslīgais intelekts", "Ienākošo ziņojumu pārvaldība", "E-pasts"]
 draft: false
 ---
@@ -57,7 +57,7 @@ Viņi novērtē dažādus faktorus, tostarp:
 
 - **Noskaņojuma analīze:** Daži rīki novērtē emocionālo toni, lai identificētu potenciāli kritiskas problēmas.
 
-Šeit noder AI Triage funkcijas, piemēram, tās, kas ir tādās ierīcēs kā [Chiefy](https://chiefy.com/lv/lv), automātiski izceļot e-pastus, kuriem nepieciešama rīcība vai lēmumi, koncentrētā informācijas panelī. Identificējot un izceļot augstas prioritātes ziņojumus, šīs sistēmas ievērojami samazina kārtošanas laiku un samazina svarīgas informācijas palaidšanas risku.
+Šeit noder AI Triage funkcijas, piemēram, tās, kas ir tādās ierīcēs kā [Duet Mail](https://duetmail.com/lv/lv), automātiski izceļot e-pastus, kuriem nepieciešama rīcība vai lēmumi, koncentrētā informācijas panelī. Identificējot un izceļot augstas prioritātes ziņojumus, šīs sistēmas ievērojami samazina kārtošanas laiku un samazina svarīgas informācijas palaidšanas risku.
 
 ### Ar mākslīgo intelektu darbināta rasēšana: ātrums satiekas ar autentiskumu
 
@@ -65,7 +65,7 @@ Vai skatāties tukšā atbildes logā? Mākslīgais intelekts var palīdzēt. Da
 
 Tomēr bieži sastopama problēma ir tā, ka mākslīgā intelekta ģenerēti e-pasti var izklausīties vispārīgi vai robotiski. Lai gan vienkāršs mākslīgais intelekts var ģenerēt standarta tekstu, sarežģīti rīki risina šo problēmu. Galvenais ir **personalizācija**. Labi mākslīgā intelekta palīgi ļauj pielāgot toni (formāls, ikdienišķs, draudzīgs) un garumu.
 
-Labākie rīki sniedzas tālāk, apgūstot jūsu unikālos komunikācijas modeļus. Piemēram, [Chiefy](https://chiefy.com/lv/lv) Authentic AI Drafting analizē jūsu iepriekšējos e-pastus, lai ģenerētu atbildes, kas patiesi izklausās pēc jums, aptverot jūsu vārdu krājumu un stilistiskās nianses. Atcerieties, ka mērķis nav aizstāt jūsu balsi, bet gan to uzlabot. Pirms nosūtīšanas vienmēr pārskatiet un pielāgojiet mākslīgā intelekta melnrakstus, lai pievienotu konkrētu kontekstu vai personisku pieskārienu.
+Labākie rīki sniedzas tālāk, apgūstot jūsu unikālos komunikācijas modeļus. Piemēram, [Duet Mail](https://duetmail.com/lv/lv) Authentic AI Drafting analizē jūsu iepriekšējos e-pastus, lai ģenerētu atbildes, kas patiesi izklausās pēc jums, aptverot jūsu vārdu krājumu un stilistiskās nianses. Atcerieties, ka mērķis nav aizstāt jūsu balsi, bet gan to uzlabot. Pirms nosūtīšanas vienmēr pārskatiet un pielāgojiet mākslīgā intelekta melnrakstus, lai pievienotu konkrētu kontekstu vai personisku pieskārienu.
 
 ### Garu pavedienu savaldīšana ar mākslīgā intelekta apkopošanu
 
@@ -77,7 +77,7 @@ Pastāv divas galvenās pieejas:
 
 - **Abstrakta kopsavilkšana:** Izprot kontekstu un ģenerē *jaunus* teikumus, lai nodotu galveno domu, bieži vien nodrošinot plūstošākus kopsavilkumus.
 
-Neatkarīgi no metodes, ieguvums ir skaidrs: jūs aptverat sarunas būtību sekundēs, nevis minūtēs. [Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) norādīja, ka mākslīgā intelekta apkopošana var palielināt lietotāju produktivitāti līdz pat 32 %. Mākslīgā intelekta apkopošana, tāpat kā Smart Summarization funkcija [Chiefy](https://chiefy.com/lv/lv), ātri izgūst galvenos punktus un darbības, pat atceroties kontekstu no iepriekšējām mijiedarbībām, ietaupot nenovērtējamu lasīšanas laiku.
+Neatkarīgi no metodes, ieguvums ir skaidrs: jūs aptverat sarunas būtību sekundēs, nevis minūtēs. [Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) norādīja, ka mākslīgā intelekta apkopošana var palielināt lietotāju produktivitāti līdz pat 32 %. Mākslīgā intelekta apkopošana, tāpat kā Smart Summarization funkcija [Duet Mail](https://duetmail.com/lv/lv), ātri izgūst galvenos punktus un darbības, pat atceroties kontekstu no iepriekšējām mijiedarbībām, ietaupot nenovērtējamu lasīšanas laiku.
 
 
 Mākslīgā intelekta kopsavilkums saīsina garus e-pasta pavedienus galvenajos punktos, ievērojami ietaupot lasīšanas laiku.

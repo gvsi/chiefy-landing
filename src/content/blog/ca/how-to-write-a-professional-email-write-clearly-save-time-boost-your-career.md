@@ -2,7 +2,7 @@
 title: "Com escriure un correu electrònic professional: escriviu amb claredat, estalvieu temps i impulseu la vostra carrera professional"
 description: "Apreneu a escriure correus electrònics professionals que generen confiança i estalvien temps. Domina les temàtiques, el to, l'estructura i l'etiqueta. Potencia la teva comunicació professional"
 publishedAt: 2025-05-27
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI","Productivitat","Redacció de correu electrònic"]
 draft: false
 ---
@@ -258,10 +258,10 @@ Els avantatges clau inclouen:
 - **Estalvi de temps i reducció de l'estrès**: manejant tasques repetitives com ordenar, filtrar i fins i tot redactar respostes, els assistents AI poden estalviar hores als professionals cada setmana i reduir significativament l'estrès relacionat amb la safata d'entrada.
 
 
-Et sents enterrat? Aquí és on les funcions de triatge AI, com les d'eines com [**Chiefy**](https://chiefy.com/), poden canviar el joc. Ordenen automàticament el correu entrant, utilitzant AI per identificar els articles urgents que necessiten accions o decisions i els presenten en un [**tauler de control enfocat**](https://peerlist.io/giovanni/project/duet-mail), eliminant el desordre perquè veieu el que més importa, a l'instant.
+Et sents enterrat? Aquí és on les funcions de triatge AI, com les d'eines com [**Duet Mail**](https://duetmail.com/), poden canviar el joc. Ordenen automàticament el correu entrant, utilitzant AI per identificar els articles urgents que necessiten accions o decisions i els presenten en un [**tauler de control enfocat**](https://peerlist.io/giovanni/project/duet-mail), eliminant el desordre perquè veieu el que més importa, a l'instant.
 
 
-Tens problemes per respondre ràpidament mentre et mantés professional i autèntic? Els assistents avançats AI poden ajudar. Per exemple, [**Chiefy**](https://chiefy.com/) utilitza [**Authentic AI Drafting**](https://peerlist.io/giovanni/project/duet-mail) que realment aprèn el vostre estil d'escriptura i vocabulari únics dels vostres correus electrònics anteriors.64 Suggereix esborranys que us sonen, estalviant hores i mantenint aquest toc personal crucial a les vostres comunicacions professionals. Aquest "aprenentatge de veu" garanteix que les vostres respostes assistides per AI encara siguin autèntiques.
+Tens problemes per respondre ràpidament mentre et mantés professional i autèntic? Els assistents avançats AI poden ajudar. Per exemple, [**Duet Mail**](https://duetmail.com/) utilitza [**Authentic AI Drafting**](https://peerlist.io/giovanni/project/duet-mail) que realment aprèn el vostre estil d'escriptura i vocabulari únics dels vostres correus electrònics anteriors.64 Suggereix esborranys que us sonen, estalviant hores i mantenint aquest toc personal crucial a les vostres comunicacions professionals. Aquest "aprenentatge de veu" garanteix que les vostres respostes assistides per AI encara siguin autèntiques.
 
 
 L'evolució d'aquestes eines és fascinant. Hem passat dels correctors gramaticals bàsics als assistents sofisticats que aborden el repte holístic del correu electrònic, no només la correcció, sinó també la gestió de la càrrega cognitiva de la sobrecàrrega (triatge, resum) i mantenir la connexió personal a escala (aprenentatge de veu). Això reflecteix la complexitat que s'ha convertit en la comunicació professional i la necessitat d'eines que ens donin suport de manera integral.
@@ -275,7 +275,7 @@ Dominar el correu electrònic professional no es tracta de regles rígides; es t
 
 Recordeu que convertir-se en un gran comunicador de correu electrònic és un procés continu de perfeccionament. Comenceu a aplicar aquests consells de manera coherent i notareu la diferència entre les respostes que rebeu i el temps que estalvieu.
 
-Estàs preparat per prendre el control de la teva safata d'entrada i comunicar-te com un professional? Comenceu a implementar aquestes estratègies avui mateix. I si voleu estalviar hores i reduir l'estrès del correu electrònic, exploreu com els assistents AI com [**Chiefy**](https://chiefy.com/) poden transformar el vostre flux de treball amb un triatge intel·ligent i un esborrany autèntic.
+Estàs preparat per prendre el control de la teva safata d'entrada i comunicar-te com un professional? Comenceu a implementar aquestes estratègies avui mateix. I si voleu estalviar hores i reduir l'estrès del correu electrònic, exploreu com els assistents AI com [**Duet Mail**](https://duetmail.com/) poden transformar el vostre flux de treball amb un triatge intel·ligent i un esborrany autèntic.
 
 
 Heu trobat això útil? Comparteix-ho amb els companys que puguin beneficiar-se!

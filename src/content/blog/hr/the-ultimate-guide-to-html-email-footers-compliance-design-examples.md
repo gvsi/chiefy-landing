@@ -2,7 +2,7 @@
 title: "Vrhunski vodič za HTML podnožja e-pošte: usklađenost, dizajn i primjeri"
 description: "Glavna HTML podnožja e-pošte: bitni elementi, savjeti za dizajn, zakonska usklađenost (CAN-SPAM, GDPR, CASL) i primjeri brendiranja."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Vaše podnožje e-pošte HTML može biti posljednja stvar koju primatelji vide, 
 
 Gradi povjerenje, jača vaš brend, osigurava usklađenost i pruža korisnu navigaciju vašoj publici. Odvojite nekoliko trenutaka i pregledajte svoje trenutno podnožje e-pošte. Je li usklađen? Je li jasno? Je li prilagođen mobilnim uređajima? Uvođenje ovih malih poboljšanja može imati veliki utjecaj na to kako se vaša e-pošta — i vaš brend — percipiraju.
 
-Tražite načine da svoje cjelokupno upravljanje e-poštom učinite učinkovitijim i profesionalnijim? Razmislite o istraživanju alata dizajniranih za zaposlene profesionalce. Na primjer, učenje kako [Chiefy pojednostavljuje produktivnost e-pošte](https://chiefy.com/hr) sa značajkama koje pokreću AI može osloboditi više vremena da se usredotočite na usavršavanje detalja kao što je podnožje i osiguravanje da vas svaka komunikacija dobro predstavlja.
+Tražite načine da svoje cjelokupno upravljanje e-poštom učinite učinkovitijim i profesionalnijim? Razmislite o istraživanju alata dizajniranih za zaposlene profesionalce. Na primjer, učenje kako [Duet Mail pojednostavljuje produktivnost e-pošte](https://duetmail.com/hr) sa značajkama koje pokreću AI može osloboditi više vremena da se usredotočite na usavršavanje detalja kao što je podnožje i osiguravanje da vas svaka komunikacija dobro predstavlja.

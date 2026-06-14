@@ -249,22 +249,9 @@ export function wrapResponseWithSecurityHeaders(response) {
     })
 }
 
-export function computeWwwToApexRedirect(request) {
-    const url = new URL(request.url)
-    if (!url.hostname.startsWith("www.")) return null
-    const target = new URL(request.url)
-    target.hostname = url.hostname.slice(4)
-    return target.toString()
-}
-
 export async function handleLandingRequest(request, env, next) {
-    // Flip first: when FLIP_301 is on, www.duetmail.com is in FLIP_REDIRECT_HOSTS,
-    // so it goes straight to chiefy.com in a single (canonicalized) hop. When flip
-    // is off (dark default), this is null and www→apex handles host normalization.
     const flipLocation = computeFlipRedirect(request, env)
     if (flipLocation) return redirectResponse(flipLocation)
-    const wwwLocation = computeWwwToApexRedirect(request)
-    if (wwwLocation) return redirectResponse(wwwLocation)
     const redirectLocation = computeCanonicalRedirect(request)
     if (redirectLocation) return redirectResponse(redirectLocation)
     return wrapResponseWithSecurityHeaders(await next())

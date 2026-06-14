@@ -2,7 +2,7 @@
 title: "2025'te Zamanınızı Geri Kazanmak ve Verimliliğinizi Artırmak İçin 10+ E-posta Otomasyonu Örneği"
 description: "Sıralama, yanıtlama, takip ve daha fazlası için pratik e-posta otomasyon örneklerini keşfedin. Bu 2025 ipuçları ve araçlarıyla verimliliğinizi artırın."
 publishedAt: 2025-04-07
-author: "Chiefy Takım"
+author: "Duet Mail Takım"
 tags: ["AI", "Verimlilik", "Otomasyon", "E-posta"]
 draft: false
 ---
@@ -35,7 +35,7 @@ Basit olmasına rağmen, bu kuralları oluşturmak, birincil gelen kutunuzu düz
 
 Bir üst seviyeye çıkmaya hazır mısınız? AI e-posta yardımcıları, sıralamayı yepyeni bir boyuta taşıyor. [SaneBox](https://www.sanebox.com/) gibi araçlar, e-posta alışkanlıklarınızı analiz etmek ve önemsiz e-postaları otomatik olarak ayrı klasörlere (örneğin 'SaneLater') filtrelemek için AI algoritmaları kullanır ve ana gelen kutunuzu kritik mesajlar için ayırır. Ayrıca, yanıt almadığınız e-postaları takip etmeniz için size hatırlatma da yapabilirler.
 
-Daha gelişmiş çözümler daha da ileri gidiyor. İşte burada [Chiefy](/tr/) gibi araçlar **AI Triage** ile öne çıkıyor. Sadece filtrelemek yerine, Chiefy gelen e-postaları aciliyet, gerekli eylemler veya alınması gereken kararları belirlemek için analiz ediyor ve bu kritik öğeleri odaklanmış bir gösterge panosunda sunuyor. Bu, her şeyi manuel olarak taramanıza gerek kalmadan dikkatinizi neyin gerektirdiğini anında görmenizi sağlayarak sıralama süresini önemli ölçüde kısaltır ve önemli iletişimlerin kaybolmamasını sağlar.
+Daha gelişmiş çözümler daha da ileri gidiyor. İşte burada [Duet Mail](/tr/) gibi araçlar **AI Triage** ile öne çıkıyor. Sadece filtrelemek yerine, Duet Mail gelen e-postaları aciliyet, gerekli eylemler veya alınması gereken kararları belirlemek için analiz ediyor ve bu kritik öğeleri odaklanmış bir gösterge panosunda sunuyor. Bu, her şeyi manuel olarak taramanıza gerek kalmadan dikkatinizi neyin gerektirdiğini anında görmenizi sağlayarak sıralama süresini önemli ölçüde kısaltır ve önemli iletişimlerin kaybolmamasını sağlar.
 
 ## Daha Akıllı İletişim: Otomatik ve AI Destekli Yanıtlar
 
@@ -59,7 +59,7 @@ Sıkça sorulan sorular veya standart onaylar için önceden yazılmış şablon
 
 Asıl oyun değiştirici, e-postalarınızı *yazmanıza* yardımcı olan AI'tür. [Flowrite](https://flowrite.com/) gibi araçlar, kısa talimatları gönderime hazır e-postalara dönüştürebilir. [Compose AI](https://www.compose.ai/) veya Gmail'ün Akıllı Oluşturma özelliği gibi diğer AI yardımcıları, siz yazarken akıllı otomatik tamamlama ve öneriler sunar.
 
-Ancak en gelişmiş araçlar, benzersiz iletişim tarzınızı öğrenir. [Chiefy'in Otantik AI Taslak Oluşturma](/tr/), gönderdiğiniz önceki mesajları analiz ederek özel tonunuzu, kelime dağarcığınızı ve ifadelerinizi anlar. Cevap vermeniz gerektiğinde, gerçekten *sizin* sesinize uyan, bağlamı dikkate alan birden fazla taslak seçeneği önerir. Bu, profesyonel ilişkiler için çok önemli olan kişisel dokunuşu korurken yanıt sürelerini önemli ölçüde hızlandırır.
+Ancak en gelişmiş araçlar, benzersiz iletişim tarzınızı öğrenir. [Duet Mail'in Otantik AI Taslak Oluşturma](/tr/), gönderdiğiniz önceki mesajları analiz ederek özel tonunuzu, kelime dağarcığınızı ve ifadelerinizi anlar. Cevap vermeniz gerektiğinde, gerçekten *sizin* sesinize uyan, bağlamı dikkate alan birden fazla taslak seçeneği önerir. Bu, profesyonel ilişkiler için çok önemli olan kişisel dokunuşu korurken yanıt sürelerini önemli ölçüde hızlandırır.
 
 ## Hiçbir Şeyi Kaçırmayın: Planlama ve Takip İşlemleri için Otomasyon
 
@@ -111,9 +111,9 @@ Genellikle pazarlamayla ilişkilendirilse de, yeni bir müşteri kaydolduğunda 
 
 Uzun e-posta zincirleriyle veya raporlarla mı uğraşıyorsunuz? AI bu bilgileri tüketme şeklimizi dönüştürüyor. AI araçları, uzun e-postaları veya tüm zincirleri otomatik olarak özetleyerek önemli noktaları, kararları ve eylem maddelerini çıkarabilir. [Superhuman](https://superhuman.com/ai) otomatik özetleme özelliği sunarken, Outlook'deki Microsoft Copilot gibi araçlar da özetleme sağlar. [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) ve [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) gibi platformlar özel AI özetleyiciler sunar.
 
-Bu, karmaşık konuşmaları anlamak için gereken zamandan büyük ölçüde tasarruf sağlar. [Chiefy, bağlamsal farkındalıkla **Akıllı Özetleme** özelliğini içerir](/tr/), yani uzun konuşmaları özetlemekle kalmaz, aynı zamanda daha önce bahsedilen projeler ve ilişkiler hakkındaki ayrıntıları da hatırlayarak özetlerin son derece alakalı ve uygulanabilir olmasını sağlar.
+Bu, karmaşık konuşmaları anlamak için gereken zamandan büyük ölçüde tasarruf sağlar. [Duet Mail, bağlamsal farkındalıkla **Akıllı Özetleme** özelliğini içerir](/tr/), yani uzun konuşmaları özetlemekle kalmaz, aynı zamanda daha önce bahsedilen projeler ve ilişkiler hakkındaki ayrıntıları da hatırlayarak özetlerin son derece alakalı ve uygulanabilir olmasını sağlar.
 
-![Chiefy'in uzun bir e-posta dizisini önemli noktalara ve eylem maddelerine dönüştüren akıllı e-posta özetleme özelliğini gösteren ekran görüntüsü](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+![Duet Mail'in uzun bir e-posta dizisini önemli noktalara ve eylem maddelerine dönüştüren akıllı e-posta özetleme özelliğini gösteren ekran görüntüsü](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Otomasyonun Gücü: Rakamlarla
 
@@ -135,7 +135,7 @@ Bu rakamlar, otomasyonun benimsenmesinin sadece kolaylık sağlamakla ilgili olm
 
 - **Pazarlama Otomasyon Platformları (MAP'ler):** Mailchimp, ActiveCampaign, HubSpot, Klaviyo, Brevo vb. araçlar, büyük ölçekli e-posta pazarlama kampanyaları yürütmek, müşteri yolculuklarını yönetmek, potansiyel müşteri puanlaması yapmak ve genellikle CRM özelliklerini de içermek için güçlü araçlardır. Pazarlama ve satış ekipleri için mükemmeldirler, ancak aşırıya kaçabilir veya bireysel gelen kutusu verimliliğine daha az odaklanabilirler.
 
-- **AI E-posta Yardımcıları ve Verimlilik Araçları:** SaneBox, Flowrite, Gmelius, Superhuman ve [Chiefy](/tr/) gibi araçlar, bireysel veya ekip e-posta verimliliğini artırmak için özel olarak tasarlanmıştır. E-posta ortamında önceliklendirme, taslak oluşturma, özetleme, iş birliği ve iş akışı entegrasyonu gibi gelen kutusu yönetimi zorluklarını çözmeye odaklanırlar. Bunlar genellikle günlük e-postalarla boğuşan meşgul profesyoneller, serbest çalışanlar ve bilgi çalışanları için daha uygundur.
+- **AI E-posta Yardımcıları ve Verimlilik Araçları:** SaneBox, Flowrite, Gmelius, Superhuman ve [Duet Mail](/tr/) gibi araçlar, bireysel veya ekip e-posta verimliliğini artırmak için özel olarak tasarlanmıştır. E-posta ortamında önceliklendirme, taslak oluşturma, özetleme, iş birliği ve iş akışı entegrasyonu gibi gelen kutusu yönetimi zorluklarını çözmeye odaklanırlar. Bunlar genellikle günlük e-postalarla boğuşan meşgul profesyoneller, serbest çalışanlar ve bilgi çalışanları için daha uygundur.
 
 Doğru seçim, asıl amacınıza bağlıdır. Eğer amacınız kampanyaları yönetmekse, MAP'lere bakın. Eğer amacınız kişisel gelen kutunuzu düzene sokmak ve zaman kazanmaksa, AI asistanlarını ve verimlilik araçlarını inceleyin.
 
@@ -161,4 +161,4 @@ E-posta, zamanınızı ve enerjinizi tüketen bir unsur olmak zorunda değil. Ba
 
 Mesajları otomatik olarak sıralamaktan ve önceliklendirmekten, kendi ses tonunuzda yanıt taslakları oluşturmaya, uzun yazışmaları özetlemeye ve zamanında takip sağlamaya kadar olasılıklar çok geniş. En büyük e-posta sorunlarınızı belirleyerek başlayın ve bu listeden bir veya iki otomasyon örneğini uygulayın. Kontrolü ve odaklanmayı ne kadar çabuk geri kazanacağınıza şaşırabilirsiniz.
 
-AI tarafından desteklenen stressiz e-posta yönetimini deneyimlemeye hazır mısınız? [Chiefy](/tr/) gibi araçların, akıllı önceliklendirme, özgün taslak oluşturma ve akıllı özetleme ile gelen kutunuzu nasıl basitleştirebileceğini ve gerçekten önemli olan şeylere ayırabileceğiniz değerli zamanı nasıl geri kazanmanıza yardımcı olabileceğini keşfedin.
+AI tarafından desteklenen stressiz e-posta yönetimini deneyimlemeye hazır mısınız? [Duet Mail](/tr/) gibi araçların, akıllı önceliklendirme, özgün taslak oluşturma ve akıllı özetleme ile gelen kutunuzu nasıl basitleştirebileceğini ve gerçekten önemli olan şeylere ayırabileceğiniz değerli zamanı nasıl geri kazanmanıza yardımcı olabileceğini keşfedin.

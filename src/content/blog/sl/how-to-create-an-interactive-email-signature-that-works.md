@@ -2,7 +2,7 @@
 title: "Kako ustvariti interaktiven e-poštni podpis, ki deluje"
 description: "Naučite se ustvariti interaktiven e-poštni podpis za več odziva, močnejšo blagovno znamko in več potencialnih strank."
 publishedAt: 2025-06-18
-author: "Ekipa Chiefy"
+author: "Ekipa Duet Mail"
 tags: ["AI", "E-pošta"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Interaktiven podpis je zasnovan tako, da sproži dejanje - klik, klic, rezervaci
 
 Tu lahko povezava strategije podpisa s pametnimi orodji za upravljanje e-pošte naredi razliko. Ko potencialne stranke začnejo klikati povezavo "Rezerviraj sestanek", ki jo spodbuja vaš odličen podpis, potrebujete sistem za gladko obravnavo nadaljnjega načrtovanja in komunikacije. Prav tako je ohranjanje profesionalnega tona, ki ga postavi podpis, v vsakem nadaljnjem sporočilu ključno za gradnjo odnosov.
 
-Orodja za e-poštno produktivnost, kot je [Chiefy](https://chiefy.com/sl), lahko pomagajo premostiti to vrzel. Predstavljajte si AI-pomoč pri pripravi hitrih, personaliziranih odgovorov, ki ohranijo vaš edinstveni glas po tem, ko nekdo uporabi CTA v vašem podpisu. Funkcije Chiefy, kot je **AI-triaža**, lahko pomagajo izpostaviti pomembne odgovore, ki nastanejo zaradi interakcij s podpisom, medtem ko **avtentično pripravljanje AI-osnutkov** poskrbi, da nadaljnja sporočila zvenijo kot vi in ohranijo profesionalnost, ki jo podpis vzpostavi. Tako se odziv, ki ga sproži podpis, spremeni v dobro vodene, produktivne pogovore.
+Orodja za e-poštno produktivnost, kot je [Duet Mail](https://duetmail.com/sl), lahko pomagajo premostiti to vrzel. Predstavljajte si AI-pomoč pri pripravi hitrih, personaliziranih odgovorov, ki ohranijo vaš edinstveni glas po tem, ko nekdo uporabi CTA v vašem podpisu. Funkcije Duet Mail, kot je **AI-triaža**, lahko pomagajo izpostaviti pomembne odgovore, ki nastanejo zaradi interakcij s podpisom, medtem ko **avtentično pripravljanje AI-osnutkov** poskrbi, da nadaljnja sporočila zvenijo kot vi in ohranijo profesionalnost, ki jo podpis vzpostavi. Tako se odziv, ki ga sproži podpis, spremeni v dobro vodene, produktivne pogovore.
 
 ## Ste pripravljeni aktivirati svoj podpis?
 

@@ -2,7 +2,7 @@
 title: "Jak stworzyć interaktywny podpis e-mail, który działa"
 description: "Dowiedz się, jak stworzyć interaktywny podpis e-mail, aby zwiększyć zaangażowanie, rozpoznawalność marki i liczbę leadów. Przewodnik krok po kroku dla freelancerów i startupów"
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Interaktywny podpis ma wywoływać działanie — kliknięcie, telefon, rezerwac
 
 Tu właśnie może pomóc połączenie strategii podpisu z inteligentnymi narzędziami do zarządzania e-mailami. Gdy leady zaczynają klikać link „Zarezerwuj spotkanie” wygenerowany przez Twój świetny podpis, potrzebujesz systemu, który sprawnie obsłuży kolejne etapy planowania i komunikacji. Podobnie ważne jest utrzymanie profesjonalnego tonu, który nadaje Twój podpis, w każdym kolejnym e-mailu — to podstawa budowania relacji.
 
-Narzędzia do produktywności e-mail, takie jak [Chiefy](https://chiefy.com/pl), mogą pomóc połączyć te elementy. Wyobraź sobie wsparcie AI, które tworzy szybkie, spersonalizowane odpowiedzi zachowujące Twój unikalny styl po tym, jak ktoś zareaguje na CTA z Twojego podpisu. Funkcje Chiefy, takie jak **AI Triage**, pomagają wyłapywać ważne odpowiedzi wynikające z interakcji z podpisem, a **Authentic AI Drafting** sprawia, że Twoje wiadomości następcze brzmią dokładnie jak Ty, zachowując profesjonalizm, jaki komunikuje Twój podpis. Dzięki temu zaangażowanie wywołane przez podpis zamienia się w dobrze prowadzone, produktywne rozmowy.
+Narzędzia do produktywności e-mail, takie jak [Duet Mail](https://duetmail.com/pl), mogą pomóc połączyć te elementy. Wyobraź sobie wsparcie AI, które tworzy szybkie, spersonalizowane odpowiedzi zachowujące Twój unikalny styl po tym, jak ktoś zareaguje na CTA z Twojego podpisu. Funkcje Duet Mail, takie jak **AI Triage**, pomagają wyłapywać ważne odpowiedzi wynikające z interakcji z podpisem, a **Authentic AI Drafting** sprawia, że Twoje wiadomości następcze brzmią dokładnie jak Ty, zachowując profesjonalizm, jaki komunikuje Twój podpis. Dzięki temu zaangażowanie wywołane przez podpis zamienia się w dobrze prowadzone, produktywne rozmowy.
 
 ## Gotowy, by aktywować swój podpis?
 

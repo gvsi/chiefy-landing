@@ -2,7 +2,7 @@
 title: "Gi arbeidsflyten et loft: de beste Gmail-utvidelsene for bedrifter i 2025"
 description: "Oppdag de beste Gmail-utvidelsene i 2025 for produktivitet, CRM, AI-hjelp og mer. Ta tiden tilbake."
 publishedAt: 2025-06-30
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Produktivitet", "Verktoy"]
 draft: false
 ---
@@ -15,7 +15,7 @@ Gmail er startpunktet for mye av arbeidsdagen, men standardopplevelsen er ikke a
 
 ### **AI-assistenter**
 
-AI-utvidelser hjelper med triage, oppsummering og utkast. [**Chiefy**](https://chiefy.com/nb) fokuserer på å vise hvilke meldinger som krever handling, oppsummere tråder og skrive svar som hores ut som deg.
+AI-utvidelser hjelper med triage, oppsummering og utkast. [**Duet Mail**](https://duetmail.com/nb) fokuserer på å vise hvilke meldinger som krever handling, oppsummere tråder og skrive svar som hores ut som deg.
 
 ### **CRM og salgsoppfolging**
 
@@ -43,10 +43,10 @@ For bedrifter er sikkerhet like viktig som produktivitet. Se etter verktoy med t
 
 ## Hvor AI gir mest verdi
 
-AI gir mest effekt når den reduserer beslutningsarbeid. Det betyr å finne viktige meldinger, forklare lange tråder og lage gode forsteutkast. Med Chiefy kan Gmail bli mer fokusert uten at du må bytte e-postklient.
+AI gir mest effekt når den reduserer beslutningsarbeid. Det betyr å finne viktige meldinger, forklare lange tråder og lage gode forsteutkast. Med Duet Mail kan Gmail bli mer fokusert uten at du må bytte e-postklient.
 
 ## Konklusjon
 
 De beste Gmail-utvidelsene for bedrifter gjor arbeidsflyten enklere, ikke tyngre. Velg få, presise verktoy som hjelper teamet med å prioritere, svare og folge opp.
 
-Vil du starte med AI i Gmail? Utforsk [**Chiefy**](https://chiefy.com/nb) for triage, oppsummering og autentiske utkast.
+Vil du starte med AI i Gmail? Utforsk [**Duet Mail**](https://duetmail.com/nb) for triage, oppsummering og autentiske utkast.

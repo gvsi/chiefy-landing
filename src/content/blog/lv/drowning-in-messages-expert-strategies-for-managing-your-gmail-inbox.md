@@ -2,7 +2,7 @@
 title: "Slīkstat ziņojumos? Ekspertu stratēģijas Gmail iesūtnes pārvaldībai"
 description: "Apturiet e-pasta pārslodzi! Apgūstiet ekspertu stratēģijas Gmail iesūtnes pārvaldībai, sākot no klasiskām taktikām līdz mākslīgā intelekta rīkiem, un atgūsiet savu produktivitāti."
 publishedAt: 2025-07-04
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["Mākslīgais intelekts", "Gmail", "Ienākošo ziņojumu pārvaldība", "E-pasts"]
 draft: false
 ---
@@ -159,7 +159,7 @@ Mākslīgā intelekta e-pasta asistenti sniedzas tālāk par vienkāršu automat
 
 **Ieguvums:** Tā vietā, lai jūs pārmeklētu e-pastu kaudzi, mākslīgais intelekts automātiski parāda e-pastus, pieprasot tūlītēju rīcību. Tas ievērojami samazina šķirošanas laiku, nodrošina, ka netiek palaisti garām svarīgi vienumi, samazina iesūtnes pārslodzes radīto stresu un ļauj jums koncentrēt savu enerģiju uz jēgpilnu darbu, nevis iesūtnes administrēšanu.
 
-**Chiefy saite (kontekstuāla):** _Šī viedā kārtošana ir tieši tas, kas nepieciešams aizņemtiem profesionāļiem. Tieši šeit darbojas tādi rīki kā _[_Chiefy_](https://chiefy.com/lv/lv)_, izmantojot **AI Triage**, lai analizētu steidzamību, nepieciešamās darbības un lēmumus, skaidri tos attēlojot **Focused Dashboard** formātā, lai jūs uzreiz zinātu, kam jāpievērš uzmanība._
+**Duet Mail saite (kontekstuāla):** _Šī viedā kārtošana ir tieši tas, kas nepieciešams aizņemtiem profesionāļiem. Tieši šeit darbojas tādi rīki kā _[_Duet Mail_](https://duetmail.com/lv/lv)_, izmantojot **AI Triage**, lai analizētu steidzamību, nepieciešamās darbības un lēmumus, skaidri tos attēlojot **Focused Dashboard** formātā, lai jūs uzreiz zinātu, kam jāpievērš uzmanība._
 
 ### Smart Summarization: Garu pavedienu un pielikumu tūlītēja izpratne
 
@@ -219,4 +219,4 @@ Tehnoloģijas, īpaši inteliģento mākslīgā intelekta e-pasta asistentu par�
 
 Savas Gmail apgūšana nenozīmē tikai sakārtotas digitālās telpas izveidi. Tā ir ievērojama stresa samazināšana darba vietā, vērtīga laika atgūšana katru nedēļu, spējas koncentrēties uz dziļu, jēgpilnu darbu aizsardzība un galu galā kopējās efektivitātes un labsajūtas uzlabošana. Pārdomāti apvienojot disciplinētus ieradumus ar viedu rīku stratēģisku izmantošanu, jūs varat pārveidot savu iesūtni no baiļu avota par pārvaldāmu saziņas centru.
 
-Vai esat gatavs izbaudīt, kā mākslīgais intelekts var pārveidot jūsu attiecības ar e-pastu? Speriet pirmo soli pretim mierīgākai un produktīvākai darba dienai. Izpētiet, kā [Chiefy](https://chiefy.com/lv/lv) izmanto mākslīgā intelekta šķirošanu, viedu kopsavilkumu veidošanu un autentisku dokumentu sagatavošanu, lai palīdzētu tādiem aizņemtiem profesionāļiem kā jūs iekarot savu iesūtni.
+Vai esat gatavs izbaudīt, kā mākslīgais intelekts var pārveidot jūsu attiecības ar e-pastu? Speriet pirmo soli pretim mierīgākai un produktīvākai darba dienai. Izpētiet, kā [Duet Mail](https://duetmail.com/lv/lv) izmanto mākslīgā intelekta šķirošanu, viedu kopsavilkumu veidošanu un autentisku dokumentu sagatavošanu, lai palīdzētu tādiem aizņemtiem profesionāļiem kā jūs iekarot savu iesūtni.

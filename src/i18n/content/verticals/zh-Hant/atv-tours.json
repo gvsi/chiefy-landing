@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Chiefy 適用於 ATV 和 UTV 旅遊 | AI 郵件助手",
-  "metaDescription": "Chiefy 協助 ATV 和 UTV 導遊即時回覆預訂郵件，即使人在路線上也不漏接。AI 會依照您的價格、要求和語氣起草回覆。",
+  "pageTitle": "Duet Mail 適用於 ATV 和 UTV 旅遊 | AI 郵件助手",
+  "metaDescription": "Duet Mail 協助 ATV 和 UTV 導遊即時回覆預訂郵件，即使人在路線上也不漏接。AI 會依照您的價格、要求和語氣起草回覆。",
   "heroBadge": "受到 200 多名導遊的信賴",
   "heroHeadline": "您旅途中的電子郵件助手",
-  "heroSubline": "Chiefy learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
+  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
   "inboxEmails": [
     {
       "from": "雷切尔·W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "组（4台）",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "保存的團體預訂可支付一年的 Chiefy。"
+    "punchline": "保存的團體預訂可支付一年的 Duet。"
   },
-  "categorizationSubtitle": "Chiefy automatically tags every email so you see booking requests first, insurance questions second, and noise never.不再錯過隱藏在 TripAdvisor 警報下的團體查詢。",
-  "draftSubtitle": "Chiefy 了解您的旅遊路線、定價和騎士要求。當收到預訂查詢時，它會起草一份完整的回覆，其中包含旅行詳細資訊、價格和攜帶的物品。您审阅并发送。",
-  "agentSubtitle": "「這個週末有團體預定嗎？」 「起草一份給雷切爾的回覆，週六有空。」Chiefy 了解您的收件匣和日程安排 — 只需詢問即可。",
+  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never.不再錯過隱藏在 TripAdvisor 警報下的團體查詢。",
+  "draftSubtitle": "Duet 了解您的旅遊路線、定價和騎士要求。當收到預訂查詢時，它會起草一份完整的回覆，其中包含旅行詳細資訊、價格和攜帶的物品。您审阅并发送。",
+  "agentSubtitle": "「這個週末有團體預定嗎？」 「起草一份給雷切爾的回覆，週六有空。」Duet 了解您的收件匣和日程安排 — 只需詢問即可。",
   "categorizationEmails": [
     {
       "from": "雷切尔·W.",
@@ -127,31 +127,31 @@
     {
       "name": "迈克·D.",
       "title": "ATV 指南，犹他州南部",
-      "quote": "我在零手機服务的情况下帶領 8 小时的峡谷之旅。当我回來时，我的預訂電子郵件有一半已经失效了。 Chiefy 使用我的定價和路線資訊起草回覆 - 我只是在一天结束时查看它们。",
+      "quote": "我在零手機服务的情况下帶領 8 小时的峡谷之旅。当我回來时，我的預訂電子郵件有一半已经失效了。 Duet 使用我的定價和路線資訊起草回覆 - 我只是在一天结束时查看它们。",
       "avatarKey": "michael"
     },
     {
       "name": "塔拉·M。",
       "title": "UTV 旅行社，科罗拉多州",
-      "quote": "我们每周 7 天进行旅行，仅保险和豁免问题就耗尽了我的早上时间。 Chiefy 可以处理所有问题 - 骑手要求、年龄限制、携带物品。听起来和我一模一样。",
+      "quote": "我们每周 7 天进行旅行，仅保险和豁免问题就耗尽了我的早上时间。 Duet 可以处理所有问题 - 骑手要求、年龄限制、携带物品。听起来和我一模一样。",
       "avatarKey": "francesca"
     },
     {
       "name": "傑克R。",
       "title": "吉普车导游，摩押",
-      "quote": "人們通过電子郵件询问哪条路线适合他们的团队、他们需要什么经验水平、孩子是否可以骑行。一遍又一遍地问同样的5个问题。 Chiefy 釘住了其中的每一個。",
+      "quote": "人們通过電子郵件询问哪条路线适合他们的团队、他们需要什么经验水平、孩子是否可以骑行。一遍又一遍地问同样的5个问题。 Duet 釘住了其中的每一個。",
       "avatarKey": "johnny"
     },
     {
       "name": "妮可·S。",
       "title": "越野探险，亚利桑那州",
-      "quote": "我每天晚上都要花一个多小时来回答同样的可用性问题。现在，当我外出时，Chiefy 会起草回覆。我的回覆时间从几小时缩短到几分钟。",
+      "quote": "我每天晚上都要花一个多小时来回答同样的可用性问题。现在，当我外出时，Duet 会起草回覆。我的回覆时间从几小时缩短到几分钟。",
       "avatarKey": "jennifer"
     },
     {
       "name": "阿曼達K.",
       "title": "家庭 ATV 旅游，塞多纳",
-      "quote": "我们收到很多家庭询问初学者路线和年龄要求。 Chiefy 了解了我们所有的旅游选项，并在每次回覆中推荐合适的旅游选项。客户无法区分。",
+      "quote": "我们收到很多家庭询问初学者路线和年龄要求。 Duet 了解了我们所有的旅游选项，并在每次回覆中推荐合适的旅游选项。客户无法区分。",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "开始免费试用。 30 秒内连接您的收件箱。",
   "verticalFaqs": [
     {
-      "question": "Chiefy 是否處理保險和豁免問題？",
-      "answer": "是的。 Chiefy 了解您的騎士要求 - 責任保險、年齡限制、豁免詳細資訊、騎士需要攜帶什麼。 When someone emails asking what they need before their tour, Chiefy drafts a complete response with all the specifics.您查看並點擊發送。"
+      "question": "Duet 是否處理保險和豁免問題？",
+      "answer": "是的。 Duet 了解您的騎士要求 - 責任保險、年齡限制、豁免詳細資訊、騎士需要攜帶什麼。 When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics.您查看並點擊發送。"
     },
     {
-      "question": "我整天都在路上，沒有手機服務。 Chiefy 有什麼幫助？",
-      "answer": "這正是導遊喜愛 Chiefy 的原因。當您在沒有訊號的情況下進行 6 至 8 小時的旅行時，預訂查詢就會堆積如山。 Chiefy 起草對每項的回應——價格、可用性、會議地點、穿什麼。當您回來時，您會審閱草稿並發送。大多數導遊告訴我們，在旺季期間，這可以為他們每天節省 1-2 小時的電子郵件時間。"
+      "question": "我整天都在路上，沒有手機服務。 Duet 有什麼幫助？",
+      "answer": "這正是導遊喜愛 Duet 的原因。當您在沒有訊號的情況下進行 6 至 8 小時的旅行時，預訂查詢就會堆積如山。 Duet 起草對每項的回應——價格、可用性、會議地點、穿什麼。當您回來時，您會審閱草稿並發送。大多數導遊告訴我們，在旺季期間，這可以為他們每天節省 1-2 小時的電子郵件時間。"
     }
   ],
   "pricingNote": "每台機器 200 美元，節省的 4 人團體可支付一年多的 Pro。"

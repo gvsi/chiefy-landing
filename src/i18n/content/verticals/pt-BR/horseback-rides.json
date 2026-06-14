@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy para passeios a cavalo e guias de trilha | Assistente de e-mail com IA",
-  "metaDescription": "O Chiefy ajuda operadores de passeios a cavalo a responder emails de reserva instantaneamente — até da sela. Respostas redigidas por IA com seus preços, requisitos para cavaleiros e tom.",
+  "pageTitle": "Duet Mail para passeios a cavalo e guias de trilha | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda operadores de passeios a cavalo a responder emails de reserva instantaneamente — até da sela. Respostas redigidas por IA com seus preços, requisitos para cavaleiros e tom.",
   "heroBadge": "Usado por mais de 300 guias de trilha",
   "heroHeadline": "Seu assistente de e-mail enquanto você está na trilha",
-  "heroSubline": "O Chiefy aprende seus tipos de passeio, preços, requisitos para cavaleiros e condições da trilha — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
+  "heroSubline": "O Duet aprende seus tipos de passeio, preços, requisitos para cavaleiros e condições da trilha — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "passeio",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Um passeio em grupo recuperado paga mais de dois anos de Chiefy."
+    "punchline": "Um passeio em grupo recuperado paga mais de dois anos de Duet."
   },
-  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para você ver pedidos de reserva primeiro, perguntas de cavaleiros em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo enterrada sob alertas do TripAdvisor.",
-  "draftSubtitle": "O Chiefy aprende seus tipos de passeio, preços e requisitos. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da trilha, preço e o que vestir. Você revisa e envia.",
-  "agentSubtitle": "\"Algum passeio livre neste fim de semana?\" \"Redija uma resposta para Jessica com a disponibilidade de sábado.\" O Chiefy conhece sua caixa de entrada e seu calendário — é só perguntar.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver pedidos de reserva primeiro, perguntas de cavaleiros em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Duet aprende seus tipos de passeio, preços e requisitos. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da trilha, preço e o que vestir. Você revisa e envia.",
+  "agentSubtitle": "\"Algum passeio livre neste fim de semana?\" \"Redija uma resposta para Jessica com a disponibilidade de sábado.\" O Duet conhece sua caixa de entrada e seu calendário — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Dono de rancho e guia de trilha, MT",
-      "quote": "Fico na trilha 6 horas por dia sem sinal de celular. Quando eu voltava para responder, metade das pessoas já tinha reservado em outro lugar. Agora o Chiefy redige respostas com meus preços e detalhes dos passeios — eu só reviso e envio quando volto ao celeiro.",
+      "quote": "Fico na trilha 6 horas por dia sem sinal de celular. Quando eu voltava para responder, metade das pessoas já tinha reservado em outro lugar. Agora o Duet redige respostas com meus preços e detalhes dos passeios — eu só reviso e envio quando volto ao celeiro.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Operadora de passeios a cavalo, AZ",
-      "quote": "Recebemos dezenas de emails perguntando a mesma coisa — limites de peso, o que vestir, requisitos de idade. O Chiefy cuida de tudo isso e as respostas soam exatamente como eu. Meus hóspedes não fazem ideia de que é IA.",
+      "quote": "Recebemos dezenas de emails perguntando a mesma coisa — limites de peso, o que vestir, requisitos de idade. O Duet cuida de tudo isso e as respostas soam exatamente como eu. Meus hóspedes não fazem ideia de que é IA.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Guia de passeios em trilha, CO",
-      "quote": "A alta temporada estava me acabando. Mais de 30 emails por dia além de conduzir passeios. O Chiefy separa os pedidos de reserva do ruído e redige respostas que incluem tudo — preços, o que levar, tudo mesmo. Recuperei minhas noites.",
+      "quote": "A alta temporada estava me acabando. Mais de 30 emails por dia além de conduzir passeios. O Duet separa os pedidos de reserva do ruído e redige respostas que incluem tudo — preços, o que levar, tudo mesmo. Recuperei minhas noites.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Instrutora de equitação e gerente de reservas, TX",
-      "quote": "Fazemos passeios ao pôr do sol, passeios pela manhã e aulas particulares — cada um com preços e requisitos diferentes. O Chiefy aprendeu tudo em uma semana. Ele redige a resposta certa para o tipo certo de passeio todas as vezes.",
+      "quote": "Fazemos passeios ao pôr do sol, passeios pela manhã e aulas particulares — cada um com preços e requisitos diferentes. O Duet aprendeu tudo em uma semana. Ele redige a resposta certa para o tipo certo de passeio todas as vezes.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Rancho familiar e passeios em trilha, CA",
-      "quote": "Os emails sensíveis eram os piores — alguém perguntando se é pesado demais ou se o filho tem idade suficiente. O Chiefy responde com o mesmo cuidado que eu teria. Profissional, gentil e preciso. Só isso já vale a pena.",
+      "quote": "Os emails sensíveis eram os piores — alguém perguntando se é pesado demais ou se o filho tem idade suficiente. O Duet responde com o mesmo cuidado que eu teria. Profissional, gentil e preciso. Só isso já vale a pena.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "Como o Chiefy lida com perguntas sensíveis sobre peso ou requisitos de experiência?",
-      "answer": "O Chiefy aprende suas políticas específicas e espelha seu tom. Quando alguém pergunta sobre limites de peso ou requisitos de experiência, ele responde de forma profissional e acolhedora — compartilhando as informações necessárias sem tornar a situação desconfortável. Você define o tom uma vez e o Chiefy o segue de forma consistente, para que cada visitante se sinta respeitado."
+      "question": "Como o Duet lida com perguntas sensíveis sobre peso ou requisitos de experiência?",
+      "answer": "O Duet aprende suas políticas específicas e espelha seu tom. Quando alguém pergunta sobre limites de peso ou requisitos de experiência, ele responde de forma profissional e acolhedora — compartilhando as informações necessárias sem tornar a situação desconfortável. Você define o tom uma vez e o Duet o segue de forma consistente, para que cada visitante se sinta respeitado."
     },
     {
-      "question": "O Chiefy consegue lidar com reservas de grupo com necessidades diferentes para cada cavaleiro?",
-      "answer": "Sim. O Chiefy aprende seus tipos de passeio, tamanhos de grupo, idades mínimas e quaisquer requisitos específicos de cavaleiros. Quando uma família ou grupo escreve sobre reserva, ele redige uma resposta que cobre o preço do grupo inteiro, o que cada cavaleiro precisa saber e os horários disponíveis. Você revisa e envia — sem precisar ficar indo e voltando."
+      "question": "O Duet consegue lidar com reservas de grupo com necessidades diferentes para cada cavaleiro?",
+      "answer": "Sim. O Duet aprende seus tipos de passeio, tamanhos de grupo, idades mínimas e quaisquer requisitos específicos de cavaleiros. Quando uma família ou grupo escreve sobre reserva, ele redige uma resposta que cobre o preço do grupo inteiro, o que cada cavaleiro precisa saber e os horários disponíveis. Você revisa e envia — sem precisar ficar indo e voltando."
     }
   ],
   "pricingNote": "Com $100/pessoa para um grupo de 6, um passeio recuperado paga mais de dois anos de Pro."

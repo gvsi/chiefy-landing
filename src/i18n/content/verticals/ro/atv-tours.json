@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Chiefy pentru tururi ATV și UTV | Asistent de e-mail AI",
-  "metaDescription": "Chiefy îi ajută pe ghizii turistici ATV și UTV să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu prețurile, cerințele și vocea ta.",
+  "pageTitle": "Duet Mail pentru tururi ATV și UTV | Asistent de e-mail AI",
+  "metaDescription": "Duet Mail îi ajută pe ghizii turistici ATV și UTV să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu prețurile, cerințele și vocea ta.",
   "heroBadge": "De încredere de peste 200 de ghizi turistici",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe drum",
-  "heroSubline": "Chiefy învață tipurile de tur, prețurile și cerințele pentru călători, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare din cauza unui răspuns lent.",
+  "heroSubline": "Duet învață tipurile de tur, prețurile și cerințele pentru călători, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grup (4 mașini)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "O rezervare de grup salvată plătește pentru un an de Chiefy."
+    "punchline": "O rezervare de grup salvată plătește pentru un an de Duet."
   },
-  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările de asigurare în al doilea rând și zgomotul niciodată. Nu mai lipsește o întrebare de grup îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Chiefy învață rutele, prețurile și cerințele pentru călători. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„S-au rezervat grupuri pentru acest weekend?” „Scrie un răspuns pentru Rachel cu disponibilitate pentru sâmbătă”. Chiefy îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările de asigurare în al doilea rând și zgomotul niciodată. Nu mai lipsește o întrebare de grup îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Duet învață rutele, prețurile și cerințele pentru călători. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre călătorie, prețuri și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„S-au rezervat grupuri pentru acest weekend?” „Scrie un răspuns pentru Rachel cu disponibilitate pentru sâmbătă”. Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "Ghid ATV, Utah de Sud",
-      "quote": "Conduc excursii de 8 ore prin canioane cu serviciu de celulă zero. Până mă întorceam, jumătate din e-mailurile mele de rezervare se înghețaseră. Chiefy elaborează răspunsuri cu informații despre prețuri și trasee — le examinez doar la sfârșitul zilei.",
+      "quote": "Conduc excursii de 8 ore prin canioane cu serviciu de celulă zero. Până mă întorceam, jumătate din e-mailurile mele de rezervare se înghețaseră. Duet elaborează răspunsuri cu informații despre prețuri și trasee — le examinez doar la sfârșitul zilei.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "Operator de turism UTV, Colorado",
-      "quote": "Facem excursii 7 zile pe săptămână și numai întrebările privind asigurarea și scutirea îmi stăruiau diminețile. Chiefy se ocupă de toate — cerințele pentru călăreți, restricțiile de vârstă, ce să aduci. Sună exact ca mine.",
+      "quote": "Facem excursii 7 zile pe săptămână și numai întrebările privind asigurarea și scutirea îmi stăruiau diminețile. Duet se ocupă de toate — cerințele pentru călăreți, restricțiile de vârstă, ce să aduci. Sună exact ca mine.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Ghid turistic Jeep, Moab",
-      "quote": "Oamenii e-mail întrebat ce traseu este potrivit pentru grupul lor, ce nivel de experiență au nevoie, dacă copiii pot merge. Aceleași 5 întrebări din nou și din nou. Chiefy pune în cuie pe fiecare dintre ele.",
+      "quote": "Oamenii e-mail întrebat ce traseu este potrivit pentru grupul lor, ce nivel de experiență au nevoie, dacă copiii pot merge. Aceleași 5 întrebări din nou și din nou. Duet pune în cuie pe fiecare dintre ele.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Petreceam peste o oră în fiecare noapte răspunzând la aceleași întrebări despre disponibilitate. Acum, Chiefy elaborează răspunsuri în timp ce sunt pe urmă. Timpul meu de răspuns a trecut de la ore la minute.",
+      "quote": "Petreceam peste o oră în fiecare noapte răspunzând la aceleași întrebări despre disponibilitate. Acum, Duet elaborează răspunsuri în timp ce sunt pe urmă. Timpul meu de răspuns a trecut de la ore la minute.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Tururi cu ATV pentru familie, Sedona",
-      "quote": "Primim o mulțime de familii care întreabă despre traseele pentru începători și despre cerințele de vârstă. Chiefy a învățat toate opțiunile noastre de tur și o recomandă pe cea potrivită în fiecare răspuns. Clienții nu pot face diferența.",
+      "quote": "Primim o mulțime de familii care întreabă despre traseele pentru începători și despre cerințele de vârstă. Duet a învățat toate opțiunile noastre de tur și o recomandă pe cea potrivită în fiecare răspuns. Clienții nu pot face diferența.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Chiefy se ocupă de întrebările privind asigurarea și renunțarea?",
-      "answer": "Da. Chiefy învață cerințele tale pentru călători — asigurare de răspundere civilă, restricții de vârstă, detalii despre renunțare, ce trebuie să aducă călătorii. Când cineva trimite un e-mail și întreabă de ce are nevoie înainte de tur, Chiefy redactează un răspuns complet cu toate detaliile. Verifici și apeși pe trimitere."
+      "question": "Duet se ocupă de întrebările privind asigurarea și renunțarea?",
+      "answer": "Da. Duet învață cerințele tale pentru călători — asigurare de răspundere civilă, restricții de vârstă, detalii despre renunțare, ce trebuie să aducă călătorii. Când cineva trimite un e-mail și întreabă de ce are nevoie înainte de tur, Duet redactează un răspuns complet cu toate detaliile. Verifici și apeși pe trimitere."
     },
     {
-      "question": "Sunt pe traseu toată ziua fără serviciu de telefonie mobilă. Cum ajută Chiefy?",
-      "answer": "Tocmai de aceea ghizii iubesc Chiefy. În timp ce conduci un tur de 6-8 ore fără semnal, solicitările de rezervare se adună. Chiefy scrie răspunsuri la fiecare dintre ele — prețuri, disponibilitate, locația întâlnirii, ce să poarte. Când te întorci, verifici schițele și trimiți. Majoritatea ghizilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
+      "question": "Sunt pe traseu toată ziua fără serviciu de telefonie mobilă. Cum ajută Duet?",
+      "answer": "Tocmai de aceea ghizii iubesc Duet. În timp ce conduci un tur de 6-8 ore fără semnal, solicitările de rezervare se adună. Duet scrie răspunsuri la fiecare dintre ele — prețuri, disponibilitate, locația întâlnirii, ce să poarte. Când te întorci, verifici schițele și trimiți. Majoritatea ghizilor ne spun că le economisește 1-2 ore de e-mail pe zi în timpul sezonului de vârf."
     }
   ],
   "pricingNote": "La 200 USD/mașină, un grup salvat de 4 plătește pentru peste un an de Pro."

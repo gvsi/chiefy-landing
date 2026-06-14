@@ -2,7 +2,7 @@
 title: "সর্বোচ্চ উৎপাদনশীলতা আনলক করুন: 2025 সালে আপনার ইনবক্সের প্রয়োজনীয় শীর্ষ Gmail tools"
 description: "2025 সালের শীর্ষ Gmail tools ও AI assistants দেখুন, যা overload সামলায়, উৎপাদনশীলতা বাড়ায় এবং আপনার দিন ফিরিয়ে দেয়।"
 publishedAt: 2025-05-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "উৎপাদনশীলতা", "ইনবক্স ম্যানেজমেন্ট"]
 draft: false
 ---
@@ -15,7 +15,7 @@ Gmail powerful, কিন্তু high-volume inbox নিজে নিজে �
 
 AI assistant এখন Gmail productivity stack-এর সবচেয়ে গুরুত্বপূর্ণ অংশগুলোর একটি। এটি শুধু grammar ঠিক করে না; triage, summarization এবং reply drafting-এ সাহায্য করে।
 
-[Chiefy](https://chiefy.com/bn) AI Triage দিয়ে জরুরি বার্তা ও action items সামনে আনে, Smart Summarization দিয়ে দীর্ঘ thread বোঝায় এবং Authentic AI Drafting দিয়ে আপনার voice অনুযায়ী উত্তর খসড়া করে।
+[Duet Mail](https://duetmail.com/bn) AI Triage দিয়ে জরুরি বার্তা ও action items সামনে আনে, Smart Summarization দিয়ে দীর্ঘ thread বোঝায় এবং Authentic AI Drafting দিয়ে আপনার voice অনুযায়ী উত্তর খসড়া করে।
 
 ## 2. Task manager integration
 

@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Chiefy untuk Penyewaan Memancing |  AI Asisten Email",
-  "metaDescription": "Chiefy membantu kapten kapal sewaan memancing merespons email pemesanan secara instan — bahkan dari dalam air.  AI -Balasan yang disusun dengan harga, kebijakan, dan suara Anda.",
+  "pageTitle": "Duet Mail untuk Penyewaan Memancing |  AI Asisten Email",
+  "metaDescription": "Duet Mail membantu kapten kapal sewaan memancing merespons email pemesanan secara instan — bahkan dari dalam air.  AI -Balasan yang disusun dengan harga, kebijakan, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 500+ kapten sewaan",
   "heroHeadline": "Asisten email Anda saat Anda berada di atas air",
-  "heroSubline": "Chiefy mempelajari harga, kebijakan, dan pendapat Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
+  "heroSubline": "Duet mempelajari harga, kebijakan, dan pendapat Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Satu pemesanan tersimpan membayar untuk satu tahun Chiefy."
+    "punchline": "Satu pemesanan tersimpan membayar untuk satu tahun Duet."
   },
-  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan perjalanan yang hilang yang terkubur di bawah peringatan TripAdvisor.",
-  "draftSubtitle": "Chiefy mempelajari harga, kebijakan, dan nada Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail perjalanan, harga, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
-  "agentSubtitle": "\"Hari apa yang buka minggu depan?\" \"Buatlah balasan ke Sarah dengan ketersediaan.\" Chiefy mengetahui inbox dan kalender Anda — tanyakan saja.",
+  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan perjalanan yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Duet mempelajari harga, kebijakan, dan nada Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail perjalanan, harga, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Hari apa yang buka minggu depan?\" \"Buatlah balasan ke Sarah dengan ketersediaan.\" Duet mengetahui inbox dan kalender Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -133,19 +133,19 @@
     {
       "name": "Sarah & Tom K.",
       "title": "Bisnis Piagam Keluarga, ATAU",
-      "quote": "Kami menjalankan dua perahu dan volume email selama musim panas luar biasa. Chiefy mengurutkan permintaan pemesanan dari yang lainnya dan menyusun balasan yang terdengar persis seperti kami. Pengubah permainan mutlak.",
+      "quote": "Kami menjalankan dua perahu dan volume email selama musim panas luar biasa. Duet mengurutkan permintaan pemesanan dari yang lainnya dan menyusun balasan yang terdengar persis seperti kami. Pengubah permainan mutlak.",
       "avatarKey": "sarah"
     },
     {
       "name": "jaka r.",
       "title": "Panduan Memancing di Pantai, TX",
-      "quote": "Saya menghabiskan satu jam setiap malam untuk menjawab pertanyaan ketersediaan yang sama. Sekarang Chiefy menanganinya. Waktu respons saya berubah dari jam ke menit dan saya tidak pernah kehilangan pemesanan lagi sejak saat itu.",
+      "quote": "Saya menghabiskan satu jam setiap malam untuk menjawab pertanyaan ketersediaan yang sama. Sekarang Duet menanganinya. Waktu respons saya berubah dari jam ke menit dan saya tidak pernah kehilangan pemesanan lagi sejak saat itu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Manajer Kantor Piagam, HI",
-      "quote": "Mengelola email untuk 4 kapten adalah pekerjaan penuh waktu. Chiefy mengkategorikan segalanya dan menyusun balasan dengan perahu yang tepat, harga yang tepat, kapten yang tepat. Ini seperti memiliki diriku yang lain.",
+      "quote": "Mengelola email untuk 4 kapten adalah pekerjaan penuh waktu. Duet mengkategorikan segalanya dan menyusun balasan dengan perahu yang tepat, harga yang tepat, kapten yang tepat. Ini seperti memiliki diriku yang lain.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Apakah Chiefy berfungsi untuk email pemesanan dan ketersediaan?",
-      "answer": "Sangat. Chiefy mempelajari jenis perjalanan Anda, harga, ketersediaan, dan kebijakan. Saat pertanyaan pemesanan masuk, respons lengkap akan disusun dengan detail yang tepat — harga, apa saja yang disertakan, lokasi pertemuan, apa yang harus dibawa. Anda meninjau dan mengetuk kirim."
+      "question": "Apakah Duet berfungsi untuk email pemesanan dan ketersediaan?",
+      "answer": "Sangat. Duet mempelajari jenis perjalanan Anda, harga, ketersediaan, dan kebijakan. Saat pertanyaan pemesanan masuk, respons lengkap akan disusun dengan detail yang tepat — harga, apa saja yang disertakan, lokasi pertemuan, apa yang harus dibawa. Anda meninjau dan mengetuk kirim."
     },
     {
-      "question": "Saya di atas air sepanjang hari. Bisakah saya menggunakan Chiefy dari ponsel saya?",
-      "answer": "Ya. Chiefy berfungsi dengan Gmail dan Outlook, sehingga berfungsi di mana pun email Anda berfungsi — termasuk ponsel Anda. Draf muncul secara otomatis. Di antara tangkapan, Anda meninjau dan mengirim dengan satu ketukan. Kebanyakan kapten mengatakan kepada kami bahwa ini menghemat waktu email mereka 1-2 jam per hari selama musim puncak."
+      "question": "Saya di atas air sepanjang hari. Bisakah saya menggunakan Duet dari ponsel saya?",
+      "answer": "Ya. Duet berfungsi dengan Gmail dan Outlook, sehingga berfungsi di mana pun email Anda berfungsi — termasuk ponsel Anda. Draf muncul secara otomatis. Di antara tangkapan, Anda meninjau dan mengirim dengan satu ketukan. Kebanyakan kapten mengatakan kepada kami bahwa ini menghemat waktu email mereka 1-2 jam per hari selama musim puncak."
     }
   ],
   "pricingNote": "Dengan harga $500/sewaan, satu pemesanan hemat akan membayar Pro selama lebih dari setahun."

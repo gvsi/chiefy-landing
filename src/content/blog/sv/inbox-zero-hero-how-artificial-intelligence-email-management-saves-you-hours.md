@@ -2,7 +2,7 @@
 title: "Inbox Zero Hero: Hur e-posthantering med artificiell intelligens sparar dig timmar"
 description: "Sluta drunkna i mejl! Lär dig hur artificiell intelligens e-posthanteringsverktyg automatiserar sortering, prioriterar uppgifter och utkast till svar för att spara timmar."
 publishedAt: 2025-09-29
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Inkorgshantering", "E-post"]
 draft: false
 ---
@@ -57,7 +57,7 @@ De bedömer olika faktorer, inklusive:
 
 - **Sentimentanalys:** Vissa verktyg mäter den känslomässiga tonen för att identifiera potentiellt kritiska problem.
 
-Det är här AI Triage-funktioner, som de i verktyg som [Chiefy](https://chiefy.com/sv), kommer in i bilden och visar automatiskt e-postmeddelanden som behöver åtgärder eller beslut i en fokuserad instrumentpanel. Genom att identifiera och lyfta fram högprioriterade meddelanden minskar dessa system dramatiskt sorteringstiden och minimerar risken för att missa viktig information.
+Det är här AI Triage-funktioner, som de i verktyg som [Duet Mail](https://duetmail.com/sv), kommer in i bilden och visar automatiskt e-postmeddelanden som behöver åtgärder eller beslut i en fokuserad instrumentpanel. Genom att identifiera och lyfta fram högprioriterade meddelanden minskar dessa system dramatiskt sorteringstiden och minimerar risken för att missa viktig information.
 
 ### AI-driven ritning: hastighet möter autenticitet
 
@@ -65,7 +65,7 @@ Stirrar du på ett tomt svarsfönster? AI kan hjälpa. Många e-postassistenter 
 
 Ett vanligt bekymmer är dock att AI-genererade e-postmeddelanden kan låta generiska eller robotiska. Även om grundläggande AI kan producera standardtext, hanterar sofistikerade verktyg denna utmaning. Nyckeln är **personalisering**. Bra AI-assistenter låter dig justera tonen (formell, avslappnad, vänlig) och längd.
 
-De bästa verktygen går längre och lär dig dina unika kommunikationsmönster. Till exempel analyserar [Chiefy](https://chiefy.com/sv)s Authentic AI Drafting dina tidigare e-postmeddelanden för att generera svar som verkligen låter som du, och fångar ditt ordförråd och stilistiska nyanser. Kom ihåg att målet inte är att ersätta din röst utan att förstärka den. Granska och justera alltid AI-utkast för att lägga till ett specifikt sammanhang eller en personlig touch innan du trycker på skicka.
+De bästa verktygen går längre och lär dig dina unika kommunikationsmönster. Till exempel analyserar [Duet Mail](https://duetmail.com/sv)s Authentic AI Drafting dina tidigare e-postmeddelanden för att generera svar som verkligen låter som du, och fångar ditt ordförråd och stilistiska nyanser. Kom ihåg att målet inte är att ersätta din röst utan att förstärka den. Granska och justera alltid AI-utkast för att lägga till ett specifikt sammanhang eller en personlig touch innan du trycker på skicka.
 
 ### Tämja långa trådar med AI-sammanfattning
 
@@ -77,7 +77,7 @@ Det finns två huvudsakliga tillvägagångssätt:
 
 - **Abstrakt sammanfattning:** Förstår sammanhanget och genererar *nya* meningar för att förmedla kärninnebörden, vilket ofta resulterar i mer flytande sammanfattningar.
 
-Oavsett metod är fördelen tydlig: du förstår konversationens essens på några sekunder, inte minuter. En [Gartner-studie](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) visade att AI-sammanfattning kan öka användarens produktivitet med upp till 32 %. AI Summarization, liksom Smart Summarization-funktionen i [Chiefy](https://chiefy.com/sv), extraherar snabbt nyckelpunkter och åtgärdspunkter, kommer även ihåg sammanhang från tidigare interaktioner, vilket sparar ovärderlig läsningstid.
+Oavsett metod är fördelen tydlig: du förstår konversationens essens på några sekunder, inte minuter. En [Gartner-studie](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) visade att AI-sammanfattning kan öka användarens produktivitet med upp till 32 %. AI Summarization, liksom Smart Summarization-funktionen i [Duet Mail](https://duetmail.com/sv), extraherar snabbt nyckelpunkter och åtgärdspunkter, kommer även ihåg sammanhang från tidigare interaktioner, vilket sparar ovärderlig läsningstid.
 
 
 AI-sammanfattning kondenserar långa e-posttrådar till nyckelpunkter, vilket sparar betydande lästid.

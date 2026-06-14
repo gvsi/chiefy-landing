@@ -2,7 +2,7 @@
 title: "A HTML e-mail láblécek végső útmutatója: megfelelőség, tervezés és példák"
 description: "Mester HTML e-mail láblécek: alapvető elemek, tervezési tippek, jogi megfelelés (CAN-SPAM, GDPR, CASL) és márkaépítési példák."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -123,4 +123,4 @@ Lehet, hogy a HTML e-mail lábléce az utolsó, amit a címzettek látnak, de ne
 
 Bizalmat épít, megerősíti márkáját, biztosítja a megfelelőséget, és hasznos navigációt biztosít a közönség számára. Szánjon néhány percet az aktuális e-mail láblécének áttekintésére. Megfelel? Világos? Mobilbarát? Ezen apró fejlesztések nagy hatással lehetnek arra, hogy az e-mailjeit és a márkáját hogyan érzékelik.
 
-Módszereket keres átfogóbb e-mail-kezelésének hatékonyabbá és professzionálisabbá tételéhez? Fontolja meg az elfoglalt szakemberek számára készült eszközök felfedezését. Például, ha megtanulja, hogyan egyszerűsíti le a [Chiefy az e-mailek termelékenységét](https://chiefy.com/hu) az AI-alapú funkciókkal, több idő szabadulhat fel a részletek, például a lábléc tökéletesítésére, és annak biztosítására, hogy minden kommunikáció jól reprezentálja Önt.
+Módszereket keres átfogóbb e-mail-kezelésének hatékonyabbá és professzionálisabbá tételéhez? Fontolja meg az elfoglalt szakemberek számára készült eszközök felfedezését. Például, ha megtanulja, hogyan egyszerűsíti le a [Duet Mail az e-mailek termelékenységét](https://duetmail.com/hu) az AI-alapú funkciókkal, több idő szabadulhat fel a részletek, például a lábléc tökéletesítésére, és annak biztosítására, hogy minden kommunikáció jól reprezentálja Önt.

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy | Asystent poczty e-mail AI dla Gmail i Outlook",
-    "description": "Asystent poczty e-mail AI firmy Chiefy podsumowuje e-maile, wersje robocze odpowiedzi i porządkuje skrzynkę odbiorczą. Współpracuje z Gmail i Outlook. Oszczędzaj godziny 4+ tygodniowo."
+    "title": "Duet Mail | Asystent poczty e-mail AI dla Gmail i Outlook",
+    "description": "Asystent poczty e-mail AI firmy Duet Mail podsumowuje e-maile, wersje robocze odpowiedzi i porządkuje skrzynkę odbiorczą. Współpracuje z Gmail i Outlook. Oszczędzaj godziny 4+ tygodniowo."
   },
   "hero": {
     "badge": "Teraz dostępne dla Gmail i Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Wersje robocze e-maili, które brzmią jak Ty",
-        "description": "Chiefy Pisarz e-maili AI przygotowuje wersje robocze Twoich najważniejszych e-maili. Uczy się Twojego tonu i stylu pisania.",
+        "description": "Duet Pisarz e-maili AI przygotowuje wersje robocze Twoich najważniejszych e-maili. Uczy się Twojego tonu i stylu pisania.",
         "ariaLabel": "Wersje robocze e-maili, które brzmią jak Ty",
         "mockCopy": {
           "draftedColdEmail": "Napisałem zimną wiadomość e-mail spersonalizowaną dla Johna.",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Inteligentne przypomnienia",
-        "description": "Ustaw i zapomnij. Chiefy AI pamięta, aby zareagować, gdy inni nie reagują, więc nic nie przepadnie.",
+        "description": "Ustaw i zapomnij. Duet AI pamięta, aby zareagować, gdy inni nie reagują, więc nic nie przepadnie.",
         "ariaLabel": "Inteligentne przypomnienia",
         "mockCopy": {
           "header": "Inteligentne przypomnienia oparte na sztucznej inteligencji",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Organizacja poczty e-mail i inteligentna kategoryzacja skrzynki odbiorczej",
     "badge": "Organizacja",
-    "title": "Chiefy porządkuje Twoją skrzynkę odbiorczą",
+    "title": "Duet porządkuje Twoją skrzynkę odbiorczą",
     "subtitle": "Automatyczna kategoryzacja filtruje szumy i ujawnia to, co ważne. Natychmiast zobacz, co wymaga działania, co jest tylko do Twojej wiadomości, a co może poczekać.",
     "windowTitle": "Skrzynka odbiorcza",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "Szkicowanie e-maili AI i generowanie odpowiedzi",
     "badge": "Szkicowanie",
-    "title": "Chiefy Szkice robocze w Twoim głosie",
-    "subtitle": "Chiefy uczy się, jak piszesz i przygotowuje odpowiedzi pasujące do Twojego tonu. Sprawdź, dostosuj w razie potrzeby i wyślij w ciągu kilku sekund.",
+    "title": "Duet Szkice robocze w Twoim głosie",
+    "subtitle": "Duet uczy się, jak piszesz i przygotowuje odpowiedzi pasujące do Twojego tonu. Sprawdź, dostosuj w razie potrzeby i wyślij w ciągu kilku sekund.",
     "windowTitle": "Nowa wiadomość",
     "fieldLabels": {
       "to": "To:",
@@ -252,8 +252,8 @@
     "ariaLabel": "Inteligentna poczta e-mail AI i asystent",
     "badge": "Inteligencja",
     "title": "Zapytaj o wszystko na temat swojej poczty e-mail",
-    "subtitle": "Zapytaj Chiefy do znajdź e-maile, sprawdź swój kalendarz lub przygotuj odpowiedź. Rozumie Twoją skrzynkę odbiorczą i natychmiast odpowiada.",
-    "windowTitle": "Chiefy Agent",
+    "subtitle": "Zapytaj Duet do znajdź e-maile, sprawdź swój kalendarz lub przygotuj odpowiedź. Rozumie Twoją skrzynkę odbiorczą i natychmiast odpowiada.",
+    "windowTitle": "Duet Agent",
     "onlineLabel": "Online",
     "initialUserMessage": "Czy możesz znaleźć fakturę Stripe wysłaną przez Księgowość?",
     "processingText": "Przeszukiwanie skrzynki odbiorczej...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Wolny strzelec",
-        "quote": "Warte każdego grosza. Czas, który oszczędzam na e-mailach, opłaca Chiefy 10x. Nie wyobrażam sobie teraz pracy bez niego.",
+        "quote": "Warte każdego grosza. Czas, który oszczędzam na e-mailach, opłaca Duet Mail 10x. Nie wyobrażam sobie teraz pracy bez niego.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Konsultant",
-        "quote": "Dla konsultanta liczy się każda minuta. Chiefy nie tylko oszczędza mi czas — sprawia, że ​​moja komunikacja e-mailowa jest ostrzejsza.",
+        "quote": "Dla konsultanta liczy się każda minuta. Duet Mail nie tylko oszczędza mi czas — sprawia, że ​​moja komunikacja e-mailowa jest ostrzejsza.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Podstawowa organizacja na początek"
           },
           {
-            "title": "Asystent Chiefy",
+            "title": "Asystent Duet",
             "description": "Wypróbuj asystenta AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Asystent",
+            "title": "Duet Asystent",
             "description": "Czat, aby znajdować, tworzyć projekty, organizować i nie tylko",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "KONTAKT",
     "contactHeading": "Nadal masz pytania?",
     "contactCta": "Skontaktuj się →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "Często zadawane pytania",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "W jaki sposób Chiefy chroni moje dane e-mail?",
+        "question": "W jaki sposób Duet Mail chroni moje dane e-mail?",
         "answer": "Twoje bezpieczeństwo jest naszym najwyższym priorytetem. Używamy OAuth 2.0 do bezpiecznego uwierzytelniania zarówno z Google, jak i Microsoft. Treść wiadomości e-mail jest szyfrowana w stanie spoczynku przy użyciu szyfrowania na poziomie pola po stronie klienta i przestrzegamy zasady najniższych uprawnień w zakresie dostępu do interfejsu API. W przypadku naszej integracji z Google poddajemy się corocznej ocenie bezpieczeństwa CASA przeprowadzanej przez Google."
       },
       {
         "question": "Jak działa funkcja podsumowania e-mailem?",
-        "answer": "Chiefy wykorzystuje zaawansowaną sztuczną inteligencję do analizowania wątków wiadomości e-mail i generowania zwięzłego przeglądu podkreślającego kluczowe punkty, decyzje i elementy działania. Pomaga to szybko zrozumieć kontekst bez konieczności czytania całego wątku."
+        "answer": "Duet Mail wykorzystuje zaawansowaną sztuczną inteligencję do analizowania wątków wiadomości e-mail i generowania zwięzłego przeglądu podkreślającego kluczowe punkty, decyzje i elementy działania. Pomaga to szybko zrozumieć kontekst bez konieczności czytania całego wątku."
       },
       {
-        "question": "Jakich uprawnień potrzebuje Chiefy?",
-        "answer": "Chiefy wymaga dostępu do Twoich e-maili w celu dostarczania podsumowań, wyodrębniania elementów działań, generowania treści i wysyłania e-maili. Prosimy tylko o uprawnienia, których absolutnie potrzebujemy. Możesz sprawdzić i odwołać te uprawnienia w dowolnym momencie w ustawieniach swojego Konta Google lub Konta Microsoft."
+        "question": "Jakich uprawnień potrzebuje Duet Mail?",
+        "answer": "Duet Mail wymaga dostępu do Twoich e-maili w celu dostarczania podsumowań, wyodrębniania elementów działań, generowania treści i wysyłania e-maili. Prosimy tylko o uprawnienia, których absolutnie potrzebujemy. Możesz sprawdzić i odwołać te uprawnienia w dowolnym momencie w ustawieniach swojego Konta Google lub Konta Microsoft."
       },
       {
         "question": "Co obejmuje bezpłatny okres próbny?",
         "answer": "Bezpłatny okres próbny 14 obejmuje pełny dostęp do wszystkich funkcji Pro: nieograniczone podsumowania e-maili, wyodrębnianie elementów akcji, narzędzie do tworzenia e-maili AI (generowanie e-maili i wersji roboczych bez żadnych ograniczeń) oraz niestandardowe szablony e-maili. Zaloguj się za pomocą Google lub Microsoft, aby zacząć oszczędzać czas na zarządzaniu pocztą e-mail."
       },
       {
-        "question": "Czy mogę używać Chiefy z innymi dostawcami poczty e-mail?",
-        "answer": "Chiefy obsługuje Gmail, Google Workspace i Microsoft Outlook. Aby rozpocząć, zaloguj się na swoje konto Google lub Microsoft."
+        "question": "Czy mogę używać Duet Mail z innymi dostawcami poczty e-mail?",
+        "answer": "Duet Mail obsługuje Gmail, Google Workspace i Microsoft Outlook. Aby rozpocząć, zaloguj się na swoje konto Google lub Microsoft."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Stopka witryny",
-    "brandIconAlt": "Chiefy ikona",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "Duet Mail ikona",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail — asystent poczty e-mail AI, który oszczędza godziny co tydzień",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Poznaj",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "Zwrot z inwestycji",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "W {pricePerBooking} na {bookingUnit}, tracąc tylko {lostPerMonth} na rzecz powolnych odpowiedzi =",
     "lossSuffix": "/miesiąc zniknął",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy — Asystent poczty e-mail AI dla Gmail i Outlook",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet — Asystent poczty e-mail AI dla Gmail i Outlook",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Obsługa klienta",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "Asystent poczty e-mail AI dla Gmail i Outlook, który automatycznie podsumowuje wiadomości e-mail, przygotowuje odpowiedzi głosowe i organizuje skrzynkę odbiorczą, aby co tydzień oszczędzać godziny.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Web",
     "browserRequirements": "Wymaga JavaScript. Współpracuje z Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "https://duetmail.com/pl",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "W jaki sposób Chiefy chroni moje dane e-mail?",
+        "question": "W jaki sposób Duet Mail chroni moje dane e-mail?",
         "answer": "Twoje bezpieczeństwo jest naszym najwyższym priorytetem. Używamy OAuth 2.0 do bezpiecznego uwierzytelniania zarówno z Google, jak i Microsoft. Treść wiadomości e-mail jest szyfrowana w stanie spoczynku przy użyciu szyfrowania na poziomie pola po stronie klienta i przestrzegamy zasady najniższych uprawnień w zakresie dostępu do interfejsu API. W przypadku naszej integracji z Google poddajemy się corocznej ocenie bezpieczeństwa CASA przeprowadzanej przez Google."
       },
       {
         "question": "Jak działa funkcja podsumowania e-mailem?",
-        "answer": "Chiefy wykorzystuje zaawansowaną sztuczną inteligencję do analizowania wątków wiadomości e-mail i generowania zwięzłego przeglądu podkreślającego kluczowe punkty, decyzje i elementy działania. Pomaga to szybko zrozumieć kontekst bez konieczności czytania całego wątku."
+        "answer": "Duet Mail wykorzystuje zaawansowaną sztuczną inteligencję do analizowania wątków wiadomości e-mail i generowania zwięzłego przeglądu podkreślającego kluczowe punkty, decyzje i elementy działania. Pomaga to szybko zrozumieć kontekst bez konieczności czytania całego wątku."
       },
       {
-        "question": "Jakich uprawnień potrzebuje Chiefy?",
-        "answer": "Chiefy wymaga dostępu do Twoich e-maili w celu dostarczania podsumowań, wyodrębniania elementów działań, generowania treści i wysyłania e-maili. Prosimy tylko o uprawnienia, których absolutnie potrzebujemy. Możesz sprawdzić i odwołać te uprawnienia w dowolnym momencie w ustawieniach swojego Konta Google lub Konta Microsoft."
+        "question": "Jakich uprawnień potrzebuje Duet Mail?",
+        "answer": "Duet Mail wymaga dostępu do Twoich e-maili w celu dostarczania podsumowań, wyodrębniania elementów działań, generowania treści i wysyłania e-maili. Prosimy tylko o uprawnienia, których absolutnie potrzebujemy. Możesz sprawdzić i odwołać te uprawnienia w dowolnym momencie w ustawieniach swojego Konta Google lub Konta Microsoft."
       },
       {
         "question": "Co obejmuje bezpłatny okres próbny?",
         "answer": "Bezpłatny okres próbny 14 obejmuje pełny dostęp do wszystkich funkcji Pro: nieograniczone podsumowania e-maili, wyodrębnianie elementów akcji, narzędzie do tworzenia e-maili AI (generowanie e-maili i wersji roboczych bez żadnych ograniczeń) oraz niestandardowe szablony e-maili. Zaloguj się za pomocą Google lub Microsoft, aby zacząć oszczędzać czas na zarządzaniu pocztą e-mail."
       },
       {
-        "question": "Czy mogę używać Chiefy z innymi dostawcami poczty e-mail?",
-        "answer": "Chiefy obsługuje Gmail, Google Workspace i Microsoft Outlook. Aby rozpocząć, zaloguj się na swoje konto Google lub Microsoft."
+        "question": "Czy mogę używać Duet Mail z innymi dostawcami poczty e-mail?",
+        "answer": "Duet Mail obsługuje Gmail, Google Workspace i Microsoft Outlook. Aby rozpocząć, zaloguj się na swoje konto Google lub Microsoft."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

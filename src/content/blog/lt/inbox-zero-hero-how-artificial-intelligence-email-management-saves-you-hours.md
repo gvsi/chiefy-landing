@@ -2,7 +2,7 @@
 title: "Inbox Zero herojus: kaip DI el. pašto valdymas sutaupo jums valandų"
 description: "Nustokite skęsti el. laiškuose! Sužinokite, kaip DI el. pašto valdymo įrankiai automatizuoja rūšiavimą, nustato užduočių prioritetus ir rengia atsakymų juodraščius, taupydami jums valandas."
 publishedAt: 2025-09-29
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["DI", "Gautųjų valdymas", "El. paštas"]
 draft: false
 ---
@@ -57,7 +57,7 @@ Jos vertina įvairius veiksnius, įskaitant:
 
 - **Sentimento analizę:** kai kurie įrankiai vertina emocinį toną, kad atpažintų galimai kritines problemas.
 
-Čia praverčia DI atrankos funkcijos, tokios kaip įrankiuose kaip [Chiefy](/lt), kurios automatiškai sutelktame valdymo skydelyje iškelia el. laiškus, reikalaujančius veiksmo ar sprendimo. Atpažindamos ir paryškindamos aukšto prioriteto žinutes, šios sistemos smarkiai sutrumpina rūšiavimo laiką ir sumažina riziką praleisti svarbią informaciją.
+Čia praverčia DI atrankos funkcijos, tokios kaip įrankiuose kaip [Duet Mail](/lt), kurios automatiškai sutelktame valdymo skydelyje iškelia el. laiškus, reikalaujančius veiksmo ar sprendimo. Atpažindamos ir paryškindamos aukšto prioriteto žinutes, šios sistemos smarkiai sutrumpina rūšiavimo laiką ir sumažina riziką praleisti svarbią informaciją.
 
 ### DI rengiamas juodraštis: greitis ir autentiškumas
 
@@ -65,7 +65,7 @@ Spoksote į tuščią atsakymo langą? DI gali padėti. Daugelis el. pašto asis
 
 Vis dėlto dažnas rūpestis – kad DI sugeneruoti el. laiškai gali skambėti bendriniai ar robotiški. Nors bazinis DI gali sukurti standartinį tekstą, pažangesni įrankiai šį iššūkį sprendžia. Svarbiausia yra **personalizavimas**. Geri DI asistentai leidžia koreguoti toną, pavyzdžiui, formalų, kasdienį ar draugišką, ir ilgį.
 
-Geriausi įrankiai žengia dar toliau – mokosi jūsų unikalių bendravimo modelių. Pavyzdžiui, [Chiefy](/lt) Authentic AI Drafting analizuoja jūsų ankstesnius el. laiškus, kad sukurtų atsakymus, kurie iš tiesų skamba kaip jūs, perteikdami jūsų žodyną ir stilistinius niuansus. Atminkite: tikslas nėra pakeisti jūsų balsą, o jį sustiprinti. Prieš siųsdami visada peržiūrėkite ir pakoreguokite DI juodraščius, kad pridėtumėte konkretaus konteksto ar asmeniškumo.
+Geriausi įrankiai žengia dar toliau – mokosi jūsų unikalių bendravimo modelių. Pavyzdžiui, [Duet Mail](/lt) Authentic AI Drafting analizuoja jūsų ankstesnius el. laiškus, kad sukurtų atsakymus, kurie iš tiesų skamba kaip jūs, perteikdami jūsų žodyną ir stilistinius niuansus. Atminkite: tikslas nėra pakeisti jūsų balsą, o jį sustiprinti. Prieš siųsdami visada peržiūrėkite ir pakoreguokite DI juodraščius, kad pridėtumėte konkretaus konteksto ar asmeniškumo.
 
 ### Ilgų gijų sutramdymas naudojant DI santraukas
 
@@ -77,7 +77,7 @@ Yra du pagrindiniai metodai:
 
 - **Abstrakčioji santrauka:** supranta kontekstą ir sukuria *naujus* sakinius esmei perteikti, todėl santraukos dažnai būna sklandesnės.
 
-Nepriklausomai nuo metodo, nauda aiški: pokalbio esmę suprantate per sekundes, o ne minutes. [Gartner tyrimas](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) parodė, kad DI santraukos gali padidinti naudotojų produktyvumą iki 32%. DI santrauka, pavyzdžiui, Smart Summarization funkcija [Chiefy](/lt), greitai ištraukia pagrindinius punktus ir veiksmų punktus, net prisimindama ankstesnių sąveikų kontekstą, todėl sutaupo neįkainojamo skaitymo laiko.
+Nepriklausomai nuo metodo, nauda aiški: pokalbio esmę suprantate per sekundes, o ne minutes. [Gartner tyrimas](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) parodė, kad DI santraukos gali padidinti naudotojų produktyvumą iki 32%. DI santrauka, pavyzdžiui, Smart Summarization funkcija [Duet Mail](/lt), greitai ištraukia pagrindinius punktus ir veiksmų punktus, net prisimindama ankstesnių sąveikų kontekstą, todėl sutaupo neįkainojamo skaitymo laiko.
 
 DI santraukos sutraukia ilgas el. laiškų gijas į pagrindinius punktus, sutaupydamos daug skaitymo laiko.
 

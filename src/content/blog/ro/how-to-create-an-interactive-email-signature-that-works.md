@@ -2,7 +2,7 @@
 title: "Cum să creezi o semnătură de e-mail interactivă care funcționează"
 description: "Învață cum să creezi o semnătură de e-mail interactivă pentru a stimula implicarea, brandingul și clienții potențiali. Ghid pas cu pas pentru freelanceri și startup-uri"
 publishedAt: 2025-06-18
-author: "Echipa Chiefy"
+author: "Echipa Duet Mail"
 tags: ["IA", "E-mail"]
 draft: false
 ---
@@ -132,7 +132,7 @@ O semnătură interactivă este concepută pentru a declanșa acțiune – un cl
 
 Aici integrarea strategiei tale de semnătură cu instrumente inteligente de gestionare a e-mailurilor poate face diferența. Atunci când clienții potențiali încep să dea clic pe linkul „Programează o întâlnire” generat de semnătura ta extraordinară, ai nevoie de un sistem care să gestioneze fără probleme programarea și comunicarea ulterioară. În mod similar, menținerea tonului profesional stabilit de semnătura ta în fiecare e-mail de urmărire este esențială pentru construirea de relații.
 
-Instrumente concepute pentru productivitatea prin e-mail, precum [Chiefy](/ro), pot ajuta la depășirea acestei lacune. Imaginează-ți că primești asistență prin inteligență artificială pentru a redacta răspunsuri prompte și personalizate, care să-ți păstreze vocea unică după ce cineva interacționează cu îndemnul la acțiune (CTA) din semnătura ta. Funcțiile Chiefy, precum **AI Triage**, pot ajuta la evidențierea răspunsurilor importante generate de interacțiunile cu semnătura, în timp ce **Authentic AI Drafting** asigură că răspunsurile tale ulterioare sună exact ca tine, păstrând profesionalismul pe care îl proiectează semnătura ta. Transformă interacțiunea generată de semnătura ta în conversații productive și bine gestionate.
+Instrumente concepute pentru productivitatea prin e-mail, precum [Duet Mail](/ro), pot ajuta la depășirea acestei lacune. Imaginează-ți că primești asistență prin inteligență artificială pentru a redacta răspunsuri prompte și personalizate, care să-ți păstreze vocea unică după ce cineva interacționează cu îndemnul la acțiune (CTA) din semnătura ta. Funcțiile Duet Mail, precum **AI Triage**, pot ajuta la evidențierea răspunsurilor importante generate de interacțiunile cu semnătura, în timp ce **Authentic AI Drafting** asigură că răspunsurile tale ulterioare sună exact ca tine, păstrând profesionalismul pe care îl proiectează semnătura ta. Transformă interacțiunea generată de semnătura ta în conversații productive și bine gestionate.
 
 ## Ești gata să-ți activezi semnătura?
 

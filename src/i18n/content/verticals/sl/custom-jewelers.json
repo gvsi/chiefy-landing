@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy za draguljarje po meri | AI E-poštni pomočnik",
-  "metaDescription": "Chiefy pomaga draguljarjem po meri, da se takoj odzovejo na zahteve za posvetovanje, odobritve oblikovanja in vprašanja o časovnici – tudi ko so na delovnem mestu. Odgovori, pripravljeni z umetno inteligenco, z vašim postopkom, cenami in glasom.",
+  "pageTitle": "Duet Mail za draguljarje po meri | AI E-poštni pomočnik",
+  "metaDescription": "Duet Mail pomaga draguljarjem po meri, da se takoj odzovejo na zahteve za posvetovanje, odobritve oblikovanja in vprašanja o časovnici – tudi ko so na delovnem mestu. Odgovori, pripravljeni z umetno inteligenco, z vašim postopkom, cenami in glasom.",
   "heroBadge": "Zaupa mu več kot 300 oblikovalcev nakita",
   "heroHeadline": "Vaš e-poštni pomočnik, medtem ko ste na klopi",
-  "heroSubline": "Chiefy se nauči vašega procesa oblikovanja, materialov, cen in časovnic — nato pripravi osnutke e-poštnih odgovorov, tako da nikoli ne izgubite stranke po meri zaradi počasnega odziva.",
+  "heroSubline": "Duet se nauči vašega procesa oblikovanja, materialov, cen in časovnic — nato pripravi osnutke e-poštnih odgovorov, tako da nikoli ne izgubite stranke po meri zaradi počasnega odziva.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "kos po meri",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Ena shranjena stranka plača več kot štiri leta Chiefy."
+    "punchline": "Ena shranjena stranka plača več kot štiri leta Duet."
   },
-  "categorizationSubtitle": "Chiefy samodejno označi vsako e-pošto, tako da najprej vidite nove zahteve za posvetovanje, nato odobritve dizajna in nikoli glasila prodajalcev. Nič več manjkajočega povpraševanja v vrednosti 5000 USD, ki je zakopano pod promocijami dobaviteljev.",
-  "draftSubtitle": "Chiefy spozna vaš postopek, materiale, cene in glas. Ko prispe zahteva za posvetovanje, pripravi popoln odgovor z vašo razpoložljivostjo, kaj morate prinesti in kako poteka vaš postopek. Pregledate in pošljete.",
-  "agentSubtitle": "\"Kje smo z Amandinim prstanom?\" \"Draft a timeline update for James.\" Chiefy pozna vsako nit odjemalca — samo vprašaj.",
+  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, tako da najprej vidite nove zahteve za posvetovanje, nato odobritve dizajna in nikoli glasila prodajalcev. Nič več manjkajočega povpraševanja v vrednosti 5000 USD, ki je zakopano pod promocijami dobaviteljev.",
+  "draftSubtitle": "Duet spozna vaš postopek, materiale, cene in glas. Ko prispe zahteva za posvetovanje, pripravi popoln odgovor z vašo razpoložljivostjo, kaj morate prinesti in kako poteka vaš postopek. Pregledate in pošljete.",
+  "agentSubtitle": "\"Kje smo z Amandinim prstanom?\" \"Draft a timeline update for James.\" Duet pozna vsako nit odjemalca — samo vprašaj.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marko R.",
       "title": "Oblikovalec nakita po meri, LA",
-      "quote": "Vsak kos po meri ustvari 10-15 e-poštnih sporočil v tednih. Pomnožite to z 8 aktivnimi strankami in utapljal sem se. Chiefy pripravlja osnutke odgovorov na posodobitve zasnove, potrditve posvetovanja, odgovore na časovnici – vse z mojim glasom. Pregledam med odlitki in pritisnem Pošlji.",
+      "quote": "Vsak kos po meri ustvari 10-15 e-poštnih sporočil v tednih. Pomnožite to z 8 aktivnimi strankami in utapljal sem se. Duet pripravlja osnutke odgovorov na posodobitve zasnove, potrditve posvetovanja, odgovore na časovnici – vse z mojim glasom. Pregledam med odlitki in pritisnem Pošlji.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Goldsmith & Studio Owner, Brooklyn",
-      "quote": "Izgubil sem 7000 USD provizije za zaročni prstan, ker sem potreboval 3 dni za odgovor – par je šel k nekomu, ki je odgovoril v 2 urah. Od Chiefy je moj odzivni čas krajši od 30 minut. To se ni več zgodilo.",
+      "quote": "Izgubil sem 7000 USD provizije za zaročni prstan, ker sem potreboval 3 dni za odgovor – par je šel k nekomu, ki je odgovoril v 2 urah. Od Duet je moj odzivni čas krajši od 30 minut. To se ni več zgodilo.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Jeweller, Chicago",
-      "quote": "Za klopjo sem 8 ur na dan z baklo v roki. Ne morem preprečiti vmesnega spajkanja, da bi vtipkal odgovor na posvet. Chiefy pripravlja vse osnutke, medtem ko delam — pogledam na telefon, odobrim, končano.",
+      "quote": "Za klopjo sem 8 ur na dan z baklo v roki. Ne morem preprečiti vmesnega spajkanja, da bi vtipkal odgovor na posvet. Duet pripravlja vse osnutke, medtem ko delam — pogledam na telefon, odobrim, končano.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Oblikovalec poročnega nakita, Austin",
-      "quote": "Med sezono zarok dobim več kot 20 prošenj za posvetovanje na teden. Chiefy se je naučil mojega celotnega postopka — materialov, časovnih razporedov, cenovnih ravni, kaj prinesti. Pripravlja osnutke odgovorov, ki jih komajda moram urediti. Popolna rešitev od novembra do februarja.",
+      "quote": "Med sezono zarok dobim več kot 20 prošenj za posvetovanje na teden. Duet se je naučil mojega celotnega postopka — materialov, časovnih razporedov, cenovnih ravni, kaj prinesti. Pripravlja osnutke odgovorov, ki jih komajda moram urediti. Popolna rešitev od novembra do februarja.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Specialist za prstane po meri, Portland",
-      "quote": "E-poštna sporočila o 3D revizijah so požrla moje večere. Stranka pošlje povratne informacije, jaz osnutek posodobitve, naprej in nazaj petkrat. Zdaj Chiefy skrbi za rutinske odgovore, jaz pa samo posredujem pri odločitvah glede oblikovanja. Dobil sem svoje noči nazaj.",
+      "quote": "E-poštna sporočila o 3D revizijah so požrla moje večere. Stranka pošlje povratne informacije, jaz osnutek posodobitve, naprej in nazaj petkrat. Zdaj Duet skrbi za rutinske odgovore, jaz pa samo posredujem pri odločitvah glede oblikovanja. Dobil sem svoje noči nazaj.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svojo mapo »Prejeto« v 30 sekundah.",
   "verticalFaqs": [
     {
-      "question": "Ali lahko Chiefy obdeluje e-poštna sporočila z referenčnimi fotografijami in oblikovalskimi prilogami?",
-      "answer": "ja Chiefy vidi celotno e-poštno nit, vključno s prilogami, tako da razume kontekst, ko stranka pošlje navdihnjene fotografije ali povratne informacije o oblikovanju. Ne bo opisal slik nazaj, vendar ve, da je stranka pravkar poslala referenčne fotografije, in pripravi ustrezen odgovor – potrjuje prejem, postavlja razjasnitvena vprašanja o dizajnu ali zagotavlja naslednje korake na podlagi vašega običajnega poteka dela."
+      "question": "Ali lahko Duet obdeluje e-poštna sporočila z referenčnimi fotografijami in oblikovalskimi prilogami?",
+      "answer": "ja Duet vidi celotno e-poštno nit, vključno s prilogami, tako da razume kontekst, ko stranka pošlje navdihnjene fotografije ali povratne informacije o oblikovanju. Ne bo opisal slik nazaj, vendar ve, da je stranka pravkar poslala referenčne fotografije, in pripravi ustrezen odgovor – potrjuje prejem, postavlja razjasnitvena vprašanja o dizajnu ali zagotavlja naslednje korake na podlagi vašega običajnega poteka dela."
     },
     {
-      "question": "Moji projekti po meri imajo dolge e-poštne niti z več kot 10 sporočili. Ali jim lahko Chiefy sledi?",
-      "answer": "Točno tam blesti Chiefy. Prebere celotno zgodovino niti – posvetovalne opombe, popravke oblikovanja, izbire materialov, posodobitve časovnice – tako da ima vsak osnutek odgovora popoln kontekst. Ko stranka vpraša, kakšno je stanje mojega prstana? v e-poštnem sporočilu št. 14 Chiefy ve, kateri ring, v kateri fazi je, in pripravi natančno posodobitev. Nič več prebiranja 3 mesecev e-pošte."
+      "question": "Moji projekti po meri imajo dolge e-poštne niti z več kot 10 sporočili. Ali jim lahko Duet sledi?",
+      "answer": "Točno tam blesti Duet. Prebere celotno zgodovino niti – posvetovalne opombe, popravke oblikovanja, izbire materialov, posodobitve časovnice – tako da ima vsak osnutek odgovora popoln kontekst. Ko stranka vpraša, kakšno je stanje mojega prstana? v e-poštnem sporočilu št. 14 Duet ve, kateri ring, v kateri fazi je, in pripravi natančno posodobitev. Nič več prebiranja 3 mesecev e-pošte."
     }
   ],
   "pricingNote": "Pri 5000 $/kos ena prihranjena provizija plača več kot štiri leta Pro."

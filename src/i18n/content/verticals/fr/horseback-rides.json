@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Chiefy pour les balades à cheval et les guides de randonnée | Assistant e-mail IA",
-  "metaDescription": "Chiefy aide les opérateurs de balades à cheval à répondre instantanément aux e-mails de réservation — même en selle. Des réponses rédigées par l’IA avec vos tarifs, vos exigences pour les cavaliers et votre ton.",
+  "pageTitle": "Duet Mail pour les balades à cheval et les guides de randonnée | Assistant e-mail IA",
+  "metaDescription": "Duet Mail aide les opérateurs de balades à cheval à répondre instantanément aux e-mails de réservation — même en selle. Des réponses rédigées par l’IA avec vos tarifs, vos exigences pour les cavaliers et votre ton.",
   "heroBadge": "Plus de 300 guides de randonnée nous font confiance",
   "heroHeadline": "Votre assistant e-mail pendant que vous êtes sur les sentiers",
-  "heroSubline": "Chiefy apprend vos types de sorties, vos tarifs, vos exigences pour les cavaliers et les conditions du sentier — puis rédige des réponses e-mail pour que vous ne perdiez jamais une réservation à cause d’une réponse trop lente.",
+  "heroSubline": "Duet apprend vos types de sorties, vos tarifs, vos exigences pour les cavaliers et les conditions du sentier — puis rédige des réponses e-mail pour que vous ne perdiez jamais une réservation à cause d’une réponse trop lente.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "balade",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Une balade de groupe réservée suffit à rentabiliser plus de deux ans de Chiefy."
+    "punchline": "Une balade de groupe réservée suffit à rentabiliser plus de deux ans de Duet."
   },
-  "categorizationSubtitle": "Chiefy classe automatiquement chaque e-mail pour que vous voyiez d’abord les demandes de réservation, ensuite les questions des cavaliers, et jamais le reste. Fini les demandes de groupe perdues au milieu des alertes TripAdvisor.",
-  "draftSubtitle": "Chiefy apprend vos types de sorties, vos tarifs et vos exigences. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du parcours, les tarifs et quoi porter. Vous relisez et envoyez.",
-  "agentSubtitle": "\"Des sorties sont-elles encore disponibles ce week-end ?\" \"Rédige une réponse à Jessica avec les disponibilités de samedi.\" Chiefy connaît votre boîte de réception et votre calendrier — demandez-lui simplement.",
+  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail pour que vous voyiez d’abord les demandes de réservation, ensuite les questions des cavaliers, et jamais le reste. Fini les demandes de groupe perdues au milieu des alertes TripAdvisor.",
+  "draftSubtitle": "Duet apprend vos types de sorties, vos tarifs et vos exigences. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du parcours, les tarifs et quoi porter. Vous relisez et envoyez.",
+  "agentSubtitle": "\"Des sorties sont-elles encore disponibles ce week-end ?\" \"Rédige une réponse à Jessica avec les disponibilités de samedi.\" Duet connaît votre boîte de réception et votre calendrier — demandez-lui simplement.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Propriétaire de ranch et guide de randonnée, MT",
-      "quote": "Je suis sur les sentiers 6 heures par jour, sans service mobile. Quand je revenais enfin pour répondre, la moitié des gens avaient déjà réservé ailleurs. Maintenant, Chiefy rédige des réponses avec mes tarifs et les détails des balades — je n'ai plus qu'à relire et envoyer quand je reviens à l'écurie.",
+      "quote": "Je suis sur les sentiers 6 heures par jour, sans service mobile. Quand je revenais enfin pour répondre, la moitié des gens avaient déjà réservé ailleurs. Maintenant, Duet rédige des réponses avec mes tarifs et les détails des balades — je n'ai plus qu'à relire et envoyer quand je reviens à l'écurie.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Exploitant de tours à cheval, AZ",
-      "quote": "Nous recevons des dizaines d'e-mails qui posent toujours les mêmes questions — limites de poids, quoi porter, conditions d'âge. Chiefy s'occupe de tout et les réponses sonnent exactement comme moi. Mes clients n'ont aucune idée que c'est de l'IA.",
+      "quote": "Nous recevons des dizaines d'e-mails qui posent toujours les mêmes questions — limites de poids, quoi porter, conditions d'âge. Duet s'occupe de tout et les réponses sonnent exactement comme moi. Mes clients n'ont aucune idée que c'est de l'IA.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Guide de randonnée à cheval, CO",
-      "quote": "La haute saison m'épuisait. Plus de 30 e-mails par jour, en plus de gérer les balades. Chiefy trie les demandes de réservation du reste et rédige des réponses qui incluent tout — tarifs, quoi apporter, tout le reste. J'ai récupéré mes soirées.",
+      "quote": "La haute saison m'épuisait. Plus de 30 e-mails par jour, en plus de gérer les balades. Duet trie les demandes de réservation du reste et rédige des réponses qui incluent tout — tarifs, quoi apporter, tout le reste. J'ai récupéré mes soirées.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Instructeur d'équitation et responsable des réservations, TX",
-      "quote": "Nous proposons des balades au coucher du soleil, des sorties du matin et des cours privés — chacun avec des tarifs et des conditions différents. Chiefy a tout appris en une semaine. Il rédige à chaque fois la bonne réponse pour le bon type de balade.",
+      "quote": "Nous proposons des balades au coucher du soleil, des sorties du matin et des cours privés — chacun avec des tarifs et des conditions différents. Duet a tout appris en une semaine. Il rédige à chaque fois la bonne réponse pour le bon type de balade.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Ranch familial et balades à cheval, CA",
-      "quote": "Les e-mails sensibles étaient les pires — quelqu'un qui demande s'il est trop lourd, ou si son enfant a l'âge requis. Chiefy les gère avec le même soin que moi. Professionnel, bienveillant et précis. Rien que ça, ça vaut le coup.",
+      "quote": "Les e-mails sensibles étaient les pires — quelqu'un qui demande s'il est trop lourd, ou si son enfant a l'âge requis. Duet les gère avec le même soin que moi. Professionnel, bienveillant et précis. Rien que ça, ça vaut le coup.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Comment Chiefy gère-t-il les questions sensibles sur le poids ou les conditions d’expérience ?",
-      "answer": "Chiefy apprend vos règles spécifiques et reproduit votre ton. Lorsqu’une personne pose une question sur les limites de poids ou les conditions d’expérience, il répond de façon professionnelle et chaleureuse — en partageant les informations dont elle a besoin sans créer de malaise. Vous donnez le ton une fois, et Chiefy le suit de manière cohérente, pour que chaque invité se sente respecté."
+      "question": "Comment Duet gère-t-il les questions sensibles sur le poids ou les conditions d’expérience ?",
+      "answer": "Duet apprend vos règles spécifiques et reproduit votre ton. Lorsqu’une personne pose une question sur les limites de poids ou les conditions d’expérience, il répond de façon professionnelle et chaleureuse — en partageant les informations dont elle a besoin sans créer de malaise. Vous donnez le ton une fois, et Duet le suit de manière cohérente, pour que chaque invité se sente respecté."
     },
     {
-      "question": "Chiefy peut-il gérer des réservations de groupe avec des besoins différents selon les cavaliers ?",
-      "answer": "Oui. Chiefy apprend vos types de sorties, la taille de vos groupes, les âges minimums et toute exigence propre aux cavaliers. Lorsqu’une famille ou un groupe envoie un e-mail pour réserver, il rédige une réponse qui couvre le prix pour tout le groupe, ce que chaque cavalier doit savoir et les créneaux disponibles. Vous relisez et envoyez — sans aller-retour inutile."
+      "question": "Duet peut-il gérer des réservations de groupe avec des besoins différents selon les cavaliers ?",
+      "answer": "Oui. Duet apprend vos types de sorties, la taille de vos groupes, les âges minimums et toute exigence propre aux cavaliers. Lorsqu’une famille ou un groupe envoie un e-mail pour réserver, il rédige une réponse qui couvre le prix pour tout le groupe, ce que chaque cavalier doit savoir et les créneaux disponibles. Vous relisez et envoyez — sans aller-retour inutile."
     }
   ],
   "pricingNote": "À 100 $/personne pour un groupe de 6, une sortie économisée rembourse plus de deux ans de Pro."

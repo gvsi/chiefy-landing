@@ -1,10 +1,12 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Chiefy for Landscape Designers | AI Email Assistant",
-  "metaDescription": "Chiefy helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
+  "pageTitle": "Duet Mail for Landscape Designers | AI Email Assistant",
+  "metaDescription": "Duet Mail helps landscape designers respond to client emails instantly — even from the field. AI-drafted replies with your project details, pricing, and voice.",
+
   "heroBadge": "Trusted by 300+ landscape designers",
   "heroHeadline": "Your email assistant while you're in the field",
-  "heroSubline": "Chiefy learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+  "heroSubline": "Duet learns your project details, plant palettes, pricing, and process — then drafts email replies so you never lose a client to a slow response.",
+
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -43,17 +45,23 @@
       "pillColor": "lavender"
     }
   ],
+
   "autodraft": "Hi Rachel! I'd love to help with your backyard. I'm currently booking initial consultations 2-3 weeks out. The first visit is a 90-minute on-site assessment — I'll walk the property, take measurements, and discuss your vision. From there I put together a concept plan. Want me to get you on the calendar?",
+
   "math": {
     "pricePerBooking": "$8,000",
     "bookingUnit": "project",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved project pays for years of Chiefy."
+    "punchline": "One saved project pays for years of Duet."
   },
-  "categorizationSubtitle": "Chiefy automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
-  "draftSubtitle": "Chiefy learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
-  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Chiefy knows your inbox and projects — just ask.",
+
+  "categorizationSubtitle": "Duet automatically tags every email so you see new consultation requests first, client approvals second, and supplier noise never. No more missing a lead buried under nursery order confirmations.",
+
+  "draftSubtitle": "Duet learns your pricing, process, and tone. When a consultation request hits, it drafts a complete reply with your availability, what to expect, and next steps. You review and send.",
+
+  "agentSubtitle": "\"What's the timeline on the Henderson project?\" \"Which clients are waiting on plan approval?\" Duet knows your inbox and projects — just ask.",
+
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -97,6 +105,7 @@
       "pillColor": "lavender"
     }
   ],
+
   "draft": {
     "to": "rachel.t@email.com",
     "subject": "Re: Backyard redesign — free for a consultation?",
@@ -116,56 +125,61 @@
       "Learns over time"
     ]
   },
+
   "agent": {
     "userMessage": "Which clients are still waiting on plan approval?",
     "agentResponse": "Based on your recent emails, two clients are pending approval: Jennifer & Mark L. (backyard redesign — sent final plans 4 days ago, no reply yet) and the Cohens (front yard native conversion — sent revised plan last week). Want me to draft a gentle follow-up to either?",
     "followUp": "Draft a follow-up to Jennifer about the plan approval",
     "followUpResponse": "Done! I drafted a friendly check-in to Jennifer asking if she and Mark had a chance to review the final plans, and reminding her you can hop on a quick call to walk through the plant selections. Ready to review and send."
   },
+
   "testimonialsTitle": "Loved by landscape designers",
   "testimonials": [
     {
       "name": "Michael S.",
       "title": "Landscape Architect, Austin TX",
-      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Chiefy replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
+      "quote": "During spring I'm on-site 8 hours a day doing assessments and install supervision. New consultation requests would sit for days. Now Duet replies with my process and availability within minutes. I've booked 3 projects I definitely would have lost.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Garden Designer, Portland OR",
-      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Chiefy sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
+      "quote": "Coordinating between hardscape crews, irrigation installers, and clients generates an absurd amount of email. Duet sorts it all and drafts replies that include the right project details. It's like having a studio manager.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Landscape Design Studio Owner, Denver CO",
-      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Chiefy handles all of it. My response time went from days to minutes and my close rate is way up.",
+      "quote": "I used to spend every evening after fieldwork catching up on emails. Same questions — pricing, process, timeline. Duet handles all of it. My response time went from days to minutes and my close rate is way up.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Residential Landscape Designer, Scottsdale AZ",
-      "quote": "My clients ask a lot of questions about plant selections and maintenance. Chiefy learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
+      "quote": "My clients ask a lot of questions about plant selections and maintenance. Duet learned my plant palettes and care instructions and drafts replies I barely need to edit. Clients think I'm incredibly responsive.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Native Plant Landscape Designer, Raleigh NC",
-      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Chiefy drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
+      "quote": "I was losing new clients because I couldn't reply while I was knee-deep in a planting install. Duet drafts consultation responses with my exact process, pricing, and what to expect. It paid for itself the first week.",
       "avatarKey": "sarah"
     }
   ],
+
   "ctaHeadline": "Spend your days creating landscapes,\nnot catching up on email.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
+
   "verticalFaqs": [
     {
-      "question": "Can Chiefy handle the spring rush when consultation requests pile up?",
-      "answer": "That's exactly when Chiefy shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
+      "question": "Can Duet handle the spring rush when consultation requests pile up?",
+      "answer": "That's exactly when Duet shines. During your busiest season, every new inquiry gets a fast, detailed reply with your process, timeline, and availability — even while you're on-site all day. No more losing spring leads because you couldn't get back to them until 9 PM."
     },
     {
-      "question": "I coordinate with multiple outdoor crews. Does Chiefy help with that?",
-      "answer": "Yes. Chiefy learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
+      "question": "I coordinate with multiple outdoor crews. Does Duet help with that?",
+      "answer": "Yes. Duet learns your projects and the contractors involved — hardscape, irrigation, planting crews, nurseries. It categorizes contractor emails separately from client emails, and can draft replies with project-specific details like specs, timelines, and materials. You stay on top of every crew without the inbox chaos."
     }
   ],
+
   "pricingNote": "At $8,000/project, one saved client pays for years of Pro."
 }

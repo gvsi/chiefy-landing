@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy per negozi di immersione | Assistente e-mail AI",
-  "metaDescription": "Chiefy aiuta i proprietari di negozi di immersione e gli istruttori PADI a rispondere istantaneamente a richieste di certificazione, prenotazioni di viaggi e domande sull'attrezzatura, anche sott'acqua.",
+  "pageTitle": "Duet Mail per negozi di immersione | Assistente e-mail AI",
+  "metaDescription": "Duet Mail aiuta i proprietari di negozi di immersione e gli istruttori PADI a rispondere istantaneamente a richieste di certificazione, prenotazioni di viaggi e domande sull'attrezzatura, anche sott'acqua.",
   "heroBadge": "Scelto da oltre 300 operatori subacquei",
   "heroHeadline": "Il tuo assistente di posta elettronica mentre sei sott'acqua",
-  "heroSubline": "Chiefy apprende i tuoi siti di immersione, i requisiti di certificazione, i prezzi e la voce, quindi redige le risposte via email in modo da non perdere mai una prenotazione mentre sei sulla barca.",
+  "heroSubline": "Duet apprende i tuoi siti di immersione, i requisiti di certificazione, i prezzi e la voce, quindi redige le risposte via email in modo da non perdere mai una prenotazione mentre sei sulla barca.",
   "inboxEmails": [
     {
       "from": "Rachele T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "immersione",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Un'immersione di gruppo salvata paga un anno di Chiefy."
+    "punchline": "Un'immersione di gruppo salvata paga un anno di Duet."
   },
-  "categorizationSubtitle": "Chiefy tagga automaticamente ogni e-mail in modo che tu veda prima le richieste di certificazione e le prenotazioni di immersioni, poi le domande sull'attrezzatura e gli avvisi PADI quando sei pronto. Non perderai più una prenotazione di gruppo sepolta sotto le newsletter sulle attrezzature.",
-  "draftSubtitle": "Chiefy apprende i tuoi siti di immersione, i requisiti dei certificati e i prezzi. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del viaggio, cosa è incluso e cosa portare. Rivedi e invii.",
-  "agentSubtitle": "\"Quanti sub sono prenotati per sabato?\" \"Stesura una risposta a Rachel con la disponibilità di Open Water.\" Chiefy conosce la tua casella di posta e il tuo programma: basta chiedere.",
+  "categorizationSubtitle": "Duet tagga automaticamente ogni e-mail in modo che tu veda prima le richieste di certificazione e le prenotazioni di immersioni, poi le domande sull'attrezzatura e gli avvisi PADI quando sei pronto. Non perderai più una prenotazione di gruppo sepolta sotto le newsletter sulle attrezzature.",
+  "draftSubtitle": "Duet apprende i tuoi siti di immersione, i requisiti dei certificati e i prezzi. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del viaggio, cosa è incluso e cosa portare. Rivedi e invii.",
+  "agentSubtitle": "\"Quanti sub sono prenotati per sabato?\" \"Stesura una risposta a Rachel con la disponibilità di Open Water.\" Duet conosce la tua casella di posta e il tuo programma: basta chiedere.",
   "categorizationEmails": [
     {
       "from": "Rachele T.",
@@ -127,31 +127,31 @@
     {
       "name": "Capitano Mike T.",
       "title": "Capitano della barca per immersioni, Florida",
-      "quote": "Faccio gite in barca dal venerdì alla domenica e il negozio è aperto solo poche ore il lunedì. Le domande sulla certificazione e le richieste di viaggio si accumulano mentre sono sott'acqua. Chiefy bozze di risposte con i miei prezzi, i siti di immersione e cosa è incluso: le rivedo tra un'immersione e l'altra.",
+      "quote": "Faccio gite in barca dal venerdì alla domenica e il negozio è aperto solo poche ore il lunedì. Le domande sulla certificazione e le richieste di viaggio si accumulano mentre sono sott'acqua. Duet bozze di risposte con i miei prezzi, i siti di immersione e cosa è incluso: le rivedo tra un'immersione e l'altra.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen e Mark S.",
       "title": "Centro immersioni PADI, HI",
-      "quote": "Effettuiamo immersioni, tour di snorkeling e avvistamento di balene dalle stesse barche. La varietà di e-mail è pazzesca: domande sui certificati, prenotazioni di gruppo, noleggio di attrezzature, controlli meteorologici. Chiefy ordina tutto e redige risposte che conoscono la differenza. Un vero toccasana.",
+      "quote": "Effettuiamo immersioni, tour di snorkeling e avvistamento di balene dalle stesse barche. La varietà di e-mail è pazzesca: domande sui certificati, prenotazioni di gruppo, noleggio di attrezzature, controlli meteorologici. Duet ordina tutto e redige risposte che conoscono la differenza. Un vero toccasana.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Charter di immersioni sui relitti, Florida",
-      "quote": "La metà delle mie e-mail sono \"di quale certificazione ho bisogno per le immersioni sui relitti?\" e l'altra metà è \"ho bisogno della mia attrezzatura?\" Chiefy gestisce entrambi con il pilota automatico. Il mio tempo di risposta è passato da ore a minuti.",
+      "quote": "La metà delle mie e-mail sono \"di quale certificazione ho bisogno per le immersioni sui relitti?\" e l'altra metà è \"ho bisogno della mia attrezzatura?\" Duet gestisce entrambi con il pilota automatico. Il mio tempo di risposta è passato da ore a minuti.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Proprietario di un negozio di immersioni, California",
-      "quote": "Durante l'estate riceviamo più di 30 e-mail al giorno su corsi, disponibilità di viaggi e attrezzature. Perdevo prenotazioni a causa dei negozi che rispondevano più velocemente. Ora Chiefy disegna tutto e ho semplicemente premuto Invia tra le lezioni.",
+      "quote": "Durante l'estate riceviamo più di 30 e-mail al giorno su corsi, disponibilità di viaggi e attrezzature. Perdevo prenotazioni a causa dei negozi che rispondevano più velocemente. Ora Duet disegna tutto e ho semplicemente premuto Invia tra le lezioni.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sara K.",
       "title": "Istruttore e guida subacquea, Carolina del Nord",
-      "quote": "Insegno corsi al mattino e guido immersioni nel pomeriggio. Non c'è letteralmente tempo per rispondere alle e-mail. Chiefy ha appreso il programma del mio corso, i prezzi e persino la mia politica di cancellazione. I clienti non possono notare la differenza.",
+      "quote": "Insegno corsi al mattino e guido immersioni nel pomeriggio. Non c'è letteralmente tempo per rispondere alle e-mail. Duet ha appreso il programma del mio corso, i prezzi e persino la mia politica di cancellazione. I clienti non possono notare la differenza.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
   "verticalFaqs": [
     {
-      "question": "Chiefy comprende i livelli di certificazione e i requisiti del corso?",
-      "answer": "Sì. Chiefy apprende i tuoi corsi specifici (Open Water, Advanced, Rescue, Divemaster) insieme ai prerequisiti, alla durata, ai prezzi e a cosa è incluso. Quando qualcuno chiede informazioni su come ottenere la certificazione, Chiefy redige una risposta con i dettagli del corso, il programma e i passaggi successivi corretti. Rivedi e invii."
+      "question": "Duet comprende i livelli di certificazione e i requisiti del corso?",
+      "answer": "Sì. Duet apprende i tuoi corsi specifici (Open Water, Advanced, Rescue, Divemaster) insieme ai prerequisiti, alla durata, ai prezzi e a cosa è incluso. Quando qualcuno chiede informazioni su come ottenere la certificazione, Duet redige una risposta con i dettagli del corso, il programma e i passaggi successivi corretti. Rivedi e invii."
     },
     {
-      "question": "Sono sulla barca o sott'acqua tutto il giorno. Posso utilizzare Chiefy dal mio telefono?",
-      "answer": "Sì. Chiefy funziona con Gmail e Outlook, quindi funziona ovunque sia attiva la tua posta elettronica, incluso il telefono. Le bozze appaiono automaticamente nella tua casella di posta. Tra un'immersione e l'altra o al molo, puoi rivedere e inviare con un solo tocco. La maggior parte degli operatori subacquei ci dice che questo consente loro di risparmiare 1-2 ore di e-mail al giorno durante l'alta stagione."
+      "question": "Sono sulla barca o sott'acqua tutto il giorno. Posso utilizzare Duet dal mio telefono?",
+      "answer": "Sì. Duet funziona con Gmail e Outlook, quindi funziona ovunque sia attiva la tua posta elettronica, incluso il telefono. Le bozze appaiono automaticamente nella tua casella di posta. Tra un'immersione e l'altra o al molo, puoi rivedere e inviare con un solo tocco. La maggior parte degli operatori subacquei ci dice che questo consente loro di risparmiare 1-2 ore di e-mail al giorno durante l'alta stagione."
     }
   ],
   "pricingNote": "A $ 150/immersione con un gruppo di 6 persone, un viaggio salvato paga più di un anno di Pro."

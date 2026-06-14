@@ -2,7 +2,7 @@
 title: "Guide til de beste AI-funksjonene i Gmail-utvidelser for topp produktivitet"
 description: "Oppdag hvordan en Gmail AI-utvidelse bruker smart utkast, oppsummering og triage til å håndtere e-postoverbelastning."
 publishedAt: 2025-04-15
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Gmail", "Produktivitet", "Verktoy"]
 draft: false
 ---
@@ -33,9 +33,9 @@ En god utvidelse kan trekke ut hvem som skal gjore hva, og når.
 
 I stedet for å huske eksakte ord kan du soke etter mening: "Finn tråden der kunden godkjente budsjettet".
 
-## Hvor Chiefy passer inn
+## Hvor Duet Mail passer inn
 
-[**Chiefy**](https://chiefy.com/nb) fokuserer på triage, oppsummering og utkast i Gmail. Målet er å gi deg oversikt over det som haster, kontekst for å forstå det, og et raskt utkast når du er klar til å svare.
+[**Duet Mail**](https://duetmail.com/nb) fokuserer på triage, oppsummering og utkast i Gmail. Målet er å gi deg oversikt over det som haster, kontekst for å forstå det, og et raskt utkast når du er klar til å svare.
 
 ## Slik vurderer du en AI-utvidelse
 
@@ -49,4 +49,4 @@ I stedet for å huske eksakte ord kan du soke etter mening: "Finn tråden der ku
 
 Den beste Gmail AI-utvidelsen er den som reduserer stoy uten å fjerne kontroll. Se etter triage, oppsummering, autentiske utkast og tydelige sikkerhetsrutiner.
 
-Hvis du vil prove en AI-assistent laget for Gmail-produktivitet, kan du lese mer om [**Chiefy**](https://chiefy.com/nb).
+Hvis du vil prove en AI-assistent laget for Gmail-produktivitet, kan du lese mer om [**Duet Mail**](https://duetmail.com/nb).

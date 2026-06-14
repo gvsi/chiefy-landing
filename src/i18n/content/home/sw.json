@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Chiefy | Msaidizi wa Barua pepe wa AI kwa Gmail na Outlook",
-    "description": "Msaidizi wa barua pepe wa AI wa Chiefy hufanya muhtasari wa barua pepe, majibu ya rasimu, na kupanga kisanduku pokezi chako. Inafanya kazi na Gmail na Outlook. Okoa saa 4+ kila wiki."
+    "title": "Duet Mail | Msaidizi wa Barua pepe wa AI kwa Gmail na Outlook",
+    "description": "Msaidizi wa barua pepe wa AI wa Duet Mail hufanya muhtasari wa barua pepe, majibu ya rasimu, na kupanga kisanduku pokezi chako. Inafanya kazi na Gmail na Outlook. Okoa saa 4+ kila wiki."
   },
   "hero": {
     "badge": "Sasa inapatikana kwa Gmail na Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Tuma rasimu za barua pepe zinazosikika kama Wewe",
-        "description": "Mwandishi wa barua pepe wa Chiefy AI huandaa rasimu za barua pepe zako muhimu zaidi. Inajifunza sauti yako na mitindo ya uandishi.",
+        "description": "Mwandishi wa barua pepe wa Duet AI huandaa rasimu za barua pepe zako muhimu zaidi. Inajifunza sauti yako na mitindo ya uandishi.",
         "ariaLabel": "Tuma rasimu za barua pepe zinazosikika kama wewe",
         "mockCopy": {
           "draftedColdEmail": "Niliandika barua pepe baridi iliyobinafsishwa kwa ajili ya John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Vikumbusho vya Akili",
-        "description": "Weka na uisahau. Chiefy AI inakumbuka kufuatilia wakati wengine hawajibu, kwa hivyo hakuna kitu kinachoanguka kupitia nyufa.",
+        "description": "Weka na uisahau. Duet AI inakumbuka kufuatilia wakati wengine hawajibu, kwa hivyo hakuna kitu kinachoanguka kupitia nyufa.",
         "ariaLabel": "Vikumbusho vya akili",
         "mockCopy": {
           "header": "Vikumbusho Mahiri vinavyoendeshwa na AI",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Kupanga barua pepe na uainishaji mahiri wa kikasha pokezi",
     "badge": "Shirika",
-    "title": "Chiefy hupanga kikasha chako",
+    "title": "Duet hupanga kikasha chako",
     "subtitle": "Uainishaji kiotomatiki huchuja kelele na kuibua mambo muhimu. Ona papo hapo kinachohitaji hatua, ni nini FYI pekee, na kinachoweza kusubiri.",
     "windowTitle": "Kikasha",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "Kutayarisha barua pepe ya AI na kutengeneza majibu",
     "badge": "Kuandika",
-    "title": "Chiefy rasimu katika sauti yako",
-    "subtitle": "Chiefy hujifunza jinsi unavyoandika na kuandaa majibu yanayolingana na sauti yako. Kagua, rekebisha ikihitajika, na utume kwa sekunde.",
+    "title": "Duet rasimu katika sauti yako",
+    "subtitle": "Duet hujifunza jinsi unavyoandika na kuandaa majibu yanayolingana na sauti yako. Kagua, rekebisha ikihitajika, na utume kwa sekunde.",
     "windowTitle": "Ujumbe Mpya",
     "fieldLabels": {
       "to": "To:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI email akili na msaidizi",
     "badge": "Akili",
     "title": "Uliza chochote kuhusu barua pepe yako",
-    "subtitle": "Uliza Chiefy itafute barua pepe, angalia kalenda yako au uandike jibu. Inaelewa kikasha chako na majibu papo hapo.",
-    "windowTitle": "Wakala wa Chiefy",
+    "subtitle": "Uliza Duet itafute barua pepe, angalia kalenda yako au uandike jibu. Inaelewa kikasha chako na majibu papo hapo.",
+    "windowTitle": "Wakala wa Duet",
     "onlineLabel": "Mtandaoni",
     "initialUserMessage": "Je, unaweza kupata ankara ya Stripe iliyotumwa na Uhasibu?",
     "processingText": "Inatafuta kikasha...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Mfanyakazi huru",
-        "quote": "Inastahili kila senti. Muda ninaohifadhi kwenye barua pepe hulipia Chiefy 10x zaidi. Siwezi kufikiria kufanya kazi bila hiyo sasa.",
+        "quote": "Inastahili kila senti. Muda ninaohifadhi kwenye barua pepe hulipia Duet Mail 10x zaidi. Siwezi kufikiria kufanya kazi bila hiyo sasa.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Mshauri",
-        "quote": "Kama mshauri, kila dakika ni muhimu. Chiefy hainiokoi wakati tu—hufanya mawasiliano yangu ya barua pepe kuwa makali zaidi.",
+        "quote": "Kama mshauri, kila dakika ni muhimu. Duet Mail hainiokoi wakati tu—hufanya mawasiliano yangu ya barua pepe kuwa makali zaidi.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Shirika la msingi la kuanza"
           },
           {
-            "title": "Msaidizi wa Chiefy",
+            "title": "Msaidizi wa Duet",
             "description": "Jaribu msaidizi wa AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Msaidizi wa Chiefy",
+            "title": "Msaidizi wa Duet",
             "description": "Piga gumzo ili kupata, kuandika, kupanga na zaidi",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "WASILIANA NA",
     "contactHeading": "Bado una maswali?",
     "contactCta": "Wasiliana →",
-    "footerBrand": "CHIEFY",
+    "footerBrand": "DUET MAIL",
     "footerLabel": "Maswali Yanayoulizwa Mara kwa Mara",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Je, Chiefy inalindaje data yangu ya barua pepe?",
+        "question": "Je, Duet Mail inalindaje data yangu ya barua pepe?",
         "answer": "Usalama wako ndio kipaumbele chetu kikuu. Tunatumia OAuth 2.0 kwa uthibitishaji salama na Google na Microsoft. Maudhui ya barua pepe husimbwa kwa njia fiche wakati wa mapumziko kwa kutumia usimbaji wa kiwango cha uga wa mteja, na tunafuata kanuni ya fursa ndogo zaidi ya ufikiaji wa API. Kwa muunganisho wetu wa Google, tunapitia tathmini ya usalama ya CASA ya kila mwaka ya Google."
       },
       {
         "question": "Je, kipengele cha muhtasari wa barua pepe hufanya kazi vipi?",
-        "answer": "Chiefy hutumia AI ya hali ya juu kuchanganua maandishi yako ya barua pepe na kutoa muhtasari mfupi unaoangazia mambo muhimu, maamuzi na vipengee vya kushughulikia. Hii hukusaidia kuelewa kwa haraka muktadha bila kusoma thread nzima."
+        "answer": "Duet Mail hutumia AI ya hali ya juu kuchanganua maandishi yako ya barua pepe na kutoa muhtasari mfupi unaoangazia mambo muhimu, maamuzi na vipengee vya kushughulikia. Hii hukusaidia kuelewa kwa haraka muktadha bila kusoma thread nzima."
       },
       {
-        "question": "Chiefy inahitaji ruhusa gani?",
-        "answer": "Chiefy inahitaji ufikiaji wa barua pepe zako ili kutoa muhtasari, kutoa vitu vya kushughulikia, kutoa maudhui na kutuma barua pepe zako. Tunaomba tu ruhusa tunazohitaji kabisa. Unaweza kukagua na kubatilisha ruhusa hizi wakati wowote katika Akaunti yako ya Google au mipangilio ya Akaunti ya Microsoft."
+        "question": "Duet Mail inahitaji ruhusa gani?",
+        "answer": "Duet Mail inahitaji ufikiaji wa barua pepe zako ili kutoa muhtasari, kutoa vitu vya kushughulikia, kutoa maudhui na kutuma barua pepe zako. Tunaomba tu ruhusa tunazohitaji kabisa. Unaweza kukagua na kubatilisha ruhusa hizi wakati wowote katika Akaunti yako ya Google au mipangilio ya Akaunti ya Microsoft."
       },
       {
         "question": "Je, ni nini kimejumuishwa katika jaribio lisilolipishwa?",
         "answer": "Jaribio lisilolipishwa la siku 14 linajumuisha ufikiaji kamili wa vipengele vyote vya Pro: muhtasari wa barua pepe usio na kikomo, uchimbaji wa kipengee cha kushughulikia, mwandishi wa barua pepe wa AI (kutengeneza barua pepe na rasimu bila kikomo chochote), na violezo maalum vya barua pepe. Ingia ukitumia Google au Microsoft ili kuanza kuokoa muda kwenye usimamizi wa barua pepe."
       },
       {
-        "question": "Je, ninaweza kutumia Chiefy na watoa huduma wengine wa barua pepe?",
-        "answer": "Chiefy inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
+        "question": "Je, ninaweza kutumia Duet Mail na watoa huduma wengine wa barua pepe?",
+        "answer": "Duet Mail inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "kijachini cha tovuti",
-    "brandIconAlt": "Ikoni ya Chiefy",
-    "brandLogoAlt": "Chiefy",
-    "tagline": "Chiefy, formerly Duet Mail",
-    "copyrightTemplate": "Chiefy © {year}",
+    "brandIconAlt": "Ikoni ya Duet Mail",
+    "brandLogoAlt": "Duet Mail",
+    "tagline": "Duet Mail - Msaidizi wa Barua pepe wa AI ambao hukuokoa saa kila wiki",
+    "copyrightTemplate": "Duet Mail © {year}",
     "groups": [
       {
         "title": "Chunguza",
@@ -597,28 +597,27 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/chiefy",
+            "href": "https://www.linkedin.com/company/duetmail",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/chiefy",
+            "href": "https://x.com/DuetMailApp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/chiefy/",
+            "href": "https://www.instagram.com/duetmail/",
             "external": true
           },
           {
             "label": "Umaarufu wa Kuanzisha",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
             "external": true
           }
         ]
       }
-    ],
-    "copyright": "Chiefy © {year}"
+    ]
   },
   "math": {
     "ariaLabel": "Kurudi kwenye uwekezaji",
@@ -626,15 +625,15 @@
     "narrativeTemplate": "Kwa {pricePerBooking} kwa {bookingUnit}, ikipoteza tu {lostPerMonth} kutoa majibu polepole =",
     "lossSuffix": "/mwezi zimepotea",
     "dividerLabel": "dhidi ya",
-    "duetLabel": "Chiefy",
+    "duetLabel": "Duet",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - Msaidizi wa Barua pepe wa AI kwa Gmail na Outlook",
-    "organizationName": "Chiefy",
+    "websiteName": "Duet Mail",
+    "websiteAlternateName": "Duet - Msaidizi wa Barua pepe wa AI kwa Gmail na Outlook",
+    "organizationName": "Duet Mail",
     "organizationContactType": "Usaidizi wa Wateja",
-    "softwareName": "Chiefy",
+    "softwareName": "Duet Mail",
     "softwareDescription": "Msaidizi wa barua pepe wa AI wa Gmail na Outlook ambao hufanya muhtasari wa barua pepe kiotomatiki, kutayarisha majibu kwa sauti yako, na kupanga kisanduku pokezi chako ili kuokoa saa kila wiki.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -662,33 +661,36 @@
     "operatingSystem": "Mtandao",
     "browserRequirements": "Inahitaji JavaScript. Inafanya kazi na Gmail, Google Workspace, na Microsoft Outlook.",
     "urls": {
-      "site": "https://chiefy.com/",
-      "logo": "https://chiefy.com/favicon.svg",
-      "screenshot": "https://chiefy.com/og.jpg",
-      "sameAs": []
+      "site": "https://duetmail.com/sw",
+      "logo": "https://duetmail.com/favicon.svg",
+      "screenshot": "https://duetmail.com/og.jpg",
+      "sameAs": [
+        "https://www.linkedin.com/company/duetmail",
+        "https://x.com/DuetMailApp",
+        "https://www.instagram.com/duetmail/"
+      ]
     },
     "faq": [
       {
-        "question": "Je, Chiefy inalindaje data yangu ya barua pepe?",
+        "question": "Je, Duet Mail inalindaje data yangu ya barua pepe?",
         "answer": "Usalama wako ndio kipaumbele chetu kikuu. Tunatumia OAuth 2.0 kwa uthibitishaji salama na Google na Microsoft. Maudhui ya barua pepe husimbwa kwa njia fiche wakati wa mapumziko kwa kutumia usimbaji wa kiwango cha uga wa mteja, na tunafuata kanuni ya fursa ndogo zaidi ya ufikiaji wa API. Kwa muunganisho wetu wa Google, tunapitia tathmini ya usalama ya CASA ya kila mwaka ya Google."
       },
       {
         "question": "Je, kipengele cha muhtasari wa barua pepe hufanya kazi vipi?",
-        "answer": "Chiefy hutumia AI ya hali ya juu kuchanganua maandishi yako ya barua pepe na kutoa muhtasari mfupi unaoangazia mambo muhimu, maamuzi na vipengee vya kushughulikia. Hii hukusaidia kuelewa kwa haraka muktadha bila kusoma thread nzima."
+        "answer": "Duet Mail hutumia AI ya hali ya juu kuchanganua maandishi yako ya barua pepe na kutoa muhtasari mfupi unaoangazia mambo muhimu, maamuzi na vipengee vya kushughulikia. Hii hukusaidia kuelewa kwa haraka muktadha bila kusoma thread nzima."
       },
       {
-        "question": "Chiefy inahitaji ruhusa gani?",
-        "answer": "Chiefy inahitaji ufikiaji wa barua pepe zako ili kutoa muhtasari, kutoa vitu vya kushughulikia, kutoa maudhui na kutuma barua pepe zako. Tunaomba tu ruhusa tunazohitaji kabisa. Unaweza kukagua na kubatilisha ruhusa hizi wakati wowote katika Akaunti yako ya Google au mipangilio ya Akaunti ya Microsoft."
+        "question": "Duet Mail inahitaji ruhusa gani?",
+        "answer": "Duet Mail inahitaji ufikiaji wa barua pepe zako ili kutoa muhtasari, kutoa vitu vya kushughulikia, kutoa maudhui na kutuma barua pepe zako. Tunaomba tu ruhusa tunazohitaji kabisa. Unaweza kukagua na kubatilisha ruhusa hizi wakati wowote katika Akaunti yako ya Google au mipangilio ya Akaunti ya Microsoft."
       },
       {
         "question": "Je, ni nini kimejumuishwa katika jaribio lisilolipishwa?",
         "answer": "Jaribio lisilolipishwa la siku 14 linajumuisha ufikiaji kamili wa vipengele vyote vya Pro: muhtasari wa barua pepe usio na kikomo, uchimbaji wa kipengee cha kushughulikia, mwandishi wa barua pepe wa AI (kutengeneza barua pepe na rasimu bila kikomo chochote), na violezo maalum vya barua pepe. Ingia ukitumia Google au Microsoft ili kuanza kuokoa muda kwenye usimamizi wa barua pepe."
       },
       {
-        "question": "Je, ninaweza kutumia Chiefy na watoa huduma wengine wa barua pepe?",
-        "answer": "Chiefy inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
+        "question": "Je, ninaweza kutumia Duet Mail na watoa huduma wengine wa barua pepe?",
+        "answer": "Duet Mail inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

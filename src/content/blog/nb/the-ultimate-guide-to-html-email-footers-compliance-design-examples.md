@@ -2,7 +2,7 @@
 title: "Den komplette guiden til HTML-footere i e-post: compliance, design og eksempler"
 description: "Mestre HTML-footere i e-post: nodvendige elementer, designtips, juridiske krav som CAN-SPAM, GDPR og CASL, og merkevareeksempler."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "E-post"]
 draft: false
 ---
@@ -56,4 +56,4 @@ AI kan foreslå kortere formuleringer, forbedre tone og lage varianter for ulike
 
 En god HTML-footer er kort, lesbar, compliant og nyttig. Den skal ikke rope, men gi mottakeren trygghet og enkle neste steg.
 
-Kombiner gode footere med tydelige e-poster og bedre innboksrutiner. For AI-hjelp med utkast og oppfolging i Gmail kan du se [**Chiefy**](https://chiefy.com/nb).
+Kombiner gode footere med tydelige e-poster og bedre innboksrutiner. For AI-hjelp med utkast og oppfolging i Gmail kan du se [**Duet Mail**](https://duetmail.com/nb).

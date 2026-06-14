@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Chiefy voor juweliers op maat | AI-e-mailassistent",
-  "metaDescription": "Chiefy helpt op maat gemaakte juweliers direct te reageren op adviesverzoeken, ontwerpgoedkeuringen en tijdlijnvragen, zelfs terwijl ze aan de werkbank zitten. AI-opgestelde antwoorden met uw proces, prijzen en stem.",
+  "pageTitle": "Duet Mail voor juweliers op maat | AI-e-mailassistent",
+  "metaDescription": "Duet Mail helpt op maat gemaakte juweliers direct te reageren op adviesverzoeken, ontwerpgoedkeuringen en tijdlijnvragen, zelfs terwijl ze aan de werkbank zitten. AI-opgestelde antwoorden met uw proces, prijzen en stem.",
   "heroBadge": "Vertrouwd door meer dan 300 sieradenontwerpers",
   "heroHeadline": "Uw e-mailassistent terwijl u op de bank zit",
-  "heroSubline": "Chiefy leert uw ontwerpproces, materialen, prijzen en tijdlijnen kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een klant op maat verliest door een trage reactie.",
+  "heroSubline": "Duet leert uw ontwerpproces, materialen, prijzen en tijdlijnen kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een klant op maat verliest door een trage reactie.",
   "inboxEmails": [
     {
       "from": "Rachel en David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "aangepast stuk",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Eén opgeslagen klant betaalt voor meer dan vier jaar Chiefy."
+    "punchline": "Eén opgeslagen klant betaalt voor meer dan vier jaar Duet."
   },
-  "categorizationSubtitle": "Chiefy tagt automatisch elke e-mail, zodat u eerst nieuwe adviesaanvragen ziet, daarna ontwerpgoedkeuringen en nooit nieuwsbrieven van leveranciers. U hoeft niet langer een onderzoek van $ 5.000 te missen dat verborgen ligt onder leverancierspromoties.",
-  "draftSubtitle": "Chiefy leert uw proces, materialen, prijzen en stem kennen. Wanneer er een consultatieverzoek binnenkomt, wordt er een volledig antwoord opgesteld met uw beschikbaarheid, wat u moet meenemen en hoe uw proces werkt. Je beoordeelt en verzendt.",
-  "agentSubtitle": "'Waar zijn we met Amanda's ring?' 'Stel een tijdlijnupdate op voor James.'Chiefy kent elke klantthread - vraag het maar.",
+  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat u eerst nieuwe adviesaanvragen ziet, daarna ontwerpgoedkeuringen en nooit nieuwsbrieven van leveranciers. U hoeft niet langer een onderzoek van $ 5.000 te missen dat verborgen ligt onder leverancierspromoties.",
+  "draftSubtitle": "Duet leert uw proces, materialen, prijzen en stem kennen. Wanneer er een consultatieverzoek binnenkomt, wordt er een volledig antwoord opgesteld met uw beschikbaarheid, wat u moet meenemen en hoe uw proces werkt. Je beoordeelt en verzendt.",
+  "agentSubtitle": "'Waar zijn we met Amanda's ring?' 'Stel een tijdlijnupdate op voor James.'Duet kent elke klantthread - vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Ontwerper van aangepaste sieraden, LA",
-      "quote": "Elk op maat gemaakt stuk genereert gedurende weken 10-15 e-mails. Vermenigvuldig dat met 8 actieve klanten en ik verdronk. Chiefy conceptontwerpupdate-antwoorden, consultatiebevestigingen, tijdlijnantwoorden - allemaal in mijn stem. Ik review tussen de castings door en druk op verzenden.",
+      "quote": "Elk op maat gemaakt stuk genereert gedurende weken 10-15 e-mails. Vermenigvuldig dat met 8 actieve klanten en ik verdronk. Duet conceptontwerpupdate-antwoorden, consultatiebevestigingen, tijdlijnantwoorden - allemaal in mijn stem. Ik review tussen de castings door en druk op verzenden.",
       "avatarKey": "michael"
     },
     {
       "name": "Sara L.",
       "title": "Goldsmith & Studio-eigenaar, Brooklyn",
-      "quote": "Ik verloor een commissie voor verlovingsringen van $ 7.000 omdat het drie dagen duurde voordat ik reageerde. Het echtpaar ging naar iemand die binnen twee uur antwoordde. Sinds Chiefy is mijn reactietijd minder dan 30 minuten. Dat is niet meer gebeurd.",
+      "quote": "Ik verloor een commissie voor verlovingsringen van $ 7.000 omdat het drie dagen duurde voordat ik reageerde. Het echtpaar ging naar iemand die binnen twee uur antwoordde. Sinds Duet is mijn reactietijd minder dan 30 minuten. Dat is niet meer gebeurd.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Juwelier, Chicago",
-      "quote": "Ik zit 8 uur per dag op de bank met een zaklamp in mijn hand. Ik kan het solderen niet stoppen om een ​​consultatieantwoord uit te typen. Chiefy tekent alles terwijl ik werk. Ik werp een blik op mijn telefoon, keur het goed en klaar.",
+      "quote": "Ik zit 8 uur per dag op de bank met een zaklamp in mijn hand. Ik kan het solderen niet stoppen om een ​​consultatieantwoord uit te typen. Duet tekent alles terwijl ik werk. Ik werp een blik op mijn telefoon, keur het goed en klaar.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Ontwerper van bruidssieraden, Austin",
-      "quote": "Tijdens het verlovingsseizoen krijg ik meer dan 20 consultatieverzoeken per week. Chiefy leerde mijn hele proces kennen: materialen, tijdlijnen, prijsniveaus, wat ik moest meenemen. Er worden antwoorden opgesteld die ik nauwelijks hoef te bewerken. Absolute redder in nood van november tot februari.",
+      "quote": "Tijdens het verlovingsseizoen krijg ik meer dan 20 consultatieverzoeken per week. Duet leerde mijn hele proces kennen: materialen, tijdlijnen, prijsniveaus, wat ik moest meenemen. Er worden antwoorden opgesteld die ik nauwelijks hoef te bewerken. Absolute redder in nood van november tot februari.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Specialist op maat gemaakte ringen, Portland",
-      "quote": "De 3D-revisie-e-mails aten mijn avonden op. Klant stuurt feedback, ik stel de update op, vijf keer heen en weer. Nu handelt Chiefy de routinematige antwoorden af ​​en kom ik alleen tussen bij de ontwerpbeslissingen. Ik heb mijn nachten terug.",
+      "quote": "De 3D-revisie-e-mails aten mijn avonden op. Klant stuurt feedback, ik stel de update op, vijf keer heen en weer. Nu handelt Duet de routinematige antwoorden af ​​en kom ik alleen tussen bij de ontwerpbeslissingen. Ik heb mijn nachten terug.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "Kan Chiefy e-mails met referentiefoto's en ontwerpbijlagen verwerken?",
-      "answer": "Ja. Chiefy ziet de volledige e-mailthread inclusief bijlagen, zodat hij de context begrijpt wanneer een klant inspiratiefoto's of ontwerpfeedback stuurt. Het beschrijft de afbeeldingen niet terug, maar weet dat een klant zojuist referentiefoto's heeft gestuurd en stelt een passend antwoord op: de ontvangst wordt bevestigd, verduidelijkende vragen worden gesteld over het ontwerp of de volgende stappen worden aangegeven op basis van uw gebruikelijke workflow."
+      "question": "Kan Duet e-mails met referentiefoto's en ontwerpbijlagen verwerken?",
+      "answer": "Ja. Duet ziet de volledige e-mailthread inclusief bijlagen, zodat hij de context begrijpt wanneer een klant inspiratiefoto's of ontwerpfeedback stuurt. Het beschrijft de afbeeldingen niet terug, maar weet dat een klant zojuist referentiefoto's heeft gestuurd en stelt een passend antwoord op: de ontvangst wordt bevestigd, verduidelijkende vragen worden gesteld over het ontwerp of de volgende stappen worden aangegeven op basis van uw gebruikelijke workflow."
     },
     {
-      "question": "Mijn aangepaste projecten hebben lange e-mailthreads met meer dan 10 berichten. Kan Chiefy deze volgen?",
-      "answer": "Dat is precies waar Chiefy uitblinkt. Het leest de volledige draadgeschiedenis – consultatienotities, ontwerpherzieningen, materiaalkeuzes, tijdlijnupdates – zodat elk opgesteld antwoord de volledige context heeft. Als een klant vraagt: 'Wat is de status van mijn ring?' in e-mail #14 weet Chiefy welke ring, in welke fase deze zich bevindt, en stelt een nauwkeurige update op. Nooit meer zelf 3 maanden aan e-mails herlezen."
+      "question": "Mijn aangepaste projecten hebben lange e-mailthreads met meer dan 10 berichten. Kan Duet deze volgen?",
+      "answer": "Dat is precies waar Duet uitblinkt. Het leest de volledige draadgeschiedenis – consultatienotities, ontwerpherzieningen, materiaalkeuzes, tijdlijnupdates – zodat elk opgesteld antwoord de volledige context heeft. Als een klant vraagt: 'Wat is de status van mijn ring?' in e-mail #14 weet Duet welke ring, in welke fase deze zich bevindt, en stelt een nauwkeurige update op. Nooit meer zelf 3 maanden aan e-mails herlezen."
     }
   ],
   "pricingNote": "Bij $ 5.000/stuk betaalt één bespaarde commissie voor meer dan vier jaar Pro."

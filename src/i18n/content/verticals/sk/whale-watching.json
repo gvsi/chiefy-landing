@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy pre whale watching tours | AI asistent pre e-maily",
-  "metaDescription": "Chiefy pomáha kapitánom whale watching tourov okamžite odpovedať na e-maily s rezerváciami — aj z vody. Odpovede vytvorené AI s údajmi o vašich tour, cenách a štýle.",
+  "pageTitle": "Duet Mail pre whale watching tours | AI asistent pre e-maily",
+  "metaDescription": "Duet Mail pomáha kapitánom whale watching tourov okamžite odpovedať na e-maily s rezerváciami — aj z vody. Odpovede vytvorené AI s údajmi o vašich tour, cenách a štýle.",
   "heroBadge": "Dôveruje mu 300+ kapitánov tour",
   "heroHeadline": "Váš e-mailový asistent, kým ste vonku a hľadáte veľryby",
-  "heroSubline": "Chiefy sa naučí váš rozvrh tour, ceny a štýl — potom pripraví odpovede na e-maily, aby ste nikdy neprišli o rezerváciu, keď ste na vode.",
+  "heroSubline": "Duet sa naučí váš rozvrh tour, ceny a štýl — potom pripraví odpovede na e-maily, aby ste nikdy neprišli o rezerváciu, keď ste na vode.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "skupina tour",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Jedna zachránená skupinová rezervácia zaplatí rok používania Chiefy."
+    "punchline": "Jedna zachránená skupinová rezervácia zaplatí rok používania Duet."
   },
-  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže najprv vidíte žiadosti o rezerváciu, potom zmeny v pláne lodí a šum nikdy. Už žiadne prehliadnuté dopyty na súkromný charter schované pod upozorneniami z TripAdvisor.",
-  "draftSubtitle": "Chiefy sa naučí časy vašich tour, ceny a pravidlá. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s dostupnosťou, tým, čo je v cene, a tým, čo si priniesť. Vy len skontrolujete a odošlete.",
-  "agentSubtitle": "\"Koľko miest zostáva na sobotňajšej rannej tour?\" \"Priprav odpoveď pre Rachel s dostupnosťou.\" Chiefy pozná vašu schránku aj rozvrh — stačí sa opýtať.",
+  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže najprv vidíte žiadosti o rezerváciu, potom zmeny v pláne lodí a šum nikdy. Už žiadne prehliadnuté dopyty na súkromný charter schované pod upozorneniami z TripAdvisor.",
+  "draftSubtitle": "Duet sa naučí časy vašich tour, ceny a pravidlá. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s dostupnosťou, tým, čo je v cene, a tým, čo si priniesť. Vy len skontrolujete a odošlete.",
+  "agentSubtitle": "\"Koľko miest zostáva na sobotňajšej rannej tour?\" \"Priprav odpoveď pre Rachel s dostupnosťou.\" Duet pozná vašu schránku aj rozvrh — stačí sa opýtať.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Dave H.",
       "title": "Prevádzkovateľ wildlife tour, AK",
-      "quote": "Cestujúci z výletných lodí potrebujú odpoveď rýchlo — v prístave majú len 6 hodín. Predtým som prichádzal o súkromné chartery, lebo dopyt prišiel, keď som bol na vode. Teraz Chiefy pripraví odpovede s mojimi cenami a údajmi o vyzdvihnutí ešte predtým, než zakotvím.",
+      "quote": "Cestujúci z výletných lodí potrebujú odpoveď rýchlo — v prístave majú len 6 hodín. Predtým som prichádzal o súkromné chartery, lebo dopyt prišiel, keď som bol na vode. Teraz Duet pripraví odpovede s mojimi cenami a údajmi o vyzdvihnutí ešte predtým, než zakotvím.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Rodinné whale watch, CA",
-      "quote": "Počas sezóny vrabcovcov máme dve tour denne a objem e-mailov je šialený. „Uvidíme veľryby?“ „Čo si mám obliecť?“ „Zajtra to platí?“ Chiefy rieši opakujúce sa otázky a my sa sústredíme na tour.",
+      "quote": "Počas sezóny vrabcovcov máme dve tour denne a objem e-mailov je šialený. „Uvidíme veľryby?“ „Čo si mám obliecť?“ „Zajtra to platí?“ Duet rieši opakujúce sa otázky a my sa sústredíme na tour.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "Každý večer som odpovedal na tých istých 10 otázok — ceny, čo je v cene, tipy proti nevoľnosti, vekové limity pre deti. Chiefy sa to všetko naučil počas prvého týždňa. Môj čas odpovede sa skrátil z 8 hodín na 8 minút.",
+      "quote": "Každý večer som odpovedal na tých istých 10 otázok — ceny, čo je v cene, tipy proti nevoľnosti, vekové limity pre deti. Duet sa to všetko naučil počas prvého týždňa. Môj čas odpovede sa skrátil z 8 hodín na 8 minút.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Booking Manager, Pacific NW",
-      "quote": "Zrušenia kvôli počasiu sú najhoršie — 30 ľudí treba naraz prebookovať a ja pritom vybavujem telefonáty. Chiefy pripraví personalizované e-maily s novým termínom pre každého hosťa. To, čo mi kedysi trvalo 2 hodiny, teraz zvládam za 15 minút.",
+      "quote": "Zrušenia kvôli počasiu sú najhoršie — 30 ľudí treba naraz prebookovať a ja pritom vybavujem telefonáty. Duet pripraví personalizované e-maily s novým termínom pre každého hosťa. To, čo mi kedysi trvalo 2 hodiny, teraz zvládam za 15 minút.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Sme dvojčlenná prevádzka — ja kapitánujem, ona rieši logistiku. V hlavnej sezóne trávila každý večer 3 hodiny pri e-mailoch. Chiefy to skrátil na 30 minút. Teraz si večery naozaj užíva späť.",
+      "quote": "Sme dvojčlenná prevádzka — ja kapitánujem, ona rieši logistiku. V hlavnej sezóne trávila každý večer 3 hodiny pri e-mailoch. Duet to skrátil na 30 minút. Teraz si večery naozaj užíva späť.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite bezplatnú skúšobnú verziu. Pripojte svoju doručenú poštu za 30 sekúnd.",
   "verticalFaqs": [
     {
-      "question": "Vie Chiefy riešiť zrušenia kvôli počasiu a zmeny v harmonograme výletných lodí?",
-      "answer": "Áno. Keď zrušíte tour kvôli počasiu alebo sa zmení čas príjazdu výletnej lode, stačí to Chiefy povedať raz a pripraví personalizované e-maily s novým termínom alebo aktualizáciou pre každého dotknutého hosťa. Už žiadne 30-násobné kopírovanie a vkladanie tej istej správy. Každá odpoveď obsahuje pôvodné údaje o rezervácii hosťa aj dostupné alternatívy."
+      "question": "Vie Duet riešiť zrušenia kvôli počasiu a zmeny v harmonograme výletných lodí?",
+      "answer": "Áno. Keď zrušíte tour kvôli počasiu alebo sa zmení čas príjazdu výletnej lode, stačí to Duet povedať raz a pripraví personalizované e-maily s novým termínom alebo aktualizáciou pre každého dotknutého hosťa. Už žiadne 30-násobné kopírovanie a vkladanie tej istej správy. Každá odpoveď obsahuje pôvodné údaje o rezervácii hosťa aj dostupné alternatívy."
     },
     {
-      "question": "Stále dostávame tie isté otázky — „uvidíme veľryby?“, „čo si mám obliecť?“, „je to vhodné pre deti?“ Vie Chiefy riešiť aj to?",
-      "answer": "Presne v tom Chiefy vyniká. Naučí sa vaše štandardné odpovede — druhy, ktoré zvyčajne vidíte, čo si priniesť, vekové pravidlá, tipy proti nevoľnosti, časy odchodu — a okamžite pripraví kompletné odpovede. Vy ich skontrolujete a odošlete. Väčšina kapitánov nám hovorí, že 80 % ich schránky tvoria tie isté 10 otázok, a Chiefy ich všetky zvláda."
+      "question": "Stále dostávame tie isté otázky — „uvidíme veľryby?“, „čo si mám obliecť?“, „je to vhodné pre deti?“ Vie Duet riešiť aj to?",
+      "answer": "Presne v tom Duet vyniká. Naučí sa vaše štandardné odpovede — druhy, ktoré zvyčajne vidíte, čo si priniesť, vekové pravidlá, tipy proti nevoľnosti, časy odchodu — a okamžite pripraví kompletné odpovede. Vy ich skontrolujete a odošlete. Väčšina kapitánov nám hovorí, že 80 % ich schránky tvoria tie isté 10 otázok, a Duet ich všetky zvláda."
     }
   ],
   "pricingNote": "Pri cene 125 $/osoba jedna zachránená skupina 6 ľudí zaplatí viac než rok používania Pro."

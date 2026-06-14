@@ -2,7 +2,7 @@
 title: "Més de 10 exemples d'automatització de correu electrònic per recuperar el temps i augmentar la productivitat el 2025"
 description: "Descobriu exemples pràctics d'automatització de correu electrònic per a l'ordenació, les respostes, els seguiments i molt més. Augmenta la productivitat amb aquests consells i eines de 2025."
 publishedAt: 2025-04-07
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI","Productivitat","Automatització","Correu electrònic"]
 draft: false
 ---
@@ -49,7 +49,7 @@ Tot i que és senzill, la configuració d'aquestes regles proporciona un alleuja
 Preparat per pujar de nivell? Els assistents de correu electrònic AI porten l'ordenació a una dimensió completament nova. Eines com [SaneBox](https://www.sanebox.com/) utilitzen algorismes AI per analitzar els vostres hàbits de correu electrònic i filtrar automàticament els correus electrònics sense importància en carpetes separades (com "SaneLater"), mantenint la vostra safata d'entrada principal reservada per als missatges crítics. També us poden recordar que feu un seguiment dels correus electrònics que no hagin rebut resposta.
 
 
-Les solucions més avançades van encara més enllà. Aquí és on les eines com [Chiefy](https://chiefy.com/) brillen amb **AI Triage**. En lloc de només filtrar, Chiefy analitza els correus electrònics entrants per identificar la urgència, les accions necessàries o les decisions necessàries, presentant aquests elements crítics en un tauler de control centrat. Això significa que veuràs a l'instant el que demana la teva atenció sense escanejar-ho tot manualment, reduint dràsticament el temps de classificació i assegurant que les comunicacions crucials no s'enterran.
+Les solucions més avançades van encara més enllà. Aquí és on les eines com [Duet Mail](https://duetmail.com/) brillen amb **AI Triage**. En lloc de només filtrar, Duet Mail analitza els correus electrònics entrants per identificar la urgència, les accions necessàries o les decisions necessàries, presentant aquests elements crítics en un tauler de control centrat. Això significa que veuràs a l'instant el que demana la teva atenció sense escanejar-ho tot manualment, reduint dràsticament el temps de classificació i assegurant que les comunicacions crucials no s'enterran.
 
 
 ## Comunicació més intel·ligent: respostes automatitzades i assistides per AI
@@ -84,7 +84,7 @@ Simplement inseriu la plantilla, personalitzeu-la lleugerament si cal i premeu e
 El veritable canvi de joc és AI que ajuda a *escriure* els vostres correus electrònics. Eines com [Flowrite](https://flowrite.com/) poden convertir instruccions breus en correus electrònics preparats per enviar. Altres assistents de AI, com ara [Compose AI](https://www.compose.ai/) o Smart Compose de Gmail, ofereixen una compleció automàtica intel·ligent i suggeriments mentre escriviu.
 
 
-Les eines més sofisticades, però, aprenen el vostre estil de comunicació únic. [L'esborrany AI autèntic de Chiefy](https://chiefy.com/) analitza els missatges enviats anteriorment per entendre el vostre to, vocabulari i fraseig específics. Quan necessiteu respondre, suggereix diverses opcions d'esborrany conscients del context que sonen realment com *vosaltres*. Això accelera dràsticament els temps de resposta mentre es manté el toc personal crucial per a les relacions professionals.
+Les eines més sofisticades, però, aprenen el vostre estil de comunicació únic. [L'esborrany AI autèntic de Duet Mail](https://duetmail.com/) analitza els missatges enviats anteriorment per entendre el vostre to, vocabulari i fraseig específics. Quan necessiteu respondre, suggereix diverses opcions d'esborrany conscients del context que sonen realment com *vosaltres*. Això accelera dràsticament els temps de resposta mentre es manté el toc personal crucial per a les relacions professionals.
 
 
 ## No et perdis mai un ritme: automatització per a la programació i el seguiment
@@ -160,10 +160,10 @@ Eines com [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-gs) de
 Tracteu de llargs fils de correu electrònic o informes? AI està transformant la manera com consumim aquesta informació. Les eines AI poden resumir automàticament correus electrònics llargs o fils sencers, extreure punts clau, decisions i elements d'acció. [Superhuman](https://superhuman.com/ai) ofereix una funció de resum automàtic i eines com Microsoft Copilot a Outlook també ofereixen un resum. Plataformes com [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) i [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) ofereixen resums AI dedicats.
 
 
-Això estalvia molt de temps per posar-se al dia en converses complexes. [Chiefy incorpora **Smart Summarization** amb consciència contextual](https://chiefy.com/), és a dir, no només condensa fils llargs, sinó que també recorda detalls sobre projectes i relacions esmentats anteriorment, assegurant que els resums són molt rellevants i accionables.
+Això estalvia molt de temps per posar-se al dia en converses complexes. [Duet Mail incorpora **Smart Summarization** amb consciència contextual](https://duetmail.com/), és a dir, no només condensa fils llargs, sinó que també recorda detalls sobre projectes i relacions esmentats anteriorment, assegurant que els resums són molt rellevants i accionables.
 
 
-![Captura de pantalla que mostra la funció de resum de correu electrònic intel·ligent de Chiefy que condensa un llarg fil de correu electrònic en punts clau i elements d'acció](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+![Captura de pantalla que mostra la funció de resum de correu electrònic intel·ligent de Duet Mail que condensa un llarg fil de correu electrònic en punts clau i elements d'acció](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 
 ## El poder de l'automatització: segons els números
@@ -195,7 +195,7 @@ El paisatge "automatització del correu electrònic" inclou diferents tipus d'ei
 - **Plateformes d'automatització de màrqueting (MAP):** Eines com Mailchimp, ActiveCampaign, HubSpot, Klaviyo, Brevo, etc., són potents per executar campanyes de màrqueting per correu electrònic a gran escala, gestionar els recorreguts dels clients, la puntuació de clients potencials i sovint inclouen capacitats de CRM. Són excel·lents per als equips de màrqueting i vendes, però poden ser excessius o menys centrats en la productivitat de la safata d'entrada individual.
 
 
-- **AI Assistents de correu electrònic i eines de productivitat:** eines com SaneBox, Flowrite, Gmelius, Superhuman i [Chiefy](https://chiefy.com/) estan dissenyades específicament per millorar la productivitat del correu electrònic individual o en equip. Es centren a resoldre reptes de gestió de la safata d'entrada com el triatge, la redacció, el resum, la col·laboració i la integració del flux de treball a l'entorn de correu electrònic. Sovint són més adequats per a professionals ocupats, autònoms i treballadors del coneixement que s'ofeguen en el correu electrònic diari.
+- **AI Assistents de correu electrònic i eines de productivitat:** eines com SaneBox, Flowrite, Gmelius, Superhuman i [Duet Mail](https://duetmail.com/) estan dissenyades específicament per millorar la productivitat del correu electrònic individual o en equip. Es centren a resoldre reptes de gestió de la safata d'entrada com el triatge, la redacció, el resum, la col·laboració i la integració del flux de treball a l'entorn de correu electrònic. Sovint són més adequats per a professionals ocupats, autònoms i treballadors del coneixement que s'ofeguen en el correu electrònic diari.
 
 
 L'elecció correcta depèn del vostre objectiu principal. Si es tracta de gestionar campanyes, mireu els MAP. Si estàs conquerint la teva safata d'entrada personal i recuperant el temps, explora els assistents AI i les eines de productivitat.
@@ -233,4 +233,4 @@ El correu electrònic no ha de ser una pèrdua de temps i energia. Implementant 
 Des d'ordenar i prioritzar missatges automàticament fins a redactar respostes amb la teva veu, resumir fils llargs i garantir un seguiment puntual, les possibilitats són immenses. Comenceu identificant els vostres problemes de correu electrònic més grans i implementeu un o dos exemples d'automatització d'aquesta llista. Potser us sorprendrà la rapidesa amb què recupereu el control i la concentració.
 
 
-Estàs preparat per experimentar una gestió de correu electrònic sense estrès impulsada per AI? Exploreu com eines com [Chiefy](https://chiefy.com/) poden simplificar la vostra safata d'entrada amb un triatge intel·ligent, un esborrany autèntic i un resum intel·ligent, ajudant-vos a recuperar un temps valuós per al que realment importa.
+Estàs preparat per experimentar una gestió de correu electrònic sense estrès impulsada per AI? Exploreu com eines com [Duet Mail](https://duetmail.com/) poden simplificar la vostra safata d'entrada amb un triatge intel·ligent, un esborrany autèntic i un resum intel·ligent, ajudant-vos a recuperar un temps valuós per al que realment importa.

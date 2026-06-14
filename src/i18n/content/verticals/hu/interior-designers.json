@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Chiefy belsőépítészeknek | AI e-mail asszisztens",
-  "metaDescription": "A Chiefy segít a belsőépítészeknek kezelni az ügyfelek e-mailjeit, a vállalkozói koordinációt és a szállítói rendeléseket – akár a munkaterületről is. AI által készített válaszok a projekt részleteivel, preferenciáival és hangjával.",
+  "pageTitle": "Duet Mail belsőépítészeknek | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít a belsőépítészeknek kezelni az ügyfelek e-mailjeit, a vállalkozói koordinációt és a szállítói rendeléseket – akár a munkaterületről is. AI által készített válaszok a projekt részleteivel, preferenciáival és hangjával.",
   "heroBadge": "Több mint 400 belsőépítész megbízott",
   "heroHeadline": "Az Ön e-mail asszisztense, miközben az ügyfelekkel a helyszínen tartózkodik",
-  "heroSubline": "A Chiefy megtanulja a szállító kapcsolattartóit, a projekt részleteit és az ügyfél beállításait – majd e-mail-válaszokat készít, így soha nem veszíthet el ügyfelet a lassú válaszadás miatt.",
+  "heroSubline": "A Duet megtanulja a szállító kapcsolattartóit, a projekt részleteit és az ügyfél beállításait – majd e-mail-válaszokat készít, így soha nem veszíthet el ügyfelet a lassú válaszadás miatt.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Egy megmentett ügyfél évekig fizet Chiefyért."
+    "punchline": "Egy megmentett ügyfél évekig fizet Duetért."
   },
-  "categorizationSubtitle": "A Chiefy minden e-mailt automatikusan megcímkéz, így először az új ügyfélkéréseket, majd a függőben lévő jóváhagyásokat látja, a szállítói hírleveleket pedig soha. Többé nem hiányzik egy tervezési konzultáció a kiállítási promóciók alatt.",
-  "draftSubtitle": "A Chiefy megtanulja a folyamatot, a projekt részleteit és a hangszínt. Amikor új megkeresés vagy ügyfélkérdés érkezik, teljes választ készít az elérhetőségről, a következő lépésekről és a projekt sajátosságairól. Te átnézed és elküldöd.",
-  "agentSubtitle": "– Mi a helyzet a Henderson-projekttel? – Mely jóváhagyások várnak még? A Chiefy ismeri a beérkezett üzeneteket és minden projektszálat – csak kérdezzen.",
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először az új ügyfélkéréseket, majd a függőben lévő jóváhagyásokat látja, a szállítói hírleveleket pedig soha. Többé nem hiányzik egy tervezési konzultáció a kiállítási promóciók alatt.",
+  "draftSubtitle": "A Duet megtanulja a folyamatot, a projekt részleteit és a hangszínt. Amikor új megkeresés vagy ügyfélkérdés érkezik, teljes választ készít az elérhetőségről, a következő lépésekről és a projekt sajátosságairól. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Mi a helyzet a Henderson-projekttel? – Mely jóváhagyások várnak még? A Duet ismeri a beérkezett üzeneteket és minden projektszálat – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Fő tervező, Austin TX",
-      "quote": "Napi 6 órában a helyszínen vagyok festők, villanyszerelők és csempeszerelők koordinálásával. Eközben három másik ügyfél e-mailt küld a projektjeiről. A Chiefy piszkozatok válaszai a megfelelő projektrészletekkel – csak átnézem a helyszíni látogatások között.",
+      "quote": "Napi 6 órában a helyszínen vagyok festők, villanyszerelők és csempeszerelők koordinálásával. Eközben három másik ügyfél e-mailt küld a projektjeiről. A Duet piszkozatok válaszai a megfelelő projektrészletekkel – csak átnézem a helyszíni látogatások között.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Lakossági belsőépítész, Chicago",
-      "quote": "Az ügyfelek megkeresése napokig akadt, mert beletemettek a beszerzési e-mailekbe és a vállalkozói ütemezésbe. Most a Chiefy percek alatt válaszol az új leadekre az én folyamatommal és elérhetőségemmel. Ebben a negyedévben 4 további projektet foglaltam le.",
+      "quote": "Az ügyfelek megkeresése napokig akadt, mert beletemettek a beszerzési e-mailekbe és a vállalkozói ütemezésbe. Most a Duet percek alatt válaszol az új leadekre az én folyamatommal és elérhetőségemmel. Ebben a negyedévben 4 további projektet foglaltam le.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Tervezőstúdió tulajdonosa, Nashville",
-      "quote": "A 12 aktív projekt e-mailjei kezelése halálos volt. A Chiefy mindent kategorizál – új megkereséseket, függőben lévő jóváhagyásokat, szállítói rendeléseket, vállalkozói frissítéseket –, így pontosan tudom, mire kell először figyelnem.",
+      "quote": "A 12 aktív projekt e-mailjei kezelése halálos volt. A Duet mindent kategorizál – új megkereséseket, függőben lévő jóváhagyásokat, szállítói rendeléseket, vállalkozói frissítéseket –, így pontosan tudom, mire kell először figyelnem.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Belsőépítész, San Diego",
-      "quote": "Elveszítettem potenciális ügyfeleket, mert nem tudtam elég gyorsan válaszolni a telepítési hetek alatt. A Chiefy megtanulta a konzultációs folyamatomat, az árstruktúrámat, még azt is, hogyan írom le a tervezési stílusomat. Az ügyfeleknek fogalmuk sincs arról, hogy mesterséges intelligencia által támogatott.",
+      "quote": "Elveszítettem potenciális ügyfeleket, mert nem tudtam elég gyorsan válaszolni a telepítési hetek alatt. A Duet megtanulta a konzultációs folyamatomat, az árstruktúrámat, még azt is, hogyan írom le a tervezési stílusomat. Az ügyfeleknek fogalmuk sincs arról, hogy mesterséges intelligencia által támogatott.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Kereskedelmi belsőépítész, Denver",
-      "quote": "A szállítói átfutási idők, a vállalkozói ütemtervek és az ügyfelek felülvizsgálati kérelmei között a beérkező levelem káosz volt. A Chiefy mindent rendez, és a függőben lévő jóváhagyások nyomon követését készíti el. Olyan, mintha egy projektkoordinátor lenne, aki soha nem alszik.",
+      "quote": "A szállítói átfutási idők, a vállalkozói ütemtervek és az ügyfelek felülvizsgálati kérelmei között a beérkező levelem káosz volt. A Duet mindent rendez, és a függőben lévő jóváhagyások nyomon követését készíti el. Olyan, mintha egy projektkoordinátor lenne, aki soha nem alszik.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "8-10 projekttel zsonglőrködök egyszerre. A Chiefy egyenesen tudja tartani őket?",
-      "answer": "Igen. A Chiefy minden e-mail szálat nyomon követ kliensenként és projektenként. Amikor a Henderson konyháról vagy a Park Avenue irodáról kérdez, az összes kapcsolódó beszélgetésből – szállítói rendelések, vállalkozói frissítések, ügyfél jóváhagyások – kontextust von le, így válaszai mindig pontosak és projektspecifikusak. Nem szabad összekeverni, hogy melyik kliens melyik csempe volt."
+      "question": "8-10 projekttel zsonglőrködök egyszerre. A Duet egyenesen tudja tartani őket?",
+      "answer": "Igen. A Duet minden e-mail szálat nyomon követ kliensenként és projektenként. Amikor a Henderson konyháról vagy a Park Avenue irodáról kérdez, az összes kapcsolódó beszélgetésből – szállítói rendelések, vállalkozói frissítések, ügyfél jóváhagyások – kontextust von le, így válaszai mindig pontosak és projektspecifikusak. Nem szabad összekeverni, hogy melyik kliens melyik csempe volt."
     },
     {
-      "question": "Sok vállalkozóval és szállítóval egyeztetek. A Chiefy segít ebben?",
-      "answer": "Teljesen. A Chiefy megismeri az Ön vállalkozói kapcsolatait, szállítói képviselőit és az egyes szakmák projektekben betöltött szerepét. Amikor villanyszerelője e-mailt küld arról, hogy a nagyítás megtörtént, a Chiefy meg tudja vázolni a következő lépést vagy hurkot megerősítő választ a lámpatest-telepítőben. Mozgásban tartja a munkafolyamatot akkor is, ha egy másik munkahelyen tartózkodik a városban."
+      "question": "Sok vállalkozóval és szállítóval egyeztetek. A Duet segít ebben?",
+      "answer": "Teljesen. A Duet megismeri az Ön vállalkozói kapcsolatait, szállítói képviselőit és az egyes szakmák projektekben betöltött szerepét. Amikor villanyszerelője e-mailt küld arról, hogy a nagyítás megtörtént, a Duet meg tudja vázolni a következő lépést vagy hurkot megerősítő választ a lámpatest-telepítőben. Mozgásban tartja a munkafolyamatot akkor is, ha egy másik munkahelyen tartózkodik a városban."
     }
   ],
-  "pricingNote": "Projektenként 10 000 dollárért egy megtakarított ügyfél évekig fizet a Chiefy Pro csomagért."
+  "pricingNote": "Projektenként 10 000 dollárért egy megtakarított ügyfél évekig fizet a Duet Pro csomagért."
 }

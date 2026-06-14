@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Chiefy per a excursions d'observació de balenes | AI Assistent de correu electrònic",
-  "metaDescription": "Chiefy ajuda els capitans d'observació de balenes a respondre als correus electrònics de reserva a l'instant, fins i tot des de l'aigua. Respostes redactades per AI amb els detalls del viatge, els preus i la veu.",
+  "pageTitle": "Duet Mail per a excursions d'observació de balenes | AI Assistent de correu electrònic",
+  "metaDescription": "Duet Mail ajuda els capitans d'observació de balenes a respondre als correus electrònics de reserva a l'instant, fins i tot des de l'aigua. Respostes redactades per AI amb els detalls del viatge, els preus i la veu.",
   "heroBadge": "La confiança de més de 300 capitans de gira",
   "heroHeadline": "El teu assistent de correu electrònic mentre estàs fora d'observar balenes",
-  "heroSubline": "Chiefy coneix l'horari, els preus i la veu del vostre viatge i, a continuació, redacta les respostes per correu electrònic perquè mai perdeu una reserva mentre esteu a l'aigua.",
+  "heroSubline": "Duet coneix l'horari, els preus i la veu del vostre viatge i, a continuació, redacta les respostes per correu electrònic perquè mai perdeu una reserva mentre esteu a l'aigua.",
   "inboxEmails": [
     {
       "from": "Raquel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grup turístic",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Una reserva de grup desada paga un any de Chiefy."
+    "punchline": "Una reserva de grup desada paga un any de Duet."
   },
-  "categorizationSubtitle": "Chiefy etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, l'horari dels creuers canvia en segon lloc i el soroll mai. Ja no us perdeu una consulta privada de xàrter soterrada sota les alertes de TripAdvisor.",
-  "draftSubtitle": "Chiefy coneix els horaris, els preus i les polítiques dels vostres viatges. Quan arriba una consulta de reserva, redacta una resposta completa amb disponibilitat, què s'inclou i què cal portar. Tu revisa i envia.",
-  "agentSubtitle": "\"Quants llocs queden a la gira de dissabte al matí?\" \"Esborra una resposta a la Rachel amb disponibilitat\". Chiefy coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
+  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, l'horari dels creuers canvia en segon lloc i el soroll mai. Ja no us perdeu una consulta privada de xàrter soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Duet coneix els horaris, els preus i les polítiques dels vostres viatges. Quan arriba una consulta de reserva, redacta una resposta completa amb disponibilitat, què s'inclou i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Quants llocs queden a la gira de dissabte al matí?\" \"Esborra una resposta a la Rachel amb disponibilitat\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
       "from": "Raquel T.",
@@ -127,31 +127,31 @@
     {
       "name": "El capità Dave H.",
       "title": "Operador de turisme de vida salvatge, AK",
-      "quote": "Els passatgers dels creuers necessiten respostes ràpides: només tenen 6 hores al port. Abans perdia els xàrters privats perquè estava a l'aigua quan va arribar la consulta. Ara Chiefy redacta les respostes amb els meus preus i els detalls de recollida abans fins i tot d'atracar.",
+      "quote": "Els passatgers dels creuers necessiten respostes ràpides: només tenen 6 hores al port. Abans perdia els xàrters privats perquè estava a l'aigua quan va arribar la consulta. Ara Duet redacta les respostes amb els meus preus i els detalls de recollida abans fins i tot d'atracar.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria i Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Fem dues visites al dia durant la temporada de geperut i el volum de correu electrònic és irreal. \"Verem balenes?\" 'Què m'he de posar?' \"Demà està cancel·lat?\" Chiefy gestiona les preguntes repetitives i ens centrem en els recorreguts.",
+      "quote": "Fem dues visites al dia durant la temporada de geperut i el volum de correu electrònic és irreal. \"Verem balenes?\" 'Què m'he de posar?' \"Demà està cancel·lat?\" Duet gestiona les preguntes repetitives i ens centrem en els recorreguts.",
       "avatarKey": "francesca"
     },
     {
       "name": "El capità Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "Cada nit responia les mateixes 10 preguntes: preus, què s'inclou, consells sobre el mal de mar, límits d'edat dels nens. Chiefy ho va aprendre tot durant la primera setmana. El meu temps de resposta va passar de 8 hores a 8 minuts.",
+      "quote": "Cada nit responia les mateixes 10 preguntes: preus, què s'inclou, consells sobre el mal de mar, límits d'edat dels nens. Duet ho va aprendre tot durant la primera setmana. El meu temps de resposta va passar de 8 hores a 8 minuts.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Gestor de reserves, Pacific NW",
-      "quote": "Les cancel·lacions meteorològiques són les pitjors: 30 persones necessiten un canvi de reserva alhora i estic fent malabars amb trucades telefòniques. Chiefy redacta correus electrònics de reprogramació personalitzats per a cada convidat. El que abans em portava 2 hores, ara triga 15 minuts.",
+      "quote": "Les cancel·lacions meteorològiques són les pitjors: 30 persones necessiten un canvi de reserva alhora i estic fent malabars amb trucades telefòniques. Duet redacta correus electrònics de reprogramació personalitzats per a cada convidat. El que abans em portava 2 hores, ara triga 15 minuts.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess i Nate P.",
       "title": "Excursions per la fauna en vaixell petit, BC",
-      "quote": "Som una operació de dues persones: jo capità, ella dirigeix ​​la logística. Durant la temporada alta passava 3 hores per nit al correu electrònic. Chiefy ho va reduir a 30 minuts. De fet, recupera les nits ara.",
+      "quote": "Som una operació de dues persones: jo capità, ella dirigeix ​​la logística. Durant la temporada alta passava 3 hores per nit al correu electrònic. Duet ho va reduir a 30 minuts. De fet, recupera les nits ara.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Chiefy gestiona les cancel·lacions meteorològiques i els canvis en l'horari dels creuers?",
-      "answer": "Sí. Quan cancel·leu una excursió a causa del temps o dels canvis d'hora d'arribada d'un creuer, podeu dir-ho a Chiefy una vegada i redactarà una reprogramació personalitzada o actualitzarà els correus electrònics per a cada hoste afectat. No més copiar i enganxar el mateix missatge 30 vegades. Cada resposta inclou els detalls de la reserva original del client i les alternatives disponibles."
+      "question": "Duet gestiona les cancel·lacions meteorològiques i els canvis en l'horari dels creuers?",
+      "answer": "Sí. Quan cancel·leu una excursió a causa del temps o dels canvis d'hora d'arribada d'un creuer, podeu dir-ho a Duet una vegada i redactarà una reprogramació personalitzada o actualitzarà els correus electrònics per a cada hoste afectat. No més copiar i enganxar el mateix missatge 30 vegades. Cada resposta inclou els detalls de la reserva original del client i les alternatives disponibles."
     },
     {
-      "question": "Tenim les mateixes preguntes constantment: \"Veurem balenes?\", \"Què m'he de posar?\", \"Va bé per als nens?\" Chiefy pot gestionar-los?",
-      "answer": "Aquí és exactament on brilla Chiefy. Aprèn les teves respostes estàndard (espècies que veus normalment, què has de portar, polítiques d'edat, consells sobre el mal de mar, hores de sortida) i redacta respostes completes a l'instant. Tu revisa i envia. La majoria dels capitans ens diuen que el 80% de la seva safata d'entrada són les mateixes 10 preguntes i Chiefy les gestiona totes."
+      "question": "Tenim les mateixes preguntes constantment: \"Veurem balenes?\", \"Què m'he de posar?\", \"Va bé per als nens?\" Duet pot gestionar-los?",
+      "answer": "Aquí és exactament on brilla Duet. Aprèn les teves respostes estàndard (espècies que veus normalment, què has de portar, polítiques d'edat, consells sobre el mal de mar, hores de sortida) i redacta respostes completes a l'instant. Tu revisa i envia. La majoria dels capitans ens diuen que el 80% de la seva safata d'entrada són les mateixes 10 preguntes i Duet les gestiona totes."
     }
   ],
   "pricingNote": "Amb 125 dòlars per persona, un grup desat de 6 paga més d'un any de Pro."

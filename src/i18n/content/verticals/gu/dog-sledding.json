@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "ડોગ સ્લેડ ટુર માટે Chiefy | AI ઇમેઇલ સહાયક",
-  "metaDescription": "Chiefy મશર્સને બુકિંગ ઇમેઇલોના જવાબ ઝડપથી આપવા મદદ કરે છે — ટ્રેઇલ પરથી પણ. તમારા ટુર પ્રકારો, કિંમતો, નીતિઓ અને અવાજ સાથે AI દ્વારા તૈયાર કરેલા ડ્રાફ્ટ જવાબો.",
+  "pageTitle": "ડોગ સ્લેડ ટુર માટે Duet Mail | AI ઇમેઇલ સહાયક",
+  "metaDescription": "Duet Mail મશર્સને બુકિંગ ઇમેઇલોના જવાબ ઝડપથી આપવા મદદ કરે છે — ટ્રેઇલ પરથી પણ. તમારા ટુર પ્રકારો, કિંમતો, નીતિઓ અને અવાજ સાથે AI દ્વારા તૈયાર કરેલા ડ્રાફ્ટ જવાબો.",
   "heroBadge": "200+ મશર્સનો વિશ્વાસ",
   "heroHeadline": "તમે ટ્રેઇલ પર હો ત્યારે તમારો ઇમેઇલ સહાયક",
-  "heroSubline": "Chiefy તમારા ટુર પ્રકારો, કિંમતો, હવામાન નીતિઓ અને ઍડ-ઓન્સ શીખે છે — પછી ઇમેઇલ જવાબોના ડ્રાફ્ટ બનાવે છે જેથી ધીમા જવાબને કારણે તમે ક્યારેય બુકિંગ ન ગુમાવો.",
+  "heroSubline": "Duet તમારા ટુર પ્રકારો, કિંમતો, હવામાન નીતિઓ અને ઍડ-ઓન્સ શીખે છે — પછી ઇમેઇલ જવાબોના ડ્રાફ્ટ બનાવે છે જેથી ધીમા જવાબને કારણે તમે ક્યારેય બુકિંગ ન ગુમાવો.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ટુર",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "બચાવેલી બે બુકિંગ Chiefyના એક વર્ષનો ખર્ચ ચૂકવી દે છે."
+    "punchline": "બચાવેલી બે બુકિંગ Duetના એક વર્ષનો ખર્ચ ચૂકવી દે છે."
   },
-  "categorizationSubtitle": "Chiefy દરેક ઇમેઇલને આપમેળે ટેગ કરે છે જેથી તમે પહેલાં બુકિંગ requests, પછી questions જુઓ અને બિનજરૂરી noiseથી દૂર રહો. TripAdvisor alerts નીચે દબાયેલી tour inquiry હવે ચૂકી નહીં જશો.",
-  "draftSubtitle": "Chiefy તમારા ટુર પ્રકારો, કિંમતો અને ટોન શીખે છે. બુકિંગ inquiry આવે ત્યારે તે package વિગતો, શું પહેરવું અને add-ons સાથે સંપૂર્ણ જવાબનો ડ્રાફ્ટ બનાવે છે. તમે review કરીને મોકલો.",
-  "agentSubtitle": "\"આ weekend કોઈ bookings છે?\" \"aurora combo વિશે reply ડ્રાફ્ટ કરો.\" Chiefy તમારું inbox અને schedule જાણે છે — બસ પૂછો.",
+  "categorizationSubtitle": "Duet દરેક ઇમેઇલને આપમેળે ટેગ કરે છે જેથી તમે પહેલાં બુકિંગ requests, પછી questions જુઓ અને બિનજરૂરી noiseથી દૂર રહો. TripAdvisor alerts નીચે દબાયેલી tour inquiry હવે ચૂકી નહીં જશો.",
+  "draftSubtitle": "Duet તમારા ટુર પ્રકારો, કિંમતો અને ટોન શીખે છે. બુકિંગ inquiry આવે ત્યારે તે package વિગતો, શું પહેરવું અને add-ons સાથે સંપૂર્ણ જવાબનો ડ્રાફ્ટ બનાવે છે. તમે review કરીને મોકલો.",
+  "agentSubtitle": "\"આ weekend કોઈ bookings છે?\" \"aurora combo વિશે reply ડ્રાફ્ટ કરો.\" Duet તમારું inbox અને schedule જાણે છે — બસ પૂછો.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Sled Dog Tour Operator, AK",
-      "quote": "હું દિવસમાં 6 કલાક trail પર હોઉં છું અને cell service બિલકુલ નથી. હું પાછો આવું ત્યાં સુધીમાં અડધી booking inquiries કોઈ બીજી outfit પાસે જઈ ચૂકી હોય. Chiefy મારી tour details અને pricing સાથે repliesના drafts બનાવે છે — guestsને hours નહીં, minutesમાં જવાબ મળે છે.",
+      "quote": "હું દિવસમાં 6 કલાક trail પર હોઉં છું અને cell service બિલકુલ નથી. હું પાછો આવું ત્યાં સુધીમાં અડધી booking inquiries કોઈ બીજી outfit પાસે જઈ ચૂકી હોય. Duet મારી tour details અને pricing સાથે repliesના drafts બનાવે છે — guestsને hours નહીં, minutesમાં જવાબ મળે છે.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "અમે kennel visits, mush rides અને aurora combos ઓફર કરીએ છીએ — દરેક ઇમેઇલને અલગ જવાબ જોઈએ. Chiefyએ એક અઠવાડિયામાં ત્રણેય tour types સમજ્યા અને હવે દર વખતે યોગ્ય package સાથે મેળ ખાતા replies drafts કરે છે.",
+      "quote": "અમે kennel visits, mush rides અને aurora combos ઓફર કરીએ છીએ — દરેક ઇમેઇલને અલગ જવાબ જોઈએ. Duetએ એક અઠવાડિયામાં ત્રણેય tour types સમજ્યા અને હવે દર વખતે યોગ્ય package સાથે મેળ ખાતા replies drafts કરે છે.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Dog Sled Guide, MN",
-      "quote": "શું પહેરવું, age limits અને dogs વિશેના એ જ questionsના જવાબ આપવા હું પહેલા દરેક evening ખર્ચતો હતો. Chiefy બધું સંભાળી લે છે. હું trail પરથી ઘરે આવું ત્યારે બધું drafted અને તૈયાર હોય છે.",
+      "quote": "શું પહેરવું, age limits અને dogs વિશેના એ જ questionsના જવાબ આપવા હું પહેલા દરેક evening ખર્ચતો હતો. Duet બધું સંભાળી લે છે. હું trail પરથી ઘરે આવું ત્યારે બધું drafted અને તૈયાર હોય છે.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Winterમાં weather cancellations સતત રહે છે. હું phone check કરું તે પહેલાં જ Chiefy અમારી policy અને alternate dates સાથે rescheduling replies drafts કરી દે છે. Guestsને ઝડપી response ગમે છે.",
+      "quote": "Winterમાં weather cancellations સતત રહે છે. હું phone check કરું તે પહેલાં જ Duet અમારી policy અને alternate dates સાથે rescheduling replies drafts કરી દે છે. Guestsને ઝડપી response ગમે છે.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Family Dog Sled Adventures, CO",
-      "quote": "Parents હંમેશાં પૂછે છે કે તેમના kids mush કરી શકે કે નહીં, dogs friendly છે કે નહીં, શું પહેરવું — એ જ 10 questions. Chiefyએ દરેક answer શીખી લીધો છે અને તેને સારી રીતે drafts કરે છે. Email માટે જાણે મારી નકલ હોય તેમ છે.",
+      "quote": "Parents હંમેશાં પૂછે છે કે તેમના kids mush કરી શકે કે નહીં, dogs friendly છે કે નહીં, શું પહેરવું — એ જ 10 questions. Duetએ દરેક answer શીખી લીધો છે અને તેને સારી રીતે drafts કરે છે. Email માટે જાણે મારી નકલ હોય તેમ છે.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "તમારી free trial શરૂ કરો. 30 secondsમાં તમારું inbox connect કરો.",
   "verticalFaqs": [
     {
-      "question": "Chiefy weather cancellations અને aurora uncertainty કેવી રીતે સંભાળે છે?",
-      "answer": "Chiefy તમારી cancellation અને rescheduling policies શીખે છે. જ્યારે guest weather concerns અથવા aurora visibility વિશે email કરે છે, ત્યારે તે તમારી policy, alternate dates અને સંબંધિત વિગતો સાથે replyનો ડ્રાફ્ટ બનાવે છે — જેમ કે conditions monitor કરવી અને tourની નજીક confirm કરવું. તમે review કરીને મોકલો."
+      "question": "Duet weather cancellations અને aurora uncertainty કેવી રીતે સંભાળે છે?",
+      "answer": "Duet તમારી cancellation અને rescheduling policies શીખે છે. જ્યારે guest weather concerns અથવા aurora visibility વિશે email કરે છે, ત્યારે તે તમારી policy, alternate dates અને સંબંધિત વિગતો સાથે replyનો ડ્રાફ્ટ બનાવે છે — જેમ કે conditions monitor કરવી અને tourની નજીક confirm કરવું. તમે review કરીને મોકલો."
     },
     {
-      "question": "હું જુદી pricing અને add-ons સાથે અનેક tour types આપું છું. શું Chiefy તેમને અલગ રાખી શકે?",
-      "answer": "હા. Chiefy તમારા દરેક tour type — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — તેમની pricing, duration અને શું included છે તેની સાથે શીખે છે. Inquiry આવે ત્યારે તે યોગ્ય tour સાથે match કરે છે અને સાચી વિગતો સાથે replyનો ડ્રાફ્ટ બનાવે છે."
+      "question": "હું જુદી pricing અને add-ons સાથે અનેક tour types આપું છું. શું Duet તેમને અલગ રાખી શકે?",
+      "answer": "હા. Duet તમારા દરેક tour type — kennel visits, mush experiences, aurora combos, photography add-ons, transportation packages — તેમની pricing, duration અને શું included છે તેની સાથે શીખે છે. Inquiry આવે ત્યારે તે યોગ્ય tour સાથે match કરે છે અને સાચી વિગતો સાથે replyનો ડ્રાફ્ટ બનાવે છે."
     }
   ],
   "pricingNote": "$150/tourમાં, બચાવેલી બે બુકિંગ Pro ના એક વર્ષથી વધુનો ખર્ચ ચૂકવી દે છે."

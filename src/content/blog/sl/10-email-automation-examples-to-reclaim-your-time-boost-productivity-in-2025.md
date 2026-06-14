@@ -2,7 +2,7 @@
 title: "10+ primerov avtomatizacije e-pošte, s katerimi si povrnete čas in povečate produktivnost v letu 2025"
 description: "Odkrijte praktične primere avtomatizacije e-pošte za razvrščanje, odgovore, nadaljnje korake in več. Povečajte produktivnost z nasveti in orodji za 2025."
 publishedAt: 2025-04-07
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Produktivnost", "Avtomatizacija", "E-pošta"]
 draft: false
 ---
@@ -35,7 +35,7 @@ Večina e-poštnih odjemalcev, kot sta Gmail in Outlook, ponuja osnovno avtomati
 
 Ste pripravljeni na naslednjo raven? AI e-poštni asistenti razvrščanje premaknejo v povsem novo razsežnost. Orodja, kot je [SaneBox](https://www.sanebox.com/), uporabljajo AI algoritme za analizo vaših e-poštnih navad in samodejno preusmerjajo nepomembna sporočila v ločene mape, kot je "SaneLater", zato glavni nabiralnik ostane namenjen kritičnim sporočilom. Prav tako vas lahko opomnijo na nadaljnje korake pri e-pošti, na katero še ni bilo odgovora.
 
-Naprednejše rešitve gredo še dlje. Tu zasijejo orodja, kot je [Chiefy](https://chiefy.com/sl), z **AI triažo**. Namesto da bi samo filtriral, Chiefy analizira dohodna sporočila ter prepozna nujnost, potrebna dejanja ali odločitve in te ključne elemente prikaže na osredotočeni nadzorni plošči. Tako takoj vidite, kaj zahteva vašo pozornost, brez ročnega pregledovanja vsega, kar močno skrajša čas razvrščanja in poskrbi, da ključna komunikacija ne ostane zakopana.
+Naprednejše rešitve gredo še dlje. Tu zasijejo orodja, kot je [Duet Mail](https://duetmail.com/sl), z **AI triažo**. Namesto da bi samo filtriral, Duet Mail analizira dohodna sporočila ter prepozna nujnost, potrebna dejanja ali odločitve in te ključne elemente prikaže na osredotočeni nadzorni plošči. Tako takoj vidite, kaj zahteva vašo pozornost, brez ročnega pregledovanja vsega, kar močno skrajša čas razvrščanja in poskrbi, da ključna komunikacija ne ostane zakopana.
 
 ## Pametnejša komunikacija: samodejni odgovori in odgovori s pomočjo AI
 
@@ -59,7 +59,7 @@ Predlogo preprosto vstavite, jo po potrebi rahlo prilagodite in pošljete. Tako 
 
 Prava prelomnica je AI, ki pomaga *pisati* e-pošto. Orodja, kot je [Flowrite](https://flowrite.com/), lahko kratka navodila pretvorijo v e-pošto, pripravljeno za pošiljanje. Drugi AI asistenti, kot sta [Compose AI](https://www.compose.ai/) ali Smart Compose v Gmail, med pisanjem ponujajo pametno samodokončanje in predloge.
 
-Najbolj izpopolnjena orodja pa se naučijo vašega edinstvenega komunikacijskega sloga. [Avtentično AI pisanje osnutkov v Chiefy](https://chiefy.com/sl) analizira vaša pretekla poslana sporočila, da razume vaš ton, besedišče in način izražanja. Ko morate odgovoriti, predlaga več kontekstualnih možnosti osnutka, ki zvenijo resnično kot *vi*. To bistveno pospeši odzivni čas, hkrati pa ohrani osebni pristop, ki je ključen za profesionalne odnose.
+Najbolj izpopolnjena orodja pa se naučijo vašega edinstvenega komunikacijskega sloga. [Avtentično AI pisanje osnutkov v Duet Mail](https://duetmail.com/sl) analizira vaša pretekla poslana sporočila, da razume vaš ton, besedišče in način izražanja. Ko morate odgovoriti, predlaga več kontekstualnih možnosti osnutka, ki zvenijo resnično kot *vi*. To bistveno pospeši odzivni čas, hkrati pa ohrani osebni pristop, ki je ključen za profesionalne odnose.
 
 ## Nikoli ne zamudite ritma: avtomatizacija razporejanja in nadaljnjih korakov
 
@@ -111,9 +111,9 @@ Orodja, kot je [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-g
 
 Se ukvarjate z dolgimi e-poštnimi nitmi ali poročili? AI spreminja način, kako te informacije porabljamo. AI orodja lahko samodejno povzamejo dolga sporočila ali celotne niti ter izluščijo ključne točke, odločitve in naloge. [Superhuman](https://superhuman.com/ai) ponuja funkcijo samodejnega povzetka, orodja, kot je Microsoft Copilot v Outlook, pa prav tako omogočajo povzemanje. Platforme, kot sta [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) in [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/), ponujajo namenske AI povzemalnike.
 
-To prihrani ogromno časa pri razumevanju zapletenih pogovorov. [Chiefy vključuje **pametno povzemanje** s kontekstualnim zavedanjem](https://chiefy.com/sl), kar pomeni, da ne le strne dolge niti, temveč si zapomni tudi podrobnosti o projektih in odnosih, omenjenih prej, zato so povzetki zelo relevantni in uporabni.
+To prihrani ogromno časa pri razumevanju zapletenih pogovorov. [Duet Mail vključuje **pametno povzemanje** s kontekstualnim zavedanjem](https://duetmail.com/sl), kar pomeni, da ne le strne dolge niti, temveč si zapomni tudi podrobnosti o projektih in odnosih, omenjenih prej, zato so povzetki zelo relevantni in uporabni.
 
-![Posnetek zaslona, ki prikazuje funkcijo pametnega povzemanja e-pošte v Chiefy, ki dolgo e-poštno nit strne v ključne točke in naloge](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+![Posnetek zaslona, ki prikazuje funkcijo pametnega povzemanja e-pošte v Duet Mail, ki dolgo e-poštno nit strne v ključne točke in naloge](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## Moč avtomatizacije v številkah
 
@@ -135,7 +135,7 @@ Pokrajina "avtomatizacije e-pošte" vključuje različne vrste orodij:
 
 - **Platforme za marketinško avtomatizacijo (MAP):** Orodja, kot so Mailchimp, ActiveCampaign, HubSpot, Klaviyo, Brevo in druga, so zmogljiva za izvajanje velikih e-poštnih marketinških kampanj, upravljanje poti strank, ocenjevanje potencialnih strank in pogosto vključujejo zmogljivosti CRM. Odlična so za marketinške in prodajne ekipe, vendar so lahko pretirana ali manj osredotočena na produktivnost posameznega nabiralnika.
 
-- **AI e-poštni asistenti in orodja za produktivnost:** Orodja, kot so SaneBox, Flowrite, Gmelius, Superhuman in [Chiefy](https://chiefy.com/sl), so zasnovana posebej za izboljšanje e-poštne produktivnosti posameznikov ali ekip. Osredotočajo se na izzive upravljanja nabiralnika, kot so triaža, pisanje osnutkov, povzemanje, sodelovanje in integracija delovnih tokov v e-poštnem okolju. Pogosto so primernejša za zaposlene strokovnjake, freelancerje in znanjske delavce, ki jih vsakodnevna e-pošta preplavlja.
+- **AI e-poštni asistenti in orodja za produktivnost:** Orodja, kot so SaneBox, Flowrite, Gmelius, Superhuman in [Duet Mail](https://duetmail.com/sl), so zasnovana posebej za izboljšanje e-poštne produktivnosti posameznikov ali ekip. Osredotočajo se na izzive upravljanja nabiralnika, kot so triaža, pisanje osnutkov, povzemanje, sodelovanje in integracija delovnih tokov v e-poštnem okolju. Pogosto so primernejša za zaposlene strokovnjake, freelancerje in znanjske delavce, ki jih vsakodnevna e-pošta preplavlja.
 
 Prava izbira je odvisna od vašega glavnega cilja. Če gre za upravljanje kampanj, si oglejte MAP. Če gre za obvladovanje osebnega nabiralnika in vračanje časa, raziščite AI asistente in orodja za produktivnost.
 
@@ -161,4 +161,4 @@ E-pošta vam ni treba jemati časa in energije. S strateško uvedbo avtomatizaci
 
 Od samodejnega razvrščanja in določanja prednosti sporočil do pisanja odgovorov v vašem glasu, povzemanja dolgih niti in zagotavljanja pravočasnih nadaljnjih korakov so možnosti obsežne. Začnite tako, da prepoznate svoje največje e-poštne bolečine in uvedete enega ali dva primera avtomatizacije s tega seznama. Morda boste presenečeni, kako hitro si povrnete nadzor in osredotočenost.
 
-Ste pripravljeni izkusiti upravljanje e-pošte brez stresa, podprto z AI? Raziščite, kako lahko orodja, kot je [Chiefy](https://chiefy.com/sl), poenostavijo vaš nabiralnik z inteligentno triažo, avtentičnim pisanjem osnutkov in pametnim povzemanjem ter vam pomagajo povrniti dragoceni čas za tisto, kar je res pomembno.
+Ste pripravljeni izkusiti upravljanje e-pošte brez stresa, podprto z AI? Raziščite, kako lahko orodja, kot je [Duet Mail](https://duetmail.com/sl), poenostavijo vaš nabiralnik z inteligentno triažo, avtentičnim pisanjem osnutkov in pametnim povzemanjem ter vam pomagajo povrniti dragoceni čas za tisto, kar je res pomembno.

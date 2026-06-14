@@ -2,7 +2,7 @@
 title: "Slik lager du en interaktiv e-postsignatur som fungerer"
 description: "Lar hvordan du lager en interaktiv e-postsignatur som styrker engasjement, merkevare og leads for frilansere og oppstartsteam."
 publishedAt: 2025-06-18
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "E-post"]
 draft: false
 ---
@@ -58,7 +58,7 @@ Bruk lesbar tekst, meningsfulle lenker og alt-tekst for bilder. Ikke la viktig i
 
 ## Slik henger signaturen sammen med bedre e-postarbeid
 
-En god signatur hjelper mottakeren, men den loser ikke innbokskaos alene. Kombiner den med gode arbeidsvaner: korte meldinger, tydelige emnefelt og rask oppfolging. Verktoy som [**Chiefy**](https://chiefy.com/nb) kan hjelpe deg med AI-utkast og triage, slik at både innholdet i meldingen og oppfolgingen blir mer presis.
+En god signatur hjelper mottakeren, men den loser ikke innbokskaos alene. Kombiner den med gode arbeidsvaner: korte meldinger, tydelige emnefelt og rask oppfolging. Verktoy som [**Duet Mail**](https://duetmail.com/nb) kan hjelpe deg med AI-utkast og triage, slik at både innholdet i meldingen og oppfolgingen blir mer presis.
 
 ## Konklusjon
 

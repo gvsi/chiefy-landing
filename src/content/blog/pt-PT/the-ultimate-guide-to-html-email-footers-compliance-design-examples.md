@@ -2,7 +2,7 @@
 title: "O guia definitivo de rodapés de email em HTML: conformidade, design e exemplos"
 description: "Domine rodapés de email em HTML: elementos essenciais, dicas de design, conformidade legal (CAN-SPAM, GDPR, CASL) e exemplos de branding."
 publishedAt: 2026-01-05
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["IA", "Email"]
 draft: false
 ---
@@ -65,4 +65,4 @@ Auditar os seus rodapés regularmente e usar modelos ajuda a evitar esses erros.
 ## Conclusão: faça o seu rodapé trabalhar por o utilizador
 O seu rodapé de email em HTML pode ser a última coisa que os destinatários veem, mas não deveria ser a última em que o utilizador pensa. Ao incorporar elementos legais essenciais, seguir boas práticas de design para clareza e uso em dispositivos móveis, e garantir que todas as informações estejam corretas e funcionais, o utilizador transforma esse pequeno espaço em um ativo valioso.
 Ele constrói confiança, reforça sua marca, garante conformidade e oferece navegação útil ao seu público. Reserve alguns minutos para rever o seu rodapé de email atual. Ele está em conformidade? Está claro? Funciona bem no telemóvel? Pequenas melhorias podem ter grande impacto em como os os seus emails, e a sua marca, são percebidos.
-Procurando formas de tornar a sua gestão geral de email mais eficiente e profissional? Considere explorar ferramentas criadas para profissionais ocupados. Por exemplo, entender como o [Chiefy simplifica a produtividade em email](https://chiefy.com/pt-PT) com funcionalidades baseados em IA pode liberar mais tempo para focar em detalhes como o rodapé e garantir que cada comunicação represente o utilizador bem.
+Procurando formas de tornar a sua gestão geral de email mais eficiente e profissional? Considere explorar ferramentas criadas para profissionais ocupados. Por exemplo, entender como o [Duet Mail simplifica a produtividade em email](https://duetmail.com/pt-PT) com funcionalidades baseados em IA pode liberar mais tempo para focar em detalhes como o rodapé e garantir que cada comunicação represente o utilizador bem.

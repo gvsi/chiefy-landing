@@ -2,7 +2,7 @@
 title: "Inbox Zero Hero: Kako vam upravljanje e-poštom pomoću umjetne inteligencije štedi sate"
 description: "Prestanite se utapati u e-mailovima! Naučite kako alati za upravljanje e-poštom pomoću umjetne inteligencije automatiziraju sortiranje, određivanje prioriteta zadataka i izradu nacrta odgovora kako bi vam uštedjeli sate."
 publishedAt: 2025-09-29
-author: "Chiefy Team"
+author: "Duet Mail Team"
 tags: ["AI", "Upravljanje pristiglom poštom", "E-mail"]
 draft: false
 ---
@@ -59,7 +59,7 @@ Oni procjenjuju različite čimbenike, uključujući:
 
 - **Analiza osjećaja:** neki alati mjere emocionalni ton kako bi identificirali potencijalno kritične probleme.
 
-Ovo je mjesto gdje značajke AI Triage, poput onih u alatima kao što je [Chiefy](https://chiefy.com/hr), stupaju na scenu, automatski prikazujući e-poštu za koju je potrebna radnja ili odluka na fokusiranoj nadzornoj ploči. Prepoznavanjem i isticanjem poruka visokog prioriteta, ovi sustavi dramatično smanjuju vrijeme sortiranja i minimiziraju rizik od propuštanja kritičnih informacija.
+Ovo je mjesto gdje značajke AI Triage, poput onih u alatima kao što je [Duet Mail](https://duetmail.com/hr), stupaju na scenu, automatski prikazujući e-poštu za koju je potrebna radnja ili odluka na fokusiranoj nadzornoj ploči. Prepoznavanjem i isticanjem poruka visokog prioriteta, ovi sustavi dramatično smanjuju vrijeme sortiranja i minimiziraju rizik od propuštanja kritičnih informacija.
 
 ### Crtanje pomoću umjetne inteligencije: brzina i autentičnost
 
@@ -67,7 +67,7 @@ Buljite u prazan prozor za odgovor? AI može pomoći. Mnogi pomoćnici za e-poš
 
 Međutim, uobičajena je zabrinutost da e-poruke generirane umjetnom inteligencijom mogu zvučati općenito ili robotski. Dok osnovna umjetna inteligencija može proizvesti standardni tekst, sofisticirani alati rješavaju ovaj izazov. Ključ je **personalizacija**. Dobri AI pomoćnici omogućuju vam podešavanje tona (formalni, ležerni, prijateljski) i duljine.
 
-Najbolji alati idu dalje, učeći vaše jedinstvene komunikacijske obrasce. Na primjer, [Chiefy](https://chiefy.com/hr) Authentic AI Drafting analizira vaše prethodne e-poruke kako bi generirao odgovore koji stvarno zvuče poput vas, hvatajući vaš vokabular i stilske nijanse. Zapamtite, cilj nije zamijeniti vaš glas, već ga poboljšati. Uvijek pregledajte i dotjerajte AI nacrte kako biste dodali određeni kontekst ili osobni pečat prije nego što pritisnete Pošalji.
+Najbolji alati idu dalje, učeći vaše jedinstvene komunikacijske obrasce. Na primjer, [Duet Mail](https://duetmail.com/hr) Authentic AI Drafting analizira vaše prethodne e-poruke kako bi generirao odgovore koji stvarno zvuče poput vas, hvatajući vaš vokabular i stilske nijanse. Zapamtite, cilj nije zamijeniti vaš glas, već ga poboljšati. Uvijek pregledajte i dotjerajte AI nacrte kako biste dodali određeni kontekst ili osobni pečat prije nego što pritisnete Pošalji.
 
 ### Kroćenje dugih niti pomoću AI sažimanja
 
@@ -79,7 +79,7 @@ Postoje dva glavna pristupa:
 
 - **Apstraktno sažimanje:** Razumije kontekst i stvara *nove* rečenice za prenošenje temeljnog značenja, što često rezultira tečnijim sažetcima.
 
-Bez obzira na metodu, korist je jasna: shvaćate bit razgovora u sekundama, a ne u minutama. [Gartnerova studija](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) pokazala je da AI sažimanje može povećati produktivnost korisnika do 32%. AI Summarization, poput značajke Smart Summarization u [Chiefy](https://chiefy.com/hr), brzo izdvaja ključne točke i radnje, čak se prisjeća konteksta iz prethodnih interakcija, štedeći vam neprocjenjivo vrijeme za čitanje.
+Bez obzira na metodu, korist je jasna: shvaćate bit razgovora u sekundama, a ne u minutama. [Gartnerova studija](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) pokazala je da AI sažimanje može povećati produktivnost korisnika do 32%. AI Summarization, poput značajke Smart Summarization u [Duet Mail](https://duetmail.com/hr), brzo izdvaja ključne točke i radnje, čak se prisjeća konteksta iz prethodnih interakcija, štedeći vam neprocjenjivo vrijeme za čitanje.
 
 
 AI sažimanje sažima duge nizove e-pošte u ključne točke, čime se značajno štedi vrijeme čitanja.

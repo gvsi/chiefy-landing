@@ -1,4 +1,4 @@
-// Generated from https://chiefy.com – do not hand-edit.
+// Generated from https://duetmail.com – do not hand-edit.
 export type HomeLogoPath = { d: string; evenodd?: boolean }
 export type HomeLogo = { name: string; color: string; viewBox: string; paths: HomeLogoPath[] }
 

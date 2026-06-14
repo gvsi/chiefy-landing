@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Chiefy para lojas de mergulho | Assistente de e-mail com IA",
-  "metaDescription": "O Chiefy ajuda donos de lojas de mergulho e instrutores PADI a responder consultas de certificação, reservas de passeios e perguntas sobre equipamentos instantaneamente — até debaixo d'água.",
+  "pageTitle": "Duet Mail para lojas de mergulho | Assistente de e-mail com IA",
+  "metaDescription": "O Duet Mail ajuda donos de lojas de mergulho e instrutores PADI a responder consultas de certificação, reservas de passeios e perguntas sobre equipamentos instantaneamente — até debaixo d'água.",
   "heroBadge": "Usado por mais de 300 operadores de mergulho",
   "heroHeadline": "Seu assistente de e-mail enquanto você está debaixo d'água",
-  "heroSubline": "O Chiefy aprende seus pontos de mergulho, requisitos de certificação, preços e tom — e então redige respostas de e-mail para você não perder nenhuma reserva enquanto está no barco.",
+  "heroSubline": "O Duet aprende seus pontos de mergulho, requisitos de certificação, preços e tom — e então redige respostas de e-mail para você não perder nenhuma reserva enquanto está no barco.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "mergulho",
     "lostPerMonth": "3 viagens (6 mergulhadores cada)",
     "monthlyLoss": "$2,700",
-    "punchline": "Um mergulho em grupo recuperado paga um ano de Chiefy."
+    "punchline": "Um mergulho em grupo recuperado paga um ano de Duet."
   },
-  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para você ver consultas de certificação e reservas de mergulho primeiro, perguntas sobre equipamento em seguida e alertas da PADI quando estiver pronto. Chega de perder uma reserva de grupo enterrada sob newsletters de equipamentos.",
-  "draftSubtitle": "O Chiefy aprende seus pontos de mergulho, requisitos de certificação e preços. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da saída, o que está incluído e o que levar. Você revisa e envia.",
-  "agentSubtitle": "\"Quantos mergulhadores estão reservados para sábado?\" \"Redija uma resposta para Rachel com a disponibilidade do Open Water.\" O Chiefy conhece sua caixa de entrada e sua agenda — é só perguntar.",
+  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver consultas de certificação e reservas de mergulho primeiro, perguntas sobre equipamento em seguida e alertas da PADI quando estiver pronto. Chega de perder uma reserva de grupo enterrada sob newsletters de equipamentos.",
+  "draftSubtitle": "O Duet aprende seus pontos de mergulho, requisitos de certificação e preços. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da saída, o que está incluído e o que levar. Você revisa e envia.",
+  "agentSubtitle": "\"Quantos mergulhadores estão reservados para sábado?\" \"Redija uma resposta para Rachel com a disponibilidade do Open Water.\" O Duet conhece sua caixa de entrada e sua agenda — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Mike T.",
       "title": "Capitão de barco de mergulho, FL",
-      "quote": "Faço saídas de barco de sexta a domingo e a loja só abre por algumas horas na segunda. Perguntas de certificação e consultas de passeio se acumulam enquanto estou debaixo d'água. O Chiefy redige respostas com meus preços, pontos de mergulho e o que está incluído — eu reviso entre mergulhos.",
+      "quote": "Faço saídas de barco de sexta a domingo e a loja só abre por algumas horas na segunda. Perguntas de certificação e consultas de passeio se acumulam enquanto estou debaixo d'água. O Duet redige respostas com meus preços, pontos de mergulho e o que está incluído — eu reviso entre mergulhos.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Centro de mergulho PADI, HI",
-      "quote": "Fazemos mergulhos, passeios de snorkel e observação de baleias nos mesmos barcos. A variedade de emails é absurda — perguntas de certificação, reservas de grupo, aluguel de equipamento, checagens de clima. O Chiefy organiza tudo e redige respostas que sabem a diferença. Um salva-vidas absoluto.",
+      "quote": "Fazemos mergulhos, passeios de snorkel e observação de baleias nos mesmos barcos. A variedade de emails é absurda — perguntas de certificação, reservas de grupo, aluguel de equipamento, checagens de clima. O Duet organiza tudo e redige respostas que sabem a diferença. Um salva-vidas absoluto.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Charters de mergulho em naufrágios, FL",
-      "quote": "Metade dos meus emails é \"que certificação preciso para os mergulhos em naufrágio?\" e a outra metade é \"preciso do meu próprio equipamento?\". O Chiefy resolve os dois no automático. Meu tempo de resposta caiu de horas para minutos.",
+      "quote": "Metade dos meus emails é \"que certificação preciso para os mergulhos em naufrágio?\" e a outra metade é \"preciso do meu próprio equipamento?\". O Duet resolve os dois no automático. Meu tempo de resposta caiu de horas para minutos.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Dona de loja de mergulho, CA",
-      "quote": "No verão, recebemos mais de 30 emails por dia sobre cursos, disponibilidade de saídas e equipamentos. Eu estava perdendo reservas para lojas que respondiam mais rápido. Agora o Chiefy redige tudo e eu só envio entre as aulas.",
+      "quote": "No verão, recebemos mais de 30 emails por dia sobre cursos, disponibilidade de saídas e equipamentos. Eu estava perdendo reservas para lojas que respondiam mais rápido. Agora o Duet redige tudo e eu só envio entre as aulas.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Instrutora e guia de mergulho, NC",
-      "quote": "Dou cursos de manhã e guio mergulhos à tarde. Literalmente não sobra tempo para responder email. O Chiefy aprendeu minha agenda de cursos, preços e até minha política de cancelamento. Os clientes não percebem diferença.",
+      "quote": "Dou cursos de manhã e guio mergulhos à tarde. Literalmente não sobra tempo para responder email. O Duet aprendeu minha agenda de cursos, preços e até minha política de cancelamento. Os clientes não percebem diferença.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "O Chiefy entende níveis de certificação e requisitos dos cursos?",
-      "answer": "Sim. O Chiefy aprende seus cursos específicos — Open Water, Advanced, Rescue, Divemaster — junto com pré-requisitos, duração, preços e o que está incluído. Quando alguém pergunta sobre se certificar, o Chiefy redige uma resposta com os detalhes certos do curso, agenda e próximos passos. Você revisa e envia."
+      "question": "O Duet entende níveis de certificação e requisitos dos cursos?",
+      "answer": "Sim. O Duet aprende seus cursos específicos — Open Water, Advanced, Rescue, Divemaster — junto com pré-requisitos, duração, preços e o que está incluído. Quando alguém pergunta sobre se certificar, o Duet redige uma resposta com os detalhes certos do curso, agenda e próximos passos. Você revisa e envia."
     },
     {
-      "question": "Fico no barco ou debaixo d'água o dia todo. Posso usar o Chiefy pelo celular?",
-      "answer": "Sim. O Chiefy funciona com Gmail e Outlook, então funciona onde seu email funciona — inclusive no celular. Os rascunhos aparecem automaticamente na sua caixa de entrada. Entre mergulhos ou de volta ao píer, você revisa e envia com um toque. A maioria dos operadores de mergulho nos diz que economiza 1-2 horas de email por dia durante a alta temporada."
+      "question": "Fico no barco ou debaixo d'água o dia todo. Posso usar o Duet pelo celular?",
+      "answer": "Sim. O Duet funciona com Gmail e Outlook, então funciona onde seu email funciona — inclusive no celular. Os rascunhos aparecem automaticamente na sua caixa de entrada. Entre mergulhos ou de volta ao píer, você revisa e envia com um toque. A maioria dos operadores de mergulho nos diz que economiza 1-2 horas de email por dia durante a alta temporada."
     }
   ],
   "pricingNote": "Com $150/mergulho para um grupo de 6, uma saída recuperada paga mais de um ano de Pro."

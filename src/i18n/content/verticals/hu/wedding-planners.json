@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Chiefy esküvőszervezőknek | AI e-mail asszisztens",
-  "metaDescription": "A Chiefy segít az esküvőszervezőknek, hogy azonnal válaszoljanak az ügyfelek és az eladók e-mailjeire – akár a helyszíni bemutatókból is. AI által készített válaszok csomagjaival, szállítói kapcsolataival és hangjával.",
+  "pageTitle": "Duet Mail esküvőszervezőknek | AI e-mail asszisztens",
+  "metaDescription": "A Duet Mail segít az esküvőszervezőknek, hogy azonnal válaszoljanak az ügyfelek és az eladók e-mailjeire – akár a helyszíni bemutatókból is. AI által készített válaszok csomagjaival, szállítói kapcsolataival és hangjával.",
   "heroBadge": "Több mint 400 esküvőszervező megbízik benne",
   "heroHeadline": "Az Ön e-mail asszisztense, amíg a helyszínen tartózkodik",
-  "heroSubline": "A Chiefy megtanulja a szállító kapcsolatait, a csomagokat és az ügyfelek beállításait – majd e-mail-válaszokat készít, így a párok soha nem várnak, amíg Ön a helyszínen koordinál.",
+  "heroSubline": "A Duet megtanulja a szállító kapcsolatait, a csomagokat és az ügyfelek beállításait – majd e-mail-válaszokat készít, így a párok soha nem várnak, amíg Ön a helyszínen koordinál.",
   "inboxEmails": [
     {
       "from": "Emily és James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "esküvő",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Egy megmentett ügyfél több mint 20 évnyi Chiefyért fizet."
+    "punchline": "Egy megmentett ügyfél több mint 20 évnyi Duetért fizet."
   },
-  "categorizationSubtitle": "A Chiefy minden e-mailt automatikusan megcímkéz, így először az új párok megkereséseit látja, másodsorban a szállítói visszaigazolásokat, és soha nem hallja a hírlevél zaját. Nincs többé hiányzó foglalási kérés a csomó riasztások alatt.",
-  "draftSubtitle": "A Chiefy megtanulja a csomagokat, a preferált szállítókat és a hangszínt. Amikor egy pár érdeklődik, meleg, teljes választ készít az elérhetőségéről és a következő lépésekről. Te átnézed és elküldöd.",
-  "agentSubtitle": "– Milyen eladói e-mailek érkeztek a thompsoni esküvőre? \"Szombatra készítsen idővonal-frissítést minden szállító számára.\" A Chiefy ismeri a beérkezett üzeneteket és az ügyfeleket – csak kérdezzen.",
+  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először az új párok megkereséseit látja, másodsorban a szállítói visszaigazolásokat, és soha nem hallja a hírlevél zaját. Nincs többé hiányzó foglalási kérés a csomó riasztások alatt.",
+  "draftSubtitle": "A Duet megtanulja a csomagokat, a preferált szállítókat és a hangszínt. Amikor egy pár érdeklődik, meleg, teljes választ készít az elérhetőségéről és a következő lépésekről. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Milyen eladói e-mailek érkeztek a thompsoni esküvőre? \"Szombatra készítsen idővonal-frissítést minden szállító számára.\" A Duet ismeri a beérkezett üzeneteket és az ügyfeleket – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Emily és James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Esküvőszervező, CO",
-      "quote": "A hetem felében hegyi helyszíneken vagyok nulla cellás kiszolgálással. Eközben párok e-mailt küldenek nekem az idővonalakról és az eladókkal kapcsolatos kérdésekről. A Chiefy piszkozatai a pontos csomagommal és hangnemekkel válaszolnak – átnézem őket, amikor újra a hatótávolságon belül vagyok.",
+      "quote": "A hetem felében hegyi helyszíneken vagyok nulla cellás kiszolgálással. Eközben párok e-mailt küldenek nekem az idővonalakról és az eladókkal kapcsolatos kérdésekről. A Duet piszkozatai a pontos csomagommal és hangnemekkel válaszolnak – átnézem őket, amikor újra a hatótávolságon belül vagyok.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Teljes körű esküvőszervező, CA",
-      "quote": "Ha esküvőnként több mint 10 eladót koordinál, a postafiókom a főszezonban háborús övezet. A Chiefy külön kategorizálja a szállítói e-maileket az ügyfelek e-mailjeitől és az általam írt nyomon követési piszkozatoktól. Most már tényleg alszom.",
+      "quote": "Ha esküvőnként több mint 10 eladót koordinál, a postafiókom a főszezonban háborús övezet. A Duet külön kategorizálja a szállítói e-maileket az ügyfelek e-mailjeitől és az általam írt nyomon követési piszkozatoktól. Most már tényleg alszom.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Koordinátor napja, TX",
-      "quote": "Az esküvő napján 14 órán keresztül nem vagyok elérhető. Az új megkeresések hétfőig megválaszolatlanul maradtak. Most a Chiefy azonnal kezeli őket, és ebben a negyedévben 3 extra esküvőt foglaltam le pusztán a gyorsabb válaszidő miatt.",
+      "quote": "Az esküvő napján 14 órán keresztül nem vagyok elérhető. Az új megkeresések hétfőig megválaszolatlanul maradtak. Most a Duet azonnal kezeli őket, és ebben a negyedévben 3 extra esküvőt foglaltam le pusztán a gyorsabb válaszidő miatt.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Úticél esküvőszervező, HI",
-      "quote": "A párjaim a világ minden tájáról repülnek, és minden órában leveleznek. A Chiefy megtanulta a GYIK-re adott válaszaimat – a helyszín logisztikája, a helyi szállítók, mire számíthat – és olyan válaszvázlatokat, amelyek pontosan úgy hangzanak, mint én. Az ügyfeleknek fogalmuk sincs.",
+      "quote": "A párjaim a világ minden tájáról repülnek, és minden órában leveleznek. A Duet megtanulta a GYIK-re adott válaszaimat – a helyszín logisztikája, a helyi szállítók, mire számíthat – és olyan válaszvázlatokat, amelyek pontosan úgy hangzanak, mint én. Az ügyfeleknek fogalmuk sincs.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Esküvő- és rendezvényszervező, NY",
-      "quote": "Minden este 2 órát töltöttem ugyanarra a csomagra és a rendelkezésre állásra vonatkozó kérdések megválaszolásával. A Chiefy kezeli az ismétlődő dolgokat, így arra a kreatív munkára koncentrálhatok, amelyet valójában szeretek. Már az első héten megtérült.",
+      "quote": "Minden este 2 órát töltöttem ugyanarra a csomagra és a rendelkezésre állásra vonatkozó kérdések megválaszolásával. A Duet kezeli az ismétlődő dolgokat, így arra a kreatív munkára koncentrálhatok, amelyet valójában szeretek. Már az első héten megtérült.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "A Chiefy működik az összes szállítói koordinációs e-maillel?",
-      "answer": "Igen. A Chiefy megtanulja a szállítói kapcsolattartóit, az előnyben részesített szállítókat és azt, hogyan kommunikál velük. Esküvő szerint kategorizálja a szállítók e-mailjeit, és a válaszok piszkozatait a megfelelő részletekkel – visszaigazolásokkal, nyomon követéssel, idővonal-frissítésekkel – készíti el. Te átnézed és elküldöd. Kezeli a virágüzleteket, vendéglátókat, helyszíneket, DJ-ket, fotósokat és minden más eladót a rolodexben."
+      "question": "A Duet működik az összes szállítói koordinációs e-maillel?",
+      "answer": "Igen. A Duet megtanulja a szállítói kapcsolattartóit, az előnyben részesített szállítókat és azt, hogyan kommunikál velük. Esküvő szerint kategorizálja a szállítók e-mailjeit, és a válaszok piszkozatait a megfelelő részletekkel – visszaigazolásokkal, nyomon követéssel, idővonal-frissítésekkel – készíti el. Te átnézed és elküldöd. Kezeli a virágüzleteket, vendéglátókat, helyszíneket, DJ-ket, fotósokat és minden más eladót a rolodexben."
     },
     {
       "question": "Egész nap a helyszínen vagyok esküvőkön és helyszíneken. Lemaradok az új megkeresésekről?",
-      "answer": "A Chiefy pontosan ezt oldja meg. Amikor néhány e-mailt kérdez az elérhetőségről vagy a csomagokról, miközben Ön a helyszínen koordinálja, a Chiefy meleg, professzionális választ készít a tényleges elérhetőségről és a következő lépésekről. Áttekintheti és elküldheti, amikor szabadon van – akár telefonjáról is az események között. A legtöbb tervező azt mondja, hogy a csúcsszezonban napi 1-2 óra e-mail-időt takarít meg."
+      "answer": "A Duet pontosan ezt oldja meg. Amikor néhány e-mailt kérdez az elérhetőségről vagy a csomagokról, miközben Ön a helyszínen koordinálja, a Duet meleg, professzionális választ készít a tényleges elérhetőségről és a következő lépésekről. Áttekintheti és elküldheti, amikor szabadon van – akár telefonjáról is az események között. A legtöbb tervező azt mondja, hogy a csúcsszezonban napi 1-2 óra e-mail-időt takarít meg."
     }
   ],
   "pricingNote": "Esküvőnként 8000 dollárért egy megtakarított ügyfél több mint 20 évnyi Pro-ért fizet."

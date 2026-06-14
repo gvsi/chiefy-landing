@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Chiefy cho Chuyến Bay Khinh Khí Cầu | Trợ Lý Email AI",
-  "metaDescription": "Chiefy giúp phi công khinh khí cầu trả lời email đặt chỗ ngay lập tức — ngay cả trong các chuyến bay lúc bình minh. Trả lời được AI soạn thảo với giá cả, chính sách thời tiết và giọng điệu của bạn.",
+  "pageTitle": "Duet Mail cho Chuyến Bay Khinh Khí Cầu | Trợ Lý Email AI",
+  "metaDescription": "Duet Mail giúp phi công khinh khí cầu trả lời email đặt chỗ ngay lập tức — ngay cả trong các chuyến bay lúc bình minh. Trả lời được AI soạn thảo với giá cả, chính sách thời tiết và giọng điệu của bạn.",
   "heroBadge": "Được tin dùng bởi hơn 200 phi công khinh khí cầu",
   "heroHeadline": "Trợ lý email của bạn khi bạn đang trên không",
-  "heroSubline": "Chiefy học lịch bay, giá cả và chính sách thời tiết của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang khởi hành lúc bình minh.",
+  "heroSubline": "Duet học lịch bay, giá cả và chính sách thời tiết của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang khởi hành lúc bình minh.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "chuyến bay",
     "lostPerMonth": "2",
     "monthlyLoss": "2.000$",
-    "punchline": "Một chuyến bay được giữ chỗ bù cho một năm dùng Chiefy."
+    "punchline": "Một chuyến bay được giữ chỗ bù cho một năm dùng Duet."
   },
-  "categorizationSubtitle": "Chiefy tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi về thời tiết sau, và không bao giờ bị làm phiền bởi tin nhắn rác. Không còn bỏ lỡ yêu cầu chuyến bay bị chôn dưới các thông báo bản tin.",
-  "draftSubtitle": "Chiefy học giá cả, chính sách thời tiết và giọng điệu của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến bay, thông tin gặp mặt và hướng dẫn mặc đồ. Bạn duyệt và gửi.",
-  "agentSubtitle": "\"Ai có mặt trong danh sách chuyến bay ngày mai?\" \"Có hủy chuyến do thời tiết cần dời lịch không?\" Chiefy biết hộp thư và lịch của bạn — chỉ cần hỏi.",
+  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi về thời tiết sau, và không bao giờ bị làm phiền bởi tin nhắn rác. Không còn bỏ lỡ yêu cầu chuyến bay bị chôn dưới các thông báo bản tin.",
+  "draftSubtitle": "Duet học giá cả, chính sách thời tiết và giọng điệu của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến bay, thông tin gặp mặt và hướng dẫn mặc đồ. Bạn duyệt và gửi.",
+  "agentSubtitle": "\"Ai có mặt trong danh sách chuyến bay ngày mai?\" \"Có hủy chuyến do thời tiết cần dời lịch không?\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Đội trưởng Mike L.",
       "title": "Phi công khinh khí cầu, MN",
-      "quote": "Tôi tự làm mọi việc — bay, hỗ trợ, trả lời email. Trừ lúc 5 giờ sáng tôi đang bơm bóng, không trả lời. Chiefy soạn trả lời cho mọi email 'chúng ta có bay ngày mai không?' qua đêm. Tôi thức dậy, kiểm tra thời tiết và gửi đi.",
+      "quote": "Tôi tự làm mọi việc — bay, hỗ trợ, trả lời email. Trừ lúc 5 giờ sáng tôi đang bơm bóng, không trả lời. Duet soạn trả lời cho mọi email 'chúng ta có bay ngày mai không?' qua đêm. Tôi thức dậy, kiểm tra thời tiết và gửi đi.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "Tour khinh khí cầu quanh năm, UT",
-      "quote": "Chúng tôi nhận cùng 10 câu hỏi mỗi ngày. Nên mặc gì, gặp ở đâu, nếu gió thì sao. Chiefy học hết và giờ soạn trả lời hoàn hảo. Từ một giờ trả lời email mỗi tối giờ còn năm phút.",
+      "quote": "Chúng tôi nhận cùng 10 câu hỏi mỗi ngày. Nên mặc gì, gặp ở đâu, nếu gió thì sao. Duet học hết và giờ soạn trả lời hoàn hảo. Từ một giờ trả lời email mỗi tối giờ còn năm phút.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Nhà điều hành chuyến bay bình minh, AZ",
-      "quote": "Mùa cao điểm có 4-6 chuyến bay mỗi tuần và mỗi hành khách gửi ít nhất hai email trước chuyến bay. Chiefy xử lý các câu hỏi trước chuyến bay để tôi tập trung mang đến buổi sáng tuyệt vời nhất cho mọi người.",
+      "quote": "Mùa cao điểm có 4-6 chuyến bay mỗi tuần và mỗi hành khách gửi ít nhất hai email trước chuyến bay. Duet xử lý các câu hỏi trước chuyến bay để tôi tập trung mang đến buổi sáng tuyệt vời nhất cho mọi người.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Đồng sở hữu công ty khinh khí cầu, NM",
-      "quote": "Hủy chuyến do thời tiết từng làm hỏng cả ngày của tôi — 8 hành khách cần email dời lịch cá nhân. Giờ Chiefy soạn mọi email kèm chính sách đặt lại của chúng tôi. Tiết kiệm hàng giờ vào sáng hủy chuyến.",
+      "quote": "Hủy chuyến do thời tiết từng làm hỏng cả ngày của tôi — 8 hành khách cần email dời lịch cá nhân. Giờ Duet soạn mọi email kèm chính sách đặt lại của chúng tôi. Tiết kiệm hàng giờ vào sáng hủy chuyến.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Điều hành chuyến bay khinh khí cầu, CO",
-      "quote": "Chuyến bay cầu hôn cần phối hợp rất nhiều. Chiefy hiểu cách chúng tôi xử lý — thời gian, mật mã, chuẩn bị champagne. Nó soạn trả lời mà tôi hầu như không phải chỉnh sửa.",
+      "quote": "Chuyến bay cầu hôn cần phối hợp rất nhiều. Duet hiểu cách chúng tôi xử lý — thời gian, mật mã, chuẩn bị champagne. Nó soạn trả lời mà tôi hầu như không phải chỉnh sửa.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Chiefy xử lý email hủy chuyến do thời tiết thế nào?",
-      "answer": "Chiefy học chính sách hủy và đặt lại của bạn. Khi bạn hủy chuyến do thời tiết, nó có thể soạn email dời lịch cá nhân cho từng hành khách bị ảnh hưởng — với chính sách, ngày khả dụng và giọng điệu của bạn. Bạn duyệt và gửi. Việc từng trả lời riêng lẻ từng mất một giờ giờ chỉ còn vài phút."
+      "question": "Duet xử lý email hủy chuyến do thời tiết thế nào?",
+      "answer": "Duet học chính sách hủy và đặt lại của bạn. Khi bạn hủy chuyến do thời tiết, nó có thể soạn email dời lịch cá nhân cho từng hành khách bị ảnh hưởng — với chính sách, ngày khả dụng và giọng điệu của bạn. Bạn duyệt và gửi. Việc từng trả lời riêng lẻ từng mất một giờ giờ chỉ còn vài phút."
     },
     {
-      "question": "Chiefy có xử lý được email 'chúng ta có bay ngày mai không?' gửi đến mỗi tối không?",
-      "answer": "Có — đây là một trong những email phổ biến nhất mà các nhà điều hành khinh khí cầu nói với chúng tôi. Chiefy học chính sách thời tiết của bạn và soạn trả lời trấn an giải thích quy trình quyết định, khi nào bạn sẽ đưa ra quyết định cuối cùng và những gì mong đợi. Khi bạn xác nhận bay hay không vào buổi sáng, nó có thể soạn cập nhật cho mọi người trong danh sách chuyến bay."
+      "question": "Duet có xử lý được email 'chúng ta có bay ngày mai không?' gửi đến mỗi tối không?",
+      "answer": "Có — đây là một trong những email phổ biến nhất mà các nhà điều hành khinh khí cầu nói với chúng tôi. Duet học chính sách thời tiết của bạn và soạn trả lời trấn an giải thích quy trình quyết định, khi nào bạn sẽ đưa ra quyết định cuối cùng và những gì mong đợi. Khi bạn xác nhận bay hay không vào buổi sáng, nó có thể soạn cập nhật cho mọi người trong danh sách chuyến bay."
     }
   ],
   "pricingNote": "Với giá 250$/người và 4 hành khách mỗi chuyến, một đặt chỗ được giữ bù cho hơn một năm dùng Pro."
