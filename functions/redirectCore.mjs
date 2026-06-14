@@ -170,35 +170,58 @@ function canonicalLocalePrefixedPath(pathname) {
     return pathname
 }
 
+export function computeCanonicalPathname(pathname) {
+    let next = pathname
+    for (let index = 0; index < 3; index += 1) {
+        const before = next
+
+        const localeCanonical = canonicalLocalePrefixedPath(next)
+        if (localeCanonical !== next) next = localeCanonical
+
+        let htmlCanonical = stripHtmlExtension(next)
+        if (htmlCanonical !== next) htmlCanonical = canonicalizeHomepageIndex(htmlCanonical)
+        if (htmlCanonical !== next && isKnownHtmlRoute(htmlCanonical)) next = htmlCanonical
+
+        const indexCanonical = canonicalizeHomepageIndex(next)
+        if (indexCanonical !== next && isKnownHtmlRoute(indexCanonical)) next = indexCanonical
+
+        const slashCanonical = withoutTrailingSlash(next)
+        if (slashCanonical !== next && isKnownHtmlRoute(slashCanonical)) next = slashCanonical
+
+        if (next === before) break
+    }
+    return next
+}
+
 export function computeCanonicalRedirect(request) {
     const url = new URL(request.url)
-    const originalPathname = url.pathname
-    let pathname = originalPathname
-
-    for (let index = 0; index < 3; index += 1) {
-        const before = pathname
-
-        const localeCanonical = canonicalLocalePrefixedPath(pathname)
-        if (localeCanonical !== pathname) pathname = localeCanonical
-
-        let htmlCanonical = stripHtmlExtension(pathname)
-        if (htmlCanonical !== pathname) htmlCanonical = canonicalizeHomepageIndex(htmlCanonical)
-        if (htmlCanonical !== pathname && isKnownHtmlRoute(htmlCanonical)) pathname = htmlCanonical
-
-        const indexCanonical = canonicalizeHomepageIndex(pathname)
-        if (indexCanonical !== pathname && isKnownHtmlRoute(indexCanonical)) pathname = indexCanonical
-
-        const slashCanonical = withoutTrailingSlash(pathname)
-        if (slashCanonical !== pathname && isKnownHtmlRoute(slashCanonical)) pathname = slashCanonical
-
-        if (pathname === before) break
-    }
-
-    if (pathname === originalPathname) return null
+    const pathname = computeCanonicalPathname(url.pathname)
+    if (pathname === url.pathname) return null
 
     const target = new URL(request.url)
     target.pathname = pathname
     return target.toString()
+}
+
+const FLIP_REDIRECT_HOSTS = new Set(["duetmail.com", "www.duetmail.com"])
+
+function isLegalPath(pathname) {
+    const parts = pathname.split("/").filter(Boolean)
+    const offset = parts[0] && SUPPORTED_LOCALES.has(parts[0]) ? 1 : 0
+    // Exact legal route only (mirrors isKnownHtmlRoute): "/privacy" is legal,
+    // "/privacy/foo" is NOT (must still flip). Length check prevents non-legal
+    // subpaths from being wrongly exempted.
+    return LEGAL_PAGES.has(parts[offset]) && parts.length === offset + 1
+}
+
+export function computeFlipRedirect(request, env) {
+    const flag = env && env.FLIP_301
+    if (flag !== true && flag !== "on" && flag !== "true") return null
+    const url = new URL(request.url)
+    if (!FLIP_REDIRECT_HOSTS.has(url.hostname)) return null
+    const canonicalPath = computeCanonicalPathname(url.pathname)
+    if (isLegalPath(canonicalPath)) return null
+    return `https://chiefy.com${canonicalPath}${url.search}`
 }
 
 export function redirectResponse(location, status = 301) {
@@ -234,7 +257,12 @@ export function computeWwwToApexRedirect(request) {
     return target.toString()
 }
 
-export async function handleLandingRequest(request, next) {
+export async function handleLandingRequest(request, env, next) {
+    // Flip first: when FLIP_301 is on, www.duetmail.com is in FLIP_REDIRECT_HOSTS,
+    // so it goes straight to chiefy.com in a single (canonicalized) hop. When flip
+    // is off (dark default), this is null and www→apex handles host normalization.
+    const flipLocation = computeFlipRedirect(request, env)
+    if (flipLocation) return redirectResponse(flipLocation)
     const wwwLocation = computeWwwToApexRedirect(request)
     if (wwwLocation) return redirectResponse(wwwLocation)
     const redirectLocation = computeCanonicalRedirect(request)

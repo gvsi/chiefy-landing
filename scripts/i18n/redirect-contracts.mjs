@@ -8,6 +8,7 @@ import {
     LANDING_SECURITY_HEADERS,
     computeCanonicalRedirect,
     computeWwwToApexRedirect,
+    computeFlipRedirect,
     handleLandingRequest,
 } from "../../functions/redirectCore.mjs"
 
@@ -51,11 +52,12 @@ async function assertFixtures() {
         fail("Redirect fixtures drifted. Run node scripts/i18n/redirect-contracts.mjs --write-fixtures if intentional.")
     }
 
-    const redirectResponse = await handleLandingRequest(new Request("https://chiefy.com/pt"), async () => new Response("ok"))
+    const redirectResponse = await handleLandingRequest(new Request("https://duetmail.com/pt"), {}, async () => new Response("ok"))
     assertSecurityHeaders(redirectResponse, "redirect response")
 
     const passThroughResponse = await handleLandingRequest(
-        new Request("https://chiefy.com/de"),
+        new Request("https://duetmail.com/de"),
+        {},
         async () =>
             new Response("ok", {
                 headers: {
@@ -67,6 +69,53 @@ async function assertFixtures() {
     )
     assertSecurityHeaders(passThroughResponse, "pass-through response")
     if (passThroughResponse.headers.get("X-Keep") !== "yes") fail("Pass-through response did not preserve unrelated header")
+}
+
+async function assertFlipRedirects() {
+    // FLIP_301 ON: duetmail.com / www.duetmail.com → chiefy.com, canonical path + query preserved.
+    const flipOn = { FLIP_301: "on" }
+    const flipCases = [
+        ["https://duetmail.com/for/sales?x=1", "https://chiefy.com/for/sales?x=1"],
+        ["https://www.duetmail.com/blog/x", "https://chiefy.com/blog/x"],
+        // Non-legal SUBpaths must STILL flip (proves parts.length === offset + 1 exactness).
+        ["https://duetmail.com/privacy/foo", "https://chiefy.com/privacy/foo"],
+        ["https://duetmail.com/pt-BR/terms/old", "https://chiefy.com/pt-BR/terms/old"],
+    ]
+    for (const [input, expected] of flipCases) {
+        const location = computeFlipRedirect(new Request(input), flipOn)
+        if (location !== expected) fail(`FLIP_301 on: ${input} → expected ${expected}, got ${location}`)
+        const response = await handleLandingRequest(new Request(input), flipOn, async () => new Response("ok"))
+        if (response.status !== 301) fail(`FLIP_301 on: ${input} expected 301, got ${response.status}`)
+        if (response.headers.get("Location") !== expected) {
+            fail(`FLIP_301 on: ${input} Location expected ${expected}, got ${response.headers.get("Location")}`)
+        }
+        assertSecurityHeaders(response, `flip response ${input}`)
+    }
+
+    // FLIP_301 ON: legal pages (across aliases/.html/locale prefixes) are EXEMPT — no flip.
+    const legalExempt = [
+        "https://duetmail.com/privacy",
+        "https://duetmail.com/pt-BR/terms",
+        "https://duetmail.com/pt/privacy",
+        "https://duetmail.com/privacy.html",
+    ]
+    for (const input of legalExempt) {
+        const location = computeFlipRedirect(new Request(input), flipOn)
+        if (location !== null) fail(`FLIP_301 on: legal ${input} must NOT flip, got ${location}`)
+    }
+
+    // FLIP_301 ON: non-duetmail hosts (e.g. chiefy.com itself) → no flip.
+    if (computeFlipRedirect(new Request("https://chiefy.com/"), flipOn) !== null) {
+        fail("FLIP_301 on: chiefy.com must NOT flip")
+    }
+
+    // FLIP_301 OFF (env={} / absent flag): no flip anywhere.
+    for (const [input] of flipCases) {
+        if (computeFlipRedirect(new Request(input), {}) !== null) fail(`FLIP_301 off: ${input} must NOT flip`)
+    }
+    if (computeFlipRedirect(new Request("https://duetmail.com/for/sales"), { FLIP_301: "off" }) !== null) {
+        fail("FLIP_301='off': must NOT flip")
+    }
 }
 
 function assertSecurityHeaders(response, label) {
@@ -130,6 +179,7 @@ function assertWwwToApex() {
 
 try {
     await assertFixtures()
+    await assertFlipRedirects()
     assertHeadersMirror()
     assertRoutesManifest()
     assertRedirectsStaticFile()
