@@ -9,9 +9,16 @@
     "Microsoft",
     "Smart Drafts",
     "Stripe",
-    "Pro"
+    "Pro",
+    "Chiefy"
   ],
-  "provider_terms": ["Gmail", "Outlook", "Google", "Microsoft", "Stripe"],
+  "provider_terms": [
+    "Gmail",
+    "Outlook",
+    "Google",
+    "Microsoft",
+    "Stripe"
+  ],
   "claim_sensitive_terms": [
     "billing",
     "compliance",

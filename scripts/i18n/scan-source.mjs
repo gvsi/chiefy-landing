@@ -51,7 +51,7 @@ const ignoredExactValues = new Set([
     "WebPage",
     "WebSite",
     "Chiefy Team",
-    "@chiefy",
+    "@ChiefyApp",
     "AUTH_CHOOSER_URL",
     "HOME_LOGOS.length ?",
     "= HOME_LOGOS.length ?",
