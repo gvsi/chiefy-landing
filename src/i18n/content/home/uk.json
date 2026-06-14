@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI-асистент для Gmail і Outlook",
-    "description": "AI-асистент Duet Mail для електронної пошти підсумовує листи, готує відповіді й упорядковує вхідні. Працює з Gmail і Outlook. Заощаджуйте 4+ години щотижня."
+    "title": "Chiefy | AI-асистент для Gmail і Outlook",
+    "description": "AI-асистент Chiefy для електронної пошти підсумовує листи, готує відповіді й упорядковує вхідні. Працює з Gmail і Outlook. Заощаджуйте 4+ години щотижня."
   },
   "hero": {
     "badge": "Тепер доступно для Gmail і Outlook",
@@ -70,7 +70,7 @@
   },
   "logos": {
     "ariaLabel": "Логотипи клієнтів",
-    "headingPrefix": "Duet Mail довіряють прогресивні",
+    "headingPrefix": "Chiefy довіряють прогресивні",
     "headingHighlight": " професіонали й команди ",
     "headingSuffix": "у всьому світі"
   },
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Чернетки листів, які звучать як ви",
-        "description": "AI-редактор листів Duet готує чернетки для ваших найважливіших листів. Він вивчає ваш тон і стиль письма.",
+        "description": "AI-редактор листів Chiefy готує чернетки для ваших найважливіших листів. Він вивчає ваш тон і стиль письма.",
         "ariaLabel": "Чернетки листів, які звучать як ви",
         "mockCopy": {
           "draftedColdEmail": "Я підготував персоналізований холодний лист для John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Розумні нагадування",
-        "description": "Налаштуйте й не тримайте це в голові. Duet AI пам'ятає про фоллоу-апи, коли інші не відповідають, тож нічого не губиться.",
+        "description": "Налаштуйте й не тримайте це в голові. Chiefy AI пам'ятає про фоллоу-апи, коли інші не відповідають, тож нічого не губиться.",
         "ariaLabel": "Розумні нагадування",
         "mockCopy": {
           "header": "Розумні нагадування на основі AI",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Організація пошти й розумна категоризація вхідних",
     "badge": "Організація",
-    "title": "Duet упорядковує ваші вхідні",
+    "title": "Chiefy упорядковує ваші вхідні",
     "subtitle": "Автоматична категоризація відфільтровує шум і показує важливе. Одразу бачите, що потребує дії, що просто до відома, а що може зачекати.",
     "windowTitle": "Вхідні",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "Підготовка листів і відповідей за допомогою AI",
     "badge": "Чернетки",
-    "title": "Duet готує чернетки у вашому голосі",
-    "subtitle": "Duet вивчає, як ви пишете, і готує відповіді, що відповідають вашому тону. Перегляньте, за потреби відредагуйте й надішліть за секунди.",
+    "title": "Chiefy готує чернетки у вашому голосі",
+    "subtitle": "Chiefy вивчає, як ви пишете, і готує відповіді, що відповідають вашому тону. Перегляньте, за потреби відредагуйте й надішліть за секунди.",
     "windowTitle": "Нове повідомлення",
     "fieldLabels": {
       "to": "Кому:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI-інтелект і асистент для електронної пошти",
     "badge": "Інтелект",
     "title": "Запитуйте будь-що про свою пошту",
-    "subtitle": "Попросіть Duet знайти листи, перевірити календар або підготувати відповідь. Він розуміє ваші вхідні й відповідає миттєво.",
-    "windowTitle": "Агент Duet",
+    "subtitle": "Попросіть Chiefy знайти листи, перевірити календар або підготувати відповідь. Він розуміє ваші вхідні й відповідає миттєво.",
+    "windowTitle": "Агент Chiefy",
     "onlineLabel": "Онлайн",
     "initialUserMessage": "Можеш знайти інвойс Stripe, який надіслала бухгалтерія?",
     "processingText": "Пошук у вхідних...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Фрилансерка",
-        "quote": "Вартий кожної копійки. Час, який я заощаджую на пошті, окупає Duet Mail удесятеро. Тепер не уявляю роботу без нього.",
+        "quote": "Вартий кожної копійки. Час, який я заощаджую на пошті, окупає Chiefy удесятеро. Тепер не уявляю роботу без нього.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Консультантка",
-        "quote": "Як консультантці, мені важлива кожна хвилина. Duet Mail не просто заощаджує час — він робить мою поштову комунікацію чіткішою.",
+        "quote": "Як консультантці, мені важлива кожна хвилина. Chiefy не просто заощаджує час — він робить мою поштову комунікацію чіткішою.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Базова організація для старту"
           },
           {
-            "title": "Асистент Duet",
+            "title": "Асистент Chiefy",
             "description": "Спробуйте AI-асистента"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Асистент Duet",
+            "title": "Асистент Chiefy",
             "description": "Чат для пошуку, чернеток, організації та іншого",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "КОНТАКТ",
     "contactHeading": "Залишилися запитання?",
     "contactCta": "Зв'язатися →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Як Duet Mail захищає мої поштові дані?",
+        "question": "Як Chiefy захищає мої поштові дані?",
         "answer": "Ваша безпека — наш головний пріоритет. Ми використовуємо OAuth 2.0 для безпечної автентифікації з Google і Microsoft. Вміст листів шифрується в стані спокою за допомогою клієнтського шифрування на рівні полів, а для доступу до API ми дотримуємося принципу найменших привілеїв. Для нашої інтеграції з Google ми проходимо щорічне оцінювання безпеки Google CASA."
       },
       {
         "question": "Як працює функція підсумків листів?",
-        "answer": "Duet Mail використовує просунутий AI, щоб аналізувати ланцюжки листів і створювати стислий огляд із ключовими пунктами, рішеннями та задачами. Це допомагає швидко зрозуміти контекст без читання всього ланцюжка."
+        "answer": "Chiefy використовує просунутий AI, щоб аналізувати ланцюжки листів і створювати стислий огляд із ключовими пунктами, рішеннями та задачами. Це допомагає швидко зрозуміти контекст без читання всього ланцюжка."
       },
       {
-        "question": "Які дозволи потрібні Duet Mail?",
-        "answer": "Duet Mail потребує доступу до ваших листів, щоб надавати підсумки, витягувати задачі, генерувати контент і надсилати ваші листи. Ми запитуємо лише дозволи, які справді потрібні. Ви можете переглянути й відкликати ці дозволи будь-коли в налаштуваннях свого Google Account або Microsoft Account."
+        "question": "Які дозволи потрібні Chiefy?",
+        "answer": "Chiefy потребує доступу до ваших листів, щоб надавати підсумки, витягувати задачі, генерувати контент і надсилати ваші листи. Ми запитуємо лише дозволи, які справді потрібні. Ви можете переглянути й відкликати ці дозволи будь-коли в налаштуваннях свого Google Account або Microsoft Account."
       },
       {
         "question": "Що входить у безкоштовну пробну версію?",
         "answer": "14-денна безкоштовна пробна версія включає повний доступ до всіх функцій Pro: необмежені підсумки листів, витягування задач, AI-редактор листів (генерування листів і чернеток без обмежень) та кастомні шаблони листів. Увійдіть через Google або Microsoft, щоб почати заощаджувати час на керуванні поштою."
       },
       {
-        "question": "Чи можу я використовувати Duet Mail з іншими поштовими провайдерами?",
-        "answer": "Duet Mail підтримує Gmail, Google Workspace і Microsoft Outlook. Увійдіть через свій обліковий запис Google або Microsoft, щоб почати."
+        "question": "Чи можу я використовувати Chiefy з іншими поштовими провайдерами?",
+        "answer": "Chiefy підтримує Gmail, Google Workspace і Microsoft Outlook. Увійдіть через свій обліковий запис Google або Microsoft, щоб почати."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Футер сайту",
-    "brandIconAlt": "Іконка Duet Mail",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — AI-асистент для пошти, який заощаджує вам години щотижня",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Іконка Chiefy",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Огляд",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "Окупність інвестицій",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "Якщо {bookingUnit} коштує {pricePerBooking}, втрата лише {lostPerMonth} через повільні відповіді =",
     "lossSuffix": "/міс втрачено",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI-асистент для Gmail і Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - AI-асистент для Gmail і Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "Підтримка клієнтів",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI-асистент для Gmail і Outlook, який автоматично підсумовує листи, готує відповіді вашим голосом і впорядковує вхідні, щоб заощаджувати години щотижня.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Web",
     "browserRequirements": "Потребує JavaScript. Працює з Gmail, Google Workspace і Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/uk",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Як Duet Mail захищає мої поштові дані?",
+        "question": "Як Chiefy захищає мої поштові дані?",
         "answer": "Ваша безпека — наш головний пріоритет. Ми використовуємо OAuth 2.0 для безпечної автентифікації з Google і Microsoft. Вміст листів шифрується в стані спокою за допомогою клієнтського шифрування на рівні полів, а для доступу до API ми дотримуємося принципу найменших привілеїв. Для нашої інтеграції з Google ми проходимо щорічне оцінювання безпеки Google CASA."
       },
       {
         "question": "Як працює функція підсумків листів?",
-        "answer": "Duet Mail використовує просунутий AI, щоб аналізувати ланцюжки листів і створювати стислий огляд із ключовими пунктами, рішеннями та задачами. Це допомагає швидко зрозуміти контекст без читання всього ланцюжка."
+        "answer": "Chiefy використовує просунутий AI, щоб аналізувати ланцюжки листів і створювати стислий огляд із ключовими пунктами, рішеннями та задачами. Це допомагає швидко зрозуміти контекст без читання всього ланцюжка."
       },
       {
-        "question": "Які дозволи потрібні Duet Mail?",
-        "answer": "Duet Mail потребує доступу до ваших листів, щоб надавати підсумки, витягувати задачі, генерувати контент і надсилати ваші листи. Ми запитуємо лише дозволи, які справді потрібні. Ви можете переглянути й відкликати ці дозволи будь-коли в налаштуваннях свого Google Account або Microsoft Account."
+        "question": "Які дозволи потрібні Chiefy?",
+        "answer": "Chiefy потребує доступу до ваших листів, щоб надавати підсумки, витягувати задачі, генерувати контент і надсилати ваші листи. Ми запитуємо лише дозволи, які справді потрібні. Ви можете переглянути й відкликати ці дозволи будь-коли в налаштуваннях свого Google Account або Microsoft Account."
       },
       {
         "question": "Що входить у безкоштовну пробну версію?",
         "answer": "14-денна безкоштовна пробна версія включає повний доступ до всіх функцій Pro: необмежені підсумки листів, витягування задач, AI-редактор листів (генерування листів і чернеток без обмежень) та кастомні шаблони листів. Увійдіть через Google або Microsoft, щоб почати заощаджувати час на керуванні поштою."
       },
       {
-        "question": "Чи можу я використовувати Duet Mail з іншими поштовими провайдерами?",
-        "answer": "Duet Mail підтримує Gmail, Google Workspace і Microsoft Outlook. Увійдіть через свій обліковий запис Google або Microsoft, щоб почати."
+        "question": "Чи можу я використовувати Chiefy з іншими поштовими провайдерами?",
+        "answer": "Chiefy підтримує Gmail, Google Workspace і Microsoft Outlook. Увійдіть через свій обліковий запис Google або Microsoft, щоб почати."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

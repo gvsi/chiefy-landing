@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail untuk Lawatan Menonton Paus | Pembantu E-mel AI",
-  "metaDescription": "Duet Mail membantu kapten lawatan menonton paus membalas e-mel tempahan dengan segera — walaupun dari atas air. Balasan draf AI dengan butiran lawatan, harga, dan gaya anda.",
+  "pageTitle": "Chiefy untuk Lawatan Menonton Paus | Pembantu E-mel AI",
+  "metaDescription": "Chiefy membantu kapten lawatan menonton paus membalas e-mel tempahan dengan segera — walaupun dari atas air. Balasan draf AI dengan butiran lawatan, harga, dan gaya anda.",
   "heroBadge": "Dipercayai oleh lebih 300 kapten lawatan",
   "heroHeadline": "Pembantu e-mel anda ketika anda sedang keluar mencari paus",
-  "heroSubline": "Duet mempelajari jadual lawatan, harga, dan gaya anda — kemudian menyediakan draf balasan e-mel supaya anda tidak terlepas tempahan semasa anda berada di laut.",
+  "heroSubline": "Chiefy mempelajari jadual lawatan, harga, dan gaya anda — kemudian menyediakan draf balasan e-mel supaya anda tidak terlepas tempahan semasa anda berada di laut.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "kumpulan lawatan",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Satu tempahan kumpulan yang diselamatkan sudah membayar kos Duet selama setahun."
+    "punchline": "Satu tempahan kumpulan yang diselamatkan sudah membayar kos Chiefy selama setahun."
   },
-  "categorizationSubtitle": "Duet secara automatik menandakan setiap e-mel supaya anda melihat permintaan tempahan terlebih dahulu, perubahan jadual kapal persiaran kedua, dan selebihnya tidak pernah. Tidak lagi terlepas pertanyaan piagam peribadi yang tersorok di bawah makluman TripAdvisor.",
-  "draftSubtitle": "Duet mempelajari waktu lawatan, harga, dan polisi anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan kekosongan, apa yang disertakan, dan apa yang perlu dibawa. Anda semak dan hantar.",
-  "agentSubtitle": "\"Berapa banyak tempat yang tinggal untuk lawatan pagi Sabtu?\" \"Sediakan draf balasan kepada Rachel dengan maklumat kekosongan.\" Duet tahu peti masuk dan jadual anda — tanya sahaja.",
+  "categorizationSubtitle": "Chiefy secara automatik menandakan setiap e-mel supaya anda melihat permintaan tempahan terlebih dahulu, perubahan jadual kapal persiaran kedua, dan selebihnya tidak pernah. Tidak lagi terlepas pertanyaan piagam peribadi yang tersorok di bawah makluman TripAdvisor.",
+  "draftSubtitle": "Chiefy mempelajari waktu lawatan, harga, dan polisi anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan kekosongan, apa yang disertakan, dan apa yang perlu dibawa. Anda semak dan hantar.",
+  "agentSubtitle": "\"Berapa banyak tempat yang tinggal untuk lawatan pagi Sabtu?\" \"Sediakan draf balasan kepada Rachel dengan maklumat kekosongan.\" Chiefy tahu peti masuk dan jadual anda — tanya sahaja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Dave H.",
       "title": "Pengendali Lawatan Hidupan Liar, AK",
-      "quote": "Penumpang kapal persiaran perlukan jawapan dengan pantas — mereka hanya ada 6 jam di pelabuhan. Dulu saya sering kehilangan tempahan charter persendirian kerana saya sedang di laut apabila pertanyaan masuk. Sekarang Duet menyediakan draf balasan dengan harga dan butiran pengambilan saya sebelum saya sempat berlabuh.",
+      "quote": "Penumpang kapal persiaran perlukan jawapan dengan pantas — mereka hanya ada 6 jam di pelabuhan. Dulu saya sering kehilangan tempahan charter persendirian kerana saya sedang di laut apabila pertanyaan masuk. Sekarang Chiefy menyediakan draf balasan dengan harga dan butiran pengambilan saya sebelum saya sempat berlabuh.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Pemerhatian Ikan Paus Keluarga, CA",
-      "quote": "Kami menjalankan dua lawatan sehari semasa musim humpback dan jumlah e-mel memang luar biasa. 'Adakah kita akan melihat ikan paus?' 'Apa yang patut saya pakai?' 'Adakah esok dibatalkan?' Duet mengendalikan soalan berulang dan kami boleh fokus pada lawatan.",
+      "quote": "Kami menjalankan dua lawatan sehari semasa musim humpback dan jumlah e-mel memang luar biasa. 'Adakah kita akan melihat ikan paus?' 'Apa yang patut saya pakai?' 'Adakah esok dibatalkan?' Chiefy mengendalikan soalan berulang dan kami boleh fokus pada lawatan.",
       "avatarKey": "francesca"
     },
     {
       "name": "Kapten Ben T.",
       "title": "Penerokaan Laut, HI",
-      "quote": "Saya menjawab 10 soalan yang sama setiap malam — harga, apa yang termasuk, petua mabuk laut, had umur kanak-kanak. Duet mempelajari semuanya dalam minggu pertama. Masa respons saya turun daripada 8 jam kepada 8 minit.",
+      "quote": "Saya menjawab 10 soalan yang sama setiap malam — harga, apa yang termasuk, petua mabuk laut, had umur kanak-kanak. Chiefy mempelajari semuanya dalam minggu pertama. Masa respons saya turun daripada 8 jam kepada 8 minit.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Pengurus Tempahan, Pacific NW",
-      "quote": "Pembatalan akibat cuaca memang paling sukar — 30 orang perlu dijadualkan semula serentak dan saya pula sibuk mengurus panggilan telefon. Duet menyediakan draf e-mel penjadualan semula yang diperibadikan untuk setiap tetamu. Apa yang dulu mengambil 2 jam kini hanya 15 minit.",
+      "quote": "Pembatalan akibat cuaca memang paling sukar — 30 orang perlu dijadualkan semula serentak dan saya pula sibuk mengurus panggilan telefon. Chiefy menyediakan draf e-mel penjadualan semula yang diperibadikan untuk setiap tetamu. Apa yang dulu mengambil 2 jam kini hanya 15 minit.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Lawatan Hidupan Liar Bot Kecil, BC",
-      "quote": "Kami operasi dua orang — saya kapten, dia urus logistik. Semasa musim puncak, dia habiskan 3 jam setiap malam untuk e-mel. Duet mengurangkannya kepada 30 minit. Sekarang dia benar-benar dapat menikmati waktu malamnya.",
+      "quote": "Kami operasi dua orang — saya kapten, dia urus logistik. Semasa musim puncak, dia habiskan 3 jam setiap malam untuk e-mel. Chiefy mengurangkannya kepada 30 minit. Sekarang dia benar-benar dapat menikmati waktu malamnya.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "Adakah Duet mengendalikan pembatalan akibat cuaca dan perubahan jadual kapal persiaran?",
-      "answer": "Ya. Apabila anda membatalkan lawatan kerana cuaca atau waktu ketibaan kapal persiaran berubah, anda boleh beritahu Duet sekali sahaja dan ia menyediakan draf e-mel penjadualan semula atau kemas kini yang diperibadikan untuk setiap tetamu yang terjejas. Tiada lagi salin dan tampal mesej yang sama 30 kali. Setiap balasan termasuk butiran tempahan asal tetamu dan pilihan alternatif yang tersedia."
+      "question": "Adakah Chiefy mengendalikan pembatalan akibat cuaca dan perubahan jadual kapal persiaran?",
+      "answer": "Ya. Apabila anda membatalkan lawatan kerana cuaca atau waktu ketibaan kapal persiaran berubah, anda boleh beritahu Chiefy sekali sahaja dan ia menyediakan draf e-mel penjadualan semula atau kemas kini yang diperibadikan untuk setiap tetamu yang terjejas. Tiada lagi salin dan tampal mesej yang sama 30 kali. Setiap balasan termasuk butiran tempahan asal tetamu dan pilihan alternatif yang tersedia."
     },
     {
-      "question": "Kami sentiasa menerima soalan yang sama — 'adakah kita akan melihat ikan paus?', 'apa yang patut saya pakai?', 'adakah ia sesuai untuk kanak-kanak?' Bolehkah Duet mengendalikannya?",
-      "answer": "Itulah tepatnya kekuatan Duet. Ia mempelajari jawapan standard anda — spesies yang biasanya anda lihat, apa yang perlu dibawa, polisi umur, petua mabuk laut, waktu bertolak — dan menyediakan draf balasan lengkap dengan serta-merta. Anda semak dan hantar. Kebanyakan kapten memberitahu kami 80% peti masuk mereka terdiri daripada 10 soalan yang sama, dan Duet mengendalikan semuanya."
+      "question": "Kami sentiasa menerima soalan yang sama — 'adakah kita akan melihat ikan paus?', 'apa yang patut saya pakai?', 'adakah ia sesuai untuk kanak-kanak?' Bolehkah Chiefy mengendalikannya?",
+      "answer": "Itulah tepatnya kekuatan Chiefy. Ia mempelajari jawapan standard anda — spesies yang biasanya anda lihat, apa yang perlu dibawa, polisi umur, petua mabuk laut, waktu bertolak — dan menyediakan draf balasan lengkap dengan serta-merta. Anda semak dan hantar. Kebanyakan kapten memberitahu kami 80% peti masuk mereka terdiri daripada 10 soalan yang sama, dan Chiefy mengendalikan semuanya."
     }
   ],
   "pricingNote": "Pada harga $125/seorang, satu kumpulan 6 orang yang berjaya dijimatkan sudah membayar lebih daripada setahun Pro."

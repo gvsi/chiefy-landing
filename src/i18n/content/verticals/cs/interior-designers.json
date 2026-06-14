@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail pro interiérové ​​designéry | AI e-mailový asistent",
-  "metaDescription": "Duet Mail pomáhá návrhářům interiérů spravovat e-maily klientů, koordinaci dodavatelů a objednávky dodavatelů – a to i z místa zakázky. Odpovědi navržené AI s podrobnostmi o vašem projektu, preferencemi a hlasem.",
+  "pageTitle": "Chiefy pro interiérové ​​designéry | AI e-mailový asistent",
+  "metaDescription": "Chiefy pomáhá návrhářům interiérů spravovat e-maily klientů, koordinaci dodavatelů a objednávky dodavatelů – a to i z místa zakázky. Odpovědi navržené AI s podrobnostmi o vašem projektu, preferencemi a hlasem.",
   "heroBadge": "Důvěřuje více než 400 interiérovým designérům",
   "heroHeadline": "Váš e-mailový asistent, když jste na místě s klienty",
-  "heroSubline": "Duet se naučí vaše kontakty na dodavatele, podrobnosti o projektu a preference klienta – poté vytvoří koncepty e-mailových odpovědí, takže nikdy neztratíte klienta kvůli pomalé odpovědi.",
+  "heroSubline": "Chiefy se naučí vaše kontakty na dodavatele, podrobnosti o projektu a preference klienta – poté vytvoří koncepty e-mailových odpovědí, takže nikdy neztratíte klienta kvůli pomalé odpovědi.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Jeden ušetřený klient platí roky Duet."
+    "punchline": "Jeden ušetřený klient platí roky Chiefy."
   },
-  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první uvidíte dotazy od nových klientů, jako druhé čekající na schválení a nikdy ne. Už vám nebude chybět konzultace designu pohřbená pod propagačními akcemi na veletrhu.",
-  "draftSubtitle": "Duet se naučí váš proces, detaily projektu a tón. Když se objeví nový dotaz nebo dotaz klienta, navrhne kompletní odpověď s vaší dostupností, dalšími kroky a specifiky projektu. Zkontrolujete a odešlete.",
-  "agentSubtitle": "\"Jaký je stav projektu Henderson?\" \"Která schválení stále čekají?\" Duet zná vaši doručenou poštu a každé vlákno projektu – stačí se zeptat.",
+  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže jako první uvidíte dotazy od nových klientů, jako druhé čekající na schválení a nikdy ne. Už vám nebude chybět konzultace designu pohřbená pod propagačními akcemi na veletrhu.",
+  "draftSubtitle": "Chiefy se naučí váš proces, detaily projektu a tón. Když se objeví nový dotaz nebo dotaz klienta, navrhne kompletní odpověď s vaší dostupností, dalšími kroky a specifiky projektu. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Jaký je stav projektu Henderson?\" \"Která schválení stále čekají?\" Chiefy zná vaši doručenou poštu a každé vlákno projektu – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Hlavní designér, Austin TX",
-      "quote": "Jsem na místě 6 hodin denně a koordinuji malíře, elektrikáře a obkladače. Mezitím tři další klienti posílají e-maily o svých projektech. Odpovědi na návrhy Duet se správnými podrobnostmi o projektu – mezi návštěvami webu pouze přezkoumávám.",
+      "quote": "Jsem na místě 6 hodin denně a koordinuji malíře, elektrikáře a obkladače. Mezitím tři další klienti posílají e-maily o svých projektech. Odpovědi na návrhy Chiefy se správnými podrobnostmi o projektu – mezi návštěvami webu pouze přezkoumávám.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Návrhář bytových interiérů, Chicago",
-      "quote": "Dotazy klientů trvaly několik dní, protože jsem byl pohřben v e-mailech o nákupu a plánování dodavatelů. Nyní Duet reaguje na nové potenciální zákazníky během několika minut pomocí mého procesu a dostupnosti. V tomto čtvrtletí jsem zarezervoval 4 další projekty.",
+      "quote": "Dotazy klientů trvaly několik dní, protože jsem byl pohřben v e-mailech o nákupu a plánování dodavatelů. Nyní Chiefy reaguje na nové potenciální zákazníky během několika minut pomocí mého procesu a dostupnosti. V tomto čtvrtletí jsem zarezervoval 4 další projekty.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Majitel designového studia, Nashville",
-      "quote": "Správa e-mailů pro 12 aktivních projektů mě zabíjela. Duet vše kategorizuje – nové dotazy, čekající schválení, objednávky dodavatelů, aktualizace dodavatelů – takže přesně vím, co vyžaduje mou pozornost jako první.",
+      "quote": "Správa e-mailů pro 12 aktivních projektů mě zabíjela. Chiefy vše kategorizuje – nové dotazy, čekající schválení, objednávky dodavatelů, aktualizace dodavatelů – takže přesně vím, co vyžaduje mou pozornost jako první.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Interiérový dekoratér, San Diego",
-      "quote": "Ztrácel jsem potenciální klienty, protože jsem během týdnů instalace nemohl dostatečně rychle reagovat. Duet se naučil můj konzultační proces, cenovou strukturu, dokonce i to, jak popisuji svůj styl designu. Klienti netuší, že je to s pomocí AI.",
+      "quote": "Ztrácel jsem potenciální klienty, protože jsem během týdnů instalace nemohl dostatečně rychle reagovat. Chiefy se naučil můj konzultační proces, cenovou strukturu, dokonce i to, jak popisuji svůj styl designu. Klienti netuší, že je to s pomocí AI.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Návrhář komerčních interiérů, Denver",
-      "quote": "Mezi dodacími lhůtami dodavatelů, plány dodavatelů a požadavky klientů na revize byla moje doručená pošta chaos. Duet to vše třídí a připravuje návrhy navazujících na čekající schválení. Je to jako mít projektového koordinátora, který nikdy nespí.",
+      "quote": "Mezi dodacími lhůtami dodavatelů, plány dodavatelů a požadavky klientů na revize byla moje doručená pošta chaos. Chiefy to vše třídí a připravuje návrhy navazujících na čekající schválení. Je to jako mít projektového koordinátora, který nikdy nespí.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Žongluji 8-10 projektů najednou. Dokáže je Duet udržet rovně?",
-      "answer": "Ano. Duet sleduje každé e-mailové vlákno na klienta a projekt. Když se zeptáte na kuchyni Henderson nebo kancelář na Park Avenue, čerpá to kontext ze všech souvisejících konverzací – objednávek dodavatelů, aktualizací dodavatelů, schválení klientů – takže vaše odpovědi jsou vždy přesné a specifické pro daný projekt. Žádné míchání, která dlaždice byla pro kterého klienta."
+      "question": "Žongluji 8-10 projektů najednou. Dokáže je Chiefy udržet rovně?",
+      "answer": "Ano. Chiefy sleduje každé e-mailové vlákno na klienta a projekt. Když se zeptáte na kuchyni Henderson nebo kancelář na Park Avenue, čerpá to kontext ze všech souvisejících konverzací – objednávek dodavatelů, aktualizací dodavatelů, schválení klientů – takže vaše odpovědi jsou vždy přesné a specifické pro daný projekt. Žádné míchání, která dlaždice byla pro kterého klienta."
     },
     {
-      "question": "Koordinuji to s mnoha dodavateli a prodejci. Pomáhá s tím Duet?",
-      "answer": "Absolutně. Duet se naučí vaše kontakty na dodavatele, zástupce prodejců a kontext role každého obchodu ve vašich projektech. Když váš elektrikář pošle e-mail, že je hrubé zapojení hotové, Duet může navrhnout odpověď potvrzující další krok nebo smyčku v instalačním programu svítidla. Udržuje pracovní tok v pohybu, i když jste přes město na jiném pracovišti."
+      "question": "Koordinuji to s mnoha dodavateli a prodejci. Pomáhá s tím Chiefy?",
+      "answer": "Absolutně. Chiefy se naučí vaše kontakty na dodavatele, zástupce prodejců a kontext role každého obchodu ve vašich projektech. Když váš elektrikář pošle e-mail, že je hrubé zapojení hotové, Chiefy může navrhnout odpověď potvrzující další krok nebo smyčku v instalačním programu svítidla. Udržuje pracovní tok v pohybu, i když jste přes město na jiném pracovišti."
     }
   ],
-  "pricingNote": "U $10,000/project platí jeden ušetřený klient roky Duet Pro."
+  "pricingNote": "U $10,000/project platí jeden ušetřený klient roky Chiefy Pro."
 }

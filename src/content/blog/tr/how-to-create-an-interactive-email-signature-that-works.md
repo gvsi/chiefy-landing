@@ -2,7 +2,7 @@
 title: "İşlevsel, Etkileşimli Bir E-posta İmzası Nasıl Oluşturulur?"
 description: "Etkileşimi, marka bilinirliğini ve potansiyel müşteri sayısını artırmak için etkileşimli bir e-posta imzası oluşturmayı öğrenin. Serbest çalışanlar ve yeni girişimler için adım adım kılavuz."
 publishedAt: 2025-06-18
-author: "Duet Mail Takım"
+author: "Chiefy Takım"
 tags: ["AI", "E-posta"]
 draft: false
 ---
@@ -139,7 +139,7 @@ Etkileşimli bir imza, bir tıklama, bir arama, bir rezervasyon gibi bir eylemi 
 
 İşte bu noktada imza stratejinizi akıllı e-posta yönetim araçlarıyla entegre etmek fark yaratabilir. Potansiyel müşteriler, harika imzanızla oluşturulan "Toplantı Rezervasyonu Yap" bağlantısına tıklamaya başladığında, sonraki planlama ve iletişimi sorunsuz bir şekilde yönetecek bir sisteme ihtiyacınız vardır. Benzer şekilde, her takip e-postasında imzanızla belirlediğiniz profesyonel tonu korumak, ilişkiler kurmanın anahtarıdır.
 
-[Duet Mail](/tr/) gibi e-posta verimliliği için tasarlanmış araçlar bu açığı kapatmaya yardımcı olabilir. Birisi imzanızdaki harekete geçirici mesajla etkileşime girdikten sonra, benzersiz sesinizi koruyan, kişiselleştirilmiş ve hızlı yanıtlar taslağı hazırlamak için AI desteği aldığınızı hayal edin. Duet Mail'nin **AI Triage** gibi özellikleri, imza etkileşimlerinden oluşturulan önemli yanıtları ortaya çıkarmaya yardımcı olurken, **Authentic AI Drafting** özelliği de takip mesajlarınızın tıpkı sizin gibi ses çıkarmasını sağlayarak imzanızın yansıttığı profesyonelliği korur. İmzanızın tetiklediği etkileşimi iyi yönetilen, verimli konuşmalara dönüştürür.
+[Chiefy](/tr/) gibi e-posta verimliliği için tasarlanmış araçlar bu açığı kapatmaya yardımcı olabilir. Birisi imzanızdaki harekete geçirici mesajla etkileşime girdikten sonra, benzersiz sesinizi koruyan, kişiselleştirilmiş ve hızlı yanıtlar taslağı hazırlamak için AI desteği aldığınızı hayal edin. Chiefy'nin **AI Triage** gibi özellikleri, imza etkileşimlerinden oluşturulan önemli yanıtları ortaya çıkarmaya yardımcı olurken, **Authentic AI Drafting** özelliği de takip mesajlarınızın tıpkı sizin gibi ses çıkarmasını sağlayarak imzanızın yansıttığı profesyonelliği korur. İmzanızın tetiklediği etkileşimi iyi yönetilen, verimli konuşmalara dönüştürür.
 
 İmzanızı Aktifleştirmeye Hazır mısınız?
 

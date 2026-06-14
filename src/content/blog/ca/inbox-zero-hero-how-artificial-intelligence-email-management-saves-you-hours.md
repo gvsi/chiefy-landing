@@ -2,7 +2,7 @@
 title: "Inbox Zero Hero: Com la gestió de correu electrònic de la intel·ligència artificial us estalvia hores"
 description: "Deixeu d'ofegar-vos als correus electrònics! Descobriu com les eines de gestió de correu electrònic d'intel·ligència artificial automatitzen l'ordenació, prioritzen les tasques i esborran les respostes per estalviar-vos hores."
 publishedAt: 2025-09-29
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI","Gestió de la safata d'entrada","Correu electrònic"]
 draft: false
 ---
@@ -84,7 +84,7 @@ Avaluen diversos factors, entre ells:
 - **Anàlisi de sentiments:** Algunes eines avaluen el to emocional per identificar problemes potencialment crítics.
 
 
-Aquí és on entren en joc les funcions de triatge AI, com les d'eines com [Duet Mail](https://duetmail.com/), que apareixen automàticament als correus electrònics que necessiten accions o decisions en un tauler de control centrat. En identificar i destacar missatges d'alta prioritat, aquests sistemes redueixen dràsticament el temps de classificació i minimitzen el risc de perdre informació crítica.
+Aquí és on entren en joc les funcions de triatge AI, com les d'eines com [Chiefy](https://chiefy.com/), que apareixen automàticament als correus electrònics que necessiten accions o decisions en un tauler de control centrat. En identificar i destacar missatges d'alta prioritat, aquests sistemes redueixen dràsticament el temps de classificació i minimitzen el risc de perdre informació crítica.
 
 
 ### Redacció impulsada per AI: la velocitat es troba amb l'autenticitat
@@ -95,7 +95,7 @@ Estàs mirant una finestra de resposta en blanc? AI pot ajudar. Molts assistents
 
 Tanmateix, una preocupació comuna és que els correus electrònics generats per AI poden sonar genèrics o robòtics. Tot i que el AI bàsic pot produir text estàndard, les eines sofisticades estan abordant aquest repte. La clau és la **personalització**. Els bons assistents AI us permeten ajustar el to (formal, informal, amable) i la durada.
 
-Les millors eines van més enllà, aprenent els vostres patrons de comunicació únics. Per exemple, [Duet Mail](https://duetmail.com/)'s Authentic AI Drafting analitza els vostres correus electrònics passats per generar respostes que sonin realment com vosaltres, capturant el vostre vocabulari i matisos estilístics. Recordeu que l'objectiu no és substituir la vostra veu, sinó augmentar-la. Reviseu i modifiqueu sempre els esborranys de AI per afegir un context específic o un toc personal abans de prémer l'enviament.
+Les millors eines van més enllà, aprenent els vostres patrons de comunicació únics. Per exemple, [Chiefy](https://chiefy.com/)'s Authentic AI Drafting analitza els vostres correus electrònics passats per generar respostes que sonin realment com vosaltres, capturant el vostre vocabulari i matisos estilístics. Recordeu que l'objectiu no és substituir la vostra veu, sinó augmentar-la. Reviseu i modifiqueu sempre els esborranys de AI per afegir un context específic o un toc personal abans de prémer l'enviament.
 
 
 ### Domar fils llargs amb el resum AI
@@ -113,7 +113,7 @@ Hi ha dos enfocaments principals:
 - **Resum abstractiu:** entén el context i genera frases *nous* per transmetre el significat bàsic, sovint resultant en resums més fluids.
 
 
-Independentment del mètode, el benefici és clar: entens l'essència de la conversa en segons, no en minuts. Un [estudi de Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) va indicar que el resum AI pot augmentar la productivitat dels usuaris fins a un 32%. El resum AI, com la funció de resum intel·ligent a [Duet Mail](https://duetmail.com/), extreu ràpidament punts clau i elements d'acció, fins i tot recordant el context de les interaccions anteriors, estalviant-vos un temps de lectura inestimable.
+Independentment del mètode, el benefici és clar: entens l'essència de la conversa en segons, no en minuts. Un [estudi de Gartner](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) va indicar que el resum AI pot augmentar la productivitat dels usuaris fins a un 32%. El resum AI, com la funció de resum intel·ligent a [Chiefy](https://chiefy.com/), extreu ràpidament punts clau i elements d'acció, fins i tot recordant el context de les interaccions anteriors, estalviant-vos un temps de lectura inestimable.
 
 
 

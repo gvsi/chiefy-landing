@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail untuk Tunggangan Kuda & Pemandu Laluan | Pembantu E-mel AI",
-  "metaDescription": "Duet Mail membantu pengendali tunggangan laluan membalas e-mel tempahan dengan serta-merta — walaupun dari atas pelana. Balasan draf AI dengan harga anda, keperluan penunggang, dan suara anda.",
+  "pageTitle": "Chiefy untuk Tunggangan Kuda & Pemandu Laluan | Pembantu E-mel AI",
+  "metaDescription": "Chiefy membantu pengendali tunggangan laluan membalas e-mel tempahan dengan serta-merta — walaupun dari atas pelana. Balasan draf AI dengan harga anda, keperluan penunggang, dan suara anda.",
   "heroBadge": "Dipercayai oleh 300+ pemandu laluan",
   "heroHeadline": "Pembantu e-mel anda semasa anda di laluan",
-  "heroSubline": "Duet mempelajari jenis tunggangan, harga, keperluan penunggang, dan keadaan laluan anda — kemudian menyediakan draf balasan e-mel supaya anda tidak kehilangan tempahan akibat respons yang lambat.",
+  "heroSubline": "Chiefy mempelajari jenis tunggangan, harga, keperluan penunggang, dan keadaan laluan anda — kemudian menyediakan draf balasan e-mel supaya anda tidak kehilangan tempahan akibat respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tunggangan",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Satu tunggangan kumpulan yang berjaya menjimatkan membayar Duet selama lebih dua tahun."
+    "punchline": "Satu tunggangan kumpulan yang berjaya menjimatkan membayar Chiefy selama lebih dua tahun."
   },
-  "categorizationSubtitle": "Duet secara automatik menandai setiap e-mel supaya anda melihat permintaan tempahan dahulu, soalan penunggang kedua, dan selebihnya tidak terlepas. Tidak lagi terlepas pertanyaan kumpulan yang terkubur di bawah amaran TripAdvisor.",
-  "draftSubtitle": "Duet mempelajari jenis tunggangan, harga, dan keperluan anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran laluan, harga, dan pakaian yang perlu dipakai. Anda semak dan hantar.",
-  "agentSubtitle": "\"Ada tunggangan yang tersedia hujung minggu ini?\" \"Sediakan draf balasan kepada Jessica dengan kekosongan pada hari Sabtu.\" Duet mengenali peti masuk dan kalendar anda — tanya sahaja.",
+  "categorizationSubtitle": "Chiefy secara automatik menandai setiap e-mel supaya anda melihat permintaan tempahan dahulu, soalan penunggang kedua, dan selebihnya tidak terlepas. Tidak lagi terlepas pertanyaan kumpulan yang terkubur di bawah amaran TripAdvisor.",
+  "draftSubtitle": "Chiefy mempelajari jenis tunggangan, harga, dan keperluan anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran laluan, harga, dan pakaian yang perlu dipakai. Anda semak dan hantar.",
+  "agentSubtitle": "\"Ada tunggangan yang tersedia hujung minggu ini?\" \"Sediakan draf balasan kepada Jessica dengan kekosongan pada hari Sabtu.\" Chiefy mengenali peti masuk dan kalendar anda — tanya sahaja.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Pemilik Ladang & Pemandu Denai, MT",
-      "quote": "Saya berada di denai 6 jam sehari tanpa perkhidmatan telefon bimbit. Apabila saya kembali untuk membalas, separuh daripada mereka sudah menempah di tempat lain. Kini Duet menyediakan draf balasan dengan harga dan butiran tunggangan saya — saya hanya semak dan hantar apabila saya kembali ke kandang.",
+      "quote": "Saya berada di denai 6 jam sehari tanpa perkhidmatan telefon bimbit. Apabila saya kembali untuk membalas, separuh daripada mereka sudah menempah di tempat lain. Kini Chiefy menyediakan draf balasan dengan harga dan butiran tunggangan saya — saya hanya semak dan hantar apabila saya kembali ke kandang.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Pengendali Lawatan Menunggang Kuda, AZ",
-      "quote": "Kami menerima berpuluh-puluh e-mel yang menanyakan perkara yang sama — had berat, pakaian yang perlu dipakai, keperluan umur. Duet mengendalikan semuanya dan balasannya kedengaran sama seperti saya. Para tetamu saya langsung tidak tahu ia AI.",
+      "quote": "Kami menerima berpuluh-puluh e-mel yang menanyakan perkara yang sama — had berat, pakaian yang perlu dipakai, keperluan umur. Chiefy mengendalikan semuanya dan balasannya kedengaran sama seperti saya. Para tetamu saya langsung tidak tahu ia AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Pemandu Tunggangan Denai, CO",
-      "quote": "Musim puncak benar-benar membebankan saya. 30+ e-mel sehari di samping mengendalikan tunggangan. Duet menyusun permintaan tempahan daripada gangguan dan menyediakan draf balasan yang merangkumi semuanya — harga, apa yang perlu dibawa, dan sebagainya. Saya dapat kembali menikmati waktu petang saya.",
+      "quote": "Musim puncak benar-benar membebankan saya. 30+ e-mel sehari di samping mengendalikan tunggangan. Chiefy menyusun permintaan tempahan daripada gangguan dan menyediakan draf balasan yang merangkumi semuanya — harga, apa yang perlu dibawa, dan sebagainya. Saya dapat kembali menikmati waktu petang saya.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Pengajar Menunggang & Pengurus Tempahan, TX",
-      "quote": "Kami mengendalikan tunggangan senja, tunggangan pagi, dan pelajaran persendirian — setiap satunya dengan harga dan keperluan yang berbeza. Duet mempelajari semuanya dalam seminggu. Ia menyediakan draf balasan yang tepat untuk jenis tunggangan yang tepat setiap kali.",
+      "quote": "Kami mengendalikan tunggangan senja, tunggangan pagi, dan pelajaran persendirian — setiap satunya dengan harga dan keperluan yang berbeza. Chiefy mempelajari semuanya dalam seminggu. Ia menyediakan draf balasan yang tepat untuk jenis tunggangan yang tepat setiap kali.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Ladang Keluarga & Tunggangan Denai, CA",
-      "quote": "E-mel sensitif adalah yang paling sukar — seseorang bertanya sama ada berat mereka terlalu tinggi, atau sama ada anak mereka cukup umur. Duet mengendalikannya dengan penuh perhatian seperti yang saya lakukan. Profesional, mesra, dan tepat. Itu sahaja sudah berbaloi.",
+      "quote": "E-mel sensitif adalah yang paling sukar — seseorang bertanya sama ada berat mereka terlalu tinggi, atau sama ada anak mereka cukup umur. Chiefy mengendalikannya dengan penuh perhatian seperti yang saya lakukan. Profesional, mesra, dan tepat. Itu sahaja sudah berbaloi.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "Bagaimana Duet menangani soalan sensitif tentang berat atau keperluan pengalaman?",
-      "answer": "Duet mempelajari polisi khusus anda dan meniru nada anda. Apabila seseorang bertanya tentang had berat atau keperluan pengalaman, ia membalas secara profesional dan mesra — berkongsi maklumat yang mereka perlukan tanpa menjadikannya janggal. Anda menetapkan nada sekali dan Duet mengikutinya secara konsisten, jadi setiap tetamu berasa dihormati."
+      "question": "Bagaimana Chiefy menangani soalan sensitif tentang berat atau keperluan pengalaman?",
+      "answer": "Chiefy mempelajari polisi khusus anda dan meniru nada anda. Apabila seseorang bertanya tentang had berat atau keperluan pengalaman, ia membalas secara profesional dan mesra — berkongsi maklumat yang mereka perlukan tanpa menjadikannya janggal. Anda menetapkan nada sekali dan Chiefy mengikutinya secara konsisten, jadi setiap tetamu berasa dihormati."
     },
     {
-      "question": "Bolehkah Duet mengendalikan tempahan kumpulan dengan keperluan penunggang yang berbeza?",
-      "answer": "Ya. Duet mempelajari jenis tunggangan anda, saiz kumpulan, umur minimum, dan sebarang keperluan khusus penunggang. Apabila keluarga atau kumpulan menghantar e-mel tentang tempahan, ia menyediakan draf balasan yang merangkumi harga untuk keseluruhan kumpulan, perkara yang perlu diketahui oleh setiap penunggang, dan slot masa yang tersedia. Anda semak dan hantar — tiada perlu berbalas-balas."
+      "question": "Bolehkah Chiefy mengendalikan tempahan kumpulan dengan keperluan penunggang yang berbeza?",
+      "answer": "Ya. Chiefy mempelajari jenis tunggangan anda, saiz kumpulan, umur minimum, dan sebarang keperluan khusus penunggang. Apabila keluarga atau kumpulan menghantar e-mel tentang tempahan, ia menyediakan draf balasan yang merangkumi harga untuk keseluruhan kumpulan, perkara yang perlu diketahui oleh setiap penunggang, dan slot masa yang tersedia. Anda semak dan hantar — tiada perlu berbalas-balas."
     }
   ],
   "pricingNote": "Pada $100/orang untuk kumpulan 6, satu tunggangan yang berjaya dijimatkan membayar lebih daripada dua tahun Pro."

@@ -2,7 +2,7 @@
 title: "Kako napisati profesionalnu e-poštu: pišite jasno, uštedite vreme i unapredite karijeru"
 description: "Naučite kako da pišete profesionalne e-poruke koje grade poverenje i štede vreme. Savladajte teme, ton, strukturu i bonton. Pojačajte komunikaciju u karijeri"
 publishedAt: 2025-05-27
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Produktivnost", "Pisanje e-pošte"]
 draft: false
 ---
@@ -182,9 +182,9 @@ Ključne prednosti uključuju:
 
 - **Ušteda vremena i smanjenje stresa**: Rukovanjem zadacima koji se ponavljaju kao što su sortiranje, filtriranje, pa čak i sastavljanje odgovora, AI pomoćnici mogu da uštede sate profesionalcima svake nedelje i značajno smanje stres vezan za prijemno sanduče.
 
-Osećate se zakopano? Ovde AI trijažne funkcije, poput onih u alatima kao što je [**Duet Mail**](https://duetmail.com/sr), mogu da promene igru. Oni automatski sortiraju dolaznu poštu, koristeći AI da identifikuju hitne stavke kojima je potrebna radnja ili odluke i predstavljaju ih na [**fokusiranoj kontrolnoj tabli**](https://peerlist.io/giovanni/project/duet-mail), seku kroz nered tako da odmah vidite šta je najvažnije.
+Osećate se zakopano? Ovde AI trijažne funkcije, poput onih u alatima kao što je [**Chiefy**](https://chiefy.com/sr), mogu da promene igru. Oni automatski sortiraju dolaznu poštu, koristeći AI da identifikuju hitne stavke kojima je potrebna radnja ili odluke i predstavljaju ih na [**fokusiranoj kontrolnoj tabli**](https://peerlist.io/giovanni/project/duet-mail), seku kroz nered tako da odmah vidite šta je najvažnije.
 
-Borite se da brzo odgovorite, a da pritom ostanete profesionalni i autentični? Napredni AI asistenti mogu pomoći. Na primer, [**Duet Mail**](https://duetmail.com/sr) koristi [**Autentično AI Drafting**](https://peerlist.io/giovanni/project/duet-mail) koji zapravo uči vaš jedinstveni stil pisanja i rečnik iz vaših prošlih e-poruka.64 Predlaže nacrte koji zvuče kao vi, uštedajući sate u vašoj profesionalnoj komunikaciji. Ovo „učenje glasom“ osigurava da vaši odgovori uz pomoć AI i dalje izgledaju autentični.
+Borite se da brzo odgovorite, a da pritom ostanete profesionalni i autentični? Napredni AI asistenti mogu pomoći. Na primer, [**Chiefy**](https://chiefy.com/sr) koristi [**Autentično AI Drafting**](https://peerlist.io/giovanni/project/duet-mail) koji zapravo uči vaš jedinstveni stil pisanja i rečnik iz vaših prošlih e-poruka.64 Predlaže nacrte koji zvuče kao vi, uštedajući sate u vašoj profesionalnoj komunikaciji. Ovo „učenje glasom“ osigurava da vaši odgovori uz pomoć AI i dalje izgledaju autentični.
 
 Evolucija ovih alata je fascinantna. Prešli smo sa osnovnih provera gramatike na sofisticirane asistente koji se bave holističkim izazovom e-pošte – ne samo ispravnošću, već i upravljanjem kognitivnim opterećenjem preopterećenja (trijaža, sumiranje) i održavanjem lične veze na velikom nivou (učenje glasom). Ovo odražava koliko je profesionalna komunikacija postala složena i potrebu za alatima koji nas sveobuhvatno podržavaju.
 
@@ -194,6 +194,6 @@ Ovladavanje profesionalnom e-poštom se ne odnosi na kruta pravila; radi se o ja
 
 Zapamtite, postati odličan komunikator e-pošte je stalan proces usavršavanja. Počnite dosledno da primenjujete ove savete i primetićete razliku u odgovorima koje dobijate i vremenu koje uštedite.
 
-Spremni da preuzmete kontrolu nad prijemnim sandučetom i komunicirate kao profesionalac? Počnite da primenjujete ove strategije već danas. A ako želite da uštedite sate i smanjite stres e-pošte, istražite kako AI pomoćnici kao što je [**Duet Mail**](https://duetmail.com/sr) mogu da transformišu vaš radni tok pomoću inteligentne trijaže i autentičnog crtanja.
+Spremni da preuzmete kontrolu nad prijemnim sandučetom i komunicirate kao profesionalac? Počnite da primenjujete ove strategije već danas. A ako želite da uštedite sate i smanjite stres e-pošte, istražite kako AI pomoćnici kao što je [**Chiefy**](https://chiefy.com/sr) mogu da transformišu vaš radni tok pomoću inteligentne trijaže i autentičnog crtanja.
 
 Smatrate li ovo korisnim? Podelite to sa kolegama kojima bi to moglo biti od koristi!

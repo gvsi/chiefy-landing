@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail sērfošanas skolām un airēšanas dēļu operatoriem | AI e-pasta asistents",
-  "metaDescription": "Duet Mail palīdz sērfošanas instruktoriem un airēšanas dēļu operatoriem nekavējoties atbildēt uz rezervāciju e-pastiem — pat nodarbību laikā. AI sagatavotas atbildes ar jūsu nodarbību veidiem, cenām un saziņas stilu.",
+  "pageTitle": "Chiefy sērfošanas skolām un airēšanas dēļu operatoriem | AI e-pasta asistents",
+  "metaDescription": "Chiefy palīdz sērfošanas instruktoriem un airēšanas dēļu operatoriem nekavējoties atbildēt uz rezervāciju e-pastiem — pat nodarbību laikā. AI sagatavotas atbildes ar jūsu nodarbību veidiem, cenām un saziņas stilu.",
   "heroBadge": "Uzticas 300+ sērfošanas instruktori",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr mācāt uz ūdens",
-  "heroSubline": "Duet apgūst jūsu nodarbību veidus, cenas un nosacījumus — pēc tam sagatavo e-pasta atbildes, lai jūs nezaudētu rezervāciju lēnas atbildes dēļ.",
+  "heroSubline": "Chiefy apgūst jūsu nodarbību veidus, cenas un nosacījumus — pēc tam sagatavo e-pasta atbildes, lai jūs nezaudētu rezervāciju lēnas atbildes dēļ.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "nodarbība",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Divas saglabātas rezervācijas sedz Duet gada izmaksas."
+    "punchline": "Divas saglabātas rezervācijas sedz Chiefy gada izmaksas."
   },
-  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu nodarbību rezervācijas, pēc tam jautājumus, bet troksni — nekad. Vairs nekādu skolas grupas pieprasījumu, kas pazūd zem Yelp paziņojumiem.",
-  "draftSubtitle": "Duet apgūst jūsu nodarbību veidus, grupu cenas un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar pieejamību, iekļauto aprīkojumu un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Vai šonedēļ ir kādas grupu rezervācijas?\" \"Sagatavo atbildi skolai ar pieejamību.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Chiefy automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu nodarbību rezervācijas, pēc tam jautājumus, bet troksni — nekad. Vairs nekādu skolas grupas pieprasījumu, kas pazūd zem Yelp paziņojumiem.",
+  "draftSubtitle": "Chiefy apgūst jūsu nodarbību veidus, grupu cenas un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar pieejamību, iekļauto aprīkojumu un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šonedēļ ir kādas grupu rezervācijas?\" \"Sagatavo atbildi skolai ar pieejamību.\" Chiefy pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Coach Mike T.",
       "title": "Sērfošanas skolas īpašnieks, CA",
-      "quote": "Es mācu ūdenī 6 stundas dienā. Kamēr tiku līdz e-pasta pārbaudei, puse rezervāciju jau bija aizgājusi pie kāda cita. Tagad Duet sagatavo atbildes ar manām cenām un pieejamību — es tās tikai pārskatu starp nodarbībām.",
+      "quote": "Es mācu ūdenī 6 stundas dienā. Kamēr tiku līdz e-pasta pārbaudei, puse rezervāciju jau bija aizgājusi pie kāda cita. Tagad Chiefy sagatavo atbildes ar manām cenām un pieejamību — es tās tikai pārskatu starp nodarbībām.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Airēšanas dēļu nodarbības un noma, HI",
-      "quote": "Mēs vadām nodarbības un dēļu nomu no vienas iesūtnes. Duet uzreiz saprata atšķirību — nomas jautājumi saņem nomas atbildes, nodarbību pieprasījumi saņem nodarbību informāciju. Tas ir kā reģistratūra.",
+      "quote": "Mēs vadām nodarbības un dēļu nomu no vienas iesūtnes. Chiefy uzreiz saprata atšķirību — nomas jautājumi saņem nomas atbildes, nodarbību pieprasījumi saņem nodarbību informāciju. Tas ir kā reģistratūra.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Sērfošanas instruktors, FL",
-      "quote": "Skolu grupu rezervācijām agrāk vajadzēja 10 e-pastus turp un atpakaļ. Tagad Duet sagatavo pirmo atbildi ar grupu cenām, iekļauto aprīkojumu un atļaujas veidlapu. Tas saīsina visu saraksti uz pusi.",
+      "quote": "Skolu grupu rezervācijām agrāk vajadzēja 10 e-pastus turp un atpakaļ. Tagad Chiefy sagatavo pirmo atbildi ar grupu cenām, iekļauto aprīkojumu un atļaujas veidlapu. Tas saīsina visu saraksti uz pusi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "SUP tūres un nodarbības, OR",
-      "quote": "Sezonas kulminācija mani nogalināja — 30 e-pasti dienā par apstākļiem, cenām, ko ņemt līdzi. Atkal un atkal tie paši pieci jautājumi. Duet tiek galā ar visiem, un atbildes skan tieši kā es.",
+      "quote": "Sezonas kulminācija mani nogalināja — 30 e-pasti dienā par apstākļiem, cenām, ko ņemt līdzi. Atkal un atkal tie paši pieci jautājumi. Chiefy tiek galā ar visiem, un atbildes skan tieši kā es.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Bērnu sērfošanas nometnes direktore, SC",
-      "quote": "Vecāki sūta visgarākos e-pastus. Nometnes datumi, alerģijas, prasmju līmeņi, paņemšanas laiki. Duet sagatavo detalizētas atbildes, kas aptver visu, lai man pēc pilnas dienas pludmalē plkst. 22:00 nebūtu jāraksta rindkopas.",
+      "quote": "Vecāki sūta visgarākos e-pastus. Nometnes datumi, alerģijas, prasmju līmeņi, paņemšanas laiki. Chiefy sagatavo detalizētas atbildes, kas aptver visu, lai man pēc pilnas dienas pludmalē plkst. 22:00 nebūtu jāraksta rindkopas.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet savu iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Vai Duet apstrādā dažādus nodarbību veidus un aprīkojuma nomu?",
-      "answer": "Jā. Duet apgūst visus jūsu piedāvājumus — privātās nodarbības, grupas nodarbības, bērnu nometnes, dēļu nomu, SUP tūres. Kad pienāk pieprasījums, tas sagatavo atbildi ar pareizo cenu, ilgumu, iekļauto aprīkojumu un to, kas jāņem līdzi. Tas zina, ka skolas grupas e-pastam vajadzīgas citas detaļas nekā privātas nodarbības rezervācijai."
+      "question": "Vai Chiefy apstrādā dažādus nodarbību veidus un aprīkojuma nomu?",
+      "answer": "Jā. Chiefy apgūst visus jūsu piedāvājumus — privātās nodarbības, grupas nodarbības, bērnu nometnes, dēļu nomu, SUP tūres. Kad pienāk pieprasījums, tas sagatavo atbildi ar pareizo cenu, ilgumu, iekļauto aprīkojumu un to, kas jāņem līdzi. Tas zina, ka skolas grupas e-pastam vajadzīgas citas detaļas nekā privātas nodarbības rezervācijai."
     },
     {
       "question": "Kā ar jautājumiem par laikapstākļiem un apstākļiem?",
-      "answer": "Duet apgūst, kā jūs parasti atbildat uz e-pastiem par apstākļiem — jūsu noteikumus par atcelšanu, pārcelšanu un apstākļiem, kuros jūs vadāt nodarbības. Kad kāds jautā, vai nodarbība notiks, Duet sagatavo atbildi, kas atbilst jūsu ierastajam tonim un politikai. Jūs to pārskatāt un nosūtāt dažu sekunžu laikā."
+      "answer": "Chiefy apgūst, kā jūs parasti atbildat uz e-pastiem par apstākļiem — jūsu noteikumus par atcelšanu, pārcelšanu un apstākļiem, kuros jūs vadāt nodarbības. Kad kāds jautā, vai nodarbība notiks, Chiefy sagatavo atbildi, kas atbilst jūsu ierastajam tonim un politikai. Jūs to pārskatāt un nosūtāt dažu sekunžu laikā."
     }
   ],
   "pricingNote": "Pie $90 par nodarbību divas nosargātas rezervācijas atmaksā vairāk nekā gadu ar Pro."

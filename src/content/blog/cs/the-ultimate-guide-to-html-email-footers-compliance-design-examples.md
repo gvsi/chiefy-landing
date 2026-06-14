@@ -2,7 +2,7 @@
 title: "Dokonalý průvodce po zápatí e-mailu HTML: Soulad, design a příklady"
 description: "Hlavní zápatí e-mailu HTML: základní prvky, tipy pro návrh, soulad s právními předpisy (CAN-SPAM, GDPR, CASL) a příklady značky."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Zápatí vašeho e-mailu HTML může být to poslední, co příjemci uvidí, al
 
 Buduje důvěru, posiluje vaši značku, zajišťuje dodržování předpisů a poskytuje vašemu publiku užitečnou navigaci. Věnujte chvíli kontrole aktuálního zápatí e-mailu. Je to v souladu? je to jasné? Je to vhodné pro mobily? Provedení těchto malých vylepšení může mít velký dopad na to, jak jsou vaše e-maily – a vaše značka – vnímány.
 
-Hledáte způsoby, jak zefektivnit a zprofesionalizovat celkovou správu e-mailů? Zvažte prozkoumání nástrojů určených pro zaneprázdněné profesionály. Když se například naučíte, jak [Duet Mail zjednodušuje e-mailovou produktivitu](https://duetmail.com/cs) s funkcemi využívajícími umělou inteligenci, můžete se více soustředit na zdokonalování detailů, jako je vaše zápatí, a zajistit, aby vás každá komunikace dobře reprezentovala.
+Hledáte způsoby, jak zefektivnit a zprofesionalizovat celkovou správu e-mailů? Zvažte prozkoumání nástrojů určených pro zaneprázdněné profesionály. Když se například naučíte, jak [Chiefy zjednodušuje e-mailovou produktivitu](https://chiefy.com/cs) s funkcemi využívajícími umělou inteligenci, můžete se více soustředit na zdokonalování detailů, jako je vaše zápatí, a zajistit, aby vás každá komunikace dobře reprezentovala.

@@ -2,7 +2,7 @@
 title: "Se utapljate v sporočilih? Strokovne strategije za upravljanje Gmail nabiralnika"
 description: "Ustavite preobremenjenost z e-pošto. Spoznajte strokovne strategije za upravljanje Gmail nabiralnika, od klasičnih taktik do AI orodij."
 publishedAt: 2025-07-04
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Upravljanje nabiralnika", "E-pošta"]
 draft: false
 ---
@@ -159,7 +159,7 @@ AI e-poštni asistenti presegajo preprosto avtomatizacijo; ponujajo inteligentne
 
 **Korist:** Namesto da vi kopljete po kupu, AI samodejno izpostavi e-pošto, ki zahteva takojšnje ukrepanje. To močno skrajša čas razvrščanja, poskrbi, da kritični elementi niso spregledani, zmanjša stres zaradi preobremenjenega nabiralnika in vam omogoči, da energijo usmerite v delo z učinkom, ne v administracijo nabiralnika.
 
-**Povezava Duet Mail (kontekstualno):** _To inteligentno razvrščanje je točno tisto, kar zaposleni strokovnjaki potrebujejo. Tu orodja, kot je _[_Duet Mail_](https://duetmail.com/sl)_ izstopajo, saj z **AI triažo** analizirajo nujnost, potrebna dejanja in odločitve ter jih jasno prikažejo na **osredotočeni nadzorni plošči**, da takoj veste, kaj potrebuje pozornost._
+**Povezava Chiefy (kontekstualno):** _To inteligentno razvrščanje je točno tisto, kar zaposleni strokovnjaki potrebujejo. Tu orodja, kot je _[_Chiefy_](https://chiefy.com/sl)_ izstopajo, saj z **AI triažo** analizirajo nujnost, potrebna dejanja in odločitve ter jih jasno prikažejo na **osredotočeni nadzorni plošči**, da takoj veste, kaj potrebuje pozornost._
 
 ### Pametno povzemanje: takoj razumite dolge niti in priloge
 
@@ -219,4 +219,4 @@ Tehnologija, posebej vzpon inteligentnih AI e-poštnih asistentov, ponuja močan
 
 Obvladovanje Gmail ni samo doseganje urejenega digitalnega prostora. Gre za bistveno zmanjšanje stresa na delovnem mestu, vračanje ur dragocenega časa vsak teden, zaščito sposobnosti osredotočanja na poglobljeno, smiselno delo in končno povečanje vaše učinkovitosti ter dobrega počutja. S premišljenim združevanjem discipliniranih navad in strateške uporabe inteligentnih orodij lahko nabiralnik iz vira strahu preoblikujete v obvladljivo komunikacijsko središče.
 
-Ste pripravljeni izkusiti, kako lahko AI preoblikuje vaš odnos z e-pošto? Naredite prvi korak k mirnejšemu, produktivnejšemu delovnemu dnevu. Raziščite, kako [Duet Mail](https://duetmail.com/sl) uporablja AI triažo, pametno povzemanje in avtentično pisanje osnutkov, da zaposlenim strokovnjakom, kot ste vi, pomaga osvojiti nabiralnik.
+Ste pripravljeni izkusiti, kako lahko AI preoblikuje vaš odnos z e-pošto? Naredite prvi korak k mirnejšemu, produktivnejšemu delovnemu dnevu. Raziščite, kako [Chiefy](https://chiefy.com/sl) uporablja AI triažo, pametno povzemanje in avtentično pisanje osnutkov, da zaposlenim strokovnjakom, kot ste vi, pomaga osvojiti nabiralnik.

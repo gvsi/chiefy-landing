@@ -2,7 +2,7 @@
 title: "Panduan Utama untuk Footer Email HTML: Kepatuhan, Desain & Contoh"
 description: "Master footer email HTML: elemen penting, tip desain, kepatuhan hukum (CAN-SPAM, GDPR, CASL) dan contoh pencitraan merek."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Footer email HTML Anda mungkin merupakan hal terakhir yang dilihat penerima, nam
 
 Ini membangun kepercayaan, memperkuat merek Anda, memastikan kepatuhan, dan memberikan navigasi yang berguna bagi audiens Anda. Luangkan waktu sejenak untuk meninjau footer email Anda saat ini. Apakah itu sesuai? Apakah sudah jelas? Apakah ini ramah seluler? Melakukan perbaikan kecil ini dapat berdampak besar pada persepsi email—dan merek Anda.
 
-Mencari cara untuk menjadikan pengelolaan email Anda secara keseluruhan lebih efisien dan profesional? Pertimbangkan untuk menjelajahi alat yang dirancang untuk para profesional yang sibuk. Misalnya, mempelajari bagaimana [Duet Mail menyederhanakan produktivitas email](https://duetmail.com/id) dengan fitur yang didukung AI mungkin dapat meluangkan lebih banyak waktu untuk fokus menyempurnakan detail seperti footer dan memastikan setiap komunikasi mewakili Anda dengan baik.
+Mencari cara untuk menjadikan pengelolaan email Anda secara keseluruhan lebih efisien dan profesional? Pertimbangkan untuk menjelajahi alat yang dirancang untuk para profesional yang sibuk. Misalnya, mempelajari bagaimana [Chiefy menyederhanakan produktivitas email](https://chiefy.com/id) dengan fitur yang didukung AI mungkin dapat meluangkan lebih banyak waktu untuk fokus menyempurnakan detail seperti footer dan memastikan setiap komunikasi mewakili Anda dengan baik.

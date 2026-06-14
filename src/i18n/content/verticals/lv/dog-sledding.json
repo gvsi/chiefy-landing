@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail suņu pajūgu ekskursijām | AI e-pasta asistents",
-  "metaDescription": "Duet Mail palīdz suņu pajūgu vadītājiem uz rezervācijas e-pastiem atbildēt uzreiz — pat esot trasē. AI sagatavotas atbildes ar jūsu ekskursiju veidiem, cenām, noteikumiem un saziņas stilu.",
+  "pageTitle": "Chiefy suņu pajūgu ekskursijām | AI e-pasta asistents",
+  "metaDescription": "Chiefy palīdz suņu pajūgu vadītājiem uz rezervācijas e-pastiem atbildēt uzreiz — pat esot trasē. AI sagatavotas atbildes ar jūsu ekskursiju veidiem, cenām, noteikumiem un saziņas stilu.",
   "heroBadge": "Uzticas vairāk nekā 200 suņu pajūgu vadītāju",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat trasē",
-  "heroSubline": "Duet apgūst jūsu ekskursiju veidus, cenas, laikapstākļu noteikumus un papildpakalpojumus — un sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
+  "heroSubline": "Chiefy apgūst jūsu ekskursiju veidus, cenas, laikapstākļu noteikumus un papildpakalpojumus — un sagatavo e-pasta atbildes, lai jūs nekad nezaudētu rezervāciju lēnas atbildes dēļ.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ekskursija",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Divas saglabātas rezervācijas apmaksā Duet uz gadu."
+    "punchline": "Divas saglabātas rezervācijas apmaksā Chiefy uz gadu."
   },
-  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus, bet nekad — lieku troksni. Vairs nekādu nepamanītu ekskursiju pieprasījumu, kas paslēpies zem TripAdvisor paziņojumiem.",
-  "draftSubtitle": "Duet apgūst jūsu ekskursiju veidus, cenas un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar paketes informāciju, ieteikumiem, ko vilkt, un papildpakalpojumiem. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Vai šajā nedēļas nogalē ir kādas rezervācijas?\" \"Sagatavo atbildi par ziemeļblāzmas kombinēto paketi.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Chiefy automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus, bet nekad — lieku troksni. Vairs nekādu nepamanītu ekskursiju pieprasījumu, kas paslēpies zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Chiefy apgūst jūsu ekskursiju veidus, cenas un toni. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar paketes informāciju, ieteikumiem, ko vilkt, un papildpakalpojumiem. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šajā nedēļas nogalē ir kādas rezervācijas?\" \"Sagatavo atbildi par ziemeļblāzmas kombinēto paketi.\" Chiefy pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Suņu pajūgu ekskursiju operators, AK",
-      "quote": "Es pavadu trasē 6 stundas dienā bez jebkāda mobilā pārklājuma. Līdz brīdim, kad atgriezos, puse rezervācijas pieprasījumu jau bija aizgājusi pie cita pakalpojumu sniedzēja. Duet sagatavo atbildes ar manas ekskursijas informāciju un cenām — viesi saņem atbildi minūtēs, nevis stundās.",
+      "quote": "Es pavadu trasē 6 stundas dienā bez jebkāda mobilā pārklājuma. Līdz brīdim, kad atgriezos, puse rezervācijas pieprasījumu jau bija aizgājusi pie cita pakalpojumu sniedzēja. Chiefy sagatavo atbildes ar manas ekskursijas informāciju un cenām — viesi saņem atbildi minūtēs, nevis stundās.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Audzētavas un pajūgu ekskursiju īpašniece, AK",
-      "quote": "Mēs piedāvājam audzētavas apmeklējumus, braucienus ar pajūgu un ziemeļblāzmas kombinētās paketes — katram e-pastam vajadzīga cita atbilde. Duet nedēļas laikā saprata visus trīs ekskursiju veidus un tagad katru reizi sagatavo atbildes, kas atbilst pareizajai paketei.",
+      "quote": "Mēs piedāvājam audzētavas apmeklējumus, braucienus ar pajūgu un ziemeļblāzmas kombinētās paketes — katram e-pastam vajadzīga cita atbilde. Chiefy nedēļas laikā saprata visus trīs ekskursiju veidus un tagad katru reizi sagatavo atbildes, kas atbilst pareizajai paketei.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Suņu pajūgu gids, MN",
-      "quote": "Agrāk katru vakaru pavadīju, atbildot uz tiem pašiem jautājumiem par to, ko vilkt, vecuma ierobežojumiem un suņiem. Duet tiek galā ar to visu. Es atgriežos mājās no trases, un viss jau ir sagatavots un gaida.",
+      "quote": "Agrāk katru vakaru pavadīju, atbildot uz tiem pašiem jautājumiem par to, ko vilkt, vecuma ierobežojumiem un suņiem. Chiefy tiek galā ar to visu. Es atgriežos mājās no trases, un viss jau ir sagatavots un gaida.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Ziemeļblāzmas un pajūgu ekskursiju operatore, AK",
-      "quote": "Ziemā laikapstākļu dēļ atcelšanas notiek nepārtraukti. Duet sagatavo pārcelšanas atbildes ar mūsu noteikumiem un alternatīviem datumiem, vēl pirms man ir iespēja pārbaudīt telefonu. Viesiem patīk ātrā atbilde.",
+      "quote": "Ziemā laikapstākļu dēļ atcelšanas notiek nepārtraukti. Chiefy sagatavo pārcelšanas atbildes ar mūsu noteikumiem un alternatīviem datumiem, vēl pirms man ir iespēja pārbaudīt telefonu. Viesiem patīk ātrā atbilde.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Family Dog Sled Adventures, CO",
-      "quote": "Vecāki vienmēr jautā, vai viņu bērni var vadīt pajūgu, vai suņi ir draudzīgi, ko vilkt mugurā — tie paši 10 jautājumi. Duet iemācījās katru atbildi un sagatavo tās perfekti. Tas ir kā klonēt sevi e-pastam.",
+      "quote": "Vecāki vienmēr jautā, vai viņu bērni var vadīt pajūgu, vai suņi ir draudzīgi, ko vilkt mugurā — tie paši 10 jautājumi. Chiefy iemācījās katru atbildi un sagatavo tās perfekti. Tas ir kā klonēt sevi e-pastam.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Kā Duet apstrādā laikapstākļu dēļ atceltas ekskursijas un neskaidrību par ziemeļblāzmu?",
-      "answer": "Duet apgūst jūsu atcelšanas un pārcelšanas noteikumus. Kad viesis raksta par bažām saistībā ar laikapstākļiem vai ziemeļblāzmas redzamību, tas sagatavo atbildi ar jūsu noteikumiem, alternatīviem datumiem un jebkuru būtisku informāciju — piemēram, ka sekojat apstākļiem un apstiprināsiet tuvāk ekskursijai. Jūs pārskatāt un nosūtāt."
+      "question": "Kā Chiefy apstrādā laikapstākļu dēļ atceltas ekskursijas un neskaidrību par ziemeļblāzmu?",
+      "answer": "Chiefy apgūst jūsu atcelšanas un pārcelšanas noteikumus. Kad viesis raksta par bažām saistībā ar laikapstākļiem vai ziemeļblāzmas redzamību, tas sagatavo atbildi ar jūsu noteikumiem, alternatīviem datumiem un jebkuru būtisku informāciju — piemēram, ka sekojat apstākļiem un apstiprināsiet tuvāk ekskursijai. Jūs pārskatāt un nosūtāt."
     },
     {
-      "question": "Es piedāvāju vairākus ekskursiju veidus ar atšķirīgām cenām un papildpakalpojumiem. Vai Duet spēj tos atšķirt?",
-      "answer": "Jā. Duet apgūst katru jūsu ekskursiju veidu — audzētavas apmeklējumus, pajūga vadīšanas pieredzes, ziemeļblāzmas kombinētās paketes, fotografēšanas papildpakalpojumus, transporta paketes — kopā ar to cenām, ilgumu un iekļauto. Kad pienāk pieprasījums, tas piemeklē pareizo ekskursiju un sagatavo atbildi ar korektu informāciju."
+      "question": "Es piedāvāju vairākus ekskursiju veidus ar atšķirīgām cenām un papildpakalpojumiem. Vai Chiefy spēj tos atšķirt?",
+      "answer": "Jā. Chiefy apgūst katru jūsu ekskursiju veidu — audzētavas apmeklējumus, pajūga vadīšanas pieredzes, ziemeļblāzmas kombinētās paketes, fotografēšanas papildpakalpojumus, transporta paketes — kopā ar to cenām, ilgumu un iekļauto. Kad pienāk pieprasījums, tas piemeklē pareizo ekskursiju un sagatavo atbildi ar korektu informāciju."
     }
   ],
   "pricingNote": "Pie $150 par tūri divas saglabātas rezervācijas sedz vairāk nekā gada Pro izmaksas."

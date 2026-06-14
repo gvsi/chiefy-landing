@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail pentru plimbări cu balonul cu aer cald | Asistent de e-mail AI",
-  "metaDescription": "Duet Mail îi ajută pe piloții de baloane să răspundă instantaneu la e-mailurile de rezervare, chiar și în timpul zborurilor la răsărit. Răspunsuri elaborate de AI cu prețurile, politicile meteo și vocea ta.",
+  "pageTitle": "Chiefy pentru plimbări cu balonul cu aer cald | Asistent de e-mail AI",
+  "metaDescription": "Chiefy îi ajută pe piloții de baloane să răspundă instantaneu la e-mailurile de rezervare, chiar și în timpul zborurilor la răsărit. Răspunsuri elaborate de AI cu prețurile, politicile meteo și vocea ta.",
   "heroBadge": "Au încredere de peste 200 de piloți de baloane",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești în aer",
-  "heroSubline": "Duet învață programele de zbor, prețurile și politicile meteo, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare în timp ce lansați la răsărit.",
+  "heroSubline": "Chiefy învață programele de zbor, prețurile și politicile meteo, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierdeți niciodată o rezervare în timp ce lansați la răsărit.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "zbor",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Un zbor salvat plătește pentru un an de Duet."
+    "punchline": "Un zbor salvat plătește pentru un an de Chiefy."
   },
-  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările despre vreme în al doilea rând și zgomotul niciodată. Nu mai ratați o întrebare de zbor îngropată sub alertele de buletin informativ.",
-  "draftSubtitle": "Duet învață prețurile, politicile meteo și tonul. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre zbor, informații despre întâlnire și ce să se îmbrace. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Cine apare în manifestul de mâine?” — Vreo anulare meteo de reprogramat? Duet îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, întrebările despre vreme în al doilea rând și zgomotul niciodată. Nu mai ratați o întrebare de zbor îngropată sub alertele de buletin informativ.",
+  "draftSubtitle": "Chiefy învață prețurile, politicile meteo și tonul. Când ajunge la o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre zbor, informații despre întâlnire și ce să se îmbrace. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Cine apare în manifestul de mâine?” — Vreo anulare meteo de reprogramat? Chiefy îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Căpitanul Mike L.",
       "title": "Pilot de balon, MN",
-      "quote": "Sunt o operațiune cu un singur om — zbor, fac echipaj, răspund la e-mailuri. Doar că la 5 dimineața mă umf, nu răspund. Duet redactează răspunsuri la fiecare „vom zbura mâine?” mesaj peste noapte. Mă trezesc, verific vremea și apăs pe trimite.",
+      "quote": "Sunt o operațiune cu un singur om — zbor, fac echipaj, răspund la e-mailuri. Doar că la 5 dimineața mă umf, nu răspund. Chiefy redactează răspunsuri la fiecare „vom zbura mâine?” mesaj peste noapte. Mă trezesc, verific vremea și apăs pe trimite.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon și Jake B.",
       "title": "Tururi cu balon pe tot parcursul anului, UT",
-      "quote": "Primim aceleași 10 întrebări în fiecare zi. Ce să îmbrac, unde să ne întâlnim, ce dacă bate vânt. Duet a învățat totul și acum redactează răspunsuri perfecte. Am trecut de la o oră de e-mailuri în fiecare noapte la cinci minute.",
+      "quote": "Primim aceleași 10 întrebări în fiecare zi. Ce să îmbrac, unde să ne întâlnim, ce dacă bate vânt. Chiefy a învățat totul și acum redactează răspunsuri perfecte. Am trecut de la o oră de e-mailuri în fiecare noapte la cinci minute.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Operator de zbor Sunrise, AZ",
-      "quote": "Sezonul de vârf înseamnă 4-6 zboruri pe săptămână și fiecare pasager trimite e-mailuri de cel puțin două ori înainte de zbor. Duet se ocupă de întrebările dinainte de zbor, astfel încât să mă pot concentra pe a oferi oamenilor cea mai bună dimineață din viața lor.",
+      "quote": "Sezonul de vârf înseamnă 4-6 zboruri pe săptămână și fiecare pasager trimite e-mailuri de cel puțin două ori înainte de zbor. Chiefy se ocupă de întrebările dinainte de zbor, astfel încât să mă pot concentra pe a oferi oamenilor cea mai bună dimineață din viața lor.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Coproprietar al companiei cu baloane, NM",
-      "quote": "Anulările meteorologice obișnuiau să-mi distrugă întreaga zi — 8 pasageri toți au nevoie de e-mailuri personale de reprogramare. Acum, Duet le scoate pe fiecare cu politica noastră de rerezervare inclusă. Îmi economisește ore în dimineața de anulare.",
+      "quote": "Anulările meteorologice obișnuiau să-mi distrugă întreaga zi — 8 pasageri toți au nevoie de e-mailuri personale de reprogramare. Acum, Chiefy le scoate pe fiecare cu politica noastră de rerezervare inclusă. Îmi economisește ore în dimineața de anulare.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Operațiuni de plimbare cu balonul, CO",
-      "quote": "Zborurile propuse au nevoie de atât de multă coordonare dus-întors. Duet a înțeles cum le gestionăm - timpul, cuvintele de cod, configurația șampaniei. Scrie răspunsuri pe care abia trebuie să le ating.",
+      "quote": "Zborurile propuse au nevoie de atât de multă coordonare dus-întors. Chiefy a înțeles cum le gestionăm - timpul, cuvintele de cod, configurația șampaniei. Scrie răspunsuri pe care abia trebuie să le ating.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Cum gestionează Duet e-mailurile de anulare a vremii?",
-      "answer": "Duet află politicile tale de anulare și rerezervare. Când anulezi un zbor din cauza vremii, acesta poate redacta e-mailuri personalizate de reprogramare pentru fiecare pasager afectat - cu politica ta, datele disponibile și tonul tău. Tu revizuiești și trimiți. Ceea ce obișnuia să dureze o oră de răspunsuri individuale durează câteva minute."
+      "question": "Cum gestionează Chiefy e-mailurile de anulare a vremii?",
+      "answer": "Chiefy află politicile tale de anulare și rerezervare. Când anulezi un zbor din cauza vremii, acesta poate redacta e-mailuri personalizate de reprogramare pentru fiecare pasager afectat - cu politica ta, datele disponibile și tonul tău. Tu revizuiești și trimiți. Ceea ce obișnuia să dureze o oră de răspunsuri individuale durează câteva minute."
     },
     {
-      "question": "Poate Duet să se ocupe de „vom zbura mâine?” e-mailuri care inundă în fiecare seară?",
-      "answer": "Da, acesta este unul dintre cele mai frecvente e-mailuri despre care ne vorbesc operatorii de baloane. Duet învață politicile tale meteo și redactează răspunsuri liniștitoare care explică procesul de decizie, când vei lua decizia finală și la ce să te aștepți. După ce confirmi dimineața, acesta poate redacta actualizări pentru toată lumea din manifest."
+      "question": "Poate Chiefy să se ocupe de „vom zbura mâine?” e-mailuri care inundă în fiecare seară?",
+      "answer": "Da, acesta este unul dintre cele mai frecvente e-mailuri despre care ne vorbesc operatorii de baloane. Chiefy învață politicile tale meteo și redactează răspunsuri liniștitoare care explică procesul de decizie, când vei lua decizia finală și la ce să te aștepți. După ce confirmi dimineața, acesta poate redacta actualizări pentru toată lumea din manifest."
     }
   ],
   "pricingNote": "La 250 USD/persoană cu 4 pasageri per zbor, o rezervare salvată plătește peste un an de Pro."

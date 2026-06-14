@@ -2,7 +2,7 @@
 title: "Sådan skriver du en professionel e-mail: Skriv tydeligt, spar tid og boost din karriere"
 description: "Lær, hvordan du skriver professionelle e-mails, der opbygger tillid og sparer tid. Mestre emnelinjer, tone, struktur & etikette. Boost din karrierekommunikation"
 publishedAt: 2025-05-27
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Produktivitet", "E-mail skrivning"]
 draft: false
 ---
@@ -180,9 +180,9 @@ De vigtigste fordele omfatter:
 
 - **Tidsbesparelser og stressreduktion**: Ved at håndtere gentagne opgaver som sortering, filtrering og endda udarbejdelse af svar kan AI-assistenter spare professionelle timer hver uge og reducere indbakkerelateret stress betydeligt.
 
-Føler du dig begravet? Det er her AI-triage-funktioner, som dem i værktøjer såsom [**Duet Mail**](https://duetmail.com/da), kan være en game-changer. De sorterer automatisk indgående post, bruger kunstig intelligens til at identificere presserende emner, der kræver handling eller beslutninger, og præsenterer dem på et [**fokuseret dashboard**](https://peerlist.io/giovanni/project/duet-mail), og skærer gennem rodet, så du kan se, hvad der betyder mest, med det samme.
+Føler du dig begravet? Det er her AI-triage-funktioner, som dem i værktøjer såsom [**Chiefy**](https://chiefy.com/da), kan være en game-changer. De sorterer automatisk indgående post, bruger kunstig intelligens til at identificere presserende emner, der kræver handling eller beslutninger, og præsenterer dem på et [**fokuseret dashboard**](https://peerlist.io/giovanni/project/duet-mail), og skærer gennem rodet, så du kan se, hvad der betyder mest, med det samme.
 
-Kæmper du med at svare hurtigt, mens du forbliver professionel og autentisk? Avancerede AI-assistenter kan hjælpe. For eksempel bruger [**Duet Mail**](https://duetmail.com/da) [**Authentic AI Drafting**](https://peerlist.io/giovanni/project/duet-mail), der rent faktisk lærer din unikke skrivestil og ordforråd fra dine tidligere e-mails.64 Det foreslår udkast, der lyder som dig, og sparer samtidig personlig kontakt i din professionelle kommunikation. Denne "stemmelæring" sikrer, at dine AI-assisterede svar stadig føles ægte.
+Kæmper du med at svare hurtigt, mens du forbliver professionel og autentisk? Avancerede AI-assistenter kan hjælpe. For eksempel bruger [**Chiefy**](https://chiefy.com/da) [**Authentic AI Drafting**](https://peerlist.io/giovanni/project/duet-mail), der rent faktisk lærer din unikke skrivestil og ordforråd fra dine tidligere e-mails.64 Det foreslår udkast, der lyder som dig, og sparer samtidig personlig kontakt i din professionelle kommunikation. Denne "stemmelæring" sikrer, at dine AI-assisterede svar stadig føles ægte.
 
 Udviklingen af disse værktøjer er fascinerende. Vi er gået fra grundlæggende grammatikkontrol til sofistikerede assistenter, der tackler den holistiske udfordring ved e-mail – ikke kun korrekthed, men håndtering af den kognitive belastning af overbelastning (triage, opsummering) og opretholdelse af personlig forbindelse i skala (stemmelæring). Dette afspejler, hvor kompleks professionel kommunikation er blevet, og behovet for værktøjer, der understøtter os omfattende.
 
@@ -192,6 +192,6 @@ At mestre professionel e-mail handler ikke om stive regler; det handler om klar,
 
 Husk, at blive en god e-mail-kommunikatør er en løbende forfiningsproces. Begynd at anvende disse tips konsekvent, og du vil bemærke forskellen i de svar, du modtager, og den tid, du sparer.
 
-Klar til at tage kontrol over din indbakke og kommunikere som en professionel? Begynd at implementere disse strategier i dag. Og hvis du ønsker at spare timer og reducere e-mailstress, kan du udforske, hvordan AI-assistenter som [**Duet Mail**](https://duetmail.com/da) kan transformere din arbejdsgang med intelligent triage og autentisk udkast.
+Klar til at tage kontrol over din indbakke og kommunikere som en professionel? Begynd at implementere disse strategier i dag. Og hvis du ønsker at spare timer og reducere e-mailstress, kan du udforske, hvordan AI-assistenter som [**Chiefy**](https://chiefy.com/da) kan transformere din arbejdsgang med intelligent triage og autentisk udkast.
 
 Fandt dette nyttigt? Del det med kolleger, der kan få gavn af det!

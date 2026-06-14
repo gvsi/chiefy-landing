@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail koiravaljakkomatkoille | AI-sähköpostiavustaja",
-  "metaDescription": "Duet Mail auttaa mushereita vastaamaan varaussähköposteihin välittömästi – jopa polulla. AI-muotoiltuja vastauksia kiertomatkatyypeillä, hinnoittelulla, käytännöillä ja äänellä.",
+  "pageTitle": "Chiefy koiravaljakkomatkoille | AI-sähköpostiavustaja",
+  "metaDescription": "Chiefy auttaa mushereita vastaamaan varaussähköposteihin välittömästi – jopa polulla. AI-muotoiltuja vastauksia kiertomatkatyypeillä, hinnoittelulla, käytännöillä ja äänellä.",
   "heroBadge": "Yli 200 musherin luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet matkalla",
-  "heroSubline": "Duet oppii kiertomatkatyypit, hinnoittelun, sääkäytännöt ja lisäosat – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaalle vastaukselle.",
+  "heroSubline": "Chiefy oppii kiertomatkatyypit, hinnoittelun, sääkäytännöt ja lisäosat – sitten luonnostelee sähköpostivastaukset, jotta et koskaan menetä varausta hitaalle vastaukselle.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "kiertue",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Kaksi tallennettua varausta maksaa Duet in vuoden."
+    "punchline": "Kaksi tallennettua varausta maksaa Chiefy in vuoden."
   },
-  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt kiertuekysely ei enää jää huomaamatta.",
-  "draftSubtitle": "Duet oppii kiertomatkasi tyypit, hinnoittelun ja sävyn. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on paketin tiedot, pukeutuminen ja lisäosat. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Onko varauksia tälle viikonlopulle?\" \"Luonnos vastaus aurorakombosta.\" Duet tietää postilaatikkosi ja aikataulusi – kysy vain.",
+  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet varauspyynnöt ensin, kysymykset sitten ja melu ei koskaan. TripAdvisor-hälytysten alle jäänyt kiertuekysely ei enää jää huomaamatta.",
+  "draftSubtitle": "Chiefy oppii kiertomatkasi tyypit, hinnoittelun ja sävyn. Kun varauskysely saapuu, se laatii täydellisen vastauksen, jossa on paketin tiedot, pukeutuminen ja lisäosat. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Onko varauksia tälle viikonlopulle?\" \"Luonnos vastaus aurorakombosta.\" Chiefy tietää postilaatikkosi ja aikataulusi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "koiravaljakkomatkanjärjestäjä, AK",
-      "quote": "Olen polulla 6 tuntia päivässä nollasolupalvelulla. Kun palasin, puolet varauskyselyistä oli mennyt toiseen asuun. Duet-luonnosvastaukset, joissa on kiertueen tiedot ja hinnat – vieraat kuulevat minuuteissa, ei tunneissa.",
+      "quote": "Olen polulla 6 tuntia päivässä nollasolupalvelulla. Kun palasin, puolet varauskyselyistä oli mennyt toiseen asuun. Chiefy-luonnosvastaukset, joissa on kiertueen tiedot ja hinnat – vieraat kuulevat minuuteissa, ei tunneissa.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Kennel & Mush Tour Owner, AK",
-      "quote": "Tarjoamme kennelvierailuja, mush-ajeluja ja revontulia - jokainen sähköposti tarvitsee erilaisen vastauksen. Duet selvitti kaikki kolme kiertuetyyppiä viikossa ja nyt luonnostelee oikeaa pakettia vastaavia vastauksia joka kerta.",
+      "quote": "Tarjoamme kennelvierailuja, mush-ajeluja ja revontulia - jokainen sähköposti tarvitsee erilaisen vastauksen. Chiefy selvitti kaikki kolme kiertuetyyppiä viikossa ja nyt luonnostelee oikeaa pakettia vastaavia vastauksia joka kerta.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "koiravaljakkoopas, MN",
-      "quote": "Vietin joka ilta vastaamalla samoihin kysymyksiin pukemisesta, ikärajoista ja koirista. Duet ti hoitaa kaiken. Palaan polulta kotiin ja kaikki on valmis ja odottaa.",
+      "quote": "Vietin joka ilta vastaamalla samoihin kysymyksiin pukemisesta, ikärajoista ja koirista. Chiefy ti hoitaa kaiken. Palaan polulta kotiin ja kaikki on valmis ja odottaa.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Sää peruutukset ovat jatkuvat talvella. Duet luonnostelee käytäntöjemme ja vaihtoehtoisten päivämäärien mukaiset vastausvastaukset ennen kuin ehdin edes tarkistaa puhelimeni. Vieraat pitävät nopeasta vastauksesta.",
+      "quote": "Sää peruutukset ovat jatkuvat talvella. Chiefy luonnostelee käytäntöjemme ja vaihtoehtoisten päivämäärien mukaiset vastausvastaukset ennen kuin ehdin edes tarkistaa puhelimeni. Vieraat pitävät nopeasta vastauksesta.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Family Dog Sled Adventures, CO",
-      "quote": "Vanhemmat kysyvät aina, voivatko heidän lapsensa murskata, ovatko koirat ystävällisiä, mitä pukea päälle – samat 10 kysymystä. Duet oppi jokaisen vastauksen ja laatii ne täydellisesti. Se on kuin kloonaisin itseni sähköpostiin.",
+      "quote": "Vanhemmat kysyvät aina, voivatko heidän lapsensa murskata, ovatko koirat ystävällisiä, mitä pukea päälle – samat 10 kysymystä. Chiefy oppi jokaisen vastauksen ja laatii ne täydellisesti. Se on kuin kloonaisin itseni sähköpostiin.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Miten Duet käsittelee sään peruutuksia ja auroran epävarmuutta?",
-      "answer": "Duet oppii peruutus- ja uudelleenjärjestelykäytäntösi. Kun vieras lähettää sähköpostia säähuoleista tai revontulien näkyvyydestä, se laatii vastauksen, jossa on käytäntösi, vaihtoehtoiset päivämäärät ja kaikki asiaankuuluvat tiedot – kuten olosuhteiden valvonta ja vahvistus lähempänä kiertomatkaa. Tarkistat ja lähetät."
+      "question": "Miten Chiefy käsittelee sään peruutuksia ja auroran epävarmuutta?",
+      "answer": "Chiefy oppii peruutus- ja uudelleenjärjestelykäytäntösi. Kun vieras lähettää sähköpostia säähuoleista tai revontulien näkyvyydestä, se laatii vastauksen, jossa on käytäntösi, vaihtoehtoiset päivämäärät ja kaikki asiaankuuluvat tiedot – kuten olosuhteiden valvonta ja vahvistus lähempänä kiertomatkaa. Tarkistat ja lähetät."
     },
     {
-      "question": "Tarjoan useita kiertomatkoja erilaisilla hinnoilla ja lisäosilla. Pystyykö Duet pitämään ne suorina?",
-      "answer": "Kyllä. Duet oppii jokaisen kiertuetyyppisi – kennelvierailut, mush-kokemukset, aurora-yhdistelmät, valokuvauslisäosat, kuljetuspaketit – sekä niiden hinnoittelun, keston ja mitä sisältyy hintaan. Kun tiedustelu saapuu, se vastaa oikeaa esittelyä ja laatii vastauksen oikeilla tiedoilla."
+      "question": "Tarjoan useita kiertomatkoja erilaisilla hinnoilla ja lisäosilla. Pystyykö Chiefy pitämään ne suorina?",
+      "answer": "Kyllä. Chiefy oppii jokaisen kiertuetyyppisi – kennelvierailut, mush-kokemukset, aurora-yhdistelmät, valokuvauslisäosat, kuljetuspaketit – sekä niiden hinnoittelun, keston ja mitä sisältyy hintaan. Kun tiedustelu saapuu, se vastaa oikeaa esittelyä ja laatii vastauksen oikeilla tiedoilla."
     }
   ],
   "pricingNote": "Hinta 150 $/kierros, kaksi tallennettua varausta maksavat yli vuoden Pro:n."

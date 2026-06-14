@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail para sa ATV at UTV Tours | AI Email Assistant",
-  "metaDescription": "Tinutulungan ng Duet Mail ang mga tour guide ng ATV at UTV na tumugon kaagad sa mga email sa pag-book — kahit na mula sa trail. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga kinakailangan, at boses.",
+  "pageTitle": "Chiefy para sa ATV at UTV Tours | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Chiefy ang mga tour guide ng ATV at UTV na tumugon kaagad sa mga email sa pag-book — kahit na mula sa trail. AI-drafted na mga tugon kasama ang iyong pagpepresyo, mga kinakailangan, at boses.",
   "heroBadge": "Pinagkakatiwalaan ng 200+ tour guide",
   "heroHeadline": "Ang iyong email assistant habang ikaw ay nasa trail",
-  "heroSubline": "Natutunan ng Duet ang iyong mga uri ng tour, pagpepresyo, at mga kinakailangan sa rider — pagkatapos ay mag-draft ng mga tugon sa email para hindi ka mawalan ng booking sa isang mabagal na tugon.",
+  "heroSubline": "Natutunan ng Chiefy ang iyong mga uri ng tour, pagpepresyo, at mga kinakailangan sa rider — pagkatapos ay mag-draft ng mga tugon sa email para hindi ka mawalan ng booking sa isang mabagal na tugon.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,7 +49,7 @@
     "bookingUnit": "pangkat (4 na makina)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Ang isang naka-save na group booking ay nagbabayad para sa isang taon ng Duet."
+    "punchline": "Ang isang naka-save na group booking ay nagbabayad para sa isang taon ng Chiefy."
   },
   "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga kahilingan sa pag-book, pangalawa ang mga tanong sa insurance, at hindi kailanman ingay. Wala nang nawawalang pagtatanong ng grupo na nakabaon sa ilalim ng mga alerto sa TripAdvisor.",
   "draftSubtitle": "Natutunan ng duet ang iyong mga ruta ng paglilibot, pagpepresyo, at mga kinakailangan sa rider. Kapag tumama ang isang pagtatanong sa pag-book, bumubuo ito ng kumpletong tugon na may mga detalye ng biyahe, pagpepresyo, at kung ano ang dadalhin. I-review at ipadala mo.",
@@ -127,7 +127,7 @@
     {
       "name": "Mike D.",
       "title": "Gabay sa ATV, Southern Utah",
-      "quote": "Pinamunuan ko ang 8-oras na paglilibot sa mga canyon na may zero cell service. Sa oras na babalik ako, lumalamig na ang kalahati ng aking mga email sa pag-book. Duet draft ng mga tugon sa aking pagpepresyo at trail info — susuriin ko lang ang mga ito sa pagtatapos ng araw.",
+      "quote": "Pinamunuan ko ang 8-oras na paglilibot sa mga canyon na may zero cell service. Sa oras na babalik ako, lumalamig na ang kalahati ng aking mga email sa pag-book. Chiefy draft ng mga tugon sa aking pagpepresyo at trail info — susuriin ko lang ang mga ito sa pagtatapos ng araw.",
       "avatarKey": "michael"
     },
     {
@@ -139,13 +139,13 @@
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "Nag-email ang mga tao na nagtatanong kung aling trail ang tama para sa kanilang grupo, anong antas ng karanasan ang kailangan nila, kung makakasakay ang mga bata. Ang parehong 5 tanong na paulit-ulit. Duet pako ang bawat isa sa kanila.",
+      "quote": "Nag-email ang mga tao na nagtatanong kung aling trail ang tama para sa kanilang grupo, anong antas ng karanasan ang kailangan nila, kung makakasakay ang mga bata. Ang parehong 5 tanong na paulit-ulit. Chiefy pako ang bawat isa sa kanila.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Gumugugol ako ng mahigit isang oras gabi-gabi sa pagsagot sa parehong mga tanong sa availability. Ngayon, ang mga draft ng Duet ay tumutugon habang nasa labas ako. Ang oras ng pagtugon ko ay umabot sa mga oras hanggang minuto.",
+      "quote": "Gumugugol ako ng mahigit isang oras gabi-gabi sa pagsagot sa parehong mga tanong sa availability. Ngayon, ang mga draft ng Chiefy ay tumutugon habang nasa labas ako. Ang oras ng pagtugon ko ay umabot sa mga oras hanggang minuto.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Pinangangasiwaan ba ng Duet ang mga tanong sa insurance at waiver?",
-      "answer": "Oo. Natutunan ng duet ang iyong mga kinakailangan sa rider — insurance sa pananagutan, mga paghihigpit sa edad, mga detalye ng waiver, kung ano ang kailangang dalhin ng mga sakay. Kapag may nag-email na nagtatanong kung ano ang kailangan nila bago ang kanilang paglilibot, nag-draft ang Duet ng kumpletong tugon kasama ang lahat ng mga detalye. Suriin mo at i-tap ang ipadala."
+      "question": "Pinangangasiwaan ba ng Chiefy ang mga tanong sa insurance at waiver?",
+      "answer": "Oo. Natutunan ng duet ang iyong mga kinakailangan sa rider — insurance sa pananagutan, mga paghihigpit sa edad, mga detalye ng waiver, kung ano ang kailangang dalhin ng mga sakay. Kapag may nag-email na nagtatanong kung ano ang kailangan nila bago ang kanilang paglilibot, nag-draft ang Chiefy ng kumpletong tugon kasama ang lahat ng mga detalye. Suriin mo at i-tap ang ipadala."
     },
     {
-      "question": "Buong araw akong nasa trail na walang cell service. Paano nakakatulong ang Duet?",
-      "answer": "Iyan mismo ang dahilan kung bakit gustong-gusto ng mga gabay ang Duet. Habang nangunguna ka sa isang 6-8 na oras na paglilibot na walang signal, tambak ang mga katanungan sa pag-book. Ang mga duet draft ay tumutugon sa bawat isa sa mga ito — pagpepresyo, availability, lokasyon ng pagpupulong, kung ano ang isusuot. Pagbalik mo, susuriin mo ang mga draft at ipadala. Sinasabi sa amin ng karamihan sa mga gabay na nakakatipid ito sa kanila ng 1-2 oras ng oras ng email bawat araw sa panahon ng peak season."
+      "question": "Buong araw akong nasa trail na walang cell service. Paano nakakatulong ang Chiefy?",
+      "answer": "Iyan mismo ang dahilan kung bakit gustong-gusto ng mga gabay ang Chiefy. Habang nangunguna ka sa isang 6-8 na oras na paglilibot na walang signal, tambak ang mga katanungan sa pag-book. Ang mga duet draft ay tumutugon sa bawat isa sa mga ito — pagpepresyo, availability, lokasyon ng pagpupulong, kung ano ang isusuot. Pagbalik mo, susuriin mo ang mga draft at ipadala. Sinasabi sa amin ng karamihan sa mga gabay na nakakatipid ito sa kanila ng 1-2 oras ng oras ng email bawat araw sa panahon ng peak season."
     }
   ],
   "pricingNote": "Sa $200/machine, ang isang naka-save na grupo ng 4 ay nagbabayad ng higit sa isang taon na Pro."

@@ -2,7 +2,7 @@
 title: "Įvaldykite gautuosius su šiais būtinais Gmail organizavimo įrankiais ir strategijomis"
 description: "Sužinokite svarbiausius Gmail organizavimo įrankius, tokias strategijas kaip Inbox Zero ir GTD, ir kaip DI asistentai gali padėti suvaldyti gautuosius bei padidinti produktyvumą."
 publishedAt: 2025-09-01
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["DI", "Gmail", "Gautųjų valdymas", "Įrankiai"]
 draft: false
 ---
@@ -205,7 +205,7 @@ DI keičia el. pašto valdymą išmania atranka, santraukomis ir juodraščių r
 
 **Nauda:** Drastiškai sumažina rankinio rūšiavimo laiką, iškelia kritines žinutes, kurios galėtų pasimesti, mažina žemo prioriteto laiškų trikdžius ir kovoja su sprendimų nuovargiu atlikdama pradinį „svarbu / nesvarbu“ vertinimą už jus. Tokie įrankiai kaip [**SaneBox**](https://www.sanebox.com/) ir [**Superhuman**](https://superhuman.com/) žinomi dėl DI paremto rūšiavimo galimybių.
 
-Būtent tokiam išmaniajam rūšiavimui sukurti tokie įrankiai kaip [Duet Mail](https://duetmail.com/lt). Jo DI atranka analizuoja gaunamus laiškus pagal skubą ir reikalingus veiksmus, pateikdama juos sutelktame skydelyje, kad iškart matytumėte, kam reikia dėmesio, ir prasiskverbtumėte pro tradicinių chronologinių gautųjų triukšmą.
+Būtent tokiam išmaniajam rūšiavimui sukurti tokie įrankiai kaip [Chiefy](https://chiefy.com/lt). Jo DI atranka analizuoja gaunamus laiškus pagal skubą ir reikalingus veiksmus, pateikdama juos sutelktame skydelyje, kad iškart matytumėte, kam reikia dėmesio, ir prasiskverbtumėte pro tradicinių chronologinių gautųjų triukšmą.
 
 ### Momentinis supratimas: DI paremtos santraukos
 
@@ -213,7 +213,7 @@ Ar kada atidarėte 50 atsakymų giją ir pajutote, kaip smunka širdis? DI santr
 
 **Nauda:** Tai sutaupo milžiniškai daug laiko įsivažiuojant, padeda nepraleisti svarbios informacijos ir gerina bendrą supratimą, ypač sudėtinguose projekto ar kliento pokalbiuose. Šią galimybę siūlo keli DI įrankiai, įskaitant [**Outlook Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot-for-microsoft-365), [**Shortwave**](https://shortwave.com/) ir specialius Gmail priedus, tokius kaip [**AI Mail Assistant**](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) ar [**MailMaestro**](https://www.maestrolabs.com/).
 
-Įsivaizduokite, kad prisijungiate prie ilgos kliento gijos ir akimirksniu suprantate svarbiausias išvadas. DI asistentai, tokie kaip Duet Mail, siūlo išmanias santraukas, automatiškai sutraukdami pokalbius ir prisimindami kontekstines projektų bei santykių detales, kad galėtumėte atsakyti greitai ir tiksliai, neperskaitydami visko iš naujo.
+Įsivaizduokite, kad prisijungiate prie ilgos kliento gijos ir akimirksniu suprantate svarbiausias išvadas. DI asistentai, tokie kaip Chiefy, siūlo išmanias santraukas, automatiškai sutraukdami pokalbius ir prisimindami kontekstines projektų bei santykių detales, kad galėtumėte atsakyti greitai ir tiksliai, neperskaitydami visko iš naujo.
 
 ### Lengva komunikacija: kontekstą suprantantys juodraščiai
 
@@ -221,7 +221,7 @@ El. laiškų rašymas, ypač rutininių, suvalgo didelę laiko dalį. DI juodra�
 
 **Nauda:** Tai smarkiai pagreitina atsakymus, užtikrina profesionalią ir nuoseklią komunikaciją ir atlaisvina nuo protinio nuovargio nuolat rengiant panašias žinutes. Tai siūlo daug įrankių, nuo bendrųjų DI rašytojų, tokių kaip [**ComposeIt**](https://www.scribowriter.com/post/best-ai-email-assistant), iki integruotų asistentų [**Superhuman**](https://superhuman.com/) ar [**Gemini for Google Workspace**](https://workspace.google.com/solutions/ai/).
 
-Suasmenintų atsakymų kūrimas užtrunka. DI juodraščiai gali tai pagreitinti, bet svarbiausia skambėti autentiškai. Duet Mail autentiškas DI juodraščių rengimas mokosi konkretaus jūsų žodyno ir tono iš ankstesnių laiškų, siūlydamas atsakymus, kurie iš tiesų skamba kaip jūs, palaiko santykius ir taupo valandas.
+Suasmenintų atsakymų kūrimas užtrunka. DI juodraščiai gali tai pagreitinti, bet svarbiausia skambėti autentiškai. Chiefy autentiškas DI juodraščių rengimas mokosi konkretaus jūsų žodyno ir tono iš ankstesnių laiškų, siūlydamas atsakymus, kurie iš tiesų skamba kaip jūs, palaiko santykius ir taupo valandas.
 
 DI reiškia esminį poslinkį nuo el. laiškų _valdymo_ prie kognityvinių užduočių _sustiprinimo_: supratimo, prioritetizavimo, apibendrinimo ir komunikavimo. Svarbiausia rasti DI įrankius, kurie mokosi _jūsų_ konkrečių poreikių ir stiliaus, siūlydami suasmenintą pagalbą, kuri jaučiasi natūrali ir patikima.
 
@@ -237,7 +237,7 @@ Tiesa ta, kad **vieno teisingo atsakymo nėra.** Geriausia Gmail organizavimo si
 
 - **Projektų vadovas** gali integruoti Asana ar Todoist ir plačiai naudoti etiketes projektų sekimui.
 
-- **Produktyvumo entuziastas** gali derinti Inbox Zero principus su paketiniu apdorojimu ir eksperimentuoti su DI įrankiais, tokiais kaip Superhuman ar Duet Mail.
+- **Produktyvumo entuziastas** gali derinti Inbox Zero principus su paketiniu apdorojimu ir eksperimentuoti su DI įrankiais, tokiais kaip Superhuman ar Chiefy.
 
 **Kelias į idealų nustatymą:**
 
@@ -249,7 +249,7 @@ Tiesa ta, kad **vieno teisingo atsakymo nėra.** Geriausia Gmail organizavimo si
 
 4. **Tyrinėkite sprendimus:** Ieškokite trečiųjų šalių ar DI įrankių, kurie konkrečiai sprendžia didžiausią kliūtį.
 
-5. **Apsvarstykite integruotą DI:** Jei patrauklios kelios DI funkcijos (atranka, santraukos, juodraščiai), išbandykite tokias platformas kaip [Duet Mail](https://duetmail.com/lt), kurios sujungia šias galimybes į vientisą patirtį ir gali supaprastinti įrankių rinkinį.
+5. **Apsvarstykite integruotą DI:** Jei patrauklios kelios DI funkcijos (atranka, santraukos, juodraščiai), išbandykite tokias platformas kaip [Chiefy](https://chiefy.com/lt), kurios sujungia šias galimybes į vientisą patirtį ir gali supaprastinti įrankių rinkinį.
 
 6. **Tobulinkite:** Nuolat koreguokite sistemą. Tai, kas veikė praėjusį mėnesį, gali reikėti pritaikyti pasikeitus vaidmeniui ar projektams.
 
@@ -259,4 +259,4 @@ El. pašto perkrova yra plačiai paplitęs šiuolaikinės darbo vietos iššūki
 
 Galutinis tikslas - mažiau laiko skirti el. pašto _valdymui_ ir daugiau laiko darbui, kuris iš tikrųjų svarbus. Nesvarbu, ar pradėsite nuo kelių svarbių filtrų, įsipareigosite paketiniam apdorojimui, ar išbandysite DI asistentą, šiandien ženkite vieną žingsnį ramesnio ir tvarkingesnio skaitmeninio gyvenimo link.
 
-Pasirengę patirti DI valdomo el. pašto organizavimo galią, kuri mokosi jūsų stiliaus ir prioritetų? [**Sužinokite, kaip Duet Mail**](https://duetmail.com/lt) gali pakeisti jūsų santykį su gautaisiais ir kas savaitę grąžinti valandas. Išbandykite šiandien!
+Pasirengę patirti DI valdomo el. pašto organizavimo galią, kuri mokosi jūsų stiliaus ir prioritetų? [**Sužinokite, kaip Chiefy**](https://chiefy.com/lt) gali pakeisti jūsų santykį su gautaisiais ir kas savaitę grąžinti valandas. Išbandykite šiandien!

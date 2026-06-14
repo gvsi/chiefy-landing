@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail untuk Sewa Bot Memancing | Pembantu E-mel AI",
-  "metaDescription": "Duet Mail membantu kapten sewa bot memancing membalas e-mel tempahan dengan serta-merta — walaupun ketika berada di atas air. Balasan draf AI dengan harga, polisi, dan nada anda.",
+  "pageTitle": "Chiefy untuk Sewa Bot Memancing | Pembantu E-mel AI",
+  "metaDescription": "Chiefy membantu kapten sewa bot memancing membalas e-mel tempahan dengan serta-merta — walaupun ketika berada di atas air. Balasan draf AI dengan harga, polisi, dan nada anda.",
   "heroBadge": "Dipercayai oleh 500+ kapten sewa bot",
   "heroHeadline": "Pembantu e-mel anda semasa anda berada di atas air",
-  "heroSubline": "Duet mempelajari harga, polisi, dan nada anda — kemudian menyediakan draf balasan e-mel supaya anda tidak kehilangan tempahan akibat respons yang lambat.",
+  "heroSubline": "Chiefy mempelajari harga, polisi, dan nada anda — kemudian menyediakan draf balasan e-mel supaya anda tidak kehilangan tempahan akibat respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "sewaan",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Satu tempahan yang disimpan sudah cukup untuk membayar setahun Duet."
+    "punchline": "Satu tempahan yang disimpan sudah cukup untuk membayar setahun Chiefy."
   },
-  "categorizationSubtitle": "Duet menandakan setiap e-mel secara automatik supaya anda melihat permintaan tempahan terlebih dahulu, soalan selepas itu, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan trip yang tertimbus di bawah makluman TripAdvisor.",
-  "draftSubtitle": "Duet mempelajari harga, polisi, dan nada anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran trip, harga, dan perkara yang perlu dibawa. Anda semak dan hantar.",
-  "agentSubtitle": "\"Hari mana yang tersedia minggu depan?\" \"Sediakan draf balasan kepada Sarah dengan ketersediaan.\" Duet tahu peti masuk dan kalendar anda — cuma tanya.",
+  "categorizationSubtitle": "Chiefy menandakan setiap e-mel secara automatik supaya anda melihat permintaan tempahan terlebih dahulu, soalan selepas itu, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan trip yang tertimbus di bawah makluman TripAdvisor.",
+  "draftSubtitle": "Chiefy mempelajari harga, polisi, dan nada anda. Apabila pertanyaan tempahan masuk, ia menyediakan draf balasan lengkap dengan butiran trip, harga, dan perkara yang perlu dibawa. Anda semak dan hantar.",
+  "agentSubtitle": "\"Hari mana yang tersedia minggu depan?\" \"Sediakan draf balasan kepada Sarah dengan ketersediaan.\" Chiefy tahu peti masuk dan kalendar anda — cuma tanya.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Kapten Mike D.",
       "title": "Kapten Sewa Bot Luar Pesisir, FL",
-      "quote": "Semasa musim puncak saya akan kehilangan 2-3 tempahan seminggu hanya kerana saya tidak dapat membalas cukup pantas dari bot. Duet menyediakan draf balasan dengan harga dan butiran perjalanan saya — saya cuma tekan hantar di antara tangkapan.",
+      "quote": "Semasa musim puncak saya akan kehilangan 2-3 tempahan seminggu hanya kerana saya tidak dapat membalas cukup pantas dari bot. Chiefy menyediakan draf balasan dengan harga dan butiran perjalanan saya — saya cuma tekan hantar di antara tangkapan.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Perniagaan Sewa Bot Keluarga, OR",
-      "quote": "Kami mengendalikan dua bot dan jumlah e-mel semasa musim panas memang gila. Duet mengasingkan permintaan tempahan daripada yang lain dan menyediakan draf balasan yang kedengaran tepat seperti kami. Betul-betul mengubah permainan.",
+      "quote": "Kami mengendalikan dua bot dan jumlah e-mel semasa musim panas memang gila. Chiefy mengasingkan permintaan tempahan daripada yang lain dan menyediakan draf balasan yang kedengaran tepat seperti kami. Betul-betul mengubah permainan.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Pemandu Memancing Pantai, TX",
-      "quote": "Saya menghabiskan satu jam setiap malam menjawab soalan ketersediaan yang sama. Sekarang Duet mengendalikannya. Masa respons saya turun daripada jam kepada minit dan saya belum kehilangan satu pun tempahan sejak itu.",
+      "quote": "Saya menghabiskan satu jam setiap malam menjawab soalan ketersediaan yang sama. Sekarang Chiefy mengendalikannya. Masa respons saya turun daripada jam kepada minit dan saya belum kehilangan satu pun tempahan sejak itu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Pengurus Pejabat Sewa Bot, HI",
-      "quote": "Mengurus e-mel untuk 4 kapten dulu adalah kerja sepenuh masa. Duet mengkategorikan semuanya dan menyediakan draf balasan dengan bot yang betul, harga yang betul, kapten yang betul. Rasanya seperti ada satu lagi diri saya.",
+      "quote": "Mengurus e-mel untuk 4 kapten dulu adalah kerja sepenuh masa. Chiefy mengkategorikan semuanya dan menyediakan draf balasan dengan bot yang betul, harga yang betul, kapten yang betul. Rasanya seperti ada satu lagi diri saya.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "Adakah Duet berfungsi untuk e-mel tempahan dan ketersediaan?",
-      "answer": "Sudah tentu. Duet mempelajari jenis perjalanan anda, harga, ketersediaan dan polisi. Apabila pertanyaan tempahan masuk, ia menyediakan draf respons lengkap dengan butiran yang betul — harga, apa yang termasuk, lokasi pertemuan, apa yang perlu dibawa. Anda semak dan tekan hantar."
+      "question": "Adakah Chiefy berfungsi untuk e-mel tempahan dan ketersediaan?",
+      "answer": "Sudah tentu. Chiefy mempelajari jenis perjalanan anda, harga, ketersediaan dan polisi. Apabila pertanyaan tempahan masuk, ia menyediakan draf respons lengkap dengan butiran yang betul — harga, apa yang termasuk, lokasi pertemuan, apa yang perlu dibawa. Anda semak dan tekan hantar."
     },
     {
-      "question": "Saya berada di atas air sepanjang hari. Boleh saya guna Duet dari telefon saya?",
-      "answer": "Ya. Duet berfungsi dengan Gmail dan Outlook, jadi ia berfungsi di mana sahaja e-mel anda berfungsi — termasuk telefon anda. Draf muncul secara automatik. Di antara tangkapan, anda semak dan hantar dengan satu ketikan. Kebanyakan kapten memberitahu kami ia menjimatkan mereka 1-2 jam masa e-mel sehari semasa musim puncak."
+      "question": "Saya berada di atas air sepanjang hari. Boleh saya guna Chiefy dari telefon saya?",
+      "answer": "Ya. Chiefy berfungsi dengan Gmail dan Outlook, jadi ia berfungsi di mana sahaja e-mel anda berfungsi — termasuk telefon anda. Draf muncul secara automatik. Di antara tangkapan, anda semak dan hantar dengan satu ketikan. Kebanyakan kapten memberitahu kami ia menjimatkan mereka 1-2 jam masa e-mel sehari semasa musim puncak."
     }
   ],
   "pricingNote": "Pada $500/sesuatu sewaan, satu tempahan yang dijimatkan membayar kos Pro lebih daripada setahun."

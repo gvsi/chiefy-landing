@@ -2,7 +2,7 @@
 title: "Cara Mencipta Tandatangan E-mel Interaktif yang Berkesan"
 description: "Ketahui cara mencipta tandatangan e-mel interaktif untuk meningkatkan penglibatan, penjenamaan & petunjuk. Panduan langkah demi langkah untuk freelancer & syarikat pemula"
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Tandatangan interaktif direka untuk mencetuskan tindakan – klik, panggilan, te
 
 Di sinilah penyepaduan strategi tandatangan anda dengan alat pengurusan e-mel yang pintar boleh membuat perbezaan. Apabila petunjuk mula mengklik pautan "Tempah Mesyuarat" yang dijana oleh tandatangan hebat anda, anda memerlukan sistem untuk mengendalikan penjadualan dan komunikasi seterusnya dengan lancar. Begitu juga, mengekalkan nada profesional yang ditetapkan oleh tandatangan anda dalam setiap e-mel susulan adalah kunci untuk membina hubungan.
 
-Alat yang direka untuk produktiviti e-mel, seperti [Duet Mail](https://duetmail.com/ms), boleh membantu merapatkan jurang ini. Bayangkan mendapat bantuan AI untuk merangka balasan yang pantas dan diperibadikan yang mengekalkan suara unik anda selepas seseorang berinteraksi dengan CTA tandatangan anda. Ciri Duet Mail seperti **AI Triage** boleh membantu menonjolkan balasan penting yang dijana daripada interaksi tandatangan, manakala **Authentic AI Drafting** memastikan susulan anda kedengaran seperti anda sendiri, sambil mengekalkan profesionalisme yang diproyeksikan oleh tandatangan anda. Ia menukar penglibatan yang dicetuskan oleh tandatangan anda menjadi perbualan yang diurus dengan baik dan produktif.
+Alat yang direka untuk produktiviti e-mel, seperti [Chiefy](https://chiefy.com/ms), boleh membantu merapatkan jurang ini. Bayangkan mendapat bantuan AI untuk merangka balasan yang pantas dan diperibadikan yang mengekalkan suara unik anda selepas seseorang berinteraksi dengan CTA tandatangan anda. Ciri Chiefy seperti **AI Triage** boleh membantu menonjolkan balasan penting yang dijana daripada interaksi tandatangan, manakala **Authentic AI Drafting** memastikan susulan anda kedengaran seperti anda sendiri, sambil mengekalkan profesionalisme yang diproyeksikan oleh tandatangan anda. Ia menukar penglibatan yang dicetuskan oleh tandatangan anda menjadi perbualan yang diurus dengan baik dan produktif.
 
 ## Bersedia untuk Mengaktifkan Tandatangan Anda?
 

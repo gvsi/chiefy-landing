@@ -2,7 +2,7 @@
 title: "Ako vytvoriť interaktívny e-mailový podpis, ktorý funguje"
 description: "Zistite, ako vytvoriť interaktívny e-mailový podpis na zvýšenie angažovanosti, budovania značky a získavania leadov. Sprievodca krok za krokom pre freelancerov a startupy"
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Interaktívny podpis je navrhnutý tak, aby vyvolal akciu – kliknutie, hovor, 
 
 Tu môže pomôcť prepojenie vašej stratégie podpisu s inteligentnými nástrojmi na správu e-mailov. Keď leady začnú klikať na odkaz „Rezervovať stretnutie“ vytvorený vaším skvelým podpisom, potrebujete systém, ktorý následné plánovanie a komunikáciu zvládne hladko. Rovnako je dôležité zachovať profesionálny tón nastavený vaším podpisom v každom následnom e-maile, aby ste budovali vzťahy.
 
-Nástroje určené na e-mailovú produktivitu, ako [Duet Mail](/sk/), môžu pomôcť preklenúť túto medzeru. Predstavte si, že získate pomoc od AI pri tvorbe rýchlych, personalizovaných odpovedí, ktoré si po interakcii s CTA vo vašom podpise zachovajú váš jedinečný hlas. Funkcie Duet Mail, ako **AI Triage**, môžu pomôcť zvýrazniť dôležité odpovede vzniknuté z interakcií so podpisom, zatiaľ čo **Authentic AI Drafting** zabezpečí, že vaše následné e-maily budú znieť presne ako vy, a zachovajú profesionalitu, ktorú váš podpis komunikuje. Premení to angažovanosť vyvolanú vaším podpisom na dobre riadené a produktívne rozhovory.
+Nástroje určené na e-mailovú produktivitu, ako [Chiefy](/sk/), môžu pomôcť preklenúť túto medzeru. Predstavte si, že získate pomoc od AI pri tvorbe rýchlych, personalizovaných odpovedí, ktoré si po interakcii s CTA vo vašom podpise zachovajú váš jedinečný hlas. Funkcie Chiefy, ako **AI Triage**, môžu pomôcť zvýrazniť dôležité odpovede vzniknuté z interakcií so podpisom, zatiaľ čo **Authentic AI Drafting** zabezpečí, že vaše následné e-maily budú znieť presne ako vy, a zachovajú profesionalitu, ktorú váš podpis komunikuje. Premení to angažovanosť vyvolanú vaším podpisom na dobre riadené a produktívne rozhovory.
 
 ## Ste pripravení aktivovať svoj podpis?
 

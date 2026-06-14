@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail para passeios de ATV e UTV | Assistente de e-mail com IA",
-  "metaDescription": "O Duet Mail ajuda guias de passeios de ATV e UTV a responder emails de reserva instantaneamente — até na trilha. Respostas redigidas por IA com seus preços, requisitos e tom.",
+  "pageTitle": "Chiefy para passeios de ATV e UTV | Assistente de e-mail com IA",
+  "metaDescription": "O Chiefy ajuda guias de passeios de ATV e UTV a responder emails de reserva instantaneamente — até na trilha. Respostas redigidas por IA com seus preços, requisitos e tom.",
   "heroBadge": "Usado por mais de 200 guias de passeio",
   "heroHeadline": "Seu assistente de e-mail enquanto você está na trilha",
-  "heroSubline": "O Duet aprende seus tipos de passeio, preços e requisitos para participantes — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
+  "heroSubline": "O Chiefy aprende seus tipos de passeio, preços e requisitos para participantes — e então redige respostas de e-mail para você não perder nenhuma reserva por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grupo (4 máquinas)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Uma reserva de grupo recuperada paga um ano de Duet."
+    "punchline": "Uma reserva de grupo recuperada paga um ano de Chiefy."
   },
-  "categorizationSubtitle": "O Duet marca automaticamente cada email para você ver pedidos de reserva primeiro, perguntas sobre seguro em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo enterrada sob alertas do TripAdvisor.",
-  "draftSubtitle": "O Duet aprende suas rotas de passeio, preços e requisitos para participantes. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da atividade, preço e o que levar. Você revisa e envia.",
-  "agentSubtitle": "\"Algum grupo reservado para este fim de semana?\" \"Redija uma resposta para Rachel com a disponibilidade de sábado.\" O Duet conhece sua caixa de entrada e sua agenda — é só perguntar.",
+  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para você ver pedidos de reserva primeiro, perguntas sobre seguro em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de grupo enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Chiefy aprende suas rotas de passeio, preços e requisitos para participantes. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da atividade, preço e o que levar. Você revisa e envia.",
+  "agentSubtitle": "\"Algum grupo reservado para este fim de semana?\" \"Redija uma resposta para Rachel com a disponibilidade de sábado.\" O Chiefy conhece sua caixa de entrada e sua agenda — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "Guia de ATV, Southern Utah",
-      "quote": "Eu conduzo passeios de 8 horas pelos cânions sem nenhum sinal de celular. Quando eu voltava, metade dos emails de reserva já tinha esfriado. O Duet redige respostas com meus preços e informações de trilha — eu só reviso no fim do dia.",
+      "quote": "Eu conduzo passeios de 8 horas pelos cânions sem nenhum sinal de celular. Quando eu voltava, metade dos emails de reserva já tinha esfriado. O Chiefy redige respostas com meus preços e informações de trilha — eu só reviso no fim do dia.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "Operadora de passeios de UTV, Colorado",
-      "quote": "Fazemos passeios 7 dias por semana, e só as perguntas sobre seguro e termos já tomavam minhas manhãs. O Duet cuida de tudo — requisitos para participantes, restrições de idade, o que levar. Soa exatamente como eu.",
+      "quote": "Fazemos passeios 7 dias por semana, e só as perguntas sobre seguro e termos já tomavam minhas manhãs. O Chiefy cuida de tudo — requisitos para participantes, restrições de idade, o que levar. Soa exatamente como eu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Guia de passeios de Jeep, Moab",
-      "quote": "As pessoas escrevem perguntando qual trilha é melhor para o grupo, que nível de experiência precisam, se crianças podem ir. As mesmas 5 perguntas sem parar. O Duet acerta todas.",
+      "quote": "As pessoas escrevem perguntando qual trilha é melhor para o grupo, que nível de experiência precisam, se crianças podem ir. As mesmas 5 perguntas sem parar. O Chiefy acerta todas.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Eu passava mais de uma hora toda noite respondendo às mesmas perguntas de disponibilidade. Agora o Duet redige respostas enquanto estou na trilha. Meu tempo de resposta caiu de horas para minutos.",
+      "quote": "Eu passava mais de uma hora toda noite respondendo às mesmas perguntas de disponibilidade. Agora o Chiefy redige respostas enquanto estou na trilha. Meu tempo de resposta caiu de horas para minutos.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Family ATV Tours, Sedona",
-      "quote": "Recebemos muitas famílias perguntando sobre trilhas para iniciantes e requisitos de idade. O Duet aprendeu todas as nossas opções de passeio e recomenda a certa em cada resposta. Os clientes não percebem diferença.",
+      "quote": "Recebemos muitas famílias perguntando sobre trilhas para iniciantes e requisitos de idade. O Chiefy aprendeu todas as nossas opções de passeio e recomenda a certa em cada resposta. Os clientes não percebem diferença.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comece seu teste grátis. Conecte sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "O Duet responde perguntas sobre seguro e termos de responsabilidade?",
-      "answer": "Sim. O Duet aprende seus requisitos para participantes — seguro de responsabilidade civil, restrições de idade, detalhes de termos e o que os clientes precisam levar. Quando alguém escreve perguntando o que precisa antes do passeio, o Duet redige uma resposta completa com todos os detalhes. Você revisa e toca em enviar."
+      "question": "O Chiefy responde perguntas sobre seguro e termos de responsabilidade?",
+      "answer": "Sim. O Chiefy aprende seus requisitos para participantes — seguro de responsabilidade civil, restrições de idade, detalhes de termos e o que os clientes precisam levar. Quando alguém escreve perguntando o que precisa antes do passeio, o Chiefy redige uma resposta completa com todos os detalhes. Você revisa e toca em enviar."
     },
     {
-      "question": "Fico na trilha o dia todo sem sinal de celular. Como o Duet ajuda?",
-      "answer": "É exatamente por isso que guias adoram o Duet. Enquanto você conduz um passeio de 6-8 horas sem sinal, as consultas de reserva se acumulam. O Duet redige respostas para todas elas — preços, disponibilidade, ponto de encontro, o que vestir. Quando você volta, revisa os rascunhos e envia. A maioria dos guias nos diz que economiza 1-2 horas de email por dia durante a alta temporada."
+      "question": "Fico na trilha o dia todo sem sinal de celular. Como o Chiefy ajuda?",
+      "answer": "É exatamente por isso que guias adoram o Chiefy. Enquanto você conduz um passeio de 6-8 horas sem sinal, as consultas de reserva se acumulam. O Chiefy redige respostas para todas elas — preços, disponibilidade, ponto de encontro, o que vestir. Quando você volta, revisa os rascunhos e envia. A maioria dos guias nos diz que economiza 1-2 horas de email por dia durante a alta temporada."
     }
   ],
   "pricingNote": "Com $200/máquina, um grupo de 4 recuperado paga mais de um ano de Pro."

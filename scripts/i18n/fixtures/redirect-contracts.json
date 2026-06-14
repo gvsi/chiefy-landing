@@ -3,205 +3,205 @@
   "redirects": [
     {
       "name": "Portuguese base alias preserves query",
-      "input": "https://duetmail.com/pt?utm_source=x",
+      "input": "https://chiefy.com/pt?utm_source=x",
       "status": 301,
-      "location": "https://duetmail.com/pt-BR?utm_source=x"
+      "location": "https://chiefy.com/pt-BR?utm_source=x"
     },
     {
       "name": "English regional alias and trailing slash preserve query",
-      "input": "https://duetmail.com/en-US/privacy/?ref=partner",
+      "input": "https://chiefy.com/en-US/privacy/?ref=partner",
       "status": 301,
-      "location": "https://duetmail.com/privacy?ref=partner"
+      "location": "https://chiefy.com/privacy?ref=partner"
     },
     {
       "name": "Chinese regional alias preserves blog slug and query",
-      "input": "https://duetmail.com/zh-CN/blog/how-to-use-ai?utm_campaign=test",
+      "input": "https://chiefy.com/zh-CN/blog/how-to-use-ai?utm_campaign=test",
       "status": 301,
-      "location": "https://duetmail.com/zh-Hans/blog/how-to-use-ai?utm_campaign=test"
+      "location": "https://chiefy.com/zh-Hans/blog/how-to-use-ai?utm_campaign=test"
     },
     {
       "name": "Localized generated html page preserves query",
-      "input": "https://duetmail.com/de/privacy.html?ref=partner",
+      "input": "https://chiefy.com/de/privacy.html?ref=partner",
       "status": 301,
-      "location": "https://duetmail.com/de/privacy?ref=partner"
+      "location": "https://chiefy.com/de/privacy?ref=partner"
     },
     {
       "name": "Default locale generated html canonicalizes to root",
-      "input": "https://duetmail.com/en.html",
+      "input": "https://chiefy.com/en.html",
       "status": 301,
-      "location": "https://duetmail.com/"
+      "location": "https://chiefy.com/"
     },
     {
       "name": "Generated root index html canonicalizes to root",
-      "input": "https://duetmail.com/index.html?ref=partner",
+      "input": "https://chiefy.com/index.html?ref=partner",
       "status": 301,
-      "location": "https://duetmail.com/?ref=partner"
+      "location": "https://chiefy.com/?ref=partner"
     },
     {
       "name": "Default locale generated index html canonicalizes to root",
-      "input": "https://duetmail.com/en/index.html",
+      "input": "https://chiefy.com/en/index.html",
       "status": 301,
-      "location": "https://duetmail.com/"
+      "location": "https://chiefy.com/"
     },
     {
       "name": "Default locale alias generated index html canonicalizes to root",
-      "input": "https://duetmail.com/en-US/index.html",
+      "input": "https://chiefy.com/en-US/index.html",
       "status": 301,
-      "location": "https://duetmail.com/"
+      "location": "https://chiefy.com/"
     },
     {
       "name": "Localized generated index html canonicalizes to localized root",
-      "input": "https://duetmail.com/de/index.html",
+      "input": "https://chiefy.com/de/index.html",
       "status": 301,
-      "location": "https://duetmail.com/de"
+      "location": "https://chiefy.com/de"
     },
     {
       "name": "Default locale blog canonicalizes to unprefixed",
-      "input": "https://duetmail.com/en/blog/example",
+      "input": "https://chiefy.com/en/blog/example",
       "status": 301,
-      "location": "https://duetmail.com/blog/example"
+      "location": "https://chiefy.com/blog/example"
     },
     {
       "name": "Default locale vertical route passes through",
-      "input": "https://duetmail.com/for/dive-shops",
+      "input": "https://chiefy.com/for/dive-shops",
       "status": 200,
       "location": null
     },
     {
       "name": "Default locale vertical horseback route passes through",
-      "input": "https://duetmail.com/for/horseback-rides",
+      "input": "https://chiefy.com/for/horseback-rides",
       "status": 200,
       "location": null
     },
     {
       "name": "Default locale vertical route trailing slash canonicalizes",
-      "input": "https://duetmail.com/for/dive-shops/",
+      "input": "https://chiefy.com/for/dive-shops/",
       "status": 301,
-      "location": "https://duetmail.com/for/dive-shops"
+      "location": "https://chiefy.com/for/dive-shops"
     },
     {
       "name": "Default locale prefix strips before vertical route",
-      "input": "https://duetmail.com/en/for/horseback-rides",
+      "input": "https://chiefy.com/en/for/horseback-rides",
       "status": 301,
-      "location": "https://duetmail.com/for/horseback-rides"
+      "location": "https://chiefy.com/for/horseback-rides"
     },
     {
       "name": "Default locale vertical index passes through",
-      "input": "https://duetmail.com/for",
+      "input": "https://chiefy.com/for",
       "status": 200,
       "location": null
     },
     {
       "name": "Unknown locale-like top level segment passes through",
-      "input": "https://duetmail.com/zz/privacy",
+      "input": "https://chiefy.com/zz/privacy",
       "status": 200,
       "location": null
     },
     {
       "name": "Short non-locale route segment passes through",
-      "input": "https://duetmail.com/ai",
+      "input": "https://chiefy.com/ai",
       "status": 200,
       "location": null
     },
     {
       "name": "Pseudo locale is rejected before fallback",
-      "input": "https://duetmail.com/en-XA/privacy",
+      "input": "https://chiefy.com/en-XA/privacy",
       "status": 200,
       "location": null
     },
     {
       "name": "Unlisted Portuguese regional locale falls back to pt-BR",
-      "input": "https://duetmail.com/pt-MZ/privacy",
+      "input": "https://chiefy.com/pt-MZ/privacy",
       "status": 301,
-      "location": "https://duetmail.com/pt-BR/privacy"
+      "location": "https://chiefy.com/pt-BR/privacy"
     },
     {
       "name": "Unlisted Portuguese regional blog locale falls back to pt-BR",
-      "input": "https://duetmail.com/pt-AO/blog",
+      "input": "https://chiefy.com/pt-AO/blog",
       "status": 301,
-      "location": "https://duetmail.com/pt-BR/blog"
+      "location": "https://chiefy.com/pt-BR/blog"
     },
     {
       "name": "Unlisted Chinese regional locale falls back to zh-Hans",
-      "input": "https://duetmail.com/zh-MY/privacy",
+      "input": "https://chiefy.com/zh-MY/privacy",
       "status": 301,
-      "location": "https://duetmail.com/zh-Hans/privacy"
+      "location": "https://chiefy.com/zh-Hans/privacy"
     },
     {
       "name": "Valencian regional variant falls back to Catalan",
-      "input": "https://duetmail.com/ca-ES-valencia/privacy",
+      "input": "https://chiefy.com/ca-ES-valencia/privacy",
       "status": 301,
-      "location": "https://duetmail.com/ca/privacy"
+      "location": "https://chiefy.com/ca/privacy"
     },
     {
       "name": "Malformed locale prefix is not redirected",
-      "input": "https://duetmail.com/pt-***/privacy",
+      "input": "https://chiefy.com/pt-***/privacy",
       "status": 200,
       "location": null
     },
     {
       "name": "Unknown Portuguese hyphenated slug is not redirected",
-      "input": "https://duetmail.com/pt-custom-page",
+      "input": "https://chiefy.com/pt-custom-page",
       "status": 200,
       "location": null
     },
     {
       "name": "Unknown French hyphenated slug with legal tail is not redirected",
-      "input": "https://duetmail.com/fr-extra/privacy",
+      "input": "https://chiefy.com/fr-extra/privacy",
       "status": 200,
       "location": null
     },
     {
       "name": "Unknown Chinese hyphenated slug is not redirected",
-      "input": "https://duetmail.com/zh-unknown",
+      "input": "https://chiefy.com/zh-unknown",
       "status": 200,
       "location": null
     },
     {
       "name": "Norwegian alias canonicalizes to nb",
-      "input": "https://duetmail.com/no/privacy",
+      "input": "https://chiefy.com/no/privacy",
       "status": 301,
-      "location": "https://duetmail.com/nb/privacy"
+      "location": "https://chiefy.com/nb/privacy"
     },
     {
       "name": "Underscore locale variant canonicalizes",
-      "input": "https://duetmail.com/zh_Hant_TW/privacy",
+      "input": "https://chiefy.com/zh_Hant_TW/privacy",
       "status": 301,
-      "location": "https://duetmail.com/zh-Hant/privacy"
+      "location": "https://chiefy.com/zh-Hant/privacy"
     },
     {
       "name": "Extension tail is stripped before matching",
-      "input": "https://duetmail.com/de-DE-u-hc-h23/privacy",
+      "input": "https://chiefy.com/de-DE-u-hc-h23/privacy",
       "status": 301,
-      "location": "https://duetmail.com/de/privacy"
+      "location": "https://chiefy.com/de/privacy"
     },
     {
       "name": "Known blog route trailing slash canonicalizes",
-      "input": "https://duetmail.com/blog/example/",
+      "input": "https://chiefy.com/blog/example/",
       "status": 301,
-      "location": "https://duetmail.com/blog/example"
+      "location": "https://chiefy.com/blog/example"
     },
     {
       "name": "Generated blog index html canonicalizes to blog index",
-      "input": "https://duetmail.com/blog/index.html?ref=partner",
+      "input": "https://chiefy.com/blog/index.html?ref=partner",
       "status": 301,
-      "location": "https://duetmail.com/blog?ref=partner"
+      "location": "https://chiefy.com/blog?ref=partner"
     },
     {
       "name": "Localized generated blog index html canonicalizes to localized blog index",
-      "input": "https://duetmail.com/fr/blog/index.html",
+      "input": "https://chiefy.com/fr/blog/index.html",
       "status": 301,
-      "location": "https://duetmail.com/fr/blog"
+      "location": "https://chiefy.com/fr/blog"
     },
     {
       "name": "Default locale generated blog index html canonicalizes to unprefixed blog index",
-      "input": "https://duetmail.com/en/blog/index.html",
+      "input": "https://chiefy.com/en/blog/index.html",
       "status": 301,
-      "location": "https://duetmail.com/blog"
+      "location": "https://chiefy.com/blog"
     },
     {
       "name": "Localized known route passes through with headers",
-      "input": "https://duetmail.com/de",
+      "input": "https://chiefy.com/de",
       "status": 200,
       "location": null
     }

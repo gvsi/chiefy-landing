@@ -36,7 +36,7 @@ export function localizedUrl(site: URL, locale: Locale, input: RouteInput): stri
 }
 
 function resolveSite(site: URL | undefined): URL {
-    return site ?? new URL("https://duetmail.com")
+    return site ?? new URL("https://chiefy.com")
 }
 
 export function routeLocaleFromSegment(raw: string): Locale | null {

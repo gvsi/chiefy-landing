@@ -2,7 +2,7 @@
 title: "অটো-রিপ্লাইয়ের বাইরে: AI email responder কীভাবে সময় ও ফোকাস ফিরিয়ে দেয়"
 description: "ইমেলে ডুবে যাচ্ছেন? আধুনিক AI email responder কীভাবে ইনবক্সকে stress source থেকে productivity engine-এ বদলে দেয় তা জানুন।"
 publishedAt: 2025-04-26
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "উৎপাদনশীলতা", "ইমেল লেখা"]
 draft: false
 ---
@@ -49,9 +49,9 @@ AI প্রথম খসড়া তৈরি করে। আপনি facts য
 - prompt-এ expected tone, length ও constraint লিখুন।
 - customer-facing উত্তর robotic যেন না শোনায়।
 
-## Duet Mail উদাহরণ
+## Chiefy উদাহরণ
 
-[Duet Mail](https://duetmail.com/bn) AI Triage, Smart Summarization এবং Authentic AI Drafting একত্র করে। তাই এটি শুধু "reply" বানায় না; আগে কোন ইমেল গুরুত্বপূর্ণ তা দেখায়, thread বোঝায় এবং আপনার writing style অনুযায়ী খসড়া দেয়।
+[Chiefy](https://chiefy.com/bn) AI Triage, Smart Summarization এবং Authentic AI Drafting একত্র করে। তাই এটি শুধু "reply" বানায় না; আগে কোন ইমেল গুরুত্বপূর্ণ তা দেখায়, thread বোঝায় এবং আপনার writing style অনুযায়ী খসড়া দেয়।
 
 ## শেষ কথা
 

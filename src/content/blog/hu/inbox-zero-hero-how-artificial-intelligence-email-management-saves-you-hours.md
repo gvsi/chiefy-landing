@@ -2,7 +2,7 @@
 title: "Inbox Zero Hero: Hogyan takaríthat meg órákat a mesterséges intelligencia e-mail-kezelése"
 description: "Ne fulladj bele az e-mailekbe! Ismerje meg, hogy a mesterséges intelligencia e-mail-kezelő eszközei hogyan automatizálják a rendezést, rangsorolják a feladatokat és a válaszvázlatokat, hogy órákat takarítsanak meg."
 publishedAt: 2025-09-29
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Beérkezett üzenetek kezelése", "Email"]
 draft: false
 ---
@@ -60,7 +60,7 @@ Különféle tényezőket értékelnek, többek között:
 
 - **Érzelemelemzés:** Egyes eszközök mérik az érzelmi tónust, hogy azonosítsák a potenciálisan kritikus problémákat.
 
-Itt lépnek működésbe az AI Triage funkciói, mint például a [Duet Mail](https://duetmail.com/hu) eszközökben, és automatikusan egy fókuszált irányítópulton jelennek meg a műveletet vagy döntést igénylő e-mailek. A magas prioritású üzenetek azonosításával és kiemelésével ezek a rendszerek drámaian csökkentik a rendezési időt, és minimálisra csökkentik a kritikus információk hiányának kockázatát.
+Itt lépnek működésbe az AI Triage funkciói, mint például a [Chiefy](https://chiefy.com/hu) eszközökben, és automatikusan egy fókuszált irányítópulton jelennek meg a műveletet vagy döntést igénylő e-mailek. A magas prioritású üzenetek azonosításával és kiemelésével ezek a rendszerek drámaian csökkentik a rendezési időt, és minimálisra csökkentik a kritikus információk hiányának kockázatát.
 
 ### AI-alapú rajzolás: A sebesség találkozik a hitelességgel
 
@@ -68,7 +68,7 @@ Egy üres válaszablakot bámulsz? Az AI segíthet. Számos e-mail-asszisztens k
 
 Általános aggodalomra ad okot azonban, hogy az AI által generált e-mailek általánosnak vagy robotnak tűnhetnek. Míg az alapvető mesterséges intelligencia szabványos szöveget állíthat elő, a kifinomult eszközök megbirkóznak ezzel a kihívással. A kulcs a **személyre szabás**. A jó AI-asszisztensek lehetővé teszik a hangszín (formális, alkalmi, barátságos) és a hossz beállítását.
 
-A legjobb eszközök tovább mennek, megtanulják az Ön egyedi kommunikációs mintáit. Például a [Duet Mail](https://duetmail.com/hu) Authentic AI Drafting elemzi az Ön korábbi e-mailjeit, hogy olyan válaszokat generáljon, amelyek valóban úgy hangzanak, mint Ön, rögzítve szókincsét és stílusbeli árnyalatait. Ne feledje, hogy a cél nem az, hogy lecserélje a hangját, hanem hogy fokozza azt. Mindig nézze át és módosítsa a mesterséges intelligencia piszkozatait, hogy konkrét kontextust vagy személyes hatást adjon hozzá, mielőtt megnyomja a küldést.
+A legjobb eszközök tovább mennek, megtanulják az Ön egyedi kommunikációs mintáit. Például a [Chiefy](https://chiefy.com/hu) Authentic AI Drafting elemzi az Ön korábbi e-mailjeit, hogy olyan válaszokat generáljon, amelyek valóban úgy hangzanak, mint Ön, rögzítve szókincsét és stílusbeli árnyalatait. Ne feledje, hogy a cél nem az, hogy lecserélje a hangját, hanem hogy fokozza azt. Mindig nézze át és módosítsa a mesterséges intelligencia piszkozatait, hogy konkrét kontextust vagy személyes hatást adjon hozzá, mielőtt megnyomja a küldést.
 
 ### Hosszú szálak megszelídítése mesterséges intelligencia összegzésével
 
@@ -80,7 +80,7 @@ Két fő megközelítés létezik:
 
 - **Absztrakciós összefoglalás:** Megérti a kontextust, és *új* mondatokat generál a lényegi jelentés közvetítésére, ami gyakran gördülékenyebb összefoglalásokat eredményez.
 
-A módszertől függetlenül az előny egyértelmű: nem percek, hanem másodpercek alatt felfogod a beszélgetés lényegét. Egy [Gartner-tanulmány](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) kimutatta, hogy az AI összegzése akár 32%-kal is növelheti a felhasználói produktivitást. A mesterséges intelligencia összegzése, akárcsak a [Duet Mail](https://duetmail.com/hu) Intelligens összegzés funkciója, gyorsan kiemeli a kulcsfontosságú pontokat és műveleti elemeket, még a korábbi interakciók kontextusára is emlékszik, így felbecsülhetetlen értékű olvasási időt takaríthat meg.
+A módszertől függetlenül az előny egyértelmű: nem percek, hanem másodpercek alatt felfogod a beszélgetés lényegét. Egy [Gartner-tanulmány](https://www.maestrolabs.com/blog-detail/how-is-ai-revolutionizing-inbox-management) kimutatta, hogy az AI összegzése akár 32%-kal is növelheti a felhasználói produktivitást. A mesterséges intelligencia összegzése, akárcsak a [Chiefy](https://chiefy.com/hu) Intelligens összegzés funkciója, gyorsan kiemeli a kulcsfontosságú pontokat és műveleti elemeket, még a korábbi interakciók kontextusára is emlékszik, így felbecsülhetetlen értékű olvasási időt takaríthat meg.
 
 
 A mesterséges intelligencia összegzése a hosszú e-mail-szálakat kulcsfontosságú pontokba sűríti, jelentős olvasási időt takarítva meg.

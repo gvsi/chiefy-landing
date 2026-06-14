@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail lovagláshoz és túravezetőkhöz | AI e-mail asszisztens",
-  "metaDescription": "A Duet Mail segít a túravezetőknek azonnal válaszolni a foglalási e-mailekre – akár a nyeregből is. AI által összeállított válaszok az árakkal, a versenyzői követelményekkel és a hanggal.",
+  "pageTitle": "Chiefy lovagláshoz és túravezetőkhöz | AI e-mail asszisztens",
+  "metaDescription": "A Chiefy segít a túravezetőknek azonnal válaszolni a foglalási e-mailekre – akár a nyeregből is. AI által összeállított válaszok az árakkal, a versenyzői követelményekkel és a hanggal.",
   "heroBadge": "Több mint 300 túravezető megbízható",
   "heroHeadline": "Az e-mail asszisztens, amíg úton van",
-  "heroSubline": "A Duet megtanulja az Ön utazási típusait, árait, versenyzői követelményeit és a nyomvonal körülményeit – majd e-mail-válaszokat készít, hogy soha ne veszítse el a foglalást egy lassú válasz miatt.",
+  "heroSubline": "A Chiefy megtanulja az Ön utazási típusait, árait, versenyzői követelményeit és a nyomvonal körülményeit – majd e-mail-válaszokat készít, hogy soha ne veszítse el a foglalást egy lassú válasz miatt.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lovagol",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Egy megtakarított csoportos utazás több mint két év Duetért fizet."
+    "punchline": "Egy megtakarított csoportos utazás több mint két év Chiefyért fizet."
   },
-  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kérelmeket látja, a lovas kérdéseit másodsorban, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá rejtett csoportos megkeresés.",
-  "draftSubtitle": "A Duet megtanulja az Ön utazási típusait, árait és követelményeit. Amikor egy foglalási lekérdezés érkezik, teljes választ ad a nyomvonal részleteivel, az árakkal és a viselnivalókkal. Te átnézed és elküldöd.",
-  "agentSubtitle": "– Nyitva van a hétvégén? \"Választervezet Jessicának szombati elérhetőséggel.\" A Duet ismeri a postaládáját és a naptárát – csak kérdezzen.",
+  "categorizationSubtitle": "A Chiefy minden e-mailt automatikusan megcímkéz, így először a foglalási kérelmeket látja, a lovas kérdéseit másodsorban, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá rejtett csoportos megkeresés.",
+  "draftSubtitle": "A Chiefy megtanulja az Ön utazási típusait, árait és követelményeit. Amikor egy foglalási lekérdezés érkezik, teljes választ ad a nyomvonal részleteivel, az árakkal és a viselnivalókkal. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Nyitva van a hétvégén? \"Választervezet Jessicának szombati elérhetőséggel.\" A Chiefy ismeri a postaládáját és a naptárát – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "Napi 6 órában kint vagyok mobilszolgáltatás nélkül. Mire visszaértem válaszolni, az emberek fele máshol foglalt. A Duet most összeállítja a válaszokat az árakkal és az utazási adataimmal – én csak átnézem és elküldöm, amikor visszatérek az istállóba.",
+      "quote": "Napi 6 órában kint vagyok mobilszolgáltatás nélkül. Mire visszaértem válaszolni, az emberek fele máshol foglalt. A Chiefy most összeállítja a válaszokat az árakkal és az utazási adataimmal – én csak átnézem és elküldöm, amikor visszatérek az istállóba.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Horseback Tour Operator, AZ",
-      "quote": "Több tucat e-mailt kapunk, amelyekben ugyanazt kérdezik – súlykorlátozást, viseletet, életkori követelményeket. A Duet kezeli az egészet, és a válaszok pontosan úgy hangzanak, mint én. A vendégeim nem is sejtik, hogy ez a mesterséges intelligencia.",
+      "quote": "Több tucat e-mailt kapunk, amelyekben ugyanazt kérdezik – súlykorlátozást, viseletet, életkori követelményeket. A Chiefy kezeli az egészet, és a válaszok pontosan úgy hangzanak, mint én. A vendégeim nem is sejtik, hogy ez a mesterséges intelligencia.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride Guide, CO",
-      "quote": "A főszezon megölt. Napi 30+ e-mail a futó túrákon felül. A Duet a zajból kiválogatja a foglalási kérelmeket, és válaszvázlatokat készít, amelyek mindent tartalmaznak – árat, mit vigyen magával, a tételt. Visszakaptam az estéimet.",
+      "quote": "A főszezon megölt. Napi 30+ e-mail a futó túrákon felül. A Chiefy a zajból kiválogatja a foglalási kérelmeket, és válaszvázlatokat készít, amelyek mindent tartalmaznak – árat, mit vigyen magával, a tételt. Visszakaptam az estéimet.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Lovasoktató és foglalási menedzser, TX",
-      "quote": "Naplemente túrákat, reggeli túrákat és magánórákat szervezünk – mindegyik más-más árakkal és követelményekkel. A Duet egy hét alatt mindent megtanult. Minden alkalommal elkészíti a megfelelő választ a megfelelő utazástípushoz.",
+      "quote": "Naplemente túrákat, reggeli túrákat és magánórákat szervezünk – mindegyik más-más árakkal és követelményekkel. A Chiefy egy hét alatt mindent megtanult. Minden alkalommal elkészíti a megfelelő választ a megfelelő utazástípushoz.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "Az érzékeny e-mailek voltak a legrosszabbak – valaki megkérdezte, hogy túl nehezek-e, vagy elég idős-e a gyereke. A Duet ugyanolyan gondossággal kezeli őket, mint én. Proszakszerű, kedves és pontos. Ez már önmagában megéri.",
+      "quote": "Az érzékeny e-mailek voltak a legrosszabbak – valaki megkérdezte, hogy túl nehezek-e, vagy elég idős-e a gyereke. A Chiefy ugyanolyan gondossággal kezeli őket, mint én. Proszakszerű, kedves és pontos. Ez már önmagában megéri.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "Hogyan kezeli a Duet a súly- vagy tapasztalati követelményekkel kapcsolatos kényes kérdéseket?",
-      "answer": "A Duet megtanulja az Ön konkrét irányelveit, és tükrözi az Ön hangnemét. Ha valaki a súlykorlátokról vagy a tapasztalati követelményekről kérdez, az professzionálisan és melegen válaszol – megosztja a szükséges információkat anélkül, hogy kínossá tenné. Ön egyszer megadja az alaphangot, és a Duet következetesen követi azt, így minden vendég tiszteletben érzi magát."
+      "question": "Hogyan kezeli a Chiefy a súly- vagy tapasztalati követelményekkel kapcsolatos kényes kérdéseket?",
+      "answer": "A Chiefy megtanulja az Ön konkrét irányelveit, és tükrözi az Ön hangnemét. Ha valaki a súlykorlátokról vagy a tapasztalati követelményekről kérdez, az professzionálisan és melegen válaszol – megosztja a szükséges információkat anélkül, hogy kínossá tenné. Ön egyszer megadja az alaphangot, és a Chiefy következetesen követi azt, így minden vendég tiszteletben érzi magát."
     },
     {
-      "question": "A Duet képes kezelni a csoportos foglalásokat különböző versenyzői igényekkel?",
-      "answer": "Igen. A Duet megtanulja az Ön utazási típusait, csoportméreteit, életkorát és a versenyzőkre vonatkozó követelményeket. Amikor egy család vagy csoport e-mailt küld a foglalásról, válaszvázlatot készít, amely tartalmazza a teljes csoport árait, azt, amit minden versenyzőnek tudnia kell, és a rendelkezésre álló idősávokat. Ön felülvizsgálja és elküldi – nincs szükség oda-vissza."
+      "question": "A Chiefy képes kezelni a csoportos foglalásokat különböző versenyzői igényekkel?",
+      "answer": "Igen. A Chiefy megtanulja az Ön utazási típusait, csoportméreteit, életkorát és a versenyzőkre vonatkozó követelményeket. Amikor egy család vagy csoport e-mailt küld a foglalásról, válaszvázlatot készít, amely tartalmazza a teljes csoport árait, azt, amit minden versenyzőnek tudnia kell, és a rendelkezésre álló idősávokat. Ön felülvizsgálja és elküldi – nincs szükség oda-vissza."
     }
   ],
   "pricingNote": "100 USD/fő áron 6 fős csoport esetén egy megtakarított út több mint két év Pro-ért fizet."

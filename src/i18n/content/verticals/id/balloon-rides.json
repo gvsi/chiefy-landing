@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail untuk Naik Balon Udara |  AI Asisten Email",
-  "metaDescription": "Duet Mail membantu pilot balon merespons email pemesanan secara instan — bahkan selama penerbangan saat matahari terbit.  AI -Balasan yang disusun dengan harga, kebijakan cuaca, dan suara Anda.",
+  "pageTitle": "Chiefy untuk Naik Balon Udara |  AI Asisten Email",
+  "metaDescription": "Chiefy membantu pilot balon merespons email pemesanan secara instan — bahkan selama penerbangan saat matahari terbit.  AI -Balasan yang disusun dengan harga, kebijakan cuaca, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 200+ pilot balon",
   "heroHeadline": "Asisten email Anda saat Anda berada di udara",
-  "heroSubline": "Duet mempelajari jadwal penerbangan, harga, dan kebijakan cuaca Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan saat Anda meluncurkannya saat matahari terbit.",
+  "heroSubline": "Chiefy mempelajari jadwal penerbangan, harga, dan kebijakan cuaca Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan saat Anda meluncurkannya saat matahari terbit.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "flight",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Satu penerbangan hemat membayar untuk satu tahun Duet."
+    "punchline": "Satu penerbangan hemat membayar untuk satu tahun Chiefy."
   },
-  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan cuaca kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan penerbangan yang hilang yang terkubur di bawah peringatan buletin.",
-  "draftSubtitle": "Duet mempelajari harga, kebijakan cuaca, dan nada Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail penerbangan, info pertemuan, dan pakaian yang akan dikenakan. Anda meninjau dan mengirim.",
-  "agentSubtitle": "\"Siapa yang ada di manifes besok?\" \"Apakah ada pembatalan cuaca yang perlu dijadwal ulang?\" Duet mengetahui inbox dan kalender Anda — tanyakan saja.",
+  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan cuaca kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan penerbangan yang hilang yang terkubur di bawah peringatan buletin.",
+  "draftSubtitle": "Chiefy mempelajari harga, kebijakan cuaca, dan nada Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail penerbangan, info pertemuan, dan pakaian yang akan dikenakan. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Siapa yang ada di manifes besok?\" \"Apakah ada pembatalan cuaca yang perlu dijadwal ulang?\" Chiefy mengetahui inbox dan kalender Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Mike L.",
       "title": "Pilot Balon, MN",
-      "quote": "Saya bekerja satu orang — saya terbang, saya menjadi kru, saya menjawab email. Kecuali jam 5 pagi saya menggembungkan, tidak membalas. Duet menyusun tanggapan untuk setiap pertanyaan 'akankah kita terbang besok?' pesan dalam semalam. Saya bangun, memeriksa cuaca, dan menekan kirim.",
+      "quote": "Saya bekerja satu orang — saya terbang, saya menjadi kru, saya menjawab email. Kecuali jam 5 pagi saya menggembungkan, tidak membalas. Chiefy menyusun tanggapan untuk setiap pertanyaan 'akankah kita terbang besok?' pesan dalam semalam. Saya bangun, memeriksa cuaca, dan menekan kirim.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "Tur Balon Sepanjang Tahun, UT",
-      "quote": "Kami mendapat 10 pertanyaan yang sama setiap hari. Apa yang harus dipakai, di mana bertemu, bagaimana jika cuaca berangin. Duet mempelajari semuanya dan sekarang menyusun balasan yang sempurna. Kami beralih dari satu jam mengirim email setiap malam menjadi lima menit.",
+      "quote": "Kami mendapat 10 pertanyaan yang sama setiap hari. Apa yang harus dipakai, di mana bertemu, bagaimana jika cuaca berangin. Chiefy mempelajari semuanya dan sekarang menyusun balasan yang sempurna. Kami beralih dari satu jam mengirim email setiap malam menjadi lima menit.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Operator Penerbangan Sunrise, AZ",
-      "quote": "Musim puncak berarti 4-6 penerbangan dalam seminggu dan setiap penumpang mengirim email setidaknya dua kali sebelum penerbangan. Duet menangani pertanyaan sebelum penerbangan sehingga saya dapat fokus untuk memberikan pagi terbaik dalam hidup mereka kepada orang-orang.",
+      "quote": "Musim puncak berarti 4-6 penerbangan dalam seminggu dan setiap penumpang mengirim email setidaknya dua kali sebelum penerbangan. Chiefy menangani pertanyaan sebelum penerbangan sehingga saya dapat fokus untuk memberikan pagi terbaik dalam hidup mereka kepada orang-orang.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Rekan Pemilik Perusahaan Balon, NM",
-      "quote": "Pembatalan karena cuaca biasanya merusak seluruh hari saya — 8 penumpang semuanya memerlukan email penjadwalan ulang pribadi. Sekarang Duet menyusun semuanya dengan menyertakan kebijakan pemesanan ulang kami. Menghemat waktu berjam-jam pada pagi hari pembatalan.",
+      "quote": "Pembatalan karena cuaca biasanya merusak seluruh hari saya — 8 penumpang semuanya memerlukan email penjadwalan ulang pribadi. Sekarang Chiefy menyusun semuanya dengan menyertakan kebijakan pemesanan ulang kami. Menghemat waktu berjam-jam pada pagi hari pembatalan.",
       "avatarKey": "jennifer"
     },
     {
       "name": "maria d.",
       "title": "Operasi Naik Balon, CO",
-      "quote": "Penerbangan proposal membutuhkan banyak koordinasi bolak-balik. Duet memahami cara kami menanganinya — pengaturan waktunya, kata sandi, pengaturan sampanye. Ini menyusun balasan yang hampir tidak perlu saya sentuh.",
+      "quote": "Penerbangan proposal membutuhkan banyak koordinasi bolak-balik. Chiefy memahami cara kami menanganinya — pengaturan waktunya, kata sandi, pengaturan sampanye. Ini menyusun balasan yang hampir tidak perlu saya sentuh.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Bagaimana Duet menangani email pembatalan cuaca?",
-      "answer": "Duet mempelajari kebijakan pembatalan dan pemesanan ulang Anda. Saat Anda membatalkan penerbangan karena cuaca, mereka dapat membuat draf email penjadwalan ulang yang dipersonalisasi untuk setiap penumpang yang terkena dampak — dengan kebijakan Anda, tanggal yang tersedia, dan nada bicara Anda. Anda meninjau dan mengirim. Apa yang biasanya memakan waktu satu jam untuk membalas satu per satu hanya membutuhkan waktu beberapa menit."
+      "question": "Bagaimana Chiefy menangani email pembatalan cuaca?",
+      "answer": "Chiefy mempelajari kebijakan pembatalan dan pemesanan ulang Anda. Saat Anda membatalkan penerbangan karena cuaca, mereka dapat membuat draf email penjadwalan ulang yang dipersonalisasi untuk setiap penumpang yang terkena dampak — dengan kebijakan Anda, tanggal yang tersedia, dan nada bicara Anda. Anda meninjau dan mengirim. Apa yang biasanya memakan waktu satu jam untuk membalas satu per satu hanya membutuhkan waktu beberapa menit."
     },
     {
-      "question": "Bisakah Duet menangani pertanyaan 'apakah kita akan terbang besok?' email yang membanjiri setiap malam?",
-      "answer": "Ya — ini adalah salah satu email paling umum yang diberitahukan oleh operator balon kepada kami. Duet mempelajari kebijakan cuaca Anda dan menyusun balasan yang meyakinkan yang menjelaskan proses pengambilan keputusan Anda, kapan Anda akan melakukan panggilan terakhir, dan apa yang diharapkan. Setelah Anda mengonfirmasi boleh/tidak boleh berangkat di pagi hari, ia dapat membuat draf pembaruan untuk semua orang di manifes."
+      "question": "Bisakah Chiefy menangani pertanyaan 'apakah kita akan terbang besok?' email yang membanjiri setiap malam?",
+      "answer": "Ya — ini adalah salah satu email paling umum yang diberitahukan oleh operator balon kepada kami. Chiefy mempelajari kebijakan cuaca Anda dan menyusun balasan yang meyakinkan yang menjelaskan proses pengambilan keputusan Anda, kapan Anda akan melakukan panggilan terakhir, dan apa yang diharapkan. Setelah Anda mengonfirmasi boleh/tidak boleh berangkat di pagi hari, ia dapat membuat draf pembaruan untuk semua orang di manifes."
     }
   ],
   "pricingNote": "Dengan harga $250/orang dengan 4 penumpang per penerbangan, satu pemesanan hemat akan membayar Pro selama lebih dari setahun."

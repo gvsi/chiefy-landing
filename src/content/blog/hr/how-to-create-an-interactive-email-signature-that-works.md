@@ -2,7 +2,7 @@
 title: "Kako stvoriti interaktivni potpis e-pošte koji funkcionira"
 description: "Naučite kako izraditi interaktivni potpis e-pošte za povećanje angažmana, brendiranja i potencijalnih kupaca. Korak po korak vodič za freelancere i startupe"
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Interaktivni potpis dizajniran je da potakne akciju - klik, poziv, rezervacija. 
 
 Ovdje integracija vaše strategije potpisa s pametnim alatima za upravljanje e-poštom može napraviti razliku. Kada potencijalni klijenti počnu klikati vezu "Rezerviraj sastanak" koju je generirao vaš sjajni potpis, potreban vam je sustav koji će glatko upravljati naknadnim raspoređivanjem i komunikacijom. Slično tome, održavanje profesionalnog tona postavljenog vašim potpisom u svakoj naknadnoj e-poruci ključno je za izgradnju odnosa.
 
-Alati dizajnirani za produktivnost e-pošte, poput [Duet Mail](https://duetmail.com/hr), mogu pomoći u premošćivanju ovog jaza. Zamislite da dobijete pomoć umjetne inteligencije za izradu brzih, personaliziranih odgovora koji zadržavaju vaš jedinstveni glas nakon što netko stupi u interakciju s CTA-om vašeg potpisa. Značajke Duet Mail-a kao što je **AI Triage** mogu pomoći u otkrivanju važnih odgovora generiranih interakcijama potpisa, dok njegova **Autentična AI Drafting** osigurava da vaše naknadne radnje zvuče baš kao vi, čuvajući profesionalnost vaših potpisanih projekata. Pretvara angažman potaknut vašim potpisom u dobro vođene, produktivne razgovore.
+Alati dizajnirani za produktivnost e-pošte, poput [Chiefy](https://chiefy.com/hr), mogu pomoći u premošćivanju ovog jaza. Zamislite da dobijete pomoć umjetne inteligencije za izradu brzih, personaliziranih odgovora koji zadržavaju vaš jedinstveni glas nakon što netko stupi u interakciju s CTA-om vašeg potpisa. Značajke Chiefy-a kao što je **AI Triage** mogu pomoći u otkrivanju važnih odgovora generiranih interakcijama potpisa, dok njegova **Autentična AI Drafting** osigurava da vaše naknadne radnje zvuče baš kao vi, čuvajući profesionalnost vaših potpisanih projekata. Pretvara angažman potaknut vašim potpisom u dobro vođene, produktivne razgovore.
 
 ## Jeste li spremni aktivirati svoj potpis?
 

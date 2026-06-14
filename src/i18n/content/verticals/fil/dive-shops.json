@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail para sa Mga Dive Shop | AI Email Assistant",
-  "metaDescription": "Tinutulungan ng Duet Mail ang mga may-ari ng dive shop at mga instruktor ng PADI na tumugon kaagad sa mga katanungan sa sertipikasyon, mga booking ng biyahe, at mga tanong sa gear — kahit na mula sa ilalim ng tubig.",
+  "pageTitle": "Chiefy para sa Mga Dive Shop | AI Email Assistant",
+  "metaDescription": "Tinutulungan ng Chiefy ang mga may-ari ng dive shop at mga instruktor ng PADI na tumugon kaagad sa mga katanungan sa sertipikasyon, mga booking ng biyahe, at mga tanong sa gear — kahit na mula sa ilalim ng tubig.",
   "heroBadge": "Pinagkakatiwalaan ng 300+ dive operator",
   "heroHeadline": "Ang iyong email assistant habang nasa ilalim ka ng tubig",
-  "heroSubline": "Natutunan ng Duet ang iyong mga dive site, mga kinakailangan sa certification, pagpepresyo, at boses — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng booking habang nasa bangka ka.",
+  "heroSubline": "Natutunan ng Chiefy ang iyong mga dive site, mga kinakailangan sa certification, pagpepresyo, at boses — pagkatapos ay nag-draft ng mga tugon sa email upang hindi ka mawalan ng booking habang nasa bangka ka.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,10 +49,10 @@
     "bookingUnit": "sumisid",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Ang isang naka-save na group dive ay nagbabayad para sa isang taon ng Duet."
+    "punchline": "Ang isang naka-save na group dive ay nagbabayad para sa isang taon ng Chiefy."
   },
   "categorizationSubtitle": "Awtomatikong tina-tag ng duet ang bawat email para makita mo muna ang mga katanungan sa certification at mag-dive ng mga booking, pangalawa ang mga tanong sa gear, at mga alerto sa PADI kapag handa ka na. Wala nang nawawalang isang group booking na nakabaon sa ilalim ng mga newsletter ng kagamitan.",
-  "draftSubtitle": "Natutunan ng Duet ang iyong mga dive site, mga kinakailangan sa cert, at pagpepresyo. Kapag tumama ang isang pagtatanong sa booking, nag-draft ito ng kumpletong tugon na may mga detalye ng biyahe, kung ano ang kasama, at kung ano ang dadalhin. I-review at ipadala mo.",
+  "draftSubtitle": "Natutunan ng Chiefy ang iyong mga dive site, mga kinakailangan sa cert, at pagpepresyo. Kapag tumama ang isang pagtatanong sa booking, nag-draft ito ng kumpletong tugon na may mga detalye ng biyahe, kung ano ang kasama, at kung ano ang dadalhin. I-review at ipadala mo.",
   "agentSubtitle": "\"Ilang diver ang na-book para sa Sabado?\" \"Mag-draft ng tugon kay Rachel na may availability sa Open Water.\" Alam ng duet ang iyong inbox at iskedyul — magtanong lang.",
   "categorizationEmails": [
     {
@@ -145,7 +145,7 @@
     {
       "name": "Francesca D.",
       "title": "May-ari ng Dive Shop, CA",
-      "quote": "Sa tag-araw, nakakakuha kami ng 30+ email sa isang araw tungkol sa mga kurso, availability ng biyahe, at kagamitan. Nawawalan ako ng mga booking sa mga tindahan na mas mabilis na tumugon. Ngayon ang Duet ay nag-draft ng lahat at pinindot ko lang ang ipadala sa pagitan ng mga klase.",
+      "quote": "Sa tag-araw, nakakakuha kami ng 30+ email sa isang araw tungkol sa mga kurso, availability ng biyahe, at kagamitan. Nawawalan ako ng mga booking sa mga tindahan na mas mabilis na tumugon. Ngayon ang Chiefy ay nag-draft ng lahat at pinindot ko lang ang ipadala sa pagitan ng mga klase.",
       "avatarKey": "francesca"
     },
     {
@@ -159,11 +159,11 @@
   "ctaSubline": "Simulan ang iyong libreng pagsubok. Ikonekta ang iyong inbox sa loob ng 30 segundo.",
   "verticalFaqs": [
     {
-      "question": "Naiintindihan ba ng Duet ang mga antas ng sertipikasyon at mga kinakailangan sa kurso?",
-      "answer": "Oo. Natutunan ng Duet ang iyong mga partikular na kurso — Open Water, Advanced, Rescue, Divemaster — kasama ang mga kinakailangan, tagal, pagpepresyo, at kung ano ang kasama. Kapag may nagtanong tungkol sa pagpapa-certify, nag-draft ang Duet ng tugon na may mga tamang detalye ng kurso, iskedyul, at mga susunod na hakbang. I-review at ipadala mo."
+      "question": "Naiintindihan ba ng Chiefy ang mga antas ng sertipikasyon at mga kinakailangan sa kurso?",
+      "answer": "Oo. Natutunan ng Chiefy ang iyong mga partikular na kurso — Open Water, Advanced, Rescue, Divemaster — kasama ang mga kinakailangan, tagal, pagpepresyo, at kung ano ang kasama. Kapag may nagtanong tungkol sa pagpapa-certify, nag-draft ang Chiefy ng tugon na may mga tamang detalye ng kurso, iskedyul, at mga susunod na hakbang. I-review at ipadala mo."
     },
     {
-      "question": "Buong araw akong nasa bangka o nasa ilalim ng tubig. Maaari ko bang gamitin ang Duet mula sa aking telepono?",
+      "question": "Buong araw akong nasa bangka o nasa ilalim ng tubig. Maaari ko bang gamitin ang Chiefy mula sa aking telepono?",
       "answer": "Oo. Gumagana ang duet sa Gmail at Outlook, kaya gumagana ito saanman gumagana ang iyong email — kasama ang iyong telepono. Awtomatikong lumalabas ang mga draft sa iyong inbox. Sa pagitan ng mga pagsisid o pabalik sa pantalan, nagre-review ka at nagpapadala sa isang tap. Sinasabi sa amin ng karamihan sa mga dive operator na nakakatipid ito sa kanila ng 1-2 oras ng oras ng email bawat araw sa panahon ng peak season."
     }
   ],

@@ -2,7 +2,7 @@
 title: "Den ultimative guide til HTML-e-mail-fødder: Overholdelse, design og eksempler"
 description: "Master HTML-e-mail-sidefødder: væsentlige elementer, designtips, lovlig overholdelse (CAN-SPAM,GDPR,CASL) og brandingeksempler."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -120,4 +120,4 @@ Din HTML-e-mail-sidefod er måske det sidste, modtagerne ser, men det burde ikke
 
 Det opbygger tillid, styrker dit brand, sikrer overholdelse og giver nyttig navigation til dit publikum. Brug et øjeblik på at gennemgå din nuværende e-mail-sidefod. Er det kompatibelt? Er det klart? Er det mobilvenligt? At lave disse små forbedringer kan have stor indflydelse på, hvordan dine e-mails – og dit brand – opfattes.
 
-Leder du efter måder at gøre din overordnede e-mailhåndtering mere effektiv og professionel? Overvej at udforske værktøjer designet til travle fagfolk. For eksempel ved at lære, hvordan [Duet Mail forenkler e-mail-produktiviteten](https://duetmail.com/da) med AI-drevne funktioner, kan frigøre mere tid til at fokusere på at perfektionere detaljer som din sidefod og sikre, at enhver kommunikation repræsenterer dig godt.
+Leder du efter måder at gøre din overordnede e-mailhåndtering mere effektiv og professionel? Overvej at udforske værktøjer designet til travle fagfolk. For eksempel ved at lære, hvordan [Chiefy forenkler e-mail-produktiviteten](https://chiefy.com/da) med AI-drevne funktioner, kan frigøre mere tid til at fokusere på at perfektionere detaljer som din sidefod og sikre, at enhver kommunikation repræsenterer dig godt.

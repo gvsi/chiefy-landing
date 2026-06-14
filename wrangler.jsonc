@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "duet-landing",
+  "name": "chiefy-landing",
   "compatibility_date": "2026-05-13",
   "pages_build_output_dir": "./dist",
   // FLIP_301 is the SINGLE source of truth for the duetmail.com→chiefy.com brand

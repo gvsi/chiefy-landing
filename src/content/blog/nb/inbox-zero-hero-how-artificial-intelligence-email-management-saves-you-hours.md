@@ -2,7 +2,7 @@
 title: "Inbox Zero-helt: slik sparer AI-basert e-posthandtering deg timer"
 description: "Slutt å drukne i e-post. Lar hvordan AI-basert e-posthandtering sorterer, prioriterer og skriver utkast som sparer tid."
 publishedAt: 2025-09-29
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Innbokshandtering", "E-post"]
 draft: false
 ---
@@ -27,7 +27,7 @@ AI kan redusere alle disse friksjonspunktene.
 
 ### **Triage**
 
-AI vurderer hvilke meldinger som krever handling, hvilke som kan vente, og hvilke som bare er stoy. [**Duet Mail**](https://duetmail.com/nb) bruker AI Triage til å vise presserende e-poster, beslutninger og oppgaver tydelig.
+AI vurderer hvilke meldinger som krever handling, hvilke som kan vente, og hvilke som bare er stoy. [**Chiefy**](https://chiefy.com/nb) bruker AI Triage til å vise presserende e-poster, beslutninger og oppgaver tydelig.
 
 ### **Oppsummering**
 
@@ -57,4 +57,4 @@ AI kan ikke ta alle vurderinger for deg. Du må fortsatt kontrollere fakta, lese
 
 AI-basert e-posthandtering gjor Inbox Zero mer realistisk fordi den reduserer sortering, lesing og skriving. Målet er ikke en tom innboks for enhver pris, men en arbeidsdag der e-post ikke stjeler all oppmerksomhet.
 
-Hvis du vil begynne med triage, oppsummering og utkast i Gmail, kan du utforske [**Duet Mail**](https://duetmail.com/nb).
+Hvis du vil begynne med triage, oppsummering og utkast i Gmail, kan du utforske [**Chiefy**](https://chiefy.com/nb).

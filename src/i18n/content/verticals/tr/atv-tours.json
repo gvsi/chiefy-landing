@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail ATV ve UTV Turları için | AI E-posta Asistanı",
-  "metaDescription": "Duet Mail, ATV ve UTV tur rehberlerinin rezervasyon e-postalarına anında, hatta yolda bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, gereksinimleriniz ve ses tonunuzla birlikte gelir.",
+  "pageTitle": "Chiefy ATV ve UTV Turları için | AI E-posta Asistanı",
+  "metaDescription": "Chiefy, ATV ve UTV tur rehberlerinin rezervasyon e-postalarına anında, hatta yolda bile yanıt vermesine yardımcı olur. AI tarafından hazırlanan yanıtlar, fiyatlandırmanız, gereksinimleriniz ve ses tonunuzla birlikte gelir.",
   "heroBadge": "200'den fazla tur rehberi tarafından güvenilen",
   "heroHeadline": "Yolda olduğunuz süre boyunca e-posta asistanınız",
-  "heroSubline": "Duet tur türlerinizi, fiyatlandırmanızı ve yolcu gereksinimlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
+  "heroSubline": "Chiefy tur türlerinizi, fiyatlandırmanızı ve yolcu gereksinimlerinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece yavaş yanıt nedeniyle hiçbir rezervasyonu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grup (4 makine)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Kaydedilen tek bir grup rezervasyonu, Duet'ın bir yıllık ücretini karşılar."
+    "punchline": "Kaydedilen tek bir grup rezervasyonu, Chiefy'ın bir yıllık ücretini karşılar."
   },
-  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce rezervasyon taleplerini, sonra sigorta sorularını ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan grup sorgularını kaçırma derdine son.",
-  "draftSubtitle": "Duet tur rotalarınızı, fiyatlandırmanızı ve sürücü gereksinimlerinizi öğrenir. Bir rezervasyon talebi geldiğinde, gezi detayları, fiyatlandırma ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
-  "agentSubtitle": "\"Bu hafta sonu için rezervasyon yaptırmış grup var mı?\" \"Cumartesi müsaitliğiyle ilgili olarak Rachel'a bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
+  "categorizationSubtitle": "Chiefy her e-postayı otomatik olarak etiketleyerek önce rezervasyon taleplerini, sonra sigorta sorularını ve asla gereksiz mesajları görmenizi sağlar. TripAdvisor uyarılarının altında kalan grup sorgularını kaçırma derdine son.",
+  "draftSubtitle": "Chiefy tur rotalarınızı, fiyatlandırmanızı ve sürücü gereksinimlerinizi öğrenir. Bir rezervasyon talebi geldiğinde, gezi detayları, fiyatlandırma ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Bu hafta sonu için rezervasyon yaptırmış grup var mı?\" \"Cumartesi müsaitliğiyle ilgili olarak Rachel'a bir yanıt taslağı gönderin.\" Chiefy gelen kutunuzu ve programınızı biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "ATV Rehberi, Güney Utah",
-      "quote": "Cep telefonu çekmeyen kanyonlarda 8 saatlik turlar düzenliyorum. Geri döndüğümde, rezervasyon e-postalarımın yarısı artık cevapsız kalmış oluyor. Duet fiyatlandırma ve rota bilgileriyle birlikte yanıt taslaklarını hazırlıyor; ben de gün sonunda bunları inceliyorum.",
+      "quote": "Cep telefonu çekmeyen kanyonlarda 8 saatlik turlar düzenliyorum. Geri döndüğümde, rezervasyon e-postalarımın yarısı artık cevapsız kalmış oluyor. Chiefy fiyatlandırma ve rota bilgileriyle birlikte yanıt taslaklarını hazırlıyor; ben de gün sonunda bunları inceliyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV Tur Operatörü, Colorado",
-      "quote": "Haftanın 7 günü turlar düzenliyoruz ve sadece sigorta ve feragatname soruları bile sabahlarımı tüketiyordu. Duet bunların hepsini hallediyor - sürücü gereksinimleri, yaş sınırlamaları, ne getirilmesi gerektiği. Tam da bana benziyor.",
+      "quote": "Haftanın 7 günü turlar düzenliyoruz ve sadece sigorta ve feragatname soruları bile sabahlarımı tüketiyordu. Chiefy bunların hepsini hallediyor - sürücü gereksinimleri, yaş sınırlamaları, ne getirilmesi gerektiği. Tam da bana benziyor.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Moab'da Jeep Tur Rehberi",
-      "quote": "İnsanlar hangi parkurun grupları için uygun olduğunu, hangi deneyim seviyesine ihtiyaç duyduklarını, çocukların binip binemeyeceğini soran e-postalar gönderiyorlar. Sürekli aynı 5 soru. Duet bunların hepsine mükemmel bir şekilde cevap veriyor.",
+      "quote": "İnsanlar hangi parkurun grupları için uygun olduğunu, hangi deneyim seviyesine ihtiyaç duyduklarını, çocukların binip binemeyeceğini soran e-postalar gönderiyorlar. Sürekli aynı 5 soru. Chiefy bunların hepsine mükemmel bir şekilde cevap veriyor.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Arazi Maceraları, AZ",
-      "quote": "Her gece aynı müsaitlik sorularını yanıtlamak için bir saatten fazla zaman harcıyordum. Şimdi Duet ben yürüyüşteyken yanıt taslaklarını hazırlıyor. Yanıt sürem saatlerden dakikalara indi.",
+      "quote": "Her gece aynı müsaitlik sorularını yanıtlamak için bir saatten fazla zaman harcıyordum. Şimdi Chiefy ben yürüyüşteyken yanıt taslaklarını hazırlıyor. Yanıt sürem saatlerden dakikalara indi.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Aile ATV Turları, Sedona",
-      "quote": "Birçok aile bize başlangıç ​​seviyesi parkurları ve yaş sınırları hakkında sorular soruyor. Duet tüm tur seçeneklerimizi öğrendi ve her yanıtında doğru olanı öneriyor. Müşteriler aradaki farkı anlayamıyor.",
+      "quote": "Birçok aile bize başlangıç ​​seviyesi parkurları ve yaş sınırları hakkında sorular soruyor. Chiefy tüm tur seçeneklerimizi öğrendi ve her yanıtında doğru olanı öneriyor. Müşteriler aradaki farkı anlayamıyor.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Duet sigorta ve feragatname sorularıyla ilgileniyor mu?",
-      "answer": "Evet. Duet, sürücü gereksinimlerinizi öğrenir: sorumluluk sigortası, yaş sınırlamaları, feragatname detayları, sürücülerin yanlarında getirmeleri gerekenler. Birisi tur öncesinde neye ihtiyaç duyduklarını soran bir e-posta gönderdiğinde, Duet tüm ayrıntıları içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönder düğmesine basarsınız."
+      "question": "Chiefy sigorta ve feragatname sorularıyla ilgileniyor mu?",
+      "answer": "Evet. Chiefy, sürücü gereksinimlerinizi öğrenir: sorumluluk sigortası, yaş sınırlamaları, feragatname detayları, sürücülerin yanlarında getirmeleri gerekenler. Birisi tur öncesinde neye ihtiyaç duyduklarını soran bir e-posta gönderdiğinde, Chiefy tüm ayrıntıları içeren eksiksiz bir yanıt taslağı hazırlar. Siz de gözden geçirip gönder düğmesine basarsınız."
     },
     {
-      "question": "Bütün gün yoldayım ve hiç telefon çekmiyor. Duet nasıl yardımcı olabilir?",
-      "answer": "İşte rehberlerin Duet'ı sevmesinin tam nedeni bu. Sinyal olmayan 6-8 saatlik bir turda rehberlik ederken, rezervasyon talepleri birikiyor. Duet bunların her birine taslak yanıtlar hazırlıyor - fiyatlandırma, müsaitlik, buluşma yeri, ne giyileceği. Geri döndüğünüzde taslakları gözden geçirip gönderiyorsunuz. Çoğu rehber bize bunun yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladığını söylüyor."
+      "question": "Bütün gün yoldayım ve hiç telefon çekmiyor. Chiefy nasıl yardımcı olabilir?",
+      "answer": "İşte rehberlerin Chiefy'ı sevmesinin tam nedeni bu. Sinyal olmayan 6-8 saatlik bir turda rehberlik ederken, rezervasyon talepleri birikiyor. Chiefy bunların her birine taslak yanıtlar hazırlıyor - fiyatlandırma, müsaitlik, buluşma yeri, ne giyileceği. Geri döndüğünüzde taslakları gözden geçirip gönderiyorsunuz. Çoğu rehber bize bunun yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladığını söylüyor."
     }
   ],
   "pricingNote": "$200/makinesinde, kaydedilen 4 kişilik bir grup, Pro'in bir yıldan fazla süren masrafını karşılıyor."
