@@ -48,6 +48,14 @@ type Props = {
     /** Full slug including the category prefix, e.g. "smart-drafts/turn-on-autodraft". */
     slug: string
     headings: MarkdownHeading[]
+    /**
+     * Optional Q&A pairs for FAQ-type articles. When provided (and the article
+     * `type` is "faq"), the layout emits FAQPage JSON-LD for AI/LLM parsing.
+     * No FAQ articles exist yet — this is the structured-data hook Phase 6 FAQ
+     * authors populate (e.g. via frontmatter `faqItems`). The rich-result FAQ
+     * snippet was retired by Google in 2026, so this targets machine readers.
+     */
+    faqItems?: { question: string; answer: string }[]
 }
 
 const {
@@ -63,6 +71,7 @@ const {
     relatedSlugs,
     slug,
     headings,
+    faqItems,
 } = Astro.props
 
 const messages = getMessages(locale)
@@ -161,6 +170,22 @@ const breadcrumbJsonLd = {
     ],
 }
 
+// FAQPage hook: only emitted for FAQ-type articles that ship structured Q&A.
+// Inert today (no FAQ articles / no faqItems yet); ready for the Phase 6 corpus.
+const faqJsonLd =
+    type === "faq" && faqItems && faqItems.length > 0
+        ? {
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              inLanguage: locale,
+              mainEntity: faqItems.map((item) => ({
+                  "@type": "Question",
+                  name: item.question,
+                  acceptedAnswer: { "@type": "Answer", text: item.answer },
+              })),
+          }
+        : null
+
 const extraHeadHtml = [
     '<meta property="article:modified_time" content="' + escapeHtmlAttribute(updatedAt.toISOString()) + '" />',
     keywords.length > 0
@@ -168,6 +193,7 @@ const extraHeadHtml = [
         : "",
     jsonLdScript(articleJsonLd),
     jsonLdScript(breadcrumbJsonLd),
+    faqJsonLd ? jsonLdScript(faqJsonLd) : "",
 ]
     .filter(Boolean)
     .join("\n")
