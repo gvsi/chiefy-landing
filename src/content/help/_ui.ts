@@ -44,6 +44,10 @@ export const HELP_UI = {
     },
     browseByTopic: "Browse by topic",
     articlesLabel: "articles",
+    sidebar: {
+        // "Back to all topics" link above the per-category sidebar groups (article view).
+        allTopics: "All topics",
+    },
     troubleshooting: {
         title: "Troubleshooting",
         subtitle: "Quick fixes for the things that come up most.",
