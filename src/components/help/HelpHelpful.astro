@@ -32,7 +32,7 @@ const thanks = "Thanks for the feedback."
             {no}
         </button>
     </div>
-    <p class="help-helpful-thanks">{thanks}</p>
+    <p class="help-helpful-thanks" role="status" aria-live="polite" tabindex="-1">{thanks}</p>
 </section>
 
 <script is:inline>
@@ -41,6 +41,7 @@ const thanks = "Thanks for the feedback."
         if (!widget || widget.dataset.bound === "1") return
         widget.dataset.bound = "1"
         const slug = widget.dataset.slug || ""
+        const thanksEl = widget.querySelector(".help-helpful-thanks")
         widget.querySelectorAll("button[data-vote]").forEach((button) => {
             button.addEventListener(
                 "click",
@@ -53,6 +54,10 @@ const thanks = "Thanks for the feedback."
                     widget.querySelectorAll("button[data-vote]").forEach((b) => {
                         b.setAttribute("disabled", "")
                     })
+                    // The voted state hides .opts (display:none), dropping the focused
+                    // button. Move focus to the now-visible thanks node so keyboard users
+                    // aren't stranded and the status is announced.
+                    if (thanksEl) thanksEl.focus()
                 },
                 { once: false },
             )
