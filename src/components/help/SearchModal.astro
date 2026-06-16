@@ -118,13 +118,29 @@ void locale
             document.getElementById("help-search-result-template")
         )
 
+        const closeControl = modal.querySelector("[data-help-close]")
+
         let pagefind = null // resolved Pagefind module, or "unavailable"
         let pagefindLoading = null // in-flight import promise (load once)
         let debounceTimer = 0
         let activeQueryToken = 0 // guards against out-of-order async responses
         let selected = -1
+        let lastFocused = null // element to restore focus to on close
+
+        // Focusable controls inside the modal box, in DOM order: the input, every
+        // visible result link, and the close control. Used to trap Tab/Shift+Tab.
+        const focusables = () => {
+            const list = []
+            if (input) list.push(input)
+            for (const option of optionEls()) list.push(option)
+            if (closeControl) list.push(closeControl)
+            return list
+        }
 
         const open = () => {
+            // Remember the opener so focus can return there on close (a11y).
+            lastFocused =
+                document.activeElement instanceof HTMLElement ? document.activeElement : null
             modal.hidden = false
             modal.classList.add("open")
             if (input) input.setAttribute("aria-expanded", "true")
@@ -137,7 +153,15 @@ void locale
         const close = () => {
             modal.classList.remove("open")
             modal.hidden = true
-            if (input) input.setAttribute("aria-expanded", "false")
+            if (input) {
+                input.setAttribute("aria-expanded", "false")
+                input.removeAttribute("aria-activedescendant")
+            }
+            // Restore focus to whatever opened the modal (button, link, body).
+            if (lastFocused && document.contains(lastFocused)) {
+                lastFocused.focus()
+            }
+            lastFocused = null
         }
 
         const ensurePagefind = () => {
@@ -171,6 +195,7 @@ void locale
             node.textContent = message
             results.replaceChildren(node)
             selected = -1
+            if (input) input.removeAttribute("aria-activedescendant")
         }
 
         const optionEls = () =>
@@ -180,6 +205,7 @@ void locale
             const options = optionEls()
             if (options.length === 0) {
                 selected = -1
+                if (input) input.removeAttribute("aria-activedescendant")
                 return
             }
             selected = (next + options.length) % options.length
@@ -189,6 +215,9 @@ void locale
                 el.setAttribute("aria-selected", isSelected ? "true" : "false")
                 if (isSelected) el.scrollIntoView({ block: "nearest" })
             })
+            // Expose the active option to assistive tech (combobox pattern).
+            const activeId = options[selected].id
+            if (input && activeId) input.setAttribute("aria-activedescendant", activeId)
         }
 
         const renderResults = (items) => {
@@ -203,12 +232,17 @@ void locale
             heading.textContent = copy.topResults
             fragment.appendChild(heading)
 
+            let optionIndex = 0
             for (const item of items) {
                 const clone = /** @type {DocumentFragment} */ (template.content.cloneNode(true))
                 const anchor = clone.querySelector(".ri")
                 const titleEl = clone.querySelector("[data-result-title]")
                 const subEl = clone.querySelector("[data-result-sub]")
-                if (anchor) anchor.setAttribute("href", item.href)
+                if (anchor) {
+                    anchor.setAttribute("href", item.href)
+                    // Stable id so aria-activedescendant can reference the option.
+                    anchor.id = `help-search-result-${optionIndex++}`
+                }
                 if (titleEl) titleEl.textContent = item.title
                 // Excerpt is sanitised plain text; the category prefixes the subline.
                 if (subEl) subEl.textContent = item.subtitle
@@ -287,8 +321,7 @@ void locale
             })
         })
 
-        const closeEl = modal.querySelector("[data-help-close]")
-        if (closeEl) closeEl.addEventListener("click", close)
+        if (closeControl) closeControl.addEventListener("click", close)
 
         // Input → debounced search.
         if (input) {
@@ -310,6 +343,24 @@ void locale
             if (!isOpen) return
             if (event.key === "Escape") {
                 close()
+                return
+            }
+            if (event.key === "Tab") {
+                // Trap focus inside the modal box: cycle across input → results → close.
+                const items = focusables()
+                if (items.length === 0) return
+                const first = items[0]
+                const last = items[items.length - 1]
+                const active = document.activeElement
+                if (event.shiftKey) {
+                    if (active === first || !items.includes(active)) {
+                        event.preventDefault()
+                        last.focus()
+                    }
+                } else if (active === last || !items.includes(active)) {
+                    event.preventDefault()
+                    first.focus()
+                }
                 return
             }
             const options = optionEls()

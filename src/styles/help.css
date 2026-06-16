@@ -1177,6 +1177,13 @@ html[data-theme="light"] {
     font-size: 16px;
     color: var(--duet-fg);
 }
+/* Visible keyboard-focus affordance: the input's own outline is removed, so the
+   search row carries the focus ring while typing. */
+.help-modal .sb:focus-within {
+    outline: 2px solid var(--duet-accent-2);
+    outline-offset: -2px;
+    border-radius: 14px 14px 0 0;
+}
 .help-modal .results {
     max-height: 380px;
     overflow: auto;
