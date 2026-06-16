@@ -54,6 +54,17 @@
 
     /* dark CTA pill ink (constant across themes) */
     --help-cta-bg: linear-gradient(180deg, #252320 0%, #171615 100%);
+
+    /* White foreground for ink sitting on a saturated/dark surface (accent
+       pills, the dark CTA, the annotation marker, the switch knob). Constant
+       across themes by design — the surface beneath is always dark/colored. */
+    --help-on-accent: #fff;
+
+    /* small decorative shadows + the modal overlay scrim (constant across
+       themes; the scrim sits over the page regardless of light/dark) */
+    --help-shadow-seg: 0 1px 2px rgba(0, 0, 0, 0.06);
+    --help-shadow-knob: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --help-overlay: rgba(10, 10, 20, 0.45);
 }
 
 html[data-theme="light"] {
@@ -156,7 +167,7 @@ html[data-theme="light"] {
 .help-toggle .seg.active {
     background: var(--help-surface);
     color: var(--duet-fg);
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
+    box-shadow: var(--help-shadow-seg);
 }
 .help-toggle .seg svg {
     width: 14px;
@@ -166,7 +177,7 @@ html[data-theme="light"] {
     font-size: 10px;
     font-weight: 700;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: var(--help-on-accent);
     background: var(--duet-accent-2);
     padding: 1px 6px;
     border-radius: var(--help-radius-pill);
@@ -383,7 +394,7 @@ html[data-theme="light"] {
     gap: 9px;
     font-size: 15px;
     font-weight: 600;
-    color: #fff;
+    color: var(--help-on-accent);
     background: var(--help-cta-bg);
     padding: 12px 22px;
     border-radius: var(--help-radius-lg);
@@ -854,8 +865,8 @@ html[data-theme="light"] {
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background: #fff;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    background: var(--help-on-accent);
+    box-shadow: var(--help-shadow-knob);
 }
 .help-switch.off {
     background: var(--duet-border-editorial);
@@ -955,6 +966,59 @@ html[data-theme="light"] {
     background: currentColor;
 }
 
+/* "Summarize this email" affordance + the rendered summary panel (Smart
+   Summaries figures) — token-driven so article MDX needs no inline styles. */
+.help-summarize {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 4px 0;
+}
+.help-summarize .lbl {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--prose-heading);
+}
+.help-summary {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 4px 0;
+}
+.help-summary .snippet {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--prose-heading);
+}
+.help-summary ul {
+    margin: 0;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 13.5px;
+    color: var(--prose-text);
+}
+.help-summary li {
+    margin: 0;
+}
+.help-summary .replies {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.help-summary .reply {
+    display: inline-flex;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 4px 10px;
+    border-radius: var(--help-radius-pill);
+    border: 1px solid var(--duet-border-editorial);
+    color: var(--duet-fg);
+    background: var(--help-surface-2);
+}
+
 /* annotation marker */
 .help-anno {
     display: inline-flex;
@@ -964,7 +1028,7 @@ html[data-theme="light"] {
     height: 20px;
     border-radius: 50%;
     background: var(--duet-accent);
-    color: #fff;
+    color: var(--help-on-accent);
     font-size: 11px;
     font-weight: 700;
     vertical-align: middle;
@@ -1129,7 +1193,7 @@ html[data-theme="light"] {
 .help-modal .ov {
     position: absolute;
     inset: 0;
-    background: rgba(10, 10, 20, 0.45);
+    background: var(--help-overlay);
     backdrop-filter: blur(3px);
     border: 0;
     width: 100%;

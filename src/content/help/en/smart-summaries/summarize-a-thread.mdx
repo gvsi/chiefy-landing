@@ -35,9 +35,9 @@ You'll need the Chiefy extension installed and your inbox connected. New to Chie
     If Chiefy hasn't already summarized the thread, you'll see a **Summarize this email** button at the top of the thread. Select it, and Chiefy generates the summary.
     {/* TODO: real screenshot */}
     <MockWindow title="Gmail · Thread view" figcaption="When no summary exists yet, Chiefy shows a Summarize this email button at the top of the thread.">
-      <div style="display:flex;align-items:center;gap:0.75rem;padding:0.25rem 0;">
-        <span style="display:inline-flex;align-items:center;justify-content:center;width:1.5rem;height:1.5rem;border-radius:9999px;border:1px solid var(--prose-border, currentColor);font-size:0.75rem;font-weight:600;">A</span>
-        <span style="font-weight:600;">Summarize this email</span>
+      <div class="help-summarize">
+        <span class="help-anno">A</span>
+        <span class="lbl">Summarize this email</span>
       </div>
     </MockWindow>
   </HelpStep>
@@ -56,16 +56,16 @@ A Smart Summary has up to three parts, all shown together at the top of the thre
 
 {/* TODO: real screenshot */}
 <MockWindow title="Gmail · Thread view" figcaption="The summary sits at the top of the thread: a snippet, the key points as bullets, and suggested replies when a response is needed.">
-  <div style="display:flex;flex-direction:column;gap:0.75rem;padding:0.25rem 0;">
-    <p style="margin:0;font-weight:600;">The client confirmed the August booking and asked for an invoice.</p>
-    <ul style="margin:0;padding-inline-start:1.25rem;display:flex;flex-direction:column;gap:0.25rem;">
+  <div class="help-summary">
+    <p class="snippet">The client confirmed the August booking and asked for an invoice.</p>
+    <ul>
       <li>Two double rooms confirmed for the last weekend of August.</li>
       <li>Guest asked you to send an invoice to their company address.</li>
       <li>They'd like to know about early check-in on the Friday.</li>
     </ul>
-    <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-      <span style="display:inline-flex;padding:0.25rem 0.6rem;border-radius:9999px;border:1px solid var(--prose-border, currentColor);font-size:0.8125rem;">Confirm and send invoice</span>
-      <span style="display:inline-flex;padding:0.25rem 0.6rem;border-radius:9999px;border:1px solid var(--prose-border, currentColor);font-size:0.8125rem;">Reply about early check-in</span>
+    <div class="replies">
+      <span class="reply">Confirm and send invoice</span>
+      <span class="reply">Reply about early check-in</span>
     </div>
   </div>
 </MockWindow>
