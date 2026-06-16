@@ -1,0 +1,71 @@
+---
+title: "Turn on Autodraft"
+description: "Autodraft is the automatic mode of Smart Drafts — turn it on and Chiefy pre-drafts replies in your voice, ready to review and never sent for you."
+category: "smart-drafts"
+type: "how-to"
+order: 20
+keywords: ["autodraft", "automatic replies", "smart drafts", "auto reply draft", "pre-drafted email"]
+relatedSlugs: []
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+import MailRow from "../../../../components/help/MailRow.astro"
+
+<HelpTldr>
+  Autodraft is the automatic mode of Smart Drafts. Turn it on and Chiefy quietly prepares a reply for the emails that need one, so a draft is already waiting when you open the thread. Nothing is ever sent for you.
+</HelpTldr>
+
+Smart Drafts can work two ways. **On demand**, you ask Chiefy for a reply whenever you want one. With **Autodraft** on, Chiefy does that step ahead of you — it watches for emails that look like they need a response and writes a draft in your voice, ready to review. You stay in control: Autodraft only ever creates drafts, it never sends.
+
+## Before you start
+
+You'll need the Chiefy extension installed and your inbox connected. New to Chiefy? Start with [Getting started](/help/getting-started) first.
+
+> Autodraft runs on your primary mailbox by default. To control it for each account, see [Connected Mailboxes](/help/connected-mailboxes).
+
+## Turn on Autodraft
+
+<HelpSteps>
+  <HelpStep title="Open Chiefy settings">
+    In Gmail, open the Chiefy side panel and choose **Settings**.
+  </HelpStep>
+  <HelpStep title="Go to Smart Drafts">
+    Select **Smart Drafts** from the settings menu.
+  </HelpStep>
+  <HelpStep title="Switch Autodraft on" anno="A">
+    Toggle **Autodraft** on. Chiefy starts preparing drafts for new replies right away — no need to refresh.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Chiefy · Settings → Smart Drafts" figcaption="Settings → Smart Drafts → toggle Autodraft on.">
+      <SettingRow title="Autodraft" anno="A" description="Automatically prepare replies for emails that need one" />
+    </MockWindow>
+  </HelpStep>
+</HelpSteps>
+
+## What you'll see
+
+When Autodraft has prepared a reply, the thread shows an **Autodraft ready** marker. Open it and your draft is already in the reply box — read it, adjust anything, and send when you're happy.
+
+{/* TODO: real screenshot */}
+<MockWindow title="Gmail · Inbox" tight figcaption="Threads that need a reply get an Autodraft; notifications are left alone.">
+  <MailRow avatar="RH" from="Risøyhamn Sjøhus" time="9:24 AM" subject="Re: Booking for 4 — last weekend of August" preview="Hi — could you confirm the two double rooms and…" pillLabel="Autodraft ready" pillVariant="autodraft" />
+  <MailRow avatar="MK" from="Maria Köhler" time="8:51 AM" subject="Invoice question" preview="Quick one about the March invoice — was the…" pillLabel="Autodraft ready" pillVariant="autodraft" />
+  <MailRow avatar="ST" from="Stripe" time="7:30 AM" subject="Your payout is on the way" preview="A payout of €1,240.00 is on its way to your…" pillLabel="No reply needed" pillVariant="action" last />
+</MockWindow>
+
+## What Autodraft won't touch
+
+Autodraft is deliberately conservative — it would rather skip a thread than put words in your mouth. It leaves alone:
+
+- Newsletters, receipts, and notifications that don't need a reply
+- Sensitive topics — legal, financial, HR — where it holds back on purpose
+- Threads where it doesn't have enough context to be genuinely useful
+
+> **Autodraft never sends.** Every reply waits for you to review and send it yourself.
+
+## Turn Autodraft off
+
+Open **Chiefy → Settings → Smart Drafts** and toggle **Autodraft** off. On-demand Smart Drafts keeps working — you can still ask Chiefy for a reply any time.
