@@ -4,7 +4,7 @@ import consentDefaultHtml from "../snippets/consent-default.html?raw";
 import gtmHeadHtml from "../snippets/gtm-head.html?raw";
 import gtmNoscriptHtml from "../snippets/gtm-noscript.html?raw";
 import consentBannerHtml from "../snippets/consent-banner.html?raw";
-import { renderConsentBanner } from "../utils/brand";
+import { SITE_BRAND, renderConsentBanner } from "../utils/brand";
 import {
     DEFAULT_LOCALE,
     OPEN_GRAPH_LOCALES,
@@ -122,7 +122,7 @@ const consentBannerRendered = renderConsentBanner(consentBannerHtml);
               imagesizes="100vw" />
 
         <meta property="og:type" content={ogType} />
-        <meta property="og:site_name" content="Duet Mail" />
+        <meta property="og:site_name" content={SITE_BRAND} />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         <meta property="og:image" content={ogImageUrl} />

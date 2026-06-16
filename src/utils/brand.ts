@@ -50,3 +50,18 @@ export function renderConsentBanner(rawHtml: string): string {
         .split("__SITE_BRAND__").join(SITE_BRAND)
         .split("__PRIVACY_HREF__").join(`${SITE_URL}/privacy`);
 }
+
+/**
+ * Host-aware home JSON-LD brand names (B3). The exact-brand entity names
+ * (websiteName / organizationName / softwareName) come from the localized
+ * `src/i18n/content/home/<locale>.json` `jsonLd.*` keys (all "Duet Mail"); we
+ * override them with the build env so the chiefy build reports Chiefy WITHOUT
+ * editing the 48 locale content files. SCOPE: home page only, and only the three
+ * exact-brand names — descriptive fields (websiteAlternateName, softwareDescription)
+ * keep their content text and are out of scope here.
+ */
+export const jsonLdBrand = {
+    websiteName: SITE_BRAND,
+    organizationName: SITE_BRAND,
+    softwareName: SITE_PRODUCT_NAME,
+} as const;
