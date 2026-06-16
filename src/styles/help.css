@@ -513,6 +513,43 @@ html[data-theme="light"] {
 .help-breadcrumb .sep {
     opacity: 0.5;
 }
+/* Visible search opener on category + article pages (the home uses its hero
+   trigger). Pushed to the trailing edge of the breadcrumb row. */
+.help-breadcrumb-search {
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--duet-muted);
+    background: var(--help-surface);
+    border: 1px solid var(--duet-border-editorial);
+    border-radius: var(--help-radius-pill);
+    padding: 6px 12px;
+    cursor: pointer;
+}
+.help-breadcrumb-search:hover {
+    border-color: var(--duet-accent-2);
+    color: var(--duet-fg);
+}
+.help-breadcrumb-search:focus-visible {
+    outline: 2px solid var(--duet-accent-2);
+    outline-offset: 2px;
+}
+.help-breadcrumb-search svg {
+    width: 15px;
+    height: 15px;
+}
+.help-breadcrumb-search .help-kbd {
+    background: var(--help-surface-2);
+}
+@media (max-width: 560px) {
+    .help-breadcrumb-search .help-kbd {
+        display: none;
+    }
+}
 
 /* section index list */
 .help-sectionhead {

@@ -3,7 +3,15 @@
  * HelpBreadcrumb — Help center › Category › Article trail. The last item is the
  * current page (rendered as plain text); earlier items link. Used by both the
  * category index and the article layout.
+ *
+ * Carries the only visible search opener on category + article pages (the home
+ * has its own hero trigger): a compact `js-help-search` button that the
+ * SearchModal island binds to (⌘K / click). Pushed to the trailing edge of the
+ * breadcrumb row so it stays out of the trail but on-screen.
  */
+import HelpIcon from "./HelpIcon.astro"
+import { HELP_UI } from "../../content/help/_ui"
+
 type Crumb = { label: string; href?: string }
 
 type Props = {
@@ -11,6 +19,7 @@ type Props = {
 }
 
 const { items } = Astro.props
+const { search } = HELP_UI
 ---
 
 <nav class="help-breadcrumb" aria-label="Breadcrumb">
@@ -30,4 +39,9 @@ const { items } = Astro.props
             </>
         ))
     }
+    <button type="button" class="help-breadcrumb-search js-help-search" aria-label={search.placeholder}>
+        <HelpIcon name="search" size={15} stroke={1.8} />
+        <span class="lbl">{search.searchTab}</span>
+        <span class="help-kbd" aria-hidden="true">⌘K</span>
+    </button>
 </nav>
