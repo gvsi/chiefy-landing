@@ -662,7 +662,8 @@ html[data-theme="light"] {
     flex: none;
     padding-top: 2px;
 }
-.help-tldr p {
+.help-tldr-body,
+.help-tldr-body p {
     margin: 0;
     font-size: 15px;
     line-height: 1.6;
