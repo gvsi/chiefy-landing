@@ -746,6 +746,18 @@ html[data-theme="light"] {
 }
 
 /* ---- rendered in-product mockups (mock window) ----------------------- */
+/* MockWindow wraps in <figure>; let .help-mock own its spacing (also overrides
+   .duet-prose's default figure margin when used inside an MDX article body). */
+.help-mock-figure {
+    margin: 22px 0;
+}
+.help-mock-figure .help-mock {
+    margin: 0;
+}
+.help-mock-figure .help-figcap {
+    margin-top: 12px;
+    margin-bottom: 0;
+}
 .help-mock {
     border-radius: var(--help-radius-md);
     border: 1px solid var(--duet-border-editorial);

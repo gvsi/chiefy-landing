@@ -1,0 +1,52 @@
+---
+/**
+ * HelpArticleList — the article rows on a category index. Each row links to an
+ * article and shows an icon, title, one-line description, an article-type tag,
+ * and a hover arrow. Type labels are humanized from the collection's `type`
+ * enum (how-to | concept | troubleshooting | faq).
+ */
+import HelpIcon from "./HelpIcon.astro"
+
+type ArticleRow = {
+    title: string
+    description: string
+    href: string
+    /** Collection `type` enum value; humanized for the tag. */
+    type?: string
+    /** Icon key (defaults to a generic note icon). */
+    iconKey?: string
+}
+
+type Props = {
+    articles: ArticleRow[]
+}
+
+const { articles } = Astro.props
+
+const TYPE_LABELS: Record<string, string> = {
+    "how-to": "How-to",
+    concept: "Concept",
+    troubleshooting: "Troubleshooting",
+    faq: "FAQ",
+}
+---
+
+<div class="help-artlist">
+    {
+        articles.map((article) => (
+            <a class="help-artrow" href={article.href}>
+                <span class="ar-ic">
+                    <HelpIcon name={article.iconKey ?? "note"} size={17} />
+                </span>
+                <span class="ar-body">
+                    <h3>{article.title}</h3>
+                    <p>{article.description}</p>
+                </span>
+                {article.type && <span class="help-tag-type">{TYPE_LABELS[article.type] ?? article.type}</span>}
+                <span class="ar-arrow">
+                    <HelpIcon name="arrow-right" size={18} stroke={1.8} />
+                </span>
+            </a>
+        ))
+    }
+</div>

@@ -1,0 +1,33 @@
+---
+/**
+ * HelpBreadcrumb — Help center › Category › Article trail. The last item is the
+ * current page (rendered as plain text); earlier items link. Used by both the
+ * category index and the article layout.
+ */
+type Crumb = { label: string; href?: string }
+
+type Props = {
+    items: Crumb[]
+}
+
+const { items } = Astro.props
+---
+
+<nav class="help-breadcrumb" aria-label="Breadcrumb">
+    {
+        items.map((item, i) => (
+            <>
+                {item.href && i < items.length - 1 ? (
+                    <a href={item.href}>{item.label}</a>
+                ) : (
+                    <span aria-current="page">{item.label}</span>
+                )}
+                {i < items.length - 1 ? (
+                    <span class="sep" aria-hidden="true">
+                        ›
+                    </span>
+                ) : null}
+            </>
+        ))
+    }
+</nav>

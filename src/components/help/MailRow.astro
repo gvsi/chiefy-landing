@@ -1,0 +1,48 @@
+---
+/**
+ * MailRow — a single inbox row inside a <MockWindow>, used to illustrate states
+ * like an Autodraft-ready thread. MDX-usable:
+ *
+ *   <MailRow avatar="RH" from="Risøyhamn Sjøhus" time="9:24 AM"
+ *            subject="Re: Booking for 4" preview="Hi — could you confirm…"
+ *            pillLabel="Autodraft ready" pillVariant="autodraft" />
+ *   <MailRow … pillLabel="No reply needed" pillVariant="action" last />
+ *
+ * `pillVariant` is "autodraft" (emerald) or "action" (red). `last` drops the
+ * bottom divider for the final row in a list.
+ */
+type Props = {
+    /** 1–2 letter avatar initials. */
+    avatar: string
+    from: string
+    time: string
+    subject: string
+    preview: string
+    pillLabel?: string
+    pillVariant?: "autodraft" | "action"
+    /** Drop the bottom border (last row in a stack). */
+    last?: boolean
+}
+
+const { avatar, from, time, subject, preview, pillLabel, pillVariant = "autodraft", last = false } = Astro.props
+---
+
+<div class={`help-mailrow${last ? " last" : ""}`}>
+    <span class="av">{avatar}</span>
+    <span class="mc">
+        <span class="top">
+            <span class="from">{from}</span>
+            <span class="time">{time}</span>
+        </span>
+        <span class="subj">{subject}</span>
+        <span class="prev">{preview}</span>
+        {
+            pillLabel && (
+                <span class={`help-pill ${pillVariant}`}>
+                    <span class="d"></span>
+                    {pillLabel}
+                </span>
+            )
+        }
+    </span>
+</div>
