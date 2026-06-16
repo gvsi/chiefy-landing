@@ -1,0 +1,77 @@
+---
+/**
+ * HelpIndexLayout — shell for the help HOME and CATEGORY-index pages. Wraps
+ * BaseLayout with ogType="website", emits CollectionPage + BreadcrumbList JSON-LD,
+ * and composes Nav + slot + SearchModal + Footer. The page supplies its own inner
+ * structure (hero+grid for the home; sidebar+list for a category) via the slot.
+ *
+ * Help is English-only at launch (Option A — default duetmail canonical, no origin
+ * special-casing); alternates are en + x-default via getHelpAlternates in the page.
+ */
+import BaseLayout from "./BaseLayout.astro"
+import Nav from "../components/nav/Nav.astro"
+import Footer from "../components/sections/Footer.astro"
+import SearchModal from "../components/help/SearchModal.astro"
+import "../styles/help.css"
+import type { Locale } from "../i18n/locales"
+import { type AlternateLink } from "../i18n/routing"
+import { getMessages } from "../i18n/messages/schema"
+import { jsonLdScript } from "../i18n/jsonLd"
+
+type BreadcrumbItem = { name: string; url: string }
+
+type Props = {
+    locale: Locale
+    title: string
+    description: string
+    canonicalPath: string
+    alternates: AlternateLink[]
+    robotsDirectives?: string
+    /** Page name used for the CollectionPage JSON-LD (defaults to `title`). */
+    collectionName?: string
+    breadcrumb: BreadcrumbItem[]
+}
+
+const { locale, title, description, canonicalPath, alternates, robotsDirectives, collectionName, breadcrumb } =
+    Astro.props
+const messages = getMessages(locale)
+const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
+
+const extraHeadHtml = [
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        inLanguage: locale,
+        name: collectionName ?? title,
+        description,
+        url: canonicalUrl,
+    }),
+    jsonLdScript({
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        inLanguage: locale,
+        itemListElement: breadcrumb.map((item, index) => ({
+            "@type": "ListItem",
+            position: index + 1,
+            name: item.name,
+            item: item.url,
+        })),
+    }),
+].join("\n")
+---
+
+<BaseLayout
+    title={title}
+    description={description}
+    canonicalPath={canonicalPath}
+    ogImagePath="/og.jpg"
+    locale={locale}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
+    extraHeadHtml={extraHeadHtml}
+>
+    <Nav locale={locale} messages={messages} />
+    <slot />
+    <SearchModal locale={locale} />
+    <Footer locale={locale} messages={messages} alternates={alternates} />
+</BaseLayout>

@@ -1077,6 +1077,14 @@ html[data-theme="light"] {
     display: block;
 }
 
+/* Empty state — a category index with no articles yet (pre-corpus). */
+.help-empty {
+    margin: 8px 0 0;
+    padding: 22px 0;
+    font-size: 15px;
+    color: var(--duet-muted);
+}
+
 /* TOC (right rail) */
 .help-toc {
     position: sticky;
