@@ -71,6 +71,36 @@
     --code-text: rgba(255, 255, 255, 0.88);
     --code-border: rgba(255, 255, 255, 0.08);
     --pre-bg: rgba(0, 0, 0, 0.4);
+
+    /*
+     * Consent banner (Dark) — see src/snippets/consent-banner.html.
+     * These alias tokens carry the banner's EXACT historical literals so the
+     * tokenization is a visual no-op. The banner card intentionally uses a
+     * slightly lifted surface (#0f0f24) vs the page --duet-bg (#08081a), and
+     * its body/link colors differ from the prose tokens, so they get their own
+     * named aliases rather than being mapped onto near-but-not-equal tokens.
+     * --consent-focus is theme-invariant: the banner's focus outline was a
+     * single hard-coded #4530ea in BOTH themes (it was never overridden per
+     * theme). NOTE: do NOT alias it to --duet-accent — that token is #4530ea
+     * in dark but #3730a3 in light, which would change the light-mode outline.
+     * --consent-font preserves the banner's exact stack incl. the "Manrope"
+     * (non-variable) fallback that --font-sans omits.
+     */
+    --consent-font: "Manrope Variable", "Manrope", ui-sans-serif, system-ui, -apple-system, sans-serif;
+    --consent-surface: #0f0f24;
+    --consent-border: rgba(255, 255, 255, 0.10);
+    --consent-body: rgba(200, 200, 210, 0.92);
+    --consent-link: #74c2ff;
+    --consent-link-hover: #ffffff;
+    --consent-focus: #4530ea;
+    --consent-btn-text: #ffffff;
+    --consent-btn-bg: rgba(255, 255, 255, 0.06);
+    --consent-btn-bg-hover: rgba(255, 255, 255, 0.10);
+    /* Dark never overrode :active or btn border-hover; both fell through to the
+       base (light) literals. Preserve that exact fall-through here. */
+    --consent-btn-bg-active: #ececf0;
+    --consent-btn-border: rgba(255, 255, 255, 0.14);
+    --consent-btn-border-hover: rgba(0, 0, 0, 0.18);
   }
 
   html[data-theme="light"] {
@@ -133,6 +163,19 @@
     --code-text: #1a1a1f;
     --code-border: rgba(0, 0, 0, 0.08);
     --pre-bg: #f0f0f2;
+
+    /* Consent banner (Light) — exact historical literals, visual no-op. */
+    --consent-surface: #fafafa;
+    --consent-border: rgba(0, 0, 0, 0.10);
+    --consent-body: #3d3d44;
+    --consent-link: #4f46e5;
+    --consent-link-hover: #1a1a1f;
+    --consent-btn-text: #1a1a1f;
+    --consent-btn-bg: #ffffff;
+    --consent-btn-bg-hover: #f2f2f5;
+    --consent-btn-bg-active: #ececf0;
+    --consent-btn-border: rgba(0, 0, 0, 0.10);
+    --consent-btn-border-hover: rgba(0, 0, 0, 0.18);
   }
 
   /* Responsive hero background for light mode - tablet */

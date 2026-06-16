@@ -1,7 +1,10 @@
 ---
 import "../styles/global.css";
+import consentDefaultHtml from "../snippets/consent-default.html?raw";
 import gtmHeadHtml from "../snippets/gtm-head.html?raw";
 import gtmNoscriptHtml from "../snippets/gtm-noscript.html?raw";
+import consentBannerHtml from "../snippets/consent-banner.html?raw";
+import { SITE_BRAND, SITE_TWITTER, renderConsentBanner } from "../utils/brand";
 import {
     DEFAULT_LOCALE,
     OPEN_GRAPH_LOCALES,
@@ -54,6 +57,11 @@ const runtimeAlternateLocales = alternates.filter(
 const shouldEmitOgLocaleAlternates =
     runtimeAlternateLocales.length === SUPPORTED_LOCALES.length &&
     runtimeAlternateLocales.length > 1 && !robotsDirectives?.includes("noindex");
+
+// Consent banner: interpolate the host-aware brand + privacy href into the
+// English-only snippet (SC-1 / B3). The privacy page is same-origin on both
+// brands (/privacy), built from SITE_URL so the chiefy build points at chiefy.com.
+const consentBannerRendered = renderConsentBanner(consentBannerHtml);
 ---
 
 <!doctype html>
@@ -62,6 +70,8 @@ const shouldEmitOgLocaleAlternates =
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+        <!-- Consent Mode v2 default (SC-1) — MUST precede the GTM bootstrap. -->
+        <Fragment set:html={consentDefaultHtml} />
         <Fragment set:html={gtmHeadHtml} />
 
         <script is:inline>
@@ -112,7 +122,7 @@ const shouldEmitOgLocaleAlternates =
               imagesizes="100vw" />
 
         <meta property="og:type" content={ogType} />
-        <meta property="og:site_name" content="Chiefy" />
+        <meta property="og:site_name" content={SITE_BRAND} />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         <meta property="og:image" content={ogImageUrl} />
@@ -131,7 +141,7 @@ const shouldEmitOgLocaleAlternates =
                 ))}
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@ChiefyApp" />
+        <meta name="twitter:site" content={SITE_TWITTER} />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={ogImageUrl} />
@@ -142,5 +152,13 @@ const shouldEmitOgLocaleAlternates =
     <body>
         <Fragment set:html={gtmNoscriptHtml} />
         <slot />
+
+        <!--
+          Cookie consent banner (SC-1, landing leg). English copy lives in the
+          snippet (mirrors the app ConsentBanner EXACTLY); brand + privacy href are
+          interpolated here from the build env (B3). Founder copy sign-off pending
+          before any locale fan-out — English only, no translation.
+        -->
+        <Fragment set:html={consentBannerRendered} />
     </body>
 </html>
