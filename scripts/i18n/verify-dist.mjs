@@ -585,13 +585,16 @@ function assertSitemapHelpRoutes() {
         distFileToHelpLoc(articleDistFile),
     ]
 
-    let sawHelpLoc = false
+    // Require the EXACT help-home loc, not just any /help-prefixed URL — a broad
+    // `/help(?:\/|<)` match is also satisfied by /help/<category> and article
+    // URLs, so it would pass even if the help index itself were dropped.
+    let sawHelpHomeLoc = false
     const sawRequiredLoc = new Set()
     for (const filePath of sitemapFiles) {
         const relativePath = path.relative(repoRoot, filePath)
         const xml = readFileSync(filePath, "utf8")
 
-        if (/<loc>https:\/\/duetmail\.com\/help(?:\/|<)/u.test(xml)) sawHelpLoc = true
+        if (xml.includes("<loc>https://duetmail.com/help</loc>")) sawHelpHomeLoc = true
 
         for (const loc of requiredHelpLocs) {
             if (xml.includes(`<loc>${loc}</loc>`)) sawRequiredLoc.add(loc)
@@ -609,7 +612,7 @@ function assertSitemapHelpRoutes() {
             }
         }
     }
-    if (!sawHelpLoc) fail("Sitemap is missing the EN /help URLs")
+    if (!sawHelpHomeLoc) fail("Sitemap is missing the EN /help index <loc> (https://duetmail.com/help)")
     for (const loc of requiredHelpLocs) {
         if (!sawRequiredLoc.has(loc)) {
             fail(`Sitemap is missing a discovered help page <loc>: ${loc}`)
