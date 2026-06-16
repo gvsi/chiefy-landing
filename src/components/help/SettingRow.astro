@@ -11,6 +11,7 @@
  * (default on). `anno` renders a small annotation marker beside the title.
  */
 import HelpIcon from "./HelpIcon.astro"
+import { HELP_UI } from "../../content/help/_ui"
 
 type Props = {
     title: string
@@ -37,5 +38,5 @@ const { title, description, iconKey = "pen", on = true, anno } = Astro.props
         </b>
         <span>{description}</span>
     </span>
-    <span class={`help-switch${on ? "" : " off"}`} role="img" aria-label={on ? "On" : "Off"}></span>
+    <span class={`help-switch${on ? "" : " off"}`} role="img" aria-label={on ? HELP_UI.common.on : HELP_UI.common.off}></span>
 </div>

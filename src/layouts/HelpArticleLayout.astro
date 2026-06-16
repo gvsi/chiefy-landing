@@ -113,13 +113,7 @@ const relatedArticles = relatedSlugs
         iconKey: helpCategory(article.category)?.iconKey,
     }))
 
-const TYPE_LABELS: Record<string, string> = {
-    "how-to": "How-to",
-    concept: "Concept",
-    troubleshooting: "Troubleshooting",
-    faq: "FAQ",
-}
-const typeLabel = TYPE_LABELS[type] ?? type
+const typeLabel = HELP_UI.article.typeLabels[type] ?? type
 const formattedUpdated = formatDate(updatedAt, locale)
 
 const breadcrumbItems = [

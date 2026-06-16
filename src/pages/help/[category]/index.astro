@@ -86,7 +86,7 @@ const articleRows = articles.map((article) => ({
                     articleRows.length > 0 ? (
                         <HelpArticleList articles={articleRows} />
                     ) : (
-                        <p class="help-empty">More articles for this topic are coming soon.</p>
+                        <p class="help-empty">{HELP_UI.category.emptyState}</p>
                     )
                 }
             </main>

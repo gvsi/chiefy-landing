@@ -16,8 +16,7 @@ type Props = {
 }
 
 const { slug } = Astro.props
-const { wasHelpful, yes, no } = HELP_UI.article
-const thanks = "Thanks for the feedback."
+const { wasHelpful, yes, no, feedbackThanks } = HELP_UI.article
 ---
 
 <section class="help-helpful" id="help-helpful" data-slug={slug}>
@@ -32,7 +31,7 @@ const thanks = "Thanks for the feedback."
             {no}
         </button>
     </div>
-    <p class="help-helpful-thanks" role="status" aria-live="polite" tabindex="-1">{thanks}</p>
+    <p class="help-helpful-thanks" role="status" aria-live="polite" tabindex="-1">{feedbackThanks}</p>
 </section>
 
 <script is:inline>

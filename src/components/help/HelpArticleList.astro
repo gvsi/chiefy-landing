@@ -6,6 +6,7 @@
  * enum (how-to | concept | troubleshooting | faq).
  */
 import HelpIcon from "./HelpIcon.astro"
+import { HELP_UI } from "../../content/help/_ui"
 
 type ArticleRow = {
     title: string
@@ -22,13 +23,7 @@ type Props = {
 }
 
 const { articles } = Astro.props
-
-const TYPE_LABELS: Record<string, string> = {
-    "how-to": "How-to",
-    concept: "Concept",
-    troubleshooting: "Troubleshooting",
-    faq: "FAQ",
-}
+const { typeLabels } = HELP_UI.article
 ---
 
 <div class="help-artlist">
@@ -42,7 +37,7 @@ const TYPE_LABELS: Record<string, string> = {
                     <h3>{article.title}</h3>
                     <p>{article.description}</p>
                 </span>
-                {article.type && <span class="help-tag-type">{TYPE_LABELS[article.type] ?? article.type}</span>}
+                {article.type && <span class="help-tag-type">{typeLabels[article.type] ?? article.type}</span>}
                 <span class="ar-arrow">
                     <HelpIcon name="arrow-right" size={18} stroke={1.8} />
                 </span>

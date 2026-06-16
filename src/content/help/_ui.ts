@@ -86,9 +86,28 @@ export const HELP_UI = {
         wasHelpful: "Was this helpful?",
         yes: "Yes",
         no: "No",
+        // Shown after a vote in the "Was this helpful?" widget.
+        feedbackThanks: "Thanks for the feedback.",
         related: "Related articles",
         onThisPage: "On this page",
         updated: "Updated",
+        // Humanized labels for the collection `type` enum (config.ts:
+        // z.enum(["how-to", "concept", "troubleshooting", "faq"])). Single source
+        // consumed by the article-list rows and the article-layout meta tag.
+        typeLabels: {
+            "how-to": "How-to",
+            concept: "Concept",
+            troubleshooting: "Troubleshooting",
+            faq: "FAQ",
+        } as Record<string, string>,
+    },
+    category: {
+        // Category index with no articles yet (pre-corpus empty state).
+        emptyState: "More articles for this topic are coming soon.",
+    },
+    common: {
+        on: "On",
+        off: "Off",
     },
     breadcrumb: {
         home: "Help center",
