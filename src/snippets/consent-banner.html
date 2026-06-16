@@ -1,0 +1,323 @@
+<!-- Cookie consent banner (SC-1, landing leg). Zero-JS-first: the markup is
+     hidden by default (display:none) so there is NO CLS and no flash for the ~90%
+     non-EEA / already-decided visitors. A tiny deferred vanilla script reveals it
+     only when there is no stored choice AND the edge region is EEA/UK, then wires
+     Accept/Reject.
+
+     ENGLISH ONLY. The user-facing copy below mirrors the app ConsentBanner copy
+     EXACTLY so app + landing match. Founder copy sign-off is pending before any
+     locale fan-out, so this lives in the snippet (outside the i18n scanner) and is
+     NOT translated. __SITE_BRAND__ / __PRIVACY_HREF__ are replaced at render time
+     by BaseLayout.astro from the build env (B3).
+
+     Mirrors the app ConsentBanner exactly: same chiefy_consent cookie, same
+     per-host Domain derivation (parts.slice(-2)), same Consent Mode v2 update
+     payloads, equal-weight buttons (no dark patterns), a11y, prefers-reduced-
+     motion. -->
+<div
+    id="chiefy-consent"
+    class="chiefy-consent"
+    role="dialog"
+    aria-modal="false"
+    aria-label="Cookie consent"
+    aria-describedby="chiefy-consent-body"
+>
+    <p id="chiefy-consent-body" class="chiefy-consent-body">
+        You can let __SITE_BRAND__ use cookies to measure how the site is used and
+        improve it. Essential cookies always stay on.
+        <a
+            class="chiefy-consent-link"
+            href="__PRIVACY_HREF__"
+            target="_blank"
+            rel="noopener noreferrer"
+        >Privacy policy</a>
+    </p>
+    <div class="chiefy-consent-actions">
+        <button type="button" class="chiefy-consent-btn" data-consent-reject>Reject non-essential</button>
+        <button type="button" class="chiefy-consent-btn" data-consent-accept>Accept</button>
+    </div>
+</div>
+<style>
+    .chiefy-consent {
+        /* Hidden until the deferred script decides — no CLS, no pre-paint flash. */
+        display: none;
+        position: fixed;
+        z-index: 9998;
+        left: 16px;
+        right: 16px;
+        bottom: 16px;
+        margin: 0 auto;
+        max-width: 560px;
+        background: #fafafa;
+        border: 1px solid rgba(0, 0, 0, 0.10);
+        border-radius: 12px;
+        box-shadow:
+            0 40px 80px rgba(0, 0, 0, 0.12),
+            0 16px 32px rgba(0, 0, 0, 0.08);
+        padding: 16px 18px;
+        flex-direction: column;
+        gap: 14px;
+        font-family: "Manrope Variable", "Manrope", ui-sans-serif, system-ui, -apple-system, sans-serif;
+        margin-bottom: env(safe-area-inset-bottom, 0px);
+    }
+
+    /* The script sets data-visible="true" to reveal (and only then animate). */
+    .chiefy-consent[data-visible="true"] {
+        display: flex;
+        animation: chiefy-consent-in 220ms cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    @keyframes chiefy-consent-in {
+        from { opacity: 0; transform: translateY(8px); }
+        to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .chiefy-consent-body {
+        margin: 0;
+        color: #3d3d44;
+        font-size: 14px;
+        line-height: 1.55;
+        font-weight: 500;
+    }
+
+    .chiefy-consent-link {
+        color: #4f46e5;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+        white-space: nowrap;
+    }
+
+    .chiefy-consent-link:hover { color: #1a1a1f; }
+
+    .chiefy-consent-link:focus-visible {
+        outline: 2px solid #4530ea;
+        outline-offset: 2px;
+        border-radius: 3px;
+    }
+
+    .chiefy-consent-actions {
+        display: flex;
+        gap: 10px;
+        justify-content: flex-end;
+    }
+
+    /* Accept + Reject share IDENTICAL styling — equal visual weight, no dark
+       pattern. Neutral surface buttons. */
+    .chiefy-consent-btn {
+        appearance: none;
+        cursor: pointer;
+        font-family: inherit;
+        font-size: 14px;
+        font-weight: 600;
+        color: #1a1a1f;
+        background: #ffffff;
+        border: 1px solid rgba(0, 0, 0, 0.10);
+        border-radius: 10px;
+        padding: 9px 16px;
+        min-height: 40px;
+        transition: background-color 150ms cubic-bezier(0, 0, 0.2, 1),
+                    border-color 150ms cubic-bezier(0, 0, 0.2, 1);
+    }
+
+    .chiefy-consent-btn:hover {
+        background: #f2f2f5;
+        border-color: rgba(0, 0, 0, 0.18);
+    }
+
+    .chiefy-consent-btn:active { background: #ececf0; }
+
+    .chiefy-consent-btn:focus-visible {
+        outline: 2px solid #4530ea;
+        outline-offset: 2px;
+    }
+
+    @media (min-width: 480px) {
+        .chiefy-consent[data-visible="true"] {
+            flex-direction: row;
+            align-items: center;
+            gap: 18px;
+        }
+        .chiefy-consent-body { flex: 1; }
+        .chiefy-consent-actions { flex-shrink: 0; }
+    }
+
+    /* Dark theme — mirror the landing dark tokens (html data-theme handling). */
+    html.dark .chiefy-consent,
+    html:not([data-theme="light"]) .chiefy-consent {
+        background: #0f0f24;
+        border-color: rgba(255, 255, 255, 0.10);
+    }
+    html.dark .chiefy-consent-body,
+    html:not([data-theme="light"]) .chiefy-consent-body {
+        color: rgba(200, 200, 210, 0.92);
+    }
+    html.dark .chiefy-consent-link,
+    html:not([data-theme="light"]) .chiefy-consent-link { color: #74c2ff; }
+    html.dark .chiefy-consent-link:hover,
+    html:not([data-theme="light"]) .chiefy-consent-link:hover { color: #ffffff; }
+    html.dark .chiefy-consent-btn,
+    html:not([data-theme="light"]) .chiefy-consent-btn {
+        color: #ffffff;
+        background: rgba(255, 255, 255, 0.06);
+        border-color: rgba(255, 255, 255, 0.14);
+    }
+    html.dark .chiefy-consent-btn:hover,
+    html:not([data-theme="light"]) .chiefy-consent-btn:hover {
+        background: rgba(255, 255, 255, 0.10);
+    }
+    /* Light theme wins back (data-theme="light" is set explicitly by the
+       theme bootstrap; default no-attr = dark). */
+    html[data-theme="light"] .chiefy-consent {
+        background: #fafafa;
+        border-color: rgba(0, 0, 0, 0.10);
+    }
+    html[data-theme="light"] .chiefy-consent-body { color: #3d3d44; }
+    html[data-theme="light"] .chiefy-consent-link { color: #4f46e5; }
+    html[data-theme="light"] .chiefy-consent-link:hover { color: #1a1a1f; }
+    html[data-theme="light"] .chiefy-consent-btn {
+        color: #1a1a1f;
+        background: #ffffff;
+        border-color: rgba(0, 0, 0, 0.10);
+    }
+    html[data-theme="light"] .chiefy-consent-btn:hover {
+        background: #f2f2f5;
+        border-color: rgba(0, 0, 0, 0.18);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        .chiefy-consent[data-visible="true"] { animation: none; }
+        .chiefy-consent-btn { transition: none; }
+    }
+</style>
+<script>
+    (function () {
+        if (typeof window === 'undefined' || typeof document === 'undefined') {
+            return;
+        }
+
+        var ALL_GRANTED = {
+            ad_storage: 'granted',
+            ad_user_data: 'granted',
+            ad_personalization: 'granted',
+            analytics_storage: 'granted',
+            security_storage: 'granted'
+        };
+        var ALL_DENIED = {
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            analytics_storage: 'denied',
+            security_storage: 'granted'
+        };
+
+        function readStoredConsent() {
+            var cookies = document.cookie ? document.cookie.split(';') : [];
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i].trim();
+                if (cookie.indexOf('chiefy_consent=') === 0) {
+                    var value = cookie.substring('chiefy_consent='.length).trim();
+                    if (value === 'granted' || value === 'denied') return value;
+                    return null;
+                }
+            }
+            return null;
+        }
+
+        // Edge region signal (SC-1a). FAIL-SAFE to EEA when absent/unknown, so the
+        // banner shows + first-party stays deferred whenever region is unknown.
+        // Mirrors consent.ts getConsentRegion (meta[name=cf-region] -> __CF_REGION__).
+        function getConsentRegion() {
+            var raw = null;
+            try {
+                var meta = document.querySelector('meta[name="cf-region"]');
+                raw = meta ? meta.getAttribute('content') : null;
+                if (!raw && typeof window.__CF_REGION__ === 'string') {
+                    raw = window.__CF_REGION__;
+                }
+            } catch (e) {
+                return 'eea';
+            }
+            var normalized = raw ? raw.trim().toLowerCase() : '';
+            if (normalized === 'non-eea') return 'non-eea';
+            return 'eea';
+        }
+
+        // Persist the choice. Domain derived EXACTLY like gtm-head.html writeCookie
+        // (parts.slice(-2).join('.')) so app + landing share within a brand; skip on
+        // localhost. 12-month Max-Age, Path=/, SameSite=Lax, Secure.
+        function writeConsentCookie(value) {
+            try {
+                var host = window.location.hostname || '';
+                var parts = host.split('.');
+                var domain = parts.length >= 2 ? parts.slice(-2).join('.') : host;
+                var directives = [
+                    'chiefy_consent=' + value,
+                    'Max-Age=' + (60 * 60 * 24 * 365),
+                    'Path=/',
+                    'SameSite=Lax',
+                    'Secure'
+                ];
+                if (domain && domain !== 'localhost') {
+                    directives.push('Domain=.' + domain);
+                }
+                document.cookie = directives.join('; ');
+            } catch (e) {
+                /* analytics only — never break the page */
+            }
+        }
+
+        function pushConsentUpdate(state) {
+            try {
+                if (typeof window.gtag === 'function') {
+                    window.gtag('consent', 'update', state);
+                }
+            } catch (e) { /* never break the page */ }
+        }
+
+        function init() {
+            var banner = document.getElementById('chiefy-consent');
+            if (!banner) return;
+
+            // Show ONLY when no stored choice AND region is EEA/UK.
+            if (readStoredConsent() !== null || getConsentRegion() !== 'eea') {
+                return;
+            }
+
+            var acceptBtn = banner.querySelector('[data-consent-accept]');
+            var rejectBtn = banner.querySelector('[data-consent-reject]');
+
+            function dismiss() {
+                banner.setAttribute('data-visible', 'false');
+                banner.style.display = 'none';
+            }
+
+            if (acceptBtn) {
+                acceptBtn.addEventListener('click', function () {
+                    pushConsentUpdate(ALL_GRANTED);
+                    writeConsentCookie('granted');
+                    // Flush the deferred first-party attribution (referral beacon +
+                    // UTM writes) now that analytics_storage is granted.
+                    if (typeof window.__chiefyFlushFirstParty === 'function') {
+                        window.__chiefyFlushFirstParty();
+                    }
+                    dismiss();
+                });
+            }
+            if (rejectBtn) {
+                rejectBtn.addEventListener('click', function () {
+                    pushConsentUpdate(ALL_DENIED);
+                    writeConsentCookie('denied');
+                    dismiss();
+                });
+            }
+
+            banner.setAttribute('data-visible', 'true');
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
+</script>
