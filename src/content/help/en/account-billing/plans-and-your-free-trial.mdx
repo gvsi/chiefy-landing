@@ -24,8 +24,8 @@ Here's what each plan includes.
 
 **Free** is built to get you going at no cost:
 
-- **Smart Drafts** — up to 50 drafts a month, written in your voice
-- **Smart Summaries** — up to 100 summaries a month for threads and emails
+- **Smart Drafts** — up to 5 drafts a month, written in your voice
+- **Smart Summaries** — up to 10 summaries a month for threads and emails
 - **Ask Chiefy** — limited access to chat about your email
 - **Auto Labels** — basic sorting so your inbox stays organized
 
@@ -38,7 +38,7 @@ Here's what each plan includes.
 - **Calendar Integration** — scheduling and calendar context inside your drafts
 - **Priority support** — faster help when you need it
 
-{/* VERIFY: The in-app plan comparison (CurrentPlan.tsx PLAN_FEATURES) shows Free = "50/mo" AI Drafts and "100/mo" summaries, but the server-enforced config (config.py DEFAULT_MONTHLY_DRAFT_LIMIT = 5, DEFAULT_MONTHLY_SUMMARY_LIMIT = 10) is far lower. Confirm which numbers are correct before publishing — the article currently uses the customer-facing 50/100 figures shown in the app. */}
+{/* RESOLVED 2026-06-16 (founder): publish the server-config numbers (Free = 5 drafts / 10 summaries per month). The in-app plan table (CurrentPlan.tsx) shows 50/100 and is being reconciled separately — see duet-server#407. */}
 
 {/* VERIFY: The brief also lists Connected Mailboxes and Smart Summaries on attachments as Pro-only features. Neither appears in the in-app plan comparison (PLAN_FEATURES), so they are omitted here rather than asserted. Confirm their plan gating before adding them to the Pro list. */}
 
