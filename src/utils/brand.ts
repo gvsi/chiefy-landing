@@ -18,6 +18,7 @@
 
 const DEFAULT_SITE_URL = "https://duetmail.com";
 const DEFAULT_SITE_BRAND = "Duet Mail";
+const DEFAULT_SITE_TWITTER = "@DuetMailApp";
 
 function readEnv(key: string): string | undefined {
     // Astro/Vite exposes build env on import.meta.env; astro.config.mjs runs in
@@ -38,6 +39,9 @@ export const SITE_BRAND: string = readEnv("SITE_BRAND") ?? DEFAULT_SITE_BRAND;
 
 /** Product name for JSON-LD. Defaults to SITE_BRAND so one var flips both. */
 export const SITE_PRODUCT_NAME: string = readEnv("SITE_PRODUCT_NAME") ?? SITE_BRAND;
+
+/** Twitter/X handle for twitter:site/creator. chiefy build sets SITE_TWITTER (or leaves the default). */
+export const SITE_TWITTER: string = readEnv("SITE_TWITTER") ?? DEFAULT_SITE_TWITTER;
 
 /**
  * Interpolate the host-aware brand + privacy href into the English-only consent

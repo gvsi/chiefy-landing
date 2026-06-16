@@ -266,6 +266,25 @@
             }
         }
 
+        // On reject, drop any PRE-consent-stored first-party attribution so a
+        // returning visitor's stale duet_utms cookie / duet__utm_params localStorage
+        // is cleared too (mirrors the app ConsentBanner's clearStoredUtmParams).
+        function clearStoredFirstParty() {
+            try {
+                var host = window.location.hostname || '';
+                var parts = host.split('.');
+                var domain = parts.length >= 2 ? parts.slice(-2).join('.') : host;
+                var base = 'duet_utms=; Max-Age=0; Path=/; SameSite=Lax; Secure';
+                document.cookie = base;
+                if (domain && domain !== 'localhost') {
+                    document.cookie = base + '; Domain=.' + domain;
+                }
+                window.localStorage.removeItem('duet__utm_params');
+            } catch (e) {
+                /* analytics only — never break the page */
+            }
+        }
+
         function pushConsentUpdate(state) {
             try {
                 if (typeof window.gtag === 'function') {
@@ -307,6 +326,7 @@
                 rejectBtn.addEventListener('click', function () {
                     pushConsentUpdate(ALL_DENIED);
                     writeConsentCookie('denied');
+                    clearStoredFirstParty();
                     dismiss();
                 });
             }

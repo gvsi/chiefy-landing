@@ -4,7 +4,7 @@ import consentDefaultHtml from "../snippets/consent-default.html?raw";
 import gtmHeadHtml from "../snippets/gtm-head.html?raw";
 import gtmNoscriptHtml from "../snippets/gtm-noscript.html?raw";
 import consentBannerHtml from "../snippets/consent-banner.html?raw";
-import { SITE_BRAND, renderConsentBanner } from "../utils/brand";
+import { SITE_BRAND, SITE_TWITTER, renderConsentBanner } from "../utils/brand";
 import {
     DEFAULT_LOCALE,
     OPEN_GRAPH_LOCALES,
@@ -141,7 +141,7 @@ const consentBannerRendered = renderConsentBanner(consentBannerHtml);
                 ))}
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@DuetMailApp" />
+        <meta name="twitter:site" content={SITE_TWITTER} />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={ogImageUrl} />
