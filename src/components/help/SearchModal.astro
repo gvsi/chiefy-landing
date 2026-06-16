@@ -233,6 +233,13 @@ void locale
                     anchor.setAttribute("href", item.href)
                     // Stable id so aria-activedescendant can reference the option.
                     anchor.id = `help-search-result-${optionIndex++}`
+                    // Single keyboard model: results are NOT in the tab order.
+                    // Navigation stays on the combobox input (Arrow keys +
+                    // aria-activedescendant), and Enter on the input opens the
+                    // selected result — so Tab can't strand focus on a stale
+                    // option that Enter would then open. Mouse click still works
+                    // (href intact); native <dialog> Tab cycles the input/footer.
+                    anchor.setAttribute("tabindex", "-1")
                 }
                 if (titleEl) titleEl.textContent = item.title
                 // Excerpt is sanitised plain text; the category prefixes the subline.
