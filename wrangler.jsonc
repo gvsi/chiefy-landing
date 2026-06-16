@@ -8,6 +8,6 @@
   // override — Cloudflare treats this Wrangler file as authoritative for Pages
   // config and overwrites same-key dashboard values on deploy). Revert: commit "off".
   "vars": {
-    "FLIP_301": "off"
+    "FLIP_301": "on"
   }
 }
