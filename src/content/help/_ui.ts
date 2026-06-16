@@ -39,6 +39,10 @@ export const HELP_UI = {
         navigate: "navigate",
         open: "open",
         close: "close",
+        // Search-modal empty / idle / fallback states (live Pagefind wiring)
+        idle: "Start typing to search the help center.",
+        noResults: "No matching articles yet. Try different words.",
+        unavailable: "Search isn't available right now. Browse the topics below.",
         // Legacy field retained for any earlier consumers
         askSoon: "Ask Chiefy · soon",
     },

@@ -1255,6 +1255,12 @@ html[data-theme="light"] {
 .help-modal .ask .help-soon {
     margin-left: auto;
 }
+.help-modal .help-search-state {
+    padding: 22px 14px 26px;
+    text-align: center;
+    font-size: 13.5px;
+    color: var(--duet-muted);
+}
 
 /* ---- reduced motion -------------------------------------------------- */
 @media (prefers-reduced-motion: reduce) {

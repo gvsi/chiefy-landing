@@ -1,27 +1,29 @@
 ---
 /**
- * SearchModal — the ⌘K command-palette shell + open/close/theme island, ported
- * from the prototype help.js. This Phase-3 version renders the STATIC markup
- * (search field, the deferred "Ask Chiefy this question · soon" row, and a small
- * set of seed "Top results"). Live Pagefind result wiring is Phase 4.
+ * SearchModal — the ⌘K command-palette for the help center, wired to the static
+ * Pagefind index built in `astro:build:done` (Task 4.1).
  *
- * The island is a single tiny is:inline script that:
- *   - opens the modal on ⌘K/Ctrl-K and on click of any `.js-help-search` element
- *     (the hero search bar/toggle, a nav search affordance, etc.),
+ * Behaviour (single tiny `is:inline` island, loaded only on routes that render
+ * this component — the help layouts — keeping the rest of the site zero-JS):
+ *   - opens on ⌘K/Ctrl-K and on click of any `.js-help-search` element,
  *   - closes on Esc or overlay click,
- *   - toggles the site theme for any `.js-help-theme` control, using the repo's
- *     storage convention (key "theme"; light => data-theme="light", dark =>
- *     attribute removed) so it matches BaseLayout's inline theme bootstrap.
+ *   - on FIRST open, lazy-imports `/pagefind/pagefind.js` and initialises it,
+ *   - debounces the input and renders live results (title + category·excerpt
+ *     subline) linking to the article URL,
+ *   - keeps the deferred "Ask Chiefy this question · soon" row (no AI yet),
+ *   - keyboard nav: ↑/↓ move the selection, ↵ opens it, Esc closes,
+ *   - degrades gracefully: if the index is missing (e.g. `astro dev`, where
+ *     Pagefind never runs) or a query returns nothing, it shows a calm
+ *     idle / empty state instead of throwing,
+ *   - also toggles the site theme for any `.js-help-theme` control, matching
+ *     BaseLayout's storage convention (key "theme"; light => data-theme="light").
  *
- * It loads ONLY on routes that render this component (the help layouts), keeping
- * the rest of the site zero-JS.
+ * `prefers-reduced-motion` is honoured by help.css (the pop animation is
+ * disabled there); the JS adds no motion of its own.
  */
 import HelpIcon from "./HelpIcon.astro"
 import { HELP_UI } from "../../content/help/_ui"
-import { localizedPath } from "../../i18n/routing"
 import type { Locale } from "../../i18n/locales"
-
-type SeedResult = { title: string; subtitle: string; href: string; iconKey: string }
 
 type Props = {
     locale: Locale
@@ -29,26 +31,38 @@ type Props = {
 
 const { locale } = Astro.props
 const { search } = HELP_UI
-
-const helpHref = (category: string) => localizedPath(locale, { kind: "helpCategory", category })
-
-// Seed results shown before Pagefind is wired (Phase 4). Linked to real category
-// indexes so the shell is navigable today.
-const seedResults: SeedResult[] = [
-    { title: "Turn on Autodraft", subtitle: "Smart Drafts · let Chiefy pre-draft replies automatically", href: helpHref("smart-drafts"), iconKey: "pen" },
-    { title: "Using Smart Drafts on demand", subtitle: "Smart Drafts · write and reply in your voice", href: helpHref("smart-drafts"), iconKey: "pen" },
-    { title: "How Auto Labels work", subtitle: "Auto Labels · automatic email sorting", href: helpHref("auto-labels"), iconKey: "labels" },
-    { title: "Connect a second mailbox", subtitle: "Connected Mailboxes · add Gmail or Outlook accounts", href: helpHref("connected-mailboxes"), iconKey: "mailboxes" },
-    { title: "Cancel my plan", subtitle: "Account & billing · manage your subscription", href: helpHref("account-billing"), iconKey: "card" },
-]
+// `locale` is reserved for future per-locale help indexes (Pagefind splits by
+// language); the launch index is English-only.
+void locale
 ---
 
-<div class="help-modal" id="help-search-modal" role="dialog" aria-modal="true" aria-label={search.placeholder} hidden>
+<div
+    class="help-modal"
+    id="help-search-modal"
+    role="dialog"
+    aria-modal="true"
+    aria-label={search.placeholder}
+    data-copy-idle={search.idle}
+    data-copy-empty={search.noResults}
+    data-copy-unavailable={search.unavailable}
+    data-copy-top={search.topResults}
+    hidden
+>
     <button type="button" class="ov" data-help-close aria-label={search.close}></button>
     <div class="box">
         <div class="sb">
             <HelpIcon name="search" size={20} stroke={1.8} />
-            <input id="help-search-input" type="search" placeholder={search.placeholder} autocomplete="off" aria-label={search.placeholder} />
+            <input
+                id="help-search-input"
+                type="search"
+                placeholder={search.placeholder}
+                autocomplete="off"
+                aria-label={search.placeholder}
+                aria-controls="help-search-results"
+                role="combobox"
+                aria-expanded="false"
+                aria-autocomplete="list"
+            />
             <span class="help-kbd">ESC</span>
         </div>
 
@@ -58,22 +72,22 @@ const seedResults: SeedResult[] = [
             <span class="help-soon">{search.soon}</span>
         </div>
 
-        <div class="results" id="help-search-results">
-            <div class="rg">{search.topResults}</div>
-            {
-                seedResults.map((result, i) => (
-                    <a class={`ri${i === 0 ? " sel" : ""}`} href={result.href}>
-                        <span class="ric">
-                            <HelpIcon name={result.iconKey} size={16} />
-                        </span>
-                        <span>
-                            <b>{result.title}</b>
-                            <span>{result.subtitle}</span>
-                        </span>
-                    </a>
-                ))
-            }
+        <div class="results" id="help-search-results" role="listbox" aria-label={search.topResults}>
+            <div class="help-search-state" data-help-state>{search.idle}</div>
         </div>
+
+        {/* Template cloned per live result; keeps the result SVG out of the island JS. */}
+        <template id="help-search-result-template">
+            <a class="ri" role="option" href="#">
+                <span class="ric">
+                    <HelpIcon name="doc-edit" size={16} />
+                </span>
+                <span>
+                    <b data-result-title></b>
+                    <span data-result-sub></span>
+                </span>
+            </a>
+        </template>
 
         <div class="foot">
             <span><span class="help-kbd">↑↓</span>{search.navigate}</span>
@@ -84,24 +98,188 @@ const seedResults: SeedResult[] = [
 </div>
 
 <script is:inline>
-    (() => {
+    ;(() => {
         const modal = document.getElementById("help-search-modal")
         if (!modal || modal.dataset.bound === "1") return
         modal.dataset.bound = "1"
-        const input = document.getElementById("help-search-input")
+
+        // Server-rendered copy travels via data-* attributes (is:inline scripts
+        // are not Astro-processed, so define:vars is unavailable here).
+        const copy = {
+            idle: modal.dataset.copyIdle || "",
+            empty: modal.dataset.copyEmpty || "",
+            unavailable: modal.dataset.copyUnavailable || "",
+            topResults: modal.dataset.copyTop || "",
+        }
+
+        const input = /** @type {HTMLInputElement | null} */ (document.getElementById("help-search-input"))
+        const results = document.getElementById("help-search-results")
+        const template = /** @type {HTMLTemplateElement | null} */ (
+            document.getElementById("help-search-result-template")
+        )
+
+        let pagefind = null // resolved Pagefind module, or "unavailable"
+        let pagefindLoading = null // in-flight import promise (load once)
+        let debounceTimer = 0
+        let activeQueryToken = 0 // guards against out-of-order async responses
+        let selected = -1
 
         const open = () => {
             modal.hidden = false
             modal.classList.add("open")
+            if (input) input.setAttribute("aria-expanded", "true")
             window.setTimeout(() => {
                 if (input) input.focus()
             }, 30)
+            // Warm the index on first open so the first keystroke feels instant.
+            void ensurePagefind()
         }
         const close = () => {
             modal.classList.remove("open")
             modal.hidden = true
+            if (input) input.setAttribute("aria-expanded", "false")
         }
 
+        const ensurePagefind = () => {
+            if (pagefind) return Promise.resolve(pagefind)
+            if (pagefindLoading) return pagefindLoading
+            pagefindLoading = import(/* @vite-ignore */ "/pagefind/pagefind.js")
+                .then(async (module) => {
+                    if (module && typeof module.init === "function") {
+                        try {
+                            await module.init()
+                        } catch (error) {
+                            /* init is best-effort; search still works without it */
+                        }
+                    }
+                    pagefind = module
+                    return module
+                })
+                .catch(() => {
+                    // No built index (dev) or a load failure — degrade to a calm state.
+                    pagefind = "unavailable"
+                    return pagefind
+                })
+            return pagefindLoading
+        }
+
+        const renderState = (message) => {
+            if (!results) return
+            const node = document.createElement("div")
+            node.className = "help-search-state"
+            node.setAttribute("data-help-state", "")
+            node.textContent = message
+            results.replaceChildren(node)
+            selected = -1
+        }
+
+        const optionEls = () =>
+            results ? /** @type {HTMLAnchorElement[]} */ (Array.from(results.querySelectorAll(".ri"))) : []
+
+        const setSelection = (next) => {
+            const options = optionEls()
+            if (options.length === 0) {
+                selected = -1
+                return
+            }
+            selected = (next + options.length) % options.length
+            options.forEach((el, index) => {
+                const isSelected = index === selected
+                el.classList.toggle("sel", isSelected)
+                el.setAttribute("aria-selected", isSelected ? "true" : "false")
+                if (isSelected) el.scrollIntoView({ block: "nearest" })
+            })
+        }
+
+        const renderResults = (items) => {
+            if (!results || !template) return
+            if (items.length === 0) {
+                renderState(copy.empty)
+                return
+            }
+            const fragment = document.createDocumentFragment()
+            const heading = document.createElement("div")
+            heading.className = "rg"
+            heading.textContent = copy.topResults
+            fragment.appendChild(heading)
+
+            for (const item of items) {
+                const clone = /** @type {DocumentFragment} */ (template.content.cloneNode(true))
+                const anchor = clone.querySelector(".ri")
+                const titleEl = clone.querySelector("[data-result-title]")
+                const subEl = clone.querySelector("[data-result-sub]")
+                if (anchor) anchor.setAttribute("href", item.href)
+                if (titleEl) titleEl.textContent = item.title
+                // Excerpt is sanitised plain text; the category prefixes the subline.
+                if (subEl) subEl.textContent = item.subtitle
+                fragment.appendChild(clone)
+            }
+            results.replaceChildren(fragment)
+            setSelection(0)
+        }
+
+        const stripHtml = (value) => {
+            const tmp = document.createElement("div")
+            tmp.innerHTML = value || ""
+            return (tmp.textContent || "").replace(/\s+/g, " ").trim()
+        }
+
+        const cleanUrl = (url) => (url || "").replace(/\.html$/, "").replace(/\/index$/, "") || "/"
+
+        const runSearch = async (rawQuery) => {
+            const query = rawQuery.trim()
+            const token = ++activeQueryToken
+            if (query === "") {
+                renderState(copy.idle)
+                return
+            }
+
+            const module = await ensurePagefind()
+            if (token !== activeQueryToken) return // superseded by a newer query
+            if (!module || module === "unavailable") {
+                renderState(copy.unavailable)
+                return
+            }
+
+            let response
+            try {
+                response = await module.search(query)
+            } catch (error) {
+                if (token === activeQueryToken) renderState(copy.unavailable)
+                return
+            }
+            if (token !== activeQueryToken) return
+
+            const raw = response && Array.isArray(response.results) ? response.results.slice(0, 8) : []
+            const resolved = await Promise.all(
+                raw.map(async (result) => {
+                    try {
+                        return await result.data()
+                    } catch (error) {
+                        return null
+                    }
+                }),
+            )
+            if (token !== activeQueryToken) return
+
+            const items = resolved
+                .filter(Boolean)
+                .map((data) => {
+                    const meta = data.meta || {}
+                    const category =
+                        data.filters && Array.isArray(data.filters.category) ? data.filters.category[0] : ""
+                    const excerpt = stripHtml(data.excerpt)
+                    const subtitle = category && excerpt ? `${category} · ${excerpt}` : category || excerpt
+                    return {
+                        title: meta.title || stripHtml(data.content).slice(0, 60) || data.url,
+                        subtitle,
+                        href: cleanUrl(data.url),
+                    }
+                })
+            renderResults(items)
+        }
+
+        // Open triggers.
         document.querySelectorAll(".js-help-search").forEach((el) => {
             el.addEventListener("click", (event) => {
                 event.preventDefault()
@@ -112,12 +290,42 @@ const seedResults: SeedResult[] = [
         const closeEl = modal.querySelector("[data-help-close]")
         if (closeEl) closeEl.addEventListener("click", close)
 
+        // Input → debounced search.
+        if (input) {
+            input.addEventListener("input", () => {
+                window.clearTimeout(debounceTimer)
+                debounceTimer = window.setTimeout(() => {
+                    void runSearch(input.value)
+                }, 150)
+            })
+        }
+
         document.addEventListener("keydown", (event) => {
+            const isOpen = modal.classList.contains("open")
             if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") {
                 event.preventDefault()
-                modal.classList.contains("open") ? close() : open()
+                isOpen ? close() : open()
+                return
             }
-            if (event.key === "Escape" && modal.classList.contains("open")) close()
+            if (!isOpen) return
+            if (event.key === "Escape") {
+                close()
+                return
+            }
+            const options = optionEls()
+            if (event.key === "ArrowDown") {
+                event.preventDefault()
+                setSelection(selected < 0 ? 0 : selected + 1)
+            } else if (event.key === "ArrowUp") {
+                event.preventDefault()
+                setSelection(selected < 0 ? options.length - 1 : selected - 1)
+            } else if (event.key === "Enter") {
+                const target = options[selected]
+                if (target) {
+                    event.preventDefault()
+                    window.location.assign(target.getAttribute("href") || "/")
+                }
+            }
         })
 
         // Theme toggle (repo convention: key "theme"; light => data-theme=light).
