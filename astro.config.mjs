@@ -2,6 +2,7 @@ import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import tailwindcss from "@tailwindcss/vite"
+import mdx from "@astrojs/mdx"
 import sitemap from "@astrojs/sitemap"
 import { defineConfig } from "astro/config"
 
@@ -63,6 +64,7 @@ export default defineConfig({
         format: "file",
     },
     integrations: [
+        mdx(),
         sitemap({
             filter: filterSitemapPage,
             ...(hasBootstrapLocales
