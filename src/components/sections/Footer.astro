@@ -1,6 +1,6 @@
 ---
 import LanguageMenu from "../nav/LanguageMenu.astro";
-import type { Locale } from "../../i18n/locales";
+import { DEFAULT_LOCALE, type Locale } from "../../i18n/locales";
 import { localizedPath, type AlternateLink } from "../../i18n/routing";
 import { t, type Messages } from "../../i18n/messages/schema";
 
@@ -51,7 +51,9 @@ const groups: FooterGroup[] = [
             { id: "pricing", labelKey: "nav.pricing", href: anchor("pricing") },
             { id: "testimonials", labelKey: "nav.testimonials", href: anchor("testimonials") },
             { id: "faq", labelKey: "nav.faq", href: anchor("faq") },
-            { id: "help", labelKey: "help.nav.label", href: localizedPath(locale, { kind: "helpIndex" }) },
+            // Help is English-only (no locale-prefixed help pages are generated),
+            // so always point at the EN help index — a localized href would 404.
+            { id: "help", labelKey: "help.nav.label", href: localizedPath(DEFAULT_LOCALE, { kind: "helpIndex" }) },
         ],
     },
     {
