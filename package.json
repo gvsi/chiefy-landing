@@ -15,7 +15,7 @@
     "functions:types": "wrangler types --path ./functions/types.d.ts",
     "functions:types:check": "wrangler types --path ./functions/types.d.ts --check",
     "functions:check": "tsc --noEmit --project functions/tsconfig.json",
-    "functions:build": "mkdir -p .wrangler/pages-functions && wrangler pages functions build functions --project-directory . --outdir .wrangler/pages-functions --output-routes-path .wrangler/pages-functions/_routes.json && node scripts/i18n/redirect-contracts.mjs --check-functions-build",
+    "functions:build": "mkdir -p .wrangler/pages-functions && wrangler pages functions build functions --project-directory . --outdir .wrangler/pages-functions --output-routes-path .wrangler/pages-functions/_routes.json && node scripts/i18n/redirect-contracts.mjs --check-functions-build && node scripts/consent-region-check.mjs",
     "functions:build:cloudflare-compat": "mkdir -p .wrangler/pages-functions-compat && pnpm dlx wrangler@3.101.0 pages functions build functions --project-directory . --outdir .wrangler/pages-functions-compat --output-routes-path .wrangler/pages-functions-compat/_routes.json",
     "i18n:sync-locales": "node scripts/i18n/sync-locales.mjs",
     "i18n:sync-locales:write": "node scripts/i18n/sync-locales.mjs --from-root --write",

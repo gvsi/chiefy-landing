@@ -218,6 +218,28 @@ const ctaHrefForPlan = (plan: PlanContent) =>
     </div>
 </section>
 
+<script is:inline>
+    // Analytics only (SC-5): push the canonical click_billing_plan_tab dataLayer
+    // event when the user switches the billing period. The downstream GTM tag is
+    // consent-gated per WS-C, so this push is unconditional. Tiny, deferred, never
+    // blocks the page; the toggle itself stays pure-CSS.
+    (function () {
+        if (typeof window === "undefined" || typeof document === "undefined") return;
+        var radios = document.querySelectorAll('.pricing__radio[name="billing"]');
+        if (!radios.length) return;
+        radios.forEach(function (radio) {
+            radio.addEventListener("change", function () {
+                if (!radio.checked) return;
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    event: "click_billing_plan_tab",
+                    billing_period: radio.value,
+                });
+            });
+        });
+    })();
+</script>
+
 <style>
     /* ═══════════════════════════════════════════════════════════════
        Pricing: Floating Cards with Depth

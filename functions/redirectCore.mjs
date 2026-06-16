@@ -249,10 +249,50 @@ export function wrapResponseWithSecurityHeaders(response) {
     })
 }
 
+// EEA + UK ISO-3166 alpha-2 country codes — the regions where a cookie-consent
+// banner is legally required. Cloudflare's CF-IPCountry header gives the visitor's
+// country at the edge.
+const EEA_GB_COUNTRIES = new Set([
+    // EU-27
+    "AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GR",
+    "HU", "IE", "IT", "LV", "LT", "LU", "MT", "NL", "PL", "PT", "RO", "SK",
+    "SI", "ES", "SE",
+    // EEA (non-EU)
+    "IS", "LI", "NO",
+    // United Kingdom
+    "GB",
+])
+
+// Resolve the consent region from CF-IPCountry. FAIL-SAFE to "eea" when the country
+// is missing/unknown ("XX" = unknown, "T1" = Tor) so the banner is never wrongly
+// hidden where it may be legally required.
+export function resolveConsentRegion(request) {
+    const country = (request.headers.get("CF-IPCountry") || "").toUpperCase()
+    if (!country || country === "XX" || country === "T1") return "eea"
+    return EEA_GB_COUNTRIES.has(country) ? "eea" : "non-eea"
+}
+
+// Inject <meta name="cf-region" content="eea|non-eea"> into the HTML <head> so the
+// client consent script (consent.ts getConsentRegion / the landing banner) shows
+// the banner ONLY for EEA/UK visitors. No-op for non-HTML. Runs per request (Pages
+// Functions responses are not edge-cached), so the meta is always region-correct.
+export function injectRegionMeta(response, region) {
+    const contentType = response.headers.get("content-type") || ""
+    if (!contentType.includes("text/html")) return response
+    return new HTMLRewriter()
+        .on("head", {
+            element(element) {
+                element.append(`<meta name="cf-region" content="${region}">`, { html: true })
+            },
+        })
+        .transform(response)
+}
+
 export async function handleLandingRequest(request, env, next) {
     const flipLocation = computeFlipRedirect(request, env)
     if (flipLocation) return redirectResponse(flipLocation)
     const redirectLocation = computeCanonicalRedirect(request)
     if (redirectLocation) return redirectResponse(redirectLocation)
-    return wrapResponseWithSecurityHeaders(await next())
+    const response = wrapResponseWithSecurityHeaders(await next())
+    return injectRegionMeta(response, resolveConsentRegion(request))
 }

@@ -1,0 +1,80 @@
+<!-- Consent Mode v2 default (SC-1) — MUST render immediately BEFORE the GTM
+     bootstrap (gtm-head.html line 1). Mirrors the app's consent.ts /
+     consentBootstrap.ts exactly: same cookie name (chiefy_consent), same default
+     structure, same EEA/GB region scoping, same gtag shim.
+
+     The landing loads the GTM container ONLY (no gtag.js), so gtag() must be the
+     canonical shim before the container observes consent. -->
+<script>
+    (function () {
+        if (typeof window === 'undefined' || typeof document === 'undefined') {
+            return;
+        }
+
+        // 1) Define the gtag shim FIRST (GTM-container-only — no gtag.js exists).
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { window.dataLayer.push(arguments); }
+        window.gtag = gtag;
+
+        // Consent Mode v2 storage keys. security_storage is ALWAYS granted.
+        var ALL_GRANTED = {
+            ad_storage: 'granted',
+            ad_user_data: 'granted',
+            ad_personalization: 'granted',
+            analytics_storage: 'granted',
+            security_storage: 'granted'
+        };
+        var ALL_DENIED = {
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            analytics_storage: 'denied',
+            security_storage: 'granted'
+        };
+        // EEA member ISO-3166 alpha-2 + EEA-EFTA (IS, LI, NO) + GB. Mirrors
+        // consent.ts EEA_GB_REGIONS. Region scoping is applied Google-side.
+        var EEA_GB_REGIONS = [
+            'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR',
+            'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
+            'SI', 'ES', 'SE', 'IS', 'LI', 'NO', 'GB'
+        ];
+
+        // 2) Read the persisted choice from the chiefy_consent cookie (synchronous).
+        function readStoredConsent() {
+            var cookies = document.cookie ? document.cookie.split(';') : [];
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i].trim();
+                if (cookie.indexOf('chiefy_consent=') === 0) {
+                    var value = cookie.substring('chiefy_consent='.length).trim();
+                    if (value === 'granted' || value === 'denied') return value;
+                    return null;
+                }
+            }
+            return null;
+        }
+
+        var choice = readStoredConsent();
+        if (choice === 'granted') {
+            // Stored grant wins everywhere: single granted default, no region.
+            gtag('consent', 'default', ALL_GRANTED);
+        } else if (choice === 'denied') {
+            // Stored denial wins everywhere: single denied default, no region.
+            gtag('consent', 'default', ALL_DENIED);
+        } else {
+            // No stored choice: grant globally (preserves non-EEA first-touch +
+            // conversion), then deny in EEA/GB and wait up to 500ms for the
+            // banner's update.
+            gtag('consent', 'default', ALL_GRANTED);
+            var eeaDenied = {
+                ad_storage: 'denied',
+                ad_user_data: 'denied',
+                ad_personalization: 'denied',
+                analytics_storage: 'denied',
+                security_storage: 'granted',
+                region: EEA_GB_REGIONS,
+                wait_for_update: 500
+            };
+            gtag('consent', 'default', eeaDenied);
+        }
+    })();
+</script>

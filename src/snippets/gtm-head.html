@@ -133,35 +133,95 @@
             return sanitizeParams(collected);
         }
 
-        // Step 2: click beacon — fires before early-return so returning visitors are counted
-        try {
-            var beaconRef = new URLSearchParams(window.location.search || '').get('ref');
-            if (beaconRef && /^[a-z0-9]{4,16}$/.test(beaconRef) && navigator.sendBeacon) {
-                navigator.sendBeacon(
-                    'https://api.duetmail.com/referral/click',
-                    new Blob([JSON.stringify({ code: beaconRef })], { type: 'text/plain' })
-                );
+        // ── First-party analytics gate (SC-1) ────────────────────────────────
+        // The /referral/click beacon + the UTM cookie/localStorage writes are
+        // first-party attribution that Consent Mode does NOT govern. They must run
+        // only when analytics consent is granted, mirroring the app's
+        // getFirstPartyAnalyticsConsent: stored granted => granted; stored denied
+        // => denied; no stored choice => granted iff edge region is non-EEA, else
+        // pending (held in memory, flushed by the banner on Accept). Non-EEA users
+        // see no behavioural change (granted by default).
+        function readStoredConsent() {
+            var cookies = document.cookie ? document.cookie.split(';') : [];
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i].trim();
+                if (cookie.indexOf('chiefy_consent=') === 0) {
+                    var value = cookie.substring('chiefy_consent='.length).trim();
+                    if (value === 'granted' || value === 'denied') return value;
+                    return null;
+                }
             }
-        } catch (error) {
-            /* analytics only — never break the page */
+            return null;
         }
 
-        var existingCookie = readCookie();
-        var urlRefValue = new URLSearchParams(window.location.search || '').get('ref');
-        if (Object.keys(existingCookie).length > 0) {
-            if (urlRefValue && /^[a-z0-9]{4,16}$/.test(urlRefValue) && existingCookie.ref !== urlRefValue) {
-                existingCookie.ref = urlRefValue;
-                writeCookie(existingCookie);
+        // Edge region signal (SC-1a). FAIL-SAFE to EEA when absent/unknown.
+        function getConsentRegion() {
+            var raw = null;
+            try {
+                var meta = document.querySelector('meta[name="cf-region"]');
+                raw = meta ? meta.getAttribute('content') : null;
+                if (!raw && typeof window.__CF_REGION__ === 'string') {
+                    raw = window.__CF_REGION__;
+                }
+            } catch (e) {
+                return 'eea';
             }
-            writeLocalStorage(existingCookie);
-            return;
+            var normalized = raw ? raw.trim().toLowerCase() : '';
+            if (normalized === 'non-eea') return 'non-eea';
+            return 'eea';
         }
 
-        var urlParams = captureUtmsFromUrl();
-        if (Object.keys(urlParams).length > 0) {
-            writeCookie(urlParams);
-            writeLocalStorage(urlParams);
+        function firstPartyConsent() {
+            var stored = readStoredConsent();
+            if (stored === 'granted') return 'granted';
+            if (stored === 'denied') return 'denied';
+            return getConsentRegion() === 'non-eea' ? 'granted' : 'pending';
         }
+
+        // The actual first-party work (beacon + UTM persistence). Runs immediately
+        // when consent is granted, or is held and re-run by the banner on Accept.
+        function runFirstPartyAnalytics() {
+            // Step 2: click beacon — fires before early-return so returning visitors are counted
+            try {
+                var beaconRef = new URLSearchParams(window.location.search || '').get('ref');
+                if (beaconRef && /^[a-z0-9]{4,16}$/.test(beaconRef) && navigator.sendBeacon) {
+                    navigator.sendBeacon(
+                        'https://api.duetmail.com/referral/click',
+                        new Blob([JSON.stringify({ code: beaconRef })], { type: 'text/plain' })
+                    );
+                }
+            } catch (error) {
+                /* analytics only — never break the page */
+            }
+
+            var existingCookie = readCookie();
+            var urlRefValue = new URLSearchParams(window.location.search || '').get('ref');
+            if (Object.keys(existingCookie).length > 0) {
+                if (urlRefValue && /^[a-z0-9]{4,16}$/.test(urlRefValue) && existingCookie.ref !== urlRefValue) {
+                    existingCookie.ref = urlRefValue;
+                    writeCookie(existingCookie);
+                }
+                writeLocalStorage(existingCookie);
+                return;
+            }
+
+            var urlParams = captureUtmsFromUrl();
+            if (Object.keys(urlParams).length > 0) {
+                writeCookie(urlParams);
+                writeLocalStorage(urlParams);
+            }
+        }
+
+        var consent = firstPartyConsent();
+        if (consent === 'granted') {
+            runFirstPartyAnalytics();
+        } else if (consent === 'pending') {
+            // EEA / unknown region, no choice yet: hold. The banner's Accept handler
+            // calls this to flush; idempotent (re-running is safe). On Reject it is
+            // never called, so nothing is written.
+            window.__chiefyFlushFirstParty = runFirstPartyAnalytics;
+        }
+        // consent === 'denied' => drop entirely (no beacon, no writes).
     })();
 </script>
 
