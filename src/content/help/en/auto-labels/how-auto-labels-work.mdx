@@ -1,0 +1,79 @@
+---
+title: "How Auto Labels work"
+description: "Chiefy automatically sorts every email into the right label using AI, with eight system categories built-in and custom labels available."
+category: "auto-labels"
+type: "concept"
+order: 10
+keywords: ["auto labels", "AI email organization", "email categories", "automatic email sorting", "Gmail labels"]
+relatedSlugs: ["auto-labels/turning-off-auto-labels", "auto-labels/fixing-miscategorized-emails"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+import MailRow from "../../../../components/help/MailRow.astro"
+
+<HelpTldr>
+  Auto Labels reads each new email and sorts it into the right label for you — no rules to set up. Eight categories are built in, you can add your own, and you decide which ones stay in your inbox.
+</HelpTldr>
+
+Most inbox organization asks you to write filters and rules, then keep fixing them. Auto Labels skips that. Chiefy reads each incoming email, works out what it is, and applies the matching label automatically. It works in both Gmail and Outlook, and it learns from the content of the email itself rather than from rules you have to maintain.
+
+## The eight system categories
+
+Auto Labels ships with eight built-in categories. Every one has a clear meaning, and Chiefy uses that meaning to decide where an email belongs:
+
+- **Action needed** — someone is waiting for you to respond or take action.
+- **Awaiting reply** — you're waiting on a response to something you sent.
+- **Comment** — a notification about a comment or activity on shared content.
+- **FYI** — information shared with you, with nothing to do.
+- **Meeting update** — calendar invites, changes, and meeting materials.
+- **Notification** — automated alerts about events, status, or transactions.
+- **Promotions** — newsletters, marketing, and promotional content.
+- **Resolved** — a conversation that's finished or settled.
+
+These eight are fixed — you can't rename or delete them — but you control how each one behaves (more on that below).
+
+## Where the labels live
+
+In **Gmail**, each category appears as a nested label under a single parent label, so they stay grouped and out of the way. In **Outlook**, the same categories show up as master categories on your mail.
+
+> The parent label is named `[Chiefy]` (older mailboxes may still show `[Duet]` while the rebrand rolls out). Either way, the categories nest under it.
+
+{/* TODO: real screenshot */}
+<MockWindow title="Gmail · Labels" tight figcaption="System categories nest under one parent label in Gmail.">
+  <MailRow avatar="AN" from="[Chiefy]/Action needed" time="" subject="Re: Booking for 4 — last weekend of August" preview="Hi — could you confirm the two double rooms and…" pillLabel="Action needed" pillVariant="action" />
+  <MailRow avatar="AW" from="[Chiefy]/Awaiting reply" time="" subject="Quote follow-up" preview="Just checking in on the quote I sent over last…" pillLabel="Awaiting reply" pillVariant="autodraft" />
+  <MailRow avatar="PR" from="[Chiefy]/Promotions" time="" subject="Spring sale — 30% off everything" preview="Limited time only. Upgrade now and save on…" pillLabel="Promotions" pillVariant="autodraft" last />
+</MockWindow>
+
+## How Chiefy decides
+
+Each category has a matching guide that describes exactly what belongs in it — for example, **Action needed** means someone is directly waiting for you to respond, while **Awaiting reply** means the wait is the other way around. Chiefy reads the email against these guides and picks the one that fits.
+
+A thread gets **one** system category at a time. Chiefy re-evaluates the thread as it changes — for instance, once you reply and the ball is in the other person's court, it can move from **Action needed** to **Awaiting reply**. When that happens, the previous system label is removed and only the current one is applied, so the label always reflects the latest state of the conversation rather than piling up.
+
+## Keep in inbox or auto-archive
+
+For each category, you choose whether matching emails **stay in your inbox** or get **auto-archived** — filed under their label but moved out of the main view. Most categories stay in your inbox by default. **Promotions** is the exception: it's auto-archived out of the box, so marketing and newsletters are filed away without cluttering your inbox. You can change any of these at any time.
+
+{/* TODO: real screenshot */}
+<MockWindow title="Chiefy · Settings → Auto Labels" figcaption="Each category can stay in your inbox or be auto-archived.">
+  <SettingRow title="Action needed" description="Keep in inbox" iconKey="labels" />
+  <SettingRow title="Promotions" description="Auto-archive out of the inbox" iconKey="labels" on={false} />
+</MockWindow>
+
+## Custom labels
+
+Alongside the eight built-in categories, you can create your own labels for the way you work — say, a label per client or project. Chiefy applies your custom labels the same way it applies system categories, by reading the email and matching it. Custom labels and a system category can apply to the same email together, so a thread might be both **Action needed** and tagged with your "Frank Darling" client label.
+
+## Turning Auto Labels on and off
+
+Auto Labels is part of Pro, and it's controlled by a master toggle plus per-category settings. The master toggle turns automatic labeling on or off for everything at once; the per-category settings let you fine-tune inbox versus auto-archive for each one.
+
+If you turn the master toggle off, Chiefy stops applying labels automatically — but the eight categories stay visible in your settings, so nothing is lost and you can switch it back on whenever you like. To learn how, see [Turning off Auto Labels](/help/auto-labels/turning-off-auto-labels).
+
+> If an email lands in the wrong category, see [Fixing miscategorized emails](/help/auto-labels/fixing-miscategorized-emails).
+
+{/* VERIFY: The provided brief stated "if multiple categories are assigned, all matching labels are added." Code review (categories_utils.py `_resolve_single_system_category_definition`) shows a thread gets exactly ONE system category — if the model returns more than one system category, NONE is applied. Multiple *custom* labels can stack, and a custom label can coexist with the one system label. The article reflects this verified behavior; please confirm the user-facing framing is acceptable. */}
+{/* VERIFY: Pro requirement, master toggle, and per-category inbox/auto-archive settings are described in user terms. The Gmail parent-label naming ([Chiefy] vs [Duet]) depends on the CHIEFY_CATEGORY_LABELS_ENABLED flag rollout state — confirm which brand is live for users at publish time. */}

@@ -1,0 +1,83 @@
+---
+title: "The Chiefy icon is missing in Gmail"
+description: "Resolve issues where the Chiefy toolbar button does not appear in Gmail."
+category: "getting-started"
+type: "troubleshooting"
+order: 40
+keywords: ["chiefy icon missing", "toolbar button not showing", "gmail extension icon", "chiefy not appearing", "extension site access"]
+relatedSlugs: ["getting-started/install-the-chiefy-extension", "getting-started/connect-gmail-or-outlook"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+
+<HelpTldr>
+  The Chiefy icon lives in Gmail's top toolbar and opens the side panel. If it's missing, the most common causes are that you haven't signed in yet, that the extension lost site access to Gmail, or that the Gmail tab needs a reload. Work through the checks below in order.
+</HelpTldr>
+
+The Chiefy icon is the toolbar button at the top of Gmail. Click it to open or close the Chiefy side panel. When it's missing, Chiefy usually loaded but couldn't place the button — or it isn't running on the page at all. The steps below start with the quickest fixes.
+
+## Check that you're signed in
+
+The toolbar button opens the Chiefy side panel, and the panel only does its work once you've signed in. If you installed the extension but never finished signing in, the panel will show a sign-in prompt rather than your inbox view.
+
+Open the side panel — either by clicking the Chiefy icon if it's visible, or from Gmail's side panel rail — and confirm you see your account, not a sign-in screen. If you're prompted to sign in, return to the onboarding flow and complete it. See [Connect Gmail or Outlook](/help/getting-started/connect-gmail-or-outlook) for the full walkthrough.
+
+{/* VERIFY: the toolbar button is injected during panel setup and is not strictly hard-gated on OAuth in the content script — the *panel content* gates on sign-in, the button itself is best-effort. Confirm the exact user-visible behavior before publishing whether a never-signed-in user sees the icon at all. */}
+
+> New to Chiefy? Make sure the extension is installed first — see [Install the Chiefy extension](/help/getting-started/install-the-chiefy-extension).
+
+## Reload Gmail
+
+If the icon was there before and then disappeared, the most likely cause is that the page lost its connection to the extension — for example, after Chiefy updated in the background or a tab sat idle for a long time. Chiefy watches Gmail's toolbar and re-adds its button automatically when Gmail rebuilds that part of the page, but a stale tab can miss it.
+
+A full reload fixes this. Refresh the Gmail tab (or close it and open a new one) and give the page a moment to finish loading. The icon should reappear once Chiefy reinitializes.
+
+## Check the extension's site access
+
+Chiefy can only add its icon if it's allowed to run on Gmail. If site access was changed — or never granted — the button won't appear.
+
+<HelpSteps>
+  <HelpStep title="Open your extensions list">
+    In Chrome, open **Settings → Extensions**, or go to `chrome://extensions` in the address bar.
+  </HelpStep>
+  <HelpStep title="Open Chiefy's details">
+    Find **Chiefy** in the list and select **Details**.
+  </HelpStep>
+  <HelpStep title="Check Site access" anno="A">
+    Under **Site access**, make sure it's set to **On all sites** or, at minimum, allowed on `mail.google.com`. If it's set to **On click**, the icon may not appear until you grant access.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Chrome · Extensions → Chiefy → Details" figcaption="Extensions → Chiefy → Details → Site access set to all sites or mail.google.com.">
+      <SettingRow title="Site access" anno="A" description="On all sites — Chiefy can run on mail.google.com" iconKey="shield" />
+    </MockWindow>
+  </HelpStep>
+  <HelpStep title="Reload Gmail">
+    After changing site access, refresh your Gmail tab so Chiefy can load and place its icon.
+  </HelpStep>
+</HelpSteps>
+
+## Still not showing? Check the browser console
+
+If the icon is still missing after the steps above, the page console can tell you why. Gmail occasionally changes its own layout, which can stop Chiefy from finding the spot where its button belongs.
+
+<HelpSteps>
+  <HelpStep title="Open DevTools">
+    In your Gmail tab, open the browser **DevTools** and go to the **Console** tab.
+  </HelpStep>
+  <HelpStep title="Look for Chiefy messages">
+    Reload Gmail and watch the console. A warning that the toolbar container wasn't found is a sign that Gmail's layout changed and Chiefy couldn't place its button — that's something for our team to fix, not a setting on your end.
+  </HelpStep>
+</HelpSteps>
+
+> If you see a console warning about the toolbar, send it to support along with your browser version. It helps us catch Gmail layout changes quickly.
+
+## A button with no logo
+
+In rare cases the button is added to the toolbar but its logo doesn't load, so you see an empty or blank spot where the icon should be rather than nothing at all. Clicking that spot still opens the panel. A reload of Gmail usually restores the logo; if it doesn't, reach out to support.
+
+## When to contact support
+
+If you've signed in, reloaded Gmail, confirmed site access, and the icon still won't appear, contact support. Include your browser and version, whether you saw any console warnings, and whether the side panel itself opens. That tells us whether the issue is the button, the panel, or the page.

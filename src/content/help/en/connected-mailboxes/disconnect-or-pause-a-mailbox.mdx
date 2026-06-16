@@ -1,0 +1,88 @@
+---
+title: "Disconnect or pause a mailbox"
+description: "Stop using a secondary mailbox with Chiefy while keeping your conversation history."
+category: "connected-mailboxes"
+type: "how-to"
+order: 30
+keywords: ["disconnect mailbox", "pause mailbox", "remove email account", "reconnect mailbox", "stop syncing"]
+relatedSlugs: ["connected-mailboxes/add-another-mailbox", "connected-mailboxes/what-automates-on-secondary-mailboxes"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+
+<HelpTldr>
+  Disconnecting a mailbox pauses syncing and revokes Chiefy's access to it. Your already-synced conversations stay in Chiefy, and you can reconnect the mailbox at any time. Disconnecting is a pause, not a delete.
+</HelpTldr>
+
+When you no longer want Chiefy working with one of your connected mailboxes, you can disconnect it. Disconnecting stops Chiefy from syncing that mailbox and revokes its access — but it keeps everything Chiefy already synced, so your conversation history is still there. Because it is reversible, think of it as pausing the mailbox rather than removing it.
+
+## Before you start
+
+Only secondary mailboxes can be disconnected. Your sign-in mailbox — the one you use to log in to Chiefy — is your account identity and can't be removed; it shows a quiet "Used to sign in" note and has no disconnect option. To stop syncing the mailbox you sign in with, you'd need to manage the account itself rather than disconnect it here.
+
+> New to managing multiple accounts? See [Add another mailbox](/help/connected-mailboxes/add-another-mailbox) first.
+
+## Disconnect a mailbox
+
+<HelpSteps>
+  <HelpStep title="Open Connected Mailboxes">
+    In Chiefy settings, go to **Connected Mailboxes**. Each connected account appears as a row with its current status.
+  </HelpStep>
+  <HelpStep title="Open the mailbox's menu" anno="A">
+    On the secondary mailbox you want to pause, open the overflow menu (**⋯**) at the end of the row and choose **Disconnect**.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Chiefy · Settings → Connected Mailboxes" figcaption="Open the ⋯ menu on a secondary mailbox and choose Disconnect.">
+      <SettingRow title="Disconnect" anno="A" iconKey="mailboxes" description="Pause syncing for this mailbox — your synced emails stay" />
+    </MockWindow>
+  </HelpStep>
+  <HelpStep title="Confirm">
+    A confirmation dialog appears: **Disconnect this mailbox?** It explains that Chiefy stops syncing the mailbox, your already-synced emails stay, and you can reconnect anytime. Select **Disconnect** to confirm, or **Cancel** to keep it connected.
+    {/* TODO: real screenshot */}
+  </HelpStep>
+</HelpSteps>
+
+## What happens after you disconnect
+
+Once a mailbox is disconnected, Chiefy revokes its access and:
+
+- No new emails sync from that mailbox.
+- It no longer appears in your search results.
+- Chiefy doesn't work on its new messages while it's paused.
+
+Your previously synced conversations from that mailbox stay in Chiefy, so your history isn't lost.
+
+The mailbox's row updates to show a **Disconnected** status. To keep your list tidy, disconnected mailboxes are tucked into a collapsible **Disconnected (N)** group, which is hidden by default — expand it whenever you want to see or reconnect them.
+
+{/* TODO: real screenshot */}
+<MockWindow title="Chiefy · Settings → Connected Mailboxes" figcaption="A disconnected mailbox shows a Disconnected status and a Reconnect button, grouped under Disconnected (N).">
+  <SettingRow title="Disconnected (N)" iconKey="mailboxes" on={false} description="Disconnected mailboxes are hidden here — expand to reconnect" />
+</MockWindow>
+
+## Reconnect a mailbox
+
+You can bring a disconnected mailbox back at any time.
+
+<HelpSteps>
+  <HelpStep title="Find the disconnected mailbox">
+    In **Connected Mailboxes**, expand the **Disconnected (N)** group to see paused mailboxes.
+  </HelpStep>
+  <HelpStep title="Select Reconnect">
+    On the mailbox row, select **Reconnect** and sign in to re-authorize Chiefy's access.
+  </HelpStep>
+</HelpSteps>
+
+Reconnecting resumes syncing for that mailbox from that point forward. {/* VERIFY: confirm whether reconnecting backfills emails received while the mailbox was paused, or only syncs going forward — code suggests sync resumes from reconnection onward. */}
+
+> Want to know exactly what Chiefy does on a secondary mailbox once it's connected? See [What automates on secondary mailboxes](/help/connected-mailboxes/what-automates-on-secondary-mailboxes).
+
+## Frequently asked
+
+**Does disconnecting delete my emails?** No. Disconnecting pauses syncing and revokes access; your already-synced conversations stay in Chiefy. There's no option to permanently delete a mailbox's synced data — it's retained so you can reconnect later. {/* VERIFY: confirm there is no user-facing destructive delete of synced mailbox data in v1 (code review found pause-only; no delete action). */}
+
+**Can I disconnect my sign-in mailbox?** No. The mailbox you sign in with is your account identity, so it can't be disconnected here.
+
+**Is disconnecting permanent?** No — it's reversible. Reconnect the mailbox whenever you're ready and Chiefy picks back up.

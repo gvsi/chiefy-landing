@@ -1,0 +1,96 @@
+---
+title: "Delete your data or revoke access"
+description: "Step-by-step instructions to disconnect mailboxes, revoke OAuth tokens, and request full account deletion."
+category: "privacy-security"
+type: "how-to"
+order: 30
+keywords: ["delete account", "revoke access", "disconnect mailbox", "data deletion", "GDPR erasure"]
+relatedSlugs: ["privacy-security/what-chiefy-can-and-cannot-access", "privacy-security/how-your-data-is-protected"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+
+<HelpTldr>
+  You can step back from Chiefy at any time. Disconnect a mailbox to pause automation and sync, revoke Chiefy's access from ChatGPT, or email us to delete your personal data for good. You stay in control of every level.
+</HelpTldr>
+
+There are three things you might mean by "remove my data," and they're different. **Disconnecting a mailbox** pauses Chiefy on that account but keeps what was already synced. **Revoking access** cuts off a connected app, like the Chiefy app in ChatGPT. **Deleting your data** removes your personal data from our records entirely. This article covers all three, from the lightest step to the most permanent.
+
+## Disconnect a mailbox
+
+Disconnecting tells Chiefy to stop watching and syncing a connected account. Automation pauses, new mail stops syncing, and the mailbox moves to a disconnected state — but anything already synced is retained, so you can reconnect later without losing your setup.
+
+<HelpSteps>
+  <HelpStep title="Open Connected Mailboxes">
+    In Gmail, open the Chiefy side panel, choose **Settings**, then **Mailboxes**.
+  </HelpStep>
+  <HelpStep title="Find the mailbox">
+    Locate the account you want to step back from in the list.
+  </HelpStep>
+  <HelpStep title="Disconnect it" anno="A">
+    Open the mailbox and choose **Disconnect**. Chiefy pauses automation and sync for that account right away. Your previously synced data stays in place.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Chiefy · Settings → Mailboxes" figcaption="Settings → Mailboxes → open a mailbox → Disconnect.">
+      <SettingRow title="work@company.com" anno="A" description="Disconnect to pause automation and sync — synced data is kept" iconKey="mailboxes" on={false} />
+    </MockWindow>
+  </HelpStep>
+</HelpSteps>
+
+> **You can't disconnect the mailbox you sign in with.** Because you signed in to Chiefy as that account, it can't be disconnected from this screen. If you want to fully step away from it, request data deletion below.
+
+Disconnecting is a pause, not an erasure. To remove the synced data as well, use the deletion request further down this page.
+
+## Revoke the Chiefy app in ChatGPT
+
+If you've connected Chiefy as an app in ChatGPT, you can cut off that access from ChatGPT itself. Revoking invalidates Chiefy's tokens for your ChatGPT connection — all related tokens are revoked together, so a single revoke fully ends the session.
+
+<HelpSteps>
+  <HelpStep title="Open ChatGPT settings">
+    In ChatGPT, go to **Settings**, then **Apps** (your connected apps).
+  </HelpStep>
+  <HelpStep title="Find Chiefy">
+    Locate **Chiefy** in your list of connected apps.
+  </HelpStep>
+  <HelpStep title="Revoke access" anno="B">
+    Choose **Revoke**. ChatGPT ends Chiefy's access for that connection, and every token in the set is revoked at once. To use Chiefy in ChatGPT again later, you'd reconnect and re-authorize.
+    {/* TODO: real screenshot */}
+    <MockWindow title="ChatGPT · Settings → Apps" figcaption="ChatGPT → Settings → Apps → Chiefy → Revoke.">
+      <SettingRow title="Chiefy" anno="B" description="Revoke to disconnect Chiefy from ChatGPT" iconKey="shield" on={false} />
+    </MockWindow>
+  </HelpStep>
+</HelpSteps>
+
+> **For developers:** revocation follows the standard token revocation flow (RFC 7009). Posting a token to the `/chatgpt/oauth/revoke` endpoint revokes the entire family of tokens linked to it, not just the one you send.
+
+Revoking the ChatGPT app doesn't disconnect your mailboxes or delete your data — it only ends Chiefy's access from ChatGPT. Handle those separately using the other sections here.
+
+## Request full data deletion
+
+When you want your personal data removed for good — not just paused — send us a deletion request and we'll erase the personal data we hold about you.
+
+<HelpSteps>
+  <HelpStep title="Email us">
+    Send a data deletion request to **hello@duetmail.com** from the email address on your account, so we can verify it's you.
+    {/* VERIFY: privacy policy + codebase only list hello@duetmail.com as the contact email. The brief also mentioned support@duetmail.com, which I could not find anywhere — confirm before adding it. */}
+  </HelpStep>
+  <HelpStep title="Tell us what you want removed">
+    Let us know you'd like your personal data deleted. We'll confirm the request and remove your personal data from our records.
+  </HelpStep>
+</HelpSteps>
+
+> **Deletion can't always be honored in full.** We may need to deny or limit a deletion request where keeping certain data is required to comply with the law or to meet ongoing contract obligations. We'll tell you if an exception applies to your request.
+
+## Your rights under GDPR
+
+If you're in the EU, the law gives you specific rights over your personal data, and our [Privacy Policy](/privacy) commits to them. You can:
+
+- **Access** the personal data we hold about you, including a copy of it
+- **Correct** information that's incomplete or inaccurate
+- **Erase** your personal data when there's no good reason for us to keep processing it
+- **Port** your data — receive it in a structured, commonly used, machine-readable format
+
+To exercise any of these, email us at **hello@duetmail.com**. The same legal exceptions noted above can apply, and we'll explain if one affects your request.

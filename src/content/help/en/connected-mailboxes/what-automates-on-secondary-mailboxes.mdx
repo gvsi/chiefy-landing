@@ -1,0 +1,84 @@
+---
+title: "What automates on each mailbox and why"
+description: "Understand which Chiefy features work on your primary and secondary mailboxes, and how to control them."
+category: "connected-mailboxes"
+type: "concept"
+order: 20
+keywords: ["use with chiefy", "secondary mailbox", "sign-in mailbox", "per-mailbox settings", "connected mailboxes automation"]
+relatedSlugs: ["connected-mailboxes/add-another-mailbox", "smart-drafts/turn-on-autodraft", "smart-summaries/summarize-a-thread-or-attachment", "auto-labels/how-auto-labels-work"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+
+<HelpTldr>
+  Your sign-in mailbox always works with every Chiefy feature and can't be turned off. Each other mailbox you connect can be tuned on its own — including whether Chiefy uses it in search and Ask Chiefy, and how Smart Drafts behaves for that inbox.
+</HelpTldr>
+
+When you connect more than one mailbox, Chiefy treats them a little differently. One is your **sign-in mailbox** — the account you use to log in. The others are mailboxes you've added on top of it. This page explains what runs where, and which controls you have for each.
+
+## Your sign-in mailbox
+
+The mailbox you use to sign in to Chiefy is your account's identity. Chiefy authenticates you through it, so it's always part of everything Chiefy does and it can't be disconnected or switched off.
+
+In your mailbox list it shows a quiet **Used to sign in** note, and its **Use with Chiefy** control is always on with the note **Always on for your sign-in mailbox**. There's nothing to manage here — it just works.
+
+{/* TODO: real screenshot */}
+<MockWindow title="Chiefy · Settings → Connected mailboxes" tight figcaption="Your sign-in mailbox is always on; the control is fixed in place.">
+  <SettingRow
+    iconKey="mailboxes"
+    title="Use with Chiefy"
+    description="Always on for your sign-in mailbox"
+    on={true}
+  />
+</MockWindow>
+
+## Mailboxes you connect
+
+Every other mailbox you add is a **connected mailbox**. Once connected, it syncs in the background and, by default, Chiefy can use it in search and in Ask Chiefy answers — so a question like "what did the studio say about the invoice?" can look across all your inboxes, not just the one you signed in with.
+
+A connected mailbox shows a **Connected** status, and a **Use with Chiefy** control with the note *Let Chiefy use this mailbox in search and assistant answers. Syncing continues either way.*
+
+{/* TODO: real screenshot */}
+<MockWindow title="Chiefy · Settings → Connected mailboxes" tight figcaption="A connected mailbox is searchable and visible to Ask Chiefy by default.">
+  <SettingRow
+    iconKey="mailboxes"
+    title="Use with Chiefy"
+    description="Let Chiefy use this mailbox in search and assistant answers. Syncing continues either way."
+    on={true}
+  />
+</MockWindow>
+
+> The **Use with Chiefy** control appears only once you have two or more active mailboxes — with a single inbox there's nothing to choose between.
+
+## What "Use with Chiefy" does
+
+Turning **Use with Chiefy** off for a connected mailbox tells Chiefy to leave that inbox out of the places where it surfaces your email:
+
+- It no longer appears in **search** results.
+- It no longer shows up in **Ask Chiefy** answers.
+
+It does **not** stop syncing. Chiefy keeps that mailbox up to date in the background, so when you turn the control back on, everything is ready immediately. The toggle is about visibility in search and chat — not about pausing the mailbox. To pause a mailbox entirely, disconnect it instead.
+
+## How features apply per mailbox
+
+{/* VERIFY: This section describes Smart Drafts / Smart Summaries / Auto Labels running on connected (secondary) mailboxes with their own per-mailbox settings. Per project notes, the per-mailbox draft *settings* UI ships, but server-side automation on secondaries (M4 Slice 2 read automation) may still be firewall-gated / not live in production. Confirm what actually runs on a connected mailbox before publishing, and trim any feature here that isn't live yet. */}
+
+[Smart Drafts](/help/smart-drafts/turn-on-autodraft), [Smart Summaries](/help/smart-summaries/summarize-a-thread-or-attachment), and [Auto Labels](/help/auto-labels/how-auto-labels-work) are designed to work across your connected mailboxes, each with its own settings. Your sign-in mailbox provides the defaults; any connected mailbox can be customized to fit how you use it.
+
+### Smart Drafts, per mailbox
+
+Each connected mailbox can have its own Smart Drafts setup, separate from the rest:
+
+- **On or off** — whether Chiefy drafts replies for that inbox at all.
+- **Sensitivity** — how often it drafts, from rarely to more eagerly.
+- **Signature** — what sign-off goes on drafts from that mailbox.
+
+This is what makes mixed setups work. A common pattern: leave Smart Drafts off for a busy shared inbox you only monitor, while keeping it on for your own inbox where you actually reply. Set each mailbox the way that inbox is used.
+
+### Signatures for shared inboxes
+
+A shared inbox — a bookings address, a team alias — usually shouldn't sign off the way your personal inbox does. So each mailbox can carry its own responder signature or display name, matched to that inbox's purpose, instead of inheriting yours.
+
+> By default, a connected mailbox follows your sign-in mailbox's settings. You only need to change something when a particular inbox should behave differently.

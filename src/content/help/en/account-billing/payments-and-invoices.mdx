@@ -1,0 +1,76 @@
+---
+title: "Payments and invoices"
+description: "How to view, update, and manage your payment method and billing invoices."
+category: "account-billing"
+type: "how-to"
+order: 30
+keywords: ["billing", "invoices", "payment method", "subscription renewal", "refund policy"]
+relatedSlugs: ["account-billing/plans-and-your-free-trial", "account-billing/upgrade-downgrade-or-cancel"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+
+<HelpTldr>
+  Your Chiefy Pro subscription renews automatically through Stripe, and your payment details are stored securely there — never by Chiefy. Use the Manage Payment button in Settings to download invoices, update your card, or review your billing history.
+</HelpTldr>
+
+Everything about your Pro plan — when it renews, what you paid, and the card behind it — lives in your billing settings and in the secure Stripe portal Chiefy opens for you. This article walks through where to find each of those and what to expect when a payment renews, fails, or is refunded.
+
+## Where billing lives
+
+Open **Settings → Subscription & Billing** in the Chiefy app. There you'll see your current plan, your subscription status, and your **next payment** date. That date is the day your current billing period ends and, for an active subscription, the day the next charge happens.
+
+{/* TODO: real screenshot */}
+<MockWindow title="Chiefy · Settings → Subscription & Billing" figcaption="Your plan, status, and next payment date — with Manage Payment to open the secure billing portal.">
+  <SettingRow title="Chiefy Pro" iconKey="card" description="Status: Active · Next payment: Jul 16, 2026" />
+</MockWindow>
+
+## When your subscription renews
+
+Monthly and yearly Pro subscriptions **renew automatically** at the end of each billing period. The renewal happens on the date shown as your next payment in **Settings → Subscription & Billing**. Nothing is required from you — the saved payment method is charged for the next period under the same terms.
+
+> Want to stop future renewals? See [Upgrade, downgrade, or cancel](/help/account-billing/upgrade-downgrade-or-cancel). Canceling stops the next charge but keeps your Pro access until the current period ends.
+
+## Your payment method
+
+A valid payment method is **required to start a Pro subscription** — you'll add it at checkout, and it's saved securely by Stripe, our payment processor. Chiefy never stores or sees your full card details.
+
+Tax is calculated automatically at checkout and on each renewal, so the exact amount you're charged depends on your billing address and region.
+
+## View invoices and update your card
+
+To download invoices or change the card on file, open the secure Stripe billing portal from inside Chiefy.
+
+<HelpSteps>
+  <HelpStep title="Open billing settings">
+    Go to **Settings → Subscription & Billing** in the Chiefy app.
+  </HelpStep>
+  <HelpStep title="Open the billing portal">
+    Choose **Manage Payment**. This opens your secure billing portal hosted by Stripe.
+  </HelpStep>
+  <HelpStep title="Manage your billing">
+    In the portal you can download invoices, update your payment method, and review your full billing history. Changes you make there apply to your subscription right away.
+  </HelpStep>
+</HelpSteps>
+
+> The Manage Payment button appears for active monthly and yearly subscriptions. {/* VERIFY: button is hidden once a subscription is fully canceled (can_manage_payment=false). */}
+
+## If a payment fails
+
+If a renewal charge can't go through, your subscription status changes to **Past Due** or **Unpaid** in **Settings → Subscription & Billing**. To fix it, open **Manage Payment** and update your card or complete the outstanding payment.
+
+Depending on your region and payment method, the charge may be retried automatically before the status changes. {/* VERIFY: automatic retry / dunning behavior is handled by Stripe and varies by region/payment method; confirm exact retry window and whether a manual invoice is emailed on failure. */} If you need help recovering a failed payment, [contact Chiefy support](/help/contact-support). {/* VERIFY: contact-support slug — confirm the real help-center route for reaching support. */}
+
+## Lifetime Pro
+
+Lifetime Pro is a **one-time payment**, not a subscription. There are no recurring charges, no renewals, and no ongoing invoices to manage — once it's purchased, there's nothing to update. You won't see a Manage Payment button, because there's no payment method to maintain.
+
+## Cancellation and refunds
+
+Paid subscription fees are **non-refundable**, except where refunds are required by law. Canceling a subscription stops all future charges, but it does not refund the current billing period or any past payments — you keep Pro access through the end of the period you've already paid for.
+
+> The full terms, including how refund requests are considered, are in our [Terms of Service](/terms). {/* VERIFY: confirm /terms is the correct landing-site route for the Terms of Service page. */}

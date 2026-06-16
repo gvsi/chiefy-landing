@@ -1,0 +1,76 @@
+---
+title: "Connect and use your calendar"
+description: "Connect Google Calendar to Chiefy to access scheduling, availability, and calendar context in Smart Drafts and Ask Chiefy."
+category: "calendar"
+type: "how-to"
+order: 10
+keywords: ["connect google calendar", "calendar integration", "ai calendar assistant", "check availability", "schedule meeting"]
+relatedSlugs: ["smart-drafts/using-smart-drafts-on-demand", "smart-drafts/turn-on-autodraft", "ask-chiefy/ask-chiefy-about-your-inbox"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+import MailRow from "../../../../components/help/MailRow.astro"
+
+<HelpTldr>
+  Connect Google Calendar to Chiefy and your schedule comes along for the ride. Ask Chiefy can look up events, check when you're free, and suggest meeting times, and Smart Drafts can factor your calendar into replies.
+</HelpTldr>
+
+Calendar Integration links your Google Calendar to Chiefy so it can work with your schedule, not just your inbox. Once it's connected, you can ask Chiefy what's coming up, check your availability for a time range, and find open meeting slots — and Smart Drafts can use that calendar context when it writes a reply that touches scheduling.
+
+## Connect your calendar
+
+Connecting takes one grant. Chiefy asks Google for permission to your calendar, and that permission is what powers every calendar feature below.
+
+<HelpSteps>
+  <HelpStep title="Open Integrations">
+    Go to **Settings → Integrations**. You'll see a card for **Google Calendar** alongside your connected mailbox.
+  </HelpStep>
+  <HelpStep title="Connect Google Calendar" anno="A">
+    Select **Connect** on the Google Calendar card and approve the calendar permission in the Google window. Chiefy only requests the Google Calendar scope here — nothing else.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Chiefy · Settings → Integrations" figcaption="Settings → Integrations → connect Google Calendar.">
+      <SettingRow title="Google Calendar" anno="A" iconKey="calendar" description="Used for finding availability and creating, updating, or deleting events" />
+    </MockWindow>
+  </HelpStep>
+  <HelpStep title="You're set">
+    Once the card shows **Connected**, calendar features are live. You can also connect from Ask Chiefy — if you ask a scheduling question before connecting, Chiefy shows a **Connect Google Calendar** prompt right in the chat.
+  </HelpStep>
+</HelpSteps>
+
+> Calendar Integration uses Google Calendar. It's a separate permission from your mailbox connection — granting it doesn't change how Chiefy reads or drafts your email.
+
+## What you can do with Ask Chiefy
+
+With your calendar connected, Ask Chiefy can work directly with your schedule. Ask in plain language — Chiefy figures out the right time range and calendar for you.
+
+- **See what's coming up.** Ask Chiefy to list your events for a day, week, or any date range, or to search for a specific meeting.
+- **Check your availability.** Ask whether you're free across a time range. Chiefy reports your busy periods and the open slots that are left.
+- **Find a meeting slot.** Tell Chiefy how long the meeting should be and it suggests times that fit. By default it looks for slots inside working hours of 9 AM to 5 PM, and you can give it a different window.
+- **Create, update, and delete events.** Ask Chiefy to schedule a new event, reschedule or edit an existing one, or cancel it — including recurring events, where you can choose to change a single occurrence or the whole series.
+
+> Chiefy always shows you what it's about to do before it changes your calendar, so you stay in control of every event.
+
+## Calendar context in Smart Drafts
+
+When a reply touches scheduling, Smart Drafts can draw on your calendar to ground its answer. With Calendar Integration connected, Chiefy can check your upcoming events and availability while it drafts, so a reply about a meeting time reflects your real schedule instead of a guess.
+
+This works in both modes of Smart Drafts — on demand, when you ask for a reply, and with [Autodraft](/help/smart-drafts/turn-on-autodraft) preparing replies as email arrives.
+
+{/* TODO: real screenshot */}
+<MockWindow title="Gmail · Inbox" tight figcaption="A reply that proposes a time Chiefy knows you're free.">
+  <MailRow avatar="LM" from="Lena Moretti" time="10:12 AM" subject="Re: Quick call this week?" preview="Thanks — I'm free Thursday after 2 PM, so how about 2:30?" pillLabel="Draft ready" pillVariant="autodraft" last />
+</MockWindow>
+
+{/* VERIFY: confirm the exact in-thread label shown for a calendar-aware Smart Draft (e.g. "Draft ready" vs "Autodraft ready") and whether calendar grounding is on by default for on-demand Smart Drafts as well as Autodraft. */}
+
+## Disconnect your calendar
+
+To stop Chiefy from using your calendar, open **Settings → Integrations** and remove the Google Calendar connection there.
+
+{/* VERIFY: confirm the exact disconnect/revoke control and copy on the Integrations page for Google Calendar, and the precise scope behavior on disconnect (whether removing the calendar grant affects sign-in or mailbox access, since the calendar scope is part of the Google login grant). Do not state per-mailbox calendar behavior — calendar is account-level today. */}
+
+> Disconnecting only removes Chiefy's access to your calendar. Your events stay exactly as they are in Google Calendar.

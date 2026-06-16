@@ -1,0 +1,67 @@
+---
+title: "Fixing or removing a label"
+description: "Manually change or remove a label that Chiefy applied to an email, or move an email between categories."
+category: "auto-labels"
+type: "how-to"
+order: 30
+keywords: ["fix miscategorized email", "remove a label", "change email label", "wrong category", "move email category"]
+relatedSlugs: ["auto-labels/how-auto-labels-work", "auto-labels/turning-off-auto-labels"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import MailRow from "../../../../components/help/MailRow.astro"
+
+<HelpTldr>
+  If Chiefy puts an email in the wrong category, remove that label the normal way — Gmail labels or Outlook categories. Your own labels are yours to add and remove freely. Auto Labels evaluates each thread fresh, so removing a label fixes the current email but won't change how Chiefy reads new messages.
+</HelpTldr>
+
+Auto Labels sorts every email into the right category automatically. It gets it right most of the time, but when it doesn't, you can correct it. How you correct it depends on whether the label was applied by Chiefy or created by you.
+
+## How Chiefy applies labels
+
+Chiefy applies its categories — Action needed, Awaiting reply, Notification, Promotions, and the rest — automatically as your mail arrives. These show up as labels in Gmail or categories in Outlook, exactly like any other label.
+
+Each time Chiefy re-reads a thread, it decides the category fresh from what's in the email. It doesn't keep a memory of edits you made by hand. That matters for how a correction behaves, so it's worth knowing before you start.
+
+## Fix a miscategorized email
+
+If Chiefy filed an email under the wrong category, the fix is simply to remove that label the way you'd remove any label.
+
+<HelpSteps>
+  <HelpStep title="Open the email">
+    Open the thread that's in the wrong category.
+  </HelpStep>
+  <HelpStep title="Remove the label" anno="A">
+    In Gmail, remove the Chiefy label from the thread. In Outlook, remove the category. The email is no longer filed under that category.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Gmail · Inbox" tight figcaption="Remove the label Chiefy applied — the same way you'd remove any Gmail label.">
+      <MailRow avatar="ST" from="Stripe" time="7:30 AM" subject="Your payout is on the way" preview="A payout of €1,240.00 is on its way to your…" pillLabel="Action needed" pillVariant="action" anno="A" last />
+    </MockWindow>
+  </HelpStep>
+</HelpSteps>
+
+> **One thing to know.** Removing the label corrects this email now, but Chiefy doesn't treat it as a rule. The next time a new message lands on that same thread, Chiefy re-reads it from scratch and may apply a category again based on what it sees.
+
+For the same reason, don't try to fix a wrong category by swapping in a different Chiefy label by hand. Chiefy's labels are managed automatically, so the next analysis will overwrite your choice with its own prediction. Removing the wrong label is the right move; replacing it isn't.
+
+## Your own labels work differently
+
+Any labels you create yourself are entirely yours. Add them to a thread or remove them whenever you like — Chiefy leaves them alone. They sit independently of Chiefy's categories, so the two never overwrite each other.
+
+That means you can keep an email in one of your own labels and a Chiefy category at the same time, and moving an email between your own labels is just ordinary label work in Gmail or Outlook.
+
+The one place to be careful is Chiefy's own categories: because those are managed automatically, moving an email into or out of them by hand won't stick the way it does with your own labels.
+
+## When the same kind of email keeps landing wrong
+
+If a particular sender or type of email is repeatedly filed under the wrong category, correcting each one by hand gets tedious. A couple of settings can help:
+
+- If the problem is that an email keeps getting archived (or keeps staying in your inbox when you'd rather it didn't), adjust the **Keep in inbox** setting for that category — see [How Auto Labels works](/help/auto-labels/how-auto-labels-work).
+- If a whole type of email belongs in a group of its own, creating your own category for it gives Chiefy clearer examples to work from.
+
+{/* VERIFY: The "create your own category for clearer examples" guidance maps to user-created categories seeded from example threads (UserCategory.seed_gmail_thread_ids). Chiefy's eight built-in system categories have fixed, non-editable matching criteria, so there is no user-facing way to edit a system category's matching rules. Confirm the in-product wording for creating a custom category before this ships, and that "Keep in inbox" is exposed per category in the current Auto Labels settings UI. */}
+
+If something is still landing in the wrong place after that, you can always turn Auto Labels off — see [Turning off Auto Labels](/help/auto-labels/turning-off-auto-labels).

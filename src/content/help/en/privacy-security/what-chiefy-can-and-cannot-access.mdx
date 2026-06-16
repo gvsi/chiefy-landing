@@ -1,0 +1,80 @@
+---
+title: "What Chiefy can and can't access"
+description: "An overview of the email and calendar data Chiefy reads and writes, the access limits behind it, and what Chiefy never does without an explicit action from you."
+category: "privacy-security"
+type: "concept"
+order: 10
+keywords: ["chiefy permissions", "email access", "oauth scopes", "data access", "mailbox privacy"]
+relatedSlugs: ["privacy-security/how-your-data-is-protected", "privacy-security/delete-your-data-or-revoke-access"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+
+<HelpTldr>
+  Chiefy works inside the mailbox you connect — it reads your email to help you, and it writes drafts. It never sends, deletes, or shares anything without an action from you, and you can cut off access at any time by disconnecting the mailbox in Settings.
+</HelpTldr>
+
+Chiefy is your assistant inside Gmail and Outlook. To do its job — Smart Drafts, Smart Summaries, Auto Labels, and Ask Chiefy — it needs to read the email in the mailbox you connect, and to create and update drafts on your behalf. This page explains exactly what that access covers, where it stops, and the things Chiefy will only ever do when you ask.
+
+## What Chiefy can access
+
+When you connect a mailbox, you grant Chiefy permission to:
+
+- **Read your email** — so it can summarize threads, sort them with Auto Labels, and pull the context it needs to draft a reply in your voice.
+- **Create, update, and send drafts** — so it can prepare replies and new emails. Sending only happens when you choose to send.
+
+That access is scoped to the mailbox you connected. Chiefy does not reach into anything outside of mail and, when enabled, calendar.
+
+## What Chiefy can't access
+
+Chiefy's permissions stop at your mailbox and your calendar. It has no access to your other accounts, your files, your contacts outside of email, or any service you haven't explicitly connected. Connecting one mailbox gives Chiefy access to that mailbox only — each account you add is a separate connection you approve yourself.
+
+## Calendar access
+
+Calendar Integration is a separate, opt-in permission. When you enable it, Chiefy can check your availability so it has scheduling context — for example, when a thread is about finding a time to meet and you want a draft that proposes one. If you don't enable Calendar Integration, Chiefy has no access to your calendar at all.
+
+{/* VERIFY: confirm Calendar Integration is presented to users as an opt-in toggle (not auto-granted at first sign-in) and that availability-aware drafting is the user-facing framing. */}
+
+## What Chiefy never does on its own
+
+A few things only ever happen because you chose them:
+
+- **Chiefy never sends an email for you.** Smart Drafts and Autodraft only ever prepare a draft — it waits in your mailbox until you review and send it yourself.
+- **Chiefy never shares your email with an outside AI service on its own.** Your mailbox data stays within Chiefy as it works.
+
+The one place email content leaves Chiefy is when **you** use Chiefy inside ChatGPT. In that case, the email content needed to answer your request is sent to OpenAI to fulfill it — because you've asked ChatGPT to do the work. That flow is described in our privacy policy, and you control it from your ChatGPT settings, including disconnecting Chiefy there whenever you want.
+
+> If you use Chiefy only inside Gmail or Outlook, the ChatGPT flow never applies — there's nothing to turn off.
+
+## Granular permissions in ChatGPT
+
+When you connect Chiefy as an app inside ChatGPT, the connection is broken into five separate permissions, so the access is explicit rather than all-or-nothing:
+
+- read your inbox
+- write to your inbox
+- read your drafts
+- create and update drafts
+- send drafts
+
+This is the access ChatGPT is granted on your behalf. You can review or revoke it any time from your ChatGPT app settings.
+
+## Turning access off
+
+You're always in control of the connection. To stop Chiefy from reading or writing in a mailbox, disconnect it.
+
+{/* TODO: real screenshot */}
+<MockWindow title="Chiefy · Settings → Connected Mailboxes" figcaption="Settings → Connected Mailboxes shows each account and a Disconnect option.">
+  <SettingRow title="you@gmail.com" description="Gmail · primary · connected" iconKey="mailboxes" />
+  <SettingRow title="you@outlook.com" description="Outlook · connected" iconKey="mailboxes" />
+  <SettingRow title="Disconnect a mailbox" description="Pauses reading, drafting, and sync for that account" iconKey="shield" on={false} />
+</MockWindow>
+
+Open **Chiefy → Settings → Connected Mailboxes**, find the account, and choose **Disconnect**. That pauses all reading, drafting, and sync for that mailbox. If you want to remove the email Chiefy has already synced, that's a separate step — see [Delete your data or revoke access](/help/privacy-security/delete-your-data-or-revoke-access).
+
+{/* VERIFY: confirm the exact in-product label for the disconnect entry point ("Connected Mailboxes" settings section + per-row "Disconnect"). Server route exists (settings/mailboxes/<id>/disconnect) but the React label string was not confirmed. */}
+
+> The mailbox you use to sign in to Chiefy can't be disconnected on its own — it's tied to your login. To remove it, you delete your Chiefy account.
+
+For how your data is stored and protected while Chiefy holds it, see [How your data is protected](/help/privacy-security/how-your-data-is-protected).
