@@ -199,7 +199,22 @@ const extraHeadHtml = [
                     <span class="help-tag-type">{typeLabel}</span>
                 </div>
 
-                <div class="duet-prose">
+                {/*
+                  Pagefind scope: `data-pagefind-body` is present ONLY here, on the
+                  article prose. Because at least one page on the site carries this
+                  attribute, Pagefind indexes ONLY pages that have it — i.e. help
+                  articles. The home/category/blog/marketing pages have no
+                  `data-pagefind-body` and are therefore excluded from the index.
+                  `data-pagefind-meta="title"` carries the canonical article title
+                  into results; `data-pagefind-filter="category"` tags the result
+                  with its category label for the result subline / future filtering.
+                */}
+                <div
+                    class="duet-prose"
+                    data-pagefind-body
+                    data-pagefind-meta={`title:${title}`}
+                    data-pagefind-filter={`category:${categoryName}`}
+                >
                     <slot />
                 </div>
 
