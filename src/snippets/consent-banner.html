@@ -23,8 +23,7 @@
     aria-describedby="chiefy-consent-body"
 >
     <p id="chiefy-consent-body" class="chiefy-consent-body">
-        You can let __SITE_BRAND__ use cookies to measure how the site is used and
-        improve it. Essential cookies always stay on.
+        We use cookies to measure and improve the site. Essentials always stay on.
         <a
             class="chiefy-consent-link"
             href="__PRIVACY_HREF__"
@@ -43,24 +42,26 @@
        so the single rules below render identically to the prior hand-written
        light/dark duplication (visual no-op). */
     .chiefy-consent {
-        /* Hidden until the deferred script decides — no CLS, no pre-paint flash. */
+        /* Hidden until the deferred script decides — no CLS, no pre-paint flash.
+           Compact card tucked into the bottom-LEFT corner so it never covers the
+           centered hero / CTAs (and the deferred + delayed reveal lets the hero
+           paint first). */
         display: none;
         position: fixed;
         z-index: 9998;
-        left: 16px;
         right: 16px;
         bottom: 16px;
-        margin: 0 auto;
-        max-width: 560px;
+        width: calc(100vw - 32px);
+        max-width: 320px;
         background: var(--consent-surface);
         border: 1px solid var(--consent-border);
-        border-radius: 12px;
+        border-radius: 14px;
         box-shadow:
-            0 40px 80px rgba(0, 0, 0, 0.12),
-            0 16px 32px rgba(0, 0, 0, 0.08);
-        padding: 16px 18px;
+            0 24px 48px rgba(0, 0, 0, 0.18),
+            0 8px 16px rgba(0, 0, 0, 0.06);
+        padding: 14px 16px;
         flex-direction: column;
-        gap: 14px;
+        gap: 12px;
         font-family: var(--consent-font);
         margin-bottom: env(safe-area-inset-bottom, 0px);
     }
@@ -79,8 +80,8 @@
     .chiefy-consent-body {
         margin: 0;
         color: var(--consent-body);
-        font-size: 14px;
-        line-height: 1.55;
+        font-size: 13px;
+        line-height: 1.5;
         font-weight: 500;
     }
 
@@ -101,24 +102,25 @@
 
     .chiefy-consent-actions {
         display: flex;
-        gap: 10px;
+        gap: 8px;
         justify-content: flex-end;
     }
 
     /* Accept + Reject share IDENTICAL styling — equal visual weight, no dark
-       pattern. Neutral surface buttons. */
+       pattern. Neutral surface buttons; auto width so each label stays on one line. */
     .chiefy-consent-btn {
         appearance: none;
         cursor: pointer;
+        white-space: nowrap;
         font-family: inherit;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 600;
         color: var(--consent-btn-text);
         background: var(--consent-btn-bg);
         border: 1px solid var(--consent-btn-border);
-        border-radius: 10px;
-        padding: 9px 16px;
-        min-height: 40px;
+        border-radius: 9px;
+        padding: 8px 12px;
+        min-height: 36px;
         transition: background-color 150ms cubic-bezier(0, 0, 0.2, 1),
                     border-color 150ms cubic-bezier(0, 0, 0.2, 1);
     }
@@ -135,15 +137,7 @@
         outline-offset: 2px;
     }
 
-    @media (min-width: 480px) {
-        .chiefy-consent[data-visible="true"] {
-            flex-direction: row;
-            align-items: center;
-            gap: 18px;
-        }
-        .chiefy-consent-body { flex: 1; }
-        .chiefy-consent-actions { flex-shrink: 0; }
-    }
+    /* Compact corner card stays a single column at all widths (no wide row layout). */
 
     /* Light/dark theming is handled entirely by the theme-aware --consent-*
        tokens in src/styles/global.css (:root = dark, [data-theme="light"] =
@@ -298,7 +292,11 @@
                 });
             }
 
-            banner.setAttribute('data-visible', 'true');
+            // Reveal after a short beat so the hero paints first — the card then
+            // slides into the corner instead of being present at first paint.
+            window.setTimeout(function () {
+                banner.setAttribute('data-visible', 'true');
+            }, 700);
         }
 
         if (document.readyState === 'loading') {
