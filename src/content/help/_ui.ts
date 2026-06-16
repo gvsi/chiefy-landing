@@ -11,6 +11,8 @@
 export type HelpSymptom = {
     title: string
     description: string
+    /** Optional link to the fixing article (added as the corpus lands in Phase 6). */
+    href?: string
 }
 
 export const HELP_UI = {
@@ -21,10 +23,27 @@ export const HELP_UI = {
         subtitle: "Guides and answers for getting the most out of Chiefy.",
     },
     search: {
+        // SearchModal input placeholder
         placeholder: "Search the help center…",
+        // Hero search/ask toggle
+        searchTab: "Search",
+        askTab: "Ask Chiefy",
+        soon: "soon",
+        // Hero search bar prompt (longer, sets expectations for what's searchable)
+        barPlaceholder: "Search for answers — Smart Drafts, Auto Labels, scheduling, connecting Gmail…",
+        // Inline "Popular:" prefix under the hero search bar
+        popular: "Popular:",
+        // Top-results group label + the deferred "ask" row inside the modal
+        topResults: "Top results",
+        askThisQuestion: "Ask Chiefy this question",
+        navigate: "navigate",
+        open: "open",
+        close: "close",
+        // Legacy field retained for any earlier consumers
         askSoon: "Ask Chiefy · soon",
     },
     browseByTopic: "Browse by topic",
+    articlesLabel: "articles",
     troubleshooting: {
         title: "Troubleshooting",
         subtitle: "Quick fixes for the things that come up most.",
@@ -51,6 +70,8 @@ export const HELP_UI = {
         title: "Still need a hand?",
         subtitle: "We read every message and usually reply the same day.",
         cta: "Email support",
+        // Trust strip under the contact CTAs (matches landing security claims).
+        trust: "Google CASA-assessed · Encrypted at rest · Secure OAuth 2.0",
     },
     article: {
         tldr: "TL;DR",
