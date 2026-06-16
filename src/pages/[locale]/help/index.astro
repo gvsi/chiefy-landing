@@ -32,7 +32,7 @@ const popular = [
     { label: helpCategory("account-billing")!.name, href: localizedPath(locale, { kind: "helpCategory", category: "account-billing" }) },
 ].filter((link): link is { label: string; href: string } => Boolean(link))
 
-const title = "Help center — Chiefy"
+const title = HELP_UI.meta.indexTitle
 const description = HELP_UI.hero.subtitle
 const canonicalPath = localizedPath(locale, { kind: "helpIndex" })
 const alternates = getHelpAlternates(Astro.site, { kind: "helpIndex" })

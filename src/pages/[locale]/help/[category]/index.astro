@@ -29,7 +29,7 @@ if (!category) throw new Error(`Unknown help category: ${categoryId}`)
 
 const articles = await getHelpArticlesByCategory(locale, categoryId)
 
-const title = `${category.name} — Chiefy Help`
+const title = `${category.name}${HELP_UI.meta.titleSuffix}`
 const description = category.blurb
 const canonicalPath = localizedPath(locale, { kind: "helpCategory", category: categoryId })
 const alternates = getHelpAlternates(Astro.site, { kind: "helpCategory", category: categoryId })

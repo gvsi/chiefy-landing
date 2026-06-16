@@ -22,7 +22,7 @@ const { items } = Astro.props
 const { search } = HELP_UI
 ---
 
-<nav class="help-breadcrumb" aria-label="Breadcrumb">
+<nav class="help-breadcrumb" aria-label={HELP_UI.breadcrumb.ariaLabel}>
     {
         items.map((item, i) => (
             <>

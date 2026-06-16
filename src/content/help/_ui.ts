@@ -111,6 +111,16 @@ export const HELP_UI = {
     },
     breadcrumb: {
         home: "Help center",
+        // <nav> landmark label for the breadcrumb trail.
+        ariaLabel: "Breadcrumb",
+    },
+    // <title> shells for the help tree. All help page titles derive from these
+    // so the brand suffix lives in exactly one place.
+    meta: {
+        // Help home (`/help`) page title.
+        indexTitle: "Help center — Chiefy",
+        // Suffix appended to category + article titles: `${name}${titleSuffix}`.
+        titleSuffix: " — Chiefy Help",
     },
 } as const
 
