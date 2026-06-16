@@ -258,11 +258,14 @@ function assertHelpRouteJsonLd() {
     if (!categoryPage) fail("No help category page found in dist/help/")
     assertJsonLd(categoryPage, ["CollectionPage", "BreadcrumbList"])
 
-    // The seed article → Article + BreadcrumbList + article:modified_time.
-    const articlePage = "help/smart-drafts/turn-on-autodraft.html"
-    if (!existsSync(path.join(distRoot, articlePage))) {
-        fail(`Expected help article missing in dist: ${articlePage}`)
-    }
+    // Any nested help article → Article + BreadcrumbList + article:modified_time.
+    // Discover the first dist/help/<category>/<slug>.html (depth >= 2 under
+    // dist/help) instead of hardcoding a slug, so renaming/removing one article
+    // does not silently break this assertion.
+    const articlePage = listFiles(path.join(distRoot, "help"), ".html")
+        .map((file) => path.relative(distRoot, file))
+        .find((file) => file.split("/").length >= 3) // help/<category>/<slug>.html
+    if (!articlePage) fail("No nested help article (help/<category>/<slug>.html) found in dist/help/")
     assertJsonLd(articlePage, ["Article", "BreadcrumbList"])
     assertMetaProperty(articlePage, "article:modified_time")
 }
