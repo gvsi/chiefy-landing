@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "Nembo za mteja",
   "home.testimonialsAria": "Ushuhuda",
-  "home.scrollingTestimonialsAria": "Kusogeza ushuhuda"
+  "home.scrollingTestimonialsAria": "Kusogeza ushuhuda",
+  "help.nav.label": "Help"
 }

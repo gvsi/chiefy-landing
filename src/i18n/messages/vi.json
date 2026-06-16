@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "Logo khách hàng",
   "home.testimonialsAria": "Lời chứng thực",
-  "home.scrollingTestimonialsAria": "Lời chứng thực cuộn"
+  "home.scrollingTestimonialsAria": "Lời chứng thực cuộn",
+  "help.nav.label": "Help"
 }

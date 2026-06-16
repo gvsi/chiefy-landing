@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "顧客のロゴ",
   "home.testimonialsAria": "お客様の声",
-  "home.scrollingTestimonialsAria": "スクロールする体験談"
+  "home.scrollingTestimonialsAria": "スクロールする体験談",
+  "help.nav.label": "Help"
 }

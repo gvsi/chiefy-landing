@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "客户标志",
   "home.testimonialsAria": "感言",
-  "home.scrollingTestimonialsAria": "滚动推荐"
+  "home.scrollingTestimonialsAria": "滚动推荐",
+  "help.nav.label": "Help"
 }

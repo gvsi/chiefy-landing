@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "โลโก้ลูกค้า",
   "home.testimonialsAria": "คำรับรอง",
-  "home.scrollingTestimonialsAria": "คำรับรองแบบเลื่อน"
+  "home.scrollingTestimonialsAria": "คำรับรองแบบเลื่อน",
+  "help.nav.label": "Help"
 }

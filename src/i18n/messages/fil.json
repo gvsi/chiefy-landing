@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "Mga logo ng customer",
   "home.testimonialsAria": "Mga testimonial",
-  "home.scrollingTestimonialsAria": "Pag-scroll ng mga testimonial"
+  "home.scrollingTestimonialsAria": "Pag-scroll ng mga testimonial",
+  "help.nav.label": "Help"
 }

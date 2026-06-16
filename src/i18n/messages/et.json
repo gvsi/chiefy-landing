@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "Klientide logod",
   "home.testimonialsAria": "Iseloomustused",
-  "home.scrollingTestimonialsAria": "Kerivad iseloomustused"
+  "home.scrollingTestimonialsAria": "Kerivad iseloomustused",
+  "help.nav.label": "Help"
 }

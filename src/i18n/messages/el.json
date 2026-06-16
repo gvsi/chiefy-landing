@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "Λογότυπα πελατών",
   "home.testimonialsAria": "Μαρτυρίες",
-  "home.scrollingTestimonialsAria": "Κυλιόμενες μαρτυρίες"
+  "home.scrollingTestimonialsAria": "Κυλιόμενες μαρτυρίες",
+  "help.nav.label": "Help"
 }

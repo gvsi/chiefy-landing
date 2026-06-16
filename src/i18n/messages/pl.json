@@ -80,5 +80,6 @@
   "footer.copyright": "Duet Mail © {year}",
   "home.logoCustomerAria": "Logo klientów",
   "home.testimonialsAria": "Referencje",
-  "home.scrollingTestimonialsAria": "Przewijane referencje"
+  "home.scrollingTestimonialsAria": "Przewijane referencje",
+  "help.nav.label": "Help"
 }
