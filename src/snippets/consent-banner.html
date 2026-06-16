@@ -38,6 +38,10 @@
     </div>
 </div>
 <style>
+    /* Colors/fonts use design-system tokens from src/styles/global.css.
+       The --consent-* aliases are theme-aware (light/dark via [data-theme]),
+       so the single rules below render identically to the prior hand-written
+       light/dark duplication (visual no-op). */
     .chiefy-consent {
         /* Hidden until the deferred script decides — no CLS, no pre-paint flash. */
         display: none;
@@ -48,8 +52,8 @@
         bottom: 16px;
         margin: 0 auto;
         max-width: 560px;
-        background: #fafafa;
-        border: 1px solid rgba(0, 0, 0, 0.10);
+        background: var(--consent-surface);
+        border: 1px solid var(--consent-border);
         border-radius: 12px;
         box-shadow:
             0 40px 80px rgba(0, 0, 0, 0.12),
@@ -57,7 +61,7 @@
         padding: 16px 18px;
         flex-direction: column;
         gap: 14px;
-        font-family: "Manrope Variable", "Manrope", ui-sans-serif, system-ui, -apple-system, sans-serif;
+        font-family: var(--consent-font);
         margin-bottom: env(safe-area-inset-bottom, 0px);
     }
 
@@ -74,23 +78,23 @@
 
     .chiefy-consent-body {
         margin: 0;
-        color: #3d3d44;
+        color: var(--consent-body);
         font-size: 14px;
         line-height: 1.55;
         font-weight: 500;
     }
 
     .chiefy-consent-link {
-        color: #4f46e5;
+        color: var(--consent-link);
         text-decoration: underline;
         text-underline-offset: 2px;
         white-space: nowrap;
     }
 
-    .chiefy-consent-link:hover { color: #1a1a1f; }
+    .chiefy-consent-link:hover { color: var(--consent-link-hover); }
 
     .chiefy-consent-link:focus-visible {
-        outline: 2px solid #4530ea;
+        outline: 2px solid var(--consent-focus);
         outline-offset: 2px;
         border-radius: 3px;
     }
@@ -109,9 +113,9 @@
         font-family: inherit;
         font-size: 14px;
         font-weight: 600;
-        color: #1a1a1f;
-        background: #ffffff;
-        border: 1px solid rgba(0, 0, 0, 0.10);
+        color: var(--consent-btn-text);
+        background: var(--consent-btn-bg);
+        border: 1px solid var(--consent-btn-border);
         border-radius: 10px;
         padding: 9px 16px;
         min-height: 40px;
@@ -120,14 +124,14 @@
     }
 
     .chiefy-consent-btn:hover {
-        background: #f2f2f5;
-        border-color: rgba(0, 0, 0, 0.18);
+        background: var(--consent-btn-bg-hover);
+        border-color: var(--consent-btn-border-hover);
     }
 
-    .chiefy-consent-btn:active { background: #ececf0; }
+    .chiefy-consent-btn:active { background: var(--consent-btn-bg-active); }
 
     .chiefy-consent-btn:focus-visible {
-        outline: 2px solid #4530ea;
+        outline: 2px solid var(--consent-focus);
         outline-offset: 2px;
     }
 
@@ -141,48 +145,11 @@
         .chiefy-consent-actions { flex-shrink: 0; }
     }
 
-    /* Dark theme — mirror the landing dark tokens (html data-theme handling). */
-    html.dark .chiefy-consent,
-    html:not([data-theme="light"]) .chiefy-consent {
-        background: #0f0f24;
-        border-color: rgba(255, 255, 255, 0.10);
-    }
-    html.dark .chiefy-consent-body,
-    html:not([data-theme="light"]) .chiefy-consent-body {
-        color: rgba(200, 200, 210, 0.92);
-    }
-    html.dark .chiefy-consent-link,
-    html:not([data-theme="light"]) .chiefy-consent-link { color: #74c2ff; }
-    html.dark .chiefy-consent-link:hover,
-    html:not([data-theme="light"]) .chiefy-consent-link:hover { color: #ffffff; }
-    html.dark .chiefy-consent-btn,
-    html:not([data-theme="light"]) .chiefy-consent-btn {
-        color: #ffffff;
-        background: rgba(255, 255, 255, 0.06);
-        border-color: rgba(255, 255, 255, 0.14);
-    }
-    html.dark .chiefy-consent-btn:hover,
-    html:not([data-theme="light"]) .chiefy-consent-btn:hover {
-        background: rgba(255, 255, 255, 0.10);
-    }
-    /* Light theme wins back (data-theme="light" is set explicitly by the
-       theme bootstrap; default no-attr = dark). */
-    html[data-theme="light"] .chiefy-consent {
-        background: #fafafa;
-        border-color: rgba(0, 0, 0, 0.10);
-    }
-    html[data-theme="light"] .chiefy-consent-body { color: #3d3d44; }
-    html[data-theme="light"] .chiefy-consent-link { color: #4f46e5; }
-    html[data-theme="light"] .chiefy-consent-link:hover { color: #1a1a1f; }
-    html[data-theme="light"] .chiefy-consent-btn {
-        color: #1a1a1f;
-        background: #ffffff;
-        border-color: rgba(0, 0, 0, 0.10);
-    }
-    html[data-theme="light"] .chiefy-consent-btn:hover {
-        background: #f2f2f5;
-        border-color: rgba(0, 0, 0, 0.18);
-    }
+    /* Light/dark theming is handled entirely by the theme-aware --consent-*
+       tokens in src/styles/global.css (:root = dark, [data-theme="light"] =
+       light), so the former per-theme color duplication is no longer needed.
+       The token values reproduce the prior rendered colors exactly, including
+       the dark mode :active / :hover-border fall-through to the base literals. */
 
     @media (prefers-reduced-motion: reduce) {
         .chiefy-consent[data-visible="true"] { animation: none; }
