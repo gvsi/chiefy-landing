@@ -1,6 +1,14 @@
 import { DEFAULT_LOCALE, NON_DEFAULT_LOCALES, SUPPORTED_LOCALES, type Locale } from "./locales"
 
-export type RouteKind = "home" | "blogIndex" | "blogPost" | "vertical" | "legal"
+export type RouteKind =
+    | "home"
+    | "blogIndex"
+    | "blogPost"
+    | "vertical"
+    | "legal"
+    | "helpIndex"
+    | "helpCategory"
+    | "helpArticle"
 export type LegalPage = "terms" | "privacy" | "cookies" | "disclaimer"
 export type AlternateLink = { locale: Locale | "x-default"; href: string }
 
@@ -10,6 +18,9 @@ export type RouteInput =
     | { kind: "blogPost"; slug: string }
     | { kind: "vertical"; slug: string }
     | { kind: "legal"; page: LegalPage }
+    | { kind: "helpIndex" }
+    | { kind: "helpCategory"; category: string }
+    | { kind: "helpArticle"; slug: string }
 
 export function localePrefix(locale: Locale): string {
     return locale === DEFAULT_LOCALE ? "" : `/${locale}`
@@ -28,6 +39,13 @@ export function localizedPath(locale: Locale, input: RouteInput): string {
             return `${prefix}/for/${input.slug}`
         case "legal":
             return `${prefix}/${input.page}`
+        case "helpIndex":
+            return `${prefix}/help`
+        case "helpCategory":
+            return `${prefix}/help/${input.category}`
+        case "helpArticle":
+            // slug already includes the category path (e.g. "smart-drafts/turn-on-autodraft").
+            return `${prefix}/help/${input.slug}`
     }
 }
 

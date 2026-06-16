@@ -158,6 +158,10 @@ function routeCacheKey(input: RouteInput): string {
             return `${input.kind}:${input.slug}`
         case "legal":
             return `${input.kind}:${input.page}`
+        default:
+            // Help routes use englishOnlyAlternates(); they never go through the
+            // locale translation-state machinery (no help case in getRouteTranslationState).
+            throw new Error(`Unsupported route kind for translation-state caching: ${input.kind}`)
     }
 }
 
@@ -172,6 +176,10 @@ function translationRouteInput(input: RouteInput, locale: Locale): TranslationRo
             return { kind: "vertical", locale, slug: input.slug }
         case "legal":
             return { kind: "legal", locale, page: input.page }
+        default:
+            // Help routes use englishOnlyAlternates(); they never go through the
+            // locale translation-state machinery (no help case in getRouteTranslationState).
+            throw new Error(`Unsupported route kind for translation-state input: ${input.kind}`)
     }
 }
 
