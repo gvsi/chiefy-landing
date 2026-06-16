@@ -562,12 +562,40 @@ function assertSitemapHelpRoutes() {
     const sitemapFiles = listFiles(distRoot, ".xml").filter((filePath) =>
         path.basename(filePath).startsWith("sitemap"),
     )
+
+    // Discover the first built category index (help/<cat>.html) and the first
+    // built article (help/<cat>/<slug>.html), then map them to their canonical
+    // production help URLs. Reuses the same dynamic discovery as
+    // assertHelpRouteJsonLd() so renaming/removing an article never silently
+    // weakens this check.
+    const helpDistFiles = listFiles(path.join(distRoot, "help"), ".html").map((file) =>
+        path.relative(distRoot, file),
+    )
+    const categoryDistFile = helpDistFiles.find((file) => file.split("/").length === 2)
+    const articleDistFile = helpDistFiles.find((file) => file.split("/").length >= 3)
+    if (!categoryDistFile) fail("No help category page found in dist/help/")
+    if (!articleDistFile) fail("No nested help article (help/<category>/<slug>.html) found in dist/help/")
+
+    // help/<cat>.html → https://duetmail.com/help/<cat>
+    // help/<cat>/<slug>.html → https://duetmail.com/help/<cat>/<slug>
+    const distFileToHelpLoc = (relativeDistPath) =>
+        `https://duetmail.com/${relativeDistPath.replace(/\.html$/u, "")}`
+    const requiredHelpLocs = [
+        distFileToHelpLoc(categoryDistFile),
+        distFileToHelpLoc(articleDistFile),
+    ]
+
     let sawHelpLoc = false
+    const sawRequiredLoc = new Set()
     for (const filePath of sitemapFiles) {
         const relativePath = path.relative(repoRoot, filePath)
         const xml = readFileSync(filePath, "utf8")
 
         if (/<loc>https:\/\/duetmail\.com\/help(?:\/|<)/u.test(xml)) sawHelpLoc = true
+
+        for (const loc of requiredHelpLocs) {
+            if (xml.includes(`<loc>${loc}</loc>`)) sawRequiredLoc.add(loc)
+        }
 
         // No localized help <loc> (e.g. /am/help, /fr/help/...) and no localized
         // help alternate links.
@@ -582,6 +610,11 @@ function assertSitemapHelpRoutes() {
         }
     }
     if (!sawHelpLoc) fail("Sitemap is missing the EN /help URLs")
+    for (const loc of requiredHelpLocs) {
+        if (!sawRequiredLoc.has(loc)) {
+            fail(`Sitemap is missing a discovered help page <loc>: ${loc}`)
+        }
+    }
 }
 
 try {
