@@ -9,7 +9,8 @@
  *   <MailRow … pillLabel="No reply needed" pillVariant="action" last />
  *
  * `pillVariant` is "autodraft" (emerald) or "action" (red). `last` drops the
- * bottom divider for the final row in a list.
+ * bottom divider for the final row in a list. `anno` renders a small annotation
+ * marker (e.g. "A") beside the sender, cross-referencing a step's callout.
  */
 type Props = {
     /** 1–2 letter avatar initials. */
@@ -22,16 +23,21 @@ type Props = {
     pillVariant?: "autodraft" | "action"
     /** Drop the bottom border (last row in a stack). */
     last?: boolean
+    /** Optional annotation marker letter/number shown beside the sender. */
+    anno?: string
 }
 
-const { avatar, from, time, subject, preview, pillLabel, pillVariant = "autodraft", last = false } = Astro.props
+const { avatar, from, time, subject, preview, pillLabel, pillVariant = "autodraft", last = false, anno } = Astro.props
 ---
 
 <div class={`help-mailrow${last ? " last" : ""}`}>
     <span class="av">{avatar}</span>
     <span class="mc">
         <span class="top">
-            <span class="from">{from}</span>
+            <span class="from">
+                {anno && <span class="help-anno">{anno}</span>}
+                {from}
+            </span>
             <span class="time">{time}</span>
         </span>
         <span class="subj">{subject}</span>
