@@ -5,8 +5,12 @@
  *
  * Behaviour (single tiny `is:inline` island, loaded only on routes that render
  * this component — the help layouts — keeping the rest of the site zero-JS):
+ *   - it is a NATIVE <dialog>: `showModal()` gives focus trapping, background
+ *     `inert`, and Esc-to-close for free, and focus is restored to the opener
+ *     on close automatically (no hand-rolled trap / store / restore),
  *   - opens on ⌘K/Ctrl-K and on click of any `.js-help-search` element,
- *   - closes on Esc or overlay click,
+ *   - closes on Esc (native), on the ⌘K toggle, or on a click in the
+ *     `::backdrop` scrim (target === the dialog itself),
  *   - on FIRST open, lazy-imports `/pagefind/pagefind.js` and initialises it,
  *   - debounces the input and renders live results (title + category·excerpt
  *     subline) linking to the article URL,
@@ -36,19 +40,15 @@ const { search } = HELP_UI
 void locale
 ---
 
-<div
+<dialog
     class="help-modal"
     id="help-search-modal"
-    role="dialog"
-    aria-modal="true"
     aria-label={search.placeholder}
     data-copy-idle={search.idle}
     data-copy-empty={search.noResults}
     data-copy-unavailable={search.unavailable}
     data-copy-top={search.topResults}
-    hidden
 >
-    <button type="button" class="ov" data-help-close aria-label={search.close}></button>
     <div class="box">
         <div class="sb">
             <HelpIcon name="search" size={20} stroke={1.8} />
@@ -95,11 +95,11 @@ void locale
             <span><span class="help-kbd">esc</span>{search.close}</span>
         </div>
     </div>
-</div>
+</dialog>
 
 <script is:inline>
     ;(() => {
-        const modal = document.getElementById("help-search-modal")
+        const modal = /** @type {HTMLDialogElement | null} */ (document.getElementById("help-search-modal"))
         if (!modal || modal.dataset.bound === "1") return
         modal.dataset.bound = "1"
 
@@ -118,31 +118,18 @@ void locale
             document.getElementById("help-search-result-template")
         )
 
-        const closeControl = modal.querySelector("[data-help-close]")
-
         let pagefind = null // resolved Pagefind module, or "unavailable"
         let pagefindLoading = null // in-flight import promise (load once)
         let debounceTimer = 0
         let activeQueryToken = 0 // guards against out-of-order async responses
         let selected = -1
-        let lastFocused = null // element to restore focus to on close
-
-        // Focusable controls inside the modal box, in DOM order: the input, every
-        // visible result link, and the close control. Used to trap Tab/Shift+Tab.
-        const focusables = () => {
-            const list = []
-            if (input) list.push(input)
-            for (const option of optionEls()) list.push(option)
-            if (closeControl) list.push(closeControl)
-            return list
-        }
 
         const open = () => {
-            // Remember the opener so focus can return there on close (a11y).
-            lastFocused =
-                document.activeElement instanceof HTMLElement ? document.activeElement : null
-            modal.hidden = false
-            modal.classList.add("open")
+            if (modal.open) return
+            // Native showModal() traps focus, makes the background inert, enables
+            // Esc-to-close, and restores focus to the opener on close — no
+            // hand-rolled focus trap or store/restore needed.
+            modal.showModal()
             if (input) input.setAttribute("aria-expanded", "true")
             window.setTimeout(() => {
                 if (input) input.focus()
@@ -151,18 +138,22 @@ void locale
             void ensurePagefind()
         }
         const close = () => {
-            modal.classList.remove("open")
-            modal.hidden = true
+            if (modal.open) modal.close()
+        }
+
+        // Native close (Esc, .close(), backdrop click) — reset combobox state.
+        modal.addEventListener("close", () => {
             if (input) {
                 input.setAttribute("aria-expanded", "false")
                 input.removeAttribute("aria-activedescendant")
             }
-            // Restore focus to whatever opened the modal (button, link, body).
-            if (lastFocused && document.contains(lastFocused)) {
-                lastFocused.focus()
-            }
-            lastFocused = null
-        }
+        })
+
+        // Background (::backdrop) click closes: a click whose target is the
+        // dialog element itself landed on the backdrop, not the inner box.
+        modal.addEventListener("click", (event) => {
+            if (event.target === modal) close()
+        })
 
         const ensurePagefind = () => {
             if (pagefind) return Promise.resolve(pagefind)
@@ -321,8 +312,6 @@ void locale
             })
         })
 
-        if (closeControl) closeControl.addEventListener("click", close)
-
         // Input → debounced search.
         if (input) {
             input.addEventListener("input", () => {
@@ -333,36 +322,16 @@ void locale
             })
         }
 
+        // ⌘K / Ctrl-K toggles the dialog. Native <dialog> already handles Esc
+        // (close) and Tab (focus trap), so this handler only owns the open
+        // shortcut and, while open, the result-list arrow navigation.
         document.addEventListener("keydown", (event) => {
-            const isOpen = modal.classList.contains("open")
             if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") {
                 event.preventDefault()
-                isOpen ? close() : open()
+                modal.open ? close() : open()
                 return
             }
-            if (!isOpen) return
-            if (event.key === "Escape") {
-                close()
-                return
-            }
-            if (event.key === "Tab") {
-                // Trap focus inside the modal box: cycle across input → results → close.
-                const items = focusables()
-                if (items.length === 0) return
-                const first = items[0]
-                const last = items[items.length - 1]
-                const active = document.activeElement
-                if (event.shiftKey) {
-                    if (active === first || !items.includes(active)) {
-                        event.preventDefault()
-                        last.focus()
-                    }
-                } else if (active === last || !items.includes(active)) {
-                    event.preventDefault()
-                    first.focus()
-                }
-                return
-            }
+            if (!modal.open) return
             const options = optionEls()
             if (event.key === "ArrowDown") {
                 event.preventDefault()

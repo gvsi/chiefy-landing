@@ -1218,29 +1218,33 @@ html[data-theme="light"] {
     font-weight: 600;
 }
 
-/* ---- search modal ---------------------------------------------------- */
+/* ---- search modal (native <dialog>) ---------------------------------- */
+/* Reset the UA dialog box so the inner .box owns the visible card. The dialog
+   is the positioning container: top-anchored, horizontally centered, no chrome
+   of its own. showModal() handles focus trap + background inert + Esc; the
+   ::backdrop below paints the scrim (no overlay <button> needed). */
 .help-modal {
     position: fixed;
     inset: 0;
     z-index: 90;
-    display: none;
+    max-width: 600px;
+    width: calc(100% - 32px);
+    height: max-content;
+    max-height: calc(100dvh - 32px);
+    margin: 88px auto 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: inherit;
+    overflow: visible;
 }
-.help-modal.open {
-    display: block;
-}
-.help-modal .ov {
-    position: absolute;
-    inset: 0;
+/* :not([open]) dialogs are display:none by the UA; nothing extra needed. */
+.help-modal::backdrop {
     background: var(--help-overlay);
     backdrop-filter: blur(3px);
-    border: 0;
-    width: 100%;
-    cursor: default;
 }
 .help-modal .box {
     position: relative;
-    max-width: 600px;
-    margin: 88px auto 0;
     background: var(--help-surface);
     border: 1px solid var(--duet-border-editorial);
     border-radius: 14px;
