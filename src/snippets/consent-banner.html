@@ -1,0 +1,308 @@
+<!-- Cookie consent banner (SC-1, landing leg). Zero-JS-first: the markup is
+     hidden by default (display:none) so there is NO CLS and no flash for the ~90%
+     non-EEA / already-decided visitors. A tiny deferred vanilla script reveals it
+     only when there is no stored choice AND the edge region is EEA/UK, then wires
+     Accept/Reject.
+
+     ENGLISH ONLY. The user-facing copy below mirrors the app ConsentBanner copy
+     EXACTLY so app + landing match. Founder copy sign-off is pending before any
+     locale fan-out, so this lives in the snippet (outside the i18n scanner) and is
+     NOT translated. __SITE_BRAND__ / __PRIVACY_HREF__ are replaced at render time
+     by BaseLayout.astro from the build env (B3).
+
+     Mirrors the app ConsentBanner exactly: same chiefy_consent cookie, same
+     per-host Domain derivation (parts.slice(-2)), same Consent Mode v2 update
+     payloads, equal-weight buttons (no dark patterns), a11y, prefers-reduced-
+     motion. -->
+<div
+    id="chiefy-consent"
+    class="chiefy-consent"
+    role="dialog"
+    aria-modal="false"
+    aria-label="Cookie consent"
+    aria-describedby="chiefy-consent-body"
+>
+    <p id="chiefy-consent-body" class="chiefy-consent-body">
+        We use cookies to measure and improve the site. Essentials always stay on.
+        <a
+            class="chiefy-consent-link"
+            href="__PRIVACY_HREF__"
+            target="_blank"
+            rel="noopener noreferrer"
+        >Privacy policy</a>
+    </p>
+    <div class="chiefy-consent-actions">
+        <button type="button" class="chiefy-consent-btn" data-consent-reject>Reject non-essential</button>
+        <button type="button" class="chiefy-consent-btn" data-consent-accept>Accept</button>
+    </div>
+</div>
+<style>
+    /* Colors/fonts use design-system tokens from src/styles/global.css.
+       The --consent-* aliases are theme-aware (light/dark via [data-theme]),
+       so the single rules below render identically to the prior hand-written
+       light/dark duplication (visual no-op). */
+    .chiefy-consent {
+        /* Hidden until the deferred script decides — no CLS, no pre-paint flash.
+           Compact card tucked into the bottom-LEFT corner so it never covers the
+           centered hero / CTAs (and the deferred + delayed reveal lets the hero
+           paint first). */
+        display: none;
+        position: fixed;
+        z-index: 9998;
+        right: 16px;
+        bottom: 16px;
+        width: calc(100vw - 32px);
+        max-width: 320px;
+        background: var(--consent-surface);
+        border: 1px solid var(--consent-border);
+        border-radius: 14px;
+        box-shadow:
+            0 24px 48px rgba(0, 0, 0, 0.18),
+            0 8px 16px rgba(0, 0, 0, 0.06);
+        padding: 14px 16px;
+        flex-direction: column;
+        gap: 12px;
+        font-family: var(--consent-font);
+        margin-bottom: env(safe-area-inset-bottom, 0px);
+    }
+
+    /* The script sets data-visible="true" to reveal (and only then animate). */
+    .chiefy-consent[data-visible="true"] {
+        display: flex;
+        animation: chiefy-consent-in 220ms cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    @keyframes chiefy-consent-in {
+        from { opacity: 0; transform: translateY(8px); }
+        to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .chiefy-consent-body {
+        margin: 0;
+        color: var(--consent-body);
+        font-size: 13px;
+        line-height: 1.5;
+        font-weight: 500;
+    }
+
+    .chiefy-consent-link {
+        color: var(--consent-link);
+        text-decoration: underline;
+        text-underline-offset: 2px;
+        white-space: nowrap;
+    }
+
+    .chiefy-consent-link:hover { color: var(--consent-link-hover); }
+
+    .chiefy-consent-link:focus-visible {
+        outline: 2px solid var(--consent-focus);
+        outline-offset: 2px;
+        border-radius: 3px;
+    }
+
+    .chiefy-consent-actions {
+        display: flex;
+        gap: 8px;
+        justify-content: flex-end;
+    }
+
+    /* Accept + Reject share IDENTICAL styling — equal visual weight, no dark
+       pattern. Neutral surface buttons; auto width so each label stays on one line. */
+    .chiefy-consent-btn {
+        appearance: none;
+        cursor: pointer;
+        white-space: nowrap;
+        font-family: inherit;
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--consent-btn-text);
+        background: var(--consent-btn-bg);
+        border: 1px solid var(--consent-btn-border);
+        border-radius: 9px;
+        padding: 8px 12px;
+        min-height: 36px;
+        transition: background-color 150ms cubic-bezier(0, 0, 0.2, 1),
+                    border-color 150ms cubic-bezier(0, 0, 0.2, 1);
+    }
+
+    .chiefy-consent-btn:hover {
+        background: var(--consent-btn-bg-hover);
+        border-color: var(--consent-btn-border-hover);
+    }
+
+    .chiefy-consent-btn:active { background: var(--consent-btn-bg-active); }
+
+    .chiefy-consent-btn:focus-visible {
+        outline: 2px solid var(--consent-focus);
+        outline-offset: 2px;
+    }
+
+    /* Compact corner card stays a single column at all widths (no wide row layout). */
+
+    /* Light/dark theming is handled entirely by the theme-aware --consent-*
+       tokens in src/styles/global.css (:root = dark, [data-theme="light"] =
+       light), so the former per-theme color duplication is no longer needed.
+       The token values reproduce the prior rendered colors exactly, including
+       the dark mode :active / :hover-border fall-through to the base literals. */
+
+    @media (prefers-reduced-motion: reduce) {
+        .chiefy-consent[data-visible="true"] { animation: none; }
+        .chiefy-consent-btn { transition: none; }
+    }
+</style>
+<script>
+    (function () {
+        if (typeof window === 'undefined' || typeof document === 'undefined') {
+            return;
+        }
+
+        var ALL_GRANTED = {
+            ad_storage: 'granted',
+            ad_user_data: 'granted',
+            ad_personalization: 'granted',
+            analytics_storage: 'granted',
+            security_storage: 'granted'
+        };
+        var ALL_DENIED = {
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            analytics_storage: 'denied',
+            security_storage: 'granted'
+        };
+
+        function readStoredConsent() {
+            var cookies = document.cookie ? document.cookie.split(';') : [];
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i].trim();
+                if (cookie.indexOf('chiefy_consent=') === 0) {
+                    var value = cookie.substring('chiefy_consent='.length).trim();
+                    if (value === 'granted' || value === 'denied') return value;
+                    return null;
+                }
+            }
+            return null;
+        }
+
+        // Edge region signal (SC-1a). FAIL-SAFE to EEA when absent/unknown, so the
+        // banner shows + first-party stays deferred whenever region is unknown.
+        // Mirrors consent.ts getConsentRegion (meta[name=cf-region] -> __CF_REGION__).
+        function getConsentRegion() {
+            var raw = null;
+            try {
+                var meta = document.querySelector('meta[name="cf-region"]');
+                raw = meta ? meta.getAttribute('content') : null;
+                if (!raw && typeof window.__CF_REGION__ === 'string') {
+                    raw = window.__CF_REGION__;
+                }
+            } catch (e) {
+                return 'eea';
+            }
+            var normalized = raw ? raw.trim().toLowerCase() : '';
+            if (normalized === 'non-eea') return 'non-eea';
+            return 'eea';
+        }
+
+        // Persist the choice. Domain derived EXACTLY like gtm-head.html writeCookie
+        // (parts.slice(-2).join('.')) so app + landing share within a brand; skip on
+        // localhost. 12-month Max-Age, Path=/, SameSite=Lax, Secure.
+        function writeConsentCookie(value) {
+            try {
+                var host = window.location.hostname || '';
+                var parts = host.split('.');
+                var domain = parts.length >= 2 ? parts.slice(-2).join('.') : host;
+                var directives = [
+                    'chiefy_consent=' + value,
+                    'Max-Age=' + (60 * 60 * 24 * 365),
+                    'Path=/',
+                    'SameSite=Lax',
+                    'Secure'
+                ];
+                if (domain && domain !== 'localhost') {
+                    directives.push('Domain=.' + domain);
+                }
+                document.cookie = directives.join('; ');
+            } catch (e) {
+                /* analytics only — never break the page */
+            }
+        }
+
+        // On reject, drop any PRE-consent-stored first-party attribution so a
+        // returning visitor's stale duet_utms cookie / duet__utm_params localStorage
+        // is cleared too (mirrors the app ConsentBanner's clearStoredUtmParams).
+        function clearStoredFirstParty() {
+            try {
+                var host = window.location.hostname || '';
+                var parts = host.split('.');
+                var domain = parts.length >= 2 ? parts.slice(-2).join('.') : host;
+                var base = 'duet_utms=; Max-Age=0; Path=/; SameSite=Lax; Secure';
+                document.cookie = base;
+                if (domain && domain !== 'localhost') {
+                    document.cookie = base + '; Domain=.' + domain;
+                }
+                window.localStorage.removeItem('duet__utm_params');
+            } catch (e) {
+                /* analytics only — never break the page */
+            }
+        }
+
+        function pushConsentUpdate(state) {
+            try {
+                if (typeof window.gtag === 'function') {
+                    window.gtag('consent', 'update', state);
+                }
+            } catch (e) { /* never break the page */ }
+        }
+
+        function init() {
+            var banner = document.getElementById('chiefy-consent');
+            if (!banner) return;
+
+            // Show ONLY when no stored choice AND region is EEA/UK.
+            if (readStoredConsent() !== null || getConsentRegion() !== 'eea') {
+                return;
+            }
+
+            var acceptBtn = banner.querySelector('[data-consent-accept]');
+            var rejectBtn = banner.querySelector('[data-consent-reject]');
+
+            function dismiss() {
+                banner.setAttribute('data-visible', 'false');
+                banner.style.display = 'none';
+            }
+
+            if (acceptBtn) {
+                acceptBtn.addEventListener('click', function () {
+                    pushConsentUpdate(ALL_GRANTED);
+                    writeConsentCookie('granted');
+                    // Flush the deferred first-party attribution (referral beacon +
+                    // UTM writes) now that analytics_storage is granted.
+                    if (typeof window.__chiefyFlushFirstParty === 'function') {
+                        window.__chiefyFlushFirstParty();
+                    }
+                    dismiss();
+                });
+            }
+            if (rejectBtn) {
+                rejectBtn.addEventListener('click', function () {
+                    pushConsentUpdate(ALL_DENIED);
+                    writeConsentCookie('denied');
+                    clearStoredFirstParty();
+                    dismiss();
+                });
+            }
+
+            // Reveal after a short beat so the hero paints first — the card then
+            // slides into the corner instead of being present at first paint.
+            window.setTimeout(function () {
+                banner.setAttribute('data-visible', 'true');
+            }, 700);
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
+</script>

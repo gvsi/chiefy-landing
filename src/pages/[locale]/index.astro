@@ -19,6 +19,7 @@ import { getNonDefaultStaticLocalePaths, localizedPath } from "../../i18n/routin
 import { getAlternateLinksForRoute, getHomeContent, getRouteTranslationState, robotsForTranslationState } from "../../i18n/content";
 import { getMessages } from "../../i18n/messages/schema";
 import { jsonLdScript } from "../../i18n/jsonLd";
+import { jsonLdBrand } from "../../utils/brand";
 
 export function getStaticPaths() {
     return getNonDefaultStaticLocalePaths();
@@ -49,7 +50,7 @@ const extraHeadHtml = [
         "@context": "https://schema.org",
         "@type": "WebSite",
         inLanguage: locale,
-        name: jsonLd.websiteName,
+        name: jsonLdBrand.websiteName,
         alternateName: jsonLd.websiteAlternateName,
         url: homeUrl,
     }),
@@ -57,7 +58,7 @@ const extraHeadHtml = [
         "@context": "https://schema.org",
         "@type": "Organization",
         inLanguage: locale,
-        name: jsonLd.organizationName,
+        name: jsonLdBrand.organizationName,
         url: homeUrl,
         logo: organizationLogoUrl,
         sameAs: jsonLd.urls?.sameAs,
@@ -70,7 +71,7 @@ const extraHeadHtml = [
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
         inLanguage: locale,
-        name: jsonLd.softwareName,
+        name: jsonLdBrand.softwareName,
         description: jsonLd.softwareDescription,
         applicationCategory: jsonLd.applicationCategory,
         operatingSystem: jsonLd.operatingSystem,
