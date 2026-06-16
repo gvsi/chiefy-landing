@@ -46,7 +46,7 @@ After you sign in, Chiefy guides you through three short screens.
       Secure checkout via Stripe · Cancel anytime · 14-day free trial
     </MockWindow>
 
-    > {/* VERIFY: the source brief said users can "skip checkout and activate trial directly." In the current code the 14-day trial is started THROUGH Stripe checkout (a trial-mode checkout), and there is no separate "skip checkout" button. Written conservatively to match code; please confirm whether a skip path exists in production. */}
+    {/* VERIFY: the source brief said users can "skip checkout and activate trial directly." In the current code the 14-day trial is started THROUGH Stripe checkout (a trial-mode checkout), and there is no separate "skip checkout" button. Written conservatively to match code; please confirm whether a skip path exists in production. */}
   </HelpStep>
   <HelpStep title="You're all set">
     The final screen confirms your trial is active and Chiefy is ready. From here you can jump straight into your inbox.
