@@ -31,12 +31,12 @@ const { hero, search } = HELP_UI
         <p class="help-sub">{hero.subtitle}</p>
 
         <div class="help-hero-search">
-            <div class="help-toggle" role="tablist" aria-label={hero.eyebrow}>
-                <button type="button" class="seg active js-help-search" role="tab" aria-selected="true">
+            <div class="help-toggle" role="group" aria-label={hero.eyebrow}>
+                <button type="button" class="seg active js-help-search">
                     <HelpIcon name="search" size={14} stroke={2} />
                     {search.searchTab}
                 </button>
-                <span class="seg" role="tab" aria-selected="false" aria-disabled="true">
+                <span class="seg" aria-disabled="true">
                     {search.askTab}
                     <span class="help-soon">{search.soon}</span>
                 </span>
