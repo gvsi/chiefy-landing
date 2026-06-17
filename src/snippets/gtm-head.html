@@ -186,7 +186,7 @@
                 var beaconRef = new URLSearchParams(window.location.search || '').get('ref');
                 if (beaconRef && /^[a-z0-9]{4,16}$/.test(beaconRef) && navigator.sendBeacon) {
                     navigator.sendBeacon(
-                        'https://api.duetmail.com/referral/click',
+                        'https://api.chiefy.com/referral/click',
                         new Blob([JSON.stringify({ code: beaconRef })], { type: 'text/plain' })
                     );
                 }
