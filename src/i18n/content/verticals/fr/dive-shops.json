@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail pour les centres de plongée | Assistant email IA",
-  "metaDescription": "Duet Mail aide les propriétaires de centres de plongée et les instructeurs PADI à répondre instantanément aux demandes de certification, aux réservations de sorties et aux questions sur le matériel — même depuis sous l'eau.",
+  "pageTitle": "Chiefy pour les centres de plongée | Assistant email IA",
+  "metaDescription": "Chiefy aide les propriétaires de centres de plongée et les instructeurs PADI à répondre instantanément aux demandes de certification, aux réservations de sorties et aux questions sur le matériel — même depuis sous l'eau.",
   "heroBadge": "Adopté par plus de 300 opérateurs de plongée",
   "heroHeadline": "Votre assistant email pendant que vous êtes sous l'eau",
-  "heroSubline": "Duet apprend vos sites de plongée, les conditions de certification, les tarifs et votre ton — puis rédige des réponses par email pour que vous ne perdiez jamais une réservation pendant que vous êtes sur le bateau.",
+  "heroSubline": "Chiefy apprend vos sites de plongée, les conditions de certification, les tarifs et votre ton — puis rédige des réponses par email pour que vous ne perdiez jamais une réservation pendant que vous êtes sur le bateau.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "plongée",
     "lostPerMonth": "3 sorties (6 plongeurs chacune)",
     "monthlyLoss": "$2,700",
-    "punchline": "Une seule plongée de groupe réservée suffit à payer un an de Duet."
+    "punchline": "Une seule plongée de groupe réservée suffit à payer un an de Chiefy."
   },
-  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail afin que vous voyiez d’abord les demandes de certification et les réservations de plongée, ensuite les questions sur le matériel, et les alertes PADI quand vous êtes prêt. Plus de réservation de groupe manquée, enfouie sous les newsletters sur l’équipement.",
-  "draftSubtitle": "Duet apprend vos sites de plongée, les prérequis de certification et vos tarifs. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du séjour, ce qui est inclus et ce qu’il faut apporter. Vous relisez et envoyez.",
-  "agentSubtitle": "« Combien de plongeurs sont réservés pour samedi ? » « Rédige une réponse à Rachel avec les disponibilités Open Water. » Duet connaît votre boîte de réception et votre planning — demandez-lui simplement.",
+  "categorizationSubtitle": "Chiefy classe automatiquement chaque e-mail afin que vous voyiez d’abord les demandes de certification et les réservations de plongée, ensuite les questions sur le matériel, et les alertes PADI quand vous êtes prêt. Plus de réservation de groupe manquée, enfouie sous les newsletters sur l’équipement.",
+  "draftSubtitle": "Chiefy apprend vos sites de plongée, les prérequis de certification et vos tarifs. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du séjour, ce qui est inclus et ce qu’il faut apporter. Vous relisez et envoyez.",
+  "agentSubtitle": "« Combien de plongeurs sont réservés pour samedi ? » « Rédige une réponse à Rachel avec les disponibilités Open Water. » Chiefy connaît votre boîte de réception et votre planning — demandez-lui simplement.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Mike T.",
       "title": "Capitaine de bateau de plongée, FL",
-      "quote": "J’organise des sorties en bateau du vendredi au dimanche et la boutique n’est ouverte que quelques heures le lundi. Les questions sur les certifications et les demandes de sorties s’accumulent pendant que je suis sous l’eau. Duet rédige des réponses avec mes tarifs, mes sites de plongée et ce qui est inclus — je les relis entre deux plongées.",
+      "quote": "J’organise des sorties en bateau du vendredi au dimanche et la boutique n’est ouverte que quelques heures le lundi. Les questions sur les certifications et les demandes de sorties s’accumulent pendant que je suis sous l’eau. Chiefy rédige des réponses avec mes tarifs, mes sites de plongée et ce qui est inclus — je les relis entre deux plongées.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Centre de plongée PADI, HI",
-      "quote": "Nous organisons des plongées, des sorties snorkeling et des observations de baleines depuis les mêmes bateaux. La variété des emails est incroyable — questions sur les certifications, réservations de groupe, locations d’équipement, vérifications météo. Duet trie tout et rédige des réponses qui font la différence. Un vrai sauveur.",
+      "quote": "Nous organisons des plongées, des sorties snorkeling et des observations de baleines depuis les mêmes bateaux. La variété des emails est incroyable — questions sur les certifications, réservations de groupe, locations d’équipement, vérifications météo. Chiefy trie tout et rédige des réponses qui font la différence. Un vrai sauveur.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Charters de plongée sur épaves, FL",
-      "quote": "La moitié de mes emails demandent « de quelle certification ai-je besoin pour les plongées sur épave ? » et l’autre moitié « ai-je besoin de mon propre équipement ? ». Duet gère les deux en automatique. Mon temps de réponse est passé de plusieurs heures à quelques minutes.",
+      "quote": "La moitié de mes emails demandent « de quelle certification ai-je besoin pour les plongées sur épave ? » et l’autre moitié « ai-je besoin de mon propre équipement ? ». Chiefy gère les deux en automatique. Mon temps de réponse est passé de plusieurs heures à quelques minutes.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Propriétaire de boutique de plongée, CA",
-      "quote": "En été, nous recevons plus de 30 emails par jour sur les cours, les disponibilités des sorties et le matériel. Je perdais des réservations au profit de boutiques qui répondaient plus vite. Maintenant, Duet rédige tout et je n’ai plus qu’à envoyer entre deux cours.",
+      "quote": "En été, nous recevons plus de 30 emails par jour sur les cours, les disponibilités des sorties et le matériel. Je perdais des réservations au profit de boutiques qui répondaient plus vite. Maintenant, Chiefy rédige tout et je n’ai plus qu’à envoyer entre deux cours.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Moniteur et guide de plongée, NC",
-      "quote": "J’enseigne des cours le matin et j’encadre des plongées l’après-midi. Je n’ai littéralement pas le temps de répondre aux e-mails. Duet a appris mon planning de cours, mes tarifs, même ma politique d’annulation. Les clients ne voient pas la différence.",
+      "quote": "J’enseigne des cours le matin et j’encadre des plongées l’après-midi. Je n’ai littéralement pas le temps de répondre aux e-mails. Chiefy a appris mon planning de cours, mes tarifs, même ma politique d’annulation. Les clients ne voient pas la différence.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Duet comprend-il les niveaux de certification et les prérequis des cours ?",
-      "answer": "Oui. Duet apprend vos cours spécifiques — Open Water, Advanced, Rescue, Divemaster — ainsi que les prérequis, la durée, les tarifs et ce qui est inclus. Quand quelqu’un demande comment se faire certifier, Duet rédige une réponse avec les bons détails du cours, le planning et les prochaines étapes. Vous relisez et envoyez."
+      "question": "Chiefy comprend-il les niveaux de certification et les prérequis des cours ?",
+      "answer": "Oui. Chiefy apprend vos cours spécifiques — Open Water, Advanced, Rescue, Divemaster — ainsi que les prérequis, la durée, les tarifs et ce qui est inclus. Quand quelqu’un demande comment se faire certifier, Chiefy rédige une réponse avec les bons détails du cours, le planning et les prochaines étapes. Vous relisez et envoyez."
     },
     {
-      "question": "Je suis sur le bateau ou sous l’eau toute la journée. Puis-je utiliser Duet depuis mon téléphone ?",
-      "answer": "Oui. Duet fonctionne avec Gmail et Outlook, donc il fonctionne partout où votre e-mail fonctionne — y compris sur votre téléphone. Les brouillons apparaissent automatiquement dans votre boîte de réception. Entre deux plongées ou de retour au quai, vous relisez et envoyez en un seul tap. La plupart des exploitants de centres de plongée nous disent qu’ils économisent 1 à 2 heures de gestion d’e-mails par jour pendant la haute saison."
+      "question": "Je suis sur le bateau ou sous l’eau toute la journée. Puis-je utiliser Chiefy depuis mon téléphone ?",
+      "answer": "Oui. Chiefy fonctionne avec Gmail et Outlook, donc il fonctionne partout où votre e-mail fonctionne — y compris sur votre téléphone. Les brouillons apparaissent automatiquement dans votre boîte de réception. Entre deux plongées ou de retour au quai, vous relisez et envoyez en un seul tap. La plupart des exploitants de centres de plongée nous disent qu’ils économisent 1 à 2 heures de gestion d’e-mails par jour pendant la haute saison."
     }
   ],
   "pricingNote": "À 150 $/plongée avec un groupe de 6, une sortie économisée rembourse plus d’un an de Pro."

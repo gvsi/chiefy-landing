@@ -2,7 +2,7 @@
 title: "Sådan opretter du en interaktiv e-mailsignatur, der virker"
 description: "Lær, hvordan du opretter en interaktiv e-mailsignatur for at øge engagement, branding og kundeemner. Trin-for-trin guide til freelancere og startups"
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -126,7 +126,7 @@ En interaktiv signatur er designet til at udløse handling – et klik, et opkal
 
 Det er her, at integration af din signaturstrategi med smarte e-mail-administrationsværktøjer kan gøre en forskel. Når kundeemner begynder at klikke på det "Book et møde"-link genereret af din fantastiske signatur, har du brug for et system til at håndtere den efterfølgende planlægning og kommunikation problemfrit. På samme måde er det nøglen til at opbygge relationer at opretholde den professionelle tone, som din signatur sætter i hver opfølgende e-mail.
 
-Værktøjer designet til e-mail-produktivitet, såsom [Duet Mail](https://duetmail.com/da), kan hjælpe med at bygge bro over dette hul. Forestil dig at få AI-hjælp til at udarbejde hurtige, personlige svar, der bevarer din unikke stemme, efter at nogen interagerer med din signaturs CTA. Duet Mail s funktioner som **AI Triage** kan hjælpe med at vise vigtige svar genereret fra signaturinteraktioner, mens dens **Autentiske AI Drafting** sikrer, at dine opfølgninger lyder ligesom dig, og bevarer den professionalisme, som dine signaturprojekter bevarer. Det forvandler engagementet fra din signatur til veladministrerede, produktive samtaler.
+Værktøjer designet til e-mail-produktivitet, såsom [Chiefy](https://chiefy.com/da), kan hjælpe med at bygge bro over dette hul. Forestil dig at få AI-hjælp til at udarbejde hurtige, personlige svar, der bevarer din unikke stemme, efter at nogen interagerer med din signaturs CTA. Chiefy s funktioner som **AI Triage** kan hjælpe med at vise vigtige svar genereret fra signaturinteraktioner, mens dens **Autentiske AI Drafting** sikrer, at dine opfølgninger lyder ligesom dig, og bevarer den professionalisme, som dine signaturprojekter bevarer. Det forvandler engagementet fra din signatur til veladministrerede, produktive samtaler.
 
 ## Klar til at aktivere din signatur?
 

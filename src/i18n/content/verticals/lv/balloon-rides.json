@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail lidojumiem ar gaisa balonu | AI e-pasta asistents",
-  "metaDescription": "Duet Mail palīdz gaisa balonu pilotiem nekavējoties atbildēt uz rezervācijas e-pastiem — pat saullēkta lidojumu laikā. AI sagatavotas atbildes ar jūsu cenām, laikapstākļu politikām un balsi.",
+  "pageTitle": "Chiefy lidojumiem ar gaisa balonu | AI e-pasta asistents",
+  "metaDescription": "Chiefy palīdz gaisa balonu pilotiem nekavējoties atbildēt uz rezervācijas e-pastiem — pat saullēkta lidojumu laikā. AI sagatavotas atbildes ar jūsu cenām, laikapstākļu politikām un balsi.",
   "heroBadge": "Uzticas 200+ gaisa balonu piloti",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat gaisā",
-  "heroSubline": "Duet apgūst jūsu lidojumu grafikus, cenas un laikapstākļu politikas — pēc tam sagatavo e-pasta atbildes, lai jūs nezaudētu nevienu rezervāciju, kamēr startējat saullēktā.",
+  "heroSubline": "Chiefy apgūst jūsu lidojumu grafikus, cenas un laikapstākļu politikas — pēc tam sagatavo e-pasta atbildes, lai jūs nezaudētu nevienu rezervāciju, kamēr startējat saullēktā.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lidojums",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Viens saglabāts lidojums apmaksā Duet uz gadu."
+    "punchline": "Viens saglabāts lidojums apmaksā Chiefy uz gadu."
   },
-  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus par laikapstākļiem, bet troksni — nekad. Vairs nekādu nokavētu lidojuma pieprasījumu, kas pazudis starp jaunumu vēstulēm.",
-  "draftSubtitle": "Duet apgūst jūsu cenas, laikapstākļu politikas un toni. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar lidojuma informāciju, tikšanās vietu un ieteikumiem, ko vilkt. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Kas ir rītdienas pasažieru sarakstā?\" \"Vai ir laikapstākļu dēļ atcelti lidojumi, kas jāpārceļ?\" Duet pārzina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Chiefy automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervācijas pieprasījumus, pēc tam jautājumus par laikapstākļiem, bet troksni — nekad. Vairs nekādu nokavētu lidojuma pieprasījumu, kas pazudis starp jaunumu vēstulēm.",
+  "draftSubtitle": "Chiefy apgūst jūsu cenas, laikapstākļu politikas un toni. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar lidojuma informāciju, tikšanās vietu un ieteikumiem, ko vilkt. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kas ir rītdienas pasažieru sarakstā?\" \"Vai ir laikapstākļu dēļ atcelti lidojumi, kas jāpārceļ?\" Chiefy pārzina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Mike L.",
       "title": "Gaisa balona pilots, MN",
-      "quote": "Es strādāju viens — lidoju, palīdzu komandā, atbildu uz e-pastiem. Izņemot 5 no rīta, kad es piepildu balonu, nevis atbildu. Duet pa nakti sagatavo atbildes uz katru “vai rīt lidosim?” ziņu. Es pamostos, pārbaudu laikapstākļus un nospiežu sūtīt.",
+      "quote": "Es strādāju viens — lidoju, palīdzu komandā, atbildu uz e-pastiem. Izņemot 5 no rīta, kad es piepildu balonu, nevis atbildu. Chiefy pa nakti sagatavo atbildes uz katru “vai rīt lidosim?” ziņu. Es pamostos, pārbaudu laikapstākļus un nospiežu sūtīt.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "Year-Round Balloon Tours, UT",
-      "quote": "Mēs katru dienu saņemam vienus un tos pašus 10 jautājumus. Ko vilkt, kur satikties, kas notiek, ja ir vējains. Duet to visu apguva un tagad sagatavo perfektas atbildes. No stundas e-pastiem katru vakaru nonācām līdz piecām minūtēm.",
+      "quote": "Mēs katru dienu saņemam vienus un tos pašus 10 jautājumus. Ko vilkt, kur satikties, kas notiek, ja ir vējains. Chiefy to visu apguva un tagad sagatavo perfektas atbildes. No stundas e-pastiem katru vakaru nonācām līdz piecām minūtēm.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Saullēkta lidojumu operators, AZ",
-      "quote": "Sezonas maksimumā ir 4-6 lidojumi nedēļā, un katrs pasažieris pirms lidojuma raksta vismaz divreiz. Duet apstrādā jautājumus pirms lidojuma, lai es varētu koncentrēties uz to, lai cilvēkiem sniegtu labāko rītu viņu dzīvē.",
+      "quote": "Sezonas maksimumā ir 4-6 lidojumi nedēļā, un katrs pasažieris pirms lidojuma raksta vismaz divreiz. Chiefy apstrādā jautājumus pirms lidojuma, lai es varētu koncentrēties uz to, lai cilvēkiem sniegtu labāko rītu viņu dzīvē.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Gaisa balonu uzņēmuma līdzīpašniece, NM",
-      "quote": "Laikapstākļu dēļ atcelti lidojumi agrāk sabojāja visu manu dienu — 8 pasažieriem visiem vajadzēja personīgus e-pastus par pārcelšanu. Tagad Duet sagatavo katru no tiem ar iekļautu mūsu pārrezervācijas politiku. Atcelšanas rītos tas ietaupa man stundas.",
+      "quote": "Laikapstākļu dēļ atcelti lidojumi agrāk sabojāja visu manu dienu — 8 pasažieriem visiem vajadzēja personīgus e-pastus par pārcelšanu. Tagad Chiefy sagatavo katru no tiem ar iekļautu mūsu pārrezervācijas politiku. Atcelšanas rītos tas ietaupa man stundas.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Gaisa balonu lidojumu operācijas, CO",
-      "quote": "Bildinājumu lidojumiem vajag ļoti daudz saskaņošanas turp un atpakaļ. Duet saprata, kā mēs tos organizējam — laiku, kodvārdus, šampanieša sagatavošanu. Tas sagatavo atbildes, kurām man gandrīz nav jāpieskaras.",
+      "quote": "Bildinājumu lidojumiem vajag ļoti daudz saskaņošanas turp un atpakaļ. Chiefy saprata, kā mēs tos organizējam — laiku, kodvārdus, šampanieša sagatavošanu. Tas sagatavo atbildes, kurām man gandrīz nav jāpieskaras.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet savu iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Kā Duet apstrādā e-pastus par atcelšanu laikapstākļu dēļ?",
-      "answer": "Duet apgūst jūsu atcelšanas un pārrezervācijas politikas. Kad atceļat lidojumu laikapstākļu dēļ, tas var sagatavot personalizētus e-pastus par pārcelšanu katram skartajam pasažierim — ar jūsu politiku, pieejamajiem datumiem un jūsu toni. Jūs pārskatāt un nosūtāt. Tas, kas agrāk prasīja stundu individuālu atbilžu, tagad aizņem minūtes."
+      "question": "Kā Chiefy apstrādā e-pastus par atcelšanu laikapstākļu dēļ?",
+      "answer": "Chiefy apgūst jūsu atcelšanas un pārrezervācijas politikas. Kad atceļat lidojumu laikapstākļu dēļ, tas var sagatavot personalizētus e-pastus par pārcelšanu katram skartajam pasažierim — ar jūsu politiku, pieejamajiem datumiem un jūsu toni. Jūs pārskatāt un nosūtāt. Tas, kas agrāk prasīja stundu individuālu atbilžu, tagad aizņem minūtes."
     },
     {
-      "question": "Vai Duet var apstrādāt “vai rīt lidosim?” e-pastus, kas katru vakaru ienāk lielā skaitā?",
-      "answer": "Jā — tas ir viens no biežākajiem e-pastiem, par ko mums stāsta gaisa balonu operatori. Duet apgūst jūsu laikapstākļu politikas un sagatavo mierinošas atbildes, kas izskaidro jūsu lēmumu pieņemšanas procesu, kad pieņemsiet galīgo lēmumu un ko sagaidīt. Kad no rīta apstiprināt lidojumu vai tā atcelšanu, tas var sagatavot atjauninājumus visiem pasažieru sarakstā."
+      "question": "Vai Chiefy var apstrādāt “vai rīt lidosim?” e-pastus, kas katru vakaru ienāk lielā skaitā?",
+      "answer": "Jā — tas ir viens no biežākajiem e-pastiem, par ko mums stāsta gaisa balonu operatori. Chiefy apgūst jūsu laikapstākļu politikas un sagatavo mierinošas atbildes, kas izskaidro jūsu lēmumu pieņemšanas procesu, kad pieņemsiet galīgo lēmumu un ko sagaidīt. Kad no rīta apstiprināt lidojumu vai tā atcelšanu, tas var sagatavot atjauninājumus visiem pasažieru sarakstā."
     }
   ],
   "pricingNote": "Pie $250 par personu un 4 pasažieriem vienā lidojumā viena nezaudēta rezervācija sedz vairāk nekā gada Pro izmaksas."

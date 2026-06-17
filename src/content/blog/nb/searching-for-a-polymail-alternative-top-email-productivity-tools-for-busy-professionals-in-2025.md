@@ -1,8 +1,8 @@
 ---
 title: "Ser du etter et Polymail-alternativ? Topp verktoy for e-postproduktivitet i 2025"
-description: "Ser du etter et Polymail-alternativ? Sammenlign Superhuman, Missive, Spark, Shortwave og Duet Mail for AI-basert e-postproduktivitet."
+description: "Ser du etter et Polymail-alternativ? Sammenlign Superhuman, Missive, Spark, Shortwave og Chiefy for AI-basert e-postproduktivitet."
 publishedAt: 2025-08-21
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Produktivitet", "Verktoy", "E-post"]
 draft: false
 ---
@@ -36,9 +36,9 @@ Hvis innboksen foles som en tredemolle du aldri kommer av, kan det være på tid
 
 [Shortwave](https://www.shortwave.com/) er særlig interessant for Gmail-brukere som vil organisere e-post som oppgaver. AI-funksjonene dekker oppsummering, utkast og naturlig språk-sok.
 
-### **Duet Mail**
+### **Chiefy**
 
-[**Duet Mail**](https://duetmail.com/nb) passer hvis du vil beholde Gmail, men legge til AI Triage, oppsummering og autentiske utkast. I stedet for å bytte hele e-postklienten får du hjelp til å finne, forstå og svare på det viktigste.
+[**Chiefy**](https://chiefy.com/nb) passer hvis du vil beholde Gmail, men legge til AI Triage, oppsummering og autentiske utkast. I stedet for å bytte hele e-postklienten får du hjelp til å finne, forstå og svare på det viktigste.
 
 ## Rask sammenligning
 
@@ -48,8 +48,8 @@ Hvis innboksen foles som en tredemolle du aldri kommer av, kan det være på tid
 | Missive | Team | Samarbeid |
 | Spark Mail | Bred produktivitet | Smart innboks og AI |
 | Shortwave | Gmail-brukere | Organisering |
-| Duet Mail | Travle Gmail-brukere | AI Triage og autentiske utkast |
+| Chiefy | Travle Gmail-brukere | AI Triage og autentiske utkast |
 
 ## Konklusjon
 
-Det beste Polymail-alternativet avhenger av problemet du prover å lose. Hvis du trenger samarbeid, se på Missive. Hvis du trenger en rask premiumklient, vurder Superhuman. Hvis du vil beholde Gmail og bruke AI til prioritering og svar, er [**Duet Mail**](https://duetmail.com/nb) et naturlig valg.
+Det beste Polymail-alternativet avhenger av problemet du prover å lose. Hvis du trenger samarbeid, se på Missive. Hvis du trenger en rask premiumklient, vurder Superhuman. Hvis du vil beholde Gmail og bruke AI til prioritering og svar, er [**Chiefy**](https://chiefy.com/nb) et naturlig valg.

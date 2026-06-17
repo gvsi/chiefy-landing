@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail för luftballongturer | AI-e-postassistent",
-  "metaDescription": "Duet Mail hjälper ballongpiloter att svara på bokningsmeddelanden omedelbart – även under soluppgångsflyg. AI-utkastade svar med din prissättning, väderpolicy och röst.",
+  "pageTitle": "Chiefy för luftballongturer | AI-e-postassistent",
+  "metaDescription": "Chiefy hjälper ballongpiloter att svara på bokningsmeddelanden omedelbart – även under soluppgångsflyg. AI-utkastade svar med din prissättning, väderpolicy och röst.",
   "heroBadge": "Betrodd av 200+ ballongpiloter",
   "heroHeadline": "Din e-postassistent när du är i luften",
-  "heroSubline": "Duet lär sig dina flygscheman, prissättning och väderpolicyer – förbereder sedan e-postsvar så att du aldrig förlorar en bokning medan du startar vid soluppgången.",
+  "heroSubline": "Chiefy lär sig dina flygscheman, prissättning och väderpolicyer – förbereder sedan e-postsvar så att du aldrig förlorar en bokning medan du startar vid soluppgången.",
   "inboxEmails": [
     {
       "from": "Rachel och Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "flygning",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Ett sparat flyg betalar för ett år av Duet."
+    "punchline": "Ett sparat flyg betalar för ett år av Chiefy."
   },
-  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, väderfrågor i andra hand och aldrig buller. Saknar inte längre en flygförfrågan begravd under nyhetsbrevsvarningar.",
-  "draftSubtitle": "Duet lär sig din prissättning, väderpolicy och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med flyginformation, mötesinformation och vad man ska ha på sig. Du granskar och skickar.",
-  "agentSubtitle": "\"Vem står på morgondagens manifest?\" \"Några väderinställelser att schemalägga?\"Duet känner till din inkorg och kalender — fråga bara.",
+  "categorizationSubtitle": "Chiefy taggar automatiskt varje e-postmeddelande så att du ser bokningsförfrågningar först, väderfrågor i andra hand och aldrig buller. Saknar inte längre en flygförfrågan begravd under nyhetsbrevsvarningar.",
+  "draftSubtitle": "Chiefy lär sig din prissättning, väderpolicy och ton. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med flyginformation, mötesinformation och vad man ska ha på sig. Du granskar och skickar.",
+  "agentSubtitle": "\"Vem står på morgondagens manifest?\" \"Några väderinställelser att schemalägga?\"Chiefy känner till din inkorg och kalender — fråga bara.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Mike L.",
       "title": "Ballongpilot, MN",
-      "quote": "Jag är en enmansoperation — jag flyger, jag besättning, jag svarar på e-post. Förutom klockan 05.00 blåser jag upp, svarar inte. Duet skriver utkast till svar på varje \"ska vi flyga imorgon?\" meddelande över natten. Jag vaknar, kollar vädret och trycker på skicka.",
+      "quote": "Jag är en enmansoperation — jag flyger, jag besättning, jag svarar på e-post. Förutom klockan 05.00 blåser jag upp, svarar inte. Chiefy skriver utkast till svar på varje \"ska vi flyga imorgon?\" meddelande över natten. Jag vaknar, kollar vädret och trycker på skicka.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon och Jake B.",
       "title": "Ballongturer året runt, UT",
-      "quote": "Vi får samma 10 frågor varje dag. Vad man ska ha på sig, var man ska träffas, tänk om det blåser. Duet har lärt sig allt och ger nu perfekta svar. Vi gick från en timmes mejl varje kväll till fem minuter.",
+      "quote": "Vi får samma 10 frågor varje dag. Vad man ska ha på sig, var man ska träffas, tänk om det blåser. Chiefy har lärt sig allt och ger nu perfekta svar. Vi gick från en timmes mejl varje kväll till fem minuter.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Sunrise Flight Operator, AZ",
-      "quote": "Högsäsong innebär 4-6 flygningar i veckan och varje passagerare mailar minst två gånger före flygningen. Duet hanterar frågorna före flygningen så att jag kan fokusera på att ge människor den bästa morgonen i sina liv.",
+      "quote": "Högsäsong innebär 4-6 flygningar i veckan och varje passagerare mailar minst två gånger före flygningen. Chiefy hanterar frågorna före flygningen så att jag kan fokusera på att ge människor den bästa morgonen i sina liv.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Balloon Company delägare, NM",
-      "quote": "Väderavbrott brukade förstöra hela min dag – 8 passagerare som alla behöver personliga e-postmeddelanden om schemaläggning. Nu utarbetar Duet alla med vår ombokningspolicy inkluderad. Sparar mig timmar på avbokningsmorgnar.",
+      "quote": "Väderavbrott brukade förstöra hela min dag – 8 passagerare som alla behöver personliga e-postmeddelanden om schemaläggning. Nu utarbetar Chiefy alla med vår ombokningspolicy inkluderad. Sparar mig timmar på avbokningsmorgnar.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Balloon Ride Operations, CO",
-      "quote": "Frieriflygningar behöver så mycket koordinering fram och tillbaka. Duet fick reda på hur vi hanterar dem - timingen, kodorden, champagneupplägget. Den skapar svar som jag knappt behöver röra.",
+      "quote": "Frieriflygningar behöver så mycket koordinering fram och tillbaka. Chiefy fick reda på hur vi hanterar dem - timingen, kodorden, champagneupplägget. Den skapar svar som jag knappt behöver röra.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Hur hanterar Duet mejl om väderavbokningar?",
-      "answer": "Duet lär sig dina avboknings- och ombokningspolicyer. När du ställer in ett flyg på grund av vädret kan det skapa personliga e-postmeddelanden om ombokning till alla berörda passagerare – med din policy, tillgängliga datum och din ton. Du granskar och skickar. Det som brukade ta en timmes individuella svar tar minuter."
+      "question": "Hur hanterar Chiefy mejl om väderavbokningar?",
+      "answer": "Chiefy lär sig dina avboknings- och ombokningspolicyer. När du ställer in ett flyg på grund av vädret kan det skapa personliga e-postmeddelanden om ombokning till alla berörda passagerare – med din policy, tillgängliga datum och din ton. Du granskar och skickar. Det som brukade ta en timmes individuella svar tar minuter."
     },
     {
-      "question": "Kan Duet hantera \"ska vi flyga imorgon?\" mejl som strömmar in varje kväll?",
-      "answer": "Ja — det här är en av de vanligaste mejlen som ballongoperatörer berättar om. Duet lär sig dina väderpolicyer och utkast till lugnande svar som förklarar din beslutsprocess, när du ska ringa det sista samtalet och vad du kan förvänta dig. När du har bekräftat go/no-go på morgonen kan den skapa utkast till uppdateringar till alla på manifestet."
+      "question": "Kan Chiefy hantera \"ska vi flyga imorgon?\" mejl som strömmar in varje kväll?",
+      "answer": "Ja — det här är en av de vanligaste mejlen som ballongoperatörer berättar om. Chiefy lär sig dina väderpolicyer och utkast till lugnande svar som förklarar din beslutsprocess, när du ska ringa det sista samtalet och vad du kan förvänta dig. När du har bekräftat go/no-go på morgonen kan den skapa utkast till uppdateringar till alla på manifestet."
     }
   ],
   "pricingNote": "För $250/person med 4 passagerare per flyg, betalar en sparad bokning för över ett år av Pro."

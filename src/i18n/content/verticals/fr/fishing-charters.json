@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail pour les sorties de pêche | Assistant email IA",
-  "metaDescription": "Duet Mail aide les capitaines de sorties de pêche à répondre instantanément aux e-mails de réservation — même depuis l’eau. Des réponses rédigées par l’IA avec vos tarifs, vos conditions et votre ton.",
+  "pageTitle": "Chiefy pour les sorties de pêche | Assistant email IA",
+  "metaDescription": "Chiefy aide les capitaines de sorties de pêche à répondre instantanément aux e-mails de réservation — même depuis l’eau. Des réponses rédigées par l’IA avec vos tarifs, vos conditions et votre ton.",
   "heroBadge": "Approuvé par plus de 500 capitaines de sorties",
   "heroHeadline": "Votre assistant email pendant que vous êtes sur l’eau",
-  "heroSubline": "Duet apprend vos tarifs, vos conditions et votre ton, puis rédige vos réponses par e-mail pour que vous ne perdiez jamais une réservation à cause d’une réponse trop lente.",
+  "heroSubline": "Chiefy apprend vos tarifs, vos conditions et votre ton, puis rédige vos réponses par e-mail pour que vous ne perdiez jamais une réservation à cause d’une réponse trop lente.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "sortie de pêche",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Une réservation enregistrée suffit à payer un an de Duet."
+    "punchline": "Une réservation enregistrée suffit à payer un an de Chiefy."
   },
-  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail pour que vous voyiez d’abord les demandes de réservation, puis les questions, et jamais le bruit parasite. Fini les demandes de sortie de pêche perdues sous les alertes TripAdvisor.",
-  "draftSubtitle": "Duet apprend vos tarifs, vos conditions et votre ton. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails de la sortie, les tarifs et ce qu’il faut apporter. Vous relisez et envoyez.",
-  "agentSubtitle": "« Quels jours sont disponibles la semaine prochaine ? » « Rédige une réponse à Sarah avec les disponibilités. » Duet connaît votre boîte de réception et votre calendrier — demandez-lui simplement.",
+  "categorizationSubtitle": "Chiefy classe automatiquement chaque e-mail pour que vous voyiez d’abord les demandes de réservation, puis les questions, et jamais le bruit parasite. Fini les demandes de sortie de pêche perdues sous les alertes TripAdvisor.",
+  "draftSubtitle": "Chiefy apprend vos tarifs, vos conditions et votre ton. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails de la sortie, les tarifs et ce qu’il faut apporter. Vous relisez et envoyez.",
+  "agentSubtitle": "« Quels jours sont disponibles la semaine prochaine ? » « Rédige une réponse à Sarah avec les disponibilités. » Chiefy connaît votre boîte de réception et votre calendrier — demandez-lui simplement.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Captain Mike D.",
       "title": "Capitaine de charter au large, FL",
-      "quote": "En pleine saison, je perdais 2 à 3 réservations par semaine simplement parce que je ne pouvais pas répondre assez vite depuis le bateau. Duet rédige des réponses avec mes tarifs et les détails de la sortie — je n’ai plus qu’à envoyer entre deux prises.",
+      "quote": "En pleine saison, je perdais 2 à 3 réservations par semaine simplement parce que je ne pouvais pas répondre assez vite depuis le bateau. Chiefy rédige des réponses avec mes tarifs et les détails de la sortie — je n’ai plus qu’à envoyer entre deux prises.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Entreprise familiale de charter, OR",
-      "quote": "Nous faisons tourner deux bateaux et le volume d’e-mails pendant l’été est énorme. Duet trie les demandes de réservation du reste et rédige des réponses qui nous ressemblent exactement. Une vraie révolution.",
+      "quote": "Nous faisons tourner deux bateaux et le volume d’e-mails pendant l’été est énorme. Chiefy trie les demandes de réservation du reste et rédige des réponses qui nous ressemblent exactement. Une vraie révolution.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Guide de pêche côtière, TX",
-      "quote": "Je passais une heure chaque soir à répondre aux mêmes questions sur les disponibilités. Maintenant, Duet s’en charge. Mon temps de réponse est passé de plusieurs heures à quelques minutes et je n’ai plus perdu aucune réservation depuis.",
+      "quote": "Je passais une heure chaque soir à répondre aux mêmes questions sur les disponibilités. Maintenant, Chiefy s’en charge. Mon temps de réponse est passé de plusieurs heures à quelques minutes et je n’ai plus perdu aucune réservation depuis.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Responsable du bureau de charter, HI",
-      "quote": "Gérer les e-mails de 4 capitaines était un travail à plein temps. Duet classe tout et rédige des réponses avec le bon bateau, le bon prix, le bon capitaine. C’est comme avoir une autre version de moi.",
+      "quote": "Gérer les e-mails de 4 capitaines était un travail à plein temps. Chiefy classe tout et rédige des réponses avec le bon bateau, le bon prix, le bon capitaine. C’est comme avoir une autre version de moi.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Est-ce que Duet fonctionne pour les e-mails de réservation et de disponibilité ?",
-      "answer": "Absolument. Duet apprend vos types de sorties, vos tarifs, vos disponibilités et vos politiques. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les bons détails — tarifs, ce qui est inclus, lieu de rendez-vous, quoi apporter. Vous relisez et touchez pour envoyer."
+      "question": "Est-ce que Chiefy fonctionne pour les e-mails de réservation et de disponibilité ?",
+      "answer": "Absolument. Chiefy apprend vos types de sorties, vos tarifs, vos disponibilités et vos politiques. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les bons détails — tarifs, ce qui est inclus, lieu de rendez-vous, quoi apporter. Vous relisez et touchez pour envoyer."
     },
     {
-      "question": "Je suis sur l’eau toute la journée. Puis-je utiliser Duet depuis mon téléphone ?",
-      "answer": "Oui. Duet fonctionne avec Gmail et Outlook, donc il fonctionne partout où votre e-mail fonctionne — y compris sur votre téléphone. Les brouillons apparaissent automatiquement. Entre deux prises, vous relisez et envoyez en un seul geste. La plupart des capitaines nous disent qu’il leur fait gagner 1 à 2 heures de temps passé aux e-mails par jour pendant la haute saison."
+      "question": "Je suis sur l’eau toute la journée. Puis-je utiliser Chiefy depuis mon téléphone ?",
+      "answer": "Oui. Chiefy fonctionne avec Gmail et Outlook, donc il fonctionne partout où votre e-mail fonctionne — y compris sur votre téléphone. Les brouillons apparaissent automatiquement. Entre deux prises, vous relisez et envoyez en un seul geste. La plupart des capitaines nous disent qu’il leur fait gagner 1 à 2 heures de temps passé aux e-mails par jour pendant la haute saison."
     }
   ],
   "pricingNote": "À 500 $/charter, une seule réservation gagnée suffit à payer plus d’un an de Pro."

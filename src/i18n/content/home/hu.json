@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI e-mail asszisztens Gmail és Outlook számára",
-    "description": "A Duet Mail mesterséges intelligencia e-mail-asszisztense összefoglalja az e-maileket, válaszvázlatokat készít, és rendszerezi a beérkező leveleket. Működik a Gmail és Outlook jelekkel. Takarítson meg heti 4+ órát."
+    "title": "Chiefy | AI e-mail asszisztens Gmail és Outlook számára",
+    "description": "A Chiefy mesterséges intelligencia e-mail-asszisztense összefoglalja az e-maileket, válaszvázlatokat készít, és rendszerezi a beérkező leveleket. Működik a Gmail és Outlook jelekkel. Takarítson meg heti 4+ órát."
   },
   "hero": {
     "badge": "Már elérhető a Gmail és a Outlook számára",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "E-mail piszkozatok, amelyek úgy hangzanak, mint Ön",
-        "description": "A Duet AI e-mail író piszkozatokat készít a legfontosabb e-mailjeihez. Megtanulja a hangnemét és az írási stílusát.",
+        "description": "A Chiefy AI e-mail író piszkozatokat készít a legfontosabb e-mailjeihez. Megtanulja a hangnemét és az írási stílusát.",
         "ariaLabel": "E-mail piszkozatok, amelyek úgy hangzanak, mint Ön",
         "mockCopy": {
           "draftedColdEmail": "Készítettem egy Johnnak személyre szabott hideg e-mailt",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligens emlékeztetők",
-        "description": "Állítsd be és felejtsd el. A Duet AI eszébe jut, hogy utánajárjon, ha mások nem válaszolnak, így semmi sem esik ki.",
+        "description": "Állítsd be és felejtsd el. A Chiefy AI eszébe jut, hogy utánajárjon, ha mások nem válaszolnak, így semmi sem esik ki.",
         "ariaLabel": "Intelligens emlékeztetők",
         "mockCopy": {
           "header": "AI-alapú intelligens emlékeztetők",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "E-mail rendszerezés és intelligens beérkező levelek kategorizálása",
     "badge": "Szervezet",
-    "title": "A Duet rendszerezi a beérkező leveleket",
+    "title": "A Chiefy rendszerezi a beérkező leveleket",
     "subtitle": "Az automatikus kategorizálás kiszűri a zajt, és rávilágít arra, ami számít. Azonnal láthatja, mi az, ami cselekvésre szorul, mi az, ami csak tájékoztató jellegű, és mi várhat.",
     "windowTitle": "Beérkezett üzenetek",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI e-mail-szerkesztés és válaszgenerálás",
     "badge": "Tervezés",
-    "title": "Duet piszkozatok a hangodban",
-    "subtitle": "A Duet megtanulja, hogyan írjon, és az Ön hangnemének megfelelő válaszokat készít. Tekintse át, módosítsa, ha szükséges, és küldje el másodpercek alatt.",
+    "title": "Chiefy piszkozatok a hangodban",
+    "subtitle": "A Chiefy megtanulja, hogyan írjon, és az Ön hangnemének megfelelő válaszokat készít. Tekintse át, módosítsa, ha szükséges, és küldje el másodpercek alatt.",
     "windowTitle": "Új üzenet",
     "fieldLabels": {
       "to": "Címzett:",
@@ -253,7 +253,7 @@
     "badge": "Intelligencia",
     "title": "Kérdezz bármit az e-maileddel kapcsolatban",
     "subtitle": "Kérje meg a Duetet, hogy keresse meg az e-maileket, ellenőrizze a naptárát, vagy válaszvázlatot készítsen. Megérti a beérkezett üzeneteket, és azonnal válaszol.",
-    "windowTitle": "Duet ügynök",
+    "windowTitle": "Chiefy ügynök",
     "onlineLabel": "Online",
     "initialUserMessage": "Megtalálod a Számvitel által küldött Stripe számlát?",
     "processingText": "Keresés a beérkező levelek között...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Szabadúszó",
-        "quote": "Minden fillért megér. Az e-mailen megspórolt idő tízszeresével fizet Duet Mail-ért. Nem tudom elképzelni a munkát nélküle.",
+        "quote": "Minden fillért megér. Az e-mailen megspórolt idő tízszeresével fizet Chiefy-ért. Nem tudom elképzelni a munkát nélküle.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Tanácsadó",
-        "quote": "Tanácsadóként minden perc számít. A Duet Mail nem csak időt takarít meg, hanem élesebbé teszi az e-mail kommunikációmat.",
+        "quote": "Tanácsadóként minden perc számít. A Chiefy nem csak időt takarít meg, hanem élesebbé teszi az e-mail kommunikációmat.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Alapvető szervezés a kezdéshez"
           },
           {
-            "title": "Duet asszisztens",
+            "title": "Chiefy asszisztens",
             "description": "Próbáld ki az AI-asszisztenst"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet asszisztens",
+            "title": "Chiefy asszisztens",
             "description": "Csevegés kereshet, tervezhet, rendszerezhet stb",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "ÉRINTKEZÉS",
     "contactHeading": "Van még kérdése?",
     "contactCta": "Vegye fel a kapcsolatot →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "GYIK",
     "expandLabel": "[+]",
     "collapseLabel": "[-]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Hogyan védi Duet Mail az e-mail adataimat?",
+        "question": "Hogyan védi Chiefy az e-mail adataimat?",
         "answer": "Az Ön biztonsága a legfontosabb számunkra. A OAuth 2.0-t használjuk a biztonságos hitelesítéshez mind a Google, mind a Microsoft esetében. Az e-mail tartalmakat nyugalmi állapotban kliensoldali mezőszintű titkosítással titkosítjuk, és az API-hozzáféréshez a legkisebb jogosultság elvét követjük. A Google integrációhoz alávetjük a Google éves CASA biztonsági értékelését."
       },
       {
         "question": "Hogyan működik az e-mail-összefoglaló funkció?",
-        "answer": "A Duet Mail fejlett mesterséges intelligencia segítségével elemzi az e-mail szálakat, és tömör áttekintést készít, kiemelve a legfontosabb pontokat, döntéseket és műveleteket. Ez segít a szövegkörnyezet gyors megértésében a teljes szál elolvasása nélkül."
+        "answer": "A Chiefy fejlett mesterséges intelligencia segítségével elemzi az e-mail szálakat, és tömör áttekintést készít, kiemelve a legfontosabb pontokat, döntéseket és műveleteket. Ez segít a szövegkörnyezet gyors megértésében a teljes szál elolvasása nélkül."
       },
       {
-        "question": "Milyen engedélyekre van szüksége a Duet Mail-nek?",
-        "answer": "A Duet Mail hozzáférést igényel az Ön e-mailjeihez, hogy összefoglalókat tudjon készíteni, műveletelemeket bontsa ki, tartalmat generáljon és elküldje e-mailjeit. Csak olyan engedélyeket kérünk, amelyekre feltétlenül szükségünk van. Ezeket az engedélyeket bármikor áttekintheti és visszavonhatja a Google Account vagy Microsoft Account beállításaiban."
+        "question": "Milyen engedélyekre van szüksége a Chiefy-nek?",
+        "answer": "A Chiefy hozzáférést igényel az Ön e-mailjeihez, hogy összefoglalókat tudjon készíteni, műveletelemeket bontsa ki, tartalmat generáljon és elküldje e-mailjeit. Csak olyan engedélyeket kérünk, amelyekre feltétlenül szükségünk van. Ezeket az engedélyeket bármikor áttekintheti és visszavonhatja a Google Account vagy Microsoft Account beállításaiban."
       },
       {
         "question": "Mit tartalmaz az ingyenes próbaverzió?",
         "answer": "A 14 napos ingyenes próbaverzió teljes hozzáférést biztosít a Pro összes funkciójához: korlátlan számú e-mail-összefoglalóhoz, műveletelemek kibontásához, mesterséges intelligencia e-mail íróhoz (korlátlanul generál e-maileket és piszkozatokat) és egyéni e-mail sablonokhoz. Jelentkezzen be a Google vagy Microsoft fiókkal, hogy időt takarítson meg az e-mail kezeléssel."
       },
       {
-        "question": "Használhatom a Duet Mail-t más e-mail szolgáltatókkal?",
-        "answer": "A Duet Mail támogatja a Gmail, Google Workspace és Microsoft Outlook fájlokat. A kezdéshez jelentkezzen be Google vagy Microsoft fiókjával."
+        "question": "Használhatom a Chiefy-t más e-mail szolgáltatókkal?",
+        "answer": "A Chiefy támogatja a Gmail, Google Workspace és Microsoft Outlook fájlokat. A kezdéshez jelentkezzen be Google vagy Microsoft fiókjával."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Webhely lábléce",
-    "brandIconAlt": "Duet Mail ikonra",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail – A mesterséges intelligencia e-mail asszisztense, amely minden héten órákat takarít meg",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Chiefy ikonra",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Fedezze fel",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "A befektetés megtérülése",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "{pricePerBooking} per {bookingUnit}, csak {lostPerMonth} veszteség a lassú válaszok miatt =",
     "lossSuffix": "/hó veszteség",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet – AI e-mail asszisztens Gmail és Outlook számára",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy – AI e-mail asszisztens Gmail és Outlook számára",
+    "organizationName": "Chiefy",
     "organizationContactType": "Ügyfélszolgálat",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI e-mail asszisztens a Gmail és Outlook számára, amely automatikusan összefoglalja az e-maileket, az Ön hangjával megvázolja a válaszokat, és rendszerezi a beérkező leveleket, hogy órákat takarítson meg minden héten.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Web",
     "browserRequirements": "JavaScript szükséges. Működik a Gmail, Google Workspace és Microsoft Outlook jelekkel.",
     "urls": {
-      "site": "https://duetmail.com/hu",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Hogyan védi Duet Mail az e-mail adataimat?",
+        "question": "Hogyan védi Chiefy az e-mail adataimat?",
         "answer": "Az Ön biztonsága a legfontosabb számunkra. A OAuth 2.0-t használjuk a biztonságos hitelesítéshez mind a Google, mind a Microsoft esetében. Az e-mail tartalmakat nyugalmi állapotban kliensoldali mezőszintű titkosítással titkosítjuk, és az API-hozzáféréshez a legkisebb jogosultság elvét követjük. A Google integrációhoz alávetjük a Google éves CASA biztonsági értékelését."
       },
       {
         "question": "Hogyan működik az e-mail-összefoglaló funkció?",
-        "answer": "A Duet Mail fejlett mesterséges intelligencia segítségével elemzi az e-mail szálakat, és tömör áttekintést készít, kiemelve a legfontosabb pontokat, döntéseket és műveleteket. Ez segít a szövegkörnyezet gyors megértésében a teljes szál elolvasása nélkül."
+        "answer": "A Chiefy fejlett mesterséges intelligencia segítségével elemzi az e-mail szálakat, és tömör áttekintést készít, kiemelve a legfontosabb pontokat, döntéseket és műveleteket. Ez segít a szövegkörnyezet gyors megértésében a teljes szál elolvasása nélkül."
       },
       {
-        "question": "Milyen engedélyekre van szüksége a Duet Mail-nek?",
-        "answer": "A Duet Mail hozzáférést igényel az Ön e-mailjeihez, hogy összefoglalókat tudjon készíteni, műveletelemeket bontsa ki, tartalmat generáljon és elküldje e-mailjeit. Csak olyan engedélyeket kérünk, amelyekre feltétlenül szükségünk van. Ezeket az engedélyeket bármikor áttekintheti és visszavonhatja a Google Account vagy Microsoft Account beállításaiban."
+        "question": "Milyen engedélyekre van szüksége a Chiefy-nek?",
+        "answer": "A Chiefy hozzáférést igényel az Ön e-mailjeihez, hogy összefoglalókat tudjon készíteni, műveletelemeket bontsa ki, tartalmat generáljon és elküldje e-mailjeit. Csak olyan engedélyeket kérünk, amelyekre feltétlenül szükségünk van. Ezeket az engedélyeket bármikor áttekintheti és visszavonhatja a Google Account vagy Microsoft Account beállításaiban."
       },
       {
         "question": "Mit tartalmaz az ingyenes próbaverzió?",
         "answer": "A 14 napos ingyenes próbaverzió teljes hozzáférést biztosít a Pro összes funkciójához: korlátlan számú e-mail-összefoglalóhoz, műveletelemek kibontásához, mesterséges intelligencia e-mail íróhoz (korlátlanul generál e-maileket és piszkozatokat) és egyéni e-mail sablonokhoz. Jelentkezzen be a Google vagy Microsoft fiókkal, hogy időt takarítson meg az e-mail kezeléssel."
       },
       {
-        "question": "Használhatom a Duet Mail-t más e-mail szolgáltatókkal?",
-        "answer": "A Duet Mail támogatja a Gmail, Google Workspace és Microsoft Outlook fájlokat. A kezdéshez jelentkezzen be Google vagy Microsoft fiókjával."
+        "question": "Használhatom a Chiefy-t más e-mail szolgáltatókkal?",
+        "answer": "A Chiefy támogatja a Gmail, Google Workspace és Microsoft Outlook fájlokat. A kezdéshez jelentkezzen be Google vagy Microsoft fiókjával."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

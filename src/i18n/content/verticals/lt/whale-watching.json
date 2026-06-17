@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail whale watching turams | DI el. pašto asistentas",
-  "metaDescription": "Duet Mail padeda banginių stebėjimo kapitonams akimirksniu atsakyti į rezervacijų el. laiškus — net būnant ant vandens. DI parengti atsakymai su jūsų turo informacija, kainomis ir stiliumi.",
+  "pageTitle": "Chiefy whale watching turams | DI el. pašto asistentas",
+  "metaDescription": "Chiefy padeda banginių stebėjimo kapitonams akimirksniu atsakyti į rezervacijų el. laiškus — net būnant ant vandens. DI parengti atsakymai su jūsų turo informacija, kainomis ir stiliumi.",
   "heroBadge": "Pasitiki 300+ turų kapitonų",
   "heroHeadline": "Jūsų el. pašto asistentas, kol ieškote banginių",
-  "heroSubline": "Duet išmoksta jūsų turų grafiką, kainas ir stilių — tada parengia el. laiškų atsakymus, kad būdami ant vandens niekada neprarastumėte rezervacijos.",
+  "heroSubline": "Chiefy išmoksta jūsų turų grafiką, kainas ir stilių — tada parengia el. laiškų atsakymus, kad būdami ant vandens niekada neprarastumėte rezervacijos.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "turo grupė",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Vienas išsaugotas grupės užsakymas padengia metų Duet kainą."
+    "punchline": "Vienas išsaugotas grupės užsakymas padengia metų Chiefy kainą."
   },
-  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, kad pirmiausia matytumėte užklausas dėl rezervacijų, antra — kruizinių laivų grafiko pakeitimus, o triukšmo — niekada. Daugiau nebereikės praleisti privataus užsakymo užklausos, paslėptos po TripAdvisor įspėjimais.",
-  "draftSubtitle": "Duet išmoksta jūsų turų laikus, kainas ir taisykles. Kai gaunama užklausa dėl rezervacijos, jis parengia pilną atsakymą su laisvomis vietomis, kas įskaičiuota ir ką pasiimti. Jūs peržiūrite ir išsiunčiate.",
-  "agentSubtitle": "\"Kiek vietų liko šeštadienio rytiniame ture?\" \"Parenk atsakymą Rachel su laisvomis vietomis.\" Duet žino jūsų gautuosius ir grafiką — tiesiog paklauskite.",
+  "categorizationSubtitle": "Chiefy automatiškai pažymi kiekvieną el. laišką, kad pirmiausia matytumėte užklausas dėl rezervacijų, antra — kruizinių laivų grafiko pakeitimus, o triukšmo — niekada. Daugiau nebereikės praleisti privataus užsakymo užklausos, paslėptos po TripAdvisor įspėjimais.",
+  "draftSubtitle": "Chiefy išmoksta jūsų turų laikus, kainas ir taisykles. Kai gaunama užklausa dėl rezervacijos, jis parengia pilną atsakymą su laisvomis vietomis, kas įskaičiuota ir ką pasiimti. Jūs peržiūrite ir išsiunčiate.",
+  "agentSubtitle": "\"Kiek vietų liko šeštadienio rytiniame ture?\" \"Parenk atsakymą Rachel su laisvomis vietomis.\" Chiefy žino jūsų gautuosius ir grafiką — tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Dave H.",
       "title": "Laukinės gamtos turų operatorius, AK",
-      "quote": "Kruizinių laivų keleiviams atsakymų reikia greitai — jie uoste turi tik 6 valandas. Anksčiau prarasdavau privačius užsakymus, nes užklausa ateidavo, kai būdavau ant vandens. Dabar Duet parengia atsakymus su mano kainomis ir paėmimo informacija dar prieš man prisišvartuojant.",
+      "quote": "Kruizinių laivų keleiviams atsakymų reikia greitai — jie uoste turi tik 6 valandas. Anksčiau prarasdavau privačius užsakymus, nes užklausa ateidavo, kai būdavau ant vandens. Dabar Chiefy parengia atsakymus su mano kainomis ir paėmimo informacija dar prieš man prisišvartuojant.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Šeimos banginių stebėjimo turai, CA",
-      "quote": "Per kuprotųjų banginių sezoną per dieną vykdome du turus, o el. laiškų kiekis yra beprotiškas. „Ar pamatysime banginių?“ „Ką turėčiau vilkėti?“ „Ar rytojus atšauktas?“ Duet sutvarko pasikartojančius klausimus, o mes susitelkiame į turus.",
+      "quote": "Per kuprotųjų banginių sezoną per dieną vykdome du turus, o el. laiškų kiekis yra beprotiškas. „Ar pamatysime banginių?“ „Ką turėčiau vilkėti?“ „Ar rytojus atšauktas?“ Chiefy sutvarko pasikartojančius klausimus, o mes susitelkiame į turus.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "Kiekvieną vakarą atsakinėdavau į tuos pačius 10 klausimų — kainas, kas įskaičiuota, patarimus dėl jūros ligos, vaikų amžiaus ribas. Duet viso to išmoko per pirmą savaitę. Mano atsakymo laikas sutrumpėjo nuo 8 valandų iki 8 minučių.",
+      "quote": "Kiekvieną vakarą atsakinėdavau į tuos pačius 10 klausimų — kainas, kas įskaičiuota, patarimus dėl jūros ligos, vaikų amžiaus ribas. Chiefy viso to išmoko per pirmą savaitę. Mano atsakymo laikas sutrumpėjo nuo 8 valandų iki 8 minučių.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Rezervacijų vadybininkė, Pacific NW",
-      "quote": "Atšaukimai dėl oro yra blogiausia — 30 žmonių reikia perkelti tuo pačiu metu, o aš derinu skambučius. Duet parengia asmeninius perkėlimo el. laiškus kiekvienam svečiui. Tai, kas anksčiau trukdavo 2 valandas, dabar užtrunka 15 minučių.",
+      "quote": "Atšaukimai dėl oro yra blogiausia — 30 žmonių reikia perkelti tuo pačiu metu, o aš derinu skambučius. Chiefy parengia asmeninius perkėlimo el. laiškus kiekvienam svečiui. Tai, kas anksčiau trukdavo 2 valandas, dabar užtrunka 15 minučių.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Mažų laivų laukinės gamtos turai, BC",
-      "quote": "Esame dviejų žmonių komanda — aš kapitonuoju, ji tvarko logistiką. Piko sezono metu ji kas vakarą po 3 valandas praleisdavo prie el. pašto. Duet tą laiką sumažino iki 30 minučių. Dabar ji iš tiesų susigrąžina savo vakarus.",
+      "quote": "Esame dviejų žmonių komanda — aš kapitonuoju, ji tvarko logistiką. Piko sezono metu ji kas vakarą po 3 valandas praleisdavo prie el. pašto. Chiefy tą laiką sumažino iki 30 minučių. Dabar ji iš tiesų susigrąžina savo vakarus.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Pradėkite nemokamą bandomąjį laikotarpį. Prijunkite savo gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "Ar Duet tvarko atšaukimus dėl oro ir kruizinių laivų grafiko pakeitimus?",
-      "answer": "Taip. Kai atšaukiate turą dėl oro arba pasikeičia kruizinio laivo atvykimo laikas, galite vieną kartą apie tai pasakyti Duet ir jis parengs asmeninius perplanavimo arba atnaujinimo el. laiškus kiekvienam paveiktam svečiui. Daugiau nebereikės 30 kartų kopijuoti ir įklijuoti tos pačios žinutės. Kiekviename atsakyme pateikiami pradiniai svečio rezervacijos duomenys ir galimos alternatyvos."
+      "question": "Ar Chiefy tvarko atšaukimus dėl oro ir kruizinių laivų grafiko pakeitimus?",
+      "answer": "Taip. Kai atšaukiate turą dėl oro arba pasikeičia kruizinio laivo atvykimo laikas, galite vieną kartą apie tai pasakyti Chiefy ir jis parengs asmeninius perplanavimo arba atnaujinimo el. laiškus kiekvienam paveiktam svečiui. Daugiau nebereikės 30 kartų kopijuoti ir įklijuoti tos pačios žinutės. Kiekviename atsakyme pateikiami pradiniai svečio rezervacijos duomenys ir galimos alternatyvos."
     },
     {
-      "question": "Nuolat gauname tuos pačius klausimus — „ar pamatysime banginių?“, „ką turėčiau vilkėti?“, „ar tinka vaikams?“ Ar Duet su tuo susitvarko?",
-      "answer": "Būtent čia Duet ir sužiba. Jis išmoksta jūsų standartinius atsakymus — rūšis, kurias dažniausiai matote, ką pasiimti, amžiaus taisykles, patarimus dėl jūros ligos, išvykimo laikus — ir akimirksniu parengia pilnus atsakymus. Jūs peržiūrite ir išsiunčiate. Dauguma kapitonų mums sako, kad 80% jų gautųjų sudaro tie patys 10 klausimų, ir Duet susitvarko su visais."
+      "question": "Nuolat gauname tuos pačius klausimus — „ar pamatysime banginių?“, „ką turėčiau vilkėti?“, „ar tinka vaikams?“ Ar Chiefy su tuo susitvarko?",
+      "answer": "Būtent čia Chiefy ir sužiba. Jis išmoksta jūsų standartinius atsakymus — rūšis, kurias dažniausiai matote, ką pasiimti, amžiaus taisykles, patarimus dėl jūros ligos, išvykimo laikus — ir akimirksniu parengia pilnus atsakymus. Jūs peržiūrite ir išsiunčiate. Dauguma kapitonų mums sako, kad 80% jų gautųjų sudaro tie patys 10 klausimų, ir Chiefy susitvarko su visais."
     }
   ],
   "pricingNote": "Esant 125 $/asm., vienas išsaugotas 6 asmenų užsakymas padengia daugiau nei metų Pro kainą."

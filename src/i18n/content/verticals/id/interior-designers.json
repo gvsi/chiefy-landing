@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail untuk Desainer Interior |  AI Asisten Email",
-  "metaDescription": "Duet Mail membantu desainer interior mengelola email klien, koordinasi kontraktor, dan pesanan vendor — bahkan dari lokasi kerja.  AI -Balasan yang disusun dengan detail proyek, preferensi, dan suara Anda.",
+  "pageTitle": "Chiefy untuk Desainer Interior |  AI Asisten Email",
+  "metaDescription": "Chiefy membantu desainer interior mengelola email klien, koordinasi kontraktor, dan pesanan vendor — bahkan dari lokasi kerja.  AI -Balasan yang disusun dengan detail proyek, preferensi, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 400+ desainer interior",
   "heroHeadline": "Asisten email Anda saat Anda berada di lokasi bersama klien",
-  "heroSubline": "Duet mempelajari kontak vendor Anda, detail proyek, dan preferensi klien — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien karena respons yang lambat.",
+  "heroSubline": "Chiefy mempelajari kontak vendor Anda, detail proyek, dan preferensi klien — lalu menyusun balasan email sehingga Anda tidak akan kehilangan klien karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "project",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Satu klien yang disimpan membayar Duet selama bertahun-tahun."
+    "punchline": "Satu klien yang disimpan membayar Chiefy selama bertahun-tahun."
   },
-  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat pertanyaan klien baru terlebih dahulu, menunggu persetujuan kedua, dan buletin vendor tidak pernah. Tidak ada lagi kehilangan konsultasi desain yang terkubur dalam promosi pameran dagang.",
-  "draftSubtitle": "Duet mempelajari proses, detail proyek, dan nada Anda. Saat ada pertanyaan baru atau pertanyaan klien, ia akan menyusun balasan lengkap dengan ketersediaan Anda, langkah selanjutnya, dan spesifikasi proyek. Anda meninjau dan mengirim.",
-  "agentSubtitle": "“Bagaimana status proyek Henderson?” “Persetujuan mana yang masih menunggu keputusan?” Duet mengetahui inbox Anda dan setiap rangkaian proyek — tanyakan saja.",
+  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat pertanyaan klien baru terlebih dahulu, menunggu persetujuan kedua, dan buletin vendor tidak pernah. Tidak ada lagi kehilangan konsultasi desain yang terkubur dalam promosi pameran dagang.",
+  "draftSubtitle": "Chiefy mempelajari proses, detail proyek, dan nada Anda. Saat ada pertanyaan baru atau pertanyaan klien, ia akan menyusun balasan lengkap dengan ketersediaan Anda, langkah selanjutnya, dan spesifikasi proyek. Anda meninjau dan mengirim.",
+  "agentSubtitle": "“Bagaimana status proyek Henderson?” “Persetujuan mana yang masih menunggu keputusan?” Chiefy mengetahui inbox Anda dan setiap rangkaian proyek — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -133,25 +133,25 @@
     {
       "name": "Francesca D.",
       "title": "Desainer Interior Perumahan, Chicago",
-      "quote": "Biasanya pertanyaan klien tertunda berhari-hari karena saya terkubur dalam email pengadaan dan penjadwalan kontraktor. Sekarang Duet merespons prospek baru dalam hitungan menit dengan proses dan ketersediaan saya. Saya telah memesan 4 proyek tambahan pada kuartal ini.",
+      "quote": "Biasanya pertanyaan klien tertunda berhari-hari karena saya terkubur dalam email pengadaan dan penjadwalan kontraktor. Sekarang Chiefy merespons prospek baru dalam hitungan menit dengan proses dan ketersediaan saya. Saya telah memesan 4 proyek tambahan pada kuartal ini.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Pemilik Studio Desain, Nashville",
-      "quote": "Mengelola email untuk 12 proyek aktif sangat merugikan saya. Duet mengkategorikan semuanya — pertanyaan baru, persetujuan yang tertunda, pesanan vendor, pembaruan kontraktor — jadi saya tahu persis apa yang perlu saya perhatikan terlebih dahulu.",
+      "quote": "Mengelola email untuk 12 proyek aktif sangat merugikan saya. Chiefy mengkategorikan semuanya — pertanyaan baru, persetujuan yang tertunda, pesanan vendor, pembaruan kontraktor — jadi saya tahu persis apa yang perlu saya perhatikan terlebih dahulu.",
       "avatarKey": "johnny"
     },
     {
       "name": "jennifer s.",
       "title": "Dekorator Interior, San Diego",
-      "quote": "Saya kehilangan klien potensial karena saya tidak dapat merespons dengan cukup cepat selama minggu-minggu pemasangan. Duet mempelajari proses konsultasi saya, struktur harga, bahkan cara saya mendeskripsikan gaya desain saya. Klien tidak tahu itu dibantu AI.",
+      "quote": "Saya kehilangan klien potensial karena saya tidak dapat merespons dengan cukup cepat selama minggu-minggu pemasangan. Chiefy mempelajari proses konsultasi saya, struktur harga, bahkan cara saya mendeskripsikan gaya desain saya. Klien tidak tahu itu dibantu AI.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Desainer Interior Komersial, Denver",
-      "quote": "Antara waktu tunggu vendor, jadwal kontraktor, dan permintaan revisi klien, inbox saya kacau. Duet mengurutkan semuanya dan menyusun tindak lanjut atas persetujuan yang tertunda. Ini seperti memiliki koordinator proyek yang tidak pernah tidur.",
+      "quote": "Antara waktu tunggu vendor, jadwal kontraktor, dan permintaan revisi klien, inbox saya kacau. Chiefy mengurutkan semuanya dan menyusun tindak lanjut atas persetujuan yang tertunda. Ini seperti memiliki koordinator proyek yang tidak pernah tidur.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Saya menangani 8-10 proyek sekaligus. Bisakah Duet menjaganya tetap lurus?",
-      "answer": "Ya. Duet melacak setiap thread email per klien dan proyek. Saat Anda bertanya tentang dapur Henderson atau kantor Park Avenue, pertanyaan tersebut mengambil konteks dari semua percakapan terkait — pesanan vendor, pembaruan kontraktor, persetujuan klien — sehingga balasan Anda selalu akurat dan spesifik untuk proyek. Tidak perlu mencampuradukkan ubin mana untuk klien yang mana."
+      "question": "Saya menangani 8-10 proyek sekaligus. Bisakah Chiefy menjaganya tetap lurus?",
+      "answer": "Ya. Chiefy melacak setiap thread email per klien dan proyek. Saat Anda bertanya tentang dapur Henderson atau kantor Park Avenue, pertanyaan tersebut mengambil konteks dari semua percakapan terkait — pesanan vendor, pembaruan kontraktor, persetujuan klien — sehingga balasan Anda selalu akurat dan spesifik untuk proyek. Tidak perlu mencampuradukkan ubin mana untuk klien yang mana."
     },
     {
-      "question": "Saya berkoordinasi dengan banyak kontraktor dan vendor. Apakah Duet membantu dalam hal itu?",
-      "answer": "Sangat. Duet mempelajari kontak kontraktor Anda, perwakilan vendor, dan konteks peran masing-masing perdagangan dalam proyek Anda. Ketika teknisi listrik Anda mengirim email tentang penyelesaian kasar, Duet dapat membuat draf balasan yang mengonfirmasi langkah atau putaran berikutnya dalam pemasang perlengkapan. Ini membuat alur kerja tetap berjalan bahkan saat Anda berada di seberang kota di lokasi kerja lain."
+      "question": "Saya berkoordinasi dengan banyak kontraktor dan vendor. Apakah Chiefy membantu dalam hal itu?",
+      "answer": "Sangat. Chiefy mempelajari kontak kontraktor Anda, perwakilan vendor, dan konteks peran masing-masing perdagangan dalam proyek Anda. Ketika teknisi listrik Anda mengirim email tentang penyelesaian kasar, Chiefy dapat membuat draf balasan yang mengonfirmasi langkah atau putaran berikutnya dalam pemasang perlengkapan. Ini membuat alur kerja tetap berjalan bahkan saat Anda berada di seberang kota di lokasi kerja lain."
     }
   ],
-  "pricingNote": "Dengan $10.000/proyek, satu klien yang disimpan membayar Duet Pro selama bertahun-tahun."
+  "pricingNote": "Dengan $10.000/proyek, satu klien yang disimpan membayar Chiefy Pro selama bertahun-tahun."
 }

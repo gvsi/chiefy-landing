@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail hääsuunnittelijoille | AI-sähköpostiavustaja",
-  "metaDescription": "Duet Mail auttaa hääsuunnittelijoita vastaamaan asiakkaiden ja myyjien sähköposteihin välittömästi – jopa tapahtumapaikan esittelyistä. AI-muotoiltuja vastauksia paketteineen, toimittajan yhteystiedot ja ääni.",
+  "pageTitle": "Chiefy hääsuunnittelijoille | AI-sähköpostiavustaja",
+  "metaDescription": "Chiefy auttaa hääsuunnittelijoita vastaamaan asiakkaiden ja myyjien sähköposteihin välittömästi – jopa tapahtumapaikan esittelyistä. AI-muotoiltuja vastauksia paketteineen, toimittajan yhteystiedot ja ääni.",
   "heroBadge": "Yli 400 hääsuunnittelijan luottama",
   "heroHeadline": "Sähköpostiavustajasi, kun olet paikan päällä tapahtumapaikalla",
-  "heroSubline": "Duet oppii toimittajasi yhteystiedot, paketit ja asiakasasetukset – sitten luonnostelee sähköpostivastaukset, jotta pariskunnat eivät koskaan odota, kun koordinoit paikan päällä.",
+  "heroSubline": "Chiefy oppii toimittajasi yhteystiedot, paketit ja asiakasasetukset – sitten luonnostelee sähköpostivastaukset, jotta pariskunnat eivät koskaan odota, kun koordinoit paikan päällä.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "häät",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Yksi pelastettu asiakas maksaa yli 20 vuoden Duet ista."
+    "punchline": "Yksi pelastettu asiakas maksaa yli 20 vuoden Chiefy ista."
   },
-  "categorizationSubtitle": "Duet merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uusien parien tiedustelut, toiseksi myyjävahvistukset ja uutiskirjeen äänet ei koskaan. Knot-hälytysten alle hautautuneita varauspyyntöjä ei enää kaipaa.",
-  "draftSubtitle": "Duet oppii pakettisi, ensisijaiset toimittajasi ja sävyn. Kun pariskunta tiedustelee, se laatii lämpimän, täydellisen vastauksen saatavuudestasi ja seuraavista vaiheista. Tarkistat ja lähetät.",
-  "agentSubtitle": "\"Mitä toimittajan sähköposteja tuli Thompsonin häihin?\" \"Luonnos aikataulupäivitys kaikille myyjille lauantaille.\" Duet tuntee postilaatikkosi ja asiakkaasi – kysy vain.",
+  "categorizationSubtitle": "Chiefy merkitsee automaattisesti jokaisen sähköpostin, joten näet ensin uusien parien tiedustelut, toiseksi myyjävahvistukset ja uutiskirjeen äänet ei koskaan. Knot-hälytysten alle hautautuneita varauspyyntöjä ei enää kaipaa.",
+  "draftSubtitle": "Chiefy oppii pakettisi, ensisijaiset toimittajasi ja sävyn. Kun pariskunta tiedustelee, se laatii lämpimän, täydellisen vastauksen saatavuudestasi ja seuraavista vaiheista. Tarkistat ja lähetät.",
+  "agentSubtitle": "\"Mitä toimittajan sähköposteja tuli Thompsonin häihin?\" \"Luonnos aikataulupäivitys kaikille myyjille lauantaille.\" Chiefy tuntee postilaatikkosi ja asiakkaasi – kysy vain.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "Olen vuoristopaikoissa nollasolupalvelulla puolet viikostani. Sillä välin pariskunnat lähettävät minulle sähköpostia aikatauluista ja myyjäkysymyksistä. Duet-luonnokset vastaavat tarkkoja pakettejani ja sävyjäni – tarkistan ne, kun palaan kantamaan.",
+      "quote": "Olen vuoristopaikoissa nollasolupalvelulla puolet viikostani. Sillä välin pariskunnat lähettävät minulle sähköpostia aikatauluista ja myyjäkysymyksistä. Chiefy-luonnokset vastaavat tarkkoja pakettejani ja sävyjäni – tarkistan ne, kun palaan kantamaan.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "täyden palvelun hääsuunnittelija, CA",
-      "quote": "Yli 10 myyjän koordinointi häitä kohden tarkoittaa, että postilaatikkoni on sota-alue sesongin aikana. Duet luokittelee toimittajien sähköpostit erilleen asiakassähköpostiviesteistä ja luonnoksista, jotka olisin kirjoittanut itse. Itseasiassa nukun nyt.",
+      "quote": "Yli 10 myyjän koordinointi häitä kohden tarkoittaa, että postilaatikkoni on sota-alue sesongin aikana. Chiefy luokittelee toimittajien sähköpostit erilleen asiakassähköpostiviesteistä ja luonnoksista, jotka olisin kirjoittanut itse. Itseasiassa nukun nyt.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Päivän koordinaattori, TX",
-      "quote": "Hääpäivinä en ole tavoitettavissa 14 tuntia putkeen. Uudet tiedustelut jäivät vastaamatta maanantaihin asti. Nyt Duet käsittelee ne välittömästi, ja olen varannut 3 ylimääräistä hääjuhlaa tällä vuosineljänneksellä pelkän nopeampien vastausaikojen takia.",
+      "quote": "Hääpäivinä en ole tavoitettavissa 14 tuntia putkeen. Uudet tiedustelut jäivät vastaamatta maanantaihin asti. Nyt Chiefy käsittelee ne välittömästi, ja olen varannut 3 ylimääräistä hääjuhlaa tällä vuosineljänneksellä pelkän nopeampien vastausaikojen takia.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "Pariskuntani lentävät ympäri maailmaa ja lähettävät sähköpostia kaikkina aikoina. Duet oppi FAQ-vastaukseni – tapahtumapaikan logistiikka, paikalliset myyjät, mitä odottaa – ja luonnostelee vastauksia, jotka kuulostavat täsmälleen minulta. Asiakkailla ei ole aavistustakaan.",
+      "quote": "Pariskuntani lentävät ympäri maailmaa ja lähettävät sähköpostia kaikkina aikoina. Chiefy oppi FAQ-vastaukseni – tapahtumapaikan logistiikka, paikalliset myyjät, mitä odottaa – ja luonnostelee vastauksia, jotka kuulostavat täsmälleen minulta. Asiakkailla ei ole aavistustakaan.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Hää- ja tapahtumasuunnittelija, NY",
-      "quote": "Vietin 2 tuntia joka ilta vastaamaan samaan paketti- ja saatavuuskysymyksiin. Duet ti käsittelee toistuvia asioita, jotta voin keskittyä luovaan työhön, jota todella rakastan. Se maksoi itsensä takaisin ensimmäisen viikon aikana.",
+      "quote": "Vietin 2 tuntia joka ilta vastaamaan samaan paketti- ja saatavuuskysymyksiin. Chiefy ti käsittelee toistuvia asioita, jotta voin keskittyä luovaan työhön, jota todella rakastan. Se maksoi itsensä takaisin ensimmäisen viikon aikana.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Aloita ilmainen kokeilujakso. Yhdistä postilaatikkosi 30 sekunnissa.",
   "verticalFaqs": [
     {
-      "question": "Toimiiko Duet kaikkien toimittajan koordinointisähköpostien kanssa?",
-      "answer": "Kyllä. Duet oppii myyjäkontaktisi, ensisijaiset toimittajasi ja kuinka kommunikoit heidän kanssaan. Se luokittelee myyjien sähköpostit häiden mukaan ja laatii vastausluonnokset oikeilla tiedoilla – vahvistuksilla, seurannalla, aikajanan päivityksellä. Tarkistat ja lähetät. Se hoitaa kukkakaupat, pitopalvelut, tapahtumapaikat, DJ:t, valokuvaajat ja kaikki muut rolodexisi myyjät."
+      "question": "Toimiiko Chiefy kaikkien toimittajan koordinointisähköpostien kanssa?",
+      "answer": "Kyllä. Chiefy oppii myyjäkontaktisi, ensisijaiset toimittajasi ja kuinka kommunikoit heidän kanssaan. Se luokittelee myyjien sähköpostit häiden mukaan ja laatii vastausluonnokset oikeilla tiedoilla – vahvistuksilla, seurannalla, aikajanan päivityksellä. Tarkistat ja lähetät. Se hoitaa kukkakaupat, pitopalvelut, tapahtumapaikat, DJ:t, valokuvaajat ja kaikki muut rolodexisi myyjät."
     },
     {
       "question": "Olen paikan päällä häissä ja tapahtumapaikoissa koko päivän. Kaipaanko uusia kyselyitä?",
-      "answer": "Juuri tämän Duet ratkaisee. Kun pari sähköpostia kysyy saatavuudesta tai paketeista, kun koordinoit paikan päällä, Duet laatii lämpimän, ammattimaisen vastauksen todellisesta saatavuudestasi ja seuraavista vaiheista. Tarkistat ja lähetät aina, kun olet vapaa – jopa puhelimellasi tapahtumien välillä. Useimmat suunnittelijat kertovat meille, että se säästää 1–2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
+      "answer": "Juuri tämän Chiefy ratkaisee. Kun pari sähköpostia kysyy saatavuudesta tai paketeista, kun koordinoit paikan päällä, Chiefy laatii lämpimän, ammattimaisen vastauksen todellisesta saatavuudestasi ja seuraavista vaiheista. Tarkistat ja lähetät aina, kun olet vapaa – jopa puhelimellasi tapahtumien välillä. Useimmat suunnittelijat kertovat meille, että se säästää 1–2 tuntia sähköpostiaikaa päivässä sesonkiaikana."
     }
   ],
   "pricingNote": "Hinta 8 000 $/häät, yksi säästänyt asiakas maksaa yli 20 vuoden Pro:stä."

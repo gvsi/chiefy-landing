@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail 適用於熱氣球飛行 | AI 郵件助手",
-  "metaDescription": "Duet Mail 可協助氣球飛行員立即回覆預訂電子郵件——即使是在日出飛行期間。 AI 起草的回覆包含您的定價、天氣政策和語音。",
+  "pageTitle": "Chiefy 適用於熱氣球飛行 | AI 郵件助手",
+  "metaDescription": "Chiefy 可協助氣球飛行員立即回覆預訂電子郵件——即使是在日出飛行期間。 AI 起草的回覆包含您的定價、天氣政策和語音。",
   "heroBadge": "受到 200 多名氣球飛行員的信賴",
   "heroHeadline": "您在空中時的電子郵件助手",
-  "heroSubline": "Duet learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
+  "heroSubline": "Chiefy learns your flight schedules, pricing, and weather policies — then drafts email replies so you never lose a booking while you're launching at sunrise.",
   "inboxEmails": [
     {
       "from": "雷切爾和丹·T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "飛行",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved flight pays for a year of Duet."
+    "punchline": "One saved flight pays for a year of Chiefy."
   },
-  "categorizationSubtitle": "Duet 會自動標記每封電子郵件，以便您首先看到預訂請求，其次是看到天氣問題，而永遠不會看到噪音。不再錯過時事通訊警報中隱藏的航班查詢。",
-  "draftSubtitle": "Duet 了解您的定價、天氣政策和語氣。當收到預訂查詢時，它會起草一份完整的回覆，其中包含航班詳細資訊、會議資訊和服裝。您審閱並發送。",
-  "agentSubtitle": "「明天的名單上有誰？」 「是否有因天氣原因取消行程的情況？」Duet 了解您的收件匣和日曆 - 只需詢問即可。",
+  "categorizationSubtitle": "Chiefy 會自動標記每封電子郵件，以便您首先看到預訂請求，其次是看到天氣問題，而永遠不會看到噪音。不再錯過時事通訊警報中隱藏的航班查詢。",
+  "draftSubtitle": "Chiefy 了解您的定價、天氣政策和語氣。當收到預訂查詢時，它會起草一份完整的回覆，其中包含航班詳細資訊、會議資訊和服裝。您審閱並發送。",
+  "agentSubtitle": "「明天的名單上有誰？」 「是否有因天氣原因取消行程的情況？」Chiefy 了解您的收件匣和日曆 - 只需詢問即可。",
   "categorizationEmails": [
     {
       "from": "雷切爾·T。",
@@ -127,31 +127,31 @@
     {
       "name": "麥克·L船長",
       "title": "明尼蘇達州氣球飛行員",
-      "quote": "我是一個單人行動——我飛行、我機組人員、我回覆電子郵件。除了早上 5 點，我都在膨脹，不回覆。 Duet 起草每個「我們明天會飛嗎？」的回覆連夜發訊息。我醒來，查看天氣，然後點擊發送。",
+      "quote": "我是一個單人行動——我飛行、我機組人員、我回覆電子郵件。除了早上 5 點，我都在膨脹，不回覆。 Chiefy 起草每個「我們明天會飛嗎？」的回覆連夜發訊息。我醒來，查看天氣，然後點擊發送。",
       "avatarKey": "michael"
     },
     {
       "name": "香農和傑克 B.",
       "title": "猶他州全年熱氣球之旅",
-      "quote": "我們每天都會收到相同的 10 個問題。穿什麼，在哪裡見面，如果刮風怎麼辦。 Duet 了解了所有這些，現在起草了完美的答案。我們每天晚上發送電子郵件的時間從一小時減少到五分鐘。",
+      "quote": "我們每天都會收到相同的 10 個問題。穿什麼，在哪裡見面，如果刮風怎麼辦。 Chiefy 了解了所有這些，現在起草了完美的答案。我們每天晚上發送電子郵件的時間從一小時減少到五分鐘。",
       "avatarKey": "sarah"
     },
     {
       "name": "卡洛斯R。",
       "title": "日出航班運營商，亞利桑那州",
-      "quote": "旺季意味著每周有 4-6 個航班，每位乘客在航班起飛前至少發送兩次電子郵件。 Duet 負責處理飛行前的問題，這樣我就可以專注於為人們提供一生中最美好的早晨。",
+      "quote": "旺季意味著每周有 4-6 個航班，每位乘客在航班起飛前至少發送兩次電子郵件。 Chiefy 負責處理飛行前的問題，這樣我就可以專注於為人們提供一生中最美好的早晨。",
       "avatarKey": "johnny"
     },
     {
       "name": "麗莎W.",
       "title": "新墨西哥州氣球公司共同所有人",
-      "quote": "天氣取消常常毀掉我的一整天——8 位乘客都需要個人重新安排電子郵件。現在，Duet 起草的每一份都包含我們的重新預訂政策。為我節省了早上取消預訂的時間。",
+      "quote": "天氣取消常常毀掉我的一整天——8 位乘客都需要個人重新安排電子郵件。現在，Chiefy 起草的每一份都包含我們的重新預訂政策。為我節省了早上取消預訂的時間。",
       "avatarKey": "jennifer"
     },
     {
       "name": "瑪麗亞D.",
       "title": "科羅拉多州熱氣球飛行運營",
-      "quote": "Proposal 航班需要大量的來回協調。 Duet 了解了我們如何處理它們——時間、代碼字、香檳設定。它起草我幾乎不需要碰的回覆。",
+      "quote": "Proposal 航班需要大量的來回協調。 Chiefy 了解了我們如何處理它們——時間、代碼字、香檳設定。它起草我幾乎不需要碰的回覆。",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "開始免費試用。 30 秒內連接您的收件匣。",
   "verticalFaqs": [
     {
-      "question": "Duet 如何處理因天氣原因取消電子郵件？",
-      "answer": "Duet 了解您的取消和重新預訂政策。當您因天氣原因取消航班時，它可以向每位受影響的乘客起草個人化的重新安排電子郵件，其中包含您的政策、可用日期和語氣。您審閱並發送。過去需要一個小時的個人回覆現在只需幾分鐘。"
+      "question": "Chiefy 如何處理因天氣原因取消電子郵件？",
+      "answer": "Chiefy 了解您的取消和重新預訂政策。當您因天氣原因取消航班時，它可以向每位受影響的乘客起草個人化的重新安排電子郵件，其中包含您的政策、可用日期和語氣。您審閱並發送。過去需要一個小時的個人回覆現在只需幾分鐘。"
     },
     {
-      "question": "Duet 能否處理「我們明天會飛嗎？」的問題每天晚上都會收到大量電子郵件？",
-      "answer": "是的——這是氣球運營商告訴我們的最常見的電子郵件之一。 Duet 了解您的天氣政策並起草令人放心的答复，解釋您的決策過程、您何時做出最終決定以及預期結果。一旦你早上確認了去/不去，它就可以為清單上的每個人起草更新。"
+      "question": "Chiefy 能否處理「我們明天會飛嗎？」的問題每天晚上都會收到大量電子郵件？",
+      "answer": "是的——這是氣球運營商告訴我們的最常見的電子郵件之一。 Chiefy 了解您的天氣政策並起草令人放心的答复，解釋您的決策過程、您何時做出最終決定以及預期結果。一旦你早上確認了去/不去，它就可以為清單上的每個人起草更新。"
     }
   ],
   "pricingNote": "每人 250 美元，每個航班 4 名乘客，節省的預訂可支付一年以上的 Pro。"

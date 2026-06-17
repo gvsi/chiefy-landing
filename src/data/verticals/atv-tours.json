@@ -1,12 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail for ATV & UTV Tours | AI Email Assistant",
-  "metaDescription": "Duet Mail helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
-
+  "pageTitle": "Chiefy for ATV & UTV Tours | AI Email Assistant",
+  "metaDescription": "Chiefy helps ATV and UTV tour guides respond to booking emails instantly — even from the trail. AI-drafted replies with your pricing, requirements, and voice.",
   "heroBadge": "Trusted by 200+ tour guides",
   "heroHeadline": "Your email assistant while you're on the trail",
-  "heroSubline": "Duet learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
-
+  "heroSubline": "Chiefy learns your tour types, pricing, and rider requirements — then drafts email replies so you never lose a booking to a slow response.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -45,23 +43,17 @@
       "pillColor": "lavender"
     }
   ],
-
   "autodraft": "Hey Rachel! Saturday is open and we can take 4 machines no problem. Tours are $200 per machine and run about 6-8 hours. We meet at 9 AM at the trailhead — I'll send directions once you're confirmed. Helmets and goggles provided. Want me to lock you in?",
-
   "math": {
     "pricePerBooking": "$800",
     "bookingUnit": "group (4 machines)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "One saved group booking pays for a year of Duet."
+    "punchline": "One saved group booking pays for a year of Chiefy."
   },
-
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
-
-  "draftSubtitle": "Duet learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-
-  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Duet knows your inbox and schedule — just ask.",
-
+  "categorizationSubtitle": "Chiefy automatically tags every email so you see booking requests first, insurance questions second, and noise never. No more missing a group inquiry buried under TripAdvisor alerts.",
+  "draftSubtitle": "Chiefy learns your tour routes, pricing, and rider requirements. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
+  "agentSubtitle": "\"Any groups booked for this weekend?\" \"Draft a reply to Rachel with Saturday availability.\" Chiefy knows your inbox and schedule — just ask.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -105,7 +97,6 @@
       "pillColor": "lavender"
     }
   ],
-
   "draft": {
     "to": "rachel.w@email.com",
     "subject": "Re: Availability Saturday for 4 machines?",
@@ -125,61 +116,56 @@
       "Learns over time"
     ]
   },
-
   "agent": {
     "userMessage": "Any groups booked for this weekend?",
     "agentResponse": "Based on your inbox, you have a group of 6 confirmed for Saturday at 9 AM and a couple booked for Sunday morning. Saturday afternoon and Sunday afternoon are still open. Want me to draft a reply to any pending inquiries with those openings?",
     "followUp": "Draft a reply to Rachel with Saturday availability",
     "followUpResponse": "Done! I drafted a reply to Rachel confirming Saturday for 4 machines at $200 each. It includes your standard meeting location, gear info, and what to wear. Ready to review and send."
   },
-
   "testimonialsTitle": "Loved by tour guides and operators",
   "testimonials": [
     {
       "name": "Mike D.",
       "title": "ATV Guide, Southern Utah",
-      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Duet drafts responses with my pricing and trail info — I just review them at the end of the day.",
+      "quote": "I lead 8-hour tours through the canyons with zero cell service. By the time I'd get back, half my booking emails had gone cold. Chiefy drafts responses with my pricing and trail info — I just review them at the end of the day.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV Tour Operator, Colorado",
-      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Duet handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
+      "quote": "We run tours 7 days a week and the insurance and waiver questions alone were eating up my mornings. Chiefy handles all of it — rider requirements, age restrictions, what to bring. Sounds exactly like me.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Duet nails every one of them.",
+      "quote": "People email asking which trail is right for their group, what experience level they need, whether kids can ride. The same 5 questions over and over. Chiefy nails every one of them.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "I was spending over an hour every night answering the same availability questions. Now Duet drafts replies while I'm out on the trail. My response time went from hours to minutes.",
+      "quote": "I was spending over an hour every night answering the same availability questions. Now Chiefy drafts replies while I'm out on the trail. My response time went from hours to minutes.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Family ATV Tours, Sedona",
-      "quote": "We get a lot of families asking about beginner trails and age requirements. Duet learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
+      "quote": "We get a lot of families asking about beginner trails and age requirements. Chiefy learned all our tour options and recommends the right one in every reply. Clients can't tell the difference.",
       "avatarKey": "sarah"
     }
   ],
-
   "ctaHeadline": "Spend peak season on the trail,\nnot in your inbox.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
-
   "verticalFaqs": [
     {
-      "question": "Does Duet handle insurance and waiver questions?",
-      "answer": "Yes. Duet learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Duet drafts a complete response with all the specifics. You review and tap send."
+      "question": "Does Chiefy handle insurance and waiver questions?",
+      "answer": "Yes. Chiefy learns your rider requirements — liability insurance, age restrictions, waiver details, what riders need to bring. When someone emails asking what they need before their tour, Chiefy drafts a complete response with all the specifics. You review and tap send."
     },
     {
-      "question": "I'm on the trail all day with no cell service. How does Duet help?",
-      "answer": "That's exactly why guides love Duet. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Duet drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "I'm on the trail all day with no cell service. How does Chiefy help?",
+      "answer": "That's exactly why guides love Chiefy. While you're leading a 6-8 hour tour with no signal, booking inquiries pile up. Chiefy drafts replies to every one of them — pricing, availability, meeting location, what to wear. When you get back, you review the drafts and send. Most guides tell us it saves them 1-2 hours of email time per day during peak season."
     }
   ],
-
   "pricingNote": "At $200/machine, one saved group of 4 pays for over a year of Pro."
 }

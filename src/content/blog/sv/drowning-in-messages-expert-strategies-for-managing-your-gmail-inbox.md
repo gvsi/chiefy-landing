@@ -2,7 +2,7 @@
 title: "Dränker du i meddelanden? Expertstrategier för att hantera din Gmail inkorg"
 description: "Stoppa överbelastning av e-post! Lär dig expertstrategier för att hantera din Gmail inkorg, från klassisk taktik till AI-verktyg, och återta din produktivitet."
 publishedAt: 2025-07-04
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Inkorgshantering", "E-post"]
 draft: false
 ---
@@ -157,7 +157,7 @@ AI-e-postassistenter går bortom enkel automatisering; de erbjuder intelligenta 
 
 **Fördelen:** Istället för att du gräver igenom högen kommer AI:n automatiskt till ytan på e-postmeddelanden som kräver omedelbar åtgärd. Detta minskar sorteringstiden drastiskt, säkerställer att viktiga artiklar inte missas, minskar stressen med överbelastning av inkorgen och frigör dig att fokusera din energi på ett effektivt arbete snarare än inkorgsadministration.
 
-**Duet Mail Länk (kontextuell):** _Denna intelligenta sortering är precis vad upptagna proffs behöver. Det är där verktyg som _[_Duet Mail_](https://duetmail.com/sv)_ utmärker sig, med hjälp av **AI Triage** för att analysera brådskande, nödvändiga åtgärder och beslut, presentera dem tydligt i en **fokuserad instrumentpanel** så att du omedelbart vet vad som behöver åtgärdas._
+**Chiefy Länk (kontextuell):** _Denna intelligenta sortering är precis vad upptagna proffs behöver. Det är där verktyg som _[_Chiefy_](https://chiefy.com/sv)_ utmärker sig, med hjälp av **AI Triage** för att analysera brådskande, nödvändiga åtgärder och beslut, presentera dem tydligt i en **fokuserad instrumentpanel** så att du omedelbart vet vad som behöver åtgärdas._
 
 ### Smart sammanfattning: Förstå långa trådar och fästen direkt
 
@@ -217,4 +217,4 @@ Teknik, särskilt framväxten av intelligenta AI-e-postassistenter, erbjuder en 
 
 Att bemästra din Gmail handlar inte bara om att få ett snyggt digitalt utrymme. Det handlar om att avsevärt minska stressen på arbetsplatsen, återta timmar av värdefull tid varje vecka, skydda din förmåga att fokusera på djupt, meningsfullt arbete och i slutändan öka din totala effektivitet och ditt välbefinnande. Genom att omtänksamt blanda disciplinerade vanor med strategisk användning av intelligenta verktyg kan du förvandla din inkorg från en källa till skräck till ett hanterbart kommunikationsnav.
 
-Är du redo att uppleva hur AI kan förändra din relation med e-post? Ta första steget mot en lugnare och mer produktiv arbetsdag. Utforska hur [Duet Mail](https://duetmail.com/sv) använder AI-triage, smart sammanfattning och autentisk ritning för att hjälpa upptagna proffs som du att erövra deras inkorg.
+Är du redo att uppleva hur AI kan förändra din relation med e-post? Ta första steget mot en lugnare och mer produktiv arbetsdag. Utforska hur [Chiefy](https://chiefy.com/sv) använder AI-triage, smart sammanfattning och autentisk ritning för att hjälpa upptagna proffs som du att erövra deras inkorg.

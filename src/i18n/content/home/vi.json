@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | Trợ lý Email AI cho Gmail và Outlook",
-    "description": "Trợ lý email AI của Duet Mail tóm tắt email, soạn thảo trả lời và tổ chức hộp thư đến của bạn. Hoạt động với Gmail và Outlook. Tiết kiệm hơn 4 giờ mỗi tuần."
+    "title": "Chiefy | Trợ lý Email AI cho Gmail và Outlook",
+    "description": "Trợ lý email AI của Chiefy tóm tắt email, soạn thảo trả lời và tổ chức hộp thư đến của bạn. Hoạt động với Gmail và Outlook. Tiết kiệm hơn 4 giờ mỗi tuần."
   },
   "hero": {
     "badge": "Đã có cho Gmail và Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Soạn email giống như bạn",
-        "description": "Trình soạn email AI của Duet chuẩn bị bản nháp cho những email quan trọng nhất. Nó học giọng điệu và phong cách viết của bạn.",
+        "description": "Trình soạn email AI của Chiefy chuẩn bị bản nháp cho những email quan trọng nhất. Nó học giọng điệu và phong cách viết của bạn.",
         "ariaLabel": "Soạn email giống bạn",
         "mockCopy": {
           "draftedColdEmail": "Tôi đã soạn email tiếp cận cá nhân hóa cho John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Nhắc nhở thông minh",
-        "description": "Cài đặt rồi quên đi. Duet AI nhớ theo dõi khi người khác không trả lời, để không bỏ sót việc nào.",
+        "description": "Cài đặt rồi quên đi. Chiefy AI nhớ theo dõi khi người khác không trả lời, để không bỏ sót việc nào.",
         "ariaLabel": "Nhắc nhở thông minh",
         "mockCopy": {
           "header": "Nhắc nhở thông minh AI",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Tổ chức email và phân loại hộp thư thông minh",
     "badge": "Tổ chức",
-    "title": "Duet tổ chức hộp thư của bạn",
+    "title": "Chiefy tổ chức hộp thư của bạn",
     "subtitle": "Phân loại tự động lọc bớt tiếng ồn và làm nổi bật điều quan trọng. Ngay lập tức thấy việc cần xử lý, thông tin chỉ để biết, và việc có thể chờ.",
     "windowTitle": "Hộp thư đến",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "Soạn thảo email AI và tạo trả lời",
     "badge": "Soạn thảo",
-    "title": "Duet soạn thảo theo giọng bạn",
-    "subtitle": "Duet học cách bạn viết và soạn trả lời phù hợp giọng điệu. Xem lại, chỉnh sửa nếu cần, và gửi trong vài giây.",
+    "title": "Chiefy soạn thảo theo giọng bạn",
+    "subtitle": "Chiefy học cách bạn viết và soạn trả lời phù hợp giọng điệu. Xem lại, chỉnh sửa nếu cần, và gửi trong vài giây.",
     "windowTitle": "Tin nhắn mới",
     "fieldLabels": {
       "to": "Đến:",
@@ -252,8 +252,8 @@
     "ariaLabel": "Trí tuệ email AI và trợ lý",
     "badge": "Trí tuệ",
     "title": "Hỏi bất cứ điều gì về email của bạn",
-    "subtitle": "Hỏi Duet tìm email, kiểm tra lịch, hoặc soạn trả lời. Nó hiểu hộp thư và trả lời ngay lập tức.",
-    "windowTitle": "Trợ lý Duet",
+    "subtitle": "Hỏi Chiefy tìm email, kiểm tra lịch, hoặc soạn trả lời. Nó hiểu hộp thư và trả lời ngay lập tức.",
+    "windowTitle": "Trợ lý Chiefy",
     "onlineLabel": "Trực tuyến",
     "initialUserMessage": "Bạn có thể tìm hóa đơn Stripe do Kế toán gửi không?",
     "processingText": "Đang tìm trong hộp thư...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Freelancer",
-        "quote": "Đáng từng đồng. Thời gian tôi tiết kiệm được nhờ email trả lại giá trị gấp 10 lần chi phí Duet Mail. Không thể tưởng tượng làm việc mà không có nó.",
+        "quote": "Đáng từng đồng. Thời gian tôi tiết kiệm được nhờ email trả lại giá trị gấp 10 lần chi phí Chiefy. Không thể tưởng tượng làm việc mà không có nó.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Tư vấn viên",
-        "quote": "Là tư vấn viên, từng phút đều quý giá. Duet Mail không chỉ tiết kiệm thời gian mà còn làm giao tiếp email sắc nét hơn.",
+        "quote": "Là tư vấn viên, từng phút đều quý giá. Chiefy không chỉ tiết kiệm thời gian mà còn làm giao tiếp email sắc nét hơn.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Tổ chức cơ bản để bắt đầu"
           },
           {
-            "title": "Trợ lý Duet",
+            "title": "Trợ lý Chiefy",
             "description": "Dùng thử trợ lý AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Trợ lý Duet",
+            "title": "Trợ lý Chiefy",
             "description": "Chat để tìm, soạn, tổ chức & hơn thế nữa",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "LIÊN HỆ",
     "contactHeading": "Vẫn còn thắc mắc?",
     "contactCta": "Liên hệ →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Duet Mail bảo vệ dữ liệu email của tôi như thế nào?",
+        "question": "Chiefy bảo vệ dữ liệu email của tôi như thế nào?",
         "answer": "Bảo mật của bạn là ưu tiên hàng đầu. Chúng tôi sử dụng OAuth 2.0 để xác thực an toàn với Google và Microsoft. Nội dung email được mã hóa khi lưu trữ bằng mã hóa cấp trường phía client, và chúng tôi tuân thủ nguyên tắc quyền truy cập tối thiểu cho API. Với tích hợp Google, chúng tôi trải qua đánh giá bảo mật CASA hàng năm của Google."
       },
       {
         "question": "Tính năng tóm tắt email hoạt động ra sao?",
-        "answer": "Duet Mail sử dụng AI tiên tiến để phân tích chuỗi email và tạo bản tóm tắt ngắn gọn, làm nổi bật điểm chính, quyết định và mục hành động. Giúp bạn nhanh chóng hiểu bối cảnh mà không cần đọc toàn bộ chuỗi."
+        "answer": "Chiefy sử dụng AI tiên tiến để phân tích chuỗi email và tạo bản tóm tắt ngắn gọn, làm nổi bật điểm chính, quyết định và mục hành động. Giúp bạn nhanh chóng hiểu bối cảnh mà không cần đọc toàn bộ chuỗi."
       },
       {
-        "question": "Duet Mail cần những quyền gì?",
-        "answer": "Duet Mail cần truy cập email của bạn để cung cấp tóm tắt, trích xuất mục hành động, tạo nội dung và gửi email. Chúng tôi chỉ yêu cầu quyền cần thiết. Bạn có thể xem và thu hồi quyền bất cứ lúc nào trong cài đặt Tài khoản Google hoặc Microsoft."
+        "question": "Chiefy cần những quyền gì?",
+        "answer": "Chiefy cần truy cập email của bạn để cung cấp tóm tắt, trích xuất mục hành động, tạo nội dung và gửi email. Chúng tôi chỉ yêu cầu quyền cần thiết. Bạn có thể xem và thu hồi quyền bất cứ lúc nào trong cài đặt Tài khoản Google hoặc Microsoft."
       },
       {
         "question": "Dùng thử miễn phí bao gồm gì?",
         "answer": "Dùng thử miễn phí 14 ngày bao gồm truy cập đầy đủ các tính năng Pro: tóm tắt email không giới hạn, trích xuất mục hành động, trình soạn email AI (tạo email và bản nháp không giới hạn), và mẫu email tùy chỉnh. Đăng nhập bằng Google hoặc Microsoft để bắt đầu tiết kiệm thời gian quản lý email."
       },
       {
-        "question": "Tôi có thể dùng Duet Mail với nhà cung cấp email khác không?",
-        "answer": "Duet Mail hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
+        "question": "Tôi có thể dùng Chiefy với nhà cung cấp email khác không?",
+        "answer": "Chiefy hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Chân trang",
-    "brandIconAlt": "Biểu tượng Duet Mail",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — Trợ lý Email AI giúp bạn tiết kiệm hàng giờ mỗi tuần",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Biểu tượng Chiefy",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Khám phá",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "Lợi tức đầu tư",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "Ở mức {pricePerBooking} cho mỗi {bookingUnit}, mất chỉ {lostPerMonth} do trả lời chậm =",
     "lossSuffix": "/tháng mất",
     "dividerLabel": "so với",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/tháng"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - Trợ lý Email AI cho Gmail và Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - Trợ lý Email AI cho Gmail và Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "Hỗ trợ khách hàng",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "Trợ lý email AI cho Gmail và Outlook tự động tóm tắt email, soạn trả lời theo giọng bạn và tổ chức hộp thư giúp tiết kiệm hàng giờ mỗi tuần.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Web",
     "browserRequirements": "Yêu cầu JavaScript. Hoạt động với Gmail, Google Workspace và Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/vi",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Duet Mail bảo vệ dữ liệu email của tôi như thế nào?",
+        "question": "Chiefy bảo vệ dữ liệu email của tôi như thế nào?",
         "answer": "Bảo mật của bạn là ưu tiên hàng đầu. Chúng tôi sử dụng OAuth 2.0 để xác thực an toàn với Google và Microsoft. Nội dung email được mã hóa khi lưu trữ bằng mã hóa cấp trường phía client, và chúng tôi tuân thủ nguyên tắc quyền truy cập tối thiểu cho API. Với tích hợp Google, chúng tôi trải qua đánh giá bảo mật CASA hàng năm của Google."
       },
       {
         "question": "Tính năng tóm tắt email hoạt động ra sao?",
-        "answer": "Duet Mail sử dụng AI tiên tiến để phân tích chuỗi email và tạo bản tóm tắt ngắn gọn, làm nổi bật điểm chính, quyết định và mục hành động. Giúp bạn nhanh chóng hiểu bối cảnh mà không cần đọc toàn bộ chuỗi."
+        "answer": "Chiefy sử dụng AI tiên tiến để phân tích chuỗi email và tạo bản tóm tắt ngắn gọn, làm nổi bật điểm chính, quyết định và mục hành động. Giúp bạn nhanh chóng hiểu bối cảnh mà không cần đọc toàn bộ chuỗi."
       },
       {
-        "question": "Duet Mail cần những quyền gì?",
-        "answer": "Duet Mail cần truy cập email của bạn để cung cấp tóm tắt, trích xuất mục hành động, tạo nội dung và gửi email. Chúng tôi chỉ yêu cầu quyền cần thiết. Bạn có thể xem và thu hồi quyền bất cứ lúc nào trong cài đặt Tài khoản Google hoặc Microsoft."
+        "question": "Chiefy cần những quyền gì?",
+        "answer": "Chiefy cần truy cập email của bạn để cung cấp tóm tắt, trích xuất mục hành động, tạo nội dung và gửi email. Chúng tôi chỉ yêu cầu quyền cần thiết. Bạn có thể xem và thu hồi quyền bất cứ lúc nào trong cài đặt Tài khoản Google hoặc Microsoft."
       },
       {
         "question": "Dùng thử miễn phí bao gồm gì?",
         "answer": "Dùng thử miễn phí 14 ngày bao gồm truy cập đầy đủ các tính năng Pro: tóm tắt email không giới hạn, trích xuất mục hành động, trình soạn email AI (tạo email và bản nháp không giới hạn), và mẫu email tùy chỉnh. Đăng nhập bằng Google hoặc Microsoft để bắt đầu tiết kiệm thời gian quản lý email."
       },
       {
-        "question": "Tôi có thể dùng Duet Mail với nhà cung cấp email khác không?",
-        "answer": "Duet Mail hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
+        "question": "Tôi có thể dùng Chiefy với nhà cung cấp email khác không?",
+        "answer": "Chiefy hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

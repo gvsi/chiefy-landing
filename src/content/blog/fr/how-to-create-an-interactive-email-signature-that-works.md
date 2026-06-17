@@ -2,7 +2,7 @@
 title: "Comment créer une signature e-mail interactive qui fonctionne"
 description: "Découvrez comment créer une signature e-mail interactive pour stimuler l'engagement, l'image de marque et les prospects. Guide étape par étape pour les freelances et les startups"
 publishedAt: 2025-06-18
-author: "Équipe Duet Mail"
+author: "Équipe Chiefy"
 tags: ["IA", "Email"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Une signature interactive est conçue pour susciter une action – un clic, un a
 
 C’est là qu’intégrer votre stratégie de signature à des outils intelligents de gestion d’e-mails peut faire la différence. Quand des prospects commencent à cliquer sur le lien "Réserver un rendez-vous" généré par votre super signature, vous avez besoin d’un système pour gérer ensuite la planification et la communication sans friction. De même, conserver dans chaque e-mail de relance le ton professionnel défini par votre signature est essentiel pour construire des relations.
 
-Des outils conçus pour la productivité e-mail, comme [Duet Mail](https://duetmail.com/fr), peuvent aider à combler cet écart. Imaginez bénéficier d’une assistance IA pour rédiger des réponses rapides et personnalisées qui conservent votre voix unique après qu’une personne a interagi avec le CTA de votre signature. Des fonctionnalités comme **AI Triage** de Duet Mail peuvent aider à faire remonter les réponses importantes générées par les interactions avec la signature, tandis que son **Authentic AI Drafting** garantit que vos relances sonnent comme vous, en préservant le professionnalisme véhiculé par votre signature. Cela transforme l’engagement suscité par votre signature en conversations productives et bien gérées.
+Des outils conçus pour la productivité e-mail, comme [Chiefy](https://chiefy.com/fr), peuvent aider à combler cet écart. Imaginez bénéficier d’une assistance IA pour rédiger des réponses rapides et personnalisées qui conservent votre voix unique après qu’une personne a interagi avec le CTA de votre signature. Des fonctionnalités comme **AI Triage** de Chiefy peuvent aider à faire remonter les réponses importantes générées par les interactions avec la signature, tandis que son **Authentic AI Drafting** garantit que vos relances sonnent comme vous, en préservant le professionnalisme véhiculé par votre signature. Cela transforme l’engagement suscité par votre signature en conversations productives et bien gérées.
 
 ## Prêt à activer votre signature ?
 

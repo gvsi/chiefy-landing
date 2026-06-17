@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail pro zakázkové klenotníky | AI e-mailový asistent",
-  "metaDescription": "Duet Mail pomáhá zakázkovým klenotníkům reagovat na žádosti o konzultace, schválení návrhu a otázky týkající se časové osy okamžitě – i když jsou na pracovním stole. Odpovědi navržené AI s vaším procesem, cenou a hlasem.",
+  "pageTitle": "Chiefy pro zakázkové klenotníky | AI e-mailový asistent",
+  "metaDescription": "Chiefy pomáhá zakázkovým klenotníkům reagovat na žádosti o konzultace, schválení návrhu a otázky týkající se časové osy okamžitě – i když jsou na pracovním stole. Odpovědi navržené AI s vaším procesem, cenou a hlasem.",
   "heroBadge": "Důvěřuje více než 300 návrhářům šperků",
   "heroHeadline": "Váš e-mailový asistent, když jste na lavičce",
-  "heroSubline": "Duet se naučí váš návrhový proces, materiály, ceny a časové osy – poté vytvoří koncepty e-mailových odpovědí, takže nikdy neztratíte vlastního klienta kvůli pomalé odpovědi.",
+  "heroSubline": "Chiefy se naučí váš návrhový proces, materiály, ceny a časové osy – poté vytvoří koncepty e-mailových odpovědí, takže nikdy neztratíte vlastního klienta kvůli pomalé odpovědi.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "zakázkový kus",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Jeden ušetřený klient platí přes čtyři roky Duet."
+    "punchline": "Jeden ušetřený klient platí přes čtyři roky Chiefy."
   },
-  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první uvidíte nové žádosti o konzultaci, až poté schválení návrhu a nikdy ne. Už vám nebude chybět dotaz $5,000 skrytý pod propagačními akcemi dodavatele.",
-  "draftSubtitle": "Duet se naučí váš proces, materiály, ceny a hlas. Když přistane žádost o konzultaci, navrhne úplnou odpověď s vaší dostupností, co přinést a jak váš proces funguje. Zkontrolujete a odešlete.",
-  "agentSubtitle": "\"Kde jsme s Amandiným prstenem?\" \"Navrhněte aktualizaci časové osy pro Jamese.\" Duet zná každé klientské vlákno – stačí se zeptat.",
+  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže jako první uvidíte nové žádosti o konzultaci, až poté schválení návrhu a nikdy ne. Už vám nebude chybět dotaz $5,000 skrytý pod propagačními akcemi dodavatele.",
+  "draftSubtitle": "Chiefy se naučí váš proces, materiály, ceny a hlas. Když přistane žádost o konzultaci, navrhne úplnou odpověď s vaší dostupností, co přinést a jak váš proces funguje. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Kde jsme s Amandiným prstenem?\" \"Navrhněte aktualizaci časové osy pro Jamese.\" Chiefy zná každé klientské vlákno – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Návrhář šperků na zakázku, LA",
-      "quote": "Každý zakázkový kus vygeneruje 10–15 e-mailů během týdnů. Vynásobte to 8 aktivními klienty a topil jsem se. Odpovědi na aktualizaci návrhu návrhů Duet, potvrzení konzultací, odpovědi na časové ose – to vše mým hlasem. Kontroluji mezi castingy a kliknu na odeslat.",
+      "quote": "Každý zakázkový kus vygeneruje 10–15 e-mailů během týdnů. Vynásobte to 8 aktivními klienty a topil jsem se. Odpovědi na aktualizaci návrhu návrhů Chiefy, potvrzení konzultací, odpovědi na časové ose – to vše mým hlasem. Kontroluji mezi castingy a kliknu na odeslat.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Majitel zlatnictví a studia, Brooklyn",
-      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Duet, my response time is under 30 minutes. To už se nestalo.",
+      "quote": "I lost a $7,000 engagement ring commission because I took 3 days to respond — the couple went to someone who replied in 2 hours. Since Chiefy, my response time is under 30 minutes. To už se nestalo.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Bench Jeweller, Chicago",
-      "quote": "Jsem na lavičce 8 hodin denně s baterkou v ruce. Nemohu zastavit střední pájku, abych napsal odpověď na konzultaci. Duet vše kreslí, zatímco pracuji – mrknu na telefon, schválím, hotovo.",
+      "quote": "Jsem na lavičce 8 hodin denně s baterkou v ruce. Nemohu zastavit střední pájku, abych napsal odpověď na konzultaci. Chiefy vše kreslí, zatímco pracuji – mrknu na telefon, schválím, hotovo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Návrhář svatebních šperků, Austin",
-      "quote": "Během zásnubní sezóny dostávám 20+ žádostí o konzultace týdně. Duet se naučil celý můj proces – materiály, časové osy, cenové úrovně, co si mám přinést. Koncepty odpovědí, které sotva potřebuji upravit. Absolutní záchranář od listopadu do února.",
+      "quote": "Během zásnubní sezóny dostávám 20+ žádostí o konzultace týdně. Chiefy se naučil celý můj proces – materiály, časové osy, cenové úrovně, co si mám přinést. Koncepty odpovědí, které sotva potřebuji upravit. Absolutní záchranář od listopadu do února.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Specialista na zakázkové prsteny, Portland",
-      "quote": "E-maily s 3D revizí mi žraly večery. Klient odešle zpětnou vazbu, já navrhnu aktualizaci, pětkrát tam a zpět. Nyní Duet zpracovává rutinní odpovědi a já pouze zasahuji při rozhodování o návrhu. Vrátily se mi noci.",
+      "quote": "E-maily s 3D revizí mi žraly večery. Klient odešle zpětnou vazbu, já navrhnu aktualizaci, pětkrát tam a zpět. Nyní Chiefy zpracovává rutinní odpovědi a já pouze zasahuji při rozhodování o návrhu. Vrátily se mi noci.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Dokáže Duet zpracovat e-maily s referenčními fotografiemi a přílohami návrhu?",
-      "answer": "Ano. Duet vidí celé vlákno e-mailu včetně příloh, takže chápe kontext, když klient posílá inspirační fotografie nebo zpětnou vazbu k designu. Nepopíše zpět obrázky, ale ví, že klient právě poslal referenční fotografie a navrhne vhodnou odpověď – potvrzení přijetí, položení upřesňujících otázek ohledně návrhu nebo poskytnutí dalších kroků na základě vašeho obvyklého pracovního postupu."
+      "question": "Dokáže Chiefy zpracovat e-maily s referenčními fotografiemi a přílohami návrhu?",
+      "answer": "Ano. Chiefy vidí celé vlákno e-mailu včetně příloh, takže chápe kontext, když klient posílá inspirační fotografie nebo zpětnou vazbu k designu. Nepopíše zpět obrázky, ale ví, že klient právě poslal referenční fotografie a navrhne vhodnou odpověď – potvrzení přijetí, položení upřesňujících otázek ohledně návrhu nebo poskytnutí dalších kroků na základě vašeho obvyklého pracovního postupu."
     },
     {
-      "question": "Moje vlastní projekty mají dlouhá e-mailová vlákna s více než 10 zprávami. Může je Duet následovat?",
-      "answer": "Přesně tam září Duet. Čte celou historii vlákna – konzultační poznámky, revize návrhu, výběr materiálů, aktualizace časové osy – takže každá navržená odpověď má plný kontext. Když se klient zeptá 'jaký je stav mého prstenu?' v e-mailu č. 14 Duet ví, který prsten, v jaké fázi se nachází, a navrhne přesnou aktualizaci. Už žádné opakované čtení e-mailů za 3 měsíce."
+      "question": "Moje vlastní projekty mají dlouhá e-mailová vlákna s více než 10 zprávami. Může je Chiefy následovat?",
+      "answer": "Přesně tam září Chiefy. Čte celou historii vlákna – konzultační poznámky, revize návrhu, výběr materiálů, aktualizace časové osy – takže každá navržená odpověď má plný kontext. Když se klient zeptá 'jaký je stav mého prstenu?' v e-mailu č. 14 Chiefy ví, který prsten, v jaké fázi se nachází, a navrhne přesnou aktualizaci. Už žádné opakované čtení e-mailů za 3 měsíce."
     }
   ],
   "pricingNote": "U $5,000/piece platí jedna ušetřená provize za více než čtyři roky Pro."

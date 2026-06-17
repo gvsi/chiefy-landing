@@ -2,7 +2,7 @@
 title: "Razčlenitev funkcij povzemanja v Gmail"
 description: "Se spopadate s preobremenjenostjo z e-pošto? Spoznajte funkcije povzemanja v Gmail, ki jih poganja Gemini, njihove prednosti in slabosti ter ali zadoščajo."
 publishedAt: 2025-09-26
-author: "Ekipa Duet Mail"
+author: "Ekipa Chiefy"
 tags: ["AI", "Gmail", "Povzemanje e-pošte"]
 draft: false
 ---
@@ -137,7 +137,7 @@ Gmail ni edini, ki uporablja AI za e-poštno produktivnost. Copilot podjetja Mic
 
 Poleg teh integriranih velikanov obstaja rastoč trg neodvisnih AI e-poštnih pomočnikov. Orodja, kot so [Superhuman, Shortwave, SaneBox in druga](https://zapier.com/blog/best-ai-email-assistant/), ponujajo različne pristope, včasih osredotočene na posebne niše, kot so izjemna hitrost, napredno filtriranje, ekipno sodelovanje ali izboljšane funkcije zasebnosti.
 
-Tu si prostor ustvarjajo rešitve, kot je [Duet Mail](https://duetmail.com/sl). Medtem ko izvorna orodja ponujajo osnovno povzemanje, jim lahko manjka izpopolnjenost, potrebna za kompleksne poteke dela ali ohranjanje res osebnega tona. Namenski pomočniki se pogosto osredotočajo na reševanje konkretnih bolečin, ki jih integrirana orodja morda naslovijo le delno.
+Tu si prostor ustvarjajo rešitve, kot je [Chiefy](https://chiefy.com/sl). Medtem ko izvorna orodja ponujajo osnovno povzemanje, jim lahko manjka izpopolnjenost, potrebna za kompleksne poteke dela ali ohranjanje res osebnega tona. Namenski pomočniki se pogosto osredotočajo na reševanje konkretnih bolečin, ki jih integrirana orodja morda naslovijo le delno.
 
 ## Je izvorno povzemanje v Gmail dovolj za vas?
 
@@ -155,7 +155,7 @@ Vendar morda ne zadošča, če potrebujete:
 
 - **Izboljšan nadzor zasebnosti:** Če vam prakse ravnanja s podatki velikih platform niso udobne ali potrebujete strožjo zasebnost za občutljivo komunikacijo.
 
-Tu postane smiselno raziskati specializirane rešitve. Orodja, kot je [Duet Mail](https://duetmail.com/sl), so na primer zasnovana prav za te vrzeli. Funkcije, kot je AI razvrščanje, gredo onkraj povzemanja in aktivno prepoznajo ter izpostavijo nujna sporočila, ki zahtevajo dejanja ali odločitve, v osredotočeni nadzorni plošči. Pristno AI pisanje osnutkov se iz *vaših* preteklih sporočil nauči *vašega* edinstvenega sloga pisanja in ustvarja odgovore, ki ohranijo vaš osebni glas. Pametno povzemanje pa je povezano s kontekstualnim zavedanjem, ki si zapomni pretekle interakcije in podrobnosti projektov za bolj informirane in relevantne povzetke.
+Tu postane smiselno raziskati specializirane rešitve. Orodja, kot je [Chiefy](https://chiefy.com/sl), so na primer zasnovana prav za te vrzeli. Funkcije, kot je AI razvrščanje, gredo onkraj povzemanja in aktivno prepoznajo ter izpostavijo nujna sporočila, ki zahtevajo dejanja ali odločitve, v osredotočeni nadzorni plošči. Pristno AI pisanje osnutkov se iz *vaših* preteklih sporočil nauči *vašega* edinstvenega sloga pisanja in ustvarja odgovore, ki ohranijo vaš osebni glas. Pametno povzemanje pa je povezano s kontekstualnim zavedanjem, ki si zapomni pretekle interakcije in podrobnosti projektov za bolj informirane in relevantne povzetke.
 
 Če so vam izvorne funkcije v Gmail koristne, vendar se še vedno spopadate s kaosom v nabiralniku, težko določate res pomembna sporočila ali preveč časa porabite za urejanje AI osnutkov, da zvenijo kot vi, je raziskovanje namenskega AI e-poštnega pomočnika lahko naslednji korak pri optimizaciji poteka dela.
 
@@ -167,4 +167,4 @@ Vendar to ni čarobna paličica. Pomisleki glede točnosti, konteksta, zasebnost
 
 Najboljši pristop je premišljena uporaba razpoložljivih orodij. Preizkusite povzemanje v Gmail, pošiljajte povratne informacije in upoštevajte njegove omejitve. Če pa dosežete meje integriranega AI, brez zadržkov raziščite specializirane rešitve, zasnovane za globlji kontekst, pristnejšo pomoč in res inteligentno upravljanje nabiralnika.
 
-Ste pripravljeni izkusiti upravljanje e-pošte, ki razume kontekst in zveni kot vi? [Odkrijte, kako lahko inteligentne funkcije Duet Mail že danes preoblikujejo vaš nabiralnik.](https://duetmail.com/sl)
+Ste pripravljeni izkusiti upravljanje e-pošte, ki razume kontekst in zveni kot vi? [Odkrijte, kako lahko inteligentne funkcije Chiefy že danes preoblikujejo vaš nabiralnik.](https://chiefy.com/sl)

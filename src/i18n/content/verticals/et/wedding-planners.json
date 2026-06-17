@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail pulmakorraldajatele | AI e-posti assistent",
-  "metaDescription": "Duet Mail aitab pulmakorraldajatel klientide ja müüjate meilidele koheselt vastata – isegi toimumiskoha läbivaatusel. Tehisintellekti koostatud vastused teie pakettide, tarnija kontaktide ja häälega.",
+  "pageTitle": "Chiefy pulmakorraldajatele | AI e-posti assistent",
+  "metaDescription": "Chiefy aitab pulmakorraldajatel klientide ja müüjate meilidele koheselt vastata – isegi toimumiskoha läbivaatusel. Tehisintellekti koostatud vastused teie pakettide, tarnija kontaktide ja häälega.",
   "heroBadge": "Usaldab üle 400 pulmakorraldaja",
   "heroHeadline": "Teie e-posti assistent, kui olete kohapeal kohapeal",
-  "heroSubline": "Duet saab teada teie tarnija kontaktid, paketid ja kliendi eelistused – seejärel koostab meilivastuste mustandid, et paarid ei ootaks kunagi, kuni teie kohapeal koordineerite.",
+  "heroSubline": "Chiefy saab teada teie tarnija kontaktid, paketid ja kliendi eelistused – seejärel koostab meilivastuste mustandid, et paarid ei ootaks kunagi, kuni teie kohapeal koordineerite.",
   "inboxEmails": [
     {
       "from": "Emily ja James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "pulmad",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Üks säästetud klient maksab üle 20 aasta Duet i eest."
+    "punchline": "Üks säästetud klient maksab üle 20 aasta Chiefy i eest."
   },
-  "categorizationSubtitle": "Duet märgistab automaatselt iga meili, nii et näete esmalt uute paaride päringuid, teiseks tarnija kinnitusi ja uudiskirjade müra mitte kunagi. Enam ei puudu broneerimistaotlus, mis on sõlme märguannete alla mattunud.",
-  "draftSubtitle": "Duet õpib teie paketid, eelistatud müüjad ja tooni. Kui paar küsib, koostab see sooja ja täieliku vastuse koos teie saadavuse ja järgmiste sammudega. Vaatad üle ja saadad.",
-  "agentSubtitle": "\"Millised müüja meilid tulid Thompsoni pulmadeks?\" \"Koostage laupäevaks ajaskaala värskendus kõigile tarnijatele.\" Duet tunneb teie postkasti ja kliente – lihtsalt küsige.",
+  "categorizationSubtitle": "Chiefy märgistab automaatselt iga meili, nii et näete esmalt uute paaride päringuid, teiseks tarnija kinnitusi ja uudiskirjade müra mitte kunagi. Enam ei puudu broneerimistaotlus, mis on sõlme märguannete alla mattunud.",
+  "draftSubtitle": "Chiefy õpib teie paketid, eelistatud müüjad ja tooni. Kui paar küsib, koostab see sooja ja täieliku vastuse koos teie saadavuse ja järgmiste sammudega. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Millised müüja meilid tulid Thompsoni pulmadeks?\" \"Koostage laupäevaks ajaskaala värskendus kõigile tarnijatele.\" Chiefy tunneb teie postkasti ja kliente – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Emily ja James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "Olen poole nädala jooksul mägipiirkondades null-raku teenindusega. Samal ajal saadavad paarid mulle meili ajakavade ja müüja küsimuste kohta. Duet koostab vastused minu täpsete pakettide ja tooniga – vaatan need üle, kui olen tagasi levialas.",
+      "quote": "Olen poole nädala jooksul mägipiirkondades null-raku teenindusega. Samal ajal saadavad paarid mulle meili ajakavade ja müüja küsimuste kohta. Chiefy koostab vastused minu täpsete pakettide ja tooniga – vaatan need üle, kui olen tagasi levialas.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Täisteenusega pulmaplaneerija, CA",
-      "quote": "10+ müüja koordineerimine pulma kohta tähendab, et minu postkast on kõrghooajal sõjatsoon. Duet kategoriseerib hankija meilid klientide meilidest eraldi ja koostab järelmeetmete mustandid, mille oleksin ise kirjutanud. Ma tegelikult magan praegu.",
+      "quote": "10+ müüja koordineerimine pulma kohta tähendab, et minu postkast on kõrghooajal sõjatsoon. Chiefy kategoriseerib hankija meilid klientide meilidest eraldi ja koostab järelmeetmete mustandid, mille oleksin ise kirjutanud. Ma tegelikult magan praegu.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Koordinaatori päev, TX",
-      "quote": "Pulmapäevadel pole ma 14 tundi järjest kättesaadav. Uued päringud jäid vastuseta kuni esmaspäevani. Nüüd tegeleb Duet nendega kohe ja ma olen ainuüksi kiirema reageerimisaja tõttu broneerinud sel kvartalil kolm lisapulma.",
+      "quote": "Pulmapäevadel pole ma 14 tundi järjest kättesaadav. Uued päringud jäid vastuseta kuni esmaspäevani. Nüüd tegeleb Chiefy nendega kohe ja ma olen ainuüksi kiirema reageerimisaja tõttu broneerinud sel kvartalil kolm lisapulma.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Sihtkoha pulmaplaneerija, HI",
-      "quote": "Minu paarid lendavad kohale kõikjalt maailmast ja meilivad igal kellaajal. Duet sai teada minu KKK vastused – koha logistika, kohalikud müüjad, mida oodata – ja vastuste mustandid, mis kõlavad täpselt nagu mina. Klientidel pole aimugi.",
+      "quote": "Minu paarid lendavad kohale kõikjalt maailmast ja meilivad igal kellaajal. Chiefy sai teada minu KKK vastused – koha logistika, kohalikud müüjad, mida oodata – ja vastuste mustandid, mis kõlavad täpselt nagu mina. Klientidel pole aimugi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Pulma- ja ürituste planeerija, NY",
-      "quote": "Kulutasin igal õhtul 2 tundi samale paketi ja saadavuse küsimustele vastamisele. Duet tegeleb korduvate asjadega, et saaksin keskenduda loomingulisele tööle, mida ma tegelikult armastan. See tasus end ära esimese nädalaga.",
+      "quote": "Kulutasin igal õhtul 2 tundi samale paketi ja saadavuse küsimustele vastamisele. Chiefy tegeleb korduvate asjadega, et saaksin keskenduda loomingulisele tööle, mida ma tegelikult armastan. See tasus end ära esimese nädalaga.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Kas Duet töötab kõigi tarnija kooskõlastusmeilidega?",
-      "answer": "Jah. Duet saab teada teie tarnija kontaktid, eelistatud müüjad ja kuidas te nendega suhtlete. See kategoriseerib hankijate meilid pulmade järgi ja koostab vastused õigete üksikasjadega – kinnitused, järelmeetmed, ajaskaala värskendused. Vaatad üle ja saadad. See tegeleb lillepoodide, toitlustajate, esinemiskohtade, DJ-de, fotograafide ja kõigi teiste teie Rolodexi müüjatega."
+      "question": "Kas Chiefy töötab kõigi tarnija kooskõlastusmeilidega?",
+      "answer": "Jah. Chiefy saab teada teie tarnija kontaktid, eelistatud müüjad ja kuidas te nendega suhtlete. See kategoriseerib hankijate meilid pulmade järgi ja koostab vastused õigete üksikasjadega – kinnitused, järelmeetmed, ajaskaala värskendused. Vaatad üle ja saadad. See tegeleb lillepoodide, toitlustajate, esinemiskohtade, DJ-de, fotograafide ja kõigi teiste teie Rolodexi müüjatega."
     },
     {
       "question": "Olen terve päeva pulmades ja üritustel kohapeal. Kas jään uutest päringutest ilma?",
-      "answer": "See on täpselt see, mida Duet lahendab. Kui teie kohapeal koordineerimise ajal saadab paar meili saadavuse või pakettide kohta, koostab Duet sooja ja professionaalse vastuse, mis sisaldab teie tegelikku saadavust ja järgmisi samme. Vaatate üle ja saadate iga kord, kui olete vaba – isegi telefonist sündmuste vahel. Enamik planeerijaid ütleb meile, et see säästab kõrghooajal 1–2 tundi meilisõnumit päevas."
+      "answer": "See on täpselt see, mida Chiefy lahendab. Kui teie kohapeal koordineerimise ajal saadab paar meili saadavuse või pakettide kohta, koostab Chiefy sooja ja professionaalse vastuse, mis sisaldab teie tegelikku saadavust ja järgmisi samme. Vaatate üle ja saadate iga kord, kui olete vaba – isegi telefonist sündmuste vahel. Enamik planeerijaid ütleb meile, et see säästab kõrghooajal 1–2 tundi meilisõnumit päevas."
     }
   ],
   "pricingNote": "Kell $8,000/wedding maksab üks säästetud klient üle 20 aasta Pro eest."

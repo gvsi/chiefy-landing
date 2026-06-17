@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail para charters de pesca | Assistente de email com IA",
-  "metaDescription": "O Duet Mail ajuda capitães de charters de pesca a responder emails de reserva instantaneamente — até da água. Respostas redigidas por IA com os seus preços, políticas e tom.",
+  "pageTitle": "Chiefy para charters de pesca | Assistente de email com IA",
+  "metaDescription": "O Chiefy ajuda capitães de charters de pesca a responder emails de reserva instantaneamente — até da água. Respostas redigidas por IA com os seus preços, políticas e tom.",
   "heroBadge": "Usado por mais de 500 capitães de charter",
   "heroHeadline": "O seu assistente de email enquanto o utilizador está na água",
-  "heroSubline": "O Duet aprende os seus preços, políticas e tom — e então redige respostas de email para não perder nenhuma reserva por demora na resposta.",
+  "heroSubline": "O Chiefy aprende os seus preços, políticas e tom — e então redige respostas de email para não perder nenhuma reserva por demora na resposta.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "pescaria fretada",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Uma reserva recuperada paga um ano de Duet."
+    "punchline": "Uma reserva recuperada paga um ano de Chiefy."
   },
-  "categorizationSubtitle": "O Duet marca automaticamente cada email para ver pedidos de reserva primeiro, perguntas em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de pescaria enterrada sob alertas do TripAdvisor.",
-  "draftSubtitle": "O Duet aprende os seus preços, políticas e tom. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da saída, preço e o que levar. Reveja e envia.",
-  "agentSubtitle": "\"Quais dias estão livres na próxima semana?\" \"Redija uma resposta para Sarah com a disponibilidade.\" O Duet conhece a sua caixa de entrada e o seu calendário — é só perguntar.",
+  "categorizationSubtitle": "O Chiefy marca automaticamente cada email para ver pedidos de reserva primeiro, perguntas em seguida e nunca perder tempo com ruído. Chega de perder uma consulta de pescaria enterrada sob alertas do TripAdvisor.",
+  "draftSubtitle": "O Chiefy aprende os seus preços, políticas e tom. Quando chega uma consulta de reserva, ele redige uma resposta completa com detalhes da saída, preço e o que levar. Reveja e envia.",
+  "agentSubtitle": "\"Quais dias estão livres na próxima semana?\" \"Redija uma resposta para Sarah com a disponibilidade.\" O Chiefy conhece a sua caixa de entrada e o seu calendário — é só perguntar.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Captain Mike D.",
       "title": "Capitão de charter offshore, FL",
-      "quote": "Na alta temporada, eu perdia 2-3 reservas por semana só porque não conseguia responder rápido o bastante do barco. O Duet redige respostas com os meus preços e detalhes da saída — eu só envio entre uma captura e outra.",
+      "quote": "Na alta temporada, eu perdia 2-3 reservas por semana só porque não conseguia responder rápido o bastante do barco. O Chiefy redige respostas com os meus preços e detalhes da saída — eu só envio entre uma captura e outra.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Empresa familiar de charter, OR",
-      "quote": "Operamos dois barcos e o volume de emails no verão é insano. O Duet separa pedidos de reserva de todo o resto e redige respostas que soam exatamente como nós. Mudou o jogo.",
+      "quote": "Operamos dois barcos e o volume de emails no verão é insano. O Chiefy separa pedidos de reserva de todo o resto e redige respostas que soam exatamente como nós. Mudou o jogo.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Guia de pesca costeira, TX",
-      "quote": "Eu passava uma hora toda noite respondendo às mesmas perguntas de disponibilidade. Agora o Duet cuida disso. O meu tempo de resposta caiu de horas para minutos e não perdi mais nenhuma reserva.",
+      "quote": "Eu passava uma hora toda noite respondendo às mesmas perguntas de disponibilidade. Agora o Chiefy cuida disso. O meu tempo de resposta caiu de horas para minutos e não perdi mais nenhuma reserva.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Gerente de escritório de charters, HI",
-      "quote": "Gerir emails de 4 capitães era um trabalho de tempo integral. O Duet categoriza tudo e redige respostas com o barco certo, o preço certo, o capitão certo. É como ter outra versão de mim.",
+      "quote": "Gerir emails de 4 capitães era um trabalho de tempo integral. O Chiefy categoriza tudo e redige respostas com o barco certo, o preço certo, o capitão certo. É como ter outra versão de mim.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Começar o seu teste grátis. Conecte a sua caixa de entrada em 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "O Duet funciona para emails de reserva e disponibilidade?",
-      "answer": "Com certeza. O Duet aprende os seus tipos de saída, preços, disponibilidade e políticas. Quando chega uma consulta de reserva, ele redige uma resposta completa com os detalhes certos — preço, o que está incluído, ponto de encontro, o que levar. Reveja e toca em enviar."
+      "question": "O Chiefy funciona para emails de reserva e disponibilidade?",
+      "answer": "Com certeza. O Chiefy aprende os seus tipos de saída, preços, disponibilidade e políticas. Quando chega uma consulta de reserva, ele redige uma resposta completa com os detalhes certos — preço, o que está incluído, ponto de encontro, o que levar. Reveja e toca em enviar."
     },
     {
-      "question": "Fico na água o dia todo. Posso usar o Duet pelo telemóvel?",
-      "answer": "Sim. O Duet funciona com Gmail e Outlook, então funciona onde o seu email funciona — inclusive no telemóvel. Os rascunhos aparecem automaticamente. Entre uma captura e outra, reveja e envia com um toque. A maioria dos capitães nos diz que poupa 1-2 horas de email por dia durante a alta temporada."
+      "question": "Fico na água o dia todo. Posso usar o Chiefy pelo telemóvel?",
+      "answer": "Sim. O Chiefy funciona com Gmail e Outlook, então funciona onde o seu email funciona — inclusive no telemóvel. Os rascunhos aparecem automaticamente. Entre uma captura e outra, reveja e envia com um toque. A maioria dos capitães nos diz que poupa 1-2 horas de email por dia durante a alta temporada."
     }
   ],
   "pricingNote": "Com $500/pescaria fretada, uma reserva recuperada paga mais de um ano de Pro."

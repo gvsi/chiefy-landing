@@ -7,6 +7,7 @@ import {
     LANDING_HEADER_UNSETS,
     LANDING_SECURITY_HEADERS,
     computeCanonicalRedirect,
+    computeWwwToApexRedirect,
     computeFlipRedirect,
     handleLandingRequest,
 } from "../../functions/redirectCore.mjs"
@@ -160,12 +161,29 @@ function assertFunctionsBuild() {
     if (!adapterSource.includes("./redirectCore.mjs")) fail("Catch-all Function does not import shared redirectCore.mjs")
 }
 
+function assertWwwToApex() {
+    // www.chiefy.com → chiefy.com: 301 preserving path + query
+    const withPath = computeWwwToApexRedirect(new Request("https://www.chiefy.com/blog/post?utm_source=test"))
+    if (withPath !== "https://chiefy.com/blog/post?utm_source=test") fail(`www→apex with path failed: ${withPath}`)
+
+    const apex = computeWwwToApexRedirect(new Request("https://www.chiefy.com/"))
+    if (apex !== "https://chiefy.com/") fail(`www→apex root failed: ${apex}`)
+
+    // Non-www hosts must not be redirected
+    const noRedirect = computeWwwToApexRedirect(new Request("https://chiefy.com/blog"))
+    if (noRedirect !== null) fail(`www→apex wrongly triggered for apex host: ${noRedirect}`)
+
+    const duetNoRedirect = computeWwwToApexRedirect(new Request("https://duetmail.com/"))
+    if (duetNoRedirect !== null) fail(`www→apex wrongly triggered for duetmail.com: ${duetNoRedirect}`)
+}
+
 try {
     await assertFixtures()
     await assertFlipRedirects()
     assertHeadersMirror()
     assertRoutesManifest()
     assertRedirectsStaticFile()
+    assertWwwToApex()
     if (args.has("--check-functions-build")) assertFunctionsBuild()
     console.log("redirect contracts passed")
 } catch (error) {

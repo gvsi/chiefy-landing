@@ -1,12 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail for Fishing Charters | AI Email Assistant",
-  "metaDescription": "Duet Mail helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
-
+  "pageTitle": "Chiefy for Fishing Charters | AI Email Assistant",
+  "metaDescription": "Chiefy helps fishing charter captains respond to booking emails instantly — even from the water. AI-drafted replies with your pricing, policies, and voice.",
   "heroBadge": "Trusted by 500+ charter captains",
   "heroHeadline": "Your email assistant while you're on the water",
-  "heroSubline": "Duet learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
-
+  "heroSubline": "Chiefy learns your pricing, policies, and voice — then drafts email replies so you never lose a booking to a slow response.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -45,23 +43,17 @@
       "pillColor": "lavender"
     }
   ],
-
   "autodraft": "Hey Sarah! July 12 is open for 4. Full-day trips run 8 hours, starting at 6 AM. All rods, tackle, bait, and licenses are included — just bring sunscreen, water, and a cooler for your catch. Want me to lock it in?",
-
   "math": {
     "pricePerBooking": "$500",
     "bookingUnit": "charter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "One saved booking pays for a year of Duet."
+    "punchline": "One saved booking pays for a year of Chiefy."
   },
-
-  "categorizationSubtitle": "Duet automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
-
-  "draftSubtitle": "Duet learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
-
-  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Duet knows your inbox and calendar — just ask.",
-
+  "categorizationSubtitle": "Chiefy automatically tags every email so you see booking requests first, questions second, and noise never. No more missing a trip inquiry buried under TripAdvisor alerts.",
+  "draftSubtitle": "Chiefy learns your pricing, policies, and tone. When a booking inquiry hits, it drafts a complete reply with trip details, pricing, and what to bring. You review and send.",
+  "agentSubtitle": "\"Which days are open next week?\" \"Draft a reply to Sarah with availability.\" Chiefy knows your inbox and calendar — just ask.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -105,7 +97,6 @@
       "pillColor": "lavender"
     }
   ],
-
   "draft": {
     "to": "sarah.m@email.com",
     "subject": "Re: Availability July 12 for 4 people?",
@@ -125,38 +116,36 @@
       "Learns over time"
     ]
   },
-
   "agent": {
     "userMessage": "Which days are still open next week?",
     "agentResponse": "Based on your calendar, you have openings on Tuesday, Thursday, and Saturday next week. Monday and Wednesday are fully booked (2 charters each). Want me to draft a response to any pending inquiries with these dates?",
     "followUp": "Draft a reply to Sarah with the July 12 availability",
     "followUpResponse": "Done! I drafted a reply to Sarah confirming July 12 for 4 guests at $500. It includes your standard trip details and meeting location. Ready to review and send."
   },
-
   "testimonialsTitle": "Loved by charter captains",
   "testimonials": [
     {
       "name": "Captain Mike D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Duet drafts responses with my pricing and trip details — I just hit send between catches.",
+      "quote": "During peak season I'd lose 2-3 bookings a week just because I couldn't reply fast enough from the boat. Chiefy drafts responses with my pricing and trip details — I just hit send between catches.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "We run two boats and the email volume during summer is insane. Duet sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
+      "quote": "We run two boats and the email volume during summer is insane. Chiefy sorts booking requests from everything else and drafts replies that sound exactly like us. Absolute game changer.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Inshore Fishing Guide, TX",
-      "quote": "I was spending an hour every night answering the same availability questions. Now Duet handles it. My response time went from hours to minutes and I haven't lost a booking since.",
+      "quote": "I was spending an hour every night answering the same availability questions. Now Chiefy handles it. My response time went from hours to minutes and I haven't lost a booking since.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Charter Office Manager, HI",
-      "quote": "Managing emails for 4 captains was a full-time job. Duet categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
+      "quote": "Managing emails for 4 captains was a full-time job. Chiefy categorizes everything and drafts replies with the right boat, the right price, the right captain. It's like having another me.",
       "avatarKey": "jennifer"
     },
     {
@@ -166,20 +155,17 @@
       "avatarKey": "francesca"
     }
   ],
-
   "ctaHeadline": "Spend peak season on the water,\nnot in your inbox.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
-
   "verticalFaqs": [
     {
-      "question": "Does Duet work for booking and availability emails?",
-      "answer": "Absolutely. Duet learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
+      "question": "Does Chiefy work for booking and availability emails?",
+      "answer": "Absolutely. Chiefy learns your trip types, pricing, availability, and policies. When a booking inquiry comes in, it drafts a complete response with the right details — pricing, what's included, meeting location, what to bring. You review and tap send."
     },
     {
-      "question": "I'm on the water all day. Can I use Duet from my phone?",
-      "answer": "Yes. Duet works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
+      "question": "I'm on the water all day. Can I use Chiefy from my phone?",
+      "answer": "Yes. Chiefy works with Gmail and Outlook, so it works wherever your email works — including your phone. Drafts appear automatically. Between catches, you review and send with one tap. Most captains tell us it saves them 1-2 hours of email time per day during peak season."
     }
   ],
-
   "pricingNote": "At $500/charter, one saved booking pays for over a year of Pro."
 }

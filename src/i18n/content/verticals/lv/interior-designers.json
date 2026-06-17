@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail interjera dizaineriem | AI e-pasta asistents",
-  "metaDescription": "Duet Mail palīdz interjera dizaineriem pārvaldīt klientu e-pastus, koordināciju ar darbuzņēmējiem un piegādātāju pasūtījumus — pat atrodoties objektā. AI sagatavotas atbildes ar jūsu projekta detaļām, preferencēm un balsi.",
+  "pageTitle": "Chiefy interjera dizaineriem | AI e-pasta asistents",
+  "metaDescription": "Chiefy palīdz interjera dizaineriem pārvaldīt klientu e-pastus, koordināciju ar darbuzņēmējiem un piegādātāju pasūtījumus — pat atrodoties objektā. AI sagatavotas atbildes ar jūsu projekta detaļām, preferencēm un balsi.",
   "heroBadge": "Uzticas vairāk nekā 400 interjera dizaineru",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat objektā ar klientiem",
-  "heroSubline": "Duet apgūst jūsu piegādātāju kontaktus, projekta detaļas un klientu preferences — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu klientu lēnas atbildes dēļ.",
+  "heroSubline": "Chiefy apgūst jūsu piegādātāju kontaktus, projekta detaļas un klientu preferences — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu klientu lēnas atbildes dēļ.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekts",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Viens saglabāts klients apmaksā Duet gadiem ilgi."
+    "punchline": "Viens saglabāts klients apmaksā Chiefy gadiem ilgi."
   },
-  "categorizationSubtitle": "Duet automātiski marķē katru e-pastu, lai vispirms redzētu jaunus klientu pieprasījumus, pēc tam gaidošos apstiprinājumus, bet piegādātāju jaunumus — nekad. Vairs nekādu nokavētu dizaina konsultāciju, kas paslēpta zem izstāžu akciju e-pastiem.",
-  "draftSubtitle": "Duet apgūst jūsu procesu, projekta detaļas un toni. Kad pienāk jauns pieprasījums vai klienta jautājums, tas sagatavo pilnu atbildi ar jūsu pieejamību, nākamajiem soļiem un projekta specifiku. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Kāds ir Henderson projekta statuss?\" \"Kuri apstiprinājumi vēl gaida?\" Duet pārzina jūsu iesūtni un katra projekta saraksti — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Chiefy automātiski marķē katru e-pastu, lai vispirms redzētu jaunus klientu pieprasījumus, pēc tam gaidošos apstiprinājumus, bet piegādātāju jaunumus — nekad. Vairs nekādu nokavētu dizaina konsultāciju, kas paslēpta zem izstāžu akciju e-pastiem.",
+  "draftSubtitle": "Chiefy apgūst jūsu procesu, projekta detaļas un toni. Kad pienāk jauns pieprasījums vai klienta jautājums, tas sagatavo pilnu atbildi ar jūsu pieejamību, nākamajiem soļiem un projekta specifiku. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kāds ir Henderson projekta statuss?\" \"Kuri apstiprinājumi vēl gaida?\" Chiefy pārzina jūsu iesūtni un katra projekta saraksti — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Vadošais dizainers, Austin TX",
-      "quote": "Es objektā pavadu 6 stundas dienā, koordinējot krāsotājus, elektriķus un flīzētājus. Tikmēr trīs citi klienti raksta par saviem projektiem. Duet sagatavo atbildes ar pareizajām projekta detaļām — es tikai pārskatu starp objekta apmeklējumiem.",
+      "quote": "Es objektā pavadu 6 stundas dienā, koordinējot krāsotājus, elektriķus un flīzētājus. Tikmēr trīs citi klienti raksta par saviem projektiem. Chiefy sagatavo atbildes ar pareizajām projekta detaļām — es tikai pārskatu starp objekta apmeklējumiem.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Dzīvojamo telpu interjera dizainere, Chicago",
-      "quote": "Agrāk klientu pieprasījumi gaidīja dienām, jo biju ierakta iepirkumu e-pastos un darbuzņēmēju grafikos. Tagad Duet dažu minūšu laikā atbild jaunajiem kontaktiem ar manu procesu un pieejamību. Šajā ceturksnī esmu ieguvusi 4 papildu projektus.",
+      "quote": "Agrāk klientu pieprasījumi gaidīja dienām, jo biju ierakta iepirkumu e-pastos un darbuzņēmēju grafikos. Tagad Chiefy dažu minūšu laikā atbild jaunajiem kontaktiem ar manu procesu un pieejamību. Šajā ceturksnī esmu ieguvusi 4 papildu projektus.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Dizaina studijas īpašnieks, Nashville",
-      "quote": "Pārvaldīt e-pastus 12 aktīviem projektiem bija nepanesami. Duet visu kategorizē — jaunus pieprasījumus, gaidošus apstiprinājumus, piegādātāju pasūtījumus, darbuzņēmēju atjauninājumus — tāpēc precīzi zinu, kam vispirms jāpievērš uzmanība.",
+      "quote": "Pārvaldīt e-pastus 12 aktīviem projektiem bija nepanesami. Chiefy visu kategorizē — jaunus pieprasījumus, gaidošus apstiprinājumus, piegādātāju pasūtījumus, darbuzņēmēju atjauninājumus — tāpēc precīzi zinu, kam vispirms jāpievērš uzmanība.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Interjera dekoratore, San Diego",
-      "quote": "Es zaudēju potenciālos klientus, jo uzstādīšanas nedēļās nespēju atbildēt pietiekami ātri. Duet apguva manu konsultāciju procesu, cenu struktūru un pat to, kā aprakstu savu dizaina stilu. Klienti nemaz nezina, ka palīdz AI.",
+      "quote": "Es zaudēju potenciālos klientus, jo uzstādīšanas nedēļās nespēju atbildēt pietiekami ātri. Chiefy apguva manu konsultāciju procesu, cenu struktūru un pat to, kā aprakstu savu dizaina stilu. Klienti nemaz nezina, ka palīdz AI.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Komerctelpu interjera dizainere, Denver",
-      "quote": "Starp piegādātāju termiņiem, darbuzņēmēju grafikiem un klientu labojumu pieprasījumiem mana iesūtne bija haoss. Duet visu sakārto un sagatavo atgādinājumus par gaidošiem apstiprinājumiem. Tas ir kā projektu koordinators, kurš nekad neguļ.",
+      "quote": "Starp piegādātāju termiņiem, darbuzņēmēju grafikiem un klientu labojumu pieprasījumiem mana iesūtne bija haoss. Chiefy visu sakārto un sagatavo atgādinājumus par gaidošiem apstiprinājumiem. Tas ir kā projektu koordinators, kurš nekad neguļ.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet savu iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Es vienlaikus vadu 8–10 projektus. Vai Duet spēj tos nesajaukt?",
-      "answer": "Jā. Duet seko katrai e-pasta sarakstei pēc klienta un projekta. Kad jautājat par Henderson virtuvi vai Park Avenue biroju, tas iegūst kontekstu no visām saistītajām sarunām — piegādātāju pasūtījumiem, darbuzņēmēju atjauninājumiem, klientu apstiprinājumiem — lai jūsu atbildes vienmēr būtu precīzas un konkrētajam projektam atbilstošas. Vairs nekādas sajaukšanas, kuras flīzes bija kuram klientam."
+      "question": "Es vienlaikus vadu 8–10 projektus. Vai Chiefy spēj tos nesajaukt?",
+      "answer": "Jā. Chiefy seko katrai e-pasta sarakstei pēc klienta un projekta. Kad jautājat par Henderson virtuvi vai Park Avenue biroju, tas iegūst kontekstu no visām saistītajām sarunām — piegādātāju pasūtījumiem, darbuzņēmēju atjauninājumiem, klientu apstiprinājumiem — lai jūsu atbildes vienmēr būtu precīzas un konkrētajam projektam atbilstošas. Vairs nekādas sajaukšanas, kuras flīzes bija kuram klientam."
     },
     {
-      "question": "Es koordinēju darbu ar daudziem apakšuzņēmējiem un piegādātājiem. Vai Duet palīdz arī ar to?",
-      "answer": "Pilnīgi noteikti. Duet iepazīst jūsu apakšuzņēmēju kontaktus, piegādātāju pārstāvjus un katra darba veida lomu jūsu projektos. Kad elektriķis e-pastā paziņo, ka pamatinstalācija ir pabeigta, Duet var sagatavot atbildi, apstiprinot nākamo soli, vai pievienot sarakstei gaismekļu uzstādītāju. Tas palīdz darbplūsmai turpināties arī tad, kad atrodaties otrā pilsētas pusē citā objektā."
+      "question": "Es koordinēju darbu ar daudziem apakšuzņēmējiem un piegādātājiem. Vai Chiefy palīdz arī ar to?",
+      "answer": "Pilnīgi noteikti. Chiefy iepazīst jūsu apakšuzņēmēju kontaktus, piegādātāju pārstāvjus un katra darba veida lomu jūsu projektos. Kad elektriķis e-pastā paziņo, ka pamatinstalācija ir pabeigta, Chiefy var sagatavot atbildi, apstiprinot nākamo soli, vai pievienot sarakstei gaismekļu uzstādītāju. Tas palīdz darbplūsmai turpināties arī tad, kad atrodaties otrā pilsētas pusē citā objektā."
     }
   ],
-  "pricingNote": "Pie $10,000 par projektu viens saglabāts klients apmaksā Duet Pro gadiem ilgi."
+  "pricingNote": "Pie $10,000 par projektu viens saglabāts klients apmaksā Chiefy Pro gadiem ilgi."
 }

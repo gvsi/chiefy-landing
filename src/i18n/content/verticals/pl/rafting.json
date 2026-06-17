@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mail dla dostawców raftingu i kajaków | AI Email Assistant",
-  "metaDescription": "Duet Mail pomaga przewodnikom raftingowym i dostawcom kajaków natychmiast reagować na zapytania dotyczące wycieczek — nawet z rzeki. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły podróży, ceny i głos.",
+  "pageTitle": "Chiefy dla dostawców raftingu i kajaków | AI Email Assistant",
+  "metaDescription": "Chiefy pomaga przewodnikom raftingowym i dostawcom kajaków natychmiast reagować na zapytania dotyczące wycieczek — nawet z rzeki. Odpowiedzi opracowane przez sztuczną inteligencję zawierające szczegóły podróży, ceny i głos.",
   "heroBadge": "Zaufali mu przewodnicy rzeczni 200+",
   "heroHeadline": "Twój asystent poczty e-mail, gdy jesteś na rzece",
-  "heroSubline": "Duet poznaje Twoje rodzaje wycieczek, ceny i listy sprzętu — następnie przygotowuje wersje robocze odpowiedzi na zapytania dotyczące rezerwacji, aby klienci otrzymywali odpowiedzi, gdy płyniesz bystrzami.",
+  "heroSubline": "Chiefy poznaje Twoje rodzaje wycieczek, ceny i listy sprzętu — następnie przygotowuje wersje robocze odpowiedzi na zapytania dotyczące rezerwacji, aby klienci otrzymywali odpowiedzi, gdy płyniesz bystrzami.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "osoba",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dwie zapisane rezerwacje płacą za cały rok Duet."
+    "punchline": "Dwie zapisane rezerwacje płacą za cały rok Chiefy."
   },
-  "categorizationSubtitle": "Duet automatycznie taguje każdy e-mail, więc zapytania o wycieczki pojawiają się jako pierwsze, pytania o sprzęt na drugim miejscu, a hałasy promocyjne znikają. Koniec z przegapianiem rezerwacji grupowych ukrytych pod alertami serwisu TripAdvisor.",
-  "draftSubtitle": "Duet poznaje Twoje typy podróży, klasy bystrzy, listy biegów i zasady anulowania. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź zawierającą wszystko, czego potrzebuje klient. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„Jakieś wolne miejsca w sobotni cały dzień?” „Napisz odpowiedź dla Jennifer z informacją o dostępności”. Duet zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj.",
+  "categorizationSubtitle": "Chiefy automatycznie taguje każdy e-mail, więc zapytania o wycieczki pojawiają się jako pierwsze, pytania o sprzęt na drugim miejscu, a hałasy promocyjne znikają. Koniec z przegapianiem rezerwacji grupowych ukrytych pod alertami serwisu TripAdvisor.",
+  "draftSubtitle": "Chiefy poznaje Twoje typy podróży, klasy bystrzy, listy biegów i zasady anulowania. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź zawierającą wszystko, czego potrzebuje klient. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Jakieś wolne miejsca w sobotni cały dzień?” „Napisz odpowiedź dla Jennifer z informacją o dostępności”. Chiefy zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, Kolorado",
-      "quote": "W szczycie sezonu jestem na rzece 6 dni w tygodniu. Zanim wróciłem do e-maili, połowa grup miała już rezerwację u kogoś innego. Teraz Duet przygotowuje odpowiedzi ze szczegółami podróży i cenami, podczas gdy ja jestem na miejscu.",
+      "quote": "W szczycie sezonu jestem na rzece 6 dni w tygodniu. Zanim wróciłem do e-maili, połowa grup miała już rezerwację u kogoś innego. Teraz Chiefy przygotowuje odpowiedzi ze szczegółami podróży i cenami, podczas gdy ja jestem na miejscu.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Wycieczki kajakowe i SUP LUB",
-      "quote": "Każdy klient zadaje te same pięć pytań – cena, co zabrać, poziom umiejętności, wielkość grupy, zasady anulowania. Duet nauczył się tego wszystkiego w pierwszym tygodniu. Przeszedłem od godziny wysyłania e-maili każdego wieczoru do pięciu minut recenzowania wersji roboczych.",
+      "quote": "Każdy klient zadaje te same pięć pytań – cena, co zabrać, poziom umiejętności, wielkość grupy, zasady anulowania. Chiefy nauczył się tego wszystkiego w pierwszym tygodniu. Przeszedłem od godziny wysyłania e-maili każdego wieczoru do pięciu minut recenzowania wersji roboczych.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Przewodnik po wyprawach wielodniowych, AK",
-      "quote": "Organizuję wycieczki jednodniowe 5 z obsługą zerowej komórki. Przed Duet każde zapytanie pozostawało bez odpowiedzi, dopóki nie wróciłem do miasta. Teraz klienci otrzymują szczegółową odpowiedź w ciągu kilku minut, a ja potwierdzam, kiedy wypływam z rzeki.",
+      "quote": "Organizuję wycieczki jednodniowe 5 z obsługą zerowej komórki. Przed Chiefy każde zapytanie pozostawało bez odpowiedzi, dopóki nie wróciłem do miasta. Teraz klienci otrzymują szczegółową odpowiedź w ciągu kilku minut, a ja potwierdzam, kiedy wypływam z rzeki.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "Kierownik biura River Adventures, WV",
-      "quote": "Zarządzam rezerwacjami dla trzech przewodników w ramach czterech rodzajów wycieczek. Duet kategoryzuje każdy e-mail według pilności i przygotowuje odpowiedzi zawierające odpowiednią podróż, właściwą cenę i odpowiednią listę sprzętu. To tak jakbym siebie klonował.",
+      "quote": "Zarządzam rezerwacjami dla trzech przewodników w ramach czterech rodzajów wycieczek. Chiefy kategoryzuje każdy e-mail według pilności i przygotowuje odpowiedzi zawierające odpowiednią podróż, właściwą cenę i odpowiednią listę sprzętu. To tak jakbym siebie klonował.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Czy Duet obsługuje niestandardowe wyceny wycieczek i zapytania dotyczące wypraw wielodniowych?",
-      "answer": "Tak. Duet poznaje Twój pełny program wycieczek — półdniowe pływaki, całodniowe bystrza, wielodniowe wyprawy — wraz z cenami, zawartością, minimalnym wiekiem i poziomem trudności. Kiedy ktoś pyta o jednodniową wycieczkę 3 do 6,, przygotowuje pełną odpowiedź zawierającą właściwe szczegóły. Sprawdzasz, poprawiasz w razie potrzeby i wysyłasz."
+      "question": "Czy Chiefy obsługuje niestandardowe wyceny wycieczek i zapytania dotyczące wypraw wielodniowych?",
+      "answer": "Tak. Chiefy poznaje Twój pełny program wycieczek — półdniowe pływaki, całodniowe bystrza, wielodniowe wyprawy — wraz z cenami, zawartością, minimalnym wiekiem i poziomem trudności. Kiedy ktoś pyta o jednodniową wycieczkę 3 do 6,, przygotowuje pełną odpowiedź zawierającą właściwe szczegóły. Sprawdzasz, poprawiasz w razie potrzeby i wysyłasz."
     },
     {
-      "question": "Podczas kilkudniowych wycieczek jestem wyłączony z sieci. Czy Duet nadal działa?",
-      "answer": "To jest dokładnie problem, który rozwiązuje Duet. Gdy jesteś na rzece bez sygnału, Duet przygotowuje odpowiedzi na każde przychodzące zapytanie. Kiedy wrócisz do zasięgu, Twoje wersje robocze czekają — wystarczy je przejrzeć i wysłać. Większość przewodników twierdzi, że eliminuje to zaległości, z którymi borykali się po każdej kilkudniowej wycieczce."
+      "question": "Podczas kilkudniowych wycieczek jestem wyłączony z sieci. Czy Chiefy nadal działa?",
+      "answer": "To jest dokładnie problem, który rozwiązuje Chiefy. Gdy jesteś na rzece bez sygnału, Chiefy przygotowuje odpowiedzi na każde przychodzące zapytanie. Kiedy wrócisz do zasięgu, Twoje wersje robocze czekają — wystarczy je przejrzeć i wysłać. Większość przewodników twierdzi, że eliminuje to zaległości, z którymi borykali się po każdej kilkudniowej wycieczce."
     }
   ],
   "pricingNote": "W $150/person dwie zapisane rezerwacje obejmują cały rok Pro."

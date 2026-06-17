@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail pentru excursii cu sania de câini | Asistent de e-mail AI",
-  "metaDescription": "Duet Mail îi ajută pe mushers să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu tipurile tale de tur, prețurile, politicile și vocea ta.",
+  "pageTitle": "Chiefy pentru excursii cu sania de câini | Asistent de e-mail AI",
+  "metaDescription": "Chiefy îi ajută pe mushers să răspundă instantaneu la e-mailurile de rezervare, chiar și de pe traseu. Răspunsuri elaborate de AI cu tipurile tale de tur, prețurile, politicile și vocea ta.",
   "heroBadge": "Au încredere de peste 200 de mushers",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe traseu",
-  "heroSubline": "Duet învață tipurile de tur, prețurile, politicile meteo și suplimentele tale - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
+  "heroSubline": "Chiefy învață tipurile de tur, prețurile, politicile meteo și suplimentele tale - apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tur",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Două rezervări salvate plătesc pentru un an de Duet."
+    "punchline": "Două rezervări salvate plătesc pentru un an de Chiefy."
   },
-  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vezi mai întâi cererile de rezervare, apoi întrebările și niciodată zgomotul. Nu mai ratezi o întrebare despre tur îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Duet învață tipurile de tur, prețurile și tonul tău. Când ajunge o solicitare de rezervare, redactează un răspuns complet cu detalii despre pachet, ce să poarte și suplimente. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Ai rezervări în acest weekend?” „Redactează un răspuns despre combinația de aurore.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vezi mai întâi cererile de rezervare, apoi întrebările și niciodată zgomotul. Nu mai ratezi o întrebare despre tur îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Chiefy învață tipurile de tur, prețurile și tonul tău. Când ajunge o solicitare de rezervare, redactează un răspuns complet cu detalii despre pachet, ce să poarte și suplimente. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Ai rezervări în acest weekend?” „Redactează un răspuns despre combinația de aurore.” Chiefy îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Ryan H.",
       "title": "Sled Dog Tour Operator, AK",
-      "quote": "Sunt pe traseu 6 ore pe zi, cu serviciul de telefon zero. Până mă întorceam, jumătate din solicitările de rezervare ajunseseră la o altă ținută. Duet elaborează răspunsuri cu detaliile turului meu și prețurile — oaspeții au răspuns în câteva minute, nu în ore.",
+      "quote": "Sunt pe traseu 6 ore pe zi, cu serviciul de telefon zero. Până mă întorceam, jumătate din solicitările de rezervare ajunseseră la o altă ținută. Chiefy elaborează răspunsuri cu detaliile turului meu și prețurile — oaspeții au răspuns în câteva minute, nu în ore.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Proprietar al turului Kennel & Mush, AK",
-      "quote": "Oferim vizite la canisa, plimbări cu mush și combinații de aurore - fiecare e-mail are nevoie de un răspuns diferit. Duet a descoperit toate cele trei tipuri de tur într-o săptămână și acum redactează răspunsuri care se potrivesc de fiecare dată cu pachetul potrivit.",
+      "quote": "Oferim vizite la canisa, plimbări cu mush și combinații de aurore - fiecare e-mail are nevoie de un răspuns diferit. Chiefy a descoperit toate cele trei tipuri de tur într-o săptămână și acum redactează răspunsuri care se potrivesc de fiecare dată cu pachetul potrivit.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Ghid de sanie de câini, MN",
-      "quote": "Obișnuiam să petrec în fiecare seară răspunzând la aceleași întrebări despre ce să mă îmbrac, limitele de vârstă și câinii. Duet se ocupă de toate acestea. Ajung acasă de pe traseu și totul e pregătit și așteaptă.",
+      "quote": "Obișnuiam să petrec în fiecare seară răspunzând la aceleași întrebări despre ce să mă îmbrac, limitele de vârstă și câinii. Chiefy se ocupă de toate acestea. Ajung acasă de pe traseu și totul e pregătit și așteaptă.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora & Sled Tour Operator, AK",
-      "quote": "Anulările meteo sunt constante iarna. Duet întocmește răspunsurile de reprogramare cu politica noastră și date alternative chiar înainte de a avea ocazia să-mi verific telefonul. Oaspeților le place răspunsul rapid.",
+      "quote": "Anulările meteo sunt constante iarna. Chiefy întocmește răspunsurile de reprogramare cu politica noastră și date alternative chiar înainte de a avea ocazia să-mi verific telefonul. Oaspeților le place răspunsul rapid.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Cara D.",
       "title": "Family Dog Sled Adventures, CO",
-      "quote": "Părinții întreabă întotdeauna dacă copiii lor se pot zgâri, dacă câinii sunt prietenoși, cu ce să se poarte - aceleași 10 întrebări. Duet a învățat fiecare răspuns și le-a redactat perfect. Este ca și cum mă clonez pentru e-mail.",
+      "quote": "Părinții întreabă întotdeauna dacă copiii lor se pot zgâri, dacă câinii sunt prietenoși, cu ce să se poarte - aceleași 10 întrebări. Chiefy a învățat fiecare răspuns și le-a redactat perfect. Este ca și cum mă clonez pentru e-mail.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Cum gestionează Duet anulările meteo și incertitudinea aurorelor?",
-      "answer": "Duet află politicile tale de anulare și reprogramare. Când un oaspete trimite e-mailuri despre probleme legate de vreme sau de vizibilitatea aurorelor, redactează un răspuns cu politica ta, date alternative și orice detalii relevante - cum ar fi monitorizarea condițiilor și confirmarea mai aproape de tur. Tu revizuiești și trimiți."
+      "question": "Cum gestionează Chiefy anulările meteo și incertitudinea aurorelor?",
+      "answer": "Chiefy află politicile tale de anulare și reprogramare. Când un oaspete trimite e-mailuri despre probleme legate de vreme sau de vizibilitatea aurorelor, redactează un răspuns cu politica ta, date alternative și orice detalii relevante - cum ar fi monitorizarea condițiilor și confirmarea mai aproape de tur. Tu revizuiești și trimiți."
     },
     {
-      "question": "Ofer mai multe tipuri de tur cu prețuri și suplimente diferite. Duet le poate menține drept?",
-      "answer": "Da. Duet învață fiecare dintre tipurile tale de tur - vizite la canisa, experiențe de mushing, combinații de aurore, suplimente de fotografie, pachete de transport - împreună cu prețurile, durata și ceea ce este inclus. Când vine o întrebare, se potrivește cu turul potrivit și redactează un răspuns cu detaliile corecte."
+      "question": "Ofer mai multe tipuri de tur cu prețuri și suplimente diferite. Chiefy le poate menține drept?",
+      "answer": "Da. Chiefy învață fiecare dintre tipurile tale de tur - vizite la canisa, experiențe de mushing, combinații de aurore, suplimente de fotografie, pachete de transport - împreună cu prețurile, durata și ceea ce este inclus. Când vine o întrebare, se potrivește cu turul potrivit și redactează un răspuns cu detaliile corecte."
     }
   ],
   "pricingNote": "La 150 USD/tur, două rezervări salvate plătesc pentru peste un an de Pro."

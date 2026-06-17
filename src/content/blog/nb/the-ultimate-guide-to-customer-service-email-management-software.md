@@ -2,7 +2,7 @@
 title: "Den komplette guiden til programvare for handtering av kundeservice-e-post"
 description: "Slutt å drukne i support-e-post. Se hvordan programvare for kundeservice-e-post, inkludert AI-verktoy, effektiviserer arbeidet."
 publishedAt: 2025-05-17
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Innbokshandtering", "E-post"]
 draft: false
 ---
@@ -50,7 +50,7 @@ AI kan oppsummere lange kundetråder, foreslå svar, identifisere hastesaker og 
 
 AI er nyttig når den hjelper teamet med å forstå og prioritere. En lang, frustrert kundetråd kan oppsummeres til problemet, tidligere tiltak og anbefalt neste handling. Et svarutkast kan spare tid, men bor alltid gjennomgås av et menneske.
 
-[**Duet Mail**](https://duetmail.com/nb) passer for team som håndterer kundedialog i Gmail og trenger AI Triage, oppsummeringer og autentiske utkast uten å miste kontekst.
+[**Chiefy**](https://chiefy.com/nb) passer for team som håndterer kundedialog i Gmail og trenger AI Triage, oppsummeringer og autentiske utkast uten å miste kontekst.
 
 ## Slik velger du programvare
 
@@ -64,4 +64,4 @@ AI er nyttig når den hjelper teamet med å forstå og prioritere. En lang, frus
 
 God kundeservice krever at e-post blir strukturert arbeid, ikke bare meldinger i en ko. Riktig programvare gir oversikt, ansvar og raskere svar.
 
-Hvis teamet allerede jobber i Gmail, kan [**Duet Mail**](https://duetmail.com/nb) gi et AI-lag for triage, oppsummering og bedre svar.
+Hvis teamet allerede jobber i Gmail, kan [**Chiefy**](https://chiefy.com/nb) gi et AI-lag for triage, oppsummering og bedre svar.

@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail cho Chuyến Đi Cưỡi Ngựa & Hướng Dẫn Đường Mòn | Trợ Lý Email AI",
-  "metaDescription": "Duet Mail giúp các nhà điều hành chuyến đi đường mòn trả lời email đặt chỗ ngay lập tức — ngay cả khi đang cưỡi ngựa. Trả lời được soạn thảo bằng AI với giá cả, yêu cầu người cưỡi và giọng điệu của bạn.",
+  "pageTitle": "Chiefy cho Chuyến Đi Cưỡi Ngựa & Hướng Dẫn Đường Mòn | Trợ Lý Email AI",
+  "metaDescription": "Chiefy giúp các nhà điều hành chuyến đi đường mòn trả lời email đặt chỗ ngay lập tức — ngay cả khi đang cưỡi ngựa. Trả lời được soạn thảo bằng AI với giá cả, yêu cầu người cưỡi và giọng điệu của bạn.",
   "heroBadge": "Được tin dùng bởi hơn 300 hướng dẫn viên đường mòn",
   "heroHeadline": "Trợ lý email của bạn khi bạn đang trên đường mòn",
-  "heroSubline": "Duet học các loại chuyến đi, giá cả, yêu cầu người cưỡi và điều kiện đường mòn của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất đặt chỗ vì phản hồi chậm.",
+  "heroSubline": "Chiefy học các loại chuyến đi, giá cả, yêu cầu người cưỡi và điều kiện đường mòn của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất đặt chỗ vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "chuyến đi",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Một chuyến đi nhóm được giữ lại đủ trả hơn hai năm Duet."
+    "punchline": "Một chuyến đi nhóm được giữ lại đủ trả hơn hai năm Chiefy."
   },
-  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi người cưỡi sau, và không bao giờ bị làm phiền bởi những tin nhảm. Không còn bỏ lỡ yêu cầu nhóm bị chôn vùi dưới thông báo TripAdvisor.",
-  "draftSubtitle": "Duet học các loại chuyến đi, giá cả và yêu cầu của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết đường mòn, giá cả và trang phục cần thiết. Bạn xem lại và gửi.",
-  "agentSubtitle": "\"Có chuyến đi nào còn chỗ cuối tuần này không?\" \"Soạn trả lời Jessica với chỗ trống thứ Bảy.\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
+  "categorizationSubtitle": "Chiefy tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi người cưỡi sau, và không bao giờ bị làm phiền bởi những tin nhảm. Không còn bỏ lỡ yêu cầu nhóm bị chôn vùi dưới thông báo TripAdvisor.",
+  "draftSubtitle": "Chiefy học các loại chuyến đi, giá cả và yêu cầu của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết đường mòn, giá cả và trang phục cần thiết. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Có chuyến đi nào còn chỗ cuối tuần này không?\" \"Soạn trả lời Jessica với chỗ trống thứ Bảy.\" Chiefy biết hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Chủ trang trại & Hướng dẫn viên đường mòn, MT",
-      "quote": "Tôi ở trên đường mòn 6 giờ mỗi ngày mà không có sóng điện thoại. Khi tôi về để trả lời, một nửa số người đã đặt chỗ ở nơi khác. Giờ Duet soạn trả lời với giá và chi tiết chuyến đi của tôi — tôi chỉ cần xem lại và gửi khi về chuồng.",
+      "quote": "Tôi ở trên đường mòn 6 giờ mỗi ngày mà không có sóng điện thoại. Khi tôi về để trả lời, một nửa số người đã đặt chỗ ở nơi khác. Giờ Chiefy soạn trả lời với giá và chi tiết chuyến đi của tôi — tôi chỉ cần xem lại và gửi khi về chuồng.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Nhà điều hành tour cưỡi ngựa, AZ",
-      "quote": "Chúng tôi nhận hàng chục email hỏi cùng một điều — giới hạn cân nặng, trang phục, yêu cầu tuổi. Duet xử lý tất cả và trả lời nghe y hệt tôi. Khách của tôi không hề biết đó là AI.",
+      "quote": "Chúng tôi nhận hàng chục email hỏi cùng một điều — giới hạn cân nặng, trang phục, yêu cầu tuổi. Chiefy xử lý tất cả và trả lời nghe y hệt tôi. Khách của tôi không hề biết đó là AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Hướng dẫn viên đường mòn, CO",
-      "quote": "Mùa cao điểm làm tôi mệt mỏi. Hơn 30 email mỗi ngày bên cạnh việc điều hành chuyến đi. Duet phân loại yêu cầu đặt chỗ và tin nhảm, soạn trả lời đầy đủ — giá, mang gì, tất cả. Tôi có lại buổi tối của mình.",
+      "quote": "Mùa cao điểm làm tôi mệt mỏi. Hơn 30 email mỗi ngày bên cạnh việc điều hành chuyến đi. Chiefy phân loại yêu cầu đặt chỗ và tin nhảm, soạn trả lời đầy đủ — giá, mang gì, tất cả. Tôi có lại buổi tối của mình.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Huấn luyện viên cưỡi ngựa & Quản lý đặt chỗ, TX",
-      "quote": "Chúng tôi có chuyến đi ngắm hoàng hôn, chuyến đi sáng và bài học riêng — mỗi loại có giá và yêu cầu khác nhau. Duet học hết trong một tuần. Nó soạn trả lời đúng cho từng loại chuyến đi mỗi lần.",
+      "quote": "Chúng tôi có chuyến đi ngắm hoàng hôn, chuyến đi sáng và bài học riêng — mỗi loại có giá và yêu cầu khác nhau. Chiefy học hết trong một tuần. Nó soạn trả lời đúng cho từng loại chuyến đi mỗi lần.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Trang trại gia đình & Chuyến đi đường mòn, CA",
-      "quote": "Email nhạy cảm là tệ nhất — ai đó hỏi có quá nặng không, hay con họ đủ tuổi chưa. Duet xử lý những email đó với sự quan tâm như tôi sẽ làm. Chuyên nghiệp, thân thiện và chính xác. Chỉ riêng điều đó đã rất đáng giá.",
+      "quote": "Email nhạy cảm là tệ nhất — ai đó hỏi có quá nặng không, hay con họ đủ tuổi chưa. Chiefy xử lý những email đó với sự quan tâm như tôi sẽ làm. Chuyên nghiệp, thân thiện và chính xác. Chỉ riêng điều đó đã rất đáng giá.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Duet xử lý các câu hỏi nhạy cảm về cân nặng hoặc yêu cầu kinh nghiệm như thế nào?",
-      "answer": "Duet học chính sách cụ thể của bạn và phản ánh giọng điệu của bạn. Khi ai đó hỏi về giới hạn cân nặng hoặc yêu cầu kinh nghiệm, nó trả lời một cách chuyên nghiệp và thân thiện — cung cấp thông tin họ cần mà không gây khó xử. Bạn thiết lập giọng điệu một lần và Duet theo sát, để mọi khách đều cảm thấy được tôn trọng."
+      "question": "Chiefy xử lý các câu hỏi nhạy cảm về cân nặng hoặc yêu cầu kinh nghiệm như thế nào?",
+      "answer": "Chiefy học chính sách cụ thể của bạn và phản ánh giọng điệu của bạn. Khi ai đó hỏi về giới hạn cân nặng hoặc yêu cầu kinh nghiệm, nó trả lời một cách chuyên nghiệp và thân thiện — cung cấp thông tin họ cần mà không gây khó xử. Bạn thiết lập giọng điệu một lần và Chiefy theo sát, để mọi khách đều cảm thấy được tôn trọng."
     },
     {
-      "question": "Duet có thể xử lý đặt chỗ nhóm với các nhu cầu người cưỡi khác nhau không?",
-      "answer": "Có. Duet học các loại chuyến đi, kích thước nhóm, tuổi tối thiểu và mọi yêu cầu riêng của người cưỡi. Khi một gia đình hoặc nhóm gửi email đặt chỗ, nó soạn trả lời bao gồm giá cho toàn nhóm, những gì mỗi người cần biết và các khung giờ có sẵn. Bạn xem lại và gửi — không cần trao đổi qua lại."
+      "question": "Chiefy có thể xử lý đặt chỗ nhóm với các nhu cầu người cưỡi khác nhau không?",
+      "answer": "Có. Chiefy học các loại chuyến đi, kích thước nhóm, tuổi tối thiểu và mọi yêu cầu riêng của người cưỡi. Khi một gia đình hoặc nhóm gửi email đặt chỗ, nó soạn trả lời bao gồm giá cho toàn nhóm, những gì mỗi người cần biết và các khung giờ có sẵn. Bạn xem lại và gửi — không cần trao đổi qua lại."
     }
   ],
   "pricingNote": "Với giá 100$/người cho nhóm 6 người, một chuyến đi được giữ lại đủ trả hơn hai năm Pro."

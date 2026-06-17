@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail vaļu vērošanas tūrēm | AI e-pasta asistents",
-  "metaDescription": "Duet Mail palīdz vaļu vērošanas kapteiņiem nekavējoties atbildēt uz rezervāciju e-pastiem — pat esot uz ūdens. AI sagatavotas atbildes ar jūsu tūru informāciju, cenām un balss toni.",
+  "pageTitle": "Chiefy vaļu vērošanas tūrēm | AI e-pasta asistents",
+  "metaDescription": "Chiefy palīdz vaļu vērošanas kapteiņiem nekavējoties atbildēt uz rezervāciju e-pastiem — pat esot uz ūdens. AI sagatavotas atbildes ar jūsu tūru informāciju, cenām un balss toni.",
   "heroBadge": "Uzticas 300+ tūru kapteiņi",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat vaļu meklējumos",
-  "heroSubline": "Duet apgūst jūsu tūru grafiku, cenas un balss toni — pēc tam sagatavo e-pasta atbildes, lai jūs nezaudētu nevienu rezervāciju, kamēr esat uz ūdens.",
+  "heroSubline": "Chiefy apgūst jūsu tūru grafiku, cenas un balss toni — pēc tam sagatavo e-pasta atbildes, lai jūs nezaudētu nevienu rezervāciju, kamēr esat uz ūdens.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tūres grupa",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "Viena saglabāta grupas rezervācija atmaksā Duet gada izmaksas."
+    "punchline": "Viena saglabāta grupas rezervācija atmaksā Chiefy gada izmaksas."
   },
-  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervāciju pieprasījumus, pēc tam kruīza kuģu grafika izmaiņas, bet lieko troksni — nekad. Vairs nekādu pazaudētu privāta čartera pieprasījumu, kas aprakti zem TripAdvisor paziņojumiem.",
-  "draftSubtitle": "Duet apgūst jūsu tūru laikus, cenas un noteikumus. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar pieejamību, iekļauto pakalpojumu un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Cik vietu vēl ir sestdienas rīta tūrē?\" \"Sagatavo atbildi Rachel ar pieejamību.\" Duet pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Chiefy automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu rezervāciju pieprasījumus, pēc tam kruīza kuģu grafika izmaiņas, bet lieko troksni — nekad. Vairs nekādu pazaudētu privāta čartera pieprasījumu, kas aprakti zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Chiefy apgūst jūsu tūru laikus, cenas un noteikumus. Kad pienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar pieejamību, iekļauto pakalpojumu un to, kas jāņem līdzi. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Cik vietu vēl ir sestdienas rīta tūrē?\" \"Sagatavo atbildi Rachel ar pieejamību.\" Chiefy pārzina jūsu iesūtni un grafiku — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Dave H.",
       "title": "Savvaļas dabas tūru operators, AK",
-      "quote": "Kruīza kuģu pasažieriem atbildes vajag ātri — viņiem ostā ir tikai 6 stundas. Agrāk es zaudēju privātos čarterus, jo biju uz ūdens, kad ienāca pieprasījums. Tagad Duet sagatavo atbildes ar manām cenām un sagaidīšanas informāciju, vēl pirms es piestāju.",
+      "quote": "Kruīza kuģu pasažieriem atbildes vajag ātri — viņiem ostā ir tikai 6 stundas. Agrāk es zaudēju privātos čarterus, jo biju uz ūdens, kad ienāca pieprasījums. Tagad Chiefy sagatavo atbildes ar manām cenām un sagaidīšanas informāciju, vēl pirms es piestāju.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Kuprvaļu sezonā mēs vadām divas tūres dienā, un e-pastu apjoms ir neticams. “Vai mēs redzēsim vaļus?” “Ko man vilkt?” “Vai rītdiena ir atcelta?” Duet apstrādā atkārtotos jautājumus, un mēs koncentrējamies uz tūrēm.",
+      "quote": "Kuprvaļu sezonā mēs vadām divas tūres dienā, un e-pastu apjoms ir neticams. “Vai mēs redzēsim vaļus?” “Ko man vilkt?” “Vai rītdiena ir atcelta?” Chiefy apstrādā atkārtotos jautājumus, un mēs koncentrējamies uz tūrēm.",
       "avatarKey": "francesca"
     },
     {
       "name": "Captain Ben T.",
       "title": "Ocean Excursions, HI",
-      "quote": "Katru vakaru atbildēju uz tiem pašiem 10 jautājumiem — cenas, kas ir iekļauts, padomi pret jūras slimību, bērnu vecuma ierobežojumi. Duet to visu apguva pirmajā nedēļā. Mans atbildes laiks samazinājās no 8 stundām līdz 8 minūtēm.",
+      "quote": "Katru vakaru atbildēju uz tiem pašiem 10 jautājumiem — cenas, kas ir iekļauts, padomi pret jūras slimību, bērnu vecuma ierobežojumi. Chiefy to visu apguva pirmajā nedēļā. Mans atbildes laiks samazinājās no 8 stundām līdz 8 minūtēm.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Rezervāciju vadītāja, Pacific NW",
-      "quote": "Atcelšana laikapstākļu dēļ ir vissliktākā — 30 cilvēkiem uzreiz vajag pārcelt rezervācijas, un es vienlaikus kārtoju telefona zvanus. Duet sagatavo personalizētus pārcelšanas e-pastus katram viesim. Tas, kas agrāk prasīja 2 stundas, tagad aizņem 15 minūtes.",
+      "quote": "Atcelšana laikapstākļu dēļ ir vissliktākā — 30 cilvēkiem uzreiz vajag pārcelt rezervācijas, un es vienlaikus kārtoju telefona zvanus. Chiefy sagatavo personalizētus pārcelšanas e-pastus katram viesim. Tas, kas agrāk prasīja 2 stundas, tagad aizņem 15 minūtes.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Small Boat Wildlife Tours, BC",
-      "quote": "Mēs esam divu cilvēku komanda — es esmu kapteinis, viņa vada loģistiku. Sezonas maksimumā viņa pavadīja 3 stundas katru vakaru pie e-pasta. Duet to samazināja līdz 30 minūtēm. Tagad viņa patiešām atgūst savus vakarus.",
+      "quote": "Mēs esam divu cilvēku komanda — es esmu kapteinis, viņa vada loģistiku. Sezonas maksimumā viņa pavadīja 3 stundas katru vakaru pie e-pasta. Chiefy to samazināja līdz 30 minūtēm. Tagad viņa patiešām atgūst savus vakarus.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Vai Duet apstrādā atcelšanas laikapstākļu dēļ un kruīza kuģu grafika izmaiņas?",
-      "answer": "Jā. Kad atceļat tūri laikapstākļu dēļ vai mainās kruīza kuģa ierašanās laiks, varat vienreiz informēt Duet, un tas sagatavos personalizētus pārcelšanas vai atjauninājumu e-pastus katram ietekmētajam viesim. Vairs nekādas vienas un tās pašas ziņas kopēšanas un ielīmēšanas 30 reizes. Katrā atbildē iekļauta viesa sākotnējās rezervācijas informācija un pieejamās alternatīvas."
+      "question": "Vai Chiefy apstrādā atcelšanas laikapstākļu dēļ un kruīza kuģu grafika izmaiņas?",
+      "answer": "Jā. Kad atceļat tūri laikapstākļu dēļ vai mainās kruīza kuģa ierašanās laiks, varat vienreiz informēt Chiefy, un tas sagatavos personalizētus pārcelšanas vai atjauninājumu e-pastus katram ietekmētajam viesim. Vairs nekādas vienas un tās pašas ziņas kopēšanas un ielīmēšanas 30 reizes. Katrā atbildē iekļauta viesa sākotnējās rezervācijas informācija un pieejamās alternatīvas."
     },
     {
-      "question": "Mēs pastāvīgi saņemam vienus un tos pašus jautājumus — “vai mēs redzēsim vaļus?”, “ko man vilkt?”, “vai tas ir piemērots bērniem?” Vai Duet ar tiem tiks galā?",
-      "answer": "Tieši šeit Duet izceļas. Tas apgūst jūsu standarta atbildes — sugas, ko parasti redzat, ko ņemt līdzi, vecuma noteikumus, padomus pret jūras slimību, izbraukšanas laikus — un uzreiz sagatavo pilnas atbildes. Jūs pārskatāt un nosūtāt. Lielākā daļa kapteiņu mums saka, ka 80% viņu iesūtnes ir tie paši 10 jautājumi, un Duet tiek galā ar visiem."
+      "question": "Mēs pastāvīgi saņemam vienus un tos pašus jautājumus — “vai mēs redzēsim vaļus?”, “ko man vilkt?”, “vai tas ir piemērots bērniem?” Vai Chiefy ar tiem tiks galā?",
+      "answer": "Tieši šeit Chiefy izceļas. Tas apgūst jūsu standarta atbildes — sugas, ko parasti redzat, ko ņemt līdzi, vecuma noteikumus, padomus pret jūras slimību, izbraukšanas laikus — un uzreiz sagatavo pilnas atbildes. Jūs pārskatāt un nosūtāt. Lielākā daļa kapteiņu mums saka, ka 80% viņu iesūtnes ir tie paši 10 jautājumi, un Chiefy tiek galā ar visiem."
     }
   ],
   "pricingNote": "Pie $125 par personu viena saglabāta 6 cilvēku grupa sedz vairāk nekā gada Pro izmaksas."

@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail för dykbutiker | AI-e-postassistent",
-  "metaDescription": "Duet Mail hjälper dykbutiksägare och PADI-instruktörer att svara på certifieringsförfrågningar, resebokningar och utrustningsfrågor omedelbart – även från under vattnet.",
+  "pageTitle": "Chiefy för dykbutiker | AI-e-postassistent",
+  "metaDescription": "Chiefy hjälper dykbutiksägare och PADI-instruktörer att svara på certifieringsförfrågningar, resebokningar och utrustningsfrågor omedelbart – även från under vattnet.",
   "heroBadge": "Betrodd av 300+ dykoperatörer",
   "heroHeadline": "Din e-postassistent när du är under vattnet",
-  "heroSubline": "Duet lär sig dina dykplatser, certifieringskrav, prissättning och röst – förbereder sedan e-postsvar så att du aldrig förlorar en bokning medan du är på båten.",
+  "heroSubline": "Chiefy lär sig dina dykplatser, certifieringskrav, prissättning och röst – förbereder sedan e-postsvar så att du aldrig förlorar en bokning medan du är på båten.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "dyka",
     "lostPerMonth": "3 resor (6 dykare vardera)",
     "monthlyLoss": "$2,700",
-    "punchline": "Ett sparat gruppdyk betalar för ett år av Duet."
+    "punchline": "Ett sparat gruppdyk betalar för ett år av Chiefy."
   },
-  "categorizationSubtitle": "Duet taggar automatiskt varje e-postmeddelande så att du ser certifieringsförfrågningar och dykbokningar först, utrustningsfrågor sedan och PADI-varningar när du är redo. Saknar inte längre en gruppbokning begravd under utrustningsnyhetsbrev.",
-  "draftSubtitle": "Duet lär sig dina dykplatser, certifikatkrav och prissättning. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med resedetaljer, vad som ingår och vad du ska ta med. Du granskar och skickar.",
-  "agentSubtitle": "\"Hur många dykare är bokade till lördag?\" \"Skapa ett svar till Rachel med Open Water tillgänglighet.\"Duet känner till din inkorg och schema — fråga bara.",
+  "categorizationSubtitle": "Chiefy taggar automatiskt varje e-postmeddelande så att du ser certifieringsförfrågningar och dykbokningar först, utrustningsfrågor sedan och PADI-varningar när du är redo. Saknar inte längre en gruppbokning begravd under utrustningsnyhetsbrev.",
+  "draftSubtitle": "Chiefy lär sig dina dykplatser, certifikatkrav och prissättning. När en bokningsförfrågan träffar, utarbetar den ett komplett svar med resedetaljer, vad som ingår och vad du ska ta med. Du granskar och skickar.",
+  "agentSubtitle": "\"Hur många dykare är bokade till lördag?\" \"Skapa ett svar till Rachel med Open Water tillgänglighet.\"Chiefy känner till din inkorg och schema — fråga bara.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapten Mike T.",
       "title": "Dykbåtskapten, FL",
-      "quote": "Jag kör båtturer fredag till söndag och butiken är bara öppen några timmar på måndagar. Certifieringsfrågor och reseförfrågningar hopar sig medan jag är under vattnet. Duet utkast till svar med mina priser, dykplatser och vad som ingår – jag granskar dem mellan dyken.",
+      "quote": "Jag kör båtturer fredag till söndag och butiken är bara öppen några timmar på måndagar. Certifieringsfrågor och reseförfrågningar hopar sig medan jag är under vattnet. Chiefy utkast till svar med mina priser, dykplatser och vad som ingår – jag granskar dem mellan dyken.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen och Mark S.",
       "title": "PADI Dykcenter, HI",
-      "quote": "Vi kör dyk, snorkelturer och valskådning från samma båtar. E-postvarianten är galen - certifikatfrågor, gruppbokningar, uthyrning av utrustning, väderkontroller. Duet sorterar allt och skapar svar som vet skillnaden. Absolut livräddare.",
+      "quote": "Vi kör dyk, snorkelturer och valskådning från samma båtar. E-postvarianten är galen - certifikatfrågor, gruppbokningar, uthyrning av utrustning, väderkontroller. Chiefy sorterar allt och skapar svar som vet skillnaden. Absolut livräddare.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "Hälften av mina e-postmeddelanden är \"vilken certifiering behöver jag för vrakdykningarna?\" och den andra hälften är \"behöver jag min egen utrustning?\"Duet hanterar båda på autopilot. Min svarstid gick från timmar till minuter.",
+      "quote": "Hälften av mina e-postmeddelanden är \"vilken certifiering behöver jag för vrakdykningarna?\" och den andra hälften är \"behöver jag min egen utrustning?\"Chiefy hanterar båda på autopilot. Min svarstid gick från timmar till minuter.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Dykbutiksägare, CA",
-      "quote": "Under sommaren får vi 30+ e-postmeddelanden om dagen om kurser, resans tillgänglighet och utrustning. Jag tappade bokningar till butiker som svarade snabbare. Nu skriver Duet allt och jag trycker bara på skicka mellan klasserna.",
+      "quote": "Under sommaren får vi 30+ e-postmeddelanden om dagen om kurser, resans tillgänglighet och utrustning. Jag tappade bokningar till butiker som svarade snabbare. Nu skriver Chiefy allt och jag trycker bara på skicka mellan klasserna.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Dykinstruktör och guide, NC",
-      "quote": "Jag håller kurser på morgonen och guidar dyk på eftermiddagen. Det finns bokstavligen ingen tid att svara på e-post. Duet lärde sig mitt kursschema, priser, till och med min avbokningsregler. Kunder kan inte se skillnad.",
+      "quote": "Jag håller kurser på morgonen och guidar dyk på eftermiddagen. Det finns bokstavligen ingen tid att svara på e-post. Chiefy lärde sig mitt kursschema, priser, till och med min avbokningsregler. Kunder kan inte se skillnad.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starta din kostnadsfria provperiod. Anslut din inkorg på 30 sekunder.",
   "verticalFaqs": [
     {
-      "question": "Förstår Duet certifieringsnivåer och kurskrav?",
-      "answer": "Ja. Duet lär sig dina specifika kurser – Open Water, Advanced, Rescue, Divemaster – tillsammans med förutsättningar, varaktighet, prissättning och vad som ingår. När någon frågar om att bli certifierad, skriver Duet ett svar med rätt kursinformation, schema och nästa steg. Du granskar och skickar."
+      "question": "Förstår Chiefy certifieringsnivåer och kurskrav?",
+      "answer": "Ja. Chiefy lär sig dina specifika kurser – Open Water, Advanced, Rescue, Divemaster – tillsammans med förutsättningar, varaktighet, prissättning och vad som ingår. När någon frågar om att bli certifierad, skriver Chiefy ett svar med rätt kursinformation, schema och nästa steg. Du granskar och skickar."
     },
     {
-      "question": "Jag är på båten eller under vattnet hela dagen. Kan jag använda Duet från min telefon?",
-      "answer": "Ja. Duet fungerar med Gmail och Outlook, så det fungerar varhelst din e-post fungerar – inklusive din telefon. Utkast visas automatiskt i din inkorg. Mellan dyken eller tillbaka vid kajen granskar och skickar du med ett tryck. De flesta dykoperatörer berättar att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
+      "question": "Jag är på båten eller under vattnet hela dagen. Kan jag använda Chiefy från min telefon?",
+      "answer": "Ja. Chiefy fungerar med Gmail och Outlook, så det fungerar varhelst din e-post fungerar – inklusive din telefon. Utkast visas automatiskt i din inkorg. Mellan dyken eller tillbaka vid kajen granskar och skickar du med ett tryck. De flesta dykoperatörer berättar att det sparar dem 1-2 timmars e-posttid per dag under högsäsong."
     }
   ],
   "pricingNote": "För $150/dyk med en grupp på 6, betalar en sparad resa för över ett år av Pro."

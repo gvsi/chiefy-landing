@@ -2,7 +2,7 @@
 title: "Gmail-এর জন্য AI email writer কীভাবে সময় বাঁচায় ও উৎপাদনশীলতা বাড়ায়"
 description: "ইমেলে ডুবে যাচ্ছেন? Gmail-এর জন্য AI email writer কীভাবে reply draft, thread summary ও smarter workflow দিয়ে কর্মদিবস ফিরিয়ে দেয়।"
 publishedAt: 2025-07-25
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "উৎপাদনশীলতা", "ইমেল লেখা"]
 draft: false
 ---
@@ -55,9 +55,9 @@ Tone: উষ্ণ, পেশাদার, সংক্ষিপ্ত।
 কোনো discount বা timeline guarantee যোগ করবেন না।
 ```
 
-## Duet Mail কীভাবে সাহায্য করে
+## Chiefy কীভাবে সাহায্য করে
 
-[Duet Mail](https://duetmail.com/bn) Authentic AI Drafting দিয়ে আপনার past sent emails থেকে writing style শেখার চেষ্টা করে। AI Triage জরুরি বার্তা সামনে আনে, Smart Summarization context দেয়, আর draft suggestion আপনাকে দ্রুত কিন্তু ব্যক্তিগত উত্তর দিতে সাহায্য করে।
+[Chiefy](https://chiefy.com/bn) Authentic AI Drafting দিয়ে আপনার past sent emails থেকে writing style শেখার চেষ্টা করে। AI Triage জরুরি বার্তা সামনে আনে, Smart Summarization context দেয়, আর draft suggestion আপনাকে দ্রুত কিন্তু ব্যক্তিগত উত্তর দিতে সাহায্য করে।
 
 ## শেষ কথা
 

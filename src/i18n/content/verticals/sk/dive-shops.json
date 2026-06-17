@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail pre potápačské centrá | AI e-mailový asistent",
-  "metaDescription": "Duet Mail pomáha majiteľom potápačských centier a inštruktorom PADI okamžite odpovedať na otázky o certifikáciách, rezerváciách výletov a výbave — aj spod vody.",
+  "pageTitle": "Chiefy pre potápačské centrá | AI e-mailový asistent",
+  "metaDescription": "Chiefy pomáha majiteľom potápačských centier a inštruktorom PADI okamžite odpovedať na otázky o certifikáciách, rezerváciách výletov a výbave — aj spod vody.",
   "heroBadge": "Dôveruje mu viac ako 300 potápačských prevádzok",
   "heroHeadline": "Váš e-mailový asistent, kým ste pod vodou",
-  "heroSubline": "Duet sa naučí vaše potápačské lokality, požiadavky na certifikáciu, ceny aj váš štýl — potom pripraví odpovede, aby ste nikdy nepremeškali rezerváciu, keď ste na lodi.",
+  "heroSubline": "Chiefy sa naučí vaše potápačské lokality, požiadavky na certifikáciu, ceny aj váš štýl — potom pripraví odpovede, aby ste nikdy nepremeškali rezerváciu, keď ste na lodi.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "ponor",
     "lostPerMonth": "3 výlety (6 potápačov na každý)",
     "monthlyLoss": "$2,700",
-    "punchline": "Jeden zachránený skupinový ponor zaplatí celý rok Duet."
+    "punchline": "Jeden zachránený skupinový ponor zaplatí celý rok Chiefy."
   },
-  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže certifikačné otázky a rezervácie ponorov uvidíte ako prvé, otázky o výstroji druhé a upozornenia PADI, keď budete pripravení. Už žiadne prehliadnuté skupinové rezervácie schované pod newslettermi o vybavení.",
-  "draftSubtitle": "Duet sa naučí vaše potápačské lokality, požiadavky na certifikáciu aj ceny. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s detailmi výletu, tým, čo je v cene, a tým, čo si priniesť. Vy skontrolujete a odošlete.",
-  "agentSubtitle": "\"Koľko potápačov je rezervovaných na sobotu?\" \"Priprav odpoveď pre Rachel s dostupnosťou Open Water.\" Duet pozná vašu doručenú poštu aj rozvrh — stačí sa opýtať.",
+  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže certifikačné otázky a rezervácie ponorov uvidíte ako prvé, otázky o výstroji druhé a upozornenia PADI, keď budete pripravení. Už žiadne prehliadnuté skupinové rezervácie schované pod newslettermi o vybavení.",
+  "draftSubtitle": "Chiefy sa naučí vaše potápačské lokality, požiadavky na certifikáciu aj ceny. Keď príde dopyt na rezerváciu, pripraví kompletnú odpoveď s detailmi výletu, tým, čo je v cene, a tým, čo si priniesť. Vy skontrolujete a odošlete.",
+  "agentSubtitle": "\"Koľko potápačov je rezervovaných na sobotu?\" \"Priprav odpoveď pre Rachel s dostupnosťou Open Water.\" Chiefy pozná vašu doručenú poštu aj rozvrh — stačí sa opýtať.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Mike T.",
       "title": "Kapitán potápačskej lode, FL",
-      "quote": "Víkendové výlety robím od piatka do nedele a obchod je otvorený len pár hodín v pondelok. Otázky o certifikácii a dopyty na výlety sa hromadia, kým som pod vodou. Duet pripraví odpovede s mojimi cenami, lokalitami ponorov a tým, čo je v cene — ja ich skontrolujem medzi ponormi.",
+      "quote": "Víkendové výlety robím od piatka do nedele a obchod je otvorený len pár hodín v pondelok. Otázky o certifikácii a dopyty na výlety sa hromadia, kým som pod vodou. Chiefy pripraví odpovede s mojimi cenami, lokalitami ponorov a tým, čo je v cene — ja ich skontrolujem medzi ponormi.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI Dive Center, HI",
-      "quote": "Z tých istých lodí robíme ponory, šnorchlovacie výlety aj pozorovanie veľrýb. E-mailová rozmanitosť je šialená — otázky o certifikácii, skupinové rezervácie, prenájom výstroja, kontrola počasia. Duet to všetko triedi a pripravuje odpovede, ktoré vedia rozlíšiť, o čo ide. Úplná záchrana.",
+      "quote": "Z tých istých lodí robíme ponory, šnorchlovacie výlety aj pozorovanie veľrýb. E-mailová rozmanitosť je šialená — otázky o certifikácii, skupinové rezervácie, prenájom výstroja, kontrola počasia. Chiefy to všetko triedi a pripravuje odpovede, ktoré vedia rozlíšiť, o čo ide. Úplná záchrana.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Charter na vrakové potápanie, FL",
-      "quote": "Polovica mojich e-mailov je 'akú certifikáciu potrebujem na ponory k vrakom?' a druhá polovica 'potrebujem vlastnú výstroj?' Duet zvláda obe veci automaticky. Môj čas reakcie sa zmenšil z hodín na minúty.",
+      "quote": "Polovica mojich e-mailov je 'akú certifikáciu potrebujem na ponory k vrakom?' a druhá polovica 'potrebujem vlastnú výstroj?' Chiefy zvláda obe veci automaticky. Môj čas reakcie sa zmenšil z hodín na minúty.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Majiteľka potápačského centra, CA",
-      "quote": "V lete dostávame viac ako 30 e-mailov denne o kurzoch, dostupnosti výletov a vybavení. Prichádzala som o rezervácie v prospech centier, ktoré odpovedali rýchlejšie. Teraz Duet pripraví všetko a ja už len kliknem na odoslať medzi lekciami.",
+      "quote": "V lete dostávame viac ako 30 e-mailov denne o kurzoch, dostupnosti výletov a vybavení. Prichádzala som o rezervácie v prospech centier, ktoré odpovedali rýchlejšie. Teraz Chiefy pripraví všetko a ja už len kliknem na odoslať medzi lekciami.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Inštruktorka a sprievodkyňa potápaním, NC",
-      "quote": "Ráno učím kurzy a popoludní vediem ponory. Doslova nie je čas odpovedať na e-maily. Duet sa naučil môj rozvrh kurzov, ceny aj storno podmienky. Klienti nepoznajú rozdiel.",
+      "quote": "Ráno učím kurzy a popoludní vediem ponory. Doslova nie je čas odpovedať na e-maily. Chiefy sa naučil môj rozvrh kurzov, ceny aj storno podmienky. Klienti nepoznajú rozdiel.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite bezplatnú skúšobnú verziu. Pripojte svoju doručenú poštu za 30 sekúnd.",
   "verticalFaqs": [
     {
-      "question": "Rozumie Duet úrovniam certifikácie a požiadavkám kurzov?",
-      "answer": "Áno. Duet sa naučí vaše konkrétne kurzy — Open Water, Advanced, Rescue, Divemaster — spolu s podmienkami, dĺžkou, cenami a tým, čo je v cene. Keď sa niekto opýta na certifikáciu, Duet pripraví odpoveď so správnymi detailmi kurzu, rozvrhom a ďalšími krokmi. Vy skontrolujete a odošlete."
+      "question": "Rozumie Chiefy úrovniam certifikácie a požiadavkám kurzov?",
+      "answer": "Áno. Chiefy sa naučí vaše konkrétne kurzy — Open Water, Advanced, Rescue, Divemaster — spolu s podmienkami, dĺžkou, cenami a tým, čo je v cene. Keď sa niekto opýta na certifikáciu, Chiefy pripraví odpoveď so správnymi detailmi kurzu, rozvrhom a ďalšími krokmi. Vy skontrolujete a odošlete."
     },
     {
-      "question": "Som celý deň na lodi alebo pod vodou. Môžem používať Duet v telefóne?",
-      "answer": "Áno. Duet funguje s Gmail a Outlook, takže funguje všade tam, kde funguje váš e-mail — aj v telefóne. Návrhy sa zobrazia automaticky vo vašej doručenej pošte. Medzi ponormi alebo späť v prístave ich skontrolujete a odošlete jedným klepnutím. Väčšina prevádzok pre potápačov nám hovorí, že im to v hlavnej sezóne šetrí 1–2 hodiny času denne na e-maile."
+      "question": "Som celý deň na lodi alebo pod vodou. Môžem používať Chiefy v telefóne?",
+      "answer": "Áno. Chiefy funguje s Gmail a Outlook, takže funguje všade tam, kde funguje váš e-mail — aj v telefóne. Návrhy sa zobrazia automaticky vo vašej doručenej pošte. Medzi ponormi alebo späť v prístave ich skontrolujete a odošlete jedným klepnutím. Väčšina prevádzok pre potápačov nám hovorí, že im to v hlavnej sezóne šetrí 1–2 hodiny času denne na e-maile."
     }
   ],
   "pricingNote": "Pri cene $150/ponor a skupine 6 osôb jeden zachránený výlet zaplatí viac ako rok Pro."

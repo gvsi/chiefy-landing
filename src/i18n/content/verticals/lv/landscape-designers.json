@@ -1,10 +1,10 @@
 {
   "slug": "landscape-designers",
-  "pageTitle": "Duet Mail ainavu dizaineriem | AI e-pasta asistents",
-  "metaDescription": "Duet Mail palīdz ainavu dizaineriem nekavējoties atbildēt uz klientu e-pastiem — pat atrodoties objektā. AI sagatavotas atbildes ar jūsu projekta detaļām, cenām un toni.",
+  "pageTitle": "Chiefy ainavu dizaineriem | AI e-pasta asistents",
+  "metaDescription": "Chiefy palīdz ainavu dizaineriem nekavējoties atbildēt uz klientu e-pastiem — pat atrodoties objektā. AI sagatavotas atbildes ar jūsu projekta detaļām, cenām un toni.",
   "heroBadge": "Uzticas 300+ ainavu dizaineru",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat objektā",
-  "heroSubline": "Duet apgūst jūsu projektu detaļas, augu paletes, cenas un procesu — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu klientu lēnas atbildes dēļ.",
+  "heroSubline": "Chiefy apgūst jūsu projektu detaļas, augu paletes, cenas un procesu — pēc tam sagatavo e-pasta atbildes, lai jūs nekad nezaudētu klientu lēnas atbildes dēļ.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekts",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Viens saglabāts projekts apmaksā Duet gadiem."
+    "punchline": "Viens saglabāts projekts apmaksā Chiefy gadiem."
   },
-  "categorizationSubtitle": "Duet automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu jaunus konsultāciju pieprasījumus, pēc tam klientu apstiprinājumus, bet piegādātāju troksnis jūs netraucētu. Vairs nekādu pazaudētu potenciālo klientu, kas paslēpies zem stādaudzētavas pasūtījumu apstiprinājumiem.",
-  "draftSubtitle": "Duet apgūst jūsu cenas, procesu un toni. Kad pienāk konsultācijas pieprasījums, tas sagatavo pilnu atbildi ar jūsu pieejamību, gaidāmo procesu un nākamajiem soļiem. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Kāds ir Henderson projekta grafiks?\" \"Kuri klienti vēl gaida plāna apstiprināšanu?\" Duet pārzina jūsu iesūtni un projektus — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Chiefy automātiski atzīmē katru e-pastu, lai jūs vispirms redzētu jaunus konsultāciju pieprasījumus, pēc tam klientu apstiprinājumus, bet piegādātāju troksnis jūs netraucētu. Vairs nekādu pazaudētu potenciālo klientu, kas paslēpies zem stādaudzētavas pasūtījumu apstiprinājumiem.",
+  "draftSubtitle": "Chiefy apgūst jūsu cenas, procesu un toni. Kad pienāk konsultācijas pieprasījums, tas sagatavo pilnu atbildi ar jūsu pieejamību, gaidāmo procesu un nākamajiem soļiem. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Kāds ir Henderson projekta grafiks?\" \"Kuri klienti vēl gaida plāna apstiprināšanu?\" Chiefy pārzina jūsu iesūtni un projektus — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael S.",
       "title": "Ainavu arhitekts, Austin TX",
-      "quote": "Pavasarī es 8 stundas dienā esmu objektā, veicot novērtējumus un uzraugot ierīkošanu. Jauni konsultāciju pieprasījumi mēdza gaidīt dienām. Tagad Duet dažu minūšu laikā atbild ar manu procesu un pieejamību. Esmu rezervējis 3 projektus, kurus noteikti būtu zaudējis.",
+      "quote": "Pavasarī es 8 stundas dienā esmu objektā, veicot novērtējumus un uzraugot ierīkošanu. Jauni konsultāciju pieprasījumi mēdza gaidīt dienām. Tagad Chiefy dažu minūšu laikā atbild ar manu procesu un pieejamību. Esmu rezervējis 3 projektus, kurus noteikti būtu zaudējis.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca G.",
       "title": "Dārzu dizainere, Portland OR",
-      "quote": "Koordinācija starp cieto segumu brigādēm, apūdeņošanas uzstādītājiem un klientiem rada absurdi daudz e-pastu. Duet to visu sašķiro un sagatavo atbildes ar pareizajām projekta detaļām. Tas ir kā studijas vadītājs.",
+      "quote": "Koordinācija starp cieto segumu brigādēm, apūdeņošanas uzstādītājiem un klientiem rada absurdi daudz e-pastu. Chiefy to visu sašķiro un sagatavo atbildes ar pareizajām projekta detaļām. Tas ir kā studijas vadītājs.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Ainavu dizaina studijas īpašnieks, Denver CO",
-      "quote": "Agrāk katru vakaru pēc darba objektā pavadīju, ķerot iekavētos e-pastus. Tie paši jautājumi — cenas, process, termiņi. Duet tiek galā ar visu. Mans atbildes laiks no dienām saruka līdz minūtēm, un noslēgto darījumu īpatsvars ir krietni pieaudzis.",
+      "quote": "Agrāk katru vakaru pēc darba objektā pavadīju, ķerot iekavētos e-pastus. Tie paši jautājumi — cenas, process, termiņi. Chiefy tiek galā ar visu. Mans atbildes laiks no dienām saruka līdz minūtēm, un noslēgto darījumu īpatsvars ir krietni pieaudzis.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer R.",
       "title": "Privātmāju ainavu dizainere, Scottsdale AZ",
-      "quote": "Mani klienti uzdod daudz jautājumu par augu izvēli un kopšanu. Duet apguva manas augu paletes un kopšanas norādījumus un sagatavo atbildes, kuras gandrīz nav jārediģē. Klientiem šķiet, ka esmu neticami atsaucīga.",
+      "quote": "Mani klienti uzdod daudz jautājumu par augu izvēli un kopšanu. Chiefy apguva manas augu paletes un kopšanas norādījumus un sagatavo atbildes, kuras gandrīz nav jārediģē. Klientiem šķiet, ka esmu neticami atsaucīga.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Ainavu dizainere ar vietējiem augiem, Raleigh NC",
-      "quote": "Es zaudēju jaunus klientus, jo nevarēju atbildēt, kamēr biju līdz ceļiem stādījumu ierīkošanā. Duet sagatavo konsultāciju atbildes ar manu precīzo procesu, cenām un gaidāmo norisi. Tas atmaksājās jau pirmajā nedēļā.",
+      "quote": "Es zaudēju jaunus klientus, jo nevarēju atbildēt, kamēr biju līdz ceļiem stādījumu ierīkošanā. Chiefy sagatavo konsultāciju atbildes ar manu precīzo procesu, cenām un gaidāmo norisi. Tas atmaksājās jau pirmajā nedēļā.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Vai Duet var tikt galā ar pavasara steigu, kad konsultāciju pieprasījumi krājas kaudzē?",
-      "answer": "Tieši tad Duet ir visnoderīgākais. Jūsu noslogotākajā sezonā katrs jauns pieprasījums saņem ātru, detalizētu atbildi ar jūsu procesu, termiņiem un pieejamību — pat ja visu dienu esat objektā. Vairs nezaudējiet pavasara potenciālos klientus tāpēc, ka nevarējāt viņiem atbildēt līdz 9 PM."
+      "question": "Vai Chiefy var tikt galā ar pavasara steigu, kad konsultāciju pieprasījumi krājas kaudzē?",
+      "answer": "Tieši tad Chiefy ir visnoderīgākais. Jūsu noslogotākajā sezonā katrs jauns pieprasījums saņem ātru, detalizētu atbildi ar jūsu procesu, termiņiem un pieejamību — pat ja visu dienu esat objektā. Vairs nezaudējiet pavasara potenciālos klientus tāpēc, ka nevarējāt viņiem atbildēt līdz 9 PM."
     },
     {
-      "question": "Es koordinēju darbu ar vairākām āra darbu brigādēm. Vai Duet var palīdzēt?",
-      "answer": "Jā. Duet apgūst jūsu projektus un iesaistītos darbuzņēmējus — cietā seguma darbus, apūdeņošanu, stādīšanas brigādes, stādaudzētavas. Tas atsevišķi kategorizē darbuzņēmēju e-pastus un klientu e-pastus, kā arī var sagatavot atbilžu melnrakstus ar projektam specifisku informāciju, piemēram, specifikācijām, termiņiem un materiāliem. Jūs pārvaldāt katras brigādes darbu bez iesūtnes haosa."
+      "question": "Es koordinēju darbu ar vairākām āra darbu brigādēm. Vai Chiefy var palīdzēt?",
+      "answer": "Jā. Chiefy apgūst jūsu projektus un iesaistītos darbuzņēmējus — cietā seguma darbus, apūdeņošanu, stādīšanas brigādes, stādaudzētavas. Tas atsevišķi kategorizē darbuzņēmēju e-pastus un klientu e-pastus, kā arī var sagatavot atbilžu melnrakstus ar projektam specifisku informāciju, piemēram, specifikācijām, termiņiem un materiāliem. Jūs pārvaldāt katras brigādes darbu bez iesūtnes haosa."
     }
   ],
   "pricingNote": "Pie $8,000 par projektu viens saglabāts klients apmaksā Pro gadiem ilgi."

@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail pentru excursii de observare a balenelor | AI Asistent de e-mail",
-  "metaDescription": "Duet Mail îi ajută pe căpitanii de observare a balenelor să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri redactate de AI cu detaliile turului, prețurile și vocea.",
+  "pageTitle": "Chiefy pentru excursii de observare a balenelor | AI Asistent de e-mail",
+  "metaDescription": "Chiefy îi ajută pe căpitanii de observare a balenelor să răspundă instantaneu la e-mailurile de rezervare, chiar și din apă. Răspunsuri redactate de AI cu detaliile turului, prețurile și vocea.",
   "heroBadge": "Au încredere de peste 300 de căpitani de turneu",
   "heroHeadline": "Asistentul tău de e-mail în timp ce vezi balene",
-  "heroSubline": "Duet îți învață programul turului, prețurile și vocea, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare în timp ce ești pe apă.",
+  "heroSubline": "Chiefy îți învață programul turului, prețurile și vocea, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare în timp ce ești pe apă.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grup de tur",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,250",
-    "punchline": "O rezervare de grup salvată plătește pentru un an de Duet."
+    "punchline": "O rezervare de grup salvată plătește pentru un an de Chiefy."
   },
-  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, programul navelor de croazieră se schimbă în al doilea rând și zgomotul niciodată. Nu mai lipsește o anchetă de charter privată îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Duet află orele turneelor, prețurile și politicile tale. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
-  "agentSubtitle": "„Câte locuri au mai rămas în turneul de sâmbătă dimineață?” „Redactează un răspuns pentru Rachel cu disponibilitate.” Duet îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, programul navelor de croazieră se schimbă în al doilea rând și zgomotul niciodată. Nu mai lipsește o anchetă de charter privată îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Chiefy află orele turneelor, prețurile și politicile tale. Când o solicitare de rezervare ajunge, acesta redactează un răspuns complet cu disponibilitatea, ce este inclus și ce să aducă. Tu revizuiești și trimiți.",
+  "agentSubtitle": "„Câte locuri au mai rămas în turneul de sâmbătă dimineață?” „Redactează un răspuns pentru Rachel cu disponibilitate.” Chiefy îți cunoaște căsuța de e-mail și programul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Căpitanul Dave H.",
       "title": "Operator de turism pentru animale sălbatice, AK",
-      "quote": "Pasagerii navelor de croazieră au nevoie de răspunsuri rapide - au doar 6 ore în port. Obișnuiam să pierd charterele private pentru că eram pe apă când a venit întrebarea. Acum Duet elaborează răspunsuri cu detaliile privind prețurile și ridicarea mea înainte chiar de a andocare.",
+      "quote": "Pasagerii navelor de croazieră au nevoie de răspunsuri rapide - au doar 6 ore în port. Obișnuiam să pierd charterele private pentru că eram pe apă când a venit întrebarea. Acum Chiefy elaborează răspunsuri cu detaliile privind prețurile și ridicarea mea înainte chiar de a andocare.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria și Luis R.",
       "title": "Family Whale Watch, CA",
-      "quote": "Facem două tururi pe zi în timpul sezonului cu cocoașe și volumul de e-mail este ireal. — Vom vedea balenele? — Ce ar trebui să mă îmbrac? — Mâine este anulat? Duet se ocupă de întrebările repetitive și ne concentrăm pe turnee.",
+      "quote": "Facem două tururi pe zi în timpul sezonului cu cocoașe și volumul de e-mail este ireal. — Vom vedea balenele? — Ce ar trebui să mă îmbrac? — Mâine este anulat? Chiefy se ocupă de întrebările repetitive și ne concentrăm pe turnee.",
       "avatarKey": "francesca"
     },
     {
       "name": "Căpitanul Ben T.",
       "title": "Excursii pe ocean, HI",
-      "quote": "Răspundeam la aceleași 10 întrebări în fiecare seară — prețuri, ce este inclus, sfaturi pentru rău de mare, limite de vârstă pentru copii. Duet a învățat totul în prima săptămână. Timpul meu de răspuns a trecut de la 8 ore la 8 minute.",
+      "quote": "Răspundeam la aceleași 10 întrebări în fiecare seară — prețuri, ce este inclus, sfaturi pentru rău de mare, limite de vârstă pentru copii. Chiefy a învățat totul în prima săptămână. Timpul meu de răspuns a trecut de la 8 ore la 8 minute.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Manager de rezervări, Pacific NW",
-      "quote": "Anulările meteorologice sunt cele mai urâte — 30 de persoane au nevoie de o rerezervare deodată, iar eu jonglez cu apelurile telefonice. Duet creează e-mailuri personalizate de reprogramare pentru fiecare oaspete. Ceea ce înainte îmi lua 2 ore durează acum 15 minute.",
+      "quote": "Anulările meteorologice sunt cele mai urâte — 30 de persoane au nevoie de o rerezervare deodată, iar eu jonglez cu apelurile telefonice. Chiefy creează e-mailuri personalizate de reprogramare pentru fiecare oaspete. Ceea ce înainte îmi lua 2 ore durează acum 15 minute.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess și Nate P.",
       "title": "Tururi cu animale sălbatice cu bărci mici, BC",
-      "quote": "Suntem o operațiune de două persoane - eu căpitane, ea conduce logistica. În timpul sezonului de vârf petrecea 3 ore pe noapte pe e-mail. Duet a redus asta la 30 de minute. De fapt, își recuperează serile înapoi acum.",
+      "quote": "Suntem o operațiune de două persoane - eu căpitane, ea conduce logistica. În timpul sezonului de vârf petrecea 3 ore pe noapte pe e-mail. Chiefy a redus asta la 30 de minute. De fapt, își recuperează serile înapoi acum.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Duet se ocupă de anulările meteo și modificările programului navelor de croazieră?",
-      "answer": "Da. Când anulați un tur din cauza vremii sau a orelor de sosire a unei nave de croazieră, îi puteți spune Duet o dată, iar acesta redactează e-mailuri personalizate de reprogramare sau de actualizare pentru fiecare oaspete afectat. Nu mai copiați și lipiți același mesaj de 30 de ori. Fiecare răspuns include detaliile inițiale de rezervare ale oaspetelui și alternativele disponibile."
+      "question": "Chiefy se ocupă de anulările meteo și modificările programului navelor de croazieră?",
+      "answer": "Da. Când anulați un tur din cauza vremii sau a orelor de sosire a unei nave de croazieră, îi puteți spune Chiefy o dată, iar acesta redactează e-mailuri personalizate de reprogramare sau de actualizare pentru fiecare oaspete afectat. Nu mai copiați și lipiți același mesaj de 30 de ori. Fiecare răspuns include detaliile inițiale de rezervare ale oaspetelui și alternativele disponibile."
     },
     {
-      "question": "Primim aceleași întrebări în mod constant – „vom vedea balene?”, „cu ce ar trebui să mă îmbrac?”, „este în regulă pentru copii?” Poate Duet să se ocupe de acestea?",
-      "answer": "Exact acolo strălucește Duet. Învață răspunsurile tale standard - speciile pe care le vezi de obicei, ce să aduci, politici de vârstă, sfaturi pentru rău de mare, orele de plecare - și redactează instantaneu răspunsuri complete. Tu revizuiești și trimiți. Majoritatea căpitanilor ne spun că 80% din căsuța lor de e-mail sunt aceleași 10 întrebări, iar Duet se ocupă de toate."
+      "question": "Primim aceleași întrebări în mod constant – „vom vedea balene?”, „cu ce ar trebui să mă îmbrac?”, „este în regulă pentru copii?” Poate Chiefy să se ocupe de acestea?",
+      "answer": "Exact acolo strălucește Chiefy. Învață răspunsurile tale standard - speciile pe care le vezi de obicei, ce să aduci, politici de vârstă, sfaturi pentru rău de mare, orele de plecare - și redactează instantaneu răspunsuri complete. Tu revizuiești și trimiți. Majoritatea căpitanilor ne spun că 80% din căsuța lor de e-mail sunt aceleași 10 întrebări, iar Chiefy se ocupă de toate."
     }
   ],
   "pricingNote": "La 125 USD/persoană, un grup salvat de 6 plătește pentru peste un an de Pro."

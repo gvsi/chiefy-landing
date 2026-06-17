@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | MI e-pasta asistents Gmail un Outlook",
-    "description": "Duet Mail MI e-pasta asistents apkopo e-pastus, sagatavo atbilžu melnrakstus un organizē jūsu iesūtni. Darbojas ar Gmail un Outlook. Ietaupiet 4+ stundas nedēļā."
+    "title": "Chiefy | MI e-pasta asistents Gmail un Outlook",
+    "description": "Chiefy MI e-pasta asistents apkopo e-pastus, sagatavo atbilžu melnrakstus un organizē jūsu iesūtni. Darbojas ar Gmail un Outlook. Ietaupiet 4+ stundas nedēļā."
   },
   "hero": {
     "badge": "Tagad pieejams Gmail un Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "E-pasta melnraksti, kas skan kā jūs",
-        "description": "Duet MI e-pasta rakstītājs sagatavo melnrakstus jūsu svarīgākajiem e-pastiem. Tas apgūst jūsu toni un rakstīšanas stilu.",
+        "description": "Chiefy MI e-pasta rakstītājs sagatavo melnrakstus jūsu svarīgākajiem e-pastiem. Tas apgūst jūsu toni un rakstīšanas stilu.",
         "ariaLabel": "E-pasta melnraksti, kas skan kā jūs",
         "mockCopy": {
           "draftedColdEmail": "Sagatavoju John personalizētu pirmā kontakta e-pasta melnrakstu",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Viedi atgādinājumi",
-        "description": "Iestatiet un aizmirstiet. Duet MI atceras sekot līdzi, kad citi neatbild, lai nekas nepaslīdētu garām.",
+        "description": "Iestatiet un aizmirstiet. Chiefy MI atceras sekot līdzi, kad citi neatbild, lai nekas nepaslīdētu garām.",
         "ariaLabel": "Viedi atgādinājumi",
         "mockCopy": {
           "header": "MI darbināti viedie atgādinājumi",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "E-pasta organizēšana un viedā iesūtnes kategorizēšana",
     "badge": "Organizācija",
-    "title": "Duet sakārto jūsu iesūtni",
+    "title": "Chiefy sakārto jūsu iesūtni",
     "subtitle": "Automātiskā kategorizēšana filtrē troksni un izceļ svarīgo. Uzreiz redziet, kam nepieciešama rīcība, kas ir tikai informācijai un kas var pagaidīt.",
     "windowTitle": "Iesūtne",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI e-pasta melnrakstu un atbilžu ģenerēšana",
     "badge": "Melnraksti",
-    "title": "Duet raksta melnrakstus jūsu balsī",
-    "subtitle": "Duet iemācās, kā jūs rakstāt, un sagatavo atbildes, kas atbilst jūsu tonim. Pārskatiet, vajadzības gadījumā pielāgojiet un nosūtiet dažu sekunžu laikā.",
+    "title": "Chiefy raksta melnrakstus jūsu balsī",
+    "subtitle": "Chiefy iemācās, kā jūs rakstāt, un sagatavo atbildes, kas atbilst jūsu tonim. Pārskatiet, vajadzības gadījumā pielāgojiet un nosūtiet dažu sekunžu laikā.",
     "windowTitle": "Jauns ziņojums",
     "fieldLabels": {
       "to": "To:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI e-pasta inteliģence un asistents",
     "badge": "Inteliģence",
     "title": "Jautājiet jebko par savu e-pastu",
-    "subtitle": "Palūdziet Duet atrast e-pastus, pārbaudīt jūsu kalendāru vai sagatavot atbildes melnrakstu. Tas saprot jūsu iesūtni un atbild uzreiz.",
-    "windowTitle": "Duet Agent",
+    "subtitle": "Palūdziet Chiefy atrast e-pastus, pārbaudīt jūsu kalendāru vai sagatavot atbildes melnrakstu. Tas saprot jūsu iesūtni un atbild uzreiz.",
+    "windowTitle": "Chiefy Agent",
     "onlineLabel": "Tiešsaistē",
     "initialUserMessage": "Vai vari atrast Stripe rēķinu, ko nosūtīja grāmatvedība?",
     "processingText": "Meklē iesūtnē...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Ārštata speciāliste",
-        "quote": "Vērts katru centu. Laiks, ko ietaupu e-pastā, atmaksā Duet Mail desmitkārtīgi. Tagad vairs nevaru iedomāties darbu bez tā.",
+        "quote": "Vērts katru centu. Laiks, ko ietaupu e-pastā, atmaksā Chiefy desmitkārtīgi. Tagad vairs nevaru iedomāties darbu bez tā.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Konsultante",
-        "quote": "Kā konsultantei man svarīga ir katra minūte. Duet Mail ne tikai ietaupa man laiku — tas padara manu e-pasta saziņu precīzāku.",
+        "quote": "Kā konsultantei man svarīga ir katra minūte. Chiefy ne tikai ietaupa man laiku — tas padara manu e-pasta saziņu precīzāku.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Pamata organizēšana iesākumam"
           },
           {
-            "title": "Duet Assistant",
+            "title": "Chiefy Assistant",
             "description": "Izmēģiniet AI asistentu"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet asistents",
+            "title": "Chiefy asistents",
             "description": "Tērzējiet, lai meklētu, veidotu melnrakstus, organizētu un paveiktu vairāk",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "KONTAKTI",
     "contactHeading": "Joprojām ir jautājumi?",
     "contactCta": "Sazinieties →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Kā Duet Mail aizsargā manus e-pasta datus?",
+        "question": "Kā Chiefy aizsargā manus e-pasta datus?",
         "answer": "Jūsu drošība ir mūsu augstākā prioritāte. Drošai autentifikācijai gan ar Google, gan Microsoft izmantojam OAuth 2.0. E-pasta saturs glabāšanas laikā tiek šifrēts, izmantojot klienta puses lauku līmeņa šifrēšanu, un API piekļuvei ievērojam minimālo privilēģiju principu. Google integrācijai mēs veicam Google ikgadējo CASA drošības novērtējumu."
       },
       {
         "question": "Kā darbojas e-pasta kopsavilkumu funkcija?",
-        "answer": "Duet Mail izmanto progresīvu AI, lai analizētu jūsu e-pasta sarakstes un izveidotu īsu pārskatu, izceļot galvenos punktus, lēmumus un veicamos uzdevumus. Tas palīdz ātri izprast kontekstu, nelasot visu saraksti."
+        "answer": "Chiefy izmanto progresīvu AI, lai analizētu jūsu e-pasta sarakstes un izveidotu īsu pārskatu, izceļot galvenos punktus, lēmumus un veicamos uzdevumus. Tas palīdz ātri izprast kontekstu, nelasot visu saraksti."
       },
       {
-        "question": "Kādas atļaujas nepieciešamas Duet Mail?",
-        "answer": "Duet Mail nepieciešama piekļuve jūsu e-pastiem, lai sniegtu kopsavilkumus, izgūtu veicamos uzdevumus, ģenerētu saturu un nosūtītu jūsu e-pastus. Mēs pieprasām tikai tās atļaujas, kas mums patiešām nepieciešamas. Jūs jebkurā laikā varat pārskatīt un atsaukt šīs atļaujas sava Google konta vai Microsoft konta iestatījumos."
+        "question": "Kādas atļaujas nepieciešamas Chiefy?",
+        "answer": "Chiefy nepieciešama piekļuve jūsu e-pastiem, lai sniegtu kopsavilkumus, izgūtu veicamos uzdevumus, ģenerētu saturu un nosūtītu jūsu e-pastus. Mēs pieprasām tikai tās atļaujas, kas mums patiešām nepieciešamas. Jūs jebkurā laikā varat pārskatīt un atsaukt šīs atļaujas sava Google konta vai Microsoft konta iestatījumos."
       },
       {
         "question": "Kas iekļauts bezmaksas izmēģinājumā?",
         "answer": "14 dienu bezmaksas izmēģinājums ietver pilnu piekļuvi visām Pro funkcijām: neierobežoti e-pasta kopsavilkumi, veicamo uzdevumu izgūšana, AI e-pastu rakstītājs (e-pastu un melnrakstu ģenerēšana bez jebkādiem ierobežojumiem) un pielāgotas e-pasta veidnes. Pierakstieties ar Google vai Microsoft, lai sāktu ietaupīt laiku e-pasta pārvaldībā."
       },
       {
-        "question": "Vai varu izmantot Duet Mail ar citiem e-pasta pakalpojumu sniedzējiem?",
-        "answer": "Duet Mail atbalsta Gmail, Google Workspace un Microsoft Outlook. Pierakstieties ar savu Google vai Microsoft kontu, lai sāktu darbu."
+        "question": "Vai varu izmantot Chiefy ar citiem e-pasta pakalpojumu sniedzējiem?",
+        "answer": "Chiefy atbalsta Gmail, Google Workspace un Microsoft Outlook. Pierakstieties ar savu Google vai Microsoft kontu, lai sāktu darbu."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Vietnes kājene",
-    "brandIconAlt": "Duet Mail ikona",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — AI e-pasta asistents, kas katru nedēļu ietaupa jums stundas",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Chiefy ikona",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Izpētīt",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup slava",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "Ieguldījumu atdeve",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "Ja {bookingUnit} cena ir {pricePerBooking}, zaudēt vien {lostPerMonth} lēnu atbilžu dēļ =",
     "lossSuffix": "/mēn. zaudēti",
     "dividerLabel": "pret",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI e-pasta asistents Gmail un Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - AI e-pasta asistents Gmail un Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "Klientu atbalsts",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI e-pasta asistents Gmail un Outlook, kas automātiski apkopo e-pastus, sagatavo atbildes jūsu stilā un organizē jūsu iesūtni, lai katru nedēļu ietaupītu stundas.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Tīmeklis",
     "browserRequirements": "Nepieciešams JavaScript. Darbojas ar Gmail, Google Workspace un Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Kā Duet Mail aizsargā manus e-pasta datus?",
+        "question": "Kā Chiefy aizsargā manus e-pasta datus?",
         "answer": "Jūsu drošība ir mūsu galvenā prioritāte. Drošai autentifikācijai gan ar Google, gan Microsoft izmantojam OAuth 2.0. E-pastu saturs tiek šifrēts miera stāvoklī, izmantojot klienta puses lauka līmeņa šifrēšanu, un API piekļuvei ievērojam vismazāko privilēģiju principu. Google integrācijai mēs ik gadu veicam Google CASA drošības novērtējumu."
       },
       {
         "question": "Kā darbojas e-pasta kopsavilkumu funkcija?",
-        "answer": "Duet Mail izmanto progresīvu AI, lai analizētu jūsu e-pasta sarakstes un izveidotu kodolīgu pārskatu, izceļot galvenos punktus, lēmumus un veicamos uzdevumus. Tas palīdz ātri izprast kontekstu, nelasot visu saraksti."
+        "answer": "Chiefy izmanto progresīvu AI, lai analizētu jūsu e-pasta sarakstes un izveidotu kodolīgu pārskatu, izceļot galvenos punktus, lēmumus un veicamos uzdevumus. Tas palīdz ātri izprast kontekstu, nelasot visu saraksti."
       },
       {
-        "question": "Kādas atļaujas nepieciešamas Duet Mail?",
-        "answer": "Duet Mail nepieciešama piekļuve jūsu e-pastiem, lai nodrošinātu kopsavilkumus, izvilktu veicamos uzdevumus, ģenerētu saturu un nosūtītu jūsu e-pastus. Mēs pieprasām tikai tās atļaujas, kas mums patiešām nepieciešamas. Šīs atļaujas jebkurā laikā varat pārskatīt un atsaukt sava Google Account vai Microsoft Account iestatījumos."
+        "question": "Kādas atļaujas nepieciešamas Chiefy?",
+        "answer": "Chiefy nepieciešama piekļuve jūsu e-pastiem, lai nodrošinātu kopsavilkumus, izvilktu veicamos uzdevumus, ģenerētu saturu un nosūtītu jūsu e-pastus. Mēs pieprasām tikai tās atļaujas, kas mums patiešām nepieciešamas. Šīs atļaujas jebkurā laikā varat pārskatīt un atsaukt sava Google Account vai Microsoft Account iestatījumos."
       },
       {
         "question": "Kas ir iekļauts bezmaksas izmēģinājumā?",
         "answer": "14 dienu bezmaksas izmēģinājums ietver pilnu piekļuvi visām Pro funkcijām: neierobežotiem e-pasta kopsavilkumiem, veicamo uzdevumu izvilkšanai, AI e-pastu rakstītājam (e-pastu un melnrakstu ģenerēšanai bez jebkādiem ierobežojumiem) un pielāgotām e-pasta veidnēm. Pierakstieties ar Google vai Microsoft, lai sāktu taupīt laiku e-pasta pārvaldībā."
       },
       {
-        "question": "Vai varu izmantot Duet Mail ar citiem e-pasta pakalpojumu sniedzējiem?",
-        "answer": "Duet Mail atbalsta Gmail, Google Workspace un Microsoft Outlook. Lai sāktu, pierakstieties ar savu Google vai Microsoft kontu."
+        "question": "Vai varu izmantot Chiefy ar citiem e-pasta pakalpojumu sniedzējiem?",
+        "answer": "Chiefy atbalsta Gmail, Google Workspace un Microsoft Outlook. Lai sāktu, pierakstieties ar savu Google vai Microsoft kontu."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

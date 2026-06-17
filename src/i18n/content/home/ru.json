@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | ИИ-ассистент для email в Gmail и Outlook",
-    "description": "ИИ-ассистент Duet Mail кратко пересказывает письма, черновит ответы и упорядочивает ваш inbox. Работает с Gmail и Outlook. Экономьте 4+ часа в неделю."
+    "title": "Chiefy | ИИ-ассистент для email в Gmail и Outlook",
+    "description": "ИИ-ассистент Chiefy кратко пересказывает письма, черновит ответы и упорядочивает ваш inbox. Работает с Gmail и Outlook. Экономьте 4+ часа в неделю."
   },
   "hero": {
     "badge": "Теперь доступно для Gmail и Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "Черновики писем, которые звучат как вы",
-        "description": "ИИ-писатель Duet готовит черновики для ваших самых важных писем. Он учится вашему тону и стилям письма.",
+        "description": "ИИ-писатель Chiefy готовит черновики для ваших самых важных писем. Он учится вашему тону и стилям письма.",
         "ariaLabel": "Черновики писем, которые звучат как вы",
         "mockCopy": {
           "draftedColdEmail": "Я подготовил персонализированное холодное письмо для John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Умные напоминания",
-        "description": "Настройте и забудьте. Duet AI помнит, когда нужно напомнить, если другие не отвечают — чтобы ничего не потерялось.",
+        "description": "Настройте и забудьте. Chiefy AI помнит, когда нужно напомнить, если другие не отвечают — чтобы ничего не потерялось.",
         "ariaLabel": "Умные напоминания",
         "mockCopy": {
           "header": "Умные напоминания на базе AI",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Организация писем и умная категоризация входящих",
     "badge": "Организация",
-    "title": "Duet организует ваши входящие",
+    "title": "Chiefy организует ваши входящие",
     "subtitle": "Автоматическая категоризация отсекает шум и выделяет главное. Сразу видно, что требует действий, что просто к сведению и что может подождать.",
     "windowTitle": "Входящие",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI-черновики писем и генерация ответов",
     "badge": "Черновики",
-    "title": "Duet пишет черновики в вашем стиле",
-    "subtitle": "Duet учится тому, как вы пишете, и набрасывает ответы в вашем тоне. Просмотрите, при необходимости поправьте — и отправьте за секунды.",
+    "title": "Chiefy пишет черновики в вашем стиле",
+    "subtitle": "Chiefy учится тому, как вы пишете, и набрасывает ответы в вашем тоне. Просмотрите, при необходимости поправьте — и отправьте за секунды.",
     "windowTitle": "Новое сообщение",
     "fieldLabels": {
       "to": "Кому:",
@@ -252,8 +252,8 @@
     "ariaLabel": "ИИ‑интеллект и ассистент для email",
     "badge": "Интеллект",
     "title": "Спросите что угодно о вашей почте",
-    "subtitle": "Попросите Duet найти письма, проверить календарь или набросать ответ. Он понимает ваш inbox и отвечает мгновенно.",
-    "windowTitle": "Duet Agent",
+    "subtitle": "Попросите Chiefy найти письма, проверить календарь или набросать ответ. Он понимает ваш inbox и отвечает мгновенно.",
+    "windowTitle": "Chiefy Agent",
     "onlineLabel": "В сети",
     "initialUserMessage": "Можешь найти счет Stripe, который прислала бухгалтерия?",
     "processingText": "Ищу в inbox...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Фрилансер",
-        "quote": "Стоит каждой копейки. Время, которое я экономлю на почте, окупает Duet Mail в 10 раз. Уже не представляю работу без него.",
+        "quote": "Стоит каждой копейки. Время, которое я экономлю на почте, окупает Chiefy в 10 раз. Уже не представляю работу без него.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Консультант",
-        "quote": "Для консультанта каждая минута на счету. Duet Mail не просто экономит время — он делает мою переписку точнее.",
+        "quote": "Для консультанта каждая минута на счету. Chiefy не просто экономит время — он делает мою переписку точнее.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Базовая организация для старта"
           },
           {
-            "title": "Duet Assistant",
+            "title": "Chiefy Assistant",
             "description": "Попробуйте ИИ-помощника"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
+            "title": "Chiefy Assistant",
             "description": "Чат, чтобы находить, писать, организовывать и многое другое",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "КОНТАКТЫ",
     "contactHeading": "Остались вопросы?",
     "contactCta": "Связаться →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Как Duet Mail защищает мои данные электронной почты?",
+        "question": "Как Chiefy защищает мои данные электронной почты?",
         "answer": "Ваша безопасность — наш главный приоритет. Мы используем OAuth 2.0 для безопасной аутентификации в Google и Microsoft. Содержимое писем шифруется при хранении с помощью клиентского шифрования на уровне полей, и мы соблюдаем принцип наименьших привилегий для доступа к API. Для интеграции с Google мы ежегодно проходим проверку безопасности CASA от Google."
       },
       {
         "question": "Как работает функция сводки писем?",
-        "answer": "Duet Mail использует продвинутый ИИ, чтобы анализировать цепочки писем и создавать краткий обзор с ключевыми пунктами, решениями и задачами. Это помогает быстро понять контекст, не читая всю переписку."
+        "answer": "Chiefy использует продвинутый ИИ, чтобы анализировать цепочки писем и создавать краткий обзор с ключевыми пунктами, решениями и задачами. Это помогает быстро понять контекст, не читая всю переписку."
       },
       {
-        "question": "Какие разрешения нужны Duet Mail?",
-        "answer": "Duet Mail требуется доступ к вашим письмам, чтобы делать сводки, извлекать задачи, генерировать текст и отправлять ваши письма. Мы запрашиваем только действительно необходимые разрешения. Вы можете просмотреть и отозвать их в любой момент в настройках Google Account или Microsoft Account."
+        "question": "Какие разрешения нужны Chiefy?",
+        "answer": "Chiefy требуется доступ к вашим письмам, чтобы делать сводки, извлекать задачи, генерировать текст и отправлять ваши письма. Мы запрашиваем только действительно необходимые разрешения. Вы можете просмотреть и отозвать их в любой момент в настройках Google Account или Microsoft Account."
       },
       {
         "question": "Что входит в бесплатный пробный период?",
         "answer": "14-дневный бесплатный пробный период включает полный доступ ко всем функциям Pro: неограниченные сводки писем, извлечение задач, AI email writer (генерация писем и черновиков без ограничений) и кастомные шаблоны писем. Войдите через Google или Microsoft, чтобы начать экономить время на работе с почтой."
       },
       {
-        "question": "Можно ли использовать Duet Mail с другими почтовыми провайдерами?",
-        "answer": "Duet Mail поддерживает Gmail, Google Workspace и Microsoft Outlook. Войдите с аккаунтом Google или Microsoft, чтобы начать."
+        "question": "Можно ли использовать Chiefy с другими почтовыми провайдерами?",
+        "answer": "Chiefy поддерживает Gmail, Google Workspace и Microsoft Outlook. Войдите с аккаунтом Google или Microsoft, чтобы начать."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Подвал сайта",
-    "brandIconAlt": "Иконка Duet Mail",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — ИИ-ассистент для email, который экономит вам часы каждую неделю",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Иконка Chiefy",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Обзор",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "Окупаемость инвестиций",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "При {pricePerBooking} за {bookingUnit} потеря всего {lostPerMonth} из-за медленных ответов =",
     "lossSuffix": "/мес. потерь",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet — AI Email Assistant для Gmail и Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy — AI Email Assistant для Gmail и Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "Поддержка клиентов",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI email assistant для Gmail и Outlook, который автоматически делает сводки писем, черновики ответов в вашем стиле и организует входящие, экономя часы каждую неделю.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Веб",
     "browserRequirements": "Требуется JavaScript. Работает с Gmail, Google Workspace и Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/ru",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Как Duet Mail защищает мои данные электронной почты?",
+        "question": "Как Chiefy защищает мои данные электронной почты?",
         "answer": "Ваша безопасность — наш главный приоритет. Мы используем OAuth 2.0 для безопасной аутентификации как в Google, так и в Microsoft. Содержимое писем шифруется при хранении с помощью клиентского полевого шифрования, и мы следуем принципу наименьших привилегий для доступа к API. Для нашей интеграции с Google мы ежегодно проходим оценку безопасности CASA от Google."
       },
       {
         "question": "Как работает функция сводки писем?",
-        "answer": "Duet Mail использует продвинутый ИИ, чтобы анализировать цепочки писем и создавать краткую сводку, выделяя ключевые моменты, решения и задачи. Это помогает быстро понять контекст, не читая всю переписку."
+        "answer": "Chiefy использует продвинутый ИИ, чтобы анализировать цепочки писем и создавать краткую сводку, выделяя ключевые моменты, решения и задачи. Это помогает быстро понять контекст, не читая всю переписку."
       },
       {
-        "question": "Какие разрешения нужны Duet Mail?",
-        "answer": "Duet Mail нужен доступ к вашим письмам, чтобы делать сводки, извлекать задачи, генерировать контент и отправлять письма. Мы запрашиваем только те разрешения, которые действительно необходимы. Вы можете просмотреть и отозвать эти разрешения в любой момент в настройках вашего аккаунта Google или Microsoft."
+        "question": "Какие разрешения нужны Chiefy?",
+        "answer": "Chiefy нужен доступ к вашим письмам, чтобы делать сводки, извлекать задачи, генерировать контент и отправлять письма. Мы запрашиваем только те разрешения, которые действительно необходимы. Вы можете просмотреть и отозвать эти разрешения в любой момент в настройках вашего аккаунта Google или Microsoft."
       },
       {
         "question": "Что входит в бесплатный пробный период?",
         "answer": "14-дневный бесплатный пробный период включает полный доступ ко всем функциям Pro: неограниченные сводки писем, извлечение задач, AI email writer (генерация писем и черновиков без каких-либо ограничений) и пользовательские шаблоны писем. Войдите через Google или Microsoft, чтобы начать экономить время на работе с почтой."
       },
       {
-        "question": "Могу ли я использовать Duet Mail с другими почтовыми провайдерами?",
-        "answer": "Duet Mail поддерживает Gmail, Google Workspace и Microsoft Outlook. Войдите в свой аккаунт Google или Microsoft, чтобы начать."
+        "question": "Могу ли я использовать Chiefy с другими почтовыми провайдерами?",
+        "answer": "Chiefy поддерживает Gmail, Google Workspace и Microsoft Outlook. Войдите в свой аккаунт Google или Microsoft, чтобы начать."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

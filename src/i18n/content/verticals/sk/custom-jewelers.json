@@ -1,10 +1,10 @@
 {
   "slug": "custom-jewelers",
-  "pageTitle": "Duet Mail pre zákazkových klenotníkov | AI asistent pre e-maily",
-  "metaDescription": "Duet Mail pomáha zákazkovým klenotníkom okamžite odpovedať na žiadosti o konzultáciu, schvaľovanie návrhov a otázky k harmonogramu — aj keď práve pracujete pri stole. Odpovede pripravené AI s vaším procesom, cenami a štýlom.",
+  "pageTitle": "Chiefy pre zákazkových klenotníkov | AI asistent pre e-maily",
+  "metaDescription": "Chiefy pomáha zákazkovým klenotníkom okamžite odpovedať na žiadosti o konzultáciu, schvaľovanie návrhov a otázky k harmonogramu — aj keď práve pracujete pri stole. Odpovede pripravené AI s vaším procesom, cenami a štýlom.",
   "heroBadge": "Dôveruje mu viac ako 300 návrhárov šperkov",
   "heroHeadline": "Váš e-mailový asistent, keď ste pri pracovnom stole",
-  "heroSubline": "Duet sa naučí váš návrhársky proces, materiály, ceny a termíny — a potom pripraví odpovede na e-maily, aby ste nikdy nestratili zákazníka kvôli pomalej reakcii.",
+  "heroSubline": "Chiefy sa naučí váš návrhársky proces, materiály, ceny a termíny — a potom pripraví odpovede na e-maily, aby ste nikdy nestratili zákazníka kvôli pomalej reakcii.",
   "inboxEmails": [
     {
       "from": "Rachel & David T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "zákazkový kus",
     "lostPerMonth": "1",
     "monthlyLoss": "$5,000",
-    "punchline": "Jedna zachránená zákazka zaplatí viac ako štyri roky Duet."
+    "punchline": "Jedna zachránená zákazka zaplatí viac ako štyri roky Chiefy."
   },
-  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže ako prvé uvidíte nové žiadosti o konzultáciu, potom schválenia návrhov a nikdy nie newslettery od dodávateľov. Už žiadne prehliadnuté dopyty za $5,000 ukryté pod promo akciami dodávateľov.",
-  "draftSubtitle": "Duet sa naučí váš proces, materiály, ceny a štýl komunikácie. Keď príde žiadosť o konzultáciu, pripraví kompletnú odpoveď s vašou dostupnosťou, tým, čo si priniesť, a tým, ako funguje váš proces. Vy ju len skontrolujete a odošlete.",
-  "agentSubtitle": "\"Kde sme pri prsteni pre Amanda?\" \"Priprav odpoveď s aktualizáciou termínu pre James.\" Duet pozná každý klientsky vlákno — stačí sa opýtať.",
+  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže ako prvé uvidíte nové žiadosti o konzultáciu, potom schválenia návrhov a nikdy nie newslettery od dodávateľov. Už žiadne prehliadnuté dopyty za $5,000 ukryté pod promo akciami dodávateľov.",
+  "draftSubtitle": "Chiefy sa naučí váš proces, materiály, ceny a štýl komunikácie. Keď príde žiadosť o konzultáciu, pripraví kompletnú odpoveď s vašou dostupnosťou, tým, čo si priniesť, a tým, ako funguje váš proces. Vy ju len skontrolujete a odošlete.",
+  "agentSubtitle": "\"Kde sme pri prsteni pre Amanda?\" \"Priprav odpoveď s aktualizáciou termínu pre James.\" Chiefy pozná každý klientsky vlákno — stačí sa opýtať.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Marco R.",
       "title": "Návrhár zákazkových šperkov, LA",
-      "quote": "Každý zákazkový kus vygeneruje 10 - 15 e-mailov počas týždňov. Keď to vynásobíte 8 aktívnymi klientmi, topil som sa v tom. Duet pripravuje odpovede na aktualizácie návrhov, potvrdenia konzultácií, odpovede k termínom — všetko v mojom štýle. Skontrolujem ich medzi odlievaniami a odošlem.",
+      "quote": "Každý zákazkový kus vygeneruje 10 - 15 e-mailov počas týždňov. Keď to vynásobíte 8 aktívnymi klientmi, topil som sa v tom. Chiefy pripravuje odpovede na aktualizácie návrhov, potvrdenia konzultácií, odpovede k termínom — všetko v mojom štýle. Skontrolujem ich medzi odlievaniami a odošlem.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Zlatníčka a majiteľka štúdia, Brooklyn",
-      "quote": "Prišla som o zákazku na zásnubný prsteň za $7,000, pretože som odpovedala 3 dni — pár išiel k niekomu, kto odpovedal do 2 hodín. Od Duet mám čas odozvy pod 30 minút. To sa už nestalo.",
+      "quote": "Prišla som o zákazku na zásnubný prsteň za $7,000, pretože som odpovedala 3 dni — pár išiel k niekomu, kto odpovedal do 2 hodín. Od Chiefy mám čas odozvy pod 30 minút. To sa už nestalo.",
       "avatarKey": "sarah"
     },
     {
       "name": "Danny K.",
       "title": "Klenotník pri pracovnom stole, Chicago",
-      "quote": "Som pri stole 8 hodín denne s horákom v ruke. Nemôžem uprostred spájkovania prestať a písať odpoveď na konzultáciu. Duet pripravuje všetko, kým pracujem — pozriem na telefón, schválim a hotovo.",
+      "quote": "Som pri stole 8 hodín denne s horákom v ruke. Nemôžem uprostred spájkovania prestať a písať odpoveď na konzultáciu. Chiefy pripravuje všetko, kým pracujem — pozriem na telefón, schválim a hotovo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Alessia M.",
       "title": "Návrhárka svadobných šperkov, Austin",
-      "quote": "Počas zásnubnej sezóny dostávam viac ako 20 žiadostí o konzultáciu týždenne. Duet sa naučil celý môj proces — materiály, termíny, cenové úrovne, čo si priniesť. Pripravuje odpovede, ktoré takmer nemusím upravovať. Absolútny záchranca od novembra do februára.",
+      "quote": "Počas zásnubnej sezóny dostávam viac ako 20 žiadostí o konzultáciu týždenne. Chiefy sa naučil celý môj proces — materiály, termíny, cenové úrovne, čo si priniesť. Pripravuje odpovede, ktoré takmer nemusím upravovať. Absolútny záchranca od novembra do februára.",
       "avatarKey": "francesca"
     },
     {
       "name": "Nina C.",
       "title": "Špecialistka na zákazkové prstene, Portland",
-      "quote": "E-maily s revíziami 3D modelov mi kedysi ukrajovali z večerov. Klient pošle spätnú väzbu, ja pripravím aktualizáciu, päťkrát tam a späť. Teraz Duet vybaví rutinné odpovede a ja zasahujem len pri dizajnových rozhodnutiach. Večery mám späť.",
+      "quote": "E-maily s revíziami 3D modelov mi kedysi ukrajovali z večerov. Klient pošle spätnú väzbu, ja pripravím aktualizáciu, päťkrát tam a späť. Teraz Chiefy vybaví rutinné odpovede a ja zasahujem len pri dizajnových rozhodnutiach. Večery mám späť.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite bezplatnú skúšobnú verziu. Pripojte svoju schránku za 30 sekúnd.",
   "verticalFaqs": [
     {
-      "question": "Dokáže Duet pracovať s e-mailmi s referenčnými fotografiami a prílohami návrhov?",
-      "answer": "Áno. Duet vidí celé vlákno e-mailu vrátane príloh, takže rozumie kontextu, keď klient pošle inšpiračné fotky alebo spätnú väzbu k návrhu. Neopíše obrázky späť, ale vie, že klient práve poslal referenčné fotografie, a pripraví vhodnú odpoveď — potvrdí prijatie, položí upresňujúce otázky k návrhu alebo navrhne ďalšie kroky podľa vášho bežného pracovného postupu."
+      "question": "Dokáže Chiefy pracovať s e-mailmi s referenčnými fotografiami a prílohami návrhov?",
+      "answer": "Áno. Chiefy vidí celé vlákno e-mailu vrátane príloh, takže rozumie kontextu, keď klient pošle inšpiračné fotky alebo spätnú väzbu k návrhu. Neopíše obrázky späť, ale vie, že klient práve poslal referenčné fotografie, a pripraví vhodnú odpoveď — potvrdí prijatie, položí upresňujúce otázky k návrhu alebo navrhne ďalšie kroky podľa vášho bežného pracovného postupu."
     },
     {
-      "question": "Moje zákazkové projekty majú dlhé e-mailové vlákna s viac ako 10 správami. Zvládne ich Duet?",
-      "answer": "Presne v tom Duet vyniká. Číta celú históriu vlákna — poznámky z konzultácií, úpravy návrhov, výber materiálov, aktualizácie termínov — takže každá pripravená odpoveď má plný kontext. Keď sa klient v e-maile č. 14 spýta „v akom stave je môj prsteň?“, Duet vie, ktorý prsteň to je, v akej je fáze a pripraví presnú aktualizáciu. Už nemusíte znova čítať 3 mesiace e-mailov."
+      "question": "Moje zákazkové projekty majú dlhé e-mailové vlákna s viac ako 10 správami. Zvládne ich Chiefy?",
+      "answer": "Presne v tom Chiefy vyniká. Číta celú históriu vlákna — poznámky z konzultácií, úpravy návrhov, výber materiálov, aktualizácie termínov — takže každá pripravená odpoveď má plný kontext. Keď sa klient v e-maile č. 14 spýta „v akom stave je môj prsteň?“, Chiefy vie, ktorý prsteň to je, v akej je fáze a pripraví presnú aktualizáciu. Už nemusíte znova čítať 3 mesiace e-mailov."
     }
   ],
   "pricingNote": "Pri cene $5,000 za kus jedna zachránená zákazka zaplatí viac ako štyri roky Pro."

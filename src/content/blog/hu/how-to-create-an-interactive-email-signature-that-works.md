@@ -2,7 +2,7 @@
 title: "Hogyan készítsünk interaktív e-mail aláírást, amely működik"
 description: "Ismerje meg, hogyan hozhat létre interaktív e-mail-aláírást az elköteleződés, a márkaépítés és a potenciális ügyfelek növelése érdekében. Lépésről lépésre útmutató szabadúszóknak és induló vállalkozásoknak"
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -133,7 +133,7 @@ Az interaktív aláírás cselekvésre késztet – kattintás, hívás, foglal�
 
 Ez az a pont, ahol az aláírási stratégiáját az intelligens e-mail-kezelő eszközökkel integrálhatja. Amikor a leadek elkezdenek rákattintani az Ön nagyszerű aláírása által generált "Találkozás foglalása" linkre, szüksége van egy rendszerre, amely zökkenőmentesen kezeli a későbbi ütemezést és a kommunikációt. Hasonlóképpen, a kapcsolatok kialakításában kulcsfontosságú, hogy minden további e-mailben megőrizze az aláírása által meghatározott professzionális hangnemet.
 
-Az e-mailek termelékenységére tervezett eszközök, például a [Duet Mail](https://duetmail.com/hu) segíthetnek áthidalni ezt a szakadékot. Képzelje el, hogy mesterséges intelligencia segítséget kap az azonnali, személyre szabott válaszok megfogalmazásához, amelyek megőrzik egyedi hangját, miután valaki interakcióba lép az Ön aláírásának CTA-jával. A Duet Mail olyan funkciói, mint az **AI Triage** segíthetnek felszínre hozni az aláírások interakcióiból származó fontos válaszokat, míg az **Authentic AI Drafting** gondoskodik arról, hogy a nyomon követései pontosan úgy hangzanak, mint Ön, megőrizve aláírásprojektjei professzionalizmusát. Az aláírásod által kiváltott eljegyzést jól irányított, eredményes beszélgetésekké alakítja.
+Az e-mailek termelékenységére tervezett eszközök, például a [Chiefy](https://chiefy.com/hu) segíthetnek áthidalni ezt a szakadékot. Képzelje el, hogy mesterséges intelligencia segítséget kap az azonnali, személyre szabott válaszok megfogalmazásához, amelyek megőrzik egyedi hangját, miután valaki interakcióba lép az Ön aláírásának CTA-jával. A Chiefy olyan funkciói, mint az **AI Triage** segíthetnek felszínre hozni az aláírások interakcióiból származó fontos válaszokat, míg az **Authentic AI Drafting** gondoskodik arról, hogy a nyomon követései pontosan úgy hangzanak, mint Ön, megőrizve aláírásprojektjei professzionalizmusát. Az aláírásod által kiváltott eljegyzést jól irányított, eredményes beszélgetésekké alakítja.
 
 ## Készen áll az aláírás aktiválására?
 

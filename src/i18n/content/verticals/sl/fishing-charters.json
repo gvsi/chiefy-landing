@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail za ribiške čarterje | AI e-poštni pomočnik",
-  "metaDescription": "Duet Mail pomaga kapitanom ribiških čarterjev takoj odgovoriti na e-pošto o rezervacijah — tudi z vode. Osnutki odgovorov z umetno inteligenco z vašimi cenami, pravili in načinom pisanja.",
+  "pageTitle": "Chiefy za ribiške čarterje | AI e-poštni pomočnik",
+  "metaDescription": "Chiefy pomaga kapitanom ribiških čarterjev takoj odgovoriti na e-pošto o rezervacijah — tudi z vode. Osnutki odgovorov z umetno inteligenco z vašimi cenami, pravili in načinom pisanja.",
   "heroBadge": "Zaupa mu več kot 500 kapitanov čarterjev",
   "heroHeadline": "Vaš e-poštni pomočnik, ko ste na vodi",
-  "heroSubline": "Duet se nauči vaših cen, pravil in načina pisanja — nato pripravlja osnutke e-poštnih odgovorov, da zaradi počasnega odziva ne izgubite nobene rezervacije.",
+  "heroSubline": "Chiefy se nauči vaših cen, pravil in načina pisanja — nato pripravlja osnutke e-poštnih odgovorov, da zaradi počasnega odziva ne izgubite nobene rezervacije.",
   "inboxEmails": [
     {
       "from": "Sarah M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "čarter",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Ena rešena rezervacija pokrije leto uporabe Duet."
+    "punchline": "Ena rešena rezervacija pokrije leto uporabe Chiefy."
   },
-  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato vprašanja, šuma pa nikoli. Nič več zgrešenih povpraševanj za izlet, zakopanih pod opozorili TripAdvisor.",
-  "draftSubtitle": "Duet se nauči vaših cen, pravil in tona. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi izleta, ceno in tem, kaj prinesti. Vi ga pregledate in pošljete.",
-  "agentSubtitle": "\"Kateri dnevi so prosti naslednji teden?\" \"Pripravi odgovor Sarah z razpoložljivostjo.\" Duet pozna vaš nabiralnik in koledar — samo vprašajte.",
+  "categorizationSubtitle": "Chiefy samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato vprašanja, šuma pa nikoli. Nič več zgrešenih povpraševanj za izlet, zakopanih pod opozorili TripAdvisor.",
+  "draftSubtitle": "Chiefy se nauči vaših cen, pravil in tona. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi izleta, ceno in tem, kaj prinesti. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Kateri dnevi so prosti naslednji teden?\" \"Pripravi odgovor Sarah z razpoložljivostjo.\" Chiefy pozna vaš nabiralnik in koledar — samo vprašajte.",
   "categorizationEmails": [
     {
       "from": "Sarah M.",
@@ -127,25 +127,25 @@
     {
       "name": "Captain Mike D.",
       "title": "Kapitan čarterjev na odprtem morju, FL",
-      "quote": "V glavni sezoni sem izgubil 2-3 rezervacije na teden samo zato, ker s čolna nisem mogel dovolj hitro odgovoriti. Duet pripravlja odgovore z mojimi cenami in podrobnostmi izletov — med ulovi samo pritisnem pošlji.",
+      "quote": "V glavni sezoni sem izgubil 2-3 rezervacije na teden samo zato, ker s čolna nisem mogel dovolj hitro odgovoriti. Chiefy pripravlja odgovore z mojimi cenami in podrobnostmi izletov — med ulovi samo pritisnem pošlji.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah & Tom K.",
       "title": "Družinsko čartersko podjetje, OR",
-      "quote": "Vodimo dva čolna in poleti je količina e-pošte nora. Duet loči zahteve za rezervacijo od vsega drugega in pripravi odgovore, ki zvenijo natanko kot mi. Popolna sprememba igre.",
+      "quote": "Vodimo dva čolna in poleti je količina e-pošte nora. Chiefy loči zahteve za rezervacijo od vsega drugega in pripravi odgovore, ki zvenijo natanko kot mi. Popolna sprememba igre.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Obalni ribiški vodnik, TX",
-      "quote": "Vsak večer sem porabil uro za odgovarjanje na ista vprašanja o razpoložljivosti. Zdaj to ureja Duet. Moj odzivni čas se je z ur skrajšal na minute in od takrat nisem izgubil nobene rezervacije.",
+      "quote": "Vsak večer sem porabil uro za odgovarjanje na ista vprašanja o razpoložljivosti. Zdaj to ureja Chiefy. Moj odzivni čas se je z ur skrajšal na minute in od takrat nisem izgubil nobene rezervacije.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Vodja pisarne čarterjev, HI",
-      "quote": "Upravljanje e-pošte za 4 kapitane je bilo delo za polni delovni čas. Duet vse kategorizira in pripravlja odgovore s pravim čolnom, pravo ceno in pravim kapitanom. Kot da bi imela še eno sebe.",
+      "quote": "Upravljanje e-pošte za 4 kapitane je bilo delo za polni delovni čas. Chiefy vse kategorizira in pripravlja odgovore s pravim čolnom, pravo ceno in pravim kapitanom. Kot da bi imela še eno sebe.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
   "verticalFaqs": [
     {
-      "question": "Ali Duet deluje za e-pošto o rezervacijah in razpoložljivosti?",
-      "answer": "Seveda. Duet se nauči vaših vrst izletov, cen, razpoložljivosti in pravil. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s pravimi podrobnostmi — ceno, tem, kaj je vključeno, lokacijo srečanja in kaj prinesti. Vi ga pregledate in tapnete pošlji."
+      "question": "Ali Chiefy deluje za e-pošto o rezervacijah in razpoložljivosti?",
+      "answer": "Seveda. Chiefy se nauči vaših vrst izletov, cen, razpoložljivosti in pravil. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s pravimi podrobnostmi — ceno, tem, kaj je vključeno, lokacijo srečanja in kaj prinesti. Vi ga pregledate in tapnete pošlji."
     },
     {
-      "question": "Ves dan sem na vodi. Ali lahko Duet uporabljam s telefona?",
-      "answer": "Da. Duet deluje z Gmail in Outlook, zato deluje povsod, kjer deluje vaša e-pošta — tudi na telefonu. Osnutki se prikažejo samodejno. Med ulovi jih pregledate in pošljete z enim dotikom. Večina kapitanov nam pove, da jim v glavni sezoni prihrani 1-2 uri e-pošte na dan."
+      "question": "Ves dan sem na vodi. Ali lahko Chiefy uporabljam s telefona?",
+      "answer": "Da. Chiefy deluje z Gmail in Outlook, zato deluje povsod, kjer deluje vaša e-pošta — tudi na telefonu. Osnutki se prikažejo samodejno. Med ulovi jih pregledate in pošljete z enim dotikom. Večina kapitanov nam pove, da jim v glavni sezoni prihrani 1-2 uri e-pošte na dan."
     }
   ],
   "pricingNote": "Pri $500/čarter ena rešena rezervacija pokrije več kot leto uporabe Pro."

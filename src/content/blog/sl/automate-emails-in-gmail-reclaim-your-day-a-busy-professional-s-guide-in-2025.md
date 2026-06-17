@@ -2,7 +2,7 @@
 title: "Avtomatizirajte e-pošto v storitvi Gmail in si povrnite dan: vodnik za zaposlene strokovnjake v letu 2025"
 description: "Nehajte se utapljati v nabiralniku. Naučite se avtomatizirati e-pošto v storitvi Gmail z vgrajenimi funkcijami, razširitvami in AI asistenti ter prihranite ure."
 publishedAt: 2025-11-16
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Produktivnost", "Avtomatizacija"]
 draft: false
 ---
@@ -115,15 +115,15 @@ AI asistenti uporabljajo strojno učenje in obdelavo naravnega jezika za izvajan
 
 ### AI triaža: iskanje signala v hrupu
 
-Vas preplavlja sama količina sporočil? AI triaža deluje kot virtualni asistent, ki prebira nabiralnik in izpostavi, kaj res zahteva vašo pozornost. Z analizo različnih signalov ta orodja samodejno kategorizirajo in prednostno razvrščajo sporočila, umaknejo nizkoprioritetne elemente, kot so novice ali obvestila, ter izpostavijo nujne zahteve ali pomembno komunikacijo. Orodja, kot je [Emilio](https://getemil.io/blog/ai-email-triage/), ali sistem, ki ga opisuje [Mailmodo](https://www.mailmodo.com/guides/ai-email-triage/), ponazarjajo ta pristop. Tu so lahko orodja, kot je [**Duet Mail**](https://duetmail.com/sl), prelomna, saj z AI triažo analizirajo nujnost in potrebna dejanja ter jih prikažejo na osredotočeni nadzorni plošči, da takoj vidite, kaj zahteva pozornost, in močno skrajšate čas razvrščanja.
+Vas preplavlja sama količina sporočil? AI triaža deluje kot virtualni asistent, ki prebira nabiralnik in izpostavi, kaj res zahteva vašo pozornost. Z analizo različnih signalov ta orodja samodejno kategorizirajo in prednostno razvrščajo sporočila, umaknejo nizkoprioritetne elemente, kot so novice ali obvestila, ter izpostavijo nujne zahteve ali pomembno komunikacijo. Orodja, kot je [Emilio](https://getemil.io/blog/ai-email-triage/), ali sistem, ki ga opisuje [Mailmodo](https://www.mailmodo.com/guides/ai-email-triage/), ponazarjajo ta pristop. Tu so lahko orodja, kot je [**Chiefy**](https://chiefy.com/sl), prelomna, saj z AI triažo analizirajo nujnost in potrebna dejanja ter jih prikažejo na osredotočeni nadzorni plošči, da takoj vidite, kaj zahteva pozornost, in močno skrajšate čas razvrščanja.
 
 ### Pametno povzemanje: takoj razumite dolge niti
 
-Vstop v dolgo e-poštno verigo je lahko kot detektivsko delo. AI orodja za povzemanje preberejo celotno nit in vam v nekaj sekundah podajo bistvo: ključne odločitve, odprta vprašanja in naloge. Tako prihranite dragocen čas, ki bi ga sicer porabili za ponovno branje zgodovine. Vodilna orodja, kot sta [Superhuman](https://superhuman.com/) in [Gemini za Gmail](https://workspace.google.com/solutions/ai/) od Google, ponujajo to zmožnost. Podobno **Duet Mail** uporablja pametno povzemanje s kontekstualnim zavedanjem, zato ne dobite le povzetka, ampak tudi relevantne podrobnosti iz preteklih interakcij ali projektnega konteksta.
+Vstop v dolgo e-poštno verigo je lahko kot detektivsko delo. AI orodja za povzemanje preberejo celotno nit in vam v nekaj sekundah podajo bistvo: ključne odločitve, odprta vprašanja in naloge. Tako prihranite dragocen čas, ki bi ga sicer porabili za ponovno branje zgodovine. Vodilna orodja, kot sta [Superhuman](https://superhuman.com/) in [Gemini za Gmail](https://workspace.google.com/solutions/ai/) od Google, ponujajo to zmožnost. Podobno **Chiefy** uporablja pametno povzemanje s kontekstualnim zavedanjem, zato ne dobite le povzetka, ampak tudi relevantne podrobnosti iz preteklih interakcij ali projektnega konteksta.
 
 ### Avtentično AI pisanje osnutkov: odgovorite hitreje in zvenite kot vi
 
-Pisanje odgovorov, posebej rutinskih, vam jemlje ure. AI lahko ustvari osnutke odgovorov na podlagi konteksta e-pošte in pogosto ponudi več možnosti. Ključni izziv je ohraniti vaš avtentični glas. Napredni AI asistenti se vse bolj osredotočajo na učenje vašega edinstvenega komunikacijskega sloga, besedišča in tona iz vaših preteklih poslanih sporočil. To pomeni, da predlagani osnutki zvenijo manj robotsko in bolj kot nekaj, kar bi dejansko napisali vi. Ta zmožnost je osrednja pri **Duet Mail**ovem avtentičnem AI pisanju osnutkov, ki je posebej osredotočeno na učenje *vašega* glasu za hitro ustvarjanje personaliziranih, naravno zvenečih odgovorov.
+Pisanje odgovorov, posebej rutinskih, vam jemlje ure. AI lahko ustvari osnutke odgovorov na podlagi konteksta e-pošte in pogosto ponudi več možnosti. Ključni izziv je ohraniti vaš avtentični glas. Napredni AI asistenti se vse bolj osredotočajo na učenje vašega edinstvenega komunikacijskega sloga, besedišča in tona iz vaših preteklih poslanih sporočil. To pomeni, da predlagani osnutki zvenijo manj robotsko in bolj kot nekaj, kar bi dejansko napisali vi. Ta zmožnost je osrednja pri **Chiefy**ovem avtentičnem AI pisanju osnutkov, ki je posebej osredotočeno na učenje *vašega* glasu za hitro ustvarjanje personaliziranih, naravno zvenečih odgovorov.
 
 Področje AI e-pošte se hitro razvija, številna orodja, kot so [MailMaestro](https://www.maestrolabs.com/), [SaneBox](https://www.sanebox.com/) in druga, pa ponujajo različne kombinacije teh inteligentnih funkcij, pogosto neposredno v Gmail prek razširitev ali ločenih aplikacij.
 
@@ -166,4 +166,4 @@ Cilj ni samo prazen nabiralnik, temveč bolj osredotočen, produktiven in manj s
 
 Z učinkovito avtomatizacijo si povrnite čas in zmanjšajte stres zaradi e-pošte.
 
-Ste pripravljeni obvladati nabiralnik? Danes poskusite uvesti filtre, raziščite razširitev za določeno potrebo ali si oglejte, kako lahko AI asistent, kot je [**Duet Mail**](https://duetmail.com/sl), inteligentno avtomatizira triažo, povzemanje in pisanje osnutkov ter preoblikuje vaš delovni tok.
+Ste pripravljeni obvladati nabiralnik? Danes poskusite uvesti filtre, raziščite razširitev za določeno potrebo ali si oglejte, kako lahko AI asistent, kot je [**Chiefy**](https://chiefy.com/sl), inteligentno avtomatizira triažo, povzemanje in pisanje osnutkov ter preoblikuje vaš delovni tok.

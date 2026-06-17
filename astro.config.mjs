@@ -55,10 +55,10 @@ function filterSitemapPage(page) {
     return !nonDefaultLocaleSet.has(firstSegment)
 }
 
-// Host-aware site origin (B3). The chiefy-landing Pages build sets
-// SITE_URL=https://chiefy.com so the same source tree serves Chiefy parity
-// without forking content; default keeps Duet Mail.
-const SITE_URL = (process.env.SITE_URL && process.env.SITE_URL.trim()) || "https://duetmail.com"
+// Site origin for canonical / hreflang / sitemap. Post-flip collapse (ADR 0031):
+// `main` is the Chiefy site, so the default is chiefy.com and a plain build is
+// correct without env. SITE_URL can still override (kept for parity/preview builds).
+const SITE_URL = (process.env.SITE_URL && process.env.SITE_URL.trim()) || "https://chiefy.com"
 
 export default defineConfig({
     output: "static",
