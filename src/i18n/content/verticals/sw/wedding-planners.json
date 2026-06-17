@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail kwa Wapangaji Harusi | Msaidizi wa barua pepe wa AI",
-  "metaDescription": "Duet Mail huwasaidia wapangaji wa harusi kujibu barua pepe za mteja na wauzaji papo hapo - hata kutoka kwa matembezi ya ukumbi. Majibu yaliyoandaliwa na AI na vifurushi vyako, anwani za wachuuzi na sauti.",
+  "pageTitle": "Chiefy kwa Wapangaji Harusi | Msaidizi wa barua pepe wa AI",
+  "metaDescription": "Chiefy huwasaidia wapangaji wa harusi kujibu barua pepe za mteja na wauzaji papo hapo - hata kutoka kwa matembezi ya ukumbi. Majibu yaliyoandaliwa na AI na vifurushi vyako, anwani za wachuuzi na sauti.",
   "heroBadge": "Inaaminiwa na wapangaji harusi zaidi ya 400",
   "heroHeadline": "Msaidizi wako wa barua pepe ukiwa kwenye tovuti kwenye ukumbi",
-  "heroSubline": "Duet hujifunza anwani, vifurushi na mapendeleo ya wachuuzi wako - kisha huandaa majibu ya barua pepe ili wanandoa wasisubiri wakati unaratibu majumbani.",
+  "heroSubline": "Chiefy hujifunza anwani, vifurushi na mapendeleo ya wachuuzi wako - kisha huandaa majibu ya barua pepe ili wanandoa wasisubiri wakati unaratibu majumbani.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "harusi",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Mteja mmoja aliyeokolewa hulipa kwa zaidi ya miaka 20 ya Duet."
+    "punchline": "Mteja mmoja aliyeokolewa hulipa kwa zaidi ya miaka 20 ya Chiefy."
   },
-  "categorizationSubtitle": "Duet huweka lebo kiotomatiki kila barua pepe ili uone maswali mapya ya wanandoa kwanza, uthibitisho wa muuzaji pili, na kelele za jarida kamwe. Hakuna tena kukosa ombi la kuhifadhi lililozikwa chini ya arifa za Knot.",
-  "draftSubtitle": "Duet hujifunza vifurushi vyako, wachuuzi unaopendelea, na sauti. Wanandoa wanapokuuliza, huandaa jibu la joto, kamili na upatikanaji wako na hatua zinazofuata. Unakagua na kutuma.",
-  "agentSubtitle": "\"Ni barua pepe gani za muuzaji zilikuja kwa harusi ya Thompson?\" \"Rasimu ya sasisho la kalenda ya matukio kwa wachuuzi wote wa Jumamosi.\" Duet anajua kisanduku pokezi chako na wateja - uliza tu.",
+  "categorizationSubtitle": "Chiefy huweka lebo kiotomatiki kila barua pepe ili uone maswali mapya ya wanandoa kwanza, uthibitisho wa muuzaji pili, na kelele za jarida kamwe. Hakuna tena kukosa ombi la kuhifadhi lililozikwa chini ya arifa za Knot.",
+  "draftSubtitle": "Chiefy hujifunza vifurushi vyako, wachuuzi unaopendelea, na sauti. Wanandoa wanapokuuliza, huandaa jibu la joto, kamili na upatikanaji wako na hatua zinazofuata. Unakagua na kutuma.",
+  "agentSubtitle": "\"Ni barua pepe gani za muuzaji zilikuja kwa harusi ya Thompson?\" \"Rasimu ya sasisho la kalenda ya matukio kwa wachuuzi wote wa Jumamosi.\" Chiefy anajua kisanduku pokezi chako na wateja - uliza tu.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Mpangaji Harusi wa Boutique, CO",
-      "quote": "Niko kwenye kumbi za milimani na huduma ya seli sifuri nusu wiki yangu. Wakati huo huo wanandoa wananitumia barua pepe kuhusu kalenda za matukio na maswali ya wauzaji. Rasimu za Duet hujibu kwa kutumia vifurushi na sauti yangu kamili - Ninakagua ninaporudi katika safu.",
+      "quote": "Niko kwenye kumbi za milimani na huduma ya seli sifuri nusu wiki yangu. Wakati huo huo wanandoa wananitumia barua pepe kuhusu kalenda za matukio na maswali ya wauzaji. Rasimu za Chiefy hujibu kwa kutumia vifurushi na sauti yangu kamili - Ninakagua ninaporudi katika safu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Mpangaji wa Huduma Kamili ya Harusi, CA",
-      "quote": "Kuratibu wachuuzi 10+ kwa kila harusi kunamaanisha kuwa kikasha changu ni eneo la vita wakati wa msimu wa kilele. Duet huainisha barua pepe za wauzaji kando na barua pepe za mteja na rasimu za ufuatiliaji ambazo ningeandika mwenyewe. Kweli sasa nalala.",
+      "quote": "Kuratibu wachuuzi 10+ kwa kila harusi kunamaanisha kuwa kikasha changu ni eneo la vita wakati wa msimu wa kilele. Chiefy huainisha barua pepe za wauzaji kando na barua pepe za mteja na rasimu za ufuatiliaji ambazo ningeandika mwenyewe. Kweli sasa nalala.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Siku ya Mratibu, TX",
-      "quote": "Siku za harusi sipatikani kwa saa 14 mfululizo. Maswali mapya yalikuwa yamekaa bila kujibiwa hadi Jumatatu. Sasa Duet inazishughulikia papo hapo na nimehifadhi harusi 3 za ziada robo hii kutoka nyakati za majibu haraka pekee.",
+      "quote": "Siku za harusi sipatikani kwa saa 14 mfululizo. Maswali mapya yalikuwa yamekaa bila kujibiwa hadi Jumatatu. Sasa Chiefy inazishughulikia papo hapo na nimehifadhi harusi 3 za ziada robo hii kutoka nyakati za majibu haraka pekee.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Mpangaji Harusi Lengwa, HI",
-      "quote": "Wanandoa wangu husafiri kwa ndege kutoka kote ulimwenguni na kutuma barua pepe kwa saa zote. Duet ilijifunza majibu yangu ya Maswali Yanayoulizwa Mara kwa Mara - vifaa vya mahali, wachuuzi wa ndani, nini cha kutarajia - na rasimu za majibu ambayo yanafanana kabisa na mimi. Wateja hawana wazo.",
+      "quote": "Wanandoa wangu husafiri kwa ndege kutoka kote ulimwenguni na kutuma barua pepe kwa saa zote. Chiefy ilijifunza majibu yangu ya Maswali Yanayoulizwa Mara kwa Mara - vifaa vya mahali, wachuuzi wa ndani, nini cha kutarajia - na rasimu za majibu ambayo yanafanana kabisa na mimi. Wateja hawana wazo.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Mpangaji wa Harusi na Matukio, NY",
-      "quote": "Nilikuwa nikitumia saa 2 kila usiku kujibu kifurushi sawa na maswali ya upatikanaji. Duet hushughulikia mambo yanayojirudia ili niweze kuangazia kazi ya ubunifu ninayoipenda sana. Ililipa yenyewe katika wiki ya kwanza.",
+      "quote": "Nilikuwa nikitumia saa 2 kila usiku kujibu kifurushi sawa na maswali ya upatikanaji. Chiefy hushughulikia mambo yanayojirudia ili niweze kuangazia kazi ya ubunifu ninayoipenda sana. Ililipa yenyewe katika wiki ya kwanza.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Anzisha jaribio lako lisilolipishwa. Unganisha kikasha chako baada ya sekunde 30.",
   "verticalFaqs": [
     {
-      "question": "Je, Duet inafanya kazi na barua pepe zote za uratibu wa wauzaji?",
-      "answer": "Ndiyo. Duet hujifunza anwani zako za wauzaji, wachuuzi unaopendelea, na jinsi unavyowasiliana na kila mmoja. Inaainisha barua pepe za wauzaji kulingana na harusi na rasimu ya majibu yenye maelezo sahihi - uthibitisho, ufuatiliaji, masasisho ya kalenda ya matukio. Unakagua na kutuma. Inashughulikia wauza maua, wahudumu wa chakula, kumbi, ma-DJ, wapiga picha na kila mchuuzi mwingine katika rolodex yako."
+      "question": "Je, Chiefy inafanya kazi na barua pepe zote za uratibu wa wauzaji?",
+      "answer": "Ndiyo. Chiefy hujifunza anwani zako za wauzaji, wachuuzi unaopendelea, na jinsi unavyowasiliana na kila mmoja. Inaainisha barua pepe za wauzaji kulingana na harusi na rasimu ya majibu yenye maelezo sahihi - uthibitisho, ufuatiliaji, masasisho ya kalenda ya matukio. Unakagua na kutuma. Inashughulikia wauza maua, wahudumu wa chakula, kumbi, ma-DJ, wapiga picha na kila mchuuzi mwingine katika rolodex yako."
     },
     {
       "question": "Niko kwenye tovuti kwenye harusi na kumbi siku nzima. Je, nitakosa maswali mapya?",
-      "answer": "Hiyo ndivyo Duet inasuluhisha. Barua pepe kadhaa zinapouliza kuhusu upatikanaji au vifurushi wakati unaratibu kwenye tovuti, Duet huandaa jibu la joto na la kitaalamu pamoja na upatikanaji wako halisi na hatua zinazofuata. Unakagua na kutuma wakati wowote bila malipo - hata kutoka kwa simu yako kati ya matukio. Wapangaji wengi hutuambia kuwa inawaokoa saa 1-2 za muda wa barua pepe kwa siku wakati wa msimu wa kilele."
+      "answer": "Hiyo ndivyo Chiefy inasuluhisha. Barua pepe kadhaa zinapouliza kuhusu upatikanaji au vifurushi wakati unaratibu kwenye tovuti, Chiefy huandaa jibu la joto na la kitaalamu pamoja na upatikanaji wako halisi na hatua zinazofuata. Unakagua na kutuma wakati wowote bila malipo - hata kutoka kwa simu yako kati ya matukio. Wapangaji wengi hutuambia kuwa inawaokoa saa 1-2 za muda wa barua pepe kwa siku wakati wa msimu wa kilele."
     }
   ],
   "pricingNote": "Kwa $8,000/harusi, mteja mmoja aliyehifadhiwa hulipa kwa zaidi ya miaka 20 ya Pro."

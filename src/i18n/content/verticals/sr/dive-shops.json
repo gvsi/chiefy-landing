@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail za ronilačke prodavnice | AI Pomoćnik za e-poštu",
-  "metaDescription": "Duet Mail pomaže vlasnicima ronilačkih prodavnica i PADI instruktorima da odmah odgovore na upite o sertifikaciji, rezervacije putovanja i pitanja o opremi — čak i pod vodom.",
+  "pageTitle": "Chiefy za ronilačke prodavnice | AI Pomoćnik za e-poštu",
+  "metaDescription": "Chiefy pomaže vlasnicima ronilačkih prodavnica i PADI instruktorima da odmah odgovore na upite o sertifikaciji, rezervacije putovanja i pitanja o opremi — čak i pod vodom.",
   "heroBadge": "Ima poverenja od 300+ ronilačkih operatera",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste pod vodom",
-  "heroSubline": "Duet uči vaše lokacije za ronjenje, zahteve za sertifikaciju, cene i glas — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju dok ste na brodu.",
+  "heroSubline": "Chiefy uči vaše lokacije za ronjenje, zahteve za sertifikaciju, cene i glas — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju dok ste na brodu.",
   "inboxEmails": [
     {
       "from": "Rejčel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "roniti",
     "lostPerMonth": "3 putovanja (po 6 ronilaca)",
     "monthlyLoss": "$2,700",
-    "punchline": "Jedno ušteđeno grupno ronjenje plaća se za godinu od Duet."
+    "punchline": "Jedno ušteđeno grupno ronjenje plaća se za godinu od Chiefy."
   },
-  "categorizationSubtitle": "Duet automatski označava svaku e-poruku tako da prvo vidite upite za sertifikaciju i rezervacije ronjenja, zatim pitanja o opremi i PADI upozorenja kada budete spremni. Nema više propuštanja grupne rezervacije zakopane u biltenima o opremi.",
-  "draftSubtitle": "Duet saznaje vaše lokacije za ronjenje, zahteve sertifikata i cene. Kada stigne upit za rezervaciju, sastavlja kompletan odgovor sa detaljima o putovanju, šta je uključeno i šta treba poneti. Pregledate i pošaljete.",
-  "agentSubtitle": "\"Koliko je ronilaca rezervisano za subotu?\" „Nacrt odgovora Rejčel sa dostupnošću Open Vater.“ Duet zna vaše prijemno sanduče i raspored — samo pitajte.",
+  "categorizationSubtitle": "Chiefy automatski označava svaku e-poruku tako da prvo vidite upite za sertifikaciju i rezervacije ronjenja, zatim pitanja o opremi i PADI upozorenja kada budete spremni. Nema više propuštanja grupne rezervacije zakopane u biltenima o opremi.",
+  "draftSubtitle": "Chiefy saznaje vaše lokacije za ronjenje, zahteve sertifikata i cene. Kada stigne upit za rezervaciju, sastavlja kompletan odgovor sa detaljima o putovanju, šta je uključeno i šta treba poneti. Pregledate i pošaljete.",
+  "agentSubtitle": "\"Koliko je ronilaca rezervisano za subotu?\" „Nacrt odgovora Rejčel sa dostupnošću Open Vater.“ Chiefy zna vaše prijemno sanduče i raspored — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rejčel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapetan Majk T.",
       "title": "Kapetan ronilačkog čamca, FL",
-      "quote": "Vodim izlete brodom od petka do nedelje, a prodavnica je otvorena samo nekoliko sati u ponedeljak. Pitanja o sertifikaciji i upiti o putovanjima se gomilaju dok sam pod vodom. Duet nacrte odgovora sa mojim cenama, lokacijama za ronjenje i onim što je uključeno — pregledam ih između ronjenja.",
+      "quote": "Vodim izlete brodom od petka do nedelje, a prodavnica je otvorena samo nekoliko sati u ponedeljak. Pitanja o sertifikaciji i upiti o putovanjima se gomilaju dok sam pod vodom. Chiefy nacrte odgovora sa mojim cenama, lokacijama za ronjenje i onim što je uključeno — pregledam ih između ronjenja.",
       "avatarKey": "michael"
     },
     {
       "name": "Džen i Mark S.",
       "title": "PADI Dive Center, HI",
-      "quote": "Vodimo ronjenje, ture s disaljkom i posmatramo kitove sa istih brodova. Raznovrsnost e-pošte je suluda — pitanja o sertifikatima, grupne rezervacije, iznajmljivanje opreme, provere vremena. Duet sve to sortira i sastavlja odgovore koji znaju razliku. Apsolutni spasitelj.",
+      "quote": "Vodimo ronjenje, ture s disaljkom i posmatramo kitove sa istih brodova. Raznovrsnost e-pošte je suluda — pitanja o sertifikatima, grupne rezervacije, iznajmljivanje opreme, provere vremena. Chiefy sve to sortira i sastavlja odgovore koji znaju razliku. Apsolutni spasitelj.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Džejk R.",
       "title": "Čarters za ronjenje na olupini, FL",
-      "quote": "Polovina mojih e-poruka je 'koji sertifikat mi je potreban za ronjenje na olupinu?' a druga polovina je 'da li mi treba sopstvena oprema?' Duet upravlja oba na autopilotu. Moje vreme odgovora je išlo od sati do minuta.",
+      "quote": "Polovina mojih e-poruka je 'koji sertifikat mi je potreban za ronjenje na olupinu?' a druga polovina je 'da li mi treba sopstvena oprema?' Chiefy upravlja oba na autopilotu. Moje vreme odgovora je išlo od sati do minuta.",
       "avatarKey": "Johnni"
     },
     {
       "name": "Frančeska D.",
       "title": "Vlasnik ronilačke prodavnice, Kalifornija",
-      "quote": "Tokom leta dobijamo 30+ e-poruka dnevno o kursevima, dostupnosti putovanja i opremi. Gubio sam rezervacije u prodavnicama koje su brže odgovarale. Sada Duet sve ispisuje i ja samo pritisnem pošalji između časova.",
+      "quote": "Tokom leta dobijamo 30+ e-poruka dnevno o kursevima, dostupnosti putovanja i opremi. Gubio sam rezervacije u prodavnicama koje su brže odgovarale. Sada Chiefy sve ispisuje i ja samo pritisnem pošalji između časova.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sara K.",
       "title": "Instruktor i vodič ronjenja, NC",
-      "quote": "Predajem kurseve ujutru i vodim ronjenje popodne. Bukvalno nema vremena za odgovaranje na e-poštu. Duet je saznao moj raspored kurseva, cene, čak i moju politiku otkazivanja. Klijenti ne mogu razlikovati.",
+      "quote": "Predajem kurseve ujutru i vodim ronjenje popodne. Bukvalno nema vremena za odgovaranje na e-poštu. Chiefy je saznao moj raspored kurseva, cene, čak i moju politiku otkazivanja. Klijenti ne mogu razlikovati.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Da li Duet razume nivoe sertifikacije i zahteve kursa?",
-      "answer": "Da. Duet uči vaše specifične kurseve — Open Vater, Advanced, Rescue, Divemaster — zajedno sa preduslovima, trajanjem, cenama i šta je uključeno. Kada neko pita za dobijanje sertifikata, Duet sastavlja nacrt odgovora sa pravim detaljima kursa, rasporedom i sledećim koracima. Pregledate i pošaljete."
+      "question": "Da li Chiefy razume nivoe sertifikacije i zahteve kursa?",
+      "answer": "Da. Chiefy uči vaše specifične kurseve — Open Vater, Advanced, Rescue, Divemaster — zajedno sa preduslovima, trajanjem, cenama i šta je uključeno. Kada neko pita za dobijanje sertifikata, Chiefy sastavlja nacrt odgovora sa pravim detaljima kursa, rasporedom i sledećim koracima. Pregledate i pošaljete."
     },
     {
-      "question": "Ceo dan sam na brodu ili pod vodom. Mogu li da koristim Duet sa svog telefona?",
-      "answer": "Da. Duet radi sa Gmail i Outlook, tako da radi svuda gde radi vaša e-pošta — uključujući vaš telefon. Nacrti se automatski pojavljuju u prijemnom sandučetu. Između zarona ili nazad na doku, pregledavate i šaljete jednim dodirom. Većina ronilačkih operatera nam kaže da im štedi 1-2 sata e-pošte dnevno tokom špice sezone."
+      "question": "Ceo dan sam na brodu ili pod vodom. Mogu li da koristim Chiefy sa svog telefona?",
+      "answer": "Da. Chiefy radi sa Gmail i Outlook, tako da radi svuda gde radi vaša e-pošta — uključujući vaš telefon. Nacrti se automatski pojavljuju u prijemnom sandučetu. Između zarona ili nazad na doku, pregledavate i šaljete jednim dodirom. Većina ronilačkih operatera nam kaže da im štedi 1-2 sata e-pošte dnevno tokom špice sezone."
     }
   ],
   "pricingNote": "Za 150 USD po ronjenju sa grupom od 6, jedno ušteđeno putovanje plaća više od godinu dana od Pro."

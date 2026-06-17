@@ -2,7 +2,7 @@
 title: "Kako napisati profesionalnu e-poštu: pišite jasno, uštedite vrijeme i poboljšajte svoju karijeru"
 description: "Naučite kako pisati profesionalne e-poruke koje grade povjerenje i štede vrijeme. Savladajte temu, ton, strukturu i bonton. Poboljšajte komunikaciju u karijeri"
 publishedAt: 2025-05-27
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Produktivnost", "Pisanje e-pošte"]
 draft: false
 ---
@@ -184,9 +184,9 @@ Ključne prednosti uključuju:
 
 - **Ušteda vremena i smanjenje stresa**: Rukovodeći se zadacima koji se ponavljaju kao što su razvrstavanje, filtriranje, pa čak i pisanje odgovora, AI asistenti mogu uštedjeti sate profesionalcima svaki tjedan i značajno smanjiti stres vezan uz pristiglu poštu.
 
-Osjećate se ukopano? Ovdje značajke AI trijaže, poput onih u alatima kao što je [**Duet Mail**](https://duetmail.com/hr), mogu promijeniti igru. Oni automatski razvrstavaju dolaznu poštu, koristeći AI za prepoznavanje hitnih stavki za koje je potrebna radnja ili odluka i prikazuju ih na [**fokusiranoj nadzornoj ploči**](https://peerlist.io/giovanni/project/duet-mail), probijajući se kroz nered tako da odmah vidite ono što je najvažnije.
+Osjećate se ukopano? Ovdje značajke AI trijaže, poput onih u alatima kao što je [**Chiefy**](https://chiefy.com/hr), mogu promijeniti igru. Oni automatski razvrstavaju dolaznu poštu, koristeći AI za prepoznavanje hitnih stavki za koje je potrebna radnja ili odluka i prikazuju ih na [**fokusiranoj nadzornoj ploči**](https://peerlist.io/giovanni/project/duet-mail), probijajući se kroz nered tako da odmah vidite ono što je najvažnije.
 
-Mučite se brzo odgovoriti, a da pritom ostanete profesionalni i autentični? Napredni AI asistenti mogu pomoći. Na primjer, [**Duet Mail**](https://duetmail.com/hr) koristi [**Authentic AI Drafting**](https://peerlist.io/giovanni/project/duet-mail) koji zapravo uči vaš jedinstveni stil pisanja i vokabular iz vaših prošlih e-poruka.64 Predlaže skice koje zvuče poput vas, štedeći sate, a zadržavajući onaj ključni osobni pečat u vašoj profesionalnoj komunikaciji. Ovo "glasovno učenje" osigurava da će vaši odgovori potpomognuti umjetnom inteligencijom i dalje biti autentični.
+Mučite se brzo odgovoriti, a da pritom ostanete profesionalni i autentični? Napredni AI asistenti mogu pomoći. Na primjer, [**Chiefy**](https://chiefy.com/hr) koristi [**Authentic AI Drafting**](https://peerlist.io/giovanni/project/duet-mail) koji zapravo uči vaš jedinstveni stil pisanja i vokabular iz vaših prošlih e-poruka.64 Predlaže skice koje zvuče poput vas, štedeći sate, a zadržavajući onaj ključni osobni pečat u vašoj profesionalnoj komunikaciji. Ovo "glasovno učenje" osigurava da će vaši odgovori potpomognuti umjetnom inteligencijom i dalje biti autentični.
 
 Evolucija ovih alata je fascinantna. Prešli smo s osnovnih alata za provjeru gramatike na sofisticirane pomoćnike koji se bave holističkim izazovom e-pošte – ne samo ispravnošću, već i upravljanjem kognitivnim opterećenjem preopterećenosti (trijaža, sažimanje) i održavanjem osobne veze na razini (glasovno učenje). To odražava koliko je profesionalna komunikacija postala složena i potrebu za alatima koji nas sveobuhvatno podržavaju.
 
@@ -196,6 +196,6 @@ Mastering professional email isn't about rigid rules; it's about clear, respectf
 
 Upamtite, postajanje izvrsnim komunikatorom e-pošte stalan je proces usavršavanja. Počnite dosljedno primjenjivati ​​ove savjete i primijetit ćete razliku u odgovorima koje primate i vremenu koje ćete uštedjeti.
 
-Jeste li spremni preuzeti kontrolu nad pristiglom poštom i komunicirati kao profesionalac? Počnite provoditi ove strategije danas. A ako želite uštedjeti sate i smanjiti stres s e-poštom, istražite kako pomoćnici umjetne inteligencije kao što je [**Duet Mail**](https://duetmail.com/hr) mogu transformirati vaš tijek rada inteligentnom trijažom i autentičnim crtanjem.
+Jeste li spremni preuzeti kontrolu nad pristiglom poštom i komunicirati kao profesionalac? Počnite provoditi ove strategije danas. A ako želite uštedjeti sate i smanjiti stres s e-poštom, istražite kako pomoćnici umjetne inteligencije kao što je [**Chiefy**](https://chiefy.com/hr) mogu transformirati vaš tijek rada inteligentnom trijažom i autentičnim crtanjem.
 
 Je li vam ovo pomoglo? Podijelite to s kolegama kojima bi moglo koristiti!

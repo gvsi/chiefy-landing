@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI Email Assistant pro Gmail a Outlook",
-    "description": "E-mailový asistent AI Duet Mail shrnuje e-maily, připravuje odpovědi a organizuje vaši doručenou poštu. Funguje s Gmail a Outlook. Ušetřete 4+ hodiny týdně."
+    "title": "Chiefy | AI Email Assistant pro Gmail a Outlook",
+    "description": "E-mailový asistent AI Chiefy shrnuje e-maily, připravuje odpovědi a organizuje vaši doručenou poštu. Funguje s Gmail a Outlook. Ušetřete 4+ hodiny týdně."
   },
   "hero": {
     "badge": "Nyní k dispozici pro Gmail a Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "E-mailové koncepty, které zní jako Vy",
-        "description": "Zapisovatel e-mailů Duet AI připravuje koncepty pro vaše nejdůležitější e-maily. Učí se váš tón a styly psaní.",
+        "description": "Zapisovatel e-mailů Chiefy AI připravuje koncepty pro vaše nejdůležitější e-maily. Učí se váš tón a styly psaní.",
         "ariaLabel": "E-mailové koncepty, které zní jako vy",
         "mockCopy": {
           "draftedColdEmail": "Napsal jsem chladný e-mail přizpůsobený Johnovi",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Inteligentní připomenutí",
-        "description": "Nastavte to a zapomeňte na to. Duet AI si pamatuje, že má reagovat, když ostatní nereagují, takže nic nepropadne.",
+        "description": "Nastavte to a zapomeňte na to. Chiefy AI si pamatuje, že má reagovat, když ostatní nereagují, takže nic nepropadne.",
         "ariaLabel": "Inteligentní připomenutí",
         "mockCopy": {
           "header": "Inteligentní připomenutí poháněná umělou inteligencí",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Organizace e-mailů a inteligentní kategorizace doručené pošty",
     "badge": "Organizace",
-    "title": "Duet organizuje vaši doručenou poštu",
+    "title": "Chiefy organizuje vaši doručenou poštu",
     "subtitle": "Automatická kategorizace filtruje hluk a odkrývá to, na čem záleží. Okamžitě uvidíte, co potřebuje akci, co je jen pro FYI a co může počkat.",
     "windowTitle": "Doručená pošta",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "Vytváření e-mailů pomocí AI a generování odpovědí",
     "badge": "Kreslení",
-    "title": "Duet koncepty ve vašem hlase",
-    "subtitle": "Duet se naučí, jak píšete, a navrhne odpovědi, které odpovídají vašemu tónu. Zkontrolujte, v případě potřeby upravte a odešlete během několika sekund.",
+    "title": "Chiefy koncepty ve vašem hlase",
+    "subtitle": "Chiefy se naučí, jak píšete, a navrhne odpovědi, které odpovídají vašemu tónu. Zkontrolujte, v případě potřeby upravte a odešlete během několika sekund.",
     "windowTitle": "Nová zpráva",
     "fieldLabels": {
       "to": "Na:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI e-mailová inteligence a asistent",
     "badge": "Inteligence",
     "title": "Zeptejte se na cokoliv ohledně vašeho e-mailu",
-    "subtitle": "Požádejte Duet o vyhledání e-mailů, kontrolu kalendáře nebo návrh odpovědi. Rozumí vaší schránce a okamžitě odpovídá.",
-    "windowTitle": "Duet Agent",
+    "subtitle": "Požádejte Chiefy o vyhledání e-mailů, kontrolu kalendáře nebo návrh odpovědi. Rozumí vaší schránce a okamžitě odpovídá.",
+    "windowTitle": "Chiefy Agent",
     "onlineLabel": "Online",
     "initialUserMessage": "Můžete najít fakturu Stripe zaslanou Účetnictvím?",
     "processingText": "Vyhledávání doručené pošty...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Na volné noze",
-        "quote": "Stojí za každý cent. Čas, který ušetřím na e-mailu, zaplatí za Duet Mail 10x více. Bez toho si teď neumím představit práci.",
+        "quote": "Stojí za každý cent. Čas, který ušetřím na e-mailu, zaplatí za Chiefy 10x více. Bez toho si teď neumím představit práci.",
         "logoName": "Vzduchovatelný",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Poradce",
-        "quote": "Jako konzultant se počítá každá minuta. Duet Mail mi nejen šetří čas, ale zpřesňuje mou e-mailovou komunikaci.",
+        "quote": "Jako konzultant se počítá každá minuta. Chiefy mi nejen šetří čas, ale zpřesňuje mou e-mailovou komunikaci.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Základní organizace na začátek"
           },
           {
-            "title": "Asistent Duet",
+            "title": "Asistent Chiefy",
             "description": "Vyzkoušejte asistenta AI"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Asistent Duet",
+            "title": "Asistent Chiefy",
             "description": "Chatujte, abyste našli, navrhli, uspořádali atd",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "KONTAKT",
     "contactHeading": "Máte ještě otázky?",
     "contactCta": "Kontaktujte nás →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Jak Duet Mail chrání moje e-mailová data?",
+        "question": "Jak Chiefy chrání moje e-mailová data?",
         "answer": "Vaše bezpečnost je naší nejvyšší prioritou. Pro bezpečnou autentizaci používáme OAuth 2.0 s Google i Microsoft. Obsah e-mailu je v klidu šifrován pomocí šifrování na úrovni pole na straně klienta a dodržujeme zásadu nejmenšího oprávnění pro přístup k API. Pro naši integraci Google podstupujeme každoroční bezpečnostní hodnocení CASA Google."
       },
       {
         "question": "Jak funguje funkce shrnutí e-mailů?",
-        "answer": "Duet Mail používá pokročilou umělou inteligenci k analýze vašich e-mailových vláken a vytvoření stručného přehledu zdůrazňujícího klíčové body, rozhodnutí a činnosti. To vám pomůže rychle pochopit kontext, aniž byste museli číst celé vlákno."
+        "answer": "Chiefy používá pokročilou umělou inteligenci k analýze vašich e-mailových vláken a vytvoření stručného přehledu zdůrazňujícího klíčové body, rozhodnutí a činnosti. To vám pomůže rychle pochopit kontext, aniž byste museli číst celé vlákno."
       },
       {
-        "question": "Jaká oprávnění potřebuje Duet Mail?",
-        "answer": "Duet Mail vyžaduje přístup k vašim e-mailům, aby mohl poskytovat souhrny, extrahovat úkoly, generovat obsah a odesílat vaše e-maily. Požadujeme pouze povolení, která nezbytně potřebujeme. Tato oprávnění můžete kdykoli zkontrolovat a zrušit v nastavení účtu Google nebo Microsoft."
+        "question": "Jaká oprávnění potřebuje Chiefy?",
+        "answer": "Chiefy vyžaduje přístup k vašim e-mailům, aby mohl poskytovat souhrny, extrahovat úkoly, generovat obsah a odesílat vaše e-maily. Požadujeme pouze povolení, která nezbytně potřebujeme. Tato oprávnění můžete kdykoli zkontrolovat a zrušit v nastavení účtu Google nebo Microsoft."
       },
       {
         "question": "Co je součástí bezplatné zkušební verze?",
         "answer": "14denní bezplatná zkušební verze zahrnuje plný přístup ke všem funkcím Pro: neomezené e-mailové souhrny, extrakci akčních položek, AI psaní e-mailů (generování e-mailů a konceptů bez jakýchkoli omezení) a vlastní e-mailové šablony. Přihlaste se pomocí Google nebo Microsoft a začněte šetřit čas na správu e-mailů."
       },
       {
-        "question": "Mohu používat Duet Mail s jinými poskytovateli e-mailu?",
-        "answer": "Duet Mail podporuje Gmail, Google Workspace a Microsoft Outlook. Chcete-li začít, přihlaste se pomocí svého účtu Google nebo Microsoft."
+        "question": "Mohu používat Chiefy s jinými poskytovateli e-mailu?",
+        "answer": "Chiefy podporuje Gmail, Google Workspace a Microsoft Outlook. Chcete-li začít, přihlaste se pomocí svého účtu Google nebo Microsoft."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Zápatí webu",
-    "brandIconAlt": "Ikona Duet Mail",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — AI Email Assistant, který vám ušetří hodiny každý týden",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Ikona Chiefy",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Prozkoumat",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "Návratnost investice",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "Při {pricePerBooking} za {bookingUnit}, ztráta pouze {lostPerMonth} kvůli pomalým odpovědím =",
     "lossSuffix": "/měs. pryč",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet – AI Email Assistant pro Gmail a Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy – AI Email Assistant pro Gmail a Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "Zákaznická podpora",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI e-mailový asistent pro Gmail a Outlook, který automaticky shrnuje e-maily, navrhuje odpovědi vaším hlasem a organizuje vaši doručenou poštu tak, aby každý týden ušetřil hodiny.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Web",
     "browserRequirements": "Vyžaduje JavaScript. Funguje s Gmail, Google Workspace a Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/cs",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Jak Duet Mail chrání moje e-mailová data?",
+        "question": "Jak Chiefy chrání moje e-mailová data?",
         "answer": "Vaše bezpečnost je naší nejvyšší prioritou. Pro bezpečnou autentizaci používáme OAuth 2.0 s Google i Microsoft. Obsah e-mailu je v klidu šifrován pomocí šifrování na úrovni pole na straně klienta a dodržujeme zásadu nejmenšího oprávnění pro přístup k API. Pro naši integraci Google podstupujeme každoroční bezpečnostní hodnocení CASA Google."
       },
       {
         "question": "Jak funguje funkce shrnutí e-mailů?",
-        "answer": "Duet Mail používá pokročilou umělou inteligenci k analýze vašich e-mailových vláken a vytvoření stručného přehledu zdůrazňujícího klíčové body, rozhodnutí a činnosti. To vám pomůže rychle pochopit kontext, aniž byste museli číst celé vlákno."
+        "answer": "Chiefy používá pokročilou umělou inteligenci k analýze vašich e-mailových vláken a vytvoření stručného přehledu zdůrazňujícího klíčové body, rozhodnutí a činnosti. To vám pomůže rychle pochopit kontext, aniž byste museli číst celé vlákno."
       },
       {
-        "question": "Jaká oprávnění potřebuje Duet Mail?",
-        "answer": "Duet Mail vyžaduje přístup k vašim e-mailům, aby mohl poskytovat souhrny, extrahovat úkoly, generovat obsah a odesílat vaše e-maily. Požadujeme pouze povolení, která nezbytně potřebujeme. Tato oprávnění můžete kdykoli zkontrolovat a zrušit v nastavení účtu Google nebo Microsoft."
+        "question": "Jaká oprávnění potřebuje Chiefy?",
+        "answer": "Chiefy vyžaduje přístup k vašim e-mailům, aby mohl poskytovat souhrny, extrahovat úkoly, generovat obsah a odesílat vaše e-maily. Požadujeme pouze povolení, která nezbytně potřebujeme. Tato oprávnění můžete kdykoli zkontrolovat a zrušit v nastavení účtu Google nebo Microsoft."
       },
       {
         "question": "Co je součástí bezplatné zkušební verze?",
         "answer": "14denní bezplatná zkušební verze zahrnuje plný přístup ke všem funkcím Pro: neomezené e-mailové souhrny, extrakci akčních položek, AI psaní e-mailů (generování e-mailů a konceptů bez jakýchkoli omezení) a vlastní e-mailové šablony. Přihlaste se pomocí Google nebo Microsoft a začněte šetřit čas na správu e-mailů."
       },
       {
-        "question": "Mohu používat Duet Mail s jinými poskytovateli e-mailu?",
-        "answer": "Duet Mail podporuje Gmail, Google Workspace a Microsoft Outlook. Chcete-li začít, přihlaste se pomocí svého účtu Google nebo Microsoft."
+        "question": "Mohu používat Chiefy s jinými poskytovateli e-mailu?",
+        "answer": "Chiefy podporuje Gmail, Google Workspace a Microsoft Outlook. Chcete-li začít, přihlaste se pomocí svého účtu Google nebo Microsoft."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

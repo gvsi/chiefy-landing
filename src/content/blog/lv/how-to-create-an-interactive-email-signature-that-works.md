@@ -2,7 +2,7 @@
 title: "Kā izveidot interaktīvu e-pasta parakstu, kas darbojas"
 description: "Uzziniet, kā izveidot interaktīvu e-pasta parakstu, lai veicinātu iesaisti, zīmola veidošanu un potenciālo klientu piesaisti. Soli pa solim sniegta rokasgrāmata ārštata darbiniekiem un jaunuzņēmumiem."
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["Mākslīgais intelekts", "E-pasts"]
 draft: false
 ---
@@ -126,7 +126,7 @@ Interaktīvs paraksts ir paredzēts, lai rosinātu darbību – klikšķi, zvanu
 
 Šeit jūsu paraksta stratēģijas integrēšana ar viediem e-pasta pārvaldības rīkiem var radīt atšķirību. Kad potenciālie klienti sāk noklikšķināt uz saites “Pieteikties tikšanās”, ko ģenerē jūsu lieliskais paraksts, jums ir nepieciešama sistēma, kas netraucēti apstrādā turpmāko plānošanu un komunikāciju. Līdzīgi, profesionālā toņa saglabāšana, ko nosaka jūsu paraksts katrā turpmākajā e-pastā, ir attiecību veidošanas atslēga.
 
-E-pasta produktivitātei paredzētie rīki, piemēram, [Duet Mail](https://duetmail.com/lv/lv), var palīdzēt pārvarēt šo plaisu. Iedomājieties, ka jums ir mākslīgā intelekta palīdzība, lai sagatavotu ātras, personalizētas atbildes, kas saglabā jūsu unikālo balsi pēc tam, kad kāds ir mijiedarbojies ar jūsu paraksta aicinājumu uz darbību. Duet Mail funkcijas, piemēram, **AI Triage**, var palīdzēt izcelt svarīgas atbildes, kas ģenerētas no mijiedarbības ar parakstu, savukārt **Authentic AI Drafting** nodrošina, ka jūsu turpmākās ziņas izklausās tieši tāpat kā jūs, saglabājot profesionalitāti, ko rada jūsu paraksts. Tas pārvērš jūsu paraksta izraisīto iesaisti labi pārvaldītās, produktīvās sarunās.
+E-pasta produktivitātei paredzētie rīki, piemēram, [Chiefy](https://chiefy.com/lv/lv), var palīdzēt pārvarēt šo plaisu. Iedomājieties, ka jums ir mākslīgā intelekta palīdzība, lai sagatavotu ātras, personalizētas atbildes, kas saglabā jūsu unikālo balsi pēc tam, kad kāds ir mijiedarbojies ar jūsu paraksta aicinājumu uz darbību. Chiefy funkcijas, piemēram, **AI Triage**, var palīdzēt izcelt svarīgas atbildes, kas ģenerētas no mijiedarbības ar parakstu, savukārt **Authentic AI Drafting** nodrošina, ka jūsu turpmākās ziņas izklausās tieši tāpat kā jūs, saglabājot profesionalitāti, ko rada jūsu paraksts. Tas pārvērš jūsu paraksta izraisīto iesaisti labi pārvaldītās, produktīvās sarunās.
 
 ## Vai esat gatavs aktivizēt savu parakstu?
 

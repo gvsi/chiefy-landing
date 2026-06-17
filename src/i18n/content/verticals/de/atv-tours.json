@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail für ATV- und UTV-Touren | KI-E-Mail-Assistent",
-  "metaDescription": "Duet Mail hilft ATV- und UTV-Tourguides, sofort auf Buchungs-E-Mails zu reagieren – sogar vom Trail aus. Von KI erstellte Antworten mit Ihren Preisen, Anforderungen und Ihrer Stimme.",
+  "pageTitle": "Chiefy für ATV- und UTV-Touren | KI-E-Mail-Assistent",
+  "metaDescription": "Chiefy hilft ATV- und UTV-Tourguides, sofort auf Buchungs-E-Mails zu reagieren – sogar vom Trail aus. Von KI erstellte Antworten mit Ihren Preisen, Anforderungen und Ihrer Stimme.",
   "heroBadge": "Mehr als 200 Reiseleiter vertrauen darauf",
   "heroHeadline": "Ihr E-Mail-Assistent, während Sie unterwegs sind",
-  "heroSubline": "Duet lernt Ihre Tourtypen, Preise und Fahreranforderungen kennen und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung aufgrund einer langsamen Antwort verlieren.",
+  "heroSubline": "Chiefy lernt Ihre Tourtypen, Preise und Fahreranforderungen kennen und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung aufgrund einer langsamen Antwort verlieren.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "Gruppe (4 Maschinen)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Eine gespeicherte Gruppenbuchung zahlt für ein Jahr Duet."
+    "punchline": "Eine gespeicherte Gruppenbuchung zahlt für ein Jahr Chiefy."
   },
-  "categorizationSubtitle": "Duet markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Versicherungsfragen und nie Lärm sehen. Keine Gruppenanfrage mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen ist.",
-  "draftSubtitle": "Duet lernt Ihre Tourrouten, Preise und Fahreranforderungen. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit Reisedetails, Preisen und dem mitzubringenden Inhalt erstellt. Sie überprüfen und senden.",
-  "agentSubtitle": "„Haben Gruppen für dieses Wochenende gebucht?“ „Entwerfen Sie eine Antwort an Rachel mit Verfügbarkeit am Samstag.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "categorizationSubtitle": "Chiefy markiert automatisch jede E-Mail, sodass Sie zuerst Buchungsanfragen, dann Versicherungsfragen und nie Lärm sehen. Keine Gruppenanfrage mehr verpassen, die unter TripAdvisor-Benachrichtigungen verborgen ist.",
+  "draftSubtitle": "Chiefy lernt Ihre Tourrouten, Preise und Fahreranforderungen. Wenn eine Buchungsanfrage eingeht, wird eine vollständige Antwort mit Reisedetails, Preisen und dem mitzubringenden Inhalt erstellt. Sie überprüfen und senden.",
+  "agentSubtitle": "„Haben Gruppen für dieses Wochenende gebucht?“ „Entwerfen Sie eine Antwort an Rachel mit Verfügbarkeit am Samstag.” Chiefy kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "ATV-Guide, Süd-Utah",
-      "quote": "Ich leite 8-stündige Touren durch die Canyons ohne Mobilfunkempfang. Als ich zurückkam, war die Hälfte meiner Buchungs-E-Mails gelöscht. Duet entwirft Antworten mit meinen Preis- und Wanderweginformationen – ich überprüfe sie einfach am Ende des Tages.",
+      "quote": "Ich leite 8-stündige Touren durch die Canyons ohne Mobilfunkempfang. Als ich zurückkam, war die Hälfte meiner Buchungs-E-Mails gelöscht. Chiefy entwirft Antworten mit meinen Preis- und Wanderweginformationen – ich überprüfe sie einfach am Ende des Tages.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV-Reiseveranstalter, Colorado",
-      "quote": "Wir führen 7 Tage die Woche Touren durch und allein die Versicherungs- und Verzichtsfragen verschlangen meinen Morgen. Duet kümmert sich um alles – Anforderungen des Fahrers, Altersbeschränkungen, was mitzubringen ist. Klingt genau nach mir.",
+      "quote": "Wir führen 7 Tage die Woche Touren durch und allein die Versicherungs- und Verzichtsfragen verschlangen meinen Morgen. Chiefy kümmert sich um alles – Anforderungen des Fahrers, Altersbeschränkungen, was mitzubringen ist. Klingt genau nach mir.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Jeep-Reiseführer, Moab",
-      "quote": "Die Leute fragen per E-Mail, welcher Weg der richtige für ihre Gruppe ist, welches Erfahrungsniveau sie benötigen und ob Kinder fahren können. Immer wieder die gleichen 5 Fragen. Duet bringt jeden einzelnen von ihnen auf den Punkt.",
+      "quote": "Die Leute fragen per E-Mail, welcher Weg der richtige für ihre Gruppe ist, welches Erfahrungsniveau sie benötigen und ob Kinder fahren können. Immer wieder die gleichen 5 Fragen. Chiefy bringt jeden einzelnen von ihnen auf den Punkt.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road-Abenteuer, AZ",
-      "quote": "Ich verbrachte jeden Abend über eine Stunde damit, die gleichen Fragen zur Verfügbarkeit zu beantworten. Jetzt entwirft Duet Antworten, während ich unterwegs bin. Meine Reaktionszeit ging von Stunden auf Minuten.",
+      "quote": "Ich verbrachte jeden Abend über eine Stunde damit, die gleichen Fragen zur Verfügbarkeit zu beantworten. Jetzt entwirft Chiefy Antworten, während ich unterwegs bin. Meine Reaktionszeit ging von Stunden auf Minuten.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Familien-ATV-Touren, Sedona",
-      "quote": "Viele Familien fragen uns nach Anfängerstrecken und Altersvoraussetzungen. Duet hat alle unsere Touroptionen kennengelernt und empfiehlt in jeder Antwort die richtige. Kunden können den Unterschied nicht erkennen.",
+      "quote": "Viele Familien fragen uns nach Anfängerstrecken und Altersvoraussetzungen. Chiefy hat alle unsere Touroptionen kennengelernt und empfiehlt in jeder Antwort die richtige. Kunden können den Unterschied nicht erkennen.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
   "verticalFaqs": [
     {
-      "question": "Behandelt Duet Versicherungs- und Verzichtsfragen?",
-      "answer": "Ja. Duet lernt die Anforderungen Ihres Fahrers kennen – Haftpflichtversicherung, Altersbeschränkungen, Details zur Verzichtserklärung, was der Fahrer mitbringen muss. Wenn jemand vor seiner Tour per E-Mail fragt, was er braucht, erstellt Duet eine vollständige Antwort mit allen Einzelheiten. Sie prüfen den Inhalt und tippen auf „Senden“."
+      "question": "Behandelt Chiefy Versicherungs- und Verzichtsfragen?",
+      "answer": "Ja. Chiefy lernt die Anforderungen Ihres Fahrers kennen – Haftpflichtversicherung, Altersbeschränkungen, Details zur Verzichtserklärung, was der Fahrer mitbringen muss. Wenn jemand vor seiner Tour per E-Mail fragt, was er braucht, erstellt Chiefy eine vollständige Antwort mit allen Einzelheiten. Sie prüfen den Inhalt und tippen auf „Senden“."
     },
     {
-      "question": "Ich bin den ganzen Tag ohne Mobilfunkempfang unterwegs. Wie hilft Duet?",
-      "answer": "Genau deshalb lieben Guides Duet. Während Sie eine 6-8-stündige Tour ohne Empfang leiten, häufen sich Buchungsanfragen. Duet entwirft Antworten auf jede dieser Fragen – Preise, Verfügbarkeit, Treffpunkt, was man anziehen soll. Wenn Sie zurückkommen, prüfen Sie die Entwürfe und senden sie ab. Die meisten Reiseleiter sagen uns, dass sie dadurch in der Hochsaison 1-2 Stunden E-Mail-Zeit pro Tag sparen."
+      "question": "Ich bin den ganzen Tag ohne Mobilfunkempfang unterwegs. Wie hilft Chiefy?",
+      "answer": "Genau deshalb lieben Guides Chiefy. Während Sie eine 6-8-stündige Tour ohne Empfang leiten, häufen sich Buchungsanfragen. Chiefy entwirft Antworten auf jede dieser Fragen – Preise, Verfügbarkeit, Treffpunkt, was man anziehen soll. Wenn Sie zurückkommen, prüfen Sie die Entwürfe und senden sie ab. Die meisten Reiseleiter sagen uns, dass sie dadurch in der Hochsaison 1-2 Stunden E-Mail-Zeit pro Tag sparen."
     }
   ],
   "pricingNote": "Bei 200 $/Maschine zahlt eine gesparte Gruppe von 4 Personen über ein Jahr lang Pro."

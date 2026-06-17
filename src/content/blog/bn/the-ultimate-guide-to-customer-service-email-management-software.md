@@ -2,7 +2,7 @@
 title: "Customer service email management software-এর পূর্ণাঙ্গ গাইড"
 description: "Support email-এর চাপে ডুবে থাকা বন্ধ করুন। customer service email management software ও AI টুল কীভাবে workflow সরল করে ও সন্তুষ্টি বাড়ায়।"
 publishedAt: 2025-05-17
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "ইনবক্স ম্যানেজমেন্ট", "ইমেল"]
 draft: false
 ---
@@ -52,7 +52,7 @@ Billing, bug, refund, sales বা priority অনুযায়ী বার্�
 
 বড় support team-এর জন্য Zendesk, Intercom বা Help Scout ধরনের help desk দরকার হতে পারে। কিন্তু freelancer, founder, small team বা professional services business-এর জন্য অনেক সময় Gmail-ই মূল workflow থাকে। নতুন platform শেখা, migration এবং process overhead তখন বাধা হয়।
 
-এই ক্ষেত্রে Gmail-এর ওপর AI layer কার্যকর হতে পারে। [Duet Mail](https://duetmail.com/bn) high-volume Gmail inbox-এর জন্য AI Triage, Smart Summarization এবং Authentic AI Drafting দেয়। এতে familiar inbox ছাড়াই গুরুত্বপূর্ণ customer email সামলানো যায়।
+এই ক্ষেত্রে Gmail-এর ওপর AI layer কার্যকর হতে পারে। [Chiefy](https://chiefy.com/bn) high-volume Gmail inbox-এর জন্য AI Triage, Smart Summarization এবং Authentic AI Drafting দেয়। এতে familiar inbox ছাড়াই গুরুত্বপূর্ণ customer email সামলানো যায়।
 
 ## AI ব্যবহার করার সময় সতর্কতা
 

@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail pre svadobných plánovačov | AI Email Assistant",
-  "metaDescription": "Duet Mail pomáha svadobným plánovačom okamžite odpovedať na e-maily klientov a dodávateľov — aj počas obhliadok priestorov. Odpovede vytvorené AI s vašimi balíkmi, kontaktmi na dodávateľov a vaším štýlom.",
+  "pageTitle": "Chiefy pre svadobných plánovačov | AI Email Assistant",
+  "metaDescription": "Chiefy pomáha svadobným plánovačom okamžite odpovedať na e-maily klientov a dodávateľov — aj počas obhliadok priestorov. Odpovede vytvorené AI s vašimi balíkmi, kontaktmi na dodávateľov a vaším štýlom.",
   "heroBadge": "Dôveruje mu viac ako 400 svadobných plánovačov",
   "heroHeadline": "Váš e-mailový asistent, kým ste priamo na mieste konania",
-  "heroSubline": "Duet sa naučí vaše kontakty na dodávateľov, balíky a preferencie klientov — potom pripraví e-mailové odpovede, aby páry nikdy nečakali, kým vy koordinujete všetko na mieste.",
+  "heroSubline": "Chiefy sa naučí vaše kontakty na dodávateľov, balíky a preferencie klientov — potom pripraví e-mailové odpovede, aby páry nikdy nečakali, kým vy koordinujete všetko na mieste.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "svadba",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Jeden ušetrený klient zaplatí viac ako 20 rokov Duet."
+    "punchline": "Jeden ušetrený klient zaplatí viac ako 20 rokov Chiefy."
   },
-  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže najprv vidíte nové dopyty párov, potom potvrdenia od dodávateľov a žiadny newsletterový hluk. Už žiadne prehliadnuté žiadosti o rezerváciu ukryté pod upozorneniami z Knot.",
-  "draftSubtitle": "Duet sa naučí vaše balíky, preferovaných dodávateľov a tón komunikácie. Keď sa pár ozve, pripraví srdečnú, kompletnú odpoveď s vašou dostupnosťou a ďalšími krokmi. Vy ju skontrolujete a odošlete.",
-  "agentSubtitle": "\"Aké e-maily od dodávateľov prišli tento týždeň pre svadbu Thompson?\" \"Priprav aktualizáciu časového harmonogramu pre všetkých dodávateľov na sobotu.\" Duet pozná vašu schránku aj klientov — stačí sa opýtať.",
+  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže najprv vidíte nové dopyty párov, potom potvrdenia od dodávateľov a žiadny newsletterový hluk. Už žiadne prehliadnuté žiadosti o rezerváciu ukryté pod upozorneniami z Knot.",
+  "draftSubtitle": "Chiefy sa naučí vaše balíky, preferovaných dodávateľov a tón komunikácie. Keď sa pár ozve, pripraví srdečnú, kompletnú odpoveď s vašou dostupnosťou a ďalšími krokmi. Vy ju skontrolujete a odošlete.",
+  "agentSubtitle": "\"Aké e-maily od dodávateľov prišli tento týždeň pre svadbu Thompson?\" \"Priprav aktualizáciu časového harmonogramu pre všetkých dodávateľov na sobotu.\" Chiefy pozná vašu schránku aj klientov — stačí sa opýtať.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "Som na horských miestach bez signálu polovicu týždňa. Medzitým mi páry píšu o časových harmonogramoch a otázkach pre dodávateľov. Duet pripraví odpovede s mojimi presnými balíkmi a tónom — skontrolujem ich, keď som späť v dosahu.",
+      "quote": "Som na horských miestach bez signálu polovicu týždňa. Medzitým mi páry píšu o časových harmonogramoch a otázkach pre dodávateľov. Chiefy pripraví odpovede s mojimi presnými balíkmi a tónom — skontrolujem ich, keď som späť v dosahu.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Full-Service Wedding Planner, CA",
-      "quote": "Koordinovať viac ako 10 dodávateľov na jednu svadbu znamená, že moja schránka je počas hlavnej sezóny bojové pole. Duet triedi e-maily od dodávateľov oddelene od e-mailov od klientov a pripravuje následné odpovede, aké by som napísal sám. Teraz sa naozaj vyspím.",
+      "quote": "Koordinovať viac ako 10 dodávateľov na jednu svadbu znamená, že moja schránka je počas hlavnej sezóny bojové pole. Chiefy triedi e-maily od dodávateľov oddelene od e-mailov od klientov a pripravuje následné odpovede, aké by som napísal sám. Teraz sa naozaj vyspím.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Day-of Coordinator, TX",
-      "quote": "V deň svadby som 14 hodín v kuse nedostupná. Nové dopyty kedysi zostávali bez odpovede až do pondelka. Teraz ich Duet vybaví okamžite a tento štvrťrok som získala o 3 svadby navyše len vďaka rýchlejším reakciám.",
+      "quote": "V deň svadby som 14 hodín v kuse nedostupná. Nové dopyty kedysi zostávali bez odpovede až do pondelka. Teraz ich Chiefy vybaví okamžite a tento štvrťrok som získala o 3 svadby navyše len vďaka rýchlejším reakciám.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "Moji klienti prilietajú z celého sveta a píšu v ktorúkoľvek hodinu. Duet sa naučil moje odpovede na FAQ — logistika miesta, miestni dodávatelia, čo očakávať — a pripravuje odpovede, ktoré znejú presne ako ja. Klienti o ničom netušia.",
+      "quote": "Moji klienti prilietajú z celého sveta a píšu v ktorúkoľvek hodinu. Chiefy sa naučil moje odpovede na FAQ — logistika miesta, miestni dodávatelia, čo očakávať — a pripravuje odpovede, ktoré znejú presne ako ja. Klienti o ničom netušia.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Wedding & Event Planner, NY",
-      "quote": "Každý večer som trávila 2 hodiny odpovedaním na tie isté otázky o balíkoch a dostupnosti. Duet vybaví opakujúce sa veci, takže sa môžem sústrediť na tvorivú prácu, ktorú naozaj milujem. Vyplatil sa už v prvom týždni.",
+      "quote": "Každý večer som trávila 2 hodiny odpovedaním na tie isté otázky o balíkoch a dostupnosti. Chiefy vybaví opakujúce sa veci, takže sa môžem sústrediť na tvorivú prácu, ktorú naozaj milujem. Vyplatil sa už v prvom týždni.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Spustite bezplatnú skúšobnú verziu. Pripojte si schránku za 30 sekúnd.",
   "verticalFaqs": [
     {
-      "question": "Funguje Duet so všetkými e-mailmi na koordináciu dodávateľov?",
-      "answer": "Áno. Duet sa naučí vaše kontakty na dodávateľov, preferovaných dodávateľov a spôsob, akým s každým komunikujete. Triedi e-maily od dodávateľov podľa svadby a pripravuje odpovede so správnymi detailmi — potvrdenia, následné správy, aktualizácie harmonogramu. Vy ich skontrolujete a odošlete. Zvládne floristov, catering, miesta konania, DJ-ov, fotografov a každého ďalšieho dodávateľa vo vašom zozname."
+      "question": "Funguje Chiefy so všetkými e-mailmi na koordináciu dodávateľov?",
+      "answer": "Áno. Chiefy sa naučí vaše kontakty na dodávateľov, preferovaných dodávateľov a spôsob, akým s každým komunikujete. Triedi e-maily od dodávateľov podľa svadby a pripravuje odpovede so správnymi detailmi — potvrdenia, následné správy, aktualizácie harmonogramu. Vy ich skontrolujete a odošlete. Zvládne floristov, catering, miesta konania, DJ-ov, fotografov a každého ďalšieho dodávateľa vo vašom zozname."
     },
     {
       "question": "Som celý deň priamo na svadbách a miestach konania. Neuniknú mi nové dopyty?",
-      "answer": "Presne toto Duet rieši. Keď vám pár napíše s otázkou na dostupnosť alebo balíky, zatiaľ čo koordinujete na mieste, Duet pripraví srdečnú, profesionálnu odpoveď s vašou skutočnou dostupnosťou a ďalšími krokmi. Vy ju skontrolujete a odošlete, kedykoľvek budete mať čas — aj z telefónu medzi podujatiami. Väčšina plánovačov nám hovorí, že im to počas hlavnej sezóny ušetrí 1-2 hodiny času denne v e-mailoch."
+      "answer": "Presne toto Chiefy rieši. Keď vám pár napíše s otázkou na dostupnosť alebo balíky, zatiaľ čo koordinujete na mieste, Chiefy pripraví srdečnú, profesionálnu odpoveď s vašou skutočnou dostupnosťou a ďalšími krokmi. Vy ju skontrolujete a odošlete, kedykoľvek budete mať čas — aj z telefónu medzi podujatiami. Väčšina plánovačov nám hovorí, že im to počas hlavnej sezóny ušetrí 1-2 hodiny času denne v e-mailoch."
     }
   ],
   "pricingNote": "Pri $8,000/svadba jeden ušetrený klient zaplatí viac ako 20 rokov Pro."

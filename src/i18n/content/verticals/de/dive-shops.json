@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail für Tauchshops | KI-E-Mail-Assistent",
-  "metaDescription": "Duet Mail hilft Tauchshop-Besitzern und PADI-Lehrern, sofort auf Zertifizierungsanfragen, Reisebuchungen und Fragen zur Ausrüstung zu reagieren – sogar unter Wasser.",
+  "pageTitle": "Chiefy für Tauchshops | KI-E-Mail-Assistent",
+  "metaDescription": "Chiefy hilft Tauchshop-Besitzern und PADI-Lehrern, sofort auf Zertifizierungsanfragen, Reisebuchungen und Fragen zur Ausrüstung zu reagieren – sogar unter Wasser.",
   "heroBadge": "Mehr als 300 Tauchanbieter vertrauen darauf",
   "heroHeadline": "Ihr E-Mail-Assistent, während Sie unter Wasser sind",
-  "heroSubline": "Duet lernt Ihre Tauchplätze, Zertifizierungsanforderungen, Preise und Stimme kennen und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung verlieren, während Sie auf dem Boot sind.",
+  "heroSubline": "Chiefy lernt Ihre Tauchplätze, Zertifizierungsanforderungen, Preise und Stimme kennen und erstellt dann E-Mail-Antworten, damit Sie nie eine Buchung verlieren, während Sie auf dem Boot sind.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tauchen",
     "lostPerMonth": "3 Reisen (je 6 Taucher)",
     "monthlyLoss": "$2,700",
-    "punchline": "Ein gespeicherter Gruppentauchgang reicht für ein Jahr von Duet."
+    "punchline": "Ein gespeicherter Gruppentauchgang reicht für ein Jahr von Chiefy."
   },
-  "categorizationSubtitle": "Duet markiert jede E-Mail automatisch, sodass Sie zuerst Zertifizierungsanfragen und Tauchbuchungen sehen, dann Fragen zur Ausrüstung und PADI-Benachrichtigungen, wenn Sie bereit sind. Keine Gruppenbuchung mehr verpassen, die unter Ausrüstungs-Newslettern versteckt ist.",
-  "draftSubtitle": "Duet lernt Ihre Tauchplätze, Zertifizierungsanforderungen und Preise. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Reisedetails, den enthaltenen Leistungen und dem mitzubringenden Inhalt verfasst. Sie überprüfen und senden.",
-  "agentSubtitle": "„Wie viele Taucher sind für Samstag gebucht?“ „Entwerfen Sie eine Antwort an Rachel mit der Verfügbarkeit von Open Water.” Duet kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
+  "categorizationSubtitle": "Chiefy markiert jede E-Mail automatisch, sodass Sie zuerst Zertifizierungsanfragen und Tauchbuchungen sehen, dann Fragen zur Ausrüstung und PADI-Benachrichtigungen, wenn Sie bereit sind. Keine Gruppenbuchung mehr verpassen, die unter Ausrüstungs-Newslettern versteckt ist.",
+  "draftSubtitle": "Chiefy lernt Ihre Tauchplätze, Zertifizierungsanforderungen und Preise. Wenn eine Buchungsanfrage eintrifft, wird eine vollständige Antwort mit Reisedetails, den enthaltenen Leistungen und dem mitzubringenden Inhalt verfasst. Sie überprüfen und senden.",
+  "agentSubtitle": "„Wie viele Taucher sind für Samstag gebucht?“ „Entwerfen Sie eine Antwort an Rachel mit der Verfügbarkeit von Open Water.” Chiefy kennt Ihren Posteingang und Zeitplan – fragen Sie einfach nach.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapitän Mike T.",
       "title": "Tauchbootkapitän, FL",
-      "quote": "Ich führe Bootsfahrten von Freitag bis Sonntag durch und der Laden ist montags nur wenige Stunden geöffnet. Während ich unter Wasser bin, häufen sich Zertifizierungsfragen und Reiseanfragen. Duet entwirft Antworten mit meinen Preisen, Tauchplätzen und dem, was enthalten ist – ich überprüfe sie zwischen den Tauchgängen.",
+      "quote": "Ich führe Bootsfahrten von Freitag bis Sonntag durch und der Laden ist montags nur wenige Stunden geöffnet. Während ich unter Wasser bin, häufen sich Zertifizierungsfragen und Reiseanfragen. Chiefy entwirft Antworten mit meinen Preisen, Tauchplätzen und dem, was enthalten ist – ich überprüfe sie zwischen den Tauchgängen.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "PADI Dive Center, HI",
-      "quote": "Wir führen Tauchgänge, Schnorcheltouren und Walbeobachtungen von denselben Booten aus durch. Die E-Mail-Vielfalt ist wahnsinnig – Fragen zu Zertifikaten, Gruppenbuchungen, Ausrüstungsverleih, Wetterchecks. Duet sortiert alles und entwirft Antworten, die den Unterschied kennen. Absoluter Lebensretter.",
+      "quote": "Wir führen Tauchgänge, Schnorcheltouren und Walbeobachtungen von denselben Booten aus durch. Die E-Mail-Vielfalt ist wahnsinnig – Fragen zu Zertifikaten, Gruppenbuchungen, Ausrüstungsverleih, Wetterchecks. Chiefy sortiert alles und entwirft Antworten, die den Unterschied kennen. Absoluter Lebensretter.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "Die Hälfte meiner E-Mails lautet: „Welche Zertifizierung benötige ich für die Wracktauchgänge?“ und die andere Hälfte lautet: „Brauche ich meine eigene Ausrüstung?” Duet verwaltet beides auf dem Autopiloten. Meine Reaktionszeit ging von Stunden auf Minuten.",
+      "quote": "Die Hälfte meiner E-Mails lautet: „Welche Zertifizierung benötige ich für die Wracktauchgänge?“ und die andere Hälfte lautet: „Brauche ich meine eigene Ausrüstung?” Chiefy verwaltet beides auf dem Autopiloten. Meine Reaktionszeit ging von Stunden auf Minuten.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Tauchshop-Inhaber, CA",
-      "quote": "Im Sommer erhalten wir täglich über 30 E-Mails zu Kursen, Reiseverfügbarkeit und Ausrüstung. Ich habe Buchungen an Shops verloren, die schneller geantwortet haben. Jetzt entwirft Duet alles und ich drücke zwischen den Kursen einfach auf „Senden“.",
+      "quote": "Im Sommer erhalten wir täglich über 30 E-Mails zu Kursen, Reiseverfügbarkeit und Ausrüstung. Ich habe Buchungen an Shops verloren, die schneller geantwortet haben. Jetzt entwirft Chiefy alles und ich drücke zwischen den Kursen einfach auf „Senden“.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Tauchlehrer und Guide, NC",
-      "quote": "Ich unterrichte vormittags Kurse und leite nachmittags Tauchgänge. Es bleibt buchstäblich keine Zeit, E-Mails zu beantworten. Duet habe meinen Kursplan, meine Preise und sogar meine Stornierungsbedingungen erfahren. Kunden können den Unterschied nicht erkennen.",
+      "quote": "Ich unterrichte vormittags Kurse und leite nachmittags Tauchgänge. Es bleibt buchstäblich keine Zeit, E-Mails zu beantworten. Chiefy habe meinen Kursplan, meine Preise und sogar meine Stornierungsbedingungen erfahren. Kunden können den Unterschied nicht erkennen.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Starten Sie Ihre kostenlose Testversion. Verbinden Sie Ihren Posteingang in 30 Sekunden.",
   "verticalFaqs": [
     {
-      "question": "Versteht Duet die Zertifizierungsstufen und Kursanforderungen?",
-      "answer": "Ja. Duet lernt Ihre spezifischen Kurse – Open Water, Advanced, Rescue, Divemaster – zusammen mit Voraussetzungen, Dauer, Preisen und dem, was enthalten ist. Wenn jemand nach einer Zertifizierung fragt, verfasst Duet eine Antwort mit den richtigen Kursdetails, dem Zeitplan und den nächsten Schritten. Sie überprüfen und senden."
+      "question": "Versteht Chiefy die Zertifizierungsstufen und Kursanforderungen?",
+      "answer": "Ja. Chiefy lernt Ihre spezifischen Kurse – Open Water, Advanced, Rescue, Divemaster – zusammen mit Voraussetzungen, Dauer, Preisen und dem, was enthalten ist. Wenn jemand nach einer Zertifizierung fragt, verfasst Chiefy eine Antwort mit den richtigen Kursdetails, dem Zeitplan und den nächsten Schritten. Sie überprüfen und senden."
     },
     {
-      "question": "Ich bin den ganzen Tag auf dem Boot oder unter Wasser. Kann ich Duet von meinem Telefon aus verwenden?",
-      "answer": "Ja. Duet funktioniert mit Gmail und Outlook, also überall dort, wo Ihre E-Mail funktioniert – einschließlich Ihres Telefons. Entwürfe erscheinen automatisch in Ihrem Posteingang. Zwischen Tauchgängen oder zurück am Dock können Sie mit einem Fingertipp überprüfen und senden. Die meisten Tauchveranstalter sagen uns, dass sie dadurch in der Hochsaison täglich 1–2 Stunden E-Mail-Zeit sparen."
+      "question": "Ich bin den ganzen Tag auf dem Boot oder unter Wasser. Kann ich Chiefy von meinem Telefon aus verwenden?",
+      "answer": "Ja. Chiefy funktioniert mit Gmail und Outlook, also überall dort, wo Ihre E-Mail funktioniert – einschließlich Ihres Telefons. Entwürfe erscheinen automatisch in Ihrem Posteingang. Zwischen Tauchgängen oder zurück am Dock können Sie mit einem Fingertipp überprüfen und senden. Die meisten Tauchveranstalter sagen uns, dass sie dadurch in der Hochsaison täglich 1–2 Stunden E-Mail-Zeit sparen."
     }
   ],
   "pricingNote": "Bei 150 $/Tauchgang mit einer Gruppe von 6 Personen reicht eine gesparte Reise für mehr als ein Jahr Pro."

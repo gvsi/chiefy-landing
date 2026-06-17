@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mail para proveedores de rafting y kayak | Asistente de correo electrónico con IA",
-  "metaDescription": "Duet Mail ayuda a los guías de rafting y a los proveedores de kayak a responder las consultas sobre viajes al instante, incluso desde el río. Respuestas redactadas por IA con los detalles de su viaje, precios y voz.",
+  "pageTitle": "Chiefy para proveedores de rafting y kayak | Asistente de correo electrónico con IA",
+  "metaDescription": "Chiefy ayuda a los guías de rafting y a los proveedores de kayak a responder las consultas sobre viajes al instante, incluso desde el río. Respuestas redactadas por IA con los detalles de su viaje, precios y voz.",
   "heroBadge": "Con la confianza de más de 200 guías fluviales",
   "heroHeadline": "Tu asistente de correo electrónico mientras estás en el río",
-  "heroSubline": "Duet aprende tus tipos de viaje, precios y listas de equipo y luego redacta respuestas a consultas de reserva para que los clientes obtengan respuestas mientras corres rápidos.",
+  "heroSubline": "Chiefy aprende tus tipos de viaje, precios y listas de equipo y luego redacta respuestas a consultas de reserva para que los clientes obtengan respuestas mientras corres rápidos.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "persona",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dos reservas guardadas pagan por un año completo de Duet."
+    "punchline": "Dos reservas guardadas pagan por un año completo de Chiefy."
   },
-  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que las consultas sobre viajes aparezcan primero, las preguntas sobre equipos en segundo lugar y el ruido de las promociones desaparezca. Ya no te perderás una reserva de grupo enterrada bajo alertas TripAdvisor.",
-  "draftSubtitle": "Duet aprende sus tipos de viaje, clases de rápidos, listas de equipos y política de cancelación. Cuando llega una consulta de reserva, redacta una respuesta completa con todo lo que el cliente necesita. Tu revisas y envías.",
-  "agentSubtitle": "\"¿Hay algún lugar disponible durante el día completo del sábado?\" \"Redacta una respuesta a Jennifer con disponibilidad\". Duet conoce tu bandeja de entrada y tu horario, solo pregúntale.",
+  "categorizationSubtitle": "Chiefy etiqueta automáticamente cada correo electrónico para que las consultas sobre viajes aparezcan primero, las preguntas sobre equipos en segundo lugar y el ruido de las promociones desaparezca. Ya no te perderás una reserva de grupo enterrada bajo alertas TripAdvisor.",
+  "draftSubtitle": "Chiefy aprende sus tipos de viaje, clases de rápidos, listas de equipos y política de cancelación. Cuando llega una consulta de reserva, redacta una respuesta completa con todo lo que el cliente necesita. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Hay algún lugar disponible durante el día completo del sábado?\" \"Redacta una respuesta a Jennifer con disponibilidad\". Chiefy conoce tu bandeja de entrada y tu horario, solo pregúntale.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "ryan m.",
       "title": "Rafting Outfitter, Colorado, EE.UU.",
-      "quote": "Durante la temporada alta estoy en el río 6 días a la semana. Cuando volví a leer los correos electrónicos, la mitad de los grupos ya habían reservado con otra persona. Ahora Duet redacta respuestas con detalles del viaje y precios mientras estoy en el lugar de instalación.",
+      "quote": "Durante la temporada alta estoy en el río 6 días a la semana. Cuando volví a leer los correos electrónicos, la mitad de los grupos ya habían reservado con otra persona. Ahora Chiefy redacta respuestas con detalles del viaje y precios mientras estoy en el lugar de instalación.",
       "avatarKey": "michael"
     },
     {
       "name": "katie l.",
       "title": "Tours en kayak y SUP, O",
-      "quote": "Cada cliente hace las mismas cinco preguntas: precios, qué traer, nivel de habilidad, tamaño del grupo y política de cancelación. Duet aprendió todo durante la primera semana. Pasé de una hora de correos electrónicos todas las noches a cinco minutos de revisión de borradores.",
+      "quote": "Cada cliente hace las mismas cinco preguntas: precios, qué traer, nivel de habilidad, tamaño del grupo y política de cancelación. Chiefy aprendió todo durante la primera semana. Pasé de una hora de correos electrónicos todas las noches a cinco minutos de revisión de borradores.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marco P.",
       "title": "Guía de expedición de varios días, AK",
-      "quote": "Realizo viajes de 5 días sin servicio celular. Antes de Duet, todas las consultas quedaron sin respuesta hasta que regresé a la ciudad. Ahora los clientes reciben una respuesta detallada en cuestión de minutos y yo confirmo cuando salgo del río.",
+      "quote": "Realizo viajes de 5 días sin servicio celular. Antes de Chiefy, todas las consultas quedaron sin respuesta hasta que regresé a la ciudad. Ahora los clientes reciben una respuesta detallada en cuestión de minutos y yo confirmo cuando salgo del río.",
       "avatarKey": "johnny"
     },
     {
       "name": "elena r.",
       "title": "Gerente de oficina de River Adventures, Virginia Occidental",
-      "quote": "Administro reservas para tres guías en cuatro tipos de viajes. Duet clasifica cada correo electrónico por urgencia y redacta respuestas con el viaje correcto, el precio correcto y la lista de equipo correcta. Es como clonarme a mí mismo.",
+      "quote": "Administro reservas para tres guías en cuatro tipos de viajes. Chiefy clasifica cada correo electrónico por urgencia y redacta respuestas con el viaje correcto, el precio correcto y la lista de equipo correcta. Es como clonarme a mí mismo.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "¿Duet maneja cotizaciones de viajes personalizados y consultas sobre expediciones de varios días?",
-      "answer": "Sí. Duet conoce la programación completa de su viaje (flotaciones de medio día, rápidos de un día completo, expediciones de varios días) junto con los precios, lo que está incluido, las edades mínimas y los niveles de dificultad. Cuando alguien pregunta sobre un viaje de 3 días para 6, redacta una respuesta completa con los detalles correctos. Usted revisa, modifica si es necesario y envía."
+      "question": "¿Chiefy maneja cotizaciones de viajes personalizados y consultas sobre expediciones de varios días?",
+      "answer": "Sí. Chiefy conoce la programación completa de su viaje (flotaciones de medio día, rápidos de un día completo, expediciones de varios días) junto con los precios, lo que está incluido, las edades mínimas y los niveles de dificultad. Cuando alguien pregunta sobre un viaje de 3 días para 6, redacta una respuesta completa con los detalles correctos. Usted revisa, modifica si es necesario y envía."
     },
     {
-      "question": "Estoy fuera de la red en viajes de varios días. ¿Duet todavía funciona?",
-      "answer": "Ese es exactamente el problema que resuelve Duet. Mientras estás en el río sin señal, Duet drafts responde a cada consulta que llega. Cuando vuelves a estar dentro del alcance, tus drafts están esperando: solo revísalos y envíalos. La mayoría de los guías nos dicen que elimina el retraso que solían afrontar después de cada viaje de varios días."
+      "question": "Estoy fuera de la red en viajes de varios días. ¿Chiefy todavía funciona?",
+      "answer": "Ese es exactamente el problema que resuelve Chiefy. Mientras estás en el río sin señal, Chiefy drafts responde a cada consulta que llega. Cuando vuelves a estar dentro del alcance, tus drafts están esperando: solo revísalos y envíalos. La mayoría de los guías nos dicen que elimina el retraso que solían afrontar después de cada viaje de varios días."
     }
   ],
   "pricingNote": "A $150 por persona, dos reservaciones guardadas cubren un año completo de Pro."

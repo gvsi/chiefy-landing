@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail ATV és UTV túrákhoz | AI e-mail asszisztens",
-  "metaDescription": "A Duet Mail segít az ATV- és UTV-túravezetőknek, hogy azonnal válaszoljanak a foglalási e-mailekre – akár a nyomvonalról is. AI által összeállított válaszok az Ön árával, követelményeivel és hangjával.",
+  "pageTitle": "Chiefy ATV és UTV túrákhoz | AI e-mail asszisztens",
+  "metaDescription": "A Chiefy segít az ATV- és UTV-túravezetőknek, hogy azonnal válaszoljanak a foglalási e-mailekre – akár a nyomvonalról is. AI által összeállított válaszok az Ön árával, követelményeivel és hangjával.",
   "heroBadge": "Több mint 200 idegenvezető megbízható",
   "heroHeadline": "Az e-mail asszisztens, amíg úton van",
-  "heroSubline": "A Duet megtanulja az Ön túratípusait, árait és versenyzői követelményeit – majd e-mail-válaszokat készít, így Ön soha nem veszít el egy foglalást a lassú válasz miatt.",
+  "heroSubline": "A Chiefy megtanulja az Ön túratípusait, árait és versenyzői követelményeit – majd e-mail-válaszokat készít, így Ön soha nem veszít el egy foglalást a lassú válasz miatt.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "csoport (4 gép)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Egy elmentett csoportos foglalás egy év Duetért fizet."
+    "punchline": "Egy elmentett csoportos foglalás egy év Chiefyért fizet."
   },
-  "categorizationSubtitle": "A Duet minden e-mailt automatikusan megcímkéz, így először a foglalási kérelmeket látja, másodsorban a biztosítási kérdéseket, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá rejtett csoportos megkeresés.",
-  "draftSubtitle": "A Duet megtanulja a túra útvonalait, az árakat és a versenyzői követelményeket. Amikor egy foglalási kérdés érkezik, teljes választ készít az utazás részleteiről, az árakról és arról, hogy mit vigyen magával. Te átnézed és elküldöd.",
-  "agentSubtitle": "– Lefoglaltak csoportokat erre a hétvégére? \"Választervezet Rachelnek szombati elérhetőséggel.\" A Duet ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
+  "categorizationSubtitle": "A Chiefy minden e-mailt automatikusan megcímkéz, így először a foglalási kérelmeket látja, másodsorban a biztosítási kérdéseket, a zajt pedig soha. Többé nem hiányzik a TripAdvisor riasztások alá rejtett csoportos megkeresés.",
+  "draftSubtitle": "A Chiefy megtanulja a túra útvonalait, az árakat és a versenyzői követelményeket. Amikor egy foglalási kérdés érkezik, teljes választ készít az utazás részleteiről, az árakról és arról, hogy mit vigyen magával. Te átnézed és elküldöd.",
+  "agentSubtitle": "– Lefoglaltak csoportokat erre a hétvégére? \"Választervezet Rachelnek szombati elérhetőséggel.\" A Chiefy ismeri a beérkezett üzeneteket és a menetrendet – csak kérdezzen.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,13 +127,13 @@
     {
       "name": "Mike D.",
       "title": "ATV Guide, Dél-Utah",
-      "quote": "8 órás túrákat vezetek a kanyonokon keresztül nulla cellás szolgáltatással. Mire visszaértem, a foglalási e-mailjeim fele lehűlt. A Duet válaszokat készít az árakkal és a nyomvonalammal kapcsolatos információimmal – csak a nap végén nézem át őket.",
+      "quote": "8 órás túrákat vezetek a kanyonokon keresztül nulla cellás szolgáltatással. Mire visszaértem, a foglalási e-mailjeim fele lehűlt. A Chiefy válaszokat készít az árakkal és a nyomvonalammal kapcsolatos információimmal – csak a nap végén nézem át őket.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV utazásszervező, Colorado",
-      "quote": "A hét 7 napján túrákat szervezünk, és egyedül a biztosítási és lemondási kérdések felemésztették a reggeleimet. A Duet mindent elintéz – versenyzői követelmények, korhatárok, mit vigyen magával. Pontosan úgy hangzik, mint én.",
+      "quote": "A hét 7 napján túrákat szervezünk, és egyedül a biztosítási és lemondási kérdések felemésztették a reggeleimet. A Chiefy mindent elintéz – versenyzői követelmények, korhatárok, mit vigyen magával. Pontosan úgy hangzik, mint én.",
       "avatarKey": "francesca"
     },
     {
@@ -145,13 +145,13 @@
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Minden este több mint egy órát töltöttem ugyanazon elérhetőségi kérdések megválaszolásával. Most a Duet piszkozatai válaszolnak, amíg kint vagyok a nyomon. A válaszidőm órákról percekre változott.",
+      "quote": "Minden este több mint egy órát töltöttem ugyanazon elérhetőségi kérdések megválaszolásával. Most a Chiefy piszkozatai válaszolnak, amíg kint vagyok a nyomon. A válaszidőm órákról percekre változott.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Családi ATV Tours, Sedona",
-      "quote": "Nagyon sok család kérdezi a kezdő pályákról és az életkori követelményekről. A Duet megismerte az összes túralehetőségünket, és minden válaszában a megfelelőt ajánlja. Az ügyfelek nem tudnak különbséget tenni.",
+      "quote": "Nagyon sok család kérdezi a kezdő pályákról és az életkori követelményekről. A Chiefy megismerte az összes túralehetőségünket, és minden válaszában a megfelelőt ajánlja. Az ügyfelek nem tudnak különbséget tenni.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Kezdje el az ingyenes próbaidőszakot. Csatlakoztassa a postaládáját 30 másodpercen belül.",
   "verticalFaqs": [
     {
-      "question": "A Duet kezeli a biztosítási és lemondási kérdéseket?",
-      "answer": "Igen. A Duet megismeri a lovas követelményeit – felelősségbiztosítást, korhatárokat, lemondási adatokat, és azt, hogy mit kell hozniuk a versenyzőknek. Amikor valaki e-mailben megkérdezi, mire van szüksége a turné előtt, a Duet teljes választ készít az összes részlettel. Áttekinti, és megérinti a küldést."
+      "question": "A Chiefy kezeli a biztosítási és lemondási kérdéseket?",
+      "answer": "Igen. A Chiefy megismeri a lovas követelményeit – felelősségbiztosítást, korhatárokat, lemondási adatokat, és azt, hogy mit kell hozniuk a versenyzőknek. Amikor valaki e-mailben megkérdezi, mire van szüksége a turné előtt, a Chiefy teljes választ készít az összes részlettel. Áttekinti, és megérinti a küldést."
     },
     {
-      "question": "Egész nap nyomon vagyok, mobilszolgálat nélkül. Hogyan segít a Duet?",
-      "answer": "A kalauzok pontosan ezért szeretik a Duettet. Amíg 6-8 órás túrát vezetsz jelzés nélkül, felhalmozódnak a foglalási kérdések. A Duet drafts mindegyikre válaszol – árak, elérhetőség, találkozó helye, viselet. Amikor visszatér, átnézi a piszkozatokat, és elküldi. A legtöbb kalauz azt mondja, hogy a csúcsszezonban napi 1-2 óra e-mail-időt takarít meg."
+      "question": "Egész nap nyomon vagyok, mobilszolgálat nélkül. Hogyan segít a Chiefy?",
+      "answer": "A kalauzok pontosan ezért szeretik a Duettet. Amíg 6-8 órás túrát vezetsz jelzés nélkül, felhalmozódnak a foglalási kérdések. A Chiefy drafts mindegyikre válaszol – árak, elérhetőség, találkozó helye, viselet. Amikor visszatér, átnézi a piszkozatokat, és elküldi. A legtöbb kalauz azt mondja, hogy a csúcsszezonban napi 1-2 óra e-mail-időt takarít meg."
     }
   ],
   "pricingNote": "200 dollár/gép áron egy megtakarított 4 fős csoport több mint egy év Pro-t fizet."

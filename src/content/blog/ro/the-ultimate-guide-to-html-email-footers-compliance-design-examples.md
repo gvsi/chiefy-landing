@@ -2,7 +2,7 @@
 title: "Ghidul complet pentru subsolurile de e-mail HTML: Conformitate, Design și exemple"
 description: "Subsoluri principale pentru e-mailuri HTML: elemente esențiale, sfaturi de design, conformitate legală (CAN-SPAM, GDPR, CASL) și exemple de branding."
 publishedAt: 2026-01-05
-author: "Echipa Duet Mail"
+author: "Echipa Chiefy"
 tags: ["IA", "E-mail"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Subsolul HTML al e-mailului tău ar putea fi ultimul lucru pe care îl văd dest
 
 Construiește încredere, consolidează brandul tău, asigură conformitatea și oferă o navigare utilă pentru publicul tău. Acordă-ți câteva momente pentru a examina subsolul actual al e-mailului tău. Este conform? Este clar? Este optimizat pentru dispozitive mobile? Aducând aceste mici îmbunătățiri, poți avea un impact mare asupra modului în care e-mailurile tale - și brandul tău - sunt percepute.
 
-Cauți modalități de a face gestionarea generală a e-mailurilor mai eficientă și mai profesională? Ia în considerare explorarea instrumentelor concepute pentru profesioniștii ocupați. De exemplu, învățarea modului în care [Duet Mail simplifică productivitatea e-mailurilor](/ro) cu funcții bazate pe inteligență artificială ar putea elibera mai mult timp pentru a te concentra pe perfecționarea detaliilor precum subsolul paginii și pe asigurarea că fiecare comunicare te reprezintă bine.
+Cauți modalități de a face gestionarea generală a e-mailurilor mai eficientă și mai profesională? Ia în considerare explorarea instrumentelor concepute pentru profesioniștii ocupați. De exemplu, învățarea modului în care [Chiefy simplifică productivitatea e-mailurilor](/ro) cu funcții bazate pe inteligență artificială ar putea elibera mai mult timp pentru a te concentra pe perfecționarea detaliilor precum subsolul paginii și pe asigurarea că fiecare comunicare te reprezintă bine.

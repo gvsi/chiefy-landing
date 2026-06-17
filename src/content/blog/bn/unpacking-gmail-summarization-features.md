@@ -2,7 +2,7 @@
 title: "Gmail summarization features বিশ্লেষণ"
 description: "ইমেল overload-এ ভুগছেন? Gemini-powered Gmail summarization features, তাদের সুবিধা-সীমাবদ্ধতা এবং সেগুলো যথেষ্ট কি না বুঝুন।"
 publishedAt: 2025-09-26
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "ইমেল সারাংশ"]
 draft: false
 ---
@@ -70,7 +70,7 @@ AI summary ভুল বা অসম্পূর্ণ হতে পারে�
 - action items tracking
 - personalized reply drafting
 
-[Duet Mail](https://duetmail.com/bn) Smart Summarization-কে contextual awareness-এর সঙ্গে যুক্ত করে। এটি শুধু বর্তমান thread নয়, project ও relationship context মনে রেখে summary ও draft suggestion দিতে পারে। AI Triage আরও বলে দেয় কোন বার্তায় আগে মন দেওয়া দরকার।
+[Chiefy](https://chiefy.com/bn) Smart Summarization-কে contextual awareness-এর সঙ্গে যুক্ত করে। এটি শুধু বর্তমান thread নয়, project ও relationship context মনে রেখে summary ও draft suggestion দিতে পারে। AI Triage আরও বলে দেয় কোন বার্তায় আগে মন দেওয়া দরকার।
 
 ## ভালো summary যাচাই করার checklist
 

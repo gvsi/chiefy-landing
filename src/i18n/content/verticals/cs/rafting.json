@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mail pro rafting a kajakáře | AI e-mailový asistent",
-  "metaDescription": "Duet Mail pomáhá raftovým průvodcům a výrobcům kajaků okamžitě reagovat na dotazy ohledně výletů – dokonce i z řeky. Odpovědi navržené AI s podrobnostmi o vaší cestě, cenou a hlasem.",
+  "pageTitle": "Chiefy pro rafting a kajakáře | AI e-mailový asistent",
+  "metaDescription": "Chiefy pomáhá raftovým průvodcům a výrobcům kajaků okamžitě reagovat na dotazy ohledně výletů – dokonce i z řeky. Odpovědi navržené AI s podrobnostmi o vaší cestě, cenou a hlasem.",
   "heroBadge": "Důvěřuje více než 200 říčním průvodcům",
   "heroHeadline": "Váš e-mailový asistent, když jste na řece",
-  "heroSubline": "Duet se naučí vaše typy cest, ceny a seznamy vybavení – poté navrhne odpovědi na dotazy ohledně rezervace, aby zákazníci dostali odpovědi, zatímco vy jezdíte rychlíky.",
+  "heroSubline": "Chiefy se naučí vaše typy cest, ceny a seznamy vybavení – poté navrhne odpovědi na dotazy ohledně rezervace, aby zákazníci dostali odpovědi, zatímco vy jezdíte rychlíky.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "osoba",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dvě uložené rezervace platí za celý rok Duet."
+    "punchline": "Dvě uložené rezervace platí za celý rok Chiefy."
   },
-  "categorizationSubtitle": "Duet automaticky označí každý e-mail, takže jako první se objeví dotazy na cestu, jako druhé otázky týkající se výbavy a zmizí propagační hluk. Už vám nebude chybět skupinová rezervace pohřbená pod upozorněními TripAdvisor.",
-  "draftSubtitle": "Duet se naučí vaše typy výletů, třídy peřejí, seznamy vybavení a zásady zrušení. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď se vším, co zákazník potřebuje. Zkontrolujete a odešlete.",
-  "agentSubtitle": "\"Nějaká volná místa v sobotu na celý den?\" \"Navrhněte odpověď Jennifer s dostupností.\" Duet zná vaši doručenou poštu a plán – stačí se zeptat.",
+  "categorizationSubtitle": "Chiefy automaticky označí každý e-mail, takže jako první se objeví dotazy na cestu, jako druhé otázky týkající se výbavy a zmizí propagační hluk. Už vám nebude chybět skupinová rezervace pohřbená pod upozorněními TripAdvisor.",
+  "draftSubtitle": "Chiefy se naučí vaše typy výletů, třídy peřejí, seznamy vybavení a zásady zrušení. Když zasáhne dotaz na rezervaci, vypracuje kompletní odpověď se vším, co zákazník potřebuje. Zkontrolujete a odešlete.",
+  "agentSubtitle": "\"Nějaká volná místa v sobotu na celý den?\" \"Navrhněte odpověď Jennifer s dostupností.\" Chiefy zná vaši doručenou poštu a plán – stačí se zeptat.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Rafting Outfitter, CO",
-      "quote": "Během hlavní sezóny jsem na řece 6 dní v týdnu. Než jsem se vrátil k e-mailům, polovina skupin už měla rezervaci u někoho jiného. Nyní Duet návrhy odpovědí s podrobnostmi o cestě a cenami, zatímco jsem u vkládání.",
+      "quote": "Během hlavní sezóny jsem na řece 6 dní v týdnu. Než jsem se vrátil k e-mailům, polovina skupin už měla rezervaci u někoho jiného. Nyní Chiefy návrhy odpovědí s podrobnostmi o cestě a cenami, zatímco jsem u vkládání.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Výlety na kajaku a SUP, NEBO",
-      "quote": "Každý zákazník se ptá na stejných pět otázek – cena, co přinést, úroveň dovedností, velikost skupiny, storno podmínky. Duet se to všechno naučil během prvního týdne. Z hodiny e-mailů každý večer jsem přešel k pěti minutám kontroly návrhů.",
+      "quote": "Každý zákazník se ptá na stejných pět otázek – cena, co přinést, úroveň dovedností, velikost skupiny, storno podmínky. Chiefy se to všechno naučil během prvního týdne. Z hodiny e-mailů každý večer jsem přešel k pěti minutám kontroly návrhů.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Průvodce vícedenní expedicí, AK",
-      "quote": "Provozuji 5denní výlety s nulovou mobilní službou. Před Duet zůstal každý dotaz bez odpovědi, dokud jsem nebyl zpátky ve městě. Nyní zákazníci dostanou podrobnou odpověď během několika minut a potvrzuji, když jsem u řeky.",
+      "quote": "Provozuji 5denní výlety s nulovou mobilní službou. Před Chiefy zůstal každý dotaz bez odpovědi, dokud jsem nebyl zpátky ve městě. Nyní zákazníci dostanou podrobnou odpověď během několika minut a potvrzuji, když jsem u řeky.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "River Adventures Office Manager, WV",
-      "quote": "Řídím rezervace pro tři průvodce ve čtyřech typech výletů. Duet kategorizuje každý e-mail podle naléhavosti a v odpovědích navrhne správnou cestu, správnou cenu a správný seznam vybavení. Je to jako klonování sebe sama.",
+      "quote": "Řídím rezervace pro tři průvodce ve čtyřech typech výletů. Chiefy kategorizuje každý e-mail podle naléhavosti a v odpovědích navrhne správnou cestu, správnou cenu a správný seznam vybavení. Je to jako klonování sebe sama.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Spusťte bezplatnou zkušební verzi. Připojte svou doručenou poštu za 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Zvládá Duet vlastní nabídky výletů a vícedenní expedice?",
-      "answer": "Ano. Duet se naučí vaši kompletní sestavu výletů – půldenní plavby, celodenní peřeje, vícedenní expedice – spolu s cenou, co je zahrnuto, věkovým minimem a úrovněmi obtížnosti. Když se někdo zeptá na 3denní výlet pro 6, vypracuje kompletní odpověď se správnými detaily. Zkontrolujete, v případě potřeby upravíte a odešlete."
+      "question": "Zvládá Chiefy vlastní nabídky výletů a vícedenní expedice?",
+      "answer": "Ano. Chiefy se naučí vaši kompletní sestavu výletů – půldenní plavby, celodenní peřeje, vícedenní expedice – spolu s cenou, co je zahrnuto, věkovým minimem a úrovněmi obtížnosti. Když se někdo zeptá na 3denní výlet pro 6, vypracuje kompletní odpověď se správnými detaily. Zkontrolujete, v případě potřeby upravíte a odešlete."
     },
     {
-      "question": "Na vícedenních výletech jsem mimo síť. Funguje ještě Duet?",
-      "answer": "To je přesně ten problém, který Duet řeší. Zatímco jste na řece bez signálu, koncepty Duet odpoví na každý dotaz, který přijde. Až budete zpět v dosahu, vaše koncepty čekají – stačí zkontrolovat a odeslat. Většina průvodců nám říká, že to eliminuje nedodělky, kterým čelili po každém vícedenním výletu."
+      "question": "Na vícedenních výletech jsem mimo síť. Funguje ještě Chiefy?",
+      "answer": "To je přesně ten problém, který Chiefy řeší. Zatímco jste na řece bez signálu, koncepty Chiefy odpoví na každý dotaz, který přijde. Až budete zpět v dosahu, vaše koncepty čekají – stačí zkontrolovat a odeslat. Většina průvodců nám říká, že to eliminuje nedodělky, kterým čelili po každém vícedenním výletu."
     }
   ],
   "pricingNote": "U $150/person pokrývají dvě uložené rezervace celý rok Pro."

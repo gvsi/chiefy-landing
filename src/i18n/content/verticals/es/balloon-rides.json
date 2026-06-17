@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail para paseos en globo aerostático | Asistente de correo electrónico con IA",
-  "metaDescription": "Duet Mail ayuda a los pilotos de globos a responder los correos electrónicos de reserva al instante, incluso durante los vuelos al amanecer. Respuestas redactadas por IA con sus precios, políticas meteorológicas y voz.",
+  "pageTitle": "Chiefy para paseos en globo aerostático | Asistente de correo electrónico con IA",
+  "metaDescription": "Chiefy ayuda a los pilotos de globos a responder los correos electrónicos de reserva al instante, incluso durante los vuelos al amanecer. Respuestas redactadas por IA con sus precios, políticas meteorológicas y voz.",
   "heroBadge": "Con la confianza de más de 200 pilotos de globos",
   "heroHeadline": "Tu asistente de correo electrónico mientras estás en el aire",
-  "heroSubline": "Duet aprende los horarios de sus vuelos, precios y políticas climáticas y luego redacta respuestas por correo electrónico para que nunca pierda una reserva mientras despega al amanecer.",
+  "heroSubline": "Chiefy aprende los horarios de sus vuelos, precios y políticas climáticas y luego redacta respuestas por correo electrónico para que nunca pierda una reserva mientras despega al amanecer.",
   "inboxEmails": [
     {
       "from": "Raquel y Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "vuelo",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Un vuelo guardado paga por un año de Duet."
+    "punchline": "Un vuelo guardado paga por un año de Chiefy."
   },
-  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas sobre el clima y nunca el ruido. No más perderse una consulta de vuelo oculta bajo alertas de boletines.",
-  "draftSubtitle": "Duet aprende sus precios, políticas climáticas y tono. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del vuelo, información de la reunión y qué ponerse. Tu revisas y envías.",
-  "agentSubtitle": "\"¿Quién está en el manifiesto de mañana?\" \"¿Alguna cancelación climática para reprogramar?\" Duet conoce tu bandeja de entrada y tu calendario, solo pregúntale.",
+  "categorizationSubtitle": "Chiefy etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas sobre el clima y nunca el ruido. No más perderse una consulta de vuelo oculta bajo alertas de boletines.",
+  "draftSubtitle": "Chiefy aprende sus precios, políticas climáticas y tono. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del vuelo, información de la reunión y qué ponerse. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Quién está en el manifiesto de mañana?\" \"¿Alguna cancelación climática para reprogramar?\" Chiefy conoce tu bandeja de entrada y tu calendario, solo pregúntale.",
   "categorizationEmails": [
     {
       "from": "Raquel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Capitán Mike L.",
       "title": "Piloto de globo, Minnesota",
-      "quote": "Soy una operación de un solo hombre: vuelo, tripulo, respondo correos electrónicos. Excepto que a las 5 de la mañana estoy inflando y sin responder. Duet redacta respuestas a cada pregunta \"¿Volaremos mañana?\" mensaje durante la noche. Me despierto, compruebo el tiempo y presiono enviar.",
+      "quote": "Soy una operación de un solo hombre: vuelo, tripulo, respondo correos electrónicos. Excepto que a las 5 de la mañana estoy inflando y sin responder. Chiefy redacta respuestas a cada pregunta \"¿Volaremos mañana?\" mensaje durante la noche. Me despierto, compruebo el tiempo y presiono enviar.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon y Jake B.",
       "title": "Tours en globo durante todo el año, UT",
-      "quote": "Recibimos las mismas 10 preguntas todos los días. Qué ponerse, dónde reunirse, qué pasa si hace viento. Duet aprendió todo y ahora redacta respuestas perfectas. Pasamos de una hora de correos electrónicos todas las noches a cinco minutos.",
+      "quote": "Recibimos las mismas 10 preguntas todos los días. Qué ponerse, dónde reunirse, qué pasa si hace viento. Chiefy aprendió todo y ahora redacta respuestas perfectas. Pasamos de una hora de correos electrónicos todas las noches a cinco minutos.",
       "avatarKey": "sarah"
     },
     {
       "name": "carlos r.",
       "title": "Operador de vuelo de Sunrise, AZ",
-      "quote": "La temporada alta significa entre 4 y 6 vuelos por semana y cada pasajero envía un correo electrónico al menos dos veces antes del vuelo. Duet maneja las preguntas previas al vuelo para que yo pueda concentrarme en brindarles a las personas la mejor mañana de sus vidas.",
+      "quote": "La temporada alta significa entre 4 y 6 vuelos por semana y cada pasajero envía un correo electrónico al menos dos veces antes del vuelo. Chiefy maneja las preguntas previas al vuelo para que yo pueda concentrarme en brindarles a las personas la mejor mañana de sus vidas.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Copropietario de Balloon Company, Nuevo México",
-      "quote": "Las cancelaciones climáticas solían arruinar todo mi día: 8 pasajeros, todos necesitaban correos electrónicos personales de reprogramación. Ahora Duet redacta cada uno con nuestra política de cambio de reserva incluida. Me ahorra horas en las mañanas de cancelación.",
+      "quote": "Las cancelaciones climáticas solían arruinar todo mi día: 8 pasajeros, todos necesitaban correos electrónicos personales de reprogramación. Ahora Chiefy redacta cada uno con nuestra política de cambio de reserva incluida. Me ahorra horas en las mañanas de cancelación.",
       "avatarKey": "jennifer"
     },
     {
       "name": "María D.",
       "title": "Operaciones de paseo en globo, CO",
-      "quote": "Los vuelos de propuesta necesitan mucha coordinación de ida y vuelta. Duet se dio cuenta de cómo los manejamos: el momento, las palabras clave, la configuración del champán. Redacta respuestas que apenas tengo que tocar.",
+      "quote": "Los vuelos de propuesta necesitan mucha coordinación de ida y vuelta. Chiefy se dio cuenta de cómo los manejamos: el momento, las palabras clave, la configuración del champán. Redacta respuestas que apenas tengo que tocar.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "¿Cómo maneja Duet los correos electrónicos de cancelación climática?",
-      "answer": "Duet aprende sus políticas de cancelación y cambio de reserva. Cuando cancela un vuelo debido al clima, puede redactar correos electrónicos de reprogramación personalizados para cada pasajero afectado, con su política, fechas disponibles y su tono. Tu revisas y envías. Lo que antes tomaba una hora de respuestas individuales, toma minutos."
+      "question": "¿Cómo maneja Chiefy los correos electrónicos de cancelación climática?",
+      "answer": "Chiefy aprende sus políticas de cancelación y cambio de reserva. Cuando cancela un vuelo debido al clima, puede redactar correos electrónicos de reprogramación personalizados para cada pasajero afectado, con su política, fechas disponibles y su tono. Tu revisas y envías. Lo que antes tomaba una hora de respuestas individuales, toma minutos."
     },
     {
-      "question": "¿Puede Duet manejar la pregunta '¿Volaremos mañana?' ¿Correos electrónicos que llegan todas las noches?",
-      "answer": "Sí, este es uno de los correos electrónicos más comunes de los que nos hablan los operadores de globos de correo electrónico. Duet aprende sus políticas climáticas y redacta respuestas tranquilizadoras que explican su proceso de decisión, cuándo tomará la decisión final y qué esperar. Una vez que confirme el permiso o no por la mañana, podrá redactar actualizaciones para todos en el manifiesto."
+      "question": "¿Puede Chiefy manejar la pregunta '¿Volaremos mañana?' ¿Correos electrónicos que llegan todas las noches?",
+      "answer": "Sí, este es uno de los correos electrónicos más comunes de los que nos hablan los operadores de globos de correo electrónico. Chiefy aprende sus políticas climáticas y redacta respuestas tranquilizadoras que explican su proceso de decisión, cuándo tomará la decisión final y qué esperar. Una vez que confirme el permiso o no por la mañana, podrá redactar actualizaciones para todos en el manifiesto."
     }
   ],
   "pricingNote": "A $250 por persona con 4 pasajeros por vuelo, una reserva guardada paga más de un año de Pro."

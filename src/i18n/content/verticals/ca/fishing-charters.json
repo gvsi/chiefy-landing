@@ -1,10 +1,10 @@
 {
   "slug": "fishing-charters",
-  "pageTitle": "Duet Mail per Lloguers de Pesca | AI Assistent de correu electrònic",
-  "metaDescription": "Duet Mail ajuda els capitans de xàrter de pesca a respondre als correus electrònics de reserva a l'instant, fins i tot des de l'aigua. Respostes redactades per AI amb els vostres preus, polítiques i veu.",
+  "pageTitle": "Chiefy per Lloguers de Pesca | AI Assistent de correu electrònic",
+  "metaDescription": "Chiefy ajuda els capitans de xàrter de pesca a respondre als correus electrònics de reserva a l'instant, fins i tot des de l'aigua. Respostes redactades per AI amb els vostres preus, polítiques i veu.",
   "heroBadge": "Confia en més de 500 capitans charter",
   "heroHeadline": "El teu assistent de correu electrònic mentre estàs a l'aigua",
-  "heroSubline": "Duet coneix els vostres preus, les vostres polítiques i la vostra veu; després redacta esborranys de respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
+  "heroSubline": "Chiefy coneix els vostres preus, les vostres polítiques i la vostra veu; després redacta esborranys de respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
   "inboxEmails": [
     {
       "from": "Sara M.",
@@ -49,11 +49,11 @@
     "bookingUnit": "carta",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,000",
-    "punchline": "Una reserva desada paga un any de Duet."
+    "punchline": "Una reserva desada paga un any de Chiefy."
   },
-  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, les preguntes en segon lloc i el soroll mai. Ja no et perdis una consulta de viatge soterrada sota les alertes de TripAdvisor.",
-  "draftSubtitle": "Duet coneix els vostres preus, polítiques i to. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, els preus i què cal portar. Tu revisa i envia.",
-  "agentSubtitle": "\"Quins dies estan oberts la setmana vinent?\" \"Esborra una resposta a la Sarah amb disponibilitat\". Duet coneix la vostra safata d'entrada i el vostre calendari; només cal que ho pregunteu.",
+  "categorizationSubtitle": "Chiefy etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, les preguntes en segon lloc i el soroll mai. Ja no et perdis una consulta de viatge soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Chiefy coneix els vostres preus, polítiques i to. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, els preus i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Quins dies estan oberts la setmana vinent?\" \"Esborra una resposta a la Sarah amb disponibilitat\". Chiefy coneix la vostra safata d'entrada i el vostre calendari; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
       "from": "Sara M.",
@@ -127,25 +127,25 @@
     {
       "name": "El capità Mike D.",
       "title": "Offshore Charter Captain, FL",
-      "quote": "Durant la temporada alta, perdria 2-3 reserves a la setmana només perquè no podia respondre amb prou rapidesa des del vaixell. Duet redacta les respostes amb els meus preus i els detalls del viatge: acabo de prémer enviar entre captures.",
+      "quote": "Durant la temporada alta, perdria 2-3 reserves a la setmana només perquè no podia respondre amb prou rapidesa des del vaixell. Chiefy redacta les respostes amb els meus preus i els detalls del viatge: acabo de prémer enviar entre captures.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah i Tom K.",
       "title": "Family Charter Business, OR",
-      "quote": "Tenim dos vaixells i el volum de correu electrònic durant l'estiu és boig. Duet classifica les sol·licituds de reserva de tota la resta i redacta respostes que sonen exactament com nosaltres. Un canvi de joc absolut.",
+      "quote": "Tenim dos vaixells i el volum de correu electrònic durant l'estiu és boig. Chiefy classifica les sol·licituds de reserva de tota la resta i redacta respostes que sonen exactament com nosaltres. Un canvi de joc absolut.",
       "avatarKey": "sarah"
     },
     {
       "name": "Jake R.",
       "title": "Guia de pesca de baix cost, TX",
-      "quote": "Em passava una hora cada nit responent les mateixes preguntes de disponibilitat. Ara Duet ho gestiona. El meu temps de resposta va passar d'hores a minuts i des d'aleshores no he perdut cap reserva.",
+      "quote": "Em passava una hora cada nit responent les mateixes preguntes de disponibilitat. Ara Chiefy ho gestiona. El meu temps de resposta va passar d'hores a minuts i des d'aleshores no he perdut cap reserva.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa M.",
       "title": "Charter Office Manager, HI",
-      "quote": "La gestió de correus electrònics per a 4 capitans era una feina a temps complet. Duet ho classifica tot i redacta respostes amb el vaixell adequat, el preu correcte i el capità adequat. És com tenir un altre jo.",
+      "quote": "La gestió de correus electrònics per a 4 capitans era una feina a temps complet. Chiefy ho classifica tot i redacta respostes amb el vaixell adequat, el preu correcte i el capità adequat. És com tenir un altre jo.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Duet funciona per als correus electrònics de reserves i disponibilitat?",
-      "answer": "Absolutament. Duet coneix els tipus de viatge, els preus, la disponibilitat i les polítiques. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls adequats: preus, què s'inclou, lloc de la reunió, què cal portar. Revisa i toca envia."
+      "question": "Chiefy funciona per als correus electrònics de reserves i disponibilitat?",
+      "answer": "Absolutament. Chiefy coneix els tipus de viatge, els preus, la disponibilitat i les polítiques. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls adequats: preus, què s'inclou, lloc de la reunió, què cal portar. Revisa i toca envia."
     },
     {
-      "question": "Estic tot el dia a l'aigua. Puc utilitzar Duet des del meu telèfon?",
-      "answer": "Sí. Duet funciona amb Gmail i Outlook, de manera que funciona allà on funcioni el vostre correu electrònic, inclòs el telèfon. Els esborranys apareixen automàticament. Entre les captures, reviseu i envieu amb un sol toc. La majoria dels capitans ens diuen que els estalvia entre 1 i 2 hores de correu electrònic al dia durant la temporada alta."
+      "question": "Estic tot el dia a l'aigua. Puc utilitzar Chiefy des del meu telèfon?",
+      "answer": "Sí. Chiefy funciona amb Gmail i Outlook, de manera que funciona allà on funcioni el vostre correu electrònic, inclòs el telèfon. Els esborranys apareixen automàticament. Entre les captures, reviseu i envieu amb un sol toc. La majoria dels capitans ens diuen que els estalvia entre 1 i 2 hores de correu electrònic al dia durant la temporada alta."
     }
   ],
   "pricingNote": "Amb 500 $ per xàrter, una reserva desada paga més d'un any de Pro."

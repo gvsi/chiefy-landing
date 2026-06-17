@@ -2,7 +2,7 @@
 title: "Ang Pinakamahusay na Gabay sa HTML Email Footer: Pagsunod, Disenyo at Mga Halimbawa"
 description: "Master HTML email footer: mahahalagang elemento, mga tip sa disenyo, legal na pagsunod (CAN-SPAM, GDPR, CASL) at mga halimbawa ng pagba-brand."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Ang iyong HTML email footer ay maaaring ang huling bagay na makikita ng mga tata
 
 Bumubuo ito ng tiwala, nagpapatibay sa iyong brand, tinitiyak ang pagsunod, at nagbibigay ng kapaki-pakinabang na nabigasyon para sa iyong audience. Maglaan ng ilang sandali upang suriin ang iyong kasalukuyang email footer. Ito ba ay sumusunod? Malinaw ba? Mobile-friendly ba ito? Ang paggawa ng maliliit na pagpapahusay na ito ay maaaring magkaroon ng malaking epekto sa kung paano nakikita ang iyong mga email—at ang iyong brand.
 
-Naghahanap ng mga paraan upang gawing mas mahusay at propesyonal ang iyong pangkalahatang pamamahala sa email? Isaalang-alang ang paggalugad ng mga tool na idinisenyo para sa mga abalang propesyonal. Halimbawa, ang pag-aaral kung paano [Duet Mail ay pinapasimple ang pagiging produktibo ng email](https://duetmail.com/fil) na may mga feature na pinapagana ng AI ay maaaring magbakante ng mas maraming oras upang tumuon sa pag-perpekto sa mga detalye tulad ng iyong footer at pagtiyak na ang bawat komunikasyon ay kumakatawan sa iyo nang maayos.
+Naghahanap ng mga paraan upang gawing mas mahusay at propesyonal ang iyong pangkalahatang pamamahala sa email? Isaalang-alang ang paggalugad ng mga tool na idinisenyo para sa mga abalang propesyonal. Halimbawa, ang pag-aaral kung paano [Chiefy ay pinapasimple ang pagiging produktibo ng email](https://chiefy.com/fil) na may mga feature na pinapagana ng AI ay maaaring magbakante ng mas maraming oras upang tumuon sa pag-perpekto sa mga detalye tulad ng iyong footer at pagtiyak na ang bawat komunikasyon ay kumakatawan sa iyo nang maayos.

@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail para recorridos en trineos tirados por perros | Asistente de correo electrónico con IA",
-  "metaDescription": "Duet Mail ayuda a los mushers a responder los correos electrónicos de reserva al instante, incluso desde el sendero. Respuestas redactadas por IA con sus tipos de recorridos, precios, políticas y voz.",
+  "pageTitle": "Chiefy para recorridos en trineos tirados por perros | Asistente de correo electrónico con IA",
+  "metaDescription": "Chiefy ayuda a los mushers a responder los correos electrónicos de reserva al instante, incluso desde el sendero. Respuestas redactadas por IA con sus tipos de recorridos, precios, políticas y voz.",
   "heroBadge": "Con la confianza de más de 200 mushers",
   "heroHeadline": "Tu asistente de correo electrónico mientras estás en el camino",
-  "heroSubline": "Duet aprende tus tipos de tours, precios, políticas climáticas y complementos, y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva debido a una respuesta lenta.",
+  "heroSubline": "Chiefy aprende tus tipos de tours, precios, políticas climáticas y complementos, y luego redacta respuestas por correo electrónico para que nunca pierdas una reserva debido a una respuesta lenta.",
   "inboxEmails": [
     {
       "from": "Raquel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "recorrido",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dos reservas guardadas pagan por un año de Duet."
+    "punchline": "Dos reservas guardadas pagan por un año de Chiefy."
   },
-  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas y nunca el ruido. No más perderse una consulta de recorrido oculta bajo alertas TripAdvisor.",
-  "draftSubtitle": "Duet aprende los tipos de recorrido, los precios y el tono. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del paquete, qué ponerse y complementos. Tu revisas y envías.",
-  "agentSubtitle": "\"¿Alguna reserva para este fin de semana?\" \"Redacta una respuesta sobre el combo aurora\". Duet conoce tu bandeja de entrada y tu horario, solo pregúntale.",
+  "categorizationSubtitle": "Chiefy etiqueta automáticamente cada correo electrónico para que veas primero las solicitudes de reserva, luego las preguntas y nunca el ruido. No más perderse una consulta de recorrido oculta bajo alertas TripAdvisor.",
+  "draftSubtitle": "Chiefy aprende los tipos de recorrido, los precios y el tono. Cuando llega una consulta de reserva, redacta una respuesta completa con los detalles del paquete, qué ponerse y complementos. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Alguna reserva para este fin de semana?\" \"Redacta una respuesta sobre el combo aurora\". Chiefy conoce tu bandeja de entrada y tu horario, solo pregúntale.",
   "categorizationEmails": [
     {
       "from": "Raquel T.",
@@ -127,31 +127,31 @@
     {
       "name": "ryan h.",
       "title": "Operador turístico de trineos tirados por perros, AK",
-      "quote": "Estoy en el camino 6 horas al día sin servicio celular. Cuando regresé, la mitad de las solicitudes de reserva se habían dirigido a otra empresa. Duet borradores de respuestas con los detalles y precios de mi recorrido: los huéspedes reciben respuesta en minutos, no en horas.",
+      "quote": "Estoy en el camino 6 horas al día sin servicio celular. Cuando regresé, la mitad de las solicitudes de reserva se habían dirigido a otra empresa. Chiefy borradores de respuestas con los detalles y precios de mi recorrido: los huéspedes reciben respuesta en minutos, no en horas.",
       "avatarKey": "michael"
     },
     {
       "name": "Megan K.",
       "title": "Propietario del Kennel & Mush Tour, AK",
-      "quote": "Ofrecemos visitas a perreras, paseos en papilla y combinaciones de auroras: cada correo electrónico necesita una respuesta diferente. Duet descubrió los tres tipos de giras en una semana y ahora redacta respuestas que siempre coinciden con el paquete correcto.",
+      "quote": "Ofrecemos visitas a perreras, paseos en papilla y combinaciones de auroras: cada correo electrónico necesita una respuesta diferente. Chiefy descubrió los tres tipos de giras en una semana y ahora redacta respuestas que siempre coinciden con el paquete correcto.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Guía de trineos tirados por perros, Minnesota",
-      "quote": "Solía ​​pasar todas las noches respondiendo las mismas preguntas sobre qué ponerme, límites de edad y los perros. Duet se encarga de todo. Llego a casa desde el sendero y todo está redactado y esperando.",
+      "quote": "Solía ​​pasar todas las noches respondiendo las mismas preguntas sobre qué ponerme, límites de edad y los perros. Chiefy se encarga de todo. Llego a casa desde el sendero y todo está redactado y esperando.",
       "avatarKey": "johnny"
     },
     {
       "name": "Annika S.",
       "title": "Aurora y operador turístico en trineo, AK",
-      "quote": "Las cancelaciones por clima son constantes en invierno. Duet redacta borradores de respuestas de reprogramación con nuestra política y fechas alternativas antes de que tenga la oportunidad de revisar mi teléfono. A los huéspedes les encanta la respuesta rápida.",
+      "quote": "Las cancelaciones por clima son constantes en invierno. Chiefy redacta borradores de respuestas de reprogramación con nuestra política y fechas alternativas antes de que tenga la oportunidad de revisar mi teléfono. A los huéspedes les encanta la respuesta rápida.",
       "avatarKey": "jennifer"
     },
     {
       "name": "cara d.",
       "title": "Aventuras familiares en trineos tirados por perros, CO",
-      "quote": "Los padres siempre preguntan si sus hijos saben hacer puré, si los perros son amigables, qué ponerse: las mismas 10 preguntas. Duet aprendió todas las respuestas y las redacta perfectamente. Es como clonarme para recibir correo electrónico.",
+      "quote": "Los padres siempre preguntan si sus hijos saben hacer puré, si los perros son amigables, qué ponerse: las mismas 10 preguntas. Chiefy aprendió todas las respuestas y las redacta perfectamente. Es como clonarme para recibir correo electrónico.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "¿Cómo maneja Duet las cancelaciones climáticas y la incertidumbre de las auroras?",
-      "answer": "Duet conoce sus políticas de cancelación y reprogramación. Cuando un huésped envía un correo electrónico sobre inquietudes sobre el clima o la visibilidad de la aurora, redacta una respuesta con su política, fechas alternativas y cualquier detalle relevante, como monitorear las condiciones y confirmar cuando se acerque el recorrido. Tu revisas y envías."
+      "question": "¿Cómo maneja Chiefy las cancelaciones climáticas y la incertidumbre de las auroras?",
+      "answer": "Chiefy conoce sus políticas de cancelación y reprogramación. Cuando un huésped envía un correo electrónico sobre inquietudes sobre el clima o la visibilidad de la aurora, redacta una respuesta con su política, fechas alternativas y cualquier detalle relevante, como monitorear las condiciones y confirmar cuando se acerque el recorrido. Tu revisas y envías."
     },
     {
-      "question": "Ofrezco múltiples tipos de tours con diferentes precios y complementos. ¿Puede Duet mantenerlos derechos?",
-      "answer": "Sí. Duet aprende cada uno de sus tipos de recorridos (visitas a perreras, experiencias de papilla, combinaciones de auroras, complementos de fotografía, paquetes de transporte) junto con su precio, duración y qué está incluido. Cuando llega una consulta, coincide con el recorrido correcto y redacta una respuesta con los detalles correctos."
+      "question": "Ofrezco múltiples tipos de tours con diferentes precios y complementos. ¿Puede Chiefy mantenerlos derechos?",
+      "answer": "Sí. Chiefy aprende cada uno de sus tipos de recorridos (visitas a perreras, experiencias de papilla, combinaciones de auroras, complementos de fotografía, paquetes de transporte) junto con su precio, duración y qué está incluido. Cuando llega una consulta, coincide con el recorrido correcto y redacta una respuesta con los detalles correctos."
     }
   ],
   "pricingNote": "A $150/tour, dos reservas guardadas pagan más de un año de Pro."

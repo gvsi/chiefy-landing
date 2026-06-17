@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mail za rafting in kajakaške ponudnike | AI e-poštni pomočnik",
-  "metaDescription": "Duet Mail pomaga rafting vodnikom in kajakaškim ponudnikom takoj odgovoriti na povpraševanja za izlete — tudi z reke. Osnutki odgovorov z umetno inteligenco s podrobnostmi izletov, cenami in vašim načinom pisanja.",
+  "pageTitle": "Chiefy za rafting in kajakaške ponudnike | AI e-poštni pomočnik",
+  "metaDescription": "Chiefy pomaga rafting vodnikom in kajakaškim ponudnikom takoj odgovoriti na povpraševanja za izlete — tudi z reke. Osnutki odgovorov z umetno inteligenco s podrobnostmi izletov, cenami in vašim načinom pisanja.",
   "heroBadge": "Zaupa mu več kot 200 rečnih vodnikov",
   "heroHeadline": "Vaš e-poštni pomočnik, ko ste na reki",
-  "heroSubline": "Duet se nauči vaših vrst izletov, cen in seznamov opreme — nato pripravlja odgovore na povpraševanja za rezervacije, da stranke dobijo informacije, medtem ko vi vozite brzice.",
+  "heroSubline": "Chiefy se nauči vaših vrst izletov, cen in seznamov opreme — nato pripravlja odgovore na povpraševanja za rezervacije, da stranke dobijo informacije, medtem ko vi vozite brzice.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "oseba",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dve rešeni rezervaciji pokrijeta celo leto uporabe Duet."
+    "punchline": "Dve rešeni rezervaciji pokrijeta celo leto uporabe Chiefy."
   },
-  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da povpraševanja za izlete pridejo na vrh, vprašanja o opremi so druga, promocijski šum pa izgine. Nič več zgrešenih skupinskih rezervacij, zakopanih pod opozorili TripAdvisor.",
-  "draftSubtitle": "Duet se nauči vaših vrst izletov, razredov brzic, seznamov opreme in pravil odpovedi. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor z vsem, kar stranka potrebuje. Vi ga pregledate in pošljete.",
-  "agentSubtitle": "\"Je še kaj prostih mest na sobotnem celodnevnem izletu?\" \"Pripravi odgovor Jennifer z razpoložljivostjo.\" Duet pozna vaš nabiralnik in urnik — samo vprašajte.",
+  "categorizationSubtitle": "Chiefy samodejno označi vsako e-pošto, da povpraševanja za izlete pridejo na vrh, vprašanja o opremi so druga, promocijski šum pa izgine. Nič več zgrešenih skupinskih rezervacij, zakopanih pod opozorili TripAdvisor.",
+  "draftSubtitle": "Chiefy se nauči vaših vrst izletov, razredov brzic, seznamov opreme in pravil odpovedi. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor z vsem, kar stranka potrebuje. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Je še kaj prostih mest na sobotnem celodnevnem izletu?\" \"Pripravi odgovor Jennifer z razpoložljivostjo.\" Chiefy pozna vaš nabiralnik in urnik — samo vprašajte.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Rafting operater, CO",
-      "quote": "V glavni sezoni sem na reki 6 dni na teden. Ko bi se vrnil k e-pošti, je polovica skupin že rezervirala pri nekom drugem. Zdaj Duet pripravlja odgovore s podrobnostmi izletov in cenami, medtem ko sem na vstopni točki.",
+      "quote": "V glavni sezoni sem na reki 6 dni na teden. Ko bi se vrnil k e-pošti, je polovica skupin že rezervirala pri nekom drugem. Zdaj Chiefy pripravlja odgovore s podrobnostmi izletov in cenami, medtem ko sem na vstopni točki.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Kajak in SUP izleti, OR",
-      "quote": "Vsaka stranka vpraša istih pet stvari — cene, kaj prinesti, raven znanja, velikost skupine, pravila odpovedi. Duet se je vsega naučil v prvem tednu. Iz ure e-pošte vsak večer sem prišla na pet minut pregledovanja osnutkov.",
+      "quote": "Vsaka stranka vpraša istih pet stvari — cene, kaj prinesti, raven znanja, velikost skupine, pravila odpovedi. Chiefy se je vsega naučil v prvem tednu. Iz ure e-pošte vsak večer sem prišla na pet minut pregledovanja osnutkov.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Vodnik večdnevnih ekspedicij, AK",
-      "quote": "Vodim 5-dnevne izlete brez signala. Pred Duet je vsako povpraševanje ostalo neodgovorjeno, dokler se nisem vrnil v mesto. Zdaj stranke dobijo podroben odgovor v minutah, jaz pa potrdim, ko sem z reke.",
+      "quote": "Vodim 5-dnevne izlete brez signala. Pred Chiefy je vsako povpraševanje ostalo neodgovorjeno, dokler se nisem vrnil v mesto. Zdaj stranke dobijo podroben odgovor v minutah, jaz pa potrdim, ko sem z reke.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "Vodja pisarne River Adventures, WV",
-      "quote": "Upravljam rezervacije za tri vodnike in štiri vrste izletov. Duet vsako e-pošto kategorizira po nujnosti in pripravi odgovore s pravim izletom, pravo ceno in pravim seznamom opreme. Kot da bi podvojila sebe.",
+      "quote": "Upravljam rezervacije za tri vodnike in štiri vrste izletov. Chiefy vsako e-pošto kategorizira po nujnosti in pripravi odgovore s pravim izletom, pravo ceno in pravim seznamom opreme. Kot da bi podvojila sebe.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
   "verticalFaqs": [
     {
-      "question": "Ali Duet obravnava prilagojene ponudbe izletov in povpraševanja za večdnevne ekspedicije?",
-      "answer": "Da. Duet se nauči celotne ponudbe vaših izletov — poldnevnih mirnih spustov, celodnevnih brzic, večdnevnih ekspedicij — skupaj s cenami, tem, kaj je vključeno, najnižjimi starostmi in težavnostnimi stopnjami. Ko nekdo vpraša po 3-dnevnem izletu za 6 oseb, pripravi celovit odgovor s pravimi podrobnostmi. Vi ga pregledate, po potrebi prilagodite in pošljete."
+      "question": "Ali Chiefy obravnava prilagojene ponudbe izletov in povpraševanja za večdnevne ekspedicije?",
+      "answer": "Da. Chiefy se nauči celotne ponudbe vaših izletov — poldnevnih mirnih spustov, celodnevnih brzic, večdnevnih ekspedicij — skupaj s cenami, tem, kaj je vključeno, najnižjimi starostmi in težavnostnimi stopnjami. Ko nekdo vpraša po 3-dnevnem izletu za 6 oseb, pripravi celovit odgovor s pravimi podrobnostmi. Vi ga pregledate, po potrebi prilagodite in pošljete."
     },
     {
-      "question": "Na večdnevnih izletih sem brez signala. Ali Duet še vedno deluje?",
-      "answer": "To je natanko težava, ki jo Duet rešuje. Medtem ko ste na reki brez signala, Duet pripravlja odgovore na vsako prispelo povpraševanje. Ko ste spet v dosegu, vas osnutki čakajo — samo pregledate jih in pošljete. Večina vodnikov nam pove, da odpravi zaostanek, s katerim so se prej soočali po vsakem večdnevnem izletu."
+      "question": "Na večdnevnih izletih sem brez signala. Ali Chiefy še vedno deluje?",
+      "answer": "To je natanko težava, ki jo Chiefy rešuje. Medtem ko ste na reki brez signala, Chiefy pripravlja odgovore na vsako prispelo povpraševanje. Ko ste spet v dosegu, vas osnutki čakajo — samo pregledate jih in pošljete. Večina vodnikov nam pove, da odpravi zaostanek, s katerim so se prej soočali po vsakem večdnevnem izletu."
     }
   ],
   "pricingNote": "Pri $150/osebo dve rešeni rezervaciji pokrijeta celo leto uporabe Pro."

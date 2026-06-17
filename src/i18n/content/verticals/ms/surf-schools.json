@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail untuk Sekolah Luncur dan Pengusaha Paddleboard | Pembantu E-mel AI",
-  "metaDescription": "Duet Mail membantu pengajar luncur dan pengusaha paddleboard membalas e-mel tempahan dengan segera — walaupun semasa mengajar. Balasan draf AI dengan jenis pelajaran, harga, dan suara anda.",
+  "pageTitle": "Chiefy untuk Sekolah Luncur dan Pengusaha Paddleboard | Pembantu E-mel AI",
+  "metaDescription": "Chiefy membantu pengajar luncur dan pengusaha paddleboard membalas e-mel tempahan dengan segera — walaupun semasa mengajar. Balasan draf AI dengan jenis pelajaran, harga, dan suara anda.",
   "heroBadge": "Dipercayai oleh 300+ pengajar luncur",
   "heroHeadline": "Pembantu e-mel anda semasa anda mengajar di atas air",
-  "heroSubline": "Duet mempelajari jenis pelajaran, harga, dan syarat anda — kemudian mendraf balasan e-mel supaya anda tidak kehilangan tempahan kerana respons yang lambat.",
+  "heroSubline": "Chiefy mempelajari jenis pelajaran, harga, dan syarat anda — kemudian mendraf balasan e-mel supaya anda tidak kehilangan tempahan kerana respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "pelajaran",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Dua tempahan yang diselamatkan sudah menampung kos setahun Duet."
+    "punchline": "Dua tempahan yang diselamatkan sudah menampung kos setahun Chiefy."
   },
-  "categorizationSubtitle": "Duet menandakan setiap e-mel secara automatik supaya anda nampak tempahan pelajaran dahulu, soalan kedua, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan kumpulan sekolah yang tersorok di bawah amaran Yelp.",
-  "draftSubtitle": "Duet mempelajari jenis pelajaran, harga kumpulan, dan nada anda. Apabila pertanyaan tempahan masuk, ia mendraf balasan lengkap dengan ketersediaan, apa yang termasuk, dan apa yang perlu dibawa. Anda semak dan hantar.",
-  "agentSubtitle": "\"Ada tempahan kumpulan yang akan datang minggu ini?\" \"Drafkan balasan kepada sekolah itu dengan ketersediaan.\" Duet tahu peti masuk dan jadual anda — cuma tanya.",
+  "categorizationSubtitle": "Chiefy menandakan setiap e-mel secara automatik supaya anda nampak tempahan pelajaran dahulu, soalan kedua, dan gangguan tidak sekali-kali. Tiada lagi terlepas pertanyaan kumpulan sekolah yang tersorok di bawah amaran Yelp.",
+  "draftSubtitle": "Chiefy mempelajari jenis pelajaran, harga kumpulan, dan nada anda. Apabila pertanyaan tempahan masuk, ia mendraf balasan lengkap dengan ketersediaan, apa yang termasuk, dan apa yang perlu dibawa. Anda semak dan hantar.",
+  "agentSubtitle": "\"Ada tempahan kumpulan yang akan datang minggu ini?\" \"Drafkan balasan kepada sekolah itu dengan ketersediaan.\" Chiefy tahu peti masuk dan jadual anda — cuma tanya.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Coach Mike T.",
       "title": "Pemilik Sekolah Luncur, CA",
-      "quote": "Saya berada di air mengajar 6 jam sehari. Pada masa saya semak e-mel, separuh tempahan sudah pergi kepada orang lain. Kini Duet menyediakan draf balasan dengan harga dan ketersediaan saya — saya hanya semak di antara sesi.",
+      "quote": "Saya berada di air mengajar 6 jam sehari. Pada masa saya semak e-mel, separuh tempahan sudah pergi kepada orang lain. Kini Chiefy menyediakan draf balasan dengan harga dan ketersediaan saya — saya hanya semak di antara sesi.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Pelajaran & Sewa Papan Dayung, HI",
-      "quote": "Kami mengendalikan pelajaran dan sewaan papan dari peti masuk yang sama. Duet terus memahami perbezaannya — soalan sewaan mendapat jawapan sewaan, pertanyaan pelajaran mendapat butiran pelajaran. Rasanya seperti ada kaunter depan.",
+      "quote": "Kami mengendalikan pelajaran dan sewaan papan dari peti masuk yang sama. Chiefy terus memahami perbezaannya — soalan sewaan mendapat jawapan sewaan, pertanyaan pelajaran mendapat butiran pelajaran. Rasanya seperti ada kaunter depan.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Pengajar Luncur, FL",
-      "quote": "Tempahan kumpulan sekolah dulu memerlukan 10 e-mel pergi balik. Kini Duet menyediakan draf balasan pertama dengan kadar kumpulan, apa yang termasuk, dan slip kebenaran. Memendekkan keseluruhan perbualan separuh.",
+      "quote": "Tempahan kumpulan sekolah dulu memerlukan 10 e-mel pergi balik. Kini Chiefy menyediakan draf balasan pertama dengan kadar kumpulan, apa yang termasuk, dan slip kebenaran. Memendekkan keseluruhan perbualan separuh.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "Lawatan & Pelajaran SUP, OR",
-      "quote": "Musim puncak benar-benar memenatkan saya — 30 e-mel sehari tentang keadaan, harga, apa yang perlu dibawa. Soalan yang sama lima perkara berulang kali. Duet mengurus semuanya dan bunyinya tepat seperti saya.",
+      "quote": "Musim puncak benar-benar memenatkan saya — 30 e-mel sehari tentang keadaan, harga, apa yang perlu dibawa. Soalan yang sama lima perkara berulang kali. Chiefy mengurus semuanya dan bunyinya tepat seperti saya.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Pengarah Kem Luncur Kanak-kanak, SC",
-      "quote": "Ibu bapa menghantar e-mel yang paling panjang. Tarikh kem, alahan, tahap kemahiran, masa pengambilan. Duet menyediakan draf balasan terperinci yang meliputi semuanya supaya saya tidak perlu menaip perenggan pada 10 PM selepas seharian di pantai.",
+      "quote": "Ibu bapa menghantar e-mel yang paling panjang. Tarikh kem, alahan, tahap kemahiran, masa pengambilan. Chiefy menyediakan draf balasan terperinci yang meliputi semuanya supaya saya tidak perlu menaip perenggan pada 10 PM selepas seharian di pantai.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulakan percubaan percuma anda. Sambungkan peti masuk anda dalam 30 saat.",
   "verticalFaqs": [
     {
-      "question": "Adakah Duet mengendalikan jenis pelajaran dan sewaan peralatan yang berbeza?",
-      "answer": "Ya. Duet mempelajari semua tawaran anda — pelajaran peribadi, pelajaran berkumpulan, kem kanak-kanak, sewaan papan, lawatan SUP. Apabila satu pertanyaan masuk, ia menyediakan draf balasan dengan harga yang betul, tempoh, apa yang termasuk, dan apa yang perlu dibawa. Ia tahu e-mel kumpulan sekolah memerlukan butiran yang berbeza berbanding tempahan pelajaran peribadi."
+      "question": "Adakah Chiefy mengendalikan jenis pelajaran dan sewaan peralatan yang berbeza?",
+      "answer": "Ya. Chiefy mempelajari semua tawaran anda — pelajaran peribadi, pelajaran berkumpulan, kem kanak-kanak, sewaan papan, lawatan SUP. Apabila satu pertanyaan masuk, ia menyediakan draf balasan dengan harga yang betul, tempoh, apa yang termasuk, dan apa yang perlu dibawa. Ia tahu e-mel kumpulan sekolah memerlukan butiran yang berbeza berbanding tempahan pelajaran peribadi."
     },
     {
       "question": "Bagaimana dengan soalan cuaca dan keadaan?",
-      "answer": "Duet mempelajari cara anda biasanya mengendalikan e-mel berkaitan keadaan — polisi anda tentang pembatalan, penjadualan semula, dan keadaan yang anda ajar. Apabila seseorang menghantar e-mel bertanya sama ada pelajaran mereka akan diteruskan, Duet menyediakan draf balasan yang sepadan dengan nada dan polisi biasa anda. Anda semak dan hantar dalam beberapa saat."
+      "answer": "Chiefy mempelajari cara anda biasanya mengendalikan e-mel berkaitan keadaan — polisi anda tentang pembatalan, penjadualan semula, dan keadaan yang anda ajar. Apabila seseorang menghantar e-mel bertanya sama ada pelajaran mereka akan diteruskan, Chiefy menyediakan draf balasan yang sepadan dengan nada dan polisi biasa anda. Anda semak dan hantar dalam beberapa saat."
     }
   ],
   "pricingNote": "Pada $90/lesson, dua tempahan yang disimpan membayar untuk lebih setahun Pro."

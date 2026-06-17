@@ -2,7 +2,7 @@
 title: "Gmail santraukų funkcijų išskaidymas"
 description: "Vargina el. pašto perkrova? Susipažinkite su Gemini paremtomis Gmail santraukų funkcijomis, jų privalumais ir trūkumais, ir įvertinkite, ar jų pakanka."
 publishedAt: 2025-09-26
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["DI", "Gmail", "El. pašto santraukos"]
 draft: false
 ---
@@ -133,7 +133,7 @@ Gmail nėra vienintelis, naudojantis DI el. pašto produktyvumui. Microsoft Copi
 
 Šalia šių integruotų gigantų egzistuoja auganti trečiųjų šalių DI el. pašto asistentų rinka. Tokie įrankiai kaip [Superhuman, Shortwave, SaneBox ir kiti](https://zapier.com/blog/best-ai-email-assistant/) siūlo įvairius požiūrius, kartais sutelkdami dėmesį į konkrečias nišas, pavyzdžiui, ypatingą greitį, pažangų filtravimą, komandinį bendradarbiavimą ar stipresnes privatumo funkcijas.
 
-Čia savo vietą randa tokie sprendimai kaip [Duet Mail](https://duetmail.com/lt). Nors vietiniai įrankiai siūlo bazines santraukas, jiems gali trūkti rafinuotumo, reikalingo sudėtingoms darbo eigoms arba tikrai asmeniniam tonui išlaikyti. Specializuoti asistentai dažnai sutelkia dėmesį į konkrečių skausmo taškų sprendimą, kuriuos integruoti įrankiai gali spręsti tik iš dalies.
+Čia savo vietą randa tokie sprendimai kaip [Chiefy](https://chiefy.com/lt). Nors vietiniai įrankiai siūlo bazines santraukas, jiems gali trūkti rafinuotumo, reikalingo sudėtingoms darbo eigoms arba tikrai asmeniniam tonui išlaikyti. Specializuoti asistentai dažnai sutelkia dėmesį į konkrečių skausmo taškų sprendimą, kuriuos integruoti įrankiai gali spręsti tik iš dalies.
 
 ## Ar vietinių Gmail santraukų jums pakanka?
 
@@ -151,7 +151,7 @@ Tačiau jos gali nepakakti, jei jums reikia:
 
 - **Stipresnių privatumo valdiklių:** Jei jums nepatogios didelių platformų duomenų tvarkymo praktikos arba jautriai komunikacijai reikia griežtesnio privatumo.
 
-Čia tampa aktualu tyrinėti specializuotus sprendimus. Pavyzdžiui, tokie įrankiai kaip [Duet Mail](https://duetmail.com/lt) sukurti būtent šioms spragoms spręsti. Tokios funkcijos kaip DI atranka peržengia santraukų ribas ir aktyviai atpažįsta bei sutelktame skydelyje iškelia skubius laiškus, kuriems reikia veiksmo ar sprendimo. Jo autentiškas DI juodraščių rengimas mokosi *jūsų* unikalaus rašymo stiliaus iš *jūsų* ankstesnių laiškų, generuodamas atsakymus, išlaikančius asmeninį balsą. Be to, išmanios santraukos derinamos su kontekstiniu suvokimu, prisimenant ankstesnes sąveikas ir projekto detales, kad santraukos būtų informuotesnės ir aktualesnės.
+Čia tampa aktualu tyrinėti specializuotus sprendimus. Pavyzdžiui, tokie įrankiai kaip [Chiefy](https://chiefy.com/lt) sukurti būtent šioms spragoms spręsti. Tokios funkcijos kaip DI atranka peržengia santraukų ribas ir aktyviai atpažįsta bei sutelktame skydelyje iškelia skubius laiškus, kuriems reikia veiksmo ar sprendimo. Jo autentiškas DI juodraščių rengimas mokosi *jūsų* unikalaus rašymo stiliaus iš *jūsų* ankstesnių laiškų, generuodamas atsakymus, išlaikančius asmeninį balsą. Be to, išmanios santraukos derinamos su kontekstiniu suvokimu, prisimenant ankstesnes sąveikas ir projekto detales, kad santraukos būtų informuotesnės ir aktualesnės.
 
 Jei Gmail vietinės funkcijos jums naudingos, bet vis dar kovojate su gautųjų chaosu, tikrai svarbių žinučių prioritetais arba per daug laiko praleidžiate taisydami DI juodraščius, kad jie skambėtų kaip jūs, specializuotas DI el. pašto asistentas gali būti kitas žingsnis optimizuojant darbo eigą.
 
@@ -163,4 +163,4 @@ Tačiau tai nėra stebuklinga lazdelė. Rūpesčiai dėl tikslumo, konteksto, pr
 
 Galiausiai geriausias kelias - išmintingai naudoti prieinamus įrankius. Eksperimentuokite su Gmail santraukomis, teikite grįžtamąjį ryšį ir nepamirškite jų ribų. O jei pasieksite integruoto DI galimybių ribą, verta pažvelgti į specializuotus sprendimus, sukurtus gilesniam kontekstui, autentiškesnei pagalbai ir tikrai išmaniajam gautųjų valdymui.
 
-Pasirengę patirti el. pašto valdymą, kuris supranta kontekstą ir skamba kaip jūs? [Sužinokite, kaip išmanios Duet Mail funkcijos gali pakeisti jūsų gautuosius jau šiandien.](https://duetmail.com/lt)
+Pasirengę patirti el. pašto valdymą, kuris supranta kontekstą ir skamba kaip jūs? [Sužinokite, kaip išmanios Chiefy funkcijos gali pakeisti jūsų gautuosius jau šiandien.](https://chiefy.com/lt)

@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail za organizatore vjenčanja | AI pomoćnik za e-poštu",
-  "metaDescription": "Duet Mail pomaže organizatorima vjenčanja da odmah odgovore na e-poruke klijenata i dobavljača — čak i iz pregleda mjesta događaja. Odgovori izrađeni AI s vašim paketima, kontaktima dobavljača i glasom.",
+  "pageTitle": "Chiefy za organizatore vjenčanja | AI pomoćnik za e-poštu",
+  "metaDescription": "Chiefy pomaže organizatorima vjenčanja da odmah odgovore na e-poruke klijenata i dobavljača — čak i iz pregleda mjesta događaja. Odgovori izrađeni AI s vašim paketima, kontaktima dobavljača i glasom.",
   "heroBadge": "Vjeruje mu više od 400 organizatora vjenčanja",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste na licu mjesta",
-  "heroSubline": "Duet saznaje vaše kontakte dobavljača, pakete i preferencije klijenata — zatim sastavlja skice odgovora e-poštom tako da parovi nikada ne čekaju dok vi koordinirate na terenu.",
+  "heroSubline": "Chiefy saznaje vaše kontakte dobavljača, pakete i preferencije klijenata — zatim sastavlja skice odgovora e-poštom tako da parovi nikada ne čekaju dok vi koordinirate na terenu.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "vjenčanje",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Jedan spremljeni klijent plaća više od 20 godina Duet."
+    "punchline": "Jedan spremljeni klijent plaća više od 20 godina Chiefy."
   },
-  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite par novih upita, zatim potvrde dobavljača, a buku s biltenom nikad. Nema više propuštanja zahtjeva za rezervaciju zakopanog pod upozorenjima Knot.",
-  "draftSubtitle": "Duet uči vaše pakete, željene dobavljače i ton. Kada se par raspita, sastavlja topao, potpun odgovor s vašom dostupnošću i sljedećim koracima. Vi pregledate i pošaljete.",
-  "agentSubtitle": "\"Koje su e-poruke dobavljača stigle za Thompsonovo vjenčanje?\" \"Nacrtajte ažuriranje vremenske trake za sve dobavljače za subotu.\" Duet poznaje vašu pristiglu poštu i klijente — samo pitajte.",
+  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite par novih upita, zatim potvrde dobavljača, a buku s biltenom nikad. Nema više propuštanja zahtjeva za rezervaciju zakopanog pod upozorenjima Knot.",
+  "draftSubtitle": "Chiefy uči vaše pakete, željene dobavljače i ton. Kada se par raspita, sastavlja topao, potpun odgovor s vašom dostupnošću i sljedećim koracima. Vi pregledate i pošaljete.",
+  "agentSubtitle": "\"Koje su e-poruke dobavljača stigle za Thompsonovo vjenčanje?\" \"Nacrtajte ažuriranje vremenske trake za sve dobavljače za subotu.\" Chiefy poznaje vašu pristiglu poštu i klijente — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique organizator vjenčanja, CO",
-      "quote": "Pola tjedna sam u planinskim mjestima s nultom mrežom. U međuvremenu mi parovi šalju e-poruke o rokovima i pitanjima o dobavljačima. Duet sastavlja odgovore s mojim točnim paketima i tonom — pregledavam ih kad se vratim u domet.",
+      "quote": "Pola tjedna sam u planinskim mjestima s nultom mrežom. U međuvremenu mi parovi šalju e-poruke o rokovima i pitanjima o dobavljačima. Chiefy sastavlja odgovore s mojim točnim paketima i tonom — pregledavam ih kad se vratim u domet.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Planer vjenčanja s punom uslugom, CA",
-      "quote": "Koordiniranje više od 10 dobavljača po vjenčanju znači da je moj sandučić ratna zona tijekom vrhunca sezone. Duet kategorizira e-poštu dobavljača odvojeno od e-pošte klijenata i sastavlja nacrte praćenja koje bih sam napisao. Sad zapravo spavam.",
+      "quote": "Koordiniranje više od 10 dobavljača po vjenčanju znači da je moj sandučić ratna zona tijekom vrhunca sezone. Chiefy kategorizira e-poštu dobavljača odvojeno od e-pošte klijenata i sastavlja nacrte praćenja koje bih sam napisao. Sad zapravo spavam.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Dan koordinatora, TX",
-      "quote": "Na dane vjenčanja nedostupan sam 14 sati neprekidno. Novi upiti stajali su bez odgovora do ponedjeljka. Sada ih Duet trenutno obrađuje i rezervirao sam 3 dodatna vjenčanja u ovom kvartalu samo zahvaljujući bržem vremenu odgovora.",
+      "quote": "Na dane vjenčanja nedostupan sam 14 sati neprekidno. Novi upiti stajali su bez odgovora do ponedjeljka. Sada ih Chiefy trenutno obrađuje i rezervirao sam 3 dodatna vjenčanja u ovom kvartalu samo zahvaljujući bržem vremenu odgovora.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destinacijski organizator vjenčanja, HI",
-      "quote": "Moji parovi dolaze iz cijelog svijeta i šalju e-poštu u svako doba. Duet je naučio moje odgovore na često postavljana pitanja - logistika mjesta održavanja, lokalni dobavljači, što očekivati ​​- i nacrte odgovora koji zvuče točno poput mene. Klijenti nemaju pojma.",
+      "quote": "Moji parovi dolaze iz cijelog svijeta i šalju e-poštu u svako doba. Chiefy je naučio moje odgovore na često postavljana pitanja - logistika mjesta održavanja, lokalni dobavljači, što očekivati ​​- i nacrte odgovora koji zvuče točno poput mene. Klijenti nemaju pojma.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Organizator vjenčanja i događaja, NY",
-      "quote": "Provodio sam 2 sata svake noći odgovarajući na ista pitanja o paketu i dostupnosti. Duet obrađuje stvari koje se ponavljaju tako da se mogu usredotočiti na kreativni rad koji zapravo volim. Isplatilo se u prvom tjednu.",
+      "quote": "Provodio sam 2 sata svake noći odgovarajući na ista pitanja o paketu i dostupnosti. Chiefy obrađuje stvari koje se ponavljaju tako da se mogu usredotočiti na kreativni rad koji zapravo volim. Isplatilo se u prvom tjednu.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite besplatno probno razdoblje. Povežite svoj inbox za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Radi li Duet sa svim e-porukama za koordinaciju dobavljača?",
-      "answer": "Da. Duet uči vaše kontakte dobavljača, preferirane dobavljače i kako komunicirate sa svakim od njih. Kategorizira e-poruke dobavljača prema vjenčanju i sastavlja odgovore s pravim pojedinostima — potvrde, naknadne radnje, ažuriranja vremenske trake. Vi pregledate i pošaljete. Obrađuje cvjećare, ugostitelje, prostore, DJ-eve, fotografe i sve druge dobavljače u vašem rolodexu."
+      "question": "Radi li Chiefy sa svim e-porukama za koordinaciju dobavljača?",
+      "answer": "Da. Chiefy uči vaše kontakte dobavljača, preferirane dobavljače i kako komunicirate sa svakim od njih. Kategorizira e-poruke dobavljača prema vjenčanju i sastavlja odgovore s pravim pojedinostima — potvrde, naknadne radnje, ažuriranja vremenske trake. Vi pregledate i pošaljete. Obrađuje cvjećare, ugostitelje, prostore, DJ-eve, fotografe i sve druge dobavljače u vašem rolodexu."
     },
     {
       "question": "Cijeli sam dan na licu mjesta na vjenčanjima i mjestima. Hoće li mi nedostajati novi upiti?",
-      "answer": "Upravo to rješava Duet. Kada par pošalje e-poštu s upitom o dostupnosti ili paketima dok se vi dogovarate na licu mjesta, Duet sastavlja topao, profesionalan odgovor s vašom stvarnom dostupnošću i sljedećim koracima. Pregledavate i šaljete kad god ste slobodni — čak i sa svog telefona između događaja. Većina planera kaže nam da im to štedi 1-2 sata vremena za e-poštu dnevno tijekom vrhunca sezone."
+      "answer": "Upravo to rješava Chiefy. Kada par pošalje e-poštu s upitom o dostupnosti ili paketima dok se vi dogovarate na licu mjesta, Chiefy sastavlja topao, profesionalan odgovor s vašom stvarnom dostupnošću i sljedećim koracima. Pregledavate i šaljete kad god ste slobodni — čak i sa svog telefona između događaja. Većina planera kaže nam da im to štedi 1-2 sata vremena za e-poštu dnevno tijekom vrhunca sezone."
     }
   ],
   "pricingNote": "Uz 8000 dolara po vjenčanju, jedan ušteđeni klijent plaća više od 20 godina Pro-a."

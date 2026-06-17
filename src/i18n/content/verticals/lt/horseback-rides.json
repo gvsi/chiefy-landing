@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail pasivažinėjimams žirgais ir gidams |AI el. pašto padėjėjas",
-  "metaDescription": "Duet Mail padeda važiavimo takais operatoriams akimirksniu atsakyti į rezervavimo el. laiškus – net ir iš balno.AI parengti atsakymai su jūsų kainodara, vairuotojo reikalavimais ir balsu.",
+  "pageTitle": "Chiefy pasivažinėjimams žirgais ir gidams |AI el. pašto padėjėjas",
+  "metaDescription": "Chiefy padeda važiavimo takais operatoriams akimirksniu atsakyti į rezervavimo el. laiškus – net ir iš balno.AI parengti atsakymai su jūsų kainodara, vairuotojo reikalavimais ir balsu.",
   "heroBadge": "Pasitiki daugiau nei 300 gidų",
   "heroHeadline": "Jūsų el. pašto asistentas, kai esate kelyje",
-  "heroSubline": "Duet sužino jūsų važiavimo tipus, kainas, motociklininko reikalavimus ir trasos sąlygas – tada parengia atsakymų el. paštu juodraščius, kad niekada neprarastumėte užsakymo dėl lėto atsakymo.",
+  "heroSubline": "Chiefy sužino jūsų važiavimo tipus, kainas, motociklininko reikalavimus ir trasos sąlygas – tada parengia atsakymų el. paštu juodraščius, kad niekada neprarastumėte užsakymo dėl lėto atsakymo.",
   "inboxEmails": [
     {
       "from": "Džesika T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "važiuoti",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Vienas sutaupytas važiavimas grupe moka daugiau nei dvejus metus Duet."
+    "punchline": "Vienas sutaupytas važiavimas grupe moka daugiau nei dvejus metus Chiefy."
   },
-  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, paskui – motociklininko klausimus, o triukšmą – niekada. Daugiau netrūksta grupės užklausos, paslėptos poTripAdvisorįspėjimais.",
-  "draftSubtitle": "Duet sužino jūsų važiavimo tipus, kainas ir reikalavimus. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia trasos informacija, kainomis ir tuo, ką dėvėti. Jūs peržiūrite ir siunčiate.",
-  "agentSubtitle": "„Ar šį savaitgalį atidaromi atrakcionai? „Surašyk atsakymą Jessicai, jei bus pasiekiamas šeštadienį“. Duet žino jūsų gautuosius ir kalendorių – tiesiog paklauskite.",
+  "categorizationSubtitle": "Chiefy automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, paskui – motociklininko klausimus, o triukšmą – niekada. Daugiau netrūksta grupės užklausos, paslėptos poTripAdvisorįspėjimais.",
+  "draftSubtitle": "Chiefy sužino jūsų važiavimo tipus, kainas ir reikalavimus. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia trasos informacija, kainomis ir tuo, ką dėvėti. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "„Ar šį savaitgalį atidaromi atrakcionai? „Surašyk atsakymą Jessicai, jei bus pasiekiamas šeštadienį“. Chiefy žino jūsų gautuosius ir kalendorių – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Džesika T.",
@@ -127,31 +127,31 @@
     {
       "name": "Džeikas H.",
       "title": "Ranch Owner & Trail Guide, MT",
-      "quote": "Aš vaikščioju 6 valandas per dieną be mobiliojo ryšio paslaugų. Kol grįžau atsakyti, pusė žmonių buvo užsisakę kur nors kitur. Dabar Duet rengiu atsakymų juodraščius su mano kainodara ir informacija apie važiavimą – aš tiesiog peržiūriu ir išsiunčiau, kai grįžtu į tvartą.",
+      "quote": "Aš vaikščioju 6 valandas per dieną be mobiliojo ryšio paslaugų. Kol grįžau atsakyti, pusė žmonių buvo užsisakę kur nors kitur. Dabar Chiefy rengiu atsakymų juodraščius su mano kainodara ir informacija apie važiavimą – aš tiesiog peržiūriu ir išsiunčiau, kai grįžtu į tvartą.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Žirgų kelionių organizatorius, AZ",
-      "quote": "Gauname dešimtis el. laiškų, kuriuose klausiama to paties – svorio apribojimai, ką dėvėti, amžiaus reikalavimai. Duet tvarko visa tai ir atsakymai skamba lygiai taip pat, kaip aš. Mano svečiai neįsivaizduoja, kad tai AI.",
+      "quote": "Gauname dešimtis el. laiškų, kuriuose klausiama to paties – svorio apribojimai, ką dėvėti, amžiaus reikalavimai. Chiefy tvarko visa tai ir atsakymai skamba lygiai taip pat, kaip aš. Mano svečiai neįsivaizduoja, kad tai AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Taileris S.",
       "title": "„Trail Ride Guide“, CO",
-      "quote": "Piko sezonas mane žudė. Daugiau nei 30 el. laiškų per dieną be bėgimo. Duet surūšiuoja užsakymo užklausas pagal triukšmą ir parengia atsakymų juodraščius, kuriuose yra viskas – kaina, ką atsinešti, aikštelė. Atgavau vakarus.",
+      "quote": "Piko sezonas mane žudė. Daugiau nei 30 el. laiškų per dieną be bėgimo. Chiefy surūšiuoja užsakymo užklausas pagal triukšmą ir parengia atsakymų juodraščius, kuriuose yra viskas – kaina, ką atsinešti, aikštelė. Atgavau vakarus.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Jojimo instruktorius ir užsakymų vadybininkas, TX",
-      "quote": "Vykdome saulėlydžio, ryto pasivažinėjimus ir privačias pamokas, kurių kainos ir reikalavimai skiriasi. Duet visa tai išmoko per savaitę. Jis kiekvieną kartą parengia tinkamą atsakymą tinkamam važiavimo tipui.",
+      "quote": "Vykdome saulėlydžio, ryto pasivažinėjimus ir privačias pamokas, kurių kainos ir reikalavimai skiriasi. Chiefy visa tai išmoko per savaitę. Jis kiekvieną kartą parengia tinkamą atsakymą tinkamam važiavimo tipui.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "Skelbtini el. laiškai buvo patys blogiausi – kažkas klausia, ar jie per sunkūs, ar jų vaikas pakankamai senas. Duet su jais elgiasi taip pat atsargiai, kaip ir aš. Profesionalus, malonus ir tikslus. Vien tai verta.",
+      "quote": "Skelbtini el. laiškai buvo patys blogiausi – kažkas klausia, ar jie per sunkūs, ar jų vaikas pakankamai senas. Chiefy su jais elgiasi taip pat atsargiai, kaip ir aš. Profesionalus, malonus ir tikslus. Vien tai verta.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "Kaip Duet sprendžia jautrius klausimus apie svorio ar patirties reikalavimus?",
-      "answer": "Duet sužino jūsų konkrečią politiką ir atspindi jūsų toną. Kai kas nors klausia apie svorio apribojimus ar patirties reikalavimus, jis atsako profesionaliai ir šiltai – dalijasi reikiama informacija, nesukeldamas jos nepatogumų. Jūs nustatote toną vieną kartą, o Duet jo laikosi nuolat, todėl kiekvienas svečias jaučiasi gerbiamas."
+      "question": "Kaip Chiefy sprendžia jautrius klausimus apie svorio ar patirties reikalavimus?",
+      "answer": "Chiefy sužino jūsų konkrečią politiką ir atspindi jūsų toną. Kai kas nors klausia apie svorio apribojimus ar patirties reikalavimus, jis atsako profesionaliai ir šiltai – dalijasi reikiama informacija, nesukeldamas jos nepatogumų. Jūs nustatote toną vieną kartą, o Chiefy jo laikosi nuolat, todėl kiekvienas svečias jaučiasi gerbiamas."
     },
     {
-      "question": "Ar Duet gali tvarkyti grupinius užsakymus su skirtingais motociklininkų poreikiais?",
-      "answer": "Taip. Duet sužino jūsų važiavimo tipus, grupių dydžius, minimalų amžių ir visus motociklininkui būdingus reikalavimus. Kai šeima ar grupė siunčia el. laišką apie rezervavimą, ji parengia atsakymo juodraštį, kuriame nurodoma visos grupės kaina, tai, ką turi žinoti kiekvienas motociklininkas, ir galimi laiko tarpai. Jūs peržiūrite ir siunčiate – nereikia pirmyn ir atgal."
+      "question": "Ar Chiefy gali tvarkyti grupinius užsakymus su skirtingais motociklininkų poreikiais?",
+      "answer": "Taip. Chiefy sužino jūsų važiavimo tipus, grupių dydžius, minimalų amžių ir visus motociklininkui būdingus reikalavimus. Kai šeima ar grupė siunčia el. laišką apie rezervavimą, ji parengia atsakymo juodraštį, kuriame nurodoma visos grupės kaina, tai, ką turi žinoti kiekvienas motociklininkas, ir galimi laiko tarpai. Jūs peržiūrite ir siunčiate – nereikia pirmyn ir atgal."
     }
   ],
   "pricingNote": "100 USD/asmeniui 6 asmenų grupei vienas sutaupytas važiavimas moka daugiau nei dvejus metus Pro."

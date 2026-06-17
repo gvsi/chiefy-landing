@@ -2,7 +2,7 @@
 title: "Automatizuokite el. laiškus Gmail ir susigrąžinkite savo dieną: užsiėmusio profesionalo gidas 2025 m."
 description: "Nustokite skęsti savo gautuosiuose! Sužinokite, kaip automatizuoti el. laiškus Gmail naudojant integruotas funkcijas, plėtinius ir DI asistentus, kad sutaupytumėte valandų ir padidintumėte produktyvumą"
 publishedAt: 2025-11-16
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Productivity", "Automation"]
 draft: false
 ---
@@ -107,15 +107,15 @@ DI asistentai naudoja mašininį mokymąsi ir natūralios kalbos apdorojimą, ka
 
 ### DI pagrįsta atranka: esmės radimas triukšme
 
-Jaučiatės priblokšti vien dėl kiekio? DI atranka veikia kaip virtualus asistentas, peržiūrintis jūsų gautuosius ir iškeliantis tai, kas iš tiesų reikalauja jūsų dėmesio. Analizuodami įvairius signalus, šie įrankiai automatiškai suskirsto žinutes į kategorijas ir suteikia joms prioritetus, nustumdami į šalį žemesnio prioriteto elementus (pvz., naujienlaiškius ar pranešimus) ir išryškindami skubius prašymus ar svarbius laiškus. Tokie įrankiai kaip [Emilio](https://getemil.io/blog/ai-email-triage/) ar [Mailmodo](https://www.mailmodo.com/guides/ai-email-triage/) aprašyta sistema yra šio požiūrio pavyzdžiai. Būtent čia tokie įrankiai kaip [**Duet Mail**](https://duetmail.com/lt) gali būti ypač naudingi, nes naudodami savo DI atranką analizuoja skubumą ir reikalingus veiksmus, pateikdami juos Focused Dashboard, kad iš karto matytumėte, kam reikia dėmesio, ir smarkiai sutrumpintumėte rūšiavimo laiką.
+Jaučiatės priblokšti vien dėl kiekio? DI atranka veikia kaip virtualus asistentas, peržiūrintis jūsų gautuosius ir iškeliantis tai, kas iš tiesų reikalauja jūsų dėmesio. Analizuodami įvairius signalus, šie įrankiai automatiškai suskirsto žinutes į kategorijas ir suteikia joms prioritetus, nustumdami į šalį žemesnio prioriteto elementus (pvz., naujienlaiškius ar pranešimus) ir išryškindami skubius prašymus ar svarbius laiškus. Tokie įrankiai kaip [Emilio](https://getemil.io/blog/ai-email-triage/) ar [Mailmodo](https://www.mailmodo.com/guides/ai-email-triage/) aprašyta sistema yra šio požiūrio pavyzdžiai. Būtent čia tokie įrankiai kaip [**Chiefy**](https://chiefy.com/lt) gali būti ypač naudingi, nes naudodami savo DI atranką analizuoja skubumą ir reikalingus veiksmus, pateikdami juos Focused Dashboard, kad iš karto matytumėte, kam reikia dėmesio, ir smarkiai sutrumpintumėte rūšiavimo laiką.
 
 ### Išmanios santraukos: akimirksniu supraskite ilgas gijas
 
-Įšokti į ilgą el. laiškų grandinę gali atrodyti kaip detektyvinis darbas. DI santraukų įrankiai perskaito visą giją ir per kelias sekundes pateikia esmę – pagrindinius sprendimus, neatsakytus klausimus ir veiksmus. Tai sutaupo vertingo laiko, kurį kitu atveju skirtumėte viskam perskaityti iš naujo. Pirmaujantys įrankiai, tokie kaip [Superhuman](https://superhuman.com/) ir pačių Google [Gemini for Gmail](https://workspace.google.com/solutions/ai/), siūlo šią galimybę. Panašiai **Duet Mail** naudoja Smart Summarization su Contextual Awareness, užtikrindamas, kad gautumėte ne tik santrauką, bet ir į ją būtų įtrauktos svarbios detalės iš ankstesnių sąveikų ar projekto konteksto.
+Įšokti į ilgą el. laiškų grandinę gali atrodyti kaip detektyvinis darbas. DI santraukų įrankiai perskaito visą giją ir per kelias sekundes pateikia esmę – pagrindinius sprendimus, neatsakytus klausimus ir veiksmus. Tai sutaupo vertingo laiko, kurį kitu atveju skirtumėte viskam perskaityti iš naujo. Pirmaujantys įrankiai, tokie kaip [Superhuman](https://superhuman.com/) ir pačių Google [Gemini for Gmail](https://workspace.google.com/solutions/ai/), siūlo šią galimybę. Panašiai **Chiefy** naudoja Smart Summarization su Contextual Awareness, užtikrindamas, kad gautumėte ne tik santrauką, bet ir į ją būtų įtrauktos svarbios detalės iš ankstesnių sąveikų ar projekto konteksto.
 
 ### Autentiškas DI juodraščių rengimas: atsakykite greičiau, skambėkite kaip jūs
 
-Atsakymų rašymas, ypač rutininių, suryja valandas. DI gali sugeneruoti atsakymų juodraščius pagal el. laiško kontekstą, dažnai pasiūlydamas kelis variantus. Pagrindinis iššūkis – išlaikyti autentišką jūsų balsą. Pažangūs DI asistentai vis labiau orientuojasi į jūsų unikalaus bendravimo stiliaus, žodyno ir tono mokymąsi iš jūsų anksčiau siųstų laiškų. Tai reiškia, kad jų siūlomi juodraščiai atrodo mažiau robotizuoti ir labiau panašūs į tai, ką iš tiesų rašytumėte patys. Ši galimybė yra **Duet Mail** Authentic AI Drafting esmė, nes ji specialiai orientuota į *jūsų* balso mokymąsi, kad greitai sugeneruotų suasmenintus, natūraliai skambančius atsakymus.
+Atsakymų rašymas, ypač rutininių, suryja valandas. DI gali sugeneruoti atsakymų juodraščius pagal el. laiško kontekstą, dažnai pasiūlydamas kelis variantus. Pagrindinis iššūkis – išlaikyti autentišką jūsų balsą. Pažangūs DI asistentai vis labiau orientuojasi į jūsų unikalaus bendravimo stiliaus, žodyno ir tono mokymąsi iš jūsų anksčiau siųstų laiškų. Tai reiškia, kad jų siūlomi juodraščiai atrodo mažiau robotizuoti ir labiau panašūs į tai, ką iš tiesų rašytumėte patys. Ši galimybė yra **Chiefy** Authentic AI Drafting esmė, nes ji specialiai orientuota į *jūsų* balso mokymąsi, kad greitai sugeneruotų suasmenintus, natūraliai skambančius atsakymus.
 
 DI el. pašto erdvė sparčiai vystosi, o daugybė įrankių, tokių kaip [MailMaestro](https://www.maestrolabs.com/), [SaneBox](https://www.sanebox.com/) ir kiti, siūlo įvairias šių išmaniųjų funkcijų kombinacijas, dažnai tiesiogiai integruotas į Gmail per plėtinius arba atskiras programas.
 
@@ -156,4 +156,4 @@ Tikslas yra ne tik tušti gautieji, bet ir labiau susitelkusi, produktyvesnė be
 
 Susigrąžinkite savo laiką ir sumažinkite el. pašto keliamą stresą naudodami veiksmingą automatizavimą.
 
-Pasiruošę įveikti savo gautuosius? Išbandykite filtrų nustatymą jau šiandien, raskite plėtinį konkrečiam poreikiui arba sužinokite, kaip DI asistentas, toks kaip [**Duet Mail**](https://duetmail.com/lt), gali išmaniai automatizuoti atranką, santraukų rengimą ir juodraščių kūrimą, kad pakeistų jūsų darbo eigą.
+Pasiruošę įveikti savo gautuosius? Išbandykite filtrų nustatymą jau šiandien, raskite plėtinį konkrečiam poreikiui arba sužinokite, kaip DI asistentas, toks kaip [**Chiefy**](https://chiefy.com/lt), gali išmaniai automatizuoti atranką, santraukų rengimą ir juodraščių kūrimą, kad pakeistų jūsų darbo eigą.

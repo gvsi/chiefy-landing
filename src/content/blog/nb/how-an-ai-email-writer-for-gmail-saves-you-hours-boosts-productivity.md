@@ -2,7 +2,7 @@
 title: "Slik sparer en AI-skriveassistent for Gmail deg timer og oker produktiviteten"
 description: "Drukner du i e-post? Se hvordan en AI-skriveassistent for Gmail kan skrive utkast, oppsummere tråder og gi deg arbeidsdagen tilbake."
 publishedAt: 2025-07-25
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Produktivitet", "E-postskriving"]
 draft: false
 ---
@@ -45,9 +45,9 @@ For du svarer på en lang tråd, trenger du kjernen: hva skjedde, hva er bestemt
 4. **Bruk maler for gjentakende situasjoner.** AI fungerer best når den får tydelig intensjon.
 5. **Hold sensitiv informasjon trygg.** Bruk profesjonelle verktoy som er laget for e-postarbeidsflyten din.
 
-## Hvor Duet Mail passer inn
+## Hvor Chiefy passer inn
 
-[**Duet Mail**](https://duetmail.com/nb) kombinerer AI-utkast med kontekst og triage. Det betyr at du ikke bare får et tilfeldig svarforslag; du får hjelp basert på tråden, prioriteten og måten du vanligvis skriver på. Når en melding krever handling, kan Duet Mail lofte den frem, oppsummere innholdet og hjelpe deg med et svar som er raskt å ferdigstille.
+[**Chiefy**](https://chiefy.com/nb) kombinerer AI-utkast med kontekst og triage. Det betyr at du ikke bare får et tilfeldig svarforslag; du får hjelp basert på tråden, prioriteten og måten du vanligvis skriver på. Når en melding krever handling, kan Chiefy lofte den frem, oppsummere innholdet og hjelpe deg med et svar som er raskt å ferdigstille.
 
 ## Eksempler på nyttige AI-utkast
 
@@ -61,4 +61,4 @@ For du svarer på en lang tråd, trenger du kjernen: hva skjedde, hva er bestemt
 
 En AI-skriveassistent for Gmail handler ikke om å outsource kommunikasjon. Den handler om å fjerne friksjonen rundt forsteutkast, kontekst og oppfolging, slik at du kan bruke mer energi på vurderingene som faktisk krever deg.
 
-Vil du skrive raskere svar uten å miste stemmen din? Se hvordan [**Duet Mail**](https://duetmail.com/nb) hjelper Gmail-brukere med triage, oppsummering og autentiske AI-utkast.
+Vil du skrive raskere svar uten å miste stemmen din? Se hvordan [**Chiefy**](https://chiefy.com/nb) hjelper Gmail-brukere med triage, oppsummering og autentiske AI-utkast.

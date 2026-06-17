@@ -2,7 +2,7 @@
 title: "Celovit vodnik po HTML nogah e-poštnih sporočil: skladnost, oblikovanje in primeri"
 description: "Obvladajte HTML noge e-pošte: ključni elementi, oblikovni nasveti, pravna skladnost (CAN-SPAM, GDPR, CASL) in primeri znamčenja."
 publishedAt: 2026-01-05
-author: "Ekipa Duet Mail"
+author: "Ekipa Chiefy"
 tags: ["AI", "E-pošta"]
 draft: false
 ---
@@ -122,4 +122,4 @@ HTML noga e-pošte je morda zadnja stvar, ki jo prejemniki vidijo, vendar ne bi 
 
 Gradi zaupanje, krepi vašo znamko, zagotavlja skladnost in občinstvu ponuja uporabno navigacijo. Vzemite si nekaj trenutkov in preglejte svojo trenutno nogo e-pošte. Je skladna? Je jasna? Je prijazna do mobilnih naprav? Te majhne izboljšave lahko močno vplivajo na to, kako ljudje dojemajo vaša sporočila in vašo znamko.
 
-Iščete načine, kako narediti celotno upravljanje e-pošte učinkovitejše in bolj profesionalno? Razmislite o orodjih, zasnovanih za zaposlene strokovnjake. Če na primer spoznate, kako [Duet Mail poenostavi e-poštno produktivnost](https://duetmail.com/sl) s funkcijami, ki jih poganja AI, vam lahko ostane več časa za izpopolnjevanje podrobnosti, kot je noga, in za to, da vsako sporočilo dobro predstavlja vas.
+Iščete načine, kako narediti celotno upravljanje e-pošte učinkovitejše in bolj profesionalno? Razmislite o orodjih, zasnovanih za zaposlene strokovnjake. Če na primer spoznate, kako [Chiefy poenostavi e-poštno produktivnost](https://chiefy.com/sl) s funkcijami, ki jih poganja AI, vam lahko ostane več časa za izpopolnjevanje podrobnosti, kot je noga, in za to, da vsako sporočilo dobro predstavlja vas.

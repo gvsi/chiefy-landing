@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail pour les circuits en VTT et UTV | Assistant email IA",
-  "metaDescription": "Duet Mail aide les guides de circuits en VTT et UTV à répondre instantanément aux emails de réservation, même depuis les sentiers. Des réponses rédigées par l’IA avec vos tarifs, vos exigences et votre ton.",
+  "pageTitle": "Chiefy pour les circuits en VTT et UTV | Assistant email IA",
+  "metaDescription": "Chiefy aide les guides de circuits en VTT et UTV à répondre instantanément aux emails de réservation, même depuis les sentiers. Des réponses rédigées par l’IA avec vos tarifs, vos exigences et votre ton.",
   "heroBadge": "Plébiscité par plus de 200 guides de circuits",
   "heroHeadline": "Votre assistant email pendant que vous êtes sur le sentier",
-  "heroSubline": "Duet apprend vos types de circuits, vos tarifs et les exigences pour les conducteurs, puis rédige les réponses aux emails pour que vous ne perdiez jamais une réservation à cause d’une réponse trop lente.",
+  "heroSubline": "Chiefy apprend vos types de circuits, vos tarifs et les exigences pour les conducteurs, puis rédige les réponses aux emails pour que vous ne perdiez jamais une réservation à cause d’une réponse trop lente.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "groupe (4 machines)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Une réservation de groupe enregistrée rembourse une année de Duet."
+    "punchline": "Une réservation de groupe enregistrée rembourse une année de Chiefy."
   },
-  "categorizationSubtitle": "Duet étiquette automatiquement chaque e-mail afin que vous voyiez d’abord les demandes de réservation, ensuite les questions d’assurance, et jamais le bruit parasite. Plus besoin de manquer une demande de groupe enfouie sous les alertes TripAdvisor.",
-  "draftSubtitle": "Duet apprend vos itinéraires, vos tarifs et les exigences pour les passagers. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du trajet, les tarifs et ce qu’il faut apporter. Vous relisez et envoyez.",
-  "agentSubtitle": "\"Des groupes sont-ils déjà réservés pour ce week-end ?\" \"Rédige une réponse à Rachel avec les disponibilités de samedi.\" Duet connaît votre boîte de réception et votre emploi du temps — demandez-lui simplement.",
+  "categorizationSubtitle": "Chiefy étiquette automatiquement chaque e-mail afin que vous voyiez d’abord les demandes de réservation, ensuite les questions d’assurance, et jamais le bruit parasite. Plus besoin de manquer une demande de groupe enfouie sous les alertes TripAdvisor.",
+  "draftSubtitle": "Chiefy apprend vos itinéraires, vos tarifs et les exigences pour les passagers. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du trajet, les tarifs et ce qu’il faut apporter. Vous relisez et envoyez.",
+  "agentSubtitle": "\"Des groupes sont-ils déjà réservés pour ce week-end ?\" \"Rédige une réponse à Rachel avec les disponibilités de samedi.\" Chiefy connaît votre boîte de réception et votre emploi du temps — demandez-lui simplement.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "Guide ATV, sud de l’Utah",
-      "quote": "Je dirige des tours de 8 heures à travers les canyons, sans aucun service mobile. Le temps que je revienne, la moitié de mes e-mails de réservation étaient déjà devenus froids. Duet rédige des réponses avec mes tarifs et les infos sur les parcours — je n’ai plus qu’à les relire en fin de journée.",
+      "quote": "Je dirige des tours de 8 heures à travers les canyons, sans aucun service mobile. Le temps que je revienne, la moitié de mes e-mails de réservation étaient déjà devenus froids. Chiefy rédige des réponses avec mes tarifs et les infos sur les parcours — je n’ai plus qu’à les relire en fin de journée.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "Opérateur de tours UTV, Colorado",
-      "quote": "Nous organisons des tours 7 jours sur 7, et les questions sur l’assurance et les décharges me prenaient à elles seules mes matinées. Duet s’occupe de tout — conditions pour les passagers, restrictions d’âge, quoi apporter. On dirait exactement moi.",
+      "quote": "Nous organisons des tours 7 jours sur 7, et les questions sur l’assurance et les décharges me prenaient à elles seules mes matinées. Chiefy s’occupe de tout — conditions pour les passagers, restrictions d’âge, quoi apporter. On dirait exactement moi.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Guide de tours en Jeep, Moab",
-      "quote": "Les gens écrivent pour demander quel parcours convient à leur groupe, quel niveau d’expérience est nécessaire, si les enfants peuvent participer. Les 5 mêmes questions, encore et encore. Duet répond parfaitement à chacune.",
+      "quote": "Les gens écrivent pour demander quel parcours convient à leur groupe, quel niveau d’expérience est nécessaire, si les enfants peuvent participer. Les 5 mêmes questions, encore et encore. Chiefy répond parfaitement à chacune.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Aventures tout-terrain, AZ",
-      "quote": "Je passais plus d’une heure chaque soir à répondre aux mêmes questions sur les disponibilités. Maintenant, Duet rédige les réponses pendant que je suis sur les sentiers. Mon temps de réponse est passé de quelques heures à quelques minutes.",
+      "quote": "Je passais plus d’une heure chaque soir à répondre aux mêmes questions sur les disponibilités. Maintenant, Chiefy rédige les réponses pendant que je suis sur les sentiers. Mon temps de réponse est passé de quelques heures à quelques minutes.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Tours ATV familiaux, Sedona",
-      "quote": "Nous recevons beaucoup de familles qui demandent quels parcours sont adaptés aux débutants et quelles sont les conditions d’âge. Duet a appris toutes nos options de tour et recommande la bonne dans chaque réponse. Les clients ne voient pas la différence.",
+      "quote": "Nous recevons beaucoup de familles qui demandent quels parcours sont adaptés aux débutants et quelles sont les conditions d’âge. Chiefy a appris toutes nos options de tour et recommande la bonne dans chaque réponse. Les clients ne voient pas la différence.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Est-ce que Duet gère les questions sur l’assurance et les décharges de responsabilité ?",
-      "answer": "Oui. Duet apprend les exigences de vos guides — assurance responsabilité civile, restrictions d’âge, détails des décharges, ce que les participants doivent apporter. Quand quelqu’un envoie un e-mail pour demander ce qu’il lui faut avant sa sortie, Duet rédige une réponse complète avec tous les détails. Vous relisez et appuyez sur envoyer."
+      "question": "Est-ce que Chiefy gère les questions sur l’assurance et les décharges de responsabilité ?",
+      "answer": "Oui. Chiefy apprend les exigences de vos guides — assurance responsabilité civile, restrictions d’âge, détails des décharges, ce que les participants doivent apporter. Quand quelqu’un envoie un e-mail pour demander ce qu’il lui faut avant sa sortie, Chiefy rédige une réponse complète avec tous les détails. Vous relisez et appuyez sur envoyer."
     },
     {
-      "question": "Je suis sur les sentiers toute la journée sans réseau. Comment Duet m’aide-t-il ?",
-      "answer": "C’est exactement pour ça que les guides adorent Duet. Pendant que vous encadrez une excursion de 6 à 8 heures sans signal, les demandes de réservation s’accumulent. Duet rédige des réponses à chacune d’elles — tarifs, disponibilités, lieu de rendez-vous, tenue à prévoir. À votre retour, vous relisez les brouillons et envoyez. La plupart des guides nous disent que cela leur fait gagner 1 à 2 heures de temps consacré aux e-mails par jour pendant la haute saison."
+      "question": "Je suis sur les sentiers toute la journée sans réseau. Comment Chiefy m’aide-t-il ?",
+      "answer": "C’est exactement pour ça que les guides adorent Chiefy. Pendant que vous encadrez une excursion de 6 à 8 heures sans signal, les demandes de réservation s’accumulent. Chiefy rédige des réponses à chacune d’elles — tarifs, disponibilités, lieu de rendez-vous, tenue à prévoir. À votre retour, vous relisez les brouillons et envoyez. La plupart des guides nous disent que cela leur fait gagner 1 à 2 heures de temps consacré aux e-mails par jour pendant la haute saison."
     }
   ],
   "pricingNote": "À 200 $/machine, un groupe de 4 économisé paie plus d’un an de Pro."

@@ -2,7 +2,7 @@
 title: "Bu Temel Gmail Organizasyon Araçları ve Stratejileriyle Gelen Kutunuzu Yönetin"
 description: "Gmail organizasyon araçları, Inbox Zero ve GTD gibi stratejiler ve AI asistanlarının gelen kutunuzu nasıl kontrol altına almanıza ve verimliliğinizi nasıl artırmanıza yardımcı olabileceği hakkında temel bilgiler edinin."
 publishedAt: 2025-09-01
-author: "Duet Mail Takım"
+author: "Chiefy Takım"
 tags: ["AI", "Gmail", "Gelen Kutusu Yönetimi", "Aletler"]
 draft: false
 ---
@@ -217,7 +217,7 @@ Acil olanı otomatik olarak bilen bir gelen kutusu hayal edin. AI e-posta öncel
 
 **Faydaları:** Manuel sıralama süresini önemli ölçüde azaltır, gözden kaçabilecek kritik mesajları ortaya çıkarır, düşük öncelikli postaların dikkat dağıtıcı etkisini en aza indirir ve sizin için ilk "önemli/önemsiz" değerlendirmesini yaparak karar yorgunluğunu önler. [**SaneBox**](https://www.sanebox.com/) ve [**Superhuman**](https://superhuman.com/) gibi araçlar, AI destekli sıralama yetenekleriyle bilinir.
 
-Bu akıllı sıralama, [Duet Mail](/tr/) gibi araçların tasarlandığı şeydir. AI Triage özelliği, gelen e-postaları aciliyet ve gerekli işlemler açısından analiz eder ve bunları Odaklanmış Bir Kontrol Paneli'nde sunarak, geleneksel kronolojik gelen kutusunun karmaşasını ortadan kaldırarak, dikkat gerektiren şeyleri anında görmenizi sağlar.
+Bu akıllı sıralama, [Chiefy](/tr/) gibi araçların tasarlandığı şeydir. AI Triage özelliği, gelen e-postaları aciliyet ve gerekli işlemler açısından analiz eder ve bunları Odaklanmış Bir Kontrol Paneli'nde sunarak, geleneksel kronolojik gelen kutusunun karmaşasını ortadan kaldırarak, dikkat gerektiren şeyleri anında görmenizi sağlar.
 
 ### Anında Anlama: AI Destekli Özetleme
 
@@ -233,7 +233,7 @@ E-posta yazmak, özellikle rutin olanlar, önemli miktarda zaman tüketir. AI ta
 
 **Faydaları:** Bu, yanıt sürelerini önemli ölçüde hızlandırır, profesyonel ve tutarlı iletişimi sağlar ve benzer mesajları tekrar tekrar yazmanın getirdiği zihinsel yorgunluktan sizi kurtarır. Birçok araç bunu sunar; [**ComposeIt**](https://www.scribowriter.com/post/best-ai-email-assistant) gibi genel AI yazarlarından [**Superhuman**](https://superhuman.com/) veya [**Gemini for Google Workspace**](https://workspace.google.com/solutions/ai/) içindeki entegre yardımcı araçlara kadar.
 
-Kişiselleştirilmiş yanıtlar hazırlamak zaman alır. AI taslak hazırlayıcıları bunu hızlandırabilir, ancak özgün bir üslup kullanmak çok önemlidir. Duet Mail'ın Özgün AI Taslak Hazırlama aracı, geçmiş e-postalarınızdan özel kelime dağarcığınızı ve tonunuzu öğrenerek, gerçekten size benzeyen yanıtlar önerir ve saatlerce zaman kazandırırken ilişkilerinizi de korur.
+Kişiselleştirilmiş yanıtlar hazırlamak zaman alır. AI taslak hazırlayıcıları bunu hızlandırabilir, ancak özgün bir üslup kullanmak çok önemlidir. Chiefy'ın Özgün AI Taslak Hazırlama aracı, geçmiş e-postalarınızdan özel kelime dağarcığınızı ve tonunuzu öğrenerek, gerçekten size benzeyen yanıtlar önerir ve saatlerce zaman kazandırırken ilişkilerinizi de korur.
 
 AI, e-postaları _yönetmekten_, ilgili bilişsel görevleri _güçlendirmeye_ (anlama, önceliklendirme, özetleme ve iletişim kurma) yönelik temel bir değişimi temsil eder. Önemli olan, _sizin_ özel ihtiyaçlarınızı ve tarzınızı öğrenen, doğal ve güvenilir hissettiren kişiselleştirilmiş yardım sunan AI araçlarını bulmaktır.
 
@@ -249,7 +249,7 @@ Gerçek şu ki, **tek bir doğru cevap yok.** En iyi organizasyon sistemi, **siz
 
 - Bir **proje yöneticisi**, proje takibi için Asana veya Todoist gibi araçları entegre edebilir ve etiketleri yoğun olarak kullanabilir.
 
-- Bir **verimlilik meraklısı**, Gelen Kutusu Sıfırlama prensiplerini toplu işlemeyle birleştirebilir ve Superhuman veya Duet Mail gibi AI araçlarıyla denemeler yapabilir.
+- Bir **verimlilik meraklısı**, Gelen Kutusu Sıfırlama prensiplerini toplu işlemeyle birleştirebilir ve Superhuman veya Chiefy gibi AI araçlarıyla denemeler yapabilir.
 
 **İşte ideal kurulumunuzu bulmanın yolu:**
 
@@ -261,7 +261,7 @@ Gerçek şu ki, **tek bir doğru cevap yok.** En iyi organizasyon sistemi, **siz
 
 4. **Çözümleri Araştırın:** En büyük darboğazınızı özel olarak ele alan üçüncü taraf veya AI araçlarını arayın.
 
-5. **Entegre AI'yi Düşünün:** Birden fazla AI özelliği (önceliklendirme, özetleme, taslak oluşturma) ilginizi çekiyorsa, bu yetenekleri bir araya getirerek tutarlı bir deneyim sağlayan ve araç setinizi basitleştirebilecek [Duet Mail](/tr/) gibi platformları inceleyin.
+5. **Entegre AI'yi Düşünün:** Birden fazla AI özelliği (önceliklendirme, özetleme, taslak oluşturma) ilginizi çekiyorsa, bu yetenekleri bir araya getirerek tutarlı bir deneyim sağlayan ve araç setinizi basitleştirebilecek [Chiefy](/tr/) gibi platformları inceleyin.
 
 6. **Geliştirin:** Sisteminizi sürekli olarak iyileştirin. Geçen ay işe yarayan şeyler, rolünüz veya projeleriniz değiştikçe ayarlama gerektirebilir.
 
@@ -271,4 +271,4 @@ Modern iş yerlerinde e-posta yoğunluğu yaygın bir sorun olsa da, aşılmaz b
 
 Nihai hedef, e-postaları yönetmek için daha az zaman harcamak ve gerçekten önemli olan işlere daha fazla zaman ayırmaktır. İster birkaç temel filtre kurarak, ister toplu işlemeye geçerek, isterse de bir AI asistanı keşfederek başlayın, daha sakin ve düzenli bir dijital hayata doğru bugün bir adım atın.
 
-Tarzınızı ve önceliklerinizi öğrenen AI tabanlı e-posta düzenleme sisteminin gücünü deneyimlemeye hazır mısınız? [**Duet Mail**](/tr/)'in gelen kutunuzla olan ilişkinizi nasıl dönüştürebileceğini ve size her hafta saatlerce zaman kazandırabileceğini keşfedin. Bugün deneyin!
+Tarzınızı ve önceliklerinizi öğrenen AI tabanlı e-posta düzenleme sisteminin gücünü deneyimlemeye hazır mısınız? [**Chiefy**](/tr/)'in gelen kutunuzla olan ilişkinizi nasıl dönüştürebileceğini ve size her hafta saatlerce zaman kazandırabileceğini keşfedin. Bugün deneyin!

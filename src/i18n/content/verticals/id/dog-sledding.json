@@ -1,10 +1,10 @@
 {
   "slug": "dog-sledding",
-  "pageTitle": "Duet Mail untuk Tur Kereta Luncur Anjing |  AI Asisten Email",
-  "metaDescription": "Duet Mail membantu para mushers merespons email pemesanan secara instan — bahkan dari jalurnya.  AI -Balasan yang disusun dengan jenis tur, harga, kebijakan, dan suara Anda.",
+  "pageTitle": "Chiefy untuk Tur Kereta Luncur Anjing |  AI Asisten Email",
+  "metaDescription": "Chiefy membantu para mushers merespons email pemesanan secara instan — bahkan dari jalurnya.  AI -Balasan yang disusun dengan jenis tur, harga, kebijakan, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 200+ musher",
   "heroHeadline": "Asisten email Anda saat Anda sedang dalam perjalanan",
-  "heroSubline": "Duet mempelajari jenis tur, harga, kebijakan cuaca, dan tambahan Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
+  "heroSubline": "Chiefy mempelajari jenis tur, harga, kebijakan cuaca, dan tambahan Anda — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "tour",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Dua pemesanan tersimpan membayar untuk satu tahun Duet."
+    "punchline": "Dua pemesanan tersimpan membayar untuk satu tahun Chiefy."
   },
-  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan tur yang hilang yang terkubur di bawah peringatan TripAdvisor.",
-  "draftSubtitle": "Duet mempelajari jenis, harga, dan suasana tur Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail paket, apa yang akan dikenakan, dan tambahan. Anda meninjau dan mengirim.",
-  "agentSubtitle": "\"Ada pemesanan akhir pekan ini?\" \"Buatlah draf balasan tentang kombo aurora.\" Duet mengetahui inbox dan jadwal Anda — tanyakan saja.",
+  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat permintaan pemesanan terlebih dahulu, pertanyaan kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan tur yang hilang yang terkubur di bawah peringatan TripAdvisor.",
+  "draftSubtitle": "Chiefy mempelajari jenis, harga, dan suasana tur Anda. Saat pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan detail paket, apa yang akan dikenakan, dan tambahan. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Ada pemesanan akhir pekan ini?\" \"Buatlah draf balasan tentang kombo aurora.\" Chiefy mengetahui inbox dan jadwal Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -133,13 +133,13 @@
     {
       "name": "Megan K.",
       "title": "Pemilik Tur Kennel & Mush, AK",
-      "quote": "Kami menawarkan kunjungan kennel, wahana bubur, dan kombinasi aurora — setiap email memerlukan jawaban yang berbeda. Duet menemukan ketiga jenis tur dalam seminggu dan sekarang menyusun balasan yang selalu cocok dengan paket yang tepat.",
+      "quote": "Kami menawarkan kunjungan kennel, wahana bubur, dan kombinasi aurora — setiap email memerlukan jawaban yang berbeda. Chiefy menemukan ketiga jenis tur dalam seminggu dan sekarang menyusun balasan yang selalu cocok dengan paket yang tepat.",
       "avatarKey": "sarah"
     },
     {
       "name": "Travis B.",
       "title": "Panduan Kereta Luncur Anjing, MN",
-      "quote": "Saya biasa menghabiskan setiap malam menjawab pertanyaan yang sama tentang apa yang harus dipakai, batasan usia, dan anjing. Duet menangani semuanya. Saya pulang dari jalan setapak dan semuanya sudah dirancang dan menunggu.",
+      "quote": "Saya biasa menghabiskan setiap malam menjawab pertanyaan yang sama tentang apa yang harus dipakai, batasan usia, dan anjing. Chiefy menangani semuanya. Saya pulang dari jalan setapak dan semuanya sudah dirancang dan menunggu.",
       "avatarKey": "johnny"
     },
     {
@@ -151,7 +151,7 @@
     {
       "name": "Cara D.",
       "title": "Petualangan Kereta Luncur Anjing Keluarga, CO",
-      "quote": "Orang tua selalu bertanya apakah anak-anak mereka boleh makan bubur, apakah anjingnya ramah, pakaian apa yang harus dipakai — 10 pertanyaan yang sama. Duet mempelajari setiap jawaban dan menyusunnya dengan sempurna. Ini seperti mengkloning diri saya sendiri untuk email.",
+      "quote": "Orang tua selalu bertanya apakah anak-anak mereka boleh makan bubur, apakah anjingnya ramah, pakaian apa yang harus dipakai — 10 pertanyaan yang sama. Chiefy mempelajari setiap jawaban dan menyusunnya dengan sempurna. Ini seperti mengkloning diri saya sendiri untuk email.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Bagaimana Duet menangani pembatalan cuaca dan ketidakpastian aurora?",
-      "answer": "Duet mempelajari kebijakan pembatalan dan penjadwalan ulang Anda. Saat tamu mengirim email tentang masalah cuaca atau visibilitas aurora, tamu tersebut akan menyusun balasan berisi kebijakan Anda, tanggal alternatif, dan detail relevan lainnya — seperti memantau kondisi dan mengonfirmasi menjelang tur. Anda meninjau dan mengirim."
+      "question": "Bagaimana Chiefy menangani pembatalan cuaca dan ketidakpastian aurora?",
+      "answer": "Chiefy mempelajari kebijakan pembatalan dan penjadwalan ulang Anda. Saat tamu mengirim email tentang masalah cuaca atau visibilitas aurora, tamu tersebut akan menyusun balasan berisi kebijakan Anda, tanggal alternatif, dan detail relevan lainnya — seperti memantau kondisi dan mengonfirmasi menjelang tur. Anda meninjau dan mengirim."
     },
     {
-      "question": "Saya menawarkan beberapa jenis tur dengan harga dan tambahan berbeda. Bisakah Duet menjaganya tetap lurus?",
-      "answer": "Ya. Duet mempelajari setiap jenis tur Anda — kunjungan kennel, pengalaman bubur, kombo aurora, tambahan fotografi, paket transportasi — beserta harga, durasi, dan apa saja yang disertakan. Ketika ada pertanyaan yang masuk, ia akan mencocokkan tur yang tepat dan menyusun balasan dengan rincian yang benar."
+      "question": "Saya menawarkan beberapa jenis tur dengan harga dan tambahan berbeda. Bisakah Chiefy menjaganya tetap lurus?",
+      "answer": "Ya. Chiefy mempelajari setiap jenis tur Anda — kunjungan kennel, pengalaman bubur, kombo aurora, tambahan fotografi, paket transportasi — beserta harga, durasi, dan apa saja yang disertakan. Ketika ada pertanyaan yang masuk, ia akan mencocokkan tur yang tepat dan menyusun balasan dengan rincian yang benar."
     }
   ],
   "pricingNote": "Dengan $150/tur, dua pemesanan tersimpan membayar Pro selama lebih dari setahun."

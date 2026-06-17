@@ -2,7 +2,7 @@
 title: "ওয়ার্কফ্লো শক্তিশালী করুন: 2025 সালে সর্বোচ্চ উৎপাদনশীলতার জন্য সেরা Gmail business extensions"
 description: "উৎপাদনশীলতা, CRM, AI সহায়তা ও আরও অনেক কিছুর জন্য 2025 সালের সেরা Gmail business extensions দেখুন। সময় ফিরিয়ে নিন।"
 publishedAt: 2025-06-30
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "উৎপাদনশীলতা", "টুল"]
 draft: false
 ---
@@ -48,7 +48,7 @@ AI extension দীর্ঘ থ্রেডের সারাংশ, উত্
 
 নিয়মভিত্তিক extension আপনাকে কাজ সংগঠিত করতে সাহায্য করে, কিন্তু AI আপনাকে বুঝতে সাহায্য করে কোন কাজ আগে। উদাহরণস্বরূপ, একই inbox-এ newsletter, client escalation, contract approval এবং internal FYI থাকতে পারে। AI প্রেক্ষাপট দেখে জরুরি সিগন্যাল আলাদা করতে পারে।
 
-[Duet Mail](https://duetmail.com/bn) এই জায়গায় intelligent co-pilot হিসেবে কাজ করে। AI Triage incoming emails বিশ্লেষণ করে জরুরি বিষয়, প্রয়োজনীয় action এবং সিদ্ধান্ত সামনে আনে। Smart Summarization দীর্ঘ কথোপকথন ছোট করে, আর Authentic AI Drafting আপনার ভাষায় উত্তর খসড়া করে।
+[Chiefy](https://chiefy.com/bn) এই জায়গায় intelligent co-pilot হিসেবে কাজ করে। AI Triage incoming emails বিশ্লেষণ করে জরুরি বিষয়, প্রয়োজনীয় action এবং সিদ্ধান্ত সামনে আনে। Smart Summarization দীর্ঘ কথোপকথন ছোট করে, আর Authentic AI Drafting আপনার ভাষায় উত্তর খসড়া করে।
 
 ## প্রস্তাবিত stack
 

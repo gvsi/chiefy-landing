@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail Dalış Mağazaları için | AI E-posta Asistanı",
-  "metaDescription": "Duet Mail, dalış mağazası sahiplerinin ve PADI eğitmenlerinin sertifikasyon sorularına, gezi rezervasyonlarına ve ekipman sorularına anında -hatta su altından bile- yanıt vermelerine yardımcı olur.",
+  "pageTitle": "Chiefy Dalış Mağazaları için | AI E-posta Asistanı",
+  "metaDescription": "Chiefy, dalış mağazası sahiplerinin ve PADI eğitmenlerinin sertifikasyon sorularına, gezi rezervasyonlarına ve ekipman sorularına anında -hatta su altından bile- yanıt vermelerine yardımcı olur.",
   "heroBadge": "300'den fazla dalış operatörü tarafından güvenilen",
   "heroHeadline": "Sualtıdayken e-posta asistanınız",
-  "heroSubline": "Duet dalış noktalarınızı, sertifika gereksinimlerinizi, fiyatlandırmayı ve sesinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece teknedeyken hiçbir rezervasyonunuzu kaybetmezsiniz.",
+  "heroSubline": "Chiefy dalış noktalarınızı, sertifika gereksinimlerinizi, fiyatlandırmayı ve sesinizi öğrenir ve ardından e-posta yanıtlarını taslak haline getirir, böylece teknedeyken hiçbir rezervasyonunuzu kaybetmezsiniz.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "dalmak",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Kurtarılan bir grup dalışı, Duet'ın bir yıllık ücretini karşılıyor."
+    "punchline": "Kurtarılan bir grup dalışı, Chiefy'ın bir yıllık ücretini karşılıyor."
   },
-  "categorizationSubtitle": "Duet her e-postayı otomatik olarak etiketleyerek önce sertifika sorgularını ve dalış rezervasyonlarını, sonra ekipman sorularını ve hazır olduğunuzda PADI uyarılarını görmenizi sağlar. Artık ekipman bültenlerinin altında kaybolan grup rezervasyonlarını kaçırmayacaksınız.",
-  "draftSubtitle": "Duet dalış noktalarınızı, sertifika gereksinimlerinizi ve fiyatlandırmayı öğrenir. Bir rezervasyon talebi geldiğinde, gezi detayları, nelerin dahil olduğu ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
-  "agentSubtitle": "\"Cumartesi için kaç dalgıç rezervasyon yaptırdı?\" \"Rachel'a Açık Su dalışı müsaitliğiyle ilgili bir yanıt taslağı gönderin.\" Duet gelen kutunuzu ve programınızı biliyor - sadece sorun.",
+  "categorizationSubtitle": "Chiefy her e-postayı otomatik olarak etiketleyerek önce sertifika sorgularını ve dalış rezervasyonlarını, sonra ekipman sorularını ve hazır olduğunuzda PADI uyarılarını görmenizi sağlar. Artık ekipman bültenlerinin altında kaybolan grup rezervasyonlarını kaçırmayacaksınız.",
+  "draftSubtitle": "Chiefy dalış noktalarınızı, sertifika gereksinimlerinizi ve fiyatlandırmayı öğrenir. Bir rezervasyon talebi geldiğinde, gezi detayları, nelerin dahil olduğu ve yanınızda getirmeniz gerekenler de dahil olmak üzere eksiksiz bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz.",
+  "agentSubtitle": "\"Cumartesi için kaç dalgıç rezervasyon yaptırdı?\" \"Rachel'a Açık Su dalışı müsaitliğiyle ilgili bir yanıt taslağı gönderin.\" Chiefy gelen kutunuzu ve programınızı biliyor - sadece sorun.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kaptan Mike T.",
       "title": "Dalgıç Teknesi Kaptanı, FL",
-      "quote": "Cuma, Cumartesi ve Pazar günleri tekne turları düzenliyorum ve dükkan Pazartesi günleri sadece birkaç saat açık oluyor. Su altında olduğum süre boyunca sertifikasyon soruları ve tur talepleri birikiyor. Duet fiyatlandırmam, dalış noktalarım ve nelerin dahil olduğuyla ilgili yanıt taslaklarını hazırlıyor - ben de dalışlar arasında bunları gözden geçiriyorum.",
+      "quote": "Cuma, Cumartesi ve Pazar günleri tekne turları düzenliyorum ve dükkan Pazartesi günleri sadece birkaç saat açık oluyor. Su altında olduğum süre boyunca sertifikasyon soruları ve tur talepleri birikiyor. Chiefy fiyatlandırmam, dalış noktalarım ve nelerin dahil olduğuyla ilgili yanıt taslaklarını hazırlıyor - ben de dalışlar arasında bunları gözden geçiriyorum.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen ve Mark S.",
       "title": "PADI Dalış Merkezi, HI",
-      "quote": "Aynı teknelerden dalış, şnorkelli yüzme turları ve balina gözlemleri düzenliyoruz. Gelen e-postaların çeşitliliği inanılmaz – sertifika soruları, grup rezervasyonları, ekipman kiralama, hava durumu kontrolleri. Duet bunların hepsini hallediyor ve aradaki farkı bilen yanıtlar hazırlıyor. Tam bir kurtarıcı.",
+      "quote": "Aynı teknelerden dalış, şnorkelli yüzme turları ve balina gözlemleri düzenliyoruz. Gelen e-postaların çeşitliliği inanılmaz – sertifika soruları, grup rezervasyonları, ekipman kiralama, hava durumu kontrolleri. Chiefy bunların hepsini hallediyor ve aradaki farkı bilen yanıtlar hazırlıyor. Tam bir kurtarıcı.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Batık Dalış Turları, Florida",
-      "quote": "E-postalarımın yarısı 'batık dalışları için hangi sertifikaya ihtiyacım var?', diğer yarısı ise 'kendi ekipmanıma ihtiyacım var mı?' şeklinde. Duet her ikisini de otomatik olarak hallediyor. Yanıt sürem saatlerden dakikalara indi.",
+      "quote": "E-postalarımın yarısı 'batık dalışları için hangi sertifikaya ihtiyacım var?', diğer yarısı ise 'kendi ekipmanıma ihtiyacım var mı?' şeklinde. Chiefy her ikisini de otomatik olarak hallediyor. Yanıt sürem saatlerden dakikalara indi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Dalış Malzemeleri Mağazası Sahibi, Kaliforniya",
-      "quote": "Yaz aylarında kurslar, gezi olanakları ve ekipmanlarla ilgili günde 30'dan fazla e-posta alıyoruz. Daha hızlı yanıt veren dükkanlara rezervasyon kaybediyordum. Şimdi Duet her şeyi taslak olarak hazırlıyor ve ben de ders aralarında sadece gönder tuşuna basıyorum.",
+      "quote": "Yaz aylarında kurslar, gezi olanakları ve ekipmanlarla ilgili günde 30'dan fazla e-posta alıyoruz. Daha hızlı yanıt veren dükkanlara rezervasyon kaybediyordum. Şimdi Chiefy her şeyi taslak olarak hazırlıyor ve ben de ders aralarında sadece gönder tuşuna basıyorum.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Dalış Eğitmeni ve Rehberi, Kuzey Carolina",
-      "quote": "Sabahları ders veriyorum, öğleden sonraları ise dalış rehberliği yapıyorum. E-postalara cevap verecek vaktim yok. Duet ders programımı, fiyatlarımı, hatta iptal politikamı bile öğrendi. Müşteriler hiçbir fark göremiyor.",
+      "quote": "Sabahları ders veriyorum, öğleden sonraları ise dalış rehberliği yapıyorum. E-postalara cevap verecek vaktim yok. Chiefy ders programımı, fiyatlarımı, hatta iptal politikamı bile öğrendi. Müşteriler hiçbir fark göremiyor.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Ücretsiz deneme sürümünü başlatın. Gelen kutunuzu 30 saniyede bağlayın.",
   "verticalFaqs": [
     {
-      "question": "Duet sertifika seviyelerini ve kurs gereksinimlerini anlıyor mu?",
-      "answer": "Evet. Duet, Açık Su Dalışı, İleri Seviye Dalış, Kurtarma Dalışı, Dalış Eğitmenliği gibi özel kurslarınızı, ön koşullarını, süresini, fiyatını ve nelerin dahil olduğunu öğrenir. Birisi sertifika almak hakkında soru sorduğunda, Duet doğru kurs detayları, programı ve sonraki adımları içeren bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz."
+      "question": "Chiefy sertifika seviyelerini ve kurs gereksinimlerini anlıyor mu?",
+      "answer": "Evet. Chiefy, Açık Su Dalışı, İleri Seviye Dalış, Kurtarma Dalışı, Dalış Eğitmenliği gibi özel kurslarınızı, ön koşullarını, süresini, fiyatını ve nelerin dahil olduğunu öğrenir. Birisi sertifika almak hakkında soru sorduğunda, Chiefy doğru kurs detayları, programı ve sonraki adımları içeren bir yanıt taslağı hazırlar. Siz de inceleyip gönderirsiniz."
     },
     {
-      "question": "Bütün gün teknede veya su altındayım. Telefonumdan Duet kullanabilir miyim?",
-      "answer": "Evet. Duet, Gmail ve Outlook ile birlikte çalışır, bu nedenle e-postanızın çalıştığı her yerde (telefonunuz dahil) çalışır. Taslaklar otomatik olarak gelen kutunuzda görünür. Dalışlar arasında veya iskeleye döndüğünüzde, tek bir dokunuşla gözden geçirip gönderebilirsiniz. Çoğu dalış operatörü, yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladıklarını söylüyor."
+      "question": "Bütün gün teknede veya su altındayım. Telefonumdan Chiefy kullanabilir miyim?",
+      "answer": "Evet. Chiefy, Gmail ve Outlook ile birlikte çalışır, bu nedenle e-postanızın çalıştığı her yerde (telefonunuz dahil) çalışır. Taslaklar otomatik olarak gelen kutunuzda görünür. Dalışlar arasında veya iskeleye döndüğünüzde, tek bir dokunuşla gözden geçirip gönderebilirsiniz. Çoğu dalış operatörü, yoğun sezonda günde 1-2 saat e-posta zamanından tasarruf sağladıklarını söylüyor."
     }
   ],
   "pricingNote": "$150/dive'da 6 kişilik bir grupla yapılan bir dalış gezisi, Pro'in bir yıldan fazla süren masrafını karşılıyor."
