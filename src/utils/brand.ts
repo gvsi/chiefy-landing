@@ -18,7 +18,7 @@
 
 const DEFAULT_SITE_URL = "https://duetmail.com";
 const DEFAULT_SITE_BRAND = "Duet Mail";
-const DEFAULT_SITE_TWITTER = "@DuetMailApp";
+const DEFAULT_SITE_TWITTER = "@chiefyapp";
 
 function readEnv(key: string): string | undefined {
     // Astro/Vite exposes build env on import.meta.env; astro.config.mjs runs in

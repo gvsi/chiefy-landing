@@ -602,12 +602,12 @@
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefyapp",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefyapp/",
             "external": true
           },
           {
@@ -666,8 +666,8 @@
       "screenshot": "https://duetmail.com/zh-Hans/og.jpg",
       "sameAs": [
         "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
+        "https://x.com/chiefyapp",
+        "https://www.instagram.com/chiefyapp/"
       ]
     },
     "faq": [
