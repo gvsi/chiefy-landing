@@ -6,7 +6,7 @@ type: "how-to"
 order: 30
 keywords: ["disconnect mailbox", "pause mailbox", "remove email account", "reconnect mailbox", "stop syncing"]
 relatedSlugs: ["connected-mailboxes/add-another-mailbox", "connected-mailboxes/what-automates-on-secondary-mailboxes"]
-updatedAt: 2026-06-16
+updatedAt: 2026-06-18
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
@@ -17,6 +17,8 @@ import SettingRow from "../../../../components/help/SettingRow.astro"
 <HelpTldr>
   Disconnecting a mailbox pauses syncing and revokes Chiefy's access to it. Your already-synced conversations stay in Chiefy, and you can reconnect the mailbox at any time. Disconnecting is a pause, not a delete.
 </HelpTldr>
+
+> **Rolling out.** Connecting additional mailboxes is currently available to a limited set of accounts while we roll it out. If you don't see these options yet, they're on the way.
 
 When you no longer want Chiefy working with one of your connected mailboxes, you can disconnect it. Disconnecting stops Chiefy from syncing that mailbox and revokes its access — but it keeps everything Chiefy already synced, so your conversation history is still there. Because it is reversible, think of it as pausing the mailbox rather than removing it.
 
@@ -75,13 +77,13 @@ You can bring a disconnected mailbox back at any time.
   </HelpStep>
 </HelpSteps>
 
-Reconnecting resumes syncing for that mailbox from that point forward. {/* VERIFY: confirm whether reconnecting backfills emails received while the mailbox was paused, or only syncs going forward — code suggests sync resumes from reconnection onward. */}
+Reconnecting resumes syncing for that mailbox from that point forward. Emails that arrived while the mailbox was paused aren't backfilled.
 
 > Want to know exactly what Chiefy does on a secondary mailbox once it's connected? See [What automates on secondary mailboxes](/help/connected-mailboxes/what-automates-on-secondary-mailboxes).
 
 ## Frequently asked
 
-**Does disconnecting delete my emails?** No. Disconnecting pauses syncing and revokes access; your already-synced conversations stay in Chiefy. There's no option to permanently delete a mailbox's synced data — it's retained so you can reconnect later. {/* VERIFY: confirm there is no user-facing destructive delete of synced mailbox data in v1 (code review found pause-only; no delete action). */}
+**Does disconnecting delete my emails?** No. Disconnecting pauses syncing and revokes access; your already-synced conversations stay in Chiefy. There's no option to permanently delete a mailbox's synced data — it's retained so you can reconnect later.
 
 **Can I disconnect my sign-in mailbox?** No. The mailbox you sign in with is your account identity, so it can't be disconnected here.
 

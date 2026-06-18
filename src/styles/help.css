@@ -34,6 +34,8 @@
     --help-pill-action: #ef4444;
     --help-pill-action-bg: rgba(239, 68, 68, 0.1);
     --help-pill-action-ink: #f87171;
+    --help-pill-draft-bg: rgba(148, 163, 184, 0.16);
+    --help-pill-draft-ink: #cbd5e1;
 
     /* meeting / warning ink (warn note icon) */
     --help-warn-ink: #fbbf24;
@@ -82,6 +84,8 @@ html[data-theme="light"] {
     --help-pill-action: #ef4444;
     --help-pill-action-bg: rgba(239, 68, 68, 0.1);
     --help-pill-action-ink: #b42318;
+    --help-pill-draft-bg: rgba(100, 116, 139, 0.14);
+    --help-pill-draft-ink: #475569;
 
     --help-warn-ink: #92600a;
 
@@ -996,6 +1000,10 @@ html[data-theme="light"] {
 .help-pill.action {
     background: var(--help-pill-action-bg);
     color: var(--help-pill-action-ink);
+}
+.help-pill.draft {
+    background: var(--help-pill-draft-bg);
+    color: var(--help-pill-draft-ink);
 }
 .help-pill .d {
     width: 6px;

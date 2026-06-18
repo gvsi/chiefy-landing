@@ -5,10 +5,11 @@
  *
  *   <MailRow avatar="RH" from="Risøyhamn Sjøhus" time="9:24 AM"
  *            subject="Re: Booking for 4" preview="Hi — could you confirm…"
- *            pillLabel="Autodraft ready" pillVariant="autodraft" />
+ *            pillLabel="Draft" pillVariant="draft" />
  *   <MailRow … pillLabel="No reply needed" pillVariant="action" last />
  *
- * `pillVariant` is "autodraft" (emerald) or "action" (red). `last` drops the
+ * `pillVariant` is "autodraft" (emerald), "action" (red), or "draft" (neutral
+ * grey — Gmail's own draft marker). `last` drops the
  * bottom divider for the final row in a list. `anno` renders a small annotation
  * marker (e.g. "A") beside the sender, cross-referencing a step's callout.
  */
@@ -20,7 +21,7 @@ type Props = {
     subject: string
     preview: string
     pillLabel?: string
-    pillVariant?: "autodraft" | "action"
+    pillVariant?: "autodraft" | "action" | "draft"
     /** Drop the bottom border (last row in a stack). */
     last?: boolean
     /** Optional annotation marker letter/number shown beside the sender. */

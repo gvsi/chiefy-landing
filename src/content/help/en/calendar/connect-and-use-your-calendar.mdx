@@ -30,10 +30,10 @@ Connecting takes one grant. Chiefy asks Google for permission to your calendar, 
     Go to **Settings → Integrations**. You'll see a card for **Google Calendar** alongside your connected mailbox.
   </HelpStep>
   <HelpStep title="Connect Google Calendar" anno="A">
-    Select **Connect** on the Google Calendar card and approve the calendar permission in the Google window. Chiefy only requests the Google Calendar scope here — nothing else.
+    Select **Connect** on the Google Calendar card and approve the calendar permission in the Google window. The grant adds calendar access to your existing Google connection — it doesn't change your mailbox permission.
     {/* TODO: real screenshot */}
     <MockWindow title="Chiefy · Settings → Integrations" figcaption="Settings → Integrations → connect Google Calendar.">
-      <SettingRow title="Google Calendar" anno="A" iconKey="calendar" description="Used for finding availability and creating, updating, or deleting events" />
+      <SettingRow title="Google Calendar" anno="A" iconKey="calendar" description="Used for finding availability and creating/updating events" />
     </MockWindow>
   </HelpStep>
   <HelpStep title="You're set">
@@ -41,7 +41,7 @@ Connecting takes one grant. Chiefy asks Google for permission to your calendar, 
   </HelpStep>
 </HelpSteps>
 
-> Calendar Integration uses Google Calendar. It's a separate permission from your mailbox connection — granting it doesn't change how Chiefy reads or drafts your email.
+> Calendar Integration uses Google Calendar. It adds calendar access to the same Google connection Chiefy already uses — granting it doesn't change how Chiefy reads or drafts your email.
 
 ## What you can do with Ask Chiefy
 
@@ -62,15 +62,11 @@ This works in both modes of Smart Drafts — on demand, when you ask for a reply
 
 {/* TODO: real screenshot */}
 <MockWindow title="Gmail · Inbox" tight figcaption="A reply that proposes a time Chiefy knows you're free.">
-  <MailRow avatar="LM" from="Lena Moretti" time="10:12 AM" subject="Re: Quick call this week?" preview="Thanks — I'm free Thursday after 2 PM, so how about 2:30?" pillLabel="Draft ready" pillVariant="autodraft" last />
+  <MailRow avatar="LM" from="Lena Moretti" time="10:12 AM" subject="Re: Quick call this week?" preview="Thanks — I'm free Thursday after 2 PM, so how about 2:30?" pillLabel="Draft" pillVariant="draft" last />
 </MockWindow>
-
-{/* VERIFY: confirm the exact in-thread label shown for a calendar-aware Smart Draft (e.g. "Draft ready" vs "Autodraft ready") and whether calendar grounding is on by default for on-demand Smart Drafts as well as Autodraft. */}
 
 ## Disconnect your calendar
 
-To stop Chiefy from using your calendar, open **Settings → Integrations** and remove the Google Calendar connection there.
+There isn't a separate calendar disconnect button in Chiefy today. To stop Chiefy from using your calendar, revoke its access from your [Google Account permissions page](https://myaccount.google.com/permissions) — find Chiefy in the list of apps with access to your account and remove it there.
 
-{/* VERIFY: confirm the exact disconnect/revoke control and copy on the Integrations page for Google Calendar, and the precise scope behavior on disconnect (whether removing the calendar grant affects sign-in or mailbox access, since the calendar scope is part of the Google login grant). Do not state per-mailbox calendar behavior — calendar is account-level today. */}
-
-> Disconnecting only removes Chiefy's access to your calendar. Your events stay exactly as they are in Google Calendar.
+> Because Chiefy's calendar access is part of the same Google connection that signs you in and reads your mailbox, revoking it through Google may also sign you out or pause mailbox access until you reconnect. Removing access never changes your calendar itself — your events stay exactly as they are in Google Calendar.

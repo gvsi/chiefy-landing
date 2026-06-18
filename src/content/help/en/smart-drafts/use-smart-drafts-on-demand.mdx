@@ -34,20 +34,23 @@ You'll need the Chiefy extension installed and your inbox connected. New to Chie
     In Gmail, reply to a thread or start a new email. Smart Drafts works in both modes — replying to an existing conversation or composing something fresh.
   </HelpStep>
   <HelpStep title="Start Smart Drafts" anno="A">
-    In the compose toolbar, select the Chiefy action to start Smart Drafts. A small writing panel opens inside the compose window.
+    In the compose toolbar, select the Chiefy button (**Write with Chiefy**, or press **Ctrl+J** / **⌘J**) to start Smart Drafts. A small writing panel opens inside the compose window.
     {/* TODO: real screenshot */}
-    <MockWindow title="Gmail · Compose" figcaption="Smart Drafts opens inside the compose window, with tone and length controls.">
-      <SettingRow title="Smart Drafts" anno="A" description="Tell Chiefy what to say, then choose tone and length" iconKey="pen" />
+    <MockWindow title="Gmail · Compose" figcaption="Smart Drafts opens inside the compose window. Tell Chiefy what to say, then shape the draft once it's written.">
+      <SettingRow title="Smart Drafts" anno="A" description="Tell Chiefy what to say, then refine the draft for tone and length" iconKey="pen" />
     </MockWindow>
   </HelpStep>
   <HelpStep title="Describe what you want to say">
     Type a brief instruction — for example, "confirm the two rooms and ask for an arrival time" or "thank them and decline politely." You don't need full sentences; a short prompt is enough. If something important is missing, Chiefy may ask a quick clarifying question before it writes.
   </HelpStep>
-  <HelpStep title="Set tone and length">
-    Choose a **tone** — casual, formal, professional, friendly, or direct — and a **length** — very short, short, medium, or long. You can set these before generating, or change them afterward and regenerate. {/* VERIFY: confirm tone/length controls are available in new-email mode, not only reply mode */}
-  </HelpStep>
   <HelpStep title="Review the draft">
-    Chiefy writes the draft and shows it in the panel. When you're happy, insert it into the compose body, make any final edits, and send it yourself.
+    Chiefy writes the draft and shows it in the panel. Read it over before you do anything with it — you can refine it right there if it isn't quite right.
+  </HelpStep>
+  <HelpStep title="Adjust tone and length (optional)">
+    With the draft showing, the refine box appears below it. Open it and pick a **tone** — casual, formal, professional, friendly, or direct — or a **length** — very short, short, medium, or long. Chiefy rewrites the draft in that style. These controls work the same way whether you're replying or composing a new email.
+  </HelpStep>
+  <HelpStep title="Insert and send">
+    When you're happy with the draft, insert it into the compose body, make any final edits, and send it yourself. Chiefy never sends for you.
   </HelpStep>
 </HelpSteps>
 
@@ -59,14 +62,14 @@ The more specific your instruction, the better the result — but a one-line nud
 
 ## Refine without starting over
 
-If the first draft isn't quite right, you don't have to rewrite your instruction. Use the action buttons to adjust the existing draft:
+If the first draft isn't quite right, you don't have to rewrite your instruction. Open the refine box below the draft and pick an action:
 
-- **Retry** — write it again from scratch using the same intent and context
-- **Improve** — tighten clarity and flow while keeping the meaning
+- **Rewrite** — write it again from scratch using the same intent and context
+- **Improve and polish** — tighten clarity and flow while keeping the meaning
 - **Simplify** — plainer language and shorter sentences
-- **Fix grammar** — clean up grammar, spelling, and punctuation only
+- **Fix typos and grammar** — clean up spelling, grammar, and punctuation only
 
-You can also change the tone or length and regenerate to nudge the draft in a new direction. Refine as many times as you need until it reads the way you want.
+You can also adjust the tone or length, or type your own instruction (for example, "make it warmer" or "add a sign-off"), and Chiefy rewrites the draft. Refine as many times as you need until it reads the way you want.
 
 ## Reply mode and new email mode
 
@@ -75,7 +78,7 @@ Smart Drafts works two ways:
 - **Replying to a thread** — Chiefy uses the conversation history so the reply answers what was actually asked.
 - **Composing a new email** — Chiefy starts from your instruction and your writing style, since there's no thread to draw on.
 
-In both cases the controls are the same: describe what you want, set tone and length, review, and send.
+The flow is the same either way: describe what you want, review the draft, adjust tone and length, then send.
 
 ## Smart Drafts never sends for you
 

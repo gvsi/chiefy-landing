@@ -57,13 +57,13 @@ To download invoices or change the card on file, open the secure Stripe billing 
   </HelpStep>
 </HelpSteps>
 
-> The Manage Payment button appears for active monthly and yearly subscriptions. {/* VERIFY: button is hidden once a subscription is fully canceled (can_manage_payment=false). */}
+> The Manage Payment button appears for any active recurring subscription — monthly or yearly — including while a payment needs fixing. It's hidden once a subscription is fully canceled, since there's no longer a payment method to manage. Lifetime Pro has no Manage Payment button either (see below).
 
 ## If a payment fails
 
 If a renewal charge can't go through, your subscription status changes to **Past Due** or **Unpaid** in **Settings → Subscription & Billing**. To fix it, open **Manage Payment** and update your card or complete the outstanding payment.
 
-Depending on your region and payment method, the charge may be retried automatically before the status changes. {/* VERIFY: automatic retry / dunning behavior is handled by Stripe and varies by region/payment method; confirm exact retry window and whether a manual invoice is emailed on failure. */} If you need help recovering a failed payment, [contact Chiefy support](mailto:hello@duetmail.com). {/* VERIFY: contact-support slug — confirm the real help-center route for reaching support. */}
+Depending on your region and payment method, the charge may be retried automatically before the status changes. If you need help recovering a failed payment, [contact Chiefy support](mailto:hello@chiefy.com).
 
 ## Lifetime Pro
 
@@ -73,4 +73,4 @@ Lifetime Pro is a **one-time payment**, not a subscription. There are no recurri
 
 Paid subscription fees are **non-refundable**, except where refunds are required by law. Canceling a subscription stops all future charges, but it does not refund the current billing period or any past payments — you keep Pro access through the end of the period you've already paid for.
 
-> The full terms, including how refund requests are considered, are in our [Terms of Service](/terms). {/* VERIFY: confirm /terms is the correct landing-site route for the Terms of Service page. */}
+> The full terms, including how refund requests are considered, are in our [Terms of Service](/terms).

@@ -17,7 +17,7 @@ import MockWindow from "../../../../components/help/MockWindow.astro"
   After you connect your inbox, Chiefy walks you through a short setup: a quick feature preview, a plan choice with a 14-day free trial, and a confirmation screen. Once that's done, Chiefy is live in your inbox and ready to help.
 </HelpTldr>
 
-Getting started with Chiefy takes a few minutes. You connect your inbox, move through a brief onboarding flow, and land on a confirmation screen that sends you straight to Gmail. This guide walks you through what to expect at each step and where you end up.
+Getting started with Chiefy takes a few minutes. You connect your inbox, move through a brief onboarding flow, and land on a confirmation screen with a clear next step. This guide walks you through what to expect at each step and where you end up.
 
 ## Before you start
 
@@ -31,9 +31,9 @@ After you sign in, Chiefy guides you through three short screens.
 
 <HelpSteps>
   <HelpStep title="Feature preview">
-    The first screen is a short, animated preview while Chiefy gets ready. You'll see messages about analyzing your communication patterns, setting up, and optimizing your workflows. This screen is purely visual — nothing is being read or changed in your inbox yet. {/* VERIFY: confirm we're comfortable telling users the loading screen is purely visual / no work happens. Code comment confirms "Profile fetching was removed; the backend is ready immediately." but this is a candid product detail. */}
+    The first screen is a short, animated preview while Chiefy gets ready. You'll see messages about analyzing your communication patterns, setting up, and optimizing your workflows. This screen is purely visual — nothing is being read or changed in your inbox yet.
 
-    When it finishes, choose **Transform Your Inbox** to continue. {/* VERIFY: CTA label is "Transform Your Inbox" in code — confirm this is the canonical/approved button copy or whether it should be paraphrased for the help center. */}
+    When it finishes, choose **Transform Your Inbox** to continue.
   </HelpStep>
   <HelpStep title="Choose your plan">
     Next you'll see the Pro plan with a 14-day free trial. Pick monthly or annual, then start your trial through secure checkout. You can cancel anytime.
@@ -45,32 +45,29 @@ After you sign in, Chiefy guides you through three short screens.
 
       Secure checkout via Stripe · Cancel anytime · 14-day free trial
     </MockWindow>
-
-    {/* VERIFY: the source brief said users can "skip checkout and activate trial directly." In the current code the 14-day trial is started THROUGH Stripe checkout (a trial-mode checkout), and there is no separate "skip checkout" button. Written conservatively to match code; please confirm whether a skip path exists in production. */}
   </HelpStep>
   <HelpStep title="You're all set">
-    The final screen confirms your trial is active and Chiefy is ready. From here you can jump straight into your inbox.
+    The final screen confirms your trial is active and Chiefy is ready. From here, one button takes you to the next step — your dashboard, or straight back to Gmail.
   </HelpStep>
 </HelpSteps>
 
 ## Where you land
 
-The confirmation screen offers a clear next step, and it depends on how you signed up:
+The confirmation screen offers a clear next step:
 
-- If you came in through the **Chiefy extension**, you'll see **Go to Gmail** — it takes you back to your inbox with Chiefy already running.
-- If you signed up on the **web**, you'll see **Go to Dashboard**, which opens your Chiefy dashboard.
+- After you start your trial, you'll see **Go to Dashboard**, which opens your Chiefy dashboard. If you have the extension installed, Chiefy is already running in Gmail — just switch back to that tab whenever you're ready.
 
-> If you already finished onboarding earlier and you're an extension user, Chiefy skips the plan screen and shows a **Go to Gmail** button instead — no need to set up again.
+> If you already have a plan and you're an extension user, Chiefy skips the plan screen entirely and shows a **Go to Gmail** button instead — it takes you straight back to your inbox, no setup needed.
 
 ## What you'll see in the side panel
 
-Open Chiefy from the side panel in Gmail and you'll see a couple of tabs.
+Open Chiefy from the side panel in Gmail and the tabs you see depend on your plan.
 
-- While you're still on a trial-eligible or expired plan, a **Home** tab appears with an option to upgrade to Pro or reactivate your plan.
-- Once you're on Pro, Chiefy goes straight to **Ask Chiefy** — the assistant you can chat with about your email and calendar.
+- On Pro, Chiefy opens straight into **Ask Chiefy** — the assistant you can chat with about your email and calendar — and there's no Home tab.
+- If you haven't started a plan yet, or your plan has lapsed, you'll also get a **Home** tab with a quick way to start the trial, upgrade to Pro, or reactivate your plan.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Side panel" figcaption="Pro users open straight into Ask Chiefy; everyone else sees the Home tab first.">
+<MockWindow title="Chiefy · Side panel" figcaption="Pro users open straight into Ask Chiefy; trial-eligible and lapsed users also get a Home tab to upgrade or reactivate.">
   Home · Ask Chiefy
 </MockWindow>
 

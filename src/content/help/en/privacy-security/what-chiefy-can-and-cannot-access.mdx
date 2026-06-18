@@ -33,15 +33,13 @@ Chiefy's permissions stop at your mailbox and your calendar. It has no access to
 
 ## Calendar access
 
-Calendar Integration is a separate, opt-in permission. When you enable it, Chiefy can check your availability so it has scheduling context — for example, when a thread is about finding a time to meet and you want a draft that proposes one. If you don't enable Calendar Integration, Chiefy has no access to your calendar at all.
-
-{/* VERIFY: confirm Calendar Integration is presented to users as an opt-in toggle (not auto-granted at first sign-in) and that availability-aware drafting is the user-facing framing. */}
+Calendar Integration is a separate, opt-in connection — it's never granted when you first sign in. You connect your calendar with a one-time **Connect Google Calendar** step, which Chiefy offers in Ask Chiefy the first time it needs scheduling context. Once connected, Chiefy can check your availability and, when you ask, create or update calendar events — for example, when a thread is about finding a time to meet and you want a draft that proposes one. If you don't connect your calendar, Chiefy has no access to it at all.
 
 ## What Chiefy never does on its own
 
 A few things only ever happen because you chose them:
 
-- **Chiefy never sends an email for you.** Smart Drafts and Autodraft only ever prepare a draft — it waits in your mailbox until you review and send it yourself.
+- **Chiefy never sends an email automatically.** Smart Drafts — including its automatic Autodraft mode — only ever prepare a draft. It waits in your mailbox until you review and send it. Chiefy will only send for you when you explicitly tell it to, such as asking Ask Chiefy to send a draft you've approved.
 - **Chiefy never shares your email with an outside AI service on its own.** Your mailbox data stays within Chiefy as it works.
 
 The one place email content leaves Chiefy is when **you** use Chiefy inside ChatGPT. In that case, the email content needed to answer your request is sent to OpenAI to fulfill it — because you've asked ChatGPT to do the work. That flow is described in our privacy policy, and you control it from your ChatGPT settings, including disconnecting Chiefy there whenever you want.
@@ -50,13 +48,13 @@ The one place email content leaves Chiefy is when **you** use Chiefy inside Chat
 
 ## Granular permissions in ChatGPT
 
-When you connect Chiefy as an app inside ChatGPT, the connection is broken into five separate permissions, so the access is explicit rather than all-or-nothing:
+When you connect Chiefy as an app inside ChatGPT, the connection is broken into five separate permissions, shown on the approval screen, so the access is explicit rather than all-or-nothing:
 
-- read your inbox
-- write to your inbox
-- read your drafts
-- create and update drafts
-- send drafts
+- Read your emails, threads, and briefs
+- Manage your inbox (labels, read status)
+- Read your draft replies
+- Create and edit draft replies
+- Send emails on your behalf
 
 This is the access ChatGPT is granted on your behalf. You can review or revoke it any time from your ChatGPT app settings.
 
@@ -65,15 +63,15 @@ This is the access ChatGPT is granted on your behalf. You can review or revoke i
 You're always in control of the connection. To stop Chiefy from reading or writing in a mailbox, disconnect it.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Settings → Connected Mailboxes" figcaption="Settings → Connected Mailboxes shows each account and a Disconnect option.">
-  <SettingRow title="you@gmail.com" description="Gmail · primary · connected" iconKey="mailboxes" />
+<MockWindow title="Chiefy · Settings → Integrations → Connected Mailboxes" figcaption="Each connected account appears as a row; open the ⋯ menu to disconnect.">
+  <SettingRow title="you@gmail.com" description="Gmail · connected" iconKey="mailboxes" />
   <SettingRow title="you@outlook.com" description="Outlook · connected" iconKey="mailboxes" />
-  <SettingRow title="Disconnect a mailbox" description="Pauses reading, drafting, and sync for that account" iconKey="shield" on={false} />
+  <SettingRow title="Disconnect a mailbox" description="In the row's ⋯ menu — pauses reading, drafting, and sync for that account" iconKey="shield" on={false} />
 </MockWindow>
 
-Open **Chiefy → Settings → Connected Mailboxes**, find the account, and choose **Disconnect**. That pauses all reading, drafting, and sync for that mailbox. If you want to remove the email Chiefy has already synced, that's a separate step — see [Delete your data or revoke access](/help/privacy-security/delete-your-data-or-revoke-access).
+Go to **Settings → Integrations → Connected Mailboxes**. (You can reach Settings from the **Settings** item in the Chiefy side-panel menu, which opens the web app, or go to [app.chiefy.com](https://app.chiefy.com) directly.) Find the account, open its overflow menu (**⋯**), and choose **Disconnect**. That pauses all reading, drafting, and sync for that mailbox; anything already synced is kept, and you can reconnect later. If you want to remove the email Chiefy has already synced, that's a separate step — see [Delete your data or revoke access](/help/privacy-security/delete-your-data-or-revoke-access).
 
-{/* VERIFY: confirm the exact in-product label for the disconnect entry point ("Connected Mailboxes" settings section + per-row "Disconnect"). Server route exists (settings/mailboxes/<id>/disconnect) but the React label string was not confirmed. */}
+> **Rolling out.** Connected Mailboxes is available to a limited set of accounts while we roll it out. If you don't see it yet, you can still revoke Chiefy's access from your email provider's account settings, or delete your Chiefy account.
 
 > The mailbox you use to sign in to Chiefy can't be disconnected on its own — it's tied to your login. To remove it, you delete your Chiefy account.
 

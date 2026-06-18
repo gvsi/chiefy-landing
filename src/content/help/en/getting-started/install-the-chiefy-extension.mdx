@@ -14,10 +14,10 @@ import HelpStep from "../../../../components/help/HelpStep.astro"
 import MockWindow from "../../../../components/help/MockWindow.astro"
 
 <HelpTldr>
-  Install Chiefy from the Chrome Web Store, then open Gmail. Chiefy adds a button to Gmail's top toolbar so its features sit right where you read your email. Installing doesn't connect your inbox yet — that's the next step.
+  Install Chiefy from the Chrome Web Store, then open Gmail. Chiefy adds a button to Gmail's top bar so its features sit right where you read your email. Installing doesn't connect your inbox yet — that's the next step.
 </HelpTldr>
 
-Chiefy lives inside Gmail. You add it once from the Chrome Web Store, and from then on its features are a click away, right in the toolbar above your inbox. There's nothing to download and nothing to configure manually — Chrome handles the install for you.
+Chiefy lives inside Gmail. You add it once from the Chrome Web Store, and from then on its features are a click away, right in Gmail's top bar. There's nothing to download and nothing to configure manually — Chrome handles the install for you.
 
 ## Install from the Chrome Web Store
 
@@ -25,7 +25,7 @@ Chiefy installs like any other Chrome extension, straight from the Chrome Web St
 
 <HelpSteps>
   <HelpStep title="Open the Chiefy listing">
-    Go to the Chiefy page on the Chrome Web Store. {/* VERIFY: confirm the canonical Chrome Web Store listing URL to link here */}
+    Go to the [Chiefy page on the Chrome Web Store](https://chromewebstore.google.com/detail/aiigdjghdodkbipkkcjacnhednmlhemo).
   </HelpStep>
   <HelpStep title="Add it to Chrome">
     Select **Add to Chrome**, then confirm in the dialog Chrome shows. Chrome installs Chiefy and adds it to your browser.
@@ -37,13 +37,13 @@ Chiefy installs like any other Chrome extension, straight from the Chrome Web St
 
 ## Where to find Chiefy in Gmail
 
-Once installed, Chiefy adds a button to Gmail's top toolbar — the row of controls above your inbox. Select it to open the Chiefy panel.
+Once installed, Chiefy adds a button to Gmail's top bar — the header row across the top of Gmail, near the settings and account controls. Select it to open the Chiefy panel.
 
-On some Gmail layouts, Chiefy also appears as an item in Gmail's left-hand app menu. That entry is optional and depends on your Gmail view, but the toolbar button is always there.
+On some Gmail layouts, Chiefy also appears as an item in Gmail's left-hand app menu. That entry is optional and depends on your Gmail view, but the top-bar button is the main way in.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Gmail · Inbox" figcaption="Chiefy adds a button to Gmail's top toolbar. Select it to open the Chiefy panel.">
-  Look for the Chiefy icon in the toolbar above your inbox, alongside Gmail's own controls.
+<MockWindow title="Gmail · Inbox" figcaption="Chiefy adds a button to Gmail's top bar. Select it to open the Chiefy panel.">
+  Look for the Chiefy icon in Gmail's top bar, alongside Gmail's own controls.
 </MockWindow>
 
 > If you don't see the Chiefy button after installing, see [The Chiefy icon is missing in Gmail](/help/getting-started/the-chiefy-icon-is-missing-in-gmail).
@@ -54,7 +54,7 @@ Installing the extension puts Chiefy in Gmail, but it doesn't sign you in or giv
 
 Open the Chiefy panel and follow the prompt to connect an account. For the full walkthrough, see [Connect Gmail or Outlook](/help/getting-started/connect-gmail-or-outlook).
 
-> Today Chiefy works inside Gmail. Outlook support is being prepared, and the extension already includes the permissions it will need for it — but those stay dormant until Outlook is available. {/* VERIFY: confirm public phrasing for Outlook readiness; manifest has optional_host_permissions for chiefy.com reserved for future Outlook support */}
+> The browser extension's in-Gmail buttons and panel work in **Gmail only**. You can still connect an **Outlook** account — Chiefy keeps it organized and prepares drafts behind the scenes — but Outlook doesn't have the in-mailbox extension buttons that Gmail does. You'll work with your Outlook mailbox through Chiefy on the web instead.
 
 ## What's next
 

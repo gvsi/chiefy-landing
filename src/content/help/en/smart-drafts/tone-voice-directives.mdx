@@ -16,11 +16,11 @@ import SettingRow from "../../../../components/help/SettingRow.astro"
   Two controls shape every Smart Draft: tone sets the style, length sets the size. On top of that, Chiefy learns from your past emails to sound like you — and a short directive tells it exactly what to say.
 </HelpTldr>
 
-Smart Drafts gives you three ways to steer a reply. **Tone** and **length** are quick controls you set in the compose area. Your **voice** is something Chiefy learns from your email history. And a **directive** is a short instruction you type to say what this particular reply should cover. Together they let you go from a blank reply to one that reads like you wrote it.
+Smart Drafts gives you three ways to steer a reply. **Tone** and **length** are quick controls that shape the draft. Your **voice** is something Chiefy learns from your email history. And a **directive** is a short instruction you type to say what this particular reply should cover. Together they let you go from a blank reply to one that reads like you wrote it.
 
 ## Tone
 
-Tone sets the style of the writing. You pick it from the tone control next to the prompt field, and Chiefy carries it through the whole draft. There are five options:
+Tone sets the style of the writing. You pick it from the tone control on the draft, and Chiefy carries it through the whole draft. There are five options:
 
 - **Casual** — informal, with short sentences. Good for personal or friendly notes.
 - **Formal** — structured and polished, with complete sentences. Good for official communication.
@@ -37,10 +37,10 @@ Length controls how much Chiefy writes. There are four options:
 - **Medium** — one to two paragraphs, for most fuller professional messages.
 - **Long** — two or more paragraphs with detail, for complex or formal topics.
 
-The tone and length you choose in the compose area are passed straight to Chiefy when it writes, so the draft you get back already matches what you set.
+Chiefy picks a sensible tone and length for the first draft based on the thread. The tone and length controls then let you steer from there — switch either one and Chiefy reshapes the draft to match.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Smart Drafts" figcaption="Tone and length controls sit next to the prompt field; the same reply changes shape as you switch them.">
+<MockWindow title="Chiefy · Smart Drafts" figcaption="Tone and length sit on the draft; the same reply changes shape as you switch them.">
   <SettingRow title="Tone" description="Professional — clear and business-appropriate" iconKey="sliders" on={false} />
   <SettingRow title="Length" description="Short — 1–2 sentences (default)" iconKey="sliders" on={false} />
 </MockWindow>
@@ -48,10 +48,10 @@ The tone and length you choose in the compose area are passed straight to Chiefy
 Here is roughly how the same reply shifts when you change one control:
 
 - **Direct + very short:** "Tuesday at 2pm works — I'll send an invite."
-- **Friendly + short:** "Thanks for the flexibility! Tuesday at 2pm works well for me. I'll send over a calendar invite shortly."
+- **Friendly + short:** "Thanks for the flexibility! Tuesday at 2pm works well — I'll send over a calendar invite shortly."
 - **Professional + medium:** a short paragraph confirming Tuesday, noting the call length, and offering to share an agenda beforehand.
 
-{/* VERIFY: the three example drafts above are illustrative paraphrases, not captured product output — confirm they read true to real tone/length behavior. */}
+These examples are illustrations, not exact product output — the wording you get will be your own.
 
 ## Your voice
 
@@ -76,10 +76,10 @@ When a specific detail is genuinely missing — a date you have not confirmed, a
 
 Once you have a draft, you can adjust it without rewriting your directive. Each refinement keeps the core intent and facts intact and changes only what you ask for:
 
-- **Improve** — tightens clarity and flow while preserving meaning, tone, and length.
+- **Improve and polish** — tightens clarity and flow while preserving meaning, tone, and length.
 - **Simplify** — plainer language and simpler sentences, keeping the key facts and asks.
-- **Fix grammar** — corrects grammar, spelling, and punctuation only; nothing else moves.
-- **Retry** — rewrites from scratch using the same intent and context, in case you want a fresh take.
+- **Fix typos and grammar** — corrects grammar, spelling, and punctuation only; nothing else moves.
+- **Rewrite** — writes the draft again from scratch using the same intent and context, in case you want a fresh take.
 
 You can also switch tone or length on an existing draft and Chiefy will reshape it to match.
 

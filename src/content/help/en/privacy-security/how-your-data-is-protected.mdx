@@ -52,8 +52,6 @@ Separately from your mailbox connection, Chiefy protects your own sign-in to the
 
 If a refresh token is ever presented twice — a signal that it may have been stolen and replayed — Chiefy treats that as a security event and revokes the entire chain of related tokens at once, rather than honoring the request. That family-based revocation means a leaked token can't be quietly reused to stay signed in. Per-device sign-ins are also tracked as groups, so you can be signed out of one device without disturbing the others.
 
-{/* VERIFY: refresh-token replay detection + family-based revocation is verified in the codebase (token_families.py for product sessions; chatgpt_app/oauth_routes.py for the ChatGPT connector). This paragraph describes it at user altitude; confirm wording with the security team before publishing. */}
-
 ## Data minimization
 
 The strongest protection for sensitive data is not collecting it in the first place. Chiefy is built to keep what it needs to do its job for you and avoid spreading sensitive details further than necessary:
@@ -67,5 +65,3 @@ For the full picture of what Chiefy reads and what it deliberately leaves alone,
 ## You stay in control
 
 Encryption and careful handling are only half of trust — the other half is being able to walk away. You can disconnect any mailbox, sign out of a single device, or delete your data and revoke Chiefy's access to your accounts entirely. When you revoke access at your email provider, the token Chiefy holds stops working. See [Delete your data or revoke access](/help/privacy-security/delete-your-data-or-revoke-access) for the steps.
-
-{/* VERIFY: this article intentionally avoids naming every encrypted collection/field and avoids hard compliance/certification claims (SOC 2, ISO, etc.). Confirm with the security team whether any certifications or additional guarantees should be stated, and whether the encryption-scope list above is complete and safe to publish. */}

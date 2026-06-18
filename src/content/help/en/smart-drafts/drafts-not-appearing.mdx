@@ -5,8 +5,8 @@ category: "smart-drafts"
 type: "troubleshooting"
 order: 30
 keywords: ["smart drafts not appearing", "autodraft not working", "no draft in gmail", "autodraft missing", "draft troubleshooting"]
-relatedSlugs: ["smart-drafts/use-smart-drafts-on-demand", "smart-drafts/turn-on-autodraft"]
-updatedAt: 2026-06-16
+relatedSlugs: ["smart-drafts/use-smart-drafts-on-demand", "smart-drafts/turn-on-autodraft", "connected-mailboxes/what-automates-on-secondary-mailboxes"]
+updatedAt: 2026-06-18
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
@@ -71,25 +71,29 @@ So an inbox with no new Autodrafts often just means nothing in it needed one. Th
 
 {/* TODO: real screenshot */}
 <MockWindow title="Gmail · Inbox" tight figcaption="Threads that clearly need a reply get an Autodraft; notifications are left alone.">
-  <MailRow avatar="RH" from="Risøyhamn Sjøhus" time="9:24 AM" subject="Re: Booking for 4 — last weekend of August" preview="Hi — could you confirm the two double rooms and…" pillLabel="Autodraft ready" pillVariant="autodraft" />
+  <MailRow avatar="RH" from="Risøyhamn Sjøhus" time="9:24 AM" subject="Re: Booking for 4 — last weekend of August" preview="Hi — could you confirm the two double rooms and…" pillLabel="Draft" pillVariant="draft" />
   <MailRow avatar="ST" from="Stripe" time="7:30 AM" subject="Your payout is on the way" preview="A payout of €1,240.00 is on its way to your…" pillLabel="No reply needed" pillVariant="action" last />
 </MockWindow>
 
-## Sensitive topics are held back on purpose
+## Sensitive topics are treated carefully
 
-Some threads are too high-stakes for an automatic draft. Autodraft treats topics like legal disputes, HR or payroll matters, financial decisions, and replies that would commit you to something you haven't agreed to as sensitive — and the safety system holds those back or lowers their confidence so they don't surface as a finished draft. {/* VERIFY: framing — sensitive-topic / unverified-commitment are Layer-3 deductions (ADR 0009), so they lower confidence rather than hard-block; a thread Chiefy recognizes as your established routine may still draft. */}
+Some threads are higher-stakes than most. When a reply would need fresh judgment on something contested or novel — a legal dispute, an HR or payroll matter, a financial decision, or a promise to do something you haven't agreed to — Autodraft lowers its confidence in drafting it, so it's more likely to skip the thread than put words in your mouth.
 
-This is intentional. For these threads, write the reply yourself, or ask for an on-demand Smart Draft and review it carefully before sending.
+This isn't a hard wall. If it's a topic you handle as a matter of routine — a booking confirmation, a standard refund, an invoice reply you send all the time — Chiefy recognizes the pattern and will still draft it, even though money is involved. It's the genuinely novel, judgment-heavy threads that get held back.
 
-## Your sensitivity setting may be filtering them out
+For those, write the reply yourself, or ask for an on-demand Smart Draft and review it carefully before sending.
 
-Autodraft has a sensitivity setting that controls how often it drafts. A more conservative setting means Chiefy only drafts replies to direct questions and explicit requests; a more permissive setting means it also drafts socially expected or purely polite replies.
+## Your reply-frequency setting may be filtering them out
 
-If you've set it conservatively and a thread is more of a courtesy reply than a direct question, Autodraft will skip it. If you want drafts for more of your email, open **Chiefy → Settings → Smart Drafts** and loosen the sensitivity setting. {/* VERIFY: exact label/wording of the sensitivity control in the live Settings UI. */}
+In Smart Drafts settings there's a **How often do you like to reply?** control with four choices, from *I only reply when there's a direct question or request* through *I reply to almost everything, even just to be polite*. It controls how much of your email Autodraft drafts for.
+
+If you've picked one of the more selective options and a thread is more of a courtesy reply than a direct question, Autodraft will skip it. If you want drafts for more of your email, open **Chiefy → Settings → Smart Drafts** and move **How often do you like to reply?** toward the more inclusive end.
 
 ## Using a Connected Mailbox?
 
-Each account you've added has its **own Autodraft toggle**. Turning Autodraft on for your primary mailbox doesn't turn it on for the others. If drafts are appearing for one account but not another, open Settings for the account that's missing drafts and confirm its Autodraft toggle is on. See [Connected Mailboxes](/help/connected-mailboxes) for how per-account settings work.
+Autodraft runs on your **sign-in mailbox** — the account you log in with — not on the other mailboxes you've connected. A connected mailbox is read across (search and Ask Chiefy) today, but Chiefy doesn't yet prepare automatic drafts in it. So if drafts appear for the account you signed in with but not for one you added later, that's expected — drafting on connected mailboxes is something we're building toward.
+
+You can still set Smart Drafts per mailbox now — on or off, sensitivity, and signature — and those choices are saved and waiting for when drafting extends to connected mailboxes. For exactly what runs where, see [What automates on each mailbox and why](/help/connected-mailboxes/what-automates-on-secondary-mailboxes).
 
 ## Still not seeing a draft?
 

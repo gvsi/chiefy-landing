@@ -6,7 +6,7 @@ type: "how-to"
 order: 20
 keywords: ["connect gmail", "connect outlook", "sign in to chiefy", "oauth", "authorize inbox access"]
 relatedSlugs: ["getting-started/install-the-chiefy-extension", "getting-started/your-first-five-minutes-with-chiefy"]
-updatedAt: 2026-06-16
+updatedAt: 2026-06-18
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
@@ -14,10 +14,10 @@ import HelpStep from "../../../../components/help/HelpStep.astro"
 import MockWindow from "../../../../components/help/MockWindow.astro"
 
 <HelpTldr>
-  Sign in with Google for Gmail or with Microsoft for Outlook. Chiefy uses your provider's own sign-in screen — you authorize access there, and your password never touches Chiefy. Once you're in, your inbox is connected and a 14-day trial starts.
+  Choose **Continue with Google** for Gmail or **Continue with Microsoft** for Outlook. Chiefy uses your provider's own sign-in screen — you authorize access there, and your password never touches Chiefy. Once you're in, your inbox is connected and Chiefy walks you through a short setup.
 </HelpTldr>
 
-Connecting takes a moment. You sign in through Google or Microsoft, review what Chiefy is asking for, and approve it. From then on, Chiefy can read your inbox and prepare drafts in the side panel — all through your provider's secure sign-in, so you never share your password with us.
+Connecting takes a moment. You sign in through Google or Microsoft, review what Chiefy is asking for, and approve it. From then on, Chiefy can read your inbox and prepare drafts for you — all through your provider's secure sign-in, so you never share your password with us. In Gmail, you work with Chiefy right in the side panel; Outlook inboxes are connected and worked on in the background, since the in-mail side panel is Gmail-only today.
 
 ## Before you start
 
@@ -32,11 +32,11 @@ There are two ways to begin, and both lead to the same secure sign-in screen.
     Click the **Chiefy** icon in Gmail to open the side panel, or go to [app.chiefy.com](https://app.chiefy.com) directly. Either one starts the sign-in flow.
     {/* TODO: real screenshot */}
     <MockWindow title="Chiefy · Sign in" figcaption="Choose how you sign in: Google for Gmail, Microsoft for Outlook.">
-      Sign in with Google · Sign in with Microsoft
+      Continue with Google · Continue with Microsoft
     </MockWindow>
   </HelpStep>
   <HelpStep title="Choose your provider">
-    Pick **Sign in with Google** to connect Gmail, or **Sign in with Microsoft** to connect Outlook. Chiefy hands you off to that provider's own sign-in page to finish authenticating.
+    Pick **Continue with Google** to connect Gmail, or **Continue with Microsoft** to connect Outlook. Chiefy hands you off to that provider's own sign-in page to finish authenticating.
   </HelpStep>
   <HelpStep title="Review and approve access">
     On your provider's screen, sign in to the account you want to use and review the access Chiefy is requesting. Gmail asks you to allow Chiefy to read, compose, send, and manage your email; Outlook asks for the equivalent. Approve it to continue.
@@ -56,11 +56,11 @@ Sign-in uses OAuth, the standard way to grant an app access without sharing your
 
 Once you approve, Chiefy completes sign-in and your inbox is connected.
 
-- You're signed in and a **14-day free trial** begins, with no charge until it ends. {/* VERIFY: the trial is created at Stripe checkout during the onboarding pricing step (trial_period_days: 14), and only if you haven't used a trial before — it does not start at the moment OAuth completes. Confirm the desired user-facing framing. */}
-- You're taken into the onboarding flow — the pricing step, then a confirmation — so Chiefy is ready in your inbox.
-- The extension notices you're signed in automatically. It watches a small sign-in marker that the connection sets, so it picks up sign-in, sign-out, and routine session refreshes without you doing anything. {/* VERIFY: extension monitors the non-HttpOnly duet_token_expiry companion cookie via browser.cookies.onChanged; the JWT access cookie itself is HttpOnly. Kept deliberately non-technical for users. */}
+- You're taken into a short setup flow — a pricing step, then a confirmation — so Chiefy is ready in your inbox.
+- At the pricing step, first-time users start a **14-day free trial** with no charge until it ends. If you've used a trial before, you'll go straight to choosing a plan.
+- The extension notices you're signed in automatically. It watches a small sign-in marker that the connection sets, so it picks up sign-in, sign-out, and routine session refreshes without you doing anything.
 
-After that, reload Gmail if it's open and the Chiefy side panel is ready to use.
+After that, if you connected Gmail, reload it when it's open and the Chiefy side panel is ready to use. If you connected Outlook, there's nothing to reload — Chiefy starts working on your inbox in the background.
 
 ## If sign-in doesn't work
 
@@ -69,8 +69,8 @@ If something goes wrong, Chiefy shows a message tailored to your provider — Go
 - **Wrong account.** You signed in with a different account than the one you meant to connect. Sign out of that account with your provider, or start sign-in again and pick the right one.
 - **Access not granted.** You closed the provider's screen or declined a permission Chiefy needs. Start sign-in again and approve the requested access — Chiefy can't read your inbox or prepare drafts without it.
 
-If you approve everything and still can't connect, try signing in from [app.chiefy.com](https://app.chiefy.com) in a fresh tab, then reload Gmail.
+If you approve everything and still can't connect, try signing in from [app.chiefy.com](https://app.chiefy.com) in a fresh tab. If you connected Gmail, reload it afterward so the side panel picks up your session.
 
 ## Next steps
 
-You're connected. Next, see [Your first five minutes with Chiefy](/help/getting-started/your-first-five-minutes-with-chiefy) to get oriented in the side panel.
+You're connected. Next, see [Your first five minutes with Chiefy](/help/getting-started/your-first-five-minutes-with-chiefy) to get oriented and see what Chiefy does with your inbox.

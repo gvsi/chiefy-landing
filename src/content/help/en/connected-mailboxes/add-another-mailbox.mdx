@@ -6,7 +6,7 @@ type: "how-to"
 order: 10
 keywords: ["connect mailbox", "add gmail account", "add outlook account", "multiple mailboxes", "connected mailboxes"]
 relatedSlugs: ["connected-mailboxes/what-automates-on-secondary-mailboxes", "smart-drafts/turn-on-autodraft", "getting-started/connect-gmail-or-outlook"]
-updatedAt: 2026-06-16
+updatedAt: 2026-06-18
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
@@ -17,6 +17,8 @@ import SettingRow from "../../../../components/help/SettingRow.astro"
 <HelpTldr>
   You can run several mailboxes under one Chiefy login. Open Settings → Integrations → Connected Mailboxes, choose Gmail or Outlook, and approve access. The new mailbox starts working right away — searchable and ready for Ask Chiefy.
 </HelpTldr>
+
+> **Rolling out.** Connecting additional mailboxes is currently available to a limited set of accounts while we roll it out. If you don't see these options yet, they're on the way.
 
 Most people have more than one inbox — a work Gmail, a personal Outlook, a shared booking address. Connected Mailboxes brings them together so Chiefy can read across all of them from a single login. You can connect up to eight mailboxes, in any mix of Gmail and Outlook.
 
@@ -45,7 +47,7 @@ You'll need to be signed in to Chiefy with the mailbox you already use. That fir
     </MockWindow>
   </HelpStep>
   <HelpStep title="Sign in and approve access">
-    A sign-in window opens for the provider you chose. Sign in to the account you want to add and approve the permissions — Chiefy asks for mail access so it can read and draft on that mailbox. Keep the mail permission checked, or the connection can't complete.
+    A sign-in window opens for the provider you chose. Sign in to the account you want to add and approve the permissions — Chiefy asks for mail access so it can read your mail there. Keep the mail permission checked, or the connection can't complete.
   </HelpStep>
   <HelpStep title="See it confirmed" anno="C">
     When the window closes, a **Mailbox connected** banner appears and the new mailbox joins the list.
@@ -60,7 +62,7 @@ You'll need to be signed in to Chiefy with the mailbox you already use. That fir
 
 A newly connected mailbox is on by default. As soon as it finishes syncing, its email is searchable and available to [Ask Chiefy](/help/ask-chiefy), so you can ask questions across all your inboxes at once.
 
-If you'd rather keep a mailbox synced but leave it out of search and assistant answers, each row has a **Use with Chiefy** toggle you can turn off. Your sign-in mailbox stays on — it can't be turned off, because you use it to log in.
+A connected mailbox is automatically included in search and Ask Chiefy — there's no separate switch to turn that on or off. If you want to stop Chiefy reading a mailbox, disconnect it. Your sign-in mailbox is always included and can't be disconnected, because you use it to log in.
 
 > Reading across mailboxes and writing on them are separate things. For exactly what runs automatically on a secondary mailbox, see [What automates on secondary mailboxes](/help/connected-mailboxes/what-automates-on-secondary-mailboxes).
 

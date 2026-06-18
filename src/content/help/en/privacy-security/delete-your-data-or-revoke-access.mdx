@@ -5,7 +5,7 @@ category: "privacy-security"
 type: "how-to"
 order: 30
 keywords: ["delete account", "revoke access", "disconnect mailbox", "data deletion", "GDPR erasure"]
-relatedSlugs: ["privacy-security/what-chiefy-can-and-cannot-access", "privacy-security/how-your-data-is-protected"]
+relatedSlugs: ["privacy-security/what-chiefy-can-and-cannot-access", "privacy-security/how-your-data-is-protected", "connected-mailboxes/disconnect-or-pause-a-mailbox"]
 updatedAt: 2026-06-16
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
@@ -22,19 +22,21 @@ There are three things you might mean by "remove my data," and they're different
 
 ## Disconnect a mailbox
 
+> **Rolling out.** Connecting and disconnecting additional mailboxes is available to a limited set of accounts while we roll it out. If you don't have it yet, you can revoke Chiefy's access from your email provider, or delete your Chiefy account (below).
+
 Disconnecting tells Chiefy to stop watching and syncing a connected account. Automation pauses, new mail stops syncing, and the mailbox moves to a disconnected state — but anything already synced is retained, so you can reconnect later without losing your setup.
 
 <HelpSteps>
   <HelpStep title="Open Connected Mailboxes">
-    In Gmail, open the Chiefy side panel, choose **Settings**, then **Mailboxes**.
+    In the Chiefy web app, open **Integrations**, then find **Connected mailboxes**. (You can open the web app from the **Settings** item in the Chiefy side-panel menu, or go to [app.chiefy.com](https://app.chiefy.com) directly.) Each connected account appears as a row with its current status.
   </HelpStep>
   <HelpStep title="Find the mailbox">
     Locate the account you want to step back from in the list.
   </HelpStep>
   <HelpStep title="Disconnect it" anno="A">
-    Open the mailbox and choose **Disconnect**. Chiefy pauses automation and sync for that account right away. Your previously synced data stays in place.
+    On that mailbox's row, open the overflow menu (**⋯**) and choose **Disconnect**, then confirm. Chiefy pauses automation and sync for that account right away. Your previously synced data stays in place.
     {/* TODO: real screenshot */}
-    <MockWindow title="Chiefy · Settings → Mailboxes" figcaption="Settings → Mailboxes → open a mailbox → Disconnect.">
+    <MockWindow title="Chiefy · Integrations → Connected mailboxes" figcaption="Open the ⋯ menu on a mailbox and choose Disconnect.">
       <SettingRow title="work@company.com" anno="A" description="Disconnect to pause automation and sync — synced data is kept" iconKey="mailboxes" on={false} />
     </MockWindow>
   </HelpStep>
@@ -42,7 +44,7 @@ Disconnecting tells Chiefy to stop watching and syncing a connected account. Aut
 
 > **You can't disconnect the mailbox you sign in with.** Because you signed in to Chiefy as that account, it can't be disconnected from this screen. If you want to fully step away from it, request data deletion below.
 
-Disconnecting is a pause, not an erasure. To remove the synced data as well, use the deletion request further down this page.
+Disconnecting is a pause, not an erasure. For the full flow — what changes after you disconnect, and how to reconnect — see [Disconnect or pause a mailbox](/help/connected-mailboxes/disconnect-or-pause-a-mailbox). To remove the synced data as well, use the deletion request further down this page.
 
 ## Revoke the Chiefy app in ChatGPT
 
@@ -74,8 +76,7 @@ When you want your personal data removed for good — not just paused — send u
 
 <HelpSteps>
   <HelpStep title="Email us">
-    Send a data deletion request to **hello@duetmail.com** from the email address on your account, so we can verify it's you.
-    {/* VERIFY: privacy policy + codebase only list hello@duetmail.com as the contact email. The brief also mentioned support@duetmail.com, which I could not find anywhere — confirm before adding it. */}
+    Send a data deletion request to **hello@chiefy.com** from the email address on your account, so we can verify it's you.
   </HelpStep>
   <HelpStep title="Tell us what you want removed">
     Let us know you'd like your personal data deleted. We'll confirm the request and remove your personal data from our records.
@@ -93,4 +94,4 @@ If you're in the EU, the law gives you specific rights over your personal data, 
 - **Erase** your personal data when there's no good reason for us to keep processing it
 - **Port** your data — receive it in a structured, commonly used, machine-readable format
 
-To exercise any of these, email us at **hello@duetmail.com**. The same legal exceptions noted above can apply, and we'll explain if one affects your request.
+To exercise any of these, email us at **hello@chiefy.com**. The same legal exceptions noted above can apply, and we'll explain if one affects your request.
