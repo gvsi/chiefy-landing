@@ -49,15 +49,18 @@ function assertJsonValue(relativePath, selector, expected) {
   }
 }
 
-assertIncludes("astro.config.mjs", 'site: "https://chiefy.com"');
+assertIncludes("astro.config.mjs", "site: SITE_URL");
+assertIncludes("astro.config.mjs", '|| "https://chiefy.com"');
 assertIncludes("src/utils/constants.ts", 'APP_URL = "https://app.chiefy.com"');
 assertIncludes("src/utils/constants.ts", 'SUPPORT_EMAIL = "hello@chiefy.com"');
-assertIncludes("src/layouts/BaseLayout.astro", 'content="Chiefy"');
-assertIncludes("src/layouts/BaseLayout.astro", 'content="@ChiefyApp"');
+assertIncludes("src/layouts/BaseLayout.astro", "content={SITE_BRAND}");
+assertIncludes("src/layouts/BaseLayout.astro", "content={SITE_TWITTER}");
+assertIncludes("src/utils/brand.ts", 'DEFAULT_SITE_BRAND = "Chiefy"');
+assertIncludes("src/utils/brand.ts", 'DEFAULT_SITE_TWITTER = "@ChiefyApp"');
 
 assertJsonValue("src/i18n/content/home/en.json", (home) => home.meta.title, "Chiefy | AI chief of staff for Gmail and Outlook");
 assertJsonValue("src/i18n/content/home/en.json", (home) => home.jsonLd.websiteName, "Chiefy");
-assertJsonValue("src/i18n/messages/en.json", (messages) => messages["footer.tagline"], "Chiefy, formerly Duet Mail");
+assertJsonValue("src/i18n/messages/en.json", (messages) => messages["footer.tagline"], "Your AI chief of staff");
 assertJsonValue("src/i18n/messages/en.json", (messages) => messages["footer.copyright"], "Chiefy © {year}");
 
 const publicAssetExpectations = [
@@ -80,15 +83,20 @@ const sourceFiles = [
   ...walk("src/components", [".astro", ".ts"]),
   ...walk("src/layouts", [".astro"]),
   ...walk("src/pages", [".astro", ".ts"]),
+  ...walk("src/utils", [".ts"]),
   ...walk("src/i18n/content/home", [".json"]),
   ...walk("src/i18n/content/verticals", [".json"]),
   ...walk("src/i18n/messages", [".json"]),
   ...walk("src/content/blog", [".md"]),
 ];
+// NB: i18n term-dictionaries (src/i18n/glossary.source.json locked_terms,
+// fieldClassifications.json routing regexes) are intentionally NOT scanned — they
+// hold "Duet Mail"/"Duet" as managed do-not-translate terms by design (per the i18n
+// glossary contract; the locked term also guards the legal "Duet Mail LLC"), not as
+// rendered brand copy. This gate scans rendered/code source, not translation tooling.
 
-const allowedFormerlyBridge = "Chiefy, formerly Duet Mail";
 for (const relativePath of sourceFiles) {
-  const content = read(relativePath).replaceAll(allowedFormerlyBridge, "");
+  const content = read(relativePath);
   if (content.includes("Duet Mail")) {
     fail(`${relativePath} still contains visible Duet Mail product copy`);
   }
@@ -103,8 +111,7 @@ for (const relativePath of sourceFiles) {
 const legalFiles = walk("src/i18n/content/legal", [".html"]);
 for (const relativePath of legalFiles) {
   const content = read(relativePath)
-    .replaceAll("Duet Mail LLC", "")
-    .replaceAll(allowedFormerlyBridge, "");
+    .replaceAll("Duet Mail LLC", "");
   if (content.includes("Duet Mail")) {
     fail(`${relativePath} contains Duet Mail outside the legal operator name`);
   }
