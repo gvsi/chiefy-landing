@@ -104,7 +104,7 @@ html[data-theme="light"] {
 /* ---- hero ------------------------------------------------------------ */
 .help-hero {
     text-align: center;
-    padding: 76px 0 30px;
+    padding: 116px 0 30px;
     position: relative;
 }
 .help-eyebrow {
@@ -434,7 +434,7 @@ html[data-theme="light"] {
     display: grid;
     grid-template-columns: 248px minmax(0, 1fr);
     gap: 48px;
-    padding: 36px 0 60px;
+    padding: 104px 0 60px;
     align-items: start;
 }
 .help-doc.with-toc {
@@ -1394,3 +1394,6 @@ html[data-theme="light"] {
         animation: none;
     }
 }
+
+/* clear the fixed site nav on in-page anchor jumps (TOC) */
+.help-article :is(h1, h2, h3) { scroll-margin-top: 104px; }
