@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail per a botigues de busseig | AI Assistent de correu electrònic",
-  "metaDescription": "Duet Mail ajuda els propietaris de botigues de busseig i els instructors PADI a respondre a les consultes de certificació, reserves de viatges i preguntes d'equip a l'instant, fins i tot des de sota l'aigua.",
+  "pageTitle": "Chiefy per a botigues de busseig | AI Assistent de correu electrònic",
+  "metaDescription": "Chiefy ajuda els propietaris de botigues de busseig i els instructors PADI a respondre a les consultes de certificació, reserves de viatges i preguntes d'equip a l'instant, fins i tot des de sota l'aigua.",
   "heroBadge": "Més de 300 operadors de busseig confiats",
   "heroHeadline": "El teu assistent de correu electrònic mentre estàs sota l'aigua",
-  "heroSubline": "Duet coneix els vostres llocs d'immersió, els requisits de certificació, els preus i la veu i, a continuació, redacta les respostes per correu electrònic perquè mai perdeu una reserva mentre esteu al vaixell.",
+  "heroSubline": "Chiefy coneix els vostres llocs d'immersió, els requisits de certificació, els preus i la veu i, a continuació, redacta les respostes per correu electrònic perquè mai perdeu una reserva mentre esteu al vaixell.",
   "inboxEmails": [
     {
       "from": "Raquel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "immersió",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Una immersió de grup desada paga un any de Duet."
+    "punchline": "Una immersió de grup desada paga un any de Chiefy."
   },
-  "categorizationSubtitle": "Duet etiqueta automàticament tots els correus electrònics perquè vegeu primer les consultes de certificació i les reserves d'immersió, en segon lloc les preguntes sobre l'equip i les alertes PADI quan estigueu preparat. Ja no et perdis una reserva de grup enterrada sota butlletins d'equips.",
-  "draftSubtitle": "Duet coneix els vostres llocs d'immersió, requisits de certificació i preus. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, què s'inclou i què cal portar. Tu revisa i envia.",
-  "agentSubtitle": "\"Quants bussejadors estan reservats per dissabte?\" \"Esborra una resposta a Rachel amb disponibilitat d'Open Water\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
+  "categorizationSubtitle": "Chiefy etiqueta automàticament tots els correus electrònics perquè vegeu primer les consultes de certificació i les reserves d'immersió, en segon lloc les preguntes sobre l'equip i les alertes PADI quan estigueu preparat. Ja no et perdis una reserva de grup enterrada sota butlletins d'equips.",
+  "draftSubtitle": "Chiefy coneix els vostres llocs d'immersió, requisits de certificació i preus. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, què s'inclou i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Quants bussejadors estan reservats per dissabte?\" \"Esborra una resposta a Rachel amb disponibilitat d'Open Water\". Chiefy coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
       "from": "Raquel T.",
@@ -127,31 +127,31 @@
     {
       "name": "El capità Mike T.",
       "title": "Capità del vaixell de busseig, FL",
-      "quote": "Faig excursions en vaixell de divendres a diumenge i la botiga només obre unes poques hores els dilluns. Les preguntes de certificació i les consultes de viatge s'acumulen mentre estic sota l'aigua. Duet redacta les respostes amb els meus preus, els meus llocs d'immersió i el que s'inclou; les reviso entre immersions.",
+      "quote": "Faig excursions en vaixell de divendres a diumenge i la botiga només obre unes poques hores els dilluns. Les preguntes de certificació i les consultes de viatge s'acumulen mentre estic sota l'aigua. Chiefy redacta les respostes amb els meus preus, els meus llocs d'immersió i el que s'inclou; les reviso entre immersions.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen i Mark S.",
       "title": "PADI Dive Center, HI",
-      "quote": "Fem immersions, excursions amb immersió lleugera i observacions de balenes des dels mateixos vaixells. La varietat de correu electrònic és una bogeria: preguntes certes, reserves de grup, lloguer d'equips, controls meteorològics. Duet ho ordena tot i redacta respostes que coneixen la diferència. Salvavides absolut.",
+      "quote": "Fem immersions, excursions amb immersió lleugera i observacions de balenes des dels mateixos vaixells. La varietat de correu electrònic és una bogeria: preguntes certes, reserves de grup, lloguer d'equips, controls meteorològics. Chiefy ho ordena tot i redacta respostes que coneixen la diferència. Salvavides absolut.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Wreck Diving Charters, FL",
-      "quote": "La meitat dels meus correus electrònics són \"quina certificació necessito per a les immersions en naufragi?\" i l'altra meitat són 'Necessito el meu propi equipament?' Duet gestiona tots dos amb el pilot automàtic. El meu temps de resposta va passar d'hores a minuts.",
+      "quote": "La meitat dels meus correus electrònics són \"quina certificació necessito per a les immersions en naufragi?\" i l'altra meitat són 'Necessito el meu propi equipament?' Chiefy gestiona tots dos amb el pilot automàtic. El meu temps de resposta va passar d'hores a minuts.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Propietari de la botiga de busseig, CA",
-      "quote": "Durant l'estiu rebem més de 30 correus electrònics al dia sobre cursos, disponibilitat de viatges i equipament. Estava perdent reserves a les botigues que responien més ràpidament. Ara Duet ho redacta tot i només preme enviar entre classes.",
+      "quote": "Durant l'estiu rebem més de 30 correus electrònics al dia sobre cursos, disponibilitat de viatges i equipament. Estava perdent reserves a les botigues que responien més ràpidament. Ara Chiefy ho redacta tot i només preme enviar entre classes.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Guia i instructor de busseig, NC",
-      "quote": "Imparteixo cursos al matí i guio immersions a la tarda. Literalment, no hi ha temps per respondre el correu electrònic. Duet he après la meva programació del curs, els preus, fins i tot la meva política de cancel·lació. Els clients no poden notar la diferència.",
+      "quote": "Imparteixo cursos al matí i guio immersions a la tarda. Literalment, no hi ha temps per respondre el correu electrònic. Chiefy he après la meva programació del curs, els preus, fins i tot la meva política de cancel·lació. Els clients no poden notar la diferència.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Duet entén els nivells de certificació i els requisits dels cursos?",
-      "answer": "Sí. Duet aprèn els vostres cursos específics (Open Water, Advanced, Rescue, Divemaster) juntament amb els requisits previs, la durada, els preus i el que s'inclou. Quan algú pregunta sobre la certificació, Duet redacta una resposta amb els detalls del curs, la programació i els passos següents adequats. Tu revisa i envia."
+      "question": "Chiefy entén els nivells de certificació i els requisits dels cursos?",
+      "answer": "Sí. Chiefy aprèn els vostres cursos específics (Open Water, Advanced, Rescue, Divemaster) juntament amb els requisits previs, la durada, els preus i el que s'inclou. Quan algú pregunta sobre la certificació, Chiefy redacta una resposta amb els detalls del curs, la programació i els passos següents adequats. Tu revisa i envia."
     },
     {
-      "question": "Estic al vaixell o sota l'aigua tot el dia. Puc utilitzar Duet des del meu telèfon?",
-      "answer": "Sí. Duet funciona amb Gmail i Outlook, de manera que funciona allà on funcioni el vostre correu electrònic, inclòs el telèfon. Els esborranys apareixen automàticament a la safata d'entrada. Entre immersions o tornada al moll, reviseu i envieu amb un sol toc. La majoria dels operadors de busseig ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta."
+      "question": "Estic al vaixell o sota l'aigua tot el dia. Puc utilitzar Chiefy des del meu telèfon?",
+      "answer": "Sí. Chiefy funciona amb Gmail i Outlook, de manera que funciona allà on funcioni el vostre correu electrònic, inclòs el telèfon. Els esborranys apareixen automàticament a la safata d'entrada. Entre immersions o tornada al moll, reviseu i envieu amb un sol toc. La majoria dels operadors de busseig ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta."
     }
   ],
   "pricingNote": "A 150 $/immersió amb un grup de 6, un viatge guardat paga més d'un any de Pro."

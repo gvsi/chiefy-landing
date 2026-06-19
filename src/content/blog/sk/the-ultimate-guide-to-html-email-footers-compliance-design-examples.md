@@ -2,7 +2,7 @@
 title: "Kompletný sprievodca HTML pätičkami e-mailov: compliance, dizajn a príklady"
 description: "Zvládnite HTML pätičky e-mailov: základné prvky, dizajnové tipy, právny súlad (CAN-SPAM, GDPR, CASL) a príklady brandingu."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -124,4 +124,4 @@ HTML pätička e-mailu môže byť posledná vec, ktorú príjemcovia uvidia, al
 
 Buduje dôveru, posilňuje značku, zabezpečuje súlad a poskytuje publiku užitočnú navigáciu. Venujte pár chvíľ kontrole svojej aktuálnej e-mailovej pätičky. Je v súlade s pravidlami? Je jasná? Funguje dobre na mobile? Tieto malé zlepšenia môžu mať veľký vplyv na to, ako budú vnímané vaše e-maily - a vaša značka.
 
-Hľadáte spôsoby, ako zefektívniť a profesionalizovať celkovú správu e-mailov? Zvážte nástroje navrhnuté pre zaneprázdnených profesionálov. Napríklad zistenie, ako [Duet Mail zjednodušuje e-mailovú produktivitu](https://duetmail.com/sk) pomocou funkcií poháňaných AI, vám môže uvoľniť viac času na doladenie detailov, ako je pätička, a zabezpečiť, že každá komunikácia vás reprezentuje správne.
+Hľadáte spôsoby, ako zefektívniť a profesionalizovať celkovú správu e-mailov? Zvážte nástroje navrhnuté pre zaneprázdnených profesionálov. Napríklad zistenie, ako [Chiefy zjednodušuje e-mailovú produktivitu](https://chiefy.com/sk) pomocou funkcií poháňaných AI, vám môže uvoľniť viac času na doladenie detailov, ako je pätička, a zabezpečiť, že každá komunikácia vás reprezentuje správne.

@@ -1,8 +1,8 @@
 ---
 title: "Polymail বিকল্প খুঁজছেন? 2025 সালে ব্যস্ত পেশাদারদের জন্য সেরা ইমেল উৎপাদনশীলতা টুল"
-description: "Polymail বিকল্প খুঁজছেন? AI ইমেল উৎপাদনশীলতার জন্য Superhuman, Missive, Spark, Shortwave এবং Duet Mail তুলনা করুন।"
+description: "Polymail বিকল্প খুঁজছেন? AI ইমেল উৎপাদনশীলতার জন্য Superhuman, Missive, Spark, Shortwave এবং Chiefy তুলনা করুন।"
 publishedAt: 2025-08-21
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "উৎপাদনশীলতা", "টুল", "ইমেল"]
 draft: false
 ---
@@ -45,9 +45,9 @@ Shortwave Gmail-এর ওপর আধুনিক email client অভিজ্
 
 **সেরা ব্যবহারকারী:** Gmail user যারা inbox redesign ও AI summary চান।
 
-## Duet Mail
+## Chiefy
 
-[Duet Mail](https://duetmail.com/bn) Gmail-কেন্দ্রিক AI assistant হিসেবে কাজ করে। এর শক্তি হলো AI Triage, Smart Summarization এবং Authentic AI Drafting। এটি শুধু দ্রুত উত্তর নয়, আপনার ভাষা ও সম্পর্কের প্রেক্ষাপট ধরে খসড়া তৈরির ওপর জোর দেয়।
+[Chiefy](https://chiefy.com/bn) Gmail-কেন্দ্রিক AI assistant হিসেবে কাজ করে। এর শক্তি হলো AI Triage, Smart Summarization এবং Authentic AI Drafting। এটি শুধু দ্রুত উত্তর নয়, আপনার ভাষা ও সম্পর্কের প্রেক্ষাপট ধরে খসড়া তৈরির ওপর জোর দেয়।
 
 **সেরা ব্যবহারকারী:** busy Gmail professionals যারা high-volume inbox সামলান, কিন্তু নিজের voice ও context হারাতে চান না।
 
@@ -57,7 +57,7 @@ Shortwave Gmail-এর ওপর আধুনিক email client অভিজ্
 - shared inbox ও team workflow চাইলে Missive দেখুন।
 - clean email client experience চাইলে Spark দেখুন।
 - Gmail-এর ওপর নতুন AI interface চাইলে Shortwave দেখুন।
-- Gmail-এর ভেতর intelligent triage, authentic drafting ও context-aware summaries চাইলে Duet Mail বিবেচনা করুন।
+- Gmail-এর ভেতর intelligent triage, authentic drafting ও context-aware summaries চাইলে Chiefy বিবেচনা করুন।
 
 ## সিদ্ধান্ত নেওয়ার আগে প্রশ্ন
 

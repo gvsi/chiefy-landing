@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail za vožnje balonom | AI Pomoćnik za e-poštu",
-  "metaDescription": "Duet Mail pomaže pilotima balona da odmah odgovore na e-poruke o rezervacijama — čak i tokom letova izlaska sunca. AI nacrt odgovora sa vašim cenama, vremenskom politikom i glasom.",
+  "pageTitle": "Chiefy za vožnje balonom | AI Pomoćnik za e-poštu",
+  "metaDescription": "Chiefy pomaže pilotima balona da odmah odgovore na e-poruke o rezervacijama — čak i tokom letova izlaska sunca. AI nacrt odgovora sa vašim cenama, vremenskom politikom i glasom.",
   "heroBadge": "Ima poverenja od 200+ pilota balona",
   "heroHeadline": "Vaš pomoćnik za e-poštu dok ste u vazduhu",
-  "heroSubline": "Duet uči vaše rasporede letova, cene i vremensku politiku — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju dok polazite sa izlaskom sunca.",
+  "heroSubline": "Chiefy uči vaše rasporede letova, cene i vremensku politiku — zatim sastavlja nacrte odgovora e-poštom tako da nikada ne izgubite rezervaciju dok polazite sa izlaskom sunca.",
   "inboxEmails": [
     {
       "from": "Rejčel i Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "let",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Jedan sačuvani let plaća se za godinu od Duet."
+    "punchline": "Jedan sačuvani let plaća se za godinu od Chiefy."
   },
-  "categorizationSubtitle": "Duet automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, druga pitanja o vremenu, a buku nikada. Nema više propuštanja upita o letu zakopanim u obaveštenjima o biltenima.",
-  "draftSubtitle": "Duet saznaje vaše cene, vremensku politiku i ton. Kada stigne upit za rezervaciju, sastavlja kompletan odgovor sa detaljima o letu, informacijama o sastanku i šta da obuče. Pregledate i pošaljete.",
-  "agentSubtitle": "„Ko je na sutrašnjem manifestu?“ „Ima li vremenskih otkazivanja za pomeranje?“ Duet zna vaše prijemno sanduče i kalendar — samo pitajte.",
+  "categorizationSubtitle": "Chiefy automatski označava svaku e-poštu tako da prvo vidite zahteve za rezervaciju, druga pitanja o vremenu, a buku nikada. Nema više propuštanja upita o letu zakopanim u obaveštenjima o biltenima.",
+  "draftSubtitle": "Chiefy saznaje vaše cene, vremensku politiku i ton. Kada stigne upit za rezervaciju, sastavlja kompletan odgovor sa detaljima o letu, informacijama o sastanku i šta da obuče. Pregledate i pošaljete.",
+  "agentSubtitle": "„Ko je na sutrašnjem manifestu?“ „Ima li vremenskih otkazivanja za pomeranje?“ Chiefy zna vaše prijemno sanduče i kalendar — samo pitajte.",
   "categorizationEmails": [
     {
       "from": "Rejčel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapetan Majk L.",
       "title": "Balon Pilot, MN",
-      "quote": "Ja sam operacija sa jednim čovekom — letim, imam posadu, odgovaram na mejlove. Osim u 5 ujutro, ja se naduvavam, ne odgovaram. Duet sastavlja nacrte odgovora na svako 'hoćemo li leteti sutra?' poruka preko noći. Probudim se, proverim vremensku prognozu i pritisnem pošalji.",
+      "quote": "Ja sam operacija sa jednim čovekom — letim, imam posadu, odgovaram na mejlove. Osim u 5 ujutro, ja se naduvavam, ne odgovaram. Chiefy sastavlja nacrte odgovora na svako 'hoćemo li leteti sutra?' poruka preko noći. Probudim se, proverim vremensku prognozu i pritisnem pošalji.",
       "avatarKey": "michael"
     },
     {
       "name": "Šenon i Džejk B.",
       "title": "Ture balonom tokom cele godine, UT",
-      "quote": "Svaki dan dobijamo istih 10 pitanja. Šta obući, gde se sastati, šta ako je vetrovito. Duet je sve naučio i sada pravi savršene odgovore. Prešli smo sa sat vremena svake večeri na pet minuta.",
+      "quote": "Svaki dan dobijamo istih 10 pitanja. Šta obući, gde se sastati, šta ako je vetrovito. Chiefy je sve naučio i sada pravi savršene odgovore. Prešli smo sa sat vremena svake večeri na pet minuta.",
       "avatarKey": "sarah"
     },
     {
       "name": "Karlos R.",
       "title": "Operator letenja Sunrise, AZ",
-      "quote": "Vrhunac sezone znači 4-6 letova nedeljno i svaki putnik pošalje e-poštu najmanje dva puta pre leta. Duet rešava pitanja pre leta, tako da se mogu fokusirati na to da ljudima pružim najbolje jutro u životu.",
+      "quote": "Vrhunac sezone znači 4-6 letova nedeljno i svaki putnik pošalje e-poštu najmanje dva puta pre leta. Chiefy rešava pitanja pre leta, tako da se mogu fokusirati na to da ljudima pružim najbolje jutro u životu.",
       "avatarKey": "Johnni"
     },
     {
       "name": "Lisa V.",
       "title": "Suvlasnik kompanije Balon, NM",
-      "quote": "Otkazivanje zbog vremenskih prilika je upropastilo moj ceo dan — 8 putnika kojima su svi potrebni lični e-poruci o promeni rasporeda. Sada Duet nacrta svaki sa uključenom našom politikom ponovnog rezervacija. Štedi mi sate u jutarnjim satima za otkazivanje.",
+      "quote": "Otkazivanje zbog vremenskih prilika je upropastilo moj ceo dan — 8 putnika kojima su svi potrebni lični e-poruci o promeni rasporeda. Sada Chiefy nacrta svaki sa uključenom našom politikom ponovnog rezervacija. Štedi mi sate u jutarnjim satima za otkazivanje.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Marija D.",
       "title": "Operacije vožnje balonom, CO",
-      "quote": "Predloženi letovi zahtevaju toliko koordinacije napred-nazad. Duet je shvatio kako postupamo s njima — tajming, kodne reči, podešavanje šampanjca. Sastavlja odgovore koje jedva moram da dodirnem.",
+      "quote": "Predloženi letovi zahtevaju toliko koordinacije napred-nazad. Chiefy je shvatio kako postupamo s njima — tajming, kodne reči, podešavanje šampanjca. Sastavlja odgovore koje jedva moram da dodirnem.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Započnite svoju besplatnu probnu verziju. Povežite prijemno sanduče za 30 sekundi.",
   "verticalFaqs": [
     {
-      "question": "Kako Duet obrađuje e-poruke o otkazivanju vremenskih prilika?",
-      "answer": "Duet saznaje vaše smernice za otkazivanje i ponovno rezervaciju. Kada otkažete let zbog vremenskih prilika, može da sačini personalizovane e-poruke o promeni rasporeda za svakog pogođenog putnika - sa vašom politikom, dostupnim datumima i vašim tonom. Pregledate i pošaljete. Ono što je nekada trajalo sat vremena pojedinačnih odgovora traje nekoliko minuta."
+      "question": "Kako Chiefy obrađuje e-poruke o otkazivanju vremenskih prilika?",
+      "answer": "Chiefy saznaje vaše smernice za otkazivanje i ponovno rezervaciju. Kada otkažete let zbog vremenskih prilika, može da sačini personalizovane e-poruke o promeni rasporeda za svakog pogođenog putnika - sa vašom politikom, dostupnim datumima i vašim tonom. Pregledate i pošaljete. Ono što je nekada trajalo sat vremena pojedinačnih odgovora traje nekoliko minuta."
     },
     {
-      "question": "Može li Duet da se nosi sa 'hoćemo li leteti sutra?' mejlove koji preplavljuju svako veče?",
-      "answer": "Da — ovo je jedna od najčešćih poruka koje nam govore operateri balona. Duet uči o vašoj vremenskoj politici i sastavlja uverljive odgovore koji objašnjavaju vaš proces odlučivanja, kada ćete obaviti poslednji poziv i šta možete očekivati. Kada ujutru potvrdite idi/ne-idite, može da nacrta ažuriranja za sve u manifestu."
+      "question": "Može li Chiefy da se nosi sa 'hoćemo li leteti sutra?' mejlove koji preplavljuju svako veče?",
+      "answer": "Da — ovo je jedna od najčešćih poruka koje nam govore operateri balona. Chiefy uči o vašoj vremenskoj politici i sastavlja uverljive odgovore koji objašnjavaju vaš proces odlučivanja, kada ćete obaviti poslednji poziv i šta možete očekivati. Kada ujutru potvrdite idi/ne-idite, može da nacrta ažuriranja za sve u manifestu."
     }
   ],
   "pricingNote": "Sa 250 USD po osobi sa 4 putnika po letu, jedna sačuvana rezervacija plaća više od godinu dana od Pro."

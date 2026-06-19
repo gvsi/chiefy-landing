@@ -2,7 +2,7 @@
 title: "Jak napsat profesionální e-mail: Pište srozumitelně, šetřete čas a podpořte svou kariéru"
 description: "Naučte se psát profesionální e-maily, které budují důvěru a šetří čas. Zvládněte linie předmětu, tón, strukturu a etiketu. Podpořte komunikaci v kariéře"
 publishedAt: 2025-05-27
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Produktivita", "Psaní e-mailů"]
 draft: false
 ---
@@ -184,9 +184,9 @@ Mezi hlavní výhody patří:
 
 - **Úspora času a redukce stresu**: Zvládáním opakujících se úkolů, jako je třídění, filtrování a dokonce i navrhování odpovědí, mohou asistenti AI profesionálům ušetřit hodiny týdně a výrazně snížit stres související s doručenou poštou.
 
-Cítíte se pohřben? Právě zde mohou funkce třídění umělé inteligence, jako jsou ty v nástrojích, jako je [**Duet Mail**](https://duetmail.com/cs), změnit hru. Automaticky třídí příchozí poštu, pomocí umělé inteligence identifikují naléhavé položky vyžadující akci nebo rozhodnutí a prezentují je na [**zaměřeném řídicím panelu**](https://peerlist.io/giovanni/project/duet-mail), čímž se zbaví nepořádku, takže okamžitě uvidíte, na čem záleží nejvíce.
+Cítíte se pohřben? Právě zde mohou funkce třídění umělé inteligence, jako jsou ty v nástrojích, jako je [**Chiefy**](https://chiefy.com/cs), změnit hru. Automaticky třídí příchozí poštu, pomocí umělé inteligence identifikují naléhavé položky vyžadující akci nebo rozhodnutí a prezentují je na [**zaměřeném řídicím panelu**](https://peerlist.io/giovanni/project/duet-mail), čímž se zbaví nepořádku, takže okamžitě uvidíte, na čem záleží nejvíce.
 
-Snažíte se rychle odpovědět a přitom zůstat profesionální a autentickí? Pomoci mohou pokročilí asistenti umělé inteligence. Například [**Duet Mail**](https://duetmail.com/cs) používá [**Autentické AI Navrhování**](https://peerlist.io/giovanni/project/duet-mail), které se ve skutečnosti učí váš jedinečný styl psaní a slovní zásobu z vašich minulých e-mailů.64 Navrhuje koncepty, které zní jako vy, šetří hodiny a zároveň zachovává zásadní osobní kontakt ve vaší profesionální komunikaci. Toto „hlasové učení“ zajišťuje, že vaše odpovědi za pomoci umělé inteligence budou stále skutečné.
+Snažíte se rychle odpovědět a přitom zůstat profesionální a autentickí? Pomoci mohou pokročilí asistenti umělé inteligence. Například [**Chiefy**](https://chiefy.com/cs) používá [**Autentické AI Navrhování**](https://peerlist.io/giovanni/project/duet-mail), které se ve skutečnosti učí váš jedinečný styl psaní a slovní zásobu z vašich minulých e-mailů.64 Navrhuje koncepty, které zní jako vy, šetří hodiny a zároveň zachovává zásadní osobní kontakt ve vaší profesionální komunikaci. Toto „hlasové učení“ zajišťuje, že vaše odpovědi za pomoci umělé inteligence budou stále skutečné.
 
 Vývoj těchto nástrojů je fascinující. Přešli jsme od základních gramatických kontrol k sofistikovaným asistentům, kteří řeší holistický problém e-mailu – nejen správnost, ale také zvládání kognitivní zátěže přetížení (třídění, sumarizace) a udržování osobního spojení na úrovni (hlasové učení). To odráží, jak složitou se stala profesionální komunikace a potřeba nástrojů, které nás komplexně podporují.
 
@@ -196,6 +196,6 @@ Zvládnutí profesionálního e-mailu není o pevných pravidlech; jde o jasnou,
 
 Pamatujte, že stát se skvělým e-mailovým komunikátorem je neustálý proces zdokonalování. Začněte tyto tipy uplatňovat důsledně a všimnete si rozdílu v odpovědích, které obdržíte, a v čase, který ušetříte.
 
-Jste připraveni převzít kontrolu nad svou doručenou poštou a komunikovat jako profesionál? Začněte implementovat tyto strategie ještě dnes. A pokud chcete ušetřit hodiny a snížit stres s e-mailem, prozkoumejte, jak mohou asistenti umělé inteligence, jako je [**Duet Mail**](https://duetmail.com/cs), transformovat váš pracovní postup pomocí inteligentního třídění a autentického navrhování.
+Jste připraveni převzít kontrolu nad svou doručenou poštou a komunikovat jako profesionál? Začněte implementovat tyto strategie ještě dnes. A pokud chcete ušetřit hodiny a snížit stres s e-mailem, prozkoumejte, jak mohou asistenti umělé inteligence, jako je [**Chiefy**](https://chiefy.com/cs), transformovat váš pracovní postup pomocí inteligentního třídění a autentického navrhování.
 
 Pomohlo vám to? Sdílejte to s kolegy, kteří by z toho mohli mít prospěch!

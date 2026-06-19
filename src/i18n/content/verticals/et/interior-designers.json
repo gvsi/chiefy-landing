@@ -1,10 +1,10 @@
 {
   "slug": "interior-designers",
-  "pageTitle": "Duet Mail sisekujundajatele | AI e-posti assistent",
-  "metaDescription": "Duet Mail aitab sisekujundajatel hallata klientide e-kirju, töövõtjate koordineerimist ja hankijate tellimusi – isegi töökohalt. AI-koostatud vastused teie projekti üksikasjade, eelistuste ja häälega.",
+  "pageTitle": "Chiefy sisekujundajatele | AI e-posti assistent",
+  "metaDescription": "Chiefy aitab sisekujundajatel hallata klientide e-kirju, töövõtjate koordineerimist ja hankijate tellimusi – isegi töökohalt. AI-koostatud vastused teie projekti üksikasjade, eelistuste ja häälega.",
   "heroBadge": "Usaldab üle 400 sisekujundaja",
   "heroHeadline": "Teie meiliassistent, kui olete klientidega kohapeal",
-  "heroSubline": "Duet saab teada teie hankija kontaktid, projekti üksikasjad ja kliendi eelistused – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi klienti aeglase vastuse tõttu.",
+  "heroSubline": "Chiefy saab teada teie hankija kontaktid, projekti üksikasjad ja kliendi eelistused – seejärel koostab meilivastuste mustandid, et te ei kaota kunagi klienti aeglase vastuse tõttu.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "projekt",
     "lostPerMonth": "1",
     "monthlyLoss": "$10,000",
-    "punchline": "Üks säästetud klient maksab Duet aastate eest."
+    "punchline": "Üks säästetud klient maksab Chiefy aastate eest."
   },
-  "categorizationSubtitle": "Duet märgistab automaatselt iga e-kirja, nii et näete esmalt uusi kliendipäringuid, teiseks ootel kinnitusi ja mitte kunagi hankijate uudiskirju. Enam ei saa puududa disainikonsultatsioonist, mis on messikampaaniate alla mattunud.",
-  "draftSubtitle": "Duet õpib teie protsessi, projekti üksikasju ja tooni. Kui saabub uus päring või kliendi küsimus, koostab see täieliku vastuse koos teie saadavuse, järgmiste sammude ja projekti spetsiifikaga. Vaatad üle ja saadad.",
-  "agentSubtitle": "\"Mis seisus on Hendersoni projektis?\" \"Millised kooskõlastused on veel pooleli?\" Duet teab teie postkasti ja kõiki projektilõime – lihtsalt küsige.",
+  "categorizationSubtitle": "Chiefy märgistab automaatselt iga e-kirja, nii et näete esmalt uusi kliendipäringuid, teiseks ootel kinnitusi ja mitte kunagi hankijate uudiskirju. Enam ei saa puududa disainikonsultatsioonist, mis on messikampaaniate alla mattunud.",
+  "draftSubtitle": "Chiefy õpib teie protsessi, projekti üksikasju ja tooni. Kui saabub uus päring või kliendi küsimus, koostab see täieliku vastuse koos teie saadavuse, järgmiste sammude ja projekti spetsiifikaga. Vaatad üle ja saadad.",
+  "agentSubtitle": "\"Mis seisus on Hendersoni projektis?\" \"Millised kooskõlastused on veel pooleli?\" Chiefy teab teie postkasti ja kõiki projektilõime – lihtsalt küsige.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Michael R.",
       "title": "Peadisainer, Austin TX",
-      "quote": "Olen 6 tundi päevas kohapeal, koordineerin maalreid, elektrikuid ja plaatide paigaldajaid. Samal ajal saadavad kolm teist klienti oma projektide kohta meile. Duet koostab vastused õigete projekti üksikasjadega – vaatan lihtsalt üle kohapealsete külastuste vahel.",
+      "quote": "Olen 6 tundi päevas kohapeal, koordineerin maalreid, elektrikuid ja plaatide paigaldajaid. Samal ajal saadavad kolm teist klienti oma projektide kohta meile. Chiefy koostab vastused õigete projekti üksikasjadega – vaatan lihtsalt üle kohapealsete külastuste vahel.",
       "avatarKey": "michael"
     },
     {
       "name": "Francesca D.",
       "title": "Elamu sisekujundaja, Chicago",
-      "quote": "Klientide päringud kestsid päevi, sest olin maetud hankemeilidesse ja töövõtjate ajakavadesse. Nüüd Duet reageerib uutele müügivihjetele minutitega minu protsessi ja kättesaadavusega. Olen selles kvartalis broneerinud 4 lisaprojekti.",
+      "quote": "Klientide päringud kestsid päevi, sest olin maetud hankemeilidesse ja töövõtjate ajakavadesse. Nüüd Chiefy reageerib uutele müügivihjetele minutitega minu protsessi ja kättesaadavusega. Olen selles kvartalis broneerinud 4 lisaprojekti.",
       "avatarKey": "francesca"
     },
     {
       "name": "Johnny M.",
       "title": "Disainistuudio omanik, Nashville",
-      "quote": "12 aktiivse projekti meilide haldamine tappis mind. Duet kategoriseerib kõik – uued päringud, ootelolevad kinnitused, hankija tellimused, töövõtjate värskendused – nii et ma tean täpselt, millele tuleb kõigepealt tähelepanu pöörata.",
+      "quote": "12 aktiivse projekti meilide haldamine tappis mind. Chiefy kategoriseerib kõik – uued päringud, ootelolevad kinnitused, hankija tellimused, töövõtjate värskendused – nii et ma tean täpselt, millele tuleb kõigepealt tähelepanu pöörata.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer S.",
       "title": "Sisekujundaja, San Diego",
-      "quote": "Kaotasin potentsiaalseid kliente, sest ma ei suutnud installinädalate jooksul piisavalt kiiresti vastata. Duet õppis minu konsultatsiooniprotsessi, hinnastruktuuri ja isegi seda, kuidas ma oma disainistiili kirjeldan. Kliendid ei tea, et see on tehisintellekti abiga.",
+      "quote": "Kaotasin potentsiaalseid kliente, sest ma ei suutnud installinädalate jooksul piisavalt kiiresti vastata. Chiefy õppis minu konsultatsiooniprotsessi, hinnastruktuuri ja isegi seda, kuidas ma oma disainistiili kirjeldan. Kliendid ei tea, et see on tehisintellekti abiga.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Sarah K.",
       "title": "Kaubanduslik sisekujundaja, Denver",
-      "quote": "Tarnija teostusaegade, töövõtjate ajakavade ja klientide läbivaatamistaotluste vahel valitses minu postkastis kaos. Duet sorteerib selle kõik ja koostab ootel olevate kinnituste järelmeetmete mustandid. See on nagu projekti koordinaator, kes ei maga kunagi.",
+      "quote": "Tarnija teostusaegade, töövõtjate ajakavade ja klientide läbivaatamistaotluste vahel valitses minu postkastis kaos. Chiefy sorteerib selle kõik ja koostab ootel olevate kinnituste järelmeetmete mustandid. See on nagu projekti koordinaator, kes ei maga kunagi.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,13 +159,13 @@
   "ctaSubline": "Alustage tasuta prooviperioodi. Ühendage oma postkast 30 sekundiga.",
   "verticalFaqs": [
     {
-      "question": "Ma žongleerin 8-10 projektiga korraga. Kas Duet suudab neid sirgena hoida?",
-      "answer": "Jah. Duet jälgib iga meililõimi kliendi ja projekti kohta. Kui küsite Hendersoni köögi või Park Avenue kontori kohta, tõmbab see konteksti kõigist seotud vestlustest (müüja tellimused, töövõtjate värskendused, klientide kinnitused), nii et teie vastused on alati täpsed ja projektipõhised. Ei tohi segamini ajada, milline plaat millise kliendi jaoks oli."
+      "question": "Ma žongleerin 8-10 projektiga korraga. Kas Chiefy suudab neid sirgena hoida?",
+      "answer": "Jah. Chiefy jälgib iga meililõimi kliendi ja projekti kohta. Kui küsite Hendersoni köögi või Park Avenue kontori kohta, tõmbab see konteksti kõigist seotud vestlustest (müüja tellimused, töövõtjate värskendused, klientide kinnitused), nii et teie vastused on alati täpsed ja projektipõhised. Ei tohi segamini ajada, milline plaat millise kliendi jaoks oli."
     },
     {
-      "question": "Ma kooskõlastan paljude töövõtjate ja müüjatega. Kas Duet aitab selle vastu?",
-      "answer": "Absoluutselt. Duet õpib teie töövõtjate kontakte, müüja esindajaid ja iga tehingu konteksti teie projektides. Kui teie elektrik saadab meili, et töötlemine on lõpetatud, saab Duet koostada vastuse, mis kinnitab kinnitusseadme paigaldaja järgmist sammu või tsüklit. See hoiab töövoo liikumas isegi siis, kui olete teisel töökohal üle linna."
+      "question": "Ma kooskõlastan paljude töövõtjate ja müüjatega. Kas Chiefy aitab selle vastu?",
+      "answer": "Absoluutselt. Chiefy õpib teie töövõtjate kontakte, müüja esindajaid ja iga tehingu konteksti teie projektides. Kui teie elektrik saadab meili, et töötlemine on lõpetatud, saab Chiefy koostada vastuse, mis kinnitab kinnitusseadme paigaldaja järgmist sammu või tsüklit. See hoiab töövoo liikumas isegi siis, kui olete teisel töökohal üle linna."
     }
   ],
-  "pricingNote": "Kell $10,000/project maksab üks säästetud klient aastate Duet Pro eest."
+  "pricingNote": "Kell $10,000/project maksab üks säästetud klient aastate Chiefy Pro eest."
 }

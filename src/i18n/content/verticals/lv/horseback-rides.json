@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail izjādēm un izjāžu gidiem | AI e-pasta asistents",
-  "metaDescription": "Duet Mail palīdz izjāžu operatoriem uz rezervāciju e-pastiem atbildēt uzreiz — pat esot seglos. AI sagatavotas atbildes ar jūsu cenām, jātnieku prasībām un balss toni.",
+  "pageTitle": "Chiefy izjādēm un izjāžu gidiem | AI e-pasta asistents",
+  "metaDescription": "Chiefy palīdz izjāžu operatoriem uz rezervāciju e-pastiem atbildēt uzreiz — pat esot seglos. AI sagatavotas atbildes ar jūsu cenām, jātnieku prasībām un balss toni.",
   "heroBadge": "Uzticas 300+ izjāžu gidi",
   "heroHeadline": "Jūsu e-pasta asistents, kamēr esat takā",
-  "heroSubline": "Duet apgūst jūsu izjāžu veidus, cenas, jātnieku prasības un taku apstākļus — un sagatavo e-pasta atbildes, lai lēnas reakcijas dēļ nezaudētu nevienu rezervāciju.",
+  "heroSubline": "Chiefy apgūst jūsu izjāžu veidus, cenas, jātnieku prasības un taku apstākļus — un sagatavo e-pasta atbildes, lai lēnas reakcijas dēļ nezaudētu nevienu rezervāciju.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "izjāde",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Viena saglabāta grupas izjāde sedz vairāk nekā divu gadu Duet izmaksas."
+    "punchline": "Viena saglabāta grupas izjāde sedz vairāk nekā divu gadu Chiefy izmaksas."
   },
-  "categorizationSubtitle": "Duet automātiski marķē katru e-pastu, lai jūs vispirms redzētu rezervāciju pieprasījumus, pēc tam jātnieku jautājumus, bet liekais nekad netraucētu. Vairs nekādu pazaudētu grupu pieprasījumu zem TripAdvisor paziņojumiem.",
-  "draftSubtitle": "Duet apgūst jūsu izjāžu veidus, cenas un prasības. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar informāciju par taku, cenām un piemērotu apģērbu. Jūs pārskatāt un nosūtāt.",
-  "agentSubtitle": "\"Vai šajā nedēļas nogalē ir brīvas izjādes?\" \"Sagatavo atbildi Jessica ar sestdienas pieejamību.\" Duet pārzina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
+  "categorizationSubtitle": "Chiefy automātiski marķē katru e-pastu, lai jūs vispirms redzētu rezervāciju pieprasījumus, pēc tam jātnieku jautājumus, bet liekais nekad netraucētu. Vairs nekādu pazaudētu grupu pieprasījumu zem TripAdvisor paziņojumiem.",
+  "draftSubtitle": "Chiefy apgūst jūsu izjāžu veidus, cenas un prasības. Kad ienāk rezervācijas pieprasījums, tas sagatavo pilnu atbildi ar informāciju par taku, cenām un piemērotu apģērbu. Jūs pārskatāt un nosūtāt.",
+  "agentSubtitle": "\"Vai šajā nedēļas nogalē ir brīvas izjādes?\" \"Sagatavo atbildi Jessica ar sestdienas pieejamību.\" Chiefy pārzina jūsu iesūtni un kalendāru — vienkārši pajautājiet.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Rančo īpašnieks un izjāžu gids, MT",
-      "quote": "Esmu takā 6 stundas dienā bez mobilā sakaru pārklājuma. Kamēr atgriezos un varēju atbildēt, puse cilvēku jau bija rezervējuši citur. Tagad Duet sagatavo atbildes ar manām cenām un izjāžu informāciju — es tikai pārskatu un nosūtu, kad atgriežos stallī.",
+      "quote": "Esmu takā 6 stundas dienā bez mobilā sakaru pārklājuma. Kamēr atgriezos un varēju atbildēt, puse cilvēku jau bija rezervējuši citur. Tagad Chiefy sagatavo atbildes ar manām cenām un izjāžu informāciju — es tikai pārskatu un nosūtu, kad atgriežos stallī.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Izjāžu tūru operators, AZ",
-      "quote": "Mēs saņemam desmitiem e-pastu ar vieniem un tiem pašiem jautājumiem — svara ierobežojumi, ko vilkt, vecuma prasības. Duet ar visu tiek galā, un atbildes izklausās tieši kā es. Mani viesi pat nenojauš, ka tas ir AI.",
+      "quote": "Mēs saņemam desmitiem e-pastu ar vieniem un tiem pašiem jautājumiem — svara ierobežojumi, ko vilkt, vecuma prasības. Chiefy ar visu tiek galā, un atbildes izklausās tieši kā es. Mani viesi pat nenojauš, ka tas ir AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Izjāžu gids, CO",
-      "quote": "Sezonas kulminācija mani nogurdināja. 30+ e-pasti dienā papildus izjāžu vadīšanai. Duet atšķir rezervāciju pieprasījumus no liekā un sagatavo atbildes, kurās ir iekļauts viss — cenas, ko ņemt līdzi, pilnīgi viss. Es atguvu savus vakarus.",
+      "quote": "Sezonas kulminācija mani nogurdināja. 30+ e-pasti dienā papildus izjāžu vadīšanai. Chiefy atšķir rezervāciju pieprasījumus no liekā un sagatavo atbildes, kurās ir iekļauts viss — cenas, ko ņemt līdzi, pilnīgi viss. Es atguvu savus vakarus.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Jāšanas instruktore un rezervāciju vadītāja, TX",
-      "quote": "Mēs piedāvājam saulrieta izjādes, rīta izjādes un privātstundas — katrai ir atšķirīgas cenas un prasības. Duet to visu apguva nedēļas laikā. Tas katru reizi sagatavo pareizo atbildi pareizajam izjādes veidam.",
+      "quote": "Mēs piedāvājam saulrieta izjādes, rīta izjādes un privātstundas — katrai ir atšķirīgas cenas un prasības. Chiefy to visu apguva nedēļas laikā. Tas katru reizi sagatavo pareizo atbildi pareizajam izjādes veidam.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Ģimenes rančo un izjādes, CA",
-      "quote": "Visgrūtākie bija jutīgie e-pasti — kad kāds jautā, vai nav par smagu, vai vai bērns ir pietiekami vecs. Duet atbild tikpat rūpīgi, kā to darītu es. Profesionāli, laipni un precīzi. Jau tas vien ir tā vērts.",
+      "quote": "Visgrūtākie bija jutīgie e-pasti — kad kāds jautā, vai nav par smagu, vai vai bērns ir pietiekami vecs. Chiefy atbild tikpat rūpīgi, kā to darītu es. Profesionāli, laipni un precīzi. Jau tas vien ir tā vērts.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Sāciet bezmaksas izmēģinājumu. Pievienojiet savu iesūtni 30 sekundēs.",
   "verticalFaqs": [
     {
-      "question": "Kā Duet apstrādā jutīgus jautājumus par svaru vai pieredzes prasībām?",
-      "answer": "Duet apgūst jūsu konkrētās politikas un atdarina jūsu toni. Kad kāds jautā par svara ierobežojumiem vai pieredzes prasībām, tas atbild profesionāli un sirsnīgi — sniedzot vajadzīgo informāciju bez neveiklības. Jūs vienreiz nosakāt toni, un Duet to konsekventi ievēro, lai katrs viesis justos cienīts."
+      "question": "Kā Chiefy apstrādā jutīgus jautājumus par svaru vai pieredzes prasībām?",
+      "answer": "Chiefy apgūst jūsu konkrētās politikas un atdarina jūsu toni. Kad kāds jautā par svara ierobežojumiem vai pieredzes prasībām, tas atbild profesionāli un sirsnīgi — sniedzot vajadzīgo informāciju bez neveiklības. Jūs vienreiz nosakāt toni, un Chiefy to konsekventi ievēro, lai katrs viesis justos cienīts."
     },
     {
-      "question": "Vai Duet var apstrādāt grupu rezervācijas ar atšķirīgām jātnieku vajadzībām?",
-      "answer": "Jā. Duet apgūst jūsu izjāžu veidus, grupu lielumus, minimālo vecumu un visas konkrētam jātniekam nepieciešamās prasības. Kad ģimene vai grupa e-pastā jautā par rezervāciju, tas sagatavo atbildi ar cenu visai grupai, informāciju, kas jāzina katram jātniekam, un pieejamajiem laikiem. Jūs pārskatāt un nosūtāt — bez liekas sarakstes."
+      "question": "Vai Chiefy var apstrādāt grupu rezervācijas ar atšķirīgām jātnieku vajadzībām?",
+      "answer": "Jā. Chiefy apgūst jūsu izjāžu veidus, grupu lielumus, minimālo vecumu un visas konkrētam jātniekam nepieciešamās prasības. Kad ģimene vai grupa e-pastā jautā par rezervāciju, tas sagatavo atbildi ar cenu visai grupai, informāciju, kas jāzina katram jātniekam, un pieejamajiem laikiem. Jūs pārskatāt un nosūtāt — bez liekas sarakstes."
     }
   ],
   "pricingNote": "Pie cenas 100 $/personai 6 cilvēku grupai viena ietaupīta izjāde sedz Pro izmaksas vairāk nekā diviem gadiem."

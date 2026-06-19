@@ -8,17 +8,20 @@
 // the consent-banner brand all resolve from one source.
 //
 // Env (set by the chiefy Pages build; all optional — defaults keep Duet Mail):
-//   SITE_URL          e.g. https://chiefy.com   (default https://duetmail.com)
-//   SITE_BRAND        e.g. Chiefy               (default Duet Mail)
+//   SITE_URL          e.g. https://chiefy.com   (default https://chiefy.com)
+//   SITE_BRAND        e.g. Chiefy               (default Chiefy)
 //   SITE_PRODUCT_NAME the product name in JSON-LD softwareName / og — defaults to
 //                     SITE_BRAND so a single var flips both.
 //
 // These are read via import.meta.env (Vite/Astro) with a process.env fallback so
 // the same helper works from astro.config.mjs (Node, no import.meta.env) too.
 
-const DEFAULT_SITE_URL = "https://duetmail.com";
-const DEFAULT_SITE_BRAND = "Duet Mail";
-const DEFAULT_SITE_TWITTER = "@DuetMailApp";
+// Post-flip collapse (ADR 0031): `main` is now the Chiefy site (chiefy.com builds
+// from main); duetmail.com is a Cloudflare edge redirect, not a build. Defaults are
+// therefore Chiefy, so a plain build is correct even without the env vars below.
+const DEFAULT_SITE_URL = "https://chiefy.com";
+const DEFAULT_SITE_BRAND = "Chiefy";
+const DEFAULT_SITE_TWITTER = "@ChiefyApp";
 
 function readEnv(key: string): string | undefined {
     // Astro/Vite exposes build env on import.meta.env; astro.config.mjs runs in

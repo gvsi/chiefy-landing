@@ -2,7 +2,7 @@
 title: "HTML E-posta Altbilgileri İçin Nihai Kılavuz: Uyumluluk, Tasarım ve Örnekler"
 description: "HTML e-posta altbilgilerinde ustalaşın: temel unsurlar, tasarım ipuçları, yasal uyumluluk (CAN-SPAM, GDPR, CASL) ve marka örnekleri."
 publishedAt: 2026-01-05
-author: "Duet Mail Takım"
+author: "Chiefy Takım"
 tags: ["AI", "E-posta"]
 draft: false
 ---
@@ -128,4 +128,4 @@ HTML e-posta altbilginiz, alıcıların gördüğü son şey olabilir, ancak siz
 
 E-posta altbilginiz güven oluşturur, markanızı güçlendirir, uyumluluğu sağlar ve hedef kitleniz için faydalı bir gezinme olanağı sunar. Mevcut e-posta altbilginizi gözden geçirmek için birkaç dakikanızı ayırın. Uyumlu mu? Açık mı? Mobil uyumlu mu? Bu küçük iyileştirmeler, e-postalarınızın ve markanızın nasıl algılandığı üzerinde büyük bir etkiye sahip olabilir.
 
-Genel e-posta yönetiminizi daha verimli ve profesyonel hale getirmenin yollarını mı arıyorsunuz? Yoğun çalışan profesyoneller için tasarlanmış araçları incelemeyi düşünün. Örneğin, Duet Mail'in AI destekli özellikleriyle e-posta verimliliğini nasıl basitleştirdiğini öğrenmek, altbilginiz gibi ayrıntıları mükemmelleştirmeye ve her iletişimin sizi iyi temsil etmesini sağlamaya odaklanmak için size daha fazla zaman kazandırabilir.
+Genel e-posta yönetiminizi daha verimli ve profesyonel hale getirmenin yollarını mı arıyorsunuz? Yoğun çalışan profesyoneller için tasarlanmış araçları incelemeyi düşünün. Örneğin, Chiefy'in AI destekli özellikleriyle e-posta verimliliğini nasıl basitleştirdiğini öğrenmek, altbilginiz gibi ayrıntıları mükemmelleştirmeye ve her iletişimin sizi iyi temsil etmesini sağlamaya odaklanmak için size daha fazla zaman kazandırabilir.

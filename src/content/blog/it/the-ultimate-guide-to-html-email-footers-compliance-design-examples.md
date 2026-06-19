@@ -2,7 +2,7 @@
 title: "La guida definitiva ai piè di pagina HTML delle e-mail: conformità, design ed esempi"
 description: "Padroneggiare i piè di pagina delle email HTML: elementi essenziali, suggerimenti di progettazione, conformità legale (CAN-SPAM, GDPR, CASL) ed esempi di branding."
 publishedAt: 2026-01-05
-author: "Squadra Duet Mail"
+author: "Squadra Chiefy"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Il piè di pagina HTML della tua email potrebbe essere l'ultima cosa che vedono 
 
 Crea fiducia, rafforza il tuo marchio, garantisce la conformità e fornisce una navigazione utile per il tuo pubblico. Prenditi qualche minuto per rivedere il piè di pagina della tua email corrente. È conforme? È chiaro? È ottimizzato per i dispositivi mobili? Apportare questi piccoli miglioramenti può avere un grande impatto sul modo in cui vengono percepite le tue email e il tuo marchio.
 
-Cerchi modi per rendere la gestione complessiva della posta elettronica più efficiente e professionale? Prendi in considerazione l'idea di esplorare strumenti progettati per professionisti impegnati. Ad esempio, imparare come [Duet Mail semplifica la produttività della posta elettronica](https://duetmail.com/it) con funzionalità basate sull'intelligenza artificiale potrebbe liberare più tempo da dedicare al perfezionamento di dettagli come il piè di pagina e garantire che ogni comunicazione ti rappresenti bene.
+Cerchi modi per rendere la gestione complessiva della posta elettronica più efficiente e professionale? Prendi in considerazione l'idea di esplorare strumenti progettati per professionisti impegnati. Ad esempio, imparare come [Chiefy semplifica la produttività della posta elettronica](https://chiefy.com/it) con funzionalità basate sull'intelligenza artificiale potrebbe liberare più tempo da dedicare al perfezionamento di dettagli come il piè di pagina e garantire che ogni comunicazione ti rappresenti bene.

@@ -1,10 +1,10 @@
 {
   "slug": "dive-shops",
-  "pageTitle": "Duet Mail dla sklepów nurkowych | AI Email Assistant",
-  "metaDescription": "Duet Mail pomaga właścicielom sklepów nurkowych i instruktorom PADI natychmiastowo odpowiadać na zapytania certyfikacyjne, rezerwacje wycieczek i pytania dotyczące sprzętu – nawet pod wodą.",
+  "pageTitle": "Chiefy dla sklepów nurkowych | AI Email Assistant",
+  "metaDescription": "Chiefy pomaga właścicielom sklepów nurkowych i instruktorom PADI natychmiastowo odpowiadać na zapytania certyfikacyjne, rezerwacje wycieczek i pytania dotyczące sprzętu – nawet pod wodą.",
   "heroBadge": "Zaufany przez operatorów nurkowych 300+",
   "heroHeadline": "Twój asystent e-mail, gdy jesteś pod wodą",
-  "heroSubline": "Duet poznaje Twoje miejsca nurkowe, wymagania certyfikacyjne, ceny i głos, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji na łodzi. Certyfikat",
+  "heroSubline": "Chiefy poznaje Twoje miejsca nurkowe, wymagania certyfikacyjne, ceny i głos, a następnie przygotowuje odpowiedzi na e-maile, dzięki czemu nigdy nie stracisz rezerwacji na łodzi. Certyfikat",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "nurkowanie",
     "lostPerMonth": "3 trips (6 divers each)",
     "monthlyLoss": "$2,700",
-    "punchline": "Jedno zapisane nurkowanie grupowe płaci za rok Duet."
+    "punchline": "Jedno zapisane nurkowanie grupowe płaci za rok Chiefy."
   },
-  "categorizationSubtitle": "Duet automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności widzisz zapytania o certyfikaty i rezerwacje nurkowe, w drugiej kolejności pytania o sprzęt, a gdy już będziesz gotowy, powiadomienia PADI. Koniec z przegapianiem rezerwacji grupowych ukrytych w biuletynach dotyczących sprzętu.",
-  "draftSubtitle": "Duet poznaje Twoje miejsca nurkowe, wymagania dotyczące certyfikatów i ceny. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź ze szczegółami podróży, jej zawartością i tym, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
-  "agentSubtitle": "„Ilu nurków jest zarezerwowanych na sobotę?” „Napisz odpowiedź dla Rachel z informacją o dostępności Open Water”. Duet zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj. Certyfikat",
+  "categorizationSubtitle": "Chiefy automatycznie taguje każdą wiadomość e-mail, dzięki czemu w pierwszej kolejności widzisz zapytania o certyfikaty i rezerwacje nurkowe, w drugiej kolejności pytania o sprzęt, a gdy już będziesz gotowy, powiadomienia PADI. Koniec z przegapianiem rezerwacji grupowych ukrytych w biuletynach dotyczących sprzętu.",
+  "draftSubtitle": "Chiefy poznaje Twoje miejsca nurkowe, wymagania dotyczące certyfikatów i ceny. Kiedy pojawi się zapytanie o rezerwację, sporządza pełną odpowiedź ze szczegółami podróży, jej zawartością i tym, co zabrać ze sobą. Sprawdzasz i wysyłasz.",
+  "agentSubtitle": "„Ilu nurków jest zarezerwowanych na sobotę?” „Napisz odpowiedź dla Rachel z informacją o dostępności Open Water”. Chiefy zna Twoją skrzynkę odbiorczą i harmonogram — po prostu zapytaj. Certyfikat",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Mike T.",
       "title": "Kapitan łodzi nurkowej, Floryda",
-      "quote": "Organizuję rejsy statkiem od piątku do niedzieli, a w poniedziałki sklep jest otwarty tylko przez kilka godzin. Pytania dotyczące certyfikatów i wycieczek piętrzą się, gdy jestem pod wodą. Duet przygotowuje odpowiedzi zawierające moje ceny, miejsca nurkowe i zawartość pakietu — przeglądam je pomiędzy nurkowaniami.",
+      "quote": "Organizuję rejsy statkiem od piątku do niedzieli, a w poniedziałki sklep jest otwarty tylko przez kilka godzin. Pytania dotyczące certyfikatów i wycieczek piętrzą się, gdy jestem pod wodą. Chiefy przygotowuje odpowiedzi zawierające moje ceny, miejsca nurkowe i zawartość pakietu — przeglądam je pomiędzy nurkowaniami.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Centrum nurkowe PADI, Hawaje",
-      "quote": "Na tych samych łodziach organizujemy nurkowania, wycieczki z rurką i obserwowanie wielorybów. Różnorodność e-maili jest szalona – pytania o certyfikaty, rezerwacje grupowe, wypożyczanie sprzętu, sprawdzanie pogody. Duet sortuje wszystko i przygotowuje odpowiedzi, które rozpoznają różnicę. Absolutny ratunek.",
+      "quote": "Na tych samych łodziach organizujemy nurkowania, wycieczki z rurką i obserwowanie wielorybów. Różnorodność e-maili jest szalona – pytania o certyfikaty, rezerwacje grupowe, wypożyczanie sprzętu, sprawdzanie pogody. Chiefy sortuje wszystko i przygotowuje odpowiedzi, które rozpoznają różnicę. Absolutny ratunek.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jake R.",
       "title": "Czartery nurkowania wrakowego, Floryda",
-      "quote": "Połowa moich e-maili brzmi: „Jakiego certyfikatu potrzebuję do nurkowań wrakowych?” a druga połowa brzmi: „Czy potrzebuję własnego sprzętu?” Duet obsługuje oba na autopilocie. Mój czas reakcji wzrósł z godzin do minut.",
+      "quote": "Połowa moich e-maili brzmi: „Jakiego certyfikatu potrzebuję do nurkowań wrakowych?” a druga połowa brzmi: „Czy potrzebuję własnego sprzętu?” Chiefy obsługuje oba na autopilocie. Mój czas reakcji wzrósł z godzin do minut.",
       "avatarKey": "johnny"
     },
     {
       "name": "Francesca D.",
       "title": "Właściciel sklepu nurkowego, Kalifornia",
-      "quote": "Latem codziennie otrzymujemy e-maile od 30+ dotyczące kursów, dostępności wycieczek i sprzętu. Traciłem rezerwacje na rzecz sklepów, które odpowiadały szybciej. Teraz Duet szkicuje wszystko i po prostu klikam wysyłanie między zajęciami.",
+      "quote": "Latem codziennie otrzymujemy e-maile od 30+ dotyczące kursów, dostępności wycieczek i sprzętu. Traciłem rezerwacje na rzecz sklepów, które odpowiadały szybciej. Teraz Chiefy szkicuje wszystko i po prostu klikam wysyłanie między zajęciami.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Instruktor i przewodnik nurkowy, NC",
-      "quote": "Rano prowadzę kursy, a po południu przewodniczę nurkowaniom. Nie ma dosłownie czasu na odpowiadanie na e-maile. Duet poznał mój harmonogram kursów, ceny, a nawet zasady anulowania. Klienci nie widzą różnicy.",
+      "quote": "Rano prowadzę kursy, a po południu przewodniczę nurkowaniom. Nie ma dosłownie czasu na odpowiadanie na e-maile. Chiefy poznał mój harmonogram kursów, ceny, a nawet zasady anulowania. Klienci nie widzą różnicy.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Rozpocznij bezpłatny okres próbny. Połącz swoją skrzynkę odbiorczą w 30 sekund.",
   "verticalFaqs": [
     {
-      "question": "Czy Duet rozumie poziomy certyfikacji i wymagania dotyczące kursu?",
-      "answer": "Tak. Duet uczy się Twoich konkretnych kursów – Open Water, Advanced, Rescue, Divemaster – wraz z wymaganiami wstępnymi, czasem trwania, cenami i tym, co jest wliczone w cenę. Gdy ktoś pyta o uzyskanie certyfikatu, Duet przygotowuje odpowiedź zawierającą odpowiednie szczegóły kursu, harmonogram i kolejne kroki. Sprawdzasz i wysyłasz."
+      "question": "Czy Chiefy rozumie poziomy certyfikacji i wymagania dotyczące kursu?",
+      "answer": "Tak. Chiefy uczy się Twoich konkretnych kursów – Open Water, Advanced, Rescue, Divemaster – wraz z wymaganiami wstępnymi, czasem trwania, cenami i tym, co jest wliczone w cenę. Gdy ktoś pyta o uzyskanie certyfikatu, Chiefy przygotowuje odpowiedź zawierającą odpowiednie szczegóły kursu, harmonogram i kolejne kroki. Sprawdzasz i wysyłasz."
     },
     {
-      "question": "Cały dzień jestem na łodzi lub pod wodą. Czy mogę używać Duet z mojego telefonu?",
-      "answer": "Tak. Duet współpracuje z Gmail i Outlook, więc działa wszędzie tam, gdzie działa Twoja poczta e-mail — łącznie z telefonem. Wersje robocze pojawiają się automatycznie w Twojej skrzynce odbiorczej. Pomiędzy nurkowaniami lub z powrotem do stacji dokującej możesz przeglądać i wysyłać jednym dotknięciem. Większość operatorów nurkowych twierdzi, że oszczędza im to 1-2 godzin poczty elektronicznej dziennie w szczycie sezonu."
+      "question": "Cały dzień jestem na łodzi lub pod wodą. Czy mogę używać Chiefy z mojego telefonu?",
+      "answer": "Tak. Chiefy współpracuje z Gmail i Outlook, więc działa wszędzie tam, gdzie działa Twoja poczta e-mail — łącznie z telefonem. Wersje robocze pojawiają się automatycznie w Twojej skrzynce odbiorczej. Pomiędzy nurkowaniami lub z powrotem do stacji dokującej możesz przeglądać i wysyłać jednym dotknięciem. Większość operatorów nurkowych twierdzi, że oszczędza im to 1-2 godzin poczty elektronicznej dziennie w szczycie sezonu."
     }
   ],
   "pricingNote": "W $150/dive z grupą 6, jedna zaoszczędzona podróż płaci za ponad rok Pro."

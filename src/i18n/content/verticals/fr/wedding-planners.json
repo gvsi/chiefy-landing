@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail pour les wedding planners | Assistant e-mail IA",
-  "metaDescription": "Duet Mail aide les wedding planners à répondre instantanément aux e-mails des clients et des prestataires — même pendant les visites de lieux. Des réponses rédigées par l’IA avec vos formules, vos contacts prestataires et votre ton.",
+  "pageTitle": "Chiefy pour les wedding planners | Assistant e-mail IA",
+  "metaDescription": "Chiefy aide les wedding planners à répondre instantanément aux e-mails des clients et des prestataires — même pendant les visites de lieux. Des réponses rédigées par l’IA avec vos formules, vos contacts prestataires et votre ton.",
   "heroBadge": "Plébiscité par plus de 400 wedding planners",
   "heroHeadline": "Votre assistant e-mail quand vous êtes sur place au lieu de réception",
-  "heroSubline": "Duet apprend vos contacts prestataires, vos formules et les préférences de vos clients — puis rédige des réponses pour que les couples n’aient jamais à attendre pendant que vous coordonnez sur le terrain.",
+  "heroSubline": "Chiefy apprend vos contacts prestataires, vos formules et les préférences de vos clients — puis rédige des réponses pour que les couples n’aient jamais à attendre pendant que vous coordonnez sur le terrain.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "mariage",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Un seul client conservé rembourse plus de 20 ans de Duet."
+    "punchline": "Un seul client conservé rembourse plus de 20 ans de Chiefy."
   },
-  "categorizationSubtitle": "Duet classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes de couples, ensuite les confirmations de prestataires, et jamais le bruit des newsletters. Fini les demandes de réservation perdues sous les alertes Knot.",
-  "draftSubtitle": "Duet apprend vos forfaits, vos prestataires préférés et votre ton. Lorsqu’un couple vous contacte, il rédige une réponse chaleureuse et complète avec vos disponibilités et les prochaines étapes. Vous relisez et envoyez.",
-  "agentSubtitle": "« Quels e-mails de prestataires sont arrivés pour le mariage Thompson ? » « Rédige une mise à jour du planning pour tous les prestataires pour samedi. » Duet connaît votre boîte de réception et vos clients — demandez simplement.",
+  "categorizationSubtitle": "Chiefy classe automatiquement chaque e-mail afin que vous voyiez d’abord les nouvelles demandes de couples, ensuite les confirmations de prestataires, et jamais le bruit des newsletters. Fini les demandes de réservation perdues sous les alertes Knot.",
+  "draftSubtitle": "Chiefy apprend vos forfaits, vos prestataires préférés et votre ton. Lorsqu’un couple vous contacte, il rédige une réponse chaleureuse et complète avec vos disponibilités et les prochaines étapes. Vous relisez et envoyez.",
+  "agentSubtitle": "« Quels e-mails de prestataires sont arrivés pour le mariage Thompson ? » « Rédige une mise à jour du planning pour tous les prestataires pour samedi. » Chiefy connaît votre boîte de réception et vos clients — demandez simplement.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -127,31 +127,31 @@
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "Je suis dans des lieux en montagne avec zéro réseau la moitié de ma semaine. Pendant ce temps, les couples m’envoient des e-mails sur les plannings et les questions aux prestataires. Duet rédige des réponses avec mes forfaits et mon ton exacts — je les relis quand je suis de nouveau joignable.",
+      "quote": "Je suis dans des lieux en montagne avec zéro réseau la moitié de ma semaine. Pendant ce temps, les couples m’envoient des e-mails sur les plannings et les questions aux prestataires. Chiefy rédige des réponses avec mes forfaits et mon ton exacts — je les relis quand je suis de nouveau joignable.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Wedding Planner full-service, CA",
-      "quote": "Coordonner plus de 10 prestataires par mariage fait de ma boîte mail un vrai champ de bataille en haute saison. Duet classe les e-mails des prestataires à part des e-mails clients et rédige des relances que j’aurais écrites moi-même. Je dors vraiment maintenant.",
+      "quote": "Coordonner plus de 10 prestataires par mariage fait de ma boîte mail un vrai champ de bataille en haute saison. Chiefy classe les e-mails des prestataires à part des e-mails clients et rédige des relances que j’aurais écrites moi-même. Je dors vraiment maintenant.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Day-of Coordinator, TX",
-      "quote": "Les jours de mariage, je suis indisponible pendant 14 heures d’affilée. Avant, les nouvelles demandes restaient sans réponse jusqu’au lundi. Maintenant, Duet les gère instantanément et j’ai réservé 3 mariages supplémentaires ce trimestre rien qu’avec des délais de réponse plus rapides.",
+      "quote": "Les jours de mariage, je suis indisponible pendant 14 heures d’affilée. Avant, les nouvelles demandes restaient sans réponse jusqu’au lundi. Maintenant, Chiefy les gère instantanément et j’ai réservé 3 mariages supplémentaires ce trimestre rien qu’avec des délais de réponse plus rapides.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "Mes couples viennent du monde entier et m’écrivent à toute heure. Duet a appris mes réponses FAQ — logistique du lieu, prestataires locaux, à quoi s’attendre — et rédige des réponses qui me ressemblent exactement. Les clients n’y voient que du feu.",
+      "quote": "Mes couples viennent du monde entier et m’écrivent à toute heure. Chiefy a appris mes réponses FAQ — logistique du lieu, prestataires locaux, à quoi s’attendre — et rédige des réponses qui me ressemblent exactement. Les clients n’y voient que du feu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Wedding & Event Planner, NY",
-      "quote": "Je passais 2 heures chaque soir à répondre aux mêmes questions sur les forfaits et les disponibilités. Duet gère les tâches répétitives pour que je puisse me concentrer sur le travail créatif que j’aime vraiment. Il a été rentabilisé dès la première semaine.",
+      "quote": "Je passais 2 heures chaque soir à répondre aux mêmes questions sur les forfaits et les disponibilités. Chiefy gère les tâches répétitives pour que je puisse me concentrer sur le travail créatif que j’aime vraiment. Il a été rentabilisé dès la première semaine.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Duet fonctionne-t-il avec tous les e-mails de coordination des prestataires ?",
-      "answer": "Oui. Duet apprend vos contacts prestataires, vos prestataires préférés et la façon dont vous communiquez avec chacun. Il classe les e-mails des prestataires par mariage et rédige des réponses avec les bons détails — confirmations, suivis, mises à jour du planning. Vous relisez et envoyez. Il gère les fleuristes, traiteurs, lieux de réception, DJ, photographes et tous les autres prestataires de votre carnet d’adresses."
+      "question": "Chiefy fonctionne-t-il avec tous les e-mails de coordination des prestataires ?",
+      "answer": "Oui. Chiefy apprend vos contacts prestataires, vos prestataires préférés et la façon dont vous communiquez avec chacun. Il classe les e-mails des prestataires par mariage et rédige des réponses avec les bons détails — confirmations, suivis, mises à jour du planning. Vous relisez et envoyez. Il gère les fleuristes, traiteurs, lieux de réception, DJ, photographes et tous les autres prestataires de votre carnet d’adresses."
     },
     {
       "question": "Je suis sur site dans des mariages et des lieux de réception toute la journée. Vais-je manquer de nouvelles demandes ?",
-      "answer": "C’est exactement ce que Duet résout. Quand un couple envoie un e-mail pour demander la disponibilité ou les formules pendant que vous coordonnez sur place, Duet rédige une réponse chaleureuse et professionnelle avec votre disponibilité réelle et les prochaines étapes. Vous relisez et envoyez dès que vous êtes libre — même depuis votre téléphone entre deux événements. La plupart des organisateurs nous disent qu’il leur fait gagner 1 à 2 heures par jour sur les e-mails en haute saison."
+      "answer": "C’est exactement ce que Chiefy résout. Quand un couple envoie un e-mail pour demander la disponibilité ou les formules pendant que vous coordonnez sur place, Chiefy rédige une réponse chaleureuse et professionnelle avec votre disponibilité réelle et les prochaines étapes. Vous relisez et envoyez dès que vous êtes libre — même depuis votre téléphone entre deux événements. La plupart des organisateurs nous disent qu’il leur fait gagner 1 à 2 heures par jour sur les e-mails en haute saison."
     }
   ],
   "pricingNote": "À 8,000/wedding, un seul client gagné rembourse plus de 20 ans de Pro."

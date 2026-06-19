@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to HTML Email Footers: Compliance, Design & Examples"
 description: "Master HTML email footers: essential elements, design tips, legal compliance (CAN-SPAM, GDPR, CASL) and branding examples."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Your HTML email footer might be the last thing recipients see, but it shouldn't 
 
 It builds trust, reinforces your brand, ensures compliance, and provides helpful navigation for your audience. Take a few moments to review your current email footer. Is it compliant? Is it clear? Is it mobile-friendly? Making these small improvements can have a big impact on how your emails—and your brand—are perceived.
 
-Looking for ways to make your overall email management more efficient and professional? Consider exploring tools designed for busy professionals. For instance, learning how [Duet Mail simplifies email productivity](https://duetmail.com/) with AI-powered features might free up more time to focus on perfecting details like your footer and ensuring every communication represents you well.
+Looking for ways to make your overall email management more efficient and professional? Consider exploring tools designed for busy professionals. For instance, learning how [Chiefy simplifies email productivity](https://chiefy.com/) with AI-powered features might free up more time to focus on perfecting details like your footer and ensuring every communication represents you well.

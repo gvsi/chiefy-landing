@@ -1,12 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail for Wedding Planners | AI Email Assistant",
-  "metaDescription": "Duet Mail helps wedding planners respond to client and vendor emails instantly — even from venue walkthroughs. AI-drafted replies with your packages, vendor contacts, and voice.",
-
+  "pageTitle": "Chiefy for Wedding Planners | AI Email Assistant",
+  "metaDescription": "Chiefy helps wedding planners respond to client and vendor emails instantly — even from venue walkthroughs. AI-drafted replies with your packages, vendor contacts, and voice.",
   "heroBadge": "Trusted by 400+ wedding planners",
   "heroHeadline": "Your email assistant while you're on-site at the venue",
-  "heroSubline": "Duet learns your vendor contacts, packages, and client preferences — then drafts email replies so couples never wait while you're coordinating on the ground.",
-
+  "heroSubline": "Chiefy learns your vendor contacts, packages, and client preferences — then drafts email replies so couples never wait while you're coordinating on the ground.",
   "inboxEmails": [
     {
       "from": "Emily & James W.",
@@ -45,23 +43,17 @@
       "pillColor": "lavender"
     }
   ],
-
   "autodraft": "Hi Emily & James — congratulations on your engagement! September 20th is available and 120 guests is a perfect size. I offer full planning, partial planning, and day-of coordination packages. I'd love to set up a complimentary consultation to learn your vision. Are you free for a quick call this week?",
-
   "math": {
     "pricePerBooking": "$8,000",
     "bookingUnit": "wedding",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "One saved client pays for over 20 years of Duet."
+    "punchline": "One saved client pays for over 20 years of Chiefy."
   },
-
-  "categorizationSubtitle": "Duet automatically tags every email so you see new couple inquiries first, vendor confirmations second, and newsletter noise never. No more missing a booking request buried under Knot alerts.",
-
-  "draftSubtitle": "Duet learns your packages, preferred vendors, and tone. When a couple inquires, it drafts a warm, complete reply with your availability and next steps. You review and send.",
-
-  "agentSubtitle": "\"What vendor emails came in for the Thompson wedding?\" \"Draft a timeline update to all vendors for Saturday.\" Duet knows your inbox and clients — just ask.",
-
+  "categorizationSubtitle": "Chiefy automatically tags every email so you see new couple inquiries first, vendor confirmations second, and newsletter noise never. No more missing a booking request buried under Knot alerts.",
+  "draftSubtitle": "Chiefy learns your packages, preferred vendors, and tone. When a couple inquires, it drafts a warm, complete reply with your availability and next steps. You review and send.",
+  "agentSubtitle": "\"What vendor emails came in for the Thompson wedding?\" \"Draft a timeline update to all vendors for Saturday.\" Chiefy knows your inbox and clients — just ask.",
   "categorizationEmails": [
     {
       "from": "Emily & James W.",
@@ -105,7 +97,6 @@
       "pillColor": "lavender"
     }
   ],
-
   "draft": {
     "to": "emily.james.w@email.com",
     "subject": "Re: Availability for Sept 20 wedding?",
@@ -125,61 +116,56 @@
       "Learns your client preferences"
     ]
   },
-
   "agent": {
     "userMessage": "What vendor emails came in for the Thompson wedding this week?",
     "agentResponse": "You received 4 vendor emails for the Thompson wedding this week: Bella Rosa Florals sent centerpiece mockups (awaiting couple's pick), Lakeside Venue confirmed the ceremony rehearsal for Friday at 4 PM, DJ Marco sent the updated song list, and Sweet Layers Bakery needs final cake flavor by Wednesday. Want me to draft replies to any of these?",
     "followUp": "Draft a reply to Bella Rosa with the couple's pick — Option B, the garden roses",
     "followUpResponse": "Done! I drafted a reply to Bella Rosa Florals confirming Option B — the garden rose centerpieces for the Thompson wedding. It includes a note to proceed with the full order for 14 tables. Ready to review and send."
   },
-
   "testimonialsTitle": "Loved by wedding planners",
   "testimonials": [
     {
       "name": "Francesca M.",
       "title": "Boutique Wedding Planner, CO",
-      "quote": "I'm at mountain venues with zero cell service half my week. Meanwhile couples are emailing me about timelines and vendor questions. Duet drafts replies with my exact packages and tone — I review them when I'm back in range.",
+      "quote": "I'm at mountain venues with zero cell service half my week. Meanwhile couples are emailing me about timelines and vendor questions. Chiefy drafts replies with my exact packages and tone — I review them when I'm back in range.",
       "avatarKey": "francesca"
     },
     {
       "name": "Michael T.",
       "title": "Full-Service Wedding Planner, CA",
-      "quote": "Coordinating 10+ vendors per wedding means my inbox is a war zone during peak season. Duet categorizes vendor emails separately from client emails and drafts follow-ups I'd have written myself. I actually sleep now.",
+      "quote": "Coordinating 10+ vendors per wedding means my inbox is a war zone during peak season. Chiefy categorizes vendor emails separately from client emails and drafts follow-ups I'd have written myself. I actually sleep now.",
       "avatarKey": "michael"
     },
     {
       "name": "Sarah L.",
       "title": "Day-of Coordinator, TX",
-      "quote": "On wedding days I'm unavailable for 14 hours straight. New inquiries used to sit unanswered until Monday. Now Duet handles them instantly and I've booked 3 extra weddings this quarter from faster response times alone.",
+      "quote": "On wedding days I'm unavailable for 14 hours straight. New inquiries used to sit unanswered until Monday. Now Chiefy handles them instantly and I've booked 3 extra weddings this quarter from faster response times alone.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Destination Wedding Planner, HI",
-      "quote": "My couples fly in from all over the world and email at all hours. Duet learned my FAQ answers — venue logistics, local vendors, what to expect — and drafts replies that sound exactly like me. Clients have no idea.",
+      "quote": "My couples fly in from all over the world and email at all hours. Chiefy learned my FAQ answers — venue logistics, local vendors, what to expect — and drafts replies that sound exactly like me. Clients have no idea.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Wedding & Event Planner, NY",
-      "quote": "I was spending 2 hours every night answering the same package and availability questions. Duet handles the repetitive stuff so I can focus on the creative work I actually love. It paid for itself in the first week.",
+      "quote": "I was spending 2 hours every night answering the same package and availability questions. Chiefy handles the repetitive stuff so I can focus on the creative work I actually love. It paid for itself in the first week.",
       "avatarKey": "jennifer"
     }
   ],
-
   "ctaHeadline": "Be present at the ceremony,\nnot buried in your inbox.",
   "ctaSubline": "Start your free trial. Connect your inbox in 30 seconds.",
-
   "verticalFaqs": [
     {
-      "question": "Does Duet work with all the vendor coordination emails?",
-      "answer": "Yes. Duet learns your vendor contacts, preferred vendors, and how you communicate with each one. It categorizes vendor emails by wedding and drafts replies with the right details — confirmations, follow-ups, timeline updates. You review and send. It handles florists, caterers, venues, DJs, photographers, and every other vendor in your rolodex."
+      "question": "Does Chiefy work with all the vendor coordination emails?",
+      "answer": "Yes. Chiefy learns your vendor contacts, preferred vendors, and how you communicate with each one. It categorizes vendor emails by wedding and drafts replies with the right details — confirmations, follow-ups, timeline updates. You review and send. It handles florists, caterers, venues, DJs, photographers, and every other vendor in your rolodex."
     },
     {
       "question": "I'm on-site at weddings and venues all day. Will I miss new inquiries?",
-      "answer": "That's exactly what Duet solves. When a couple emails asking about availability or packages while you're coordinating on-site, Duet drafts a warm, professional reply with your real availability and next steps. You review and send whenever you're free — even from your phone between events. Most planners tell us it saves them 1-2 hours of email time per day during peak season."
+      "answer": "That's exactly what Chiefy solves. When a couple emails asking about availability or packages while you're coordinating on-site, Chiefy drafts a warm, professional reply with your real availability and next steps. You review and send whenever you're free — even from your phone between events. Most planners tell us it saves them 1-2 hours of email time per day during peak season."
     }
   ],
-
   "pricingNote": "At $8,000/wedding, one saved client pays for over 20 years of Pro."
 }

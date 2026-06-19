@@ -302,11 +302,11 @@ function assertCanonicalUrls() {
             fail(`Expected exactly one canonical link in dist/${relativePath}, found ${canonicals.length}`)
         }
 
-        const expected = new URL(htmlRoutePath(relativePath), "https://duetmail.com").toString()
+        const expected = new URL(htmlRoutePath(relativePath), "https://chiefy.com").toString()
         if (canonicals[0] !== expected) {
             fail(`Wrong canonical URL in dist/${relativePath}: expected ${expected}, got ${canonicals[0]}`)
         }
-        if (/https:\/\/duetmail\.com\/en(?:\/|$)/u.test(canonicals[0])) {
+        if (/https:\/\/chiefy\.com\/en(?:\/|$)/u.test(canonicals[0])) {
             fail(`Canonical URL leaked /en in dist/${relativePath}: ${canonicals[0]}`)
         }
     }
@@ -342,7 +342,7 @@ function assertHreflangSet(relativePath, document, expectedHreflangs) {
         }
     }
     for (const [hreflang, href] of seen.entries()) {
-        if (!href.startsWith("https://duetmail.com/")) {
+        if (!href.startsWith("https://chiefy.com/")) {
             fail(`hreflang ${hreflang} must use canonical production URL in dist/${relativePath}: ${href}`)
         }
     }
@@ -381,7 +381,7 @@ function assertLanguageMenuLinksAreOriginRelative() {
             const className = getAttr(anchor, "class") ?? ""
             const href = getAttr(anchor, "href") ?? ""
             const classes = className.split(/\s+/u)
-            if (classes.includes("language-menu-link") && href.startsWith("https://duetmail.com/")) {
+            if (classes.includes("language-menu-link") && href.startsWith("https://chiefy.com/")) {
                 fail(`Language menu link must stay origin-relative in dist/${relativePath}: ${href}`)
             }
         }
@@ -518,24 +518,24 @@ function assertSitemapBootstrapState() {
     for (const filePath of sitemapFiles) {
         const relativePath = path.relative(repoRoot, filePath)
         const xml = readFileSync(filePath, "utf8")
-        if (/https:\/\/duetmail\.com\/en(?:\/|<|"|$)/u.test(xml)) {
+        if (/https:\/\/chiefy\.com\/en(?:\/|<|"|$)/u.test(xml)) {
             fail(`Sitemap contains /en URL: ${relativePath}`)
         }
-        if (/https:\/\/duetmail\.com\/i18n-qa(?:\/|<|"|$)/u.test(xml)) {
+        if (/https:\/\/chiefy\.com\/i18n-qa(?:\/|<|"|$)/u.test(xml)) {
             fail(`Sitemap contains pseudo-locale QA URL: ${relativePath}`)
         }
         if (!translationActivationComplete) {
             if (/<xhtml:link\b/u.test(xml)) {
                 fail(`Sitemap contains localized alternate links before translation activation: ${relativePath}`)
             }
-            if (localePattern && new RegExp(`<loc>https://duetmail\\.com/(?:${localePattern})(?:/|<)`, "u").test(xml)) {
+            if (localePattern && new RegExp(`<loc>https://chiefy\\.com/(?:${localePattern})(?:/|<)`, "u").test(xml)) {
                 fail(`Sitemap contains non-default locale URL before translation activation: ${relativePath}`)
             }
             continue
         }
 
         for (const locale of nonDefaultLocales) {
-            if (new RegExp(`<loc>https://duetmail\\.com/${locale.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?:/|<)`, "u").test(xml)) {
+            if (new RegExp(`<loc>https://chiefy\\.com/${locale.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?:/|<)`, "u").test(xml)) {
                 locLocales.add(locale)
             }
             if (new RegExp(`<xhtml:link\\b[^>]*hreflang="${locale.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}"`, "u").test(xml)) {
@@ -576,10 +576,10 @@ function assertSitemapHelpRoutes() {
     if (!categoryDistFile) fail("No help category page found in dist/help/")
     if (!articleDistFile) fail("No nested help article (help/<category>/<slug>.html) found in dist/help/")
 
-    // help/<cat>.html → https://duetmail.com/help/<cat>
-    // help/<cat>/<slug>.html → https://duetmail.com/help/<cat>/<slug>
+    // help/<cat>.html → https://chiefy.com/help/<cat>
+    // help/<cat>/<slug>.html → https://chiefy.com/help/<cat>/<slug>
     const distFileToHelpLoc = (relativeDistPath) =>
-        `https://duetmail.com/${relativeDistPath.replace(/\.html$/u, "")}`
+        `https://chiefy.com/${relativeDistPath.replace(/\.html$/u, "")}`
     const requiredHelpLocs = [
         distFileToHelpLoc(categoryDistFile),
         distFileToHelpLoc(articleDistFile),
@@ -594,7 +594,7 @@ function assertSitemapHelpRoutes() {
         const relativePath = path.relative(repoRoot, filePath)
         const xml = readFileSync(filePath, "utf8")
 
-        if (xml.includes("<loc>https://duetmail.com/help</loc>")) sawHelpHomeLoc = true
+        if (xml.includes("<loc>https://chiefy.com/help</loc>")) sawHelpHomeLoc = true
 
         for (const loc of requiredHelpLocs) {
             if (xml.includes(`<loc>${loc}</loc>`)) sawRequiredLoc.add(loc)
@@ -604,15 +604,15 @@ function assertSitemapHelpRoutes() {
         // help alternate links.
         for (const locale of nonDefaultLocales) {
             const escaped = locale.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-            if (new RegExp(`<loc>https://duetmail\\.com/${escaped}/help(?:/|<)`, "u").test(xml)) {
+            if (new RegExp(`<loc>https://chiefy\\.com/${escaped}/help(?:/|<)`, "u").test(xml)) {
                 fail(`Sitemap contains phantom localized help URL (/${locale}/help): ${relativePath}`)
             }
-            if (new RegExp(`<xhtml:link\\b[^>]*href="https://duetmail\\.com/${escaped}/help`, "u").test(xml)) {
+            if (new RegExp(`<xhtml:link\\b[^>]*href="https://chiefy\\.com/${escaped}/help`, "u").test(xml)) {
                 fail(`Sitemap contains phantom localized help alternate (/${locale}/help): ${relativePath}`)
             }
         }
     }
-    if (!sawHelpHomeLoc) fail("Sitemap is missing the EN /help index <loc> (https://duetmail.com/help)")
+    if (!sawHelpHomeLoc) fail("Sitemap is missing the EN /help index <loc> (https://chiefy.com/help)")
     for (const loc of requiredHelpLocs) {
         if (!sawRequiredLoc.has(loc)) {
             fail(`Sitemap is missing a discovered help page <loc>: ${loc}`)

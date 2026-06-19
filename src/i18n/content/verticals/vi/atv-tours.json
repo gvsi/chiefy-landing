@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail cho Tour ATV & UTV | Trợ Lý Email AI",
-  "metaDescription": "Duet Mail giúp hướng dẫn viên tour ATV và UTV trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên đường. Trả lời được AI soạn thảo với giá cả, yêu cầu và giọng điệu của bạn.",
+  "pageTitle": "Chiefy cho Tour ATV & UTV | Trợ Lý Email AI",
+  "metaDescription": "Chiefy giúp hướng dẫn viên tour ATV và UTV trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên đường. Trả lời được AI soạn thảo với giá cả, yêu cầu và giọng điệu của bạn.",
   "heroBadge": "Được tin dùng bởi hơn 200 hướng dẫn viên tour",
   "heroHeadline": "Trợ lý email của bạn khi bạn đang trên đường",
-  "heroSubline": "Duet học các loại tour, giá cả và yêu cầu người lái của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
+  "heroSubline": "Chiefy học các loại tour, giá cả và yêu cầu người lái của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ mất khách vì phản hồi chậm.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "nhóm (4 xe)",
     "lostPerMonth": "3",
     "monthlyLoss": "2.400 đô la",
-    "punchline": "Một nhóm đặt chỗ được giữ lại đủ trả tiền Duet một năm."
+    "punchline": "Một nhóm đặt chỗ được giữ lại đủ trả tiền Chiefy một năm."
   },
-  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi bảo hiểm sau, và không bao giờ bị làm phiền bởi tin nhảm. Không còn bỏ lỡ yêu cầu nhóm bị chôn dưới thông báo TripAdvisor.",
-  "draftSubtitle": "Duet học các tuyến tour, giá cả và yêu cầu người lái của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến đi, giá cả và những thứ cần mang theo. Bạn xem lại và gửi.",
-  "agentSubtitle": "\"Có nhóm nào đặt chỗ cho cuối tuần này không?\" \"Soạn trả lời cho Rachel về chỗ trống thứ Bảy.\" Duet biết hộp thư và lịch của bạn — chỉ cần hỏi.",
+  "categorizationSubtitle": "Chiefy tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, câu hỏi bảo hiểm sau, và không bao giờ bị làm phiền bởi tin nhảm. Không còn bỏ lỡ yêu cầu nhóm bị chôn dưới thông báo TripAdvisor.",
+  "draftSubtitle": "Chiefy học các tuyến tour, giá cả và yêu cầu người lái của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với chi tiết chuyến đi, giá cả và những thứ cần mang theo. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Có nhóm nào đặt chỗ cho cuối tuần này không?\" \"Soạn trả lời cho Rachel về chỗ trống thứ Bảy.\" Chiefy biết hộp thư và lịch của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "Hướng dẫn viên ATV, Nam Utah",
-      "quote": "Tôi dẫn tour 8 giờ qua các hẻm núi không có sóng điện thoại. Khi tôi về, một nửa email đặt chỗ đã nguội lạnh. Duet soạn trả lời với giá và thông tin đường mòn — tôi chỉ xem lại vào cuối ngày.",
+      "quote": "Tôi dẫn tour 8 giờ qua các hẻm núi không có sóng điện thoại. Khi tôi về, một nửa email đặt chỗ đã nguội lạnh. Chiefy soạn trả lời với giá và thông tin đường mòn — tôi chỉ xem lại vào cuối ngày.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "Nhà điều hành tour UTV, Colorado",
-      "quote": "Chúng tôi chạy tour 7 ngày một tuần và các câu hỏi về bảo hiểm và giấy từ đã chiếm hết buổi sáng của tôi. Duet xử lý tất cả — yêu cầu người lái, giới hạn tuổi, những thứ cần mang theo. Giống hệt tôi.",
+      "quote": "Chúng tôi chạy tour 7 ngày một tuần và các câu hỏi về bảo hiểm và giấy từ đã chiếm hết buổi sáng của tôi. Chiefy xử lý tất cả — yêu cầu người lái, giới hạn tuổi, những thứ cần mang theo. Giống hệt tôi.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Hướng dẫn viên Jeep, Moab",
-      "quote": "Mọi người email hỏi đường mòn nào phù hợp cho nhóm, cần kinh nghiệm gì, trẻ em có được đi không. Cùng 5 câu hỏi lặp đi lặp lại. Duet trả lời chính xác từng câu.",
+      "quote": "Mọi người email hỏi đường mòn nào phù hợp cho nhóm, cần kinh nghiệm gì, trẻ em có được đi không. Cùng 5 câu hỏi lặp đi lặp lại. Chiefy trả lời chính xác từng câu.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Phiêu lưu địa hình, AZ",
-      "quote": "Tôi từng mất hơn một giờ mỗi tối trả lời cùng một câu hỏi về chỗ trống. Giờ Duet soạn trả lời khi tôi đang trên đường. Thời gian phản hồi của tôi giảm từ giờ xuống phút.",
+      "quote": "Tôi từng mất hơn một giờ mỗi tối trả lời cùng một câu hỏi về chỗ trống. Giờ Chiefy soạn trả lời khi tôi đang trên đường. Thời gian phản hồi của tôi giảm từ giờ xuống phút.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Tour ATV gia đình, Sedona",
-      "quote": "Chúng tôi nhận nhiều câu hỏi về đường mòn cho người mới và yêu cầu tuổi. Duet học tất cả lựa chọn tour và đề xuất đúng trong mỗi trả lời. Khách hàng không nhận ra sự khác biệt.",
+      "quote": "Chúng tôi nhận nhiều câu hỏi về đường mòn cho người mới và yêu cầu tuổi. Chiefy học tất cả lựa chọn tour và đề xuất đúng trong mỗi trả lời. Khách hàng không nhận ra sự khác biệt.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Duet có xử lý câu hỏi về bảo hiểm và giấy từ không?",
-      "answer": "Có. Duet học yêu cầu người lái của bạn — bảo hiểm trách nhiệm, giới hạn tuổi, chi tiết giấy từ, những gì người lái cần mang theo. Khi ai đó hỏi qua email về những gì cần chuẩn bị trước tour, Duet soạn trả lời đầy đủ với tất cả chi tiết. Bạn xem lại và nhấn gửi."
+      "question": "Chiefy có xử lý câu hỏi về bảo hiểm và giấy từ không?",
+      "answer": "Có. Chiefy học yêu cầu người lái của bạn — bảo hiểm trách nhiệm, giới hạn tuổi, chi tiết giấy từ, những gì người lái cần mang theo. Khi ai đó hỏi qua email về những gì cần chuẩn bị trước tour, Chiefy soạn trả lời đầy đủ với tất cả chi tiết. Bạn xem lại và nhấn gửi."
     },
     {
-      "question": "Tôi ở trên đường cả ngày không có sóng điện thoại. Duet giúp gì được?",
-      "answer": "Đó chính là lý do các hướng dẫn viên yêu thích Duet. Khi bạn dẫn tour 6-8 giờ không có sóng, các yêu cầu đặt chỗ chất đống. Duet soạn trả lời từng yêu cầu — giá, chỗ trống, địa điểm gặp, cách ăn mặc. Khi bạn về, bạn xem lại bản nháp và gửi. Hầu hết hướng dẫn viên nói rằng nó giúp họ tiết kiệm 1-2 giờ email mỗi ngày trong mùa cao điểm."
+      "question": "Tôi ở trên đường cả ngày không có sóng điện thoại. Chiefy giúp gì được?",
+      "answer": "Đó chính là lý do các hướng dẫn viên yêu thích Chiefy. Khi bạn dẫn tour 6-8 giờ không có sóng, các yêu cầu đặt chỗ chất đống. Chiefy soạn trả lời từng yêu cầu — giá, chỗ trống, địa điểm gặp, cách ăn mặc. Khi bạn về, bạn xem lại bản nháp và gửi. Hầu hết hướng dẫn viên nói rằng nó giúp họ tiết kiệm 1-2 giờ email mỗi ngày trong mùa cao điểm."
     }
   ],
   "pricingNote": "Với 200 đô la mỗi xe, một nhóm 4 người được giữ chỗ đủ trả tiền Pro hơn một năm."

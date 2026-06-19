@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail pour les vols en montgolfière | Assistant e-mail IA",
-  "metaDescription": "Duet Mail aide les pilotes de montgolfière à répondre instantanément aux e-mails de réservation — même pendant les vols au lever du soleil. Des réponses rédigées par l’IA avec vos tarifs, vos politiques météo et votre ton.",
+  "pageTitle": "Chiefy pour les vols en montgolfière | Assistant e-mail IA",
+  "metaDescription": "Chiefy aide les pilotes de montgolfière à répondre instantanément aux e-mails de réservation — même pendant les vols au lever du soleil. Des réponses rédigées par l’IA avec vos tarifs, vos politiques météo et votre ton.",
   "heroBadge": "Approuvé par plus de 200 pilotes de montgolfière",
   "heroHeadline": "Votre assistant e-mail pendant que vous êtes en l’air",
-  "heroSubline": "Duet apprend vos horaires de vol, vos tarifs et vos politiques météo — puis rédige les réponses aux e-mails pour que vous ne perdiez jamais une réservation pendant un décollage au lever du soleil.",
+  "heroSubline": "Chiefy apprend vos horaires de vol, vos tarifs et vos politiques météo — puis rédige les réponses aux e-mails pour que vous ne perdiez jamais une réservation pendant un décollage au lever du soleil.",
   "inboxEmails": [
     {
       "from": "Rachel & Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "vol",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "Un seul vol réservé rembourse une année de Duet."
+    "punchline": "Un seul vol réservé rembourse une année de Chiefy."
   },
-  "categorizationSubtitle": "Duet attribue automatiquement des libellés à chaque e-mail pour que vous voyiez d’abord les demandes de réservation, ensuite les questions sur la météo, et jamais le bruit. Plus de demande de vol perdue au milieu des alertes de newsletters.",
-  "draftSubtitle": "Duet apprend vos tarifs, vos politiques météo et votre ton. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du vol, les infos de rendez-vous et quoi porter. Vous relisez et envoyez.",
-  "agentSubtitle": "« Qui est sur le manifeste de demain ? » « Des annulations météo à reprogrammer ? » Duet connaît votre boîte de réception et votre calendrier — demandez simplement.",
+  "categorizationSubtitle": "Chiefy attribue automatiquement des libellés à chaque e-mail pour que vous voyiez d’abord les demandes de réservation, ensuite les questions sur la météo, et jamais le bruit. Plus de demande de vol perdue au milieu des alertes de newsletters.",
+  "draftSubtitle": "Chiefy apprend vos tarifs, vos politiques météo et votre ton. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec les détails du vol, les infos de rendez-vous et quoi porter. Vous relisez et envoyez.",
+  "agentSubtitle": "« Qui est sur le manifeste de demain ? » « Des annulations météo à reprogrammer ? » Chiefy connaît votre boîte de réception et votre calendrier — demandez simplement.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Captain Mike L.",
       "title": "Pilote de montgolfière, MN",
-      "quote": "Je travaille seul : je pilote, je fais l’assistance au sol, je réponds aux e-mails. Sauf à 5 h du matin, je gonfle, je ne réponds pas. Duet rédige des réponses à chaque message du type « volons-nous demain ? » pendant la nuit. Je me réveille, je vérifie la météo et j’envoie.",
+      "quote": "Je travaille seul : je pilote, je fais l’assistance au sol, je réponds aux e-mails. Sauf à 5 h du matin, je gonfle, je ne réponds pas. Chiefy rédige des réponses à chaque message du type « volons-nous demain ? » pendant la nuit. Je me réveille, je vérifie la météo et j’envoie.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "Tours en montgolfière toute l’année, UT",
-      "quote": "On reçoit les mêmes 10 questions chaque jour. Quoi porter, où se retrouver, que faire s’il y a du vent. Duet a tout appris et rédige maintenant des réponses parfaites. On est passés d’une heure d’e-mails chaque soir à cinq minutes.",
+      "quote": "On reçoit les mêmes 10 questions chaque jour. Quoi porter, où se retrouver, que faire s’il y a du vent. Chiefy a tout appris et rédige maintenant des réponses parfaites. On est passés d’une heure d’e-mails chaque soir à cinq minutes.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Exploitant de vols au lever du soleil, AZ",
-      "quote": "La haute saison, c’est 4 à 6 vols par semaine et chaque passager envoie au moins deux e-mails avant le vol. Duet gère les questions avant le vol pour que je puisse me concentrer sur offrir aux gens la meilleure matinée de leur vie.",
+      "quote": "La haute saison, c’est 4 à 6 vols par semaine et chaque passager envoie au moins deux e-mails avant le vol. Chiefy gère les questions avant le vol pour que je puisse me concentrer sur offrir aux gens la meilleure matinée de leur vie.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Copropriétaire d’une société de montgolfières, NM",
-      "quote": "Les annulations météo gâchaient toute ma journée : 8 passagers avaient tous besoin d’e-mails de reprogrammation personnalisés. Maintenant, Duet rédige chacun d’eux avec notre politique de report incluse. Ça me fait gagner des heures les matins d’annulation.",
+      "quote": "Les annulations météo gâchaient toute ma journée : 8 passagers avaient tous besoin d’e-mails de reprogrammation personnalisés. Maintenant, Chiefy rédige chacun d’eux avec notre politique de report incluse. Ça me fait gagner des heures les matins d’annulation.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Maria D.",
       "title": "Exploitation de vols en montgolfière, CO",
-      "quote": "Les vols de proposition demandent énormément d’aller-retour pour tout coordonner. Duet a compris notre façon de les gérer : le timing, les mots-code, la mise en place du champagne. Il rédige des réponses que je n’ai presque pas besoin de retoucher.",
+      "quote": "Les vols de proposition demandent énormément d’aller-retour pour tout coordonner. Chiefy a compris notre façon de les gérer : le timing, les mots-code, la mise en place du champagne. Il rédige des réponses que je n’ai presque pas besoin de retoucher.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Comment Duet gère-t-il les e-mails d’annulation liés à la météo ?",
-      "answer": "Duet apprend vos politiques d’annulation et de reprogrammation. Lorsque vous annulez un vol en raison de la météo, il peut rédiger des e-mails de reprogrammation personnalisés pour chaque passager concerné — avec votre politique, les dates disponibles et votre ton. Vous relisez et envoyez. Ce qui prenait une heure de réponses individuelles ne prend plus que quelques minutes."
+      "question": "Comment Chiefy gère-t-il les e-mails d’annulation liés à la météo ?",
+      "answer": "Chiefy apprend vos politiques d’annulation et de reprogrammation. Lorsque vous annulez un vol en raison de la météo, il peut rédiger des e-mails de reprogrammation personnalisés pour chaque passager concerné — avec votre politique, les dates disponibles et votre ton. Vous relisez et envoyez. Ce qui prenait une heure de réponses individuelles ne prend plus que quelques minutes."
     },
     {
-      "question": "Duet peut-il gérer les e-mails « volerons-nous demain ? » qui affluent chaque soir ?",
-      "answer": "Oui — c’est l’un des e-mails les plus courants dont les exploitants de montgolfières nous parlent. Duet apprend vos politiques météo et rédige des réponses rassurantes qui expliquent votre processus de décision, quand vous prendrez la décision finale et à quoi s’attendre. Une fois que vous confirmez le feu vert ou le non-feu vert le matin, il peut rédiger des mises à jour pour toutes les personnes sur le manifeste."
+      "question": "Chiefy peut-il gérer les e-mails « volerons-nous demain ? » qui affluent chaque soir ?",
+      "answer": "Oui — c’est l’un des e-mails les plus courants dont les exploitants de montgolfières nous parlent. Chiefy apprend vos politiques météo et rédige des réponses rassurantes qui expliquent votre processus de décision, quand vous prendrez la décision finale et à quoi s’attendre. Une fois que vous confirmez le feu vert ou le non-feu vert le matin, il peut rédiger des mises à jour pour toutes les personnes sur le manifeste."
     }
   ],
   "pricingNote": "À 250 $/personne avec 4 passagers par vol, une seule réservation économisée paie plus d’un an de Pro."

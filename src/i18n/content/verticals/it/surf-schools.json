@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail per scuole di surf e operatori di paddleboard | Assistente e-mail AI",
-  "metaDescription": "Duet Mail aiuta gli istruttori di surf e gli operatori di paddleboard a rispondere istantaneamente alle e-mail di prenotazione, anche durante l'insegnamento. Risposte elaborate dall'intelligenza artificiale con i tipi di lezione, i prezzi e la voce.",
+  "pageTitle": "Chiefy per scuole di surf e operatori di paddleboard | Assistente e-mail AI",
+  "metaDescription": "Chiefy aiuta gli istruttori di surf e gli operatori di paddleboard a rispondere istantaneamente alle e-mail di prenotazione, anche durante l'insegnamento. Risposte elaborate dall'intelligenza artificiale con i tipi di lezione, i prezzi e la voce.",
   "heroBadge": "Scelto da oltre 300 istruttori di surf",
   "heroHeadline": "Il tuo assistente email mentre insegni sull'acqua",
-  "heroSubline": "Duet apprende i tipi di lezione, i prezzi e le condizioni, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
+  "heroSubline": "Chiefy apprende i tipi di lezione, i prezzi e le condizioni, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
   "inboxEmails": [
     {
       "from": "Rachele T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lezione",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Due prenotazioni salvate pagano un anno di Duet."
+    "punchline": "Due prenotazioni salvate pagano un anno di Chiefy."
   },
-  "categorizationSubtitle": "Duet tagga automaticamente ogni email in modo da vedere prima le prenotazioni delle lezioni, poi le domande e mai il rumore. Non perderai più una richiesta di informazioni su un gruppo scolastico sepolta sotto gli avvisi di Yelp.",
-  "draftSubtitle": "Duet apprende i tipi di lezione, i prezzi del gruppo e il tono. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con disponibilità, cosa è incluso e cosa portare. Rivedi e invii.",
-  "agentSubtitle": "\"Ci sono prenotazioni di gruppo in arrivo questa settimana?\" \"Stilare una risposta alla scuola con disponibilità.\" Duet conosce la tua casella di posta e il tuo programma: basta chiedere.",
+  "categorizationSubtitle": "Chiefy tagga automaticamente ogni email in modo da vedere prima le prenotazioni delle lezioni, poi le domande e mai il rumore. Non perderai più una richiesta di informazioni su un gruppo scolastico sepolta sotto gli avvisi di Yelp.",
+  "draftSubtitle": "Chiefy apprende i tipi di lezione, i prezzi del gruppo e il tono. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con disponibilità, cosa è incluso e cosa portare. Rivedi e invii.",
+  "agentSubtitle": "\"Ci sono prenotazioni di gruppo in arrivo questa settimana?\" \"Stilare una risposta alla scuola con disponibilità.\" Chiefy conosce la tua casella di posta e il tuo programma: basta chiedere.",
   "categorizationEmails": [
     {
       "from": "Rachele T.",
@@ -127,31 +127,31 @@
     {
       "name": "Allenatore Mike T.",
       "title": "Proprietario della scuola di surf, California",
-      "quote": "Sono in acqua ad insegnare 6 ore al giorno. Quando controllavo la posta elettronica, metà delle prenotazioni erano andate a qualcun altro. Ora Duet redige le bozze delle risposte con i miei prezzi e la mia disponibilità: mi limito a rivederle tra una sessione e l'altra.",
+      "quote": "Sono in acqua ad insegnare 6 ore al giorno. Quando controllavo la posta elettronica, metà delle prenotazioni erano andate a qualcun altro. Ora Chiefy redige le bozze delle risposte con i miei prezzi e la mia disponibilità: mi limito a rivederle tra una sessione e l'altra.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen e Mark S.",
       "title": "Lezioni e noleggio di paddleboard, HI",
-      "quote": "Gestiamo lezioni e noleggio tavole dalla stessa casella di posta. Duet ha capito subito la differenza: le domande sul noleggio ricevono risposte sul noleggio, le domande sulle lezioni ricevono i dettagli della lezione. È come avere una reception.",
+      "quote": "Gestiamo lezioni e noleggio tavole dalla stessa casella di posta. Chiefy ha capito subito la differenza: le domande sul noleggio ricevono risposte sul noleggio, le domande sulle lezioni ricevono i dettagli della lezione. È come avere una reception.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Danny R.",
       "title": "Istruttore di surf, Florida",
-      "quote": "Le prenotazioni di gruppi scolastici richiedevano avanti e indietro 10 e-mail. Ora Duet redige la prima risposta con le tariffe per gruppi, cosa è incluso e il modulo di autorizzazione. Taglia l'intero filo a metà.",
+      "quote": "Le prenotazioni di gruppi scolastici richiedevano avanti e indietro 10 e-mail. Ora Chiefy redige la prima risposta con le tariffe per gruppi, cosa è incluso e il modulo di autorizzazione. Taglia l'intero filo a metà.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "Tour e lezioni di SUP, OR",
-      "quote": "L’alta stagione mi stava uccidendo: 30 email al giorno su condizioni, prezzi, cosa portare. Le stesse cinque domande ancora e ancora. Duet li gestisce tutti e suonano esattamente come me.",
+      "quote": "L’alta stagione mi stava uccidendo: 30 email al giorno su condizioni, prezzi, cosa portare. Le stesse cinque domande ancora e ancora. Chiefy li gestisce tutti e suonano esattamente come me.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sara K.",
       "title": "Direttore del surf camp per bambini, SC",
-      "quote": "I genitori inviano le email più lunghe. Date del campo, allergie, livelli di abilità, orari di ritiro. Duet redige risposte dettagliate che coprono tutto, quindi non scrivo paragrafi alle 22:00 dopo un'intera giornata in spiaggia.",
+      "quote": "I genitori inviano le email più lunghe. Date del campo, allergie, livelli di abilità, orari di ritiro. Chiefy redige risposte dettagliate che coprono tutto, quindi non scrivo paragrafi alle 22:00 dopo un'intera giornata in spiaggia.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
   "verticalFaqs": [
     {
-      "question": "Duet gestisce diversi tipi di lezioni e noleggio di attrezzature?",
-      "answer": "SÌ. Duet apprende tutte le tue offerte: lezioni private, lezioni di gruppo, campi per bambini, noleggio tavole, tour SUP. Quando arriva una richiesta, redige una risposta con il prezzo corretto, la durata, cosa è incluso e cosa portare. Sa che l'e-mail di un gruppo scolastico richiede dettagli diversi rispetto alla prenotazione di una lezione privata."
+      "question": "Chiefy gestisce diversi tipi di lezioni e noleggio di attrezzature?",
+      "answer": "SÌ. Chiefy apprende tutte le tue offerte: lezioni private, lezioni di gruppo, campi per bambini, noleggio tavole, tour SUP. Quando arriva una richiesta, redige una risposta con il prezzo corretto, la durata, cosa è incluso e cosa portare. Sa che l'e-mail di un gruppo scolastico richiede dettagli diversi rispetto alla prenotazione di una lezione privata."
     },
     {
       "question": "Che ne dici delle domande sul tempo e sulle condizioni?",
-      "answer": "Duet apprende come gestisci normalmente le e-mail relative alle condizioni: le tue politiche su cancellazioni, riprogrammazione e le condizioni in cui insegni. Quando qualcuno invia un'e-mail chiedendo se la sua lezione andrà avanti, Duet redige una risposta che corrisponde al tuo tono e alla tua politica abituali. Rivedi e invii in pochi secondi."
+      "answer": "Chiefy apprende come gestisci normalmente le e-mail relative alle condizioni: le tue politiche su cancellazioni, riprogrammazione e le condizioni in cui insegni. Quando qualcuno invia un'e-mail chiedendo se la sua lezione andrà avanti, Chiefy redige una risposta che corrisponde al tuo tono e alla tua politica abituali. Rivedi e invii in pochi secondi."
     }
   ],
   "pricingNote": "A $ 90 a lezione, due prenotazioni salvate pagano più di un anno di Pro."

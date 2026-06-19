@@ -2,7 +2,7 @@
 title: "Kompletny przewodnik po stopkach HTML w e-mailach: zgodność, projektowanie i przykłady"
 description: "Opanuj stopki HTML w e-mailach: kluczowe elementy, wskazówki projektowe, zgodność z przepisami (CAN-SPAM, GDPR, CASL) i przykłady budowania marki."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "E-mail"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Twoja stopka HTML w e-mailu może być ostatnią rzeczą, jaką widzą odbiorcy,
 
 Buduje ona zaufanie, wzmacnia Twoją markę, zapewnia zgodność z przepisami i ułatwia odbiorcom nawigację. Poświęć kilka chwil na przejrzenie swojej obecnej stopki e-mailowej. Czy jest zgodna z przepisami? Czy jest jasna? Czy jest przyjazna dla urządzeń mobilnych? Wprowadzenie tych drobnych ulepszeń może mieć duży wpływ na to, jak postrzegane są Twoje e-maile — i Twoja marka.
 
-Szukasz sposobów, by całościowe zarządzanie e-mailami było bardziej efektywne i profesjonalne? Rozważ narzędzia stworzone z myślą o zapracowanych profesjonalistach. Na przykład poznanie tego, jak [Duet Mail upraszcza produktywność w e-mailach](https://duetmail.com/pl) dzięki funkcjom opartym na AI, może uwolnić więcej czasu na dopracowywanie detali, takich jak stopka, i dopilnowanie, by każda komunikacja dobrze Cię reprezentowała.
+Szukasz sposobów, by całościowe zarządzanie e-mailami było bardziej efektywne i profesjonalne? Rozważ narzędzia stworzone z myślą o zapracowanych profesjonalistach. Na przykład poznanie tego, jak [Chiefy upraszcza produktywność w e-mailach](https://chiefy.com/pl) dzięki funkcjom opartym na AI, może uwolnić więcej czasu na dopracowywanie detali, takich jak stopka, i dopilnowanie, by każda komunikacja dobrze Cię reprezentowała.

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI 適用於 Gmail 和 Outlook 的電子郵件助手",
-    "description": "Duet Mail 的 AI 電子郵件助理可彙總電子郵件、起草回覆並整理您的收件匣。適用於 Gmail 和 Outlook。每週節省 4 小時以上。"
+    "title": "Chiefy | AI 適用於 Gmail 和 Outlook 的電子郵件助手",
+    "description": "Chiefy 的 AI 電子郵件助理可彙總電子郵件、起草回覆並整理您的收件匣。適用於 Gmail 和 Outlook。每週節省 4 小時以上。"
   },
   "hero": {
     "badge": "現已適用於 Gmail 和 Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "聽起來像是「您」的電子郵件草稿",
-        "description": "Duet AI 電子郵件撰寫者為您最重要的電子郵件準備草稿。它可以學習您的語調和寫作風格。",
+        "description": "Chiefy AI 電子郵件撰寫者為您最重要的電子郵件準備草稿。它可以學習您的語調和寫作風格。",
         "ariaLabel": "聽起來像是您的電子郵件草稿",
         "mockCopy": {
           "draftedColdEmail": "我為約翰起草了一封個人化的冷電子郵件",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "智慧提醒",
-        "description": "設定好後就可以忘記它。 Duet AI 記得在其他人沒有回覆時進行跟進，這樣就不會遺漏任何內容。",
+        "description": "設定好後就可以忘記它。 Chiefy AI 記得在其他人沒有回覆時進行跟進，這樣就不會遺漏任何內容。",
         "ariaLabel": "智慧提醒",
         "mockCopy": {
           "header": "AI 支援的智慧提醒",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "電子郵件組織和智慧收件匣分類",
     "badge": "組織機構",
-    "title": "Duet 整理您的收件匣",
+    "title": "Chiefy 整理您的收件匣",
     "subtitle": "自動分類可以過濾雜訊並顯示重要內容。立即查看哪些內容需要採取行動，哪些內容只需 FYI，哪些內容可以等待。",
     "windowTitle": "收件匣",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI 電子郵件起草和回覆生成",
     "badge": "起草",
-    "title": "Duet 用你的聲音草稿",
-    "subtitle": "Duet 會學習您的寫作方式並起草符合您語氣的回應。查看並根據需要進行調整，然後在幾秒鐘內發送。",
+    "title": "Chiefy 用你的聲音草稿",
+    "subtitle": "Chiefy 會學習您的寫作方式並起草符合您語氣的回應。查看並根據需要進行調整，然後在幾秒鐘內發送。",
     "windowTitle": "新訊息",
     "fieldLabels": {
       "to": "至：",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI 電子郵件智慧與助手",
     "badge": "情報",
     "title": "詢問任何有關您的電子郵件的問題",
-    "subtitle": "請 Duet 尋找電子郵件、檢查日曆或起草回覆。它了解您的收件匣並立即回覆。",
-    "windowTitle": "Duet Agent",
+    "subtitle": "請 Chiefy 尋找電子郵件、檢查日曆或起草回覆。它了解您的收件匣並立即回覆。",
+    "windowTitle": "Chiefy Agent",
     "onlineLabel": "網路",
     "initialUserMessage": "您能找到會計發送的 Stripe 發票嗎？",
     "processingText": "正在搜尋收件匣...",
@@ -321,7 +321,7 @@
       {
         "name": "弗朗西斯卡·T.",
         "title": "自由工作者",
-        "quote": "每一分錢都值得。我在電子郵件上節省的時間相當於 Duet Mail 10 倍以上。無法想像現在沒有它的工作。",
+        "quote": "每一分錢都值得。我在電子郵件上節省的時間相當於 Chiefy 10 倍以上。無法想像現在沒有它的工作。",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "詹妮弗·L。",
         "title": "顧問",
-        "quote": "作為顧問，每一分鐘都很重要。 Duet Mail 不僅節省了我的時間，也讓我的電子郵件通訊更加順暢。",
+        "quote": "作為顧問，每一分鐘都很重要。 Chiefy 不僅節省了我的時間，也讓我的電子郵件通訊更加順暢。",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "啟動的基本組織"
           },
           {
-            "title": "Duet Assistant",
+            "title": "Chiefy Assistant",
             "description": "試試 AI 助手"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet Assistant",
+            "title": "Chiefy Assistant",
             "description": "聊天以查找、起草、組織等",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "聯絡方式",
     "contactHeading": "還有疑問嗎？",
     "contactCta": "聯絡我們 →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Duet Mail 如何保護我的電子郵件資料？",
+        "question": "Chiefy 如何保護我的電子郵件資料？",
         "answer": "您的安全是我們的首要任務。我們使用 OAuth 2.0 對 Google 和 Microsoft 進行安全性驗證。電子郵件內容使用客戶端欄位層級加密進行靜態加密，我們遵循 API 存取的最小權限原則。對於 Google 整合，我們接受了 Google 的年度 CASA 安全評估。"
       },
       {
         "question": "電子郵件摘要功能如何運作？",
-        "answer": "Duet Mail 使用進階 AI 來分析您的電子郵件線程並產生簡潔的概述，突出顯示關鍵點、決策和行動項目。這可以幫助您快速理解上下文，而無需閱讀整個線程。"
+        "answer": "Chiefy 使用進階 AI 來分析您的電子郵件線程並產生簡潔的概述，突出顯示關鍵點、決策和行動項目。這可以幫助您快速理解上下文，而無需閱讀整個線程。"
       },
       {
-        "question": "Duet Mail 需要什麼權限？",
-        "answer": "Duet Mail 需要存取您的電子郵件才能提供摘要、提取作業項目、產生內容和發送電子郵件。我們只請求我們絕對需要的權限。您可以隨時在 Google 帳戶或 Microsoft 帳戶設定中檢視和撤銷這些權限。"
+        "question": "Chiefy 需要什麼權限？",
+        "answer": "Chiefy 需要存取您的電子郵件才能提供摘要、提取作業項目、產生內容和發送電子郵件。我們只請求我們絕對需要的權限。您可以隨時在 Google 帳戶或 Microsoft 帳戶設定中檢視和撤銷這些權限。"
       },
       {
         "question": "免費試用包含哪些內容？",
         "answer": "14 天免費試用包括完全存取 Pro 的所有功能：無限制的電子郵件摘要、操作項目提取、AI 電子郵件編寫器（無任何限制地產生電子郵件和草稿）以及自訂電子郵件範本。使用 Google 或 Microsoft 登錄，開始節省電子郵件管理時間。"
       },
       {
-        "question": "我可以將 Duet Mail 與其他電子郵件提供者一起使用嗎？",
-        "answer": "Duet Mail 支援 Gmail、Google Workspace 和 Microsoft Outlook。使用您的 Google 或 Microsoft 帳號登入即可開始。"
+        "question": "我可以將 Chiefy 與其他電子郵件提供者一起使用嗎？",
+        "answer": "Chiefy 支援 Gmail、Google Workspace 和 Microsoft Outlook。使用您的 Google 或 Microsoft 帳號登入即可開始。"
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "網站頁腳",
-    "brandIconAlt": "Duet Mail 圖標",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — AI 電子郵件助理每週為您節省時間",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Chiefy 圖標",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "探索",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "投資報酬率",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "在每 {bookingUnit} {pricePerBooking} 的情況下，僅因緩慢回覆而損失 {lostPerMonth} =",
     "lossSuffix": "/mo",
     "dividerLabel": "與",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI 適用於 Gmail 和 Outlook 的電子郵件助手",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - AI 適用於 Gmail 和 Outlook 的電子郵件助手",
+    "organizationName": "Chiefy",
     "organizationContactType": "客戶支援",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI 適用於 Gmail 和 Outlook 的電子郵件助手，可自動匯總電子郵件、用語音起草回覆並整理收件箱，每週節省時間。",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "網路",
     "browserRequirements": "需要 JavaScript。適用於 Gmail、Google Workspace 和 Microsoft Outlook。",
     "urls": {
-      "site": "https://duetmail.com/zh-Hant",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Duet Mail 如何保護我的電子郵件資料？",
+        "question": "Chiefy 如何保護我的電子郵件資料？",
         "answer": "您的安全是我們的首要任務。我們使用 OAuth 2.0 對 Google 和 Microsoft 進行安全性驗證。電子郵件內容使用客戶端欄位層級加密進行靜態加密，我們遵循 API 存取的最小權限原則。對於 Google 整合，我們接受了 Google 的年度 CASA 安全評估。"
       },
       {
         "question": "電子郵件摘要功能如何運作？",
-        "answer": "Duet Mail 使用進階 AI 來分析您的電子郵件線程並產生簡潔的概述，突出顯示關鍵點、決策和行動項目。這可以幫助您快速理解上下文，而無需閱讀整個線程。"
+        "answer": "Chiefy 使用進階 AI 來分析您的電子郵件線程並產生簡潔的概述，突出顯示關鍵點、決策和行動項目。這可以幫助您快速理解上下文，而無需閱讀整個線程。"
       },
       {
-        "question": "Duet Mail 需要什麼權限？",
-        "answer": "Duet Mail 需要存取您的電子郵件才能提供摘要、提取作業項目、產生內容和發送電子郵件。我們只請求我們絕對需要的權限。您可以隨時在 Google 帳戶或 Microsoft 帳戶設定中檢視和撤銷這些權限。"
+        "question": "Chiefy 需要什麼權限？",
+        "answer": "Chiefy 需要存取您的電子郵件才能提供摘要、提取作業項目、產生內容和發送電子郵件。我們只請求我們絕對需要的權限。您可以隨時在 Google 帳戶或 Microsoft 帳戶設定中檢視和撤銷這些權限。"
       },
       {
         "question": "免費試用包含哪些內容？",
         "answer": "14 天免費試用包括完全存取 Pro 的所有功能：無限制的電子郵件摘要、操作項目提取、AI 電子郵件編寫器（無任何限制地產生電子郵件和草稿）以及自訂電子郵件範本。使用 Google 或 Microsoft 登錄，開始節省電子郵件管理時間。"
       },
       {
-        "question": "我可以將 Duet Mail 與其他電子郵件提供者一起使用嗎？",
-        "answer": "Duet Mail 支援 Gmail、Google Workspace 和 Microsoft Outlook。使用您的 Google 或 Microsoft 帳號登入即可開始。"
+        "question": "我可以將 Chiefy 與其他電子郵件提供者一起使用嗎？",
+        "answer": "Chiefy 支援 Gmail、Google Workspace 和 Microsoft Outlook。使用您的 Google 或 Microsoft 帳號登入即可開始。"
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

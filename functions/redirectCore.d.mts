@@ -3,6 +3,7 @@ export const LANDING_HEADER_UNSETS: readonly string[]
 export function resolveRuntimeLocale(raw: string): string
 export function computeCanonicalPathname(pathname: string): string
 export function computeCanonicalRedirect(request: Request): string | null
+export function computeWwwToApexRedirect(request: Request): string | null
 export function computeFlipRedirect(request: Request, env: { FLIP_301?: string }): string | null
 export function redirectResponse(location: string, status?: number): Response
 export function wrapResponseWithSecurityHeaders(response: Response): Response

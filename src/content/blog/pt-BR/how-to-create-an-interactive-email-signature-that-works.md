@@ -2,7 +2,7 @@
 title: "Como criar uma assinatura de e-mail interativa que funciona"
 description: "Aprenda a criar uma assinatura de e-mail interativa para aumentar engajamento, marca e leads. Guia passo a passo para freelancers e startups."
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["IA", "E-mail"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Uma assinatura interativa é feita para gerar ação: um clique, uma ligação, 
 
 É aqui que integrar sua estratégia de assinatura com ferramentas inteligentes de gestão de e-mail pode fazer diferença. Quando leads começam a clicar no link "Agende uma reunião" criado pela sua ótima assinatura, você precisa de um sistema para lidar com o agendamento e a comunicação seguinte sem atrito. Do mesmo modo, manter em todo follow-up o tom profissional definido pela assinatura é essencial para construir relacionamentos.
 
-Ferramentas de produtividade de e-mail, como [Duet Mail](https://duetmail.com/pt-BR), podem ajudar a preencher essa lacuna. Imagine receber ajuda de IA para rascunhar respostas rápidas e personalizadas que mantêm sua voz única depois que alguém interage com o CTA da sua assinatura. Recursos do Duet Mail, como **triagem com IA**, ajudam a destacar respostas importantes geradas a partir dessas interações, enquanto os **rascunhos autênticos com IA** garantem que seus follow-ups soem como você, preservando o profissionalismo que sua assinatura transmite. Isso transforma o engajamento gerado pela assinatura em conversas bem gerenciadas e produtivas.
+Ferramentas de produtividade de e-mail, como [Chiefy](https://chiefy.com/pt-BR), podem ajudar a preencher essa lacuna. Imagine receber ajuda de IA para rascunhar respostas rápidas e personalizadas que mantêm sua voz única depois que alguém interage com o CTA da sua assinatura. Recursos do Chiefy, como **triagem com IA**, ajudam a destacar respostas importantes geradas a partir dessas interações, enquanto os **rascunhos autênticos com IA** garantem que seus follow-ups soem como você, preservando o profissionalismo que sua assinatura transmite. Isso transforma o engajamento gerado pela assinatura em conversas bem gerenciadas e produtivas.
 
 ## Pronto para ativar sua assinatura?
 

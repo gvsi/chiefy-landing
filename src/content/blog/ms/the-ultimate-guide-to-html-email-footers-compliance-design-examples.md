@@ -2,7 +2,7 @@
 title: "Panduan Terunggul untuk Footer E-mel HTML: Pematuhan, Reka Bentuk & Contoh"
 description: "Kuasi footer e-mel HTML: elemen penting, petua reka bentuk, pematuhan undang-undang (CAN-SPAM, GDPR, CASL) dan contoh penjenamaan."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -122,4 +122,4 @@ Footer e-mel HTML anda mungkin perkara terakhir yang dilihat oleh penerima, teta
 
 Ia membina kepercayaan, mengukuhkan jenama anda, memastikan pematuhan, dan menyediakan navigasi yang berguna untuk audiens anda. Luangkan beberapa minit untuk menyemak footer e-mel semasa anda. Adakah ia mematuhi peraturan? Adakah ia jelas? Adakah ia mesra mudah alih? Membuat penambahbaikan kecil ini boleh memberi kesan besar kepada cara e-mel anda—dan jenama anda—dilihat.
 
-Mencari cara untuk menjadikan pengurusan e-mel keseluruhan anda lebih cekap dan profesional? Pertimbangkan untuk meneroka alat yang direka untuk profesional sibuk. Sebagai contoh, mempelajari bagaimana [Duet Mail memudahkan produktiviti e-mel](https://duetmail.com/ms) dengan ciri berkuasa AI mungkin membebaskan lebih banyak masa untuk menumpukan perhatian pada memantapkan butiran seperti footer anda dan memastikan setiap komunikasi mewakili anda dengan baik.
+Mencari cara untuk menjadikan pengurusan e-mel keseluruhan anda lebih cekap dan profesional? Pertimbangkan untuk meneroka alat yang direka untuk profesional sibuk. Sebagai contoh, mempelajari bagaimana [Chiefy memudahkan produktiviti e-mel](https://chiefy.com/ms) dengan ciri berkuasa AI mungkin membebaskan lebih banyak masa untuk menumpukan perhatian pada memantapkan butiran seperti footer anda dan memastikan setiap komunikasi mewakili anda dengan baik.

@@ -2,7 +2,7 @@
 title: "Topit se ve zprávách? Odborné strategie pro správu vaší schránky Gmail"
 description: "Zastavte přetěžování e-mailů! Naučte se odborné strategie pro správu vaší schránky Gmail, od klasických taktik po nástroje AI, a získejte zpět svou produktivitu."
 publishedAt: 2025-07-04
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Gmail", "Správa doručené pošty", "E-mail"]
 draft: false
 ---
@@ -157,7 +157,7 @@ E-mailoví asistenti AI překračují jednoduchou automatizaci; nabízejí intel
 
 **Výhoda:** Místo toho, abyste se prohrabávali hromadou, AI automaticky zobrazí e-maily požadující okamžitou akci. To drasticky zkracuje dobu třídění, zajišťuje, že nezmeškáte kritické položky, snižuje stres z přetížení doručené pošty a umožňuje vám soustředit se na efektivní práci, nikoli na správu doručené pošty.
 
-**Duet Mail Link (Contextual):** _Toto inteligentní třídění je přesně to, co vytížení profesionálové potřebují. Právě tam excelují nástroje jako _[_Duet Mail_](https://duetmail.com/cs)_, které využívají **AI Triage** k analýze naléhavosti, požadovaných akcí a rozhodnutí a prezentují je jasně na **Zaměřeném panelu**, takže okamžitě víte, čemu je třeba věnovat pozornost._
+**Chiefy Link (Contextual):** _Toto inteligentní třídění je přesně to, co vytížení profesionálové potřebují. Právě tam excelují nástroje jako _[_Chiefy_](https://chiefy.com/cs)_, které využívají **AI Triage** k analýze naléhavosti, požadovaných akcí a rozhodnutí a prezentují je jasně na **Zaměřeném panelu**, takže okamžitě víte, čemu je třeba věnovat pozornost._
 
 ### Inteligentní shrnutí: Okamžité pochopení dlouhých vláken a příloh
 
@@ -217,4 +217,4 @@ Technologie, zejména vzestup inteligentních e-mailových asistentů AI, nabíz
 
 Zvládnutí vašeho Gmail není jen o dosažení uklizeného digitálního prostoru. Jde o výrazné snížení stresu na pracovišti, o znovuzískání hodin drahocenného času každý týden, ochranu vaší schopnosti soustředit se na hlubokou a smysluplnou práci a v konečném důsledku zvýšení vaší celkové efektivity a pohody. Promyšleným spojením disciplinovaných návyků se strategickým používáním inteligentních nástrojů můžete přeměnit svou doručenou poštu ze zdroje hrůzy na spravovatelné komunikační centrum.
 
-Jste připraveni vyzkoušet, jak může umělá inteligence změnit váš vztah k e-mailu? Udělejte první krok ke klidnějšímu a produktivnějšímu pracovnímu dni. Prozkoumejte, jak [Duet Mail](https://duetmail.com/cs) využívá třídění pomocí umělé inteligence, inteligentní sumarizaci a autentické navrhování, aby pomohla zaneprázdněným profesionálům, jako jste vy, dobýt jejich doručenou poštu.
+Jste připraveni vyzkoušet, jak může umělá inteligence změnit váš vztah k e-mailu? Udělejte první krok ke klidnějšímu a produktivnějšímu pracovnímu dni. Prozkoumejte, jak [Chiefy](https://chiefy.com/cs) využívá třídění pomocí umělé inteligence, inteligentní sumarizaci a autentické navrhování, aby pomohla zaneprázdněným profesionálům, jako jste vy, dobýt jejich doručenou poštu.

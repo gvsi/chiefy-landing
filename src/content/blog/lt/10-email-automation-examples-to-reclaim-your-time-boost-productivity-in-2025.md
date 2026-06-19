@@ -2,7 +2,7 @@
 title: "10+ el. pašto automatizavimo pavyzdžių, padėsiančių susigrąžinti laiką ir padidinti produktyvumą 2025 m."
 description: "Atraskite praktiškus el. pašto automatizavimo pavyzdžius rūšiavimui, atsakymams, priminimams ir kt. Padidinkite produktyvumą pasitelkdami šiuos 2025 m. patarimus ir įrankius."
 publishedAt: 2025-04-07
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["DI", "Produktyvumas", "Automatizavimas", "El. paštas"]
 draft: false
 ---
@@ -35,7 +35,7 @@ Nors tai paprasta, tokių taisyklių nustatymas akimirksniu palengvina darbą, n
 
 Norite žengti į kitą lygį? DI el. pašto asistentai rūšiavimą pakylėja į visai kitą lygmenį. Tokie įrankiai kaip [SaneBox](https://www.sanebox.com/) naudoja DI algoritmus, kad analizuotų jūsų el. pašto įpročius ir automatiškai filtruotų nesvarbius laiškus į atskirus aplankus (pvz., „SaneLater“), palikdami pagrindinius gautuosius tik svarbiems pranešimams. Jie taip pat gali priminti apie laiškus, į kuriuos nebuvo atsakyta.
 
-Pažangesni sprendimai nueina dar toliau. Čia išsiskiria tokie įrankiai kaip [Duet Mail](https://duetmail.com/lt) su **DI rūšiavimu**. Užuot vien tik filtravęs, Duet Mail analizuoja gaunamus laiškus ir nustato skubumą, reikalingus veiksmus ar priimtinus sprendimus, pateikdamas šiuos svarbius elementus sutelktame valdymo skydelyje. Tai reiškia, kad iš karto matote, kam reikia jūsų dėmesio, rankiniu būdu neperžvelgdami visko, o rūšiavimui skiriamas laikas smarkiai sutrumpėja ir svarbūs pranešimai nelieka palaidoti.
+Pažangesni sprendimai nueina dar toliau. Čia išsiskiria tokie įrankiai kaip [Chiefy](https://chiefy.com/lt) su **DI rūšiavimu**. Užuot vien tik filtravęs, Chiefy analizuoja gaunamus laiškus ir nustato skubumą, reikalingus veiksmus ar priimtinus sprendimus, pateikdamas šiuos svarbius elementus sutelktame valdymo skydelyje. Tai reiškia, kad iš karto matote, kam reikia jūsų dėmesio, rankiniu būdu neperžvelgdami visko, o rūšiavimui skiriamas laikas smarkiai sutrumpėja ir svarbūs pranešimai nelieka palaidoti.
 
 ## Išmanesnis bendravimas: automatizuoti ir DI padedami atsakymai
 
@@ -59,7 +59,7 @@ Tiesiog įterpkite šabloną, jei reikia, šiek tiek suasmeninkite ir išsiųski
 
 Tikrasis pokytis yra DI, padedantis *rašyti* jūsų el. laiškus. Tokie įrankiai kaip [Flowrite](https://flowrite.com/) gali trumpas instrukcijas paversti paruoštais siųsti laiškais. Kiti DI asistentai, tokie kaip [Compose AI](https://www.compose.ai/) ar Gmail Smart Compose, rašant siūlo išmanius užbaigimus ir pasiūlymus.
 
-Tačiau pažangiausi įrankiai išmoksta jūsų unikalų bendravimo stilių. [Duet Mail Authentic AI Drafting](https://duetmail.com/lt) analizuoja jūsų anksčiau išsiųstus laiškus, kad suprastų jūsų konkretų toną, žodyną ir formuluotes. Kai reikia atsakyti, jis pasiūlo kelis kontekstui pritaikytus juodraščio variantus, kurie skamba iš tiesų taip, lyg būtų parašyti *jūsų*. Tai smarkiai pagreitina atsakymus, kartu išlaikant asmeninį toną, kuris yra labai svarbus profesiniuose santykiuose.
+Tačiau pažangiausi įrankiai išmoksta jūsų unikalų bendravimo stilių. [Chiefy Authentic AI Drafting](https://chiefy.com/lt) analizuoja jūsų anksčiau išsiųstus laiškus, kad suprastų jūsų konkretų toną, žodyną ir formuluotes. Kai reikia atsakyti, jis pasiūlo kelis kontekstui pritaikytus juodraščio variantus, kurie skamba iš tiesų taip, lyg būtų parašyti *jūsų*. Tai smarkiai pagreitina atsakymus, kartu išlaikant asmeninį toną, kuris yra labai svarbus profesiniuose santykiuose.
 
 ## Nieko nepraleiskite: automatizavimas planavimui ir priminimams
 
@@ -111,7 +111,7 @@ Tokie įrankiai kaip [Gmelius](https://gmelius.com/blog/benefits-of-email-automa
 
 Tenka tvarkytis su ilgomis el. laiškų gijomis ar ataskaitomis? DI keičia tai, kaip mes suvokiame šią informaciją. DI įrankiai gali automatiškai apibendrinti ilgus laiškus ar visą giją, išskirdami pagrindinius punktus, sprendimus ir veiksmų užduotis. [Superhuman](https://superhuman.com/ai) siūlo automatinės santraukos funkciją, o tokie įrankiai kaip Microsoft Copilot Outlook taip pat teikia apibendrinimą. Tokios platformos kaip [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) ir [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) siūlo specializuotus DI santraukų įrankius.
 
-Tai sutaupo nepaprastai daug laiko, kai reikia greitai susigaudyti sudėtinguose pokalbiuose. [Duet Mail įtraukia **Išmanųjį apibendrinimą** su kontekstiniu suvokimu](https://duetmail.com/lt), o tai reiškia, kad jis ne tik sutrumpina ilgas gijas, bet ir prisimena anksčiau minėtas projekto ir santykių detales, užtikrindamas, kad santraukos būtų itin aktualios ir pritaikomos veiksmams.![Screenshot showing Duet Mails smart email summarization feature condensing a long email thread into key points and action items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Tai sutaupo nepaprastai daug laiko, kai reikia greitai susigaudyti sudėtinguose pokalbiuose. [Chiefy įtraukia **Išmanųjį apibendrinimą** su kontekstiniu suvokimu](https://chiefy.com/lt), o tai reiškia, kad jis ne tik sutrumpina ilgas gijas, bet ir prisimena anksčiau minėtas projekto ir santykių detales, užtikrindamas, kad santraukos būtų itin aktualios ir pritaikomos veiksmams.![Screenshot showing Chiefys smart email summarization feature condensing a long email thread into key points and action items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## Automatizavimo galia skaičiais
 
@@ -133,7 +133,7 @@ El. pašto automatizavimo poveikis nėra vien anekdotinis; duomenys rodo reikšm
 
 - **Rinkodaros automatizavimo platformos (MAP):** Tokie įrankiai kaip Mailchimp, ActiveCampaign, HubSpot, Klaviyo, Brevo ir kt. yra galingi didelio masto el. pašto rinkodaros kampanijoms, klientų kelionėms valdyti, potencialių klientų vertinimui ir dažnai turi CRM funkcijų. Jie puikiai tinka rinkodaros ir pardavimų komandoms, tačiau individualaus gautųjų produktyvumo požiūriu gali būti pertekliniai arba mažiau fokusuoti.
 
-- **DI el. pašto asistentai ir produktyvumo įrankiai:** Tokie įrankiai kaip SaneBox, Flowrite, Gmelius, Superhuman ir [Duet Mail](https://duetmail.com/lt) yra sukurti specialiai individualiam ar komandos el. pašto produktyvumui didinti. Jie orientuoti į gautųjų valdymo iššūkių sprendimą, tokių kaip rūšiavimas, juodraščių rengimas, santraukos, bendradarbiavimas ir darbo eigos integracija el. pašto aplinkoje. Jie dažnai labiau tinka užsiėmusiems profesionalams, laisvai samdomiems darbuotojams ir žinių darbuotojams, skęstantiems kasdieniuose el. laiškuose.
+- **DI el. pašto asistentai ir produktyvumo įrankiai:** Tokie įrankiai kaip SaneBox, Flowrite, Gmelius, Superhuman ir [Chiefy](https://chiefy.com/lt) yra sukurti specialiai individualiam ar komandos el. pašto produktyvumui didinti. Jie orientuoti į gautųjų valdymo iššūkių sprendimą, tokių kaip rūšiavimas, juodraščių rengimas, santraukos, bendradarbiavimas ir darbo eigos integracija el. pašto aplinkoje. Jie dažnai labiau tinka užsiėmusiems profesionalams, laisvai samdomiems darbuotojams ir žinių darbuotojams, skęstantiems kasdieniuose el. laiškuose.
 
 Tinkamas pasirinkimas priklauso nuo jūsų pagrindinio tikslo. Jei tai kampanijų valdymas, žiūrėkite į MAP. Jei norite suvaldyti asmeninius gautuosius ir susigrąžinti laiką, išbandykite DI asistentus ir produktyvumo įrankius.
 
@@ -159,4 +159,4 @@ El. paštas neturi būti jūsų laiko ir energijos vampyras. Strategiškai diegd
 
 Nuo automatinio laiškų rūšiavimo ir prioritetų nustatymo iki atsakymų juodraščių rengimo jūsų balsu, ilgų gijų apibendrinimo ir laiku siunčiamų priminimų užtikrinimo – galimybės yra plačios. Pradėkite nuo didžiausių el. pašto skaudulių nustatymo ir įgyvendinkite vieną ar du šio sąrašo automatizavimo pavyzdžius. Galbūt nustebsite, kaip greitai vėl atgausite kontrolę ir dėmesį.
 
-Pasiruošę patirti stresą mažinantį el. pašto valdymą, kurį užtikrina DI? Sužinokite, kaip tokie įrankiai kaip [Duet Mail](https://duetmail.com/lt) gali supaprastinti jūsų gautuosius pasitelkdami išmanųjį rūšiavimą, autentiškų juodraščių rengimą ir išmanųjį apibendrinimą, padėdami susigrąžinti vertingą laiką tam, kas iš tiesų svarbu.
+Pasiruošę patirti stresą mažinantį el. pašto valdymą, kurį užtikrina DI? Sužinokite, kaip tokie įrankiai kaip [Chiefy](https://chiefy.com/lt) gali supaprastinti jūsų gautuosius pasitelkdami išmanųjį rūšiavimą, autentiškų juodraščių rengimą ir išmanųjį apibendrinimą, padėdami susigrąžinti vertingą laiką tam, kas iš tiesų svarbu.

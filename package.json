@@ -1,5 +1,5 @@
 {
-  "name": "duet-landing",
+  "name": "chiefy-landing",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -32,6 +32,7 @@
     "i18n:verify:dist": "node scripts/i18n/verify-dist.mjs",
     "i18n:scan-source": "node scripts/i18n/scan-source.mjs",
     "i18n:pseudo": "node scripts/i18n/pseudo.mjs",
+    "rebrand:verify": "node scripts/verify-chiefy-rebrand.mjs",
     "i18n:packets": "node scripts/i18n/translation-packets.mjs",
     "i18n:redirects": "node scripts/i18n/redirect-contracts.mjs --check",
     "email:gifs": "node scripts/email-gifs/capture-email-gifs.mjs"

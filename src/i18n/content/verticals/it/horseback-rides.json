@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail per passeggiate a cavallo e guide di sentieri | Assistente e-mail AI",
-  "metaDescription": "Duet Mail aiuta gli operatori di trail trail a rispondere istantaneamente alle e-mail di prenotazione, anche dalla sella. Risposte elaborate dall'intelligenza artificiale con prezzi, requisiti del ciclista e voce.",
+  "pageTitle": "Chiefy per passeggiate a cavallo e guide di sentieri | Assistente e-mail AI",
+  "metaDescription": "Chiefy aiuta gli operatori di trail trail a rispondere istantaneamente alle e-mail di prenotazione, anche dalla sella. Risposte elaborate dall'intelligenza artificiale con prezzi, requisiti del ciclista e voce.",
   "heroBadge": "Scelto da oltre 300 guide di sentieri",
   "heroHeadline": "Il tuo assistente email mentre sei in viaggio",
-  "heroSubline": "Duet apprende i tipi di corsa, i prezzi, i requisiti del ciclista e le condizioni del percorso, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
+  "heroSubline": "Chiefy apprende i tipi di corsa, i prezzi, i requisiti del ciclista e le condizioni del percorso, quindi elabora le risposte via email in modo da non perdere mai una prenotazione a causa di una risposta lenta.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "cavalcare",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Una corsa di gruppo salvata paga oltre due anni di Duet."
+    "punchline": "Una corsa di gruppo salvata paga oltre due anni di Chiefy."
   },
-  "categorizationSubtitle": "Duet tagga automaticamente ogni e-mail in modo da visualizzare prima le richieste di prenotazione, poi le domande dei ciclisti e mai il rumore. Non perderai più un'indagine di gruppo sepolta sotto gli avvisi TripAdvisor.",
-  "draftSubtitle": "Duet apprende i tipi di corsa, i prezzi e i requisiti. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del percorso, i prezzi e cosa indossare. Rivedi e invii.",
-  "agentSubtitle": "\"Ci sono giostre aperte questo fine settimana?\" \"Scrivi una risposta a Jessica con disponibilità per sabato.\" Duet conosce la tua casella di posta e il tuo calendario: basta chiedere.",
+  "categorizationSubtitle": "Chiefy tagga automaticamente ogni e-mail in modo da visualizzare prima le richieste di prenotazione, poi le domande dei ciclisti e mai il rumore. Non perderai più un'indagine di gruppo sepolta sotto gli avvisi TripAdvisor.",
+  "draftSubtitle": "Chiefy apprende i tipi di corsa, i prezzi e i requisiti. Quando arriva una richiesta di prenotazione, viene redatta una risposta completa con i dettagli del percorso, i prezzi e cosa indossare. Rivedi e invii.",
+  "agentSubtitle": "\"Ci sono giostre aperte questo fine settimana?\" \"Scrivi una risposta a Jessica con disponibilità per sabato.\" Chiefy conosce la tua casella di posta e il tuo calendario: basta chiedere.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Proprietario del ranch e guida ai sentieri, MT",
-      "quote": "Sono in pista 6 ore al giorno senza servizio cellulare. Quando sono tornato per rispondere, metà delle persone avevano prenotato da qualche altra parte. Ora Duet redige le risposte con i miei prezzi e i dettagli della corsa: le rivedo e le invio quando torno alla stalla.",
+      "quote": "Sono in pista 6 ore al giorno senza servizio cellulare. Quando sono tornato per rispondere, metà delle persone avevano prenotato da qualche altra parte. Ora Chiefy redige le risposte con i miei prezzi e i dettagli della corsa: le rivedo e le invio quando torno alla stalla.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Operatore turistico a cavallo, Arizona",
-      "quote": "Riceviamo dozzine di e-mail che chiedono la stessa cosa: limiti di peso, cosa indossare, requisiti di età. Duet gestisce tutto e le risposte suonano esattamente come me. I miei ospiti non hanno idea che sia l'intelligenza artificiale.",
+      "quote": "Riceviamo dozzine di e-mail che chiedono la stessa cosa: limiti di peso, cosa indossare, requisiti di età. Chiefy gestisce tutto e le risposte suonano esattamente come me. I miei ospiti non hanno idea che sia l'intelligenza artificiale.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Guida al Trail Ride, CO",
-      "quote": "L'alta stagione mi stava uccidendo. Oltre 30 e-mail al giorno oltre alle corse di corsa. Duet classifica le richieste di prenotazione in base al rumore e alle bozze delle risposte che includono tutto: prezzi, cosa portare, tutto. Ho riavuto le mie serate.",
+      "quote": "L'alta stagione mi stava uccidendo. Oltre 30 e-mail al giorno oltre alle corse di corsa. Chiefy classifica le richieste di prenotazione in base al rumore e alle bozze delle risposte che includono tutto: prezzi, cosa portare, tutto. Ho riavuto le mie serate.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachele M.",
       "title": "Istruttore di equitazione e responsabile delle prenotazioni, TX",
-      "quote": "Organizziamo corse al tramonto, corse mattutine e lezioni private, ognuna con prezzi e requisiti diversi. Duet ha imparato tutto in una settimana. Elabora ogni volta la risposta giusta per il tipo di corsa giusto.",
+      "quote": "Organizziamo corse al tramonto, corse mattutine e lezioni private, ognuna con prezzi e requisiti diversi. Chiefy ha imparato tutto in una settimana. Elabora ogni volta la risposta giusta per il tipo di corsa giusto.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diana K.",
       "title": "Ranch per famiglie e passeggiate su sentieri, CA",
-      "quote": "Le email sensibili erano le peggiori: qualcuno chiedeva se erano troppo pesanti o se il figlio era abbastanza grande. Duet li gestisce con la stessa cura che farei io. Professionale, gentile e preciso. Solo questo ne vale la pena.",
+      "quote": "Le email sensibili erano le peggiori: qualcuno chiedeva se erano troppo pesanti o se il figlio era abbastanza grande. Chiefy li gestisce con la stessa cura che farei io. Professionale, gentile e preciso. Solo questo ne vale la pena.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Inizia la tua prova gratuita. Connetti la tua casella di posta in 30 secondi.",
   "verticalFaqs": [
     {
-      "question": "In che modo Duet gestisce le domande delicate sui requisiti di peso o esperienza?",
-      "answer": "Duet apprende le tue politiche specifiche e rispecchia il tuo tono. Quando qualcuno chiede informazioni sui limiti di peso o sui requisiti di esperienza, risponde in modo professionale e caloroso, condividendo le informazioni di cui ha bisogno senza creare imbarazzo. Tu imposti il ​​tono una volta e Duet lo segue in modo coerente, così ogni ospite si sente rispettato."
+      "question": "In che modo Chiefy gestisce le domande delicate sui requisiti di peso o esperienza?",
+      "answer": "Chiefy apprende le tue politiche specifiche e rispecchia il tuo tono. Quando qualcuno chiede informazioni sui limiti di peso o sui requisiti di esperienza, risponde in modo professionale e caloroso, condividendo le informazioni di cui ha bisogno senza creare imbarazzo. Tu imposti il ​​tono una volta e Chiefy lo segue in modo coerente, così ogni ospite si sente rispettato."
     },
     {
-      "question": "Duet può gestire prenotazioni di gruppo con esigenze di ciclisti diversi?",
-      "answer": "Sì. Duet apprende i tipi di corsa, le dimensioni del gruppo, l'età minima e gli eventuali requisiti specifici del ciclista. Quando una famiglia o un gruppo invia un'e-mail in merito alla prenotazione, redige una risposta che copre i prezzi per l'intero gruppo, ciò che ogni ciclista deve sapere e le fasce orarie disponibili. Rivedi e invii, senza bisogno di avanti e indietro."
+      "question": "Chiefy può gestire prenotazioni di gruppo con esigenze di ciclisti diversi?",
+      "answer": "Sì. Chiefy apprende i tipi di corsa, le dimensioni del gruppo, l'età minima e gli eventuali requisiti specifici del ciclista. Quando una famiglia o un gruppo invia un'e-mail in merito alla prenotazione, redige una risposta che copre i prezzi per l'intero gruppo, ciò che ogni ciclista deve sapere e le fasce orarie disponibili. Rivedi e invii, senza bisogno di avanti e indietro."
     }
   ],
   "pricingNote": "A $ 100 a persona per un gruppo di 6 persone, una corsa salvata vale più di due anni di Pro."

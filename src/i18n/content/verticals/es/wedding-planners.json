@@ -1,10 +1,10 @@
 {
   "slug": "wedding-planners",
-  "pageTitle": "Duet Mail para planificadores de bodas | Asistente de correo electrónico con IA",
-  "metaDescription": "Duet Mail ayuda a los organizadores de bodas a responder los correos electrónicos de clientes y proveedores al instante, incluso desde recorridos por el lugar. Respuestas redactadas por IA con sus paquetes, contactos de proveedores y voz.",
+  "pageTitle": "Chiefy para planificadores de bodas | Asistente de correo electrónico con IA",
+  "metaDescription": "Chiefy ayuda a los organizadores de bodas a responder los correos electrónicos de clientes y proveedores al instante, incluso desde recorridos por el lugar. Respuestas redactadas por IA con sus paquetes, contactos de proveedores y voz.",
   "heroBadge": "Con la confianza de más de 400 organizadores de bodas",
   "heroHeadline": "Tu asistente de correo electrónico mientras estás en el lugar",
-  "heroSubline": "Duet aprende los contactos de sus proveedores, paquetes y preferencias de los clientes y luego redacta respuestas por correo electrónico para que las parejas nunca esperen mientras usted se coordina en el terreno.",
+  "heroSubline": "Chiefy aprende los contactos de sus proveedores, paquetes y preferencias de los clientes y luego redacta respuestas por correo electrónico para que las parejas nunca esperen mientras usted se coordina en el terreno.",
   "inboxEmails": [
     {
       "from": "Emily y James W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "boda",
     "lostPerMonth": "1",
     "monthlyLoss": "$8,000",
-    "punchline": "Un cliente guardado paga por más de 20 años de Duet."
+    "punchline": "Un cliente guardado paga por más de 20 años de Chiefy."
   },
-  "categorizationSubtitle": "Duet etiqueta automáticamente cada correo electrónico para que veas primero las consultas de parejas nuevas, en segundo lugar las confirmaciones de proveedores y nunca el ruido de los boletines. No más perder una solicitud de reserva oculta bajo las alertas de Knot.",
-  "draftSubtitle": "Duet aprende sus paquetes, proveedores preferidos y tono. Cuando una pareja pregunta, redacta una respuesta cálida y completa con su disponibilidad y los próximos pasos. Tu revisas y envías.",
-  "agentSubtitle": "\"¿Qué correos electrónicos de proveedores llegaron para la boda de Thompson?\" \"Redactar una actualización del cronograma para todos los proveedores para el sábado\". Duet conoce tu bandeja de entrada y tus clientes, solo pregunta.",
+  "categorizationSubtitle": "Chiefy etiqueta automáticamente cada correo electrónico para que veas primero las consultas de parejas nuevas, en segundo lugar las confirmaciones de proveedores y nunca el ruido de los boletines. No más perder una solicitud de reserva oculta bajo las alertas de Knot.",
+  "draftSubtitle": "Chiefy aprende sus paquetes, proveedores preferidos y tono. Cuando una pareja pregunta, redacta una respuesta cálida y completa con su disponibilidad y los próximos pasos. Tu revisas y envías.",
+  "agentSubtitle": "\"¿Qué correos electrónicos de proveedores llegaron para la boda de Thompson?\" \"Redactar una actualización del cronograma para todos los proveedores para el sábado\". Chiefy conoce tu bandeja de entrada y tus clientes, solo pregunta.",
   "categorizationEmails": [
     {
       "from": "Emily y James W.",
@@ -127,31 +127,31 @@
     {
       "name": "francesca m.",
       "title": "Planificador de bodas boutique, CO",
-      "quote": "Estoy en lugares de montaña sin servicio celular la mitad de la semana. Mientras tanto, las parejas me envían correos electrónicos sobre cronogramas y preguntas sobre proveedores. Duet borradores de respuestas con mis paquetes y tono exactos; los reviso cuando vuelvo a estar dentro del alcance.",
+      "quote": "Estoy en lugares de montaña sin servicio celular la mitad de la semana. Mientras tanto, las parejas me envían correos electrónicos sobre cronogramas y preguntas sobre proveedores. Chiefy borradores de respuestas con mis paquetes y tono exactos; los reviso cuando vuelvo a estar dentro del alcance.",
       "avatarKey": "francesca"
     },
     {
       "name": "michael t.",
       "title": "Planificador de bodas de servicio completo, CA",
-      "quote": "Coordinar más de 10 proveedores por boda significa que mi bandeja de entrada es una zona de guerra durante la temporada alta. Duet clasifica los correos electrónicos de proveedores por separado de los correos electrónicos de clientes y borradores de seguimiento que yo mismo habría escrito. De hecho, ahora duermo.",
+      "quote": "Coordinar más de 10 proveedores por boda significa que mi bandeja de entrada es una zona de guerra durante la temporada alta. Chiefy clasifica los correos electrónicos de proveedores por separado de los correos electrónicos de clientes y borradores de seguimiento que yo mismo habría escrito. De hecho, ahora duermo.",
       "avatarKey": "michael"
     },
     {
       "name": "sara l.",
       "title": "Coordinador del día, TX",
-      "quote": "Los días de boda no estoy disponible durante 14 horas seguidas. Las nuevas consultas solían quedar sin respuesta hasta el lunes. Ahora Duet los maneja al instante y he reservado 3 bodas adicionales este trimestre solo gracias a tiempos de respuesta más rápidos.",
+      "quote": "Los días de boda no estoy disponible durante 14 horas seguidas. Las nuevas consultas solían quedar sin respuesta hasta el lunes. Ahora Chiefy los maneja al instante y he reservado 3 bodas adicionales este trimestre solo gracias a tiempos de respuesta más rápidos.",
       "avatarKey": "sarah"
     },
     {
       "name": "Johnny R.",
       "title": "Planificador de bodas de destino, Hawai",
-      "quote": "Mis parejas vuelan desde todas partes del mundo y envían correos electrónicos a todas horas. Duet aprendió mis respuestas a las preguntas frecuentes (logística del lugar, proveedores locales, qué esperar) y borradores de respuestas que suenan exactamente como yo. Los clientes no tienen idea.",
+      "quote": "Mis parejas vuelan desde todas partes del mundo y envían correos electrónicos a todas horas. Chiefy aprendió mis respuestas a las preguntas frecuentes (logística del lugar, proveedores locales, qué esperar) y borradores de respuestas que suenan exactamente como yo. Los clientes no tienen idea.",
       "avatarKey": "johnny"
     },
     {
       "name": "Jennifer A.",
       "title": "Planificador de bodas y eventos, Nueva York",
-      "quote": "Pasaba 2 horas todas las noches respondiendo las mismas preguntas sobre paquetes y disponibilidad. Duet maneja las cosas repetitivas para que yo pueda concentrarme en el trabajo creativo que realmente amo. Se amortizó solo en la primera semana.",
+      "quote": "Pasaba 2 horas todas las noches respondiendo las mismas preguntas sobre paquetes y disponibilidad. Chiefy maneja las cosas repetitivas para que yo pueda concentrarme en el trabajo creativo que realmente amo. Se amortizó solo en la primera semana.",
       "avatarKey": "jennifer"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comienza tu prueba gratuita. Conecta tu bandeja de entrada en 30 segundos.",
   "verticalFaqs": [
     {
-      "question": "¿Duet funciona con todos los correos electrónicos de coordinación de proveedores?",
-      "answer": "Sí. Duet aprende sus contactos de proveedores, proveedores preferidos y cómo se comunica con cada uno. Clasifica los correos electrónicos de los proveedores por boda y redacta borradores de respuestas con los detalles correctos: confirmaciones, seguimientos, actualizaciones del cronograma. Tu revisas y envías. Se ocupa de floristas, empresas de catering, locales, DJ, fotógrafos y cualquier otro proveedor de su rolodex."
+      "question": "¿Chiefy funciona con todos los correos electrónicos de coordinación de proveedores?",
+      "answer": "Sí. Chiefy aprende sus contactos de proveedores, proveedores preferidos y cómo se comunica con cada uno. Clasifica los correos electrónicos de los proveedores por boda y redacta borradores de respuestas con los detalles correctos: confirmaciones, seguimientos, actualizaciones del cronograma. Tu revisas y envías. Se ocupa de floristas, empresas de catering, locales, DJ, fotógrafos y cualquier otro proveedor de su rolodex."
     },
     {
       "question": "Estoy presente en bodas y lugares todo el día. ¿Me perderé nuevas consultas?",
-      "answer": "Eso es exactamente lo que resuelve Duet. Cuando un par de correos electrónicos preguntan sobre disponibilidad o paquetes mientras coordina en el sitio, Duet redacta una respuesta cálida y profesional con su disponibilidad real y los próximos pasos. Puedes revisar y enviar cuando estés libre, incluso desde tu teléfono entre eventos. La mayoría de los planificadores nos dicen que les ahorra entre 1 y 2 horas de tiempo de correo electrónico por día durante la temporada alta."
+      "answer": "Eso es exactamente lo que resuelve Chiefy. Cuando un par de correos electrónicos preguntan sobre disponibilidad o paquetes mientras coordina en el sitio, Chiefy redacta una respuesta cálida y profesional con su disponibilidad real y los próximos pasos. Puedes revisar y enviar cuando estés libre, incluso desde tu teléfono entre eventos. La mayoría de los planificadores nos dicen que les ahorra entre 1 y 2 horas de tiempo de correo electrónico por día durante la temporada alta."
     }
   ],
   "pricingNote": "A $8,000 por boda, un cliente ahorrado paga por más de 20 años de Pro."

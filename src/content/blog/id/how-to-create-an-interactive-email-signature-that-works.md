@@ -2,7 +2,7 @@
 title: "Cara Membuat Tanda Tangan Email Interaktif yang Berfungsi"
 description: "Pelajari cara membuat tanda tangan email interaktif untuk meningkatkan keterlibatan, pencitraan merek, dan prospek. Panduan langkah demi langkah untuk pekerja lepas & pemula"
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -132,7 +132,7 @@ Tanda tangan interaktif dirancang untuk memicu tindakan – klik, panggilan, pem
 
 Di sinilah mengintegrasikan strategi tanda tangan Anda dengan alat manajemen email cerdas dapat membuat perbedaan. Saat prospek mulai mengeklik tautan "Pesan Rapat" yang dihasilkan oleh tanda tangan Anda yang luar biasa, Anda memerlukan sistem untuk menangani penjadwalan dan komunikasi selanjutnya dengan lancar. Demikian pula, mempertahankan nada profesional yang ditetapkan oleh tanda tangan Anda di setiap email tindak lanjut adalah kunci untuk membangun hubungan.
 
-Alat yang dirancang untuk produktivitas email, seperti [Duet Mail](https://duetmail.com/id), dapat membantu menjembatani kesenjangan ini. Bayangkan mendapatkan bantuan AI untuk menyusun balasan yang cepat dan dipersonalisasi yang mempertahankan suara unik Anda setelah seseorang berinteraksi dengan CTA tanda tangan Anda.  Fitur Duet Mail seperti **AI Triage** dapat membantu menampilkan balasan penting yang dihasilkan dari interaksi tanda tangan, sementara **Draft AI Asli** memastikan tindak lanjut Anda terdengar seperti Anda, menjaga profesionalisme proyek tanda tangan Anda. Ini mengubah interaksi yang dipicu oleh tanda tangan Anda menjadi percakapan yang terkelola dengan baik dan produktif.
+Alat yang dirancang untuk produktivitas email, seperti [Chiefy](https://chiefy.com/id), dapat membantu menjembatani kesenjangan ini. Bayangkan mendapatkan bantuan AI untuk menyusun balasan yang cepat dan dipersonalisasi yang mempertahankan suara unik Anda setelah seseorang berinteraksi dengan CTA tanda tangan Anda.  Fitur Chiefy seperti **AI Triage** dapat membantu menampilkan balasan penting yang dihasilkan dari interaksi tanda tangan, sementara **Draft AI Asli** memastikan tindak lanjut Anda terdengar seperti Anda, menjaga profesionalisme proyek tanda tangan Anda. Ini mengubah interaksi yang dipicu oleh tanda tangan Anda menjadi percakapan yang terkelola dengan baik dan produktif.
 
 ## Siap Mengaktifkan Tanda Tangan Anda?
 

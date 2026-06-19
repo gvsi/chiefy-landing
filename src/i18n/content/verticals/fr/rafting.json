@@ -1,10 +1,10 @@
 {
   "slug": "rafting",
-  "pageTitle": "Duet Mail pour les prestataires de rafting et de kayak | Assistant e-mail IA",
-  "metaDescription": "Duet Mail aide les guides de rafting et les prestataires de kayak à répondre instantanément aux demandes de sortie — même depuis la rivière. Des réponses rédigées par IA avec les détails de votre sortie, vos tarifs et votre ton.",
+  "pageTitle": "Chiefy pour les prestataires de rafting et de kayak | Assistant e-mail IA",
+  "metaDescription": "Chiefy aide les guides de rafting et les prestataires de kayak à répondre instantanément aux demandes de sortie — même depuis la rivière. Des réponses rédigées par IA avec les détails de votre sortie, vos tarifs et votre ton.",
   "heroBadge": "Approuvé par plus de 200 guides de rivière",
   "heroHeadline": "Votre assistant e-mail pendant que vous êtes sur la rivière",
-  "heroSubline": "Duet apprend vos types de sorties, vos tarifs et vos listes d’équipement — puis rédige des réponses aux demandes de réservation afin que les clients obtiennent des réponses pendant que vous descendez les rapides.",
+  "heroSubline": "Chiefy apprend vos types de sorties, vos tarifs et vos listes d’équipement — puis rédige des réponses aux demandes de réservation afin que les clients obtiennent des réponses pendant que vous descendez les rapides.",
   "inboxEmails": [
     {
       "from": "Jennifer W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "personne",
     "lostPerMonth": "5",
     "monthlyLoss": "$750",
-    "punchline": "Deux réservations enregistrées paient une année complète de Duet."
+    "punchline": "Deux réservations enregistrées paient une année complète de Chiefy."
   },
-  "categorizationSubtitle": "Duet étiquette automatiquement chaque e-mail afin que les demandes de voyage apparaissent en premier, les questions sur l’équipement ensuite, et que les messages promotionnels disparaissent. Fini de manquer une réservation de groupe enfouie sous les alertes TripAdvisor.",
-  "draftSubtitle": "Duet apprend vos types de sorties, les classes de rapides, les listes d’équipement et la politique d’annulation. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec tout ce dont le client a besoin. Vous relisez et envoyez.",
-  "agentSubtitle": "« Des places disponibles samedi pour la journée complète ? » « Rédige une réponse à Jennifer avec les disponibilités. » Duet connaît votre boîte de réception et votre planning — il suffit de demander.",
+  "categorizationSubtitle": "Chiefy étiquette automatiquement chaque e-mail afin que les demandes de voyage apparaissent en premier, les questions sur l’équipement ensuite, et que les messages promotionnels disparaissent. Fini de manquer une réservation de groupe enfouie sous les alertes TripAdvisor.",
+  "draftSubtitle": "Chiefy apprend vos types de sorties, les classes de rapides, les listes d’équipement et la politique d’annulation. Lorsqu’une demande de réservation arrive, il rédige une réponse complète avec tout ce dont le client a besoin. Vous relisez et envoyez.",
+  "agentSubtitle": "« Des places disponibles samedi pour la journée complète ? » « Rédige une réponse à Jennifer avec les disponibilités. » Chiefy connaît votre boîte de réception et votre planning — il suffit de demander.",
   "categorizationEmails": [
     {
       "from": "Jennifer W.",
@@ -127,25 +127,25 @@
     {
       "name": "Ryan M.",
       "title": "Opérateur de rafting, CO",
-      "quote": "Pendant la haute saison, je suis sur la rivière 6 jours par semaine. Quand je pouvais enfin répondre aux e-mails, la moitié des groupes avait déjà réservé ailleurs. Maintenant, Duet rédige des réponses avec les détails de la sortie et les tarifs pendant que je suis au point de mise à l’eau.",
+      "quote": "Pendant la haute saison, je suis sur la rivière 6 jours par semaine. Quand je pouvais enfin répondre aux e-mails, la moitié des groupes avait déjà réservé ailleurs. Maintenant, Chiefy rédige des réponses avec les détails de la sortie et les tarifs pendant que je suis au point de mise à l’eau.",
       "avatarKey": "michael"
     },
     {
       "name": "Katie L.",
       "title": "Visites en kayak et SUP, OR",
-      "quote": "Chaque client pose les mêmes cinq questions — tarifs, quoi apporter, niveau de compétence, taille du groupe, politique d’annulation. Duet a tout appris dès la première semaine. Je suis passé d’une heure d’e-mails chaque soir à cinq minutes pour relire les brouillons.",
+      "quote": "Chaque client pose les mêmes cinq questions — tarifs, quoi apporter, niveau de compétence, taille du groupe, politique d’annulation. Chiefy a tout appris dès la première semaine. Je suis passé d’une heure d’e-mails chaque soir à cinq minutes pour relire les brouillons.",
       "avatarKey": "sarah"
     },
     {
       "name": "Marcus P.",
       "title": "Guide d’expéditions de plusieurs jours, AK",
-      "quote": "J’organise des sorties de 5 jours sans aucun service cellulaire. Avant Duet, chaque demande restait sans réponse jusqu’à mon retour en ville. Maintenant, les clients reçoivent une réponse détaillée en quelques minutes, et je confirme quand je suis hors de la rivière.",
+      "quote": "J’organise des sorties de 5 jours sans aucun service cellulaire. Avant Chiefy, chaque demande restait sans réponse jusqu’à mon retour en ville. Maintenant, les clients reçoivent une réponse détaillée en quelques minutes, et je confirme quand je suis hors de la rivière.",
       "avatarKey": "johnny"
     },
     {
       "name": "Elena R.",
       "title": "Responsable des réservations pour aventures en rivière, WV",
-      "quote": "Je gère les réservations de trois guides sur quatre types de sorties. Duet classe chaque e-mail par urgence et rédige des réponses avec la bonne sortie, le bon prix et la bonne liste d’équipement. C’est comme me cloner.",
+      "quote": "Je gère les réservations de trois guides sur quatre types de sorties. Chiefy classe chaque e-mail par urgence et rédige des réponses avec la bonne sortie, le bon prix et la bonne liste d’équipement. C’est comme me cloner.",
       "avatarKey": "jennifer"
     },
     {
@@ -159,12 +159,12 @@
   "ctaSubline": "Commencez votre essai gratuit. Connectez votre boîte de réception en 30 secondes.",
   "verticalFaqs": [
     {
-      "question": "Duet gère-t-il les devis de voyages sur mesure et les demandes d’expéditions de plusieurs jours ?",
-      "answer": "Oui. Duet apprend toute votre offre de trips — descentes d’une demi-journée, descentes en eaux vives d’une journée complète, expéditions de plusieurs jours — ainsi que les tarifs, ce qui est inclus, les âges minimums et les niveaux de difficulté. Quand quelqu’un demande un trip de 3 jours pour 6 personnes, il rédige une réponse complète avec les bons détails. Vous relisez, ajustez si besoin, puis envoyez."
+      "question": "Chiefy gère-t-il les devis de voyages sur mesure et les demandes d’expéditions de plusieurs jours ?",
+      "answer": "Oui. Chiefy apprend toute votre offre de trips — descentes d’une demi-journée, descentes en eaux vives d’une journée complète, expéditions de plusieurs jours — ainsi que les tarifs, ce qui est inclus, les âges minimums et les niveaux de difficulté. Quand quelqu’un demande un trip de 3 jours pour 6 personnes, il rédige une réponse complète avec les bons détails. Vous relisez, ajustez si besoin, puis envoyez."
     },
     {
-      "question": "Je suis hors réseau pendant les trips de plusieurs jours. Duet fonctionne-t-il quand même ?",
-      "answer": "C’est exactement le problème que Duet résout. Pendant que vous êtes sur la rivière sans signal, Duet rédige des réponses à chaque demande qui arrive. Quand vous êtes de nouveau dans une zone couverte, vos brouillons vous attendent — il ne reste qu’à relire et envoyer. La plupart des guides nous disent que cela élimine l’arriéré qu’ils devaient gérer après chaque trip de plusieurs jours."
+      "question": "Je suis hors réseau pendant les trips de plusieurs jours. Chiefy fonctionne-t-il quand même ?",
+      "answer": "C’est exactement le problème que Chiefy résout. Pendant que vous êtes sur la rivière sans signal, Chiefy rédige des réponses à chaque demande qui arrive. Quand vous êtes de nouveau dans une zone couverte, vos brouillons vous attendent — il ne reste qu’à relire et envoyer. La plupart des guides nous disent que cela élimine l’arriéré qu’ils devaient gérer après chaque trip de plusieurs jours."
     }
   ],
   "pricingNote": "À 150 $/personne, deux réservations sauvegardées couvrent une année complète de Pro."

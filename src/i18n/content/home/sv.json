@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI Email Assistant för Gmail och Outlook",
-    "description": "Duet Mail s e-postassistent för AI sammanfattar e-postmeddelanden, utkast till svar och organiserar din inkorg. Fungerar med Gmail och Outlook. Spara 4+ timmar i veckan."
+    "title": "Chiefy | AI Email Assistant för Gmail och Outlook",
+    "description": "Chiefy s e-postassistent för AI sammanfattar e-postmeddelanden, utkast till svar och organiserar din inkorg. Fungerar med Gmail och Outlook. Spara 4+ timmar i veckan."
   },
   "hero": {
     "badge": "Nu tillgänglig för Gmail och Outlook",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "E-postutkast som låter som Du",
-        "description": "Duet AI-e-postskribent förbereder utkast till dina viktigaste e-postmeddelanden. Den lär sig din ton och skrivstilar.",
+        "description": "Chiefy AI-e-postskribent förbereder utkast till dina viktigaste e-postmeddelanden. Den lär sig din ton och skrivstilar.",
         "ariaLabel": "E-postutkast som låter som du",
         "mockCopy": {
           "draftedColdEmail": "Jag skrev ett kallt e-postmeddelande anpassat för John",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "Intelligenta påminnelser",
-        "description": "Ställ in det och glöm det. Duet AI kommer ihåg att följa upp när andra inte svarar, så inget faller mellan stolarna.",
+        "description": "Ställ in det och glöm det. Chiefy AI kommer ihåg att följa upp när andra inte svarar, så inget faller mellan stolarna.",
         "ariaLabel": "Intelligenta påminnelser",
         "mockCopy": {
           "header": "AI-drivna smarta påminnelser",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "E-postorganisation och smart inkorgskategorisering",
     "badge": "Organisation",
-    "title": "Duet organiserar din inkorg",
+    "title": "Chiefy organiserar din inkorg",
     "subtitle": "Automatisk kategorisering filtrerar brus och ytor det som är viktigt. Se omedelbart vad som behöver åtgärder, vad som bara är FYI och vad som kan vänta.",
     "windowTitle": "Inkorg",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI e-postutformning och svarsgenerering",
     "badge": "Utformning",
-    "title": "Duet utkast i din röst",
-    "subtitle": "Duet lär sig hur du skriver och utformar svar som matchar din ton. Granska, justera om det behövs och skicka på några sekunder.",
+    "title": "Chiefy utkast i din röst",
+    "subtitle": "Chiefy lär sig hur du skriver och utformar svar som matchar din ton. Granska, justera om det behövs och skicka på några sekunder.",
     "windowTitle": "Nytt meddelande",
     "fieldLabels": {
       "to": "Till:",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI e-postintelligens och assistent",
     "badge": "Intelligens",
     "title": "Fråga vad som helst om din e-post",
-    "subtitle": "Be Duet att hitta e-postmeddelanden, kolla din kalender eller skriva ett svar. Den förstår din inkorg och svarar direkt.",
-    "windowTitle": "Duet Agent",
+    "subtitle": "Be Chiefy att hitta e-postmeddelanden, kolla din kalender eller skriva ett svar. Den förstår din inkorg och svarar direkt.",
+    "windowTitle": "Chiefy Agent",
     "onlineLabel": "Online",
     "initialUserMessage": "Hittar du Stripe fakturan som skickats av Bokföring?",
     "processingText": "Söker inkorgen...",
@@ -321,7 +321,7 @@
       {
         "name": "Francesca T.",
         "title": "Frilansare",
-        "quote": "Värt varenda krona. Tiden jag sparar på e-post betalar Duet Mail 10 gånger mer. Kan inte tänka mig att jobba utan det nu.",
+        "quote": "Värt varenda krona. Tiden jag sparar på e-post betalar Chiefy 10 gånger mer. Kan inte tänka mig att jobba utan det nu.",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "Jennifer L.",
         "title": "Konsult",
-        "quote": "Som konsult räknas varje minut. Duet Mail sparar mig inte bara tid – det gör min e-postkommunikation skarpare.",
+        "quote": "Som konsult räknas varje minut. Chiefy sparar mig inte bara tid – det gör min e-postkommunikation skarpare.",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "Grundläggande organisation att starta"
           },
           {
-            "title": "Duet Assistent",
+            "title": "Chiefy Assistent",
             "description": "Prova AI-assistenten"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet Assistent",
+            "title": "Chiefy Assistent",
             "description": "Chatta för att hitta, skapa utkast, organisera och mer",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "KONTAKT",
     "contactHeading": "Har du fortfarande frågor?",
     "contactCta": "Hör av dig →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "FAQ",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Hur skyddar Duet Mail min e-postdata?",
+        "question": "Hur skyddar Chiefy min e-postdata?",
         "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google-integration genomgår vi Googles årliga CASA-säkerhetsbedömning."
       },
       {
         "question": "Hur fungerar e-postsammanfattningsfunktionen?",
-        "answer": "Duet Mail använder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
+        "answer": "Chiefy använder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
       },
       {
-        "question": "Vilka behörigheter behöver Duet Mail?",
-        "answer": "Duet Mail kräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i ditt Google konto eller Microsoft kontoinställningar."
+        "question": "Vilka behörigheter behöver Chiefy?",
+        "answer": "Chiefy kräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i ditt Google konto eller Microsoft kontoinställningar."
       },
       {
         "question": "Vad ingår i den kostnadsfria provperioden?",
         "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till alla Pro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
       },
       {
-        "question": "Kan jag använda Duet Mail med andra e-postleverantörer?",
-        "answer": "Duet Mail stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
+        "question": "Kan jag använda Chiefy med andra e-postleverantörer?",
+        "answer": "Chiefy stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "Sidfot på webbplatsen",
-    "brandIconAlt": "Duet Mail ikon",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — AI Email Assistant som sparar timmar varje vecka",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Chiefy ikon",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "Utforska",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "Instagram",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "Startup Fame",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "Avkastning på investeringen",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "Vid{pricePerBooking}per{bookingUnit}, förlorar bara{lostPerMonth}till långsamma svar =",
     "lossSuffix": "/mån borta",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI Email Assistant för Gmail och Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - AI Email Assistant för Gmail och Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "Kundsupport",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "AI-e-postassistent för Gmail och Outlook som automatiskt sammanfattar e-postmeddelanden, utkast till svar med din röst och organiserar din inkorg för att spara timmar varje vecka.",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "Webb",
     "browserRequirements": "Kräver JavaScript. Fungerar med Gmail, Google Workspace och Microsoft Outlook.",
     "urls": {
-      "site": "https://duetmail.com/sv",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Hur skyddar Duet Mail min e-postdata?",
+        "question": "Hur skyddar Chiefy min e-postdata?",
         "answer": "Din säkerhet är vår högsta prioritet. Vi använder OAuth 2.0 för säker autentisering med både Google och Microsoft. E-postinnehåll krypteras i vila med hjälp av kryptering på klientsidan på fältnivå, och vi följer principen om minsta privilegium för API-åtkomst. För vår Google-integration genomgår vi Googles årliga CASA-säkerhetsbedömning."
       },
       {
         "question": "Hur fungerar e-postsammanfattningsfunktionen?",
-        "answer": "Duet Mail använder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
+        "answer": "Chiefy använder avancerad AI för att analysera dina e-posttrådar och generera en kortfattad översikt som lyfter fram nyckelpunkterna, besluten och åtgärderna. Detta hjälper dig att snabbt förstå sammanhanget utan att läsa hela tråden."
       },
       {
-        "question": "Vilka behörigheter behöver Duet Mail?",
-        "answer": "Duet Mail kräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i ditt Google konto eller Microsoft kontoinställningar."
+        "question": "Vilka behörigheter behöver Chiefy?",
+        "answer": "Chiefy kräver tillgång till dina e-postmeddelanden för att ge sammanfattningar, extrahera åtgärder, generera innehåll och skicka dina e-postmeddelanden. Vi begär bara tillstånd som vi absolut behöver. Du kan granska och återkalla dessa behörigheter när som helst i ditt Google konto eller Microsoft kontoinställningar."
       },
       {
         "question": "Vad ingår i den kostnadsfria provperioden?",
         "answer": "Den 14-dagars gratis provperioden inkluderar full tillgång till alla Pro-funktioner: obegränsade e-postsammanfattningar, extrahering av handlingsobjekt, AI-e-postskrivare (genererar e-post och utkast utan några begränsningar) och anpassade e-postmallar. Logga in med Google eller Microsoft för att börja spara tid på e-posthantering."
       },
       {
-        "question": "Kan jag använda Duet Mail med andra e-postleverantörer?",
-        "answer": "Duet Mail stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
+        "question": "Kan jag använda Chiefy med andra e-postleverantörer?",
+        "answer": "Chiefy stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }

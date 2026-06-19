@@ -2,7 +2,7 @@
 title: "Kuinka luoda interaktiivinen sähköpostin allekirjoitus, joka toimii"
 description: "Opi luomaan interaktiivinen sähköpostin allekirjoitus sitoutumisen, brändäyksen ja liidien lisäämiseksi. Vaiheittainen opas freelancereille ja startup-yrityksille"
 publishedAt: 2025-06-18
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Sähköposti"]
 draft: false
 ---
@@ -125,7 +125,7 @@ Interaktiivinen allekirjoitus on suunniteltu käynnistämään toimintaa – kli
 
 Tässä allekirjoitusstrategiasi integroiminen älykkäisiin sähköpostinhallintatyökaluihin voi vaikuttaa. Kun liidit alkavat napsauttaa mahtavan allekirjoituksesi luomaa "Vara kokous" -linkkiä, tarvitset järjestelmän, joka hoitaa myöhemmän aikataulun ja viestinnän sujuvasti. Samoin allekirjoituksesi asettaman ammattimaisen sävyn säilyttäminen jokaisessa seurantasähköpostissa on avainasemassa suhteiden rakentamisessa.
 
-Sähköpostin tuottamiseen suunnitellut työkalut, kuten [Duet Mail](https://duetmail.com/fi), voivat auttaa kuromaan umpeen tämän kuilun. Kuvittele, että saat AI-apua laatiaksesi nopeat, henkilökohtaiset vastaukset, jotka säilyttävät ainutlaatuisen äänesi sen jälkeen, kun joku on vuorovaikutuksessa allekirjoituksesi toimintakehotuksen kanssa. Duet Mail:n ominaisuudet, kuten **AI Triage**, voivat auttaa tuomaan esiin tärkeitä allekirjoitusten vuorovaikutuksesta syntyviä vastauksia, kun taas sen **Autenttinen AI Drafting** varmistaa, että seurantasi kuulostavat aivan kuten sinä, säilyttäen allekirjoitusprojektiesi ammattimaisuuden. Se muuttaa allekirjoituksesi synnyttämän sitoutumisen hyvin hoidetuiksi, tuottaviksi keskusteluiksi.
+Sähköpostin tuottamiseen suunnitellut työkalut, kuten [Chiefy](https://chiefy.com/fi), voivat auttaa kuromaan umpeen tämän kuilun. Kuvittele, että saat AI-apua laatiaksesi nopeat, henkilökohtaiset vastaukset, jotka säilyttävät ainutlaatuisen äänesi sen jälkeen, kun joku on vuorovaikutuksessa allekirjoituksesi toimintakehotuksen kanssa. Chiefy:n ominaisuudet, kuten **AI Triage**, voivat auttaa tuomaan esiin tärkeitä allekirjoitusten vuorovaikutuksesta syntyviä vastauksia, kun taas sen **Autenttinen AI Drafting** varmistaa, että seurantasi kuulostavat aivan kuten sinä, säilyttäen allekirjoitusprojektiesi ammattimaisuuden. Se muuttaa allekirjoituksesi synnyttämän sitoutumisen hyvin hoidetuiksi, tuottaviksi keskusteluiksi.
 
 ## Ready to Activate Your Signature?
 

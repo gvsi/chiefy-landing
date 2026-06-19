@@ -1,10 +1,10 @@
 {
   "slug": "whale-watching",
-  "pageTitle": "Duet Mail cho Tour Ngắm Cá Voi | Trợ Lý Email AI",
-  "metaDescription": "Duet Mail giúp các thuyền trưởng tour ngắm cá voi trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên biển. Trả lời được soạn thảo bằng AI với chi tiết tour, giá cả và phong cách của bạn.",
+  "pageTitle": "Chiefy cho Tour Ngắm Cá Voi | Trợ Lý Email AI",
+  "metaDescription": "Chiefy giúp các thuyền trưởng tour ngắm cá voi trả lời email đặt chỗ ngay lập tức — ngay cả khi đang trên biển. Trả lời được soạn thảo bằng AI với chi tiết tour, giá cả và phong cách của bạn.",
   "heroBadge": "Được tin dùng bởi hơn 300 thuyền trưởng tour",
   "heroHeadline": "Trợ lý email của bạn khi bạn đang đi ngắm cá voi",
-  "heroSubline": "Duet học lịch trình tour, giá cả và phong cách của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang trên biển.",
+  "heroSubline": "Chiefy học lịch trình tour, giá cả và phong cách của bạn — sau đó soạn thảo trả lời email để bạn không bao giờ bỏ lỡ đặt chỗ khi đang trên biển.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "nhóm tour",
     "lostPerMonth": "3",
     "monthlyLoss": "2.250$",
-    "punchline": "Chỉ cần một nhóm đặt chỗ được giữ lại là đủ trả tiền Duet trong một năm."
+    "punchline": "Chỉ cần một nhóm đặt chỗ được giữ lại là đủ trả tiền Chiefy trong một năm."
   },
-  "categorizationSubtitle": "Duet tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, thay đổi lịch trình tàu du lịch thứ hai, và không bao giờ bị làm phiền bởi tin nhảm. Không còn bỏ lỡ yêu cầu thuê riêng bị chôn vùi dưới các cảnh báo TripAdvisor.",
-  "draftSubtitle": "Duet học giờ tour, giá cả và chính sách của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với tình trạng chỗ, những gì bao gồm và cần mang theo. Bạn xem lại và gửi.",
-  "agentSubtitle": "\"Còn bao nhiêu chỗ cho tour sáng thứ Bảy?\" \"Soạn trả lời cho Rachel về tình trạng chỗ.\" Duet biết hộp thư và lịch trình của bạn — chỉ cần hỏi.",
+  "categorizationSubtitle": "Chiefy tự động gắn thẻ mọi email để bạn thấy yêu cầu đặt chỗ trước, thay đổi lịch trình tàu du lịch thứ hai, và không bao giờ bị làm phiền bởi tin nhảm. Không còn bỏ lỡ yêu cầu thuê riêng bị chôn vùi dưới các cảnh báo TripAdvisor.",
+  "draftSubtitle": "Chiefy học giờ tour, giá cả và chính sách của bạn. Khi có yêu cầu đặt chỗ, nó soạn thảo trả lời đầy đủ với tình trạng chỗ, những gì bao gồm và cần mang theo. Bạn xem lại và gửi.",
+  "agentSubtitle": "\"Còn bao nhiêu chỗ cho tour sáng thứ Bảy?\" \"Soạn trả lời cho Rachel về tình trạng chỗ.\" Chiefy biết hộp thư và lịch trình của bạn — chỉ cần hỏi.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Thuyền trưởng Dave H.",
       "title": "Nhà điều hành tour động vật hoang dã, AK",
-      "quote": "Hành khách tàu du lịch cần câu trả lời nhanh — họ chỉ có 6 giờ ở cảng. Tôi từng mất các thuê riêng vì đang trên biển khi có yêu cầu. Giờ Duet soạn trả lời với giá và chi tiết đón khách trước khi tôi cập bến.",
+      "quote": "Hành khách tàu du lịch cần câu trả lời nhanh — họ chỉ có 6 giờ ở cảng. Tôi từng mất các thuê riêng vì đang trên biển khi có yêu cầu. Giờ Chiefy soạn trả lời với giá và chi tiết đón khách trước khi tôi cập bến.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria & Luis R.",
       "title": "Gia đình Ngắm Cá Voi, CA",
-      "quote": "Chúng tôi chạy hai tour mỗi ngày trong mùa cá voi lưng gù và lượng email rất lớn. 'Chúng tôi có thấy cá voi không?' 'Nên mặc gì?' 'Ngày mai có hủy không?' Duet xử lý các câu hỏi lặp đi lặp lại để chúng tôi tập trung vào tour.",
+      "quote": "Chúng tôi chạy hai tour mỗi ngày trong mùa cá voi lưng gù và lượng email rất lớn. 'Chúng tôi có thấy cá voi không?' 'Nên mặc gì?' 'Ngày mai có hủy không?' Chiefy xử lý các câu hỏi lặp đi lặp lại để chúng tôi tập trung vào tour.",
       "avatarKey": "francesca"
     },
     {
       "name": "Thuyền trưởng Ben T.",
       "title": "Chuyến đi biển, HI",
-      "quote": "Tôi trả lời cùng 10 câu hỏi mỗi tối — giá cả, bao gồm gì, mẹo chống say sóng, giới hạn tuổi trẻ em. Duet học hết trong tuần đầu. Thời gian phản hồi của tôi giảm từ 8 giờ xuống còn 8 phút.",
+      "quote": "Tôi trả lời cùng 10 câu hỏi mỗi tối — giá cả, bao gồm gì, mẹo chống say sóng, giới hạn tuổi trẻ em. Chiefy học hết trong tuần đầu. Thời gian phản hồi của tôi giảm từ 8 giờ xuống còn 8 phút.",
       "avatarKey": "johnny"
     },
     {
       "name": "Kim W.",
       "title": "Quản lý đặt chỗ, Pacific NW",
-      "quote": "Hủy do thời tiết là tệ nhất — 30 người cần đặt lại cùng lúc và tôi phải xử lý điện thoại. Duet soạn email cá nhân hóa để dời lịch cho từng khách. Việc từng mất 2 giờ giờ chỉ còn 15 phút.",
+      "quote": "Hủy do thời tiết là tệ nhất — 30 người cần đặt lại cùng lúc và tôi phải xử lý điện thoại. Chiefy soạn email cá nhân hóa để dời lịch cho từng khách. Việc từng mất 2 giờ giờ chỉ còn 15 phút.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Jess & Nate P.",
       "title": "Tour động vật hoang dã bằng thuyền nhỏ, BC",
-      "quote": "Chúng tôi chỉ hai người — tôi làm thuyền trưởng, cô ấy lo logistics. Mùa cao điểm cô ấy dành 3 giờ mỗi tối cho email. Duet giảm xuống còn 30 phút. Cô ấy thực sự có lại buổi tối của mình.",
+      "quote": "Chúng tôi chỉ hai người — tôi làm thuyền trưởng, cô ấy lo logistics. Mùa cao điểm cô ấy dành 3 giờ mỗi tối cho email. Chiefy giảm xuống còn 30 phút. Cô ấy thực sự có lại buổi tối của mình.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Bắt đầu dùng thử miễn phí. Kết nối hộp thư trong 30 giây.",
   "verticalFaqs": [
     {
-      "question": "Duet có xử lý hủy tour do thời tiết và thay đổi lịch tàu du lịch không?",
-      "answer": "Có. Khi bạn hủy tour do thời tiết hoặc lịch đến tàu du lịch thay đổi, bạn chỉ cần thông báo một lần cho Duet và nó sẽ soạn email cá nhân hóa để dời lịch hoặc cập nhật cho từng khách bị ảnh hưởng. Không còn phải sao chép dán cùng một tin nhắn 30 lần. Mỗi trả lời bao gồm chi tiết đặt chỗ gốc của khách và các lựa chọn thay thế có sẵn."
+      "question": "Chiefy có xử lý hủy tour do thời tiết và thay đổi lịch tàu du lịch không?",
+      "answer": "Có. Khi bạn hủy tour do thời tiết hoặc lịch đến tàu du lịch thay đổi, bạn chỉ cần thông báo một lần cho Chiefy và nó sẽ soạn email cá nhân hóa để dời lịch hoặc cập nhật cho từng khách bị ảnh hưởng. Không còn phải sao chép dán cùng một tin nhắn 30 lần. Mỗi trả lời bao gồm chi tiết đặt chỗ gốc của khách và các lựa chọn thay thế có sẵn."
     },
     {
-      "question": "Chúng tôi thường nhận cùng một câu hỏi — 'chúng tôi có thấy cá voi không?', 'nên mặc gì?', 'có phù hợp cho trẻ em không?' Duet có xử lý được không?",
-      "answer": "Đó chính là điểm mạnh của Duet. Nó học các câu trả lời chuẩn của bạn — các loài thường thấy, những gì cần mang theo, chính sách tuổi, mẹo chống say sóng, giờ khởi hành — và soạn trả lời đầy đủ ngay lập tức. Bạn xem lại và gửi. Hầu hết các thuyền trưởng nói với chúng tôi 80% hộp thư của họ là 10 câu hỏi giống nhau, và Duet xử lý tất cả."
+      "question": "Chúng tôi thường nhận cùng một câu hỏi — 'chúng tôi có thấy cá voi không?', 'nên mặc gì?', 'có phù hợp cho trẻ em không?' Chiefy có xử lý được không?",
+      "answer": "Đó chính là điểm mạnh của Chiefy. Nó học các câu trả lời chuẩn của bạn — các loài thường thấy, những gì cần mang theo, chính sách tuổi, mẹo chống say sóng, giờ khởi hành — và soạn trả lời đầy đủ ngay lập tức. Bạn xem lại và gửi. Hầu hết các thuyền trưởng nói với chúng tôi 80% hộp thư của họ là 10 câu hỏi giống nhau, và Chiefy xử lý tất cả."
     }
   ],
   "pricingNote": "Với giá 125$/người, chỉ cần giữ lại một nhóm 6 người là đủ trả tiền Pro hơn một năm."

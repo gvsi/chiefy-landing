@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail za jahalne izlete in vodnike po poteh | AI e-poštni pomočnik",
-  "metaDescription": "Duet Mail pomaga operaterjem jahalnih izletov takoj odgovoriti na e-pošto o rezervacijah — tudi iz sedla. Osnutki odgovorov z umetno inteligenco z vašimi cenami, zahtevami za jahače in načinom pisanja.",
+  "pageTitle": "Chiefy za jahalne izlete in vodnike po poteh | AI e-poštni pomočnik",
+  "metaDescription": "Chiefy pomaga operaterjem jahalnih izletov takoj odgovoriti na e-pošto o rezervacijah — tudi iz sedla. Osnutki odgovorov z umetno inteligenco z vašimi cenami, zahtevami za jahače in načinom pisanja.",
   "heroBadge": "Zaupa mu več kot 300 vodnikov po poteh",
   "heroHeadline": "Vaš e-poštni pomočnik, ko ste na poti",
-  "heroSubline": "Duet se nauči vaših vrst jahanja, cen, zahtev za jahače in razmer na poteh — nato pripravlja osnutke e-poštnih odgovorov, da zaradi počasnega odziva ne izgubite nobene rezervacije.",
+  "heroSubline": "Chiefy se nauči vaših vrst jahanja, cen, zahtev za jahače in razmer na poteh — nato pripravlja osnutke e-poštnih odgovorov, da zaradi počasnega odziva ne izgubite nobene rezervacije.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "jahanje",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Ena rešena skupinska rezervacija jahanja pokrije več kot dve leti uporabe Duet."
+    "punchline": "Ena rešena skupinska rezervacija jahanja pokrije več kot dve leti uporabe Chiefy."
   },
-  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato vprašanja jahačev, šuma pa nikoli. Nič več zgrešenih skupinskih povpraševanj, zakopanih pod opozorili TripAdvisor.",
-  "draftSubtitle": "Duet se nauči vaših vrst jahanja, cen in zahtev. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi poti, ceno in tem, kaj obleči. Vi ga pregledate in pošljete.",
-  "agentSubtitle": "\"Je ta konec tedna še kakšno jahanje prosto?\" \"Pripravi odgovor Jessici s sobotno razpoložljivostjo.\" Duet pozna vaš nabiralnik in koledar — samo vprašajte.",
+  "categorizationSubtitle": "Chiefy samodejno označi vsako e-pošto, da najprej vidite zahteve za rezervacijo, nato vprašanja jahačev, šuma pa nikoli. Nič več zgrešenih skupinskih povpraševanj, zakopanih pod opozorili TripAdvisor.",
+  "draftSubtitle": "Chiefy se nauči vaših vrst jahanja, cen in zahtev. Ko pride povpraševanje za rezervacijo, pripravi celovit odgovor s podrobnostmi poti, ceno in tem, kaj obleči. Vi ga pregledate in pošljete.",
+  "agentSubtitle": "\"Je ta konec tedna še kakšno jahanje prosto?\" \"Pripravi odgovor Jessici s sobotno razpoložljivostjo.\" Chiefy pozna vaš nabiralnik in koledar — samo vprašajte.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -118,7 +118,7 @@
   },
   "agent": {
     "userMessage": "Je ta konec tedna še kakšno jahanje prosto? In kakšno bo vreme?",
-    "agentResponse": "Glede na vaš koledar imate proste termine v soboto ob 9.00 in 14.00 ter v nedeljo ob 10.00. Sobotna napoved je 72\u00b0F in sončno — popolno vreme za jahanje. Za nedeljo je popoldne napovedana 40-odstotna možnost dežja, zato je jutranji termin varnejša izbira. Želite, da pripravim odgovore na čakajoča povpraševanja s temi termini?",
+    "agentResponse": "Glede na vaš koledar imate proste termine v soboto ob 9.00 in 14.00 ter v nedeljo ob 10.00. Sobotna napoved je 72°F in sončno — popolno vreme za jahanje. Za nedeljo je popoldne napovedana 40-odstotna možnost dežja, zato je jutranji termin varnejša izbira. Želite, da pripravim odgovore na čakajoča povpraševanja s temi termini?",
     "followUp": "Pripravi odgovor Jessici s sobotno razpoložljivostjo",
     "followUpResponse": "Končano! Pripravil sem odgovor Jessici, ki potrjuje soboto ob 9.00 za 6 jahačev po $100/osebo. Vključuje vaše standardne zahteve za jahače in kaj obleči. Pripravljeno za pregled in pošiljanje."
   },
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Lastnik ranča in vodnik po poteh, MT",
-      "quote": "Na poti sem 6 ur na dan brez signala. Ko sem se vrnil in odgovoril, je polovica ljudi že rezervirala drugje. Zdaj Duet pripravlja odgovore z mojimi cenami in podrobnostmi jahanja — ko se vrnem v hlev, jih samo pregledam in pošljem.",
+      "quote": "Na poti sem 6 ur na dan brez signala. Ko sem se vrnil in odgovoril, je polovica ljudi že rezervirala drugje. Zdaj Chiefy pripravlja odgovore z mojimi cenami in podrobnostmi jahanja — ko se vrnem v hlev, jih samo pregledam in pošljem.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Operaterka jahalnih izletov, AZ",
-      "quote": "Dobimo na desetine e-poštnih sporočil z istimi vprašanji — omejitve teže, kaj obleči, starostne zahteve. Duet poskrbi za vse, odgovori pa zvenijo natanko kot jaz. Moji gostje nimajo pojma, da je AI.",
+      "quote": "Dobimo na desetine e-poštnih sporočil z istimi vprašanji — omejitve teže, kaj obleči, starostne zahteve. Chiefy poskrbi za vse, odgovori pa zvenijo natanko kot jaz. Moji gostje nimajo pojma, da je AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Vodnik jahalnih poti, CO",
-      "quote": "Glavna sezona me je izčrpavala. Več kot 30 e-poštnih sporočil na dan poleg vodenja jahanj. Duet loči zahteve za rezervacijo od šuma in pripravi odgovore, ki vključujejo vse — cene, kaj prinesti, vse podrobnosti. Spet imam večere.",
+      "quote": "Glavna sezona me je izčrpavala. Več kot 30 e-poštnih sporočil na dan poleg vodenja jahanj. Chiefy loči zahteve za rezervacijo od šuma in pripravi odgovore, ki vključujejo vse — cene, kaj prinesti, vse podrobnosti. Spet imam večere.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Inštruktorica jahanja in vodja rezervacij, TX",
-      "quote": "Vodimo jahanja ob sončnem zahodu, jutranja jahanja in zasebne ure — vsako z drugačnimi cenami in zahtevami. Duet se je vsega naučil v enem tednu. Vsakič pripravi pravi odgovor za pravo vrsto jahanja.",
+      "quote": "Vodimo jahanja ob sončnem zahodu, jutranja jahanja in zasebne ure — vsako z drugačnimi cenami in zahtevami. Chiefy se je vsega naučil v enem tednu. Vsakič pripravi pravi odgovor za pravo vrsto jahanja.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Družinski ranč in jahalni izleti, CA",
-      "quote": "Občutljiva e-poštna sporočila so bila najtežja — ko kdo vpraša, ali je pretežak, ali ali je njegov otrok dovolj star. Duet jih obravnava z enako skrbnostjo kot jaz. Profesionalno, prijazno in natančno. Že samo to je vredno.",
+      "quote": "Občutljiva e-poštna sporočila so bila najtežja — ko kdo vpraša, ali je pretežak, ali ali je njegov otrok dovolj star. Chiefy jih obravnava z enako skrbnostjo kot jaz. Profesionalno, prijazno in natančno. Že samo to je vredno.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svoj nabiralnik v 30 sekundah.",
   "verticalFaqs": [
     {
-      "question": "Kako Duet obravnava občutljiva vprašanja o teži ali zahtevah glede izkušenj?",
-      "answer": "Duet se nauči vaših konkretnih pravil in posnema vaš ton. Ko nekdo vpraša o omejitvah teže ali zahtevah glede izkušenj, odgovori profesionalno in toplo — poda informacije, ki jih gost potrebuje, brez neprijetnosti. Ton nastavite enkrat, Duet pa ga dosledno upošteva, da se vsak gost počuti spoštovanega."
+      "question": "Kako Chiefy obravnava občutljiva vprašanja o teži ali zahtevah glede izkušenj?",
+      "answer": "Chiefy se nauči vaših konkretnih pravil in posnema vaš ton. Ko nekdo vpraša o omejitvah teže ali zahtevah glede izkušenj, odgovori profesionalno in toplo — poda informacije, ki jih gost potrebuje, brez neprijetnosti. Ton nastavite enkrat, Chiefy pa ga dosledno upošteva, da se vsak gost počuti spoštovanega."
     },
     {
-      "question": "Ali lahko Duet obravnava skupinske rezervacije z različnimi potrebami jahačev?",
-      "answer": "Da. Duet se nauči vaših vrst jahanja, velikosti skupin, najnižjih starosti in vseh zahtev za posamezne jahače. Ko družina ali skupina piše glede rezervacije, pripravi odgovor, ki zajame ceno za celotno skupino, kaj mora vedeti vsak jahač in proste termine. Vi ga pregledate in pošljete — brez dodatnega dopisovanja."
+      "question": "Ali lahko Chiefy obravnava skupinske rezervacije z različnimi potrebami jahačev?",
+      "answer": "Da. Chiefy se nauči vaših vrst jahanja, velikosti skupin, najnižjih starosti in vseh zahtev za posamezne jahače. Ko družina ali skupina piše glede rezervacije, pripravi odgovor, ki zajame ceno za celotno skupino, kaj mora vedeti vsak jahač in proste termine. Vi ga pregledate in pošljete — brez dodatnega dopisovanja."
     }
   ],
   "pricingNote": "Pri $100/osebo za skupino 6 oseb ena rešena rezervacija jahanja pokrije več kot dve leti uporabe Pro."

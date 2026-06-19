@@ -2,7 +2,7 @@
 title: "Hướng Dẫn Toàn Diện Về HTML Email Footers: Tuân Thủ, Thiết Kế & Ví Dụ"
 description: "Làm chủ HTML email footers: các yếu tố thiết yếu, mẹo thiết kế, tuân thủ pháp lý (CAN-SPAM, GDPR, CASL) và ví dụ xây dựng thương hiệu."
 publishedAt: 2026-01-05
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI", "Email"]
 draft: false
 ---
@@ -121,4 +121,4 @@ HTML email footer có thể là thứ cuối cùng người nhận nhìn thấy,
 
 Nó xây dựng niềm tin, củng cố thương hiệu, đảm bảo tuân thủ và cung cấp điều hướng hữu ích cho người nhận. Hãy dành vài phút xem lại email footer hiện tại của bạn. Nó có tuân thủ không? Có rõ ràng không? Có thân thiện với di động không? Những cải thiện nhỏ này có thể tạo tác động lớn đến cách email và thương hiệu của bạn được nhìn nhận.
 
-Bạn đang tìm cách làm cho việc quản lý email tổng thể hiệu quả và chuyên nghiệp hơn? Hãy cân nhắc khám phá các công cụ được thiết kế cho chuyên gia bận rộn. Chẳng hạn, tìm hiểu cách [Duet Mail đơn giản hóa năng suất email](https://duetmail.com/vi) bằng các tính năng AI có thể giải phóng thêm thời gian để bạn tập trung hoàn thiện những chi tiết như footer và đảm bảo mọi giao tiếp đều đại diện tốt cho bạn.
+Bạn đang tìm cách làm cho việc quản lý email tổng thể hiệu quả và chuyên nghiệp hơn? Hãy cân nhắc khám phá các công cụ được thiết kế cho chuyên gia bận rộn. Chẳng hạn, tìm hiểu cách [Chiefy đơn giản hóa năng suất email](https://chiefy.com/vi) bằng các tính năng AI có thể giải phóng thêm thời gian để bạn tập trung hoàn thiện những chi tiết như footer và đảm bảo mọi giao tiếp đều đại diện tốt cho bạn.

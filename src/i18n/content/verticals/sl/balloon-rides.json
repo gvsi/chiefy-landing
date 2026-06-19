@@ -1,10 +1,10 @@
 {
   "slug": "balloon-rides",
-  "pageTitle": "Duet Mail za vožnje z balonom | AI E-poštni pomočnik",
-  "metaDescription": "Duet Mail pomaga pilotom balonov takoj odgovoriti na e-poštna sporočila o rezervaciji — tudi med leti ob sončnem vzhodu. Odgovori, pripravljeni z umetno inteligenco, z vašimi cenami, vremensko politiko in glasom.",
+  "pageTitle": "Chiefy za vožnje z balonom | AI E-poštni pomočnik",
+  "metaDescription": "Chiefy pomaga pilotom balonov takoj odgovoriti na e-poštna sporočila o rezervaciji — tudi med leti ob sončnem vzhodu. Odgovori, pripravljeni z umetno inteligenco, z vašimi cenami, vremensko politiko in glasom.",
   "heroBadge": "Zaupa mu več kot 200 pilotov balona",
   "heroHeadline": "Vaš e-poštni pomočnik, ko ste v zraku",
-  "heroSubline": "Duet se seznani z vašimi urniki letov, cenami in vremenskimi politikami — nato pripravi osnutke e-poštnih odgovorov, tako da nikoli ne izgubite rezervacije, medtem ko spuščate ob sončnem vzhodu.",
+  "heroSubline": "Chiefy se seznani z vašimi urniki letov, cenami in vremenskimi politikami — nato pripravi osnutke e-poštnih odgovorov, tako da nikoli ne izgubite rezervacije, medtem ko spuščate ob sončnem vzhodu.",
   "inboxEmails": [
     {
       "from": "Rachel in Dan T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "polet",
     "lostPerMonth": "2",
     "monthlyLoss": "$2,000",
-    "punchline": "En shranjeni let plača eno leto Duet."
+    "punchline": "En shranjeni let plača eno leto Chiefy."
   },
-  "categorizationSubtitle": "Duet samodejno označi vsako e-pošto, tako da najprej vidite zahteve za rezervacije, nato vprašanja o vremenu in nikoli hrupa. Nič več pogrešanja povpraševanja o letu, ki je zakopano pod opozorili o novicah.",
-  "draftSubtitle": "Duet izve vaše cene, vremensko politiko in ton. Ko prejme poizvedbo o rezervaciji, pripravi popoln odgovor s podrobnostmi o letu, informacijami o sestanku in tem, kaj obleči. Pregledate in pošljete.",
-  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Duet pozna vašo mapo »Prejeto« in koledar — samo vprašajte.",
+  "categorizationSubtitle": "Chiefy samodejno označi vsako e-pošto, tako da najprej vidite zahteve za rezervacije, nato vprašanja o vremenu in nikoli hrupa. Nič več pogrešanja povpraševanja o letu, ki je zakopano pod opozorili o novicah.",
+  "draftSubtitle": "Chiefy izve vaše cene, vremensko politiko in ton. Ko prejme poizvedbo o rezervaciji, pripravi popoln odgovor s podrobnostmi o letu, informacijami o sestanku in tem, kaj obleči. Pregledate in pošljete.",
+  "agentSubtitle": "\"Who's on tomorrow's manifest?\" \"Any weather cancellations to reschedule?\" Chiefy pozna vašo mapo »Prejeto« in koledar — samo vprašajte.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Kapetan Mike L.",
       "title": "Pilot balona, ​​MN",
-      "quote": "Sem ena oseba – letim, delam v posadki, odgovarjam na e-pošto. Razen ob 5. uri zjutraj napihujem, ne odgovarjam. Duet pripravi osnutke odgovorov na vsak \"bomo jutri leteli?\" sporočilo čez noč. Zbudim se, preverim vreme in pritisnem Pošlji.",
+      "quote": "Sem ena oseba – letim, delam v posadki, odgovarjam na e-pošto. Razen ob 5. uri zjutraj napihujem, ne odgovarjam. Chiefy pripravi osnutke odgovorov na vsak \"bomo jutri leteli?\" sporočilo čez noč. Zbudim se, preverim vreme in pritisnem Pošlji.",
       "avatarKey": "michael"
     },
     {
       "name": "Shannon & Jake B.",
       "title": "Celoletni izleti z balonom, UT",
-      "quote": "Vsak dan dobimo istih 10 vprašanj. Kaj obleči, kje se dobiti, kaj če piha. Duet se je naučil vsega in zdaj piše popolne odgovore. Z ene ure e-pošte vsak večer smo prešli na pet minut.",
+      "quote": "Vsak dan dobimo istih 10 vprašanj. Kaj obleči, kje se dobiti, kaj če piha. Chiefy se je naučil vsega in zdaj piše popolne odgovore. Z ene ure e-pošte vsak večer smo prešli na pet minut.",
       "avatarKey": "sarah"
     },
     {
       "name": "Carlos R.",
       "title": "Operater letenja Sunrise, AZ",
-      "quote": "Visoka sezona pomeni 4-6 letov na teden in vsak potnik pošlje e-pošto vsaj dvakrat pred letom. Duet obravnava vprašanja pred letom, da se lahko osredotočim na to, da ljudem omogočim najboljše jutro v življenju.",
+      "quote": "Visoka sezona pomeni 4-6 letov na teden in vsak potnik pošlje e-pošto vsaj dvakrat pred letom. Chiefy obravnava vprašanja pred letom, da se lahko osredotočim na to, da ljudem omogočim najboljše jutro v življenju.",
       "avatarKey": "johnny"
     },
     {
       "name": "Lisa W.",
       "title": "Solastnik podjetja Balloon, NM",
-      "quote": "Vremenske odpovedi so mi pokvarile cel dan – 8 potnikov je vseh potrebovalo osebna e-poštna sporočila o prestavitvi. Zdaj Duet pripravlja osnutke vseh z našo politiko ponovne rezervacije. Prihrani mi ure ob jutrih odpovedi.",
+      "quote": "Vremenske odpovedi so mi pokvarile cel dan – 8 potnikov je vseh potrebovalo osebna e-poštna sporočila o prestavitvi. Zdaj Chiefy pripravlja osnutke vseh z našo politiko ponovne rezervacije. Prihrani mi ure ob jutrih odpovedi.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Marija D.",
       "title": "Balloon Ride Operations, CO",
-      "quote": "Predlagani leti potrebujejo toliko usklajevanja naprej in nazaj. Duet je izvedel, kako jih obravnavamo — čas, kodne besede, nastavitev šampanjca. Piše odgovore, ki se jih komaj dotaknem.",
+      "quote": "Predlagani leti potrebujejo toliko usklajevanja naprej in nazaj. Chiefy je izvedel, kako jih obravnavamo — čas, kodne besede, nastavitev šampanjca. Piše odgovore, ki se jih komaj dotaknem.",
       "avatarKey": "francesca"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Začnite z brezplačnim preizkusom. Povežite svojo mapo »Prejeto« v 30 sekundah.",
   "verticalFaqs": [
     {
-      "question": "Kako Duet obravnava e-poštna sporočila o odpovedi vremena?",
-      "answer": "Duet se seznani z vašimi politikami odpovedi in ponovne rezervacije. Ko odpoveste let zaradi vremena, lahko vsakemu prizadetemu potniku pripravi prilagojena e-poštna sporočila o prerazporedu – z vašim pravilnikom, razpoložljivimi datumi in vašim tonom. Pregledate in pošljete. Kar je včasih trajalo uro posameznih odgovorov, traja nekaj minut."
+      "question": "Kako Chiefy obravnava e-poštna sporočila o odpovedi vremena?",
+      "answer": "Chiefy se seznani z vašimi politikami odpovedi in ponovne rezervacije. Ko odpoveste let zaradi vremena, lahko vsakemu prizadetemu potniku pripravi prilagojena e-poštna sporočila o prerazporedu – z vašim pravilnikom, razpoložljivimi datumi in vašim tonom. Pregledate in pošljete. Kar je včasih trajalo uro posameznih odgovorov, traja nekaj minut."
     },
     {
-      "question": "Ali lahko Duet obravnava 'bomo jutri leteli?' e-poštna sporočila, ki prihajajo vsak večer?",
-      "answer": "Da – to je eno najpogostejših e-poštnih sporočil, o katerih nam pripovedujejo operaterji oblačkov. Duet izve vašo vremensko politiko in pripravi osnutke pomirjujočih odgovorov, ki pojasnjujejo vaš postopek odločanja, kdaj boste opravili zadnji klic in kaj lahko pričakujete. Ko zjutraj potrdite iti/ne iti, lahko osnutke posodobi za vse v manifestu."
+      "question": "Ali lahko Chiefy obravnava 'bomo jutri leteli?' e-poštna sporočila, ki prihajajo vsak večer?",
+      "answer": "Da – to je eno najpogostejših e-poštnih sporočil, o katerih nam pripovedujejo operaterji oblačkov. Chiefy izve vašo vremensko politiko in pripravi osnutke pomirjujočih odgovorov, ki pojasnjujejo vaš postopek odločanja, kdaj boste opravili zadnji klic in kaj lahko pričakujete. Ko zjutraj potrdite iti/ne iti, lahko osnutke posodobi za vse v manifestu."
     }
   ],
   "pricingNote": "Pri 250 $/osebo s 4 potniki na let ena shranjena rezervacija plača več kot eno leto Pro."

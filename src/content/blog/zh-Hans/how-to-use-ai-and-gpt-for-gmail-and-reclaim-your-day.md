@@ -2,7 +2,7 @@
 title: "如何将 AI 和 GPT 用于 Gmail 并重新开始您的一天"
 description: "了解如何使用 GPT for Gmail 来克服电子邮件过载。探索用于起草、总结和分类的 AI 工具，以提高工作效率并节省时间。"
 publishedAt: 2025-06-10
-author: "Duet Mail团队"
+author: "Chiefy团队"
 tags: ["AI", "Gmail", "生产力", "电子邮件"]
 draft: false
 ---
@@ -25,7 +25,7 @@ draft: false
 
 - [**Google Workspace 附加组件**](https://workspace.google.com/marketplace)**:** 从 Google Workspace 市场安装，这些附加组件通常出现在 Gmail 侧边栏中或集成到撰写窗口中。 ([GPT for Gmail™](https://workspace.google.com/marketplace/app/gpt_for_gmail/802100925247)) 或 [Klart AI 邮件助手](https://workspace.google.com/marketplace/app/ai_mail_assistant_chatgpt_for_gmail/793320270264) 等工具提供可直接在 Gmail 工作区中访问的 AI 功能。
 
-- **专用 AI 电子邮件助理/客户端：** 此类别包括独立应用程序或专用电子邮件客户端，它们连接到用户的 Gmail 帐户，但提供包含高级 AI 功能的独特界面。例如 [Superhuman](https://superhuman.com/))、([Shortwave](https://www.shortwave.com/))、([SaneBox](https://www.sanebox.com/))、[Flowrite](https://www.flowrite.com/)、[Missive](https://missiveapp.com/)和[**Duet Mail**](https://duetmail.com/zh-Hans) 通常专注于速度、深度 AI 学习（例如理解写作风格）和全面的工作流程集成，通常需要付费订阅。
+- **专用 AI 电子邮件助理/客户端：** 此类别包括独立应用程序或专用电子邮件客户端，它们连接到用户的 Gmail 帐户，但提供包含高级 AI 功能的独特界面。例如 [Superhuman](https://superhuman.com/))、([Shortwave](https://www.shortwave.com/))、([SaneBox](https://www.sanebox.com/))、[Flowrite](https://www.flowrite.com/)、[Missive](https://missiveapp.com/)和[**Chiefy**](https://chiefy.com/zh-Hans) 通常专注于速度、深度 AI 学习（例如理解写作风格）和全面的工作流程集成，通常需要付费订阅。
 
 这些不同的集成方法允许AI在Gmail内执行多个核心功能：
 
@@ -49,7 +49,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 **真实性挑战：** 对于许多人来说，一个主要的犹豫是担心听起来很普通、缺乏个性或机械化。有效的沟通依赖于个人风格。值得庆幸的是，更复杂的AI电子邮件工具旨在直接解决这个问题。他们利用技术来学习用户独特的写作风格、语气、词汇，甚至句子结构。此学习过程通常涉及分析用户的[之前发送的电子邮件](https://gmelius.com/zh-Hans/blog/ultimate-guide-to-artificial-intelligence-ai-for-emails)，并根据AI生成的草稿提供的编辑和反馈进行调整。
 
-保持真实的声音至关重要。这就是专门为此设计的工具的闪光点。例如，像[**Duet Mail**](https://duetmail.com/zh-Hans)这样的平台强调**真实的AI起草**，分析过去的通信以生成真正听起来像用户的建议。虽然许多工具提供基本的绘图功能，但生成文本的_质量_和_真实性_正在成为关键的区别因素。大量投资于学习用户风格的工具正在解决采用的主要障碍，超越单纯的速度提供个性化的效率。
+保持真实的声音至关重要。这就是专门为此设计的工具的闪光点。例如，像[**Chiefy**](https://chiefy.com/zh-Hans)这样的平台强调**真实的AI起草**，分析过去的通信以生成真正听起来像用户的建议。虽然许多工具提供基本的绘图功能，但生成文本的_质量_和_真实性_正在成为关键的区别因素。大量投资于学习用户风格的工具正在解决采用的主要障碍，超越单纯的速度提供个性化的效率。
 
 **追求真实性：** 获得最佳结果通常取决于提供清晰的说明。有效的提示是具体的，提供有关接收者和目的的背景，定义所需的语气（例如，“友好但专业”，“简洁而紧急”），提供首选措辞的示例，并涉及迭代 - 完善 AI 的输出，直到感觉正确。
 
@@ -61,7 +61,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 **用例：** 此功能对于在离开后快速跟上进度、了解复杂问题的上下文而无需重读整个历史记录或与需要循环的团队成员有效共享对话要点而言非常宝贵。
 
-快速掌握要点至关重要。 AI 工具可以充当简报助手。一些平台，例如 [**Duet Mail**](https://duetmail.com/zh-Hans)，不仅提供**智能摘要**，还保持**上下文感知**。这意味着 AI 会记住之前交互中提到的项目和关系的详细信息，使摘要更加相关和富有洞察力。这超越了简单的文本缩短，走向了真正的合成。 AI 保留过去电子邮件的上下文，甚至从其他平台提取相关信息（例如会议记录或项目更新），可以提供更多价值，从而实现更快、更明智的决策。
+快速掌握要点至关重要。 AI 工具可以充当简报助手。一些平台，例如 [**Chiefy**](https://chiefy.com/zh-Hans)，不仅提供**智能摘要**，还保持**上下文感知**。这意味着 AI 会记住之前交互中提到的项目和关系的详细信息，使摘要更加相关和富有洞察力。这超越了简单的文本缩短，走向了真正的合成。 AI 保留过去电子邮件的上下文，甚至从其他平台提取相关信息（例如会议记录或项目更新），可以提供更多价值，从而实现更快、更明智的决策。
 
 ### 通过智能分类避免收件箱混乱
 
@@ -77,7 +77,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 **好处：**根本性的转变是从不断地“管理”收件箱噪音转向主动地“采取行动”真正重要的事情。用户可以将注意力集中在 AI 识别为需要采取行动或做出决定的电子邮件上，而不是对最新通知做出反应。
 
-想象一下收件箱显示_现在_需要注意的内容。这就是AI分类的力量。 [**Duet Mail**](https://duetmail.com/zh-Hans) 等工具提供了 **AI 分类和重点仪表板**，而不是混乱的按时间顺序排列的提要。该系统可以智能地分析电子邮件的紧急程度、所需的操作或决策，并清晰地呈现它们，以便用户可以立即消除噪音并有效地集中精力。这代表了从被动的电子邮件检查到主动、优先的参与的范式转变，显着减少了认知负荷并提高了有意义的生产力。
+想象一下收件箱显示_现在_需要注意的内容。这就是AI分类的力量。 [**Chiefy**](https://chiefy.com/zh-Hans) 等工具提供了 **AI 分类和重点仪表板**，而不是混乱的按时间顺序排列的提要。该系统可以智能地分析电子邮件的紧急程度、所需的操作或决策，并清晰地呈现它们，以便用户可以立即消除噪音并有效地集中精力。这代表了从被动的电子邮件检查到主动、优先的参与的范式转变，显着减少了认知负荷并提高了有意义的生产力。
 
 ## 选择您的 AI 电子邮件副驾驶：工具和注意事项
 
@@ -102,7 +102,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 | [**Gemini Gmail**](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid) |原生（内置于Gmail）|起草（“Help me write”）、总结、Smart Reply |包含在Google Workspace/一个AI高级计划中 | Google Workspace 需要基本、便捷、集成AI 功能的用户 |依赖[Google强大的安全基础设施](https://workspace.google.com/security/) |
 | **(**[**浏览器扩展**](https://www.popai.pro/resources/20-best-chatgpt-chrome-extensions-for-2025/)**)** （例如，([ChatGPT Writer](https://www.wps.ai/zh-Hans/blog/7-best-chatgpt-chrome-extensions/))) |浏览器扩展（例如 Chrome）|起草、总结、生成响应（因扩展而异）|通常是免费增值或低成本订阅 |希望将特定 AI 功能叠加到标准 Gmail 上而无需更改客户端的用户 |多变的;检查各个扩展策略（例如，（[GPT for Gmail™ 隐私声明](https://workspace.google.com/marketplace/app/gpt_for_gmail/802100925247))）|
 | [**AI 收件箱整理器**](https://www.usemotion.com/zh-Hans/blog/best-ai-email-assistant)（例如，([SaneBox](https://www.sanebox.com/))) |通过 API 连接的附加组件/服务 |分类、过滤（智能文件夹）、暂停、摘要（摘要）|订阅（通常根据功能/帐户分层）|用户被杂乱的收件箱淹没，需要自动化的组织和优先级排序 |通过API连接；处理电子邮件数据进行排序（检查政策；可以使用数据进行培训）|
-| [**专用 AI 助理**](https://www.lindy.ai/zh-Hans/blog/ai-email-assistant)（例如，[Duet Mail](https://duetmail.com/zh-Hans)) |单独的客户端或深度集成（扩展/附加）|起草（通常带有风格学习）、总结、分类、高级工作流程 |高级订阅（通常为每个用户）|寻求最大速度、效率和整体 AI 驱动工作流程的专业人士/团队 |各不相同；查看具体政策（Duet Mail 强调隐私）|
+| [**专用 AI 助理**](https://www.lindy.ai/zh-Hans/blog/ai-email-assistant)（例如，[Chiefy](https://chiefy.com/zh-Hans)) |单独的客户端或深度集成（扩展/附加）|起草（通常带有风格学习）、总结、分类、高级工作流程 |高级订阅（通常为每个用户）|寻求最大速度、效率和整体 AI 驱动工作流程的专业人士/团队 |各不相同；查看具体政策（Chiefy 强调隐私）|
 
 该表说明，选择不仅仅是选择工具，而是选择正确的工具类型。自由职业者可能会发现简单的起草扩展就足够了，而大批量的专业人士或团队可能会从提供全面分类和工作流程自动化的专用助理中受益更多。
 
@@ -132,7 +132,7 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 - **练习警告：** 将高度敏感信息直接输入 AI 提示时要小心，尤其是在工具的安全实践不清楚的情况下。
 
-评估工具时，请注意其安全状况。例如，像 [**Duet Mail**](https://duetmail.com/zh-Hans) 这样的解决方案强调了他们对平台隐私和安全的承诺，这是建立信任的关键因素。随着AI集成的深入，强调强大的安全性和清晰的数据处理的供应商可能会赢得更大的用户信心。
+评估工具时，请注意其安全状况。例如，像 [**Chiefy**](https://chiefy.com/zh-Hans) 这样的解决方案强调了他们对平台隐私和安全的承诺，这是建立信任的关键因素。随着AI集成的深入，强调强大的安全性和清晰的数据处理的供应商可能会赢得更大的用户信心。
 
 ### 准确性和避免“AI幻觉”陷阱
 
@@ -162,9 +162,9 @@ _如何_ AI 集成的选择通常会影响可用功能的_深度_和_种类_。�
 
 3. **评估具体需求：** 反思日常电子邮件挑战。是纯粹的体积吗？撰写回复所花费的时间？难以保持井井有条？选择适合解决主要问题的工具将产生最直接的价值。
 
-准备好体验旨在一次解决多个电子邮件挑战的综合解决方案了吗？探索 [**Duet Mail**](https://duetmail.com/zh-Hans) 等工具如何结合智能 **AI 分类** 来显示紧急事项，**真实的 AI 起草** 可学习用户独特的声音，以及 **智能摘要** 来消除混乱。了解它如何改变 Gmail 工作流程。
+准备好体验旨在一次解决多个电子邮件挑战的综合解决方案了吗？探索 [**Chiefy**](https://chiefy.com/zh-Hans) 等工具如何结合智能 **AI 分类** 来显示紧急事项，**真实的 AI 起草** 可学习用户独特的声音，以及 **智能摘要** 来消除混乱。了解它如何改变 Gmail 工作流程。
 
-![显示Duet Mail总结长电子邮件并突出显示关键操作项目的屏幕截图](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+![显示Chiefy总结长电子邮件并突出显示关键操作项目的屏幕截图](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 智能摘要功能提取关键点和行动项，节省阅读时间。
 

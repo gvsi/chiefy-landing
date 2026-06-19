@@ -1,10 +1,10 @@
 {
   "slug": "surf-schools",
-  "pageTitle": "Duet Mail untuk Sekolah Selancar & Operator Papan Dayung |  AI Asisten Email",
-  "metaDescription": "Duet Mail membantu instruktur selancar dan operator papan dayung merespons email pemesanan secara instan — bahkan saat mengajar.  AI -Balasan yang disusun dengan jenis pelajaran, harga, dan suara Anda.",
+  "pageTitle": "Chiefy untuk Sekolah Selancar & Operator Papan Dayung |  AI Asisten Email",
+  "metaDescription": "Chiefy membantu instruktur selancar dan operator papan dayung merespons email pemesanan secara instan — bahkan saat mengajar.  AI -Balasan yang disusun dengan jenis pelajaran, harga, dan suara Anda.",
   "heroBadge": "Dipercaya oleh 300+ instruktur selancar",
   "heroHeadline": "Asisten email Anda saat Anda mengajar di atas air",
-  "heroSubline": "Duet mempelajari jenis pelajaran, harga, dan ketentuan — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
+  "heroSubline": "Chiefy mempelajari jenis pelajaran, harga, dan ketentuan — lalu menyusun balasan email sehingga Anda tidak akan kehilangan pemesanan karena respons yang lambat.",
   "inboxEmails": [
     {
       "from": "Rachel T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "lesson",
     "lostPerMonth": "8",
     "monthlyLoss": "$720",
-    "punchline": "Dua pemesanan tersimpan membayar untuk satu tahun Duet."
+    "punchline": "Dua pemesanan tersimpan membayar untuk satu tahun Chiefy."
   },
-  "categorizationSubtitle": "Duet secara otomatis menandai setiap email sehingga Anda melihat pemesanan pelajaran terlebih dahulu, pertanyaan kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan kelompok sekolah yang hilang yang terkubur di bawah peringatan Yelp.",
-  "draftSubtitle": "Duet mempelajari jenis pelajaran Anda, harga grup, dan nada. Ketika pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan ketersediaan, apa saja yang disertakan, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
-  "agentSubtitle": "\"Adakah pemesanan grup yang akan dilakukan minggu ini?\" \"Draft balasan ke sekolah dengan ketersediaan.\" Duet mengetahui inbox dan jadwal Anda — tanyakan saja.",
+  "categorizationSubtitle": "Chiefy secara otomatis menandai setiap email sehingga Anda melihat pemesanan pelajaran terlebih dahulu, pertanyaan kedua, dan tidak ada kebisingan. Tidak ada lagi pertanyaan kelompok sekolah yang hilang yang terkubur di bawah peringatan Yelp.",
+  "draftSubtitle": "Chiefy mempelajari jenis pelajaran Anda, harga grup, dan nada. Ketika pertanyaan pemesanan muncul, ia akan menyusun balasan lengkap dengan ketersediaan, apa saja yang disertakan, dan apa yang harus dibawa. Anda meninjau dan mengirim.",
+  "agentSubtitle": "\"Adakah pemesanan grup yang akan dilakukan minggu ini?\" \"Draft balasan ke sekolah dengan ketersediaan.\" Chiefy mengetahui inbox dan jadwal Anda — tanyakan saja.",
   "categorizationEmails": [
     {
       "from": "Rachel T.",
@@ -127,31 +127,31 @@
     {
       "name": "Pelatih Mike T.",
       "title": "Pemilik Sekolah Selancar, CA",
-      "quote": "Saya di dalam air mengajar 6 jam sehari. Pada saat saya memeriksa email, separuh pemesanan telah diberikan kepada orang lain. Sekarang draf Duet membalas dengan harga dan ketersediaan saya — saya hanya meninjau antar sesi.",
+      "quote": "Saya di dalam air mengajar 6 jam sehari. Pada saat saya memeriksa email, separuh pemesanan telah diberikan kepada orang lain. Sekarang draf Chiefy membalas dengan harga dan ketersediaan saya — saya hanya meninjau antar sesi.",
       "avatarKey": "michael"
     },
     {
       "name": "Jen & Mark S.",
       "title": "Pelajaran & Penyewaan Paddleboard, HI",
-      "quote": "Kami menjalankan pelajaran dan persewaan papan dari inbox yang sama. Duet langsung mengetahui perbedaannya — pertanyaan persewaan mendapatkan jawaban persewaan, pertanyaan pelajaran mendapatkan detail pelajaran. Ini seperti memiliki meja depan.",
+      "quote": "Kami menjalankan pelajaran dan persewaan papan dari inbox yang sama. Chiefy langsung mengetahui perbedaannya — pertanyaan persewaan mendapatkan jawaban persewaan, pertanyaan pelajaran mendapatkan detail pelajaran. Ini seperti memiliki meja depan.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Dani R.",
       "title": "Instruktur Selancar, FL",
-      "quote": "Pemesanan grup sekolah biasanya menerima 10 email bolak-balik. Sekarang Duet menyusun balasan pertama dengan tarif grup, apa saja yang disertakan, dan slip izin. Memotong seluruh utas menjadi dua.",
+      "quote": "Pemesanan grup sekolah biasanya menerima 10 email bolak-balik. Sekarang Chiefy menyusun balasan pertama dengan tarif grup, apa saja yang disertakan, dan slip izin. Memotong seluruh utas menjadi dua.",
       "avatarKey": "johnny"
     },
     {
       "name": "Fran C.",
       "title": "Tur & Pelajaran SUP, ATAU",
-      "quote": "Musim puncak membunuh saya — 30 email sehari tentang kondisi, harga, apa yang harus dibawa. Lima pertanyaan yang sama berulang kali. Duet menangani semuanya dan suaranya persis seperti saya.",
+      "quote": "Musim puncak membunuh saya — 30 email sehari tentang kondisi, harga, apa yang harus dibawa. Lima pertanyaan yang sama berulang kali. Chiefy menangani semuanya dan suaranya persis seperti saya.",
       "avatarKey": "francesca"
     },
     {
       "name": "Sarah K.",
       "title": "Direktur Perkemahan Selancar Anak, SC",
-      "quote": "Orang tua mengirim email paling lama. Tanggal perkemahan, alergi, tingkat keahlian, waktu penjemputan. Duet menyusun balasan mendetail yang mencakup semuanya, jadi saya tidak mengetik paragraf pada jam 10 malam setelah seharian penuh di pantai.",
+      "quote": "Orang tua mengirim email paling lama. Tanggal perkemahan, alergi, tingkat keahlian, waktu penjemputan. Chiefy menyusun balasan mendetail yang mencakup semuanya, jadi saya tidak mengetik paragraf pada jam 10 malam setelah seharian penuh di pantai.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Mulai uji coba gratis Anda. Hubungkan inbox Anda dalam 30 detik.",
   "verticalFaqs": [
     {
-      "question": "Apakah Duet menangani berbagai jenis pelajaran dan penyewaan peralatan?",
-      "answer": "Ya. Duet mempelajari semua penawaran Anda — pelajaran privat, pelajaran kelompok, perkemahan anak-anak, persewaan papan, tur SUP. Saat ada pertanyaan, ia akan menyusun balasan dengan harga, durasi, apa saja yang disertakan, dan apa yang harus dibawa. Ia mengetahui bahwa email grup sekolah memerlukan detail yang berbeda dari pemesanan les privat."
+      "question": "Apakah Chiefy menangani berbagai jenis pelajaran dan penyewaan peralatan?",
+      "answer": "Ya. Chiefy mempelajari semua penawaran Anda — pelajaran privat, pelajaran kelompok, perkemahan anak-anak, persewaan papan, tur SUP. Saat ada pertanyaan, ia akan menyusun balasan dengan harga, durasi, apa saja yang disertakan, dan apa yang harus dibawa. Ia mengetahui bahwa email grup sekolah memerlukan detail yang berbeda dari pemesanan les privat."
     },
     {
       "question": "Bagaimana dengan pertanyaan cuaca dan kondisi?",
-      "answer": "Duet mempelajari cara Anda biasanya menangani email ketentuan — kebijakan Anda tentang pembatalan, penjadwalan ulang, dan ketentuan apa yang Anda ajarkan. Saat seseorang mengirim email menanyakan apakah pelajarannya akan dilanjutkan, Duet akan menyusun balasan yang sesuai dengan nada dan kebijakan Anda yang biasa. Anda meninjau dan mengirim dalam hitungan detik."
+      "answer": "Chiefy mempelajari cara Anda biasanya menangani email ketentuan — kebijakan Anda tentang pembatalan, penjadwalan ulang, dan ketentuan apa yang Anda ajarkan. Saat seseorang mengirim email menanyakan apakah pelajarannya akan dilanjutkan, Chiefy akan menyusun balasan yang sesuai dengan nada dan kebijakan Anda yang biasa. Anda meninjau dan mengirim dalam hitungan detik."
     }
   ],
   "pricingNote": "Dengan $90/pelajaran, dua pemesanan tersimpan membayar Pro selama lebih dari setahun."

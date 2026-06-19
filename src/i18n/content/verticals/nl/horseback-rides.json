@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail voor paardrijtochten en wandelgidsen | AI-e-mailassistent",
-  "metaDescription": "Duet Mail helpt trailride-operators direct te reageren op boekings-e-mails - zelfs vanuit het zadel. Door AI opgestelde antwoorden met uw prijzen, passagiersvereisten en stem.",
+  "pageTitle": "Chiefy voor paardrijtochten en wandelgidsen | AI-e-mailassistent",
+  "metaDescription": "Chiefy helpt trailride-operators direct te reageren op boekings-e-mails - zelfs vanuit het zadel. Door AI opgestelde antwoorden met uw prijzen, passagiersvereisten en stem.",
   "heroBadge": "Vertrouwd door meer dan 300 wandelgidsen",
   "heroHeadline": "Uw e-mailassistent terwijl u onderweg bent",
-  "heroSubline": "Duet leert uw rittypes, prijzen, rijdervereisten en trailomstandigheden kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
+  "heroSubline": "Chiefy leert uw rittypes, prijzen, rijdervereisten en trailomstandigheden kennen en stelt vervolgens e-mailantwoorden op, zodat u nooit een boeking verliest door een trage reactie.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "rit",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "Eén opgeslagen groepsrit levert meer dan twee jaar Duet op."
+    "punchline": "Eén opgeslagen groepsrit levert meer dan twee jaar Chiefy op."
   },
-  "categorizationSubtitle": "Duet tagt automatisch elke e-mail, zodat je eerst boekingsaanvragen ziet, daarna vragen van passagiers en nooit meer lawaai. U hoeft nooit meer een groepsaanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
-  "draftSubtitle": "Duet leert uw rittypes, prijzen en vereisten. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met routegegevens, prijzen en kleding. Je beoordeelt en verzendt.",
-  "agentSubtitle": "\"Zijn er ritten open dit weekend?\" \"Stel een antwoord op voor Jessica met beschikbaarheid op zaterdag.\"Duet kent uw inbox en agenda — vraag het maar.",
+  "categorizationSubtitle": "Chiefy tagt automatisch elke e-mail, zodat je eerst boekingsaanvragen ziet, daarna vragen van passagiers en nooit meer lawaai. U hoeft nooit meer een groepsaanvraag te missen die verborgen is onder TripAdvisor-waarschuwingen.",
+  "draftSubtitle": "Chiefy leert uw rittypes, prijzen en vereisten. Wanneer er een boekingsaanvraag binnenkomt, wordt er een volledig antwoord opgesteld met routegegevens, prijzen en kleding. Je beoordeelt en verzendt.",
+  "agentSubtitle": "\"Zijn er ritten open dit weekend?\" \"Stel een antwoord op voor Jessica met beschikbaarheid op zaterdag.\"Chiefy kent uw inbox en agenda — vraag het maar.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Rancheigenaar en wandelgids, MT",
-      "quote": "Ik ben 6 uur per dag op pad zonder mobiele verbinding. Tegen de tijd dat ik terugkwam, had de helft van de mensen ergens anders geboekt. Duet stelt nu reacties op met mijn prijzen en ritgegevens - ik bekijk ze gewoon en verzend ze wanneer ik terugkom in de schuur.",
+      "quote": "Ik ben 6 uur per dag op pad zonder mobiele verbinding. Tegen de tijd dat ik terugkwam, had de helft van de mensen ergens anders geboekt. Chiefy stelt nu reacties op met mijn prijzen en ritgegevens - ik bekijk ze gewoon en verzend ze wanneer ik terugkom in de schuur.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Touroperator te paard, AZ",
-      "quote": "We krijgen tientallen e-mails waarin we hetzelfde vragen: gewichtslimieten, wat we moeten dragen, leeftijdsvereisten. Duet regelt het allemaal en de antwoorden lijken precies op die van mij. Mijn gasten hebben geen idee dat het AI is.",
+      "quote": "We krijgen tientallen e-mails waarin we hetzelfde vragen: gewichtslimieten, wat we moeten dragen, leeftijdsvereisten. Chiefy regelt het allemaal en de antwoorden lijken precies op die van mij. Mijn gasten hebben geen idee dat het AI is.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Trail Ride-gids, CO",
-      "quote": "Het hoogseizoen was moordend voor mij. 30+ e-mails per dag naast hardloopritten. Duet sorteert de boekingsaanvragen op basis van de ruis en stelt antwoorden op die alles bevatten: prijzen, wat u moet meenemen, alles. Ik heb mijn avonden terug.",
+      "quote": "Het hoogseizoen was moordend voor mij. 30+ e-mails per dag naast hardloopritten. Chiefy sorteert de boekingsaanvragen op basis van de ruis en stelt antwoorden op die alles bevatten: prijzen, wat u moet meenemen, alles. Ik heb mijn avonden terug.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Rij-instructeur en boekingsmanager, TX",
-      "quote": "We organiseren zonsondergangritten, ochtendritten en privélessen - elk met verschillende prijzen en vereisten. Duet heb het allemaal in een week geleerd. Het stelt elke keer het juiste antwoord op voor het juiste rittype.",
+      "quote": "We organiseren zonsondergangritten, ochtendritten en privélessen - elk met verschillende prijzen en vereisten. Chiefy heb het allemaal in een week geleerd. Het stelt elke keer het juiste antwoord op voor het juiste rittype.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Familie Ranch & Trail Rides, CA",
-      "quote": "De gevoelige e-mails waren het ergste: iemand die vroeg of ze te zwaar waren, of dat hun kind oud genoeg was. Duet behandelt deze met dezelfde zorg als ik dat zou doen. professioneel, vriendelijk en accuraat. Dat alleen al is de moeite waard.",
+      "quote": "De gevoelige e-mails waren het ergste: iemand die vroeg of ze te zwaar waren, of dat hun kind oud genoeg was. Chiefy behandelt deze met dezelfde zorg als ik dat zou doen. professioneel, vriendelijk en accuraat. Dat alleen al is de moeite waard.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Start uw gratis proefperiode. Verbind uw inbox in 30 seconden.",
   "verticalFaqs": [
     {
-      "question": "Hoe gaat Duet om met gevoelige vragen over gewicht of ervaringsvereisten?",
-      "answer": "Duet leert uw specifieke beleid kennen en weerspiegelt uw toon. Wanneer iemand vraagt ​​naar gewichtslimieten of ervaringsvereisten, wordt er professioneel en hartelijk gereageerd: de informatie wordt gedeeld die hij of zij nodig heeft, zonder het ongemakkelijk te maken. Je zet één keer de toon en Duet volgt deze consequent, zodat iedere gast zich gerespecteerd voelt."
+      "question": "Hoe gaat Chiefy om met gevoelige vragen over gewicht of ervaringsvereisten?",
+      "answer": "Chiefy leert uw specifieke beleid kennen en weerspiegelt uw toon. Wanneer iemand vraagt ​​naar gewichtslimieten of ervaringsvereisten, wordt er professioneel en hartelijk gereageerd: de informatie wordt gedeeld die hij of zij nodig heeft, zonder het ongemakkelijk te maken. Je zet één keer de toon en Chiefy volgt deze consequent, zodat iedere gast zich gerespecteerd voelt."
     },
     {
-      "question": "Kan Duet groepsboekingen met verschillende passagiersbehoeften afhandelen?",
-      "answer": "Ja. Duet leert uw rittypes, groepsgroottes, minimumleeftijden en eventuele rijderspecifieke vereisten. Wanneer een familie of groep een e-mail stuurt over een boeking, wordt er een antwoord opgesteld met de prijzen voor de volledige groep, wat elke passagier moet weten en de beschikbare tijdvakken. U controleert en verzendt – heen en weer is niet nodig."
+      "question": "Kan Chiefy groepsboekingen met verschillende passagiersbehoeften afhandelen?",
+      "answer": "Ja. Chiefy leert uw rittypes, groepsgroottes, minimumleeftijden en eventuele rijderspecifieke vereisten. Wanneer een familie of groep een e-mail stuurt over een boeking, wordt er een antwoord opgesteld met de prijzen voor de volledige groep, wat elke passagier moet weten en de beschikbare tijdvakken. U controleert en verzendt – heen en weer is niet nodig."
     }
   ],
   "pricingNote": "Bij $ 100/persoon voor een groep van 6 personen betaalt één opgeslagen rit meer dan twee jaar Pro."

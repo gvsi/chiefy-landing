@@ -2,7 +2,7 @@
 title: "Ofegar-se en missatges? Estratègies expertes per gestionar la vostra safata d'entrada Gmail"
 description: "Atura la sobrecàrrega de correu electrònic! Apreneu estratègies expertes per gestionar la vostra safata d'entrada Gmail, des de tàctiques clàssiques fins a eines AI, i recupera la vostra productivitat."
 publishedAt: 2025-07-04
-author: "Duet Mail Team"
+author: "Chiefy Team"
 tags: ["AI","Gmail","Gestió de la safata d'entrada","Correu electrònic"]
 draft: false
 ---
@@ -218,7 +218,7 @@ Els assistents de correu electrònic AI van més enllà de la simple automatitza
 **El benefici:** en comptes de cavar a través de la pila, el AI apareix automàticament als correus electrònics que exigeixen una acció immediata. Això redueix dràsticament el temps d'ordenació, assegura que no es perdin articles crítics, redueix l'estrès de la sobrecàrrega de la safata d'entrada i us permet centrar la vostra energia en un treball impactant en lloc de l'administració de la safata d'entrada.
 
 
-**Enllaç Duet Mail (contextual):** _Aquesta classificació intel·ligent és exactament el que necessiten els professionals ocupats. És on sobresurt eines com _[_Duet Mail_](https://duetmail.com/)_, utilitzant **AI Triage** per analitzar la urgència, les accions necessàries i les decisions, presentant-les clarament en un **Tauler de control centrat** perquè sàpigues immediatament què necessita atenció._
+**Enllaç Chiefy (contextual):** _Aquesta classificació intel·ligent és exactament el que necessiten els professionals ocupats. És on sobresurt eines com _[_Chiefy_](https://chiefy.com/)_, utilitzant **AI Triage** per analitzar la urgència, les accions necessàries i les decisions, presentant-les clarament en un **Tauler de control centrat** perquè sàpigues immediatament què necessita atenció._
 
 
 ### Resum intel·ligent: comprensió de fils llargs i fitxers adjunts a l'instant
@@ -305,4 +305,4 @@ La tecnologia, especialment l'augment dels assistents de correu electrònic inte
 Dominar el teu Gmail no és només aconseguir un espai digital ordenat. Es tracta de reduir significativament l'estrès al lloc de treball, recuperar hores de temps valuós cada setmana, protegir la vostra capacitat de centrar-vos en un treball profund i significatiu i, en definitiva, augmentar la vostra eficàcia i benestar generals. Combinant hàbits disciplinats amb l'ús estratègic d'eines intel·ligents, podeu transformar la vostra safata d'entrada d'una font de por a un centre de comunicació manejable.
 
 
-Estàs preparat per experimentar com AI pot transformar la teva relació amb el correu electrònic? Fes el primer pas cap a una jornada laboral més tranquil·la i productiva. Descobriu com [Duet Mail](https://duetmail.com/) utilitza el triatge AI, el resum intel·ligent i l'esborrany autèntic per ajudar professionals ocupats com tu a conquerir la seva safata d'entrada.
+Estàs preparat per experimentar com AI pot transformar la teva relació amb el correu electrònic? Fes el primer pas cap a una jornada laboral més tranquil·la i productiva. Descobriu com [Chiefy](https://chiefy.com/) utilitza el triatge AI, el resum intel·ligent i l'esborrany autèntic per ajudar professionals ocupats com tu a conquerir la seva safata d'entrada.

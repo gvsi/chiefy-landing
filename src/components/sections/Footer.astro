@@ -39,7 +39,7 @@ const groups: FooterGroup[] = [
             {
                 id: "chrome-extension",
                 labelKey: "footer.chromeExtension",
-                href: "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
+                href: "https://chromewebstore.google.com/detail/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=chiefy-landing",
                 external: true,
             },
         ],
@@ -71,25 +71,7 @@ const groups: FooterGroup[] = [
         titleKey: "footer.connect",
         links: [
             { id: "blog", labelKey: "nav.blog", href: localizedPath(locale, { kind: "blogIndex" }) },
-            {
-                id: "linkedin",
-                labelKey: "footer.linkedin",
-                href: "https://www.linkedin.com/company/duetmail",
-                external: true,
-            },
-            { id: "x", labelKey: "footer.x", href: "https://x.com/DuetMailApp", external: true },
-            {
-                id: "instagram",
-                labelKey: "footer.instagram",
-                href: "https://www.instagram.com/duetmail/",
-                external: true,
-            },
-            {
-                id: "startup-fame",
-                labelKey: "footer.startupFame",
-                href: "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
-                external: true,
-            },
+            { id: "contact", labelKey: "footer.contact", href: "mailto:hello@chiefy.com" },
         ],
     },
 ];
@@ -101,27 +83,19 @@ const groups: FooterGroup[] = [
             <div class="footer-brand">
                 <a href={homePath} class="flex items-center gap-2">
                     <img
-                        src="/favicon.svg"
-                        width="27"
+                        src="/logo-white.png"
+                        width="96"
+                        height="33"
+                        class="h-[27px] w-auto logo-dark"
+                        alt="Chiefy"
+                        decoding="async"
+                    />
+                    <img
+                        src="/logo-combined.png"
+                        width="96"
                         height="27"
-                        class="h-[27px] w-[27px]"
-                        alt=""
-                        decoding="async"
-                    />
-                    <img
-                        src="/logo.svg"
-                        width="100"
-                        height="17"
-                        class="h-[17px] w-auto logo-dark"
-                        alt="Duet Mail"
-                        decoding="async"
-                    />
-                    <img
-                        src="/logo_light.svg"
-                        width="100"
-                        height="17"
-                        class="h-[17px] w-auto logo-light"
-                        alt="Duet Mail"
+                        class="h-[27px] w-auto logo-light"
+                        alt="Chiefy"
                         decoding="async"
                     />
                 </a>

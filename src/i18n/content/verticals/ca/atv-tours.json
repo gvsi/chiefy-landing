@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail per a excursions en ATV i UTV | AI Assistent de correu electrònic",
-  "metaDescription": "Duet Mail ajuda els guies turístics d'ATV i UTV a respondre als correus electrònics de reserva a l'instant, fins i tot des del camí. Respostes redactades per AI amb els vostres preus, requisits i veu.",
+  "pageTitle": "Chiefy per a excursions en ATV i UTV | AI Assistent de correu electrònic",
+  "metaDescription": "Chiefy ajuda els guies turístics d'ATV i UTV a respondre als correus electrònics de reserva a l'instant, fins i tot des del camí. Respostes redactades per AI amb els vostres preus, requisits i veu.",
   "heroBadge": "Confiat per més de 200 guies turístics",
   "heroHeadline": "El vostre assistent de correu electrònic mentre esteu al camí",
-  "heroSubline": "Duet coneix els vostres tipus de viatge, els vostres preus i els requisits dels usuaris; després redacta les respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
+  "heroSubline": "Chiefy coneix els vostres tipus de viatge, els vostres preus i els requisits dels usuaris; després redacta les respostes per correu electrònic perquè mai perdeu una reserva per una resposta lenta.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grup (4 màquines)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Una reserva de grup desada paga un any de Duet."
+    "punchline": "Una reserva de grup desada paga un any de Chiefy."
   },
-  "categorizationSubtitle": "Duet etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, en segon lloc les preguntes d'assegurança i el soroll mai. Ja no et perdis una consulta de grup soterrada sota les alertes de TripAdvisor.",
-  "draftSubtitle": "Duet coneix les rutes, els preus i els requisits dels vostres viatges. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, els preus i què cal portar. Tu revisa i envia.",
-  "agentSubtitle": "\"Algun grup reservat per aquest cap de setmana?\" \"Esborra una resposta a Rachel amb disponibilitat dissabte\". Duet coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
+  "categorizationSubtitle": "Chiefy etiqueta automàticament cada correu electrònic perquè vegeu primer les sol·licituds de reserva, en segon lloc les preguntes d'assegurança i el soroll mai. Ja no et perdis una consulta de grup soterrada sota les alertes de TripAdvisor.",
+  "draftSubtitle": "Chiefy coneix les rutes, els preus i els requisits dels vostres viatges. Quan arriba una consulta de reserva, redacta una resposta completa amb els detalls del viatge, els preus i què cal portar. Tu revisa i envia.",
+  "agentSubtitle": "\"Algun grup reservat per aquest cap de setmana?\" \"Esborra una resposta a Rachel amb disponibilitat dissabte\". Chiefy coneix la vostra safata d'entrada i la vostra programació; només cal que ho pregunteu.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike D.",
       "title": "Guia ATV, sud d'Utah",
-      "quote": "Dirigeixo excursions de 8 hores pels canyons amb servei de cel·les zero. Quan vaig tornar, la meitat dels meus correus electrònics de reserva s'havien refredat. Duet redacta respostes amb els meus preus i la meva informació de seguiment; només les reviso al final del dia.",
+      "quote": "Dirigeixo excursions de 8 hores pels canyons amb servei de cel·les zero. Quan vaig tornar, la meitat dels meus correus electrònics de reserva s'havien refredat. Chiefy redacta respostes amb els meus preus i la meva informació de seguiment; només les reviso al final del dia.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTV Tour Operator, Colorado",
-      "quote": "Fem visites els 7 dies de la setmana i només les preguntes d'assegurança i exempció m'estaven devorant els matins. Duet s'encarrega de tot: requisits del motorista, restriccions d'edat, què cal portar. Sona exactament com jo.",
+      "quote": "Fem visites els 7 dies de la setmana i només les preguntes d'assegurança i exempció m'estaven devorant els matins. Chiefy s'encarrega de tot: requisits del motorista, restriccions d'edat, què cal portar. Sona exactament com jo.",
       "avatarKey": "francesca"
     },
     {
       "name": "Jake R.",
       "title": "Guia turístic en jeep, Moab",
-      "quote": "La gent envia un correu electrònic preguntant quina ruta és adequada per al seu grup, quin nivell d'experiència necessiten, si els nens poden muntar. Les mateixes 5 preguntes una i altra vegada. Duet clava cadascun d'ells.",
+      "quote": "La gent envia un correu electrònic preguntant quina ruta és adequada per al seu grup, quin nivell d'experiència necessiten, si els nens poden muntar. Les mateixes 5 preguntes una i altra vegada. Chiefy clava cadascun d'ells.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Passava més d'una hora cada nit responent les mateixes preguntes de disponibilitat. Ara Duet redacta les respostes mentre estic per la pista. El meu temps de resposta va passar d'hores a minuts.",
+      "quote": "Passava més d'una hora cada nit responent les mateixes preguntes de disponibilitat. Ara Chiefy redacta les respostes mentre estic per la pista. El meu temps de resposta va passar d'hores a minuts.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "Tours familiars en quad, Sedona",
-      "quote": "Tenim moltes famílies que pregunten sobre els camins per a principiants i els requisits d'edat. Duet ha après totes les nostres opcions de viatge i recomana la correcta en cada resposta. Els clients no poden notar la diferència.",
+      "quote": "Tenim moltes famílies que pregunten sobre els camins per a principiants i els requisits d'edat. Chiefy ha après totes les nostres opcions de viatge i recomana la correcta en cada resposta. Els clients no poden notar la diferència.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Comença la teva prova gratuïta. Connecta la teva safata d'entrada en 30 segons.",
   "verticalFaqs": [
     {
-      "question": "Duet gestiona les preguntes sobre assegurances i exempcions?",
-      "answer": "Sí. Duet coneix els requisits dels vostres motoristes: assegurança de responsabilitat civil, restriccions d'edat, detalls de la renúncia, què han de portar els usuaris. Quan algú envia un correu electrònic preguntant què necessita abans de la seva gira, Duet redacta una resposta completa amb tots els detalls. Revisa i toca envia."
+      "question": "Chiefy gestiona les preguntes sobre assegurances i exempcions?",
+      "answer": "Sí. Chiefy coneix els requisits dels vostres motoristes: assegurança de responsabilitat civil, restriccions d'edat, detalls de la renúncia, què han de portar els usuaris. Quan algú envia un correu electrònic preguntant què necessita abans de la seva gira, Chiefy redacta una resposta completa amb tots els detalls. Revisa i toca envia."
     },
     {
-      "question": "Estic tot el dia a la pista sense servei mòbil. Com ajuda Duet?",
-      "answer": "És exactament per això que als guies els encanta Duet. Mentre dirigeixes un recorregut de 6 a 8 hores sense senyal, les consultes de reserva s'acumulen. Duet redacta respostes a cadascun d'ells: preus, disponibilitat, lloc de reunió, què posar-se. Quan torneu, reviseu els esborranys i els envieu. La majoria de guies ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta."
+      "question": "Estic tot el dia a la pista sense servei mòbil. Com ajuda Chiefy?",
+      "answer": "És exactament per això que als guies els encanta Chiefy. Mentre dirigeixes un recorregut de 6 a 8 hores sense senyal, les consultes de reserva s'acumulen. Chiefy redacta respostes a cadascun d'ells: preus, disponibilitat, lloc de reunió, què posar-se. Quan torneu, reviseu els esborranys i els envieu. La majoria de guies ens diuen que els estalvia entre 1 i 2 hores de temps de correu electrònic al dia durant la temporada alta."
     }
   ],
   "pricingNote": "Amb 200 $/màquina, un grup desat de 4 paga més d'un any de Pro."

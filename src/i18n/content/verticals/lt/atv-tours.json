@@ -1,10 +1,10 @@
 {
   "slug": "atv-tours",
-  "pageTitle": "Duet Mail ATVirUTVEkskursijos |AI el. pašto padėjėjas",
-  "metaDescription": "Duet Mail padedaATVirUTVkelionių gidams akimirksniu atsakyti į rezervacijos el. laiškus – net ir iš tako.AI parengti atsakymai su jūsų kainomis, reikalavimais ir balsu.",
+  "pageTitle": "Chiefy ATVirUTVEkskursijos |AI el. pašto padėjėjas",
+  "metaDescription": "Chiefy padedaATVirUTVkelionių gidams akimirksniu atsakyti į rezervacijos el. laiškus – net ir iš tako.AI parengti atsakymai su jūsų kainomis, reikalavimais ir balsu.",
   "heroBadge": "Pasitiki daugiau nei 200 kelionių gidų",
   "heroHeadline": "Jūsų el. pašto asistentas, kai esate kelyje",
-  "heroSubline": "Duet sužino jūsų kelionių tipus, kainas ir vairuotojo reikalavimus – tada parengia atsakymų el. paštu juodraščius, kad niekada neprarastumėte užsakymo dėl lėto atsakymo.",
+  "heroSubline": "Chiefy sužino jūsų kelionių tipus, kainas ir vairuotojo reikalavimus – tada parengia atsakymų el. paštu juodraščius, kad niekada neprarastumėte užsakymo dėl lėto atsakymo.",
   "inboxEmails": [
     {
       "from": "Rachel W.",
@@ -49,11 +49,11 @@
     "bookingUnit": "grupė (4 mašinos)",
     "lostPerMonth": "3",
     "monthlyLoss": "$2,400",
-    "punchline": "Vienas išsaugotas grupinis užsakymas sumokama Duet metams."
+    "punchline": "Vienas išsaugotas grupinis užsakymas sumokama Chiefy metams."
   },
-  "categorizationSubtitle": "Duet automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, antra – draudimo klausimus, o triukšmą – niekada. Daugiau netrūksta grupės užklausos, paslėptos poTripAdvisorįspėjimais.",
-  "draftSubtitle": "Duet sužinos jūsų kelionių maršrutus, kainas ir motociklininko reikalavimus. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia kelionės informacija, kainomis ir tuo, ką atsinešti. Jūs peržiūrite ir siunčiate.",
-  "agentSubtitle": "„Ar šiam savaitgaliui užsakytos grupės? „Surašyk atsakymo projektą Reičelei, jei bus pasiekiamas šeštadienį“. Duet žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
+  "categorizationSubtitle": "Chiefy automatiškai pažymi kiekvieną el. laišką, todėl pirmiausia matysite užsakymo užklausas, antra – draudimo klausimus, o triukšmą – niekada. Daugiau netrūksta grupės užklausos, paslėptos poTripAdvisorįspėjimais.",
+  "draftSubtitle": "Chiefy sužinos jūsų kelionių maršrutus, kainas ir motociklininko reikalavimus. Pasiekus užsakymo užklausą, parengiamas išsamus atsakymas su išsamia kelionės informacija, kainomis ir tuo, ką atsinešti. Jūs peržiūrite ir siunčiate.",
+  "agentSubtitle": "„Ar šiam savaitgaliui užsakytos grupės? „Surašyk atsakymo projektą Reičelei, jei bus pasiekiamas šeštadienį“. Chiefy žino jūsų gautuosius ir tvarkaraštį – tiesiog paklauskite.",
   "categorizationEmails": [
     {
       "from": "Rachel W.",
@@ -127,31 +127,31 @@
     {
       "name": "Mike'as D.",
       "title": "ATVvadovas, Pietų Juta",
-      "quote": "Vedu 8 valandų ekskursijas po kanjonus su nulinių ląstelių paslauga. Kol grįžau, pusė mano rezervavimo el. laiškų buvo atšalę. Duet rengia atsakymų juodraščius su mano kainodara ir maršruto informacija – tiesiog peržiūriu juos dienos pabaigoje.",
+      "quote": "Vedu 8 valandų ekskursijas po kanjonus su nulinių ląstelių paslauga. Kol grįžau, pusė mano rezervavimo el. laiškų buvo atšalę. Chiefy rengia atsakymų juodraščius su mano kainodara ir maršruto informacija – tiesiog peržiūriu juos dienos pabaigoje.",
       "avatarKey": "michael"
     },
     {
       "name": "Tara M.",
       "title": "UTVKelionių organizatorius, Koloradas",
-      "quote": "Mes rengiame keliones 7 dienas per savaitę, o vien draudimo ir atsisakymo klausimai smogė mano rytams. Duet sutvarko viską – reikalavimus vairuotojui, amžiaus apribojimus, ką pasiimti. Skamba lygiai taip pat kaip aš.",
+      "quote": "Mes rengiame keliones 7 dienas per savaitę, o vien draudimo ir atsisakymo klausimai smogė mano rytams. Chiefy sutvarko viską – reikalavimus vairuotojui, amžiaus apribojimus, ką pasiimti. Skamba lygiai taip pat kaip aš.",
       "avatarKey": "francesca"
     },
     {
       "name": "Džeikas R.",
       "title": "Jeep Tour Guide, Moab",
-      "quote": "Žmonės el. paštu klausia, kuris takas tinkamas jų grupei, kokio lygio jiems reikia, ar vaikai gali važiuoti. Tie patys 5 klausimai vėl ir vėl. Duet prikala kiekvieną iš jų.",
+      "quote": "Žmonės el. paštu klausia, kuris takas tinkamas jų grupei, kokio lygio jiems reikia, ar vaikai gali važiuoti. Tie patys 5 klausimai vėl ir vėl. Chiefy prikala kiekvieną iš jų.",
       "avatarKey": "johnny"
     },
     {
       "name": "Nicole S.",
       "title": "Off-Road Adventures, AZ",
-      "quote": "Kiekvieną vakarą praleisdavau daugiau nei valandą atsakydamas į tuos pačius prieinamumo klausimus. Dabar Duet rengia atsakymų juodraščius, kol aš esu kelyje. Mano atsakymo laikas svyravo nuo valandų iki minučių.",
+      "quote": "Kiekvieną vakarą praleisdavau daugiau nei valandą atsakydamas į tuos pačius prieinamumo klausimus. Dabar Chiefy rengia atsakymų juodraščius, kol aš esu kelyje. Mano atsakymo laikas svyravo nuo valandų iki minučių.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Amanda K.",
       "title": "ŠeimosATVEkskursijos, Sedona",
-      "quote": "Sulaukiame daug šeimų, kurios teiraujasi apie pradedančiųjų trasas ir amžiaus reikalavimus. Duet sužinojo visas mūsų kelionių parinktis ir kiekviename atsakyme rekomenduoja tinkamą. Klientai negali pasakyti skirtumo.",
+      "quote": "Sulaukiame daug šeimų, kurios teiraujasi apie pradedančiųjų trasas ir amžiaus reikalavimus. Chiefy sužinojo visas mūsų kelionių parinktis ir kiekviename atsakyme rekomenduoja tinkamą. Klientai negali pasakyti skirtumo.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Pradėkite nemokamą bandomąją versiją. Prijunkite gautuosius per 30 sekundžių.",
   "verticalFaqs": [
     {
-      "question": "Ar Duet sprendžia draudimo ir atsisakymo klausimus?",
-      "answer": "Taip. Duet sužino jūsų motociklininko reikalavimus – civilinės atsakomybės draudimą, amžiaus apribojimus, išsamią informaciją apie atsisakymą, ką motociklininkai turi atsivežti. Kai kas nors el. paštu klausia, ko jiems reikia prieš kelionę,Duet parengia išsamų atsakymo juodraštį, kuriame nurodoma visa specifika. Jūs peržiūrite ir bakstelėkite siųsti."
+      "question": "Ar Chiefy sprendžia draudimo ir atsisakymo klausimus?",
+      "answer": "Taip. Chiefy sužino jūsų motociklininko reikalavimus – civilinės atsakomybės draudimą, amžiaus apribojimus, išsamią informaciją apie atsisakymą, ką motociklininkai turi atsivežti. Kai kas nors el. paštu klausia, ko jiems reikia prieš kelionę,Chiefy parengia išsamų atsakymo juodraštį, kuriame nurodoma visa specifika. Jūs peržiūrite ir bakstelėkite siųsti."
     },
     {
-      "question": "Visą dieną esu be mobiliojo ryšio paslaugų. Kaip Duet padeda?",
-      "answer": "Būtent todėl gidai myli Duet. Kol vedate 6–8 valandų kelionę be signalo, užsakymų užklausų kaupiasi. Duet juodraščiai atsako į kiekvieną iš jų – kaina, pasiekiamumas, susitikimo vieta, ką dėvėti. Grįžęs peržiūri juodraščius ir išsiunčia. Dauguma gidų mums sako, kad sezono piko metu per dieną jie sutaupo 1–2 valandas el. laiškų."
+      "question": "Visą dieną esu be mobiliojo ryšio paslaugų. Kaip Chiefy padeda?",
+      "answer": "Būtent todėl gidai myli Chiefy. Kol vedate 6–8 valandų kelionę be signalo, užsakymų užklausų kaupiasi. Chiefy juodraščiai atsako į kiekvieną iš jų – kaina, pasiekiamumas, susitikimo vieta, ką dėvėti. Grįžęs peržiūri juodraščius ir išsiunčia. Dauguma gidų mums sako, kad sezono piko metu per dieną jie sutaupo 1–2 valandas el. laiškų."
     }
   ],
   "pricingNote": "Kaina 200 USD už mašiną, viena sutaupyta 4 asmenų grupė per metus sumoka Pro."

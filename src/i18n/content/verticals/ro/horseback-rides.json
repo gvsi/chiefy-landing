@@ -1,10 +1,10 @@
 {
   "slug": "horseback-rides",
-  "pageTitle": "Duet Mail pentru călărie și ghiduri de traseu | AI Asistent de e-mail",
-  "metaDescription": "Duet Mail îi ajută pe operatorii de drumeții să răspundă instantaneu la e-mailurile de rezervare, chiar și din șa. Răspunsuri redactate de AI cu prețurile, cerințele pentru călători și vocea ta.",
+  "pageTitle": "Chiefy pentru călărie și ghiduri de traseu | AI Asistent de e-mail",
+  "metaDescription": "Chiefy îi ajută pe operatorii de drumeții să răspundă instantaneu la e-mailurile de rezervare, chiar și din șa. Răspunsuri redactate de AI cu prețurile, cerințele pentru călători și vocea ta.",
   "heroBadge": "De încredere de peste 300 de ghizi de trasee",
   "heroHeadline": "Asistentul tău de e-mail în timp ce ești pe drum",
-  "heroSubline": "Duet învață tipurile de călătorie, prețurile, cerințele pentru călători și condițiile traseului, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
+  "heroSubline": "Chiefy învață tipurile de călătorie, prețurile, cerințele pentru călători și condițiile traseului, apoi redactează răspunsuri prin e-mail, astfel încât să nu pierzi niciodată o rezervare din cauza unui răspuns lent.",
   "inboxEmails": [
     {
       "from": "Jessica T.",
@@ -49,11 +49,11 @@
     "bookingUnit": "plimbare",
     "lostPerMonth": "4",
     "monthlyLoss": "$2,400",
-    "punchline": "O călătorie de grup salvată plătește pentru peste doi ani de Duet."
+    "punchline": "O călătorie de grup salvată plătește pentru peste doi ani de Chiefy."
   },
-  "categorizationSubtitle": "Duet etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, pe al doilea rând întrebările pentru călători și zgomotul niciodată. Nu mai lipsește o anchetă de grup îngropată sub alertele TripAdvisor.",
-  "draftSubtitle": "Duet învață tipurile de călătorie, prețurile și cerințele tale. Când ajunge o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre traseu, prețuri și ce să poarte. Tu revizuiești și trimiți.",
-  "agentSubtitle": "— Vreo curse deschise în acest weekend? „Scrie un răspuns pentru Jessica cu disponibilitatea de sâmbătă”. Duet îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
+  "categorizationSubtitle": "Chiefy etichetează automat fiecare e-mail, astfel încât să vedeți mai întâi cererile de rezervare, pe al doilea rând întrebările pentru călători și zgomotul niciodată. Nu mai lipsește o anchetă de grup îngropată sub alertele TripAdvisor.",
+  "draftSubtitle": "Chiefy învață tipurile de călătorie, prețurile și cerințele tale. Când ajunge o solicitare de rezervare, acesta redactează un răspuns complet cu detalii despre traseu, prețuri și ce să poarte. Tu revizuiești și trimiți.",
+  "agentSubtitle": "— Vreo curse deschise în acest weekend? „Scrie un răspuns pentru Jessica cu disponibilitatea de sâmbătă”. Chiefy îți cunoaște căsuța de e-mail și calendarul - trebuie doar să întrebi.",
   "categorizationEmails": [
     {
       "from": "Jessica T.",
@@ -127,31 +127,31 @@
     {
       "name": "Jake H.",
       "title": "Proprietar de fermă și Ghid de traseu, MT",
-      "quote": "Sunt pe traseu 6 ore pe zi, fără servicii de telefonie mobilă. Când am revenit să răspund, jumătate din oameni rezervaseră în altă parte. Acum, Duet elaborează răspunsuri cu detaliile privind prețurile și cursele mele — doar examinez și trimit când mă întorc la hambar.",
+      "quote": "Sunt pe traseu 6 ore pe zi, fără servicii de telefonie mobilă. Când am revenit să răspund, jumătate din oameni rezervaseră în altă parte. Acum, Chiefy elaborează răspunsuri cu detaliile privind prețurile și cursele mele — doar examinez și trimit când mă întorc la hambar.",
       "avatarKey": "michael"
     },
     {
       "name": "Maria C.",
       "title": "Operator de turism cu cal, AZ",
-      "quote": "Primim zeci de e-mailuri care ne solicită același lucru — limitele de greutate, ce să purtam, cerințele de vârstă. Duet se ocupă de toate, iar răspunsurile sună exact ca mine. Oaspeții mei nu au idee că este AI.",
+      "quote": "Primim zeci de e-mailuri care ne solicită același lucru — limitele de greutate, ce să purtam, cerințele de vârstă. Chiefy se ocupă de toate, iar răspunsurile sună exact ca mine. Oaspeții mei nu au idee că este AI.",
       "avatarKey": "francesca"
     },
     {
       "name": "Tyler S.",
       "title": "Ghid de călătorie, CO",
-      "quote": "Sezonul de vârf mă ucidea. Peste 30 de e-mailuri pe zi, pe lângă cursele de alergare. Duet sortează cererile de rezervare din zgomot și redactează răspunsuri care includ totul — prețuri, ce să aducă, lotul. Mi-am primit serile înapoi.",
+      "quote": "Sezonul de vârf mă ucidea. Peste 30 de e-mailuri pe zi, pe lângă cursele de alergare. Chiefy sortează cererile de rezervare din zgomot și redactează răspunsuri care includ totul — prețuri, ce să aducă, lotul. Mi-am primit serile înapoi.",
       "avatarKey": "johnny"
     },
     {
       "name": "Rachel M.",
       "title": "Instructor de călărie și manager de rezervări, TX",
-      "quote": "Organizam plimbări la apus, dimineață și lecții private - fiecare cu prețuri și cerințe diferite. Duet a învățat totul într-o săptămână. Acesta redactează de fiecare dată răspunsul potrivit pentru tipul de călătorie potrivit.",
+      "quote": "Organizam plimbări la apus, dimineață și lecții private - fiecare cu prețuri și cerințe diferite. Chiefy a învățat totul într-o săptămână. Acesta redactează de fiecare dată răspunsul potrivit pentru tipul de călătorie potrivit.",
       "avatarKey": "jennifer"
     },
     {
       "name": "Diane K.",
       "title": "Family Ranch & Trail Rides, CA",
-      "quote": "E-mailurile sensibile au fost cele mai proaste – cineva care le-a întrebat dacă sunt prea grele sau dacă copilul lor este suficient de mare. Duet se ocupă de cei cu aceeași grijă cu mine. Profesional, amabil și precis. Numai asta merită.",
+      "quote": "E-mailurile sensibile au fost cele mai proaste – cineva care le-a întrebat dacă sunt prea grele sau dacă copilul lor este suficient de mare. Chiefy se ocupă de cei cu aceeași grijă cu mine. Profesional, amabil și precis. Numai asta merită.",
       "avatarKey": "sarah"
     }
   ],
@@ -159,12 +159,12 @@
   "ctaSubline": "Începe perioada de încercare gratuită. Conectează-ți căsuța de e-mail în 30 de secunde.",
   "verticalFaqs": [
     {
-      "question": "Cum tratează Duet întrebările sensibile despre cerințele de greutate sau experiență?",
-      "answer": "Duet învață politicile tale specifice și oglindește tonul tău. Când cineva întreabă despre limitele de greutate sau despre cerințele de experiență, acesta răspunde profesionist și călduros - împărtășind informațiile de care au nevoie fără a le face incomod. Dai tonul o dată și Duet îl urmează în mod constant, astfel încât fiecare oaspete să se simtă respectat."
+      "question": "Cum tratează Chiefy întrebările sensibile despre cerințele de greutate sau experiență?",
+      "answer": "Chiefy învață politicile tale specifice și oglindește tonul tău. Când cineva întreabă despre limitele de greutate sau despre cerințele de experiență, acesta răspunde profesionist și călduros - împărtășind informațiile de care au nevoie fără a le face incomod. Dai tonul o dată și Chiefy îl urmează în mod constant, astfel încât fiecare oaspete să se simtă respectat."
     },
     {
-      "question": "Poate Duet să gestioneze rezervările de grup cu nevoi diferite de călători?",
-      "answer": "Da. Duet învață tipurile de călătorie, dimensiunile grupurilor, vârsta minimă și orice cerințe specifice pentru călăreț. Când o familie sau un grup trimite e-mailuri despre rezervare, acesta redactează un răspuns care acoperă prețurile pentru întregul grup, ceea ce trebuie să știe fiecare călăreț și intervalele de timp disponibile. Revizuiești și trimiți - nu este nevoie de dus-întors."
+      "question": "Poate Chiefy să gestioneze rezervările de grup cu nevoi diferite de călători?",
+      "answer": "Da. Chiefy învață tipurile de călătorie, dimensiunile grupurilor, vârsta minimă și orice cerințe specifice pentru călăreț. Când o familie sau un grup trimite e-mailuri despre rezervare, acesta redactează un răspuns care acoperă prețurile pentru întregul grup, ceea ce trebuie să știe fiecare călăreț și intervalele de timp disponibile. Revizuiești și trimiți - nu este nevoie de dus-întors."
     }
   ],
   "pricingNote": "La 100 USD/persoană pentru un grup de 6, o călătorie salvată plătește pentru peste doi ani de Pro."

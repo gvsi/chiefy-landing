@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Duet Mail | AI ኢሜይል ረዳት ለGmail እና Outlook",
-    "description": "የDuet Mail's AI ኢሜይል ረዳት ኢሜይሎችን ያጠቃልላል፣ ምላሾችን ያዘጋጃል እና የገቢ መልእክት ሳጥንዎን ያደራጃል። ከ Gmail እና Outlook ጋር ይሰራል። በየሳምንቱ 4+ ሰዓታት ይቆጥቡ።"
+    "title": "Chiefy | AI ኢሜይል ረዳት ለGmail እና Outlook",
+    "description": "የChiefy's AI ኢሜይል ረዳት ኢሜይሎችን ያጠቃልላል፣ ምላሾችን ያዘጋጃል እና የገቢ መልእክት ሳጥንዎን ያደራጃል። ከ Gmail እና Outlook ጋር ይሰራል። በየሳምንቱ 4+ ሰዓታት ይቆጥቡ።"
   },
   "hero": {
     "badge": "አሁን ለGmail እና Outlook ይገኛል።",
@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "እርስዎን የሚመስሉ ረቂቆችን ኢሜይል ያድርጉ",
-        "description": "Duet AI ኢሜይል ጸሐፊ በጣም አስፈላጊ ለሆኑ ኢሜይሎችዎ ረቂቆችን ያዘጋጃል። የእርስዎን ድምጽ እና የአጻጻፍ ስልት ይማራል።",
+        "description": "Chiefy AI ኢሜይል ጸሐፊ በጣም አስፈላጊ ለሆኑ ኢሜይሎችዎ ረቂቆችን ያዘጋጃል። የእርስዎን ድምጽ እና የአጻጻፍ ስልት ይማራል።",
         "ariaLabel": "እርስዎን የሚመስሉ ረቂቆችን ኢሜይል ያድርጉ",
         "mockCopy": {
           "draftedColdEmail": "ለጆን ግላዊ የሆነ ቀዝቃዛ ኢሜይል አዘጋጅቻለሁ",
@@ -115,7 +115,7 @@
       {
         "id": "reminders",
         "title": "ብልህ አስታዋሾች",
-        "description": "ያዘጋጁት እና ይረሱት። Duet AI ሌሎች ምላሽ በማይሰጡበት ጊዜ መከታተልን ያስታውሳል፣ ስለዚህ ምንም ነገር በፍንጣቂው ውስጥ አይወድቅም።",
+        "description": "ያዘጋጁት እና ይረሱት። Chiefy AI ሌሎች ምላሽ በማይሰጡበት ጊዜ መከታተልን ያስታውሳል፣ ስለዚህ ምንም ነገር በፍንጣቂው ውስጥ አይወድቅም።",
         "ariaLabel": "ብልህ አስታዋሾች",
         "mockCopy": {
           "header": "AI-የተጎላበቱ ስማርት አስታዋሾች",
@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "የኢሜል ድርጅት እና ብልጥ የገቢ መልእክት ሳጥን ምደባ",
     "badge": "ድርጅት",
-    "title": "Duet የእርስዎን የገቢ መልእክት ሳጥን ያደራጃል።",
+    "title": "Chiefy የእርስዎን የገቢ መልእክት ሳጥን ያደራጃል።",
     "subtitle": "አውቶማቲክ ምድብ ጩኸትን ያጣራል እና አስፈላጊ የሆኑትን ነገሮች ያስተካክላል። እርምጃ ምን እንደሚያስፈልገው፣ FYI ብቻ ምን እንደሆነ እና ምን መጠበቅ እንደሚችል ወዲያውኑ ይመልከቱ።",
     "windowTitle": "የገቢ መልእክት ሳጥን",
     "providers": [
@@ -215,8 +215,8 @@
   "draftShowcase": {
     "ariaLabel": "AI ኢሜይል ማርቀቅ እና ምላሽ ማመንጨት",
     "badge": "ረቂቅ",
-    "title": "በድምጽዎ ውስጥ Duet ረቂቆች",
-    "subtitle": "Duet እንዴት እንደሚጽፉ ይማራል እና ከድምጽዎ ጋር የሚዛመዱ ምላሾችን ይቀርፃል። ይገምግሙ፣ ካስፈለገ ያስተካክሉ እና በሰከንዶች ውስጥ ይላኩ።",
+    "title": "በድምጽዎ ውስጥ Chiefy ረቂቆች",
+    "subtitle": "Chiefy እንዴት እንደሚጽፉ ይማራል እና ከድምጽዎ ጋር የሚዛመዱ ምላሾችን ይቀርፃል። ይገምግሙ፣ ካስፈለገ ያስተካክሉ እና በሰከንዶች ውስጥ ይላኩ።",
     "windowTitle": "አዲስ መልእክት",
     "fieldLabels": {
       "to": "ለ፡",
@@ -252,8 +252,8 @@
     "ariaLabel": "AI የኢሜይል ብልህነት እና ረዳት",
     "badge": "ብልህነት",
     "title": "ስለ ኢሜልዎ ማንኛውንም ነገር ይጠይቁ",
-    "subtitle": "ኢሜይሎችን እንዲያገኝ፣ የቀን መቁጠሪያዎን እንዲፈትሽ ወይም ምላሽ እንዲረቀቅ Duetን ይጠይቁ። የእርስዎን የገቢ መልእክት ሳጥን ይረዳል እና ወዲያውኑ ይመልሳል።",
-    "windowTitle": "Duet ወኪል",
+    "subtitle": "ኢሜይሎችን እንዲያገኝ፣ የቀን መቁጠሪያዎን እንዲፈትሽ ወይም ምላሽ እንዲረቀቅ Chiefyን ይጠይቁ። የእርስዎን የገቢ መልእክት ሳጥን ይረዳል እና ወዲያውኑ ይመልሳል።",
+    "windowTitle": "Chiefy ወኪል",
     "onlineLabel": "በመስመር ላይ",
     "initialUserMessage": "በአካውንቲንግ የተላከውን Stripe ደረሰኝ ማግኘት ይችላሉ?",
     "processingText": "የገቢ መልእክት ሳጥን በመፈለግ ላይ...",
@@ -321,7 +321,7 @@
       {
         "name": "ፍራንቸስካ ቲ.",
         "title": "ፍሪላነር",
-        "quote": "ለእያንዳንዱ ሳንቲም ዋጋ ያለው። በኢሜል ላይ የማስቀመጥ ጊዜ ለDuet Mail 10x በላይ ይከፍላል ። ያለሱ መስራት አሁን ማሰብ አይቻልም።",
+        "quote": "ለእያንዳንዱ ሳንቲም ዋጋ ያለው። በኢሜል ላይ የማስቀመጥ ጊዜ ለChiefy 10x በላይ ይከፍላል ። ያለሱ መስራት አሁን ማሰብ አይቻልም።",
         "logoName": "Airtable",
         "avatarKey": "francesca"
       },
@@ -342,7 +342,7 @@
       {
         "name": "ጄኒፈር ኤል.",
         "title": "አማካሪ",
-        "quote": "እንደ አማካሪ, እያንዳንዱ ደቂቃ ይቆጠራል. Duet Mail ጊዜን ብቻ አይቆጥብልኝም - የኢሜል ግኑኙነቴን የበለጠ ያሳርፋል።",
+        "quote": "እንደ አማካሪ, እያንዳንዱ ደቂቃ ይቆጠራል. Chiefy ጊዜን ብቻ አይቆጥብልኝም - የኢሜል ግኑኙነቴን የበለጠ ያሳርፋል።",
         "logoName": "Ahrefs",
         "avatarKey": "jennifer"
       },
@@ -390,7 +390,7 @@
             "description": "ለመጀመር መሰረታዊ ድርጅት"
           },
           {
-            "title": "Duet ረዳት",
+            "title": "Chiefy ረዳት",
             "description": "የAI ረዳትን ይሞክሩ"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Duet ረዳት",
+            "title": "Chiefy ረዳት",
             "description": "ለማግኘት፣ ለመቅረጽ፣ ለማደራጀት እና ሌሎችንም ይወያዩ",
             "highlight": true
           },
@@ -480,31 +480,31 @@
     "contactLabel": "እውቂያ",
     "contactHeading": "አሁንም ጥያቄዎች አሉዎት?",
     "contactCta": "ተገናኝ →",
-    "footerBrand": "DUET MAIL",
+    "footerBrand": "CHIEFY",
     "footerLabel": "የሚጠየቁ ጥያቄዎች",
     "expandLabel": "[+]",
     "collapseLabel": "[−]",
     "answerMarker": "→",
     "items": [
       {
-        "question": "Duet Mail የኢሜል ውሂቤን እንዴት ይጠብቃል?",
+        "question": "Chiefy የኢሜል ውሂቤን እንዴት ይጠብቃል?",
         "answer": "የእርስዎ ደህንነት ቅድሚያ የምንሰጠው ጉዳይ ነው። ለሁለቱም Google እና ማይክሮሶፍት አስተማማኝ ማረጋገጫ OAuth 2.0 ን እንጠቀማለን። የኢሜል ይዘት በእረፍት ጊዜ በደንበኛ-ጎን የመስክ ደረጃ ምስጠራን በመጠቀም የተመሰጠረ ነው፣ እና ለኤፒአይ መዳረሻ አነስተኛ መብት የሚለውን መርህ እንከተላለን። ለGoogle ውህደታችን፣ የGoogle ዓመታዊ የCASA ደህንነት ግምገማ እናካሂዳለን።"
       },
       {
         "question": "የኢሜል ማጠቃለያ ባህሪ እንዴት ነው የሚሰራው?",
-        "answer": "Duet Mail የኢሜል ክሮችዎን ለመተንተን እና ቁልፍ ነጥቦችን ፣ ውሳኔዎችን እና የድርጊት እቃዎችን የሚያጎላ አጭር አጠቃላይ እይታን ለመፍጠር የላቀ AI ይጠቀማል። ይህ ሙሉውን ክር ሳያነቡ አውዱን በፍጥነት እንዲረዱ ያግዝዎታል።"
+        "answer": "Chiefy የኢሜል ክሮችዎን ለመተንተን እና ቁልፍ ነጥቦችን ፣ ውሳኔዎችን እና የድርጊት እቃዎችን የሚያጎላ አጭር አጠቃላይ እይታን ለመፍጠር የላቀ AI ይጠቀማል። ይህ ሙሉውን ክር ሳያነቡ አውዱን በፍጥነት እንዲረዱ ያግዝዎታል።"
       },
       {
-        "question": "Duet Mail ምን ፈቃዶች ያስፈልገዋል?",
-        "answer": "Duet Mail ማጠቃለያዎችን ለማቅረብ፣ የተግባር እቃዎችን ለማውጣት፣ ይዘት ለማመንጨት እና ኢሜይሎችዎን ለመላክ የኢሜይሎችዎን መዳረሻ ይፈልጋል። የምንፈልገው ሙሉ በሙሉ ፈቃዶችን ብቻ ነው። እነዚህን ፈቃዶች በማንኛውም ጊዜ በእርስዎ Google መለያ ወይም Microsoft መለያ ቅንብሮች ውስጥ መገምገም ይችላሉ።"
+        "question": "Chiefy ምን ፈቃዶች ያስፈልገዋል?",
+        "answer": "Chiefy ማጠቃለያዎችን ለማቅረብ፣ የተግባር እቃዎችን ለማውጣት፣ ይዘት ለማመንጨት እና ኢሜይሎችዎን ለመላክ የኢሜይሎችዎን መዳረሻ ይፈልጋል። የምንፈልገው ሙሉ በሙሉ ፈቃዶችን ብቻ ነው። እነዚህን ፈቃዶች በማንኛውም ጊዜ በእርስዎ Google መለያ ወይም Microsoft መለያ ቅንብሮች ውስጥ መገምገም ይችላሉ።"
       },
       {
         "question": "በነጻ ሙከራው ውስጥ ምን ይካተታል?",
         "answer": "የ14-ቀን ነጻ ሙከራ ሁሉንም የ Pro ባህሪያት ሙሉ መዳረሻን ያካትታል፡ ያልተገደበ የኢሜይል ማጠቃለያዎች፣ የተግባር ንጥል ነገር ማውጣት፣ AI ኢሜይል ጸሐፊ (ኢሜይሎችን እና ረቂቆችን ያለምንም ገደብ ማመንጨት) እና ብጁ የኢሜይል አብነቶች። በኢሜል አስተዳደር ጊዜ መቆጠብ ለመጀመር በGoogle ወይም Microsoft ይግቡ።"
       },
       {
-        "question": "ከሌሎች የኢሜይል አቅራቢዎች ጋር Duet Mail መጠቀም እችላለሁ?",
-        "answer": "Duet Mail Gmail፣ Google Workspace እና Microsoft Outlookን ይደግፋል። ለመጀመር በGoogle ወይም Microsoft መለያ ይግቡ።"
+        "question": "ከሌሎች የኢሜይል አቅራቢዎች ጋር Chiefy መጠቀም እችላለሁ?",
+        "answer": "Chiefy Gmail፣ Google Workspace እና Microsoft Outlookን ይደግፋል። ለመጀመር በGoogle ወይም Microsoft መለያ ይግቡ።"
       }
     ]
   },
@@ -523,10 +523,10 @@
   },
   "footer": {
     "ariaLabel": "የጣቢያ ግርጌ",
-    "brandIconAlt": "Duet Mail አዶ",
-    "brandLogoAlt": "Duet Mail",
-    "tagline": "Duet Mail — በየሳምንቱ ሰዓታትን የሚቆጥብልዎትን የAI ኢሜይል ረዳት",
-    "copyrightTemplate": "Duet Mail © {year}",
+    "brandIconAlt": "Chiefy አዶ",
+    "brandLogoAlt": "Chiefy",
+    "tagline": "Chiefy, formerly Duet Mail",
+    "copyrightTemplate": "Chiefy © {year}",
     "groups": [
       {
         "title": "ያስሱ",
@@ -597,27 +597,28 @@
           },
           {
             "label": "LinkedIn",
-            "href": "https://www.linkedin.com/company/duetmail",
+            "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
           {
             "label": "X",
-            "href": "https://x.com/DuetMailApp",
+            "href": "https://x.com/chiefy",
             "external": true
           },
           {
             "label": "ኢንስታግራም",
-            "href": "https://www.instagram.com/duetmail/",
+            "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
             "label": "የጅምር ዝና",
-            "href": "https://startupfa.me/s/duet-mail?utm_source=duetmail.com",
+            "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
         ]
       }
-    ]
+    ],
+    "copyright": "Chiefy © {year}"
   },
   "math": {
     "ariaLabel": "ወደ ኢንቨስትመንት መመለስ",
@@ -625,15 +626,15 @@
     "narrativeTemplate": "በ{pricePerBooking} በ{bookingUnit}፣ ለዘገየ ምላሾች {lostPerMonth} ማጣት =",
     "lossSuffix": "/ mo ጠፍቷል",
     "dividerLabel": "vs",
-    "duetLabel": "Duet",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
-    "websiteName": "Duet Mail",
-    "websiteAlternateName": "Duet - AI ኢሜይል ረዳት ለGmail እና Outlook",
-    "organizationName": "Duet Mail",
+    "websiteName": "Chiefy",
+    "websiteAlternateName": "Chiefy - AI ኢሜይል ረዳት ለGmail እና Outlook",
+    "organizationName": "Chiefy",
     "organizationContactType": "የደንበኛ ድጋፍ",
-    "softwareName": "Duet Mail",
+    "softwareName": "Chiefy",
     "softwareDescription": "የAI ኢሜይል ረዳት ለGmail እና Outlook ኢሜይሎችን በራስ-ሰር የሚያጠቃልል፣ረቂቆች በድምጽዎ ምላሽ ይሰጣሉ እና በየሳምንቱ ሰዓታት ለመቆጠብ የገቢ መልእክት ሳጥንዎን ያደራጃል።",
     "applicationCategory": "CommunicationApplication",
     "featureList": [
@@ -661,36 +662,33 @@
     "operatingSystem": "ድር",
     "browserRequirements": "JavaScript ያስፈልገዋል። ከGmail፣ Google Workspace እና Microsoft Outlook ጋር ይሰራል።",
     "urls": {
-      "site": "https://duetmail.com/am",
-      "logo": "https://duetmail.com/favicon.svg",
-      "screenshot": "https://duetmail.com/og.jpg",
-      "sameAs": [
-        "https://www.linkedin.com/company/duetmail",
-        "https://x.com/DuetMailApp",
-        "https://www.instagram.com/duetmail/"
-      ]
+      "site": "https://chiefy.com/",
+      "logo": "https://chiefy.com/favicon.svg",
+      "screenshot": "https://chiefy.com/og.jpg",
+      "sameAs": []
     },
     "faq": [
       {
-        "question": "Duet Mail የኢሜል ውሂቤን እንዴት ይጠብቃል?",
+        "question": "Chiefy የኢሜል ውሂቤን እንዴት ይጠብቃል?",
         "answer": "የእርስዎ ደህንነት ቅድሚያ የምንሰጠው ጉዳይ ነው። ለሁለቱም Google እና ማይክሮሶፍት አስተማማኝ ማረጋገጫ OAuth 2.0 ን እንጠቀማለን። የኢሜል ይዘት በእረፍት ጊዜ በደንበኛ-ጎን የመስክ ደረጃ ምስጠራን በመጠቀም የተመሰጠረ ነው፣ እና ለኤፒአይ መዳረሻ አነስተኛ መብት የሚለውን መርህ እንከተላለን። ለGoogle ውህደታችን፣ የGoogle ዓመታዊ የCASA ደህንነት ግምገማ እናካሂዳለን።"
       },
       {
         "question": "የኢሜል ማጠቃለያ ባህሪ እንዴት ነው የሚሰራው?",
-        "answer": "Duet Mail የኢሜል ክሮችዎን ለመተንተን እና ቁልፍ ነጥቦችን ፣ ውሳኔዎችን እና የድርጊት እቃዎችን የሚያጎላ አጭር አጠቃላይ እይታን ለመፍጠር የላቀ AI ይጠቀማል። ይህ ሙሉውን ክር ሳያነቡ አውዱን በፍጥነት እንዲረዱ ያግዝዎታል።"
+        "answer": "Chiefy የኢሜል ክሮችዎን ለመተንተን እና ቁልፍ ነጥቦችን ፣ ውሳኔዎችን እና የድርጊት እቃዎችን የሚያጎላ አጭር አጠቃላይ እይታን ለመፍጠር የላቀ AI ይጠቀማል። ይህ ሙሉውን ክር ሳያነቡ አውዱን በፍጥነት እንዲረዱ ያግዝዎታል።"
       },
       {
-        "question": "Duet Mail ምን ፈቃዶች ያስፈልገዋል?",
-        "answer": "Duet Mail ማጠቃለያዎችን ለማቅረብ፣ የተግባር እቃዎችን ለማውጣት፣ ይዘት ለማመንጨት እና ኢሜይሎችዎን ለመላክ የኢሜይሎችዎን መዳረሻ ይፈልጋል። የምንፈልገው ሙሉ በሙሉ ፈቃዶችን ብቻ ነው። እነዚህን ፈቃዶች በማንኛውም ጊዜ በእርስዎ Google መለያ ወይም Microsoft መለያ ቅንብሮች ውስጥ መገምገም ይችላሉ።"
+        "question": "Chiefy ምን ፈቃዶች ያስፈልገዋል?",
+        "answer": "Chiefy ማጠቃለያዎችን ለማቅረብ፣ የተግባር እቃዎችን ለማውጣት፣ ይዘት ለማመንጨት እና ኢሜይሎችዎን ለመላክ የኢሜይሎችዎን መዳረሻ ይፈልጋል። የምንፈልገው ሙሉ በሙሉ ፈቃዶችን ብቻ ነው። እነዚህን ፈቃዶች በማንኛውም ጊዜ በእርስዎ Google መለያ ወይም Microsoft መለያ ቅንብሮች ውስጥ መገምገም ይችላሉ።"
       },
       {
         "question": "በነጻ ሙከራው ውስጥ ምን ይካተታል?",
         "answer": "የ14-ቀን ነጻ ሙከራ ሁሉንም የ Pro ባህሪያት ሙሉ መዳረሻን ያካትታል፡ ያልተገደበ የኢሜይል ማጠቃለያዎች፣ የተግባር ንጥል ነገር ማውጣት፣ AI ኢሜይል ጸሐፊ (ኢሜይሎችን እና ረቂቆችን ያለምንም ገደብ ማመንጨት) እና ብጁ የኢሜይል አብነቶች። በኢሜል አስተዳደር ጊዜ መቆጠብ ለመጀመር በGoogle ወይም Microsoft ይግቡ።"
       },
       {
-        "question": "ከሌሎች የኢሜይል አቅራቢዎች ጋር Duet Mail መጠቀም እችላለሁ?",
-        "answer": "Duet Mail Gmail፣ Google Workspace እና Microsoft Outlookን ይደግፋል። ለመጀመር በGoogle ወይም Microsoft መለያ ይግቡ።"
+        "question": "ከሌሎች የኢሜይል አቅራቢዎች ጋር Chiefy መጠቀም እችላለሁ?",
+        "answer": "Chiefy Gmail፣ Google Workspace እና Microsoft Outlookን ይደግፋል። ለመጀመር በGoogle ወይም Microsoft መለያ ይግቡ።"
       }
-    ]
+    ],
+    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
   }
 }
