@@ -237,39 +237,6 @@ function assertEnglishRouteJsonLdMatrix() {
     }
 }
 
-function assertMetaProperty(relativePath, property) {
-    const { document } = parseHtmlFile(relativePath)
-    const found = collectElements(document, "meta").some((node) => getAttr(node, "property") === property)
-    if (!found) fail(`Missing <meta property="${property}"> in dist/${relativePath}`)
-}
-
-// Help is English-only and file-format (build.format:"file"): help.html,
-// help/<category>.html, help/<category>/<slug>.html. Assert the SEO structured
-// data on each tier of the help tree.
-function assertHelpRouteJsonLd() {
-    // Home → CollectionPage + BreadcrumbList.
-    assertJsonLd("help.html", ["CollectionPage", "BreadcrumbList"])
-
-    // One category index → CollectionPage + BreadcrumbList. Pick any built
-    // category file (top-level help/*.html, excluding nested article dirs).
-    const categoryPage = listFiles(path.join(distRoot, "help"), ".html")
-        .map((file) => path.relative(distRoot, file))
-        .find((file) => file.split("/").length === 2) // help/<category>.html
-    if (!categoryPage) fail("No help category page found in dist/help/")
-    assertJsonLd(categoryPage, ["CollectionPage", "BreadcrumbList"])
-
-    // Any nested help article → Article + BreadcrumbList + article:modified_time.
-    // Discover the first dist/help/<category>/<slug>.html (depth >= 2 under
-    // dist/help) instead of hardcoding a slug, so renaming/removing one article
-    // does not silently break this assertion.
-    const articlePage = listFiles(path.join(distRoot, "help"), ".html")
-        .map((file) => path.relative(distRoot, file))
-        .find((file) => file.split("/").length >= 3) // help/<category>/<slug>.html
-    if (!articlePage) fail("No nested help article (help/<category>/<slug>.html) found in dist/help/")
-    assertJsonLd(articlePage, ["Article", "BreadcrumbList"])
-    assertMetaProperty(articlePage, "article:modified_time")
-}
-
 function htmlRoutePath(relativePath) {
     if (relativePath === "index.html") return "/"
     const withoutExtension = relativePath.replace(/\.html$/u, "")
@@ -312,47 +279,6 @@ function assertCanonicalUrls() {
     }
 }
 
-// Help pages are intentionally English-only (en + x-default) at launch, so they
-// are exempt from the full complete-locale hreflang matrix. Every NON-help route
-// keeps the exact matrix below — the help branch only narrows the expectation for
-// `/help` and `/help/*` files (file-format: help.html, help/<cat>.html,
-// help/<cat>/<slug>.html). See help-center plan Task 1.0 / 5.2.
-function isHelpDistFile(relativePath) {
-    return relativePath === "help.html" || relativePath.startsWith("help/")
-}
-
-function assertHreflangSet(relativePath, document, expectedHreflangs) {
-    const links = alternateHreflangLinks(document)
-    const seen = new Map()
-    for (const link of links) {
-        if (seen.has(link.hreflang)) {
-            fail(`Duplicate hreflang ${link.hreflang} in dist/${relativePath}`)
-        }
-        seen.set(link.hreflang, link.href)
-    }
-
-    for (const expected of expectedHreflangs) {
-        if (!seen.has(expected)) {
-            fail(`Missing hreflang ${expected} in dist/${relativePath}`)
-        }
-    }
-    for (const actual of seen.keys()) {
-        if (!expectedHreflangs.has(actual)) {
-            fail(`Unexpected hreflang ${actual} in dist/${relativePath}`)
-        }
-    }
-    for (const [hreflang, href] of seen.entries()) {
-        if (!href.startsWith("https://chiefy.com/")) {
-            fail(`hreflang ${hreflang} must use canonical production URL in dist/${relativePath}: ${href}`)
-        }
-    }
-}
-
-function assertHelpHreflangCoverage(relativePath, document) {
-    // Help launches English-only: exactly en + x-default, nothing else.
-    assertHreflangSet(relativePath, document, new Set([defaultLocale, "x-default"]))
-}
-
 function assertHreflangCoverage() {
     const bootstrapLocales = new Set(nonDefaultLocales.filter((locale) => localeHasBootstrap(locale)))
     const expectedLocales = [defaultLocale, ...nonDefaultLocales.filter((locale) => !bootstrapLocales.has(locale))]
@@ -363,10 +289,29 @@ function assertHreflangCoverage() {
         if (relativePath.startsWith("i18n-qa/")) continue
 
         const { document } = parseHtmlFile(relativePath)
-        if (isHelpDistFile(relativePath)) {
-            assertHelpHreflangCoverage(relativePath, document)
-        } else {
-            assertHreflangSet(relativePath, document, expectedHreflangs)
+        const links = alternateHreflangLinks(document)
+        const seen = new Map()
+        for (const link of links) {
+            if (seen.has(link.hreflang)) {
+                fail(`Duplicate hreflang ${link.hreflang} in dist/${relativePath}`)
+            }
+            seen.set(link.hreflang, link.href)
+        }
+
+        for (const expected of expectedHreflangs) {
+            if (!seen.has(expected)) {
+                fail(`Missing hreflang ${expected} in dist/${relativePath}`)
+            }
+        }
+        for (const actual of seen.keys()) {
+            if (!expectedHreflangs.has(actual)) {
+                fail(`Unexpected hreflang ${actual} in dist/${relativePath}`)
+            }
+        }
+        for (const [hreflang, href] of seen.entries()) {
+            if (!href.startsWith("https://chiefy.com/")) {
+                fail(`hreflang ${hreflang} must use canonical production URL in dist/${relativePath}: ${href}`)
+            }
         }
     }
 }
@@ -556,70 +501,6 @@ function assertSitemapBootstrapState() {
     }
 }
 
-// Help is English-only: the sitemap must list the EN /help URLs and must NOT
-// fabricate any /{locale}/help alternates (no localized help pages exist).
-function assertSitemapHelpRoutes() {
-    const sitemapFiles = listFiles(distRoot, ".xml").filter((filePath) =>
-        path.basename(filePath).startsWith("sitemap"),
-    )
-
-    // Discover the first built category index (help/<cat>.html) and the first
-    // built article (help/<cat>/<slug>.html), then map them to their canonical
-    // production help URLs. Reuses the same dynamic discovery as
-    // assertHelpRouteJsonLd() so renaming/removing an article never silently
-    // weakens this check.
-    const helpDistFiles = listFiles(path.join(distRoot, "help"), ".html").map((file) =>
-        path.relative(distRoot, file),
-    )
-    const categoryDistFile = helpDistFiles.find((file) => file.split("/").length === 2)
-    const articleDistFile = helpDistFiles.find((file) => file.split("/").length >= 3)
-    if (!categoryDistFile) fail("No help category page found in dist/help/")
-    if (!articleDistFile) fail("No nested help article (help/<category>/<slug>.html) found in dist/help/")
-
-    // help/<cat>.html → https://chiefy.com/help/<cat>
-    // help/<cat>/<slug>.html → https://chiefy.com/help/<cat>/<slug>
-    const distFileToHelpLoc = (relativeDistPath) =>
-        `https://chiefy.com/${relativeDistPath.replace(/\.html$/u, "")}`
-    const requiredHelpLocs = [
-        distFileToHelpLoc(categoryDistFile),
-        distFileToHelpLoc(articleDistFile),
-    ]
-
-    // Require the EXACT help-home loc, not just any /help-prefixed URL — a broad
-    // `/help(?:\/|<)` match is also satisfied by /help/<category> and article
-    // URLs, so it would pass even if the help index itself were dropped.
-    let sawHelpHomeLoc = false
-    const sawRequiredLoc = new Set()
-    for (const filePath of sitemapFiles) {
-        const relativePath = path.relative(repoRoot, filePath)
-        const xml = readFileSync(filePath, "utf8")
-
-        if (xml.includes("<loc>https://chiefy.com/help</loc>")) sawHelpHomeLoc = true
-
-        for (const loc of requiredHelpLocs) {
-            if (xml.includes(`<loc>${loc}</loc>`)) sawRequiredLoc.add(loc)
-        }
-
-        // No localized help <loc> (e.g. /am/help, /fr/help/...) and no localized
-        // help alternate links.
-        for (const locale of nonDefaultLocales) {
-            const escaped = locale.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-            if (new RegExp(`<loc>https://chiefy\\.com/${escaped}/help(?:/|<)`, "u").test(xml)) {
-                fail(`Sitemap contains phantom localized help URL (/${locale}/help): ${relativePath}`)
-            }
-            if (new RegExp(`<xhtml:link\\b[^>]*href="https://chiefy\\.com/${escaped}/help`, "u").test(xml)) {
-                fail(`Sitemap contains phantom localized help alternate (/${locale}/help): ${relativePath}`)
-            }
-        }
-    }
-    if (!sawHelpHomeLoc) fail("Sitemap is missing the EN /help index <loc> (https://chiefy.com/help)")
-    for (const loc of requiredHelpLocs) {
-        if (!sawRequiredLoc.has(loc)) {
-            fail(`Sitemap is missing a discovered help page <loc>: ${loc}`)
-        }
-    }
-}
-
 try {
     if (!existsSync(distRoot)) fail("dist/ is missing; run pnpm build or pnpm i18n:build first")
     const buildStamp = assertFreshBuildStamp()
@@ -627,7 +508,6 @@ try {
     assertNoPseudoQaRouteInProductionDist()
     assertCopiedRoutesManifest()
     assertEnglishRouteJsonLdMatrix()
-    assertHelpRouteJsonLd()
     assertCanonicalUrls()
     assertHtmlLangAttributes()
     assertHreflangCoverage()
@@ -636,7 +516,6 @@ try {
     assertBootstrapRobotsState()
     assertNoBootstrapLocaleAlternates()
     assertSitemapBootstrapState()
-    assertSitemapHelpRoutes()
     console.log("i18n dist verification passed")
 } catch (error) {
     console.error(error instanceof Error ? error.message : error)

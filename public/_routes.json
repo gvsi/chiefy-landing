@@ -6,7 +6,6 @@
     "/avatars/*",
     "/blog/images/*",
     "/email/*",
-    "/pagefind/*",
     "/.well-known/*",
     "/favicon.svg",
     "/*.css",

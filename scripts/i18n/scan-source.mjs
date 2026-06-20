@@ -12,16 +12,6 @@ if (!existsSync(path.join(repoRoot, "src/i18n/messages/en.json"))) {
 const glossary = JSON.parse(readFileSync(path.join(repoRoot, "src/i18n/glossary.source.json"), "utf8"))
 const allowedTerms = new Set(glossary.locked_terms)
 const scanRoots = ["src/pages", "src/layouts", "src/components"]
-
-// The /help help center ships English-only (localization is a deferred follow-up —
-// see docs/superpowers/specs/2026-06-16-help-center-design.md §11). Exclude its
-// source from the localized-string scanner until it is localized; revisit then.
-const isHelpCenterSource = (relative) =>
-    relative.startsWith("src/components/help/") ||
-    relative.startsWith("src/pages/help/") ||
-    relative.startsWith("src/pages/[locale]/help/") ||
-    relative === "src/layouts/HelpArticleLayout.astro" ||
-    relative === "src/layouts/HelpIndexLayout.astro"
 const ignoredFragments = [
     "class=",
     "import ",
@@ -44,7 +34,6 @@ const ignoredFragments = [
     "Roboto, Helvetica, Arial",
     "replace(",
     "satisfies readonly",
-    "localizedPath(",
 ]
 const ignoredExactValues = new Set([
     "Article",
@@ -117,7 +106,6 @@ function likelyUserString(value) {
 const findings = []
 for (const filePath of scanRoots.flatMap((root) => listFiles(root))) {
     const relative = path.relative(repoRoot, filePath)
-    if (isHelpCenterSource(relative)) continue
     const lines = readFileSync(filePath, "utf8").split(/\r?\n/)
     lines.forEach((line, index) => {
         if (ignoredFragments.some((fragment) => line.includes(fragment))) return

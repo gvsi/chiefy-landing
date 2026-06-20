@@ -22,34 +22,4 @@ const blog = defineCollection({
     }),
 })
 
-const help = defineCollection({
-    loader: glob({
-        pattern: "**/*.{md,mdx}",
-        base: "./src/content/help",
-        generateId: ({ entry }) => entry.replace(/\.mdx?$/, ""),
-    }),
-    schema: z.object({
-        title: z.string(),
-        description: z.string(),
-        category: z.enum([
-            "getting-started",
-            "smart-drafts",
-            "auto-labels",
-            "smart-summaries",
-            "ask-chiefy",
-            "calendar",
-            "connected-mailboxes",
-            "privacy-security",
-            "account-billing",
-        ]),
-        type: z.enum(["how-to", "concept", "troubleshooting", "faq"]).default("how-to"),
-        order: z.number().default(100),
-        keywords: z.array(z.string()).default([]),
-        relatedSlugs: z.array(z.string()).default([]),
-        updatedAt: z.coerce.date(),
-        draft: z.boolean().default(false),
-        translationStatus: z.enum(["bootstrap-en"]).optional(),
-    }),
-})
-
-export const collections = { blog, help }
+export const collections = { blog }
