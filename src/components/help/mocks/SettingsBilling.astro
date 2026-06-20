@@ -6,7 +6,7 @@
  *   - header H1 "Subscription & Billing",
  *   - Current Plan card: CreditCard tile + "Pro - Monthly" + "Monthly Plan" pill
  *     + a quiet "Manage Payment" button; a 2-tile meta grid (Status / Next
- *     payment); the 8 Included Features in a 2-col grid (Pro column values); a
+ *     payment); the 7 Included Features in a 2-col grid (Pro column values); a
  *     Team row with one member.
  *
  * The optional orange "ending soon" banner is gated behind the `ending` prop
@@ -25,13 +25,12 @@ type Props = {
 const { ending = false } = Astro.props
 
 const FEATURES = [
-    { name: "AI Drafts", val: "Unlimited", on: true },
-    { name: "Smart Inbox", val: "Full", on: true },
-    { name: "Chiefy Assistant", val: "Full", on: true },
+    { name: "Smart Drafts", val: "Unlimited", on: true },
+    { name: "Smart Summaries", val: "Unlimited", on: true },
+    { name: "Ask Chiefy", val: "Full", on: true },
+    { name: "Auto Labels", val: "Full", on: true },
     { name: "Calendar Integration", val: "Full", on: true },
-    { name: "Instant Summaries", val: "Unlimited", on: true },
     { name: "Tone & Voice", val: "Personalized", on: true },
-    { name: "Smart Reminders", val: "Full", on: true },
     { name: "Priority Support", val: "Included", on: true },
 ]
 ---
