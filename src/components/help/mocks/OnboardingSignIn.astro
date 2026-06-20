@@ -4,9 +4,9 @@
  * (AuthPage.tsx + AuthLeftPane.tsx). Split layout, tokenized so it is correct in
  * BOTH help-center themes; the LEFT brand pane is always dark (the real pane is).
  *
- *   - LEFT: the "Whispered Luxury" brand pane — gem + "Chiefy" lockup, a
- *     testimonial, a cited speaker; ambient glows.
- *   - RIGHT: the default SIGN-UP form — "Start your free trial", social proof,
+ *   - LEFT: the "Whispered Luxury" brand pane — gem + "Chiefy" lockup + a
+ *     one-line product positioning; ambient glows.
+ *   - RIGHT: the default SIGN-UP form — "Start your free trial",
  *     two provider buttons (Google primary, Microsoft secondary), trust line,
  *     mode toggle, and legal footer.
  *
@@ -18,15 +18,6 @@
 import MockScreen from "./MockScreen.astro"
 import ChiefyGem from "./ChiefyGem.astro"
 import ProviderLogo from "./ProviderLogo.astro"
-import MockIcon from "./MockIcon.astro"
-
-const AVATARS = [
-    { i: "AM", c: "#4338ca" },
-    { i: "SC", c: "#0f766e" },
-    { i: "JL", c: "#b45309" },
-    { i: "RH", c: "#9333ea" },
-    { i: "DK", c: "#be123c" },
-]
 ---
 
 <MockScreen
@@ -43,35 +34,14 @@ const AVATARS = [
             </div>
             <div class="hms-auth-rule" aria-hidden="true"></div>
             <p class="hms-auth-quote">
-                "It's like having an executive assistant. Chiefy saves me 1 hour every day."
+                Your AI chief of staff for Gmail and Outlook — drafts replies in your voice, organizes your inbox, and keeps your day on track.
             </p>
-            <div class="hms-auth-cite">
-                <span class="av" aria-hidden="true">AM</span>
-                <span class="who">
-                    <b>Alex Morgan</b>
-                    <span>Small business owner</span>
-                </span>
-            </div>
         </div>
 
         {/* RIGHT — form */}
         <div class="hms-auth-right">
             <h2 class="hms-auth-h">Start your free trial</h2>
             <p class="hms-auth-subh">Connect the inbox you want to use with Chiefy</p>
-
-            <div class="hms-social">
-                <span class="hms-avatar-stack" aria-hidden="true">
-                    {AVATARS.map((a) => <span class="av" style={`background:${a.c}`}>{a.i}</span>)}
-                </span>
-                <span class="hms-stars" aria-hidden="true">
-                    <MockIcon name="star" size={14} />
-                    <MockIcon name="star" size={14} />
-                    <MockIcon name="star" size={14} />
-                    <MockIcon name="star" size={14} />
-                    <MockIcon name="star" size={14} />
-                </span>
-                <span class="hms-social-note">Trusted by busy professionals</span>
-            </div>
 
             <div class="hms-provider-stack">
                 <button class="hms-provider-btn primary" type="button">
