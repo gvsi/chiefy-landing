@@ -1,0 +1,1399 @@
+/* ==========================================================================
+   Help Center — component styles
+   Ported from tmp/help-mockups/prototype/help.css (visual source of truth).
+   Token remap: every prototype `--chiefy-*` is re-expressed against the repo's
+   existing `--duet-*` / `--prose-*` variables (defined in global.css; same
+   values, different names). Help-specific tokens the prototype invented and
+   that do NOT exist in global.css (surfaces, hover, pills, radii, shadows,
+   easing, gradient stops) are defined here.
+
+   IMPORTANT — theme direction:
+   The repo defaults `:root` to DARK and overrides to LIGHT under
+   `html[data-theme="light"]` (the inverse of the prototype, which was
+   light-default). Help-specific tokens below follow the repo convention:
+   dark values in `:root`, light overrides under `html[data-theme="light"]`.
+   This keeps every help component correct in BOTH themes.
+   ========================================================================== */
+
+:root {
+    /* gradient stops for the hero highlight word (brand) */
+    --help-grad-mid: #a78bfa;
+    --help-grad-end: #74c2ff;
+
+    /* surfaces / hover (dark defaults) */
+    --help-surface: #13132b;
+    --help-surface-2: #181834;
+    --help-hover: rgba(255, 255, 255, 0.05);
+
+    /* autodraft (emerald) pill — used by mock figures */
+    --help-pill-autodraft: #10b981;
+    --help-pill-autodraft-bg: rgba(16, 185, 129, 0.1);
+    --help-pill-autodraft-ink: #34d399;
+
+    /* "no reply needed" / action pill */
+    --help-pill-action: #ef4444;
+    --help-pill-action-bg: rgba(239, 68, 68, 0.1);
+    --help-pill-action-ink: #f87171;
+    --help-pill-draft-bg: rgba(148, 163, 184, 0.16);
+    --help-pill-draft-ink: #cbd5e1;
+
+    /* meeting / warning ink (warn note icon) */
+    --help-warn-ink: #fbbf24;
+
+    /* radii */
+    --help-radius-sm: 6px;
+    --help-radius-md: 10px;
+    --help-radius-lg: 12px;
+    --help-radius-pill: 9999px;
+
+    /* shadows / easing (dark defaults) */
+    --help-shadow-card: 0 1px 3px rgba(0, 0, 0, 0.3), 0 8px 22px rgba(0, 0, 0, 0.35);
+    --help-shadow-card-hover: 0 12px 34px rgba(0, 0, 0, 0.5), 0 2px 8px rgba(0, 0, 0, 0.4);
+    --help-shadow-cta: 0 4px 16px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.04);
+    --help-shadow-pop: 0 24px 60px rgba(0, 0, 0, 0.5), 0 8px 20px rgba(0, 0, 0, 0.4);
+    /* --mockup-shadow already exists in global.css (dark + light) */
+    --help-ease-spring: cubic-bezier(0.22, 1, 0.36, 1);
+
+    /* dark CTA pill ink (constant across themes) */
+    --help-cta-bg: linear-gradient(180deg, #252320 0%, #171615 100%);
+
+    /* White foreground for ink sitting on a saturated/dark surface (accent
+       pills, the dark CTA, the annotation marker, the switch knob). Constant
+       across themes by design — the surface beneath is always dark/colored. */
+    --help-on-accent: #fff;
+
+    /* small decorative shadows + the modal overlay scrim (constant across
+       themes; the scrim sits over the page regardless of light/dark) */
+    --help-shadow-seg: 0 1px 2px rgba(0, 0, 0, 0.06);
+    --help-shadow-knob: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --help-overlay: rgba(10, 10, 20, 0.45);
+}
+
+html[data-theme="light"] {
+    --help-grad-mid: #a78bfa;
+    --help-grad-end: #74c2ff;
+
+    --help-surface: #ffffff;
+    --help-surface-2: #f4f4f6;
+    --help-hover: rgba(0, 0, 0, 0.035);
+
+    --help-pill-autodraft: #10b981;
+    --help-pill-autodraft-bg: rgba(16, 185, 129, 0.1);
+    --help-pill-autodraft-ink: #0f7a52;
+
+    --help-pill-action: #ef4444;
+    --help-pill-action-bg: rgba(239, 68, 68, 0.1);
+    --help-pill-action-ink: #b42318;
+    --help-pill-draft-bg: rgba(100, 116, 139, 0.14);
+    --help-pill-draft-ink: #475569;
+
+    --help-warn-ink: #92600a;
+
+    --help-shadow-card: 0 1px 3px rgba(0, 0, 0, 0.04), 0 4px 12px rgba(0, 0, 0, 0.04);
+    --help-shadow-card-hover: 0 2px 6px rgba(0, 0, 0, 0.06), 0 16px 36px rgba(0, 0, 0, 0.08);
+    --help-shadow-pop: 0 24px 60px rgba(0, 0, 0, 0.16), 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+/* ---- shared wrappers ------------------------------------------------- */
+.help-wrap {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 28px;
+}
+
+/* ---- hero ------------------------------------------------------------ */
+.help-hero {
+    text-align: center;
+    padding: 116px 0 30px;
+    position: relative;
+}
+.help-eyebrow {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--duet-muted);
+}
+.help-title {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 1.1;
+    letter-spacing: -0.05em;
+    margin: 14px 0 0;
+    color: var(--prose-heading);
+    text-wrap: balance;
+}
+@media (max-width: 760px) {
+    .help-title {
+        font-size: 38px;
+    }
+}
+.help-grad {
+    background: linear-gradient(135deg, var(--help-grad-mid) 0%, var(--help-grad-end) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.help-sub {
+    font-size: 18px;
+    color: var(--prose-text);
+    margin: 16px auto 0;
+    max-width: 560px;
+    line-height: 1.6;
+}
+.help-hero-search {
+    max-width: 640px;
+    margin: 30px auto 0;
+}
+.help-toggle {
+    display: inline-flex;
+    background: var(--help-surface-2);
+    border: 1px solid var(--duet-border);
+    border-radius: var(--help-radius-pill);
+    padding: 3px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    font-weight: 600;
+}
+.help-toggle .seg {
+    padding: 7px 16px;
+    border-radius: var(--help-radius-pill);
+    color: var(--duet-muted);
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    font: inherit;
+}
+.help-toggle .seg.active {
+    background: var(--help-surface);
+    color: var(--duet-fg);
+    box-shadow: var(--help-shadow-seg);
+}
+.help-toggle .seg svg {
+    width: 14px;
+    height: 14px;
+}
+.help-soon {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: var(--help-on-accent);
+    background: var(--duet-accent-2);
+    padding: 1px 6px;
+    border-radius: var(--help-radius-pill);
+    text-transform: uppercase;
+}
+.help-searchbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    text-align: left;
+    background: var(--help-surface);
+    border: 1px solid var(--duet-border-editorial);
+    border-radius: 14px;
+    padding: 17px 18px;
+    box-shadow: var(--help-shadow-card);
+    cursor: text;
+    color: inherit;
+    font: inherit;
+}
+.help-searchbar:hover {
+    border-color: var(--duet-accent-2);
+}
+.help-searchbar .ph {
+    flex: 1;
+    color: var(--duet-muted);
+    font-size: 16px;
+    text-align: left;
+}
+.help-kbd {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--duet-muted);
+    border: 1px solid var(--duet-border-editorial);
+    border-radius: 6px;
+    padding: 2px 6px;
+    background: var(--duet-bg);
+}
+.help-popular {
+    margin-top: 16px;
+    font-size: 13px;
+    color: var(--duet-muted);
+}
+.help-popular a {
+    color: var(--duet-accent-2);
+    text-decoration: none;
+    margin: 0 4px;
+}
+.help-popular a:hover {
+    text-decoration: underline;
+}
+
+/* ---- sections / tiles ------------------------------------------------ */
+.help-sec {
+    padding: 26px 0;
+}
+.help-sec-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.help-sec-title {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 27px;
+    letter-spacing: -0.02em;
+    margin: 0;
+    color: var(--prose-heading);
+}
+.help-tiles {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+}
+@media (max-width: 880px) {
+    .help-tiles {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 560px) {
+    .help-tiles {
+        grid-template-columns: 1fr;
+    }
+}
+.help-tile {
+    background: var(--help-surface);
+    border: 1px solid var(--duet-border);
+    border-radius: var(--help-radius-md);
+    padding: 20px;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: box-shadow 0.18s, transform 0.18s, border-color 0.18s;
+}
+.help-tile:hover {
+    box-shadow: var(--help-shadow-card-hover);
+    transform: translateY(-2px);
+    border-color: var(--duet-border-editorial);
+}
+.help-tile .ic {
+    width: 38px;
+    height: 38px;
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--duet-accent) 9%, var(--help-surface));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--duet-accent);
+}
+.help-tile .ic svg {
+    width: 20px;
+    height: 20px;
+}
+.help-tile h3 {
+    font-size: 15px;
+    font-weight: 700;
+    margin: 2px 0 0;
+    letter-spacing: -0.01em;
+    color: var(--prose-heading);
+}
+.help-tile p {
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--duet-muted);
+    margin: 0;
+}
+.help-tile .count {
+    font-size: 11px;
+    font-weight: 600;
+    color: color-mix(in srgb, var(--duet-muted) 70%, transparent);
+    letter-spacing: 0.03em;
+    margin-top: auto;
+}
+
+/* troubleshooting band + contact */
+.help-band {
+    background: var(--help-surface);
+    border: 1px solid var(--duet-border);
+    border-radius: var(--help-radius-md);
+    padding: 26px 28px;
+    display: flex;
+    gap: 28px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 16px;
+}
+.help-band .bt {
+    flex: 1;
+    min-width: 220px;
+}
+.help-band h3 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 21px;
+    margin: 0 0 6px;
+    letter-spacing: -0.02em;
+    color: var(--prose-heading);
+}
+.help-band p {
+    font-size: 14px;
+    color: var(--duet-muted);
+    margin: 0;
+}
+.help-symptoms {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    flex: 1.4;
+    min-width: 280px;
+}
+.help-symptom {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--duet-fg);
+    background: var(--help-surface-2);
+    border: 1px solid var(--duet-border);
+    border-radius: var(--help-radius-pill);
+    padding: 8px 14px;
+    text-decoration: none;
+}
+.help-symptom:hover {
+    background: var(--help-surface);
+    border-color: var(--duet-border-editorial);
+}
+.help-contact {
+    text-align: center;
+    padding: 48px 0 8px;
+}
+.help-contact h2 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 27px;
+    letter-spacing: -0.02em;
+    margin: 0 0 8px;
+    color: var(--prose-heading);
+}
+.help-contact p {
+    font-size: 15px;
+    color: var(--duet-muted);
+    margin: 0 0 20px;
+}
+.help-btns {
+    display: inline-flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.help-btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--help-on-accent);
+    background: var(--help-cta-bg);
+    padding: 12px 22px;
+    border-radius: var(--help-radius-lg);
+    text-decoration: none;
+    box-shadow: var(--help-shadow-cta);
+}
+.help-btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--duet-fg);
+    background: var(--help-surface);
+    border: 1px solid var(--duet-border-editorial);
+    padding: 12px 22px;
+    border-radius: var(--help-radius-lg);
+    text-decoration: none;
+}
+.help-btn-primary svg,
+.help-btn-ghost svg {
+    width: 16px;
+    height: 16px;
+}
+.help-trust {
+    font-size: 12px;
+    color: color-mix(in srgb, var(--duet-muted) 70%, transparent);
+    margin-top: 22px;
+}
+
+/* ---- doc layout (section + article) ---------------------------------- */
+.help-doc {
+    display: grid;
+    grid-template-columns: 248px minmax(0, 1fr);
+    gap: 48px;
+    padding: 104px 0 60px;
+    align-items: start;
+}
+.help-doc.with-toc {
+    grid-template-columns: 248px minmax(0, 1fr) 200px;
+}
+@media (max-width: 1000px) {
+    .help-doc,
+    .help-doc.with-toc {
+        grid-template-columns: 1fr;
+    }
+    .help-sidebar,
+    .help-toc {
+        display: none;
+    }
+}
+.help-sidebar {
+    position: sticky;
+    top: 88px;
+    font-size: 13.5px;
+}
+.help-sidebar .grp {
+    margin-bottom: 20px;
+}
+.help-sidebar .grp-h {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--duet-muted);
+    margin: 0 0 8px;
+    padding-left: 10px;
+}
+.help-sidebar a {
+    display: block;
+    padding: 6px 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--duet-muted);
+    line-height: 1.4;
+}
+.help-sidebar a:hover {
+    background: var(--help-hover);
+    color: var(--duet-fg);
+}
+.help-sidebar a.active {
+    background: color-mix(in srgb, var(--duet-accent) 10%, transparent);
+    color: var(--duet-accent);
+    font-weight: 600;
+}
+.help-sidebar-back {
+    display: inline-flex;
+    gap: 6px;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--duet-accent);
+    text-decoration: none;
+    margin-bottom: 18px;
+}
+.help-sidebar-back svg {
+    width: 14px;
+    height: 14px;
+}
+.help-breadcrumb {
+    font-size: 13px;
+    color: var(--duet-muted);
+    margin-bottom: 18px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.help-breadcrumb a {
+    text-decoration: none;
+    color: var(--duet-muted);
+}
+.help-breadcrumb a:hover {
+    color: var(--duet-fg);
+}
+.help-breadcrumb .sep {
+    opacity: 0.5;
+}
+/* Visible search opener on category + article pages (the home uses its hero
+   trigger). Pushed to the trailing edge of the breadcrumb row. */
+.help-breadcrumb-search {
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--duet-muted);
+    background: var(--help-surface);
+    border: 1px solid var(--duet-border-editorial);
+    border-radius: var(--help-radius-pill);
+    padding: 6px 12px;
+    cursor: pointer;
+}
+.help-breadcrumb-search:hover {
+    border-color: var(--duet-accent-2);
+    color: var(--duet-fg);
+}
+.help-breadcrumb-search:focus-visible {
+    outline: 2px solid var(--duet-accent-2);
+    outline-offset: 2px;
+}
+.help-breadcrumb-search svg {
+    width: 15px;
+    height: 15px;
+}
+.help-breadcrumb-search .help-kbd {
+    background: var(--help-surface-2);
+}
+@media (max-width: 560px) {
+    .help-breadcrumb-search .help-kbd {
+        display: none;
+    }
+}
+
+/* section index list */
+.help-sectionhead {
+    margin-bottom: 26px;
+}
+.help-sectionhead .ic {
+    width: 46px;
+    height: 46px;
+    border-radius: 12px;
+    background: color-mix(in srgb, var(--duet-accent) 9%, var(--help-surface));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--duet-accent);
+    margin-bottom: 14px;
+}
+.help-sectionhead .ic svg {
+    width: 24px;
+    height: 24px;
+}
+.help-sectionhead h1 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 38px;
+    letter-spacing: -0.03em;
+    margin: 0 0 8px;
+    color: var(--prose-heading);
+}
+.help-sectionhead p {
+    font-size: 17px;
+    color: var(--prose-text);
+    margin: 0;
+    max-width: 620px;
+    line-height: 1.6;
+}
+.help-artlist {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.help-artrow {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 18px 16px;
+    border-radius: var(--help-radius-md);
+    text-decoration: none;
+    color: inherit;
+    border: 1px solid transparent;
+    transition: background 0.15s, border-color 0.15s;
+}
+.help-artrow:hover {
+    background: var(--help-surface);
+    border-color: var(--duet-border);
+}
+.help-artrow .ar-ic {
+    width: 34px;
+    height: 34px;
+    flex: none;
+    border-radius: 9px;
+    background: var(--help-surface-2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--duet-muted);
+}
+.help-artrow .ar-ic svg {
+    width: 17px;
+    height: 17px;
+}
+.help-artrow .ar-body {
+    flex: 1;
+    min-width: 0;
+}
+.help-artrow .ar-body h3 {
+    font-size: 15.5px;
+    font-weight: 600;
+    margin: 0 0 3px;
+    letter-spacing: -0.01em;
+    color: var(--prose-heading);
+}
+.help-artrow .ar-body p {
+    font-size: 13.5px;
+    color: var(--duet-muted);
+    margin: 0;
+}
+.help-artrow .ar-arrow {
+    color: var(--duet-muted);
+    opacity: 0.5;
+    display: inline-flex;
+}
+.help-artrow:hover .ar-arrow {
+    opacity: 1;
+    color: var(--duet-accent);
+}
+.help-tag-type {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: var(--help-radius-pill);
+    background: var(--help-surface-2);
+    color: var(--duet-muted);
+}
+
+/* ---- article scaffold (around .duet-prose body) ---------------------- */
+.help-article {
+    min-width: 0;
+}
+.help-article-title {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 1.12;
+    letter-spacing: -0.035em;
+    margin: 6px 0 14px;
+    color: var(--prose-heading);
+    text-wrap: balance;
+}
+.help-article-meta {
+    font-size: 13px;
+    color: var(--duet-muted);
+    margin-bottom: 26px;
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* TL;DR callout (also usable inside MDX prose) */
+.help-tldr {
+    display: flex;
+    gap: 14px;
+    background: color-mix(in srgb, var(--duet-accent) 6%, var(--help-surface));
+    border: 1px solid color-mix(in srgb, var(--duet-accent) 18%, transparent);
+    border-radius: var(--help-radius-md);
+    padding: 18px 20px;
+    margin: 0 0 28px;
+}
+.help-tldr .l {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--duet-accent);
+    flex: none;
+    padding-top: 2px;
+}
+.help-tldr-body,
+.help-tldr-body p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--prose-text);
+}
+
+/* numbered steps */
+.help-steps {
+    counter-reset: step;
+    list-style: none;
+    padding: 0;
+    margin: 8px 0 18px;
+}
+.help-steps > li {
+    counter-increment: step;
+    position: relative;
+    padding: 0 0 26px 52px;
+}
+.help-steps > li::before {
+    content: counter(step);
+    position: absolute;
+    left: 0;
+    top: -2px;
+    width: 32px;
+    height: 32px;
+    border-radius: var(--help-radius-pill);
+    background: var(--duet-fg);
+    color: var(--duet-bg);
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.help-steps > li:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    left: 15px;
+    top: 34px;
+    bottom: 6px;
+    width: 2px;
+    background: var(--duet-border);
+}
+.help-steps h3 {
+    font-family: var(--font-sans);
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--prose-heading);
+    margin: 4px 0 6px;
+}
+.help-steps p {
+    font-size: 16px;
+    line-height: 1.75;
+    color: var(--prose-text);
+    margin: 0 0 12px;
+}
+
+/* note / warning callouts */
+.help-note {
+    display: flex;
+    gap: 12px;
+    border: 1px solid var(--duet-border-editorial);
+    border-radius: var(--help-radius-md);
+    padding: 14px 16px;
+    margin: 0 0 18px;
+    background: var(--help-surface);
+}
+.help-note svg {
+    flex: none;
+    width: 18px;
+    height: 18px;
+    margin-top: 2px;
+    color: var(--duet-accent);
+}
+.help-note.warn svg {
+    color: var(--help-warn-ink);
+}
+.help-note p {
+    margin: 0;
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--prose-text);
+}
+.help-kbd-inline {
+    font-size: 12px;
+    font-weight: 600;
+    border: 1px solid var(--duet-border-editorial);
+    border-radius: 6px;
+    padding: 1px 6px;
+    background: var(--help-surface-2);
+}
+
+/* ---- rendered in-product mockups (mock window) ----------------------- */
+/* MockWindow wraps in <figure>; let .help-mock own its spacing (also overrides
+   .duet-prose's default figure margin when used inside an MDX article body). */
+.help-mock-figure {
+    margin: 22px 0;
+}
+.help-mock-figure .help-mock {
+    margin: 0;
+}
+.help-mock-figure .help-figcap {
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+.help-mock {
+    border-radius: var(--help-radius-md);
+    border: 1px solid var(--duet-border-editorial);
+    overflow: hidden;
+    box-shadow: var(--mockup-shadow);
+    margin: 6px 0 8px;
+    background: var(--help-surface);
+}
+.help-mock-bar {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding: 10px 14px;
+    background: var(--help-surface-2);
+    border-bottom: 1px solid var(--duet-border);
+}
+.help-mock-bar .dot {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: var(--duet-border-editorial);
+}
+.help-mock-bar .ttl {
+    margin-left: 10px;
+    font-size: 12px;
+    color: var(--duet-muted);
+}
+.help-mock-body {
+    padding: 18px;
+}
+.help-mock-body.tight {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.help-figcap {
+    font-size: 12.5px;
+    color: var(--duet-muted);
+    margin: 0 0 22px;
+    text-align: center;
+    font-style: italic;
+}
+
+/* settings-row mock */
+.help-set-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 16px;
+    border: 1px solid var(--duet-border);
+    border-radius: var(--help-radius-md);
+    background: var(--duet-bg);
+}
+.help-set-row .si {
+    width: 34px;
+    height: 34px;
+    border-radius: 9px;
+    flex: none;
+    background: var(--help-pill-autodraft-bg);
+    color: var(--help-pill-autodraft-ink);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.help-set-row .si svg {
+    width: 18px;
+    height: 18px;
+}
+.help-set-row .st {
+    flex: 1;
+}
+.help-set-row .st b {
+    font-size: 14px;
+    font-weight: 600;
+    display: block;
+    color: var(--prose-heading);
+}
+.help-set-row .st span {
+    font-size: 12.5px;
+    color: var(--duet-muted);
+}
+.help-switch {
+    width: 42px;
+    height: 24px;
+    border-radius: var(--help-radius-pill);
+    background: var(--help-pill-autodraft);
+    position: relative;
+    flex: none;
+}
+.help-switch::after {
+    content: "";
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--help-on-accent);
+    box-shadow: var(--help-shadow-knob);
+}
+.help-switch.off {
+    background: var(--duet-border-editorial);
+}
+.help-switch.off::after {
+    left: 2px;
+    right: auto;
+}
+
+/* email row mock with autodraft pill */
+.help-mailrow {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    padding: 12px 4px;
+    border-bottom: 1px solid var(--duet-border);
+}
+.help-mailrow.last {
+    border-bottom: 0;
+}
+.help-mailrow .av {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    flex: none;
+    background: var(--help-surface-2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--duet-muted);
+}
+.help-mailrow .mc {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+}
+.help-mailrow .mc .top {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
+.help-mailrow .mc .from {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--prose-heading);
+}
+.help-mailrow .mc .time {
+    font-size: 12px;
+    color: var(--duet-muted);
+}
+.help-mailrow .mc .subj {
+    display: block;
+    font-size: 13px;
+    color: var(--duet-fg);
+    margin-top: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.help-mailrow .mc .prev {
+    display: block;
+    font-size: 12.5px;
+    color: var(--duet-muted);
+    margin-top: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.help-mailrow .mc .help-pill {
+    align-self: flex-start;
+}
+.help-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 9px;
+    border-radius: var(--help-radius-pill);
+    margin-top: 6px;
+}
+.help-pill.autodraft {
+    background: var(--help-pill-autodraft-bg);
+    color: var(--help-pill-autodraft-ink);
+}
+.help-pill.action {
+    background: var(--help-pill-action-bg);
+    color: var(--help-pill-action-ink);
+}
+.help-pill.draft {
+    background: var(--help-pill-draft-bg);
+    color: var(--help-pill-draft-ink);
+}
+.help-pill .d {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: currentColor;
+}
+
+/* "Summarize this email" affordance + the rendered summary panel (Smart
+   Summaries figures) — token-driven so article MDX needs no inline styles. */
+.help-summarize {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 4px 0;
+}
+.help-summarize .lbl {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--prose-heading);
+}
+.help-summary {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 4px 0;
+}
+.help-summary .snippet {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--prose-heading);
+}
+.help-summary ul {
+    margin: 0;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 13.5px;
+    color: var(--prose-text);
+}
+.help-summary li {
+    margin: 0;
+}
+.help-summary .replies {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.help-summary .reply {
+    display: inline-flex;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 4px 10px;
+    border-radius: var(--help-radius-pill);
+    border: 1px solid var(--duet-border-editorial);
+    color: var(--duet-fg);
+    background: var(--help-surface-2);
+}
+
+/* annotation marker */
+.help-anno {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--duet-accent);
+    color: var(--help-on-accent);
+    font-size: 11px;
+    font-weight: 700;
+    vertical-align: middle;
+    margin: 0 2px;
+}
+
+/* related + helpful */
+.help-related {
+    margin-top: 48px;
+    border-top: 1px solid var(--duet-border);
+    padding-top: 26px;
+}
+.help-related h2 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    margin: 0 0 16px;
+    color: var(--prose-heading);
+}
+.help-related-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+@media (max-width: 600px) {
+    .help-related-grid {
+        grid-template-columns: 1fr;
+    }
+}
+.help-related-card {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 16px;
+    border: 1px solid var(--duet-border);
+    border-radius: var(--help-radius-md);
+    text-decoration: none;
+    color: inherit;
+    background: var(--help-surface);
+}
+.help-related-card:hover {
+    border-color: var(--duet-border-editorial);
+    box-shadow: var(--help-shadow-card);
+}
+.help-related-card svg {
+    width: 16px;
+    height: 16px;
+    color: var(--duet-accent);
+    flex: none;
+}
+.help-related-card span {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--prose-heading);
+}
+.help-helpful {
+    margin-top: 36px;
+    text-align: center;
+    border: 1px solid var(--duet-border);
+    border-radius: var(--help-radius-md);
+    padding: 24px;
+    background: var(--help-surface);
+}
+.help-helpful p {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 0 14px;
+    color: var(--prose-heading);
+}
+.help-helpful .opts {
+    display: inline-flex;
+    gap: 10px;
+}
+.help-helpful button {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-flex;
+    gap: 7px;
+    align-items: center;
+    border: 1px solid var(--duet-border-editorial);
+    background: var(--duet-bg);
+    color: var(--duet-fg);
+    border-radius: var(--help-radius-pill);
+    padding: 9px 18px;
+    cursor: pointer;
+}
+.help-helpful button:hover {
+    border-color: var(--duet-accent-2);
+}
+.help-helpful button:disabled {
+    cursor: default;
+    opacity: 0.55;
+}
+.help-helpful button svg {
+    width: 15px;
+    height: 15px;
+}
+.help-helpful[data-voted] .opts {
+    display: none;
+}
+.help-helpful-thanks {
+    display: none;
+    font-size: 14px;
+    color: var(--duet-muted);
+    margin: 0;
+}
+.help-helpful[data-voted] .help-helpful-thanks {
+    display: block;
+}
+
+/* Empty state — a category index with no articles yet (pre-corpus). */
+.help-empty {
+    margin: 8px 0 0;
+    padding: 22px 0;
+    font-size: 15px;
+    color: var(--duet-muted);
+}
+
+/* TOC (right rail) */
+.help-toc {
+    position: sticky;
+    top: 88px;
+    font-size: 13px;
+}
+.help-toc .h {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--duet-muted);
+    margin: 0 0 10px;
+}
+.help-toc a {
+    display: block;
+    color: var(--duet-muted);
+    text-decoration: none;
+    padding: 4px 0 4px 12px;
+    border-left: 2px solid var(--duet-border);
+    line-height: 1.4;
+}
+.help-toc a:hover {
+    color: var(--duet-fg);
+}
+.help-toc a.active {
+    color: var(--duet-accent);
+    border-left-color: var(--duet-accent);
+    font-weight: 600;
+}
+
+/* ---- search modal (native <dialog>) ---------------------------------- */
+/* Reset the UA dialog box so the inner .box owns the visible card. The dialog
+   is the positioning container: top-anchored, horizontally centered, no chrome
+   of its own. showModal() handles focus trap + background inert + Esc; the
+   ::backdrop below paints the scrim (no overlay <button> needed). */
+.help-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 90;
+    max-width: 600px;
+    width: calc(100% - 32px);
+    height: max-content;
+    max-height: calc(100dvh - 32px);
+    margin: 88px auto 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: inherit;
+    overflow: visible;
+}
+/* :not([open]) dialogs are display:none by the UA; nothing extra needed. */
+.help-modal::backdrop {
+    background: var(--help-overlay);
+    backdrop-filter: blur(3px);
+}
+.help-modal .box {
+    position: relative;
+    background: var(--help-surface);
+    border: 1px solid var(--duet-border-editorial);
+    border-radius: 14px;
+    box-shadow: var(--help-shadow-pop);
+    overflow: hidden;
+    animation: help-pop 0.18s var(--help-ease-spring);
+}
+@keyframes help-pop {
+    from {
+        opacity: 0;
+        transform: translateY(-8px) scale(0.99);
+    }
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+.help-modal .sb {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 18px;
+    border-bottom: 1px solid var(--duet-border);
+}
+.help-modal .sb svg {
+    width: 20px;
+    height: 20px;
+    color: var(--duet-muted);
+}
+.help-modal .sb input {
+    flex: 1;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-family: var(--font-sans);
+    font-size: 16px;
+    color: var(--duet-fg);
+}
+/* Visible keyboard-focus affordance: the input's own outline is removed, so the
+   search row carries the focus ring while typing. */
+.help-modal .sb:focus-within {
+    outline: 2px solid var(--duet-accent-2);
+    outline-offset: -2px;
+    border-radius: 14px 14px 0 0;
+}
+.help-modal .results {
+    max-height: 380px;
+    overflow: auto;
+    padding: 8px;
+}
+.help-modal .rg {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--duet-muted);
+    padding: 10px 12px 4px;
+}
+.help-modal .ri {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 11px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+}
+.help-modal .ri:hover,
+.help-modal .ri.sel {
+    background: var(--help-hover);
+}
+.help-modal .ri .ric {
+    width: 30px;
+    height: 30px;
+    border-radius: 8px;
+    flex: none;
+    background: var(--help-surface-2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--duet-accent);
+}
+.help-modal .ri .ric svg {
+    width: 16px;
+    height: 16px;
+}
+.help-modal .ri b {
+    font-size: 14px;
+    font-weight: 600;
+    display: block;
+    color: var(--prose-heading);
+}
+.help-modal .ri span {
+    font-size: 12.5px;
+    color: var(--duet-muted);
+}
+.help-modal .foot {
+    display: flex;
+    gap: 16px;
+    padding: 10px 16px;
+    border-top: 1px solid var(--duet-border);
+    font-size: 12px;
+    color: var(--duet-muted);
+}
+.help-modal .foot .help-kbd {
+    margin-right: 5px;
+}
+.help-modal .ask {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 6px;
+    padding: 12px 14px;
+    border-radius: 8px;
+    background: color-mix(in srgb, var(--duet-accent) 7%, var(--help-surface));
+    border: 1px dashed color-mix(in srgb, var(--duet-accent) 30%, transparent);
+    color: var(--duet-accent);
+    font-size: 13.5px;
+    font-weight: 600;
+}
+.help-modal .ask .help-soon {
+    margin-left: auto;
+}
+.help-modal .help-search-state {
+    padding: 22px 14px 26px;
+    text-align: center;
+    font-size: 13.5px;
+    color: var(--duet-muted);
+}
+
+/* ---- reduced motion -------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+    .help-tile,
+    .help-artrow,
+    .help-helpful button {
+        transition: none;
+    }
+    .help-modal .box {
+        animation: none;
+    }
+}
+
+/* clear the fixed site nav on in-page anchor jumps (TOC) */
+.help-article :is(h1, h2, h3) { scroll-margin-top: 104px; }

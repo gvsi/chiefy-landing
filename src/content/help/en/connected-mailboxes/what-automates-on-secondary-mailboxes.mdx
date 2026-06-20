@@ -1,0 +1,65 @@
+---
+title: "What automates on each mailbox and why"
+description: "Understand which Chiefy features work on your sign-in and connected mailboxes, and how to control them."
+category: "connected-mailboxes"
+type: "concept"
+order: 20
+keywords: ["secondary mailbox", "sign-in mailbox", "per-mailbox settings", "connected mailboxes automation", "search across mailboxes"]
+relatedSlugs: ["connected-mailboxes/add-another-mailbox", "smart-drafts/turn-on-autodraft", "smart-summaries/summarize-a-thread", "auto-labels/how-auto-labels-work"]
+updatedAt: 2026-06-18
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import SettingsIntegrations from "../../../../components/help/mocks/SettingsIntegrations.astro"
+
+<HelpTldr>
+  Your sign-in mailbox works with every Chiefy feature and can't be turned off. Any mailbox you connect is automatically read across your account — included in search and Ask Chiefy — with no separate switch to flip; the only way to stop that is to disconnect it. Drafting and labeling still run on your sign-in mailbox only. You can pre-set Smart Drafts per mailbox for when that changes.
+</HelpTldr>
+
+> **Rolling out.** Connecting additional mailboxes is currently available to a limited set of accounts while we roll it out. If you don't see these options yet, they're on the way.
+
+When you connect more than one mailbox, Chiefy treats them a little differently. One is your **sign-in mailbox** — the account you use to log in. The others are mailboxes you've added on top of it. This page explains what runs where, and which controls you have for each.
+
+## Your sign-in mailbox
+
+The mailbox you use to sign in to Chiefy is your account's identity. Chiefy authenticates you through it, so it's always part of everything Chiefy does and it can't be disconnected or switched off.
+
+In your mailbox list it shows a quiet **Used to sign in** note. There's nothing to manage here — it just works.
+
+## Mailboxes you connect
+
+Every other mailbox you add is a **connected mailbox**. Once connected, it syncs in the background and is automatically read across your account — Chiefy includes it in search and in Ask Chiefy answers, so a question like "what did the studio say about the invoice?" can look across all your inboxes, not just the one you signed in with.
+
+There's no separate on/off switch for this. Connecting a mailbox means Chiefy uses it everywhere it reads across your email. If you want to stop that, **disconnect the mailbox** — that's the only off-switch, and it's reversible. A connected mailbox shows a **Connected** status, with **Reconnect** and **Disconnect** the only actions in its row.
+
+{/* TODO: real screenshot */}
+<SettingsIntegrations />
+
+## What runs on a connected mailbox today
+
+Reading across mailboxes and writing on them are two different things, and they don't both apply to a connected mailbox yet.
+
+**What's live on every connected mailbox:**
+
+- **Search** — its email is included when you search across your account.
+- **Ask Chiefy** — it's part of the inboxes Ask Chiefy can draw on for answers.
+
+Both are read-only — Chiefy looks across the mailbox, it doesn't act on it. This happens automatically once the mailbox is connected; to remove a mailbox from search and Ask Chiefy, disconnect it.
+
+**What still runs on your sign-in mailbox only:**
+
+- **[Smart Drafts](/help/smart-drafts/turn-on-autodraft)** — automatic reply drafts are prepared for your sign-in mailbox, not yet for connected ones.
+- **[Auto Labels](/help/auto-labels/how-auto-labels-work)** — Chiefy's category labels are applied in your sign-in mailbox only.
+
+So a connected mailbox is something Chiefy can *read across* today — answer questions about, find things in — rather than one it organizes or drafts replies in. Writing on connected mailboxes is something we're building toward, not something to expect yet.
+
+### Setting up Smart Drafts ahead of time
+
+You can still tune Smart Drafts per mailbox now, so the setup is ready when drafting extends to connected mailboxes. For each connected mailbox you can set:
+
+- **On or off** — whether Chiefy should draft replies for that inbox.
+- **Sensitivity** — how often it drafts, from rarely to more eagerly.
+- **Signature** — the sign-off to use on drafts from that mailbox.
+
+A common plan: leave Smart Drafts off for a busy shared inbox you only monitor, and keep it on for your own inbox where you actually reply. A shared inbox — a bookings address, a team alias — usually shouldn't sign off the way your personal inbox does, so each mailbox can hold its own signature instead of inheriting yours. Today these settings take effect on your sign-in mailbox; for any other mailbox they're saved and waiting.
+
+> By default, a connected mailbox follows your sign-in mailbox's settings. You only need to change something when a particular inbox should behave differently.

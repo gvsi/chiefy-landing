@@ -1,0 +1,122 @@
+---
+/**
+ * GmailRow — a single inbox row rendered in Gmail's real palette (hardcoded;
+ * NOT theme tokens). The polished, screenshot-grade upgrade of the help center's
+ * MailRow.astro: it adds the Gmail row anatomy (checkbox, star, sender column,
+ * inline label chips, attachment clip, date), all the row states (unread / read
+ * / selected / hover), and the native red "Draft" marker.
+ *
+ *   <GmailRow sender="Bayview Cottages" subject="Two double rooms"
+ *             snippet="Hi, just confirming the booking for…"
+ *             time="2:34 PM" unread starred
+ *             chips={[{ label: "[Chiefy]/Action Needed", bg:"#fce8e6", ink:"#c5221f" }]} />
+ *   <GmailRow selected ... />                       // selected (blue) row
+ *   <GmailRow hover ... />                          // hover → date becomes actions
+ *   <GmailRow draft recipient="Alex Morgan" ... />  // native red "Draft" marker
+ *
+ * `avatar` + `avatarColor` render a colored initials circle (omit for the bare
+ * checkbox+star list). `anno` floats a small Gmail-blue [A] badge for the
+ * labeled-anatomy hero. `last` drops the bottom divider.
+ */
+import GmailIcon from "./GmailIcon.astro"
+import GmailLabelChip from "./GmailLabelChip.astro"
+import GmailStyles from "./GmailStyles.astro"
+
+type Chip = { label: string; bg: string; ink: string; swatch?: boolean; swatchColor?: string }
+
+type Props = {
+    sender?: string
+    subject?: string
+    snippet?: string
+    time?: string
+    unread?: boolean
+    read?: boolean
+    starred?: boolean
+    selected?: boolean
+    hover?: boolean
+    /** Native unsent-draft row: shows a red "Draft" word before the recipient. */
+    draft?: boolean
+    /** Recipient shown after the red "Draft" word (draft rows). */
+    recipient?: string
+    chips?: Chip[]
+    /** Show a paperclip after the snippet. */
+    attachment?: boolean
+    /** Optional colored avatar circle; pair with `avatarColor`. */
+    avatar?: string
+    avatarColor?: string
+    /** Float a small Gmail-blue anatomy badge on this row's controls. */
+    anno?: string
+    last?: boolean
+}
+
+const {
+    sender,
+    subject,
+    snippet,
+    time,
+    unread = false,
+    starred = false,
+    selected = false,
+    hover = false,
+    draft = false,
+    recipient,
+    chips = [],
+    attachment = false,
+    avatar,
+    avatarColor = "#5f6368",
+    anno,
+    last = false,
+} = Astro.props
+
+const stateClass = [
+    "gm-row",
+    unread ? "unread" : "",
+    selected ? "selected" : "",
+    hover ? "hover" : "",
+    last ? "last" : "",
+]
+    .filter(Boolean)
+    .join(" ")
+---
+
+<GmailStyles />
+<div class={stateClass}>
+    <span class="gm-cb" role="checkbox" aria-checked={selected ? "true" : "false"} aria-label="Select"></span>
+    {anno && <span class="gm-annobadge">{anno}</span>}
+    <span class={`gm-star${starred ? " on" : ""}`} role="img" aria-label={starred ? "Starred" : "Not starred"}>
+        <GmailIcon name={starred ? "star-filled" : "star"} />
+    </span>
+
+    {avatar && (
+        <span class="gm-av" style={`background:${avatarColor};`} aria-hidden="true">{avatar}</span>
+    )}
+
+    <span class="gm-sender">
+        {draft && <span class="gm-draftword">Draft</span>}
+        {draft ? `To: ${recipient}` : sender}
+    </span>
+
+    <span class="gm-body">
+        {chips.map((c) => (
+            <GmailLabelChip label={c.label} bg={c.bg} ink={c.ink} swatch={c.swatch} swatchColor={c.swatchColor} />
+        ))}
+        {subject && <span class="gm-subj">{subject}</span>}
+        {snippet && <span class="gm-snip">{snippet}</span>}
+    </span>
+
+    {attachment && (
+        <span class="gm-clip" aria-label="Has attachment"><GmailIcon name="clip" /></span>
+    )}
+
+    <span class="gm-meta">
+        {hover ? (
+            <span class="gm-actions" role="group" aria-label="Row actions">
+                <span class="gm-iconbtn" aria-label="Archive"><GmailIcon name="archive" /></span>
+                <span class="gm-iconbtn" aria-label="Delete"><GmailIcon name="trash" /></span>
+                <span class="gm-iconbtn" aria-label="Snooze"><GmailIcon name="snooze" /></span>
+            </span>
+        ) : (
+            <span class="gm-date">{time}</span>
+        )}
+    </span>
+</div>

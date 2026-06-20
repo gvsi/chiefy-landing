@@ -1,0 +1,33 @@
+---
+/**
+ * HelpRelated — the "Related articles" card grid at the end of an article. The
+ * layout (Phase 2) resolves an article's `relatedSlugs` into these entries.
+ * Renders nothing when there are no related articles.
+ */
+import HelpIcon from "./HelpIcon.astro"
+import { HELP_UI } from "../../content/help/_ui"
+
+type RelatedItem = { title: string; href: string; iconKey?: string }
+
+type Props = {
+    articles: RelatedItem[]
+}
+
+const { articles } = Astro.props
+---
+
+{
+    articles.length > 0 && (
+        <section class="help-related">
+            <h2>{HELP_UI.article.related}</h2>
+            <div class="help-related-grid">
+                {articles.map((article) => (
+                    <a class="help-related-card" href={article.href}>
+                        <HelpIcon name={article.iconKey ?? "note"} size={16} />
+                        <span>{article.title}</span>
+                    </a>
+                ))}
+            </div>
+        </section>
+    )
+}

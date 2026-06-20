@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "Logotips de clients",
   "home.testimonialsAria": "Testimonis",
   "home.scrollingTestimonialsAria": "Testimonis de desplaçament",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "客戶 Logo",
   "home.testimonialsAria": "推薦語",
   "home.scrollingTestimonialsAria": "滾動推薦語",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

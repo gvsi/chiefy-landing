@@ -1,0 +1,34 @@
+---
+/**
+ * GmailLabelChip — a single Gmail-style label chip (pastel background + dark
+ * ink), the way Gmail renders a user/system label inline next to a subject or
+ * inside a thread header. Gmail chrome → hardcoded palette (NOT theme tokens).
+ *
+ *   <GmailLabelChip label="[Chiefy]/Action Needed" bg="#fce8e6" ink="#c5221f" />
+ *   <GmailLabelChip label="Travel" bg="#e6f4ea" ink="#137333" swatch />
+ *
+ * Pass `swatch` to show a small color square (matching the ink) on the left, the
+ * way Gmail renders the parent-label color dot. Truncates long labels.
+ */
+import GmailStyles from "./GmailStyles.astro"
+
+type Props = {
+    label: string
+    /** Pastel chip background (Gmail label color, hardcoded). */
+    bg: string
+    /** Dark ink for the chip text (hardcoded). */
+    ink: string
+    /** Show a small color swatch square at the left (defaults to ink color). */
+    swatch?: boolean
+    /** Override swatch color (defaults to ink). */
+    swatchColor?: string
+}
+
+const { label, bg, ink, swatch = false, swatchColor } = Astro.props
+---
+
+<GmailStyles />
+<span class="gm-chip" style={`background:${bg};color:${ink};`}>
+    {swatch && <span class="gm-chip-sw" style={`background:${swatchColor ?? ink};`} aria-hidden="true"></span>}
+    {label}
+</span>

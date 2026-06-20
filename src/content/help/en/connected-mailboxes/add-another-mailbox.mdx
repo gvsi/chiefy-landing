@@ -1,0 +1,86 @@
+---
+title: "Connect another Gmail or Outlook mailbox"
+description: "Step-by-step guide to connect a second Gmail or Outlook account to your Chiefy account."
+category: "connected-mailboxes"
+type: "how-to"
+order: 10
+keywords: ["connect mailbox", "add gmail account", "add outlook account", "multiple mailboxes", "connected mailboxes"]
+relatedSlugs: ["connected-mailboxes/what-automates-on-secondary-mailboxes", "smart-drafts/turn-on-autodraft", "getting-started/connect-gmail-or-outlook"]
+updatedAt: 2026-06-18
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingRow from "../../../../components/help/SettingRow.astro"
+
+<HelpTldr>
+  You can run several mailboxes under one Chiefy login. Open Settings → Integrations → Connected Mailboxes, choose Gmail or Outlook, and approve access. The new mailbox starts working right away — searchable and ready for Ask Chiefy.
+</HelpTldr>
+
+> **Rolling out.** Connecting additional mailboxes is currently available to a limited set of accounts while we roll it out. If you don't see these options yet, they're on the way.
+
+Most people have more than one inbox — a work Gmail, a personal Outlook, a shared booking address. Connected Mailboxes brings them together so Chiefy can read across all of them from a single login. You can connect up to eight mailboxes, in any mix of Gmail and Outlook.
+
+## Before you start
+
+You'll need to be signed in to Chiefy with the mailbox you already use. That first mailbox — the one you log in with — is your sign-in mailbox, and it's always connected. Everything below is about adding another one alongside it.
+
+> New to Chiefy and connecting your first inbox? Start with [Connect Gmail or Outlook](/help/getting-started/connect-gmail-or-outlook) instead.
+
+## Connect another mailbox
+
+<HelpSteps>
+  <HelpStep title="Open Connected Mailboxes" anno="A">
+    Go to **Settings → Integrations → Connected Mailboxes**. You'll see every mailbox already synced to your account, with a **Connect mailbox** button at the top.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Chiefy · Settings → Integrations → Connected Mailboxes" figcaption="Settings → Integrations → Connected Mailboxes → Connect mailbox.">
+      <SettingRow title="Connect mailbox" anno="A" description="Add another Gmail or Outlook account to this Chiefy account" iconKey="mailboxes" />
+    </MockWindow>
+  </HelpStep>
+  <HelpStep title="Choose a provider" anno="B">
+    Select **Connect mailbox**, then pick **Gmail** (a Google account) or **Outlook** (a Microsoft account) from the chooser.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Chiefy · Choose a provider" figcaption="Pick the provider that matches the account you want to add.">
+      <SettingRow title="Gmail" anno="B" description="Google account" iconKey="mail" on={false} />
+      <SettingRow title="Outlook" description="Microsoft account" iconKey="mail" on={false} />
+    </MockWindow>
+  </HelpStep>
+  <HelpStep title="Sign in and approve access">
+    A sign-in window opens for the provider you chose. Sign in to the account you want to add and approve the permissions — Chiefy asks for mail access so it can read your mail there. Keep the mail permission checked, or the connection can't complete.
+  </HelpStep>
+  <HelpStep title="See it confirmed" anno="C">
+    When the window closes, a **Mailbox connected** banner appears and the new mailbox joins the list.
+    {/* TODO: real screenshot */}
+    <MockWindow title="Chiefy · Settings → Integrations → Connected Mailboxes" figcaption="The new mailbox is connected and starts syncing immediately.">
+      <SettingRow title="Mailbox connected" anno="C" description="bookings@example.com connected" iconKey="info" />
+    </MockWindow>
+  </HelpStep>
+</HelpSteps>
+
+## What happens after you connect
+
+A newly connected mailbox is on by default. As soon as it finishes syncing, its email is searchable and available to [Ask Chiefy](/help/ask-chiefy), so you can ask questions across all your inboxes at once.
+
+A connected mailbox is automatically included in search and Ask Chiefy — there's no separate switch to turn that on or off. If you want to stop Chiefy reading a mailbox, disconnect it. Your sign-in mailbox is always included and can't be disconnected, because you use it to log in.
+
+> Reading across mailboxes and writing on them are separate things. For exactly what runs automatically on a secondary mailbox, see [What automates on secondary mailboxes](/help/connected-mailboxes/what-automates-on-secondary-mailboxes).
+
+## Set up Smart Drafts per mailbox
+
+Smart Drafts can be tuned for each mailbox on its own. For every connected mailbox you can:
+
+- Turn Smart Drafts on or off for that mailbox
+- Set how often it offers a draft (its sensitivity)
+- Choose the signature it uses
+
+So your work mailbox and your personal mailbox can behave completely differently. To turn on the automatic mode, see [Turn on Autodraft](/help/smart-drafts/turn-on-autodraft).
+
+## Limits and common errors
+
+A few things to know going in:
+
+- **Eight mailboxes, total.** You can connect up to eight non-disconnected mailboxes across Gmail and Outlook combined, including your sign-in mailbox. If you reach the limit, disconnect one you no longer need before adding another.
+- **The sign-in mailbox can't be disconnected.** It's the identity you log in with, so it always stays connected.
+- **A mailbox can only belong to one Chiefy account.** If the address is already connected to a different Chiefy account, you'll see an error. Disconnect it from that account first, or contact support to move it over.
+- **Permission needed.** If the connection fails with a permission error, run it again and accept the Gmail or Outlook mail access when prompted.

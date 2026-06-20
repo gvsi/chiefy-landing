@@ -1,0 +1,23 @@
+---
+/**
+ * HelpContact — closing "still need a hand?" band on the help home: an email CTA
+ * (mailto support) plus a trust strip. Copy comes from HELP_UI.contact.
+ */
+import HelpIcon from "./HelpIcon.astro"
+import { HELP_UI } from "../../content/help/_ui"
+import { SUPPORT_MAILTO } from "../../utils/constants"
+
+const { title, subtitle, cta, trust } = HELP_UI.contact
+---
+
+<section class="help-contact">
+    <h2>{title}</h2>
+    <p>{subtitle}</p>
+    <div class="help-btns">
+        <a class="help-btn-primary" href={SUPPORT_MAILTO}>
+            <HelpIcon name="mail" size={16} stroke={1.7} />
+            {cta}
+        </a>
+    </div>
+    <p class="help-trust">{trust}</p>
+</section>

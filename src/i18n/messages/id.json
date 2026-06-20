@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "Logo pelanggan",
   "home.testimonialsAria": "Testimonial",
   "home.scrollingTestimonialsAria": "Menggulir testimonial",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

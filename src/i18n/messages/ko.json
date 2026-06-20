@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "고객 로고",
   "home.testimonialsAria": "사용후기",
   "home.scrollingTestimonialsAria": "스크롤링 사용후기",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

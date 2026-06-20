@@ -1,0 +1,55 @@
+---
+/**
+ * MailRow — a single inbox row inside a <MockWindow>, used to illustrate states
+ * like an Autodraft-ready thread. MDX-usable:
+ *
+ *   <MailRow avatar="RH" from="Bayview Cottages" time="9:24 AM"
+ *            subject="Re: Booking for 4" preview="Hi — could you confirm…"
+ *            pillLabel="Draft" pillVariant="draft" />
+ *   <MailRow … pillLabel="No reply needed" pillVariant="action" last />
+ *
+ * `pillVariant` is "autodraft" (emerald), "action" (red), or "draft" (neutral
+ * grey — Gmail's own draft marker). `last` drops the
+ * bottom divider for the final row in a list. `anno` renders a small annotation
+ * marker (e.g. "A") beside the sender, cross-referencing a step's callout.
+ */
+type Props = {
+    /** 1–2 letter avatar initials. */
+    avatar: string
+    from: string
+    time: string
+    subject: string
+    preview: string
+    pillLabel?: string
+    pillVariant?: "autodraft" | "action" | "draft"
+    /** Drop the bottom border (last row in a stack). */
+    last?: boolean
+    /** Optional annotation marker letter/number shown beside the sender. */
+    anno?: string
+}
+
+const { avatar, from, time, subject, preview, pillLabel, pillVariant = "autodraft", last = false, anno } = Astro.props
+---
+
+<div class={`help-mailrow${last ? " last" : ""}`}>
+    <span class="av">{avatar}</span>
+    <span class="mc">
+        <span class="top">
+            <span class="from">
+                {anno && <span class="help-anno">{anno}</span>}
+                {from}
+            </span>
+            <span class="time">{time}</span>
+        </span>
+        <span class="subj">{subject}</span>
+        <span class="prev">{preview}</span>
+        {
+            pillLabel && (
+                <span class={`help-pill ${pillVariant}`}>
+                    <span class="d"></span>
+                    {pillLabel}
+                </span>
+            )
+        }
+    </span>
+</div>
