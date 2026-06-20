@@ -1,0 +1,121 @@
+---
+/**
+ * OnboardingTrialCheckout — the trial / checkout step (Step4Pricing.tsx).
+ * Tokenized Chiefy surface, correct in both themes.
+ *
+ *   - centered Chiefy lockup, heading "Start your 14-day free trial", subtitle,
+ *   - two pricing cards: Annual (recommended, "4 Months Free" badge, $0 trial
+ *     hero, savings line, dark CTA) + Monthly (plain, $0 trial hero, outline CTA),
+ *   - the 7 CORE_FEATURES (verbatim copy) as a checklist in each card,
+ *   - a Stripe trust footer.
+ *
+ * No free/Basic tier and no lifetime on this screen — Pro Annual vs Pro Monthly,
+ * both $0 for the 14-day trial. Heading / feature copy verbatim from Step4Pricing.
+ * Currency/amounts are representative placeholders.
+ *
+ *   <OnboardingTrialCheckout />
+ */
+import MockScreen from "./MockScreen.astro"
+import ChiefyGem from "./ChiefyGem.astro"
+import MockIcon from "./MockIcon.astro"
+
+const FEATURES = [
+    { t: "Smart Inbox", d: "Emails auto-sorted into categories that make sense" },
+    { t: "AI Drafts", d: "Replies written in your voice, ready to send" },
+    { t: "Chiefy Assistant", d: "Chat to find, draft, organize & more" },
+    { t: "Calendar Integration", d: "Schedule, view & manage events from your inbox" },
+    { t: "Instant Summaries", d: "Get the gist of any thread or attachment" },
+    { t: "Smart Reminders", d: "Follow-ups surface automatically so nothing slips" },
+    { t: "Priority Support", d: "Real humans, fast responses" },
+]
+---
+
+<MockScreen
+    title="Chiefy · Start your free trial"
+    figcaption="Start a 14-day free trial — $0 today, cancel anytime. Secure checkout via Stripe."
+>
+    <div class="hms-screen">
+        <div class="hms-screen-inner wide">
+            <div class="hms-checkout">
+                <div class="hms-checkout-lockup">
+                    <ChiefyGem size={26} title="Chiefy logo" />
+                    <span class="word">Chiefy</span>
+                </div>
+                <h2 class="hms-checkout-h">Start your 14-day free trial</h2>
+                <p class="hms-checkout-sub">Unlock all features today. Cancel anytime.</p>
+
+                <div class="hms-plan-grid">
+                    {/* Annual — recommended */}
+                    <div class="hms-plan-card best">
+                        <span class="hms-plan-badge">4 Months Free</span>
+                        <div class="hms-plan-card-top">
+                            <div>
+                                <p class="ptitle">Annual</p>
+                                <p class="hms-plan-price">
+                                    <span class="strike">$20</span>
+                                    <span class="big">$13.33</span>/month
+                                    <span style="display:block;opacity:.7;margin-top:2px">(billed yearly)</span>
+                                </p>
+                            </div>
+                            <div class="hms-trial-hero">
+                                <div class="amt">$0.00</div>
+                                <div class="cap">For 14 days</div>
+                            </div>
+                        </div>
+                        <ul class="hms-feat-check-list">
+                            {
+                                FEATURES.map((f) => (
+                                    <li>
+                                        <span class="hms-check-badge"><MockIcon name="check" size={11} /></span>
+                                        <span class="ft"><b>{f.t}</b><span>{f.d}</span></span>
+                                    </li>
+                                ))
+                            }
+                        </ul>
+                        <p class="hms-save-line">Save $80/year vs monthly</p>
+                        <button class="hms-plan-cta dark" type="button">
+                            Start free trial
+                            <MockIcon name="chevron-right" size={15} />
+                        </button>
+                    </div>
+
+                    {/* Monthly — plain */}
+                    <div class="hms-plan-card">
+                        <div class="hms-plan-card-top">
+                            <div>
+                                <p class="ptitle">Monthly</p>
+                                <p class="hms-plan-price"><span class="big">$20</span>/month</p>
+                            </div>
+                            <div class="hms-trial-hero">
+                                <div class="amt">$0.00</div>
+                                <div class="cap">For 14 days</div>
+                            </div>
+                        </div>
+                        <ul class="hms-feat-check-list">
+                            {
+                                FEATURES.map((f) => (
+                                    <li>
+                                        <span class="hms-check-badge"><MockIcon name="check" size={11} /></span>
+                                        <span class="ft"><b>{f.t}</b><span>{f.d}</span></span>
+                                    </li>
+                                ))
+                            }
+                        </ul>
+                        <button class="hms-plan-cta outline" type="button">
+                            Start free trial
+                            <MockIcon name="chevron-right" size={15} />
+                        </button>
+                    </div>
+                </div>
+
+                <div class="hms-checkout-foot">
+                    <span>Secure checkout via Stripe</span>
+                    <span class="sep" aria-hidden="true"></span>
+                    <span>Cancel anytime</span>
+                    <span class="sep" aria-hidden="true"></span>
+                    <span>14-day free trial</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</MockScreen>

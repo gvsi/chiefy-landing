@@ -9,8 +9,7 @@ relatedSlugs: ["connected-mailboxes/add-another-mailbox", "smart-drafts/turn-on-
 updatedAt: 2026-06-18
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
+import SettingsIntegrations from "../../../../components/help/mocks/SettingsIntegrations.astro"
 
 <HelpTldr>
   Your sign-in mailbox works with every Chiefy feature and can't be turned off. Any mailbox you connect is automatically read across your account — included in search and Ask Chiefy — with no separate switch to flip; the only way to stop that is to disconnect it. Drafting and labeling still run on your sign-in mailbox only. You can pre-set Smart Drafts per mailbox for when that changes.
@@ -33,14 +32,7 @@ Every other mailbox you add is a **connected mailbox**. Once connected, it syncs
 There's no separate on/off switch for this. Connecting a mailbox means Chiefy uses it everywhere it reads across your email. If you want to stop that, **disconnect the mailbox** — that's the only off-switch, and it's reversible. A connected mailbox shows a **Connected** status, with **Reconnect** and **Disconnect** the only actions in its row.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Settings → Connected Mailboxes" tight figcaption="A connected mailbox shows its status; Disconnect is the only way to stop Chiefy reading it.">
-  <SettingRow
-    iconKey="mailboxes"
-    title="bookings@example.com"
-    description="Connected — included in search and Ask Chiefy"
-    on={true}
-  />
-</MockWindow>
+<SettingsIntegrations />
 
 ## What runs on a connected mailbox today
 

@@ -9,8 +9,7 @@ relatedSlugs: ["smart-drafts/use-smart-drafts-on-demand"]
 updatedAt: 2026-06-16
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
+import AiWriterBandMock from "../../../../components/help/mocks/AiWriterBandMock.astro"
 
 <HelpTldr>
   Two controls shape every Smart Draft: tone sets the style, length sets the size. On top of that, Chiefy learns from your past emails to sound like you — and a short directive tells it exactly what to say.
@@ -39,11 +38,18 @@ Length controls how much Chiefy writes. There are four options:
 
 Chiefy picks a sensible tone and length for the first draft based on the thread. The tone and length controls then let you steer from there — switch either one and Chiefy reshapes the draft to match.
 
-{/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Smart Drafts" figcaption="Tone and length sit on the draft; the same reply changes shape as you switch them.">
-  <SettingRow title="Tone" description="Professional — clear and business-appropriate" iconKey="sliders" on={false} />
-  <SettingRow title="Length" description="Short — 1–2 sentences (default)" iconKey="sliders" on={false} />
-</MockWindow>
+<AiWriterBandMock
+  state="ready"
+  figcaption="Tone and length sit on the draft; the same reply changes shape as you switch them."
+  subject="Re: Booking for 4 — last weekend of August"
+  recipients={[{ label: "bookings@bayviewcottages.com" }]}
+  body={[
+    "Hi,",
+    "Thanks for getting in touch — I'd be glad to help with your booking. I can confirm we have two double rooms available for the last weekend of August.",
+    "Would you like me to hold them while you decide? Just let me know and I'll send over the details.",
+  ]}
+  signOff={"Best,\nAlex"}
+/>
 
 Here is roughly how the same reply shifts when you change one control:
 

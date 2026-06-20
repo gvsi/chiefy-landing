@@ -9,9 +9,8 @@ relatedSlugs: ["auto-labels/turning-off-auto-labels", "auto-labels/fixing-miscat
 updatedAt: 2026-06-18
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
-import MailRow from "../../../../components/help/MailRow.astro"
+import GmailNestedLabels from "../../../../components/help/mocks/GmailNestedLabels.astro"
+import SettingsCategorization from "../../../../components/help/mocks/SettingsCategorization.astro"
 
 <HelpTldr>
   Auto Labels reads each new email and sorts it into the right label for you — no rules to set up. Eight categories are built in, you can add your own, and you decide which ones stay in your inbox.
@@ -41,11 +40,10 @@ In **Gmail**, each category appears as a nested label under a single parent labe
 > The parent label is named `[Chiefy]` — for example, `[Chiefy]/Action needed`. The categories all nest under it.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Gmail · Labels" tight figcaption="System categories nest under one parent label in Gmail.">
-  <MailRow avatar="AN" from="[Chiefy]/Action needed" time="" subject="Re: Booking for 4 — last weekend of August" preview="Hi — could you confirm the two double rooms and…" pillLabel="Action needed" pillVariant="action" />
-  <MailRow avatar="AW" from="[Chiefy]/Awaiting reply" time="" subject="Quote follow-up" preview="Just checking in on the quote I sent over last…" pillLabel="Awaiting reply" pillVariant="autodraft" />
-  <MailRow avatar="PR" from="[Chiefy]/Promotions" time="" subject="Spring sale — 30% off everything" preview="Limited time only. Upgrade now and save on…" pillLabel="Promotions" pillVariant="autodraft" last />
-</MockWindow>
+<figure class="help-mock-figure">
+  <GmailNestedLabels standalone />
+  <figcaption class="help-figcap">System categories nest under one parent label in Gmail.</figcaption>
+</figure>
 
 ## How Chiefy decides
 
@@ -60,10 +58,7 @@ For each category, you choose whether matching emails **stay in your inbox** or 
 > Auto-archiving (moving an email out of the inbox) currently applies in **Gmail**. In **Outlook**, Chiefy tags each email with its category so you can sort and filter, but emails stay where they are.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Settings → Auto Labels" figcaption="Each category can stay in your inbox or be auto-archived.">
-  <SettingRow title="Action needed" description="Keep in inbox" iconKey="labels" />
-  <SettingRow title="Promotions" description="Auto-archive out of the inbox" iconKey="labels" on={false} />
-</MockWindow>
+<SettingsCategorization />
 
 ## Turning Auto Labels on and off
 

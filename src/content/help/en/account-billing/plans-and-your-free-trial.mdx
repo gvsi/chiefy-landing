@@ -9,8 +9,7 @@ relatedSlugs: ["account-billing/upgrade-downgrade-or-cancel", "account-billing/p
 updatedAt: 2026-06-16
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
+import SettingsBilling from "../../../../components/help/mocks/SettingsBilling.astro"
 
 <HelpTldr>
   Chiefy has two plans: Free and Pro. The Free plan covers the essentials at no cost, forever. Pro unlocks everything, and every new Pro subscriber starts with a 14-day free trial.
@@ -39,12 +38,7 @@ Here's what each plan includes.
 - **Priority support** — faster help when you need it
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Settings → Subscription & Billing" figcaption="Your current plan and what's included show under Settings → Subscription & Billing.">
-  <SettingRow title="Smart Drafts" description="Replies written in your voice — unlimited on Pro" iconKey="pen" />
-  <SettingRow title="Smart Summaries" description="A one-tap TL;DR of any thread or email" iconKey="summary" />
-  <SettingRow title="Auto Labels" description="Every email sorted into the right label, automatically" iconKey="labels" />
-  <SettingRow title="Calendar Integration" description="Scheduling and calendar context inside your drafts — Pro" iconKey="calendar" />
-</MockWindow>
+<SettingsBilling />
 
 ## Your 14-day free trial
 

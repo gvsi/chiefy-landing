@@ -13,6 +13,7 @@ import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
 import MockWindow from "../../../../components/help/MockWindow.astro"
 import SettingRow from "../../../../components/help/SettingRow.astro"
+import SettingsIntegrations from "../../../../components/help/mocks/SettingsIntegrations.astro"
 
 <HelpTldr>
   You can step back from Chiefy at any time. Disconnect a mailbox to pause automation and sync, revoke Chiefy's access from ChatGPT, or email us to delete your personal data for good. You stay in control of every level.
@@ -36,9 +37,7 @@ Disconnecting tells Chiefy to stop watching and syncing a connected account. Aut
   <HelpStep title="Disconnect it" anno="A">
     On that mailbox's row, open the overflow menu (**⋯**) and choose **Disconnect**, then confirm. Chiefy pauses automation and sync for that account right away. Your previously synced data stays in place.
     {/* TODO: real screenshot */}
-    <MockWindow title="Chiefy · Integrations → Connected mailboxes" figcaption="Open the ⋯ menu on a mailbox and choose Disconnect.">
-      <SettingRow title="work@company.com" anno="A" description="Disconnect to pause automation and sync — synced data is kept" iconKey="mailboxes" on={false} />
-    </MockWindow>
+    <SettingsIntegrations />
   </HelpStep>
 </HelpSteps>
 

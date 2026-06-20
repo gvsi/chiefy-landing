@@ -1,0 +1,329 @@
+---
+/**
+ * GmailIcon — inline SVG icon set for the Gmail-native mocks. Material-style
+ * line/solid glyphs matching Gmail's web UI. Decorative by default (aria-hidden);
+ * pass `title` to expose an accessible name. Inherits `currentColor`, so the
+ * parent Gmail class controls color (no hardcoded fills here except the
+ * multicolor Gmail "M" logo, which is brand-fixed).
+ *
+ *   <GmailIcon name="star" />
+ *   <GmailIcon name="star-filled" />          // active star (fill currentColor)
+ *   <GmailIcon name="compose" size={20} />
+ *   <GmailIcon name="gmail-logo" />           // the multicolor M envelope
+ */
+type Props = {
+    name: string
+    size?: number
+    title?: string
+    class?: string
+}
+
+const { name, size, title, class: className } = Astro.props
+
+const common = {
+    width: size,
+    height: size,
+    class: className,
+    role: (title ? "img" : undefined) as "img" | undefined,
+    "aria-label": title,
+    "aria-hidden": (title ? undefined : "true") as "true" | undefined,
+    focusable: "false",
+}
+const stroke = {
+    fill: "none",
+    stroke: "currentColor",
+    "stroke-width": 1.9,
+    "stroke-linecap": "round",
+    "stroke-linejoin": "round",
+} as const
+---
+
+{
+    name === "gmail-logo" && (
+        <svg {...common} viewBox="0 0 24 24" fill="none">
+            {title && <title>{title}</title>}
+            <path d="M22 5.5v13a1.5 1.5 0 0 1-1.5 1.5H18V9.4l-6 4.5-6-4.5V19.5H3.5A1.5 1.5 0 0 1 2 18.5v-13l1.6-1.2 1 .8L12 10.4l6.4-5.3 1-.8L21 5.5h1z" fill="#4285f4" />
+            <path d="M6 19.5V9.4l6 4.5V20H6z" fill="#34a853" />
+            <path d="M18 19.5V9.4l-6 4.5V20h6z" fill="#fbbc04" opacity="0" />
+            <path d="M2 5.5 12 13l10-7.5L20.4 4H3.6L2 5.5z" fill="#ea4335" />
+            <path d="M2 5.5v.0L3.5 4h.1l-1.6 1.5z" fill="#c5221f" />
+        </svg>
+    )
+}
+{
+    name === "compose" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M12 20h9" />
+            <path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4 12.5-12.5z" />
+        </svg>
+    )
+}
+{
+    name === "search" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <circle cx="11" cy="11" r="7" />
+            <path d="m21 21-4.3-4.3" />
+        </svg>
+    )
+}
+{
+    name === "tune" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <line x1="4" y1="7" x2="20" y2="7" />
+            <line x1="4" y1="17" x2="20" y2="17" />
+            <circle cx="9" cy="7" r="2.4" fill="currentColor" stroke="none" />
+            <circle cx="15" cy="17" r="2.4" fill="currentColor" stroke="none" />
+        </svg>
+    )
+}
+{
+    name === "inbox" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M22 12h-6l-2 3h-4l-2-3H2" />
+            <path d="M5.5 5.5h13l3.5 6.5v6a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-6l3.5-6.5z" />
+        </svg>
+    )
+}
+{
+    name === "star" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="m12 3 2.7 5.5 6 .9-4.3 4.2 1 6L12 17l-5.4 2.6 1-6L3.3 9.4l6-.9L12 3z" />
+        </svg>
+    )
+}
+{
+    name === "star-filled" && (
+        <svg {...common} viewBox="0 0 24 24" fill="currentColor" stroke="none">
+            {title && <title>{title}</title>}
+            <path d="m12 3 2.7 5.5 6 .9-4.3 4.2 1 6L12 17l-5.4 2.6 1-6L3.3 9.4l6-.9L12 3z" />
+        </svg>
+    )
+}
+{
+    name === "clock" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <circle cx="12" cy="12" r="9" />
+            <path d="M12 7.5V12l3 2" />
+        </svg>
+    )
+}
+{
+    name === "send" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M22 2 11 13" />
+            <path d="M22 2 15 22l-4-9-9-4 20-7z" />
+        </svg>
+    )
+}
+{
+    name === "drafts" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9l-6-6z" />
+            <path d="M14 3v6h6" />
+        </svg>
+    )
+}
+{
+    name === "chevron-down" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="m6 9 6 6 6-6" />
+        </svg>
+    )
+}
+{
+    name === "chevron-right" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="m9 6 6 6-6 6" />
+        </svg>
+    )
+}
+{
+    name === "chevron-left" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="m15 6-6 6 6 6" />
+        </svg>
+    )
+}
+{
+    name === "back" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M19 12H5" />
+            <path d="m12 19-7-7 7-7" />
+        </svg>
+    )
+}
+{
+    name === "archive" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <rect x="3" y="4" width="18" height="4" rx="1" />
+            <path d="M5 8v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8" />
+            <path d="M10 12h4" />
+        </svg>
+    )
+}
+{
+    name === "trash" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M3 6h18" />
+            <path d="M8 6V4a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2" />
+            <path d="M19 6v14a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6" />
+            <line x1="10" y1="11" x2="10" y2="17" />
+            <line x1="14" y1="11" x2="14" y2="17" />
+        </svg>
+    )
+}
+{
+    name === "snooze" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <circle cx="12" cy="13" r="8" />
+            <path d="M12 9v4l2.5 1.5" />
+            <path d="M5 3 2 6" />
+            <path d="m19 3 3 3" />
+        </svg>
+    )
+}
+{
+    name === "mark-unread" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M3 7l9 6 9-6" />
+            <rect x="3" y="5" width="18" height="14" rx="2" />
+        </svg>
+    )
+}
+{
+    name === "label" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M3 6a2 2 0 0 1 2-2h9l6 8-6 8H5a2 2 0 0 1-2-2V6z" />
+            <circle cx="8.5" cy="12" r="1.4" fill="currentColor" stroke="none" />
+        </svg>
+    )
+}
+{
+    name === "move" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7z" />
+        </svg>
+    )
+}
+{
+    name === "more-vert" && (
+        <svg {...common} viewBox="0 0 24 24" fill="currentColor" stroke="none">
+            {title && <title>{title}</title>}
+            <circle cx="12" cy="5" r="1.8" />
+            <circle cx="12" cy="12" r="1.8" />
+            <circle cx="12" cy="19" r="1.8" />
+        </svg>
+    )
+}
+{
+    name === "more-horiz" && (
+        <svg {...common} viewBox="0 0 24 24" fill="currentColor" stroke="none">
+            {title && <title>{title}</title>}
+            <circle cx="5" cy="12" r="1.8" />
+            <circle cx="12" cy="12" r="1.8" />
+            <circle cx="19" cy="12" r="1.8" />
+        </svg>
+    )
+}
+{
+    name === "refresh" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M21 12a9 9 0 1 1-2.6-6.4" />
+            <path d="M21 4v5h-5" />
+        </svg>
+    )
+}
+{
+    name === "reply" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M9 17 4 12l5-5" />
+            <path d="M4 12h11a5 5 0 0 1 5 5v2" />
+        </svg>
+    )
+}
+{
+    name === "forward" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="m15 17 5-5-5-5" />
+            <path d="M20 12H9a5 5 0 0 0-5 5v2" />
+        </svg>
+    )
+}
+{
+    name === "clip" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M21 11.5 12.5 20a5 5 0 0 1-7-7l8.5-8.5a3.3 3.3 0 0 1 4.7 4.7l-8.5 8.5a1.7 1.7 0 0 1-2.4-2.4l7.8-7.8" />
+        </svg>
+    )
+}
+{
+    name === "format" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M5 18h14" />
+            <path d="M9 14 12 6l3 8" />
+            <path d="M10.2 11.4h3.6" />
+        </svg>
+    )
+}
+{
+    name === "emoji" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <circle cx="12" cy="12" r="9" />
+            <path d="M8.5 14.5a4.5 4.5 0 0 0 7 0" />
+            <line x1="9" y1="9.5" x2="9" y2="9.5" />
+            <line x1="15" y1="9.5" x2="15" y2="9.5" />
+        </svg>
+    )
+}
+{
+    name === "image" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <rect x="3" y="4" width="18" height="16" rx="2" />
+            <circle cx="8.5" cy="9.5" r="1.6" />
+            <path d="m4 18 5-5 4 4 3-3 4 4" />
+        </svg>
+    )
+}
+{
+    name === "link" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M10 13a5 5 0 0 0 7 0l2-2a5 5 0 0 0-7-7l-1 1" />
+            <path d="M14 11a5 5 0 0 0-7 0l-2 2a5 5 0 0 0 7 7l1-1" />
+        </svg>
+    )
+}
+{
+    name === "pencil" && (
+        <svg {...common} viewBox="0 0 24 24" {...stroke}>
+            {title && <title>{title}</title>}
+            <path d="M12 20h9" />
+            <path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4 12.5-12.5z" />
+        </svg>
+    )
+}

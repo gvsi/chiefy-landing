@@ -1,0 +1,860 @@
+/* ==========================================================================
+   Gmail-native mock styles — the "deep Gmail integration" help-center layer.
+   ------------------------------------------------------------------------
+   Gmail chrome is its OWN visual world: a real Gmail screenshot looks the same
+   regardless of the help center's light/dark theme. So EVERY value in this file
+   is HARDCODED to Gmail's real palette and never reads a duet/help theme token.
+   These class names are namespaced `gm-` and live outside the token system on
+   purpose; do not "tokenize" them.
+
+   Palette (Gmail web, comfortable density):
+     page          #ffffff      nav rail bg     #f6f8fc
+     primary text  #202124      secondary       #5f6368
+     row hover     #f2f6fc      selected row    #d3e3fd
+     link / blue   #0b57d0      borders #e0e0e0 (outer) / #dadce0 (controls)
+     compose pill  #c2e7ff ink #001d35
+     star active   #f9ab00      draft red       #d93025
+   Font: Roboto, Arial, sans-serif.
+
+   Imported by the Gmail mock .astro components (Astro dedupes the import), so it
+   loads on any page that renders a Gmail mock. Kept separate from help.css so
+   parallel work on help.css does not conflict.
+   ========================================================================== */
+
+/* The outer "device screen" — fixed Gmail palette regardless of site theme.
+   Sits inside MockWindow's body; MockWindow owns the chrome + figcaption. */
+.gm {
+    --gm-page: #ffffff;
+    --gm-nav: #f6f8fc;
+    --gm-ink: #202124;
+    --gm-ink2: #5f6368;
+    --gm-hover: #f2f6fc;
+    --gm-sel: #d3e3fd;
+    --gm-blue: #0b57d0;
+    --gm-bd: #e0e0e0;
+    --gm-bd2: #dadce0;
+    --gm-compose: #c2e7ff;
+    --gm-compose-ink: #001d35;
+    --gm-star: #f9ab00;
+    --gm-draft: #d93025;
+    --gm-search: #eaf1fb;
+
+    font-family: Roboto, Arial, "Helvetica Neue", sans-serif;
+    color: var(--gm-ink);
+    background: var(--gm-page);
+    font-size: 14px;
+    line-height: 1.4;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+.gm *,
+.gm *::before,
+.gm *::after {
+    box-sizing: border-box;
+}
+
+/* Negate MockWindow's body padding so Gmail chrome bleeds edge-to-edge like a
+   real screenshot. MockWindow renders the mock inside .help-mock-body (18px). */
+.help-mock-body > .gm {
+    margin: -18px;
+}
+.help-mock-body.tight > .gm {
+    margin: -6px -18px;
+}
+
+/* ---- shell: two-pane (nav + content) -------------------------------- */
+.gm-shell {
+    display: flex;
+    align-items: stretch;
+    min-height: 0;
+    background: var(--gm-page);
+}
+
+/* ---- left nav ------------------------------------------------------- */
+.gm-nav {
+    flex: none;
+    width: 208px;
+    background: var(--gm-page);
+    border-right: 1px solid var(--gm-bd);
+    padding: 12px 8px 16px;
+}
+@media (max-width: 640px) {
+    .gm-nav {
+        display: none;
+    }
+}
+.gm-compose {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--gm-compose);
+    color: var(--gm-compose-ink);
+    border: 0;
+    border-radius: 16px;
+    padding: 0 22px 0 14px;
+    height: 48px;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 500;
+    box-shadow: 0 1px 3px rgba(60, 64, 67, 0.16), 0 1px 1px rgba(60, 64, 67, 0.08);
+    margin: 0 4px 14px;
+    cursor: default;
+}
+.gm-compose svg {
+    width: 20px;
+    height: 20px;
+}
+.gm-navlist {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+.gm-navitem {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    height: 32px;
+    padding: 0 14px 0 24px;
+    border-radius: 0 16px 16px 0;
+    color: var(--gm-ink);
+    font-size: 14px;
+    cursor: default;
+}
+.gm-navitem svg {
+    width: 20px;
+    height: 20px;
+    flex: none;
+    color: var(--gm-ink2);
+}
+.gm-navitem .gm-navcount {
+    margin-left: auto;
+    font-size: 12px;
+    color: var(--gm-ink2);
+}
+.gm-navitem.active {
+    background: var(--gm-sel);
+    color: var(--gm-blue);
+    font-weight: 700;
+}
+.gm-navitem.active svg,
+.gm-navitem.active .gm-navcount {
+    color: var(--gm-blue);
+}
+
+/* labels block (nav) */
+.gm-nav-labels {
+    margin-top: 14px;
+    padding-top: 10px;
+    border-top: 1px solid var(--gm-bd);
+}
+.gm-nav-labels-h {
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--gm-ink2);
+    padding: 0 14px 6px 14px;
+}
+
+/* ---- main column ---------------------------------------------------- */
+.gm-main {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    background: var(--gm-page);
+}
+
+/* search bar (top strip) */
+.gm-searchstrip {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 8px 16px;
+    border-bottom: 1px solid var(--gm-bd);
+    background: var(--gm-page);
+}
+.gm-search {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    height: 46px;
+    background: var(--gm-search);
+    border-radius: 8px;
+    padding: 0 16px;
+    max-width: 720px;
+}
+.gm-search svg {
+    width: 20px;
+    height: 20px;
+    color: var(--gm-ink2);
+    flex: none;
+}
+.gm-search .gm-search-ph {
+    color: var(--gm-ink2);
+    font-size: 14px;
+}
+.gm-search .gm-search-opts {
+    margin-left: auto;
+}
+
+/* list toolbar (checkbox / refresh / overflow) */
+.gm-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 6px 16px;
+    border-bottom: 1px solid var(--gm-bd);
+}
+.gm-toolbar svg {
+    width: 18px;
+    height: 18px;
+    color: var(--gm-ink2);
+}
+.gm-toolbar .gm-cb {
+    width: 18px;
+    height: 18px;
+    border: 2px solid var(--gm-ink2);
+    border-radius: 2px;
+    flex: none;
+}
+
+/* ---- inbox list ----------------------------------------------------- */
+.gm-list {
+    display: flex;
+    flex-direction: column;
+}
+.gm-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0 16px;
+    min-height: 40px;
+    border-bottom: 1px solid #f1f3f4;
+    background: var(--gm-page);
+}
+.gm-row.last {
+    border-bottom: 0;
+}
+.gm-row.unread {
+    background: var(--gm-page);
+}
+.gm-row.hover {
+    background: var(--gm-hover);
+    box-shadow: inset 1px 0 0 var(--gm-bd), inset -1px 0 0 var(--gm-bd), 0 1px 2px rgba(60, 64, 67, 0.15);
+    position: relative;
+    z-index: 1;
+}
+.gm-row.selected {
+    background: var(--gm-sel);
+}
+
+/* row left controls */
+.gm-row .gm-cb {
+    width: 18px;
+    height: 18px;
+    border: 2px solid var(--gm-ink2);
+    border-radius: 2px;
+    flex: none;
+    background: transparent;
+    position: relative;
+}
+.gm-row.selected .gm-cb {
+    border-color: var(--gm-blue);
+    background: var(--gm-blue);
+}
+.gm-row.selected .gm-cb::after {
+    content: "";
+    position: absolute;
+    left: 4px;
+    top: 0px;
+    width: 5px;
+    height: 9px;
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+.gm-star {
+    width: 18px;
+    height: 18px;
+    flex: none;
+    color: var(--gm-ink2);
+}
+.gm-star.on {
+    color: var(--gm-star);
+}
+.gm-star svg {
+    width: 18px;
+    height: 18px;
+    display: block;
+}
+
+/* avatar circle (some list variants show one) */
+.gm-av {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    flex: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+}
+
+/* sender column */
+.gm-sender {
+    flex: none;
+    width: 168px;
+    color: var(--gm-ink);
+    font-size: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.gm-row.unread .gm-sender {
+    font-weight: 700;
+}
+@media (max-width: 760px) {
+    .gm-sender {
+        width: 120px;
+    }
+}
+
+/* subject + snippet (single line, truncates) */
+.gm-body {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    overflow: hidden;
+}
+.gm-subj {
+    color: var(--gm-ink);
+    white-space: nowrap;
+}
+.gm-row.unread .gm-subj {
+    font-weight: 700;
+}
+.gm-snip {
+    color: var(--gm-ink2);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex: 1;
+    min-width: 0;
+}
+.gm-snip::before {
+    content: " — ";
+    color: var(--gm-ink2);
+}
+.gm-clip {
+    width: 16px;
+    height: 16px;
+    color: var(--gm-ink2);
+    flex: none;
+}
+
+/* right side: date OR hover actions */
+.gm-meta {
+    flex: none;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-left: 8px;
+}
+.gm-date {
+    font-size: 12px;
+    color: var(--gm-ink2);
+    white-space: nowrap;
+}
+.gm-row.unread .gm-date {
+    font-weight: 700;
+    color: var(--gm-ink);
+}
+.gm-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.gm-actions button,
+.gm-actions .gm-iconbtn {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 0;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--gm-ink2);
+    cursor: default;
+}
+.gm-actions svg {
+    width: 18px;
+    height: 18px;
+}
+
+/* native "Draft" red text in list (precedes recipient) */
+.gm-draftword {
+    color: var(--gm-draft);
+    margin-right: 6px;
+}
+
+/* ---- label chips (inline, Gmail-style: pastel bg + dark ink) -------- */
+.gm-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 3px 8px;
+    border-radius: 4px;
+    white-space: nowrap;
+    max-width: 220px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex: none;
+}
+.gm-chip .gm-chip-sw {
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    flex: none;
+}
+
+/* ---- nested labels (left-nav fragment) ------------------------------ */
+/* standalone variant: a self-contained nav fragment with a full border so it
+   reads as its own figure (not docked to a frame edge). */
+.gm-labels-standalone {
+    width: 100%;
+    border: 0;
+    border-right: 0;
+    padding: 14px 8px 16px;
+}
+.gm-labels {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+.gm-labelrow {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 32px;
+    padding: 0 12px 0 14px;
+    border-radius: 0 16px 16px 0;
+    color: var(--gm-ink);
+    font-size: 14px;
+    cursor: default;
+    position: relative;
+}
+.gm-labelrow:hover {
+    background: var(--gm-hover);
+}
+.gm-labelrow.child {
+    padding-left: 30px;
+}
+.gm-labelrow .gm-chev {
+    width: 16px;
+    height: 16px;
+    flex: none;
+    color: var(--gm-ink2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gm-labelrow .gm-chev.spacer {
+    visibility: hidden;
+}
+.gm-labelrow .gm-sw {
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+    flex: none;
+}
+.gm-labelrow .gm-lname {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.gm-labelrow .gm-overflow {
+    margin-left: auto;
+    width: 20px;
+    height: 20px;
+    color: var(--gm-ink2);
+    display: none;
+}
+.gm-labelrow:hover .gm-overflow {
+    display: inline-flex;
+}
+.gm-labelrow .gm-overflow svg {
+    width: 18px;
+    height: 18px;
+}
+
+/* ---- thread / conversation view ------------------------------------- */
+.gm-thread {
+    background: var(--gm-page);
+    padding: 0;
+}
+.gm-thread-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 6px 16px;
+    border-bottom: 1px solid var(--gm-bd);
+}
+.gm-thread-toolbar .gm-tb {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--gm-ink2);
+}
+.gm-thread-toolbar .gm-tb svg {
+    width: 18px;
+    height: 18px;
+}
+.gm-thread-toolbar .gm-sep {
+    width: 1px;
+    height: 20px;
+    background: var(--gm-bd);
+    margin: 0 6px;
+}
+.gm-thread-toolbar .gm-count {
+    margin-left: auto;
+    font-size: 12px;
+    color: var(--gm-ink2);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.gm-thread-toolbar .gm-count svg {
+    width: 18px;
+    height: 18px;
+}
+.gm-thread-subject {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 18px 24px 8px;
+    flex-wrap: wrap;
+}
+.gm-thread-subject h1 {
+    font-size: 22px;
+    font-weight: 400;
+    color: var(--gm-ink);
+    margin: 0;
+    letter-spacing: 0;
+}
+.gm-thread-subject .gm-star {
+    margin-left: 2px;
+}
+
+.gm-msg {
+    padding: 8px 24px 16px;
+}
+.gm-msg-head {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 8px 0;
+}
+.gm-msg-head .gm-av {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+}
+.gm-msg-meta {
+    flex: 1;
+    min-width: 0;
+}
+.gm-msg-meta .gm-line1 {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+.gm-msg-meta .gm-name {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--gm-ink);
+}
+.gm-msg-meta .gm-addr {
+    font-size: 13px;
+    color: var(--gm-ink2);
+}
+.gm-msg-meta .gm-to {
+    font-size: 12px;
+    color: var(--gm-ink2);
+    margin-top: 2px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+.gm-msg-meta .gm-to svg {
+    width: 14px;
+    height: 14px;
+}
+.gm-msg-right {
+    flex: none;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    color: var(--gm-ink2);
+    font-size: 12px;
+}
+.gm-msg-right .gm-when {
+    white-space: nowrap;
+}
+.gm-msg-right .gm-tb {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--gm-ink2);
+}
+.gm-msg-right .gm-tb svg {
+    width: 16px;
+    height: 16px;
+}
+.gm-msg-body {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--gm-ink);
+    padding: 6px 0 0 54px;
+}
+.gm-msg-body p {
+    margin: 0 0 14px;
+}
+.gm-msg-body p:last-child {
+    margin-bottom: 0;
+}
+
+/* reply / forward affordance buttons */
+.gm-reply-row {
+    display: flex;
+    gap: 12px;
+    padding: 8px 0 4px 54px;
+}
+.gm-pillbtn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid var(--gm-bd2);
+    border-radius: 18px;
+    padding: 7px 18px 7px 14px;
+    background: var(--gm-page);
+    color: var(--gm-ink);
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: default;
+}
+.gm-pillbtn svg {
+    width: 18px;
+    height: 18px;
+    color: var(--gm-ink2);
+}
+
+/* ---- inline reply compose box --------------------------------------- */
+.gm-compose-box {
+    margin: 12px 24px 20px 54px;
+    border: 1px solid var(--gm-bd2);
+    border-radius: 12px;
+    box-shadow: 0 1px 3px rgba(60, 64, 67, 0.16), 0 4px 8px rgba(60, 64, 67, 0.1);
+    background: var(--gm-page);
+    overflow: hidden;
+}
+.gm-compose-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px 6px;
+    font-size: 14px;
+    color: var(--gm-ink2);
+}
+.gm-compose-head .gm-replydd {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    color: var(--gm-ink);
+    font-weight: 500;
+}
+.gm-compose-head .gm-replydd svg {
+    width: 16px;
+    height: 16px;
+    color: var(--gm-ink2);
+}
+.gm-recip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #e8eaed;
+    border-radius: 12px;
+    padding: 2px 4px 2px 2px;
+    font-size: 12px;
+    color: #3c4043;
+}
+.gm-recip .gm-recip-av {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 9px;
+    font-weight: 600;
+    color: #fff;
+}
+.gm-compose-body {
+    padding: 4px 16px 12px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--gm-ink);
+    min-height: 56px;
+}
+.gm-compose-foot {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px 12px;
+}
+.gm-send {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--gm-blue);
+    color: #fff;
+    border: 0;
+    border-radius: 18px;
+    height: 36px;
+    padding: 0 24px 0 22px;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: default;
+}
+.gm-send svg {
+    width: 18px;
+    height: 18px;
+}
+.gm-compose-tools {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: var(--gm-ink2);
+}
+.gm-compose-tools svg {
+    width: 18px;
+    height: 18px;
+}
+.gm-compose-tools .gm-spacer {
+    flex: 1;
+}
+.gm-compose-tools .gm-trash {
+    margin-left: auto;
+}
+
+/* ---- native draft block (inside a thread) --------------------------- */
+.gm-draftblock {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 8px 24px 16px 54px;
+    padding: 12px 16px;
+    border: 1px solid var(--gm-bd2);
+    border-radius: 8px;
+    background: var(--gm-page);
+}
+.gm-draftblock .gm-draftword {
+    font-weight: 700;
+    font-size: 13px;
+    margin: 0;
+}
+.gm-draftblock .gm-draft-prev {
+    flex: 1;
+    min-width: 0;
+    font-size: 13px;
+    color: var(--gm-ink2);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.gm-draftblock .gm-draft-edit {
+    flex: none;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--gm-ink2);
+}
+.gm-draftblock .gm-draft-edit svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* legend used by the labeled-anatomy hero (A1) */
+.gm-legend {
+    margin: 14px 0 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 6px 18px;
+    font-size: 12.5px;
+    color: var(--duet-muted);
+    font-family: var(--font-sans);
+}
+@media (max-width: 560px) {
+    .gm-legend {
+        grid-template-columns: 1fr;
+    }
+}
+.gm-legend li {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+}
+.gm-legend .k {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: var(--duet-accent);
+    color: var(--help-on-accent);
+    font-size: 10px;
+    font-weight: 700;
+    font-family: var(--font-sans);
+}
+
+/* the [A]/[B] anatomy badges that float over the first row */
+.gm-annobadge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background: var(--gm-blue);
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    flex: none;
+    font-family: Roboto, Arial, sans-serif;
+}

@@ -11,8 +11,7 @@ updatedAt: 2026-06-16
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
+import SettingsBilling from "../../../../components/help/mocks/SettingsBilling.astro"
 
 <HelpTldr>
   Your Chiefy Pro subscription renews automatically through Stripe, and your payment details are stored securely there — never by Chiefy. Use the Manage Payment button in Settings to download invoices, update your card, or review your billing history.
@@ -25,9 +24,7 @@ Everything about your Pro plan — when it renews, what you paid, and the card b
 Open **Settings → Subscription & Billing** in the Chiefy app. There you'll see your current plan, your subscription status, and your **next payment** date. That date is the day your current billing period ends and, for an active subscription, the day the next charge happens.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Settings → Subscription & Billing" figcaption="Your plan, status, and next payment date — with Manage Payment to open the secure billing portal.">
-  <SettingRow title="Chiefy Pro" iconKey="card" description="Status: Active · Next payment: Jul 16, 2026" />
-</MockWindow>
+<SettingsBilling />
 
 ## When your subscription renews
 

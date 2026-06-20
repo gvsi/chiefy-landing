@@ -13,6 +13,7 @@ import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
 import MockWindow from "../../../../components/help/MockWindow.astro"
 import SettingRow from "../../../../components/help/SettingRow.astro"
+import SettingsIntegrations from "../../../../components/help/mocks/SettingsIntegrations.astro"
 
 <HelpTldr>
   Disconnecting a mailbox pauses syncing and revokes Chiefy's access to it. Your already-synced conversations stay in Chiefy, and you can reconnect the mailbox at any time. Disconnecting is a pause, not a delete.
@@ -37,9 +38,7 @@ Only secondary mailboxes can be disconnected. Your sign-in mailbox — the one y
   <HelpStep title="Open the mailbox's menu" anno="A">
     On the secondary mailbox you want to pause, open the overflow menu (**⋯**) at the end of the row and choose **Disconnect**.
     {/* TODO: real screenshot */}
-    <MockWindow title="Chiefy · Settings → Connected Mailboxes" figcaption="Open the ⋯ menu on a secondary mailbox and choose Disconnect.">
-      <SettingRow title="Disconnect" anno="A" iconKey="mailboxes" description="Pause syncing for this mailbox — your synced emails stay" />
-    </MockWindow>
+    <SettingsIntegrations />
   </HelpStep>
   <HelpStep title="Confirm">
     A confirmation dialog appears: **Disconnect this mailbox?** It explains that Chiefy stops syncing the mailbox, your already-synced emails stay, and you can reconnect anytime. Select **Disconnect** to confirm, or **Cancel** to keep it connected.

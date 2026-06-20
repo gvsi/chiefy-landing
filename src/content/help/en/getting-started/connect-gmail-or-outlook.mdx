@@ -11,7 +11,7 @@ updatedAt: 2026-06-18
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
+import OnboardingSignIn from "../../../../components/help/mocks/OnboardingSignIn.astro"
 
 <HelpTldr>
   Choose **Continue with Google** for Gmail or **Continue with Microsoft** for Outlook. Chiefy uses your provider's own sign-in screen — you authorize access there, and your password never touches Chiefy. Once you're in, your inbox is connected and Chiefy walks you through a short setup.
@@ -31,9 +31,7 @@ There are two ways to begin, and both lead to the same secure sign-in screen.
   <HelpStep title="Open sign-in from Gmail or the web">
     Click the **Chiefy** icon in Gmail to open the side panel, or go to [app.chiefy.com](https://app.chiefy.com) directly. Either one starts the sign-in flow.
     {/* TODO: real screenshot */}
-    <MockWindow title="Chiefy · Sign in" figcaption="Choose how you sign in: Google for Gmail, Microsoft for Outlook.">
-      Continue with Google · Continue with Microsoft
-    </MockWindow>
+    <OnboardingSignIn />
   </HelpStep>
   <HelpStep title="Choose your provider">
     Pick **Continue with Google** to connect Gmail, or **Continue with Microsoft** to connect Outlook. Chiefy hands you off to that provider's own sign-in page to finish authenticating.

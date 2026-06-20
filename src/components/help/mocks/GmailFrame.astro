@@ -1,0 +1,63 @@
+---
+/**
+ * GmailFrame — the Gmail two-pane shell (faint left nav + search bar + main
+ * content column) that wraps a Gmail mock so it reads like a real screenshot.
+ * Gmail palette, hardcoded; renders inside a <MockWindow> body (the frame
+ * cancels MockWindow's padding so the chrome bleeds edge-to-edge).
+ *
+ *   <MockWindow title="Gmail · Inbox" tight>
+ *     <GmailFrame>
+ *       <GmailInboxList … />          // default slot = main content
+ *     </GmailFrame>
+ *   </MockWindow>
+ *
+ * Slots:
+ *   - default  → main content column (inbox list, thread, etc.)
+ *   - "nav"    → override the left nav (defaults to <GmailNav>)
+ * Props mirror GmailNav (active item + counts). Pass `noSearch` to drop the
+ * search strip, `noNav` to drop the rail (e.g. a focused thread view).
+ */
+import GmailNav from "./GmailNav.astro"
+import GmailIcon from "./GmailIcon.astro"
+import GmailStyles from "./GmailStyles.astro"
+
+type Props = {
+    active?: "inbox" | "starred" | "snoozed" | "sent" | "drafts"
+    inboxCount?: string
+    draftsCount?: string
+    noSearch?: boolean
+    noNav?: boolean
+}
+
+const { active = "inbox", inboxCount = "12", draftsCount, noSearch = false, noNav = false } = Astro.props
+
+const hasNavSlot = Astro.slots.has("nav")
+---
+
+<GmailStyles />
+<div class="gm">
+    <div class="gm-shell">
+        {
+            !noNav &&
+                (hasNavSlot ? (
+                    <slot name="nav" />
+                ) : (
+                    <GmailNav active={active} inboxCount={inboxCount} draftsCount={draftsCount} />
+                ))
+        }
+        <div class="gm-main">
+            {
+                !noSearch && (
+                    <div class="gm-searchstrip">
+                        <div class="gm-search">
+                            <GmailIcon name="search" size={20} title="Search mail" />
+                            <span class="gm-search-ph">Search mail</span>
+                            <span class="gm-search-opts"><GmailIcon name="tune" size={20} /></span>
+                        </div>
+                    </div>
+                )
+            }
+            <slot />
+        </div>
+    </div>
+</div>

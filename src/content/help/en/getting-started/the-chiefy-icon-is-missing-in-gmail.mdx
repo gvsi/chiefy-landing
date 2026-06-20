@@ -11,8 +11,8 @@ updatedAt: 2026-06-16
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
+import MockScreen from "../../../../components/help/mocks/MockScreen.astro"
+import SettingRowApp from "../../../../components/help/mocks/SettingRowApp.astro"
 
 <HelpTldr>
   The Chiefy icon lives in Gmail's top toolbar and opens the side panel. If it's missing, the most common causes are that the extension lost site access to Gmail or that the Gmail tab needs a reload. The icon appears whether or not you're signed in, so a sign-in prompt in the panel is a separate thing. Work through the checks below in order.
@@ -47,10 +47,9 @@ Chiefy can only add its icon if it's allowed to run on Gmail. If site access was
   </HelpStep>
   <HelpStep title="Check Site access" anno="A">
     Under **Site access**, make sure it's set to **On all sites** or, at minimum, allowed on `mail.google.com`. If it's set to **On click**, the icon may not appear until you grant access.
-    {/* TODO: real screenshot */}
-    <MockWindow title="Chrome · Extensions → Chiefy → Details" figcaption="Extensions → Chiefy → Details → Site access set to all sites or mail.google.com.">
-      <SettingRow title="Site access" anno="A" description="On all sites — Chiefy can run on mail.google.com" iconKey="shield" />
-    </MockWindow>
+    <MockScreen title="Chrome · Extensions → Chiefy → Details" figcaption="Extensions → Chiefy → Details → Site access set to all sites or mail.google.com.">
+      <SettingRowApp title="Site access" anno="A" description="On all sites — Chiefy can run on mail.google.com" />
+    </MockScreen>
   </HelpStep>
   <HelpStep title="Reload Gmail">
     After changing site access, refresh your Gmail tab so Chiefy can load and place its icon.

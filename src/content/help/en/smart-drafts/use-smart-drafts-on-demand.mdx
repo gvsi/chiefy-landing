@@ -11,9 +11,7 @@ updatedAt: 2026-06-16
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
-import MailRow from "../../../../components/help/MailRow.astro"
+import AiWriterBandMock from "../../../../components/help/mocks/AiWriterBandMock.astro"
 
 <HelpTldr>
   Open a compose window in Gmail, start Smart Drafts, and tell Chiefy what you want to say. It writes a draft in your voice that you can adjust for tone and length, refine, and send when you're ready. Nothing is ever sent for you.
@@ -35,10 +33,7 @@ You'll need the Chiefy extension installed and your inbox connected. New to Chie
   </HelpStep>
   <HelpStep title="Start Smart Drafts" anno="A">
     In the compose toolbar, select the Chiefy button (**Write with Chiefy**, or press **Ctrl+J** / **⌘J**) to start Smart Drafts. A small writing panel opens inside the compose window.
-    {/* TODO: real screenshot */}
-    <MockWindow title="Gmail · Compose" figcaption="Smart Drafts opens inside the compose window. Tell Chiefy what to say, then shape the draft once it's written.">
-      <SettingRow title="Smart Drafts" anno="A" description="Tell Chiefy what to say, then refine the draft for tone and length" iconKey="pen" />
-    </MockWindow>
+    <AiWriterBandMock state="idle" figcaption="Smart Drafts opens inside the compose window. Tell Chiefy what to say, then shape the draft once it's written." />
   </HelpStep>
   <HelpStep title="Describe what you want to say">
     Type a brief instruction — for example, "confirm the two rooms and ask for an arrival time" or "thank them and decline politely." You don't need full sentences; a short prompt is enough. If something important is missing, Chiefy may ask a quick clarifying question before it writes.

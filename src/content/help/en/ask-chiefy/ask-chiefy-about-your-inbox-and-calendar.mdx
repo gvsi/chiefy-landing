@@ -11,7 +11,7 @@ updatedAt: 2026-06-16
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
+import AskChiefyPanelMock from "../../../../components/help/mocks/AskChiefyPanelMock.astro"
 
 <HelpTldr>
   Ask Chiefy is the chat where you talk to Chiefy in plain language. Ask it to find an email, explain a thread, check what's on your calendar, or take an action like archiving or labeling — and it answers using your real inbox and, when connected, your calendar.
@@ -39,9 +39,7 @@ Ask Chiefy in your own words — there's no command syntax to learn. Common thin
 - **Draft a reply.** "Reply that we can confirm both rooms" — Chiefy prepares a draft in your voice for you to review. This is [Smart Drafts](/help/smart-drafts/use-smart-drafts-on-demand) working through chat.
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Ask Chiefy" figcaption="Ask in plain language; Chiefy answers using your real inbox.">
-  Ask Chiefy anything about your email and calendar — for example, "What did the venue say about the deposit, and am I free to call them Thursday?"
-</MockWindow>
+<AskChiefyPanelMock state="conversation" figcaption="Ask in plain language; Chiefy answers using your real inbox." />
 
 ## Search by meaning, not just keywords
 

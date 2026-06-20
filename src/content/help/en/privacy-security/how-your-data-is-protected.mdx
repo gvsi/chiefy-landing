@@ -9,8 +9,7 @@ relatedSlugs: ["privacy-security/what-chiefy-can-and-cannot-access", "privacy-se
 updatedAt: 2026-06-16
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
+import SettingsPrivacy from "../../../../components/help/mocks/SettingsPrivacy.astro"
 
 <HelpTldr>
   Chiefy encrypts your email contents and the keys to your mailbox before they're stored, using field-level encryption with keys held in Google Cloud. It connects to Gmail and Outlook over OAuth, so it never sees or stores your password — and you can revoke that access at any time.
@@ -40,10 +39,7 @@ Those mailbox tokens are exactly the credentials described above — they're sto
 
 Because access works through a revocable token rather than a password, you stay in control. You can disconnect a mailbox from Chiefy, or revoke access entirely from your Google or Microsoft account settings — see [Delete your data or revoke access](/help/privacy-security/delete-your-data-or-revoke-access).
 
-<MockWindow title="Chiefy · Privacy" figcaption="Chiefy connects over OAuth and never stores your email password.">
-  <SettingRow title="Connected over OAuth" iconKey="shield" description="Access via a revocable token — your password is never shared with Chiefy" />
-  <SettingRow title="Encrypted at rest" iconKey="shield" description="Email contents and mailbox tokens are field-level encrypted before storage" />
-</MockWindow>
+<SettingsPrivacy />
 {/* TODO: real screenshot */}
 
 ## Protecting your Chiefy sign-in

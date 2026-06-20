@@ -12,8 +12,9 @@ import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
 import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
-import MailRow from "../../../../components/help/MailRow.astro"
+import SettingsDrafts from "../../../../components/help/mocks/SettingsDrafts.astro"
+import GmailFrame from "../../../../components/help/mocks/GmailFrame.astro"
+import GmailInboxList from "../../../../components/help/mocks/GmailInboxList.astro"
 
 <HelpTldr>
   Smart Drafts and Autodraft are deliberately conservative — they only draft when a thread clearly needs a reply and skip notifications, newsletters, and sensitive topics. If a draft isn't showing up, check that Autodraft is on, the Chiefy extension is enabled, and you're looking in the Gmail reply box, not a separate panel.
@@ -46,10 +47,7 @@ Autodraft is the automatic mode — it pre-drafts replies as email arrives, so a
   </HelpStep>
   <HelpStep title="Confirm Autodraft is toggled on" anno="A">
     Make sure **Autodraft** is switched on. If it's off, no drafts are prepared automatically.
-    {/* TODO: real screenshot */}
-    <MockWindow title="Chiefy · Settings → Smart Drafts" figcaption="Settings → Smart Drafts → confirm Autodraft is on.">
-      <SettingRow title="Autodraft" anno="A" description="Automatically prepare replies for emails that need one" />
-    </MockWindow>
+    <SettingsDrafts />
   </HelpStep>
 </HelpSteps>
 
@@ -69,10 +67,29 @@ Autodraft is built to stay quiet unless a thread clearly calls for a response. I
 
 So an inbox with no new Autodrafts often just means nothing in it needed one. That's the feature working as intended.
 
-{/* TODO: real screenshot */}
 <MockWindow title="Gmail · Inbox" tight figcaption="Threads that clearly need a reply get an Autodraft; notifications are left alone.">
-  <MailRow avatar="BC" from="Bayview Cottages" time="9:24 AM" subject="Re: Booking for 4 — last weekend of August" preview="Hi — could you confirm the two double rooms and…" pillLabel="Draft" pillVariant="draft" />
-  <MailRow avatar="ST" from="Stripe" time="7:30 AM" subject="Your payout is on the way" preview="A payout of €1,240.00 is on its way to your…" pillLabel="No reply needed" pillVariant="action" last />
+  <GmailFrame active="inbox" inboxCount="12" noSearch>
+    <GmailInboxList rows={[
+      {
+        avatar: "BC",
+        avatarColor: "#137333",
+        draft: true,
+        recipient: "Bayview Cottages",
+        subject: "Re: Booking for 4 — last weekend of August",
+        snippet: "Hi — could you confirm the two double rooms and…",
+        time: "9:24 AM",
+        unread: true,
+      },
+      {
+        avatar: "ST",
+        avatarColor: "#635bff",
+        sender: "Stripe",
+        subject: "Your payout is on the way",
+        snippet: "A payout of €1,240.00 is on its way to your…",
+        time: "7:30 AM",
+      },
+    ]} />
+  </GmailFrame>
 </MockWindow>
 
 ## Sensitive topics are treated carefully

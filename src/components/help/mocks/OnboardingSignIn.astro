@@ -1,0 +1,101 @@
+---
+/**
+ * OnboardingSignIn — the Chiefy /auth sign-in / "choose a provider" screen
+ * (AuthPage.tsx + AuthLeftPane.tsx). Split layout, tokenized so it is correct in
+ * BOTH help-center themes; the LEFT brand pane is always dark (the real pane is).
+ *
+ *   - LEFT: the "Whispered Luxury" brand pane — gem + "Chiefy" lockup, a
+ *     testimonial, a cited speaker; ambient glows.
+ *   - RIGHT: the default SIGN-UP form — "Start your free trial", social proof,
+ *     two provider buttons (Google primary, Microsoft secondary), trust line,
+ *     mode toggle, and legal footer.
+ *
+ * Only Google + Microsoft exist — no password field, no other providers. Real
+ * Google "G" + Microsoft 4-square logos. Example data only.
+ *
+ *   <OnboardingSignIn />
+ */
+import MockScreen from "./MockScreen.astro"
+import ChiefyGem from "./ChiefyGem.astro"
+import ProviderLogo from "./ProviderLogo.astro"
+import MockIcon from "./MockIcon.astro"
+
+const AVATARS = [
+    { i: "AM", c: "#4338ca" },
+    { i: "SC", c: "#0f766e" },
+    { i: "JL", c: "#b45309" },
+    { i: "RH", c: "#9333ea" },
+    { i: "DK", c: "#be123c" },
+]
+---
+
+<MockScreen
+    title="Chiefy · Sign in"
+    figcaption="Sign in with the inbox you already use — Google or Microsoft. Chiefy never sees your password."
+>
+    <div class="hms-auth">
+        {/* LEFT — brand pane (always dark) */}
+        <div class="hms-auth-left">
+            <span class="hms-auth-glow" aria-hidden="true"></span>
+            <div class="hms-auth-lockup">
+                <ChiefyGem size={44} title="Chiefy logo" />
+                <span class="word">Chiefy</span>
+            </div>
+            <div class="hms-auth-rule" aria-hidden="true"></div>
+            <p class="hms-auth-quote">
+                "It's like having an executive assistant. Chiefy saves me 1 hour every day."
+            </p>
+            <div class="hms-auth-cite">
+                <span class="av" aria-hidden="true">SC</span>
+                <span class="who">
+                    <b>Sarah Chen</b>
+                    <span>VP Engineering, Stripe</span>
+                </span>
+            </div>
+        </div>
+
+        {/* RIGHT — form */}
+        <div class="hms-auth-right">
+            <h2 class="hms-auth-h">Start your free trial</h2>
+            <p class="hms-auth-subh">Join thousands of teams already using Chiefy</p>
+
+            <div class="hms-social">
+                <span class="hms-avatar-stack" aria-hidden="true">
+                    {AVATARS.map((a) => <span class="av" style={`background:${a.c}`}>{a.i}</span>)}
+                </span>
+                <span class="hms-stars" aria-hidden="true">
+                    <MockIcon name="star" size={14} />
+                    <MockIcon name="star" size={14} />
+                    <MockIcon name="star" size={14} />
+                    <MockIcon name="star" size={14} />
+                    <MockIcon name="star" size={14} />
+                </span>
+                <span class="hms-social-note">Loved by 20,000+ professionals</span>
+            </div>
+
+            <div class="hms-provider-stack">
+                <button class="hms-provider-btn primary" type="button">
+                    <ProviderLogo name="google-g" size={19} />
+                    Continue with Google
+                </button>
+                <button class="hms-provider-btn secondary" type="button">
+                    <ProviderLogo name="ms-squares" size={17} />
+                    Continue with Microsoft
+                </button>
+            </div>
+
+            <div class="hms-trust-row">
+                <span>Free 14-day trial</span>
+                <span class="sep" aria-hidden="true"></span>
+                <span>Cancel anytime</span>
+            </div>
+
+            <p class="hms-auth-toggle">
+                Already have an account? <a href="#">Log in</a>
+            </p>
+            <p class="hms-auth-legal">
+                By continuing, you agree to our <a href="#">Terms</a> and <a href="#">Privacy Policy</a>.
+            </p>
+        </div>
+    </div>
+</MockScreen>

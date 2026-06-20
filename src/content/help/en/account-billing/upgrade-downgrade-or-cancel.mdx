@@ -12,6 +12,7 @@ import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
 import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingsBilling from "../../../../components/help/mocks/SettingsBilling.astro"
 
 <HelpTldr>
   Upgrade from the pricing page or your plan settings. To downgrade or cancel, open the billing portal from **Settings → Subscription & Billing → Manage Payment**. Changes take effect at the end of your current billing period, so you keep Pro until then.
@@ -26,9 +27,7 @@ In the Chiefy web app, open **Settings**, then choose **Subscription & Billing**
 The **Manage Payment** button — which opens the billing portal — appears whenever you have an active recurring Pro subscription, including while you're in a free trial. You won't see it if you're on Free, on Lifetime Pro, or once your subscription has ended (status **Canceled**).
 
 {/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Settings → Subscription & Billing" figcaption="Active recurring Pro plans show a Manage Payment button that opens the billing portal.">
-  Pro — Monthly · Status: Active · Next payment: Jul 16, 26 · **Manage Payment**
-</MockWindow>
+<SettingsBilling />
 
 ## Upgrade from Free to Pro
 

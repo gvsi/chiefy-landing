@@ -9,8 +9,7 @@ relatedSlugs: ["privacy-security/how-your-data-is-protected", "privacy-security/
 updatedAt: 2026-06-16
 ---
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
-import SettingRow from "../../../../components/help/SettingRow.astro"
+import SettingsIntegrations from "../../../../components/help/mocks/SettingsIntegrations.astro"
 
 <HelpTldr>
   Chiefy works inside the mailbox you connect — it reads your email to help you, and it writes drafts. It never sends, deletes, or shares anything without an action from you, and you can cut off access at any time by disconnecting the mailbox in Settings.
@@ -62,12 +61,7 @@ This is the access ChatGPT is granted on your behalf. You can review or revoke i
 
 You're always in control of the connection. To stop Chiefy from reading or writing in a mailbox, disconnect it.
 
-{/* TODO: real screenshot */}
-<MockWindow title="Chiefy · Settings → Integrations → Connected Mailboxes" figcaption="Each connected account appears as a row; open the ⋯ menu to disconnect.">
-  <SettingRow title="you@gmail.com" description="Gmail · connected" iconKey="mailboxes" />
-  <SettingRow title="you@outlook.com" description="Outlook · connected" iconKey="mailboxes" />
-  <SettingRow title="Disconnect a mailbox" description="In the row's ⋯ menu — pauses reading, drafting, and sync for that account" iconKey="shield" on={false} />
-</MockWindow>
+<SettingsIntegrations />
 
 Go to **Settings → Integrations → Connected Mailboxes**. (You can reach Settings from the **Settings** item in the Chiefy side-panel menu, which opens the web app, or go to [app.chiefy.com](https://app.chiefy.com) directly.) Find the account, open its overflow menu (**⋯**), and choose **Disconnect**. That pauses all reading, drafting, and sync for that mailbox; anything already synced is kept, and you can reconnect later. If you want to remove the email Chiefy has already synced, that's a separate step — see [Delete your data or revoke access](/help/privacy-security/delete-your-data-or-revoke-access).
 

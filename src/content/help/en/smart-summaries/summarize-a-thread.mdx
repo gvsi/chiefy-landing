@@ -11,7 +11,7 @@ updatedAt: 2026-06-16
 import HelpTldr from "../../../../components/help/HelpTldr.astro"
 import HelpSteps from "../../../../components/help/HelpSteps.astro"
 import HelpStep from "../../../../components/help/HelpStep.astro"
-import MockWindow from "../../../../components/help/MockWindow.astro"
+import SmartSummaryMock from "../../../../components/help/mocks/SmartSummaryMock.astro"
 
 <HelpTldr>
   Open a long thread and Smart Summaries gives you a one-tap TL;DR — the key points as bullets and, when it makes sense, a couple of suggested replies. It all appears right at the top of the thread, so you can catch up without scrolling.
@@ -33,13 +33,10 @@ You'll need the Chiefy extension installed and your inbox connected. New to Chie
   </HelpStep>
   <HelpStep title="Select Summarize" anno="A">
     If Chiefy hasn't already summarized the thread, you'll see a **Summarize this email** button at the top of the thread. Select it, and Chiefy generates the summary.
-    {/* TODO: real screenshot */}
-    <MockWindow title="Gmail · Thread view" figcaption="When no summary exists yet, Chiefy shows a Summarize this email button at the top of the thread.">
-      <div class="help-summarize">
-        <span class="help-anno">A</span>
-        <span class="lbl">Summarize this email</span>
-      </div>
-    </MockWindow>
+    <SmartSummaryMock
+      state="cta"
+      figcaption="When no summary exists yet, Chiefy shows a Summarize this email button at the top of the thread."
+    />
   </HelpStep>
   <HelpStep title="Read the summary">
     Chiefy replaces the button with the summary — the key points as bullets, and any reply suggestions below them. Everything stays at the top of the thread.
@@ -53,20 +50,16 @@ A Smart Summary has up to two parts, shown together at the top of the thread:
 - **Key points** — the thread's main beats as a short bullet list (usually one to three bullets), so you can skim instead of reading every message.
 - **Suggested replies** — when the thread looks like it needs a response, Chiefy offers a couple of reply starters alongside the summary. If a thread doesn't call for a reply — for example an automated notification — you simply won't see them.
 
-{/* TODO: real screenshot */}
-<MockWindow title="Gmail · Thread view" figcaption="The summary sits at the top of the thread: the key points as bullets, and suggested replies when a response is needed.">
-  <div class="help-summary">
-    <ul>
-      <li>Two double rooms confirmed for the last weekend of August.</li>
-      <li>Guest asked you to send an invoice to their company address.</li>
-      <li>They'd like to know about early check-in on the Friday.</li>
-    </ul>
-    <div class="replies">
-      <span class="reply">Confirm and send invoice</span>
-      <span class="reply">Reply about early check-in</span>
-    </div>
-  </div>
-</MockWindow>
+<SmartSummaryMock
+  state="summary"
+  figcaption="The summary sits at the top of the thread: the key points as bullets, and suggested replies when a response is needed."
+  bullets={[
+    { html: "Two double rooms confirmed for the last weekend of August." },
+    { html: "Guest asked you to send an invoice to their company address." },
+    { html: "They'd like to know about early check-in on the Friday." },
+  ]}
+  chips={["Confirm and send invoice", "Reply about early check-in"]}
+/>
 
 ## Where the summary appears
 

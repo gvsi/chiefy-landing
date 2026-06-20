@@ -1,0 +1,133 @@
+---
+/**
+ * SettingsBilling — SCREEN 4: the Chiefy web-app "Subscription & Billing" page
+ * (PaymentPlanPage.tsx + CurrentPlan.tsx). Renders for Pro users; max-w-4xl.
+ *
+ *   - header H1 "Subscription & Billing",
+ *   - Current Plan card: CreditCard tile + "Pro - Monthly" + "Monthly Plan" pill
+ *     + a quiet "Manage Payment" button; a 2-tile meta grid (Status / Next
+ *     payment); the 8 Included Features in a 2-col grid (Pro column values); a
+ *     Team row with one member.
+ *
+ * The optional orange "ending soon" banner is gated behind the `ending` prop
+ * (off by default for the steady-state hero). Example billing brand = Stripe.
+ *
+ *   <SettingsBilling />            // steady state
+ *   <SettingsBilling ending />     // with the cancellation banner
+ */
+import MockScreen from "./MockScreen.astro"
+import MockIcon from "./MockIcon.astro"
+
+type Props = {
+    /** Show the orange "subscription is ending soon" banner above the card. */
+    ending?: boolean
+}
+const { ending = false } = Astro.props
+
+const FEATURES = [
+    { name: "AI Drafts", val: "Unlimited", on: true },
+    { name: "Smart Inbox", val: "Full", on: true },
+    { name: "Chiefy Assistant", val: "Full", on: true },
+    { name: "Calendar Integration", val: "Full", on: true },
+    { name: "Instant Summaries", val: "Unlimited", on: true },
+    { name: "Tone & Voice", val: "Personalized", on: true },
+    { name: "Smart Reminders", val: "Full", on: true },
+    { name: "Priority Support", val: "Included", on: true },
+]
+---
+
+<MockScreen
+    title="Chiefy · Subscription & Billing"
+    figcaption="Your Chiefy Pro plan: status, next payment, everything included, and your team — manage payment via the Stripe portal."
+>
+    <div class="hms-screen">
+        <div class="hms-screen-inner wide">
+            <div class="hms-head">
+                <div class="hms-head-row">
+                    <h1 class="hms-h1">Subscription &amp; Billing</h1>
+                </div>
+                <p class="hms-sub">Manage your Chiefy subscription and billing information.</p>
+            </div>
+
+            <div class="hms-stack">
+                {
+                    ending && (
+                        <div class="hms-ending">
+                            <span class="hms-ending-tile">
+                                <MockIcon name="alert-triangle" size={20} />
+                            </span>
+                            <div class="hms-ending-body">
+                                <div class="hms-ending-title-row">
+                                    <span class="hms-ending-title">Your Chiefy Pro subscription is ending soon</span>
+                                    <span class="hms-ending-pill">Ending in 12 days</span>
+                                </div>
+                                <p>
+                                    Your subscription ends on Jul 1, 2026. Renew now to keep your unlimited
+                                    AI drafts, summaries, and premium features.
+                                </p>
+                                <button class="hms-btn-primary sm" type="button">Keep My Subscription</button>
+                            </div>
+                        </div>
+                    )
+                }
+
+                {/* Current Plan card */}
+                <div class="hms-card p6">
+                    <div class="hms-plan-head">
+                        <span class="hms-plan-tile"><MockIcon name="credit-card" size={22} /></span>
+                        <div class="hms-int-body">
+                            <div class="hms-plan-name-row">
+                                <span class="hms-plan-name">Pro - Monthly</span>
+                                <span class="hms-plan-dur">Monthly Plan</span>
+                            </div>
+                            <p class="hms-plan-tagline">Premium features for maximum productivity</p>
+                        </div>
+                        <button class="hms-quiet-btn" type="button">Manage Payment</button>
+                    </div>
+
+                    <div class="hms-meta-grid">
+                        <div class="hms-meta-tile">
+                            <div class="v">Active</div>
+                            <div class="l">Status</div>
+                        </div>
+                        <div class="hms-meta-tile">
+                            <div class="v">Jul 01, 26</div>
+                            <div class="l">Next payment</div>
+                        </div>
+                    </div>
+
+                    <p class="hms-feat-head">Included Features</p>
+                    <div class="hms-feat-grid">
+                        {
+                            FEATURES.map((f) => (
+                                <div class="hms-feat-row">
+                                    <span class={`hms-feat-badge ${f.on ? "on" : "off"}`}>
+                                        <MockIcon name={f.on ? "check" : "lock"} size={f.on ? 13 : 12} />
+                                    </span>
+                                    <span class="hms-feat-name">{f.name}</span>
+                                    <span class="hms-feat-val">{f.val}</span>
+                                </div>
+                            ))
+                        }
+                    </div>
+
+                    <div class="hms-team-row">
+                        <span class="l">Team</span>
+                        <span class="hms-team-row-av" aria-hidden="true">
+                            <span
+                                class="hms-avatar-stack"
+                                style="margin-left:8px"
+                            >
+                                <span
+                                    class="av"
+                                    style="background:#4338ca;width:28px;height:28px;border:2px solid var(--help-surface)"
+                                >JL</span>
+                            </span>
+                        </span>
+                        <span class="members">1 member</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</MockScreen>

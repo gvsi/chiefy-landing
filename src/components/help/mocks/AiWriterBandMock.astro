@@ -1,0 +1,962 @@
+---
+/**
+ * AiWriterBandMock — the Chiefy "Smart Drafts" / AI Writer compose band as it is
+ * injected into a Gmail compose window, plus the Gmail-native "draft waiting"
+ * inbox state. Three mutually-exclusive figures driven by `state`:
+ *
+ *   state="idle"          → the idle prompt band (gem + prompt input + send),
+ *                           inside a Gmail reply card.
+ *   state="ready"         → a finished Smart Draft: preview card (meta header +
+ *                           body) + the refine input + Insert button, inside a
+ *                           Gmail new-message compose window.
+ *   state="draft-waiting" → NOT a Chiefy band — a Gmail inbox list where rows
+ *                           carry Gmail's own grey "Draft" marker (this is how
+ *                           Autodraft actually surfaces). Renders MailRow-style
+ *                           rows in the Gmail palette with a faint left nav.
+ *
+ * The band is a Chiefy surface (scoped --aiw-* / --chiefy-* tokens, both
+ * themes); the Gmail chrome is its own hardcoded world (Gmail palette, Roboto). Static
+ * HTML/CSS only — settled states, no streaming cursors.
+ *
+ * Replaces the inline figures in turn-on-autodraft.mdx / Smart-Drafts articles.
+ */
+import ChiefyGem from "./ChiefyGem.astro"
+
+type Recipient = { label: string }
+type Row = {
+    avatar: string
+    avatarColor?: string
+    from: string
+    subject: string
+    preview: string
+    time: string
+    pillLabel: string
+    pillVariant: "draft" | "action" | "autodraft"
+    last?: boolean
+}
+
+type Props = {
+    state: "idle" | "ready" | "draft-waiting"
+    figcaption?: string
+    /** idle: typed prompt text (omit → greyed placeholder). */
+    prompt?: string
+    /** idle: placeholder copy (reply vs new-email mode). */
+    placeholder?: string
+    /** ready: draft meta + body. */
+    subject?: string
+    recipients?: Recipient[]
+    /** ready: body paragraphs (rendered as <p>). */
+    body?: string[]
+    signOff?: string
+    /** draft-waiting: inbox rows. */
+    rows?: Row[]
+}
+
+const {
+    state,
+    figcaption,
+    prompt,
+    placeholder = "How would you like to respond to this email?",
+    subject = "Re: Booking for 4 — last weekend of August",
+    recipients = [{ label: "bookings@bayviewcottages.com" }],
+    body = [
+        "Hi,",
+        "Thanks for getting in touch — I'd be glad to help with your booking. I can confirm we have two double rooms available for the last weekend of August.",
+        "Would you like me to hold them while you decide? Just let me know and I'll send over the details.",
+    ],
+    signOff = "Best,\nAlex",
+    rows = [
+        {
+            avatar: "BC",
+            avatarColor: "#0f9d58",
+            from: "Bayview Cottages",
+            subject: "Re: Booking for 4 — last weekend of August",
+            preview: "Hi — could you confirm the two double rooms and…",
+            time: "9:24 AM",
+            pillLabel: "Draft",
+            pillVariant: "draft",
+        },
+        {
+            avatar: "JL",
+            avatarColor: "#5e35b1",
+            from: "Jordan Lee",
+            subject: "Invoice question",
+            preview: "Quick one about the March invoice — was the…",
+            time: "8:51 AM",
+            pillLabel: "Draft",
+            pillVariant: "draft",
+        },
+        {
+            avatar: "ST",
+            avatarColor: "#635bff",
+            from: "Stripe",
+            subject: "Your payout is on the way",
+            preview: "A payout of €1,240.00 is on its way to your…",
+            time: "7:30 AM",
+            pillLabel: "No reply needed",
+            pillVariant: "action",
+            last: true,
+        },
+    ],
+} = Astro.props
+
+const navItems = [
+    { label: "Inbox", key: "inbox", count: "12", active: true },
+    { label: "Starred", key: "star" },
+    { label: "Snoozed", key: "clock" },
+    { label: "Sent", key: "send" },
+    { label: "Drafts", key: "draft", count: "3" },
+]
+
+// Gmail nav glyphs (Gmail palette, hardcoded; line icons in #5f6368).
+const navIcon: Record<string, string> = {
+    inbox: `<path d="M22 12h-6l-2 3h-4l-2-3H2"/><path d="M5.4 5.1A2 2 0 0 1 7.2 4h9.6a2 2 0 0 1 1.8 1.1L22 12v6a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-6z"/>`,
+    star: `<path d="M12 3l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 18.8 6.2 21l1.1-6.5L2.6 9.8l6.5-.9z"/>`,
+    clock: `<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>`,
+    send: `<path d="M22 2L11 13"/><path d="M22 2l-7 20-4-9-9-4z"/>`,
+    draft: `<path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/>`,
+}
+---
+
+<figure class="help-mock-figure aiw-fig">
+    {
+        state === "idle" && (
+            <div class="aiw-gmail-compose">
+                <div class="gm-compose-head">
+                    <span class="gm-compose-title">New Message</span>
+                    <span class="gm-compose-ctrls" aria-hidden="true">
+                        <span class="g-min" />
+                        <span class="g-max" />
+                        <span class="g-x" />
+                    </span>
+                </div>
+                <div class="gm-field">
+                    <span class="gm-field-lbl">To</span>
+                    <span class="gm-recip-chip">Bayview Cottages</span>
+                </div>
+                <div class="gm-quote">On Tue, Aug 12, Bayview Cottages wrote:</div>
+
+                {/* The Chiefy AI Writer band — idle prompt state */}
+                <div class="aiw-band aiw-scope" role="group" aria-label="Smart Drafts">
+                    <div class="aiw-prompt-row">
+                        <ChiefyGem size={24} />
+                        <span class="aiw-prompt-input">
+                            {prompt ? (
+                                <span class="aiw-prompt-typed">{prompt}</span>
+                            ) : (
+                                <span class="aiw-prompt-ph">{placeholder}</span>
+                            )}
+                        </span>
+                        <button class="aiw-cancel" type="button" aria-label="Cancel">
+                            <svg width="12" height="12" viewBox="0 0 10 10" aria-hidden="true">
+                                <path
+                                    d="M1.5 1.5l7 7M8.5 1.5l-7 7"
+                                    stroke="currentColor"
+                                    stroke-width="1.5"
+                                    stroke-linecap="round"
+                                />
+                            </svg>
+                        </button>
+                        <button class="aiw-send" type="button" aria-label="Write draft">
+                            <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+                                <path
+                                    d="M5 12h14M12 5l7 7-7 7"
+                                    stroke="#fff"
+                                    stroke-width="2.5"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                    fill="none"
+                                />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="gm-compose-foot">
+                    <span class="gm-send-pill">Send</span>
+                    <span class="gm-foot-icons" aria-hidden="true">
+                        <span class="gm-fi gm-fi-a">A</span>
+                        <svg width="16" height="16" viewBox="0 0 24 24" class="gm-fi-svg">
+                            <path
+                                d="M21.4 11.1l-8.5 8.5a5 5 0 0 1-7-7l8.5-8.5a3 3 0 0 1 4.2 4.2l-8.5 8.5a1 1 0 0 1-1.4-1.4l7.8-7.8"
+                                stroke="#5f6368"
+                                stroke-width="1.6"
+                                fill="none"
+                                stroke-linecap="round"
+                            />
+                        </svg>
+                        <svg width="16" height="16" viewBox="0 0 24 24" class="gm-fi-svg">
+                            <circle cx="12" cy="12" r="9" stroke="#5f6368" stroke-width="1.6" fill="none" />
+                            <path
+                                d="M8 14s1.5 2 4 2 4-2 4-2M9 9h.01M15 9h.01"
+                                stroke="#5f6368"
+                                stroke-width="1.6"
+                                fill="none"
+                                stroke-linecap="round"
+                            />
+                        </svg>
+                    </span>
+                </div>
+            </div>
+        )
+    }
+
+    {
+        state === "ready" && (
+            <div class="aiw-gmail-compose">
+                <div class="gm-compose-head">
+                    <span class="gm-compose-title">New Message</span>
+                    <span class="gm-compose-ctrls" aria-hidden="true">
+                        <span class="g-min" />
+                        <span class="g-max" />
+                        <span class="g-x" />
+                    </span>
+                </div>
+
+                {/* The Chiefy AI Writer band — ready draft preview + refine */}
+                <div class="aiw-band aiw-scope" role="group" aria-label="Smart Draft ready">
+                    <div class="aiw-preview">
+                        <div class="aiw-preview-meta">
+                            <div class="aiw-preview-subject">{subject}</div>
+                            <div class="aiw-preview-to">
+                                <span class="aiw-to-lbl">To</span>
+                                {recipients.map((r) => (
+                                    <span class="aiw-recip-pill">{r.label}</span>
+                                ))}
+                            </div>
+                        </div>
+                        <div class="aiw-preview-body">
+                            {body.map((p) => (
+                                <p>{p}</p>
+                            ))}
+                            <p class="aiw-signoff">{signOff}</p>
+                        </div>
+                    </div>
+
+                    <div class="aiw-refine-row">
+                        <div class="aiw-refine-input">
+                            <span class="aiw-refine-ph">Describe how to change this draft…</span>
+                        </div>
+                        <button class="aiw-insert" type="button">
+                            Insert
+                        </button>
+                    </div>
+                </div>
+
+                <div class="gm-compose-foot">
+                    <span class="gm-send-pill">Send</span>
+                    <span class="gm-foot-icons" aria-hidden="true">
+                        <span class="gm-fi gm-fi-a">A</span>
+                        <svg width="16" height="16" viewBox="0 0 24 24" class="gm-fi-svg">
+                            <path
+                                d="M21.4 11.1l-8.5 8.5a5 5 0 0 1-7-7l8.5-8.5a3 3 0 0 1 4.2 4.2l-8.5 8.5a1 1 0 0 1-1.4-1.4l7.8-7.8"
+                                stroke="#5f6368"
+                                stroke-width="1.6"
+                                fill="none"
+                                stroke-linecap="round"
+                            />
+                        </svg>
+                    </span>
+                </div>
+            </div>
+        )
+    }
+
+    {
+        state === "draft-waiting" && (
+            <div class="aiw-gmail-inbox">
+                <aside class="gm-nav" aria-hidden="true">
+                    <span class="gm-compose-btn">
+                        <svg width="18" height="18" viewBox="0 0 24 24">
+                            <path
+                                d="M12 20h9M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"
+                                stroke="#001d35"
+                                stroke-width="1.7"
+                                fill="none"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                            />
+                        </svg>
+                        Compose
+                    </span>
+                    <ul class="gm-nav-list">
+                        {navItems.map((n) => (
+                            <li class={`gm-nav-item${n.active ? " active" : ""}`}>
+                                <svg width="18" height="18" viewBox="0 0 24 24" set:html={navIcon[n.key]} />
+                                <span class="gm-nav-lbl">{n.label}</span>
+                                {n.count && <span class="gm-nav-count">{n.count}</span>}
+                            </li>
+                        ))}
+                    </ul>
+                </aside>
+
+                <div class="gm-list-col">
+                    <div class="gm-searchbar" aria-hidden="true">
+                        <svg width="18" height="18" viewBox="0 0 24 24">
+                            <circle cx="11" cy="11" r="7" stroke="#5f6368" stroke-width="1.7" fill="none" />
+                            <path d="M21 21l-4-4" stroke="#5f6368" stroke-width="1.7" stroke-linecap="round" />
+                        </svg>
+                        <span class="gm-search-ph">Search mail</span>
+                    </div>
+                    <ul class="gm-list">
+                        {rows.map((r) => (
+                            <li class={`gm-row${r.last ? " last" : ""}`}>
+                                <span class="gm-av" style={`background:${r.avatarColor ?? "#5f6368"}`}>
+                                    {r.avatar}
+                                </span>
+                                <span class="gm-row-from">{r.from}</span>
+                                <span class="gm-row-body">
+                                    <span class="gm-row-subj">{r.subject}</span>
+                                    <span class="gm-row-prev"> — {r.preview}</span>
+                                </span>
+                                <span class={`gm-pill ${r.pillVariant}`}>
+                                    <span class="d" />
+                                    {r.pillLabel}
+                                </span>
+                                <span class="gm-row-time">{r.time}</span>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+            </div>
+        )
+    }
+
+    {figcaption && <figcaption class="help-figcap">{figcaption}</figcaption>}
+</figure>
+
+<style>
+    /* ======================================================================
+       AiWriterBandMock — scoped styles (Astro auto-scopes this block).
+       Two visual worlds, both self-contained here:
+         • Gmail chrome (gm-*) — HARDCODED to Gmail's real web palette so the
+           figure reads as the same Gmail as the rest of the help center.
+           Values mirror src/styles/gmail-mocks.css exactly (page #fff, nav
+           #f6f8fc, ink #202124 / #5f6368, sel #d3e3fd, blue #0b57d0, borders
+           #e0e0e0 / #dadce0, compose #c2e7ff ink #001d35, draft #d93025).
+           NOTE: this component invents its own gm-* names (gm-nav-list /
+           gm-nav-item / gm-list / gm-row / gm-pill) — defined locally below.
+         • Chiefy AI Writer band (aiw-*) — a distinct injected indigo strip.
+       Settled static screenshot: no animation/transition, .active = end-state.
+       ====================================================================== */
+
+    .aiw-fig {
+        font-family: "Roboto", Arial, "Helvetica Neue", sans-serif;
+    }
+    .aiw-fig *,
+    .aiw-fig *::before,
+    .aiw-fig *::after {
+        box-sizing: border-box;
+    }
+
+    /* ===================================================================
+       GMAIL COMPOSE WINDOW (idle + ready)
+       =================================================================== */
+    .aiw-gmail-compose {
+        max-width: 560px;
+        margin: 0 auto;
+        background: #ffffff;
+        border: 1px solid #dadce0;
+        border-radius: 8px;
+        box-shadow:
+            0 8px 28px rgba(60, 64, 67, 0.18),
+            0 2px 6px rgba(60, 64, 67, 0.12);
+        overflow: hidden;
+        color: #202124;
+        font-size: 14px;
+        line-height: 1.4;
+        text-align: left;
+        -webkit-font-smoothing: antialiased;
+    }
+
+    /* Dark compose title bar */
+    .gm-compose-head {
+        display: flex;
+        align-items: center;
+        height: 36px;
+        padding: 0 12px;
+        background: #404040;
+        color: #ffffff;
+    }
+    .gm-compose-title {
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+    }
+    .gm-compose-ctrls {
+        margin-left: auto;
+        display: inline-flex;
+        align-items: center;
+        gap: 16px;
+    }
+    .gm-compose-ctrls .g-min,
+    .gm-compose-ctrls .g-max,
+    .gm-compose-ctrls .g-x {
+        display: inline-block;
+        position: relative;
+        width: 12px;
+        height: 12px;
+    }
+    /* minimize: bottom underscore */
+    .gm-compose-ctrls .g-min::after {
+        content: "";
+        position: absolute;
+        left: 1px;
+        right: 1px;
+        bottom: 2px;
+        height: 1px;
+        background: #ffffff;
+    }
+    /* maximize: hollow square */
+    .gm-compose-ctrls .g-max::after {
+        content: "";
+        position: absolute;
+        left: 1px;
+        top: 1px;
+        width: 9px;
+        height: 9px;
+        border: 1px solid #ffffff;
+    }
+    /* close: × made of two crossed bars */
+    .gm-compose-ctrls .g-x::before,
+    .gm-compose-ctrls .g-x::after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        top: 1px;
+        width: 1px;
+        height: 12px;
+        background: #ffffff;
+    }
+    .gm-compose-ctrls .g-x::before {
+        transform: translateX(-50%) rotate(45deg);
+    }
+    .gm-compose-ctrls .g-x::after {
+        transform: translateX(-50%) rotate(-45deg);
+    }
+
+    /* "To" field row */
+    .gm-field {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 9px 16px;
+        border-bottom: 1px solid #f1f3f4;
+    }
+    .gm-field-lbl {
+        font-size: 13px;
+        color: #5f6368;
+    }
+    .gm-recip-chip {
+        display: inline-flex;
+        align-items: center;
+        background: #e8eaed;
+        color: #3c4043;
+        border-radius: 12px;
+        padding: 3px 10px;
+        font-size: 12px;
+        line-height: 1;
+    }
+
+    /* greyed quoted-thread line */
+    .gm-quote {
+        padding: 8px 16px;
+        font-size: 13px;
+        color: #80868b;
+        border-bottom: 1px solid #f1f3f4;
+    }
+
+    /* compose footer */
+    .gm-compose-foot {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        padding: 10px 16px 14px;
+    }
+    .gm-send-pill {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background: #0b57d0;
+        color: #ffffff;
+        border-radius: 18px;
+        height: 36px;
+        padding: 0 24px;
+        font-size: 14px;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+    }
+    .gm-foot-icons {
+        display: inline-flex;
+        align-items: center;
+        gap: 18px;
+        color: #5f6368;
+    }
+    .gm-fi {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .gm-fi-a {
+        font-size: 15px;
+        font-weight: 500;
+        color: #5f6368;
+        line-height: 1;
+        position: relative;
+        padding-bottom: 3px;
+    }
+    /* the underline beneath the "A" formatting glyph */
+    .gm-fi-a::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 2px;
+        background: #5f6368;
+    }
+    .gm-fi-svg {
+        display: block;
+        width: 16px;
+        height: 16px;
+    }
+
+    /* ===================================================================
+       CHIEFY AI WRITER BAND — injected indigo strip
+       =================================================================== */
+    .aiw-band {
+        margin: 4px 14px 12px;
+        background: #f5f4ff;
+        border: 1px solid #dcd9fb;
+        border-radius: 10px;
+        padding: 12px;
+    }
+
+    /* the Chiefy gem inherits its own gradient fill */
+    .aiw-band .chiefy-gem {
+        display: block;
+        flex: none;
+    }
+
+    /* ---- idle: prompt row ---- */
+    .aiw-prompt-row {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .aiw-prompt-input {
+        flex: 1;
+        min-width: 0;
+        font-size: 14px;
+        line-height: 1.4;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .aiw-prompt-ph {
+        color: #8a86b8;
+    }
+    .aiw-prompt-typed {
+        color: #1c1733;
+    }
+    .aiw-cancel {
+        flex: none;
+        width: 24px;
+        height: 24px;
+        border: 0;
+        background: transparent;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        color: #8a86b8;
+        padding: 0;
+        cursor: default;
+    }
+    .aiw-cancel svg {
+        display: block;
+    }
+    .aiw-send {
+        flex: none;
+        width: 28px;
+        height: 28px;
+        border: 0;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #4530ea 0%, #74c2ff 100%);
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+        cursor: default;
+        box-shadow: 0 1px 3px rgba(69, 48, 234, 0.35);
+    }
+    .aiw-send svg {
+        display: block;
+    }
+
+    /* ---- ready: draft preview card ---- */
+    .aiw-preview {
+        background: #ffffff;
+        border: 1px solid #e6e3fb;
+        border-radius: 8px;
+        padding: 14px 16px;
+        box-shadow: 0 1px 2px rgba(31, 24, 64, 0.05);
+    }
+    .aiw-preview-meta {
+        padding-bottom: 10px;
+        margin-bottom: 12px;
+        border-bottom: 1px solid #eeecfb;
+    }
+    .aiw-preview-subject {
+        font-size: 14px;
+        font-weight: 700;
+        color: #1c1733;
+        line-height: 1.35;
+    }
+    .aiw-preview-to {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-top: 7px;
+    }
+    .aiw-to-lbl {
+        font-size: 12px;
+        color: #8a86b8;
+    }
+    .aiw-recip-pill {
+        display: inline-flex;
+        align-items: center;
+        background: #ecebfb;
+        color: #4a3fb0;
+        border-radius: 11px;
+        padding: 2px 9px;
+        font-size: 12px;
+        line-height: 1.4;
+    }
+    .aiw-preview-body {
+        font-size: 13.5px;
+        line-height: 1.62;
+        color: #2c2842;
+    }
+    .aiw-preview-body p {
+        margin: 0 0 11px;
+    }
+    .aiw-preview-body p:last-child {
+        margin-bottom: 0;
+    }
+    .aiw-signoff {
+        white-space: pre-line;
+    }
+
+    /* ---- ready: refine row ---- */
+    .aiw-refine-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-top: 12px;
+    }
+    .aiw-refine-input {
+        flex: 1;
+        min-width: 0;
+        background: #ffffff;
+        border: 1px solid #dcd9fb;
+        border-radius: 9px;
+        padding: 9px 12px;
+        overflow: hidden;
+    }
+    .aiw-refine-ph {
+        font-size: 13.5px;
+        color: #8a86b8;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: block;
+    }
+    .aiw-insert {
+        flex: none;
+        border: 0;
+        border-radius: 9px;
+        padding: 0 18px;
+        height: 38px;
+        background: linear-gradient(180deg, #252320 0%, #171615 100%);
+        color: #ffffff;
+        font-family: inherit;
+        font-size: 13.5px;
+        font-weight: 600;
+        letter-spacing: 0.01em;
+        cursor: default;
+        box-shadow: 0 1px 2px rgba(23, 22, 21, 0.3);
+    }
+
+    /* ===================================================================
+       GMAIL INBOX (draft-waiting)
+       =================================================================== */
+    .aiw-gmail-inbox {
+        display: flex;
+        align-items: stretch;
+        max-width: 720px;
+        margin: 0 auto;
+        background: #ffffff;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow:
+            0 8px 28px rgba(60, 64, 67, 0.16),
+            0 2px 6px rgba(60, 64, 67, 0.1);
+        color: #202124;
+        font-size: 14px;
+        line-height: 1.4;
+        text-align: left;
+        -webkit-font-smoothing: antialiased;
+    }
+
+    /* ---- faint left nav ---- */
+    .gm-nav {
+        flex: none;
+        width: 168px;
+        background: #f6f8fc;
+        border-right: 1px solid #e0e0e0;
+        padding: 12px 6px 16px;
+    }
+    @media (max-width: 560px) {
+        .gm-nav {
+            display: none;
+        }
+    }
+    .gm-compose-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        background: #c2e7ff;
+        color: #001d35;
+        border-radius: 16px;
+        padding: 0 18px 0 14px;
+        height: 40px;
+        font-size: 13px;
+        font-weight: 500;
+        margin: 0 6px 14px;
+        box-shadow:
+            0 1px 3px rgba(60, 64, 67, 0.16),
+            0 1px 1px rgba(60, 64, 67, 0.08);
+    }
+    .gm-compose-btn svg {
+        display: block;
+        width: 18px;
+        height: 18px;
+    }
+
+    .gm-nav-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+    }
+    .gm-nav-item {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        height: 32px;
+        padding: 0 12px 0 18px;
+        border-radius: 0 16px 16px 0;
+        color: #202124;
+        font-size: 13px;
+    }
+    /* Lucide/feather line glyphs: inherited stroke/fill, style the parent svg */
+    .gm-nav-item svg {
+        flex: none;
+        width: 18px;
+        height: 18px;
+        fill: none;
+        stroke: #5f6368;
+        stroke-width: 1.8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+    }
+    .gm-nav-lbl {
+        flex: 1;
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .gm-nav-count {
+        margin-left: auto;
+        font-size: 12px;
+        color: #5f6368;
+    }
+    /* selected pill — rendered at end-state (no hover) */
+    .gm-nav-item.active {
+        background: #d3e3fd;
+        color: #0b57d0;
+        font-weight: 700;
+    }
+    .gm-nav-item.active svg {
+        stroke: #0b57d0;
+    }
+    .gm-nav-item.active .gm-nav-count {
+        color: #0b57d0;
+    }
+
+    /* ---- list column ---- */
+    .gm-list-col {
+        flex: 1;
+        min-width: 0;
+        display: flex;
+        flex-direction: column;
+        background: #ffffff;
+    }
+
+    .gm-searchbar {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        height: 44px;
+        margin: 10px 14px;
+        padding: 0 14px;
+        background: #eaf1fb;
+        border-radius: 8px;
+    }
+    .gm-searchbar svg {
+        flex: none;
+        display: block;
+        width: 18px;
+        height: 18px;
+    }
+    .gm-search-ph {
+        font-size: 14px;
+        color: #5f6368;
+    }
+
+    .gm-list {
+        list-style: none;
+        margin: 0;
+        padding: 0 0 6px;
+        display: flex;
+        flex-direction: column;
+    }
+    .gm-row {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 0 16px;
+        min-height: 44px;
+        border-bottom: 1px solid #f1f3f4;
+        background: #ffffff;
+    }
+    .gm-row.last {
+        border-bottom: 0;
+    }
+
+    /* colored avatar circle */
+    .gm-av {
+        flex: none;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        color: #ffffff;
+        font-size: 12px;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+    }
+
+    .gm-row-from {
+        flex: none;
+        width: 138px;
+        color: #202124;
+        font-size: 14px;
+        font-weight: 700;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    @media (max-width: 640px) {
+        .gm-row-from {
+            width: 104px;
+        }
+    }
+
+    .gm-row-body {
+        flex: 1;
+        min-width: 0;
+        display: flex;
+        align-items: baseline;
+        overflow: hidden;
+        white-space: nowrap;
+        font-size: 14px;
+    }
+    .gm-row-subj {
+        color: #202124;
+        flex: none;
+        max-width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .gm-row-prev {
+        color: #5f6368;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-width: 0;
+    }
+
+    /* status chips on the right */
+    .gm-pill {
+        flex: none;
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        font-size: 11px;
+        font-weight: 500;
+        line-height: 1;
+        padding: 4px 9px;
+        border-radius: 4px;
+        white-space: nowrap;
+        background: #e8eaed;
+        color: #3c4043;
+    }
+    .gm-pill .d {
+        display: inline-block;
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: #5f6368;
+        flex: none;
+    }
+    /* grey Gmail "Draft" chip with red dot */
+    .gm-pill.draft {
+        background: #fce8e6;
+        color: #c5221f;
+    }
+    .gm-pill.draft .d {
+        background: #d93025;
+    }
+    /* subtle grey "No reply needed" */
+    .gm-pill.action {
+        background: #f1f3f4;
+        color: #5f6368;
+    }
+    .gm-pill.action .d {
+        background: #9aa0a6;
+    }
+    /* autodraft variant (indigo accent) — defined for completeness */
+    .gm-pill.autodraft {
+        background: #ecebfb;
+        color: #4a3fb0;
+    }
+    .gm-pill.autodraft .d {
+        background: #4530ea;
+    }
+
+    .gm-row-time {
+        flex: none;
+        margin-left: 4px;
+        font-size: 12px;
+        color: #5f6368;
+        white-space: nowrap;
+    }
+</style>
