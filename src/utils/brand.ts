@@ -7,7 +7,7 @@
 // reads those env vars so canonical URL, og:site_name, JSON-LD brand names, and
 // the consent-banner brand all resolve from one source.
 //
-// Env (set by the chiefy Pages build; all optional — defaults keep Duet Mail):
+// Env (set by the chiefy Pages build; all optional — defaults are Chiefy, see below):
 //   SITE_URL          e.g. https://chiefy.com   (default https://chiefy.com)
 //   SITE_BRAND        e.g. Chiefy               (default Chiefy)
 //   SITE_PRODUCT_NAME the product name in JSON-LD softwareName / og — defaults to
@@ -17,7 +17,7 @@
 // the same helper works from astro.config.mjs (Node, no import.meta.env) too.
 
 // Post-flip collapse (ADR 0031): `main` is now the Chiefy site (chiefy.com builds
-// from main); duetmail.com is a Cloudflare edge redirect, not a build. Defaults are
+// from main); the legacy apex domain is a Cloudflare edge redirect, not a build. Defaults are
 // therefore Chiefy, so a plain build is correct even without the env vars below.
 const DEFAULT_SITE_URL = "https://chiefy.com";
 const DEFAULT_SITE_BRAND = "Chiefy";
@@ -60,10 +60,10 @@ export function renderConsentBanner(rawHtml: string): string {
 
 /**
  * Host-aware home JSON-LD brand names (B3). The exact-brand entity names
- * (websiteName / organizationName / softwareName) come from the localized
- * `src/i18n/content/home/<locale>.json` `jsonLd.*` keys (all "Duet Mail"); we
- * override them with the build env so the chiefy build reports Chiefy WITHOUT
- * editing the 48 locale content files. SCOPE: home page only, and only the three
+ * (websiteName / organizationName / softwareName) are already "Chiefy" in every
+ * `src/i18n/content/home/<locale>.json` after the collapse; this export centralizes
+ * them so a host build can report a different brand via env WITHOUT editing the
+ * 48 locale content files. SCOPE: home page only, and only the three
  * exact-brand names — descriptive fields (websiteAlternateName, softwareDescription)
  * keep their content text and are out of scope here.
  */
