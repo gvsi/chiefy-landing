@@ -1,0 +1,87 @@
+---
+/**
+ * GmailInboxList — a Gmail inbox list (toolbar + a stack of GmailRow rows).
+ * Gmail palette, hardcoded. Pass `rows` for the common case, or use the default
+ * <slot> to compose <GmailRow> children directly for full control over states.
+ * The final rendered row drops its divider automatically (via `last`) when using
+ * the `rows` prop.
+ *
+ *   <GmailInboxList rows={[
+ *     { avatar:"BC", avatarColor:"#137333", sender:"Bayview Cottages",
+ *       subject:"Re: Booking for 4", snippet:"Hi — could you confirm…",
+ *       time:"9:24 AM", draft:true, recipient:"Bayview Cottages" },
+ *     …
+ *   ]} />
+ *
+ * `noToolbar` drops the select-all / refresh strip (e.g. an inset listing).
+ */
+import GmailRow from "./GmailRow.astro"
+import GmailIcon from "./GmailIcon.astro"
+import GmailStyles from "./GmailStyles.astro"
+
+type Chip = { label: string; bg: string; ink: string; swatch?: boolean; swatchColor?: string }
+type Row = {
+    sender?: string
+    subject?: string
+    snippet?: string
+    time?: string
+    unread?: boolean
+    starred?: boolean
+    selected?: boolean
+    hover?: boolean
+    draft?: boolean
+    recipient?: string
+    chips?: Chip[]
+    attachment?: boolean
+    avatar?: string
+    avatarColor?: string
+    anno?: string
+}
+
+type Props = {
+    rows?: Row[]
+    noToolbar?: boolean
+}
+
+const { rows, noToolbar = false } = Astro.props
+const hasRows = Array.isArray(rows) && rows.length > 0
+---
+
+<GmailStyles />
+<div class="gm-listwrap">
+    {
+        !noToolbar && (
+            <div class="gm-toolbar" role="toolbar" aria-label="Inbox actions">
+                <span class="gm-cb" role="checkbox" aria-checked="false" aria-label="Select all"></span>
+                <GmailIcon name="refresh" size={18} title="Refresh" />
+                <GmailIcon name="more-vert" size={18} title="More" />
+            </div>
+        )
+    }
+    <div class="gm-list">
+        {
+            hasRows
+                ? rows!.map((r, i) => (
+                      <GmailRow
+                          sender={r.sender}
+                          subject={r.subject}
+                          snippet={r.snippet}
+                          time={r.time}
+                          unread={r.unread}
+                          starred={r.starred}
+                          selected={r.selected}
+                          hover={r.hover}
+                          draft={r.draft}
+                          recipient={r.recipient}
+                          chips={r.chips}
+                          attachment={r.attachment}
+                          avatar={r.avatar}
+                          avatarColor={r.avatarColor}
+                          anno={r.anno}
+                          last={i === rows!.length - 1}
+                      />
+                  ))
+                : <slot />
+        }
+    </div>
+</div>

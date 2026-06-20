@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "Siglele clientului",
   "home.testimonialsAria": "Mărturii",
   "home.scrollingTestimonialsAria": "Derularea mărturiilor",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

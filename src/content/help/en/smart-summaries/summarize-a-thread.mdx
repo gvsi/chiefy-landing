@@ -1,0 +1,79 @@
+---
+title: "Summarize a thread"
+description: "Use Smart Summaries to get a one-tap TL;DR of an email thread with key points and suggested replies."
+category: "smart-summaries"
+type: "how-to"
+order: 10
+keywords: ["summarize email thread", "smart summaries", "email tldr", "thread summary", "ai email summary"]
+relatedSlugs: ["smart-summaries/how-summaries-work", "smart-summaries/summary-limits"]
+updatedAt: 2026-06-16
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import SmartSummaryMock from "../../../../components/help/mocks/SmartSummaryMock.astro"
+
+<HelpTldr>
+  Open a long thread and Smart Summaries gives you a one-tap TL;DR — the key points as bullets and, when it makes sense, a couple of suggested replies. It all appears right at the top of the thread, so you can catch up without scrolling.
+</HelpTldr>
+
+Smart Summaries reads a thread for you and hands back the gist: a bullet-point rundown of what matters and — when the thread looks like it needs a response — a few reply suggestions you can use as a starting point. The summary appears at the top of the thread in Gmail, so there's nothing extra to open.
+
+## Before you start
+
+You'll need the Chiefy extension installed and your inbox connected. New to Chiefy? Start with [Getting started](/help/getting-started) first.
+
+> Smart Summaries works on the thread you're reading. To learn what goes into a summary, see [How summaries work](/help/smart-summaries/how-summaries-work).
+
+## Summarize a thread
+
+<HelpSteps>
+  <HelpStep title="Open the thread">
+    In Gmail, open the email thread you want to catch up on.
+  </HelpStep>
+  <HelpStep title="Select Summarize" anno="A">
+    If Chiefy hasn't already summarized the thread, you'll see a **Summarize this email** button at the top of the thread. Select it, and Chiefy generates the summary.
+    <SmartSummaryMock
+      state="cta"
+      figcaption="When no summary exists yet, Chiefy shows a Summarize this email button at the top of the thread."
+    />
+  </HelpStep>
+  <HelpStep title="Read the summary">
+    Chiefy replaces the button with the summary — the key points as bullets, and any reply suggestions below them. Everything stays at the top of the thread.
+  </HelpStep>
+</HelpSteps>
+
+## What the summary includes
+
+A Smart Summary has up to two parts, shown together at the top of the thread:
+
+- **Key points** — the thread's main beats as a short bullet list (usually one to three bullets), so you can skim instead of reading every message.
+- **Suggested replies** — when the thread looks like it needs a response, Chiefy offers a couple of reply starters alongside the summary. If a thread doesn't call for a reply — for example an automated notification — you simply won't see them.
+
+<SmartSummaryMock
+  state="summary"
+  figcaption="The summary sits at the top of the thread: the key points as bullets, and suggested replies when a response is needed."
+  bullets={[
+    { html: "Two double rooms confirmed for the last weekend of August." },
+    { html: "Guest asked you to send an invoice to their company address." },
+    { html: "They'd like to know about early check-in on the Friday." },
+  ]}
+  chips={["Confirm and send invoice", "Reply about early check-in"]}
+/>
+
+## Where the summary appears
+
+The summary shows up at the top of the thread in Gmail, inside the thread view itself — not as a separate popup or window. Once a thread has a summary, you'll see it the next time you open that thread, so there's nothing to re-run.
+
+> If a thread already has a summary, the **Summarize this email** button won't appear — the summary is shown in its place.
+
+## If you don't see the Summarize button
+
+A couple of reasons the button might not appear:
+
+- **The thread is already summarized.** When a summary exists, Chiefy shows it instead of the button.
+- **The extension isn't connected.** Make sure Chiefy is installed and your inbox is connected — see [Getting started](/help/getting-started).
+
+## If you've hit your summary limit
+
+Smart Summaries has a monthly limit. When you've used it up, the **Summarize this email** button still appears, but selecting it won't generate a summary — instead Chiefy lets you know you've reached your limit and points you to your plan, where you can upgrade for more. See [Summary limits](/help/smart-summaries/summary-limits) for the details.

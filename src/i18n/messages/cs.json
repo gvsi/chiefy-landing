@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "Loga zákazníků",
   "home.testimonialsAria": "Posudky",
   "home.scrollingTestimonialsAria": "Posouvání ohlasů",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

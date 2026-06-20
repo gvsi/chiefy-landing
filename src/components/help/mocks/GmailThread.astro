@@ -1,0 +1,165 @@
+---
+/**
+ * GmailThread — a Gmail conversation (thread) view: action toolbar, subject +
+ * label chip, one message (avatar / sender / address / body), the Reply &
+ * Forward affordance buttons, and an inline, expanded REPLY COMPOSE BOX with the
+ * blue Gmail "Send" button. Gmail palette, hardcoded. Wrap in a <MockWindow>.
+ *
+ *   <GmailThread
+ *     subject="Two double rooms — last weekend of August"
+ *     senderName="Bayview Cottages" senderEmail="bookings@bayviewcottages.example"
+ *     senderInitial="B" senderColor="#137333"
+ *     when="2:34 PM (2 hours ago)"
+ *     chip={{ label:"[Chiefy]/Action Needed", bg:"#fce8e6", ink:"#c5221f" }}
+ *     paragraphs={["…","…"]}
+ *     recipientName="Bayview Cottages" recipientInitial="B" recipientColor="#137333"
+ *     draftBody="Hi Jordan, yes — early check-in on the Friday works…"
+ *   />
+ *
+ * `showReplyButtons` (default true) renders the Reply/Forward pills above the
+ * compose box. `noCompose` hides the inline compose box (read-only thread).
+ */
+import GmailIcon from "./GmailIcon.astro"
+import GmailLabelChip from "./GmailLabelChip.astro"
+import GmailStyles from "./GmailStyles.astro"
+
+type Chip = { label: string; bg: string; ink: string }
+
+type Props = {
+    subject: string
+    senderName: string
+    senderEmail: string
+    senderInitial?: string
+    senderColor?: string
+    when?: string
+    counter?: string
+    chip?: Chip
+    starred?: boolean
+    paragraphs: string[]
+    showReplyButtons?: boolean
+    noCompose?: boolean
+    recipientName?: string
+    recipientInitial?: string
+    recipientColor?: string
+    draftBody?: string
+}
+
+const {
+    subject,
+    senderName,
+    senderEmail,
+    senderInitial,
+    senderColor = "#137333",
+    when = "2:34 PM (2 hours ago)",
+    counter = "1 of 248",
+    chip,
+    starred = false,
+    paragraphs,
+    showReplyButtons = true,
+    noCompose = false,
+    recipientName = senderName,
+    recipientInitial,
+    recipientColor = senderColor,
+    draftBody,
+} = Astro.props
+
+const sInit = senderInitial ?? senderName.charAt(0).toUpperCase()
+const rInit = recipientInitial ?? recipientName.charAt(0).toUpperCase()
+---
+
+<GmailStyles />
+<div class="gm">
+    <div class="gm-thread">
+        {/* action toolbar */}
+        <div class="gm-thread-toolbar" role="toolbar" aria-label="Conversation actions">
+            <span class="gm-tb" aria-label="Back to inbox"><GmailIcon name="back" /></span>
+            <span class="gm-sep" aria-hidden="true"></span>
+            <span class="gm-tb" aria-label="Archive"><GmailIcon name="archive" /></span>
+            <span class="gm-tb" aria-label="Delete"><GmailIcon name="trash" /></span>
+            <span class="gm-tb" aria-label="Mark as unread"><GmailIcon name="mark-unread" /></span>
+            <span class="gm-tb" aria-label="Snooze"><GmailIcon name="snooze" /></span>
+            <span class="gm-sep" aria-hidden="true"></span>
+            <span class="gm-tb" aria-label="Add label"><GmailIcon name="label" /></span>
+            <span class="gm-tb" aria-label="Move to"><GmailIcon name="move" /></span>
+            <span class="gm-tb" aria-label="More"><GmailIcon name="more-vert" /></span>
+            <span class="gm-count">
+                {counter}
+                <span class="gm-tb" aria-label="Newer"><GmailIcon name="chevron-left" /></span>
+                <span class="gm-tb" aria-label="Older"><GmailIcon name="chevron-right" /></span>
+            </span>
+        </div>
+
+        {/* subject + label chip + star */}
+        <div class="gm-thread-subject">
+            <h1>{subject}</h1>
+            {chip && <GmailLabelChip label={chip.label} bg={chip.bg} ink={chip.ink} />}
+            <span class={`gm-star${starred ? " on" : ""}`} role="img" aria-label={starred ? "Starred" : "Not starred"}>
+                <GmailIcon name={starred ? "star-filled" : "star"} />
+            </span>
+        </div>
+
+        {/* message */}
+        <div class="gm-msg">
+            <div class="gm-msg-head">
+                <span class="gm-av" style={`background:${senderColor};`} aria-hidden="true">{sInit}</span>
+                <div class="gm-msg-meta">
+                    <div class="gm-line1">
+                        <span class="gm-name">{senderName}</span>
+                        <span class="gm-addr">&lt;{senderEmail}&gt;</span>
+                    </div>
+                    <span class="gm-to">to me <GmailIcon name="chevron-down" size={14} /></span>
+                </div>
+                <div class="gm-msg-right">
+                    <span class="gm-when">{when}</span>
+                    <span class="gm-tb" aria-label="Star"><GmailIcon name="star" /></span>
+                    <span class="gm-tb" aria-label="Reply"><GmailIcon name="reply" /></span>
+                    <span class="gm-tb" aria-label="More"><GmailIcon name="more-vert" /></span>
+                </div>
+            </div>
+            <div class="gm-msg-body">
+                {paragraphs.map((p) => <p>{p}</p>)}
+            </div>
+
+            {
+                showReplyButtons && (
+                    <div class="gm-reply-row">
+                        <button class="gm-pillbtn" type="button" tabindex="-1"><GmailIcon name="reply" />Reply</button>
+                        <button class="gm-pillbtn" type="button" tabindex="-1"><GmailIcon name="forward" />Forward</button>
+                    </div>
+                )
+            }
+        </div>
+
+        {/* inline reply compose box */}
+        {
+            !noCompose && (
+                <div class="gm-compose-box" role="group" aria-label="Reply">
+                    <div class="gm-compose-head">
+                        <span class="gm-replydd">
+                            <GmailIcon name="reply" size={16} />
+                            Reply
+                            <GmailIcon name="chevron-down" size={16} />
+                        </span>
+                        <span class="gm-recip">
+                            <span class="gm-recip-av" style={`background:${recipientColor};`} aria-hidden="true">{rInit}</span>
+                            {recipientName}
+                        </span>
+                    </div>
+                    <div class="gm-compose-body">{draftBody}</div>
+                    <div class="gm-compose-foot">
+                        <button class="gm-send" type="button" tabindex="-1">Send<GmailIcon name="chevron-down" size={16} /></button>
+                        <div class="gm-compose-tools">
+                            <GmailIcon name="format" title="Formatting options" />
+                            <GmailIcon name="clip" title="Attach files" />
+                            <GmailIcon name="link" title="Insert link" />
+                            <GmailIcon name="emoji" title="Insert emoji" />
+                            <GmailIcon name="image" title="Insert photo" />
+                            <span class="gm-spacer" />
+                        </div>
+                        <span class="gm-trash gm-tb" aria-label="Discard draft" style="color:#5f6368;"><GmailIcon name="trash" /></span>
+                    </div>
+                </div>
+            )
+        }
+    </div>
+</div>

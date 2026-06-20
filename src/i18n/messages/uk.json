@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "Логотипи клієнтів",
   "home.testimonialsAria": "Відгуки",
   "home.scrollingTestimonialsAria": "Прокручувані відгуки",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

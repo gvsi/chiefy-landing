@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "Logotipi korisnika",
   "home.testimonialsAria": "Iskustva korisnika",
   "home.scrollingTestimonialsAria": "Pomicanje svjedočanstava",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

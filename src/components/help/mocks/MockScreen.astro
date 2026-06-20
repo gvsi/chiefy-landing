@@ -1,0 +1,45 @@
+---
+/**
+ * MockScreen — screenshot-grade window shell for the settings + onboarding mocks.
+ * A polish-upgraded sibling of MockWindow (same macOS title-bar language: three
+ * dots + a label) that ALSO imports the cluster's `help-settings.css` so any page
+ * embedding a settings/onboarding mock gets the styles without a separate import.
+ *
+ * Unlike MockWindow it gives the body zero padding (each screen owns its own
+ * page-shell padding) and supports a `flush` body for browser-chrome mocks.
+ *
+ *   <MockScreen title="Chiefy · Settings → Drafts" figcaption="…">
+ *     …screen markup…
+ *   </MockScreen>
+ *
+ * The figcaption renders with the same `.help-figcap` style as MockWindow so the
+ * two are visually interchangeable across articles.
+ */
+import "../../../styles/help-settings.css"
+
+type Props = {
+    /** Window title-bar label. */
+    title?: string
+    /** Italic caption under the window. */
+    figcaption?: string
+    /** Extra class on the body (e.g. for a fixed-palette browser mock). */
+    bodyClass?: string
+}
+
+const { title, figcaption, bodyClass } = Astro.props
+---
+
+<figure class="help-mock-figure">
+    <div class="help-mock">
+        <div class="help-mock-bar">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            {title && <span class="ttl">{title}</span>}
+        </div>
+        <div class={`help-mock-body hms-cq${bodyClass ? ` ${bodyClass}` : ""}`} style="padding:0">
+            <slot />
+        </div>
+    </div>
+    {figcaption && <figcaption class="help-figcap">{figcaption}</figcaption>}
+</figure>

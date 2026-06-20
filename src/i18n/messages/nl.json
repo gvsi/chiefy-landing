@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "Logo's van klanten",
   "home.testimonialsAria": "Getuigenissen",
   "home.scrollingTestimonialsAria": "Getuigenissen scrollen",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

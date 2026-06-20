@@ -1,0 +1,385 @@
+---
+/**
+ * SmartSummaryMock — the Chiefy/Duet Smart Summary surface injected at the TOP
+ * of an open Gmail conversation (InboxSDK notice bar). Two mutually-exclusive
+ * states in the same slot:
+ *
+ *   state="cta"     → the "Summarize this email" gradient pill (no summary yet).
+ *   state="summary" → the rendered Smart Summary card: bullet briefing +
+ *                     optional reply-suggestion chips. (the hero)
+ *
+ * The card is its own light artifact painted on Gmail white (it renders inside a
+ * Shadow DOM in the real extension, so it does NOT flip with the help theme) —
+ * its surface is a fixed near-white wash. Around it we draw a real Gmail thread
+ * frame (Gmail palette, Roboto, hardcoded). The brand gradient appears only on
+ * the 6px bullet dot and the CTA pill — never as a full background.
+ *
+ * Replaces the inline Smart-Summary figures in the Smart Summaries articles.
+ */
+type Bullet = { html: string }
+type Props = {
+    state: "cta" | "summary"
+    figcaption?: string
+    /** Thread subject shown in the Gmail header. */
+    subject?: string
+    sender?: string
+    senderEmail?: string
+    senderInitial?: string
+    senderColor?: string
+    time?: string
+    /** A short body preview line beneath the card (Gmail message). */
+    bodyPreview?: string
+    /** summary: briefing bullets (may contain <b>). */
+    bullets?: Bullet[]
+    /** summary: short reply-suggestion chip labels. */
+    chips?: string[]
+}
+
+const {
+    state,
+    figcaption,
+    subject = "Booking enquiry — Bayview Cottages, 12–15 Aug",
+    sender = "Jordan Lee",
+    senderEmail = "jordan.lee@example.com",
+    senderInitial = "J",
+    senderColor = "#5e35b1",
+    time = "9:24 AM",
+    bodyPreview = "Hi — I'd love to book the 3-bedroom cottage for 12–15 Aug for 2 adults and 1 child. A couple of quick questions before I confirm…",
+    bullets = [
+        { html: "Jordan Lee is asking about availability at <b>Bayview Cottages</b> for <b>12–15 Aug</b> (2 adults, 1 child)." },
+        { html: "They want to know if the <b>3-bedroom cottage</b> is pet-friendly and whether breakfast is included." },
+        { html: "A <b>deposit of $200</b> was mentioned in your earlier reply; Jordan hasn't paid yet." },
+        { html: "They've asked for a response <b>by Friday</b> to confirm the booking." },
+    ],
+    chips = ["Confirm availability", "Send deposit details", "Ask about dates"],
+} = Astro.props
+---
+
+<figure class="help-mock-figure ssum-fig">
+    <div class="ssum-gmail-thread">
+        {/* Gmail thread toolbar */}
+        <div class="ssum-thread-toolbar" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" class="ssum-tb-icon">
+                <path d="M19 12H5M11 6l-6 6 6 6" stroke="#5f6368" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+            <span class="ssum-tb-sep"></span>
+            <svg width="18" height="18" viewBox="0 0 24 24" class="ssum-tb-icon">
+                <rect x="3" y="5" width="18" height="4" rx="1" stroke="#5f6368" stroke-width="1.6" fill="none" />
+                <path d="M5 9v9a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V9M10 13h4" stroke="#5f6368" stroke-width="1.6" fill="none" stroke-linecap="round" />
+            </svg>
+            <svg width="18" height="18" viewBox="0 0 24 24" class="ssum-tb-icon">
+                <path d="M3 6h18M8 6V4h8v2M6 6l1 14a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2l1-14" stroke="#5f6368" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+            <svg width="18" height="18" viewBox="0 0 24 24" class="ssum-tb-icon">
+                <path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2" stroke="#5f6368" stroke-width="1.6" fill="none" stroke-linecap="round" />
+                <rect x="9" y="3" width="6" height="4" rx="1" stroke="#5f6368" stroke-width="1.6" fill="none" />
+            </svg>
+        </div>
+
+        {/* Subject row */}
+        <div class="ssum-subject-row">
+            <h1 class="ssum-subject">{subject}</h1>
+            <svg width="20" height="20" viewBox="0 0 24 24" class="ssum-star" aria-hidden="true">
+                <path d="M12 3l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 18.8 6.2 21l1.1-6.5L2.6 9.8l6.5-.9z" stroke="#5f6368" stroke-width="1.4" fill="none" />
+            </svg>
+        </div>
+
+        {/* The injected Smart Summary surface (Shadow-DOM artifact) */}
+        {
+            state === "cta" && (
+                <div class="ssum-slot ssum-cta-slot">
+                    <button class="ssum-cta" type="button" aria-label="Summarize this thread">
+                        Summarize this email
+                    </button>
+                </div>
+            )
+        }
+        {
+            state === "summary" && (
+                <div class="ssum-slot">
+                    <div class="ssum-card" role="region" aria-label="Smart Summary of this conversation">
+                        <ul class="ssum-bullets">
+                            {bullets.map((b) => (
+                                <li class="ssum-bullet">
+                                    <span class="ssum-dot" aria-hidden="true" />
+                                    <span class="ssum-bullet-text" set:html={b.html} />
+                                </li>
+                            ))}
+                        </ul>
+                        <div class="ssum-chips" role="group" aria-label="Reply suggestions">
+                            {chips.map((c) => (
+                                <button class="ssum-chip" type="button">
+                                    {c}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+                </div>
+            )
+        }
+
+        {/* Sender row + body preview */}
+        <div class="ssum-msg">
+            <span class="ssum-msg-av" style={`background:${senderColor}`}>{senderInitial}</span>
+            <div class="ssum-msg-main">
+                <div class="ssum-msg-head">
+                    <span class="ssum-msg-from">{sender}</span>
+                    <span class="ssum-msg-email">&lt;{senderEmail}&gt;</span>
+                    <span class="ssum-msg-time">{time}</span>
+                </div>
+                <p class="ssum-msg-body">{bodyPreview}</p>
+            </div>
+        </div>
+    </div>
+
+    {figcaption && <figcaption class="help-figcap">{figcaption}</figcaption>}
+</figure>
+
+<style>
+    /* ======================================================================
+       SmartSummaryMock — Gmail-native screenshot of the injected Smart Summary
+       surface. The Gmail thread frame is HARDCODED to Gmail's real palette
+       (theme-independent, matching GmailStyles.astro). The brand gradient appears
+       ONLY on the 6px bullet dot and the CTA pill. Settled static frame — no
+       animation, no interactive state.
+       ====================================================================== */
+
+    .ssum-fig {
+        /* extra breathing room around the Gmail frame; figure base is global */
+        --ssum-ink: #202124;
+        --ssum-ink2: #5f6368;
+        --ssum-blue: #0b57d0;
+        --ssum-bd: #e0e0e0;
+        --ssum-bd2: #dadce0;
+        --ssum-grad: linear-gradient(135deg, #4530ea 0%, #74c2ff 100%);
+    }
+
+    /* ---- outer Gmail open-conversation frame ---------------------------- */
+    .ssum-gmail-thread {
+        box-sizing: border-box;
+        max-width: 640px;
+        margin: 0 auto;
+        background: #ffffff;
+        border: 1px solid var(--ssum-bd);
+        border-radius: 12px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06), 0 12px 28px rgba(0, 0, 0, 0.1);
+        padding: 8px 20px 20px;
+        font-family: "Roboto", Arial, "Helvetica Neue", sans-serif;
+        color: var(--ssum-ink);
+        font-size: 14px;
+        line-height: 1.4;
+        text-align: left;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: optimizeLegibility;
+    }
+    .ssum-gmail-thread *,
+    .ssum-gmail-thread *::before,
+    .ssum-gmail-thread *::after {
+        box-sizing: border-box;
+    }
+
+    /* ---- thread toolbar (grey action icons) ---------------------------- */
+    .ssum-thread-toolbar {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        padding: 6px 0;
+        border-bottom: 1px solid var(--ssum-bd);
+        margin-bottom: 4px;
+    }
+    .ssum-tb-icon {
+        box-sizing: border-box;
+        width: 18px;
+        height: 18px;
+        flex: none;
+        display: block;
+        fill: none;
+        margin: 0 7px;
+    }
+    .ssum-tb-icon:first-child {
+        margin-left: 0;
+    }
+    .ssum-tb-sep {
+        width: 1px;
+        height: 20px;
+        background: var(--ssum-bd);
+        margin: 0 6px;
+        flex: none;
+    }
+
+    /* ---- subject row --------------------------------------------------- */
+    .ssum-subject-row {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 14px 0 10px;
+        flex-wrap: wrap;
+    }
+    .ssum-subject {
+        margin: 0;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 1.3;
+        color: var(--ssum-ink);
+        letter-spacing: 0;
+    }
+    .ssum-star {
+        box-sizing: border-box;
+        width: 20px;
+        height: 20px;
+        flex: none;
+        display: block;
+        fill: none;
+    }
+
+    /* ---- the injected Smart Summary slot ------------------------------- */
+    .ssum-slot {
+        padding: 4px 0 8px;
+    }
+
+    /* cta state: gradient pill */
+    .ssum-cta-slot {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .ssum-cta {
+        box-sizing: border-box;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-image: var(--ssum-grad);
+        color: #ffffff;
+        border: 0;
+        border-radius: 9999px;
+        padding: 10px 18px;
+        font-family: inherit;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 1;
+        letter-spacing: 0.01em;
+        box-shadow: 0 1px 2px rgba(69, 48, 234, 0.25), 0 4px 12px rgba(69, 48, 234, 0.18);
+        cursor: default;
+    }
+
+    /* summary state: near-white wash card */
+    .ssum-card {
+        box-sizing: border-box;
+        background: #f8f9ff;
+        border: 1px solid #e6e8f0;
+        border-radius: 12px;
+        box-shadow: 0 1px 2px rgba(31, 41, 95, 0.06), 0 6px 16px rgba(31, 41, 95, 0.07);
+        padding: 16px;
+    }
+
+    .ssum-bullets {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .ssum-bullet {
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    .ssum-dot {
+        box-sizing: border-box;
+        width: 6px;
+        height: 6px;
+        flex: none;
+        flex-shrink: 0;
+        border-radius: 50%;
+        background-image: var(--ssum-grad);
+        margin-top: 7px;
+    }
+    .ssum-bullet-text {
+        font-size: 14px;
+        line-height: 1.5;
+        color: var(--ssum-ink);
+    }
+    .ssum-bullet-text b {
+        font-weight: 600;
+        color: #111111;
+    }
+
+    .ssum-chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+    }
+    .ssum-chip {
+        box-sizing: border-box;
+        display: inline-flex;
+        align-items: center;
+        background: #ffffff;
+        border: 1px solid var(--ssum-bd2);
+        border-radius: 9999px;
+        padding: 6px 12px;
+        font-family: inherit;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 1.2;
+        color: var(--ssum-blue);
+        white-space: nowrap;
+        cursor: default;
+    }
+
+    /* ---- sender message row + body preview ----------------------------- */
+    .ssum-msg {
+        display: flex;
+        align-items: flex-start;
+        gap: 14px;
+        padding-top: 12px;
+        margin-top: 8px;
+        border-top: 1px solid #f1f3f4;
+    }
+    .ssum-msg-av {
+        box-sizing: border-box;
+        width: 40px;
+        height: 40px;
+        flex: none;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1;
+        letter-spacing: 0.01em;
+    }
+    .ssum-msg-main {
+        flex: 1;
+        min-width: 0;
+    }
+    .ssum-msg-head {
+        display: flex;
+        align-items: baseline;
+        gap: 6px;
+        flex-wrap: wrap;
+    }
+    .ssum-msg-from {
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--ssum-ink);
+    }
+    .ssum-msg-email {
+        font-size: 13px;
+        color: var(--ssum-ink2);
+    }
+    .ssum-msg-time {
+        margin-left: auto;
+        font-size: 12px;
+        color: var(--ssum-ink2);
+        white-space: nowrap;
+    }
+    .ssum-msg-body {
+        margin: 4px 0 0;
+        font-size: 14px;
+        line-height: 1.6;
+        color: var(--ssum-ink2);
+    }
+</style>

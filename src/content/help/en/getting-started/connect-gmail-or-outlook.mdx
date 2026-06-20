@@ -1,0 +1,74 @@
+---
+title: "Connect Gmail or Outlook"
+description: "Authenticate your Gmail or Outlook account with Chiefy so the extension can access your inbox."
+category: "getting-started"
+type: "how-to"
+order: 20
+keywords: ["connect gmail", "connect outlook", "sign in to chiefy", "oauth", "authorize inbox access"]
+relatedSlugs: ["getting-started/install-the-chiefy-extension", "getting-started/your-first-five-minutes-with-chiefy"]
+updatedAt: 2026-06-18
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import OnboardingSignIn from "../../../../components/help/mocks/OnboardingSignIn.astro"
+
+<HelpTldr>
+  Choose **Continue with Google** for Gmail or **Continue with Microsoft** for Outlook. Chiefy uses your provider's own sign-in screen — you authorize access there, and your password never touches Chiefy. Once you're in, your inbox is connected and Chiefy walks you through a short setup.
+</HelpTldr>
+
+Connecting takes a moment. You sign in through Google or Microsoft, review what Chiefy is asking for, and approve it. From then on, Chiefy can read your inbox and prepare drafts for you — all through your provider's secure sign-in, so you never share your password with us. In Gmail, you work with Chiefy right in the side panel; Outlook inboxes are connected and worked on in the background, since the in-mail side panel is Gmail-only today.
+
+## Before you start
+
+You'll need the Chiefy extension installed. New to Chiefy? Start with [Install the Chiefy extension](/help/getting-started/install-the-chiefy-extension) first, then come back here.
+
+## Start sign-in
+
+There are two ways to begin, and both lead to the same secure sign-in screen.
+
+<HelpSteps>
+  <HelpStep title="Open sign-in from Gmail or the web">
+    Click the **Chiefy** icon in Gmail to open the side panel, or go to [app.chiefy.com](https://app.chiefy.com) directly. Either one starts the sign-in flow.
+    {/* TODO: real screenshot */}
+    <OnboardingSignIn />
+  </HelpStep>
+  <HelpStep title="Choose your provider">
+    Pick **Continue with Google** to connect Gmail, or **Continue with Microsoft** to connect Outlook. Chiefy hands you off to that provider's own sign-in page to finish authenticating.
+  </HelpStep>
+  <HelpStep title="Review and approve access">
+    On your provider's screen, sign in to the account you want to use and review the access Chiefy is requesting. Gmail asks you to allow Chiefy to read, compose, send, and manage your email; Outlook asks for the equivalent. Approve it to continue.
+  </HelpStep>
+</HelpSteps>
+
+> Chiefy needs full mailbox access to do its job — reading threads to summarize them, and creating drafts in your voice. It only ever prepares drafts; nothing is sent without you.
+
+## What access Chiefy asks for
+
+Sign-in uses OAuth, the standard way to grant an app access without sharing your password. You authorize Chiefy on Google's or Microsoft's own screen, and you can revoke that access from your provider's account settings at any time.
+
+- **Gmail** uses Google OAuth. Chiefy requests permission to read, compose, send, and manage your Gmail, plus your basic profile and email address to identify your account.
+- **Outlook** uses Microsoft OAuth, which grants the equivalent access to your Outlook mailbox.
+
+## What happens after you approve
+
+Once you approve, Chiefy completes sign-in and your inbox is connected.
+
+- You're taken into a short setup flow — a pricing step, then a confirmation — so Chiefy is ready in your inbox.
+- At the pricing step, first-time users start a **14-day free trial** with no charge until it ends. If you've used a trial before, you'll go straight to choosing a plan.
+- The extension notices you're signed in automatically. It watches a small sign-in marker that the connection sets, so it picks up sign-in, sign-out, and routine session refreshes without you doing anything.
+
+After that, if you connected Gmail, reload it when it's open and the Chiefy side panel is ready to use. If you connected Outlook, there's nothing to reload — Chiefy starts working on your inbox in the background.
+
+## If sign-in doesn't work
+
+If something goes wrong, Chiefy shows a message tailored to your provider — Google or Microsoft — with guidance on what to try next. The most common cases:
+
+- **Wrong account.** You signed in with a different account than the one you meant to connect. Sign out of that account with your provider, or start sign-in again and pick the right one.
+- **Access not granted.** You closed the provider's screen or declined a permission Chiefy needs. Start sign-in again and approve the requested access — Chiefy can't read your inbox or prepare drafts without it.
+
+If you approve everything and still can't connect, try signing in from [app.chiefy.com](https://app.chiefy.com) in a fresh tab. If you connected Gmail, reload it afterward so the side panel picks up your session.
+
+## Next steps
+
+You're connected. Next, see [Your first five minutes with Chiefy](/help/getting-started/your-first-five-minutes-with-chiefy) to get oriented and see what Chiefy does with your inbox.

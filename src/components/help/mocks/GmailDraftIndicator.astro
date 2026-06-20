@@ -1,0 +1,30 @@
+---
+/**
+ * GmailDraftIndicator — Gmail's NATIVE unsent-draft marker, the in-THREAD
+ * variant: a collapsed draft block with the red "Draft" word, a one-line preview
+ * of the draft body, and an edit-pencil affordance. Gmail palette, hardcoded.
+ * IMPORTANT accuracy: the ONLY red token in Gmail's draft marker is the word
+ * "Draft" (#d93025); everything else is neutral.
+ *
+ *   <GmailDraftIndicator preview="Hi Alex, Thursday 2–4pm works for me…" />
+ *
+ * For the LIST variant of the same marker, use <GmailRow draft recipient="…" />.
+ */
+import GmailIcon from "./GmailIcon.astro"
+import GmailStyles from "./GmailStyles.astro"
+
+type Props = {
+    preview: string
+}
+
+const { preview } = Astro.props
+---
+
+<GmailStyles />
+<div class="gm">
+    <div class="gm-draftblock" role="group" aria-label="Unsent draft">
+        <span class="gm-draftword">Draft</span>
+        <span class="gm-draft-prev">{preview}</span>
+        <span class="gm-draft-edit" aria-label="Continue editing"><GmailIcon name="pencil" /></span>
+    </div>
+</div>

@@ -2,8 +2,10 @@ import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import tailwindcss from "@tailwindcss/vite"
+import mdx from "@astrojs/mdx"
 import sitemap from "@astrojs/sitemap"
 import { defineConfig } from "astro/config"
+import pagefind from "./src/integrations/pagefind.ts"
 
 const repoRoot = fileURLToPath(new URL(".", import.meta.url))
 const localeSource = JSON.parse(
@@ -68,6 +70,7 @@ export default defineConfig({
         format: "file",
     },
     integrations: [
+        mdx(),
         sitemap({
             filter: filterSitemapPage,
             ...(hasBootstrapLocales
@@ -79,6 +82,9 @@ export default defineConfig({
                     },
                 }),
         }),
+        // Pagefind builds the help search index from the finished output in
+        // `astro:build:done`; it must come after the page-emitting integrations.
+        pagefind(),
     ],
     vite: {
         plugins: [tailwindcss()],

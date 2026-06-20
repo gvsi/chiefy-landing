@@ -1,0 +1,117 @@
+---
+title: "Troubleshooting: Drafts aren't appearing"
+description: "Why your Smart Drafts or Autodraft drafts might not be showing up and how to fix it."
+category: "smart-drafts"
+type: "troubleshooting"
+order: 30
+keywords: ["smart drafts not appearing", "autodraft not working", "no draft in gmail", "autodraft missing", "draft troubleshooting"]
+relatedSlugs: ["smart-drafts/use-smart-drafts-on-demand", "smart-drafts/turn-on-autodraft", "connected-mailboxes/what-automates-on-secondary-mailboxes"]
+updatedAt: 2026-06-18
+---
+import HelpTldr from "../../../../components/help/HelpTldr.astro"
+import HelpSteps from "../../../../components/help/HelpSteps.astro"
+import HelpStep from "../../../../components/help/HelpStep.astro"
+import MockWindow from "../../../../components/help/MockWindow.astro"
+import SettingsDrafts from "../../../../components/help/mocks/SettingsDrafts.astro"
+import GmailFrame from "../../../../components/help/mocks/GmailFrame.astro"
+import GmailInboxList from "../../../../components/help/mocks/GmailInboxList.astro"
+
+<HelpTldr>
+  Smart Drafts and Autodraft are deliberately conservative — they only draft when a thread clearly needs a reply and skip notifications, newsletters, and sensitive topics. If a draft isn't showing up, check that Autodraft is on, the Chiefy extension is enabled, and you're looking in the Gmail reply box, not a separate panel.
+</HelpTldr>
+
+Drafts appear right inside Gmail, as native Gmail drafts. They're never sent for you, and they never show up in a separate Chiefy window. If you expected a draft and don't see one, this page walks through the most common reasons — most of them are by design.
+
+## Where drafts appear
+
+A draft from Smart Drafts or Autodraft lands in the **Gmail reply compose box** on the thread, exactly like a draft you'd write yourself. There's no separate Chiefy panel holding your drafts — open the thread and the draft is in the reply area, ready to read, edit, and send.
+
+If you're scanning a side panel looking for finished drafts, that's why you can't find them. Open the thread itself.
+
+## On-demand Smart Drafts don't appear on their own
+
+On-demand Smart Drafts only run when you ask for them. Open the reply box and request a draft — Chiefy won't write one until you do. If you're waiting for a draft to show up automatically without asking, that's Autodraft, which is a separate mode you turn on (see below).
+
+When you do ask, Chiefy may come back with a clarifying question instead of a finished draft. If your request is ambiguous, or it needs information it can't find in the thread or your history, it'll ask you first rather than guess. Answer the question and it'll continue.
+
+## Check that Autodraft is on
+
+Autodraft is the automatic mode — it pre-drafts replies as email arrives, so a draft is waiting when you open the thread. It's off until you turn it on.
+
+<HelpSteps>
+  <HelpStep title="Open Chiefy settings">
+    In Gmail, open the Chiefy side panel and choose **Settings**.
+  </HelpStep>
+  <HelpStep title="Go to Smart Drafts">
+    Select **Smart Drafts** from the settings menu.
+  </HelpStep>
+  <HelpStep title="Confirm Autodraft is toggled on" anno="A">
+    Make sure **Autodraft** is switched on. If it's off, no drafts are prepared automatically.
+    <SettingsDrafts />
+  </HelpStep>
+</HelpSteps>
+
+## Check the extension
+
+Autodraft prepares drafts in the background, but you need the Chiefy extension installed and enabled in Chrome to see and use them inside Gmail. If the extension is disabled, you won't see the Chiefy panel or its settings at all.
+
+Open Chrome's extensions page and confirm Chiefy is installed and turned on, then reload Gmail. New to Chiefy? Start with [Getting started](/help/getting-started) first.
+
+## Autodraft only drafts for threads that need a reply
+
+Autodraft is built to stay quiet unless a thread clearly calls for a response. It deliberately leaves these alone:
+
+- **Notifications, receipts, and newsletters** — automated messages from a `noreply@` address or a sender that isn't a real person expecting an answer.
+- **Cold outreach and broadcasts** — unsolicited sales pitches, or emails where you're only CC'd for awareness rather than being the person who should reply.
+- **Threads it can't handle confidently** — when it doesn't have enough context to write something genuinely useful, it would rather skip than put words in your mouth.
+
+So an inbox with no new Autodrafts often just means nothing in it needed one. That's the feature working as intended.
+
+<MockWindow title="Gmail · Inbox" tight figcaption="Threads that clearly need a reply get an Autodraft; notifications are left alone.">
+  <GmailFrame active="inbox" inboxCount="12" noSearch>
+    <GmailInboxList rows={[
+      {
+        avatar: "BC",
+        avatarColor: "#137333",
+        draft: true,
+        recipient: "Bayview Cottages",
+        subject: "Re: Booking for 4 — last weekend of August",
+        snippet: "Hi — could you confirm the two double rooms and…",
+        time: "9:24 AM",
+        unread: true,
+      },
+      {
+        avatar: "ST",
+        avatarColor: "#635bff",
+        sender: "Stripe",
+        subject: "Your payout is on the way",
+        snippet: "A payout of €1,240.00 is on its way to your…",
+        time: "7:30 AM",
+      },
+    ]} />
+  </GmailFrame>
+</MockWindow>
+
+## Sensitive topics are treated carefully
+
+Some threads are higher-stakes than most. When a reply would need fresh judgment on something contested or novel — a legal dispute, an HR or payroll matter, a financial decision, or a promise to do something you haven't agreed to — Autodraft lowers its confidence in drafting it, so it's more likely to skip the thread than put words in your mouth.
+
+This isn't a hard wall. If it's a topic you handle as a matter of routine — a booking confirmation, a standard refund, an invoice reply you send all the time — Chiefy recognizes the pattern and will still draft it, even though money is involved. It's the genuinely novel, judgment-heavy threads that get held back.
+
+For those, write the reply yourself, or ask for an on-demand Smart Draft and review it carefully before sending.
+
+## Your reply-frequency setting may be filtering them out
+
+In Smart Drafts settings there's a **How often do you like to reply?** control with four choices, from *I only reply when there's a direct question or request* through *I reply to almost everything, even just to be polite*. It controls how much of your email Autodraft drafts for.
+
+If you've picked one of the more selective options and a thread is more of a courtesy reply than a direct question, Autodraft will skip it. If you want drafts for more of your email, open **Chiefy → Settings → Smart Drafts** and move **How often do you like to reply?** toward the more inclusive end.
+
+## Using a Connected Mailbox?
+
+Autodraft runs on your **sign-in mailbox** — the account you log in with — not on the other mailboxes you've connected. A connected mailbox is read across (search and Ask Chiefy) today, but Chiefy doesn't yet prepare automatic drafts in it. So if drafts appear for the account you signed in with but not for one you added later, that's expected — drafting on connected mailboxes is something we're building toward.
+
+You can still set Smart Drafts per mailbox now — on or off, sensitivity, and signature — and those choices are saved and waiting for when drafting extends to connected mailboxes. For exactly what runs where, see [What automates on each mailbox and why](/help/connected-mailboxes/what-automates-on-secondary-mailboxes).
+
+## Still not seeing a draft?
+
+If you've confirmed Autodraft is on, the extension is enabled, and the thread genuinely needs a reply, try opening the thread directly and reloading Gmail — the draft sits in the reply box, not a separate panel. If a thread you'd expect a draft for still has none, it most likely fell into one of the conservative skips above.

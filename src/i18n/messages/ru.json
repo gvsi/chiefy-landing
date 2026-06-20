@@ -81,5 +81,6 @@
   "home.logoCustomerAria": "Логотипы клиентов",
   "home.testimonialsAria": "Отзывы",
   "home.scrollingTestimonialsAria": "Прокручивающиеся отзывы",
-  "footer.contact": "Contact"
+  "footer.contact": "Contact",
+  "help.nav.label": "Help"
 }

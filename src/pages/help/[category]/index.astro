@@ -1,0 +1,95 @@
+---
+import HelpIndexLayout from "../../../layouts/HelpIndexLayout.astro"
+import HelpSidebar from "../../../components/help/HelpSidebar.astro"
+import HelpBreadcrumb from "../../../components/help/HelpBreadcrumb.astro"
+import HelpArticleList from "../../../components/help/HelpArticleList.astro"
+import HelpIcon from "../../../components/help/HelpIcon.astro"
+import { DEFAULT_LOCALE } from "../../../i18n/locales"
+import { localizedPath } from "../../../i18n/routing"
+import { getHelpArticlesByCategory, getHelpAlternates } from "../../../i18n/content"
+import { HELP_CATEGORIES, helpCategory } from "../../../content/help/_categories"
+import { HELP_UI } from "../../../content/help/_ui"
+import { getMessages, t } from "../../../i18n/messages/schema"
+
+export function getStaticPaths() {
+    return HELP_CATEGORIES.map((category) => ({
+        params: { category: category.id },
+        props: { categoryId: category.id },
+    }))
+}
+
+const { categoryId } = Astro.props as { categoryId: string }
+const locale = DEFAULT_LOCALE
+const messages = getMessages(locale)
+const category = helpCategory(categoryId)
+if (!category) throw new Error(`Unknown help category: ${categoryId}`)
+
+const articles = await getHelpArticlesByCategory(locale, categoryId)
+
+const title = `${category.name}${HELP_UI.meta.titleSuffix}`
+const description = category.blurb
+const canonicalPath = localizedPath(locale, { kind: "helpCategory", category: categoryId })
+const alternates = getHelpAlternates(Astro.site, { kind: "helpCategory", category: categoryId })
+
+const helpIndexPath = localizedPath(locale, { kind: "helpIndex" })
+const homeUrl = new URL(localizedPath(locale, { kind: "home" }), Astro.site).toString()
+const helpUrl = new URL(helpIndexPath, Astro.site).toString()
+const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
+const breadcrumb = [
+    { name: t(messages, "legalNav.home"), url: homeUrl },
+    { name: HELP_UI.breadcrumb.home, url: helpUrl },
+    { name: category.name, url: canonicalUrl },
+]
+
+const sidebarGroups = [
+    {
+        heading: HELP_UI.browseByTopic,
+        links: HELP_CATEGORIES.map((c) => ({
+            label: c.name,
+            href: localizedPath(locale, { kind: "helpCategory", category: c.id }),
+            active: c.id === categoryId,
+        })),
+    },
+]
+
+const articleRows = articles.map((article) => ({
+    title: article.title,
+    description: article.description,
+    href: localizedPath(locale, { kind: "helpArticle", slug: article.slug }),
+    type: article.type,
+    iconKey: category.iconKey,
+}))
+---
+
+<HelpIndexLayout
+    locale={locale}
+    title={title}
+    description={description}
+    collectionName={category.name}
+    canonicalPath={canonicalPath}
+    alternates={alternates}
+    breadcrumb={breadcrumb}
+>
+    <div class="help-wrap">
+        <div class="help-doc">
+            <HelpSidebar groups={sidebarGroups} back={{ label: HELP_UI.sidebar.allTopics, href: helpIndexPath }} />
+            <main>
+                <HelpBreadcrumb
+                    items={[{ label: HELP_UI.breadcrumb.home, href: helpIndexPath }, { label: category.name }]}
+                />
+                <div class="help-sectionhead">
+                    <div class="ic"><HelpIcon name={category.iconKey} size={24} /></div>
+                    <h1>{category.name}</h1>
+                    <p>{category.blurb}</p>
+                </div>
+                {
+                    articleRows.length > 0 ? (
+                        <HelpArticleList articles={articleRows} />
+                    ) : (
+                        <p class="help-empty">{HELP_UI.category.emptyState}</p>
+                    )
+                }
+            </main>
+        </div>
+    </div>
+</HelpIndexLayout>
