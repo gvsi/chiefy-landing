@@ -28,9 +28,18 @@ export default function pagefind(): AstroIntegration {
             "astro:build:done": async ({ dir, logger }) => {
                 const outputDir = fileURLToPath(dir)
 
-                // Dynamic import keeps the (CJS-bridged) Pagefind service off the
-                // config-load path and only pays the cost during a real build.
-                const pagefindModule = await import("pagefind")
+                // Load Pagefind via a NATIVE dynamic import that bypasses Vite's
+                // SSR module runner. By the time this `astro:build:done` hook runs
+                // the runner is already closed, so a Vite-processed
+                // `import("pagefind")` throws "Vite module runner has been closed"
+                // and fails the build on Cloudflare Pages (locally the timing
+                // usually lets it slip through). `new Function` keeps the import out
+                // of Vite's static graph, so the bare specifier resolves through
+                // Node's own ESM loader instead of the closed runner.
+                const importPagefind = new Function(
+                    'return import("pagefind")',
+                ) as () => Promise<typeof import("pagefind")>
+                const pagefindModule = await importPagefind()
 
                 const { index } = await pagefindModule.createIndex()
                 if (!index) {
