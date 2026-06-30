@@ -1,7 +1,7 @@
-# Duet Landing - AI Assistant Guidelines
+# Chiefy Landing - AI Assistant Guidelines
 
 ## Project Overview
-This repository (`duet-landing`) contains the marketing website for Duet Mail (`https://duetmail.com`).
+This repository (`chiefy-landing`) contains the marketing website for Chiefy (`https://chiefy.com`).
 It is a static site built with **Astro** and **Tailwind CSS**, hosted on **Cloudflare Pages**.
 
 **Primary Goal:** Achieve perfect or near-perfect PageSpeed/Lighthouse scores (SEO, LCP, CLS).
