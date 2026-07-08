@@ -1,0 +1,26 @@
+---
+import LegalLayout from "../layouts/LegalLayout.astro"
+import { DEFAULT_LOCALE } from "../i18n/locales"
+import { getMessages, t } from "../i18n/messages/schema"
+import contentHtml from "../snippets/legal/referral-terms.html?raw"
+
+// v1 is EN-only by design (spec §9), mirroring /refer (src/pages/refer.astro):
+// this page intentionally does NOT join the [locale]/[legalPage].astro
+// 48-locale fan-out, so it bypasses the shared LegalPage-typed
+// getLegalContent()/localizedPath()/getAlternateLinksForRoute() machinery and
+// reads its content directly via a raw import instead.
+const locale = DEFAULT_LOCALE
+const messages = getMessages(locale)
+const title = t(messages, "legal.pages.referralTerms.title")
+const description = t(messages, "legal.pages.referralTerms.description")
+---
+
+<LegalLayout
+    locale={locale}
+    messages={messages}
+    alternates={[]}
+    title={title}
+    description={description}
+    canonicalPath="/referral-terms"
+    contentHtml={contentHtml}
+/>
