@@ -82,5 +82,13 @@
   "home.testimonialsAria": "感言",
   "home.scrollingTestimonialsAria": "滚动推荐",
   "footer.contact": "Contact",
-  "help.nav.label": "Help"
+  "help.nav.label": "Help",
+  "refer.meta.title": "Chiefy Pro — Free Month with a Friend's Invite",
+  "refer.meta.description": "Start your 14-day Chiefy Pro trial from a friend's invite — your first month is free.",
+  "refer.hero.gift": "A friend is gifting you a free month of Chiefy Pro",
+  "refer.hero.plain": "Get Chiefy Pro — first month free with a friend's invite.",
+  "refer.sub": "Start your 14-day trial. When you subscribe, your first month is free — and your friend gets a month too.",
+  "refer.cta.gmail": "Start with Gmail",
+  "refer.cta.outlook": "Start with Outlook",
+  "refer.finePrint": "The free month applies to Chiefy Pro subscription plans. See referral terms."
 }
