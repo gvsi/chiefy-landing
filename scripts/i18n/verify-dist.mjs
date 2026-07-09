@@ -361,10 +361,22 @@ function assertHreflangCoverage() {
     for (const filePath of listFiles(distRoot, ".html")) {
         const relativePath = path.relative(distRoot, filePath)
         if (relativePath.startsWith("i18n-qa/")) continue
+        // /refer is an intentionally noindex,noarchive, sitemap-excluded, EN-only
+        // referral utility page (see astro.config.mjs filterSitemapPage and
+        // refer.astro robotsDirectives). BaseLayout omits hreflang alternates for
+        // noindex pages by design — hreflang is inert on a non-indexed page — so it
+        // is exempt from the indexed-route hreflang matrix. Bootstrap-locale pages
+        // are also noindex but MUST keep hreflang enforcement, so this stays a
+        // targeted path skip rather than a blanket noindex skip.
+        if (relativePath === "refer.html") continue
 
         const { document } = parseHtmlFile(relativePath)
-        if (isHelpDistFile(relativePath)) {
-            assertHelpHreflangCoverage(relativePath, document)
+        // /referral-terms is indexed but intentionally EN-only at launch (spec §9),
+        // exactly like the help center: it declares self-referential en + x-default
+        // hreflang, not the full locale matrix. Same narrow expectation as help.
+        const isEnglishOnlyIndexed = isHelpDistFile(relativePath) || relativePath === "referral-terms.html"
+        if (isEnglishOnlyIndexed) {
+            assertHreflangSet(relativePath, document, new Set([defaultLocale, "x-default"]))
         } else {
             assertHreflangSet(relativePath, document, expectedHreflangs)
         }
