@@ -348,8 +348,9 @@ function assertHreflangSet(relativePath, document, expectedHreflangs) {
     }
 }
 
-function assertHelpHreflangCoverage(relativePath, document) {
-    // Help launches English-only: exactly en + x-default, nothing else.
+function assertEnglishOnlyHreflangCoverage(relativePath, document) {
+    // English-only-at-launch indexed pages (help center, /referral-terms) declare
+    // exactly en + x-default, nothing else.
     assertHreflangSet(relativePath, document, new Set([defaultLocale, "x-default"]))
 }
 
@@ -376,7 +377,7 @@ function assertHreflangCoverage() {
         // hreflang, not the full locale matrix. Same narrow expectation as help.
         const isEnglishOnlyIndexed = isHelpDistFile(relativePath) || relativePath === "referral-terms.html"
         if (isEnglishOnlyIndexed) {
-            assertHreflangSet(relativePath, document, new Set([defaultLocale, "x-default"]))
+            assertEnglishOnlyHreflangCoverage(relativePath, document)
         } else {
             assertHreflangSet(relativePath, document, expectedHreflangs)
         }
