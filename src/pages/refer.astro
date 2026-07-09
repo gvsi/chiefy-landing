@@ -70,6 +70,29 @@ const finePrintAfter =
                 <span id="refer-heading-plain">{headlinePlain}</span>
             </h1>
 
+            <script is:inline>
+                // Toggle the gift vs. plain hero headline based on the `ref` query param.
+                // The global gtm-head snippet already captures `?ref=` into the
+                // duet_utms cookie + click beacon (see src/snippets/gtm-head.html); this
+                // script does not duplicate that — it only decides which pre-rendered
+                // headline is visible. Placed immediately after the headline markup (not
+                // after the full document) so it runs during hero parse, before the rest
+                // of the page (nav/footer) streams in, avoiding a flash of the plain
+                // headline on slow/streamed loads.
+                (function () {
+                    try {
+                        var hasRef = new URLSearchParams(window.location.search).has("ref");
+                        if (!hasRef) return;
+                        var gift = document.getElementById("refer-heading-gift");
+                        var plain = document.getElementById("refer-heading-plain");
+                        if (gift) gift.hidden = false;
+                        if (plain) plain.hidden = true;
+                    } catch (error) {
+                        // URLSearchParams unavailable or blocked: keep the neutral fallback headline.
+                    }
+                })();
+            </script>
+
             <p class="refer-sub">{sub}</p>
 
             <div class="refer-cta-row">
@@ -117,27 +140,6 @@ const finePrintAfter =
     </main>
     <Footer locale={locale} messages={messages} alternates={[]} />
 </BaseLayout>
-
-<script is:inline>
-    // Toggle the gift vs. plain hero headline based on the `ref` query param.
-    // The global gtm-head snippet already captures `?ref=` into the
-    // duet_utms cookie + click beacon (see src/snippets/gtm-head.html); this
-    // script does not duplicate that — it only decides which pre-rendered
-    // headline is visible. Runs synchronously right after the hero markup,
-    // before first paint, so there is no visible flash between variants.
-    (function () {
-        try {
-            var hasRef = new URLSearchParams(window.location.search).has("ref");
-            if (!hasRef) return;
-            var gift = document.getElementById("refer-heading-gift");
-            var plain = document.getElementById("refer-heading-plain");
-            if (gift) gift.hidden = false;
-            if (plain) plain.hidden = true;
-        } catch (error) {
-            // URLSearchParams unavailable or blocked: keep the neutral fallback headline.
-        }
-    })();
-</script>
 
 <style>
     .refer-main {
