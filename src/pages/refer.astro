@@ -17,7 +17,12 @@ const description = t(messages, "refer.meta.description");
 
 const headlineGift = t(messages, "refer.hero.gift");
 const headlinePlain = t(messages, "refer.hero.plain");
+// {name} templates stay unrendered here: the referrer's first name is resolved
+// client-side from the code (server lookup — a URL param can never spoof it)
+// and substituted by the inline script below.
+const headlineGiftNamed = t(messages, "refer.hero.giftNamed");
 const sub = t(messages, "refer.sub");
+const subNamed = t(messages, "refer.subNamed");
 const gmailCta = t(messages, "refer.cta.gmail");
 const outlookCta = t(messages, "refer.cta.outlook");
 
@@ -65,13 +70,15 @@ const finePrintAfter =
                 ></path>
             </svg>
 
-            <h1 id="refer-heading" class="refer-heading">
+            <h1 id="refer-heading" class="refer-heading" data-gift-named={headlineGiftNamed}>
                 <span id="refer-heading-gift" hidden>{headlineGift}</span>
                 <span id="refer-heading-plain">{headlinePlain}</span>
             </h1>
 
             <script is:inline>
-                // Toggle the gift vs. plain hero headline based on the `ref` query param.
+                // Toggle the gift vs. plain hero headline based on the `ref` query param,
+                // then personalize "A friend" with the referrer's first name when the
+                // code resolves ("Giovanni is gifting you…").
                 // The global gtm-head snippet already captures `?ref=` into the
                 // duet_utms cookie + click beacon (see src/snippets/gtm-head.html); this
                 // script does not duplicate that — it only decides which pre-rendered
@@ -79,21 +86,56 @@ const finePrintAfter =
                 // after the full document) so it runs during hero parse, before the rest
                 // of the page (nav/footer) streams in, avoiding a flash of the plain
                 // headline on slow/streamed loads.
+                //
+                // Personalization is progressive enhancement on top of that: the name is
+                // resolved server-side from the code (GET /referral/code/:code/referrer,
+                // first-name-only response) so a crafted URL can never inject a name; it
+                // is applied via textContent (XSS-safe), and any failure — JS off, API
+                // down, unknown code, dark flag — keeps the generic gift copy.
                 (function () {
                     try {
-                        var hasRef = new URLSearchParams(window.location.search).has("ref");
-                        if (!hasRef) return;
+                        var params = new URLSearchParams(window.location.search);
+                        if (!params.has("ref")) return;
                         var gift = document.getElementById("refer-heading-gift");
                         var plain = document.getElementById("refer-heading-plain");
                         if (gift) gift.hidden = false;
                         if (plain) plain.hidden = true;
+
+                        var code = (params.get("ref") || "").trim().toLowerCase();
+                        if (!/^[a-z0-9]{4,16}$/.test(code) || typeof fetch !== "function") return;
+                        var apiOrigin =
+                            window.location.hostname === "localhost"
+                                ? "http://localhost:8000"
+                                : "https://api.chiefy.com";
+                        fetch(apiOrigin + "/referral/code/" + code + "/referrer")
+                            .then(function (res) {
+                                return res.ok ? res.json() : null;
+                            })
+                            .then(function (body) {
+                                var name =
+                                    body && typeof body.referrer_first_name === "string"
+                                        ? body.referrer_first_name.trim().slice(0, 40)
+                                        : "";
+                                if (!name) return;
+                                var heading = document.getElementById("refer-heading");
+                                var subEl = document.getElementById("refer-sub");
+                                if (gift && heading && heading.dataset.giftNamed) {
+                                    gift.textContent = heading.dataset.giftNamed.replace("{name}", name);
+                                }
+                                if (subEl && subEl.dataset.subNamed) {
+                                    subEl.textContent = subEl.dataset.subNamed.replace("{name}", name);
+                                }
+                            })
+                            .catch(function () {
+                                /* keep the generic gift copy */
+                            });
                     } catch (error) {
                         // URLSearchParams unavailable or blocked: keep the neutral fallback headline.
                     }
                 })();
             </script>
 
-            <p class="refer-sub">{sub}</p>
+            <p id="refer-sub" class="refer-sub" data-sub-named={subNamed}>{sub}</p>
 
             <div class="refer-cta-row">
                 <a class="refer-cta refer-cta-primary" href={GMAIL_START_URL}>
