@@ -77,8 +77,8 @@ const finePrintAfter =
 
             <script is:inline>
                 // Toggle the gift vs. plain hero headline based on the `ref` query param,
-                // then personalize "A friend" with the referrer's first name when the
-                // code resolves ("Giovanni is gifting you…").
+                // then personalize the gift copy with the referrer's first name when the
+                // code resolves (refer.hero.giftNamed / refer.subNamed templates).
                 // The global gtm-head snippet already captures `?ref=` into the
                 // duet_utms cookie + click beacon (see src/snippets/gtm-head.html); this
                 // script does not duplicate that — it only decides which pre-rendered
