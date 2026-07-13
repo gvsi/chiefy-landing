@@ -119,11 +119,17 @@ const finePrintAfter =
                                 if (!name) return;
                                 var heading = document.getElementById("refer-heading");
                                 var subEl = document.getElementById("refer-sub");
+                                // Function replacement: String.replace treats $-sequences
+                                // in a string replacement as patterns (ECMA-262), so a
+                                // name containing "$" would corrupt the sentence.
+                                var insertName = function () {
+                                    return name;
+                                };
                                 if (gift && heading && heading.dataset.giftNamed) {
-                                    gift.textContent = heading.dataset.giftNamed.replace("{name}", name);
+                                    gift.textContent = heading.dataset.giftNamed.replace("{name}", insertName);
                                 }
                                 if (subEl && subEl.dataset.subNamed) {
-                                    subEl.textContent = subEl.dataset.subNamed.replace("{name}", name);
+                                    subEl.textContent = subEl.dataset.subNamed.replace("{name}", insertName);
                                 }
                             })
                             .catch(function () {
