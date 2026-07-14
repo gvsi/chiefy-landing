@@ -51,6 +51,11 @@ function localeHasBootstrapMarker(locale) {
 const hasBootstrapLocales = nonDefaultLocales.some((locale) => localeHasBootstrapMarker(locale))
 
 function filterSitemapPage(page) {
+    // /refer is noindex,noarchive (a friend-of-referrer landing page, not a
+    // page we want ranked) — exclude it so Search Console doesn't flag "URL
+    // in sitemap but marked noindex". /referral-terms stays indexable.
+    if (new URL(page).pathname === "/refer") return false
+
     if (!hasBootstrapLocales) return true
 
     const firstSegment = new URL(page).pathname.split("/").filter(Boolean)[0]

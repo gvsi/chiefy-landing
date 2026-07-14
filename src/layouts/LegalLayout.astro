@@ -20,7 +20,10 @@ type Props = {
     description: string
     canonicalPath: string
     ogImagePath?: string
-    activeNav: ActivePage
+    // Optional: pages outside the four canonical legal docs (e.g. the
+    // standalone /referral-terms program page) render the nav with nothing
+    // highlighted rather than joining the ActivePage enum.
+    activeNav?: ActivePage
     contentHtml: string
 }
 

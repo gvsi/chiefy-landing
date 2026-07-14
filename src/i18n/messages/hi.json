@@ -61,6 +61,8 @@
   "legal.pages.cookies.description": "Chiefy की कुकीज़ नीति कानूनी पृष्ठ",
   "legal.pages.disclaimer.title": "अस्वीकरण - Chiefy",
   "legal.pages.disclaimer.description": "Chiefy का अस्वीकरण कानूनी पृष्ठ",
+  "legal.pages.referralTerms.title": "Referral Program Terms - Chiefy",
+  "legal.pages.referralTerms.description": "Chiefy's Referral Program Terms",
   "theme.toggle": "थीम टॉगल करें",
   "site.footerAria": "साइट पादलेख",
   "brand.iconAlt": "Chiefy icon",
@@ -82,5 +84,15 @@
   "home.testimonialsAria": "प्रशंसापत्र",
   "home.scrollingTestimonialsAria": "स्क्रॉलिंग प्रशंसापत्र",
   "footer.contact": "Contact",
-  "help.nav.label": "Help"
+  "help.nav.label": "Help",
+  "refer.meta.title": "Chiefy Pro — Free Month with a Friend's Invite",
+  "refer.meta.description": "Start your 14-day Chiefy Pro trial from a friend's invite — your first month is free.",
+  "refer.hero.gift": "A friend is gifting you a free month of Chiefy Pro",
+  "refer.hero.giftNamed": "{name} is gifting you a free month of Chiefy Pro",
+  "refer.hero.plain": "Get Chiefy Pro — first month free with a friend's invite.",
+  "refer.sub": "Start your 14-day trial. When you subscribe, your first month is free — and your friend gets a month too.",
+  "refer.subNamed": "Start your 14-day trial. When you subscribe, your first month is free — and {name} gets a month too.",
+  "refer.cta.gmail": "Start with Gmail",
+  "refer.cta.outlook": "Start with Outlook",
+  "refer.finePrint": "The free month applies to Chiefy Pro subscription plans. See referral terms."
 }
