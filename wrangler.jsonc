@@ -2,12 +2,5 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "chiefy-landing",
   "compatibility_date": "2026-05-13",
-  "pages_build_output_dir": "./dist",
-  // FLIP_301 is the SINGLE source of truth for the duetmail.com→chiefy.com brand
-  // flip (G4). Default "off" = dark. Flip by committing "on" here (NOT a dashboard
-  // override — Cloudflare treats this Wrangler file as authoritative for Pages
-  // config and overwrites same-key dashboard values on deploy). Revert: commit "off".
-  "vars": {
-    "FLIP_301": "off"
-  }
+  "pages_build_output_dir": "./dist"
 }
