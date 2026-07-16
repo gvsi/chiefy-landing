@@ -1,7 +1,7 @@
-# Duet Landing - AI Assistant Guidelines
+# Chiefy Landing - AI Assistant Guidelines
 
 ## Project Overview
-This repository (`duet-landing`) contains the marketing website for Duet Mail (`https://duetmail.com`).
+This repository (`chiefy-landing`) contains the marketing website for Chiefy (`https://chiefy.com`).
 It is a static site built with **Astro** and **Tailwind CSS**, hosted on **Cloudflare Pages**.
 
 **Primary Goal:** Achieve perfect or near-perfect PageSpeed/Lighthouse scores (SEO, LCP, CLS).
@@ -19,7 +19,7 @@ See `../DESIGN_SYSTEM.md` for comprehensive design guidelines including:
 **Landing-specific constraints:**
 - Zero-JavaScript by default (HTML/CSS first)
 - Static images (AVIF/WebP) with explicit dimensions
-- Simple static links to `app.duetmail.com`
+- Simple static links to `app.chiefy.com`
 
 ## Tech Stack
 - **Framework:** Astro (Static Site Generation)
@@ -52,7 +52,7 @@ React should only be used as a last resort for complex stateful logic.
 - **Data:** Static data (e.g., logos) lives in TypeScript files (e.g., `src/components/sections/logosData.ts`).
 
 ### 5. Links & CTAs
-- **Destination:** CTAs are simple static links to `https://app.duetmail.com`.
+- **Destination:** CTAs are simple static links to `https://app.chiefy.com`.
 - **No OAuth:** Do NOT implement Google OAuth popups or complex auth flows on this landing page. Keep it static.
 
 ## Internationalization and Marketing Copy
