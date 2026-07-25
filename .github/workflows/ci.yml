@@ -3,8 +3,10 @@ name: CI
 on:
   pull_request:
   push:
-    branches:
-      - main
+
+concurrency:
+  group: ci-${{ github.event.pull_request.head.sha || github.sha }}
+  cancel-in-progress: true
 
 jobs:
   verify:
