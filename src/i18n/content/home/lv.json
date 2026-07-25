@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Pamata",
+        "name": "Basic",
         "description": "Ikvienam, kurš vēlas izmēģināt, kāda ir gudrāka iesūtne. Bez saistībām.",
         "priceLabel": "Bez maksas",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Uzņēmumiem",
+        "name": "Enterprise",
         "description": "Organizācijām, kurām nepieciešama uzņēmuma līmeņa mērogojamība, specializēts atbalsts un pielāgotas darbplūsmas. Vislabāk komandām ar 50+ cilvēkiem.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Pamata plāns",
+        "name": "Basic plāns",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Bezmaksas plāns ar tūlītējiem kopsavilkumiem, AI melnrakstiem un viedo iesūtni"

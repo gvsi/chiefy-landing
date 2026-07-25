@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Grundlæggende",
+        "name": "Basic",
         "description": "For alle, der er nysgerrige på, hvordan en smartere indbakke føles. Ingen forpligtelse påkrævet.",
         "priceLabel": "Gratis",
         "features": [
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Grundplan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Gratis plan med øjeblikkelige oversigter, AI-kladder og smart indbakke"

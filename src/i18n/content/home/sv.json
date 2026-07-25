@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Grundläggande",
+        "name": "Basic",
         "description": "För alla som är nyfikna på hur en smartare inkorg känns. Inget åtagande krävs.",
         "priceLabel": "Gratis",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Företag",
+        "name": "Enterprise",
         "description": "För organisationer som behöver skala i företagsklass, dedikerad support och anpassade arbetsflöden. Bäst för lag på 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Grundplan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Gratis plan med omedelbara sammanfattningar, AI-utkast och smart inkorg"

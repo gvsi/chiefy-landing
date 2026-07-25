@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Básico",
+        "name": "Basic",
         "description": "Para cualquiera que tenga curiosidad sobre cómo se siente una bandeja de entrada más inteligente. No se requiere compromiso.",
         "priceLabel": "Gratis",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Empresa",
+        "name": "Enterprise",
         "description": "Para organizaciones que necesitan escala de nivel empresarial, soporte dedicado y flujos de trabajo personalizados. Lo mejor para equipos de 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Plan Básico",
+        "name": "Plan Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Plan gratuito con resúmenes instantáneos, borradores de IA y bandeja de entrada inteligente"

@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Bàsica",
+        "name": "Basic",
         "description": "Per a qualsevol persona que tingui curiositat per saber com és una safata d'entrada més intel·ligent. No cal compromís.",
         "priceLabel": "Gratis",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Empresa",
+        "name": "Enterprise",
         "description": "Per a organitzacions que necessiten escala de nivell empresarial, suport dedicat i fluxos de treball personalitzats. El millor per a equips de més de 50 anys.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Pla Bàsic",
+        "name": "Pla Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Pla gratuït amb resums instantanis, esborranys AI i safata d'entrada intel·ligent"

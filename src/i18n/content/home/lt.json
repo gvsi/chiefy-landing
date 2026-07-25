@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Pagrindinis",
+        "name": "Basic",
         "description": "Visiems, kuriems įdomu, kaip atrodo išmanesnis pašto dėžutė. Įsipareigojimų nereikia.",
         "priceLabel": "Nemokamai",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Įmonė",
+        "name": "Enterprise",
         "description": "Organizacijoms, kurioms reikia įmonės lygio masto, specialaus palaikymo ir tinkintų darbo eigų. Geriausiai tinka 50+ komandoms.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Pagrindinis planas",
+        "name": "Basic planas",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Nemokamas planas su momentinėmis suvestinėmis,AI juodraščiais ir išmaniaisiais gautaisiais"
       },
       {
-        "name": "Pro Planas",
+        "name": "Pro planas",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

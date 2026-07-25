@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "De bază",
+        "name": "Basic",
         "description": "Pentru oricine este curios despre cum se simte o căsuță de e-mail mai inteligentă. Nu este necesar niciun angajament.",
         "priceLabel": "Gratuit",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Întreprindere",
+        "name": "Enterprise",
         "description": "Pentru organizațiile care au nevoie de o scară de nivel enterprise, asistență dedicată și fluxuri de lucru personalizate. Cel mai bun pentru echipe de peste 50 de ani.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Plan de bază",
+        "name": "Planul Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Plan gratuit cu rezumate instantanee, schițe AI și căsuță de e-mail inteligentă"

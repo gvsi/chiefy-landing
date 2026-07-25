@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Grunnleggende",
+        "name": "Basic",
         "description": "For alle som er nysgjerrige på hvordan en smartere innboks føles. Ingen forpliktelse kreves.",
         "priceLabel": "Gratis",
         "features": [
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Grunnplan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Gratis plan med umiddelbare sammendrag, AI-utkast og smart innboks"

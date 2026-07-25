@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "基本",
+        "name": "Basic",
         "description": "よりスマートな受信トレイがどのようなものかを知りたい人向け。 コミットメントは必要ありません。",
         "priceLabel": "無料",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "企業",
+        "name": "Enterprise",
         "description": "エンタープライズ グレードの規模、専用のサポート、カスタム ワークフローを必要とする組織向け。 50 名以上のチームに最適です。",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "基本プラン",
+        "name": "Basic プラン",
         "price": "0",
         "priceCurrency": "USD",
         "description": "即時要約、AI 下書き、スマート受信箱を備えた無料プラン"
       },
       {
-        "name": "Pro 計画",
+        "name": "Pro プラン",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

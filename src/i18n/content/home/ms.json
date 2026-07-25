@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Asas",
+        "name": "Basic",
         "description": "Untuk sesiapa yang ingin tahu bagaimana rasa peti masuk yang lebih pintar. Tiada komitmen diperlukan.",
         "priceLabel": "Percuma",
         "features": [
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Pelan Asas",
+        "name": "Pelan Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Pelan percuma dengan ringkasan segera, draf AI, dan peti masuk pintar"

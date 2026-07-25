@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Plán Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Bezplatný plán s okamžitými súhrnmi, AI konceptmi a smart inbox"
       },
       {
-        "name": "Pro Plan",
+        "name": "Plán Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

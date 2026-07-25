@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Alapvető",
+        "name": "Basic",
         "description": "Mindenkinek, aki kíváncsi arra, milyen érzés egy okosabb postafiók. Nem szükséges kötelezettség.",
         "priceLabel": "Ingyenes",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Vállalkozás",
+        "name": "Enterprise",
         "description": "Olyan szervezetek számára, amelyeknek nagyvállalati szintű skálára, dedikált támogatásra és egyedi munkafolyamatokra van szükségük. A legjobb 50 év feletti csapatok számára.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Alapterv",
+        "name": "Basic csomag",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Ingyenes csomag azonnali összefoglalókkal, mesterséges intelligencia-vázlatokkal és intelligens postafiókkal"
       },
       {
-        "name": "Pro terv",
+        "name": "Pro csomag",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

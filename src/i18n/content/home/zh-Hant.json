@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "基礎",
+        "name": "Basic",
         "description": "對於任何好奇智慧收件匣是什麼樣的人。無需承諾。",
         "priceLabel": "免費",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "企業",
+        "name": "Enterprise",
         "description": "適合需要企業級規模、專門支援和自訂工作流程的組織。最適合 50 人以上的團隊。",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "基本計劃",
+        "name": "Basic 方案",
         "price": "0",
         "priceCurrency": "USD",
         "description": "免費計劃，包含即時摘要、AI 草稿和智慧收件匣"
       },
       {
-        "name": "Pro 計劃",
+        "name": "Pro 方案",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

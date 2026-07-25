@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Msingi",
+        "name": "Basic",
         "description": "Kwa yeyote anayetaka kujua jinsi kikasha bora zaidi kinavyohisi. Hakuna ahadi inayohitajika.",
         "priceLabel": "Bila malipo",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Biashara",
+        "name": "Enterprise",
         "description": "Kwa mashirika ambayo yanahitaji kiwango cha kiwango cha biashara, usaidizi uliojitolea, na mtiririko maalum wa kazi. Bora kwa timu za 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Mpango wa Msingi",
+        "name": "Mpango wa Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Mpango usiolipishwa na muhtasari wa papo hapo, rasimu za AI na kikasha mahiri"

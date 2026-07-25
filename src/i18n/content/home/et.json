@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Põhiline",
+        "name": "Basic",
         "description": "Kõigile, kes tahavad teada, milline on nutikam postkast. Pühendumist pole vaja.",
         "priceLabel": "Tasuta",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Ettevõtlus",
+        "name": "Enterprise",
         "description": "Organisatsioonide jaoks, mis vajavad ettevõtte tasemel skaalat, spetsiaalset tuge ja kohandatud töövooge. Parim 50+ meeskondade jaoks.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Põhiplaan",
+        "name": "Basic Plaan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Tasuta plaan kiirkokkuvõtete, AI mustandite ja nutika postkastiga"

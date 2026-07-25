@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Dasar",
+        "name": "Basic",
         "description": "Bagi siapa pun yang penasaran seperti apa rasanya inbox yang lebih cerdas. Tidak diperlukan komitmen.",
         "priceLabel": "Gratis",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Perusahaan",
+        "name": "Enterprise",
         "description": "Untuk organisasi yang memerlukan skala tingkat perusahaan, dukungan khusus, dan alur kerja khusus. Terbaik untuk tim beranggotakan 50+ orang.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Paket Dasar",
+        "name": "Paket Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Paket gratis dengan ringkasan instan, draf AI, dan inbox cerdas"

@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Osnovno",
+        "name": "Basic",
         "description": "Za vse, ki vas zanima, kakšen je občutek pametnejše mape »Prejeto«. Obveza ni potrebna.",
         "priceLabel": "Brezplačno",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Podjetje",
+        "name": "Enterprise",
         "description": "Za organizacije, ki potrebujejo obseg podjetja, namensko podporo in poteke dela po meri. Najboljše za ekipe 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Osnovni načrt",
+        "name": "Načrt Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Brezplačen načrt s takojšnjimi povzetki, osnutki z umetno inteligenco in pametnim nabiralnikom"
       },
       {
-        "name": "Pro Načrt",
+        "name": "Načrt Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

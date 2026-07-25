@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Perus",
+        "name": "Basic",
         "description": "Kaikille, jotka haluavat tietää, miltä älykkäämpi postilaatikko tuntuu. Ei vaadi sitoutumista.",
         "priceLabel": "Maksuton",
         "features": [
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "-perussuunnitelma",
+        "name": "Basic-tilaus",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Ilmainen paketti, jossa on välittömät yhteenvedot, AI-luonnokset ja älykäs postilaatikko"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro-tilaus",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

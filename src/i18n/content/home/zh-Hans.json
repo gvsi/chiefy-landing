@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "基础",
+        "name": "Basic",
         "description": "对于任何好奇智能收件箱是什么样的人。无需承诺。",
         "priceLabel": "免费",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "企业",
+        "name": "Enterprise",
         "description": "适合需要企业级规模、专门支持和自定义工作流程的组织。最适合 50 人以上的团队。",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "基本计划",
+        "name": "Basic 套餐",
         "price": "0",
         "priceCurrency": "USD",
         "description": "免费计划，包含即时摘要、AI 草稿和智能收件箱"
       },
       {
-        "name": "Pro 计划",
+        "name": "Pro 套餐",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

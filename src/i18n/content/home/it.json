@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Essenziale",
+        "name": "Basic",
         "description": "Per chiunque sia curioso di sapere cosa significhi una casella di posta più intelligente. Nessun impegno richiesto.",
         "priceLabel": "Gratis",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Impresa",
+        "name": "Enterprise",
         "description": "Per le organizzazioni che necessitano di scalabilità di livello aziendale, supporto dedicato e flussi di lavoro personalizzati. Ideale per squadre di oltre 50 persone.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Piano di base",
+        "name": "Piano Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Piano gratuito con riepiloghi istantanei, bozze IA e casella di posta intelligente"

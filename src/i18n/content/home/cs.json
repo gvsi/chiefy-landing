@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Základní",
+        "name": "Basic",
         "description": "Pro každého, kdo by byl zvědavý, jak vypadá chytřejší schránka. Není vyžadován žádný závazek.",
         "priceLabel": "Bezplatně",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Podnik",
+        "name": "Enterprise",
         "description": "Pro organizace, které potřebují podnikové měřítko, vyhrazenou podporu a vlastní pracovní postupy. Nejlepší pro týmy 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Základní plán",
+        "name": "Plán Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Bezplatný plán s okamžitými souhrny, koncepty AI a inteligentní doručenou poštou"

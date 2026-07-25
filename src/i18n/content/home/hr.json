@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Osnovno",
+        "name": "Basic",
         "description": "Za svakoga tko je znatiželjan kako izgleda pametnija pristigla pošta. Nema obveze.",
         "priceLabel": "Besplatno",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Poduzeće",
+        "name": "Enterprise",
         "description": "Za organizacije kojima je potrebna razina poslovne razine, namjenska podrška i prilagođeni tijek rada. Najbolje za timove od 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Osnovni plan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Besplatni plan s trenutnim sažecima, AI nacrtima i pametnim pristiglim spremnikom"

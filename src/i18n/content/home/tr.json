@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Temel",
+        "name": "Basic",
         "description": "Daha akıllı bir e-posta kutusunun nasıl bir his verdiğini merak eden herkes için. Herhangi bir taahhüt gerektirmez.",
         "priceLabel": "Ücretsiz",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Girişim",
+        "name": "Enterprise",
         "description": "Kurumsal ölçekte kapasiteye, özel desteğe ve özel iş akışlarına ihtiyaç duyan kuruluşlar için idealdir. 50'den fazla kişiden oluşan ekipler için mükemmeldir.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Temel Plan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Anında özetler, taslaklar ve akıllı gelen kutusu içeren ücretsiz plan."

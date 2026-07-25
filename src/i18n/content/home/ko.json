@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "기초적인",
+        "name": "Basic",
         "description": "더 스마트해진 받은편지함이 어떤 느낌인지 궁금하신 분을 위한 제품입니다. 약속이 필요하지 않습니다.",
         "priceLabel": "무료",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "기업",
+        "name": "Enterprise",
         "description": "엔터프라이즈급 규모, 전담 지원, 맞춤형 워크플로가 필요한 조직을 위한 제품입니다. 50명 이상의 팀에 가장 적합합니다.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "기본 계획",
+        "name": "Basic 요금제",
         "price": "0",
         "priceCurrency": "USD",
         "description": "즉각적인 요약, AI 초안 및 스마트 받은편지함이 포함된 무료 요금제"
       },
       {
-        "name": "Pro 계획",
+        "name": "Pro 요금제",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

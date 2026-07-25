@@ -469,6 +469,15 @@ const brandLockedValues = new Set([
     "Instagram",
     "X",
     "Startup Fame",
+    // Plan tiers are identifiers, not copy. The app localizes the sentence
+    // around them and keeps the tier itself English ("Basic-Tarif auswählen",
+    // "Pro に進む"), and Stripe, billing email, and support all use these exact
+    // words — so a translated tier name breaks the trail from pricing page to
+    // checkout to support ticket. `Pro` was already locked by the glossary;
+    // locking only one of three is what let the other two drift.
+    "Basic",
+    "Pro",
+    "Enterprise",
 ])
 
 // Locales whose UI is written in a non-Latin script. A value here that is still
@@ -493,7 +502,8 @@ const localeInvariantHomePathPatterns = [
     /\.time$/, /\.duration$/, /fileName$/, /fileSize$/,
     /^testimonials\.items\.\d+\.name$/, /copyright/, /^footer\.tagline$/,
     /^footer\.brandLogoAlt$/, /^faq\.footerBrand$/, /^math\.duetLabel$/,
-    /^pricing\.plans\.\d+\.name$/,
+    // pricing.plans[*].name is no longer allowlisted — the tier names are in
+    // brandLockedValues, so equality with English is now required, not ignored.
     // Only the machine-valued part of jsonLd is locale-invariant. The rest
     // (websiteAlternateName, browserRequirements, descriptions, offer names) is
     // translatable SEO copy that ships inside the rendered ld+json.
@@ -574,8 +584,13 @@ function assertHomeQualityContracts(locale, home, englishHome) {
             const english = englishValues.get(dotted)
             if (typeof english !== "string") return
 
-            if (brandLockedValues.has(english) && value !== english) {
-                brandViolations.push(`${dotted}: expected ${JSON.stringify(english)}, found ${JSON.stringify(value)}`)
+            // A brand-locked value is fully decided by this check either way —
+            // matching English is the requirement, so never fall through to the
+            // leak check, which would read that very match as a leak.
+            if (brandLockedValues.has(english)) {
+                if (value !== english) {
+                    brandViolations.push(`${dotted}: expected ${JSON.stringify(english)}, found ${JSON.stringify(value)}`)
+                }
                 return
             }
             if (!nonLatinScriptLocales.has(locale)) return

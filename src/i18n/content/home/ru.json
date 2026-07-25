@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Базовый план",
+        "name": "Тариф Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Бесплатный план с мгновенными сводками, AI-черновиками и умным входящим"
       },
       {
-        "name": "План Pro",
+        "name": "Тариф Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

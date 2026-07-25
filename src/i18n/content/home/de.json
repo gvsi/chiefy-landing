@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Einfach",
+        "name": "Basic",
         "description": "Für alle, die neugierig sind, wie sich ein intelligenterer Posteingang anfühlt. Keine Verpflichtung erforderlich.",
         "priceLabel": "Kostenlos",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "Unternehmen",
+        "name": "Enterprise",
         "description": "Für Organisationen, die unternehmenstaugliche Skalierung, dedizierten Support und benutzerdefinierte Arbeitsabläufe benötigen. Am besten für Teams ab 50 Personen geeignet.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Basisplan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Kostenloser Plan mit sofortigen Zusammenfassungen, KI-Entwürfen und intelligentem Posteingang"

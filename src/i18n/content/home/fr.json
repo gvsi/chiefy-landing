@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Formule Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Formule gratuite avec résumés instantanés, brouillons IA et boîte de réception intelligente"
       },
       {
-        "name": "Pro Plan",
+        "name": "Formule Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",

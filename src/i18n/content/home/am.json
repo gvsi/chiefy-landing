@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "መሰረታዊ",
+        "name": "Basic",
         "description": "ብልህ የሆነ የገቢ መልእክት ሳጥን ምን እንደሚሰማው ለማወቅ ለሚፈልግ ለማንኛውም ሰው። ቁርጠኝነት አያስፈልግም።",
         "priceLabel": "ነፃ",
         "features": [
@@ -441,7 +441,7 @@
         "featured": true
       },
       {
-        "name": "ድርጅት",
+        "name": "Enterprise",
         "description": "የድርጅት ደረጃ ልኬት፣ ልዩ ድጋፍ እና ብጁ የስራ ፍሰት ለሚፈልጉ ድርጅቶች። ከ50+ በላይ ለሆኑ ቡድኖች ምርጥ።",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "መሰረታዊ እቅድ",
+        "name": "Basic እቅድ",
         "price": "0",
         "priceCurrency": "USD",
         "description": "ነፃ እቅድ በቅጽበት ማጠቃለያዎች፣ AI ረቂቆች እና ብልጥ የገቢ መልእክት ሳጥን"

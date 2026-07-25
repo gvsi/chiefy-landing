@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Plan Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Bezpłatny plan z natychmiastowymi podsumowaniami, wersjami roboczymi AI i inteligentną skrzynką odbiorczą"
       },
       {
-        "name": "Pro Plan",
+        "name": "Plan Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
