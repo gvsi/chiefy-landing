@@ -279,7 +279,7 @@
       "processingDraft": "Генерую чернетку...",
       "processingCalendar": "Перевіряю доступність...",
       "draftIntro": "Ось чернетка відповіді для бухгалтерії:",
-      "draftHeader": "Draft: accounting@company.com",
+      "draftHeader": "Чернетка: accounting@company.com",
       "draftLines": [
         "Привіт, команда,",
         "У вкладенні інвойс Stripe за жовтень ($29.00).",
@@ -627,7 +627,7 @@
     "lossSuffix": "/міс втрачено",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/міс."
   },
   "jsonLd": {
     "websiteName": "Chiefy",

@@ -63,7 +63,7 @@
   "legal.pages.disclaimer.description": "Chiefy இன் உரிமை மறுப்பு சட்டப் பக்கம்",
   "theme.toggle": "தீம் மாறு",
   "site.footerAria": "தள அடிக்குறிப்பு",
-  "brand.iconAlt": "Chiefy icon",
+  "brand.iconAlt": "Chiefy சின்னம்",
   "brand.logoAlt": "Chiefy",
   "footer.explore": "ஆராயுங்கள்",
   "footer.customers": "வாடிக்கையாளர்கள்",
@@ -76,10 +76,10 @@
   "footer.x": "X",
   "footer.instagram": "Instagram",
   "footer.startupFame": "Startup Fame",
-  "footer.tagline": "Chiefy, formerly Duet Mail",
+  "footer.tagline": "Chiefy, முன்பு Duet Mail",
   "footer.copyright": "Chiefy © {year}",
   "home.logoCustomerAria": "வாடிக்கையாளர் சின்னங்கள்",
   "home.testimonialsAria": "சான்றுகள்",
   "home.scrollingTestimonialsAria": "ஸ்க்ரோலிங் சான்றுகள்",
-  "footer.contact": "Contact"
+  "footer.contact": "தொடர்பு"
 }

@@ -57,7 +57,7 @@
         "from": "Marketing",
         "avatarLetter": "M",
         "subject": "ಪ್ರಚಾರದ ಫಲಿತಾಂಶಗಳು ಸಿದ್ಧವಾಗಿವೆ",
-        "pill": "FYI"
+        "pill": "ಮಾಹಿತಿಗಾಗಿ"
       },
       {
         "from": "Shopify",
@@ -198,7 +198,7 @@
         "from": "Design Team",
         "avatarLetter": "D",
         "subject": "ಹೊಸ ಬ್ರ್ಯಾಂಡ್ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ಪ್ರಕಟಿಸಲಾಗಿದೆ",
-        "pill": "FYI"
+        "pill": "ಮಾಹಿತಿಗಾಗಿ"
       },
       {
         "from": "Stripe",
@@ -364,8 +364,8 @@
     "billingAnnual": "ವಾರ್ಷಿಕ",
     "billingMonthly": "ಮಾಸಿಕ",
     "savingsTag": "33% ಉಳಿಸಿ",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/ತಿಂಗಳು",
+    "perUserSuffix": "/ಬಳಕೆದಾರ",
     "annualBillingSuffix": "(ವಾರ್ಷಿಕ ಬಿಲ್)",
     "trustItems": [
       "Stripe ಮೂಲಕ ಸುರಕ್ಷಿತ ಚೆಕ್ಔಟ್",
@@ -624,10 +624,10 @@
     "ariaLabel": "ಹೂಡಿಕೆಯ ಮೇಲಿನ ಲಾಭ",
     "label": "ಗಣಿತ",
     "narrativeTemplate": "ಪ್ರತಿ {bookingUnit} ಗೆ {pricePerBooking} ನಲ್ಲಿ, ನಿಧಾನವಾದ ಪ್ರತ್ಯುತ್ತರಗಳಿಗೆ ಕೇವಲ {lostPerMonth} ಅನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/ತಿಂಗಳು ನಷ್ಟ",
     "dividerLabel": "ವಿರುದ್ಧ",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/ತಿಂಗಳು"
   },
   "jsonLd": {
     "websiteName": "Chiefy",

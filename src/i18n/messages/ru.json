@@ -45,7 +45,7 @@
   "math.lossSuffix": "/мес потерь",
   "math.vs": "против",
   "math.duetLabel": "Chiefy",
-  "math.duetPrice": "$30/mo",
+  "math.duetPrice": "$30/мес.",
   "readingTime.zero": "{minutes} мин чтения",
   "readingTime.one": "1 мин чтения",
   "readingTime.two": "{minutes} мин чтения",
@@ -63,7 +63,7 @@
   "legal.pages.disclaimer.description": "Юридическая страница отказа от ответственности Chiefy",
   "theme.toggle": "Переключить тему",
   "site.footerAria": "Футер сайта",
-  "brand.iconAlt": "Chiefy icon",
+  "brand.iconAlt": "Значок Chiefy",
   "brand.logoAlt": "Chiefy",
   "footer.explore": "Разделы",
   "footer.customers": "Клиенты",
@@ -76,10 +76,10 @@
   "footer.x": "X",
   "footer.instagram": "Instagram",
   "footer.startupFame": "Startup Fame",
-  "footer.tagline": "Chiefy, formerly Duet Mail",
+  "footer.tagline": "Chiefy, ранее Duet Mail",
   "footer.copyright": "Chiefy © {year}",
   "home.logoCustomerAria": "Логотипы клиентов",
   "home.testimonialsAria": "Отзывы",
   "home.scrollingTestimonialsAria": "Прокручивающиеся отзывы",
-  "footer.contact": "Contact"
+  "footer.contact": "Контакты"
 }

@@ -63,7 +63,7 @@
   "legal.pages.disclaimer.description": "Chiefy चे अस्वीकरण कायदेशीर पृष्ठ",
   "theme.toggle": "थीम बदला",
   "site.footerAria": "साइट फूटर",
-  "brand.iconAlt": "Chiefy icon",
+  "brand.iconAlt": "Chiefy चिन्ह",
   "brand.logoAlt": "Chiefy",
   "footer.explore": "एक्सप्लोर करा",
   "footer.customers": "ग्राहक",
@@ -71,15 +71,15 @@
   "footer.connect": "जोडा",
   "footer.product": "उत्पादन",
   "footer.company": "कंपनी",
-  "footer.chromeExtension": "Chrome Extension",
+  "footer.chromeExtension": "Chrome विस्तार",
   "footer.linkedin": "LinkedIn",
   "footer.x": "X",
   "footer.instagram": "Instagram",
   "footer.startupFame": "Startup Fame",
-  "footer.tagline": "Chiefy, formerly Duet Mail",
+  "footer.tagline": "Chiefy, पूर्वीचे Duet Mail",
   "footer.copyright": "Chiefy © {year}",
   "home.logoCustomerAria": "ग्राहकांची लोगो",
   "home.testimonialsAria": "प्रशंसापत्रे",
   "home.scrollingTestimonialsAria": "स्क्रोल होणारी प्रशंसापत्रे",
-  "footer.contact": "Contact"
+  "footer.contact": "संपर्क"
 }

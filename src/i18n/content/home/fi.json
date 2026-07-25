@@ -626,7 +626,7 @@
     "narrativeTemplate": "{pricePerBooking} per {bookingUnit}, menettäen vain {lostPerMonth}:n hitaille vastauksille =",
     "lossSuffix": "/fi/mo gone",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy ti",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {

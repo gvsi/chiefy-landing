@@ -57,7 +57,7 @@
         "from": "ግብይት",
         "avatarLetter": "M",
         "subject": "የዘመቻ ውጤቶች ተዘጋጅተዋል።",
-        "pill": "FYI"
+        "pill": "ለመረጃ"
       },
       {
         "from": "Shopify",
@@ -198,7 +198,7 @@
         "from": "የንድፍ ቡድን",
         "avatarLetter": "D",
         "subject": "አዲስ የምርት መመሪያዎች ታትመዋል",
-        "pill": "FYI"
+        "pill": "ለመረጃ"
       },
       {
         "from": "Stripe",
@@ -516,7 +516,7 @@
     "secondaryCta": "በOutlook ይጀምሩ",
     "note": "የ14-ቀን ነጻ ሙከራ · በማንኛውም ጊዜ ይሰርዙ",
     "trustItems": [
-      "Google CASA-assessed",
+      "በGoogle CASA የተገመገመ",
       "በማከማቻ ጊዜ የተመሰጠረ",
       "ደህንነቱ የተጠበቀ OAuth 2.0"
     ]
@@ -606,12 +606,12 @@
             "external": true
           },
           {
-            "label": "ኢንስታግራም",
+            "label": "Instagram",
             "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
-            "label": "የጅምር ዝና",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -624,10 +624,10 @@
     "ariaLabel": "ወደ ኢንቨስትመንት መመለስ",
     "label": "ሒሳብ",
     "narrativeTemplate": "በ{pricePerBooking} በ{bookingUnit}፣ ለዘገየ ምላሾች {lostPerMonth} ማጣት =",
-    "lossSuffix": "/ mo ጠፍቷል",
+    "lossSuffix": "/ወር ጠፍቷል",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/ወር"
   },
   "jsonLd": {
     "websiteName": "Chiefy",

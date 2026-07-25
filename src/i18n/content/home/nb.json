@@ -626,7 +626,7 @@
     "narrativeTemplate": "Ved {pricePerBooking} per {bookingUnit}, taper bare {lostPerMonth} til trege svar =",
     "lossSuffix": "/mo gone",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy t",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/md"
   },
   "jsonLd": {

@@ -1,7 +1,7 @@
 {
   "nav.organization": "องค์กร",
   "nav.drafting": "การร่าง",
-  "nav.intelligence": "Intelligence",
+  "nav.intelligence": "อัจฉริยะ",
   "nav.testimonials": "คำรับรอง",
   "nav.pricing": "ราคา",
   "nav.faq": "คำถามที่พบบ่อย",
@@ -63,7 +63,7 @@
   "legal.pages.disclaimer.description": "หน้าข้อจำกัดความรับผิดชอบของ Chiefy",
   "theme.toggle": "สลับธีม",
   "site.footerAria": "ส่วนท้ายของเว็บไซต์",
-  "brand.iconAlt": "Chiefy icon",
+  "brand.iconAlt": "ไอคอน Chiefy",
   "brand.logoAlt": "Chiefy",
   "footer.explore": "สำรวจ",
   "footer.customers": "ลูกค้า",
@@ -76,10 +76,10 @@
   "footer.x": "X",
   "footer.instagram": "Instagram",
   "footer.startupFame": "Startup Fame",
-  "footer.tagline": "Chiefy, formerly Duet Mail",
+  "footer.tagline": "Chiefy เดิมชื่อ Duet Mail",
   "footer.copyright": "Chiefy © {year}",
   "home.logoCustomerAria": "โลโก้ลูกค้า",
   "home.testimonialsAria": "คำรับรอง",
   "home.scrollingTestimonialsAria": "คำรับรองแบบเลื่อน",
-  "footer.contact": "Contact"
+  "footer.contact": "ติดต่อ"
 }

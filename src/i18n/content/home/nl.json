@@ -375,7 +375,7 @@
       {
         "name": "Basis",
         "description": "Voor iedereen die nieuwsgierig is naar hoe een slimmere inbox aanvoelt. Geen verplichting vereist.",
-        "priceLabel": "Free",
+        "priceLabel": "Gratis",
         "features": [
           {
             "title": "Directe samenvattingen",
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Startup-faam",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }

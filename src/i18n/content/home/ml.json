@@ -364,8 +364,8 @@
     "billingAnnual": "വാർഷികം",
     "billingMonthly": "പ്രതിമാസം",
     "savingsTag": "33% ലാഭിക്കൂ",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/മാസം",
+    "perUserSuffix": "/ഉപയോക്താവ്",
     "annualBillingSuffix": "(വാർഷികം ബിൽ ചെയ്യുന്നു)",
     "trustItems": [
       "Stripe വഴി സുരക്ഷിതമായ ചെക്ക്ഔട്ട്",
@@ -375,7 +375,7 @@
       {
         "name": "അടിസ്ഥാനപരമായ",
         "description": "ഒരു മികച്ച ഇൻബോക്സ് എങ്ങനെയിരിക്കും എന്നതിനെക്കുറിച്ച് ജിജ്ഞാസയുള്ള ആർക്കും. പ്രതിബദ്ധത ആവശ്യമില്ല.",
-        "priceLabel": "സൗ ജന്യം",
+        "priceLabel": "സൗജന്യം",
         "features": [
           {
             "title": "തൽക്ഷണ സംഗ്രഹങ്ങൾ",
@@ -624,10 +624,10 @@
     "ariaLabel": "നിക്ഷേപത്തിൽ നിന്നുള്ള വരുമാനം",
     "label": "ഗണിതം",
     "narrativeTemplate": "{pricePerBooking} ന് {bookingUnit}, മന്ദഗതിയിലുള്ള മറുപടികൾ കാരണം {lostPerMonth} മാത്രം നഷ്ടപ്പെട്ടു =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/മാസം നഷ്ടം",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/മാസം"
   },
   "jsonLd": {
     "websiteName": "Chiefy",

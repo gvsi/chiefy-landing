@@ -375,7 +375,7 @@
       {
         "name": "Einfach",
         "description": "Für alle, die neugierig sind, wie sich ein intelligenterer Posteingang anfühlt. Keine Verpflichtung erforderlich.",
-        "priceLabel": "Free",
+        "priceLabel": "Kostenlos",
         "features": [
           {
             "title": "Sofortige Zusammenfassungen",
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Startup-Ruhm",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }

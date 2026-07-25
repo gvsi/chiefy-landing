@@ -390,7 +390,7 @@
             "description": "सुरुवातीसाठी मूलभूत संघटन"
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Chiefy सहाय्यक",
             "description": "AI सहाय्यक वापरून पाहा"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Chiefy सहाय्यक",
             "description": "शोधण्यासाठी, ड्राफ्ट करण्यासाठी, संघटित करण्यासाठी आणि अधिकसाठी चॅट करा",
             "highlight": true
           },
@@ -544,7 +544,7 @@
             "href": "/mr#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Chrome विस्तार",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }

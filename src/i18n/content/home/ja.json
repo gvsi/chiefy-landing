@@ -57,7 +57,7 @@
         "from": "マーケティング",
         "avatarLetter": "M",
         "subject": "キャンペーン結果の準備完了",
-        "pill": "FYI"
+        "pill": "参考"
       },
       {
         "from": "ショッピファイ",
@@ -198,7 +198,7 @@
         "from": "デザインチーム",
         "avatarLetter": "D",
         "subject": "新しいブランドガイドラインを公開",
-        "pill": "FYI"
+        "pill": "参考"
       },
       {
         "from": "Stripe",
@@ -219,7 +219,7 @@
     "subtitle": "Chiefy はあなたの書き方を学習し、あなたの口調に合った返信の下書きを作成します。 確認して必要に応じて調整し、数秒で送信します。",
     "windowTitle": "新しいメッセージ",
     "fieldLabels": {
-      "to": "に：",
+      "to": "宛先:",
       "subject": "主題："
     },
     "draft": {
@@ -364,8 +364,8 @@
     "billingAnnual": "年間",
     "billingMonthly": "毎月",
     "savingsTag": "33% 割引",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/月",
+    "perUserSuffix": "/ユーザー",
     "annualBillingSuffix": "(毎年請求されます)",
     "trustItems": [
       "Stripe による安全なチェックアウト",
@@ -375,7 +375,7 @@
       {
         "name": "基本",
         "description": "よりスマートな受信トレイがどのようなものかを知りたい人向け。 コミットメントは必要ありません。",
-        "priceLabel": "Free",
+        "priceLabel": "無料",
         "features": [
           {
             "title": "インスタントサマリー",
@@ -477,7 +477,7 @@
     "headingPrefix": "よくある質問、 ",
     "headingAccent": "答えた",
     "contactDecorative": "?",
-    "contactLabel": "接触",
+    "contactLabel": "お問い合わせ",
     "contactHeading": "まだ質問がありますか?",
     "contactCta": "お問い合わせ→",
     "footerBrand": "CHIEFY",
@@ -596,7 +596,7 @@
             "href": "/ja/blog"
           },
           {
-            "label": "リンクトイン",
+            "label": "LinkedIn",
             "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
@@ -606,12 +606,12 @@
             "external": true
           },
           {
-            "label": "インスタグラム",
+            "label": "Instagram",
             "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
-            "label": "スタートアップの名声",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -627,7 +627,7 @@
     "lossSuffix": "/mo",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "月額$30"
   },
   "jsonLd": {
     "websiteName": "Chiefy",

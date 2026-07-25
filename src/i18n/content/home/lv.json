@@ -375,7 +375,7 @@
       {
         "name": "Pamata",
         "description": "Ikvienam, kurš vēlas izmēģināt, kāda ir gudrāka iesūtne. Bez saistībām.",
-        "priceLabel": "Free",
+        "priceLabel": "Bez maksas",
         "features": [
           {
             "title": "Tūlītēji kopsavilkumi",
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Startup slava",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }

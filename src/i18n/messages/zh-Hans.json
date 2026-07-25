@@ -45,7 +45,7 @@
   "math.lossSuffix": "/mo",
   "math.vs": "与",
   "math.duetLabel": "Chiefy",
-  "math.duetPrice": "$30/mo",
+  "math.duetPrice": "$30/月",
   "readingTime.zero": "{minutes} 分钟阅读数",
   "readingTime.one": "1 分钟阅读",
   "readingTime.two": "{minutes} 分钟阅读数",
@@ -63,7 +63,7 @@
   "legal.pages.disclaimer.description": "Chiefy的免责声明法律页面",
   "theme.toggle": "切换主题",
   "site.footerAria": "网站页脚",
-  "brand.iconAlt": "Chiefy icon",
+  "brand.iconAlt": "Chiefy 图标",
   "brand.logoAlt": "Chiefy",
   "footer.explore": "探索",
   "footer.customers": "客户",
@@ -75,11 +75,11 @@
   "footer.linkedin": "LinkedIn",
   "footer.x": "X",
   "footer.instagram": "Instagram",
-  "footer.startupFame": "创业名声",
-  "footer.tagline": "Chiefy, formerly Duet Mail",
+  "footer.startupFame": "Startup Fame",
+  "footer.tagline": "Chiefy（原 Duet Mail）",
   "footer.copyright": "Chiefy © {year}",
   "home.logoCustomerAria": "客户标志",
   "home.testimonialsAria": "感言",
   "home.scrollingTestimonialsAria": "滚动推荐",
-  "footer.contact": "Contact"
+  "footer.contact": "联系我们"
 }

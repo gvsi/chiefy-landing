@@ -43,9 +43,9 @@
   "math.label": "Розрахунок",
   "math.narrativeTemplate": "Якщо {bookingUnit} коштує {pricePerBooking}, втрата лише {lostPerMonth} через повільні відповіді =",
   "math.lossSuffix": "/міс втрачено",
-  "math.vs": "vs",
+  "math.vs": "проти",
   "math.duetLabel": "Chiefy",
-  "math.duetPrice": "$30/mo",
+  "math.duetPrice": "$30/міс.",
   "readingTime.zero": "{minutes} хв читання",
   "readingTime.one": "1 хв читання",
   "readingTime.two": "{minutes} хв читання",
@@ -63,7 +63,7 @@
   "legal.pages.disclaimer.description": "Юридична сторінка застережень Chiefy",
   "theme.toggle": "Перемкнути тему",
   "site.footerAria": "Футер сайту",
-  "brand.iconAlt": "Chiefy icon",
+  "brand.iconAlt": "Значок Chiefy",
   "brand.logoAlt": "Chiefy",
   "footer.explore": "Огляд",
   "footer.customers": "Клієнти",
@@ -76,10 +76,10 @@
   "footer.x": "X",
   "footer.instagram": "Instagram",
   "footer.startupFame": "Startup Fame",
-  "footer.tagline": "Chiefy, formerly Duet Mail",
+  "footer.tagline": "Chiefy, раніше Duet Mail",
   "footer.copyright": "Chiefy © {year}",
   "home.logoCustomerAria": "Логотипи клієнтів",
   "home.testimonialsAria": "Відгуки",
   "home.scrollingTestimonialsAria": "Прокручувані відгуки",
-  "footer.contact": "Contact"
+  "footer.contact": "Контакти"
 }

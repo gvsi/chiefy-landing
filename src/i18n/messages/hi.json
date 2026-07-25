@@ -45,7 +45,7 @@
   "math.lossSuffix": "/mo चला गया",
   "math.vs": "बनाम",
   "math.duetLabel": "Chiefy",
-  "math.duetPrice": "$30/mo",
+  "math.duetPrice": "$30/माह",
   "readingTime.zero": "{minutes} मिनट पढ़ा",
   "readingTime.one": "1 मिनट पढ़ा",
   "readingTime.two": "{minutes} मिनट पढ़ा",
@@ -63,7 +63,7 @@
   "legal.pages.disclaimer.description": "Chiefy का अस्वीकरण कानूनी पृष्ठ",
   "theme.toggle": "थीम टॉगल करें",
   "site.footerAria": "साइट पादलेख",
-  "brand.iconAlt": "Chiefy icon",
+  "brand.iconAlt": "Chiefy आइकन",
   "brand.logoAlt": "Chiefy",
   "footer.explore": "अन्वेषण करें",
   "footer.customers": "ग्राहक",
@@ -75,11 +75,11 @@
   "footer.linkedin": "LinkedIn",
   "footer.x": "X",
   "footer.instagram": "Instagram",
-  "footer.startupFame": "स्टार्टअप प्रसिद्धि",
-  "footer.tagline": "Chiefy, formerly Duet Mail",
+  "footer.startupFame": "Startup Fame",
+  "footer.tagline": "Chiefy, पूर्व में Duet Mail",
   "footer.copyright": "Chiefy © {year}",
   "home.logoCustomerAria": "ग्राहक लोगो",
   "home.testimonialsAria": "प्रशंसापत्र",
   "home.scrollingTestimonialsAria": "स्क्रॉलिंग प्रशंसापत्र",
-  "footer.contact": "Contact"
+  "footer.contact": "संपर्क"
 }

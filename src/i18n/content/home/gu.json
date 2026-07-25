@@ -42,7 +42,7 @@
       {
         "from": "Alex Rivera",
         "avatarLetter": "A",
-        "subject": "Re: Product Launch Timeline",
+        "subject": "Re: ઉત્પાદન લોન્ચ સમયરેખા",
         "preview": "હાય! લોન્ચ એસેટ્સ વિશે ચેક કરવું હતું. શું આપણે હજી પણ આવતા અઠવાડિયા માટે ટ્રેક પર છીએ...",
         "pill": "જવાબ આપવાનો"
       },
@@ -57,7 +57,7 @@
         "from": "Marketing",
         "avatarLetter": "M",
         "subject": "કેમ્પેઇન પરિણામો તૈયાર",
-        "pill": "FYI"
+        "pill": "જાણ માટે"
       },
       {
         "from": "Shopify",
@@ -184,7 +184,7 @@
       {
         "from": "Sarah Chen",
         "avatarLetter": "S",
-        "subject": "Q4 Budget Review Request",
+        "subject": "Q4 બજેટ સમીક્ષા વિનંતી",
         "preview": "ફાઇનલ નંબર્સ જોડેલા છે. કૃપા કરીને EOD સુધીમાં સમીક્ષા કરો.",
         "pill": "એક્શન જરૂરી"
       },
@@ -198,7 +198,7 @@
         "from": "Design Team",
         "avatarLetter": "D",
         "subject": "નવી બ્રાન્ડ ગાઇડલાઇન્સ પ્રકાશિત",
-        "pill": "FYI"
+        "pill": "જાણ માટે"
       },
       {
         "from": "Stripe",
@@ -219,13 +219,13 @@
     "subtitle": "Chiefy તમે કેવી રીતે લખો છો તે શીખે છે અને તમારા ટોનને મેળ ખાતા જવાબોના ડ્રાફ્ટ બનાવે છે. સમીક્ષા કરો, જરૂર હોય તો ફેરફાર કરો અને સેકન્ડોમાં મોકલો.",
     "windowTitle": "નવો સંદેશ",
     "fieldLabels": {
-      "to": "To:",
-      "subject": "Subject:"
+      "to": "પ્રતિ:",
+      "subject": "વિષય:"
     },
     "draft": {
       "to": "alex.rivera@techcorp.io",
-      "subject": "Re: Quick sync this week?",
-      "originalFrom": "Alex Rivera wrote:",
+      "subject": "Re: આ અઠવાડિયે ઝડપી સિંક?",
+      "originalFrom": "Alex Rivera એ લખ્યું:",
       "originalText": "હાય! રોડમેપ ફેરફારો વિશે વાત કરવી ગમશે. શું તમે આ અઠવાડિયે 30-મિનિટના કોલ માટે ફ્રી છો? તમને શું અનુકૂળ છે તે જણાવો.",
       "badge": "ઓટોડ્રાફ્ટેડ",
       "lines": [
@@ -253,7 +253,7 @@
     "badge": "ઇન્ટેલિજન્સ",
     "title": "તમારા ઈમેલ વિશે કંઈ પણ પૂછો",
     "subtitle": "Chiefyને ઈમેલ શોધવા, તમારું કેલેન્ડર ચેક કરવા અથવા જવાબનો ડ્રાફ્ટ બનાવવા કહો. તે તમારું ઇનબોક્સ સમજે છે અને તરત જવાબ આપે છે.",
-    "windowTitle": "Chiefy Agent",
+    "windowTitle": "Chiefy એજન્ટ",
     "onlineLabel": "ઓનલાઇન",
     "initialUserMessage": "શું તમે Accounting દ્વારા મોકલાયેલ Stripe ઇનવોઇસ શોધી શકો છો?",
     "processingText": "ઇનબોક્સ શોધી રહ્યું છે...",
@@ -284,7 +284,7 @@
         "હાય ટીમ,",
         "કૃપા કરીને October માટેનું Stripe ઇનવોઇસ ($29.00) જોડેલું જુઓ.",
         "તમને બીજી કંઈ જરૂર હોય તો જણાવો.",
-        "Best,"
+        "શુભેચ્છા,"
       ],
       "draftActions": [
         "ઈમેલ મોકલો",
@@ -390,7 +390,7 @@
             "description": "શરૂ કરવા માટે મૂળભૂત ગોઠવણી"
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Chiefy સહાયક",
             "description": "AI સહાયક અજમાવો"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Chiefy સહાયક",
             "description": "શોધવા, ડ્રાફ્ટ કરવા, ગોઠવવા અને વધુ માટે ચેટ કરો",
             "highlight": true
           },
@@ -516,7 +516,7 @@
     "secondaryCta": "Outlookથી શરૂ કરો",
     "note": "14-દિવસની મફત ટ્રાયલ · ક્યારેય પણ રદ કરો",
     "trustItems": [
-      "Google CASA-assessed",
+      "Google CASA-મૂલ્યાંકિત",
       "At rest એન્ક્રિપ્ટેડ",
       "સુરક્ષિત OAuth 2.0"
     ]
@@ -544,7 +544,7 @@
             "href": "/gu#intelligence"
           },
           {
-            "label": "Chrome Extension",
+            "label": "Chrome એક્સ્ટેંશન",
             "href": "https://chromewebstore.google.com/detail/duet-mail-gmail-ai-assist/aiigdjghdodkbipkkcjacnhednmlhemo?utm_source=duet-landing",
             "external": true
           }
@@ -627,7 +627,7 @@
     "lossSuffix": "/mo ગયા",
     "dividerLabel": "વિરુદ્ધ",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/મહિનો"
   },
   "jsonLd": {
     "websiteName": "Chiefy",

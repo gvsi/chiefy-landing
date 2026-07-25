@@ -26,7 +26,7 @@
       "Мгновенная категоризация",
       "Ответы на базе ИИ"
     ],
-    "windowTitle": "Inbox",
+    "windowTitle": "Входящие",
     "providers": [
       "Gmail",
       "Outlook"
@@ -253,7 +253,7 @@
     "badge": "Интеллект",
     "title": "Спросите что угодно о вашей почте",
     "subtitle": "Попросите Chiefy найти письма, проверить календарь или набросать ответ. Он понимает ваш inbox и отвечает мгновенно.",
-    "windowTitle": "Chiefy Agent",
+    "windowTitle": "Агент Chiefy",
     "onlineLabel": "В сети",
     "initialUserMessage": "Можешь найти счет Stripe, который прислала бухгалтерия?",
     "processingText": "Ищу в inbox...",
@@ -390,7 +390,7 @@
             "description": "Базовая организация для старта"
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Ассистент Chiefy",
             "description": "Попробуйте ИИ-помощника"
           }
         ],
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Ассистент Chiefy",
             "description": "Чат, чтобы находить, писать, организовывать и многое другое",
             "highlight": true
           },
@@ -627,7 +627,7 @@
     "lossSuffix": "/мес. потерь",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/мес."
   },
   "jsonLd": {
     "websiteName": "Chiefy",

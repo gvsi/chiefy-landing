@@ -37,7 +37,7 @@
       "10:05 AM",
       "Εχθές"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Αυτόματο πρόχειρο",
     "emails": [
       {
         "from": "Άλεξ Ριβέρα",
@@ -57,7 +57,7 @@
         "from": "Εμπορία",
         "avatarLetter": "M",
         "subject": "Έτοιμα τα αποτελέσματα της καμπάνιας",
-        "pill": "FYI"
+        "pill": "Προς ενημέρωση"
       },
       {
         "from": "Shopify",
@@ -198,7 +198,7 @@
         "from": "Ομάδα σχεδιασμού",
         "avatarLetter": "D",
         "subject": "Δημοσιεύτηκαν νέες οδηγίες επωνυμίας",
-        "pill": "FYI"
+        "pill": "Προς ενημέρωση"
       },
       {
         "from": "Stripe",
@@ -365,7 +365,7 @@
     "billingMonthly": "Μηνιαίος",
     "savingsTag": "Εξοικονομήστε 33%",
     "priceCadence": "/μήνα",
-    "perUserSuffix": "/user",
+    "perUserSuffix": "/χρήστη",
     "annualBillingSuffix": "(τιμολογείται ετησίως)",
     "trustItems": [
       "Ασφαλής ολοκλήρωση αγοράς μέσω Stripe",
@@ -458,7 +458,7 @@
             "description": "Διαχειριστής προσωπικού λογαριασμού"
           },
           {
-            "title": "Team Analytics",
+            "title": "Αναλυτικά στοιχεία ομάδας",
             "description": "Πληροφορίες για τον οργανισμό σας"
           },
           {
@@ -627,7 +627,7 @@
     "lossSuffix": "/μήνα έφυγε",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/μήνα"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
