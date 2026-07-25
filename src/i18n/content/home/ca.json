@@ -466,7 +466,7 @@
             "description": "Plantilles i automatitzacions per a equips"
           }
         ],
-        "ctaLabel": "Contacta amb vendes",
+        "ctaLabel": "Contacteu amb vendes",
         "ctaNote": "Preu personalitzat disponible"
       }
     ]
@@ -514,7 +514,7 @@
     "subline": "Uneix-te als professionals que comencen el dia amb claredat, no amb caos. La vostra prova gratuïta està esperant.",
     "primaryCta": "Comenceu amb Gmail",
     "secondaryCta": "Comenceu amb Outlook",
-    "note": "14-day free trial · Cancel anytime",
+    "note": "Prova gratuïta de 14 dies · Cancel·la en qualsevol moment",
     "trustItems": [
       "Google CASA-avaluat",
       "Encriptat en repòs",
