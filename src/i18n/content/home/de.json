@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "E-Mail-Entwürfe, die wie Sie klingen",
-        "description": "DuetKI-E-Mail-Autor bereitet Entwürfe für Ihre wichtigsten E-Mails vor. Es lernt Ihren Ton und Ihren Schreibstil.",
+        "description": "Chiefy KI-E-Mail-Autor bereitet Entwürfe für Ihre wichtigsten E-Mails vor. Es lernt Ihren Ton und Ihren Schreibstil.",
         "ariaLabel": "E-Mail-Entwürfe, die nach Ihnen klingen",
         "mockCopy": {
           "draftedColdEmail": "Ich habe eine personalisierte E-Mail für John verfasst",

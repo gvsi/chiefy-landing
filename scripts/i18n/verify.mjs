@@ -18,7 +18,8 @@ function argValue(name, fallback = undefined) {
 
 const mode = argValue("--mode", "complete")
 const phase = argValue("--phase")
-const localeScope = argValue("--locales")
+const localeScopeArg = argValue("--locales")
+const localeScope = localeScopeArg
     ?.split(",")
     .map((locale) => locale.trim())
     .filter(Boolean)
@@ -379,12 +380,14 @@ function assertMessageQualityContracts(locale, messages, englishMessages) {
         if (!/[A-Za-z]{2}/u.test(value)) continue
         leakViolations.push(`${key}: ${JSON.stringify(value)}`)
     }
+    const sections = []
     if (brandViolations.length) {
-        fail(`Message catalog translated a locked brand name for ${locale}:\n  ${brandViolations.join("\n  ")}`)
+        sections.push(`  translated a locked brand name:\n    ${brandViolations.join("\n    ")}`)
     }
     if (leakViolations.length) {
-        fail(`Message still equals English in a non-Latin-script locale for ${locale}:\n  ${leakViolations.join("\n  ")}`)
+        sections.push(`  still equals English (non-Latin-script locale):\n    ${leakViolations.join("\n    ")}`)
     }
+    if (sections.length) fail(`Message catalog contract failures for ${locale}:\n${sections.join("\n")}`)
 }
 
 function sortedJsonKeys(value) {
@@ -493,12 +496,25 @@ const nonLatinScriptLocales = new Set([
 // locale: brand names above, plus initialisms these locales use verbatim.
 const latinTokenAllowlist = new Set([...brandLockedValues, "Chrome", "FAQ", "AI", "OAuth", "USD", "Web", "PDF", "vs"])
 
+// Fabricated people and companies in the mock inbox. Leaving these in Latin
+// script is a legitimate choice, so equality with English proves nothing.
+// Scoped by value rather than by a blanket `.from` path pattern, because the
+// same field also holds translatable role labels ("Marketing", "Design Team",
+// "Newsletter") that must not be exempted.
+const sampleIdentityValues = new Set([
+    "Alex Rivera",
+    "Emma Park",
+    "Sarah Chen",
+    "Michael Torres",
+    "Shopify",
+])
+
 // Paths carrying mock inbox data, machine values, or identifiers. These are the
 // same in every locale by design, so equality with English proves nothing.
 // Matched against the full path, array indices included.
 const localeInvariantHomePathPatterns = [
     /avatarLetter$/, /avatarKey$/, /logoName$/, /\.id$/, /\.action$/, /\.href$/,
-    /providers\.\d+$/, /\.from$/, /^draftShowcase\.draft\.to$/, /emailTimes/,
+    /providers\.\d+$/, /^draftShowcase\.draft\.to$/, /emailTimes/,
     /\.time$/, /\.duration$/, /fileName$/, /fileSize$/,
     /^testimonials\.items\.\d+\.name$/, /copyright/, /^footer\.tagline$/,
     /^footer\.brandLogoAlt$/, /^faq\.footerBrand$/, /^math\.duetLabel$/,
@@ -513,6 +529,27 @@ const localeInvariantHomePathPatterns = [
 
 function isLocaleInvariantHomePath(fullPath) {
     return localeInvariantHomePathPatterns.some((pattern) => pattern.test(fullPath))
+}
+
+// The brand lock only fires on values whose ENTIRE English text is a locked
+// name, so a brand embedded in a sentence slips through it. That is how the
+// rebrand left "Inaayos ng duet ang iyong inbox" on the Filipino page and
+// "DuetKI-E-Mail-Autor" on the German one. This is a token-level backstop for
+// the one name we have actually migrated away from.
+const retiredBrandPattern = /\bduet\b/iu
+// The tagline names the old brand on purpose; hrefs still carry legacy slugs.
+const retiredBrandExemptPattern = /^https?:|duetmail\.com|formerly Duet Mail|Duet Mail\b/iu
+
+function assertNoRetiredBrand(locale, relativePath, root) {
+    const hits = []
+    visitStringValues(root, (value, keyPath) => {
+        if (!retiredBrandPattern.test(value)) return
+        if (retiredBrandExemptPattern.test(value)) return
+        hits.push(`${keyPath.join(".")}: ${JSON.stringify(value.slice(0, 90))}`)
+    })
+    if (hits.length) {
+        fail(`Retired brand name "Duet" still present for ${locale} in ${relativePath}:\n  ${hits.join("\n  ")}`)
+    }
 }
 
 // Live nav/footer catalog keys whose English value carries nothing translatable
@@ -541,10 +578,20 @@ function assertLocaleScriptClassification(locales) {
     }
 }
 
+// Unsorted, so object-key reordering is caught too.
+//
+// KNOWN LIMIT: this cannot detect reordered *array elements*. Paths are
+// positional (`jsonLd.faq.0.question`), so swapping two same-shaped entries
+// yields an identical path list either way. An untranslated locale could
+// therefore reorder same-shaped entries and have its English values read as
+// "translated" at their new indices, skipping the leak check. Closing that
+// needs token-level script purity (flagging Latin runs in a non-Latin locale
+// regardless of equality with English), which requires allowlisting embedded
+// brand tokens first — see the deferred multi-word sweep.
 function homeStringPaths(value) {
     const paths = []
     visitStringValues(value, (_stringValue, keyPath) => paths.push(keyPath.join(".")))
-    return paths.sort()
+    return paths
 }
 
 // The leak and brand checks compare English to localized values by exact path.
@@ -595,18 +642,20 @@ function assertHomeQualityContracts(locale, home, englishHome) {
             }
             if (!nonLatinScriptLocales.has(locale)) return
             if (value !== english || isLocaleInvariantHomePath(dotted)) return
-            if (latinTokenAllowlist.has(value.trim())) return
+            if (latinTokenAllowlist.has(value.trim()) || sampleIdentityValues.has(value.trim())) return
             if (!/[A-Za-z]{2}/u.test(value)) return
             leakViolations.push(`${dotted}: ${JSON.stringify(value)}`)
         })
+        // Report both classes together — failing brands first would hide every
+        // leak in the same locale and cost another fix-and-rerun cycle.
+        const sections = []
         if (brandViolations.length) {
-            fail(`Home content translated a locked brand name for ${locale}:\n  ${brandViolations.join("\n  ")}`)
+            sections.push(`  translated a locked brand name:\n    ${brandViolations.join("\n    ")}`)
         }
         if (leakViolations.length) {
-            fail(
-                `Home content still equals English in a non-Latin-script locale for ${locale}:\n  ${leakViolations.join("\n  ")}`,
-            )
+            sections.push(`  still equals English (non-Latin-script locale):\n    ${leakViolations.join("\n    ")}`)
         }
+        if (sections.length) fail(`Home content contract failures for ${locale}:\n${sections.join("\n")}`)
     }
 
     if (home.jsonLd?.applicationCategory !== englishHome.jsonLd?.applicationCategory) {
@@ -938,6 +987,16 @@ function assertContractsPhase() {
 
 async function assertSourceContentFiles({ complete }) {
     const localeSource = readJson("src/i18n/locales.source.json")
+    // `--locales=` (or a list of only blanks) parses to [], which is neither
+    // null nor undefined — so it would win the ?? and silently reduce every
+    // per-locale check below to a no-op while still printing success.
+    if (localeScopeArg !== undefined && (localeScope === undefined || localeScope.length === 0)) {
+        fail("--locales was provided but empty; pass at least one locale or omit the flag")
+    }
+    const unknownScoped = (localeScope ?? []).filter((locale) => !localeSource.runtime_locales.includes(locale))
+    if (unknownScoped.length) {
+        fail(`--locales names locales that are not runtime locales: ${unknownScoped.join(", ")}`)
+    }
     const locales = localeScope ?? localeSource.runtime_locales
     const legalPages = ["cookies", "disclaimer", "privacy", "terms"]
     const verticalFiles = listFiles("src/data/verticals", ".json")
@@ -1025,6 +1084,8 @@ async function assertSourceContentFiles({ complete }) {
         const englishHome = readJson("src/i18n/content/home/en.json")
         assertHomeStructureParity(locale, home, englishHome)
         assertHomeQualityContracts(locale, home, englishHome)
+        assertNoRetiredBrand(locale, `src/i18n/content/home/${locale}.json`, home)
+        assertNoRetiredBrand(locale, `src/i18n/messages/${locale}.json`, messages)
         assertNoProtectedTermGlueInValue(locale, `src/i18n/content/home/${locale}.json`, home)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.title", home.meta?.title, englishHome.meta?.title)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.description", home.meta?.description, englishHome.meta?.description)
