@@ -688,7 +688,6 @@
         "question": "Voinko käyttää Chiefy:tä muiden sähköpostipalveluntarjoajien kanssa?",
         "answer": "Chiefy tukee Gmail-, Google Workspace- ja Microsoft Outlook -malleja. Aloita kirjautumalla sisään Google- tai Microsoft-tililläsi."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

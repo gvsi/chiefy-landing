@@ -659,7 +659,7 @@
         "description": "Ufikiaji kamili kwa uainishaji mahiri wa kikasha pokezi, rasimu za AI, mratibu na muunganisho wa kalenda"
       }
     ],
-    "operatingSystem": "Mtandao",
+    "operatingSystem": "Web",
     "browserRequirements": "Inahitaji JavaScript. Inafanya kazi na Gmail, Google Workspace, na Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Je, ninaweza kutumia Chiefy na watoa huduma wengine wa barua pepe?",
         "answer": "Chiefy inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

@@ -659,7 +659,7 @@
         "description": "Popoln dostop s pametno kategorizacijo nabiralnika, osnutki AI, pomočnikom in integracijo koledarja"
       }
     ],
-    "operatingSystem": "Splet",
+    "operatingSystem": "Web",
     "browserRequirements": "Potreben je JavaScript. Deluje z Gmail, Google Workspace in Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Ali lahko uporabljam Chiefy z drugimi ponudniki e-pošte?",
         "answer": "Chiefy podpira Gmail, Google Workspace in Microsoft Outlook. Za začetek se prijavite s svojim računom Google ali Microsoft."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

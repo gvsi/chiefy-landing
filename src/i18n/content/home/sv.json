@@ -659,7 +659,7 @@
         "description": "Full åtkomst med smart inkorgskategorisering, AI-utkast, assistent och kalenderintegrering"
       }
     ],
-    "operatingSystem": "Webb",
+    "operatingSystem": "Web",
     "browserRequirements": "Kräver JavaScript. Fungerar med Gmail, Google Workspace och Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Kan jag använda Chiefy med andra e-postleverantörer?",
         "answer": "Chiefy stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

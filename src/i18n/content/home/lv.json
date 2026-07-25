@@ -659,7 +659,7 @@
         "description": "Pilna piekļuve ar viedu iesūtnes kategorizēšanu, AI melnrakstiem, asistentu un kalendāra integrāciju"
       }
     ],
-    "operatingSystem": "Tīmeklis",
+    "operatingSystem": "Web",
     "browserRequirements": "Nepieciešams JavaScript. Darbojas ar Gmail, Google Workspace un Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Vai varu izmantot Chiefy ar citiem e-pasta pakalpojumu sniedzējiem?",
         "answer": "Chiefy atbalsta Gmail, Google Workspace un Microsoft Outlook. Lai sāktu, pierakstieties ar savu Google vai Microsoft kontu."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

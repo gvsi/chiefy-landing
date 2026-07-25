@@ -631,7 +631,7 @@
   },
   "jsonLd": {
     "websiteName": "Chiefy",
-    "websiteAlternateName": "Chiefy - AI Email Assistant for Gmail and Outlook",
+    "websiteAlternateName": "Chiefy - Gmail અને Outlook માટે AI ઇમેઇલ સહાયક",
     "organizationName": "Chiefy",
     "organizationContactType": "ગ્રાહક સપોર્ટ",
     "softwareName": "Chiefy",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "બેઝિક પ્લાન",
         "price": "0",
         "priceCurrency": "USD",
         "description": "તાત્કાલિક સારાંશ, AI ડ્રાફ્ટ્સ અને સ્માર્ટ ઇનબોક્સ સાથે મફત પ્લાન"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro પ્લાન",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "શું હું Chiefyનો ઉપયોગ અન્ય ઈમેલ પ્રોવાઇડર્સ સાથે કરી શકું?",
         "answer": "Chiefy Gmail, Google Workspace અને Microsoft Outlookને સપોર્ટ કરે છે. શરૂ કરવા માટે તમારા Google અથવા Microsoft એકાઉન્ટથી સાઇન ઇન કરો."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

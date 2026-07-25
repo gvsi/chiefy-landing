@@ -466,7 +466,7 @@
             "description": "टेम्पलेट और ऑटोमेशन"
           }
         ],
-        "ctaLabel": "संपर्क बिक्री",
+        "ctaLabel": "बिक्री टीम से संपर्क करें",
         "ctaNote": "कस्टम मूल्य निर्धारण उपलब्ध है"
       }
     ]
@@ -659,7 +659,7 @@
         "description": "स्मार्ट इनबॉक्स वर्गीकरण, AI ड्राफ्ट, सहायक और कैलेंडर एकीकरण के साथ पूर्ण पहुंच"
       }
     ],
-    "operatingSystem": "वेब",
+    "operatingSystem": "Web",
     "browserRequirements": "को जावास्क्रिप्ट की आवश्यकता है। Gmail, Google Workspace, और Microsoft Outlook के साथ काम करता है।",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "क्या मैं अन्य ईमेल प्रदाताओं के साथ Chiefy का उपयोग कर सकता हूँ?",
         "answer": "Chiefy Gmail, Google Workspace और Microsoft Outlook को सपोर्ट करता है। आरंभ करने के लिए अपने Google या Microsoft खाते से साइन इन करें।"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

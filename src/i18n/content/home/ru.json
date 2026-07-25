@@ -659,7 +659,7 @@
         "description": "Полный доступ с умной категоризацией входящих, AI-черновиками, помощником и интеграцией календаря"
       }
     ],
-    "operatingSystem": "Веб",
+    "operatingSystem": "Web",
     "browserRequirements": "Требуется JavaScript. Работает с Gmail, Google Workspace и Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Могу ли я использовать Chiefy с другими почтовыми провайдерами?",
         "answer": "Chiefy поддерживает Gmail, Google Workspace и Microsoft Outlook. Войдите в свой аккаунт Google или Microsoft, чтобы начать."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

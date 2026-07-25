@@ -659,7 +659,7 @@
         "description": "Visiška prieiga su išmaniųjų gautųjų kategorizavimu,AI juodraščiais, asistentu ir kalendoriaus integravimu"
       }
     ],
-    "operatingSystem": "Žiniatinklis",
+    "operatingSystem": "Web",
     "browserRequirements": "Reikia JavaScript. Veikia su Gmail, Google Workspace ir Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Ar galiu naudoti Chiefy su kitais el. pašto paslaugų teikėjais?",
         "answer": "Chiefy palaiko Gmail, Google Workspace ir Microsoft Outlook. Jei norite pradėti, prisijunkite naudodami savo Google arba Microsoft paskyrą."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

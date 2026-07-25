@@ -659,7 +659,7 @@
         "description": "Πλήρης πρόσβαση με έξυπνη κατηγοριοποίηση εισερχομένων, προσχέδια AI, βοηθό και ενσωμάτωση ημερολογίου"
       }
     ],
-    "operatingSystem": "Ιστός",
+    "operatingSystem": "Web",
     "browserRequirements": "Απαιτεί JavaScript. Λειτουργεί με Gmail, Google Workspace και Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Μπορώ να χρησιμοποιήσω το Chiefy με άλλους παρόχους email;",
         "answer": "Το Chiefy υποστηρίζει χώρο εργασίας Gmail, Google και Microsoft Outlook. Συνδεθείτε με τον λογαριασμό σας Google ή Microsoft για να ξεκινήσετε."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

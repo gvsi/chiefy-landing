@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "ಬೇಸಿಕ್ ಯೋಜನೆ",
         "price": "0",
         "priceCurrency": "USD",
         "description": "ತ್ವರಿತ ಸಾರಾಂಶಗಳು, AI ಡ್ರಾಫ್ಟ್‌ಗಳು ಮತ್ತು ಸ್ಮಾರ್ಟ್ ಇನ್‌ಬಾಕ್ಸ್‌ನೊಂದಿಗೆ ಉಚಿತ ಯೋಜನೆ"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro ಯೋಜನೆ",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "ಸ್ಮಾರ್ಟ್ ಇನ್‌ಬಾಕ್ಸ್ ವರ್ಗೀಕರಣ, AI ಡ್ರಾಫ್ಟ್‌ಗಳು, ಸಹಾಯಕ ಮತ್ತು ಕ್ಯಾಲೆಂಡರ್ ಏಕೀಕರಣದೊಂದಿಗೆ ಪೂರ್ಣ ಪ್ರವೇಶ"
       }
     ],
-    "operatingSystem": "ವೆಬ್",
+    "operatingSystem": "Web",
     "browserRequirements": "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಅಗತ್ಯವಿದೆ. Gmail, Google Workspace, ಮತ್ತು Microsoft ಔಟ್‌ಲುಕ್‌ನೊಂದಿಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "ನಾನು ಇತರ ಇಮೇಲ್ ಪೂರೈಕೆದಾರರೊಂದಿಗೆ Chiefy ಅನ್ನು ಬಳಸಬಹುದೇ?",
         "answer": "Chiefy Gmail, Google Workspace, ಮತ್ತು Microsoft ಔಟ್ಲುಕ್ ಅನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ. ಪ್ರಾರಂಭಿಸಲು ನಿಮ್ಮ Google ಅಥವಾ Microsoft ಖಾತೆಯೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

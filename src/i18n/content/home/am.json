@@ -659,7 +659,7 @@
         "description": "ሙሉ መዳረሻ ከብልጥ የገቢ መልእክት ሳጥን ምድብ ፣ AI ረቂቆች ፣ ረዳት እና የቀን መቁጠሪያ ውህደት ጋር"
       }
     ],
-    "operatingSystem": "ድር",
+    "operatingSystem": "Web",
     "browserRequirements": "JavaScript ያስፈልገዋል። ከGmail፣ Google Workspace እና Microsoft Outlook ጋር ይሰራል።",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "ከሌሎች የኢሜይል አቅራቢዎች ጋር Chiefy መጠቀም እችላለሁ?",
         "answer": "Chiefy Gmail፣ Google Workspace እና Microsoft Outlookን ይደግፋል። ለመጀመር በGoogle ወይም Microsoft መለያ ይግቡ።"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

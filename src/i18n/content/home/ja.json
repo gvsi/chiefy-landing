@@ -214,7 +214,7 @@
   },
   "draftShowcase": {
     "ariaLabel": "AI 電子メールの作成と返信の生成",
-    "badge": "製図",
+    "badge": "下書き",
     "title": "あなたの声でChiefyドラフト",
     "subtitle": "Chiefy はあなたの書き方を学習し、あなたの口調に合った返信の下書きを作成します。 確認して必要に応じて調整し、数秒で送信します。",
     "windowTitle": "新しいメッセージ",
@@ -688,7 +688,6 @@
         "question": "Chiefy を他の電子メール プロバイダーで使用できますか?",
         "answer": "Chiefy は、Gmail、Google Workspace、および Microsoft Outlook をサポートします。 開始するには、Google または Microsoft アカウントでサインインしてください。"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

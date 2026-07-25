@@ -491,9 +491,14 @@ const localeInvariantHomePathPatterns = [
     /avatarLetter$/, /avatarKey$/, /logoName$/, /\.id$/, /\.action$/, /\.href$/,
     /providers\.\d+$/, /\.from$/, /^draftShowcase\.draft\.to$/, /emailTimes/,
     /\.time$/, /\.duration$/, /fileName$/, /fileSize$/,
-    /^testimonials\.items\.\d+\.name$/, /^jsonLd\./, /copyright/, /^footer\.tagline$/,
+    /^testimonials\.items\.\d+\.name$/, /copyright/, /^footer\.tagline$/,
     /^footer\.brandLogoAlt$/, /^faq\.footerBrand$/, /^math\.duetLabel$/,
     /^pricing\.plans\.\d+\.name$/,
+    // Only the machine-valued part of jsonLd is locale-invariant. The rest
+    // (websiteAlternateName, browserRequirements, descriptions, offer names) is
+    // translatable SEO copy that ships inside the rendered ld+json.
+    /^jsonLd\.urls\./, /^jsonLd\.applicationCategory$/, /^jsonLd\.operatingSystem$/,
+    /^jsonLd\.offers\.\d+\.(price|priceCurrency|unitText)$/,
 ]
 
 function isLocaleInvariantHomePath(fullPath) {
@@ -507,6 +512,44 @@ const localeInvariantMessageKeys = new Set([
     "footer.copyrightTemplate",
 ])
 
+// Every runtime locale must be classified, so a newly added locale cannot ship
+// with the leak check silently disabled.
+const latinScriptLocales = new Set([
+    "ca", "cs", "da", "de", "en", "en-XA", "es", "et", "fi", "fil", "fr", "hr", "hu",
+    "id", "it", "lt", "lv", "ms", "nb", "nl", "pl", "pt-BR", "pt-PT", "ro", "sk",
+    "sl", "sr", "sv", "sw", "tr", "vi",
+])
+
+function assertLocaleScriptClassification(locales) {
+    const unclassified = locales.filter(
+        (locale) => !nonLatinScriptLocales.has(locale) && !latinScriptLocales.has(locale),
+    )
+    if (unclassified.length) {
+        fail(
+            `Locale is not classified as Latin or non-Latin script, so the English-leak check would silently skip it: ${unclassified.join(", ")}`,
+        )
+    }
+}
+
+function homeStringPaths(value) {
+    const paths = []
+    visitStringValues(value, (_stringValue, keyPath) => paths.push(keyPath.join(".")))
+    return paths.sort()
+}
+
+// The leak and brand checks compare English to localized values by exact path.
+// If a locale's structure drifts, those lookups miss and the checks pass
+// vacuously — so parity is a precondition, not a nicety.
+function assertHomeStructureParity(locale, home, englishHome) {
+    const english = homeStringPaths(englishHome).join("\n")
+    const localized = homeStringPaths(home)
+        .filter((keyPath) => keyPath !== "translationStatus")
+        .join("\n")
+    if (english !== localized) {
+        fail(`Home content string structure diverges from English for ${locale}`)
+    }
+}
+
 function assertHomeQualityContracts(locale, home, englishHome) {
     if (locale !== "en-XA" && home.faq?.footerBrand !== "CHIEFY") {
         fail(`Home FAQ brand must preserve Chiefy for ${locale}`)
@@ -516,8 +559,10 @@ function assertHomeQualityContracts(locale, home, englishHome) {
     // one exception per CI run is what let the corpus drift in the first place.
     if (locale !== "en" && locale !== "en-XA") {
         // Key on the full path including array indices: sibling entries such as
-        // footer.groups[3].links[*].label are distinct strings, and structural
-        // parity is already enforced, so positions line up across locales.
+        // footer.groups[3].links[*].label are distinct strings. Positions lining
+        // up across locales is guaranteed by assertHomeStructureParity, which
+        // must run before this — without it a renamed or reordered key would
+        // resolve to undefined here and be skipped silently.
         const englishValues = new Map()
         visitStringValues(englishHome, (value, keyPath) => {
             englishValues.set(keyPath.join("."), value)
@@ -828,6 +873,7 @@ function assertLocaleContract() {
     for (const locale of runtimeLocales) {
         if (!localesTs.includes(`"${locale}"`)) fail(`Locale missing from locales.ts: ${locale}`)
     }
+    assertLocaleScriptClassification(runtimeLocales)
 }
 
 function assertGlossaryContract() {
@@ -962,6 +1008,7 @@ async function assertSourceContentFiles({ complete }) {
         assertNoProtectedTermGlueInValue(locale, `src/i18n/messages/${locale}.json`, messages)
         const home = readJson(`src/i18n/content/home/${locale}.json`)
         const englishHome = readJson("src/i18n/content/home/en.json")
+        assertHomeStructureParity(locale, home, englishHome)
         assertHomeQualityContracts(locale, home, englishHome)
         assertNoProtectedTermGlueInValue(locale, `src/i18n/content/home/${locale}.json`, home)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.title", home.meta?.title, englishHome.meta?.title)

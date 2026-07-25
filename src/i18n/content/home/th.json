@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "แผนพื้นฐาน",
         "price": "0",
         "priceCurrency": "USD",
         "description": "แผนฟรีพร้อมสรุปทันที ร่างด้วย AI และ smart inbox"
       },
       {
-        "name": "Pro Plan",
+        "name": "แผน Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -660,7 +660,7 @@
       }
     ],
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "ต้องใช้ JavaScript ทำงานร่วมกับ Gmail, Google Workspace และ Microsoft Outlook",
     "urls": {
       "site": "https://chiefy.com/",
       "logo": "https://chiefy.com/favicon.svg",
@@ -688,7 +688,6 @@
         "question": "ฉันใช้ Chiefy กับผู้ให้บริการอีเมลอื่นได้ไหม?",
         "answer": "Chiefy รองรับ Gmail, Google Workspace และ Microsoft Outlook ลงชื่อเข้าใช้ด้วยบัญชี Google หรือ Microsoft ของคุณเพื่อเริ่มต้น"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

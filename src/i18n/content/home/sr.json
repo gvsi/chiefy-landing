@@ -44,7 +44,7 @@
         "avatarLetter": "A",
         "subject": "Re: Vremenska linija lansiranja proizvoda",
         "preview": "Hej! Želeo sam da proverim sredstva za lansiranje. Da li smo još na pravom putu za sledeću nedelju...",
-        "pill": "To Respond"
+        "pill": "Za odgovor"
       },
       {
         "from": "Emma Park",
@@ -659,7 +659,7 @@
         "description": "Potpun pristup sa pametnom kategorizacijom prijemnog sandučeta, AI nacrtima, pomoćnikom i integracijom kalendara"
       }
     ],
-    "operatingSystem": "Veb",
+    "operatingSystem": "Web",
     "browserRequirements": "Zahteva JavaScript. Radi sa Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Mogu li da koristim Chiefy sa drugim provajderima e-pošte?",
         "answer": "Chiefy podržava Gmail, Google Workspace i Microsoft Outlook. Prijavite se pomoću naloga Google ili Microsoft da biste započeli."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

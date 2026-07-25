@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "அடிப்படைத் திட்டம்",
         "price": "0",
         "priceCurrency": "USD",
         "description": "உடனடி சுருக்கங்கள், AI வரைவுகள் மற்றும் ஸ்மார்ட் இன்பாக்ஸுடன் இலவச திட்டம்"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro திட்டம்",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "ஸ்மார்ட் இன்பாக்ஸ் வகைப்படுத்தல், AI வரைவுகள், உதவியாளர் மற்றும் காலண்டர் ஒருங்கிணைப்புடன் முழு அணுகல்"
       }
     ],
-    "operatingSystem": "இணையம்",
+    "operatingSystem": "Web",
     "browserRequirements": "JavaScript தேவை. Gmail, Google Workspace மற்றும் Microsoft Outlook உடன் வேலை செய்கிறது.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "நான் மற்ற மின்னஞ்சல் வழங்குநர்களுடன் Chiefy ஐப் பயன்படுத்தலாமா?",
         "answer": "Chiefy Gmail, Google Workspace மற்றும் Microsoft Outlook ஆகியவற்றை ஆதரிக்கிறது. தொடங்குவதற்கு உங்கள் Google அல்லது Microsoft கணக்கில் உள்நுழையவும்."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

@@ -688,7 +688,6 @@
         "question": "Puis-je utiliser Chiefy avec d’autres fournisseurs d’e-mail ?",
         "answer": "Chiefy prend en charge Gmail, Google Workspace et Microsoft Outlook. Connectez-vous avec votre compte Google ou Microsoft pour commencer."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

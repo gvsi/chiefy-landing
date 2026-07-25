@@ -250,7 +250,7 @@
   },
   "agentChatShowcase": {
     "ariaLabel": "AI 邮件智能与助手",
-    "badge": "情报",
+    "badge": "智能",
     "title": "询问任何有关您的电子邮件的问题",
     "subtitle": "请 Chiefy 查找电子邮件、查看日历或起草回复。它了解您的收件箱并立即回复。",
     "windowTitle": "Chiefy 智能体",
@@ -659,7 +659,7 @@
         "description": "完全访问智能收件箱分类、AI草稿、助手和日历集成"
       }
     ],
-    "operatingSystem": "网络",
+    "operatingSystem": "Web",
     "browserRequirements": "需要 JavaScript。适用于 Gmail、Google Workspace 和 Microsoft Outlook。",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "我可以将 Chiefy 与其他电子邮件提供商一起使用吗？",
         "answer": "Chiefy支持Gmail、Google Workspace和Microsoft Outlook。使用您的 Google 或 Microsoft 帐户登录即可开始。"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

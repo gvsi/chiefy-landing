@@ -214,7 +214,7 @@
   },
   "draftShowcase": {
     "ariaLabel": "AI 電子郵件起草和回覆生成",
-    "badge": "起草",
+    "badge": "草擬",
     "title": "Chiefy 用你的聲音草稿",
     "subtitle": "Chiefy 會學習您的寫作方式並起草符合您語氣的回應。查看並根據需要進行調整，然後在幾秒鐘內發送。",
     "windowTitle": "新訊息",
@@ -250,11 +250,11 @@
   },
   "agentChatShowcase": {
     "ariaLabel": "AI 電子郵件智慧與助手",
-    "badge": "情報",
+    "badge": "智能",
     "title": "詢問任何有關您的電子郵件的問題",
     "subtitle": "請 Chiefy 尋找電子郵件、檢查日曆或起草回覆。它了解您的收件匣並立即回覆。",
     "windowTitle": "Chiefy 智慧代理",
-    "onlineLabel": "網路",
+    "onlineLabel": "線上",
     "initialUserMessage": "您能找到會計發送的 Stripe 發票嗎？",
     "processingText": "正在搜尋收件匣...",
     "foundHeader": "找到 2 封來自 Stripe 的電子郵件",
@@ -659,7 +659,7 @@
         "description": "完全存取智慧收件匣分類、AI 草稿、助理和日曆整合"
       }
     ],
-    "operatingSystem": "網路",
+    "operatingSystem": "Web",
     "browserRequirements": "需要 JavaScript。適用於 Gmail、Google Workspace 和 Microsoft Outlook。",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "我可以將 Chiefy 與其他電子郵件提供者一起使用嗎？",
         "answer": "Chiefy 支援 Gmail、Google Workspace 和 Microsoft Outlook。使用您的 Google 或 Microsoft 帳號登入即可開始。"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

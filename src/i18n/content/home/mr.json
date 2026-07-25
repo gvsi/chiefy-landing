@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "बेसिक योजना",
         "price": "0",
         "priceCurrency": "USD",
         "description": "तात्काळ सारांश, AI ड्राफ्ट्स, आणि स्मार्ट इनबॉक्स असलेली मोफत योजना"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro योजना",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "मी Chiefy इतर ईमेल प्रदात्यांसोबत वापरू शकतो का?",
         "answer": "Chiefy Gmail, Google Workspace, आणि Microsoft Outlook ला समर्थन देते. सुरुवात करण्यासाठी तुमच्या Google किंवा Microsoft खात्याने साइन इन करा."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

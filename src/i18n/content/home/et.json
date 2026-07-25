@@ -659,7 +659,7 @@
         "description": "Täielik juurdepääs nutika postkasti kategoriseerimise, AI mustandite, assistendi ja kalendri integreerimisega"
       }
     ],
-    "operatingSystem": "Veeb",
+    "operatingSystem": "Web",
     "browserRequirements": "Nõuab JavaScripti. Töötab parameetritega Gmail, Google tööruumi ja Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Kas ma saan kasutada numbrit Chiefy koos teiste meiliteenuse pakkujatega?",
         "answer": "Chiefy toetab Gmail, Google tööruumi ja Microsoft Outlook. Alustamiseks logige sisse oma Google või Microsoft kontoga."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }
