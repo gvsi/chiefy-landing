@@ -394,7 +394,7 @@
             "description": "የAI ረዳትን ይሞክሩ"
           }
         ],
-        "ctaLabel": "Gmail ወይም Outlook ን ይምረጡ"
+        "ctaLabel": "በነጻ ይጀምሩ"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "እውነተኛ ሰዎች ፣ ፈጣን ምላሾች"
           }
         ],
-        "ctaLabel": "Gmail ወይም Outlook ን ይምረጡ",
+        "ctaLabel": "ነጻ ሙከራ ይጀምሩ",
         "featured": true
       },
       {

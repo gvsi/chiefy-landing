@@ -394,7 +394,7 @@
             "description": "AI アシスタントを試してみる"
           }
         ],
-        "ctaLabel": "Gmail または Outlook を選択してください"
+        "ctaLabel": "無料で始める"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "本物の人間、素早い反応"
           }
         ],
-        "ctaLabel": "Gmail または Outlook を選択してください",
+        "ctaLabel": "無料トライアルを始める",
         "featured": true
       },
       {

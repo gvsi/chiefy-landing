@@ -394,7 +394,7 @@
             "description": "Subukan ang AI assistant"
           }
         ],
-        "ctaLabel": "Piliin ang Gmail o Outlook"
+        "ctaLabel": "Magsimula nang libre"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Tunay na tao, mabilis na tugon"
           }
         ],
-        "ctaLabel": "Piliin ang Gmail o Outlook",
+        "ctaLabel": "Magsimula sa libreng pagsubok",
         "featured": true
       },
       {

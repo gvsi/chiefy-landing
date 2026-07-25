@@ -394,7 +394,7 @@
             "description": "Kokeile AI-avustajaa"
           }
         ],
-        "ctaLabel": "Valitse Gmail tai Outlook"
+        "ctaLabel": "Aloita ilmaiseksi"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Todelliset ihmiset, nopeat vastaukset"
           }
         ],
-        "ctaLabel": "Valitse Gmail tai Outlook",
+        "ctaLabel": "Aloita ilmainen kokeilu",
         "featured": true
       },
       {

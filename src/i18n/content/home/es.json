@@ -394,7 +394,7 @@
             "description": "Prueba el asistente de IA"
           }
         ],
-        "ctaLabel": "Elegir Gmail u Outlook"
+        "ctaLabel": "Empezar gratis"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Humanos reales, respuestas rápidas"
           }
         ],
-        "ctaLabel": "Elegir Gmail u Outlook",
+        "ctaLabel": "Empezar prueba gratuita",
         "featured": true
       },
       {

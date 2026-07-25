@@ -394,11 +394,11 @@
             "description": "Proveu l'assistent AI"
           }
         ],
-        "ctaLabel": "Trieu Gmail o Outlook"
+        "ctaLabel": "Comenceu gratis"
       },
       {
         "name": "Pro",
-        "badge": "14-day free trial",
+        "badge": "Prova gratuïta de 14 dies",
         "description": "Per a professionals que volen una automatització més profunda, integracions i una safata d'entrada que sàpiga realment com treballeu.",
         "priceByBilling": {
           "annual": "19.99",
@@ -437,7 +437,7 @@
             "description": "Humans reals, respostes ràpides"
           }
         ],
-        "ctaLabel": "Trieu Gmail o Outlook",
+        "ctaLabel": "Comenceu la prova gratuïta",
         "featured": true
       },
       {

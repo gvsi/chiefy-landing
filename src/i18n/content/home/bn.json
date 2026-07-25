@@ -394,7 +394,7 @@
             "description": "AI সহকারী ব্যবহার করে দেখুন"
           }
         ],
-        "ctaLabel": "Gmail বা Outlook বেছে নিন"
+        "ctaLabel": "বিনামূল্যে শুরু করুন"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "বাস্তব মানুষ, দ্রুত প্রতিক্রিয়া"
           }
         ],
-        "ctaLabel": "Gmail বা Outlook বেছে নিন",
+        "ctaLabel": "বিনামূল্যে ট্রায়াল শুরু করুন",
         "featured": true
       },
       {

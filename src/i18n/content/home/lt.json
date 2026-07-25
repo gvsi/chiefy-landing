@@ -394,7 +394,7 @@
             "description": "Išbandykite AI asistentą"
           }
         ],
-        "ctaLabel": "Pasirinkite Gmail arba Outlook"
+        "ctaLabel": "Pradėkite nemokamai"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Tikri žmonės, greiti atsakymai"
           }
         ],
-        "ctaLabel": "Pasirinkite Gmail arba Outlook",
+        "ctaLabel": "Pradėkite nemokamą bandymą",
         "featured": true
       },
       {

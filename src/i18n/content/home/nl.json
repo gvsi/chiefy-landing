@@ -394,7 +394,7 @@
             "description": "Probeer de AI-assistent"
           }
         ],
-        "ctaLabel": "Kies Gmail of Outlook"
+        "ctaLabel": "Begin gratis"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Echte mensen, snelle reacties"
           }
         ],
-        "ctaLabel": "Kies Gmail of Outlook",
+        "ctaLabel": "Start gratis proefperiode",
         "featured": true
       },
       {

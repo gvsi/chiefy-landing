@@ -394,7 +394,7 @@
             "description": "AI asistanını deneyin"
           }
         ],
-        "ctaLabel": "Gmail veya Outlook'ı seçin."
+        "ctaLabel": "Ücretsiz başlayın"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Gerçek insanlar, hızlı yanıtlar"
           }
         ],
-        "ctaLabel": "Gmail veya Outlook'ı seçin.",
+        "ctaLabel": "Ücretsiz denemeyi başlatın",
         "featured": true
       },
       {

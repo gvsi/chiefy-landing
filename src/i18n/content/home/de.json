@@ -394,7 +394,7 @@
             "description": "Probieren Sie den KI-Assistenten aus"
           }
         ],
-        "ctaLabel": "Wählen Sie Gmail oder Outlook"
+        "ctaLabel": "Kostenlos starten"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Echte Menschen, schnelle Antworten"
           }
         ],
-        "ctaLabel": "Wählen Sie Gmail oder Outlook",
+        "ctaLabel": "Kostenlose Testversion starten",
         "featured": true
       },
       {

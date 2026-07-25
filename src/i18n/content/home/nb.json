@@ -394,7 +394,7 @@
             "description": "Prøv AI-assistenten"
           }
         ],
-        "ctaLabel": "Velg Gmail eller Outlook"
+        "ctaLabel": "Kom i gang gratis"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Ekte mennesker, raske svar"
           }
         ],
-        "ctaLabel": "Velg Gmail eller Outlook",
+        "ctaLabel": "Start gratis prøveperiode",
         "featured": true
       },
       {

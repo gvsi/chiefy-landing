@@ -394,7 +394,7 @@
             "description": "Vyskúšajte AI asistenta"
           }
         ],
-        "ctaLabel": "Vyberte si Gmail alebo Outlook"
+        "ctaLabel": "Začať zadarmo"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Skutoční ľudia, rýchle odpovede"
           }
         ],
-        "ctaLabel": "Vyberte si Gmail alebo Outlook",
+        "ctaLabel": "Začať skúšobnú verziu zdarma",
         "featured": true
       },
       {

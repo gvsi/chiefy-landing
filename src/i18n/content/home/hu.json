@@ -394,7 +394,7 @@
             "description": "Próbáld ki az AI-asszisztenst"
           }
         ],
-        "ctaLabel": "Válassza a Gmail vagy a Outlook lehetőséget"
+        "ctaLabel": "Kezdje ingyen"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Igazi emberek, gyors válaszok"
           }
         ],
-        "ctaLabel": "Válassza a Gmail vagy a Outlook lehetőséget",
+        "ctaLabel": "Kezdje az ingyenes próbaverziót",
         "featured": true
       },
       {

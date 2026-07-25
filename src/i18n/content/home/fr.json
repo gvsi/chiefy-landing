@@ -394,7 +394,7 @@
             "description": "Essayer l’assistant IA"
           }
         ],
-        "ctaLabel": "Choisir Gmail ou Outlook"
+        "ctaLabel": "Commencer gratuitement"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "De vraies personnes, des réponses rapides"
           }
         ],
-        "ctaLabel": "Choisir Gmail ou Outlook",
+        "ctaLabel": "Commencer l'essai gratuit",
         "featured": true
       },
       {

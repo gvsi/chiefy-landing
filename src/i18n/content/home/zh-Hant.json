@@ -394,7 +394,7 @@
             "description": "試試 AI 助手"
           }
         ],
-        "ctaLabel": "選擇 Gmail 或 Outlook"
+        "ctaLabel": "免費開始"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "真人，快速反應"
           }
         ],
-        "ctaLabel": "選擇 Gmail 或 Outlook",
+        "ctaLabel": "開始免費試用",
         "featured": true
       },
       {

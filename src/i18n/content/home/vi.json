@@ -394,7 +394,7 @@
             "description": "Dùng thử trợ lý AI"
           }
         ],
-        "ctaLabel": "Chọn Gmail hoặc Outlook"
+        "ctaLabel": "Bắt đầu miễn phí"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Con người thật, phản hồi nhanh"
           }
         ],
-        "ctaLabel": "Chọn Gmail hoặc Outlook",
+        "ctaLabel": "Bắt đầu dùng thử miễn phí",
         "featured": true
       },
       {

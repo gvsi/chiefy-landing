@@ -394,7 +394,7 @@
             "description": "Попробуйте ИИ-помощника"
           }
         ],
-        "ctaLabel": "Выберите Gmail или Outlook"
+        "ctaLabel": "Начать бесплатно"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Живые люди, быстрые ответы"
           }
         ],
-        "ctaLabel": "Выбирайте Gmail или Outlook",
+        "ctaLabel": "Начать бесплатный пробный период",
         "featured": true
       },
       {

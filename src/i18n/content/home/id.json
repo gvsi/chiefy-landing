@@ -394,7 +394,7 @@
             "description": "Coba asisten AI"
           }
         ],
-        "ctaLabel": "Pilih Gmail atau Outlook"
+        "ctaLabel": "Mulai gratis"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Manusia nyata, respon cepat"
           }
         ],
-        "ctaLabel": "Pilih Gmail atau Outlook",
+        "ctaLabel": "Mulai uji coba gratis",
         "featured": true
       },
       {

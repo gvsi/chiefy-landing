@@ -394,7 +394,7 @@
             "description": "Try the AI assistant"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Get started free"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Real humans, fast responses"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Start free trial",
         "featured": true
       },
       {
